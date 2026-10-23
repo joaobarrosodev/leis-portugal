@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/19100/27242725.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1985-181049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59f32a1de488e0759e2fa59ff4aaf97d76ce376494098d7d493b4e95b11d11da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e06ab122814d089d08277fb18b66cdff62c0c00a71f1ec123b06659e3a7890c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Empresa Privada
+- Empresa Pública
+- Inspecção Geral do Trabalho
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:653129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:460606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:653129:por
+  label: "Revogado pelo DEC LEI.332/93.25.09.1993.MESS, DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-1993-653129
+  date: '1993-09-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:18Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +115,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 1 do artigo 2.º do [Decreto-Lei n.º 380/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1980-460606), de 17 de Setembro, passa a ter a seguinte redacção:
+Artigo único. O n.º 1 do artigo 2.º do [Decreto-Lei n.º 380/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1980-460606), de 17 de Setembro, passa a ter a seguinte redacção:
 
 1 - O original e uma cópia do mapa I anexo serão enviados, de 1 de Abril a 31 de Maio de cada ano, com dados actualizados em relação a Março anterior:
 
@@ -111,12 +127,12 @@ b) Em relação a trabalhadores de estabelecimentos situados nas Regiões Autón
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Amândio Anes de Azevedo - Tomás George Conceição Silva - Lino Dias Miguel.
 
-**Promulgado em 8 de Agosto de 1985.**
+Promulgado em 8 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Agosto de 1985.**
+Referendado em 12 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

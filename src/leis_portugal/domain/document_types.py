@@ -34,6 +34,12 @@ class DocumentTypeRegistry:
             for alias in entry.get("aliases") or []:
                 self._aliases[alias] = slug
         self.territories: dict[str, dict[str, Any]] = config.get("territories") or {}
+        # Tipos sobretudo da 2.ª Série: contados na cobertura, recolhidos só a pedido.
+        self.sitemap_optional = frozenset(self.resolve(slug).slug for slug in config.get("sitemap_optional") or [])
+
+    def order(self, slug: str) -> int:
+        """Posição do tipo no vocabulário (a ordem de `document_types.yml`); desconhecidos no fim."""
+        return list(self._types).index(slug) if slug in self._types else len(self._types)
 
     def resolve(self, raw: str | None) -> DocumentType:
         key = slugify(raw or "desconhecido")

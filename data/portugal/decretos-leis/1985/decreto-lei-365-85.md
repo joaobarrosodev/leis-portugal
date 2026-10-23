@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1985-179047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: accaa53ced2e9d59dfe8c3999f9b96ceeba4c5734e9d755ce12ab7936a4e59c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e77322a5f2cd061fbb89ab1f495e1d53e2e417ff8766aebcf38e102a4bbb9ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Capital Social
+- Empresa Privada
+- Empresa Pública
+- Expropriação
+- Indemnização
+- Nacionalização
+relationships:
+- type: cites
+  target: pt:dre:326771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397495:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:51Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +112,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - Os títulos representativos de direito à indemnização de bens nacionalizados ou expropriados na posse do Estado poderão ser utilizados, ao valor facial, para realização de aumentos de capital de empresas públicas ou equiparadas e de empresas privadas.
+Artigo único. - Os títulos representativos de direito à indemnização de bens nacionalizados ou expropriados na posse do Estado poderão ser utilizados, ao valor facial, para realização de aumentos de capital de empresas públicas ou equiparadas e de empresas privadas.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 28 de Agosto de 1985.**
+Promulgado em 28 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Agosto de 1985.**
+Referendado em 30 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

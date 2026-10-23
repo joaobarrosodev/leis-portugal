@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1985-327143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bb82a527c933befbaca5ee903a1eb90ed2cb1a231cc72906b127348bde72cde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a9c0932c85e29a0a0650923cd9c1378613cac06c47009fc4fa1194646fd7a30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Nacional de Design
+- Criação de Serviços
+- Desenvolvimento Industrial
+- Design
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:314176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444401:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:39Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +121,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Design, para efeitos do presente diploma, é a actividade criativa que cuida das qualidades formais dos objectos em função de padrões estéticos e culturais e, simultaneamente, da melhor adequação desses objectos à sua função e ao seu uso.
+Artigo 1.º Design, para efeitos do presente diploma, é a actividade criativa que cuida das qualidades formais dos objectos em função de padrões estéticos e culturais e, simultaneamente, da melhor adequação desses objectos à sua função e ao seu uso.
 
-###### Art. 2.º São objectivos da política de design:
+Art. 2.º São objectivos da política de design:
 
 a) A promoção do design e actividades afins;
 
@@ -118,13 +131,13 @@ b) A identificação dos sectores de produção que justifiquem uma particular p
 
 c) O apoio às actividades de design industrial e design visual, no âmbito das empresas, tendo em vista aumentar a sua competitividade, através da melhoria da qualidade global dos respectivos produtos.
 
-###### Art. 3.º - 1 - Para a prossecução dos objectivos definidos é criado o Centro Nacional de Design (CND), cujos estatutos deverão obedecer aos princípios jurídicos e institucionais definidos para os centros tecnológicos no [Decreto-Lei n.º 461/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-1983-314176), de 30 de Dezembro.
+Art. 3.º - 1 - Para a prossecução dos objectivos definidos é criado o Centro Nacional de Design (CND), cujos estatutos deverão obedecer aos princípios jurídicos e institucionais definidos para os centros tecnológicos no [Decreto-Lei n.º 461/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-1983-314176), de 30 de Dezembro.
 
 2 - O acordo constitutivo será homologado por portaria conjunta dos Ministros da Indústria e Energia do Equipamento Social e da Cultura.
 
-###### Art. 4.º O Centro Nacional de Design tem por fim prosseguir a política definida de design, através de acções de promoção e informação, de formação e aperfeiçoamento, de avaliação e desenvolvimento de produtos e de assistência técnica e investigação.
+Art. 4.º O Centro Nacional de Design tem por fim prosseguir a política definida de design, através de acções de promoção e informação, de formação e aperfeiçoamento, de avaliação e desenvolvimento de produtos e de assistência técnica e investigação.
 
-###### Art. 5.º Para o desempenho das atribuições que que lhe são cometidas, compete ao Centro Nacional de Design:
+Art. 5.º Para o desempenho das atribuições que que lhe são cometidas, compete ao Centro Nacional de Design:
 
 1 - No campo da promoção e informação:
 
@@ -164,28 +177,28 @@ c) Desenvolvimento de novos conceitos e tendências de design aplicáveis a dife
 
 d) Estudos de ergonomia aplicada e elaboração de especificações técnicas relativamente a aspectos de uso e função dos produtos.
 
-###### Art. 6.º - 1 - Poderão ser sócios do Centro Nacional de Design organismos personalizados do Estado e outras pessoas colectivas de direito público e as associações empresariais.
+Art. 6.º - 1 - Poderão ser sócios do Centro Nacional de Design organismos personalizados do Estado e outras pessoas colectivas de direito público e as associações empresariais.
 
 2 - Serão sócios fundadores do Centro Nacional de Design organismos personalizados dos Ministérios da Indústria e Energia, do Equipamento Social e da Cultura, associações industriais e profissionais e o CEDINTEC - Centro para o Desenvolvimento e Inovação Tecnológicos.
 
 3 - Para além das receitas próprias do Centro Nacional de Design, os sócios assegurarão, pela forma prevista nos estatutos, as quantias necessárias ao seu funcionamento, podendo ainda o Estado conceder subsídio destinados a assegurar a consecução dos interesses públicos que lhe são cometidos e de acordo com os respectivos orçamentos.
 
-###### Art. 7.º - 1 - Poderão prestar serviço no Centro Nacional de Design, em comissão de serviço ou em regime de requisição, funcionários da Administração Pública e das autarquias locais e trabalhadores de empresas públicas e privadas, para o que a direcção do Centro promoverá a sua requisição ou destacamento através do Ministério da Indústria e Energia.
+Art. 7.º - 1 - Poderão prestar serviço no Centro Nacional de Design, em comissão de serviço ou em regime de requisição, funcionários da Administração Pública e das autarquias locais e trabalhadores de empresas públicas e privadas, para o que a direcção do Centro promoverá a sua requisição ou destacamento através do Ministério da Indústria e Energia.
 
 2 - Os funcionários e trabalhadores em comissão de serviço no Centro Nacional de Design nos termos do número anterior manterão todos os direitos inerentes ao seu quadro de origem, considerando-se todo o período de comissão como prestado nesse quadro.
 
-###### Art. 8.º Ao Centro Nacional de Desing é reconhecido interesse nacional, para os efeitos do [Decreto-Lei n.º 447/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1983-444401), de 26 de Dezembro.
+Art. 8.º Ao Centro Nacional de Desing é reconhecido interesse nacional, para os efeitos do [Decreto-Lei n.º 447/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1983-444401), de 26 de Dezembro.
 
-###### Art. 9.º O funcionamento e administração do Centro Nacional de Design poderá ser assegurado, até à tomada de posse dos órgãos sociais, por uma comissão instaladora nomeada pelos Ministros referidos no n.º 2 do artigo 3.º, à qual cumprirá, nomeadamente, elaborar o programa de actividades para 1985, elaborar o acordo constitutivo e os estatutos e convocar a primeira assembleia geral, cuja ordem de trabalhos incluirá a eleição dos órgãos sociais.
+Art. 9.º O funcionamento e administração do Centro Nacional de Design poderá ser assegurado, até à tomada de posse dos órgãos sociais, por uma comissão instaladora nomeada pelos Ministros referidos no n.º 2 do artigo 3.º, à qual cumprirá, nomeadamente, elaborar o programa de actividades para 1985, elaborar o acordo constitutivo e os estatutos e convocar a primeira assembleia geral, cuja ordem de trabalhos incluirá a eleição dos órgãos sociais.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - José Veiga Simão - António Antero Coimbra Martins - João Rosado Correia.
 
-**Promulgado em 12 de Fevereiro de 1985.**
+Promulgado em 12 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Fevereiro de 1985.**
+Referendado em 13 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

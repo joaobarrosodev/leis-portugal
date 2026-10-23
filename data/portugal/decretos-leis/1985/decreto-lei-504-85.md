@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1985, 1º Suplemento, Série I de 1985-12-30
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4252-(5) a 4252-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30001/00050008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1985-250606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 949428a4df79b1417baaeb7c02c1ebeafb29e02d717a0cd52ea5222715f2b5d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c65e1f0805bba890eb1342d1f6bb1161b455b2d466b8a2957f7fb90214838ca5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ananás
+- Comércio
+- Comissão Permanente da Produção e Comercialização do Ananás
+- Conselho Consultivo da Produção e Comercialização do Ananás
+- Criação de Serviços
+- Definição de Competências
+- Exportação
+- Financiamento
+- Madeira.região Autónoma
+- Mercado Interno
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376841:por
+  label: Determinada a assunção pelo INGA das atribuições e competências conferidas ao extinto organismo de coordenação económica,
+    Junta Nacional das Frutas, relativamente à Comissão Permanente e ao Conselho Consultivo da Produção e Comercialização
+    do Ananás, a que se refere o presente diploma, pelo DEC LEI.282/88.12.08.1988.MAPA, DR.IS [186] de 12.08.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1988-376841
+  date: '1988-08-12'
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Determinada a transferência para a DGMAIAA de todas as atribuições e competências conferidas ao extinto organismo
+    de coordenação económica, Junta Nacional das Frutas, relativamente à Comissão Permanente e ao Conselho Consultivo da Produção
+    e Comercialização do Ananás, a que se refere o presente diploma pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37] de 13.02.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:14Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +153,7 @@ Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira e no uso da
 
 ## TÍTULO I — Âmbito
 
-###### Artigo 1.º - 1 - É estabelecida uma organização nacional de mercado para o ananás.
+Artigo 1.º - 1 - É estabelecida uma organização nacional de mercado para o ananás.
 
 2 - A organização nacional de mercado compreende:
 
@@ -132,13 +171,13 @@ Regime de comércio externo.
 
 ## TÍTULO II — Normas
 
-###### Art. 2.º - 1 - A obrigatoriedade das normas de qualidade para o ananás a ser consumido no estado fresco será estabelecida em portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os governos daquelas Regiões.
+Art. 2.º - 1 - A obrigatoriedade das normas de qualidade para o ananás a ser consumido no estado fresco será estabelecida em portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os governos daquelas Regiões.
 
 2 - Estas normas comportarão categorias de qualidade definidas, tendo em conta o interesse económico para os seus produtores e a necessidade de satisfazer as exigências dos consumidores.
 
 3 - As categorias de qualidade a definir corresponderão às categorias «Extra», «I», «II» e «III».
 
-###### Art. 3.º - 1 - As Regiões Autónomas dos Açores e da Madeira fixarão as normas a observar no cultivo e colheita do ananás.
+Art. 3.º - 1 - As Regiões Autónomas dos Açores e da Madeira fixarão as normas a observar no cultivo e colheita do ananás.
 
 2 - Por decreto regulamentar dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os governos daquelas Regiões, serão fixadas:
 
@@ -148,7 +187,7 @@ b) Os requisitos a que devem obedecer os armazéns de acondicionamento, embalage
 
 c) As normas e condições técnicas do transporte rodoviário, marítimo e aéreo.
 
-###### Art. 4.º - 1 - A partir da entrada em vigor da portaria tornando obrigatórias as normas de qualidade, o ananás não pode ser exposto para venda e ser vendido ou comercializado sob qualquer outra forma sem obedecer àquelas normas.
+Art. 4.º - 1 - A partir da entrada em vigor da portaria tornando obrigatórias as normas de qualidade, o ananás não pode ser exposto para venda e ser vendido ou comercializado sob qualquer outra forma sem obedecer àquelas normas.
 
 2 - As normas de qualidade não são obrigatórias quando o ananás for:
 
@@ -156,7 +195,7 @@ a) Vendido ou entregue pelo produtor nos armazéns de acondicionamento;
 
 b) Vendido directamente ao consumidor pelo produtor na sua própria exploração.
 
-###### Art. 5.º - 1 - As menções previstas pelas normas de qualidade em matéria de marcação devem ser inscritas em caracteres legíveis e indeléveis, num dos lados da embalagem, quer por impressão directa quer por meio de uma etiqueta solidamente fixada na embalagem, em conformidade com o preceituado no [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março.
+Art. 5.º - 1 - As menções previstas pelas normas de qualidade em matéria de marcação devem ser inscritas em caracteres legíveis e indeléveis, num dos lados da embalagem, quer por impressão directa quer por meio de uma etiqueta solidamente fixada na embalagem, em conformidade com o preceituado no [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março.
 
 2 - Na venda a retalho observar-se-á o seguinte:
 
@@ -164,11 +203,11 @@ a) Para o ananás exposto em embalagem, as menções previstas em matéria de ma
 
 b) Para o ananás exposto à venda fora da embalagem, o retalhista tem de exibir um letreiro, em conformidade com o preceituado no [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), designadamente com as indicações previstas nas normas de qualidade e relativas à variedade, à origem do produto e à categoria de qualidade.
 
-###### Art. 6.º - 1 - O ananás será objecto de verificação de conformidade com as normas de qualidade, a efectuar pelos organismos competentes, por amostragem, em qualquer estádio da comercialização, assim como no decurso do transporte.
+Art. 6.º - 1 - O ananás será objecto de verificação de conformidade com as normas de qualidade, a efectuar pelos organismos competentes, por amostragem, em qualquer estádio da comercialização, assim como no decurso do transporte.
 
 2 - Em decreto regulamentar dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os governos daquelas Regiões, serão estabelecidas as normas a observar pelos organismos na verificação a que se refere o n.º 1 deste artigo.
 
-###### Art. 7.º - 1 - O ananás destinado à expedição e à exportação é obrigatoriamente submetido a verificação das normas de qualidade pelos organismos competentes.
+Art. 7.º - 1 - O ananás destinado à expedição e à exportação é obrigatoriamente submetido a verificação das normas de qualidade pelos organismos competentes.
 
 2 - Esta verificação far-se-á nos armazéns de acondicionamento e embalagem ou no cais.
 
@@ -178,13 +217,13 @@ b) Para o ananás exposto à venda fora da embalagem, o retalhista tem de exibir
 
 5 - Entende-se por zona de produção a Região Autónoma dos Açores e, no resto do País, a área do respectivo concelho.
 
-###### Art. 8.º - 1 - Só é admitido à importação para consumo em fresco o ananás que satisfaça as normas de qualidade correspondentes às categorias «Extra», «I» e «II» ou a normas pelo menos equivalentes.
+Art. 8.º - 1 - Só é admitido à importação para consumo em fresco o ananás que satisfaça as normas de qualidade correspondentes às categorias «Extra», «I» e «II» ou a normas pelo menos equivalentes.
 
 2 - É aplicável ao ananás importado o disposto nos artigos 2.º a 7.º, com excepção do n.º 1 do artigo 3.º
 
 ## TÍTULO III — Organizações de produtores
 
-###### Art. 9.º - 1 - Com o objectivo de encorajar a constituição ou reestruturação e facilitar o funcionamento eficaz das organizações de produtores do ananás, é instituído um regime de incentivos a favor daquelas que visem:
+Art. 9.º - 1 - Com o objectivo de encorajar a constituição ou reestruturação e facilitar o funcionamento eficaz das organizações de produtores do ananás, é instituído um regime de incentivos a favor daquelas que visem:
 
 a) Promover a concentração da oferta e a regularização do preço no estádio da produção;
 
@@ -200,7 +239,7 @@ b) Efectuar a colocação no mercado da totalidade da produção destinada à co
 
 4 - Em decreto regulamentar do Ministro da República para a Região Autónoma dos Açores e dos ministros com competência nas áreas da agricultura e do comércio, ouvido o governo daquela Região, serão estabelecidas as normas relativas à actividade económica das organizações de produtores.
 
-###### Art. 10.º - 1 - As organizações de produtores de ananás serão objecto de um reconhecimento formal pelo Governo Regional dos Açores, sem o que não poderão usufruir dos benefícios previstos no presente diploma.
+Art. 10.º - 1 - As organizações de produtores de ananás serão objecto de um reconhecimento formal pelo Governo Regional dos Açores, sem o que não poderão usufruir dos benefícios previstos no presente diploma.
 
 2 - É concedido às organizações de produtores, a seu pedido, o reconhecimento previsto no número anterior, desde que:
 
@@ -218,7 +257,7 @@ c) Tenham personalidade jurídica.
 
 ## TÍTULO IV — Regime de ajudas
 
-###### Art. 11.º - 1 - Poderão ser concedidas ajudas às organizações de produtores, durante 5 anos após o seu reconhecimento, de acordo com o objectivo previsto no n.º 1 do artigo 9.º
+Art. 11.º - 1 - Poderão ser concedidas ajudas às organizações de produtores, durante 5 anos após o seu reconhecimento, de acordo com o objectivo previsto no n.º 1 do artigo 9.º
 
 2 - O montante das ajudas não poderá exceder nos 1.º 2.º, 3.º, 4.º e 5.º anos após o reconhecimento, respectivamente, 5%, 5%, 4%, 3% e 2% do valor da produção comercializada pela organização no ano anterior e nunca poderá ultrapassar os encargos reais da constituição e do funcionamento administrativo da respectiva organização.
 
@@ -226,7 +265,7 @@ c) Tenham personalidade jurídica.
 
 4 - Em decreto regulamentar do Ministro da República para a Região Autónoma dos Açores e dos ministros com competência nas áreas das finanças, da agricultura e do comércio, ouvido o governo daquela Região, serão definidos os encargos reais de constituição e do funcionamento administrativo das organizações de produtores.
 
-###### Art. 12.º - 1 - Poderão ainda ser concedidas ajudas para as acções que visem:
+Art. 12.º - 1 - Poderão ainda ser concedidas ajudas para as acções que visem:
 
 a) A modernização da cultura do ananás;
 
@@ -238,7 +277,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte do anan�
 
 ## TÍTULO V — Regimes de preços
 
-###### Art. 13.º - 1 - Anualmente, até 30 de Novembro, é fixado um preço indicativo para a campanha de comercialização a iniciar em 1 de Janeiro do ano seguinte.
+Art. 13.º - 1 - Anualmente, até 30 de Novembro, é fixado um preço indicativo para a campanha de comercialização a iniciar em 1 de Janeiro do ano seguinte.
 
 2 - Este preço é fixado para a campanha de comercialização ou para cada um dos períodos em que a campanha se subdivide, em função da evolução sazonal dos preços de mercado e para o mercado representativo da produção.
 
@@ -250,7 +289,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte do anan�
 
 ## TÍTULO VI — Regime de comércio externo
 
-###### Art. 14.º - 1 - Com vista a evitar perturbações graves no escoamento da produção nacional, é fixado, anualmente, antes do início da campanha de comercialização, um preço de referência para o ananás a importar.
+Art. 14.º - 1 - Com vista a evitar perturbações graves no escoamento da produção nacional, é fixado, anualmente, antes do início da campanha de comercialização, um preço de referência para o ananás a importar.
 
 2 - O preço de referência poderá ser fixado para cada período em que se subdivide a campanha.
 
@@ -260,7 +299,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte do anan�
 
 5 - O preço mencionado neste artigo será fixado por portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os governos daquelas Regiões, mediante proposta da Comissão a que se refere o artigo 17.º do presente diploma.
 
-###### Art. 15.º - 1 - Sempre que o preço de entrada do ananás importado se situar abaixo do preço de referência, será cobrado um direito de compensação igual à diferença entre os dois preços.
+Art. 15.º - 1 - Sempre que o preço de entrada do ananás importado se situar abaixo do preço de referência, será cobrado um direito de compensação igual à diferença entre os dois preços.
 
 2 - O preço de entrada do ananás importado é calculado tendo em conta o preço ClF adicionado das despesas de cais, direitos aduaneiros e outras imposições cobradas à entrada.
 
@@ -268,7 +307,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte do anan�
 
 4 - Os direitos aduaneiros da pauta portuguesa são fixados em 9% ad valorem.
 
-###### Art. 16.º - 1 - A importação de ananás está sujeita a restrições quantitativas, qualquer que seja a sua origem.
+Art. 16.º - 1 - A importação de ananás está sujeita a restrições quantitativas, qualquer que seja a sua origem.
 
 2 - Anualmente, até 30 de Novembro, serão fixados contingentes de importação para o ano seguinte, podendo estes ser repartidos pelos períodos em que se subdivide a campanha.
 
@@ -278,7 +317,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte do anan�
 
 ## TÍTULO VII — Disposições gerais
 
-###### Art. 17.º - 1 - É instituída a Comissão Permanente da Produção e Comercialização do Ananás, designada no presente diploma por Comissão, na dependência conjunta dos ministros com competência nas áreas das finanças, da agricultura e do comércio.
+Art. 17.º - 1 - É instituída a Comissão Permanente da Produção e Comercialização do Ananás, designada no presente diploma por Comissão, na dependência conjunta dos ministros com competência nas áreas das finanças, da agricultura e do comércio.
 
 2 - A Comissão é composta pelos representantes das seguintes entidades:
 
@@ -300,7 +339,7 @@ f) Governo da Região Autónoma da Madeira.
 
 5 - A Comissão, nos seus pareceres e propostas, mencionará sempre o parecer do Conselho Consultivo, justificando-os, quando divergentes deste.
 
-###### Art. 18.º - 1 - É criado o Conselho Consultivo da Produção e Comercialização do Ananás, designado no presente diploma por Conselho Consultivo, constituído por representantes dos:
+Art. 18.º - 1 - É criado o Conselho Consultivo da Produção e Comercialização do Ananás, designado no presente diploma por Conselho Consultivo, constituído por representantes dos:
 
 a) Produtores;
 
@@ -314,24 +353,24 @@ e) Consumidores.
 
 2 - A competência e regras de funcionamento do Conselho Consultivo serão estabelecidas por portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros referidos no n.º 1 do artigo 17.º, ouvidos os governos daquelas Regiões.
 
-###### Art. 19.º - 1 - À Comissão incumbe, de uma maneira geral, pronunciar-se sobre todas as matérias relacionadas com este sector, emitindo pareceres ou apresentando propostas, quer por solicitação do Governo da República ou dos Governos das Regiões Autónomas dos Açores e da Madeira, quer por iniciativa própria.
+Art. 19.º - 1 - À Comissão incumbe, de uma maneira geral, pronunciar-se sobre todas as matérias relacionadas com este sector, emitindo pareceres ou apresentando propostas, quer por solicitação do Governo da República ou dos Governos das Regiões Autónomas dos Açores e da Madeira, quer por iniciativa própria.
 
 2 - Por portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros referidos no n.º 1 do artigo 17.º ouvidos os governos daquelas Regiões, serão estabelecidas as competências e as normas de funcionamento da Comissão.
 
-###### Art. 20.º - 1 - Constitui receita do Fundo de Abastecimento o produto dos direitos de compensação cobrados nos termos do artigo 15.º do presente diploma
+Art. 20.º - 1 - Constitui receita do Fundo de Abastecimento o produto dos direitos de compensação cobrados nos termos do artigo 15.º do presente diploma
 
 2 - A atribuição das ajudas a que se referem os artigos 11.º e 12.º constará de despacho conjunto dos Ministros da República para as Regiões Autónomas e dos ministros com competência nas áreas das finanças, da agricultura e do comércio, ouvido o Governo da Região Autónoma dos Açores relativamente às do artigo 11.º e também o Governo da Região Autónoma da Madeira nos casos do artigo 12.º
 
-###### Art. 21.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 21.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 1985. - Aníbal António Cavaco Silva - Lino Dias Miguel - Tomás George Conceição Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 17 de Dezembro de 1985.**
+Promulgado em 17 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Dezembro de 1985.**
+Referendado em 19 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

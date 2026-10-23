@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/23600/33133323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1982-376650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f49e982c5f62f34bb360260f95b27523522a726dfe1dda5b83e78b4ecb90f0c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54224a007bcf9ef5aef451b6752ce1fa737055c5ce622e9bc599d65336d46b58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Comunicação Social
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:198546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654944:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma pela PORT.242/84.1984.04.17.PCM DR.IS [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-1984-654944
+  date: '1984-04-17'
+- type: amended_by
+  target: pt:dre:218968:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pelo PORT.479/86.30.08.1986.PCM, DR.IS [199] de 30.08.1986\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/479-1986-218968
+  date: '1986-08-30'
+- type: amended_by
+  target: pt:dre:221140:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.661/86.07.11.1986.PCM, DR.IS [257] de 07.11.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/661-1986-221140
+  date: '1986-11-07'
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, com as alterações introduzidas pelo Dec Lei 390/84, de 12-Dez, e pelas Port 771/83,\
+    \ de 21-Jul e 661/86, de 07-Nov, pelo anexo X à PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: amended_by
+  target: pt:dre:198546:por
+  label: "Extinta a Direcção Geral da Comunicação Social, criada pelo presente diploma e reestruturada pelo Dec Lei 157/91,\
+    \ de 24-Abr, pelo DEC LEI.48/92.1992.04.07.PCM, DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1992-198546
+  date: '1992-04-07'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682863:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:540461:por
+  label: Rectificado pela DECL.DD2203.1982.12.03.PCM DR.IS [7] de 10/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-540461
+  date: '1982-12-03'
+- type: repealed_by
+  target: pt:dre:401365:por
+  label: "Revogada a al. d) do nº 1 do art. 10º e o art. 14º, pelo DEC LEI.390/84.1984.12.12.PCM, DR.IS [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-1984-401365
+  date: '1984-12-12'
+- type: repealed_by
+  target: pt:dre:598333:por
+  label: "Revogado pelo DEC LEI.157/91.1991.04.24.PCM, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1991-598333
+  date: '1991-04-24'
 article_structure:
   article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:38Z'
   warnings: []
   errors: []
 ---
@@ -822,16 +893,16 @@ As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvida
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Setembro de 1982.**
+Promulgado em 30 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUDRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/23600/33133323.pdf))](https://files.diariodarepublica.pt/1s/1982/10/23600/33133323.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/23600/33133323.pdf)
 
 Mapa de equivalências a que se refere o artigo 58.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/23600/33133323.pdf))](https://files.diariodarepublica.pt/1s/1982/10/23600/33133323.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/23600/33133323.pdf)

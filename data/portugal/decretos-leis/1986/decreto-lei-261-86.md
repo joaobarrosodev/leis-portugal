@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1986-220111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53ed1c522831f2c8192c3d5dae4bc32d27970ee07549eb888455b3cb4fb1f107
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db6adbfbfe9125371dd0ebe442f63502c8c62dd12be41eb46031724d19d7a01b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Etiquetagem
+- Leite
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:497273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:477581:por
+  label: Rectificado e substituídos os mapas I, II, III e V anexos ao presente diploma, pela DECL.DD4501.28.10.1986.PCM, DR.IS
+    [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477581
+  date: '1986-10-28'
+- type: corrected_by
+  target: pt:dre:627183:por
+  label: Rectificados e republicados os quadros I, II, III e IV constantes do presente lei, rectificados pela Decl de 31-Out
+    1986 DR.IS [252]3ºSupl, pelo(a) Declaração - Diário da República n.º 300/1986, 6º Suplemento, Série I de 1986-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-627183
+  date: '1986-12-31'
+- type: repealed_by
+  target: pt:dre:485451:por
+  label: "Revogado pelo DEC LEI.87/91.23.02.1991.MAPA, DR.IS-A [45] de 23.02.1991, com efeitos a partir da entrada em vigor\
+    \ das portarias previstas no art. 1º sobre iogurtes e sobre leites total ou parcialmente desidratados.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-1991-485451
+  date: '1991-02-23'
+- type: repealed_by
+  target: pt:dre:497273:por
+  label: "Revogado, nos termos do art. 12.º, pelo DEC LEI.213/2003.2003.09.18.MADRP DR.IS-A [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-2003-497273
+  date: '2003-09-18'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:35Z'
   warnings: []
   errors: []
 ---
@@ -192,42 +218,42 @@ Este diploma entra em vigor 60 dias após a sua publicação, excepto as alínea
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - António Luís Mendes Baptista Pereira.
 
-**Promulgado em 26 de Julho de 1986.**
+Promulgado em 26 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1986.**
+Referendado em 30 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 QUADRO I
 
 Características químicas dos leites parcialmente desidratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
 
 QUADRO II
 
 Características físico-químicas dos leites totalmente desidratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
 
 QUADRO III
 
 Características microbiológicas dos leites parcial e totalmente desidratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
 
 QUADRO IV
 
 Características organolépticas dos leites parcial e totalmente desidratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
 
 QUADRO V
 
 Aditivos admissíveis nos leites parcial e totalmente desidratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20000/22842288.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16100/20432044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1985-183435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32ee34e38b25978a9edf39b64c1351bbfe0790be55a4de0b3bf4693f6b9d1252
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09e5b6a3e8a394bea1e03be187d3ebae7b1e4f31cb155cbb5310365f473d73dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Consultiva para a Cooperação
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46] e extinta a Comissão Consultiva para a Cooperação criada\
+    \ pelo presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:08Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +114,9 @@ Considerando que na definição das grandes linhas de cooperação se entende fu
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado no Ministério dos Negócios Estrangeiros a Comissão Consultiva para a Cooperação, órgão de consulta na área da cooperação.
+Artigo 1.º É criado no Ministério dos Negócios Estrangeiros a Comissão Consultiva para a Cooperação, órgão de consulta na área da cooperação.
 
-###### Art. 2.º - 1 - A Comissão Consultiva para a Cooperação, abreviadamente designada por CCC, tem a seguinte constituição:
+Art. 2.º - 1 - A Comissão Consultiva para a Cooperação, abreviadamente designada por CCC, tem a seguinte constituição:
 
 a) Membros permanentes;
 
@@ -117,7 +126,7 @@ b) Membros eventuais.
 
 3 - A presidência da CCC compete ao Ministro dos Negócios Estrangeiros, com poderes de delegação no Secretário de Estado da Cooperação.
 
-###### Art. 3.º São membros permanentes da CCC:
+Art. 3.º São membros permanentes da CCC:
 
 a) Director-geral da Cooperação;
 
@@ -155,11 +164,11 @@ r) Representante da Associação Comercial de Lisboa;
 
 s) Representante da Associação Comercial do Porto.
 
-###### Art. 4.º - 1 - São membros eventuais da CCC os que vierem a ser convidados pelo presidente para participar em determinadas reuniões, em representação de entidades públicas ou privadas não mencionadas no artigo anterior.
+Art. 4.º - 1 - São membros eventuais da CCC os que vierem a ser convidados pelo presidente para participar em determinadas reuniões, em representação de entidades públicas ou privadas não mencionadas no artigo anterior.
 
 2 - O pessoal dirigente do Ministério dos Negócios Estrangeiros que não seja membro da CCC por inerência do cargo poderá ser designado pelo presidente para participar nas reuniões do plenário ou nas restritas, na qualidade de membro eventual.
 
-###### Art. 5.º Compete à CCC:
+Art. 5.º Compete à CCC:
 
 a) Prestar a informação ao Ministério dos Negócios Estrangeiros que permita uma correcta elaboração das grandes linhas da política de cooperação;
 
@@ -167,26 +176,26 @@ b) Suscitar o aparecimento das ideias e metodologias que permitam uma mais corre
 
 c) Sugerir a análise de quaisquer assuntos de interesse relevante para o desenvolvimento da cooperação.
 
-###### Art. 6.º A CCC reúne em plenário ordinariamente duas vezes por ano e extraordinariamente sempre que convocada pelo presidente.
+Art. 6.º A CCC reúne em plenário ordinariamente duas vezes por ano e extraordinariamente sempre que convocada pelo presidente.
 
-###### Art. 7.º - 1 - A CCC poderá reunir-se por secções, por determinação do seu presidente, para tratar de assuntos que requeiram análise especializada, nos âmbitos social, económico, cultural ou outros que se insiram na área da cooperação.
+Art. 7.º - 1 - A CCC poderá reunir-se por secções, por determinação do seu presidente, para tratar de assuntos que requeiram análise especializada, nos âmbitos social, económico, cultural ou outros que se insiram na área da cooperação.
 
 2 - Poderão, ser convocados pelo presidente da CCC a participar nas reuniões sectoriais ou para elaboração de pareceres quaisquer técnicos de reconhecida competência ligados a entidades públicas e especialistas nos assuntos a debater constantes da ordem de trabalhos.
 
-###### Art. 8.º O exercício das funções de membro da CCC não será remunerado.
+Art. 8.º O exercício das funções de membro da CCC não será remunerado.
 
-###### Art. 9.º O Gabinete do Secretário de Estado da Cooperação assegurará, durante as reuniões e no seu intervalo, o secretariado de apoio.
+Art. 9.º O Gabinete do Secretário de Estado da Cooperação assegurará, durante as reuniões e no seu intervalo, o secretariado de apoio.
 
-###### Art. 10.º O regimento interno da CCC será aprovado mediante a publicação de portaria do Ministro dos Negócios Estrangeiros.
+Art. 10.º O regimento interno da CCC será aprovado mediante a publicação de portaria do Ministro dos Negócios Estrangeiros.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - António Manuel Maldonado Gonelha - José Veiga Simão - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins - Júlio Miranda Calha.
 
-**Promulgado, em 5 de Julho de 1985.**
+Promulgado, em 5 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Julho de 1985.**
+Referendado em 8 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

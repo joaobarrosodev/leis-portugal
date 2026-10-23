@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22672268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1983-452249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc82ee0067fa85330616c746bbaf179e78b85a98d168cfc969ec1411dbe9c4de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e78265f75e323b30befe16c7ae22898c29341ecc989387dc36b276272ca7f96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Autónoma das Estradas
+- Orgânica
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394539:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:289060:por
+  label: Revogados, a partir de 15.11.1991, os arts. 1.º e 2.º do presente diploma, pelo(a) Decreto-Lei n.º 395/91 - Diário
+    da República n.º 238/1991, Série I-A de 1991-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/395-1991-289060
+  date: '1991-10-16'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:24Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +122,9 @@ Pelo exposto:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Divisão de Arquitectura Paisagista, na dependência da Direcção dos Serviços de Construção, da Junta Autónoma de Estradas.
+Artigo 1.º É criada a Divisão de Arquitectura Paisagista, na dependência da Direcção dos Serviços de Construção, da Junta Autónoma de Estradas.
 
-###### Art. 2.º À Divisão de Arquitectura Paisagista compete:
+Art. 2.º À Divisão de Arquitectura Paisagista compete:
 
 a) Orientar as actividades da Junta Autónoma de Estradas no domínio da arquitectura paisagista;
 
@@ -112,7 +138,7 @@ e) Elaborar ou coordenar estudos especiais de paisagismo rodoviário, assim como
 
 f) Prestar assistência técnica e dar apoio na elaboração de estudos e projectos e na realização de obras a cargo dos serviços regionais.
 
-###### Art. 3.º Os artigos 25.º, 26.º e 32.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, são alterados, passando a ter a seguinte redacção:
+Art. 3.º Os artigos 25.º, 26.º e 32.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, são alterados, passando a ter a seguinte redacção:
 
 ###### Artigo 25.º — Estrutura
 
@@ -158,20 +184,20 @@ d) Organizar e coordenar a realização e actualização de um completo inventá
 
 e) Elaborar normas relativas às obras de conservação e promover a formação e actualização profissional dos quadros técnicos ligados a este aspecto.
 
-###### Art. 4.º - 1 - O quadro de pessoal da Junta Autónoma de Estradas, aprovado pela [Portaria n.º 672/82](https://diariodarepublica.pt/dr/detalhe/portaria/672-1982-394539), de 7 de Julho, com a alteração introduzida pela [Portaria n.º 889/82](https://diariodarepublica.pt/dr/detalhe/portaria/889-1982-375217), de 22 de Setembro, é alterado de acordo com o mapa anexo a este diploma.
+Art. 4.º - 1 - O quadro de pessoal da Junta Autónoma de Estradas, aprovado pela [Portaria n.º 672/82](https://diariodarepublica.pt/dr/detalhe/portaria/672-1982-394539), de 7 de Julho, com a alteração introduzida pela [Portaria n.º 889/82](https://diariodarepublica.pt/dr/detalhe/portaria/889-1982-375217), de 22 de Setembro, é alterado de acordo com o mapa anexo a este diploma.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Mapa Anexo ao Decreto-Lei n.º 296/83
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14300/22672268.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14300/22672268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14300/22672268.pdf)

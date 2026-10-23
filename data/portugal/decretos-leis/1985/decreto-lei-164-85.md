@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11100/13201323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1985-151555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9d1080d10d0c6ef855a7bbfd3dcc63f7e06ea63d9686dd20d50946197dd217c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 012062e608017f604097a559b5e36a1efd715230492135f3ca982c90337af400
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agente Desportivo
+- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:301658:por
+  label: "Revogado o o artigo 6.º pelo DEC LEI.351/91.19.09.1991.ME, DR.IS-A [216] de 19.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/351-1991-301658
+  date: '1991-09-19'
+- type: repealed_by
+  target: pt:dre:665351:por
+  label: "Revogado o artigo 15.º pelo DEC LEI.145/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-1993-665351
+  date: '1993-04-26'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:34Z'
   warnings: []
   errors: []
 ---
@@ -103,31 +120,31 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Dos princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Do objecto)
 
 O presente diploma estabelece os princípios fundamentais e as normas que regem as relações entre o Estado e os agentes desportivos, tendo como objectivo fundamental o desenvolvimento do desporto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Da cooperação)
 
 O Estado, através da Secretaria de Estado dos Desportos, promoverá a cooperação entre as várias pessoas colectivas de direito público e privado com atribuições no âmbito dos desportos.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Da autonomia das pessoas colectivas de direito privado)
 
 O Estado reconhece o papel essencial e a autonomia das pessoas colectivas de direito privado com atribuições no âmbito dos desportos e cria condições ao livre exercício da sua actividade.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Do associativismo desportivo)
 
 O Estado apoia e suscita a criação e generalização do associativismo desportivo, quer dirigido para a competição, quer orientado para a recreação, como meio fundamental de uma política que permita o acesso dos cidadãos à prática do desporto.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Dos praticantes e participantes)
 
@@ -135,7 +152,7 @@ O Estado apoia e suscita a criação e generalização do associativismo desport
 
 2 - O Estado reconhece as especiais condições dos praticantes desportivos integrados na alta competição, os quais devem ser objecto de medidas que propiciem a sua integração profissional quando a abandonem.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Da formação)
 
@@ -145,7 +162,7 @@ O Estado apoia e suscita a criação e generalização do associativismo desport
 
 3 - Os programas de formação dos participantes nas actividades desportivas serão fixados ou aprovados pela Secretaria de Estado dos Desportos, nos termos que vierem a ser determinados por diplomas legais adequados.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Do fomento do desporto)
 
@@ -171,7 +188,7 @@ i) A integração dos praticantes e participantes nas actividades desportivas no
 
 ### CAPÍTULO II — Dos meios de fomento, apoio e intervenção no desporto
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Do plano de fomento desportivo e do plano de desenvolvimento desportivo)
 
@@ -181,7 +198,7 @@ i) A integração dos praticantes e participantes nas actividades desportivas no
 
 3 - Na prossecução do previsto no n.º 1, o Estado articula o plano de desenvolvimento elaborado pelas referidas pessoas colectivas de direito privado para obter a completa utilização dos recursos afectos ao desporto.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Do fomento das estruturas materiais)
 
@@ -195,7 +212,7 @@ b) Incremento da construção, ampliação, melhoramento e conservação das ins
 
 c) Sujeição das instalações a construir a critérios de segurança, racionalidade demográfica, económica e técnica.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Do apoio estatal)
 
@@ -207,7 +224,7 @@ c) Sujeição das instalações a construir a critérios de segurança, racional
 
 4 - O disposto no número anterior não prejudica o eventual procedimento administrativo e judicial que ao caso se aplique.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Dos meios de apoio)
 
@@ -229,7 +246,7 @@ g) Estabelecimento de relações com organismos internacionais.
 
 2 - As representações portuguesas em iniciativas internacionais podem beneficiar de qualquer das diferentes formas de apoio referidas no número anterior.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Da concessão de apoios)
 
@@ -241,13 +258,13 @@ b) Caracterização detalhada dos planos de desenvolvimento desportivo, com espe
 
 c) Apresentação dos custos e aferição dos graus de autonomia financeira, técnica, material e humana previstos nos planos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Da carta desportiva nacional)
 
 O Estado, com o objectivo de manter actualizado o seu conhecimento da situação desportiva nacional, actualiza e publica, através dos departamentos competentes, a carta desportiva nacional, contendo o cadastro, registo de dados e indicadores, que permita o conhecimento dos elementos relacionados com o desporto.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Do parque nacional das instalações desportivas)
 
@@ -255,7 +272,7 @@ O Estado, com o objectivo de manter actualizado o seu conhecimento da situação
 
 2 - O regime a que ficam sujeitas as instalações integradas no parque será definido em diploma regulamentar.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Do Conselho Nacional dos Desportos)
 
@@ -263,19 +280,19 @@ O Estado, com o objectivo de manter actualizado o seu conhecimento da situação
 
 2 - A Secretaria de Estado dos Desportos ouvirá o Conselho Nacional dos Desportos nas matérias referentes aos desportos, sempre que o entender necessário.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Da medicina desportiva)
 
 A medicina desportiva, como elemento de prevenção e suporte necessário à prática desportiva, é garantida pelas estruturas competentes.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Do seguro desportivo)
 
 O Estado promoverá a institucionalização do seguro desportivo, com o objectivo de garantir os riscos a que estão sujeitos os praticantes nas actividades desportivas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Dos contratos programa)
 
@@ -283,13 +300,13 @@ O Estado, com o objectivo de possibilitar um maior desenvolvimento do desporto, 
 
 ### CAPÍTULO III — Disposições finais
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Da regulamentação)
 
 O presente diploma será regulamentado por decreto regulamentar.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Das regiões autónomas)
 
@@ -297,12 +314,12 @@ O regime do presente decreto-lei aplicar-se-á às regiões autónomas através 
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - Amândio Anes de Azevedo - Júlio Miranda Calha.
 
-**Promulgado em 2 de Maio de 1985.**
+Promulgado em 2 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Maio de 1985.**
+Referendado em 6 de Maio de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

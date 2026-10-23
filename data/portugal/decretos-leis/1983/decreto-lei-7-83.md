@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01100/00750076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1983-308112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 153c071340b1bdd46d024641d8407473fa30363e2d0a18d9d57e216f77a969a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf84550de6e93b4d8e1d8a893f01d081078bbefea86b6ed9052950cdfa8f763d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Liquidatária
+- Definição de Competências
+- Extinção de Serviços
+- Fundo de Fomento da Habitação
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381549:por
+  label: "Alargado o quadro de pessoal da Comissão Liquidatária do Fundo de Fomento da Habitação, aprovado pela Port 39/81,\
+    \ de 15-Jan, de conformidade com o n.º 4 do art. 5.º do presente diploma, pela PORT.552/84.02.08.1984.PCM, DR.IS [178]\
+    \ de 02.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/552-1984-381549
+  date: '1984-08-02'
+- type: amended_by
+  target: pt:dre:328979:por
+  label: "Alterada a redacção da al. h) e aditada uma al. i) ao art. 4º pelo DEC LEI.17/85.15.01.1985.MFP, DR.IS [12] de 15.01.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1985-328979
+  date: '1985-01-15'
+- type: cites
+  target: pt:dre:233747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665133:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:37Z'
   warnings: []
   errors: []
 ---
@@ -90,21 +140,21 @@ de 14 de Janeiro
 
 Considerando necessário dar solução a algumas situações decorrentes da extinção dos serviços levada a cabo pelo [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A partir da extinção do Fundo de Fomento da Habitação, abaixo designado por FFH, serão transferidos para o Estado, independentemente de quaisquer formalidades, salvo as de registo, quando necessárias, os direitos e obrigações, bem como as posições jurídicas, em que o FFH era parte, sem prejuízo da transmissão para as entidades a definir nos termos dos artigos 2.º e 3.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio.
+Artigo 1.º - 1 - A partir da extinção do Fundo de Fomento da Habitação, abaixo designado por FFH, serão transferidos para o Estado, independentemente de quaisquer formalidades, salvo as de registo, quando necessárias, os direitos e obrigações, bem como as posições jurídicas, em que o FFH era parte, sem prejuízo da transmissão para as entidades a definir nos termos dos artigos 2.º e 3.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio.
 
 2 - Enquanto e na medida em que não se verificar a transmissão referida na parte final do número anterior, a comissão liquidatária do FFH representará o Estado no âmbito do disposto no mesmo número.
 
-###### Art. 2.º - 1 - Para prossecução do objectivo fixado pelo n.º 1 do artigo 4.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), consideram-se deferidas à comissão liquidatária todas as competências que estavam atribuídas, por lei ou regulamento, ao extinto FFH e seus órgãos, desde que necessárias ao cumprimento do disposto no presente diploma e no decreto-lei acima citado.
+Art. 2.º - 1 - Para prossecução do objectivo fixado pelo n.º 1 do artigo 4.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), consideram-se deferidas à comissão liquidatária todas as competências que estavam atribuídas, por lei ou regulamento, ao extinto FFH e seus órgãos, desde que necessárias ao cumprimento do disposto no presente diploma e no decreto-lei acima citado.
 
 2 - A comissão liquidatária poderá recorrer ao oficial público e seu substituto legal, a que se refere o artigo 13.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho.
 
-###### Art. 3.º - 1 - A representação externa da comissão liquidatária, em juízo e fora dele, será assegurada pelo respectivo presidente, pelo vice-presidente nas faltas e impedimentos daquele ou pelo vogal da comissão que esta designar e é compatível com mandato judicial conferido por procuração, nomeadamente, a favor de advogado ou solicitador.
+Art. 3.º - 1 - A representação externa da comissão liquidatária, em juízo e fora dele, será assegurada pelo respectivo presidente, pelo vice-presidente nas faltas e impedimentos daquele ou pelo vogal da comissão que esta designar e é compatível com mandato judicial conferido por procuração, nomeadamente, a favor de advogado ou solicitador.
 
 2 - A representação em actos e contratos poderá ser delegada, por simples despacho, em funcionário concreta ou genericamente designado pelo presidente, vice-presidente ou comissão liquidatária.
 
 3 - A comissão liquidatária deliberará validamente desde que esteja presente a maioria dos seus membros em efectividade de funções, tendo o presidente ou o seu substituto voto de qualidade.
 
-###### Art. 4.º A comissão liquidatária, para além do previsto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), poderá ainda:
+Art. 4.º A comissão liquidatária, para além do previsto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), poderá ainda:
 
 a) Proceder, em nome do Estado, por qualquer título, à aquisição dos imóveis em que já estivessem implantadas ou em curso quaisquer construções ou obras à data da extinção do FFH;
 
@@ -122,7 +172,7 @@ g) Conceder os empréstimos previstos no artigo 14.º do [Decreto-Lei n.º 39288
 
 h) Conceder reforços de financiamento a cooperativas de habitação económica e a associações de moradores, bem como a programas de autoconstrução, em obras ou fases de empreendimentos em curso.
 
-###### Art. 5.º - 1 - O pessoal do quadro do FFH, criado pelo [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro, com as alterações posteriormente introduzidas, bem como o restante pessoal que prestava serviço ou se encontrava vinculado ao FFH à data da sua extinção, passa a depender da Secretaria-Geral do ex-Ministério da Habitação, Urbanismo e Construção para efeitos de nomeação, exoneração e outros actos de que possa resultar a alteração da respectiva situação jurídico-funcional, mantendo, porém, a afectação à comissão liquidatária, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio.
+Art. 5.º - 1 - O pessoal do quadro do FFH, criado pelo [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro, com as alterações posteriormente introduzidas, bem como o restante pessoal que prestava serviço ou se encontrava vinculado ao FFH à data da sua extinção, passa a depender da Secretaria-Geral do ex-Ministério da Habitação, Urbanismo e Construção para efeitos de nomeação, exoneração e outros actos de que possa resultar a alteração da respectiva situação jurídico-funcional, mantendo, porém, a afectação à comissão liquidatária, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio.
 
 2 - Os lugares que se encontrem vagos poderão ser providos por funcionários ou agentes de categoria igual ou imediatamente inferior, mediante processo de avaliação curricular, nos termos a fixar por despacho normativo dos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, observados, em todos os casos, os requisitos mínimos respeitantes a habilitações literárias, tempo e qualidade de serviço.
 
@@ -136,14 +186,14 @@ h) Conceder reforços de financiamento a cooperativas de habitação económica 
 
 7 - A remuneração e condições de prestação de serviço dos responsáveis pelas áreas de actuação que se torne necessário manter serão fixadas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, podendo tal remuneração ser assegurada aos dirigentes do ex-FFH que se mantiverem em funções de direcção e coordenação de serviços no período compreendido entre a data da entrada em vigor do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio, e a data da designação dos novos responsáveis.
 
-###### Art. 6.º O disposto no n.º 7 do artigo anterior poderá ser tornado extensivo ao pessoal dirigente das extintas Direcções-Gerais para a Coordenação das Empresas de Construção Civil, de Coordenação de Projectistas e Consultores e das Indústrias para a Construção Civil, durante o período necessário à efectivação da transmissão a que se refere o artigo 2.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio.
+Art. 6.º O disposto no n.º 7 do artigo anterior poderá ser tornado extensivo ao pessoal dirigente das extintas Direcções-Gerais para a Coordenação das Empresas de Construção Civil, de Coordenação de Projectistas e Consultores e das Indústrias para a Construção Civil, durante o período necessário à efectivação da transmissão a que se refere o artigo 2.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio.
 
-###### Art. 7.º O presente diploma produz efeitos desde a data da extinção do FFH, data a partir da qual se considera feita a nomeação dos membros da comissão liquidatária, que já eram presidente e vice-presidente do extinto FFH.
+Art. 7.º O presente diploma produz efeitos desde a data da extinção do FFH, data a partir da qual se considera feita a nomeação dos membros da comissão liquidatária, que já eram presidente e vice-presidente do extinto FFH.
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1982. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 5 de Janeiro de 1983.**
+Promulgado em 5 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

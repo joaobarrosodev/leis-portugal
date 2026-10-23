@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13600/21302130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1983-452041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d7b799992ceec9203d3fa946c200c6a03ec647793f95a92a9136b240a3abbf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54584321a092bc77aab483131a0678ec5e0d080e6ec6017bdf7fa164dfab2de0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Autarquia Local
+- Integração de Trabalhadores
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:366603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497870:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:54Z'
   warnings: []
   errors: []
 ---
@@ -98,22 +122,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os oficiais administrativos, chefes de secção e tesoureiros dos serviços municipalizados que sejam extintos em virtude da concessão da distribuição de energia eléctrica à EDP e que não pretendam ser transferidos para os quadros desta empresa são integrados em lugares da mesma categoria do quadro geral administrativo, sem prejuízo das habilitações literárias legalmente fixadas, ficando sujeitos ao regime geral aplicável a este quadro.
+Artigo 1.º - 1 - Os oficiais administrativos, chefes de secção e tesoureiros dos serviços municipalizados que sejam extintos em virtude da concessão da distribuição de energia eléctrica à EDP e que não pretendam ser transferidos para os quadros desta empresa são integrados em lugares da mesma categoria do quadro geral administrativo, sem prejuízo das habilitações literárias legalmente fixadas, ficando sujeitos ao regime geral aplicável a este quadro.
 
 2 - Para a integração referida no número anterior serão criados os lugares necessários, a extinguir quando vagarem, os quais não serão considerados para efeitos da regra de densidade estabelecida pelo n.º 3 do artigo 15.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 406/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1982-375267), de 27 de Setembro.
 
-###### Art. 2.º A deliberação que integra os funcionários nos termos do número anterior será comunicada, no prazo de 48 horas, ao presidente da comissão de coordenação regional respectiva, para efeitos de publicação no Diário da República.
+Art. 2.º A deliberação que integra os funcionários nos termos do número anterior será comunicada, no prazo de 48 horas, ao presidente da comissão de coordenação regional respectiva, para efeitos de publicação no Diário da República.
 
-###### Art. 3.º Nos 30 dias seguintes à tomada de posse, os processos de cadastro desses funcionários serão remetidos à comissão de coordenação regional, integrados de todos os documentos de prova dos requisitos necessários ao provimento no lugar que ocupavam à data de extinção dos serviços municipalizados.
+Art. 3.º Nos 30 dias seguintes à tomada de posse, os processos de cadastro desses funcionários serão remetidos à comissão de coordenação regional, integrados de todos os documentos de prova dos requisitos necessários ao provimento no lugar que ocupavam à data de extinção dos serviços municipalizados.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 23 de Maio de 1983.**
+Promulgado em 23 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Maio de 1983.**
+Referendado em 30 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/12700/13201323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1986-226860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99c4d2798bafacbb893069f79848746f40cfb6b5bc072ccf32e7bc14bf081f70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 769e0bab949ab4db0f1ca047360094994f3adf2d0317f7206ee380e36961ed92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Instituto Superior de Economia
+- Orgânica
+- Rectificação de Numero de Diploma
+- Rectificação de TIPO de Diploma
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:01Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +138,13 @@ O Governo decreta, nos termos das alíneas c) e g) do artigo 202.º da Constitui
 
 ### CAPÍTULO I — (Natureza e atribuições)
 
-###### Artigo 1.º - 1 - É criado o Centro de Informática do Instituto Superior de Economia, adiante designado abreviadamente por CIISE, na dependência do conselho directivo do Instituto Superior de Economia (ISE).
+Artigo 1.º - 1 - É criado o Centro de Informática do Instituto Superior de Economia, adiante designado abreviadamente por CIISE, na dependência do conselho directivo do Instituto Superior de Economia (ISE).
 
 2 - O CIISE constituirá um nó da rede do Complexo de Informática da Universidade Técnica de Lisboa (CIUT).
 
-###### Art. 2.º O CIISE tem por finalidade a prestação de serviços informáticos, tanto ao nível de processamento como de apoio técnico e formação, a unidades e serviços do ISE e, secundariamente, a outros organismos públicos, mormente aos dependentes do Ministério da Educação, podendo, eventualmente, prestar o mesmo tipo de serviços a entidades privadas.
+Art. 2.º O CIISE tem por finalidade a prestação de serviços informáticos, tanto ao nível de processamento como de apoio técnico e formação, a unidades e serviços do ISE e, secundariamente, a outros organismos públicos, mormente aos dependentes do Ministério da Educação, podendo, eventualmente, prestar o mesmo tipo de serviços a entidades privadas.
 
-###### Art. 3.º Para cumprimento dos fins referidos artigo anterior as grandes áreas operacionais do CIISE são as seguintes:
+Art. 3.º Para cumprimento dos fins referidos artigo anterior as grandes áreas operacionais do CIISE são as seguintes:
 
 a) Aplicações científicas e pedagógicas;
 
@@ -117,9 +152,9 @@ b) Promoção e divulgação das técnicas informáticas;
 
 c) Aplicações administrativas.
 
-###### Art. 4.º As aplicações científicas e pedagógicas, a prestar prioritariamente ao ISE, aos estabelecimentos de ensino superior integrados na UTL e seus organismos de investigação, compreendem, essencialmente, o processamento e a consultadoria ao nível da utilização dos sistemas de exploração, compiladores, interpretadores, programas utilitários e outros programas de uso generalizado.
+Art. 4.º As aplicações científicas e pedagógicas, a prestar prioritariamente ao ISE, aos estabelecimentos de ensino superior integrados na UTL e seus organismos de investigação, compreendem, essencialmente, o processamento e a consultadoria ao nível da utilização dos sistemas de exploração, compiladores, interpretadores, programas utilitários e outros programas de uso generalizado.
 
-###### Art. 5.º A promoção e divulgação das técnicas informáticas compreendem o seguinte:
+Art. 5.º A promoção e divulgação das técnicas informáticas compreendem o seguinte:
 
 a) Apoio, em termos de processamento, ao ensino ministrado no ISE;
 
@@ -127,7 +162,7 @@ b) Organização e implementação de cursos intensivos de formação de pessoal
 
 c) Formação dos utilizadores.
 
-###### Art. 6.º As aplicações administrativas compreendem o seguinte:
+Art. 6.º As aplicações administrativas compreendem o seguinte:
 
 a) Organização e racionalização de processos;
 
@@ -139,13 +174,13 @@ d) Processamento e controle de qualidade dos serviços.
 
 ### CAPÍTULO II — (Órgãos, serviços e suas competências)
 
-###### Art. 7.º São órgãos do CIISE:
+Art. 7.º São órgãos do CIISE:
 
 a) O conselho de gestão;
 
 b) O conselho de utentes.
 
-###### Art. 8.º - 1 - O conselho de gestão do CIISE terá a seguinte constituição:
+Art. 8.º - 1 - O conselho de gestão do CIISE terá a seguinte constituição:
 
 a) Um docente nomeado pelo reitor da UTL, sob proposta do conselho directivo do ISE, que presidirá;
 
@@ -155,7 +190,7 @@ c) Um funcionário dos mais categorizados em exercício de funções no Centro, 
 
 2 - Os mandatos terão a duração de três anos.
 
-###### Art. 9.º Compete ao conselho de gestão:
+Art. 9.º Compete ao conselho de gestão:
 
 a) Propor anualmente ao conselho directivo do ISE o plano e orçamento a que deverá subordinar-se o Centro, bem como as medidas legislativas e administrativas necessárias ao bom desempenho das suas atribuições;
 
@@ -181,7 +216,7 @@ l) Elaborar o relatório anual de actividades e submetê-lo a parecer do conselh
 
 m) Praticar os demais actos de administração e gestão necessários ao bom funcionamento do Centro.
 
-###### Art. 10.º - 1 - Ao presidente do conselho de gestão compete:
+Art. 10.º - 1 - Ao presidente do conselho de gestão compete:
 
 a) Administrar e gerir o Centro de Informática, assegurando o cumprimento dos objectivos do plano de trabalhos;
 
@@ -193,7 +228,7 @@ d) Participar nas reuniões do conselho de utentes.
 
 2 - O cargo de presidente do conselho de gestão é equiparado, para efeitos de remuneração, ao de director de serviços.
 
-###### Art. 11.º - 1 - O conselho de utentes do Centro terá a seguinte constituição:
+Art. 11.º - 1 - O conselho de utentes do Centro terá a seguinte constituição:
 
 a) O presidente do conselho directivo do ISE ou pessoa em quem ele delegar, que presidirá;
 
@@ -213,7 +248,7 @@ h) Um representante dos serviços administrativos.
 
 2 - A primeira reunião do conselho de utentes será convocada pelo presidente nos 30 dias seguintes à posse do conselho de gestão do Centro.
 
-###### Art. 12.º Compete ao conselho de utentes:
+Art. 12.º Compete ao conselho de utentes:
 
 a) Dar parecer sobre o plano de actividades e o programa de trabalhos do Centro;
 
@@ -225,7 +260,7 @@ d) Elaborar o seu regulamento;
 
 e) Dar parecer sobre as tarifas e limites de tempo previstos no artigo 17.º
 
-###### Art. 13.º - 1 - O CIISE tem os seguintes núcleos:
+Art. 13.º - 1 - O CIISE tem os seguintes núcleos:
 
 a) Núcleo de exploração;
 
@@ -241,13 +276,13 @@ c) Núcleo de aplicações administrativas.
 
 5 - Estes núcleos são, até à institucionalização do complexo informático da UTL, os embriões dos seus futuros serviços.
 
-###### Art. 14.º O CIISE disporá de uma secção administrativa, a qual assegurará as áreas de contabilidade e tesouraria, expediente geral e pessoal.
+Art. 14.º O CIISE disporá de uma secção administrativa, a qual assegurará as áreas de contabilidade e tesouraria, expediente geral e pessoal.
 
 ### CAPÍTULO III — (Gestão patrimonial e financeira)
 
-###### Art. 15.º O orçamento do CIISE constituirá uma subdivisão orgânica do orçamento do ISE.
+Art. 15.º O orçamento do CIISE constituirá uma subdivisão orgânica do orçamento do ISE.
 
-###### Art. 16.º - 1 - O Centro disporá das seguintes receitas:
+Art. 16.º - 1 - O Centro disporá das seguintes receitas:
 
 a) As importâncias cobradas por serviços prestados a organismos exteriores;
 
@@ -267,7 +302,7 @@ f) Quaisquer outras receitas que por lei, contrato ou a qualquer outro título l
 
 4 - Nos termos do número anterior, o conselho de gestão do CIISE gozará da competência atribuída aos órgãos responsáveis dos serviços com autonomia administrativa e financeira.
 
-###### Art. 17.º - 1 - O Centro não cobrará os serviços prestados, até limites de tempo fixados pelo reitor, sob proposta do conselho de gestão, quer aos organismos da Universidade, quer ainda a quaisquer outros organismos do Ministério da Educação que funcionem sem fins lucrativos.
+Art. 17.º - 1 - O Centro não cobrará os serviços prestados, até limites de tempo fixados pelo reitor, sob proposta do conselho de gestão, quer aos organismos da Universidade, quer ainda a quaisquer outros organismos do Ministério da Educação que funcionem sem fins lucrativos.
 
 2 - Os serviços prestados para além dos limites referidos no número anterior, bem como os prestados a organismos exteriores ao Ministério da Educação, serão cobrados de acordo com as respectivas tarifas, aprovadas pelo reitor.
 
@@ -275,7 +310,7 @@ f) Quaisquer outras receitas que por lei, contrato ou a qualquer outro título l
 
 ### CAPÍTULO IV — (Pessoal)
 
-###### Art. 18.º - 1 - O quadro de pessoal do Centro é o constante do mapa I anexo a este diploma e compreenderá os seguintes grupos de pessoal:
+Art. 18.º - 1 - O quadro de pessoal do Centro é o constante do mapa I anexo a este diploma e compreenderá os seguintes grupos de pessoal:
 
 a) Pessoal dirigente;
 
@@ -293,39 +328,39 @@ c) Carreira de operador;
 
 d) Carreira de operador de registo de dados.
 
-###### Art. 19.º O recrutamento e provimento nas categorias das carreiras constantes do artigo anterior serão feitos de acordo com o disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, para o pessoal de informática, no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, para o pessoal administrativo, e, nos termos da alínea g) do n.º 1 do artigo 43.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, para a de chefe de secção.
+Art. 19.º O recrutamento e provimento nas categorias das carreiras constantes do artigo anterior serão feitos de acordo com o disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, para o pessoal de informática, no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, para o pessoal administrativo, e, nos termos da alínea g) do n.º 1 do artigo 43.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, para a de chefe de secção.
 
 ### CAPÍTULO V — (Disposições gerais e transitórias)
 
-###### Art. 20.º O pessoal do Centro não poderá, sem prévia autorização do respectivo conselho de gestão, divulgar as actividades que aí se desenvolvem, bem como o resultado das mesmas.
+Art. 20.º O pessoal do Centro não poderá, sem prévia autorização do respectivo conselho de gestão, divulgar as actividades que aí se desenvolvem, bem como o resultado das mesmas.
 
-###### Art. 21.º Os docentes universitários poderão, eventualmente, exercer funções no Centro, para além das funções docentes e dentro do seu horário normal, mediante deliberação do conselho científico do Instituto Superior de Economia, sem direito a qualquer remuneração adicional.
+Art. 21.º Os docentes universitários poderão, eventualmente, exercer funções no Centro, para além das funções docentes e dentro do seu horário normal, mediante deliberação do conselho científico do Instituto Superior de Economia, sem direito a qualquer remuneração adicional.
 
-###### Art. 22.º O Centro poderá atribuir bolsas aos alunos do Instituto Superior de Economia, pagas pelas suas verbas próprias, de acordo com regulamento a aprovar pelo Ministro da Educação.
+Art. 22.º O Centro poderá atribuir bolsas aos alunos do Instituto Superior de Economia, pagas pelas suas verbas próprias, de acordo com regulamento a aprovar pelo Ministro da Educação.
 
-###### Art. 23.º O Centro ora criado será reestruturado quando da criação do Complexo de Informática da Universidade Técnica de Lisboa.
+Art. 23.º O Centro ora criado será reestruturado quando da criação do Complexo de Informática da Universidade Técnica de Lisboa.
 
-###### Art. 24.º Os primeiros membros do conselho de gestão previstos no artigo 8.º serão nomeados pelo reitor, no prazo de 30 dias, a contar da data da publicação do presente diploma.
+Art. 24.º Os primeiros membros do conselho de gestão previstos no artigo 8.º serão nomeados pelo reitor, no prazo de 30 dias, a contar da data da publicação do presente diploma.
 
-###### Art. 25.º São extintos no quadro do pessoal do ISE, constante do mapa II anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, com a composição que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 190/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1982-392463), de 31 de Maio, os lugares constantes do mapa II anexo ao presente diploma.
+Art. 25.º São extintos no quadro do pessoal do ISE, constante do mapa II anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, com a composição que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 190/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1982-392463), de 31 de Maio, os lugares constantes do mapa II anexo ao presente diploma.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 15 de Maio de 1986.**
+Promulgado em 15 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Maio de 1986.**
+Referendado em 21 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 Quadro de pessoal do Centro de Informática do Instituto Superior de Economia a que se refere o artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/12700/13201323.pdf))](https://files.diariodarepublica.pt/1s/1986/06/12700/13201323.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/12700/13201323.pdf)
 
 MAPA II
 
@@ -333,4 +368,4 @@ Lugares a extinguir no mapa II anexo ao [Decreto-Lei n.º 536/79](https://diario
 
 Universidade Técnica de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/12700/13201323.pdf))](https://files.diariodarepublica.pt/1s/1986/06/12700/13201323.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/12700/13201323.pdf)

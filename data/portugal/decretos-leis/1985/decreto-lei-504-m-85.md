@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 300/1985, 5º Suplemento, Série I de 1985-12-30
   number: '300'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 4252-(38) a 4252-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30005/00380041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-m-1985-250670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4717ae3dd1ac1e838c73fa219002bbe326e8a91f1a61238793ff514818b7fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55757c7b7fd6d6e52ac69d1d2a713f9d5d44dab0d6cb38ef409a14e5521afc31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cobrança de Impostos
+- IVA
+- Madeira.região Autónoma
+- Restituição de Impostos
 relationships:
 - type: amended_by
   target: pt:dre:561470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285142:por
+  label: "Alterados os arts. 4º, 10º, 11º e 14º, e aditado o art. 7.º-A, pelo DEC LEI.122/88.1988.04.20.MF, DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1988-285142
+  date: '1988-04-20'
+- type: amended_by
+  target: pt:dre:620353:por
+  label: Alterados os arts. 14.º e 20.º pelo DEC LEI.195/89.12.06.1989.MF, DR.IS [133] de 12.06.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1989-620353
+  date: '1989-06-12'
+- type: amended_by
+  target: pt:dre:647731:por
+  label: "Alterados os arts. 2º, 4º, 6º, 7º, 14º e 16º, pelo DEC LEI.233/91.1991.06.26.MF, DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-1991-647731
+  date: '1991-06-26'
+- type: amended_by
+  target: pt:dre:291947:por
+  label: "Alterada a redacção dos arts. 10º, 11º e 15º, pelo DEC LEI.139/92.1992.07.17.MF, DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1992-291947
+  date: '1992-07-17'
+- type: amended_by
+  target: pt:dre:501870:por
+  label: "Alterada a redacção dos arts. 1º, 4º, 11º e revogado o art. 5º pelo DEC LEI.100/95.1995.05.19.MF, DR.IS-A [116]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1995-501870
+  date: '1995-05-19'
+- type: cites
+  target: pt:dre:181004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301854:por
+  label: Rectificado pela DECL.DD4669.07.03.1986.PCM, DR.IS [74]Supl de 31.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301854
+  date: '1986-03-07'
+- type: repealed_by
+  target: pt:dre:561470:por
+  label: "Revogado pelo DEC LEI.229/95.1995.09.11.MF, DR.IS-A [210], considerando-se feitas áquele diploma todas as referências\
+    \ do presente diploma na legislação em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1995-561470
+  date: '1995-09-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:24Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +160,7 @@ Nestes termos, e de harmonia com o citado artigo 6.º do [Decreto-Lei n.º 394-B
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pagamento do imposto sobre o valor acrescentado (IVA) só poderá ser efectuado:
+Artigo 1.º - 1 - O pagamento do imposto sobre o valor acrescentado (IVA) só poderá ser efectuado:
 
 a) No Serviço de Administração do IVA, em todos os casos de autoliquidação, exceptuados os do regime especial dos pequenos retalhistas e das situações previstas no n.º 2 do artigo 26.º do Código do Imposto sobre o Valor Acrescentado;
 
@@ -116,15 +170,15 @@ b) Nas tesourarias da Fazenda Pública, nos casos expressamente exceptuados na a
 
 3 - Para efeitos deste diploma, o Serviço de Administração do IVA será adiante designado por SIVA.
 
-###### Art. 2.º Os recibos passados pelo SIVA relativamente aos pagamentos do imposto que lhe forem efectuados e cuja cobrança esteja a seu cargo deverão ser por ele remetidos aos respectivos sujeitos passivos aquando do envio das declarações periódicas emitidas nos termos do artigo 3.º
+Art. 2.º Os recibos passados pelo SIVA relativamente aos pagamentos do imposto que lhe forem efectuados e cuja cobrança esteja a seu cargo deverão ser por ele remetidos aos respectivos sujeitos passivos aquando do envio das declarações periódicas emitidas nos termos do artigo 3.º
 
-###### Art. 3.º - 1 - Para efeitos do cumprimento das obrigações estabelecidas no n.º 1 do artigo 26.º e nos n.os 1 e 2 do artigo 40.º do Código do Imposto sobre o Valor Acrescentado, o SIVA enviará directamente aos sujeitos passivos que se encontrem registados a declaração periódica com elementos pré-impressos, acompanhada de envelope devidamente endereçado e com porte pago, para devolução daquela declaração.
+Art. 3.º - 1 - Para efeitos do cumprimento das obrigações estabelecidas no n.º 1 do artigo 26.º e nos n.os 1 e 2 do artigo 40.º do Código do Imposto sobre o Valor Acrescentado, o SIVA enviará directamente aos sujeitos passivos que se encontrem registados a declaração periódica com elementos pré-impressos, acompanhada de envelope devidamente endereçado e com porte pago, para devolução daquela declaração.
 
 2 - Completado o preenchimento da declaração pelo seu sujeito passivo, deverá a mesma ser devolvida juntamente com o correspondente meio de pagamento, se for caso disso, utilizando-se o envelope referido no número anterior.
 
 3 - O não recebimento pelo sujeito passivo dos documentos referidos no n.º 1, bem como a sua inutilização, não o desobriga do cumprimento das disposições citadas no mesmo número.
 
-###### Art. 4.º - 1 - O pagamento do imposto pela forma prevista na alínea a) do n.º 1 do artigo 1.º será efectuado por meio de vale de correio, cheque sacado sobre instituição de crédito localizada em terrtório nacional ou transferência conta a conta, não sendo admissível outra forma de pagamento, designadamente através de numerário.
+Art. 4.º - 1 - O pagamento do imposto pela forma prevista na alínea a) do n.º 1 do artigo 1.º será efectuado por meio de vale de correio, cheque sacado sobre instituição de crédito localizada em terrtório nacional ou transferência conta a conta, não sendo admissível outra forma de pagamento, designadamente através de numerário.
 
 2 - O vale do correio ou o cheque será emitido à ordem do SIVA, devendo ser indicado no verso o número de identificação do respectivo sujeito passivo.
 
@@ -136,23 +190,23 @@ b) Nas tesourarias da Fazenda Pública, nos casos expressamente exceptuados na a
 
 6 - A conta indicada para pagamento do imposto só poderá ser debitada se o respectivo saldo comportar integralmente a importância constante da ordem de transferência respeitante a cada período de imposto.
 
-###### Art. 5.º Quando a declaração periódica não for acompanhada do meio de pagamento ou este se mostre insuficiente face ao apuramento feito pelo sujeito passivo, o SIVA procederá à liquidação do respectivo imposto, extraindo, quando for caso disso, o título de cobrança, que será remetido à repartição de finanças competente para os efeitos previstos no artigo 87.º do Código do Imposto sobre o Valor Acrescentado.
+Art. 5.º Quando a declaração periódica não for acompanhada do meio de pagamento ou este se mostre insuficiente face ao apuramento feito pelo sujeito passivo, o SIVA procederá à liquidação do respectivo imposto, extraindo, quando for caso disso, o título de cobrança, que será remetido à repartição de finanças competente para os efeitos previstos no artigo 87.º do Código do Imposto sobre o Valor Acrescentado.
 
-###### Art. 6.º - 1 - Quando a importância constante do meio de pagamento for superior à do imposto apurado pelo SIVA em face da declaração periódica correspondente, será a diferença daí resultante comunicada ao respectivo sujeito passivo, a fim de por ele ser considerada para efeitos da sua compensação nos períodos de imposto seguintes, com a limitação temporal estabelecida na parte final do n.º 6 do artigo 71.º do Código do Imposto sobre o Valor Acrescentado.
+Art. 6.º - 1 - Quando a importância constante do meio de pagamento for superior à do imposto apurado pelo SIVA em face da declaração periódica correspondente, será a diferença daí resultante comunicada ao respectivo sujeito passivo, a fim de por ele ser considerada para efeitos da sua compensação nos períodos de imposto seguintes, com a limitação temporal estabelecida na parte final do n.º 6 do artigo 71.º do Código do Imposto sobre o Valor Acrescentado.
 
 2 - A comunicação referida no número anterior só terá lugar quando a diferença apurada seja igual ou superior ao quantitativo indicado no n.º 3 do artigo 91.º do Código do Imposto sobre o Valor Acrescentado.
 
-###### Art. 7.º Havendo erro na liquidação resultante dos factos previstos no n.º 6 do artigo 71.º do Código do Imposto sobre o Valor Acrescentado e não procedendo o sujeito passivo à respectiva regularização pela forma e nos prazos estabelecidos, deverá o SIVA:
+Art. 7.º Havendo erro na liquidação resultante dos factos previstos no n.º 6 do artigo 71.º do Código do Imposto sobre o Valor Acrescentado e não procedendo o sujeito passivo à respectiva regularização pela forma e nos prazos estabelecidos, deverá o SIVA:
 
 a) Enviar à repartição de finanças respectiva os elementos necessários ao cumprimento do disposto no n.º 1 do artigo 82.º, quando houver imposto entregue a menos;
 
 b) Considerar como não efectuadas quaisquer regularizações posteriores, sendo a diferença entre a importância constante do meio de pagamento enviado e a do imposto apurado no SIVA tratada nos termos dos artigos 5.º e 6.º deste diploma, consoante o seu valor seja, respectivamente, negativo ou positivo.
 
-###### Art. 8.º Sempre que no SIVA seja recebido algum meio de pagamento emitido a favor e que não seja acompanhado da correspondente declaração periódica, sendo, no entanto, possível identificar o sujeito passivo, deverá a respectiva importância ser considerada no pagamento do correspondente imposto que vier a mostrar-se devido.
+Art. 8.º Sempre que no SIVA seja recebido algum meio de pagamento emitido a favor e que não seja acompanhado da correspondente declaração periódica, sendo, no entanto, possível identificar o sujeito passivo, deverá a respectiva importância ser considerada no pagamento do correspondente imposto que vier a mostrar-se devido.
 
-###### Art. 9.º O título de cobrança a que se referem os artigos 5.º e 7.º será constituído por dois talões e um recibo, destinando-se este a ser entregue ao interessado no acto do pagamento do imposto e ou juros, sendo um dos talões arquivados na respectiva tesouraria da Fazenda Pública e o outro remetido ao SIVA.
+Art. 9.º O título de cobrança a que se referem os artigos 5.º e 7.º será constituído por dois talões e um recibo, destinando-se este a ser entregue ao interessado no acto do pagamento do imposto e ou juros, sendo um dos talões arquivados na respectiva tesouraria da Fazenda Pública e o outro remetido ao SIVA.
 
-###### Art. 10.º - 1 - Havendo lugar à devolução de cheques por falta de provisão, o SIVA expedirá, nos dois dias úteis seguintes e sob registo, ofício ao sacador, bem como ao devedor, no caso de este não ser o sacador, para, no prazo de 5 dias úteis, ser regularizada a situação mediante envio de cheque visado ou vale de correio da importância respectiva.
+Art. 10.º - 1 - Havendo lugar à devolução de cheques por falta de provisão, o SIVA expedirá, nos dois dias úteis seguintes e sob registo, ofício ao sacador, bem como ao devedor, no caso de este não ser o sacador, para, no prazo de 5 dias úteis, ser regularizada a situação mediante envio de cheque visado ou vale de correio da importância respectiva.
 
 2 - Havendo insuficiência de provisão na conta bancária mencionada na ordem de transferência, o SIVA expedirá ofício sob registo ao sujeito passivo nos termos e para os efeitos do disposto no número anterior, com as necessárias adaptações.
 
@@ -168,7 +222,7 @@ b) Considerar como não efectuadas quaisquer regularizações posteriores, sendo
 
 8 - Sempre que seja devolvido cheque por falta de provisão e o sujeito passivo não proceda à regularização no prazo e nos termos previstos neste artigo, o SIVA deverá participar a infracção ao tribunal territorialmente competente, para efeitos do procedimento criminal que ao caso couber.
 
-###### Art. 11.º - 1 - Sendo recebido em pagamento cheque com preterição de requisitos essenciais ou inobservância de outras condições legais, o SIVA expedirá, nos dois dias seguintes e sob registo, ofício ao sacador, bem como ao devedor, no caso de este não ser o sacador, para, no prazo de cinco dias úteis, ser regularizada a situação, mediante envio de cheque visado ou vale de correio da importância respectiva.
+Art. 11.º - 1 - Sendo recebido em pagamento cheque com preterição de requisitos essenciais ou inobservância de outras condições legais, o SIVA expedirá, nos dois dias seguintes e sob registo, ofício ao sacador, bem como ao devedor, no caso de este não ser o sacador, para, no prazo de cinco dias úteis, ser regularizada a situação, mediante envio de cheque visado ou vale de correio da importância respectiva.
 
 2 - Sendo recebida em pagamento ordem de transferência com preterição de requisitos essenciais, o SIVA expedirá ofício sob registo ao sujeito passivo nos termos e para os efeitos do número anterior, com as necessárias adaptações.
 
@@ -180,15 +234,15 @@ b) Considerar como não efectuadas quaisquer regularizações posteriores, sendo
 
 6 - Para efeitos de pagamento da taxa de regularização prevista neste artigo, observar-se-á, com as necessárias adaptações, o disposto no n.º 4 do artigo 10.º
 
-###### Art. 12.º - 1 - No caso de devolução de cheques, deverão as instituições de crédito sacadas comunicar o nome do sacador e o respectivo domicílio ou sede.
+Art. 12.º - 1 - No caso de devolução de cheques, deverão as instituições de crédito sacadas comunicar o nome do sacador e o respectivo domicílio ou sede.
 
 2 - Todos os cheques devolvidos que não devam ser remetidos ao tribunal territorialmente competente ficarão arquivados no SIVA durante 5 anos, após o que serão inutilizados.
 
 3 - Sempre que se verifiquem, relativamente a um mesmo devedor, casos repetidos de emissão de cheques sem provisão, poderá o director-geral das Contribuições e Impostos, mediante proposta do SIVA, recusar a aceitação de cheques para pagamento do imposto, salvo se os mesmos estiverem visados, bem como participar o facto ao Banco de Portugal para os efeitos previstos no [Decreto-Lei n.º 14/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1984-531799), de 11 de Janeiro.
 
-###### Art. 13.º Serão considerados nulos os pagamentos efectuados através de cheques que venham a ser devolvidmos ou de ordens de transferência cuja cobrança não tenha sido realizada pelas instituições de crédito e que não sejam regularizados nos termos previstos deste diploma, procedendo-se de harmonia com o estabelecido no artigo 5.º
+Art. 13.º Serão considerados nulos os pagamentos efectuados através de cheques que venham a ser devolvidmos ou de ordens de transferência cuja cobrança não tenha sido realizada pelas instituições de crédito e que não sejam regularizados nos termos previstos deste diploma, procedendo-se de harmonia com o estabelecido no artigo 5.º
 
-###### Art. 14.º - 1 - Os reembolsos do IVA são solicitados:
+Art. 14.º - 1 - Os reembolsos do IVA são solicitados:
 
 a) Nos casos previstos nos n.os 5 e 6 do artigo 22.º do Código do Imposto sobre o Valor Acrescentado, através da declaração prevista na alínea c) do n.º 1 do artigo 28.º ou, tratando-se de sujeitos passivos abrangidos pelo regime especial dos pequenos retalhistas, da declaração referida na alínea b) do n.º 1 do artigos 67.º, ambas do mesmo Código;
 
@@ -198,19 +252,19 @@ b) Nos demais casos previstos na lei, em impresso de modelo aprovado.
 
 3 - Os pedidos de reembolso, depois de informados e sempre que se mostre conveniente, serão apreciados segundo níveis de competência a estabelecer por despacho do director-geral das Contribuições e Impostos.
 
-###### Art. 15.º Os reembolsos do IVA são efectuados pelo SIVA através de:
+Art. 15.º Os reembolsos do IVA são efectuados pelo SIVA através de:
 
 a) Transferência conta a conta, sempre que o sujeito passivo forneça os respectivos dados nas declarações de registo, de início de actividade ou de alterações;
 
 b) Cheque sacado sobre as contas de depósitos à ordem de que o SIVA é titular, nos restantes casos.
 
-###### Art. 16.º - 1 - Nos casos em que se alegue o extravio de declarações, cheques ou vales de correio que tenham sido remetidos ao SIVA, o sujeito passivo poderá justificar, através de exposição devidamente fundamentada, que cumpriu integralmente tal obrigação.
+Art. 16.º - 1 - Nos casos em que se alegue o extravio de declarações, cheques ou vales de correio que tenham sido remetidos ao SIVA, o sujeito passivo poderá justificar, através de exposição devidamente fundamentada, que cumpriu integralmente tal obrigação.
 
 2 - A exposição a que se refere o número anterior deverá dar entrada no SIVA no prazo de 15 dias a contar da data em que o sujeito passivo teve conhecimento do extravio, designadamente através de liquidação oficiosa, e ser acompanhada da competente declaração e ou meio de pagamento em falta.
 
 3 - Apreciada a exposição e aceite a justificação alegada no sentido de não ser imputável ao sujeito passivo a responsabilidade do extravio, poderá o director-geral das Contribuições e Impostos considerar relevada a falta, com todas as consequências legais.
 
-###### Art. 17.º O SIVA deve, através de uma gestão criteriosa, providenciar para que as contas de depósitos à ordem nas instituições de crédito estejam devidamente aprovisionadas, ficando para o efeito autorizado a transferir as importâncias necessárias entre contas de que é titular, para fazer face:
+Art. 17.º O SIVA deve, através de uma gestão criteriosa, providenciar para que as contas de depósitos à ordem nas instituições de crédito estejam devidamente aprovisionadas, ficando para o efeito autorizado a transferir as importâncias necessárias entre contas de que é titular, para fazer face:
 
 a) Ao pagamento de reembolsos e respectivos juros;
 
@@ -218,19 +272,19 @@ b) Ao pagamento de juros devedores à ordem;
 
 c) Ao débito dos cheques devolvidos pelas instituições de crédito.
 
-###### Art. 18.º - 1 - Sempre que o pagamento do imposto ou o seu reembolso sejam efectuados nos termos, respectivamente, da alínea a) do n.º 1 do artigo 1.º e da alínea a) do n.º 1 do artigo 14.º deste diploma e respeitem a sujeitos passivos que, no âmbito das disposições contidas no [Decreto-Lei n.º 347/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1985-181004), de 23 de Agosto, realizem operações exclusivamente numa das Regiões Autónomas dos Açores ou da Madeira, serão os correspondentes montantes movimentados em nome do respectivo governo regional.
+Art. 18.º - 1 - Sempre que o pagamento do imposto ou o seu reembolso sejam efectuados nos termos, respectivamente, da alínea a) do n.º 1 do artigo 1.º e da alínea a) do n.º 1 do artigo 14.º deste diploma e respeitem a sujeitos passivos que, no âmbito das disposições contidas no [Decreto-Lei n.º 347/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1985-181004), de 23 de Agosto, realizem operações exclusivamente numa das Regiões Autónomas dos Açores ou da Madeira, serão os correspondentes montantes movimentados em nome do respectivo governo regional.
 
 2 - No caso previsto no número anterior, e sempre que as operações sejam realizadas em qualquer das Regiões Autónomas dos Açores ou da Madeira conjuntamente com operações localizadas no continente ou na outra região, serão os correspondentes montantes do imposto pago ou reembolsado movimentados proporcionalmente aos valores, respectivamente, do imposto liquidado ou dedutível, imputáveis a cada um daqueles espaços.
 
-###### Art. 19.º - 1 - Os sujeitos passivos mencionados no n.º 2 do artigo anterior, quando obrigados à apresentação de declaração periódica, enviarão ao SIVA, juntamente com esta, anexos relativos às operações que, nos termos do [Decreto-Lei n.º 347/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1985-181004), de 23 de Agosto, se considerem localizadas em cada um daqueles espaços.
+Art. 19.º - 1 - Os sujeitos passivos mencionados no n.º 2 do artigo anterior, quando obrigados à apresentação de declaração periódica, enviarão ao SIVA, juntamente com esta, anexos relativos às operações que, nos termos do [Decreto-Lei n.º 347/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1985-181004), de 23 de Agosto, se considerem localizadas em cada um daqueles espaços.
 
 2 - Os anexos referidos no número anterior farão parte integrante da respectiva declaração periódica.
 
-###### Art. 20.º - 1 - A passagem de fundos para a Caixa Geral do Tesouro, no Banco de Portugal, é efectuada nos dias 6 e 21 de cada mês ou, se aqueles não forem dias úteis, em cada um dos correspondentes dias úteis seguintes, sendo transferido o saldo existente na conta do SIVA no último dia útil anterior à passagem de fundos.
+Art. 20.º - 1 - A passagem de fundos para a Caixa Geral do Tesouro, no Banco de Portugal, é efectuada nos dias 6 e 21 de cada mês ou, se aqueles não forem dias úteis, em cada um dos correspondentes dias úteis seguintes, sendo transferido o saldo existente na conta do SIVA no último dia útil anterior à passagem de fundos.
 
 2 - Na determinação do valor a transferir, o SIVA terá em atenção o produto da cobrança, líquido das importâncias, necessárias à satisfação dos reembolsos e demais encargos referidos no artigo 17.º
 
-###### Art. 21.º - 1 - Para efeitos de gestão, informação e controle, procederá o SIVA à criação de elementos de suporte necessários e adequados à correcta aplicação das disposições contidas neste diploma, donde constem, designadamente:
+Art. 21.º - 1 - Para efeitos de gestão, informação e controle, procederá o SIVA à criação de elementos de suporte necessários e adequados à correcta aplicação das disposições contidas neste diploma, donde constem, designadamente:
 
 a) Registo das operações ocorridas com os sujeitos passivos de imposto derivadas do normal cumprimento das suas obrigações;
 
@@ -242,7 +296,7 @@ d) Registo das operações de passagem de fundos para o Banco de Portugal, a fav
 
 2 - Semanalmente, serão elaborados mapas resumo de contas que evidenciem os movimentos a débito e a crédito ocorridos na semana precedente e o saldo transportado do período anterior e o que transita para o período seguinte, sendo os mesmos enviados às Direcções-Gerais do Tesouro e da Contabilidade Pública e ainda aos governos regionais das regiões autónomas, na parte que a estes diz respeito.
 
-###### Art. 22.º - 1 - Para a execução das normas contidas no presente diploma, fica o director-geral das Contribuições e Impostos autorizado a celebrar os seguintes protocolos de acordo:
+Art. 22.º - 1 - Para a execução das normas contidas no presente diploma, fica o director-geral das Contribuições e Impostos autorizado a celebrar os seguintes protocolos de acordo:
 
 a) Com as instituições de crédito, nos casos de pagamento ou reembolso do IVA, por meio de cheque ou transferência conta a conta;
 
@@ -250,18 +304,18 @@ b) Com a empresa pública Correios e Telecomunicações de Portugal, nos casos d
 
 2 - As minutas dos protocolos a que se refere o número anterior serão submetidas a aprovação prévia do Ministro das Finanças.
 
-###### Art. 23.º Fica autorizado o Ministro das Finanças a, por despacho, criar ou alterar os modelos de livros e impressos que se tornem necessários à execução do presente diploma, bem como adoptar os actuais modelos de livros e demais elementos de escrituração das contas do Estado.
+Art. 23.º Fica autorizado o Ministro das Finanças a, por despacho, criar ou alterar os modelos de livros e impressos que se tornem necessários à execução do presente diploma, bem como adoptar os actuais modelos de livros e demais elementos de escrituração das contas do Estado.
 
-###### Art. 24.º Para ocorrer à satisfação dos pedidos de reembolso no início da vigência do Código do Imposto sobre o Valor Acrescentado, fica autorizado o director-geral das Contribuições e Impostos a levantar, por conta da correspondente rubrica do Orçamento do Estado, a importância considerada necessária para o pagamento daqueles reembolsos, a fim de ser depositada nas contas de depósitos à ordem do SIVA, abertas em cada uma das instituições de crédito que subscrevem o protocolo de acordo referido na alínea a) do n.º 1 do artigo 22.º
+Art. 24.º Para ocorrer à satisfação dos pedidos de reembolso no início da vigência do Código do Imposto sobre o Valor Acrescentado, fica autorizado o director-geral das Contribuições e Impostos a levantar, por conta da correspondente rubrica do Orçamento do Estado, a importância considerada necessária para o pagamento daqueles reembolsos, a fim de ser depositada nas contas de depósitos à ordem do SIVA, abertas em cada uma das instituições de crédito que subscrevem o protocolo de acordo referido na alínea a) do n.º 1 do artigo 22.º
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Dezembro de 1985.**
+Promulgado em 30 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Dezembro de 1985.**
+Referendado em 30 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

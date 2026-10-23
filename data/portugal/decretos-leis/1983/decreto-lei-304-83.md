@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1983-452568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 185f8903d1c2baf6da54cbc3477edb657c09d1b27559d4a680d201aeca4385eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cfa0f6ecb0687da8711da84e5caa7e76edb4452a310f6ae6bc43967954f0988
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Aduaneiros
+- Importação
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:622143:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622143:por
+  label: "Suspenso o disposto nos arts. 3.º, 4.º e 6.º, relativamente ao zinco com pelo menos 99,95% de conteúdo de ZN pelo\
+    \ DEC LEI.3/85.1985.01.04.MFP DR.IS [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1985-622143
+  date: '1985-01-04'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626672:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:32Z'
   warnings: []
   errors: []
 ---
@@ -98,38 +121,38 @@ Usando da autorização conferida pela alínea f) do artigo 19.º da [Lei n.º 2
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As posições e subposições pautais a seguir indicadas da Pauta dos Direitos de Importação são alteradas da forma seguinte:
+Artigo 1.º As posições e subposições pautais a seguir indicadas da Pauta dos Direitos de Importação são alteradas da forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14600/23262328.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14600/23262328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14600/23262328.pdf)
 
-###### Art. 2.º As taxas da pauta mínima das subposições 39.01 C. V. a), 39.02 C. I. a), 39.02 C. I. b) 3, 39.02 C. IV. a) e 39.02 C. IV. c) 2 são fixadas em 20% ad valorem.
+Art. 2.º As taxas da pauta mínima das subposições 39.01 C. V. a), 39.02 C. I. a), 39.02 C. I. b) 3, 39.02 C. IV. a) e 39.02 C. IV. c) 2 são fixadas em 20% ad valorem.
 
-###### Art. 3.º As taxas da pauta mínima das subposições pautais a seguir indicadas passam a constituir novos direitos de base, no âmbito do Acordo CEE/Portugal, da Convenção EFTA e do Acordo EFTA/Espanha:
+Art. 3.º As taxas da pauta mínima das subposições pautais a seguir indicadas passam a constituir novos direitos de base, no âmbito do Acordo CEE/Portugal, da Convenção EFTA e do Acordo EFTA/Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14600/23262328.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14600/23262328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14600/23262328.pdf)
 
-###### Art. 4.º - 1 - Os direitos de base das subposições pautais 39.02 C. I. a), 39.02 C. I. b) 3, 39.02 C. IV. a), 39.02 C. IV. c) 2, ex 39.02 C. VII. a), 79.01 A. I. a) e 79.01 A. II. a) referidas no artigo precedente serão reduzidos em 5% 1 ano após a data da entrada em vigor do presente diploma.
+Art. 4.º - 1 - Os direitos de base das subposições pautais 39.02 C. I. a), 39.02 C. I. b) 3, 39.02 C. IV. a), 39.02 C. IV. c) 2, ex 39.02 C. VII. a), 79.01 A. I. a) e 79.01 A. II. a) referidas no artigo precedente serão reduzidos em 5% 1 ano após a data da entrada em vigor do presente diploma.
 
 2 - Salvo o disposto no n.º 3, os direitos de base das restantes subposições pautais indicadas no artigo 3.º serão reduzidos nas proporções e segundo o calendário seguintes:
 
 3 - No âmbito do Acordo EFTA/Espanha, os direitos de base das subposições pautais 34.02 A. III. a), 34.02 A. III. b), 34.02 A. III. c) 1 e 34.02 B. I. serão reduzidos em 5% em 1 de Julho de 1983.
 
-###### Art. 5.º - 1 - As taxas da pauta mínima das subposições pautais 70.20 B. II. a) 2, 70.20 B. II. a) 4 e ex 76.20 - fio-máquina continuam a constituir direitos de base no âmbito dos Acordos referidos no artigo 3.º, os quais, salvo o disposto no n.º 2, serão reduzidos nas proporções e segundo o calendário fixados no n.º 2 do artigo 4.º
+Art. 5.º - 1 - As taxas da pauta mínima das subposições pautais 70.20 B. II. a) 2, 70.20 B. II. a) 4 e ex 76.20 - fio-máquina continuam a constituir direitos de base no âmbito dos Acordos referidos no artigo 3.º, os quais, salvo o disposto no n.º 2, serão reduzidos nas proporções e segundo o calendário fixados no n.º 2 do artigo 4.º
 
 2 - No âmbito do Acordo EFTA/Espanha, a redução para a subposição pautal ex 76.02 - fio-máquina será de 5% em 1 de Julho de 1983.
 
-###### Art. 6.º Os produtos referidos nos artigos 3.º e 5.º, independentemente da sua origem, não ficam sujeitos ao regime da sobretaxa ou de contingentamento à importação a partir da data de reintrodução de direitos.
+Art. 6.º Os produtos referidos nos artigos 3.º e 5.º, independentemente da sua origem, não ficam sujeitos ao regime da sobretaxa ou de contingentamento à importação a partir da data de reintrodução de direitos.
 
-###### Art. 7.º É revogado o [Decreto-Lei n.º 458/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1980-462241), de 10 de Outubro.
+Art. 7.º É revogado o [Decreto-Lei n.º 458/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1980-462241), de 10 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 26 de Maio de 1983.**
+Promulgado em 26 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Maio de 1983.**
+Referendado em 30 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

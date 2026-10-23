@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1982-374251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35f4f175cb21912439f9ac3cd4399948be248bf8c40c5b8a468e6ba6868adf8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e276cb9af581e1181244865887dc476ede42c738266edb17420ec5a40d2f301
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Serviço Nacional de Saúde
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:35Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +95,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Serviço Nacional de Saúde é dotado de autonomia administrativa e financeira, dispondo de orçamento próprio e de receitas afectas às suas despesas.
+Artigo 1.º O Serviço Nacional de Saúde é dotado de autonomia administrativa e financeira, dispondo de orçamento próprio e de receitas afectas às suas despesas.
 
-###### Art. 2.º No orçamento do Serviço Nacional de Saúde são inscritas as verbas globais que lhe são destinadas pelo Orçamento Geral do Estado e, bem assim, as demais receitas que legalmente lhe forem atribuídas.
+Art. 2.º No orçamento do Serviço Nacional de Saúde são inscritas as verbas globais que lhe são destinadas pelo Orçamento Geral do Estado e, bem assim, as demais receitas que legalmente lhe forem atribuídas.
 
-###### Art. 3.º - 1 - Cabe ao Departamento de Gestão Financeira dos Serviços de Saúde, criado pelo Decreto-Lei n.º 513-T1/79, de 27 de Dezembro, elaborar o orçamento do Serviço Nacional de Saúde e apresentar anualmente ao Tribunal de Contas a respectiva conta de gerência.
+Art. 3.º - 1 - Cabe ao Departamento de Gestão Financeira dos Serviços de Saúde, criado pelo Decreto-Lei n.º 513-T1/79, de 27 de Dezembro, elaborar o orçamento do Serviço Nacional de Saúde e apresentar anualmente ao Tribunal de Contas a respectiva conta de gerência.
 
 2 - Cabe igualmente ao Departamento de Gestão Financeira dos Serviços de Saúde requisitar e gerir as verbas provenientes do Orçamento Geral do Estado inscritas no orçamento do Serviço Nacional de Saúde
 
-###### Art. 4.º O disposto nos artigos anteriores não afecta a autonomia que os serviços e estabelecimentos abrangidos pelo Serviço Nacional de Saúde actualmente possuam, pelo que os mesmos continuam sujeitos às normas legais que, em consequência dessa autonomia, lhes são aplicáveis.
+Art. 4.º O disposto nos artigos anteriores não afecta a autonomia que os serviços e estabelecimentos abrangidos pelo Serviço Nacional de Saúde actualmente possuam, pelo que os mesmos continuam sujeitos às normas legais que, em consequência dessa autonomia, lhes são aplicáveis.
 
-###### Art. 5.º O presente diploma produz efeitos desde 4 de Julho de 1982.
+Art. 5.º O presente diploma produz efeitos desde 4 de Julho de 1982.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 19 de Agosto de 1982.**
+Promulgado em 19 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

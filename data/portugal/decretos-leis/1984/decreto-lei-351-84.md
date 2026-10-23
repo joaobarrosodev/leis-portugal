@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1984-400579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38a4b1752fcb0e1261d476dc72a9835414472305209d8956215dc2d7bf020de9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4500f3d7a530337681f5f619d16aa249eb1607b4b979c87a3cca29580773e8de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara de Provadores
+- Criação de Serviços
+- Definição de Competências
+- Federação dos Vinicultores do DÃO
+- Junta de Recurso
+- Vinha
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:23Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +100,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criadas, integrando-se nos Serviços Técnicos da Federação dos Vinicultores do Dão, a Câmara de Provadores e a Junta de Recurso.
+Artigo 1.º São criadas, integrando-se nos Serviços Técnicos da Federação dos Vinicultores do Dão, a Câmara de Provadores e a Junta de Recurso.
 
-###### Art. 2.º A Câmara de Provadores tem as seguintes atribuições:
+Art. 2.º A Câmara de Provadores tem as seguintes atribuições:
 
 a) Fazer a apreciação organoléptica das amostras de vinhos e aguardentes que lhe sejam submetidas para apreciação;
 
@@ -104,15 +110,15 @@ b) Colaborar com os Serviços Técnicos para apreciação dos produtos resultant
 
 c) Estabelecer o intercâmbio de conhecimentos, de experiência e de técnicas com as câmaras de provadores dos organismos congéneres, nacionais ou estrangeiros.
 
-###### Art. 3.º A Câmara de Provadores será constituída por:
+Art. 3.º A Câmara de Provadores será constituída por:
 
 a) 1 presidente, nomeado pela comissão administrativa da Federação dos Vinicultores do Dão;
 
 b) Elementos técnicos do quadro do organismo que revelem qualidades como provadores, até ao máximo de 4, nomeados por aquela comissão administrativa.
 
-###### Art. 4.º A Junta de Recurso é a instância de recurso em relação às deliberações da Câmara de Provadores.
+Art. 4.º A Junta de Recurso é a instância de recurso em relação às deliberações da Câmara de Provadores.
 
-###### Art. 5.º A Junta de Recurso é presidida pelo presidente da Câmara de Provadores e constituída por:
+Art. 5.º A Junta de Recurso é presidida pelo presidente da Câmara de Provadores e constituída por:
 
 a) 2 elementos da Câmara de Provadores;
 
@@ -120,16 +126,16 @@ b) 2 elementos representando a produção, designados pelas respectivas organiza
 
 c) 2 elementos representando o comércio, designados pelas respectivas organizações.
 
-###### Art. 6.º O funcionamento da Câmara de Provadores e da Junta de Recurso será regulamentado por portaria do Ministério da Agricultura, Florestas e Alimentação.
+Art. 6.º O funcionamento da Câmara de Provadores e da Junta de Recurso será regulamentado por portaria do Ministério da Agricultura, Florestas e Alimentação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1984. - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Jacinto José Montalvão de Santos e Silva Marques.
 
-**Promulgado em 17 de Outubro de 1984.**
+Promulgado em 17 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Outubro de 1984.**
+Referendado em 18 de Outubro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

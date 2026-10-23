@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11600/12301232.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1986-227048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93193ec992d32ae0809be0e4d550f2e8b85fffe804c84d452b43e2b392554029
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59218544080fd64084ea4a18d23708e80e127202e776ff55baf6c1f2cc4b72a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Ensino Primário
+- Ensino Secundário
+- Manual Escolar
+- Material de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218678:por
+  label: "Recusada a ratificação do presente diploma e repristinadas as normas legais por ele revogadas pela RES.21/86.17.07.1986.AR,\
+    \ DR.IS [174] de 31.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/21-1986-218678
+  date: '1986-07-17'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:38Z'
   warnings: []
   errors: []
 ---
@@ -111,19 +127,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece as normas a que deve obedecer a escolha dos manuais escolares a utilizar nos ensinos primário, preparatório e secundário.
+Artigo 1.º O presente diploma estabelece as normas a que deve obedecer a escolha dos manuais escolares a utilizar nos ensinos primário, preparatório e secundário.
 
-###### Art. 2.º Para efeitos do presente diploma, considera-se:
+Art. 2.º Para efeitos do presente diploma, considera-se:
 
 a) Manual escolar, todo o instrumento de trabalho impresso e estruturado que se destine ao processo ensino-aprendizagem, apresentando uma progressão sistemática quanto aos objectivos e conteúdos programáticos e quanto à própria organização da aprendizagem;
 
 b) Livro auxiliar, todo o instrumento que, propondo um conjunto de informação, vise a aplicação e avaliação da aprendizagem efectuada, podendo não implicar qualquer organização do processo ensino-aprendizagem.
 
-###### Art. 3.º - 1 - A escolha dos manuais escolares será feita de acordo com os programas que vierem a ser aprovados.
+Art. 3.º - 1 - A escolha dos manuais escolares será feita de acordo com os programas que vierem a ser aprovados.
 
 2 - Os programas a que se refere o número anterior serão fixados por portaria do Ministro da Educação e Cultura para cada uma das disciplinas e áreas disciplinares dos ensinos primário, preparatório e secundário e vigorarão por um período mínimo de dois anos lectivos.
 
-###### Art. 4.º - 1 - A adopção dos manuais escolares pelas escolas será feita, para cada um dos ensinos, nos termos e prazos indicados nos números seguintes deste artigo.
+Art. 4.º - 1 - A adopção dos manuais escolares pelas escolas será feita, para cada um dos ensinos, nos termos e prazos indicados nos números seguintes deste artigo.
 
 2 - No ensino primário, de entre os manuais escolares existentes será adoptado, por fases e por cada área de cada delegação escolar, o que obtiver maior número de votos ou adesão por parte dos directores das escolas, ou equiparados, reunidos sob a presidência do respectivo delegado escolar, com observação do estabelecido nas alíneas abaixo indicadas:
 
@@ -143,33 +159,33 @@ c) Não se verificando consenso, optar-se-á pelo manual escolar que obtiver a a
 
 d) A escolha dos manuais escolares será feita de acordo com critérios definidos, tendo em conta os conteúdos, a forma de comunicação, os métodos e as características dos materiais, de acordo com a ficha anexa.
 
-###### Art. 5.º Para efeitos da escolha referida no artigo anterior os docentes disporão, para consulta, das obras oferecidas pelos autores e editores, as quais deverão obrigatoriamente constar das bibliotecas das delegações escolares e dos estabelecimentos de ensino preparatório e secundário.
+Art. 5.º Para efeitos da escolha referida no artigo anterior os docentes disporão, para consulta, das obras oferecidas pelos autores e editores, as quais deverão obrigatoriamente constar das bibliotecas das delegações escolares e dos estabelecimentos de ensino preparatório e secundário.
 
-###### Art. 6.º Os delegados escolares, presidentes dos conselhos directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo fixarão até 20 de Julho de cada ano, em locais de acesso ao público, a lista dos manuais escolares adoptados, por disciplina ou área disciplinar, com indicação do título, autor e editor.
+Art. 6.º Os delegados escolares, presidentes dos conselhos directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo fixarão até 20 de Julho de cada ano, em locais de acesso ao público, a lista dos manuais escolares adoptados, por disciplina ou área disciplinar, com indicação do título, autor e editor.
 
-###### Art. 7.º Os delegados escolares, presidentes directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo enviarão até 25 de Julho de cada ano à direcção escolar, câmara municipal, direcções-gerais de ensino, delegação regional da Inspecção-Geral de Ensino e ainda à Associação Portuguesa de Editores e Livreiros a lista definitiva dos manuais escolares adoptados com indicação dos títulos, autores, editores e estimativa do número de alunos abrangidos.
+Art. 7.º Os delegados escolares, presidentes directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo enviarão até 25 de Julho de cada ano à direcção escolar, câmara municipal, direcções-gerais de ensino, delegação regional da Inspecção-Geral de Ensino e ainda à Associação Portuguesa de Editores e Livreiros a lista definitiva dos manuais escolares adoptados com indicação dos títulos, autores, editores e estimativa do número de alunos abrangidos.
 
-###### Art. 8.º - 1 - A escolha dos manuais escolares para alunos com deficiência visual terá em consideração os anteriormente adoptados e os catálogos existentes sobre o assunto.
+Art. 8.º - 1 - A escolha dos manuais escolares para alunos com deficiência visual terá em consideração os anteriormente adoptados e os catálogos existentes sobre o assunto.
 
 2 - Do número de alunos, bem como dos manuais escolares, deverá ser elaborada lista a remeter, no máximo, até 20 de Julho ao Centro de Recursos para a Educação Integrada, a fim de atempada reprodução, e ainda às Direcções-Gerais do Ensino Básico e do Ensino Secundário e aos respectivos professores de apoio.
 
-###### Art. 9.º Compete aos delegados escolares, presidentes dos conselhos directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo assegurar o cumprimento do estabelecido no presente diploma, nomeadamente que a escolha do manual escolar se faça de acordo com os princípios previstos nos artigos 4.º e 6.º
+Art. 9.º Compete aos delegados escolares, presidentes dos conselhos directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo assegurar o cumprimento do estabelecido no presente diploma, nomeadamente que a escolha do manual escolar se faça de acordo com os princípios previstos nos artigos 4.º e 6.º
 
-###### Art. 10.º O uso dos manuais escolares adoptados poderá ser suspenso, a todo o tempo, por despacho do Ministro da Educação e Cultura, mediante proposta devidamente fundamentada dos serviços que têm a seu cargo a orientação pedagógica, desde que se verifique que os mesmos contêm graves deficiências de natureza científica.
+Art. 10.º O uso dos manuais escolares adoptados poderá ser suspenso, a todo o tempo, por despacho do Ministro da Educação e Cultura, mediante proposta devidamente fundamentada dos serviços que têm a seu cargo a orientação pedagógica, desde que se verifique que os mesmos contêm graves deficiências de natureza científica.
 
-###### Art. 11.º Nos anos lectivos de 1986-1987 e 1987-1988 manter-se-ão em vigor os programas com os conteúdos que vigoraram no ano lectivo de 1985-1986, sem prejuízo de eventuais simplificações ou adaptações que não impliquem substituição ou inutilização de manuais.
+Art. 11.º Nos anos lectivos de 1986-1987 e 1987-1988 manter-se-ão em vigor os programas com os conteúdos que vigoraram no ano lectivo de 1985-1986, sem prejuízo de eventuais simplificações ou adaptações que não impliquem substituição ou inutilização de manuais.
 
 Visto e aprovado em Conselho de Ministros de 10 de Abril de 1986 - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 24 de Abril de 1986.**
+Promulgado em 24 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Maio de 1986.**
+Referendado em 8 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Ficha anexa a que se refere o artigo 4.º
 

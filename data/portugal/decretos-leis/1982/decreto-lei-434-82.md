@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25100/35913591.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1982-378166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58f9a47d40ef8d1581473bbe4ae43f6a381279070ea01dedef91bd1b33b711c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3fa8f356fe954d4d5802c6c569f2d45211b60c974c7536141219fd1ee056ce4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Cooperativo
+- Ensino Particular
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:50Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +117,9 @@ Verifica-se, contudo, que, em aspectos específicos, a adequação referida se t
 
 Assim sendo, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 17.º do [Decreto-Lei n.º 431-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-a-1980-250433), de 1 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 17.º do [Decreto-Lei n.º 431-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-a-1980-250433), de 1 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 17.º - 1 - ...
+Art. 17.º - 1 - ...
 
 2 - ...
 
@@ -107,12 +127,12 @@ Assim sendo, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201
 
 4 - Os professores serão convocados para a profissionalização em exercício de acordo com a lista ordenada nos termos do número anterior, consoante as necessidades do ensino, as possibilidades técnicas de que o Ministério da Educação disponha e as capacidades das escolas particulares.
 
-###### Art. 2.º Todas as referências feitas no diploma referido no artigo anterior ao [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro, entendem-se feitas a idênticos normativos do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro.
+Art. 2.º Todas as referências feitas no diploma referido no artigo anterior ao [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro, entendem-se feitas a idênticos normativos do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

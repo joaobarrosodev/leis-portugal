@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/04800/04970500.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1985-327147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7b0b33f27aad7585ab796ee7ca6ee5dea22b64dd451d45020ee06595c62b552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a530c36b20c0ea3a0fbdf8ade1755c9729da9aef2bc6c0c7b8be1a924a6acb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Horas Extraordinárias
+- Junta Autónoma dos Portos
+- Trabalho por Turnos
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579967:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:29Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +116,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O trabalho em regime de turnos, em regime de prevenção e o trabalho extraordinário nas administrações e juntas autónomas dos portos reger-se-á pelo disposto no presente diploma.
+Artigo 1.º O trabalho em regime de turnos, em regime de prevenção e o trabalho extraordinário nas administrações e juntas autónomas dos portos reger-se-á pelo disposto no presente diploma.
 
 ### CAPÍTULO I — Do trabalho em regime de turnos
 
-###### Art. 2.º - 1 - Nas administrações e juntas autónomas dos portos, quando as necessidades de serviço o exigirem, poderá ser estabelecido o regime de trabalho por turnos por sectores ou por carreiras de actividade funcional.
+Art. 2.º - 1 - Nas administrações e juntas autónomas dos portos, quando as necessidades de serviço o exigirem, poderá ser estabelecido o regime de trabalho por turnos por sectores ou por carreiras de actividade funcional.
 
 2 - O regime de trabalho por turnos é aquele em que se verifica a existência de, pelo menos, dois períodos de trabalho diário sucessivos.
 
 3 - O estabelecimento do regime de trabalho por turnos carece de autorização do ministro de quem dependam as administrações e juntas autónomas dos portos.
 
-###### Art. 3.º - 1 - O período de trabalho diário em cada turno terá uma duração não superior à do horário normal estabelecido para o grupo profissional a que pertence o pessoal que prestar serviço nesse regime.
+Art. 3.º - 1 - O período de trabalho diário em cada turno terá uma duração não superior à do horário normal estabelecido para o grupo profissional a que pertence o pessoal que prestar serviço nesse regime.
 
 2 - O trabalho prestado fora do período referido no número anterior é considerado extraordinário, sendo-lhe aplicável o disposto no capítulo III.
 
@@ -117,13 +134,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Quando o atraso na rendição exceda o período previsto no número anterior será aplicável o regime sobre faltas e assiduidade.
 
-###### Art. 4.º Os turnos serão sempre rotativos e a mudança de turno nunca poderá ter lugar antes do dia de descanso semanal.
+Art. 4.º Os turnos serão sempre rotativos e a mudança de turno nunca poderá ter lugar antes do dia de descanso semanal.
 
-###### Art. 5.º - 1 - O regime de turnos será permanente quando o trabalho for prestado todos os dias, será semanal prolongado quando for prestado todos os dias úteis o sábados e será semanal quando for prestado apenas nos dias úteis.
+Art. 5.º - 1 - O regime de turnos será permanente quando o trabalho for prestado todos os dias, será semanal prolongado quando for prestado todos os dias úteis o sábados e será semanal quando for prestado apenas nos dias úteis.
 
 2 - O regime de turnos será total quando for prestado em três períodos de trabalho diário e parcial quando for prestado em apenas dois períodos.
 
-###### Art. 6.º - 1 - O trabalho em regime de turnos permanentes não pode ser superior a 6 dias seguidos.
+Art. 6.º - 1 - O trabalho em regime de turnos permanentes não pode ser superior a 6 dias seguidos.
 
 2 - No regime de turnos permanentes os dias de descanso complementar e semanal serão em número igual ao de sábados e domingos que se verificarem no espaço de tempo considerado.
 
@@ -131,7 +148,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O trabalho em regime de turnos prestado em dia feriado, ou admitido como tal, é considerado trabalho extraordinário.
 
-###### Art. 7.º - 1 - A prestação de trabalho em regime de turnos confere direito a uma remuneração mensal complementar, designada por subsídio de turno, constituída por uma percentagem sobre o vencimento base.
+Art. 7.º - 1 - A prestação de trabalho em regime de turnos confere direito a uma remuneração mensal complementar, designada por subsídio de turno, constituída por uma percentagem sobre o vencimento base.
 
 2 - A percentagem referida no número anterior será a seguinte:
 
@@ -151,29 +168,29 @@ e) 20%, quando o regime de turnos for semanal parcial.
 
 5 - As remunerações referidas neste artigo são consideradas para efeitos de aposentação.
 
-###### Art. 8.º O tempo de serviço efectivo prestado em regime de trabalho por turnos será, para efeitos de aposentação, acrescido das percentagens seguintes:
+Art. 8.º O tempo de serviço efectivo prestado em regime de trabalho por turnos será, para efeitos de aposentação, acrescido das percentagens seguintes:
 
 a) 10%, quando o regime de turnos for permanente;
 
 b) 8%, quando o regime de turnos for parcial.
 
-###### Art. 9.º - 1 - Nenhum funcionário ou agente pode recusar-se à prestação de trabalho em regime de turnos se ele for estabelecido pelas entidades gestoras dos portos para o sector ou carreira onde exerce a sua actividade, sem prejuízo, no entanto, de poder ser dispensado da prestação de tal trabalho quando, evocando motivos atendíveis, expressamente o solicite.
+Art. 9.º - 1 - Nenhum funcionário ou agente pode recusar-se à prestação de trabalho em regime de turnos se ele for estabelecido pelas entidades gestoras dos portos para o sector ou carreira onde exerce a sua actividade, sem prejuízo, no entanto, de poder ser dispensado da prestação de tal trabalho quando, evocando motivos atendíveis, expressamente o solicite.
 
 2 - Os casos de recusa não justificada são passíveis de procedimento disciplinar.
 
-###### Art. 10.º A organização dos turnos e correspondentes horários serão estabelecidos pelas administrações e juntas autónomas dos portos, ouvidos os representantes dos trabalhadores.
+Art. 10.º A organização dos turnos e correspondentes horários serão estabelecidos pelas administrações e juntas autónomas dos portos, ouvidos os representantes dos trabalhadores.
 
-###### Art. 11.º À medida que for aplicado o regime de turnos, as administrações e juntas autónomas dos portos poderão fixar o horário de funcionamento obrigatório para os respectivos utentes em correspondência com o referido regime de turnos.
+Art. 11.º À medida que for aplicado o regime de turnos, as administrações e juntas autónomas dos portos poderão fixar o horário de funcionamento obrigatório para os respectivos utentes em correspondência com o referido regime de turnos.
 
 ### CAPÍTULO II — Do regime de prevenção de trabalho
 
-###### Art. 12.º - 1 - Nas administrações e juntas autónomas dos portos, quando as necessidades do serviço o exigirem, poderá ser estabelecido o regime de prevenção de trabalho.
+Art. 12.º - 1 - Nas administrações e juntas autónomas dos portos, quando as necessidades do serviço o exigirem, poderá ser estabelecido o regime de prevenção de trabalho.
 
 2 - O regime de prevenção de trabalho é aquele em que os funcionários ou agentes, após os períodos normais de trabalho, ficam obrigados a permanecer em locais conhecidos que permitam estabelecer um rápido e fácil contacto com os serviços, por forma a possibilitar a sua comparência, quando forem chamados, no período de tempo que for estabelecido pelas administrações e juntas autónomas dos portos, no local de trabalho.
 
 3 - O estabelecimento do regime de prevenção de trabalho carece de autorização do ministro de quem as administrações e juntas autónomas dos portos dependam.
 
-###### Art. 13.º - 1 - O regime de prevenção de trabalho só pode ser adoptado entre dois períodos normais de trabalho consecutivos.
+Art. 13.º - 1 - O regime de prevenção de trabalho só pode ser adoptado entre dois períodos normais de trabalho consecutivos.
 
 2 - O período de prevenção é o espaço de tempo durante o qual se verifica o regime de prevenção.
 
@@ -187,11 +204,11 @@ b) 8%, quando o regime de turnos for parcial.
 
 7 - Quando o interesse do serviço o justificar, poderá, em casos excepcionais, ser considerado um único período de prevenção abrangendo os períodos, respeitantes a dias feriados ou a dias complementares de descanso ou dias de descanso semanal.
 
-###### Art. 14.º O regime de prevenção de trabalho dá direito a uma remuneração horária, no período de prevenção, igual a um quinto do valor da hora normal de trabalho, se ocorrer em dia útil, e a um terço, se ocorrer em dia de descanso semanal ou complementar.
+Art. 14.º O regime de prevenção de trabalho dá direito a uma remuneração horária, no período de prevenção, igual a um quinto do valor da hora normal de trabalho, se ocorrer em dia útil, e a um terço, se ocorrer em dia de descanso semanal ou complementar.
 
-###### Art. 15.º A organização das escalas e correspondentes horários dos funcionários e agentes sujeitos ao regime de prevenção serão estabelecidos, ouvidos os representantes dos trabalhadores, pelas administrações e juntas autónomas dos portos em conformidade com a necessidade dos respectivos sectores onde seja adoptado esse regime.
+Art. 15.º A organização das escalas e correspondentes horários dos funcionários e agentes sujeitos ao regime de prevenção serão estabelecidos, ouvidos os representantes dos trabalhadores, pelas administrações e juntas autónomas dos portos em conformidade com a necessidade dos respectivos sectores onde seja adoptado esse regime.
 
-###### Art. 16.º - 1 - Os funcionários e agentes dos sectores em que for estabelecido o regime de prevenção de trabalho não poderão recusar-se a ser integrados nesse regime sem prejuízo, no entanto, de poderem ser dispensados dessa integração quando, invocando motivos atendíveis, expressamente o solicitem.
+Art. 16.º - 1 - Os funcionários e agentes dos sectores em que for estabelecido o regime de prevenção de trabalho não poderão recusar-se a ser integrados nesse regime sem prejuízo, no entanto, de poderem ser dispensados dessa integração quando, invocando motivos atendíveis, expressamente o solicitem.
 
 2 - Os casos de recusa não justificada são passíveis de procedimento disciplinar.
 
@@ -199,7 +216,7 @@ b) 8%, quando o regime de turnos for parcial.
 
 4 - Quando os funcionários ou agentes não sejam encontrados no seu domicílio ou no local que indicarem e, ainda quando convocados, não compareçam no serviço, perdem o direito à remuneração do respectivo período de prevenção e ficam sujeitos ao procedimento disciplinar a que possa dar lugar essa falta.
 
-###### Art. 17.º - 1 - O trabalho prestado pelos funcionários ou agentes sujeitos ao regime de prevenção, quando convocados, é considerado trabalho extraordinário e remunerado de acordo com o disposto no capítulo III.
+Art. 17.º - 1 - O trabalho prestado pelos funcionários ou agentes sujeitos ao regime de prevenção, quando convocados, é considerado trabalho extraordinário e remunerado de acordo com o disposto no capítulo III.
 
 2 - Para efeito do disposto no artigo anterior o período de trabalho inferior a 3 horas será sempre considerado como correspondente a este número de horas.
 
@@ -207,7 +224,7 @@ b) 8%, quando o regime de turnos for parcial.
 
 ### CAPÍTULO III — Do trabalho extraordinário
 
-###### Art. 18.º - 1 - Considera-se extraordinário o trabalho que, por determinação superior, for prestado fora do período normal de trabalho.
+Art. 18.º - 1 - Considera-se extraordinário o trabalho que, por determinação superior, for prestado fora do período normal de trabalho.
 
 2 - A prestação de trabalho extraordinário só é admitida quando as necessidades do serviço imperiosamente o exigirem, em virtude da acumulação anormal de trabalho ou da urgência na realização de trabalhos especiais.
 
@@ -215,17 +232,17 @@ b) 8%, quando o regime de turnos for parcial.
 
 4 - Os casos de recusa não justificada são passíveis de procedimento disciplinar.
 
-###### Art. 19.º - 1 - Os funcionários ou agentes não poderão prestar mais de 160 horas de trabalho extraordinário por ano.
+Art. 19.º - 1 - Os funcionários ou agentes não poderão prestar mais de 160 horas de trabalho extraordinário por ano.
 
 2 - O limite fixado no número anterior poderá, no entanto, ser excedido em circunstâncias excepcionais, mediante autorização do ministro de quem as administrações e juntas autónomas dos portos dependam ou, quando for impossível, mediante confirmação da mesma entidade, a proferir nos 10 dias posteriores à ocorrência.
 
 3 - Obtido o acordo do funcionário e havendo interesse do serviço, poderá aquele prestar horas de trabalho extraordinário, a compensar por dedução posterior no período normal de trabalho, de acordo com as disponibilidades de serviço, a efectuar dentro do ano civil em que o trabalho for prestado.
 
-###### Art. 20.º - 1 - O pessoal não poderá receber mensalmente por trabalho extraordinário mais de um terço da respectiva remuneração base.
+Art. 20.º - 1 - O pessoal não poderá receber mensalmente por trabalho extraordinário mais de um terço da respectiva remuneração base.
 
 2 - O limite fixado no número anterior poderá ser excedido quando se verifiquem as circunstâncias e condições previstas no n.º 2 do artigo 19.º
 
-###### Art. 21.º - 1 - A prestação de trabalho extraordinário, desde que não se verifique a compensação prevista no n.º 3 do artigo 19.º, dá direito a uma retribuição obtida mediante a aplicação dos seguintes coeficientes, por hora de trabalho:
+Art. 21.º - 1 - A prestação de trabalho extraordinário, desde que não se verifique a compensação prevista no n.º 3 do artigo 19.º, dá direito a uma retribuição obtida mediante a aplicação dos seguintes coeficientes, por hora de trabalho:
 
 a) De segunda-feira a sexta-feira:
 
@@ -259,11 +276,11 @@ sendo V o vencimento base mensal e n o número de horas correspondente ao horár
 
 5 - O trabalho prestado na hora da refeição, quando fixada, será remunerado pelos coeficientes de trabalho extraordinário correspondente.
 
-###### Art. 22.º - 1 - Nos dias de descanso e feriados a prestação de trabalho extraordinário inferior a 4 horas será sempre considerado como correspondente a este número de horas, sem prejuízo do disposto no n.º 3 do artigo 3.º
+Art. 22.º - 1 - Nos dias de descanso e feriados a prestação de trabalho extraordinário inferior a 4 horas será sempre considerado como correspondente a este número de horas, sem prejuízo do disposto no n.º 3 do artigo 3.º
 
 2 - Na prestação de trabalho extraordinário apenas são de considerar, em cada dia, períodos completos de horas sendo o período excedente contado como 1 hora desde que igual ou superior a meia hora.
 
-###### Art. 23.º - 1 - A prestação de trabalho extraordinário em dia de descanso semanal dá direito a 1 dia completo de descanso na semana de trabalho seguinte, com excepção do caso previsto no n.º 3 do artigo 3.º
+Art. 23.º - 1 - A prestação de trabalho extraordinário em dia de descanso semanal dá direito a 1 dia completo de descanso na semana de trabalho seguinte, com excepção do caso previsto no n.º 3 do artigo 3.º
 
 2 - A prestação de trabalho extraordinário para além da 1 hora por pessoal que não preste serviço em regime de turnos dá lugar a descanso no dia seguinte ao do início do trabalho.
 
@@ -273,26 +290,26 @@ sendo V o vencimento base mensal e n o número de horas correspondente ao horár
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 24.º As administrações e juntas autónomas dos portos deverão começar desde já a desenvolver os mecanismos legais com vista a promover a adaptação dos respectivos quadros, necessária à execução do presente diploma, no prazo máximo de 180 dias.
+Art. 24.º As administrações e juntas autónomas dos portos deverão começar desde já a desenvolver os mecanismos legais com vista a promover a adaptação dos respectivos quadros, necessária à execução do presente diploma, no prazo máximo de 180 dias.
 
-###### Art. 25.º As administrações e juntas autónomas dos portos deverão proceder à reclassificação e reconversão profissionais dos efectivos de forma a permitir o seu correcto aproveitamento para execução do disposto no presente diploma, nos termos da legislação aplicável.
+Art. 25.º As administrações e juntas autónomas dos portos deverão proceder à reclassificação e reconversão profissionais dos efectivos de forma a permitir o seu correcto aproveitamento para execução do disposto no presente diploma, nos termos da legislação aplicável.
 
-###### Art. 26.º - 1 - Sempre que o número de chefias seja insuficiente para abranger todos os turnos, devem as administrações e juntas autónomas dos portos diligenciar, nos termos da legislação em vigor, com vista à alteração das respectivas dotações.
+Art. 26.º - 1 - Sempre que o número de chefias seja insuficiente para abranger todos os turnos, devem as administrações e juntas autónomas dos portos diligenciar, nos termos da legislação em vigor, com vista à alteração das respectivas dotações.
 
 2 - Enquanto os quadros das chefias e o enquadramento não estiverem completos, aos responsáveis que tenham a seu cargo a chefia e o enquadramento de turnos rotativos que confiram, nos termos deste diploma, ao pessoal que neles preste trabalho o direito a auferir o subsídio de turno mencionado no artigo 7.º poderá ser atribuída a título excepcional, em condições a definir pela respectiva administração ou junta portuária, uma gratificação correspondente ao montante do subsídio atribuído ao pessoal, que enquadra.
 
 3 - Este regime apenas vigorará pelo prazo máximo de 1 ano, findo o qual o subsídio será eliminado.
 
-###### Art. 27.º Ficam revogadas todas as disposições normativas em contrário, designadamente despachos, instruções genéricas e regulamentos internos dos organismos portuários que disponham sobre a matéria objecto deste diploma.
+Art. 27.º Ficam revogadas todas as disposições normativas em contrário, designadamente despachos, instruções genéricas e regulamentos internos dos organismos portuários que disponham sobre a matéria objecto deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rodrigues Lopes - Carlos Montez Melancia.
 
-**Promulgado em 11 de Fevereiro de 1985.**
+Promulgado em 11 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Fevereiro de 1985.**
+Referendado em 18 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

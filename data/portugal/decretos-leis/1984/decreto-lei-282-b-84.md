@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 192/1984, 1º Suplemento, Série I de 1984-08-20
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2556-(5) a 2556-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19201/00050009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -49,40 +49,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbef4e23a9c390089c655b034381962c275becb785e98fb880a121756f849541
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4de7590e7e4a35aed01ed12330a9c0f1eeb820c81b9b71e7999f2cc3ad721b43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Operador Portuário
+- Regime Jurídico
+- Transporte de Mercadorias
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:571408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUMERO 3 DO ARTIGO 10 PELO DECRETO LEI 387/84, DE 6 DE DEZEMBRO, PUBLICADO NO DR.IS, 282. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-12-06'
+- type: amended_by
+  target: pt:dre:286373:por
+  label: "Alterado o art. 3º pelo DEC LEI.103/88.29.03.1988.MOPTC, DR.IS [74] de 29.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1988-286373
+  date: '1988-03-29'
+- type: amended_by
+  target: pt:dre:355121:por
+  label: "Alterados os artigos 1.º e 4.º pelo DEC LEI.366/88.14.10.1988.MOPTC, DR.IS [238] de 14.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1988-355121
+  date: '1988-10-14'
+- type: cites
+  target: pt:dre:308506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571408:por
+  label: "Revogado pelo DEC LEI.151/90.15.05.1990.MOPTC, DR.IS [111] de 15.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1990-571408
+  date: '1990-05-15'
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:21Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +268,7 @@ f) 1 representante das associações industriais e comerciais;
 
 g) 1 representante dos armadores e agentes de navegação.
 
-###### Artigo 10.º1 - Compete à comissão de tarifas o estudo, apreciação e emissão de parecer sobre propostas de tarifas máximas aplicáveis às operações portuárias, a apresentar anualmente pelos representantes dos operadores portuários até 31 de Julho do ano anterior àquele a que as tarifas respeitam.
+Artigo 10.º1 - Compete à comissão de tarifas o estudo, apreciação e emissão de parecer sobre propostas de tarifas máximas aplicáveis às operações portuárias, a apresentar anualmente pelos representantes dos operadores portuários até 31 de Julho do ano anterior àquele a que as tarifas respeitam.
 
 2 - A autoridade portuária remeterá ao Ministério do Mar, para aprovação das tarifas máximas, o processo elaborado na comissão de tarifas, com o seu parecer.
 
@@ -327,12 +372,12 @@ Nas regiões autónomas poderá aplicar-se o presente diploma, com as alteraçõ
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto - Carlos Montez Melancia.
 
-**Promulgado em 16 de Agosto de 1984.**
+Promulgado em 16 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Agosto de 1984.**
+Referendado em 17 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

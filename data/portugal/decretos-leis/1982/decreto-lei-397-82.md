@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22000/29842985.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1982-375224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d11aadd81ca49ebd0201894f64433e854343f3a49679daef464490489e9e5e07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f362fb08e0220e43f0a9bdcf093a7e48e86e27b561cf70cd1ef7895225d377d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Despachante Oficial
+- Direcção Geral das Alfândegas
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Reforma Aduaneira
+- Regulamento das Sociedades de Despachantes Oficiais e seus Empregados
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:441559:por
+  label: "Revogado o art. 5º pelo DEC LEI.391/83.1983.10.21.MFP, DR.IS [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1983-441559
+  date: '1983-10-21'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:15Z'
   warnings: []
   errors: []
 ---
@@ -98,29 +123,29 @@ Tendo ainda em vista a necessidade de alterar o Regulamento das Sociedades de De
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os despachantes oficiais das ex-colónias que excederam o número de vagas referidas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, são integrados com base na lista de classificações publicada no Diário da República, 2.ª série, n.º 215, de 17 de Setembro de 1980.
+Artigo 1.º - 1 - Os despachantes oficiais das ex-colónias que excederam o número de vagas referidas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, são integrados com base na lista de classificações publicada no Diário da República, 2.ª série, n.º 215, de 17 de Setembro de 1980.
 
 2 - Os actuais despachantes oficiais com cédula supranumerária são, desde já, considerados como pertencendo ao quadro da estância aduaneira onde prestam serviço.
 
 3 - Aos despachantes oficiais aprovados de conformidade com a citada lista, ainda que se não encontrem desempenhando as suas funções, por se não terem constituído em sociedades, é fixado o prazo de 60 dias para requererem a sua nomeação em qualquer dos quadros respeitantes às sedes das alfândegas e suas delegações urbanas.
 
-###### Art. 2.º - 1 - As vagas criadas nos quadros aumentados por aplicação do artigo anterior serão multiplicadas pelo coeficiente 2, criando-se assim tantas vagas quanto os lugares preenchidos.
+Art. 2.º - 1 - As vagas criadas nos quadros aumentados por aplicação do artigo anterior serão multiplicadas pelo coeficiente 2, criando-se assim tantas vagas quanto os lugares preenchidos.
 
 2 - As vagas referidas no número anterior serão, em primeiro concurso documental a realizar nos termos do artigo 450.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, reservadas aos ajudantes que obtiverem aprovação no concurso de provas públicas que se encontra actualmente em curso, nos termos do artigo 441.º da mesma Reforma, podendo os seguintes concursos documentais generalizar-se a quaisquer candidatos legalmente aceites.
 
-###### Art. 3.º São revogados os n.os 7, 8 e 9 do artigo 2.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro.
+Art. 3.º São revogados os n.os 7, 8 e 9 do artigo 2.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro.
 
-###### Art. 4.º O mapa XIII anexo à Reforma Aduaneira será alterado de conformidade com o n.º 1 do artigo 2.º que antecede.
+Art. 4.º O mapa XIII anexo à Reforma Aduaneira será alterado de conformidade com o n.º 1 do artigo 2.º que antecede.
 
-###### Art. 5.º O artigo 4.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
+Art. 5.º O artigo 4.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 4.º Por morte, aposentação, demissão ou qualquer outro impedimento do despachante, os empregados deste podem constituir-se em sociedade, nos termos do regulamento aprovado pelo artigo 9.º do presente decreto-lei, observando-se para tanto o disposto no seu artigo 8.º
+Art. 4.º Por morte, aposentação, demissão ou qualquer outro impedimento do despachante, os empregados deste podem constituir-se em sociedade, nos termos do regulamento aprovado pelo artigo 9.º do presente decreto-lei, observando-se para tanto o disposto no seu artigo 8.º
 
-###### Art. 6.º O artigo 442.º da Reforma Aduaneira passa a ter a seguinte redacção:
+Art. 6.º O artigo 442.º da Reforma Aduaneira passa a ter a seguinte redacção:
 
-###### Artigo 442.º Os candidatos que desejarem prestar provas dos exames referidos no artigo anterior deverão apresentar o seu requerimento na Direcção-Geral das Alfândegas dentro do prazo de 20 dias a contar da publicação do competente aviso no Diário da República, 2.ª série.
+Artigo 442.º Os candidatos que desejarem prestar provas dos exames referidos no artigo anterior deverão apresentar o seu requerimento na Direcção-Geral das Alfândegas dentro do prazo de 20 dias a contar da publicação do competente aviso no Diário da República, 2.ª série.
 
-###### Art. 7.º O artigo 8.º do Regulamento das Sociedades de Despachantes Oficiais e seus Empregados, anexo ao [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
+Art. 7.º O artigo 8.º do Regulamento das Sociedades de Despachantes Oficiais e seus Empregados, anexo ao [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 8.º — (Preferência no preenchimento das vaga de despachantes)
 
@@ -146,8 +171,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 19 de Agosto de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 6 de Setembro de 1982.**
+Promulgado em 6 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

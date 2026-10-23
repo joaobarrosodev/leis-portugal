@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 55/1986, 2º Suplemento, Série I de 1986-03-07
   number: '55'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 564-(14) a 564-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05502/00140017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-e-1986-628062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7850736af74fc5ab4b73c68d84721cd78e11a3806d6097542942986a0e1445bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 228c7d54fbdc24826dfae9809f6b8d87e816890f128256e50c079f8a49b6aa70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471168:por
+  label: "Revogados os arts. 18º e 19º, pelo DEC LEI.118/91.1991.03.21.MNE, DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1991-471168
+  date: '1991-03-21'
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:45Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +120,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - À Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial, prevista no artigo 10.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, compete dar efectividade à acção do Ministério dos Negócios Estrangeiros nos planos das relações internacionais de carácter consular e do apoio às comunidades portuguesas e assegurar a administração financeira e patrimonial do Ministério.
+Artigo 1.º - 1 - À Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial, prevista no artigo 10.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, compete dar efectividade à acção do Ministério dos Negócios Estrangeiros nos planos das relações internacionais de carácter consular e do apoio às comunidades portuguesas e assegurar a administração financeira e patrimonial do Ministério.
 
 2 - À Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial incumbe também representar o Ministério dos Negócios Estrangeiros nas comissões interministeriais e outros organismos que se ocupem de assuntos de natureza consular e, bem assim, presidir às comissões e delegações internacionais de carácter consular cuja presidência caiba ao Ministério dos Negócios Estrangeiros.
 
 ### CAPÍTULO II — Estrutura dos serviços
 
-###### Art. 2.º Para o exercício das suas atribuições, a Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial dispõe dos seguintes serviços:
+Art. 2.º Para o exercício das suas atribuições, a Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial dispõe dos seguintes serviços:
 
 a) Direcção de Serviços de Protecção Consular;
 
@@ -115,7 +136,7 @@ c) Direcção de Serviços da Administração Financeira;
 
 d) Direcção de Serviços da Administração Patrimonial.
 
-###### Art. 3.º A Direcção de Serviços de Protecção Consular compreende:
+Art. 3.º A Direcção de Serviços de Protecção Consular compreende:
 
 a) A Divisão dos Postos Consulares e de Apoio às Comunidades Portuguesas;
 
@@ -123,7 +144,7 @@ b) A Divisão de Protecção Consular, do Notariado e do Registo;
 
 c) A Divisão de Administração.
 
-###### Art. 4.º A Direcção de Serviços de Vistos e da Contabilidade Consular compreende:
+Art. 4.º A Direcção de Serviços de Vistos e da Contabilidade Consular compreende:
 
 a) A Divisão de Vistos;
 
@@ -131,7 +152,7 @@ b) A Divisão da Contabilidade Consular;
 
 c) A Divisão Técnico-Jurídica.
 
-###### Art. 5.º - 1 - A Direcção de Serviços da Administração Financeira compreende:
+Art. 5.º - 1 - A Direcção de Serviços da Administração Financeira compreende:
 
 a) A Divisão de Gestão Financeira;
 
@@ -163,13 +184,13 @@ a) A Repartição do Orçamento;
 
 b) A Repartição da Execução Orçamental.
 
-###### Art. 6.º A Direcção de Serviços da Administração Patrimonial compreende:
+Art. 6.º A Direcção de Serviços da Administração Patrimonial compreende:
 
 a) A Divisão de Gestão Patrimonial e de Infra-Estruturas;
 
 b) A Divisão de Segurança.
 
-###### Art. 7.º À Divisão dos Postos Consulares e de Apoio às Comunidades Portuguesas compete:
+Art. 7.º À Divisão dos Postos Consulares e de Apoio às Comunidades Portuguesas compete:
 
 a) Ocupar-se das questões relativas à criação, extinção e encerramento temporário dos postos consulares;
 
@@ -187,7 +208,7 @@ g) Actuar, junto das autoridades e organismos do país de acolhimento, de acordo
 
 h) Promover e apoiar iniciativas destinadas a apoiar uma crescente implementação social e económica das comunidades portuguesas.
 
-###### Art. 8.º À Divisão de Protecção Consular, do Notariado e do Registo compete:
+Art. 8.º À Divisão de Protecção Consular, do Notariado e do Registo compete:
 
 a) Ocupar-se dos socorros a conceder a portugueses em país estrangeiro e da sua repatriação, quando necessário;
 
@@ -213,7 +234,7 @@ l) Tratar dos assuntos relativos ao cumprimento das leis do serviço militar, qu
 
 m) Ocupar-se dos processos de nacionalidade que não envolvam questões de contencioso.
 
-###### Art. 9.º À Divisão de Administração compete:
+Art. 9.º À Divisão de Administração compete:
 
 a) Controlar a recepção de elementos informativos, tais como listas de passaportes e de vistos emitidos pelos serviços consulares no estrangeiro, organizando estatísticas e fazendo as comunicações convenientes;
 
@@ -221,9 +242,9 @@ b) Guardar os processos ainda não findos, pertencentes aos arquivos de postos e
 
 c) Obter, guardar, registar e distribuir aos postos no estrangeiro os livros de contabilidade, folhetos informativos e impressos consulares, tais como impressos para passaportes e para actos consulares de registo civil, notariado e navegação.
 
-###### Art. 10.º À Divisão de Vistos compete responder às consultas dos postos sobre a concessão de determinados vistos, ouvidos os competentes serviços da Administração portuguesa.
+Art. 10.º À Divisão de Vistos compete responder às consultas dos postos sobre a concessão de determinados vistos, ouvidos os competentes serviços da Administração portuguesa.
 
-###### Art. 11.º À Divisão da Contabilidade Consular compete:
+Art. 11.º À Divisão da Contabilidade Consular compete:
 
 a) Organizar e fiscalizar o serviço de contabilidade dos postos consulares, sem prejuízo das competências legalmente atribuídas ao Ministério das Finanças;
 
@@ -233,7 +254,7 @@ c) Dar parecer acerca dos assuntos relativos às dotações e encargos dos posto
 
 d) Ocupar-se das questões sobre espólios, indemnizações e pensões de portugueses no estrangeiro que não estejam atribuídas a outros serviços do Ministério.
 
-###### Art. 12.º À Divisão Técnico-Jurídico compete:
+Art. 12.º À Divisão Técnico-Jurídico compete:
 
 a) Assegurar a negociação, conclusão e denúncia das convenções consulares;
 
@@ -241,7 +262,7 @@ b) Assegurar a negociação, conclusão e denúncia de acordos para supressão d
 
 e) Assegurar o apoio jurídico às actividades de natureza consular em coordenação com outras entidades competentes na matéria.
 
-###### Art. 13.º À Divisão de Gestão Financeira incumbe:
+Art. 13.º À Divisão de Gestão Financeira incumbe:
 
 a) O desenvolvimento e a aplicação de técnicas e métodos de gestão administrativa e financeira, visando o melhor aproveitamento dos meios financeiros atribuídos ao Ministério;
 
@@ -255,7 +276,7 @@ e) Fazer cumprir e fiscalizar o cumprimento dos contratos de arrendamento para i
 
 f) Acompanhar o despacho alfandegário do Ministério.
 
-###### Art. 14.º À Divisão do Orçamento compete:
+Art. 14.º À Divisão do Orçamento compete:
 
 a) Elaborar o orçamento do Ministério, após prévia consulta aos demais serviços;
 
@@ -265,7 +286,7 @@ c) Propor as alterações orçamentais julgadas convenientes;
 
 d) Remeter mensalmente às direcções-gerais do Ministério mapas actualizados das disponibilidades orçamentais nas suas diversas rubricas.
 
-###### Art. 15.º À Divisão de Gestão Patrimonial e de Infra-Estruturas compete:
+Art. 15.º À Divisão de Gestão Patrimonial e de Infra-Estruturas compete:
 
 a) Manter actualizado o cadastro dos edifícios dos serviços internos e externos do Ministério dos Negócios Estrangeiros, planear a aquisição, arrendamento ou alienação dos mesmos de acordo com planos a médio e longo prazos, propor as obras de conservação necessárias e promover a respectiva decoração de forma que todos apresentem um grau aceitável de representação externa do Estado Português;
 
@@ -283,7 +304,7 @@ g) Superintender no serviço de depósito de impressos o material de expediente,
 
 h) Definir as necessidades em parque automóvel para os serviços internos e externos do Ministério e promover a sua administração em termos de eficiência e economia, de acordo com as regras gerais fixadas pelo Estado.
 
-###### Art. 16.º - 1 - À Divisão de Segurança compete zelar pela segurança de pessoas, instalações e bens do Ministério.
+Art. 16.º - 1 - À Divisão de Segurança compete zelar pela segurança de pessoas, instalações e bens do Ministério.
 
 2 - No uso das atribuições decorrentes do número anterior compete-lhe:
 
@@ -295,23 +316,23 @@ c) Ocupar-se das condições de segurança propondo as medidas e os sistemas mai
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 17.º - 1 - O cargo de director-geral dos Assuntos Consulares e da Administração Financeira e Patrimonial será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre os funcionários do quadro de pessoal do serviço diplomático do Ministério com as categorias de embaixador ou ministro plenipotenciário de 1.ª classe.
+Art. 17.º - 1 - O cargo de director-geral dos Assuntos Consulares e da Administração Financeira e Patrimonial será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre os funcionários do quadro de pessoal do serviço diplomático do Ministério com as categorias de embaixador ou ministro plenipotenciário de 1.ª classe.
 
 2 - O director-geral dos Assuntos Consulares e da Administração Financeira e Patrimonial será coadjuvado por um subdirector-geral.
 
 3 - O cargo de subdirector-geral dos Assuntos Consulares e da Administração Financeira e Patrimonial será provido, por livre escolha do Ministro dos Negócios Estrangeiros, ouvido o director-geral, de entre funcionários do quadro de pessoal do serviço diplomático com as categorias de ministro plenipotenciário de 1.ª ou de 2.ª classe, ou nos termos da lei geral.
 
-###### Art. 18.º Os cargos de director de serviços da Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial serão providos, por livre escolha do Ministro dos Negócios Estrangeiros, sob proposta do director-geral, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de ministro plenipotenciário de 2.ª classe ou de conselheiro de embaixada, ou nos termos da lei geral.
+Art. 18.º Os cargos de director de serviços da Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial serão providos, por livre escolha do Ministro dos Negócios Estrangeiros, sob proposta do director-geral, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de ministro plenipotenciário de 2.ª classe ou de conselheiro de embaixada, ou nos termos da lei geral.
 
-###### Art. 19.º Os cargos de chefe de divisão da Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial serão providos, por livre escolha do Ministro dos Negócios Estrangeiros, sob proposta do director-geral, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de conselheiro de embaixada ou de 1.º secretário de embaixada, ou nos termos da lei geral.
+Art. 19.º Os cargos de chefe de divisão da Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial serão providos, por livre escolha do Ministro dos Negócios Estrangeiros, sob proposta do director-geral, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de conselheiro de embaixada ou de 1.º secretário de embaixada, ou nos termos da lei geral.
 
-###### Art. 20.º Os cargo de chefe de repartição serão providos, nos termos da lei geral, de entre chefes de secção do quadro de pessoal do Ministério dos Negócios Estrangeiros.
+Art. 20.º Os cargo de chefe de repartição serão providos, nos termos da lei geral, de entre chefes de secção do quadro de pessoal do Ministério dos Negócios Estrangeiros.
 
-###### Art. 21.º A Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial disporá do pessoal do quadro do Ministério dos Negócios Estrangeiros que for julgado necessário ao funcionamento dos serviços, o qual será afectado por despacho do secretário-geral, sob proposta do director-geral, sem prejuízo do recurso aos mecanismos previstos na lei geral.
+Art. 21.º A Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial disporá do pessoal do quadro do Ministério dos Negócios Estrangeiros que for julgado necessário ao funcionamento dos serviços, o qual será afectado por despacho do secretário-geral, sob proposta do director-geral, sem prejuízo do recurso aos mecanismos previstos na lei geral.
 
-###### Art. 22.º A Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial poderá, mediante autorização ministerial e de acordo com as disponibilidades orçamentais, celebrar contratos de prestação de serviços com entidades públicas ou privadas competentes para a realização de tarefas consideradas necessárias à prossecução dos seus objectivos.
+Art. 22.º A Direcção-Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial poderá, mediante autorização ministerial e de acordo com as disponibilidades orçamentais, celebrar contratos de prestação de serviços com entidades públicas ou privadas competentes para a realização de tarefas consideradas necessárias à prossecução dos seus objectivos.
 
-###### Art. 23.º - 1 - Para efeitos dos artigos do presente decreto-lei o quadro do pessoal do Ministério dos Negócios Estrangeiras é acrescido das seguintes unidades:
+Art. 23.º - 1 - Para efeitos dos artigos do presente decreto-lei o quadro do pessoal do Ministério dos Negócios Estrangeiras é acrescido das seguintes unidades:
 
 a) Pessoal dirigente:
 
@@ -331,7 +352,7 @@ Um lugar de subdirector-geral;
 
 Um lugar de chefe de repartição.
 
-###### Art. 24.º - 1 - As estruturas dos órgãos ou serviços do Ministério dos Negócios Estrangeiros extintos pelo artigo 19.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, mantêm-se em funcionamento até à data em que os órgãos ou serviços correspondentes, instituídos por aquele diploma, possam assegurar em plenitude o desempenho das respectivas atribuições.
+Art. 24.º - 1 - As estruturas dos órgãos ou serviços do Ministério dos Negócios Estrangeiros extintos pelo artigo 19.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, mantêm-se em funcionamento até à data em que os órgãos ou serviços correspondentes, instituídos por aquele diploma, possam assegurar em plenitude o desempenho das respectivas atribuições.
 
 2 - Os encargos contraídos, processados e pagos desde 1 de Janeiro de 1986 pelas estruturas dos órgãos e serviços extintos referidos no número anterior consideram-se legais para todos os efeitos.
 
@@ -339,16 +360,16 @@ Um lugar de chefe de repartição.
 
 4 - Enquanto não entrar em vigor o Orçamento do Estado para 1986, os encargos resultantes do funcionamento dos órgãos ou serviços da estrutura do Ministério dos Negócios Estrangeiros instituída pelo [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, serão satisfeitos, no corrente ano, por conta das disponibilidades das dotações adequadas inscritas no orçamento de 1985 do Ministério dos Negócios Estrangeiros, em execução nos termos do artigo 15.º da [Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/lei/40-1983-443296), de 13 de Dezembro.
 
-###### Art. 25.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 25.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 7 de Março de 1986.**
+Promulgado em 7 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1986.**
+Referendado em 7 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

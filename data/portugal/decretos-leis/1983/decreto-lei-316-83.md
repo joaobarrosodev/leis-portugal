@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f229f20742d05541c79dc2e05c1c50a14654fb8fd6fd11f91276478d26317e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c689367fe10b7ce2eba8eed357fad8a11fe695616f70dd960209eed5181a7f13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Equivalência de Habilitações Literárias
+- Estatuto da Carreira Docente Universitária
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:3494275:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:44Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +126,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — (Equivalências nacionais)
 
-###### Artigo 1.º Poderá ser conferida equivalência de habilitações nacionais de nível superior a disciplinas dos planos de estudos dos cursos superiores ministrados em estabelecimentos de ensino superior oficial português.
+Artigo 1.º Poderá ser conferida equivalência de habilitações nacionais de nível superior a disciplinas dos planos de estudos dos cursos superiores ministrados em estabelecimentos de ensino superior oficial português.
 
-###### Art. 2.º A concessão das equivalências a que se refere o artigo 1.º é da competência do conselho científico de cada estabelecimento de ensino superior.
+Art. 2.º A concessão das equivalências a que se refere o artigo 1.º é da competência do conselho científico de cada estabelecimento de ensino superior.
 
-###### Art. 3.º - 1 - A equivalência será requerida ao presidente do conselho científico do estabelecimento de ensino superior, devendo o requerimento mencionar, obrigatoriamente, as habilitações de que é requerida equivalência e o objectivo com que esta é requerida.
+Art. 3.º - 1 - A equivalência será requerida ao presidente do conselho científico do estabelecimento de ensino superior, devendo o requerimento mencionar, obrigatoriamente, as habilitações de que é requerida equivalência e o objectivo com que esta é requerida.
 
 2 - O requerimento será instruído com documento comprovativo da aprovação nas habilitações de que se requer equivalência e respectiva classificação se atribuída.
 
 3 - O conselho científico poderá solicitar ao requerente os elementos adicionais que entenda necessários para apreciação do pedido, nomeadamente documentos comprovativos das condições de admissão, regulamentos e programas de estudo e escolaridade.
 
-###### Art. 4.º - 1 - O conselho científico deliberará sobre o pedido nos 30 dias subsequentes à recepção do requerimento devidamente instruído.
+Art. 4.º - 1 - O conselho científico deliberará sobre o pedido nos 30 dias subsequentes à recepção do requerimento devidamente instruído.
 
 2 - Da deliberação cabe recurso, a interpor, no prazo de 8 dias a contar da data em que o requerente dela haja sido notificado, para o reitor da universidade da qual faz parte o estabelecimento de ensino superior.
 
@@ -126,17 +146,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Das deliberações dos conselhos científicos de estabelecimentos de ensino superior não integrados em universidades ou não universitários cabe recurso para o Ministro da Educação, nos termos dos n.os 2 e 3 do presente artigo.
 
-###### Art. 5.º - 1 - Se da delibração a que se refere o n.º 1 do artigo 4.º resultar que o requerente não carece de aprovação em disciplinas adicionais para a concessão de determinado grau ou diploma, cabe à universidade ou estabelecimento de ensino superior emitir a respectiva carta de curso ou diploma.
+Art. 5.º - 1 - Se da delibração a que se refere o n.º 1 do artigo 4.º resultar que o requerente não carece de aprovação em disciplinas adicionais para a concessão de determinado grau ou diploma, cabe à universidade ou estabelecimento de ensino superior emitir a respectiva carta de curso ou diploma.
 
 2 - A carta de curso ou diploma, a que se refere o número anterior, será de modelo a fixar por portaria do Ministro da Educação, sob proposta da universidade ou estabelecimento de ensino superior, e resultará da adaptação do modelo em vigor para os graus e diplomas conferidos a alunos da universidade ou estabelecimento de ensino superior.
 
 ### CAPÍTULO II — (Alterações ao regime de equivalência de habilitações superiores estrangeiras)
 
-###### Art. 6.º - 1 - Ao [Decreto-Lei n.º 555/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1977-404483), de 31 de Dezembro, são aditados os artigos 12.º-A e 13.º-A, com a seguinte redacção:
+Art. 6.º - 1 - Ao [Decreto-Lei n.º 555/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1977-404483), de 31 de Dezembro, são aditados os artigos 12.º-A e 13.º-A, com a seguinte redacção:
 
-###### Art. 12.º-A A concessão da equivalência poderá ser condicionada à aprovação em exames ad hoc ou outro tipo de provas a determinar pelo júri.
+Art. 12.º-A A concessão da equivalência poderá ser condicionada à aprovação em exames ad hoc ou outro tipo de provas a determinar pelo júri.
 
-###### Art. 13-A - 1 - Se da deliberação a que se refere o artigo 13.º resultar que o requerente não carece de aprovação em disciplinas adicionais para a concessão de determinado grau ou diploma, cabe à universidade ou estabelecimento de ensino superior emitir a respectiva carta de curso ou diploma.
+Art. 13-A - 1 - Se da deliberação a que se refere o artigo 13.º resultar que o requerente não carece de aprovação em disciplinas adicionais para a concessão de determinado grau ou diploma, cabe à universidade ou estabelecimento de ensino superior emitir a respectiva carta de curso ou diploma.
 
 2 - A carta de curso ou diploma, a que se refere o número anterior, será de modelo a fixar por portaria do Ministro da Educação, sob proposta da universidade ou estabelecimento de ensino superior, e resultará da adaptação do modelo em vigor para os graus e diplomas conferidos a alunos da universidade ou estabelecimento de ensino superior.
 
@@ -144,19 +164,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO III — (Cursos superiores, planos de estudos e regime administrativo-pedagógico)
 
-###### Art. 7.º - 1 - Os cursos superiores, bem como os ramos ou áreas de especialização em que eventualmente se estruturem, serão criados por portaria do Ministro da Educação, sob proposta do conselho científico do estabelecimento de ensino.
+Art. 7.º - 1 - Os cursos superiores, bem como os ramos ou áreas de especialização em que eventualmente se estruturem, serão criados por portaria do Ministro da Educação, sob proposta do conselho científico do estabelecimento de ensino.
 
 2 - O Ministro da Educação poderá, sempre que o julgar conveniente, submeter as propostas a parecer do Conselho de Reitores das Universidades Portuguesas.
 
-###### Art. 8.º - 1 - Os planos de estudo dos cursos superiores que não sejam organizados em regime de unidades de crédito serão aprovados por portaria do Ministro da Educação, sob proposta do conselho científico do estabelecimento de ensino.
+Art. 8.º - 1 - Os planos de estudo dos cursos superiores que não sejam organizados em regime de unidades de crédito serão aprovados por portaria do Ministro da Educação, sob proposta do conselho científico do estabelecimento de ensino.
 
 2 - Os regimes de estudo dos cursos superiores serão aprovados por portaria do Ministro da Educação, sob proposta do conselho científico, ouvido o conselho pedagógico do estabelecimento de ensino.
 
-###### Art. 9.º As regras referentes a habilitação de acesso, matrícula, inscrição, reingresso, transferência, mudança de curso, duração dos períodos lectivos e de avaliação de conhecimentos, bem como o montante das propinas nos cursos superiores, serão aprovadas por portarias do Ministro da Educação.
+Art. 9.º As regras referentes a habilitação de acesso, matrícula, inscrição, reingresso, transferência, mudança de curso, duração dos períodos lectivos e de avaliação de conhecimentos, bem como o montante das propinas nos cursos superiores, serão aprovadas por portarias do Ministro da Educação.
 
 ### CAPÍTULO IV — (Regime de obtenção do grau de doutor)
 
-###### Art. 10.º É aditado um n.º 5 ao artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, com a seguinte redacção:
+Art. 10.º É aditado um n.º 5 ao artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, com a seguinte redacção:
 
 5 - Serão dispensados das provas a que se refere o n.º 3:
 
@@ -164,9 +184,9 @@ a) Os titulares de uma das habilitações a que a lei expressamente atribua tais
 
 b) Sob requerimento fundamentado do candidato e por deliberação do conselho científico, os titulares de um currículo académico e ou científico que satisfaça aos objectivos das referidas provas.
 
-###### Art. 11.º O artigo 13.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, passa a ter a seguinte redacção:
+Art. 11.º O artigo 13.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 13.º - 1 - Concluídas as provas, o júri reunir-se-á para a sua apreciação e para a classificação do candidato, em votação nominal justificada.
+Art. 13.º - 1 - Concluídas as provas, o júri reunir-se-á para a sua apreciação e para a classificação do candidato, em votação nominal justificada.
 
 2 - Só podem participar na votação os membros do júri que tenham assistido a todas as provas.
 
@@ -180,9 +200,9 @@ b) Sob requerimento fundamentado do candidato e por deliberação do conselho ci
 
 ### CAPÍTULO V — (Alterações ao regime de recrutamento de assistentes)
 
-###### Art. 12.º O artigo 12.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, alterado pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passa a ter a seguinte redacção:
+Art. 12.º O artigo 12.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, alterado pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - Os assistentes são recrutados de entre:
+Art. 12.º - 1 - Os assistentes são recrutados de entre:
 
 a) Assistentes estagiários ou assistentes convidados:
 
@@ -206,20 +226,20 @@ II) Titulares de um grau ou diploma conferido por universidade portuguesa ou est
 
 ### CAPÍTULO VI — (Quadros de professores)
 
-###### Art. 13.º A estrutura orgânica dos quadros dos professores catedráticos e associados será aprovada por portaria do Ministro da Educação, sob proposta do conselho científico do estabelecimento do ensino superior.
+Art. 13.º A estrutura orgânica dos quadros dos professores catedráticos e associados será aprovada por portaria do Ministro da Educação, sob proposta do conselho científico do estabelecimento do ensino superior.
 
-###### Art. 14.º A afectação dos lugares de professores catedráticos e associados aos quadros estruturados nos termos do artigo 13.º será feita sob proposta do conselho científico do estabelecimento de ensino superior, por despacho do reitor da universidade ou, no caso de estabelecimentos de ensino superior não universitários aguardando integração em universidade, por despacho do director-geral do Ensino Superior.
+Art. 14.º A afectação dos lugares de professores catedráticos e associados aos quadros estruturados nos termos do artigo 13.º será feita sob proposta do conselho científico do estabelecimento de ensino superior, por despacho do reitor da universidade ou, no caso de estabelecimentos de ensino superior não universitários aguardando integração em universidade, por despacho do director-geral do Ensino Superior.
 
-###### Art. 15.º O presente diploma prevalece sobre qualquer outra disposição legal, geral ou especial, reguladora da mesma matéria, sem prejuízo da competência dos órgãos próprios das regiões autónomas, nos termos da legislação aplicável.
+Art. 15.º O presente diploma prevalece sobre qualquer outra disposição legal, geral ou especial, reguladora da mesma matéria, sem prejuízo da competência dos órgãos próprios das regiões autónomas, nos termos da legislação aplicável.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco - José Pereira Pinto Balsemão - João José Fraústo, da Silva.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03900/05100511.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1984-660345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86195daa719359ec9f3061c59ec707e3af9bcd4d49cbc2e59ab2739be482be7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 265a66da25c1cf7a228bb48f10529f56cb073a6a09b9d270a6d937ffeb0d7219
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de GADO
+- Fraude Comercial
+- GADO
 relationships:
 - type: amended_by
   target: pt:dre:147215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:389609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:557468:por
+  label: "Revogado pelo DEC LEI.290/90.1990.09.20.MJ DR.IS [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1990-557468
+  date: '1990-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:34Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +122,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A circulação de gado no continente só é permitida em obediência ao preceituado no presente diploma e no seu regulamento.
+Artigo 1.º - 1 - A circulação de gado no continente só é permitida em obediência ao preceituado no presente diploma e no seu regulamento.
 
 2 - O gado em circulação deve ser acompanhado de:
 
@@ -118,17 +142,17 @@ d) Sempre que o interessado seja comerciante do ramo, conhecimento de onde const
 
 6 - O disposto nos números anteriores não se aplica em caso de circulação para salas colectivas de ordenha mecânica nem no local de produção, considerado este como a exploração constituída por prédios agrícolas ou instalações em que os mesmos animais são habitualmente recolhidos, apascentados, cuidados e ordenhados.
 
-###### Art. 2.º Independentemente do preceituado no artigo 1.º, o gado que circule na zona fiscal da fronteira terrestre definida no artigo 694.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, ou que nela permaneça em regime de pastoreio ou de estabulação, está sujeito à guia de circulação prevista nesse artigo.
+Art. 2.º Independentemente do preceituado no artigo 1.º, o gado que circule na zona fiscal da fronteira terrestre definida no artigo 694.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, ou que nela permaneça em regime de pastoreio ou de estabulação, está sujeito à guia de circulação prevista nesse artigo.
 
-###### Art. 3.º A passagem das guias de trânsito e sanitárias de trânsito compete às direcções regionais de agricultura da área de procedência dos animais, obedecendo ao estabelecido no regulamento a que se refere o n.º 1 do artigo 1.º
+Art. 3.º A passagem das guias de trânsito e sanitárias de trânsito compete às direcções regionais de agricultura da área de procedência dos animais, obedecendo ao estabelecido no regulamento a que se refere o n.º 1 do artigo 1.º
 
-###### Art. 4.º Quando a passagem de guias sanitárias de trânsito tenha de ser cometida a médicos veterinários em regime exclusivo de actividade liberal e houver lugar a despesas, serão estas suportadas pela entidade solicitante.
+Art. 4.º Quando a passagem de guias sanitárias de trânsito tenha de ser cometida a médicos veterinários em regime exclusivo de actividade liberal e houver lugar a despesas, serão estas suportadas pela entidade solicitante.
 
-###### Art. 5.º - 1 - No prazo de 180 dias a partir do início da vigência deste diploma, o Governo publicará legislação sobre a entrada e circulação do gado oriundo dos Açores.
+Art. 5.º - 1 - No prazo de 180 dias a partir do início da vigência deste diploma, o Governo publicará legislação sobre a entrada e circulação do gado oriundo dos Açores.
 
 2 - Entretanto, a circulação do gado a que se refere o número anterior, até ao destino, far-se-á mediante a guia sanitária de trânsito em vigor, com observância dos requisitos de identificação e das medidas de política sanitária exigidas para a sua deslocação.
 
-###### Art. 6.º - 1 - O gado que circule com inobservância do disposto no presente diploma e no seu regulamento, e bem assim os respectivos meios de transporte, caso existam, serão apreendidos de acordo com o disposto nos artigos 28.º e 29.º do [Decreto-Lei n.º 187/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1983-451603), de 13 de Maio, lavrando-se auto de notícia.
+Art. 6.º - 1 - O gado que circule com inobservância do disposto no presente diploma e no seu regulamento, e bem assim os respectivos meios de transporte, caso existam, serão apreendidos de acordo com o disposto nos artigos 28.º e 29.º do [Decreto-Lei n.º 187/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1983-451603), de 13 de Maio, lavrando-se auto de notícia.
 
 2 - Após a apreensão e elaboração do termo de depósito - do qual deverão constar, além do mais, as quantidades, espécies e presumíveis valores unitários e totais do apreendido -, os animais serão conduzidos para abate ao matadouro que for indicado pela entidade apreensora, devendo o seu recebimento ser comprovado mediante declaração exarada no verso do duplicado do termo de depósito.
 
@@ -138,34 +162,34 @@ d) Sempre que o interessado seja comerciante do ramo, conhecimento de onde const
 
 5 - A Comissão Coordenadora das Acções de Combate ao Contrabando de Gado/Carne dará conhecimento à alta autoridade a que se refere o [Decreto-Lei n.º 369/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1983-441162), de 6 de Outubro, dos processos em que sejam detectados indícios de corrupção.
 
-###### Art. 7.º - 1 - O gado entregue no matadouro ficará à responsabilidade da Junta Nacional dos Produtos Pecuários, que promoverá o seu abate imediato.
+Art. 7.º - 1 - O gado entregue no matadouro ficará à responsabilidade da Junta Nacional dos Produtos Pecuários, que promoverá o seu abate imediato.
 
 2 - A Junta Nacional dos Produtos Pecuários depositará na Caixa Geral de Depositos, à ordem do processo judicial respectivo, o valor do gado abatido, ao preço da tabela em vigor estabelecida pela mesma Junta, deduzidos os descontos legais e outras despesas que hajam sido efectuadas até ao momento do abate.
 
 3 - Se as reses forem reprovadas para o consumo público, a Junta Nacional dos Produtos Pecuários promoverá o aproveitamento adequado e a comercialização das carcaças, subprodutos e despojos, depositando o seu valor na Caixa Geral de Depositos, à ordem do processo respectivo, deduzidas as despesas efectuadas.
 
-###### Art. 8.º A fiscalização do cumprimento deste diploma incumbe à Direcção-Geral das Alfândegas, à Direcção-Geral de Fiscalização Económica, à Guarda Fiscal, à Guarda Nacional Republicana, à Polícia Marítima, à Polícia Judiciária, à Polícia de Segurança Pública, à Direcção-Geral da Pecuária e às direcções regionais de agricultura, no âmbito das suas competências.
+Art. 8.º A fiscalização do cumprimento deste diploma incumbe à Direcção-Geral das Alfândegas, à Direcção-Geral de Fiscalização Económica, à Guarda Fiscal, à Guarda Nacional Republicana, à Polícia Marítima, à Polícia Judiciária, à Polícia de Segurança Pública, à Direcção-Geral da Pecuária e às direcções regionais de agricultura, no âmbito das suas competências.
 
-###### Art. 9.º A impressão das guias a que se refere o presente diploma e a sua distribuição competem à Direcção-Geral da Pecuária.
+Art. 9.º A impressão das guias a que se refere o presente diploma e a sua distribuição competem à Direcção-Geral da Pecuária.
 
-###### Art. 10.º - 1 - Pela passagem de cada guia será cobrada uma importância a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura, Florestas e Alimentação, sob proposta da Direcção-Geral da Pecuária, ouvidas as direcções regionais de agricultura.
+Art. 10.º - 1 - Pela passagem de cada guia será cobrada uma importância a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura, Florestas e Alimentação, sob proposta da Direcção-Geral da Pecuária, ouvidas as direcções regionais de agricultura.
 
 2 - As importâncias cobradas nos termos do número anterior serão depositadas nos cofres do Estado, à ordem da respectiva direcção regional.
 
-###### Art. 11.º O regulamento a que alude o n.º 1 do artigo 1.º será objecto de decreto regulamentar.
+Art. 11.º O regulamento a que alude o n.º 1 do artigo 1.º será objecto de decreto regulamentar.
 
-###### Art. 12.º É revogado o [Decreto-Lei n.º 58/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1981-389609), de 1 de Abril.
+Art. 12.º É revogado o [Decreto-Lei n.º 58/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1981-389609), de 1 de Abril.
 
-###### Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 1 de Fevereiro de 1984.**
+Promulgado em 1 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Fevereiro de 1984.**
+Referendado em 2 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

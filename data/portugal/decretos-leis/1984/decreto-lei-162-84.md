@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11500/16151617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1984-384041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02beeef6bbd046e231496a8be76d8550ba8703c819a406cf509621ce4f92d7d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78289891710c948260283f7cfe1011aa1cb62a7b3cda3b6c9bdad8a67ebc5f49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Seguro
+- Prémio de Seguro
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:265557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:265557:por
+  label: "Revogado pelo DEC LEI.105/94.1994.04.23.MF, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1994-265557
+  date: '1994-04-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:18Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +116,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os prémios de seguro devem ser pontualmente pagos pelo tomador de seguro, directamente à seguradora ou a outra entidade por esta expressamente designada para o efeito.
+Artigo 1.º - 1 - Os prémios de seguro devem ser pontualmente pagos pelo tomador de seguro, directamente à seguradora ou a outra entidade por esta expressamente designada para o efeito.
 
 2 - Apenas são admitidas as seguintes formas de pagamento dos prémios de seguro: numerário, cheque bancário, cartão de crédito, transferência bancária ou vale postal.
 
-###### Art. 2.º O prémio correspondente a cada período de duração do contrato de seguro é, salvo se o contrato for anulado ou resolvido nos termos legais e regulamentares em vigor, devido por inteiro, sem prejuízo de, em conformidade com o previsto na apólice respectiva, poder ser fraccionado para efeitos de pagamento.
+Art. 2.º O prémio correspondente a cada período de duração do contrato de seguro é, salvo se o contrato for anulado ou resolvido nos termos legais e regulamentares em vigor, devido por inteiro, sem prejuízo de, em conformidade com o previsto na apólice respectiva, poder ser fraccionado para efeitos de pagamento.
 
-###### Art. 3.º - 1 - O prémio ou fracção inicial são devidos na data da celebração do contrato.
+Art. 3.º - 1 - O prémio ou fracção inicial são devidos na data da celebração do contrato.
 
 2 - Em caso de impossibilidade de emissão do recibo no momento referido no número anterior, o prémio ou fracção inicial são devidos na data em que o recibo for emitido pela seguradora, o que se deverá verificar dentro dos prazos determinados por norma do Instituto de Seguros de Portugal.
 
@@ -122,52 +130,52 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Nos contratos de prémio variável, nomeadamente dos ramos de acidentes de trabalho e marítimo, os prémios ou fracções seguintes são devidos na data da emissão do recibo respectivo.
 
-###### Art. 4.º - 1 - A seguradora encontra-se obrigada, até 10 dias antes da data em que o prémio ou fracção é devido nos termos do artigo anterior, a avisar por escrito o tomador de seguro, indicando essa data e o valor a pagar.
+Art. 4.º - 1 - A seguradora encontra-se obrigada, até 10 dias antes da data em que o prémio ou fracção é devido nos termos do artigo anterior, a avisar por escrito o tomador de seguro, indicando essa data e o valor a pagar.
 
 2 - O disposto no número anterior não se aplica aos casos em que o prémio ou fracção inicial tenham sido pagos no momento da celebração do contrato.
 
-###### Art. 5.º - 1 - Na falta de pagamento do prémio ou fracção na data indicada no aviso referido no n.º 1 do artigo anterior, o tomador de seguro constitui-se em mora e, decorridos que sejam 45 dias após aquela data, a garantia concedida pelo contrato será obrigatoriamente suspensa, mediante comunicação feita pela seguradora ao tomador de seguro, através de correio registado com aviso de recepção, nos 30 dias imediatos ao termo daquele prazo, sem prejuízo de os prémios ou fracções seguintes serem igualmente devidos na data estabelecida na apólice respectiva.
+Art. 5.º - 1 - Na falta de pagamento do prémio ou fracção na data indicada no aviso referido no n.º 1 do artigo anterior, o tomador de seguro constitui-se em mora e, decorridos que sejam 45 dias após aquela data, a garantia concedida pelo contrato será obrigatoriamente suspensa, mediante comunicação feita pela seguradora ao tomador de seguro, através de correio registado com aviso de recepção, nos 30 dias imediatos ao termo daquele prazo, sem prejuízo de os prémios ou fracções seguintes serem igualmente devidos na data estabelecida na apólice respectiva.
 
 2 - A suspensão da garantia relativamente a contratos de seguro obrigatório do ramo de acidentes de trabalho deverá ser igualmente transmitida pela seguradora às pessoas seguras através das respectivas estruturas representativas.
 
 3 - A suspensão referida no n.º 1 produz os seus efeitos após o decurso de um prazo de 15 dias, a contar da data do registo do aviso, salvo se o montante em dívida tiver sido, entretanto, liquidado.
 
-###### Art. 6.º - 1 - Fica vedado à seguradora, sem prejuízo do disposto no número seguinte, efectuar qualquer prestação ao tomador de seguro, ao segurado, a pessoas seguras ou a quaisquer terceiros em consequência de sinistros verificados durante o período em que a garantia se encontrar suspensa nos termos do artigo anterior.
+Art. 6.º - 1 - Fica vedado à seguradora, sem prejuízo do disposto no número seguinte, efectuar qualquer prestação ao tomador de seguro, ao segurado, a pessoas seguras ou a quaisquer terceiros em consequência de sinistros verificados durante o período em que a garantia se encontrar suspensa nos termos do artigo anterior.
 
 2 - Nos contratos de seguro obrigatório, a suspensão só é oponível ao tomador de seguro, devendo a seguradora exigir deste o reembolso das prestações efectuadas a quaisquer pessoas seguras ou terceiros em consequência de sinistros ocorridos durante o período de suspensão.
 
-###### Art. 7.º - 1 - Decorridos 90 dias após o início da suspensão sem que os prémios ou fracções em dívida tenham sido liquidados, a seguradora resolverá imediatamente o contrato, se, na comunicação referida no n.º 1 do artigo 5.º, tiver manifestada tal intenção.
+Art. 7.º - 1 - Decorridos 90 dias após o início da suspensão sem que os prémios ou fracções em dívida tenham sido liquidados, a seguradora resolverá imediatamente o contrato, se, na comunicação referida no n.º 1 do artigo 5.º, tiver manifestada tal intenção.
 
 2 - Na ausência desta manifestação, a seguradora, nos 10 dias subsequentes ao termo do prazo previsto no número anterior, deverá avisar o tomador de seguro, de novo por correio registado, com aviso de recepção, que deve considerar resolvido o contrato no quinto dia posterior à data da recepção, se entretanto não tiverem sido liquidados os prémios ou fracções em dívida, acrescidos dos respectivos juros de mora.
 
 3 - A resolução não exonera o tomador de seguro da obrigação de liquidar os prémios ou fracções em dívida, bem como o que a seguradora tiver pago ao abrigo do disposto no n.º 2 do artigo 6.º, acrescidos dos respectivos juros de mora.
 
-###### Art. 8.º Se o contrato suspenso não chegar a ser resolvido por entretanto terem sido efectuados os pagamentos previstos nos n.os 2 e 3 do artigo anterior, os efeitos da suspensão caducam ao meio-dia do dia seguinte àquele em que tiver ocorrido ou tiver sido completado o pagamento.
+Art. 8.º Se o contrato suspenso não chegar a ser resolvido por entretanto terem sido efectuados os pagamentos previstos nos n.os 2 e 3 do artigo anterior, os efeitos da suspensão caducam ao meio-dia do dia seguinte àquele em que tiver ocorrido ou tiver sido completado o pagamento.
 
-###### Art. 9.º As seguradoras não podem aceitar a celebração de qualquer contrato de seguro cujo risco já coberto, total ou parcialmente, tenha a respectiva garantia suspensa nos termos previstos no artigo 5.º ou relativamente ao qual existam quaisquer débitos referidos no n.º 3 do artigo 7.º ou no artigo 10.º
+Art. 9.º As seguradoras não podem aceitar a celebração de qualquer contrato de seguro cujo risco já coberto, total ou parcialmente, tenha a respectiva garantia suspensa nos termos previstos no artigo 5.º ou relativamente ao qual existam quaisquer débitos referidos no n.º 3 do artigo 7.º ou no artigo 10.º
 
-###### Art. 10.º - 1 - As seguradoras devem, de acordo com o sistema normalmente utilizado, proceder, em conformidade com os prazos estabelecidos por norma do Instituto de Seguros de Portugal, à cobrança dos prémios ou fracções vencidos até à data da entrada em vigor do presente decreto-lei e que nessa mesma data ainda se encontrem em dívida.
+Art. 10.º - 1 - As seguradoras devem, de acordo com o sistema normalmente utilizado, proceder, em conformidade com os prazos estabelecidos por norma do Instituto de Seguros de Portugal, à cobrança dos prémios ou fracções vencidos até à data da entrada em vigor do presente decreto-lei e que nessa mesma data ainda se encontrem em dívida.
 
 2 - Os artigos 5.º a 8.º não são aplicáveis às dívidas referidas no número anterior, relativamente às quais podem ser admitidas formas de pagamento diferentes das taxativamente enumeradas no n.º 2 do artigo 1.º
 
-###### Art. 11.º Compete ao Instituto de Seguros de Portugal emitir as normas de coordenação necessárias ao correcto cumprimento do disposto no presente diploma, nomeadamente no que concerne a prazos para emissão de recibos pelas seguradoras e à comunicação prevista no artigo 5.º
+Art. 11.º Compete ao Instituto de Seguros de Portugal emitir as normas de coordenação necessárias ao correcto cumprimento do disposto no presente diploma, nomeadamente no que concerne a prazos para emissão de recibos pelas seguradoras e à comunicação prevista no artigo 5.º
 
-###### Art. 12.º - 1 - As relações entre as seguradoras e os mediadores de seguros que façam cobrança, designadamente no que respeita a prazos para prestação de contas e devolução de recibos, reger-se-ão pelas disposições legais ou normativas específicas em vigor.
+Art. 12.º - 1 - As relações entre as seguradoras e os mediadores de seguros que façam cobrança, designadamente no que respeita a prazos para prestação de contas e devolução de recibos, reger-se-ão pelas disposições legais ou normativas específicas em vigor.
 
 2 - É revogada toda a legislação que contrarie o disposto no presente diploma, nomeadamente o artigo 445.º do Código Comercial.
 
-###### Art. 13.º O presente diploma é aplicável a todos os contratos de seguros, com excepção dos respeitantes ao ramo «Vida».
+Art. 13.º O presente diploma é aplicável a todos os contratos de seguros, com excepção dos respeitantes ao ramo «Vida».
 
-###### Art. 14.º O presente diploma entra em vigor no primeiro dia do terceiro mês seguinte ao da data da sua publicação, aplicando-se, a partir daquele momento, a todos os contratos que venham a ser celebrados, bem como aos contratos já celebrados, na data dos respectivos vencimentos.
+Art. 14.º O presente diploma entra em vigor no primeiro dia do terceiro mês seguinte ao da data da sua publicação, aplicando-se, a partir daquele momento, a todos os contratos que venham a ser celebrados, bem como aos contratos já celebrados, na data dos respectivos vencimentos.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Maio de 1984.**
+Referendado em 8 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

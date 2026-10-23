@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1986-218547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d11c90bc1fff370668211ed9ea2293e7d0f14aebf6ed6af86cd0901414212372
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a958c9c9870718f3c4bf6c4d3b63d0eb1e5011d0b84db391f45ccbb71134fdc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Contrato de Investimento
+- Direito de Estabelecimento
+- Investimento Estrangeiro
+- Política Económica
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:191548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191548:por
+  label: "Revogada a al. c) do nº 1 do art. 2º pelo DEC LEI.397/98.1998.12.17.MDN DR.IS-A [290], no concernente à matéria\
+    \ abrangida por aquele diploma.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/397-1998-191548
+  date: '1998-12-17'
+- type: repealed_by
+  target: pt:dre:191552:por
+  label: "Revogada a al. c) do nº 1 do art. 2º pelo DEC LEI.396/98.1998.12.17.MDN DR.IS-A [290], no concernente à matéria\
+    \ abrangida por aquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1998-191552
+  date: '1998-12-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:52Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +134,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É permitido o estabelecimento a nacionais e estrangeiros em todos os sectores económicos abertos à actividade privada, nos termos da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho, e legislação complementar, com ressalva das limitações e condicionamentos fixados ou previstos em acordos e tratados internacionais a que Portugal se encontre vinculado.
+Artigo 1.º É permitido o estabelecimento a nacionais e estrangeiros em todos os sectores económicos abertos à actividade privada, nos termos da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho, e legislação complementar, com ressalva das limitações e condicionamentos fixados ou previstos em acordos e tratados internacionais a que Portugal se encontre vinculado.
 
-###### Art. 2.º - 1 - Só mediante contratos de concessão temporária se pode efectivar o estabelecimento em sectores onde se verifiquem algumas das seguintes circunstâncias:
+Art. 2.º - 1 - Só mediante contratos de concessão temporária se pode efectivar o estabelecimento em sectores onde se verifiquem algumas das seguintes circunstâncias:
 
 a) A actividade estar ligada, mesmo só ocasionalmente, ao exercício da autoridade pública;
 
@@ -116,11 +146,11 @@ c) Os projectos de investimento, de modo directo ou indirecto, respeitarem à pr
 
 2 - Os condicionalismos substanciais e formais da negociação e contratação das concessões temporárias serão estabelecidos em decreto-lei, consoante os sectores envolvidos.
 
-###### Art. 3.º - 1 - Consideram-se abrangidos pelo disposto no n.º 1 do artigo 2.º, independentemente da sua natureza e características, os projectos de investimento que impliquem, principal ou acessoriamente, a detenção, a posse, a utilização ou a exploração de bens do domínio público não renováveis.
+Art. 3.º - 1 - Consideram-se abrangidos pelo disposto no n.º 1 do artigo 2.º, independentemente da sua natureza e características, os projectos de investimento que impliquem, principal ou acessoriamente, a detenção, a posse, a utilização ou a exploração de bens do domínio público não renováveis.
 
 2 - Serão estabelecidos em decreto-lei os sectores económicos que ficam submetidos ao disposto no n.º 1 do presente artigo.
 
-###### Art. 4.º - 1 - Ficam revogadas todas as disposições legais que, de modo directo ou indirecto, limitam ou condicionam o direito de estabelecimento por critérios baseados na nacionalidade dos investidores ou dos gestores das empresas respectivas.
+Art. 4.º - 1 - Ficam revogadas todas as disposições legais que, de modo directo ou indirecto, limitam ou condicionam o direito de estabelecimento por critérios baseados na nacionalidade dos investidores ou dos gestores das empresas respectivas.
 
 2 - Ficam expressamente revogados:
 
@@ -130,12 +160,12 @@ b) O [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 17 de Julho de 1986.**
+Promulgado em 17 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Julho de 1986.**
+Referendado em 18 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

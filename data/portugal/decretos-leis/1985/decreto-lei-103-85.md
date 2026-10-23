@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1985-325514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdeec5e1e5f4f4b0637a3a023192219e618a28e87c01be4e64c9c4f205a732bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6df2057cd6a0634122a775bee8f609f43375af7321cb11a7df0582e6d5cc5a90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Contratação Colectiva
+- Definição de Competências
+- Governo Regional
+- Madeira.região Autónoma
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:549249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549249:por
+  label: Alterados os arts 1º e 2.º pelo(a) Decreto-Lei n.º 365/89 - Diário da República n.º 241/1989, Série I de 1989-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1989-549249
+  date: '1989-10-19'
+- type: cites
+  target: pt:dre:299068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:27Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +123,9 @@ Assim, ouvidas as regiões autónomas:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.
+Artigo 1.º É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.
 
-###### Art. 2.º - 1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no artigo anterior serão emitidas pelo Governo da República, nos termos da legislação nacional em vigor, e objecto de publicação no Boletim do Trabalho e Emprego e no jornal oficial de cada região autónoma.
+Art. 2.º - 1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no artigo anterior serão emitidas pelo Governo da República, nos termos da legislação nacional em vigor, e objecto de publicação no Boletim do Trabalho e Emprego e no jornal oficial de cada região autónoma.
 
 2 - O Ministro do Trabalho e Segurança Social comunicará às secretarias regionais competentes as oposições que forem deduzidas aos processos de extensão, no prazo de 10 dias a contar da data da respectiva recepção.
 
@@ -118,20 +137,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Quando não haja qualquer oposição à extensão objecto de aviso, os governos regionais poderão proceder à emissão de portaria de extensão, nos termos do artigo 1.º
 
-###### Art. 3.º As portarias de extensão emitidas pelos governos regionais ao abrigo do presente diploma entrarão em vigor, nos mesmos termos das convenções colectivas de trabalho, após publicação no jornal oficial da respectiva região autónoma.
+Art. 3.º As portarias de extensão emitidas pelos governos regionais ao abrigo do presente diploma entrarão em vigor, nos mesmos termos das convenções colectivas de trabalho, após publicação no jornal oficial da respectiva região autónoma.
 
-###### Art. 4.º O disposto no presente diploma não é aplicável aos processos de extensão das convenções colectivas de trabalho e das decisões arbitrais já publicadas no Boletim do Trabalho e Emprego na data da sua entrada em vigor.
+Art. 4.º O disposto no presente diploma não é aplicável aos processos de extensão das convenções colectivas de trabalho e das decisões arbitrais já publicadas no Boletim do Trabalho e Emprego na data da sua entrada em vigor.
 
-###### Art. 5.º Em tudo o que não se achar regulado no presente diploma é aplicável, com as necessárias adaptações, a legislação nacional em vigor.
+Art. 5.º Em tudo o que não se achar regulado no presente diploma é aplicável, com as necessárias adaptações, a legislação nacional em vigor.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Lino Dias Miguel - Tomás George Conceição Silva - Amândio Anes de Azevedo.
 
-**Promulgado em 21 de Março de 1985.**
+Promulgado em 21 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Março de 1985.**
+Referendado em 25 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

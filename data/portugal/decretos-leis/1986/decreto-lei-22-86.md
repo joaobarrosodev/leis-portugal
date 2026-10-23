@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/02/03900/04130415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1986-194242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1768db4c51815f3b98728f486794f2871241431101cdee2e4eab0680886f4fff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 287632e39586703aaa444fc0d56822be12fb87ff6e7f5c8a84b3b8d7d3f39d56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Ciência e Tecnologia
+- Investigação Científica e Tecnológica
 relationships:
 - type: amended_by
   target: pt:dre:145004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575124:por
+  label: "Alterados os arts. 2º, 3º, 4º e 5º pelo DEC LEI.188/90.07.06.1990.MPLAT, DR.IS [131] de 07.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-1990-575124
+  date: '1990-06-07'
+- type: cites
+  target: pt:dre:600105:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145004:por
+  label: "Revogado pelo DEC LEI.8/95.1995.01.18.MPLAT, DR.IS-A [15]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1995-145004
+  date: '1995-01-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:57Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +127,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, junto do ministro responsável pela coordenação das actividades de investigação científica e tecnológica, o Conselho Superior de Ciência e Tecnologia, abreviadamente designado por CSCT.
+Artigo 1.º É criado, junto do ministro responsável pela coordenação das actividades de investigação científica e tecnológica, o Conselho Superior de Ciência e Tecnologia, abreviadamente designado por CSCT.
 
-###### Art. 2.º São atribuições do CSCT:
+Art. 2.º São atribuições do CSCT:
 
 1) Pronunciar-se sobre:
 
@@ -137,7 +153,7 @@ i) Os assuntos que no âmbito da sua competência lhe sejam apresentados pelo se
 
 2) Formular, por sua iniciativa, propostas relativas à política científica e tecnológica nacional, designadamente no âmbito das alíneas referidas no número anterior.
 
-###### Art. 3.º - 1 - O CSCT é um órgão colegial em que estão representados os interesses sectoriais, públicos e privados, no domínio das actividades científicas e tecnológicas, e as entidades cuja competência ou actuação seja relevante no âmbito da política científica e tecnológica nacional.
+Art. 3.º - 1 - O CSCT é um órgão colegial em que estão representados os interesses sectoriais, públicos e privados, no domínio das actividades científicas e tecnológicas, e as entidades cuja competência ou actuação seja relevante no âmbito da política científica e tecnológica nacional.
 
 2 - O CSCT é presidido pelo ministro responsável pela coordenação das actividades de investigação científica e tecnológica e dele farão parte:
 
@@ -167,34 +183,34 @@ j) Até 6 personalidades de reconhecido mérito em matéria de política cientí
 
 5 - O presidente do CSCT poderá convidar a fazerem-se representar nas reuniões do Conselho quaisquer entidades ou personalidades cuja participação seja considerada conveniente.
 
-###### Art. 4.º - 1 - O CSCT disporá de um secretário, que participará nas reuniões do Conselho, sem direito a voto, salvo se for membro do CSCT.
+Art. 4.º - 1 - O CSCT disporá de um secretário, que participará nas reuniões do Conselho, sem direito a voto, salvo se for membro do CSCT.
 
 2 - O secretário do CSCT será nomeado por despacho do ministro que preside ao CSCT.
 
-###### Art. 5.º - 1 - O CSCT elaborará o seu próprio regimento.
+Art. 5.º - 1 - O CSCT elaborará o seu próprio regimento.
 
 2 - O CSCT reunirá em plenário, por convocação do seu presidente, ordinariamente duas vezes por ano, podendo ainda reunir extraordinariamente.
 
 3 - O Conselho poderá ainda reunir por secções, sectores ou grupos de instituições, de acordo com o entendimento do presidente.
 
-###### Art. 6.º - 1 - O CSCT será apoiado pela Junta Nacional de Investigação Científica e Tecnológica (JNICT), a qual assegurará a título permanente o suporte logístico necessário ao seu funcionamento.
+Art. 6.º - 1 - O CSCT será apoiado pela Junta Nacional de Investigação Científica e Tecnológica (JNICT), a qual assegurará a título permanente o suporte logístico necessário ao seu funcionamento.
 
 2 - Na prossecução das suas atribuições, o CSCT solicitará o apoio e a colaboração técnica dos organismos estatais de coordenação, financiamento e execução de investigação científica e tecnológica.
 
-###### Art. 7.º Os membros do CSCT, sempre que se desloquem por motivo da sua participação nas actividades do Conselho, terão direito ao pagamento de ajudas de custo e das despesas de transporte, nos termos da legislação aplicável à função pública, no caso de se tratarem de funcionários públicos, e em montante e condições idênticos aos fixados para a letra A do funcionalismo público, nos restantes casos.
+Art. 7.º Os membros do CSCT, sempre que se desloquem por motivo da sua participação nas actividades do Conselho, terão direito ao pagamento de ajudas de custo e das despesas de transporte, nos termos da legislação aplicável à função pública, no caso de se tratarem de funcionários públicos, e em montante e condições idênticos aos fixados para a letra A do funcionalismo público, nos restantes casos.
 
-###### Art. 8.º Os encargos resultantes da execução deste diploma serão suportados pelas verbas inscritas no orçamento do gabinete do membro do Governo que preside ao CSCT.
+Art. 8.º Os encargos resultantes da execução deste diploma serão suportados pelas verbas inscritas no orçamento do gabinete do membro do Governo que preside ao CSCT.
 
-###### Art. 9.º É revogado o [Decreto-Lei n.º 48/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1982-600105), de 17 de Fevereiro, exceptuados os n.os 2, 4 e 5 do seu artigo 9.º
+Art. 9.º É revogado o [Decreto-Lei n.º 48/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1982-600105), de 17 de Fevereiro, exceptuados os n.os 2, 4 e 5 do seu artigo 9.º
 
 Visto e aprovado em Conselho de Ministros de 2 de Janeiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 27 de Janeiro de 1986.**
+Promulgado em 27 de Janeiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Janeiro de 1986.**
+Referendado em 31 de Janeiro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

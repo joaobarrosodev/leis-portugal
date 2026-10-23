@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/07000/07020705.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1986-196209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e8cf4909849fa6beee19001efa13ac074d67a4fc9222fdd764d7c07c51491cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e075ecc3562804e80725ec5ab225d7a627fdcbab8a4086d27f3af34129faa050
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- CEE
+- Cereal
+- Comissão do Mercado de Cereais
+- Conselho Consultivo do Mercado de Cereais
+- EPAC
+- Exportação
+- Importação
+- Organização Comum de Mercado
+- Política Agrícola Comum
+- Preço
+- Preço de Intervenção
+- Regulamento CE
+- Restituição a Produção
+- Tratado de Adesão CE
 relationships:
 - type: amended_by
   target: pt:dre:274265:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222458:por
+  label: "Aditados os ns. 8, 9 e 10 ao art. 8.º do presente diploma, pelo DEC LEI.340/86.07.10.1986.MAPA, DR.IS [[231]] de\
+    \ 07.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1986-222458
+  date: '1986-10-07'
+- type: amended_by
+  target: pt:dre:666328:por
+  label: Aditado um n.º 6 ao art. 9.º pelo(a) Decreto-Lei n.º 174/87 - Diário da República n.º 91/1987, Série I de 1987-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-1987-666328
+  date: '1987-04-20'
+- type: amended_by
+  target: pt:dre:496108:por
+  label: Alterada a redação do n.º 10 do art. 8.º do presente diploma, que lhe foi aditado pelo art. único do Dec Lei 340/86,
+    de 07-out, pelo(a) Decreto-Lei n.º 343/87 - Diário da República n.º 248/1987, Série I de 1987-10-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1987-496108
+  date: '1987-10-28'
+- type: repealed_by
+  target: pt:dre:274265:por
+  label: "Revogado pelo DEC LEI.483-F/88.28.12.1988.MAPA, DR.IS [299-2ºSupl] de 28.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/483-f-1988-274265
+  date: '1988-12-28'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:06Z'
   warnings: []
   errors: []
 ---
@@ -237,12 +274,12 @@ Este diploma produz efeitos a partir do dia 1 de Março de 1986.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 7 de Março de 1986.**
+Promulgado em 7 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1986.**
+Referendado em 7 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

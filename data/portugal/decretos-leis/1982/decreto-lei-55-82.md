@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/04400/04000400.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1982-600292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: deb4c4921ea8b5d12f09b83f349db091bd075714bc26760bd27745e7bf3f46ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0f4c7147d11f0a304b066910f6fc9d08027c56648b808599971361556fb8c64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Depósito Franco
+- Guarda Fiscal
+- Posto Fiscal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:364773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508633:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:21Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +114,20 @@ Considerando mais lógico e coerente ser a Guarda Fiscal a pagar directamente ao
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Passa a competir à Guarda Fiscal o pagamento dos vencimentos e outros abonos do respectivo pessoal que na situação de supranumerário preste serviço nos postos fiscais que funcionam junto de fábricas (depósitos francos).
+Artigo 1.º Passa a competir à Guarda Fiscal o pagamento dos vencimentos e outros abonos do respectivo pessoal que na situação de supranumerário preste serviço nos postos fiscais que funcionam junto de fábricas (depósitos francos).
 
-###### Art. 2.º As despesas respectivas são classificadas na correspondente rubrica orçamental prevista no capítulo respeitante à Guarda Fiscal no Orçamento Geral do Estado para cada ano económico, com a necessária contrapartida em receita.
+Art. 2.º As despesas respectivas são classificadas na correspondente rubrica orçamental prevista no capítulo respeitante à Guarda Fiscal no Orçamento Geral do Estado para cada ano económico, com a necessária contrapartida em receita.
 
-###### Art. 3.º - 1 - As quantias dos reembolsos são depositadas nos cofres do Estado pelas entidades referidas no artigo 1.º mediante guias de receita emitidas mensalmente pela Guarda Fiscal.
+Art. 3.º - 1 - As quantias dos reembolsos são depositadas nos cofres do Estado pelas entidades referidas no artigo 1.º mediante guias de receita emitidas mensalmente pela Guarda Fiscal.
 
 2 - As citadas guias, acompanhadas de uma nota que discrimine o vencimento e outros abonos a que os militares têm direito, serão remetidas, em quadruplicado, à repartição de finanças da área da sede das empresas, destinando-se 2 exemplares, depois de averbado o respectivo pagamento, à entidade que efectua a entrega.
 
-###### Art. 4.º O presente diploma revoga os Despachos Normativos n.os [319/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/319-1979-364773), de 17 de Outubro, e [9-J/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-j-1980-508633), de 9 de Janeiro.
+Art. 4.º O presente diploma revoga os Despachos Normativos n.os [319/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/319-1979-364773), de 17 de Outubro, e [9-J/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-j-1980-508633), de 9 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 11 de Fevereiro de 1982.**
+Promulgado em 11 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

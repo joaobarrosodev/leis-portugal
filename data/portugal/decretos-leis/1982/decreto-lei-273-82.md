@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15900/20862086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1982-394763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49a5a84681a8151d3dcd11f69a8ea8e179413eef298fb07d06bfc6576a5f36ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e34ab12dd3c93cde17ccc25708e5bd451e7885e8334263e3ffb92798a716987
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspeção Geral de Finanças
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:15Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +113,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 19.º e 66.º do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 19.º e 66.º do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, passam a ter a seguinte redacção:
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Direcção e constituição)
 
 O Serviço Jurídico (SJ) é constituído por um corpo de inspectores com formação jurídica, na dependência directa de um inspector superior de finanças também licenciado em Direito, designado para o efeito pelo inspector-geral.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Competência dos inspectores da IGF)
 
@@ -116,20 +131,20 @@ O Serviço Jurídico (SJ) é constituído por um corpo de inspectores com forma�
 
 3 - O disposto no número anterior é também aplicável à instrução dos processos disciplinares a que se refere a alínea d) do n.º 1 do artigo 12.º
 
-###### Art. 2.º - 1 - O lugar de inspector-director extinguir-se-á quando vagar, mantendo-se, até então, o serviço jurídico na sua dependência directa.
+Art. 2.º - 1 - O lugar de inspector-director extinguir-se-á quando vagar, mantendo-se, até então, o serviço jurídico na sua dependência directa.
 
 2 - A partir da data de extinção do lugar são suprimidas as referências à categoria de inspector-director constantes do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386).
 
-###### Art. 3.º Da aplicação das percentagens fixadas no n.º 4 do artigo 53.º do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386) não poderá resultar para os funcionários de qualquer categoria uma remuneração global inferior à que corresponda a categorias mais baixas da respectiva hierarquia.
+Art. 3.º Da aplicação das percentagens fixadas no n.º 4 do artigo 53.º do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386) não poderá resultar para os funcionários de qualquer categoria uma remuneração global inferior à que corresponda a categorias mais baixas da respectiva hierarquia.
 
-###### Art. 4.º - 1 - À categoria de chefe de delegação prevista no artigo 46.º, n.º 1, do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), é atribuía a letra H.
+Art. 4.º - 1 - À categoria de chefe de delegação prevista no artigo 46.º, n.º 1, do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), é atribuía a letra H.
 
 2 - O disposto no número anterior produz todos os seus efeitos, designadamente remuneratórios, a partir da data de entrada em vigor do [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro, sem dependência de qualquer formalidade ou alteração formal do quadro anexo ao [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386).
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Junho de 1982.**
+Promulgado em 30 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

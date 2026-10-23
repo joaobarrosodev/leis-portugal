@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1985-179871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39ee19d7749b9f3ff9901a547f4cdaaeca5b88176cf22b413b7d37bb9a8109ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 752555b23a3931098c63b104b3ab36050e3f2d780ed17745b506549fd3093f59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Segurança Social
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:283477:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283477:por
+  label: "Alterado o quadro previsto no artigo 62.º do Decreto-Lei n.º 81/85, de 28 de Março, na redacção do artigo 1.º do\
+    \ presente diploma, pelo DEC LEI.13/88.15.01.1988.MESS, DR.IS [12] de 15.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1988-283477
+  date: '1988-01-15'
+- type: cites
+  target: pt:dre:324937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443714:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:50Z'
   warnings: []
   errors: []
 ---
@@ -105,28 +125,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro incluído no artigo 62.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março, passa a ser o seguinte:
+Artigo 1.º O quadro incluído no artigo 62.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março, passa a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/17300/22762276.pdf))](https://files.diariodarepublica.pt/1s/1985/07/17300/22762276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/17300/22762276.pdf)
 
-###### Art. 2.º - 1 - Sempre que para o cálculo de pensões previsto no artigo 31.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937) devam ser consideradas remunerações correspondentes a meses anteriores a Maio de 1985, será tomada, sem qualquer redução, a remuneração mínima mensal do sector correspondente a cada um desses meses, salvo se reportar a meses anteriores a Janeiro de 1977, em que o valor é de 3000$00.
+Art. 2.º - 1 - Sempre que para o cálculo de pensões previsto no artigo 31.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937) devam ser consideradas remunerações correspondentes a meses anteriores a Maio de 1985, será tomada, sem qualquer redução, a remuneração mínima mensal do sector correspondente a cada um desses meses, salvo se reportar a meses anteriores a Janeiro de 1977, em que o valor é de 3000$00.
 
 2 - O valor mínimo das pensões a que se refere o [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), designadamente o n.º 3 do artigo 31.º, é o que vigorar, em cada mês, por força da última actualização das pensões do regime especial das actividades agrícolas.
 
-###### Art. 3.º É revogado o artigo 41.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março.
+Art. 3.º É revogado o artigo 41.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março.
 
-###### Art. 4.º O [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937) e o [Decreto Regulamentar n.º 19/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1985-324938), ambos de 28 de Março, não se aplicam às Regiões Autónomas dos Açores e da Madeira.
+Art. 4.º O [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937) e o [Decreto Regulamentar n.º 19/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1985-324938), ambos de 28 de Março, não se aplicam às Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 5.º O presente diploma entra em vigor em 1 de Maio de 1985.
+Art. 5.º O presente diploma entra em vigor em 1 de Maio de 1985.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Amândio Anes de Azevedo.
 
-**Promulgado em 18 de Julho de 1985.**
+Promulgado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Julho de 1985.**
+Referendado em 19 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

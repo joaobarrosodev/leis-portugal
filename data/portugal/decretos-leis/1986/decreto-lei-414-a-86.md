@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 287/1986, 1º Suplemento, Série I de 1986-12-15
   number: '287'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3726-(1) a 3726-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28701/00010007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1986-372798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0740a713a707e00f6ed8aee4982e9609694e6ac57a75a9e355799907cda65919
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a28ade4e3f2f5a101fe0d13a5f40831228021d8cef12ebb492b87d8f78e17a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chanceler das Antigas Ordens Militares
+- Chanceler das Ordens de Mérito Civil
+- Chanceler das Ordens Nacionais
+- Distinção Honorífica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:278888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287163:por
+  label: "Alterado o art. 5º e o nº 2 do art. 40º, e substituído o quadro a que se refere o nº 1 do art. 16º, pelo DEC LEI.85/88.1988.03.10.PCM,\
+    \ DR.IS [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-1988-287163
+  date: '1988-03-10'
+- type: amended_by
+  target: pt:dre:487703:por
+  label: "Alterados os arts. 2º, 11º e 21º, e substituído o quadro a que se refere o nº 1 do art. 16º, na redacção do Dec\
+    \ Lei 85/88, de 10-Mar, pelo DEC LEI.80/91.1991.02.19.PCM, DR.IS-A [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-1991-487703
+  date: '1991-02-19'
+- type: cites
+  target: pt:dre:382788:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:460398:por
+  label: Rectificado pela DECL.DD1064.1987.01.15.PCM DR.IS [26]Supl DE 31/Jan/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-460398
+  date: '1987-01-15'
+- type: repealed_by
+  target: pt:dre:521238:por
+  label: "Revogado o nº 3 do art. 53º, pelo DEC LEI.131/95.1995.06.06.MF, DR.IS-A [131], a partir de 15.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1995-521238
+  date: '1995-06-06'
+- type: repealed_by
+  target: pt:dre:278888:por
+  label: "Revogado em 09.03.2011 pela LEI.5/2011.02.03.2011.AR, DR.IS [43] de 02.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2011-278888
+  date: '2011-03-02'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:10Z'
   warnings: []
   errors: []
 ---
@@ -108,37 +144,37 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica das Ordens Honoríficas Portuguesas, anexa a este diploma e dele fazendo parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica das Ordens Honoríficas Portuguesas, anexa a este diploma e dele fazendo parte integrante.
 
-###### Art. 2.º - 1 - Os agraciados com a Ordem do Império ou com graus de outras ordens extintos pela presente Lei Orgânica, bem como os agraciados com ordens ou graus já extintos por legislação anterior, manterão o direito ao uso das respectivas insígnias.
+Art. 2.º - 1 - Os agraciados com a Ordem do Império ou com graus de outras ordens extintos pela presente Lei Orgânica, bem como os agraciados com ordens ou graus já extintos por legislação anterior, manterão o direito ao uso das respectivas insígnias.
 
 2 - Em virtude de a Ordem do Mérito passar a designar a Ordem da Benemerência, os agraciados com esta última serão oficiosamente incluídos naquela, com todos os seus direitos e obrigações.
 
-###### Art. 3.º - 1 - As pensões concedidas aos agraciados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito ao abrigo da legislação anterior serão actualizadas nos termos da presente Lei Orgânica, independentemente de requerimento.
+Art. 3.º - 1 - As pensões concedidas aos agraciados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito ao abrigo da legislação anterior serão actualizadas nos termos da presente Lei Orgânica, independentemente de requerimento.
 
 2 - Os herdeiros hábeis dos agraciados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito já falecidos à data do presente diploma poderão requerer a concessão da pensão a que teriam direito nos termos desta Lei Orgânica desde que reúnam as condições na mesma prescritas.
 
-###### Art. 4.º - 1 - Os processos de agraciamento pendentes à data da entrada em vigor deste diploma só terão seguimento se a proposta for renovada pela entidade proponente.
+Art. 4.º - 1 - Os processos de agraciamento pendentes à data da entrada em vigor deste diploma só terão seguimento se a proposta for renovada pela entidade proponente.
 
 2 - No caso de extinção do cargo exercido pela entidade proponente, a competência para o exercício da medida contemplada no número anterior passará para o titular do cargo que lhe sucedeu ou, não o havendo, para o Primeiro-Ministro.
 
-###### Art. 5.º - 1 - É revogado o Decreto-Lei 132/85, de 30 de Abril.
+Art. 5.º - 1 - É revogado o Decreto-Lei 132/85, de 30 de Abril.
 
 2 - São igualmente revogados, a partir da entrada em vigor do Regulamento das Ordens Honoríficas Portuguesas, os Decretos n.os 45498, 46786 e 48285, respectivamente, de 31 de Dezembro de 1963, de 23 de Dezembro de 1965 e de 22 de Março de 1968, e o [Decreto Regulamentar n.º 27/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1979-382788), de 24 de Maio.
 
-###### Art. 6.º O Regulamento das Ordens Honoríficas Portuguesas será aprovado por decreto regulamentar.
+Art. 6.º O Regulamento das Ordens Honoríficas Portuguesas será aprovado por decreto regulamentar.
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 1986 - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Lei Orgânica das Ordens Honoríficas Portuguesas
 
@@ -146,11 +182,11 @@ I
 
 Das ordem honoríficas e seus fins
 
-###### Artigo 1.º - 1 - As ordens Honoríficas destinam-se a distinguir, em vida ou a título póstomo, os cidadãos portugueses que se notabilizarem por méritos pessoais, por feitos cívicos ou militares ou por serviços prestados ao País.
+Artigo 1.º - 1 - As ordens Honoríficas destinam-se a distinguir, em vida ou a título póstomo, os cidadãos portugueses que se notabilizarem por méritos pessoais, por feitos cívicos ou militares ou por serviços prestados ao País.
 
 2 - Poderão também as ordens honoríficas ser atribuídas a estrangeiros, de harmonia com os usos internacionais.
 
-###### Art. 2.º As ordens honoríficas portuguesas são as seguintes:
+Art. 2.º As ordens honoríficas portuguesas são as seguintes:
 
 I) Antigas ordens militares:
 
@@ -176,7 +212,7 @@ b) Da Instrução Pública;
 
 c) Do Mérito Agrícola e Industrial.
 
-###### Art. 3.º A Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito destina-se a galardoar:
+Art. 3.º A Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito destina-se a galardoar:
 
 a) Méritos excepcionalmente relevantes demonstrados no exercício das funções dos cargos supremos que exprimem a actividade dos órgãos de soberania ou no comando de tropas em campanha;
 
@@ -184,25 +220,25 @@ b) Feitos de heroísmo militar e cívico;
 
 c) Actos excepcionais de abnegação e sacrifício pela Pátria e pela Humanidade.
 
-###### Art. 4.º A Ordem Militar de Cristo será concedida por destacados serviços prestados ao País no exercício das funções dos cargos que exprimam a actividade dos órgãos de soberania ou na Administração Pública, em geral, e na magistratura e diplomacia, em particular, e que mereçam ser especialmente distinguidos.
+Art. 4.º A Ordem Militar de Cristo será concedida por destacados serviços prestados ao País no exercício das funções dos cargos que exprimam a actividade dos órgãos de soberania ou na Administração Pública, em geral, e na magistratura e diplomacia, em particular, e que mereçam ser especialmente distinguidos.
 
-###### Art. 5.º A Ordem Militar de Avis é destinada a premiar altos serviços militares, sendo exclusivamente reservada a oficiais das Forças Armadas e a corpos militarizados e unidades e estabelecimentos militares.
+Art. 5.º A Ordem Militar de Avis é destinada a premiar altos serviços militares, sendo exclusivamente reservada a oficiais das Forças Armadas e a corpos militarizados e unidades e estabelecimentos militares.
 
-###### Art. 6.º A Ordem Militar de Sant'Iago da Espada tem por objectivo distinguir o mérito literário, científico e artístico.
+Art. 6.º A Ordem Militar de Sant'Iago da Espada tem por objectivo distinguir o mérito literário, científico e artístico.
 
-###### Art. 7.º A Ordem do Infante D. Henrique visa distinguir os que houverem prestado:
+Art. 7.º A Ordem do Infante D. Henrique visa distinguir os que houverem prestado:
 
 a) Serviços relevantes a Portugal, no País e no estrangeiro;
 
 b) Serviços na expansão da cultura portuguesa ou para conhecimento de Portugal, sua história e seus valores.
 
-###### Art. 8.º A Ordem da Liberdade destina-se a distinguir serviços relevantes prestados em defesa dos valores da civilização, em prol da dignificação do homem e à causa da liberdade.
+Art. 8.º A Ordem da Liberdade destina-se a distinguir serviços relevantes prestados em defesa dos valores da civilização, em prol da dignificação do homem e à causa da liberdade.
 
-###### Art. 9.º A Ordem do Mérito destina-se a galardoar actos ou serviços meritórios praticados no exercício de quaisquer funções, públicas ou privadas, ou que revelem desinteresse e abnegação em favor da colectividade.
+Art. 9.º A Ordem do Mérito destina-se a galardoar actos ou serviços meritórios praticados no exercício de quaisquer funções, públicas ou privadas, ou que revelem desinteresse e abnegação em favor da colectividade.
 
-###### Art. 10.º A Ordem da Instrução Pública tem o intuito de galardoar altos serviços prestados à causa da educação e do ensino.
+Art. 10.º A Ordem da Instrução Pública tem o intuito de galardoar altos serviços prestados à causa da educação e do ensino.
 
-###### Art. 11.º - 1 - A Ordem do Mérito Agrícola e Industrial tem por fim distinguir aqueles que hajam prestado serviços relevantes no fomento ou na valorização, por qualquer forma:
+Art. 11.º - 1 - A Ordem do Mérito Agrícola e Industrial tem por fim distinguir aqueles que hajam prestado serviços relevantes no fomento ou na valorização, por qualquer forma:
 
 a) Da riqueza agrícola, pecuária ou florestal do País ou que para tal hajam destacadamente contribuído;
 
@@ -216,19 +252,19 @@ a) Do mérito agrícola;
 
 b) Do mérito industrial.
 
-###### Art. 12.º Os distintivos e as insígnias das ordens honoríficas serão os descritos no respectivo regulamento.
+Art. 12.º Os distintivos e as insígnias das ordens honoríficas serão os descritos no respectivo regulamento.
 
 II
 
 Dos graus das ordens honoríficas e sua concessão
 
-###### Art. 13.º - 1 - Os graus das antigas ordens militares e das ordens nacionais são, por ordem ascendente: cavaleiro ou dama, oficial, comendador, grande-oficial e grã-cruz.
+Art. 13.º - 1 - Os graus das antigas ordens militares e das ordens nacionais são, por ordem ascendente: cavaleiro ou dama, oficial, comendador, grande-oficial e grã-cruz.
 
 2 - Nas ordens de mérito civil não haverá o grau de cavaleiro, que será substituído por medalha.
 
-###### Art. 14.º Nas Ordens Militares da Torre e Espada, do Valor, Lealdade e Mérito e de Sant'Iago da Espada e nas ordens nacionais haverá, além dos graus enumerados no artigo anterior, o grande-colar, exclusivamente destinado a agraciar chefes de Estado, com excepção do correspondente à primeira, que só será atribuído nos termos do n.º 4 do artigo 15.º
+Art. 14.º Nas Ordens Militares da Torre e Espada, do Valor, Lealdade e Mérito e de Sant'Iago da Espada e nas ordens nacionais haverá, além dos graus enumerados no artigo anterior, o grande-colar, exclusivamente destinado a agraciar chefes de Estado, com excepção do correspondente à primeira, que só será atribuído nos termos do n.º 4 do artigo 15.º
 
-###### Art. 15.º - 1 - O Presidente da República Portuguesa, como grão-mestre de todas as ordens honoríficas, usará por insígnia da sua função a Banda das Três Ordens.
+Art. 15.º - 1 - O Presidente da República Portuguesa, como grão-mestre de todas as ordens honoríficas, usará por insígnia da sua função a Banda das Três Ordens.
 
 2 - A Banda das Três Ordens - Cristo, Avis e Sant'Iago da Espada - é privativa da magistratura presidencial, não podendo ser concedida a nacionais ou estrangeiros nem usada fora do exercício da Presidência da República; com a Banda das Três Ordens não deverão ser usadas quaisquer outras insígnias.
 
@@ -236,7 +272,7 @@ Dos graus das ordens honoríficas e sua concessão
 
 4 - Aquele que tiver exercido as funções de Presidente da República será, terminado o mandato para que foi eleito, inscrito, independentemente de acto de agraciamento, no quadro da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito como seu grande-colar, que só neste caso poderá ser usado.
 
-###### Art. 16.º - 1 - O número máximo de graus de cada uma das ordens que pode ser concedido a cidadãos portugueses constará do quadro anexo ao presente diploma.
+Art. 16.º - 1 - O número máximo de graus de cada uma das ordens que pode ser concedido a cidadãos portugueses constará do quadro anexo ao presente diploma.
 
 2 - Exceptua-se do disposto no número anterior a concessão do grau de cavaleiro, quando não lhe corresponda a direito ao uso de colar, e a de medalhas, que pode ser feita em número ilimitado.
 
@@ -244,7 +280,7 @@ Dos graus das ordens honoríficas e sua concessão
 
 4 - Os sucessivos agraciamentos, efectuados nos termos do número anterior, consideram-se como promoções, contando só o grau mais elevado para os efeitos do n.º 1.
 
-###### Art. 17.º - 1 - A concessão dos graus de todas as ordens honoríficas é da exclusiva competência do Presidente da República e revestirá a forma de alvará, a publicar na 2.ª série do Diário da República.
+Art. 17.º - 1 - A concessão dos graus de todas as ordens honoríficas é da exclusiva competência do Presidente da República e revestirá a forma de alvará, a publicar na 2.ª série do Diário da República.
 
 2 - Quando o regulamento das ordens não dispuser diferentemente, a publicação do alvará será feita por extracto.
 
@@ -252,7 +288,7 @@ Dos graus das ordens honoríficas e sua concessão
 
 4 - Os diplomas respeitantes ao grau de grande-colar serão também assinados pelo Presidente da República.
 
-###### Art. 18.º A competência do Presidente da República para o concessão das ordens honoríficas poderá ser exercida:
+Art. 18.º A competência do Presidente da República para o concessão das ordens honoríficas poderá ser exercida:
 
 a) Por sua iniciativa;
 
@@ -264,27 +300,27 @@ d) Sob proposta dos ministros;
 
 e) Sob proposta dos conselhos das ordens.
 
-###### Art. 19.º O Presidente da República poderá, por sua iniciativa, independentemente da existência de vaga no quadro e de audiência do respectivo conselho das ordens, conceder qualquer grau das ordens honoríficas a cidadãos nacionais ou estrangeiros dentro da finalidade delas.
+Art. 19.º O Presidente da República poderá, por sua iniciativa, independentemente da existência de vaga no quadro e de audiência do respectivo conselho das ordens, conceder qualquer grau das ordens honoríficas a cidadãos nacionais ou estrangeiros dentro da finalidade delas.
 
-###### Art. 20.º - 1 - O Conselho de Ministros e o Primeiro-Ministro podem propor a concessão dos graus de qualquer ordem a nacionais e a estrangeiros.
+Art. 20.º - 1 - O Conselho de Ministros e o Primeiro-Ministro podem propor a concessão dos graus de qualquer ordem a nacionais e a estrangeiros.
 
 2 - As propostas referidas no número anterior, quando formuladas com nota de urgência, terão seguimento imediato, ficando dispensadas de audiência do respectivo conselho das ordens.
 
-###### Art. 21.º - 1 - Qualquer ministro pode propor que, ouvido o conselho das ordens, sejam concedidos a cidadãos nacionais ou estrangeiros graus da Ordem de Cristo, da Ordem do Infante D. Henrique, da Ordem da Liberdade e da Ordem do Mérito.
+Art. 21.º - 1 - Qualquer ministro pode propor que, ouvido o conselho das ordens, sejam concedidos a cidadãos nacionais ou estrangeiros graus da Ordem de Cristo, da Ordem do Infante D. Henrique, da Ordem da Liberdade e da Ordem do Mérito.
 
 2 - A proposta da concessão da Ordem de Sant'Iago da Espada e da Ordem da Instrução Pública é reservada ao Ministro da Educação e Cultura; a da Ordem do Mérito Agrícola e Industrial, aos ministros das pastas por onde corram assuntos económicos, de obras públicas ou de comunicações.
 
 3 - Só o Ministro da Defesa Nacional, ouvido o Chefe do Estado-Maior-General das Forças Armadas ou os Chefes dos Estados-Maiores do Exército, da Armada ou da Força Aérea, pode propor a concessão da Ordem Militar de Avis.
 
-###### Art. 22.º - 1 - Os conselhos das ordens podem propor a concessão de qualquer grau das respectivas ordens.
+Art. 22.º - 1 - Os conselhos das ordens podem propor a concessão de qualquer grau das respectivas ordens.
 
 2 - Quando a iniciativa da concessão da ordem esteja reservada a algum ministro, será este ouvido sobre a proposta; não estando reservada a iniciativa, será pedida a concordância do Primeiro-Ministro.
 
-###### Art. 23.º - 1 - A concessão de qualquer condecoração a cidadãos estrangeiros, quando não seja proposta pelo Ministro dos Negócios Estrangeiros, será precedida de informação deste.
+Art. 23.º - 1 - A concessão de qualquer condecoração a cidadãos estrangeiros, quando não seja proposta pelo Ministro dos Negócios Estrangeiros, será precedida de informação deste.
 
 2 - O disposto no n.º 2 do artigo 20.º aplica-se às propostas do Ministro dos Negócios Estrangeiros para a concessão de condecorações a cidadãos estrangeiros.
 
-###### Art. 24.º - 1 - As localidades, colectividades, instituições, corpos militarizados e unidades e estabelecimentos militares podem ser declarados membros honorários de qualquer das ordens, sem indicação de grau.
+Art. 24.º - 1 - As localidades, colectividades, instituições, corpos militarizados e unidades e estabelecimentos militares podem ser declarados membros honorários de qualquer das ordens, sem indicação de grau.
 
 2 - A concessão do título de membro honorário de uma ordem nos termos deste artigo, quando não seja feita a corpos militarizados ou a unidades e estabelecimentos militares, depende dos requisitos seguintes:
 
@@ -298,9 +334,9 @@ III
 
 Da orgânica das ordens
 
-###### Art. 25.º O Presidente da República é o grão-mestre de todas as ordens honoríficas portuguesas e nessa qualidade concede todos os graus e superintende na sua organização, orientação e disciplina, com a colaboração dos chanceleres e dos conselhos das ordem.
+Art. 25.º O Presidente da República é o grão-mestre de todas as ordens honoríficas portuguesas e nessa qualidade concede todos os graus e superintende na sua organização, orientação e disciplina, com a colaboração dos chanceleres e dos conselhos das ordem.
 
-###### Art. 26.º - 1 - Cada grupo de ordens terá o seu conselho, composto por oito vogais, nomeados por alvará do Presidente da República, sob proposta do respectivo chanceler, de entre grã-cruzes, grandes-oficiais e comendadores das respectivas ordens.
+Art. 26.º - 1 - Cada grupo de ordens terá o seu conselho, composto por oito vogais, nomeados por alvará do Presidente da República, sob proposta do respectivo chanceler, de entre grã-cruzes, grandes-oficiais e comendadores das respectivas ordens.
 
 2 - Em cada conselho haverá uma representação tanto quanto possível, equitativa das ordens que compõem o respectivo grupo.
 
@@ -314,13 +350,13 @@ Da orgânica das ordens
 
 7 - A falta não justificada de um vogal por três vezes seguidas às reuniões para que tenha sido convocado implica cessação imediata do exercício das respectivas funções.
 
-###### Art. 27.º - 1 - Haverá três chanceleres das ordens honoríficas, um para cada grupo de ordens.
+Art. 27.º - 1 - Haverá três chanceleres das ordens honoríficas, um para cada grupo de ordens.
 
 2 - Os chanceleres serão nomeados, por decreto do Presidente da República, de entre grão-cruzes de uma das ordens compreendidas no grupo de que vão encarregar-se e as suas funções cessam quando, por qualquer motivo, termine o mandato do Presidente que os nomeou.
 
 3 - No impedimento ou ausência prolongada no estrangeiro de algum dos chanceleres, o Presidente da República nomeará, também por decreto, de entre os vogais dos respectivos conselhos um vice-chanceler que o substitua.
 
-###### Art. 28.º Compete aos chanceleres das ordens:
+Art. 28.º Compete aos chanceleres das ordens:
 
 a) Convocar e presidir às reuniões dos conselhos das ordens em que superintendam;
 
@@ -334,7 +370,7 @@ e) Determinar a instauração de processo disciplinar aos membros das ordens que
 
 f) Promover tudo quanto julguem conveniente para a defesa do prestígio das ordens que lhes estão confiadas.
 
-###### Art. 29.º Compete aos conselhos das ordens:
+Art. 29.º Compete aos conselhos das ordens:
 
 a) Dar parecer sobre as propostas de agraciamento com as respectivas ordens;
 
@@ -348,7 +384,7 @@ IV
 
 Dos membros das ordens, sua investidura, seus direitos e sua disciplina
 
-###### Art. 30.º Os membros das ordens honoríficas podem pertencer às seguintes categorias:
+Art. 30.º Os membros das ordens honoríficas podem pertencer às seguintes categorias:
 
 a) Titulares;
 
@@ -356,17 +392,17 @@ b) Supranumerários;
 
 c) Honorários.
 
-###### Art. 31.º Membros titulares são os cidadãos portugueses nomeados para vagas dos quadros da ordem a que pertençam.
+Art. 31.º Membros titulares são os cidadãos portugueses nomeados para vagas dos quadros da ordem a que pertençam.
 
-###### Art. 32.º Membros supranumerários são os condecorados que, estando nas condições para serem titulares, excedam os quadros da sua ordem e aguardem vaga nestes.
+Art. 32.º Membros supranumerários são os condecorados que, estando nas condições para serem titulares, excedam os quadros da sua ordem e aguardem vaga nestes.
 
-###### Art. 33.º Membros honorários são os cidadãos estrangeiros e as unidades e estabelecimentos militares, os corpos militarizados, as localidades, colectividades ou instituições pertencentes a uma ordem honorífica.
+Art. 33.º Membros honorários são os cidadãos estrangeiros e as unidades e estabelecimentos militares, os corpos militarizados, as localidades, colectividades ou instituições pertencentes a uma ordem honorífica.
 
-###### Art. 34.º A investidura dos cidadãos portugueses em grau de qualquer das ordens honoríficas depende da assinatura de compromisso de honra de observância da Constituição e da lei e de respeito pela disciplina das ordens.
+Art. 34.º A investidura dos cidadãos portugueses em grau de qualquer das ordens honoríficas depende da assinatura de compromisso de honra de observância da Constituição e da lei e de respeito pela disciplina das ordens.
 
-###### Art. 35.º A investidura será solene quando o Presidente da República o determinar no despacho de concessão.
+Art. 35.º A investidura será solene quando o Presidente da República o determinar no despacho de concessão.
 
-###### Art. 36.º - 1 - A investidura solene terá lugar em acto presidido pelo Presidente da República ou, por expressa delegação sua, pelo respectivo chanceler, por membro do Governo, pelo ministro da República nas regiões autónomas, pelo Governador de Macau, por chefe de estado-maior, pelo embaixador ou ministro plenipotenciário no país onde a cerimónia for levada a efeito ou por grã-cruz da mesma ordem especialmente designado.
+Art. 36.º - 1 - A investidura solene terá lugar em acto presidido pelo Presidente da República ou, por expressa delegação sua, pelo respectivo chanceler, por membro do Governo, pelo ministro da República nas regiões autónomas, pelo Governador de Macau, por chefe de estado-maior, pelo embaixador ou ministro plenipotenciário no país onde a cerimónia for levada a efeito ou por grã-cruz da mesma ordem especialmente designado.
 
 2 - A solenidade consistirá na leitura da proposta fundamentada e do alvará da concessão, na prestação do compromisso pelo agraciado e na imposição das insígnias, feita por quem presidir ao acto.
 
@@ -376,15 +412,15 @@ c) Honorários.
 
 5 - A solenidade da investidura pode ser simplificada quando as circunstâncias o aconselharem.
 
-###### Art. 37.º Os membros das ordens honoríficas têm direito ao uso das insígnias do grau que lhes tiver sido concedido por alvará publicado no Diário da República e às honras e precedências estabelecidas em regulamento.
+Art. 37.º Os membros das ordens honoríficas têm direito ao uso das insígnias do grau que lhes tiver sido concedido por alvará publicado no Diário da República e às honras e precedências estabelecidas em regulamento.
 
-###### Art. 38.º Os militares agraciados com qualquer grau das Ordens Militares da Torre e Espada, do Valor, Lealdade e Mérito e de Avis, quando ostentem as respectivas insígnias, têm direito ao uso do uniforme militar, seja qual for o seu quadro ou situação e mesmo depois de deixarem a efectividade de serviço.
+Art. 38.º Os militares agraciados com qualquer grau das Ordens Militares da Torre e Espada, do Valor, Lealdade e Mérito e de Avis, quando ostentem as respectivas insígnias, têm direito ao uso do uniforme militar, seja qual for o seu quadro ou situação e mesmo depois de deixarem a efectividade de serviço.
 
-###### Art. 39.º - 1 - Nas cerimónias oficiais presididas pelo Presidente da República poderá ser reservado lugar para as ordens honoríficas portuguesas, onde terão assento os portadores da banda e placa da grã-cruz das ordens que não devam ocupar qualquer outro.
+Art. 39.º - 1 - Nas cerimónias oficiais presididas pelo Presidente da República poderá ser reservado lugar para as ordens honoríficas portuguesas, onde terão assento os portadores da banda e placa da grã-cruz das ordens que não devam ocupar qualquer outro.
 
 2 - Quando seja feito convite às ordens honoríficas para qualquer solenidade, a ordem convidada será representada pelo respectivo chanceler, que poderá delegar essa representação em qualquer membro da ordem.
 
-###### Art. 40.º - 1 - Aos condecorados com qualquer dos graus da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito são garantidas as prerrogativas actualmente conferidas por lei e, em especial, têm:
+Art. 40.º - 1 - Aos condecorados com qualquer dos graus da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito são garantidas as prerrogativas actualmente conferidas por lei e, em especial, têm:
 
 a) Preferência na admissão em estabelecimentos sociais administrados pelo Estado;
 
@@ -400,7 +436,7 @@ b) Não sendo militares nem funcionários públicos, o requererem, demonstrando 
 
 4 - O condecorado com mais de um grau desta Ordem só terá direito a requerer uma pensão ao abrigo deste artigo.
 
-###### Art. 41.º - 1 - Os cônjuges sobrevivos dos condecorados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito têm direito:
+Art. 41.º - 1 - Os cônjuges sobrevivos dos condecorados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito têm direito:
 
 a) A preferência na admissão em estabelecimentos sociais administrados pelo Estado;
 
@@ -414,13 +450,13 @@ b) À pensão referida no artigo anterior, nos termos nele previstos.
 
 5 - A concessão ou a transmissão da pensão referida na alínea b) do n.º 1 é isenta de quaisquer emolumentos ou impostos.
 
-###### Art. 42.º Os órfãos dos condecorados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito têm preferência absoluta na admissão nos estabelecimentos de ensino militar, bem como nos estabelecimentos escolares dependentes dos departamentos militares.
+Art. 42.º Os órfãos dos condecorados com a Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito têm preferência absoluta na admissão nos estabelecimentos de ensino militar, bem como nos estabelecimentos escolares dependentes dos departamentos militares.
 
-###### Art. 43.º - 1 - As senhoras condecoradas ou as viúvas e filhas de condecorados com a Ordem Militar de Sant'Iago da Espada têm preferência na admissão no Recolhimento de Santos-o-Novo.
+Art. 43.º - 1 - As senhoras condecoradas ou as viúvas e filhas de condecorados com a Ordem Militar de Sant'Iago da Espada têm preferência na admissão no Recolhimento de Santos-o-Novo.
 
 2 - A admissão no Recolhimento da Encarnação é reservada a viúvas e filhas de membros da Ordem Militar de Avis.
 
-###### Art. 44.º São deveres dos membros das ordens honoríficas:
+Art. 44.º São deveres dos membros das ordens honoríficas:
 
 a) Defender e prestigiar Portugal em todas as circunstâncias;
 
@@ -430,7 +466,7 @@ c) Acatar as determinações e instruções dimanadas dos órgãos directivos da
 
 d) Procurar dignificar a sua ordem por todos os meios e em todas as circunstâncias.
 
-###### Art. 45.º - 1 - Sempre que haja conhecimento da violação de qualquer dos deveres enunciados no artigo anterior, deverá ser instaurado processo disciplinar, mediante despacho do chanceler do respectivo conselho.
+Art. 45.º - 1 - Sempre que haja conhecimento da violação de qualquer dos deveres enunciados no artigo anterior, deverá ser instaurado processo disciplinar, mediante despacho do chanceler do respectivo conselho.
 
 2 - Para instrutor do processo será designado no mesmo despacho um membro da ordem de grau superior ao do arguido, ou do mesmo grau, se for grã-cruz.
 
@@ -444,7 +480,7 @@ d) Procurar dignificar a sua ordem por todos os meios e em todas as circunstânc
 
 7 - A irradiação, que consiste na expulsão do arguido dos quadros da ordem, com privação do uso da condecoração e perda de todos os direitos a ela inerentes, é da competência do Presidente da República e será feita por alvará.
 
-###### Art. 46.º - 1 - As regras do processo disciplinar previstas no artigo anterior aplicar-se-ão, com as adaptações a seguir indicadas, ao julgamento das questões postas à consideração dos conselhos das ordens, nos termos da alínea c) do artigo 29.º
+Art. 46.º - 1 - As regras do processo disciplinar previstas no artigo anterior aplicar-se-ão, com as adaptações a seguir indicadas, ao julgamento das questões postas à consideração dos conselhos das ordens, nos termos da alínea c) do artigo 29.º
 
 2 - Recebida a petição e acordada a deferência da questão ao conselho, o respectivo chanceler tentará a conciliação das partes antes de designar instrutor.
 
@@ -456,7 +492,7 @@ d) Procurar dignificar a sua ordem por todos os meios e em todas as circunstânc
 
 6 - Este processo não dá lugar à aplicação de penas disciplinares, mas, se através dele for conhecida qualquer infracção, deverá promover-se o respectivo procedimento.
 
-###### Art. 47.º - 1 - Os membros honorários das ordens têm unicamente direito ao uso das insígnias do seu grau e o dever de não prejudicar, de nenhum modo, os interesses de Portugal, podendo ser irradiados quando infrinjam esse dever.
+Art. 47.º - 1 - Os membros honorários das ordens têm unicamente direito ao uso das insígnias do seu grau e o dever de não prejudicar, de nenhum modo, os interesses de Portugal, podendo ser irradiados quando infrinjam esse dever.
 
 2 - Os membros honorários colectivos, a que se refere o artigo 24.º, podem usar as insígnias da ordem no escudo, brasão ou selo que os identifique e, quando possuam bandeira ou estandarte, laço com as cores da ordem, tendo pendente o distintivo respectivo.
 
@@ -464,25 +500,25 @@ V
 
 Da aceitação de condecorações estrangeiras
 
-###### Art. 48.º - 1 - Os cidadãos nacionais agraciados com quaisquer condecorações estrangeiras carecem de autorização do Governo Português para as aceitar.
+Art. 48.º - 1 - Os cidadãos nacionais agraciados com quaisquer condecorações estrangeiras carecem de autorização do Governo Português para as aceitar.
 
 2 - Consideram-se condecorações estrangeiras as medalhas, ordens, mercês honoríficas e condecorações, civis ou militares, concedidas por Estados soberanos, através dos respectivos órgãos políticos, ou pelas entidades estrangeiras, singulares ou colectivas, a quem o direito e o costume internacionais reconheçam competência para o efeito.
 
-###### Art. 49.º - 1 - O pedido de autorização para aceitar condecorações estrangeiras será apresentado na Chancelaria das Ordens, que o instruirá com a informação do Ministério dos Negócios Estrangeiros e do ministério de que o requerente dependa, se for funcionário público ou militar.
+Art. 49.º - 1 - O pedido de autorização para aceitar condecorações estrangeiras será apresentado na Chancelaria das Ordens, que o instruirá com a informação do Ministério dos Negócios Estrangeiros e do ministério de que o requerente dependa, se for funcionário público ou militar.
 
 2 - Depois de instruído, o processo será submetido a despacho do Primeiro-Ministro ou do ministro em quem aquele delegue a sua competência.
 
-###### Art. 50.º O uso de condecoração estrangeira sem autorização, fora dos casos estabelecidos no regulamento, é considerado, para todos os efeitos, uso ilegal de condecoração.
+Art. 50.º O uso de condecoração estrangeira sem autorização, fora dos casos estabelecidos no regulamento, é considerado, para todos os efeitos, uso ilegal de condecoração.
 
 VI
 
 Da Chancelaria das Ordens
 
-###### Art. 51.º - 1 - A Chancelaria das Ordens Honoríficas Portuguesas constitui um serviço destinado a assegurar o regular funcionamento das ordens, integrado na Presidência da República e dirigido pelo respectivo secretário-geral, que, por inerência, será o secretário-geral das ordens.
+Art. 51.º - 1 - A Chancelaria das Ordens Honoríficas Portuguesas constitui um serviço destinado a assegurar o regular funcionamento das ordens, integrado na Presidência da República e dirigido pelo respectivo secretário-geral, que, por inerência, será o secretário-geral das ordens.
 
 2 - Para apoio administrativo da Chancelaria haverá uma secção da Chancelaria das Ordens, a cargo de um chefe de secção.
 
-###### Art. 52.º Compete ao secretário-geral das ordens:
+Art. 52.º Compete ao secretário-geral das ordens:
 
 a) Manter o Presidente da República ao corrente das deliberações dos conselhos e submeter a seu despacho as propostas que dependerem da sua resolução;
 
@@ -494,7 +530,7 @@ d) Superintender em todos os serviços da Chancelaria das Ordens;
 
 e) Promover quaisquer estudos e trabalhos de investigação com vista ao esclarecimento de assuntos respeitantes às ordens, nomeadamente a organização de um arquivo histórico, donde conste o nome e outros elementos relativos a individualidades agraciadas.
 
-###### Art. 53.º - 1 - Compete à Secção da Chancelaria das Ordens Honoríficas Portuguesas:
+Art. 53.º - 1 - Compete à Secção da Chancelaria das Ordens Honoríficas Portuguesas:
 
 a) O expediente relativo às ordens honoríficas;
 
@@ -508,10 +544,10 @@ d) O desempenho de todas as tarefas administrativas que assegurem o regular func
 
 3 - No âmbito do disposto no número anterior, os conservadores do registo civil deverão inquirir das entidades participantes dos óbitos se os falecidos eram ou não agraciados com qualquer ordem e, tendo-o sido, comunicar o facto à Chancelaria até ao fim do mês imediato ao da participação.
 
-###### Art. 54.º A Chancelaria das Ordens é apoiada administrativamente pelos serviços competentes da Secretaria-Geral da Presidência da República, cujo quadro integrará todo o pessoal da Chancelaria.
+Art. 54.º A Chancelaria das Ordens é apoiada administrativamente pelos serviços competentes da Secretaria-Geral da Presidência da República, cujo quadro integrará todo o pessoal da Chancelaria.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro das ordens honoríficas portuguesas a que se refere o n.º 1 do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/28701/00010007.pdf))](https://files.diariodarepublica.pt/1s/1986/12/28701/00010007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/28701/00010007.pdf)

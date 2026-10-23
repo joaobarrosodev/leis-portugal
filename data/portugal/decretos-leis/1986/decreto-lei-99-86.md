@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1986-227187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ef387c384bb81f46bbb7e38021613a81c9c75ce3c0633775b861ca959304dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d55352617af088945041094fbe895ab1196fea5def8827586cc572b30df2a16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Aduaneiros
+- Exportação
+- Importação
+- Regime de Aperfeiçoamento Passivo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:46Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +98,9 @@ Considerando que as operações de aperfeiçoamento passivo apenas são necessá
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente decreto-lei fixa as regras relativas ao aperfeiçoamento passivo.
+Artigo 1.º O presente decreto-lei fixa as regras relativas ao aperfeiçoamento passivo.
 
-###### Art. 2.º - 1 - Considera-se regime de aperfeiçoamento passivo o regime aduaneiro que permite exportar temporariamente mercadorias, de qualquer espécie e de qualquer origem, do território aduaneiro da Comunidade, com vista à sua reimportação sob a forma de produtos compensadores, definidos no artigo 3.º, com isenção parcial ou total dos direitos de importação, depois de terem sido submetidas, fora do território aduaneiro da Comunidade, a uma ou várias das operações de aperfeiçoamento definidas no artigo 3.º
+Art. 2.º - 1 - Considera-se regime de aperfeiçoamento passivo o regime aduaneiro que permite exportar temporariamente mercadorias, de qualquer espécie e de qualquer origem, do território aduaneiro da Comunidade, com vista à sua reimportação sob a forma de produtos compensadores, definidos no artigo 3.º, com isenção parcial ou total dos direitos de importação, depois de terem sido submetidas, fora do território aduaneiro da Comunidade, a uma ou várias das operações de aperfeiçoamento definidas no artigo 3.º
 
 2 - Consideram-se direitos de importação tanto os direitos aduaneiros e encargos de efeito equivalente como os direitos niveladores agrícolas e outras imposições cobradas na importação, previstas no âmbito da política agrícola comum ou no dos regimes específicos aplicáveis, ao abrigo do artigo 245.º do Tratado que instituiu a Comunidade Económica Europeia, a determinadas mercadorias resultantes da transformação de produtos agrícolas.
 
@@ -104,7 +108,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O regime de aperfeiçoamento passivo aplica-se igualmente, de acordo com os artigos 22.º e 23.º do Decreto-Lei n.º 500-A/85, de 27 de Dezembro, a todas as mercadorias que permaneçam na Comunidade sob o regime de aperfeiçoamento activo.
 
-###### Art. 3.º Consideram-se produtos compensadores os produtos obtidos na sequência de uma ou mais das operações de aperfeiçoamento seguintes:
+Art. 3.º Consideram-se produtos compensadores os produtos obtidos na sequência de uma ou mais das operações de aperfeiçoamento seguintes:
 
 a) Complemento de fabrico das mercadorias, compreendendo a sua montagem, reunião e adaptação a outras mercadorias;
 
@@ -112,7 +116,7 @@ b) Transformação das mercadorias;
 
 c) Reparação das mercadorias, compreendendo a sua restauração e a sua afinação.
 
-###### Art. 4.º - 1 - O benefício do regime de aperfeiçoamento passivo só será concedido às pessoas singulares ou colectivas estabelecidas na Comunidade que mandem efectuar as operações de aperfeiçoamento mencionadas no artigo 3.º
+Art. 4.º - 1 - O benefício do regime de aperfeiçoamento passivo só será concedido às pessoas singulares ou colectivas estabelecidas na Comunidade que mandem efectuar as operações de aperfeiçoamento mencionadas no artigo 3.º
 
 2 - O Ministro das Finanças, ouvidos, se for caso disso, os ministérios interessados, concederá, nas condições mencionadas no artigo 5.º, o benefício do regime aos requerentes, a pedido destes e previamente à exportação temporária das mercadorias, mediante autorizações globais ou especiais.
 
@@ -120,7 +124,7 @@ c) Reparação das mercadorias, compreendendo a sua restauração e a sua afina�
 
 4 - O Ministro das Finanças pode recusar o benefício do regime às pessoas que não ofereçam todas as garantias que considere necessárias.
 
-###### Art. 5.º A autorização fixará as condições em que se deve realizar a operação de aperfeiçoamento passivo e, particularmente:
+Art. 5.º A autorização fixará as condições em que se deve realizar a operação de aperfeiçoamento passivo e, particularmente:
 
 a) As taxas de rendimento, tomando em consideração os dados técnicos da operação ou das operações a efectuar, se tivessem sido estabelecidos, ou, na sua falta, os dados disponíveis na Comunidade relativamente a operações do mesmo género;
 
@@ -128,15 +132,15 @@ b) Os processos que permitam identificar as mercadorias exportadas nos produtos 
 
 c) O prazo de reimportação, em função do tempo necessário para se efectuar a operação ou operações de aperfeiçoamento passivo.
 
-###### Art. 6.º - 1 - O benefício do regime de aperfeiçoamento passivo não será concedido quando a concessão desse benefício for de natureza a prejudicar gravemente os interesses essenciais dos transformadores comunitários.
+Art. 6.º - 1 - O benefício do regime de aperfeiçoamento passivo não será concedido quando a concessão desse benefício for de natureza a prejudicar gravemente os interesses essenciais dos transformadores comunitários.
 
 2 - Os elementos de facto que tenham levado à recusa, em aplicação do n.º 1, do benefício do regime serão comunicados pelo Ministro das Finanças à Comissão antes do dia 10 do mês seguinte àquele no decurso do qual o benefício foi recusado.
 
-###### Art. 7.º - 1 - Quando a reimportação dos produtos compensadores se efectuar num Estado membro diferente do da exportação temporária das mercadorias correspondentes, a autorização concedida nos termos do artigo 4.º será reconhecida pelas autoridades competentes do Estado membro de reimportação desses produtos compensadores.
+Art. 7.º - 1 - Quando a reimportação dos produtos compensadores se efectuar num Estado membro diferente do da exportação temporária das mercadorias correspondentes, a autorização concedida nos termos do artigo 4.º será reconhecida pelas autoridades competentes do Estado membro de reimportação desses produtos compensadores.
 
 2 - As autoridades competentes do Estado membro de reimportação poderão modificar, excepcionalmente e se as circunstâncias o justificarem, as condições fixadas no artigo 5.º, quando essa modificação for necessária para permitir a reimportação dos produtos compensadores em aplicação do regime de aperfeiçoamento passivo.
 
-###### Art. 8.º O Ministro das Finanças poderá:
+Art. 8.º O Ministro das Finanças poderá:
 
 a) Conceder uma prorrogação do prazo de reimportação primitivamente fixado;
 
@@ -144,11 +148,11 @@ b) Permitir que a reimportação dos produtos compensadores se efectue em remess
 
 c) Autorizar, quando as circunstâncias o justifiquem e em derrogação do n.º 1 do artigo 2.º, a reimportação total ou parcial das mercadorias que se encontrem ainda no estado em que foram exportadas temporariamente, a seguir denominadas «mercadorias no seu estado inalterado», ou que se encontrem sob a forma de produtos resultantes de um tratamento incompleto relativamente ao previsto na autorização, a seguir denominados «produtos intermédios».
 
-###### Art. 9.º - 1 - No caso de cessão de mercadorias exportadas temporariamente ao abrigo do regime de aperfeiçoamento passivo, o Ministro das Finanças manterá a concessão do benefício do referido regime, desde que os produtos compensadores ou, em caso de aplicação da alínea c) do artigo 8.º, as mercadorias no seu estado inalterado ou os produtos intermédios sejam reimportados pelo titular da autorização.
+Art. 9.º - 1 - No caso de cessão de mercadorias exportadas temporariamente ao abrigo do regime de aperfeiçoamento passivo, o Ministro das Finanças manterá a concessão do benefício do referido regime, desde que os produtos compensadores ou, em caso de aplicação da alínea c) do artigo 8.º, as mercadorias no seu estado inalterado ou os produtos intermédios sejam reimportados pelo titular da autorização.
 
 2 - Quando for caso disso, os produtos ou mercadorias referidos no n.º 1 poderão ser reimportados por uma outra pessoa, sob reserva de que esta tenha obtido o consentimento do primeiro titular, que seja produzida a prova desse consentimento e que essa pessoa preencha as condições da primitiva autorização.
 
-###### Art. 10.º - 1 - A isenção parcial ou total dos direitos de importação prevista no artigo 2.º realizar-se-á deduzindo do montante dos direitos de importação referentes aos produtos reimportados, consoante a taxa ou o montante aplicável na data da aceitação pelas autoridades aduaneiras do bilhete de despacho de reimportação que lhes diga respeito, o montante dos direitos de importação que seriam aplicáveis às mercadorias exportadas temporariamente se estas tivessem sido importadas do país onde foram objecto de operação ou da última operação de aperfeiçoamento.
+Art. 10.º - 1 - A isenção parcial ou total dos direitos de importação prevista no artigo 2.º realizar-se-á deduzindo do montante dos direitos de importação referentes aos produtos reimportados, consoante a taxa ou o montante aplicável na data da aceitação pelas autoridades aduaneiras do bilhete de despacho de reimportação que lhes diga respeito, o montante dos direitos de importação que seriam aplicáveis às mercadorias exportadas temporariamente se estas tivessem sido importadas do país onde foram objecto de operação ou da última operação de aperfeiçoamento.
 
 2 - No caso de as mercadorias exportadas temporariamente se poderem incluir, aquando da sua importação na Comunidade, numa posição pautal que preveja uma taxa especial em função de um destino particular que aí poderiam ter recebido, a referida taxa aplicar-se-á a essas mercadorias desde que tenham recebido esse destino no país onde se realizou a operação de aperfeiçoamento.
 
@@ -160,24 +164,24 @@ c) Autorizar, quando as circunstâncias o justifiquem e em derrogação do n.º 
 
 6 - No caso de colocação ou de nova colocação dos produtos sob regime de aperfeiçoamento activo, a data de aceitação do bilhete de despacho para aperfeiçoamento activo que lhe diga respeito será considerada para esse efeito como a data da aceitação do bilhete de despacho de reimportação mencionada no n.º 1.
 
-###### Art. 11.º Para aplicação do artigo 10.º o montante dos direitos de importação aplicáveis às mercadorias exportadas temporariamente será calculado em função da quantidade e da natureza das referidas mercadorias na data da sua exportação, mas tomando por base o valor e consoante a taxa que lhes seja aplicável na data da aceitação pelas autoridades aduaneiras do bilhete de despacho de reimportação dos correspondentes produtos compensadores.
+Art. 11.º Para aplicação do artigo 10.º o montante dos direitos de importação aplicáveis às mercadorias exportadas temporariamente será calculado em função da quantidade e da natureza das referidas mercadorias na data da sua exportação, mas tomando por base o valor e consoante a taxa que lhes seja aplicável na data da aceitação pelas autoridades aduaneiras do bilhete de despacho de reimportação dos correspondentes produtos compensadores.
 
-###### Art. 12.º - 1 - Quando ficar devidamente demonstrado que a reparação de uma mercadoria foi efectuada gratuitamente, quer por força de obrigação contratual ou legal de garantia, quer em virtude de defeito de fabrico, a reimportação do produto compensador efectuar-se-á com isenção total de direitos aduaneiros.
+Art. 12.º - 1 - Quando ficar devidamente demonstrado que a reparação de uma mercadoria foi efectuada gratuitamente, quer por força de obrigação contratual ou legal de garantia, quer em virtude de defeito de fabrico, a reimportação do produto compensador efectuar-se-á com isenção total de direitos aduaneiros.
 
 2 - A regra estabelecida no n.º 1 não se aplicará quando no momento da primeira entrada no consumo da referida mercadoria tiver sido considerado esse estado defeituoso para a determinação do seu valor aduaneiro ou para a aplicação da Pauta Aduaneira Comum.
 
-###### Art. 13.º As disposições necessárias para a aplicação do presente diploma serão publicadas por portaria do Ministro das Finanças.
+Art. 13.º As disposições necessárias para a aplicação do presente diploma serão publicadas por portaria do Ministro das Finanças.
 
-###### Art. 14.º O presente decreto-lei produzirá efeitos a partir de 1 de Janeiro de 1986.
+Art. 14.º O presente decreto-lei produzirá efeitos a partir de 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 2 de Maio de 1986.**
+Promulgado em 2 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Maio de 1986.**
+Referendado em 7 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

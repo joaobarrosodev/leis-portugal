@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 90/1985, 1º Suplemento, Série I de 1985-04-18
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1060-(6) a 1060-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09001/00060009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-d-1985-477170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b875acb8db26380d2d4e1789abfb1747115a86fa92069cb61cf538aa7b9df67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd6cc782e00c67d280423b94637f247d91d755545c8e52f99f23cb9112c811d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
+- Imposto Complementar
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432796:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:495131:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-495131
+  date: '1985-05-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:41Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +147,9 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 27.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 11.º, 14.º, 15.º, 15.º-A, 22.º, 29.º 30.º 33.º, 84.º e 91.º do Código do Imposto Complementar passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 11.º, 14.º, 15.º, 15.º-A, 22.º, 29.º 30.º 33.º, 84.º e 91.º do Código do Imposto Complementar passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º ...
 
@@ -124,7 +161,7 @@ No uso da autorização conferida pelo artigo 27.º da [Lei n.º 2-B/85](https:/
 
 3.º O pai ou a mãe solteiros, ou casados, mas separados de facto, quando usem da faculdade prevista no § 1.º-B do artigo 11.º, e os filhos e adoptados nas condições do n.º 2.º
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 1.º ...
 
@@ -144,7 +181,7 @@ No uso da autorização conferida pelo artigo 27.º da [Lei n.º 2-B/85](https:/
 
 § 2.º Os dividendos das acções ao portador, não registadas nem depositadas, nos termos do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, e, bem assim, os juros das obrigações ao portador não registadas ficam sujeitos ao regime estabelecido no artigo 124.º
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 1.º ...
 
@@ -174,7 +211,7 @@ b) 300000$00, sendo casados e não separados judicialmente de pessoas e bens.
 
 § 7.º ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 1.º ...
 
@@ -198,7 +235,7 @@ b) 300000$00, sendo casados e não separados judicialmente de pessoas e bens.
 
 § 3.º ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 1.ª ...
 
@@ -234,7 +271,7 @@ c) ...
 
 § 3.º Tratando-se de contribuintes tributados em contribuição industrial, grupo A, não serão de considerar, para apuramento da matéria colectável deste imposto, os rendimentos correspondentes à contribuição predial dedutível à colecta daquela contribuição nos termos da alínea b) e do § 1.º do artigo 89.º do Código da Contribuição Industrial.
 
-###### Art. 15.º-A. ...
+Art. 15.º-A. ...
 
 § 1.º ...
 
@@ -254,9 +291,9 @@ c) ...
 
 § 6.º A antiguidade dos veículos automóveis e motociclos referida na tabela anexa será reportada a 1 de Janeiro do ano a que respeita o imposto e contada por anos civis, incluindo o ano da matrícula constante do respectivo livrete.
 
-###### Art. 22.º Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades que processem folhas para o abono das importâncias abrangidas pelas alíneas b) e c) da regra 4.º do artigo 15.º, bem como para o abono das remunerações referidas na alínea g) do artigo 4.º do Código do Imposto Profissional, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias ou remunerações, enviarão até 30 de Abril de cada ano, à repartição de finanças em cuja área fique situado o serviço ou entidade, relações nominais modelo n.º 2, em duplicado, contendo as importâncias líquidas de descontos obrigatórios e as remunerações pelos seus valores ilíquidos de quaisquer encargos cujo pagamento tenha sido autorizado ou efectuado no ano anterior.
+Art. 22.º Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades que processem folhas para o abono das importâncias abrangidas pelas alíneas b) e c) da regra 4.º do artigo 15.º, bem como para o abono das remunerações referidas na alínea g) do artigo 4.º do Código do Imposto Profissional, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias ou remunerações, enviarão até 30 de Abril de cada ano, à repartição de finanças em cuja área fique situado o serviço ou entidade, relações nominais modelo n.º 2, em duplicado, contendo as importâncias líquidas de descontos obrigatórios e as remunerações pelos seus valores ilíquidos de quaisquer encargos cujo pagamento tenha sido autorizado ou efectuado no ano anterior.
 
-###### Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 30% dos rendimentos do trabalho, apurados nos termos da regra 4.º do artigo 15.º, com o máximo de 65000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:
+Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 30% dos rendimentos do trabalho, apurados nos termos da regra 4.º do artigo 15.º, com o máximo de 65000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:
 
 a) ...
 
@@ -300,7 +337,7 @@ b) ...
 
 § 10.º Nos casos em que o número de dependentes referidos nos n.os 3), 4) e 5) da alínea a) for igual ou superior a 5, o total das correspondentes deduções não será inferior a 250000$00.
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 a) ...
 
@@ -328,19 +365,19 @@ h) As importâncias correspondentes a 50% dos quantitativos pagos referentes a p
 
 § 4.º ...
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes das tabelas I e II seguintes:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes das tabelas I e II seguintes:
 
 TABELA I
 
 Casados e não separados judicialmente de pessoas e bens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/09001/00060009.pdf))](https://files.diariodarepublica.pt/1s/1985/04/09001/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09001/00060009.pdf)
 
 TABELA II
 
 Não casados e casados separados judicialmente de pessoas e bens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/09001/00060009.pdf))](https://files.diariodarepublica.pt/1s/1985/04/09001/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09001/00060009.pdf)
 
 § 1.º ...
 
@@ -348,7 +385,7 @@ Não casados e casados separados judicialmente de pessoas e bens
 
 § 3.º Aos rendimentos das pessoas que usem da faculdade prevista no § 1.º-B do artigo 11.º serão aplicadas as taxas constantes da tabela II.
 
-###### Art. 84.º ...
+Art. 84.º ...
 
 1.º ...
 
@@ -366,15 +403,15 @@ Não casados e casados separados judicialmente de pessoas e bens
 
 § 4.º Os dividendos das acções ao portador, não registadas nem depositadas, nos termos do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, e, bem assim, os juros das obrigações ao portador não registadas ficam sujeitos ao regime estabelecido no artigo 124.º
 
-###### Art. 91.º ...
+Art. 91.º ...
 
 § 1.º ...
 
 § 2.º Tratando-se de contribuintes tributados em contribuição industrial, grupo A, não serão de considerar, para apuramento da matéria colectável deste imposto, os rendimentos correspondentes às contribuições e impostos dedutíveis à colecta daquela contribuição nos termos das alíneas a) e b) e do § 1.º do artigo 89.º do Código da Contribuição Industrial.
 
-###### Art. 2.º O artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, passa a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º O excesso, se o houver, das importâncias referidas neste artigo sobre a soma da parte das deduções previstas nas alíneas a) ou b) do artigo 29.º do Código, determinada nos termos do parágrafo seguinte, e da parte correspondente na dedução a que se refere a primeira parte desse mesmo artigo será deduzido ao rendimento colectável apurado nos termos dos artigos 3.º e 31.º
 
@@ -382,11 +419,11 @@ Não casados e casados separados judicialmente de pessoas e bens
 
 § 3.º Na aplicação das taxas, a importância do excesso referido no § 1.º deste artigo será deduzida na fracção do rendimento a que é de aplicar a taxa média, computando-se o excedente, se o houver, na fracção sobre que é de aplicar a taxa normal.
 
-###### Art. 3.º O limite de 300000$00 estabelecido para os motociclos na tabela a que se refere o artigo 15.º-A do Código do Imposto Complementar é elevado para 500000$00.
+Art. 3.º O limite de 300000$00 estabelecido para os motociclos na tabela a que se refere o artigo 15.º-A do Código do Imposto Complementar é elevado para 500000$00.
 
-###### Art. 4.º Os contribuintes do imposto complementar. secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1984 se a declaração for apresentada no correspondente prazo, estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se, neste caso, o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 2,33%, multiplicado pelo número de meses, incluindo o do pagamento, que antecede o mês em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código, com o máximo de 9,32%.
+Art. 4.º Os contribuintes do imposto complementar. secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1984 se a declaração for apresentada no correspondente prazo, estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se, neste caso, o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 2,33%, multiplicado pelo número de meses, incluindo o do pagamento, que antecede o mês em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código, com o máximo de 9,32%.
 
-###### Art. 5.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à repartição de finanças da área da respectiva residência ou, sendo esta fora do território do continente e dos arquipélagos dos Açores e da Madeira, à Repartição de Finanças do 3.º Bairro Fiscal de Lisboa, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do recibo e demais documentos, quando for caso disso.
+Art. 5.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à repartição de finanças da área da respectiva residência ou, sendo esta fora do território do continente e dos arquipélagos dos Açores e da Madeira, à Repartição de Finanças do 3.º Bairro Fiscal de Lisboa, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do recibo e demais documentos, quando for caso disso.
 
 2 - As repartições referidas no número precedente, ao receberem a declaração modelo n.º 1 e anexos, os documentos justificativos e o cheque ou vale de correio, deverão proceder à respectiva conferência, processar o conhecimento e promover a cobrança, apresentando, no final de cada dia, na competente tesouraria, os conhecimentos e respectivos meios de pagamento.
 
@@ -394,16 +431,16 @@ Não casados e casados separados judicialmente de pessoas e bens
 
 4 - O pagamento efectuado nos termos do presente artigo não impede a eventual correcção do imposto a mais liquidado, devendo aplicar-se o estabelecido no artigo 61.º do Código do Imposto Complementar.
 
-###### Art. 6.º As alterações introduzidas pelo presente diploma aos artigos 2.º 11.º, 15.º-A, 29.º, 30.º e 33.º e à tabela a que se refere o artigo 15.º-A do Código do Imposto Complementar, bem como ao artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, são aplicáveis ao imposto respeitante aos anos de 1984 e seguintes.
+Art. 6.º As alterações introduzidas pelo presente diploma aos artigos 2.º 11.º, 15.º-A, 29.º, 30.º e 33.º e à tabela a que se refere o artigo 15.º-A do Código do Imposto Complementar, bem como ao artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, são aplicáveis ao imposto respeitante aos anos de 1984 e seguintes.
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 15 de Abril de 1985.**
+Promulgado em 15 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Abril de 1985.**
+Referendado em 16 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

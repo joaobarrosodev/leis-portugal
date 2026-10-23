@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/14900/23812381.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1983-452682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 083a2dcbbb57456df6b9ad9eba6dbad7e9ce273316ef7a01325233529af75d8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5b98f9592380c1e54fe29f15aecdbdd5339bed2fcc04e82ce5a83a043813acf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- BENS Imóveis do Estado
+- Direcção Geral do Património do Estado
+- Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:547826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:547826:por
+  label: "Revogado pelo DEC LEI.309/89.19.09.1989.MF, DR.IS [216] de 19.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1989-547826
+  date: '1989-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:37Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +108,18 @@ Assim:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral do Património do Estado a promover a alienação urgente, em hasta pública, dos imóveis do Estado que não se encontrem a ser efectivamente utilizados ou que os serviços afectatários considerem disponíveis, por terem deixado de satisfazer aos indispensáveis requisitos de funcionalidade e operacionalidade.
+Artigo 1.º É autorizada a Direcção-Geral do Património do Estado a promover a alienação urgente, em hasta pública, dos imóveis do Estado que não se encontrem a ser efectivamente utilizados ou que os serviços afectatários considerem disponíveis, por terem deixado de satisfazer aos indispensáveis requisitos de funcionalidade e operacionalidade.
 
-###### Art. 2.º O produto da desamortização dos bens imóveis do Estado dará entrada nos cofres do Estado, podendo 50% ser consignados, por portaria conjunta do Ministro de Estado e das Finanças e do Plano e do departamento que colocou os bens na situação de disponíveis, ao reforço de dotações inscritas no orçamento desse mesmo departamento, desde que se destinem a despesas de capital contempladas em programas superiormente aprovados.
+Art. 2.º O produto da desamortização dos bens imóveis do Estado dará entrada nos cofres do Estado, podendo 50% ser consignados, por portaria conjunta do Ministro de Estado e das Finanças e do Plano e do departamento que colocou os bens na situação de disponíveis, ao reforço de dotações inscritas no orçamento desse mesmo departamento, desde que se destinem a despesas de capital contempladas em programas superiormente aprovados.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 7 de Junho de 1983.**
+Promulgado em 7 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

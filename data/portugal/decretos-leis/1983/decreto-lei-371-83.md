@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23000/34773478.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1983-441160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bb1ef5e4581e7c8d3a9da253d2205d6b2aed320d6cb7e905a086a50e575eff3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e785917db73aee22c8735151e8be71d0bdc24a029fce132880e0045b013ffed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Cargo Público
+- Corrupção
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:455922:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:630387:por
+  label: Rectifcado pela DECL.DD5513.06.12.1983.PCM, DR.IS [301]6ºSupl de 31.12.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-630387
+  date: '1983-12-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:40Z'
   warnings: []
   errors: []
 ---
@@ -108,23 +126,23 @@ Ao abrigo da autorização legislativa conferida pela [Lei n.º 12/83](https://d
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Sem prejuízo do disposto nos artigos 420.º, 421.º e 422.º do Código Penal, comete o crime de corrupção passiva, sendo punido, conforme os casos, com as penas cominadas naqueles dispositivos, o funcionário ou equiparado que, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar qualquer vantagem não patrimonial, para si ou para o seu cônjuge, parentes ou afins até ao 3.º grau, a que não tenham direito, para a prática de acto que implique violação dos deveres do seu cargo ou omissão de acto que tenham o dever de praticar, consistente, nomeadamente:
+Artigo 1.º Sem prejuízo do disposto nos artigos 420.º, 421.º e 422.º do Código Penal, comete o crime de corrupção passiva, sendo punido, conforme os casos, com as penas cominadas naqueles dispositivos, o funcionário ou equiparado que, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar qualquer vantagem não patrimonial, para si ou para o seu cônjuge, parentes ou afins até ao 3.º grau, a que não tenham direito, para a prática de acto que implique violação dos deveres do seu cargo ou omissão de acto que tenham o dever de praticar, consistente, nomeadamente:
 
 a) Em dispensa de tratamento de favor a determinada pessoa, empresa ou organização;
 
 b) Em intervenção em processo, tomada ou participação em decisão que impliquem obtenção de benefícios, recompensas, subvenções, empréstimos, adjudicação ou celebração de contratos e em geral reconhecimento ou registo de direitos e exclusão ou extinção de obrigações com violação da lei.
 
-###### Art. 2.º Sem prejuízo do disposto no artigo 423.º do Código Penal, comete o crime de corrupção activa, sendo punido com a pena daquele preceito, quem, por si ou por interposta pessoa, prometer ou proporcionar a funcionário ou equiparado ou ao cônjuge, parentes ou afins até ao 3.º grau destes, qualquer vantagem não patrimonial a que não tenham direito, para prática de acto que implique violação dos deveres do seu cargo ou omissão de acto que tenham o dever de praticar, consistente, nomeadamente, nos actos previstos nas alíneas a) e b) do artigo antecedente.
+Art. 2.º Sem prejuízo do disposto no artigo 423.º do Código Penal, comete o crime de corrupção activa, sendo punido com a pena daquele preceito, quem, por si ou por interposta pessoa, prometer ou proporcionar a funcionário ou equiparado ou ao cônjuge, parentes ou afins até ao 3.º grau destes, qualquer vantagem não patrimonial a que não tenham direito, para prática de acto que implique violação dos deveres do seu cargo ou omissão de acto que tenham o dever de praticar, consistente, nomeadamente, nos actos previstos nas alíneas a) e b) do artigo antecedente.
 
-###### Art. 3.º - 1 - Aplicam-se aos casos de corrupção tanto passiva como activa cometidos através de recepção ou prestação de vantagens não patrimoniais os benefícios de isenção de pena previstos, respectivamente, no n.º 4 do artigo 420.º e no n.º 3 do artigo 423.º, ambos do Código Penal.
+Art. 3.º - 1 - Aplicam-se aos casos de corrupção tanto passiva como activa cometidos através de recepção ou prestação de vantagens não patrimoniais os benefícios de isenção de pena previstos, respectivamente, no n.º 4 do artigo 420.º e no n.º 3 do artigo 423.º, ambos do Código Penal.
 
 2 - Serão igualmente isentos de pena o funcionário ou equiparado, ou os seus comparticipantes agentes dos crimes, previstos nos artigos 1.º e 2.º e nos artigos 420.º, 421.º e 422.º do Código Penal ou o agente dos correspondentes crimes de corrupção activa e do crime previsto no artigo 423.º do Código Penal que em primeiro lugar praticiparam o crime às autoridades competentes, antes de estar iniciado procedimento criminal pelos respectivos factos, sendo porém irrelevante a sua participação simultânea.
 
-###### Art. 4.º - 1 - Para efeitos do presente diploma, a expressão funcionário tem o alcance fixado pelo n.º 1 do artigo 437.º do Código Penal.
+Art. 4.º - 1 - Para efeitos do presente diploma, a expressão funcionário tem o alcance fixado pelo n.º 1 do artigo 437.º do Código Penal.
 
 2 - Para os mesmos efeitos, e ainda para os efeitos dos artigos 420.º a 423.º do Código Penal, são equiparados a funcionários os titulares dos órgãos e os funcionários da administração autárquica regional e local ou de institutos públicos e os gestores, titulares dos órgãos de fiscalização e trabalhadores de empresas públicas nacionalizadas, de capitais públicos ou com participação maioritária de capital público, e ainda de empresas concessionárias de serviços públicos.
 
-###### Art. 5.º A equiparação prevista no n.º 2 do artigo antecedente faz igualmente incorrer os equiparados:
+Art. 5.º A equiparação prevista no n.º 2 do artigo antecedente faz igualmente incorrer os equiparados:
 
 a) No crime de favorecimento pessoal praticado por funcionário previsto e punido pelo artigo 411.º do Código Penal;
 
@@ -144,24 +162,24 @@ h) No crime de abuso de poderes previsto e punido pelo artigo 432.º do Código 
 
 i) No crime de violação de segredo por funcionário ou ex-funcionário previsto e punido pelos artigos 433.º e 435.º do Código Penal.
 
-###### Art. 6.º Nos crimes previstos neste diploma, bem como nos previstos na secção I do capítulo IV do título V do livro II do Código Penal, a tentativa será sempre punida, independentemente da medida legal da pena.
+Art. 6.º Nos crimes previstos neste diploma, bem como nos previstos na secção I do capítulo IV do título V do livro II do Código Penal, a tentativa será sempre punida, independentemente da medida legal da pena.
 
-###### Art. 7.º Considera-se manifesta e grave violação de deveres, nos termos e para os efeitos do artigo 66.º do Código Penal, a circunstância de a corrupção ter por finalidade:
+Art. 7.º Considera-se manifesta e grave violação de deveres, nos termos e para os efeitos do artigo 66.º do Código Penal, a circunstância de a corrupção ter por finalidade:
 
 a) A intervenção em processo civil, penal, de trabalho, administrativo, fiscal ou aduaneiro, bem como em qualquer inquérito ou sindicância oficial;
 
 b) A obtenção ou denegação de empregos públicos, honras, condecorações, remunerações, pensões, prestações pecuniárias de qualquer espécie, quaisquer benefícios ou recompensas, empréstimos ou qualquer modalidade de concessão de crédito, celebração ou outorga de contratos ou inclusão neles, ou nos seus preliminares de qualquer cláusula, declaração de constituição ou extinção e registo de quaisquer direitos, ainda que de mera garantia, ou licenças ou autorizações de natureza fiscal, cambiária, de comércio ou respeitante às normas de garantia de higiene, salubridade, condições, de trabalho ou de segurança das edificações.
 
-###### Art. 8.º O presente decreto-lei entra em vigor 30 dias após a sua publicação.
+Art. 8.º O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 26 de Setembro de 1983.**
+Promulgado em 26 de Setembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Setembro de 1983.**
+Referendado em 25 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

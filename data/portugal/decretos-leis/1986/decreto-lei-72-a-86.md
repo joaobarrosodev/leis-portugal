@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 90/1986, 1º Suplemento, Série I de 1986-04-18
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 960-(3) a 960-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/04/09001/00030004.pdf
 entry_into_force_dates: []
@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-1986-250432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad810423d93b9a09f7af9ae11cc242934d21c4e667a5a5e7ab57608cdcd643b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fbb173dddeb6ac5807d8a3be6169d4c8a0e26200225906259c47e8c3e182ee7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adesão à Comunidade Europeia
+- Carne
+- Carne de Vaca
+- Exportação
+- Gado Bovino
+- Importação
+- Organização Comum de Mercado
+- Política Agrícola Comum
+- Tratado de Adesão CE
+relationships:
+- type: cites
+  target: pt:dre:546421:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:654320:por
+  label: Rectificado pela DECL.DD4746.23.05.1986.PCM, DR.IS [124]Supl de 31.05.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-654320
+  date: '1986-05-23'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:16Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +111,15 @@ Ouvidos os Governos das Regiões Autónomas da Madeira e dos Açores:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 515/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1985-546421), de 31 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 515/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1985-546421), de 31 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º — (Âmbito de aplicação)
 
 A organização do mercado para o sector da carne de bovino, adiante designada por «organização do mercado», a que se refere o presente diploma, abrange os seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/09001/00030004.pdf))](https://files.diariodarepublica.pt/1s/1986/04/09001/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09001/00030004.pdf)
 
-###### Art. 2.º - 1 - O artigo 10.º do [Decreto-Lei n.º 515/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1985-546421), de 31 de Dezembro, passa a ter a seguinte redacção:
+Art. 2.º - 1 - O artigo 10.º do [Decreto-Lei n.º 515/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1985-546421), de 31 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 10.º — (Regime de importação e exportação)
 
@@ -127,16 +145,16 @@ A organização do mercado para o sector da carne de bovino, adiante designada p
 
 11 - Poderão ser atribuídas restrições à exportação em condições a regulamentar por portaria conjunta dos ministros com competência nas áreas das finanças, da agricultura, do comércio e da concorrência, de acordo com o Acto de Adesão, designadamente o seu artigo 241.º, quando se trate de exportações para a Comunidade, e o seu artigo 283.º, quando se trate de exportações para países terceiros.
 
-###### Art. 3.º O presente diploma produz afeitos a partir de 1 de Março de 1986.
+Art. 3.º O presente diploma produz afeitos a partir de 1 de Março de 1986.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - António Amaro de Matos - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 14 de Abril de 1986.**
+Promulgado em 14 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Abril de 1986.**
+Referendado em 18 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

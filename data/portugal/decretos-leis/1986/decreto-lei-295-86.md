@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5425f00098db8fa2b17f684221ddb5b71d89d80b6054eef6e34a45e2ea285fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa3c5ee554b63ba160ed23d475828e0b405e5aeb3f7bdcc01da0f8e3a316a196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Patronato
+- Segurança Social
+- TAXA Social Unica
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:311258:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569905:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:311258:por
+  label: "Revogados todos os arts., com excepção dos arts. 8º e 19º do Dec Lei 140-D/86, de 14-Jun, na redacção do presente\
+    \ diploma e da Lei 39-B/94, de 27-Set (OE 1995 - art. 24º), pelo DEC LEI.199/99.1999.06.08.MTS, DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1999-311258
+  date: '1999-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:08Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +128,13 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 3.º, 5.º, 7.º, 8.º 11.º, 12.º, 13.º, 18.º e 21.º do [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 3.º, 5.º, 7.º, 8.º 11.º, 12.º, 13.º, 18.º e 21.º do [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 1.º - 1 - ...
+Art. 1.º - 1 - ...
 
 2 - O disposto no número anterior abrange todos os regimes ou esquemas de segurança social em que sejam aplicáveis as taxas de contribuições do regime geral de segurança social dos trabalhadores por conta de outrem.
 
-###### Art. 3.º - 1 ...
+Art. 3.º - 1 ...
 
 2 - ...
 
@@ -115,23 +142,23 @@ No uso da autorização legislativa concedida pela [Lei n.º 9/86](https://diari
 
 4 - O pagamento das quotizações referidas no n.º 2 deve ser efectuado nos termos do artigo 4.º do [Decreto-Lei n.º 40/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1986-193626), de 4 de Março.
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - A taxa de 8% referida no número anterior integra já a taxa de 0,5% para financiamento do risco de doença profissional.
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - São fixadas em 8% e 20,5% as taxas aplicáveis às atribuições pecuniárias qualificadas de pré-reforma quando estejam em causa trabalhadores com idade igual ou inferior a 55 anos.
 
 3 - Não há lugar, nas situações referidas nos números anteriores, à aplicação da taxa de 0,5% para financiamento do risco de doença profissional.
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 2 - Deixa de ser devida a quota mensal actualmente prevista para os trabalhadores abrangidos pela Caixa de Abono de Família dos Empregados Bancários.
 
-###### Art. 11.º Os trabalhadores a que se referem os artigos 8.º e 9.º têm direito às prestações de desemprego do regime geral de segurança social nos termos a regulamentar, devendo o Centro Nacional de Pensões proceder à sua inclusão no banco de dados, atribuindo-lhes o respectivo número nacional.
+Art. 11.º Os trabalhadores a que se referem os artigos 8.º e 9.º têm direito às prestações de desemprego do regime geral de segurança social nos termos a regulamentar, devendo o Centro Nacional de Pensões proceder à sua inclusão no banco de dados, atribuindo-lhes o respectivo número nacional.
 
-###### Art. 12.º - 1 - Os contribuintes do regime geral de segurança social cuja actividade não tenha fim lucrativo podem beneficiar da redução de 3,5% na taxa de contribuições sobre as remunerações por trabalho que lhos seja prestado a partir da entrada em vigor do presente diploma.
+Art. 12.º - 1 - Os contribuintes do regime geral de segurança social cuja actividade não tenha fim lucrativo podem beneficiar da redução de 3,5% na taxa de contribuições sobre as remunerações por trabalho que lhos seja prestado a partir da entrada em vigor do presente diploma.
 
 2 - Para efeitos do disposto no número anterior consideram-se como não tendo fim lucrativo, sem prejuízo de prova em contrário, nomeadamente as seguintes entidades:
 
@@ -167,33 +194,33 @@ n) Caixas de crédito agrícola mútuo.
 
 5 - Não podem também ser aplicadas taxas inferiores às que sejam determinadas em legislação especial desde que estas sejam menores do que a taxa resultante da aplicação da redução de 3,5% à taxa prevista para as entidades patronais no n.º 1 do artigo 1.º
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - Sempre que se verificarem as situações previstas no número anterior devem as entidades contribuintes apresentar também guias de pagamento autónomas.
 
-###### Art. 18.º As contribuições previstas neste decreto-lei devem ser pagas até ao dia 15 do mês seguinte àquele a que disserem respeito.
+Art. 18.º As contribuições previstas neste decreto-lei devem ser pagas até ao dia 15 do mês seguinte àquele a que disserem respeito.
 
-###### Art. 21.º Às taxas contributivas previstas neste diploma acrescem as taxas de contribuição destinadas a fundos especiais de instituições de segurança social.
+Art. 21.º Às taxas contributivas previstas neste diploma acrescem as taxas de contribuição destinadas a fundos especiais de instituições de segurança social.
 
-###### Art. 2.º Ao [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho, são aditados os seguintes artigos:
+Art. 2.º Ao [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho, são aditados os seguintes artigos:
 
-###### Art. 7.º-A - 1 - São fixadas em 9,5% e 22,5% das remunerações as taxas de contribuições devidas, respectivamente, pelos trabalhadores agrícolas permanentes e suas entidades patronais.
+Art. 7.º-A - 1 - São fixadas em 9,5% e 22,5% das remunerações as taxas de contribuições devidas, respectivamente, pelos trabalhadores agrícolas permanentes e suas entidades patronais.
 
 2 - Mantêm-se em 8% e 20,5% das remunerações as taxas de contribuições devidas, respectivamente, pelos trabalhadores agrícolas não permanentes e suas entidades patronais abrangidas pelo regime geral.
 
-###### Art. 7.º-B. É fixada em 10% a taxa de contribuições dos pescadores da pesca artesanal.
+Art. 7.º-B. É fixada em 10% a taxa de contribuições dos pescadores da pesca artesanal.
 
-###### Art. 12.º-A - 1 - Para beneficiarem da redução da taxa referida no artigo anterior, as entidades contribuintes devem apresentar na instituição de segurança social que as abranja requerimento acompanhado de cópia autenticada do instrumento jurídico da sua constituição, dos estatutos ou de outro documento que, inequivocamente, comprove os fins não lucrativos que prosseguem.
+Art. 12.º-A - 1 - Para beneficiarem da redução da taxa referida no artigo anterior, as entidades contribuintes devem apresentar na instituição de segurança social que as abranja requerimento acompanhado de cópia autenticada do instrumento jurídico da sua constituição, dos estatutos ou de outro documento que, inequivocamente, comprove os fins não lucrativos que prosseguem.
 
 2 - A apresentação do requerimento a que se refere o número anterior determina a aplicação da taxa reduzida a partir do mês seguinte ao do requerimento, sem prejuízo do pagamento do valor da diferença entre aquela taxa e a taxa normal se se verificar o indeferimento do pedido.
 
 3 - Não são exigíveis juros de mora pelo valor da diferença das contribuições determinada pela aplicação da taxa normal, nos casos referidos na parte final do número anterior.
 
-###### Art. 13.º-A - 1 - O pessoal docente dos estabelecimentos de ensino particular ou cooperativo integrado no sistema nacional de educação fica sujeito à taxa de 8%.
+Art. 13.º-A - 1 - O pessoal docente dos estabelecimentos de ensino particular ou cooperativo integrado no sistema nacional de educação fica sujeito à taxa de 8%.
 
 2 - Para efeitos de aplicação do disposto no número anterior devem os estabelecimentos de ensino entregar conjuntamente com a primeira folha de remunerações, a apresentar ao abrigo do presente diploma, a prova de que se enquadram no sistema nacional de educação.
 
-###### Art. 18.º-A - 1 - As verbas relativas às contribuições sobre trabalho suplementar previstas no artigo 8.º do [Decreto-Lei n.º 421/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1983-443078), de 2 de Dezembro, passam a constituir receitas do orçamento da Segurança Social.
+Art. 18.º-A - 1 - As verbas relativas às contribuições sobre trabalho suplementar previstas no artigo 8.º do [Decreto-Lei n.º 421/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1983-443078), de 2 de Dezembro, passam a constituir receitas do orçamento da Segurança Social.
 
 2 - A prova da prestação de trabalho suplementar deve ser feita pelas entidades patronais através de relação dos trabalhadores a quem foram pagas horas extraordinárias, da qual constem o montante ilíquido pago por trabalho suplementar, o valor da hora normal de trabalho e o número de horas extraordinárias efectuadas.
 
@@ -201,18 +228,18 @@ n) Caixas de crédito agrícola mútuo.
 
 4 - Para todos os efeitos, a relação a que se referem os números anteriores é equiparada a folha de remunerações, devendo a mesma ser entregue mensalmente e no prazo referido no artigo 18.º deste diploma.
 
-###### Art. 18.º-B. O pagamento das contribuições a que se refere o artigo anterior deve ser feito mensalmente pelas entidades patronais no prazo fixado no artigo 18.º e através das guias em uso para a Segurança Social, nas quais deve ser aposta a menção «Contribuições provenientes de trabalho suplementar».
+Art. 18.º-B. O pagamento das contribuições a que se refere o artigo anterior deve ser feito mensalmente pelas entidades patronais no prazo fixado no artigo 18.º e através das guias em uso para a Segurança Social, nas quais deve ser aposta a menção «Contribuições provenientes de trabalho suplementar».
 
-###### Art. 19.º-A. A regulamentação das normas do presente diploma que se revelar necessária será feita por decreto regulamentar.
+Art. 19.º-A. A regulamentação das normas do presente diploma que se revelar necessária será feita por decreto regulamentar.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1986.**
+Referendado em 8 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

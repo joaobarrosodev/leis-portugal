@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14200/16691671.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1985-182226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04a6bf36074464f72de8822821f5e59b7dd0d0eaca10bf66b3df54e60537a86f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad0adad66efa445d423d57d05a7d1516bca1f0a6ebfac417225f8091c9f67202
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Emprego Protegido
+- Deficiente
+- Emprego Protegido
+- Política de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:491685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:308356:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:650133:por
+  label: Rectificado pela DECL.DD4983.29.07.1985.PCM, DR.IS [174]2ºSupl de 31.07.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-650133
+  date: '1985-07-29'
+- type: repealed_by
+  target: pt:dre:491685:por
+  label: "Revogado, a partir de 11.11.2009, o Dec Lei 40/83, de 25-Jan, na redacção do presente diploma, pelo DEC LEI.290/2009.12.10.2009.MTSSO,\
+    \ DR.IS [197] de 12.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-2009-491685
+  date: '2009-10-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:59Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +115,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Em todas as disposições do [Decreto-Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1983-308356), de 25 de Janeiro, onde se lê «deficiente(s)» ou «trabalhador(es) deficiente(s)» deve ler-se, respectivamente, «pessoa(s) deficiente(s)» e «trabalhador(es) em regime de emprego protegido».
+Artigo 1.º Em todas as disposições do [Decreto-Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1983-308356), de 25 de Janeiro, onde se lê «deficiente(s)» ou «trabalhador(es) deficiente(s)» deve ler-se, respectivamente, «pessoa(s) deficiente(s)» e «trabalhador(es) em regime de emprego protegido».
 
-###### Art. 2.º Os artigos 7.º, 8.º, 9.º, 19.º, 20.º, 21.º, 22.º, 23.º, 25.º, 26.º, 27.º, 28.º, 29.º e 30.º do [Decreto-Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1983-308356), de 25 de Janeiro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 7.º, 8.º, 9.º, 19.º, 20.º, 21.º, 22.º, 23.º, 25.º, 26.º, 27.º, 28.º, 29.º e 30.º do [Decreto-Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1983-308356), de 25 de Janeiro, passam a ter a seguinte redacção:
 
 ###### ARTIGO 7.º — (Estudos prévios)
 
@@ -194,16 +213,16 @@ b) Recusa injustificada em ocupar um posto de trabalho em regime de emprego norm
 
 2 - Da decisão prevista na alínea a) do número anterior cabe sempre recurso, com efeito suspensivo, para os respectivos órgãos de tutela.
 
-###### Art. 3.º É revogado o artigo 24.º do [Decreto-Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1983-308356), de 25 de Janeiro.
+Art. 3.º É revogado o artigo 24.º do [Decreto-Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1983-308356), de 25 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Amândio Anes de Azevedo.
 
-**Promulgado em 4 de Junho de 1985.**
+Promulgado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

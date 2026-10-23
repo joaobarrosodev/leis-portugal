@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1985-178351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f221619f4742af1c318bec6cc8560e4fe1c9fc87e93a0f9d563b2436f68a14cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9df117e7ba177df0a11e60dcb9c9aba1db9e0e207ad90bd7712780d9bc0fe8c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Administração Geral do Porto de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:26Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +121,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - Os subsídios vitalícios concedidos pela Administração-Geral do Porto de Lisboa e pela Administração dos Portos do Douro e Leixões, ao abrigo dos artigos 115.º e 83.º, respectivamente dos Decretos-Leis n.os 36976 e 36977, ambos de 20 de Julho de 1948, e do [Decreto-Lei n.º 42880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42880-1960-282495), de 21 de Março de 1960, serão automaticamente actualizados nos mesmos termos que as pensões de aposentação pagas pela Caixa Geral de Aposentações.
+Artigo único. - 1 - Os subsídios vitalícios concedidos pela Administração-Geral do Porto de Lisboa e pela Administração dos Portos do Douro e Leixões, ao abrigo dos artigos 115.º e 83.º, respectivamente dos Decretos-Leis n.os 36976 e 36977, ambos de 20 de Julho de 1948, e do [Decreto-Lei n.º 42880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42880-1960-282495), de 21 de Março de 1960, serão automaticamente actualizados nos mesmos termos que as pensões de aposentação pagas pela Caixa Geral de Aposentações.
 
 2 - Os subsídios de sobrevivência atribuídos ao abrigo do disposto, no [Decreto-Lei n.º 605/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1973-411667), de 13 de Novembro, serão automaticamente actualizados de acordo com as melhorias concedidas às pensões de sobrevivência pagas pelo Montepio dos Servidores do Estado.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - José de Almeida Serra.
 
-**Promulgado em 27 de Setembro de 1985.**
+Promulgado em 27 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Setembro de 1985.**
+Referendado em 30 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

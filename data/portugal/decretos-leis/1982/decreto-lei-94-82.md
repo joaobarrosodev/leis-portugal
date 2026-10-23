@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/07000/06580662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f0b279aaff0a6e9cbab365f9e9359189b504d753a3cc00ed4ffabcc185e1f48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37600e3b0cf1c186c3fec8429b3a07c397cd9b63e514c3324666a13a9f774428
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Pessoal Docente
+- Remuneração
+- Trabalhos Manuais
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307780:por
+  label: "Alterados os arts. 6º, 7º, 11º, 13º, 14º, 16º, 18º, 20º e 25º pelo DEC LEI.34/83.24.01.1983.ME, DR.IS [19] de 24.01.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1983-307780
+  date: '1983-01-24'
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:58Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +132,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Do direito à integração
 
-###### Artigo 1.º - 1 - A todos os professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário portadores de habilitação própria conferida por curso não superior e que se encontrem em exercício de funções docentes ou legalmente equiparadas, naquelas qualidades, à data da publicação do presente diploma é garantido o acesso ao 1.º escalão das categorias de vencimentos a que se refere o artigo 8.º do [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, nas condições definidas por este decreto-lei.
+Artigo 1.º - 1 - A todos os professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário portadores de habilitação própria conferida por curso não superior e que se encontrem em exercício de funções docentes ou legalmente equiparadas, naquelas qualidades, à data da publicação do presente diploma é garantido o acesso ao 1.º escalão das categorias de vencimentos a que se refere o artigo 8.º do [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, nas condições definidas por este decreto-lei.
 
 2 - Consideram-se abrangidos pelo disposto no número anterior os candidatos que vierem a ingressar na docência da disciplina de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário no ano escolar de 1982-1983, através das 1.ª e 2.ª fases do concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, e ainda os candidatos colocados no ano escolar de 1982-1983 abrangidos pela alínea b) do n.º 1 do artigo 24.º do mencionado [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
@@ -109,7 +140,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - São abrangidos pelo disposto neste artigo os professores de Trabalhos Manuais e os professores do 12.º grupo do ensino particular e cooperativo que se encontrem na situação definida no n.º 1 ou que venham a iniciar o exercício de funções docentes neste ensino no ano escolar de 1982-1983 até ao prazo limite da colocação dos docentes abrangidos pela alínea b) do n.º 1 do artigo 24.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), uns e outros portadores de habilitação própria, considerando-se, para efeito de acesso, o que se encontrar estabelecido na convenção colectiva de trabalho aplicável.
 
-###### Art. 2.º - 1 - Sem prejuízo do disposto nos artigos 16.º e 21.º do presente diploma, o acesso ao 1.º escalão das categorias de vencimentos por parte dos professores referidos no artigo anterior depende da frequência com aproveitamento de um curso de completamento de formação.
+Art. 2.º - 1 - Sem prejuízo do disposto nos artigos 16.º e 21.º do presente diploma, o acesso ao 1.º escalão das categorias de vencimentos por parte dos professores referidos no artigo anterior depende da frequência com aproveitamento de um curso de completamento de formação.
 
 2 - A integração no 1.º escalão de vencimentos dos professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário que venham a satisfazer as condições referidas nos números anteriores só produz efeitos a partir da data em que preencherem as condições referidas no n.º 1 deste artigo.
 
@@ -121,19 +152,19 @@ b) Relativamente aos docentes não profissionalizados, com a graduação na doc�
 
 ### CAPÍTULO II — Da orgânica dos cursos
 
-###### Art. 3.º Os cursos de completamento de formação referidos no n.º 1 do artigo anterior serão organizados em modalidades correspondentes aos diversos subgrupos da docência do 12.º grupo e, ainda, da disciplina de Trabalhos Manuais.
+Art. 3.º Os cursos de completamento de formação referidos no n.º 1 do artigo anterior serão organizados em modalidades correspondentes aos diversos subgrupos da docência do 12.º grupo e, ainda, da disciplina de Trabalhos Manuais.
 
-###### Art. 4.º - 1 - Para efeitos do estabelecido no artigo anterior, cada um dos cursos integra uma componente de formação psicopedagógica e uma componente de formação científica geral.
+Art. 4.º - 1 - Para efeitos do estabelecido no artigo anterior, cada um dos cursos integra uma componente de formação psicopedagógica e uma componente de formação científica geral.
 
 2 - A componente de formação psicopedagógica será idêntica para todos os cursos de formação e abrange o tratamento das disciplinas ou das áreas de conhecimento constantes do quadro anexo ao presente diploma.
 
 3 - A componente de formação científica diversificar-se-á para cada curso e, em cada caso, abrange o tratamento das disciplinas ou áreas de conhecimento constantes do quadro anexo a este decreto-lei.
 
-###### Art. 5.º - 1 - Os professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário já profissionalizados à data da inscrição no respectivo curso de completamento de formação poderão ser dispensados da componente de formação psicopedagógica, desde que o requeiram ao Ministro da Educação e das Universidades no prazo estabelecido para aquela inscrição.
+Art. 5.º - 1 - Os professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário já profissionalizados à data da inscrição no respectivo curso de completamento de formação poderão ser dispensados da componente de formação psicopedagógica, desde que o requeiram ao Ministro da Educação e das Universidades no prazo estabelecido para aquela inscrição.
 
 2 - O disposto no número anterior é aplicável aos docentes que à data da publicação do presente diploma se encontrem a realizar a profissionalização em exercício ao abrigo do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro, bem como aos que iniciarem aquela profissionalização em 1 de Outubro de 1982.
 
-###### Art. 6.º - 1 - Os cursos são organizados pelo Ministério da Educação e das Universidades, e, em cada caso, a sua estrutura compreende:
+Art. 6.º - 1 - Os cursos são organizados pelo Ministério da Educação e das Universidades, e, em cada caso, a sua estrutura compreende:
 
 a) A produção e remessa de documentação escrita;
 
@@ -145,13 +176,13 @@ d) A montagem de um sistema de controle e recepção e exploração da documenta
 
 2 - Para efeitos do disposto na alínea b) do número anterior, o Ministério da Educação e das Universidades firmará, através do Instituto de Tecnologia Educativa, os necessários contratos com as respectivas empresas públicas.
 
-###### Art. 7.º - 1 - Os programas das disciplinas ou áreas de conhecimento previstos no artigo 4.º do presente diploma serão aprovados por portaria do Ministro da Educação e das Universidades.
+Art. 7.º - 1 - Os programas das disciplinas ou áreas de conhecimento previstos no artigo 4.º do presente diploma serão aprovados por portaria do Ministro da Educação e das Universidades.
 
 2 - Compete às direcções-gerais de ensino respectivas assegurar a elaboração dos programas referidos no número anterior.
 
 ### CAPÍTULO III — Da realização dos cursos
 
-###### Art. 8.º - 1 - Os cursos criados pelo presente diploma realizar-se-ão em fases diferenciadas.
+Art. 8.º - 1 - Os cursos criados pelo presente diploma realizar-se-ão em fases diferenciadas.
 
 2 - A 1.ª fase é destinada aos professores já profissionalizados à data da respectiva inscrição.
 
@@ -161,15 +192,15 @@ d) A montagem de um sistema de controle e recepção e exploração da documenta
 
 5 - A programação de cada curso e o respectivo calendário de desenvolvimento relativamente a cada fase constarão de despacho do Ministro da Educação e das Universidades, devendo para o efeito ser solicitada a participação dos sindicatos dos professores.
 
-###### Art. 9.º Os docentes referidos no n.º 2 do artigo 5.º deste decreto-lei frequentarão o curso de completamento de formação após a conclusão da profissionalização em exercício.
+Art. 9.º Os docentes referidos no n.º 2 do artigo 5.º deste decreto-lei frequentarão o curso de completamento de formação após a conclusão da profissionalização em exercício.
 
-###### Art. 10.º - 1 - Consideram-se abrangidos pela 2.ª fase prevista no n.º 3 do artigo 8.º do presente diploma os candidatos que vierem a ingressar na docência da disciplina de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário no ano escolar de 1982-1983, através do concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro.
+Art. 10.º - 1 - Consideram-se abrangidos pela 2.ª fase prevista no n.º 3 do artigo 8.º do presente diploma os candidatos que vierem a ingressar na docência da disciplina de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário no ano escolar de 1982-1983, através do concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro.
 
 2 - O disposto no número anterior só é aplicável aos docentes portadores de habilitação própria à data de abertura do concurso referente ao ano escolar de 1982-1983.
 
 ### CAPÍTULO IV — Do aproveitamento nos cursos
 
-###### Art. 11.º - 1 - O aproveitamento individual em cada curso será expresso em termos de aprovação ou não aprovação.
+Art. 11.º - 1 - O aproveitamento individual em cada curso será expresso em termos de aprovação ou não aprovação.
 
 2 - O esquema de avaliação do aproveitamento compreenderá:
 
@@ -181,43 +212,43 @@ c) Apresentação e discussão de um tema de base disciplinar ou interdisciplina
 
 3 - Para os candidatos que não frequentem a componente de formação psicopedagógica, o tema referido na alínea c) do número anterior será escolhido de entre 3 temas propostos da componente de formação científica.
 
-###### Art. 12.º O esquema de avaliação dos cursos referidos nos artigos anteriores será objecto de regulamento a estabelecer por despacho do Ministro da Educação e das Universidades, devendo para o efeito ser solicitada a participação dos sindicatos do professores.
+Art. 12.º O esquema de avaliação dos cursos referidos nos artigos anteriores será objecto de regulamento a estabelecer por despacho do Ministro da Educação e das Universidades, devendo para o efeito ser solicitada a participação dos sindicatos do professores.
 
-###### Art. 13.º - 1 - A avaliação a que se refere o n.º 2 do artigo 11.º compete a júris constituídos por despacho do Ministro da Educação e das Universidades, os quais ponderarão os diferentes factores nos termos do regulamento previsto no artigo anterior.
+Art. 13.º - 1 - A avaliação a que se refere o n.º 2 do artigo 11.º compete a júris constituídos por despacho do Ministro da Educação e das Universidades, os quais ponderarão os diferentes factores nos termos do regulamento previsto no artigo anterior.
 
 2 - Cada um dos júris previstos será constituído por 1 professor do ensino superior, que presidirá, e por 2 professores do ensino preparatório ou do ensino secundário.
 
 3 - Da deliberação dos júris não cabe recurso hierárquico, salvo por vício de forma.
 
-###### Art. 14.º - 1 - Os júris afixarão nos locais de estilo, no prazo máximo de 24 horas, contado a partir do termo das provas, o resultado das suas deliberações.
+Art. 14.º - 1 - Os júris afixarão nos locais de estilo, no prazo máximo de 24 horas, contado a partir do termo das provas, o resultado das suas deliberações.
 
 2 - As deliberações dos júris serão exaradas em livro próprio, que após a sua utilização ficará à guarda da Inspecção-Geral de Ensino.
 
 3 - Das deliberações constantes do livro referido no número anterior poderão ser extraídas certidões, a passar nos termos legais em vigor.
 
-###### Art. 15.º - 1 - Os candidatos que não obtiverem aprovação nos termos do regulamento a que se refere o artigo 12.º deste diploma poderão requerer, apenas por mais uma vez, nova prestação da prova prevista na alínea c) do n.º 2 do artigo 11.º, decorridos que sejam, pelo menos, 3 meses após a prestação anterior da mesma prova.
+Art. 15.º - 1 - Os candidatos que não obtiverem aprovação nos termos do regulamento a que se refere o artigo 12.º deste diploma poderão requerer, apenas por mais uma vez, nova prestação da prova prevista na alínea c) do n.º 2 do artigo 11.º, decorridos que sejam, pelo menos, 3 meses após a prestação anterior da mesma prova.
 
 2 - Aos candidatos não aprovados na segunda prova referida no número anterior é facultada a frequência de novo curso.
 
 ### CAPÍTULO V — Da integração antecipada
 
-###### Art. 16.º Aos professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário já profissionalizados à data da publicação do presente diploma ou que se venham a profissionalizar nos termos do n.º 2 do artigo 5.º é facultada a possibilidade de antecipar a apresentação e discussão do tema referido na alínea c) do n.º 2 do artigo 11.º, nas condições estabelecidas no artigo seguinte.
+Art. 16.º Aos professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário já profissionalizados à data da publicação do presente diploma ou que se venham a profissionalizar nos termos do n.º 2 do artigo 5.º é facultada a possibilidade de antecipar a apresentação e discussão do tema referido na alínea c) do n.º 2 do artigo 11.º, nas condições estabelecidas no artigo seguinte.
 
-###### Art. 17.º - 1 - A antecipação prevista no artigo anterior depende de os respectivos interessados atingirem a graduação profissional igual ou superior a 22 valores.
+Art. 17.º - 1 - A antecipação prevista no artigo anterior depende de os respectivos interessados atingirem a graduação profissional igual ou superior a 22 valores.
 
 2 - A aprovação na prova antecipada prevista neste artigo determina, desde a data da afixação do respectivo resultado nos termos do artigo 14.º, o ingresso do professor no 1.º escalão de vencimentos referido no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400).
 
 3 - Para efeitos do disposto no n.º 1, a graduação profissional será determinada nos termos do artigo 37.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
-###### Art. 18.º - 1 - Para efeitos do disposto nos artigos 16.º e 17.º, os interessados requererão ao Ministro da Educação e das Universidades a antecipação da apresentação e discussão do tema, nos 30 dias subsequentes à divulgação dos conteúdos programáticos das disciplinas ou áreas de conhecimento da componente de formação científica.
+Art. 18.º - 1 - Para efeitos do disposto nos artigos 16.º e 17.º, os interessados requererão ao Ministro da Educação e das Universidades a antecipação da apresentação e discussão do tema, nos 30 dias subsequentes à divulgação dos conteúdos programáticos das disciplinas ou áreas de conhecimento da componente de formação científica.
 
 2 - Relativamente aos docentes referidos no n.º 2 do artigo 5.º, o prazo de 30 dias contar-se-á a partir de 1 de Julho, inclusive, do ano lectivo em que terminarem a respectiva profissionalização.
 
-###### Art. 19.º - 1 - O requerimento referido no artigo anterior, dirigido ao Ministro da Educação e das Universidades, acompanhado da documentação comprovativa, nomeadamente no que se refere à graduação profissional por parte do requerente, será apresentado na respectiva direcção-geral de ensino, a fim de esta organizar o respectivo processo.
+Art. 19.º - 1 - O requerimento referido no artigo anterior, dirigido ao Ministro da Educação e das Universidades, acompanhado da documentação comprovativa, nomeadamente no que se refere à graduação profissional por parte do requerente, será apresentado na respectiva direcção-geral de ensino, a fim de esta organizar o respectivo processo.
 
 2 - O processo referido no número anterior será apresentado, para efeitos de despacho, ao Ministro da Educação e das Universidades.
 
-###### Art. 20.º - 1 - Os professores que requeiram a antecipação prevista no artigo 16.º serão chamados a prestar a respectiva prova por ordem decrescente da sua graduação profissional e de acordo com as possibilidades dos júris constituídos, decorridos, pelo menos, 60 dias após a apresentação do requerimento previsto no artigo anterior.
+Art. 20.º - 1 - Os professores que requeiram a antecipação prevista no artigo 16.º serão chamados a prestar a respectiva prova por ordem decrescente da sua graduação profissional e de acordo com as possibilidades dos júris constituídos, decorridos, pelo menos, 60 dias após a apresentação do requerimento previsto no artigo anterior.
 
 2 - A apresentação do requerimento previsto no artigo 19.º não prejudica a inscrição nos cursos de completamento de formação.
 
@@ -225,7 +256,7 @@ c) Apresentação e discussão de um tema de base disciplinar ou interdisciplina
 
 ### CAPÍTULO VI — Da integração automática
 
-###### Art. 21.º - 1 - Os professores do 12.º grupo do ensino secundário portadores de curso superior considerado como habilitação própria para o mesmo grupo mantêm-se, independentemente de quaisquer formalidades, no 1.º escalão de vencimentos referido no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400).
+Art. 21.º - 1 - Os professores do 12.º grupo do ensino secundário portadores de curso superior considerado como habilitação própria para o mesmo grupo mantêm-se, independentemente de quaisquer formalidades, no 1.º escalão de vencimentos referido no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400).
 
 2 - Os actuais professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário, bem como os que vierem a ingressar na docência daquela disciplina e grupo no ano escolar de 1982-1983 ao abrigo do concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), uns e outros portadores de curso superior e titulares de habilitação própria para a docência, respectivamente, de Trabalhos Manuais e do 12.º grupo, têm igualmente direito ao acesso ao 1.º escalão de vencimentos referido no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400).
 
@@ -235,7 +266,7 @@ c) Apresentação e discussão de um tema de base disciplinar ou interdisciplina
 
 ### CAPÍTULO VII — Das habilitações próprias
 
-###### Art. 22.º - 1 - Por despacho normativo conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, a publicar no Diário da República no prazo de 60 dias, contado a partir da publicação do presente diploma, serão revistas as habilitações próprias para o ingresso na docência da disciplina de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário.
+Art. 22.º - 1 - Por despacho normativo conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, a publicar no Diário da República no prazo de 60 dias, contado a partir da publicação do presente diploma, serão revistas as habilitações próprias para o ingresso na docência da disciplina de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário.
 
 2 - A revisão prevista no número anterior só poderá considerar habilitações conferidas por um curso superior.
 
@@ -243,17 +274,17 @@ c) Apresentação e discussão de um tema de base disciplinar ou interdisciplina
 
 ### CAPÍTULO VIII — Das disposições gerais e transitórias
 
-###### Art. 23.º Enquanto não obtiverem as condições estabelecidas no presente diploma para efeitos de acesso ao 1.º escalão de vencimentos, os professores de Trabalhos Manuais do ensino preparatório e os professores do 12.º grupo do ensino secundário mantêm-se no escalão de vencimentos que lhes foi atribuído pelo [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400).
+Art. 23.º Enquanto não obtiverem as condições estabelecidas no presente diploma para efeitos de acesso ao 1.º escalão de vencimentos, os professores de Trabalhos Manuais do ensino preparatório e os professores do 12.º grupo do ensino secundário mantêm-se no escalão de vencimentos que lhes foi atribuído pelo [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400).
 
-###### Art. 24.º - 1 - O acesso ao 1.º escalão de vencimentos por parte dos professores referidos no artigo anterior far-se-á na fase que já possuíam à data do referido acesso, tendo, porém, em consideração a limitação estabelecida pelo artigo 11.º do [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400).
+Art. 24.º - 1 - O acesso ao 1.º escalão de vencimentos por parte dos professores referidos no artigo anterior far-se-á na fase que já possuíam à data do referido acesso, tendo, porém, em consideração a limitação estabelecida pelo artigo 11.º do [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400).
 
 2 - Para efeitos de acesso às fases do 1.º escalão de vencimentos é contado, nos termos da legislação em vigor, todo o tempo de serviço anteriormente prestado.
 
-###### Art. 25.º - 1 - A 1.ª fase do curso de completamento de formação terá início em 1 de Outubro de 1982.
+Art. 25.º - 1 - A 1.ª fase do curso de completamento de formação terá início em 1 de Outubro de 1982.
 
 2 - A 2.ª fase do curso de completamento de formação terá início em 1 de Outubro de 1983.
 
-###### Art. 26.º Por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Educação e das Universidades serão estabelecidas as remunerações a atribuir:
+Art. 26.º Por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Educação e das Universidades serão estabelecidas as remunerações a atribuir:
 
 a) Às entidades encarregadas de elaborar os conteúdos programáticos das disciplinas ou áreas de conhecimento;
 
@@ -261,24 +292,24 @@ b) Aos orientadores dos seminários presenciais, bem como às entidades encarreg
 
 c) Aos membros do júri previsto na alínea c) do n.º 2 do artigo 11.º do presente diploma.
 
-###### Art. 27.º Os encargos orçamentais resultantes da aplicação do presente diploma serão suportados:
+Art. 27.º Os encargos orçamentais resultantes da aplicação do presente diploma serão suportados:
 
 a) No que se refere ao aumento de vencimentos pelo acesso ao 1.º escalão, pelas respectivas rubricas dos orçamentos dos estabelecimentos dos ensinos preparatório e secundário;
 
 b) No que se refere às remunerações previstas no artigo anterior, pelo orçamento das respectivas direcções-gerais de ensino.
 
-###### Art. 28.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
+Art. 28.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 11 de Março de 1982.**
+Promulgado em 11 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO I
 
 Organização dos cursos de complemento de formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07000/06580662.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07000/06580662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07000/06580662.pdf)

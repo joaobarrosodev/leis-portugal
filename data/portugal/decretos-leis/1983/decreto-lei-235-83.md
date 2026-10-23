@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1983-451672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 224b5058641f65861deda63d54b9f8f3798db7f9871172dddbefefad1adce249
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cac377abcb07997cefc8260e08a1147ab066802b842625be818b9e65166afca9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ponte
+- Prédio Urbano
+- Regulamento de Segurança e Acções para Estruturas de Edifícios e Pontes
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:123279819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:356157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:673785:por
+  label: Rectificado pela DECL.DD6547.04.08.1983.PCM, DR.IS [200-Supl] de 31.08.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-673785
+  date: '1983-08-04'
+- type: repealed_by
+  target: pt:dre:123279819:por
+  label: Revogado, a partir de 15.11.2019, o Regulamento de Segurança e Ações para Estruturas de Edifícios e Pontes, no que
+    diz respeito à aplicação a estruturas para edifícios aprovado pelo presente diploma, pelo(a) Decreto-Lei n.º 95/2019 -
+    Diário da República n.º 136/2019, Série I de 2019-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2019-123279819
+  date: '2019-07-18'
 article_structure:
-  article_count: 119
+  article_count: 0
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:21Z'
   warnings: []
   errors: []
 ---
@@ -102,31 +126,31 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Segurança e Acções para Estruturas de Edifícios e Pontes, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento de Segurança e Acções para Estruturas de Edifícios e Pontes, que faz parte integrante do presente diploma.
 
-###### Art. 2.º Para as estruturas abrangidas pelo Regulamento de Estruturas de Aço para Edifícios, aprovado pelo Decreto-Lei n.º 46160, de 19 de Janeiro de 1965, a aplicação do Regulamento aprovado pelo presente diploma fica dependente da remodelação daquele Regulamento.
+Art. 2.º Para as estruturas abrangidas pelo Regulamento de Estruturas de Aço para Edifícios, aprovado pelo Decreto-Lei n.º 46160, de 19 de Janeiro de 1965, a aplicação do Regulamento aprovado pelo presente diploma fica dependente da remodelação daquele Regulamento.
 
-###### Art. 3.º - 1 - São revogados o Regulamento de Solicitações em Edifícios e Pontes, aprovado pelo Decreto-Lei n.º 44041, de 18 de Novembro de 1961, e a [Portaria n.º 713/71](https://diariodarepublica.pt/dr/detalhe/portaria/713-1971-632240), de 23 de Dezembro.
+Art. 3.º - 1 - São revogados o Regulamento de Solicitações em Edifícios e Pontes, aprovado pelo Decreto-Lei n.º 44041, de 18 de Novembro de 1961, e a [Portaria n.º 713/71](https://diariodarepublica.pt/dr/detalhe/portaria/713-1971-632240), de 23 de Dezembro.
 
 2 - Esta revogação não tem efeitos imediatos relativamente às estruturas referidas no artigo 2.º, devendo as condições da sua aplicação a esses casos ser fixadas no diploma que aprovar a remodelação do correspondente Regulamento.
 
-###### Art. 4.º Ficam revogados os artigos ainda vigentes do Regulamento de Pontes Metálicas, aprovado pelo [Decreto n.º 16781](https://diariodarepublica.pt/dr/detalhe/decreto/16781-1929-356157), de 10 de Abril de 1929, com as rectificações de 10 de Setembro de 1929, as alterações constantes dos Decretos n.º 19998, de 3 de Julho de 1931, e n.º 22952, de 7 de Agosto de 1933, e as rectificações de 26 de Setembro de 1933.
+Art. 4.º Ficam revogados os artigos ainda vigentes do Regulamento de Pontes Metálicas, aprovado pelo [Decreto n.º 16781](https://diariodarepublica.pt/dr/detalhe/decreto/16781-1929-356157), de 10 de Abril de 1929, com as rectificações de 10 de Setembro de 1929, as alterações constantes dos Decretos n.º 19998, de 3 de Julho de 1931, e n.º 22952, de 7 de Agosto de 1933, e as rectificações de 26 de Setembro de 1933.
 
-###### Art. 5.º - 1 - Para as estruturas não abrangidas pelo disposto no artigo 2.º, admite-se que, durante o prazo de 2 anos, a contar da data de publicação do presente diploma, possam ser submetidos à aprovação das entidades competentes projectos elaborados de acordo com a legislação revogada pelo n.º 1 do artigo 3.º
+Art. 5.º - 1 - Para as estruturas não abrangidas pelo disposto no artigo 2.º, admite-se que, durante o prazo de 2 anos, a contar da data de publicação do presente diploma, possam ser submetidos à aprovação das entidades competentes projectos elaborados de acordo com a legislação revogada pelo n.º 1 do artigo 3.º
 
 2 - O Regulamento aprovado pelo presente diploma entra em vigor seis meses após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão
 
 MEMÓRIA JUSTIFICATIVA
 
@@ -184,31 +208,31 @@ Critérios gerais de segurança
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - Objecto e campo de aplicação.
+Artigo 1.º - Objecto e campo de aplicação.
 
-###### Artigo 2.º - Simbologia e unidades.
+Artigo 2.º - Simbologia e unidades.
 
-###### Artigo 3.º - Critérios gerais de verificação da segurança.
+Artigo 3.º - Critérios gerais de verificação da segurança.
 
-###### Artigo 4.º - Estados limites.
+Artigo 4.º - Estados limites.
 
-###### Artigo 5.º - Classificação das acções.
+Artigo 5.º - Classificação das acções.
 
-###### Artigo 6.º - Critérios de quantificação das acções.
+Artigo 6.º - Critérios de quantificação das acções.
 
-###### Artigo 7.º - Critérios de combinação das acções.
+Artigo 7.º - Critérios de combinação das acções.
 
 ### CAPÍTULO II — Verificação da segurança
 
-###### Artigo 8.º - Generalidades.
+Artigo 8.º - Generalidades.
 
-###### Artigo 9.º - Verificação da segurança em relação aos estados limites últimos que não envolvam perda de equilíbrio ou fadiga.
+Artigo 9.º - Verificação da segurança em relação aos estados limites últimos que não envolvam perda de equilíbrio ou fadiga.
 
-###### Artigo 10.º - Verificação da segurança em relação aos estados limites últimos de equilíbrio.
+Artigo 10.º - Verificação da segurança em relação aos estados limites últimos de equilíbrio.
 
-###### Artigo 11.º - Verificação da segurança em relação aos estados limites últimos de fadiga.
+Artigo 11.º - Verificação da segurança em relação aos estados limites últimos de fadiga.
 
-###### Artigo 12.º - Verificação da segurança em relação aos estados limites de utilização.
+Artigo 12.º - Verificação da segurança em relação aos estados limites de utilização.
 
 SEGUNDA PARTE
 
@@ -216,123 +240,123 @@ Quantificação das acções
 
 ### CAPÍTULO III — Acções permanentes
 
-###### Artigo 13.º - Generalidades.
+Artigo 13.º - Generalidades.
 
-###### Artigo 14.º - Pesos volúmicos dos materiais.
+Artigo 14.º - Pesos volúmicos dos materiais.
 
-###### Artigo 15.º - Pesos de paredes divisórias em edifícios.
+Artigo 15.º - Pesos de paredes divisórias em edifícios.
 
-###### Artigo 16.º - Impulsos de terras e assentamentos de apoios.
+Artigo 16.º - Impulsos de terras e assentamentos de apoios.
 
 ### CAPÍTULO IV — Acção das variações de temperatura
 
-###### Artigo 17.º - Generalidades.
+Artigo 17.º - Generalidades.
 
-###### Artigo 18.º - Variações uniformes de temperatura.
+Artigo 18.º - Variações uniformes de temperatura.
 
-###### Artigo 19.º - Variações diferenciais de temperatura.
+Artigo 19.º - Variações diferenciais de temperatura.
 
 ### CAPÍTULO V — Acção do vento
 
-###### Artigo 20.º - Zonamento do território.
+Artigo 20.º - Zonamento do território.
 
-###### Artigo 21.º - Rugosidade aerodinâmica do solo.
+Artigo 21.º - Rugosidade aerodinâmica do solo.
 
-###### Artigo 22.º - Quantificação da acção do vento.
+Artigo 22.º - Quantificação da acção do vento.
 
-###### Artigo 23.º - Determinação dos efeitos da acção do vento.
+Artigo 23.º - Determinação dos efeitos da acção do vento.
 
-###### Artigo 24.º - Pressão dinâmica do vento.
+Artigo 24.º - Pressão dinâmica do vento.
 
-###### Artigo 25.º - Coeficientes de forma.
+Artigo 25.º - Coeficientes de forma.
 
 ### CAPÍTULO VI — Acção da neve
 
-###### Artigo 26.º - Zonamento do território.
+Artigo 26.º - Zonamento do território.
 
-###### Artigo 27.º - Quantificação da acção da neve.
+Artigo 27.º - Quantificação da acção da neve.
 
 ### CAPÍTULO VII — Acção dos sismos
 
-###### Artigo 28.º - Zonamento do território.
+Artigo 28.º - Zonamento do território.
 
-###### Artigo 29.º - Quantificação da acção dos sismos.
+Artigo 29.º - Quantificação da acção dos sismos.
 
-###### Artigo 30.º - Determinação dos efeitos da acção dos sismos.
+Artigo 30.º - Determinação dos efeitos da acção dos sismos.
 
-###### Artigo 31.º - Coeficientes sísmicos.
+Artigo 31.º - Coeficientes sísmicos.
 
-###### Artigo 32.º - Valores e distribuição das forças estáticas.
+Artigo 32.º - Valores e distribuição das forças estáticas.
 
 ### CAPÍTULO VIII — Acções específicas de edifícios
 
-###### Artigo 33.º - Generalidades.
+Artigo 33.º - Generalidades.
 
-###### Artigo 34.º - Sobrecargas em coberturas.
+Artigo 34.º - Sobrecargas em coberturas.
 
-###### Artigo 35.º - Sobrecargas em pavimentos.
+Artigo 35.º - Sobrecargas em pavimentos.
 
-###### Artigo 36.º - Sobrecargas em varandas.
+Artigo 36.º - Sobrecargas em varandas.
 
-###### Artigo 37.º - Sobrecargas em acessos.
+Artigo 37.º - Sobrecargas em acessos.
 
-###### Artigo 38.º - Efeitos dinâmicos das sobrecargas.
+Artigo 38.º - Efeitos dinâmicos das sobrecargas.
 
-###### Artigo 39.º - Acções em guardas e parapeitos.
+Artigo 39.º - Acções em guardas e parapeitos.
 
 ### CAPÍTULO IX — Acções específicas de pontes rodoviárias
 
-###### Artigo 40.º - Generalidades.
+Artigo 40.º - Generalidades.
 
-###### Artigo 41.º - Sobrecargas.
+Artigo 41.º - Sobrecargas.
 
-###### Artigo 42.º - Força centrífuga.
+Artigo 42.º - Força centrífuga.
 
-###### Artigo 43.º - Força de frenagem.
+Artigo 43.º - Força de frenagem.
 
-###### Artigo 44.º - Acções em passeios, guardas e guarda-rodas.
+Artigo 44.º - Acções em passeios, guardas e guarda-rodas.
 
-###### Artigo 45.º - Acção do vento sobre os veículos.
+Artigo 45.º - Acção do vento sobre os veículos.
 
 ### CAPÍTULO X — Acções específicas de passadiços
 
-###### Artigo 46.º - Generalidades.
+Artigo 46.º - Generalidades.
 
-###### Artigo 47.º - Sobrecargas.
+Artigo 47.º - Sobrecargas.
 
-###### Artigo 48.º - Acções em guardas.
+Artigo 48.º - Acções em guardas.
 
 ### CAPÍTULO XI — Acções específicas de pontes ferroviárias
 
-###### Artigo 49.º - Generalidades.
+Artigo 49.º - Generalidades.
 
-###### Artigo 50.º - Sobrecargas.
+Artigo 50.º - Sobrecargas.
 
-###### Artigo 51.º - Coeficiente dinâmico.
+Artigo 51.º - Coeficiente dinâmico.
 
-###### Artigo 52.º - Força centrífuga.
+Artigo 52.º - Força centrífuga.
 
-###### Artigo 53.º - Força de lacete.
+Artigo 53.º - Força de lacete.
 
-###### Artigo 54.º - Forças de arranque e de frenagem.
+Artigo 54.º - Forças de arranque e de frenagem.
 
-###### Artigo 55.º - Acções em passeios e guardas.
+Artigo 55.º - Acções em passeios e guardas.
 
-###### Artigo 56.º - Acção do vento sobre o material circulante.
+Artigo 56.º - Acção do vento sobre o material circulante.
 
 ### CAPÍTULO XII — Outras acções
 
-###### Artigo 57.º - Acções dependentes dos materiais constituintes das estruturas.
+Artigo 57.º - Acções dependentes dos materiais constituintes das estruturas.
 
-###### Artigo 58.º - Pressões hidrostáticas.
+Artigo 58.º - Pressões hidrostáticas.
 
-###### Artigo 59.º - Acções inerentes ao funcionamento de dispositivos de apoio.
+Artigo 59.º - Acções inerentes ao funcionamento de dispositivos de apoio.
 
-## ANEXO I - Elementos para a quantificação da acção do vento.
+ANEXO I - Elementos para a quantificação da acção do vento.
 
-## ANEXO II - Elementos para a quantificação da acção da neve.
+ANEXO II - Elementos para a quantificação da acção da neve.
 
-## ANEXO III - Elementos para a quantificação da acção dos sismos.
+ANEXO III - Elementos para a quantificação da acção dos sismos.
 
 PRIMEIRA PARTE
 
@@ -340,13 +364,13 @@ Critérios gerais de segurança
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - Objecto e campo de aplicação
+Artigo 1.º - Objecto e campo de aplicação
 
 O presente Regulamento tem por objecto o estabelecimento das regras gerais para a verificação da segurança das estruturas de edifícios e de pontes, e a definição e quantificação das acções a considerar nessa verificação.
 
 Os critérios de verificação de segurança e de quantificação das acções constantes deste Regulamento, embora dirigidos fundamentalmente ao dimensionamento das estruturas de edifícios e de pontes, podem também ser aplicados a outros tipos de construções, quer directamente quer com os ajustamentos convenientes.
 
-###### Artigo 2.º - Simbologia e unidades
+Artigo 2.º - Simbologia e unidades
 
 A simbologia adoptada no presente Regulamento e as unidades em que são expressas as diversas grandezas respeitam as directivas internacionalmente estabelecidas neste domínio, devendo tais directivas ser também seguidas nos regulamentos relativos aos diferentes tipos de estruturas e de materiais.
 
@@ -368,11 +392,11 @@ Quilonewton por metro cúbico ... kN/m3
 
 Convém recordar ainda que o quilonewton é equivalente a 102 kgf.
 
-###### Artigo 3.º - Critérios gerais de verificação da segurança.
+Artigo 3.º - Critérios gerais de verificação da segurança.
 
 A verificação da segurança das estruturas deve ser efectuada em relação a determinados estados limites, comparando com esses estados limites os estados a que a estrutura é conduzida pela actuação das acções a que está sujeita, quantificadas e combinadas de acordo com determinadas regras.
 
-###### Artigo 4.º - Estados limites
+Artigo 4.º - Estados limites
 
 4.1 - Entende-se por estado limite um estado a partir do qual se considera que a estrutura fica prejudicada total ou parcialmente na sua capacidade para desempenhar as funções que lhe são atribuídas.
 
@@ -398,7 +422,7 @@ Note-se que os estados limites em relação aos quais há que fazer verificaçã
 
 Observe-se, finalmente, que por período de vida da estrutura se entende um intervalo de tempo de referência em relação ao qual são estabelecidas as condições de segurança e quantificados os valores das acções.
 
-###### Artigo 5.º - Classificação das acções
+Artigo 5.º - Classificação das acções
 
 5.1 - Para servir de base à sua quantificação e às regras da sua combinação, as acções são classificadas em acções permanentes, acções variáveis e acções de acidente.
 
@@ -414,7 +438,7 @@ Consideram-se como acções variáveis as sobrecargas (e efeitos dinâmicos dela
 
 Consideram-se como acções de acidente as que resultam de causas tais como explosões, choques de veículos e incêndios.
 
-###### Artigo 6.º - Critérios de quantificação das acções
+Artigo 6.º - Critérios de quantificação das acções
 
 6.1 - As acções são em geral quantificadas por valores característicos e, no caso das acções variáveis, também por valores reduzidos; em alguns casos, utilizam-se ainda valores médios.
 
@@ -452,7 +476,7 @@ Para a verificação da segurança em relação aos estados limites de utilizaç
 
 Observe-se finalmente que, no caso de acções permanentes, por estas serem constantes no tempo, não há, obviamente, que considerar valores reduzidos.
 
-###### Artigo 7.º - Critérios de combinação das acções
+Artigo 7.º - Critérios de combinação das acções
 
 7.1 - Para a verificação da segurança em relação aos diferentes estados limites devem ser consideradas as combinações das acções cuja actuação simultânea seja verosímil e que produzam na estrutura os efeitos mais desfavoráveis.
 
@@ -482,7 +506,7 @@ A formulação destas combinações deve respeitar as regras indicadas no artigo
 
 ### CAPÍTULO II — Verificação da segurança
 
-###### Artigo 8.º - Generalidades
+Artigo 8.º - Generalidades
 
 8.1 - A verificação da segurança de acordo com os critérios gerais referidos no artigo 3.º pode ser feita:
 
@@ -508,7 +532,7 @@ Convém chamar a atenção para que a verificação da segurança se deve report
 
 Observe-se, finalmente, que só haverá em geral que considerar as combinações acidentais quando a probabilidade de ocorrência da acção de acidente não for de todo desprezável ou quando não tenham sido adoptadas, ao nível da concepção da estrutura, medidas tendentes a minimizar ou mesmo anular os seus efeitos.
 
-###### Artigo 9.º - Verificação da segurança em relação aos estados limites últimos que não envolvam perda de equilíbrio ou fadiga
+Artigo 9.º - Verificação da segurança em relação aos estados limites últimos que não envolvam perda de equilíbrio ou fadiga
 
 9.1 - A verificação da segurança em relação aos estados limites últimos que não envolvam perda de equilíbrio ou fadiga, quando feita em termos de esforços, consiste em respeitar a condição:
 
@@ -528,15 +552,15 @@ a) Combinações fundamentais:
 
 Em geral:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 No caso de a acção variável de base ser a acção sísmica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 b) Combinações acidentais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 9.3 - Os coeficientes de segurança relativos às acções (gama)(índice g) e (gama)(índice q) - designados genericamente coeficientes (gama)(índice f) - que figuram nas combinações fundamentais, salvo indicação em contrário expressa pelos regulamentos relativos aos diferentes tipos de estruturas e de materiais, devem ser tomados com os valores a seguir indicados:
 
@@ -594,25 +618,25 @@ Convém chamar a atenção para que a verificação da segurança de que se tem 
 
 No entanto, a título de informação, apresenta-se a expressão recomendada pelo Comité Euro-Internacional du Béton (CEB) para determinação do valor de cálculo do esforço actuante no caso de situações transitórias que se verificam após a actuação de acções de acidente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 No caso referido pretende-se apenas garantir a segurança suficiente durante o período que medeia entre a actuação da acção de acidente e a reparação da estrutura, que possibilitará a sua reposição numa situação de exploração normal.
 
 Chama-se finalmente a atenção para que a condição expressa em 9.1, naqueles casos em que não estão em consideração esforços simples, mas sim associações de esforços, deve ser encarada de forma simbólica, pois não se trata então de verificar uma simples desigualdade. Assim, por exemplo, na flexão composta haverá que considerar o esforço normal N e o momento flector associado M; os esforços resistentes de cálculo serão neste caso dados por uma função R(índice d) = (fi)(índice Rd) (M, N). É no domínio do espaço (M, N) limitado por esta função que devem situar-se os pontos representativos dos esforços actuantes de cálculo para que a segurança seja satisfeita.
 
-###### Artigo 10.º - Verificação da segurança em relação aos estados limites últimos de equilíbrio
+Artigo 10.º - Verificação da segurança em relação aos estados limites últimos de equilíbrio
 
 A verificação da segurança em relação aos estados limites últimos de equilíbrio deve ser efectuada comparando o valor que toma, devido às acções estabilizantes, a grandeza (força, momento) em que é expresso o equilíbrio em consideração (deslizamento, derrubamento), com o valor que a mesma grandeza toma devido às acções não estabilizantes.
 
 Considera-se que a segurança fica satisfeita quando o valor de cálculo da grandeza de referência relativo às acções estabilizantes for superior ao valor de cálculo da mesma grandeza relativo às acções não estabilizantes. A determinação destes valores de cálculo deve ser efectuada considerando as regras de combinação indicadas em 9.2 e coeficientes de segurança gama(índice f) convenientemente justificados tendo em atenção o estipulado em 9.3 e 9.5.
 
-###### Artigo 11.º - Verificação da segurança em relação aos estados limites últimos de fadiga
+Artigo 11.º - Verificação da segurança em relação aos estados limites últimos de fadiga
 
 A verificação da segurança em relação aos estados limites últimos de fadiga deve ser feita de acordo com os critérios para o efeito definidos nos regulamentos relativos aos diferentes tipos de estruturas e de materiais.
 
 Dada a natureza especial do problema da fadiga, esta verificação é remetida para os regulamentos referidos, onde são abordadas as questões ligadas à quantificação e combinação das acções, para além das relacionadas com a determinação das capacidades resistentes e com os próprios critérios de segurança.
 
-###### Artigo 12.º - Verificação da segurança em relação aos estados limites de utilização
+Artigo 12.º - Verificação da segurança em relação aos estados limites de utilização
 
 A verificação da segurança em relação aos estados limites de utilização deve ser efectuada, em geral, em termos dos parâmetros que definem esses estados limites e adoptando, salvo indicação em contrário dos regulamentos relativos aos diferentes tipos de estruturas e de materiais, valores unitários para os coeficientes de segurança respeitantes às acções ((gama)(índice f)) e às propriedades dos materiais ((gama)(índice m))
 
@@ -638,13 +662,13 @@ Quantificação das acções
 
 ### CAPÍTULO III — Acções permanentes
 
-###### Artigo 13.º - Generalidades
+Artigo 13.º - Generalidades
 
 Os valores característicos e os valores médios das acções permanentes a considerar na verificação da segurança das estruturas devem, em cada caso, ser convenientemente justificados.
 
 Nos casos correntes, e desde que as acções apresentem pequena variabilidade, os valores característicos podem ser identificados com os respectivos valores médios.
 
-###### Artigo 14.º - Pesos volúmicos dos materiais
+Artigo 14.º - Pesos volúmicos dos materiais
 
 Os pesos próprios dos elementos de construção devem ser obtidos a partir dos valores que os pesos volúmicos dos materiais que os constituem apresentam nas condições reais de utilização.
 
@@ -664,7 +688,7 @@ Os pesos de outros materiais ou elementos de construção devem ser criteriosame
 
 Observe-se também que no caso de betões em que se utilizem como inertes o basalto ou certos granitos é conveniente considerar pesos volúmicos superiores aos indicados.
 
-###### Artigo 15.º - Pesos de paredes divisórias em edifícios
+Artigo 15.º - Pesos de paredes divisórias em edifícios
 
 Em edifícios cujos pavimentos possuam constituição que garanta uma distribuição eficaz das cargas, o peso das paredes divisórias poderá assimilar-se a uma carga permanente uniformemente distribuída em todo o pavimento, com valores característicos por metro quadrado obtidos pelas percentagens seguintes do peso de uma faixa de parede com o comprimento de 1 m e com altura igual à altura da parede:
 
@@ -674,7 +698,7 @@ Pavimentos considerados nas alíneas b) e c) de 35.1.1 ... 30%
 
 O processo simplificado referido no artigo pressupõe que os pavimentos possuem suficiente capacidade de distribuição de cargas, o que é o caso, por exemplo, das lajes maciças ou lajes aligeiradas nervuradas em duas direcções.
 
-###### Artigo 16.º - Impulsos de terras e cedências de apoios
+Artigo 16.º - Impulsos de terras e cedências de apoios
 
 Os valores característicos da acção dos impulsos de terras e da acção das cedências de apoios devem ser devidamente quantificados atendendo aos diversos parâmetros intervenientes.
 
@@ -682,7 +706,7 @@ As acções em causa apresentam variações em torno do seu valor médio que nã
 
 ### CAPÍTULO IV — Acção das variações de temperatura
 
-###### Artigo 17.º - Generalidades
+Artigo 17.º - Generalidades
 
 Para representar a acção das variações da temperatura ambiente sobre as estruturas, considerar-se-ão, actuando nestas, dois tipos de variações de temperatura: uniformes e diferenciais.
 
@@ -694,7 +718,7 @@ No que se refere às variações diferenciais de temperatura, a sua consideraç�
 
 Chama-se ainda a atenção para a possibilidade da ocorrência de variações de temperatura de origem diferente da climática, de que resultem também esforços significativos nas estruturas: é o caso, por exemplo, de chaminés e de outros elementos de certos edifícios industriais. A quantificação destas acções deverá ser convenientemente estabelecida em cada caso.
 
-###### Artigo 18.º - Variações uniformes de temperatura
+Artigo 18.º - Variações uniformes de temperatura
 
 18.1 - Os valores característicos das variações uniformes de temperatura em relação à temperatura média anual do local, salvo indicação em contrário expressa pelos regulamentos relativos aos diferentes tipos de estrutura e de materiais, são os a seguir indicados:
 
@@ -716,13 +740,13 @@ Se, na fase de construção em que se proceder à ligação dos elementos da est
 
 18.2 - Os valores reduzidos das variações uniformes de temperatura relativamente à temperatura média anual do local deverão ser obtidos através dos seguintes coeficientes: (psi)(índice 0) = 0,6; (psi)(índice 1) = 0,5; (psi)(índice 2) = 0,3.
 
-###### Artigo 19.º - Variações diferenciais de temperatura
+Artigo 19.º - Variações diferenciais de temperatura
 
 Os valores das variações diferenciais de temperatura serão computados, em cada caso, de acordo com as condições climáticas locais e as características térmicas da estrutura.
 
 ### CAPÍTULO V — Acção do vento
 
-###### Artigo 20.º - Zonamento do território
+Artigo 20.º - Zonamento do território
 
 Para efeitos da quantificação da acção do vento, considera-se o País dividido nas duas zonas seguintes:
 
@@ -734,7 +758,7 @@ No caso, porém, de locais situados na zona A cujas condições de orografia det
 
 O critério em que se baseou o parcelamento do território em dois tipos de zonas fundamenta-se na análise dos registos meteorológicos existentes, que permitiu atribuir àquelas zonas, para a mesma probabilidade de ocorrência, intensidades do vento suficientemente diferenciadas.
 
-###### Artigo 21.º - Rugosidade aerodinâmica do solo
+Artigo 21.º - Rugosidade aerodinâmica do solo
 
 Para ter em conta a variação da acção do vento com a altura acima do solo consideram-se dois tipos de rugosidade aerodinâmica do solo:
 
@@ -748,7 +772,7 @@ A consideração de apenas dois tipos de rugosidade do solo é um pouco esquemá
 
 Note-se que a atribuição de um tipo de rugosidade ao solo em que se localiza uma construção poderá depender da direcção do vento. Assim, por exemplo, uma construção situada na periferia duma zona urbana pode, para vento actuando do lado daquela zona, ser considerada como implantada em solo com rugosidade do tipo I.
 
-###### Artigo 22.º - Quantificação da acção do vento
+Artigo 22.º - Quantificação da acção do vento
 
 22.1 - A acção do vento resulta da interacção entre o ar em movimento e as construções, exercendo-se sob a forma de pressões aplicadas nas suas superfícies.
 
@@ -756,9 +780,9 @@ No anexo I apresentam-se elementos para a determinação desta acção. Em parti
 
 22.2 - O vento pode em geral ser considerado como actuando na horizontal, devendo admitir-se que pode ter qualquer rumo.
 
-22.3 - No caso de estruturas identicamente solicitadas pelo vento qualquer que seja o rumo deste (como, por exemplo, estruturas com simetria de revolução ou estruturas cuja resistência nas diversas direcções seja proporcionada às acções do vento que nessas direcções se exercem), os valores característicos da velocidade do vento a considerar devem ser obtidos multiplicando por [([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf) os valores característicos definidos no anexo I.
+22.3 - No caso de estruturas identicamente solicitadas pelo vento qualquer que seja o rumo deste (como, por exemplo, estruturas com simetria de revolução ou estruturas cuja resistência nas diversas direcções seja proporcionada às acções do vento que nessas direcções se exercem), os valores característicos da velocidade do vento a considerar devem ser obtidos multiplicando por [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf) os valores característicos definidos no anexo I.
 
-###### Artigo 23.º - Determinação dos efeitos da acção do vento
+Artigo 23.º - Determinação dos efeitos da acção do vento
 
 23.1 - A determinação dos efeitos da acção do vento nas estruturas pode ser efectuada por métodos analíticos ou experimentais, tendo em conta a quantificação apresentada no artigo anterior e as características aerodinâmicas das estruturas.
 
@@ -770,7 +794,7 @@ Para alguns tipos de estruturas é porém possível formular processos simplific
 
 Note-se ainda que a majoração dos valores característicos indicada em 22.3 se reflecte obviamente sobre os correspondentes valores reduzidos.
 
-###### Artigo 24.º - Pressão dinâmica do vento
+Artigo 24.º - Pressão dinâmica do vento
 
 24.1 - Os valores característicos da pressão dinâmica do vento, W(índice k), são indicados na figura 1 para a zona A, em função da altura, h, acima do solo e do tipo de rugosidade deste. Para a zona B, os valores característicos da pressão dinâmica a considerar devem ser obtidos multiplicando por 1,2 os valores indicados para a zona A.
 
@@ -778,7 +802,7 @@ A altura acima do solo, no caso de construções situadas em terrenos inclinados
 
 24.2 - Para os tipos de estruturas referidos em 22.3, e por força da majoração aí especificada, os valores característicos da pressão dinâmica do vento devem ser obtidos multiplicando por 1,3 os valores indicados em 24.1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 24.3 - Os valores reduzidos da pressão dinâmica do vento deverão ser obtidos através dos seguintes coeficientes: (psi)(índice 0) = 0,4; (psi)(índice 1) = 0,2; (psi)(índice 2) = 0. No caso de edifícios com utilização dos tipos referidos em 35.1.2 e 35.1.3 e em que a sobrecarga seja a acção de base da combinação, deve tomar-se (psi)(índice 0) = 0,6.
 
@@ -802,7 +826,7 @@ No que se refere à zona B, os valores característicos da pressão dinâmica es
 
 Note-se que tanto para a zona A como para a zona B, para alturas acima do solo inferiores a 15 m no caso de terrenos com rugosidade do tipo I, e inferiores a 10 m no caso de terrenos com rugosidade do tipo II, se consideram constantes os valores das pressões dinâmicas. A razão deste procedimento deve-se à imprecisão da definição das velocidades do vento na vizinhança imediata do solo, ou seja, até alturas da ordem de grandeza das alturas médias dos obstáculos que caracterizam a macrorrugosidade do terreno.
 
-###### Artigo 25.º - Coeficientes de forma
+Artigo 25.º - Coeficientes de forma
 
 25.1 - Os coeficientes de forma a utilizar para a determinação da acção do vento são apresentados no anexo I para os casos mais correntes da prática. Nos casos ali não considerados, os coeficientes de forma a adoptar devem ser convenientemente justificados.
 
@@ -812,7 +836,7 @@ Para o estabelecimento de coeficientes de forma relativos a casos não tratados 
 
 ### CAPÍTULO VI — Acção da neve
 
-###### Artigo 26.º - Zonamento do território
+Artigo 26.º - Zonamento do território
 
 A acção da neve deve ser tida em conta nos locais com altitude igual ou superior a 200 m situados nos distritos de Viana do Castelo, Braga, Vila Real, Bragança, Porto, Aveiro, Viseu, Guarda, Coimbra, Leiria, Castelo Branco e Portalegre.
 
@@ -820,7 +844,7 @@ Nos restantes locais do continente e nos arquipélagos dos Açores e da Madeira 
 
 Em algumas zonas elevadas da ilha da Madeira, embora não haja que considerar a acção da neve, pode justificar-se a consideração de uma sobrecarga devida à acumulação de granizo.
 
-###### Artigo 27.º - Quantificação da acção da neve
+Artigo 27.º - Quantificação da acção da neve
 
 27.1 - A acção da neve pode, em geral, ser considerada como uma carga distribuída cujo valor característico, por metro quadrado em plano horizontal, s(índice k), é dado pela expressão:
 
@@ -840,7 +864,7 @@ Os valores do coeficiente (mi) são apresentados no anexo II para os casos mais 
 
 ### CAPÍTULO VII — Acção dos sismos
 
-###### Artigo 28.º - Zonamento do território
+Artigo 28.º - Zonamento do território
 
 Para efeitos da quantificação da acção dos sismos considera-se o País dividido em quatro zonas, que, por ordem decrescente de sismicidade, são designadas por A, B, C e D.
 
@@ -848,7 +872,7 @@ A delimitação destas zonas para o continente é feita no anexo III; as ilhas d
 
 O zonamento adoptado foi estabelecido a partir de estudos de sismicidade recentemente efectuados. Para facilitar as aplicações, fez-se coincidir os limites das zonas com limites de concelhos.
 
-###### Artigo 29.º - Quantificação da acção dos sismos
+Artigo 29.º - Quantificação da acção dos sismos
 
 29.1 - A acção dos sismos resulta de um conjunto de vibrações do solo que são transmitidas às estruturas durante a ocorrência de um sismo.
 
@@ -860,7 +884,7 @@ Quadro I
 
 Valores do coeficiente de sismicidade, (alfa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Quanto à natureza do terreno, são considerados os seguintes tipos:
 
@@ -876,7 +900,7 @@ Tipo III - solos coerentes moles e muito moles; solos incoerentes soltos.
 
 Na quantificação da acção dos sismos apenas são tidas em conta as acções vibratórias transmitidas pelo terreno à estrutura. Os sismos podem, no entanto, provocar nos terrenos alterações estruturais (roturas, liquefacção de camadas arenosas, movimentos entre bordos de falhas activas) de que resultem deslocamentos importantes, com graves consequências para as construções. Por outro lado, disposições peculiares da estrutura dos terrenos, nomeadamente a existência de camadas horizontais de grande extensão, podem provocar amplificações selectivas da intensidade das vibrações sísmicas em determinadas bandas de frequência; situações deste tipo não foram também tidas em conta na quantificação da acção dos sismos. No que se refere ao disposto em 29.4, como exemplo de casos em que deverá considerar-se a acção sísmica na direcção vertical, podem referir-se as estruturas com modos de vibração caracterizados por frequências próprias inferiores a cerca de 10 Hz, a que correspondam configurações com deslocamentos significativos na direcção vertical.
 
-###### Artigo 30.º - Determinação dos efeitos da acção dos sismos
+Artigo 30.º - Determinação dos efeitos da acção dos sismos
 
 30.1 - A determinação dos efeitos da acção dos sismos deve ser efectuada por métodos de análise dinâmica, de acordo com o indicado em 30.2 e 30.3, podendo, no entanto, utilizar-se também os processos simplificados de análise estática apresentados em 30.4 e 30.5.
 
@@ -932,7 +956,7 @@ Admite-se que uma estrutura de edifício não é demasiadamente deformável quan
 
 No caso de pontes, as condições indicadas excluem expressamente as pontes suspensas, as pontes em arco e as pontes com pilares inclinados do tipo escora. Note-se ainda que, se a ponte for muito extensa, poderão existir diferenças significativas entre as vibrações sísmicas que actuam na base dos diferentes suportes, facto que deverá ser devidamente considerado na determinação dos efeitos das acções sísmicas sobre a estrutura.
 
-###### Artigo 31.º - Coeficientes sísmicos
+Artigo 31.º - Coeficientes sísmicos
 
 31.1 - Para as construções que satisfaçam as condições expressas em 30.4, o coeficiente sísmico, segundo uma dada direcção, é um coeficiente que, multiplicando o valor das acções gravíticas correspondentes às cargas permanentes e ao valor quase permanente das cargas variáveis, define o valor característico da resultante global das forças estáticas que, convenientemente distribuídas pela estrutura, permitem determinar os efeitos da acção dos sismos na direcção considerada.
 
@@ -958,7 +982,7 @@ Quadro II
 
 Valores do coeficiente sísmico de referência, (beta)(índice 0)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 A frequência própria fundamental da estrutura deve ser determinada, para a direcção em que está a ser considerada a acção sísmica, por métodos analíticos ou experimentais convenientemente justificados.
 
@@ -978,7 +1002,7 @@ O coeficiente sísmico de referência (beta)(índice o) destina-se a traduzir a 
 
 Quanto à determinação analítica da frequência própria fundamental, recorde-se que na maioria dos casos é admissível utilizar o método de Rayleigh, segundo o qual, uma vez convenientemente discretizada a estrutura num certo número de massas concentradas, a frequência é dada pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 As expressões apresentadas para estimar as frequências próprias de edifícios foram obtidas a partir da consideração dos resultados da análise dinâmica efectuada para estruturas típicas e de valores obtidos experimentalmente.
 
@@ -988,9 +1012,9 @@ A diferenciação entre estruturas-parede e estruturas em pórtico pode estabele
 
 A diferenciação em causa pode ser objectivada através do parâmetro (ró)(índice i), definido para o piso i por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
-###### Artigo 32.º - Valores e distribuição das forças estáticas
+Artigo 32.º - Valores e distribuição das forças estáticas
 
 32.1 - As forças estáticas, cuja resultante global é determinada utilizando o coeficiente sísmico definido no artigo 31.º, devem ser supostas actuando simultaneamente segundo a direcção considerada e ser distribuídas em correspondência com as diversas massas em jogo; o valor de cada uma dessas forças é função do coeficiente sísmico, da massa considerada e do modo como a estrutura se deforma.
 
@@ -998,11 +1022,11 @@ A diferenciação em causa pode ser objectivada através do parâmetro (ró)(ín
 
 O valor característico, F(índice ki), da força aplicada ao nível do piso i, relativo a uma dada direcção, é calculado pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Estas forças devem considerar-se actuando simultaneamente ao nível dos correspondentes pisos, aplicadas todas com excentricidades e(índice 1i) ou todas com excentricidades e(índice 2i), consoante for mais desfavorável; estas excentricidades são definidas em relação ao centro de massa conforme se indica na figura 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 No caso de a estrutura ser simétrica em relação a um plano que contém a direcção considerada para a acção sísmica e os seus elementos resistentes estarem uniformemente distribuídos, pode-se considerar que as resultantes das forças estáticas actuam segundo aquele plano de simetria e multiplicar os efeitos assim obtidos por um factor (csi) definido por:
 
@@ -1044,13 +1068,13 @@ Finalmente, e dado que a experiência mostra que muitos acidentes em pontes são
 
 ### CAPÍTULO VIII — Acções específicas de edifícios
 
-###### Artigo 33.º - Generalidades
+Artigo 33.º - Generalidades
 
 No presente capítulo são quantificadas as acções directamente relacionadas com a utilização dos edifícios, isto é, as sobrecargas em coberturas, pavimentos, varandas e acessos, e ainda as acções em guardas e parapeitos.
 
 As restantes acções a considerar, porque não específicas dos edifícios, são tratadas nos correspondentes capítulos do Regulamento.
 
-###### Artigo 34.º - Sobrecargas em coberturas
+Artigo 34.º - Sobrecargas em coberturas
 
 34.1 - Para os efeitos do presente artigo definem-se os seguintes tipos de coberturas:
 
@@ -1076,7 +1100,7 @@ O critério adoptado para a tipificação das coberturas baseia-se em que estas,
 
 A sobrecarga concentrada indicada em 34.2, a), para as coberturas ordinárias destina-se a representar o peso de um operário ou de materiais durante a construção ou reparação da cobertura. A sobrecarga distribuída de 0,3 kN/m2 considera-se o mínimo admissível para o dimensionamento de qualquer tipo de cobertura, de modo a garantir a estas estruturas uma conveniente reserva de resistência. Este valor deve ser aumentado em casos especiais, como, por exemplo, coberturas de instalações fabris em que se preveja a possibilidade de acumulação de poeiras; neste caso, dado o carácter de relativa permanência da sobrecarga, os correspondentes valores reduzidos não deverão ser considerados nulos.
 
-###### Artigo 35.º - Sobrecargas em pavimentos
+Artigo 35.º - Sobrecargas em pavimentos
 
 35.1 - Os valores característicos das sobrecargas a considerar nos pavimentos são indicados a seguir, em função do tipo de utilização previsto.
 
@@ -1122,9 +1146,9 @@ Sobrecargas em pavimentos
 
 Valores dos coeficientes (psi)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
-###### Artigo 36.º - Sobrecargas em varandas
+Artigo 36.º - Sobrecargas em varandas
 
 36.1 - Os valores característicos das sobrecargas a considerar nas varandas, ou em locais que possam desempenhar funções análogas (por exemplo, certas galerias), são: numa faixa de 1 m de largura adjacente ao parapeito, 5,0 kN/m2 e, na restante superfície, um valor igual ao estabelecido para o compartimento contíguo de acordo com os artigos 35.º e 37.º
 
@@ -1132,7 +1156,7 @@ Valores dos coeficientes (psi)
 
 A sobrecarga de 5,0 kN/m2 numa faixa de 1 m adjacente ao parapeito representa a elevada concentração de pessoas que é provável verificar-se nessa zona; na restante superfície não se julga indispensável considerar uma sobrecarga superior à prevista para o compartimento que dá acesso à varanda.
 
-###### Artigo 37.º - Sobrecargas em acessos
+Artigo 37.º - Sobrecargas em acessos
 
 37.1 - Os valores característicos das sobrecargas a considerar nos acessos, tais como escadas, rampas, galerias, átrios e corredores, devem ser iguais aos valores adoptados para os pavimentos a que dão serventia, havendo que respeitar em todos os casos, excepto nos átrios e corredores do interior das habitações, os seguintes valores mínimos:
 
@@ -1142,11 +1166,11 @@ Em locais públicos ... 5,0 kN/m2
 
 37.2 - Os valores reduzidos das sobrecargas em acessos deverão, em geral, ser obtidos através de valores dos coeficientes (psi) iguais aos adoptados para definir os valores reduzidos das sobrecargas nos compartimentos a que dão serventia.
 
-###### Artigo 38.º - Efeitos dinâmicos das sobrecargas
+Artigo 38.º - Efeitos dinâmicos das sobrecargas
 
 Os valores das sobrecargas indicados no presente capítulo têm já em consideração os efeitos dinâmicos que correntemente lhes correspondem. Os valores das sobrecargas provenientes de máquinas, pontes rolantes ou outros dispositivos mecânicos deverão ser convenientemente acrescidos para ter em conta os efeitos dinâmicos inerentes ao seu funcionamento.
 
-###### Artigo 39.º - Acções em guardas e parapeitos
+Artigo 39.º - Acções em guardas e parapeitos
 
 Em guardas e parapeitos de edifícios deve considerar-se, aplicada na sua parte superior, uma força horizontal uniformemente distribuída com os valores característicos de 0,5 kN/m e 1,0 kN/m, respectivamente em locais privados e em locais públicos; os correspondentes valores reduzidos são nulos.
 
@@ -1154,7 +1178,7 @@ Nos casos especiais em que seja de recear a eventual ocorrência de uma excessiv
 
 ### CAPÍTULO IX — Acções específicas de pontes rodoviárias
 
-###### Artigo 40.º - Generalidades
+Artigo 40.º - Generalidades
 
 40.1 - No presente capítulo são quantificadas as acções directamente relacionadas com o tráfego rodoviário, isto é, sobrecargas e seus efeitos inerentes (forças centrífuga, de frenagem e de arranque) e ainda as sobrecargas em passeios e as forças horizontais em guardas e em guarda-rodas, além da acção do vento sobre os veículos.
 
@@ -1166,13 +1190,13 @@ Não é necessário considerar a actuação simultânea das forças centrífuga 
 
 Faz-se notar que, sendo os valores das forças centrífuga e de frenagem (ou arranque) dependentes do valor da sobrecarga que lhes dá origem, não há evidentemente que definir, para aquelas forças, valores característicos ou reduzidos; os valores a atribuir-lhes nas diversas combinações devem ser obtidos a partir dos valores da sobrecarga (característicos ou reduzidos) que figuram nessas combinações.
 
-###### Artigo 41.º - Sobrecargas
+Artigo 41.º - Sobrecargas
 
 41.1 - Nas pontes rodoviárias deve considerar-se, nas faixas de rodagem, a actuação separada dos dois tipos de sobrecargas definidos nas alíneas seguintes e cujos valores característicos são também aí indicados:
 
 a) Veículo de três eixos equidistantes, cada um de duas rodas, com a disposição e dimensões indicadas em planta na figura 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 As cargas Q transmitidas por cada eixo e as dimensões, a e b, das superfícies de contacto das rodas são, consoante a classe a que a ponte pertence, as seguintes:
 
@@ -1200,7 +1224,7 @@ Para efeitos de aplicação do presente artigo, considera-se que a largura da fa
 
 No que se refere às sobrecargas, faz-se notar que se considerou que os valores adoptados são suficientes para terem em conta eventuais efeitos dinâmicos; por esta razão, os coeficientes dinâmicos não são explicitados no artigo.
 
-###### Artigo 42.º - Força centrífuga
+Artigo 42.º - Força centrífuga
 
 Nas pontes em curva, para ter em conta a força centrífuga, devem considerar-se forças horizontais actuando em direcção normal ao eixo da ponte, aplicadas ao nível do pavimento e em correspondência com as sobrecargas uniformemente distribuídas multiplicadas por um coeficiente de redução (beta). Estas forças centrífugas devem ser obtidas multiplicando os valores das sobrecargas a elas associadas (afectadas do coeficiente (beta)) por um coeficiente (alfa) dado pela expressão:
 
@@ -1222,11 +1246,11 @@ O coeficiente (beta) que afecta os valores (característicos ou reduzidos) da so
 
 Observa-se ainda que, uma vez que as acções verticais a combinar com a força centrífuga aumentam com a diminuição de velocidade, poderá eventualmente justificar-se fazer verificações de segurança para velocidades inferiores à máxima de projecto.
 
-###### Artigo 43.º - Forças de frenagem
+Artigo 43.º - Forças de frenagem
 
 Para ter em conta os efeitos resultantes das variações de velocidade dos veículos devem considerar-se forças longitudinais, actuando ao nível do pavimento, paralelamente ao eixo da ponte e associadas às sobrecargas uniformemente distribuídas. Estas forças longitudinais devem ser consideradas linear e uniformemente distribuídas segundo a largura da zona carregada; o seu valor correspondente ao valor característico da sobrecarga uniformemente distribuída é igual a 30 kN/m e 20 kN/m, respectivamente para as pontes das classes I e II.
 
-###### Artigo 44.º - Acções em passeios, guardas e guarda-rodas
+Artigo 44.º - Acções em passeios, guardas e guarda-rodas
 
 44.1 - Nos passeios das pontes rodoviárias deve considerar-se a actuação de uma sobrecarga uniformemente distribuída ou de uma sobrecarga concentrada, conforme for mais desfavorável, cujos valores característicos são, respectivamente, 3 kN/m2 e 20 kN.
 
@@ -1236,7 +1260,7 @@ Os valores reduzidos da sobrecarga uniformemente distribuída devem ser obtidos 
 
 44.3 - Nos guarda-rodas das pontes rodoviárias deve considerar-se a actuação de uma força concentrada e horizontal, actuando normal ou tangencialmente, cujo valor característico é igual a 20 kN; os correspondentes valores reduzidos são nulos.
 
-###### Artigo 45.º - Acção do vento sobre os veículos
+Artigo 45.º - Acção do vento sobre os veículos
 
 A acção do vento directamente exercida sobre os veículos e por estes transmitida à ponte deverá ser determinada de acordo com o especificado no capítulo V e considerando que a superfície actuada pelo vento é uma banda rectangular contínua com a altura de 2,5 m acima do nível do pavimento.
 
@@ -1244,25 +1268,25 @@ Os coeficientes de força aplicáveis à determinação da acção do vento sobr
 
 ### CAPÍTULO X — Acções específicas de passadiços
 
-###### Artigo 46.º - Generalidades
+Artigo 46.º - Generalidades
 
 No presente capítulo são quantificadas apenas as sobrecargas nos pavimentos e as acções nas guardas dos passadiços destinados a uso exclusivo de peões, ciclistas ou motociclistas.
 
 As restantes acções a considerar, porque não específicas dos passadiços, são tratadas nos correspondentes capítulos do Regulamento.
 
-###### Artigo 47.º - Sobrecargas
+Artigo 47.º - Sobrecargas
 
 Nos passadiços deve considerar-se, actuando no pavimento e nas posições mais desfavoráveis para o elemento em estudo, uma sobrecarga uniformemente distribuída com valor característico igual a 4 kN/m2.
 
 Os valores reduzidos devem ser obtidos através dos seguintes coeficientes: (psi)(índice 0) = 0,4; (psi)(índice 1) = 0,3; (psi)(índice 2) = 0,2. No caso, porém, de a acção sísmica ser a acção de base da combinação, deverá considerar-se (psi)(índice 2) = 0
 
-###### Artigo 48.º - Acções em guardas
+Artigo 48.º - Acções em guardas
 
 Nas guardas dos passadiços deve considerar-se, aplicada ao seu nível superior, uma força horizontal uniformemente distribuída com valor característico igual a 1,5 kN/m; os correspondentes valores reduzidos são nulos.
 
 ### CAPÍTULO XI — Acções específicas de pontes ferroviárias
 
-###### Artigo 49.º - Generalidades
+Artigo 49.º - Generalidades
 
 49.1 - No presente capítulo são quantificadas as acções directamente relacionadas com o tráfego ferroviário, isto é, sobrecargas e seus efeitos inerentes (forças centrífuga, de lacete, de arranque e de frenagem), e ainda as sobrecargas em passeios, as forças horizontais em guardas, além da acção do vento sobre o material circulante.
 
@@ -1276,11 +1300,11 @@ Estes documentos podem também servir de base para a quantificação de acções
 
 No que se refere às forças centrífuga, de arranque, de frenagem e de lacete, por dependerem da sobrecarga que lhes dá origem, são-lhes aplicáveis as considerações feitas no comentário do artigo 40.º; para tais forças não há, portanto, que definir valores característicos ou reduzidos.
 
-###### Artigo 50.º - Sobrecargas
+Artigo 50.º - Sobrecargas
 
 50.1 - Os valores característicos das sobrecargas devidas ao tráfego nas pontes ferroviárias são os correspondentes ao comboio-tipo indicado na figura 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Os valores reduzidos devem ser obtidos através dos seguintes coeficientes: (psi)(índice 0) = 0,8; (psi)(índice 1) = 0,6; (psi)(índice 2) = 0,4. No caso, porém, de a acção sísmica ser a acção de base da combinação, deverá considerar-se (psi)(índice 2) = 0
 
@@ -1300,17 +1324,17 @@ Os valores reduzidos destas sobrecargas devem ser obtidos aplicando os coeficien
 
 Apresentam-se nas figuras seguintes exemplos de aplicação das regras enunciadas no artigo, referentes ao posicionamento do comboio-tipo com vista à obtenção dos efeitos mais desfavoráveis da sobrecarga.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Chama-se a atenção para que, nas pontes ferroviárias de tráfego intenso, podem ocorrer problemas de fadiga; em tais casos deverá ser convenientemente quantificado o valor nominal da sobrecarga que provoca fadiga, tendo em conta as reais características do tráfego.
 
 Nos casos especiais em que, pelas características peculiares do tráfego, se justificasse a adopção de valores de sobrecargas diferentes dos indicados, deveria manter-se a configuração do comboio-tipo e apenas multiplicar as suas cargas por um coeficiente adequado.
 
-###### Artigo 51.º - Coeficiente dinâmico
+Artigo 51.º - Coeficiente dinâmico
 
 51.1 - O coeficiente dinâmico, (fi), pelo qual devem ser multiplicadas as sobrecargas para ter em conta os seus efeitos dinâmicos, é dado em geral pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Para os elementos principais da superstrutura poder-se-á, no entanto, considerar os seguintes valores dos comprimentos de referência:
 
@@ -1330,7 +1354,7 @@ A expressão apresentada para cálculo deste coeficiente conduz a resultados sat
 
 Para outras situações, como por exemplo para vias em que se exige um estado de conservação particularmente bem cuidado, e também quando se pretenda ter em conta explicitamente a frequência própria e a velocidade (caso com interesse para a verificação da segurança de pontes já construídas), pode recorrer-se às recomendações da UIC. Estas recomendações contêm também dados para a determinação dos comprimentos de referência para outros elementos além dos indicados no artigo.
 
-###### Artigo 52.º - Força centrífuga
+Artigo 52.º - Força centrífuga
 
 Nas pontes com via em curva, para ter em conta a força centrífuga, devem considerar-se forças horizontais actuando em direcção normal ao eixo da via, aplicadas a 1,80 m acima da cabeça do carril e em correspondência com as sobrecargas. Estas forças devem ser obtidas multiplicando os valores dessas sobrecargas (não afectadas do coeficiente dinâmico) pelo coeficiente alfa dado pela expressão:
 
@@ -1344,7 +1368,7 @@ r - raio de curvatura, expresso em metros.
 
 No caso, porém, de a velocidade ser superior a 120 km/h, os valores das sobrecargas poderão ser multiplicados pelo coeficiente de redução (beta) dado por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Para determinação dos efeitos mais desfavoráveis devidos à força centrífuga são aplicáveis os critérios de posicionamento do comboio-tipo e de ocupação de vias indicados em 50.3 e 50.4.
 
@@ -1352,7 +1376,7 @@ Observe-se ainda que a verificação da segurança para velocidades superiores a
 
 Quanto ao coeficiente de redução beta, ele justifica-se por razões análogas às indicadas no comentário ao artigo 42.º
 
-###### Artigo 53.º - Força de lacete
+Artigo 53.º - Força de lacete
 
 Para ter em conta os efeitos laterais devidos ao lacete deve considerar-se uma força horizontal, actuando em direcção normal ao eixo da via, ao nível da cabeça do carril e na posição e com o sentido que conduzirem aos efeitos mais desfavoráveis para o elemento em estudo.
 
@@ -1360,7 +1384,7 @@ Os valores da força de lacete correspondentes aos valores característicos das 
 
 Nas pontes de mais de uma via bastará considerar apenas uma força de lacete para o conjunto das vias.
 
-###### Artigo 54.º - Forças de arranque e de frenagem
+Artigo 54.º - Forças de arranque e de frenagem
 
 54.1 - Para ter em conta os efeitos do arranque e da frenagem devem considerar-se forças longitudinais, actuando na direcção do eixo da via, ao nível da cabeça do carril, com as intensidades indicadas nos números seguintes.
 
@@ -1382,13 +1406,13 @@ Os valores das forças de arranque e de frenagem, embora ligeiramente inferiores
 
 Observe-se que nos casos de pontes de mais de uma via se deverá ter em conta, na determinação dos efeitos mais desfavoráveis, que o arranque e a frenagem podem ocorrer de modo independente em cada uma das duas vias a considerar.
 
-###### Artigo 55.º - Acções em passeios e guardas
+Artigo 55.º - Acções em passeios e guardas
 
 55.1 - Nos passeios das pontes ferroviárias deve considerar-se uma sobrecarga uniformemente distribuída ou uma carga concentrada conforme for mais desfavorável, e cujos valores característicos são, respectivamente, 2,0 kN/m2 e 10 kN; os correspondentes valores reduzidos são nulos.
 
 55.2 - Nas guardas das pontes ferroviárias deve considerar-se, aplicada ao seu nível superior, uma força horizontal uniformemente distribuída com valor característico igual a 1,0 kN/m; os correspondentes valores reduzidos são nulos.
 
-###### Artigo 56.º - Acção do vento sobre o material circulante
+Artigo 56.º - Acção do vento sobre o material circulante
 
 A acção do vento directamente exercida sobre o material circulante e por este transmitida à ponte deverá ser determinada de acordo com o especificado no capítulo V e considerando que a superfície actuada pelo vento é uma banda rectangular contínua com a altura de 3,5 m acima do nível da base do carril.
 
@@ -1398,17 +1422,17 @@ Os coeficientes de força aplicáveis à determinação da acção do vento sobr
 
 ### CAPÍTULO XII — Outras acções
 
-###### Artigo 57.º - Acções dependentes dos materiais constituintes das estruturas
+Artigo 57.º - Acções dependentes dos materiais constituintes das estruturas
 
 Os valores característicos e reduzidos das acções dependentes do tipo de material que constitui a estrutura são definidos nos regulamentos específicos.
 
 São exemplos das acções visadas no artigo a retracção e o pré-esforço em estruturas de betão armado e pré-esforçado.
 
-###### Artigo 58.º - Pressões hidrostáticas
+Artigo 58.º - Pressões hidrostáticas
 
 Os valores característicos e reduzidos das pressões hidrostáticas devem ser devidamente quantificados em função dos diversos parâmetros intervenientes.
 
-###### Artigo 59.º - Acções inerentes ao funcionamento de dispositivos de apoio
+Artigo 59.º - Acções inerentes ao funcionamento de dispositivos de apoio
 
 As acções devidas ao funcionamento dos dispositivos de apoio devem ser devidamente calculadas em função dos esforços e deslocamentos a que estão submetidos e das suas características de funcionamento.
 
@@ -1446,7 +1470,7 @@ As flutuações das velocidades do vento, resultantes do carácter turbulento de
 
 A altura acima do solo a considerar para a determinação das pressões dinâmicas no caso de construções situadas em terrenos inclinados ou na sua vizinhança deve ser contada a partir do nível de referência indicado a tracejado na figura I-1. No caso de ser tg (teta) ≤ 0,3, o nível de referência a considerar coincide com o terreno.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 3 - Coeficientes de forma
 
@@ -1486,7 +1510,7 @@ Apresentam-se nos quadros I-I a I-VI os valores dos coeficientes de pressão ext
 
 Do Quadro I-I ao Quadro I-VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 3.2.3 - Coeficientes de pressão interior, (delta)(índice pi)
 
@@ -1514,7 +1538,7 @@ Quadro I-VII
 
 Coeficientes de pressão (delta)(índice p) para coberturas isoladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Note-se que as forças assim definidas são normais às vertentes e terão, portanto, em geral, componentes horizontais que vão interessar especialmente o dimensionamento dos elementos de suporte. Além destas componentes, há ainda que considerar outras forças horizontais devidas ao atrito do ar sobre as superfícies e devidas à acção do vento sobre o bordo da cobertura (ou sobre elementos de bordadura eventualmente existentes).
 
@@ -1546,7 +1570,7 @@ Para determinar a acção do vento sobre estruturas deste tipo, interessa consid
 
 em que A(índice 1) - área efectiva - é a soma das áreas das projecções de todos os elementos da estrutura num plano normal à direcção do vento, e A(índice 2) é a área limitada pela projecção, no mesmo plano, do contorno exterior da estrutura.
 
-Chama-se ainda a atenção para que, no caso de os elementos da estrutura terem secção circular, interessa considerar dois valores diferentes do coeficiente de força consoante o escoamento se processa em regime subcrítico ou supercrítico; a distinção entre as duas situações, para efeitos práticos, é feita em função do valor do parâmetro [([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf), em que d é o diâmetro do elemento considerado e w é a pressão dinâmica do vento. Note-se que, como os coeficientes de força para regime subcrítico são em geral superiores aos correspondentes coeficientes para regime supercrítico, no caso de estruturas em que se verifique este segundo regime para as pressões dinâmicas regulamentares, há que verificar se, para pressões menores que impliquem a mudança de regime de escoamento, se obtêm forças globais de valor superior.
+Chama-se ainda a atenção para que, no caso de os elementos da estrutura terem secção circular, interessa considerar dois valores diferentes do coeficiente de força consoante o escoamento se processa em regime subcrítico ou supercrítico; a distinção entre as duas situações, para efeitos práticos, é feita em função do valor do parâmetro [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf), em que d é o diâmetro do elemento considerado e w é a pressão dinâmica do vento. Note-se que, como os coeficientes de força para regime subcrítico são em geral superiores aos correspondentes coeficientes para regime supercrítico, no caso de estruturas em que se verifique este segundo regime para as pressões dinâmicas regulamentares, há que verificar se, para pressões menores que impliquem a mudança de regime de escoamento, se obtêm forças globais de valor superior.
 
 3.4.2 - Estruturas planas isoladas
 
@@ -1554,15 +1578,15 @@ No quadro I-VIII são dados os coeficientes de força (delta)(índice f) para es
 
 Barras de secção angulosa;
 
-Barras de secção circular em regime subcrítico: barras a que corresponde [([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf), em que d e w são expressos, respectivamente, em metros e em quilonewtons por metro quadrado;
+Barras de secção circular em regime subcrítico: barras a que corresponde [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf), em que d e w são expressos, respectivamente, em metros e em quilonewtons por metro quadrado;
 
-Barras de secção circular em regime supercrítico: barras a que corresponde [([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf).
+Barras de secção circular em regime supercrítico: barras a que corresponde [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf).
 
 Quadro I-VIII
 
 Coeficientes de força para estruturas reticuladas planas isoladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 A força global actuante na estrutura, normalmente ao seu plano, é dada por:
 
@@ -1602,7 +1626,7 @@ Quadro I-IX
 
 Factores de protecção (eta) para estruturas reticuladas planas dispostas paralelamente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 A influência do índice de cheios (lambda) e do tipo de barras da estrutura de barlavento é quantificada através de um coeficiente (alfa), que se designa por índice aerodinâmico de cheios, definido pela expressão:
 
@@ -1630,19 +1654,19 @@ Quadro I-X
 
 Coeficientes de força para torres reticuladas constituidas por barras de secção angulosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Quadro I-XI
 
 Coeficientes de força para torres de base quadrada constituidas por barras de secção circular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Quadro I-XII
 
 Coeficientes de força para torres de base triangular constituidas por barras de secção circular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 As forças globais F são dadas pela expressão:
 
@@ -1662,9 +1686,9 @@ Quadro I-XIII
 
 Coeficientes de força para construções fechadas de forma cilindrica ou prismática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
-Estes coeficientes são função da esbelteza da construção - definida pelo quociente entre a altura h e a dimensão, na direcção normal ao vento, da secção transversal - e do regime do escoamento (caracterizado pelo parâmetro [([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf) e pela rugosidade das superfícies).
+Estes coeficientes são função da esbelteza da construção - definida pelo quociente entre a altura h e a dimensão, na direcção normal ao vento, da secção transversal - e do regime do escoamento (caracterizado pelo parâmetro [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf) e pela rugosidade das superfícies).
 
 As forças globais F, actuantes na direcção do vento numa faixa de altura h1, são calculadas pela expressão:
 
@@ -1686,9 +1710,9 @@ Quadro I-XIV
 
 Coeficientes de pressão exterior para construções de forma cilíndrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
-Estes coeficientes são aplicáveis a cilindros de eixo vertical (caso de chaminés e silos), ou de eixo horizontal (caso de alguns tipos de reservatórios), desde que neste último caso a distância entre o solo e a geratriz inferior do cilindro não seja menor que o diâmetro deste. A direcção de actuação do vento é considerada perpendicular ao eixo do cilindro, e supõe-se que o regime do escoamento é supercrítico [([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf), condição que é, aliás, satisfeita em geral para este tipo de construções.
+Estes coeficientes são aplicáveis a cilindros de eixo vertical (caso de chaminés e silos), ou de eixo horizontal (caso de alguns tipos de reservatórios), desde que neste último caso a distância entre o solo e a geratriz inferior do cilindro não seja menor que o diâmetro deste. A direcção de actuação do vento é considerada perpendicular ao eixo do cilindro, e supõe-se que o regime do escoamento é supercrítico [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf), condição que é, aliás, satisfeita em geral para este tipo de construções.
 
 Um dos parâmetros de que dependem os coeficientes de pressão é a relação h/d, entre o comprimento do cilindro e o seu diâmetro. No caso de o escoamento do ar poder processar-se livremente sobre ambos os topos do cilindro (caso que não sucede, por exemplo, para cilindros directamente assentes no solo), o valor de h a considerar para efeitos da relação h/d deve ser metade do comprimento do cilindro.
 
@@ -1706,19 +1730,19 @@ Quadro I-XV
 
 Coeficientes de força para perfis de secção angulosa e comprimento infinito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Quadro I-XVI
 
 Coeficientes de força para perfis de secção circular e comprimento infinito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Quadro I-XVII
 
 Coeficientes de força para fios e cabos de comprimento infinito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Estes coeficientes referem-se a elementos de comprimento infinito do ponto de vista da resistência aerodinâmica.
 
@@ -1728,9 +1752,9 @@ Quadro I-XVIII
 
 Factores de correcção (ró) dos coeficientes de força para perfis, fios e cabos de comprimento não infinito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
-Considera-se em todos os casos que a incidência do vento é normal no eixo longitudinal das peças. Quando os coeficientes de força dependem do valor do parâmetro [([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf), deve verificar-se para que valores da pressão dinâmica se obtêm as forças mais desfavoráveis.
+Considera-se em todos os casos que a incidência do vento é normal no eixo longitudinal das peças. Quando os coeficientes de força dependem do valor do parâmetro [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf), deve verificar-se para que valores da pressão dinâmica se obtêm as forças mais desfavoráveis.
 
 O cálculo da acção do vento sobre perfis de secção angulosa, de acordo com os coeficientes de força indicados no quadro I-XV, é efectuado decompondo a força global resultante em duas componentes ortogonais F(índice x) e F(índice y), relativamente às quais se definem coeficientes de força parciais (delta)(índice fx) e (delta)(índice fy).
 
@@ -1770,13 +1794,13 @@ Quadro II-I
 
 Coeficientes (mi) para coberturas isoladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Quadro II-II
 
 Coeficientes (mi) para coberturas múltiplas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 ## ANEXO III — Elementos para a quantificação da acção dos sismos
 
@@ -1798,7 +1822,7 @@ Zona C
 
 Águeda, Albergaria-a-Velha, Anadia, Ansião, Arganil, Arouca, Aveiro, Belmonte, Cantanhede, Carregal do Sal, Castanheira de Pêra, Castelo Branco, Coimbra, Condeixa-a-Nova, Covilhã, Estarreja, Figueira da Foz, Figueiró dos Vinhos, Fundão, Góis, Gouveia, Idanha-a-Nova, Ílhavo, Lousã, Mangualde, Manteigas, Mealhada, Mira, Miranda do Corvo, Montemor-o-Velho, Mortágua, Murtosa, Nelas, Oleiros, Oliveira de Azeméis, Oliveira do Bairro, Oliveira de Frades, Oliveira do Hospital, Ovar, Pampilhosa da Serra, Pedrógão Grande, Penamacor, Penacova, Penalva do Castelo, Penela, Poença-a-Nova, Sabugal, Santa Comba Dão, São João da Madeira, São Pedro do Sul, Sertã, Seia, Sever do Vouga, Soure, Tábua, Tondela, Vagos, Vale de Cambra, Vila Nova de Poiares, Vila Velha de Ródão, Viseu e Vouzela.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 Zona D
 
@@ -1826,7 +1850,7 @@ Quadro III-I
 
 Densidades espectrais de potência de aceleração das componentes horizontais para a zona A, S(f)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 NOTAS:
 
@@ -1862,7 +1886,7 @@ ZONA A
 
 TERRENO TIPO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 ESPECTROS DE RESPOSTA
 
@@ -1870,7 +1894,7 @@ ZONA A
 
 TERRENO TIPO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
 
 ESPECTROS DE RESPOSTA
 
@@ -1878,4 +1902,4 @@ ZONA A
 
 TERRENO TIPO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf)

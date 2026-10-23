@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23900/36103611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1983-441528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bebd3fa4b5bbd74744555e11f26bae765fee4b43c23dbffa7ed8b5d011a3ae0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79eeb7710eddac7bd41835e23b0b7bd7e68a9b81262c9172a6c7a9863696e9ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Destacamento de Pessoal
+- Orientador Pedagógico
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599949:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:56Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +126,7 @@ Deste modo, importa uniformizar todas as situações existentes, com referência
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os períodos de destacamento dos orientadores pedagógicos têm a duração de 2 anos, renováveis por iguais períodos, devendo ser uniformizados de acordo com o disposto nas alíneas seguintes:
+Artigo 1.º Os períodos de destacamento dos orientadores pedagógicos têm a duração de 2 anos, renováveis por iguais períodos, devendo ser uniformizados de acordo com o disposto nas alíneas seguintes:
 
 a) O período de destacamento dos orientadores pedagógicos nomeados na vigência do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 31 de Dezembro, termina em 30 de Setembro de 1984 e não será prorrogado;
 
@@ -116,18 +136,18 @@ c) O período de destacamento dos orientadores pedagógicos que termine em 30 de
 
 d) O período de destacamento dos orientadores pedagógicos a nomear para o ano lectivo de 1983-1984 cessa em 30 de Setembro de 1984 e não será prorrogado.
 
-###### Art. 2.º Para o ano lectivo de 1984-1985 e seguintes, o recrutamento dos orientadores pedagógicos será feito exclusivamente por concurso específico, a regulamentar por despacho ministerial.
+Art. 2.º Para o ano lectivo de 1984-1985 e seguintes, o recrutamento dos orientadores pedagógicos será feito exclusivamente por concurso específico, a regulamentar por despacho ministerial.
 
-###### Art. 3.º Ficam revogadas todas as disposições legais que contrariem o disposto no presente diploma.
+Art. 3.º Ficam revogadas todas as disposições legais que contrariem o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - José Augusto Seabra.
 
-**Promulgado em 4 de Outubro de 1983.**
+Promulgado em 4 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Outubro de 1983.**
+Referendado em 7 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

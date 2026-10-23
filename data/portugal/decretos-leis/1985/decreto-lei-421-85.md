@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24300/34813482.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1985-178117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7eb858d2fdd981c44eda36c98b3b5ec0c859018137a578bb7e4879154d332579
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e66b65e7fb32f2d04b829123b71fa5f415f024f7c902abc0339909485710ff55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Nacional de Navegação
+- Companhia Portuguesa de Transportes Marítimos
+- Dívidas ao Estado
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:56Z'
   warnings: []
   errors: []
 ---
@@ -102,20 +122,20 @@ Em termos de segurança total importará, todavia, a cobertura legal das situaç
 
 Assim, visto o disposto no artigo 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É de 10 dias, a contar da data em que tenha efectuado pagamentos nos termos dos artigos 10.º n.º 2, dos Decretos-Leis n.os [137/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1985-152333) e [138/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1985-152336), de 3 de Maio, o prazo para o Estado reclamar os seus créditos sobre os patrimónios da Companhia de Transportes Marítimos (CTM) ou da Companhia Nacional de Navegação (CNN), quando aquela data coincida com os termos dos prazos fixados nos artigos 3.º n.º 1, dos mesmos diplomas legais ou lhe seja posterior.
+Artigo 1.º - 1 - É de 10 dias, a contar da data em que tenha efectuado pagamentos nos termos dos artigos 10.º n.º 2, dos Decretos-Leis n.os [137/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1985-152333) e [138/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1985-152336), de 3 de Maio, o prazo para o Estado reclamar os seus créditos sobre os patrimónios da Companhia de Transportes Marítimos (CTM) ou da Companhia Nacional de Navegação (CNN), quando aquela data coincida com os termos dos prazos fixados nos artigos 3.º n.º 1, dos mesmos diplomas legais ou lhe seja posterior.
 
 2 - O prazo referido no número anterior para pagamentos efectuados entre a data em que terminam os prazos fixados nos artigos 3.º, n.º 1, dos diplomas nele referidos e a entrada em vigor deste decreto-lei conta-se a partir desta última data.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - José de Almeida Serra.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

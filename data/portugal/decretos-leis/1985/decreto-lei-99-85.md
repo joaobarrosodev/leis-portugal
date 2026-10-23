@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/08100/09610963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1985-325553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d233b664bbbd2b34fffcac15bfbfa85151b736e64fd1611b8092ab944ddf3a77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93d58b03c529ce9d3e051e8ccee03f766436db982bad62be420c74608585a678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Ministros para os Assuntos Económicos
+- Empresa Pública
+- Orgânica
+- Secretariado Permanente para as Empresas Públicas
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662475:por
+  label: "Extinto o Secretariado Permanente para as Empresas Públicas (SPEP), pelo DEC LEI.99/87.05.03.1987.MF, DR.IS [53]\
+    \ de 05.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1987-662475
+  date: '1987-03-05'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:29Z'
   warnings: []
   errors: []
 ---
@@ -98,33 +113,33 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o Secretariado Permanente para as Empresas Públicas, que se regerá pelo estatuto que fica anexo ao presente decreto-lei e que dele faz parte integrante.
+Artigo 1.º É criado o Secretariado Permanente para as Empresas Públicas, que se regerá pelo estatuto que fica anexo ao presente decreto-lei e que dele faz parte integrante.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins - Carlos Alberto Melancia - José de Almeida Serra.
 
-**Promulgado em 21 de Março de 1985.**
+Promulgado em 21 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Março de 1985.**
+Referendado em 25 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Estatuto do Secretariado Permanente para as Empresas Públicas
 
 ### CAPÍTULO I — Denominação, natureza e sede
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Denominação e natureza)
 
 O Secretariado Permanente para as Empresas Públicas, abreviadamente designado, no presente Estatuto, por Secretariado, é um instituto público dotado de personalidade jurídica de direito público, com autonomia administrativa e financeira.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Dependência hierárquica)
 
@@ -140,7 +155,7 @@ c) Proceder à inspecção sobre a actividade do Secretariado.
 
 3 - As relações entre o Secretariado e o Conselho de Ministros para os Assuntos Económicos processam-se através do Ministro das Finanças e do Plano.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Sede e duração)
 
@@ -148,7 +163,7 @@ O Secretariado terá a sua sede em Lisboa e existirá por tempo indeterminado.
 
 ### CAPÍTULO II — Atribuições e competências
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Atribuições)
 
@@ -182,7 +197,7 @@ c) Dar apoio à elaboração de programas de reestruturação;
 
 d) Colaborar na definição das políticas de preços e salarial.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Competência)
 
@@ -200,7 +215,7 @@ e) Promover a realização de reuniões sectoriais para análise de problemas co
 
 ### CAPÍTULO III — Conselho directivo
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Composição, nomeação e mandato)
 
@@ -212,13 +227,13 @@ e) Promover a realização de reuniões sectoriais para análise de problemas co
 
 4 - Em caso de substituição de qualquer membro do conselho directivo no decurso de um mandato, a respectiva nomeação é feita apenas para o período em falta.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Estatuto)
 
 O Conselho de Ministros fixará, por resolução, o estatuto dos membros do conselho directivo, nomeadamente no que respeita ao regime de remuneração e prestação de trabalho.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Competência)
 
@@ -238,7 +253,7 @@ f) Delegar poderes e constituir mandatários;
 
 g) Tornar todas as deliberações compreendidas na competência do Secretariado, prevista na lei ou no presente Estatuto, e praticar todos os demais actos necessários ao cumprimento integral e eficiente das atribuições do Secretariado.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Funcionamento)
 
@@ -250,7 +265,7 @@ g) Tornar todas as deliberações compreendidas na competência do Secretariado,
 
 4 - Quando o impedimento de qualquer membro do conselho se prolongar em termos de prejudicar o seu normal funcionamento, declarar-se-á aberta vaga, a preencher nos termos do n.º 4 do artigo 6.º
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Vinculação do Secretariado)
 
@@ -258,7 +273,7 @@ Para obrigar o Secretariado é necessária e suficiente a assinatura de 2 membro
 
 ### CAPÍTULO IV — Pessoal
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Estatuto)
 
@@ -268,7 +283,7 @@ Para obrigar o Secretariado é necessária e suficiente a assinatura de 2 membro
 
 ### CAPÍTULO V — Património, receitas e despesas
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Património)
 
@@ -276,7 +291,7 @@ Para obrigar o Secretariado é necessária e suficiente a assinatura de 2 membro
 
 2 - São vedadas ao Secretariado a aquisição e a detenção de quaisquer participações financeiras.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Receitas e despesas)
 
@@ -294,10 +309,10 @@ b) Os custos de aquisição e manutenção dos bens ou serviços que o mesmo ten
 
 ### CAPÍTULO VI — Gestão patrimonial e financeira
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Regime aplicável)
 
 A gestão patrimonial e financeira do Secretariado, incluindo a organização e execução da sua contabilidade, regula-se pelas normas aplicáveis às empresas públicas.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.

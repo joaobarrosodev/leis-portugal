@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14300/15011502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1986-228468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05fb67f4c869aa19323d62d97f9d2774ba0a6c18d5dfd90a4b91c99fb6a6e9f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a640c275a6a125e0f63e327973612e8ff1ea6bfacf348dfbfff3312106f12e56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Transporte de Mercadorias
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:564672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535657:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:564672:por
+  label: "Revogado pelo DEC LEI.366/90.24.11.1990.MOPTC, DR.IS [272] de 24.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1990-564672
+  date: '1990-11-24'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:37Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +128,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 25.º, 35.º, 42.º, 45.º e 47.º do [Decreto-Lei n.º 175/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1980-474570), de 29 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 25.º, 35.º, 42.º, 45.º e 47.º do [Decreto-Lei n.º 175/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1980-474570), de 29 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 25.º — (Guia de transporte)
 
@@ -177,7 +192,7 @@ b) Condenação pela prática de qualquer das infracções previstas no n.º 4 d
 
 2 - A inibição prevista no número anterior aplica-se igualmente às pessoas que assegurem capacidade de exercício profissional a empresas em nome individual.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 175/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1980-474570), de 29 de Maio, o artigo 64.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 175/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1980-474570), de 29 de Maio, o artigo 64.º-A, com a seguinte redacção:
 
 ###### Artigo 64.º-A — (Regimes especiais)
 
@@ -187,18 +202,18 @@ b) Condenação pela prática de qualquer das infracções previstas no n.º 4 d
 
 3 - A definição dos tipos de transporte previstos no n.º 1, bem como a fixação das respectivas condições de licenciamento, serão objecto de despacho do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 3.º Os prazos estabelecidos no n.º 3 do artigo 57.º e no artigo 58.º do [Decreto-Lei n.º 175/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1980-474570), de 29 de Maio, são prorrogados até 31 de Dezembro de 1986 e 31 de Dezembro de 1987, respectivamente.
+Art. 3.º Os prazos estabelecidos no n.º 3 do artigo 57.º e no artigo 58.º do [Decreto-Lei n.º 175/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1980-474570), de 29 de Maio, são prorrogados até 31 de Dezembro de 1986 e 31 de Dezembro de 1987, respectivamente.
 
-###### Art. 4.º As disposições deste diploma produzem efeitos a partir de 1 de Janeiro de 1986.
+Art. 4.º As disposições deste diploma produzem efeitos a partir de 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 5 de Junho de 1986.**
+Promulgado em 5 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1986.**
+Referendado em 12 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

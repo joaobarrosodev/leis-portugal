@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 48/1983, 2º Suplemento, Série I de 1983-02-28
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 708-(57) a 708-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04802/00570060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-j-1983-401324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72652ae3ef3065355344841a80c25e5af7f4dce5b6f13784ec4710277a42923c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f3f5a831afd6e958675c361986941be2952fd1c7bd3e155572a796b9241ff0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
+- Imposto Complementar
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462196:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316343:por
+  label: Rectificado pela DECL.DD5785.23.06.1983.PCM, DR.IS [148-2.º Supl] de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316343
+  date: '1983-06-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:29Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +143,9 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 17.º, n.º 1, alíneas a) a h) e j) a l), e n.º 2, da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 11.º, 15.º, 21.º-A, 25.º-A, 28.º, 29.º, 30.º, 33.º, 88.º, 103.º-B, 124.º e 125.º do Código do Imposto Complementar passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 11.º, 15.º, 21.º-A, 25.º-A, 28.º, 29.º, 30.º, 33.º, 88.º, 103.º-B, 124.º e 125.º do Código do Imposto Complementar passam a ter a seguinte redacção:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 1.º ...
 
@@ -122,7 +163,7 @@ z''''') Os subsídios de refeição abonados aos servidores do Estado e, bem ass
 
 ...
 
-###### Art. 11.º Os titulares de rendimentos abrangidos pelo artigo 3.º apresentarão, nos meses de Junho e Julho, ou, no caso de auferirem rendimentos da indústria agrícola ou da actividade comercial ou industrial, até 15 de Outubro, a declaração modelo n.º 1, quando os rendimentos do ano anterior não isentos de imposto complementar, apurados de harmonia com o disposto nos artigos 15.º e 17.º, excedam no total os seguintes quantitativos:
+Art. 11.º Os titulares de rendimentos abrangidos pelo artigo 3.º apresentarão, nos meses de Junho e Julho, ou, no caso de auferirem rendimentos da indústria agrícola ou da actividade comercial ou industrial, até 15 de Outubro, a declaração modelo n.º 1, quando os rendimentos do ano anterior não isentos de imposto complementar, apurados de harmonia com o disposto nos artigos 15.º e 17.º, excedam no total os seguintes quantitativos:
 
 1.º ...
 
@@ -152,7 +193,7 @@ b) 150000$00, sendo casados e não separados judicialmente de pessoas e bens.
 
 ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 1.ª ...
 
@@ -182,15 +223,15 @@ c) As importâncias dos abonos relativos à situação de reserva, das pensões 
 
 ...
 
-###### Art. 21.º-A As instituições de crédito em que se encontrem depositados títulos referidos nos artigos 2.º e 32.º, n.º 1, do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, enviarão ao Banco de Portugal relação dos respectivos titulares à data da colocação à sua disposição dos rendimentos a que tiverem direito, no prazo de 15 dias, a contar dessa data.
+Art. 21.º-A As instituições de crédito em que se encontrem depositados títulos referidos nos artigos 2.º e 32.º, n.º 1, do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, enviarão ao Banco de Portugal relação dos respectivos titulares à data da colocação à sua disposição dos rendimentos a que tiverem direito, no prazo de 15 dias, a contar dessa data.
 
 ...
 
-###### Art. 25.º-A O Banco de Portugal enviará, até 30 de Abril de cada ano, à Repartição Central do Imposto Complementar de Lisboa relações nominais modelo n.º 5-A, em duplicado, contendo as importâncias dos rendimentos dos títulos referidos nos artigos 2.º e 32.º, n.º 1, do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, colocados à disposição dos seus titulares no ano anterior, com exclusão dos rendimentos dos títulos expressos ou pagáveis em moeda estrangeira, emitidos por entidades com sede no território do continente e dos arquipélagos dos Açores e da Madeira, os quais serão incluídos nas relações a que se refere o artigo 24.º
+Art. 25.º-A O Banco de Portugal enviará, até 30 de Abril de cada ano, à Repartição Central do Imposto Complementar de Lisboa relações nominais modelo n.º 5-A, em duplicado, contendo as importâncias dos rendimentos dos títulos referidos nos artigos 2.º e 32.º, n.º 1, do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, colocados à disposição dos seus titulares no ano anterior, com exclusão dos rendimentos dos títulos expressos ou pagáveis em moeda estrangeira, emitidos por entidades com sede no território do continente e dos arquipélagos dos Açores e da Madeira, os quais serão incluídos nas relações a que se refere o artigo 24.º
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 a) ...
 
@@ -216,7 +257,7 @@ f) ...
 
 § 4.º ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 a) ...
 
@@ -256,7 +297,7 @@ b) ...
 
 § 10.º Nos casos em que o número de dependentes referidos nos n.os 3) e 4) da alínea a) for igual ou superior a cinco, o total das correspondentes deduções não será inferior a 150000$00.
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 a) ...
 
@@ -280,9 +321,9 @@ f) ...
 
 § 3.º ...
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00570060.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00570060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00570060.pdf)
 
 § 1.º ...
 
@@ -290,7 +331,7 @@ f) ...
 
 ...
 
-###### Art. 88.º ...
+Art. 88.º ...
 
 § 1.º A declaração será apresentada em qualquer repartição de finanças, salvo sendo a entrega fora do prazo estabelecido, caso em que esta só poderá ser efectuada na repartição de finanças do concelho ou bairro da sede do contribuinte ou, sendo esta em Lisboa, na Repartição Central do Imposto Complementar de Lisboa.
 
@@ -308,15 +349,15 @@ f) ...
 
 ...
 
-###### Art. 103.º-B As repartições de finanças referidas nos §§ 1.º e 2.º do artigo 88.º que tiverem recebido declarações modelo n.º 6 deverão enviá-las, com os correspondentes documentos, incluindo, quando for caso disso, um exemplar do conhecimento de cobrança, averbado da entrega do imposto, em prazo a fixar pelo Ministro de Estado e das Finanças e do Plano, ao departamento da Direcção-Geral das Contribuições e Impostos encarregado do tratamento automático dos respectivos dados.
+Art. 103.º-B As repartições de finanças referidas nos §§ 1.º e 2.º do artigo 88.º que tiverem recebido declarações modelo n.º 6 deverão enviá-las, com os correspondentes documentos, incluindo, quando for caso disso, um exemplar do conhecimento de cobrança, averbado da entrega do imposto, em prazo a fixar pelo Ministro de Estado e das Finanças e do Plano, ao departamento da Direcção-Geral das Contribuições e Impostos encarregado do tratamento automático dos respectivos dados.
 
 ...
 
-###### Art. 124.º Os rendimentos, líquidos do imposto de capitais, secção B, das acções ao portador, não registadas nem depositadas, nos termos do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, e das obrigações ao portador, não registadas, ficam sujeitos a imposto complementar pela taxa de 24%.
+Art. 124.º Os rendimentos, líquidos do imposto de capitais, secção B, das acções ao portador, não registadas nem depositadas, nos termos do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, e das obrigações ao portador, não registadas, ficam sujeitos a imposto complementar pela taxa de 24%.
 
 § único. Para efeitos do presente artigo, atender-se-á à situação em que os títulos se encontrem à data da colocação dos dividendos à disposição dos seus titulares ou à data do vencimento dos juros, consoante o caso.
 
-###### Art. 125.º ...
+Art. 125.º ...
 
 § único. ...
 
@@ -328,19 +369,19 @@ c) ...
 
 d) Data da colocação dos dividendos à disposição dos seus titulares, ou do vencimento dos juros das obrigações, consoante o caso.
 
-###### Art. 2.º É eliminado o § único do artigo 103.º-B do Código do Imposto Complementar.
+Art. 2.º É eliminado o § único do artigo 103.º-B do Código do Imposto Complementar.
 
-###### Art. 3.º O corpo do artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, com a redacção dada pelo [Decreto-Lei n.º 275/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1979-377903), de 6 de Agosto, passa a ter a seguinte redacção:
+Art. 3.º O corpo do artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, com a redacção dada pelo [Decreto-Lei n.º 275/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1979-377903), de 6 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 3.º Enquanto não for revisto o regime especial da prestação de serviço ao Estado e às autarquias locais, as importâncias referidas na alínea b) da regra 4.ª do artigo 15.º do Código isentas de imposto profissional, bem como os abonos relativos à situação de reserva e as pensões de aposentação ou reforma e de sobrevivência resultantes da prestação de serviço às entidades referidas na mesma alínea, entrarão no englobamento apenas para determinação das taxas a aplicar aos restantes rendimentos e, bem assim, da sujeição do contribuinte ao imposto.
+Art. 3.º Enquanto não for revisto o regime especial da prestação de serviço ao Estado e às autarquias locais, as importâncias referidas na alínea b) da regra 4.ª do artigo 15.º do Código isentas de imposto profissional, bem como os abonos relativos à situação de reserva e as pensões de aposentação ou reforma e de sobrevivência resultantes da prestação de serviço às entidades referidas na mesma alínea, entrarão no englobamento apenas para determinação das taxas a aplicar aos restantes rendimentos e, bem assim, da sujeição do contribuinte ao imposto.
 
 ...
 
-###### Art. 4.º As alterações introduzidas por este diploma nos artigos 88.º, § 1.º, e 103.º-B do Código do Imposto Complementar não prejudicam a aplicação do disposto no [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 383/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1982-375806), de 15 de Setembro.
+Art. 4.º As alterações introduzidas por este diploma nos artigos 88.º, § 1.º, e 103.º-B do Código do Imposto Complementar não prejudicam a aplicação do disposto no [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 383/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1982-375806), de 15 de Setembro.
 
-###### Art. 5.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1982 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se, nesse caso, o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 2% multiplicado pelo número de meses, incluindo o do pagamento, que antecedem o mês em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código, com o máximo de 6%.
+Art. 5.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1982 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se, nesse caso, o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 2% multiplicado pelo número de meses, incluindo o do pagamento, que antecedem o mês em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código, com o máximo de 6%.
 
-###### Art. 6.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à repartição de finanças do concelho ou bairro da respectiva residência ou, sendo esta em Lisboa ou fora do território do continente e arquipélagos dos Açores e da Madeira, à Repartição Central do Imposto Complementar de Lisboa, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo do recibo e demais documentos, quando for caso disso.
+Art. 6.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à repartição de finanças do concelho ou bairro da respectiva residência ou, sendo esta em Lisboa ou fora do território do continente e arquipélagos dos Açores e da Madeira, à Repartição Central do Imposto Complementar de Lisboa, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo do recibo e demais documentos, quando for caso disso.
 
 2 - As repartições referidas no número precedente ao receberem a declaração modelo n.º 1 e anexos, os documentos justificativos e o cheque ou vale de correio deverão proceder à respectiva conferência, processar o conhecimento e promover a cobrança, apresentando, no final de cada dia, na competente tesouraria, os conhecimentos e respectivos meios de pagamento.
 
@@ -348,16 +389,16 @@ d) Data da colocação dos dividendos à disposição dos seus titulares, ou do 
 
 4 - O pagamento efectuado nos termos do presente artigo não impede a eventual correcção do imposto a mais liquidado, devendo aplicar-se o estabelecimento no artigo 61.º do Código do Imposto Complementar.
 
-###### Art. 7.º As alterações introduzidas pelo presente diploma no artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, e nos artigos 8.º, 11.º, 15.º 28.º, 29.º, 30.º e 33.º do Código do Imposto Complementar são aplicáveis ao imposto respeitante aos anos de 1982 e seguintes.
+Art. 7.º As alterações introduzidas pelo presente diploma no artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, e nos artigos 8.º, 11.º, 15.º 28.º, 29.º, 30.º e 33.º do Código do Imposto Complementar são aplicáveis ao imposto respeitante aos anos de 1982 e seguintes.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 28 de Fevereiro de 1983.**
+Promulgado em 28 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Fevereiro de 1983.**
+Referendado em 28 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

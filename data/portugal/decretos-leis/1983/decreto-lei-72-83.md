@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03100/03700371.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1983-310982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4101cbeb2af3e029f6e129a0fccd50131a06d781cd65aa5135c65b8744b3d7cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15e852f0f4b97ba233203608eee490c42ef16f772f8d7c49ea0a717972a9e1aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BEI
+- Contrato de Risco de Câmbio
+- Sociedade Portuguesa de Investimentos
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:40Z'
   warnings: []
   errors: []
 ---
@@ -99,26 +107,26 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a celebrar com a Sociedade Portuguesa de Investimentos, nas condições aprovadas pelo presente decreto-lei, um contrato de risco de câmbio associado ao empréstimo, em várias moedas e no montante equivalente a 5000000 de ECUs (unidades de conta europeia), a conceder pelo Banco Europeu de Investimentos (BEI) à Sociedade Portuguesa de Investimentos, com vista ao financiamento de projectos nos sectores industrial e turístico, a levar a cabo por pequenas e médias empresas.
+Artigo 1.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a celebrar com a Sociedade Portuguesa de Investimentos, nas condições aprovadas pelo presente decreto-lei, um contrato de risco de câmbio associado ao empréstimo, em várias moedas e no montante equivalente a 5000000 de ECUs (unidades de conta europeia), a conceder pelo Banco Europeu de Investimentos (BEI) à Sociedade Portuguesa de Investimentos, com vista ao financiamento de projectos nos sectores industrial e turístico, a levar a cabo por pequenas e médias empresas.
 
-###### Art. 2.º - 1 - O Estado suporta os encargos decorrentes das variações cambiais reflectidas no contravalor em escudos do serviço do empréstimo concedido pelo BEI à Sociedade Portuguesa de Investimentos resultantes da evolução desfavorável da moeda nacional face às moedas do empréstimo verificada entre as datas da utilização daquele financiamento e as datas de vencimento dos correspondentes encargos.
+Art. 2.º - 1 - O Estado suporta os encargos decorrentes das variações cambiais reflectidas no contravalor em escudos do serviço do empréstimo concedido pelo BEI à Sociedade Portuguesa de Investimentos resultantes da evolução desfavorável da moeda nacional face às moedas do empréstimo verificada entre as datas da utilização daquele financiamento e as datas de vencimento dos correspondentes encargos.
 
 2 - No caso de a evolução da moeda nacional face às moedas do empréstimo do BEI ser favorável entre as datas da utilização do financiamento e as datas do vencimento dos correspondentes encargos, a Sociedade Portuguesa de Investimentos promoverá a entrega ao Estado da importância resultante da variação cambial reflectida no contravalor em escudos do serviço de dívida.
 
-###### Art. 3.º Semestralmente, a Sociedade Portuguesa de Investimentos entregará ao Estado a quantia correspondente à diferença entre as remunerações dos financiamentos por ela concedidos por aplicação do empréstimo do BEI e o custo efectivo deste empréstimo, deduzida de uma margem de 3%.
+Art. 3.º Semestralmente, a Sociedade Portuguesa de Investimentos entregará ao Estado a quantia correspondente à diferença entre as remunerações dos financiamentos por ela concedidos por aplicação do empréstimo do BEI e o custo efectivo deste empréstimo, deduzida de uma margem de 3%.
 
-###### Art. 4.º Os recebimentos e os pagamentos que tiverem lugar ao abrigo do presente decreto-lei serão contabilizados numa rubrica de operações de tesouraria a criar para o efeito.
+Art. 4.º Os recebimentos e os pagamentos que tiverem lugar ao abrigo do presente decreto-lei serão contabilizados numa rubrica de operações de tesouraria a criar para o efeito.
 
-###### Art. 5.º Fica a Direcção-Geral do Tesouro autorizada a inscrever uma dotação no seu orçamento com vista a assegurar o pagamento dos encargos assumidos pelo Estado por força do n.º 1 do artigo 2.º, na parte não coberta pelas entregas da Sociedade Portuguesa de Investimentos, a realizar ao abrigo deste diploma.
+Art. 5.º Fica a Direcção-Geral do Tesouro autorizada a inscrever uma dotação no seu orçamento com vista a assegurar o pagamento dos encargos assumidos pelo Estado por força do n.º 1 do artigo 2.º, na parte não coberta pelas entregas da Sociedade Portuguesa de Investimentos, a realizar ao abrigo deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

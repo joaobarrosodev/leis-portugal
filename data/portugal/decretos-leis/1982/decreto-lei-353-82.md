@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20500/26282629.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1982-374576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0715f30784f301a292d0a749d5983d84db6e97be43bf9042940777070ea05e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aa10c03744ce3dde0147ea428b8fe51db4d54f579d531b486df57a56d0462f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANO Internacional do Deficiente
+- Moeda Comemorativa
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307783:por
+  label: "Alterado o art. 2º pelo DEC LEI.22/83.1983.01.22.MFP DR.IS [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-1983-307783
+  date: '1983-01-22'
+- type: cites
+  target: pt:dre:276625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:30Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +125,7 @@ Assim, e com o acordo do Banco de Portugal, nos termos do artigo 12.º, n.º 2, 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada uma colecção de moedas comemorativas do Ano Internacional do Deficiente, constituída por 2 moedas metálicas de valores faciais de 25$00 e 100$00.
+Artigo 1.º - 1 - É criada uma colecção de moedas comemorativas do Ano Internacional do Deficiente, constituída por 2 moedas metálicas de valores faciais de 25$00 e 100$00.
 
 2 - Dos lucros da amoedação reverte para o Ministério dos Assuntos Sociais a importância de 50000 contos, destinada à criação de programas de reabilitação de deficientes.
 
@@ -107,7 +135,7 @@ Moeda de 25$00 - liga de 75% de cobre e 25% de níquel; diâmetro: 28,5 mm; peso
 
 Moeda de 100$00 - liga de 75% de cobre e 25% de níquel; diâmetro: 34 mm; peso: 16,5 g; tolerância no título e no peso: (mais ou menos)1,5%; bordo serrilhado.
 
-###### Art. 2.º - 1 - Os desenhos dos anversos apresentam no centro do campo o escudo das armas nacionais, orlado na parte superior pela legenda «República Portuguesa» e na parte inferior pela inscrição do respectivo valor facial em algarismos: 25$00 e 100$00.
+Art. 2.º - 1 - Os desenhos dos anversos apresentam no centro do campo o escudo das armas nacionais, orlado na parte superior pela legenda «República Portuguesa» e na parte inferior pela inscrição do respectivo valor facial em algarismos: 25$00 e 100$00.
 
 2 - Os reversos ostentam a legenda circular comum, na orla superior «Ano Internacional do Deficiente 1981» em 2 linhas e na orla inferior «Trabalho-Reabilitação».
 
@@ -117,14 +145,14 @@ Na moeda de 25$00 - a efígie de Jacob Rodrigues Pereira interrompendo a legenda
 
 Na moeda de 100$00 - a efígie de António Feliciano de Castilho interrompendo a legenda na orla inferior e, à esquerda, o seu nome e as eras «1800-1885» em 6 linhas.
 
-###### Art. 3.º É autorizada a Imprensa Nacional-Casa da Moeda, E. P., a cunhar, até aos limites de 2000000 e 1000000, respectivamente, a moeda comemorativa do Ano Internacional do Deficiente, dos valores faciais de 25$00 e 100$00.
+Art. 3.º É autorizada a Imprensa Nacional-Casa da Moeda, E. P., a cunhar, até aos limites de 2000000 e 1000000, respectivamente, a moeda comemorativa do Ano Internacional do Deficiente, dos valores faciais de 25$00 e 100$00.
 
-###### Art. 4.º As moedas criadas por este decreto-lei têm curso legal, mas ninguém pode ser obrigado a receber, em qualquer pagamento, mais de 2000$00 ou 4000$00, conforme os casos, em moedas de 25$00 ou 100$00.
+Art. 4.º As moedas criadas por este decreto-lei têm curso legal, mas ninguém pode ser obrigado a receber, em qualquer pagamento, mais de 2000$00 ou 4000$00, conforme os casos, em moedas de 25$00 ou 100$00.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Agosto de 1982.**
+Promulgado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

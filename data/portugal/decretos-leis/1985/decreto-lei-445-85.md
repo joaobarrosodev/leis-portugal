@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 245/1985, 1º Suplemento, Série I de 1985-10-24
   number: '245'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3528-(9) a 3528-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24501/00090029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,244 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1985-141217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93cdb88c7f57be712fb470c4b0df06874263bd6cc371cf6917ceafedd71f679d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 405eaa144886b5bb238ebbd24463dac40244883a4094c5b71c7c9a754cb51dd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Oncologia
+- Coimbra
+- Conselho de Oncologia
+- Definição de Competências
+- Escola Técnica de Enfermagem
+- Instituto Português de Oncologia de Francisco Gentil
+- Lisboa
+- Orgânica
+- Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:527056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218961:por
+  label: "Extintos os lugares constantes dos mapas anexos ao presente diploma, na parte relativa ao pessoal técnico auxiliar\
+    \ dos serviços complementares de diagnóstico e terapêutica dos Centros Regionais de Lisboa, Porto e Coimbra, pela PORT.478/86.29.08.1986.MF,\
+    \ DR.IS [198] de 29.08.1986, com excepção dos mapas I e II anexos ao referido diploma, que apenas serão extintos à medida\
+    \ que vagarem \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/478-1986-218961
+  date: '1986-08-29'
+- type: amended_by
+  target: pt:dre:547610:por
+  label: "Reconvertida a Escola Técnica de Enfermagem, em Escola Superior de Enfermagem de Francisco Gentil, pela PORT.821/89.15.09.1989.ME,\
+    \ DR.IS [213] de 15.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/821-1989-547610
+  date: '1989-09-15'
+- type: amended_by
+  target: pt:dre:680633:por
+  label: "Alterado o quadro da Escola Superior de Enfermagem de Francisco Gentil, pelo DEC LEI.290/91.10.08.1991.MS, DR.IS-A\
+    \ [183] de 10.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1991-680633
+  date: '1991-08-10'
+- type: amended_by
+  target: pt:dre:288806:por
+  label: "Alterado o quadro de pessoal do Instituto Português de Oncologia de Francisco Gentil, Centro Regional do Porto,\
+    \ pela PORT.1050/91.14.10.1991.MF, DR.IS-B [236] de 14.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1050-1991-288806
+  date: '1991-10-14'
+- type: amended_by
+  target: pt:dre:150931:por
+  label: "Substituído o quadro de pessoal do Centro Regional de Lisboa, na parte referente ao pessoal de enfermagem, pela\
+    \ PORT.59/92.31.01.1992.MF, DR.IS-B [26] de 31.01.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-1992-150931
+  date: '1992-01-31'
+- type: amended_by
+  target: pt:dre:526862:por
+  label: "Alterado o quadro de pessoal do Centro Regional de Coimbra, pela PORT.390/92.11.05.1992.MF, DR.IS-B [108] de 11.05.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/390-1992-526862
+  date: '1992-05-11'
+- type: amended_by
+  target: pt:dre:517207:por
+  label: "Substituído o quadro de pessoal médico do Centro Regional de Coimbra, pela PORT.447/92.29.05.1992.MF, DR.IS-B [124]\
+    \ de 29.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/447-1992-517207
+  date: '1992-05-29'
+- type: amended_by
+  target: pt:dre:274823:por
+  label: "Substituído o quadro de pessoal do Centro Regional do Porto, na parte referente ao pessoal médico, pela PORT.754/92.03.08.1992.MF,\
+    \ DR.IS-B [177] de 03.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/754-1992-274823
+  date: '1992-08-03'
+- type: amended_by
+  target: pt:dre:618091:por
+  label: "Substituído o quadro de pessoal da Escola Superior de Enfermagem de Francisco Gentil, na parte relativa às áreas\
+    \ funcionais de biblioteca, arquivo e documentação, pela PORT.1120/92.07.12.1992.MF, DR.IS-B [282] de 07.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1120-1992-618091
+  date: '1992-12-07'
+- type: amended_by
+  target: pt:dre:600696:por
+  label: "Substituído o quadro de pessoal do Centro Regional, na parte referente às carreiras técnica de serviço social e\
+    \ técnica superior de saúde, pela PORT.109/93.29.01.1993.MF, DR.IS-B [24] de 29.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-1993-600696
+  date: '1993-01-29'
+- type: amended_by
+  target: pt:dre:647684:por
+  label: "Substituído o quadro de pessoal do Centro Regional de Coimbra, na parte relativa à carreira técnica superior de\
+    \ saúde, pela PORT.135/93.06.02.1993.MF, DR.IS-B [31] de 06.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-1993-647684
+  date: '1993-02-06'
+- type: amended_by
+  target: pt:dre:649149:por
+  label: "Alterado o quadro de pessoal do Centro Regional de Lisboa, na parte referente ao pessoal técnico de serviço social,\
+    \ pela PORT.174/93.16.02.1993.MF, DR.IS-B [29] de 16.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/174-1993-649149
+  date: '1993-02-16'
+- type: amended_by
+  target: pt:dre:681669:por
+  label: "Alterado o quadro de pessoal do Centro Regional de Oncologia de Coimbra, pela PORT.1228/93.26.11.1993.MF, DR.IS-B\
+    \ [277] de 26.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1228-1993-681669
+  date: '1993-11-26'
+- type: amended_by
+  target: pt:dre:599893:por
+  label: "Substituído o quadro de pessoal do Centro Regional do Porto do Instituto Português de Oncologia de Francisco Gentil,\
+    \ aprovado pelo presente diploma, pela PORT.877/94.30.09.1994.MF, DR.IS-B [227] de 30.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/877-1994-599893
+  date: '1994-09-30'
+- type: amended_by
+  target: pt:dre:527056:por
+  label: "Substituído o quadro de pessoal do Centro Regional de Lisboa, pela PORT.525/95.01.06.1995.MF, DR.IS-B [127] de 01.06.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/525-1995-527056
+  date: '1995-06-01'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:361157:por
+  label: "Revogado o artigo 25.º, pelo DEC LEI.480/88.23.12.1988.MS, DR.IS [295] de 23.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/480-1988-361157
+  date: '1988-12-23'
+- type: repealed_by
+  target: pt:dre:597569:por
+  label: "Revogado pelo DEC LEI.273/92.03.12.1992.MS, DR.IS-A [279] de 03.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1992-597569
+  date: '1992-12-03'
 article_structure:
   article_count: 38
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:16Z'
   warnings: []
   errors: []
 ---
@@ -708,16 +912,16 @@ O presente decreto-lei entrará em vigor no primeiro dia do mês seguinte ao da 
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - António Manuel Maldonado Gonelha.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24501/00090029.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24501/00090029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24501/00090029.pdf)

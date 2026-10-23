@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/06700/06330635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1982-609135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c5ca6300dabd8965079e71c1f8139f4e050d1833f8a765fb07607832637b8b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13e4a0878c30b3b59e0c29497fcaeee4011c4067feba194e3090f9441082d91c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Gestão de Empresas
+- Gestor Público
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:474478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 7 E 8 PELO DEC LEI 133/86 DE 12-JUN DR.IS [133].\0 [133]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-06-12'
+- type: cites
+  target: pt:dre:147380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382777:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:474478:por
+  label: "Revogado pelo DEC LEI.94-B/98.1998.04.17.MF, DR.IS-A [90]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-b-1998-474478
+  date: '1998-04-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:55Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +126,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º O presente decreto-lei aplica-se:
+Artigo 1.º O presente decreto-lei aplica-se:
 
 a) Às empresas de seguros e resseguros, quer se trate de empresas públicas ou de companhias com capital privado, às agências-gerais de companhias estrangeiras, às mútuas e às cooperativas de seguros, adiante designadas, genericamente, por «empresas»;
 
@@ -116,7 +138,7 @@ c) Aos mediadores de seguros.
 
 #### SECÇÃO I — Das infracções
 
-###### Art. 2.º São puníveis, nos termos dos artigos seguintes, como transgressões a disposições legislativas ou regulamentares as seguintes infracções:
+Art. 2.º São puníveis, nos termos dos artigos seguintes, como transgressões a disposições legislativas ou regulamentares as seguintes infracções:
 
 a) Violação ou inobservância de quaisquer disposições legais e regulamentares, incluindo nestas últimas as emanadas dos organismos de coordenação e de fiscalização, que respeitem às condições de acesso, exploração e exercício da actividade seguradora e resseguradora;
 
@@ -126,7 +148,7 @@ c) Fornecimento de elementos ou documentos falsos ou incompletos às entidades r
 
 #### SECÇÃO II — Das sanções
 
-###### Art. 3.º As transgressões previstas no artigo anterior são passíveis de aplicação das seguintes sanções:
+Art. 3.º As transgressões previstas no artigo anterior são passíveis de aplicação das seguintes sanções:
 
 a) Multa;
 
@@ -136,41 +158,41 @@ c) Revogação, parcial ou total, da autorização.
 
 ##### SUBSECÇÃO I — Da multa
 
-###### Art. 4.º - 1 - Incorre na multa de 100000$00 a 10000000$00 a empresa que, com violação ou inobservância das disposições legais, regulamentares ou normativas em vigor, pratique actos para os quais careça de autorização inicial, celebrando, nomeadamente, um contrato de seguro relativo a um ramo ou modalidade que não esteja autorizada a explorar ou realizando qualquer operação de seguro ou resseguro proibida.
+Art. 4.º - 1 - Incorre na multa de 100000$00 a 10000000$00 a empresa que, com violação ou inobservância das disposições legais, regulamentares ou normativas em vigor, pratique actos para os quais careça de autorização inicial, celebrando, nomeadamente, um contrato de seguro relativo a um ramo ou modalidade que não esteja autorizada a explorar ou realizando qualquer operação de seguro ou resseguro proibida.
 
 2 - Incorre na multa de 50000$00 a 5000000$00 a empresa que, com violação ou inobservância das disposições legais, regulamentares ou normativas em vigor, pratique acto para o qual não disponha da competente autorização.
 
 3 - Incorre na multa de 25000$00 a 2500000$00 a empresa que, com violação ou inobservância das disposições legais, regulamentares ou normativas em vigor, pratique qualquer infracção prevista no artigo 2.º relativamente à qual a lei ou os números anteriores não prevejam pena mais grave.
 
-###### Art. 5.º - 1 - A sanção prevista no artigo anterior é graduada entre os respectivos limites mínimos e máximos em função da gravidade da infracção, dos montantes em causa ou do benefício económico que possa resultar para a própria empresa transgressora.
+Art. 5.º - 1 - A sanção prevista no artigo anterior é graduada entre os respectivos limites mínimos e máximos em função da gravidade da infracção, dos montantes em causa ou do benefício económico que possa resultar para a própria empresa transgressora.
 
 2 - Em caso de acumulação de infracções, dar-se-á a acumulação de multas.
 
-###### Art. 6.º Os limites mínimo e máximo das multas fixados no artigo 4.º são elevados para o dobro em caso de reincidência.
+Art. 6.º Os limites mínimo e máximo das multas fixados no artigo 4.º são elevados para o dobro em caso de reincidência.
 
 ##### SUBSECÇÃO II — Da suspensão e da revogação da autorização
 
-###### Art. 7.º - 1 - A sanção de suspensão temporária de autorização em relação a toda a actividade da empresa ou apenas a um determinado ramo é aplicável a infracções graves que, mesmo praticadas com dolo, não justifiquem a cessação definitiva da actividade ou da exploração do ramo.
+Art. 7.º - 1 - A sanção de suspensão temporária de autorização em relação a toda a actividade da empresa ou apenas a um determinado ramo é aplicável a infracções graves que, mesmo praticadas com dolo, não justifiquem a cessação definitiva da actividade ou da exploração do ramo.
 
 2 - A suspensão prevista no número anterior traduz-se na interdição de celebração de novos contratos durante um lapso de tempo que, consoante a gravidade e natureza da infracção, pode ir de 180 dias a 3 anos, sem prejuízo de, em relação ao ramo «Vida», o ministro da tutela poder determinar um período de interdição mais amplo.
 
-###### Art. 8.º - 1 - A sanção de revogação da autorização em relação a toda a actividade da empresa ou apenas a um determinado ramo é aplicável a infracções graves que, praticadas com dolo, justifiquem a cessação definitiva da actividade ou da exploração do ramo.
+Art. 8.º - 1 - A sanção de revogação da autorização em relação a toda a actividade da empresa ou apenas a um determinado ramo é aplicável a infracções graves que, praticadas com dolo, justifiquem a cessação definitiva da actividade ou da exploração do ramo.
 
 2 - A sanção prevista no número anterior implica a não celebração de contratos novos e a rescisão dos existentes nos respectivos vencimentos.
 
 3 - A revogação total da autorização implicará a dissolução da empresa.
 
-###### Art. 9.º As sanções previstas nos artigos 7.º e 8.º são cumulativas com a aplicação de multas, nos termos dos artigos 4.º a 6.º
+Art. 9.º As sanções previstas nos artigos 7.º e 8.º são cumulativas com a aplicação de multas, nos termos dos artigos 4.º a 6.º
 
 ##### SUBSECÇÃO III — Dos processos de transgressão e da aplicação das sanções
 
-###### Art. 10.º - 1 - As infracções previstas no artigo 2.º serão verificadas pela Inspecção-Geral de Seguros, competindo-lhe igualmente a instauração dos respectivos processos de transgressão.
+Art. 10.º - 1 - As infracções previstas no artigo 2.º serão verificadas pela Inspecção-Geral de Seguros, competindo-lhe igualmente a instauração dos respectivos processos de transgressão.
 
 2 - O Instituto Nacional de Seguros deve participar à Inspecção-Geral de Seguros as infracções de que tiver conhecimento.
 
 3 - A instrução dos processos a que se refere o n.º 1 do presente artigo obedecerá, na parte não especialmente regulada, às normas legais que regem a instrução preparatória em processo penal.
 
-###### Art. 11.º - 1 - Verificada a existência de indícios de transgressão e instaurado o respectivo processo pela Inspecção-Geral de Seguros, proceder-se-á, através de carta registada com aviso de recepção, à notificação do conselho de gestão ou do órgão de administração da empresa arguida, para, no prazo de 10 dias, deduzir, por escrito, a sua defesa, bem como juntar ou requerer os meios de prova que entender.
+Art. 11.º - 1 - Verificada a existência de indícios de transgressão e instaurado o respectivo processo pela Inspecção-Geral de Seguros, proceder-se-á, através de carta registada com aviso de recepção, à notificação do conselho de gestão ou do órgão de administração da empresa arguida, para, no prazo de 10 dias, deduzir, por escrito, a sua defesa, bem como juntar ou requerer os meios de prova que entender.
 
 2 - Se a entidade referida no número anterior se recusar a receber a notificação ou se esta não tiver sido possível, será a mesma feita, por éditos de 10 dias, com 5 de dilação, no Diário da República.
 
@@ -182,13 +204,13 @@ c) Revogação, parcial ou total, da autorização.
 
 6 - No caso de a sanção ser de multa, se não for paga dentro do prazo previsto no n.º 4, será objecto de execução fiscal.
 
-###### Art. 12.º - 1 - A Inspecção-Geral de Seguros, através de circulares, dará conhecimento a toda a actividade seguradora e resseguradora das multas aplicadas.
+Art. 12.º - 1 - A Inspecção-Geral de Seguros, através de circulares, dará conhecimento a toda a actividade seguradora e resseguradora das multas aplicadas.
 
 2 - As sanções de suspensão ou de revogação da autorização constam do despacho do ministro da tutela, publicado no Diário da República.
 
 3 - Em casos justificados poderá ainda o ministro da tutela determinar que as sanções de suspensão ou de revogação da autorização sejam divulgadas pela Inspecção-Geral de Seguros, mediante a sua publicação em 2 jornais diários, a expensas da empresa punida.
 
-###### Art. 13.º Sem prejuízo da aplicação das sanções previstas no presente capítulo, deverá a Inspecção-Geral de Seguros, nos casos em que for aplicável:
+Art. 13.º Sem prejuízo da aplicação das sanções previstas no presente capítulo, deverá a Inspecção-Geral de Seguros, nos casos em que for aplicável:
 
 a) Impor à empresa infractora a rescisão do contrato de seguro irregularmente celebrado, respeitando, para o efeito, os prazos previstos na respectiva apólice;
 
@@ -196,36 +218,36 @@ b) Ordenar à empresa infractora a rectificação de taxas ou condições aplica
 
 ### CAPÍTULO III — Dos gestores das seguradoras e resseguradoras
 
-###### Art. 14.º - 1 - Os gestores ou administradores, os directores ou gerentes das agências-gerais de companhias estrangeiras e os membros dos órgãos de gestão das mútuas e cooperativas de seguros que sejam responsáveis pelas infracções previstas no artigo 2.º incorrem nas sanções de multa e de interdição do exercício das respectivas funções.
+Art. 14.º - 1 - Os gestores ou administradores, os directores ou gerentes das agências-gerais de companhias estrangeiras e os membros dos órgãos de gestão das mútuas e cooperativas de seguros que sejam responsáveis pelas infracções previstas no artigo 2.º incorrem nas sanções de multa e de interdição do exercício das respectivas funções.
 
 2 - Sem prejuízo do disposto no número anterior, os gestores de empresas públicas e participadas pelo Estado do sector segurador deverão ainda observar os deveres gerais ou especiais constantes da legislação específica reguladora das relações de tutela, ficando sujeitos às sanções na mesma previstas.
 
-###### Art. 15.º- 1 - A multa é graduada entre 50000$00 e 200000$00, em função da gravidade da infracção.
+Art. 15.º- 1 - A multa é graduada entre 50000$00 e 200000$00, em função da gravidade da infracção.
 
 2 - Em caso de reincidência, os limites mínimo e máximo fixados no número anterior, são elevados para o dobro.
 
-###### Art. 16.º - 1 - Compete à Inspecção-Geral de Seguros investigar e verificar as responsabilidades dos gestores, nos termos do artigo 14.º, cabendo ao seu inspector-geral propor ao ministro da tutela a aplicação das respectivas sanções.
+Art. 16.º - 1 - Compete à Inspecção-Geral de Seguros investigar e verificar as responsabilidades dos gestores, nos termos do artigo 14.º, cabendo ao seu inspector-geral propor ao ministro da tutela a aplicação das respectivas sanções.
 
 2 - Ao processo referido no n.º 1 são aplicáveis, com as necessárias adaptações, as regras e trâmites previstos nos artigos 10.º e 11.º do presente diploma.
 
 ### CAPÍTULO IV — Dos mediadores de seguros
 
-###### Art. 17.º - 1 - O mediador de seguros que intervenha na celebração de um contrato de seguro relativamente ao qual se tenha verificado a infracção prevista na alínea a) do artigo 2.º, com incidência em condições tarifárias, perde o direito a toda e qualquer comissão decorrente desse contrato.
+Art. 17.º - 1 - O mediador de seguros que intervenha na celebração de um contrato de seguro relativamente ao qual se tenha verificado a infracção prevista na alínea a) do artigo 2.º, com incidência em condições tarifárias, perde o direito a toda e qualquer comissão decorrente desse contrato.
 
 2 - O mediador pode ainda incorrer na sanção de multa, que pode ir até 50 vezes o valor das comissões anuais decorrentes do contrato de seguro em causa.
 
-###### Art. 18.º A investigação e a verificação dos factos referidos no artigo anterior, bem como a aplicação das sanções, competem à Inspecção-Geral de Seguros, nos termos previstos nos artigos 17.º e seguintes do [Decreto-Lei n.º 145/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1979-382777), de 23 de Maio.
+Art. 18.º A investigação e a verificação dos factos referidos no artigo anterior, bem como a aplicação das sanções, competem à Inspecção-Geral de Seguros, nos termos previstos nos artigos 17.º e seguintes do [Decreto-Lei n.º 145/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1979-382777), de 23 de Maio.
 
-###### Art. 19.º A aplicação das sanções previstas no presente capítulo não impede que sejam aplicadas ao mediador quaisquer outras sanções, nos termos do [Decreto-Lei n.º 145/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1979-382777), de 23 de Maio.
+Art. 19.º A aplicação das sanções previstas no presente capítulo não impede que sejam aplicadas ao mediador quaisquer outras sanções, nos termos do [Decreto-Lei n.º 145/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1979-382777), de 23 de Maio.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 20.º As sanções previstas no presente diploma não prejudicam a possibilidade de, nos termos legais em vigor, o Estado intervir na gestão de empresas privadas ou de serem nomeadas comissões administrativas.
+Art. 20.º As sanções previstas no presente diploma não prejudicam a possibilidade de, nos termos legais em vigor, o Estado intervir na gestão de empresas privadas ou de serem nomeadas comissões administrativas.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 9 de Março de 1982.**
+Promulgado em 9 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

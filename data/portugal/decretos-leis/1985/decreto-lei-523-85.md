@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1985, 6º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 4260-(93) a 4260-(94)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30106/00930094.pdf
 entry_into_force_dates: []
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1985-546458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f48df830478dfe6bf940338d4b67f85e8a3dcdd33887dfb9a801e0272668e6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c24ce472a4f48367cd8515041399258238b0a8f0a813ac57fa5fc190acb9de2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Vinha
+- Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:643681:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:175124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651511:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:643681:por
+  label: "Revogado o n.º 2 do artigo único pelo DEC LEI.91/93.24.03.1993.MA, DR.IS-A [70] de 24.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1993-643681
+  date: '1993-03-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:42Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +149,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. A Casa do Douro, nos termos do disposto no n.º 1 do artigo 3.º da [Lei n.º 43/80](https://diariodarepublica.pt/dr/detalhe/lei/43-1980-471130), de 20 de Agosto, em conformidade com a incumbência definida no n.º 5 do artigo 6.º do [Decreto-Lei n.º 30248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30248-1939-175124), de 30 de Dezembro de 1939, e com as atribuições e competências que lhe são cometidas pela alínea d) do artigo 3.º do [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro, deverá conceder o direito a benefício às vinhas plantadas ou legalizadas ao abrigo do [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957, e às vinhas legalizadas ao abrigo da [Lei n.º 48/79](https://diariodarepublica.pt/dr/detalhe/lei/48-1979-369996), de 14 de Setembro, desde que preencham as condições constantes dos números seguintes:
+Artigo único. A Casa do Douro, nos termos do disposto no n.º 1 do artigo 3.º da [Lei n.º 43/80](https://diariodarepublica.pt/dr/detalhe/lei/43-1980-471130), de 20 de Agosto, em conformidade com a incumbência definida no n.º 5 do artigo 6.º do [Decreto-Lei n.º 30248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30248-1939-175124), de 30 de Dezembro de 1939, e com as atribuições e competências que lhe são cometidas pela alínea d) do artigo 3.º do [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro, deverá conceder o direito a benefício às vinhas plantadas ou legalizadas ao abrigo do [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957, e às vinhas legalizadas ao abrigo da [Lei n.º 48/79](https://diariodarepublica.pt/dr/detalhe/lei/48-1979-369996), de 14 de Setembro, desde que preencham as condições constantes dos números seguintes:
 
 1 - A partir da campanha de 1985-1986, atribuição de benefício às vinhas plantadas ou legalizadas ao abrigo do [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957, desde que cumpram o estipulado no artigo 2.º do [Decreto-Lei n.º 464/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1979-367235), de 3 de Dezembro, de acordo com critério de distribuição idêntico ao aplicado às vinhas que já anteriormente detinham esse direito.
 
@@ -126,12 +157,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

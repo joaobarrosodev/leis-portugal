@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/17300/22672268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1985-179870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9df386330c0270f57f40a453533ce29b6cf97359e17487a1d3387396608dab55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d46961ed0c36e90cf478ae29e7f252a757085327877f83b20cc2ba762dbbb51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Faltas
+- Função Pública
+- Limite de Idade
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:401756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:160093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401756:por
+  label: "Revogado pelo DEC LEI.497/88.1988.12.30.MF, DR.IS [301]7ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1988-401756
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:50Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +116,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aditado ao [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 88/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1975-160093), de 27 de Fevereiro, o artigo 8.º-A, com a seguinte redacção:
+Artigo 1.º É aditado ao [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 88/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1975-160093), de 27 de Fevereiro, o artigo 8.º-A, com a seguinte redacção:
 
-###### Art. 8.º-A - 1 - Os funcionários que, nos termos dos artigos anteriores, desejarem passar à aposentação deverão, no prazo de 30 dias a contar do termo da licença por doença previsto nos n.os 1 e 5 do artigo 7.º, requerer, através dos respectivos serviços, a sua apresentação à junta médica da Caixa Geral de Aposentações, sob pena de, automaticamente, passarem à situação de licença ilimitada ou de lhes serem rescindidos os respectivos contratos, conforme os casos.
+Art. 8.º-A - 1 - Os funcionários que, nos termos dos artigos anteriores, desejarem passar à aposentação deverão, no prazo de 30 dias a contar do termo da licença por doença previsto nos n.os 1 e 5 do artigo 7.º, requerer, através dos respectivos serviços, a sua apresentação à junta médica da Caixa Geral de Aposentações, sob pena de, automaticamente, passarem à situação de licença ilimitada ou de lhes serem rescindidos os respectivos contratos, conforme os casos.
 
 2 - Os funcionários a que se refere o número anterior continuarão na situação de licença por doença, com todos os direitos e deveres inerentes a essa situação, nomeadamente o direito ao vencimento da categoria, até à data em que forem julgados absoluta e permanentemente incapazes ou até àquela em que devam retomar o exercício de funções, quando pela Caixa Geral de Aposentações não lhes for reconhecido o direito à aposentação.
 
@@ -110,20 +128,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O disposto nos n.os 2, 3 e 4 é também aplicável aos casos em que o pedido de apresentação à junta médica da Caixa Geral de Aposentações seja anterior ao termo da licença por doença previsto nos n.os 1 e 5 do artigo 7.º
 
-###### Art. 2.º - 1 - São abrangidos pelo disposto nos n.os 2, 3 e 4 do artigo 8.º-A, aditado ao [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048) pelo artigo anterior, os funcionários que, na situação de licença por doença ou depois de ocorrido o seu termo, requereram, anteriormente à data da entrada em vigor deste diploma, a sua apresentação à junta médica da Caixa Geral de Aposentações desde que a ela ainda não tenham sido submetidos.
+Art. 2.º - 1 - São abrangidos pelo disposto nos n.os 2, 3 e 4 do artigo 8.º-A, aditado ao [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048) pelo artigo anterior, os funcionários que, na situação de licença por doença ou depois de ocorrido o seu termo, requereram, anteriormente à data da entrada em vigor deste diploma, a sua apresentação à junta médica da Caixa Geral de Aposentações desde que a ela ainda não tenham sido submetidos.
 
 2 - O disposto no número anterior produz efeitos quanto ao abono de vencimentos desde o termo da licença por doença previsto nos n.os 1 e 5 do artigo 7.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969.
 
-###### Art. 3.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 18 de Julho de 1985.**
+Promulgado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Julho de 1985.**
+Referendado em 19 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

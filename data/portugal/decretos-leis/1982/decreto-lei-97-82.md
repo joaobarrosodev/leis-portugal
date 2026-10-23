@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/07800/07730774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1982-608477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ec202958c44cb49070648fdf4a9bf937de9f9ba22fd8f1507ef42f591d08715
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa8ca566e0ea69a4e940ea3b3fbf9fbb5ed24229d1bef6b934b13be15e90bcf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Instalação
+- Funcionário Diplomático
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:01Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Considerando que o regime actual dos abonos de instalação não garante, por um
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Tem direito a um abono para despesas de instalação o funcionário diplomático quando é transferido de Portugal para qualquer posto no estrangeiro ou entre postos no estrangeiro não situados na mesma localidade.
+Artigo 1.º - 1 - Tem direito a um abono para despesas de instalação o funcionário diplomático quando é transferido de Portugal para qualquer posto no estrangeiro ou entre postos no estrangeiro não situados na mesma localidade.
 
 2 - O abono para despesas de instalação corresponde a duas vezes o abono mensal de representação que o funcionário vai perceber no posto onde é colocado.
 
@@ -104,26 +120,26 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Se o funcionário não tomar posse do seu cargo dentro do prazo legal, sem ser por ordem superior ou por doença, é obrigado a restituir a parte já recebida do abono para despesas de instalação.
 
-###### Art. 2.º - 1 - Ao funcionário diplomático transferido para Portugal ou regressado definitivamente, será atribuído um abono para despesas de instalação.
+Art. 2.º - 1 - Ao funcionário diplomático transferido para Portugal ou regressado definitivamente, será atribuído um abono para despesas de instalação.
 
 2 - O montante de abono de instalação a que se refere o presente artigo deve equivaler a 4 vezes o vencimento correspondente à categoria do funcionário.
 
-###### Art. 3.º - 1 - Os funcionários diplomáticos mandados prestar serviço em regime de comissão em postos onde lhes não seja facultado residir em instalações do Estado, percebem um abono de instalação de montante idêntico a um abono mensal de representação correspondente à sua categoria e ao posto, desde que se preveja que a duração da comissão seja igual ou superior a 90 dias.
+Art. 3.º - 1 - Os funcionários diplomáticos mandados prestar serviço em regime de comissão em postos onde lhes não seja facultado residir em instalações do Estado, percebem um abono de instalação de montante idêntico a um abono mensal de representação correspondente à sua categoria e ao posto, desde que se preveja que a duração da comissão seja igual ou superior a 90 dias.
 
 2 - Os funcionários nas condições previstas no número anterior não terão direito a abono para instalação por ocasião de regresso a Portugal se este coincidir com o termo da comissão de serviço.
 
 3 - Se um funcionário que se encontre na situação definida no n.º 1 do presente artigo for, enquanto nessa situação, colocado no posto onde esteja a prestar serviço, ao montante do abono de instalação que por essa colocação lhe é devida, deve ser reduzido o montante do abono percebido nos termos do n.º 1.
 
-###### Art. 4.º São revogados o § 2.º do artigo 35.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e os artigos 140.º, 141.º, 143.º e 154.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966.
+Art. 4.º São revogados o § 2.º do artigo 35.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e os artigos 140.º, 141.º, 143.º e 154.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966.
 
-###### Art. 5.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro dos Negócios Estrangeiros, que será conjunto com o do Ministro de Estado e das Finanças e do Plano em matéria da competência deste.
+Art. 5.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro dos Negócios Estrangeiros, que será conjunto com o do Ministro de Estado e das Finanças e do Plano em matéria da competência deste.
 
-###### Art. 6.º No presente ano económico as condições de atribuição dos abonos previstos no presente diploma serão fixados por despacho do Ministro dos Negócios Estrangeiros de forma a que o seu montante global não exceda as disponibilidades orçamentais do Ministério.
+Art. 6.º No presente ano económico as condições de atribuição dos abonos previstos no presente diploma serão fixados por despacho do Ministro dos Negócios Estrangeiros de forma a que o seu montante global não exceda as disponibilidades orçamentais do Ministério.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Março de 1982.**
+Promulgado em 25 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

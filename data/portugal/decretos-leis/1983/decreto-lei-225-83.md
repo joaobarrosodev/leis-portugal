@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12200/19361940.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1983-451789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8710164484b972e4c674989fc27636bcbc70f05a4c8a3e8aef5081eb8064fd13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d982d0b86ae10ace37fff31b09e897f37f53f9134322bda5dcb3cf384d30bae3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Saúde
 relationships:
 - type: amended_by
   target: pt:dre:409164:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168810:por
+  label: "Alterada a redacção dos arts. 3 e 4 pelo DEC LEI.505/85.31.12.1985.PCM, DR.IS [301] de 31.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/505-1985-168810
+  date: '1985-12-31'
+- type: repealed_by
+  target: pt:dre:409164:por
+  label: "Revogado pelo DEC LEI.280-A/87.17.07.1987.MPLAT, DR.IS [162-3ºSupl] de 17.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-a-1987-409164
+  date: '1987-07-17'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:11Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +109,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado a Regulamento sobre Notificação de Substâncias Químicas, o qual fica a fazer parte integrante do presente diploma.
+Artigo 1.º É aprovado a Regulamento sobre Notificação de Substâncias Químicas, o qual fica a fazer parte integrante do presente diploma.
 
-###### Art. 2.º O Regulamento tem carácter experimental e será revisto depois de decorridos 3 anos após a sua entrada em vigor.
+Art. 2.º O Regulamento tem carácter experimental e será revisto depois de decorridos 3 anos após a sua entrada em vigor.
 
-###### Art. 3.º A entidade de notificação definida na alínea g) do n.º 1 do artigo 2.º do Regulamento será a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, do Ministério da Indústria, Energia e Exportação.
+Art. 3.º A entidade de notificação definida na alínea g) do n.º 1 do artigo 2.º do Regulamento será a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, do Ministério da Indústria, Energia e Exportação.
 
-###### Art. 4.º Este diploma entra em vigor 1 ano após a sua publicação, exceptuando o disposto no artigo 3.º deste decreto-lei e nos artigos 13.º e 14.º do Regulamento, que entrarão em vigor no dia imediato ao da referida publicação.
+Art. 4.º Este diploma entra em vigor 1 ano após a sua publicação, exceptuando o disposto no artigo 3.º deste decreto-lei e nos artigos 13.º e 14.º do Regulamento, que entrarão em vigor no dia imediato ao da referida publicação.
 
 Regulamento sobre Notificação de Substâncias Químicas
 
-###### Artigo 1.º - 1 - O presente diploma aplica-se a qualquer substância não incluída no inventário referido na alínea d) do n.º 1 do artigo 2.º do presente diploma que se pretenda importar ou produzir, estreme ou contida em preparações, com fins de comercialização ou outros.
+Artigo 1.º - 1 - O presente diploma aplica-se a qualquer substância não incluída no inventário referido na alínea d) do n.º 1 do artigo 2.º do presente diploma que se pretenda importar ou produzir, estreme ou contida em preparações, com fins de comercialização ou outros.
 
 2 - Exceptuam-se ao disposto no número anterior:
 
@@ -122,7 +133,7 @@ d) Substâncias ou preparações em trânsito e sujeitas a controle aduaneiro;
 
 e) Substâncias que sejam ou venham a ser objecto de legislação específica com requisitos similares aos estabelecidos no presente diploma.
 
-###### Art. 2.º - 1 - Para efeitos deste diploma entende-se por:
+Art. 2.º - 1 - Para efeitos deste diploma entende-se por:
 
 a) Substância - os elementos químicos e compostos químicos, quer no estado natural, quer produzidos industrialmente, com ou sem aditivos;
 
@@ -184,9 +195,9 @@ o) Mutagénicas - que por inalação, ingestão ou por via cutânea podem induzi
 
 3 - Os critérios para a definição das propriedades referidas no número anterior serão estabelecidos por despacho conjunto dos Ministros da Indústria, Energia e Exportação, da Qualidade de Vida e dos Assuntos Sociais, sob proposta da entidade de notificação, ouvida obrigatoriamente a Comissão de Estudo de Substâncias.
 
-###### Art. 3.º Qualquer pessoa, singular ou colectiva, só pode produzir ou importar, com fins de comercialização ou outros, uma substância ou preparação, desde que tenha procedido a notificação com pelo menos, 60 dias de antecedência relativamente ao início da produção ou importação.
+Art. 3.º Qualquer pessoa, singular ou colectiva, só pode produzir ou importar, com fins de comercialização ou outros, uma substância ou preparação, desde que tenha procedido a notificação com pelo menos, 60 dias de antecedência relativamente ao início da produção ou importação.
 
-###### Art. 4.º O processo de notificação será obrigatoriamente constituído com os seguintes elementos de informação:
+Art. 4.º O processo de notificação será obrigatoriamente constituído com os seguintes elementos de informação:
 
 a) Identificação do notificador como produtor ou importador nos termos da legislação em vigor;
 
@@ -204,7 +215,7 @@ g) Condições de embalagem e rotulagem;
 
 h) Recomendações de precaução no transporte, na armazenagem e na utilização e medidas de emergência em casos de acidentes pessoais ou outros.
 
-###### Art. 5.º - 1 - Para as substâncias abaixo mencionadas, apenas devem ser entregues à entidade de notificação as informações a que respeitam as alíneas a), c) e d) do artigo 4.º:
+Art. 5.º - 1 - Para as substâncias abaixo mencionadas, apenas devem ser entregues à entidade de notificação as informações a que respeitam as alíneas a), c) e d) do artigo 4.º:
 
 a) Polimerizados, policondensados e poliadutivos, excepto aqueles que contenham, em forma combinada, 2% ou mais de qualquer monómero que não foi comercializado antes de 30 de Setembro de 1981;
 
@@ -216,7 +227,7 @@ c) Substâncias a utilizar para fins de investigação ou análise em laboratór
 
 3 - Para as substâncias referidas no n.º 1 e no n.º 2 deste artigo que sejam tóxicas ou muito tóxicas, deve ser ainda entregue à entidade de notificação a informação a que respeita a alínea h) do artigo 4.º
 
-###### Art. 6.º - 1 - Sem prejuízo do estipulado no artigo 11.º, deverá ser apresentado novo processo de notificação sempre que em relação ao processo anterior se verifique uma ou mais das seguintes situações:
+Art. 6.º - 1 - Sem prejuízo do estipulado no artigo 11.º, deverá ser apresentado novo processo de notificação sempre que em relação ao processo anterior se verifique uma ou mais das seguintes situações:
 
 a) É diferente a preparação em que a substância está contida;
 
@@ -226,7 +237,7 @@ c) As quantidades a produzir ou importar ultrapassam o escalão correspondente �
 
 2 - O novo processo de notificação será constituído pelos elementos e informações adicionais aos constantes do processo de notificação anteriormente apresentado, exigidos pela situação aplicável.
 
-###### Art. 7.º - 1 - O processo técnico-científico mencionado na alínea b) do artigo 4.º deverá conter as informações necessárias para se avaliar se a substância ou preparação poderá ter efeitos sobre o homem ou o ambiente, nas condições de uso e para as quantidades propostas.
+Art. 7.º - 1 - O processo técnico-científico mencionado na alínea b) do artigo 4.º deverá conter as informações necessárias para se avaliar se a substância ou preparação poderá ter efeitos sobre o homem ou o ambiente, nas condições de uso e para as quantidades propostas.
 
 2 - As informações que obrigatoriamente deverão ser facultadas no processo técnico-científico serão condicionadas aos quantitativos a importar ou produzir e serão fixadas por despacho do Ministro da Indústria, Energia e Exportação, sob proposta da entidade de notificação, ouvida obrigatoriamente a Comissão de Estudo de Substâncias.
 
@@ -236,7 +247,7 @@ c) As quantidades a produzir ou importar ultrapassam o escalão correspondente �
 
 5 - No caso de se pretender proceder à notificação de uma substância já anteriormente notificada por outro produtor ou importador, poderá utilizar-se processo técnico-científico apresentado por este, desde que para tanto dele se tenha obtido autorização por escrito. Esta autorização será obrigatoriamente anexa ao processo de notificação.
 
-###### Art. 8.º - 1 - Todas as informações constantes da notificação são de natureza reservada, exceptuando-se os casos previstos no número seguinte.
+Art. 8.º - 1 - Todas as informações constantes da notificação são de natureza reservada, exceptuando-se os casos previstos no número seguinte.
 
 2 - Podem ser objecto de divulgação pública os seguintes dados ou informações:
 
@@ -260,9 +271,9 @@ g) Condições de embalagem e rotulagem.
 
 5 - Se o notificador der conhecimento a terceiros ou ao público em geral de informações mencionadas no requerimento, deve informar desse facto a entidade de notificação.
 
-###### Art. 9.º Por despacho conjunto dos Ministros da Indústria, Energia e Exportação, da Qualidade de Vida e dos Assuntos Sociais, sob proposta da entidade de notificação, ouvida obrigatoriamente a Comissão de Estudo de Substâncias, poderá vir a ser fixada a metodologia a utilizar preferencialmente ou exclusivamente nos estudos a apresentar no processo técnico-científico referido na alínea b) do artigo 4.º, assim como às condições gerais ou específicas de pessoal e de equipamento dos laboratórios responsáveis pela execução desses estudos, incluindo directrizes sobre controle de qualidade e registos.
+Art. 9.º Por despacho conjunto dos Ministros da Indústria, Energia e Exportação, da Qualidade de Vida e dos Assuntos Sociais, sob proposta da entidade de notificação, ouvida obrigatoriamente a Comissão de Estudo de Substâncias, poderá vir a ser fixada a metodologia a utilizar preferencialmente ou exclusivamente nos estudos a apresentar no processo técnico-científico referido na alínea b) do artigo 4.º, assim como às condições gerais ou específicas de pessoal e de equipamento dos laboratórios responsáveis pela execução desses estudos, incluindo directrizes sobre controle de qualidade e registos.
 
-###### Art. 10.º - 1 - A entidade de notificação deverá informar o notificador da aceitação da notificação, no prazo de 60 dias contados a partir da data do seu registo nos serviços.
+Art. 10.º - 1 - A entidade de notificação deverá informar o notificador da aceitação da notificação, no prazo de 60 dias contados a partir da data do seu registo nos serviços.
 
 2 - Nos casos em que a notificação esteja incompleta ou incorrecta por falta de cumprimento dos despachos mencionados no n.º 2 do artigo 7.º e no artigo 9.º, a entidade de notificação informará o notificador do facto e das informações em falta, durante o prazo de tempo referido no n.º 1 deste artigo, iniciando-se, a partir da data de apresentação das correcções ou das informações solicitadas, a contagem de prazo igual ao estipulado no n.º 1.
 
@@ -272,11 +283,11 @@ g) Condições de embalagem e rotulagem.
 
 5 - Aplica-se aos casos referidos no n.º 2 e no n.º 3 o estipulado no n.º 3 e no n.º 4 do artigo 7.º
 
-###### Art. 11.º - 1 - Os notificadores devem comunicar à entidade de notificação todos os factos ou informações de que venham a ter conhecimento após a notificação ser aceite, sejam eles decorrentes de uma melhoria dos conhecimentos técnicos ou científicos ou de observações de efeitos da substância ou preparação que, de qualquer forma, alterem a classificação atribuída ou sugiram o agravamento dos riscos para o homem ou para o ambiente.
+Art. 11.º - 1 - Os notificadores devem comunicar à entidade de notificação todos os factos ou informações de que venham a ter conhecimento após a notificação ser aceite, sejam eles decorrentes de uma melhoria dos conhecimentos técnicos ou científicos ou de observações de efeitos da substância ou preparação que, de qualquer forma, alterem a classificação atribuída ou sugiram o agravamento dos riscos para o homem ou para o ambiente.
 
 2 - Os notificadores devem comunicar à entidade de notificação, no final de cada ano fiscal, os quantitativos efectivamente importados ou produzidos e comercializados da substância e ou preparação, conforme aplicável.
 
-###### Art. 12.º À entidade de notificação, para além das funções decorrentes da aplicação deste diploma relativas à recepção, estudo e resposta à notificação, compete, nomeadamente:
+Art. 12.º À entidade de notificação, para além das funções decorrentes da aplicação deste diploma relativas à recepção, estudo e resposta à notificação, compete, nomeadamente:
 
 a) Assegurar o apoio técnico-científico e administrativo necessário ao funcionamento da Comissão de Estudo de Substâncias;
 
@@ -288,7 +299,7 @@ d) Propor superiormente as medidas necessárias ao cumprimento das decisões tom
 
 e) Solicitar colaboração aos serviços com competência nas matérias em causa, no sentido de desenvolver acções específicas de controle ou fiscalização sobre determinadas substâncias ou preparações que as contenham.
 
-###### Art. 13.º - 1 - Junto da entidade de notificação funcionará a Comissão de Estudo de Substâncias.
+Art. 13.º - 1 - Junto da entidade de notificação funcionará a Comissão de Estudo de Substâncias.
 
 2 - A Comissão de Estudo de Substâncias (CES) terá a seguinte composição:
 
@@ -304,7 +315,7 @@ e) Solicitar colaboração aos serviços com competência nas matérias em causa
 
 5 - Podem ser convocadas para tomar parte nas sessões da Comissão pessoas qualificadas que, em razão das funções e cargos que exerçam ou do interesse que dediquem aos temas ligados com as competências da Comissão, possam prestar a esta uma colaboração útil para a resolução de problemas específicos.
 
-###### Art. 14.º À Comissão de Estudo de Substâncias, para além das funções decorrentes deste diploma e da sua natureza e composição, compete, nomeadamente:
+Art. 14.º À Comissão de Estudo de Substâncias, para além das funções decorrentes deste diploma e da sua natureza e composição, compete, nomeadamente:
 
 a) Elaborar os critérios de avaliação e classificação de substâncias e preparações perigosas e propor a sua alteração sempre que conveniente, tendo em conta as directrizes ou normas internacionais existentes;
 
@@ -314,17 +325,17 @@ c) Estabelecer as prioridades de avaliação de risco de substâncias e prepara�
 
 d) Dar parecer sobre os assuntos que lhe sejam submetidos superiormente ou pela entidade de notificação ou, ainda, por outras entidades oficiais e particulares, no âmbito da sua competência.
 
-###### Art. 15.º - 1 - Se uma substância ou preparação constante do inventário for classificada pela Comissão como perigosa, será proposta superiormente a notificação obrigatória da mesma, com a ressalva de que o processo será constituído apenas pelos dados e informações necessários ao esclarecimento das características que determinam a classificação.
+Art. 15.º - 1 - Se uma substância ou preparação constante do inventário for classificada pela Comissão como perigosa, será proposta superiormente a notificação obrigatória da mesma, com a ressalva de que o processo será constituído apenas pelos dados e informações necessários ao esclarecimento das características que determinam a classificação.
 
 2 - No caso referido no número anterior, também se aplica o estipulado nos n.os 3, 4 e 5 do artigo 7.º
 
-###### Art. 16.º A Comissão pode propor a proibição de produção ou de importação de substâncias ou preparações perigosas com fins de comercialização ou outros, quando os riscos que representam nas condições de uso propostas, para o homem ou para o ambiente, não possam ser eliminados ou suficientemente minimizados através de condições específicas de classificação, embalagem, e rotulagem.
+Art. 16.º A Comissão pode propor a proibição de produção ou de importação de substâncias ou preparações perigosas com fins de comercialização ou outros, quando os riscos que representam nas condições de uso propostas, para o homem ou para o ambiente, não possam ser eliminados ou suficientemente minimizados através de condições específicas de classificação, embalagem, e rotulagem.
 
-###### Art. 17.º A Comissão pode propor condições específicas de produção, importação, comercialização e uso de substâncias ou preparações perigosas, nomeadamente o controle da utilização ao nível da indústria, do comércio ou dos consumidores, a fixação de condições de armazenagem, de produção e de comércio e a manutenção de registos de movimento de produção, importação ou comércio.
+Art. 17.º A Comissão pode propor condições específicas de produção, importação, comercialização e uso de substâncias ou preparações perigosas, nomeadamente o controle da utilização ao nível da indústria, do comércio ou dos consumidores, a fixação de condições de armazenagem, de produção e de comércio e a manutenção de registos de movimento de produção, importação ou comércio.
 
-###### Art. 18.º O notificador, ao introduzir no mercado uma substância notifcdaa ou preparação que a contenha, fica obrigado a proceder à sua embalagem e rotulagem de forma adequada, tendo em atenção a classificação nas categorias de risco que lhe for atribuída e o que estiver regulamentado para o efeito.
+Art. 18.º O notificador, ao introduzir no mercado uma substância notifcdaa ou preparação que a contenha, fica obrigado a proceder à sua embalagem e rotulagem de forma adequada, tendo em atenção a classificação nas categorias de risco que lhe for atribuída e o que estiver regulamentado para o efeito.
 
-###### Art. 19.º Sem prejuízo de condições específicas estabelecidas ou a estabelecer por regulamentação, as embalagens devem obedecer às seguintes condições gerais:
+Art. 19.º Sem prejuízo de condições específicas estabelecidas ou a estabelecer por regulamentação, as embalagens devem obedecer às seguintes condições gerais:
 
 a) Garantir que o seu conteúdo não se derrame ou de qualquer forma se liberte durante o manuseamento normal, recorrendo, se necessário, a mecanismos de segurança apropriados;
 
@@ -334,7 +345,7 @@ c) Os seus materiais e o sistema de fecho e segurança devem ser de forma a gara
 
 d) As embalagens para repetidas aberturas devem ser concebidas de modo a garantir que este facto não prejudique o disposto na alínea a).
 
-###### Art. 20.º Sem prejuízo de condições específicas estabelecidas ou a estabelecer por regulamentação, os rótulos das embalagens devem conter, de forma clara e indelével, as seguintes informações, escritas em língua portuguesa:
+Art. 20.º Sem prejuízo de condições específicas estabelecidas ou a estabelecer por regulamentação, os rótulos das embalagens devem conter, de forma clara e indelével, as seguintes informações, escritas em língua portuguesa:
 
 a) Nome da substância ou preparação;
 
@@ -346,40 +357,40 @@ d) Frases tipo indicando os riscos específicos, quando estes existam;
 
 e) Frases tipo indicando precauções para o uso da substância e ou preparação.
 
-###### Art. 21.º Os símbolos e frases tipo a incluir nos rótulos e as especificações destes e das embalagens serão regulamentados por despacho conjunto dos Ministros da Indústria, Energia e Exportação, da Qualidade de Vida e dos Assuntos Sociais, sob proposta da entidade de notificação, ouvida obrigatoriamente a Comissão de Estudo de Substâncias.
+Art. 21.º Os símbolos e frases tipo a incluir nos rótulos e as especificações destes e das embalagens serão regulamentados por despacho conjunto dos Ministros da Indústria, Energia e Exportação, da Qualidade de Vida e dos Assuntos Sociais, sob proposta da entidade de notificação, ouvida obrigatoriamente a Comissão de Estudo de Substâncias.
 
-###### Art. 22.º - 1 - As substâncias abrangidas por este diploma e preparações que as contenham só podem circular para fins de comercialização ou outros se as embalagens e rótulos estiverem em boas condições de conservação.
+Art. 22.º - 1 - As substâncias abrangidas por este diploma e preparações que as contenham só podem circular para fins de comercialização ou outros se as embalagens e rótulos estiverem em boas condições de conservação.
 
 2 - Em caso de reembalagem ou de nova embalagem por outras entidades que não o notificador, estas devem ser feitas de acordo com o estabelecido neste diploma e nas disposições legais aplicáveis.
 
-###### Art. 23.º - 1 - Para as substâncias e preparações constantes do inventário devem os produtores, importadores ou comerciantes embalá-las e rotulá-las, tendo em atenção os riscos que lhes são conhecidos, de acordo com o estabelecido para as substâncias notificadas com idênticas características de perigosidade.
+Art. 23.º - 1 - Para as substâncias e preparações constantes do inventário devem os produtores, importadores ou comerciantes embalá-las e rotulá-las, tendo em atenção os riscos que lhes são conhecidos, de acordo com o estabelecido para as substâncias notificadas com idênticas características de perigosidade.
 
 2 - O disposto no n.º 1 aplica-se às substâncias isentas de notificação ao abrigo do artigo 5.º
 
-###### Art. 24.º Quando houver indícios de que a utilização de uma substância ou preparação pode representar riscos para o homem ou para o ambiente, o rótulo deverá conter a frase «Cuidado, produto não completamente testado».
+Art. 24.º Quando houver indícios de que a utilização de uma substância ou preparação pode representar riscos para o homem ou para o ambiente, o rótulo deverá conter a frase «Cuidado, produto não completamente testado».
 
-###### Art. 25.º Os serviços e organismos do Estado deverão comunicar à entidade de notificação todas as infracções ao presente Regulamento que detectarem nas respectivas áreas de competência, levantando para o efeito os inerentes autos de notícia.
+Art. 25.º Os serviços e organismos do Estado deverão comunicar à entidade de notificação todas as infracções ao presente Regulamento que detectarem nas respectivas áreas de competência, levantando para o efeito os inerentes autos de notícia.
 
-###### Art. 26.º - 1 - A fiscalização do cumprimento das disposições estabelecidas no presente diploma, bem como das medidas que forem tomadas ao abrigo das mesmas, compete à entidade de notificação, sem prejuízo de outras competências existentes.
+Art. 26.º - 1 - A fiscalização do cumprimento das disposições estabelecidas no presente diploma, bem como das medidas que forem tomadas ao abrigo das mesmas, compete à entidade de notificação, sem prejuízo de outras competências existentes.
 
 2 - Em casos devidamente justificados, a entidade de notificação poderá promover a remoção das causas da infracção, quer fazendo cessar a actividade com elas relacionada, quer apreendendo as substâncias e preparações que não obedeçam ao disposto no presente Regulamento.
 
 3 - O reinício da actividade fica dependente da autorização expressa da entidade de notificação e não poderá ser concedida enquanto se mantiverem as causas de infracção.
 
-###### Art. 27.º Das decisões definitivas e executórias da entidade de notificação cabe recurso para o ministro da tutela, sem prejuízo do recurso contencioso a interpor nos termos gerais.
+Art. 27.º Das decisões definitivas e executórias da entidade de notificação cabe recurso para o ministro da tutela, sem prejuízo do recurso contencioso a interpor nos termos gerais.
 
-###### Art. 28.º - 1 - As infracções ao presente Regulamento serão punidas com multa de 10000$00 a 500000$00, a graduar conforme as circunstâncias.
+Art. 28.º - 1 - As infracções ao presente Regulamento serão punidas com multa de 10000$00 a 500000$00, a graduar conforme as circunstâncias.
 
 2 - A reincidência é sempre punida com o dobro do montante da multa imediatamente anterior.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles.
 
-**Promulgado em 7 de Maio de 1983.**
+Promulgado em 7 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Maio de 1983.**
+Referendado em 12 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.

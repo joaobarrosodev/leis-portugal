@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/04900/04480448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1982-600316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65143db63bc3a3623db6c6006c71b3344b72026bbda562e33aafda40d65303f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 780b056d766eea19cdd4f02745c131dea54ae6a32bfa16564fc822bf6ac198b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- PSP
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:327343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:28Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +113,14 @@ Atendendo à circunstância de o [Decreto-Lei n.º 215/81](https://diariodarepub
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aditado ao [Decreto-Lei n.º 215/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1981-579973), de 16 de Julho, um artigo, com a seguinte redacção:
+Artigo único. É aditado ao [Decreto-Lei n.º 215/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1981-579973), de 16 de Julho, um artigo, com a seguinte redacção:
 
-###### Art. 6.º O abono de que trata o n.º 3 do artigo 3.º do [Decreto-Lei n.º 323/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1978-327343), de 8 de Novembro, passa, a partir de 1 de Dezembro de 1981, a ser considerado para os efeitos da alínea a) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+Art. 6.º O abono de que trata o n.º 3 do artigo 3.º do [Decreto-Lei n.º 323/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1978-327343), de 8 de Novembro, passa, a partir de 1 de Dezembro de 1981, a ser considerado para os efeitos da alínea a) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 15 de Fevereiro de 1982.**
+Promulgado em 15 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

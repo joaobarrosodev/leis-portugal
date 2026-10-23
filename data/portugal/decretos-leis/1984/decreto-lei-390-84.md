@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28600/37653767.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1984-401365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aca73b6dfc48c0d867292ca16e8be43d37223e8e46c275fa71eb83c38dddf2df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abd488e5c13b19a1f60c017951ce70abe0afdcd909a21fcdb5a496bb18f32033
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Comunicação Social
+- Direcção Geral de Divulgação
+- Extinção de Serviços
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:598333:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal da Direcção-Geral da Comunicação Social, aprovado pelo Dec Lei 420/82, de 12-Out,\
+    \ com as alterações introduzidas pelo presente diploma, e pelas Port 771/83, de 21-Jul e 661/86, de 07-Nov, pelo anexo\
+    \ X à PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:336500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682863:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:220486:por
+  label: Rectificado pela DECL.DD5241.20.12.1984.PCM, DR.IS [301]Supl de 31.12.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-220486
+  date: '1984-12-20'
+- type: repealed_by
+  target: pt:dre:598333:por
+  label: "Revogado pelo DEC LEI.157/91.1991.04.24.PCM, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1991-598333
+  date: '1991-04-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:59Z'
   warnings: []
   errors: []
 ---
@@ -112,11 +149,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a DGD, criada pelo [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, e criada, em sua substituição, na DGCS, a Direcção dos Serviços de Divulgação (DSD).
+Artigo 1.º - 1 - É extinta a DGD, criada pelo [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, e criada, em sua substituição, na DGCS, a Direcção dos Serviços de Divulgação (DSD).
 
 2 - A Direcção dos Serviços de Documentação e Divulgação da Direcção-Geral da Comunicação Social passa a designar-se por Direcção dos Serviços de Documentação (DSD), devendo considerar-se alteradas, em conformidade, as disposições do [Decreto-Lei n.º 420/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1982-376650), de 12 de Outubro, que se lhe referem.
 
-###### Art. 2.º Incumbe à DSD:
+Art. 2.º Incumbe à DSD:
 
 a) Dar a conhecer os principais actos da vida pública portuguesa, nomeadamente a actividade dos órgãos de soberania;
 
@@ -126,7 +163,7 @@ c) Contribuir para a difusão, interna e externa, dos valores históricos e cult
 
 d) Promover a aquisição de obras de interesse para a comunidade, tendo em vista a sua ulterior divulgação.
 
-###### Art. 3.º A DSD compreende:
+Art. 3.º A DSD compreende:
 
 a) A Divisão de Publicações;
 
@@ -134,7 +171,7 @@ b) A Divisão de Produção Gráfica e Distribuição;
 
 c) A biblioteca.
 
-###### Art. 4.º - 1 - À Divisão de Publicações compete, nomeadamente:
+Art. 4.º - 1 - À Divisão de Publicações compete, nomeadamente:
 
 a) Proceder à recolha, selecção ou elaboração dos textos a editar, bem como à selecção dos textos a adquirir;
 
@@ -146,7 +183,7 @@ d) Elaborar e manter actualizados os planos de distribuição das obras difundid
 
 2 - A Divisão de Publicações compreende as áreas das publicações periódicas e não periódicas.
 
-###### Art. 5.º - 1 - À Divisão de Produção Gráfica e Distribuição compete, nomeadamente:
+Art. 5.º - 1 - À Divisão de Produção Gráfica e Distribuição compete, nomeadamente:
 
 a) Executar os trabalhos de natureza gráfica necessários à prossecução das atribuições da DSD;
 
@@ -158,7 +195,7 @@ d) Promover a distribuição das publicações editadas pela DGCS.
 
 2 - A Divisão de Produção Gráfica e Distribuição compreende as áreas oficial, de laboratório fotográfico e de expedição.
 
-###### Art. 6.º - 1 - À biblioteca compete, nomeadamente:
+Art. 6.º - 1 - À biblioteca compete, nomeadamente:
 
 a) Zelar pelo cumprimento das normas que integram o regime de depósito legal e recolher, tratar e conservar o material bibliográfico e editorial que lhe for destinado ao abrigo do mesmo regime;
 
@@ -168,30 +205,30 @@ c) Organizar um sector de hemeroteca, especificamente incumbido da recolha e sis
 
 2 - A biblioteca será coordenada por um técnico superior com categoria não inferior à da letra E, a designar por escolha do director-geral da Comunicação Social.
 
-###### Art. 7.º O pessoal do quadro da DGD transita para o quadro da DGCS, ao qual, para o efeito, são aditados os lugares constantes do anexo a este decreto-lei, em categoria idêntica à que já possui, ficando sujeito ao regime fixado na respectiva lei orgânica.
+Art. 7.º O pessoal do quadro da DGD transita para o quadro da DGCS, ao qual, para o efeito, são aditados os lugares constantes do anexo a este decreto-lei, em categoria idêntica à que já possui, ficando sujeito ao regime fixado na respectiva lei orgânica.
 
-###### Art. 8.º Fica adstrito à DGCS todo o património, incluindo utensílios e máquinas, que se encontra afecto à DGD.
+Art. 8.º Fica adstrito à DGCS todo o património, incluindo utensílios e máquinas, que se encontra afecto à DGD.
 
-###### Art. 9.º No prazo de 60 dias a contar da entrada em vigor do presente diploma, o Secretário de Estado Adjunto do Ministro de Estado e o Secretário de Estado da Administração Pública proporão ao Governo as alterações à Lei Orgânica da DGCS conducentes aos seus adequados redimensionamento e reestruturação.
+Art. 9.º No prazo de 60 dias a contar da entrada em vigor do presente diploma, o Secretário de Estado Adjunto do Ministro de Estado e o Secretário de Estado da Administração Pública proporão ao Governo as alterações à Lei Orgânica da DGCS conducentes aos seus adequados redimensionamento e reestruturação.
 
-###### Art. 10.º - 1 - É criado junto da DGCS um quadro de efectivos interdepartamentais, no qual será integrado o pessoal daquele departamento que, na sequência das medidas de racionalização adoptadas, vier a adquirir a qualidade de excedente.
+Art. 10.º - 1 - É criado junto da DGCS um quadro de efectivos interdepartamentais, no qual será integrado o pessoal daquele departamento que, na sequência das medidas de racionalização adoptadas, vier a adquirir a qualidade de excedente.
 
 2 - A integração do pessoal excedente no quadro de efectivos interdepartamentais processar-se-á nos termos do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro, através de lista nominativa.
 
-###### Art. 11.º Ficam revogadas a alínea d) do n.º 1 do artigo 10.º e o artigo 14.º do [Decreto-Lei n.º 420/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1982-376650), de 12 de Outubro, devendo entender-se que as disposições deste diploma referentes às atribuições da DSD prevalecem igualmente sobre as normas com conteúdo assimilável da Lei Orgânica da DGCS.
+Art. 11.º Ficam revogadas a alínea d) do n.º 1 do artigo 10.º e o artigo 14.º do [Decreto-Lei n.º 420/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1982-376650), de 12 de Outubro, devendo entender-se que as disposições deste diploma referentes às atribuições da DSD prevalecem igualmente sobre as normas com conteúdo assimilável da Lei Orgânica da DGCS.
 
 Visto e aprovado em Conselho de Ministros de 15 de Novembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 3 de Dezembro de 1984.**
+Promulgado em 3 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Dezembro de 1984.**
+Referendado em 4 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-## Anexo a que se refere o artigo 7.º
+Anexo a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28600/37653767.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28600/37653767.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28600/37653767.pdf)

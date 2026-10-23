@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16100/20462064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,133 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1985-183443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5beeb358932196144fc7a964b3b6db1b6ca09a47d5e654df2cf92c7e4c870ef5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf8ac77f6c6b37471c8ca38605196165affbac80e012df74395fe19d80b5a877
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Administrativo
+- Contencioso Administrativo
+- Direito Administrativo
+- Legalidade Administrativa
+- Lei de Processo nos Tribunais Administrativos
+- Orgânica
+- Processo Administrativo
+- Processo Administrativo Contencioso
+- Regulamento
+- Supremo Tribunal Administrativo
+- Suspensão da Executoriedade do ACTO Administrativo
+- Tribunal Administrativo
+- Tribunal Administrativo e Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:280920:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:267838:por
+  label: "Rectificado pela DECL.DD5037.22.08.1985.PCM, DR.IS [200]2ºSupl de 31.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-267838
+  date: '1985-08-22'
+- type: amended_by
+  target: pt:dre:616434:por
+  label: "Alterado o artigo 81.º, pelo DEC LEI.4/86.06.01.1986.MJ, DR.IS [4] de 06.01.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-1986-616434
+  date: '1986-01-06'
+- type: amended_by
+  target: pt:dre:227044:por
+  label: "Alterados os arts. 77.º, 78.º e 81.º pela LEI.12/86.1986.05.21.AR DR.IS [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-1986-227044
+  date: '1986-05-21'
+- type: amended_by
+  target: pt:dre:548203:por
+  label: Alterado o art. 20.º, pelo DEC LEI.326/89.26.09.1989.MJ, DR.IS [222] de 26.09.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-1989-548203
+  date: '1989-09-26'
+- type: amended_by
+  target: pt:dre:201224:por
+  label: "Dada nova redacção aos arts 9º, 12º, 13º, 15º, 19º, 21º, 28º, 35º, 103º, 110º, 130º e revogados os arts 30º e 32º\
+    \ pelo Dec-Lei.229/96.1996.11.29.MJ, DR.IS-A [277]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1996-201224
+  date: '1996-11-29'
+- type: amended_by
+  target: pt:dre:641134:por
+  label: "Excluída a aplicação do nº 1 do art 80º deste diploma no caso de recurso contencioso do acto de nomeação subsequente\
+    \ a concurso realizado nos termos do Dec Lei.231/97.1997.09.03.PCM, DR.IS-A [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1997-641134
+  date: '1997-09-03'
+- type: amended_by
+  target: pt:dre:313837:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral do art. 15º deste diploma, com a redacção dada pelo\
+    \ Dec Lei 229/96 de 29-Nov, pelo AC.157/2001.2001.04.04.TCS DR.IS-A [108] de 10/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/157-2001-313837
+  date: '2001-04-04'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 88º da Lei de Processo nos Tribunais Administrativos, pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A\
+    \ [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:369023:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral do nº 3 do art. 71º, pelo AC.144/2002.2002.04.09.TCS,\
+    \ DR.IS-A [107] de 09/Mai/2002 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/144-2002-369023
+  date: '2002-04-09'
+- type: cites
+  target: pt:dre:253020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280920:por
+  label: "Revogado pela LEI.15/2002.2002.02.22.AR, DR.IS-A [45],a a partir de 01.01.2004 (conforme o art. 2º da Lei 4-A/2003,\
+    \ de 19 de Fevereiro)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2002-280920
+  date: '2002-02-22'
 article_structure:
   article_count: 136
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:10Z'
   warnings: []
   errors: []
 ---
@@ -1242,12 +1335,12 @@ O presente diploma entra em vigor no dia 1 de Outubro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 5 de Julho de 1985.**
+Promulgado em 5 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Julho de 1985.**
+Referendado em 8 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

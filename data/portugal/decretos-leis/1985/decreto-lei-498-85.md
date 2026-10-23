@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/29100/42094210.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1985-169962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6374235b0c44e0d15a2bb5c95b629230efa5bad9587f6931df4bd4ca3f6385de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ae6bdbe66aaa0d2c98e8b8ec17a6d9ab0d6de9783baa72f95eb7feb4a0ad708
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Eleição
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:420433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:04Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Considerando que as razões determinantes da instituição do regime de transfer
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicável, em relação às eleições gerais dos órgãos representativos das autarquias locais, a realizar em 15 de Dezembro próximo, o regime de transferência de verbas constante do [Decreto-Lei n.º 410-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-b-1979-420433), de 27 de Setembro, atribuindo-se, porém, às parcelas X, Y e Z, a que se refere o seu artigo 1.º, os seguintes valores:
+Artigo 1.º É aplicável, em relação às eleições gerais dos órgãos representativos das autarquias locais, a realizar em 15 de Dezembro próximo, o regime de transferência de verbas constante do [Decreto-Lei n.º 410-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-b-1979-420433), de 27 de Setembro, atribuindo-se, porém, às parcelas X, Y e Z, a que se refere o seu artigo 1.º, os seguintes valores:
 
 X = 25000$00 (verba fixa por concelho);
 
@@ -101,16 +113,16 @@ Y = 2$50 x número de eleitores inscritos no concelho;
 
 Z = 2000 x número de freguesias do concelho.
 
-###### Art. 2.º Este diploma entra em vigor no dia 1 de Dezembro de 1985.
+Art. 2.º Este diploma entra em vigor no dia 1 de Dezembro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1985. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 12 de Dezembro de 1985.**
+Promulgado em 12 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Dezembro de 1985.**
+Referendado em 12 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13000/13431354.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,671 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61646b8c051bcd5d11f163c0a36712de8d74ba2b36e17616175f91d229d4389d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3f02977c0c36ed2a28202790480489f8cd1ca195b1671e0966c32872b21e7f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Auditoria Jurídica
+- Centro de Estudos e Formação Autárquica
+- Comissão de Coordenação Regional
+- Comissão de Serviço
+- Comissão Interministerial de Estudos Urbanos e Regionais
+- Comissão Técnica Interministerial de Planeamento
+- Conselho Nacional de Cartografia
+- Conselho Nacional de Estatística
+- Definição de Competências
+- Departamento Central de Planeamento
+- Departamento de Acompanhamento e Avaliação
+- Direção Geral do Território
+- Direcção Geral da Administração Autárquica
+- Direcção Geral do Ambiente
+- Direcção Geral do Desenvolvimento Regional
+- Direcção Geral do Ordenamento do Território
+- Direcção Geral do Saneamento Básico
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Direcção Geral dos Recursos Naturais
+- EPAL
+- Equiparação de Cargos
+- Exoneração
+- Extinção de Serviços
+- Formas de Provimento
+- Gabinete Coordenador do Alqueva
+- Gabinete de Estudos e Planeamento da Administração do Território
+- Gabinete do Aeroporto de Santa Catarina
+- Gabinete para os Aeroportos da Região Autónoma da Madeira
+- Inspecção Geral da Administração do Território
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto Nacional de Estatística
+- Integração de Trabalhadores
+- Jnict
+- Ministério do Plano e da Administração do Território
+- Orgânica
+- Pessoal Dirigente
+- Presidente
+- Quadro de Pessoal
+- Secretaria Geral
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
+- Transferência de Competências
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:124324702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222432:por
+  label: "Criado um lugar de assessor no quadro de pessoal constante do anexo I, pela PORT.591/86.11.10.1986.MF, DR.IS [235]\
+    \ de 11.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/591-1986-222432
+  date: '1986-10-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ARTIGO 47 PELO DECRETO LEI 355/86, DE 24 DE OUTUBRO, PUBLICADO NO DR.IS, 246.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-10-24'
+- type: amended_by
+  target: pt:dre:221134:por
+  label: "Criado um lugar de técnico superior principal no quadro de pessoal do anexo I, pela PORT.664/86.07.11.1986.MF, DR.IS\
+    \ [257] de 07.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1986-221134
+  date: '1986-11-07'
+- type: amended_by
+  target: pt:dre:221123:por
+  label: "Criado um lugar de assessor no quadro de pessoal do anexo I, pela PORT.668/86.08.11.1986.MF, DR.IS [258] de 08.11.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/668-1986-221123
+  date: '1986-11-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 58/87 DE 24-JAN DR.IS [20]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-01-24'
+- type: amended_by
+  target: pt:dre:665754:por
+  label: "Substituídos os quadros de pessoal constantes do anexo I ao presente diploma, pela PORT.351/87.29.04.1987.MF, DR.IS\
+    \ [98] de 29.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-1987-665754
+  date: '1987-04-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ANEXO II PELA PORTARIA 17/89, DE 11 DE JANEIRO,PUBLICADA NO DR.IS, 9 (CONSTANTE DO ARTIGO 16 DO DECRETO
+    REGULAMENTAR 3/86, DE 8 DE JANEIRO, PUBLICADO NO DR.IS, 6).19890310 - ALTERADO O QUADRO DE PESSOAL DO ANEXO II PELA PORTARIA199/89,
+    DE 10 DE MARCO, PUBLICADA NO DR.IS, 58.19891122 - ALTERADO O QUADRO DE PESSOAL DO ANEXO II PELA PORTARIA1010/89, DE 22
+    DE NOVEMBRO, PUBLICADA NO DR.IS, 269.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-01-11'
+- type: amended_by
+  target: pt:dre:613257:por
+  label: "Alterado o quadro de pessoal do anexo II do presente diploma, pela PORT.199/89.10.03.1989.MF, DR.IS [58] de 10.03.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-1989-613257
+  date: '1989-03-10'
+- type: amended_by
+  target: pt:dre:615242:por
+  label: Transmitida para o Estado a propriedade dos imóveis, infra-estruturas e equipamentos que constituem os sistemas de
+    saneamento básico e o Centro de Estudos de Geologia e Geotecnia de Santo André (CEGSA) do Gabinete da Área de Sines (GAS),
+    reestruturado pelo Dec Lei 487/80 de 17-Out, afectando-o à Direcção-Geral dos Recursos Naturais, prevista na al. l) do
+    art. 1º do presente diploma, para a qual transitam também todas as atribuições, competências, direitos e obrigações de
+    que o GAS é titular, nos termos legais e contratuais, relativos àqueles bens, pelo DEC LEI.115/89.14.04.1989.MPLAT, DR.IS
+    [87] de 14.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1989-615242
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:619718:por
+  label: "Alargada a área de recrutamento para o lugar de chefe da Divisão de Projectos de Aproveitamentos Hidráulicos pela\
+    \ PORT.497/89.1989.07.04.MF DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/497-1989-619718
+  date: '1989-07-04'
+- type: amended_by
+  target: pt:dre:333557:por
+  label: Alterados os arts. 21.º, 23.º, 24.º e 25.º e o anexo II do presente diploma pelo(a) Decreto-Lei n.º 23/90 - Diário
+    da República n.º 13/1990, Série I de 1990-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1990-333557
+  date: '1990-01-16'
+- type: amended_by
+  target: pt:dre:333544:por
+  label: "Aditado um lugar de director ao quadro de pessoal constante do anexo II, pela PORT.40/90.18.01.1990.MF, DR.IS [15]\
+    \ de 18.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-1990-333544
+  date: '1990-01-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO AO QUADRO ÚNICO CONSTANTE DO ANEXO II, UM LUGAR DE DIRECTOR PELA PORTARIA 308/90, 19 DE ABRIL, PUBLICADA
+    NO DR.IS, 91, AFECTO AO SERVIÇO NACIONAL DE PARQUES, RESERVAS E CONSERVACAO DA NATUREZA.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-04-19'
+- type: amended_by
+  target: pt:dre:332269:por
+  label: "Alterado o quadro único pela PORT.308/90.19.04.1990.MF, DR.IS [91] de 19.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-1990-332269
+  date: '1990-04-19'
+- type: amended_by
+  target: pt:dre:543710:por
+  label: Alterados os arts. 20.º, 21.º e 22.º e o Anexo II pelo DEC LEI.409/90.31.12.1990.MPLAT, DR.IS [300] de 31.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/409-1990-543710
+  date: '1990-12-31'
+- type: amended_by
+  target: pt:dre:681593:por
+  label: "Extinto, nos termos do art. 1º, o quadro único do Ministério do Planeamento e da Administração do Território, a\
+    \ que se refere o art. 59º do presente diploma, pelo DEC LEI.272/91.07.08.1991.MPLAT, DR.IS-A [180] de 07.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1991-681593
+  date: '1991-08-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DECRETO LEI 451/91, DE 4 DE DEZEMBRO, PUBLICADO NO DR.IS-A, 279, SUPL, DE 911204, RELATIVAMENTE A TUTELA
+    DO CENTRO DE ESTUDOS E FORMAÇÃO AUTÁRQUICA.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente à tutela do Centro de Estudos e Formação Autárquica, pelo(a) Decreto-Lei
+    n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:598157:por
+  label: "Extinto o Departamento de Acompanhamento e Avaliação, alterados os arts. 20.º (na redacção do Dec Lei 409/90, de\
+    \ 31-Dez), 21.º (na redacção do Dec Lei 23/90, de 16-Jan e do Dec Lei 409/90, de 31-Dez) e 22.º (na redacção do Dec Lei\
+    \ 409/90, de 31-Dez ) e revogados a al. h) do n.º 1 do art. 1.º e os arts. 23.º, 24.º e 25.º do presente diploma, pelo\
+    \ DEC LEI.265/92.24.11.1992.MPLAT, DR.IS-A [272] de 24.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1992-598157
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:664552:por
+  label: Extinto o Gabinete de Estudos e Planeamento da Administração do Território e revogada a al. c) do n.º 1 do art. 1.º
+    e os arts. 8.º a 10.º, pelo(a) Decreto-Lei n.º 366/93 - Diário da República n.º 253/1993, Série I-A de 1993-10-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1993-664552
+  date: '1993-10-28'
+- type: amended_by
+  target: pt:dre:606525:por
+  label: "Alterados os art.s 20º (na redação do Dec Lei 409/90, de 31-dez, e Dec Lei 265/92, de 24-nov), 21º (na redação do\
+    \ Dec Lei 23/90, de 16-jan, Dec Lei 409/90, de 31-dez, e Dec Lei 265/92, de 24-nov) e 22º (na redação do Dec Lei 409/90,\
+    \ de 31-dez, e Dec Lei 265/92, de 24-nov), pelo DEC LEI.243/94.1994.09.26.MPLAT, DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-1994-606525
+  date: '1994-09-26'
+- type: amended_by
+  target: pt:dre:621544:por
+  label: "Extinta a Direcção Geral do Ordenamento do Território (DGOT) e revogados os art.s 30º e 31º, pelo DEC LEI.271/94.1994.10.28.MPLAT,\
+    \ DR.IS-A [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-1994-621544
+  date: '1994-10-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTO O CONSELHO NACIONAL DE CARTOGRAFIA PELO DEC LEI 193/95 DE 28-JUL DR.IS-A [173]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTO O MINISTÉRIO E FUNDIDA A INSPECCAO-GERAL DA ADMINISTRAÇÃO DO TERRITÓRIO, CRIADA PELO PRESENTE DIPLOMA, COM
+    A INSPECÇÃO GERAL DE OBRAS PÚBLICAS TRANSPORTES E COMUNICACOES (DANDO ORIGEM A INSPECÇÃO GERAL DO MINISTÉRIO DO EQUIPAMENTO,
+    DO PLANEAMENTO E DA ADMINISTRAÇÃO DO TERRITORIO) PELO DEC LEI 23/96 DE 20-MAR DR.IS-A [68]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-03-20'
+- type: cites
+  target: pt:dre:151561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662099:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419011:por
+  label: "Revogado o artigo 34.º pelo DEC LEI.246/87.17.06.1987.MPAT, DR.IS [137] de 17.06.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1987-419011
+  date: '1987-06-17'
+- type: repealed_by
+  target: pt:dre:146565:por
+  label: "Revogados os arts. 18º, 19º e alterados os arts. 1º e 17º pelo DEC LEI.4/95.1995.01.17.MPLAT, DR.IS-A [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-1995-146565
+  date: '1995-01-17'
+- type: repealed_by
+  target: pt:dre:321283:por
+  label: "Revogado pelo DEC LEI.151/2000.2000.07.20.MPLA,DR.IS-A [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2000-321283
+  date: '2000-07-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:04Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +753,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Ministério do Plano e da Administração do Território compreende os seguintes serviços centrais, já instituídos ou criados por este diploma:
+Artigo 1.º - 1 - O Ministério do Plano e da Administração do Território compreende os seguintes serviços centrais, já instituídos ou criados por este diploma:
 
 a) Secretaria-Geral;
 
@@ -168,9 +799,9 @@ q) Gabinete para os Aeroportos da Região Autónoma da Madeira.
 
 7 - O Ministro do Plano e da Administração do Território exerce tutela sobre a EPAL - Empresa Pública das Águas Livres.
 
-###### Art. 2.º A Secretaria-Geral, directamente dependente do Ministro, é o organismo de coordenação, estudo, informação e apoio técnico-administrativo especialmente incumbido de exercer funções de carácter comum aos serviços do Ministério.
+Art. 2.º A Secretaria-Geral, directamente dependente do Ministro, é o organismo de coordenação, estudo, informação e apoio técnico-administrativo especialmente incumbido de exercer funções de carácter comum aos serviços do Ministério.
 
-###### Art. 3.º São atribuições da Secretaria-Geral:
+Art. 3.º São atribuições da Secretaria-Geral:
 
 a) Prestar aos membros do Governo que integram o Ministério a assistência técnica e administrativa que lhe for solicitada;
 
@@ -200,7 +831,7 @@ n) Promover a cooperação com entidades nacionais, estrangeiras e internacionai
 
 o) Exercer as demais funções que lhe sejam superiormente cometidas.
 
-###### Art. 4.º - 1 - A Secretaria-Geral é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos, e compreende os seguintes serviços:
+Art. 4.º - 1 - A Secretaria-Geral é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos, e compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Organização e Recursos Humanos;
 
@@ -218,9 +849,9 @@ d) Direcção de Serviços Jurídicos.
 
 5 - Na sequência do disposto no número anterior os ministros referidos estabelecerão em despacho conjunto a forma de articulação entre os diferentes serviços e o Arquivo Histórico.
 
-###### Art. 5.º A Auditoria Jurídica, directamente dependente do Ministro, é o organismo de consulta jurídica e de apoio legislativo e contencioso aos membros do Governo que integram o Ministério.
+Art. 5.º A Auditoria Jurídica, directamente dependente do Ministro, é o organismo de consulta jurídica e de apoio legislativo e contencioso aos membros do Governo que integram o Ministério.
 
-###### Art. 6.º São atribuições da Auditoria Jurídica:
+Art. 6.º São atribuições da Auditoria Jurídica:
 
 a) Dar parecer, prestar informações e proceder a estudos jurídicos sobre quaisquer assuntos que sejam submetidos à sua apreciação pelos membros do Governo que integram o Ministério;
 
@@ -234,11 +865,11 @@ e) Acompanhar o andamento dos mesmos processos de recurso, dando satisfação, s
 
 f) Promover a instrução de processos disciplinares, de inquéritos ou similares de que seja incumbida.
 
-###### Art. 7.º A orientação e coordenação técnico-jurídica da Auditoria compete a um procurador-geral-adjunto, designado para o exercício de funções de auditor jurídico junto do Ministério.
+Art. 7.º A orientação e coordenação técnico-jurídica da Auditoria compete a um procurador-geral-adjunto, designado para o exercício de funções de auditor jurídico junto do Ministério.
 
-###### Art. 8.º O Gabinete de Estudos e Planeamento da Administração do Território, directamente dependente do Ministro, sucede ao Gabinete de Estudos do Ordenamento do Território e do Ambiente, criado pelo artigo 13.º, n.º 4, do [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro, e é o organismo especialmente incumbido do estudo, coordenação e apoio técnico aos respectivos membros do Governo e do planeamento e programação nos sectores do ordenamento do território, recursos naturais e ambiente.
+Art. 8.º O Gabinete de Estudos e Planeamento da Administração do Território, directamente dependente do Ministro, sucede ao Gabinete de Estudos do Ordenamento do Território e do Ambiente, criado pelo artigo 13.º, n.º 4, do [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro, e é o organismo especialmente incumbido do estudo, coordenação e apoio técnico aos respectivos membros do Governo e do planeamento e programação nos sectores do ordenamento do território, recursos naturais e ambiente.
 
-###### Art. 9.º São atribuições do Gabinete de Estudos e Planeamento da Administração do Território:
+Art. 9.º São atribuições do Gabinete de Estudos e Planeamento da Administração do Território:
 
 a) Elaborar os estudos necessários à fundamentação dos planos e projectos de desenvolvimento dos sectores a seu cargo;
 
@@ -266,7 +897,7 @@ l) Apoiar genericamente os membros do Governo do Ministério na formulação das
 
 m) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 10.º - 1 - O Gabinete de Estudos e Planeamento da Administração do Território é dirigido por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
+Art. 10.º - 1 - O Gabinete de Estudos e Planeamento da Administração do Território é dirigido por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Programação;
 
@@ -278,9 +909,9 @@ c) Direcção de Serviços para o Ambiente.
 
 3 - Junto do Gabinete de Estudos e Planeamento da Administração do Território funcionam a Comissão de Planeamento e a Comissão Consultiva de Estatística.
 
-###### Art. 11.º A Inspecção-Geral da Administração do Território é o organismo de exercício da tutela inspectiva do Governo sobre as autarquias locais e de fiscalização superior do Ministério do Plano e da Administração do Território.
+Art. 11.º A Inspecção-Geral da Administração do Território é o organismo de exercício da tutela inspectiva do Governo sobre as autarquias locais e de fiscalização superior do Ministério do Plano e da Administração do Território.
 
-###### Art. 12.º São atribuições da Inspecção-Geral da Administração do Território:
+Art. 12.º São atribuições da Inspecção-Geral da Administração do Território:
 
 a) Averiguar do cumprimento das obrigações impostas por lei às autarquias locais e suas associações e federações, bem como aos organismos e serviços dependentes do Ministério;
 
@@ -308,7 +939,7 @@ l) Promover, em colaboração com os serviços de formação do Ministério, col
 
 m) Promover a cooperação com entidades naciocionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 13.º - 1 - A Inspecção-Geral da Administração do Território é dirigida por um inspector-geral, coadjuvado por dois subinspectores-gerais, equiparados, respectivamente, a director-geral e a subdirectores-gerais, e compreende os seguintes serviços:
+Art. 13.º - 1 - A Inspecção-Geral da Administração do Território é dirigida por um inspector-geral, coadjuvado por dois subinspectores-gerais, equiparados, respectivamente, a director-geral e a subdirectores-gerais, e compreende os seguintes serviços:
 
 a) Serviço de Inspecção às Autarquias;
 
@@ -322,15 +953,15 @@ c) Direcção de Serviços de Estudos.
 
 4 - O pessoal provido na carreira de inspector tem direito a uma gratificação mensal, que será de importância equivalente a 20% do respectivo vencimento.
 
-###### Art. 14.º O Instituto Nacional de Estatística é o organismo especialmente incumbido do exercício das funções de dotação, apuramento, coordenação e publicação de dados estatísticos de âmbito nacional.
+Art. 14.º O Instituto Nacional de Estatística é o organismo especialmente incumbido do exercício das funções de dotação, apuramento, coordenação e publicação de dados estatísticos de âmbito nacional.
 
-###### Art. 15.º Até à sua reestruturação os órgãos e serviços do Instituto Nacional de Estatística e a respectica competência são os constantes do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, e do [Decreto Regulamentar n.º 71-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-c-1979-157016), de 29 de Dezembro, e diplomas complementares.
+Art. 15.º Até à sua reestruturação os órgãos e serviços do Instituto Nacional de Estatística e a respectica competência são os constantes do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, e do [Decreto Regulamentar n.º 71-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-c-1979-157016), de 29 de Dezembro, e diplomas complementares.
 
-###### Art. 16.º São órgãos delegados do Instituto Nacional de Estatística no Ministério do Plano e da Administração do Território o Departamento de Planeamento, a Junta Nacional de Investigação Científica e Tecnológica e o Gabinete de Estudos e Planeamento da Administração do Território.
+Art. 16.º São órgãos delegados do Instituto Nacional de Estatística no Ministério do Plano e da Administração do Território o Departamento de Planeamento, a Junta Nacional de Investigação Científica e Tecnológica e o Gabinete de Estudos e Planeamento da Administração do Território.
 
-###### Art. 17.º O Departamento Central de Planeamento é o organismo técnico central de planeamento responsável pela elaboração do Plano, bem como pelo acompanhamento administrativo e processual da sua execução.
+Art. 17.º O Departamento Central de Planeamento é o organismo técnico central de planeamento responsável pela elaboração do Plano, bem como pelo acompanhamento administrativo e processual da sua execução.
 
-###### Art. 18.º São atribuições do Departamento Central de Planeamento:
+Art. 18.º São atribuições do Departamento Central de Planeamento:
 
 a) Elaborar os planos de desenvolvimento económico social;
 
@@ -346,7 +977,7 @@ f) Estabelecer as necessárias articulações interinstitucionais em matéria de
 
 g) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 19.º O Departamento Central de Planeamento é dirigido por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
+Art. 19.º O Departamento Central de Planeamento é dirigido por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Planeamento;
 
@@ -360,9 +991,9 @@ e) Direcção de Serviços de Documentação e Informação;
 
 f) Direcção de Serviços de Administração Geral.
 
-###### Art. 20.º A Direcção-Geral do Desenvolvimento Regional é o organismo incumbido do estudo da política de desenvolvimento regional, da elaboração e selecção de projectos e programas de desenvolvimento regional e da coordenação dos investimentos candidatáveis ao Fundo Europeu de Desenvolvimento Regional (FEDER).
+Art. 20.º A Direcção-Geral do Desenvolvimento Regional é o organismo incumbido do estudo da política de desenvolvimento regional, da elaboração e selecção de projectos e programas de desenvolvimento regional e da coordenação dos investimentos candidatáveis ao Fundo Europeu de Desenvolvimento Regional (FEDER).
 
-###### Art. 21.º São atribuições da Direcção-Geral do Desenvolvimento Regional:
+Art. 21.º São atribuições da Direcção-Geral do Desenvolvimento Regional:
 
 a) Elaborar os programas nacionais de desenvolvimento regional;
 
@@ -384,7 +1015,7 @@ i) Promover, coordenar e acompanhar a realização de programas, acções e inic
 
 j) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 22.º A Direcção-Geral do Desenvolvimento Regional é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, e compreende os seguintes serviços:
+Art. 22.º A Direcção-Geral do Desenvolvimento Regional é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Política Regional;
 
@@ -392,9 +1023,9 @@ b) Direcção de Serviços do FEDER;
 
 c) Direcção de Serviços de Programas e Projectos.
 
-###### Art. 23.º O Departamento de Acompanhamento e Avaliação é o organismo incumbido de realizar a supervisão e a apreciação dos programas e projectos incluídos no Plano.
+Art. 23.º O Departamento de Acompanhamento e Avaliação é o organismo incumbido de realizar a supervisão e a apreciação dos programas e projectos incluídos no Plano.
 
-###### Art. 24.º São atribuições do Departamento de Acompanhamento e Avaliação:
+Art. 24.º São atribuições do Departamento de Acompanhamento e Avaliação:
 
 a) Recolher e organizar toda a informação necessária ao acompanhamento físico e avaliação de programas e projectos previstos no Plano;
 
@@ -408,13 +1039,13 @@ e) Promover a formação especializada de nível avançado em domínios relevant
 
 f) Dinamizar a actividade de consultadoria portuguesa, com incidência no País e no estrangeiro, na área de projectos de investimento.
 
-###### Art. 25.º - 1 - O Departamento de Acompanhamento e Avaliação é dirigido por um director-geral, coadjuvado por um subdirector-geral, estruturando-se por equipas de projecto, garantindo a disponibilidade da alta capacidade técnica específica de que necessita por recrutamento a consultadoria externa.
+Art. 25.º - 1 - O Departamento de Acompanhamento e Avaliação é dirigido por um director-geral, coadjuvado por um subdirector-geral, estruturando-se por equipas de projecto, garantindo a disponibilidade da alta capacidade técnica específica de que necessita por recrutamento a consultadoria externa.
 
 2 - No financiamento do Departamento de Acompanhamento e Avaliação incluir-se-á uma percentagem do valor dos programas e projectos sujeitos a avaliação, calculada em termos a regulamentar por portaria conjunta dos Ministros das Finanças e do Plano e da Administração do Território.
 
-###### Art. 26.º A Direcção-Geral da Administração Autárquica é o organismo incumbido do exercício das funções de estudo, execução e coordenação de medidas de apoio à administração local e ao reforço da cooperação entre as autarquias e a administração central.
+Art. 26.º A Direcção-Geral da Administração Autárquica é o organismo incumbido do exercício das funções de estudo, execução e coordenação de medidas de apoio à administração local e ao reforço da cooperação entre as autarquias e a administração central.
 
-###### Art. 27.º São atribuições da Direcção-Geral da Administração Autárquica:
+Art. 27.º São atribuições da Direcção-Geral da Administração Autárquica:
 
 a) Elaborar análises sobre a situação económico-financeira das autarquias, dos serviços municipalizados e de associações e federações de municípios;
 
@@ -446,7 +1077,7 @@ o) Acompanhar a acção da Direcção-Geral do Ordenamento do Território com pr
 
 p) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 28.º - 1 - A Direcção-Geral da Administração Autárquica é dirigida por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
+Art. 28.º - 1 - A Direcção-Geral da Administração Autárquica é dirigida por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Finanças Locais;
 
@@ -456,9 +1087,9 @@ c) Direcção de Serviços Jurídicos.
 
 2 - Na dependência directa do director-geral funciona a Divisão Administrativa e Financeira.
 
-###### Art. 29.º A Direcção-Geral do Ordenamento do Território é o organismo a quem compete a formulação da política de ordenamento do território, a elaboração dos correspondentes planos de ocupação e a coordenação das acções de execução e renovação de equipamentos de utilização colectiva, em articulação com as autarquias locais.
+Art. 29.º A Direcção-Geral do Ordenamento do Território é o organismo a quem compete a formulação da política de ordenamento do território, a elaboração dos correspondentes planos de ocupação e a coordenação das acções de execução e renovação de equipamentos de utilização colectiva, em articulação com as autarquias locais.
 
-###### Art. 30.º São atribuições da Direcção-Geral do Ordenamento do Território:
+Art. 30.º São atribuições da Direcção-Geral do Ordenamento do Território:
 
 a) Formular as bases gerais da política de ordenamento do território, elaborando soluções alternativas da sua ocupação;
 
@@ -482,7 +1113,7 @@ j) Acompanhar os estudos e projectos de iniciativa da Direcção-Geral da Admini
 
 l) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 31.º - 1 - A Direcção-Geral do Ordenamento do Território é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, e compreende os seguintes serviços:
+Art. 31.º - 1 - A Direcção-Geral do Ordenamento do Território é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Ordenamento;
 
@@ -502,9 +1133,9 @@ g) Serviços desconcentrados com sede em capitais de distrito.
 
 3 - Os dirigentes dos serviços desconcentrados são equiparados a chefes de divisão.
 
-###### Art. 32.º A Direcção-Geral dos Recursos Naturais é o organismo incumbido das acções de estudo, inventariação, gestão e aproveitamento dos recursos naturais.
+Art. 32.º A Direcção-Geral dos Recursos Naturais é o organismo incumbido das acções de estudo, inventariação, gestão e aproveitamento dos recursos naturais.
 
-###### Art. 33.º São atribuições da Direcção-Geral dos Recursos Naturais:
+Art. 33.º São atribuições da Direcção-Geral dos Recursos Naturais:
 
 a) Propor ao Governo as bases gerais da política de gestão dos recursos naturais;
 
@@ -526,7 +1157,7 @@ i) Prestar apoio técnico às autarquias locais no âmbito da sua competência;
 
 j) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio as suas atribuições.
 
-###### Art. 34.º - 1 - A Direcção-Geral dos Recursos Naturais é dirigida por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
+Art. 34.º - 1 - A Direcção-Geral dos Recursos Naturais é dirigida por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Desenvolvimento dos Recursos Endógenos;
 
@@ -538,9 +1169,9 @@ d) Direcção de Serviços de Hidrologia.
 
 2 - Na dependência directa do director-geral funcionam o Centro de Documentação e Informação e a Repartição Administrativa e Financeira.
 
-###### Art. 35.º A Direcção-Geral da Qualidade do Ambiente é o organismo incumbido do estudo, coordenação e execução das medidas necessárias à preservação e melhoria do ambiente e à defesa da sua qualidade.
+Art. 35.º A Direcção-Geral da Qualidade do Ambiente é o organismo incumbido do estudo, coordenação e execução das medidas necessárias à preservação e melhoria do ambiente e à defesa da sua qualidade.
 
-###### Art. 36.º São atribuições da Direcção-Geral da Qualidade do Ambiente:
+Art. 36.º São atribuições da Direcção-Geral da Qualidade do Ambiente:
 
 a) Colaborar na elaboração de uma política integrada de gestão dos recursos naturais;
 
@@ -564,7 +1195,7 @@ j) Gerir a nível nacional a rede de vigilância de qualidade do ambiente;
 
 l) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 37.º - 1 - A Direcção-Geral da Qualidade do Ambiente e dirigida por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
+Art. 37.º - 1 - A Direcção-Geral da Qualidade do Ambiente e dirigida por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
 
 a) Direcção de Serviços da Qualidade da Água;
 
@@ -582,9 +1213,9 @@ f) Direcção de Serviços de Documentação e Informação.
 
 3 - O Centro de Investigação do Ambiente é dirigido por um director de serviços.
 
-###### Art. 38.º O Serviço Nacional de Parques, Reservas e Conservação da Natureza é um organismo dotado de autonomia administrativa e financeira e personalidade jurídica que tem como objectivos desenvolver estudos e propor as medidas adequadas à protecção da Natureza.
+Art. 38.º O Serviço Nacional de Parques, Reservas e Conservação da Natureza é um organismo dotado de autonomia administrativa e financeira e personalidade jurídica que tem como objectivos desenvolver estudos e propor as medidas adequadas à protecção da Natureza.
 
-###### Art. 39.º São atribuições do Serviço Nacional de Parques, Reservas e Conservação da Natureza:
+Art. 39.º São atribuições do Serviço Nacional de Parques, Reservas e Conservação da Natureza:
 
 a) Inventariar e estudar a flora e a fauna selvagens, bem como os biótipos e os ecossistemas;
 
@@ -598,7 +1229,7 @@ e) Promover a informação, divulgação e educação adequadas à conscienciali
 
 f) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 40.º - 1 - O Serviço Nacional de Parques, Reservas e Conservação da Natureza é dirigido por um presidente, coadjuvado por um vice-presidente e pelo conselho administrativo, e compreende os seguintes serviços:
+Art. 40.º - 1 - O Serviço Nacional de Parques, Reservas e Conservação da Natureza é dirigido por um presidente, coadjuvado por um vice-presidente e pelo conselho administrativo, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Conservação da Natureza;
 
@@ -614,9 +1245,9 @@ e) Serviços locais previstos no [Decreto Regulamentar n.º 3/86](https://diario
 
 3 - Os dirigentes dos serviços locais previstos no [Decreto Regulamentar n.º 3/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1986-616412) são equiparados a director de serviços, com excepção do do Parque Nacional da Peneda-Gerês, que é equiparado a subdirector-geral.
 
-###### Art. 41.º - 1 - A Junta Nacional de Investigação Científica e Tecnológica é um organismo dotado de personalidade jurídica e autonomia administrativa e financeira que tem por funções planear, coordenar, fomentar, acompanhar e avaliar a investigação científica e tecnológica a nível nacional.
+Art. 41.º - 1 - A Junta Nacional de Investigação Científica e Tecnológica é um organismo dotado de personalidade jurídica e autonomia administrativa e financeira que tem por funções planear, coordenar, fomentar, acompanhar e avaliar a investigação científica e tecnológica a nível nacional.
 
-###### Art. 42.º - 1 - A Junta Nacional de Investigação Científica e Tecnológica dispõe dos seguintes órgãos:
+Art. 42.º - 1 - A Junta Nacional de Investigação Científica e Tecnológica dispõe dos seguintes órgãos:
 
 a) Presidente, coadjuvado por dois vice-presidentes;
 
@@ -640,17 +1271,17 @@ e) Direcção de Serviços de Cooperação e Relações Internacionais;
 
 f) Direcção de Serviços de Gestão Administrativa e Financeira.
 
-###### Art. 43.º O presidente e os vice-presidentes da Junta nacional de Investigação Científica e Tecnológica são equiparados, respectivamente, a director-geral e a subdirector-geral, sem prejuízo da sua equiparação, para efeitos remuneratórios, a reitor e vice-reitor das universidades portuguesas.
+Art. 43.º O presidente e os vice-presidentes da Junta nacional de Investigação Científica e Tecnológica são equiparados, respectivamente, a director-geral e a subdirector-geral, sem prejuízo da sua equiparação, para efeitos remuneratórios, a reitor e vice-reitor das universidades portuguesas.
 
-###### Art. 44.º O Gabinete Coordenador do Alqueva é um serviço dotado de personalidade jurídica e autonomia administrativa e financeira e continua a reger-se pelo [Decreto-Lei n.º 298/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1977-250982), de 21 de Julho.
+Art. 44.º O Gabinete Coordenador do Alqueva é um serviço dotado de personalidade jurídica e autonomia administrativa e financeira e continua a reger-se pelo [Decreto-Lei n.º 298/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1977-250982), de 21 de Julho.
 
-###### Art. 45.º O Gabinete para os Aeroportos da Região Autónoma da Madeira sucede ao Gabinete do Aeroporto de Santa Catarina e rege-se pelo [Decreto-Lei n.º 221/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740), de 17 de Julho.
+Art. 45.º O Gabinete para os Aeroportos da Região Autónoma da Madeira sucede ao Gabinete do Aeroporto de Santa Catarina e rege-se pelo [Decreto-Lei n.º 221/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740), de 17 de Julho.
 
-###### Art. 46.º As comissões de coordenação regional, criadas pelo [Decreto-Lei n.º 494/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1979-365886), de 21 de Dezembro, são os organismos incumbidos de, no respectivo âmbito regional, coordenar e executar as medidas de interesse para o desenvolvimento da respectiva região, promovendo as necessárias acções de apoio técnico e administrativo às autarquias locais nela compreendidas, em ligação com os serviços centrais envolvidos na sua realização.
+Art. 46.º As comissões de coordenação regional, criadas pelo [Decreto-Lei n.º 494/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1979-365886), de 21 de Dezembro, são os organismos incumbidos de, no respectivo âmbito regional, coordenar e executar as medidas de interesse para o desenvolvimento da respectiva região, promovendo as necessárias acções de apoio técnico e administrativo às autarquias locais nela compreendidas, em ligação com os serviços centrais envolvidos na sua realização.
 
-###### Art. 47.º As comissões de coordenação regional são os órgãos regionais de planeamento previstos na [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
+Art. 47.º As comissões de coordenação regional são os órgãos regionais de planeamento previstos na [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
 
-###### Art. 48.º - 1 - As comissões de coordenação regional são dirigidas por um presidente, coadjuvado por dois vice-presidentes e um administrador, compreendendo ainda o conselho da região, o conselho coordenador e o conselho administrativo.
+Art. 48.º - 1 - As comissões de coordenação regional são dirigidas por um presidente, coadjuvado por dois vice-presidentes e um administrador, compreendendo ainda o conselho da região, o conselho coordenador e o conselho administrativo.
 
 2 - As comissões de coordenação regional compreendem os seguintes serviços:
 
@@ -666,19 +1297,19 @@ d) Direcção Regional do Ambiente e Recursos Naturais.
 
 4 - A implementação da estrutura orgânica de cada comissão de coordenação regional pode realizar-se de forma gradual.
 
-###### Art. 49.º - 1 - O presidente, os vice-presidentes e o administrador das comissões de coordenação Regional são equiparados, respectivamente, a director-geral, subdirector-geral e director de serviços.
+Art. 49.º - 1 - O presidente, os vice-presidentes e o administrador das comissões de coordenação Regional são equiparados, respectivamente, a director-geral, subdirector-geral e director de serviços.
 
 2 - As direcções regionais são equiparadas a direcções de serviços.
 
-###### Art. 50.º Os gabinetes de apoio técnico são serviços incumbidos de realizar a assessoria técnica solicitada pelos municípios que integram a respectiva área de actuação.
+Art. 50.º Os gabinetes de apoio técnico são serviços incumbidos de realizar a assessoria técnica solicitada pelos municípios que integram a respectiva área de actuação.
 
-###### Art. 51.º Os gabinetes de apoio técnico regulam-se pelo [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março.
+Art. 51.º Os gabinetes de apoio técnico regulam-se pelo [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março.
 
-###### Art. 52.º Os gabinetes coordenadores dos programas integrados de desenvolvimento regional e as comissões de gestão do ar dependem das comissões de coordenação regional da respectiva área.
+Art. 52.º Os gabinetes coordenadores dos programas integrados de desenvolvimento regional e as comissões de gestão do ar dependem das comissões de coordenação regional da respectiva área.
 
-###### Art. 53.º O diploma que regulamentar a organização e o funcionamento de cada uma das comissões de coordenação regional definirá os meios de coordenação da acção dos gabinetes de apoio técnico, das comissões de gestão do ar, dos gabinetes coordenadores dos programas integrados de desenvolvimento regional e dos serviços desconcentrados da Direcção-Geral do Ordenamento do Território.
+Art. 53.º O diploma que regulamentar a organização e o funcionamento de cada uma das comissões de coordenação regional definirá os meios de coordenação da acção dos gabinetes de apoio técnico, das comissões de gestão do ar, dos gabinetes coordenadores dos programas integrados de desenvolvimento regional e dos serviços desconcentrados da Direcção-Geral do Ordenamento do Território.
 
-###### Art. 54.º - 1 - São extintos os seguintes organismos, integrados no Ministério do Plano e da Administração do Território pelo [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro:
+Art. 54.º - 1 - São extintos os seguintes organismos, integrados no Ministério do Plano e da Administração do Território pelo [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro:
 
 a) Secretaria-Geral do extinto Ministério da Qualidade de Vida;
 
@@ -722,9 +1353,9 @@ f) Para o Serviço Nacional de Parques, Reservas e Conservação da Natureza, os
 
 g) Para a Direcção-Geral da Qualidade do Ambiente, os da Divisão de Controle do Ambiente, do Gabinete da Área de Sines.
 
-###### Art. 55.º O regime do pessoal e o preenchimento dos lugares do quadro de pessoal do Ministério regem-se pelo disposto no presente diploma, na legislação vigente no âmbito do Ministério e nas leis gerais da função pública.
+Art. 55.º O regime do pessoal e o preenchimento dos lugares do quadro de pessoal do Ministério regem-se pelo disposto no presente diploma, na legislação vigente no âmbito do Ministério e nas leis gerais da função pública.
 
-###### Art. 56.º - 1 - Sem prejuízo de disposições específicas relativas a carreiras não comuns à Administração, o provimento de pessoal não dirigente a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
+Art. 56.º - 1 - Sem prejuízo de disposições específicas relativas a carreiras não comuns à Administração, o provimento de pessoal não dirigente a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -744,11 +1375,11 @@ b) No lugar do quadro em que vier a ser provido definitivamente, finda a comiss�
 
 6 - Enquanto durar a comissão de serviço o funcionário mantém o direito ao lugar de origem, o qual pode, entretanto, ser preenchido interinamente.
 
-###### Art. 57.º O pessoal que à data da publicação do presente decreto-lei se encontra em funções nos serviços do Ministério continua afecto aos mesmos serviços, sem prejuízo de posteriores alterações motivadas pela aplicação do disposto nos artigos seguintes.
+Art. 57.º O pessoal que à data da publicação do presente decreto-lei se encontra em funções nos serviços do Ministério continua afecto aos mesmos serviços, sem prejuízo de posteriores alterações motivadas pela aplicação do disposto nos artigos seguintes.
 
-###### Art. 58.º O pessoal em funções nos serviços extintos pelo presente decreto-lei fica afecto aos novos serviços, nos termos do n.º 2 do artigo 54.º, sem prejuízo da aplicação aos seus casos do disposto nos artigos seguintes.
+Art. 58.º O pessoal em funções nos serviços extintos pelo presente decreto-lei fica afecto aos novos serviços, nos termos do n.º 2 do artigo 54.º, sem prejuízo da aplicação aos seus casos do disposto nos artigos seguintes.
 
-###### Art. 59.º - 1 - O quadro único do Ministério do Plano e da Administração do Território é constituído pelos anexos I e II ao presente diploma.
+Art. 59.º - 1 - O quadro único do Ministério do Plano e da Administração do Território é constituído pelos anexos I e II ao presente diploma.
 
 2 - O anexo I refere-se ao pessoal dos organismos indicados nos n.os 1, 3 e 4 do artigo 1.º deste diploma.
 
@@ -758,11 +1389,11 @@ b) No lugar do quadro em que vier a ser provido definitivamente, finda a comiss�
 
 5 - No prazo de 90 dias após a publicação deste diploma será reestruturado o anexo I do quadro único referido no n.º 2, o qual não poderá exceder em encargos orçamentais o conjunto dos quadros do anexo I do presente diploma.
 
-###### Art. 60.º - 1 - Por despacho do Ministro do Plano e da Administração do Território serão definidas as dotações de pessoal, por carreiras, de cada um dos serviços do Ministério.
+Art. 60.º - 1 - Por despacho do Ministro do Plano e da Administração do Território serão definidas as dotações de pessoal, por carreiras, de cada um dos serviços do Ministério.
 
 2 - As dotações referidas no número anterior poderão ser alteradas por despacho do Ministro do Plano e da Administração do Território, sob proposta fundamentada dos serviços interessados, ouvida a Secretaria-Geral.
 
-###### Art. 61.º - 1 - O pessoal dos organismos referidos nos n.os 2 e 4 do artigo 13.º do [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro, transita para o quadro único do Ministério do Plano e da Administração do Território de acordo com as seguintes regras:
+Art. 61.º - 1 - O pessoal dos organismos referidos nos n.os 2 e 4 do artigo 13.º do [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro, transita para o quadro único do Ministério do Plano e da Administração do Território de acordo com as seguintes regras:
 
 a) Na categoria que o funcionário já possui;
 
@@ -776,17 +1407,17 @@ b) Na categoria correspondente às funções efectivamente desempenhadas, remune
 
 5 - O pessoal que não corresponda a necessidades de serviço ingressa no quadro de efectivos interdepartamentais do Ministério do Plano e da Administração do Território, nos termos e para os efeitos do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
-###### Art. 62.º - 1 - O provimento a que se refere o artigo anterior far-se-á, a título definitivo, independentemente de quaisquer formalidades legais, à excepção do visto ou anotação do Tribunal de Contas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e publicação no Diário da República.
+Art. 62.º - 1 - O provimento a que se refere o artigo anterior far-se-á, a título definitivo, independentemente de quaisquer formalidades legais, à excepção do visto ou anotação do Tribunal de Contas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e publicação no Diário da República.
 
 2 - A publicação no Diário da República do provimento referido no número anterior corresponderá, por si, sem mais formalidades, à exoneração dos actuais cargos para os funcionários já providos em lugares de quadro, bem como à rescisão dos contratos para os agentes.
 
 3 - Os funcionários e agentes que se encontrem em situações de licença sem vencimento ou de licença ilimitada mantêm os direitos que detinham à data do início das respectivas licenças, sendo-lhes aplicado o regime previsto no artigo 61.º
 
-###### Art. 63.º - 1 - Aos funcionários dos quadros dos serviços integrados do Ministério do Plano e da Administração do Território que, nos termos do disposto na alínea b) do n.º 1 do artigo 61.º, transitarem para categoria diversa será contado nesta última, para todos os efeitos legais, o tempo de serviço prestado na anterior.
+Art. 63.º - 1 - Aos funcionários dos quadros dos serviços integrados do Ministério do Plano e da Administração do Território que, nos termos do disposto na alínea b) do n.º 1 do artigo 61.º, transitarem para categoria diversa será contado nesta última, para todos os efeitos legais, o tempo de serviço prestado na anterior.
 
 2 - Ao restante pessoal provido nos termos do n.º 2 do artigo 61.º será contado, para todos os efeitos legais, o tempo de serviço prestado no exercício de funções remuneradas pela letra de vencimento com base na qual se operou a determinação da nova categoria.
 
-###### Art. 64.º - 1 - A gestão do pessoal do quadro único referido no artigo 59.º compete à Secretaria-Geral, que para o efeito manterá estreita ligação com os restantes serviços do Ministério.
+Art. 64.º - 1 - A gestão do pessoal do quadro único referido no artigo 59.º compete à Secretaria-Geral, que para o efeito manterá estreita ligação com os restantes serviços do Ministério.
 
 2 - A afectação do pessoal aos organismos e serviços centrais, regionais e locais do Ministério será feita por despacho do Ministro do Plano e da Administração do Território, sob proposta da Secretaria-Geral, ouvidos os serviços interessados.
 
@@ -796,9 +1427,9 @@ b) Na categoria correspondente às funções efectivamente desempenhadas, remune
 
 5 - O Ministro do Plano e da Administração do Território fixará por despacho as áreas e formas de articulação entre a Secretaria-Geral e os restantes organismos e serviços para cumprimento do disposto nos números anteriores.
 
-###### Art. 65.º Quando necessidades dos serviços o aconselhem serão criadas carreiras de pessoal com regime especial, sendo a sua dotação de pessoal deduzida às dotações do pessoal do quadro único nos grupos de pessoal em que se integram.
+Art. 65.º Quando necessidades dos serviços o aconselhem serão criadas carreiras de pessoal com regime especial, sendo a sua dotação de pessoal deduzida às dotações do pessoal do quadro único nos grupos de pessoal em que se integram.
 
-###### Art. 66.º As comissões de serviço do pessoal dirigente dos serviços extintos pelo presente diploma ou anteriormente extintos, dependentes do Ministério do Plano e da Administração do Território, cessam nas seguintes datas, a contar da entrada em vigor deste diploma:
+Art. 66.º As comissões de serviço do pessoal dirigente dos serviços extintos pelo presente diploma ou anteriormente extintos, dependentes do Ministério do Plano e da Administração do Território, cessam nas seguintes datas, a contar da entrada em vigor deste diploma:
 
 a) 10 dias, quanto aos directores-gerais, subdirectores-gerais e categorias equiparadas;
 
@@ -806,9 +1437,9 @@ b) 30 dias, quanto aos directores de serviços e categorias equiparadas dos serv
 
 c) 90 dias, quanto aos chefes de divisão dos serviços centrais e quanto aos directores de serviços, chefes de divisão e categorias equiparadas dos serviços desconcentrados.
 
-###### Art. 67.º O pessoal pertencente ao quadro paralelo da Secretaria-Geral do ex-Ministério das Obras Públicas transita para o quadro de efectivos interdepartamentais.
+Art. 67.º O pessoal pertencente ao quadro paralelo da Secretaria-Geral do ex-Ministério das Obras Públicas transita para o quadro de efectivos interdepartamentais.
 
-###### Art. 68.º - 1 - Serão extintos, no prazo máximo de um ano a partir da data da publicação do presente diploma, os seguintes organismos integrados no Ministério do Plano e da Administração do Território pelo [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro:
+Art. 68.º - 1 - Serão extintos, no prazo máximo de um ano a partir da data da publicação do presente diploma, os seguintes organismos integrados no Ministério do Plano e da Administração do Território pelo [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro:
 
 a) Direcção-Geral do Saneamento Básico;
 
@@ -822,7 +1453,7 @@ d) Comissão de Saneamento Básico do Concelho da Feira.
 
 3 - Serão criados organismos de âmbito regional com vista à administração das bacias hidrográficas, com estatuto, competências e âmbito territorial a definir em diplomas próprios.
 
-###### Art. 69.º - 1 - Transitam para a Direcção-Geral da Qualidade do Ambiente, provindas da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos:
+Art. 69.º - 1 - Transitam para a Direcção-Geral da Qualidade do Ambiente, provindas da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos:
 
 a) A Direcção de Serviços do Controle da Poluição;
 
@@ -836,7 +1467,7 @@ b) A Divisão de Documentação e Informação.
 
 3 - A Direcção-Geral da Qualidade do Ambiente definirá, no prazo de 45 dias, as eventuais necessidades suplementares de pessoal para efeito de prosseguimento das atribuições que para ela se transferem em consequência do estipulado no presente artigo.
 
-###### Art. 70.º - 1 - Com o fim de assegurar a extinção das direcções-gerais referidas nas alíneas a) e b) do artigo 68.º será nomeada, por despacho conjunto dos Ministros do Plano e da Administração do Território e das Finanças, uma comissão de extinção, com composição e regime a definir no mesmo despacho.
+Art. 70.º - 1 - Com o fim de assegurar a extinção das direcções-gerais referidas nas alíneas a) e b) do artigo 68.º será nomeada, por despacho conjunto dos Ministros do Plano e da Administração do Território e das Finanças, uma comissão de extinção, com composição e regime a definir no mesmo despacho.
 
 2 - À comissão de extinção competirá:
 
@@ -846,33 +1477,33 @@ b) Criar as condições necessárias à extinção das citadas direcções-gerai
 
 3 - A comissão de extinção exercerá o seu mandato até ao desempenho integral da missão para que foi nomeada.
 
-###### Art. 71.º Os serviços do Ministério do Plano e da Administração do Território acham-se submetidos ao dever geral de colaboração entre si e com outros serviços do Estado em assuntos da sua competência.
+Art. 71.º Os serviços do Ministério do Plano e da Administração do Território acham-se submetidos ao dever geral de colaboração entre si e com outros serviços do Estado em assuntos da sua competência.
 
-###### Art. 72.º Os membros do Governo da área do Ministério do Plano e da Administração do Território podem, dentro das suas atribuições, prestar apoio material e financeiro a entidades públicas, cooperativas e privadas.
+Art. 72.º Os membros do Governo da área do Ministério do Plano e da Administração do Território podem, dentro das suas atribuições, prestar apoio material e financeiro a entidades públicas, cooperativas e privadas.
 
-###### Art. 73.º Os serviços do Ministério do Plano e da Administração do Território podem proceder à venda de publicações e outros trabalhos por si editados, bem como à prestação de serviços a entidades alheias ao Ministério, constituindo o seu produto receita do Estado, a inscrever em divisão própria - «Dotação com compensação em receita» - nos orçamentos respectivos.
+Art. 73.º Os serviços do Ministério do Plano e da Administração do Território podem proceder à venda de publicações e outros trabalhos por si editados, bem como à prestação de serviços a entidades alheias ao Ministério, constituindo o seu produto receita do Estado, a inscrever em divisão própria - «Dotação com compensação em receita» - nos orçamentos respectivos.
 
-###### Art. 74.º - 1 - Mediante proposta fundamentada pode o Ministro do Plano e da Administração do Território, com o acordo do Ministro das Finanças quanto a remunerações, autorizar a contratação de especialistas e técnicos de vários ramos para tarefas específicas e por períodos determinados, quando o seu concurso seja necessário à prossecução de missões que caibam no âmbito dos serviços do Ministério.
+Art. 74.º - 1 - Mediante proposta fundamentada pode o Ministro do Plano e da Administração do Território, com o acordo do Ministro das Finanças quanto a remunerações, autorizar a contratação de especialistas e técnicos de vários ramos para tarefas específicas e por períodos determinados, quando o seu concurso seja necessário à prossecução de missões que caibam no âmbito dos serviços do Ministério.
 
 2 - Os indivíduos recrutados nos termos do número anterior não adquirem a qualidade de agentes administrativos.
 
-###### Art. 75.º - 1 - O presente diploma será regulamentado no prazo de 90 dias a contar da data da sua publicação.
+Art. 75.º - 1 - O presente diploma será regulamentado no prazo de 90 dias a contar da data da sua publicação.
 
 2 - São desde já conferidos aos serviços do Ministério os poderes necessários à prossecução das suas atribuições.
 
-###### Art. 76.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 76.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 15 de Maio de 1986.**
+Promulgado em 15 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Maio de 1986.**
+Referendado em 21 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadros de pessoal
 
@@ -938,4 +1569,4 @@ Visto e aprovado em Conselho de Ministros de 24 de Abril de 1986. - Aníbal Ant�
 
 ## ANEXO II — Quadro de pessoal a que se refere o n.º 1 do artigo 61.º do Decreto-Lei n.º 130/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13000/13431354.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13000/13431354.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13000/13431354.pdf)

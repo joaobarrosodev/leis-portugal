@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10600/12701273.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1985-152343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 723b0cfcc71798c17c3780d7be23fcd851228d8945f060531008e244dae9aa3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05c060e9a03798dc43f6376f812e96d3573c31160c76f4741fe81dcf344fc4dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227055:por
+  label: "Alterado o quadro de pessoal aprovado pelo Dec Lei 383/77, de 10-Set, na redacção do presente diploma, pela PORT.234/86.22.05.1986.MF,\
+    \ DR.IS [117] de 22.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-1986-227055
+  date: '1986-05-22'
+- type: cites
+  target: pt:dre:286114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:25Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +132,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º e 7.º do [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [113/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284), de 12 de Maio, e [537/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1980-457615), de 7 de Novembro, passam a ter a seguinte redacção, nas alíneas a seguir indicadas:
+Artigo 1.º Os artigos 3.º, 5.º e 7.º do [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [113/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284), de 12 de Maio, e [537/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1980-457615), de 7 de Novembro, passam a ter a seguinte redacção, nas alíneas a seguir indicadas:
 
-###### Art. 3.º - 1 - A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos disporá dos seguintes serviços centrais, técnicos e administrativos:
+Art. 3.º - 1 - A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos disporá dos seguintes serviços centrais, técnicos e administrativos:
 
 a) Gabinete de Planeamento Hidráulico, compreendendo:
 
-##### Divisão de Estudos e Planeamento;
+Divisão de Estudos e Planeamento;
 
 ##### Divisão de Estudos Económicos;
 
-##### Divisão de Topografia e Cartografia Hidráulica;
+Divisão de Topografia e Cartografia Hidráulica;
 
 Centro de Informática e Cálculo Automático;
 
@@ -117,31 +150,31 @@ Centro de Informática e Cálculo Automático;
 
 b) Direcção dos Serviços de Obras Hidráulicas, compreendendo:
 
-##### Divisão de Projectos de Aproveitamentos Hidráulicos;
+Divisão de Projectos de Aproveitamentos Hidráulicos;
 
 ##### Divisão de Construção;
 
-##### Divisão de Fiscalização e Exploração;
+Divisão de Fiscalização e Exploração;
 
 #### Secção de Expediente Técnico;
 
 c) Direcção dos Serviços Fluviais, compreendendo:
 
-##### Divisão de Projectos de Hidráulica Fluvial;
+Divisão de Projectos de Hidráulica Fluvial;
 
 ##### Divisão de Conservação;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 d) Direcção dos Serviços de Hidrologia, compreendendo:
 
 ##### Divisão de Hidrometria;
 
-##### Divisão de Estudos Hidrológicos;
+Divisão de Estudos Hidrológicos;
 
 ##### Divisão de Geoidrologia;
 
-##### Divisão de Hidrografia Fluvial;
+Divisão de Hidrografia Fluvial;
 
 Centro de Tecnologia Hidrológica;
 
@@ -149,7 +182,7 @@ Centro de Tecnologia Hidrológica;
 
 e) Direcção dos Serviços de Controle da Poluição, compreendendo:
 
-##### Divisão de Estudos da Qualidade das Águas;
+Divisão de Estudos da Qualidade das Águas;
 
 ##### Divisão de Controle da Poluição;
 
@@ -171,7 +204,7 @@ g) Divisão de Controle e Coordenação;
 
 h) Centro de Documentação e Secretariado para as Relações Internacionais.
 
-###### Art. 5.º À Direcção dos Serviços de Obras Hidráulicas compete:
+Art. 5.º À Direcção dos Serviços de Obras Hidráulicas compete:
 
 1) Na Divisão de Projectos de Aproveitamentos Hidráulicos:
 
@@ -213,7 +246,7 @@ f) Organizar os processos de entrega da parte das obras de fomento hidroagrícol
 
 g) Colaborar, através da Direcção-Geral de Hidráulica e Engenharia Agrícola, com os organismos do Ministério da Agricultura encarregados da exploração das obras de fomento hidroagrícola.
 
-###### Art. 7.º À Direcção dos Serviços de Controle da Poluição compete:
+Art. 7.º À Direcção dos Serviços de Controle da Poluição compete:
 
 1) Na Divisão de Estudos da Qualidade das Águas:
 
@@ -269,9 +302,9 @@ g) Prestar apoio técnico à Comissão Portuguesa para o Programa Hidrológico I
 
 Realizar estudos e dar apoio laboratorial a todos os sectores da Direcção-Geral, nomeadamente, além dos necessários ao estudo da qualidade das águas, à gestão qualitativa destas e ao controle da poluição e da eutrofização, também aos sectores da hidrologia e da geoidrologia.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, o artigo 5.º - A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, o artigo 5.º - A, com a seguinte redacção:
 
-###### Art. 5.º-A À Direcção dos Serviços Fluviais compete:
+Art. 5.º-A À Direcção dos Serviços Fluviais compete:
 
 1) Na Divisão de Projectos de Hidráulica Fluvial:
 
@@ -303,22 +336,22 @@ f) Promover e acompanhar a aplicação do Regulamento das Pequenas Barragens de 
 
 g) Promover a coordenação e normalização das actividades das direcções dos serviços regionais de hidráulica no sector da fiscalização e polícia das águas.
 
-###### Art. 3.º Em consequência do disposto nos artigos anteriores, no quadro de pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, aprovado pelo [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, e alterado pelo [Decreto-Lei n.º 113/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284), de 12 de Maio, e pelas Portarias n.os [1081/80](https://diariodarepublica.pt/dr/detalhe/portaria/1081-1980-459605), de 19 de Dezembro, e [590/83](https://diariodarepublica.pt/dr/detalhe/portaria/590-1983-451409), de 20 de Maio, são introduzidas as alterações constantes do mapa anexo ao presente diploma.
+Art. 3.º Em consequência do disposto nos artigos anteriores, no quadro de pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, aprovado pelo [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, e alterado pelo [Decreto-Lei n.º 113/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284), de 12 de Maio, e pelas Portarias n.os [1081/80](https://diariodarepublica.pt/dr/detalhe/portaria/1081-1980-459605), de 19 de Dezembro, e [590/83](https://diariodarepublica.pt/dr/detalhe/portaria/590-1983-451409), de 20 de Maio, são introduzidas as alterações constantes do mapa anexo ao presente diploma.
 
-###### Art. 4.º Todas as referências ao Ministério da Agricultura e Pescas feitas no [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [113/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284), de 12 de Maio, e [537/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1980-457615), de 7 de Novembro, entendem-se como sendo feitas ao Ministério da Agricultura.
+Art. 4.º Todas as referências ao Ministério da Agricultura e Pescas feitas no [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [113/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284), de 12 de Maio, e [537/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1980-457615), de 7 de Novembro, entendem-se como sendo feitas ao Ministério da Agricultura.
 
 Visto e aprovado em Conselho de Ministros de 10 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 
-**Promulgado em 22 de Abril de 1985.**
+Promulgado em 22 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 24 de Abril de 1985.**
+Referendado em 24 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa anexo a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/10600/12701273.pdf))](https://files.diariodarepublica.pt/1s/1985/05/10600/12701273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/10600/12701273.pdf)

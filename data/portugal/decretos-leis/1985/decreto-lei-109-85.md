@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/08700/10261027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1985-325559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1e516f1151e2786245253481d9de14c7db3ed0bccfe63f148910d3898836e95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0b1829043e22fd7b12ded492be2a20d90e3be759050c142463b33361c6a78bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Horário de Trabalho
+- Incapacidade Física
+- Junta Médica
+- Ministério da Educação
+- Pessoal Docente
+- Reconversão Profissional
 relationships:
 - type: amended_by
   target: pt:dre:243769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:495124:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-495124
+  date: '1985-05-31'
+- type: repealed_by
+  target: pt:dre:243769:por
+  label: "Revogado, a partir de 01.01.2012, o Dec Lei 290/95, de 14-Jun, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:32Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +123,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Mediante proposta do director-geral de Pessoal, o Ministro da Educação poderá autorizar a conversão da componente lectiva do horário de trabalho de professores efectivos reconhecidamente diminuídos ou incapacitados para o trabalho escolar em outras funções de natureza pedagógica, técnica ou administrativa.
+Artigo 1.º - 1 - Mediante proposta do director-geral de Pessoal, o Ministro da Educação poderá autorizar a conversão da componente lectiva do horário de trabalho de professores efectivos reconhecidamente diminuídos ou incapacitados para o trabalho escolar em outras funções de natureza pedagógica, técnica ou administrativa.
 
 2 - A conversão a que se refere o número anterior poderá ser total ou parcial, de acordo com a seguinte fórmula:
 
@@ -116,13 +141,13 @@ N(índice1) - é o número de horas lectivas que são convertidas.
 
 3 - A prestação das novas funções de natureza pedagógica, técnica ou administrativa poderá ser realizada na própria escola, em serviços do Ministério da Educação ou de outros ministérios, bem como em órgãos e serviços da administração regional ou local.
 
-###### Art. 2.º O disposto no artigo anterior poderá ainda ser aplicado aos docentes profissionalizados ou provisórios vinculados ao Ministério da Educação nos termos da lei vigente, desde que, relativamente aos mesmos, se verifique uma das seguintes condições:
+Art. 2.º O disposto no artigo anterior poderá ainda ser aplicado aos docentes profissionalizados ou provisórios vinculados ao Ministério da Educação nos termos da lei vigente, desde que, relativamente aos mesmos, se verifique uma das seguintes condições:
 
 a) A incapacidade ou diminuição para o serviço lectivo seja consequência da actividade docente;
 
 b) A incapacidade ou diminuição para o serviço lectivo não possa ser directamente atribuída à actividade lectiva, mas o docente se encontre vinculado há, pelo menos, 4 anos consecutivos ao Ministério da Educação nos termos da lei vigente.
 
-###### Art. 3.º - 1 - Os pedidos de conversão total ou parcial de serviço lectivo serão apresentados à Direcção-Geral de Pessoal pelo director escolar ou pelo conselho directivo ou quem as suas vezes fizer, por sua iniciativa ou iniciativa do próprio docente, no máximo até 15 de Maio do ano escolar anterior relativamente àquele a que a conversão respeitará, e deverão ser acompanhados dos seguintes documentos:
+Art. 3.º - 1 - Os pedidos de conversão total ou parcial de serviço lectivo serão apresentados à Direcção-Geral de Pessoal pelo director escolar ou pelo conselho directivo ou quem as suas vezes fizer, por sua iniciativa ou iniciativa do próprio docente, no máximo até 15 de Maio do ano escolar anterior relativamente àquele a que a conversão respeitará, e deverão ser acompanhados dos seguintes documentos:
 
 a) Atestado médico, declarações ou outros elementos passados pelo médico e ou por serviços médico-hospitalares;
 
@@ -130,7 +155,7 @@ b) Parecer ou pareceres dos conselhos pedagógico e directivo ou do director esc
 
 2 - No caso de o pedido ser apresentado por iniciativa do director escolar ou do conselho directivo ou por quem as suas vezes fizer poderá, desde que devidamente fundamentada, não ser apresentada a documentação mencionada na alínea a) do número anterior.
 
-###### Art. 4.º Para efeitos de aplicação do disposto no presente diploma é obrigatória a presença do docente a junta médica do Ministério da Educação:
+Art. 4.º Para efeitos de aplicação do disposto no presente diploma é obrigatória a presença do docente a junta médica do Ministério da Educação:
 
 a) Sempre que o Ministro da Educação o entenda conveniente;
 
@@ -138,15 +163,15 @@ b) Haja insuficiência da documentação apresentada como justificativa da conve
 
 c) Verificadas que sejam as condições referidas no n.º 2 do artigo anterior.
 
-###### Art. 5.º - 1 - A conversão total ou parcial de serviço lectivo não poderá ser concedida por período superior a 2 anos escolares, sem prejuízo da sua renovação.
+Art. 5.º - 1 - A conversão total ou parcial de serviço lectivo não poderá ser concedida por período superior a 2 anos escolares, sem prejuízo da sua renovação.
 
 2 - A renovação a que se refere o número anterior será obrigatoriamente precedida de apresentação a junta médica do Ministério dentro do prazo referido no artigo 3.º deste diploma.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto no artigo anterior, a conversão total de serviço lectivo prevista no presente diploma só poderá ser considerada quando a incapacidade do docente justificativa da mesma seja reconhecida clinicamente como transitória.
+Art. 6.º - 1 - Sem prejuízo do disposto no artigo anterior, a conversão total de serviço lectivo prevista no presente diploma só poderá ser considerada quando a incapacidade do docente justificativa da mesma seja reconhecida clinicamente como transitória.
 
 2 - Nos casos de conversão total, se a incapacidade do docente vier a ser reconhecida como clinicamente definitiva, aplicar-se-á a lei especial sobre reclassificação profissional de professores ou, em caso de impossibilidade, a lei geral vigente para a função pública.
 
-###### Art. 7.º A prestação de serviço não lectivo, nos termos definidos por este diploma, depende:
+Art. 7.º A prestação de serviço não lectivo, nos termos definidos por este diploma, depende:
 
 a) Em serviços do Ministério da Educação, de despacho do membro do Governo competente;
 
@@ -154,7 +179,7 @@ b) Em serviços da administração central, não dependentes do Ministério da E
 
 b) Em serviços da administração central não ou local, de protocolo a celebrar para o efeito.
 
-###### Art. 8.º São revogados:
+Art. 8.º São revogados:
 
 a) O artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho;
 
@@ -162,12 +187,12 @@ b) O [Decreto-Lei n.º 68/77](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Alípio Barrosa Pereira Dias - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 1 de Abril de 1985.**
+Promulgado em 1 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Abril de 1985.**
+Referendado em 3 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

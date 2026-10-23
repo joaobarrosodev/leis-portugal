@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/12800/20512052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1983-451779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05cdd3d592fedc89cc20d7dcc0a841bfca89b7b00769fc5313431ce1b91f3f0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4feb8af5ed681c02337fe6d27e5e7922fcf06711c035eb9aed8338d6d762b6ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:421204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:213396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392375:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:421204:por
+  label: "Revogado, na parte respeitante a educadores de infância não efectivos, pelo DEC LEI.200/87.02.05.1987.MEC, DR.IS\
+    \ [100] de 02.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1987-421204
+  date: '1987-05-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:28Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +111,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 7.º, 11.º, 14.º, 15.º, 23.º, 28.º e 33.º do [Decreto-Lei n.º 207/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1982-392375), de 25 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 7.º, 11.º, 14.º, 15.º, 23.º, 28.º e 33.º do [Decreto-Lei n.º 207/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1982-392375), de 25 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - As colocações dos candidatos referidas nas alíneas a) e b) do artigo anterior incluem-se na 1.ª fase do concurso.
 
@@ -105,7 +121,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Por despacho ministerial será designada a direcção escolar à qual competirá realizar a 2.ª fase do concurso, de entre as que se integram na mesma zona.
 
-###### Art. 5.º - 1 - Compete às direcções escolares, no que se refere à 1.ª fase do concurso previsto no artigo anterior:
+Art. 5.º - 1 - Compete às direcções escolares, no que se refere à 1.ª fase do concurso previsto no artigo anterior:
 
 a) Determinar os lugares considerados vagos e disponíveis para todo o ano escolar e afixá-los, até 30 de Julho, nos locais de estilo;
 
@@ -119,7 +135,7 @@ e) Proceder às reconduções relativas à 1.ª fase do concurso, de acordo com 
 
 2 - As listas referidas nas alíneas c) e d) do número anterior poderão, por conveniência das direcções escolares, ser divididas em 3 partes distintas e separadas correspondentes às prioridades constantes das alíneas a), b) e c) do artigo 3.º
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - Podem solicitar a recondução os professores que, cumulativamente, reúnam as seguintes condições:
 
@@ -129,7 +145,7 @@ b) Terem prestado serviço na mesma escola em resultado de concurso.
 
 3 - ...
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - ...
 
@@ -141,7 +157,7 @@ b) Terem prestado serviço na mesma escola em resultado de concurso.
 
 ...
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 2 - Os restantes candidatos serão ordenados pelos escalões definidos nas alíneas seguintes e por ordem da sua graduação profissional, fixada nos termos dos artigos 10.º, 11.º e 12.º do [Decreto-Lei n.º 20-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1982-213396):
 
@@ -161,7 +177,7 @@ g) ...
 
 3 - ...
 
-###### Art. 15.º - 1 - No boletim de concurso os candidatos poderão indicar, por ordem de prioridades:
+Art. 15.º - 1 - No boletim de concurso os candidatos poderão indicar, por ordem de prioridades:
 
 a) Um máximo de 50 escolas que se integrem no distrito escolar em que se candidatam;
 
@@ -173,24 +189,24 @@ d) ...
 
 2 - ...
 
-###### Art. 23.º - Os professores que vierem a ser colocados ao abrigo da 1.ª e da 2.ª fases do concurso, bem como os colocados nos termos do artigo 19.º, que não aceitarem, uns e outros, a colocação que lhes vier a ser atribuída de acordo com as preferências pelos mesmos manifestadas não poderão ser colocados, no respectivo ano escolar e seguinte, em exercício de funções no ensino oficial.
+Art. 23.º - Os professores que vierem a ser colocados ao abrigo da 1.ª e da 2.ª fases do concurso, bem como os colocados nos termos do artigo 19.º, que não aceitarem, uns e outros, a colocação que lhes vier a ser atribuída de acordo com as preferências pelos mesmos manifestadas não poderão ser colocados, no respectivo ano escolar e seguinte, em exercício de funções no ensino oficial.
 
-###### Art. 28.º - 1 - As nomeações de professores não efectivos poderão ser renovadas por despacho ministerial, com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas, sempre que tenha havido formalização da nomeação anterior.
+Art. 28.º - 1 - As nomeações de professores não efectivos poderão ser renovadas por despacho ministerial, com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas, sempre que tenha havido formalização da nomeação anterior.
 
 2 - ...
 
-###### Art. 33.º - Enquanto não for implementada a 2.ª fase do concurso, poderão requerer recondução, ao abrigo do artigo 7.º, nas escolas onde se encontram em exercício de funções, os professores nelas colocados até 30 de Setembro do ano anterior.
+Art. 33.º - Enquanto não for implementada a 2.ª fase do concurso, poderão requerer recondução, ao abrigo do artigo 7.º, nas escolas onde se encontram em exercício de funções, os professores nelas colocados até 30 de Setembro do ano anterior.
 
-###### Art. 2.º Por despacho do director-geral de Pessoal poderá igualmente ser anulada a inscrição de docentes num determinado distrito escolar sempre que no mesmo exista excesso de docentes, podendo tal anulação envolver a renovação da inscrição noutros distritos escolares em que se verifiquem carências de professores.
+Art. 2.º Por despacho do director-geral de Pessoal poderá igualmente ser anulada a inscrição de docentes num determinado distrito escolar sempre que no mesmo exista excesso de docentes, podendo tal anulação envolver a renovação da inscrição noutros distritos escolares em que se verifiquem carências de professores.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.
 
-**Promulgado em 12 de Maio de 1983.**
+Promulgado em 12 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Maio de 1983.**
+Referendado em 13 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.

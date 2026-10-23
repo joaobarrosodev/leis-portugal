@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 116/1986, 1º Suplemento, Série I de 1986-05-21
   number: '116'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1238-(7) a 1238-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1986-173753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4eef82249645f4e080c4faf7baebf3e39ff56279302a23d41ff71092965076e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7da6a4e7363f4cd5cf9478c9b6070376b008c924fe2784f85f5ad0ef55a2572
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:180178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:41Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +129,9 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 25.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 8.º, 11.º, 14.º, 15.º, 23.º, 25.º-B, 28.º, 29.º, 33.º, 39.º, 47.º, 83.º, 88.º, 94.º e 161.º do Código do Imposto Complementar passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 8.º, 11.º, 14.º, 15.º, 23.º, 25.º-B, 28.º, 29.º, 33.º, 39.º, 47.º, 83.º, 88.º, 94.º e 161.º do Código do Imposto Complementar passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 1.º ...
 
@@ -124,7 +151,7 @@ No uso da autorização conferida pelo artigo 25.º da [Lei n.º 9/86](https://d
 
 § 2.º ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 1.º ...
 
@@ -138,7 +165,7 @@ z'''''') As contribuições e indemnizações referidas, respectivamente, nas al
 
 3.º ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 1.º ...
 
@@ -168,7 +195,7 @@ b) 450000$00, sendo casados e não separados judicialmente de pessoas e bens.
 
 § 7.º A declaração será entregue em duplicado, devendo ser passado recibo da sua entrega num dos exemplares.
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 1.º Os anexos 1 e 2 a que se refere o artigo 39.º-A, no caso de ter havido autoliquidação:
 
@@ -194,7 +221,7 @@ b) 450000$00, sendo casados e não separados judicialmente de pessoas e bens.
 
 § 3.º ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 1.ª ...
 
@@ -220,13 +247,13 @@ b) 450000$00, sendo casados e não separados judicialmente de pessoas e bens.
 
 § 3.º ...
 
-###### Art. 23.º As entidades que paguem, ou ponham à disposição dos respectivos beneficiários, pensões ou rendas abrangidas pelas regras 6.ª, 7.ª e 7.ª-A do artigo 15.º, bem como remunerações pela prestação de serviço fora do continente e dos arquipélagos dos Açores e da Madeira, apresentarão, até 30 de Junho de cada ano, na repartição de finanças da área da respectiva residência ou sede, relações nominais modelo n.º 3, em duplicado, contendo as importâncias pagas ou postas à disposição desses beneficiários durante o ano anterior.
+Art. 23.º As entidades que paguem, ou ponham à disposição dos respectivos beneficiários, pensões ou rendas abrangidas pelas regras 6.ª, 7.ª e 7.ª-A do artigo 15.º, bem como remunerações pela prestação de serviço fora do continente e dos arquipélagos dos Açores e da Madeira, apresentarão, até 30 de Junho de cada ano, na repartição de finanças da área da respectiva residência ou sede, relações nominais modelo n.º 3, em duplicado, contendo as importâncias pagas ou postas à disposição desses beneficiários durante o ano anterior.
 
-###### Art. 25.º-B. Cada uma das relações a que se referem os artigos 22.º a 25.º-A deverá conter todos os beneficiários dos rendimentos pagos ou colocados à disposição pelas entidades responsáveis pela respectiva entrega.
+Art. 25.º-B. Cada uma das relações a que se referem os artigos 22.º a 25.º-A deverá conter todos os beneficiários dos rendimentos pagos ou colocados à disposição pelas entidades responsáveis pela respectiva entrega.
 
 § único. ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 a) ...
 
@@ -256,7 +283,7 @@ f) ...
 
 § 4.º ...
 
-###### Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 30% dos rendimentos do trabalho apurados nos termos da regra 4.ª do artigo 15.º, com o máximo 105000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:
+Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 30% dos rendimentos do trabalho apurados nos termos da regra 4.ª do artigo 15.º, com o máximo 105000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:
 
 a) ...
 
@@ -300,19 +327,19 @@ b) ...
 
 § 10.º Nos casos em que o número de dependentes referidos nos n.os 3), 4) e 5) da alínea a) for igual ou superior a 5, o total das correspondentes deduções não será inferior a 300000$00.
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes das tabelas I e II seguintes:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes das tabelas I e II seguintes:
 
 TABELA I
 
 Casados e não separados judicialmente de pessoas e bens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf)
 
 TABELA II
 
 Não casados e casados separados judicialmente de pessoas e bens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf)
 
 § 1.º ...
 
@@ -320,13 +347,13 @@ Não casados e casados separados judicialmente de pessoas e bens
 
 § 3.º ...
 
-###### Art. 39.º O apuramento do rendimento colectável e o cálculo do imposto serão efectuados pelo sistema informático, que produzirá uma nota destinada ao preenchimento do verbete individual de lançamento.
+Art. 39.º O apuramento do rendimento colectável e o cálculo do imposto serão efectuados pelo sistema informático, que produzirá uma nota destinada ao preenchimento do verbete individual de lançamento.
 
-###### Art. 47.º Até ao último dia estabelecido no artigo 45.º para a liquidação do imposto, será remetida aos contribuintes, pelo correio e em sobrescrito fechado, uma nota demonstrativa da liquidação efectuada, a qual conterá a indicação do mês em que o imposto deverá ser pago.
+Art. 47.º Até ao último dia estabelecido no artigo 45.º para a liquidação do imposto, será remetida aos contribuintes, pelo correio e em sobrescrito fechado, uma nota demonstrativa da liquidação efectuada, a qual conterá a indicação do mês em que o imposto deverá ser pago.
 
-###### Art. 83.º O imposto complementar, secção B, é devido pelas sociedades comerciais ou civis sob a forma comercial, bem como pelas empresas públicas, com sede no território do continente e dos arquipélagos dos Açores e da Madeira ou em território sob administração portuguesa, e pelas demais pessoas colectivas com sede nesses territórios ou no estrangeiro.
+Art. 83.º O imposto complementar, secção B, é devido pelas sociedades comerciais ou civis sob a forma comercial, bem como pelas empresas públicas, com sede no território do continente e dos arquipélagos dos Açores e da Madeira ou em território sob administração portuguesa, e pelas demais pessoas colectivas com sede nesses territórios ou no estrangeiro.
 
-###### Art. 88.º As sociedades, empresas públicas e demais pessoas colectivas referidas no artigo 83.º apresentarão, nos meses de Outubro a Dezembro, a declaração modelo n.º 6, quando no ano anterior tenham auferido qualquer dos rendimentos mencionados no artigo 84.º
+Art. 88.º As sociedades, empresas públicas e demais pessoas colectivas referidas no artigo 83.º apresentarão, nos meses de Outubro a Dezembro, a declaração modelo n.º 6, quando no ano anterior tenham auferido qualquer dos rendimentos mencionados no artigo 84.º
 
 § 1.º ...
 
@@ -342,11 +369,11 @@ Não casados e casados separados judicialmente de pessoas e bens
 
 § 7.º ...
 
-###### Art. 94.º ...
+Art. 94.º ...
 
 a) Para as sociedades em geral e empresas públicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf)
 
 b) ...
 
@@ -358,11 +385,11 @@ c) ...
 
 § 3.º ...
 
-###### Art. 161.º As disposições dos quatro artigos anteriores aplicar-se-ão igualmente em matéria de imposto complementar, secções A e B.
+Art. 161.º As disposições dos quatro artigos anteriores aplicar-se-ão igualmente em matéria de imposto complementar, secções A e B.
 
-###### Art. 2.º São aditados ao Código do Imposto Complementar os artigos 39.º-A e 160.º-B, com a seguinte redacção:
+Art. 2.º São aditados ao Código do Imposto Complementar os artigos 39.º-A e 160.º-B, com a seguinte redacção:
 
-###### Art. 39.º-A. Os contribuintes poderão optar pela autoliquidação do imposto se a declaração for apresentada no correspondente prazo, estabelecido no corpo do artigo 11.º, nos seus §§ 4.º e 6.º, e nos §§ 2.º e 3.º do artigo 17.º, observando-se as seguintes regras:
+Art. 39.º-A. Os contribuintes poderão optar pela autoliquidação do imposto se a declaração for apresentada no correspondente prazo, estabelecido no corpo do artigo 11.º, nos seus §§ 4.º e 6.º, e nos §§ 2.º e 3.º do artigo 17.º, observando-se as seguintes regras:
 
 1.ª A declaração modelo n.º 1 será apresentada em qualquer repartição de finanças;
 
@@ -380,30 +407,30 @@ c) ...
 
 § 3.º Ainda que extinto o procedimento para aplicação da multa, instaurar-se-á processo de transgressão para a exigência do imposto devido relativamente aos últimos cinco anos.
 
-###### Art. 160.º-B. Os contribuintes que optem pela autoliquidação ou procedam à liquidação obrigatória, nos termos dos artigos 39.º-A e 96.º, poderão remeter pelo correio, sob registo postal, a declaração modelo n.º 1 ou modelo n.º 6, consoante o caso, e respectivos documentos e, bem assim, o cheque ou vale do correio à repartição de finanças da residência ou sede ou, sendo aquela fora do território do continente e dos arquipélagos dos Açores e da Madeira, à Repartição de Finanças do 3.º Bairro Fiscal de Lisboa, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do duplicado da declaração ou do recibo e demais documentos.
+Art. 160.º-B. Os contribuintes que optem pela autoliquidação ou procedam à liquidação obrigatória, nos termos dos artigos 39.º-A e 96.º, poderão remeter pelo correio, sob registo postal, a declaração modelo n.º 1 ou modelo n.º 6, consoante o caso, e respectivos documentos e, bem assim, o cheque ou vale do correio à repartição de finanças da residência ou sede ou, sendo aquela fora do território do continente e dos arquipélagos dos Açores e da Madeira, à Repartição de Finanças do 3.º Bairro Fiscal de Lisboa, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do duplicado da declaração ou do recibo e demais documentos.
 
 § 1.º A repartição de finanças, ao receber as declarações modelos n.os 1 ou 6, os documentos justificativos e o cheque ou vale do correio, deverá proceder à respectiva conferência, processar o conhecimento e promover a cobrança, apresentando, no final de cada dia, na competente tesouraria, os conhecimentos e os correspondentes meios de pagamento.
 
 § 2.º A remessa das declarações, documentos e cheques ou vales do correio deverá ser feita com a antecedência mínima de 3 dias úteis em relação ao último dia do prazo para a entrega das declarações modelos n.os 1 ou 6.
 
-###### Art. 3.º A tabela a que se refere o artigo 15.º-A do Código do Imposto Complementar é substituída pela seguinte:
+Art. 3.º A tabela a que se refere o artigo 15.º-A do Código do Imposto Complementar é substituída pela seguinte:
 
 Tabela dos elementos que constituem os sinais exteriores de riqueza e da respectiva base de valores, a que se refere o artigo 15.º-A do Código do Imposto Complementar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11601/00070011.pdf)
 
-###### Art. 4.º Os prazos estabelecidos até 30 de Abril de cada ano nos artigos 22.º, 24.º, 25.º e 25.º-A do Código do Imposto Complementar passam para 30 de Junho de cada ano.
+Art. 4.º Os prazos estabelecidos até 30 de Abril de cada ano nos artigos 22.º, 24.º, 25.º e 25.º-A do Código do Imposto Complementar passam para 30 de Junho de cada ano.
 
-###### Art. 5.º As alterações introduzidas pelo presente diploma nos artigos 3.º, 8.º, 11.º, 14.º, 28.º, 29.º, 33.º, 39.º, 47.º e 94.º do Código do Imposto Complementar, o artigo 39.º-A, aditado a este Código pelo artigo 2.º deste diploma, bem como a nova tabela com a redacção dada pelo artigo 3.º, são aplicáveis ao imposto respeitante aos anos de 1985 e seguintes.
+Art. 5.º As alterações introduzidas pelo presente diploma nos artigos 3.º, 8.º, 11.º, 14.º, 28.º, 29.º, 33.º, 39.º, 47.º e 94.º do Código do Imposto Complementar, o artigo 39.º-A, aditado a este Código pelo artigo 2.º deste diploma, bem como a nova tabela com a redacção dada pelo artigo 3.º, são aplicáveis ao imposto respeitante aos anos de 1985 e seguintes.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 15 de Maio de 1986.**
+Promulgado em 15 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Maio de 1986.**
+Referendado em 21 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01500/02130215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1984-660155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4332f117adcfe662053689a726ea3b228842c1997b423cfaf6194310abb00bb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4aaef58c12dd154441980805ae502a2579b64cc7fb20bdafc9227fd5a16387d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Banco de Portugal
+- Conselho Coordenador do Financiamento Externo
+- Criação de Serviços
+- Dívida Pública Externa
+- Divisa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601492:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:58Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +121,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita ao disposto no presente diploma a contracção de todos os empréstimos expressos ou pagáveis em moeda estrangeira, salvo os ligados a importações de bens e serviços, a menos de 1 ano, pelas seguintes entidades:
+Artigo 1.º Fica sujeita ao disposto no presente diploma a contracção de todos os empréstimos expressos ou pagáveis em moeda estrangeira, salvo os ligados a importações de bens e serviços, a menos de 1 ano, pelas seguintes entidades:
 
 a) As Regiões Autónomas e os serviços e fundos do Estado e das Regiões Autónomas, civis ou militares, sejam ou não personalizados e tenham ou não autonomia administrativa e financeira;
 
@@ -113,7 +133,7 @@ d) As empresas de capitais maioritariamente públicos;
 
 e) As empresas de estatuto privado em que as entidades referidas nas alíneas anteriores detenham, isolada ou conjuntamente, pelo menos 50% do capital social.
 
-###### Art. 2.º - 1 - É criado o Conselho Coordenador do Financiamento Externo, com a seguinte composição:
+Art. 2.º - 1 - É criado o Conselho Coordenador do Financiamento Externo, com a seguinte composição:
 
 a) Ministro das Finanças e do Plano;
 
@@ -145,7 +165,7 @@ j) Governador do Banco de Portugal.
 
 6 - Compete ao Banco de Portugal assegurar os serviços necessários ao funcionamento do Conselho.
 
-###### Art. 3.º Compete ao Conselho Coordenador do Financiamento Externo:
+Art. 3.º Compete ao Conselho Coordenador do Financiamento Externo:
 
 a) Definir a estratégia e o faseamento do recurso a empréstimos externos por parte das entidades referidas no artigo 1.º;
 
@@ -155,13 +175,13 @@ c) Analisar trimestralmente a execução dos programas aprovados, procedendo às
 
 d) Definir orientações e emitir directivas sobre a gestão dos empréstimos externos, designadamente quanto a mercados, instrumentos, prazos, denominação em moedas e tipologia dos contratos a celebrar.
 
-###### Art. 4.º - 1 - Para efeitos de execução do disposto no artigo anterior, as entidades referidas no artigo 1.º devem enviar ao Banco de Portugal, até 30 de Outubro de cada ano, o seu programa de endividamento externo, bem como as necessidades totais de capitais alheios.
+Art. 4.º - 1 - Para efeitos de execução do disposto no artigo anterior, as entidades referidas no artigo 1.º devem enviar ao Banco de Portugal, até 30 de Outubro de cada ano, o seu programa de endividamento externo, bem como as necessidades totais de capitais alheios.
 
 2 - Quando as entidades previstas no número anterior tenham sede nas Regiões Autónomas, o seu programa de endividamento externo, bem como as suas necessidades totais de capitais alheios, serão remetidos ao Banco de Portugal pelos respectivos Governos Regionais, os quais, para o efeito, tomarão as providências necessárias.
 
 3 - O Banco de Portugal submeterá os programas a apreciação do Conselho Coordenador do Financiamento Externo, até ao dia 30 de Novembro de cada ano, o qual decidirá quais as entidades que deverão recorrer ao mercado externo.
 
-###### Art. 5.º - 1 - Compete ao Banco de Portugal:
+Art. 5.º - 1 - Compete ao Banco de Portugal:
 
 a) Manter actualizado o registo completo da dívida externa do País, para o que todas as entidades referidas no artigo 1.º lhe prestarão as informações indispensáveis;
 
@@ -171,30 +191,30 @@ c) Disciplinar, nos termos do artigo seguinte, o acesso ao mercado financeiro in
 
 2 - O disposto neste diploma não prejudica a competência do Banco de Portugal nem o regime estabelecido pelo [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), de 28 de Abril, e pelo [Decreto-Lei n.º 12/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1982-601492), de 20 de Janeiro.
 
-###### Art. 6.º - 1 - Para efeitos da alínea c) do n.º 1 do artigo anterior, o Banco de Portugal passará à entidade interessada uma credencial que a habilitará a iniciar as negociações com vista à obtenção de cada empréstimo constante do programa que lhe tiver sido aprovado e sem a qual não é permitido desencadear o processo com entidades estrangeiras.
+Art. 6.º - 1 - Para efeitos da alínea c) do n.º 1 do artigo anterior, o Banco de Portugal passará à entidade interessada uma credencial que a habilitará a iniciar as negociações com vista à obtenção de cada empréstimo constante do programa que lhe tiver sido aprovado e sem a qual não é permitido desencadear o processo com entidades estrangeiras.
 
 2 - Da credencial constarão as condições do empréstimo em causa, nos termos do programa aprovado e das condições prevalecentes no mercado.
 
-###### Art. 7.º As operações de empréstimo que explicitamente constem do programa anual aprovado referido na alínea b) do artigo 3.º ficam dispensadas da homologação prevista no n.º 1 do artigo 4.º do [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), de 28 de Abril.
+Art. 7.º As operações de empréstimo que explicitamente constem do programa anual aprovado referido na alínea b) do artigo 3.º ficam dispensadas da homologação prevista no n.º 1 do artigo 4.º do [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), de 28 de Abril.
 
-###### Art. 8.º - 1 - As representações bancárias e parabancárias portuguesas fora do território nacional, bem como as instituições financeiras com sede no estrangeiro em que o capital social seja detido maioritariamente por instituições de crédito portuguesas, ficam abrangidas pelo disposto nas alíneas a) e c) do n.º 1 do artigo 5.º, sem prejuízo de não terem de constar do programa anualmente aprovado.
+Art. 8.º - 1 - As representações bancárias e parabancárias portuguesas fora do território nacional, bem como as instituições financeiras com sede no estrangeiro em que o capital social seja detido maioritariamente por instituições de crédito portuguesas, ficam abrangidas pelo disposto nas alíneas a) e c) do n.º 1 do artigo 5.º, sem prejuízo de não terem de constar do programa anualmente aprovado.
 
 2 - Relativamente às operações de curto prazo, o Banco de Portugal indicará a periodicidade a que deverá obedecer a informação.
 
-###### Art. 9.º No que respeita ao endividamento externo do Estado, a Direcção-Geral do Tesouro prestará ao Banco de Portugal a informação necessária à consecução dos objectivos do presente diploma, designadamente o que se refere no artigo 4.º e na alínea a) do artigo 5.º
+Art. 9.º No que respeita ao endividamento externo do Estado, a Direcção-Geral do Tesouro prestará ao Banco de Portugal a informação necessária à consecução dos objectivos do presente diploma, designadamente o que se refere no artigo 4.º e na alínea a) do artigo 5.º
 
-###### Art. 10.º No que respeita ao programa de endividamento externo para 1984, as datas referidas nos n.os 1 e 3 do artigo 4.º serão, respectivamente, 30 e 45 dias após a entrada em vigor do presente diploma.
+Art. 10.º No que respeita ao programa de endividamento externo para 1984, as datas referidas nos n.os 1 e 3 do artigo 4.º serão, respectivamente, 30 e 45 dias após a entrada em vigor do presente diploma.
 
-###### Art. 11.º O presente diploma entra em vigor no dia da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto - João Rosado Correia - Carlos Montez Melancia.
 
-**Promulgado em 9 de Janeiro de 1984.**
+Promulgado em 9 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Janeiro de 1984.**
+Referendado em 10 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

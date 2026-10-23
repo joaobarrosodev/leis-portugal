@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/10100/14301434.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1984-384985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89ea47d658600189a9f0729bd5cc9b47c3c43e7b4fcc599f0310bfc2e3f54df6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ab812bc4b5f3f9ff2febfc1aa562a31a7153e522d19b80b338212a2817e7a75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoal Civil
+- Pessoal de Enfermagem
+- Serviços Departamentais das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:417217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:160280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607287:por
+  label: Rectificado pela DECL.DD5566.28.05.1984.PCM, DR.IS [126]2ºSupl de 31.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-607287
+  date: '1984-05-28'
+- type: repealed_by
+  target: pt:dre:417217:por
+  label: "Revogado pelo DEC LEI.294/87.31.07.1987.MDN, DR.IS [174] de 31.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-1987-417217
+  date: '1987-07-31'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:51Z'
   warnings: []
   errors: []
 ---
@@ -342,18 +371,18 @@ Em tudo o que não colida com a especificidade orgânica e funcional das Forças
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 13 de Abril de 1984.**
+Promulgado em 13 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Abril de 1984.**
+Referendado em 16 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Tabela anexa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/10100/14301434.pdf))](https://files.diariodarepublica.pt/1s/1984/05/10100/14301434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/10100/14301434.pdf)
 
 Ao cargo de enfermeiro-director cabe o vencimento correspondente à letra D da tabela de vencimentos da função pública.

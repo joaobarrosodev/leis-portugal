@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01200/00890089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1985-328983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2b5dda9a2a047ca6d046e3965f3ef031fb3a675170cc417cb3644634fd2457b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c3635e8384bb7c5c282513d791e0f1476a01460d9663df5d0a2bcb09e5f30c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Exportação de Capitais
+- Importação de Capitais
+- Instituição de Crédito
+- Mercado Cambial
+- Mercado de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:183432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225988:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:183432:por
+  label: "Revogado pelo DEC LEI.261/85.1985.07.15.MFP DR.IS [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1985-183432
+  date: '1985-07-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:29Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +109,16 @@ Tendo em vista afastar dúvidas quanto à constitucionalidade do n.º 3 do artig
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1, do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), de 28 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), de 28 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 4.º O Ministro das Finanças e do Plano fixará, por portaria, o limite do valor a partir do qual as autorizações a conceder pelo Banco de Portugal relativamente a operações a mais de um ano deverão ser homologadas por despacho do referido membro do Governo.
+Art. 4.º O Ministro das Finanças e do Plano fixará, por portaria, o limite do valor a partir do qual as autorizações a conceder pelo Banco de Portugal relativamente a operações a mais de um ano deverão ser homologadas por despacho do referido membro do Governo.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 7 de Janeiro de 1985.**
+Promulgado em 7 de Janeiro de 1985.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Janeiro de 1985.**
+Referendado em 9 de Janeiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 78/1983, 2º Suplemento, Série I de 1983-04-05
   number: '78'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1152-(27) a 1152-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/07802/00270031.pdf
 entry_into_force_dates: []
@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e015279a9593152c8c81f80a53344c63a8f7651cc2e84a254c372740db4ff08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16e4bb71740510189afe868fa16e4bd6759e45439641114a556b38036bfa5df6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços de Apoio ao Tribunal Constitucional
+- Tribunal Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:633292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificado pela DECL.DD5975.25.05.1983.PCM, DR.IS [125-Supl] de 31.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-05-25'
+- type: amended_by
+  target: pt:dre:384422:por
+  label: "Alterado pelo DEC LEI.172/84.1984.05.24.MFP, DR.IS [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1984-384422
+  date: '1984-05-24'
+- type: amended_by
+  target: pt:dre:361089:por
+  label: "Substituído o quadro de pessoal auxiliar e operário do Tribunal Constitucional, aprovado pelo presente diploma,\
+    \ na redacção do Dec Lei 172/84, de 24-Mai, pelo quadro constante do anexo II à PORT.811/88.19.12.1988.PCM, DR.IS [291]\
+    \ de 19.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/811-1988-361089
+  date: '1988-12-19'
+- type: amended_by
+  target: pt:dre:482162:por
+  label: "Alterados os arts. 6º, 9º, 10º, 11º, 15º, 17º e 18º e revogados o nº 5 do art. 6º , os nºs 2 a 4 do art. 14º e os\
+    \ arts. 16º e 19º, pelo DEC LEI.72-A/90.1990.03.03.MJ DR.IS [52]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-1990-482162
+  date: '1990-03-03'
+- type: amended_by
+  target: pt:dre:523411:por
+  label: Alterados os arts. 4.º, 6.º, 7.º, 8.º, 9.º e 11.º pelo(a) Decreto-Lei n.º 91/92 - Diário da República n.º 119/1992,
+    Série I-A de 1992-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1992-523411
+  date: '1992-05-23'
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:326168:por
+  label: Rectificado pela DECL.DD5755.29.04.1983.PCM, DR.IS [99-Supl] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326168
+  date: '1983-04-29'
+- type: corrected_by
+  target: pt:dre:423444:por
+  label: Rectificado pela DECL.DD5962.12.05.1983.PCM, DR.IS [125-Supl] de 31.05.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-423444
+  date: '1983-05-12'
+- type: repealed_by
+  target: pt:dre:662361:por
+  label: "Revogado a parte final do n.º 3 do art. 23.º pelo DEC LEI.106/87.06.03.1987.MOPTC, DR.IS [[54]] de 06.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-1987-662361
+  date: '1987-03-06'
+- type: repealed_by
+  target: pt:dre:235931:por
+  label: "Revogados os arts. 17.º e 18.º, pelo DEC LEI.303/98.1998.10.07.MJ DR.IS-A [231], na redacção do art. 1.º do Dec\
+    \ lei 72-A/90 de 03-Mar\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1998-235931
+  date: '1998-10-07'
+- type: repealed_by
+  target: pt:dre:633292:por
+  label: "Revogadas as disposições ainda em vigor (com excepção do nº 3 do art. 27º, na redacção do Dec Lei 172/84 de 24-Mai),\
+    \ pelo DEC LEI.545/99.1999.12.14.PCM, DR.IS-A [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/545-1999-633292
+  date: '1999-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:58Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +195,9 @@ Nestes termos, em conformidade com o disposto nos artigos 44.º, 45.º e 84.º d
 
 ### CAPÍTULO I — Da secretaria e dos serviços de apoio
 
-###### Artigo 1.º A secretaria do Tribunal Constitucional compreende uma secção de expediente, orçamento e contabilidade e secções de processos.
+Artigo 1.º A secretaria do Tribunal Constitucional compreende uma secção de expediente, orçamento e contabilidade e secções de processos.
 
-###### Art. 2.º Compete à secção de expediente, orçamento e contabilidade:
+Art. 2.º Compete à secção de expediente, orçamento e contabilidade:
 
 a) Efectuar o registo dos requerimentos dirigidos à presidência e dos despachos proferidos pelo presidente;
 
@@ -136,7 +219,7 @@ i) Executar o expediente que não seja da competência das secções de processo
 
 j) Desempenhar quaisquer outras funções conferidas por lei.
 
-###### Art. 3.º Compete às secções de processos:
+Art. 3.º Compete às secções de processos:
 
 a) Movimentar os processos e efectuar o respectivo registo e expediente;
 
@@ -150,11 +233,11 @@ e) Passar certidões;
 
 f) Desempenhar quaisquer outras funções conferidas por lei.
 
-###### Art. 4.º - 1 - A secretaria do Tribunal Constitucional é dirigida por 1 secretário do tribunal superior.
+Art. 4.º - 1 - A secretaria do Tribunal Constitucional é dirigida por 1 secretário do tribunal superior.
 
 2 - As secções de expediente, orçamento e contabilidade e as secções de processos são dirigidas, respectivamente, por 1 secretário judicial e por escrivães de direito.
 
-###### Art. 5.º Compete ao secretário do Tribunal Constitucional:
+Art. 5.º Compete ao secretário do Tribunal Constitucional:
 
 a) Dirigir a secretaria, sob a superintendência do presidente do Tribunal;
 
@@ -180,7 +263,7 @@ l) Apresentar ao magistrado do ministério público junto do Tribunal nota da di
 
 m) Desempenhar as demais funções conferidas por lei ou por determinação superior.
 
-###### Art. 6.º - 1 - Compete ao secretário judicial dirigir a secção de expediente, orçamento e contabilidade e coadjuvar nas suas funções o secretário de tribunal superior.
+Art. 6.º - 1 - Compete ao secretário judicial dirigir a secção de expediente, orçamento e contabilidade e coadjuvar nas suas funções o secretário de tribunal superior.
 
 2 - Compete aos escrivães de direito a chefia das secções de processos.
 
@@ -198,29 +281,29 @@ d) Executar as tarefas da secretaria que forem compatíveis com as suas funçõe
 
 5 - O restante pessoal não tem competência específica, cabendo-lhe executar o serviço que lhe for distribuído de acordo com a sua categoria.
 
-###### Art. 7.º - 1 - Nas suas faltas e impedimentos, o secretário é substituído pelo secretário judicial.
+Art. 7.º - 1 - Nas suas faltas e impedimentos, o secretário é substituído pelo secretário judicial.
 
 2 - Nas suas faltas e impedimentos, o secretário judicial e os escrivães de direito são substituídos, respectivamente, pelo escrivão de direito e pelo escrivão-adjunto mais antigos.
 
-###### Art. 8.º Haverá na secretaria os registos indispensáveis ao bom andamento dos serviços e tantos livros quantos forem necessários à boa ordem da escrituração.
+Art. 8.º Haverá na secretaria os registos indispensáveis ao bom andamento dos serviços e tantos livros quantos forem necessários à boa ordem da escrituração.
 
-###### Art. 9.º - 1 - No provimento dos lugares do quadro da secretaria do Tribunal Constitucional, nas matérias relativas ao estatuto dos respectivos funcionários e em tudo o que, sobre a secretaria, não estiver especialmente regulado na Lei n.º 28/82, de 15 de Novembro, e neste diploma, aplicam-se, com as necessárias adaptações, as regras do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro.
+Art. 9.º - 1 - No provimento dos lugares do quadro da secretaria do Tribunal Constitucional, nas matérias relativas ao estatuto dos respectivos funcionários e em tudo o que, sobre a secretaria, não estiver especialmente regulado na Lei n.º 28/82, de 15 de Novembro, e neste diploma, aplicam-se, com as necessárias adaptações, as regras do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro.
 
 2 - Os concursos de provimento em lugares do quadro da secretaria serão organizados pelos serviços do Tribunal e despachados pelo presidente.
 
 3 - Os despachos de nomeação respeitantes a oficiais de justiça serão comunicados, no mais breve prazo, à Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça.
 
-###### Art. 10.º Os serviços de apoio compreendem:
+Art. 10.º Os serviços de apoio compreendem:
 
 a) Gabinete do presidente;
 
 b) Divisão de apoio documental e técnico-jurídico.
 
-###### Art. 11.º - 1 - Compete ao gabinete do presidente coadjuvar directamente o presidente do Tribunal, desempenhando as tarefas que por ele lhe sejam determinadas.
+Art. 11.º - 1 - Compete ao gabinete do presidente coadjuvar directamente o presidente do Tribunal, desempenhando as tarefas que por ele lhe sejam determinadas.
 
 2 - O gabinete é constituído por 1 consultor jurídico e 1 secretário pessoal.
 
-###### Art. 12.º - 1 - Compete ao núcleo de apoio documental da divisão:
+Art. 12.º - 1 - Compete ao núcleo de apoio documental da divisão:
 
 a) Organizar a biblioteca e inventariar as publicações recebidas ou adquiridas;
 
@@ -236,7 +319,7 @@ e) Promover a publicação dos acórdãos do Tribunal.
 
 3 - A divisão é constituída por 1 chefe de divisão, consultores jurídicos, secretários pessoais, técnicos superiores e auxiliares e escriturários-dactilógrafos.
 
-###### Art. 13.º - 1 - Ao lugar de chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 13.º - 1 - Ao lugar de chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - As funções de apoio jurídico serão asseguradas por pessoal especializado, o qual prestará serviço em regime de destacamento, requisição, comissão de serviço ou contrato de prestação de serviço ou ainda em regime de acumulação quando se trate de pessoal docente.
 
@@ -246,37 +329,37 @@ e) Promover a publicação dos acórdãos do Tribunal.
 
 5 - O desempenho de funções no Tribunal Constitucional por licenciados em Direito é incompatível com o exercício da advocacia.
 
-###### Art. 14.º - 1 - Os lugares de servente e de jardineiro serão providos de entre indivíduos possuidores da escolaridade obrigatória.
+Art. 14.º - 1 - Os lugares de servente e de jardineiro serão providos de entre indivíduos possuidores da escolaridade obrigatória.
 
 2 - Os restantes lugares do quadro de pessoal dos serviços de apoio, bem como os de pessoal operário e auxiliar, serão providos de acordo com o regime geral da função pública.
 
-###### Art. 15.º A composição da secretaria, dos serviços de apoio e do quadro de pessoal operário e auxiliar é a constante do anexo I ao presente diploma, podendo ser alterada por portaria do Primeiro-Ministro, do Ministro de Estado e das Finanças e do Plano e dos Ministros da Justiça e da Reforma Administrativa, sob proposta do presidente do Tribunal.
+Art. 15.º A composição da secretaria, dos serviços de apoio e do quadro de pessoal operário e auxiliar é a constante do anexo I ao presente diploma, podendo ser alterada por portaria do Primeiro-Ministro, do Ministro de Estado e das Finanças e do Plano e dos Ministros da Justiça e da Reforma Administrativa, sob proposta do presidente do Tribunal.
 
 ### CAPÍTULO II — Do ministério público e do regime de custas
 
-###### Art. 16.º O quadro a que se refere o n.º 2 do artigo 11.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, é substituído pelo seguinte:
+Art. 16.º O quadro a que se refere o n.º 2 do artigo 11.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, é substituído pelo seguinte:
 
 Procuradores-gerais-adjuntos - 9.
 
-###### Art. 17.º A liquidação das custas devidas pelas reclamações para o Tribunal Constitucional faz-se pela parte cível do Código das Custas Judiciais e do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, ressalvadas as disposições deste diploma.
+Art. 17.º A liquidação das custas devidas pelas reclamações para o Tribunal Constitucional faz-se pela parte cível do Código das Custas Judiciais e do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, ressalvadas as disposições deste diploma.
 
-###### Art. 18.º - 1 - O imposto de justiça é fixado entre o mínimo de 5000$00 e o máximo de 50000$00, tomando-se em consideração a complexidade da causa, a actividade contumaz do vencido e o volume dos interesses em disputa.
+Art. 18.º - 1 - O imposto de justiça é fixado entre o mínimo de 5000$00 e o máximo de 50000$00, tomando-se em consideração a complexidade da causa, a actividade contumaz do vencido e o volume dos interesses em disputa.
 
 2 - O Tribunal pode, excepcionalmente, elevar o imposto de justiça até mais 20%.
 
-###### Art. 19.º O imposto do selo a liquidar é o que, pela tabela legal em vigor para os tribunais superiores, corresponde ao imposto de justiça que for fixado.
+Art. 19.º O imposto do selo a liquidar é o que, pela tabela legal em vigor para os tribunais superiores, corresponde ao imposto de justiça que for fixado.
 
-###### Art. 20.º - 1 - As custas e multas cobradas constituem receita do Estado.
+Art. 20.º - 1 - As custas e multas cobradas constituem receita do Estado.
 
 2 - As certidões de peças de processo estão sujeitas às taxas previstas no Código das Custas Judiciais e são pagas por estampilha fiscal.
 
-###### Art. 21.º O Código das Custas Judiciais e legislação complementar regulam os limites das multas e funcionam como lei subsidiária.
+Art. 21.º O Código das Custas Judiciais e legislação complementar regulam os limites das multas e funcionam como lei subsidiária.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 22.º O cartão de identificação dos juízes do Tribunal Constitucional é emitido pela secretaria, assinado pelo presidente e autenticado com o selo branco do Tribunal, obedecendo ao modelo do anexo II ao presente diploma.
+Art. 22.º O cartão de identificação dos juízes do Tribunal Constitucional é emitido pela secretaria, assinado pelo presidente e autenticado com o selo branco do Tribunal, obedecendo ao modelo do anexo II ao presente diploma.
 
-###### Art. 23.º - 1 - O direito previsto na alínea d) do n.º 1 do artigo 19.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, aplicável aos juízes do Tribunal Constitucional pelo artigo 30.º da Lei n.º 28/82, de 15 de Novembro, será assegurado mediante passe a atribuir de acordo com a alínea a) do n.º 1 do artigo 2.º e demais artigos do [Decreto-Lei n.º 274/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1978-329868), de 6 de Setembro.
+Art. 23.º - 1 - O direito previsto na alínea d) do n.º 1 do artigo 19.º da [Lei n.º 85/77](https://diariodarepublica.pt/dr/detalhe/lei/85-1977-279609), de 13 de Dezembro, aplicável aos juízes do Tribunal Constitucional pelo artigo 30.º da Lei n.º 28/82, de 15 de Novembro, será assegurado mediante passe a atribuir de acordo com a alínea a) do n.º 1 do artigo 2.º e demais artigos do [Decreto-Lei n.º 274/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1978-329868), de 6 de Setembro.
 
 2 - A requisição do passe será feita através do presidente do Tribunal Constitucional, que confirmará os elementos fornecidos pelo requisitante.
 
@@ -284,13 +367,13 @@ Procuradores-gerais-adjuntos - 9.
 
 4 - O passe obedecerá ao modelo do anexo III a este diploma.
 
-###### Art. 24.º O pessoal dos serviços de apoio e operário e auxiliar tem direito ao uso de cartão de identificação, cujo modelo consta do anexo IV a este diploma.
+Art. 24.º O pessoal dos serviços de apoio e operário e auxiliar tem direito ao uso de cartão de identificação, cujo modelo consta do anexo IV a este diploma.
 
-###### Art. 25.º Os juízes e o pessoal do Tribunal Constitucional podem inscrever-se nos Serviços Sociais do Ministério da Justiça.
+Art. 25.º Os juízes e o pessoal do Tribunal Constitucional podem inscrever-se nos Serviços Sociais do Ministério da Justiça.
 
-###### Art. 26.º A Imprensa Nacional-Casa da Moeda remeterá ao Tribunal Constitucional 2 colecções completas do Diário da República e do Diário da Assembleia da República.
+Art. 26.º A Imprensa Nacional-Casa da Moeda remeterá ao Tribunal Constitucional 2 colecções completas do Diário da República e do Diário da Assembleia da República.
 
-###### Art. 27.º - 1 - O pessoal não pertencente ao quadro de oficiais de justiça que preste serviço no Tribunal Constitucional ao abrigo do disposto no artigo 110.º da Lei n.º 28/82, de 15 de Novembro, transita, sem prejuízo das habilitações legais exigíveis, para os lugares do quadro a que se refere o artigo 15.º, de acordo com as seguintes regras:
+Art. 27.º - 1 - O pessoal não pertencente ao quadro de oficiais de justiça que preste serviço no Tribunal Constitucional ao abrigo do disposto no artigo 110.º da Lei n.º 28/82, de 15 de Novembro, transita, sem prejuízo das habilitações legais exigíveis, para os lugares do quadro a que se refere o artigo 15.º, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -300,22 +383,22 @@ b) Para categoria correspondente às funções que o funcionário ou agente actu
 
 3 - No provimento definitivo dos lugares do quadro da secretaria do Tribunal gozam de preferência, desde que reúnam os requisitos legais exigidos, os funcionários que nele prestem serviço ao abrigo do disposto no preceito e diploma referidos no n.º 1.
 
-###### Art. 28.º Os encargos resultantes do funcionamento da secretaria e dos serviços de apoio do Tribunal Constitucional são suportados pelo Orçamento Geral do Estado.
+Art. 28.º Os encargos resultantes do funcionamento da secretaria e dos serviços de apoio do Tribunal Constitucional são suportados pelo Orçamento Geral do Estado.
 
-###### Art. 29.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 29.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 5 de Abril de 1983.**
+Promulgado em 5 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Abril de 1983.**
+Referendado em 5 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Do ANEXO I ao ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/07802/00270031.pdf))](https://files.diariodarepublica.pt/1s/1983/04/07802/00270031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/07802/00270031.pdf)

@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1984-373627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09a082629c56fad02b0068465dca3578313fe5bc8d2c516fcbe03ef4b6de100f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d44aa8eeda2da609bcead159a2b353705484bd1635be0ef3322ae8158c6cbfb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Deficiente
+- Pensão Social
+relationships:
+- type: cites
+  target: pt:dre:462049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:35Z'
   warnings: []
   errors: []
 ---
@@ -98,28 +104,28 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A condição de residência em território nacional, referida no corpo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 464/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1980-462049), de 13 de Outubro, para abertura do direito a pensão social será dispensada nos casos em que no requerente concorram as restantes condições legais exigíveis para concessão da referida pensão e desde que:
+Artigo 1.º A condição de residência em território nacional, referida no corpo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 464/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1980-462049), de 13 de Outubro, para abertura do direito a pensão social será dispensada nos casos em que no requerente concorram as restantes condições legais exigíveis para concessão da referida pensão e desde que:
 
 a) O requerente prove carecer de assistência permanente de outras pessoas em razão de deficiências físicas ou psíquicas que o tornem inteiramente dependente dessa assistência;
 
 b) O agregado familiar em que o requerente se integre tenha a sua residência no estrangeiro por motivo de serviço oficial prestado por um dos seus membros ao Estado Português.
 
-###### Art. 2.º - 1 - A prova da necessidade de assistência permanente de outras pessoas e da situação de invalidez para toda e qualquer profissão, nos casos de requerimento de pensão social de invalidez, poderá ser feita por atestado dos serviços de saúde do país de residência, devidamente autenticado pelas entidades consulares portuguesas, sempre que à data do requerimento o interessado já resida no estrangeiro.
+Art. 2.º - 1 - A prova da necessidade de assistência permanente de outras pessoas e da situação de invalidez para toda e qualquer profissão, nos casos de requerimento de pensão social de invalidez, poderá ser feita por atestado dos serviços de saúde do país de residência, devidamente autenticado pelas entidades consulares portuguesas, sempre que à data do requerimento o interessado já resida no estrangeiro.
 
 2 - O requerimento e todos os elementos de prova necessários devem ser remetidos ao Centro Nacional de Pensões.
 
-###### Art. 3.º - 1 - O relatório dos serviços de acção social a que se refere a alínea a) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 464/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1980-462049) será substituído, nas situações a que se refere o presente diploma, por declaração do requerente ou do seu representante legal, prestada sob compromisso de honra, na qual se explicitem as condições sócio-económicas do requerente e do seu cônjuge, sendo caso disso.
+Art. 3.º - 1 - O relatório dos serviços de acção social a que se refere a alínea a) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 464/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1980-462049) será substituído, nas situações a que se refere o presente diploma, por declaração do requerente ou do seu representante legal, prestada sob compromisso de honra, na qual se explicitem as condições sócio-económicas do requerente e do seu cônjuge, sendo caso disso.
 
 2 - O Centro Nacional de Pensões poderá proceder às diligências que considere necessárias e adequadas à confirmação das declarações prestadas.
 
 Visto e aprovado em Conselho de Ministros de 2 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo - Maria Manuela Aguiar Dias Moreira.
 
-**Promulgado em 16 de Agosto de 1984.**
+Promulgado em 16 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Agosto de 1984.**
+Referendado em 17 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

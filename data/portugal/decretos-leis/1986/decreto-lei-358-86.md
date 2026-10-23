@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1986-222226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ff991357ed14d7446ce7807fd6c4b4ae441c292b5844726b5aab34b472b06d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a26949c941de626bee20d70b366c5878de11a019202e61c62f974700c88e027
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Alienação de Participações do Estado
+- Comunicação Social
+- Empresa Jornalística
+- Empresa Pública
 relationships:
 - type: amended_by
   target: pt:dre:374472:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUSPENSA A VIGÊNCIA DO PRESENTE DIPLOMA, PELA RES 29/86 DE 21-NOV DA AR DR.IS [281] DE 06/DEZ/1986\06"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-12-06'
+- type: amended_by
+  target: pt:dre:419654:por
+  label: "Alterados os arts. 1.º, 2.º, 4.º, 5.º. 7.º e 9.º e aditado o art. 2.º-A, pela LEI.24/87.1987.06.24.AR DR.IS [142]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-1987-419654
+  date: '1987-06-24'
+- type: amended_by
+  target: pt:dre:374472:por
+  label: "Alterado pela LEI.72/88.1988.05.26.AR DR.IS [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-1988-374472
+  date: '1988-05-26'
+- type: cites
+  target: pt:dre:227845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:14Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +134,11 @@ O presente diploma, decorrente da aplicação da citada lei, onde a mesma exige 
 
 Assim, ao abrigo do disposto no artigo 2.º da [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Art. 1.º - 1 - As partes, quotas ou acções que o Estado ou qualquer entidade pública detenha em empresas de comunicação social são alienáveis nos termos do presente diploma.
+Art. 1.º - 1 - As partes, quotas ou acções que o Estado ou qualquer entidade pública detenha em empresas de comunicação social são alienáveis nos termos do presente diploma.
 
 2 - São igualmente susceptíveis de alienação os títulos dos órgãos jornalísticos das empresas referidas no número anterior, bem como o conjunto de bens e instalações que integram o respectivo estabelecimento comercial.
 
-###### Art. 2.º - 1 - É igualmente legítima, desde que observado o disposto no presente diploma, a alienação, oneração ou reforço do capital das empresas públicas de comunicação social.
+Art. 2.º - 1 - É igualmente legítima, desde que observado o disposto no presente diploma, a alienação, oneração ou reforço do capital das empresas públicas de comunicação social.
 
 2 - A alienação do capital de empresas públicas de comunicação social a que se refere o número anterior poderá revestir a modalidade de transformação em sociedades anónimas de responsabilidade limitada.
 
@@ -113,23 +146,23 @@ Assim, ao abrigo do disposto no artigo 2.º da [Lei n.º 20/86](https://diarioda
 
 4 - No caso previsto no n.º 2 deste artigo, bem como no reforço de capital pela forma prevista no n.º 3, conceder-se-á prioridade na subscrição das respectivas acções, e pela ordem aí mencionada, às sociedades e empresas referidas no n.º 1 do artigo 8.º do presente diploma.
 
-###### Art. 3.º - 1 - A alienação de bens ou instalações de empresas do sector público de comunicação social será também efectuada por concurso público sempre que o seu valor seja igual ou superior a 20% do activo imobilizado das respectivas empresas.
+Art. 3.º - 1 - A alienação de bens ou instalações de empresas do sector público de comunicação social será também efectuada por concurso público sempre que o seu valor seja igual ou superior a 20% do activo imobilizado das respectivas empresas.
 
 2 - Quando a alienação respeite a bens ou instalações de valor inferior a 20% do activo imobilizado das respectivas empresas, a mesma efectuar-se-á por concurso limitado ou, se este ficar deserto, por negociação directa.
 
 3 - Adoptado o concurso limitado, deve o respectivo despacho fixar o prazo até ao termo do qual qualquer pessoa, singular ou colectiva, pode igualmente apresentar propostas.
 
-###### Art. 4.º - 1 - Compete ao Governo decidir, mediante resolução, dos actos previstos nos artigos precedentes.
+Art. 4.º - 1 - Compete ao Governo decidir, mediante resolução, dos actos previstos nos artigos precedentes.
 
 2 - A execução do previsto no número anterior será objecto, caso a caso, de despacho a publicar no Diário da República, proferido pelo membro do Governo da tutela e acompanhado, quando for caso disso, do regulamento do concurso a que se refere o número seguinte.
 
 3 - Os actos de alienação efectuar-se-ão mediante prévio concurso público, o qual se regulará pelas normas gerais legalmente aplicáveis e obedecerá aos normativos consignados no presente diploma.
 
-###### Art. 5.º - 1 - O concurso público é precedido de audição dos trabalhadores, através da comissão de trabalhadores da respectiva empresa pública, não só para emissão do parecer a que se refere o artigo 24.º da [Lei n.º 46/79](https://diariodarepublica.pt/dr/detalhe/lei/46-1979-369580), de 12 de Setembro, mas também para efeitos de eventual exercício dos direitos consagrados no n.º 3 do artigo 83.º da Constituição da República.
+Art. 5.º - 1 - O concurso público é precedido de audição dos trabalhadores, através da comissão de trabalhadores da respectiva empresa pública, não só para emissão do parecer a que se refere o artigo 24.º da [Lei n.º 46/79](https://diariodarepublica.pt/dr/detalhe/lei/46-1979-369580), de 12 de Setembro, mas também para efeitos de eventual exercício dos direitos consagrados no n.º 3 do artigo 83.º da Constituição da República.
 
 2 - A audição referida no número anterior será efectuada pelo respectivo membro do Governo da tutela mediante comunicação escrita, que será acompanhada do projecto de regulamento do aludido concurso.
 
-###### Art. 6.º Do referido regulamento do concurso terão de constar obrigatoriamente, pelo menos, os elementos seguintes:
+Art. 6.º Do referido regulamento do concurso terão de constar obrigatoriamente, pelo menos, os elementos seguintes:
 
 a) Prazo para a apresentação das respectivas propostas, o qual não poderá ser inferior a 30 nem superior a 60 dias;
 
@@ -147,7 +180,7 @@ g) Indicação dos documentos a apresentar pelos concorrentes;
 
 h) Menção dos diplomas legais aplicáveis à alienação e ao respectivo concurso.
 
-###### Art. 7.º - 1 - São condições necessárias e imperativas impostas aos candidatos ao concurso público exigido para as alienações de partes, quotas ou acções que o Estado ou entidades públicas possuam em empresas de comunicação social, e bem assim dos títulos dos órgãos jornalísticos de empresas do sector público, sempre que da alienação possa resultar reprivatização do órgão ou da maioria do capital da respectiva empresa:
+Art. 7.º - 1 - São condições necessárias e imperativas impostas aos candidatos ao concurso público exigido para as alienações de partes, quotas ou acções que o Estado ou entidades públicas possuam em empresas de comunicação social, e bem assim dos títulos dos órgãos jornalísticos de empresas do sector público, sempre que da alienação possa resultar reprivatização do órgão ou da maioria do capital da respectiva empresa:
 
 a) Aceitação expressa de um estatuto editorial assegurando uma orientação redactorial que salvaguarde a independência, isenção, objectividade e rigor na informação veiculada, preservando a possibilidade de expressão e confronto das diversas correntes de opinião e pensamento;
 
@@ -157,7 +190,7 @@ c) Compromisso de não alienação, transacção, cedência, gratuita ou onerosa
 
 2 - Ficam excluídas do concurso as pessoas, singulares ou colectivas, que detenham participação no capital de mais que uma empresa jornalística, salvo quando se trate de alienação de bens de equipamento ou instalações.
 
-###### Art. 8.º - 1 - Nos concursos públicos a que se refere o presente diploma beneficiarão de preferência sobre outras candidaturas, pela ordem indicada, as propostas apresentadas por:
+Art. 8.º - 1 - Nos concursos públicos a que se refere o presente diploma beneficiarão de preferência sobre outras candidaturas, pela ordem indicada, as propostas apresentadas por:
 
 a) Cooperativas constituídas por jornalistas ou por jornalistas e outros profissionais de comunicação social em que os cooperantes sejam simultaneamente trabalhadores na sociedade;
 
@@ -171,15 +204,15 @@ e) Empresas editoriais, gráficas ou similares.
 
 2 - Os concorrentes referidos no número anterior poderão beneficiar de prazos próprios de pagamento, até ao máximo de cinco anos de condições especiais de liquidação em prestações, e de um período inicial de carência, não superior a um ano, de acordo com normas expressas no regulamento do concurso.
 
-###### Art. 9.º - 1 - Todos os pareceres que sejam solicitados sobre a matéria versada neste diploma devem ser emitidos no prazo máximo de 30 dias, considerando-se favoráveis sempre que as entidades consultadas os não apresentem no referido prazo.
+Art. 9.º - 1 - Todos os pareceres que sejam solicitados sobre a matéria versada neste diploma devem ser emitidos no prazo máximo de 30 dias, considerando-se favoráveis sempre que as entidades consultadas os não apresentem no referido prazo.
 
 2 - Igual prazo de 30 dias se aplica quanto ao exercício dos direitos conferidos aos trabalhadores no artigo 83.º da Constituição, considerando-se, no entanto, como não se pretendendo exercê-los se decorrido o prazo nenhuma decisão for presente ao membro do Governo da tutela.
 
 3 - Em caso de opção favorável, os trabalhadores da respectiva empresa poderão efectuar a aquisição, nos termos do preceito constitucional anteriormente referido, pelo preço base de licitação, utilizando as facilidades máximas fixadas para o pagamento.
 
-###### Art. 10.º Do despacho a que se refere o n.º 2 do artigo 4.º constará obrigatoriamente a menção dos pareceres solicitados, bem como da audição dos trabalhadores e dos resultados de tais diligências, e será acompanhado da publicação, em anexo, do regulamento do concurso público.
+Art. 10.º Do despacho a que se refere o n.º 2 do artigo 4.º constará obrigatoriamente a menção dos pareceres solicitados, bem como da audição dos trabalhadores e dos resultados de tais diligências, e será acompanhado da publicação, em anexo, do regulamento do concurso público.
 
-###### Art. 11.º - 1 - A transmissão da titularidade das participações, quotas, acções ou bens a que se refere o presente diploma far-se-á por simples documento particular, em que intervirão o membro do Governo da tutela e a empresa adjudicatária, através dos seus representantes legais, quando for caso disso.
+Art. 11.º - 1 - A transmissão da titularidade das participações, quotas, acções ou bens a que se refere o presente diploma far-se-á por simples documento particular, em que intervirão o membro do Governo da tutela e a empresa adjudicatária, através dos seus representantes legais, quando for caso disso.
 
 2 - Esse documento mencionará as condições respectivas e as obrigações legais decorrentes de tal transmissão.
 
@@ -187,18 +220,18 @@ e) Empresas editoriais, gráficas ou similares.
 
 4 - O documento mencionado neste artigo é título bastante para quaisquer registos, equivalendo, para todos os demais efeitos, a escritura pública.
 
-###### Art. 12.º Em tudo o mais não expressamente previsto aplica-se o disposto na [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, e no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na sua actual redacção.
+Art. 12.º Em tudo o mais não expressamente previsto aplica-se o disposto na [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, e no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na sua actual redacção.
 
-###### Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira.
 
-**Promulgado em 16 de Outubro de 1986.**
+Promulgado em 16 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1986.**
+Referendado em 21 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

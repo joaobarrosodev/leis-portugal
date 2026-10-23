@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 232/1986, 1º Suplemento, Série I de 1986-10-08
   number: '232'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3002-(4) a 3002-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23201/00040006.pdf
 entry_into_force_dates: []
@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-b-1986-177662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62bdbca1ef41ab1c5e6b2f12b9604d502e99a86e0dd8fedad6b970336c9ea94b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5b5d7388edb208937cb636fae7fce6a820f8fa75b671630072ce8e01c50b8aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Aproximação das Legislações
+- Embarcação de Pesca
+- Financiamento
+- Ifadap
+- Pesca
+- Prémio de Imobilização
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:58Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +105,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - Tendo em vista favorecer no sector da pesca a adaptação das capacidades de produção da frota pesqueira nacional às novas possibilidades de captura, é criado, de acordo com as disposições da Directiva do Conselho das Comunidades Europeias de 4 de Outubro de 1983 ([83/515/CEE](https://data.europa.eu/eli/dir/1983/515/oj?locale=pt)), um regime de ajudas financeiras para as acções de redução temporária ou definitiva da actividade de embarcações de pesca profissional.
+Artigo 1.º - 1 - Tendo em vista favorecer no sector da pesca a adaptação das capacidades de produção da frota pesqueira nacional às novas possibilidades de captura, é criado, de acordo com as disposições da Directiva do Conselho das Comunidades Europeias de 4 de Outubro de 1983 ([83/515/CEE](https://data.europa.eu/eli/dir/1983/515/oj?locale=pt)), um regime de ajudas financeiras para as acções de redução temporária ou definitiva da actividade de embarcações de pesca profissional.
 
 2 - Por redução temporária de actividade entende-se a imobilização das embarcações realizada por operações de paragem temporária da sua actividade.
 
@@ -110,17 +117,17 @@ b) Transferência definitiva para um país não pertencente à Comunidade;
 
 c) Afectação permanente nas águas da Comunidade a outros fins que não a pesca profissional.
 
-###### Art. 2.º Podem beneficiar das ajudas financeiras referidas no artigo 1.º os armadores, pessoas singulares ou colectivas, e as organizações de produtores reconhecidas pelo Estado Português que explorem um ou vários navios, arvorando pavilhão nacional, e que reúnam as características definidas na Directiva do Conselho das Comunidades n.º [83/515/CEE](https://data.europa.eu/eli/dir/1983/515/oj?locale=pt) adiante especificadas.
+Art. 2.º Podem beneficiar das ajudas financeiras referidas no artigo 1.º os armadores, pessoas singulares ou colectivas, e as organizações de produtores reconhecidas pelo Estado Português que explorem um ou vários navios, arvorando pavilhão nacional, e que reúnam as características definidas na Directiva do Conselho das Comunidades n.º [83/515/CEE](https://data.europa.eu/eli/dir/1983/515/oj?locale=pt) adiante especificadas.
 
 ### CAPÍTULO II — Das ajudas financeiras por redução temporária da actividade de embarcações
 
-###### Art. 3.º - 1 - A ajuda financeira às acções de redução temporária da actividade de embarcações de pesca profissional consiste na atribuição pelo Estado Português aos respectivos beneficiários de um prémio diário de imobilização.
+Art. 3.º - 1 - A ajuda financeira às acções de redução temporária da actividade de embarcações de pesca profissional consiste na atribuição pelo Estado Português aos respectivos beneficiários de um prémio diário de imobilização.
 
 2 - Esse prémio será calculado na base de 12%, no máximo, do preço de compra ou do valor segurado da embarcação em causa, para uma actividade de pesca média anual de 250 dias, e será fixado tendo em conta os dias de paralisação da embarcação que excedam a média, realmente comprovada ou fixada por estimativa, para cada tipo de embarcação, dos dias de inactividade verificados nos três anos civis que precedem o primeiro pedido de concessão do prémio.
 
 3 - Quando a média da paralisação da embarcação, referida no número anterior for fixada por estimativa, não poderá, em caso algum, ser inferior a 115 dias.
 
-###### Art. 4.º - 1 - O prémio diário de imobilização referido no artigo anterior apenas será concedido relativamente às embarcações que:
+Art. 4.º - 1 - O prémio diário de imobilização referido no artigo anterior apenas será concedido relativamente às embarcações que:
 
 a) Tenham comprimento entre perpendiculares igual ou superior a 18 m;
 
@@ -148,11 +155,11 @@ b) O programa de imobilização de cada uma dessas embarcações;
 
 c) O porto ou os portos de armamento a que pertencem as embarcações durante os períodos de paragem temporária.
 
-###### Art. 5.º - 1 - O prémio diário de imobilização poderá ser pago, total ou parcialmente, tendo em conta os planos de imobilização ou os compromissos assumidos, bem como a média do número de dias de imobilização verificada nos três anos civis anteriores, desde que tenha sido completado pela embarcação em causa o período de imobilização mínima previsto no n.º 2 do artigo anterior.
+Art. 5.º - 1 - O prémio diário de imobilização poderá ser pago, total ou parcialmente, tendo em conta os planos de imobilização ou os compromissos assumidos, bem como a média do número de dias de imobilização verificada nos três anos civis anteriores, desde que tenha sido completado pela embarcação em causa o período de imobilização mínima previsto no n.º 2 do artigo anterior.
 
 2 - Qualquer prémio que seja devido pelas imobilizações efectuadas para além de cada período de 45 dias só é concedido no fim de cada ano.
 
-###### Art. 6.º - 1 - Os pedidos de concessão do prémio diário de imobilização serão entregues pelos interessados no Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP.
+Art. 6.º - 1 - Os pedidos de concessão do prémio diário de imobilização serão entregues pelos interessados no Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP.
 
 2 - Os pedidos referidos no número anterior deverão ser acompanhados dos seguintes documentos:
 
@@ -172,17 +179,17 @@ f) Certidão da Direcção-Geral das Contribuições e Impostos de que o requere
 
 4 - A Direcção-Geral das Pescas, no prazo de oito dias a contar da publicação do presente decreto-lei, enviará ao IFADAP todos os pedidos que, entretanto, tenham ali sido entregues pelos interessados.
 
-###### Art. 7.º - 1 - O IFADAP, uma vez recebidos os requerimentos, promoverá a sua análise, solicitando obrigatoriamente parecer à Direcção-Geral das Pescas, considerando-se que este foi tacitamente formulado no sentido da aprovação se não for emitido no prazo de dez dias a contar da recepção dos pedidos.
+Art. 7.º - 1 - O IFADAP, uma vez recebidos os requerimentos, promoverá a sua análise, solicitando obrigatoriamente parecer à Direcção-Geral das Pescas, considerando-se que este foi tacitamente formulado no sentido da aprovação se não for emitido no prazo de dez dias a contar da recepção dos pedidos.
 
 2 - Depois de obtido o parecer referido no número anterior, o IFADAP procederá à análise e proporá a aprovação ou rejeição dos pedidos, remetendo-os posteriormente ao Secretário de Estado das Pescas para despacho.
 
 ### CAPÍTULO III — Das ajudas financeiras por redução definitiva da actividade de embarcações
 
-###### Art. 8.º - 1 - A ajuda financeira às acções de redução definitiva da actividade de embarcações de pesca profissional consiste na atribuição pelo Estado Português aos respectivos beneficiários de um prémio de abate da embarcação, fixado em função da tonelagem de arqueação bruta.
+Art. 8.º - 1 - A ajuda financeira às acções de redução definitiva da actividade de embarcações de pesca profissional consiste na atribuição pelo Estado Português aos respectivos beneficiários de um prémio de abate da embarcação, fixado em função da tonelagem de arqueação bruta.
 
 2 - Esse prémio não poderá exceder o montante equivalente ao contravalor em escudos de 650 ECU por tonelada de arqueação bruta da embarcação objecto do abate, ao câmbio reportado ao dia 1 de Janeiro do ano durante o qual for concedido o prémio.
 
-###### Art. 9.º - 1 - O prémio de abate referido no artigo anterior só será concedido relativamente às embarcações que:
+Art. 9.º - 1 - O prémio de abate referido no artigo anterior só será concedido relativamente às embarcações que:
 
 a) Tenham comprimento entre perpendiculares igual ou superior a 12 m;
 
@@ -190,13 +197,13 @@ b) Tenham exercido a pesca durante, pelo menos, 100 dias no ano civil anterior a
 
 2 - Para beneficiarem desta ajuda financeira, os proprietários das embarcações em causa devem apresentar previamente planos de redução definitiva da actividade dessas embarcações com a finalidade de diminuição do esforço de pesca, devendo as embarcações ser abatidas ao registo até 31 de Dezembro de 1986.
 
-###### Art. 10.º - 1 - O prémio de abate só será pago quando os proprietários das embarcações fizerem prova de que as mesmas foram abatidas definitivamente ao respectivo registo como embarcações de pesca, para o que deverão apresentar certidão comprovativa do abate por demolição ou por mudança de actividade ou de autorização de exportação.
+Art. 10.º - 1 - O prémio de abate só será pago quando os proprietários das embarcações fizerem prova de que as mesmas foram abatidas definitivamente ao respectivo registo como embarcações de pesca, para o que deverão apresentar certidão comprovativa do abate por demolição ou por mudança de actividade ou de autorização de exportação.
 
 2 - Se a mudança de actividade ou a exportação das embarcações não forem autorizadas, o beneficiário poderá optar, até 31 de Dezembro de 1986, pela renúncia ao prémio de abate ou pela demolição da embarcação.
 
-###### Art. 11.º As embarcações que tenham sido objecto de pagamento de prémio de abate serão definitivamente excluídas do exercício da pesca profissional nas águas comunitárias e não podem ser substituídas, sendo proibida a sua inscrição no registo como embarcações de pesca de qualquer país comunitário.
+Art. 11.º As embarcações que tenham sido objecto de pagamento de prémio de abate serão definitivamente excluídas do exercício da pesca profissional nas águas comunitárias e não podem ser substituídas, sendo proibida a sua inscrição no registo como embarcações de pesca de qualquer país comunitário.
 
-###### Art. 12.º - 1 - Os pedidos de concessão do prémio de abate deverão ser entregues pelos interessados no IFADAP, acompanhados dos documentos referidos nas alíneas b) a f) do n.º 2 do artigo 6.º e de certidão da capitania do porto de armamento da embarcação de que a mesma preenche a condição referida na alínea b) do artigo 9.º
+Art. 12.º - 1 - Os pedidos de concessão do prémio de abate deverão ser entregues pelos interessados no IFADAP, acompanhados dos documentos referidos nas alíneas b) a f) do n.º 2 do artigo 6.º e de certidão da capitania do porto de armamento da embarcação de que a mesma preenche a condição referida na alínea b) do artigo 9.º
 
 2 - O prazo de entrega dos requerimentos no presente ano termina no dia 10 de Outubro de 1986.
 
@@ -204,18 +211,18 @@ b) Tenham exercido a pesca durante, pelo menos, 100 dias no ano civil anterior a
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 13.º Compete ao IFADAP proceder ao pagamento das ajudas financeiras previstas no presente diploma, bem como às diligências destinadas ao reembolso daquelas ajudas pelos competentes órgãos comunitários, nos termos da Directiva do Conselho n.º [83/515/CEE](https://data.europa.eu/eli/dir/1983/515/oj?locale=pt), de 4 de Outubro de 1983.
+Art. 13.º Compete ao IFADAP proceder ao pagamento das ajudas financeiras previstas no presente diploma, bem como às diligências destinadas ao reembolso daquelas ajudas pelos competentes órgãos comunitários, nos termos da Directiva do Conselho n.º [83/515/CEE](https://data.europa.eu/eli/dir/1983/515/oj?locale=pt), de 4 de Outubro de 1983.
 
-###### Art. 14.º Pelos serviços prestados no âmbito do presente diploma o IFADAP receberá uma retribuição referida ao montante global das ajudas concedidas fixada percentualmente mediante despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, que igualmente estabelecerá as demais condições daquela retribuição, sendo esta suportada pelas verbas do Orçamento do Estado destinadas à contribuição nacional para as ajudas aos projectos que beneficiem de apoio financeiro da Comunidade.
+Art. 14.º Pelos serviços prestados no âmbito do presente diploma o IFADAP receberá uma retribuição referida ao montante global das ajudas concedidas fixada percentualmente mediante despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, que igualmente estabelecerá as demais condições daquela retribuição, sendo esta suportada pelas verbas do Orçamento do Estado destinadas à contribuição nacional para as ajudas aos projectos que beneficiem de apoio financeiro da Comunidade.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 8 de Outubro de 1986.**
+Promulgado em 8 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Outubro de 1986.**
+Referendado em 8 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva

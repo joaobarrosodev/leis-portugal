@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/17400/22612265.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1982-397311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37416238aaa28cea941d665c2a63d3bbfa954f29843d14607eed3753a6d9ca17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4e638b5561886a572fa5a2433391d4a9fe6ab69d1d5f4b21813c8547bd8944f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Estatuto
+- Extinção de Serviços
+- Inspecção Geral de Seguros
+- Instituto de Seguros de Portugal
+- Instituto Nacional de Seguros
+- Integração de Trabalhadores
+- Orgânica
+- Rectificação de Entidade Emitente
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:659506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421775:por
+  label: "Alterado o art. 9º, pelo DEC LEI.215/87.1987.05.29.PCM, DR.IS [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: cites
+  target: pt:dre:147380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375850:por
+  label: Retificados a entidade emitente, que passa a ser a «Secretaria de Estado do Tesouro-Ministério das Finanças e do
+    Plano» e o art. 6.º do presente diploma, assim como o art. 24.º dos Estatutos do Instituto de Seguros de Portugal por
+    ele publicados, pelo(a) Declaração - Diário da República n.º 218/1982, Série I de 1982-09-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375850
+  date: '1982-09-20'
+- type: repealed_by
+  target: pt:dre:659506:por
+  label: "Revogado pelo Dec Lei.251/97.1997.09.26.MF, DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1997-659506
+  date: '1997-09-26'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:42Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +145,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado o Instituto de Seguros de Portugal, abreviadamente designado por ISP, que entrará em funcionamento nos termos do artigo 7.º
+Artigo 1.º - 1 - É criado o Instituto de Seguros de Portugal, abreviadamente designado por ISP, que entrará em funcionamento nos termos do artigo 7.º
 
 2 - O ISP é um instituto público, dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º São, nos termos do artigo 7.º, extintos o Instituto Nacional de Seguros, criado pelo [Decreto-Lei n.º 11-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-b-1976-241196), de 13 de Janeiro, cujo estatuto foi aprovado pelo [Decreto-Lei n.º 400/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1976-426953), de 26 de Maio, e a Inspecção-Geral de Seguros, criada pelo [Decreto-Lei n.º 513-B1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-b1-1979-147380), de 27 de Dezembro.
+Art. 2.º São, nos termos do artigo 7.º, extintos o Instituto Nacional de Seguros, criado pelo [Decreto-Lei n.º 11-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-b-1976-241196), de 13 de Janeiro, cujo estatuto foi aprovado pelo [Decreto-Lei n.º 400/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1976-426953), de 26 de Maio, e a Inspecção-Geral de Seguros, criada pelo [Decreto-Lei n.º 513-B1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-b1-1979-147380), de 27 de Dezembro.
 
-###### Art. 3.º - 1 - Será integrada no património do ISP, sem mais formalidades, a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais, que integravam o activo e o passivo do Instituto Nacional de Seguros na data da sua extinção.
+Art. 3.º - 1 - Será integrada no património do ISP, sem mais formalidades, a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais, que integravam o activo e o passivo do Instituto Nacional de Seguros na data da sua extinção.
 
 2 - O ISP assumirá, sem mais formalidades, todas as relações patrimonais de que o Estado, através da Inspecção-Geral de Seguros, era, à data da extinção desta, sujeito activo ou passivo.
 
@@ -120,9 +159,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Será nomeada por despacho do ministro da tutela uma comissão para proceder à liquidação, por conta das verbas inscritas no Orçamento Geral do Estado a favor da Inspecção-Geral de Seguros, de todas as despesas decorrentes de responsabilidades ou compromissos assumidos pela mencionada Inspecção-Geral de Seguros até à data da sua extinção.
 
-###### Art. 4.º Os trabalhadores ao serviço do Instituto Nacional de Seguros na data da sua extinção transitarão, sem mais formalidades, para o ISP, sem prejuízo das suas categorias e níveis e demais direitos emergentes do CCT para a actividade seguradora.
+Art. 4.º Os trabalhadores ao serviço do Instituto Nacional de Seguros na data da sua extinção transitarão, sem mais formalidades, para o ISP, sem prejuízo das suas categorias e níveis e demais direitos emergentes do CCT para a actividade seguradora.
 
-###### Art. 5.º - 1 - O pessoal do quadro da Inspecção-Geral de Seguros à data da sua extinção será incorporado no quadro de pessoal do ISP, em categorias e níveis equivalentes aos lugares que desempenhavam naquela Inspecção-Geral.
+Art. 5.º - 1 - O pessoal do quadro da Inspecção-Geral de Seguros à data da sua extinção será incorporado no quadro de pessoal do ISP, em categorias e níveis equivalentes aos lugares que desempenhavam naquela Inspecção-Geral.
 
 2 - A incorporação referida no número anterior só poderá fazer-se no caso de os interessados declararem, por escrito, aceitá-la voluntariamente no prazo de 30 dias a contar da data de entrada em funcionamento do ISP, de acordo com o disposto no artigo 7.º
 
@@ -130,43 +169,43 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O pessoal da Inspecção-Geral de Seguros que não seja incorporado no ISP poderá requerer, se estiver nas condições exigidas por lei, a sua aposentação ou ser colocado noutro serviço do Ministério das Finanças e do Plano.
 
-###### Art. 6.º O IPS rege-se pelo estatuto em anexo que faz parte integrante do presente diploma e pela demais legislação que lhe seja aplicável.
+Art. 6.º O IPS rege-se pelo estatuto em anexo que faz parte integrante do presente diploma e pela demais legislação que lhe seja aplicável.
 
-###### Art. 7.º - 1 - A data da extinção do Instituto Nacional de Seguros e da Inspecção-Geral de Seguros, bem como da entrada em funcionamento do ISP, será fixada por despacho do ministro da tutela.
+Art. 7.º - 1 - A data da extinção do Instituto Nacional de Seguros e da Inspecção-Geral de Seguros, bem como da entrada em funcionamento do ISP, será fixada por despacho do ministro da tutela.
 
 2 - Até à publicação do despacho referido no número anterior, o Instituto Nacional de Seguros irá gradualmente deixando de exercer as funções que lhe eram cometidas pelo seu estatuto e que transcendam as atribuições e competências do ISP, devendo o conselho directivo do INS incentivar a criação das condições necessárias para que as mesmas possam vir a ser exercidas pelas próprias seguradoras e se faça a transferência dos trabalhadores afectos a essas funções.
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Julho de 1982.**
+Promulgado em 21 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO
 
 ### CAPÍTULO I — Da denominação, natureza, regime e sede
 
-###### Artigo 1.º O Instituto de Seguros de Portugal, abreviadamente designado por ISP, é um instituto público, dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
+Artigo 1.º O Instituto de Seguros de Portugal, abreviadamente designado por ISP, é um instituto público, dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º - 1 - O ISP rege-se pelo presente Estatuto e respectivo regulamento, bem como pela demais legislação que lhe seja aplicável.
+Art. 2.º - 1 - O ISP rege-se pelo presente Estatuto e respectivo regulamento, bem como pela demais legislação que lhe seja aplicável.
 
 2 - O ISP fica sujeito à tutela do Ministério das Finanças e do Plano.
 
-###### Art. 3.º - 1 - O ISP tem a sua sede em Lisboa e uma delegação no Porto.
+Art. 3.º - 1 - O ISP tem a sua sede em Lisboa e uma delegação no Porto.
 
 2 - Por proposta do conselho directivo, ouvido o conselho consultivo, poderá o ministro da tutela autorizar a criação de outras delegações ou representações do ISP em território nacional.
 
 ### CAPÍTULO II — Das atribuições e competência
 
-###### Art. 4.º Constituem atribuições do ISP:
+Art. 4.º Constituem atribuições do ISP:
 
 a) Coordenar e regular, de acordo com as políticas nacionais em matéria económica e financeira, o funcionamento do sector de seguros e resseguros e da respectiva mediação, bem como de actividades complementares daquele sector e que com ele se relacionem;
 
 b) Fiscalizar o sector e actividades referidos na alínea anterior.
 
-###### Art. 5.º - 1 - Cabe ao ISP, no exercício das suas atribuições, praticar todos os actos necessários para o conveniente funcionamento e fiscalização do sector e actividades referidos no artigo anterior.
+Art. 5.º - 1 - Cabe ao ISP, no exercício das suas atribuições, praticar todos os actos necessários para o conveniente funcionamento e fiscalização do sector e actividades referidos no artigo anterior.
 
 2 - Nos termos do número anterior, compete, nomeadamente, ao ISP:
 
@@ -216,23 +255,23 @@ d) Prevenção e segurança;
 
 e) Acções de formação, aproveitamento e desenvolvimento dos recursos humanos do sector, desde que se revistam de carácter sistemático.
 
-###### Art. 6.º - O ISP emitirá, no âmbito das suas atribuições, normas regulamentares de cumprimento obrigatório pelas empresas e entidades que operam no sector e nas actividades referidas no artigo 4.º
+Art. 6.º - O ISP emitirá, no âmbito das suas atribuições, normas regulamentares de cumprimento obrigatório pelas empresas e entidades que operam no sector e nas actividades referidas no artigo 4.º
 
-###### Art. 7.º - 1 - O ISP poderá passar certidões de factos ou assuntos relacionados com as suas atribuições e competências, desde que requeridas pelas entidades interessadas ou, salvo para fins de interesse público, com o seu consentimento.
+Art. 7.º - 1 - O ISP poderá passar certidões de factos ou assuntos relacionados com as suas atribuições e competências, desde que requeridas pelas entidades interessadas ou, salvo para fins de interesse público, com o seu consentimento.
 
 2 - As certidões de factos ou assuntos considerados reservados só podem ser passadas mediante autorização do ministro da tutela, excepto se forem solicitadas por entidades com poderes judiciais.
 
 ### CAPÍTULO III — Dos órgãos
 
-###### Art. 8.º São órgãos do ISP o conselho directivo, o conselho consultivo e a comissão de fiscalização.
+Art. 8.º São órgãos do ISP o conselho directivo, o conselho consultivo e a comissão de fiscalização.
 
 #### SECÇÃO I — Do conselho directivo
 
-###### Art. 9.º - 1 - O conselho directivo é constituído por 3 a 5 membros, nomeados pelo Conselho de Ministros, sob proposta do ministro da tutela, por um período de 3 anos, renovável, de entre indivíduos com reconhecida capacidade e competência no âmbito das atribuições do ISP.
+Art. 9.º - 1 - O conselho directivo é constituído por 3 a 5 membros, nomeados pelo Conselho de Ministros, sob proposta do ministro da tutela, por um período de 3 anos, renovável, de entre indivíduos com reconhecida capacidade e competência no âmbito das atribuições do ISP.
 
 2 - Do acto de nomeação constará a designação do presidente do conselho directivo.
 
-###### Art. 10.º - 1 - Compete ao conselho directivo:
+Art. 10.º - 1 - Compete ao conselho directivo:
 
 a) Representar o ISP em juízo ou fora dele;
 
@@ -254,7 +293,7 @@ i) Executar e fazer cumprir todos os actos necessários à prossecução dos fin
 
 2 - O conselho directivo pode delegar poderes para a prática de actos que sejam da sua exclusiva competência, devendo os limites e condições de tal delegação constar da acta da reunião em que a respectiva deliberação for tomada.
 
-###### Art. 11.º - 1 - Compete ao presidente do conselho directivo:
+Art. 11.º - 1 - Compete ao presidente do conselho directivo:
 
 a) Representar o ISP;
 
@@ -268,7 +307,7 @@ d) Suspender as deliberações do conselho directivo que julgue ilegais ou contr
 
 3 - O conselho directivo designará anualmente o membro que substituirá o respectivo presidente nas suas faltas e impedimentos.
 
-###### Art. 12.º - 1 - O conselho directivo reúne ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente, por iniciativa própria ou a pedido da maioria dos seus membros ou da comissão de fiscalização, o convoque.
+Art. 12.º - 1 - O conselho directivo reúne ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente, por iniciativa própria ou a pedido da maioria dos seus membros ou da comissão de fiscalização, o convoque.
 
 2 - As deliberações do conselho directivo são tomadas por maioria dos votos dos seus membros.
 
@@ -276,13 +315,13 @@ d) Suspender as deliberações do conselho directivo que julgue ilegais ou contr
 
 4 - O conselho directivo obriga-se, sem prejuízo do disposto no n.º 2 do artigo 10.º, pela assinatura de, pelo menos, 2 dos seus membros, salvo para actos de mero expediente, em que bastará apenas uma assinatura.
 
-###### Art. 13.º - 1 - Os membros do conselho directivo ficarão sujeitos ao Estatuto do Gestor Público, na parte que lhes seja aplicável.
+Art. 13.º - 1 - Os membros do conselho directivo ficarão sujeitos ao Estatuto do Gestor Público, na parte que lhes seja aplicável.
 
 2 - O ministro da tutela fixará, por despacho, o regime dos membros do conselho directivo, na parte em que não lhes seja aplicável o Estatuto referido no número anterior, nomeadamente no que concerne a aspectos de vencimentos.
 
 #### SECÇÃO II — Do conselho consultivo
 
-###### Art. 14.º - 1 - O conselho consultivo é constituído por:
+Art. 14.º - 1 - O conselho consultivo é constituído por:
 
 a) 1 representante do ministro da tutela, que presidirá;
 
@@ -300,7 +339,7 @@ e) O presidente do conselho directivo.
 
 4 - O presidente do conselho consultivo poderá, quando tal se justifique, convocar para as respectivas reuniões representantes das diversas actividades económicas e dos utentes.
 
-###### Art. 15.º - 1 - O conselho consultivo é o órgão de consulta do ISP sobre as grandes linhas de orientação relativas à coordenação do sector e das actividades referidas no artigo 4.º e ao seu ajustamento às políticas nacionais.
+Art. 15.º - 1 - O conselho consultivo é o órgão de consulta do ISP sobre as grandes linhas de orientação relativas à coordenação do sector e das actividades referidas no artigo 4.º e ao seu ajustamento às políticas nacionais.
 
 2 - Ao conselho consultivo compete pronunciar-se sobre todas as questões que, de harmonia com o disposto no número anterior, lhe sejam submetidas por qualquer dos seus membros ou pelo conselho directivo, devendo, no entanto, ser, obrigatoriamente, ouvido sobre os seguintes assuntos:
 
@@ -312,17 +351,17 @@ c) Abertura de delegações ou representações do ISP;
 
 d) Pedidos de transferência da carteira, alterações de estatuto ou de capital e condições de encerramento de seguradoras e resseguradoras.
 
-###### Art. 16.º - 1 - O conselho consultivo reúne ordinariamente de 2 em 2 meses e extraordinariamente por convocação do respectivo presidente, por sua iniciativa ou a solicitação da maioria dos seus membros ou do conselho directivo.
+Art. 16.º - 1 - O conselho consultivo reúne ordinariamente de 2 em 2 meses e extraordinariamente por convocação do respectivo presidente, por sua iniciativa ou a solicitação da maioria dos seus membros ou do conselho directivo.
 
 2 - De todas as reuniões do conselho consultivo será lavrada acta, que será assinada por todos os membros presentes.
 
 #### SECÇÃO III — Da comissão de fiscalização
 
-###### Art. 17.º - 1 - A comissão de fiscalização é constituída por 3 membros, nomeados pelo ministro da tutela, devendo um deles ser revisor oficial de contas.
+Art. 17.º - 1 - A comissão de fiscalização é constituída por 3 membros, nomeados pelo ministro da tutela, devendo um deles ser revisor oficial de contas.
 
 2 - Do acto de nomeação constará a designação do presidente da comissão de fiscalização.
 
-###### Art. 18.º Compete à comissão de fiscalização:
+Art. 18.º Compete à comissão de fiscalização:
 
 a) Fiscalizar a gestão do ISP;
 
@@ -338,19 +377,19 @@ f) Solicitar ao presidente do conselho directivo reuniões conjuntas dos dois ó
 
 g) Pronunciar-se sobre qualquer assunto de interesse para o ISP, que seja submetido à sua apreciação pelo conselho directivo.
 
-###### Art. 19.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocada pelo respectivo presidente, por sua iniciativa ou a solicitação do conselho directivo.
+Art. 19.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocada pelo respectivo presidente, por sua iniciativa ou a solicitação do conselho directivo.
 
 2 - De todas as reuniões da comissão de fiscalização será lavrada acta, que será assinada por todos os membros presentes.
 
-###### Art. 20.º - 1 - Os membros da comissão de fiscalização são nomeados por um período de 3 anos, renovável.
+Art. 20.º - 1 - Os membros da comissão de fiscalização são nomeados por um período de 3 anos, renovável.
 
 2 - O ministro da tutela fixará por despacho o vencimento dos membros da comissão de fiscalização.
 
 ### CAPÍTULO IV — Do património, receitas e despesas
 
-###### Art. 21.º O património do ISP é constituído por todos os valores do activo e do passivo do extinto Instituto Nacional de Seguros e ainda pelos bens do Estado afectos à Inspecção-Geral de Seguros que, por despacho do ministro da tutela, seja julgado conveniente transitar para o ISP.
+Art. 21.º O património do ISP é constituído por todos os valores do activo e do passivo do extinto Instituto Nacional de Seguros e ainda pelos bens do Estado afectos à Inspecção-Geral de Seguros que, por despacho do ministro da tutela, seja julgado conveniente transitar para o ISP.
 
-###### Art. 22.º - 1 - Constituem receitas do ISP:
+Art. 22.º - 1 - Constituem receitas do ISP:
 
 a) Uma taxa paga pelas seguradoras a favor do ISP, nos termos das normas legais em vigor;
 
@@ -368,7 +407,7 @@ g) Dotações que, eventualmente, lhe venham a ser atribuídas pelo Estado.
 
 2 - As publicações obrigatórias referidas na alínea b) do número anterior serão feitas ao preço de idêntica publicação no Diário da República.
 
-###### Art. 23.º Constituem despesas do ISP:
+Art. 23.º Constituem despesas do ISP:
 
 a) Os encargos com o respectivo funcionamento;
 
@@ -376,13 +415,13 @@ b) Os custos de aquisição, manutenção e conservação de bens ou serviços q
 
 ### CAPÍTULO V — Da gestão financeira e patrimonial
 
-###### Art. 24.º A gestão do ISP deve ser conduzida de acordo com os imperativos do planeamento económico nacional e segundo critérios objectivos de economicidade, devendo a sua actividade financeira ser conforme às normas legais em vigor, não lhe sendo aplicável o regime geral da actividade financeira dos fundos autó-
+Art. 24.º A gestão do ISP deve ser conduzida de acordo com os imperativos do planeamento económico nacional e segundo critérios objectivos de economicidade, devendo a sua actividade financeira ser conforme às normas legais em vigor, não lhe sendo aplicável o regime geral da actividade financeira dos fundos autó-
 
 ### CAPÍTULO VI — Do pessoal
 
-###### Art. 25.º O estatuto do pessoal do ISP baseia-se no contrato individual de trabalho, encontrando-se submetido às disposições constantes do contrato colectivo de trabalho para a actividade seguradora.
+Art. 25.º O estatuto do pessoal do ISP baseia-se no contrato individual de trabalho, encontrando-se submetido às disposições constantes do contrato colectivo de trabalho para a actividade seguradora.
 
-###### Art. 26.º - 1 - O pessoal do ISP encontra-se submetido ao regime geral de segurança social.
+Art. 26.º - 1 - O pessoal do ISP encontra-se submetido ao regime geral de segurança social.
 
 2 - No que se refere a benefícios complementares da segurança social, o pessoal da extinta Inspecção-Geral de Seguros incorporado no quadro do ISP beneficiará do regime previsto no contrato colectivo de trabalho para a actividade seguradora.
 
@@ -390,8 +429,8 @@ b) Os custos de aquisição, manutenção e conservação de bens ou serviços q
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 27.º Os processos de transgressão a instaurar pelo ISP são instruídos nos termos das disposições de processo respectivas, que eram anteriormente aplicáveis por intermédio da extinta Inspecção-Geral de Seguros.
+Art. 27.º Os processos de transgressão a instaurar pelo ISP são instruídos nos termos das disposições de processo respectivas, que eram anteriormente aplicáveis por intermédio da extinta Inspecção-Geral de Seguros.
 
-###### Art. 28.º - 1 - Os membros dos órgãos do ISP, bem como os trabalhadores do seu quadro de pessoal, devem guardar sigilo dos factos cujo conhecimento lhes advenha exclusivamente pelo exercício das suas funções.
+Art. 28.º - 1 - Os membros dos órgãos do ISP, bem como os trabalhadores do seu quadro de pessoal, devem guardar sigilo dos factos cujo conhecimento lhes advenha exclusivamente pelo exercício das suas funções.
 
 2 - A violação do dever do segredo profissional previsto no número anterior é, para além da inerente responsabilidade civil e disciplinar, punível nos termos do Código Penal.

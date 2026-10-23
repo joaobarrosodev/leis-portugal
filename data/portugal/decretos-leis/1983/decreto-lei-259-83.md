@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1983-452054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3928b9d50f87b9e238da2897e87e69f9d2c0fb53270a7aab8f35dada4119231a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa7ccc02462e1b105f44d07c70850a47e2f66fd2ba04b3bdef02309cf3abb1d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aposentado
+- CASA PIA de Lisboa
+- Diuturnidades
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:51Z'
   warnings: []
   errors: []
 ---
@@ -93,24 +105,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao pessoal pertencente às instituições integradas na Casa Pia de Lisboa será contado, para efeitos de aposentação e diuturnidades, todo o tempo de serviço prestado nessas mesmas instituições.
+Artigo 1.º Ao pessoal pertencente às instituições integradas na Casa Pia de Lisboa será contado, para efeitos de aposentação e diuturnidades, todo o tempo de serviço prestado nessas mesmas instituições.
 
-###### Art. 2.º - 1 - As pensões globais de aposentação e sobrevivência que forem devidas serão pagas pela Caixa Geral de Aposentações ou pelo Montepio dos Servidores do Estado, que receberá do Centro Nacional de Pensões e ainda do organismo a quem tiver sido cometido o encargo com as pensões complementares a quota-parte da pensão da responsabilidade desta última instituição e do mesmo organismo, de harmonia com a repartição estabelecida pelo [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio.
+Art. 2.º - 1 - As pensões globais de aposentação e sobrevivência que forem devidas serão pagas pela Caixa Geral de Aposentações ou pelo Montepio dos Servidores do Estado, que receberá do Centro Nacional de Pensões e ainda do organismo a quem tiver sido cometido o encargo com as pensões complementares a quota-parte da pensão da responsabilidade desta última instituição e do mesmo organismo, de harmonia com a repartição estabelecida pelo [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio.
 
 2 - A entrega das importâncias referidas no número anterior far-se-á através de conta corrente, a abrir na Caixa Nacional de Previdência, entre a Caixa Geral de Aposentações ou o Montepio dos Servidores do Estado, por um lado, e o Centro Nacional de Pensões e o organismo que responder pelas prestações complementares, pelo outro.
 
-###### Art. 3.º Ao subsídio previsto no artigo 83.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, são aplicáveis as regras estabelecidas neste diploma para as pensões de aposentação ou reforma do pessoal abrangido pelo artigo 1.º
+Art. 3.º Ao subsídio previsto no artigo 83.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, são aplicáveis as regras estabelecidas neste diploma para as pensões de aposentação ou reforma do pessoal abrangido pelo artigo 1.º
 
-###### Art. 4.º Para efeitos do disposto no artigo 1.º devem os interessados requerer as diuturnidades a que se julgam com direito no prazo de 30 dias a contar da data da entrada em vigor do presente diploma.
+Art. 4.º Para efeitos do disposto no artigo 1.º devem os interessados requerer as diuturnidades a que se julgam com direito no prazo de 30 dias a contar da data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 26 de Maio de 1983.**
+Promulgado em 26 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Maio de 1983.**
+Referendado em 30 de Maio de 1983.
 
-**O Primeiro-Ministro Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro Francisco José Pereira Pinto Balsemão.

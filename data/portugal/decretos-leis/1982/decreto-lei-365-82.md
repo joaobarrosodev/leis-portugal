@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20800/26742686.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,149 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f763e95679199032770f2f323ee9e9894967d43004a00862ed33ac86a408a9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a673b032fae6cb691511b2e6d4f0a02416c180c782a4544951aa61331419a136
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Centro de Estudos da Profilaxia da Droga
+- Centro de Investigação e Controlo da Droga
+- Consumo
+- Definição de Competências
+- Droga
+- Formas de Provimento
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
+- Inserção Social
+- Integração de Serviços
+- Ministério da Justiça
+- Orgânica
+- Pessoal Dirigente
+- Polícia Judiciária
+- Quadro de Pessoal
+- Toxicodependente
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:274382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540428:por
+  label: "Alterado o quadro de pessoal pela PORT.1/83.1983.01.03.MFP DR.IS [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1-1983-540428
+  date: '1983-01-03'
+- type: amended_by
+  target: pt:dre:182020:por
+  label: "Criado um lugar de assessor no quadro de pessoal do Centro de Estudos da Profilaxia da Droga, constante do presente\
+    \ diploma, pela PORT.387/85.26.06.1985.PCM, DR.IS [144] de 26.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1985-182020
+  date: '1985-06-26'
+- type: amended_by
+  target: pt:dre:177642:por
+  label: "ALTERADOS OS ARTIGOS 2, 3, 33, 46 E 66 PELO DECRETO LEI 418/85, PUBLICADO NO DR.IS, 242.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/418-1985-177642
+  date: '1985-10-21'
+- type: amended_by
+  target: pt:dre:333313:por
+  label: "Determinado que o Serviço de Prevenção e Tratamento da Toxicodependência sucede em todos os direitos e obrigações\
+    \ ao Centro de Estudos da Profilaxia da Droga, pelo DEC LEI.83/90.14.03.1990.MS, DR.IS [61] de 14.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1990-333313
+  date: '1990-03-14'
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "Transitado o Gabinete de Planeamento e Coordenação do Combate á Droga para a Presidência do Conselho de Ministros,\
+    \ pelo DEC LEI.55/98.1998.03.16.PCM DR.IS-A [63]M\0M\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
+- type: amended_by
+  target: pt:dre:169004:por
+  label: "Extinto o GPCCD pelo DEC LEI.31/99.1999.02.05.PCM DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1999-169004
+  date: '1999-02-05'
+- type: cites
+  target: pt:dre:252453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573342:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375418:por
+  label: Rectificado pela DECL.DD881.1982.09.17.PCM DR.IS [229] DE 02/OUT/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375418
+  date: '1982-09-17'
+- type: repealed_by
+  target: pt:dre:516491:por
+  label: "Revogado o cap. II, pelo DEC LEI.43/94.1994.02.17.MS, DR.IS-A [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-1994-516491
+  date: '1994-02-17'
+- type: repealed_by
+  target: pt:dre:169004:por
+  label: "Revogado pelo DEC LEI.31/99.1999.02.05.PCM DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1999-169004
+  date: '1999-02-05'
 article_structure:
   article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:42Z'
   warnings: []
   errors: []
 ---
@@ -798,12 +907,12 @@ g) A [Portaria n.º 369/81](https://diariodarepublica.pt/dr/detalhe/portaria/369
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 19 de Agosto de 1982.**
+Promulgado em 19 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Do MAPA I ao MAPA VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20800/26742686.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20800/26742686.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20800/26742686.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00200/00100010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1984-531846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff787fcc2d4aa54fcb82892b8ce715fd1a90f2308f2674983ec2f42ef41be690
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82845d87b9b5f6b41ac7259ec958eaddc8a4504a44b57c50c6974118169aae50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissariado do XV Congresso Mundial da Rehabilitation International
+- Diretor Geral
+- Presidência do Conselho de Ministros
+- Reabilitação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:380731:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631583:por
+  label: Rectificado pela DECL.DD2382.1984.03.07.PCM DR.IS [77]2ºSupl. de 31/Mar/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631583
+  date: '1984-03-07'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:52Z'
   warnings: []
   errors: []
 ---
@@ -100,32 +118,32 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Comissariado para XV Congresso Mundial da Réhabilitation International, criado pelo [Decreto-Lei n.º 484/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1982-380731), de 28 de Dezembro, passa a depender directamente da Presidência do Conselho de Ministros.
+Artigo 1.º O Comissariado para XV Congresso Mundial da Réhabilitation International, criado pelo [Decreto-Lei n.º 484/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1982-380731), de 28 de Dezembro, passa a depender directamente da Presidência do Conselho de Ministros.
 
-###### Art. 2.º O presidente do Comissariado é equiparado a director-geral para efeitos de vencimento e demais remunerações.
+Art. 2.º O presidente do Comissariado é equiparado a director-geral para efeitos de vencimento e demais remunerações.
 
-###### Art. 3.º - 1 - É criado no âmbito do Comissariado o lugar de comissário-adjunto, a nomear pelo membro do Governo encarregado da tutela, sob proposta do respectivo presidente.
+Art. 3.º - 1 - É criado no âmbito do Comissariado o lugar de comissário-adjunto, a nomear pelo membro do Governo encarregado da tutela, sob proposta do respectivo presidente.
 
 2 - Compete ao comissário-adjunto coadjuvar o presidente e orientar e coordenar os serviços administrativos do Comissariado.
 
 3 - O comissário-adjunto é equiparado a subdirector-geral para efeitos de vencimento e demais remunerações.
 
-###### Art. 4.º O vice-presidente, os vogais e os elementos que integram como assessores as comissões científicas e técnicas criadas no âmbito do Comissariado, quando são requisitados a tempo inteiro, têm direito a uma gratificação a fixar por despacho conjunto do membro do Governo encarregado da tutela e do Ministro das Finanças e do Plano.
+Art. 4.º O vice-presidente, os vogais e os elementos que integram como assessores as comissões científicas e técnicas criadas no âmbito do Comissariado, quando são requisitados a tempo inteiro, têm direito a uma gratificação a fixar por despacho conjunto do membro do Governo encarregado da tutela e do Ministro das Finanças e do Plano.
 
-###### Art. 5.º O presidente do Comissariado e o comissário-adjunto cessam as suas funções logo que as contas sejam sujeitas a apreciação, nos termos do artigo 11.º do [Decreto-Lei n.º 484/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1982-380731), de 28 de Dezembro.
+Art. 5.º O presidente do Comissariado e o comissário-adjunto cessam as suas funções logo que as contas sejam sujeitas a apreciação, nos termos do artigo 11.º do [Decreto-Lei n.º 484/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1982-380731), de 28 de Dezembro.
 
-###### Art. 6.º As despesas com vencimentos e outras remunerações a que haja lugar sairão das dotações inscritas para a realização do Congresso no Comissariado.
+Art. 6.º As despesas com vencimentos e outras remunerações a que haja lugar sairão das dotações inscritas para a realização do Congresso no Comissariado.
 
-###### Art. 7.º Este diploma produz efeitos a partir de 30 de Setembro de 1983.
+Art. 7.º Este diploma produz efeitos a partir de 30 de Setembro de 1983.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1983. - Mário Soares - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 22 de Dezembro de 1983.**
+Promulgado em 22 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Dezembro de 1983.**
+Referendado em 23 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

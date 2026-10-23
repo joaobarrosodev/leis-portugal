@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/18300/23432347.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1982-397892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf0bc55eddb0e854c597fa758b829d7f3a53339d0dac8ab35971a06d569059c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a87362a1c5867fde9f049b29fe17ffe711f1c172eca02e63c59220a5a9ef8c06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
+- Imposto de Transacções
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606559:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:52Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +148,9 @@ Usando da autorização legislativa concedida pelas alíneas a), b), c), d), f),
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º-A, 39.º, 49.º, 63.º, 65.º, 84.º e 103.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º-A, 39.º, 49.º, 63.º, 65.º, 84.º e 103.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -134,7 +170,7 @@ c) As pessoas que exerçam as actividades de recauchutagem e rechapagem de pneum
 
 § 5.º Para efeitos do disposto no § 1.º, a produção de energia eléctrica compreende, também, o seu transporte e distribuição.
 
-###### Art. 5.º-A - ...
+Art. 5.º-A - ...
 
 ...
 
@@ -148,11 +184,11 @@ c) Se a alteração resultar de transmissão da propriedade ou de cedência, a q
 
 § 3.º ...
 
-###### Art. 39.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, nos casos em que a mesma seja da competência da repartição de finanças, acrescerá ao montante do imposto o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 39.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, nos casos em que a mesma seja da competência da repartição de finanças, acrescerá ao montante do imposto o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. ...
 
-###### Art. 49.º ...
+Art. 49.º ...
 
 ...
 
@@ -164,7 +200,7 @@ c) Quando, por transição do grupo C, fiquem sujeitos ao regime dos grupos A ou
 
 § 3.º ...
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 ...
 
@@ -172,7 +208,7 @@ c) Quando, por transição do grupo C, fiquem sujeitos ao regime dos grupos A ou
 
 § 2.º A apresentação do inventário na repartição de finanças referida no § 2.º do artigo 51.º será efectuada dentro dos 30 dias posteriores à data a que se reportar, sem o que as transacções das mercadorias em existência não aproveitarão do regime estabelecido no artigo 2.º
 
-###### Art. 65.º ...
+Art. 65.º ...
 
 § 1.º No caso previsto no corpo deste artigo, a nota de encomenda a que se refere o artigo anterior deverá ser apresentada aos respectivos fornecedores até ao termo do prazo estabelecido no § 2.º do artigo 68.º
 
@@ -182,7 +218,7 @@ c) Quando, por transição do grupo C, fiquem sujeitos ao regime dos grupos A ou
 
 § 4.º ...
 
-###### Art. 84.º ...
+Art. 84.º ...
 
 § 1.º Os produtores nas condições previstas no corpo deste artigo serão notificados das conclusões do relatório para, querendo, no prazo de 30 dias contado da data da notificação, fornecerem por escrito os elementos que acharem convenientes.
 
@@ -194,31 +230,31 @@ c) Quando, por transição do grupo C, fiquem sujeitos ao regime dos grupos A ou
 
 § 5.º ...
 
-###### Art. 103.º ...
+Art. 103.º ...
 
 § 1.º Contar-se-ão juros de 18% ao ano a favor do beneficiário do respectivo título de anulação sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
 § 2.º ...
 
-###### Art. 2.º É eliminada a alínea a) do artigo 7.º do Código do Imposto de Transacções e revogado o artigo 134.º do mesmo diploma.
+Art. 2.º É eliminada a alínea a) do artigo 7.º do Código do Imposto de Transacções e revogado o artigo 134.º do mesmo diploma.
 
-###### Art. 3.º São aditados ao Código do Imposto de Transacções os artigos 7.º-A, 7.º-B e 57.º-A, com a seguinte redacção:
+Art. 3.º São aditados ao Código do Imposto de Transacções os artigos 7.º-A, 7.º-B e 57.º-A, com a seguinte redacção:
 
-###### Art. 7.º-A - Poderá o Ministro das Finanças e do Plano conceder a isenção do imposto, nos termos estabelecidos na lei, relativamente à aquisição ou importação de bens destinados a ofertas a instituições nacionais de interesse público e de relevantes fins sociais, desde que tais bens sejam inteiramente adequados à natureza da instituição beneficiária e venham a ser por esta directamente utilizados em actividades de evidente interesse público.
+Art. 7.º-A - Poderá o Ministro das Finanças e do Plano conceder a isenção do imposto, nos termos estabelecidos na lei, relativamente à aquisição ou importação de bens destinados a ofertas a instituições nacionais de interesse público e de relevantes fins sociais, desde que tais bens sejam inteiramente adequados à natureza da instituição beneficiária e venham a ser por esta directamente utilizados em actividades de evidente interesse público.
 
-###### Art. 7.º-B - Em caso algum serão admitidas isenções do imposto de transacções, de natureza pessoal ou a qualquer outro título, não expressamente consignadas neste Código.
+Art. 7.º-B - Em caso algum serão admitidas isenções do imposto de transacções, de natureza pessoal ou a qualquer outro título, não expressamente consignadas neste Código.
 
 § único. O disposto neste artigo não é aplicável às isenções concedidas em execução de acordos internacionais firmados pelo Estado Português.
 
-###### Art. 57.º-A - Nos casos em que seja dispensada a inscrição no registo, nos termos do artigo 50.º, ou determinado o seu cancelamento ao abrigo da alínea b) do § 1.º do artigo 57.º com fundamento na escassa dimensão da empresa, ficarão os respectivos produtores ou grossistas dispensados de liquidar imposto pelas transacções que realizarem e das demais obrigações previstas neste Código.
+Art. 57.º-A - Nos casos em que seja dispensada a inscrição no registo, nos termos do artigo 50.º, ou determinado o seu cancelamento ao abrigo da alínea b) do § 1.º do artigo 57.º com fundamento na escassa dimensão da empresa, ficarão os respectivos produtores ou grossistas dispensados de liquidar imposto pelas transacções que realizarem e das demais obrigações previstas neste Código.
 
-###### Art. 4.º - 1 - São abolidas todas as isenções do imposto de transacções de natureza subjectiva não expressamente consignadas no Código do Imposto de Transacções.
+Art. 4.º - 1 - São abolidas todas as isenções do imposto de transacções de natureza subjectiva não expressamente consignadas no Código do Imposto de Transacções.
 
 2 - O disposto neste artigo não é aplicável às isenções concedidas em execução de acordos internacionais firmados pelo Estado Português.
 
 3 - Manter-se-ão em vigor, até 31 de Dezembro de 1982, os regimes de isenções previstos nos Decretos-Leis n.os [360/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1980-464019), de 9 de Setembro, e [432/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1980-461598), de 2 de Outubro, e prorrogados pelo [Decreto-Lei n.º 129/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1982-606547), de 23 de Abril, e pelo artigo 43.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro.
 
-###### Art. 5.º Na lista I, anexa ao Código do Imposto de Transacções, são aditadas as verbas n.os 14-A, 26-A e 26-B e alteradas as verbas n.os 2, 8, 13, 18, 30, 33, 34, 36 e 38, nos termos seguintes:
+Art. 5.º Na lista I, anexa ao Código do Imposto de Transacções, são aditadas as verbas n.os 14-A, 26-A e 26-B e alteradas as verbas n.os 2, 8, 13, 18, 30, 33, 34, 36 e 38, nos termos seguintes:
 
 2 (a) - Aeronaves destinadas a serviços públicos de transportes de passageiros ou mercadorias e os correspondentes simuladores de voo, bem como os lubrificantes e combustíveis utilizados nas mesmas aeronaves.
 
@@ -290,7 +326,7 @@ De capacidade igual ou inferior a 0,40 l e de valor tributável igual ou inferio
 
 38.1 - ...
 
-###### Art. 6.º Na lista II, anexa ao referido Código, são eliminadas as verbas n.os 6, 8, 12, 14, 18, 19, 22, 33, 34 e 36, aditadas as verbas n.os 4-A e 9-A e alteradas as verbas n.os 1, 5, 17, 21, 26, 27, 31, 32, 35 e 39, nos termos seguintes:
+Art. 6.º Na lista II, anexa ao referido Código, são eliminadas as verbas n.os 6, 8, 12, 14, 18, 19, 22, 33, 34 e 36, aditadas as verbas n.os 4-A e 9-A e alteradas as verbas n.os 1, 5, 17, 21, 26, 27, 31, 32, 35 e 39, nos termos seguintes:
 
 1 - Altifalantes, megafones e microfones; amplificadores, colunas e sintonizadores de som.
 
@@ -374,7 +410,7 @@ c) De caixa alta, de valor tributável superior a 50000$00.
 
 39 - Vidros e seus artefactos, assinados ou denominados.
 
-###### Art. 7.º Na lista III, anexa ao referido Código, são eliminadas as verbas n.os 2, 6, 11, 12 e 19 e alteradas as verbas n.os 5, 10, 14 e 25, nos termos seguintes:
+Art. 7.º Na lista III, anexa ao referido Código, são eliminadas as verbas n.os 2, 6, 11, 12 e 19 e alteradas as verbas n.os 5, 10, 14 e 25, nos termos seguintes:
 
 5 - ...
 
@@ -398,9 +434,9 @@ e) Jogos do bingo e loto.
 
 25 - Perfumes, óleos essenciais e essências.
 
-###### Art. 8.º Os artigos 16.º, 18.º, 22.º e 24.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, passam a ter a seguinte redacção:
+Art. 8.º Os artigos 16.º, 18.º, 22.º e 24.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 ...
 
@@ -408,9 +444,9 @@ e) Jogos do bingo e loto.
 
 3 - Tratando-se de serviços prestados por meio de máquinas automáticas de fotografias, accionadas pelo próprio utente do serviço, mediante a introdução de moedas ou sistema análogo, o imposto será liquidado, no final de cada mês, nos elementos de contabilidade do prestador dos serviços.
 
-###### Art. 18.º Nos serviços prestados em estabelecimentos hoteleiros e similares dos hoteleiros, compreendidos nas alíneas c) e d) do n.º 1 do artigo 1.º e no artigo 4.º, que pratiquem o sistema de preços «tudo incluído», e, bem assim, nos serviços fotográficos prestados nas condições previstas no n.º 3 do artigo 16.º, o imposto será englobado sem qualquer discriminação nos quantitativos a exigir aos clientes.
+Art. 18.º Nos serviços prestados em estabelecimentos hoteleiros e similares dos hoteleiros, compreendidos nas alíneas c) e d) do n.º 1 do artigo 1.º e no artigo 4.º, que pratiquem o sistema de preços «tudo incluído», e, bem assim, nos serviços fotográficos prestados nas condições previstas no n.º 3 do artigo 16.º, o imposto será englobado sem qualquer discriminação nos quantitativos a exigir aos clientes.
 
-###### Art. 22.º - 1 - ...
+Art. 22.º - 1 - ...
 
 2 - ...
 
@@ -424,22 +460,22 @@ a) Serviços prestados em bôites, dancings, night-clubs, cabarés e outros esta
 
 b) Serviços prestados por meio de máquinas automáticas de fotografias a que se refere o n.º 3 do artigo 16.º
 
-###### Art. 24.º - 1 - Os prestadores dos serviços compreendidos no n.º 1 do artigo 1.º, sujeitos a imposto, deverão manter arquivados, por ordem cronológica e pelo prazo de 5 anos, os livros e facturas ou documentos equivalentes que processarem ou receberem, bem como as fitas das máquinas referidas nos n.os 2 e 3 do artigo 16.º e demais documentos exigidos pelo presente diploma.
+Art. 24.º - 1 - Os prestadores dos serviços compreendidos no n.º 1 do artigo 1.º, sujeitos a imposto, deverão manter arquivados, por ordem cronológica e pelo prazo de 5 anos, os livros e facturas ou documentos equivalentes que processarem ou receberem, bem como as fitas das máquinas referidas nos n.os 2 e 3 do artigo 16.º e demais documentos exigidos pelo presente diploma.
 
 2 - ...
 
-###### Art. 9.º - 1 - A importância do imposto de transacções devido pelas chamadas telefónicas, nos termos da alínea g) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, na redacção dada pelo artigo 2.º do [Decreto-Lei n.º 213/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1980-471889), de 9 de Julho, não poderá ser transferida para os utentes do serviço durante a vigência da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, não sendo aplicável neste caso o disposto nos artigos 16.º, n.º 1, alínea a), e 17.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640).
+Art. 9.º - 1 - A importância do imposto de transacções devido pelas chamadas telefónicas, nos termos da alínea g) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, na redacção dada pelo artigo 2.º do [Decreto-Lei n.º 213/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1980-471889), de 9 de Julho, não poderá ser transferida para os utentes do serviço durante a vigência da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, não sendo aplicável neste caso o disposto nos artigos 16.º, n.º 1, alínea a), e 17.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640).
 
 2 - A inobservância do disposto no número anterior será punida com multa de 1000$00 a 10000$00 por cada infracção e em relação a cada utente, sendo aplicável a estas transgressões o disposto nos artigos 28.º e 34.º a 38.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640).
 
-###### Art. 10.º Relativamente às actividades de recauchutagem e rechapagem de pneumáticos, a que se refere a alínea c) do § 4.º do artigo 3.º do Código do Imposto de Transacções, na redacção dada pelo presente decreto-lei, deverão os respectivos produtores inscrever-se no registo de que trata o artigo 48.º daquele Código, até ao fim do mês seguinte ao da publicação deste decreto-lei, ficando sujeitos às demais obrigações previstas no referido Código a partir do dia imediato ao termo daquele prazo.
+Art. 10.º Relativamente às actividades de recauchutagem e rechapagem de pneumáticos, a que se refere a alínea c) do § 4.º do artigo 3.º do Código do Imposto de Transacções, na redacção dada pelo presente decreto-lei, deverão os respectivos produtores inscrever-se no registo de que trata o artigo 48.º daquele Código, até ao fim do mês seguinte ao da publicação deste decreto-lei, ficando sujeitos às demais obrigações previstas no referido Código a partir do dia imediato ao termo daquele prazo.
 
-###### Art. 11.º As isenções consignadas nas verbas n.os 14-A, 18, na parte respeitante à gasolina, 26-A e 26-B da lista I anexa ao Código do Imposto de Transacções, na redacção dada pelo artigo 5.º do presente decreto-lei, são aplicáveis às transacções dos respectivos produtos realizadas a partir da entrada em vigor do [Decreto-Lei n.º 133/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1982-606559), de 23 de Abril.
+Art. 11.º As isenções consignadas nas verbas n.os 14-A, 18, na parte respeitante à gasolina, 26-A e 26-B da lista I anexa ao Código do Imposto de Transacções, na redacção dada pelo artigo 5.º do presente decreto-lei, são aplicáveis às transacções dos respectivos produtos realizadas a partir da entrada em vigor do [Decreto-Lei n.º 133/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1982-606559), de 23 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Julho de 1982.**
+Promulgado em 29 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

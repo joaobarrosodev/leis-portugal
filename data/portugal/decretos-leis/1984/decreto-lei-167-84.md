@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11800/16371646.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1984-383999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a19b80e294e5fc745d26d4e11fd2a7f962ef148e1b9d91ebcac5aaca76026482
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02265d1035f8f58bfcc46b243b0bfe852dead02db6bbc8283495eee847db1aee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Estatuto
+- RDP
 relationships:
 - type: amended_by
   target: pt:dre:531791:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531791:por
+  label: Transformada em sociedade anónima de capitais exclusivamente públicos, com a denominação de Radiodifusão Portuguesa,
+    S. A. (RDP, S. A.) a Radiodifusão Portuguesa, E. P. (RDP, E. P.), criada como empresa pública pelo Dec Lei 674-C/75 de
+    02-dez, e cujos estatutos constam do presente diploma que é revogado pelo DEC LEI.2/94.1994.01.10.PCM, DR.IS-A [7]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1994-531791
+  date: '1994-01-10'
+- type: cites
+  target: pt:dre:240846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 75
+  article_count: 74
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:23Z'
   warnings: []
   errors: []
 ---
@@ -120,23 +186,23 @@ Face ao exposto:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Radiodifusão Portuguesa, E. P., que faz parte integrante do presente diploma e é publicado em anexo ao mesmo.
+Artigo 1.º É aprovado o Estatuto da Radiodifusão Portuguesa, E. P., que faz parte integrante do presente diploma e é publicado em anexo ao mesmo.
 
-###### Art. 2.º O presidente e os vogais da comissão administrativa da RDP transitam, com dispensa de quaisquer formalidades, para os cargos correlativos do conselho de administração da mesma empresa, contando-se os seus mandatos a partir da data da entrada em vigor do presente decreto-lei.
+Art. 2.º O presidente e os vogais da comissão administrativa da RDP transitam, com dispensa de quaisquer formalidades, para os cargos correlativos do conselho de administração da mesma empresa, contando-se os seus mandatos a partir da data da entrada em vigor do presente decreto-lei.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Jaime José Matos da Gama - José Augusto Seabra - Amândio Anes de Azevedo - António Antero Coimbra Martins - João Rosado Correia - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Maio de 1984.**
+Referendado em 8 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ESTATUTO DA RADIODIFUSÃO PORTUGUESA, E. P.
 
@@ -842,4 +908,4 @@ Ficam revogadas as disposições orgânicas especialmente aplicáveis à RDP, no
 
 Mantêm-se em vigor as normas relativas aos centros da RDP nas Regiões Autónomas da Madeira e dos Açores constantes do [Decreto-Lei n.º 283/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1982-394113), de 22 de Agosto, até à revisão deste diploma.
 
-**O Ministro de Estado, António de Almeida Santos.**
+O Ministro de Estado, António de Almeida Santos.

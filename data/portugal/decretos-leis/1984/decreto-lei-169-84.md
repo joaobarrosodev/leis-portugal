@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1984-383992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd7284aa6226d2b4cf8f804317b1135a863cf95ca652738e374f575a73634c68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d64b061b381170e73d89dcc6d47a67bd52995371ec91b0248932124aa92bf850
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Indemnização
+- Junta Nacional dos Produtos Pecuários
+- Matadouro
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177871:por
+  label: "Alterado o art. 5º e os anexos pelo DEC LEI.448/85.25.10.1985.MA, DR.IS [246] de 25.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/448-1985-177871
+  date: '1985-10-25'
+- type: cites
+  target: pt:dre:466175:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275413:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 150/1984, 2º Suplemento, Série I de 1984-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275413
+  date: '1984-06-30'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:25Z'
   warnings: []
   errors: []
 ---
@@ -106,50 +130,50 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São desafectados do património da JNPP e transferidos para o património dos respectivos municípios os bens imóveis em que funcionaram os matadouros constantes do anexo I.
+Artigo 1.º - 1 - São desafectados do património da JNPP e transferidos para o património dos respectivos municípios os bens imóveis em que funcionaram os matadouros constantes do anexo I.
 
 2 - Os valores correspondentes às indemnizações pela utilização dos matadouros referidos no número anterior, também constantes do anexo I, serão pagos no prazo de 1 ano a contar da data da publicação deste diploma.
 
-###### Art. 2.º - 1 - Os bens imóveis em que funcionam os matadouros referidos no anexo II serão igualmente desafectados do património da JNPP e integrados no dos respectivos municípios à medida em que se vier a efectivar o seu encerramento.
+Art. 2.º - 1 - Os bens imóveis em que funcionam os matadouros referidos no anexo II serão igualmente desafectados do património da JNPP e integrados no dos respectivos municípios à medida em que se vier a efectivar o seu encerramento.
 
 2 - As indemnizações pela utilização dos matadouros referidos no número anterior até ao final de 1983 são as constantes do anexo II e serão pagas no prazo máximo de 2 anos a contar da publicação deste diploma.
 
 3 - As indemnizações anuais relativas aos matadouros ainda em funcionamento em 1984 e anos seguintes, também constantes do anexo II, serão pagas no ano imediatamente a seguir ao que respeitem.
 
-###### Art. 3.º - 1 - As indemnizações anuais pela utilização até 1983, inclusive, dos matadouros de Barrancos, Miranda do Douro, Estremoz, Leiria, Sintra, Vila Franca de Xira, Monção, Viseu e Lisboa, que integram a Rede Nacional de Abate, são as constantes do anexo III e serão pagas no prazo máximo de 2 anos a contar da publicação deste diploma.
+Art. 3.º - 1 - As indemnizações anuais pela utilização até 1983, inclusive, dos matadouros de Barrancos, Miranda do Douro, Estremoz, Leiria, Sintra, Vila Franca de Xira, Monção, Viseu e Lisboa, que integram a Rede Nacional de Abate, são as constantes do anexo III e serão pagas no prazo máximo de 2 anos a contar da publicação deste diploma.
 
 2 - As indemnizações anuais pela utilização dos matadouros referidos no número anterior a partir de 1984 e até à sua aquisição pela JNPP serão as constantes do anexo III, a pagar nos anos imediatamente a seguir aos que respeitem.
 
 3 - Aos matadouros referidos nos números anteriores, adquiridos à custa dos respectivos corpos administrativos, será atribuído um valor de aquisição em função de avaliação patrimonial a 26 de Novembro de 1974, a suportar nos termos e condições que vierem a ser estabelecidos por despacho dos Ministérios da Administração Interna, das Finanças e do Plano e da Agricultura, Florestas e Alimentação.
 
-###### Art. 4.º Os valores referidos no n.º 2 do artigo 1.º, nos n.os 2 e 3 do artigo 2.º e nos n.os 1 e 2 do artigo 3.º correspondem ao produto da média dos abates registados pelo Instituto Nacional de Estatística no último quinquénio antes da transferência dos matadouros para a JNPP, pela taxa de prestação de serviços mais elevada e praticada durante esse período multiplicada pelo número de anos de utilização.
+Art. 4.º Os valores referidos no n.º 2 do artigo 1.º, nos n.os 2 e 3 do artigo 2.º e nos n.os 1 e 2 do artigo 3.º correspondem ao produto da média dos abates registados pelo Instituto Nacional de Estatística no último quinquénio antes da transferência dos matadouros para a JNPP, pela taxa de prestação de serviços mais elevada e praticada durante esse período multiplicada pelo número de anos de utilização.
 
-###### Art. 5.º As indemnizações a atribuir nos termos deste diploma serão suportadas por receitas próprias da JNPP e pagas por depósito a efectuar na sede da Caixa Geral de Depósitos, Crédito e Previdência à ordem dos respectivos municípios.
+Art. 5.º As indemnizações a atribuir nos termos deste diploma serão suportadas por receitas próprias da JNPP e pagas por depósito a efectuar na sede da Caixa Geral de Depósitos, Crédito e Previdência à ordem dos respectivos municípios.
 
-###### Art. 6.º Os edifícios desafectados do património da JNPP por força deste diploma não poderão ser utilizados para abate de animais.
+Art. 6.º Os edifícios desafectados do património da JNPP por força deste diploma não poderão ser utilizados para abate de animais.
 
-###### Art. 7.º Fica revogado o n.º 5 do artigo 2.º do [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro.
+Art. 7.º Fica revogado o n.º 5 do artigo 2.º do [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro.
 
-###### Art. 8.º Este diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
+Art. 8.º Este diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Maio de 1984.**
+Referendado em 8 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf)
 
 ## ANEXO III — Matadouro da Rede Nacional de Abate
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11900/16541657.pdf)
 
 Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto - Alípio Barrosa Pereira Dias.

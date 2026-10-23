@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 48/1983, 2º Suplemento, Série I de 1983-02-28
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 708-(54) a 708-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04802/00540056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-h-1983-401322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0b13cfd214678f2e7f61dbc355f57b6714fb5a0fdfa4d7e6d2d7f919106f3a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5144ad5c87d9df9b24d9a873fe7a80a05d01aa38e2020469f159096b6b874080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
+- Imposto de Transacções
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693018:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423426:por
+  label: Rectificado o presente diploma pela DECL.DD5958.06.05.1983.PCM, DR.IS [125-Supl] de 31.05.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-423426
+  date: '1983-05-06'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:28Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +153,9 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 21.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos das alíneas b) e c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 6.º, 7.º-B, 9.º e 22.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 6.º, 7.º-B, 9.º e 22.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § único. ...
 
@@ -120,7 +169,7 @@ d) ...
 
 e) ...
 
-###### Art. 6.º Ficam também isentas do imposto:
+Art. 6.º Ficam também isentas do imposto:
 
 1.º As importações de mercadorias sempre que gozem de isenção do pagamento de direitos de importação nos termos das seguintes disposições:
 
@@ -136,11 +185,11 @@ a) N.º 1, alíneas a) e f) a r), e n.º 2 do artigo 46.º das Instruções Prel
 
 § 2.º ...
 
-###### Art. 7.º-B ...
+Art. 7.º-B ...
 
 § único. O disposto neste artigo não é aplicável às isenções concedidas em execução de acordos internacionais firmados pelo Estado Português nem ao regime estabelecido no artigo 4.º do [Decreto-Lei n.º 311/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1982-397278), de 4 de Agosto.
 
-###### Art. 9.º Nas transacções a seguir enumeradas, quando o adquirente ou destinatário não for um produtor ou grossista registado, o valor tributável será:
+Art. 9.º Nas transacções a seguir enumeradas, quando o adquirente ou destinatário não for um produtor ou grossista registado, o valor tributável será:
 
 a) Nas importações, o valor aduaneiro nas condições previstas nos artigos 4.º a 8.º das Instruções Preliminares das Pautas (instruções provisórias), aprovadas pelo [Decreto-Lei n.º 16/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1983-307814), de 21 de Janeiro, acrescido dos direitos e de quaisquer outros encargos devidos e de 40% sobre esse valor global;
 
@@ -164,11 +213,11 @@ d) Cerveja - taxa específica de 15$00 por litro.
 
 § 3.º ...
 
-###### Art. 2.º São eliminadas a verba n.º 11 da lista II e a verba n.º 22 da lista III anexas ao Código do Imposto de Transacções.
+Art. 2.º São eliminadas a verba n.º 11 da lista II e a verba n.º 22 da lista III anexas ao Código do Imposto de Transacções.
 
-###### Art. 3.º São fixados nas importâncias de 70$00 e 90$00, respectivamente, os valores tributáveis constantes da alínea b) da verba n.º 30.14 da lista I anexa ao Código do Imposto de Transacções.
+Art. 3.º São fixados nas importâncias de 70$00 e 90$00, respectivamente, os valores tributáveis constantes da alínea b) da verba n.º 30.14 da lista I anexa ao Código do Imposto de Transacções.
 
-###### Art. 4.º São fixados lias importâncias abaixo indicadas os valores tributáveis constantes das seguintes verbas da lista II anexa ao Código do Imposto de Transacções:
+Art. 4.º São fixados lias importâncias abaixo indicadas os valores tributáveis constantes das seguintes verbas da lista II anexa ao Código do Imposto de Transacções:
 
 a) Verba n.º 4:
 
@@ -234,7 +283,7 @@ Alínea b) - 25000$00;
 
 Alínea c) - 70000$00.
 
-###### Art. 5.º São fixados nas importâncias abaixo indicadas os valores tributáveis constantes das seguintes verbas da lista III anexa ao Código do Imposto de Transacções:
+Art. 5.º São fixados nas importâncias abaixo indicadas os valores tributáveis constantes das seguintes verbas da lista III anexa ao Código do Imposto de Transacções:
 
 a) Verba n.º 5.2 - 35000$00;
 
@@ -242,7 +291,7 @@ b) Verba n.º 9 - 150$00;
 
 c) Verba n.º 16 - 450$00.
 
-###### Art. 6.º São aditados à lista I anexa ao Código do Imposto de Transacções a verba n.º 9-A, o n.º 1 à verba n.º 18 e a alínea i) à verba n.º 30.11.1, com a seguinte redacção:
+Art. 6.º São aditados à lista I anexa ao Código do Imposto de Transacções a verba n.º 9-A, o n.º 1 à verba n.º 18 e a alínea i) à verba n.º 30.11.1, com a seguinte redacção:
 
 9-A - Bens com valor fiduciário, facial ou outro equivalente, produzidos no regime de exclusividade pela Imprensa Nacional-Casa da Moeda, E. P., a seguir indicados:
 
@@ -268,7 +317,7 @@ d) Dísticos, vinhetas e impressos oficiais, encomendados pelo Estado.
 
 i) Extractos concentrados de alfarroba.
 
-###### Art. 7.º São aditadas à lista II, anexa ao Código do Imposto de Transacções, as verbas n.os 4.2 e 31-A, com a seguinte redacção:
+Art. 7.º São aditadas à lista II, anexa ao Código do Imposto de Transacções, as verbas n.os 4.2 e 31-A, com a seguinte redacção:
 
 4 - a) ...
 
@@ -278,13 +327,13 @@ i) Extractos concentrados de alfarroba.
 
 31-A. Pedras preciosas naturais, sintéticas ou reconstituídas, e pérolas naturais ou de cultura, e suas obras, quando destinadas a adorno pessoal ou de ornamentação.
 
-###### Art. 8.º É alargado o âmbito de incidência do imposto de transacções regulado pelo [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, às seguintes prestações de serviços:
+Art. 8.º É alargado o âmbito de incidência do imposto de transacções regulado pelo [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, às seguintes prestações de serviços:
 
 a) Fornecimento de alojamento, refeições, bebidas e outros consumos em hotéis de três e duas estrelas e nos demais estabelecimentos hoteleiros e similares dos hoteleiros de categorias correspondentes àquelas;
 
 b) Aluguer de cassettes-video.
 
-###### Art. 9.º Para efeitos do disposto no artigo anterior, e aditada a alínea h) ao n.º 1 do artigo 1.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
+Art. 9.º Para efeitos do disposto no artigo anterior, e aditada a alínea h) ao n.º 1 do artigo 1.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
 
 ###### Artigo 1.º - 1 - ...
 
@@ -294,25 +343,25 @@ h) Aluguer de cassettes-video.
 
 2 - ...
 
-###### Art. 10.º São aditados os artigos 17.º-A, 19.º-A e 30.º-A ao [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, com a seguinte redacção.
+Art. 10.º São aditados os artigos 17.º-A, 19.º-A e 30.º-A ao [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, com a seguinte redacção.
 
-###### Art. 17.º-A. A importância do imposto devido pelas chamadas telefónicas, a que se refere a alínea g) do n.º 1 do artigo 1.º, não poderá ser transferida para os utentes do serviço, não sendo aplicável neste caso o disposto nos artigos 16.º, n.º 1, alínea a), e 17.º
-
-...
-
-###### Art. 19-A. O imposto respeitante a serviços prestados a estrangeiros pelos estabelecimentos hoteleiros e similares dos hoteleiros, referidos no artigo 4.º, entregue nos cofres do Estado, poderá ser restituído desde que o respectivo preço seja pago em moeda estrangeira e o imposto não tenha sido repercutido nos clientes ao abrigo do disposto nos artigos 17.º e 18.º, mediante o condicionalismo a estabelecer por portarias do Ministro das Finanças e do Plano.
+Art. 17.º-A. A importância do imposto devido pelas chamadas telefónicas, a que se refere a alínea g) do n.º 1 do artigo 1.º, não poderá ser transferida para os utentes do serviço, não sendo aplicável neste caso o disposto nos artigos 16.º, n.º 1, alínea a), e 17.º
 
 ...
 
-###### Art. 30.º-A. A inobservância do disposto no artigo 17.º-A será punida com multa de 1000$00 a 10000$00 por cada infracção e em relação a cada utente.
+Art. 19-A. O imposto respeitante a serviços prestados a estrangeiros pelos estabelecimentos hoteleiros e similares dos hoteleiros, referidos no artigo 4.º, entregue nos cofres do Estado, poderá ser restituído desde que o respectivo preço seja pago em moeda estrangeira e o imposto não tenha sido repercutido nos clientes ao abrigo do disposto nos artigos 17.º e 18.º, mediante o condicionalismo a estabelecer por portarias do Ministro das Finanças e do Plano.
 
-###### Art. 11.º É prorrogado até 31 de Dezembro de 1983 o regime estabelecido no artigo 4.º do [Decreto-Lei n.º 360/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1980-464019), de 9 de Setembro.
+...
 
-###### Art. 12.º - 1 - Os prestadores de serviços abrangidos pelo artigo 8.º e que, nos termos da alínea h) do n.º 1 do artigo 1.º e das alíneas a), b), c) e d) do artigo 4.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, na redacção dada pelo artigo 9.º do presente diploma, ficam sujeitos ao imposto de transacções regulado pelo citado [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), deverão apresentar até ao dia 31 de Março de 1983 a declaração modelo n.º 1-A a que se refere o artigo 20.º, n.º 4, do mesmo decreto-lei.
+Art. 30.º-A. A inobservância do disposto no artigo 17.º-A será punida com multa de 1000$00 a 10000$00 por cada infracção e em relação a cada utente.
+
+Art. 11.º É prorrogado até 31 de Dezembro de 1983 o regime estabelecido no artigo 4.º do [Decreto-Lei n.º 360/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1980-464019), de 9 de Setembro.
+
+Art. 12.º - 1 - Os prestadores de serviços abrangidos pelo artigo 8.º e que, nos termos da alínea h) do n.º 1 do artigo 1.º e das alíneas a), b), c) e d) do artigo 4.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, na redacção dada pelo artigo 9.º do presente diploma, ficam sujeitos ao imposto de transacções regulado pelo citado [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), deverão apresentar até ao dia 31 de Março de 1983 a declaração modelo n.º 1-A a que se refere o artigo 20.º, n.º 4, do mesmo decreto-lei.
 
 2 - A inobservância do disposto no número anterior será punida nos termos do artigo 30.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
 
-###### Art. 13.º - 1 - Não ficam sujeitos ao imposto os serviços a que se refere a alínea c) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, prestados nos estabelecimentos a seguir indicados, desde que, se encontrem expressamente vinculados por contratos celebrados por escrito anteriormente à data da entrada em vigor do presente diploma:
+Art. 13.º - 1 - Não ficam sujeitos ao imposto os serviços a que se refere a alínea c) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, prestados nos estabelecimentos a seguir indicados, desde que, se encontrem expressamente vinculados por contratos celebrados por escrito anteriormente à data da entrada em vigor do presente diploma:
 
 a) Hotéis de 3 e 2 estrelas;
 
@@ -326,12 +375,12 @@ d) Aldeamentos turísticos de 2.ª categoria.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 28 de Fevereiro de 1983.**
+Promulgado em 28 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Fevereiro de 1983.**
+Referendado em 28 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

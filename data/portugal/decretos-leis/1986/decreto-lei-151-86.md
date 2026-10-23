@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1986-229080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c037431e7c08f13d1d73304b21e470cbdceccac3d9c97f2c61e6f6402234f957
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb4aac593ef37504dadde18a04aebb0b9cbaa2b8998ae05a1a3084965a15357a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Formação Profissional
+- Ministério do Trabalho
+- Política de Emprego
+- Reconversão Profissional
+relationships:
+- type: cites
+  target: pt:dre:384266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397915:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:27Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +107,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 325/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1982-397915), de 13 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 325/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1982-397915), de 13 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 2 - 1 - Cabe ao Instituto do Emprego e Formação Profissional superintender e dirigir a execução do Programa de Construção de Novos Centros de Formação Profissional e de Reabilitação Profissional.
+Art. 2 - 1 - Cabe ao Instituto do Emprego e Formação Profissional superintender e dirigir a execução do Programa de Construção de Novos Centros de Formação Profissional e de Reabilitação Profissional.
 
 2 - Os encargos com a execução do Programa serão suportados por verbas inscritas no orçamento do Instituto do Emprego e Formação Profissional e por outras que venham a ser atribuídas quer no âmbito dos acordos com entidades internacionais quer no âmbito do orçamento da Segurança Social - PIDDAC para construção de novos centros de formação profissional.
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 186/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1984-384266), de 29 de Maio.
+Art. 2.º É revogado o [Decreto-Lei n.º 186/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1984-384266), de 29 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 1986. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
 
-**Promulgado em 28 de Maio de 1986.**
+Promulgado em 28 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1986.**
+Referendado em 30 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

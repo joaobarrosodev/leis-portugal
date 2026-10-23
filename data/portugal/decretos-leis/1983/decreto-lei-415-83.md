@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/27100/38733875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1983-442967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53f753392e20c0cc6d2686d3884b14b8ecf1113fda63a4d763c9e025cae458d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59b90351b1cd62d632c7682cfc3f8150598b05fad9c19ba1b12141348c0ebcbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Asilo Político
+- Cidadão Estrangeiro
+- Estatuto dos Refugiados
 relationships:
 - type: amended_by
   target: pt:dre:651702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:455081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:651702:por
+  label: "Revogado pela LEI.70/93.1993.09.29.AR, DR.IS-A [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/70-1993-651702
+  date: '1993-09-29'
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:22Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +118,7 @@ Deixa de ser publicitada a concessão de asilo para melhor se assegurar a defesa
 
 No uso da autorização conferida pela [Lei n.º 9/83](https://diariodarepublica.pt/dr/detalhe/lei/9-1983-455081), de 12 de Agosto, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 10.º, 14.º, 15.º, 16.º, 19.º e 27.º da [Lei n.º 38/80](https://diariodarepublica.pt/dr/detalhe/lei/38-1980-470246), de 1 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 10.º, 14.º, 15.º, 16.º, 19.º e 27.º da [Lei n.º 38/80](https://diariodarepublica.pt/dr/detalhe/lei/38-1980-470246), de 1 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — (Fundamentos do asilo)
 
@@ -162,7 +182,7 @@ No uso da autorização conferida pela [Lei n.º 9/83](https://diariodarepublica
 
 O acórdão, quando determine a expulsão, deve conter os elementos referidos no n.º 1 do artigo 48.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro.
 
-###### Art. 2.º São aditados à [Lei n.º 38/80](https://diariodarepublica.pt/dr/detalhe/lei/38-1980-470246), de 1 de Agosto, os artigos 15.º-A e 15.º-B, com a seguinte redacção:
+Art. 2.º São aditados à [Lei n.º 38/80](https://diariodarepublica.pt/dr/detalhe/lei/38-1980-470246), de 1 de Agosto, os artigos 15.º-A e 15.º-B, com a seguinte redacção:
 
 ###### Artigo 15.º-A — (Recusa liminar de asilo)
 
@@ -180,12 +200,12 @@ O acórdão, quando determine a expulsão, deve conter os elementos referidos no
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Jaime José Matos da Gama - Rui Manuel Parente Chancerelle de Machete - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha.
 
-**Promulgado em 14 de Novembro de 1983.**
+Promulgado em 14 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Novembro de 1983.**
+Referendado em 14 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

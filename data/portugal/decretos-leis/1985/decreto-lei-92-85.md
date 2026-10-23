@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1985-325111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 438fa871e5b0446b29919fe9110e8ce28d3e78f42c96276c56f2876af7e0ac24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e68fcdd400058bf68fcdcef9d25683ca29a98a75cb775bcfee7d9ab94c6996ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Directiva
+- CP
+relationships:
+- type: cites
+  target: pt:dre:150563:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:21Z'
   warnings: []
   errors: []
 ---
@@ -97,24 +103,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O ramal de caminho de ferro do Estádio Nacional, com todas as suas instalações fixas, passa a ficar afecto à comissão directora do Estádio Nacional.
+Artigo 1.º O ramal de caminho de ferro do Estádio Nacional, com todas as suas instalações fixas, passa a ficar afecto à comissão directora do Estádio Nacional.
 
-###### Art. 2.º Para completo aproveitamento dos terrenos em que se encontra implantado o referido ramal é a comissão directora do Estádio Nacional autorizada a mandar proceder às obras e demolições necessárias visando a reconversão da utilização das instalações até agora afectas à CP.
+Art. 2.º Para completo aproveitamento dos terrenos em que se encontra implantado o referido ramal é a comissão directora do Estádio Nacional autorizada a mandar proceder às obras e demolições necessárias visando a reconversão da utilização das instalações até agora afectas à CP.
 
-###### Art. 3.º Com a entrada em vigor do presente diploma caducam todas as disposições legais ou contratuais relativas ao ramal do Estádio Nacional.
+Art. 3.º Com a entrada em vigor do presente diploma caducam todas as disposições legais ou contratuais relativas ao ramal do Estádio Nacional.
 
-###### Art. 4.º É revogado o [Decreto-Lei n.º 35867](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35867-1946-150563), de 18 de Setembro de 1946.
+Art. 4.º É revogado o [Decreto-Lei n.º 35867](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35867-1946-150563), de 18 de Setembro de 1946.
 
-###### Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Carlos Montez Melancia - Francisco José de Sousa Tavares.
 
-**Promulgado em 8 de Março de 1985.**
+Promulgado em 8 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Março de 1985.**
+Referendado em 13 de Março de 1985.
 
-**O Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.**
+O Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.

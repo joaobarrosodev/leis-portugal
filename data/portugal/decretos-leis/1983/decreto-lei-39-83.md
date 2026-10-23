@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02000/01650169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1983-308343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfc1197f7a5efcb04141f023a29807302bffe3e250c31c50978c97a80dacf819
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a3ee5f5f1488f5b41ee5c6283a1f1880a74e7dbe6b4ebe97a8f38d4e1aa8962
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Identificação Civil e Criminal
+- Registo Criminal
 relationships:
 - type: amended_by
   target: pt:dre:570567:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663135:por
+  label: "Aditado o art. 13º-A pelo DEC LEI.60/87.02.02.1987.MJ, DR.IS [27] de 02.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1987-663135
+  date: '1987-02-02'
+- type: amended_by
+  target: pt:dre:370438:por
+  label: "Alterados os artigos 3.º, 4.º, 13.º, 17.º, 21.º, 22.º e 24.º e aditado o artigo 13-.º-B, pelo DEC LEI.305/88.02.09.1988.MJ,\
+    \ DR.IS [203] de 02.09.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1988-370438
+  date: '1988-09-02'
+- type: cites
+  target: pt:dre:160893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506818:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640075:por
+  label: Revogado pela LEI.12/91.1991.05.21.AR DR.IS-A [116], a partir da entrada em vigor do Dec Lei que regulamentar a referida
+    Lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-1991-640075
+  date: '1991-05-21'
+- type: repealed_by
+  target: pt:dre:437236:por
+  label: "Revogado, com excepção dos arts. 23º e 24º, pela Lei LEI.57/98.1998.08.18.AR, DR.IS-A [189], a partir da entrada\
+    \ em vigor da regulamentação nela prevista\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/57-1998-437236
+  date: '1998-08-18'
+- type: repealed_by
+  target: pt:dre:570567:por
+  label: "Revogados os arts. 23.º e 24.º, pela LEI.166/99.1999.09.14.AR DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/166-1999-570567
+  date: '1999-09-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:57Z'
   warnings: []
   errors: []
 ---
@@ -108,17 +150,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Objecto de identificação criminal
 
-###### Artigo 1.º - 1 - A identificação criminal tem por objecto a recolha e conservação ordenada dos extractos das decisões criminais proferidas por tribunais portugueses contra todos os indivíduos neles acusados, com o fim de permitir o conhecimento dos seus antecedentes criminais.
+Artigo 1.º - 1 - A identificação criminal tem por objecto a recolha e conservação ordenada dos extractos das decisões criminais proferidas por tribunais portugueses contra todos os indivíduos neles acusados, com o fim de permitir o conhecimento dos seus antecedentes criminais.
 
 2 - São também recolhidos os extractos de decisões da mesma natureza proferidas contra cidadãos portugueses por tribunais estrangeiros.
 
-###### Art. 2.º - 1 - O registo criminal é organizado em cadastros individuais, constituídos por boletins ou pela sua fotocópia, de forma que, em cada cadastro, fiquem reunidos todos os boletins referentes ao mesmo indivíduo.
+Art. 2.º - 1 - O registo criminal é organizado em cadastros individuais, constituídos por boletins ou pela sua fotocópia, de forma que, em cada cadastro, fiquem reunidos todos os boletins referentes ao mesmo indivíduo.
 
 2 - A cada cadastro individual atribui-se um número, pelo qual é arquivado, a que corresponde um ou mais verbetes onomásticos ordenados alfabeticamente.
 
 3 - No arquivo dactiloscópico, sempre que possível, em correspondência a cada cadastro, será catalogado um boletim com impressões digitais, pela ordem da respectiva fórmula.
 
-###### Art. 3.º Estão sujeitos a registo criminal:
+Art. 3.º Estão sujeitos a registo criminal:
 
 a) Os despachos de pronúncia ou decisões equivalentes;
 
@@ -144,7 +186,7 @@ l) As datas de início, termo ou suspensão das penas de prisão e das medidas d
 
 m) O falecimento dos arguidos e réus condenados.
 
-###### Art. 4.º - 1 - Os boletins do registo criminal devem conter:
+Art. 4.º - 1 - Os boletins do registo criminal devem conter:
 
 a) A indicação do tribunal remetente e do número do processo, assim como a data e a assinatura do responsável pelo seu preenchimento;
 
@@ -156,11 +198,11 @@ c) O conteúdo da decisão ou o facto sujeito a registo.
 
 3 - A decisão será anotada com especificação da sua data, natureza, designação do crime ou contravenção, com indicação dos preceitos violados, pena aplicada ou período de internamento determinado.
 
-###### Art. 5.º - 1 - Compete ao ministério público, ou a quem exerça a acção penal, promover que dos autos constem os elementos de identificação do arguido referidos no artigo anterior.
+Art. 5.º - 1 - Compete ao ministério público, ou a quem exerça a acção penal, promover que dos autos constem os elementos de identificação do arguido referidos no artigo anterior.
 
 2 - A notificação judicial para comparência a acto processual, quando respeite a suspeitos ou arguidos, será feita com a obrigação de apresentação do bilhete de identidade ou, na sua falta, da cédula pessoal; no caso de se tratar de cidadão estrangeiro, qualquer dos documentos referidos pode ser substituído pelo passaporte.
 
-###### Art. 6.º - 1 - Os boletins do registo criminal devem ser enviados aos serviços de identificação criminal no prazo de 3 dias a contar da data da decisão ou do facto sujeito a registo ou da baixa do processo à 1.ª instância.
+Art. 6.º - 1 - Os boletins do registo criminal devem ser enviados aos serviços de identificação criminal no prazo de 3 dias a contar da data da decisão ou do facto sujeito a registo ou da baixa do processo à 1.ª instância.
 
 2 - O preenchimento e remessa dos boletins são da responsabilidade do escrivão de direito da secção por onde corre o processo ou de quem exerça as correspondentes funções.
 
@@ -170,23 +212,23 @@ c) O conteúdo da decisão ou o facto sujeito a registo.
 
 5 - Se depois da remessa do boletim se averiguar que o indivíduo a quem o mesmo respeita forneceu uma identidade falsa, preencher-se-á outro boletim com a verdadeira identidade, que será remetido com a respectiva nota de referência.
 
-###### Art. 7.º - 1 - Não sendo possível o preenchimento completo do boletim, o juiz da comarca deverá nele apor a declaração de ter verificado essa impossibilidade.
+Art. 7.º - 1 - Não sendo possível o preenchimento completo do boletim, o juiz da comarca deverá nele apor a declaração de ter verificado essa impossibilidade.
 
 2 - Serão devolvidos os boletins preenchidos incorrecta ou incompletamente, bem como os que não vierem acompanhados da declaração referida no número anterior.
 
-###### Art. 8.º - 1 - O recebimento dos boletins correctamente preenchidos deverá ser acusado, mediante a devolução do respectivo recibo pelos serviços de identificação criminal, no prazo de 3 dias a contar da data da recepção.
+Art. 8.º - 1 - O recebimento dos boletins correctamente preenchidos deverá ser acusado, mediante a devolução do respectivo recibo pelos serviços de identificação criminal, no prazo de 3 dias a contar da data da recepção.
 
 2 - Quando a recepção do boletim correctamente preenchido não for acusada nos 8 dias seguintes à sua expedição, o responsável pelo processo deve comunicar o facto aos serviços de identificação criminal.
 
 ### CAPÍTULO II — Acesso à informação criminal
 
-###### Art. 9.º O conhecimento da informação tratada pelos serviços de identificação criminal pode ser obtido por alguma das formas seguintes:
+Art. 9.º O conhecimento da informação tratada pelos serviços de identificação criminal pode ser obtido por alguma das formas seguintes:
 
 a) Requerimento ou requisição de certificado do registo criminal;
 
 b) Pedido de informação.
 
-###### Art. 10.º - 1 - Pode requerer certificado do registo criminal:
+Art. 10.º - 1 - Pode requerer certificado do registo criminal:
 
 a) O titular da informação ou qualquer pessoa que prove efectuar o pedido em seu nome ou no seu interesse;
 
@@ -206,13 +248,13 @@ c) O nome completo e o número e a data da emissão do bilhete de identidade da 
 
 5 - A indicação no requerimento do número do bilhete de identidade da pessoa a quem respeita o certificado só pode ser dispensada pelos serviços no caso de aquela se mostrar impossível ou muito difícil de obter e não haver dúvidas sobre a correcção dos elementos de identificação declarados.
 
-###### Art. 11.º - 1 - Os requerimentos destinados a obter certificados de registo criminal podem ser apresentados directamente na sede dos serviços de identificação criminal, ou em qualquer delegação destes, nas secretarias judiciais ou nos municípios que não sejam sede de comarca e que não disponham de tribunal, nas secretarias das câmaras municipais, assim como nas representações diplomáticas ou consulares portuguesas no estrangeiro.
+Art. 11.º - 1 - Os requerimentos destinados a obter certificados de registo criminal podem ser apresentados directamente na sede dos serviços de identificação criminal, ou em qualquer delegação destes, nas secretarias judiciais ou nos municípios que não sejam sede de comarca e que não disponham de tribunal, nas secretarias das câmaras municipais, assim como nas representações diplomáticas ou consulares portuguesas no estrangeiro.
 
 2 - Os requerentes residentes no estrangeiro ou no território de Macau podem enviar directamente o seu requerimento aos serviços de identificação criminal.
 
-###### Art. 12.º Em caso de extravio do requerimento, depois de recebido nos serviços, ou de extravio do certificado, depois de emitido e antes da entrega ao requerente, será passado novo certificado, sem cobrança de taxa, nomeadamente outro requerimento isento de selo, lançando-se nele, no local destinado à aposição das respectivas estampilhas fiscais, a indicação de haverem sido cobradas em documento extraviado.
+Art. 12.º Em caso de extravio do requerimento, depois de recebido nos serviços, ou de extravio do certificado, depois de emitido e antes da entrega ao requerente, será passado novo certificado, sem cobrança de taxa, nomeadamente outro requerimento isento de selo, lançando-se nele, no local destinado à aposição das respectivas estampilhas fiscais, a indicação de haverem sido cobradas em documento extraviado.
 
-###### Art. 13.º - 1 - Podem requisitar certificados de registo criminal:
+Art. 13.º - 1 - Podem requisitar certificados de registo criminal:
 
 a) Os magistrados judiciais e do ministério público para fins de investigação criminal, de instrução de processos criminais, de execução de penas ou individuais de reclusos;
 
@@ -226,7 +268,7 @@ c) As entidades com competência legal para a instrução dos processos individu
 
 4 - As autoridades ou entidades diplomáticas e consulares estrangeiras podem ser autorizadas a requisitar certificados do registo criminal, nas mesmas condições das correspondentes autoridades nacionais, para instrução de processos criminais.
 
-###### Art. 14.º - 1 - Às entidades oficiais que gozem da faculdade de requisitar certificados do registo criminal pode também ser fornecida informação nos termos da alínea b) do artigo 9.º
+Art. 14.º - 1 - Às entidades oficiais que gozem da faculdade de requisitar certificados do registo criminal pode também ser fornecida informação nos termos da alínea b) do artigo 9.º
 
 2 - O pedido é formulado em impresso próprio e neste pode ser lavrada a informação, observando-se, com as necessárias adaptações, as formalidades do pedido e emissão de certificados.
 
@@ -234,7 +276,7 @@ c) As entidades com competência legal para a instrução dos processos individu
 
 ### CAPÍTULO III — Emissão de certificados de registo criminal
 
-###### Art. 15.º - 1 - O conteúdo do registo criminal será certificado em face dos cadastros individuais, de harmonia com o disposto no presente capítulo.
+Art. 15.º - 1 - O conteúdo do registo criminal será certificado em face dos cadastros individuais, de harmonia com o disposto no presente capítulo.
 
 2 - Os certificados do registo criminal podem ser passados no próprio impresso de requisição ou requerimento, mediante aposição de carimbo, chancela ou impressão mecânica.
 
@@ -248,11 +290,11 @@ c) As entidades com competência legal para a instrução dos processos individu
 
 7 - Os certificados são válidos por 3 meses a contar da data da sua emissão e exclusivamente para os fins indicados no requerimento ou na requisição.
 
-###### Art. 16.º - 1 - Os certificados requisitados para os fins referidos no n.º 1 do artigo 13.º conterão a transcrição integral do registo criminal, com as excepções constantes do artigo 19.º
+Art. 16.º - 1 - Os certificados requisitados para os fins referidos no n.º 1 do artigo 13.º conterão a transcrição integral do registo criminal, com as excepções constantes do artigo 19.º
 
 2 - Só em certificados requisitados nos termos do número anterior constarão as decisões proferidas por tribunais estrangeiros, sendo-lhes também aplicável o disposto nos artigos 19.º e 20.º deste diploma.
 
-###### Art. 17.º Os certificados requeridos para fins diversos dos referidos no n.º 1 do artigo 13.º terão o conteúdo referido no artigo anterior, exceptuando-se:
+Art. 17.º Os certificados requeridos para fins diversos dos referidos no n.º 1 do artigo 13.º terão o conteúdo referido no artigo anterior, exceptuando-se:
 
 a) As condenações por contravenção, decorridos 6 meses após o cumprimento da pena;
 
@@ -264,13 +306,13 @@ d) As condenações, relativas a delinquentes primários, em pena não superior 
 
 e) Qualquer outra decisão que, por força de lei, não deva ser transmitida nos certificados passados para os fins acima indicados.
 
-###### Art. 18.º Compete ao director dos serviços de identificação criminal resolver qualquer reclamação sobre a legalidade da transcrição nos certificados das notas do registo criminal, cabendo recurso da sua decisão para o tribunal de execução das penas.
+Art. 18.º Compete ao director dos serviços de identificação criminal resolver qualquer reclamação sobre a legalidade da transcrição nos certificados das notas do registo criminal, cabendo recurso da sua decisão para o tribunal de execução das penas.
 
 ### CAPÍTULO IV — Cancelamento no registo criminal
 
 #### SECÇÃO I — Do cancelamento definitivo
 
-###### Art. 19.º - 1 - São canceladas no registo criminal:
+Art. 19.º - 1 - São canceladas no registo criminal:
 
 a) As condenações em penas declaradas sem efeito;
 
@@ -280,7 +322,7 @@ c) Quaisquer decisões declaradas sem efeito por disposição legal.
 
 2 - São igualmente cancelados quaisquer factos ou decisões que sejam consequência, complemento ou execução de decisões que devam ser omitidas nos termos do número anterior.
 
-###### Art. 20.º - 1 - A reabilitação tem lugar, automaticamente, decorridos 5 anos sobre a extinção da pena ou medida de segurança, se entretanto não houver lugar a nova condenação por crime.
+Art. 20.º - 1 - A reabilitação tem lugar, automaticamente, decorridos 5 anos sobre a extinção da pena ou medida de segurança, se entretanto não houver lugar a nova condenação por crime.
 
 2 - A reabilitação não aproveita ao condenado quanto às perdas definitivas que lhe resultarem da condenação, não prejudica os direitos que desta advierem para o ofendido ou para terceiros, nem sana, de per si, a nulidade dos actos praticados pelo condenado durante a sua incapacidade.
 
@@ -288,7 +330,7 @@ c) Quaisquer decisões declaradas sem efeito por disposição legal.
 
 #### SECÇÃO II — Do cancelamento provisório
 
-###### Art. 21.º - 1 - Quando esteja em causa qualquer dos fins a que se destine o certificado requerido nos termos do artigo 17.º deste diploma, e já tenham decorrido 2 anos sobre a extinção da pena principal, pode o tribunal de execução das penas, se o interessado se tiver comportado de forma que seja razoável supor haver-se tornado capaz e digno de levar vida honesta, determinar o cancelamento, total ou parcial, dos factos ou decisões que dele deveriam constar, de acordo com o regime geral.
+Art. 21.º - 1 - Quando esteja em causa qualquer dos fins a que se destine o certificado requerido nos termos do artigo 17.º deste diploma, e já tenham decorrido 2 anos sobre a extinção da pena principal, pode o tribunal de execução das penas, se o interessado se tiver comportado de forma que seja razoável supor haver-se tornado capaz e digno de levar vida honesta, determinar o cancelamento, total ou parcial, dos factos ou decisões que dele deveriam constar, de acordo com o regime geral.
 
 2 - O disposto no número anterior só terá lugar quando o requerente haja cumprido a obrigação de indemnizar o ofendido ou justificado a sua extinção por qualquer meio legal ou se provar a impossibilidade do seu cumprimento.
 
@@ -296,7 +338,7 @@ c) Quaisquer decisões declaradas sem efeito por disposição legal.
 
 4 - Quando se verifica a hipótese do artigo 70.º do Código Penal, o cancelamento supõe a verificação das condições aí exigidas.
 
-###### Art. 22.º - 1 - Os tribunais que condenem em pena de prisão até 1 ano ou outra pena equivalente poderão determinar, sempre que das circunstâncias que acompanharam o crime não se puder induzir perigo de prática de novos crimes, a não transcrição da respectiva sentença nos certificados a que se refere o artigo 17.º deste diploma.
+Art. 22.º - 1 - Os tribunais que condenem em pena de prisão até 1 ano ou outra pena equivalente poderão determinar, sempre que das circunstâncias que acompanharam o crime não se puder induzir perigo de prática de novos crimes, a não transcrição da respectiva sentença nos certificados a que se refere o artigo 17.º deste diploma.
 
 2 - No caso de a lei fazer corresponder ao crime em causa, de forma automática, qualquer interdição, só se observará o disposto no número anterior findo o prazo da mesma.
 
@@ -304,9 +346,9 @@ c) Quaisquer decisões declaradas sem efeito por disposição legal.
 
 ### CAPÍTULO V — Registo especial de menores
 
-###### Art. 23.º Estão sujeitas ao registo especial de menores as decisões dos tribunais tutelares que apliquem ou alterem medidas de colocação em instituto médico-psicológico ou internamento em estabelecimento de reeducação.
+Art. 23.º Estão sujeitas ao registo especial de menores as decisões dos tribunais tutelares que apliquem ou alterem medidas de colocação em instituto médico-psicológico ou internamento em estabelecimento de reeducação.
 
-###### Art. 24.º - 1 - O registo especial de menores, organizado em arquivo próprio, é secreto e dele só poderão ser passados certificados requisitados pela Direcção-Geral dos Serviços Tutelares de Menores e pelos tribunais tutelares de menores ou de execução das penas.
+Art. 24.º - 1 - O registo especial de menores, organizado em arquivo próprio, é secreto e dele só poderão ser passados certificados requisitados pela Direcção-Geral dos Serviços Tutelares de Menores e pelos tribunais tutelares de menores ou de execução das penas.
 
 2 - Do disposto no número anterior exceptuam-se os casos em que o menor titular da informação tiver cometido, depois dos 16 anos de idade, crime doloso a que corresponda, em concreto, pena superior a 2 anos de prisão ou vier a ser objecto de pena relativamente indeterminada, nos termos dos artigos 83.º a 90.º do Código Penal. Em tal hipótese ficará a informação constante do registo especial de menores sujeita às regras gerais do registo criminal.
 
@@ -314,20 +356,20 @@ c) Quaisquer decisões declaradas sem efeito por disposição legal.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 25.º - 1 - Os boletins do registo criminal serão arquivados e retirados do ficheiro 1 ano após o falecimento dos indivíduos a que respeitam ou, no caso de declaração de morte presumida, durante o ano imediatamente a seguir àquele em que o titular da informação houver completado 80 anos.
+Art. 25.º - 1 - Os boletins do registo criminal serão arquivados e retirados do ficheiro 1 ano após o falecimento dos indivíduos a que respeitam ou, no caso de declaração de morte presumida, durante o ano imediatamente a seguir àquele em que o titular da informação houver completado 80 anos.
 
 2 - Quaisquer outros documentos inerentes ao funcionamento dos serviços do registo criminal que não contenham qualquer decisão de carácter permanente são arquivados findo 1 ano.
 
-###### Art. 26.º Dos ficheiros do registo criminal serão retirados e destruídos, deles não ficando qualquer notícia, todos os boletins referentes às decisões proferidas no âmbito do artigo 14.º do [Decreto-Lei n.º 123/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1975-160893), de 11 de Março, e do artigo 10.º do [Decreto-Lei n.º 497/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1975-307418), de 12 de Setembro.
+Art. 26.º Dos ficheiros do registo criminal serão retirados e destruídos, deles não ficando qualquer notícia, todos os boletins referentes às decisões proferidas no âmbito do artigo 14.º do [Decreto-Lei n.º 123/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1975-160893), de 11 de Março, e do artigo 10.º do [Decreto-Lei n.º 497/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1975-307418), de 12 de Setembro.
 
-###### Art. 27.º Os tribunais do território de Macau remeterão aos serviços de identificação criminal os extractos das decisões referentes a cidadãos portugueses.
+Art. 27.º Os tribunais do território de Macau remeterão aos serviços de identificação criminal os extractos das decisões referentes a cidadãos portugueses.
 
-###### Art. 28.º São revogados os artigos 32.º a 55.º e, no que respeita aos boletins do registo criminal, a alínea a) do artigo 62.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro.
+Art. 28.º São revogados os artigos 32.º a 55.º e, no que respeita aos boletins do registo criminal, a alínea a) do artigo 62.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 10 de Janeiro de 1983.**
+Promulgado em 10 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

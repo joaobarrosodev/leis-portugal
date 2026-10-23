@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22000/29892998.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,119 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1982-375220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d5391b90910f6af74f99ab3ebba37b8ab172492b2024f7ce862ed6155abd885
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ddb112121f99761ca69241b0077a223220923ae18d52a5f18c6e4756042c68b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento da Saúde
+- Ministério dos Assuntos Sociais
+- Orgânica
+- Reestruturação de Serviços
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:398541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419635:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.514/87.25.06.1987.MF, DR.IS [143] de 25.06.1987\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/514-1987-419635
+  date: '1987-06-25'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal do Departamento de Estudos e Planeamento da Saúde, aprovado pelo presente diploma, alterado
+    pelas Ports 567/84, de 06-ago, e 514/87, de 25-jun, pelo(a) Portaria n.º 147/88 - Diário da República n.º 57/1988, Série
+    I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:403297:por
+  label: Alterados os arts. 7.º e 22.º, aditados dos arts. 16.º-A e 16.º-B, e revogados n.º 3 do art. 14.º, a al. c) do art.
+    15.º e o n.º 4 do art. 16.º pelo(a) Decreto-Lei n.º 320/91 - Diário da República n.º 193/1991, Série I-A de 1991-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1991-403297
+  date: '1991-08-23'
+- type: amended_by
+  target: pt:dre:398541:por
+  label: "Extinto o Departamento de Estudos e Planeamento da Saúde, pelo DEC LEI.122/97.1997.05.20.MS, DR.IS-A [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1997-398541
+  date: '1997-05-20'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324151:por
+  label: Revogado pelo(a) Decreto-Lei n.º 293/93 - Diário da República n.º 198/1993, Série I-A de 1993-08-24, que manteve
+    em vigor os quadros anexos, até à entrada em vigor da portaria prevista no n.º 1 do seu art. 11.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1993-324151
+  date: '1993-08-24'
 article_structure:
   article_count: 43
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:15Z'
   warnings: []
   errors: []
 ---
@@ -524,7 +603,7 @@ i) As funções anteriormente atribuídas ao conselho consultivo do GEPS conside
 
 ###### Artigo 22.º — (Chefe da Repartição Administrativa)
 
-**O chefe da Repartição Administrativa será nomeado por despacho do ministro, sob proposta do director do DEPS, de entre indivíduos de reconhecido mérito e com curso superior adequado, ou de entre chefes de secção com 3 anos de bom e efectivo serviço na categoria.**
+O chefe da Repartição Administrativa será nomeado por despacho do ministro, sob proposta do director do DEPS, de entre indivíduos de reconhecido mérito e com curso superior adequado, ou de entre chefes de secção com 3 anos de bom e efectivo serviço na categoria.
 
 ###### Artigo 23.º — (Pessoal das carreiras técnica superior, técnica, técnico-profissional e administrativa e escriturários-dactilógrafos)
 
@@ -670,12 +749,12 @@ As dúvidas suscitadas na execução do presente diploma serão resolvidas por d
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Agosto de 1982.**
+Promulgado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Quadro do pessoal do GEPS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22000/29892998.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22000/29892998.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22000/29892998.pdf)

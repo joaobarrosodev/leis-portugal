@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1982-375245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e7a5c592886cccdac5409454006687bfa1cdaffbf79014378b222df568f152d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6791a37a6e56d3a4897fe3e119cc97d68841094173394f4db5514993c0ba40b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto de Mais-Valias
+- Imposto do SELO
+- Isenção Fiscal
+- Mais-Valias
+- Sociedades
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:151950:por
+  label: "Alterado o n.º 1 do artigo 2.º, alínea a) do n.º 1 do artigo 4.º, o artigo 6.º, e revogado o artigo 1.º, pelo DEC\
+    \ LEI.182/85.27.05.1985.MFP, DR.IS [121] de 27.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1985-151950
+  date: '1985-05-27'
+- type: amended_by
+  target: pt:dre:228219:por
+  label: "Alterado o artigo 6.º, na redacção dada no Decreto-Lei n.º 182/85, de 27 de Maio, pelo DEC LEI.182/86.10.07.1986.MF,\
+    \ DR.IS [156] de 10.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1986-228219
+  date: '1986-07-10'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do presente diploma, excepto os do nº 2 do seu art. 6º, na redacção que\
+    \ lhe foi dada pelo art. 7º do Dec Lei 182/85, de 27-Mai, pelo DEC LEI.485/88.1988.12.30.MF, DR.IS [301]2ºSupl, a partir\
+    \ da entrada em vigor do referido diploma, sem prejuízo da manutenção dos benefícios já concedidos e dos regimes de caducidade\
+    \ previstos na legislação ao abrigo da qual estão a ser usufruídos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:27Z'
   warnings: []
   errors: []
 ---
@@ -180,8 +214,8 @@ Dentro do prazo de 60 dias a contar da publicação deste diploma o Governo publ
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Setembro de 1982.**
+Promulgado em 14 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

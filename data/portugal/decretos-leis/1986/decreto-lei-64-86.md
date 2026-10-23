@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/07000/07120714.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1986-196210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0fc8c29e53d2f6fbc6b9f8b1fff5203b85d34e40bc169c85b06a4065661e120
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 129f0b7cdcf32be91657e1289aaaf43edd47548dae488ce70f36b929f8651cd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- CEE
+- Comissão do Mercado de Cereais
+- Importação
+- Imposto Compensatório
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148778:por
+  label: "Alterada a redacção dos arts. 4.º e 6.º, e revogado o art. 5.º do presente diploma, pelo DEC LEI.328-C/86.30.09.1986.MAPA,\
+    \ DR.IS [225-4º Supl] de 30.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-c-1986-148778
+  date: '1986-09-30'
+- type: cites
+  target: pt:dre:196209:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612403:por
+  label: Revoga, no que diz respeito aos direitos niveladores do arroz, pelo(a) Decreto-Lei n.º 56/89 - Diário da República
+    n.º 44/1989, Série I de 1989-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1989-612403
+  date: '1989-02-22'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:08Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +128,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 1 - O presente diploma define o regime de importação ao qual ficam submetidos os seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/07000/07120714.pdf))](https://files.diariodarepublica.pt/1s/1986/03/07000/07120714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/07000/07120714.pdf)
 
 2 - Para efeitos do presente diploma, entende-se por arroz em casca, arroz em película, arroz semibranqueado, arroz branqueado, trincas de arroz, arroz de grãos longos e arroz de grãos redondos os produtos definidos no anexo a este diploma.
 
@@ -196,15 +224,15 @@ Este diploma produz efeitos a partir do dia 1 de Março de 1986.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 7 de Março de 1986.**
+Promulgado em 7 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1985.**
+Referendado em 7 de Março de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Definições
 

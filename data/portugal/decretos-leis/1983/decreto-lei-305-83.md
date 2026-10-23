@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14700/23322354.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1983-452549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f37059ac1f0ef6fc4889ee465bfcc90db68faf476549f1781feac9f45e4dc7dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c7682603d7130956d76d07c2c489896ec9cdfddf1d7706958a0cdc72827d8f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Registo Predial
+- Registo Predial
 relationships:
 - type: amended_by
   target: pt:dre:591313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:435788:por
+  label: Rectificado pela DECL.DD6359.26.07.1983.PCM, DR.IS [174-3.º Supl] de 30.07.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-435788
+  date: '1983-07-26'
+- type: repealed_by
+  target: pt:dre:591313:por
+  label: "Revogado, a partir de 01.10.1984, o Código aprovado pelo presente diploma, pelo DEC LEI.224/84.06.07.1984.MJ, DR.IS\
+    \ [155-Supl] de 06.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1984-591313
+  date: '1984-07-06'
 article_structure:
-  article_count: 163
-  section_count: 61
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 162
+  section_count: 62
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:34Z'
   warnings: []
   errors: []
 ---
@@ -126,31 +139,31 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Registo Predial, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código do Registo Predial, que faz parte do presente decreto-lei.
 
-###### Art. 2.º A aplicação do Código do Registo Predial fica dependente das condições a fixar por portaria do Ministro da Justiça.
+Art. 2.º A aplicação do Código do Registo Predial fica dependente das condições a fixar por portaria do Ministro da Justiça.
 
-###### Art. 3.º Os modelos de livros, fichas e outros instrumentos previstos no Código do Registo Predial serão aprovados por portaria do Ministro da Justiça.
+Art. 3.º Os modelos de livros, fichas e outros instrumentos previstos no Código do Registo Predial serão aprovados por portaria do Ministro da Justiça.
 
-###### Art. 4.º Na contagem dos prazos previstos nos n.os 1 e 2 do artigo 16.º e no n.º 2 do artigo 19.º do Código do Registo Predial será levado em conta o tempo decorrido antes da sua aplicação, mas os registos não sujeitos a caducidade segundo a lei anterior podem ser renovados nos 6 meses posteriores àquela data.
+Art. 4.º Na contagem dos prazos previstos nos n.os 1 e 2 do artigo 16.º e no n.º 2 do artigo 19.º do Código do Registo Predial será levado em conta o tempo decorrido antes da sua aplicação, mas os registos não sujeitos a caducidade segundo a lei anterior podem ser renovados nos 6 meses posteriores àquela data.
 
-###### Art. 5.º - 1 - Os livros de registo, quando substituídos por fichas, e os documentos que serviram de base aos registos neles lavrados podem ser depositados em arquivos adequados, a definir por despacho do Ministro da Justiça.
+Art. 5.º - 1 - Os livros de registo, quando substituídos por fichas, e os documentos que serviram de base aos registos neles lavrados podem ser depositados em arquivos adequados, a definir por despacho do Ministro da Justiça.
 
 2 - A Direcção-Geral dos Registos e do Notariado pode ordenar a destruição ou a microfilmagem dos documentos arquivados que tenham servido de base a registos lavrados há mais de 20 anos, ou autorizar a sua entrega ao último titular inscrito do prédio.
 
-###### Art. 6.º O regime da participação emolumentar dos conservadores e oficiais do registo predial será revisto antes do início da aplicação do novo Código.
+Art. 6.º O regime da participação emolumentar dos conservadores e oficiais do registo predial será revisto antes do início da aplicação do novo Código.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 18 de Maio de 1983.**
+Promulgado em 18 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Maio de 1983.**
+Referendado em 27 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 CÓDIGO DO REGISTO PREDIAL
 
@@ -446,7 +459,9 @@ As acções sujeitas a registo não terão seguimento após os articulados sem s
 
 ### CAPÍTULO VI — Suportes documentais e arquivos do registo
 
-#### SECÇÃO I — Livro de apresentações e fichas
+#### SECÇÃO I
+
+## Livro de apresentações e fichas
 
 ###### Artigo 26.º — (Livro diário e fichas)
 

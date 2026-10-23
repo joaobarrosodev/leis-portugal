@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1984-396515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd6d39401ce980348e53b1cd0cd2813b90b56a62b13e7d565e7609c127e61147
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd2f79c24d4af55e2439544535ed8d19231aec2b4a09c08fdfd79da37fd50f92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Solos
+- Autarquia Local
+- Caixa Geral de Depósitos
+- Crédito Predial Português
+- Fundo de Apoio ao Investimento para a Habitação
+- Habitação
+- Montepio Geral
+relationships:
+- type: cites
+  target: pt:dre:531833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:03Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +108,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É acrescentado um n.º 4 ao artigo 2.º do [Decreto-Lei n.º 6/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1984-531833), de 5 de Janeiro, com a seguinte redacção:
+Artigo único. É acrescentado um n.º 4 ao artigo 2.º do [Decreto-Lei n.º 6/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1984-531833), de 5 de Janeiro, com a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
@@ -109,12 +120,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 1984. - O Primeiro-Ministro, em exercício, Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - João Rosado Correia.
 
-**Promulgado em 12 de Dezembro de 1984.**
+Promulgado em 12 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Dezembro de 1984.**
+Referendado em 14 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

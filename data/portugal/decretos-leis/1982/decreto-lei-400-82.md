@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 221/1982, 1º Suplemento, Série I de 1982-09-23
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3006-(2) a 3006-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22101/00020064.pdf
 entry_into_force_dates: []
@@ -47,40 +47,756 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1982-319744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7632be388c415a438812778fe4194ba6252a70836481afa0b71053b8d0e567c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9885ebf96ae67285442e2ef92b3fc6b99c546e19032ed4960a9e711e9fb2eef2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Penal
+- Crime
+- Direito Penal
 relationships:
 - type: amended_by
   target: pt:dre:1152409207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385266:por
+  label: "Alterados os arts. 139.º, 140.º e 141.º do Código Penal aprovado pelo presente diploma, pela LEI.6/84.1984.05.11.AR\
+    \ DR.IS [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-1984-385266
+  date: '1984-05-11'
+- type: amended_by
+  target: pt:dre:553465:por
+  label: "Alterados os arts. 132.º, 144.º e 386.º do Código, pelo DEC LEI.101-A/88.26.03.1988.MJ, DR.IS [72-Supl] de 26.03.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-a-1988-553465
+  date: '1988-03-26'
+- type: amended_by
+  target: pt:dre:666341:por
+  label: "Alterados os arts. 325º, 326º, 327º e revogado o art. 324º do Código, pelo DEC LEI.132/93.1993.04.23.MJ, DR.IS-A\
+    \ [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1993-666341
+  date: '1993-04-23'
+- type: amended_by
+  target: pt:dre:185720:por
+  label: "Revisto e republicado na íntegra pelo DEC LEI.48/95.1995.03.15.MJ, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1995-185720
+  date: '1995-03-15'
+- type: amended_by
+  target: pt:dre:144792:por
+  label: "Alterado o artº 142º do Código Penal, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 48/95 de\
+    \ 15-Mar, pela LEI.90/97.30.07.1997.AR, DR.IS-A [174] de 30.07.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/90-1997-144792
+  date: '1997-07-30'
+- type: amended_by
+  target: pt:dre:566854:por
+  label: "Alterados os arts. 5º, 7º, 10º, 83º, 84º, 86º, 101º, 102º, 113º, 120º, 121º, 132º (este na redacção do Dec Lei 101-A/88,\
+    \ de 26-Mar), 138º, 150º, 152º, 155º, 158º, 160º, 161º, 163º, 164º, 165º, 166º, 167º, 169º, 170º, 172º, 173º, 174º, 175º,\
+    \ 176º, 177º, 178º, 179º, 180º, 181º, 184º, 185º, 221º, 222º, 223º, 227º, 228º, 229º, 240º, 275º, 287º, 320º, 321º, 335º,\
+    \ 344º, 358º, e 364º e eliminada a subseccção II «Dos crimes contra a capacidade militar e a defesa nacionais», da secção\
+    \ I «Dos crimes contra a soberania nacional», do capítulo I «Dos crimes contra a segurança do Estado», do título V «Dos\
+    \ crimes contra o Estado», do livro II e passada a constituir a subsecção III «Dos crimes contra Estados estrangeiros\
+    \ e organizações internacionais», da mesma secção, a subsecção II «Dos crimes contra Estados estrangeiros e organizações\
+    \ internacionais», do Código aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 48/95, de 15-Mar, pela\
+    \ LEI.65/98.02.09.1998.AR, DR.IS-A [202] de 02.09.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-1998-566854
+  date: '1998-09-02'
+- type: amended_by
+  target: pt:dre:291937:por
+  label: "Alterado o art. 152º (na redacção da Lei 65/98, de 02-Set), do Código aprovado pelo presente diploma, revisto e\
+    \ republicado pelo Dec Lei 48/95, de 15-Mar, pela LEI.7/2000.2000.05.27.AR,DR.IS-AC [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2000-291937
+  date: '2000-05-27'
+- type: amended_by
+  target: pt:dre:388221:por
+  label: "Alterados os arts. 69º, 101º (este na redacção da Lei 65/98 de 02-Set), 291º, 292º e 294º do Código aprovado pelo\
+    \ presente diploma, revisto e republicado pelo Dec Lei 48/95 de 15-Mar, pela LEI.77/2001.2001.07.13.AR DR.IS-A [161]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-2001-388221
+  date: '2001-07-13'
+- type: amended_by
+  target: pt:dre:515631:por
+  label: "Alterados os arts. 255º, 262º, 265º e 266º do Código aprovado pelo presente diploma, revisto e republicado pelo\
+    \ Dec Lei 48/95, de 15-Mar, pela LEI.97/2001.2001.08.25.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/97-2001-515631
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:515635:por
+  label: "Alterados os arts 169º, 170º, 172º, 176º e 178º (na redacção dada pela Lei 65/98, de 02-Set) do Código aprovado\
+    \ pelo presente diploma, revisto e republicado pelo Dec Lei 48/95, de 15-Mar, pela LEI.99/2001.2001.08.25.AR DR.IS-A [197]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2001-515635
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:515640:por
+  label: "Alterado o art. 143º do Código aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 48/95, de 15-Mar,\
+    \ pela LEI.100/2001.2001.08.25.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2001-515640
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:515641:por
+  label: "Alterado o art. 275º (na redacção da Lei 65/98, de 02-Set) do Código aprovado pelo presente diploma, revisto e republicado\
+    \ pelo Dec Lei 48/95, de 15-Mar, pela LEI.98/2001.2001.08.25.AR DR.IS-A [197] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-2001-515641
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:568551:por
+  label: "Alterados os arts. 335.º (na redacção da Lei 65/98, de 02-Set), 372.º, 373.º e 386.º (este último na redacção do\
+    \ Dec Lei 101-A/88, de 26-Mar) do Código aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 48/95, de\
+    \ 15-Mar, pela LEI.108/2001.2001.11.28.AR DR.IS-A [276] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/108-2001-568551
+  date: '2001-11-28'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 47º do Código aprovado pelo presente diploma, revisto e republicado pelo 48/95 de 15-Mar, pelo DEC\
+    \ LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Aditado, a partir de 15.09.2003, o art. 227.º-A ao Código Penal, revisto e republicado pelo Dec Lei 48/95 de 15-Mar,\
+    \ pelo DEC LEI.38/2003.2003.03.08.MJ DR.IS-A [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:656128:por
+  label: "Alterado o art. 5.º (na redacção da Lei 65/98, de 02-Set) e revogados os arts. 300.º e 301.º do Código aprovado\
+    \ pelo presente diploma, revisto e republicado pelo Dec Lei 48/95, de 15-Mar, pela LEI.52/2003.2003.08.22.AR, DR.IS-A\
+    \ [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2003-656128
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:446475:por
+  label: "Alterado o art. 308º e revogados os arts. 237º e 309º a 315º do Código aprovado pelo presente diploma, revisto e\
+    \ republicado pelo Dec Lei 48/95, de 15-Mar, pela LEI.100/2003.15.11.2003.AR, DR.IS-A [265] de 15.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2003-446475
+  date: '2003-11-15'
+- type: amended_by
+  target: pt:dre:538423:por
+  label: "Alterados, a partir da entrada em vigor, os arts. 227.º A (aditado pelo Dec Lei 38/2003, de 08-Mar), 227.º, 228.º\
+    \ e 229.º (na redacção da Lei 65/98, de 02-Set) e aditado o art. 229.º-A ao Código Penal aprovado pelo presente diploma,\
+    \ revisto e republicado pelo Dec Lei 48/95, de 15-Mar, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:210422:por
+  label: "Aditado o art. 368.º-A ao Código Penal aprovado pelo presente diploma, revisto e republicado na íntegra pelo Dec\
+    \ Lei 48/95 de 15-Mar, pela LEI.11/2004.27.03.2004.AR, DR.IS-A [74] de 27.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2004-210422
+  date: '2004-03-27'
+- type: amended_by
+  target: pt:dre:507438:por
+  label: "Alterados os arts. 5º (este na redacção da Lei 65/98, de 02-Set e da Lei 52/2003, de 22-Ago) e 246º, bem como a\
+    \ denominação do tit. III do livro II - que passa a denominar-se \"Dos crimes contra a paz, identidade cultural e integridade\
+    \ pessoal\" - e do cap. II do tít. III do livro II - que passa a denominar-se \"Dos crimes contra a identidade cultural\
+    \ e integridade pessoal\" e revogados os arts. 236º, 238º, 239º 241º e 242º do Código Penal aprovado pelo presente diploma,\
+    \ revisto e republicado pelo Dec Lei 48/95, de 15-Mar, pela LEI.31/2004.22.07.2004.AR, DR.IS-A [171] de 22.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2004-507438
+  date: '2004-07-22'
+- type: amended_by
+  target: pt:dre:519464:por
+  label: "Alterado o art. 142º do Código Penal, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 48/95 de\
+    \ 15-Mar e na redacção da Lei 90/97 de 30-Jul(ora revogada), pela LEI.16/2007.17.04.2007.AR, DR.IS [75] de 17.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2007-519464
+  date: '2007-04-17'
+- type: amended_by
+  target: pt:dre:640142:por
+  label: "Alterados, a partir de 15.09.2007, os arts. 2.º, 5.º (este na redacção da Lei 65/98, de 02-Set, da Lei 52/2003,\
+    \ de 22-Ago e da Lei 31/2004, de 22-Jul), 6.º, 11.º, 30.º, 38.º, 41.º a 47.º (este último na redacção do Dec Lei 323/2001,\
+    \ de 17-Dez), 50.º a 64.º, 78.º a 80.º, 90.º, 102.º, 113.º (estes dois últimos na redacção da Lei 65/98, de 02-Set), 115.º,\
+    \ 116.º, 118.º, 121.º (este último na redacção na redacção da Lei 65/98, de 02-Set), 122.º, 127.º, 132.º (este último\
+    \ na redacção do Dec Lei 101-A/88, de 26-Mar e da Lei 65/98, de 02-Set), 144.º (este último na redacção do Dec Lei 101-A/88,\
+    \ de 26-Mar) a 147.º, 152.º (este último na redacção da Lei 65/98, de 02-Set e da Lei 7/2000, de 27-Mai), 153.º, 154.º,\
+    \ 155.º, 158.º, 160.º, 161.º (estes quatro últimos na redacção da Lei 65/98, de 02-Set), 162.º, 163.º, 164.º, 165.º, 166.º,\
+    \ 167.º (estes cinco últimos na redacção da Lei 65/98, de 02-Set), 169.º, 170.º (estes dois na redacção da Lei 65/98,\
+    \ de 02-Set e da Lei 99/2001, de 25-Ago), 171.º, 172.º (este na redacção da Lei 65/98, de 02-Set e da Lei 99/2001, de\
+    \ 25-Ago), 173.º, 174.º, 175.º (estes três últimos na redacção da Lei 65/98, de 02-Set), 176.º (este na redacção da Lei\
+    \ 65/98, de 02-Set e da Lei 99/2001, de 25-Ago), 177.º (este na redacção da Lei 65/98, de 02-Set), 178.º (este na redacção\
+    \ da Lei 65/98, de 02-Set e da Lei 99/2001, de 25-Ago), 179.º, 184.º (estes dois na redacção da Lei 65/98, de 02-Set),\
+    \ 187.º, 190.º, 192.º, 204.º, 206.º, 212.º, 213.º, 216.º a 218.º, 222.º(este último na redacção da Lei 65/98, de 02-Set),\
+    \ 224.º, 240.º (este último na redacção da Lei 65/98, de 02-Set), 246.º (este último na redacção da Lei 31/2004, de 22-Jul),\
+    \ 249.º, 250.º, 255.º (este último na redacção da Lei 97/2001, de 25-Ago), 256.º, 260.º, 261.º, 271.º, 272.º, 274.º, 275.º(este\
+    \ último na redacção da Lei 65/98, de 02-Set, da Lei 98/2001, de 25-Ago e revogado pela Lei 5/2006, de 23-Fev), 277.º,\
+    \ 278.º a 280.º, 285.º, 286.º, 288.º, 290.º, 291.º (este íultimo na redacção da Lei 77/2001, de 13-Jul), 293.º, 296.º,\
+    \ 299.º, 329.º, 338.º, 347.º, 353.º, 364.º (este último na redacção da Lei 65/98, de 02-Set), 367.º, 368.º-A (este último\
+    \ aditado pela Lei 11/2004, de 27-Mar), 371.º, 383.º e 386.º (este último na redacção do Dec Lei 101-A/88, de 26-Mar e\
+    \ da Lei 108/2001, de 28-Nov), aditados os arts. 90º-A a 90º-M, 152º-A e 152º-B, alterada a denominação do cap. VI do\
+    \ título III do livro I, que passa a denominar-se \"Pessoas Colectivas\", sendo composto pelos arts. 90º-A a 90º-M, e\
+    \ os anteriores caps. VI, VII e VIII, passam a constituir os caps. VII, VIII e IX respectivamente, a secção II do cap.\
+    \ V do título I do livro II passa a ser composta pelos arts. 171º a 179º, alterada a denominação do título III do livro\
+    \ II, que passa a denominar-se \"Dos crimes contra a identidade cultural e integridade pessoal\", composto pelos arts.\
+    \ 240º e 243º a 246º, ficando eliminada a sua divisão interna em capítulos, revogados o nº 6 do art. 61º e o nº 2 do art.\
+    \ 153º, e republicada com a redacção actual o Código Penal, aprovado pelo presente diploma, revisto e republicado pelo\
+    \ Dec Lei 48/95 de 15-Mar, pela LEI.59/2007.04.09.2007.AR, DR.IS [170] de 04.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-2007-640142
+  date: '2007-09-04'
+- type: amended_by
+  target: pt:dre:249858:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, por violação do disposto nos n.ºs 1 e 3 do art.\
+    \ 29.º da Constituição, da norma extraída das disposições conjugadas da al. a) do n.º 1 do art. 119.º do Código Penal,\
+    \ aprovado pelo presente diploma, e do n.º 1 do art. 336.º do Código de Processo Penal, aprovado pelo Dec Lei 78/87, de\
+    \ 17 Fev, ambos os códigos na redacção originária, na interpretação segundo a qual a prescrição do procedimento criminal\
+    \ se suspende com a declaração de contumácia, pelo AC.183/2008.22.04.2008.TCS, DR.IS [79] de 22.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/183-2008-249858
+  date: '2008-04-22'
+- type: amended_by
+  target: pt:dre:439097:por
+  label: "Alterados os art.s 249º e 250º do Código, na redacção da Lei 59/2007, de 04-Set, que republica o Código, pela LEI.61/2008.31.10.2008.AR,\
+    \ DR.IS [212] de 31.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-2008-439097
+  date: '2008-10-31'
+- type: amended_by
+  target: pt:dre:344253:por
+  label: "Alterados, a partir de 01.03.2011, os arts. 111.º, 118.º (este na redacção da Lei 59/2007, de 04-Set), 372.º e 373.º\
+    \ (ambos na redacção da Lei 108/2001, de 28-Nov), 374.º e 386.º (este na redacção do Dec Lei 101-A/88, de 26-Mar, da Lei\
+    \ 108/2001, de 28-Nov e da Lei 59/2007/04-Set, aditados os arts. 278.º-A e 278.º-B ao cap. iii do tít. iv do livro ii,\
+    \ os arts. 374.º-A e 374.º-B à secção i do cap. iv do tít. v do livro ii e o art. 382.º-A à secção iii do cap. iv do tít.\
+    \ v do livro ii do Código Penal , aprovado pelo presente diploma, revisto e republicado pela Lei 59/2007, de 04-Set, pela\
+    \ LEI.32/2010.02.09.2010.AR, DR.IS [171] de 02.09.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2010-344253
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:344379:por
+  label: "Alterado o art. 30.º do Código Penal, aprovado pelo presente diploma, na redacção e republicação da Lei 59/2007\
+    \ de 04-Set, pela LEI.40/2010.03.09.2010.AR, DR.IS [172] de 03.09.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2010-344379
+  date: '2010-09-03'
+- type: amended_by
+  target: pt:dre:279858:por
+  label: "Alterado, a partir de 01.03.2011, o art. 374º-A (aditado pela Lei 32/2010, de 02-Set) do Código Penal, aprovado\
+    \ pelo presente diploma, revisto e republicado pela Lei 59/2007, de 04-Set, pela LEI.4/2011.16.02.2011.AR, DR.IS [33]\
+    \ de 16.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2011-279858
+  date: '2011-02-16'
+- type: amended_by
+  target: pt:dre:146506:por
+  label: "Dada nova redacção aos arts. 274º, 278º, 279º, 280º e 286º do Código Penal, aprovado pelo presente diploma, alterado\
+    \ e republicado pela Lei 59/2007 de 04-Set, e aditado o art. 279º-A ao mesmo Código pela LEI.56/2011.15.11.2011.AR, DR.IS\
+    \ [219] de 15.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2011-146506
+  date: '2011-11-15'
+- type: amended_by
+  target: pt:dre:258498:por
+  label: "Alterados, os art.s 69.º (na redação da Lei 77/2001, de 13-jul), 120.º (na redação da Lei 65/98, de 02-set), 132.º\
+    \ (na redação da Lei 59/2007, de 04-set, do Dec Lei 101-A/88, de 26-mar, e da Lei 65/98, de 02-set), 152.º (na redação\
+    \ da Lei 65/98, de 02-set, da Lei 7/2000,de 27-maio, e da Lei 59/2007, de 04-set), 204.º (na redação da Lei 59/2007, de\
+    \ 04-set), 207.º, 213.º, 224.º (estes últimos na redação da Lei 59/2007, de 04-set), 231.º, 240.º (este na redação da\
+    \ Lei 59/2007, de 04-set, e da Lei 65/98, de 02-set), 347.º (na redação da Lei 59/2007, de 04-set) e 359.º, e aditado\
+    \ o art. 348.º-A, bem como a epígrafe «Da resistência, desobediência e falsas declarações à autoridade pública», à secção\
+    \ i [ que passa a ser composta pelos art.s 347.º, 348.º e 348.º-A ] do capítulo ii do título v do livro ii, do Código\
+    \ Penal, aprovado pelo Dec Lei 400/82, de 23-set, DR.IS [221]Supl, revisto e republicado pela Lei 59/2007, de 04-set.pela\
+    \ LEI.19/2013.21.02.2013.AR, DR.IS [37] de 21.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2013-258498
+  date: '2013-02-21'
+- type: amended_by
+  target: pt:dre:499058:por
+  label: "Alterados os arts. 11.º (na redação da Lei 59/2007, de 04-set) e 160.º (na redação da Lei 59/2007, de 04-set e da\
+    \ Lei 65/98, de 02-set ), ambos do Código Penal aprovado pelo presente diploma, pela LEI.60/2013.23.08.2013.AR, DR.IS\
+    \ [162] de 23.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-2013-499058
+  date: '2013-08-23'
+- type: amended_by
+  target: pt:dre:55235777:por
+  label: Alterado, a partir de 05.09.2014, o art. 316.º do Código pelo(a) Lei Orgânica n.º 2/2014 - Diário da República n.º
+    150/2014, Série I de 2014-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2014-55235777
+  date: '2014-08-06'
+- type: amended_by
+  target: pt:dre:56351550:por
+  label: Alterado o art. 132º do Código Penal aprovado pelo presente diploma, na redação do Dec Lei 101-A/88, de 26-mar e
+    das Leis 65/98, de 02-set, 59/2007, de 04-set e 19/2013, de 21-fev pelo(a) Lei n.º 59/2014 - Diário da República n.º 163/2014,
+    Série I de 2014-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-2014-56351550
+  date: '2014-08-26'
+- type: amended_by
+  target: pt:dre:56384878:por
+  label: Aditado a partir de 01.10.2014 o novo título vi, designado «Dos crimes contra animais de companhia», composto pelos
+    arts. 387.º a 389.º ao Código, pelo(a) Lei n.º 69/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/69-2014-56384878
+  date: '2014-08-29'
+- type: amended_by
+  target: pt:dre:66005767:por
+  label: Aditado o art. 69.º-A ao Código Penal pelo(a) Lei n.º 82/2014 - Diário da República n.º 251/2014, Série I de 2014-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-2014-66005767
+  date: '2014-12-30'
+- type: amended_by
+  target: pt:dre:66108231:por
+  label: Alterado, na redação da Lei Org 2/2014, de 06-ago, o art. 316.º do Código pelo(a) Lei Orgânica n.º 1/2015 - Diário
+    da República n.º 5/2015, Série I de 2015-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2015-66108231
+  date: '2015-01-08'
+- type: amended_by
+  target: pt:dre:67051302:por
+  label: Alterados os arts. 11.º (na redação dada pela Lei 59/2007 de 04-set e pela Lei 60/2013 de 23-ago), 118.º (na redação
+    dada pela Lei 59/2007 de 04-set e pela Lei 32/2010 de 02-set), 335.º, 374.º, 374.º-B (os últimos dois, respetivamente,
+    alterado e aditado pela Lei 32/2010 de 02-set), 375.º, 376.º e 386.º (na redação dada pela Lei 59/2007 de 04-set e pela
+    Lei 32/2010 de 02-set) do Código Penal, aprovado pelo presente diploma, com a última republicação efetuada pela citada
+    Lei 59/2007 de 04-set, pelo(a) Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2015-67051302
+  date: '2015-04-22'
+- type: amended_by
+  target: pt:dre:69927760:por
+  label: Alterados os arts. 278.º, 279.º e 280.º do Código Penal aprovado pelo presente diploma, na redação da Lei 56/2011,
+    de 15-nov pelo(a) Lei n.º 81/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/81-2015-69927760
+  date: '2015-08-03'
+- type: amended_by
+  target: pt:dre:69951093:por
+  label: Alterados a partir de 04.09.2015 os arts. 5.º (na redação das Leis 65/98, de 02-set, 52/2003, de 22-ago, 31/2004,
+    de 22-jul e 59/2007, de 04-set), 118.º (na redação das Leis 59/2007, de 04-set e 32/2010, de 02-set), 145.º (na redação
+    da Lei 59/2007, de 04-set), 149.º, 155.º, 163.º e 164.º (os três últimos na redação das Leis 65/98, de 02-set e 59/2007,
+    de 04-set),170.º (na redação das Leis 65/98, de 02-set, 99/2001, de 25-ago e 59/2007, de 04-set), 177.º (na redação das
+    Leis 65/98, de 02-set e 59/2007, de 04-set) e 178.º (na redação das Leis 65/98, de 02-set, 99/2001, de 25-ago e 59/2007,
+    de 04-set) e aditados na mesma data os arts. 144.º-A e 154.º-A a 154.º-C ao Código Penal, aprovado pelo presente diploma
+    pelo(a) Lei n.º 83/2015 - Diário da República n.º 151/2015, Série I de 2015-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-2015-69951093
+  date: '2015-08-05'
+- type: amended_by
+  target: pt:dre:70086390:por
+  label: Alterados a partir de 23.09.2015 os arts. 53.º, 54.º, 171.º (este último na redação da Lei 59/2007, de 04-set), 172.º
+    (na redação das Leis 65/98, de 02-set, 99/2001, de 25-ago e 59/2007, de 04-set), 173.º a 175.º (os três na redação das
+    Leis 65/98, de 02-set e 59/2007, de 04-set), 176.º (na redação das Leis 65/98, de 02-set, 99/2001, de 25-ago e 59/2007,
+    de 04-set) e 177.º (este último na redação das Leis 65/98, de 02-set, 59/2007, de 04-set e 83/2015, de 05-ago, aditados
+    os arts. 69.º-B, 69.º-C e 176.º-A e revogado na mesma data o art. 179.º do Código Penal, aprovado pelo presente diploma,
+    revisto e republicado pelo Dec Lei 48/95, de 15-mar pelo(a) Lei n.º 103/2015 - Diário da República n.º 164/2015, Série
+    I de 2015-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/103-2015-70086390
+  date: '2015-08-24'
+- type: amended_by
+  target: pt:dre:70114079:por
+  label: Aditado o art 388.º-A ao Código Penal pelo(a) Lei n.º 110/2015 - Diário da República n.º 166/2015, Série I de 2015-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2015-70114079
+  date: '2015-08-26'
+- type: amended_by
+  target: pt:dre:105387217:por
+  label: Alterados os arts. 265.º e 266.º e revogadas a al. c) do n.º 1 do art. 265.º e a al. c) do n.º 1 do art. 266.º do
+    Código Penal, aprovado pelo presente diploma, na versão republicada pela Lei 59/2007 de 04-set, pelo(a) Lei n.º 39/2016
+    - Diário da República n.º 241/2016, Série I de 2016-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-2016-105387217
+  date: '2016-12-19'
+- type: amended_by
+  target: pt:dre:106549655:por
+  label: Alterados, a partir de 01.05.2017, os arts. 203.º, 204.º (na redação da Lei 19/2013 de 21-fev), 205.º, 206.º, 207.º
+    (na redação da Lei 19/2013 de 21-fev), 209.º, 210.º, 211.º, 212.º, 213.º (na redação da Lei 19/2013 de 21-fev), 227.º,
+    231.º (na redação da Lei 19/2013 de 21-fev), 232.º, 233.º, 255.º, 355.º, 356.º, 374.º-B (aditado pela Lei 32/2010 de 02-set
+    e na redação da Lei 30/2015 de 22-abr), 375.º e 376.º (os dois últimos na redação da Lei 30/2015, de 22-abr) do Código
+    Penal aprovado pelo presente diploma, na versão republicada do Código pela Lei 59/2007 de 04-set, pelo(a) Lei n.º 8/2017
+    - Diário da República n.º 45/2017, Série I de 2017-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-2017-106549655
+  date: '2017-03-03'
+- type: amended_by
+  target: pt:dre:107094725:por
+  label: Alterados os arts. 109.º, 110.º, 111.º (o último na redação da Lei 32/2010 de 02-set), 112.º, 127.º, 128.º e 130.º
+    e aditado o art. 112.º-A ao cap. ix do título iii do livro i do Código Penal, aprovado pelo presente diploma, na versão
+    republicada pela Lei 59/2007 de 04-set, pelo(a) Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2017-107094725
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:108021178:por
+  label: Alterado, a partir de 17.09.2017, o art. 368.º-A do Código Penal aprovado pelo presente diploma, na versão republicada
+    do Código pela Lei 59/2007 de 04-set, pelo(a) Lei n.º 83/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-2017-108021178
+  date: '2017-08-18'
+- type: amended_by
+  target: pt:dre:108038373:por
+  label: Alterados a partir de 21.11.2017 os arts. 43.º a 46.º, 50.º, 53.º (este último na redação da Lei 103/2015, de 24-ago),
+    58.º, 59.º, 73.º e 240.º (este último na redação da Lei 19/2013, de 21-fev), aditado o art. 274.º-A, determinado que a
+    secção i do cap. ii do título iii do livro i passa a denominar-se «Penas de prisão, de multa e de proibição do exercício
+    de profissão, função ou atividade» e revogados na mesma data os n.os 3 e 4 do art. 45.º e o n.º 9 do art. 274.º do Código
+    Penal aprovado pelo presente diploma na versão republicada pela Lei 59/2007, de 04-set pelo(a) Lei n.º 94/2017 - Diário
+    da República n.º 162/2017, Série I de 2017-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/94-2017-108038373
+  date: '2017-08-23'
+- type: amended_by
+  target: pt:dre:114913769:por
+  label: Alterado, a partir de 28.03.2018, o art. 132.º (na redação do Dec Lei 101-A/88, de 26-mar e das Leis 65/98, de 02-set,
+    59/2007, de 04-set, 19/2013, de 21-fev e 59/2014, de 26-ago) do Código Penal aprovado pelo presente diploma, na versão
+    republicada pela Lei 59/2007, de 04-set pelo(a) Lei n.º 16/2018 - Diário da República n.º 61/2018, Série I de 2018-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2018-114913769
+  date: '2018-03-27'
+- type: amended_by
+  target: pt:dre:115946549:por
+  label: Alterados a partir de 01.09.2018 os arts. 152.º e 197.º do Código Penal, na versão republicada pela Lei 59/2007,
+    de 04-set pelo(a) Lei n.º 44/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-2018-115946549
+  date: '2018-08-09'
+- type: amended_by
+  target: pt:dre:124500715:por
+  label: Alterados, a partir de 01.10.2019, os arts. 163.º, 164.º (os dois na redação da Lei 832015 de 05-ago), 166.º e 177.º
+    (o último na redação das Leis 83/2015 de 05-ago e 103/2015 de 24-ago) do Código Penal, aprovado pelo presente diploma,
+    na versão republicada do Código pela Lei 59/2007 de 04-set pelo(a) Lei n.º 101/2019 - Diário da República n.º 171/2019,
+    Série I de 2019-09-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/101-2019-124500715
+  date: '2019-09-06'
+- type: amended_by
+  target: pt:dre:124500716:por
+  label: Alterados os arts. 5.º (na redação da Lei 83/2015 de 05-ago) e 11.º (na redação das Leis 60/2013 de 23-ago e 30/2015
+    de 22-abr) e aditado o art. 144.º-B ao Código Penal aprovado pelo presente diploma, na versão republicada do Código pela
+    Lei 59/2007 de 04-set, pelo(a) Lei n.º 102/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/102-2019-124500716
+  date: '2019-09-06'
+- type: amended_by
+  target: pt:dre:140431165:por
+  label: Alterados a partir de 01.10.2020 os arts. 387.º, 388.º, 388.º-A e 389.º do Código Penal aprovado pelo presente diploma,
+    na versão republicada pela Lei 59/2007, de 04-set, pelo(a) Lei n.º 39/2020 - Diário da República n.º 160/2020, Série I
+    de 2020-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-2020-140431165
+  date: '2020-08-18'
+- type: amended_by
+  target: pt:dre:140431166:por
+  label: Alterados a partir de 01.09.2020 os arts. 5.º, 11.º, 172.º, 176.º e 177.º e aditado, na mesma data, o art. 176.º-B
+    ao Código Penal aprovado pelo presente diploma, na versão republicada pela Lei 59/2007, de 04-set pelo(a) Lei n.º 40/2020
+    - Diário da República n.º 160/2020, Série I de 2020-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2020-140431166
+  date: '2020-08-18'
+- type: amended_by
+  target: pt:dre:141382321:por
+  label: Alterado a partir de 01.09.2020 o art. 368.º-A do Código Penal aprovado pelo presente diploma, na versão republicada
+    do Código pela Lei 59/2007 de 04-set pelo(a) Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2020-141382321
+  date: '2020-08-31'
+- type: amended_by
+  target: pt:dre:169602019:por
+  label: Alterado o art. 152.º do Código pelo(a) Lei n.º 57/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/57-2021-169602019
+  date: '2021-08-16'
+- type: amended_by
+  target: pt:dre:174824631:por
+  label: Alterados a partir de 24.12.2021 os arts. 11.º, 61.º, 74.º, 99.º, 221.º, 225.º, 267.º e 368.º-A e revogados na mesma
+    data o n.º 3 do art. 265.º e o n.º 3 do art. 278.º-A do Código pelo(a) Lei n.º 79/2021 - Diário da República n.º 228/2021,
+    Série I de 2021-11-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/79-2021-174824631
+  date: '2021-11-24'
+- type: amended_by
+  target: pt:dre:176235804:por
+  label: Alterados, a partir de 21.03.2022, os arts. 5.º, 11.º, 46.º, 66.º, 90.º-A, 90.º-B, 90.º-E, 90.º-G, 116.º, 118.º,
+    335.º, 359, 363.º, 372.º, 374.º-A, 374.º-B e 386.º; e aditado, a partir da mesma data, o art. 377.º-A ao Código Penal,
+    aprovado pelo presente diploma, na versão republicada do Código pela Lei 59/2007 de 04-set posteriormente alterado, pelo(a)
+    Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/94-2021-176235804
+  date: '2021-12-21'
+- type: amended_by
+  target: pt:dre:206158533:por
+  label: Alterado, a partir de 15.02.2023, o art. 368.º-A do Código Penal aprovado pelo presente diploma, na versão republicada
+    do Código pela Lei 59/2007 de 04-set, pelo(a) Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2023-206158533
+  date: '2023-01-16'
+- type: amended_by
+  target: pt:dre:213498831:por
+  label: Alterado, os arts 134.º, 135.º e 139.º do Código Penal aprovado pelo presente diploma, pelo(a) Lei n.º 22/2023 -
+    Diário da República n.º 101/2023, Série I de 2023-05-25, nos termos do seu art. 34.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-2023-213498831
+  date: '2023-05-25'
+- type: amended_by
+  target: pt:dre:213706993:por
+  label: Alterados os arts. 192.º, 193.º, 197.º e 198.º do Código pelo(a) Lei n.º 26/2023 - Diário da República n.º 104/2023,
+    Série I de 2023-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2023-213706993
+  date: '2023-05-30'
+- type: amended_by
+  target: pt:dre:215980339:por
+  label: Alterados, a partir de 20.08.2023, os arts 93.º, 96.º,142.º e revogdo o n.º 3 do art. 92.º do Código Penal, aprovado
+    pelo presente diploma, Supl pelo(a) Lei n.º 35/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2023-215980339
+  date: '2023-07-21'
+- type: amended_by
+  target: pt:dre:219991255:por
+  label: Alterados, a partir de 1.10.2023 os arts. 115.º, 163.º, 164.º e 178.º do Código Penal, aprovado pelo presente diploma,
+    pelo(a) Lei n.º 45/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-2023-219991255
+  date: '2023-08-17'
+- type: amended_by
+  target: pt:dre:221225697:por
+  label: Alterados a partir de 05.09.2023 os arts. 69.º e 101.º e aditado na mesma data o art. 292.º-A ao Código pelo(a) Lei
+    n.º 54/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/54-2023-221225697
+  date: '2023-09-04'
+- type: amended_by
+  target: pt:dre:836604893:por
+  label: Alterados, a partir de 14.02.2024, os artigos 118.º, 119.º, 176.º, 176.º-B, 240.º, 368.º-A e 386.º do Código Penal
+    pelo(a) Lei n.º 4/2024 - Diário da República n.º 10/2024, Série I de 2024-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2024-836604893
+  date: '2024-01-15'
+- type: amended_by
+  target: pt:dre:839477377:por
+  label: Alterados, a partir de 1 de março de 2024, os artigos 69.º-B, 69.º-C e 177.º e aditado o artigo 176.º-C do Código
+    Penal pelo(a) Lei n.º 15/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2024-839477377
+  date: '2024-01-29'
+- type: amended_by
+  target: pt:dre:911488696:por
+  label: Alterados, a partir de 18 de abril de 2025, os artigos 132.º, 143.º, 145.º, 293.º e 347.º do Código Penal pelo(a)
+    Lei n.º 26/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2025-911488696
+  date: '2025-03-19'
+- type: amended_by
+  target: pt:dre:950872040:por
+  label: Alterado, a partir de 25 de novembro de 2025, o artigo 215.º do Código pelo(a) Lei n.º 67/2025 - Diário da República
+    n.º 227/2025, Série I de 2025-11-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-2025-950872040
+  date: '2025-11-24'
+- type: amended_by
+  target: pt:dre:992402106:por
+  label: Alterado, a partir de 24 de dezembro de 2025, o artigo 368.º-A do Código Penal, pelo(a) Lei n.º 72/2025 - Diário
+    da República n.º 246/2025, Série I de 2025-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2025-992402106
+  date: '2025-12-23'
+- type: amended_by
+  target: pt:dre:1152409207:por
+  label: Alterado, a partir de 1 de setembro de 2026, o artigo 120.º do Código Penal, aprovado pelo presente diploma, pelo(a)
+    Lei n.º 34/2026 - Diário da República n.º 143/2026, Série I de 2026-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2026-1152409207
+  date: '2026-07-27'
+- type: amended_by
+  target: pt:dre:1160130310:por
+  label: Alterados, a partir de 24 de agosto de 2026, os artigos 5.º e 160.º do Código Penal, aprovado pelo presente diploma,
+    pelo(a) Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2026-1160130310
+  date: '2026-08-18'
+- type: cites
+  target: pt:dre:146734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675640:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:379739:por
+  label: Rectificado o presente diploma, bem como o Código Penal aprovado em anexo, pelo(a) Declaração - Diário da República
+    n.º 279/1982, Série I de 1982-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-379739
+  date: '1982-12-03'
+- type: corrected_by
+  target: pt:dre:469206:por
+  label: Rectificada a Decl DD5852, de 03-Dez 1982, na parte em que rectifica a epígrafe do art. 256.º do Código Penal, aprovado
+    pelo presente diploma (rectificando para art. 229.º, n.º 2 o art. objecto de rectificação), pela DECL.DD2683.31.01.1983.PCM,
+    DR.IS [25-Supl] de 31.01.1983�3
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469206
+  date: '1983-01-07'
+- type: corrected_by
+  target: pt:dre:616594:por
+  label: "Rectificado o art. 3.º do Dec Lei 132/93, de 23-Abr, na parte em que altera o n.º 2 do art. 326.º do Código Penal,\
+    \ aprovado pelo presente diploma, pela DECL-RECT.141/93.31.07.1993.PCM, DR.IS-A [178-Supl] de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/141-1993-616594
+  date: '1993-07-31'
+- type: corrected_by
+  target: pt:dre:230904:por
+  label: "Rectificado o Dec Lei 48/95, de 15-Mar, [que revê e republica o Código Penal aprovado pelo presente diploma] pela\
+    \ DECL-RECT.73-A/95.14.06.1995.PCM, DR.IS-B [36-Supl] de 14.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/73-a-1995-230904
+  date: '1995-06-14'
+- type: corrected_by
+  target: pt:dre:277845:por
+  label: "Rectificado o art. 53.º da Lei 11/2004, de 27-Mar [na parte em que adita o n.º 2 do art. 368.º-A ao Código Penal,\
+    \ aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 48/95, de 15-Mar] pela DECL-RECT.45/2004.05.06.2004.AR,\
+    \ DR.IS-A [132] de 05.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/45-2004-277845
+  date: '2004-06-05'
+- type: corrected_by
+  target: pt:dre:629402:por
+  label: "Rectificado o n.º 2 do art. 152.º-A (no texto de alteração e na republicação do Código Penal) e o n.º 1 do art.\
+    \ 262.º e o n.º 3 do art. 373.º (ambos na republicação do Código Penal, constante da Lei 59/2007, de 04-Set ,que altera\
+    \ e republica o Código Penal, aprovado pelo presente diploma, pela DECL-RECT.102/2007.31.10.2007.AR, DR.IS [210] de 31.10.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/102-2007-629402
+  date: '2007-10-31'
+- type: repealed_by
+  target: pt:dre:676608:por
+  label: "Revogado, a partir da sua entrada em vigor, o art. 275º do Código Penal, aprovado pelo presente diploma, revisto\
+    \ e republicado pelo Dec Lei 48/95 de 15-Mar, alterado pelas Leis 65/98 de 02-Set e 98/2001 de 25-Ago, pela LEI.5/2006.23.02.2006.AR,\
+    \ DR.IS-A [39] de 23.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2006-676608
+  date: '2006-02-23'
+- type: repealed_by
+  target: pt:dre:491395:por
+  label: "Revogado, a partir de 11.10.2009, o Dec Lei 32171 de 29-Jul 1942, alterado pelo presente diploma, pelo DEC LEI.279/2009.06.10.2009.MS,\
+    \ DR.IS [193] de 06.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-2009-491395
+  date: '2009-10-06'
 article_structure:
-  article_count: 13
-  section_count: 89
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 91
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:17Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +807,15 @@ de 23 de Setembro
 
 No uso da faculdade conferida pela [Lei n.º 24/82](https://diariodarepublica.pt/dr/detalhe/lei/24-1982-396557), de 23 de Agosto, o Governo decreta, nos termos do n.º 2 do artigo 168.º e da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Código Penal, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código Penal, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O Código Penal e os artigos 3.º e seguintes do presente decreto-lei entram em vigor em 1 de Janeiro de 1983.
+Art. 2.º O Código Penal e os artigos 3.º e seguintes do presente decreto-lei entram em vigor em 1 de Janeiro de 1983.
 
 Art.º 3.º - 1 - Ficam alterados para os limites mínimo e máximo fixados no artigo 40.º, n.º 1.º, do Código Penal todas as penas de prisão que tenham duração inferior ou superior aos limites aí estabelecidos.
 
 2 - Ficam alterados para os limites mínimos e máximos resultantes do artigo 46.º do Código Penal todas as penas de multa cominadas em leis penais, de duração ou quantitativo inferiores ousuperiores aos limites aí fixados.
 
-###### Art. 4.º - 1 - Consideram-se feitas para as correspondentes disposições do Código Penal todas as remissões para normas do Código anterior contidas em leis penais avulsas.
+Art. 4.º - 1 - Consideram-se feitas para as correspondentes disposições do Código Penal todas as remissões para normas do Código anterior contidas em leis penais avulsas.
 
 2 - Nomeadamente, consideram-se feitas:
 
@@ -107,7 +823,7 @@ a) Para o artigo 236.º, a remissão do artigo 63.º do [Decreto-Lei n.º 48912]
 
 b) Para os artigos 236.º e 244.º, a remissão do artigo 19.º do [Decreto-Lei n.º 43977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43977-1961-183058), de 3 de Julho de 1961; e para os artigos 228.º, 313.º e 314.º, a do artigo 20.º do mesmo diploma.
 
-###### Art. 5.º O corpo do artigo 24.º do [Decreto n.º 13004](https://diariodarepublica.pt/dr/detalhe/decreto/13004-1927-252410), de 12 de Janeiro de 1927, passa a ter a seguinte redacção:
+Art. 5.º O corpo do artigo 24.º do [Decreto n.º 13004](https://diariodarepublica.pt/dr/detalhe/decreto/13004-1927-252410), de 12 de Janeiro de 1927, passa a ter a seguinte redacção:
 
 1 - O sacador do cheque cujo não pagamento por falta de provisão tiver sido verificado nos termos e prazo prescritos nos artigos 28.º e 29.º da Lei Uniforme relativa ao cheque, a pedido do respectivo portador, será punido com prisão até 3 anos.
 
@@ -119,15 +835,15 @@ b) A pessoa directamente prejudicada ficar em difícil situação económica;
 
 c) O quantitativo sacado for consideravelmente elevado.
 
-###### Art. 6.º - 1 - Com excepção das normas relativas a contravenções, são revogados o Código Penal aprovado pelo Decreto de 16 de Setembro de 1886 e todas as disposições legais que prevêem e punem factos incriminados pelo novo Código Penal.
+Art. 6.º - 1 - Com excepção das normas relativas a contravenções, são revogados o Código Penal aprovado pelo Decreto de 16 de Setembro de 1886 e todas as disposições legais que prevêem e punem factos incriminados pelo novo Código Penal.
 
 2 - Nomeadamente, são revogadas as seguintes disposições:
 
 Artigos 178.º a 195.º do Regulamento Geral de Saúde Pecuária, de 7 de Fevereiro de 1889;
 
-###### Artigo 95.º da Lei de 21 de Maio de 1886;
+Artigo 95.º da Lei de 21 de Maio de 1886;
 
-###### Artigo 15.º do Decreto de 15 de Abril de 1911;
+Artigo 15.º do Decreto de 15 de Abril de 1911;
 
 Artigos 11.º, 12.º e 13.º do Decreto de 20 de Abril de 1911;
 
@@ -135,31 +851,31 @@ Artigos 260.º e 261.º do [Decreto n.º 5786](https://diariodarepublica.pt/dr/d
 
 [Decreto n.º 10290](https://diariodarepublica.pt/dr/detalhe/decreto/10290-1924-559870), de 12 de Novembro de 1924;
 
-###### Artigo 5.º do [Decreto n.º 10357](https://diariodarepublica.pt/dr/detalhe/decreto/10357-1924-561260), de 12 de Fevereiro de 1925;
+Artigo 5.º do [Decreto n.º 10357](https://diariodarepublica.pt/dr/detalhe/decreto/10357-1924-561260), de 12 de Fevereiro de 1925;
 
-###### Artigo 10.º do [Decreto n.º 15090](https://diariodarepublica.pt/dr/detalhe/decreto/15090-1928-646969), de 20 de Fevereiro de 1928;
+Artigo 10.º do [Decreto n.º 15090](https://diariodarepublica.pt/dr/detalhe/decreto/15090-1928-646969), de 20 de Fevereiro de 1928;
 
 Artigos 24.º e 25.º do [Decreto n.º 20431](https://diariodarepublica.pt/dr/detalhe/decreto/20431-1931-504761), de 24 de Outubro de 1931;
 
-###### Artigo 6.º do [Decreto n.º 21740](https://diariodarepublica.pt/dr/detalhe/decreto/21740-1932-598935), de 14 de Outubro de 1932;
+Artigo 6.º do [Decreto n.º 21740](https://diariodarepublica.pt/dr/detalhe/decreto/21740-1932-598935), de 14 de Outubro de 1932;
 
-###### Artigo 9.º do [Decreto-Lei n.º 24902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24902-1935-467647), de 10 de Janeiro de 1935;
+Artigo 9.º do [Decreto-Lei n.º 24902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24902-1935-467647), de 10 de Janeiro de 1935;
 
-###### Artigo 4.º do [Decreto-Lei n.º 29480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29480-1939-424510), de 10 de Março de 1939;
+Artigo 4.º do [Decreto-Lei n.º 29480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29480-1939-424510), de 10 de Março de 1939;
 
-###### Artigo 2.º do [Decreto-Lei n.º 31174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31174-1941-416665), de 14 de Março de 1941;
+Artigo 2.º do [Decreto-Lei n.º 31174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31174-1941-416665), de 14 de Março de 1941;
 
 Artigos 7.º, 9.º, 10.º, 12.º, 13.º, 14.º e 15.º do [Decreto-Lei n.º 32171](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32171-1942-315369), de 29 de Julho de 1942;
 
 Artigos 2.º e 3.º do [Decreto-Lei n.º 32832](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32832-1943-397739), de 7 de Junho de 1944;
 
-###### Artigo 156.º da [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 16 de Agosto de 1949;
+Artigo 156.º da [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 16 de Agosto de 1949;
 
 [Lei n.º 2053](https://diariodarepublica.pt/dr/detalhe/lei/2053-1952-598721), de 22 de Março de 1952;
 
 Artigos 16.º a 19.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957;
 
-###### Artigo 37.º do [Decreto-Lei n.º 42417](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42417-1959-431626), de 27 de Julho de 1959;
+Artigo 37.º do [Decreto-Lei n.º 42417](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42417-1959-431626), de 27 de Julho de 1959;
 
 Artigos 9.º a 12.º do [Decreto-Lei n.º 42979](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42979-1960-505047), de 16 de Maio de 1960;
 
@@ -167,7 +883,7 @@ Artigos 1275.º a 1278.º e 1324.º do Código de Processo Civil, aprovado pelo 
 
 Artigos 549.º e 700.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962;
 
-###### Artigo 1.º do [Decreto-Lei n.º 44579](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44579-1962-159932), de 19 de Setembro de 1962;
+Artigo 1.º do [Decreto-Lei n.º 44579](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44579-1962-159932), de 19 de Setembro de 1962;
 
 [Decreto-Lei n.º 44939](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44939-1963-195424), de 27 de Março de 1963;
 
@@ -181,7 +897,7 @@ Artigos 116.º, 121.º e 122.º do [Decreto-Lei n.º 48547](https://diariodarepu
 
 Artigos 15.º a 22.º do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 24 de Novembro;
 
-###### Base XX, da [Lei n.º 4/71](https://diariodarepublica.pt/dr/detalhe/lei/4-1971-635251), de 21 Agosto;
+Base XX, da [Lei n.º 4/71](https://diariodarepublica.pt/dr/detalhe/lei/4-1971-635251), de 21 Agosto;
 
 [Lei n.º 3/73](https://diariodarepublica.pt/dr/detalhe/lei/3-1973-675640), de 4 de Abril;
 
@@ -191,7 +907,7 @@ Artigos 4.º e 5.º do [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/
 
 [Decreto-Lei n.º 290/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1976-502042), de 23 de Abril;
 
-###### Artigo 3.º do [Decreto-Lei n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1978-468853), de 9 de Janeiro;
+Artigo 3.º do [Decreto-Lei n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1978-468853), de 9 de Janeiro;
 
 Artigos 53.º, 55.º, 57.º, 58.º, 61.º e 62.º da [Lei n.º 69/78](https://diariodarepublica.pt/dr/detalhe/lei/69-1978-327591), de 3 de Novembro;
 
@@ -201,15 +917,15 @@ Artigos 162.º e 165.º da [Lei n.º 14/79](https://diariodarepublica.pt/dr/deta
 
 Artigos 3.º a 6.º da [Lei n.º 24/81](https://diariodarepublica.pt/dr/detalhe/lei/24-1981-575895), de 20 de Agosto.
 
-###### Art. 7.º Mantêm-se em vigor as normas de direito substantivo e processual relativos a contravenções. Aos limites da multa e à prisão em sua alternativa aplicam-se, porém, as disposições do novo Código Penal.
+Art. 7.º Mantêm-se em vigor as normas de direito substantivo e processual relativos a contravenções. Aos limites da multa e à prisão em sua alternativa aplicam-se, porém, as disposições do novo Código Penal.
 
 Visto e aprovado em Conselho de Ministros de 19 de Agosto de 1982. - Diogo Pinto de Freitas do Amaral - José Manuel Meneses Sampaio Pimentel.
 
-**Promulgado em 10 de Setembro de 1982.**
+Promulgado em 10 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CÓDIGO PENAL
 
@@ -239,7 +955,7 @@ Não deixará de se recordar, por fim, que o Código, cuja vigência agora cessa
 
 II
 
-# Parte geral
+## Parte geral
 
 2 - Um dos princípios basilares do diploma reside na compreensão de que toda a pena tem de ter como suporte axiológico-normativo uma culpa concreta. O princípio nulla poena sine culpa, combatido ultimamente em certos quadrantes do pensamento jurídico-penal, embora mais, ou quase exclusivamente, contra a vertente que considera a culpa como fundamento da pena, ganhou o voto unânime de todas as forças políticas representadas no parlamento alemão, quando se procedeu à apreciação dos grandes princípios orientadores da reforma daquele sistema penal. Acrescente-se que mesmo os autores que dão uma maior tónica à prevenção geral aceitam inequivocamente a culpa como limite de pena. E mais. Podemos dizer, sem querer entrar em pormenores, que ele corresponde, independentemente da perspectiva em que se coloque o investigador, a uma larga e profunda tradição cultural portuguesa e europeia.
 
@@ -369,7 +1085,7 @@ De resto, não é só na «Parte geral» que o Código se revela particularmente
 
 III
 
-# Parte especial
+## Parte especial
 
 18 - Poderá dizer-se, sem risco de erro, que a «Parte especial» é a que maior impacte tem na opinião pública. É através dela que a comunidade politicamente organizada eleva determinados valores à categoria de bens jurídico-penais. Nem todos os interesses colectivos são penalmente tutelados, nem todas as condutas socialmente danosas são criminalmente sancionadas. É por isso que fundadamente se fala do carácter necessariamente fragmentário do direito penal.
 
@@ -421,15 +1137,15 @@ Retiram-se estes crimes do título V «Dos crimes contra o Estado» e integram-s
 
 36 - Para finalizar diga-se que nos crimes contra o Estado o ponto saliente reside na mais correcta e cuidada definição objectiva e subjectiva dos elementos que constituem cada um dos diferentes tipos legais de crime que este título encerra. Por outro lado, fundamentalmente, no que se refere aos crimes contra a segurança interna do Estado, o bem jurídico que se protege é o da ordem democrática constitucional. Desta forma, o bem jurídico não se dilui na própria noção de Estado, antes se concretiza no valor que este, para sua prossecução, visa salvaguardar.
 
-# LIVRO I
+LIVRO I
 
-# Parte geral
+Parte geral
 
 ## TÍTULO I — Da lei criminal
 
 ### CAPÍTULO ÚNICO — Princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Princípio da legalidade)
 
@@ -439,7 +1155,7 @@ Retiram-se estes crimes do título V «Dos crimes contra o Estado» e integram-s
 
 3 - Não é permitida a analogia para qualificar o facto como crime, definir um estado de perigosidade, ou determinar a pena ou medida de segurança que lhes corresponde.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Aplicação no tempo)
 
@@ -451,13 +1167,13 @@ Retiram-se estes crimes do título V «Dos crimes contra o Estado» e integram-s
 
 4 - Quando as disposições penais vigentes no momento da prática do facto punível forem diferentes das estabelecidas em leis posteriores, será sempre aplicado o regime que concretamente se mostre mais favorável ao agente, salvo se este já tiver sido condenado por sentença transitada em julgado.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Momento da prática do facto)
 
 O facto considera-se praticado no momento em que o agente actuou ou, no caso de omissão, deveria ter actuado, independentemente do momento em que o resultado típico se tenha produzido.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Aplicação no espaço: princípio geral)
 
@@ -467,7 +1183,7 @@ a) A factos praticados em território português, seja qual for a nacionalidade 
 
 b) A factos praticados a bordo de navios ou aeronaves portugueses.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Factos praticados fora do território português)
 
@@ -489,7 +1205,7 @@ d) A factos cometidos fora do território nacional contra portugueses, por portu
 
 2 - A lei penal portuguesa é ainda aplicável a quaisquer factos cometidos fora do território nacional que o Estado Português assim se tenha obrigado a julgar por tratado ou convenção internacional.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Restrições à aplicação da lei portuguesa)
 
@@ -501,19 +1217,19 @@ d) A factos cometidos fora do território nacional contra portugueses, por portu
 
 4 - Quando o agente tiver sido julgado em país estrangeiro e voltar a sê-lo em Portugal pelo mesmo facto, levar-se-á sempre em conta, na pena que lhe for aplicada, aquela que já tiver cumprido no estrangeiro.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Lugar da prática do facto)
 
 O facto considera-se praticado tanto no lugar em que, total ou parcialmente, e sob qualquer forma de comparticipação, o agente actuou ou, no caso de omissão, devia ter actuado, como naquele em que o resultado típico se tenha produzido.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Aplicação subsidiária do Código Penal)
 
 As disposições deste diploma são aplicáveis aos factos puníveis pelo direito penal militar e da marinha mercante e pela restante legislação de carácter especial, salvo disposição em contrário.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Disposições especiais para jovens)
 
@@ -523,7 +1239,7 @@ Aos maiores de 16 anos e menores de 21 anos são aplicáveis normas fixadas em l
 
 ### CAPÍTULO I — Pressupostos da punição
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Comissão por acção e por omissão)
 
@@ -533,13 +1249,13 @@ Aos maiores de 16 anos e menores de 21 anos são aplicáveis normas fixadas em l
 
 3 - No caso do número anterior a pena poderá ser especialmente atenuada.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Carácter pessoal da responsabilidade)
 
 Salvo disposição em contrário, só as pessoas singulares são susceptíveis de responsabilidade criminal.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Actuação em nome de outrem)
 
@@ -551,13 +1267,13 @@ b) Que o agente pratique o facto no seu próprio interesse e o representante act
 
 2 - A ineficácia do acto que serve de fundamento à representação não impede a aplicação do disposto no número anterior.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Dolo e negligência)
 
 Só é punível o facto praticado com dolo ou, nos casos especialmente previstos na lei, com negligência.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Dolo)
 
@@ -567,7 +1283,7 @@ Só é punível o facto praticado com dolo ou, nos casos especialmente previstos
 
 3 - Quando a realização de um facto for representada como uma consequência possível da conduta, haverá dolo se o agente actuar conformando-se com aquela realização.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Negligência)
 
@@ -577,7 +1293,7 @@ a) Representa como possível a realização de um facto correspondente a um tipo
 
 b) Não chega sequer a representar a possibilidade da realização do facto.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Erro sobre as circunstâncias do facto)
 
@@ -587,7 +1303,7 @@ b) Não chega sequer a representar a possibilidade da realização do facto.
 
 3 - Fica ressalvada a punibilidade da negligência nos termos gerais.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Erro sobre a ilicitude)
 
@@ -595,19 +1311,19 @@ b) Não chega sequer a representar a possibilidade da realização do facto.
 
 2 - Se o erro lhe for censurável, o agente será punido com a pena aplicável ao crime doloso respectivo, que pode ser especialmente atenuada.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Agravação da pena pelo resultado)
 
 Quando a pena aplicável a um facto for agravada em função da produção de um resultado, a agravação é sempre condicionada pela possibilidade de imputação desse resultado ao agente pelo menos a título de negligência.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Inimputabilidade em razão da idade)
 
 Os menores de 16 anos são penalmente inimputáveis.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Inimputabilidade em razão de anomalia psíquica)
 
@@ -621,13 +1337,13 @@ Os menores de 16 anos são penalmente inimputáveis.
 
 ### CAPÍTULO II — Formas do crime
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Actos preparatórios)
 
 Os actos preparatórios não são puníveis, salvo disposição em contrário.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Tentativa)
 
@@ -641,7 +1357,7 @@ b) Os que são idóneos a produzir o resultado típico;
 
 c) Os que, segundo a experiência comum e salvo circunstâncias imprevisíveis, são de natureza a fazer a esperar que se lhes sigam actos das espécies indicadas nas alíneas anteriores.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Punibilidade da tentativa)
 
@@ -651,7 +1367,7 @@ c) Os que, segundo a experiência comum e salvo circunstâncias imprevisíveis, 
 
 3 - A tentativa não é punível quando for manifesta a inaptidão do meio empregado pelo agente ou a inexistência do objecto essencial à consumação do crime.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Desistência)
 
@@ -659,19 +1375,19 @@ c) Os que, segundo a experiência comum e salvo circunstâncias imprevisíveis, 
 
 2 - Quando a consumação ou a verificação do resultado são impedidas por facto independente da conduta do desistente, a tentativa não é punível se este se esforçar seriamente por evitar uma ou outra.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Desistência em caso de comparticipação)
 
 Se vários agentes comparticipam no facto, não é punível a tentativa daquele que voluntariamente impedir a consumação ou a verificação do resultado, nem a daquele que se esforçar seriamente por impedir uma ou outra, ainda que os outros comparticipantes prossigam na execução do crime ou o consumem.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Autoria)
 
 É punível como autor quem executa o facto, por si mesmo ou por intermédio de outrem, ou toma parte directa na sua execução, por acordo ou juntamente com outro ou outros, e ainda quem, dolosamente, determina outra pessoa à prática do facto, desde que haja execução ou começo de execução.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Cumplicidade)
 
@@ -679,7 +1395,7 @@ Se vários agentes comparticipam no facto, não é punível a tentativa daquele 
 
 2 - É aplicável ao cúmplice a pena fixada para o autor, especialmente atenuada.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Ilicitude na comparticipação)
 
@@ -687,13 +1403,13 @@ Se vários agentes comparticipam no facto, não é punível a tentativa daquele 
 
 2 - Sempre que, por efeito da regra do número anterior, resulte para algum dos comparticipantes a aplicação de pena mais grave, pode esta, consideradas as circunstâncias do caso, ser substituída por aquela que teria lugar se tal regra não interviesse.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Culpa na comparticipação)
 
 Cada comparticipante é punido segundo a sua culpa, independentemente da punição ou do grau de culpa dos outros comparticipantes.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Concurso de crimes e crime continuado)
 
@@ -703,7 +1419,7 @@ Cada comparticipante é punido segundo a sua culpa, independentemente da puniç�
 
 ### CAPÍTULO III — Causas que excluem a ilicitude e a culpa
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Exclusão da ilicitude)
 
@@ -719,13 +1435,13 @@ c) No cumprimento de um dever imposto por lei ou por ordem legítima da autorida
 
 d) Com o consentimento do titular do interesse jurídico lesado.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Legítima defesa)
 
 Constitui legítima defesa o facto praticado, como meio necessário, para repelir a agressão actual e ilícita de quaisquer interesses juridicamente protegidos do agente ou de terceiro.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Excesso de legítima defesa)
 
@@ -733,7 +1449,7 @@ Constitui legítima defesa o facto praticado, como meio necessário, para repeli
 
 2 - Se o excesso resultar de perturbação, medo ou susto não censuráveis, o agente não será punido.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Direito de necessidade)
 
@@ -745,7 +1461,7 @@ b) Haver sensível superioridade do interesse a salvaguardar relativamente ao in
 
 c) Ser razoável impor ao lesado o sacrifício do seu interesse em atenção à natureza ou ao valor do interesse ameaçado.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Estado de necessidade desculpante)
 
@@ -753,7 +1469,7 @@ c) Ser razoável impor ao lesado o sacrifício do seu interesse em atenção à 
 
 2 - Se o perigo ameaçar interesses jurídicos diferentes dos referidos no número anterior e se verificarem os restantes pressupostos ali mencionados, pode a pena ser especialmente atenuada ou, excepcionalmente, o agente ser dela isento.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Conflito de deveres)
 
@@ -761,13 +1477,13 @@ c) Ser razoável impor ao lesado o sacrifício do seu interesse em atenção à 
 
 2 - O dever de obediência hierárquica cessa quando conduz à prática de um crime.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Obediência indevida desculpante)
 
 Age sem culpa o funcionário que cumpre uma ordem sem conhecer que ela conduz à prática de um crime, não sendo isso evidente no quadro das circunstâncias por ele representadas.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Consentimento)
 
@@ -781,7 +1497,7 @@ Age sem culpa o funcionário que cumpre uma ordem sem conhecer que ela conduz à
 
 #### SECÇÃO I — Penas de prisão e de multa
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Duração da pena de prisão)
 
@@ -791,19 +1507,19 @@ Age sem culpa o funcionário que cumpre uma ordem sem conhecer que ela conduz à
 
 3 - Em caso algum, porém, o limite máximo da prisão poderá exceder 25 anos.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Contagem dos prazos das penas de prisão)
 
 A contagem dos prazos das penas de prisão é feita segundo os critérios estabelecidos na lei processual penal e, na sua falta, pelos da lei civil.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Execução das penas de prisão)
 
 A execução das penas de prisão é regulada em legislação especial, na qual são fixados os deveres e os direitos dos reclusos.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Substituição da prisão por multa)
 
@@ -813,7 +1529,7 @@ A execução das penas de prisão é regulada em legislação especial, na qual 
 
 3 - É aplicável à multa que substituir a prisão o regime dos artigos 46.º e 47.º
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Prisão por dias livres)
 
@@ -823,7 +1539,7 @@ A execução das penas de prisão é regulada em legislação especial, na qual 
 
 3 - Os dias feriados que antecedem ou se sigam imediatamente a um fim-de-semana poderão ser utilizados para execução desta pena, sem prejuízo da duração máxima estabelecida para cada período.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Regime de semidetenção)
 
@@ -831,7 +1547,7 @@ A execução das penas de prisão é regulada em legislação especial, na qual 
 
 2 - O regime de semidetenção consiste numa privação de liberdade que permita ao condenado prosseguir a sua actividade profissional normal, a sua formação profissional ou os seus estudos, por força de saídas estritamente limitadas ao cumprimento das suas obrigações.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Pena de multa)
 
@@ -847,7 +1563,7 @@ A execução das penas de prisão é regulada em legislação especial, na qual 
 
 6 - A falta de pagamento de uma das prestações importa o vencimento de todas.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Não pagamento de multa)
 
@@ -863,7 +1579,7 @@ A execução das penas de prisão é regulada em legislação especial, na qual 
 
 #### SECÇÃO II — Suspensão da execução da pena
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Pressupostos e duração)
 
@@ -875,7 +1591,7 @@ A execução das penas de prisão é regulada em legislação especial, na qual 
 
 4 - O período de suspensão será fixado entre 1 e 5 anos, a contar do dia em que a decisão transitar em julgado.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Deveres que a podem condicionar)
 
@@ -891,7 +1607,7 @@ c) Entregar ao Estado certa quantia sem atingir o limite máximo estabelecido pa
 
 3 - Os deveres impostos podem ser modificados até aos termos do período de detenção, sempre que ocorram circunstâncias relevantes ou de que o tribunal só posteriormente tenha tido conhecimento.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Falta de cumprimento dos deveres)
 
@@ -905,7 +1621,7 @@ c) Prorrogar o período de suspensão até metade do prazo inicialmente fixado, 
 
 d) Revogar a suspensão da pena.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Revogação)
 
@@ -913,7 +1629,7 @@ d) Revogar a suspensão da pena.
 
 2 - A revogação determina o cumprimento da pena cuja execução estava suspensa, sem que o condenado possa exigir a restituição das prestações que haja efectuado nos termos do n.º 1 do artigo 49.º
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Extinção da pena)
 
@@ -921,7 +1637,7 @@ Se a suspensão não for revogada, a pena considerar-se-á extinta.
 
 #### SECÇÃO III — Regime de prova
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Pressupostos e duração)
 
@@ -929,7 +1645,7 @@ Se a suspensão não for revogada, a pena considerar-se-á extinta.
 
 2 - O regime de prova pode durar de 1 a 3 anos contados desde o dia em que a sentença transitar em julgado, sem prejuízo da possibilidade da sua prorrogação.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Elementos)
 
@@ -953,13 +1669,13 @@ g) Qualquer outro comportamento que interesse ao plano de reabilitação social 
 
 3 - O tribunal pode ainda determinar o internamento até 2 meses em instituições adequadas e impor ao condenado o dever de prestar caução de boa conduta ou de se apresentar periodicamente perante o tribunal ou outras entidades não policiais.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Execução do regime de prova)
 
 A execução do regime de prova será regulada em legislação especial que fixará os direitos e os deveres dos trabalhadores sociais e dos delinquentes.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Falta de cumprimento dos deveres)
 
@@ -971,7 +1687,7 @@ b) Prorrogar o período do regime até 5 anos;
 
 c) Revogar o regime de prova.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Revogação)
 
@@ -979,7 +1695,7 @@ c) Revogar o regime de prova.
 
 2 - A revogação determina a fixação da pena que ao crime caberia se não tivesse tido lugar o regime de prova, não podendo o agente exigir a restituição de prestações que haja efectuado.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Extinção da pena)
 
@@ -987,7 +1703,7 @@ Se o regime de prova não for revogado, considerar-se-á extinto.
 
 #### SECÇÃO IV — Admoestação e prestação de trabalho
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Admoestação)
 
@@ -997,7 +1713,7 @@ Se o regime de prova não for revogado, considerar-se-á extinto.
 
 3 - A admoestação consiste numa solene e adequada censura oral feita em audiência pelo tribunal ao réu considerado culpado.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Prestação de trabalho a favor da comunidade)
 
@@ -1017,7 +1733,7 @@ Se o regime de prova não for revogado, considerar-se-á extinto.
 
 #### SECÇÃO V — Liberdade condicional
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Pressupostos e duração)
 
@@ -1027,7 +1743,7 @@ Se o regime de prova não for revogado, considerar-se-á extinto.
 
 3 - A duração da liberdade condicional não será inferior a 3 meses nem superior a 5 anos; o limite mínimo será, no entanto, elevado para o tempo de prisão que ao libertado falte cumprir, sempre que este tempo não exceda 5 anos.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Regime)
 
@@ -1037,7 +1753,7 @@ a) O período da prorrogação não pode exceder metade da duração inicialment
 
 b) A assistência pós-prisional pode ser dispensada.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Revogação)
 
@@ -1045,7 +1761,7 @@ b) A assistência pós-prisional pode ser dispensada.
 
 2 - A revogação determina a execução da pena de prisão ainda não cumprida; pode, contudo, o tribunal, se o considerar justificado, reduzir até metade o tempo de prisão a cumprir, não tendo o delinquente, em caso algum, direito à restituição de prestações que haja efectuado. Relativamente à prisão que venha a executar-se, pode ser concedida, nos termos gerais, nova liberdade condicional.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Extinção da pena)
 
@@ -1053,13 +1769,13 @@ A pena considera-se inteiramente cumprida e extinta, se a liberdade condicional 
 
 ### CAPÍTULO II — Penas acessórias
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Princípio geral)
 
 Nenhuma pena envolve, como efeito necessário, a perda de direitos civis, profissionais ou políticos.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Pena de demissão)
 
@@ -1071,13 +1787,13 @@ Nenhuma pena envolve, como efeito necessário, a perda de direitos civis, profis
 
 4 - Quando não for decretada a demissão, deve o tribunal comunicar a condenação à autoridade de que o funcionário depende.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 (Suspensão temporária da função)
 
 O réu definitivamente condenado a pena de prisão, que não for demitido, incorre na suspensão do cargo enquanto durar o cumprimento da pena.
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 (Efeitos da demissão e da suspensão)
 
@@ -1085,7 +1801,7 @@ O réu definitivamente condenado a pena de prisão, que não for demitido, incor
 
 2 - A pena de demissão não envolve a perda do direito à aposentação ou à reforma, nem impossibilita o funcionário de ser nomeado para cargos políticos ou lugares diferentes ou que podem ser exercidos sem que o seu titular reúna as particulares condições de dignidade e de confiança que o cargo de que foi demitido exige.
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 (Interdição do exercício de outras profissões ou direitos)
 
@@ -1093,7 +1809,7 @@ O réu definitivamente condenado a pena de prisão, que não for demitido, incor
 
 2 - À prática de certos crimes pode ainda corresponder, por força da lei, a incapacidade para eleger o Presidente da República, os membros de assembleias legislativas ou de autarquias locais, para ser eleito como tal, para ser jurado, ou ainda para exercer o poder paternal, a tutela, a curatela ou a administração de bens.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 (Reabilitação)
 
@@ -1103,13 +1819,13 @@ Quem for condenado em demissão ou na interdição do exercício de certa profis
 
 ### CAPÍTULO I — Regras gerais
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Critério para escolha da pena)
 
 Se ao crime forem aplicáveis pena privativa ou pena não privativa da liberdade, deve o tribunal dar preferência fundamentada à segunda sempre que ela se mostre suficiente para promover a recuperação social do delinquente e satisfaça as exigências de reprovação e de prevenção do crime.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 (Determinação da medida da pena)
 
@@ -1131,7 +1847,7 @@ f) A gravidade da falta de preparação para manter uma conduta lícita, manifes
 
 3 - Na sentença devem ser expressamente referidos os fundamentos da medida da pena.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 (Atenuação especial da pena)
 
@@ -1147,7 +1863,7 @@ c) Ter havido actos demonstrativos do arrependimento sincero do agente, nomeadam
 
 d) Ter decorrido muito tempo sobre a prática do crime, mantendo o agente boa conduta.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Termos de atenuação especial)
 
@@ -1165,7 +1881,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 2 - A atenuação especial da pena não exclui a aplicação do regime de prova ou dos princípios que regulam a pena de multa, nem a possibilidade de suspensão da execução da pena.
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 (Dispensa de pena)
 
@@ -1175,7 +1891,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 ### CAPÍTULO II — Reincidência
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 (Pressupostos)
 
@@ -1187,7 +1903,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 4 - A prescrição, a amnistia e o indulto da pena equiparam-se, para efeito deste artigo, ao seu cumprimento.
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 (Efeitos)
 
@@ -1197,7 +1913,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 ### CAPÍTULO III — Punição do concurso de crimes e do crime continuado
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Regras da punição)
 
@@ -1211,7 +1927,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 5 - O crime continuado é punível com a pena correspondente à conduta mais grave que integra a continuação.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 (Conhecimento superveniente do concurso)
 
@@ -1221,7 +1937,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 ### CAPÍTULO IV — Desconto da prisão e da multa anteriores à condenação
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Prisão preventiva)
 
@@ -1229,7 +1945,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 2 - Se for aplicada pena de multa, a prisão preventiva será descontada à razão de 1 dia de multa por 1 dia de prisão, salvo se a multa for de quantia determinada, caso em que se fará o desconto que parecer equitativo.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 (Pena anterior)
 
@@ -1237,7 +1953,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 2 - Se, porém, for de multa a pena anterior e de prisão a posterior, ou inversamente, far-se-á na nova pena o desconto que parecer equitativo.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Pena sofrida em país estrangeiro)
 
@@ -1247,7 +1963,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 ### CAPÍTULO I — Delinquentes por tendência
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Pressupostos e efeitos)
 
@@ -1259,7 +1975,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 4 - São tomados em conta os actos julgados em país estrangeiro, desde que constituam crimes a que devesse concretamente aplicar-se prisão por mais de 2 anos segundo o direito português.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 (Outros casos de aplicação da pena)
 
@@ -1267,7 +1983,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 2 - A pena relativamente indeterminada tem um mínimo correspondente a dois terços da pena de prisão que concretamente caberia ao crime cometido e um máximo correspondente a esta pena, acrescida de 4 anos.
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Restrições)
 
@@ -1279,7 +1995,7 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 ### CAPÍTULO II — Alcoólicos e equiparados
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 (Pressupostos e efeitos)
 
@@ -1289,13 +2005,13 @@ e) A pena de multa será reduzida na medida que for razoável.
 
 3 - A pena relativamente indeterminada tem o mínimo correspondente a metade da pena de prisão que concretamente caberia ao crime cometido e um máximo correspondente a esta pena, acrescida de 2 anos na primeira condenação e de 4 anos nas restantes.
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 (Regras da execução da pena)
 
 A execução da pena prevista no artigo anterior deverá ser orientada no sentido de eliminar o alcoolismo do agente ou combater a sua tendência para abusar de bebidas alcoólicas.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 (Abuso de estupefacientes)
 
@@ -1303,7 +2019,7 @@ O que fica disposto para os alcoólicos é aplicável, com as devidas adaptaçõ
 
 ### CAPÍTULO III — Disposições comuns
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Liberdade condicional)
 
@@ -1317,7 +2033,7 @@ O que fica disposto para os alcoólicos é aplicável, com as devidas adaptaçõ
 
 5 - A revogação da liberdade condicional determina a continuação do cumprimento da pena relativamente indeterminada, não podendo ser proposta nova liberdade condicional antes de decorridos 2 anos, sem prejuízo do disposto na parte final do número anterior.
 
-###### ARTIGO 90.º
+ARTIGO 90.º
 
 (Plano de readaptação)
 
@@ -1331,7 +2047,7 @@ O que fica disposto para os alcoólicos é aplicável, com as devidas adaptaçõ
 
 ### CAPÍTULO I — Internamento de inimputáveis
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Pressupostos e limites)
 
@@ -1339,7 +2055,7 @@ O que fica disposto para os alcoólicos é aplicável, com as devidas adaptaçõ
 
 2 - Quando o facto praticado pelo inimputável consista em homicídio ou ofensas corporais graves, ou em outros actos de violência puníveis com pena superior a 3 anos, e existam razões para recear a prática de outros factos da mesma natureza e gravidade, o internamento terá a duração mínima de 3 anos.
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 (Cessação do internamento)
 
@@ -1347,7 +2063,7 @@ O que fica disposto para os alcoólicos é aplicável, com as devidas adaptaçõ
 
 2 - O primeiro internamento de um inimputável não pode, porém exceder em mais de 4 anos o limite máximo da pena correspondente ao tipo de crime praticado pelo inimputável, excepto se o perigo de novos crimes contra pessoas for de tal modo grave que desaconselhe o risco da sua libertação.
 
-###### ARTIGO 93.º
+ARTIGO 93.º
 
 (Revisão da situação do internado)
 
@@ -1357,7 +2073,7 @@ O que fica disposto para os alcoólicos é aplicável, com as devidas adaptaçõ
 
 3 - Fica ressalvado, em qualquer caso, o prazo mínimo de internamento fixado no n.º 2 do artigo 91.º
 
-###### ARTIGO 94.º
+ARTIGO 94.º
 
 (Libertação a título de ensaio)
 
@@ -1371,7 +2087,7 @@ O que fica disposto para os alcoólicos é aplicável, com as devidas adaptaçõ
 
 5 - Se durante o período de ensaio, e em face da conduta do libertado, se verificar que não é adequado o regime de liberdade, deverá o tribunal ordenar o internamento do delinquente ou aplicar outra medida, nos termos da última parte do número anterior.
 
-###### ARTIGO 95.º
+ARTIGO 95.º
 
 (Liberdade experimental)
 
@@ -1379,7 +2095,7 @@ O que fica disposto para os alcoólicos é aplicável, com as devidas adaptaçõ
 
 2 - É aplicável à liberdade experimental prevista no número anterior o disposto nos n.os 2, 3, 4 e 5 do artigo anterior.
 
-###### ARTIGO 96.º
+ARTIGO 96.º
 
 (Expulsão de estrangeiros)
 
@@ -1387,7 +2103,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 ### CAPÍTULO II — Interdição de profissões
 
-###### ARTIGO 97.º
+ARTIGO 97.º
 
 (Pressupostos e períodos de interdição)
 
@@ -1395,7 +2111,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 2 - O período da interdição conta-se a partir do trânsito em julgado da respectiva decisão, mas suspende-se durante o cumprimento, pelo agente, de qualquer sanção criminal privativa de liberdade.
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 (Efeitos)
 
@@ -1405,7 +2121,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 ### CAPÍTULO III — Suspensão e reexame das medidas de segurança
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 (Suspensão do internamento)
 
@@ -1413,7 +2129,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 2 - É aplicável a este caso o disposto nos n.os 2, 3 e 4 do artigo 94.º
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 (Suspensão da interdição da profissão)
 
@@ -1423,7 +2139,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 3 - Se a suspensão da execução da pena ou o regime de prova forem revogados, caducará a suspensão da interdição.
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 (Reexame das medidas de segurança)
 
@@ -1433,7 +2149,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 ### CAPÍTULO IV — Do internamento de imputáveis portadores de anomalia psíquica
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 (Internamento de imputáveis em estabelecimento destinados a inimputáveis)
 
@@ -1441,7 +2157,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 2 - O internamento previsto no número anterior não prejudica a possibilidade de liberdade condicional, nem impede o reinternamento do delinquente em estabelecimentos comuns pelo tempo de privação de liberdade que lhe falte cumprir, logo que cesse a causa determinante do internamento em estabelecimento especial.
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 (Anomalia psíquica posterior à prática do crime)
 
@@ -1449,7 +2165,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 2 - Findo o internamento, será levado em conta na duração da pena o tempo que ele tiver durado, mas, independentemente da duração do internamento, o tribunal pode conceder logo a liberdade condicional ao delinquente.
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 (Anomalia psíquica posterior sem perigosidade)
 
@@ -1459,7 +2175,7 @@ Em relação a estrangeiros, o internamento de inimputáveis pode ser substituí
 
 3 - Cessando a causa da suspensão, pode o tribunal, em vez de ordenar a execução da pena que esteja por cumprir, conceder logo a liberdade condicional ou decretar a suspensão da execução da pena.
 
-###### ARTIGO 106.º
+ARTIGO 106.º
 
 (Simulação da anomalia psíquica)
 
@@ -1467,7 +2183,7 @@ As alterações ao regime normal da execução da pena, fundadas no que dispõem
 
 ## TÍTULO VII — Da perda de coisas ou direitos relacionados com o crime
 
-###### ARTIGO 107.º
+ARTIGO 107.º
 
 (Perda)
 
@@ -1477,7 +2193,7 @@ As alterações ao regime normal da execução da pena, fundadas no que dispõem
 
 3 - Se a lei não fixar destino especial aos objectos perdidos nos termos dos números anteriores, pode o juiz ordenar que sejam total ou parcialmente destruídos ou postos fora do comércio.
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 (Objectos de terceiro)
 
@@ -1485,7 +2201,7 @@ As alterações ao regime normal da execução da pena, fundadas no que dispõem
 
 2 - Não há lugar à indemnização quando os titulares dos objectos tenham concorrido censuravelmente para a sua utilização ou produção, ou quando de modo igualmente reprovável os tenham adquirido, ou do crime hajam tirado vantagens.
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 (Perda de coisas ou direitos relacionados com o crime)
 
@@ -1497,7 +2213,7 @@ As alterações ao regime normal da execução da pena, fundadas no que dispõem
 
 4 - No caso de alguém responder criminalmente por actuação em nome de outrem nos termos do artigo 12.º e a recompensa do crime e as vantagens dele provenientes aproveitarem à pessoa em nome de quem o facto foi praticado, aplicar-se-á a esta o disposto nos números anteriores para os agentes do crime.
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 (Pagamento diferido ou em prestações)
 
@@ -1505,7 +2221,7 @@ As alterações ao regime normal da execução da pena, fundadas no que dispõem
 
 ## TÍTULO VIII — Da queixa e da acusação particular
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 (Titulares do direito de queixa)
 
@@ -1517,7 +2233,7 @@ As alterações ao regime normal da execução da pena, fundadas no que dispõem
 
 4 - Qualquer das pessoas referidas nos n.os 2 e 3 deste artigo pode apresentar queixa independentemente do acordo das restantes.
 
-###### ARTIGO 112.º
+ARTIGO 112.º
 
 (Extinção do direito de queixa)
 
@@ -1525,13 +2241,13 @@ As alterações ao regime normal da execução da pena, fundadas no que dispõem
 
 2 - Sendo vários os titulares do direito de queixa, o prazo conta-se autonomamente para cada um deles.
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 (Extensão dos efeitos da queixa)
 
 A apresentação da queixa contra um dos comparticipantes no crime torna o procedimento criminal extensivo aos restantes.
 
-###### ARTIGO 114.º
+ARTIGO 114.º
 
 (Renúncia e desistência da queixa)
 
@@ -1543,13 +2259,13 @@ A apresentação da queixa contra um dos comparticipantes no crime torna o proce
 
 4 - Quando o direito de queixa tiver sido exercido por várias pessoas, tanto a renúncia como a desistência exigem o acordo de todas elas.
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 (Participação da autoridade pública)
 
 Salvo disposição da lei em contrário, se o procedimento criminal depender de participação de autoridade pública, a participação por ela apresentada não pode ser objecto de renúncia nem retirada.
 
-###### ARTIGO 116.º
+ARTIGO 116.º
 
 (Acusação particular)
 
@@ -1559,7 +2275,7 @@ O disposto nos artigos anteriores é aplicável, com as necessárias adaptaçõe
 
 ### CAPÍTULO I — Prescrição do procedimento criminal
 
-###### ARTIGO 117.º
+ARTIGO 117.º
 
 (Prazos de prescrição)
 
@@ -1577,7 +2293,7 @@ d) 2 anos, nos casos restantes.
 
 3 - Quando a lei estabelecer para qualquer crime, em alternativa ou conjuntamente, pena de prisão ou de multa, só a primeira é considerada para efeitos deste artigo.
 
-###### ARTIGO 118.º
+ARTIGO 118.º
 
 (Início do prazo)
 
@@ -1595,7 +2311,7 @@ c) Nos crimes não consumados, desde o dia do último acto de execução.
 
 4 - Quando a produção de certo resultado não faz parte do tipo de crime, o prazo de prescrição só corre a partir do dia em que o resultado se verifique.
 
-###### ARTIGO 119.º
+ARTIGO 119.º
 
 (Suspensão da prescrição)
 
@@ -1611,7 +2327,7 @@ c) O delinquente cumpra no estrangeiro uma pena ou uma medida de segurança priv
 
 3 - A prescrição volta a correr a partir do dia em que cessa a causa da suspensão.
 
-###### ARTIGO 120.º
+ARTIGO 120.º
 
 (Interrupção da prescrição)
 
@@ -1631,7 +2347,7 @@ d) Com a marcação do dia para o julgamento no processo de ausentes.
 
 ### CAPÍTULO II — Prescrição das penas
 
-###### ARTIGO 121.º
+ARTIGO 121.º
 
 (Prazos de prescrição)
 
@@ -1649,13 +2365,13 @@ d) 4 anos, nos casos restantes.
 
 3 - O prazo de prescrição começa a correr no dia em que transitar em julgado a decisão que aplicou a pena.
 
-###### ARTIGO 122.º
+ARTIGO 122.º
 
 (Efeitos da prescrição da pena principal)
 
 A prescrição da pena principal envolve a prescrição da pena acessória que ainda não tiver sido executada, bem como dos efeitos da pena que ainda se não tenham verificado.
 
-###### ARTIGO 123.º
+ARTIGO 123.º
 
 (Suspensão da rescrição)
 
@@ -1669,7 +2385,7 @@ c) Perdure a dilação do pagamento da multa.
 
 2 - A prescrição volta a correr a partir do dia em que cessa a causa da suspensão.
 
-###### ARTIGO 124.º
+ARTIGO 124.º
 
 (Interrupção da prescrição)
 
@@ -1685,13 +2401,13 @@ b) Com a prática, pela autoridade competente, dos actos destinados a fazê-la e
 
 ### CAPÍTULO III — Outras causas de extinção
 
-###### ARTIGO 125.º
+ARTIGO 125.º
 
 (Morte do agente)
 
 A morte do agente extingue tanto o procedimento criminal como a pena ou medida de segurança.
 
-###### ARTIGO 126.º
+ARTIGO 126.º
 
 (Amnistia)
 
@@ -1703,7 +2419,7 @@ A morte do agente extingue tanto o procedimento criminal como a pena ou medida d
 
 4 - Salvo disposição em contrário, a amnistia não aproveita aos reincidentes nem aos condenados em pena indeterminada.
 
-###### ARTIGO 127.º
+ARTIGO 127.º
 
 (Indulto)
 
@@ -1715,13 +2431,15 @@ A morte do agente extingue tanto o procedimento criminal como a pena ou medida d
 
 ## TÍTULO X — Da indemnização de perdas e danos por crime
 
-### CAPÍTULO ÚNICO — ARTIGO 128.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 128.º
 
 (Responsabilidade civil emergente de crime)
 
 A indemnização de perdas e danos emergentes de um crime é regulada pela lei civil.
 
-###### ARTIGO 129.º
+ARTIGO 129.º
 
 (Indemnização dos lesados)
 
@@ -1735,27 +2453,29 @@ A indemnização de perdas e danos emergentes de um crime é regulada pela lei c
 
 ## TÍTULO XI — Disposições suplementares
 
-### CAPÍTULO ÚNICO — ARTIGO 130.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 130.º
 
 (Inscrição no regime criminal)
 
 A inscrição no registo criminal das penas e medidas de segurança, bem como a reabilitação, para além do disposto no artigo 70.º, serão reguladas por legislação especial.
 
-# LIVRO II
+LIVRO II
 
-# Parte especial
+Parte especial
 
 ## TÍTULO I — Dos crimes contra as pessoas
 
 ### CAPÍTULO I — Dos crimes contra a vida
 
-###### ARTIGO 131.º
+ARTIGO 131.º
 
 (Homicídio)
 
 Quem matar outrem será punido com prisão de 8 a 16 anos.
 
-###### ARTIGO 132.º
+ARTIGO 132.º
 
 (Homicídio qualificado)
 
@@ -1777,19 +2497,19 @@ f) Utilizar veneno, qualquer outro meio insidioso ou quando o meio empregado se 
 
 g) Agir com premeditação, entendendo-se por esta a frieza de ânimo, a reflexão sobre os meios empregados ou o protelamento da intenção de matar por mais de 24 horas.
 
-###### ARTIGO 133.º
+ARTIGO 133.º
 
 (Homicídio privilegiado)
 
 Será punido com pena de prisão de 1 a 5 anos quem for levado a matar outrem dominado por compreensível emoção violenta ou por compaixão, desespero ou outro motivo, de relevante valor social ou moral, que diminua sensivelmente a sua culpa.
 
-###### ARTIGO 134.º
+ARTIGO 134.º
 
 (Homicídio a pedido da vítima)
 
 Quem matar outra pessoa imputável e maior determinado pelo pedido instante, consciente, livre e expresso que ela lhe fez será punido com pena de prisão de 6 meses a 3 anos.
 
-###### ARTIGO 135.º
+ARTIGO 135.º
 
 (Incitamento ou ajuda ao suicídio)
 
@@ -1797,7 +2517,7 @@ Quem matar outra pessoa imputável e maior determinado pelo pedido instante, con
 
 2 - Se a pessoa incitada ou a quem se presta ajuda for menor de 16 anos, inimputável, ou tiver sensivelmente diminuída, por qualquer motivo, a resistência moral, a pena será a de prisão de 2 a 8 anos, podendo, no entanto, ser especialmente atenuada.
 
-###### ARTIGO 136.º
+ARTIGO 136.º
 
 (Homicídio por negligência)
 
@@ -1805,13 +2525,13 @@ Quem matar outra pessoa imputável e maior determinado pelo pedido instante, con
 
 2 - Quando se tratar de negligência grosseira poderá a pena elevar-se até 3 anos de prisão.
 
-###### ARTIGO 137.º
+ARTIGO 137.º
 
 (Infanticídio privilegiado)
 
 A mãe que matar o filho durante ou logo após o parto, estando ainda sob a sua influência perturbadora ou para ocultar a desonra será punida com prisão de 1 a 5 anos.
 
-###### ARTIGO 138.º
+ARTIGO 138.º
 
 (Exposição ou abandono)
 
@@ -1829,13 +2549,13 @@ b) Abandonar outra pessoa, confiada à sua guarda ou que tem o dever de educar, 
 
 ### CAPÍTULO II — Dos crimes contra a vida intra-uterina
 
-###### ARTIGO 139.º
+ARTIGO 139.º
 
 (Aborto)
 
 Quem, por qualquer meio e sem consentimento da mulher grávida, a fizer abortar será punido com prisão de 2 a 8 anos.
 
-###### ARTIGO 140.º
+ARTIGO 140.º
 
 (Aborto consentido)
 
@@ -1845,7 +2565,7 @@ Quem, por qualquer meio e sem consentimento da mulher grávida, a fizer abortar 
 
 3 - Se o aborto previsto nos números anteriores tiver o objectivo de ocultar a desonra da mulher, será punido com prisão até 2 anos.
 
-###### ARTIGO 141.º
+ARTIGO 141.º
 
 (Aborto agravado)
 
@@ -1857,7 +2577,7 @@ Quem, por qualquer meio e sem consentimento da mulher grávida, a fizer abortar 
 
 ### CAPÍTULO III — Dos crimes contra a integridade física
 
-###### ARTIGO 142.º
+ARTIGO 142.º
 
 (Ofensas corporais simples)
 
@@ -1865,7 +2585,7 @@ Quem, por qualquer meio e sem consentimento da mulher grávida, a fizer abortar 
 
 2 - O procedimento criminal só terá lugar mediante queixa.
 
-###### ARTIGO 143.º
+ARTIGO 143.º
 
 (Ofensas corporais graves)
 
@@ -1879,7 +2599,7 @@ c) Provocar-lhe doença que ponha em perigo a vida, doença particularmente dolo
 
 será punido com prisão de 1 a 5 anos.
 
-###### ARTIGO 144.º
+ARTIGO 144.º
 
 (Ofensas corporais com dolo de perigo)
 
@@ -1887,7 +2607,7 @@ será punido com prisão de 1 a 5 anos.
 
 2 - A mesma pena será aplicável a quem cometa uma ofensa contra o corpo ou contra a saúde de outrem, utilizando meios particularmente perigosos ou insidiosos, juntamente com três ou mais pessoas, ou quando o meio empregado se traduzir na prática de um crime de perigo comum.
 
-###### ARTIGO 145.º
+ARTIGO 145.º
 
 (Agravação pelo resultado)
 
@@ -1895,7 +2615,7 @@ será punido com prisão de 1 a 5 anos.
 
 2 - Se o agente, querendo tão-só produzir as ofensas previstas no artigo 142.º ou criar a situação prevista no artigo 144.º, vier a causar as ofensas prevista no artigo 143.º, será punido com prisão de 6 meses a 3 anos ou de 1 a 4 anos, consoante se verifique o caso do artigo 142.º ou do artigo 144.º
 
-###### ARTIGO 146.º
+ARTIGO 146.º
 
 (Envenenamento)
 
@@ -1905,7 +2625,7 @@ será punido com prisão de 1 a 5 anos.
 
 3 - Se o agente, querendo apenas criar a situação prevista no n.º 1, vier a causar a morte do ofendido, será punido com prisão de 6 a 12 anos.
 
-###### ARTIGO 147.º
+ARTIGO 147.º
 
 (Ofensas corporais privilegiadas)
 
@@ -1919,7 +2639,7 @@ c) Com prisão até 2 anos, no caso do artigo 145.º, n.º 1.
 
 2 - A pena de prisão pode também ser reduzida até 6 meses e multa até 50 dias ou o agente ser mesmo isento da pena quando, no caso do artigo 142.º, houver lesões recíprocas, não se provando qual dos contendores agrediu primeiro.
 
-###### ARTIGO 148.º
+ARTIGO 148.º
 
 (Ofensas corporais por negligência)
 
@@ -1935,7 +2655,7 @@ b) Da agressão não resultar doença ou incapacidade para o trabalho por mais 3
 
 4 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 149.º
+ARTIGO 149.º
 
 (Consentimento)
 
@@ -1943,7 +2663,7 @@ b) Da agressão não resultar doença ou incapacidade para o trabalho por mais 3
 
 2 - Para decidir sobre se a ofensa no corpo ou na saúde contraria os bons costumes tomar-se-ão em conta, nomeadamente, os motivos e os fins do agente ou do ofendido, bem como os meios empregados e a amplitude previsível da ofensa.
 
-###### ARTIGO 150.º
+ARTIGO 150.º
 
 (Intervenções e tratamento médico-cirúrgicos)
 
@@ -1953,7 +2673,7 @@ b) Da agressão não resultar doença ou incapacidade para o trabalho por mais 3
 
 3 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 151.º
+ARTIGO 151.º
 
 (Participação em rixa)
 
@@ -1961,7 +2681,7 @@ b) Da agressão não resultar doença ou incapacidade para o trabalho por mais 3
 
 2 - O disposto neste artigo não é aplicável quando a participação em rixa se limitou a reagir contra um ataque, a defender outrem, a separar os contendores ou foi determinada por qualquer outro motivo não censurável.
 
-###### ARTIGO 152.º
+ARTIGO 152.º
 
 (Tiro de arma de fogo, uso de arma de arremesso e ameaças)
 
@@ -1975,7 +2695,7 @@ e) A ameaça feita por 3 ou mais indivíduos em disposição de causar mal imedi
 
 2 - Dependerá de queixa do ofendido o procedimento criminal por simples ameaça com qualquer arma ou meio de agressão que não seja arma de fogo, arma proibida ou outro meio gravemente perigoso. Se a ameaça for de uma ofensa corporal cujo procedimento criminal dependa de queixa do ofendido, o procedimento judicial por aquela ameaça dependerá igualmente desta queixa.
 
-###### ARTIGO 153.º
+ARTIGO 153.º
 
 (Maus tratos ou sobrecarga de menores e de subordinados ou entre cônjuges)
 
@@ -1989,7 +2709,7 @@ b) O empregar em actividades perigosas, proibidas ou desumanas, ou sobrecarregar
 
 3 - Da mesma forma será ainda punido quem infligir ao seu cônjuge o tratamento descrito na alínea a) do n.º 1 deste artigo.
 
-###### ARTIGO 154.º
+ARTIGO 154.º
 
 (Agravação pelo resultado)
 
@@ -1997,7 +2717,7 @@ Se, no caso do artigo anterior, do facto resultar uma ofensa corporal grave ou a
 
 ### CAPÍTULO IV — Dos crimes contra a liberdade das pessoas
 
-###### ARTIGO 155.º
+ARTIGO 155.º
 
 (Ameaças)
 
@@ -2007,7 +2727,7 @@ Se, no caso do artigo anterior, do facto resultar uma ofensa corporal grave ou a
 
 3 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 156.º
+ARTIGO 156.º
 
 (Coacção)
 
@@ -2019,7 +2739,7 @@ Se, no caso do artigo anterior, do facto resultar uma ofensa corporal grave ou a
 
 4 - A punição por este crime não consome aquela que couber aos meios empregados para o executar.
 
-###### ARTIGO 157.º
+ARTIGO 157.º
 
 (Coacção grave)
 
@@ -2035,7 +2755,7 @@ a pena será a de prisão de 6 meses a 3 anos.
 
 2 - No caso da alínea b) do número anterior, se a coacção visar obter dinheiro, serviços ou qualquer outra coisa que não seja devida, a prisão poderá elevar-se a 5 anos.
 
-###### ARTIGO 158.º
+ARTIGO 158.º
 
 (Intervenção e tratamento médico-cirúrgicos arbitrários)
 
@@ -2055,13 +2775,13 @@ e não se verificarem circunstâncias que permitam concluir com segurança que o
 
 5 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 159.º
+ARTIGO 159.º
 
 (Requisitos do consentimento)
 
 Para efeitos do artigo anterior, o consentimento só será eficaz quando o paciente tiver sido devidamente esclarecido sobre a índole, alcance, envergadura e possíveis consequências da intervenção ou do tratamento, salvo se isso implicar o esclarecimento de circunstâncias que, a serem conhecidas pelo paciente, seriam susceptíveis de lhe provocar perturbações comprometedoras da finalidade visada.
 
-###### ARTIGO 160.º
+ARTIGO 160.º
 
 (Sequestro)
 
@@ -2087,7 +2807,7 @@ g) For praticada por 2 ou mais pessoas.
 
 4 - A prisão poderá, porém, elevar-se a 15 anos quando da privação da liberdade resultar a morte da vítima.
 
-###### ARTIGO 161.º
+ARTIGO 161.º
 
 (Escravidão)
 
@@ -2095,7 +2815,7 @@ g) For praticada por 2 ou mais pessoas.
 
 2 - Na mesma pena incorre quem alienar, ceder ou adquirir pessoa humana ou dela se apossar com intenção de a manter na situação prevista no número anterior.
 
-###### ARTIGO 162.º
+ARTIGO 162.º
 
 (Rapto)
 
@@ -2105,7 +2825,7 @@ g) For praticada por 2 ou mais pessoas.
 
 3 - A pena será agravada até ao máximo de 15 anos de prisão se das circunstâncias previstas no número anterior resultar a morte da vítima.
 
-###### ARTIGO 163.º
+ARTIGO 163.º
 
 (Rapto de menor)
 
@@ -2117,7 +2837,7 @@ g) For praticada por 2 ou mais pessoas.
 
 ### CAPÍTULO V — Dos crimes contra a honra
 
-###### ARTIGO 164.º
+ARTIGO 164.º
 
 (Difamação)
 
@@ -2133,7 +2853,7 @@ b) Prove a verdade da mesma imputação ou tenha fundamento sério para, em boa 
 
 4 - Quando a imputação for de facto que constitua crime, será também admissível a prova, mas limitada à resultante de condenação por sentença transitada em julgado.
 
-###### ARTIGO 165.º
+ARTIGO 165.º
 
 (injúrias)
 
@@ -2141,13 +2861,13 @@ b) Prove a verdade da mesma imputação ou tenha fundamento sério para, em boa 
 
 2 - Tratando-se de imputação de factos, serão aplicáveis à injúria as regras dos n.os 2, 3 e 4 do artigo anterior.
 
-###### ARTIGO 166.º
+ARTIGO 166.º
 
 (Equiparação à difamação ou injúria)
 
 À difamação ou injúria verbais serão equiparadas as feitas por escrito, gestos, imagens ou qualquer outro meio de expressão.
 
-###### ARTIGO 167.º
+ARTIGO 167.º
 
 (Publicidade e calúnia)
 
@@ -2159,7 +2879,7 @@ b) Se, quando for admissível a prova dos factos, se averiguar que o agente conh
 
 2 - Se o crime for cometido através dos meios de comunicação social, a prisão poderá elevar-se a 2 anos e a multa até 240 dias.
 
-###### ARTIGO 168.º
+ARTIGO 168.º
 
 (Agravação)
 
@@ -2167,7 +2887,7 @@ b) Se, quando for admissível a prova dos factos, se averiguar que o agente conh
 
 2 - As mesmas penas serão elevadas de um terço nos seus limites mínimo e máximo, sendo a vítima funcionário, membro das forças armadas ou das forças militarizadas, e verificando-se as circunstâncias referidas no número anterior.
 
-###### ARTIGO 169.º
+ARTIGO 169.º
 
 (Ofensa à memória de pessoa falecida)
 
@@ -2177,19 +2897,19 @@ b) Se, quando for admissível a prova dos factos, se averiguar que o agente conh
 
 3 - Têm legitimidade para exercer o direito de queixa por este crime os ascendentes, descendentes e o cônjuge não separado judicialmente.
 
-###### ARTIGO 170.º
+ARTIGO 170.º
 
 (Equivocidade das imputações)
 
 Quando a imputação de um facto ou a formulação de um juízo, a que se referem os artigos anteriores, for feita de forma imprecisa ou equívoca, poderá, quem se julgue por eles ofendido ou quem o represente na titularidade do direito de queixa, pedir ao seu autor esclarecimentos em juízo. Se o interpelado se recusar a dá-los ou, segundo o critério do juiz não os der satisfatoriamente, responderá pela injúria ou difamação, conforme os casos.
 
-###### ARTIGO 171.º
+ARTIGO 171.º
 
 (Explicações)
 
 Será isento de pena quem, antes da sentença, der em juízo explicações satisfatórias da difamação ou injúria de que for acusado, se o ofendido, quem o represente ou integre a sua vontade como titular do direito de queixa, as aceitar como suficientes.
 
-###### ARTIGO 172.º
+ARTIGO 172.º
 
 (Retorsão)
 
@@ -2197,19 +2917,19 @@ Será isento de pena quem, antes da sentença, der em juízo explicações satis
 
 2 - Se o ofendido ripostar imediatamente com uma injúria ou difamação a outra injúria ou difamação simples, o juiz poderá isentar de pena ambos os delinquentes ou um só deles, conforme as circunstâncias.
 
-###### ARTIGO 173.º
+ARTIGO 173.º
 
 (Injúrias através de ofensas corporais)
 
 Quem cometer contra outrem uma ofensa corporal que, pela sua natureza, meio empregado ou outras circunstâncias, revela intenção de injuriar, será punido com a pena de injúria, salvo se à ofensa corporal corresponder concretamente pena mais grave, que, neste caso, se acumulará com aquela.
 
-###### ARTIGO 174.º
+ARTIGO 174.º
 
 (Queixa e acusação)
 
 O procedimento criminal pelos crimes previstos neste capítulo depende de acusação, salvo os casos do artigo 168.º, em que é suficiente a queixa.
 
-###### ARTIGO 175.º
+ARTIGO 175.º
 
 (Publicação da sentença)
 
@@ -2225,7 +2945,7 @@ O procedimento criminal pelos crimes previstos neste capítulo depende de acusa�
 
 ### CAPÍTULO VI — Dos crimes contra a reserva da vida privada
 
-###### ARTIGO 176.º
+ARTIGO 176.º
 
 (Introdução em casa alheia)
 
@@ -2233,7 +2953,7 @@ O procedimento criminal pelos crimes previstos neste capítulo depende de acusa�
 
 2 - Se o crime for cometido de noite ou em lugar ermo, ou com emprego de violências, com uso de armas ou mediante arrombamento, escalamento, chaves falsas ou por 2 ou mais pessoas, ou simulando autoridade pública, a pena será a de prisão de 1 a 4 anos, salvo se ao meio empregado corresponder pena mais grave, que será, então, aplicada cumulativamente com a dos n.os 1 ou 2, conforme o caso.
 
-###### ARTIGO 177.º
+ARTIGO 177.º
 
 (Introdução em lugar vedado ao público)
 
@@ -2241,7 +2961,7 @@ O procedimento criminal pelos crimes previstos neste capítulo depende de acusa�
 
 2 - O procedimento criminal depende de queixa, salvo nos casos em que se verifiquem as circunstâncias do n.º 2 do artigo anterior e sempre que os bens atingidos pertençam a um serviço ou empresa públicos.
 
-###### ARTIGO 178.º
+ARTIGO 178.º
 
 (Divulgação de factos referentes à intimidade da vida privada)
 
@@ -2251,7 +2971,7 @@ O procedimento criminal pelos crimes previstos neste capítulo depende de acusa�
 
 3 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 179.º
+ARTIGO 179.º
 
 (Gravações e fotografias ilícitas)
 
@@ -2269,7 +2989,7 @@ será punido com prisão até 1 ano e multa até 60 dias.
 
 2 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 180.º
+ARTIGO 180.º
 
 (Intromissão na vida privada)
 
@@ -2285,7 +3005,7 @@ será punido com prisão até 1 ano e multa até 60 dias.
 
 2 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 181.º
+ARTIGO 181.º
 
 (Devassa por meio de informática)
 
@@ -2301,7 +3021,7 @@ d) Desviar da finalidade legalmente consentida informações de carácter pessoa
 
 2 - É punido com prisão até 2 anos quem processar ou mandar processar dados de carácter pessoal referentes a convicções políticas, religiosas, filosóficas, bem como outras atinentes à privacidade, em infracção à lei.
 
-###### ARTIGO 182.º
+ARTIGO 182.º
 
 (Violação do segredo de correspondência e telecomunicação)
 
@@ -2313,19 +3033,19 @@ d) Desviar da finalidade legalmente consentida informações de carácter pessoa
 
 4 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 183.º
+ARTIGO 183.º
 
 (Agravação)
 
 As penas serão elevadas ao dobro nos seus limites mínimo e máximo quando qualquer dos crimes previsto nos artigos 178.º a 182.º for praticado para obter uma recompensa ou um enriquecimento para si ou para terceiro, ou para causar um prejuízo a outrem.
 
-###### ARTIGO 184.º
+ARTIGO 184.º
 
 (Violação do segredo profissional)
 
 Quem, sem justa causa e sem consentimento de quem de direito, revelar ou se aproveitar de um segredo de que tenha conhecimento em razão do seu estado, ofício, emprego, profissão ou arte, se essa revelação ou aproveitamente puder causar prejuízo ao Estado ou a terceiros, será punido com prisão até 1 ano e multa até 120 dias.
 
-###### ARTIGO 185.º
+ARTIGO 185.º
 
 (Exclusão de ilicitude)
 
@@ -2335,19 +3055,19 @@ O facto previsto no artigo anterior não será punível se for revelado no cumpr
 
 ### CAPÍTULO I — Dos crimes contra a paz
 
-###### ARTIGO 186.º
+ARTIGO 186.º
 
 (Incitamento à guerra)
 
 Quem, pública e repetidamente, incitar ao ódio contra um povo, com a intenção de desencadear uma guerra, será punido com prisão de 6 meses a 3 anos.
 
-###### ARTIGO 187.º
+ARTIGO 187.º
 
 (Aliciamento de forças armadas)
 
 Quem intentar o recrutamento de elementos das forças armadas portuguesas para uma guerra contra o Estado ou território estrangeiro, pondo desse modo em perigo a convivência pacífica entre os povos, será punido com prisão de 2 a 6 anos.
 
-###### ARTIGO 188.º
+ARTIGO 188.º
 
 (Recrutamento de mercenários)
 
@@ -2361,7 +3081,7 @@ será punido com prisão de 2 a 6 anos.
 
 ### CAPÍTULO II — Dos crimes contra a humanidade
 
-###### ARTIGO 189.º
+ARTIGO 189.º
 
 (Genocídio e discriminação racial)
 
@@ -2389,7 +3109,7 @@ a) Fundar ou constituir organizações ou desenvolver actividades de propaganda 
 
 b) Participe nas organizações ou nas actividades referidas na alínea anterior ou preste assistência a quaisquer actividades racistas, incluindo o seu financiamento.
 
-###### ARTIGO 190.º
+ARTIGO 190.º
 
 (Crimes de guerra contra civis, feridos, doentes e prisioneiros de guerra)
 
@@ -2415,7 +3135,7 @@ será punido com prisão de 10 a 20 anos.
 
 2 - A pena será agravada de um quarto nos seus limites mínimo e máximo quando os actos referidos no número anterior forem praticados sobre membros da Cruz Vermelha ou de outras instituições humanitárias.
 
-###### ARTIGO 191.º
+ARTIGO 191.º
 
 (Subtracção às garantias do Estado de direito português)
 
@@ -2423,7 +3143,7 @@ será punido com prisão de 10 a 20 anos.
 
 2 - Na mesma pena incorre quem, pelos mesmos meios, impedir outrem de abandonar aquela situação de perigo ou o forçar a permanecer nela.
 
-###### ARTIGO 192.º
+ARTIGO 192.º
 
 (Destruição de monumentos culturais e históricos)
 
@@ -2435,7 +3155,7 @@ Quem, violando as normas de princípios de direito internacional geral ou comum,
 
 #### SECÇÃO I — Dos crimes contra a família
 
-###### ARTIGO 193.º
+ARTIGO 193.º
 
 (Bigamia)
 
@@ -2443,19 +3163,19 @@ Quem, violando as normas de princípios de direito internacional geral ou comum,
 
 2 - Quem contrair casamento com pessoa ligada a outrem, por casamento com valor ou eficácia civil, será punido com prisão até 1 ano e multa até 100 dias.
 
-###### ARTIGO 194.º
+ARTIGO 194.º
 
 (Simulação de competência para celebrar o casamento)
 
 Quem, atribuindo-se falsamente competência para tal, permitir que peranta si se celebre casamento será punido com prisão até 2 anos e multa até 100 dias.
 
-###### ARTIGO 195.º
+ARTIGO 195.º
 
 (Falsificação ou supressão de estado civil)
 
 Quem fizer figurar no registo civil um nascimento inexistente ou quem, de maneira a pôr em perigo a verificação oficial do verdadeiro estado civil ou a posição jurídica familiar, usurpar, alterar, supuser ou encobrir o seu estado civil ou a posição jurídica familiar de outra pessoa, será punido com prisão até 2 anos ou multa até 100 dias.
 
-###### ARTIGO 196.º
+ARTIGO 196.º
 
 (Subtracção de menores)
 
@@ -2463,7 +3183,7 @@ Quem fizer figurar no registo civil um nascimento inexistente ou quem, de maneir
 
 2 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 197.º
+ARTIGO 197.º
 
 (Omissão de assistência material à família)
 
@@ -2473,7 +3193,7 @@ Quem fizer figurar no registo civil um nascimento inexistente ou quem, de maneir
 
 3 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 198.º
+ARTIGO 198.º
 
 (Omissão de assistência material fora do casamento)
 
@@ -2483,7 +3203,7 @@ Quem fizer figurar no registo civil um nascimento inexistente ou quem, de maneir
 
 3 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 199.º
+ARTIGO 199.º
 
 (Abandono de cônjuge ou de filhos em perigo moral)
 
@@ -2491,7 +3211,7 @@ Quem fizer figurar no registo civil um nascimento inexistente ou quem, de maneir
 
 2 - O procedimento criminal depende de queixa quando o ofendido for o cônjuge.
 
-###### ARTIGO 200.º
+ARTIGO 200.º
 
 (Não execução da pena)
 
@@ -2499,7 +3219,7 @@ A pena aplicada nos casos dos artigos 197.º a 199.º deixará de executar-se se
 
 #### SECÇÃO II — Dos crimes sexuais
 
-###### ARTIGO 201.º
+ARTIGO 201.º
 
 (Violação)
 
@@ -2509,7 +3229,7 @@ A pena aplicada nos casos dos artigos 197.º a 199.º deixará de executar-se se
 
 3 - No caso do n.º 1 deste artigo, se a vítima, através do seu comportamento ou da sua especial ligação com o agente, tiver contribuído de forma sensível para o facto, será a pena especialmente atenuada.
 
-###### ARTIGO 202.º
+ARTIGO 202.º
 
 (Violação de mulher inconsciente)
 
@@ -2517,19 +3237,19 @@ A pena aplicada nos casos dos artigos 197.º a 199.º deixará de executar-se se
 
 2 - Na mesma pena incorre quem, nas circunstâncias descritas no número anterior, constranger a mulher à cópula ou favorecer esta com terceiro.
 
-###### ARTIGO 203.º
+ARTIGO 203.º
 
 (Cópula mediante fraude)
 
 Quem tiver cópula com mulher, fazendo-lhe supor a existência de casamento, ou provocando ou aproveitando um erro de forma que a vítima considere a cópula conjugal, será punido com prisão de 6 meses a 3 anos.
 
-###### ARTIGO 204.º
+ARTIGO 204.º
 
 (Estupro)
 
 Quem tiver cópula com maior de 14 anos e menor de 16 anos, abusando da sua inexperiência ou mediante promessa séria de casamento, será punido com prisão até 2 anos.
 
-###### ARTIGO 205.º
+ARTIGO 205.º
 
 (Atentado ao pudor com violência)
 
@@ -2539,7 +3259,7 @@ Quem tiver cópula com maior de 14 anos e menor de 16 anos, abusando da sua inex
 
 3 - Entende-se por atentado ao pudor o comportamento pelo qual outrem é levado a sofrer, presenciar ou praticar um acto que viola, em grau elevado, os sentimentos gerais de moralidade sexual.
 
-###### ARTIGO 206.º
+ARTIGO 206.º
 
 (Atentado ao pudor com pessoa inconsciente)
 
@@ -2547,13 +3267,13 @@ Quem tiver cópula com maior de 14 anos e menor de 16 anos, abusando da sua inex
 
 2 - Quem, independentemente das circunstâncias previstas no n.º 1 do artigo 205.º e no número anterior, praticar atentado ao pudor contra menor de 16 anos será punido com prisão até 1 ano.
 
-###### ARTIGO 207.º
+ARTIGO 207.º
 
 (Homossexualidade com menores)
 
 Quem, sendo maior, desencaminhar menor de 16 anos do mesmo sexo para a prática de acto contrário ao pudor, consigo ou com outrem do mesmo sexo, será punido com prisão até 3 anos.
 
-###### ARTIGO 208.º
+ARTIGO 208.º
 
 (Agravação)
 
@@ -2569,19 +3289,19 @@ c) Estiver numa relação de dependência hierárquica, económica ou de trabalh
 
 3 - As penas previstas nos artigos 201.º, 202.º, 205.º e 206.º serão agravadas de metade nos seus limites mínimo e máximo se dos actos aí descritos resultar gravidez, ofensa corporal grave, suicídio ou morte da vítima.
 
-###### ARTIGO 209.º
+ARTIGO 209.º
 
 (Cópula ou atentado ao pudor relativamente a pessoas detidas ou equiparadas)
 
 Quem, exercendo funções ou trabalhando, a qualquer título que seja, em prisão ou em outro estabelecimento onde se executem reacções criminais, hospitais, hospícios, asilos, clínicas de convalescença ou de saúde, ou outros estabelecimentos destinados a pessoas carecidas de assistência ou tratamento, escolas, colégios ou casas de educação ou correcção e aproveitando-se da sua situação, realizar cópula ou atentado ao pudor contra quem aí se encontra internado, será punido com prisão de 6 meses a 3 anos, se por força de outros preceitos lhe não couber pena mais grave.
 
-###### ARTIGO 210.º
+ARTIGO 210.º
 
 (Erro sobre idade)
 
 Quando o tipo legal de crime supuser uma certa idade da vítima e o agente, censuravelmente, a ignorar, a pena respectiva reduzir-se-á de metade no seu limite máximo.
 
-###### ARTIGO 211.º
+ARTIGO 211.º
 
 (Necessidade de queixa)
 
@@ -2589,13 +3309,13 @@ Quando o tipo legal de crime supuser uma certa idade da vítima e o agente, cens
 
 2 - O disposto no número anterior não se aplica quando a vítima for menor de 12 anos, o facto for cometido por meio de outro crime que não dependa de acusação ou queixa, quando o agente seja qualquer das pessoas que nos termos do mesmo número anterior tenha legitimidade para requerer procedimento criminal ou ainda quando do crime resulte ofensa corporal grave, suicídio ou morte da vítima.
 
-###### ARTIGO 212.º
+ARTIGO 212.º
 
 (Exibicionismo e ultraje público ao pudor)
 
 Quem, publicamente e em circunstâncias de provocar escândalo, praticar acto que ofenda gravemente o sentimento geral de pudor ou de moralidade sexual, será punido com prisão até 1 ano e multa até 100 dias.
 
-###### ARTIGO 213.º
+ARTIGO 213.º
 
 (Ultraje ao pudor de outrem)
 
@@ -2603,7 +3323,7 @@ Quem, publicamente e em circunstâncias de provocar escândalo, praticar acto qu
 
 2 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 214.º
+ARTIGO 214.º
 
 (Inseminação artificial)
 
@@ -2611,7 +3331,7 @@ Quem, publicamente e em circunstâncias de provocar escândalo, praticar acto qu
 
 2 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 215.º
+ARTIGO 215.º
 
 (Lenocínio)
 
@@ -2625,7 +3345,7 @@ será punido com prisão até 2 anos e multa até 100 dias.
 
 2 - Na mesma pena incorre quem explorar o ganho imoral de prostituta, vivendo, total ou parcialmente, a expensas suas.
 
-###### ARTIGO 216.º
+ARTIGO 216.º
 
 (Lenocínio agravado)
 
@@ -2639,7 +3359,7 @@ c) A de prisão de 2 a 8 anos e multa até 200 dias se usar fraude, violência o
 
 d) A de prisão de 2 a 8 anos e multa até 200 dias se a vítima for cônjuge, ascendente, descendente, filho adoptivo, enteado ou tutelado do agente, ou lhe foi entregue em vista da sua educação, direcção, assistência, guarda ou cuidado.
 
-###### ARTIGO 217.º
+ARTIGO 217.º
 
 (Tráfico de pessoas)
 
@@ -2649,7 +3369,7 @@ d) A de prisão de 2 a 8 anos e multa até 200 dias se a vítima for cônjuge, a
 
 3 - Se a vítima for cônjuge, ascendente, descendente, filho adoptivo, enteado ou tutelado do agente, ou lhe foi entregue em vista da sua educação, direcção, assistência, guarda ou cuidado, será a pena agravada de metade, nos seus limites mínimo e máximo.
 
-###### ARTIGO 218.º
+ARTIGO 218.º
 
 (Suspensão do poder paternal)
 
@@ -2657,7 +3377,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 #### SECÇÃO III — Da violação do dever de solidariedade social
 
-###### ARTIGO 219.º
+ARTIGO 219.º
 
 (Omissão de auxílio)
 
@@ -2669,7 +3389,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 #### SECÇÃO IV — Dos crimes contra os sentimentos religiosos e o respeito devido aos mortos
 
-###### ARTIGO 220.º
+ARTIGO 220.º
 
 (Ultraje por motivo de crença ou função religiosa)
 
@@ -2679,7 +3399,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 3 - A tentativa é punível.
 
-###### ARTIGO 221.º
+ARTIGO 221.º
 
 (Coacção religiosa)
 
@@ -2689,7 +3409,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 3 - A tentativa é punível.
 
-###### ARTIGO 222.º
+ARTIGO 222.º
 
 (Impedimento ou perturbação de culto)
 
@@ -2697,7 +3417,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 2 - A tentativa é punível.
 
-###### ARTIGO 223.º
+ARTIGO 223.º
 
 (Ultraje a culto religioso)
 
@@ -2705,7 +3425,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 2 - A tentativa é punível.
 
-###### ARTIGO 224.º
+ARTIGO 224.º
 
 (Injúria ou ofensa contra ministro de qualquer religião)
 
@@ -2713,7 +3433,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 2 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 225.º
+ARTIGO 225.º
 
 (Impedimento ou perturbação de cerimónia fúnebre)
 
@@ -2721,7 +3441,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 2 - A tentativa é punível.
 
-###### ARTIGO 226.º
+ARTIGO 226.º
 
 (Destruição, subtracção, ocultação ou profanação de cadáver)
 
@@ -2731,7 +3451,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 3 - A tentativa é punível.
 
-###### ARTIGO 227.º
+ARTIGO 227.º
 
 (Profanação de lugares fúnebres)
 
@@ -2741,7 +3461,7 @@ Quem for condenado pelos crimes previstos nos artigos 215.º a 217.º poderá se
 
 ### CAPÍTULO II — Da falsificação de documentos, moeda, pesos e medidas
 
-###### ARTIGO 228.º
+ARTIGO 228.º
 
 (Falsificação de documentos)
 
@@ -2765,7 +3485,7 @@ será punido com prisão até 2 anos e multa até 60 dias.
 
 5 - A tentativa é punível.
 
-###### ARTIGO 229.º
+ARTIGO 229.º
 
 (Conceito de documentos)
 
@@ -2775,7 +3495,7 @@ será punido com prisão até 2 anos e multa até 60 dias.
 
 3 - A documento é igualmente equiparável o sinal materialmente feito, dado ou posto numa coisa para provar um facto juridicamente relevante e que permite reconhecer à generalidade das pessoas ou a um certo círculo de pessoas o seu destino e a prova que dele resulta.
 
-###### ARTIGO 230.º
+ARTIGO 230.º
 
 (Fabrico ou falsificação de notação técnica)
 
@@ -2797,7 +3517,7 @@ será punido com prisão até 2 anos e multa até 90 dias.
 
 4 - Entende-se por notação técnica a notação de um valor, de um peso ou medida, de um estado ou do decurso de um acontecimento feito através de aparelho técnico que actua, total ou parcialmente, de forma automática, que permite reconhecer à generalidade das pessoas ou a um certo círculo de pessoas os seus resultados e que se destina à prova de um facto juridicamente relevante e isto quer tal destino lhe seja dado no momento da sua realização, quer posteriormente.
 
-###### ARTIGO 231.º
+ARTIGO 231.º
 
 (Destruição, danificação ou subtracção de documentos e notações técnicas)
 
@@ -2805,13 +3525,13 @@ será punido com prisão até 2 anos e multa até 90 dias.
 
 2 - Quando sejam particulares os ofendidos, o procedimento criminal depende de queixa.
 
-###### ARTIGO 232.º
+ARTIGO 232.º
 
 (Agravação pela qualidade de funcionário ou agente)
 
 Se o crime previsto no artigo anterior for cometido por funcionário a quem os objectos nele referidos foram confiados ou são acessíveis em razão das suas funções, a pena será a de prisão de 6 meses a 4 anos.
 
-###### ARTIGO 233.º
+ARTIGO 233.º
 
 (Falsificação praticada por funcionário)
 
@@ -2821,7 +3541,7 @@ Se o crime previsto no artigo anterior for cometido por funcionário a quem os o
 
 3 - Na pena de prisão até 3 anos incorre quem fizer uso de documento ou objecto equiparável, referido nos números anteriores, com intenção de causar prejuízo a outrem ou ao Estado.
 
-###### ARTIGO 234.º
+ARTIGO 234.º
 
 (Atestados falsos)
 
@@ -2833,7 +3553,7 @@ Se o crime previsto no artigo anterior for cometido por funcionário a quem os o
 
 4 - Quem fizer uso dos referidos certificados ou atestados falsos, com o fim de enganar uma autoridade pública ou causar prejuízo a interesses de terceiro, será punido com prisão até 6 meses ou multa até 30 dias.
 
-###### ARTIGO 235.º
+ARTIGO 235.º
 
 (Uso de documento de identificação alheio)
 
@@ -2843,19 +3563,19 @@ Se o crime previsto no artigo anterior for cometido por funcionário a quem os o
 
 3 - Integram o conceito de documento de identificação o bilhete de identidade, passaporte, cédula ou outros certificados ou atestados a que a lei atribuiu igual força de identificação das pessoas, ou do seu estado ou situação profissional, donde possam resultar quaisquer direitos ou vantagens, designadamente no que toca a subsistência, aboletamento, deslocação ou meios de ganhar a vida ou de melhorar o seu nível.
 
-###### ARTIGO 236.º
+ARTIGO 236.º
 
 (Contrafacção de moeda)
 
 Quem praticar contrafacção de moeda, com intenção de a pôr em circulação como legítima, será punido com prisão de 2 a 15 anos.
 
-###### ARTIGO 237.º
+ARTIGO 237.º
 
 (Falsificação ou alteração do valor facial da moeda legítima)
 
 Quem, com intenção de a pôr em circulação, falsificar ou alterar o valor facial de moeda legítima para valor superior ao que tem será punido com prisão de 1 a 8 anos.
 
-###### ARTIGO 238.º
+ARTIGO 238.º
 
 (Depreciação de valor de moeda legítima)
 
@@ -2865,13 +3585,13 @@ Quem, com intenção de a pôr em circulação, falsificar ou alterar o valor fa
 
 3 - A tentativa é punível.
 
-###### ARTIGO 239.º
+ARTIGO 239.º
 
 (Conceito de moeda)
 
 Entende-se por moeda o papel-moeda, compreendendo as notas de banco e a moeda metálica que tenham curso legal em Portugal ou em qualquer país estrangeiro.
 
-###### ARTIGO 240.º
+ARTIGO 240.º
 
 (Passagem de moeda falsa de concerto com o falsificador)
 
@@ -2879,7 +3599,7 @@ Entende-se por moeda o papel-moeda, compreendendo as notas de banco e a moeda me
 
 2 - A tentativa é punível.
 
-###### ARTIGO 241.º
+ARTIGO 241.º
 
 (Passagem de moeda falsa)
 
@@ -2891,13 +3611,13 @@ b) Moeda metálica depreciada, pelo seu pleno valor, ou moeda com o mesmo ou mai
 
 será punido, no caso da alínea a), com prisão de 1 até 5 anos e, no caso da alínea b), com prisão até 3 anos e multa até 90 dias.
 
-###### ARTIGO 242.º
+ARTIGO 242.º
 
 (Atenuação)
 
 Se, no caso do artigo anterior, o agente só teve conhecimento de que a moeda é falsa ou falsificada, está depreciada ou foi fabricada sem autorização legal, depois de a ter recebido, a pena será a de multa de 15 a 60 dias, mas nunca inferior ao dobro do valor representado pela moeda que passou ou pôs em circulação.
 
-###### ARTIGO 243.º
+ARTIGO 243.º
 
 (Aquisição de moeda falsa para ser posta em circulação)
 
@@ -2911,7 +3631,7 @@ será punido, no caso da alínea a), com prisão até 3 anos e, no caso da alín
 
 2 - A tentativa é punível.
 
-###### ARTIGO 244.º
+ARTIGO 244.º
 
 (Títulos de crédito)
 
@@ -2921,7 +3641,7 @@ será punido, no caso da alínea a), com prisão até 3 anos e, no caso da alín
 
 3 - O disposto no n.º 1 não abrange a falsificação de títulos relativamente a elementos a cuja garantia e identificação especialmente se não destina o uso do papel ou impressão.
 
-###### ARTIGO 245.º
+ARTIGO 245.º
 
 (Falsificação de valores selados)
 
@@ -2935,13 +3655,13 @@ b) Com aquela intenção importar, adquirir, receber em depósito, para si ou pa
 
 3 - Se a falsificação consistir tão-somente em fazer desaparecer dos referidos valores selados ou timbrados o sinal de já haverem servido, a pena será a de prisão até 3 meses ou multa até 30 dias.
 
-###### ARTIGO 246.º
+ARTIGO 246.º
 
 (Atenuação)
 
 Se, no caso do n.º 2 do artigo anterior, o agente só teve conhecimento de que os valores selados ou timbrados são falsos ou falsificados depois de os ter recebido, a pena será a de multa de 15 a 60 dias, mas nunca inferior ao dobro do valor representado pelos valores selados ou timbrados que passou ou pôs em circulação.
 
-###### ARTIGO 247.º
+ARTIGO 247.º
 
 (Contrafacção ou falsificação de selos, cunhos, marcas ou chancelas)
 
@@ -2951,7 +3671,7 @@ Se, no caso do n.º 2 do artigo anterior, o agente só teve conhecimento de que 
 
 3 - Quem, com a intenção de causar prejuízo a outrem ou ao Estado, utilizar, sem autorização de quem de direito, selos, cunhos, marcas ou chancelas de qualquer autoridade ou repartição pública, será punido com prisão até 2 anos e multa até 50 dias.
 
-###### ARTIGO 248.º
+ARTIGO 248.º
 
 (Dos pesos e medidas falsos)
 
@@ -2967,13 +3687,13 @@ será punido com pena de prisão até 2 anos ou multa até 120 dias.
 
 2 - A tentativa é punível.
 
-###### ARTIGO 249.º
+ARTIGO 249.º
 
 (Atenuação)
 
 Se, no caso do artigo anterior, o agente tiver causado tão-só um insignificante prejuízo e tiver utilizado uma falsificação grosseira, manifestamente apreensível como tal, será punido com pena de prisão até 6 meses ou multa até 60 dias.
 
-###### ARTIGO 250.º
+ARTIGO 250.º
 
 (Actos preparatórios)
 
@@ -2985,7 +3705,7 @@ b) Papel que é igual ou susceptível de se confundir com aquele tipo que é par
 
 será punido com prisão até 3 anos.
 
-###### ARTIGO 251.º
+ARTIGO 251.º
 
 (Desistência)
 
@@ -2995,7 +3715,7 @@ a) Abandonar a preparação dos crimes neles referidos, afastar o perigo, por el
 
 b) Destruir ou inutilizar os meios ou objectos referidos no artigo anterior, ou der à autoridade pública conhecimento deles ou a ela os entregar.
 
-###### ARTIGO 252.º
+ARTIGO 252.º
 
 (Apreensão e perda)
 
@@ -3005,7 +3725,7 @@ Serão apreendidas e postas fora do uso ou destruídas as moedas contrafeitas, f
 
 #### SECÇÃO I — Dos incêndios, explosões, radiações e outros crimes de perigo comum
 
-###### ARTIGO 253.º
+ARTIGO 253.º
 
 (Incêndio)
 
@@ -3015,7 +3735,7 @@ Serão apreendidas e postas fora do uso ou destruídas as moedas contrafeitas, f
 
 3 - Se o incêndio for causado por negligência, a pena será a de prisão até 1 ano e multa até 120 dias.
 
-###### ARTIGO 254.º
+ARTIGO 254.º
 
 (Perigo de incêndio)
 
@@ -3023,7 +3743,7 @@ Serão apreendidas e postas fora do uso ou destruídas as moedas contrafeitas, f
 
 2 - Se as coisas referidas no número anterior forem propriedade do agente, este só será punido se, a um tempo, a vida ou a integridade física, ou bens patrimoniais de grande valor de outra pessoa, forem por dolo ou grave negligência postos em perigo.
 
-###### ARTIGO 255.º
+ARTIGO 255.º
 
 (Explosão)
 
@@ -3037,7 +3757,7 @@ Serão apreendidas e postas fora do uso ou destruídas as moedas contrafeitas, f
 
 5 - A mera libertação de energia nuclear, criando as situações de perigo previstas nos números anteriores, será punível nos termos do n.º 2.
 
-###### ARTIGO 256.º
+ARTIGO 256.º
 
 (Exposição de pessoas e substâncias radioactivas)
 
@@ -3045,13 +3765,13 @@ Serão apreendidas e postas fora do uso ou destruídas as moedas contrafeitas, f
 
 2 - Se a acção referida no número anterior se dirigir contra pessoas indeterminadas, a pena não será inferior a 2 anos e a multa poderá elevar-se até 150 dias.
 
-###### ARTIGO 257.º
+ARTIGO 257.º
 
 (Exposição de coisa alheia a substâncias radioactivas)
 
 Quem, com intenção de prejudicar a possibilidade de utilização de coisa alheia de importante valor, a expuser a radiações, consistentes nos efeitos de substâncias radioactivas para tal idóneas, será punido com prisão até 2 anos e multa até 50 dias.
 
-###### ARTIGO 258.º
+ARTIGO 258.º
 
 (Libertação de gases tóxicos ou asfixiantes)
 
@@ -3061,19 +3781,19 @@ Quem, com intenção de prejudicar a possibilidade de utilização de coisa alhe
 
 3 - Se a acção referida no n.º 1 deste artigo for imputável a título de negligência, a pena será a de prisão até 2 anos e multa até 100 dias.
 
-###### ARTIGO 259.º
+ARTIGO 259.º
 
 (Actos preparatórios)
 
 Quem, para preparar a execução de um dos crimes previstos no n.º 2 do artigo 255.º e nos artigos 256.º e 258.º, fabricar, dissimular, adquirir para si ou para outrem, entregar, detiver ou importar substância explosiva ou capaz de produzir explosões nucleares, radioactivas ou próprias para a fabricação de gases tóxicos ou asfixiantes, bem como a aparelhagem necessária para a execução de tais crimes, será punido com prisão de 6 meses a 3 ano e multa até 100 dias.
 
-###### ARTIGO 260.º
+ARTIGO 260.º
 
 (Armas, engenhos, matérias explosivas e análogas)
 
 A importação, fabrico, guarda, compra, venda ou cedência por qualquer título, bem como o transporte, detenção, uso e porte de armas proibidas, engenhos ou materiais explosivos ou capazes de produzir explosões nucleares, radioactivos ou próprios para a fabricação de gases tóxicos ou asfixiantes, fora das condições legais ou em contrário das prescrições das autoridades competentes, serão punidos com prisão até 3 anos ou multa de 100 a 200 dias.
 
-###### ARTIGO 261.º
+ARTIGO 261.º
 
 (Inundação e avalancha)
 
@@ -3083,7 +3803,7 @@ A importação, fabrico, guarda, compra, venda ou cedência por qualquer título
 
 3 - Se a acção referida no n.º 1 deste artigo for imputável a título de negligência, a pena será a de prisão até 2 anos e multa até 100 dias.
 
-###### ARTIGO 262.º
+ARTIGO 262.º
 
 (Desmoronamento de construção)
 
@@ -3093,7 +3813,7 @@ A importação, fabrico, guarda, compra, venda ou cedência por qualquer título
 
 3 - Se a acção referida no n.º 1 deste artigo for imputável a título de negligência, a pena será a de prisão até 2 anos e multa até 100 dias.
 
-###### ARTIGO 263.º
+ARTIGO 263.º
 
 (Violação das regras de construção)
 
@@ -3103,7 +3823,7 @@ A importação, fabrico, guarda, compra, venda ou cedência por qualquer título
 
 3 - Se a acção referida no n.º 1 deste artigo for imputável a título de negligência, a pena será a de prisão até 2 anos e multa até 100 dias.
 
-###### ARTIGO 264.º
+ARTIGO 264.º
 
 (Danos em aparelhagem destinada a prevenir acidentes)
 
@@ -3113,7 +3833,7 @@ A importação, fabrico, guarda, compra, venda ou cedência por qualquer título
 
 3 - Se a referida no n.º 1 deste artigo for imputável a título de negligência, a pena será a de prisão até 2 anos e multa até 100 dias.
 
-###### ARTIGO 265.º
+ARTIGO 265.º
 
 (Perturbação do funcionamento dos serviços públicos)
 
@@ -3123,7 +3843,7 @@ A importação, fabrico, guarda, compra, venda ou cedência por qualquer título
 
 3 - Se a acção referida no n.º 1 deste artigo for imputável a título de negligência, a pena será a de prisão até 2 anos e multa até 100 dias.
 
-###### ARTIGO 266.º
+ARTIGO 266.º
 
 (Dano ou destruição de instalações de interesse público)
 
@@ -3139,13 +3859,13 @@ criando um perigo para a vida ou de grave lesão da integridade física de outre
 
 3 - Se a acção referida no n.º 1 deste artigo for imputável a título de negligência, a pena será a de prisão até 2 anos e multa até 100 dias.
 
-###### ARTIGO 267.º
+ARTIGO 267.º
 
 (Agravação)
 
 Quem, através dos crimes descritos nos artigos anteriores, causar, com negligência, a morte ou lesão corporal grave de outrem será punido na moldura penal que ao caso caberia, agravada de metade.
 
-###### ARTIGO 268.º
+ARTIGO 268.º
 
 (Desistência)
 
@@ -3153,7 +3873,7 @@ Quem, antes de os crimes referidos nos artigos anteriores terem provocado dano c
 
 #### SECÇÃO II — Dos crimes contra a saúde
 
-###### ARTIGO 269.º
+ARTIGO 269.º
 
 (Contaminação e envenenamento de água)
 
@@ -3167,7 +3887,7 @@ Quem, antes de os crimes referidos nos artigos anteriores terem provocado dano c
 
 5 - É aplicável aos casos referidos neste artigo o disposto nos artigos 267.º e 268.º
 
-###### ARTIGO 270.º
+ARTIGO 270.º
 
 (Propagação de doença contagiosa)
 
@@ -3177,7 +3897,7 @@ Quem, antes de os crimes referidos nos artigos anteriores terem provocado dano c
 
 3 - Se a conduta descrita no n.º 1 deste artigo for imputável a título de negligência, a pena será a de prisão até 1 ano e multa até 60 dias. Tratando-se, todavia, da infracção, por médico, da obrigação de participar doença contagiosa, a pena será a de prisão de 6 meses a 2 anos.
 
-###### ARTIGO 271.º
+ARTIGO 271.º
 
 (Difusão de epizootias)
 
@@ -3187,7 +3907,7 @@ Quem, antes de os crimes referidos nos artigos anteriores terem provocado dano c
 
 3 - É aplicável aos casos referidos neste artigo o disposto no artigo 267.º
 
-###### ARTIGO 272.º
+ARTIGO 272.º
 
 (Deterioração de alimentos destinados a animais)
 
@@ -3195,7 +3915,7 @@ Quem, antes de os crimes referidos nos artigos anteriores terem provocado dano c
 
 2 - Se o facto descrito no número anterior for imputável por negligência, a pena será a de multa até 50 dias.
 
-###### ARTIGO 273.º
+ARTIGO 273.º
 
 (Corrupção de substâncias alimentares ou para fins medicinais)
 
@@ -3215,7 +3935,7 @@ b) As substâncias com o destino e comportando o perigo referido no número ante
 
 6 - É aplicável aos casos referidos neste artigo o disposto nos artigos 267.º e 268.º
 
-###### ARTIGO 274.º
+ARTIGO 274.º
 
 (Alteração de análises)
 
@@ -3227,7 +3947,7 @@ b) As substâncias com o destino e comportando o perigo referido no número ante
 
 4 - Se a conduta descrita no n.º 1 for levada a cabo por negligência, a pena será a de prisão até 6 meses ou multa até 50 dias.
 
-###### ARTIGO 275.º
+ARTIGO 275.º
 
 (Alteração de receituário)
 
@@ -3241,7 +3961,7 @@ b) As substâncias com o destino e comportando o perigo referido no número ante
 
 5 - É aplicável aos casos referidos neste artigo o disposto nos artigos 267.º e 268.º
 
-###### ARTIGO 276.º
+ARTIGO 276.º
 
 (Recusa de facultativo)
 
@@ -3253,7 +3973,7 @@ b) As substâncias com o destino e comportando o perigo referido no número ante
 
 ### CAPÍTULO IV — Dos crimes contra a segurança das comunicações
 
-###### ARTIGO 277.º
+ARTIGO 277.º
 
 (Perturbação dos serviços de transporte por ar, água e caminho de ferro)
 
@@ -3287,7 +4007,7 @@ b) Desviar uma embarcação ou uma aeronave em voo da sua rota normal, será pun
 
 8 - É aplicável aos casos referidos neste artigo o disposto nos artigos 267.º e 268.º
 
-###### ARTIGO 278.º
+ARTIGO 278.º
 
 (Condução perigosa de meio de transporte)
 
@@ -3299,7 +4019,7 @@ b) Desviar uma embarcação ou uma aeronave em voo da sua rota normal, será pun
 
 4 - É aplicável aos casos referidos neste artigo o disposto nos artigos 267.º e 268.º
 
-###### ARTIGO 279.º
+ARTIGO 279.º
 
 (Perturbação de transportes rodoviários)
 
@@ -3313,7 +4033,7 @@ b) Desviar uma embarcação ou uma aeronave em voo da sua rota normal, será pun
 
 5 - É aplicável aos casos referidos neste artigo o disposto nos artigos 267.º e 268.º
 
-###### ARTIGO 280.º
+ARTIGO 280.º
 
 (Lançamento de projéctil contra veículo)
 
@@ -3321,7 +4041,7 @@ b) Desviar uma embarcação ou uma aeronave em voo da sua rota normal, será pun
 
 2 - É aplicável aos casos referidos neste artigo o disposto no artigo 267.º
 
-###### ARTIGO 281.º
+ARTIGO 281.º
 
 (Crimes praticados contra condutor ou passageiros de veículo)
 
@@ -3333,7 +4053,7 @@ b) Desviar uma embarcação ou uma aeronave em voo da sua rota normal, será pun
 
 #### SECÇÃO I — Dos crimes de anti-socialidade e associalidade perigosa
 
-###### ARTIGO 282.º
+ARTIGO 282.º
 
 (Crime praticado em estado de embriaguez)
 
@@ -3343,13 +4063,13 @@ b) Desviar uma embarcação ou uma aeronave em voo da sua rota normal, será pun
 
 3 - A pena aplicada nunca pode, porém, ser superior à prevista para o facto que foi praticado pelo inimputável e o procedimento criminal depende de queixa se o procedimento pelo crime cometido também o exigir.
 
-###### ARTIGO 283.º
+ARTIGO 283.º
 
 (Fornecimento de bebidas alcoólicas a embriagado ou a ébrio habitual)
 
 Quem fornecer bebidas alcoólicas a outrem que se encontre embriagado ou a um ébrio habitual, que, por via disso, se coloca em estado de completa inimputabilidade, vindo a realizar os pressupostos da punição referidos no artigo anterior, será punido com prisão até 1 ano ou multa até 50 dias.
 
-###### ARTIGO 284.º
+ARTIGO 284.º
 
 (Utilização de menores na exploração da mendicidade)
 
@@ -3357,7 +4077,7 @@ Quem explorar menor de 16 anos, ou inimputável, utilizando-o para mendigar, ser
 
 #### SECÇÃO II — Dos crimes contra a paz pública
 
-###### ARTIGO 285.º
+ARTIGO 285.º
 
 (Instigação pública a um crime)
 
@@ -3365,13 +4085,13 @@ Quem explorar menor de 16 anos, ou inimputável, utilizando-o para mendigar, ser
 
 2 - Se à provocação se seguir o efeito criminoso, será o provocador punido como autor do crime praticado.
 
-###### ARTIGO 286.º
+ARTIGO 286.º
 
 (Apologia pública de um crime)
 
 Quem recompensar ou louvar outrem, em reunião pública, através de meios de comunicação social ou por divulgação de escritos ou outros meios de reprodução técnica, por ter praticado determinado facto criminoso, criando, dessa forma, o perigo de que um crime da mesma espécie seja de novo praticado, será punido com prisão até 6 meses e multa até 50 dias, se ao facto não couber, por outra disposição legal, pena mais grave.
 
-###### ARTIGO 287.º
+ARTIGO 287.º
 
 (Associações criminosas)
 
@@ -3383,7 +4103,7 @@ Quem recompensar ou louvar outrem, em reunião pública, através de meios de co
 
 4 - As penas referidas podem será livremente atenuadas, ou deixar mesmo de ser aplicadas, se o agente impedir a continuação dos grupos, organizações ou associações ou comunicar à autoridade a sua existência a tempo de esta poder evitar a prática de crimes.
 
-###### ARTIGO 288.º
+ARTIGO 288.º
 
 (Organizações terroristas)
 
@@ -3411,7 +4131,7 @@ e) Que impliquem o emprego de bombas, granadas, armas de fogo, substâncias ou e
 
 7 - É aplicável aos casos referidos neste artigo o disposto no n.º 4 do artigo 287.º
 
-###### ARTIGO 289.º
+ARTIGO 289.º
 
 (Terrorismo)
 
@@ -3421,7 +4141,7 @@ e) Que impliquem o emprego de bombas, granadas, armas de fogo, substâncias ou e
 
 3 - Se o agente abandonar voluntariamente a sua actividade, afastar ou fizer diminuir consideravelmente o perigo por ela causado, impedir que o resultado que a lei quer evitar se verifique, auxiliar concretamente na recolha de provas decisivas para a identificação ou a captura dos outros responsáveis, poderá a pena ser livremente atenuada ou decretar-se mesmo a sua isenção.
 
-###### ARTIGO 290.º
+ARTIGO 290.º
 
 (Participação em motim)
 
@@ -3431,7 +4151,7 @@ e) Que impliquem o emprego de bombas, granadas, armas de fogo, substâncias ou e
 
 3 - Se o agente se retirou do motim por ordem ou admoestação da autoridade sem cometer violências, nem as ter provocado, será isento de pena.
 
-###### ARTIGO 291.º
+ARTIGO 291.º
 
 (Participação em motim armado)
 
@@ -3447,7 +4167,7 @@ b) Quando os participantes que tragam armas imediatamente se retiram ou são exp
 
 4 - Quem trouxer arma sem conhecimento dos outros será punido como se efectivamente participasse em motim armado.
 
-###### ARTIGO 292.º
+ARTIGO 292.º
 
 (Desobediência à ordem de dispersão de reunião pública)
 
@@ -3455,13 +4175,13 @@ b) Quando os participantes que tragam armas imediatamente se retiram ou são exp
 
 2 - Se os desobedientes forem os promotores de reunião ou ajuntamento, a pena será de prisão até 3 anos e multa até 100 dias.
 
-###### ARTIGO 293.º
+ARTIGO 293.º
 
 (Ameaça com prática de crime)
 
 Quem, através da ameaça da prática de um crime, causar alarme ou inquietação entre a população será punido com prisão até 2 anos.
 
-###### ARTIGO 294.º
+ARTIGO 294.º
 
 (Abuso e simulação de sinais de perigo)
 
@@ -3469,7 +4189,7 @@ Quem utilizar abusivamente sinais ou chamadas de alarme ou de socorro ou simulad
 
 #### SECÇÃO III — Dos crimes contra sinais de identificação
 
-###### ARTIGO 295.º
+ARTIGO 295.º
 
 (Abuso de designações, sinais ou uniformes)
 
@@ -3481,13 +4201,13 @@ Quem utilizar abusivamente sinais ou chamadas de alarme ou de socorro ou simulad
 
 ### CAPÍTULO I — Dos crimes contra a propriedade
 
-###### ARTIGO 296.º
+ARTIGO 296.º
 
 (Furto)
 
 Quem, com ilegítima intenção de apropriação para si ou para outrem subtrair coisa móvel alheia, será punido com prisão até 3 anos.
 
-###### ARTIGO 297.º
+ARTIGO 297.º
 
 (Furto qualificado)
 
@@ -3527,7 +4247,7 @@ h) Com o concurso de 2 ou mais pessoas.
 
 3 - Se a coisa for de insignificante valor, não haverá lugar à qualificação.
 
-###### ARTIGO 298.º
+ARTIGO 298.º
 
 (Arrombamento, escalamento e chaves falsas)
 
@@ -3543,13 +4263,13 @@ b) As verdadeiras, quando, fortuita ou sub-repticiamente, estejam fora do poder 
 
 c) As gazuas ou quaisquer instrumentos que possam servir para abrir fechaduras ou outros dispositivos de segurança.
 
-###### ARTIGO 299.º
+ARTIGO 299.º
 
 (Furto de coisa pertencente ao sector público ou cooperativo)
 
 Se a coisa subtraída pertencer ao sector público ou cooperativo, os limites mínimo e máximo das penas previstas no artigo anterior serão agravadas até um terço.
 
-###### ARTIGO 300.º
+ARTIGO 300.º
 
 (Abuso de confiança)
 
@@ -3563,7 +4283,7 @@ b) Quando o agente recebeu a coisa em depósito imposto pela lei em razão de of
 
 3 - O disposto no artigo 299.º aplica-se ao abuso de confiança.
 
-###### ARTIGO 301.º
+ARTIGO 301.º
 
 (Restituição)
 
@@ -3573,7 +4293,7 @@ b) Quando o agente recebeu a coisa em depósito imposto pela lei em razão de of
 
 3 - A restituição ou a reparação parcial tomar-se-ão em conta na respectiva proporção.
 
-###### ARTIGO 302.º
+ARTIGO 302.º
 
 (Furto por necessidade e formigueiro)
 
@@ -3583,7 +4303,7 @@ b) Quando o agente recebeu a coisa em depósito imposto pela lei em razão de of
 
 3 - Em todos os casos deste artigo, o procedimento criminal depende de queixa.
 
-###### ARTIGO 303.º
+ARTIGO 303.º
 
 (Furto familiar)
 
@@ -3603,7 +4323,7 @@ b) Estiver pendente acção de declaração de nulidade ou de anulação do casa
 
 6 - No caso de o ofendido ser menor, o direito de queixa pertencerá a quem legalmente o represente, salvo se este for o agente da infracção, caso em que tal direito caberá a qualquer familiar.
 
-###### ARTIGO 304.º
+ARTIGO 304.º
 
 (Furto de uso de veículo)
 
@@ -3613,7 +4333,7 @@ b) Estiver pendente acção de declaração de nulidade ou de anulação do casa
 
 3 - Quando o agente viva em comunhão de habitação com o ofendido, o facto referido no n.º 1 não será punível.
 
-###### ARTIGO 305.º
+ARTIGO 305.º
 
 (Apropriação ilícita em caso de acessão ou de coisa achada)
 
@@ -3625,7 +4345,7 @@ b) Estiver pendente acção de declaração de nulidade ou de anulação do casa
 
 4 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 306.º
+ARTIGO 306.º
 
 (Roubo)
 
@@ -3647,13 +4367,13 @@ b) A pessoa sobre quem recair a ameaça ou a violência for posta em perigo de v
 
 5 - A pena elevar-se-á nos seus limites mínimo e máximo de metade, quando se verifiquem, singular ou cumulativamente, quaisquer das circunstâncias que qualifiquem o furto.
 
-###### ARTIGO 307.º
+ARTIGO 307.º
 
 (Violência depois de apropriação)
 
 As penas previstas no artigo anterior serão, conforme os casos, aplicadas àqueles que utilizarem os meios previstos no mesmo artigo anterior para, quando encontrados em flagrante delito de furto, conservarem ou não restituírem as coisas subraídas ou para se eximirem, a si ou a algum dos seus comparticipantes, à acção da justiça.
 
-###### ARTIGO 308.º
+ARTIGO 308.º
 
 (Dano)
 
@@ -3661,7 +4381,7 @@ As penas previstas no artigo anterior serão, conforme os casos, aplicadas àque
 
 2 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 309.º
+ARTIGO 309.º
 
 (Agravação)
 
@@ -3685,7 +4405,7 @@ d) Com particular importância para o desenvolvimento económico, quando funcion
 
 será punido com prisão de 2 a 6 anos ou multa até 200 dias.
 
-###### ARTIGO 310.º
+ARTIGO 310.º
 
 (Agravação e atenuação)
 
@@ -3695,7 +4415,7 @@ será punido com prisão de 2 a 6 anos ou multa até 200 dias.
 
 3 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 311.º
+ARTIGO 311.º
 
 (Usurpação de coisa imóvel)
 
@@ -3705,7 +4425,7 @@ será punido com prisão de 2 a 6 anos ou multa até 200 dias.
 
 3 - O procedimento criminal depende de queixa.
 
-###### ARTIGO 312.º
+ARTIGO 312.º
 
 (Alteração de marcos)
 
@@ -3719,7 +4439,7 @@ será punido com prisão de 2 a 6 anos ou multa até 200 dias.
 
 ### CAPÍTULO II — Dos crimes contra o património em geral
 
-###### ARTIGO 313.º
+ARTIGO 313.º
 
 (Burla)
 
@@ -3727,7 +4447,7 @@ será punido com prisão de 2 a 6 anos ou multa até 200 dias.
 
 2 - É aplicável a este crime o disposto nos artigos 301.º e 303.º
 
-###### ARTIGO 314.º
+ARTIGO 314.º
 
 (Burla agravada)
 
@@ -3739,7 +4459,7 @@ b) A pessoa prejudicada ficar em difícil situação económica;
 
 c) O valor do prejuízo for consideravelmente elevado e não for reparado pelo agente, sem dano ilegítimo de terceiro, até será instaurado o procedimento criminal.
 
-###### ARTIGO 315.º
+ARTIGO 315.º
 
 (Burla relativa a seguros)
 
@@ -3755,7 +4475,7 @@ será punido com prisão até 3 anos.
 
 3 - É aplicável a este crime o disposto no artigo 301.º
 
-###### ARTIGO 316.º
+ARTIGO 316.º
 
 (Burla para obtenção de bebidas, alimentos, alojamento ou acesso a recintos e meios de transporte)
 
@@ -3771,7 +4491,7 @@ e efectivamente se negar a solver a dívida contraída, será punido com prisão
 
 2 - É aplicável o disposto no artigo 302.º
 
-###### ARTIGO 317.º
+ARTIGO 317.º
 
 (Extorsão)
 
@@ -3791,13 +4511,13 @@ c) Até 3 anos nos restantes casos.
 
 5 - Se os factos previstos no n.º 1 forem cometidos por 2 ou mais pessoas que actuem como grupo organizado, a moldura penal elevar-se-á de metade.
 
-###### ARTIGO 318.º
+ARTIGO 318.º
 
 (Extorsão de documento)
 
 Quem obtiver, como garantia de dívida e abusando da situação de necessidade de outrem, documento que pode dar causa a procedimento criminal será punido com prisão até 2 anos e multa até 20 dias.
 
-###### ARTIGO 319.º
+ARTIGO 319.º
 
 (Infidelidade)
 
@@ -3807,7 +4527,7 @@ Quem obtiver, como garantia de dívida e abusando da situação de necessidade d
 
 3 - A tentativa é punível.
 
-###### ARTIGO 320.º
+ARTIGO 320.º
 
 (Usura)
 
@@ -3825,7 +4545,7 @@ b) Dissimular as ilegítimas vantagens patrimoniais exigindo letras ou simulando
 
 c) Provocar, conscientemente, através da usura, a ruína patrimonial da vítima.
 
-###### ARTIGO 321.º
+ARTIGO 321.º
 
 (Usura relativa a menores e incapazes)
 
@@ -3833,13 +4553,13 @@ c) Provocar, conscientemente, através da usura, a ruína patrimonial da vítima
 
 2 - É aplicável a este artigo o disposto no n.º 4 do artigo anterior.
 
-###### ARTIGO 322.º
+ARTIGO 322.º
 
 (Usura habitual)
 
 Quem, fora dos casos indicados nos artigos 320.º e 321.º, com a intenção de obter, para si ou para terceiro, vantagem patrimonial, aproveitar a situação de dependência, inexperiência, estado mental, fraqueza de carácter ou ligeira de outrem, para obter a promessa ou concessão, para si ou para terceiro, de uma prestação em manifesta desproporção, no tempo do negócio, com a respectiva contraprestação, será punido com prisão até 1 ano e multa até 30 dias, se o agente fizer modo de vida de tais actividades ou se entregar habitualmente a elas.
 
-###### ARTIGO 323.º
+ARTIGO 323.º
 
 (Isenção de pena)
 
@@ -3853,7 +4573,7 @@ c) Modificar o negócio, de acordo com a outra parte, em harmonia com as regras 
 
 ### CAPÍTULO III — Dos crimes contra direitos patrimoniais
 
-###### ARTIGO 324.º
+ARTIGO 324.º
 
 (Frustração de créditos)
 
@@ -3861,7 +4581,7 @@ c) Modificar o negócio, de acordo com a outra parte, em harmonia com as regras 
 
 2 - O terceiro que praticar o facto com o conhecimento ou a favor do devedor, se este vier a ser declarado insolvente, será punido com prisão até 6 meses e multa até 90 dias.
 
-###### ARTIGO 325.º
+ARTIGO 325.º
 
 (Falência dolosa)
 
@@ -3879,7 +4599,7 @@ será punido, se vier a ser declarado em estado de falência, com prisão até 5
 
 3 - Qualquer terceiro que, com conhecimento do devedor ou em seu benefício, praticar os factos referidos no n.º 1 deste artigo, se o estado de falência vier a ser declarado, será punido com prisão até 2 anos.
 
-###### ARTIGO 326.º
+ARTIGO 326.º
 
 (Falência por negligência)
 
@@ -3891,19 +4611,19 @@ será punido, se vier a ser declarado em estado de falência, com prisão até 5
 
 4 - O direito de queixa não poderá ser exercido pelo credor que tiver induzido o falido a contrair levianamente dívidas, a fazer despesas exageradas, a dedicar-se a especulações ruinosas ou que o tiver explorado usurariamente.
 
-###### ARTIGO 327.º
+ARTIGO 327.º
 
 (Favorecimento de credores)
 
 O devedor que, conhecendo a sua situação de insolvência e com a intenção de favorecer certos credores em prejuízo de outros, solver dívidas ainda não vencidas ou as solver de maneira diferente do pagamento em dinheiro ou valores usuais, ou der garantias para as suas dívidas a que não era obrigado, será punido com prisão até 2 anos ou até 1 ano, conforme venha a ser declarado em estado de falência ou de insolvência.
 
-###### ARTIGO 328.º
+ARTIGO 328.º
 
 (Perturbação de arrematações)
 
 Quem, com a intenção de impedir ou prejudicar os resultados de arrematação judicial ou qualquer outra arrematação pública autorizada ou imposta pela lei, bem como de concurso regido pelo direito público, conseguir por meio de dádivas, promessas, violências ou ameaças graves, que alguém não lance ou não concorra, ou que de alguma forma se prejudique a liberdade dos respectivos actos, será punido com prisão até 2 anos ou multa até 120 dias, sem prejuízo da pena mais grave que às violências ou ameaças couber.
 
-###### ARTIGO 329.º
+ARTIGO 329.º
 
 (Receptação)
 
@@ -3913,7 +4633,7 @@ Quem, com a intenção de impedir ou prejudicar os resultados de arrematação j
 
 3 - Quem, sem previamente se ter assegurado da sua legítima proveniência, adquirir ou receber, a qualquer título, coisa que, pela sua qualidade ou pela condição de quem lhe oferece ou pelo montante do preço proposto, faz razoavelmente suspeitar que ela provém de actividade criminosa, será punido com prisão até 1 ano ou multa até 50 dias.
 
-###### ARTIGO 330.º
+ARTIGO 330.º
 
 (Auxílio material ao criminoso)
 
@@ -3921,7 +4641,7 @@ Quem, com a intenção de impedir ou prejudicar os resultados de arrematação j
 
 2 - São aplicáveis as disposições dos artigos 301.º a 303.º
 
-###### ARTIGO 331.º
+ARTIGO 331.º
 
 (Âmbito do objecto da receptação e do favorecimento ou auxílio material a criminoso)
 
@@ -3929,7 +4649,7 @@ São equiparados às coisas referidas nos artigos 329.º e 330.º os valores ou 
 
 ### CAPÍTULO IV — Dos crimes contra o sector público ou cooperativo agravados pela qualidade do agente
 
-###### ARTIGO 332.º
+ARTIGO 332.º
 
 (Apropriação ilegítima de bens do sector público ou cooperativo)
 
@@ -3937,7 +4657,7 @@ São equiparados às coisas referidas nos artigos 329.º e 330.º os valores ou 
 
 2 - A tentativa é punível.
 
-###### ARTIGO 333.º
+ARTIGO 333.º
 
 (Administração danosa em unidade económica do sector público ou cooperativo)
 
@@ -3957,7 +4677,7 @@ São equiparados às coisas referidas nos artigos 329.º e 330.º os valores ou 
 
 ##### SUBSECÇÃO I — Dos crimes contra a independência e integridade nacionais
 
-###### ARTIGO 334.º
+ARTIGO 334.º
 
 (Traição à Pátria)
 
@@ -3969,7 +4689,7 @@ b) Ofender ou puser em perigo a independência do País;
 
 será punido com prisão de 15 a 20 anos.
 
-###### ARTIGO 335.º
+ARTIGO 335.º
 
 (Serviço militar em forças armadas inimigas)
 
@@ -3979,7 +4699,7 @@ será punido com prisão de 15 a 20 anos.
 
 3 - Não é punível quem, estando no território de Estado inimigo antes da declaração de guerra ou das hostilidades, for forçado pelas leis militares desse Estado inimigo a tomar armas debaixo de bandeira estrangeira contra Portugal.
 
-###### ARTIGO 336.º
+ARTIGO 336.º
 
 (Inteligências com o estrangeiro para provocar a guerra)
 
@@ -3987,7 +4707,7 @@ será punido com prisão de 15 a 20 anos.
 
 2 - Se o agente praticar a acção descrita no número anterior com a intenção de provocar actos de represália ou hostilidades contra interesses essenciais de Portugal nos domínios diplomático, militar, social ou económico, a pena será de prisão de 3 a 10 anos, reduzindo-se para a de 1 a 5 anos se o efeito se não seguiu.
 
-###### ARTIGO 337.º
+ARTIGO 337.º
 
 (Provocação à guerra ou à represália)
 
@@ -3995,7 +4715,7 @@ será punido com prisão de 15 a 20 anos.
 
 2 - Se os actos referidos no número anterior forem apenas idóneos a expor a represálias de potência estrangeira interesses essenciais de Portugal nos domínios diplomático, militar, social ou económico, a pena será a de prisão de 2 a 6 anos, podendo reduzir-se para a de 6 meses a 2 anos se os actos de represália não vierem a ter lugar.
 
-###### ARTIGO 338.º
+ARTIGO 338.º
 
 (Inteligências com o estrangeiro para constranger o Estado Português)
 
@@ -4015,25 +4735,25 @@ será punido com prisão de 2 a 8 anos.
 
 3 - Na pena prevista no número anterior incorre quem, directa ou indirectamente, receber ou aceitar promessa de quaisquer dádivas para facilitar a ilegítima ingerência estrangeira nos negócios portugueses, dirigida a pôr em perigo a independência ou integridade de Portugal.
 
-###### ARTIGO 339.º
+ARTIGO 339.º
 
 (Ajuda a forças armadas inimigas)
 
 Quem, sendo português, estrangeiro ou apátrida residente em Portugal, em tempo de guerra ou de acção armada contra Portugal, com a intenção de favorecer ou ajudar a execução de operações militares do inimigo contra Portugal ou de causar prejuízo à defesa militar portuguesa, tiver com o estrangeiro, directa ou indirectamente, quaisquer entendimentos ou praticar quaisquer actos com vista aos mesmos fins será punido com prisão de 5 a 15 anos, podendo reduzir-se à de 2 a 5 anos se o fim não for atingido ou o auxílio ou prejuízo for pouco significativo.
 
-###### ARTIGO 340.º
+ARTIGO 340.º
 
 (Auxílio a medidas hostis a Portugal)
 
 Quem, sendo português, estrangeiro ou apátrida residente em Portugal, tiver, directa ou indirectamente, quaisquer entendimentos com o estrangeiro ou praticar quaisquer actos destinados a favorecer a execução de medidas hostis ou de represálias de potências estrangeiras contra interesses essenciais de Portugal nos domínios diplomático, militar, social ou económico será punido com prisão de 2 a 10 anos, podendo reduzir-se à de 6 meses a 5 anos se os fins não forem atingidos ou o auxílio for pouco significativo ou importante.
 
-###### ARTIGO 341.º
+ARTIGO 341.º
 
 (Campanha contra o esforço de guerra)
 
 Quem, sendo português, estrangeiro ou apátrida residente em Portugal, fizer ou reproduzir, publicamente, em tempo de guerra, afirmações que sabe serem falsas ou grosseiramente deformadas, com intenção de impedir ou perturbar o esforço de guerra de Portugal ou de auxiliar ou fomentar as operações inimigas, será punido com prisão de 1 a 5 anos.
 
-###### ARTIGO 342.º
+ARTIGO 342.º
 
 (Sabotagem contra a defesa nacional)
 
@@ -4041,7 +4761,7 @@ Quem, sendo português, estrangeiro ou apátrida residente em Portugal, fizer ou
 
 2 - Quem, com a intenção de praticar os actos previstos no número anterior importar, fabricar, guardar, comprar, vender, ceder ou adquirir por qualquer título, distribuir, transportar, detiver ou usar armas proibidas, engenhos ou substâncias explosivas ou capazes de produzir explosões nucleares, radioactivas ou próprias para a fabricação de gases tóxicos ou asfixiantes, será punbido com prisão de 2 a 8 anos.
 
-###### ARTIGO 343.º
+ARTIGO 343.º
 
 (Violação de segredos de Estado)
 
@@ -4053,7 +4773,7 @@ Quem, sendo português, estrangeiro ou apátrida residente em Portugal, fizer ou
 
 4 - A prática por negligência dos factos referidos nos 2 primeiros números será punida com prisão de 6 meses a 3 anos, se o agente tinha acesso aos objectos ou aos segredos de Estado em razão das funções ou serviço que exercia ou de missão que lhe foi conferida por autoridade competente.
 
-###### ARTIGO 344.º
+ARTIGO 344.º
 
 (Espionagem)
 
@@ -4063,7 +4783,7 @@ Quem, sendo português, estrangeiro ou apátrida residente em Portugal, fizer ou
 
 3 - A prisão poderá elevar-se até 15 anos se o agente, com o facto, violar um particular dever, que as suas funções lhe impõem, de guardar os segredos de Estado ou os objectos referidos no número anterior.
 
-###### ARTIGO 345.º
+ARTIGO 345.º
 
 (Falsificação, destruição ou subtracção de meios de prova de interesse nacional)
 
@@ -4071,7 +4791,7 @@ Quem, sendo português, estrangeiro ou apátrida residente em Portugal, fizer ou
 
 2 - Se a acção se traduzir em arrancar, deslocar, colocar falsamente, tomar irreconhecível ou, de qualquer forma, suprimir marcos, balizas ou outros sinais indicativos dos limites do território português, a pena será a de prisão até 3 anos.
 
-###### ARTIGO 346.º
+ARTIGO 346.º
 
 (Infidelidade diplomática)
 
@@ -4079,7 +4799,7 @@ Quem, sendo português, estrangeiro ou apátrida residente em Portugal, fizer ou
 
 2 - A mesma pena será aplicada ao representante oficial do Estado Português que perante Estado estrangeiro ou organização internacional, com a consciência ou a intenção referidas no número anterior, tomar compromissos para que não esteja devidamente autorizado em nome de Portugal.
 
-###### ARTIGO 347.º
+ARTIGO 347.º
 
 (Violação da confiança de representantes de Portugal junto de Estado estrangeiro ou organização internacional)
 
@@ -4087,7 +4807,7 @@ Quem, sendo português, estrangeiro ou apátrida residente em Portugal, fizer ou
 
 2. - O procedimento criminal depende de participação do Governo Português.
 
-###### ARTIGO 348.º
+ARTIGO 348.º
 
 (Correspondência e comércio em tempo de guerra com súbdito ou agente de Estado inimigo)
 
@@ -4099,7 +4819,7 @@ b) Fizer, directa ou indirectamente, comércio com súbdito ou agente de Estado 
 
 será punido com prisão até 5 anos.
 
-###### ARTIGO 349.º
+ARTIGO 349.º
 
 (Usurpação da autoridade pública portuguesa)
 
@@ -4109,7 +4829,7 @@ será punido com prisão até 5 anos.
 
 ##### SUBSECÇÃO II — Dos crimes contra a capacidade militar e defesa nacionais
 
-###### ARTIGO 350.º
+ARTIGO 350.º
 
 (Mutilação para isenção de serviço militar)
 
@@ -4117,13 +4837,13 @@ será punido com prisão até 5 anos.
 
 2 - Na mesma pena incorre quem, intencionalmente, tornar outrem, com o seu consentimento, definitiva ou temporariamente, total ou parcialmente, incapaz para cumprir as obrigações do serviço militar.
 
-###### ARTIGO 351.º
+ARTIGO 351.º
 
 (Emigração para se subtrair ao serviço militar)
 
 Quem, com a intenção de subtrar ao serviço militar, se passar para país estrangeiro será punido com prisão até 1 ano.
 
-###### ARTIGO 352.º
+ARTIGO 352.º
 
 (Desenhos, fotografias e outras actividades contra a defesa nacional)
 
@@ -4131,19 +4851,19 @@ Quem, com a intenção de subtrair ao serviço militar, se nacional, executar, s
 
 ##### SUBSECÇÃO III — Dos crimes contra Estados estrangeiros ou organização internacional
 
-###### ARTIGO 353.º
+ARTIGO 353.º
 
 (Ofensas a representantes de Estado estrangeiro ou de organização internacional)
 
 Quem atentar contra a vida, a integridade física, a liberdade ou a honra de representante de Estado estrangeiro ou de organização internacional, encontrando-se o ofendido em Portugal no desempenho de funções oficiais, será punido com a pena prevista para o respectivo crime, agravada de um terço nos seus limites mínimo e máximo.
 
-###### ARTIGO 354.º
+ARTIGO 354.º
 
 (Ultraje de símbolos estrangeiros)
 
 Quem, publicamente, por palavras, gestos, divulgação de escritos ou outros meios de comunicação com o público, injuriar a bandeira oficial ou outro símbolo de soberania de Estado estrangeiro ou símbolo de organização internacional de que Portugal faça parte será punido com prisão até 18 meses ou multa até 100 dias.
 
-###### ARTIGO 355.º
+ARTIGO 355.º
 
 (Condições de punibilidade)
 
@@ -4157,7 +4877,7 @@ b) Participação do Governo Português para instaurar o procedimento criminal.
 
 #### SECÇÃO II — Dos crimes contra a realização do Estado de direito
 
-###### ARTIGO 356.º
+ARTIGO 356.º
 
 (Alteração violenta do Estado de direito)
 
@@ -4165,7 +4885,7 @@ b) Participação do Governo Português para instaurar o procedimento criminal.
 
 2 - Se o crime descrito no número anterior for cometido por meio de violência armada, a prisão será de 5 a 15 anos.
 
-###### ARTIGO 357.º
+ARTIGO 357.º
 
 (Incitamento à guerra civil)
 
@@ -4173,7 +4893,7 @@ b) Participação do Governo Português para instaurar o procedimento criminal.
 
 2 - Se os factos descritos no número anterior forem acompanhados de distribuição de armas, a prisão será de 5 a 10 anos.
 
-###### ARTIGO 358.º
+ARTIGO 358.º
 
 (Atentado contra o Presidente da República)
 
@@ -4181,13 +4901,13 @@ b) Participação do Governo Português para instaurar o procedimento criminal.
 
 2 - As penas previstas para a consumação dos crimes referidos no número anterior serão agravadas de um terço nos seus limites mínimo e máximo.
 
-###### ARTIGO 359.º
+ARTIGO 359.º
 
 (Sabotagem)
 
 Quem destruir, impossibilitar o funcionamento ou desviar dos seus fins normais, total ou parcialmente, definitiva ou temporariamente, meios ou vias de comunicação, instalações de serviços públicos ou destinadas ao abastecimento e satisfação das necessidades gerais e impreteríveis da população, com a intenção de destruir, alterar ou subverter o Estado de direito constitucionalmente estabelecido, será punido com prisão de 3 a 10 anos.
 
-###### ARTIGO 360.º
+ARTIGO 360.º
 
 (Sequestro e rapto contra membro de órgão de soberania ou órgão de governo próprio das regiões autónomas)
 
@@ -4197,7 +4917,7 @@ Quem destruir, impossibilitar o funcionamento ou desviar dos seus fins normais, 
 
 3 - A prisão será de 10 a 20 anos quando da privação da liberdade resultar a morte da vítima.
 
-###### ARTIGO 361.º
+ARTIGO 361.º
 
 (Armas proibidas, engenhos ou substâncias explosivas)
 
@@ -4207,7 +4927,7 @@ Quem destruir, impossibilitar o funcionamento ou desviar dos seus fins normais, 
 
 3 - A cumplicidade e a tentativa são, respectivamente, equiparadas, à autoria e à consumação.
 
-###### ARTIGO 362.º
+ARTIGO 362.º
 
 (Ofensa à honra do Presidente da República)
 
@@ -4215,13 +4935,13 @@ Quem destruir, impossibilitar o funcionamento ou desviar dos seus fins normais, 
 
 2 - Se a injúria, ou a ofensa, for feita por meio de palavras proferidas publicamente, de publicação de escritos ou de desenho ou por qualquer meio técnico de comunicação com o público, a prisão será de 6 meses a 3 anos.
 
-###### ARTIGO 363.º
+ARTIGO 363.º
 
 (Ultraje à República, órgãos de soberania, regiões autónomas e seus órgãos de governo próprio e às forças armadas)
 
 Quem, com a intenção de destruir, alterar ou subverter o Estado de direito constitucionalmente estabelecido, em reunião pública ou por divulgação de escritos ou outros meios de comunicação com o público, injuriar a República, os órgãos de soberania, os ministros da República, as regiões autónomas e os seus órgãos de governo próprio ou as forças armadas, por maneira a fazer perigar o prestígio do Estado ou das instituições democráticas, será punido com prisão de 6 meses a 3 anos.
 
-###### ARTIGO 364.º
+ARTIGO 364.º
 
 (Incitamento à desobediência colectiva)
 
@@ -4235,13 +4955,13 @@ b) Tentar provocar, pelos meios referidos na alínea anterior, divisões no seio
 
 c) Incitar à luta política pela violência.
 
-###### ARTIGO 365.º
+ARTIGO 365.º
 
 (Campanha no estrangeiro)
 
 Quem, no estrangeiro, desenvolver campanha ou propaganda com a intenção de destruir, alterar ou subverter violentamente o Estado de direito constitucionalmente estabelecido será punido com prisão até 3 anos, se ao facto não couber pena mais grave por força de outra disposição legal.
 
-###### ARTIGO 366.º
+ARTIGO 366.º
 
 (Ligações com o estrangeiro)
 
@@ -4261,13 +4981,13 @@ d) Em ameaçar outra pessoa ou utilizar fraude contra ela;
 
 será punido com prisão de 6 meses a 5 anos, se ao facto não couber pena mais grave por força de outra disposição legal.
 
-###### ARTIGO 367.º
+ARTIGO 367.º
 
 (Ultraje de símbolos nacionais e regionais)
 
 Quem, publicamente, por palavras, gestos ou por divulgação de escritos ou por outros meios de comunicação com o público, injuriar a República, a Bandeira ou o Hino Nacionais, as armas ou emblemas de soberania portuguesa, bem como as regiões autónomas, as bandeiras ou os hinos regionais, as armas ou embelemas da respectiva autonomia, ou faltar ao respeito que lhes é devido será punido com prisão até 2 anos ou multa até 200 dias.
 
-###### ARTIGO 368.º
+ARTIGO 368.º
 
 (Coacção contra órgãos constitucionais)
 
@@ -4279,7 +4999,7 @@ Quem, publicamente, por palavras, gestos ou por divulgação de escritos ou por 
 
 4 - Quando os factos descritos no n.º 1 forem cometidos contra um membro dos órgãos referidos no n.º 1, a prisão será de 1 a 5 anos. Se forem cometidos contra um membro dos órgãos referidos no n.º 2 a prisão será de 6 meses a 3 anos. Se forem cometidos contra um membro dos órgãos referidos no n.º 3, a prisão será até 1 ano.
 
-###### ARTIGO 369.º
+ARTIGO 369.º
 
 (Perturbação do funcionamento dos órgãos constitucionais)
 
@@ -4287,7 +5007,7 @@ Quem, publicamente, por palavras, gestos ou por divulgação de escritos ou por 
 
 2 - Na mesma pena incorre quem, pelos meios referidos no número anterior, perturbar ilegitimamente o exercício das funções de qualquer dos membros dos órgãos da soberania ou dos titulares dos cargos também aí referidos.
 
-###### ARTIGO 370.º
+ARTIGO 370.º
 
 (Falsidade na inscrição de eleitor)
 
@@ -4295,19 +5015,19 @@ Quem, publicamente, por palavras, gestos ou por divulgação de escritos ou por 
 
 2 - Na mesma pena incorre quem inscrever outrem no recenseamento eleitoral, sabendo que ele não tem o direito de aí se inscrever, ou impedir a inscrição de alguém que sabe ter direito a inscrever-se ou, por qualquer outro modo, falsificar o recenseamento eleitoral.
 
-###### ARTIGO 371.º
+ARTIGO 371.º
 
 (Falsificação de cartão de eleitor)
 
 Quem, com intuitos fraudulentos, modificar ou substituir cartão de eleitor será punido com prisão até 3 anos e multa até 100 dias.
 
-###### ARTIGO 372.º
+ARTIGO 372.º
 
 (Obstrução a inscrição)
 
 Quem, por violência, ameaça ou artifício fraudulento, determinar um eleitor a não se inscrever no recenseamento eleitoral ou a inscrever-se fora da unidade geográfica ou do local próprio ou para além do prazo será punido com prisão até 1 ano e multa até 50 dias, se pena mais grave não for aplicável por força de outra disposição legal.
 
-###### ARTIGO 373.º
+ARTIGO 373.º
 
 (Falsificação de cadernos de recenseamento)
 
@@ -4315,13 +5035,13 @@ Quem, por violência, ameaça ou artifício fraudulento, determinar um eleitor a
 
 2 - A mesma pena será aplicada aos membros da comissão recenseadora que, com intuitos fraudulentos, não procedam à elaboração e correcção dos cadernos do recenseamento.
 
-###### ARTIGO 374.º
+ARTIGO 374.º
 
 (Perturbação de assembleia eleitoral)
 
 Quem, por meio de violência, ameaça de violência ou participando em tumultos, desordens ou vozearias impedir ou perturbar gravemente a realização, funcionamento ou apuramento de resultados de assembleia ou colégio eleitoral destinados, nos termos da lei, à eleição dos órgãos de soberania, de regiões autónomas e de autarquias locais será punido com prisão até 3 anos e multa de 50 a 100 dias.
 
-###### ARTIGO 375.º
+ARTIGO 375.º
 
 (Fraude nas eleições)
 
@@ -4331,13 +5051,13 @@ Quem, por meio de violência, ameaça de violência ou participando em tumultos,
 
 3 - A tentativa é punível.
 
-###### ARTIGO 376.º
+ARTIGO 376.º
 
 (Coacção de eleitor)
 
 Quem, nas eleições referidas no artigo 374.º, com violência, ameaça de violência ou de grave dano patrimonial ou profissional, impedir um eleitor de exercer o seu direito de voto ou o forçar a votar num certo sentido será punido com prisão até 3 anos e multa de 50 a 100 dias, se pena mais grave não for aplicável por força de outra disposição legal.
 
-###### ARTIGO 377.º
+ARTIGO 377.º
 
 (Fraude e corrupção de eleitor)
 
@@ -4349,13 +5069,13 @@ a) Quem comprar ou vender um voto para as eleições referidas no mesmo artigo;
 
 b) Quem, não pertencendo a forças públicas devidamente autorizadas, entrar armado em qualquer assembleia ou colégio eleitoral.
 
-###### ARTIGO 378.º
+ARTIGO 378.º
 
 (Violação do segredo de escrutínio)
 
 Quem, nas eleições referidas no artigo 374.º, realizadas por escrutínio secreto, sem o consentimento do eleitor, conseguir, por qualquer meio, obter para si ou para outrem o conhecimento do sentido em que ele votou ou votará será punido com prisão até 1 ano e multa até 50 dias.
 
-###### ARTIGO 379.º
+ARTIGO 379.º
 
 (Agravação)
 
@@ -4363,13 +5083,13 @@ As penas previstas nesta subsecção serão agravadas de um terço nos seus limi
 
 #### SECÇÃO III — Disposições comuns
 
-###### ARTIGO 380.º
+ARTIGO 380.º
 
 (Actos preparatórios)
 
 Os actos preparatórios dos crimes previstos nos artigos 334.º a 342.º e 356.º a 358.º são punidos com prisão até 3 anos.
 
-###### ARTIGO 381.º
+ARTIGO 381.º
 
 (Conjura)
 
@@ -4379,7 +5099,7 @@ Os actos preparatórios dos crimes previstos nos artigos 334.º a 342.º e 356.�
 
 3 - A pena do número anterior será também aplicável quando, havendo algum acto de execução, existirem atenuantes de excepcional importância.
 
-###### ARTIGO 382.º
+ARTIGO 382.º
 
 (Desistência)
 
@@ -4389,7 +5109,7 @@ Os actos preparatórios dos crimes previstos nos artigos 334.º a 342.º e 356.�
 
 3 - Decretar-se-á, do mesmo modo, a isenção de pena relativamente aos comparticipantes que impedirem a prática dos actos criminosos a que a conjuração se destinar.
 
-###### ARTIGO 383.º
+ARTIGO 383.º
 
 (Penas acessórias)
 
@@ -4399,7 +5119,7 @@ Quem for condenado pelos crimes previstos neste capítulo em prisão superior a 
 
 #### SECÇÃO I — Da resistência e desobediência à autoridade pública
 
-###### ARTIGO 384.º
+ARTIGO 384.º
 
 (Coacção de funcionários)
 
@@ -4407,7 +5127,7 @@ Quem for condenado pelos crimes previstos neste capítulo em prisão superior a 
 
 2 - Se a violência ou ameaça grave produzir o efeito querido, a pena elevar-se-á até 3 anos e a multa até 150 dias.
 
-###### ARTIGO 385.º
+ARTIGO 385.º
 
 (Ofensa a funcionário)
 
@@ -4417,19 +5137,19 @@ Quem for condenado pelos crimes previstos neste capítulo em prisão superior a 
 
 3 - A agravação prevista no número anterior é extensível à ofensa corporal, ou outra violência praticada contra advogado no exercício das suas funções em acto presidido por magistrado.
 
-###### ARTIGO 386.º
+ARTIGO 386.º
 
 (Agravação)
 
 Se, no caso dos artigos 384.º e 385.º, a infracção for cometida com arma ou provocar a morte ou grave perigo para a vida, grave ofensa ou grave perigo de ofensa para a saúde ou integridade física ou psíquica da vítima, a pena será a de prisão de 1 a 6 anos, se ao facto não couber pena mais grave por força de outra disposição legal.
 
-###### ARTIGO 387.º
+ARTIGO 387.º
 
 (Resistência com motim)
 
 Se o crime previsto no artigo 384.º for praticado com motim, quem neste participar será punido com prisão de 1 a 2 anos, se pena mais grave não couber pela sua participação no crime cometido.
 
-###### ARTIGO 388.º
+ARTIGO 388.º
 
 (Desobediência)
 
@@ -4441,7 +5161,7 @@ Se o crime previsto no artigo 384.º for praticado com motim, quem neste partici
 
 #### SECÇÃO II — Da tirada, evasão de presos e não cumprimento de obrigações impostas por sentença criminal
 
-###### ARTIGO 389.º
+ARTIGO 389.º
 
 (Tirada de presos)
 
@@ -4449,19 +5169,19 @@ Se o crime previsto no artigo 384.º for praticado com motim, quem neste partici
 
 2 - Na mesma pena incorre quem instigar, promover ou, de qualquer forma, auxiliar a evasão de pessoas referidas no número anterior.
 
-###### ARTIGO 390.º
+ARTIGO 390.º
 
 (Auxílio de funcionário à evasão)
 
 O funcionário ou quem, nos termos da lei, for encarregado da guarda de qualquer das pessoas referidas no artigo anterior libertar, deixar evadir, facilitar, promover ou, de qualquer forma, auxiliar a evasão daquelas pessoas será punido com prisão de 2 a 8 anos.
 
-###### ARTIGO 391.º
+ARTIGO 391.º
 
 (Negligência na guarda)
 
 O funcionário ou quem, nos termos da lei, for encarregado da guarda de qualquer das pessoas referidas no artigo 389.º e, actuando com negligência grosseira, permitir, desse modo, a evasão será punido com prisão até 1 ano ou multa até 60 dias.
 
-###### ARTIGO 392.º
+ARTIGO 392.º
 
 (Evasão)
 
@@ -4479,13 +5199,13 @@ O funcionário ou quem, nos termos da lei, for encarregado da guarda de qualquer
 
 7 - A tentativa é punível.
 
-###### ARTIGO 393.º
+ARTIGO 393.º
 
 (Violação de obrigações impostas por sentença criminal)
 
 Quem violar obrigações referentes ao lugar em que deve apresentar-se, residir ou frequentar, ou proibições de exercício de certa profissão ou actividade, comércio ou indústria, por si ou por outrem, impostas por sentença criminal será punido com prisão até 1 ano e multa de 10 a 30 dias.
 
-###### ARTIGO 394.º
+ARTIGO 394.º
 
 (Motim de presos)
 
@@ -4497,7 +5217,7 @@ b) Se evadirem ou ajudarem a evadir um de entre eles ou outro preso;
 
 serão punidos com prisão de 2 a 8 anos.
 
-###### ARTIGO 395.º
+ARTIGO 395.º
 
 (Acumulação)
 
@@ -4505,7 +5225,7 @@ As penas previstas nos artigos 392.º, 393.º e 394.º aplicam-se em cúmulo mat
 
 #### SECÇÃO III — Da violação de providências públicas
 
-###### ARTIGO 396.º
+ARTIGO 396.º
 
 Descaminho ou destruição de objectos colocados sob o poder público)
 
@@ -4515,19 +5235,19 @@ Descaminho ou destruição de objectos colocados sob o poder público)
 
 3 - Quando do crime não resultar prejuízo para o Estado ou outra pessoa, ou o prejuízo for de pequena gravidade, a pena será a de prisão até 1 ano ou multa até 60 dias.
 
-###### ARTIGO 397.º
+ARTIGO 397.º
 
 (Violação de arresto ou apreensão legítimos)
 
 Quem destruir, danificar, inutilizar ou subtrair coisa que tiver sido legalmente arrestada, apreendida ou objecto de providências cautelares, de forma a prejudicar, total ou parcialmente, a finalidade destas providências, será punido com prisão até 3 anos ou multa até 100 dias.
 
-###### ARTIGO 398.º
+ARTIGO 398.º
 
 (Quebra de marcas e de selos)
 
 Quem abrir, romper ou inutilizar, total ou parcialmente, marcas ou selos, apostos legitimamente por funcionário competente, para identificar, manter inviolável qualquer coisa, ou para certificar que sobre esta recaiu alguma das providências indicadas no artigo anterior, será punido com prisão até 2 anos ou multa até 100 dias.
 
-###### ARTIGO 399.º
+ARTIGO 399.º
 
 (Arrancamento, destruição ou alteração de editais)
 
@@ -4535,7 +5255,7 @@ Quem arrancar, destruir, danificar, alterar ou, de qualquer forma, impedir que s
 
 #### SECÇÃO IV — Da usurpação de funções
 
-###### ARTIGO 400.º
+ARTIGO 400.º
 
 (Usurpação de funções)
 
@@ -4547,13 +5267,13 @@ Quem arrancar, destruir, danificar, alterar ou, de qualquer forma, impedir que s
 
 ### CAPÍTULO III — Dos crimes contra a realização da justiça
 
-###### ARTIGO 401.º
+ARTIGO 401.º
 
 (Falso depoimento de parte)
 
 Quem, em processo cível, prestar depoimento de parte, fazendo falsas declarações relativamente a factos sobre que deve depor, depois de ajuramentado e advertido das consequências penais a que se expõe com a prestação de depoimento falso, será punido com prisão até 18 meses ou multa até 100 dias.
 
-###### ARTIGO 402.º
+ARTIGO 402.º
 
 (Falso testemunho, falsas declarações, perícia, interpretação ou tradução)
 
@@ -4563,7 +5283,7 @@ Quem, em processo cível, prestar depoimento de parte, fazendo falsas declaraç�
 
 3 - Se o crime referido no n.º 1 for praticado depois de o agente ter sido ajuramentado e advertido das respectivas consequências penais, a pena será a de prisão de 6 meses a 4 anos ou a de multa de 50 a 180 dias.
 
-###### ARTIGO 403.º
+ARTIGO 403.º
 
 (Atenuação e isenção de pena)
 
@@ -4571,7 +5291,7 @@ Quem, em processo cível, prestar depoimento de parte, fazendo falsas declaraç�
 
 2 - Se os crimes previstos nos artigos 401.º e 402.º tiverem sido cometidos para evitar que o agente, os seus parentes ou afins até ao 3.º grau se expusessem ao perigo de virem a ser punidos ou a ser sujeitos a reacção criminal, poderão as penas ser livremente atenuadas ou até mesmo excluir-se a punição.
 
-###### ARTIGO 404.º
+ARTIGO 404.º
 
 (Retratação)
 
@@ -4581,19 +5301,19 @@ Quem, em processo cível, prestar depoimento de parte, fazendo falsas declaraç�
 
 3 - A retratação pode fazer-se perante um tribunal, o Ministério Público, a Polícia Judiciária ou outra autoridade competente.
 
-###### ARTIGO 405.º
+ARTIGO 405.º
 
 (Punição da instrumentalização)
 
 Quem induzir em erro ou influenciar outrem de forma a que este, sem dolo, pratique um dos factos descritos nos artigos 401.º e 402.º, será punido com prisão de 6 meses a 3 anos.
 
-###### ARTIGO 406.º
+ARTIGO 406.º
 
 (Suborno)
 
 Quem tentar convencer outrem, através de dádiva ou promessa de qualquer vantagem patrimonial, a praticar o crime previsto no artigo 402.º, sem que este venha, efectivamente, a ser cometido, será punido com prisão até 1 ano ou multa até 100 dias.
 
-###### ARTIGO 407.º
+ARTIGO 407.º
 
 (Agravação)
 
@@ -4605,7 +5325,7 @@ b) Se do crime resultar a privação de liberdade, admissão de lugar ou de posi
 
 e) Se do crime resultar que, em vez do agente, outrem seja condenado pelo crime que aquele praticou.
 
-###### ARTIGO 408.º
+ARTIGO 408.º
 
 (Denúncia caluniosa)
 
@@ -4617,7 +5337,7 @@ e) Se do crime resultar que, em vez do agente, outrem seja condenado pelo crime 
 
 4 - A requerimento do ofendido, o tribunal pode mandar publicar a sentença de condenação nos termos do artigo 175.º
 
-###### ARTIGO 409.º
+ARTIGO 409.º
 
 (Simulação de crime ou dos seus agentes)
 
@@ -4627,7 +5347,7 @@ e) Se do crime resultar que, em vez do agente, outrem seja condenado pelo crime 
 
 3 - Se os factos referidos nos números anteriores respeitarem a contravenção, contra-ordenação ou ilícito disciplinar, a pena será de multa até 50 dias.
 
-###### ARTIGO 410.º
+ARTIGO 410.º
 
 (Favorecimento pessoal)
 
@@ -4639,25 +5359,25 @@ e) Se do crime resultar que, em vez do agente, outrem seja condenado pelo crime 
 
 4 - Não são puníveis pelas disposições deste artigo o cônjuge, ascendente, descendente e os colaterais ou afins até ao 3.º grau da pessoa em benefício da qual actuaram.
 
-###### ARTIGO 411.º
+ARTIGO 411.º
 
 (Favorecimento pessoal praticado por funcionário)
 
 Quando o favorecimento previsto no artigo anterior for cometido por funcionário que intervenha ou tenha competência para intervir no respectivo processo, ou por quem tenha competência para ordenar a execução da reacção criminal, ou seja incumbido de a executar, será punido com prisão de 6 meses a 4 anos.
 
-###### ARTIGO 412.º
+ARTIGO 412.º
 
 (Extorsão de depoimento)
 
 O funcionário que, em processo criminal ou por contra-ordenação ou disciplinar, utilizar violência, ameaça grave ou outro meio de coacção ilegítimo, para obter do arguido, declarante, testemunha ou perito um depoimento escrito ou oral, ou para impedir que eles o façam, será punido com prisão de 6 meses a 4 anos.
 
-###### ARTIGO 413.º
+ARTIGO 413.º
 
 (Promoção dolosa)
 
 O funcionário competente para promover procedimento criminal ou por contra-ordenação ou disciplinar que instaurar ou fizer instaurar o respectivo procedimento contra determinada pessoa, que sabe inocente, será punido com prisão de 6 meses a 4 anos.
 
-###### ARTIGO 414.º
+ARTIGO 414.º
 
 (Não promoção)
 
@@ -4665,19 +5385,19 @@ O funcionário competente para promover procedimento criminal ou por contra-orde
 
 2 - No caso, porém, de o funcionário ter comparticipado no crime ou, relativamente a esse crime, ter participado qualquer dos factos previsto nos artigos 329.º e 330.º, será punido com a pena correspondente, aumentada de um sexto nos seus limites mínimo e máximo.
 
-###### ARTIGO 415.º
+ARTIGO 415.º
 
 (Prevaricação)
 
 O funcionário que, conscientemente, conduzir ou decidir contra direito um processo em que, por virtude da sua competência, intervém, com a intenção de, por essa forma, prejudicar ou beneficiar alguém, será punido com prisão de 1 a 5 anos.
 
-###### ARTIGO 416.º
+ARTIGO 416.º
 
 (Denegação de justiça)
 
 O funcionário que se negar a administrar a justiça ou a aplicar o direito que, nos termos da sua competência, lhe cabe e lhe foram requeridos, será punido com prisão até 1 ano ou multa até 30 dias.
 
-###### ARTIGO 417.º
+ARTIGO 417.º
 
 (Prisão ilegal)
 
@@ -4687,7 +5407,7 @@ O funcionário que se negar a administrar a justiça ou a aplicar o direito que,
 
 3 - Se a ordem ou execução ilegal da privação da liberdade, ou a omissão de a ordenar ou executar conforme a lei, for devida a negligência grave, a pena será de prisão até 1 ano ou multa até 50 dias.
 
-###### ARTIGO 418.º
+ARTIGO 418.º
 
 (Prevaricação de advogado ou solicitador)
 
@@ -4695,7 +5415,7 @@ O funcionário que se negar a administrar a justiça ou a aplicar o direito que,
 
 2 - A mesma pena será aplicável ao advogado ou solicitador que, na mesma causa que lhe foi confiada, advogar, procurar, aconselhar ou ajudar a posição de várias pessoas nela intervenientes e cujos interesses estejam em conflito, de maneira a, voluntariamente, actuar em benefício de alguma delas e em prejuízo de outra ou outras.
 
-###### ARTIGO 419.º
+ARTIGO 419.º
 
 (Revelação de segredo de justiça)
 
@@ -4707,7 +5427,7 @@ O funcionário que se negar a administrar a justiça ou a aplicar o direito que,
 
 #### SECÇÃO I — Da corrupção
 
-###### ARTIGO 420.º
+ARTIGO 420.º
 
 (Corrupção passiva para acto ilícito)
 
@@ -4719,19 +5439,19 @@ O funcionário que se negar a administrar a justiça ou a aplicar o direito que,
 
 4 - Se o funcionário, voluntariamente, repudiar o oferecimento ou promessa que aceitada, ou restituir o dinheiro ou o valor da vantagem patrimonial, antes da prática do acto ou da sua omissão ou demora, ficará isento de pena.
 
-###### ARTIGO 421.º
+ARTIGO 421.º
 
 (Corrupção passiva em causa criminal)
 
 Se, por efeito da corrupção, resultar condenação criminal em pena mais grave do que a prevista no artigo anterior, será aquela aplicada à corrupção.
 
-###### ARTIGO 422.º
+ARTIGO 422.º
 
 (Corrupção passiva para o acto lícito)
 
 O funcionário que, por si ou interposta pessoa, com o seu consentimento ou ratificação, solicitar ou receber dinheiro ou promessa de dinheiro ou qualquer vantagem patrimonial, que não lhe sejam devidos, para praticar acto não contrário aos deveres do seu cargo e cabendo nas suas funções, será punido com prisão até 6 meses ou multa até 30 dias.
 
-###### ARTIGO 423.º
+ARTIGO 423.º
 
 (Corrupção activa)
 
@@ -4745,7 +5465,7 @@ O funcionário que, por si ou interposta pessoa, com o seu consentimento ou rati
 
 #### SECÇÃO II — Do peculato
 
-###### ARTIGO 424.º
+ARTIGO 424.º
 
 (Peculato)
 
@@ -4753,7 +5473,7 @@ O funcionário que, por si ou interposta pessoa, com o seu consentimento ou rati
 
 2 - Se o funcionário der de empréstimo, empenhar, ou, de qualquer forma, onerar quaisquer objectos referidos no número anterior, com a consciência de prejudicar ou poder prejudicar o Estado ou o seu proprietário, será punido com prisão até 3 anos e multa até 50 dias.
 
-###### ARTIGO 425.º
+ARTIGO 425.º
 
 (Peculado de uso)
 
@@ -4761,13 +5481,13 @@ O funcionário que, por si ou interposta pessoa, com o seu consentimento ou rati
 
 2 - Se o funcionário der a dinheiro público um destino para uso público diferente daquele a que está legalmente afectado, será punido com prisão até 1 ano ou multa de 10 a 30 dias.
 
-###### ARTIGO 426.º
+ARTIGO 426.º
 
 (Peculato por erro de outrem)
 
 O funcionário que, no exercício das suas funções, aproveitando-se do erro de outrem, receber, para si ou para terceiro, taxas, emolumentos ou outras importâncias, não devidas ou superiores às devidas, será punido com prisão até 2 anos ou multa até 100 dias.
 
-###### ARTIGO 427.º
+ARTIGO 427.º
 
 (Participação económica em negócio)
 
@@ -4779,7 +5499,7 @@ O funcionário que, no exercício das suas funções, aproveitando-se do erro de
 
 #### SECÇÃO III — Do abuso de autoridade
 
-###### ARTIGO 428.º
+ARTIGO 428.º
 
 (Introdução em casa alheia)
 
@@ -4787,25 +5507,25 @@ O funcionário que, no exercício das suas funções, aproveitando-se do erro de
 
 2 - Se o abuso consistir na não observância das formalidades legais, a pena será a de prisão até 1 ano ou multa de 10 a 30 dias.
 
-###### ARTIGO 429.º
+ARTIGO 429.º
 
 (Imposição ilegal de contribuições ou impostos)
 
 O funcionário que, sem autorização legal, impuser, fixar ou receber, com destino ao Tesouro Público, por si ou por outrem, contribuições, impostos ou importâncias de contribuições ou impostos superiores às que forem devidas, será punido com multa de 10 a 90 dias.
 
-###### ARTIGO 430.º
+ARTIGO 430.º
 
 (Emprego de força pública contra a execução da lei ou ordem legal)
 
 O funcionário que, sendo competente para requisitar ou ordenar o emprego de força pública, requisitar ou ordenar este emprego para impedir a execução de alguma lei, ou de mandato regular da justiça ou de ordem legal de alguma autoridade pública, será punido com prisão até 2 anos e multa de 10 a 30 dias.
 
-###### ARTIGO 431.º
+ARTIGO 431.º
 
 (Recusa de cooperação)
 
 O funcionário que, tendo recebido requisição legal da autoridade competente para prestar a devida cooperação para a administração da justiça ou qualquer serviço público, se recusar a prestá-la, ou sem motivo legítimo a não prestar, será punido com prisão de 2 meses a 1 ano.
 
-###### ARTIGO 432.º
+ARTIGO 432.º
 
 (Abuso de poderes)
 
@@ -4813,7 +5533,7 @@ O funcionário que abusar dos poderes ou violar os deveres inerentes às suas fu
 
 #### SECÇÃO IV — Da violação de segredo
 
-###### ARTIGO 433.º
+ARTIGO 433.º
 
 (Violação de segredo por funcionário)
 
@@ -4823,7 +5543,7 @@ O funcionário que abusar dos poderes ou violar os deveres inerentes às suas fu
 
 3 - O procedimento criminal depende de queixa da entidade que superintenda no respectivo serviço ou do ofendido.
 
-###### ARTIGO 434.º
+ARTIGO 434.º
 
 (Violação do segredo de correspondência ou de telecomunicações)
 
@@ -4843,7 +5563,7 @@ será punido com prisão de 6 meses a 3 anos.
 
 2 - A prisão poderá, porém, elevar-se até 4 anos, tratando-se de telecomunicações, quando o agente actuar com a intenção de conseguir, para si ou para terceiro, um benefício material ou causar prejuízo a outrem.
 
-###### ARTIGO 435.º
+ARTIGO 435.º
 
 (Punição do ex-funcionário)
 
@@ -4851,7 +5571,7 @@ A violação do segredo prevista nesta secção será punida, mesmo quando prati
 
 #### SECÇÃO V — Do abandono de funções
 
-###### ARTIGO 436.º
+ARTIGO 436.º
 
 (Abandono de funções)
 
@@ -4859,7 +5579,7 @@ O funcionário que, com a intenção de impedir ou de interromper um serviço p�
 
 #### SECÇÃO VI — Disposições gerais
 
-###### ARTIGO 437.º
+ARTIGO 437.º
 
 (Conceito de funcionário)
 
@@ -4873,4 +5593,4 @@ c) Quem, mesmo provisória ou temporariamente, mediante remuneração ou a títu
 
 2 - A equiparação a funcionário, para efeitos da lei penal, de quem desempenhe funções políticas, governativas ou legislativas, será regulada por lei especial.
 
-**O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.**
+O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.

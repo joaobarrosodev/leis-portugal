@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20600/26312639.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1982-374248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ab24ab990a91b973bf0ba4ed771e6da1a5ccad469f37657d77d9482d69149cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eae548eeeeb02d705474266638a6c9e369141b35e5f41890aa3ec8c2d85eb704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Secretariado Nacional de Reabilitação
 relationships:
 - type: amended_by
   target: pt:dre:682989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:326914:por
+  label: "Aumentado um lugar ao quadro de pessoal, pela PORT.149/85.15.03.1985.PCM, DR.IS [62] de 15.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-1985-326914
+  date: '1985-03-15'
+- type: amended_by
+  target: pt:dre:285766:por
+  label: "Alterado o quadro de pessoal pela PORT.168/88.19.03.1988.MF, DR.IS [66] de 19.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1988-285766
+  date: '1988-03-19'
+- type: amended_by
+  target: pt:dre:476569:por
+  label: "Alterado o art. 19º pelo DEC LEI.176-B/88.18.05.1988.MESS, DR.IS [115]SUPL de 18.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-b-1988-476569
+  date: '1988-05-18'
+- type: amended_by
+  target: pt:dre:495322:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, alterado na Portaria 168/88, de 19 de Março, pela PORT.47/91.17.01.1991.MF,\
+    \ DR.IS-B [14] de 17.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-1991-495322
+  date: '1991-01-17'
+- type: cites
+  target: pt:dre:226599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258131:por
+  label: "Revogado pelo DEC LEI.184/92.22.08.1992.MESS, DR.IS-A [193] de 22.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1992-258131
+  date: '1992-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:32Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +184,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Secretariado Nacional de Reabilitação, adiante designado «Secretariado», criado pelo [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, está integrado na Presidência do Conselho de Ministros e na dependência do Primeiro-Ministro.
+Artigo 1.º O Secretariado Nacional de Reabilitação, adiante designado «Secretariado», criado pelo [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, está integrado na Presidência do Conselho de Ministros e na dependência do Primeiro-Ministro.
 
-###### Art. 2.º O Secretariado é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
+Art. 2.º O Secretariado é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
 
-###### Art. 3.º - 1 - O Secretariado tem por objectivo ser o instrumento do Governo para a prossecução de uma política nacional de habilitação e reabilitação dos deficientes, assente na planificação e coordenação das acções que concorrem neste domínio.
+Art. 3.º - 1 - O Secretariado tem por objectivo ser o instrumento do Governo para a prossecução de uma política nacional de habilitação e reabilitação dos deficientes, assente na planificação e coordenação das acções que concorrem neste domínio.
 
 2 - Para efeitos do presente diploma, a expressão «reabilitação de deficientes» compreende, nomeadamente, a prevenção, o tratamento médico, a educação, a preparação profissional e a integração social de deficientes.
 
-###### Art. 4.º São atribuições do Secretariado:
+Art. 4.º São atribuições do Secretariado:
 
 a) Exercer uma acção consciencializadora da sociedade quanto à necessidade de reabilitação dos deficientes e à imperatividade nacional da sua efectivação, promovendo e patrocinando campanhas e acções de sensibilização da opinião pública;
 
@@ -144,11 +224,11 @@ o) Coordenar e promover o desenvolvimento de relações de cooperação internac
 
 p) Exercer as demais atribuições que por lei ou regulamento lhe forem cometidas.
 
-###### Art. 5.º A acção do Secretariado no exercício das suas atribuições de coordenação visa assegurar a coerência e articulação das políticas, dos programas e das medidas adoptados nos diversos departamentos governativos que intervêm na reabilitação de deficientes.
+Art. 5.º A acção do Secretariado no exercício das suas atribuições de coordenação visa assegurar a coerência e articulação das políticas, dos programas e das medidas adoptados nos diversos departamentos governativos que intervêm na reabilitação de deficientes.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 6.º São órgãos do Secretariado:
+Art. 6.º São órgãos do Secretariado:
 
 a) O secretário nacional;
 
@@ -156,9 +236,9 @@ b) O conselho nacional de reabilitação;
 
 c) O conselho administrativo.
 
-###### Art. 7.º O secretário nacional é nomeado pelo Primeiro-Ministro.
+Art. 7.º O secretário nacional é nomeado pelo Primeiro-Ministro.
 
-###### Art. 8.º Ao secretário nacional compete:
+Art. 8.º Ao secretário nacional compete:
 
 a) Convocar e presidir com voto de qualidade ao conselho nacional de reabilitação e ao conselho administrativo e garantir a execução das respectivas deliberações;
 
@@ -178,13 +258,13 @@ h) Submeter a despacho do Primeiro-Ministro os assuntos que requeiram a sua apre
 
 i) Representar o Secretariado, em juízo e fora dele.
 
-###### Art. 9.º - 1 - O secretário nacional será coadjuvado por um secretário-adjunto, que o substituirá nas suas ausências ou impedimentos.
+Art. 9.º - 1 - O secretário nacional será coadjuvado por um secretário-adjunto, que o substituirá nas suas ausências ou impedimentos.
 
 2 - O secretário nacional poderá delegar no secretário-adjunto a competência que lhe é atribuída por lei.
 
 3 - Os cargos de secretário nacional e de secretário-adjunto são equiparados aos de director-geral e subdirector-geral, respectivamente.
 
-###### Art. 10.º O conselho nacional de reabilitação, também abreviadamente designado «conselho nacional», é o órgão consultivo do Secretariado e será composto pelo secretário nacional, que presidirá, e pelos vogais seguintes:
+Art. 10.º O conselho nacional de reabilitação, também abreviadamente designado «conselho nacional», é o órgão consultivo do Secretariado e será composto pelo secretário nacional, que presidirá, e pelos vogais seguintes:
 
 1 - Representantes dos seguintes ministérios:
 
@@ -240,11 +320,11 @@ b) União das Instituições Privadas de Solidariedade Social;
 
 c) Confederação Nacional das Associações da Família.
 
-###### Art. 11.º - 1 - Os vogais referidos no n.º 1 do artigo anterior são nomeados pelos respectivos ministros.
+Art. 11.º - 1 - Os vogais referidos no n.º 1 do artigo anterior são nomeados pelos respectivos ministros.
 
 2 - A composição do conselho nacional de reabilitação pode ser alterada por despacho do Primeiro-Ministro.
 
-###### Art. 12.º Compete ao conselho nacional de reabilitação:
+Art. 12.º Compete ao conselho nacional de reabilitação:
 
 a) Pronunciar-se sobre as propostas a apresentar ao Primeiro-Ministro que visem a definição, articulação e execução de uma política nacional de reabilitação de deficientes;
 
@@ -268,17 +348,17 @@ j) Informar atempadamente o secretário nacional sobre todos os planos, iniciati
 
 l) Aprovar o seu próprio regulamento interno, onde poderá ser prevista a criação de secções.
 
-###### Art. 13.º O conselho nacional reunirá, ordinariamente, uma vez por mês e, extraordinariamente, sempre que para tal for convocado pelo secretário nacional, por sua iniciativa ou a requerimento de, pelo menos, um terço dos vogais.
+Art. 13.º O conselho nacional reunirá, ordinariamente, uma vez por mês e, extraordinariamente, sempre que para tal for convocado pelo secretário nacional, por sua iniciativa ou a requerimento de, pelo menos, um terço dos vogais.
 
-###### Art. 14.º Os vogais do conselho nacional devem assegurar a colaboração dos ministérios ou associações que representam e, nomeadamente, promover a prestação de informações, estudos e pareceres que lhes tenham sido solicitados.
+Art. 14.º Os vogais do conselho nacional devem assegurar a colaboração dos ministérios ou associações que representam e, nomeadamente, promover a prestação de informações, estudos e pareceres que lhes tenham sido solicitados.
 
-###### Art. 15.º - 1 - Para além das reuniões ordinárias e extraordinárias do conselho nacional, pode o secretário nacional convocar reuniões restritas com os vogais representantes dos departamentos governativos directamente interessados nos planos de acção ou nas actividades em curso.
+Art. 15.º - 1 - Para além das reuniões ordinárias e extraordinárias do conselho nacional, pode o secretário nacional convocar reuniões restritas com os vogais representantes dos departamentos governativos directamente interessados nos planos de acção ou nas actividades em curso.
 
 2 - Com o fim de serem analisadas propostas e sugestões apresentadas ao Secretariado por instituições, serviços e sectores profissionais ligados à reabilitação de deficientes, pode também o secretário nacional convocar reuniões restritas com os vogais a que aludem os n.os 2 e 3 do artigo 10.º
 
-###### Art. 16.º O conselho administrativo é constituído pelo secretário nacional, que presidirá, por um representante do Ministério das Finanças e do Plano e pelo chefe da Repartição Administrativa do Secretariado.
+Art. 16.º O conselho administrativo é constituído pelo secretário nacional, que presidirá, por um representante do Ministério das Finanças e do Plano e pelo chefe da Repartição Administrativa do Secretariado.
 
-###### Art. 17.º Ao conselho administrativo compete:
+Art. 17.º Ao conselho administrativo compete:
 
 a) Elaborar o projecto de orçamento e a conta de gerência;
 
@@ -292,9 +372,9 @@ e) Pronunciar-se sobre a aceitação de heranças, legados ou doações;
 
 f) Pronunciar-se sobre qualquer assunto que lhe seja submetido pelo secretário nacional.
 
-###### Art. 18.º O conselho administrativo reúne, ordinariamente, duas vezes por mês e, extraordinariamente, quando convocado pelo secretário nacional.
+Art. 18.º O conselho administrativo reúne, ordinariamente, duas vezes por mês e, extraordinariamente, quando convocado pelo secretário nacional.
 
-###### Art. 19.º O Secretariado dispõe dos seguintes serviços:
+Art. 19.º O Secretariado dispõe dos seguintes serviços:
 
 a) Direcção dos Serviços de Reabilitação;
 
@@ -304,7 +384,7 @@ c) Centro de Relações Públicas;
 
 d) Repartição Administrativa.
 
-###### Art. 20.º A Direcção dos Serviços de Reabilitação compreende:
+Art. 20.º A Direcção dos Serviços de Reabilitação compreende:
 
 a) Divisão de Infância e Juventude;
 
@@ -312,7 +392,7 @@ b) Divisão da População Adulta;
 
 c) Divisão da Terceira Idade.
 
-###### Art. 21.º - 1 - Compete à Direcção dos Serviços de Reabilitação, em colaboração com os departamentos governativos competentes, o estudo dos problemas e a preparação das medidas necessárias à definição, articulação e execução das políticas de reabilitação que tenham em conta a realidade vivida pelos deficientes.
+Art. 21.º - 1 - Compete à Direcção dos Serviços de Reabilitação, em colaboração com os departamentos governativos competentes, o estudo dos problemas e a preparação das medidas necessárias à definição, articulação e execução das políticas de reabilitação que tenham em conta a realidade vivida pelos deficientes.
 
 2 - Para o efeito do disposto no número anterior, compete-lhe, nomeadamente:
 
@@ -348,7 +428,7 @@ p) Assegurar a cooperação técnica com organizações internacionais e partici
 
 q) Exercer as demais funções que lhe sejam cometidas pelo secretário nacional.
 
-###### Art. 22.º Compete à Divisão da Infância e Juventude a realização das acções necessárias ao cumprimento integral do previsto no artigo 21.º na área da infância e juventude, nomeadamente:
+Art. 22.º Compete à Divisão da Infância e Juventude a realização das acções necessárias ao cumprimento integral do previsto no artigo 21.º na área da infância e juventude, nomeadamente:
 
 a) Desenvolver acções de sensibilização e informação sobre a prevenção da deficiência a nível pré, péri e pós-natal e na infância em geral e sobre os problemas da educação e integração da criança e do jovem deficiente;
 
@@ -362,7 +442,7 @@ e) Manter estreito contacto com os serviços e instituições que actuam na áre
 
 f) Colaborar, na sua esfera de acção, nos estudos, trabalhos, seminários ou outras iniciativas relativas à investigação nos vários domínios da prevenção, reabilitação e integração das crianças e jovens deficientes.
 
-###### Art. 23.º Compete à Divisão da População Adulta a realização das acções necessárias ao cumprimento integral do previsto no artigo 21.º na área da população adulta, nomeadamente:
+Art. 23.º Compete à Divisão da População Adulta a realização das acções necessárias ao cumprimento integral do previsto no artigo 21.º na área da população adulta, nomeadamente:
 
 a) Desenvolver acções de sensibilização e informação sobre a prevenção de acidentes e doenças invalidantes de qualquer foro ou origem, a reabilitação da população adulta deficiente e a sua integração profissional e social;
 
@@ -376,7 +456,7 @@ e) Manter estreito contacto com os serviços e instituições que actuam na áre
 
 f) Colaborar em estudos, trabalhos, seminários ou outras iniciativas relativas à investigação nos vários domínios da prevenção, reabilitação e integração da população adulta deficiente.
 
-###### Art. 24.º Compete à Divisão da Terceira Idade a realização das acções necessárias ao cumprimento integral do previsto no artigo 21.º na área da população idosa, nomeadamente:
+Art. 24.º Compete à Divisão da Terceira Idade a realização das acções necessárias ao cumprimento integral do previsto no artigo 21.º na área da população idosa, nomeadamente:
 
 a) Desenvolver acções de sensibilização e informação do público no que se refere aos problemas da prevenção da deficiência na velhice, da reabilitação geriátrica e gerontológica e à integração sócio-familiar do deficiente da terceira idade;
 
@@ -390,7 +470,7 @@ e) Manter estreito contacto com os serviços e instituições que actuam na áre
 
 f) Colaborar, na sua esfera de acção, nos estudos ou trabalhos, seminários ou outras iniciativas relativos à investigação nos domínios da prevenção, reabilitação e integração sócio-familiar da população deficiente da terceira idade.
 
-###### Art. 25.º A Direcção dos Serviços de Apoio Técnico compreende:
+Art. 25.º A Direcção dos Serviços de Apoio Técnico compreende:
 
 a) Divisão de Assuntos Especiais e Militares;
 
@@ -400,9 +480,9 @@ c) Centro de Apoio Jurídico;
 
 d) Centro de Organização e Planeamento.
 
-###### Art. 26.º Compete à Direcção dos Serviços de Apoio Técnico prestar colaboração técnica, de modo permanente e sistemático, aos órgãos e serviços do Secretariado em tudo o que se mostre necessário à realização dos objectivos que lhe são próprios e promover ou patrocinar as acções técnicas de formação, sensibilização e informação que na área da reabilitação forem tidas por convenientes.
+Art. 26.º Compete à Direcção dos Serviços de Apoio Técnico prestar colaboração técnica, de modo permanente e sistemático, aos órgãos e serviços do Secretariado em tudo o que se mostre necessário à realização dos objectivos que lhe são próprios e promover ou patrocinar as acções técnicas de formação, sensibilização e informação que na área da reabilitação forem tidas por convenientes.
 
-###### Art. 27.º Compete à Divisão de Assuntos Especiais e Militares:
+Art. 27.º Compete à Divisão de Assuntos Especiais e Militares:
 
 a) Exercer as funções a que se referem os n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 574/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/574-1980-226599), de 31 de Dezembro, com excepção das alíneas a) e h) do n.º 2 da [Portaria n.º 73/76](https://diariodarepublica.pt/dr/detalhe/portaria/73-1976-506790), de 11 de Fevereiro;
 
@@ -414,7 +494,7 @@ d) Estudar e informar, por meio de parecer, ou encaminhar para entidade competen
 
 e) Acompanhar a aplicação das medidas de assistência social e económicas que abrangem os beneficiários de pensões de preço de sangue dos deficientes das forças armadas.
 
-###### Art. 28.º Compete ao Centro de Documentação e Informação Técnica:
+Art. 28.º Compete ao Centro de Documentação e Informação Técnica:
 
 a) Propor as bases da política da informação científica e técnica, a implantar de acordo com os objectivos do Secretariado;
 
@@ -440,7 +520,7 @@ l) Coordenar a edição das publicações do Secretariado;
 
 m) Gerir o sector da reprografia.
 
-###### Art. 29.º Compete ao Centro de Apoio Jurídico:
+Art. 29.º Compete ao Centro de Apoio Jurídico:
 
 a) Dar parecer sobre todas as questões de natureza jurídica que lhe sejam submetidas;
 
@@ -448,7 +528,7 @@ b) Preparar e elaborar os projectos de diplomas que consagram as bases e as medi
 
 c) Interpretar e garantir a aplicação de diplomas legais relativos a essa mesma política.
 
-###### Art. 30.º Compete ao Centro de Organização e Planeamento:
+Art. 30.º Compete ao Centro de Organização e Planeamento:
 
 a) Elaborar o inventário dos serviços, instituições e estabelecimentos ligados ao processo de reabilitação de deficientes, com a inclusão das finalidades que prosseguem e meios humanos, materiais, técnicos e financeiros de que dispõem;
 
@@ -464,7 +544,7 @@ f) Proceder a estudos respeitantes à melhoria do funcionamento dos serviços, c
 
 g) Promover o estudo e propor a aplicação de métodos e técnicas de programação com vista ao planeamento da política nacional de reabilitação.
 
-###### Art. 31.º Compete ao Centro de Relações Públicas:
+Art. 31.º Compete ao Centro de Relações Públicas:
 
 a) Dar apoio às acções de sensibilização da população, de molde a permitir a perfeita integração de todos os deficientes na escola, na família, na profissão e na sociedade;
 
@@ -472,13 +552,13 @@ b) Assegurar os contactos com os meios de comunicação social;
 
 c) Incrementar a representação ou participação do Secretariado em organizações internacionais, assegurando o intercâmbio de informação e fomentando e participando na celebração de acordos de cooperação técnica.
 
-###### Art. 32.º A Repartição Administrativa compreende:
+Art. 32.º A Repartição Administrativa compreende:
 
 a) Secção de Pessoal e Expediente;
 
 b) Secção de Contabilidade e Património.
 
-###### Art. 33.º São atribuições da Repartição Administrativa:
+Art. 33.º São atribuições da Repartição Administrativa:
 
 a) Assegurar os serviços de contabilidade, de expediente geral e arquivo e de administração do pessoal do Secretariado;
 
@@ -486,7 +566,7 @@ b) Prestar apoio administrativo aos órgãos e serviços do Secretariado;
 
 c) Assegurar os serviços de tesouraria.
 
-###### Art. 34.º Compete à Secção de Pessoal e Expediente:
+Art. 34.º Compete à Secção de Pessoal e Expediente:
 
 a) Assegurar as operações relacionadas com o recrutamento, selecção e promoção do pessoal;
 
@@ -500,7 +580,7 @@ e) Coordenar e organizar o registo central dos funcionários e o registo das cla
 
 f) Assegurar os serviços de expedição, registo, classificação e distribuição de correspondência.
 
-###### Art. 35.º Compete à Secção de Contabilidade e Património:
+Art. 35.º Compete à Secção de Contabilidade e Património:
 
 a) Propor, realizar e processar as despesas, de acordo com o orçamento aprovado e o programa de actividades do Secretariado e com observância das normas gerais referentes à contabilidade pública;
 
@@ -514,13 +594,13 @@ e) Proceder à distribuição do material de consumo corrente e gerir o respecti
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 36.º - 1 - O Secretariado dispõe do pessoal constante do quadro publicado em anexo ao presente diploma.
+Art. 36.º - 1 - O Secretariado dispõe do pessoal constante do quadro publicado em anexo ao presente diploma.
 
 2 - O quadro referido no número anterior poderá ser alterado por portaria referendada pelo Primeiro-Ministro, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa.
 
 3 - A distribuição do pessoal do Secretariado será efectuada por despacho do secretário nacional.
 
-###### Art. 37.º - 1 - O secretário nacional será nomeado por despacho do Primeiro-Ministro de entre pessoal de reconhecida competência e sensibilização para a problemática da reabilitação de deficientes e de acordo com o disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 37.º - 1 - O secretário nacional será nomeado por despacho do Primeiro-Ministro de entre pessoal de reconhecida competência e sensibilização para a problemática da reabilitação de deficientes e de acordo com o disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - O lugar de secretário-adjunto será provido por despacho do Primeiro-Ministro, sob proposta do secretário nacional e de acordo com o disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
@@ -528,47 +608,47 @@ e) Proceder à distribuição do material de consumo corrente e gerir o respecti
 
 4 - Quando a escolha recaia em trabalhadores de empresas públicas, nacionalizadas ou privadas, será aplicável o regime previsto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e a legislação em vigor para requisição ao sector privado.
 
-###### Art. 38.º Aos lugares de director de serviços e de chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 38.º Aos lugares de director de serviços e de chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 39.º - 1 - Os lugares de assessor, de técnico superior principal, de técnico superior de 1.ª classe e de técnico superior de 2.ª classe serão providos, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com a posse de licenciatura adequada.
+Art. 39.º - 1 - Os lugares de assessor, de técnico superior principal, de técnico superior de 1.ª classe e de técnico superior de 2.ª classe serão providos, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com a posse de licenciatura adequada.
 
 2 - Os lugares de técnicos principal, de 1.ª classe e de 2.ª classe serão providos, mediante concurso documental, de entre diplomados com curso superior adequado, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 40.º O lugar de chefe de repartição será provido de entre chefes de secção com um mínimo de 3 anos de bom e efectivo serviço nesta categoria ou de entre indivíduos habilitados com curso superior adequado.
+Art. 40.º O lugar de chefe de repartição será provido de entre chefes de secção com um mínimo de 3 anos de bom e efectivo serviço nesta categoria ou de entre indivíduos habilitados com curso superior adequado.
 
-###### Art. 41.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço nestas categorias.
+Art. 41.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço nestas categorias.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos, mediante concurso documental, de entre indivíduos com o curso geral do ensino secundário ou habilitações equivalentes, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 42.º Os lugares de chefe de secção serão providos de entre primeiros-oficiais e técnicos auxiliares principais com mais de 3 anos de bom e efectivo serviço nesta categoria ou entre diplomados com curso superior adequado ao desempenho das funções.
+Art. 42.º Os lugares de chefe de secção serão providos de entre primeiros-oficiais e técnicos auxiliares principais com mais de 3 anos de bom e efectivo serviço nesta categoria ou entre diplomados com curso superior adequado ao desempenho das funções.
 
-###### Art. 43.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 43.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de terceiro-oficial serão providos nos termos previstos no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 3 - O provimento nos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 44.º - 1 - Os lugares de operadores de reprografia de 1.ª classe e de 2.ª classe serão providos, respectivamente, de entre operadores de reprografia de 2.ª classe e de 3.ª classe com, pelo menos, 3 anos de bom e efectivo serviço.
+Art. 44.º - 1 - Os lugares de operadores de reprografia de 1.ª classe e de 2.ª classe serão providos, respectivamente, de entre operadores de reprografia de 2.ª classe e de 3.ª classe com, pelo menos, 3 anos de bom e efectivo serviço.
 
 2 - Os lugares de operador de reprografia de 3.ª classe serão providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 45.º Os lugares de motorista, telefonista, contínuo e servente serão providos nos termos da lei geral.
+Art. 45.º Os lugares de motorista, telefonista, contínuo e servente serão providos nos termos da lei geral.
 
-###### Art. 46.º - 1 - Para a realização de trabalhos que requeiram formação e experiência especializadas poderá o Secretariado requisitar funcionários de outros serviços, mediante despacho do Primeiro-Ministro sujeito a visto do Tribunal de Contas e publicação, obtida a concordância prévia do ministro da tutela.
+Art. 46.º - 1 - Para a realização de trabalhos que requeiram formação e experiência especializadas poderá o Secretariado requisitar funcionários de outros serviços, mediante despacho do Primeiro-Ministro sujeito a visto do Tribunal de Contas e publicação, obtida a concordância prévia do ministro da tutela.
 
 2 - O pessoal requisitado poderá optar pelo vencimento e demais abonos do lugar de origem, que apenas poderá ser preenchido interinamente.
 
 3 - O tempo de serviço prestado pelos funcionários requisitados contará, para todos os efeitos legais, como se tivesse sido prestado no quadro de origem, nomeadamente os relativos à aposentação e à progressão na carreira.
 
-###### Art. 47.º O Secretariado poderá, nos termos e pelos fundamentos previstos na lei geral, contratar além do quadro ou em regime de prestação eventual de serviços o pessoal que for julgado necessário para a realização de trabalhos eventuais ou extraordinários.
+Art. 47.º O Secretariado poderá, nos termos e pelos fundamentos previstos na lei geral, contratar além do quadro ou em regime de prestação eventual de serviços o pessoal que for julgado necessário para a realização de trabalhos eventuais ou extraordinários.
 
-###### Art. 48.º - 1 - Para a realização de estudos específicos, inquéritos ou outros trabalhos de carácter eventual poderá o Secretariado Nacional celebrar contratos de tarefa com quaisquer entidades nacionais ou estrangeiras, nos termos da lei geral.
+Art. 48.º - 1 - Para a realização de estudos específicos, inquéritos ou outros trabalhos de carácter eventual poderá o Secretariado Nacional celebrar contratos de tarefa com quaisquer entidades nacionais ou estrangeiras, nos termos da lei geral.
 
 2 - Os contratos deverão ser sempre reduzidos a escrito, mencionar a natureza do trabalho, o montante da remuneração e o prazo previsto para a sua execução e contam ainda, obrigatoriamente, a menção de que não conferem a qualidade de agente administrativo.
 
 ### CAPÍTULO IV — Gestão financeira e património
 
-###### Art. 49.º Constituem receitas do Secretariado:
+Art. 49.º Constituem receitas do Secretariado:
 
 a) As dotações e subsídios do Estado ou de outras entidades públicas;
 
@@ -580,17 +660,17 @@ d) Os rendimentos dos bens que fruir a qualquer título;
 
 e) Quaisquer outras receitas que legalmente lhe pertençam ou sejam atribuídas.
 
-###### Art. 50.º - 1 - O Secretariado arrecadará e administrará as suas receitas e, por meio delas, satisfará as despesas necessárias ao exercício das suas atribuições.
+Art. 50.º - 1 - O Secretariado arrecadará e administrará as suas receitas e, por meio delas, satisfará as despesas necessárias ao exercício das suas atribuições.
 
 2 - Para tanto organizará o seu próprio orçamento anual, o qual será sujeito ao visto do Ministro de Estado e das Finanças e do Plano e à aprovação do Primeiro-Ministro.
 
-###### Art. 51.º - 1 - Observados os condicionalismos legais aplicáveis, o Secretariado pode adquirir, administrar e alienar bens.
+Art. 51.º - 1 - Observados os condicionalismos legais aplicáveis, o Secretariado pode adquirir, administrar e alienar bens.
 
 2 - A aquisição ou alienação de bens imobiliários, assim como a celebração de contratos de arrendamento, depende de autorização do Primeiro-Ministro.
 
-###### Art. 52.º A aceitação de heranças, legados ou doações de que resultem encargos para o Secretariado apenas poderá ter lugar mediante autorização do Primeiro-Ministro, ouvido o Ministro de Estado e das Finanças e do Plano.
+Art. 52.º A aceitação de heranças, legados ou doações de que resultem encargos para o Secretariado apenas poderá ter lugar mediante autorização do Primeiro-Ministro, ouvido o Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 53.º - 1 - As receitas do Secretariado são depositadas na Caixa Geral de Depósitos, sendo a conta movimentada pela assinatura conjunta do secretário nacional e do secretário-adjunto ou do chefe da Repartição Administrativa ou, ainda, por delegação do primeiro, pela assinatura dos dois últimos.
+Art. 53.º - 1 - As receitas do Secretariado são depositadas na Caixa Geral de Depósitos, sendo a conta movimentada pela assinatura conjunta do secretário nacional e do secretário-adjunto ou do chefe da Repartição Administrativa ou, ainda, por delegação do primeiro, pela assinatura dos dois últimos.
 
 2 - Os levantamentos de fundos serão efectuados por meio de cheques nominativos.
 
@@ -598,24 +678,24 @@ e) Quaisquer outras receitas que legalmente lhe pertençam ou sejam atribuídas.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 54.º A transição do pessoal ao serviço no Secretariado Nacional de Reabilitação para os lugares do quadro a que se refere o artigo 36.º far-se-á, em prejuízo do disposto na alínea b) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, com respeito pelas habilitações legais estabelecidas para categoria idêntica à que o funcionário ou agente já possui.
+Art. 54.º A transição do pessoal ao serviço no Secretariado Nacional de Reabilitação para os lugares do quadro a que se refere o artigo 36.º far-se-á, em prejuízo do disposto na alínea b) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, com respeito pelas habilitações legais estabelecidas para categoria idêntica à que o funcionário ou agente já possui.
 
-###### Art. 55.º As situações de requisição existentes no Secretariado mantêm-se nos precisos termos da sua constituição à data da entrada em vigor do presente diploma.
+Art. 55.º As situações de requisição existentes no Secretariado mantêm-se nos precisos termos da sua constituição à data da entrada em vigor do presente diploma.
 
-###### Art. 56.º - As competências atribuídas à Comissão Militar de Reabilitação e Assistência (CMRA) pelo [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, e pela [Portaria n.º 73/76](https://diariodarepublica.pt/dr/detalhe/portaria/73-1976-506790), de 11 de Fevereiro, constituem responsabilidade do Secretariado Nacional de Reabilitação, com excepção das alíneas d) e h) do n.º 2 da [Portaria n.º 73/76](https://diariodarepublica.pt/dr/detalhe/portaria/73-1976-506790), de 11 de Fevereiro, que constituem atribuições dos departamentos adequados.
+Art. 56.º - As competências atribuídas à Comissão Militar de Reabilitação e Assistência (CMRA) pelo [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, e pela [Portaria n.º 73/76](https://diariodarepublica.pt/dr/detalhe/portaria/73-1976-506790), de 11 de Fevereiro, constituem responsabilidade do Secretariado Nacional de Reabilitação, com excepção das alíneas d) e h) do n.º 2 da [Portaria n.º 73/76](https://diariodarepublica.pt/dr/detalhe/portaria/73-1976-506790), de 11 de Fevereiro, que constituem atribuições dos departamentos adequados.
 
-###### Art. 57.º As vagas do quadro anexo só poderão ser preenchidas por pessoal já vinculado à função pública.
+Art. 57.º As vagas do quadro anexo só poderão ser preenchidas por pessoal já vinculado à função pública.
 
-###### Art. 58.º Ficam revogados o [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, o [Decreto-Lei n.º 442/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1979-363282), de 9 de Novembro, a [Portaria n.º 287-A/79](https://diariodarepublica.pt/dr/detalhe/portaria/287-a-1979-269619), de 20 de Junho, a [Portaria n.º 375/80](https://diariodarepublica.pt/dr/detalhe/portaria/375-1980-471741), de 7 de Julho, o n.º 3 da [Portaria n.º 547/80](https://diariodarepublica.pt/dr/detalhe/portaria/547-1980-469776), de 28 de Agosto, e os artigos 1.º e 2.º do [Decreto-Lei n.º 574/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/574-1980-226599), de 31 de Dezembro.
+Art. 58.º Ficam revogados o [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, o [Decreto-Lei n.º 442/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1979-363282), de 9 de Novembro, a [Portaria n.º 287-A/79](https://diariodarepublica.pt/dr/detalhe/portaria/287-a-1979-269619), de 20 de Junho, a [Portaria n.º 375/80](https://diariodarepublica.pt/dr/detalhe/portaria/375-1980-471741), de 7 de Julho, o n.º 3 da [Portaria n.º 547/80](https://diariodarepublica.pt/dr/detalhe/portaria/547-1980-469776), de 28 de Agosto, e os artigos 1.º e 2.º do [Decreto-Lei n.º 574/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/574-1980-226599), de 31 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 12 de Agosto de 1982.**
+Promulgado em 12 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal a que se refere o artigo 36.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20600/26312639.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20600/26312639.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20600/26312639.pdf)

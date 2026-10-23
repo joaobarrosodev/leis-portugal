@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11900/18911891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1983-451454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88a58964be87b96c6554fe16d13b7a296899f943dff470c9820c3763f61da3bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e9422c23fb572ff5354c61060521917067c173c5b0460d673c94b0e039374ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Forças Armadas
+- Pensões
 relationships:
 - type: amended_by
   target: pt:dre:404743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:404743:por
+  label: "Revogado pelo DEC LEI.316/2002.2002.12.27.MDN DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-2002-404743
+  date: '2002-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:00Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +102,20 @@ de 24 de Maio
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As pensões a que tenham direito os condecorados com as medalhas de valor militar e da cruz de guerra são actualizadas para um quantitativo igual a 10% do vencimento base de capitão.
+Artigo 1.º As pensões a que tenham direito os condecorados com as medalhas de valor militar e da cruz de guerra são actualizadas para um quantitativo igual a 10% do vencimento base de capitão.
 
-###### Art. 2.º Estas pensões serão actualizadas sempre que o vencimento base referido no artigo anterior seja alterado.
+Art. 2.º Estas pensões serão actualizadas sempre que o vencimento base referido no artigo anterior seja alterado.
 
-###### Art. 3.º O presente diploma produzirá efeitos a partir do mês seguinte ao da sua publicação.
+Art. 3.º O presente diploma produzirá efeitos a partir do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Ricardo Manuel Simões Bayão Horta - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 6 de Maio de 1983.**
+Promulgado em 6 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES**
+O Presidente da República, ANTÓNIO RAMALHO EANES
 
-**Referendado em 10 de Maio de 1983.**
+Referendado em 10 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

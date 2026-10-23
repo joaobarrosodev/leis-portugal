@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11000/16991706.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1983-451603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d12ff99de30739659c8cee9b8aa3de12d19f62fc3a449add65222cb820755418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b9d183b877578a6bb178532359820a4bde273252097eebf7d94e25201b8e0bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Fraude Comercial
 relationships:
 - type: amended_by
   target: pt:dre:302294:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419007:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade orgânica da alínea c) do n.º 2 do artigo 9.º pelo\
+    \ AC.187/87.17.06.1987.TCS, DR.IS [137] de 17.06.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/187-1987-419007
+  date: '1987-06-17'
+- type: amended_by
+  target: pt:dre:377936:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes do nº 1 do art. 9º, da al.\
+    \ a) do nº 1 do art. 22º e do art. 35º, pelo AC.158/88.1988.07.12.TCS, DR.IS, DR.IS [174] de 29/Jul/1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/158-1988-377936
+  date: '1988-07-12'
+- type: amended_by
+  target: pt:dre:377944:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes de parte do art. 9º, nº 1,\
+    \ do art. 10º, nº 1, al. a), do art. 22º, nº 1, al. a) e do art. 35º, pelo AC.177/88.1988.07.14.TCS, DR.IS [174] de 29/Jul/1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/177-1988-377944
+  date: '1988-07-14'
+- type: amended_by
+  target: pt:dre:619534:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas de parte dos arts. 1º, 7º, art. 9º, nº\
+    \ 1, art. 28º, 29º als. a), b) e c), arts. 30º a 34º e 36º a 44º, nº 2 als. a), b), d), e) e f) e nºs. 3 a 6, art. 10º,\
+    \ nº 1, als. b), c), e d), nº 2, arts. 11º a 18º, art. 19º nºs. 1 e 2, arts. 20º, 21º, 22º, nº 1, als. b), c), d) e e)\
+    \ e nºs. 2, 3, e 4, e declarada ainda a inconstitucionalidade, com força obrigatória geral, das normas constantes dos\
+    \ arts. 24º, 45º, 46º e 49º, pelo AC.414/89.1989.06.07.TCS, DR.IS [150] de 03/Jul/1989\089\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/414-1989-619534
+  date: '1989-06-07'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316347:por
+  label: Rectificado pela DECL.DD5797.22.06.1983.PCM, DR.IS [148-2.º Supl] de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316347
+  date: '1983-06-22'
+- type: repealed_by
+  target: pt:dre:210809:por
+  label: "Revogado pelo DEC LEI.424/86.1986.12.27.MF, DR.IS [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/424-1986-210809
+  date: '1986-12-27'
+- type: repealed_by
+  target: pt:dre:302294:por
+  label: Revogado pelo DEC LEI.376-A/89.1989.10.25.MF, DR.IS [246]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-a-1989-302294
+  date: '1989-10-25'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:39Z'
   warnings: []
   errors: []
 ---
@@ -573,12 +630,12 @@ Se o civilmente responsável não fizer o depósito a que alude o n.º 2 do arti
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 23 de Abril de 1983.**
+Promulgado em 23 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Abril de 1983.**
+Referendado em 27 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/05100/04700471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1982-599927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e53d45bb0afb9cf832087f888f8e46bbd4ae81a45193bb61c34b46dde0e8d87d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8155a8dc7f4d5ab9e076364706517ae1210746547f0d08c6f1f009a02e91bd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Crime
+- Direito Penal
+- Droga
+- Exportação
+- Importação
+- Responsabilidade Criminal
+- Venda
 relationships:
 - type: amended_by
   target: pt:dre:443290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443290:por
+  label: "Revogado pelo DEC LEI.430/83.13.12.1983.MJ, DR.IS [285] de 13.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/430-1983-443290
+  date: '1983-12-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:36Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +115,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - São incluídos na lista IV da Convenção sobre Substâncias Psicotrópicas, assinada em Viena em 21 de Fevereiro de 1971 e aprovada, para adesão, pelo [Decreto n.º 10/79](https://diariodarepublica.pt/dr/detalhe/decreto/10-1979-392622), de 30 de Janeiro, os seguintes produtos:
+Artigo único. - 1 - São incluídos na lista IV da Convenção sobre Substâncias Psicotrópicas, assinada em Viena em 21 de Fevereiro de 1971 e aprovada, para adesão, pelo [Decreto n.º 10/79](https://diariodarepublica.pt/dr/detalhe/decreto/10-1979-392622), de 30 de Janeiro, os seguintes produtos:
 
 Fentermina a, a dimetilfenetilamina;
 
@@ -106,8 +127,8 @@ Benzefetamina-N-benzil-N, a dimetilfenetilamina.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 15 de Fevereiro de 1982.**
+Promulgado em 15 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

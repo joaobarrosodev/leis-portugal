@@ -192,6 +192,20 @@ jurisdictions:
       label_pt: Acordo Coletivo de Trabalho
       path: acordos-coletivos-trabalho
       aliases: [acordo-colectivo-trabalho]
+# Tipos que, nos sitemaps do DRE, são sobretudo atos da 2.ª Série (centenas de
+# milhares de despachos, avisos, editais...). `collect dre --missing` conta-os, mas
+# só os recolhe com --all ou quando indicados em --types.
+sitemap_optional:
+  - despacho
+  - despacho-extrato
+  - aviso
+  - aviso-extrato
+  - edital
+  - deliberacao
+  - declaracao
+  - regulamento
+  - diretiva
+  - acordo-coletivo-trabalho
 territories:
   acores:
     label_pt: Região Autónoma dos Açores

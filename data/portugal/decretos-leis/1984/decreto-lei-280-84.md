@@ -49,40 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c7b354d36e287bec5270c9e210ce6af4fb637a22909911b6787c5cd1c7fb0a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c50b144d432a593b022f9f85468619672e007478f0ebe313c106d7eda2d5aa7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Santa Casa da Misericórdia
+- Totobola
 relationships:
 - type: amended_by
   target: pt:dre:404744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546379:por
+  label: "Revogado pelo DEC LEI.84/85.28.03.1985.MTSS, DR.IS [73]Supl de 28.03.1985, na parte prejudicada no disposto do mesmo\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1985-546379
+  date: '1985-03-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:18Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +114,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º e 13.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, com as alterações introduzidas por legislação subsequente, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º e 13.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, com as alterações introduzidas por legislação subsequente, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º ...
 
@@ -117,56 +130,56 @@ c) A não utilização do sinal convencional obrigatório a que se refere a alí
 
 ...
 
-###### Art. 6.º A superintendência e fiscalização das operações de microfilmagem e escrutínio das matrizes das apostas, bem como a deliberação sobre a atribuição dos prémios, competem a um júri, designado júri de concursos, constituído pelo director do Departamento de Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa, ou seu substituto, que presidirá, por um representante do Governo Civil de Lisboa e por um representante da Inspecção-Geral de Finanças.
+Art. 6.º A superintendência e fiscalização das operações de microfilmagem e escrutínio das matrizes das apostas, bem como a deliberação sobre a atribuição dos prémios, competem a um júri, designado júri de concursos, constituído pelo director do Departamento de Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa, ou seu substituto, que presidirá, por um representante do Governo Civil de Lisboa e por um representante da Inspecção-Geral de Finanças.
 
 § 1.º Da recepção dos microfilmes das matrizes e do escrutínio das apostas serão lavradas actas, a assinar pelo júri.
 
 ...
 
-###### Art. 8.º Do Regulamento Geral dos Concursos constará o limite mínimo a considerar na divisão do montante de cada prémio, bem como a forma de atribuição das importâncias que não atinjam esse limite.
+Art. 8.º Do Regulamento Geral dos Concursos constará o limite mínimo a considerar na divisão do montante de cada prémio, bem como a forma de atribuição das importâncias que não atinjam esse limite.
 
-###### Art. 9.º Os concorrentes que se considerem com direito a prémios poderão reclamar da atribuição destes para o júri designado no artigo 10.º dentro dos prazos fixados no Regulamento Geral dos Concursos, os quais não deverão exceder 60 dias a contar da data da realização do concurso.
+Art. 9.º Os concorrentes que se considerem com direito a prémios poderão reclamar da atribuição destes para o júri designado no artigo 10.º dentro dos prazos fixados no Regulamento Geral dos Concursos, os quais não deverão exceder 60 dias a contar da data da realização do concurso.
 
-###### Art. 10.º As reclamações serão julgadas por um júri, designado júri de reclamações, constituído por um magistrado designado pelo Conselho Superior da Magistratura, que presidirá, por um representante do Governo Civil de Lisboa, por um representante da Santa Casa da Misericórdia de Lisboa e por um representante da Inspecção-Geral de Finanças.
+Art. 10.º As reclamações serão julgadas por um júri, designado júri de reclamações, constituído por um magistrado designado pelo Conselho Superior da Magistratura, que presidirá, por um representante do Governo Civil de Lisboa, por um representante da Santa Casa da Misericórdia de Lisboa e por um representante da Inspecção-Geral de Finanças.
 
 § 1.º O júri a que se refere o presente artigo não poderá ser integrado por qualquer dos membros do júri que haja proferido a deliberação impugnada.
 
 § 2.º Das deliberações do mesmo júri apenas caberá recurso contencioso de anulação para a Auditoria Administrativa de Lisboa, nos termos da legislação geral aplicável.
 
-###### Art. 11.º O direito aos prémios caduca no prazo de 90 dias a contar da data da realização do concurso, constituindo o respectivo montante receita da Santa Casa da Misericórdia de Lisboa.
+Art. 11.º O direito aos prémios caduca no prazo de 90 dias a contar da data da realização do concurso, constituindo o respectivo montante receita da Santa Casa da Misericórdia de Lisboa.
 
 § único. O prazo a que se refere o corpo do presente artigo bem como os casos e circunstâncias em que possa ocorrer a sua suspensão poderão ser alterados pelo Regulamento Geral dos Concursos.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 § 1.º O júri de concursos apenas conferirá direito a prémio às apostas que hajam acertado no máximo de resultados, às que tenham um só resultado errado e às que apresentem dois resultados errados.
 
 § 2.º É permitida a acumulação do montante de prémios não atribuídos num concurso ao montante de prémios do concurso imediatamente seguinte ou a outras categorias de prémios que se verificarem no mesmo concurso, em condições a fixar no Regulamento Geral dos Concursos.
 
-###### Art. 13.º Da receita de cada concurso, a qual é constituída pelo montante total das apostas admitidas e das anuladas sem direito a restituição, nos termos do Regulamento Geral dos Concursos, será destinada obrigatoriamente à integração de prémios uma importância nunca inferior a 45% nem superior a 55%, a fixar naquele Regulamento.
+Art. 13.º Da receita de cada concurso, a qual é constituída pelo montante total das apostas admitidas e das anuladas sem direito a restituição, nos termos do Regulamento Geral dos Concursos, será destinada obrigatoriamente à integração de prémios uma importância nunca inferior a 45% nem superior a 55%, a fixar naquele Regulamento.
 
-###### Art. 2.º É reconhecido à Santa Casa da Misericórdia de Lisboa o direito exclusivo ao uso de emblema e logotipo do modelo anexo a este decreto-lei.
+Art. 2.º É reconhecido à Santa Casa da Misericórdia de Lisboa o direito exclusivo ao uso de emblema e logotipo do modelo anexo a este decreto-lei.
 
-###### Art. 3.º O Departamento de Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa poderá organizar sorteios de prémios, quer em espécie, quer em dinheiro, adicionais aos dos concursos e em simultâneo com estes, para finalidades de natureza comercial.
+Art. 3.º O Departamento de Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa poderá organizar sorteios de prémios, quer em espécie, quer em dinheiro, adicionais aos dos concursos e em simultâneo com estes, para finalidades de natureza comercial.
 
-###### Art. 4.º - 1 - Da soma das receitas arrecadadas anualmente será deduzida uma importância de 1%, até ao montante máximo de 100000 contos, para constituição de um fundo previsional de pagamento de prémios por reclamações, quando se tenha concretizado uma transferência, para o concurso seguinte, do valor de prémios, nas condições previstas no § 2.º do artigo 12.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Junho de 1961, na redacção que lhe é dada pelo presente diploma.
+Art. 4.º - 1 - Da soma das receitas arrecadadas anualmente será deduzida uma importância de 1%, até ao montante máximo de 100000 contos, para constituição de um fundo previsional de pagamento de prémios por reclamações, quando se tenha concretizado uma transferência, para o concurso seguinte, do valor de prémios, nas condições previstas no § 2.º do artigo 12.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Junho de 1961, na redacção que lhe é dada pelo presente diploma.
 
 2 - Os rendimentos do fundo a que se refere o número anterior constituem receita da exploração.
 
-###### Art. 5.º Para a execução dos trabalhos relativos às diferentes operações dos concursos, poderá o Departamento de Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa recorrer a pessoal externo, mediante a celebração de contratos de tarefa, os quais definirão o trabalho a realizar e a remuneração a praticar.
+Art. 5.º Para a execução dos trabalhos relativos às diferentes operações dos concursos, poderá o Departamento de Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa recorrer a pessoal externo, mediante a celebração de contratos de tarefa, os quais definirão o trabalho a realizar e a remuneração a praticar.
 
-###### Art. 6.º Ficam revogadas todas as disposições constantes da legislação anteriormente publicada que se mostrem incompatíveis com as do presente diploma.
+Art. 6.º Ficam revogadas todas as disposições constantes da legislação anteriormente publicada que se mostrem incompatíveis com as do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo.
 
-**Promulgado em 3 de Agosto de 1984.**
+Promulgado em 3 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Agosto de 1984.**
+Referendado em 7 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18700/24902491.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18700/24902491.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18700/24902491.pdf)

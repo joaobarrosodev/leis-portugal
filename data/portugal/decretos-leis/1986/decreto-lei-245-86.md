@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1986-219094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95584d97edb47cd33e5c28e8dda931837b68b7c0f6f483dc6bf92e0124015af9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f15989398bd0c0bbd406c882df871d9ec5a7ad4cb57e0583c21a0f15b1fbfdea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Doutoramento
+- Ensino Superior
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:488485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:488485:por
+  label: "Revogado, sem prejuízo do disposto na al. f) do n.º 3 do art. 10.º, pelo DEC LEI.205/2009.31.08.2009.MCTES, DR.IS\
+    \ [168] de 31.08.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2009-488485
+  date: '2009-08-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:20Z'
   warnings: []
   errors: []
 ---
@@ -102,23 +128,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Se até 30 dias antes do termo do 3.º ano de exercício de funções o assistente não tiver manifestado intenção de se preparar para o doutoramento, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, o professor que, nos termos do artigo 81.º do Estatuto da Carreira Docente Universitária, é responsável pela sua formação e orientação deve, em relatório fundamentado, propor, obrigatoriamente, o reconhecimento ou negação da capacidade do assistente com vista à preparação de doutoramento.
+Artigo 1.º - 1 - Se até 30 dias antes do termo do 3.º ano de exercício de funções o assistente não tiver manifestado intenção de se preparar para o doutoramento, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, o professor que, nos termos do artigo 81.º do Estatuto da Carreira Docente Universitária, é responsável pela sua formação e orientação deve, em relatório fundamentado, propor, obrigatoriamente, o reconhecimento ou negação da capacidade do assistente com vista à preparação de doutoramento.
 
 2 - O conselho científico pronunciar-se-á obrigatoriamente no prazo de 30 dias.
 
 3 - Nos casos de decisão desfavorável, o assistente pode candidatar-se a doutoramento em outras instituições de ensino superior.
 
-###### Art. 2.º - 1 - Os assistentes que obtiverem, nos termos do artigo 1.º, parecer favorável do conselho científico deverão declarar, até ao termo do 4.º ano de contrato, a sua intenção de preparar doutoramento, devendo o conselho científico, no prazo de três meses, designar supervisor e tomar as medidas necessárias a assegurar os meios para a prossecução do trabalho de investigação conducente ao doutoramento.
+Art. 2.º - 1 - Os assistentes que obtiverem, nos termos do artigo 1.º, parecer favorável do conselho científico deverão declarar, até ao termo do 4.º ano de contrato, a sua intenção de preparar doutoramento, devendo o conselho científico, no prazo de três meses, designar supervisor e tomar as medidas necessárias a assegurar os meios para a prossecução do trabalho de investigação conducente ao doutoramento.
 
 2 - Em relação aos assistentes aos quais o conselho científico reconheceu capacidade para obter doutoramento, mas não exista supervisor na instituição, deve, até ao termo do ano civil em curso, elaborar-se uma lista a remeter à Direcção-Geral do Ensino Superior e ao Instituto Nacional de Investigação Científica.
 
-###### Art. 3.º Até ao termo de cada ano civil, as instituições de ensino superior remeterão ao Instituto Nacional de Investigação Científica e à Direcção-Geral do Ensino Superior uma lista das áreas em que supervisionam doutoramento, com indicação de supervisores, temas de doutoramentos e números de doutorandos a admitir, sem prejuízo de serem contactadas outras instituições para suprir essa inexistência.
+Art. 3.º Até ao termo de cada ano civil, as instituições de ensino superior remeterão ao Instituto Nacional de Investigação Científica e à Direcção-Geral do Ensino Superior uma lista das áreas em que supervisionam doutoramento, com indicação de supervisores, temas de doutoramentos e números de doutorandos a admitir, sem prejuízo de serem contactadas outras instituições para suprir essa inexistência.
 
-###### Art. 4.º Em face das listas constantes dos artigos 2.º e 3.º e sob propostas fundamentadas pelo Instituto Nacional de Investigação Científica, o Ministério da Educação e Cultura definirá, por despacho, os critérios para a atribuição das bolsas de doutoramento e respectivas áreas.
+Art. 4.º Em face das listas constantes dos artigos 2.º e 3.º e sob propostas fundamentadas pelo Instituto Nacional de Investigação Científica, o Ministério da Educação e Cultura definirá, por despacho, os critérios para a atribuição das bolsas de doutoramento e respectivas áreas.
 
-###### Art. 5.º Sempre que, por razões devidamente justificadas, não for possível assegurar aos assistentes o direito a dispensa de actividades docentes previsto no n.º 1 do artigo 27.º do Estatuto da Carreira Docente Universitária, as instituições a que os mesmos se encontrem vinculados ficam obrigadas a prorrogar o respectivo contrato por mais um ano, renovável por mais um biénio e com dispensa total de serviço docente, exclusivamente para preparação do doutoramento.
+Art. 5.º Sempre que, por razões devidamente justificadas, não for possível assegurar aos assistentes o direito a dispensa de actividades docentes previsto no n.º 1 do artigo 27.º do Estatuto da Carreira Docente Universitária, as instituições a que os mesmos se encontrem vinculados ficam obrigadas a prorrogar o respectivo contrato por mais um ano, renovável por mais um biénio e com dispensa total de serviço docente, exclusivamente para preparação do doutoramento.
 
-###### Art. 6.º - 1 - Terão o contrato terminado no termo do prazo fixado no n.º 1 do artigo 26.º do Estatuto da Carreira Docente Universitária os assistentes que:
+Art. 6.º - 1 - Terão o contrato terminado no termo do prazo fixado no n.º 1 do artigo 26.º do Estatuto da Carreira Docente Universitária os assistentes que:
 
 a) Tendo tido parecer favorável do conselho científico para prepararem doutoramento, não manifestem, até ao termo do 4.º ano de exercício de funções como assistentes, intenção de para ele se prepararem;
 
@@ -126,18 +152,18 @@ b) Não tendo tido parecer favorável do conselho científico para prepararem do
 
 2 - Os assistentes que tenham requerido provas de doutoramento e sejam reprovados nessas provas terão o contrato terminado no termo do prazo fixado no n.º 1 do artigo 26.º do Estatuto da Carreira Docente Universitária ou imediatamente, caso esse prazo já tenha sido excedido por força de prorrogações efectuadas nos termos legais.
 
-###### Art. 7.º Com vista a uma mais criteriosa distribuição de financiamentos, a Direcção-Geral do Ensino Superior e o Instituto Nacional de Investigação Científica manterão uma estatística actualizada dos doutoramentos efectuados em Portugal, referindo, nomeadamente, a sua distribuição, número de aprovações e reprovações e recusas de admissão a doutoramento.
+Art. 7.º Com vista a uma mais criteriosa distribuição de financiamentos, a Direcção-Geral do Ensino Superior e o Instituto Nacional de Investigação Científica manterão uma estatística actualizada dos doutoramentos efectuados em Portugal, referindo, nomeadamente, a sua distribuição, número de aprovações e reprovações e recusas de admissão a doutoramento.
 
-###### Art. 8.º O Ministro da Educação e Cultura, em casos especiais devidamente justificados, pode determinar que certas áreas estão em situação de crise, definindo, sob proposta do Instituto Nacional de Investigação Científica, os meios e as acções específicos a adoptar com vista à resolução dessas situações pontuais.
+Art. 8.º O Ministro da Educação e Cultura, em casos especiais devidamente justificados, pode determinar que certas áreas estão em situação de crise, definindo, sob proposta do Instituto Nacional de Investigação Científica, os meios e as acções específicos a adoptar com vista à resolução dessas situações pontuais.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 29 de Julho de 1986.**
+Promulgado em 29 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1986.**
+Referendado em 30 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

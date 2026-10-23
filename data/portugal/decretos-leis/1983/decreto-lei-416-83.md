@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/27100/38753875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1983-442965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bee364685bbc12dfc5fa68ac3c5bcc06c71ee92f267858d114a043e05d0150f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90d39346f4267d689c75a2ec9e35ff9456502a2fab766eb77b62bb6d63be421a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Metrologia
+- Normalização
+- Receita Municipal
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:317900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451387:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:146002:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 26/1984, 3º Suplemento, Série I de 1984-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-146002
+  date: '1984-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:22Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +130,11 @@ Assim:
 
 No uso da autorização concedida pela alínea b) do artigo 1.º da [Lei n.º 16/83](https://diariodarepublica.pt/dr/detalhe/lei/16-1983-439446), de 6 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Da receita das taxas das operações do controle metrológico previsto no [Decreto-Lei n.º 202/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1983-451387), de 19 de Maio, efectuadas pelos serviços municipais de aferição, é atribuído ao Centro de Normalização, na dependência da Direcção-Geral da Qualidade, o montante de 10%.
+Artigo 1.º - 1 - Da receita das taxas das operações do controle metrológico previsto no [Decreto-Lei n.º 202/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1983-451387), de 19 de Maio, efectuadas pelos serviços municipais de aferição, é atribuído ao Centro de Normalização, na dependência da Direcção-Geral da Qualidade, o montante de 10%.
 
 2 - Aquele montante deverá ser remetido, através de vale postal dirigido àquele Centro, no segundo mês seguinte ao da respectiva cobrança.
 
-###### Art. 2.º - 1 - A receita das coimas aplicadas pelos directores das delegações regionais do Ministério da Indústria e Energia, nos termos do [Decreto-Lei n.º 202/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1983-451387), de 19 de Maio, tem a seguinte distribuição:
+Art. 2.º - 1 - A receita das coimas aplicadas pelos directores das delegações regionais do Ministério da Indústria e Energia, nos termos do [Decreto-Lei n.º 202/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1983-451387), de 19 de Maio, tem a seguinte distribuição:
 
 a) 25% para o autuante;
 
@@ -119,22 +146,22 @@ d) 45% para o Centro de Normalização.
 
 2 - Aqueles montantes serão remetidos às diversas entidades no prazo de 60 dias após a cobrança, mediante vale postal.
 
-###### Art. 3.º A parte das receitas a atribuir ao autuante não pode exceder 45% do respectivo vencimento anual, revertendo o excedente para o organismo a que pertencer.
+Art. 3.º A parte das receitas a atribuir ao autuante não pode exceder 45% do respectivo vencimento anual, revertendo o excedente para o organismo a que pertencer.
 
-###### Art. 4.º As receitas pertencentes aos organismos referidos nas alíneas c) e d) do n.º 1 do artigo 2.º destinam-se a financiar os respectivos laboratórios e serviços de metrologia com vista à melhoria da sua operacionalidade.
+Art. 4.º As receitas pertencentes aos organismos referidos nas alíneas c) e d) do n.º 1 do artigo 2.º destinam-se a financiar os respectivos laboratórios e serviços de metrologia com vista à melhoria da sua operacionalidade.
 
-###### Art. 5.º São revogados os artigos 10.º e 12.º do [Decreto n.º 9051](https://diariodarepublica.pt/dr/detalhe/decreto/9051-1923-317900), de 11 de Agosto de 1923.
+Art. 5.º São revogados os artigos 10.º e 12.º do [Decreto n.º 9051](https://diariodarepublica.pt/dr/detalhe/decreto/9051-1923-317900), de 11 de Agosto de 1923.
 
-###### Art. 6.º O presente diploma entra em vigor no dia 1 de Janeiro de 1984.
+Art. 6.º O presente diploma entra em vigor no dia 1 de Janeiro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - José Veiga Simão - Carlos Montez Melancia.
 
-**Promulgado em 11 de Novembro de 1983.**
+Promulgado em 11 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Novembro de 1983.**
+Referendado em 14 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

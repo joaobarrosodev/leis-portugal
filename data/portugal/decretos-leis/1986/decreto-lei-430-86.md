@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1986-210839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9730eb3d29ca7dc9f615e7b80c6331060515aa60d85ac64b490c85458d93f8fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10f49e5cb62f4cbfeb939358653846f4aa75c42059824c7b33cc44825eb1f3e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Forças Armadas
+- Gestão Administrativa
+- Regulamento
+- Subsídio de Deslocação
+- Subsídio de Transporte
+- Transporte
+- Transporte de Mercadorias
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:548809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:172293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625459:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:357151:por
+  label: Rectificado pela DECL.DD1132.1987.02.10.PCM, DR.IS [50]SUPL de 28/Fev/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-357151
+  date: '1987-02-10'
 article_structure:
-  article_count: 33
+  article_count: 32
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:31Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +130,9 @@ Considerando a necessidade de reunir em diploma único as disposições com inci
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Administração dos Transportes das Forças Armadas em Tempo de Paz (RETAFA), que faz parte integrante do presente decreto-lei.
+Artigo 1.º É aprovado o Regulamento da Administração dos Transportes das Forças Armadas em Tempo de Paz (RETAFA), que faz parte integrante do presente decreto-lei.
 
-###### Art. 2.º São revogados os seguintes diplomas:
+Art. 2.º São revogados os seguintes diplomas:
 
 a) [Decreto n.º 4439](https://diariodarepublica.pt/dr/detalhe/decreto/4439-1918-172293), de 21 de Junho de 1918;
 
@@ -110,15 +144,15 @@ d) [Decreto-Lei n.º 376/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento da Administração dos Transportes das Forças Armadas em Tempo de Paz (RETAFA)
 
@@ -418,4 +452,4 @@ Sem prejuízo do disposto em legislação especial, as disposições constantes 
 
 Mapa anexo a que se refere o artigo 22.º, n.º 1, do Regulamento da Administração dos Transportes das Forças Armadas em Tempo de Paz (RETAFA)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29900/38443848.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29900/38443848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29900/38443848.pdf)

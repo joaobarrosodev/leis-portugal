@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01800/01390139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1983-307789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95f195906f120bf7f19db1b2cf73eb6b7d70d38a4ed2ea7481fdbbc547a142a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adfe78514d15a57196186987f0d091436d7f6003af6272bff44311d9b53b1ff4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Locação Financeira
+- Responsabilidade Civil
+- Seguro
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365506:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:51Z'
   warnings: []
   errors: []
 ---
@@ -98,20 +111,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 3.º, n.º 1, e 5.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 3.º, n.º 1, e 5.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - A obrigação de segurar impende sobre o proprietário do veículo, exceptuando-se os casos de usufruto, de venda com reserva de propriedade e de locação financeira, em que a obrigação recai, respectivamente, sobre o usufrutuário, o adquirente ou o locatário em regime de locação financeira.
+Art. 3.º - 1 - A obrigação de segurar impende sobre o proprietário do veículo, exceptuando-se os casos de usufruto, de venda com reserva de propriedade e de locação financeira, em que a obrigação recai, respectivamente, sobre o usufrutuário, o adquirente ou o locatário em regime de locação financeira.
 
 2 - ...
 
-###### Art. 5.º - 1 - O seguro garantirá a responsabilidade do proprietário do veículo, usufrutuário, adquirente com reserva de propriedade, locatário em regime de locação financeira e a dos seus legítimos detentores e condutores.
+Art. 5.º - 1 - O seguro garantirá a responsabilidade do proprietário do veículo, usufrutuário, adquirente com reserva de propriedade, locatário em regime de locação financeira e a dos seus legítimos detentores e condutores.
 
 2 - Nos casos de roubo, furto ou furto de uso e acidentes de viação dolosamente provocados, o seguro não garante a responsabilidade dos respectivos autores, cúmplices ou encobridores para com o proprietário, usufrutuário, adquirente com reserva de propriedade ou locatário em regime de locação financeira.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 11 de Janeiro de 1983.**
+Promulgado em 11 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

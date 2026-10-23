@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24500/35253527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1985-178084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4f33a76f3eb76ccc57b5ff29e1ea9acf184c8e03e70372a5b013f56bba94632
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 625bfdd1f27126741cadbb0a0e29bc758caf56f9e5473329643b129a31309886
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Etiquetagem
+- Produto Alimentar
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:283925:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138123:por
+  label: Rectificado pela DECL.DD5113.18.11.1985.PCM, DR.IS [276]Supl de 30.11.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-138123
+  date: '1985-11-18'
+- type: repealed_by
+  target: pt:dre:283925:por
+  label: "Revogado pelo DEC LEI.170/92.08.08.1992.MA, DR.IS-A [182] de 08.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1992-283925
+  date: '1992-08-08'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:13Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +154,9 @@ No uso da autorização conferida pela [Lei n.º 89/85](https://diariodarepublic
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O anexo ao [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março, passa a designar-se por anexo I.
+Artigo 1.º O anexo ao [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março, passa a designar-se por anexo I.
 
-###### Art. 2.º Os artigos adiante referidos do [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março, passam a ter a seguinte redacção:
+Art. 2.º Os artigos adiante referidos do [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — (Indicações a constar na rotulagem)
 
@@ -233,19 +278,19 @@ b) A marcação da data de durabilidade mínima, quando obrigatória, não tenha
 
 4 - Aos produtos a que se refere o n.º 3 é aplicável o disposto no [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e na [Portaria n.º 471/72](https://diariodarepublica.pt/dr/detalhe/portaria/471-1972-676445), da mesma data.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos desde 23 de Março de 1985.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos desde 23 de Março de 1985.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral - Júlio Miranda Calha.
 
-**Promulgado em 11 de Outubro de 1985.**
+Promulgado em 11 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 15 de Outubro de 1985.**
+Referendado em 15 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO II
 

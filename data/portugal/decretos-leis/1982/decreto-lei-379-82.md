@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21300/27672790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1982-375778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e732cba429099174e2f1dae634fb806c2d975207097038c3e7beeb3b927a45e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7fda30c4f3acb6de696290655842a2bd062c72de142fd292961f4a545cf2963
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Registo Civil
+- Emolumento
+- Registo Civil
 relationships:
 - type: amended_by
   target: pt:dre:571071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400014:por
+  label: "Alteradas as verbas emolumentares constantes dos artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 12.º, 13.º, 14.º\
+    \ e 16.º, bem como altera os artigos 7.º, 11.º, 19.º e 20.º, todos da tabela de emolumentos do registo civil anexa ao\
+    \ código aprovado pelo Decreto Lei 51/78, de 30-Mar, com a redacção do presente diploma, pela PORT.795/84.11.10.1984.MJ,\
+    \ DR.IS [236] de 11.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/795-1984-400014
+  date: '1984-10-11'
+- type: cites
+  target: pt:dre:456873:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521238:por
+  label: "Revogado pelo DEC LEI.131/95.06.06.1995.MF, DR.IS-A [131] de 06.06.1995, a partir de 15.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1995-521238
+  date: '1995-06-06'
 article_structure:
-  article_count: 96
+  article_count: 95
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:55Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +140,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 6.º, 7.º, 13.º, 16.º, 17.º, 21.º, 23.º, 26.º, 31.º, 35.º, 41.º, 42.º, 45.º, 54.º, 61.º, 65.º, 67.º, 68.º, 69.º, 73.º, 76.º, 78.º, 84.º, 86.º, 87.º, 94.º, 95.º, 99.º, 100.º, 101.º, 108.º, 114.º, 115.º, 118.º, 119.º, 122.º, 125.º, 126.º, 128.º, 139.º, 151.º, 153.º, 154.º, 159.º, 166.º, 167.º, 177.º, 180.º, 201.º, 217.º, 223.º, 227.º, 240.º, 247.º, 256.º, 257.º, 263.º, 267.º, 269.º, 276.º, 279.º, 294.º, 295.º, 301.º, 303.º, 340.º, 341.º, 345.º, 346.º e 375.º do Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 51/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1978-456873), de 30 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 6.º, 7.º, 13.º, 16.º, 17.º, 21.º, 23.º, 26.º, 31.º, 35.º, 41.º, 42.º, 45.º, 54.º, 61.º, 65.º, 67.º, 68.º, 69.º, 73.º, 76.º, 78.º, 84.º, 86.º, 87.º, 94.º, 95.º, 99.º, 100.º, 101.º, 108.º, 114.º, 115.º, 118.º, 119.º, 122.º, 125.º, 126.º, 128.º, 139.º, 151.º, 153.º, 154.º, 159.º, 166.º, 167.º, 177.º, 180.º, 201.º, 217.º, 223.º, 227.º, 240.º, 247.º, 256.º, 257.º, 263.º, 267.º, 269.º, 276.º, 279.º, 294.º, 295.º, 301.º, 303.º, 340.º, 341.º, 345.º, 346.º e 375.º do Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 51/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1978-456873), de 30 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -1092,7 +1112,7 @@ c) De casamento dos pais do registando, dentro do processo a que se referem os a
 
 ...
 
-###### Art. 2.º A seguir ao artigo 58.º do Código do Registo Civil é intercalado o seguinte artigo:
+Art. 2.º A seguir ao artigo 58.º do Código do Registo Civil é intercalado o seguinte artigo:
 
 ###### Artigo 58.º-A — (Impedimento do funcionário)
 
@@ -1100,33 +1120,33 @@ c) De casamento dos pais do registando, dentro do processo a que se referem os a
 
 2 - O impedimento a que se refere o número anterior é extensivo aos adjuntos e ajudantes da conservatória a que pertence o conservador impedido.
 
-###### Art. 3.º A seguir ao artigo 298.º do Código do Registo Civil é intercalado o artigo seguinte:
+Art. 3.º A seguir ao artigo 298.º do Código do Registo Civil é intercalado o artigo seguinte:
 
 ###### Artigo 298.º-A — (Isenção de selo e custas)
 
 Os processos de justificação e os de afastamento da presunção de paternidade são isentos de selo e custas até à interposição de recurso.
 
-###### Art. 4.º - 1 - Os livros actualmente em uso nas conservatórias podem ser utilizados, com as necessárias adaptações, até findarem, e os modelos de impressos até 6 meses após a entrada em vigor do presente diploma.
+Art. 4.º - 1 - Os livros actualmente em uso nas conservatórias podem ser utilizados, com as necessárias adaptações, até findarem, e os modelos de impressos até 6 meses após a entrada em vigor do presente diploma.
 
 2 - Os actos lavrados pelos órgãos especiais do registo, a que se refere o artigo 12.º do Código do Registo Civil, poderão obedecer aos modelos actuais até 1 ano após a entrada em vigor do presente diploma.
 
-###### Art. 5.º São revogados o artigo 10.º, o n.º 2 do artigo 83.º, os artigos 88.º, 91.º, 158.º e 183.º, o n.º 7 do artigo 209.º, os artigos 228.º e 229.º, o n.º 2 do artigo 232.º, os artigos 249.º a 255.º e 258.º a 260.º, a alínea c) do artigo 262.º e os artigos 268.º, 307.º, 308.º e 352.º do Código do Registo Civil.
+Art. 5.º São revogados o artigo 10.º, o n.º 2 do artigo 83.º, os artigos 88.º, 91.º, 158.º e 183.º, o n.º 7 do artigo 209.º, os artigos 228.º e 229.º, o n.º 2 do artigo 232.º, os artigos 249.º a 255.º e 258.º a 260.º, a alínea c) do artigo 262.º e os artigos 268.º, 307.º, 308.º e 352.º do Código do Registo Civil.
 
-###### Art. 6.º A tabela de emolumentos e os modelos anexos ao Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 51/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1978-456873), de 30 de Março, são substituídos pela tabela e modelos anexos ao presente diploma.
+Art. 6.º A tabela de emolumentos e os modelos anexos ao Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 51/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1978-456873), de 30 de Março, são substituídos pela tabela e modelos anexos ao presente diploma.
 
-###### Art. 7.º - 1 - Aos ajudantes dos postos do registo civil não pertencentes aos quadros dos serviços do registo e do notariado será abonada mensalmente, a título de remuneração, por conta das receitas das conservatórias respectivas, quantia igual à média mensal por eles auferida nos últimos 3 anos.
+Art. 7.º - 1 - Aos ajudantes dos postos do registo civil não pertencentes aos quadros dos serviços do registo e do notariado será abonada mensalmente, a título de remuneração, por conta das receitas das conservatórias respectivas, quantia igual à média mensal por eles auferida nos últimos 3 anos.
 
 2 - A remuneração a que se refere o número anterior poderá ser actualizada, mediante portaria do Ministro da Justiça, sempre que se efectue a revisão da tabela de emolumentos do registo civil.
 
-###### Art. 8.º Este diploma entra em vigor no prazo de 30 dias a contar da data da sua publicação.
+Art. 8.º Este diploma entra em vigor no prazo de 30 dias a contar da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 6 de Julho de 1982.**
+Promulgado em 6 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 TABELA DE EMOLUMENTOS DO REGISTO CIVIL
 
@@ -1264,6 +1284,6 @@ Os actos que não estiverem expressamente compreendidos nesta tabela serão prat
 
 Os artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21300/27672790.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21300/27672790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21300/27672790.pdf)
 
-**O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.**
+O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/24000/32133213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1984-400187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21bdd1aaeeebbe7b28cbe789fd0ddc5ab3cbedd40aafeab470669f167a9dd87d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46984eac1e04bcae2b62f1a90a9bd29403a103dff05c540a0d47061bc8d1954b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:404743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:446488:por
+  label: Rectificado pela DECL.DD5316.17.10.1984.PCM, DR.IS [253]2ºSupl de 31.10.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-446488
+  date: '1984-10-17'
+- type: repealed_by
+  target: pt:dre:404743:por
+  label: "Revogado pelo DEC LEI.316/2002.2002.12.27.MDN DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-2002-404743
+  date: '2002-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:06Z'
   warnings: []
   errors: []
 ---
@@ -99,22 +110,22 @@ Considerando que, se, pela sua conduta, uma subunidade de constituição eventua
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As distinções colectivas atribuídas a uma unidade ou subunidade de constituição temporária passam, para todos os efeitos, a integrar o património histórico da unidade territorial de que aquela dependia à data da sua desmobilização.
+Artigo 1.º As distinções colectivas atribuídas a uma unidade ou subunidade de constituição temporária passam, para todos os efeitos, a integrar o património histórico da unidade territorial de que aquela dependia à data da sua desmobilização.
 
-###### Art. 2.º As distinções colectivas atribuídas a uma subunidade orgânica mantêm-se na posse da mesma enquanto nela permanecer qualquer elemento que à data da acção que motivou essa distinção já fizesse parte dos seus efectivos e só depois será imposta no estandarte da unidade.
+Art. 2.º As distinções colectivas atribuídas a uma subunidade orgânica mantêm-se na posse da mesma enquanto nela permanecer qualquer elemento que à data da acção que motivou essa distinção já fizesse parte dos seus efectivos e só depois será imposta no estandarte da unidade.
 
-###### Art. 3.º No caso específico da extinção de uma unidade territorial, as distinções que lhe foram atribuídas transitarão para o estandarte da unidade que, para todos os efeitos, seja considerada herdeira das tradições e do património histórico da unidade extinta.
+Art. 3.º No caso específico da extinção de uma unidade territorial, as distinções que lhe foram atribuídas transitarão para o estandarte da unidade que, para todos os efeitos, seja considerada herdeira das tradições e do património histórico da unidade extinta.
 
-###### Art. 4.º As distinções colectivas de unidades ou subunidades extintas em condições diferentes das previstas nos artigos anteriores serão integradas no património histórico do comando, direcção, unidade ou estabelecimento a definir pelo chefe do estado-maior do respectivo ramo.
+Art. 4.º As distinções colectivas de unidades ou subunidades extintas em condições diferentes das previstas nos artigos anteriores serão integradas no património histórico do comando, direcção, unidade ou estabelecimento a definir pelo chefe do estado-maior do respectivo ramo.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1984. - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 4 de Outubro de 1984.**
+Promulgado em 4 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Outubro de 1984.**
+Referendado em 9 de Outubro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

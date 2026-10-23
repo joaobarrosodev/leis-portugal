@@ -49,36 +49,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1985-183258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96a93ace0736650d5520825aad26207f1ec6c9dc623560e4d6fda64796b28dba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01d6e06ec23cd754898505505d5859f5bfa93114c58fdfcebd273719573d508b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- Ajuda Comunitária
+- Banco Português de Investimento
+- Caixa Geral de Depósitos
+- Contrato de Risco de Câmbio
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:33Z'
   warnings: []
   errors: []
 ---
@@ -95,28 +100,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Finanças e do Plano, ou em quem delegar, autorizado a aprovar e celebrar com a CGD e com o BPI contratos de risco de câmbio associados aos empréstimos que venham a ser contraídos por aquelas instituições junto do BEI, até aos montantes equivalentes a 20 milhões de ECU e 15 milhões de ECU, respectivamente, no quadro das ajudas de pré-adesão atribuídas pela CEE a Portugal, nas condições do presente decreto-lei.
+Artigo 1.º Fica o Ministro das Finanças e do Plano, ou em quem delegar, autorizado a aprovar e celebrar com a CGD e com o BPI contratos de risco de câmbio associados aos empréstimos que venham a ser contraídos por aquelas instituições junto do BEI, até aos montantes equivalentes a 20 milhões de ECU e 15 milhões de ECU, respectivamente, no quadro das ajudas de pré-adesão atribuídas pela CEE a Portugal, nas condições do presente decreto-lei.
 
-###### Art. 2.º - 1 - O Estado suporta os encargos decorrentes das variações cambiais reflectidas no contravalor em escudos do serviço dos empréstimos do BEI referidos no artigo 1.º resultantes da evolução desfavorável da moeda nacional face à moeda dos empréstimos verificada entre as datas de utilização daqueles financiamentos e as datas de vencimento dos correspondentes encargos.
+Art. 2.º - 1 - O Estado suporta os encargos decorrentes das variações cambiais reflectidas no contravalor em escudos do serviço dos empréstimos do BEI referidos no artigo 1.º resultantes da evolução desfavorável da moeda nacional face à moeda dos empréstimos verificada entre as datas de utilização daqueles financiamentos e as datas de vencimento dos correspondentes encargos.
 
 2 - No caso de a evolução da moeda nacional face à moeda dos empréstimos referidos no artigo 1.º ser favorável entre as datas de utilização dos financiamentos e as datas do vencimento dos correspondentes encargos, as instituições mutuárias dos empréstimos do BEI entregarão ao Estado a importância da variação reflectida no contravalor em escudos do serviço da dívida.
 
-###### Art. 3.º De acordo com o escalonamento estabelecido para o serviço da dívida dos empréstimos do BEI referidos no artigo 1.º, as instituições mutuárias entregarão ao Estado um prémio tendo por base a remuneração obtida pela aplicação interna dos fundos dos empréstimos em causa deduzida do custo efectivo dos mesmos empréstimos e de uma margem a seu favor de 3%.
+Art. 3.º De acordo com o escalonamento estabelecido para o serviço da dívida dos empréstimos do BEI referidos no artigo 1.º, as instituições mutuárias entregarão ao Estado um prémio tendo por base a remuneração obtida pela aplicação interna dos fundos dos empréstimos em causa deduzida do custo efectivo dos mesmos empréstimos e de uma margem a seu favor de 3%.
 
-###### Art. 4.º Os recebimentos e os pagamentos que tiverem lugar ao abrigo do presente decreto-lei serão contabilizados em rubricas de operações de tesouraria a criar para o efeito.
+Art. 4.º Os recebimentos e os pagamentos que tiverem lugar ao abrigo do presente decreto-lei serão contabilizados em rubricas de operações de tesouraria a criar para o efeito.
 
-###### Art. 5.º Fica a Direcção-Geral do Tesouro autorizada a inscrever dotações no seu orçamento com vista a assegurar o pagamento dos encargos assumidos pelo Estado, por força do n.º 1 do artigo 2.º, na parte não coberta pelas entregas a efectuar pelas instituições mutuárias dos empréstimos do BEI, a realizar ao abrigo deste diploma.
+Art. 5.º Fica a Direcção-Geral do Tesouro autorizada a inscrever dotações no seu orçamento com vista a assegurar o pagamento dos encargos assumidos pelo Estado, por força do n.º 1 do artigo 2.º, na parte não coberta pelas entregas a efectuar pelas instituições mutuárias dos empréstimos do BEI, a realizar ao abrigo deste diploma.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 11 de Julho de 1985.**
+Promulgado em 11 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Julho de 1985.**
+Referendado em 16 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

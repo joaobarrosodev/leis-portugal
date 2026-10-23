@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11600/12251230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1986-227046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f055c472dc60b431aa57fd6301e72a4442ea9e8fed3e2aa20fa2fefc1132ca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cf851f532c1b2ff5eacba85cedfded982552ab43839864333bef24a78608a79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Medicina Pedagógica
+- Coimbra
+- Lisboa
+- Medicina Escolar
+- Orgânica
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:665341:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665341:por
+  label: "Revogado pelo DEC LEI.141/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1993-665341
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:37Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +141,19 @@ Importa, pois, estruturar os centros de medicina pedagógica, dotando-os da orga
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-### CAPÍTULO I — SECÇÃO I
+### CAPÍTULO I
+
+#### SECÇÃO I
 
 Natureza e objectivos
 
-###### Artigo 1.º São estruturados nos termos do presente diploma os Centros de Medicina Pedagógica de Lisboa, Porto e Coimbra, que adiante se designam abreviadamente por CMP, que abrangem a população escolar dos concelhos de Lisboa, Porto e Coimbra, sem prejuízo de no futuro virem a ser criados outros centros.
+Artigo 1.º São estruturados nos termos do presente diploma os Centros de Medicina Pedagógica de Lisboa, Porto e Coimbra, que adiante se designam abreviadamente por CMP, que abrangem a população escolar dos concelhos de Lisboa, Porto e Coimbra, sem prejuízo de no futuro virem a ser criados outros centros.
 
-###### Art. 2.º Os CMP são serviços dependentes do Instituto de Acção Social Escolar, sendo as suas actividades orientadas e coordenadas pela Direcção de Serviços de Medicina Pedagógica e Seguro Escolar.
+Art. 2.º Os CMP são serviços dependentes do Instituto de Acção Social Escolar, sendo as suas actividades orientadas e coordenadas pela Direcção de Serviços de Medicina Pedagógica e Seguro Escolar.
 
-###### Art. 3.º Os CMP destinam-se a contribuir para a melhoria do sistema de ensino através da promoção da saúde global da população escolar e da prevenção e detecção de anomalias que possam conduzir ao insucesso na aprendizagem.
+Art. 3.º Os CMP destinam-se a contribuir para a melhoria do sistema de ensino através da promoção da saúde global da população escolar e da prevenção e detecção de anomalias que possam conduzir ao insucesso na aprendizagem.
 
-###### Art. 4.º Os CMP têm como atribuições:
+Art. 4.º Os CMP têm como atribuições:
 
 a) Promover a formação e aperfeiçoamento de pessoal em saúde escolar e medicina pedagógica;
 
@@ -130,11 +171,11 @@ f) Ser responsáveis pela realização de exames médicos a docentes para efeito
 
 ##### SUBSECÇÃO I — Do director
 
-###### Art. 5.º - 1 - Os CMP são dirigidos por um director, equiparado para todos os efeitos legais, a chefe de divisão.
+Art. 5.º - 1 - Os CMP são dirigidos por um director, equiparado para todos os efeitos legais, a chefe de divisão.
 
 2 - O director será substituído nas suas faltas e impedimentos pelo médico assessor que coordena o serviço médico-pedagógico.
 
-###### Art. 6.º Compete ao director do CMP:
+Art. 6.º Compete ao director do CMP:
 
 a) Orientar e coordenar todas as actividades do CMP, assegurando a respectiva gestão administrativa e financeira e executando todos os demais actos necessários ao desempenho regular das funções atribuídas ao CMP;
 
@@ -152,7 +193,7 @@ g) Superintender em todos os actos de gestão administrativa e exercer a autorid
 
 ##### SUBSECÇÃO II — Dos serviços
 
-###### Art. 7.º Os CMP compreendem os seguintes serviços:
+Art. 7.º Os CMP compreendem os seguintes serviços:
 
 a) Serviço de formação e documentação;
 
@@ -160,7 +201,7 @@ b) Serviço médico-pedagógico;
 
 c) Secção de administração geral.
 
-###### Art. 8.º - 1 - Ao serviço de formação e documentação compete:
+Art. 8.º - 1 - Ao serviço de formação e documentação compete:
 
 a) Propor programas de estudo e investigação nas áreas científicas relacionadas com a medicina pedagógica e a saúde escolar, visando o melhor conhecimento do aluno português, a prevenção do insucesso escolar e a melhoria do ambiente psicopedagógico e relacional da escola, promovendo e apoiando a sua realização;
 
@@ -172,11 +213,11 @@ d) Promover a publicação e divulgação de textos de apoio, estudos e mais mat
 
 2 - O serviço referido no número anterior é coordenado por um médico assessor.
 
-###### Art. 9.º - 1 - Ao serviço médico-pedagógico compete a prestação directa de cuidados preventivos aos alunos e professores através das acções das equipas periféricas e médico-psicopedagógicas, das actividades de educação para a saúde e de consultas de especialidades médicas.
+Art. 9.º - 1 - Ao serviço médico-pedagógico compete a prestação directa de cuidados preventivos aos alunos e professores através das acções das equipas periféricas e médico-psicopedagógicas, das actividades de educação para a saúde e de consultas de especialidades médicas.
 
 2 - O serviço referido no número anterior é coordenado por um médico assessor.
 
-###### Art. 10.º - 1 - Ao serviço médico-pedagógico, através das equipas periféricas, cabe:
+Art. 10.º - 1 - Ao serviço médico-pedagógico, através das equipas periféricas, cabe:
 
 a) Efectuar exames gerais de saúde aos alunos, nomeadamente rastreios, e avaliar da sua aptidão para o exercício físico;
 
@@ -198,7 +239,7 @@ i) Manter actualizado o ficheiro individual dos alunos, mapas e outros registos 
 
 2 - Cada equipa periférica é constituída por um médico escolar, que coordena, e por pessoal de enfermagem e de serviço social em número adequado às características da população escolar a seu cargo.
 
-###### Art. 11.º - 1 - Ao serviço médico-pedagógico, através das equipas médico-psicopedagógicas, cabe:
+Art. 11.º - 1 - Ao serviço médico-pedagógico, através das equipas médico-psicopedagógicas, cabe:
 
 a) Prestar assessoria especializada ao director do CMP e apoio aos técnicos no âmbito psicopedagógicas e de higiene mental;
 
@@ -212,7 +253,7 @@ e) Dar apoio e aconselhamento, quando o caso o justifique, aos pais, aos profess
 
 2 - Cada equipa médico-psicopedagógica é constituída por um médico, que a dirige, um psicólogo e um técnico de serviço social.
 
-###### Art. 12.º - 1 - Ao serviço médico-pedagógico, através das actividades de educação para a saúde, cabe:
+Art. 12.º - 1 - Ao serviço médico-pedagógico, através das actividades de educação para a saúde, cabe:
 
 a) Apoiar a formação das equipas periféricas, de forma a dar-lhes preparação como veiculadoras de ensinamentos de saúde na sua actuação diária;
 
@@ -224,7 +265,7 @@ d) Dar apoio eventual ao ensino de saúde nos programas escolares, dentro das po
 
 2 - As actividades de educação para a saúde são asseguradas pelo pessoal de enfermagem com formação específica.
 
-###### Art. 13.º - 1 - Ao serviço médico-pedagógico, através das consultas de especialidades médicas, cabe:
+Art. 13.º - 1 - Ao serviço médico-pedagógico, através das consultas de especialidades médicas, cabe:
 
 a) Proporcionar, numa perspectiva médico-pedagógica, um atendimento rápido dos alunos detectados pelas equipas periféricas como sendo portadores de doenças ou perturbações que possam interferir com a aprendizagem ou ser agravadas pela frequência escolar;
 
@@ -240,7 +281,7 @@ e) Realizar as juntas médicas a alunos sinistrados para efeitos de seguro escol
 
 3 - As consultas serão asseguradas por pessoal médico das respectivas especialidades.
 
-###### Art. 14.º À secção de administração geral cabe, designadamente:
+Art. 14.º À secção de administração geral cabe, designadamente:
 
 a) Receber, registar, distribuir e expedir toda a correspondência e demais documentação;
 
@@ -254,17 +295,17 @@ e) Proceder às tarefas de arquivo.
 
 ### CAPÍTULO II — Do pessoal
 
-###### Art. 15.º - 1 - Ao quadro único do pessoal dos organismos e serviços centrais do Ministério da Educação e Cultura, constante dos anexos I e II do [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro, são aditados os lugares constantes do mapa I anexo ao presente diploma.
+Art. 15.º - 1 - Ao quadro único do pessoal dos organismos e serviços centrais do Ministério da Educação e Cultura, constante dos anexos I e II do [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro, são aditados os lugares constantes do mapa I anexo ao presente diploma.
 
 2 - O anexo XIV do [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro, é alterado em função do determinado no número anterior.
 
 3 - As dotações dos CMP são as constantes do mapa II anexo ao presente diploma, que poderão ser alteradas por despacho ministerial, mediante proposta do presidente do Instituto de Acção Social Escolar.
 
-###### Art. 16.º Ao pessoal dos CMP aplica-se o regime constante do [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro, e demais legislação complementar, nomeadamente o regulamento de concursos.
+Art. 16.º Ao pessoal dos CMP aplica-se o regime constante do [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro, e demais legislação complementar, nomeadamente o regulamento de concursos.
 
-###### Art. 17.º Os lugares de director dos CMP são providos, de acordo com o regime previsto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre os médicos escolares assessores ou principais com comprovada experiência e reconhecida competência no domínio da medicina pedagógica.
+Art. 17.º Os lugares de director dos CMP são providos, de acordo com o regime previsto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre os médicos escolares assessores ou principais com comprovada experiência e reconhecida competência no domínio da medicina pedagógica.
 
-###### Art. 18.º - 1 - Os lugares de médico escolar assessor são providos de entre médicos escolares principais com um mínimo de três anos na categoria e classificação de serviço de Muito bom e mediante provas públicas de apreciação curricular, que poderão incluir a discussão de trabalho apresentado para o efeito, nos termos da lei geral.
+Art. 18.º - 1 - Os lugares de médico escolar assessor são providos de entre médicos escolares principais com um mínimo de três anos na categoria e classificação de serviço de Muito bom e mediante provas públicas de apreciação curricular, que poderão incluir a discussão de trabalho apresentado para o efeito, nos termos da lei geral.
 
 2 - Os lugares de médico escolar principal são providos de entre médicos escolares de 1.ª classe com, pelo menos, três anos na categoria, habilitados com exame a uma especialidade e classificação de serviço não inferior a Bom.
 
@@ -278,7 +319,7 @@ e) Proceder às tarefas de arquivo.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 19.º- 1 - O pessoal que à data da entrada em vigor deste diploma se encontre a prestar serviço nos CMP em regime de contrato celebrado ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, com observância das disposições legais reguladoras da admissão de pessoal não vinculado, transita, sem prejuízo das habilitações exigidas, para os lugares constantes do mapa I anexo ou para os lugares vagos existentes no quadro único dos organismos e serviços centrais do Ministério da Educação e Cultura, de acordo com as seguintes regras:
+Art. 19.º- 1 - O pessoal que à data da entrada em vigor deste diploma se encontre a prestar serviço nos CMP em regime de contrato celebrado ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, com observância das disposições legais reguladoras da admissão de pessoal não vinculado, transita, sem prejuízo das habilitações exigidas, para os lugares constantes do mapa I anexo ou para os lugares vagos existentes no quadro único dos organismos e serviços centrais do Ministério da Educação e Cultura, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que já possui;
 
@@ -286,7 +327,7 @@ b) Para categoria correspondente às funções actualmente desempenhadas, remune
 
 2 - O provimento dos lugares criados pelo presente diploma será feito independentemente de quaisquer formalidades, à excepção do visto ou anotação do Tribunal de Contas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e da publicação no Diário da República.
 
-###### Art. 20.º - 1 - O preenchimento dos lugares de médico escolar de 2.ª classe, de enfermeiro e de técnico de serviço social fica condicionado, respectivamente, às seguintes regras:
+Art. 20.º - 1 - O preenchimento dos lugares de médico escolar de 2.ª classe, de enfermeiro e de técnico de serviço social fica condicionado, respectivamente, às seguintes regras:
 
 a) 21 lugares de médico escolar de 2.ª classe à medida que se forem extinguindo os lugares de médico escolar assessor e de médico escolar anotados no anexo I;
 
@@ -294,31 +335,31 @@ b) 33 lugares de enfermeiro e 23 lugares de técnico de serviço social à medid
 
 2 - O preenchimento dos novos lugares do quadro fica condicionado à existência de disponibilidades orçamentais.
 
-###### Art. 21.º As dotações relativas a remunerações de pessoal dos CMP são inscritas no orçamento da Secretaria-Geral.
+Art. 21.º As dotações relativas a remunerações de pessoal dos CMP são inscritas no orçamento da Secretaria-Geral.
 
-###### Art. 22.º - 1 - É extinto o quadro de pessoal de saúde escolar, aprovado pelo [Decreto-Lei n.º 48079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48079-1967-400984), de 28 de Novembro de 1967.
+Art. 22.º - 1 - É extinto o quadro de pessoal de saúde escolar, aprovado pelo [Decreto-Lei n.º 48079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48079-1967-400984), de 28 de Novembro de 1967.
 
 2 - Os médicos escolares do quadro referido no número anterior que não tenham optado pelo regime de contratação durante o período de instalação mantêm a mesma situação, extinguindo-se os lugares à medida que vagarem.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 24 de Abril de 1986.**
+Promulgado em 24 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Maio de 1986.**
+Referendado em 8 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12251230.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12251230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12251230.pdf)
 
 Mapa II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11600/12251230.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11600/12251230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12251230.pdf)
 
 Mapa III
 

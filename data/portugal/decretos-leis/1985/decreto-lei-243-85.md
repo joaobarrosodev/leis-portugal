@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1985-182631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 173a17b1707c4ebc7fb1ad356fd2ef74a33580d81a5e759bdebab6dfb67630c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ae1d629b8079ad448aa8629a7338bc9d1427dcadd1be5530bacb84ba35103c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estatuto da Carreira Docente Universitária
+- Pessoal Docente
+- Regime de Exclusividade
 relationships:
 - type: amended_by
   target: pt:dre:488485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488485:por
+  label: "Alterado o art. 74.º do Estatuto da Carreira Docente Universitária, aprovado pelo Dec Lei 448/79, de 13-Nov, na\
+    \ redacção do presente diploma, pelo DEC LEI.205/2009.31.08.2009.MCTES, DR.IS [168] de 31.08.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2009-488485
+  date: '2009-08-31'
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:47Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +118,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com emendas, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com emendas, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passa a ter a seguinte redacção:
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Vencimentos e remunerações)
 
@@ -130,7 +148,7 @@ g) Assistente estagiário - 30%.
 
 5 - ...
 
-###### Art. 2.º - 1 - O pessoal docente universitário que se encontra a prestar serviço no regime a que se refere o artigo 70.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com emendas, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, fica obrigado, perante a instituição a que esteja vinculado, a apresentar um relatório descritivo das actividades desenvolvidas a coberto da permanência nesse regime.
+Art. 2.º - 1 - O pessoal docente universitário que se encontra a prestar serviço no regime a que se refere o artigo 70.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com emendas, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, fica obrigado, perante a instituição a que esteja vinculado, a apresentar um relatório descritivo das actividades desenvolvidas a coberto da permanência nesse regime.
 
 2 - O prazo de cumprimento da obrigação estabelecida no número anterior é de 2 meses, a contar, conforme os casos:
 
@@ -148,24 +166,24 @@ b) A reposição das importâncias do subsídio auferidas durante o período abr
 
 5 - Apresentado o relatório, este será objecto de divulgação no âmbito da instituição em causa, nos termos tidos como mais adequados pelo presidente do conselho directivo respectivo.
 
-###### Art. 3.º Para o pessoal docente actualmente em funções, o cômputo do biénio a que se refere a alínea a) do n.º 2 do artigo 2.º só começa a correr a partir da data da entrada em vigor do presente diploma.
+Art. 3.º Para o pessoal docente actualmente em funções, o cômputo do biénio a que se refere a alínea a) do n.º 2 do artigo 2.º só começa a correr a partir da data da entrada em vigor do presente diploma.
 
-###### Art. 4.º O exercício de funções a que se refere o n.º 1 do artigo 73.º do ECDU suspende, a requerimento dos interessados, a contagem dos prazos para a apresentação do relatório previsto no presente diploma.
+Art. 4.º O exercício de funções a que se refere o n.º 1 do artigo 73.º do ECDU suspende, a requerimento dos interessados, a contagem dos prazos para a apresentação do relatório previsto no presente diploma.
 
-###### Art. 5.º Sem prejuízo do que vier a ser estabelecido no diploma que proceder à revisão geral do regime de dedicação exclusiva, a interrupção do exercício de funções docentes nesse regime implica a impossibilidade de regresso à mesma situação antes do decurso de um ano após aquela interrupção.
+Art. 5.º Sem prejuízo do que vier a ser estabelecido no diploma que proceder à revisão geral do regime de dedicação exclusiva, a interrupção do exercício de funções docentes nesse regime implica a impossibilidade de regresso à mesma situação antes do decurso de um ano após aquela interrupção.
 
-###### Art. 6.º É eliminado o n.º 5 do artigo 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com emendas, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passando o actual n.º 5 do mesmo artigo a ser o antigo n.º 6.
+Art. 6.º É eliminado o n.º 5 do artigo 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com emendas, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, passando o actual n.º 5 do mesmo artigo a ser o antigo n.º 6.
 
-###### Art. 7.º Este diploma entra em vigor no primeiro dia da execução do Orçamento do Estado para 1986.
+Art. 7.º Este diploma entra em vigor no primeiro dia da execução do Orçamento do Estado para 1986.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 26 de Junho de 1985.**
+Promulgado em 26 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Julho de 1985.**
+Referendado em 1 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

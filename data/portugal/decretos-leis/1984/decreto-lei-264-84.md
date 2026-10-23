@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1984-381544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f4a48a9063eb7b089bde5e3f02b896a82fb6b47e040a5c0d782975bf037c6e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f34643122672d684c509fbd98d71a5e7d289380d175e0d12700bfeb7e47c5772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Barcelos
+- Posto Policial
+- PSP
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:643961:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:03Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Considerando que a publicação do [Decreto-Lei n.º 410/82](https://diariodarep
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - No apêndice 5 ao anexo III do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, deixa de constar Barcelos (posto tipo A).
+Artigo 1.º - 1 - No apêndice 5 ao anexo III do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, deixa de constar Barcelos (posto tipo A).
 
 2 - No apêndice 4 ao anexo III do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, passa a constar Barcelos (esquadra tipo A), com o seguinte efectivo:
 
@@ -102,7 +110,7 @@ Subchefes - 8;
 
 Guardas - 55.
 
-###### Art. 2.º - 1 - Para satisfação do disposto no n.º 2 do artigo anterior, são aumentados ao quadro geral de efectivos, instituído pelo anexo I referido no artigo 2.º do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, os seguintes elementos:
+Art. 2.º - 1 - Para satisfação do disposto no n.º 2 do artigo anterior, são aumentados ao quadro geral de efectivos, instituído pelo anexo I referido no artigo 2.º do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, os seguintes elementos:
 
 Chefe de esquadra - 1;
 
@@ -112,18 +120,18 @@ Guardas - 35.
 
 2 - O apêndice 13 ao anexo IV - Comando Distrital de Braga - do decreto-lei referido no número anterior passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/17800/23662367.pdf))](https://files.diariodarepublica.pt/1s/1984/08/17800/23662367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/17800/23662367.pdf)
 
-###### Art. 3.º Os encargos resultantes da execução deste diploma são suportados, no corrente ano económico, pelas disponibilidades que venham a verificar-se na respectiva dotação orçamental da Polícia de Segurança Pública.
+Art. 3.º Os encargos resultantes da execução deste diploma são suportados, no corrente ano económico, pelas disponibilidades que venham a verificar-se na respectiva dotação orçamental da Polícia de Segurança Pública.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 11 de Julho de 1984.**
+Promulgado em 11 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Julho de 1984.**
+Referendado em 16 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

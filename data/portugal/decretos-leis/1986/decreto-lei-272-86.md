@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20300/24232425.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1986-220094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 218f34ca6ce37418adb0b9da832ad918d4b2c014de89ba99937cde0fd50224fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6068af31f89ff31a84d7fe07bee630a7c9a5d536f1a596a22e8512385e52b6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Contas e Apuramento de Responsabilidades do Exército
+- Definição de Competências
+- Exército
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657874:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:44Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +138,15 @@ Considerando o disposto no artigo 29.º do [Decreto-Lei n.º 949/76](https://dia
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Comissão de Contas e Apuramento de Responsabilidades, adiante designada por Comissão, destina-se, essencialmente, a ajustar e aprovar as contas de gerência de todas as entidades do Exército responsáveis pela administração de numerário e bens materiais do Estado, para ulterior julgamento pelo Tribunal de Contas.
+Artigo 1.º A Comissão de Contas e Apuramento de Responsabilidades, adiante designada por Comissão, destina-se, essencialmente, a ajustar e aprovar as contas de gerência de todas as entidades do Exército responsáveis pela administração de numerário e bens materiais do Estado, para ulterior julgamento pelo Tribunal de Contas.
 
-###### Art. 2.º - 1 - A Comissão, que dispõe de um órgão executivo designado por Repartição de Contas, funciona na dependência directa do Chefe do Estado-Maior do Exército e compreende:
+Art. 2.º - 1 - A Comissão, que dispõe de um órgão executivo designado por Repartição de Contas, funciona na dependência directa do Chefe do Estado-Maior do Exército e compreende:
 
 a) O presidente - oficial general do activo ou da reserva:
 
 b) Os vogais:
 
-**O chefe da Repartição de Contas;**
+O chefe da Repartição de Contas;
 
 Dois oficiais superiores designados pelo Departamento de Finanças;
 
@@ -120,11 +158,11 @@ c) O secretário, sem voto, que é um dos chefes de secção da Repartição de 
 
 3 - Junto da Comissão há um representante do Tribunal de Contas, que assiste a todas as sessões e elucida a Comissão sobre as questões da sua competência tratadas nas reuniões, quer a pedido quer por iniciativa própria.
 
-###### Art. 3.º - 1 - A nomeação do presidente e dos vogais da Comissão é da competência do Chefe do Estado-Maior do Exército.
+Art. 3.º - 1 - A nomeação do presidente e dos vogais da Comissão é da competência do Chefe do Estado-Maior do Exército.
 
 2 - O representante do Tribunal de Contas é designado pelo próprio Tribunal.
 
-###### Art. 4.º - 1 - A Comissão reúne, ordinariamente, duas vezes por mês e, extraordinariamente, sempre que o presidente o entenda necessário.
+Art. 4.º - 1 - A Comissão reúne, ordinariamente, duas vezes por mês e, extraordinariamente, sempre que o presidente o entenda necessário.
 
 2 - A Comissão só pode deliberar quando estiverem presentes pelo menos três dos seus componentes, tendo o presidente, em caso de empate, voto de qualidade.
 
@@ -132,7 +170,7 @@ c) O secretário, sem voto, que é um dos chefes de secção da Repartição de 
 
 4 - O presidente é substituído nos seus impedimentos pelo vogal militar mais graduado ou de maior antiguidade.
 
-###### Art. 5.º - 1 - À Comissão compete, nomeadamente:
+Art. 5.º - 1 - À Comissão compete, nomeadamente:
 
 a) Exigir o cumprimento rigoroso das leis da contabilidade pública e administrativas por parte de todas as entidades responsáveis;
 
@@ -170,7 +208,7 @@ p) Fixar os prazos para a prestação de contas por parte dos centros de gestão
 
 4 - No exercício das suas funções a Comissão pode corresponder-se com quaisquer entidades ou organismos militares ou civis.
 
-###### Art. 6.º À Repartição de Contas, na directa dependência do presidente da Comissão, compete:
+Art. 6.º À Repartição de Contas, na directa dependência do presidente da Comissão, compete:
 
 a) Receber as contas da totalidade das receitas e das despesas dos orçamentos, realizadas pelas secções financeiras, verificadas e escrituradas mensalmente pelos centros de gestão financeira em face dos documentos apensos, conservando-as em arquivo, a fim de servirem posteriormente para a conferência das contas de gerência;
 
@@ -186,30 +224,30 @@ f) Pedir, quando julgado conveniente, todos os esclarecimentos necessários para
 
 g) Elaborar instruções gerais e técnicas sobre as contas de gerência.
 
-###### Art. 7.º As contas de gerência de numerário e de material são organizadas nos termos das instruções em vigor.
+Art. 7.º As contas de gerência de numerário e de material são organizadas nos termos das instruções em vigor.
 
-###### Art. 8.º Até final de cada ano, todas as contas de gerência do ano anterior deverão ser submetidas à apreciação e aprovação da Comissão, devidamente relatadas e acompanhadas de todos os anexos, com excepção da documentação comprovativa de despesa, que só será presente à Comissão no caso de solicitação expressa de qualquer dos seus membros ou do representante do Tribunal de Contas.
+Art. 8.º Até final de cada ano, todas as contas de gerência do ano anterior deverão ser submetidas à apreciação e aprovação da Comissão, devidamente relatadas e acompanhadas de todos os anexos, com excepção da documentação comprovativa de despesa, que só será presente à Comissão no caso de solicitação expressa de qualquer dos seus membros ou do representante do Tribunal de Contas.
 
-###### Art. 9.º - 1 - A Comissão enviará, até ao fim de Janeiro de cada ano, ao Tribunal de Contas, para julgamento, a conta geral de gerência referida na alínea e) do n.º 1 do artigo 5.º, respeitante às contas de gerência a que alude o artigo 8.º
+Art. 9.º - 1 - A Comissão enviará, até ao fim de Janeiro de cada ano, ao Tribunal de Contas, para julgamento, a conta geral de gerência referida na alínea e) do n.º 1 do artigo 5.º, respeitante às contas de gerência a que alude o artigo 8.º
 
 2 - As contas onde se presuma a existência de qualquer alcance e as que, por motivo de força maior, não puderam ser consideradas para a organização da conta geral do Exército serão enviadas ao Tribunal de Contas, em separado, com parecer fundamentado da Comissão, logo que concluídos os respectivos processos.
 
-###### Art. 10.º Na apreciação e na aprovação das contas deverá a Comissão entender como legislação aplicável toda aquela que regula a prestação de contas ao Tribunal de Contas.
+Art. 10.º Na apreciação e na aprovação das contas deverá a Comissão entender como legislação aplicável toda aquela que regula a prestação de contas ao Tribunal de Contas.
 
-###### Art. 11.º A prestação de contas, mensal e de gerência, da totalidade das verbas sacadas pelo Exército por conta dos dotações inscritas no Orçamento do Estado é feita pela Repartição de Gestão Financeira e Contabilidade da Direcção do Serviço de Finanças.
+Art. 11.º A prestação de contas, mensal e de gerência, da totalidade das verbas sacadas pelo Exército por conta dos dotações inscritas no Orçamento do Estado é feita pela Repartição de Gestão Financeira e Contabilidade da Direcção do Serviço de Finanças.
 
-###### Art. 12.º As receitas e despesas dos estabelecimentos fabris do Exército serão verificadas pelo conselho fiscal dos estabelecimentos fabris do Exército e prestadas ao Tribunal de Contas as respectivas contas anuais, em conformidade com as disposições em vigor e com as instruções do mesmo Tribunal.
+Art. 12.º As receitas e despesas dos estabelecimentos fabris do Exército serão verificadas pelo conselho fiscal dos estabelecimentos fabris do Exército e prestadas ao Tribunal de Contas as respectivas contas anuais, em conformidade com as disposições em vigor e com as instruções do mesmo Tribunal.
 
-###### Art. 13.º É revogada toda a legislação que contrarie o disposto neste diploma, nomeadamente o [Decreto-Lei n.º 38476](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38476-1951-590533), de 24 de Outubro de 1951, e os artigos 150.º a 152.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959.
+Art. 13.º É revogada toda a legislação que contrarie o disposto neste diploma, nomeadamente o [Decreto-Lei n.º 38476](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38476-1951-590533), de 24 de Outubro de 1951, e os artigos 150.º a 152.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959.
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Agosto de 1986.**
+Promulgado em 9 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Agosto de 1986.**
+Referendado em 14 de Agosto de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

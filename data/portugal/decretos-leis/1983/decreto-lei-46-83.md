@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02200/02210223.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1983-308506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8242de595dbd77a40a4d3cdebeb50a0c6ca51a39e34c5fb944868675043a7628
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cc00f160ddd8ea999f83eb43eb0727401c5c05dae98fddd521cf08b3a11f4c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Operador Portuário
+- Transporte de Mercadorias
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:401497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310396:por
+  label: "Alterado pelo DR.23/83.1983.03.16.MHOPT, DR.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/23-1983-310396
+  date: '1983-03-16'
+- type: amended_by
+  target: pt:dre:441717:por
+  label: "Alterado o art. 19º, devendo as referências ao Ministro da Habitação, Obras Públicas e Transportes entender-se como\
+    \ feitas ao Ministro do Mar, pelo DEC LEI.395/83.27.10.1983.MM, DR.IS [284] de 27.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/395-1983-441717
+  date: '1983-10-27'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659172:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:401342:por
+  label: Rectificado pela DECL.DD2787.1983.02.16.PCM DR.IS [48]Supl de 28/Fev/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-401342
+  date: '1983-02-16'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ARTIGO 19 PELO DECRETO LEI 395/83, DE 27 DE OUTUBRO, PUBLICADO NO DR.IS, 248.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-10-27'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 282-B/84, DE 20 DE AGOSTO, PUBLICADO NO DR.IS, 192, SUPL.\0192, SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:10Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +144,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Para os efeitos do presente decreto-lei, consideram-se operações portuárias as relativas à estiva, desestiva, conferência, carga, descarga, transbordo, movimentação e arrumação em cais, terraplanos ou armazéns, formação e decomposição de unidades de carga, recepção e entrega, operações complementares e, em geral, todas as que requeiram as mercadorias desembarcadas ou destinadas a embarque, dentro da zona portuária.
+Artigo 1.º - 1 - Para os efeitos do presente decreto-lei, consideram-se operações portuárias as relativas à estiva, desestiva, conferência, carga, descarga, transbordo, movimentação e arrumação em cais, terraplanos ou armazéns, formação e decomposição de unidades de carga, recepção e entrega, operações complementares e, em geral, todas as que requeiram as mercadorias desembarcadas ou destinadas a embarque, dentro da zona portuária.
 
 2 - Por zona portuária entende-se a área destinada especialmente à exploração comercial, dentro dos limites de jurisdição da autoridade portuária.
 
-###### Art. 2.º Operadores portuários são as sociedades ou empresas públicas licenciadas exclusivamente para o exercício das operações portuárias referidas no artigo 1.º
+Art. 2.º Operadores portuários são as sociedades ou empresas públicas licenciadas exclusivamente para o exercício das operações portuárias referidas no artigo 1.º
 
-###### Art. 3.º - 1 - Não carecem de intervenção de operadores portuários as operações:
+Art. 3.º - 1 - Não carecem de intervenção de operadores portuários as operações:
 
 a) Realizadas por quaisquer entidades, relativamente à movimentação de cargas da sua exclusiva propriedade, desde que se processem em instalações ou terminais privativos;
 
@@ -128,21 +166,21 @@ f) De peritagem, amostragem e outras conexas com a actividade de peritos maríti
 
 2 - A realização das operações referidas no número anterior está sujeita às normas regulamentares existentes em cada porto.
 
-###### Art. 4.º - 1 - Não carecem de intervenção de operadores portuários nem de mão-de-obra portuária as acções de fiscalização aduaneira, portuária ou policial.
+Art. 4.º - 1 - Não carecem de intervenção de operadores portuários nem de mão-de-obra portuária as acções de fiscalização aduaneira, portuária ou policial.
 
 2 - O disposto no número anterior, no que se refere à não intervenção de trabalhadores portuários, só se aplica quando as operações aí referidas possam ser realizadas com recurso exclusivo a pessoal dos quadros da entidade fiscalizadora.
 
-###### Art. 5.º - 1 - O exercício da actividade de operador portuário nos portos do continente depende de licenciamento nas condições do presente diploma e respectivos regulamentos.
+Art. 5.º - 1 - O exercício da actividade de operador portuário nos portos do continente depende de licenciamento nas condições do presente diploma e respectivos regulamentos.
 
 2 - O licenciamento do operador portuário poderá abranger a generalidade das operações ou parte delas.
 
-###### Art. 6.º - 1 - A licença será requerida junto da respectiva administração ou junta portuária, adiante designadas por autoridade portuária, cabendo a decisão final ao Ministro da Habitação, Obras Públicas e Transportes.
+Art. 6.º - 1 - A licença será requerida junto da respectiva administração ou junta portuária, adiante designadas por autoridade portuária, cabendo a decisão final ao Ministro da Habitação, Obras Públicas e Transportes.
 
 2 - Compete à autoridade portuária a regulamentação e coordenação das operações portuárias e a fiscalização da actividade dos operadores.
 
 3 - As autoridades portuárias articularão a sua acção com o Instituto do Trabalho Portuário e o Centro Coordenador do Trabalho Portuário, na área das respectivas competências.
 
-###### Art. 7.º - 1 - O licenciamento dos operadores portuários depende da satisfação de requisitos a definir em decreto regulamentar, nomeadamente no que se refere à natureza jurídica, capacidade técnica, económica e financeira dos requerentes.
+Art. 7.º - 1 - O licenciamento dos operadores portuários depende da satisfação de requisitos a definir em decreto regulamentar, nomeadamente no que se refere à natureza jurídica, capacidade técnica, económica e financeira dos requerentes.
 
 2 - O operador portuário ficará sujeito a:
 
@@ -150,7 +188,7 @@ a) Prestação de caução que garanta o cumprimento das obrigações decorrente
 
 b) Pagamento de uma taxa de licenciamento.
 
-###### Art. 8.º - 1 - Verificar-se-á a caducidade da licença:
+Art. 8.º - 1 - Verificar-se-á a caducidade da licença:
 
 a) Quando o titular deixar de reunir os pressupostos do licenciamento;
 
@@ -166,9 +204,9 @@ e) Quando o operador deixar de exercer a actividade por período superior a 6 me
 
 3 - O despacho ministerial referido no número anterior será notificado à sociedade ou empresa pública em causa, que dele poderá recorrer nos termos legais.
 
-###### Art. 9.º As operações portuárias estão sujeitas ao regime de tarifas máximas, a fixar anualmente, até 1 de Fevereiro, por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 9.º As operações portuárias estão sujeitas ao regime de tarifas máximas, a fixar anualmente, até 1 de Fevereiro, por despacho do Ministro da Habitação, Obras Públicas e Transportes.
 
-###### Art. 10.º Será constituída em cada porto, por despacho ministerial, uma comissão de tarifas, que deverá integrar:
+Art. 10.º Será constituída em cada porto, por despacho ministerial, uma comissão de tarifas, que deverá integrar:
 
 a) 1 representante da autoridade portuária, que presidirá;
 
@@ -182,25 +220,25 @@ e) 3 representantes dos operadores portuários;
 
 f) 3 representantes das associações industriais, comerciais, agrícolas e de armadores e agentes de navegação.
 
-###### Art. 11.º - 1 - Compete à comissão de tarifas o estudo, apreciação e emissão de parecer, sobre propostas de tarifas máximas aplicáveis às operações portuárias, a apresentar pelos representantes dos operadores portuários.
+Art. 11.º - 1 - Compete à comissão de tarifas o estudo, apreciação e emissão de parecer, sobre propostas de tarifas máximas aplicáveis às operações portuárias, a apresentar pelos representantes dos operadores portuários.
 
 2 - A autoridade portuária remeterá ao Ministro da Habitação, Obras Públicas e Transportes, para aprovação das tarifas máximas, o processo elaborado na comissão de tarifas.
 
-###### Art. 12.º - 1 - O operador portuário assumirá, nos termos da legislação em vigor, a integral responsabilidade pela operação a seu cargo e pelas perdas e danos provocados às mercadorias durante o período em que estas se encontrem à sua guarda.
+Art. 12.º - 1 - O operador portuário assumirá, nos termos da legislação em vigor, a integral responsabilidade pela operação a seu cargo e pelas perdas e danos provocados às mercadorias durante o período em que estas se encontrem à sua guarda.
 
 2 - O disposto no n.º 1 não prejudica a aplicação das normas legais imperativas referentes ao transporte marítimo, designadamente as que decorrem da Convenção de Bruxelas de 25 de Agosto de 1924 e do [Decreto-Lei n.º 37748](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37748-1950-659172), de 1 de Fevereiro de 1950, e de outras convenções internacionais regularmente ratificadas, enquanto vincularem internacionalmente o Estado Português.
 
 3 - O operador portuário responde igualmente perante a autoridade portuária pelos prejuízos causados às infra-estruturas e equipamentos portuários, bem como pela lesão de quaisquer interesses legítimos desta.
 
-###### Art. 13.º - 1 - Sem prejuízo do disposto no artigo anterior, o operador portuário é responsável, perante as autoridades aduaneiras, pelas mercadorias armazenadas ou estacionads no interior da área portuária e sujeitas a regime alfandegário.
+Art. 13.º - 1 - Sem prejuízo do disposto no artigo anterior, o operador portuário é responsável, perante as autoridades aduaneiras, pelas mercadorias armazenadas ou estacionads no interior da área portuária e sujeitas a regime alfandegário.
 
 2 - No caso dos armazéns gerais francos, o operador cessa a sua responsabilidade no momento da entrega da mercadoria no armazém, passando a responsabilidade para a autoridade portuária.
 
-###### Art. 14.º - 1 - Para efeitos do disposto no n.º 2 do artigo 7.º, o operador portuário fornecerá à autoridade portuária, nos termos que vierem a ser fixados em decreto regulamentar, elementos respeitantes às operações que realizar.
+Art. 14.º - 1 - Para efeitos do disposto no n.º 2 do artigo 7.º, o operador portuário fornecerá à autoridade portuária, nos termos que vierem a ser fixados em decreto regulamentar, elementos respeitantes às operações que realizar.
 
 2 - Sem prejuízo de procedimento criminal por falsas declarações, a falsidade dos elementos fornecidos ou o seu não fornecimento pelo operador portuário será punido com coima nos termos do artigo seguinte.
 
-###### Art. 15.º - 1 - Às infracções praticadas pelos operadores portuários são aplicáveis, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, as seguintes sanções:
+Art. 15.º - 1 - Às infracções praticadas pelos operadores portuários são aplicáveis, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, as seguintes sanções:
 
 a) Coima até 3000000$00;
 
@@ -218,13 +256,13 @@ d) Desrespeitar gravemente as normas legais regulamentares da actividade no sect
 
 3 - A decisão de aplicação das sanções previstas neste artigo é susceptível de impugnação judicial, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Art. 16.º O exercício da actividade de operador portuário por quem não esteja licenciado faz incorrer o infractor em coima até 3000000$00, a aplicar pela autoridade portuária, bem como na apreensão do equipamento utilizado.
+Art. 16.º O exercício da actividade de operador portuário por quem não esteja licenciado faz incorrer o infractor em coima até 3000000$00, a aplicar pela autoridade portuária, bem como na apreensão do equipamento utilizado.
 
-###### Art. 17.º - 1 - As somas pecuniárias resultantes da aplicação das sanções previstas neste diploma reverterão para a autoridade portuária e para os cofres do Estado, na proporção de 50% para cada.
+Art. 17.º - 1 - As somas pecuniárias resultantes da aplicação das sanções previstas neste diploma reverterão para a autoridade portuária e para os cofres do Estado, na proporção de 50% para cada.
 
 2 - Na falta de pagamento voluntário da coima no prazo de 30 dias, terá lugar o processo de execução previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Art. 18.º - 1 - Os actuais operadores portuários têm o prazo de 30 dias, a partir da entrada em vigor deste diploma, para requererem o respectivo licenciamento, sob pena de interdição do exercício da actividade.
+Art. 18.º - 1 - Os actuais operadores portuários têm o prazo de 30 dias, a partir da entrada em vigor deste diploma, para requererem o respectivo licenciamento, sob pena de interdição do exercício da actividade.
 
 2 - Ao operador que à data do requerimento referido no número anterior não satisfaça todos os requisitos exigidos para o licenciamento, será concedida licença provisória sob condição de, no prazo máximo de 6 meses, provar que se encontram preenchidos esses requisitos, sob pena de caducidade da licença.
 
@@ -232,12 +270,12 @@ d) Desrespeitar gravemente as normas legais regulamentares da actividade no sect
 
 4 - Em casos excepcionais, devidamente comprovados pelos interessados, poderá o Ministro da Habitação, Obras Públicas e Transportes prorrogar o prazo de 6 meses referido nos n.os 2 e 3 deste artigo.
 
-###### Art. 19.º Transitoriamente, tendo em conta a entrada em funcionamento do regime de tarifas máximas e o prazo necessário à constituição das comissões previstas no artigo 10.º, a data limite para fixação das tarifas a vigorar durante o ano de 1983 será determinada por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 19.º Transitoriamente, tendo em conta a entrada em funcionamento do regime de tarifas máximas e o prazo necessário à constituição das comissões previstas no artigo 10.º, a data limite para fixação das tarifas a vigorar durante o ano de 1983 será determinada por despacho do Ministro da Habitação, Obras Públicas e Transportes.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 14 de Janeiro de 1983.**
+Promulgado em 14 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

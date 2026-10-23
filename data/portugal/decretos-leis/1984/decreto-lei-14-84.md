@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00900/01050107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,116 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1984-531799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e3aa9819ce7837ac83a81d5198d65fa13fd0c6f6a87a06e3834f68f9d4184e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65b6e4d2e34a6be1d398663aa473c92bb432c6356b049b375e5a162697b4f4c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Cheque
+- Crime
+- Indemnização
+- Instituição de Crédito
+- JURO de MORA
+- Processo Penal
+- Responsabilidade Civil
+- Responsabilidade Criminal
+- Sanção Penal
+- Taxa
+- Títulos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:694244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificado pela DECL.DD2386.1984.03.13.PCM DR.IS [77]2ºSupl. de 31/Mar/1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-03-13'
+- type: amended_by
+  target: pt:dre:394687:por
+  label: "Declarada a inconstitucionalidade , com for&#231;a geral obrigat&#243;ria, da norma constante do n&#186; 1 do art.\
+    \ 10&#186;, bem como a inconstitucionalidade meramente consequencial do n&#186; 1 do art. 13&#186; pelo AC.430/91.1991.11.13.TCS\
+    \ DR.IS-A [282] de 07/Dez/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/430-1991-394687
+  date: '1991-11-13'
+- type: amended_by
+  target: pt:dre:288662:por
+  label: "Declarada a inconstitucionalidade, com for&#231;a obrigat&#243;ria geral, da norma do n.&#186; 2 do art. 17.&#186;,\
+    \ pelo AC.180/92.1992.05.12.TCS DR.IS-A [157] DE 10/JUL/1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/180-1992-288662
+  date: '1992-05-12'
+- type: cites
+  target: pt:dre:142291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631467:por
+  label: Retificado pelo(a) Declaração - Diário da República n.º 77/1984, 2º Suplemento, Série I de 1984-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631467
+  date: '1984-03-31'
+- type: repealed_by
+  target: pt:dre:376811:por
+  label: "Revogado, nos termos do art. 16.º, pelo DEC LEI.454/91.1991.12.28.MJ DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/454-1991-376811
+  date: '1991-12-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:57Z'
   warnings: []
   errors: []
 ---
@@ -107,23 +183,23 @@ No uso das autorizações legislativas conferidas pelo artigo 3.º da [Lei n.º 
 
 ### CAPÍTULO I — Do processo pelo crime de emissão de cheque sem provisão
 
-###### Artigo 1.º - 1 - Antes de instaurado o procedimento criminal, a responsabilidade pela prática do crime de emissão de cheque sem provisão extingue-se pelo pagamento, efectuado directamente pelo sacador ao portador do cheque, do montante deste, acrescido dos juros compensatórios e moratórias calculados à taxa máxima de juro praticada, no momento do pagamento, pela banca portuguesa para operações activas de crédito.
+Artigo 1.º - 1 - Antes de instaurado o procedimento criminal, a responsabilidade pela prática do crime de emissão de cheque sem provisão extingue-se pelo pagamento, efectuado directamente pelo sacador ao portador do cheque, do montante deste, acrescido dos juros compensatórios e moratórias calculados à taxa máxima de juro praticada, no momento do pagamento, pela banca portuguesa para operações activas de crédito.
 
 2 - Se o portador do cheque recusar receber ou dar quitação, poderá ser efectuado depósito à sua ordem dentro do prazo de 30 dias a contar da apresentação do cheque a pagamento.
 
 3 - O pagamento ou o depósito previstos nos números anteriores efectuados até ao encerramento da audiência de julgamento determinação a suspensão da execução da pena que ao caso couber, salvo se o agente já tiver sido condenado pela prática deste crime e entre a data da prática daquele crime e a data da emissão do cheque por que responde não tiver decorrido mais de 5 anos.
 
-###### Art. 2.º Os mandantes, ainda que pessoas colectivas, sociedades ou meras associações de facto, são civil e solidariamente responsáveis pelo pagamento das multas e indemnizações em que forem condenados os seus representantes, contanto que estes tenham agido nessa qualidade e no interesse dos representados.
+Art. 2.º Os mandantes, ainda que pessoas colectivas, sociedades ou meras associações de facto, são civil e solidariamente responsáveis pelo pagamento das multas e indemnizações em que forem condenados os seus representantes, contanto que estes tenham agido nessa qualidade e no interesse dos representados.
 
-###### Art. 3.º - 1 - O crime de emissão de cheque sem provisão será averiguado em inquérito preliminar, independentemente das circunstâncias e do seu valor, sem prejuízo da competência dos juízes de instrução em tudo o que se relacione com a eventual prisão dos arguidos.
+Art. 3.º - 1 - O crime de emissão de cheque sem provisão será averiguado em inquérito preliminar, independentemente das circunstâncias e do seu valor, sem prejuízo da competência dos juízes de instrução em tudo o que se relacione com a eventual prisão dos arguidos.
 
 2 - As entidades e pessoas referidas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1978-468853), de 9 de Janeiro, são obrigadas a fornecer às autoridades competentes para o inquérito ou instrução os elementos mencionados no n.º 2 do mesmo artigo.
 
-###### Art. 4.º - 1 - Concluído o inquérito preliminar o requerido o julgamento pelo ministério público ou pelos assistentes, o requerimento será notificado ao arguido, entregando-se-lhe cópia com o rol de testemunhas e indicação dos documentos produzidos.
+Art. 4.º - 1 - Concluído o inquérito preliminar o requerido o julgamento pelo ministério público ou pelos assistentes, o requerimento será notificado ao arguido, entregando-se-lhe cópia com o rol de testemunhas e indicação dos documentos produzidos.
 
 2 - O arguido poderá, no prazo de 5 dias a contar da notificação, requerer a instrução contraditória, o arquivamento do processo ou alegar quaisquer questões de que o juiz deva conhecer no despacho a que se refere o n.º 1 do artigo seguinte.
 
-###### Art. 5.º - 1 - Antes de designar dia para julgamento o juiz conhecerá das nulidades, legitimidade, excepções ou quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa.
+Art. 5.º - 1 - Antes de designar dia para julgamento o juiz conhecerá das nulidades, legitimidade, excepções ou quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa.
 
 2 - Não havendo lugar a instrução contraditória, nada obstando a que o processo prossiga e sendo o facto punível, o juiz receberá sempre o requerimento acusatório e designará dia para julgamento, seguindo-se os termos de processo aplicáveis, com as devidas adaptações, sem prejuízo do disposto no artigo 9.º
 
@@ -131,25 +207,25 @@ No uso das autorizações legislativas conferidas pelo artigo 3.º da [Lei n.º 
 
 4 - Haverá, porém, recurso, a subir imediatamente em separado e com efeito devolutivo, da decisão que respeite a medidas preventivas ordenadas.
 
-###### Art. 6.º Nos processos por crime de emissão de cheque sem provisão só há lugar a instrução contraditória:
+Art. 6.º Nos processos por crime de emissão de cheque sem provisão só há lugar a instrução contraditória:
 
 a) A requerimento do arguido, nos termos do n.º 2 do artigo 4.º;
 
 b) A requerimento do ministério público ou dos assistentes, quando, concluído o inquérito preliminar, não houver prova bastante para requerer o julgamento e seja de presumir que se complete a prova indiciária contra o arguido.
 
-###### Art. 7.º Finda a instrução, o despacho que receba a acusação não é susceptível de recurso, podendo, porém, ser impugnado no recurso que venha a ser interposto da decisão final.
+Art. 7.º Finda a instrução, o despacho que receba a acusação não é susceptível de recurso, podendo, porém, ser impugnado no recurso que venha a ser interposto da decisão final.
 
-###### Art. 8.º - 1 - O réu apresentará na audiência de julgamento a contestação e, bem assim, as testemunhas e documentos que ali queira produzir em sua defesa, para o que será expressamente notificado, devendo indicar atempadamente ao tribunal as testemunhas a requisitar nos termos do artigo 85.º do Código de Processo Penal.
+Art. 8.º - 1 - O réu apresentará na audiência de julgamento a contestação e, bem assim, as testemunhas e documentos que ali queira produzir em sua defesa, para o que será expressamente notificado, devendo indicar atempadamente ao tribunal as testemunhas a requisitar nos termos do artigo 85.º do Código de Processo Penal.
 
 2 - O ofendido será notificado com a obrigação expressa de comparecer em julgamento.
 
 3 - Se o réu, devidamente notificado, não comparecer em julgamento, será, representado pelo seu defensor, julgado como se estivesse presente dentro dos 30 dias seguintes, devendo ser notificado com essa cominação.
 
-###### Art. 9.º O tribunal territorialmente competente para conhecer do crime de emissão de cheque sem provisão é o da comarca onde se situe o estabelecimento da instituição de crédito no qual o cheque foi apresentado a pagamento.
+Art. 9.º O tribunal territorialmente competente para conhecer do crime de emissão de cheque sem provisão é o da comarca onde se situe o estabelecimento da instituição de crédito no qual o cheque foi apresentado a pagamento.
 
 ### CAPÍTULO II — Da medida de restrição ao uso de cheque
 
-###### Art. 10.º - 1 - A medida de restrição ao uso de cheque a que o presente capítulo se refere é uma providência de natureza administrativa que envolve a proibição às pessoas a quem for aplicada de movimentar por meio de cheques as contas de depósito de que sejam titulares em quaisquer instituições de crédito.
+Art. 10.º - 1 - A medida de restrição ao uso de cheque a que o presente capítulo se refere é uma providência de natureza administrativa que envolve a proibição às pessoas a quem for aplicada de movimentar por meio de cheques as contas de depósito de que sejam titulares em quaisquer instituições de crédito.
 
 2 - A medida de restrição ao uso de cheque obriga as pessoas a quem for aplicada a devolver às instituições de crédito todos os módulos de cheques ainda em seu poder ou dos seus mandatários e às instituições de crédito a não lhes facultar cheques para a movimentação das suas contas de depósito, sem prejuízo do disposto no número seguinte.
 
@@ -157,7 +233,7 @@ b) A requerimento do ministério público ou dos assistentes, quando, concluído
 
 4 - Os cheques sacados durante o período de aplicação desta medida deverão ser pagos quando a conta tiver provisão, devendo a entidade sacada comunicar a emissão do cheque nessas condições ao Banco de Portugal.
 
-###### Art. 11.º - 1 - A medida de restrição ao uso de cheque é aplicável:
+Art. 11.º - 1 - A medida de restrição ao uso de cheque é aplicável:
 
 a) Quando no período de 3 meses a mesma entidade saque 3 ou mais cheques que, apresentados a pagamento no prazo legal, não forem pagos por falta de provisão, ainda que sacados sobre instituições de crédito distintas;
 
@@ -167,15 +243,15 @@ b) Quando, tendo sido emitido um ou mais cheques que não tenham sido pagos por 
 
 3 - A medida de restrição ao uso de cheque deve ser aplicada no prazo de 6 meses a contar da verificação dos seus pressupostos, sob pena de caducidade.
 
-###### Art. 12.º - 1 - A medida de restrição ao uso de cheque terá a duração mínima de 6 meses e máxima de 3 anos.
+Art. 12.º - 1 - A medida de restrição ao uso de cheque terá a duração mínima de 6 meses e máxima de 3 anos.
 
 2 - Sob proposta da instituição de crédito sacada ou a requerimento do interessado, quando circunstâncias relevantes o justifiquem, o Banco de Portugal poderá fazer cessar a medida de restrição, desde que tenha decorrido, pelo menos, metade do respectivo prazo.
 
-###### Art. 13.º - 1 - Compete ao Banco de Portugal, por intermédio do seu conselho de administração, decidir sobre a aplicação da medida de restrição ao uso de cheque.
+Art. 13.º - 1 - Compete ao Banco de Portugal, por intermédio do seu conselho de administração, decidir sobre a aplicação da medida de restrição ao uso de cheque.
 
 2 - A competência a que se refere o número anterior pode ser delegada nos termos do n.º 2 do artigo 45.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 544/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/544-1975-312213), de 15 de Novembro.
 
-###### Art. 14.º - 1 - O processo para aplicação da medida de restrição ao uso de cheque é instaurado pelo Banco de Portugal, por sua iniciativa ou por proposta de qualquer instituição de crédito.
+Art. 14.º - 1 - O processo para aplicação da medida de restrição ao uso de cheque é instaurado pelo Banco de Portugal, por sua iniciativa ou por proposta de qualquer instituição de crédito.
 
 2 - A proposta é obrigatória para as instituições de crédito sobre quem forem sacados pela mesma entidade 3 ou mais cheques sem provisão num período de 3 meses.
 
@@ -183,7 +259,7 @@ b) Quando, tendo sido emitido um ou mais cheques que não tenham sido pagos por 
 
 4 - As propostas devem ser fundamentadas, instruídas com os elementos necessários e enviadas ao Banco de Portugal no prazo de 15 dias; o facto será notificado aos interessados pela instituição de crédito proponente.
 
-###### Art. 15.º - 1 - O processo a que se refere o n.º 1 do artigo anterior será instruído pelos serviços do Banco de Portugal, que formularão um relatório final e uma proposta de decisão.
+Art. 15.º - 1 - O processo a que se refere o n.º 1 do artigo anterior será instruído pelos serviços do Banco de Portugal, que formularão um relatório final e uma proposta de decisão.
 
 2 - O relatório e proposta de decisão são notificados aos eventuais sujeitos passivos da medida para, no prazo de 8 dias, deduzirem a sua defesa.
 
@@ -197,32 +273,32 @@ b) Quando, tendo sido emitido um ou mais cheques que não tenham sido pagos por 
 
 7 - Da decisão final cabe recurso contencioso nos termos gerais de direito.
 
-###### Art. 16.º - 1 - As notificações a que se referem os artigos 14.º e 15.º efectuam-se por meio de carta registada expedida para o último domicílio declarado às instituições de crédito sacadas e presumem-se feitas, salvo prova em contrário, no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte, se esse o não for.
+Art. 16.º - 1 - As notificações a que se referem os artigos 14.º e 15.º efectuam-se por meio de carta registada expedida para o último domicílio declarado às instituições de crédito sacadas e presumem-se feitas, salvo prova em contrário, no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte, se esse o não for.
 
 2 - A notificação tem-se por efectuada mesmo que o notificando recuse receber a carta ou não se encontre no domicílio indicado.
 
-###### Art. 17.º - 1 - Quem, estando abrangido pela medida de restrição ao uso de cheque, emitir cheque com provisão fora dos casos previstos no n.º 3 do artigo 10.º, ou no prazo de 8 dias após a notificação não devolver às instituições de crédito os módulos de cheques em seu poder, em conformidade com o n.º 2 do artigo 10.º incorre na pena prevista para o crime de desobediência.
+Art. 17.º - 1 - Quem, estando abrangido pela medida de restrição ao uso de cheque, emitir cheque com provisão fora dos casos previstos no n.º 3 do artigo 10.º, ou no prazo de 8 dias após a notificação não devolver às instituições de crédito os módulos de cheques em seu poder, em conformidade com o n.º 2 do artigo 10.º incorre na pena prevista para o crime de desobediência.
 
 2 - Quem, tendo-lhe sido aplicada a presente medida, emitir cheque sem provisão incorre na pena prevista para o crime de desobediência qualificada, sem prejuízo da responsabilidade pelo crime de emissão de cheque sem provisão.
 
-###### Art. 18.º Compete ao Banco de Portugal fixar os requisitos a observar pelas instituições de crédito na abertura de contas de depósito e no fornecimento de módulos de cheques, designadamente quanto à identificação dos respectivos titulares e representantes e, ainda, transmitir às instituições de crédito instruções tendentes à aplicação uniforme do disposto neste capítulo.
+Art. 18.º Compete ao Banco de Portugal fixar os requisitos a observar pelas instituições de crédito na abertura de contas de depósito e no fornecimento de módulos de cheques, designadamente quanto à identificação dos respectivos titulares e representantes e, ainda, transmitir às instituições de crédito instruções tendentes à aplicação uniforme do disposto neste capítulo.
 
-###### Art. 19.º As instituições de crédito que não dêem cumprimento ao disposto no capítulo II deste diploma ou às instruções que o Banco de Portugal, ao abrigo do artigo anterior, lhes transmitir por meio de circulares expedidas sob registo e com aviso de recepção ou entregues mediante protocolo, serão punidas conforme o disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, no artigo 8.º do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, e nos Decretos-Leis n.os [205/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1970-142291), de 12 de Maio, e [301/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1975-337056), de 20 de Junho.
+Art. 19.º As instituições de crédito que não dêem cumprimento ao disposto no capítulo II deste diploma ou às instruções que o Banco de Portugal, ao abrigo do artigo anterior, lhes transmitir por meio de circulares expedidas sob registo e com aviso de recepção ou entregues mediante protocolo, serão punidas conforme o disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, no artigo 8.º do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, e nos Decretos-Leis n.os [205/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1970-142291), de 12 de Maio, e [301/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1975-337056), de 20 de Junho.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 20.º É revogado o [Decreto-Lei n.º 530/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1975-312053), de 25 de Setembro.
+Art. 20.º É revogado o [Decreto-Lei n.º 530/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1975-312053), de 25 de Setembro.
 
-###### Art. 21.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+Art. 21.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 30 de Dezembro de 1983.**
+Promulgado em 30 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Janeiro de 1984.**
+Referendado em 3 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

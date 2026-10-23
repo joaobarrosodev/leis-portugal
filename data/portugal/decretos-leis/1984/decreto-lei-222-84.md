@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1984-385387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6053c3c4a8c0727151a1c2ea7253e6168be8416527108e9a0374e5864aecce97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28ce297940804c5cbc9bcaac8c40784681f64662b5a65aa43808d0469970b243
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Benefícios Fiscais
+- Crédito à Habitação
+- Habitação
+relationships:
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451825:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:22Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +103,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 5.º do [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 5.º do [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio, passa a ter a seguinte redacção:
 
 1 - Os pedidos de empréstimo são apreciados pelas instituições financeiras, mediante avaliação, salvo se se tratar de fogos construídos ao abrigo de programas habitacionais da administração central, regional ou local, casos em que aquelas instituições a podem dispensar, aceitando o valor atribuído pelo organismo promotor.
 
-###### Art. 2.º O n.º 2 do artigo 9.º do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), 30 de Dezembro, passa a ter a seguinte redacção:
+Art. 2.º O n.º 2 do artigo 9.º do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), 30 de Dezembro, passa a ter a seguinte redacção:
 
 2 - Os pedidos de empréstimo destinados à aquisição, construção, recuperação, beneficiação ou ampliação de fogos para habitação própria permanente serão apreciados pelas instituições de crédito, mediante avaliação, salvo se se tratar de fogos construídos ao abrigo de programas habitacionais da administração central, regional ou local, casos em que aquelas instituições a poderão dispensar, aceitando o valor atribuído pelo organismo promotor.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1984. - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias - João Rosado Correia.
 
-**Promulgado em 26 de Junho de 1984.**
+Promulgado em 26 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Junho de 1984.**
+Referendado em 27 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

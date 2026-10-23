@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01400/02010201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1984-660160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e3bd9c2ee344b45b378c2894a59ba235b36191053b24139d6747f4a120f95af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce78fffd983f276cdd0ad4b43f8570afd045c51b0773663babf20f1806331958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Qualidade
+- Controlo de Qualidade
+- Direcção Geral de Energia
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Motor
 relationships:
 - type: amended_by
   target: pt:dre:639320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:439446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:639320:por
+  label: "Revogado pelo DEC LEI.242/2007.21.06.2007.MEI, DR.IS [118] de 21.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2007-639320
+  date: '2007-06-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:48Z'
   warnings: []
   errors: []
 ---
@@ -102,23 +116,23 @@ Deste modo, a quantia referida no citado Decreto-Lei n.º 46450 passa a ter inci
 
 Assim, fazendo uso da autorização legislativa concedida pela alínea f) do artigo 1.º da [Lei n.º 16/83](https://diariodarepublica.pt/dr/detalhe/lei/16-1983-439446), de 6 de Setembro, o Governo decreta, nos termos da alínea d) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - A aprovação dos motores referidos no artigo 1.º do Decreto-Lei n.º 46450, de 24 de Julho de 1965, será feita mediante apresentação de certificado de conformidade com normas nacionais, estrangeiras ou internacionais, ou, na sua falta, de harmonia com os artigos seguintes.
+Artigo 1.º - A aprovação dos motores referidos no artigo 1.º do Decreto-Lei n.º 46450, de 24 de Julho de 1965, será feita mediante apresentação de certificado de conformidade com normas nacionais, estrangeiras ou internacionais, ou, na sua falta, de harmonia com os artigos seguintes.
 
-###### Art. 2.º - 1 - Os fabricantes e importadores que requeiram a aprovação de modelos de motores e não apresentem o certificado referido no artigo anterior entregarão com o pedido de aprovação, em duplicado, a documentação técnica referida no § 1.º do artigo 1.º do Decreto-Lei n.º 46450.
+Art. 2.º - 1 - Os fabricantes e importadores que requeiram a aprovação de modelos de motores e não apresentem o certificado referido no artigo anterior entregarão com o pedido de aprovação, em duplicado, a documentação técnica referida no § 1.º do artigo 1.º do Decreto-Lei n.º 46450.
 
 2 - A Direcção-Geral de Energia remeterá ao Laboratório Nacional de Engenharia e Tecnologia Industrial um exemplar dos documentos com a solicitação de ensaio do modelo e competente certificação.
 
 3 - O Laboratório Nacional de Engenharia e Tecnologia Industrial, no prazo de 8 dias, requisitará a apresentação do protótipo para realização do ensaio ou pronunciar-se-á pela emissão da aprovação provisória referida no artigo 3.º
 
-###### Art. 3.º A Direcção-Geral de Energia poderá, mediante comunicação do Laboratório Nacional de Engenharia e Tecnologia Industrial nesse sentido, conceder autorizações provisórias para modelos de motores.
+Art. 3.º A Direcção-Geral de Energia poderá, mediante comunicação do Laboratório Nacional de Engenharia e Tecnologia Industrial nesse sentido, conceder autorizações provisórias para modelos de motores.
 
-###### Art. 4.º Os motores lançados no mercado levarão aposta uma etiqueta fornecida pela Direcção-Geral de Energia com os seguintes dizeres, consoante seja o caso:
+Art. 4.º Os motores lançados no mercado levarão aposta uma etiqueta fornecida pela Direcção-Geral de Energia com os seguintes dizeres, consoante seja o caso:
 
 Modelo aprovado pela DGE;
 
 Modelo aprovado provisoriamente pela DGE para venda em Portugal.
 
-###### Art. 5.º - 1 - A quantia referida no artigo 2.º do Decreto-Lei n.º 46450 acima referido será destinada a suportar as despesas da aprovação de motores e dos ensaios a efectuar para esse efeito.
+Art. 5.º - 1 - A quantia referida no artigo 2.º do Decreto-Lei n.º 46450 acima referido será destinada a suportar as despesas da aprovação de motores e dos ensaios a efectuar para esse efeito.
 
 2 - Compete ao Ministro da Indústria e Energia, em portaria, estabelecer a quota-parte daquela quantia a atribuir à Direcção-Geral de Energia e ao Laboratório Nacional de Engenharia e Tecnologia Industrial, de harmonia com as despesas a suportar por uma e outra entidade na aprovação de motores.
 
@@ -126,20 +140,20 @@ Modelo aprovado provisoriamente pela DGE para venda em Portugal.
 
 4 - A quantia referida é paga junto da Direcção-Geral de Energia, que enviará ao Laboratório Nacional de Engenharia e Tecnologia Industrial, trimestralmente, as importâncias correspondentes à quota-parte que lhe tenha sido atribuída nos termos do número anterior.
 
-###### Art. 6.º O Ministro da Indústria e Energia estabelecerá um programa de verificação e certificação de motores conducente à eliminação progressiva da concessão de autorizações provisórias e do pagamento da quantia mencionada no artigo 5.º, que será progressivamente substituído pelo pagamento exclusivo de ensaios laboratoriais referentes a certificação de qualidade.
+Art. 6.º O Ministro da Indústria e Energia estabelecerá um programa de verificação e certificação de motores conducente à eliminação progressiva da concessão de autorizações provisórias e do pagamento da quantia mencionada no artigo 5.º, que será progressivamente substituído pelo pagamento exclusivo de ensaios laboratoriais referentes a certificação de qualidade.
 
-###### Art. 7.º O valor da quantia a que se refere o artigo 5.º será actualizado anualmente, e enquanto vigorar, por despacho do Ministro da Indústria e Energia.
+Art. 7.º O valor da quantia a que se refere o artigo 5.º será actualizado anualmente, e enquanto vigorar, por despacho do Ministro da Indústria e Energia.
 
-###### Art. 8.º O presente diploma entra em vigor em 1 de Julho de 1984.
+Art. 8.º O presente diploma entra em vigor em 1 de Julho de 1984.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - José Veiga Simão.
 
-**Promulgado em 4 de Janeiro de 1984.**
+Promulgado em 4 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Janeiro de 1984.**
+Referendado em 5 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

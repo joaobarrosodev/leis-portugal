@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1983-452683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cf113fc9858db8d8418ebeb1f83e8128f8a69d1935c84c92bf25b3cdf194f9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf5b6087099e83a319068751020ecd82ac642c0602dd368cfdcc8c461aa9b225
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Forças Armadas
+- Médico
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:36Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +95,7 @@ Considerando, finalmente, que a prometida regulamentação daquele diploma legal
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Enquanto não for publicada a regulamentação prevista no n.º 2 do artigo 15.º do Decreto-Lei n.º 519-B/77, de 17 de Dezembro, são adoptadas as seguintes normas para os efeitos prescritos no artigo 5.º do mesmo diploma:
+Artigo único. Enquanto não for publicada a regulamentação prevista no n.º 2 do artigo 15.º do Decreto-Lei n.º 519-B/77, de 17 de Dezembro, são adoptadas as seguintes normas para os efeitos prescritos no artigo 5.º do mesmo diploma:
 
 a) É dispensado o concurso para chefe de serviço, sendo para o efeito suficiente a análise curricular que preceda a nomeação dos oficiais superiores médicos para lugares em que o quadro da respectiva unidade ou estabelecimento exija o posto de maior ou capitão-tenente, bem como o de tenente-coronel ou capitão-de-fragata;
 
@@ -102,12 +105,12 @@ c) Os oficiais médicos que já tenham atingido posto superior àquele em que no
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Ricardo Manuel Simões Bayão Horta - Luís Eduardo da Silva Barbosa - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 4 de Junho de 1983.**
+Promulgado em 4 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1983.**
+Referendado em 7 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11300/15931595.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1984-384059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5499fbd196216eba2d597a9a0f3132478fb2e3d6cec080bd16f3d932ab976e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc1c7a56f881f276c8944562d63461395bc3ecfe207859896fb7bdc1143817d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto do SELO
+- Regulamento do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:11Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +125,15 @@ Ao abrigo da autorização concedida pelo artigo 20.º da [Lei n.º 42/83](https
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 12.º, 94.º, 111.º, 162.º e 167.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 12.º, 94.º, 111.º, 162.º e 167.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § 1.º As taxas do papel para letras são de 1$00, 5$00, 10$00, 20$00, 30$00, 40$00, 50$00, 60$00, 70$00, 80$00, 90$00, 100$00, 200$00, 300$00, 400$00, 500$00, 1000$00, 5000$00, 10000$00 e 20000$00.
 
 § 2.º Quando a taxa das letras ultrapassar o dobro da taxa máxima fixada no parágrafo anterior, a diferença do imposto será paga por meio de verba, devendo a repartição de finanças proceder à liquidação e referenciar no documento o número e a data da respectiva verba de pagamento e a indicação da tesouraria da Fazenda Pública onde este se realizou, o que será autenticado com o selo brano.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 § 1.º ...
 
@@ -116,11 +141,11 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 § 3.º Quando a taxa das estampilhas fiscais ultrapassar o dobro das taxas máximas fixadas no § 1.º, deverá o imposto ser pago por meio de verba, devendo a repartição de finanças proceder à sua liquidação e referenciar no documento o número e a data da respectiva verba de pagamento e a indicação da tesouraria da Fazenda Pública onde este se realizou, o que será autenticado com o selo branco.
 
-###### Art. 94.º O selo dos cheques de que tratam os artigos 46.º e 47.º da Tabela Geral do Imposto do Selo será pago no mês imediato àquele em que foram postos em circulação ou ao da sua entrega às entidades emitentes.
+Art. 94.º O selo dos cheques de que tratam os artigos 46.º e 47.º da Tabela Geral do Imposto do Selo será pago no mês imediato àquele em que foram postos em circulação ou ao da sua entrega às entidades emitentes.
 
 § único. ...
 
-###### Art. 111.º ...
+Art. 111.º ...
 
 § 1.º ...
 
@@ -128,29 +153,29 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 § 3.º A forma de pagamento do imposto devido pelas letras e livranças, prevista no § 1.º deste artigo, é obrigatória para as empresas públicas e para os contribuintes do grupo A da Contribuição Industrial com capital superior a 1000000$00.
 
-###### Art. 162.º ...
+Art. 162.º ...
 
 § 1.º O disposto no corpo deste artigo não é aplicável aos casos em que o pagamento do preço da transacção ou da prestação de serviço seja efectuado por meio de letras ou livranças.
 
 § 2.º Não é permitido o desdobramento de recibos respeitantes à mesma transacção ou serviço prestado com o fim de evitar o pagamento do imposto.
 
-###### Art. 167.º ...
+Art. 167.º ...
 
 § 1.º O regime estabelecido no corpo deste artigo é igualmente aplicável a todas as importâncias a pagar pelas entidades ali mencionadas respeitantes a fornecimentos de bens ou quaisquer prestações de serviços, salvo se os beneficiários estiverem abrangidos pelo disposto nos artigos 164.º e 165.º, o que deverá constar dos respectivos recibos ou documentos equivalentes, mediante a aposição do carimbo.
 
 § 2.º ...
 
-###### Art. 2.º É aditado ao Regulamento do Imposto do Selo o artigo 168.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao Regulamento do Imposto do Selo o artigo 168.º-A, com a seguinte redacção:
 
-###### Art. 168.º-A O chefe da repartirão de finanças da área da residência ou sede do contribuinte poderá corrigir o valor que tiver servido de base à liquidação do imposto pago por meio de guia nos termos dos artigos 164.º e 165.º quando tenha fundadas suspeitas, nomeadamente através dos elementos considerados para efeitos da contribuição industrial, de que o mesmo é inferior ao valor tributável real.
+Art. 168.º-A O chefe da repartirão de finanças da área da residência ou sede do contribuinte poderá corrigir o valor que tiver servido de base à liquidação do imposto pago por meio de guia nos termos dos artigos 164.º e 165.º quando tenha fundadas suspeitas, nomeadamente através dos elementos considerados para efeitos da contribuição industrial, de que o mesmo é inferior ao valor tributável real.
 
 § 1.º A correcção será efectuada durante o mês de Maio, relativamente ao ano anterior, mediante despacho preferido pelo chefe da repartição de finanças.
 
 § 2.º O valor tributável fixado em conformidade com o presente artigo será notificado ao contribuinte para no prazo de 30 dias efectuar o pagamento do imposto resultante da correcção ou, querendo, recorrer nos termos do artigo 251.º, sendo, neste caso, notificado da decisão para efectuar o pagamento do imposto que se mostrar devido nos 30 dias imediatos.
 
-###### Art. 3.º Os artigos 1, 114, 114-A, 120-A, 141 e 145 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
+Art. 3.º Os artigos 1, 114, 114-A, 120-A, 141 e 145 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Artigo 1 Abertura de crédito, sobre o seu valor e a pagar por meio de verba - 2(por mil) (selo de verba).
+Artigo 1 Abertura de crédito, sobre o seu valor e a pagar por meio de verba - 2(por mil) (selo de verba).
 
 Para os efeitos deste artigo, entende-se por abertura de crédito a obrigação que alguém assume, por meio de instrumento público, escrito particular ou correspondência, de fornecer a outrem fundos, mercadorias ou outros valores, quer seja para utilizar no País quer no estrangeiro.
 
@@ -164,7 +189,7 @@ As guias serão processadas em presença do livro de registo criado pelo [Decret
 
 Acresce o imposto do selo fixado nos artigos 92, 93 e 100, um ou outro, conforme a natureza do título.
 
-###### Art. 114 Livros dos comerciantes em nome individual, das sociedades comerciais e das empresas públicas, por cada folha:
+Art. 114 Livros dos comerciantes em nome individual, das sociedades comerciais e das empresas públicas, por cada folha:
 
 a) Livros de inventário e balanços, Diário, Razão, de actas, de registo de acções e obrigações, de balancetes de razão, de balancetes de contas correntes e de registo das folhas diárias dos apuros das vendas a dinheiro:
 
@@ -190,7 +215,7 @@ a) De registo de obrigações ao portador, a que se refere o artigo 113.º do C�
 
 b) De registo das acções não depositadas em instituições de crédito, a que se refere o artigo 9.º do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro.
 
-###### Art. 114-A Locação financeira, sobre o seu valor e por todo o tempo de vigência do contrato - 3(por mil) (estampilha ou selo de verba).
+Art. 114-A Locação financeira, sobre o seu valor e por todo o tempo de vigência do contrato - 3(por mil) (estampilha ou selo de verba).
 
 1 - Para efeitos deste artigo entendesse por valor do contrato o montante das importâncias pagas ao locador durante todo o tempo por que durar o contrato.
 
@@ -198,7 +223,7 @@ b) De registo das acções não depositadas em instituições de crédito, a que
 
 3 - Acresce o selo dos artigos 92, 93 e 100, um ou outro, segundo a natureza do título.
 
-###### Art. 120-A ...
+Art. 120-A ...
 
 Operações bancárias:
 
@@ -214,7 +239,7 @@ c) ...
 
 3 - ...
 
-###### Art. 141 ...
+Art. 141 ...
 
 1 - ...
 
@@ -234,7 +259,7 @@ Nos restantes casos o imposto a que se refere este artigo poderá também ser pa
 
 m) Os recibos das importâncias relativas à aquisição de valores selados, selos e mais fórmulas de franquia, bem como os resultantes da aquisição de bilhetes de lotaria nacional.
 
-###### Art. 145 ...
+Art. 145 ...
 
 Reforço ou aumento de capital das sociedades. sobre o montante de aumento:
 
@@ -248,9 +273,9 @@ c) ...
 
 2 - Fica isento do imposto o reforço ou aumento de capital social quando realizado em numerário.
 
-###### Art. 4.º É aditado à Tabela Geral do Imposto do Selo o artigo 134-A, com a seguinte redacção:
+Art. 4.º É aditado à Tabela Geral do Imposto do Selo o artigo 134-A, com a seguinte redacção:
 
-###### Art. 134-A Prémios em concursos realizados através de programas de televisão - 15% (selo especial).
+Art. 134-A Prémios em concursos realizados através de programas de televisão - 15% (selo especial).
 
 1 - O imposto incide sobre o valor de cada prémio e é devido pelo respectivo beneficiário.
 
@@ -258,53 +283,53 @@ c) ...
 
 3 - O imposto será liquidado na data da atribuição dos prémios pela entidade promotora do concurso e por esta entregue nos cofres do Estado, por meio de guia, nos termos do artigo 23.º do citado Regulamento.
 
-###### Art. 5.º São alteradas as taxas da Tabela Geral do Imposto do Selo constantes dos artigos abaixo indicados, que passam a ser as seguintes:
+Art. 5.º São alteradas as taxas da Tabela Geral do Imposto do Selo constantes dos artigos abaixo indicados, que passam a ser as seguintes:
 
-###### Art. 17, n.º 1, alínea c) - 50$00;
+Art. 17, n.º 1, alínea c) - 50$00;
 
-###### Art. 20 - 1500$00;
+Art. 20 - 1500$00;
 
-###### Art. 32 - 4$00;
+Art. 32 - 4$00;
 
-###### Art. 46 - $60;
+Art. 46 - $60;
 
-###### Art. 47 - $60;
+Art. 47 - $60;
 
-###### Art. 68 - 500$00;
+Art. 68 - 500$00;
 
-###### Art. 90:
+Art. 90:
 
 1.ª taxa - 60$00;
 
 2.ª taxa - 30$00;
 
-###### Art. 92 - 2.ª e 3.ª taxas - 180$00;
+Art. 92 - 2.ª e 3.ª taxas - 180$00;
 
-###### Art. 93, n.º 1:
+Art. 93, n.º 1:
 
 a) 70$00;
 
 b) 900$00;
 
-###### Art. 99-A, n.º 1 - 40$00;
+Art. 99-A, n.º 1 - 40$00;
 
-###### Art. 119 - todas as taxas - 40$00;
+Art. 119 - todas as taxas - 40$00;
 
-###### Art. 121 - 30$00;
+Art. 121 - 30$00;
 
-###### Art. 122 - 9$00;
+Art. 122 - 9$00;
 
-###### Art. 131 - ambas as taxas - 40$00;
+Art. 131 - ambas as taxas - 40$00;
 
-###### Art. 137, alínea b) - 60$00;
+Art. 137, alínea b) - 60$00;
 
-###### Art. 138 - 40$00;
+Art. 138 - 40$00;
 
-###### Art. 139 - 2.ª taxa - 60$00;
+Art. 139 - 2.ª taxa - 60$00;
 
-###### Art. 142 - 9$00;
+Art. 142 - 9$00;
 
-###### Art. 148:
+Art. 148:
 
 1.ª taxa - 15$00;
 
@@ -314,30 +339,30 @@ b) 900$00;
 
 4.ª taxa - 100$00;
 
-###### Art. 149 - 40$00;
+Art. 149 - 40$00;
 
-###### Art. 151 - 30$00;
+Art. 151 - 30$00;
 
-###### Art. 158 - 40$00;
+Art. 158 - 40$00;
 
-###### Art. 160 - 40$00;
+Art. 160 - 40$00;
 
-###### Art. 162 - 600$00;
+Art. 162 - 600$00;
 
-###### Art. 168 - 1$50.
+Art. 168 - 1$50.
 
-###### Art. 6.º - 1 - Por cada requisição de actos de registo ou de certidões das conservatórias do registo predial é pago o imposto do selo de 60$00.
+Art. 6.º - 1 - Por cada requisição de actos de registo ou de certidões das conservatórias do registo predial é pago o imposto do selo de 60$00.
 
 2 - O imposto do selo devido pelas requisições ou pela passagem de certidões dos serviços dos registos e do notariado é pago por meio de verba e entregue nos cofres do Estado dentro do prazo previsto no artigo 23.º do Regulamento do Imposto do Selo.
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1984. - Mário Soares - Carlos Alberto Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 24 de Abril de 1984.**
+Promulgado em 24 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Abril de 1984.**
+Referendado em 26 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

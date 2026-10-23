@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14400/15061508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1986-228458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0b32aa54b56820b7f8f0acced6d74728513cb3062dc5345c7d7e0e0266e1366
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccdd46b5623cddea9880e45733fec4ddf9e5672015ce92ab0d84ca65a3fdf7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Definição de Competências
+- Funchal
+- Fundo de Turismo
+- Inspecção Geral de Jogos
+- Jogos de Fortuna e Azar
+- Porto Santo
+- Receita Própria
+- Tróia
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:42Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +137,9 @@ Nestes termos:
 
 Ao abrigo da autorização legislativa concedida pelo artigo 39.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 34.º, 35.º, 36.º, 37.º, 39.º e 41.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 34.º, 35.º, 36.º, 37.º, 39.º e 41.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passam a ter a seguinte redacção:
 
-###### Art. 34.º As empresas concessionárias ficam obrigadas ao pagamento de um imposto especial pelo exercício da actividade do jogo, o qual será liquidado e cobrado nos termos dos artigos seguintes, não sendo exigível qualquer outra tributação, geral ou local, relativa ao exercício dessa actividade ou de quaisquer outras a que estejam obrigadas no contrato de concessão.
+Art. 34.º As empresas concessionárias ficam obrigadas ao pagamento de um imposto especial pelo exercício da actividade do jogo, o qual será liquidado e cobrado nos termos dos artigos seguintes, não sendo exigível qualquer outra tributação, geral ou local, relativa ao exercício dessa actividade ou de quaisquer outras a que estejam obrigadas no contrato de concessão.
 
 § 1.º Do imposto especial sobre o jogo, 80% constituem receita do Fundo de Turismo, que, da importância recebida, aplicará 25% do imposto por si arrecadado em cada um dos concelhos em que se localizem os casinos, na realização de obras de interesse para o turismo, cujo plano será aprovado pelo membro do Governo com competência sobre o turismo.
 
@@ -109,7 +147,7 @@ Ao abrigo da autorização legislativa concedida pelo artigo 39.º da [Lei n.º 
 
 § 3.º O exercício por parte das empresas concessionárias de quaisquer actividades não abrangidas pelo corpo do artigo fica sujeito ao regime tributário respectivo.
 
-###### Art. 35.º Sobre os jogos bancados incidirá um imposto constituído por duas parcelas:
+Art. 35.º Sobre os jogos bancados incidirá um imposto constituído por duas parcelas:
 
 1) A primeira constará de uma percentagem sobre o capital em giro inicial, fixada da seguinte forma:
 
@@ -135,7 +173,7 @@ Funchal, Algarve, Tróia, Vidago-Pedras Salgadas e Porto Santo: 10% no 1.º quin
 
 Restantes zonas: 20%.
 
-###### Art. 36.º Sobre os jogos não bancados o imposto é constituído por uma percentagem incidente sobre a receita cobrada dos pontos, fixada da seguinte forma:
+Art. 36.º Sobre os jogos não bancados o imposto é constituído por uma percentagem incidente sobre a receita cobrada dos pontos, fixada da seguinte forma:
 
 1) Funchal, Algarve, Tróia, Vidago-Pedras Salgadas e Porto Santo: 5%, 6% e 7,5% sobre a receita cobrada dos pontos, respectivamente para o 1.º, 2.º e 3.º quinquénios, 10% nos 4.º e 5.º quinquénios e 20% nos demais quinquénios; restantes zonas: 20%;
 
@@ -147,7 +185,7 @@ Importâncias entre 100000 contos e 200000 contos anuais - o dobro das percentag
 
 Importâncias superiores a 200000 contos anuais - o triplo das percentagens indicadas no n.º 1.
 
-###### Art. 37.º As percentagens previstas nos artigos anteriores para cálculo do imposto a pagar pelas concessionárias incidem sobre as importâncias obtidas pela seguinte forma:
+Art. 37.º As percentagens previstas nos artigos anteriores para cálculo do imposto a pagar pelas concessionárias incidem sobre as importâncias obtidas pela seguinte forma:
 
 1) Jogos bancados:
 
@@ -223,7 +261,7 @@ Nesta última hipótese, o imposto é devido em relação ao referido capital, a
 
 § 2.º As bases fixadas por este artigo poderão ser revistas pelo Governo quando se verifiquem circunstâncias que notoriamente influam nos resultados da exploração.
 
-###### Art. 39.º As empresas concessionárias podem avençar-se para o pagamento do imposto referido no artigo 34.º
+Art. 39.º As empresas concessionárias podem avençar-se para o pagamento do imposto referido no artigo 34.º
 
 § 1.º A avença não poderá ser estabelecida por período inferior a seis meses nem superior a 24, quando se trate de zonas de jogo permanente, e inferior a seis meses ou superior a doze, quando se trate de zonas de jogo temporário, podendo, porém, estes prazos ser prorrogados, revisto o respectivo quantitativo, por novos períodos compreendidos nos citados limites.
 
@@ -231,18 +269,18 @@ Nesta última hipótese, o imposto é devido em relação ao referido capital, a
 
 § 3.º A liquidação segundo o regime de avença aceite pela concessionária terá início no mês seguinte àquele em que se verifique a aceitação.
 
-###### Art. 41.º O imposto do jogo será pago, em relação a cada mês, até ao dia 10 do mês seguinte, na tesouraria da Fazenda Pública do concelho da respectiva zona, mediante guia emitida pela Inspecção-Geral de Jogos, a enviar à repartição de finanças do mesmo concelho.
+Art. 41.º O imposto do jogo será pago, em relação a cada mês, até ao dia 10 do mês seguinte, na tesouraria da Fazenda Pública do concelho da respectiva zona, mediante guia emitida pela Inspecção-Geral de Jogos, a enviar à repartição de finanças do mesmo concelho.
 
-###### Art. 2.º São revogados os Decretos-Leis n.os [250/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1976-502815), de 7 de Abril, e [453/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1980-462217), de 8 de Outubro.
+Art. 2.º São revogados os Decretos-Leis n.os [250/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1976-502815), de 7 de Abril, e [453/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1980-462217), de 8 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 22 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 5 de Junho de 1986.**
+Promulgado em 5 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1986.**
+Referendado em 12 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

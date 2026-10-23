@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/20800/27662770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1984-373428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c57ef1ee1934c48234edc7768e11907b61ea710a974a45e52328c5d6148d18a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d26705546f93122d8c89514ff76790ff0dbb4616ae63113a9bf5f27f4fcb458
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capitania
+- Chefe do Estado Maior da Armada
+- Comissão do Domínio Público Marítimo
+- Comissão Nacional contra a Poluição do MAR
+- Comissão para o Estudo do Aproveitamento do Leito do MAR
+- Criação de Lugares
+- Criação de Serviços
+- Definição de Competências
+- Departamento Marítimo
+- Direcção Geral da Marinha
+- Direcção Geral dos Serviços de Fomento Marítimo
+- Extinção de Serviços
+- Orgânica
+- Portos
+- Sistema de Autoridade Marítima
 relationships:
 - type: amended_by
   target: pt:dre:1183491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:618535:por
+  label: "Aditada a alínea u) ao n.º 2 do artigo 5.º, pelo DEC LEI.275/89.22.08.1989.MDN, DR.IS [192] de 22.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1989-618535
+  date: '1989-08-22'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado relativamente à tutela das competências atribuídas à Comissão Nacional contra a Poluição do Mar, pelo DEC
+    LEI.451/91.04.12.1991.PCM, DR.IS-A [279]Supl de 04.12.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:516742:por
+  label: "Alterado o art. 3.º, na redacção do Dec Lei 275/89, de 22-Ago pelo DEC LEI.124/98.1998.05.12.MDN DR.IS-A [109]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1998-516742
+  date: '1998-05-12'
+- type: cites
+  target: pt:dre:200261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474102:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:308138:por
+  label: Rectificado pela DECL.DD5383.20.09.1984.PCM, DR.IS [227]Supl de 29.09.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-308138
+  date: '1984-09-20'
+- type: repealed_by
+  target: pt:dre:251979:por
+  label: "Revogado pelo DEC LEI.44/2002.2002.03.02.MDN DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2002-251979
+  date: '2002-03-02'
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:38Z'
   warnings: []
   errors: []
 ---
@@ -424,7 +486,7 @@ Os encargos resultantes da execução deste diploma serão suportados pelas dota
 
 2 - O n.º 1 do artigo 1.º do [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 520/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1979-353732), de 31 de Dezembro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - A Marinha compreende:
+Artigo 1.º - 1 - A Marinha compreende:
 
 a) ...
 
@@ -488,12 +550,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha - António Antero Coimbra Martins - Francisco José de Sousa Tavares - Carlos Montez Melancia - Maria Manuela Aguiar Dias Moreira - Jacinto José Montalvão de Santos e Silva Marques - Joaquim Leitão da Rocha Cabral - Joaquim Ferreira do Amaral.
 
-**Promulgado em 22 de Agosto de 1984.**
+Promulgado em 22 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 24 de Agosto de 1984.**
+Referendado em 24 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

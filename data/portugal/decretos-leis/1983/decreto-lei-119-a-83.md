@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 48/1983, 2º Suplemento, Série I de 1983-02-28
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 708-(7) a 708-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,191 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af339f83c77b92f1cdf6c2db9be17728156ea5a53d04fa6ae8d94599c026d299
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5cce494f49df497e427d39f90d7345b9f1e18bf5953dcac3047321192838cd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Contribuição Industrial
+- Contribuições e Impostos
+- Despesas Públicas
+- Dotação Orçamental
+- Execução do Orçamento
+- Finanças Locais
+- Gestão Orçamental
+- Importação
+- Imposto Extraordinário
+- Imposto Extraordinário sobre Lucros
+- Orçamento Geral do Estado
+- Sobretaxa de Importação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666332:por
+  label: "Mantido, relativamente aos rendimentos colectáveis respeitantes ao ano de 1986, o imposto extraordinário criado\
+    \ pelo art. 33º do presente diploma, pelo DEC LEI.167/87.18.04.1987.MF, DR.IS [90] de 18.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1987-666332
+  date: '1987-04-18'
+- type: amended_by
+  target: pt:dre:287392:por
+  label: Mantido em vigor o imposto extraordinário criado pelo art. 33.º do presente diploma, na redacção que lhe foi dada
+    pelo DR 66/83, de 13-jul, relativamente aos rendimentos colectáveis respeitantes ao ano de 1987, e alteradas as datas
+    previstas no presente diploma, pelo(a) Decreto-Lei n.º 75/88 - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1988-287392
+  date: '1988-03-09'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626659:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:21Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +271,7 @@ Síntese do Orçamento do Estado
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 Paralelamente, a relação entre o défice corrente e o produto interno bruto decresce de 3,2% para 2,1%, em termos orçamentais, não obstante o peso atingido pelos encargos com juros da dívida, cujo montante orçamentado para 1983, da ordem dos 147 milhões de contos, é quase o triplo do valor do défice corrente.
 
@@ -166,7 +317,7 @@ QUADRO II
 
 Contas nacionais do sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 Por sua vez, os valores das despesas indicados para a administração local são meramente indicativos das tendências observadas.
 
@@ -290,7 +441,7 @@ Receitas orçamentais efectivas
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 12. Segundo as previsões, espera-se que as receitas fiscais registem um aumento de 114,5 milhões de contos relativamente ao Orçamento inicial de 1982, verificando-se uma maior variação absoluta nos impostos indirectos (+67,3 milhões de contos) do que nos directos, embora nestes se observe também um acréscimo apreciável.
 
@@ -328,7 +479,7 @@ Receitas fiscais
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 14. As receitas dos impostos indirectos cifram-se em 274,9 milhões de contos, o que significa um acréscimo de 32,4 em relação ao valor previsto no Orçamento para 1982. Esse crescimento é mais atenuado que o previsto para o ano transacto (35,6%), devido fundamentalmente a uma taxa de acréscimo inferior no imposto de transacções, o qual, só por si, representa 42,5% do valor estimado para as cobranças de tributação indirecta.
 
@@ -406,7 +557,7 @@ Classificação orgânica
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 As despesas próprias do Ministério das Finanças e do Plano são fixadas em 29,8 milhões de contos, o que corresponde a um aumento de 13,1% relativamente a 1982.
 
@@ -458,7 +609,7 @@ Classificação económica das despesas públicas (ver nota a)
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 (nota a) Classificação económica de acordo com a legislação em vigor - [Decreto-Lei n.º 737/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-1976-409569), de 16 de Outubro, e despacho do Ministro das Finanças publicado na mesma data.
 
@@ -484,7 +635,7 @@ Classificação funcional
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 Tendo em conta as reservas com que os valores devem ser interpretados, nota-se uma ampliação das verbas para os vários serviços colectivos e sociais, particularmente os relativos a educação e segurança e assistência sociais; excluindo os encargos com a dívida pública, estas despesas representam 32% do total das despesas, percentagem um pouco superior à que se apurou no Orçamento para 1982.
 
@@ -516,7 +667,7 @@ Dotações do Orçamento do Estado para a administração local
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 Nos termos do artigo 14.º da Lei do Orçamento, ficou o Governo autorizado a rever a incidência, isenções, determinação da matéria colectável e taxas da contribuição predial, bem como tomar medidas legislativas tendentes a acelerar a inscrição dos prédios nas matrizes.
 
@@ -554,7 +705,7 @@ Articulação do Orçamento do Estado com os orçamentos das regiões autónomas
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 Registe-se ainda que o défice da Região Autónoma dos Açores a financiar pelo orçamento da segurança social está fixado em 1374 milhares de contos.
 
@@ -588,7 +739,7 @@ Financiamento do défice orçamental
 
 (Milhões de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 3 - Orçamentos dos serviços e fundos autónomos para 1983
 
@@ -624,7 +775,7 @@ Orçamento dos serviços autónomos para 1983 (ver nota a)
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 (nota a) Segundo a metodologia da contabilidade pública.
 
@@ -646,7 +797,7 @@ Orçamento dos fundos autónomos para 1983
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 As receitas de capital dos fundos autónomos abrangem fundamentalmente recursos provenientes da utilização de saldos de gerência e reembolsos de empréstimos concedidos, estando estes últimos concentrados no orçamento do Fundo de Renovação da Marinha Mercante.
 
@@ -670,7 +821,7 @@ Orçamento da segurança social
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 33. A previsão das receitas correntes para 1983 eleva-se a 189,8 milhões de contos, representando um aumento de 32,8 milhões de contos relativamente ao valor inscrito no Orçamento do ano transacto.
 
@@ -708,7 +859,7 @@ Em execução da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Execução do Orçamento do Estado)
 
@@ -716,7 +867,7 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 2 - Os mapas referidos no número anterior fazem parte integrante deste decreto-lei.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Utilização das dotações orçamentais)
 
@@ -730,13 +881,13 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 5 - No âmbito dos serviços civis, apenas o Instituto Geográfico e Cadastral fica autorizado a realizar despesas com fotografias aéreas, dadas as responsabilidades que nessa área lhe estão cometidas, através do [Decreto-Lei n.º 513/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1980-462273), de 28 de Outubro.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Orçamentos privativos)
 
 Os orçamentos privativos dos serviços e fundos autónomos da Administração Central são aprovados pelo ministro da tutela e visados pelo Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Regime duodecimal)
 
@@ -758,13 +909,13 @@ c) De encargos fixos mensais que se vençam em data certa ou que resultem da exe
 
 6 - Nos serviços com orçamentos privativos, a competência designada no número anterior pertence à entidade que aprovar o respectivo orçamento, sem necessidade de intervenção do Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Eficácia, eficiência e pertinência das despesas)
 
 Compete às delegações da Direcção-Geral da Contabilidade Pública, no âmbito da sua específica acção liquidadora das despesas orçamentais e autorizadora do seu pagamento, proceder, com o maior rigor, à análise da utilidade social das despesas sujeitas à informação de cabimento prévio, nos domínios da eficácia, da eficiência e da pertinência.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Contenção de despesas)
 
@@ -790,7 +941,7 @@ c) As dotações destinadas a «Aquisição de serviços - Locação de bens»,
 
 4 - O Ministro de Estado e das Finanças e do Plano poderá autorizar a utilização de maior percentagem das dotações referidas no n.º 1, mediante processos devidamente justificados pelos, serviços e informados pelas respectivas delegações da Direcção-Geral da Contabilidade Pública e previamente autorizados pelos ministros da tutela.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Fundos permanentes)
 
@@ -798,7 +949,7 @@ c) As dotações destinadas a «Aquisição de serviços - Locação de bens»,
 
 2 - Mediante autorização do ministro da pasta, em casos especiais devidamente fundamentados e com o acordo do Ministro de Estado e das Finanças e do Plano, poderão ser constituídos fundos permanentes por importâncias superiores a 1 duodécimo, em conta das correspondentes dotações orçamentais, devendo ser repostos nos cofres do Estado, até 14 de Fevereiro seguinte, os saldos que porventura se verifiquem no final do ano económico.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Requisição de fundos)
 
@@ -810,7 +961,7 @@ c) As dotações destinadas a «Aquisição de serviços - Locação de bens»,
 
 4 - As delegações da Direcção-Geral da Contabilidade Pública não poderão autorizar, para pagamento, as requisições e outros documentos de levantamentos de fundos dos cofres do Estado que, em face dos elementos referidos nos n.os 2 e 3, se mostrem desnecessários.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Aquisição de veículos com motor)
 
@@ -818,13 +969,13 @@ c) As dotações destinadas a «Aquisição de serviços - Locação de bens»,
 
 2 - As referidas propostas, depois de aprovadas pelo ministro da tutela, serão submetidas à Direcção-Geral do Património do Estado, que, com o seu parecer, as apresentará à apreciação do Ministro de Estaedo e das Finanças e do Plano.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Alterações ao Orçamento Geral do Estado)
 
 Os pedidos de alterações orçamentais serão apresentados, nos casos em que seja justificada a sua imprescindibilidade, e nos termos do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, à correspondente delegação da Direcção-Geral da Contabilidade Pública, a qual apenas dará seguimento aos que se apresentarem com adequada contrapartida ou, no caso de esta faltar, desde que se verifique terem sido esgotadas todas as possibilidades de a conseguir nas verbas do respectivo orçamento.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Alteração de determinados prazos para autorização de despesas)
 
@@ -840,19 +991,19 @@ b) Todas as operações a cargo daquelas delegações terão lugar até 16 de Ja
 
 c) Em 31 de Janeiro de 1984 será encerrada, com referência a 31 de Dezembro anterior, a conta corrente do Tesouro Público no Banco de Portugal, como caixa geral do Estado, caducando as autorizações que até essa data não se tenham efectivado, devendo os restantes cofres públicos proceder da mesma forma.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Alteração da data para remessas das tabelas de entrada e saída de fundos relativos ao último mês do ano económico.)
 
 As tabelas de entrada e saída de fundos relativos ao mês de Dezembro de 1983 deverão ser enviadas pelos diversos cofres públicos à Direcção-Geral da Contabilidade Pública até ao dia 15 de Fevereiro seguinte.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Isenção de reposição de saldos)
 
 O disposto no n.º 9 do artigo 4.º do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, não se aplica às verbas consignadas no Orçamento Geral do Estado a «Serviços e obras sociais», ao «Fundo de Compensação do Seguro de Colheitas», ao «Serviço Nacional de Saúde» e bem assim a outros casos que mereçam a concordância do Ministro de Estado e das Finanças e do Plano, precedendo, quanto aos últimos, o parecer da Direcção-Geral da Contabilidade Pública.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Dotações para «Investimentos do Plano»)
 
@@ -862,61 +1013,61 @@ O disposto no n.º 9 do artigo 4.º do [Decreto-Lei n.º 459/82](https://diariod
 
 3 - Os fundos e serviços autónomos, sem prejuízo da elaboração dos programas, a aprovar e a visar nos termos prescritos no n.º 1, só poderão aplicar as referidas dotações após a sua inclusão em orçamento privativo suplementar, sujeito à aprovação e visto das entidades competentes.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Despesas com a integração ou requisição de adidos)
 
 As despesas com a integração ou requisição de pessoal do quadro geral de adidos continuarão a ser satisfeitas, em regra, em conta de verbas próprias dos serviços ou das autarquias locais que utilizarem esse pessoal.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Compromissos internacionais de natureza militar)
 
 De harmonia com os compromissos internacionais e para ocorrer a exigências de natureza militar, é acrescentada de 731252 contos a importância do Orçamento Geral do Estado corrigida pelo artigo 16.º do [Decreto-Lei n.º 364/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1981-144414), de 31 de Dezembro.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Participação financeira nos investimentos das regiões autónomas)
 
 A verba descrita no capítulo 60.º do orçamento do Ministério das Finanças e do Plano, destinada a participação financeira nos investimentos das regiões autónomas, só pode ser aplicada mediante despacho do Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Subsídios de empresas públicas)
 
 Depende de resolução do Conselho de Ministros, sob proposta conjunta do ministro da tutela e do Ministro de Estado e das Finanças e do Plano, a concessão, no decurso do corrente ano económico, de subsídios a empresas públicas que não se encontrem individualizadas como entidades recebedoras do Orçamento Geral do Estado.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Despesas respeitantes à ex-Inspecção-Geral de Seguros)
 
 No ano de 1983, as despesas a pagar e respeitantes à Inspecção-Geral de Seguros, extinta pelo [Decreto-Lei n.º 302/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1982-397311), de 30 de Julho, e despacho de 28 de Outubro de 1982 do Secretário de Estado do Tesouro, publicado no suplemento ao Diário da República, 1.ª série, n.º 266, de 17 de Novembro de 1982, serão satisfeitas pelas dotações inscritas no capítulo 21.º - «Inspecção-Geral de Seguros» - do orçamento do Ministério das Finanças e do Plano.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Pessoal transitado para o Instituto Português do Património Cultural)
 
 As despesas com o pessoal relativas aos guardas dos palácios nacionais que transitaram para o Instituto Português do Património Cultural, do Ministério da Cultura e Coordenação Científica, por força do disposto no [Decreto-Lei n.º 318/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1982-397900), de 30 de Agosto, serão satisfeitas no ano de 1983 por conta das dota inscritas no capítulo 23.º - «Direcção-Geral do Património do Estado» - do orçamento do Ministério das Finanças e do Plano, até à sua completa integração no quadro do aludido Instituto.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Dotações para encargos com os tribunais do trabalho)
 
 As despesas de funcionamento das secretarias judiciais dos tribunais do trabalho, excluídas as de abonos aos respectivos magistrados, passam, a partir de 1 de Janeiro de 1983 e até que se promulgue legislação que altere o regime actualmente em vigor, a ser suportadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, as respeitantes a vencimentos dos funcionários de justiça, e pelo Cofre Geral dos Tribunais, quanto às restantes, independentemente dos anos económicos a que pertencerem os encargos a satisfazer.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Dotações para pessoal no orçamento do Ministério da Justiça)
 
 Os pedidos de alterações orçamentais de verbas destinadas ao pagamento de «Remunerações certas e permanentes» que se apresentem sem contrapartida adequada em disponibilidades de dotações de despesa do orçamento do Ministério da Justiça só terão seguimento se, por mais-valia de receita a entregar nos cofres do Tesouro pelo Gabinete de Gestão Financeira do Ministério da Justiça, for oferecida a necessária cobertura.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Despesas de representação do Ministério dos Negócios Estrangeiros)
 
 Durante o ano de 1983, a fixação dos quantitativos para despesas de representação do Ministério dos Negócios Estrangeiros continuará a carecer de aprovação do Ministro de Estado e das Finanças e do Plano.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Despesas com a cooperação)
 
@@ -926,7 +1077,7 @@ Durante o ano de 1983, a fixação dos quantitativos para despesas de representa
 
 3 - É vedado a todos os serviços do Estado, independentemente do seu grau de autonomia, o desenvolvimento de quaisquer acções de cooperação que não constem do programa referido no n.º 1 e que não sejam cobertas pela referida dotação.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Regime especial de despesas no Ministério da Indústria, Energia e Exportação)
 
@@ -936,7 +1087,7 @@ Durante o ano de 1983, a fixação dos quantitativos para despesas de representa
 
 3 - As receitas que forem entregues, por determinação do Ministro da Indústria, Energia e Exportação, pelos organismos tutelados do Ministério da Indústria, Energia e Exportação servirão igualmente de cobertura às despesas a realizar por conta da verba indicada no número anterior.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Dotações comuns para vencimentos do pessoal docente)
 
@@ -946,7 +1097,7 @@ Durante o ano de 1983, a fixação dos quantitativos para despesas de representa
 
 3 - À Direcção-Geral de Educação de Adultos compete prestar informações de cabimento nos diplomas de nomeação dos regentes de cursos de educação de adultos.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Verbas para obras a efectuar pela Direcção-Geral dos Edifícios e Monumentos Nacionais)
 
@@ -954,19 +1105,19 @@ Durante o ano de 1983, a fixação dos quantitativos para despesas de representa
 
 2 - Os processos de adjudicação serão submetidos, para a verificação de cabimento, aos serviços beneficiários das obras, a quem a Direcção-Geral dos Edifícios e Monumentos Nacionais também enviará os documentos de despesa, para efeitos de processamento.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Dotações comuns para os órgãos e serviços externos da Direcção-Geral de Apoio Médico do Ministério de Qualidade de Vida.)
 
 As dotações consignadas aos centros de medicina desportiva, até à sua reestruturação orgânica, serão utilizadas por cada um dos organismos, mediante a constituição de fundos permanentes, nos termos do artigo 24.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Sobretaxa de importação)
 
 Manter-se-á em vigor até 31 de Dezembro de 1983 a sobretaxa de importação criada pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, com as alterações já introduzidas ou a introduzir nele e nos seus anexos.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Benefícios fiscais relativos aos contratos de viabilização e acordos de saneamento económico-financeiro)
 
@@ -974,13 +1125,13 @@ Manter-se-á em vigor até 31 de Dezembro de 1983 a sobretaxa de importação cr
 
 2 - São alargados às empresas públicas que celebrem, até 31 de Dezembro de 1983, acordos de saneamento económico-financeiro ao abrigo do [Decreto-Lei n.º 353-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-c-1977-240848), de 29 de Agosto, os benefícios fiscais indicados na legislação referida no número anterior.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Benefícios fiscais relativos às empresas assistidas pela Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L)
 
-**O Ministro de Estado e das Finanças e do Plano poderá, durante o ano de 1983 e até à publicação da lei prevista no artigo 12.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, conceder às empresas assistidas pela Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., entre os benefícios fiscais previstos nas Leis n.os [36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193) e [39/77](https://diariodarepublica.pt/dr/detalhe/lei/39-1977-253188), ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.**
+O Ministro de Estado e das Finanças e do Plano poderá, durante o ano de 1983 e até à publicação da lei prevista no artigo 12.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, conceder às empresas assistidas pela Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., entre os benefícios fiscais previstos nas Leis n.os [36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193) e [39/77](https://diariodarepublica.pt/dr/detalhe/lei/39-1977-253188), ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Imposto extraordinário sobre algumas despesas das empresas)
 
@@ -1006,7 +1157,7 @@ d) Despesas com rendas de imóveis não adstritos ao exercício da actividade da
 
 7 - Dentro do prazo de 30 dias a contar da publicação deste diploma será publicado o respectivo regulamento.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Imposto extraordinário sobre lucros)
 
@@ -1024,7 +1175,7 @@ d) Despesas com rendas de imóveis não adstritos ao exercício da actividade da
 
 7 - Dentro do prazo de 30 dias a contar da publicação deste decreto-lei será publicado o respectivo regulamento.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Outros impostos extraordinários)
 
@@ -1050,7 +1201,7 @@ b) 15% sobre os impostos mencionados nas alíneas b), c) e d) do mesmo número.
 
 5 - Na liquidação, cobrança, reclamações, recursos e penalidades observar-se-ão, na parte aplicável, as normas correspondentes estabelecidas no respectivo Código para cada um dos impostos mencionados nas alíneas a) a d) do n.º 1.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Finanças locais)
 
@@ -1058,19 +1209,19 @@ b) 15% sobre os impostos mencionados nas alíneas b), c) e d) do mesmo número.
 
 2 - Os valores globais das receitas constantes do mapa anexo n.º 4 relativos aos municípios das Regiões Autónomas dos Açores e da Madeira serão mensalmente transferidos para os respectivos Governos Regionais, a quem competirá processar os correspondentes pagamentos de acordo com os critérios estabelecidos na [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532).
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Actualização de valores previstos no [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro)
 
 Os valores a efectuar por conta das dotações orçamentais destinadas a «Bens duradouros» e «Investimentos» referidos no artigo 5.º do [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro, mantêm-se elevados para 250 contos e 25000 contos, respectivamente.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Legislação revogada)
 
 Fica revogado, a partir da data da entrada em vigor deste diploma, o [Decreto-Lei n.º 493/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1982-626659), de 31 de Dezembro.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Entrada em vigor)
 
@@ -1078,30 +1229,30 @@ O presente diploma entra em vigor em 1 de Março de 1983.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 28 de Fevereiro de 1983.**
+Promulgado em 28 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Fevereiro de 1983.**
+Referendado em 28 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 ## ANEXO I — Mapa das receitas previstas para 1983
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 ## ANEXO 2 — Mapa das despesas fixadas para 1983
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 ## ANEXO 3 — Resumo, por objectivos finais, das despesas de ano de 1983
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
 
 ## ANEXO 4 — Mapa das receitas previstas para 1983 a que se refere a n.º 1 de artigo 35.º
 
 (Milhares de escudos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04802/00070049.pdf)

@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1985-325118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55bcc9007df20bb7a3d2b7d570ff9cfa9d961523faa64ecd2870e67d2a7f05d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42a1828ce8e99895f4aeecd9d118dc432c743be774b1c387e9c8274f60d6f14c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cartão de Identificação
+- Gabinete Governamental
+- Madeira.região Autónoma
+- Ministro da República
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:15Z'
   warnings: []
   errors: []
 ---
@@ -93,33 +98,33 @@ Por último, é imperativo assegurar àqueles elementos a colaboração de todas
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A identificação dos membros e funcionários dos serviços de apoio aos Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira far-se-á mediante a apresentação do cartão de identificação constante do modelo anexo ao presente diploma.
+Artigo 1.º A identificação dos membros e funcionários dos serviços de apoio aos Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira far-se-á mediante a apresentação do cartão de identificação constante do modelo anexo ao presente diploma.
 
-###### Art. 2.º As autoridades e seus agentes deverão prestar quer aos membros dos gabinetes quer aos funcionários dos serviços de apoio, quando devidamente identificados, o auxílio que lhes for pedido no exercício das suas funções.
+Art. 2.º As autoridades e seus agentes deverão prestar quer aos membros dos gabinetes quer aos funcionários dos serviços de apoio, quando devidamente identificados, o auxílio que lhes for pedido no exercício das suas funções.
 
-###### Art. 3.º - 1 - Os membros dos gabinetes dos ministros da República para as regiões autónomas, bem como os motoristas e outros funcionários dos serviços de apoio cuja natureza das funções o justifique, têm livre acesso a todos os edifícios públicos e demais instalações ou recintos, nomeadamente a aeroportos, gares ou cais de embarque, sem prejuízo das normas a observar para a circulação nas áreas sujeitas ao controle aduaneiro ou de fronteira.
+Art. 3.º - 1 - Os membros dos gabinetes dos ministros da República para as regiões autónomas, bem como os motoristas e outros funcionários dos serviços de apoio cuja natureza das funções o justifique, têm livre acesso a todos os edifícios públicos e demais instalações ou recintos, nomeadamente a aeroportos, gares ou cais de embarque, sem prejuízo das normas a observar para a circulação nas áreas sujeitas ao controle aduaneiro ou de fronteira.
 
 2 - O disposto no número anterior não isenta os titulares dos cartões de identificação com direito a livre trânsito do cumprimento das formalidades aduaneiras ou outras que, legalmente, lhes sejam aplicáveis.
 
 3 - A designação dos funcionários constantes do n.º 1 deste artigo é da competência exclusiva do respectivo ministro da República.
 
-###### Art. 4.º São revogadas as portarias do Gabinete do Ministro da República para a Região Autónoma dos Açores e do Gabinete do Ministro da República para a Região Autónoma da Madeira, de 27 de Janeiro e de 30 de Maio de 1978, respectivamente.
+Art. 4.º São revogadas as portarias do Gabinete do Ministro da República para a Região Autónoma dos Açores e do Gabinete do Ministro da República para a Região Autónoma da Madeira, de 27 de Janeiro e de 30 de Maio de 1978, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Lino Dias Miguel - Tomás George Conceição Silva - Carlos Alberto Melancia.
 
-**Promulgado em 15 de Março de 1985.**
+Promulgado em 15 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Março de 1985.**
+Referendado em 18 de Março de 1985.
 
-**O Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.**
+O Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.
 
 ## ANEXO I — Cartão de identificação a que se refere o artigo 1.º do Decreto-Lei n.º 86/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/07600/08720873.pdf))](https://files.diariodarepublica.pt/1s/1985/04/07600/08720873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/07600/08720873.pdf)
 
 1 - Formato: 105 mm x 74,4 mm; cor creme; cantos arredondados; escudo em relevo, dourado; impressão a preto; expressão «Livre trânsito» impressa a encarnado (para os cartões dos membros dos gabinetes e dos funcionários a que se refere o artigo 3.º do presente diploma); tarjas em diagonal, no canto superior esquerdo, a verde e encarnado; revestimento final de protecção em acetato; fotografia 30 mm x 33 mm tipo passe.
 

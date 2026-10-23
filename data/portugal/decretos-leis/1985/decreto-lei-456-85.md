@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24900/36013608.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1985-177825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1c5e611c84daf9aeebf95b1eec3fcbf7e063c5c15887abf32698024b7a38808
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ef86c9c5f0aef3f39008f3b5421463e4550b7a5c869b8fcf15fbe0a48c07792
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Espectáculos e do Direito de Autor
+- Espetáculos e Divertimentos Públicos
+- Licenciamento
+- Registo Prévio
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122960393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626217:por
+  label: "Alteradas as importâncias fixadas nas al.s a) e b) do nº 1 do art. 3º, nos grupos A, B e C da tabela I e na tabela\
+    \ VIII do art. 11º, pelo DEC LEI.257/94.1994.10.22.PCM, DR.IS-A [245]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1994-626217
+  date: '1994-10-22'
+- type: cites
+  target: pt:dre:375867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673990:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626594:por
+  label: "Revogado pelo DEC LEI.315/95.1995.11.28.PCM, DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1995-626594
+  date: '1995-11-28'
+- type: repealed_by
+  target: pt:dre:572446:por
+  label: "Revogado a partir de 15.04.2014 o Dec Lei 396/82, de 21-set, na redação do presente diploma, pelo DEC LEI.23/2014.14.02.2014.PCM,\
+    \ DR.IS [32] de 14.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2014-572446
+  date: '2014-02-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:26Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +166,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Depende de registo prévio na Direcção-Geral dos Espectáculos e do Direito de Autor, adiante designada por DGEDA, a exploração de espectáculos e divertimentos públicos por qualquer entidade, e bem assim o exercício da actividade das empresas importadoras e distribuidoras de filmes e videogramas.
+Artigo 1.º Depende de registo prévio na Direcção-Geral dos Espectáculos e do Direito de Autor, adiante designada por DGEDA, a exploração de espectáculos e divertimentos públicos por qualquer entidade, e bem assim o exercício da actividade das empresas importadoras e distribuidoras de filmes e videogramas.
 
-###### Art. 2.º - 1 - O registo será requerido mediante impresso em triplicado (modelo A anexo ao presente diploma), a entregar nos serviços da DGEDA, em Lisboa e Porto, ou nas suas delegações concelhias, do qual deverá constar comprovação do pagamento da taxa referida no n.º 1 do artigo 3.º
+Art. 2.º - 1 - O registo será requerido mediante impresso em triplicado (modelo A anexo ao presente diploma), a entregar nos serviços da DGEDA, em Lisboa e Porto, ou nas suas delegações concelhias, do qual deverá constar comprovação do pagamento da taxa referida no n.º 1 do artigo 3.º
 
 2 - Da instrução do registo constarão os seguintes elementos:
 
@@ -132,7 +182,7 @@ b) O documento comprovativo do pagamento da contribuição industrial ou da decl
 
 5 - Sempre que se alterarem as condições de exploração constantes do registo ou sempre que se verificarem alterações nos elementos referidos em qualquer das alíneas a) e b) do n.º 2, deve ser solicitada à DGEDA a respectiva modificação no prazo máximo de 30 dias.
 
-###### Art. 3.º - 1 - Por cada registo e suas renovações ou alterações serão devidas taxas com os seguintes valores:
+Art. 3.º - 1 - Por cada registo e suas renovações ou alterações serão devidas taxas com os seguintes valores:
 
 a) Registo e suas renovações - 5000$00;
 
@@ -152,13 +202,13 @@ b) Os salões ou centros paroquiais e as instituições de beneficência;
 
 c) As empresas exploradoras de estabelecimentos legalmente classificados de utilidade turística.
 
-###### Art. 4.º O registo caduca:
+Art. 4.º O registo caduca:
 
 a) Em caso de falência ou concordata, salvo se no respectivo processo for mantido o estabelecimento em exploração nos termos da lei;
 
 b) Por falta de registo atempado das alterações referidas no n.º 5 do artigo 2.º
 
-###### Art. 5.º - 1 - Não carece do visto a que se refere o artigo 24.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, mas de simples autorização, a realização de espectáculos ou divertimentos públicos por entidades que não se encontrem registadas, quando a respectiva receita se destine a fins culturais ou humanitários, devidamente certificados pela junta de freguesia da área.
+Art. 5.º - 1 - Não carece do visto a que se refere o artigo 24.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, mas de simples autorização, a realização de espectáculos ou divertimentos públicos por entidades que não se encontrem registadas, quando a respectiva receita se destine a fins culturais ou humanitários, devidamente certificados pela junta de freguesia da área.
 
 2 - A autorização é requerida pelos interessados e concedida, fora de Lisboa e Porto, pelos delegados concelhios da DGEDA, não sendo devida qualquer taxa.
 
@@ -166,13 +216,13 @@ b) Por falta de registo atempado das alterações referidas no n.º 5 do artigo 
 
 4 - Sem prejuízo do disposto no [Decreto Regulamentar n.º 51/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1980-461777), de 26 de Setembro, é também da competência dos delegados concelhios da DGEDA a concessão da licença a que se refere o § 2.º do artigo 1.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1959.
 
-###### Art. 6.º São isentos do registo e da autorização referida no artigo anterior:
+Art. 6.º São isentos do registo e da autorização referida no artigo anterior:
 
 a) Os organismos do Estado e as autarquias locais;
 
 b) Os clubes ou associações desportivas relativamente a espectáculos desportivos.
 
-###### Art. 7.º - 1 - Ressalvado o disposto no presente diploma sobre isenções de registo, a ausência deste é impeditiva da concessão do visto a que se refere o artigo 24.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, e do licenciamento a que se refere a base XLVI da [Lei n.º 7/71](https://diariodarepublica.pt/dr/detalhe/lei/7-1971-632010), de 7 de Dezembro.
+Art. 7.º - 1 - Ressalvado o disposto no presente diploma sobre isenções de registo, a ausência deste é impeditiva da concessão do visto a que se refere o artigo 24.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, e do licenciamento a que se refere a base XLVI da [Lei n.º 7/71](https://diariodarepublica.pt/dr/detalhe/lei/7-1971-632010), de 7 de Dezembro.
 
 2 - O visto será solicitado à DGEDA ou suas delegações mediante impressos dos modelos B, C ou D anexos ao presente diploma.
 
@@ -180,7 +230,7 @@ b) Os clubes ou associações desportivas relativamente a espectáculos desporti
 
 4 - Os espectáculos desportivos não carecem de visto.
 
-###### Art. 8.º - 1 - A licença de recinto a que se referem o artigo 5.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, e o artigo 1.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), da mesma data, será válida pelo período de 3 anos a contar da data da emissão, devendo ser requerida à DGEDA a sua renovação pelo menos 60 dias antes da data limite de validade.
+Art. 8.º - 1 - A licença de recinto a que se referem o artigo 5.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, e o artigo 1.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), da mesma data, será válida pelo período de 3 anos a contar da data da emissão, devendo ser requerida à DGEDA a sua renovação pelo menos 60 dias antes da data limite de validade.
 
 2 - Devem ser comunicadas à DGEDA no prazo de 30 dias, para averbamento na respectiva licença de recinto:
 
@@ -192,7 +242,7 @@ b) A mudança de proprietário ou de entidade exploradora do recinto.
 
 4 - É obrigatória a afixação, em local bem visível para todos os recintos de espectáculos ou divertimentos públicos, do original ou fotocópia da licença de recinto a que se refere o n.º 1.
 
-###### Art. 9.º - 1 - Junto das bilheteiras ou, não as havendo, na entrada principal dos recintos de espectáculos ou divertimentos públicos será sempre afixada, de forma bem visível, a lotação do recinto.
+Art. 9.º - 1 - Junto das bilheteiras ou, não as havendo, na entrada principal dos recintos de espectáculos ou divertimentos públicos será sempre afixada, de forma bem visível, a lotação do recinto.
 
 2 - É proibido vender bilhetes ou facultar a admissão de espectadores para além da lotação fixada.
 
@@ -202,21 +252,21 @@ b) A mudança de proprietário ou de entidade exploradora do recinto.
 
 5 - Em recintos para os quais não haja bilhetes de ingresso, a fiscalização da lotação, após vistoria nos termos da legislação aplicável, far-se-á pelos meios considerados eficazes pela DGEDA.
 
-###### Art. 10.º A entidade que detiver os direitos de exploração do recinto e o promotor do espectáculo respondem pelo incumprimento de todas as formalidades legais relativas à realização do mesmo.
+Art. 10.º A entidade que detiver os direitos de exploração do recinto e o promotor do espectáculo respondem pelo incumprimento de todas as formalidades legais relativas à realização do mesmo.
 
-###### Art. 11.º As tabelas I, III e VIII anexas ao [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, passam a ter a redacção anexa ao presente diploma.
+Art. 11.º As tabelas I, III e VIII anexas ao [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, passam a ter a redacção anexa ao presente diploma.
 
-###### Art. 12.º - 1 - A falta do registo referido no artigo 1.º constitui contra-ordenação punida com coima no montante mínimo de 30000$00 e máximo de 300000$00.
+Art. 12.º - 1 - A falta do registo referido no artigo 1.º constitui contra-ordenação punida com coima no montante mínimo de 30000$00 e máximo de 300000$00.
 
 2 - A falta do visto referido no artigo 24.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, constitui contra-ordenação punida com coima no montante mínimo de 30000$00 e máximo de 300000$00.
 
 3 - A falta de autorização referida no n.º 1 do artigo 5.º constitui contra-ordenação punida com coima no montante mínimo de 1000$00 e máximo de 10000$00.
 
-###### Art. 13.º - 1 - A infracção ao disposto no n.º 3 do artigo 7.º nos n.os 2 e 4 do artigo 8.º e nos n.os 1 e 3 do artigo 9.º constitui contra-ordenação punida com coima nos montantes mínimo de 5000$00 e máximo de 50000$00.
+Art. 13.º - 1 - A infracção ao disposto no n.º 3 do artigo 7.º nos n.os 2 e 4 do artigo 8.º e nos n.os 1 e 3 do artigo 9.º constitui contra-ordenação punida com coima nos montantes mínimo de 5000$00 e máximo de 50000$00.
 
 2 - A infracção ao disposto no n.º 2 do artigo 9.º constitui contra-ordenação punida com coima no montante mínimo de 20000$00 e máximo de 200000$00.
 
-###### Art. 14.º - 1 - A falta de licença de recinto a que se refere o n.º 1 do artigo 8.º constitui contra-ordenação punida com coima no montante mínimo de 100000$00 e máximo de 1000000$00.
+Art. 14.º - 1 - A falta de licença de recinto a que se refere o n.º 1 do artigo 8.º constitui contra-ordenação punida com coima no montante mínimo de 100000$00 e máximo de 1000000$00.
 
 2 - Além de coima, a contra-ordenação prevista no número anterior implicará o imediato encerramento do recinto.
 
@@ -224,15 +274,15 @@ b) A mudança de proprietário ou de entidade exploradora do recinto.
 
 4 - A falta de renovação da licença de recinto referida no n.º 1 do artigo 8.º constitui contra-ordenação punida com coima no montante mínimo de 50000$00 e máximo de 500000$00.
 
-###### Art. 15.º - 1 - A fiscalização do cumprimento do disposto no presente diploma compete à DGEDA e às autoridades policiais e administrativas.
+Art. 15.º - 1 - A fiscalização do cumprimento do disposto no presente diploma compete à DGEDA e às autoridades policiais e administrativas.
 
 2 - As autoridades policiais e administrativas que constatarem infracções ao disposto no presente diploma levantarão os competentes autos de notícia, que remeterão à DGEDA.
 
-###### Art. 16.º São competentes para o processamento das contra-ordenações os serviços de contencioso da DGEDA e para aplicação das coimas e da sanção acessória o director-geral dos Espectáculos e do Direito de Autor.
+Art. 16.º São competentes para o processamento das contra-ordenações os serviços de contencioso da DGEDA e para aplicação das coimas e da sanção acessória o director-geral dos Espectáculos e do Direito de Autor.
 
-###### Art. 17.º O modelo dos impressos anexos ao presente diploma poderá ser alterado por portaria do Ministro da Cultura.
+Art. 17.º O modelo dos impressos anexos ao presente diploma poderá ser alterado por portaria do Ministro da Cultura.
 
-###### Art. 18.º São revogados:
+Art. 18.º São revogados:
 
 a) Os artigos 6.º, 19.º a 23.º, inclusive, e 50.º a 56.º, inclusive, do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959;
 
@@ -242,19 +292,19 @@ c) O artigo 18.º do [Decreto-Lei n.º 263/71](https://diariodarepublica.pt/dr/d
 
 d) O n.º 4 do artigo 2.º, o artigo 9.º e o n.º 2 do artigo 10.º do [Decreto-Lei n.º 396/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1982-375867), de 21 de Setembro.
 
-###### Art. 19.º O presente diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
+Art. 19.º O presente diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins.
 
-**Promulgado em 2 de Outubro de 1985.**
+Promulgado em 2 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Outubro de 1985.**
+Referendado em 4 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Tabelas a que se refere o artigo 11.º
 
@@ -262,7 +312,7 @@ TABELA I
 
 Apresetação e apreciação de projectos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24900/36013608.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24900/36013608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24900/36013608.pdf)
 
 TABELA III
 
@@ -282,4 +332,4 @@ Recintos do grupo B da tabela I ... 300$00
 
 Recintos do grupo C da tabela I ... 750$00
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24900/36013608.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24900/36013608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24900/36013608.pdf)

@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 299/1984, 1º Suplemento, Série I de 1984-12-28
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3936-(5) a 3936-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/29901/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 464f46269e980db25dcef060fa391332448014a745894e89678f2719617c9015
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e75194f72376f4e22d1fa08961673b298831867b5fc1e5ef1ace5aa0bbdab40f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Administrativo
+- Definição de Competências
+- Delegação de Competências
+- Despesas de Representação
+- Formas de Provimento
+- Gabinete de Apoio Pessoal
+- Governador Civil
+- Governo Civil
+- Lisboa
+- Norma Protocolar
+- Pessoal de Gabinete
+- Porto
+- Remuneração
+- Secretário
+- Subsídio de Alojamento
+- Substituição de Funções
+- Vice-governador Civil
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613940:por
+  label: Alterados os nºs 1 e 4 do art. 4º pelo DEC LEI.82/89.23.03.1989.MAI, DR.IS [69] de 23.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1989-613940
+  date: '1989-03-23'
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661737:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:09Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +154,9 @@ Acontece, porém, que a realidade político-institucional nem sempre se pode car
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 404.º do Código Administrativo passa a ter a seguinte redacção:
+Artigo 1.º O artigo 404.º do Código Administrativo passa a ter a seguinte redacção:
 
-###### Art. 404.º - 1 - Em cada distrito haverá um governador civil, nomeado e exonerado pelo Governo, em Conselho de Ministros, por proposta do Ministro da Administração Interna, de quem orgânica e hierarquicamente depende.
+Art. 404.º - 1 - Em cada distrito haverá um governador civil, nomeado e exonerado pelo Governo, em Conselho de Ministros, por proposta do Ministro da Administração Interna, de quem orgânica e hierarquicamente depende.
 
 2 - Nos distritos de Lisboa e do Porto haverá um vice-governador civil, nomeado e exonerado nos termos do número anterior.
 
@@ -123,7 +170,7 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 7 - O vice-governador civil e o secretário do governo civil só podem subdelegar os poderes recebidos do governador civil quando expressamente autorizados pelo despacho de delegação ou por despacho autónomo igualmente publicado.
 
-###### Art. 2.º - 1 - O § 3.º do artigo 406.º do Código Administrativo passa a ter a seguinte redacção:
+Art. 2.º - 1 - O § 3.º do artigo 406.º do Código Administrativo passa a ter a seguinte redacção:
 
 § 3.º Nos actos e cerimónias oficiais realizados no distrito o governador civil é colocado, na escala protocolar, imediatamente após os membros do Governo e as outras entidades que, por determinação da lei, tenham estatuto equivalente ao daqueles, incluindo direitos, honras e regalias.
 
@@ -131,7 +178,7 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 § 5.º O governador civil e o vice-governador civil têm direito a utilizar viatura automóvel do Estado, de segunda categoria.
 
-###### Art. 3.º - 1 - O vencimento principal do governador civil e o do vice-governador civil são fixados em 80000$00 e 64000$00, respectivamente.
+Art. 3.º - 1 - O vencimento principal do governador civil e o do vice-governador civil são fixados em 80000$00 e 64000$00, respectivamente.
 
 2 - Sempre que se verifique a actualização geral dos vencimentos da função pública, os vencimentos a que se refere o número anterior serão acrescidos de montante igual ao que constituir o acréscimo correspondente à letra A da respectiva tabela.
 
@@ -139,7 +186,7 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 4 - Quando o governador civil, à data da nomeação, residir fora do concelho sede do distrito e a uma distância superior a 30 km, poderá, mediante despacho do Ministro da Administração Interna, auferir um subsídio mensal para despesas de alojamento e alimentação de valor correspondente a 20% do seu vencimento.
 
-###### Art. 4.º - 1 - Os governadores civis poderão constituir um gabinete de apoio pessoal, composto por um adjunto e um secretário, com remuneração a fixar pelo governador civil, não podendo exceder, respectivamente, a remuneração correspondente às letras D e H da tabela de vencimentos dos funcionários e agentes da Administração Pública.
+Art. 4.º - 1 - Os governadores civis poderão constituir um gabinete de apoio pessoal, composto por um adjunto e um secretário, com remuneração a fixar pelo governador civil, não podendo exceder, respectivamente, a remuneração correspondente às letras D e H da tabela de vencimentos dos funcionários e agentes da Administração Pública.
 
 2 - Quando houver vice-governador civil, o gabinete referido no número anterior poderá ter mais um secretário.
 
@@ -151,26 +198,26 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 6 - O governador civil pode delegar no adjunto do gabinete competências que não se insiram no âmbito da actividade dos serviços da secretaria do governo civil, bem como a representação oficial em actos e cerimónias públicas.
 
-###### Art. 5.º Não estão sujeitos a visto do Tribunal de Contas os diplomas de nomeação dos governadores e vice-governadores civis e do pessoal dos gabinetes de apoio pessoal.
+Art. 5.º Não estão sujeitos a visto do Tribunal de Contas os diplomas de nomeação dos governadores e vice-governadores civis e do pessoal dos gabinetes de apoio pessoal.
 
-###### Art. 6.º Dos valores das coimas aplicadas por força dos regulamentos de polícia previstos no artigo 408.º do Código Administrativo, 50% constitui receita dos cofres privativos dos governos civis e 50% receita do Estado.
+Art. 6.º Dos valores das coimas aplicadas por força dos regulamentos de polícia previstos no artigo 408.º do Código Administrativo, 50% constitui receita dos cofres privativos dos governos civis e 50% receita do Estado.
 
-###### Art. 7.º - 1 - Os encargos resultantes da aplicação do artigo 4.º do presente decreto-lei, bem como os encargos com as despesas de representação e com o subsídio para alimentação e alojamento previstos no artigo 3.º, serão suportados pelos cofres privativos dos governos civis.
+Art. 7.º - 1 - Os encargos resultantes da aplicação do artigo 4.º do presente decreto-lei, bem como os encargos com as despesas de representação e com o subsídio para alimentação e alojamento previstos no artigo 3.º, serão suportados pelos cofres privativos dos governos civis.
 
 2 - As restantes verbas destinadas a custear as despesas resultantes da aplicação do artigo 3.º serão suportadas pelo orçamento do Ministério da Administração Interna.
 
-###### Art. 8.º São revogados o artigo 405.º do Código Administrativo e o [Decreto-Lei n.º 197/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1978-297425), de 20 de Julho.
+Art. 8.º São revogados o artigo 405.º do Código Administrativo e o [Decreto-Lei n.º 197/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1978-297425), de 20 de Julho.
 
-###### Art. 9.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 18 de Dezembro de 1984.**
+Promulgado em 18 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Dezembro de 1984.**
+Referendado em 19 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

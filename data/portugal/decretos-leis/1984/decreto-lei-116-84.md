@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/08200/11571162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 742dd5ba88d0cda940f2ac2e22dba1cdaf558dad55113f6e6ef4a2fd61071036
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab91d8f892ece872882c18e28b2e68ebc9c6c4445178b135062bb590691c4fb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Câmara Municipal
+- Carreira Profissional
+- Descrição de Funções
+- Gabinete de Apoio Pessoal
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:483152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177394:por
+  label: "Alterados os arts. 2.º, 5.º, 7.º, 8.º, 9.º. 10.º, 11.º, 12.º, 13., 14.º e 17.º e aditados os arts. 13.º-A, 17.º-B\
+    \ e 17.º-B, pela LEI.44/85.1985.09.13.AR DR.IS [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1985-177394
+  date: '1985-09-13'
+- type: amended_by
+  target: pt:dre:357346:por
+  label: "Alterado o art. 8.º e adita um art. 8.º-A anexos ao presente diploma, alterado pela Lei 44/85, de 13-Set e pelo\
+    \ Dec Lei 198/91, de 29-Mai, pela LEI.96/99.1999.07.17.AR DR.IS-A [165]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/96-1999-357346
+  date: '1999-07-17'
+- type: cites
+  target: pt:dre:331619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:630775:por
+  label: "Revoga artigo 7.º do presente diploma, e os respectivos mapas anexos, pelo DEC LEI.198/91.1991.05.29.MPLAT DR.IS-A\
+    \ [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1991-630775
+  date: '1991-05-29'
+- type: repealed_by
+  target: pt:dre:569886:por
+  label: "Revogado o art. 8º pela LEI.169/99.1999.09.18.AR,DR.IS-A [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/169-1999-569886
+  date: '1999-09-18'
+- type: repealed_by
+  target: pt:dre:483152:por
+  label: "Revogado o presente diploma, a partir de 28.10.2009, na redacção da Lei 44/85, de 13-Set, Dec Lei 198/91, de 29-Maio\
+    \ (já revogado), Lei 96/99, de 17-Jul (já revogada), e Lei 169/99, de 18-Set, pelo DEC LEI.305/2009.23.10.2009.PCM, DR.IS\
+    \ [206] de 23.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-2009-483152
+  date: '2009-10-23'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:26Z'
   warnings: []
   errors: []
 ---
@@ -263,20 +335,20 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 25 de Março de 1984.**
+Promulgado em 25 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Março de 1984.**
+Referendado em 28 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/04/08200/11571162.pdf))](https://files.diariodarepublica.pt/1s/1984/04/08200/11571162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/08200/11571162.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/04/08200/11571162.pdf))](https://files.diariodarepublica.pt/1s/1984/04/08200/11571162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/08200/11571162.pdf)

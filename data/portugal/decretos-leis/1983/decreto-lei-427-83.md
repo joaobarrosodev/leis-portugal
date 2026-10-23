@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1983-443157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f726933a1447eaaa0054f9adbf3f687053259018c1150609afcf48226b8d0463
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 324ba820a956a39e3a67eea3f0d63a701803881eb5b3c24251b8d27b5085ea13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Metrologia
+- Sistema Internacional de Medidas
 relationships:
 - type: amended_by
   target: pt:dre:585426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:399791:por
+  label: "Substituído o anexo ao presente diploma, pelo DEC LEI.320/84.01.10.1984.MIE, DR.IS [228] de 01.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1984-399791
+  date: '1984-10-01'
+- type: cites
+  target: pt:dre:208059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585426:por
+  label: "Revogado pelo DEC LEI.238/94.1994.09.19.MIE, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1994-585426
+  date: '1994-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:32Z'
   warnings: []
   errors: []
 ---
@@ -104,35 +124,35 @@ Finalmente, é fixado um prazo transitório de 10 anos estabelecendo 2 regimes p
 
 Assim, no uso da autorização concedida pela alínea a) do artigo 1.º da [Lei n.º 16/83](https://diariodarepublica.pt/dr/detalhe/lei/16-1983-439446), de 6 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O sistema de unidades de medida legal em todo o território nacional é o designado pela Conferência Geral de Pesos e Medidas (CGPM) por Sistema Internacional de Unidades (SI).
+Artigo 1.º O sistema de unidades de medida legal em todo o território nacional é o designado pela Conferência Geral de Pesos e Medidas (CGPM) por Sistema Internacional de Unidades (SI).
 
-###### Art. 2.º As definições e símbolos das unidades SI (unidades base, derivadas e suplementares) são os aprovados pela CGPM e constantes do anexo ao presente diploma.
+Art. 2.º As definições e símbolos das unidades SI (unidades base, derivadas e suplementares) são os aprovados pela CGPM e constantes do anexo ao presente diploma.
 
-###### Art. 3.º São ainda aprovadas as recomendações da CGPM para a escritura e emprego dos símbolos, bem como as designações dos múltiplos e submúltiplos, constantes do anexo.
+Art. 3.º São ainda aprovadas as recomendações da CGPM para a escritura e emprego dos símbolos, bem como as designações dos múltiplos e submúltiplos, constantes do anexo.
 
-###### Art. 4.º O Governo poderá aprovar alterações às definições das unidades SI referidas no anexo, após decisão da CGPM, sempre que tal seja recomendável na ordem interna.
+Art. 4.º O Governo poderá aprovar alterações às definições das unidades SI referidas no anexo, após decisão da CGPM, sempre que tal seja recomendável na ordem interna.
 
-###### Art. 5.º O Governo aprovará os padrões das unidades de medida legal e determinará a sua conservação às entidades competentes, por proposta do Ministro da Indústria e Energia, dotando-as dos meios necessários para o efeito.
+Art. 5.º O Governo aprovará os padrões das unidades de medida legal e determinará a sua conservação às entidades competentes, por proposta do Ministro da Indústria e Energia, dotando-as dos meios necessários para o efeito.
 
-###### Art. 6.º A utilização de unidades de outros sistemas de medida será autorizada, sempre que acompanhadas entre parêntesis das correspondentes unidades SI, por um período de 5 anos.
+Art. 6.º A utilização de unidades de outros sistemas de medida será autorizada, sempre que acompanhadas entre parêntesis das correspondentes unidades SI, por um período de 5 anos.
 
-###### Art. 7.º Terminado o período previsto no artigo anterior, apenas poderão ser utilizadas unidades de outros sistemas quando colocadas entre parêntesis e em posição secundária, por um novo período limite de 5 anos.
+Art. 7.º Terminado o período previsto no artigo anterior, apenas poderão ser utilizadas unidades de outros sistemas quando colocadas entre parêntesis e em posição secundária, por um novo período limite de 5 anos.
 
-###### Art. 8.º Em domínios de utilização específica e mediante justificação adequada, o Governo poderá autorizar o uso de outras unidades, acompanhadas, quando seja considerado de interesse, das unidades SI equivalentes.
+Art. 8.º Em domínios de utilização específica e mediante justificação adequada, o Governo poderá autorizar o uso de outras unidades, acompanhadas, quando seja considerado de interesse, das unidades SI equivalentes.
 
-###### Art. 9.º O presente diploma entra em vigor em 1 de Janeiro de 1984.
+Art. 9.º O presente diploma entra em vigor em 1 de Janeiro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - José Veiga Simão.
 
-**Promulgado em 18 de Novembro de 1983.**
+Promulgado em 18 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Novembro de 1983.**
+Referendado em 21 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO
 
@@ -154,7 +174,7 @@ Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1983. - Mário Soa
 
 1.1 - Unidades SI de base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
 
 As definições das unidades SI de base são:
 
@@ -204,7 +224,7 @@ A candela é a intensidade luminosa, numa direcção dada, de uma fonte que emit
 
 1.1.1 - Nome e símbolo especiais da unidade SI de temperatura no caso da temperatura celsius:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
 
 A temperatura celsius t é definida pela equação t = T - T(índice o), onde T(índice o) = 273,15 K. Um intervalo ou uma diferença de temperatura podem ser expressos em kelvin ou em grau celsius. A unidade grau celsius é igual à unidade kelvin.
 
@@ -212,15 +232,15 @@ A temperatura celsius t é definida pela equação t = T - T(índice o), onde T(
 
 A partir das unidades de base, as unidades derivadas são obtidas através de expressões algébricas utilizando os símbolos matemáticos da multiplicação e divisão (alguns exemplos na tabela seguinte):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
 
 1.2.1 - Unidades SI derivadas tendo nomes especiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
 
 1.3 - Unidades SI suplementares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
 
 As definições das unidades SI suplementares são:
 
@@ -234,7 +254,7 @@ O staradian é o ângulo sólido que, tendo o vértice no centro de uma esfera, 
 
 2 - Prefixos e símbolos dos múltiplos e submúltiplos decimais das unidades SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
 
 2.1 - Regras de utilização dos prefixos:
 
@@ -270,4 +290,4 @@ Exemplo: 10(elevado a -6) kg = 1 miligrama (1 mg), e não 1 microquilograma (1(m
 
 Unidades não SI que podem ser utilizadas conjuntamente com as unidades daquele sistema, não devendo, contudo, ser combinadas com elas a não ser em casos extremos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28100/39903992.pdf)

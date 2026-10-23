@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 105/1985, 1º Suplemento, Série I de 1985-05-08
   number: '105'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1244-(1) a 1244-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10501/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35fc3c98b24383cf00bdb61d5047ceb61d2ba80aaf1df5302ca4c360e5935800
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 284df15ef4f96050afd0c042092df0bcbf821067e5ec8a2d558010956c4b4f6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Ensino Preparatório
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:106607298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:195779:por
+  label: "Alterados o nº 3 do art. 1.º, as als. a) e c) do nº 1 do art. 2.º, o nº 1 do art. 7.º, o nº 2 do art. 8.º, os nºs.\
+    \ 1 e 2 do art. 9.º e os arts. 10.º e 13.º, adita um nº 4 ao art. 14.º, um art. 15.º-A, um nº 3 ao art. 16.º, um art.\
+    \ 18.-A e um art. 18.-B e elimina o nº 1 do art. 4.º pelo presente diploma, (publicando-o em íntegra) pela LEI.8/86.15.04.1986.AR,\
+    \ DR.IS [87] de 15.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-1986-195779
+  date: '1986-04-15'
+- type: cites
+  target: pt:dre:226595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324967:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506397:por
+  label: "Revogado pelo DEC LEI.18/88.21.01.1988.ME, DR.IS [17]Supl de 21.01.1988, na redacção dada pela Lei n.º 8/86, de\
+    \ 15 de Abril, embora continue a ser aplicável o regime estabelecido no n.º 2 do artigo 12.º do presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1988-506397
+  date: '1988-01-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:19Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +155,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Dos professores extraordinários do quadro e adjuntos
 
-###### Artigo 1.º - 1 - Os lugares providos de professores extraordinários do quadro e de adjuntos dos ensinos preparatório e secundário são transformados em lugares do quadro de efectivos do respectivo estabelecimento de ensino.
+Artigo 1.º - 1 - Os lugares providos de professores extraordinários do quadro e de adjuntos dos ensinos preparatório e secundário são transformados em lugares do quadro de efectivos do respectivo estabelecimento de ensino.
 
 2 - Os titulares dos lugares do quadro de professores extraordinários e de adjuntos referidos no número anterior consideram-se, para todos os efeitos legais, providos naqueles lugares na categoria de efectivos.
 
@@ -134,7 +163,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO II — Da integração de professores provisórios nos quadros
 
-###### Art. 2.º - 1 - Poderão candidatar-se aos concursos de professores efectivos a partir do ano de 1986, inclusive, os professores provisórios dos ensinos preparatório e secundário que satisfaçam uma das seguintes condições:
+Art. 2.º - 1 - Poderão candidatar-se aos concursos de professores efectivos a partir do ano de 1986, inclusive, os professores provisórios dos ensinos preparatório e secundário que satisfaçam uma das seguintes condições:
 
 a) Se encontrem no ano lectivo de 1985-1986 em exercício de funções docentes colocados na 1.ª fase do concurso realizado ao abrigo do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março, tendo sido opositores aos respectivos concursos nos termos do artigo 4.º do mesmo diploma;
 
@@ -152,7 +181,7 @@ b) Possuir, pelo menos, 3 anos de serviço docente efectivo prestado no ensino o
 
 4 - O serviço docente efectivo referido na alínea b) do n.º 2 será contado nos termos da lei geral em vigor.
 
-###### Art. 3.º - 1 - O direito à candidatura nos anos de 1986 e seguintes só é reconhecido se os docentes, cumulativamente:
+Art. 3.º - 1 - O direito à candidatura nos anos de 1986 e seguintes só é reconhecido se os docentes, cumulativamente:
 
 a) Forem opositores aos sucessivos concursos referidos no n.º 1 do artigo 2.º logo que reúnam as condições fixadas no n.º 2 do mesmo artigo e até obterem provimento;
 
@@ -160,23 +189,23 @@ b) Manifestem, em cada concurso de efectivos, disponibilidade de colocação em 
 
 2 - Às condições mencionadas no n.º 1 acresce, para os docentes referidos na alínea a) do n.º 1 do artigo 2.º, a obrigatoriedade de, enquanto não forem providos como efectivos, se candidatarem aos concursos de professores provisórios, nas condições expressas no artigo 4.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
 
-###### Art. 4.º - 1 - As candidaturas referidas nos artigos anteriores serão feitas para o grupo, subgrupo ou disciplina em que os docentes obtiverem colocação para o ano lectivo de 1985-1986 como titulares de habilitação própria.
+Art. 4.º - 1 - As candidaturas referidas nos artigos anteriores serão feitas para o grupo, subgrupo ou disciplina em que os docentes obtiverem colocação para o ano lectivo de 1985-1986 como titulares de habilitação própria.
 
 2 - Os docentes que obtiverem colocação em grupo, subgrupo ou disciplina para que apenas possuam habilitação suficiente deverão candidatar-se a um e um só dos grupos, subgrupos ou disciplina para que disponham de habilitação própria.
 
-###### Art. 5.º - 1 - Aos docentes que se encontrem em regime de contratação plurianual e sejam candidatos nos termos do disposto nos artigos 2.º, e 3.º deste diploma serão automaticamente renovados os respectivos contratos até que obtenham provimento como professores efectivos.
+Art. 5.º - 1 - Aos docentes que se encontrem em regime de contratação plurianual e sejam candidatos nos termos do disposto nos artigos 2.º, e 3.º deste diploma serão automaticamente renovados os respectivos contratos até que obtenham provimento como professores efectivos.
 
 2 - Os contratos dos docentes que, por qualquer motivo, se não apresentem a concurso nos termos referidos no número anterior não serão renovados, passando os referidos docentes a situar-se, para efeitos de concurso de professores provisórios, na alínea d) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
 
-###### Art. 6.º - 1 - A ordenação dos docentes abrangidos pelo disposto no artigo 2.º tomará por base a classificação da sua habilitação académica, à qual acrescerá um valor por cada ano de serviço docente efectivo prestado para além dos 3 anos de serviço referidos na alínea b) do n.º 2 do mesmo artigo, até ao limite de 20 anos.
+Art. 6.º - 1 - A ordenação dos docentes abrangidos pelo disposto no artigo 2.º tomará por base a classificação da sua habilitação académica, à qual acrescerá um valor por cada ano de serviço docente efectivo prestado para além dos 3 anos de serviço referidos na alínea b) do n.º 2 do mesmo artigo, até ao limite de 20 anos.
 
 2 - Ao serviço docente efectivo referido no número anterior é aplicável o disposto no n.º 4 do artigo 2.º deste diploma.
 
-###### Art. 7.º - 1 - Para efeitos de ordenação nos concursos que visem a primeira efectivação, os docentes referidos na alínea c) do artigo 2.º do presente diploma sucedem aos docentes profissionalizados não efectivos e precedem os docentes provisórios referidos nas alíneas a) e b) do mesmo artigo.
+Art. 7.º - 1 - Para efeitos de ordenação nos concursos que visem a primeira efectivação, os docentes referidos na alínea c) do artigo 2.º do presente diploma sucedem aos docentes profissionalizados não efectivos e precedem os docentes provisórios referidos nas alíneas a) e b) do mesmo artigo.
 
 2 - Os docentes mencionados no artigo 2.º deste decreto-lei serão ordenados, dentro da posição referida no número anterior, nos termos do disposto no artigo 17.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março, tendo em conta o disposto no artigo 6.º deste diploma.
 
-###### Art. 8.º - 1 - O provimento dos docentes a que se refere o artigo 2.º será feito por nomeação provisória, até um período máximo de 4 anos.
+Art. 8.º - 1 - O provimento dos docentes a que se refere o artigo 2.º será feito por nomeação provisória, até um período máximo de 4 anos.
 
 2 - Para efeitos do provimento referido no número anterior, os docentes deverão possuir as condições físicas e psicológicas adequadas para o exercício das respectivas funções, reconhecidas como tal por exames médicos a realizar sob a responsabilidade dos centros de medicina pedagógica, de acordo com regras a estabelecer por despacho do Ministro da Educação.
 
@@ -186,13 +215,13 @@ b) Manifestem, em cada concurso de efectivos, disponibilidade de colocação em 
 
 5 - Os docentes que não sejam aprovados na avaliação não poderão candidatar-se de novo aos concursos a que se refere o artigo 2.º deste diploma, sem prejuízo da sua integração na alínea d) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março, para efeitos de concurso de professores provisórios imediatamente sequencial.
 
-###### Art. 9.º - 1 - Nos dois primeiros anos do período de nomeação provisória serão facultadas aos docentes unidades de formação, em especial de natureza psicopedagógica, teórica e prática, as quais poderão envolver seminários presenciais, a realizar nas épocas de interrupção das actividades lectivas.
+Art. 9.º - 1 - Nos dois primeiros anos do período de nomeação provisória serão facultadas aos docentes unidades de formação, em especial de natureza psicopedagógica, teórica e prática, as quais poderão envolver seminários presenciais, a realizar nas épocas de interrupção das actividades lectivas.
 
 2 - O sistema de formação a que se refere o número anterior será definido por portaria do Ministro da Educação.
 
 3 - Para efeitos do disposto no n.º 1, o Ministério da Educação celebrará protocolos com as instituições de formação inicial de professores.
 
-###### Art. 10.º - 1 - Após o período de 2 anos referido no n.º 1 do artigo anterior e durante os 2 anos imediatamente subsequentes, os professores requererão a prestação de uma prova de avaliação, a realizar perante júri para o efeito designado.
+Art. 10.º - 1 - Após o período de 2 anos referido no n.º 1 do artigo anterior e durante os 2 anos imediatamente subsequentes, os professores requererão a prestação de uma prova de avaliação, a realizar perante júri para o efeito designado.
 
 2 - Durante o período subsequente à formação, o docente pode repetir a prova de avaliação uma só vez.
 
@@ -202,13 +231,13 @@ b) Manifestem, em cada concurso de efectivos, disponibilidade de colocação em 
 
 ### CAPÍTULO III — Da progressão na carreira
 
-###### Art. 11.º Aos professores extraordinários do quadro e adjuntos abrangidos pelo artigo 1.º deste diploma serão mantidas, na categoria de efectivos, as fases que lhes tenham sido concedidas nas anteriores categorias.
+Art. 11.º Aos professores extraordinários do quadro e adjuntos abrangidos pelo artigo 1.º deste diploma serão mantidas, na categoria de efectivos, as fases que lhes tenham sido concedidas nas anteriores categorias.
 
-###### Art. 12.º - 1 - Os docentes que se efectivarem ao abrigo do disposto no artigo 2.º terão direito à atribuição das fases a que se referem os Decretos-Leis n.os 74/78, de 18 de Abril, e 513-M1/79, de 27 de Dezembro, e a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), de 27 de Julho, logo que a sua nomeação como professores efectivos se converta em definitiva.
+Art. 12.º - 1 - Os docentes que se efectivarem ao abrigo do disposto no artigo 2.º terão direito à atribuição das fases a que se referem os Decretos-Leis n.os 74/78, de 18 de Abril, e 513-M1/79, de 27 de Dezembro, e a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), de 27 de Julho, logo que a sua nomeação como professores efectivos se converta em definitiva.
 
 2 - Enquanto na situação de professor efectivo com nomeação provisória é atribuído ao docente o vencimento correspondente à 1.ª fase do respectivo escalão do professor efectivo.
 
-###### Art. 13.º Para efeitos do disposto no artigo anterior, considera-se como tempo de serviço:
+Art. 13.º Para efeitos do disposto no artigo anterior, considera-se como tempo de serviço:
 
 a) Até 7 de Maio de 1976, todo o tempo de serviço docente prestado no ensino oficial ou equivalente;
 
@@ -216,7 +245,7 @@ b) Após 7 de Maio de 1976, inclusive, só será contado o tempo de serviço pre
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 14.º - 1 - Os docentes que terminem o primeiro ano de profissionalização em 30 de Junho de 1985 e os que naquela data terminem o segundo ano da mesma sem aproveitamento poderão optar por:
+Art. 14.º - 1 - Os docentes que terminem o primeiro ano de profissionalização em 30 de Junho de 1985 e os que naquela data terminem o segundo ano da mesma sem aproveitamento poderão optar por:
 
 a) Completar o segundo ano de profissionalização no ano lectivo de 1985-1986;
 
@@ -226,7 +255,7 @@ b) Interromper a profissionalização e ser opositores ao concurso para professo
 
 3 - Caso o professor opte pela situação prevista na alínea b) do n.º 1, poderá requerer a realização de prova de avaliação entre 31 de Maio e 30 de Junho de 1986.
 
-###### Art. 15.º - 1 - Para preenchimento, em exclusivo, das vagas sobrantes do concurso normal de professores efectivos do ano de 1985 poderá o Ministro da Educação autorizar a abertura de um concurso extraordinário, ao qual podem ser opositores, por ordem de prioridade na respectiva seriação:
+Art. 15.º - 1 - Para preenchimento, em exclusivo, das vagas sobrantes do concurso normal de professores efectivos do ano de 1985 poderá o Ministro da Educação autorizar a abertura de um concurso extraordinário, ao qual podem ser opositores, por ordem de prioridade na respectiva seriação:
 
 a) Docentes profissionalizados não efectivos, incluindo os que terminem com aproveitamento a profissionalização em exercício ou as licenciaturas nos ramos de formação educacional ou de ensino;
 
@@ -244,28 +273,28 @@ c) Docentes que se encontrem em regime de contratação plurianual não abrangid
 
 6 - Os docentes referidos nas alíneas b) e c) do n.º 1 são ordenados nos termos referidos no artigo 7.º deste diploma.
 
-###### Art. 16.º - 1 - É revogado o [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro, e demais legislação complementar.
+Art. 16.º - 1 - É revogado o [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro, e demais legislação complementar.
 
 2 - As disposições dos diplomas a que se refere o número anterior, aplicáveis à profissionalização em exercício, mantêm-se em vigor até que os docentes referidos na alínea a) do artigo 14.º deste diploma concluam a respectiva profissionalização.
 
-###### Art. 17.º - 1 - Regressam ao seu lugar de origem até 15 de Setembro de 1985 todos os orientadores e delegados de grupo à profissionalização em exercício, cessando as correspondentes funções a partir daquela data.
+Art. 17.º - 1 - Regressam ao seu lugar de origem até 15 de Setembro de 1985 todos os orientadores e delegados de grupo à profissionalização em exercício, cessando as correspondentes funções a partir daquela data.
 
 2 - Exceptuam-se do disposto no número anterior os orientadores e delegados que sejam necessários para assegurar a profissionalização dos docentes que optarem pelo disposto na alínea a) do n.º 1 do artigo 14.º deste diploma.
 
 3 - Os docentes abrangidos pelo n.º 1 deste artigo mantêm o direito à respectiva gratificação mensal até 30 de Setembro de 1985.
 
-###### Art. 18.º No prazo de 18 meses contado a partir da publicação deste diploma será publicado diploma legal que estabeleça o ordenamento jurídico da formação de professores.
+Art. 18.º No prazo de 18 meses contado a partir da publicação deste diploma será publicado diploma legal que estabeleça o ordenamento jurídico da formação de professores.
 
-###### Art. 19.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 19.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 27 de Abril de 1985.**
+Promulgado em 27 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Maio de 1985.**
+Referendado em 6 de Maio de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

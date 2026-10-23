@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/02/04800/04930493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1986-193807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ed3664b20edcf2c23302887c9f788dcf60328f72c61c8c8fb94913636feef67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edb9b9cd11b47e7addcc5cd3688aa1b55e8ff1da8a3d5adf979796648fce1075
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Batata
 relationships:
 - type: amended_by
   target: pt:dre:370201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:380940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637463:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:370201:por
+  label: "Revogado pelo DEC LEI.312/88.1988.09.07.MAPA DR.IS [207]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-1988-370201
+  date: '1988-09-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:45Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +111,18 @@ Tendo finalmente presente que o recurso a batata-semente certificada produzida n
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos do disposto no [Decreto-Lei n.º 36665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36665-1947-637463), de 10 de Dezembro de 1947, considera-se como batata-semente de produção nacional a batata-semente proveniente dos Açores, produzida e certificada de acordo com o [Decreto Legislativo Regional n.º 24/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1984-380940), de 27 de Agosto, a Portaria Regional n.º 8/85, de 5 de Março, e as Instruções Regulamentares para a Produção, Certificação e Comercialização de Batata-Semente, do Laboratório de Sanidade Vegetal, da Secretaria Regional da Agricultura e Pescas, em vigor.
+Artigo 1.º Para efeitos do disposto no [Decreto-Lei n.º 36665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36665-1947-637463), de 10 de Dezembro de 1947, considera-se como batata-semente de produção nacional a batata-semente proveniente dos Açores, produzida e certificada de acordo com o [Decreto Legislativo Regional n.º 24/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1984-380940), de 27 de Agosto, a Portaria Regional n.º 8/85, de 5 de Março, e as Instruções Regulamentares para a Produção, Certificação e Comercialização de Batata-Semente, do Laboratório de Sanidade Vegetal, da Secretaria Regional da Agricultura e Pescas, em vigor.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 1986. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 10 de Fevereiro de 1986.**
+Promulgado em 10 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Fevereiro de 1986.**
+Referendado em 13 de Fevereiro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

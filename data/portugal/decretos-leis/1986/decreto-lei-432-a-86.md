@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1986, 1º Suplemento, Série I de 1986-12-30
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3858-(1) a 3858-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29901/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-a-1986-376022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e336ba6c5b79c4444eb47e8266fb5bc00dd77950c8ed30187a321b58fcbf5996
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 537350bc1053a525fa45e661154357c621b3dedacd45a77d46cfc7574a40dd78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANOP
+- Comissão Liquidatária
+- Extinção de Empresas
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:34Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +120,11 @@ Assim, de acordo com o disposto no artigo 38.º do [Decreto-Lei n.º 260/76](htt
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a Agência Noticiosa Portuguesa, E. P., adiante designada por ANOP.
+Artigo 1.º - 1 - É extinta a Agência Noticiosa Portuguesa, E. P., adiante designada por ANOP.
 
 2 - A ANOP mantém a sua personalidade jurídica para efeitos de liquidação até à aprovação final das contas apresentadas pelos liquidatários.
 
-###### Art. 2.º - 1 - A extinção da ANOP produz os seguintes efeitos;
+Art. 2.º - 1 - A extinção da ANOP produz os seguintes efeitos;
 
 a) A dissolução dos órgãos sociais da empresa;
 
@@ -124,7 +136,7 @@ d) A transferência para a Lusa de todas as posições emergentes de contratos d
 
 2 - As dívidas da ANOP são assumidas pela ANOP em liquidação.
 
-###### Art. 3.º - 1 - É criada uma comissão liquidatária, presidida pelo director-geral da Comunicação Social e integrada por dois vogais, a nomear, no prazo de cinco dias, por despacho do ministro da tutela.
+Art. 3.º - 1 - É criada uma comissão liquidatária, presidida pelo director-geral da Comunicação Social e integrada por dois vogais, a nomear, no prazo de cinco dias, por despacho do ministro da tutela.
 
 2 - À comissão liquidatária cumpre exercer todos os poderes necessários à liquidação da empresa extinta, competindo-lhe, nomeadamente:
 
@@ -148,26 +160,26 @@ i) Liquidar o activo, cobrando créditos e alienando bens e direitos não reserv
 
 j) Desempenhar as demais funções que lhe sejam atribuídas por lei ou por este diploma.
 
-###### Art. 4.º - 1 - É fixado em 30 dias, a contar da data de entrada em vigor do presente diploma, o prazo para os credores da ANOP poderem reclamar os seus créditos.
+Art. 4.º - 1 - É fixado em 30 dias, a contar da data de entrada em vigor do presente diploma, o prazo para os credores da ANOP poderem reclamar os seus créditos.
 
 2 - A comissão liquidatária da empresa poderá prestar aos credores da ANOP todos os elementos de informações que possua e que considere necessárias à determinação exacta do montante dos respectivos créditos.
 
-###### Art. 5.º Elaborado o mapa final dos créditos, a comissão liquidatária iniciará a venda dos bens e direitos do património sujeito a liquidação até ao termo desta, podendo os bens ser vendidos por negociação particular ou por outra modalidade de venda.
+Art. 5.º Elaborado o mapa final dos créditos, a comissão liquidatária iniciará a venda dos bens e direitos do património sujeito a liquidação até ao termo desta, podendo os bens ser vendidos por negociação particular ou por outra modalidade de venda.
 
-###### Art. 6.º A conta final de liquidação será submetida, até 30 dias após o respectivo termo, ao ministro da tutela, devendo ser apresentada em forma de conta corrente e acompanhada de todos os elementos comparativos.
+Art. 6.º A conta final de liquidação será submetida, até 30 dias após o respectivo termo, ao ministro da tutela, devendo ser apresentada em forma de conta corrente e acompanhada de todos os elementos comparativos.
 
-###### Art. 7.º O Estado reserva para si, pelo valor que lhe for atribuído, a totalidade dos bens móveis pertencentes à empresa extinta.
+Art. 7.º O Estado reserva para si, pelo valor que lhe for atribuído, a totalidade dos bens móveis pertencentes à empresa extinta.
 
-###### Art. 8.º O presente diploma entra em vigor em 1 de Janeiro de 1987.
+Art. 8.º O presente diploma entra em vigor em 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 24 de Dezembro de 1986.**
+Promulgado em 24 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1986.**
+Referendado em 29 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

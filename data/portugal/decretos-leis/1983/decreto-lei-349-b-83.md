@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 174/1983, 5º Suplemento, Série I de 1983-07-30
   number: '174'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 2832-(51) a 2832-(55)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17405/00510055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,122 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-b-1983-435623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f5477e3a26e60aee4db7e965e581d374795ea181954c70edc1790cdd15d7e24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad2c125773c63497fa8a13870b2d9a1643c5576a367ecc4d3b2db64dbdec2ec5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Crime
+- Fraude Fiscal
+- Instituição de Crédito
+- Mercado Cambial
+- Mercado Financeiro
+- Mercado Monetário
+- Multa
+- Operação Cambial
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443689:por
+  label: "Reposta em vigor toda a legislação revogada pelo presente diploma, pelo DEC LEI.396/83.1983.10.29.MJ DR.IS [250]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1983-443689
+  date: '1983-10-29'
+- type: amended_by
+  target: pt:dre:382242:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, dos artigos 1.º, 2.º, n.os 1, 2 e 3, 3.º a 5.º,\
+    \ 6.º, n.os 1, 2, 3, 4, 5, 6, 8 e 9, 7.º, n.os 1 e 2, 8.º a 12.º e 27.º a 29.º, pelo AC.56/84.12.06.1984.TCS, DR.IS [184]\
+    \ de 09.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/56-1984-382242
+  date: '1984-06-12'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:142291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623190:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:149243:por
+  label: "Revogado pelo DEC LEI.356-A/83.1983.09.02.PCM DR.IS [202]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-a-1983-149243
+  date: '1983-09-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:16Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +188,7 @@ Nestes termos:
 
 No uso da autorização concedida pela Lei n.º .../83, de ... de ..., o Governo decreta o seguinte:
 
-###### Artigo 1.º Constituem contra-ordenações, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e do presente diploma, os actos ilícitos seguintes:
+Artigo 1.º Constituem contra-ordenações, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e do presente diploma, os actos ilícitos seguintes:
 
 1.º As infracções à legislação reguladora do crédito, do comércio bancário e cambial e do funcionamento dos mercados monetário, financeiro e cambial, bem como às determinações regulamentares do Banco de Portugal publicadas no jornal oficial ou contidas em circulares expedidas sob registo e com aviso de recepção ou entregues mediante protocolo;
 
@@ -124,7 +206,7 @@ d) Não envio, dentro dos prazos fixados, ou recusa de envio de elementos ao min
 
 4.º O não cumprimento das condições fixadas nas autorizações para a prática de actos e operações de natureza cambial concedidas pelo Banco de Portugal ou pelas entidades em quem ele tenha delegado a concessão da autorização.
 
-###### Art. 2.º - 1 - Sem prejuízo de outras legalmente previstas, são aplicáveis às contra-ordenações referidas no artigo anterior as seguintes sanções:
+Art. 2.º - 1 - Sem prejuízo de outras legalmente previstas, são aplicáveis às contra-ordenações referidas no artigo anterior as seguintes sanções:
 
 a) Coima;
 
@@ -138,15 +220,15 @@ d) Interdição até 5 anos da realização de quaisquer operações cambiais, c
 
 3 - Qualquer das referidas sanções tem como efeito necessário a perda a favor do Estado dos bens obtidos com a actividade ilícita.
 
-###### Art. 3.º - 1 - A tentativa e a frustração das contra-ordenações previstas no artigo 1.º são sempre puníveis.
+Art. 3.º - 1 - A tentativa e a frustração das contra-ordenações previstas no artigo 1.º são sempre puníveis.
 
 2 - São equiparadas a tentativa as falsas declarações prestadas com o objectivo de alcançar autorização para a prática de actos e operações de natureza cambial e, bem assim, de outros respeitantes a operações de mercadorias, de invisíveis correntes e de capitais, assim como o uso fraudulento de quaisquer documentos exigidos para a realização ou autorização dos actos e operações indicados.
 
-###### Art. 4.º Verifica-se a reincidência quando, no prazo de 6 meses a contar da data em que se tornou definitiva uma condenação, é praticada pelo mesmo arguido contra-ordenação idêntica.
+Art. 4.º Verifica-se a reincidência quando, no prazo de 6 meses a contar da data em que se tornou definitiva uma condenação, é praticada pelo mesmo arguido contra-ordenação idêntica.
 
-###### Art. 5.º Quando as contra-ordenações forem praticadas por pessoas colectivas de direito público não são aplicáveis as sanções indicadas nas alíneas b) e d) do n.º 1 do artigo 2.º
+Art. 5.º Quando as contra-ordenações forem praticadas por pessoas colectivas de direito público não são aplicáveis as sanções indicadas nas alíneas b) e d) do n.º 1 do artigo 2.º
 
-###### Art. 6.º - 1 - A coima é aplicável a quaisquer entidades que pratiquem contra-ordenações previstas no artigo 1.º, independentemente da actividade económica que desenvolvam.
+Art. 6.º - 1 - A coima é aplicável a quaisquer entidades que pratiquem contra-ordenações previstas no artigo 1.º, independentemente da actividade económica que desenvolvam.
 
 2 - Na falta de disposição especial, a coima será de 10000$00 a 10000000$00, quando as contra-ordenações forem praticadas por instituições de crédito, auxiliares de crédito ou parabancárias, e de 2000$00 a 5000000$00, nos restantes casos.
 
@@ -164,7 +246,7 @@ d) Interdição até 5 anos da realização de quaisquer operações cambiais, c
 
 9 - A coima não pode em caso algum ser paga voluntariamente antes da condenação.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto no artigo 9.º, os gestores das empresas públicas ou sujeitos ao Estatuto de Gestor Público responsáveis pelos actos previstos no artigo 1.º ficam sujeitos a coima graduada entre 50000$00 e 200000$00, em função da gravidade da infracção.
+Art. 7.º - 1 - Sem prejuízo do disposto no artigo 9.º, os gestores das empresas públicas ou sujeitos ao Estatuto de Gestor Público responsáveis pelos actos previstos no artigo 1.º ficam sujeitos a coima graduada entre 50000$00 e 200000$00, em função da gravidade da infracção.
 
 2 - Em caso de reincidência, os limites fixados no número anterior são elevados para o dobro.
 
@@ -172,17 +254,17 @@ d) Interdição até 5 anos da realização de quaisquer operações cambiais, c
 
 4 - Ao processo são aplicáveis, com as necessárias adaptações, as regras e os trâmites previstos nos artigos 17.º e seguintes do presente diploma.
 
-###### Art. 8.º - 1 - A suspensão e a cassação de autorizações para o exercício de funções, com ou sem encerramento da sede ou de quaisquer dependências, são aplicáveis somente a instituições de crédito, auxiliares de crédito ou parabancárias, mas sem prejuízo do disposto no artigo 5.º
+Art. 8.º - 1 - A suspensão e a cassação de autorizações para o exercício de funções, com ou sem encerramento da sede ou de quaisquer dependências, são aplicáveis somente a instituições de crédito, auxiliares de crédito ou parabancárias, mas sem prejuízo do disposto no artigo 5.º
 
 2 - A cassação total das autorizações implica a imediata liquidação da entidade atingida, a qual se fará nos termos da legislação aplicável.
 
-###### Art. 9.º - 1 - A inibição do exercício de cargos e funções é aplicável aos membros dos conselhos gerais, dos conselhos de gestão ou administração e das comissões de fiscalização ou conselhos fiscais, àqueles que exerçam funções equivalentes e aos empregados com funções de direcção ou chefia de instituições de crédito, auxiliares de crédito ou parabancárias, públicas ou privadas, que ordenem, pratiquem ou colaborem activamente na prática dos actos constitutivos das infracções por elas cometidas.
+Art. 9.º - 1 - A inibição do exercício de cargos e funções é aplicável aos membros dos conselhos gerais, dos conselhos de gestão ou administração e das comissões de fiscalização ou conselhos fiscais, àqueles que exerçam funções equivalentes e aos empregados com funções de direcção ou chefia de instituições de crédito, auxiliares de crédito ou parabancárias, públicas ou privadas, que ordenem, pratiquem ou colaborem activamente na prática dos actos constitutivos das infracções por elas cometidas.
 
 2 - A sanção do número anterior é ainda aplicável às pessoas aí referidas que, por causa do exercício das suas funções, aceitem comissões ou qualquer outra espécie de remuneração dos clientes das mencionadas instituições ou que, independentemente desse exercício, pratiquem qualquer contra-ordenação das previstas no artigo 1.º, mas, neste último caso, sem prejuízo da possibilidade de aplicação de coima.
 
-###### Art. 10.º A inibição de realizar quaisquer operações cambiais, com ou sem suspensão da actividade económica exercida, é aplicável a entidades não autorizadas a exercer o comércio de câmbios que pratiquem contra-ordenações de natureza cambial, mas sem prejuízo do disposto no artigo 5.º
+Art. 10.º A inibição de realizar quaisquer operações cambiais, com ou sem suspensão da actividade económica exercida, é aplicável a entidades não autorizadas a exercer o comércio de câmbios que pratiquem contra-ordenações de natureza cambial, mas sem prejuízo do disposto no artigo 5.º
 
-###### Art. 11.º - 1 - Pode ser declarada suspensa a execução de qualquer das sanções previstas neste diploma, atendendo ao grau de culpabilidade do infractor, ao seu comportamento anterior e às circunstâncias da infracção, devendo o respectivo despacho indicar os motivos da suspensão.
+Art. 11.º - 1 - Pode ser declarada suspensa a execução de qualquer das sanções previstas neste diploma, atendendo ao grau de culpabilidade do infractor, ao seu comportamento anterior e às circunstâncias da infracção, devendo o respectivo despacho indicar os motivos da suspensão.
 
 2 - A suspensão pode ficar dependente do cumprimento de certas obrigações, designadamente as consideradas necessárias para a regularização de situações ilegais.
 
@@ -190,9 +272,9 @@ d) Interdição até 5 anos da realização de quaisquer operações cambiais, c
 
 4 - A suspensão em caso algum envolve o imposto de justiça.
 
-###### Art. 12.º Se decorrer o tempo de suspensão sem que o infractor pratique contra-ordenação idêntica ou infrinja as obrigações impostas, ficará sem efeito a condenação; no caso contrário, e mediante proposta da entidade fiscalizadora do sistema bancário, será ordenada pelo Ministro das Finanças e do Plano a execução da sanção aplicada.
+Art. 12.º Se decorrer o tempo de suspensão sem que o infractor pratique contra-ordenação idêntica ou infrinja as obrigações impostas, ficará sem efeito a condenação; no caso contrário, e mediante proposta da entidade fiscalizadora do sistema bancário, será ordenada pelo Ministro das Finanças e do Plano a execução da sanção aplicada.
 
-###### Art. 13.º - 1 - O procedimento contravencional prescreve passados 3 anos.
+Art. 13.º - 1 - O procedimento contravencional prescreve passados 3 anos.
 
 2 - A prescrição do procedimento contravencional conta-se desde o dia em que foi cometida a infracção.
 
@@ -200,21 +282,21 @@ d) Interdição até 5 anos da realização de quaisquer operações cambiais, c
 
 4 - A prescrição da pena conta-se desde o dia em que a condenação se tornar efectiva.
 
-###### Art. 14.º - 1 - O arguido que for condenado pagará imposto de justiça, a fixar na decisão condenatória, atendendo à sua situação económica e à complexidade do processo, entre 500$00 e 40000$00.
+Art. 14.º - 1 - O arguido que for condenado pagará imposto de justiça, a fixar na decisão condenatória, atendendo à sua situação económica e à complexidade do processo, entre 500$00 e 40000$00.
 
 2 - A condenação em imposto de justiça é individual.
 
 3 - O imposto de justiça abrange o imposto do selo respeitante ao processo.
 
-###### Art. 15.º Pelo pagamento da coima e do imposto de justiça em que sejam condenadas pessoas colectivas são responsáveis individual e solidariamente os titulares dos respectivos órgãos de administração, ainda que à data da condenação tenham sido dissolvidas ou entrado em liquidação.
+Art. 15.º Pelo pagamento da coima e do imposto de justiça em que sejam condenadas pessoas colectivas são responsáveis individual e solidariamente os titulares dos respectivos órgãos de administração, ainda que à data da condenação tenham sido dissolvidas ou entrado em liquidação.
 
-###### Art. 16.º - 1 - O pagamento da coima e do imposto de justiça é efectuado por meio de guia nos competentes serviços do Tesouro do concelho da residência dos arguidos, devendo estes juntar ao processo o respectivo duplicado num dos 5 dias seguintes.
+Art. 16.º - 1 - O pagamento da coima e do imposto de justiça é efectuado por meio de guia nos competentes serviços do Tesouro do concelho da residência dos arguidos, devendo estes juntar ao processo o respectivo duplicado num dos 5 dias seguintes.
 
 2 - Os residentes no estrangeiro podem efectuar o pagamento em qualquer concelho.
 
 3 - A coima e o imposto de justiça revertem integralmente para o Estado.
 
-###### Art. 17.º - 1 - A averiguação das infracções a que se refere o presente diploma, seja quem for que as pratique, e a instrução dos respectivos processos, bem como a condução dos mesmos até final, são da competência da entidade a que por lei compita a fiscalização do sistema bancário e parabancário.
+Art. 17.º - 1 - A averiguação das infracções a que se refere o presente diploma, seja quem for que as pratique, e a instrução dos respectivos processos, bem como a condução dos mesmos até final, são da competência da entidade a que por lei compita a fiscalização do sistema bancário e parabancário.
 
 2 - A averiguação das infracções e a instrução dos processos são efectuadas pelos técnicos e pelos responsáveis superiores do quadro da entidade referida no número anterior, aos quais será prestado pelas autoridades e agentes policiais todo o auxílio que para o efeito necessitarem.
 
@@ -226,7 +308,7 @@ d) Interdição até 5 anos da realização de quaisquer operações cambiais, c
 
 6 - Na instrução são aplicáveis subsidiariamente as normas por que se rege a instrução preparatória em processo penal, exceptuadas as respeitantes a prazos.
 
-###### Art. 18.º - 1 - Sem prejuízo da competência da entidade referida no número anterior, devem todas as autoridades policiais:
+Art. 18.º - 1 - Sem prejuízo da competência da entidade referida no número anterior, devem todas as autoridades policiais:
 
 a) Exercer vigilância no sentido de impedir a prática de infracções, nomeadamente as de natureza cambial;
 
@@ -242,13 +324,13 @@ e) Fazer cumprir as decisões proferidas nos processos a que este diploma se ref
 
 3 - A instituição citada no artigo 17.º pode solicitar a colaboração da Polícia Judiciária na instrução dos processos a que se refere o n.º 1 do artigo anterior.
 
-###### Art. 19.º - 1 - Em flagrante delito e em qualquer fase do processo anterior à notificação do arguido para apresentar a defesa pode proceder-se à apreensão de valores que constituam objecto da infracção.
+Art. 19.º - 1 - Em flagrante delito e em qualquer fase do processo anterior à notificação do arguido para apresentar a defesa pode proceder-se à apreensão de valores que constituam objecto da infracção.
 
 2 - Os valores apreendidos ao abrigo do disposto no número anterior e na alínea c) do n.º 1 do artigo 18.º devem ser depositados na Caixa Geral Depósitos, Crédito e Previdência, à ordem da entidade fiscalizadora do sistema bancário, e garantirão o pagamento da coima e do imposto de justiça em que vier a ser condenado o arguido.
 
 3 - As entidades que procederem à apreensão devem enviar à entidade fiscalizadora um dos exemplares das guias de depósito, juntamente com o auto de notícia, no caso de aquela ser feita nos termos da alínea referida no número anterior.
 
-###### Art. 20.º - 1 - As notificações devem ser efectuadas por carta registada com aviso de recepção ou pessoalmente, se necessário através das autoridades policiais.
+Art. 20.º - 1 - As notificações devem ser efectuadas por carta registada com aviso de recepção ou pessoalmente, se necessário através das autoridades policiais.
 
 2 - A pessoa devidamente notificada que não comparecer no dia, hora e local designados nem justificar a falta, nesse acto ou nos 5 dias imediatos, e que resida ou tenha domicílio necessário na área da comarca a que pertença o lugar onde deve comparecer ou em comarca limítrofe com fáceis meios de comunicação com aquela será condenada na multa de 200$00 a 5000$00, a aplicar pelos técnicos ou pelos responsáveis indicados no n.º 2 do artigo 17.º
 
@@ -256,11 +338,11 @@ e) Fazer cumprir as decisões proferidas nos processos a que este diploma se ref
 
 4 - Independentemente do disposto nos números anteriores, os técnicos ou os responsáveis indicados no n.º 2 do artigo 17.º podem requerer ao juiz de instrução criminal territorialmente competente, se o julgarem indispensável, que ordene a comparência sob custódia daquele que sem justificação tiver faltado.
 
-###### Art. 21.º - 1 - Nos processos em que sejam arguidas instituições de crédito, auxiliares de crédito ou parabancárias ou ainda quaisquer entidades que, sem autorização, pratiquem operações próprias daquelas, pode ser determinada pelo Ministro das Finanças e do Plano, se tal se afigurar necessário para a defesa dos interesses da economia nacional ou do público em geral, a suspensão provisória da sua actividade até decisão final, com ou sem encerramento da sede ou de quaisquer dependências.
+Art. 21.º - 1 - Nos processos em que sejam arguidas instituições de crédito, auxiliares de crédito ou parabancárias ou ainda quaisquer entidades que, sem autorização, pratiquem operações próprias daquelas, pode ser determinada pelo Ministro das Finanças e do Plano, se tal se afigurar necessário para a defesa dos interesses da economia nacional ou do público em geral, a suspensão provisória da sua actividade até decisão final, com ou sem encerramento da sede ou de quaisquer dependências.
 
 2 - O recurso interposto da decisão tomada nos termos do número anterior não tem efeito suspensivo.
 
-###### Art. 22.º - 1 - Concluída a instrução, e se for caso disso, será deduzida pelos técnicos ou pelos responsáveis referidos no n.º 2 do artigo 17.º acusação em que se indiquem o infractor, os factos, que lhe são imputados e as respectivas circunstâncias de tempo e lugar, bem como a lei que os proíbe e pune.
+Art. 22.º - 1 - Concluída a instrução, e se for caso disso, será deduzida pelos técnicos ou pelos responsáveis referidos no n.º 2 do artigo 17.º acusação em que se indiquem o infractor, os factos, que lhe são imputados e as respectivas circunstâncias de tempo e lugar, bem como a lei que os proíbe e pune.
 
 2 - A referida acusação será notificada ao arguido, designando-se-lhe o prazo dentro do qual, sob pena de não serem aceites, pode apresentar a sua defesa por escrito e oferecer os respectivos meios de prova.
 
@@ -270,13 +352,13 @@ e) Fazer cumprir as decisões proferidas nos processos a que este diploma se ref
 
 5 - Não podem ser apresentadas mais de 5 testemunhas por cada infracção.
 
-###### Art. 23.º Depois de realizadas as diligências que em consequência da defesa se tornem necessárias, se estiverem provadas infracções constantes da acusação ou quaisquer outras constituídas por factos nela indicados ou alegados pela defesa, o processo será apresentado ao Ministro das Finanças e do Plano, com parecer sobre as infracções que se devem considerar provadas e as sanções que lhes são aplicáveis.
+Art. 23.º Depois de realizadas as diligências que em consequência da defesa se tornem necessárias, se estiverem provadas infracções constantes da acusação ou quaisquer outras constituídas por factos nela indicados ou alegados pela defesa, o processo será apresentado ao Ministro das Finanças e do Plano, com parecer sobre as infracções que se devem considerar provadas e as sanções que lhes são aplicáveis.
 
-###### Art. 24.º - 1 - É da competência do Ministro das Finanças e do Plano a aplicação das sanções previstas neste diploma.
+Art. 24.º - 1 - É da competência do Ministro das Finanças e do Plano a aplicação das sanções previstas neste diploma.
 
 2 - A decisão proferida deve ser notificada ao arguido, nos termos do n.º 4 do artigo 22.º
 
-###### Art. 25.º - 1 - A decisão do Ministro das Finanças e do Plano pode ser impugnada contenciosamente, por recurso a interpor no próprio processo com os fundamentos admitidos na lei geral e bem assim relativamente à incriminação e à espécie e à medida da sanção.
+Art. 25.º - 1 - A decisão do Ministro das Finanças e do Plano pode ser impugnada contenciosamente, por recurso a interpor no próprio processo com os fundamentos admitidos na lei geral e bem assim relativamente à incriminação e à espécie e à medida da sanção.
 
 2 - O recurso deve ser interposto no prazo de 10 ou 30 dias, a contar da data da notificação do despacho condenatório, consoante o arguido resida ou não em Portugal.
 
@@ -284,15 +366,15 @@ e) Fazer cumprir as decisões proferidas nos processos a que este diploma se ref
 
 4 - O recurso só terá efeito suspensivo se, até ao fim do prazo de interposição, a coima for depositada na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da entidade fiscalizadora do sistema bancário e parabancário.
 
-###### Art. 26.º - 1 - Se dentro do prazo de 10 dias a contar do estabelecido no n.º 2 do artigo anterior não for efectuado o pagamento da coima e do imposto de justiça ou se, em caso de recurso, não for efectuado dentro do prazo de interposição o depósito da coima e não houver valores apreendidos bastantes, remeter-se-á certidão ao tribunal competente, a fim de ser instaurada execução fiscal.
+Art. 26.º - 1 - Se dentro do prazo de 10 dias a contar do estabelecido no n.º 2 do artigo anterior não for efectuado o pagamento da coima e do imposto de justiça ou se, em caso de recurso, não for efectuado dentro do prazo de interposição o depósito da coima e não houver valores apreendidos bastantes, remeter-se-á certidão ao tribunal competente, a fim de ser instaurada execução fiscal.
 
 2 - No caso de recurso, a importância da coima cobrada coercivamente será depositada na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da entidade fiscalizadora do sistema bancário.
 
-###### Art. 27.º - 1 - As disposições dos artigos 313.º, 314.º, 317.º, 318.º e 322.º do Código Penal são aplicáveis aos dirigentes, funcionários e empregados das instituições e organismos de que depende a concessão de autorização ou licenciamento de actos e operações de natureza cambial e, bem assim, de outros respeitantes a operações de mercadorias, de invisíveis correntes e de capitais.
+Art. 27.º - 1 - As disposições dos artigos 313.º, 314.º, 317.º, 318.º e 322.º do Código Penal são aplicáveis aos dirigentes, funcionários e empregados das instituições e organismos de que depende a concessão de autorização ou licenciamento de actos e operações de natureza cambial e, bem assim, de outros respeitantes a operações de mercadorias, de invisíveis correntes e de capitais.
 
 2 - O artigo 321.º do referido Código é aplicável a quem pratique os actos nele previstos com o objectivo do corromper os dirigentes, funcionários ou empregados das instituições e organismos mencionados no número anterior.
 
-###### Art. 28.º - 1 - São puníveis com pena não convertível e com coima todos aqueles que por qualquer forma concorram com pleno conhecimento dos factos para se efectuarem com inobservância dos condicionalismos legais:
+Art. 28.º - 1 - São puníveis com pena não convertível e com coima todos aqueles que por qualquer forma concorram com pleno conhecimento dos factos para se efectuarem com inobservância dos condicionalismos legais:
 
 a) A exportação ou saída para o estrangeiro de capitais ou outros valores de terceiros;
 
@@ -300,20 +382,20 @@ b) A obtenção, por terceiros residentes no País e por forma não compreendida
 
 2 - A tentativa dos crimes previstos no número anterior é punível.
 
-###### Art. 29.º - 1 - São revogados os artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, o artigo 6.º do [Decreto-Lei n.º 46302](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46302-1965-236711), de 27 de Abril de 1965, o artigo 8.º do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, o [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967, o artigo 6.º, n.º 2, do [Decreto-Lei n.º 301/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1975-337056), de 20 de Junho, o [Decreto-Lei n.º 67/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1976-506826), de 24 de Janeiro, o [Decreto-Lei n.º 183-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-b-1976-307213), de 10 de Março, a [Portaria n.º 269/76](https://diariodarepublica.pt/dr/detalhe/portaria/269-1976-427434), de 29 de Abril, o [Decreto-Lei n.º 630/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/630-1976-430862), de 28 de Julho, e, no respeitante às contra-ordenações e processos previstos no presente diploma, os artigos 1.º a 6.º do referido [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846) e o [Decreto-Lei n.º 205/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1970-142291), de 12 de Maio.
+Art. 29.º - 1 - São revogados os artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, o artigo 6.º do [Decreto-Lei n.º 46302](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46302-1965-236711), de 27 de Abril de 1965, o artigo 8.º do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, o [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967, o artigo 6.º, n.º 2, do [Decreto-Lei n.º 301/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1975-337056), de 20 de Junho, o [Decreto-Lei n.º 67/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1976-506826), de 24 de Janeiro, o [Decreto-Lei n.º 183-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-b-1976-307213), de 10 de Março, a [Portaria n.º 269/76](https://diariodarepublica.pt/dr/detalhe/portaria/269-1976-427434), de 29 de Abril, o [Decreto-Lei n.º 630/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/630-1976-430862), de 28 de Julho, e, no respeitante às contra-ordenações e processos previstos no presente diploma, os artigos 1.º a 6.º do referido [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846) e o [Decreto-Lei n.º 205/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1970-142291), de 12 de Maio.
 
 2 - Consideram-se feitas para as disposições correspondentes deste diploma as remissões feitas para as revogadas pelo número anterior.
 
-###### Art. 30.º Este diploma entra em vigor na data da sua publicação.
+Art. 30.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

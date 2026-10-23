@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1986-218679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e837a348384516329f6759988fb0a7ed336aca66b831fa8e6083c076308ab4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3caa2369753f2a912caffb57368b8cfdbff595a812a606e679b7ebf715d62689
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AÇO
+- Construção Civil
+- Regulamento de Estruturas de AÇO para Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:123279819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451672:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123279819:por
+  label: Revogado, a partir de 15.11.2019, o Regulamento de Estruturas de Aço para Edifícios, aprovado pelo presente Decreto
+    Lei, pelo(a) Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2019-123279819
+  date: '2019-07-18'
 article_structure:
-  article_count: 149
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 33
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:47Z'
   warnings: []
   errors: []
 ---
@@ -100,23 +125,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Estruturas de Aço para Edifícios que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento de Estruturas de Aço para Edifícios que faz parte integrante do presente diploma.
 
-###### Art. 2.º É revogado o Regulamento de Estruturas de Aço para Edifícios aprovado pelo [Decreto n.º 46160](https://diariodarepublica.pt/dr/detalhe/decreto/46160-1965-238992), de 19 de Janeiro de 1965.
+Art. 2.º É revogado o Regulamento de Estruturas de Aço para Edifícios aprovado pelo [Decreto n.º 46160](https://diariodarepublica.pt/dr/detalhe/decreto/46160-1965-238992), de 19 de Janeiro de 1965.
 
-###### Art. 3.º Durante o prazo de um ano, a contar da data de publicação do presente diploma, poderão ser submetidos à aprovação das entidades competentes projectos elaborados de acordo com a legislação revogada pelo artigo 2.º, aplicada em conjunto com o Regulamento de Solicitações em Edifícios e Pontes, aprovado pelo [Decreto n.º 44041](https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610), de 18 de Novembro de 1961.
+Art. 3.º Durante o prazo de um ano, a contar da data de publicação do presente diploma, poderão ser submetidos à aprovação das entidades competentes projectos elaborados de acordo com a legislação revogada pelo artigo 2.º, aplicada em conjunto com o Regulamento de Solicitações em Edifícios e Pontes, aprovado pelo [Decreto n.º 44041](https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610), de 18 de Novembro de 1961.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1986. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 5 de Abril de 1986.**
+Promulgado em 5 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1986.**
+Referendado em 11 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MEMÓRIA JUSTIFICATIVA
 
@@ -146,89 +171,91 @@ SUMÁRIO
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º - Objecto e campo de aplicação.
+Artigo 1.º - Objecto e campo de aplicação.
 
-###### Artigo 2.º - Autoria dos projectos.
+Artigo 2.º - Autoria dos projectos.
 
-###### Artigo 3.º - Organização dos projectos.
+Artigo 3.º - Organização dos projectos.
 
-###### Artigo 4.º - Verificação e aprovação dos projectos.
+Artigo 4.º - Verificação e aprovação dos projectos.
 
-###### Artigo 5.º - Direcção técnica das obras.
+Artigo 5.º - Direcção técnica das obras.
 
-###### Artigo 6.º - Acções. — CAPÍTULO II
+###### Artigo 6.º - Acções.
+
+### CAPÍTULO II
 
 Materiais
 
-###### Artigo 7.º - Características gerais dos aços.
+Artigo 7.º - Características gerais dos aços.
 
 ###### Artigo 8.º - Perfis e chapas.
 
-###### Artigo 9.º - Rebites.
+Artigo 9.º - Rebites.
 
 ###### Artigo 10.º - Parafusos.
 
-###### Artigo 11.º - Metal de adição para soldadura.
+Artigo 11.º - Metal de adição para soldadura.
 
 ### CAPÍTULO III — Disposições de projecto
 
 A - Generalidades
 
-###### Artigo 12.º - Espessuras mínimas.
+Artigo 12.º - Espessuras mínimas.
 
-###### Artigo 13.º - Disposição dos elementos.
+Artigo 13.º - Disposição dos elementos.
 
-###### Artigo 14.º - Variações de secção.
+Artigo 14.º - Variações de secção.
 
 ###### Artigo 15.º - Tipos de ligações.
 
-###### Artigo 16.º - Contraventamentos.
+Artigo 16.º - Contraventamentos.
 
 ###### Artigo 17.º - Conservação. — B - Ligações rebitadas
 
-###### Artigo 18.º - Diâmetro dos rebites.
+Artigo 18.º - Diâmetro dos rebites.
 
-###### Artigo 19.º - Espessura total máxima a ligar.
+Artigo 19.º - Espessura total máxima a ligar.
 
-###### Artigo 20.º - Disposição dos rebites.
+Artigo 20.º - Disposição dos rebites.
 
 C - Ligações aparafusadas
 
-###### Artigo 21.º - Tipos de ligações aparafusadas.
+Artigo 21.º - Tipos de ligações aparafusadas.
 
-###### Artigo 22.º - Parafusos para ligações pré-esforçadas.
+Artigo 22.º - Parafusos para ligações pré-esforçadas.
 
-###### Artigo 23.º - Diâmetro dos furos.
+Artigo 23.º - Diâmetro dos furos.
 
-###### Artigo 24.º - Comprimento dos parafusos.
+Artigo 24.º - Comprimento dos parafusos.
 
-###### Artigo 25.º - Disposição dos parafusos.
+Artigo 25.º - Disposição dos parafusos.
 
 D - Ligações soldadas
 
 ###### Artigo 26.º - Condições gerais.
 
-###### Artigo 27.º - Tipos de cordões de soldadura.
+Artigo 27.º - Tipos de cordões de soldadura.
 
-###### Artigo 28.º - Dimensões características dos cordões.
+Artigo 28.º - Dimensões características dos cordões.
 
-###### Artigo 29.º - Condicionamentos das dimensões dos cordões.
+Artigo 29.º - Condicionamentos das dimensões dos cordões.
 
-###### Artigo 30.º - Tipos de soldadura de topo.
+Artigo 30.º - Tipos de soldadura de topo.
 
-###### Artigo 31.º - Ligação de topo de elementos com espessura diferente.
+Artigo 31.º - Ligação de topo de elementos com espessura diferente.
 
-###### Artigo 32.º - Soldadura por entalhe.
+Artigo 32.º - Soldadura por entalhe.
 
-###### Artigo 33.º - Cordões de soldadura opostos.
+Artigo 33.º - Cordões de soldadura opostos.
 
-###### Artigo 34.º - Cordões de soldadura em elementos traccionados.
+Artigo 34.º - Cordões de soldadura em elementos traccionados.
 
-###### Artigo 35.º - Ligação de chapas de banzo suplementares.
+Artigo 35.º - Ligação de chapas de banzo suplementares.
 
-###### Artigo 36.º - Cordões em bordos arredondados.
+Artigo 36.º - Cordões em bordos arredondados.
 
-###### Artigo 37.º - Cruzamento de cordões de soldadura.
+Artigo 37.º - Cruzamento de cordões de soldadura.
 
 ### CAPÍTULO IV — Verificação da segurança
 
@@ -236,85 +263,85 @@ A - Critérios gerais
 
 ###### Artigo 38.º - Generalidades.
 
-###### Artigo 39.º - Estados limites últimos.
+Artigo 39.º - Estados limites últimos.
 
-###### Artigo 40.º - Estados limites de utilização.
+Artigo 40.º - Estados limites de utilização.
 
 B - Elementos estruturais
 
-###### Artigo 41.º - Verificação da segurança em relação ao estado limite último de resistência sem plastificação.
+Artigo 41.º - Verificação da segurança em relação ao estado limite último de resistência sem plastificação.
 
-###### Artigo 42.º - Verificação da segurança em relação ao estado limite último de encurvadura por varejamento.
+Artigo 42.º - Verificação da segurança em relação ao estado limite último de encurvadura por varejamento.
 
-###### Artigo 43.º - Verificação da segurança em relação ao estado limite último de encurvadura por bambeamento.
+Artigo 43.º - Verificação da segurança em relação ao estado limite último de encurvadura por bambeamento.
 
-###### Artigo 44.º - Verificação da segurança em relação aos estados limites últimos de resistência com plastificação.
+Artigo 44.º - Verificação da segurança em relação aos estados limites últimos de resistência com plastificação.
 
-###### Artigo 45.º - Verificação da segurança em relação aos estados limites de utilização.
+Artigo 45.º - Verificação da segurança em relação aos estados limites de utilização.
 
 ###### Artigo 46.º - Secções úteis.
 
-###### Artigo 47.º - Esforços secundários.
+Artigo 47.º - Esforços secundários.
 
-###### Artigo 48.º - Comprimento de encurvadura.
+Artigo 48.º - Comprimento de encurvadura.
 
-###### Artigo 49.º - Chapas de peças comprimidas.
+Artigo 49.º - Chapas de peças comprimidas.
 
-###### Artigo 50.º - Peças compostas comprimidas.
+Artigo 50.º - Peças compostas comprimidas.
 
-###### Artigo 51.º - Vigas. Generalidades.
+Artigo 51.º - Vigas. Generalidades.
 
-###### Artigo 52.º - Vigas compostas de alma cheia.
+Artigo 52.º - Vigas compostas de alma cheia.
 
-###### Artigo 53.º - Vigas de suporte de paredes de alvenaria.
+Artigo 53.º - Vigas de suporte de paredes de alvenaria.
 
 ###### Artigo 54.º - Contraventamentos.
 
-###### Artigo 55.º - Aparelhos de apoio.
+Artigo 55.º - Aparelhos de apoio.
 
 C - Ligações
 
 ###### Artigo 56.º - Generalidades.
 
-###### Artigo 57.º - Verificação da segurança das ligações rebitadas.
+Artigo 57.º - Verificação da segurança das ligações rebitadas.
 
-###### Artigo 58.º - Verificação da segurança das ligações aparafusadas correntes.
+Artigo 58.º - Verificação da segurança das ligações aparafusadas correntes.
 
-###### Artigo 59.º - Verificação da segurança das ligações aparafusadas pré-esforçadas.
+Artigo 59.º - Verificação da segurança das ligações aparafusadas pré-esforçadas.
 
-###### Artigo 60.º - Verificação da segurança das ligações soldadas.
+Artigo 60.º - Verificação da segurança das ligações soldadas.
 
 ### CAPÍTULO V — Execução e montagem
 
-###### Artigo 61.º - Regras gerais de execução.
+Artigo 61.º - Regras gerais de execução.
 
-###### Artigo 62.º - Ligações rebitadas.
+Artigo 62.º - Ligações rebitadas.
 
-###### Artigo 63.º - Ligações aparafusadas correntes.
+Artigo 63.º - Ligações aparafusadas correntes.
 
-###### Artigo 64.º - Ligações aparafusadas pré-esforçadas.
+Artigo 64.º - Ligações aparafusadas pré-esforçadas.
 
 ###### Artigo 65.º - Ligações soldadas.
 
-###### Artigo 66.º - Protecção contra a corrosão.
+Artigo 66.º - Protecção contra a corrosão.
 
-###### Artigo 67.º - Protecção contra o fogo.
+Artigo 67.º - Protecção contra o fogo.
 
-###### Artigo 68.º - Regras gerais de montagem.
+Artigo 68.º - Regras gerais de montagem.
 
 ### CAPÍTULO VI — Garantia de qualidade
 
 ###### Artigo 69.º - Generalidades.
 
-###### Artigo 70.º - Controles preliminares.
+Artigo 70.º - Controles preliminares.
 
-###### Artigo 71.º - Controle de produção.
+Artigo 71.º - Controle de produção.
 
-###### Artigo 72.º - Controle de conformidade.
+Artigo 72.º - Controle de conformidade.
 
 ###### Artigo 73.º - Recepção.
 
-###### Artigo 74.º - Manutenção.
+Artigo 74.º - Manutenção.
 
 ## ANEXO I — Valores do coeficiente de encurvadura
 
@@ -322,17 +349,17 @@ C - Ligações
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º - Objecto e campo de aplicação
+Artigo 1.º - Objecto e campo de aplicação
 
 1.1 - O presente Regulamento estabele as regras a observar no projecto e na execução de estruturas de aço para edifícios e obras análogas cujos elementos sejam de aço laminado a quente.
 
 1.2 - Para o dimensionamento de estruturas de aço sujeitas a esforços alternados susceptíveis de provocarem fadiga, ou de estruturas cujos elementos tenham constituição diferente da indicada no corpo do artigo (tais como os laminados ou enformados a frio), ou ainda de estruturas especiais, como as constituídas por tubos com ligações amovíveis, este Regulamento somente poderá ser invocado a título de orientação, visto ter sido estabelecido sem tomar em conta os problemas específicos dessas estruturas.
 
-###### Artigo 2.º - Autoria dos projectos
+Artigo 2.º - Autoria dos projectos
 
 Os projectos das estruturas de aço devem ser elaborados por técnicos com formação adequada à natureza e importância das obras e para o efeito habilitados pela legislação em vigor.
 
-###### Artigo 3.º - Organização dos projectos
+Artigo 3.º - Organização dos projectos
 
 Os projectos devem conter, devidamente organizadas as peças escritas e desenhadas necessárias para a justificação do dimensionamento e sua verificação e para a execução da obra. Estes elementos devem ser apresentados de forma suficientemente explícita para evitar dúvidas na sua interpretação; em particular, a terminologia, a simbologia e as unidades utilizadas devem respeitar as empregadas no presente Regulamento, salvo explicitação clara nos casos em que tal não for cumprido.
 
@@ -340,11 +367,11 @@ No caso de alterações dos projectos, deve proceder-se à anotação de quais o
 
 As unidades utilizadas no presente Regulamento são as do Sistema Internacional de Unidades (SI).
 
-###### Artigo 4.º - Verificação e aprovação dos projectos
+Artigo 4.º - Verificação e aprovação dos projectos
 
 Os projectos devem ser submetidos à verificação e aprovação das entidades competentes, de acordo com a legislação em vigor.
 
-###### Artigo 5.º - Direcção técnica das obras
+Artigo 5.º - Direcção técnica das obras
 
 A direcção técnica das obras que envolvam estruturas de aço deve ser exercida por técnicos com formação adequada à natureza e importância das obras e para o efeito habilitados pela legislação em vigor.
 
@@ -380,7 +407,7 @@ No caso de edifícios não correntes, os coeficientes de comportamento a adoptar
 
 ### CAPÍTULO II — Materiais
 
-###### Artigo 7.º - Características gerais dos aços
+Artigo 7.º - Características gerais dos aços
 
 A caracterização dos diferentes tipos de aços deve ser efectuada com base no conhecimento das suas propriedades mecânicas (determinadas por ensaio de tracção, de dobragem e, eventualmente, de choque e de dureza), da sua composição química e, se necessário, da sua soldabilidade.
 
@@ -420,7 +447,7 @@ Os parafusos, porcas e anilhas a utilizar nas ligações devem satisfazer ao esp
 
 Os valores característicos da tensão de cedência ou da tensão limite convencional de proporcionalidade a 0,2% a adoptar para o aço dos parafusos devem ser considerados iguais aos correspondentes valores garantidos mínimos indicados naquelas normas.
 
-###### Artigo 11.º - Metal de adição para soldadura
+Artigo 11.º - Metal de adição para soldadura
 
 O metal de adição para soldadura deve apresentar propriedades mecânicas não inferiores às do metal de base e possuir as adequadas características metalúrgicas em face da natureza do metal de base, do processo de soldadura utilizado, do tipo de cordões a executar, das condições em que é efectuada a soldadura e ainda de eventuais exigências relativas à utilização da estrutura. Para o efeito, devem ser tidas em consideração as normas portuguesas aplicáveis.
 
@@ -434,7 +461,7 @@ Não devem ser utilizados elementos estruturais de espessura inferior a 4 mm.
 
 No caso de estruturas sujeitas a condições ambientes particularmente agressivas em que não se adoptem protecções especiais contra a corrosão, haverá que limitar a espessura mínima a valores superiores ao indicado.
 
-###### Artigo 13.º - Disposição dos elementos
+Artigo 13.º - Disposição dos elementos
 
 13.1 - Os elementos principais das estruturas planas devem, quanto possível, ter secções simétricas em relação ao plano médio dessas estruturas.
 
@@ -442,7 +469,7 @@ Nas estruturas trianguladas deve ainda procurar-se que os elementos concorrentes
 
 13.2 - No caso de não serem efectivadas as disposições construtivas indicadas neste artigo, deverão ser considerados, desde que assumam importância significativa, os esforços secundários que daí resultem.
 
-###### Artigo 14.º - Variações de secção
+Artigo 14.º - Variações de secção
 
 Devem evitar-se nos elementos das estruturas ou das suas ligações variações bruscas de secção ou enfraquecimentos localizados.
 
@@ -462,7 +489,7 @@ Devem ser evitadas as disposições construtivas que dificultem a conservação 
 
 B - Ligações rebitadas
 
-###### Artigo 18.º - Diâmetros dos rebites
+Artigo 18.º - Diâmetros dos rebites
 
 Os diâmetros dos rebites devem satisfazer aos seguintes condicionamentos:
 
@@ -470,11 +497,11 @@ a) Os rebites devem ter diâmetro nominal 1 mm a 2 mm inferior ao dos furos em q
 
 b) O diâmetro nominal dos rebites não deve, em geral, ser inferior à espessura do elemento de maior espessura a ligar.
 
-###### Artigo 19.º - Espessura total máxima a ligar
+Artigo 19.º - Espessura total máxima a ligar
 
 A espessura total dos elementos a ligar não deve, em geral, exceder cinco vezes o diâmetro dos furos e, em caso algum, exceder seis vezes e meia esse diâmetro. No caso de diâmetros inferiores a 14 mm, a espessura total a ligar deverá ser limitada a quatro vezes o diâmetro.
 
-###### Artigo 20.º - Disposição dos rebites
+Artigo 20.º - Disposição dos rebites
 
 Na disposição dos rebites devem ser respeitados os seguintes condicionamentos (fig. 1):
 
@@ -496,15 +523,15 @@ b - distância do eixo do rebite ao bordo mais próximo, na direcção normal à
 
 c - menor distância entre os eixos dos rebites.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 C - Ligações aparafusadas
 
-###### Artigo 21.º - Tipos de ligações aparafusadas
+Artigo 21.º - Tipos de ligações aparafusadas
 
 As ligações aparafusadas podem ser correntes ou pré-esforçadas, sendo o funcionamento destas últimas assegurado pela existência de forças de aperto e de atrito, resultantes do pré-esforço dos parafusos, que se opõem ao desencosto e deslizamento dos elementos ligados.
 
-###### Artigo 22.º - Parafusos para ligações pré-esforçadas
+Artigo 22.º - Parafusos para ligações pré-esforçadas
 
 Nas ligações aparafusadas pré-esforçadas devem ser usados parafusos da classe de qualidade 8.8 (NP-1898) ou superior.
 
@@ -516,11 +543,11 @@ Nas ligações aparafusadas o diâmetro dos furos não deve exceder em mais de 2
 
 Para as estruturas em que se exija pequena deformabilidade das ligações poderá ser necessário adoptar tolerâncias inferiores às indicadas no artigo.
 
-###### Artigo 24.º - Comprimento dos parafusos
+Artigo 24.º - Comprimento dos parafusos
 
 O liso da espiga dos parafusos deve, em geral, ter comprimento suficiente para abranger toda a espessura dos elementos a ligar.
 
-###### Artigo 25.º - Disposição dos parafusos
+Artigo 25.º - Disposição dos parafusos
 
 Na disposição dos parafusos devem ser respeitadas as condições enunciadas para os rebites no artigo 20.º
 
@@ -544,7 +571,7 @@ f) No projecto devem ser tidas em consideração as condições de execução e 
 
 A disposição contida na alínea c) resulta de que a soldadura de peças de grande espessura exige uma escolha criteriosa das qualidades do aço e do eléctrodo a empregar e ainda a utilização de processos especiais de execução e seu controle.
 
-###### Artigo 27.º - Tipos de cordões de soldadura
+Artigo 27.º - Tipos de cordões de soldadura
 
 Os tipos de cordões de soldadura são (fig. 2):
 
@@ -552,9 +579,9 @@ a) Cordões de topo - cordões que unem as peças colocadas topo a topo, no prol
 
 b) Cordões de ângulo - cordões que ligam as pecas colocadas com sobreposição ou que se intersectam.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
-###### Artigo 28.º - Dimensões características dos cordões
+Artigo 28.º - Dimensões características dos cordões
 
 As dimensões características dos cordões de soldadura são a espessura e o comprimento, tal como são definidos nas alíneas seguintes:
 
@@ -564,7 +591,7 @@ a) A espessura dos cordões deve ser considerada do modo seguinte:
 
 2) Cordões de ângulo. - A espessura será considerada igual à altura do triângulo isósceles inscrito na secção do cordão (fig. 3);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 b) O comprimento dos cordões deve ser considerado do modo seguinte:
 
@@ -572,9 +599,9 @@ b) O comprimento dos cordões deve ser considerado do modo seguinte:
 
 2) Quando se evita a formação de crateres de extremidade (pela utilização de peças de extensão ou outros meios adequados), o comprimento do cordão a considerar será o seu comprimento total.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
-###### Artigo 29.º - Condicionamentos das dimensões dos cordões
+Artigo 29.º - Condicionamentos das dimensões dos cordões
 
 As dimensões dos cordões de soldadura devem satisfazer aos seguintes condicionamentos:
 
@@ -592,45 +619,45 @@ f) Nos cordões de ângulo descontínuos o comprimento de cada troço não deve 
 
 Em cordões de ângulo descontínuos, quando os troços estão colocados alternadamente de um lado e de outro da aresta de ligação, os intervalos indicados na alínea f) são considerados como se os troços estivessem em linha.
 
-###### Artigo 30.º - Tipos de soldadura de topo
+Artigo 30.º - Tipos de soldadura de topo
 
 O tipo de cordão a utilizar na soldadura de topo depende essencialmente da espessura dos elementos a ligar e da possibilidade de execução da soldadura pelas duas faces, do modo indicado nas alíneas seguintes:
 
 a) No caso de a espessura não exceder 6 mm e ser possível realizar a soldadura pelas duas faces, esta poderá executar-se, em geral, sem prévia formação de chanfros (fig. 5);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 b) No caso de a espessura estar compreendida entre 6 mm e 15 mm, executar-se-á, em geral, um cordão em forma de V (fig. 6);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 c) No caso de a espessura exceder 15 mm e ser possível realizar a soldadura pelas duas faces, executar-se-á, em geral, um cordão em forma de X (fig. 7);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 d) No caso de a espessura exceder 15 mm e não ser possível realizar a soldadura pelas duas faces, executar-se-á um cordão em forma de U [fig. 8, a)] ou um cordão em forma de V, utilizando uma contrachapa que permita efectuar a soldadura com as arestas inferiores do chanfro afastadas [fig. 8, b)].
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
-###### Artigo 31.º - Ligação de topo de elementos com espessura diferente
+Artigo 31.º - Ligação de topo de elementos com espessura diferente
 
 31.1 - Na ligação de topo de elementos com espessura diferente deverá efectuar-se uma transição gradual de espessura, pela aplicação de um dos processos seguintes:
 
 a) Por simples deposição de metal de adição, desde que a diferença das espessuras não exceda 3,5 mm (fig. 9);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 b) Por chanfragem do elemento mais espesso, até que a diferença das espessuras não exceda 3,5 mm, e deposição de metal de adição (fig. 10).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 31.2 - A chanfragem referida no n.º 31.1, alínea b), poderá dispensar-se quando haja garantia de que não se verificam esforços alternados e desde que se execute um cordão cuja dimensão h (fig. 11) seja, pelo menos, 25% superior à espessura do elemento mais delgado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 Os procedimentos indicados nas alíneas a) e b) destinam-se a evitar concentrações de tensões, particularmente prejudiciais no caso de peças sujeitas à fadiga.
 
-###### Artigo 32.º - Soldadura por entalhe
+Artigo 32.º - Soldadura por entalhe
 
 32.1 - A soldadura por entalhe, em que os elementos são ligados por cordões executados na periferia de entalhes ou furos (fig. 12), somente será usada em casos especiais devidamente justificados, devendo ainda satisfazer às condições seguintes:
 
@@ -642,41 +669,41 @@ c) A distância entre o bordo do elemento a ligar e o bordo de um entalhe ou fur
 
 d) Os entalhes devem ter os vértices arredondados, com raio não inferior a uma vez e meia a espessura do elemento entalhado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 32.2 - A soldadura por entalhe pode executar-se no caso de ligação de chapas sujeitas a esforços de compressão e em que a largura seja superior a 30 vezes a espessura. Neste caso, as chapas devem ser ligadas entre si por entalhes dispostos em linha, segundo o comprimento das chapas.
 
-###### Artigo 33.º - Cordões de soldadura opostos
+Artigo 33.º - Cordões de soldadura opostos
 
 Quando se dispõem cordões de soldadura opostos, a chapa intermédia deverá ter a espessura mínima de 7 mm (fig. 13).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
-###### Artigo 34.º - Cordões de soldadura em elementos traccionados
+Artigo 34.º - Cordões de soldadura em elementos traccionados
 
 Sobre a superfície de elementos traccionados, para a ligação de outros elementos, não devem executar-se cordões de soldadura perpendiculares à direcção do esforço de tracção.
 
-###### Artigo 35.º - Ligação de chapas de banzo suplementares
+Artigo 35.º - Ligação de chapas de banzo suplementares
 
 A ligação de chapas de banzo suplementares será feita por meio de cordões de ângulo dispostos nos bordos laterais das chapas, os bordos extremos serão normais ao eixo da peça e não devem ser soldados ao banzo (fig. 14).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 No caso de obras exteriores, é conveniente executar cordões de estanquidade de pequena espessura nos bordos extremos das chapas de banzo.
 
-###### Artigo 36.º - Cordões em bordos arredondados
+Artigo 36.º - Cordões em bordos arredondados
 
 Os cordões de ângulo aplicados nos bordos arredondados de perfis não deverão interessar mais de 75% da espessura do perfil no bordo (fig. 15).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
-###### Artigo 37.º - Cruzamento de cordões de soldadura
+Artigo 37.º - Cruzamento de cordões de soldadura
 
 Salvo casos especiais devidamente justificados, não são de admitir cruzamentos de cordões de soldadura.
 
 No caso da ligação de peças formando triedro, deverá ser truncado o canto da peça secundária (fig. 16).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 ### CAPÍTULO IV — Verificação da segurança
 
@@ -688,7 +715,7 @@ A verificação da segurança das estruturas de aço para edifícios deve ser ef
 
 O RSA estabelece as acções e os critérios gerais a ter em conta na verificação da segurança das estruturas, independentemente dos materiais de que estas são constituídas. Para as estruturas de aço será, portanto, necessário objectivar os diversos parâmetros específicos deste material que interessam ao dimensionamento; haverá, assim, que definir os estados limites, os coeficientes de segurança, as propriedades dos materiais, as teorias de comportamento estrutural adequadas, e bem assim regras particulares de projecto e execução.
 
-###### Artigo 39.º - Estados limites últimos
+Artigo 39.º - Estados limites últimos
 
 39.1 - Os estados limites últimos a considerar são, em geral, os seguintes:
 
@@ -702,13 +729,13 @@ c) Estado limite de perda de equilíbrio, correspondente ao derrubamento ou desl
 
 Não são abordados neste Regulamento os critérios de verificação da segurança relativamente ao estado limite de perda de equilíbrio, visto não apresentarem aspectos peculiares de tratamento para as estruturas de edifícios, sendo, portanto, directamente aplicáveis os critérios para o efeito estabelecidos no RSA.
 
-###### Artigo 40.º - Estados limites de utilização
+Artigo 40.º - Estados limites de utilização
 
 Os estados limites de utilização a considerar deverão ser especificados em cada caso, tendo em conta a utilização particular da estrutura. No presente Regulamento são definidos no artigo 45.º estados limites de deformação para alguns dos casos mais correntes.
 
 B - Elementos estruturais
 
-###### Artigo 41.º - Verificação da segurança em relação ao estado limite último de resistência sem plastificação
+Artigo 41.º - Verificação da segurança em relação ao estado limite último de resistência sem plastificação
 
 41.1 - Para estados de tensão simples ou de corte puro a verificação da segurança em relação ao estado limite último de resistência sem plastificação consiste, consoante os casos, em satisfazer uma das condições seguintes:
 
@@ -726,7 +753,7 @@ em que:
 
 41.3 - Os valores de cálculo das tensões resistentes são dados por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 Os valores assim definidos são apresentados no quadro I em função do tipo de aço utilizado.
 
@@ -734,7 +761,7 @@ QUADRO I
 
 Valores de cálculo das tensões resistentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 41.4 - No o caso de estados de tensão duplos, a verificação da segurança consiste em satisfazer, em cada ponto, a condição:
 
@@ -742,7 +769,7 @@ Valores de cálculo das tensões resistentes
 
 em que (sigma)(índice Rd) tem o significado anteriormente indicado e (sigma)(índice Sd, ref) é uma tensão de referência calculada como é a seguir indicado, em função dos valores de cálculo das tensões normais e tangenciais componentes do estado de tensão actuante, determinados de acordo com o estipulado no n.º 41.2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 Os valores de cálculo das tensões de cedência colocados no n.º 41.3 foram tomados iguais aos correspondentes valores característicos (ver 8.2) em resultado de se considerar igual à unidade coeficiente de minoração (gama)(índice m) das propriedades mecânicas do aço.
 
@@ -750,11 +777,11 @@ No caso de estados de tensão duplos, a definição dos estados limites últimos
 
 No n.º 41.4 adoptou-se, para definir a referida curva limite de resistência, o critério de plasticidade de Von Mises-Hüber, que, como se sabe, pode ser expresso em termos de tensões principais (sigma)(índice 1) e (sigma)(índice 2) pela relação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 A formulação da condição de segurança no n.º 41.4, através de um único parâmetro - a tensão de referência, (sigma)(índice Sd, ref) -, é possibilitada, portanto, pela aplicação deste critério de plasticidade.
 
-###### Artigo 42.º - Verificação da segurança em relação ao estado limite último de encurvadura por varejamento
+Artigo 42.º - Verificação da segurança em relação ao estado limite último de encurvadura por varejamento
 
 42.1 - Nos elementos sujeitos a esforços de compressão em que haja risco de varejamento a verificação da segurança consiste em satisfazer a condição:
 
@@ -780,7 +807,7 @@ QUADRO II
 
 Valores do coeficiente de encurvatura, (fi)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 42.3 - No caso de barras sujeitas simultaneamente a esforços de compressão e flexão, os valores de cálculo das tensões actuantes devem ser determinados por teorias apropriadas convenientemente comprovadas pela experiência.
 
@@ -798,21 +825,21 @@ A determinação do valor de cálculo das tensões actuantes, no caso de barras 
 
 Adoptando o critério especificado na norma belga NBN B51001 de 1997, para barras de secção constante, tem-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 No caso de barras de estruturas de nós móveis, pode considerar-se o valor 0,85 para ambos os coeficientes.
 
 No caso de barras de estruturas de nós fixos não sujeitas a forças transversais aplicadas ao longo da barra, poder-se-á considerar, para cada direcção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 No caso de barras de estruturas de nós fixos sujeitos a forças transversais aplicadas ao longo da barra, os valores dos coeficientes c(índice x) e c(índice y) deverão ser determinados pela teoria da estabilidade elástica. Simplificadamente, poderá tomar-se, para barras encastradas, c = 0,85 e, para barras articuladas nas suas extremidades, c = 1.
 
 Complementarmente, deve considerar-se também, para cada secção da barra, um valor de cálculo da tensão actuante dado pela seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
-###### Artigo 43.º - Verificação da segurança em relação ao estado limite último de encurvadura por bambeamento
+Artigo 43.º - Verificação da segurança em relação ao estado limite último de encurvadura por bambeamento
 
 Nos elementos sujeitos a esforços de flexão em que haja risco de bambeamento a verificação da segurança consiste em satisfazer a condição:
 
@@ -820,7 +847,7 @@ Nos elementos sujeitos a esforços de flexão em que haja risco de bambeamento a
 
 em que (sigma)(índice Rd) é o valor de cálculo de tensão resistente, indicado no n.º 41.3, e o (sigma)(índice Sd) é o valor de cálculo da tensão actuante, definido pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 O coeficiente de bambeamento deve ser determinado a partir de resultados da teoria da estabilidade elástica, tendo em conta o modo de ligação do elemento nas suas extremidades, a distribuição das cargas e o nível a que são aplicadas e a eventual existência de apoios laterais ao longo do vão.
 
@@ -830,11 +857,11 @@ O estudo do problema do bambeamento pode ser realizado por qualquer método part
 
 No caso de vigas em I, poderá adoptar-se o critério de determinação do coeficiente k utilizado no regulamento anterior, estendido aos três tipos de aço. Assim, para vigas sobre dois ou mais apoios e sem tramos de consola, constituídas por perfis I simples ou compostos, de altura não superior a 750 mm e com largura de banzo, pelo menos, igual a 0,4 da altura da alma, o coeficiente k é dado, em função das dimensões da viga, pelas expressões indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 No quadro, os símbolos têm o significado que a seguir se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf) - vão do elemento flectido entre apoios ou entre contraventamentos sucessivos que impeçam deslocamentos laterais da secção recta ou rotações em torno do eixo longitudinal do elemento;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf) - vão do elemento flectido entre apoios ou entre contraventamentos sucessivos que impeçam deslocamentos laterais da secção recta ou rotações em torno do eixo longitudinal do elemento;
 
 h - altura do elemento;
 
@@ -842,9 +869,9 @@ b - largura dos banzos;
 
 e - espessura dos banzos.
 
-Observe-se ainda que não é aconselhável utilizar vigas par a as quais a relação [([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)h/be seja maior de que 2500 e que o coeficiente k pode ser tomado igual à unidade no caso de vigas suportando pavimentos ou coberturas de rigidez suficiente fixados às vigas de modo a realizar um contraventamento contínuo.
+Observe-se ainda que não é aconselhável utilizar vigas par a as quais a relação [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)h/be seja maior de que 2500 e que o coeficiente k pode ser tomado igual à unidade no caso de vigas suportando pavimentos ou coberturas de rigidez suficiente fixados às vigas de modo a realizar um contraventamento contínuo.
 
-###### Artigo 44.º - Verificação da segurança em relação aos estados limites últimos de resistência com plastificação
+Artigo 44.º - Verificação da segurança em relação aos estados limites últimos de resistência com plastificação
 
 44.1 - Na verificação da segurança em relação aos estados limites últimos de resistência poder-se-á ter em conta o comportamento elasto-plástico das estruturas, quer através de correcções dos valores de cálculo das tensões actuantes devidas à flexão determinados em regime elástico, quer por aplicação do método das rótulas plásticas.
 
@@ -866,21 +893,21 @@ No que se refere ao método das rótulas plásticas, apenas são enunciadas regr
 
 As correcções das tensões actuantes determinadas em regime elástico, a que o artigo se refere, são usualmente efectuadas dividindo essas tensões por coeficientes superiores à unidade, que podem ser calculados, para cada plano de flexão, a partir da forma da secção e da condição limite referida no n.º 44.2. Valores destes coeficientes para os perfilados mais correntes podem ser obtidos na bibliografia especializada.
 
-###### Artigo 45.º - Verificação da segurança em relação aos estados limites de utilização
+Artigo 45.º - Verificação da segurança em relação aos estados limites de utilização
 
 45.1 - A verificação da segurança em relação aos estados limites de utilização deve, em geral, ser efectuada em termos dos parâmetros que definem esses estados limites, devendo os valores que tais parâmetros assumem devido às acções ser iguais ou inferiores aos valores adoptados para a quantificação desses estados limites.
 
 45.2 - A determinação dos valores que assumem os parâmetros definidores dos estados limites deve ser feita de acordo com as teorias da elasticidade ou da resistência de materiais e considerando as combinações, a quantificação das acções e o valor (gama)(índice f) = 1 especificados no RSA.
 
-45.3 - Para os estados limites de deformação e nos casos que adiante se referem, relativos a elementos de edifícios, bastará, em geral, considerar um estado limite de curta duração (combinações frequentes de acções) e definido pelos valores de flechas a seguir indicados em função do vão, [([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf):
+45.3 - Para os estados limites de deformação e nos casos que adiante se referem, relativos a elementos de edifícios, bastará, em geral, considerar um estado limite de curta duração (combinações frequentes de acções) e definido pelos valores de flechas a seguir indicados em função do vão, [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf):
 
 a) Vigas de pavimentos:
 
-Em geral ... [([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)/400
+Em geral ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)/400
 
-Quando suportem divisórias correntes, valor da flecha que se processa após a construção das divisórias ... [([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)/500
+Quando suportem divisórias correntes, valor da flecha que se processa após a construção das divisórias ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)/500
 
-b) Madres de coberturas ordinárias em que se utilizem materiais correntes de revestimento ... [([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)/200
+b) Madres de coberturas ordinárias em que se utilizem materiais correntes de revestimento ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)/200
 
 ###### Artigo 46.º - Secções úteis
 
@@ -896,7 +923,7 @@ a) Para o dimensionamento em relação aos estados limites últimos:
 
 b) Para o dimensionamento em relação ao estado limite de deformação, no cálculo das deformações poder-se-á considerar, em todos os casos, a secção bruta dos elementos.
 
-###### Artigo 47.º - Esforços secundários
+Artigo 47.º - Esforços secundários
 
 47.1 - No dimensionamento dos diferentes elementos das estruturas devem ser considerados, quando assumam valores significativos, os esforços secundários provenientes, nomeadamente, de excentricidades nas ligações dos elementos ou na aplicação das acções, de deslocamentos resultantes das acções aplicadas e ainda de rigidez das ligações diferente da admitida.
 
@@ -916,9 +943,9 @@ Por esforços secundários entendem-se os que não são considerados nos método
 
 Em condições normais, para estruturas bem concebidas e bem executadas, os efeitos destes esforços podem considerar-se pouco significativos. Compete, no entanto, ao autor do projecto julgar da importância relativa de tais efeitos e, quando for caso disso, considerá-los explicitamente no dimensionamento.
 
-###### Artigo 48.º - Comprimento de encurvadura
+Artigo 48.º - Comprimento de encurvadura
 
-O comprimento de encurvadura, [([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf), a adoptar nas condições indicadas no artigo 42.º para o dimensionamento de elementos sujeitos a compressão será determinado de acordo com a teoria da estabilidade elástica, considerando as possíveis deformações dos elementos, as suas condições efectivas de ligação, a constância ou variabilidade da sua secção transversal e ainda se são carregados axialmente apenas nas extremidades ou se em diversos pontos do seu eixo.
+O comprimento de encurvadura, [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf), a adoptar nas condições indicadas no artigo 42.º para o dimensionamento de elementos sujeitos a compressão será determinado de acordo com a teoria da estabilidade elástica, considerando as possíveis deformações dos elementos, as suas condições efectivas de ligação, a constância ou variabilidade da sua secção transversal e ainda se são carregados axialmente apenas nas extremidades ou se em diversos pontos do seu eixo.
 
 Nas alíneas seguintes indicam-se os valores do comprimento de encurvadura a considerar para elementos de secção constante em alguns casos mais frequentes:
 
@@ -936,7 +963,7 @@ Para comprimento de encurvadura das barras no plano normal ao plano da estrutura
 
 e) No caso de pórticos planos de nós fixos, pode considerar-se, em geral, para comprimento de encurvadura das barras no plano da estrutura, 0,8 do seu comprimento teórico; no plano normal ao plano da estrutura será tomado o comprimento teórico das barras se os nós estiverem convenientemente contraventados.
 
-###### Artigo 49.º - Chapas de peças comprimidas
+Artigo 49.º - Chapas de peças comprimidas
 
 As chapas que constituem peças sujeitas a compressão devem possuir espessura suficiente para que não se verifiquem fenómenos de instabilidade localizados antes de se atingir o estado limite por encurvadura do conjunto.
 
@@ -944,19 +971,19 @@ Tal condição considera-se satisfeita, nos casos a seguir indicados, se se veri
 
 a) Chapas reforçadas apenas num bordo (fig. 18):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 b) Chapas com os dois bordos igualmente reforçados (fig. 19):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 c) Chapas com os dois bordos desigualmente reforçados, b(índice 1) > b(índice 2) (fig. 20):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 Nas expressões anteriores f(índice yd) deve ser tomado com os valores indicados no quadro I e (lambda) é o coeficiente de esbelteza correspondente ao raio de giração mínimo da secção transversal da peça.
 
-###### Artigo 50.º - Peças compostas comprimidas
+Artigo 50.º - Peças compostas comprimidas
 
 O dimensionamento de peças compostas comprimidas formadas por perfis (montantes) associados por meio de elementos transversais (travessas e diagonais), quando não for realizado por outros métodos de rigor científico devidamente justificado, deverá ser feito de acordo com o disposto nas alíneas seguintes:
 
@@ -976,17 +1003,17 @@ em que:
 
 2) Se os montantes são solidarizados apenas por travessas [fig. 21, b)], pode dispensar-se o dimensionamento nos moldes indicados no n.º 1) desde que a secção transversal das travessas satisfaça a condição seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 As ligações das travessas aos montantes devem garantir um momento resistente correspondente ao eixo em relação ao qual é definido (Iota)(índice t);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 3) Se os montantes estão distanciados apenas pela espessura de uma travessa, nomeadamente no caso de cantoneiras ligadas conforme se indica na figura 21, c), o raio de giração a considerar no dimensionamento da peça composta poderá ser o correspondente à secção conjunta dos montantes (relativo ao eixo de inércia mínima) desde que seja respeitada a condição da alínea a) deste artigo e que seja efectiva a solidarização dos elementos.
 
 No caso de cantoneiras ligadas face com face ou em cruz, são necessárias, pelo menos, duas travessas colocadas nos terços do comprimento da peça em dois planos perpendiculares entre si e ligadas por soldadura ou por um mínimo de dois rebites ou parafusos a cada cantoneira; se existirem mais de duas travessas, elas serão colocadas alternadamente em dois planos perpendiculares entre si, devendo a distância a ser medida sempre entre os eixos de travessas contíguas, seja qual for o plano em que se encontrem.
 
-###### Artigo 51.º - Vigas. Generalidades
+Artigo 51.º - Vigas. Generalidades
 
 No dimensionamento de vigas observar-se-ão as seguintes disposições gerais:
 
@@ -996,7 +1023,7 @@ Quando se trate de vigas de pequena importância apoiadas directamente em elemen
 
 b) Na determinação dos esforços tomar-se-á em consideração a existência de momentos de encastramento ou de continuidade, na medida em que as disposições construtivas previstas os garantam.
 
-###### Artigo 52.º - Vigas compostas de alma cheia
+Artigo 52.º - Vigas compostas de alma cheia
 
 No dimensionamento de vigas compostas de alma cheia adoptar-se-ão disposições que eliminem o risco de instabilidade da alma e do banzo comprimido, de acordo com critérios baseados na teoria da estabilidade elástica.
 
@@ -1006,11 +1033,11 @@ a) A relação entre a largura das partes livres dos banzos comprimidos e a sua 
 
 No caso de banzos com bordos não reforçados (fig. 22):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 No caso de banzos com bordos reforçados (fig. 23):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 Nas expressões anteriores f(índice yd) deve ser tomado com os valores indicados no quadro I;
 
@@ -1018,7 +1045,7 @@ b) A relação entre a espessura da alma e a sua altura livre não deve ser infe
 
 c) Devem ser colocados reforços verticais de alma (nervuras) nas secções de apoio e nas secções em que actuam cargas concentradas fixas importantes, não sendo necessária a sua existência em secções intermédias quando a relação entre a espessura da alma e a sua altura livre for superior a 0,014. Quando tal condição não for satisfeita, há que dispor de tais reforços, cujo espaçamento e secção devem ser convenientemente justificados.
 
-###### Artigo 53.º - Vigas de suporte de paredes de alvenaria
+Artigo 53.º - Vigas de suporte de paredes de alvenaria
 
 No dimensionamento de vigas de suporte de paredes de alvenaria as cargas transmitidas pelas paredes poderão ser reduzidas, atendendo ao efeito de arco na alvenaria, desde que se verifiquem simultaneamente as condições seguintes:
 
@@ -1060,7 +1087,7 @@ C - Ligações
 
 A recomendação de dar a uma ligação, nos casos indicados, resistência superior à imposta pelo cálculo destina-se a evitar que seja a ligação a condicionar a resistência do conjunto, permitindo, portanto, o aproveitamento do acréscimo de capacidade resistente que resulta de um eventual sobredimensionamento dos elementos ligados devido, por exemplo, a condicionamentos arquitectónicos.
 
-###### Artigo 57.º - Verificação da segurança das ligações rebitadas
+Artigo 57.º - Verificação da segurança das ligações rebitadas
 
 57.1 - Para a verificação da segurança das ligações rebitadas os valores de cálculo das tensões resistentes são os definidos no n.º 57.2, devendo os valores de cálculo das tensões actuantes ser determinados de acordo com as regras da resistência de materiais, considerando para diâmetro dos rebites o seu diâmetro depois de cravados (igual ao diâmetro dos furos) e atendendo ao disposto nas alíneas seguintes:
 
@@ -1076,7 +1103,7 @@ QUADRO III
 
 Valores de cálculo das tensões resistentes em ligações rebitadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 57.3 - Deve verificar-se se existe nos elementos ligados ou nos elementos de ligação alguma secção insuficiente para a transmissão dos esforços. Em particular, para furos próximos dos bordos de chapas deve verificar-se a condição:
 
@@ -1094,7 +1121,7 @@ f(índice yd) - valor de cálculo da tensão de cedência do aço da chapa, indi
 
 57.4 - No caso de rebites solicitados simultaneamente por esforços de corte e de tracção dispensa-se a análise do estado de tensão resultante, bastando verificar a segurança separadamente para os esforços de corte e de tracção.
 
-###### Artigo 58.º - Verificação da segurança das ligações aparafusadas correntes
+Artigo 58.º - Verificação da segurança das ligações aparafusadas correntes
 
 58.1 - Para a verificação da segurança das ligações aparafusadas correntes os valores de cálculo das tensões resistentes são os definidos no n.º 58.2, devendo os valores de cálculo das tensões actuantes ser determinados de forma semelhante à indicada para as ligações rebitadas no artigo 57.º e tendo em atenção o disposto nas alíneas seguintes:
 
@@ -1110,13 +1137,13 @@ QUADRO IV
 
 Valores de cálculo das tensões resistentes em ligações aparafusadas correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 58.3 - Deve verificar-se se existe nos elementos ligados ou nos elementos de ligação alguma secção insuficiente para a transmissão dos esforços. Em especial, nos furos próximos dos bordos das chapas deve verificar-se a condição indicada no n.º 57.3 para os rebites.
 
 58.4 - No caso de parafusos solicitados simultaneamente por esforços de corte e de tracção, dispensa-se a análise do estado de tensão resultante, bastando verificar a segurança separadamente para os esforços de corte e de tracção.
 
-###### Artigo 59.º - Verificação da segurança das ligações aparafusadas pré-esforçadas
+Artigo 59.º - Verificação da segurança das ligações aparafusadas pré-esforçadas
 
 59.1 - A verificação da segurança das ligações aparafusadas pré-esforçadas deve ser realizada em termos de esforços, comparando os valores de cálculo dos esforços actuantes com os valores de cálculo dos esforços resistentes, determinados de acordo com o indicado nas alíneas seguintes:
 
@@ -1142,7 +1169,7 @@ em que os símbolos têm o significado indicado anteriormente;
 
 c) No caso de a ligação estar submetida simultaneamente a esforços dos tipos indicados nas alíneas a) e b), os valores de cálculo dos esforços resistentes são dados pelas expressões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 59.2 - Os valores do coeficiente de atrito e do pré-esforço a adoptar na verificação da segurança de ligações aparafusadas pré-esforçadas devem ser, em cada caso, convenientemente justificados.
 
@@ -1168,7 +1195,7 @@ O momento de aperto necessário para garantir a introdução do pré-esforço F(
 
 em que d é o diâmetro nominal do parafuso.
 
-###### Artigo 60.º - Verificação da segurança das ligações soldadas
+Artigo 60.º - Verificação da segurança das ligações soldadas
 
 A verificação da segurança das ligações soldadas deve ser efectuada do modo indicado nas alíneas seguintes:
 
@@ -1176,9 +1203,9 @@ a) No caso dos cordões de topo, não é necessário comprovar por cálculo a su
 
 b) No caso de cordões de ângulo, para a verificação da segurança os valores de cálculo das tensões resistentes são iguais a f(índice yd) (ver quadro I), devendo os valores de cálculo das tensões actuantes ser tomados iguais a uma tensão de referência dada por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
-De acordo com a figura 24, (sigma) é a componente perpendicular ao plano de ligação, positiva se se tratar de uma tracção sobre o cordão, e negativa no caso contrário, (tau)(índice p) é a componente tangencial no plano de ligação e perpendicular ao eixo longitudinal do cordão, positiva se corresponder à tendência para afastar o cordão do seu vértice, e negativa no caso contrário, e [([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf), é a componente tangencial no plano de ligação e paralela ao eixo longitudinal do cordão.
+De acordo com a figura 24, (sigma) é a componente perpendicular ao plano de ligação, positiva se se tratar de uma tracção sobre o cordão, e negativa no caso contrário, (tau)(índice p) é a componente tangencial no plano de ligação e perpendicular ao eixo longitudinal do cordão, positiva se corresponder à tendência para afastar o cordão do seu vértice, e negativa no caso contrário, e [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf), é a componente tangencial no plano de ligação e paralela ao eixo longitudinal do cordão.
 
 O valor do coeficiente (alfa) será dado, em função da espessura a (mm) do cordão, pela seguinte expressão:
 
@@ -1192,29 +1219,29 @@ A expressão (sigma)(índice Sd, ref), utilizada para a verificação da seguran
 
 a) Cordões que realizam a transmissão de um esforço longitudinal de compressão ou de tracção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 b) Cordões que realizam a transmissão de um esforço transversal [fig. 25, f)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 c) cordões que realizam a ligação entre a alma e o banzo de uma viga de alma cheia [fig. 25, g)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 d) Cordões que realizam a ligação de uma viga a um pilar [fig. 25, h)]:
 
 Para cordões que ligam o banzo da viga ao pilar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 Para os cordões que ligam alma da viga ao pilar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 ### CAPÍTULO V — Execução e montagem
 
-###### Artigo 61.º - Regras gerais de execução
+Artigo 61.º - Regras gerais de execução
 
 Os trabalhos devem ser executados segundo as boas normas de construir, nomeadamente as seguintes:
 
@@ -1240,7 +1267,7 @@ c) Os rebites, depois de cravados, devem preencher completamente os furos e apre
 
 d) Os rebites que ficarem soltos ou defeituosos devem ser substituídos.
 
-###### Artigo 63.º - Ligações aparafusadas correntes
+Artigo 63.º - Ligações aparafusadas correntes
 
 Na execução de ligações aparafusadas correntes respeitar-se-ão as seguintes condições:
 
@@ -1254,7 +1281,7 @@ d) No caso de as superfícies sobre as quais se faz o aperto dos parafusos não 
 
 e) Sempre que se verifiquem condições que possam conduzir ao desaperto dos parafusos em serviço, por exemplo, vibrações, devem utilizar-se dispositivos que impeçam esse desaperto, tais como anilhas de mola ou contraporcas.
 
-###### Artigo 64.º - Ligações aparafusadas pré-esforçadas
+Artigo 64.º - Ligações aparafusadas pré-esforçadas
 
 Na execução de ligações aparafusadas pré-esforçadas respeitar-se-ão as seguintes condições:
 
@@ -1290,7 +1317,7 @@ h) Deve-se procurar reduzir ao indispensável o número de soldaduras a efectuar
 
 Encontram-se publicadas diversas normas portuguesas relativas à execução de trabalhos de soldadura e à qualificação de soldadores, que são referidas no anexo II.
 
-###### Artigo 66.º - Protecção contra a corrosão
+Artigo 66.º - Protecção contra a corrosão
 
 As peças devem ser protegidas contra a corrosão por processo adequado, nomeadamente por pintura ou metalização, devendo ser respeitadas as condições seguintes:
 
@@ -1306,11 +1333,11 @@ e) As estruturas a revestir de betão não devem ser pintadas ou receber qualque
 
 f) As superfícies de rolamento ou escorregamento de aparelhos de apoio, tais como faces de rolos ou outras análogas, não devem ser pintadas, mas protegidas por massa grafitada ou outro material adequado.
 
-###### Artigo 67.º - Protecção contra o fogo
+Artigo 67.º - Protecção contra o fogo
 
 As estruturas de aço em construções particularmente sujeitas a risco de incêndio devem ser protegidas contra o fogo, de acordo com os regulamentos e disposições respectivas em vigor.
 
-###### Artigo 68.º - Regras gerais de montagem
+Artigo 68.º - Regras gerais de montagem
 
 Na montagem das estruturas devem respeitar-se as prescrições da regulamentação em vigor sobre segurança no trabalho da construção civil, bem como o estipulado nas alíneas seguintes:
 
@@ -1334,13 +1361,13 @@ A matéria apresentada neste capítulo tem em vista, fundamentalmente, estabelec
 
 Não são tratados, porém, quaisquer aspectos contratuais ou jurídicos ligados a garantia de qualidade; em particular, as consequências de uma rejeição (penalidades, indemnizações, etc.) e a repartição das responsabilidades entre os diversos intervenientes na obra estão fora do âmbito deste Regulamento.
 
-###### Artigo 70.º - Controles preliminares
+Artigo 70.º - Controles preliminares
 
 Os controles efectuados antes do início da execução destinam-se a assegurar que é possível realizar satisfatoriamente a obra prevista com os técnicos, os materiais e os métodos de execução disponíveis.
 
 Estes controles devem incidir, nomeadamente, sobre a qualidade e a adequabilidade do projecto, dos materiais e dos meios de execução que vão ser utilizados.
 
-###### Artigo 71.º - Controle de produção
+Artigo 71.º - Controle de produção
 
 71.1 - O controle de produção consiste num conjunto de acções exercidas durante a execução da estrutura, quer em oficina, quer em obra, com vista a obter um grau razoável de garantia de que as condições que lhe são exigidas serão satisfeitas.
 
@@ -1356,7 +1383,7 @@ Imediatamente antes da utilização dos materiais deve ser verificado se durante
 
 Considera-se de importância fundamental para as actividades de garantia de qualidade o correcto preenchimento do livro de registo da obra.
 
-###### Artigo 72.º - Controle de conformidade
+Artigo 72.º - Controle de conformidade
 
 72.1 - O controle de conformidade consiste num conjunto de acções e de decisões efectuadas com base em regras preestabelecidas (regras de conformidade, que têm em conta os critérios de amostragem e os critérios de aceitação/rejeição) e destinadas a verificar se a obra cumpre as exigências que lhe são atribuídas, permitindo, em consequência, efectuar um julgamento de «conformidade» ou de «não conformidade».
 
@@ -1396,7 +1423,7 @@ Edifícios industriais ... 5 a 10 anos
 
 ## ANEXO I — Valores do coeficiente de encurvadura, fi
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf))](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/17400/18841906.pdf)
 
 ## ANEXO II — Normas portuguesas aplicáveis a estruturas de aço
 

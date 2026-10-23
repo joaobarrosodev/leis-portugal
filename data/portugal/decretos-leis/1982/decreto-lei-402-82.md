@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 221/1982, 1º Suplemento, Série I de 1982-09-23
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3006-(66) a 3006-(72)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22101/00660072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1982-319745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 260e62e96628e275f65971c4c3f4c1ad1ec6a70cb24d5caab6dc37dde2366005
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a946415ba624e815be13aaba7837e8bda4f51380c5e2b653cb1a8b6a6e79c5a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo Penal
+- Execução de Penas
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409320:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:23Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +148,9 @@ I PARTE
 
 Alterações ao Código de Processo Penal e à legislação complementar
 
-###### Artigo 1.º Os artigos 22.º, 63.º, 64.º, 67.º, 273.º, 291.º-A, 309.º, 315.º, 473.º, 526.º, 587.º, 588.º, 589.º, 590.º e 646.º do Código de Processo Penal passam a ter a redacção seguinte:
+Artigo 1.º Os artigos 22.º, 63.º, 64.º, 67.º, 273.º, 291.º-A, 309.º, 315.º, 473.º, 526.º, 587.º, 588.º, 589.º, 590.º e 646.º do Código de Processo Penal passam a ter a redacção seguinte:
 
-###### Art. 22.º O réu tem direito a escolher defensor e a ser por ele assistido em todos os actos do processo, especificando a lei os casos e as fases em que essa assistência é obrigatória.
+Art. 22.º O réu tem direito a escolher defensor e a ser por ele assistido em todos os actos do processo, especificando a lei os casos e as fases em que essa assistência é obrigatória.
 
 § 1.º ...
 
@@ -135,29 +158,29 @@ Alterações ao Código de Processo Penal e à legislação complementar
 
 § 3.º ...
 
-###### Art. 63.º Serão julgados em processo de querela os crimes a que corresponde pena de prisão por mais de 3 anos ou demissão.
+Art. 63.º Serão julgados em processo de querela os crimes a que corresponde pena de prisão por mais de 3 anos ou demissão.
 
-###### Art. 64.º Serão julgados em processo correccional os crimes que não devam ser julgados em processo de querela ou sumário.
+Art. 64.º Serão julgados em processo correccional os crimes que não devam ser julgados em processo de querela ou sumário.
 
-###### Art. 67.º Serão julgados em processo sumário as infracções a que foram aplicáveis penas a que corresponda processo correccional, sempre que o infractor for preso em flagrante delito.
+Art. 67.º Serão julgados em processo sumário as infracções a que foram aplicáveis penas a que corresponda processo correccional, sempre que o infractor for preso em flagrante delito.
 
-###### Art. 273.º ...
+Art. 273.º ...
 
 § 1.º Após a formação da culpa, a prisão preventiva não poderá ultrapassar 3 anos, salvo se, no caso de acumulação de infracções, for justificada por infracção cometida em data posterior ao conhecimento, real ou presumido, da pronúncia pelo detido, contando-se, neste caso, novo prazo da data da pronúncia pela última infracção. A prisão preventiva cessará, todavia, quando igualar metade da duração máxima da pena correspondente ao crime mais grave imputado ao arguido.
 
 § 2.º No caso de recurso da decisão condenatória, a duração da prisão preventiva não pode ser superior à duração da pena de prisão fixada na decisão recorrida, quando inferior ao prazo fixado no parágrafo anterior.
 
-###### Art. 291.º-A - 1 - O juiz deve mandar informar imediatamente o detido das razões da sua dentenção.
+Art. 291.º-A - 1 - O juiz deve mandar informar imediatamente o detido das razões da sua dentenção.
 
 2 - A decisão judicial que ordene ou mantenha a medida de privação de liberdade deve ser logo comunicada a parente ou a pessoa da confiança do detido, por este indicados.
 
-###### Art. 309.º ...
+Art. 309.º ...
 
 § 1.º ...
 
 § 2.º A prisão preventiva considerar-se-á suspensa, para efeito da contagem dos respectivos prazos, no caso de doença que imponha internamento hospitalar, se a presença do detido for indispensável à continuação da instrução.
 
-###### Art. 315.º ...
+Art. 315.º ...
 
 § único. ...
 
@@ -167,29 +190,29 @@ c) Manter-se para além dos prazos legais para a formação da culpa e para a du
 
 ...
 
-###### Art. 473.º ...
+Art. 473.º ...
 
 § único. O Ministério Público recorrerá sempre das decisões condenatórias que impuserem pena de prisão em medida superior a 8 anos.
 
-###### Art. 526.º O Ministério Público recorrerá sempre das decisões que condenarem na pena indicada no § único do artigo 473.º
+Art. 526.º O Ministério Público recorrerá sempre das decisões que condenarem na pena indicada no § único do artigo 473.º
 
-###### Art. 587.º - 1 - Nos processos por difamação, injúrias e calúnia, concluída a instrução, irá o processo com vista ao Ministério Público para deduzir acusação no prazo de 5 dias e, para o mesmo fim e em igual prazo, será em seguida notificado o assistente, havendo-o. Se a acusação depender de queixa, o Ministério Público assim o declarará na sua resposta, sendo em seguida notificado o assistente para deduzir acusação no prazo de 5 dias, voltando depois o processo com vista ao Ministério Público, por igual prazo e para o mesmo fim.
+Art. 587.º - 1 - Nos processos por difamação, injúrias e calúnia, concluída a instrução, irá o processo com vista ao Ministério Público para deduzir acusação no prazo de 5 dias e, para o mesmo fim e em igual prazo, será em seguida notificado o assistente, havendo-o. Se a acusação depender de queixa, o Ministério Público assim o declarará na sua resposta, sendo em seguida notificado o assistente para deduzir acusação no prazo de 5 dias, voltando depois o processo com vista ao Ministério Público, por igual prazo e para o mesmo fim.
 
 2 - Quando a imputação de um facto ou a formulação de um juízo for feita por forma imprecisa ou equívoca, poderá quem se julgue por eles ofendido, ou quem o represente na titularidade do direito de queixa, requerer ao juiz que seja notificado o seu autor para, em 8 dias, prorrogáveis mediante fundamento justificado, precisar ou esclarecer a imputação.
 
 3 - Se o notificado a que se refere o número anterior não der os esclarecimentos ou os não der por forma satisfatória, responderá por difamação, injúria ou calúnia, conforme os casos, incorporando-se o processo no que para o efeito for instaurado. Se os esclarecimentos forem dados por forma satisfatória, arquivar-se-á o pedido, cumprindo-se o disposto no Código das Custas Judiciais.
 
-###### Art. 588.º O processo seguirá os termos do processo correccional em tudo o que não for especialmente regulado neste capítulo.
+Art. 588.º O processo seguirá os termos do processo correccional em tudo o que não for especialmente regulado neste capítulo.
 
-###### Art. 589.º Se, antes de findo o prazo em que pode contestar, o réu vier dar as explicações a que se refere o artigo 171.º do Código Penal, o juiz ordenará a notificação do assistente para, dentro de 5 dias, declarar se as aceita e, no caso afirmativo, será o processo arquivado, observando-se o disposto no Código das Custas Judiciais.
+Art. 589.º Se, antes de findo o prazo em que pode contestar, o réu vier dar as explicações a que se refere o artigo 171.º do Código Penal, o juiz ordenará a notificação do assistente para, dentro de 5 dias, declarar se as aceita e, no caso afirmativo, será o processo arquivado, observando-se o disposto no Código das Custas Judiciais.
 
-###### Art. 590.º - 1 - Se o réu pretender provar a verdade das imputações, deduzirá a sua defesa na contestação, não podendo produzir mais de 3 testemunhas por cada facto. Em seguida será o processo concluso ao juiz, o qual, dentro de 3 dias, decidirá se é ou não admissível aquela prova, e, no caso afirmativo, declarará sem efeito o despacho que designou dia para julgamento, observando-se o disposto nos artigos seguintes.
+Art. 590.º - 1 - Se o réu pretender provar a verdade das imputações, deduzirá a sua defesa na contestação, não podendo produzir mais de 3 testemunhas por cada facto. Em seguida será o processo concluso ao juiz, o qual, dentro de 3 dias, decidirá se é ou não admissível aquela prova, e, no caso afirmativo, declarará sem efeito o despacho que designou dia para julgamento, observando-se o disposto nos artigos seguintes.
 
 2 - Quando a imputação for de factos criminosos, só é admissível prova resultante de condenação em trânsito em julgado, que não tenha ainda sido cumprida.
 
 3 - Deduzida defesa nos termos dos números anteriores, se não houver ainda decisão condenatória pelo facto criminoso imputado, ficará o processo suspenso pelo prazo do § 3.º do artigo 3.º, a fim de que seja promovida e decidida a acção penal, procedendo-se depois de harmonia com o decidido.
 
-###### Art. 646.º ...
+Art. 646.º ...
 
 ...
 
@@ -201,7 +224,7 @@ Havendo pedido cível deduzido, o recurso é admissível, restrito a esse pedido
 
 ...
 
-###### Art. 2.º O artigo 1.º do [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 1.º do [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -209,9 +232,9 @@ Havendo pedido cível deduzido, o recurso é admissível, restrito a esse pedido
 
 3 - Quando ao crime corresponder processo de querela, haverá lugar a instrução preparatória.
 
-###### Art. 3.º O artigo 13.º do [Decreto-Lei n.º 420/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1970-148827), de 3 de Setembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 13.º do [Decreto-Lei n.º 420/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1970-148827), de 3 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 13.º - 1 - As substâncias compreendidas na lista anexa que serviram ou se destinaram à prática de infracções ou são produto destas serão apreendidas e examinadas, por ordem da autoridade competente para a investigação ou instrução, no mais curto prazo de tempo possível.
+Art. 13.º - 1 - As substâncias compreendidas na lista anexa que serviram ou se destinaram à prática de infracções ou são produto destas serão apreendidas e examinadas, por ordem da autoridade competente para a investigação ou instrução, no mais curto prazo de tempo possível.
 
 2 - Após o exame laboratorial, o perito procederá à recolha, identificação, acondicionamento, pesagem e selagem de duas amostras, no caso de a quantidade de droga o permitir, e do remanescente, se o houver. Uma das amostras ficará guardada em cofre forte no organismo que procede à investigação até decisão final; a outra irá apensa ao processo quando da remessa para julgamento.
 
@@ -223,9 +246,9 @@ Havendo pedido cível deduzido, o recurso é admissível, restrito a esse pedido
 
 6 - Proferida decisão definitiva, o tribunal pedirá a amostra guardada em cofre pela entidade investigadora e ordenará a destruição da mesma bem como da amostra apensa, mediante incineração, sob seu controle, lavrando-se o auto respectivo.
 
-###### Art. 4.º O artigo 20.º do [Decreto-Lei n.º 785/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1976-409320), de 29 de Outubro, passa a ter a seguinte redacção:
+Art. 4.º O artigo 20.º do [Decreto-Lei n.º 785/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1976-409320), de 29 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 2 - O Tribunal de Execução das Penas de Lisboa tem ainda jurisdição sobre os estabelecimentos prisionais centrais de Vale dos Judeus e de Alcoentre e sobre o estabelecimento prisional regional de Setúbal.
 
@@ -237,17 +260,17 @@ Da execução das penas e das medidas de segurança
 
 ## TÍTULO I — Disposições gerais
 
-###### Art. 5.º A execução das penas e das medidas de segurança que se encontrem previstas na lei penal só pode ter lugar mediante decisão do tribunal competente transitada em julgado, dotada de força executiva e pela forma prevista na lei.
+Art. 5.º A execução das penas e das medidas de segurança que se encontrem previstas na lei penal só pode ter lugar mediante decisão do tribunal competente transitada em julgado, dotada de força executiva e pela forma prevista na lei.
 
-###### Art. 6.º Na execução das penas e das medidas de segurança será sempre respeitada a dignidade humana dos condenados e ser-lhes-ão dispensados os tratamentos necessários para a salvaguarda da saúde física e mental e para a reinserção na sociedade.
+Art. 6.º Na execução das penas e das medidas de segurança será sempre respeitada a dignidade humana dos condenados e ser-lhes-ão dispensados os tratamentos necessários para a salvaguarda da saúde física e mental e para a reinserção na sociedade.
 
-###### Art. 7.º Na execução das penas e das medidas de segurança atender-se-á aos atributos individuais dos condenados de modo que, dentro dos limites da lei, se sigam as modalidades de execução mais adequadas à realização dos seus fins.
+Art. 7.º Na execução das penas e das medidas de segurança atender-se-á aos atributos individuais dos condenados de modo que, dentro dos limites da lei, se sigam as modalidades de execução mais adequadas à realização dos seus fins.
 
-###### Art. 8.º - 1 - As decisões penais condenatórias, transitadas em julgado, têm força executiva em todo o território nacional.
+Art. 8.º - 1 - As decisões penais condenatórias, transitadas em julgado, têm força executiva em todo o território nacional.
 
 2 - As decisões penais absolutórias são exequíveis logo que pronunciadas, sem prejuízo do disposto quanto a liberdade provisória.
 
-###### Art. 9.º - 1 - Não é exequível decisão penal:
+Art. 9.º - 1 - Não é exequível decisão penal:
 
 a) Que não emane de tribunal com jurisdição penal;
 
@@ -259,27 +282,27 @@ d) Que condene pessoa diferente da que foi réu no processo.
 
 2 - Quando seja certa a pessoa que foi réu no processo, mas insuficiente ou inexacta a sua identificação, proceder-se-á à rectificação desta no processo, depois de realizadas as diligências necessárias.
 
-###### Art. 10.º - 1 - A execução corre nos próprios autos e no juízo da 1.ª instância em que o processo tiver corrido.
+Art. 10.º - 1 - A execução corre nos próprios autos e no juízo da 1.ª instância em que o processo tiver corrido.
 
 2 - Se a causa for julgada em 1.ª instância pela relação ou pelo Supremo Tribunal de Justiça, a execução correrá na comarca do domicílio do executado, salvo se este for juiz de direito ou agente do Ministério Público em exercício, caso em que a execução correrá na comarca mais próxima.
 
 3 - A competência do Tribunal de Execução das Penas é estabelecida em lei especial.
 
-###### Art. 11.º - 1 - Compete ao Ministério Público promover a execução das penas e das medidas de segurança, e bem assim a execução por custas, indemnizações e mais quantias devidas ao Estado ou a pessoas que lhe incumba representar judicialmente.
+Art. 11.º - 1 - Compete ao Ministério Público promover a execução das penas e das medidas de segurança, e bem assim a execução por custas, indemnizações e mais quantias devidas ao Estado ou a pessoas que lhe incumba representar judicialmente.
 
 2 - O agente do Ministério Público junto do Tribunal da Execução enviará ao serviço competente do Ministério da Justiça, no prazo de 5 dias após o trânsito em julgado, cópia em duplicado da sentença ou acórdão que aplique a pena ou medida de segurança em cuja execução aquele deve superintender.
 
-###### Art. 12.º Cabe ao juiz competente para a execução decidir, oficiosamente ou a requerimento do Ministério Público ou do condenado, as questões relativas à execução do regime de prova, da prisão por dias livres, da semidetenção e da prestação de trabalho a favor da comunidade, e ainda as relativas ao início, duração e suspensão das penas e medidas de segurança e à extinção da responsabilidade criminal, bem como à prorrogação, pagamento em prestações ou substituição por trabalho da pena de multa e ao cumprimento da prisão alternativa da multa.
+Art. 12.º Cabe ao juiz competente para a execução decidir, oficiosamente ou a requerimento do Ministério Público ou do condenado, as questões relativas à execução do regime de prova, da prisão por dias livres, da semidetenção e da prestação de trabalho a favor da comunidade, e ainda as relativas ao início, duração e suspensão das penas e medidas de segurança e à extinção da responsabilidade criminal, bem como à prorrogação, pagamento em prestações ou substituição por trabalho da pena de multa e ao cumprimento da prisão alternativa da multa.
 
 ## TÍTULO II — Da execução da prisão
 
 ### CAPÍTULO I — Da execução da prisão determinada
 
-###### Art. 13.º - 1 - Os réus condenados em prisão darão entrada no estabelecimento prisional por mandado do respectivo juiz, a fim de a pena ser executada.
+Art. 13.º - 1 - Os réus condenados em prisão darão entrada no estabelecimento prisional por mandado do respectivo juiz, a fim de a pena ser executada.
 
 2 - No caso de nova condenação em pena de prisão determinar a revogação de decisão condenatória em pena de prisão que se encontrava suspensa, ou do regime de prova, as penas cumprir-se-ão sem que a sua execução se confunda.
 
-###### Art. 14.º Na contagem do tempo de prisão, os anos, meses e dias serão computados segundo os critérios seguintes:
+Art. 14.º Na contagem do tempo de prisão, os anos, meses e dias serão computados segundo os critérios seguintes:
 
 a) A prisão fixada em anos termina no dia correspondente, dentro do último ano, ao do início da contagem; se, neste último ano, não existir dia correspondente, termina no último dia do mês.
 
@@ -289,17 +312,17 @@ b) A prisão fixada em meses é contada considerando-se cada mês um período de
 
 c) A prisão fixada em dias é contada considerando-se cada dia um período de 24 horas.
 
-###### Art. 15.º Os directores dos estabelecimentos prisionais devem comunicar ao agente do Ministério Público junto do tribunal onde tenham corrido os respectivos processos o falecimento dos réus presos, a sua fuga, qualquer suspensão ou interrupção da execução da pena ou causa da sua modificação, substituição ou extinção total ou parcial, bem como a soltura, sendo juntas ao processo estas comunicações.
+Art. 15.º Os directores dos estabelecimentos prisionais devem comunicar ao agente do Ministério Público junto do tribunal onde tenham corrido os respectivos processos o falecimento dos réus presos, a sua fuga, qualquer suspensão ou interrupção da execução da pena ou causa da sua modificação, substituição ou extinção total ou parcial, bem como a soltura, sendo juntas ao processo estas comunicações.
 
-###### Art. 16.º Os presos serão soltos por mandado do juiz, no termo do cumprimento da pena de prisão. Aos que se encontrem em liberdade condicional ou precária será notificada a decisão que extinguiu a pena.
+Art. 16.º Os presos serão soltos por mandado do juiz, no termo do cumprimento da pena de prisão. Aos que se encontrem em liberdade condicional ou precária será notificada a decisão que extinguiu a pena.
 
-###### Art. 17.º As saídas precárias dos condenados que se encontrem em cumprimento da pena de prisão bem como o trabalho prisional e os direitos e deveres dos reclusos serão regulados em lei especial.
+Art. 17.º As saídas precárias dos condenados que se encontrem em cumprimento da pena de prisão bem como o trabalho prisional e os direitos e deveres dos reclusos serão regulados em lei especial.
 
 ### CAPÍTULO II — Da execução da prisão relativamente indeterminada
 
-###### Art. 18.º A execução da prisão relativamente indeterminada rege-se pelas disposições do capítulo anterior em tudo o que não for regulado nos artigos seguintes.
+Art. 18.º A execução da prisão relativamente indeterminada rege-se pelas disposições do capítulo anterior em tudo o que não for regulado nos artigos seguintes.
 
-###### Art. 19.º - 1 - Serão enviados ao Instituto de Reinserção um exemplar dos mandados de condução, com menção expressa da classificação do delinquente, da pena e da data da entrada no estabelecimento, cópia da decisão condenatória e quaisquer elementos úteis para a elaboração do plano individual de reinserção.
+Art. 19.º - 1 - Serão enviados ao Instituto de Reinserção um exemplar dos mandados de condução, com menção expressa da classificação do delinquente, da pena e da data da entrada no estabelecimento, cópia da decisão condenatória e quaisquer elementos úteis para a elaboração do plano individual de reinserção.
 
 2 - No prazo de 30 dias após a entrada no estabelecimento prisional será elaborado o plano individual de reinserção, que incluirá os regimes de trabalho, aprendizagem, tratamento e desintoxicação que se mostrem adequados. Para tanto, poderá a administração recolher as informações necessárias de quaisquer entidades públicas ou privadas e utilizará, sempre que possível, a colaboração do condenado.
 
@@ -307,17 +330,17 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 4 - Podem ser introduzidas no plano as modificações que se mostrem necessárias durante a execução da pena, cumprindo-se o disposto nos n.os 2 e 3.
 
-###### Art. 20.º - 1 - Até 2 meses antes de o delinquente completar o limite mínimo da pena, o Instituto de Reinserção enviará ao tribunal relatório sobre a execução e os resultados do plano de reinserção, bem como parecer fundamentado sobre a concessão de liberdade condicional.
+Art. 20.º - 1 - Até 2 meses antes de o delinquente completar o limite mínimo da pena, o Instituto de Reinserção enviará ao tribunal relatório sobre a execução e os resultados do plano de reinserção, bem como parecer fundamentado sobre a concessão de liberdade condicional.
 
 2 - Do mesmo modo se procederá semestralmente, quando a prisão prossiga para além do seu limite mínimo e quando a liberdade condicional tiver sido revogada e o réu volte a cumprir a prisão indeterminada.
 
-###### Art. 21.º - 1 - A decisão que ordenar a libertação do condenado especificará os deveres que sobre ele impedem, nos termos dos artigos 54.º, 56.º e 89.º, n.º 2, do Código Penal.
+Art. 21.º - 1 - A decisão que ordenar a libertação do condenado especificará os deveres que sobre ele impedem, nos termos dos artigos 54.º, 56.º e 89.º, n.º 2, do Código Penal.
 
 2 - Será entregue ao delinquente, ao ser libertado, cópia da decisão referida no número anterior. Se a liberdade condicional for denegada, ser-lhe-á a decisão notificada no prazo de 8 dias.
 
 ### CAPÍTULO III — Da execução da prisão por dias livres e em regime de semidetenção
 
-###### Art. 22.º - 1 - A decisão que fixar o cumprimento da prisão por dias livres ou em regime de semidetenção especificará todos os elementos necessários para possibilitar a sua execução, incluindo a data do início da execução.
+Art. 22.º - 1 - A decisão que fixar o cumprimento da prisão por dias livres ou em regime de semidetenção especificará todos os elementos necessários para possibilitar a sua execução, incluindo a data do início da execução.
 
 2 - O tribunal enviará imediatamente à administração prisional cópia da decisão a que se refere o número anterior.
 
@@ -327,7 +350,7 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 5 - O disposto no número anterior é aplicável quando houver dificuldade em imediato internamento do condenado no estabelecimento prisional onde a pena deve ser cumprida.
 
-###### Art. 23.º - 1 - As entradas e saídas no estabelecimento prisional serão anotadas em processo individual do condenado.
+Art. 23.º - 1 - As entradas e saídas no estabelecimento prisional serão anotadas em processo individual do condenado.
 
 2 - Não se passarão mandatos de condução nem de soltura.
 
@@ -339,35 +362,35 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 ### CAPÍTULO I — Da execução da pena de multa
 
-###### Art. 24.º - 1 - A multa será paga após o trânsito em julgado da decisão que a impõe e pelo quantitativo nesta fixado, não podendo ser acrescida de quaisquer adicionais.
+Art. 24.º - 1 - A multa será paga após o trânsito em julgado da decisão que a impõe e pelo quantitativo nesta fixado, não podendo ser acrescida de quaisquer adicionais.
 
 2 - O prazo de pagamento é de 10 dias, a contar da notificação para esse efeito. Se a notificação for feita por via postal, considera-se feita conforme o estabelecido na lei civil.
 
 2 - O estabelecido no número anterior não se aplica no caso de o pagamento da pena de multa ter sido diferido ou autorizado pelo sistema de prestações, nos termos do artigo 46.º, n.º 5, do Código Penal.
 
-###### Art. 25.º - 1 - Findo o prazo do pagamento da multa ou de alguma das prestações sem que o réu efectue o pagamento, proceder-se-á à execução patrimonial, nos termos dos números seguintes.
+Art. 25.º - 1 - Findo o prazo do pagamento da multa ou de alguma das prestações sem que o réu efectue o pagamento, proceder-se-á à execução patrimonial, nos termos dos números seguintes.
 
 2 - Tendo o réu bens suficientes e desembaraçados de que o tribunal tenha conhecimento ou que ele indique no prazo de pagamento, comprovando a sua titularidade, o Ministério Público promoverá logo a execução, que seguirá os termos das execuções por custas, com observância do disposto no artigo 1696.º do Código Civil.
 
 3 - Responderão sempre pelo pagamento da multa todos os instrumentos utilizados na prática da infracção e os produtos desta, salvo se, pertencendo a terceiro, tiverem sido utilizados sem o seu conhecimento ou contra sua vontade. São nulos os actos de disposição sobre os mesmos instrumentos e produtos efectuados após a infracção que prejudiquem o pagamento da multa, ressalvados os direitos de adquirentes de boa fé, conforme a lei civil. Para os efeitos do disposto neste número, poderão ser apreendidos os instrumentos e produtos, sempre que os infractores não garantam de modo idóneo o pagamento da multa provável.
 
-###### Art. 26.º - 1 - Se a multa não for paga ou executada nos termos dos artigos anteriores, será total ou parcialmente substituída por dias de trabalho, sempre que o condenado se encontre em condições de poder trabalhar.
+Art. 26.º - 1 - Se a multa não for paga ou executada nos termos dos artigos anteriores, será total ou parcialmente substituída por dias de trabalho, sempre que o condenado se encontre em condições de poder trabalhar.
 
 2 - O trabalho será prestado em obras, oficinas ou repartições do Estado ou de pessoas de direito público, a fixar pelo juiz mediante parecer do Ministério Público e audiência do condenado, sempre que possível com a concordância deste.
 
 3 - O réu que intencionalmente se coloque em situação de não poder pagar, total ou parcialmente, a multa, ou de esta não poder ser substituída por dias de trabalho, ou que injustificadamente se recuse a prestar o trabalho em que a multa foi substituída, cumprirá a prisão alternativa da multa, sem prejuízo do disposto nos artigos 47.º, n.º 5, e 388.º do Código Penal.
 
-###### Art. 27.º - 1 - Quando a multa não for paga nem puder ser executada ou substituída por dias de trabalho, será cumprida a prisão aplicada em sua alternativa.
+Art. 27.º - 1 - Quando a multa não for paga nem puder ser executada ou substituída por dias de trabalho, será cumprida a prisão aplicada em sua alternativa.
 
 2 - Se o condenado alegar que a razão do não pagamento ou da não prestação do trabalho lhe não é imputável, após as diligências de prova que se revelem necessárias e mediante parecer do Ministério Público, decidir-se-á se a prisão alternativa deve ser cumprida, reduzida ou dela ficar isento o condenado, conforme o disposto no artigo 47.º do Código Penal.
 
 ### CAPÍTULO II — Da execução no caso da suspensão da pena
 
-###### Art. 28.º A decisão que decretar a suspensão da pena especificará o período da suspensão e os deveres impostos ao réu.
+Art. 28.º A decisão que decretar a suspensão da pena especificará o período da suspensão e os deveres impostos ao réu.
 
-###### Art. 29.º As modificações dos deveres impostos ao réu na decisão que decretou a suspensão da execução da pena são decididas pelo tribunal da condenação, por despacho, depois de recolhida a prova das circunstâncias relevantes de conhecimento superveniente, mediante parecer do Ministério Público e audiência do assistente, quando o houver, e do réu.
+Art. 29.º As modificações dos deveres impostos ao réu na decisão que decretou a suspensão da execução da pena são decididas pelo tribunal da condenação, por despacho, depois de recolhida a prova das circunstâncias relevantes de conhecimento superveniente, mediante parecer do Ministério Público e audiência do assistente, quando o houver, e do réu.
 
-###### Art. 30.º - 1 - Todas as autoridades comunicarão ao tribunal a quebra, por parte do réu, de algum dos deveres impostos na sentença que decretou a suspensão da execução da pena.
+Art. 30.º - 1 - Todas as autoridades comunicarão ao tribunal a quebra, por parte do réu, de algum dos deveres impostos na sentença que decretou a suspensão da execução da pena.
 
 2 - O tribunal, depois de recolhidas as provas, mediante parecer do Ministério Público e audiência do assistente, quando o houver, e do réu, decidirá por despacho.
 
@@ -377,7 +400,7 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 ### CAPÍTULO III — Da execução do regime de prova
 
-###### Art. 31.º - 1 - A decisão que submeter o réu a regime de prova especificará a duração deste e os deveres que são impostos.
+Art. 31.º - 1 - A decisão que submeter o réu a regime de prova especificará a duração deste e os deveres que são impostos.
 
 2 - A decisão conterá ainda o plano individual de readaptação sempre que o tribunal se encontrar habilitado a organizá-lo no momento da decisão condenatória.
 
@@ -385,7 +408,7 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 4 - No caso de o réu responder por infracção punível com pena de prisão por mais de 3 anos e, por atenuação, o juiz considerar que deverá ser aplicada pena por menos tempo, a decisão que aplicar o regime de prova descreverá o circunstancialismo e concluirá pela indicação da pena máxima aplicável.
 
-###### Art. 32.º - 1 - A decisão será imediatamente comunicada ao Instituto de Reinserção Social do Ministério da Justiça, onde se efectuará a distribuição pelo modo que for mais conveniente para a ressocialização do réu.
+Art. 32.º - 1 - A decisão será imediatamente comunicada ao Instituto de Reinserção Social do Ministério da Justiça, onde se efectuará a distribuição pelo modo que for mais conveniente para a ressocialização do réu.
 
 2 - Quando a decisão não contiver o plano individual de readaptação, o técnico social contactará o réu e organizará o plano no prazo de 15 dias, submetendo-o depois à homologação do tribunal.
 
@@ -395,21 +418,21 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 5 - Os técnicos sociais podem, com a autorização do tribunal, promover a colaboração de outros serviços sociais, de instituições privadas, do público em geral e particularmente de grupos sócio-profissionais ou outros em que o delinquente se vá inserir.
 
-###### Art. 33.º - 1 - O internamento em instituições adequadas durante o regime de prova é executado mediante mandado, que o tribunal para o efeito emitirá.
+Art. 33.º - 1 - O internamento em instituições adequadas durante o regime de prova é executado mediante mandado, que o tribunal para o efeito emitirá.
 
 2 - A caução de boa conduta, quando a ela houver lugar, é prestada conforme o estabelecido nos artigos 277.º e seguintes do Código de Processo Penal.
 
 3 - Sendo determinada a apresentação periódica perante o tribunal, serão as apresentações anotadas no processo; se o forem perante qualquer outra entidade, o tribunal fará a esta a necessária comunicação. No termo das apresentações ou durante o período destas, se alguma falta ocorrer, a entidade onde o réu se apresenta comunicará ao tribunal o que for de interesse quanto às apresentações e à ressocialização.
 
-###### Art. 34.º - 1 - Trimestralmente, e ainda sempre que se verifique qualquer anomalia na execução do plano de readaptação, particularmente quando o réu não cumprir qualquer dos deveres impostos ou não corresponder ao plano previsto, o técnico social enviará ao tribunal relatório pormenorizado das ocorrências de interesse.
+Art. 34.º - 1 - Trimestralmente, e ainda sempre que se verifique qualquer anomalia na execução do plano de readaptação, particularmente quando o réu não cumprir qualquer dos deveres impostos ou não corresponder ao plano previsto, o técnico social enviará ao tribunal relatório pormenorizado das ocorrências de interesse.
 
 2 - O técnico social poderá ainda, a todo o tempo durante a execução do regime de prova, propor ao tribunal as alterações ao plano que reputar adequadas à readaptação.
 
-###### Art. 35.º - 1 - A alteração do plano, qualquer advertência ao réu e ainda a prorrogação ou a revogação do regime de prova são decididas pelo tribunal, depois de ouvidos o Ministério Público e o réu.
+Art. 35.º - 1 - A alteração do plano, qualquer advertência ao réu e ainda a prorrogação ou a revogação do regime de prova são decididas pelo tribunal, depois de ouvidos o Ministério Público e o réu.
 
 2 - Em tudo o que se não encontra previsto neste artigo e nos anteriores, serão regulados por lei especial a execução do regime de prova e os direitos e deveres dos trabalhadores sociais e dos delinquentes submetidos a regime de prova.
 
-###### Art. 36.º - 1 - Quando houver lugar à revogação do regime de prova, prosseguirá o processo, procedendo-se aos termos necessários para a fixação da pena que ao crime caberia se não tivesse tido lugar o regime de prova.
+Art. 36.º - 1 - Quando houver lugar à revogação do regime de prova, prosseguirá o processo, procedendo-se aos termos necessários para a fixação da pena que ao crime caberia se não tivesse tido lugar o regime de prova.
 
 2 - Para o efeito do disposto no número anterior, o processo irá com vista ao Ministério Público e serão ouvidos o assistente, quando o houver, e o réu, os quais, em 5 dias, poderão requerer o que tiverem por conveniente, designando-se depois dia para julgamento, a efectuar nos 15 dias imediatos.
 
@@ -417,23 +440,23 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 4 - Na fixação da pena não poderá ser excedido o limite do artigo 31.º, n.º 4, e o delinquente não poderá ficar novamente em regime de prova nem a pena pode ficar com a execução suspensa.
 
-###### Art. 37.º Terminado o período do regime de prova ou da sua prorrogação sem que tenha sido revogado, será o mesmo declarado extinto pelo juiz, depois de ouvido o Ministério Público, comunicando-se a decisão ao Instituto de Reinserção Social.
+Art. 37.º Terminado o período do regime de prova ou da sua prorrogação sem que tenha sido revogado, será o mesmo declarado extinto pelo juiz, depois de ouvido o Ministério Público, comunicando-se a decisão ao Instituto de Reinserção Social.
 
 ### CAPÍTULO IV — Da execução da prestação de trabalho a favor da comunidade
 
-###### Art. 38.º - 1 - A decisão que condenar o réu à prestação de trabalho a favor da comunidade será tomada com aceitação do réu considerado culpado e com indicação, por parte deste ou do Ministério Público, da entidade a que é prestado.
+Art. 38.º - 1 - A decisão que condenar o réu à prestação de trabalho a favor da comunidade será tomada com aceitação do réu considerado culpado e com indicação, por parte deste ou do Ministério Público, da entidade a que é prestado.
 
 2 - A sentença pode ser adiada, pelo prazo máximo de 1 mês, se o juiz tiver razões para crer que, nesse prazo, o réu ou o Ministério Público poderão indicar a entidade a que o serviço é prestado.
 
 3 - A decisão especificará a entidade a que o serviço é prestado, o horário dos períodos e a duração do trabalho.
 
-###### Art. 39.º - 1 - Será enviada ao Instituto de Reinserção Social cópia da decisão condenatória, a fim de ser controlada a prestação de trabalho pelo condenado.
+Art. 39.º - 1 - Será enviada ao Instituto de Reinserção Social cópia da decisão condenatória, a fim de ser controlada a prestação de trabalho pelo condenado.
 
 2 - Finda a prestação de trabalho, ou durante esta no caso de se verificar alguma anomalia, o Instituto de Reinserção Social enviará ao tribunal relatório que o habilite a julgar extinta a pena ou a tomar as medidas adequadas.
 
 ## TÍTULO IV — Da execução das penas acessórias
 
-###### Art. 40.º - 1 - A decisão que decretar a demissão ou que implicar a suspensão de cargo público será comunicada à direcção-geral de que o funcionário depende.
+Art. 40.º - 1 - A decisão que decretar a demissão ou que implicar a suspensão de cargo público será comunicada à direcção-geral de que o funcionário depende.
 
 2 - A decisão que decretar a interdição do exercício de qualquer profissão ou actividade será comunicada aos organismos ou associações sindicais em que o condenado se encontre inscrito. O tribunal pode decretar a apreensão, pelo tempo que durar a interdição, de documentos que titulem a profissão ou actividade.
 
@@ -445,29 +468,29 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 ## TÍTULO V — Da execução das medidas de segurança
 
-###### Art. 41.º A decisão que decretar a medida de internamento especificará se este se efectua em estabelecimento de cura, tratamento ou segurança e ainda, se for caso disso, a duração do internamento.
+Art. 41.º A decisão que decretar a medida de internamento especificará se este se efectua em estabelecimento de cura, tratamento ou segurança e ainda, se for caso disso, a duração do internamento.
 
-###### Art. 42.º - 1 - O internamento de inimputáveis e de imputáveis portadores de anomalia psíquica aos quais os estabelecimentos comuns são prejudiciais efectua-se em hospitais ou clínicas especializadas, ou em anexos de estabelecimentos prisionais.
+Art. 42.º - 1 - O internamento de inimputáveis e de imputáveis portadores de anomalia psíquica aos quais os estabelecimentos comuns são prejudiciais efectua-se em hospitais ou clínicas especializadas, ou em anexos de estabelecimentos prisionais.
 
 2 - O disposto no número anterior não prejudica a possibilidade de cura em estabelecimentos abertos, quando imposta pela terapêutica psiquiátrica.
 
-###### Art. 43.º O início, suspensão e cessação do internamento, bem como a libertação a título de ensaio experimental, efectuam-se mediante mandado ou simples comunicação do tribunal, em que se especificarão, se for caso disso, os deveres impostos e o período de liberdade experimental.
+Art. 43.º O início, suspensão e cessação do internamento, bem como a libertação a título de ensaio experimental, efectuam-se mediante mandado ou simples comunicação do tribunal, em que se especificarão, se for caso disso, os deveres impostos e o período de liberdade experimental.
 
-###### Art. 44.º - 1 - Nos estabelecimentos onde o internamento se efectuar será organizado processo individual do internado, onde se registarão todas as comunicações recebidas do tribunal e todos os elementos a este fornecidos, e ainda a avaliação periódica do tratamento e da perigosidade do internado.
+Art. 44.º - 1 - Nos estabelecimentos onde o internamento se efectuar será organizado processo individual do internado, onde se registarão todas as comunicações recebidas do tribunal e todos os elementos a este fornecidos, e ainda a avaliação periódica do tratamento e da perigosidade do internado.
 
 2 - Semestralmente, e sempre que necessário, o estabelecimento fornecerá ao tribunal a avaliação referida no final do número anterior.
 
-###### Art. 45.º O tribunal pode encarregar o Instituto de Reinserção de coadjuvar, através de assistentes especializados, o tratamento de internados, ou de efectuar a vigilância tutelar dos libertados a título de ensaio experimental.
+Art. 45.º O tribunal pode encarregar o Instituto de Reinserção de coadjuvar, através de assistentes especializados, o tratamento de internados, ou de efectuar a vigilância tutelar dos libertados a título de ensaio experimental.
 
-###### Art. 46.º A interdição do exercício de qualquer actividade profissional executa-se nos termos do disposto no artigo 40.º, n.º 2.
+Art. 46.º A interdição do exercício de qualquer actividade profissional executa-se nos termos do disposto no artigo 40.º, n.º 2.
 
-###### Art. 47.º Para a execução de medidas de segurança não previstas nos artigos anteriores, o tribunal ordenará as providências que reputar necessárias, de modo que seja preenchido o fim visado pela lei.
+Art. 47.º Para a execução de medidas de segurança não previstas nos artigos anteriores, o tribunal ordenará as providências que reputar necessárias, de modo que seja preenchido o fim visado pela lei.
 
 ## TÍTULO VI — Da execução de bens
 
-###### Art. 48.º A execução de bens rege-se pelo Código de Processo Civil em tudo o que não for especialmente previsto neste Código e no Código das Custas Judiciais.
+Art. 48.º A execução de bens rege-se pelo Código de Processo Civil em tudo o que não for especialmente previsto neste Código e no Código das Custas Judiciais.
 
-###### Art. 49.º Pelo produto dos bens executados ao devedor, os pagamentos são feitos pela ordem seguinte:
+Art. 49.º Pelo produto dos bens executados ao devedor, os pagamentos são feitos pela ordem seguinte:
 
 1.º As multas penais;
 
@@ -479,26 +502,26 @@ c) A prisão fixada em dias é contada considerando-se cada dia um período de 2
 
 5.º As indemnizações.
 
-###### Art. 50.º Da importância de todas as multas aplicadas em processo penal, incluindo as resultantes da conversão da pena de prisão, reverterá metade para o tesouro público ou para o município respectivo, quando se tratar de multas cujo produto constitua receita das autarquias locais, e metade para o Cofre Geral dos Tribunais.
+Art. 50.º Da importância de todas as multas aplicadas em processo penal, incluindo as resultantes da conversão da pena de prisão, reverterá metade para o tesouro público ou para o município respectivo, quando se tratar de multas cujo produto constitua receita das autarquias locais, e metade para o Cofre Geral dos Tribunais.
 
 III PARTE
 
 Disposições transitórias e finais
 
-###### Art. 51.º Sem prejuízo das disposições constantes deste decreto-lei, para efeito da aplicação de quaisquer normas que façam referência a prisão maior, considera-se prisão desta natureza a de medida superior a 2 anos.
+Art. 51.º Sem prejuízo das disposições constantes deste decreto-lei, para efeito da aplicação de quaisquer normas que façam referência a prisão maior, considera-se prisão desta natureza a de medida superior a 2 anos.
 
-###### Art. 52.º Mantêm-se a forma do processo e a competência já fixadas aquando da entrada em vigor do Código Penal, ainda que o réu passe a beneficiar de regime mais favorável.
+Art. 52.º Mantêm-se a forma do processo e a competência já fixadas aquando da entrada em vigor do Código Penal, ainda que o réu passe a beneficiar de regime mais favorável.
 
-###### Art. 53.º São revogados os artigos 625.º a 645.º do Código de Processo Penal e o artigo 7.º do [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro.
+Art. 53.º São revogados os artigos 625.º a 645.º do Código de Processo Penal e o artigo 7.º do [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro.
 
-###### Art. 54.º - 1 - A redacção dada no artigo 1.º aos artigos 22.º, 273.º, 291.º-A, 309.º e 315.º do Código de Processo Penal e os artigos 3.º e 4.º deste decreto-lei entram em vigor no dia seguinte ao da sua publicação.
+Art. 54.º - 1 - A redacção dada no artigo 1.º aos artigos 22.º, 273.º, 291.º-A, 309.º e 315.º do Código de Processo Penal e os artigos 3.º e 4.º deste decreto-lei entram em vigor no dia seguinte ao da sua publicação.
 
 2 - As restantes disposições deste decreto-lei entram em vigor com o início da vigência do novo Código Penal.
 
 Visto e aprovado em Conselho de Ministros de 19 de Agosto de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 10 de Setembro de 1982.**
+Promulgado em 10 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

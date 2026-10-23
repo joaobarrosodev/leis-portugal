@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/04/09400/09890989.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1986-195065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c202fa8f7db04aa506b5764fd981d6b8e5594af152a3a59bbfe5ff6f43eadb40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e2c8315568cd91b25384cf9cf49c91e3f871ddd0d7a4e604372bc6a61c59d67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Cooperativo
+- Ensino Particular
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:18Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +107,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As autorizações provisórias de leccionação no ensino particular e cooperativo não superior concedidas no ano lectivo de 1980-1981 consideram-se renovadas a partir do ano lectivo de 1985-1986, inclusive, e até ao final do ano lectivo no decurso do qual vierem a ser prestadas as provas públicas a que se refere a alínea b) do n.º 1 do artigo 55.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+Artigo 1.º - 1 - As autorizações provisórias de leccionação no ensino particular e cooperativo não superior concedidas no ano lectivo de 1980-1981 consideram-se renovadas a partir do ano lectivo de 1985-1986, inclusive, e até ao final do ano lectivo no decurso do qual vierem a ser prestadas as provas públicas a que se refere a alínea b) do n.º 1 do artigo 55.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
 
 2 - A renovação referida no número anterior aplica-se apenas aos docentes que já tenham requerido a prestação daquelas provas públicas ou as venham a requerer no prazo de 90 dias a partir da publicação do presente decreto-lei.
 
 3 - As provas públicas a que se refere a alínea b) do n.º 1 do artigo 55.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, serão definidas por despacho do Ministro da Educação e Cultura no prazo de 45 dias a partir da entrada em vigor do presente decreto-lei.
 
-###### Art. 2.º São revogados os n.os 2, 3 e 4 do artigo 55.º e o n.º 2 do artigo 56.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+Art. 2.º São revogados os n.os 2, 3 e 4 do artigo 55.º e o n.º 2 do artigo 56.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 5 de Abril de 1986.**
+Promulgado em 5 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1986.**
+Referendado em 11 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

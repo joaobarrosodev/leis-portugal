@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1985-171561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c07db6020010789fb0fdefab513d3edf361cedb2b3173122833a99110841238
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c39de159edff8ed26ac9b0a18c14a243902aeba98e68cbd13ec3006c475c2674
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auto-acabamento
+- Financiamento
+- Habitação Social
+relationships:
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314175:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:37Z'
   warnings: []
   errors: []
 ---
@@ -95,26 +106,26 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 8.º do [Decreto-Lei n.º 460/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1983-314175), de 30 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 8.º do [Decreto-Lei n.º 460/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1983-314175), de 30 de Dezembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - É instituído o regime de auto-acabamento nas habitações.
+Artigo 1.º - 1 - É instituído o regime de auto-acabamento nas habitações.
 
 2 - No regime previsto neste diploma é admitida a utilização do prédio ou parte dele em fase anterior à sua conclusão.
 
 3 - Este regime é aplicável em programas de habitação social.
 
-###### Art. 8.º Na portaria a que se refere o artigo 6.º do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, serão fixados os incentivos especiais a aplicar ao auto-acabamento nas habitações a que se refere o mesmo diploma, nomeadamente os limites máximos de financiamento, em função de cada modalidade.
+Art. 8.º Na portaria a que se refere o artigo 6.º do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, serão fixados os incentivos especiais a aplicar ao auto-acabamento nas habitações a que se refere o mesmo diploma, nomeadamente os limites máximos de financiamento, em função de cada modalidade.
 
-###### Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Carlos Montez Melancia.
 
-**Promulgado em 9 de Outubro de 1985.**
+Promulgado em 9 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Outubro de 1985.**
+Referendado em 14 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

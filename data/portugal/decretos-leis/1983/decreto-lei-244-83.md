@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13200/20912093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1983-451850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 457e60ba85ff7053e62f95a0b736c0d2cb7b0027013430ed80441c8ce5e0217e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1706d2261a6eab5eb224b99b0d2e717be13613b51b4bf442c261246a0715d257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Definição de Competências
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:36Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O conselho administrativo nas escolas da Universidade Técnica de Lisboa é constituído pelo presidente do conselho directivo, que preside, pelo secretário e pelo responsável pelos serviços de contabilidade.
+Artigo 1.º - 1 - O conselho administrativo nas escolas da Universidade Técnica de Lisboa é constituído pelo presidente do conselho directivo, que preside, pelo secretário e pelo responsável pelos serviços de contabilidade.
 
 2 - Nas faltas ou impedimentos de qualquer membro do conselho administrativo será chamado:
 
@@ -106,7 +122,7 @@ b) Para substituir o secretário, o responsável pelos serviços de contabilidad
 
 c) Para substituir o responsável pelos serviços de contabilidade, o funcionário mais antigo da categoria mais elevada neles colocado.
 
-###### Art. 2.º Compete ao conselho administrativo:
+Art. 2.º Compete ao conselho administrativo:
 
 a) Promover a elaboração dos projectos de orçamentos a incluir na parte substancial do Orçamento do Estado e privativos, de acordo com as disposições legais aplicáveis;
 
@@ -138,7 +154,7 @@ o) Atribuir as moradias afectas à escola;
 
 p) Pronunciar-se sobre qualquer assunto no âmbito da sua competência que lhe seja apresentado pelo presidente.
 
-###### Art. 3.º - 1 - O conselho administrativo reunirá ordinariamente uma vez por quinzena, em dia e hora certos, e extraordinariamente sempre que o seu presidente o convocar.
+Art. 3.º - 1 - O conselho administrativo reunirá ordinariamente uma vez por quinzena, em dia e hora certos, e extraordinariamente sempre que o seu presidente o convocar.
 
 2 - Poderá participar nas reuniões do conselho, sem direito a voto, qualquer docente, discente ou funcionário da escola, desde que para tal seja convocado pelo presidente.
 
@@ -148,13 +164,13 @@ p) Pronunciar-se sobre qualquer assunto no âmbito da sua competência que lhe s
 
 5 - Os membros do conselho administrativo são solidários na responsabilidade dos levantamentos de fundos e dos pagamentos, desde que tenham estado presentes à reunião em que esses actos foram aprovados e não tenham feito exarar em acta declaração expressa de discordância.
 
-###### Art. 4.º - 1 - Sem prejuízo da elaboração dos orçamentos dos encargos a suportar por conta do Estado, os conselhos administrativos das escolas da Universidade Técnica de Lisboa promoverão, com base nos programas de actividades de cada ano económico, a elaboração dos respectivos orçamentos privativos anuais para aplicação das receitas próprias.
+Art. 4.º - 1 - Sem prejuízo da elaboração dos orçamentos dos encargos a suportar por conta do Estado, os conselhos administrativos das escolas da Universidade Técnica de Lisboa promoverão, com base nos programas de actividades de cada ano económico, a elaboração dos respectivos orçamentos privativos anuais para aplicação das receitas próprias.
 
 2 - Os orçamentos privativos serão aprovados pelo conselho administrativo e submetidos à homologação do Ministro da Educação e a visto do Ministro de Estado e das Finanças e do Plano nos termos e prazos legais.
 
 3 - As escolas poderão submeter a homologação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados a reforçar verbas inscritas no orçamento privativo, a ocorrer a despesas nele não previstas, desde que apresentem as necessárias contrapartidas, ou ainda a alterar rubricas orçamentais.
 
-###### Art. 5.º - 1 - As escolas arrecadarão e administrarão as suas receitas próprias e satisfarão por meio delas despesas inerentes à prossecução dos seus fins.
+Art. 5.º - 1 - As escolas arrecadarão e administrarão as suas receitas próprias e satisfarão por meio delas despesas inerentes à prossecução dos seus fins.
 
 2 - Constituem receitas próprias das escolas:
 
@@ -170,26 +186,26 @@ e) Os subsídios, subvenções, comparticipações, doações, heranças e legad
 
 f) Quaisquer outras receitas que por lei, contrato ou outro título lhes sejam atribuídas.
 
-###### Art. 6.º - 1 - As disponibilidades orçamentais das escolas serão depositadas na Caixa Geral de Depósitos, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
+Art. 6.º - 1 - As disponibilidades orçamentais das escolas serão depositadas na Caixa Geral de Depósitos, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão feitos, em regra, por meio de transferências bancárias ou de cheques, processados em troca dos correspondentes recibos devidamente legalizados.
 
-###### Art. 7.º Os valores e títulos representativos de valores, ainda que pertencentes ou averbados a determinada unidade orgânica ou serviço, entram na posse e administração do conselho administrativo, sem prejuízo da respectiva afectação.
+Art. 7.º Os valores e títulos representativos de valores, ainda que pertencentes ou averbados a determinada unidade orgânica ou serviço, entram na posse e administração do conselho administrativo, sem prejuízo da respectiva afectação.
 
-###### Art. 8.º A elaboração dos orçamentos e a execução da contabilidade serão feitas de acordo com as normas legais da contabilidade pública.
+Art. 8.º A elaboração dos orçamentos e a execução da contabilidade serão feitas de acordo com as normas legais da contabilidade pública.
 
-###### Art. 9.º Os aparelhos, instrumentos, utensílios de laboratório, produtos químicos, materiais científicos ou quaisquer outros destinados à prossecução dos fins das escolas poderão ser isentos do pagamento de direitos aduaneiros nos termos do artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
+Art. 9.º Os aparelhos, instrumentos, utensílios de laboratório, produtos químicos, materiais científicos ou quaisquer outros destinados à prossecução dos fins das escolas poderão ser isentos do pagamento de direitos aduaneiros nos termos do artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
 
-###### Art. 10.º As requisições de fundos serão assinadas por 2 membros do conselho administrativo e as ordens de pagamento e os recibos serão assinados pelo presidente do mesmo órgão ou pelo vogal em quem o mesmo delegar, devendo os recibos conter também a assinatura do tesoureiro da escola.
+Art. 10.º As requisições de fundos serão assinadas por 2 membros do conselho administrativo e as ordens de pagamento e os recibos serão assinados pelo presidente do mesmo órgão ou pelo vogal em quem o mesmo delegar, devendo os recibos conter também a assinatura do tesoureiro da escola.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - João José Fraústo da Silva.
 
-**Promulgado em 17 de Maio de 1983.**
+Promulgado em 17 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Maio de 1983.**
+Referendado em 26 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

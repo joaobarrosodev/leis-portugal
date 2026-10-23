@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01200/00900108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1985-328989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa978a60535fc9ebde2ac1585aae30c40250fd285bdf18f56323a5fa5d8c41dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc40d380ce4f0ef6d2f1843849508ad25eace0d9a5b7475435769767dc3e2042
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Higiene do Trabalho
+- Indústria Mineira
+- Regulamento Geral de Segurança e Higiene no Trabalho nas Minas e Pedreiras
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:571472:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:500697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500698:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:649173:por
+  label: Rectificado pela DECL.DD4874.22.03.1985.PCM, DR.IS [75-3.º Supl] de 30.03.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-649173
+  date: '1985-03-22'
+- type: repealed_by
+  target: pt:dre:571472:por
+  label: "Revogado, a partir de 18.11.1990, pelo DEC LEI.162/90.22.05.1990.MIE, DR.IS [117] de 22.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-1990-571472
+  date: '1990-05-22'
 article_structure:
   article_count: 168
-  section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:46Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +122,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Geral de Segurança e Higiene no Trabalho nas Minas e Pedreiras, que se publica em anexo ao presente diploma, e cuja aplicação nas regiões autónomas será sujeita às devidas adaptações, tendo em conta a realidade insular.
+Artigo 1.º É aprovado o Regulamento Geral de Segurança e Higiene no Trabalho nas Minas e Pedreiras, que se publica em anexo ao presente diploma, e cuja aplicação nas regiões autónomas será sujeita às devidas adaptações, tendo em conta a realidade insular.
 
-###### Art. 2.º O Regulamento entra em vigor no prazo de 180 dias a contar da data da sua publicação.
+Art. 2.º O Regulamento entra em vigor no prazo de 180 dias a contar da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - José Veiga Simão.
 
-**Promulgado em 24 de Dezembro de 1984.**
+Promulgado em 24 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Dezembro de 1984.**
+Referendado em 27 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Regulamento Geral de Segurança e Higiene no Trabalho nas Minas e Pedreiras
 
@@ -386,7 +408,9 @@ a) Proceder diariamente ao exame de todo o equipamento de extracção;
 
 b) Proceder, pelo menos mensalmente, ao exame cuidadoso do estado dos poços.
 
-###### Artigo 25.º — Livro de registo
+###### Artigo 25.º
+
+## Livro de registo
 
 1 - Cada poço de extracção deverá possuir o seu livro de registo, onde se anotem os resultados dos exames a que se refere o artigo 24.º, bem como quaisquer anomalias verificadas, que será visado pelo director técnico.
 
@@ -634,7 +658,9 @@ b) Inspecção mensal, deslocando-se o cabo, previamente deslubrificado e limpo,
 
 Para cada instalação de extracção onde se realize o transporte de trabalhadores e onde se utilizem cabos de equilíbrio deverá dispor-se de um cabo de reserva em boas condições de utilização.
 
-#### SECÇÃO VI — Artigo 50.º
+#### SECÇÃO VI
+
+###### Artigo 50.º
 
 Condições gerais
 
@@ -1840,4 +1866,4 @@ A fiscalização do cumprimento das disposições do presente Regulamento compet
 
 As infracções às normas do presente Regulamento serão punidas nos termos da legislação especial em vigor sobre minas e pedreiras.
 
-**O Ministro da Indústria e Energia, José Veiga Simão.**
+O Ministro da Indústria e Energia, José Veiga Simão.

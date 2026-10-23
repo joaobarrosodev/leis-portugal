@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/29800/41294129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1983-444382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91d9347fb90e6a9405893f0b8c22bb58dc4ca19031b0e0515cb09957412fc8c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61638606b2bd365be592d8f31011401dff08134919d81388ee1cc5869f4a78ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fardamento
+- GNR
+- Guarda Fiscal
+- PSP
+- Subsídio de Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:491437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491437:por
+  label: "Extinto, a partir de 01.01.2010, o subsídio de fardamento na parte aplicável à PSP, e revogado, a partir da mesma\
+    \ data, o mesmo diploma, no que se refere à PSP, pelo DEC LEI.299/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2009-491437
+  date: '2009-10-14'
+- type: repealed_by
+  target: pt:dre:491436:por
+  label: "Revogado, com efeitos a 01.01.2010, pelo DEC LEI.298/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2009-491436
+  date: '2009-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:02Z'
   warnings: []
   errors: []
 ---
@@ -99,24 +115,24 @@ Atendendo a que após o primeiro ingresso há necessidade de atribuir a todo o p
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Aos militares da Guarda Nacional Republicana e da Guarda Fiscal, bem como aos militares, comissários e agentes da Polícia de Segurança Pública na efectividade de serviço será concedido um subsídio mensal de fardamento.
+Artigo 1.º - 1 - Aos militares da Guarda Nacional Republicana e da Guarda Fiscal, bem como aos militares, comissários e agentes da Polícia de Segurança Pública na efectividade de serviço será concedido um subsídio mensal de fardamento.
 
 2 - Este subsídio, nos 12 primeiros meses subsequentes ao primeiro ingresso, será de um quantitativo diferenciado, devendo cobrir nesse período o custo da atribuição de uma dotação de fardamento.
 
 3 - Os quantitativos referidos nos números anteriores serão uniformes e fixados anualmente por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano, sob proposta dos respectivos comandantes-gerais.
 
-###### Art. 2.º O presente diploma entra em vigor a partir de 1 de Janeiro de 1984.
+Art. 2.º O presente diploma entra em vigor a partir de 1 de Janeiro de 1984.
 
-###### Art. 3.º É revogada toda a legislação que contrarie o estabelecido no presente diploma.
+Art. 3.º É revogada toda a legislação que contrarie o estabelecido no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 19 de Dezembro de 1983.**
+Promulgado em 19 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Dezembro de 1983.**
+Referendado em 20 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

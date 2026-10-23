@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1982-375806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 897db0c9b58874d9cfe219cecde31d52781c1acbca081ccc0e757d14bf320839
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 411e908d1fd72d6898ad43a068908a3d2f4c861a52a44c1ea957a4bfb4b33abe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Dívidas
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Instituição de Crédito
+- Sistema Bancário
 relationships:
 - type: amended_by
   target: pt:dre:401324:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462196:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:00Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +114,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados os artigos 2.º, 4.º e 9.º do [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, que passam a ter a seguinte redacção:
+Artigo 1.º São alterados os artigos 2.º, 4.º e 9.º do [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, que passam a ter a seguinte redacção:
 
-###### Art. 2.º A intervenção do sistema bancário, nos termos previstos neste diploma, fica limitada à cobrança dos impostos retidos na fonte e autoliquidados, desde que satisfeitos nos prazos legais, e, bem assim, à dos que forem debitados para cobrança virtual, neste caso desde que pagos dentro do prazo de cobrança à boca do cofre, devendo para o efeito os respectivos avisos indicar a natureza virtual da cobrança.
+Art. 2.º A intervenção do sistema bancário, nos termos previstos neste diploma, fica limitada à cobrança dos impostos retidos na fonte e autoliquidados, desde que satisfeitos nos prazos legais, e, bem assim, à dos que forem debitados para cobrança virtual, neste caso desde que pagos dentro do prazo de cobrança à boca do cofre, devendo para o efeito os respectivos avisos indicar a natureza virtual da cobrança.
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - ...
 
@@ -119,7 +128,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Tratando-se de autoliquidação, as declarações e os respectivos documentos, designadamente os comprovativos de despesas ou encargos, serão enviados à tesouraria da Fazenda Pública territorialmente competente, que dará cumprimento ao disposto no n.º 1 do artigo 8.º deste diploma, competindo às repartições de finanças processar os conhecimentos relativos aos pagamentos efectuados, os quais serão entregues ao tesoureiro da Fazenda Pública.
 
-###### Art. 9.º - 1 - Sempre que os pagamentos de dívidas ao Estado sejam efectuados em instituições de crédito, nos termos do presente diploma, mas fora dos prazos previstos no seu artigo 2.º, ou se verifique deficiência em qualquer documento que impeça a concretização da correspondente cobrança, ou seja arrecadada e remetida quantia inferior à devida, deverá o tesoureiro-gerente da tesouraria da Fazenda Pública territorialmente competente tomar as seguintes medidas:
+Art. 9.º - 1 - Sempre que os pagamentos de dívidas ao Estado sejam efectuados em instituições de crédito, nos termos do presente diploma, mas fora dos prazos previstos no seu artigo 2.º, ou se verifique deficiência em qualquer documento que impeça a concretização da correspondente cobrança, ou seja arrecadada e remetida quantia inferior à devida, deverá o tesoureiro-gerente da tesouraria da Fazenda Pública territorialmente competente tomar as seguintes medidas:
 
 a) Tratando-se de impostos retidos na fonte ou autoliquidados, excepto a contribuição industrial, grupo A, e o imposto complementar, secção A, quando o pagamento for efectuado fora dos prazos legais, a importância do cheque será aceite e contabilizada, sendo comunicado o facto ao chefe da repartição de finanças, para que este promova o procedimento legal que se mostrar adequado, perdendo-se o benefício que legalmente for concedido;
 
@@ -133,12 +142,12 @@ d) Dar conhecimento do facto, por ofício registado, ao contribuinte de que deve
 
 3 - Verificando-se a situação descrita no número anterior, o tesoureiro-gerente emitirá cheque cruzado, sacado sobre a respectiva conta bancária, a favor do tesoureiro da Fazenda Pública territorialmente competente, que lhe será remetido acompanhado da respectiva documentação, para que este efective a cobrança e proceda às devoluções dos correspondentes recibos.
 
-###### Art. 2.º O disposto no artigo 9.º do [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, com a redacção dada pelo artigo anterior, é aplicável aos casos em que as guias, declarações e outros documentos, bem como os cheques e vales do correio, sejam enviados às tesourarias da Fazenda Pública através do correio.
+Art. 2.º O disposto no artigo 9.º do [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, com a redacção dada pelo artigo anterior, é aplicável aos casos em que as guias, declarações e outros documentos, bem como os cheques e vales do correio, sejam enviados às tesourarias da Fazenda Pública através do correio.
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 1 de Setembro de 1982.**
+Promulgado em 1 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 130/1984, 1º Suplemento, Série I de 1984-06-05
   number: '130'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1788-(6) a 1788-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/13001/00060015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1984-496332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f4f989cb95472f46261fe61d181b4db2dc5b278a6e86071de4077ffbba403af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc2b99f745bb6495361214c852ed3f4b7fa6f0712ba702abe61ab371f882deb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regime Jurídico
+- Seguro
+- Setor Privado
 relationships:
 - type: amended_by
   target: pt:dre:264701:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228650:por
+  label: "Alterados os artigos 6.º, 8.º, 9.º, 11.º, 13.º, 14.º, 17.º, 18.º, 19.º, 21.º a 23.º e 25.º, pelo DEC LEI.155/86.23.06.1986.MF,\
+    \ DR.IS [141] de 23.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1986-228650
+  date: '1986-06-23'
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607275:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:520034:por
+  label: Rectificado pela DECL.DD5450.28.08.1984.PCM, DR.IS [202]Supl de 31.08.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-520034
+  date: '1984-08-28'
+- type: corrected_by
+  target: pt:dre:308145:por
+  label: Rectificado pela DECL.DD5388.04.09.1984.PCM, DR.IS [227]Supl de 29.09.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-308145
+  date: '1984-09-04'
+- type: repealed_by
+  target: pt:dre:419187:por
+  label: "Revogadas as als. b) e c) do nº 1 do art. 27º, pelo DEC LEI.228/87.1987.06.11.MF, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1987-419187
+  date: '1987-06-11'
+- type: repealed_by
+  target: pt:dre:264701:por
+  label: "Revogado pelo DEC LEI.102/94.1994.04.20.MF, DR.IS-A [92], sem prejuízo do disposto no nº 2 do art. 200º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1994-264701
+  date: '1994-04-20'
 article_structure:
   article_count: 45
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:42Z'
   warnings: []
   errors: []
 ---
@@ -570,7 +627,7 @@ O não cumprimento do disposto no artigo anterior pode levar ao cancelamento da 
 
 ###### Artigo 44.º — (Delegação de poderes)
 
-**O Ministro das Finanças e do Plano poderá delegar no Instituto de Seguros de Portugal, total ou parcialmente, as competências que lhe conferem o n.º 3 do artigo 13.º e os artigos 16.º e 33.º**
+O Ministro das Finanças e do Plano poderá delegar no Instituto de Seguros de Portugal, total ou parcialmente, as competências que lhe conferem o n.º 3 do artigo 13.º e os artigos 16.º e 33.º
 
 ###### Artigo 45.º — (Legislação revogada)
 
@@ -586,12 +643,12 @@ d) Os n.os 1 e 2 da base XII da [Lei n.º 2/71](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 25 de Maio de 1984.**
+Promulgado em 25 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Maio de 1984.**
+Referendado em 31 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

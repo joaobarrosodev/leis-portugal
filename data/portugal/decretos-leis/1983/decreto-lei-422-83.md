@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/27800/39533958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1983-442950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 015fc53cdb73b3b905b6c581c72de5ea1603ff8d031f704dfc993a892789ce1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6ae9eb7d189b6af8991ce0cb6d6fa6e1b9c892af92ab534adcb9d8ba8814ed8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concorrência
+- Conselho da Concorrência
+- Direcção Geral da Concorrência e Preços
+- Ministério do Comércio e Turismo
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:176336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:384049:por
+  label: "Alterado o nº 2 do artigo 21º pelo DEC LEI.156/84.17.05.1984.PCM, DR.IS [114] de 17.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-1984-384049
+  date: '1984-05-17'
+- type: amended_by
+  target: pt:dre:400595:por
+  label: "Excepcionados os produtores agrícolas, silvícolas, pecuários e da pesca relativamente às vendas de bens da sua produção.\
+    \ do âmbito de aplicação do regime constante da subsecção II da secção II do presente diploma, pela PORT.838/84.30.10.1984.MAFA,\
+    \ DR.IS [252] de 30.10.1984\084\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/838-1984-400595
+  date: '1984-10-30'
+- type: amended_by
+  target: pt:dre:359331:por
+  label: "Alterado o art. 5º pelo DEC LEI.329-A/89.26.09.1989.MCT, DR.IS [222]SUPL de 26.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1989-359331
+  date: '1989-09-26'
+- type: amended_by
+  target: pt:dre:565415:por
+  label: "Derrogada, no que respeita aos serviços de telecomunicações de valor acrescentado, a al. b) do n.º 1 do art. 36.º\
+    \ pelo DEC LEI.329/90.23.10.1990.MOPTC, DR.IS [245] de 23.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1990-565415
+  date: '1990-10-23'
+- type: amended_by
+  target: pt:dre:566193:por
+  label: "Derrogada a al. b) do nº 1 do art. 36º, pelo DEC LEI.346/90.1990.11.03.MOPTC, DR.IS [254], no que respeita aos serviços\
+    \ de telecomunicações complementares\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/346-1990-566193
+  date: '1990-11-03'
+- type: amended_by
+  target: pt:dre:176336:por
+  label: "Extinto o Conselho da Concorrência, pelo DEC LEI.10/2003.2003.01.18.MECO DR.IS-A [15]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2003-176336
+  date: '2003-01-18'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439448:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631582:por
+  label: Rectificado pela DECL.DD2381.1984.03.12.PCM DR.IS [77]2ºSupl. de 31/Mar/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631582
+  date: '1984-03-12'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO, BEM COMO A LEGISLAÇÃO COMPLEMENTAR, PELO DEC LEI 371/93 DE 29-OUT DR.IS-A [254] APLICANDO-SE CONTUDO AS\
+    \ SUAS NORMAS AS CONTRA-ORDENACOES PRATICADAS ATE A DATA DA ENTRADA EM VIGOR DO REFERIDO DIPLOMA, SEM PREJUÍZO DAS NORMAS\
+    \ DO MESMO QUE TENHAM CONTEUDO MAIS FAVORÁVEL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-29'
+- type: repealed_by
+  target: pt:dre:664319:por
+  label: Revogado pelo(a) Decreto-Lei n.º 371/93 - Diário da República n.º 254/1993, Série I-A de 1993-10-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1993-664319
+  date: '1993-10-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:27Z'
   warnings: []
   errors: []
 ---
@@ -109,15 +181,15 @@ No uso da autorização conferida pela [Lei n.º 21/83](https://diariodarepublic
 
 #### SECÇÃO I — Generalidades
 
-###### Artigo 1.º O presente diploma tem por objecto a defesa da concorrência no mercado nacional, a fim de salvaguardar os interesses dos consumidores, garantir a liberdade de acesso ao mercado, assegurar a transparência do mercado, favorecer a realização dos objectivos gerais de desenvolvimento económico e social e reforçar a competitividade dos agentes económicos face à economia internacional.
+Artigo 1.º O presente diploma tem por objecto a defesa da concorrência no mercado nacional, a fim de salvaguardar os interesses dos consumidores, garantir a liberdade de acesso ao mercado, assegurar a transparência do mercado, favorecer a realização dos objectivos gerais de desenvolvimento económico e social e reforçar a competitividade dos agentes económicos face à economia internacional.
 
-###### Art. 2.º - 1 - Este diploma é aplicável, salvo disposição expressa em contrário, a todas as actividades económicas exercidas, com carácter permanente ou ocasional, nos sectores público, cooperativo ou privado.
+Art. 2.º - 1 - Este diploma é aplicável, salvo disposição expressa em contrário, a todas as actividades económicas exercidas, com carácter permanente ou ocasional, nos sectores público, cooperativo ou privado.
 
 2 - Sob reserva das obrigações internacionais do Estado Português, este diploma aplica-se às práticas restritivas da concorrência que ocorram no território português ou que neste tenham ou possam ter efeitos.
 
 #### SECÇÃO II — Práticas individuais
 
-###### Art. 3.º São consideradas como restritivas da concorrência as seguintes práticas entre agentes económicos:
+Art. 3.º São consideradas como restritivas da concorrência as seguintes práticas entre agentes económicos:
 
 a) A imposição de preços mínimos;
 
@@ -127,9 +199,9 @@ c) A recusa de venda de bens ou de prestação de serviços.
 
 ##### SUBSECÇÃO I — Imposição de preços mínimos
 
-###### Art. 4.º Considera-se imposição de preços mínimos a prática que consiste em proceder, directa ou indirectamente, a uma fixação vertical do preço por qualquer meio que tenha por objecto ou como efeito impor ou conferir a quaisquer agentes económicos situados nos estádios subsequentes do circuito económico carácter mínimo aos preços de venda ou as margens de comercialização, bem como manter ou praticar tais preços ou margens.
+Art. 4.º Considera-se imposição de preços mínimos a prática que consiste em proceder, directa ou indirectamente, a uma fixação vertical do preço por qualquer meio que tenha por objecto ou como efeito impor ou conferir a quaisquer agentes económicos situados nos estádios subsequentes do circuito económico carácter mínimo aos preços de venda ou as margens de comercialização, bem como manter ou praticar tais preços ou margens.
 
-###### Art. 5.º - 1 - O disposto no artigo anterior não se aplica à venda de livros, jornais, revistas e outras publicações, bem como aos bens e serviços relativamente aos quais exista legislação especial que imponha aos respectivos preços um carácter mínimo ou fixo.
+Art. 5.º - 1 - O disposto no artigo anterior não se aplica à venda de livros, jornais, revistas e outras publicações, bem como aos bens e serviços relativamente aos quais exista legislação especial que imponha aos respectivos preços um carácter mínimo ou fixo.
 
 2 - Por portaria conjunta dos Ministros da Indústria e Energia e do Comércio e Turismo, sob parecer do Conselho da Concorrência, poderão igualmente vir a ser excluídos temporariamente do disposto no artigo anterior, mediante pedido do interessado, os bens e serviços que obedeçam, nomeadamente, a algum dos seguintes requisitos:
 
@@ -147,27 +219,27 @@ e) Exigências de compromissos envolvendo garantias de qualidade.
 
 ##### SUBSECÇÃO II — Aplicação de preços ou de condições de venda discriminatórios relativamente a prestações equivalentes
 
-###### Art. 6.º - 1 - Consideram-se aplicação de preços ou de condições de venda discriminatórios, entre outras, as práticas que, em relação a prestações equivalentes, se traduzam na aplicação de diferentes prazos de execução das encomendas ou de diferentes modalidades de embalamento, entrega, transporte e pagamento não justificadas por diferenças correspondentes no custo do fornecimento ou do serviço.
+Art. 6.º - 1 - Consideram-se aplicação de preços ou de condições de venda discriminatórios, entre outras, as práticas que, em relação a prestações equivalentes, se traduzam na aplicação de diferentes prazos de execução das encomendas ou de diferentes modalidades de embalamento, entrega, transporte e pagamento não justificadas por diferenças correspondentes no custo do fornecimento ou do serviço.
 
 2 - Não são consideradas discriminatórias as ofertas de objectos desprovidos de valor comercial.
 
-###### Art. 7.º - 1 - São prestações equivalentes aquelas que respeitem a bens ou serviços idênticos ou similares e que não difiram de maneira sensível nas características comerciais essenciais, nomeadamente naquelas que tenham repercussão nos correspondentes custos de produção ou de comercialização.
+Art. 7.º - 1 - São prestações equivalentes aquelas que respeitem a bens ou serviços idênticos ou similares e que não difiram de maneira sensível nas características comerciais essenciais, nomeadamente naquelas que tenham repercussão nos correspondentes custos de produção ou de comercialização.
 
 2 - Não se consideram prestações equivalentes aquelas entre cujas datas de conclusão se tenha verificado uma alteração duradoura dos preços ou das condições de venda praticados pelo vendedor.
 
-###### Art. 8.º Todos os produtores, fabricantes, importadores, distribuidores, embaladores e armazenistas de bens e os prestadores de serviços são obrigados a possuir tabelas ou listas contendo os diversos níveis de preços praticados com referência às várias condições de venda e a facultá-las a qualquer revendedor ou utilizador, quando solicitado.
+Art. 8.º Todos os produtores, fabricantes, importadores, distribuidores, embaladores e armazenistas de bens e os prestadores de serviços são obrigados a possuir tabelas ou listas contendo os diversos níveis de preços praticados com referência às várias condições de venda e a facultá-las a qualquer revendedor ou utilizador, quando solicitado.
 
-###### Art. 9.º É proibida a aceitação, por parte de um agente económico, de vantagens discriminatórias em relação aos outros concorrentes.
+Art. 9.º É proibida a aceitação, por parte de um agente económico, de vantagens discriminatórias em relação aos outros concorrentes.
 
-###### Art. 10.º Por portaria conjunta dos Ministros da Agricultura, Florestas e Alimentação ou da Indústria e Energia, consoante a actividade, e do Comércio e Turismo, mediante parecer do Conselho da Concorrência, poderão ser excepcionadas do âmbito desta subsecção actividades relativamente às quais a ocorrência de circunstâncias excepcionais o justifique.
+Art. 10.º Por portaria conjunta dos Ministros da Agricultura, Florestas e Alimentação ou da Indústria e Energia, consoante a actividade, e do Comércio e Turismo, mediante parecer do Conselho da Concorrência, poderão ser excepcionadas do âmbito desta subsecção actividades relativamente às quais a ocorrência de circunstâncias excepcionais o justifique.
 
 ##### SUBSECÇÃO III — Recusa de venda de bens ou de prestação de serviços
 
-###### Art. 11.º - 1 - Considera-se recusa de venda de bens ou de prestação de serviços o negar a venda de bens ou a prestação de serviços segundo os usos normais da respectiva actividade e de acordo com as disposições legais ou regulamentares aplicáveis, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado.
+Art. 11.º - 1 - Considera-se recusa de venda de bens ou de prestação de serviços o negar a venda de bens ou a prestação de serviços segundo os usos normais da respectiva actividade e de acordo com as disposições legais ou regulamentares aplicáveis, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado.
 
 2 - É equiparada à recusa de venda a subordinação da venda de um bem ou da prestação de um serviço à aquisição de outro bem ou serviço.
 
-###### Art. 12.º Poderão ser consideradas causas justificativas da recusa:
+Art. 12.º Poderão ser consideradas causas justificativas da recusa:
 
 a) A satisfação das exigências normais da exploração industrial ou comercial do vendedor, designadamente a manutenção dos seus stocks de segurança ou das necessidades de consumo próprio;
 
@@ -183,7 +255,7 @@ f) A ocorrência de qualquer outra circunstância inerente às condições concr
 
 #### SECÇÃO III — Acordos, decisões de associações, práticas e concertadas e abusos de posição dominante
 
-###### Art. 13.º - 1 - São considerados práticas restritivas da concorrência os acordos entre empresas, as decisões de associações de empresas e as práticas concertadas, qualquer que seja a forma que revistam, que tenham por objecto ou como efeito impedir, falsear ou restringir a concorrência, no todo ou em parte, do mercado nacional de bens e serviços, nomeadamente as que se traduzam em:
+Art. 13.º - 1 - São considerados práticas restritivas da concorrência os acordos entre empresas, as decisões de associações de empresas e as práticas concertadas, qualquer que seja a forma que revistam, que tenham por objecto ou como efeito impedir, falsear ou restringir a concorrência, no todo ou em parte, do mercado nacional de bens e serviços, nomeadamente as que se traduzam em:
 
 a) Fixar ou recomendar, directa ou indirectamente, os preços de compra ou de venda e, bem assim, outras condições das transacções efectuadas no mesmo ou em diferentes estádios do processo económico;
 
@@ -201,7 +273,7 @@ f) Subordinar a celebração de contratos à aceitação de obrigações supleme
 
 3 - São nulos os acordos e decisões que sejam considerados práticas restritivas da concorrência nos termos dos números anteriores.
 
-###### Art. 14.º - 1 - São também considerados práticas restritivas da concorrência os abusos praticados por uma ou mais empresas dispondo de posição dominante no mercado nacional e que tenham por objecto ou como efeito impedir, falsear ou restringir a concorrência, adoptando, designadamente, algumas das práticas referidas no artigo 13.º
+Art. 14.º - 1 - São também considerados práticas restritivas da concorrência os abusos praticados por uma ou mais empresas dispondo de posição dominante no mercado nacional e que tenham por objecto ou como efeito impedir, falsear ou restringir a concorrência, adoptando, designadamente, algumas das práticas referidas no artigo 13.º
 
 2 - Entende-se que dispõem de posição dominante relativamente ao mercado de determinado bem ou serviço:
 
@@ -221,7 +293,7 @@ ii) Uma participação igual ou superior a 65%, tratando-se de 5 ou menos empres
 
 4 - Para efeitos de aplicação deste artigo, é equiparado a empresa o grupo de empresas, entendendo-se como tal o conjunto de empresas que, embora juridicamente distintas, se comportam concertadamente no mercado, em virtude de vínculos de interdependência ou subordinação de carácter financeiro, contratual, directivo ou outro.
 
-###### Art. 15.º - 1 - Poderão ser consideradas justificadas as práticas restritivas da concorrência que contribuam para melhorar a produção ou a distribuição de bens e serviços ou para promover o desenvolvimento técnico ou económico desde que reservem aos utilizadores de tais bens ou serviços uma parte equitativa do benefício daí resultante e sem:
+Art. 15.º - 1 - Poderão ser consideradas justificadas as práticas restritivas da concorrência que contribuam para melhorar a produção ou a distribuição de bens e serviços ou para promover o desenvolvimento técnico ou económico desde que reservem aos utilizadores de tais bens ou serviços uma parte equitativa do benefício daí resultante e sem:
 
 a) Impor às empresas interessadas restrições que não sejam indispensáveis para atingir ases objectivos;
 
@@ -235,13 +307,13 @@ b) Dar a essas mesmas empresas possibilidade de eliminar a concorrência numa pa
 
 #### SECÇÃO IV — Punições
 
-###### Art. 16.º - 1 - As práticas previstas nos artigos 13.º e 14.º constituem contra-ordenação punível com coima de 50000$00 a 50000000$00.
+Art. 16.º - 1 - As práticas previstas nos artigos 13.º e 14.º constituem contra-ordenação punível com coima de 50000$00 a 50000000$00.
 
 2 - As práticas descritas nos artigos 4.º, 6.º e 11.º constituem contra-ordenação punível com coima de 25000$00 a 1000000$00.
 
 3 - A violação do disposto nos artigos 8.º e 9.º constitui contra-ordenação punível com coima de 10000$00 a 100000$00.
 
-###### Art. 17.º - 1 - A determinação da medida da coima far-se-á em função da gravidade e duração da contra-ordenação, da dimensão da empresa ou empresas envolvidas e da relevância da posição do agente no mercado.
+Art. 17.º - 1 - A determinação da medida da coima far-se-á em função da gravidade e duração da contra-ordenação, da dimensão da empresa ou empresas envolvidas e da relevância da posição do agente no mercado.
 
 2 - Sem prejuízo dos limites máximos previstos no artigo anterior, a coima aplicada deverá, sempre que possível, exceder o benefício económico que o agente retirou, ou se propunha retirar, da prática da contra-ordenação.
 
@@ -249,7 +321,7 @@ b) Dar a essas mesmas empresas possibilidade de eliminar a concorrência numa pa
 
 ### CAPÍTULO II — Dos órgãos, suas atribuições e competências
 
-###### Art. 18.º Compete à Direcção-Geral de Concorrência e Preços:
+Art. 18.º Compete à Direcção-Geral de Concorrência e Preços:
 
 a) Proceder aos estudos sectoriais que, em matéria de regras de concorrência, se mostrem convenientes;
 
@@ -257,7 +329,7 @@ b) Propor superiormente as medidas que se afigurem apropriadas com vista ao rest
 
 c) Identificar as práticas susceptíveis de infringirem a presente lei e proceder à organização e instrução dos respectivos processos.
 
-###### Art. 19.º - 1 - Para efeitos do disposto no artigo anterior, pode a Direcção-Geral de Concorrência e Preços solicitar o envio dos elementos julgados necessários a quaisquer empresas ou associações de empresas, bem como às entidades que com elas tenham ligações comerciais, financeiras ou outras, dentro dos prazos que se mostrem convenientes.
+Art. 19.º - 1 - Para efeitos do disposto no artigo anterior, pode a Direcção-Geral de Concorrência e Preços solicitar o envio dos elementos julgados necessários a quaisquer empresas ou associações de empresas, bem como às entidades que com elas tenham ligações comerciais, financeiras ou outras, dentro dos prazos que se mostrem convenientes.
 
 2 - Para efeitos do disposto na alínea c) do artigo anterior e sem prejuízo dos poderes de instrução conferidos pela lei geral, pode a Direcção-Geral de Concorrência e Preços, mediante despacho do Ministro do Comércio e Turismo devidamente fundamentado e indicando o objecto e a finalidade da verificação:
 
@@ -273,7 +345,7 @@ d) Requerer a quaisquer outros serviços da Administração Pública, através d
 
 4 - No exercício das suas competências deve a Direcção-Geral guardar o mais rigoroso sigilo e observar as regras de confidencialidade a que está vinculada.
 
-###### Art. 20.º É criado no Ministério do Comércio e Turismo o Conselho da Concorrência, ao qual incumbe:
+Art. 20.º É criado no Ministério do Comércio e Turismo o Conselho da Concorrência, ao qual incumbe:
 
 a) Decidir os processos relativos a práticas restritivas da concorrência que lhe sejam remetidos;
 
@@ -283,7 +355,7 @@ c) Pronunciar-se sobre todas as demais questões de concorrência que o Ministro
 
 d) Apresentar anualmente ao Ministro o relatório de actividade, que será publicado no Diário da República, e do qual constem, em anexo, todas as decisões proferidas.
 
-###### Art. 21.º - 1 - O Conselho da Concorrência será constituído por 1 presidente e 4 vogais, nomeados por despacho do Primeiro-Ministro, sob proposta dos Ministros da Justiça e do Comércio e Turismo.
+Art. 21.º - 1 - O Conselho da Concorrência será constituído por 1 presidente e 4 vogais, nomeados por despacho do Primeiro-Ministro, sob proposta dos Ministros da Justiça e do Comércio e Turismo.
 
 2 - O presidente será um magistrado judicial, nomeado em comissão de serviço por um período de 3 anos, renovável, obtida a autorização do Conselho Superior da Magistratura.
 
@@ -291,21 +363,21 @@ d) Apresentar anualmente ao Ministro o relatório de actividade, que será publi
 
 4 - O presidente do Conselho da Concorrência poderá, sempre que o julgue necessário, convidar a participar nas reuniões, a título de assessores e sem direito a voto, individualidades com especial competência nas matérias a tratar ou representantes de serviços da Administração Pública e de outras entidades com interesse relevante nas mesmas matérias.
 
-###### Art. 22.º Os membros do Conselho da Concorrência e os assessores a que alude o n.º 4 do artigo anterior ficam sujeitos às regras de confidencialidade aplicáveis aos funcionários civis do Estado relativamente aos factos de que tomem conhecimento no exercício das suas funções.
+Art. 22.º Os membros do Conselho da Concorrência e os assessores a que alude o n.º 4 do artigo anterior ficam sujeitos às regras de confidencialidade aplicáveis aos funcionários civis do Estado relativamente aos factos de que tomem conhecimento no exercício das suas funções.
 
-###### Art. 23.º - 1 - Os membros do Conselho receberão um gratificação mensal de montante a fixar por despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo, acumulável com quaisquer remunerações, nos termos da legislação em vigor.
+Art. 23.º - 1 - Os membros do Conselho receberão um gratificação mensal de montante a fixar por despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo, acumulável com quaisquer remunerações, nos termos da legislação em vigor.
 
 2 - Os membros do Conselho e os assessores que participem nas suas reuniões ao abrigo do disposto no n.º 4 do artigo 21.º terão direito ao abono, nos termos da lei, de transportes e ajudas de custo.
 
-###### Art. 24.º Os encargos com a constituição e o funcionamento do Conselho da Concorrência serão suportados pelas verbas atribuídas para o efeito à Secretaria-Geral do Ministério do Comércio e Turismo.
+Art. 24.º Os encargos com a constituição e o funcionamento do Conselho da Concorrência serão suportados pelas verbas atribuídas para o efeito à Secretaria-Geral do Ministério do Comércio e Turismo.
 
-###### Art. 25.º - 1 - A Secretaria-Geral do Ministério do Comércio e Turismo prestará ao Conselho todo o apoio administrativo de que este carecer para o pleno desempenho das suas funções.
+Art. 25.º - 1 - A Secretaria-Geral do Ministério do Comércio e Turismo prestará ao Conselho todo o apoio administrativo de que este carecer para o pleno desempenho das suas funções.
 
 2 - O Ministro do Comércio e Turismo designará, sob proposta do presidente do Conselho da Concorrência, os funcionários da Secretaria-Geral ou de qualquer outro serviço do Ministério que ficarão especialmente afectos àquele Conselho.
 
-###### Art. 26.º O Conselho da Concorrência elaborará, no prazo máximo de 60 dias após a sua constituição, um regulamento interno, que, após aprovação pelo Ministro do Comércio e Turismo, será publicado no Diário da República.
+Art. 26.º O Conselho da Concorrência elaborará, no prazo máximo de 60 dias após a sua constituição, um regulamento interno, que, após aprovação pelo Ministro do Comércio e Turismo, será publicado no Diário da República.
 
-###### Art. 27.º - 1 - É criada a Comissão Consultiva da Concorrência, a qual funcionará junto do Conselho da Concorrência.
+Art. 27.º - 1 - É criada a Comissão Consultiva da Concorrência, a qual funcionará junto do Conselho da Concorrência.
 
 2 - A Comissão Consultiva da Concorrência será constituída por representantes da indústria, agricultura e comércio, bem como dos consumidores, designados nos termos que vierem a ser estabelecidos por portaria do Ministro do Comércio e Turismo.
 
@@ -313,21 +385,21 @@ d) Apresentar anualmente ao Ministro o relatório de actividade, que será publi
 
 ### CAPÍTULO III — Do processo e penalidades
 
-###### Art. 28.º Salvo o disposto nos artigos seguintes, o processo relativo às contra-ordenações previstas neste decreto-lei rege-se pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+Art. 28.º Salvo o disposto nos artigos seguintes, o processo relativo às contra-ordenações previstas neste decreto-lei rege-se pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Art. 29.º - 1 - Sempre que a Direcção-Geral de Concorrência e Preços tome conhecimento, por qualquer via, de práticas proibidas por este diploma, deverá organizar e instruir os respectivos processos.
+Art. 29.º - 1 - Sempre que a Direcção-Geral de Concorrência e Preços tome conhecimento, por qualquer via, de práticas proibidas por este diploma, deverá organizar e instruir os respectivos processos.
 
 2 - Todos os serviços da administração central, regional e local e os institutos públicos têm o dever de participar à referida Direcção-Geral os factos susceptíveis de serem qualificados como práticas restritivas da concorrência de que tomem conhecimento.
 
-###### Art. 30.º - 1 - Em qualquer momento da instrução e logo que a investigação indicie que a prática sobre que incide o processo é gravemente lesiva do desenvolvimento económico e social ou do interesse dos consumidores, pode o Conselho da Concorrência, sob proposta fundamentada da entidade instrutora, ordenar preventivamente a imediata suspensão ou modificação da referida prática.
+Art. 30.º - 1 - Em qualquer momento da instrução e logo que a investigação indicie que a prática sobre que incide o processo é gravemente lesiva do desenvolvimento económico e social ou do interesse dos consumidores, pode o Conselho da Concorrência, sob proposta fundamentada da entidade instrutora, ordenar preventivamente a imediata suspensão ou modificação da referida prática.
 
 2 - As medidas previstas neste artigo vigorarão por tempo não superior a 60 dias, prorrogáveis por igual período uma só vez.
 
-###### Art. 31.º - 1 - Concluída a instrução do processo, a entidade instrutora remetê-lo-á, acompanhado de um relatório, ao Conselho da Concorrência, para decisão.
+Art. 31.º - 1 - Concluída a instrução do processo, a entidade instrutora remetê-lo-á, acompanhado de um relatório, ao Conselho da Concorrência, para decisão.
 
 2 - O Conselho da Concorrência, sempre que o considerar necessário, poderá solicitar à Direcção-Geral de Concorrência e Preços ou a quaisquer outras entidades a realização de diligências complementares da instrução ou efectuá-las directamente.
 
-###### Art. 32.º - 1 - O Conselho da Concorrência na sua decisão poderá:
+Art. 32.º - 1 - O Conselho da Concorrência na sua decisão poderá:
 
 a) Ordenar o arquivamento do processo;
 
@@ -343,21 +415,21 @@ d) Efectuar a notificação referida na alínea b) e aplicar uma das coimas prev
 
 4 - O Conselho da Concorrência deverá enviar ao Ministro do Comércio e Turismo, à Direcção-Geral de Concorrência e Preços e à Comissão Consultiva da Concorrência cópia de todas as decisões tomadas nos termos do n.º 1.
 
-###### Art. 33.º - 1 - Constitui crime de desobediência a falta de envio dos elementos referidos no n.º 1 do artigo 19.º dentro do prazo que para o efeito for fixado, bem como a recusa de prestação das declarações a que se reportam as alíneas a) e c) do n.º 2 do mesmo artigo.
+Art. 33.º - 1 - Constitui crime de desobediência a falta de envio dos elementos referidos no n.º 1 do artigo 19.º dentro do prazo que para o efeito for fixado, bem como a recusa de prestação das declarações a que se reportam as alíneas a) e c) do n.º 2 do mesmo artigo.
 
 2 - Constitui crime de falsas declarações a prestação de elementos, informações, depoimentos e declarações, nos casos previstos no n.º 1 e nas alíneas a) e c) do n.º 2 do artigo 19.º, quando intencionalmente falsos ou incompletos.
 
 3 - Constitui crime de desobediência ou de resistência, consoante os casos, a oposição às diligências a que se refere a alínea b) do n.º 2 do artigo 19.º bem como o não acatamento das decisões do Conselho da Concorrência proferidas ao abrigo do disposto no artigo 30.º do presente decreto-lei.
 
-###### Art. 34.º - 1 - Das decisões do Conselho da Concorrência que apliquem coimas cabe recurso nos termos da lei geral.
+Art. 34.º - 1 - Das decisões do Conselho da Concorrência que apliquem coimas cabe recurso nos termos da lei geral.
 
 2 - Das restantes decisões do Conselho da Concorrência haverá recurso para os tribunais de 1.ª instância da comarca de Lisboa e da decisão destes para o Tribunal da Relação.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Artigo 35.º Relativamente às infracções ao disposto no presente diploma que revistam a natureza de infracções antieconómicas nos termos da legislação em vigor, deverá seguir-se o procedimento aí adoptado, sem prejuízo da aplicação dos preceitos deste decreto-lei.
+Artigo 35.º Relativamente às infracções ao disposto no presente diploma que revistam a natureza de infracções antieconómicas nos termos da legislação em vigor, deverá seguir-se o procedimento aí adoptado, sem prejuízo da aplicação dos preceitos deste decreto-lei.
 
-###### Art. 36.º - 1 - Este diploma não é aplicável:
+Art. 36.º - 1 - Este diploma não é aplicável:
 
 a) À administração central, regional e local;
 
@@ -369,18 +441,18 @@ c) Às situações de restrição da concorrência resultantes de disposição l
 
 3 - A aplicação deste diploma à actividade dos transportes e das disposições da secção III do capítulo I às actividades da agricultura, silvicultura, pecuária e pesca fica dependente da adaptação a estabelecer pelo Governo em decreto regulamentar.
 
-###### Art. 37.º Fica revogada a [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298), de 24 de Março.
+Art. 37.º Fica revogada a [Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/lei/1-1972-396298), de 24 de Março.
 
-###### Art. 38.º Este diploma entra em vigor 180 dias após a data da sua publicação, com excepção dos artigos 20.º a 27.º, que entram em vigor no dia imediato ao da sua publicação.
+Art. 38.º Este diploma entra em vigor 180 dias após a data da sua publicação, com excepção dos artigos 20.º a 27.º, que entram em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 22 de Novembro de 1983.**
+Promulgado em 22 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Novembro de 1983.**
+Referendado em 23 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

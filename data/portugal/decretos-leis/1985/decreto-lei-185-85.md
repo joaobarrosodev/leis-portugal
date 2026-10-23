@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/12300/14641466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1985-151919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64cba63fa9f5d8bc1bc85103464fac84baa3698ab35f348881616c8ca4824734
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d43ee945365aa4cee1fb7774989f62dbcfa5dbaa2fc65226be311de57a40830
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extinção de Serviços
+- Junta Central das Casas do Povo
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:324937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573113:por
+  label: "Revogados os arts. 2º, 3º, 9º, 10º a 12º, pelo DEC LEI.246/90.1990.07.27.MESS, DR.IS [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1990-573113
+  date: '1990-07-27'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:49Z'
   warnings: []
   errors: []
 ---
@@ -112,19 +144,19 @@ Assim, o Governo decreta, nos termos da alínea a) do artigo 201.º da Constitui
 
 ### CAPÍTULO I — Extinção da Junta Central das Casas do Povo
 
-###### Artigo 1.º É extinta a Junta Central das Casas do Povo, adiante designada por Junta, bem como as respectivas delegações.
+Artigo 1.º É extinta a Junta Central das Casas do Povo, adiante designada por Junta, bem como as respectivas delegações.
 
-###### Art. 2.º As competências da Junta no que respeita ao apoio, fiscalização, exercício da tutela e gestão de pessoal das casas do povo são transferidas para os centros regionais de segurança social dos respectivos distritos.
+Art. 2.º As competências da Junta no que respeita ao apoio, fiscalização, exercício da tutela e gestão de pessoal das casas do povo são transferidas para os centros regionais de segurança social dos respectivos distritos.
 
-###### Art. 3.º - 1 - As competências previstas no artigo 2.º que tenham por objectivo actividades que não se enquadrem na Segurança Social poderão ser transferidas para outros organismos públicos ou vir a ser assumidas por entidades privadas que tenham por objectivo a promoção das casas do povo.
+Art. 3.º - 1 - As competências previstas no artigo 2.º que tenham por objectivo actividades que não se enquadrem na Segurança Social poderão ser transferidas para outros organismos públicos ou vir a ser assumidas por entidades privadas que tenham por objectivo a promoção das casas do povo.
 
 2 - A transferência será efectuada mediante protocolo homologado pelo Ministro do Trabalho e Segurança Social.
 
 3 - A transferência pode abranger pessoal e bens afectos à Junta.
 
-###### Art. 4.º Mantém-se inalterado o regime do Fundo Comum das Casas do Povo, passando o mesmo a ser gerido pelo Instituto de Gestão Financeira da Segurança Social.
+Art. 4.º Mantém-se inalterado o regime do Fundo Comum das Casas do Povo, passando o mesmo a ser gerido pelo Instituto de Gestão Financeira da Segurança Social.
 
-###### Art. 5.º - 1 - O património da Junta, incluindo todos os seus direitos e obrigações, é afecto ao Ministério do Trabalho e Segurança Social.
+Art. 5.º - 1 - O património da Junta, incluindo todos os seus direitos e obrigações, é afecto ao Ministério do Trabalho e Segurança Social.
 
 2 - O património afecto às delegações da Junta é transferido para os centros regionais de segurança social dos respectivos distritos.
 
@@ -132,25 +164,25 @@ Assim, o Governo decreta, nos termos da alínea a) do artigo 201.º da Constitui
 
 4 - A sucessão no direito ao arrendamento será comunicada aos respectivos senhorios.
 
-###### Art. 6.º Os trabalhadores permanentes da Junta Central das Casas do Povo ficam sujeitos ao estatuto da função pública.
+Art. 6.º Os trabalhadores permanentes da Junta Central das Casas do Povo ficam sujeitos ao estatuto da função pública.
 
-###### Art. 7.º - 1 - O pessoal da Junta é colocado na dependência da Secretaria-Geral do Ministério do Trabalho e Segurança Social, com vista à sua transição para serviços e organismos do sector que dele necessitem, sem prejuízo do disposto no [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
+Art. 7.º - 1 - O pessoal da Junta é colocado na dependência da Secretaria-Geral do Ministério do Trabalho e Segurança Social, com vista à sua transição para serviços e organismos do sector que dele necessitem, sem prejuízo do disposto no [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
 2 - O pessoal das delegações da Junta, excepto a de Lisboa, é destacado da Secretaria-Geral do Ministério do Trabalho e Segurança Social para os centros regionais de segurança social dos respectivos distritos, sem prejuízo da possibilidade de utilização de qualquer instrumento de mobilidade previsto na lei.
 
 3 - O pessoal referido no número anterior poderá ser incluído nos quadros dos centros regionais de segurança social ou de outros serviços do Ministério do Trabalho e Segurança Social, se houver vaga na mesma carreira e categoria.
 
-###### Art. 8.º - 1 - Ao pessoal integrado nos termos do artigo anterior e assegurada a contagem, para todos os efeitos legais, incluindo a aposentação, do tempo de serviço prestado na Junta Central das Casas do Povo e, sendo caso disso, em instituições de previdência, nos termos previstos no [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho.
+Art. 8.º - 1 - Ao pessoal integrado nos termos do artigo anterior e assegurada a contagem, para todos os efeitos legais, incluindo a aposentação, do tempo de serviço prestado na Junta Central das Casas do Povo e, sendo caso disso, em instituições de previdência, nos termos previstos no [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho.
 
 2 - O tempo de serviço que cada trabalhador tiver na categoria e carreira à data da integração será considerado como efectivamente prestado na categoria e carreira para que transitou.
 
 ### CAPÍTULO II — Criação de serviços locais dos centros regionais de segurança social
 
-###### Art. 9.º - 1 - A criação de serviços locais dos centros regionais de segurança social determina a integração do pessoal das casas do povo admitido antes de 1 de Janeiro de 1985 adstrito à execução de tarefas do âmbito de segurança social nas zonas abrangidas por aqueles serviços mediante alterações aos quadros dos centros regionais dos respectivos distritos, a aprovar por portaria dos Ministros das Finanças e do Plano, do Trabalho e Segurança Social e do membro do Governo que tiver a seu cargo a função pública.
+Art. 9.º - 1 - A criação de serviços locais dos centros regionais de segurança social determina a integração do pessoal das casas do povo admitido antes de 1 de Janeiro de 1985 adstrito à execução de tarefas do âmbito de segurança social nas zonas abrangidas por aqueles serviços mediante alterações aos quadros dos centros regionais dos respectivos distritos, a aprovar por portaria dos Ministros das Finanças e do Plano, do Trabalho e Segurança Social e do membro do Governo que tiver a seu cargo a função pública.
 
 2 - O pessoal referido no número anterior é integrado com a categoria que tinha na data aí referida.
 
-###### Art. 10.º - 1 - Transitam para a titularidade dos centros regionais de segurança social, no momento da criação dos serviços locais, a propriedade ou o arrendamento das sedes e delegações das casas do povo, respectivamente, integralmente financiadas ou cuja renda é paga por verbas do orçamento da Segurança Social.
+Art. 10.º - 1 - Transitam para a titularidade dos centros regionais de segurança social, no momento da criação dos serviços locais, a propriedade ou o arrendamento das sedes e delegações das casas do povo, respectivamente, integralmente financiadas ou cuja renda é paga por verbas do orçamento da Segurança Social.
 
 2 - Quando abranja bens sujeitos a registo, a transferência do património será comunicada aos respectivos conservadores para que estes procedam oficiosamente aos necessários registos.
 
@@ -158,22 +190,22 @@ Assim, o Governo decreta, nos termos da alínea a) do artigo 201.º da Constitui
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 11.º O Estado transferirá anualmente para o orçamento da Segurança Social as verbas necessárias ao exercício do disposto no n.º 3 do artigo 16.º do [Decreto-Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1982-552992), de 11 de Janeiro.
+Art. 11.º O Estado transferirá anualmente para o orçamento da Segurança Social as verbas necessárias ao exercício do disposto no n.º 3 do artigo 16.º do [Decreto-Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1982-552992), de 11 de Janeiro.
 
-###### Art. 12.º - 1 - Durante o ano de 1985 as verbas do orçamento da Junta Central afectas a despesas com pessoal e a outras despesas correntes são transferidas para o orçamento da Secretaria-Geral do Ministério do Trabalho e Segurança Social.
+Art. 12.º - 1 - Durante o ano de 1985 as verbas do orçamento da Junta Central afectas a despesas com pessoal e a outras despesas correntes são transferidas para o orçamento da Secretaria-Geral do Ministério do Trabalho e Segurança Social.
 
 2 - As verbas constantes das rubricas orçamentais destinadas a financiar e a manter o funcionamento das casas do povo são transferidas para o orçamento da Segurança Social.
 
-###### Art. 13.º É revogado o [Decreto-Lei n.º 392/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1980-461850), de 24 de Setembro.
+Art. 13.º É revogado o [Decreto-Lei n.º 392/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1980-461850), de 24 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 20 de Maio de 1985.**
+Promulgado em 20 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Maio de 1985.**
+Referendado em 21 de Maio de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

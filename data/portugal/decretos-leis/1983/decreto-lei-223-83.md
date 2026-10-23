@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12200/19301933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1983-451794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5a4dc959076f6827e19c200841b1592ecade7a4e4943c46b8e9b11c59af7cb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50ee5b74441876d8fbd22241f3a289b63a3275c3c6bf3e1368aad1c832638b2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Administrativa
+- Código das Custas Judiciais
+- Custas Judiciais
+- Supremo Tribunal Administrativo
+- Tribunal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterado o art. 98º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329 de 08-Mai, na redacção do presente\
+    \ diploma, pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterado o art. 8.º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329, de 08-Mai 1962, com a redacção dada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 92/88 - Diário da República n.º 64/1988, 1º Suplemento, Série I de 1988-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590726:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316351:por
+  label: Rectificado o presente diploma pela DECL.DD5807.29.06.1983.PCM, DR.IS [148-2.º Supl] de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316351
+  date: '1983-06-29'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:10Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +148,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código das Custas Judiciais:
+Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código das Custas Judiciais:
 
 ###### Artigo 26.º — (...)
 
@@ -271,7 +314,7 @@ a) Para os litigantes de má fé - 2500$00 a 300000$00;
 
 b) Para quaisquer outros casos não especialmente regulados na lei - 500$00 a 10000$00.
 
-###### Art. 2.º O artigo 6.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passa a ter a seguinte redacção:
+Art. 2.º O artigo 6.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passa a ter a seguinte redacção:
 
 ###### Artigo 6.º — (...)
 
@@ -279,7 +322,7 @@ b) Para quaisquer outros casos não especialmente regulados na lei - 500$00 a 10
 
 2 - Os reembolsos por gastos com papel, franquias postais e expediente são contados à taxa de 250$00, por cada 30 folhas ou fracção do processado.
 
-###### Art. 3.º O artigo 49.º da Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas passa a ter a seguinte redacção:
+Art. 3.º O artigo 49.º da Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas passa a ter a seguinte redacção:
 
 ###### Artigo 49.º — (...)
 
@@ -311,17 +354,17 @@ m) ...
 
 n) ...
 
-###### Art. 4.º Os limites mínimos do imposto de justiça e das multas fixadas na Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas são elevados para o sêxtuplo.
+Art. 4.º Os limites mínimos do imposto de justiça e das multas fixadas na Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas são elevados para o sêxtuplo.
 
-###### Art. 5.º As custas cobradas nos tribunais administrativos são divididas nos mesmos termos que as cobradas nos tribunais comuns.
+Art. 5.º As custas cobradas nos tribunais administrativos são divididas nos mesmos termos que as cobradas nos tribunais comuns.
 
-###### Art. 6.º - 1 - São extintos o Cofre do Supremo Tribunal Administrativo e os cofres das auditorias administrativas, transitando para o Cofre Geral dos Tribunais os saldos de conta apurados e os encargos assumidos legalmente.
+Art. 6.º - 1 - São extintos o Cofre do Supremo Tribunal Administrativo e os cofres das auditorias administrativas, transitando para o Cofre Geral dos Tribunais os saldos de conta apurados e os encargos assumidos legalmente.
 
 2 - A execução do disposto no número anterior terá lugar no dia 1 de Janeiro de 1984.
 
-###### Art. 7.º É aplicável aos tribunais administrativos o disposto no artigo 254.º do Código das Custas Judiciais e legislação complementar.
+Art. 7.º É aplicável aos tribunais administrativos o disposto no artigo 254.º do Código das Custas Judiciais e legislação complementar.
 
-###### Art. 8.º - 1 - Os prazos estabelecidos no Código das Custas Judiciais são alterados pela seguinte forma:
+Art. 8.º - 1 - Os prazos estabelecidos no Código das Custas Judiciais são alterados pela seguinte forma:
 
 a) Passam a ser de 1 dia os prazos de 24 horas referidos nos artigos 107.º, n.º 1, 122.º, n.º 3, e 144.º, n.º 1;
 
@@ -339,16 +382,16 @@ b) Passam a ser de 5 dias os prazos de 3 dias referidos na primeira parte do art
 
 c) Passam a ser de 7 dias os prazos de 3 dias referidos na primeira parte do artigo 42.º, no § único do artigo 43.º, no artigo 55.º e no artigo 56.º, e os prazos de 5 dias referidos nas primeira e segunda partes do artigo 41.º, na segunda parte do artigo 42.º, no artigo 46.º e no § único do artigo 54.º
 
-###### Art. 9.º É revogado o artigo 17.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, e a alínea a) do artigo 49.º da Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas.
+Art. 9.º É revogado o artigo 17.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, e a alínea a) do artigo 49.º da Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 13 de Maio de 1983.**
+Promulgado em 13 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Maio de 1983.**
+Referendado em 16 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.

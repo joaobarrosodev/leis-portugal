@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1984-399650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 319204f9d28180b8c26cccd265fdba78ef7b00ec66421f166fac8236f6a94df7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: debbb6f7fcc2626aadf76a3ec35e454554f2eafe92f67073126e7a972ba9c2ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Guarda Fiscal
+- Madeira.região Autónoma
+- Subsídio de Deslocação
+relationships:
+- type: cites
+  target: pt:dre:444404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561591:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:49Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ Considerando ainda que as actualizações efectuadas pelos Decretos-Leis n.os [4
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 282/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1981-561591), de 8 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 282/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1981-561591), de 8 de Outubro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas dos Açores e da Madeira terá direito ao subsídio mensal de deslocação nos termos seguintes:
+Artigo 1.º - 1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas dos Açores e da Madeira terá direito ao subsídio mensal de deslocação nos termos seguintes:
 
 a) Oficiais ... 14000$00
 
@@ -114,16 +130,16 @@ b) Sargentos ... 5000$00
 
 c) Praças ... 4000$00
 
-###### Art. 2.º O disposto neste decreto-lei produz efeitos a partir do dia 1 de Janeiro de 1985.
+Art. 2.º O disposto neste decreto-lei produz efeitos a partir do dia 1 de Janeiro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1984. - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 13 de Setembro de 1984.**
+Promulgado em 13 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Setembro de 1984.**
+Referendado em 17 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

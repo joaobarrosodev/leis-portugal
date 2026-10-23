@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1984-401026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d73083a259a26c499781601c800a72bd8e0c218fcbf858fa1a3b7656ace6e8f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36270d9f37ef7adf974a859dfa090b671af8fb1d83ecf2131253926123e94f71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Informática
+- Horas Extraordinárias
+- Instituto Superior Técnico
+- Lisboa
+- Trabalho por Turnos
+relationships:
+- type: cites
+  target: pt:dre:311041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:47Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +112,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O regime de trabalho da operação do Núcleo de Exploração do CIIST é de 24 horas por dia, todos os dias do ano, correspondendo a um regime de laboração por turnos.
+Artigo 1.º - 1 - O regime de trabalho da operação do Núcleo de Exploração do CIIST é de 24 horas por dia, todos os dias do ano, correspondendo a um regime de laboração por turnos.
 
 2 - Está abrangido por este diploma todo o pessoal da carreira de operadores definida pelo [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, que preste serviço no Núcleo de Exploração do CIIST.
 
 3 - Cada um dos funcionários envolvidos percorrerá regularmente os diferentes períodos incluídos na escala de turnos.
 
-###### Art. 2.º A duração de trabalho do pessoal abrangido por este diploma será, em média, de 36 horas semanais.
+Art. 2.º A duração de trabalho do pessoal abrangido por este diploma será, em média, de 36 horas semanais.
 
-###### Art. 3.º - 1 - O vencimento mensal dos funcionários abrangidos por este diploma será acrescido de um subsídio de turno, determinado pela aplicação da percentagem de 25% sobre o vencimento base.
+Art. 3.º - 1 - O vencimento mensal dos funcionários abrangidos por este diploma será acrescido de um subsídio de turno, determinado pela aplicação da percentagem de 25% sobre o vencimento base.
 
 2 - Só haverá lugar a subsídio de turno quando for devido o vencimento de exercício.
 
@@ -115,20 +128,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Na percentagem referida no n.º 1 considera-se incluída a percentagem fixada na lei geral para a remuneração por trabalho normal nocturno.
 
-###### Art. 4.º - 1 - Compete ao conselho directivo do CIIST estabelecer o horário de trabalho para os turnos e aprovar as respectivas escalas.
+Art. 4.º - 1 - Compete ao conselho directivo do CIIST estabelecer o horário de trabalho para os turnos e aprovar as respectivas escalas.
 
 2 - A deslocação de um funcionário para turno diferente daquele em que tenha estado a prestar serviço só poderá ter lugar após um dia de descanso, sem prejuízo de casos excepcionais como tal reconhecidos pelo conselho directivo do CIIST.
 
-###### Art. 5.º Sem prejuízo do disposto no presente diploma, o trabalho extraordinário, bem como o prestado em dias de descanso semanal, complementar e feriados, regula-se pelo [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 5.º Sem prejuízo do disposto no presente diploma, o trabalho extraordinário, bem como o prestado em dias de descanso semanal, complementar e feriados, regula-se pelo [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - José Augusto Seabra.
 
-**Promulgado em 19 de Novembro de 1984.**
+Promulgado em 19 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Novembro de 1984.**
+Referendado em 21 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

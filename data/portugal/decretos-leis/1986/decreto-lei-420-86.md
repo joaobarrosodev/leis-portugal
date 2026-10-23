@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29400/37963797.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1986-210586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04f3b49c05b76446a42c4f264943a4d2c11cc59c0cf3b2e29eb5207ee2043ffa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f791424098ceb03bc0c0333e9ac65b624b0c1da5072df659db474bf753a0b208
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Industrial
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:19Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +100,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 85.º, 86.º, 100.º, 101.º, 101.º-A e 117.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 85.º, 86.º, 100.º, 101.º, 101.º-A e 117.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
 
-###### Art. 85.º A contribuição relativa ao grupo A será objecto de liquidação provisória nos termos seguintes:
+Art. 85.º A contribuição relativa ao grupo A será objecto de liquidação provisória nos termos seguintes:
 
 1.º Quando a liquidação deva ser feita pelo contribuinte nos termos da primeira parte da alínea a) do artigo anterior, será efectuada na declaração modelo n.º 2 e terá por base os elementos que dela constem, excepto tratando-se de sociedades de seguros tributada pelo processo especial previsto no § 1.º do artigo 27.º, hipótese em que a liquidação incidirá sobre 50% da matéria colectável do ano mais próximo que se encontre determinada;
 
@@ -104,9 +110,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § único ...
 
-###### Art. 86.º Não tendo havido liquidação provisória ou tratando-se de contribuição industrial, grupo B, a contribuição será totalmente liquidada no prazo referido no § único do artigo anterior.
+Art. 86.º Não tendo havido liquidação provisória ou tratando-se de contribuição industrial, grupo B, a contribuição será totalmente liquidada no prazo referido no § único do artigo anterior.
 
-###### Art. 100.º Os conhecimentos de cobrança serão entregues anualmente nas tesourarias da Fazenda Pública, nos prazos seguintes:
+Art. 100.º Os conhecimentos de cobrança serão entregues anualmente nas tesourarias da Fazenda Pública, nos prazos seguintes:
 
 a) Até 5 de Agosto, os que respeitarem à liquidação provisória da contribuição industrial, grupo A, prevista no n.º 2.º do artigo 85.º;
 
@@ -118,7 +124,7 @@ c) Até 20 de Julho, os relativos à contribuição industrial, grupo C.
 
 § 2.º ...
 
-###### Art. 101.º A contribuição industrial será paga:
+Art. 101.º A contribuição industrial será paga:
 
 a) No caso da liquidação provisória a que se refere o n.º 1.º do artigo 85.º, no dia da apresentação da declaração, mediante conhecimento de cobrança modelo n.º 10, processado em triplicado pelos contribuintes, que beneficiarão do desconto correspondente a 2/12 ou a 1/12 do somatório da taxa básica de desconto do Banco de Portugal com 3%, conforme o pagamento seja efectuado, respectivamente, em Abril ou em Maio;
 
@@ -138,26 +144,26 @@ d) No caso de contribuição industrial, grupo C, de montante igual ou superior 
 
 § 5.º ...
 
-###### Art. 101.º-A. A anulação referida no § único do artigo 85.º será efectuada por dedução na colecta que se encontre por cobrar em 15 de Setembro, processando-se título de anulação pelo que exceda a importância em dívida.
+Art. 101.º-A. A anulação referida no § único do artigo 85.º será efectuada por dedução na colecta que se encontre por cobrar em 15 de Setembro, processando-se título de anulação pelo que exceda a importância em dívida.
 
 § único. Para efeito do disposto neste artigo, as repartições de finanças averbarão até 15 de Setembro nos conhecimentos das colectas provisórias por pagar as anulações a que haja lugar, creditando o tesoureiro através da relação modelo n.º 27, anexa ao Regulamento Geral da Administração Pública, documentada com os conhecimentos anulados na totalidade e com um certificado das anulações parciais devidamente discriminadas, indicando o número do conhecimento, o nome do contribuinte e a importância que se anulou.
 
-###### Art. 117.º A prova do pagamento a que se refere o artigo anterior será feita:
+Art. 117.º A prova do pagamento a que se refere o artigo anterior será feita:
 
 a) Quanto aos contribuintes dos grupos A e B, pela apresentação do conhecimento relativo à liquidação efectuada nos termos do § único do artigo 85.º ou do artigo 86.º, ou, tendo havido apenas liquidação provisória, pela apresentação do conhecimento comprovativo do respectivo pagamento e de documento isento de imposto do selo, passado pela repartição de finanças competente, certificando não ter havido lugar à liquidação complementar;
 
 b) ...
 
-###### Art. 2.º As alterações a que se refere o artigo 1.º aplicam-se às liquidações a efectuar relativamente ao lucro tributável dos exercícios de 1986 e seguintes.
+Art. 2.º As alterações a que se refere o artigo 1.º aplicam-se às liquidações a efectuar relativamente ao lucro tributável dos exercícios de 1986 e seguintes.
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

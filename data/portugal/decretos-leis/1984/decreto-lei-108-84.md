@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/07800/10961098.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1984-661704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e21b9451054c9db6b9aae76d57d0de6a3a6c53b7a9cc0778dc857d65fae13bc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ad931965a1aa80caf0c13ae8a3d70422772e1b618f496ac5164342cdc5b68cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Junta Nacional das Frutas
+- Produto Alimentar
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:573116:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396554:por
+  label: "Alterado o anexo I pelo DEC LEI.399/84.1984.12.28.MA DR.IS [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-1984-396554
+  date: '1984-12-28'
+- type: cites
+  target: pt:dre:525034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573116:por
+  label: "Revogado pelo DEC LEI.240/90.1990.07.25.MAPA DR.IS [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-1990-573116
+  date: '1990-07-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:18Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +123,15 @@ O presente diploma regulamenta também diversos outros aspectos desta matéria, 
 
 Usando da autorização legislativa conferida pelo artigo 55.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Compete à JNF proceder à verificação comercial dos produtos sujeitos à sua disciplina, independentemente da sua origem ou do seu destino, sem o que os referidos produtos não poderão ser lançados no consumo público ou exportados.
+Artigo 1.º Compete à JNF proceder à verificação comercial dos produtos sujeitos à sua disciplina, independentemente da sua origem ou do seu destino, sem o que os referidos produtos não poderão ser lançados no consumo público ou exportados.
 
-###### Art. 2.º - 1 - A obrigatoriedade de verificação comercial nos mercados abastecedores é regulamentada nos termos da legislação específica sobre os referidos mercados.
+Art. 2.º - 1 - A obrigatoriedade de verificação comercial nos mercados abastecedores é regulamentada nos termos da legislação específica sobre os referidos mercados.
 
 2 - A verificação comercial dos produtos a importar e a exportar antecederá o respectivo despacho, constituindo sua condição prévia.
 
 3 - Para os efeitos do n.º 2 do presente artigo, serão entregues ao interessado, imediatamente após a aprovação da mercadoria, o original e uma cópia do boletim de verificação.
 
-###### Art. 3.º - 1 - A execução das operações de verificação comercial dos produtos destinados a importação ou exportação far-se-á preceder de um pedido de verificação, a efectuar necessariamente por escrito, que deverá conter as seguintes indicações:
+Art. 3.º - 1 - A execução das operações de verificação comercial dos produtos destinados a importação ou exportação far-se-á preceder de um pedido de verificação, a efectuar necessariamente por escrito, que deverá conter as seguintes indicações:
 
 a) Entidade requerente e respectivo domicílio;
 
@@ -163,13 +185,13 @@ b) Quando o número de volumes do lote for inferior a 50, a percentagem de volum
 
 8 - O montante da taxa a cobrar por cada pedido de verificação nunca será inferior a 300$00.
 
-###### Art. 4.º - 1 - Se a mercadoria a importar ou a exportar não se encontrar nas condições regulamentadas, o agente verificador inscreverá no boletim de verificação a palavra «rejeitado», bem como as razões da rejeição, mencionando os lotes rejeitados, no caso de só uma parte da remessa ter sido rejeitada.
+Art. 4.º - 1 - Se a mercadoria a importar ou a exportar não se encontrar nas condições regulamentadas, o agente verificador inscreverá no boletim de verificação a palavra «rejeitado», bem como as razões da rejeição, mencionando os lotes rejeitados, no caso de só uma parte da remessa ter sido rejeitada.
 
 2 - A mercadoria rejeitada deverá ser colocada em condições de não poder ser misturada com outra.
 
-###### Art. 5.º A mercadoria verificada e rejeitada nos mercados abastecedores será obrigatoriamente retirada, devendo os responsáveis pelo mercado dar-lhe o destino mais aconselhável.
+Art. 5.º A mercadoria verificada e rejeitada nos mercados abastecedores será obrigatoriamente retirada, devendo os responsáveis pelo mercado dar-lhe o destino mais aconselhável.
 
-###### Art. 6.º - 1 - Quando o interessado não aceitar o resultado da verificação comercial, poderá solicitar, por escrito, nova inspecção, indicando os motivos que a justificam.
+Art. 6.º - 1 - Quando o interessado não aceitar o resultado da verificação comercial, poderá solicitar, por escrito, nova inspecção, indicando os motivos que a justificam.
 
 2 - A nova verificação far-se-á no prazo de 48 horas a contar da entrega do respectivo pedido por 2 agentes verificadores.
 
@@ -179,23 +201,23 @@ b) Quando o número de volumes do lote for inferior a 50, a percentagem de volum
 
 5 - A quantia referida no n.º 3 deste artigo, bem como a taxa paga pela segunda verificação efectuada, serão restituídas ao requerente no caso de o recurso lhe ser favorável.
 
-###### Art. 7.º - 1 - As taxas e demais encargos devidos à JNF pelas verificações comerciais efectuadas nos termos dos artigos anteriores são as que constam da tabela I, com os agravamentos previstos na tabela II, ambas anexas ao presente decreto-lei.
+Art. 7.º - 1 - As taxas e demais encargos devidos à JNF pelas verificações comerciais efectuadas nos termos dos artigos anteriores são as que constam da tabela I, com os agravamentos previstos na tabela II, ambas anexas ao presente decreto-lei.
 
 2 - As taxas constantes da tabela I anexa aplicam-se às verificações comerciais realizadas em locais que distem até 25 km da sede ou das delegações da JNF e que, tendo sido solicitadas por escrito, dêem entrada naqueles serviços com a antecedência de 2 dias em relação à data requerida para a sua realização.
 
 3 - Fora das condições previstas no n.º 2 deste artigo, as taxas de verificação comercial serão objecto dos factores de agravamento constantes da tabela II anexa.
 
-###### Art. 8.º Os produtos que já tenham sido verificados pela JNF ficam dispensados do pagamento de nova taxa de verificação nos mercados abastecedores, sem prejuízo de serem de novo presentes à verificação, nos termos da legislação em vigor.
+Art. 8.º Os produtos que já tenham sido verificados pela JNF ficam dispensados do pagamento de nova taxa de verificação nos mercados abastecedores, sem prejuízo de serem de novo presentes à verificação, nos termos da legislação em vigor.
 
-###### Art. 9.º Antecedendo a verificação comercial, a JNF pode, a pedido dos interessados ou sempre que o julgue conveniente, destacar funcionários para assistirem ao acondicionamento dos produtos.
+Art. 9.º Antecedendo a verificação comercial, a JNF pode, a pedido dos interessados ou sempre que o julgue conveniente, destacar funcionários para assistirem ao acondicionamento dos produtos.
 
-###### Art. 10.º - 1 - A assistência técnica prestada a pedido dos interessados nos termos do artigo anterior dará lugar ao pagamento, pelos mesmos, de todos os encargos de deslocação dos funcionários da JNF destacados para o efeito.
+Art. 10.º - 1 - A assistência técnica prestada a pedido dos interessados nos termos do artigo anterior dará lugar ao pagamento, pelos mesmos, de todos os encargos de deslocação dos funcionários da JNF destacados para o efeito.
 
 2 - Quando os técnicos destacados por iniciativa da JNF nos termos do artigo 9.º prolongarem, a pedido dos interessados, o trabalho para além das horas normais de serviço, haverá lugar ao pagamento, pelos interessados, das correspondentes horas extraordinárias.
 
-###### Art. 11.º A JNF poderá emitir certificados de origem nacional a pedido dos exportadores, pelo que será cobrada uma taxa suplementar de 200$00.
+Art. 11.º A JNF poderá emitir certificados de origem nacional a pedido dos exportadores, pelo que será cobrada uma taxa suplementar de 200$00.
 
-###### Art. 12.º - 1 - O produto das taxas e demais encargos previstos no presente diploma constituirá receita própria da JNF.
+Art. 12.º - 1 - O produto das taxas e demais encargos previstos no presente diploma constituirá receita própria da JNF.
 
 2 - O pagamento das taxas e demais encargos previstos no presente diploma será feito por meio de guias de depósito passadas pelos serviços centrais ou pelas delegações da JNF, as quais deverão ser liquidadas no prazo máximo de 5 dias a contar da respectiva data de emissão.
 
@@ -203,28 +225,28 @@ b) Quando o número de volumes do lote for inferior a 50, a percentagem de volum
 
 4 - As taxas não pagas no prazo determinado neste decreto-lei serão objecto de execução fiscal, sendo passíveis de juros de mora.
 
-###### Art. 13.º É revogada a [Portaria n.º 23986](https://diariodarepublica.pt/dr/detalhe/portaria/23986-1969-525034), de 27 de Março de 1969.
+Art. 13.º É revogada a [Portaria n.º 23986](https://diariodarepublica.pt/dr/detalhe/portaria/23986-1969-525034), de 27 de Março de 1969.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto - António d'Orey Capucho.
 
-**Promulgado em 21 de Março de 1984.**
+Promulgado em 21 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Março de 1984.**
+Referendado em 22 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 TABELA I
 
 Taxas de verificação comercial para os produtos sujeitos à disciplina da JNF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/04/07800/10961098.pdf))](https://files.diariodarepublica.pt/1s/1984/04/07800/10961098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/07800/10961098.pdf)
 
 TABELA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/04/07800/10961098.pdf))](https://files.diariodarepublica.pt/1s/1984/04/07800/10961098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/07800/10961098.pdf)
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1983, 4º Suplemento, Série I de 1983-12-31
   number: '301'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4172-(75) a 4172-(109)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/30104/00750109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1983-630668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ebe35452e03aa1416b79a246a0ce9779c28ecb53d7cd616b82cdfbc2111313e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff1708b212d98d562aec5b13994fde37ec42125996dde5cf04776e23a615080a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- GNR
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:197752:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620724:por
+  label: "Alterado o artigo 40.º do Estatuto do Oficial da Guarda Nacional Republicana, aprovado no presente diploma, pelo\
+    \ DEC LEI.200/89.22.06.1989.MAI, DR.IS [141] de 22.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1989-620724
+  date: '1989-06-22'
+- type: amended_by
+  target: pt:dre:304773:por
+  label: "Alterados os artigos 122.º e 124.º do Estatuto do Militar da Guarda Nacional Republicana, os artigos 15.º, 21.º,\
+    \ 23.º, 30.º, 40.º, 41.º, 42.º, 43.º, 44.º e 48.º do Estatuto do Sargento da Guarda Nacional Republicana, os artigos 11.º,\
+    \ 12.º, 13.º, 26.º e 27.º do Estatuto da Praça da mesma Guarda, e revogado o artigo 48.º do Estatuto do Oficial da Guarda\
+    \ Nacional Republicana, todos aprovados no presente diploma, pelo DEC LEI.329/91.05.09.1991.MAI, DR.IS-A [204] de 05.09.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1991-304773
+  date: '1991-09-05'
+- type: cites
+  target: pt:dre:180397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683631:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:347297:por
+  label: Rectificado pela DECL.DD2040.1984.02.29.PCM DR.IS [51]2ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-347297
+  date: '1984-02-29'
+- type: repealed_by
+  target: pt:dre:345093:por
+  label: "Revogado pelo DEC LEI.265/93.31.07.1993.MAI, DR.IS-A [178] de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1993-345093
+  date: '1993-07-31'
 article_structure:
-  article_count: 284
+  article_count: 283
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:15Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +169,13 @@ b) Este quadro far-se-á à custa do pessoal de complemento das Forças Armadas 
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovados o Estatuto do Militar da Guarda Nacional Republicana e, bem assim, os Estatutos do Oficial, do Sargento e da Praça da mesma Guarda, que fazem parte integrante deste diploma, tal como se seguem, com articulado e sistematização próprios.
+Artigo 1.º São aprovados o Estatuto do Militar da Guarda Nacional Republicana e, bem assim, os Estatutos do Oficial, do Sargento e da Praça da mesma Guarda, que fazem parte integrante deste diploma, tal como se seguem, com articulado e sistematização próprios.
 
-###### Art. 2.º São ressalvados os direitos adquiridos na vigência da lei anterior.
+Art. 2.º São ressalvados os direitos adquiridos na vigência da lei anterior.
 
-###### Art. 3.º Os estatutos aprovados por este diploma deverão ser revistos após a publicação dos Estatutos da Condição Militar e Geral Militar, se for caso disso, ou no prazo máximo de 5 anos.
+Art. 3.º Os estatutos aprovados por este diploma deverão ser revistos após a publicação dos Estatutos da Condição Militar e Geral Militar, se for caso disso, ou no prazo máximo de 5 anos.
 
-###### Art. 4.º São revogadas todas as disposições legais contrárias ao preceituado nos referidos estatutos, designadamente:
+Art. 4.º São revogadas todas as disposições legais contrárias ao preceituado nos referidos estatutos, designadamente:
 
 [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Setembro de 1944;
 
@@ -131,15 +195,15 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 19 de Dezembro de 1983.**
+Promulgado em 19 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Dezembro de 1983.**
+Referendado em 21 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Estatuto de Militar da Guarda Nacional Republicana
 
@@ -393,7 +457,7 @@ As funções próprias de cada quadro, posto e qualificação são as especifica
 
 2 - Consideram-se como funções essenciais aquelas cujo exercício é indispensável para a aquisição da necessária experiência profissional e a comprovação do mérito para acesso ao posto imediato.
 
-## Anexo ao capítulo III «Hierarquia o funções»
+Anexo ao capítulo III «Hierarquia o funções»
 
 Categorias, subcategorias e postos:
 
@@ -1405,7 +1469,7 @@ O recurso deve ser interposto no prazo de 30 dias a contar da data da notificaç
 
 Quando decorridos 45 dias sobre a apresentação da reclamação ou recurso hierárquico não seja obtida decisão, assiste ao reclamante ou recorrente o direito de recurso contencioso em condições análogas às da disposição do artigo anterior, contando-se o prazo de 30 dias para a interposição de recurso a partir do termo dos referidos 45 dias.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira.
 
 Estatuto do Oficial da Guarda Nacional Republicana
 
@@ -1883,7 +1947,7 @@ Enquanto não for possível ao Exército ministrar a segunda parte do curso de f
 
 Os sargentos da Guarda que à data da entrada em vigor do presente Estatuto e nos termos do [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, já estejam autorizados a frequentar a segunda parte do COM ou que a frequentam e venham a terminar com aproveitamento o estágio subsequente no corpo, assim como os que frequentam este, ingressam no quadro de oficiais da Guarda no posto de alferes, de acordo com o normativo então em vigor.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira.
 
 Estatuto do Sargento da Guarda Nacional Republicana
 
@@ -2305,7 +2369,7 @@ Aos segundos-sargentos habilitados com o 1.º, 2.º ou 3.º curso de formação 
 
 Enquanto não for possível pôr em funcionamento o curso de promoção a sargento-chefe, ficam os sargentos-ajudantes dispensados de satisfazer à primeira condição do artigo 16.º
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira.
 
 Estatuto da Praça da Guarda Nacional Republicana
 
@@ -2647,4 +2711,4 @@ Ter, no mínimo, o 4.º ano de escolaridade ou equivalente.
 
 2 - Os requerimentos previstos no número anterior deverão dar entrada no comando-geral, enviados pelas unidades, de 1 de Julho a 31 de Outubro de 1986.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira.

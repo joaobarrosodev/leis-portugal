@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/10500/14701472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1984-385041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 470ea4ad0d7ca9cac7917087ac9ecb687d45e3ca916543a2f745b43bda58c837
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64bda049a8926f2d628d6e81b768667b5bcefc39b12e0bdb6a5a32a52656d237
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cheias
+- Comércio
+- Contribuições e Impostos
+- Indústria
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:261928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:53Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +126,9 @@ Assim:
 
 No uso da autorização legislativa conferida pelo artigo 31.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos contribuintes residentes ou com sede nos concelhos de Alenquer, Amadora, Arruda dos Vinhos, Azambuja, Cascais, Lisboa, Loures, Mafra, Oeiras, Setúbal, Sintra, Sobral de Monte Agraço, Torres Vedras e Vila Franca de Xira ou que nesses concelhos possuam imóveis ou instalações comerciais ou industriais que tenham sido afectados pelas cheias ocorridas nos dias 19 e 20 de Novembro de 1983 poderão ser concedidos facilidades e benefícios fiscais, nos termos deste diploma.
+Artigo 1.º Aos contribuintes residentes ou com sede nos concelhos de Alenquer, Amadora, Arruda dos Vinhos, Azambuja, Cascais, Lisboa, Loures, Mafra, Oeiras, Setúbal, Sintra, Sobral de Monte Agraço, Torres Vedras e Vila Franca de Xira ou que nesses concelhos possuam imóveis ou instalações comerciais ou industriais que tenham sido afectados pelas cheias ocorridas nos dias 19 e 20 de Novembro de 1983 poderão ser concedidos facilidades e benefícios fiscais, nos termos deste diploma.
 
-###### Art. 2.º - 1 - Os contribuintes da contribuição industrial cujos estabelecimentos ou outros meios utilizados no exercício da respectiva actividade foram afectados pelas cheias poderão beneficiar:
+Art. 2.º - 1 - Os contribuintes da contribuição industrial cujos estabelecimentos ou outros meios utilizados no exercício da respectiva actividade foram afectados pelas cheias poderão beneficiar:
 
 a) Do pagamento da contribuição industrial relativa ao exercício de 1983 em 8 prestações trimestrais, vencendo-se a primeira no quarto mês imediato ao do termo do prazo em que a totalidade da contribuição ou a sua primeira prestação deveriam ser pagas à boca do cofre, de harmonia com as disposições do Código da Contribuição Industrial;
 
@@ -135,47 +158,47 @@ c) Não sendo paga qualquer das prestações no prazo do vencimento, começarão
 
 3 - No caso de contribuintes do grupo B a quem seja concedida a faculdade prevista na alínea a) do n.º 1 deste artigo e que à data da publicação deste diploma não tenham ainda pago a totalidade ou parte da contribuição relativa ao exercício de 1983 serão anulados os conhecimentos respectivos na parte que se encontre por pagar e processados outros para cobrança em prestações, nos termos dessa alínea.
 
-###### Art. 3.º Poderão ser prorrogados até 30 de Junho de 1984 os prazos fixados no § 3.º do artigo 44.º do Código da Contribuição Industrial e na alínea a) do n.º 3 do artigo 21.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, relativamente aos contribuintes a que se refere o artigo 2.º deste diploma.
+Art. 3.º Poderão ser prorrogados até 30 de Junho de 1984 os prazos fixados no § 3.º do artigo 44.º do Código da Contribuição Industrial e na alínea a) do n.º 3 do artigo 21.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, relativamente aos contribuintes a que se refere o artigo 2.º deste diploma.
 
-###### Art. 4.º O disposto na alínea a) do n.º 1 do artigo 2.º poderá ser aplicável ao pagamento da contribuição industrial porventura devida pelos contribuintes a que se refere o mesmo artigo, relativamente a exercícios anteriores ao de 1983, mas só debitada para cobrança a partir de 1 de Janeiro de 1984, vencendo-se, porém, a primeira prestação no quarto mês imediato ao do termo do prazo fixado para o pagamento eventual da contribuição.
+Art. 4.º O disposto na alínea a) do n.º 1 do artigo 2.º poderá ser aplicável ao pagamento da contribuição industrial porventura devida pelos contribuintes a que se refere o mesmo artigo, relativamente a exercícios anteriores ao de 1983, mas só debitada para cobrança a partir de 1 de Janeiro de 1984, vencendo-se, porém, a primeira prestação no quarto mês imediato ao do termo do prazo fixado para o pagamento eventual da contribuição.
 
-###### Art. 5.º - 1 - Na falta de apresentação da declaração modelo n.º 2, com autoliquidação, dentro do prazo fixado na alínea b) do n.º 1 do artigo 2.º, por parte dos contribuintes do grupo A que tenham requerido a prorrogação do prazo, a repartição de finanças promoverá a liquidação definitiva dessa contribuição com fixação da matéria colectável segundo as regras estabelecidas para o grupo B, sem prejuízo, porém, da aplicabilidade das demais regras estabelecidas para os contribuintes do grupo A.
+Art. 5.º - 1 - Na falta de apresentação da declaração modelo n.º 2, com autoliquidação, dentro do prazo fixado na alínea b) do n.º 1 do artigo 2.º, por parte dos contribuintes do grupo A que tenham requerido a prorrogação do prazo, a repartição de finanças promoverá a liquidação definitiva dessa contribuição com fixação da matéria colectável segundo as regras estabelecidas para o grupo B, sem prejuízo, porém, da aplicabilidade das demais regras estabelecidas para os contribuintes do grupo A.
 
 2 - Tratando-se de contribuintes dos grupos B e C abrangidos pela alínea a) do n.º 1 do artigo 2.º, os prazos estabelecidos no Código da Contribuição Industrial para a determinação da matéria colectável, para a liquidação e para a entrega dos conhecimentos ao tesoureiro consideram-se prorrogados por 4 meses.
 
-###### Art. 6.º - 1 - Relativamente aos contribuintes com créditos sobre empresas cujo património foi afectado pelas cheias a que se reporta este diploma e às quais tenham sido concedidos as facilidades ou os benefícios previstos nos artigos anteriores poderá ser aceite como custo, para efeitos fiscais, uma provisão até ao limite máximo de 50% desses créditos, desde que às respectivas declarações sejam juntos os elementos de prova respectivos.
+Art. 6.º - 1 - Relativamente aos contribuintes com créditos sobre empresas cujo património foi afectado pelas cheias a que se reporta este diploma e às quais tenham sido concedidos as facilidades ou os benefícios previstos nos artigos anteriores poderá ser aceite como custo, para efeitos fiscais, uma provisão até ao limite máximo de 50% desses créditos, desde que às respectivas declarações sejam juntos os elementos de prova respectivos.
 
 2 - Esta faculdade só poderá ser utilizada até ao exercício de 1984, inclusive.
 
-###### Art. 7.º - 1 - O imposto de transacções devido pelos contribuintes a que se refere o artigo 1.º deste diploma, relativamente às transacções efectuadas desde 1 de Agosto de 1983 até 30 de Setembro de 1984, inclusive, poderá ser entregue nos cofres do Estado nos 5 meses seguintes ao da sua realização.
+Art. 7.º - 1 - O imposto de transacções devido pelos contribuintes a que se refere o artigo 1.º deste diploma, relativamente às transacções efectuadas desde 1 de Agosto de 1983 até 30 de Setembro de 1984, inclusive, poderá ser entregue nos cofres do Estado nos 5 meses seguintes ao da sua realização.
 
 2 - Quanto às transacções realizadas posteriormente a 30 de Setembro de 1984 e até 30 de Setembro de 1985, inclusive, o imposto poderá ser entregue nos cofres do Estado nos 4 meses seguintes ao da sua realização.
 
-###### Art. 8.º Os produtores ou grossistas, registados ou sujeitos a registo, cujas existências sujeitas a imposto de transacções foram destruídas ou inutilizadas pelas cheias a que alude o artigo 1.º poderão ser autorizados a abater essas existências nos verbetes ou fichas de que trata o n.º 4 do artigo 75.º do Código do Imposto de Transacções, ou nos elementos que os substituam.
+Art. 8.º Os produtores ou grossistas, registados ou sujeitos a registo, cujas existências sujeitas a imposto de transacções foram destruídas ou inutilizadas pelas cheias a que alude o artigo 1.º poderão ser autorizados a abater essas existências nos verbetes ou fichas de que trata o n.º 4 do artigo 75.º do Código do Imposto de Transacções, ou nos elementos que os substituam.
 
-###### Art. 9.º Quando, simultaneamente com os elementos referidos no artigo 75.º do citado Código, se tenha verificado o desaparecimento ou inutilização das facturas ou elementos equivalentes com liquidação do imposto respeitaste a transacções efectuadas no período compreendido entre 1 de Agosto e 30 de Novembro de 1983 e não seja conhecido o montante do imposto a entregar nos cofres do Estado, deverão os contribuintes referidos no artigo anterior fornecer ao chefe da repartição de finanças, até ao fim do mês seguinte ao da publicação deste diploma, os elementos de que disponham, mesmo estimados, para efeitos do disposto na alínea b) do artigo 11.º do mesmo Código.
+Art. 9.º Quando, simultaneamente com os elementos referidos no artigo 75.º do citado Código, se tenha verificado o desaparecimento ou inutilização das facturas ou elementos equivalentes com liquidação do imposto respeitaste a transacções efectuadas no período compreendido entre 1 de Agosto e 30 de Novembro de 1983 e não seja conhecido o montante do imposto a entregar nos cofres do Estado, deverão os contribuintes referidos no artigo anterior fornecer ao chefe da repartição de finanças, até ao fim do mês seguinte ao da publicação deste diploma, os elementos de que disponham, mesmo estimados, para efeitos do disposto na alínea b) do artigo 11.º do mesmo Código.
 
-###### Art. 10.º - 1 - Os prazos fixados na lei para cumprimento de obrigações perante as repartições de finanças e tesourarias da Fazenda Pública, incluindo as de entrega de impostos autoliquidados ou retidos na fonte ou de outras receitas, não previstos especialmente nos artigos anteriores, iniciados a partir de 1 de Novembro de 1983 e que tenham já terminado ou venham a terminar até 30 de Junho de 1984, poderão ser prorrogados até esta última data.
+Art. 10.º - 1 - Os prazos fixados na lei para cumprimento de obrigações perante as repartições de finanças e tesourarias da Fazenda Pública, incluindo as de entrega de impostos autoliquidados ou retidos na fonte ou de outras receitas, não previstos especialmente nos artigos anteriores, iniciados a partir de 1 de Novembro de 1983 e que tenham já terminado ou venham a terminar até 30 de Junho de 1984, poderão ser prorrogados até esta última data.
 
 2 - Tratando-se de imposto do selo e de imposto de turismo, o valor tributável, na falta de elementos, motivada pelas cheias, para a sua determinação, será calculado pelo chefe da repartição de finanças nos termos do artigo 171.º-B do Regulamento do Imposto do Selo e dos artigos 6.º e seguintes do regulamento aprovado pelo [Decreto-Lei n.º 134/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1983-310428), de 19 de Março, respectivamente.
 
-###### Art. 11.º - 1 - Sem prejuízo do disposto nos artigos anteriores, poderão ser prorrogados até 30 de Junho de 1984 todos os prazos de cobrança à boca do cofre que, nos termos da legislação em vigor e relativamente aos contribuintes referidos no artigo 1.º, se iniciaram a partir de 1 de Novembro de 1983.
+Art. 11.º - 1 - Sem prejuízo do disposto nos artigos anteriores, poderão ser prorrogados até 30 de Junho de 1984 todos os prazos de cobrança à boca do cofre que, nos termos da legislação em vigor e relativamente aos contribuintes referidos no artigo 1.º, se iniciaram a partir de 1 de Novembro de 1983.
 
 2 - As contribuições e impostos cujo prazo de cobrança à boca de cofre tenha terminado antes de 1 de Novembro de 1983 e se encontrem na fase de cobrança coerciva poderão ser pagos pelos contribuintes a que se refere o artigo 1.º até 30 de Junho de 1984, sem imposição de juros de mora e de custas.
 
-###### Art. 12.º - 1 - Poderá ser concedida isenção de sisa relativa à aquisição de prédios ou suas fracções autónomas destinados a habitação ou à instalação de estabelecimentos que substituam outros que foram gravemente danificados ou destruídos pelas cheias a que se refere o artigo 1.º
+Art. 12.º - 1 - Poderá ser concedida isenção de sisa relativa à aquisição de prédios ou suas fracções autónomas destinados a habitação ou à instalação de estabelecimentos que substituam outros que foram gravemente danificados ou destruídos pelas cheias a que se refere o artigo 1.º
 
 2 - Aos prédios referidos no n.º 1 poderá ser concedida isenção de contribuição predial por um período de 5 anos a contar da data da licença de utilização, ou da data da ocupação, se esta for anterior.
 
-###### Art. 13.º Poderão ser prorrogados até 30 de Junho de 1984 os prazos em que os contribuintes abrangidos por este diploma podem ainda apresentar reclamações administrativas e graciosas, impugnações judiciais, recursos contenciosos e outras petições permitidas pela legislação fiscal e, bem assim, para a prática de actos processuais nos processos de reclamação administrativa e graciosa, de impugnação judicial ou de execução fiscal cujos prazos decorriam ou se iniciaram posteriormente a 19 de Novembro de 1983.
+Art. 13.º Poderão ser prorrogados até 30 de Junho de 1984 os prazos em que os contribuintes abrangidos por este diploma podem ainda apresentar reclamações administrativas e graciosas, impugnações judiciais, recursos contenciosos e outras petições permitidas pela legislação fiscal e, bem assim, para a prática de actos processuais nos processos de reclamação administrativa e graciosa, de impugnação judicial ou de execução fiscal cujos prazos decorriam ou se iniciaram posteriormente a 19 de Novembro de 1983.
 
-###### Art. 14.º - 1 - As repartições de finanças dos concelhos referidos no artigo 1.º eliminarão ou rectificarão, consoante os casos, as inscrições matriciais respeitantes aos prédios rústicos e urbanos que ficaram total ou parcialmente destruídos, em face de relações que, para o efeito, lhes serão remetidas pelas câmaras municipais.
+Art. 14.º - 1 - As repartições de finanças dos concelhos referidos no artigo 1.º eliminarão ou rectificarão, consoante os casos, as inscrições matriciais respeitantes aos prédios rústicos e urbanos que ficaram total ou parcialmente destruídos, em face de relações que, para o efeito, lhes serão remetidas pelas câmaras municipais.
 
 2 - Não será liquidada a contribuição predial do ano de 1983 com referência aos rendimentos colectáveis eliminados, total ou parcialmente, nos termos do número anterior.
 
-###### Art. 15.º Não serão incluídos no englobamento, para efeitos de imposto complementar, secções A e B, os rendimentos sujeitos a contribuição industrial relativa mente aos contribuintes e aos estabelecimentos referidos no artigo 1.º, bem como os rendimentos da contribuição predial não tributados, nos termos do n.º 2 do artigo 14.º
+Art. 15.º Não serão incluídos no englobamento, para efeitos de imposto complementar, secções A e B, os rendimentos sujeitos a contribuição industrial relativa mente aos contribuintes e aos estabelecimentos referidos no artigo 1.º, bem como os rendimentos da contribuição predial não tributados, nos termos do n.º 2 do artigo 14.º
 
-###### Art. 16.º - 1 - As facilidade e benefícios fiscais referidos neste diploma serão concedidos, mediante requerimento, pelo Ministro das Finanças e do Plano, que decidirá caso a caso a respectiva medida e condições.
+Art. 16.º - 1 - As facilidade e benefícios fiscais referidos neste diploma serão concedidos, mediante requerimento, pelo Ministro das Finanças e do Plano, que decidirá caso a caso a respectiva medida e condições.
 
 2 - Exceptuam-se do disposto no n.º 1 as facilidades indicadas nas alíneas a) e b) do n.º 1 do artigo 2.º e nos artigos 4.º, 7.º, 8.º e 10.º, que poderão ser concedidos, mediante requerimento, pelo chefe da respectiva repartição de finanças.
 
@@ -193,12 +216,12 @@ b) Sendo caso disso, relação discriminativa das existências perdidas ou danif
 
 Visto e aprovado em Conselho de Ministros de 5 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 24 de Abril de 1984.**
+Promulgado em 24 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Abril de 1984.**
+Referendado em 26 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

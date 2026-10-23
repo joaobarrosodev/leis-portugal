@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/24500/31963202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1986-222264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76e3f93ab4bbd08092fccf1eb6f65be45e044d8af8c6a5fd690122cc04997086
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b84f7a33d5e48b0fce8c197964569ffcd8e4177954ebae33337ae6532295143f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:115552673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564808:por
+  label: "Alterados os arts. 9.º, 11.º, 12.º, 21.º, 27.º, 30.º e revogados o n.º 4 do art. 3.º e os arts. 8.º, 10.º, 14.º,\
+    \ 15.º, 26.º, 28.º e 29.º pelo DEC LEI.373/90.27.11.1990.MOPTC, DR.IS [274] de 27.11.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1990-564808
+  date: '1990-11-27'
+- type: amended_by
+  target: pt:dre:190600:por
+  label: "Alterado o artigo 2.º, pelo DEC LEI.44/92.31.03.1992.MOPTC, DR.IS-A [76] de 31.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1992-190600
+  date: '1992-03-31'
+- type: amended_by
+  target: pt:dre:603214:por
+  label: "Alterados os arts. 1º, 2º (este último na redacção do Dec Lei 44/92, de 31-Mar) 3º, 4º, 5º, 6º, 13º, 16º, 19º, 23º,\
+    \ 27º (este último na redacção do Dec Lei 373/90, de 27-Nov) e 34º, revogada a al. b) do nº 2 do art. 4º, o nº2 do art.\
+    \ 6º, o art. 22º e os nºs. 2 e 3 do art. 34.º, pelo DEC LEI.77/2009.01.04.2009.MEI, DR.IS [64] de 01.04.2009, que o republica\
+    \ \0a \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2009-603214
+  date: '2009-04-01'
+- type: cites
+  target: pt:dre:158428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601720:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178993:por
+  label: Revogado a partir de 02.02.2013 pelo DEC LEI.181/2012.06.08.2012.MEE, DR.IS [151] de 06.08.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2012-178993
+  date: '2012-08-06'
 article_structure:
   article_count: 35
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:10Z'
   warnings: []
   errors: []
 ---
@@ -232,7 +273,7 @@ b) Quando tenham sofrido acidente que obrigue a interrupção prolongada da expl
 
 ###### Artigo 13.º — (Identificação exterior)
 
-**O Ministro das Obras Públicas, Transportes e Comunicações pode determinar, ouvidas as entidades interessadas do sector, que os veículos automóveis de aluguer sem condutor sejam assinalados por forma a garantir a sua fácil identificação exterior, se tal se vier a revelar indispensável à fiscalização adequada da indústria.**
+O Ministro das Obras Públicas, Transportes e Comunicações pode determinar, ouvidas as entidades interessadas do sector, que os veículos automóveis de aluguer sem condutor sejam assinalados por forma a garantir a sua fácil identificação exterior, se tal se vier a revelar indispensável à fiscalização adequada da indústria.
 
 ###### Artigo 14.º — (Suspensão e limitação do direito ao licenciamento)
 
@@ -456,12 +497,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Eurico Teixeira de Melo - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em Guimarães em 23 de Setembro de 1986.**
+Promulgado em Guimarães em 23 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Setembro de 1986.**
+Referendado em 30 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva

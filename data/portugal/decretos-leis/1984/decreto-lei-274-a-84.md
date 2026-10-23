@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 184/1984, 1º Suplemento, Série I de 1984-08-09
   number: '184'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2460-(2) a 2460-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/18401/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1984-650550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9475a4b8c3acf74e259ffb4c6dcd76dfea5d6e2d8313cb70e15c73b396d4fab1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 393fa74ac8642d3e7045949e38ff5c716fea38d6055b0b04c765a877461a108d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,31 @@ relationships:
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:265364:por
+  label: Rectificado pela DECL.DD5300.28.09.1984.PCM, DR.IS [234]Supl de 09.10.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-265364
+  date: '1984-09-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:13Z'
   warnings: []
   errors: []
 ---
@@ -96,33 +111,33 @@ Assim:
 
 No uso da autorização conferida pelo artigo 3.º, n.º 1, da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Ministro das Finanças e do Plano é autorizado, em nome e representação do Estado Português, a contrair um empréstimo no montante de 5000 milhões de ienes japoneses, representado por obrigações, a subscrever, sem oferta pública, por instituições financeiras japonesas, e a proceder à correspondente emissão de títulos.
+Artigo 1.º O Ministro das Finanças e do Plano é autorizado, em nome e representação do Estado Português, a contrair um empréstimo no montante de 5000 milhões de ienes japoneses, representado por obrigações, a subscrever, sem oferta pública, por instituições financeiras japonesas, e a proceder à correspondente emissão de títulos.
 
-###### Art. 2.º - 1 - Ao abrigo da autorização concedida pelo artigo anterior, o Ministro das Finanças e do Plano poderá celebrar, em nome e representação do Estado Português, contratos com as instituições financeiras japonesas junto das quais será colocada a emissão, regulando os termos e condições de compra e venda das obrigações por parte das referidas instituições, bem como os termos e condições em que as obrigações podem ser colocadas junto de outros investidores, um contrato com o Industrial Bank of Japan, Ltd., regulador dos termos em que por esta instituição bancária serão desempenhadas as funções de agente pagador, e um contrato com o Industrial Bank of Japan, Ltd., regulando os termos do desempenho por esta instituição bancária das funções de agente de registo dos títulos emitidos.
+Art. 2.º - 1 - Ao abrigo da autorização concedida pelo artigo anterior, o Ministro das Finanças e do Plano poderá celebrar, em nome e representação do Estado Português, contratos com as instituições financeiras japonesas junto das quais será colocada a emissão, regulando os termos e condições de compra e venda das obrigações por parte das referidas instituições, bem como os termos e condições em que as obrigações podem ser colocadas junto de outros investidores, um contrato com o Industrial Bank of Japan, Ltd., regulador dos termos em que por esta instituição bancária serão desempenhadas as funções de agente pagador, e um contrato com o Industrial Bank of Japan, Ltd., regulando os termos do desempenho por esta instituição bancária das funções de agente de registo dos títulos emitidos.
 
 2 - O Ministro das Finanças e do Plano poderá, em nome e representação do Estado Português, assinar os títulos representativos das obrigações e os respectivos cupões de juro, sendo permitida a substituição da assinatura por simples reprodução mecânica, e praticar todos os actos necessários para a realização da operação ou dela decorrentes.
 
-###### Art. 3.º As condições essenciais da operação referida no artigo 1.º são as constantes da ficha técnica publicada em anexo.
+Art. 3.º As condições essenciais da operação referida no artigo 1.º são as constantes da ficha técnica publicada em anexo.
 
-###### Art. 4.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
+Art. 4.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
 
-###### Art. 5.º O Ministro das Finanças e do Plano poderá delegar num dos Secretários de Estado do Ministério das Finanças e do Plano, ou em outra entidade, os poderes que lhe são conferidos pelo presente decreto-lei.
+Art. 5.º O Ministro das Finanças e do Plano poderá delegar num dos Secretários de Estado do Ministério das Finanças e do Plano, ou em outra entidade, os poderes que lhe são conferidos pelo presente decreto-lei.
 
-###### Art. 6.º O serviço do empréstimo é cometido à Direcção-Geral da Junta do Crédito Público.
+Art. 6.º O serviço do empréstimo é cometido à Direcção-Geral da Junta do Crédito Público.
 
-###### Art. 7.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Agosto de 1984. - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 8 de Agosto de 1984.**
+Promulgado em 8 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Agosto de 1984.**
+Referendado em 8 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Ficha técnica
 

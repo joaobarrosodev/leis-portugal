@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/20800/29222925.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1985-179050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a34bdc13642ac8d366d40b636bc7e1be63483ee9efb9d553b9b8d8a8a8607e79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9119c34a2172516b542e9ec4ae42790d9db072c3c622fa65fd1a269ac4bf4576
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperante
+- Estatuto
+- Palop
 relationships:
 - type: amended_by
   target: pt:dre:220751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:3334785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220751:por
+  label: "Revogado pela LEI.13/2004.14.04.2004.AR, DR.IS-A [88] de 14.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2004-220751
+  date: '2004-04-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:49Z'
   warnings: []
   errors: []
 ---
@@ -104,33 +136,33 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente decreto-lei estabelece as normas e define os princípios que regem a actuação do cooperante, integrantes do seu estatuto.
+Artigo 1.º O presente decreto-lei estabelece as normas e define os princípios que regem a actuação do cooperante, integrantes do seu estatuto.
 
-###### Art. 2.º - 1 - Cooperante, para os fins do presente diploma, é todo o cidadão português que, possuindo as qualificações adequadas reconhecidas no exercício da sua actividade, se obrigue, mediante contrato nos termos do n.º 1 do artigo 7.º, a prestar serviço no quadro das relações de cooperação, de acordo com o estipulado no artigo seguinte.
+Art. 2.º - 1 - Cooperante, para os fins do presente diploma, é todo o cidadão português que, possuindo as qualificações adequadas reconhecidas no exercício da sua actividade, se obrigue, mediante contrato nos termos do n.º 1 do artigo 7.º, a prestar serviço no quadro das relações de cooperação, de acordo com o estipulado no artigo seguinte.
 
 2 - Para os efeitos do número anterior, consideram-se como qualificações adequadas as que como tal forem definidas pelo Estado solicitante ou, na ausência de tal definição, as que forem exigidas em Portugal para o exercício das funções correspondentes às que o cooperante vier a realizar.
 
 3 - A aquisição da qualidade de cooperante está dependente de prévia autorização do Estado Português, através dos seus organismos competentes e mediante processo adequado e legalmente estabelecido.
 
-###### Art. 3.º - 1 - No âmbito das relações de cooperação entre o Estado Português e os países em desenvolvimento cabe àquele, através do Ministério dos Negócios Estrangeiros ou dos organismos que este designar, incentivar e promover a adesão e recrutamento de cooperantes qualificados, de entre os quais o Estado solicitante terá o direito de seleccionar aqueles cuja cooperação deseje.
+Art. 3.º - 1 - No âmbito das relações de cooperação entre o Estado Português e os países em desenvolvimento cabe àquele, através do Ministério dos Negócios Estrangeiros ou dos organismos que este designar, incentivar e promover a adesão e recrutamento de cooperantes qualificados, de entre os quais o Estado solicitante terá o direito de seleccionar aqueles cuja cooperação deseje.
 
 2 - Na sua acção de incentivar e promover a adesão e recrutamento de pessoal cooperante, as entidades portuguesas referidas no número anterior poderão solicitar a indicação de cooperantes a quaisquer entidades, recorrer à publicidade que entendam conveniente através dos órgãos de comunicação social e ainda aceitar a inscrição directa de candidatos a cooperantes que reúnam os requisitos exigidos para a prestação de cooperação.
 
 3 - A iniciativa que nos termos do n.º 1 é reconhecida ao Estado Português não impede que o Estado solicitante da cooperação individualize os cooperantes que deseja, sem prejuízo do disposto nos artigos seguintes.
 
-###### Art. 4.º O Estado Português, através das autoridades competentes, definirá os âmbitos, áreas, metodologias e demais aspectos integrantes do processo, meios e fins caracterizadores e prosseguidos no âmbito da cooperação de acordo com os princípios do interesse nacional, da reciprocidade de tratamento, dos benefícios mútuos e das demais normas e princípios vigentes na matéria e firmados na Comunidade Internacional.
+Art. 4.º O Estado Português, através das autoridades competentes, definirá os âmbitos, áreas, metodologias e demais aspectos integrantes do processo, meios e fins caracterizadores e prosseguidos no âmbito da cooperação de acordo com os princípios do interesse nacional, da reciprocidade de tratamento, dos benefícios mútuos e das demais normas e princípios vigentes na matéria e firmados na Comunidade Internacional.
 
-###### Art. 5.º - 1 - O disposto no presente diploma aplica-se à administração central, regional e local, bem como às empresas públicas e privadas.
+Art. 5.º - 1 - O disposto no presente diploma aplica-se à administração central, regional e local, bem como às empresas públicas e privadas.
 
 2 - A aplicação do disposto no presente decreto-lei a pessoas colectivas de natureza privada far-se-á mediante acordo celebrado entre a entidade promotora da cooperação e a entidade visada, sempre que o procedimento implique a cedência de um grupo de trabalhadores.
 
 3 - O acordo mencionado no número anterior poderá contemplar o todo ou apenas parte da matéria constante do presente diploma.
 
-###### Art. 6.º - 1 - As entidades promotoras da cooperação deverão requisitar os candidatos a cooperantes à respectiva entidade empregadora.
+Art. 6.º - 1 - As entidades promotoras da cooperação deverão requisitar os candidatos a cooperantes à respectiva entidade empregadora.
 
 2 - Nos casos de recrutamento individual e sem carácter sistemático, as entidades empregadoras poderão recusar a sua anuência, devendo a recusa ser fundamentada e comunicada à entidade promotora da cooperação no prazo máximo de 30 dias a contar da data do pedido da requisição, sob pena de se considerar tacitamente deferido.
 
-###### Art. 7.º - 1 - A prestação de serviço dos cooperantes portugueses será obrigatoriamente efectuada ao abrigo de contrato escrito, o qual poderá revestir as seguintes formas:
+Art. 7.º - 1 - A prestação de serviço dos cooperantes portugueses será obrigatoriamente efectuada ao abrigo de contrato escrito, o qual poderá revestir as seguintes formas:
 
 a) Contrato tripartido, em que outorgarão o cooperante, o Estado Português e o Estado solicitante;
 
@@ -184,11 +216,11 @@ r) Foro ou arbitragem convencionados.
 
 8 - Em casos excepcionais, devidamente fundamentados, poderá o Ministro dos Negócios Estrangeiros, ouvidos os organismos de tutela, determinar a equiparação a cooperante, para todos ou alguns dos efeitos previstos no presente diploma, de quem, ao abrigo de contratos diferentes dos mencionados no n.º 1, se encontre a prestar serviço a algum dos países objecto de cooperação, à data da entrada em vigor do presente diploma.
 
-###### Art. 8.º - 1 - O início da prestação de serviço de cooperante ao Estado solicitante é contado, no silêncio do contrato, desde a data do seu desembarque nesse Estado.
+Art. 8.º - 1 - O início da prestação de serviço de cooperante ao Estado solicitante é contado, no silêncio do contrato, desde a data do seu desembarque nesse Estado.
 
 2 - No caso de o cooperante já se encontrar a residir no território do Estado solicitante, considerar-se-á como início da prestação de serviço, no silêncio do contrato, a data da respectiva assinatura.
 
-###### Art. 9.º - 1 - Serão de conta do Estado Português as despesas de transportes e respectivas bagagens para o Estado solicitante, do cooperante e do agregado familiar, a partir do local da sua residência, quando o contrato for omisso sobre tal matéria ou se não determinar o contrário.
+Art. 9.º - 1 - Serão de conta do Estado Português as despesas de transportes e respectivas bagagens para o Estado solicitante, do cooperante e do agregado familiar, a partir do local da sua residência, quando o contrato for omisso sobre tal matéria ou se não determinar o contrário.
 
 2 - Desde a data da assinatura do contrato até à data da chegada ao Estado solicitante e em relação ao número de dias que mediar entre uma e outra, suportará o Estado Português, se de outro modo não dispuserem os acordos internacionais de cooperação aplicáveis, a responsabilidade do pagamento das importâncias a que o cooperante tenha direito pelo contrato, até ao limite de 3 dias.
 
@@ -196,15 +228,15 @@ r) Foro ou arbitragem convencionados.
 
 4 - O disposto nos números anteriores não é aplicável nos casos previstos na alínea b) do n.º 1 do artigo 7.º
 
-###### Art. 10.º - 1 - Para os contratos referidos na alínea a) do n.º 1 do artigo 7.º serão praticados pelo serviço competente do Ministério dos Negócios Estrangeiros os actos administrativos necessários para efeitos de cooperação, designadamente requisições, elaboração de contratos, abonos de passagens e outros.
+Art. 10.º - 1 - Para os contratos referidos na alínea a) do n.º 1 do artigo 7.º serão praticados pelo serviço competente do Ministério dos Negócios Estrangeiros os actos administrativos necessários para efeitos de cooperação, designadamente requisições, elaboração de contratos, abonos de passagens e outros.
 
 2 - Para os contratos referidos na alínea b) do n.º 1 do artigo 7.º, o competente serviço do Ministério dos Negócios Estrangeiros limitar-se-á a notificar as entidades patronais para efeitos da requisição.
 
-###### Art. 11.º - 1 - Competirá ao Ministério dos Negócios Estrangeiros, sempre que tal esteja previsto nos acordos ou contratos individuais de cooperação, o pagamento, em fracções mensais, do complemento de remuneração a que o cooperante tiver direito.
+Art. 11.º - 1 - Competirá ao Ministério dos Negócios Estrangeiros, sempre que tal esteja previsto nos acordos ou contratos individuais de cooperação, o pagamento, em fracções mensais, do complemento de remuneração a que o cooperante tiver direito.
 
 2 - O montante do complemento de remuneração a que se refere o número anterior será estabelecido por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Plano.
 
-###### Art. 12.º - 1 - Os cooperantes que não estejam abrangidos pela Caixa Geral de Aposentações serão inscritos, pelo período de vigência dos contratos de cooperação, no regime de pagamento voluntário de contribuições previsto nos artigos 124.º e seguintes do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com observância do disposto nos números seguintes.
+Art. 12.º - 1 - Os cooperantes que não estejam abrangidos pela Caixa Geral de Aposentações serão inscritos, pelo período de vigência dos contratos de cooperação, no regime de pagamento voluntário de contribuições previsto nos artigos 124.º e seguintes do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com observância do disposto nos números seguintes.
 
 2 - A inscrição é feita com dispensa de exame médico.
 
@@ -216,21 +248,21 @@ b) Relativamente aos não inscritos na Segurança Social ou que, à data do iní
 
 4 - Competirá ao Ministério dos Negócios Estrangeiros proceder às diligências necessárias à inscrição referida nos números anteriores, designadamente indicando a remuneração base de contribuição no caso da alínea b) do n.º 3, e pagar as respectivas contribuições se se verificar que tal encargo não é assumido, nos acordos ou contratos individuais de cooperação, por outrem e houver prévio assentimento da entidade promotora da cooperação expresso por escrito.
 
-###### Art. 13.º - 1 - Competirá ainda ao Ministério dos Negócios Estrangeiros o processamento, liquidação e pagamento dos descontos obrigatórios previstos na legislação em vigor, designadamente para aposentação, sobrevivência e invalidez, quando se tratar de cooperantes que sejam subscritores da Caixa Geral de Aposentação e nos termos dos acordos ou contratos individuais de cooperação, tais encargos sejam de conta do Estado Português.
+Art. 13.º - 1 - Competirá ainda ao Ministério dos Negócios Estrangeiros o processamento, liquidação e pagamento dos descontos obrigatórios previstos na legislação em vigor, designadamente para aposentação, sobrevivência e invalidez, quando se tratar de cooperantes que sejam subscritores da Caixa Geral de Aposentação e nos termos dos acordos ou contratos individuais de cooperação, tais encargos sejam de conta do Estado Português.
 
 2 - Os descontos a que se refere o número anterior terão como base de cálculo a remuneração que competir ao cargo de que o funcionário for titular à data da celebração do contrato de cooperação ou às funções efectivamente exercidas, quando se tratar de pessoal além do quadro.
 
-###### Art. 14.º Relativamente aos contratos referidos na alínea a) do n.º 1 do artigo 7.º, e para efeitos do disposto nos artigos 12.º e 13.º, os departamentos públicos onde prestem serviço os cooperantes indicarão ao Ministério dos Negócios Estrangeiros as contribuições ou descontos, o número de subscritor do cooperante e as respectivas instituições, e o mesmo farão os cooperantes particulares relativamente ao número de subscritor e organismo da Segurança Social para que contribuem.
+Art. 14.º Relativamente aos contratos referidos na alínea a) do n.º 1 do artigo 7.º, e para efeitos do disposto nos artigos 12.º e 13.º, os departamentos públicos onde prestem serviço os cooperantes indicarão ao Ministério dos Negócios Estrangeiros as contribuições ou descontos, o número de subscritor do cooperante e as respectivas instituições, e o mesmo farão os cooperantes particulares relativamente ao número de subscritor e organismo da Segurança Social para que contribuem.
 
-###### Art. 15.º - 1 - Relativamente aos contratos referidos na alínea a) do n.º 1 do artigo 7.º poderá ser concedido ao cooperante um subsídio de embarque reembolsável em 12 prestações mensais.
+Art. 15.º - 1 - Relativamente aos contratos referidos na alínea a) do n.º 1 do artigo 7.º poderá ser concedido ao cooperante um subsídio de embarque reembolsável em 12 prestações mensais.
 
 2 - O montante do subsídio será fixado por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Plano.
 
 3 - O adiantamento do subsídio a que se referem os números anteriores será efectuado pelos organismos do Ministério dos Negócios Estrangeiros na data da assinatura do contrato.
 
-###### Art. 16.º O Governo poderá vir a implementar acções de formação do pessoal inserido nos programas de cooperação, mediante a criação de esquemas organizativos próprios e adequados ou através da participação dos Estados solicitantes, tendo por objectivo uma correcta inserção do cooperante nas comunidades onde desenvolverá a sua actividade.
+Art. 16.º O Governo poderá vir a implementar acções de formação do pessoal inserido nos programas de cooperação, mediante a criação de esquemas organizativos próprios e adequados ou através da participação dos Estados solicitantes, tendo por objectivo uma correcta inserção do cooperante nas comunidades onde desenvolverá a sua actividade.
 
-###### Art. 17.º - 1 - É garantido ao cooperante funcionário público ou trabalhador efectivo de empresa pública ou privada o direito ao lugar de que é titular à data em que se vinculou à cooperação e enquanto durar o exercício das suas funções.
+Art. 17.º - 1 - É garantido ao cooperante funcionário público ou trabalhador efectivo de empresa pública ou privada o direito ao lugar de que é titular à data em que se vinculou à cooperação e enquanto durar o exercício das suas funções.
 
 2 - Ao pessoal dirigente vinculado à cooperação, nos termos do presente diploma, aplica-se o artigo 5.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
@@ -240,9 +272,9 @@ b) Relativamente aos não inscritos na Segurança Social ou que, à data do iní
 
 5 - Durante o tempo que durar o contrato do cooperante é garantido a este o direito de se candidatar a todo e qualquer concurso relativo à sua promoção no lugar do quadro de pessoal de origem ou noutro da Administração Pública, nos termos da legislação geral aplicável.
 
-###### Art. 18.º O cooperante que no decurso da vigência do seu contrato vier a ser abrangido pelo recrutamento para a prestação do serviço militar no nosso país poderá ver o tempo de duração do exercício de funções como cooperante contado como serviço cívico de interesse nacional, para efeitos de cumprimento dos deveres de serviço militar, mediante despacho conjunto dos Ministros da Defesa Nacional e dos Negócios Estrangeiros, a requerimento do interessado.
+Art. 18.º O cooperante que no decurso da vigência do seu contrato vier a ser abrangido pelo recrutamento para a prestação do serviço militar no nosso país poderá ver o tempo de duração do exercício de funções como cooperante contado como serviço cívico de interesse nacional, para efeitos de cumprimento dos deveres de serviço militar, mediante despacho conjunto dos Ministros da Defesa Nacional e dos Negócios Estrangeiros, a requerimento do interessado.
 
-###### Art. 19.º - 1 - Constituem deveres do cooperante para com o Estado Português os seguintes:
+Art. 19.º - 1 - Constituem deveres do cooperante para com o Estado Português os seguintes:
 
 a) Cumprir com diligência as obrigações contratuais que tiver assumido;
 
@@ -260,17 +292,17 @@ b) Actuar no sentido de não prejudicar a normal relação cultural e de coopera
 
 5 - É garantido ao cooperante acusado da prática de ilícitos disciplinares o direito à defesa, devendo o processo respeitar o princípio do contraditório.
 
-###### Art. 20.º A prestação de serviço em cooperação é equiparada a comissão de serviço público por tempo determinado, para efeitos do disposto na alínea b) do n.º 2 do artigo 1093.º do Código Civil.
+Art. 20.º A prestação de serviço em cooperação é equiparada a comissão de serviço público por tempo determinado, para efeitos do disposto na alínea b) do n.º 2 do artigo 1093.º do Código Civil.
 
-###### Art. 21.º São tornados extensivos aos cooperantes todos os benefícios e regalias que a lei portuguesa concede aos emigrantes.
+Art. 21.º São tornados extensivos aos cooperantes todos os benefícios e regalias que a lei portuguesa concede aos emigrantes.
 
-###### Art. 22.º - 1 - A renovação dos contratos individuais de cooperação será feita de harmonia com as regras para o efeito neles estipuladas ou com as estabelecidas nos acordos de cooperação aplicáveis.
+Art. 22.º - 1 - A renovação dos contratos individuais de cooperação será feita de harmonia com as regras para o efeito neles estipuladas ou com as estabelecidas nos acordos de cooperação aplicáveis.
 
 2 - Nos casos em que a renovação não seja automática, o respectivo instrumento será lavrado no Estado solicitante, ficando o Estado Português vinculado pela assinatura do embaixador ou de quem o substituir.
 
 3 - Em todos os casos em que pretender a renovação do seu contrato, o cooperante deverá, até 60 dias antes do final do prazo de vigência do respectivo contrato, avisar do facto o serviço a que estiver vinculado e a entidade empregadora portuguesa à qual estiver ligado, podendo ser recusada a anuência a que a renovação se verifique.
 
-###### Art. 23.º - 1 - O contrato de cooperação poderá ser rescindido por qualquer dos outorgantes com fundamento em justa causa, a qual deverá ser determinada com recurso ao conjunto de factos integradores do conceito previstos no contrato, além do disposto no artigo 20.º e da legislação aplicável por acordo dos outorgantes.
+Art. 23.º - 1 - O contrato de cooperação poderá ser rescindido por qualquer dos outorgantes com fundamento em justa causa, a qual deverá ser determinada com recurso ao conjunto de factos integradores do conceito previstos no contrato, além do disposto no artigo 20.º e da legislação aplicável por acordo dos outorgantes.
 
 2 - A rescisão do contrato sem justa causa por parte do cooperante ou com justa causa pela respectiva entidade empregadora no Estado solicitante determinará o reembolso pelo cooperante ao Estado Português das despesas que hajam sido efectuadas com a sua viagem e a de sua família, com o transporte das respectivas bagagens e com o subsídio previsto no artigo 15.º, na proporção do número de meses que faltarem para completar o período de duração normal do contrato.
 
@@ -278,24 +310,24 @@ b) Actuar no sentido de não prejudicar a normal relação cultural e de coopera
 
 4 - O disposto no n.º 2 não é aplicável nos casos em que a rescisão nos termos indicados naquele número ocorra em qualquer dos períodos de renovação do contrato.
 
-###### Art. 24.º Regressado a Portugal, o funcionário ou agente da Administração Pública apresentar-se-á no serviço competente do Ministério dos Negócios Estrangeiros, onde receberá guia para o organismo ou serviço de origem a fim de ocupar o lugar e exercer as funções a que tenha direito.
+Art. 24.º Regressado a Portugal, o funcionário ou agente da Administração Pública apresentar-se-á no serviço competente do Ministério dos Negócios Estrangeiros, onde receberá guia para o organismo ou serviço de origem a fim de ocupar o lugar e exercer as funções a que tenha direito.
 
-###### Art. 25.º - 1 - Todas as situações relacionadas com a gestão de pessoal docente e dependente do Ministério da Educação, desde que reguladas por legislação especial que colida com o disposto no presente diploma, serão objecto de portaria conjunta dos Ministros dos Negócios Estrangeiros e da Educação ou destes e do Ministro das Finanças e do Plano, caso se prevejam encargos financeiros.
+Art. 25.º - 1 - Todas as situações relacionadas com a gestão de pessoal docente e dependente do Ministério da Educação, desde que reguladas por legislação especial que colida com o disposto no presente diploma, serão objecto de portaria conjunta dos Ministros dos Negócios Estrangeiros e da Educação ou destes e do Ministro das Finanças e do Plano, caso se prevejam encargos financeiros.
 
 2 - Até à publicação da portaria referida no número anterior manter-se-á em vigor o disposto no [Despacho n.º 278/79](https://diariodarepublica.pt/dr/detalhe/despacho/278-1979-3334785), de 13 de Setembro.
 
-###### Art. 26.º É expressamente revogado o [Decreto-Lei n.º 180/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1976-507435), de 9 de Março.
+Art. 26.º É expressamente revogado o [Decreto-Lei n.º 180/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1976-507435), de 9 de Março.
 
-###### Art. 27.º O disposto no artigo 21.º apenas entrará em vigor quando concedida pela Assembleia da República a necessária autorização legislativa.
+Art. 27.º O disposto no artigo 21.º apenas entrará em vigor quando concedida pela Assembleia da República a necessária autorização legislativa.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 28 de Agosto de 1985.**
+Promulgado em 28 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Agosto de 1985.**
+Referendado em 30 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

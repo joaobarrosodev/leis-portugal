@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/26200/37853786.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1982-377144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a028e82f77cfe47deaae7f9f8817e4f0ddce7da9c50e692a0bdfa93b5490b7ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef1233157d92abfd39d3d0474a73c985911bc39d3946d0427128bb37d95129ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Guarda Fiscal
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:177446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:327822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607142:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177446:por
+  label: Revogado pelo DEC LEI.374/85.20.09.1985.MFP, DR.IS [217] de 20.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1985-177446
+  date: '1985-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:22Z'
   warnings: []
   errors: []
 ---
@@ -102,14 +121,14 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os segundos-sargentos da Guarda Fiscal habilitados com o curso de formação de sargentos, definido no [Decreto-Lei n.º 313/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1978-327822), de 27 de Outubro, realizado nos anos lectivos de 1980-1981 e 1981-1982, que à data da promoção a primeiro-sargento não satisfaçam a condição especial referente à habilitação literária - possuir o curso geral dos liceus ou curso legalmente equivalente - são, a título excepcional, dispensados desta condição, desde que façam prova de terem estado impossibilitados, por razões de serviço, de obter as habilitações exigidas pela alínea a) do artigo 15.º do [Decreto-Lei n.º 313/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1978-327822), de 27 de Outubro.
+Artigo 1.º Os segundos-sargentos da Guarda Fiscal habilitados com o curso de formação de sargentos, definido no [Decreto-Lei n.º 313/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1978-327822), de 27 de Outubro, realizado nos anos lectivos de 1980-1981 e 1981-1982, que à data da promoção a primeiro-sargento não satisfaçam a condição especial referente à habilitação literária - possuir o curso geral dos liceus ou curso legalmente equivalente - são, a título excepcional, dispensados desta condição, desde que façam prova de terem estado impossibilitados, por razões de serviço, de obter as habilitações exigidas pela alínea a) do artigo 15.º do [Decreto-Lei n.º 313/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1978-327822), de 27 de Outubro.
 
-###### Art. 2.º Não poderão os sargentos beneficiados por esta medida ser admitidos ao curso de promoção a sargento-ajudante sem possuírem o curso geral dos liceus ou curso legalmente equivalente.
+Art. 2.º Não poderão os sargentos beneficiados por esta medida ser admitidos ao curso de promoção a sargento-ajudante sem possuírem o curso geral dos liceus ou curso legalmente equivalente.
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Outubro de 1982.**
+Promulgado em 30 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

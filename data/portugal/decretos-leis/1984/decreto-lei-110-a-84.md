@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 79/1984, 1º Suplemento, Série I de 1984-04-03
   number: '79'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1132-(1) a 1132-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/07901/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1984-627864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8554222143a5db1341dae0220f4be7a98ad0de27c7726ffceeb672839f1601e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c85cc9020e76e21bf28ad5bb0bd7de2401e0d3f499f949a4d8d429f7e2c7a213
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,26 @@ relationships:
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:21Z'
   warnings: []
   errors: []
 ---
@@ -95,27 +105,27 @@ Assim:
 
 Usando da autorização legislativa concedida ao Governo pelo artigo 3.º, n.º 1, da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo da autorização concedida pelo n.º 1 do artigo 3.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Ministro das Finanças e do Plano é autorizado a celebrar, em nome e representação do Estado Português, um ou mais contratos de empréstimo com um consórcio bancário internacional até ao montante de 150 milhões de francos suíços.
+Artigo 1.º Ao abrigo da autorização concedida pelo n.º 1 do artigo 3.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Ministro das Finanças e do Plano é autorizado a celebrar, em nome e representação do Estado Português, um ou mais contratos de empréstimo com um consórcio bancário internacional até ao montante de 150 milhões de francos suíços.
 
-###### Art. 2.º As condições essenciais dos empréstimos referidos no artigo anterior são as constantes da ficha técnica publicada em anexo.
+Art. 2.º As condições essenciais dos empréstimos referidos no artigo anterior são as constantes da ficha técnica publicada em anexo.
 
-###### Art. 3.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou de outros empreendimentos especialmente reprodutivos.
+Art. 3.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou de outros empreendimentos especialmente reprodutivos.
 
-###### Art. 4.º O Ministro das Finanças e do Plano poderá delegar em qualquer dos secretários de Estado do Ministério ou em outra entidade a competência que lhe é conferida pelo artigo 1.º do presente decreto-lei.
+Art. 4.º O Ministro das Finanças e do Plano poderá delegar em qualquer dos secretários de Estado do Ministério ou em outra entidade a competência que lhe é conferida pelo artigo 1.º do presente decreto-lei.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 30 de Março de 1984.**
+Promulgado em 30 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Abril de 1984.**
+Referendado em 2 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Ficha técnica
 

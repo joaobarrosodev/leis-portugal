@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 245/1985, 1º Suplemento, Série I de 1985-10-24
   number: '245'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3528-(2) a 3528-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24501/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1985-141215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f79232817bd943413daf170fbaac7681e179fe6a97f68be22f78acb15086275
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdce08b207a12b893475f1dccd8a15116efcfb05597c82e1764f09a60ebe93fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Oftalmologia do DR GAMA Pinto
+- Quadro de Pessoal
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:668322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226837:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.251/86.26.05.1986.MF, DR.IS [120] de 26.05.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/251-1986-226837
+  date: '1986-05-26'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituiído o quadro de pessoal médico do Instituto de Oftalmologia do Dr. Gama Pinto pelo(a) Portaria n.º 413/91
+    - Diário da República n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668322:por
+  label: Revogado o presente diploma pelo(a) Decreto-Lei n.º 360/93 - Diário da República n.º 241/1993, Série I-A de 1993-10-14,
+    que manteve em vigor, transitoriamente, nos termos do disposto no n.º 2 do art. 36.º o quadro de pessoal anexo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1993-668322
+  date: '1993-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:14Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +146,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto de Oftalmologia do Dr. Gama Pinto, adiante designado por Instituto, é um estabelecimento anexo da Faculdade de Medicina da Universidade de Lisboa, com atribuições de ensino, investigação, assistência hospitalar e internamento na área da respectiva especialidade.
+Artigo 1.º O Instituto de Oftalmologia do Dr. Gama Pinto, adiante designado por Instituto, é um estabelecimento anexo da Faculdade de Medicina da Universidade de Lisboa, com atribuições de ensino, investigação, assistência hospitalar e internamento na área da respectiva especialidade.
 
-###### Art. 2.º - 1 - O quadro de pessoal do Instituto passa a ser o constante do mapa anexo a este diploma.
+Art. 2.º - 1 - O quadro de pessoal do Instituto passa a ser o constante do mapa anexo a este diploma.
 
 2 - O pessoal do Instituto é agrupado do seguinte modo:
 
@@ -123,9 +172,9 @@ c) Pessoal administrativo;
 
 V) Pessoal operário e auxiliar.
 
-###### Art. 3.º Um professor catedrático da disciplina de Oftalmologia da Faculdade de Medicina da Universidade de Lisboa exercerá o cargo de presidente do conselho directivo.
+Art. 3.º Um professor catedrático da disciplina de Oftalmologia da Faculdade de Medicina da Universidade de Lisboa exercerá o cargo de presidente do conselho directivo.
 
-###### Art. 4.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 4.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -143,7 +192,7 @@ a) No lugar de origem, quando à comissão não se seguir provimento definitivo;
 
 b) No lugar do quadro do Instituto em que vier a ser provido definitivamente.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto no artigo anterior, o recrutamento e selecção do pessoal do Instituto rege-se pelo preceituado na lei geral e nos números seguintes.
+Art. 5.º - 1 - Sem prejuízo do disposto no artigo anterior, o recrutamento e selecção do pessoal do Instituto rege-se pelo preceituado na lei geral e nos números seguintes.
 
 2 - O recrutamento para o lugar de chefe de repartição será efectuado de entre chefes de secção com, pelo menos, 3 anos de bem e efectivo serviço na categoria ou de entre diplomados com curso superior e experiência adequada.
 
@@ -171,7 +220,7 @@ b) No lugar do quadro do Instituto em que vier a ser provido definitivamente.
 
 14 - Os lugares de auxiliar de manutenção serão providos de acordo com as normas aplicáveis à carreira de auxiliar administrativo, nos termos da lei geral.
 
-###### Art. 6.º - 1 - A integração do pessoal em serviço no Instituto nos lugares do quadro constante do mapa anexo ao presente diploma far-se-á, sem prejuízo da lei geral, de acordo com as seguintes regras:
+Art. 6.º - 1 - A integração do pessoal em serviço no Instituto nos lugares do quadro constante do mapa anexo ao presente diploma far-se-á, sem prejuízo da lei geral, de acordo com as seguintes regras:
 
 a) Para a categoria idêntica à que o funcionário já possui;
 
@@ -179,11 +228,11 @@ b) Para a categoria correspondente às funções que o funcionário ou agente ac
 
 2 - Os actuais médicos especialistas pela Ordem dos Médicos ou habilitados com o grau de assistente hospitalar de oftalmologia contratados além do quadro pelo Instituto, ainda que para categorias da carreira técnica superior, e remunerados quer por verbas inscritas no Orçamento do Estado quer por receitas próprias serão providos em lugares de assistente hospitalar, desde que contem, pelo menos, 3 anos de bom e efectivo serviço prestado no Instituto.
 
-###### Art. 7.º O pessoal que à data da entrada em vigor do presente diploma não possua a escolaridade obrigatória, de acordo com a respectiva idade, transitará na categoria que actualmente detém, salvo quando haja extinção de categorias com integração noutras categorias e carreiras.
+Art. 7.º O pessoal que à data da entrada em vigor do presente diploma não possua a escolaridade obrigatória, de acordo com a respectiva idade, transitará na categoria que actualmente detém, salvo quando haja extinção de categorias com integração noutras categorias e carreiras.
 
-###### Art. 8.º Ao pessoal do quadro do Instituto serão directamente aplicáveis, com as devidas adaptações, todas as disposições legais que vierem a ser introduzidas no regime do pessoal dos serviços de saúde dependentes do Ministério da Saúde, sem necessidade da prévia extensão dos respectivos diplomas.
+Art. 8.º Ao pessoal do quadro do Instituto serão directamente aplicáveis, com as devidas adaptações, todas as disposições legais que vierem a ser introduzidas no regime do pessoal dos serviços de saúde dependentes do Ministério da Saúde, sem necessidade da prévia extensão dos respectivos diplomas.
 
-###### Art. 9.º - 1 - O Instituto é apoiado pela Repartição Administrativa, que desenvolve as suas actividades nos domínios do expediente e pessoal da contabilidade e economato.
+Art. 9.º - 1 - O Instituto é apoiado pela Repartição Administrativa, que desenvolve as suas actividades nos domínios do expediente e pessoal da contabilidade e economato.
 
 2 - A Repartição Administrativa compreende as secções de:
 
@@ -191,7 +240,7 @@ a) Expediente e pessoal;
 
 b) Contabilidade e economato.
 
-###### Art. 10.º - 1 - À secção de expediente e pessoal compete assegurar a realização das tarefas de expediente e arquivo do Instituto e:
+Art. 10.º - 1 - À secção de expediente e pessoal compete assegurar a realização das tarefas de expediente e arquivo do Instituto e:
 
 a) Organizar e movimentar os processos relativos ao recrutamento, selecção e provimento do pessoal;
 
@@ -217,26 +266,26 @@ f) Velar pela conservação e aproveitamento do material e instalações;
 
 g) Organizar e manter actualizado o inventário e cadastro dos bens do Instituto.
 
-###### Art. 11.º - 1 - Mediante protocolo a estabelecer com o Hospital de Santa Maria poderá funcionar no Instituto o internato complementar da especialidade de oftalmologia.
+Art. 11.º - 1 - Mediante protocolo a estabelecer com o Hospital de Santa Maria poderá funcionar no Instituto o internato complementar da especialidade de oftalmologia.
 
 2 - Os protocolos previstos no número anterior serão homologados por despacho conjunto dos Ministros da Educação e da Saúde.
 
-###### Art. 12.º Os encargos resultantes da execução deste diploma serão satisfeitos no corrente ano económico pelas disponibilidades das dotações inscritas para pessoal no orçamento do Instituto.
+Art. 12.º Os encargos resultantes da execução deste diploma serão satisfeitos no corrente ano económico pelas disponibilidades das dotações inscritas para pessoal no orçamento do Instituto.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - António Manuel Maldonado Gonelha.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa a que se refere o artigo 2.º do Decreto-Lei n.º 442/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24501/00020004.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24501/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24501/00020004.pdf)
 
 Nota. - A dotação das categorias na nova estrutura da carreira será efectuada no âmbito das portarias a emitir em execução do artigo 46.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.

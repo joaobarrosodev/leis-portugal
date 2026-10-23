@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21500/28442897.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,254 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b6c1721e8406b60a9538d31be6546551695797a81e3ee3fb80788e6d9070a10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a7d41183fc9646763c19d36fe6ffff043944a29a2abbac815fac2cac75116e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Justiça
+- Orgânica
+- Organização Judiciária
 relationships:
 - type: amended_by
   target: pt:dre:377295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377121:por
+  label: "Alterado o quadro de pessoal do Tribunal de Menores de Lisboa e do Porto e do Tribunal de Instrução Criminal de\
+    \ Lisboa e do Porto, constantes do anexo ao presente diploma, pela PORT.1055/82.13.11.1982.MJ, DR.IS [263] de 13.11.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1055-1982-377121
+  date: '1982-11-13'
+- type: amended_by
+  target: pt:dre:377475:por
+  label: "Aumentado o quadro de pessoal das secretarias judiciais dos tribunais judiciais de Setúbal, Castelo Branco, Coimbra,\
+    \ Vila REal, Odemira, Sintra, Cinfães, da Auditoria Administrativa de Lisboa e dos Tribunais de Instrução Criminal de\
+    \ Santo Tirso e reduzido o quadro de pessoal da Secretaria do Tribunal Judicial de Santo Tirso, constantes do anexo ao\
+    \ presente diploma, pelo PORT.1072/82.16.11.1982.MJ, DR.IS [265] de 16.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1072-1982-377475
+  date: '1982-11-16'
+- type: amended_by
+  target: pt:dre:377327:por
+  label: "Alterado o quadro de pessoal dos Tribunais de Albergaria-a-Velha, Cascais, Civilhã, Évora, Marinha Grande, Oliveira\
+    \ de Azeméis, Pòvoa de Varzim e do Tribunal de Trabalho de Braga, constantes do anexo ao presente diploma, pela PORT.1078/82.17.11.1982.MJ,\
+    \ DR.IS [266] de 17.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1078-1982-377327
+  date: '1982-11-17'
+- type: amended_by
+  target: pt:dre:377327:por
+  label: "Alterado o quadro de pessoal da secretaria do Tribunal da Relacção do Porto constante do Mapa I, e das secretarias\
+    \ do Tribunal Judicial de Alcobaça, Amarante, Aveiro, Covilhã (alterado pela Port 1078/82, de 17-Nov]), Felgueiras, Marco\
+    \ de Canaveses, Mirandela, Moura, Penafiel, Pombal e Santa Comba Dão constantes do Mapa III, deste diploma, pela PORT.1149/82.20.11.1982.MJ,\
+    \ DR.IS [287] de 14.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1078-1982-377327
+  date: '1982-11-20'
+- type: amended_by
+  target: pt:dre:379165:por
+  label: "Alterado o quadro de pessoal da secretaria do Tribunal da Relacção do Porto constante do Mapa I, e das secretarias\
+    \ do Tribunal Judicial de Alcobaça, Amarante, Aveiro, Covilhã (alterado pela Port 1078/82, de 17-Nov]), Felgueiras, Marco\
+    \ de Canaveses, Mirandela, Moura, Penafiel, Pombal e Santa Comba Dão constantes do Mapa III, deste diploma, pela PORT.1149/82.20.11.1982.MJ,\
+    \ DR.IS [287] de 14.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1149-1982-379165
+  date: '1982-11-20'
+- type: amended_by
+  target: pt:dre:379335:por
+  label: "Altera a composição da secretaria judicial do Tribunal do Trabalho de Braga constante do Mapa IV anexo ao presente\
+    \ diploma, alterado na Port 1078/82, de 17-Nov, pela PORT.1140/82.11.12.1982.MJ, DR.IS [285] de 11.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1140-1982-379335
+  date: '1982-12-11'
+- type: amended_by
+  target: pt:dre:444417:por
+  label: "Substituído o quadro de pessoal da Secretaria Judicial do Tribunal da comarca de Loures e aditados lugares ao quadro\
+    \ de pessoal da Secretaria Judicial do Tribunal da comarca de Torres Novas, constantes do anexo ao presente diploma, pela\
+    \ PORT.1062/83.27.12.1983.MJ, DR.IS [297] de 27.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1062-1983-444417
+  date: '1983-12-27'
+- type: amended_by
+  target: pt:dre:661729:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.185/84.1984.03.29.MJ DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/185-1984-661729
+  date: '1984-03-29'
+- type: amended_by
+  target: pt:dre:386672:por
+  label: "Alterada a composição constante do presente diploma,pela PORT.382/84.16.06.1984.MJ, DR.IS [139] de 16.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-1984-386672
+  date: '1984-06-16'
+- type: amended_by
+  target: pt:dre:382410:por
+  label: "Substituido o quadro de pessoal do Tribunal de Penafiel, aprovado pelo presente diploma, na redacção da Port 185/84,\
+    \ de 29-Mar, pela PORT.594/84.11.08.1984.MJ, DR.IS [186] de 11.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/594-1984-382410
+  date: '1984-08-11'
+- type: amended_by
+  target: pt:dre:373646:por
+  label: "Alterado o quadro de pessoal da Secretaria do Tribunal de Competência Genérica de Marco de Canaveses, aprovado pelo\
+    \ presente diploma, pela PORT.656/84.30.08.1984.MJ, DR.IS [201] de 30.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/656-1984-373646
+  date: '1984-08-30'
+- type: amended_by
+  target: pt:dre:399995:por
+  label: "Alargado o quadro de pessoal da Secretaria Judicial do Tribunal de Almada, aprovado pelo presente diploma, pela\
+    \ PORT.798/84.12.10.1984.MJ, DR.IS [237] de 12.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/798-1984-399995
+  date: '1984-10-12'
+- type: amended_by
+  target: pt:dre:400419:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.852/84.06.11.1984.MJ, DR.IS [257] de 06.11.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/852-1984-400419
+  date: '1984-11-06'
+- type: amended_by
+  target: pt:dre:401368:por
+  label: "Alterados os quadros de pessoal das secretarias judiciais dos Tribunais de Alcobaça, Bragança, Coimbra, Fafe, Tomar,\
+    \ e Vila da Feira, bem como os das secretarias judiciais dos Tribunais de Instrução Criminal de Bragança e de Portalegre,\
+    \ aprovados e publicados pelo presente diploma, pela PORT.905/84.12.12.1984.MJ, DR.IS [286] de 12.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/905-1984-401368
+  date: '1984-12-12'
+- type: amended_by
+  target: pt:dre:182807:por
+  label: "Alterado o quadro de pessoal da secretaria judicial do tribunal de competência genérica de Setúbal, aprovado pelo\
+    \ presente diploma, pela PORT.458/85.13.07.1985.MJ, DR.IS [159] de 13.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-1985-182807
+  date: '1985-07-13'
+- type: amended_by
+  target: pt:dre:180190:por
+  label: "Alterados os artigos 16.º, 42.º, 50.º, 99.º, 100.º, 101.º, 102.º, 104.º, 105.º, 106.º, 108.º, 110.º, 111.º, 112.º,\
+    \ 113.º, 114.º, 115.º, 121.º, 125.º, 127.º, 130.º, 141.º, 143.º, 144.º, 145.º, 146.º, 148.º e 149.º, e aditados os artigos\
+    \ 77.º-A, 102.º-A, 106.º-A, 126.º-A, 144.º-A e 144.º-B, pelo DEC LEI.320/85.05.08.1985.MJ, DR.IS [178] de 05.08.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1985-180190
+  date: '1985-08-05'
+- type: amended_by
+  target: pt:dre:176759:por
+  label: "Aumentados os quadros de pessoal das secretarias dos tribunais de competência genérica de Albufeira e de Felgueiras,\
+    \ aprovados pelo presente diploma, pela PORT.720/85.24.09.1985.MJ, DR.IS [220] de 24.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-1985-176759
+  date: '1985-09-24'
+- type: amended_by
+  target: pt:dre:171905:por
+  label: "Aditados lugares aos quadros de pessoal do Tribunal de Competência Genérica de Oeiras e do Tribunal da Relação do\
+    \ Porto, pelo presente diploma, pela PORT.858/85.14.11.1985.MJ, DR.IS [262] de 14.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/858-1985-171905
+  date: '1985-11-14'
+- type: amended_by
+  target: pt:dre:196884:por
+  label: "Alterado o quadro de pessoal pela PORT.93/86.1986.03.20.MJ, DR.IS [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/93-1986-196884
+  date: '1986-03-20'
+- type: amended_by
+  target: pt:dre:228609:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral Comum do Tribunais de Lisboa, aprovado pelo presente diploma, na\
+    \ redacção da Port 93/86, de 20-Mar, pela PORT.332/86.01.07.1986.MJ, DR.IS [148] de 01.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-1986-228609
+  date: '1986-07-01'
+- type: amended_by
+  target: pt:dre:220102:por
+  label: "Alterados os artigos 9.º, 46.º, 102.º-A, 116.º, 123.º, 126.º - A, 127.º, 130.º, 132.º, 142.º, 144.º, 148.º, e 149.º,\
+    \ aditado o artigo 99.º-A e revogado o artigo 87.º, pelo DEC LEI.265/86.03.09.1986.MJ, DR.IS [202] de 03.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1986-220102
+  date: '1986-09-03'
+- type: amended_by
+  target: pt:dre:222209:por
+  label: "Aumentado o quadro de pessoal da Secretaria Judicial do Tribunal de Competência Genérica de Olhão, aprovado pelo\
+    \ presente diploma, pela PORT.620/86.24.10.1986.MJ, DR.IS [246] de 24.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/620-1986-222209
+  date: '1986-10-24'
+- type: amended_by
+  target: pt:dre:222225:por
+  label: "Aumentado os quadros de pessoal dos Tribunais de Competência Genérica de Caminha e de Penafiel, pela PORT.630/86.27.10.1986.MJ,\
+    \ DR.IS [248] de 27.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/630-1986-222225
+  date: '1986-10-27'
+- type: amended_by
+  target: pt:dre:666119:por
+  label: Alterado o quadro de pessoal pelo(a) Port 316/87 - Diário da República n.º 89/1987, Série I de 1987-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1987-666119
+  date: '1987-04-16'
+- type: amended_by
+  target: pt:dre:421403:por
+  label: "Alterado o quadro de pessoal pela PORT.435/87.1987.05.25.MJ, DR.IS [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/435-1987-421403
+  date: '1987-05-25'
+- type: amended_by
+  target: pt:dre:420045:por
+  label: "Alterado o quadro de pessoal da Secretaria Judicial do Tribunal de Competência Genérica de Vila Real de Santo António\
+    \ constante do mapa III deste diploma, pela PORT.586/87.09.07.1987.MJ, DR.IS [155] de 09.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/586-1987-420045
+  date: '1987-07-09'
+- type: amended_by
+  target: pt:dre:420434:por
+  label: "Alterado o quadro de pessoal da Secretaria Judicial do Tribunal de Competência Genérica de Silves constante do mapa\
+    \ III, pela PORT.605/87.15.07.1987.MJ, DR.IS [160] de 15.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/605-1987-420434
+  date: '1987-07-15'
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679018:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:379773:por
+  label: Rectificado pela DECL.DD5940.15.11.1982.PCM, DR.IS [276] de 29.11.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-379773
+  date: '1982-11-15'
+- type: repealed_by
+  target: pt:dre:650730:por
+  label: "Revogado pelo DEC LEI.376/87.11.12.1987.MJ, DR.IS [284]Supl de 11.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1987-650730
+  date: '1987-12-11'
 article_structure:
   article_count: 3
-  section_count: 335
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 31
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:01Z'
   warnings: []
   errors: []
 ---
@@ -1554,11 +1768,11 @@ Ficam revogados o [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/deta
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 1 de Setembro de 1982.**
+Promulgado em 1 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabela a que se refere o artigo 83.º
 
@@ -1630,7 +1844,7 @@ Supremo Tribunal de Justiça
 
 Secretaria Judicial:
 
-#### Secção de Expediente e Contabilidade e 4 secções de processos.
+Secção de Expediente e Contabilidade e 4 secções de processos.
 
 Pessoal:
 
@@ -1900,7 +2114,7 @@ Tribunal cível
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos em cada juízo.
+Secção central e 3 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -1936,7 +2150,7 @@ Juízos criminais
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos em cada juízo.
+Secção central e 2 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -1962,7 +2176,7 @@ Juízos correccionais
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos em cada juízo.
+Secção central e 2 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -1994,7 +2208,7 @@ Juízos de polícia
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -2020,7 +2234,7 @@ Tribunal de instrução criminal
 
 Secretaria Judicial:
 
-#### Secção central e 7 secções de processos.
+Secção central e 7 secções de processos.
 
 Pessoal:
 
@@ -2048,7 +2262,7 @@ Tribunal de família
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos em cada juízo.
+Secção central e 3 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2078,7 +2292,7 @@ Tribunal de menores
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -2106,7 +2320,7 @@ Tribunal do trabalho
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos em cada juizo.
+Secção central e 2 secções de processos em cada juizo.
 
 Pessoal:
 
@@ -2140,7 +2354,7 @@ Tribunal de execução das penas
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos em cada juízo.
+Secção central e 3 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2206,7 +2420,7 @@ Tribunal cível
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos em cada juízo.
+Secção central e 3 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2234,7 +2448,7 @@ Juízos criminais
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos em cada juízo.
+Secção central e 2 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2258,7 +2472,7 @@ Juízos correccionais
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos em cada juízo.
+Secção central e 2 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2290,7 +2504,7 @@ Juízos de polícia
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -2314,7 +2528,7 @@ Tribunal de instrução criminal
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -2340,7 +2554,7 @@ Tribunal de menores
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -2364,7 +2578,7 @@ Tribunal de família
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -2396,7 +2610,7 @@ Tribunal do trabalho
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos em cada juízo.
+Secção central e 2 secções de processos em cada juízo.
 
 Pessoal:
 
@@ -2426,7 +2640,7 @@ Tribunal de execução das penas
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -2454,7 +2668,7 @@ Tribunal de Abrantes
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -2484,7 +2698,7 @@ Tribunal de Águeda
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -2514,7 +2728,7 @@ Tribunal de Albergaria-a-Velha
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -2542,7 +2756,7 @@ Tribunal de Albufeira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2568,7 +2782,7 @@ Tribunal de Alcácer do Sal
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2594,7 +2808,7 @@ Tribunal de Alcanena
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2618,7 +2832,7 @@ Tribunal de Alcobaça
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -2646,7 +2860,7 @@ Tribunal de Alenquer
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -2670,7 +2884,7 @@ Tribunal de Alfândega da Fé
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2688,7 +2902,7 @@ Tribunal de Alijó
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2712,7 +2926,7 @@ Tribunal de Almada
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -2744,7 +2958,7 @@ Tribunal de Almeida
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2766,7 +2980,7 @@ Tribunal de Almodôvar
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2784,7 +2998,7 @@ Tribunal de Alvaiázere
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2802,7 +3016,7 @@ Tribunal de Amarante
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -2828,7 +3042,7 @@ Tribunal de Amares
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2854,7 +3068,7 @@ Tribunal de Anadia
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -2882,7 +3096,7 @@ Tribunal de Angra do Heroísmo
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -2908,7 +3122,7 @@ Tribunal de Ansião
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -2932,7 +3146,7 @@ Tribunal de Arcos de Valdevez
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -2958,7 +3172,7 @@ Tribunal de Arganil
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -2986,7 +3200,7 @@ Tribunal de Armamar
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3010,7 +3224,7 @@ Tribunal de Arouca
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -3036,7 +3250,7 @@ Tribunal de Arraiolos
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3058,7 +3272,7 @@ Tribunal de Aveiro
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -3092,7 +3306,7 @@ Tribunal de Avis
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3110,7 +3324,7 @@ Tribunal de Baião
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3134,7 +3348,7 @@ Tribunal de Barcelos
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -3164,7 +3378,7 @@ Tribunal do Barreiro
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -3194,7 +3408,7 @@ Tribunal de Beja
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -3224,7 +3438,7 @@ Tribunal de Benavente
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -3252,7 +3466,7 @@ Tribunal de Boticas
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3274,7 +3488,7 @@ Tribunal de Braga
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -3306,7 +3520,7 @@ Tribunal de Bragança
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -3336,7 +3550,7 @@ Tribunal de Cabeceiras de Basto
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -3360,7 +3574,7 @@ Tribunal das Caldas da Rainha
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -3394,7 +3608,7 @@ Tribunal de Caminha
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -3420,7 +3634,7 @@ Tribunal de Cantanhede
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -3444,7 +3658,7 @@ Tribunal de Carrazeda de Ansiães
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3466,7 +3680,7 @@ Tribunal do Cartaxo
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -3492,7 +3706,7 @@ Tribunal de Cascais
 
 Secretaria Judicial:
 
-#### Secção central e 8 secções de processos.
+Secção central e 8 secções de processos.
 
 Pessoal:
 
@@ -3524,7 +3738,7 @@ Tribunal de Castelo Branco
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -3558,7 +3772,7 @@ Tribunal de Castelo de Paiva
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3582,7 +3796,7 @@ Tribunal de Castelo de Vide
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3600,7 +3814,7 @@ Tribunal de Castro Daire
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3626,7 +3840,7 @@ Tribunal de Celorico da Beira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3652,7 +3866,7 @@ Tribunal de Celorico de Basto
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3678,7 +3892,7 @@ Tribunal de Chaves
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -3708,7 +3922,7 @@ Tribunal de Cinfães
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3732,7 +3946,7 @@ Tribunal de Coimbra
 
 Secretaria Judicial:
 
-#### Secção central e 8 secções de processos.
+Secção central e 8 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -3766,7 +3980,7 @@ Tribunal de Condeixa-a-Nova
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3788,7 +4002,7 @@ Tribunal de Coruche
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -3814,7 +4028,7 @@ Tribunal da Covilhã
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -3844,7 +4058,7 @@ Tribunal de Cuba
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3862,7 +4076,7 @@ Tribunal de Elvas
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -3890,7 +4104,7 @@ Tribunal de Espinho
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -3920,7 +4134,7 @@ Tribunal de Esposende
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -3948,7 +4162,7 @@ Tribunal de Estarreja
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -3974,7 +4188,7 @@ Tribunal de Estremoz
 
 Secretaria Judicial.
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4000,7 +4214,7 @@ Tribunal de Évora
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -4030,7 +4244,7 @@ Tribunal de Fafe
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4058,7 +4272,7 @@ Tribunal de Faro
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -4090,7 +4304,7 @@ Tribunal de Felgueiras
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4114,7 +4328,7 @@ Tribunal de Ferreira do Alentejo
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4136,7 +4350,7 @@ Tribunal de Ferreira do Zêzere
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4158,7 +4372,7 @@ Tribunal da Figueira da Foz
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -4190,7 +4404,7 @@ Tribunal de Figueira de Castelo Rodrigo
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -4212,7 +4426,7 @@ Tribunal de Figueiró dos Vinhos
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4238,7 +4452,7 @@ Tribunal de Fornos de Algodres
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4256,7 +4470,7 @@ Tribunal de Fronteira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -4278,7 +4492,7 @@ Tribunal do Funchal
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -4310,7 +4524,7 @@ Tribunal do Fundão
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4334,7 +4548,7 @@ Tribunal da Golegã
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4362,7 +4576,7 @@ Tribunal de Gouveia
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4388,7 +4602,7 @@ Tribunal de Grândola
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4414,7 +4628,7 @@ Tribunal da Guarda
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4446,7 +4660,7 @@ Tribunal de Guimarães
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -4478,7 +4692,7 @@ Tribunal da Horta
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4502,7 +4716,7 @@ Tribunal de Idanha-a-Nova
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4526,7 +4740,7 @@ Tribunal da Ilha das Flores
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4544,7 +4758,7 @@ Tribunal da Ilha Graciosa
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4562,7 +4776,7 @@ Tribunal da Ilha do Pico
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -4588,7 +4802,7 @@ Tribunal da Ilha de Santa Maria
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4606,7 +4820,7 @@ Tribunal da Ilha de S. Jorge
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4624,7 +4838,7 @@ Tribunal de Lagos
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4650,7 +4864,7 @@ Tribunal de Lamego
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -4680,7 +4894,7 @@ Tribunal de Leiria
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -4712,7 +4926,7 @@ Tribunal de Loulé
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -4738,7 +4952,7 @@ Tribunal de Loures
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -4768,7 +4982,7 @@ Tribunal da Lourinhã
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -4796,7 +5010,7 @@ Tribunal da Lousã
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4820,7 +5034,7 @@ Tribunal de Lousada
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4844,7 +5058,7 @@ Tribunal de Mação
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4862,7 +5076,7 @@ Tribunal de Macedo de Cavaleiros
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -4886,7 +5100,7 @@ Tribunal de Mafra
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4912,7 +5126,7 @@ Tribunal de Mangualde
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -4940,7 +5154,7 @@ Tribunal de Marco de Canavezes
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -4968,7 +5182,7 @@ Tribunal da Marinha Grande
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -4994,7 +5208,7 @@ Tribunal de Matosinhos
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -5024,7 +5238,7 @@ Tribunal de Meda
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -5048,7 +5262,7 @@ Tribunal de Melgaço
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5072,7 +5286,7 @@ Tribunal de Mértola
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5090,7 +5304,7 @@ Tribunal de Mesão Frio
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5108,7 +5322,7 @@ Tribunal de Miranda do Douro
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5132,7 +5346,7 @@ Tribunal de Mirandela
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5156,7 +5370,7 @@ Tribunal de Mogadouro
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5182,7 +5396,7 @@ Tribunal de Moimenta da Beira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -5210,7 +5424,7 @@ Tribunal da Moita
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -5236,7 +5450,7 @@ Tribunal de Monção
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -5262,7 +5476,7 @@ Tribunal de Monchique
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5280,7 +5494,7 @@ Tribunal de Moncorvo
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5304,7 +5518,7 @@ Tribunal de Mondim de Basto
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5326,7 +5540,7 @@ Tribunal de Montalegre
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -5352,7 +5566,7 @@ Tribunal de Montemor-o-Novo
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5378,7 +5592,7 @@ Tribunal de Montemor-o-Velho
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5402,7 +5616,7 @@ Tribunal do Montijo
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -5432,7 +5646,7 @@ Tribunal de Moura
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5454,7 +5668,7 @@ Tribunal de Murça
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5476,7 +5690,7 @@ Tribunal de Nisa
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5498,7 +5712,7 @@ Tribunal de Nordeste
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5516,7 +5730,7 @@ Tribunal de Odemira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5542,7 +5756,7 @@ Tribunal de Oeiras
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -5572,7 +5786,7 @@ Tribunal de Oleiros
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5590,7 +5804,7 @@ Tribunal de Olhão
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -5616,7 +5830,7 @@ Tribunal de Oliveira de Azeméis
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -5648,7 +5862,7 @@ Tribunal de Oliveira de Frades
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -5672,7 +5886,7 @@ Tribunal de Oliveira do Hospital
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5696,7 +5910,7 @@ Tribunal de Ourique
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5720,7 +5934,7 @@ Tribunal de Ovar
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -5750,7 +5964,7 @@ Tribunal de Paços de Ferreira
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -5776,7 +5990,7 @@ Tribunal de Pampilhosa da Serra
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5794,7 +6008,7 @@ Tribunal de Paredes
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5820,7 +6034,7 @@ Tribunal de Paredes de Coura
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5838,7 +6052,7 @@ Tribunal de Penacova
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -5864,7 +6078,7 @@ Tribunal de Penafiel
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -5892,7 +6106,7 @@ Tribunal de Penamacor
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5910,7 +6124,7 @@ Tribunal de Penela
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5928,7 +6142,7 @@ Tribunal de Peniche
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -5952,7 +6166,7 @@ Tribunal de Peso da Régua
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -5980,7 +6194,7 @@ Tribunal de Pinhel
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6006,7 +6220,7 @@ Tribunal de Pombal
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6034,7 +6248,7 @@ Tribunal de Ponta Delgada
 
 Secretaria Judicial:
 
-#### Secção central e 4 Secções de processos.
+Secção central e 4 Secções de processos.
 
 Pessoal:
 
@@ -6068,7 +6282,7 @@ Tribunal de Ponta do Sol
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6092,7 +6306,7 @@ Tribunal de Ponte da Barca
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6114,7 +6328,7 @@ Tribunal de Ponte de Lima
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6138,7 +6352,7 @@ Tribunal de Ponte de Sôr
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6162,7 +6376,7 @@ Tribunal de Portalegre
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6194,7 +6408,7 @@ Tribunal de Portel
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6212,7 +6426,7 @@ Tribunal de Portimão
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6242,7 +6456,7 @@ Tribunal de Porto de Mós
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6268,7 +6482,7 @@ Tribunal de Porto Santo
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6286,7 +6500,7 @@ Tribunal de Povoação
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6304,7 +6518,7 @@ Tribunal de Póvoa de Lanhoso
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -6330,7 +6544,7 @@ Tribunal da Póvoa de Varzim
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -6360,7 +6574,7 @@ Tribunal de Redondo
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6378,7 +6592,7 @@ Tribunal de Reguengos de Monsaraz
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6400,7 +6614,7 @@ Tribunal de Resende
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6424,7 +6638,7 @@ Tribunal de Ribeira Grande
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -6448,7 +6662,7 @@ Tribunal de Rio Maior
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -6472,7 +6686,7 @@ Tribunal de Sabrosa
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6490,7 +6704,7 @@ Tribunal do Sabugal
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -6518,7 +6732,7 @@ Tribunal de Santa Comba Dão
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6546,7 +6760,7 @@ Tribunal de Santa Cruz
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6572,7 +6786,7 @@ Tribunal de Santarém
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -6606,7 +6820,7 @@ Tribunal de Santiago do Cacém
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6634,7 +6848,7 @@ Tribunal de Santo Tirso
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -6668,7 +6882,7 @@ Tribunal de São João da Madeira
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6694,7 +6908,7 @@ Tribunal de São João da Pesqueira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6714,7 +6928,7 @@ Tribunal de São Pedro do Sul
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6740,7 +6954,7 @@ Tribunal de São Vicente
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6762,7 +6976,7 @@ Tribunal de Sátão
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6784,7 +6998,7 @@ Tribunal de Seia
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6808,7 +7022,7 @@ Tribunal do Seixal
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6836,7 +7050,7 @@ Tribunal de Serpa
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -6858,7 +7072,7 @@ Tribunal da Sertã
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6882,7 +7096,7 @@ Tribunal de Sesimbra
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -6906,7 +7120,7 @@ Tribunal de Setúbal
 
 Secretaria Judicial:
 
-#### Secção central e 8 secções de processos.
+Secção central e 8 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -6938,7 +7152,7 @@ Tribunal de Silves
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -6964,7 +7178,7 @@ Tribunal de Sintra
 
 Secretaria Judicial:
 
-#### Secção central e 8 secções de processos.
+Secção central e 8 secções de processos.
 
 Pessoal:
 
@@ -6994,7 +7208,7 @@ Tribunal de Soure
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7020,7 +7234,7 @@ Tribunal de Tábua
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7044,7 +7258,7 @@ Tribunal de Tabuaço
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7066,7 +7280,7 @@ Tribunal de Tavira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -7092,7 +7306,7 @@ Tribunal de Tomar
 
 Secretaria Judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -7120,7 +7334,7 @@ Tribunal de Tondela
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -7148,7 +7362,7 @@ Tribunal de Torres Novas
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -7176,7 +7390,7 @@ Tribunal de Torres Vedras
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -7206,7 +7420,7 @@ Tribunal de Trancoso
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7232,7 +7446,7 @@ Tribunal de Vagos
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -7258,7 +7472,7 @@ Tribunal de Vale de Cambra
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7282,7 +7496,7 @@ Tribunal de Valença
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -7310,7 +7524,7 @@ Tribunal de Valpaços
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -7336,7 +7550,7 @@ Tribunal de Viana do Castelo
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -7370,7 +7584,7 @@ Tribunal de Vieira do Minho
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7392,7 +7606,7 @@ Tribunal de Vila do Conde
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -7424,7 +7638,7 @@ Tribunal de Vila da Feira
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -7456,7 +7670,7 @@ Tribunal de Vila Flor
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7480,7 +7694,7 @@ Tribunal de Vila Franca do Campo
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7504,7 +7718,7 @@ Tribunal de Vila Franca de Xira
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -7538,7 +7752,7 @@ Tribunal de Vila Nova de Cerveira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7556,7 +7770,7 @@ Tribunal de Vila Nova de Famalicão
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -7586,7 +7800,7 @@ Telefonista ... 1
 
 Tribunal de Vila Nova de Foz CoaSecretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7608,7 +7822,7 @@ Tribunal de Vila Nova de Gaia
 
 Secretaria Judicial:
 
-#### Secção central e 8 secções de processos.
+Secção central e 8 secções de processos.
 
 Pessoal:
 
@@ -7638,7 +7852,7 @@ Tribunal de Vila Nova de Ourém
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -7666,7 +7880,7 @@ Tribunal de Vila Pouca de Aguiar
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7690,7 +7904,7 @@ Tribunal de Vila Praia da Vitória
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -7716,7 +7930,7 @@ Tribunal de Vila Real
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -7746,7 +7960,7 @@ Tribunal de Vila Real de Santo António
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7772,7 +7986,7 @@ Tribunal de Vila Verde
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -7800,7 +8014,7 @@ Tribunal de Vila Viçosa
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7824,7 +8038,7 @@ Tribunal de Vimioso
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7846,7 +8060,7 @@ Tribunal de Vinhais
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7870,7 +8084,7 @@ Tribunal de Viseu
 
 Secretaria Judicial:
 
-#### Secção central e 6 secções de processos.
+Secção central e 6 secções de processos.
 
 Pessoal:
 
@@ -7904,7 +8118,7 @@ Tribunal de Vouzela
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7930,7 +8144,7 @@ Tribunal de Instrução Criminal de Almada
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7948,7 +8162,7 @@ Tribunal de Instrução Criminal de Aveiro
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7966,7 +8180,7 @@ Tribunal de Instrução Criminal de Barcelos
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -7984,7 +8198,7 @@ Tribunal de Instrução Criminal do Barreiro
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8002,7 +8216,7 @@ Tribunal de Instrução Criminal de Braga
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8020,7 +8234,7 @@ Tribunal de Instrução Criminal de Cascais
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8038,7 +8252,7 @@ Tribunal de Instrução Criminal de Coimbra
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8056,7 +8270,7 @@ Tribunal de Instrução Criminal de Évora
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8074,7 +8288,7 @@ Tribunal de Instrução Criminal de Faro
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8092,7 +8306,7 @@ Tribunal de Instrução Criminal do Funchal
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8110,7 +8324,7 @@ Tribunal de Instrução Criminal de Guimarães
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8128,7 +8342,7 @@ Tribunal de Instrução Criminal de Leiria
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8146,7 +8360,7 @@ Tribunal de Instrução Criminal de Loures
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8164,7 +8378,7 @@ Tribunal de Instrução Criminal de Matosinhos
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8182,7 +8396,7 @@ Tribunal de Instrução Criminal de Oeiras
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8200,7 +8414,7 @@ Tribunal de Instrução Criminal de Santarém
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8218,7 +8432,7 @@ Tribunal de Instrução Criminal de Setúbal
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8236,7 +8450,7 @@ Tribunal de Instrução Criminal de Sintra
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8254,7 +8468,7 @@ Tribunal de Instrução Criminal de Tomar
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8272,7 +8486,7 @@ Tribunal de Instrução Criminal de Vila da Feira
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8290,7 +8504,7 @@ Tribunal de Instrução Criminal de Vila Nova de Gaia
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8310,7 +8524,7 @@ Tribunal de Instrução Criminal de Vila Real
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8328,7 +8542,7 @@ Tribunal de Instrução Criminal de Viseu
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8346,7 +8560,7 @@ Tribunal de Menores de Coimbra
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8364,7 +8578,7 @@ Tribunal de Menores de Faro
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8382,7 +8596,7 @@ Tribunal de Menores do Funchal
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8402,7 +8616,7 @@ Tribunal de Menores de Ponta Delgada
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8420,7 +8634,7 @@ Tribunal do Trabalho de Almada
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8444,7 +8658,7 @@ Tribunal do Trabalho de Angra do Heroísmo
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8468,7 +8682,7 @@ Tribunal do Trabalho de Aveiro
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8492,7 +8706,7 @@ Tribunal do Trabalho de Barcelos
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8516,7 +8730,7 @@ Tribunal do Trabalho do Barreiro
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8540,7 +8754,7 @@ Tribunal do Trabalho de Beja
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8564,7 +8778,7 @@ Tribunal do Trabalho de Braga
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal (ver nota a):
 
@@ -8592,7 +8806,7 @@ Tribunal do Trabalho de Bragança
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -8618,7 +8832,7 @@ Tribunal do Trabalho das Caldas da Rainha
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8642,7 +8856,7 @@ Tribunal do Trabalho de Cascais
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8666,7 +8880,7 @@ Tribunal do Trabalho de Castelo Branco
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8690,7 +8904,7 @@ Tribunal do Trabalho de Coimbra
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8714,7 +8928,7 @@ Tribunal do Trabalho da Covilhã
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8738,7 +8952,7 @@ Tribunal do Trabalho de Évora
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8762,7 +8976,7 @@ Tribunal do Trabalho de Faro
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8786,7 +9000,7 @@ Tribunal do Trabalho da Figueira da Foz
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8810,7 +9024,7 @@ Tribunal do Trabalho do Funchal
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8834,7 +9048,7 @@ Tribunal do Trabalho da Guarda
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8858,7 +9072,7 @@ Tribunal do Trabalho de Guimarães
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8882,7 +9096,7 @@ Tribunal do Trabalho de Lamego
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -8906,7 +9120,7 @@ Tribunal do Trabalho de Leiria
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8930,7 +9144,7 @@ Tribunal do Trabalho de Loures
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -8954,7 +9168,7 @@ Tribunal do Trabalho de Matosinhos
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -8980,7 +9194,7 @@ Tribunal do Trabalho de Oeiras
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9004,7 +9218,7 @@ Tribunal do Trabalho de Oliveira de Azeméis
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9028,7 +9242,7 @@ Tribunal do Trabalho de Penafiel
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9052,7 +9266,7 @@ Tribunal do Trabalho de Ponta Delgada
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -9074,7 +9288,7 @@ Tribunal do Trabalho de Portalegre
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -9098,7 +9312,7 @@ Tribunal do Trabalho de Portimão
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9122,7 +9336,7 @@ Tribunal do Trabalho de Santarém
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9146,7 +9360,7 @@ Tribunal do Trabalho de Santo Tirso
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9170,7 +9384,7 @@ Tribunal do Trabalho de Setúbal
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9194,7 +9408,7 @@ Tribunal do Trabalho de Sintra
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9218,7 +9432,7 @@ Tribunal do Trabalho de Tomar
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal (ver nota a):
 
@@ -9244,7 +9458,7 @@ Tribunal do Trabalho de Torres Vedras
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -9268,7 +9482,7 @@ Tribunal do Trabalho de Viana do Castelo
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9292,7 +9506,7 @@ Tribunal do Trabalho de Vila da Feira
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9316,7 +9530,7 @@ Tribunal do Trabalho de Vila Franca de Xira
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9340,7 +9554,7 @@ Tribunal do Trabalho de Vila Nova de Famalicão
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9364,7 +9578,7 @@ Tribunal do Trabalho de Vila Nova de Gaia
 
 Secretaria Judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -9388,7 +9602,7 @@ Tribunal do Trabalho de Vila Real
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -9412,7 +9626,7 @@ Tribunal do Trabalho de Viseu
 
 Secretaria Judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -9436,7 +9650,7 @@ Tribunal de Execução das Penas de Coimbra
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -9454,7 +9668,7 @@ Tribunal de Execução das Penas de Évora
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01700/02580262.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57e7c8dfb876a88c9f933d907f7a3e6c724d30505d20bd111719cdea778a2232
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c91c800d4a7aebe917d07d562442624d41ca813cb85342ce32506aa13dbf23f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:655312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227071:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral da norma contida no art. 1º do presente diploma, que\
+    \ altera o nº 3 do art. 8º e os nºs 2 e 3 do art. 10º - quanto a este último artigo apenas na medida em que abrange o\
+    \ representante dos trabalhadores - do Dec Lei 260/76, de 08-Abr, pelo AC.117/86.19.05.1986.TCS, DR.IS [114] de 19.05.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/117-1986-227071
+  date: '1986-05-19'
+- type: amended_by
+  target: pt:dre:572886:por
+  label: "Alterado nº 2 do art. 13º e revogada a disposição «A aquisição e venda de bens de valor superior a 50000 contos»\
+    \ constante da al. c) do nº 1 do art. 13º do Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pela LEI.16/90.1990.07.20.AR,\
+    \ DR.IS [166] LEI.16/90.1990.07.20.AR\0R\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1990-572886
+  date: '1990-07-20'
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655312:por
+  label: "Revogado o Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pelo DEC LEI.558/99.17.12.1999.MF, DR.IS-A\
+    \ [292] de 17.12.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/558-1999-655312
+  date: '1999-12-17'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:28Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +143,7 @@ Responsabilizar os gestores através da negociação de objectivos e meios, bem 
 
 Nestes termos, e no uso da autorização conferida pela [Lei n.º 30/83](https://diariodarepublica.pt/dr/detalhe/lei/30-1983-439436), de 8 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 8.º, 9.º, 9.º-A, 10.º, 13.º, 14.º, 16.º, 21.º, 22.º, 23.º e 24.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, nas suas versões actuais, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 8.º, 9.º, 9.º-A, 10.º, 13.º, 14.º, 16.º, 21.º, 22.º, 23.º e 24.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, nas suas versões actuais, passam a ter a seguinte redacção:
 
 ###### Artigo 7.º — (Órgãos da empresa)
 
@@ -296,22 +335,22 @@ c) Relatórios de controle orçamental adaptados às características da empresa
 
 3 - As empresas prepararão até 30 de Setembro de cada ano uma primeira versão de elementos básicos dos seus orçamentos de exploração, de investimento, financeiro e cambial, para o ano seguinte.
 
-###### Art. 2.º - 1 - Os estatutos das empresas devem ser alterados de acordo com os princípios consagrados no presente diploma, no prazo de 180 dias.
+Art. 2.º - 1 - Os estatutos das empresas devem ser alterados de acordo com os princípios consagrados no presente diploma, no prazo de 180 dias.
 
 2 - O registo da alteração dos estatutos em cumprimento do disposto no número anterior goza de isenção emolumentar.
 
 3 - Enquanto não forem aprovados novos estatutos, as empresas regem-se pelos estatutos em vigor.
 
-###### Art. 3.º Ficam revogados o artigo 25.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e outras disposições legais que contrariem o disposto no presente diploma.
+Art. 3.º Ficam revogados o artigo 25.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e outras disposições legais que contrariem o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto - João Rosado Correia - Carlos Montez Melancia.
 
-**Promulgado em 11 de Janeiro de 1984.**
+Promulgado em 11 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Janeiro de 1984.**
+Referendado em 11 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

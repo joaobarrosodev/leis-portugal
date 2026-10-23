@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/30100/39463960.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,145 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb5abab047d6cb5557cb768e7e2b5ee2286bca3f0ce1352881259cc28039f2d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68d54205f472fb975f7470e721c550ee794a743d1665a82d325599fa3268bc48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Lei de Imprensa
+- Licenciamento de Obras
+- Loteamento Urbano
+- Ordenamento do Território
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:25345938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286316:por
+  label: "Prorrogado o prazo previsto no n.º 1 do artigo 4.º, pelo DEC LEI.104/88.30.03.1988.MPAT, DR.IS [75] de 30.03.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1988-286316
+  date: '1988-03-30'
+- type: amended_by
+  target: pt:dre:332261:por
+  label: Prorrogado, com efeitos desde 02.03.1990, o prazo previsto no n.º 1 do art. 4.º pelo DEC LEI.133/90.23.04.1990.MPLAT,
+    DR.IS [94] de 23.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1990-332261
+  date: '1990-04-23'
+- type: amended_by
+  target: pt:dre:555014:por
+  label: Prorrogado o prazo previsto no n.º 1 do artigo 4.º, já anteriormente prorrogado pelos Decretos-Leis n.os 104/88,
+    de 30 de Março, e 133/90, de 23 de Abril, pelo DEC LEI.301/90.26.09.1990.MPLAT, DR.IS [223] de 26.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-1990-555014
+  date: '1990-09-26'
+- type: amended_by
+  target: pt:dre:508981:por
+  label: "Prorrogado o prazo previsto no n.º 1 do artigo 4.º, pelo DEC LEI.58/91.30.01.1991.MPLAT, DR.IS-A [25] de 30.01.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1991-508981
+  date: '1991-01-30'
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, relativamente aos processos instaurados, pelo DEC LEI.108/94.1994.04.23.MPLAT,\
+    \ DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: cites
+  target: pt:dre:146734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661712:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138111:por
+  label: Rectificado pela DECL.DD5119.21.11.1985.PCM, DR.IS [276]Supl de 30.11.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-138111
+  date: '1985-11-21'
+- type: repealed_by
+  target: pt:dre:308715:por
+  label: "Revogado pelo DEC LEI.448/91.29.11.1991.MPAT, DR.IS-A [275] de 29.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/448-1991-308715
+  date: '1991-11-29'
+- type: repealed_by
+  target: pt:dre:25345938:por
+  label: Revogado, a partir de 29.06.2014, o Dec Lei 794/76, de 05-nov na redação do presente diploma, pela LEI.31/2014.30.05.2014.AR,
+    DR.IS [104] de 30.05.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2014-25345938
+  date: '2014-05-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:16Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +235,7 @@ Assim, no uso da autorização legislativa conferida pela [Lei n.º 25/84](https
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - Estão sujeitas a licenciamento municipal nos termos do presente diploma:
+Artigo 1.º - 1 - Estão sujeitas a licenciamento municipal nos termos do presente diploma:
 
 a) As acções que tenham por objecto ou simplesmente tenham por efeito a divisão em lotes de qualquer área de um ou vários prédios, destinados, imediata ou subsequentemente, à construção;
 
@@ -142,7 +247,7 @@ b) A realização de obras de urbanização, incluindo as destinadas a conjuntos
 
 4 - As obras de urbanização referidas na última parte da alínea b) do n.º 1 serão licenciadas nos termos da alínea c) do n.º 4 do artigo 37.º, dos artigos 39.º e 40.º e das alíneas a) e b) do n.º 1 do artigo 41.º do presente diploma, com as devidas adaptações.
 
-###### Art. 2.º - 1 - Não constitui operação de loteamento, não estando, portanto, sujeita ao licenciamento previsto neste diploma, a celebração de negócio jurídico que tenha como efeito a transmissão, através do seu destaque, de uma única parcela de prédio inscrito ou participado na matriz, desde que, cumulativamente:
+Art. 2.º - 1 - Não constitui operação de loteamento, não estando, portanto, sujeita ao licenciamento previsto neste diploma, a celebração de negócio jurídico que tenha como efeito a transmissão, através do seu destaque, de uma única parcela de prédio inscrito ou participado na matriz, desde que, cumulativamente:
 
 a) O prédio se situe dentro do aglomerado urbano;
 
@@ -154,7 +259,7 @@ d) A licença de construção expressamente mencione as situações referidas na
 
 2 - Não poderá ser efectuado no mesmo prédio e no prazo de 10 anos mais de um destaque idêntico ao referido no número anterior.
 
-###### Art. 3.º - 1 - Os licenciamentos referidos na alínea a) do n.º 1 do artigo 1.º obedecerão a uma das seguintes formas de processo:
+Art. 3.º - 1 - Os licenciamentos referidos na alínea a) do n.º 1 do artigo 1.º obedecerão a uma das seguintes formas de processo:
 
 a) Processo especial;
 
@@ -176,17 +281,17 @@ b) 10% da estimativa do parque habitacional do aglomerado ou da população acti
 
 6 - Para efeitos do presente diploma entendem-se por arruamentos públicos as vias de comunicação terrestre destinadas ao trânsito dentro do aglomerado urbano.
 
-###### Art. 4.º - 1 - Durante o prazo de 3 anos, o licenciamento das operações de loteamento de prédio ou prédios, que seguem a forma de processo especial ou ordinário e que se situem fora dos aglomerados urbanos existentes, está sujeito a parecer vinculativo da Direcção-Geral do Ordenamento.
+Art. 4.º - 1 - Durante o prazo de 3 anos, o licenciamento das operações de loteamento de prédio ou prédios, que seguem a forma de processo especial ou ordinário e que se situem fora dos aglomerados urbanos existentes, está sujeito a parecer vinculativo da Direcção-Geral do Ordenamento.
 
 2 - No prazo referido no número anterior, as Direcções-Gerais do Planeamento Urbanístico e do Ordenamento promoverão, ouvidos os municípios a cujo território respeitam, a aprovação das normas provisórias para vigorarem enquanto não forem aprovados para o local planos regionais de ordenamento do território (PROT) e planos directores municipais (PDM).
 
-###### Art. 5.º Nos casos de os perímetros dos aglomerados não se encontrarem legalmente fixados, entende-se por aglomerado urbano o núcleo de edificações autorizadas, servido por arruamentos públicos, e a respectiva área envolvente, em que o seu perímetro é definido pelos pontos distanciados 50 m do eixo daqueles arruamentos no sentido transversal e 20 m da última edificação do núcleo no sentido do arruamento.
+Art. 5.º Nos casos de os perímetros dos aglomerados não se encontrarem legalmente fixados, entende-se por aglomerado urbano o núcleo de edificações autorizadas, servido por arruamentos públicos, e a respectiva área envolvente, em que o seu perímetro é definido pelos pontos distanciados 50 m do eixo daqueles arruamentos no sentido transversal e 20 m da última edificação do núcleo no sentido do arruamento.
 
-###### Art. 6.º O pedido das licenças previstas neste diploma constitui para o requerente um acto de administração ordinária.
+Art. 6.º O pedido das licenças previstas neste diploma constitui para o requerente um acto de administração ordinária.
 
 ### CAPÍTULO II — Informação prévia
 
-###### Art. 7.º - 1 - Qualquer interessado poderá requerer, por escrito, à câmara municipal do lugar da situação do prédio informação sobre a possibilidade de realização das operações ou obras referidas no artigo 1.º e respectivos condicionamentos, esclarecendo suficientemente a pretensão e juntando plantas à escala 1:25000 e 1:1000, com a indicação do local da situação do prédio.
+Art. 7.º - 1 - Qualquer interessado poderá requerer, por escrito, à câmara municipal do lugar da situação do prédio informação sobre a possibilidade de realização das operações ou obras referidas no artigo 1.º e respectivos condicionamentos, esclarecendo suficientemente a pretensão e juntando plantas à escala 1:25000 e 1:1000, com a indicação do local da situação do prédio.
 
 2 - A informação mencionará as disposições do plano regional de ordenamento, do plano director municipal, de planos de urbanização, gerais, parciais ou de pormenor, ou das normas provisórias a que se refere o artigo 10.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, ou, na sua falta:
 
@@ -198,15 +303,15 @@ c) As servidões públicas ou outros condicionamentos legais existentes.
 
 3 - A informação referida no n.º 2 mencionará expressamente o seu prazo de validade, o qual não pode ser inferior a 6 meses.
 
-###### Art. 8.º - 1 - A câmara municipal deliberará sobre o pedido de informação no prazo de 30 dias após a entrega do requerimento a que alude o artigo anterior, devendo a respectiva deliberação ser comunicada ao requerente no prazo de 15 dias.
+Art. 8.º - 1 - A câmara municipal deliberará sobre o pedido de informação no prazo de 30 dias após a entrega do requerimento a que alude o artigo anterior, devendo a respectiva deliberação ser comunicada ao requerente no prazo de 15 dias.
 
 2 - A informação fornecida nos termos do presente capítulo não é constitutiva de direitos nem fonte geradora de expectativas susceptíveis de protecção jurídica.
 
 ### CAPÍTULO III — Operações de loteamento. Processo especial
 
-###### Art. 9.º O licenciamento das operações de loteamento que, nos termos dos n.os 2 e 3 do artigo 3.º seguem a forma de processo especial depende da aprovação prévia pela câmara municipal de um estudo preliminar de urbanização da área a abranger pelas mesmas, a apresentar pelo interessado.
+Art. 9.º O licenciamento das operações de loteamento que, nos termos dos n.os 2 e 3 do artigo 3.º seguem a forma de processo especial depende da aprovação prévia pela câmara municipal de um estudo preliminar de urbanização da área a abranger pelas mesmas, a apresentar pelo interessado.
 
-###### Art. 10.º - 1 - O pedido de aprovação do estudo preliminar de urbanização deverá constar de requerimento dirigido ao presidente da câmara municipal da situação do prédio, instruído, em triplicado, com peças escritas e desenhadas que contenham expressamente as seguintes indicações:
+Art. 10.º - 1 - O pedido de aprovação do estudo preliminar de urbanização deverá constar de requerimento dirigido ao presidente da câmara municipal da situação do prédio, instruído, em triplicado, com peças escritas e desenhadas que contenham expressamente as seguintes indicações:
 
 a) Documento comprovativo de que o ou os requerentes são proprietários do terreno a lotear ou de que possuem poderes bastantes para requerer a aprovação do estudo;
 
@@ -236,7 +341,7 @@ l) Parecer quanto à capacidade de uso dos solos que se pretendem utilizar ou, q
 
 4 - O requerente deverá, no prazo de 60 dias, suprir as deficiências e juntar os elementos para que seja notificado, findo o qual, na falta de cumprimento, será arquivado o respectivo processo.
 
-###### Art. 11.º - 1 - A câmara municipal deliberará sobre a aceitação ou rejeição liminar do pedido no prazo de 30 dias contados da entrega do estudo preliminar de urbanização ou sobre a entrega de elementos que hajam sido juntos nos termos do n.º 4 do artigo anterior.
+Art. 11.º - 1 - A câmara municipal deliberará sobre a aceitação ou rejeição liminar do pedido no prazo de 30 dias contados da entrega do estudo preliminar de urbanização ou sobre a entrega de elementos que hajam sido juntos nos termos do n.º 4 do artigo anterior.
 
 2 - O pedido só poderá ser rejeitado liminarmente:
 
@@ -252,7 +357,7 @@ d) Se a área do loteamento estiver abrangida por declaração de utilidade púb
 
 4 - A rejeição liminar não obsta à renovação do pedido, aproveitando-se nesse caso os actos anteriormente praticados.
 
-###### Art. 12.º - 1 - A câmara municipal promoverá a tempestiva instrução do processo com o parecer dos seus serviços técnicos e remetê-los-á à Direcção-Geral do Planeamento Urbanístico através dos seus serviços regionais, no prazo de 30 dias a contar da data da deliberação a que se refere o n.º 1 do artigo 11.º ou do termo do prazo mencionado na mesma disposição.
+Art. 12.º - 1 - A câmara municipal promoverá a tempestiva instrução do processo com o parecer dos seus serviços técnicos e remetê-los-á à Direcção-Geral do Planeamento Urbanístico através dos seus serviços regionais, no prazo de 30 dias a contar da data da deliberação a que se refere o n.º 1 do artigo 11.º ou do termo do prazo mencionado na mesma disposição.
 
 2 - A Direcção-Geral do Planeamento Urbanístico, no prazo de 15 dias após a recepção do processo, promoverá as consultas às entidades cujos pareceres, autorizações ou aprovações possam inviabilizar ou condicionar a localização ou a realização da operação de loteamento.
 
@@ -268,19 +373,19 @@ b) Os pareceres com carácter técnico ou opinativo que devam ser considerados n
 
 6 - Os pareceres da Direcção-Geral do Planeamento Urbanístico e das demais entidades consultadas serão enviados à câmara municipal e ao requerente, através de carta registada, no prazo de 30 dias a contar da data de recepção do último dos pareceres ou do fim do prazo fixado para a emissão dos mesmos.
 
-###### Art. 13.º As consultas referidas nos artigos 4.º e 12.º são dispensadas, salvo se o prédio estiver abrangido por algum condicionamento legal que implique prévio parecer, se a operação de loteamento:
+Art. 13.º As consultas referidas nos artigos 4.º e 12.º são dispensadas, salvo se o prédio estiver abrangido por algum condicionamento legal que implique prévio parecer, se a operação de loteamento:
 
 a) Se inserir em local abrangido por plano director municipal, por plano de urbanização, geral, parcial ou de pormenor, plenamente eficazes, ou ainda por área de desenvolvimento urbano prioritário ou de construção prioritária;
 
 b) Se localizar em zona abrangida por normas provisórias em vigor nos termos do artigo 10.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 14.º - 1 - Das decisões ou resoluções sobre pareceres de organismos da administração central, quando não tenham sido homologados pelo membro do Governo respectivo, pode o interessado ou a câmara municipal interpor recurso hierárquico no prazo de 30 dias a contar da sua notificação.
+Art. 14.º - 1 - Das decisões ou resoluções sobre pareceres de organismos da administração central, quando não tenham sido homologados pelo membro do Governo respectivo, pode o interessado ou a câmara municipal interpor recurso hierárquico no prazo de 30 dias a contar da sua notificação.
 
 2 - O membro do Governo competente, ouvido o interessado ou a câmara municipal, que deverão pronunciar-se no prazo de 15 dias, pronunciar-se-á no prazo subsequente de 60 dias.
 
 3 - A resolução do recurso será notificada ao interessado e à câmara municipal.
 
-###### Art. 15.º - 1 - Ultrapassados os prazos fixados no n.º 1 do artigo 12.º sem que o requerente tenha sido informado pela câmara municipal das diligências efectuadas, poderá este solicitar à Direcção-Geral do Planeamento Urbanístico, através dos seus serviços regionais, que efectue as consultas e emita o seu próprio parecer, instruindo esse pedido com um duplicado do requerimento inicial e dos elementos referidos no n.º 1 do artigo 10.º
+Art. 15.º - 1 - Ultrapassados os prazos fixados no n.º 1 do artigo 12.º sem que o requerente tenha sido informado pela câmara municipal das diligências efectuadas, poderá este solicitar à Direcção-Geral do Planeamento Urbanístico, através dos seus serviços regionais, que efectue as consultas e emita o seu próprio parecer, instruindo esse pedido com um duplicado do requerimento inicial e dos elementos referidos no n.º 1 do artigo 10.º
 
 2 - No caso previsto no número anterior a Direcção-Geral do Planeamento Urbanístico informará por escrito a câmara municipal e o requerente da data em que efectuou essas consultas.
 
@@ -288,7 +393,7 @@ b) Se localizar em zona abrangida por normas provisórias em vigor nos termos do
 
 4 - Os pareceres ou resoluções da Direcção-Geral do Planeamento Urbanístico e das demais entidades serão enviados à câmara municipal e ao requerente, através de carta registada com aviso de recepção, no prazo de 30 dias a contar da recepção do último dos pareceres ou do termo dos prazos fixados para a emissão dos mesmos.
 
-###### Art. 16.º - 1 - É fixado o prazo de 30 dias para a câmara municipal deliberar sobre o estudo preliminar de urbanização.
+Art. 16.º - 1 - É fixado o prazo de 30 dias para a câmara municipal deliberar sobre o estudo preliminar de urbanização.
 
 2 - O presidente da câmara, em despacho fundamentado, que será notificado ao requerente, poderá prorrogar para o dobro o prazo fixado no número anterior, antes de o mesmo ter expirado.
 
@@ -300,7 +405,7 @@ b) Da recepção do parecer da Direcção-Geral do Planeamento Urbanístico e da
 
 c) Da notificação da resolução dos recursos referidos no artigo 14.º, se tiverem tido lugar, ou do prazo fixado para a mesma, em caso de deferimento tácito.
 
-###### Art. 17.º - 1 - A câmara municipal só poderá indeferir o estudo preliminar de urbanização com qualquer dos fundamentos a que se referem as alíneas do n.º 2 do artigo 11.º e ainda nos casos seguintes:
+Art. 17.º - 1 - A câmara municipal só poderá indeferir o estudo preliminar de urbanização com qualquer dos fundamentos a que se referem as alíneas do n.º 2 do artigo 11.º e ainda nos casos seguintes:
 
 a) Não ter a concordância de qualquer das entidades consultadas nos termos dos artigos 12.º ou 15.º;
 
@@ -318,15 +423,15 @@ d) Demonstrar uma sobrecarga incomportável para as infra-estruturas ou serviço
 
 5 - O deferimento poderá ser condicionado à apresentação do pedido de aprovação da operação de loteamento por todos os proprietários ou interessados de uma área suficientemente ampla fixada pela câmara municipal que possibilite o melhor aproveitamento dos valores paisagísticos e adequada repartição dos encargos e benefícios decorrentes da operação.
 
-###### Art. 18.º - 1 - A deliberação da câmara municipal que aprovar o estudo preliminar de urbanização, quando antecedida de consultas a entidades estranhas ao município, nos termos dos artigos 12.º ou 15.º, está sujeita a ratificação do Ministro do Equipamento Social, através da Direcção-Geral do Planeamento Urbanístico.
+Art. 18.º - 1 - A deliberação da câmara municipal que aprovar o estudo preliminar de urbanização, quando antecedida de consultas a entidades estranhas ao município, nos termos dos artigos 12.º ou 15.º, está sujeita a ratificação do Ministro do Equipamento Social, através da Direcção-Geral do Planeamento Urbanístico.
 
 2 - Decorrido o prazo de 60 dias, a contar da data da entrada do processo na Direcção-Geral do Planeamento Urbanístico, sem acto expresso de ratificação, considera-se para todos os efeitos que esta foi concedida.
 
 3 - A ratificação ou a sua recusa constará de despacho do Ministro do Equipamento Social a publicar no Diário da República.
 
-###### Art. 19.º A câmara municipal informará o requerente, no prazo de 15 dias, do teor da aprovação do estudo preliminar de urbanização ou da sua ratificação, nos casos do artigo anterior.
+Art. 19.º A câmara municipal informará o requerente, no prazo de 15 dias, do teor da aprovação do estudo preliminar de urbanização ou da sua ratificação, nos casos do artigo anterior.
 
-###### Art. 20.º - 1 - Após a notificação da aprovação do estudo preliminar de urbanização ou da sua ratificação, em requerimento dirigido ao presidente da câmara municipal da situação do prédio, o requerente solicitará, no prazo de 120 dias, o licenciamento do loteamento, instruindo o processo, em triplicado, com os seguintes elementos:
+Art. 20.º - 1 - Após a notificação da aprovação do estudo preliminar de urbanização ou da sua ratificação, em requerimento dirigido ao presidente da câmara municipal da situação do prédio, o requerente solicitará, no prazo de 120 dias, o licenciamento do loteamento, instruindo o processo, em triplicado, com os seguintes elementos:
 
 a) Memória descritiva e justificativa indicando, se for caso disso, as fases em que pretende seja autorizada a operação e a fase de realização imediata e nomeadamente a solução adoptada para funcionamento das infra-estruturas e suas ligações ao exterior e às redes gerais, o número de fogos e os edifícios de carácter industrial ou de utilização colectiva a construir, o número de pisos, os índices urbanísticos adoptados, designadamente os coeficientes de ocupação, a área total de pavimentos a construir, destinados ou não à habitação, e ainda o estudo económico do empreendimento;
 
@@ -350,7 +455,7 @@ e) Regulamento contendo as prescrições relativas à implantação dos edifíci
 
 7 - A câmara municipal informará o requerente no prazo de 15 dias do teor da deliberação tomada.
 
-###### Art. 21.º - 1 - A câmara municipal só poderá indeferir o pedido de licenciamento com qualquer dos seguintes fundamentos:
+Art. 21.º - 1 - A câmara municipal só poderá indeferir o pedido de licenciamento com qualquer dos seguintes fundamentos:
 
 a) Se o pedido apresentar desconformidade com o estudo preliminar de urbanização aprovado e ou ratificado nos termos dos artigos 16.º e 18.º;
 
@@ -362,7 +467,7 @@ c) Pelos motivos e nos termos da alínea d) do n.º 1 do artigo 17.º
 
 ### CAPÍTULO IV — Operações de loteamento. Processo ordinário
 
-###### Art. 22.º - 1 - O licenciamento das operações de loteamento sujeitas ao processo ordinário, nos termos do n.º 4 do artigo 3.º será pedido em requerimento dirigido ao presidente da câmara municipal do local da situação do prédio e instruído, em triplicado, com os seguintes elementos:
+Art. 22.º - 1 - O licenciamento das operações de loteamento sujeitas ao processo ordinário, nos termos do n.º 4 do artigo 3.º será pedido em requerimento dirigido ao presidente da câmara municipal do local da situação do prédio e instruído, em triplicado, com os seguintes elementos:
 
 a) Memória descritiva e justificativa indicando, nomeadamente, a superfície total do terreno a lotear, as soluções adoptadas para a rede viária e para funcionamento das infra-estruturas e suas ligações ao exterior e às redes gerais, o número de fogos e os edifícios de carácter industrial ou de utilização colectiva a construir, o número de pisos e os índices urbanísticos adoptados, nomeadamente os coeficientes de ocupação e a área total prevista de pavimentos a construir, destinados ou não à habitação, e contendo o estudo económico do empreendimento;
 
@@ -390,11 +495,11 @@ j) Fotografia do local.
 
 4 - O requerente deverá suprir as deficiências e juntar os elementos em falta no prazo de 60 dias a contar da notificação, sob pena de arquivamento do respectivo processo.
 
-###### Art. 23.º - 1 - A câmara municipal poderá deliberar sobre a aceitação ou rejeição liminar do pedido no prazo de 30 dias sobre a entrega do requerimento ou sobre a entrega dos elementos que hajam sido juntos nos termos do n.º 4 do artigo anterior.
+Art. 23.º - 1 - A câmara municipal poderá deliberar sobre a aceitação ou rejeição liminar do pedido no prazo de 30 dias sobre a entrega do requerimento ou sobre a entrega dos elementos que hajam sido juntos nos termos do n.º 4 do artigo anterior.
 
 2 - À deliberação sobre a rejeição liminar do pedido da operação de loteamento aplica-se o disposto nos n.os 2, 3 e 4 do artigo 11.º do presente diploma.
 
-###### Art. 24.º - 1 - A câmara municipal promoverá a tempestiva instrução do processo com parecer técnico sobre a operação de loteamento que se pretende realizar.
+Art. 24.º - 1 - A câmara municipal promoverá a tempestiva instrução do processo com parecer técnico sobre a operação de loteamento que se pretende realizar.
 
 2 - A câmara municipal deverá promover consulta à Direcção-Geral do Planeamento Urbanístico para emitir parecer sobre o pedido, bem como às demais entidades cujos pareceres, autorizações ou aprovações condicionam a localização ou a realização da operação de loteamento.
 
@@ -402,7 +507,7 @@ j) Fotografia do local.
 
 4 - As consultas referidas no n.º 2 são dispensadas nos casos previstos no artigo 13.º
 
-###### Art. 25.º - 1 - As consultas a que se refere o n.º 2 do artigo anterior serão dirigidas aos serviços externos das entidades com jurisdição sobre o local da realização da operação ou das obras ou, na sua falta, aos respectivos serviços centrais.
+Art. 25.º - 1 - As consultas a que se refere o n.º 2 do artigo anterior serão dirigidas aos serviços externos das entidades com jurisdição sobre o local da realização da operação ou das obras ou, na sua falta, aos respectivos serviços centrais.
 
 2 - Considera-se delegada nos directores ou responsáveis desses serviços externos a competência para emitir os pareceres ou aprovações que condicionam a localização ou realização dos empreendimentos, sem prejuízo do poder de avocação das entidades originariamente competentes.
 
@@ -412,15 +517,15 @@ j) Fotografia do local.
 
 5 - A câmara municipal informará o requerente da data e das entidades consultadas.
 
-###### Art. 26.º - 1 - A Direcção-Geral do Planeamento Urbanístico e as restantes entidades consultadas deverão pronunciar-se no prazo de 60 dias a contar da recepção da consulta da câmara municipal.
+Art. 26.º - 1 - A Direcção-Geral do Planeamento Urbanístico e as restantes entidades consultadas deverão pronunciar-se no prazo de 60 dias a contar da recepção da consulta da câmara municipal.
 
 2 - A câmara municipal enviará ao requerente, através de carta registada, os pareceres emitidos nos termos do n.º 1 deste artigo.
 
-###### Art. 27.º É aplicável ao processo ordinário de loteamento o disposto no artigo 15.º, com as necessárias adaptações.
+Art. 27.º É aplicável ao processo ordinário de loteamento o disposto no artigo 15.º, com as necessárias adaptações.
 
-###### Art. 28.º Das decisões ou resoluções sobre pareceres dos organismos da administração central, quando não tenham sido homologados pelo membro do Governo respectivo, cabe recurso hierárquico, nos termos do artigo 14.º do presente diploma.
+Art. 28.º Das decisões ou resoluções sobre pareceres dos organismos da administração central, quando não tenham sido homologados pelo membro do Governo respectivo, cabe recurso hierárquico, nos termos do artigo 14.º do presente diploma.
 
-###### Art. 29.º - 1 - Instruído o processo com parecer técnico que compatibilize os pareceres das entidades consultadas, nos termos do n.º 2 do artigo 24.º, a câmara municipal deliberará sobre a operação de loteamento no prazo de 30 dias.
+Art. 29.º - 1 - Instruído o processo com parecer técnico que compatibilize os pareceres das entidades consultadas, nos termos do n.º 2 do artigo 24.º, a câmara municipal deliberará sobre a operação de loteamento no prazo de 30 dias.
 
 2 - O presidente da câmara municipal, em despacho fundamentado, que será notificado ao requerente, poderá prorrogar para o dobro o prazo fixado no número anterior.
 
@@ -436,7 +541,7 @@ d) Da notificação da resolução dos recursos referidos no artigo 28.º, se a 
 
 4 - A câmara municipal informará o requerente, no prazo de 15 dias, do teor da deliberação tomada nos termos do presente artigo.
 
-###### Art. 30.º - 1 - A câmara municipal só poderá indeferir o pedido de licenciamento com qualquer dos fundamentos do n.º 2 do artigo 11.º e ou do n.º 1 do artigo 17.º, com as necessárias adaptações.
+Art. 30.º - 1 - A câmara municipal só poderá indeferir o pedido de licenciamento com qualquer dos fundamentos do n.º 2 do artigo 11.º e ou do n.º 1 do artigo 17.º, com as necessárias adaptações.
 
 2 - As deliberações de indeferimento ou de deferimento condicionado serão sempre fundamentadas, mencionando claramente as razões de direito e de facto que justificam as condições a observar.
 
@@ -444,7 +549,7 @@ d) Da notificação da resolução dos recursos referidos no artigo 28.º, se a 
 
 ### CAPÍTULO V — Operações de loteamento. Processo simples
 
-###### Art. 31.º As operações de loteamento sujeitas a processo simples, nos termos do n.º 5 do artigo 3.º, regem-se pelo disposto no presente capítulo e subsidiariamente pelas regras aplicáveis ao processo ordinário.
+Art. 31.º As operações de loteamento sujeitas a processo simples, nos termos do n.º 5 do artigo 3.º, regem-se pelo disposto no presente capítulo e subsidiariamente pelas regras aplicáveis ao processo ordinário.
 
 1 - O licenciamento será pedido em requerimento dirigido ao presidente da câmara municipal do local da situação do prédio, instruído em triplicado, com os seguintes elementos:
 
@@ -474,17 +579,17 @@ l) Fotografia do local.
 
 3 - O requerente deverá suprir as deficiências e juntar os elementos em falta no prazo de 60 dias a contar da notificação, sob pena de arquivamento do respectivo processo.
 
-###### Art. 33.º - 1 - A câmara municipal poderá deliberar sobre a aceitação ou a rejeição liminar do pedido no prazo de 30 dias sobre a entrega do requerimento ou sobre a entrega dos elementos que hajam sido juntos nos termos dos n.os 2 e 3 do artigo anterior.
+Art. 33.º - 1 - A câmara municipal poderá deliberar sobre a aceitação ou a rejeição liminar do pedido no prazo de 30 dias sobre a entrega do requerimento ou sobre a entrega dos elementos que hajam sido juntos nos termos dos n.os 2 e 3 do artigo anterior.
 
 2 - À deliberação sobre a rejeição liminar do pedido aplica-se o disposto nos n.os 2, 3 e 4 do artigo 11.º
 
-###### Art. 34.º - 1 - A câmara municipal promoverá a tempestiva instrução do processo com parecer técnico sobre a operação de loteamento que se pretende realizar.
+Art. 34.º - 1 - A câmara municipal promoverá a tempestiva instrução do processo com parecer técnico sobre a operação de loteamento que se pretende realizar.
 
 2 - São dispensáveis todas as consultas a entidades estranhas ao município, excepto se o prédio a lotear estiver abrangido por qualquer condicionamento legal.
 
 3 - Às consultas referidas no número anterior são aplicáveis, com as necessárias adaptações, os artigos 24.º a 26.º
 
-###### Art. 35.º - 1 - É fixado o prazo de 30 dias para a câmara municipal deliberar sobre a operação de loteamento.
+Art. 35.º - 1 - É fixado o prazo de 30 dias para a câmara municipal deliberar sobre a operação de loteamento.
 
 2 - São aplicáveis às operações de loteamento com processo simples as disposições dos n.os 2, 3 e 4 do artigo 29.º e do artigo 30.º, com as necessárias adaptações.
 
@@ -492,9 +597,9 @@ l) Fotografia do local.
 
 ### CAPÍTULO VI — Licenciamento das obras de urbanização
 
-###### Art. 36.º O licenciamento de obras de urbanização necessárias à implementação de operações de loteamento sujeitas a processo especial ou a processo ordinário, ou à realização de conjuntos ou aldeamentos turísticos e parques industriais, rege-se pelo disposto no presente capítulo.
+Art. 36.º O licenciamento de obras de urbanização necessárias à implementação de operações de loteamento sujeitas a processo especial ou a processo ordinário, ou à realização de conjuntos ou aldeamentos turísticos e parques industriais, rege-se pelo disposto no presente capítulo.
 
-###### Art. 37.º - 1 - O pedido de aprovação do projecto de execução das obras de urbanização deverá constar de requerimento dirigido ao presidente da câmara municipal e instruído nos termos do presente artigo.
+Art. 37.º - 1 - O pedido de aprovação do projecto de execução das obras de urbanização deverá constar de requerimento dirigido ao presidente da câmara municipal e instruído nos termos do presente artigo.
 
 2 - No caso de obras de urbanização destinadas à implementação das operações de loteamento anteriormente licenciadas, o pedido referido no número anterior deverá ser apresentado no prazo de 180 dias a contar da data da notificação da deliberação que aprovou a respectiva operação de loteamento ou do prazo fixado para a mesma, no caso de deferimento tácito.
 
@@ -520,11 +625,11 @@ h) Orçamentos da obra, por especialidades e global, baseados em quantidades e q
 
 i) Condições técnicas gerais e especiais do caderno de encargos.
 
-###### Art. 38.º - 1 - Se a execução das obras tiver sido requerida e autorizada por fases, os projectos deverão ser apresentados nos prazos fixados, respeitando-se, porém, o disposto no artigo anterior quanto aos da 1.ª fase.
+Art. 38.º - 1 - Se a execução das obras tiver sido requerida e autorizada por fases, os projectos deverão ser apresentados nos prazos fixados, respeitando-se, porém, o disposto no artigo anterior quanto aos da 1.ª fase.
 
 2 - Os prazos fixados nos termos do n.º 2 do artigo 37.º e do n.º 1 do presente artigo poderão ser prorrogados por uma ou mais vezes, em casos justificados, mediante requerimento do interessado.
 
-###### Art. 39.º - 1 - A câmara municipal deverá pronunciar-se sobre os projectos das obras de urbanização no prazo de 45 dias.
+Art. 39.º - 1 - A câmara municipal deverá pronunciar-se sobre os projectos das obras de urbanização no prazo de 45 dias.
 
 2 - O presidente da câmara municipal poderá, mediante despacho fundamentado, que será notificado ao requerente, prorrogar até ao dobro o prazo a que se refere o número anterior.
 
@@ -534,7 +639,7 @@ a) Da recepção do requerimento e dos elementos a que se refere o artigo 37.º;
 
 b) Da aprovação da operação de loteamento, quando os projectos das obras tenham sido apresentados juntamente com o pedido de licenciamento.
 
-###### Art. 40.º - 1 - A câmara municipal só poderá indeferir os pedidos de aprovação dos projectos das obras de urbanização com qualquer dos seguintes fundamentos:
+Art. 40.º - 1 - A câmara municipal só poderá indeferir os pedidos de aprovação dos projectos das obras de urbanização com qualquer dos seguintes fundamentos:
 
 a) Indeferimento expresso da operação de loteamento ou falta de conformidade com condicionamentos impostos;
 
@@ -546,7 +651,7 @@ c) Os fundamentos referidos na alínea d) do n.º 1 do artigo 17.º, quer no cas
 
 3 - A câmara municipal informará o requerente, no prazo de 15 dias, do teor da deliberação tomada nos termos deste artigo e do artigo anterior.
 
-###### Art. 41.º - 1 - A câmara municipal, ao aprovar o projecto das obras de urbanização a executar, deverá fixar:
+Art. 41.º - 1 - A câmara municipal, ao aprovar o projecto das obras de urbanização a executar, deverá fixar:
 
 a) As condições a observar para a sua execução;
 
@@ -568,7 +673,7 @@ b) Ser reduzido nos mesmos termos, a requerimento do interessado, em conformidad
 
 ### CAPÍTULO VII — Cedências
 
-###### Art. 42.º O proprietário e os demais titulares de direitos reais sobre o terreno objecto da operação de loteamento cederão à câmara municipal, obrigatoriamente, a título gratuito, as parcelas de terreno devidamente assinaladas na planta de síntese relativas a:
+Art. 42.º O proprietário e os demais titulares de direitos reais sobre o terreno objecto da operação de loteamento cederão à câmara municipal, obrigatoriamente, a título gratuito, as parcelas de terreno devidamente assinaladas na planta de síntese relativas a:
 
 a) Praças, arruamentos, passeios adjacentes, baias de estacionamento de veículos e de paragem de transportes públicos e faixas arborizadas anexas;
 
@@ -576,15 +681,15 @@ b) Áreas públicas livres envolventes das edificações destinadas ao movimento
 
 c) Equipamentos públicos, tais como os destinados a educação, saúde, assistência, cultura e desporto, a superfícies verdes para convívio, recreio e lazer e bem assim a parques de estacionamento.
 
-###### Art. 43.º - 1 - Além das cedências referidas no artigo anterior, o proprietário fica obrigado a proceder ao pagamento da taxa municipal pela realização de infra-estruturas urbanísticas a que se refere a alínea a) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, sem prejuízo da realização das obras de urbanização previstas na operação de loteamento, ou, na falta da referida taxa, a compensar o município de encargos decorrentes da operação de loteamento com um pagamento em numerário ou com a cedência de lotes constituídos ou de terreno fora do prédio a lotear.
+Art. 43.º - 1 - Além das cedências referidas no artigo anterior, o proprietário fica obrigado a proceder ao pagamento da taxa municipal pela realização de infra-estruturas urbanísticas a que se refere a alínea a) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, sem prejuízo da realização das obras de urbanização previstas na operação de loteamento, ou, na falta da referida taxa, a compensar o município de encargos decorrentes da operação de loteamento com um pagamento em numerário ou com a cedência de lotes constituídos ou de terreno fora do prédio a lotear.
 
 2 - As compensações referidas na parte final do n.º 1 serão fixadas no regulamento da prática urbanística do plano director municipal ou, na sua falta, serão as que forem fixadas em portaria conjunta dos Ministros da Administração Interna e do Equipamento Social.
 
 ### CAPÍTULO VIII — Contrato de urbanização
 
-###### Art. 44.º No caso de licenciamento das operações de loteamento sujeitas a processo especial, e no licenciamento de obras de urbanização, sempre que para a sua realização se preveja a intervenção de outras entidades além do interessado e da câmara municipal, serão as recíprocas obrigações objecto de contrato de urbanização, o qual reveste a natureza de contrato administrativo.
+Art. 44.º No caso de licenciamento das operações de loteamento sujeitas a processo especial, e no licenciamento de obras de urbanização, sempre que para a sua realização se preveja a intervenção de outras entidades além do interessado e da câmara municipal, serão as recíprocas obrigações objecto de contrato de urbanização, o qual reveste a natureza de contrato administrativo.
 
-###### Art. 45.º Poderão, nomeadamente, ser objecto de contrato de urbanização:
+Art. 45.º Poderão, nomeadamente, ser objecto de contrato de urbanização:
 
 a) O financiamento, a realização e a conservação das obras de urbanização;
 
@@ -602,7 +707,7 @@ g) A concessão e a exploração de áreas de recreio e de convívio;
 
 h) As garantias destinadas a assegurar os encargos previstos na alínea d) do n.º 1 do artigo 17.º
 
-###### Art. 46.º Poderão ser partes no contrato de urbanização, além da câmara municipal e do requerente do alvará, quaisquer das entidades intervenientes na realização da operação de loteamento e das obras, nomeadamente:
+Art. 46.º Poderão ser partes no contrato de urbanização, além da câmara municipal e do requerente do alvará, quaisquer das entidades intervenientes na realização da operação de loteamento e das obras, nomeadamente:
 
 a) O proprietário e os demais titulares de direitos reais sobre parte ou a totalidade do prédio ou prédios a lotear e ou os arrendatários;
 
@@ -616,13 +721,13 @@ e) As cooperativas de habitação e de construção.
 
 ### CAPÍTULO IX — Alvará
 
-###### Art. 47.º - 1 - O licenciamento das operações de loteamento e das obras de urbanização é titulado por alvará.
+Art. 47.º - 1 - O licenciamento das operações de loteamento e das obras de urbanização é titulado por alvará.
 
 2 - As condições estabelecidas no alvará vinculam o proprietário do prédio ou prédios a que o mesmo se refere e, na parte aplicável, os adquirentes dos lotes.
 
 3 - A câmara municipal dará imediata publicidade à concessão do alvará mediante afixação de edital nos paços do concelho e publicação, a expensas do requerente, do respectivo aviso num dos jornais mais lidos na área e na 3.ª série do Diário da República.
 
-###### Art. 48.º - 1 - O alvará a que se refere o n.º 1 do artigo anterior especificará obrigatoriamente os seguintes elementos:
+Art. 48.º - 1 - O alvará a que se refere o n.º 1 do artigo anterior especificará obrigatoriamente os seguintes elementos:
 
 a) A identificação do titular do alvará;
 
@@ -642,7 +747,7 @@ h) Montantes das cauções prestadas e identificação dos respectivos títulos.
 
 2 - O alvará conterá em anexo as plantas confirmativas dos elementos referidos nas alíneas e) e f), bem como o contrato de urbanização, se for caso disso.
 
-###### Art. 49.º - 1 - Sempre que se verifique o deferimento expresso ou tácito da operação de loteamento licenciada de acordo com o processo simples ou das obras de urbanização referidas na parte final da alínea b) do n.º 1 do artigo 1.º e se mostrem pagas as taxas e demais quantias devidas nos termos da lei, será emitido o alvará, independentemente de requerimento.
+Art. 49.º - 1 - Sempre que se verifique o deferimento expresso ou tácito da operação de loteamento licenciada de acordo com o processo simples ou das obras de urbanização referidas na parte final da alínea b) do n.º 1 do artigo 1.º e se mostrem pagas as taxas e demais quantias devidas nos termos da lei, será emitido o alvará, independentemente de requerimento.
 
 2 - O alvará deverá ser emitido no prazo de 30 dias a contar da data da entrega do documento mencionado no n.º 4 do artigo 41.º, se exigível, ou da aprovação expressa ou tácita dos projectos da operação de loteamento e ou das obras de urbanização.
 
@@ -676,7 +781,7 @@ g) Documento comprovativo do depósito à ordem da câmara municipal das import�
 
 10 - Da recusa de registo cabe, exclusivamente, recurso contencioso, devendo a câmara municipal ser citada no respectivo processo, como parte principal.
 
-###### Art. 50.º - 1 - O alvará da operação de loteamento com processo especial ou ordinário e das respectivas obras de urbanização bem como das obras de urbanização destinadas a conjuntos ou aldeamentos turísticos e a parques industriais deve ser requerido no prazo de 60 dias contado da data da comunicação a que se refere o n.º 3 do artigo 40.º, ou do deferimento tácito do respectivo pedido, ou logo que celebrado o contrato de urbanização e satisfeitas as demais condições prévias impostas pela deliberação a que se refere o artigo 41.º
+Art. 50.º - 1 - O alvará da operação de loteamento com processo especial ou ordinário e das respectivas obras de urbanização bem como das obras de urbanização destinadas a conjuntos ou aldeamentos turísticos e a parques industriais deve ser requerido no prazo de 60 dias contado da data da comunicação a que se refere o n.º 3 do artigo 40.º, ou do deferimento tácito do respectivo pedido, ou logo que celebrado o contrato de urbanização e satisfeitas as demais condições prévias impostas pela deliberação a que se refere o artigo 41.º
 
 2 - O alvará deve ser emitido no prazo de 30 dias a contar da data do seu requerimento, desde que se mostrem pagas as taxas e demais quantias previstas na lei.
 
@@ -688,7 +793,7 @@ g) Documento comprovativo do depósito à ordem da câmara municipal das import�
 
 6 - O recurso do indeferimento expresso ou tácito da emissão do alvará é de plena jurisdição e a sentença ou acórdão transitados que condenarem a câmara municipal têm o valor de alvará para todos os efeitos do presente diploma.
 
-###### Art. 51.º O recurso contencioso referido no artigo anterior será instruído obrigatoriamente com os seguintes documentos:
+Art. 51.º O recurso contencioso referido no artigo anterior será instruído obrigatoriamente com os seguintes documentos:
 
 a) Duplicado, devidamente autenticado, do pedido de licenciamento da operação de loteamento;
 
@@ -704,19 +809,19 @@ f) Documento comprovativo do depósito à ordem da câmara municipal das import�
 
 g) Cópia autenticada do contrato de urbanização, se for caso disso.
 
-###### Art. 52.º - 1 - As obras de urbanização só poderão iniciar-se depois da passagem do alvará, nos termos do artigo 49.º, quando efectuada a notificação judicial avulsa nos termos do mesmo artigo e publicado o extracto da respectiva certidão ou quando tenham transitado a sentença ou acórdão referidos no artigo 50.º
+Art. 52.º - 1 - As obras de urbanização só poderão iniciar-se depois da passagem do alvará, nos termos do artigo 49.º, quando efectuada a notificação judicial avulsa nos termos do mesmo artigo e publicado o extracto da respectiva certidão ou quando tenham transitado a sentença ou acórdão referidos no artigo 50.º
 
 2 - A câmara municipal só poderá licenciar as edificações projectadas antes de concluídas as obras de urbanização se estas se encontrarem em conveniente estado de adiantamento, sem prejuízo do prazo fixado para a sua conclusão.
 
 3 - As obras executadas ao abrigo da notificação judicial avulsa ou da sentença referidas no n.º 1 só poderão ser embargadas administrativamente quando se verifique violação das condições do projecto.
 
-###### Art. 53.º - 1 - As prescrições constantes do alvará e do projecto das obras a executar poderão ser alteradas a requerimento do interessado, a qualquer momento, ou por iniciativa da câmara municipal, sempre que tal seja necessário à regular execução do plano director municipal, de planos de urbanização aprovados ou de áreas de desenvolvimento urbano prioritário ou de construção prioritária e tenham decorrido, pelo menos, 2 anos sobre a emissão do alvará.
+Art. 53.º - 1 - As prescrições constantes do alvará e do projecto das obras a executar poderão ser alteradas a requerimento do interessado, a qualquer momento, ou por iniciativa da câmara municipal, sempre que tal seja necessário à regular execução do plano director municipal, de planos de urbanização aprovados ou de áreas de desenvolvimento urbano prioritário ou de construção prioritária e tenham decorrido, pelo menos, 2 anos sobre a emissão do alvará.
 
 2 - A alteração a pedido do interessado seguirá o processo previsto para o requerimento inicial da licença de loteamento, com as necessárias adaptações.
 
 3 - A transmissão da propriedade de terreno objecto de operação de loteamento antes de concluídas as obras de urbanização terá como efeito a mudança de titularidade do alvará, para o que deverão os interessados comunicá-la à câmara municipal, no prazo de 30 dias, a fim de que seja efectuado o respectivo averbamento.
 
-###### Art. 54.º - 1 - A licença de loteamento caduca:
+Art. 54.º - 1 - A licença de loteamento caduca:
 
 a) Se a aprovação dos projectos definitivos das obras de urbanização não for requerida nos prazos estabelecidos;
 
@@ -744,7 +849,7 @@ g) Se, por causa imputável ao titular, se verificar o incumprimento do contrato
 
 7 - À caducidade da licença de loteamento será dada publicidade pela forma prevista no n.º 3 do artigo 47.º, devendo ainda ser pedido pela câmara municipal ao conservador do registo predial competente o cancelamento do respectivo registo.
 
-###### Art. 55.º - 1 - A câmara municipal poderá fazer executar, por conta do titular do alvará, as obras que não tiverem sido efectuadas nos prazos fixados ou desenvolvidas de harmonia com o programa de trabalhos, se existente, bem como as correcções ou alterações necessárias para as pôr de acordo com os respetivos projectos ou planos.
+Art. 55.º - 1 - A câmara municipal poderá fazer executar, por conta do titular do alvará, as obras que não tiverem sido efectuadas nos prazos fixados ou desenvolvidas de harmonia com o programa de trabalhos, se existente, bem como as correcções ou alterações necessárias para as pôr de acordo com os respetivos projectos ou planos.
 
 2 - As despesas serão pagas por força da caução a que se refere a alínea c) do n.º 1 do artigo 41.º
 
@@ -752,7 +857,7 @@ g) Se, por causa imputável ao titular, se verificar o incumprimento do contrato
 
 4 - Quando a licença tiver caducado, a deliberação da câmara municipal, nos termos do n.º 1, terá como efeito automático a sua reposição em vigor a partir da data da conclusão dos trabalhos.
 
-###### Art. 56.º - 1 - Concluídas as obras de urbanização o interessado solicitará à câmara municipal a sua vistoria, para efeito de recepção provisória, fazendo parte da comissão de recepção o interessado ou seu representante e dois representantes da câmara municipal.
+Art. 56.º - 1 - Concluídas as obras de urbanização o interessado solicitará à câmara municipal a sua vistoria, para efeito de recepção provisória, fazendo parte da comissão de recepção o interessado ou seu representante e dois representantes da câmara municipal.
 
 2 - Decorridos 360 dias da homologação da recepção provisória das obras referidas poderá o interessado requerer à câmara municipal a vistoria para efeitos de recepção definitiva.
 
@@ -760,7 +865,7 @@ g) Se, por causa imputável ao titular, se verificar o incumprimento do contrato
 
 ### CAPÍTULO X — Disposições cautelares
 
-###### Art. 57.º - 1 - Nos títulos de arrematação ou outros documentos judiciais, bem como nos instrumentos notariais relativos a actos ou negócios que impliquem, directa ou indirectamente, o fraccionamento de prédios rústicos, nos termos da alínea a) do n.º 1 do artigo 1.º, com ou sem construção, ou urbanos com logradouros, deverão sempre indicar-se as datas do alvará de loteamento, da notificação judicial avulsa e a publicação do extracto da respectiva certidão ou do trânsito da sentença referidas nos artigos 49.º e 50.º, devendo os respectivos documentos ser exibidos.
+Art. 57.º - 1 - Nos títulos de arrematação ou outros documentos judiciais, bem como nos instrumentos notariais relativos a actos ou negócios que impliquem, directa ou indirectamente, o fraccionamento de prédios rústicos, nos termos da alínea a) do n.º 1 do artigo 1.º, com ou sem construção, ou urbanos com logradouros, deverão sempre indicar-se as datas do alvará de loteamento, da notificação judicial avulsa e a publicação do extracto da respectiva certidão ou do trânsito da sentença referidas nos artigos 49.º e 50.º, devendo os respectivos documentos ser exibidos.
 
 2 - Exceptuam-se do disposto no número anterior:
 
@@ -770,7 +875,7 @@ b) Os casos previstos no artigo 2.º do presente diploma;
 
 c) O fraccionamento de terrenos destinados a constituir ou ampliar logradouros de prédios urbanos, desde que a respectiva superfície não seja superior à percentagem fixada, genericamente, para logradouros pela câmara municipal e tal conste de certidão comprovativa emitada pelo mesmo órgão.
 
-###### Art. 58.º - 1 - A celebração ou o registo de quaisquer actos ou negócios jurídicos de que resulte ou possa vir a resultar a constituição de compropriedade ou a ampliação do número de compartes de prédios rústicos só poderão efectuar-se mediante parecer favorável da câmara municipal do local da situação dos prédios.
+Art. 58.º - 1 - A celebração ou o registo de quaisquer actos ou negócios jurídicos de que resulte ou possa vir a resultar a constituição de compropriedade ou a ampliação do número de compartes de prédios rústicos só poderão efectuar-se mediante parecer favorável da câmara municipal do local da situação dos prédios.
 
 2 - O parecer a que se refere o número anterior deverá ser emitido no prazo de 30 dias.
 
@@ -778,33 +883,33 @@ c) O fraccionamento de terrenos destinados a constituir ou ampliar logradouros d
 
 4 - Exceptuam-se do disposto no n.º 1 os casos de sucessão mortis causa.
 
-###### Art. 59.º - 1 - A câmara municipal do local da situação dos prédios tem direito de preferência nas transmissões, por título oneroso, referidas no n.º 1 do artigo anterior.
+Art. 59.º - 1 - A câmara municipal do local da situação dos prédios tem direito de preferência nas transmissões, por título oneroso, referidas no n.º 1 do artigo anterior.
 
 2 - Ao direito de preferência concedido nos termos do presente artigo são aplicáveis, com as necessárias adaptações, o artigo 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e os artigos 3.º e seguintes do Decreto-Lei n.º 862/76, de 22 de Dezembro.
 
-###### Art. 60.º São nulos os actos e negócios a que se referem os artigos 57.º e 58.º quando concluídos com violação do disposto no presente diploma, tendo os municípios legitimidade para promover a respectiva declaração judicial.
+Art. 60.º São nulos os actos e negócios a que se referem os artigos 57.º e 58.º quando concluídos com violação do disposto no presente diploma, tendo os municípios legitimidade para promover a respectiva declaração judicial.
 
-###### Art. 61.º Nos anúncios de alienação ou oneração de terrenos sujeitos ao regime do presente diploma deverão indicar-se sempre o número e a data do alvará, ou da notificação judicial avulsa ou da sentença que o substituam, sem o que não poderão ser exibidos, publicados, difundidos ou afixados.
+Art. 61.º Nos anúncios de alienação ou oneração de terrenos sujeitos ao regime do presente diploma deverão indicar-se sempre o número e a data do alvará, ou da notificação judicial avulsa ou da sentença que o substituam, sem o que não poderão ser exibidos, publicados, difundidos ou afixados.
 
 ### CAPÍTULO XI — Fiscalização e sanções
 
-###### Art. 62.º A fiscalização do cumprimento do disposto no presente diploma compete às câmaras municipais, com a colaboração da Direcção-Geral do Ordenamento e da Direcção-Geral do Planeamento Urbanístico e das autoridades policiais.
+Art. 62.º A fiscalização do cumprimento do disposto no presente diploma compete às câmaras municipais, com a colaboração da Direcção-Geral do Ordenamento e da Direcção-Geral do Planeamento Urbanístico e das autoridades policiais.
 
-###### Art. 63.º Compete à Direcção-Geral do Planeamento Urbanístico e à Direcção-Geral do Ordenamento apoiar técnica e normativamente as câmaras municipais na aplicação do disposto no presente diploma.
+Art. 63.º Compete à Direcção-Geral do Planeamento Urbanístico e à Direcção-Geral do Ordenamento apoiar técnica e normativamente as câmaras municipais na aplicação do disposto no presente diploma.
 
-###### Art. 64.º - 1 - Compete à Direcção-Geral do Planeamento Urbanístico e à Direcção-Geral do Ordenamento colaborar com a Inspecção-Geral da Administração Interna na execução das acções que consubstanciem o exercício da tutela administrativa sobre as autarquias locais e em tudo o que se relacione com a aplicação das normas previstas neste diploma.
+Art. 64.º - 1 - Compete à Direcção-Geral do Planeamento Urbanístico e à Direcção-Geral do Ordenamento colaborar com a Inspecção-Geral da Administração Interna na execução das acções que consubstanciem o exercício da tutela administrativa sobre as autarquias locais e em tudo o que se relacione com a aplicação das normas previstas neste diploma.
 
 2 - As referidas direcções-gerais comunicarão à Inspecção-Geral da Administração Interna todos os actos de que tenham conhecimento e que indiciem ou constituam violação do disposto no presente diploma.
 
-###### Art. 65.º - 1 - São nulos os actos das câmaras municipais respeitantes a operações de loteamento ou a obras de urbanização quando não sejam precedidos da audiência das entidades que devam ser consultadas, quando não sejam conformes com qualquer dos respectivos pareceres vinculativos ou resoluções ou quando não tenham sido submetidos a ratificação ou a contrariem, conforme os casos.
+Art. 65.º - 1 - São nulos os actos das câmaras municipais respeitantes a operações de loteamento ou a obras de urbanização quando não sejam precedidos da audiência das entidades que devam ser consultadas, quando não sejam conformes com qualquer dos respectivos pareceres vinculativos ou resoluções ou quando não tenham sido submetidos a ratificação ou a contrariem, conforme os casos.
 
 2 - A Direcção-Geral do Planeamento Urbanístico e a Direcção-Geral do Ordenamento devem comunicar os factos previstos no número anterior ao agente do Ministério Público junto do tribunal administrativo competente para efeitos de ser interposto, em nome do Estado, o competente recurso contencioso.
 
 3 - O recurso interposto pelo Ministério Público nos termos do número anterior tem sempre efeito suspensivo.
 
-###### Art. 66.º Constitui negligência grave deixar de promover que os pareceres, resoluções ou autorizações referidos neste diploma sejam emitidos ou proferidos dentro dos prazos nele fixados, bem como o facto de não ser promovida a declaração judicial de nulidade prevista nos artigos 60.º e 65.º
+Art. 66.º Constitui negligência grave deixar de promover que os pareceres, resoluções ou autorizações referidos neste diploma sejam emitidos ou proferidos dentro dos prazos nele fixados, bem como o facto de não ser promovida a declaração judicial de nulidade prevista nos artigos 60.º e 65.º
 
-###### Art. 67.º - 1 - A violação por parte dos proprietários ou titulares de direitos reais sobre os prédios, seus comissários ou mandatários do disposto no presente diploma é punível como contra-ordenação, nos termos do [Decreto-Lei n.º 433/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1983-443147), de 27 de Outubro, cabendo à câmara municipal o processamento dos autos e a aplicação das coimas.
+Art. 67.º - 1 - A violação por parte dos proprietários ou titulares de direitos reais sobre os prédios, seus comissários ou mandatários do disposto no presente diploma é punível como contra-ordenação, nos termos do [Decreto-Lei n.º 433/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1983-443147), de 27 de Outubro, cabendo à câmara municipal o processamento dos autos e a aplicação das coimas.
 
 2 - O montante das coimas será graduado entre o mínimo de 50000$00 e o máximo de 5000000$00, ou 10000000$00, se houver dolo.
 
@@ -812,15 +917,15 @@ c) O fraccionamento de terrenos destinados a constituir ou ampliar logradouros d
 
 4 - O disposto no n.º 1 quanto à aplicação da coima não prejudica a competência prevista no [Decreto-Lei n.º 303/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1983-452567), de 28 de Junho, quanto à violação do disposto no artigo 61.º do presente diploma.
 
-###### Art. 68.º Como sanção acessória será, quando for caso disso, ordenada pela câmara municipal a suspensão imediata dos trabalhos e actividades e ainda a reposição, em prazo certo, do terreno nas condições em que se encontrava anteriormente à data da infracção.
+Art. 68.º Como sanção acessória será, quando for caso disso, ordenada pela câmara municipal a suspensão imediata dos trabalhos e actividades e ainda a reposição, em prazo certo, do terreno nas condições em que se encontrava anteriormente à data da infracção.
 
-###### Art. 69.º - 1 - Quando a gravidade ou a frequência da infracção o justifique, pode ainda a câmara municipal aplicar, como sanção acessória, à empresa ou empresas que tiverem dado início ou executado os trabalhos ou as actividades referidas no artigo anteiror a interdição até ao máximo de 90 dias da sua actividade no município e, ainda, excluir as referidas empresas de concursos públicos para fornecimentos de bens ou serviços ao respectivo município, por prazo não superior a 2 anos.
+Art. 69.º - 1 - Quando a gravidade ou a frequência da infracção o justifique, pode ainda a câmara municipal aplicar, como sanção acessória, à empresa ou empresas que tiverem dado início ou executado os trabalhos ou as actividades referidas no artigo anteiror a interdição até ao máximo de 90 dias da sua actividade no município e, ainda, excluir as referidas empresas de concursos públicos para fornecimentos de bens ou serviços ao respectivo município, por prazo não superior a 2 anos.
 
 2 - As sanções previstas no número anterior serão comunicadas à Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais de Construção Civil, a qual pode deliberar aplicar acessoriamente a pena de suspensão ou cessação do alvará, prevista no [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 20 de Novembro, e na [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho.
 
-###### Art. 70.º Sem prejuízo das sanções previstas no artigo anterior, quando a gravidade da infracção o justifique, pode a câmara municipal tomar posse administrativa dos prédios, para obstar à prossecução do ilícito.
+Art. 70.º Sem prejuízo das sanções previstas no artigo anterior, quando a gravidade da infracção o justifique, pode a câmara municipal tomar posse administrativa dos prédios, para obstar à prossecução do ilícito.
 
-###### Art. 71.º - 1 - A posse administrativa prevista no artigo anterior tem como efeitos:
+Art. 71.º - 1 - A posse administrativa prevista no artigo anterior tem como efeitos:
 
 a) A imediata suspensão dos trabalhos ou actividades que tenham fundamentado a deliberação, salvo se já tiver sido ordenada no termos do artigo 68.º;
 
@@ -838,7 +943,7 @@ e) A apreensão de máquinas, equipamentos, viaturas e outros materiais que tenh
 
 4 - As acções previstas na alínea d) do n.º 1 deste artigo serão ordenadas depois de notificados os interessados para apresentarem a defesa que tiverem por conveniente e de apreciada a defesa apresentada, ou de decorrido o prazo para a mesma, que é de 10 dias, ou, no caso de notificação edital, de 30 dias, com observância do n.º 3 do artigo 73.º
 
-###### Art. 72.º - 1 - A posse administrativa opera-se por simples notificação aos interessados, considerando-se como tais os titulares de direitos reais sobre os prédios ou lotes dele desanexados, ainda que já transmitidos, e seus arrendatários.
+Art. 72.º - 1 - A posse administrativa opera-se por simples notificação aos interessados, considerando-se como tais os titulares de direitos reais sobre os prédios ou lotes dele desanexados, ainda que já transmitidos, e seus arrendatários.
 
 2 - A notificação será feita por edital, afixado na sede do município, e em local bem visível do prédio de que se trate, bem como por anúncio publicado num dos jornais mais lidos do concelho:
 
@@ -856,13 +961,13 @@ b) A proibição referida na alínea b) do n.º 1 do artigo anterior, se não ti
 
 c) A nomeação do administrador do prédio, se tiver sido deliberada.
 
-###### Art. 73.º - 1 - A posse administrativa será deliberada sem prévia audiência dos interessados, mas qualquer deles poderá reclamar perante o município para demonstrar a falta de fundamento da providência.
+Art. 73.º - 1 - A posse administrativa será deliberada sem prévia audiência dos interessados, mas qualquer deles poderá reclamar perante o município para demonstrar a falta de fundamento da providência.
 
 2 - A reclamação deverá ser apresentada no prazo de 10 dias a contar da data da última notificação efectuada, nos termos do artigo 72.º
 
 3 - Nos casos de notificação edital, a reclamação poderá ser apresentada no prazo de 30 dias, a contar da data da publicação do anúncio.
 
-###### Art. 74.º - 1 - Salvo revogação pelo município, a posse administrativa mantém-se:
+Art. 74.º - 1 - Salvo revogação pelo município, a posse administrativa mantém-se:
 
 a) Até que sejam concluídos os trabalhos executados ou mandados executar nos termos e para os efeitos do artigo 68.º e da alínea d) do artigo 71.º;
 
@@ -876,7 +981,7 @@ d) Até ao trânsito em julgado do despacho que decida o não recebimento da acu
 
 3 - A posse caduca se, no prazo de 180 dias, contados do termo dos prazos referidos nos n.os 2 e 3 do artigo 73.º, não for aplicada ao infractor, no caso de ilícito de mera ordenação social, a respectiva sanção ou, no caso de ilícito penal, não for apresentada queixa para instauração de procedimento criminal.
 
-###### Art. 75.º - 1 - Os proprietários ou outros titulares de direitos reais sobre prédio ou seus arrendatários são responsáveis pelas despesas a que tenham dado causa, efectuadas com a execução das providências adoptadas ao abrigo das alíneas c) e d) do n.º 1 do artigo 71.º
+Art. 75.º - 1 - Os proprietários ou outros titulares de direitos reais sobre prédio ou seus arrendatários são responsáveis pelas despesas a que tenham dado causa, efectuadas com a execução das providências adoptadas ao abrigo das alíneas c) e d) do n.º 1 do artigo 71.º
 
 2 - As quantias relativas às despesas a que se refere o número anterior, quando não pagas voluntariamente no prazo de 20 dias a contar da notificação para o efeito, serão cobradas coercivamente, servindo de título executivo certidão donde constem, além dos demais requisitos exigidos, a identificação dos responsáveis e o montante da dívida.
 
@@ -884,11 +989,11 @@ d) Até ao trânsito em julgado do despacho que decida o não recebimento da acu
 
 4 - O crédito referido no n.º 2 goza de privilégio imobiliário sobre o prédio, graduado a seguir à alínea b) do artigo 748.º do Código Civil, e, se este se mostrar insuficiente para garantir o reembolso, sobre os lotes dele desanexados, ainda que já transmitidos, sem prejuízo da protecção devida a terceiros de boa-fé.
 
-###### Art. 76.º O prosseguimento dos trabalhos cuja suspensão tenha sido ordenada nos termos do artigo 68.º ou da alínea a) do n.º 1 do artigo 71.º é punido com pena de 7 meses a 2 anos de prisão.
+Art. 76.º O prosseguimento dos trabalhos cuja suspensão tenha sido ordenada nos termos do artigo 68.º ou da alínea a) do n.º 1 do artigo 71.º é punido com pena de 7 meses a 2 anos de prisão.
 
-###### Art. 77.º A cedência de prédio ou parte dele, bem como de direitos sobre o mesmo, e ainda a autorização concedida a terceiros por qualquer título, embora juridicamente inválido, para construir no terreno com violação do disposto no presente diploma são punidas com pena de 7 meses a 2 anos de prisão e multa de 100 a 300 dias.
+Art. 77.º A cedência de prédio ou parte dele, bem como de direitos sobre o mesmo, e ainda a autorização concedida a terceiros por qualquer título, embora juridicamente inválido, para construir no terreno com violação do disposto no presente diploma são punidas com pena de 7 meses a 2 anos de prisão e multa de 100 a 300 dias.
 
-###### Art. 78.º - 1 - Para efeitos dos artigos 76.º e 77.º presume-se, salvo prova em contrário:
+Art. 78.º - 1 - Para efeitos dos artigos 76.º e 77.º presume-se, salvo prova em contrário:
 
 a) Que aqueles que actuam por conta ou no interesse dos proprietários ou de titulares de quaisquer direitos reais sobre os prédios ou dos respectivos arrendatários procedem em virtude de instruções dos mesmos, ou, quando tenham também qualquer dessas qualidades, de acordo com os seus co-titulares;
 
@@ -902,11 +1007,11 @@ b) Se evadiram nas circunstâncias previstas no artigo 565.º do Código de Proc
 
 c) Se ausentaram do País ou da localidade, com violação das obrigações 1.ª e 2.ª do n.º 2 do artigo 270.º do mesmo Código, não podendo por esse motivo ser notificados para o julgamento.
 
-###### Art. 79.º - 1 - Os crimes previstos e punidos nos artigos 76.º e 77.º dependem de queixa da câmara municipal, da junta de freguesia da área de situação do prédio, da Direcção-Geral do Planeamento Urbanístico ou da Direcção-Geral do Ordenamento.
+Art. 79.º - 1 - Os crimes previstos e punidos nos artigos 76.º e 77.º dependem de queixa da câmara municipal, da junta de freguesia da área de situação do prédio, da Direcção-Geral do Planeamento Urbanístico ou da Direcção-Geral do Ordenamento.
 
 2 - É sempre admissível a constituição da câmara municipal e ou da junta de freguesia como parte assistente.
 
-###### Art. 80.º - 1 - Transitada em julgado a sentença que condene o proprietário por qualquer dos crimes previstos nos artigos 76.º e 77.º, pode o município requerer no respectivo processo, por apenso, que lhe seja adjudicada a propriedade do prédio ou prédios objecto da infracção, sem prejuízo do pagamento do valor dos mesmos, calculado em função do seu rendimento efectivo e possível, atendendo exclusivamente ao seu destino como prédio rústico e ao seu estado anteriormente ao início da prática das actividades ilícitas, deduzidas das importâncias referidas nos artigos 67.º e 75.º
+Art. 80.º - 1 - Transitada em julgado a sentença que condene o proprietário por qualquer dos crimes previstos nos artigos 76.º e 77.º, pode o município requerer no respectivo processo, por apenso, que lhe seja adjudicada a propriedade do prédio ou prédios objecto da infracção, sem prejuízo do pagamento do valor dos mesmos, calculado em função do seu rendimento efectivo e possível, atendendo exclusivamente ao seu destino como prédio rústico e ao seu estado anteriormente ao início da prática das actividades ilícitas, deduzidas das importâncias referidas nos artigos 67.º e 75.º
 
 2 - No caso de compropriedade a adjudicação limitar-se-á às quotas dos comproprietários condenados.
 
@@ -918,17 +1023,17 @@ c) Se ausentaram do País ou da localidade, com violação das obrigações 1.ª
 
 ### CAPÍTULO XII — Disposições finais
 
-###### Art. 81.º - 1 - A falta de parecer, aprovação, autorização ou falta de decisão sobre recurso hierárquico nos prazos fixados no presente diploma interpreta-se como consentimento sempre que não esteja previsto outro efeito.
+Art. 81.º - 1 - A falta de parecer, aprovação, autorização ou falta de decisão sobre recurso hierárquico nos prazos fixados no presente diploma interpreta-se como consentimento sempre que não esteja previsto outro efeito.
 
 2 - Não se aplica o disposto no número anterior se o acto tácito for nulo, valendo o silêncio, nesse caso, como recusa.
 
-###### Art. 82.º - 1 - Para cada pedido de loteamento formulado ao abrigo do disposto no presente diploma a câmara municipal elaborará e manterá actualizado um processo, cuja consulta pelos interessados e seus mandatários deverá ser facultada quer durante a sua instrução quer após a resolução final.
+Art. 82.º - 1 - Para cada pedido de loteamento formulado ao abrigo do disposto no presente diploma a câmara municipal elaborará e manterá actualizado um processo, cuja consulta pelos interessados e seus mandatários deverá ser facultada quer durante a sua instrução quer após a resolução final.
 
 2 - O mandato será documentado por simples carta firmada pelo requerente, a qual ficará arquivada no processo, com menção da data da consulta.
 
-###### Art. 83.º Para efeito de registo predial entende-se que o facto sujeito a registo, designado pelo Código de Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, por «autorização do loteamento para construção» tem o mesmo significado da aprovação das operações de loteamento referidas neste decreto-lei.
+Art. 83.º Para efeito de registo predial entende-se que o facto sujeito a registo, designado pelo Código de Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, por «autorização do loteamento para construção» tem o mesmo significado da aprovação das operações de loteamento referidas neste decreto-lei.
 
-###### Art. 84.º - 1 - Sem prejuízo do disposto no número seguinte, são revogados o [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), de 6 de Junho, o [Decreto-Lei n.º 275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), de 13 de Abril, o capítulo VIII do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o [Decreto-Lei n.º 342/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1979-378566), de 27 de Agosto, e o artigo 8.º do [Decreto-Lei n.º 194/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1983-451218), de 17 de Maio, bem como todas as portarias complementares.
+Art. 84.º - 1 - Sem prejuízo do disposto no número seguinte, são revogados o [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), de 6 de Junho, o [Decreto-Lei n.º 275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), de 13 de Abril, o capítulo VIII do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o [Decreto-Lei n.º 342/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1979-378566), de 27 de Agosto, e o artigo 8.º do [Decreto-Lei n.º 194/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1983-451218), de 17 de Maio, bem como todas as portarias complementares.
 
 2 - Os pedidos de loteamento formulados anteriormente à entrada em vigor do presente diploma regular-se-ão:
 
@@ -936,18 +1041,18 @@ a) Pelo disposto no [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/de
 
 b) Pelo disposto no [Decreto-Lei n.º 342/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1979-378566), de 27 de Agosto, quando exercidas as faculdades do mesmo previstas.
 
-###### Art. 85.º - 1 - O presente diploma aplica-se no território continental da República e entra em vigor 60 dias após a sua publicação.
+Art. 85.º - 1 - O presente diploma aplica-se no território continental da República e entra em vigor 60 dias após a sua publicação.
 
 2 - A aplicação deste diploma nas Regiões Autónomas da Madeira e dos Açores depende de decreto regional que adapte os respectivos princípios às condições locais.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - João Rosado Correia - Francisco José de Sousa Tavares.
 
-**Promulgado em 17 de Dezembro de 1984.**
+Promulgado em 17 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Dezembro de 1984.**
+Referendado em 17 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20200/24062413.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,121 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1986-220103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cc6f1fa01847eeed9fe81f3f1d5999500f3b85b9e106dda0a647f3d87e7742f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5853d2b5930c13059023aef88a2d13a8ab1a59838793b6df9da81e0ceed0960
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Português de Conservas e Pescado
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:228409:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332259:por
+  label: Alterados, com efeitos a contar de 01.10.1989, os índices salariais da categoria de chefe de delegação constante
+    do quadro de pessoal anexo ao Estatuto pelo DEC LEI.136/90.24.04.1990.MAPA, DR.IS [95] de 24.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1990-332259
+  date: '1990-04-24'
+- type: amended_by
+  target: pt:dre:573317:por
+  label: "Alterados os arts. 2º, 32º, 33º, 38º e 66º e aditado o art. 67º ao Estatuto aprovado pelo presente diploma, pelo\
+    \ DEC LEI.250/90.02.08.1990.MAPA, DR.IS [177] de 02.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1990-573317
+  date: '1990-08-02'
+- type: amended_by
+  target: pt:dre:667902:por
+  label: Alterados os art.s 66º e 67º do Estatuto, na redacção do Dec Lei 250/90, de 02-Ago, pelo DEC LEI.241/91.05.07.1991.MAPA,
+    DR.IS-A [152] de 05.07.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1991-667902
+  date: '1991-07-05'
+- type: amended_by
+  target: pt:dre:303436:por
+  label: Alterado o quadro de pessoal do Instituto Português de Conservas e Pescado, pelo(a) Despacho Normativo n.º 106/92
+    - Diário da República n.º 143/1992, Série I-B de 1992-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/106-1992-303436
+  date: '1992-06-24'
+- type: amended_by
+  target: pt:dre:305260:por
+  label: Extinto o Instituto Português de Conservas e Pescado, criado pelo presente diploma, que é revogado, na data de entrada
+    em vigor do diploma que reestruturar a Direcção-Geral das Pescas, conforme o estabelecido na al. b) do n.º 3 do art. 21.º
+    do (a) Decreto-Lei n.º 154/92 - Diário da República n.º 170/1992, 1º Suplemento, Série I-A de 1992-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1992-305260
+  date: '1992-07-25'
+- type: amended_by
+  target: pt:dre:585192:por
+  label: Alterado o quadro de pessoal a que se refere o art. 44.º do Estatuto do Instituto Português de Conservas e Pescado,
+    anexo ao presente diploma, pelo(a) Portaria n.º 1056/92 - Diário da República n.º 261/1992, Série I-B de 1992-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1056-1992-585192
+  date: '1992-11-11'
+- type: amended_by
+  target: pt:dre:679811:por
+  label: Alterado o quadro de pessoal a que se refere o art. 44.º do Estatuto do Instituto Português de Conservas e Pescado,
+    anexo ao presente diploma, pelo(a) Despacho Normativo n.º 49/93 - Diário da República n.º 77/1993, Série I-B de 1993-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/49-1993-679811
+  date: '1993-04-01'
+- type: amended_by
+  target: pt:dre:660314:por
+  label: Alterado o quadro de pessoal do Instituto Português de Conservas e Pescado, pelo(a) Portaria n.º 858/93 - Diário
+    da República n.º 216/1993, Série I-B de 1993-09-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/858-1993-660314
+  date: '1993-09-14'
+- type: amended_by
+  target: pt:dre:228409:por
+  label: "Extintas as delegações do ex-Instituto Português de Conservas e Pescado nas Regiões Autónomas dos Açores e da Madeira\
+    \ (que transitaram do Instituto Português de Conservas e Pescado para a Direcção-Geral das Pescas, por força do disposto\
+    \ no n.º 2 do artigo 29.º do Decreto-Lei n.º 320/93, de 21 de Setembro), pelo DEC LEI.196/96.16.10.1996.MADRP, DR.IS-B\
+    \ [240] de 16.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1996-228409
+  date: '1996-10-16'
+- type: cites
+  target: pt:dre:359352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:148792:por
+  label: Rectificado pela DECL.DD4606.25.09.1986.PCM, DR.IS [225]2ºSupl de 30.09.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-148792
+  date: '1986-09-25'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:38Z'
   warnings: []
   errors: []
 ---
@@ -98,29 +179,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o Instituto Português de Conservas e Pescado, adiante designado abreviadamente por IPCP, um serviço personalizado do Estado, com autonomia administrativa e financeira e património próprio.
+Artigo 1.º É criado o Instituto Português de Conservas e Pescado, adiante designado abreviadamente por IPCP, um serviço personalizado do Estado, com autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º É extinto o Instituto Português de Conservas de Peixe, criado pelo [Decreto-Lei n.º 26777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26777-1936-359352), de 10 de Julho de 1936, cujo estatuto foi aprovado pelo [Decreto Regulamentar n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1980-459444), de 17 de Dezembro.
+Art. 2.º É extinto o Instituto Português de Conservas de Peixe, criado pelo [Decreto-Lei n.º 26777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26777-1936-359352), de 10 de Julho de 1936, cujo estatuto foi aprovado pelo [Decreto Regulamentar n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1980-459444), de 17 de Dezembro.
 
-###### Art. 3.º É integrado no património do IPCP, sem mais formalidades, a universalidade dos bens, direitos e obrigações, incluindo posições contratuais, que integram o activo e o passivo do Instituto Português de Conservas de Peixe.
+Art. 3.º É integrado no património do IPCP, sem mais formalidades, a universalidade dos bens, direitos e obrigações, incluindo posições contratuais, que integram o activo e o passivo do Instituto Português de Conservas de Peixe.
 
-###### Art. 4.º Fica desde já autorizada a transferência para o IPCP das dotações orçamentais atribuídas no Orçamento do Estado para 1986 ao Instituto Português de Conservas de Peixe.
+Art. 4.º Fica desde já autorizada a transferência para o IPCP das dotações orçamentais atribuídas no Orçamento do Estado para 1986 ao Instituto Português de Conservas de Peixe.
 
-###### Art. 5.º - 1 - O pessoal do quadro do Instituto Português de Conservas de Peixe à data da sua extinção é incorporado no quadro de pessoal do IPCP em categorias e níveis equivalentes aos lugares que desempenhava naquele Instituto.
+Art. 5.º - 1 - O pessoal do quadro do Instituto Português de Conservas de Peixe à data da sua extinção é incorporado no quadro de pessoal do IPCP em categorias e níveis equivalentes aos lugares que desempenhava naquele Instituto.
 
 2 - Exceptua-se do regime referido no número anterior o pessoal que exerce funções em obras de assistência nas Delegações de Olhão e Portimão, que transita, sem qualquer perda de garantias, direitos e categorias funcionais, para o quadro do Centro Regional de Segurança Social de Faro.
 
-###### Art. 6.º O IPCP rege-se pelo estatuto em anexo, que faz parte integrante do presente diploma, e pela demais que lhe seja aplicável.
+Art. 6.º O IPCP rege-se pelo estatuto em anexo, que faz parte integrante do presente diploma, e pela demais que lhe seja aplicável.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - Luís Fernando Mira Amaral.
 
-**Promulgado em 9 de Agosto de 1986.**
+Promulgado em 9 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Agosto de 1986.**
+Referendado em 14 de Agosto de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
@@ -128,11 +209,11 @@ Estatuto do Instituto Português de Conservas e Pescado
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Instituto Português de Conservas e Pescado, adiante designado abreviadamente por IPCP, é um serviço personalizado do Estado, com autonomia administrativa e financeira e com património próprio, sob tutela do Ministério da Agricultura, Pescas e Alimentação.
+Artigo 1.º - 1 - O Instituto Português de Conservas e Pescado, adiante designado abreviadamente por IPCP, é um serviço personalizado do Estado, com autonomia administrativa e financeira e com património próprio, sob tutela do Ministério da Agricultura, Pescas e Alimentação.
 
 2 - O IPCP tem sede em Lisboa e pode abrir delegações noutras localidades do território português.
 
-###### Art. 2.º - 1 - O IPCP tem como objecto a regularização, orientação e desenvolvimento do mercado dos produtos de pesca, incumbindo-lhe, nomeadamente:
+Art. 2.º - 1 - O IPCP tem como objecto a regularização, orientação e desenvolvimento do mercado dos produtos de pesca, incumbindo-lhe, nomeadamente:
 
 a) Promover os estudos, difundir os conhecimentos e apoiar as acções necessárias ao desenvolvimento da conservação, transformação e comércio dos produtos da pesca;
 
@@ -174,7 +255,7 @@ s) Dar cumprimento às instruções recebidas do ministério da tutela.
 
 ### CAPÍTULO II — Dos órgãos, serviços e suas competências
 
-###### Art. 3.º - 1 - São órgãos do IPCP:
+Art. 3.º - 1 - São órgãos do IPCP:
 
 a) O conselho directivo:
 
@@ -226,15 +307,15 @@ l) Delegação da Madeira.
 
 #### SECÇÃO I — Do conselho directivo
 
-###### Art. 4.º - 1 - O conselho directivo é composto pelo presidente e por dois outros membros.
+Art. 4.º - 1 - O conselho directivo é composto pelo presidente e por dois outros membros.
 
 2 - O presidente é nomeado e exonerado por despacho conjunto do Primeiro-Ministro e do ministro da tutela.
 
 3 - Os dois outros membros são nomeados e exonerados por despacho do ministro da tutela, sob proposta do presidente do conselho directivo.
 
-###### Art. 5.º O presidente do conselho directivo será equiparado para todos os efeitos a director-geral e os dois outros membros a subdirectores-gerais.
+Art. 5.º O presidente do conselho directivo será equiparado para todos os efeitos a director-geral e os dois outros membros a subdirectores-gerais.
 
-###### Art. 6.º - 1 - Compete ao conselho directivo:
+Art. 6.º - 1 - Compete ao conselho directivo:
 
 a) Elaborar os regulamentos internos necessários à organização e ao funcionamento do IPCP, submetendo-os à aprovação do ministro da tutela;
 
@@ -258,7 +339,7 @@ j) Reconhecer as organizações de produtores.
 
 2 - O conselho directivo, com o voto favorável do presidente, pode delegar a prática de actos que sejam da sua exclusiva competência, devendo os limites e condições de tal delegação constar da acta da reunião em que a respectiva deliberação foi tomada.
 
-###### Art. 7.º - 1 - Compete ao presidente do conselho directivo:
+Art. 7.º - 1 - Compete ao presidente do conselho directivo:
 
 a) Representar o IPCP em juízo ou fora dele;
 
@@ -280,7 +361,7 @@ h) Actuar como representante do ministro da tutela junto do conselho directivo q
 
 3 - O presidente será substituído nas suas faltas e impedimentos pelo membro que para o efeito por ele for designado.
 
-###### Art. 8.º - 1 - O conselho directivo reúne ordinariamente uma vez por semana, e, extraordinariamente, sempre que o seu presidente o convocar, por sua iniciativa ou a pedido de qualquer dos outros dois membros.
+Art. 8.º - 1 - O conselho directivo reúne ordinariamente uma vez por semana, e, extraordinariamente, sempre que o seu presidente o convocar, por sua iniciativa ou a pedido de qualquer dos outros dois membros.
 
 2 - As deliberações serão tomadas por maioria dos membros presentes, tendo o presidente voto de qualidade.
 
@@ -288,11 +369,11 @@ h) Actuar como representante do ministro da tutela junto do conselho directivo q
 
 4 - De todas as reuniões do conselho directivo lavrar-se-á acta, que será assinada por todos os membro presentes.
 
-###### Art. 9.º O conselho directivo obriga-se, sem prejuízo do disposto no n.º 2 do artigo 6.º deste Estatuto, pela assinatura de, pelo menos, dois dos seus membros, sendo uma delas a do presidente, salvo para actos de mero expediente, em que bastará apenas uma assinatura.
+Art. 9.º O conselho directivo obriga-se, sem prejuízo do disposto no n.º 2 do artigo 6.º deste Estatuto, pela assinatura de, pelo menos, dois dos seus membros, sendo uma delas a do presidente, salvo para actos de mero expediente, em que bastará apenas uma assinatura.
 
 #### SECÇÃO II — Da comissão consultiva
 
-###### Art. 10.º - 1 - A comissão consultiva é constituída por onze membros, sendo:
+Art. 10.º - 1 - A comissão consultiva é constituída por onze membros, sendo:
 
 a) O presidente do conselho directivo, que presidirá;
 
@@ -308,13 +389,13 @@ e) Dois representantes dos sindicatos mais representativos no sector das pescas.
 
 3 - A constituição da comissão consultiva constará de despacho do ministro da tutela, a publicar no Diário da República.
 
-###### Art. 11.º - 1 - A duração do mandato dos membros da comissão consultiva é de dois anos, podendo haver recondução.
+Art. 11.º - 1 - A duração do mandato dos membros da comissão consultiva é de dois anos, podendo haver recondução.
 
 2 - Antes do termo do mandato podem as diversas áreas, através das respectivas associações, preceder, mas por uma só vez, à substituição dos seus representantes.
 
 3 - Sempre que após o termo do mandato não estiver constituída nova comissão consultiva, compete à anterior assegurar as acções normais da sua competência.
 
-###### Art. 12.º A comissão consultiva é o órgão de consulta do IPCP, competindo-lhe:
+Art. 12.º A comissão consultiva é o órgão de consulta do IPCP, competindo-lhe:
 
 a) Pronunciar-se sobre os problemas relativos à aplicação da organização comum do mercado dos produtos da pesca;
 
@@ -322,7 +403,7 @@ b) Pronunciar-se sobre as medidas a tomar relativas à organização do mercado 
 
 c) Pronunciar-se sobre quaisquer assuntos que lhe sejam cometidos pelo conselho directivo.
 
-###### Art. 13.º - 1 - Ao presidente da comissão consultiva compete:
+Art. 13.º - 1 - Ao presidente da comissão consultiva compete:
 
 a) Convocar as reuniões;
 
@@ -336,7 +417,7 @@ e) Orientar superiormente os trabalhos.
 
 2 - O presidente da comissão consultiva não toma parte nas deliberações tomadas no seio daquela comissão.
 
-###### Art. 14.º A comissão consultiva será secretariada por um funcionário do IPCP, sem direito a voto, designado para o efeito pelo presidente do conselho directivo, ao qual compete:
+Art. 14.º A comissão consultiva será secretariada por um funcionário do IPCP, sem direito a voto, designado para o efeito pelo presidente do conselho directivo, ao qual compete:
 
 a) Preparar as reuniões, efectuando as convocatórias e elaborando a agenda de trabalhos;
 
@@ -344,17 +425,17 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e expediente da comissão consultiva.
 
-###### Art. 15.º - 1 - A comissão consultiva funciona em reuniões plenárias ou restritas, reunindo ordinariamente de dois em dois meses, e extraordinariamente, sempre que o presidente a convoque.
+Art. 15.º - 1 - A comissão consultiva funciona em reuniões plenárias ou restritas, reunindo ordinariamente de dois em dois meses, e extraordinariamente, sempre que o presidente a convoque.
 
 2 - De todas as reuniões da comissão consultiva será lavrada acta, assinada por todos os membros presentes e pelo secretário, da qual constará a posição da mesma sobre as matérias postas à sua consideração e, no caso de não haver unanimidade, a posição de cada uma das actividades económicas nela representadas.
 
 #### SECÇÃO III — Da comissão de fiscalização
 
-###### Art. 16.º - 1 - A comissão de fiscalização é constituída por três membros, nomeados por despacho de ministro da tutela e do Ministro das Finanças, devendo um deles ser um representante da Direcção-Geral da Contabilidade Pública.
+Art. 16.º - 1 - A comissão de fiscalização é constituída por três membros, nomeados por despacho de ministro da tutela e do Ministro das Finanças, devendo um deles ser um representante da Direcção-Geral da Contabilidade Pública.
 
 2 - Do acto de nomeação constará a designação do presidente da comissão de fiscalização.
 
-###### Art. 17.º À comissão de fiscalização compete:
+Art. 17.º À comissão de fiscalização compete:
 
 a) Fiscalizar a gestão do IPCP;
 
@@ -370,17 +451,17 @@ f) Solicitar ao presidente do conselho directivo reuniões conjuntas dos dois ó
 
 g) Pronunciar-se sobre qualquer assunto de interesse para o IPCP que seja submetido à sua apreciação pelo conselho directivo.
 
-###### Art. 18.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, e extraordinariamente, sempre que seja convocada pelo respectivo presidente, por sua iniciativa ou a solicitação do conselho directivo.
+Art. 18.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, e extraordinariamente, sempre que seja convocada pelo respectivo presidente, por sua iniciativa ou a solicitação do conselho directivo.
 
 2 - De todas as reuniões da comissão de fiscalização será lavrada acta, que será assinada por todos os membros presentes.
 
-###### Art. 19.º - 1 - Os membros da comissão de fiscalização são nomeados por um período de três anos, renovável.
+Art. 19.º - 1 - Os membros da comissão de fiscalização são nomeados por um período de três anos, renovável.
 
 2 - A remuneração dos membros da comissão de fiscalização será fixada por despacho conjunto do ministro da tutela e do Ministro das Finanças.
 
 #### SECÇÃO IV — Dos serviços de apoio
 
-###### Art. 20.º Ao Gabinete de Apoio Técnico e Jurídico, dirigido por um chefe de divisão, compete:
+Art. 20.º Ao Gabinete de Apoio Técnico e Jurídico, dirigido por um chefe de divisão, compete:
 
 a) Proceder ao registo das organizações de produtores, organizar e manter o processo relativo ao seu reconhecimento, bem como todos os elementos e documentos com ele relacionados;
 
@@ -388,7 +469,7 @@ b) Dar pareceres jurídicos e técnicos, quando solicitado por qualquer órgão 
 
 c) Prestar as informações que lhe forem requeridas pelas organizações de produtores no âmbito da actividade desenvolvida pelo IPCP.
 
-###### Art. 21.º À Divisão de Informática, Documentação e Informação compete:
+Art. 21.º À Divisão de Informática, Documentação e Informação compete:
 
 a) Dinamizar a utilização de metodologia informática, propondo o lançamento de novas aplicações, com melhor adequação das já implementadas;
 
@@ -400,7 +481,7 @@ d) Seleccionar e obter informação e documentação bibliográfica relacionada 
 
 e) Divulgar a informação e documentação bibliográfica e outras de interesse para os sectores da pesca e das indústrias transformadoras dos produtos da pesca.
 
-###### Art. 22.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial, de pessoal, expediente, arquivo, recebimento de produtos em regime de armazéns gerais industriais e emissão de desconto dos respectivos certificados de depósito.
+Art. 22.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial, de pessoal, expediente, arquivo, recebimento de produtos em regime de armazéns gerais industriais e emissão de desconto dos respectivos certificados de depósito.
 
 2 - A Direcção de Serviços de Administração assegura as ligações com outras entidades do Ministério de Agricultura, Pescas e Alimentação, nomeadamente com a Direcção-Geral dos Serviços Centrais, e com outros organismos, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
@@ -410,7 +491,7 @@ a) A Divisão de Administração Financeira e Patrimonial;
 
 b) A Repartição de Recursos Humanos, Expediente e Arquivo.
 
-###### Art. 23.º À Divisão de Administração Financeira e Patrimonial compete:
+Art. 23.º À Divisão de Administração Financeira e Patrimonial compete:
 
 a) Colidir todos os elementos de receito e despesa, indispensáveis à organização dos orçamentos do IPCP;
 
@@ -440,19 +521,19 @@ n) Promover a aquisição de maquinaria, equipamento, mobiliário e material de 
 
 o) Assegurar a eficiência das redes de comunicação interna e externa dos serviços.
 
-###### Art. 24.º Junto da Divisão de Administração Financeira e Patrimonial funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 24.º Junto da Divisão de Administração Financeira e Patrimonial funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Receber as receitas pertencentes ao IPCP e efectuar o pagamento de todas as despesas autorizadas;
 
 b) Manter devidamente escriturados os livros de tesouraria.
 
-###### Art. 25.º A Repartição de Recursos Humanos, Expediente e Arquivo compreende as seguintes secções:
+Art. 25.º A Repartição de Recursos Humanos, Expediente e Arquivo compreende as seguintes secções:
 
 a) Secção de Pessoal;
 
 b) Secção de Expediente e Arquivo.
 
-###### Art. 26.º À Secção de Pessoal compete:
+Art. 26.º À Secção de Pessoal compete:
 
 a) Elaborar e manter actualizado o cadastro do pessoal;
 
@@ -464,7 +545,7 @@ d) Instruir processos de acidentes em serviço e dar-lhes o devido andamento;
 
 e) Superintender no pessoal auxiliar.
 
-###### Art. 27.º À Secção de Expediente e Arquivo compete:
+Art. 27.º À Secção de Expediente e Arquivo compete:
 
 a) Executar as tarefas inerentes à recepção, classificação, remessa e arquivo do expediente;
 
@@ -474,7 +555,7 @@ c) Assegurar o funcionamento dos serviços de reprografia, impressão e microfil
 
 #### SECÇÃO V — Dos serviços operativos
 
-###### Art. 28.º - 1 - A Direcção de Serviços de Mercado exerce as suas funções no domínio do funcionamento do mercado de produtos da pesca, da execução e da gestão das medidas de intervenção, de apoio ao funcionamento das organizações de produtores, da execução dos mecanismos comunitários, da organização e divulgação de informação periódica do mercado e do acompanhamento da política comunitária, designadamente no seio do Comité de Gestão dos Produtos da Pesca.
+Art. 28.º - 1 - A Direcção de Serviços de Mercado exerce as suas funções no domínio do funcionamento do mercado de produtos da pesca, da execução e da gestão das medidas de intervenção, de apoio ao funcionamento das organizações de produtores, da execução dos mecanismos comunitários, da organização e divulgação de informação periódica do mercado e do acompanhamento da política comunitária, designadamente no seio do Comité de Gestão dos Produtos da Pesca.
 
 2 - A Direcção de Serviços de Mercado compreende as seguintes divisões:
 
@@ -484,7 +565,7 @@ b) Divisão da Regulação do Mercado;
 
 c) Divisão da Comercialização e Abastecimento.
 
-###### Art. 29.º À Divisão de Estatística e Informação do Mercado compete:
+Art. 29.º À Divisão de Estatística e Informação do Mercado compete:
 
 a) Desenvolver e manter um sistema de informação de mercado no domínio da comercialização e transformação dos produtos da pesca;
 
@@ -492,7 +573,7 @@ b) Elaborar os elementos estatísticos e de informação decorrentes das exigên
 
 c) Colaborar no estudo das medidas a executar no âmbito das atribuições do IPCP.
 
-###### Art. 30.º À Divisão da Regulação do Mercado compete:
+Art. 30.º À Divisão da Regulação do Mercado compete:
 
 a) Apoiar a acção e funcionamento das organizações de produtores;
 
@@ -502,7 +583,7 @@ c) Acompanhar e garantir a boa execução dos mecanismos de intervenção e cont
 
 d) Assegurar a preparação e transmissão dos elementos de informação e documentos justificativos, quer aos serviços da Comissão das Comunidades Europeias, quer ao Fundo de Apoio e Garantia Agrícola.
 
-###### Art. 31.º À Divisão da Comercialização e Abastecimento compete:
+Art. 31.º À Divisão da Comercialização e Abastecimento compete:
 
 a) Elaborar os estudos e propostas de medidas tendentes a garantir o bom funcionamento e eficácia do mercado dos produtos da pesca;
 
@@ -510,7 +591,7 @@ b) Acompanhar a situação do abastecimento de produtos da pesca e propor as ac�
 
 c) Acompanhar a execução dos mecanismos transitórios previstos para as trocas de produtos da pesca.
 
-###### Art. 32.º - 1 - A Direcção de Serviços de Estruturas e Desenvolvimento de Produtos exerce a sua actuação no domínio da modernização e desenvolvimento técnico e económico do sector e, em particular, das estruturas de comercialização e transformação de produtos da pesca, da defesa do prestígio dos produtos da pesca e da valorização e promoção de produtos.
+Art. 32.º - 1 - A Direcção de Serviços de Estruturas e Desenvolvimento de Produtos exerce a sua actuação no domínio da modernização e desenvolvimento técnico e económico do sector e, em particular, das estruturas de comercialização e transformação de produtos da pesca, da defesa do prestígio dos produtos da pesca e da valorização e promoção de produtos.
 
 2 - A Direcção de Serviços de Estruturas e Desenvolvimento de Produtos compreende as seguintes divisões:
 
@@ -518,7 +599,7 @@ a) Divisão de Estruturas de Comercialização e Transformação;
 
 b) Divisão de Promoção e Valorização de Produtos.
 
-###### Art. 33.º À Divisão de Estruturas de Comercialização e Transformação compete:
+Art. 33.º À Divisão de Estruturas de Comercialização e Transformação compete:
 
 a) Acompanhar as acções estruturais no domínio da comercialização e transformação dos produtos da pesca, quer se trate de acções comunitárias, quer de acções nacionais;
 
@@ -526,7 +607,7 @@ b) Assegurar a preparação e transmissão de documentos e outra informação re
 
 c) Promover a divulgação das acções estruturais em aplicação.
 
-###### Art. 34.º À Divisão de Promoção e Valorização de Produtos compete:
+Art. 34.º À Divisão de Promoção e Valorização de Produtos compete:
 
 a) Estudar e propor medidas tendentes à divulgação e promoção de novos produtos;
 
@@ -534,7 +615,7 @@ b) Desenvolver ou apoiar acções tendentes a incrementar a colocação de produ
 
 c) Manter o registo de marcas de produtos fabricados pelas indústrias transformadoras.
 
-###### Art. 35.º - 1 - A Direcção de Serviços Industriais e de Qualidade exerce a sua acção no domínio da aplicação das normas de comercialização e verificação da sua conformidade, do controle e certificação de qualidade e origem dos produtos transformados, abrangendo as matérias-primas e materiais utilizados, e da coordenação das delegações.
+Art. 35.º - 1 - A Direcção de Serviços Industriais e de Qualidade exerce a sua acção no domínio da aplicação das normas de comercialização e verificação da sua conformidade, do controle e certificação de qualidade e origem dos produtos transformados, abrangendo as matérias-primas e materiais utilizados, e da coordenação das delegações.
 
 2 - Na dependência do director de Serviços Industriais e de Qualidade funcionarão os laboratórios de análises do IPCP, que exercerão a sua actividade de acordo com as normas que forem definidas ao abrigo da alínea a) do n.º 1 do artigo 6.º
 
@@ -544,7 +625,7 @@ a) Divisão de Controle de Qualidade;
 
 b) Divisão de Normas de Comercialização.
 
-###### Art. 36.º À Divisão de Controle de Qualidade compete, nomeadamente:
+Art. 36.º À Divisão de Controle de Qualidade compete, nomeadamente:
 
 a) Controlar a qualidade e sanidade dos produtos de pesca destinados à transformação e depois de transformados;
 
@@ -560,7 +641,7 @@ f) Verificar a manutenção das condições tecnológicas, de higiene e seguran�
 
 g) Obter regularmente das unidades fabris elementos referentes às matérias-primas utilizadas na produção.
 
-###### Art. 37.º À Divisão de Normas de Comercialização compete:
+Art. 37.º À Divisão de Normas de Comercialização compete:
 
 a) Assegurar, no domínio das competências do IPCP, a aplicação das normas de comercialização relativas ao pescado fresco e a verificação de conformidade com as mesmas;
 
@@ -568,25 +649,25 @@ b) Proceder a estudos e colaborar com as outras entidades com vista ao estabelec
 
 #### SECÇÃO VI — Dos serviços locais
 
-###### Art. 38.º - 1 - Para o cabal desempenho das suas atribuições o IPCP dispõe de delegações, que actuam localmente no controle das indústrias transformadoras de produtos da pesca e importação das suas matérias-primas, acompanhando as diversas fases de fabrico e colaborando na resolução dos problemas relacionados com a respectiva actividade.
+Art. 38.º - 1 - Para o cabal desempenho das suas atribuições o IPCP dispõe de delegações, que actuam localmente no controle das indústrias transformadoras de produtos da pesca e importação das suas matérias-primas, acompanhando as diversas fases de fabrico e colaborando na resolução dos problemas relacionados com a respectiva actividade.
 
 2 - As delegações colaboram com todos os serviços do IPCP dentro dos respectivos âmbitos, por forma a tornar eficiente a sua acção local, elaborando semestralmente relatórios dos fabricos e dos factos mais relevantes ocorridos nas respectivas áreas.
 
-###### Art. 39.º - 1 - Consideram-se criadas as delegações mencionadas nas alíneas c) e d) da subdivisão C) do n.º 2 do artigo 3.º
+Art. 39.º - 1 - Consideram-se criadas as delegações mencionadas nas alíneas c) e d) da subdivisão C) do n.º 2 do artigo 3.º
 
 2 - A criação de novas delegações será feita por portaria conjunta do Ministro das Finanças e do ministro da tutela, que fixará a sua localização, área de actividade e efectivos humanos necessários ao seu funcionamento.
 
 3 - As delegações da Madeira e dos Açores, transferidas do extinto Instituto Português de Conservas de Peixe, mantêm-se no IPCP até à sua transferência para a tutela dos respectivos governos regionais.
 
-###### Art. 40.º - 1 - Os chefes das delegações dependem, hierarquicamente, do presidente do conselho directivo do IPCP, e, funcionalmente, do director de Serviços Industriais e de Qualidade.
+Art. 40.º - 1 - Os chefes das delegações dependem, hierarquicamente, do presidente do conselho directivo do IPCP, e, funcionalmente, do director de Serviços Industriais e de Qualidade.
 
 2 - As delegações serão chefiadas por um chefe de delegação, com categoria correspondente à letra E.
 
 ### CAPÍTULO III — Da gestão financeira e patrimonial
 
-###### Art. 41.º O IPCP deverá observar na sua gestão os princípios de gestão por objectivos, controle financeiro de resultados e informação permanente sobre a sua evolução financeira e patrimonial.
+Art. 41.º O IPCP deverá observar na sua gestão os princípios de gestão por objectivos, controle financeiro de resultados e informação permanente sobre a sua evolução financeira e patrimonial.
 
-###### Art. 42.º - 1 - A gestão do IPCP será disciplinada pelos seguintes instrumentos de previsão e controle:
+Art. 42.º - 1 - A gestão do IPCP será disciplinada pelos seguintes instrumentos de previsão e controle:
 
 a) Plano anual de actividades;
 
@@ -594,7 +675,7 @@ b) Orçamento anual.
 
 2 - O plano anual deverá concretizar e calendarizar as acções a desenvolver, definindo prioridades e áreas de actuação, sendo o orçamento anual elaborado com base neste plano.
 
-###### Art. 43.º - 1 - Constituem receitas do IPCP:
+Art. 43.º - 1 - Constituem receitas do IPCP:
 
 a) As dotações que lhe forem atribuídas no Orçamento do Estado;
 
@@ -620,9 +701,9 @@ b) Os custos de aquisição, manutenção e conservação de bens ou serviços q
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 44.º O quadro de pessoal do IPCP, suas designações e categorias, é o constante do mapa I anexo ao presente Estatuto.
+Art. 44.º O quadro de pessoal do IPCP, suas designações e categorias, é o constante do mapa I anexo ao presente Estatuto.
 
-###### Art. 45.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, relativamente às carreiras de pessoal de informática, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 45.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, relativamente às carreiras de pessoal de informática, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -640,7 +721,7 @@ a) No lugar de origem, quando à comissão não se seguir provimento definitivo;
 
 b) No lugar do quadro do IPCP em que vier a ser provido definitivamente finda a comissão.
 
-###### Art. 46.º Sem prejuízo do disposto nos artigos seguintes, o recrutamento de pessoal para lugares do quadro do IPCP, bem como a progressão na carreira, serão feitos nos termos seguintes:
+Art. 46.º Sem prejuízo do disposto nos artigos seguintes, o recrutamento de pessoal para lugares do quadro do IPCP, bem como a progressão na carreira, serão feitos nos termos seguintes:
 
 a) Os lugares do pessoal dirigente são providos nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho;
 
@@ -650,17 +731,17 @@ c) O lugar de chefe de repartição será provido de entre chefes de secção co
 
 d) Os restantes lugares do quadro de pessoal do IPCP serão providos nos termos previstos nos Decretos-Leis n.os 4464, de 3 de Fevereiro, e 248/85, de 15 de Julho.
 
-###### Art. 47.º - 1 - Mantém-se no quadro de pessoal do IPCP a categoria de chefe de delegação, com categoria correspondente à letra F, criada pelo [Decreto Regulamentar n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1980-459444), de 17 de Dezembro.
+Art. 47.º - 1 - Mantém-se no quadro de pessoal do IPCP a categoria de chefe de delegação, com categoria correspondente à letra F, criada pelo [Decreto Regulamentar n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1980-459444), de 17 de Dezembro.
 
 2 - Os lugares de chefe de delegação serão providos em regime de comissão de serviço por um período de três anos, renovável, de entre funcionários de categoria não inferior a controlador principal e a chefe de secção ou indivíduos habilitados com curso superior adequado.
 
-###### Art. 48.º - 1 - É criado no quadro de pessoal do IPCP o lugar de controlador coordenador, com categoria correspondente à letra D, o qual e hierarquicamente dependente do director de Serviços Industriais e de Qualidade.
+Art. 48.º - 1 - É criado no quadro de pessoal do IPCP o lugar de controlador coordenador, com categoria correspondente à letra D, o qual e hierarquicamente dependente do director de Serviços Industriais e de Qualidade.
 
 2 - Ao controlador-coordenador compete acompanhar e fiscalizar a actividade das delegações do IPCP.
 
 3 - O lugar de controlador-coordenador será provido em regime de comissão de serviço por um período de três anos de entre funcionários de categoria não inferior à letra F da função pública ou de entre indivíduos habilitados com o curso geral de ensino secundário ou equivalente com reconhecida competência que prestem serviço em organismos e serviços do Estado ou em empresas públicas, nacionalizadas ou em liquidação sob tutela do Ministério da Agricultura, Pescas e Alimentação.
 
-###### Art. 49.º - 1 - Mantém-se no quadro de pessoal do IPCP a carreira de controladores de qualidade de conservas de peixe, criada pelo [Decreto Regulamentar n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1980-459444), de 17 de Dezembro, que se desenvolve pelas seguintes categorias:
+Art. 49.º - 1 - Mantém-se no quadro de pessoal do IPCP a carreira de controladores de qualidade de conservas de peixe, criada pelo [Decreto Regulamentar n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1980-459444), de 17 de Dezembro, que se desenvolve pelas seguintes categorias:
 
 a) Controlador-chefe, letra F - por concurso documental e avaliação curricular de entre os controladores principais com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -678,25 +759,25 @@ f) Controlador auxiliar de 2.ª classe, letra M - de entre indivíduos habilitad
 
 3 - Os critérios de admissão aos estágios previstos no número anterior serão definidos pelo ministério da tutela realizando-se estes no IPCP em períodos com duração máxima de seis meses.
 
-###### Art. 50.º - 1 - Aos funcionários do IPCP poderão ser atribuídos prémios de produtividade ou gratificações em razão do trabalho desenvolvido ou das funções desempenhadas.
+Art. 50.º - 1 - Aos funcionários do IPCP poderão ser atribuídos prémios de produtividade ou gratificações em razão do trabalho desenvolvido ou das funções desempenhadas.
 
 2 - As condições de atribuição serão fixadas por despacho conjunto do Ministério das Finanças e do Ministério da Agricultura, Pescas e Alimentação.
 
 ### CAPÍTULO V — Das disposições transitórias e finais
 
-###### Art. 51.º - 1 - Os funcionários do quadro do extinto Instituto Português de Conservas de Peixe transitam, sem mais formalidades, para categorias equivalentes do quadro do IPCP.
+Art. 51.º - 1 - Os funcionários do quadro do extinto Instituto Português de Conservas de Peixe transitam, sem mais formalidades, para categorias equivalentes do quadro do IPCP.
 
 2 - Exceptua-se do regime previsto no número anterior o pessoal que exerce funções em obras de assistência nas Delegações de Olhão e Portimão, que transita com as mesmas categorias para o quadro do Conselho Regional de Segurança Social de Faro.
 
-###### Art. 52.º - 1 - É excepcionalmente alargada a área de recrutamento para o preenchimento dos lugares de director de Serviços de Mercado, director de Serviços de Estruturas e Desenvolvimento de Produtos, director de Serviços Industriais e de Qualidade, chefe da Divisão de Estatística e Informação do Mercado, chefe da Divisão da Regulação do Mercado. chefe da Divisão de Comercialização e Abastecimento, chefe da Divisão de Estruturas de Comercialização e Transformação, chefe da Divisão de Promoção e Valorização de Produtos, chefe da Divisão de Controle de Qualidade e chefe da Divisão de Normas de Comercialização a indivíduos com licenciatura que prestem serviço em outros serviços do Estado, em organismos e empresas públicas, nacionalizadas ou em liquidação sob tutela do Ministério da Agricultura, Pescas e Alimentação.
+Art. 52.º - 1 - É excepcionalmente alargada a área de recrutamento para o preenchimento dos lugares de director de Serviços de Mercado, director de Serviços de Estruturas e Desenvolvimento de Produtos, director de Serviços Industriais e de Qualidade, chefe da Divisão de Estatística e Informação do Mercado, chefe da Divisão da Regulação do Mercado. chefe da Divisão de Comercialização e Abastecimento, chefe da Divisão de Estruturas de Comercialização e Transformação, chefe da Divisão de Promoção e Valorização de Produtos, chefe da Divisão de Controle de Qualidade e chefe da Divisão de Normas de Comercialização a indivíduos com licenciatura que prestem serviço em outros serviços do Estado, em organismos e empresas públicas, nacionalizadas ou em liquidação sob tutela do Ministério da Agricultura, Pescas e Alimentação.
 
 2 - O despacho de nomeação para provimento dos cargos referidos no número anterior será acompanhado, para publicação, do currículo do nomeado.
 
-###### Art. 53.º - 1 - O IPCP pode exercer, acessoriamente, actividades relacionadas com o seu objectivo principal, nomeadamente a prestação de serviços solicitados por entidades públicas ou privadas, nacionais ou estrangeiras, mediante autorização dos Ministros da tutela e das Finanças.
+Art. 53.º - 1 - O IPCP pode exercer, acessoriamente, actividades relacionadas com o seu objectivo principal, nomeadamente a prestação de serviços solicitados por entidades públicas ou privadas, nacionais ou estrangeiras, mediante autorização dos Ministros da tutela e das Finanças.
 
 2 - Os serviços prestados nas categorias indicadas no número anterior serão remunerados segundo tabela a aprovar pelos Ministros da tutela e das Finanças.
 
-###### Art. 54.º A cobrança coerciva dos créditos do IPCP far-se-á pelo processo das execuções fiscais, servindo de base à execução certidão extraída dos livros ou documentos, passada pela Divisão de Administração Financeira e Patrimonial, de que conste:
+Art. 54.º A cobrança coerciva dos créditos do IPCP far-se-á pelo processo das execuções fiscais, servindo de base à execução certidão extraída dos livros ou documentos, passada pela Divisão de Administração Financeira e Patrimonial, de que conste:
 
 a) Nome ou denominação e domicílio ou sede do devedor;
 
@@ -704,13 +785,13 @@ b) Proveniência da dívida e indicação por extenso do seu montante;
 
 c) Data da certidão e assinatura da entidade emitente devidamente autenticada com o selo branco do IPCP.
 
-###### Art. 55.º O IPCP poderá descontar directamente aos depositantes os certificados anexos aos conhecimentos de depósito de mercadorias depositadas em regime de armazéns gerais industriais.
+Art. 55.º O IPCP poderá descontar directamente aos depositantes os certificados anexos aos conhecimentos de depósito de mercadorias depositadas em regime de armazéns gerais industriais.
 
-###### Art. 56.º O IPCP promoverá cursos de formação técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 56.º O IPCP promoverá cursos de formação técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 57.º Os laboratórios do IPCP são, para todos os efeitos, considerados oficiais e os boletins ou certificados de análise e outros documentos deles emanados têm carácter oficial e fazem fé em juízo.
+Art. 57.º Os laboratórios do IPCP são, para todos os efeitos, considerados oficiais e os boletins ou certificados de análise e outros documentos deles emanados têm carácter oficial e fazem fé em juízo.
 
-###### Art. 58.º - 1 - Todas as organizações de produtores, industriais e respectivas unidades fabris, bem como os exportadores deverão estar obrigatoriamente inscritos no IPCP.
+Art. 58.º - 1 - Todas as organizações de produtores, industriais e respectivas unidades fabris, bem como os exportadores deverão estar obrigatoriamente inscritos no IPCP.
 
 2 - Quando as instalações fabris não satisfaçam as condições de higiene e salubridade legalmente estabelecidas, fica o industrial respectivo sujeito às sanções previstas na legislação em vigor.
 
@@ -720,11 +801,11 @@ c) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 5 - Para o efeito das disposições anteriores são considerados todos os locais afectos aos fins acima previstos, cobertos ou não, assim como equipamentos, pios e outras instalações.
 
-###### Art. 59.º - 1 - O controle deverá efectuar-se em todos os locais onde se exerçam actividades relacionadas com os produtos da indústria transformadora da pesca.
+Art. 59.º - 1 - O controle deverá efectuar-se em todos os locais onde se exerçam actividades relacionadas com os produtos da indústria transformadora da pesca.
 
 2 - Deverão ser facultados aos funcionários do IPCP, devidamente identificados, os esclarecimentos e informações que forem solicitados, de modo a permitir o exercício cabal da sua acção fiscalizadora, bem como o acesso às instalações.
 
-###### Art. 60.º - 1 - Sempre que se verifiquem infracções de normas cujo controle lhes compete, devem os funcionários do IPCP levantar auto de notícia, procedendo ainda às diligências necessárias à repressão de infracções, nos termos do Código de Processo Penal.
+Art. 60.º - 1 - Sempre que se verifiquem infracções de normas cujo controle lhes compete, devem os funcionários do IPCP levantar auto de notícia, procedendo ainda às diligências necessárias à repressão de infracções, nos termos do Código de Processo Penal.
 
 2 - O cumprimento do dever de levantar auto de notícia e de lhe dar seguimento não depende de ordem expressa, devendo os funcionários da fiscalização considerar-se, para o efeito, permanentemente em serviço.
 
@@ -732,20 +813,20 @@ c) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 4 - Independentemente de qualquer infracção encontrada, deverá sempre ser levantado auto da diligência efectuada.
 
-###### Art. 61.º - 1 - Quando tiver de ser interrompida a diligência em que haja suspeita de infracção, os funcionários do IPCP deverão tomar as disposições necessárias para evitar que possam ser alterados os elementos sujeitos a exames e proceder, sempre que possível, à aposição de selos.
+Art. 61.º - 1 - Quando tiver de ser interrompida a diligência em que haja suspeita de infracção, os funcionários do IPCP deverão tomar as disposições necessárias para evitar que possam ser alterados os elementos sujeitos a exames e proceder, sempre que possível, à aposição de selos.
 
 2 - Deverão ser apreendidos e selados os produtos fabricados ou matérias-primas destinadas ao seu fabrico que fundadamente pareçam não possuir as necessárias características de salubridade e qualidade.
 
-###### Art. 62.º Os membros do conselho directivo, directores de serviço, chefes de divisão, controladores de qualidade e outros funcionários do IPCP, devidamente credenciados, quando no exercício das suas funções, terão livre entrada a bordo e em qualquer estação, cais de embarque ou aeroporto e regalias de defesa pessoal como agentes da autoridade, podendo requisitar o auxílio da força pública sempre que seja oposta resistência ao exercício das suas funções.
+Art. 62.º Os membros do conselho directivo, directores de serviço, chefes de divisão, controladores de qualidade e outros funcionários do IPCP, devidamente credenciados, quando no exercício das suas funções, terão livre entrada a bordo e em qualquer estação, cais de embarque ou aeroporto e regalias de defesa pessoal como agentes da autoridade, podendo requisitar o auxílio da força pública sempre que seja oposta resistência ao exercício das suas funções.
 
-###### Art. 63.º Em todas as embalagens de produtos transformados da pesca é obrigatório que as designações nelas inscritas correspondam exactamente ao seu conteúdo e que tenham gravada, por forma legível, a indicação de origem portuguesa, o número de fabricante e a data do fabrico. em código ou em claro, devendo também nelas ser impresso ou litografado o peso líquido do produto.
+Art. 63.º Em todas as embalagens de produtos transformados da pesca é obrigatório que as designações nelas inscritas correspondam exactamente ao seu conteúdo e que tenham gravada, por forma legível, a indicação de origem portuguesa, o número de fabricante e a data do fabrico. em código ou em claro, devendo também nelas ser impresso ou litografado o peso líquido do produto.
 
-###### Art. 64.º O IPCP cobrará aos compradores pelos serviços prestados no acto da primeira venda de pescado em lota uma taxa, a fixar por despacho do ministro da tutela, cujo montante não poderá, no entanto, ultrapassar 0,2% do preço de aquisição em lota.
+Art. 64.º O IPCP cobrará aos compradores pelos serviços prestados no acto da primeira venda de pescado em lota uma taxa, a fixar por despacho do ministro da tutela, cujo montante não poderá, no entanto, ultrapassar 0,2% do preço de aquisição em lota.
 
-###### Art. 65.º O IPCP elaborará e dará conhecimento de normas e determinações às indústrias transformadores dos produtos da pesca. nomeadamente em matéria de sanidade e qualidade, que constituirão instrumento de regulamentação obrigatório.
+Art. 65.º O IPCP elaborará e dará conhecimento de normas e determinações às indústrias transformadores dos produtos da pesca. nomeadamente em matéria de sanidade e qualidade, que constituirão instrumento de regulamentação obrigatório.
 
-###### Art. 66.º A Direcção-Geral das Alfândegas deverá certificar-se de que os produtos das indústrias transformadoras da pesca destinados à exportação se fazem acompanhar do necessário certificado de qualidade passado pelo IPCP.
+Art. 66.º A Direcção-Geral das Alfândegas deverá certificar-se de que os produtos das indústrias transformadoras da pesca destinados à exportação se fazem acompanhar do necessário certificado de qualidade passado pelo IPCP.
 
 Mapa a que se refere o artigo 44.º do estatuto anexo ao Decreto-Lei n.º 000/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20200/24062413.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20200/24062413.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20200/24062413.pdf)

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 190/1986, 1º Suplemento, Série I de 1986-08-20
   number: '190'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2106-(1) a 2106-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19001/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-1986-468671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09c045204069c55644075bb1cb071e95e608bd604114daac9bdd2461933dbfc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37ac79fea7ec6b7b856859b1447ea0421c1fb460d06e4589cc0d9de479ca06d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dragapor-dragagens de Portugal
+- Empresa Pública
+- Estatuto
+- Privatização
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a empresa Dragagens de Portugal, S.A., a que se refere\
+    \ o p presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: cites
+  target: pt:dre:255391:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477583:por
+  label: Rectificado pela DECL.DD4506.06.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477583
+  date: '1986-10-06'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:20Z'
   warnings: []
   errors: []
 ---
@@ -109,27 +134,27 @@ Nos termos legais, foi ouvida a estrutura representativa dos trabalhadores da em
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A empresa pública Dragagens de Portugal, E. P., abreviadamente designada por DRAGAPOR, criada pelo [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, com estatuto de empresa pública, é pelo presente diploma transformada em sociedade anónima de responsabilidade limitada, passando a designar-se DRAGAPOR - Dragagens de Portugal, S. A. R. L.
+Artigo 1.º A empresa pública Dragagens de Portugal, E. P., abreviadamente designada por DRAGAPOR, criada pelo [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, com estatuto de empresa pública, é pelo presente diploma transformada em sociedade anónima de responsabilidade limitada, passando a designar-se DRAGAPOR - Dragagens de Portugal, S. A. R. L.
 
-###### Art. 2.º - 1 - A DRAGAPOR, S. A. R. L., mantém, sob a forma referida no artigo anterior, a personalidade jurídica da DRAGAPOR, E. P., conservando todos os bens, direitos e obrigações, incluindo as posições contratuais, integrantes do activo e passivo desta.
+Art. 2.º - 1 - A DRAGAPOR, S. A. R. L., mantém, sob a forma referida no artigo anterior, a personalidade jurídica da DRAGAPOR, E. P., conservando todos os bens, direitos e obrigações, incluindo as posições contratuais, integrantes do activo e passivo desta.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser feitos pelas repartições competentes com base em simples comunicação subscrita por dois membros do conselho de administração da DRAGAPOR, S. A. R. L., sendo isentos de quaisquer taxas ou emolumentos.
 
-###### Art. 3.º - 1 - A DRAGAPOR, S. A. R. L., passa a reger-se pelo presente diploma, pelo seu estatuto e pelas normas de direito privado que regulam as sociedades anónimas de responsabilidade limitada.
+Art. 3.º - 1 - A DRAGAPOR, S. A. R. L., passa a reger-se pelo presente diploma, pelo seu estatuto e pelas normas de direito privado que regulam as sociedades anónimas de responsabilidade limitada.
 
 2 - Os poderes do Estado como accionista da empresa são exercidos através dos representantes designados por despacho conjunto do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 4.º - 1 - A DRAGAPOR, S. A. R. L., terá inicialmente um capital social de 774000000$00, o qual se considera integralmente subscrito e realizado pelo Estado, por força da situação líquida da DRAGAPOR, E. P., à data da entrada em vigor do presente diploma.
+Art. 4.º - 1 - A DRAGAPOR, S. A. R. L., terá inicialmente um capital social de 774000000$00, o qual se considera integralmente subscrito e realizado pelo Estado, por força da situação líquida da DRAGAPOR, E. P., à data da entrada em vigor do presente diploma.
 
 2 - O Estado poderá alienar as acções de que seja proprietário, observando-se, na alienação, as normas aplicáveis à alienação de participações do sector público.
 
-###### Art. 5.º - 1 - Os trabalhadores ao serviço da DRAGAPOR, E. P., mantêm todos os direitos adquiridos, nomeadamente os direitos e regalias emergentes do contrato colectivo ou individual de trabalho que detiverem à data de entrada em funcionamento da DRAGAPOR, S. A. R. L., e aqueles que lhes houverem sido reconhecidos pelo estatuto de pessoal em vigor na empresa agora transformada.
+Art. 5.º - 1 - Os trabalhadores ao serviço da DRAGAPOR, E. P., mantêm todos os direitos adquiridos, nomeadamente os direitos e regalias emergentes do contrato colectivo ou individual de trabalho que detiverem à data de entrada em funcionamento da DRAGAPOR, S. A. R. L., e aqueles que lhes houverem sido reconhecidos pelo estatuto de pessoal em vigor na empresa agora transformada.
 
 2 - Os funcionários do Estado, de institutos públicos ou de empresas públicas podem ser autorizados a exercer funções na DRAGAPOR, S. A. R. L., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem.
 
 3 - A situação dos trabalhadores da DRAGAPOR, S. A. R. L., que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
-###### Art. 6.º - 1 - A DRAGAPOR, S. A. R. L., terá como órgãos a assembleia geral, o conselho de administração e o conselho fiscal, com composição e competências fixadas nos estatutos.
+Art. 6.º - 1 - A DRAGAPOR, S. A. R. L., terá como órgãos a assembleia geral, o conselho de administração e o conselho fiscal, com composição e competências fixadas nos estatutos.
 
 2 - No entanto, constituirão sempre competência da assembleia geral:
 
@@ -143,13 +168,13 @@ d) Deliberar sobre aumentos de capital e alterações do estatuto;
 
 e) Autorizar a prossecução de actividades que não se compreendam no objecto principal da sociedade.
 
-###### Art. 7.º- 1 - É aprovado o estatuto da DRAGAPOR, S. A. R. L., anexo, que se considera parte integrante deste diploma.
+Art. 7.º- 1 - É aprovado o estatuto da DRAGAPOR, S. A. R. L., anexo, que se considera parte integrante deste diploma.
 
 2 - O presente estatuto não carece de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que haja sido publicado.
 
 3 - As eventuais alterações ao presente estatuto poderão ser efectuadas de harmonia com as disposições aplicáveis na lei comercial e do próprio estatuto e produzirão todos os seus efeitos independentemente da forma legislativa, desde que não contradigam o disposto nos artigos deste decreto-lei, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
-###### Art. 8.º - 1 - Os poderes do Estado como accionista maioritário da empresa implicam, entre outros e sem prejuízo do disposto na lei comercial quanto à obrigação de prestação de informações, a obrigação do envio pela sociedade ao Ministério das Finanças e ao Ministério das Obras Públicas, Transportes e Comunicações, pelo menos com quinze dias de antecedência da assembleia geral a quem cabe a sua apreciação:
+Art. 8.º - 1 - Os poderes do Estado como accionista maioritário da empresa implicam, entre outros e sem prejuízo do disposto na lei comercial quanto à obrigação de prestação de informações, a obrigação do envio pela sociedade ao Ministério das Finanças e ao Ministério das Obras Públicas, Transportes e Comunicações, pelo menos com quinze dias de antecedência da assembleia geral a quem cabe a sua apreciação:
 
 a) Do relatório de contas, com apreciação da forma de execução dos orçamentos;
 
@@ -159,19 +184,19 @@ b) De quaisquer elementos adequados à compreensão integral da situação econ�
 
 3 - Os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações definirão, por despacho conjunto, as regras a aplicar para efeitos do disposto nos números anteriores.
 
-###### Art. 9.º - 1 - A transformação determinada pelo presente diploma produz os seus efeitos na data da entrada em vigor do mesmo.
+Art. 9.º - 1 - A transformação determinada pelo presente diploma produz os seus efeitos na data da entrada em vigor do mesmo.
 
 2 - Fica desde já convocada a assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração, que reunirá um mês após a data de publicação do presente diploma, mantendo-se entretanto em funções os actuais membros do conselho de gerência e da comissão de fiscalização da DRAGAPOR, E. P.
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 9 de Agosto de 1986.**
+Promulgado em 9 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Agosto de 1986.**
+Referendado em 14 de Agosto de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
@@ -179,35 +204,35 @@ Estatutos da DRAGAPOR - Dragagens de Portugal, S. A. R. L.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de DRAGAPOR - Dragagens de Portugal, S. A. R. L.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de DRAGAPOR - Dragagens de Portugal, S. A. R. L.
 
-###### Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa.
+Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa.
 
 2 - Por deliberação do conselho de administração poderá a sociedade criar em qualquer ponto do território nacional, ou fora dele, agências, delegações ou qualquer forma de representação.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto principal a exploração do serviço de dragagens dos fundos marítimos e fluviais.
+Art. 3.º - 1 - A sociedade tem por objecto principal a exploração do serviço de dragagens dos fundos marítimos e fluviais.
 
 2 - A sociedade pode acessoriamente exercer outras actividades complementares ou relacionadas com o seu objecto principal.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 774000 contos, totalmente realizado, e acha-se dividido em 774000 acções nominativas, de 1000$00 cada uma, pertencentes ao Estado.
+Art. 4.º - 1 - O capital social é de 774000 contos, totalmente realizado, e acha-se dividido em 774000 acções nominativas, de 1000$00 cada uma, pertencentes ao Estado.
 
 2 - Haverá títulos de 1, 5, 50, 1000 e 10000 acções, podendo o conselho de administração emitir certificados provisórios ou definitivos representativos de qualquer número de acções.
 
 3 - As despesas com o desdobramento dos títulos correrão por conta dos accionistas que o requeiram.
 
-###### Art. 5.º - 1 - Na subscrição de novas acções resultantes do aumento do capital têm preferência os trabalhadores da sociedade e os accionistas em condições a definir pela assembleia geral.
+Art. 5.º - 1 - Na subscrição de novas acções resultantes do aumento do capital têm preferência os trabalhadores da sociedade e os accionistas em condições a definir pela assembleia geral.
 
 2 - As acções podem ser alienadas livremente.
 
-###### Art. 6.º - 1 - A sociedade poderá emitir, interna ou externamente, obrigações e outros títulos de dívida nos termos da legislação aplicável.
+Art. 6.º - 1 - A sociedade poderá emitir, interna ou externamente, obrigações e outros títulos de dívida nos termos da legislação aplicável.
 
 2 - A sociedade pode emitir avales e prestar garantias.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º - 1 - A assembleia geral é formada pelos acciodo direito a voto.
+Art. 7.º - 1 - A assembleia geral é formada pelos acciodo direito a voto.
 
 2 - A cada 100 acções corresponde um voto na assembleia geral.
 
@@ -221,7 +246,7 @@ Estatutos da DRAGAPOR - Dragagens de Portugal, S. A. R. L.
 
 7 - Os restantes accionistas que sejam pessoas colectivas deverão indicar, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.
 
-###### Art. 8.º Compete à assembleia geral:
+Art. 8.º Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho da administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e decidir sobre a aplicação dos resultados do exercício;
 
@@ -237,19 +262,19 @@ f) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo par
 
 g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 9.º - 1 - A assembleia geral será convocada e dirigida pela respectiva mesa, constituída por um presidente, um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia, cujas faltas serão supridas nos termos da lei comercial.
+Art. 9.º - 1 - A assembleia geral será convocada e dirigida pela respectiva mesa, constituída por um presidente, um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia, cujas faltas serão supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com uma antecedência mínima de quinze dias, com indicação expressa dos assuntos a tratar.
 
 3 - O mandato dos membros da mesa da assembleia geral é renovável.
 
-###### Art. 10.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem pelo menos 10% do capital.
+Art. 10.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem pelo menos 10% do capital.
 
-###### Art. 11.º - 1 - O conselho de admininstração é composto por um presidente e por dois ou quatro vogais.
+Art. 11.º - 1 - O conselho de admininstração é composto por um presidente e por dois ou quatro vogais.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
-###### Art. 12.º - 1 - Ao conselho de administração compete:
+Art. 12.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -263,7 +288,7 @@ e) Constituir mandatários com os poderes que julgue convenientes.
 
 2 - O conselho de administração poderá delegar numa comissão executiva, constituída por alguns dos seus membros, algum ou alguns dos poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Coordenar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões;
 
@@ -273,11 +298,11 @@ c) Velar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 14.º - 1 - O conselho de administração não poderá funcionar sem a presença da maioria dos membros.
+Art. 14.º - 1 - O conselho de administração não poderá funcionar sem a presença da maioria dos membros.
 
 2 - As deliberações do conselho de administração constarão sempre de acta e serão tomadas por maioria dos votos presentes, tendo o presidente, ou quem legalmente o substitui, voto de qualidade.
 
-###### Art. 15.º - 1 - A sociedade obriga-se:
+Art. 15.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -285,7 +310,7 @@ b) Pela assinatura dos mandatários constituídos no âmbito do correspondente m
 
 2 - Em assuntos do mero expediente bastará a assinatura de um administrador.
 
-###### Art. 16.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, eleitos em assembleia geral.
+Art. 16.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos será revisor oficial de contas.
 
@@ -295,9 +320,9 @@ b) Pela assinatura dos mandatários constituídos no âmbito do correspondente m
 
 ### CAPÍTULO IV
 
-###### Art. 17.º Permanecem ao serviço da DRAGAPOR, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, incluindo a contagem de tempo de antiguidade, os trabalhadores que já se encontravam ao serviço da DRAGAPOR, E. P., à data da sua transformação.
+Art. 17.º Permanecem ao serviço da DRAGAPOR, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, incluindo a contagem de tempo de antiguidade, os trabalhadores que já se encontravam ao serviço da DRAGAPOR, E. P., à data da sua transformação.
 
-###### Art. 18.º O regime jurídico do pessoal é definido:
+Art. 18.º O regime jurídico do pessoal é definido:
 
 a) Pelas leis gerais do contrato individual de trabalho;
 
@@ -307,7 +332,7 @@ c) Pelas demais normas que integrem o estatuto do pessoal da empresa, elaborado 
 
 ### CAPÍTULO V — Aplicação dos resultados
 
-###### Art. 19.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na cobertura de reserva legal prevista no artigo 191.º do Código Comercial e na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado pela assembleia geral com observância dos seguintes critérios:
+Art. 19.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na cobertura de reserva legal prevista no artigo 191.º do Código Comercial e na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado pela assembleia geral com observância dos seguintes critérios:
 
 a) Pelo menos 20% do remanescente será aplicado na distribuição de dividendos aos accionistas;
 
@@ -315,10 +340,10 @@ b) Até 15% do remanescente será aplicado como participação nos lucros dos tr
 
 ### CAPÍTULO VI — Disposições diversas e transitórias
 
-###### Art. 20.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar cauções pelo exercício dos seus cargos.
+Art. 20.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar cauções pelo exercício dos seus cargos.
 
-###### Art. 21.º A transformação da DRAGAPOR, E. P., em DRAGAPOR, S. A. R. L., produz efeitos a partir da data da entrada em vigor do diploma de que é anexo o presente estatuto.
+Art. 21.º A transformação da DRAGAPOR, E. P., em DRAGAPOR, S. A. R. L., produz efeitos a partir da data da entrada em vigor do diploma de que é anexo o presente estatuto.
 
-###### Art. 22.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 22.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.

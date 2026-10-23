@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10100/11611165.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1985-152335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bbf3a07043f638b220f12e27093c09e34fbb22013f804eb68ef717ab1954acb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b965a1f72f7ec5f21d5f0c7c1784402cc2c81ba95c692ba6fc1ce477c655377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Faltas
+- Licença por Maternidade
+- Maternidade
+- Paternidade
+- Proteção à Infância
+- Protecção à Família
+- Protecção da Maternidade
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:558977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643721:por
+  label: "Alterada a redacção dos arts. 2.º, 3.º, 5.º a 8.º, 10.º a 12.º e 28.º, e aditado ao mesmo diploma, os arts. 2.º-A,\
+    \ 16.º-A e 30.º, pelo DEC LEI.332/95.1995.12.23.MESS DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-1995-643721
+  date: '1995-12-23'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Aditado um art. 39º, pela LEI.118/99.1999.08.11.AR, DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684228:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285482:por
+  label: "Revogado o Capítulo III pelo DEC LEI.154/88.29.04.1988.MESS, DR.IS [99] de 29.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1988-285482
+  date: '1988-04-29'
+- type: repealed_by
+  target: pt:dre:558977:por
+  label: "Revogado pelo DEC LEI.230/2000.2000.09.23.MTS,DR.IS-A [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2000-558977
+  date: '2000-09-23'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:04Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +173,7 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito de aplicação pessoal)
 
@@ -112,7 +181,7 @@ O presente diploma regulamenta a [Lei n.º 4/84](https://diariodarepublica.pt/dr
 
 ### CAPÍTULO II — Protecção no trabalho
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Licença por maternidade ou paternidade)
 
@@ -122,7 +191,7 @@ O presente diploma regulamenta a [Lei n.º 4/84](https://diariodarepublica.pt/dr
 
 3 - Nos casos previstos no n.º 2 do artigo 9.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, e no número anterior, a mãe gozará obrigatoriamente 30 dias de licença por maternidade a seguir ao parto, podendo o restante período ser gozado pelo pai.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Licença por adopção)
 
@@ -136,19 +205,19 @@ O presente diploma regulamenta a [Lei n.º 4/84](https://diariodarepublica.pt/dr
 
 5 - Não há lugar à licença prevista neste artigo se a criança a adoptar for filha do cônjuge do trabalhador.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Efeitos das licenças nas férias)
 
 O exercício do direito a licença por maternidade, paternidade ou por adopção suspende o gozo de férias, devendo os restantes dias de férias ser gozados após o termo da licença, mesmo que tal se verifique no ano civil seguinte.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Efeitos das licenças em estágios e cursos de formação)
 
 O exercício do direito à licença por maternidade paternidade ou por adopção não prejudica o tempo de estágios, internatos ou cursos de formação já realizados ou frequentados, sem prejuízo do cumprimento pelos trabalhadores do tempo em falta para completar os estágios, internatos ou cursos de formação.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Dispensas para consultas)
 
@@ -156,7 +225,7 @@ O exercício do direito à licença por maternidade paternidade ou por adopção
 
 2 - Quando a consulta só for possível dentro do horário de funcionamento normal da empresa, pode ser exigida à trabalhadora a apresentação de documento comprovativo dessa circunstância e da realização da consulta ou declaração sob compromisso de honra dos mesmos factos.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Dispensas para amamentação)
 
@@ -164,7 +233,7 @@ O exercício do direito à licença por maternidade paternidade ou por adopção
 
 2 - Para o exercício do direito a ser dispensada para amamentação, a trabalhadora deverá apresentar à entidade empregadora declaração sob compromisso de honra de que amamenta o filho.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Justificação de faltas para assistência a menores doentes e à família)
 
@@ -172,13 +241,13 @@ O exercício do direito à licença por maternidade paternidade ou por adopção
 
 2 - Em caso de hospitalização de filho, adoptado ou enteado menor de 10 anos, a justificação das faltas será feita, quando exigida, mediante declaração de internamento passada pelo respectivo estabelecimento hospitalar e assinada pelo responsável clínico.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Regime das faltas, licenças e dispensas)
 
 As licenças, dispensas e faltas previstas nos artigos 9.º, 10.º, 11.º, 13.º e 23.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, não determinam perda de quaisquer direitos, sendo consideradas, para todos os efeitos, como prestação efectiva de trabalho, salvo quanto à remuneração.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Normas aplicáveis)
 
@@ -186,7 +255,7 @@ As licenças, dispensas e faltas previstas nos artigos 9.º, 10.º, 11.º, 13.º
 
 2 - Os direitos a licenças, a dispensas ou a faltas previstos nos artigos 9.º a 13.º e 23.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496) e no presente diploma não são cumuláveis com outros direitos similares consagrados na lei.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Licença especial para assistência a filhos)
 
@@ -198,7 +267,7 @@ As licenças, dispensas e faltas previstas nos artigos 9.º, 10.º, 11.º, 13.º
 
 4 - Nas situações previstas no artigo 4.º do presente diploma, a licença especial iniciar-se-á imediatamente após o termo do gozo das férias.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Exercício do direito à licença especial)
 
@@ -220,7 +289,7 @@ As licenças, dispensas e faltas previstas nos artigos 9.º, 10.º, 11.º, 13.º
 
 9 - A licença especial não pode ser interrompida por conveniência da entidade empregadora.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Incompatibilidades)
 
@@ -228,7 +297,7 @@ As licenças, dispensas e faltas previstas nos artigos 9.º, 10.º, 11.º, 13.º
 
 2 - Presume-se incompatível, para os efeitos do número anterior, sem admissão de prova em contrário, qualquer forma de prestação de trabalho subordinado ou de prestação continuada de serviços fora da residência da família.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Efeitos da licença especial)
 
@@ -240,7 +309,7 @@ As licenças, dispensas e faltas previstas nos artigos 9.º, 10.º, 11.º, 13.º
 
 4 - A interrupção não prejudica a aplicação do regime jurídico da cessação do contrato de trabalho.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Regresso do trabalhador)
 
@@ -248,13 +317,13 @@ As licenças, dispensas e faltas previstas nos artigos 9.º, 10.º, 11.º, 13.º
 
 2 - No caso de antecipação do termo da interrupção da prestação de trabalho previsto no artigo 12.º, n.º 8, a entidade empregadora é obrigada a atribuir ao trabalhador a primeira vaga que ocorrer na empresa, na mesma profissão e categoria.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Substituição do trabalhador)
 
 Para substituição do trabalhador que exerça o direito à licença especial, a entidade empregadora pode contratar outro trabalhador pelo prazo respectivo.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Trabalho a meio tempo)
 
@@ -262,7 +331,7 @@ Para substituição do trabalhador que exerça o direito à licença especial, a
 
 2 - Não são abrangidos pela faculdade prevista neste artigo os trabalhadores com cargos ou funções de direcção ou chefia.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Titulares do direito)
 
@@ -270,7 +339,7 @@ Para substituição do trabalhador que exerça o direito à licença especial, a
 
 2 - Salvo acordo das partes, a prestação do trabalho em tempo parcial terá a duração mínima de 6 meses, prorrogáveis até ao limite máximo de 3 anos.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Exercício do direito)
 
@@ -280,7 +349,7 @@ Para substituição do trabalhador que exerça o direito à licença especial, a
 
 3 - A decisão da entidade empregadora será obrigatoriamente proferida até 20 dias após a apresentação do requerimento, presumindo-se, na sua falta, deferimento do requerimento nos seus precisos termos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Efeitos na antiguidade e retribuição)
 
@@ -288,7 +357,7 @@ Para substituição do trabalhador que exerça o direito à licença especial, a
 
 2 - O trabalho em tempo parcial não confere direito a subsídio de refeição ou de alimentação quando seja prestado apenas numa parte do dia, de manhã ou de tarde.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Incompatibilidade)
 
@@ -296,7 +365,7 @@ Para substituição do trabalhador que exerça o direito à licença especial, a
 
 2 - Presume-se incompatível, para os efeitos do número anterior, sem admissão de prova em contrário, qualquer forma de prestação de trabalho subordinado ou de prestação continuada de serviços fora da residência da família.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Regresso à duração normal de trabalho)
 
@@ -304,13 +373,13 @@ Para substituição do trabalhador que exerça o direito à licença especial, a
 
 2 - A prorrogação deste período, até ao limite de 3 anos ou até ao que for estabelecido por acordo das partes, depende de requerimento do trabalhador, observando-se o disposto no artigo 19.º
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Substituição do trabalhador)
 
 Para substituição do trabalhador que preste trabalho em tempo parcial nos termos do presente diploma, a entidade empregadora pode contratar outro trabalhador pelo prazo respectivo.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Jornada contínua)
 
@@ -318,7 +387,7 @@ Para substituição do trabalhador que preste trabalho em tempo parcial nos term
 
 2 - Entende-se por jornada contínua a prestação de trabalho, em cada dia, pelo período da respectiva duração, com o intervalo máximo de meia hora para pausa e alimentação.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Exercício do direito)
 
@@ -326,25 +395,25 @@ Para substituição do trabalhador que preste trabalho em tempo parcial nos term
 
 2 - O processo definido nos artigos 19.º e 22.º é aplicável aos casos de prestação de trabalho em regime de jornada contínua e aos restantes requerimentos e decisões.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Regime)
 
 O período de interrupção da jornada contínua é considerado intervalo de descanso e não é contado para efeitos da duração de trabalho.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Trabalhos proibidos e condicionados)
 
 Enquanto não for definido novo regime, mantém-se em vigor a [Portaria n.º 186/73](https://diariodarepublica.pt/dr/detalhe/portaria/186-1973-684228), de 13 de Março.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Garantia dos direitos)
 
 O não desempenho pelas trabalhadoras, durante a gravidez e até 3 meses após o parto, de tarefas clinicamente desaconselháveis para o seu estado não pode determinar diminuição nem perda da retribuição ou de qualquer outro direito.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Condutas ilícitas dos trabalhadores)
 
@@ -356,19 +425,19 @@ O não desempenho pelas trabalhadoras, durante a gravidez e até 3 meses após o
 
 ### CAPÍTULO III — Prestações pecuniárias dos regimes de segurança social
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Prestações abrangidas)
 
 O presente capítulo regula os subsídios de maternidade e paternidade, o subsídio por adopção e o subsídio para assistência a menores doentes.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Condições gerais de atribuição)
 
 A atribuição dos subsídios referidos no artigo anterior depende do preenchimento das condições gerais de atribuição do subsídio de doença estabelecidas para o regime pelo qual o beneficiário se encontra abrangido e das condições especiais reguladas no presente capítulo.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Subsídio para assistência a menores doentes)
 
@@ -380,7 +449,7 @@ b) Exercerem exclusivamente o poder paternal nos termos dos artigos 1903.º, 190
 
 c) Satisfazerem a condição de recursos prevista no artigo 33.º do presente diploma.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Condição de recursos)
 
@@ -388,7 +457,7 @@ c) Satisfazerem a condição de recursos prevista no artigo 33.º do presente di
 
 2 - Para efeitos do número anterior consideram-se rendimentos mensais os rendimentos auferidos, a qualquer título, pelos membros do agregado familiar, bem como as pensões de alimentos judicialmente fixadas para o próprio ou para os respectivos descendentes.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Montantes)
 
@@ -400,7 +469,7 @@ c) Satisfazerem a condição de recursos prevista no artigo 33.º do presente di
 
 4 - Os subsídios referidos neste diploma não serão concedidos enquanto o beneficiário exercer qualquer actividade profissional.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Requerimento e provas)
 
@@ -408,7 +477,7 @@ c) Satisfazerem a condição de recursos prevista no artigo 33.º do presente di
 
 2 - A prova das situações e dos factos determinantes da atribuição das prestações será feita por declaração prestada pelo beneficiário, sob compromisso de honra, no requerimento do subsídio.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Provas adicionais)
 
@@ -418,7 +487,7 @@ c) Satisfazerem a condição de recursos prevista no artigo 33.º do presente di
 
 3 - Os serviços de fiscalização dos centros regionais de segurança social confirmarão, nos termos da alínea c) do artigo 2.º do [Decreto-Lei n.º 388/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1982-375808), de 16 de Setembro, os requisitos de que depende a atribuição e manutenção do direito aos subsídios previstos.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Equivalência)
 
@@ -428,13 +497,13 @@ c) Satisfazerem a condição de recursos prevista no artigo 33.º do presente di
 
 3 - Os períodos de interrupção do trabalho a que se refere o artigo 14.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496) não são equivalentes à entrada de contribuições, contando apenas, nos termos previstos no artigo 21.º da mesma lei, para a determinação da taxa de formação das pensões.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Manutenção de direitos)
 
 Mantém-se o direito ao subsídio de maternidade do esquema de prestações dos trabalhadores abrangidos pelo [Decreto-Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1982-601290), de 18 de Janeiro, nos termos do presente diploma, considerando-se alargados àqueles beneficiários os subsídios de paternidade e por adopção, nas condições previstas neste diploma, com as necessárias adaptações.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Sanções)
 
@@ -444,7 +513,7 @@ Mantém-se o direito ao subsídio de maternidade do esquema de prestações dos 
 
 ### CAPÍTULO IV — Disposições finais
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Normas revogadas e derrogadas)
 
@@ -462,12 +531,12 @@ d) O [Decreto-Lei n.º 503/80](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo.
 
-**Promulgado em 17 de Abril de 1985.**
+Promulgado em 17 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Abril de 1985.**
+Referendado em 19 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

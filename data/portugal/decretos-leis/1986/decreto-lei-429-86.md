@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29800/38403842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1986-210829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6abb83daae52fdfdea62bfdfd29c50b74cc86af10408f5b5e1415d2c9a2cd95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 699403ab9e1521fb44847f1da9b717f2f385c936c8899bd68e00753eac618836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Denominação de Origem
+- Vinho
+- ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:479875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549825:por
+  label: "Substituída pela denominação «Varosa» a denominação «Lamego», pelo DEC LEI.404/89.15.11.1989.MAPA, DR.IS [263] de\
+    \ 15.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-1989-549825
+  date: '1989-11-15'
+- type: amended_by
+  target: pt:dre:665158:por
+  label: Alterada a denominação 'Torres' constante de n.º 1 do art. 1.º, para 'Torres Vedras', pelo(a) Decreto-Lei n.º 375/93
+    - Diário da República n.º 259/1993, Série I-A de 1993-11-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1993-665158
+  date: '1993-11-05'
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação
+    da legislação prevista nos arts 5º a 11º do referido diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:30Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +138,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São reconhecidas como denominações de origem correspondentes aos vinhos de qualidade produzidos em zonas vitícolas, considerados de interesse em sede de delimitação e regulamentação destas, as seguintes:
+Artigo 1.º - 1 - São reconhecidas como denominações de origem correspondentes aos vinhos de qualidade produzidos em zonas vitícolas, considerados de interesse em sede de delimitação e regulamentação destas, as seguintes:
 
 Valpaços;
 
@@ -175,26 +200,26 @@ Arrábida.
 
 4 - Para efeitos da delimitação e regulamentação mencionadas no n.º 1, bem como para o estabelecimento à necessária disciplina relativa aos vinhos a que se refere o mesmo número, aplicar-se-ão os princípios gerais constantes da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e demais legislação em vigor.
 
-###### Art. 2.º - 1 - No estatuto de cada zona vitícola, a definir nos termos da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, será feita a qualificação dos respectivos vinhos como de «indicação de proveniência regulamentada» (IPR), ou em condições excepcionais como de «denominação de origem controlada» (DOC).
+Art. 2.º - 1 - No estatuto de cada zona vitícola, a definir nos termos da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, será feita a qualificação dos respectivos vinhos como de «indicação de proveniência regulamentada» (IPR), ou em condições excepcionais como de «denominação de origem controlada» (DOC).
 
 2 - No termo do período de cinco anos após a sua regulamentação, poderão os vinhos qualificados nesta fase como de «indicação de proveniência regulamentada» (IPR) vir a ser qualificados, em face de novo estatuto, como vinhos de «denominação de origem controlada» (DOC), atentos os factos relevantes, designadamente o regime disciplinar aplicável e a própria evolução verificada, na respectiva comercialização.
 
-###### Art. 3.º - 1 - As comissões de apoio previstas no n.º 2 do artigo 3.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875) deverão ser constituídas no prazo de seis meses, devendo os serviços competentes do Ministério da Agricultura, Pescas e Alimentação, desde que solicitados, prestar a colaboração necessária.
+Art. 3.º - 1 - As comissões de apoio previstas no n.º 2 do artigo 3.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875) deverão ser constituídas no prazo de seis meses, devendo os serviços competentes do Ministério da Agricultura, Pescas e Alimentação, desde que solicitados, prestar a colaboração necessária.
 
 2 - As comissões referidas no número anterior deverão ser constituídas, sempre que possível, agrupando zonas vitícolas, por forma que estas venham a constituir uma região de maior dimensão, sem prejuízo dos interesses legítimos da produção, e se mantenha o mesmo padrão de tipicidade ou padrões de tipicidade aproximados.
 
-###### Art. 4.º - 1 - As designações enunciadas no n.º 1 do artigo 1.º perdem o reconhecimento conferido pelo presente decreto-lei se, no prazo de dois anos, como resultado dos trabalhos da comissão de apoio no referente a delimitação e regulamentação da zona vitícola, não for aprovado o respectivo estatuto.
+Art. 4.º - 1 - As designações enunciadas no n.º 1 do artigo 1.º perdem o reconhecimento conferido pelo presente decreto-lei se, no prazo de dois anos, como resultado dos trabalhos da comissão de apoio no referente a delimitação e regulamentação da zona vitícola, não for aprovado o respectivo estatuto.
 
 2 - As denominações de origem reconhecida anteriormente ao disposto no presente decreto-lei perdem o reconhecimento conferido se no prazo de um ano não derem cumprimento ao estipulado na [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1986. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

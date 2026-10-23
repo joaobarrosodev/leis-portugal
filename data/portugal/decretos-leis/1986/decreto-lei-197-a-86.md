@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 163/1986, 1º Suplemento, Série I de 1986-07-18
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1774-(1) a 1774-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/16301/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-1986-661161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 328b1a5f4832483fb54a45176b25674db2bda85c4fce51301c565f948eb38a06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56297770c7b07bf0a1e288c457ee0e44e4a846580af1377f066b323bdf6a5c12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia de Diamantes de Angola
+- Indemnização
+- IPE
+- Pedra Preciosa
+- Sociedade Portuguesa de Empreendimentos
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684061:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354112:por
+  label: "Revogados os artigos 1.º e 2.º pelo DEC LEI.383/88.25.10.1988.MJ, DR.IS [247] de 25.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1988-354112
+  date: '1988-10-25'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:25Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +131,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A faculdade atribuída pelo n.º 4 do artigo único do [Decreto-Lei n.º 301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186), de 27 de Julho, pode ser exercida em qualquer tempo, desde que não esteja pendente a acção de liquidação judicial prevista no n.º 5 do mesmo artigo.
+Artigo 1.º A faculdade atribuída pelo n.º 4 do artigo único do [Decreto-Lei n.º 301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186), de 27 de Julho, pode ser exercida em qualquer tempo, desde que não esteja pendente a acção de liquidação judicial prevista no n.º 5 do mesmo artigo.
 
-###### Art. 2.º O n.º 2 do artigo 3.º do [Decreto-Lei n.º 357-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1977-684061), de 31 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º O n.º 2 do artigo 3.º do [Decreto-Lei n.º 357-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1977-684061), de 31 de Agosto, passa a ter a seguinte redacção:
 
 2 - Na administração dos bens compreendem-se, designadamente, o pagamento das dívidas contraídas regularmente em Portugal, realizando os fundos para esse efeito, e o exercício dos cargos de gerente ou administrador que à sociedade competiam em sociedades suas subsidiárias com sede em Portugal.
 
-###### Art. 3.º - 1 - Nos casos de entrada em Portugal de importâncias imputadas a reserva da cláusula IV da DIAMANG - Companhia de Diamantes de Angola, em conformidade com o disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º
+Art. 3.º - 1 - Nos casos de entrada em Portugal de importâncias imputadas a reserva da cláusula IV da DIAMANG - Companhia de Diamantes de Angola, em conformidade com o disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º
 
 56/83, de 1 de Fevereiro, uma parte dessa importância, não excedente a 10%, pode ser atribuída directa e proporcionalmente aos titulares dos direitos à reserva da cláusula IV, especificados no artigo 3.º do citado diploma, sendo a parte restante incorporada no capital da SPE - Sociedade Portuguesa de Empreendimentos, S. A. R. L., e as acções atribuídas nos termos do n.º 2 do artigo 3.º do mesmo diploma.
 
@@ -118,18 +145,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - A atribuição directa das importâncias a que se referem os números anteriores e, bem assim, o aumento de capital serão deliberados pelo conselho de administração da SPE - Sociedade Portuguesa de Empreendimentos, S. A. R. L., devendo a escritura pública do aumento de capital ser outorgada com base na acta das referidas deliberações.
 
-###### Art. 4.º - 1 - Ao IPE - Investimentos e Participações do Estado, S. A. R. L., são atribuídos os valores entrados em Portugal e correspondentes, nos termos do n.º 1 do artigo 3.º deste diploma, às antigas acções da Companhia de Diamantes de Angola anteriormente possuídas por entidades do sector público português, ficando a pertencer-lhe, na parte respectiva, as novas acções emitidas pela SPE - Sociedade Portuguesa de Empreendimentos S. A. R. L.
+Art. 4.º - 1 - Ao IPE - Investimentos e Participações do Estado, S. A. R. L., são atribuídos os valores entrados em Portugal e correspondentes, nos termos do n.º 1 do artigo 3.º deste diploma, às antigas acções da Companhia de Diamantes de Angola anteriormente possuídas por entidades do sector público português, ficando a pertencer-lhe, na parte respectiva, as novas acções emitidas pela SPE - Sociedade Portuguesa de Empreendimentos S. A. R. L.
 
 2 - O IPE - Investimentos e participações do Estado, S. A. R. L., compensará as mencionadas entidades do sector público português, pela forma que foi fixada em portaria do Ministro das Finanças, no prazo de seis meses após a emissão referida no número anterior.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 17 de Julho de 1986.**
+Promulgado em 17 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Julho de 1986.**
+Referendado em 18 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

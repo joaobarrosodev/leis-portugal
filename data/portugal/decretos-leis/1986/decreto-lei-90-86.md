@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10600/10841092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1986-227576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8e4189bcc50171e501ddfed80396da599713add26daa0749ed2f35cd1441e2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e092e7dfb18dbec5c5944078635d2e976dba245644af3266470e077a4edbc62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Etiquetagem
+- Normalização
+- Produto Têxtil
 relationships:
 - type: amended_by
   target: pt:dre:517434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288658:por
+  label: "Alterado o artigo 30.º, o anexo II, e aditado o artigo 30.º-A, pelo DEC LEI.134/92.10.07.1992.MIE, DR.IS-A [157]\
+    \ de 10.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1992-288658
+  date: '1992-07-10'
+- type: amended_by
+  target: pt:dre:437228:por
+  label: "Substituida a tabela das fibras têxteis a que se refere o anexo I, bem como as taxas convencionais referidas no\
+    \ anexo II do presente diploma, pelo DEC LEI.262/98.1998.08.18.MECO, DR.IS-A [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1998-437228
+  date: '1998-08-18'
+- type: amended_by
+  target: pt:dre:559628:por
+  label: "Alterado o nº 2 do art. 29º pelo DEC LEI.233/2000.2000.09.25.MECO,DR.IS-A [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2000-559628
+  date: '2000-09-25'
+- type: cites
+  target: pt:dre:232932:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348110:por
+  label: Rectificado pela DECL.DD4624.21.08.1986.PCM, DR.IS [199]Supl de 30.08.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-348110
+  date: '1986-08-21'
+- type: repealed_by
+  target: pt:dre:517434:por
+  label: "Revogado pelo DEC LEI.163/2004.03.07.2004.MECO, DR.IS-A [155] de 03.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2004-517434
+  date: '2004-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:38Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +138,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - Este diploma é aplicável aos produtos têxteis lançados no mercado interno, quer sejam ou não de fabrico nacional.
+Artigo 1.º - 1 - Este diploma é aplicável aos produtos têxteis lançados no mercado interno, quer sejam ou não de fabrico nacional.
 
 2 - Para efeitos do disposto no número anterior, considera-se lançado no mercado o produto vendido ou o produto relativamente ao qual se desenvolvam ou tenham desenvolvido actos preparatórios de venda, nomeadamente armazenagem, transporte, exposição e oferta de venda.
 
@@ -118,11 +152,11 @@ c) Importados de países que não pertençam à Comunidade Económica Europeia p
 
 d) Confiados para laboração, sem dar lugar a cedência a título oneroso, a trabalhadores no domicílio ou a empresas independentes que trabalhem a feitio ou à comissão.
 
-###### Art. 2.º A aplicação deste diploma far-se-á sem prejuízo das disposições em vigor relativas ao direito da propriedade industrial e comercial, às indicações de proveniência, às designações de origem e à defesa da concorrência ou do consumidor.
+Art. 2.º A aplicação deste diploma far-se-á sem prejuízo das disposições em vigor relativas ao direito da propriedade industrial e comercial, às indicações de proveniência, às designações de origem e à defesa da concorrência ou do consumidor.
 
 ### CAPÍTULO II — Do produto têxtil e da fibra têxtil
 
-###### Art. 3.º - 1 - Para efeitos do presente diploma, entende-se por produto têxtil todo o produto que, no estado bruto, semiaberto, aberto, semimanufacturado, manufacturado, semiconfeccionado ou confeccionado, se apresente exclusivamente constituído por fibras têxteis de qualquer natureza, independentemente da técnica de mistura ou de união utilizada.
+Art. 3.º - 1 - Para efeitos do presente diploma, entende-se por produto têxtil todo o produto que, no estado bruto, semiaberto, aberto, semimanufacturado, manufacturado, semiconfeccionado ou confeccionado, se apresente exclusivamente constituído por fibras têxteis de qualquer natureza, independentemente da técnica de mistura ou de união utilizada.
 
 2 - Entende-se por fibra têxtil, para efeitos do presente diploma:
 
@@ -130,7 +164,7 @@ a) Um elemento caracterizado pela sua flexibilidade, finura e grande comprimento
 
 b) As fitas flexíveis ou os tubos com uma largura aparente não superior a 5 mm, incluindo as fitas cortadas de fitas mais largas ou de folhas produzidas a partir das substâncias usadas na fabricação das fibras referidas no anexo I, sob os n.os 17 a 39, e aptas para aplicações têxteis; considera-se largura aparente a largura média da fita ou do tubo na forma dobrada, achatada, comprimida ou torcida.
 
-###### Art. 4.º São equiparados a produtos têxteis e sujeitos às disposições do presente diploma:
+Art. 4.º São equiparados a produtos têxteis e sujeitos às disposições do presente diploma:
 
 a) Os produtos contendo pelo menos 80%, em massa, de fibras têxteis;
 
@@ -140,7 +174,7 @@ c) Os têxteis incorporados noutros produtos de de que façam parte integrante, 
 
 ### CAPÍTULO III — Das denominações das fibras, do uso de qualificativos e da indicação da composição
 
-###### Art. 5.º - 1 - As denominações das fibras previstas no artigo 3.º, bem como as respectivas descrições, são as constantes da tabela do anexo I a este diploma.
+Art. 5.º - 1 - As denominações das fibras previstas no artigo 3.º, bem como as respectivas descrições, são as constantes da tabela do anexo I a este diploma.
 
 2 - Não é permitido:
 
@@ -150,11 +184,11 @@ b) O uso das denominações referidas no número anterior para designar quaisque
 
 c) O uso da denominação «seda» para designar a forma ou a apresentação particular das fibras têxteis em fio contínuo.
 
-###### Art. 6.º 1 - O uso dos qualificativos «100%» ou «puro», acompanhados da denominação de uma fibra, só é permitido para designar produtos inteiramente constituídos por essa fibra, não podendo utilizar-se qualquer outra expressão equivalente.
+Art. 6.º 1 - O uso dos qualificativos «100%» ou «puro», acompanhados da denominação de uma fibra, só é permitido para designar produtos inteiramente constituídos por essa fibra, não podendo utilizar-se qualquer outra expressão equivalente.
 
 2 - Para os produtos têxteis qualificados pelas expressões referidas no n.º 1 do presente artigo é admitida uma quantidade de outras fibras até 2% da massa em fibras do produto, se ela for justificada por motivos técnicos e não resultar de uma adição sistemática, sendo esta tolerância elevada para 5% no caso dos produtos obtidos pelo sistema de cardado.
 
-###### Art. 7.º - 1 - Um produto têxtil só pode ser qualificado «lã virgem» ou «lã de velos» quando for exclusivamente composto por fibras de lã que nunca tenham sido anteriormente incorporadas num produto acabado e não tenham sofrido operações de fiação e ou feltragem, para além das necessárias para o fabrico do produto, nem qualquer tratamento ou utilização que tenha degradado a fibra.
+Art. 7.º - 1 - Um produto têxtil só pode ser qualificado «lã virgem» ou «lã de velos» quando for exclusivamente composto por fibras de lã que nunca tenham sido anteriormente incorporadas num produto acabado e não tenham sofrido operações de fiação e ou feltragem, para além das necessárias para o fabrico do produto, nem qualquer tratamento ou utilização que tenha degradado a fibra.
 
 2 - Por derrogação das disposições do número anterior e sob a condição de ser indicada a composição percentual completa do produto, a denominação «lã virgem» ou «lã de velos» pode ser usada para qualificar a lã contida numa mistura de fibras quando cumulativamente se verifiquem os seguintes requisitos:
 
@@ -166,7 +200,7 @@ c) Não exista mais de uma fibra em mistura íntima com a lã.
 
 3 - Para os produtos qualificados «lã virgem» ou «lã de velos» a tolerância admissível por motivos técnicos inerentes à fabricação é de 0,3% de impurezas fibrosas, ainda que tais produtos sejam obtidos pelo sistema de cardado.
 
-###### Art. 8.º A composição dos produtos têxteis constituídos por duas ou mais fibras, em que uma delas represente pelo menos 85% da massa total, deve ser indicada por um dos seguintes modos:
+Art. 8.º A composição dos produtos têxteis constituídos por duas ou mais fibras, em que uma delas represente pelo menos 85% da massa total, deve ser indicada por um dos seguintes modos:
 
 a) Denominação da fibra predominante precedida ou seguida da respectiva percentagem em massa;
 
@@ -174,15 +208,15 @@ b) Denominação da fibra predominante precedida ou seguida da indicação «Mí
 
 c) Designação da composição percentual completa do produto.
 
-###### Art. 9.º - 1 - A composição dos produtos têxteis constituídos por duas ou mais fibras em que nenhuma delas atinja 85% da massa total deve ser indicada pelas denominações e percentagens em massa pelo menos das duas fibras predominantes, seguidas das denominações das restantes fibras que compõem o produto pela ordem decrescente das massas, com ou sem indicação das respectivas percentagens.
+Art. 9.º - 1 - A composição dos produtos têxteis constituídos por duas ou mais fibras em que nenhuma delas atinja 85% da massa total deve ser indicada pelas denominações e percentagens em massa pelo menos das duas fibras predominantes, seguidas das denominações das restantes fibras que compõem o produto pela ordem decrescente das massas, com ou sem indicação das respectivas percentagens.
 
 2 - Sempre que existam fibras representando cada uma delas menos de 10% da massa do produto, o conjunto de tais fibras pode ser designado pela expressão «Outras fibras», seguida da sua percentagem global.
 
 3 - Quando for expressamente mencionada a denominação de uma fibra representando menos de 10% da massa do produto, deve ser indicada a composição percentual completa do produto.
 
-###### Art. 10.º Os produtos têxteis contendo uma teia de puro algodão e uma trama de puro linho, nos quais a percentagem deste último não seja inferior a 40% da massa total do produto acabado, podem ser designados pela expressão «Meio linho», devendo esta expressão ser acompanhada da indicação de composição «Teia puro algodão-trama puro linho».
+Art. 10.º Os produtos têxteis contendo uma teia de puro algodão e uma trama de puro linho, nos quais a percentagem deste último não seja inferior a 40% da massa total do produto acabado, podem ser designados pela expressão «Meio linho», devendo esta expressão ser acompanhada da indicação de composição «Teia puro algodão-trama puro linho».
 
-###### Art. 11.º - 1 - Para os produtos têxteis destinados ao consumidor final, nas composições percentuais previstas nos artigos 8.º, 9.º e 10.º, são admitidas as seguintes tolerâncias:
+Art. 11.º - 1 - Para os produtos têxteis destinados ao consumidor final, nas composições percentuais previstas nos artigos 8.º, 9.º e 10.º, são admitidas as seguintes tolerâncias:
 
 a) Sem prejuízo da tolerância prevista no n.º 3 do artigo 7.º, uma quantidade de fibras estranhas até 2% da massa total das fibras do produto, se ela for justificada por motivos técnicos e não resultar de uma adição sistemática, sendo esta tolerância elevada para 5% para os produtos obtidos pelo sistema de cardado;
 
@@ -196,43 +230,43 @@ b) Uma tolerância de fabricação de 3%, entre as percentagens indicadas e as p
 
 3 - A acumulação das tolerâncias previstas nas alíneas a) e b) do n.º 1 só é permitida caso as fibras estranhas eventualmente encontradas na análise para aplicação da tolerância prevista na alínea a) sejam da mesma natureza química de uma ou mais fibras mencionadas na etiqueta.
 
-###### Art. 12.º - 1 - Para produtos particulares cuja técnica de fabricação requeira tolerâncias superiores às indicadas nas alíneas a) e b) do n.º 1 do artigo anterior podem ser admitidas, nas verificações de conformidade previstas no artigo 27.º, tolerâncias mais elevadas, mas apenas a título excepcional e mediante justificação adequada a fornecer pelo fabricante ou entidade interessada, devendo do facto ser imediatamente informada a Comissão das Comunidades Europeias.
+Art. 12.º - 1 - Para produtos particulares cuja técnica de fabricação requeira tolerâncias superiores às indicadas nas alíneas a) e b) do n.º 1 do artigo anterior podem ser admitidas, nas verificações de conformidade previstas no artigo 27.º, tolerâncias mais elevadas, mas apenas a título excepcional e mediante justificação adequada a fornecer pelo fabricante ou entidade interessada, devendo do facto ser imediatamente informada a Comissão das Comunidades Europeias.
 
 2 - A autorização a que se refere o número anterior será concedida por despacho do Ministro da Indústria e Comércio, mediante parecer favorável da comissão técnica formada por representantes dos serviços e organismos referidos no artigo 31.º do presente diploma.
 
-###### Art. 13.º Todo o produto cuja composição seja difícil de precisar no momento da fabricação pode ser qualificado, pelas expressões «fibras diversas» ou «composição têxtil não determinada».
+Art. 13.º Todo o produto cuja composição seja difícil de precisar no momento da fabricação pode ser qualificado, pelas expressões «fibras diversas» ou «composição têxtil não determinada».
 
-###### Art. 14.º - 1 - Sem prejuízo das tolerâncias previstas no n.º 2 do artigo 6.º, no n.º 3 do artigo 7.º e no n.º 1 do artigo 11.º, as fibras visíveis e isoláveis destinadas a produzir um efeito meramente decorativo que não ultrapassem 7% da massa em fibras do produto acabado, bem como as fibras, incluindo as metálicas, incorporadas com vista a obter um efeito antiestático não ultrapassando 2% da massa em fibras do produto acabado, podem não ser mencionadas nas composições percentuais previstas nos artigos 6.º, 8.º, 9.º e 10.º
+Art. 14.º - 1 - Sem prejuízo das tolerâncias previstas no n.º 2 do artigo 6.º, no n.º 3 do artigo 7.º e no n.º 1 do artigo 11.º, as fibras visíveis e isoláveis destinadas a produzir um efeito meramente decorativo que não ultrapassem 7% da massa em fibras do produto acabado, bem como as fibras, incluindo as metálicas, incorporadas com vista a obter um efeito antiestático não ultrapassando 2% da massa em fibras do produto acabado, podem não ser mencionadas nas composições percentuais previstas nos artigos 6.º, 8.º, 9.º e 10.º
 
 2 - Para os produtos previstos no artigo 10.º, as percentagens de 7% e 2% a que se refere o número anterior devem ser calculadas não sobre a massa do tecido mas separadamente sobre a massa da trama e sobre a massa da teia.
 
 ### CAPÍTULO IV — Da etiquetagem ou marcação
 
-###### Art. 15.º Os produtos têxteis abrangidos pelo presente decreto-lei devem ser etiquetados ou marcados sempre que se verifique qualquer operação de comercialização inerente ao ciclo industrial e comercial.
+Art. 15.º Os produtos têxteis abrangidos pelo presente decreto-lei devem ser etiquetados ou marcados sempre que se verifique qualquer operação de comercialização inerente ao ciclo industrial e comercial.
 
-###### Art. 16.º - 1 - A etiquetagem ou a marcação podem ser substituídas ou completadas por documentos comerciais de acompanhamento ou transporte quando tais produtos não sejam postos em venda ao consumidor final ou quando sejam entregues em execução de uma encomenda da administração central, regional e local ou de outra pessoa colectiva de direito público.
+Art. 16.º - 1 - A etiquetagem ou a marcação podem ser substituídas ou completadas por documentos comerciais de acompanhamento ou transporte quando tais produtos não sejam postos em venda ao consumidor final ou quando sejam entregues em execução de uma encomenda da administração central, regional e local ou de outra pessoa colectiva de direito público.
 
 2 - As denominações, os qualificativos e os dados relativos à composição fibrosa previstos nos artigos 5.º, 6.º, 7.º, 8.º, 9.º e 10.º devem ser indicados de forma clara e inequívoca em todos os documentos comerciais, não sendo permitida, por exemplo, a utilização de abreviaturas nos contratos, facturas, notas de venda ou documentos equivalentes.
 
 3 - O recurso a códigos mecanográficos só é admitido se no próprio documento figurar o significado das respectivas codificações.
 
-###### Art. 17.º Na oferta de venda e na venda ao consumidor final as denominações, os qualificativos e as percentagens em fibras têxteis previstos nos artigos 5.º, 6.º, 7.º, 8.º, 9.º e 10.º que constem nomeadamente em catálogos, prospectos, embalagens, etiquetas e marcas devem ser indicados com os mesmos caracteres tipográficos, em termos legíveis e claramente visíveis.
+Art. 17.º Na oferta de venda e na venda ao consumidor final as denominações, os qualificativos e as percentagens em fibras têxteis previstos nos artigos 5.º, 6.º, 7.º, 8.º, 9.º e 10.º que constem nomeadamente em catálogos, prospectos, embalagens, etiquetas e marcas devem ser indicados com os mesmos caracteres tipográficos, em termos legíveis e claramente visíveis.
 
-###### Art. 18.º - 1 - Todas as indicações e informações não previstas neste diploma devem ser nitidamente separadas.
+Art. 18.º - 1 - Todas as indicações e informações não previstas neste diploma devem ser nitidamente separadas.
 
 2 - Sempre que for indicada uma marca de fábrica ou o nome de uma empresa contendo a título principal, ou a título de raiz ou de adjectivo, o emprego de uma denominação constante do anexo I ou que possa prestar-se a confusões com esta, deve a marca ou o nome da empresa acompanhar, em caracteres legíveis e claramente visíveis, as denominações, os qualificativos e as percentagens de fibras previstos nos artigos 5.º, 6.º, 7.º, 8.º, 9.º e 10.º
 
-###### Art. 19.º - 1 - Na oferta de venda e na venda ao consumidor final as indicações relativas à etiquetagem ou marcação de composição devem ser expressas em língua portuguesa.
+Art. 19.º - 1 - Na oferta de venda e na venda ao consumidor final as indicações relativas à etiquetagem ou marcação de composição devem ser expressas em língua portuguesa.
 
 2 - É permitido o uso de outros idiomas paralelamente ao da língua portuguesa.
 
 3 - Nas indicações relativas à etiquetagem ou marcação de bobinas, carrinhos, novelos e meadas de pequeno tamanho ou de qualquer outra pequena unidade de fios para coser, cerzir e bordar, as disposições dos n.os 1 e 2 do presente artigo só são aplicáveis à etiquetagem global sobre as embalagens ou expositores, podendo as unidades individuais, mediante acordo entre o vendedor e o comprador, e sem prejuízo do disposto na alínea b) do artigo 23.º, ser etiquetadas em qualquer língua da Comunidade Económica Europeia.
 
-###### Art. 20.º - 1 - Todo o produto têxtil composto por duas ou mais partes com diferente composição fibrosa deve ser munido de uma etiqueta indicando a percentagem em fibras de cada uma das partes. Esta etiquetagem não é obrigatória para as partes que representem menos de 30% da massa total do produto, desde que não sejam forros principais.
+Art. 20.º - 1 - Todo o produto têxtil composto por duas ou mais partes com diferente composição fibrosa deve ser munido de uma etiqueta indicando a percentagem em fibras de cada uma das partes. Esta etiquetagem não é obrigatória para as partes que representem menos de 30% da massa total do produto, desde que não sejam forros principais.
 
 2 - Dois ou mais produtos têxteis com a mesma composição fibrosa e que formem usualmente um conjunto inseparável podem ser munidos de uma única etiqueta.
 
-###### Art. 21.º - 1 - Para efeitos de aplicação do artigo anterior, e sem prejuízo das disposições do artigo 25.º, a composição fibrosa dos artigos para espartilho adiante designados pode ser indicada através da composição do produto no seu conjunto, ou da composição das partes a seguir referidas, global ou separadamente:
+Art. 21.º - 1 - Para efeitos de aplicação do artigo anterior, e sem prejuízo das disposições do artigo 25.º, a composição fibrosa dos artigos para espartilho adiante designados pode ser indicada através da composição do produto no seu conjunto, ou da composição das partes a seguir referidas, global ou separadamente:
 
 a) Soutiens - tecido exterior e interior das caixas e das costas;
 
@@ -244,7 +278,7 @@ c) Cintas-soutiens - tecido exterior e interior das caixas, reforços anterior e
 
 3 - A etiquetagem em separado das diversas partes dos artigos para espartilho deve ser efectuada por forma que o consumidor final possa facilmente compreender a que partes do produto se referem as indicações constantes da etiqueta.
 
-###### Art. 22.º Sem prejuízo das disposições do artigo 25.º, a composição fibrosa dos produtos adiante designados deve ser indicada nos termos seguintes:
+Art. 22.º Sem prejuízo das disposições do artigo 25.º, a composição fibrosa dos produtos adiante designados deve ser indicada nos termos seguintes:
 
 a) Produtos têxteis gravados por corrosão - deve ser dada para a totalidade do produto, podendo ser indicadas, separada e denominadamente, a composição do tecido base e a composição das partes corroídas;
 
@@ -256,7 +290,7 @@ d) Produtos têxteis de veludo ou de pelúcia, suas imitações ou produtos simi
 
 e) Coberturas de chão e tapetes em que a base e a camada de uso sejam constituídas por fibras diferentes - pode ser dada apenas para a camada de uso, a qual deve ser denominadamente indicada.
 
-###### Art. 23.º Por derrogação das disposições dos artigos 15.º a 20.º:
+Art. 23.º Por derrogação das disposições dos artigos 15.º a 20.º:
 
 a) Os produtos têxteis constantes do anexo III a este diploma não estão sujeitos à obrigação de marcação ou etiquetagem, salvo se tais produtos estiverem munidos de uma etiqueta ou marca indicando uma composição, uma marca de fábrica ou o nome de uma empresa que incluam, a título principal ou a título de adjectivo ou de raiz, uma denominação prevista no anexo I ou susceptível de poder confundir-se com ela;
 
@@ -264,13 +298,13 @@ b) Os produtos têxteis constantes do anexo IV a este diploma, quando forem do m
 
 c) A etiquetagem de composição dos produtos têxteis vendidos a metro ou em cortes pode figurar unicamente na peça ou no rolo postos em venda.
 
-###### Art. 24.º - 1 - As indicações de composição que figuram nos produtos têxteis devem ser comprováveis pelos documentos comerciais.
+Art. 24.º - 1 - As indicações de composição que figuram nos produtos têxteis devem ser comprováveis pelos documentos comerciais.
 
 2 - Os documentos a que alude o número anterior deverão ser conservados pelo período de dois anos a contar da data da emissão da factura de venda pelo produtor, fabricante, importador ou grossista.
 
 3 - Sempre que o comprador exija declaração escrita sobre a correspondência das indicações de composição referidas na etiqueta relativamente às constantes dos documentos comerciais, fica o vendedor obrigado a proceder à sua emissão.
 
-###### Art. 25.º Para efeitos de aplicação do artigo 15.º e das restantes disposições deste diploma relativas à etiquetagem de produtos têxteis, as percentagens em fibras previstas nos artigos 5.º, 6.º, 7.º, 8.º, 9.º e 10.º são determinadas com exclusão dos seguintes elementos:
+Art. 25.º Para efeitos de aplicação do artigo 15.º e das restantes disposições deste diploma relativas à etiquetagem de produtos têxteis, as percentagens em fibras previstas nos artigos 5.º, 6.º, 7.º, 8.º, 9.º e 10.º são determinadas com exclusão dos seguintes elementos:
 
 1:
 
@@ -284,25 +318,25 @@ d) Para os produtos têxteis não previstos na alínea b) - suportes, reforços,
 
 2 - Matérias gordas, ligantes, cargas, preparos, produtos auxiliares de tinturaria e de estampagem e outros produtos para tratamento dos têxteis.
 
-###### Art. 26.º Para efeitos de aplicação da alínea d) do n.º 1 do artigo anterior:
+Art. 26.º Para efeitos de aplicação da alínea d) do n.º 1 do artigo anterior:
 
 a) Não são considerados como suportes a excluir os tecidos de forros que constituam o avesso da camada de uso, nomeadamente em cobertores e em tecidos duplos, e os tecidos base dos veludos, pelúcias ou semelhantes;
 
 b) Entende-se por reforços os fios ou tecidos incorporados em zonas específicas e limitadas do produto têxtil para as reforçar ou para lhes conferir rigidez ou espessura.
 
-###### Art. 27.º - 1 - As verificações de conformidade dos produtos têxteis com as indicações de composição previstas no presente decreto-lei serão efectuadas segundo métodos de análise que constarão do diploma regulamentar previsto no artigo 33.º
+Art. 27.º - 1 - As verificações de conformidade dos produtos têxteis com as indicações de composição previstas no presente decreto-lei serão efectuadas segundo métodos de análise que constarão do diploma regulamentar previsto no artigo 33.º
 
 2 - As percentagens em fibras previstas nos artigos 6.º, 7.º, 8.º, 9.º e 10.º são determinadas aplicando à massa seca de cada fibra a correspondente taxa convencional constante do anexo II, após a eliminação dos elementos previstos no artigo 25.º
 
-###### Art. 28.º Por portaria conjunta dos Ministros da Indústria e Comércio e do Plano e da Administração do Território poderão ser introduzidas, alteradas ou eliminadas denominações de fibras, taxas convencionais e categorias de produtos nos anexos I a IV, quando necessário à defesa do consumidor ou à simplificação do tráfego de mercadorias, e estabelecidos limites de tolerância para matérias gordas, ligantes, cargas e outros preparos, corantes e matérias auxiliares de tinturaria e estampagem contidos nos produtos têxteis, por forma a não induzir em erro o consumidor.
+Art. 28.º Por portaria conjunta dos Ministros da Indústria e Comércio e do Plano e da Administração do Território poderão ser introduzidas, alteradas ou eliminadas denominações de fibras, taxas convencionais e categorias de produtos nos anexos I a IV, quando necessário à defesa do consumidor ou à simplificação do tráfego de mercadorias, e estabelecidos limites de tolerância para matérias gordas, ligantes, cargas e outros preparos, corantes e matérias auxiliares de tinturaria e estampagem contidos nos produtos têxteis, por forma a não induzir em erro o consumidor.
 
 ### CAPÍTULO V — Do processo e das penalidades
 
-###### Art. 29.º - 1 - Compete ao Instituto dos Têxteis efectuar as verificações de conformidade dos produtos têxteis com as disposições do presente diploma, procedendo designadamente à colheita das amostras e à análise da composição.
+Art. 29.º - 1 - Compete ao Instituto dos Têxteis efectuar as verificações de conformidade dos produtos têxteis com as disposições do presente diploma, procedendo designadamente à colheita das amostras e à análise da composição.
 
 2 - Ao processo das contra-ordenações previstas neste diploma são aplicáveis as disposições gerais sobre a matéria, competindo à direcção do Instituto dos Têxteis a aplicação das coimas previstas no artigo 30.º
 
-###### Art. 30.º - 1 - Constitui contra-ordenação passível de coima de 10000$00 a 100000$00 a violação do disposto no n.º 2 do artigo 5.º, no n.º 1 do artigo 6.º, no n.º 1 do artigo 7.º, no artigo 8.º, nos n.os 1 e 3 do artigo 9.º, no artigo 17.º, no n.º 1 do artigo 18.º e nos artigos 19.º a 23.º, sendo esta coima elevada para o dobro quando praticada na fase de lançamento no ciclo de transformação industrial ou de comercialização.
+Art. 30.º - 1 - Constitui contra-ordenação passível de coima de 10000$00 a 100000$00 a violação do disposto no n.º 2 do artigo 5.º, no n.º 1 do artigo 6.º, no n.º 1 do artigo 7.º, no artigo 8.º, nos n.os 1 e 3 do artigo 9.º, no artigo 17.º, no n.º 1 do artigo 18.º e nos artigos 19.º a 23.º, sendo esta coima elevada para o dobro quando praticada na fase de lançamento no ciclo de transformação industrial ou de comercialização.
 
 2 - Constitui contra-ordenação passível de coima de 10000$00 a 200000$00 a violação do disposto no artigo 15.º, sendo esta coima elevada para o dobro quando praticada na fase de lançamento no ciclo de transformação industrial ou de comercialização.
 
@@ -310,7 +344,7 @@ b) Entende-se por reforços os fios ou tecidos incorporados em zonas específica
 
 ### CAPÍTULO VI — Disposições transitórias e finais
 
-###### Art. 31.º - A comissão técnica a que se refere o n.º 2 do artigo 12.º é constituída por:
+Art. 31.º - A comissão técnica a que se refere o n.º 2 do artigo 12.º é constituída por:
 
 a) Um representante do Instituto dos Têxteis;
 
@@ -324,39 +358,39 @@ e) Um representante do Instituto Nacional de Defesa do Consumidor.
 
 2 - A Secretaria-Geral do Ministério da Indústria e Comércio prestará a esta comissão todo o apoio logístico e administrativo que esta venha a carecer para o desempenho das suas funções.
 
-###### Art. 32.º - 1 - Para efeitos da execução deste decreto-lei o Instituto dos Têxteis será dotado de adequado quadro de pessoal qualificado, a aprovar nos termos da lei geral.
+Art. 32.º - 1 - Para efeitos da execução deste decreto-lei o Instituto dos Têxteis será dotado de adequado quadro de pessoal qualificado, a aprovar nos termos da lei geral.
 
 2 - Os encargos financeiros resultantes da criação e funcionamento do serviço encarregado de zelar pela execução do disposto no presente decreto-lei serão suportados pelo Instituto dos Têxteis, mediante o lançamento de uma taxa a criar para o efeito em diploma legal adequado se as receitas do Instituto não forem suficientes para assegurar a cobertura financeira do referido serviço.
 
-###### Art. 33.º Os Ministros da Indústria e Comércio e do Plano e da Administração do Território regulamentarão este decreto-lei no prazo de 90 dias após a sua entrada em vigor.
+Art. 33.º Os Ministros da Indústria e Comércio e do Plano e da Administração do Território regulamentarão este decreto-lei no prazo de 90 dias após a sua entrada em vigor.
 
-###### Art. 34.º É revogada a [Portaria n.º 15954](https://diariodarepublica.pt/dr/detalhe/portaria/15954-1956-232932), de 1 de Setembro de 1956.
+Art. 34.º É revogada a [Portaria n.º 15954](https://diariodarepublica.pt/dr/detalhe/portaria/15954-1956-232932), de 1 de Setembro de 1956.
 
-###### Art. 35.º - 1 - O presente diploma entrará em vigor no dia 1 do segundo mês seguinte ao da sua publicação.
+Art. 35.º - 1 - O presente diploma entrará em vigor no dia 1 do segundo mês seguinte ao da sua publicação.
 
 2 - A título de medida transitória, os produtos têxteis lançados no mercado antes da data de entrada em vigor deste decreto-lei e os produtos têxteis importados não conformes com as disposições de etiquetagem e marcação previstas podem ainda ser comercializados ou lançados no consumo final durante o prazo de dezoito meses a contar da referida data.
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 1986. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 14 de Abril de 1986.**
+Promulgado em 14 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1986.**
+Referendado em 21 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Tabela das fibras têxteis (n.º 1 do artigo 5.º)
 
 Para as posições relativas às fibras sintéticas e regeneradas, os nomes genéricos indicados na segunda coluna referem-se a fibras contendo, pelo menos, 85% do polímero descrito na terceira coluna.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10600/10841092.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10600/10841092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10600/10841092.pdf)
 
 ## ANEXO II — Taxas convencionais a utilizar para o cálculo da massa das fibras contidas num produto têxtil (artigo 27.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10600/10841092.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10600/10841092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10600/10841092.pdf)
 
 ## ANEXO III — Produtos para os quais só é obrigatória uma etiquetagem ou de marcação [alínea a) do artigo 23.º]
 

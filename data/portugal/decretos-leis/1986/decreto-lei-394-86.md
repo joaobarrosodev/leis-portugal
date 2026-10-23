@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1986-221494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeba260702f224097669d5ca90c69055f91616b93b8c43d533e151ff12bbf856
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09a772297ddf3c49590d1e380b3ca2a56efab8d107ac9c5bb524091f7b150326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral das Alfândegas
+- Orgânica
+- Reforma Aduaneira
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:48Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +97,9 @@ Considerando que a entrada nos referidos armazéns de mercadorias nacionais suje
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 126.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passa a ter a seguinte redacção:
+Artigo único. O artigo 126.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passa a ter a seguinte redacção:
 
-###### Art. 126.º O armazém alfandegado é constituído em edifício proposto pelo proprietário da mercadoria e aprovado pela alfândega, em que possa estabelecer-se o conveniente isolamento fiscal, com uma única porta com duas chaves de diferentes moldes, fornecidas pela alfândega à custa do mesmo proprietário, ficando este com uma e a estância aduaneira com a outra.
+Art. 126.º O armazém alfandegado é constituído em edifício proposto pelo proprietário da mercadoria e aprovado pela alfândega, em que possa estabelecer-se o conveniente isolamento fiscal, com uma única porta com duas chaves de diferentes moldes, fornecidas pela alfândega à custa do mesmo proprietário, ficando este com uma e a estância aduaneira com a outra.
 
 § 1.º Só podem ser depositadas nestes armazéns mercadorias de fácil verificação.
 
@@ -100,12 +107,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 7 de Novembro de 1986.**
+Promulgado em 7 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1986.**
+Referendado em 12 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

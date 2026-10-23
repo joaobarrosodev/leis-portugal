@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29800/42324233.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1982-380731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d441d78bf1ec0a28dd64ac7f2e89273f7dc62afb3ea3482f06b9bf672888075
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 420fd29bb4f58c6bc4e49c021582c7a1dae499c019af87fb43f028a77dde9857
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissariado do XV Congresso Mundial da Rehabilitation International
+- Deficiente
+- Orgânica
+- Reabilitação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531846:por
+  label: "O Comissariado criado pelo presente diploma passa para a dependência da Presidência do Conselho de Ministros pelo\
+    \ DEC LEI.2/84.1984.01.03.PCM DR.IS [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1984-531846
+  date: '1984-01-03'
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392862:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:03Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +125,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, no âmbito do Secretariado Nacional de Reabilitação, o Comissariado para o XV Congresso Mundial da Rehabilitation International, o qual terá lugar em Lisboa, no ano de 1984, subordinado ao tema «Interacções entre informação, sensibilização e compreensão para a integração dos deficientes na sociedade».
+Artigo 1.º É criado, no âmbito do Secretariado Nacional de Reabilitação, o Comissariado para o XV Congresso Mundial da Rehabilitation International, o qual terá lugar em Lisboa, no ano de 1984, subordinado ao tema «Interacções entre informação, sensibilização e compreensão para a integração dos deficientes na sociedade».
 
-###### Art. 2.º Ao Comissariado compete:
+Art. 2.º Ao Comissariado compete:
 
 a) Planear e promover as acções necessárias à realização do Congresso;
 
@@ -112,11 +139,11 @@ d) Dinamizar e acompanhar todas as realizações de iniciativa pública ou priva
 
 e) Manter informados das actividades desenvolvidas pelo Comissariado a Presidência do Conselho de Ministros, o Conselho Nacional de Reabilitação e outras entidades oficiais e particulares que estejam envolvidas na realização do Congresso.
 
-###### Art. 3.º O Comissariado é dotado de personalidade jurídica e de autonomia administrativa.
+Art. 3.º O Comissariado é dotado de personalidade jurídica e de autonomia administrativa.
 
-###### Art. 4.º O Comissariado é presidido por entidade de reconhecida competência na área da reabilitação, a designar por despacho do Primeiro-Ministro, sendo coadjuvada por um vice-presidente e por um número máximo de 5 vogais, um dos quais deverá ser um representante da Direcção-Geral da Contabilidade Pública.
+Art. 4.º O Comissariado é presidido por entidade de reconhecida competência na área da reabilitação, a designar por despacho do Primeiro-Ministro, sendo coadjuvada por um vice-presidente e por um número máximo de 5 vogais, um dos quais deverá ser um representante da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 5.º Compete ao presidente:
+Art. 5.º Compete ao presidente:
 
 a) Estruturar e dirigir o Comissariado, de acordo com os objectivos definidos no artigo 2.º;
 
@@ -128,13 +155,13 @@ d) Delegar nos restantes membros do Comissariado as competências que lhe são p
 
 e) Convidar para assessorarem o Comissariado entidades de notória competência nas diversas áreas de actividade do Congresso.
 
-###### Art. 6.º Compete ao vice-presidente coadjuvar o presidente nas funções que a este foram confiadas e desempenhar as que pelo mesmo lhe forem delegadas.
+Art. 6.º Compete ao vice-presidente coadjuvar o presidente nas funções que a este foram confiadas e desempenhar as que pelo mesmo lhe forem delegadas.
 
-###### Art. 7.º - 1 - O Comissariado poderá solicitar a requisição ou destacamento de pessoal a outros serviços ou organismos públicos, nos termos definidos nos artigos 9.º e 10.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.
+Art. 7.º - 1 - O Comissariado poderá solicitar a requisição ou destacamento de pessoal a outros serviços ou organismos públicos, nos termos definidos nos artigos 9.º e 10.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.
 
 2 - O Comissariado poderá ainda celebrar contratos de prestação eventual de serviços ou contratar pessoal para a execução de trabalhos específicos, ao abrigo do disposto nos artigos 3.º e 4.º do [Decreto-Lei n.º 166/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1982-392862), de 10 de Maio.
 
-###### Art. 8.º - 1 - O Comissariado levantará as dotações que lhe forem consignadas, mediante requisição de fundos, a enviar à respectiva delegação da Direcção-Geral da Contabilidade Pública.
+Art. 8.º - 1 - O Comissariado levantará as dotações que lhe forem consignadas, mediante requisição de fundos, a enviar à respectiva delegação da Direcção-Geral da Contabilidade Pública.
 
 2 - A assinatura das requisições de fundos e dos cheques deverá ser feita pelo presidente e pelo vogal representante da Direcção-Geral da Contabilidade Pública.
 
@@ -142,30 +169,30 @@ e) Convidar para assessorarem o Comissariado entidades de notória competência 
 
 4 - As minutas de contratos e as propostas de aquisição ou de pagamentos ficam sujeitas à aprovação do membro do Governo que tem a seu cargo a tutela do Secretariado Nacional de Reabilitação, quando envolvam encargos superiores a 500000$00.
 
-###### Art. 9.º - 1 - Ao Comissariado serão afectas as receitas provenientes das inscrições dos participantes no Congresso, exposições, subsídios ou outros donativos de instituições nacionais ou estrangeiras e, bem assim, as resultantes da venda de publicações, medalhas e quaisquer outras receitas de actividades integradas no âmbito do Congresso.
+Art. 9.º - 1 - Ao Comissariado serão afectas as receitas provenientes das inscrições dos participantes no Congresso, exposições, subsídios ou outros donativos de instituições nacionais ou estrangeiras e, bem assim, as resultantes da venda de publicações, medalhas e quaisquer outras receitas de actividades integradas no âmbito do Congresso.
 
 2 - As receitas constantes do número anterior darão entrada nos cofres do tesouro, em conta de operações de tesouraria, donde transitarão para receita efectiva do Estado, até ao valor das despesas realizadas.
 
-###### Art. 10.º - 1 - Em cada ano será inscrita no Orçamento Geral do Estado a dotação global adequada para satisfazer as despesas.
+Art. 10.º - 1 - Em cada ano será inscrita no Orçamento Geral do Estado a dotação global adequada para satisfazer as despesas.
 
 2 - Os saldos de gerência das dotações inscritas em cada ano económico transitarão para a agenda do ano seguinte, até que sejam aprovados o relatório final e as contas do Congresso.
 
-###### Art. 11.º As contas das despesas realizadas em cada ano, até ao encerramento do Congresso, serão sujeitas, até ao fim do mês de Fevereiro do ano seguinte, à apreciação do Primeiro-Ministro e do Ministro das Finanças e do Plano e ao visto do Tribunal de Contas.
+Art. 11.º As contas das despesas realizadas em cada ano, até ao encerramento do Congresso, serão sujeitas, até ao fim do mês de Fevereiro do ano seguinte, à apreciação do Primeiro-Ministro e do Ministro das Finanças e do Plano e ao visto do Tribunal de Contas.
 
-###### Art. 12.º No prazo de 6 meses após o encerramento do Congresso, o presidente do Comissariado apresentará à tutela o relatório de actividades do Congresso.
+Art. 12.º No prazo de 6 meses após o encerramento do Congresso, o presidente do Comissariado apresentará à tutela o relatório de actividades do Congresso.
 
-###### Art. 13.º No prazo de 45 dias após a apresentação do relatório, o Comissariado enviará ao Tribunal de Contas a conta da sua gerência, devidamente discriminada e documentada, a fim de ser julgada.
+Art. 13.º No prazo de 45 dias após a apresentação do relatório, o Comissariado enviará ao Tribunal de Contas a conta da sua gerência, devidamente discriminada e documentada, a fim de ser julgada.
 
-###### Art. 14.º - 1 - Todos os serviços do Estado deverão fornecer ao Comissariado os elementos que, para a boa execução dos seus objectivos, lhes forem requeridos.
+Art. 14.º - 1 - Todos os serviços do Estado deverão fornecer ao Comissariado os elementos que, para a boa execução dos seus objectivos, lhes forem requeridos.
 
 2 - O Comissariado poderá solicitar às empresas públicas e nacionalizadas e às autarquias locais os elementos que julgar necessários à realização do Congresso.
 
-###### Art. 15.º A partir do encerramento do Congresso manter-se-á apenas em funções o pessoal que o presidente designar para os efeitos previstos nos artigos 11.º e 12.º do presente diploma.
+Art. 15.º A partir do encerramento do Congresso manter-se-á apenas em funções o pessoal que o presidente designar para os efeitos previstos nos artigos 11.º e 12.º do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 13 de Dezembro de 1982.**
+Promulgado em 13 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

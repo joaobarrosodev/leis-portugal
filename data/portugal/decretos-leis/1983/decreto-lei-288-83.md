@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14100/22252226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1983-452518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95198084d281560638c52c99e9123f6e7786aa4cefd21d9bcc49fb30650fce90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 322719ca09f4dcebc33179ed0e286fdbef1cda819caa96004e27427bce3cea49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Superior da Polícia
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:376615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:17Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +111,13 @@ Nestes termos:
 
 O Governo decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Regime de instalação e sede)
 
 A Escola Superior de Polícia, criada pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 423/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1982-376615), de 15 de Outubro, fica sujeita ao regime de instalação, pelo período de 2 anos, de acordo com as regras constantes do presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Comissão instaladora)
 
@@ -116,7 +127,7 @@ A Escola Superior de Polícia, criada pelo n.º 1 do artigo 1.º do [Decreto-Lei
 
 Dos vogais, um será sempre um oficial superior do Exército e os outros dois comissários da Polícia de Segurança Pública.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Competência da comissão instaladora)
 
@@ -144,7 +155,7 @@ j) Delegar em qualquer dos membros alguma ou algumas das suas competências;
 
 k) Deliberar sobre quaisquer outros assuntos que lhe sejam cometidos por lei ou por despacho do Ministro da Administração Interna.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência do presidente e dos vice-presidentes)
 
@@ -164,7 +175,7 @@ f) Delegar em qualquer dos membros da comissão a prática de actos da sua compe
 
 2 - Aos vice-presidentes compete coadjuvar o presidente e substituí-lo nas suas ausências ou impedimentos, cabendo ao presidente estabelecer a ordem da substituição.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Conselho administrativo)
 
@@ -180,7 +191,7 @@ c) Aprovar os balancetes mensais e organizar e apresentar as contas;
 
 d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão instaladora.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Pessoal)
 
@@ -190,7 +201,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 3 - Poderá igualmente ser destacado ou requisitado para prestar serviço na ESP pessoal de outros organismos e serviços, nos termos da lei geral.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Quadro definitivo)
 
@@ -198,7 +209,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 2 - O pessoal admitido durante o período de instalação, e que estiver em exercício à data da publicação da portaria referida no número anterior, poderá transitar para os lugares do quadro, de acordo com as condições a fixar em diploma próprio.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Contratos de tarefa)
 
@@ -208,7 +219,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 3 - As tarefas de ensino e investigação, ainda que remuneradas, prestadas por docentes e investigadores dos estabelecimentos públicos, nos termos dos contratos referidos neste artigo, não prejudicam o regime de tempo integral em que o outorgante se encontrar no âmbito da sua função e carreira próprias.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Categorias e remunerações)
 
@@ -216,7 +227,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 2 - Os membros da comissão instaladora e os do conselho administrativo, quando exerçam as suas funções em regime de tempo parcial, terão direito a uma gratificação mensal, a fixar por despacho conjunto dos Ministros das Finanças e do Plano, da Administração Interna e da Reforma Administrativa.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Gestão financeira)
 
@@ -226,12 +237,12 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 4 de Junho de 1983.**
+Promulgado em 4 de Junho de 1983.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1983.**
+Referendado em 7 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 90/1985, 1º Suplemento, Série I de 1985-04-18
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1060-(9) a 1060-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09001/00090010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-e-1985-477171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aba2aa9a5d8bd1e3c87a7b5163adea42f25320011ad594d0b7ef5685b427f557
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5182f996cec42a4e912f80d54a53218612cadde64ae183697440ddf75b1e4a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Industrial
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:42Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +115,15 @@ Assim:
 
 No uso da autorização conferida pelas alíneas b), d), e) e h) do artigo 22.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 36.º, 37.º e 93.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 36.º, 37.º e 93.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
 
-###### Art. 9.º Poderão optar pela sua inclusão no grupo A quaisquer contribuintes dos grupos B e C desde que mencionem a sua pretensão nas respectivas declarações modelos n.º 3, 3-A e 5 e estas sejam apresentadas dentro dos prazos estabelecidos neste Código.
+Art. 9.º Poderão optar pela sua inclusão no grupo A quaisquer contribuintes dos grupos B e C desde que mencionem a sua pretensão nas respectivas declarações modelos n.º 3, 3-A e 5 e estas sejam apresentadas dentro dos prazos estabelecidos neste Código.
 
 § 1.º Para efeitos do corpo deste artigo, aquelas declarações serão apenas preenchidas na parte relativa à identificação do contribuinte, contendo logo a seguir, por forma bem visível, a indicação da opção pelo grupo A.
 
 § 2.º Declarada a opção nos termos deste artigo, os contribuintes ficarão para todos os efeitos sujeitos ao cumprimento das obrigações estabelecidas neste Código para os contribuintes do grupo A e só decorridos 3 anos poderão requerer a sua passagem a outro grupo.
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 a) Até ao limite de 2 (por mil) do volume das vendas e ou do montante dos serviços prestados do exercício, se a entidade beneficiária for uma instituição portuguesa de ensino ou de investigação científica que pelo Ministro das Finanças e do Plano, ouvido o Ministro da Indústria e Energia, seja considerada de interesse para o desenvolvimento industrial do País ou, em particular, para o aperfeiçoamento do pessoal, organização, equipamento ou processos de fabrico do contribuinte;
 
@@ -116,7 +131,7 @@ b) Até ao limite de 1 (por mil) do volume das vendas e ou do montante dos servi
 
 § único ...
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 a) ...
 
@@ -134,18 +149,18 @@ f) As reintegrações das viaturas ligeiras de passageiros na parte corresponden
 
 § 2.º ...
 
-###### Art. 93.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescera o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 93.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescera o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. ...
 
-###### Art. 2.º A alteração introduzida por este diploma na alínea f) do artigo 37.º do Código da Contribuição Industrial é aplicável à liquidação da contribuição industrial relativa aos exercícios respeitantes aos anos de 1984 e seguintes, com excepção da contribuição industrial relativa a contribuintes que tenham cessado totalmente a actividade e já liquidada à data da entrada em vigor deste diploma.
+Art. 2.º A alteração introduzida por este diploma na alínea f) do artigo 37.º do Código da Contribuição Industrial é aplicável à liquidação da contribuição industrial relativa aos exercícios respeitantes aos anos de 1984 e seguintes, com excepção da contribuição industrial relativa a contribuintes que tenham cessado totalmente a actividade e já liquidada à data da entrada em vigor deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 15 de Abril de 1985.**
+Promulgado em 15 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**Referendado em 16 de Abril de 1985.**
+Referendado em 16 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

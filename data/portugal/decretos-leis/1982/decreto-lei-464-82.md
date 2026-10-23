@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28300/40474050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1982-379361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac30360e3b995e4f3cd7fa764660c56f2159dcf7e8947f8e9ef5d40be106ee50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3b499226164c1ac2cf5976199a8bd3cb94110bf7eebaaa1678e316f6554ed7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Gestor Público
 relationships:
 - type: amended_by
   target: pt:dre:520259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520259:por
+  label: "Revogado pelo DEC LEI.71/2007.27.03.2007.MFAP, DR.IS [61] de 27.03.2007, a partir da entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2007-520259
+  date: '2007-03-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:45Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +115,13 @@ A par de uma nova responsabilização dos agentes, cria-se um novo quadro legal 
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Consideram-se gestores públicos os indivíduos nomeados pelo Governo para os órgãos de gestão das empresas públicas ou para os órgãos das empresas em que a lei ou os respectivos estatutos conferirem ao Estado essa faculdade.
+Artigo 1.º - 1 - Consideram-se gestores públicos os indivíduos nomeados pelo Governo para os órgãos de gestão das empresas públicas ou para os órgãos das empresas em que a lei ou os respectivos estatutos conferirem ao Estado essa faculdade.
 
 2 - Não são considerados gestores públicos os indivíduos designados, ainda que por nomeação do Governo, para o exercício de funções em conselhos gerais, comissões de fiscalização ou outros órgãos a que não caibam funções de gestão, e bem assim os que hajam sido designados em representação de interesses diversos dos do próprio Estado.
 
 3 - Os indivíduos designados por eleição para os órgãos de gestão de sociedades de capitais públicos ou participadas não são considerados gestores públicos, mas poderá ser autorizado o exercício dessas funções em regime de requisição, nos termos do artigo 5.º do presente diploma.
 
-###### Art. 2.º - 1 - A nomeação do gestor público envolve a atribuição de um mandato para o exercício das funções pelo prazo constante dos estatutos da empresa.
+Art. 2.º - 1 - A nomeação do gestor público envolve a atribuição de um mandato para o exercício das funções pelo prazo constante dos estatutos da empresa.
 
 2 - O gestor público é nomeado e exonerado por despacho conjunto do Primeiro-Ministro, do Ministro de Estado e das Finanças e do Plano e do ministro da tutela. Os gestores que façam parte de comissões executivas serão nomeados e exonerados por proposta do presidente.
 
@@ -110,7 +129,7 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 4 - Não é fixado qualquer limite máximo genérico para a duração do mandato do gestor nem para o número de mandatos sucessivos na mesma empresa.
 
-###### Art. 3.º - 1 - A aceitação do mandato conferido resulta da simples tomada de posse pelo gestor das funções para que foi nomeado.
+Art. 3.º - 1 - A aceitação do mandato conferido resulta da simples tomada de posse pelo gestor das funções para que foi nomeado.
 
 2 - Pode, porém, a aceitação do mandato processar-se através da celebração de um contrato formal de mandato para o exercício das funções de gestão, ou acordo de gestão, a celebrar entre o Estado e o gestor público, sendo o Estado representado, para o efeito, pelo ministro da tutela e pelo Ministro de Estado e das Finanças e do Plano.
 
@@ -118,9 +137,9 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 4 - A empresa suportará todos os encargos e despesas resultantes do mandato, salvo se regime diverso for estabelecido.
 
-###### Art. 4.º Para o exercício das funções de gestor público podem ser nomeados, em comissão de serviço, funcionários da própria empresa, nos termos do [Decreto-Lei n.º 729/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-1974-468048), de 20 de Dezembro.
+Art. 4.º Para o exercício das funções de gestor público podem ser nomeados, em comissão de serviço, funcionários da própria empresa, nos termos do [Decreto-Lei n.º 729/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-1974-468048), de 20 de Dezembro.
 
-###### Art. 5.º - 1 - Para o exercício das funções de gestor público podem ser requisitados agentes da Administração Pública e empregados das empresas publicas e privadas.
+Art. 5.º - 1 - Para o exercício das funções de gestor público podem ser requisitados agentes da Administração Pública e empregados das empresas publicas e privadas.
 
 2 - A requisição depende do acordo do interessado e da autorização do ministro, instituto público, autarquia local ou da empresa de que depende o trabalhador.
 
@@ -128,7 +147,7 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 4 - Aos gestores que desempenhem as suas funções em regime de requisição ou de comissão de serviço, o serviço que prestem na nova situação será considerado como serviço prestado no quadro de origem, com salvaguarda de todos os direitos inerentes.
 
-###### Art. 6.º - 1 - O gestor público pode ser livremente exonerado pelas entidades que o nomearam, podendo a exoneração fundar-se em mera conveniência de serviço.
+Art. 6.º - 1 - O gestor público pode ser livremente exonerado pelas entidades que o nomearam, podendo a exoneração fundar-se em mera conveniência de serviço.
 
 2 - A exoneração dará lugar, sempre que não se fundamente no decurso do prazo, em motivo justificado ou na dissolução do órgão de gestão, a uma indemnização de valor correspondente aos ordenados vincendos até ao termo do mandato, mas não superior ao vencimento anual do gestor.
 
@@ -156,7 +175,7 @@ A dissolução envolve a cessação do mandato de todos os titulares dos órgão
 
 7 - O gestor público pode renunciar ao mandato conferido com a antecedência mínima de 3 meses sobre a data em que se propõe cessar funções. A cessação de funções resultante de renúncia ao mandato determina a cessação da requisição ou comissão de serviço.
 
-###### Art. 7.º - 1 - As remunerações e demais condições de exercício de funções dos gestores públicos que sejam membros da comissão executiva são fixadas pelo ministro da tutela e pelo Ministro de Estado e das Finanças e do Plano, mantendo-se até à data dessa fixação o regime actualmente em vigor.
+Art. 7.º - 1 - As remunerações e demais condições de exercício de funções dos gestores públicos que sejam membros da comissão executiva são fixadas pelo ministro da tutela e pelo Ministro de Estado e das Finanças e do Plano, mantendo-se até à data dessa fixação o regime actualmente em vigor.
 
 2 - Os gestores públicos que não sejam membros da comissão executiva serão remunerados através de gratificação fixada por despacho das entidades referidas no número anterior.
 
@@ -170,11 +189,11 @@ A dissolução envolve a cessação do mandato de todos os titulares dos órgão
 
 7 - No caso de acordos de gestão celebrados, nos termos do artigo 3.º, n.º 2, entre o Estado e o indivíduo nomeado como gestor público, as condições de exercício de funções constarão do próprio acordo, nelas se incluindo, designadamente, a definição das metas a atingir, as condições de remuneração, os prémios de gestão a atribuir em função dos resultados alcançados e qualquer regime especial de indemnização por cessação do mandato.
 
-###### Art. 8.º - 1 - Antes do início de funções, os gestores públicos devem participar, por escrito, ao ministro da tutela e ao Ministro de Estado e das Finanças e do Plano todas as participações ou interesses patrimoniais que detenham, directa ou indirectamente, em outras empresas.
+Art. 8.º - 1 - Antes do início de funções, os gestores públicos devem participar, por escrito, ao ministro da tutela e ao Ministro de Estado e das Finanças e do Plano todas as participações ou interesses patrimoniais que detenham, directa ou indirectamente, em outras empresas.
 
 2 - O gestor público deverá declarar-se impedido de tomar posições no órgão de gestão a que pertence sempre que sejam tomadas deliberações que afectem, directa ou indirectamente, os seus interesses pessoais e, em geral, deverá observar na sua gestão uma conduta de total independência, prosseguindo exclusivamente na sua actividade de gestor os interesses e atribuições da empresa cuja gestão lhe foi confiada.
 
-###### Art. 9.º - 1 - Independentemente das obrigações que resultam da lei e das disposições regulamentares estatutárias específicas, os gestores públicos devem exercer as suas funções e gerir as respectivas empresas segundo critérios de eficiência económica e de acordo com os objectivos assinalados à empresa e à gestão, no quadro do processo de desenvolvimento económico do País, cumprindo-lhes, nomeadamente:
+Art. 9.º - 1 - Independentemente das obrigações que resultam da lei e das disposições regulamentares estatutárias específicas, os gestores públicos devem exercer as suas funções e gerir as respectivas empresas segundo critérios de eficiência económica e de acordo com os objectivos assinalados à empresa e à gestão, no quadro do processo de desenvolvimento económico do País, cumprindo-lhes, nomeadamente:
 
 a) Prosseguir a realização do objecto da empresa e assegurar o seu equilíbrio económico-financeiro;
 
@@ -192,22 +211,22 @@ g) Guardar sigilo dos factos da vida da empresa ou empresas participadas ou part
 
 2 - Sem prejuízo do disposto no número anterior e dos poderes de intervenção do Governo expressamente consignados na lei, ao gestor público é reconhecida plena autonomia no exercício das suas funções de gestão, não se encontrando, nessa qualidade, sujeito a qualquer subordinação hierárquica nem aos deveres específicos próprios dessa relação.
 
-###### Art. 10.º As funções de gestor público, quando membro das comissões executivas, são exercidas em regime de tempo inteiro, salvo se regime diverso houver sido autorizado expressamente por despacho conjunto do ministro da tutela e do Ministro de Estado e das Finanças e do Plano ou constar do contrato do mandato de que resulta a prestação de serviço de gestor.
+Art. 10.º As funções de gestor público, quando membro das comissões executivas, são exercidas em regime de tempo inteiro, salvo se regime diverso houver sido autorizado expressamente por despacho conjunto do ministro da tutela e do Ministro de Estado e das Finanças e do Plano ou constar do contrato do mandato de que resulta a prestação de serviço de gestor.
 
-###### Art. 11.º - 1 - Os gestores públicos ficam impedidos de representação de interesses privados na administração de quaisquer empresas e ainda da prestação de outros serviços em empresas concorrentes, fornecedoras, clientes ou por qualquer vínculo ligados àquelas de que sejam gestores, salvo por incumbência destas ou de entidades públicas.
+Art. 11.º - 1 - Os gestores públicos ficam impedidos de representação de interesses privados na administração de quaisquer empresas e ainda da prestação de outros serviços em empresas concorrentes, fornecedoras, clientes ou por qualquer vínculo ligados àquelas de que sejam gestores, salvo por incumbência destas ou de entidades públicas.
 
 2 - Ressalvadas as incompatibilidades definidas no n.º 1, em casos devidamente justificados pode ser autorizado pelo ministro da tutela ao gestor público o exercício de outras funções remuneradas ou não.
 
 3 - É dispensada a autorização referida no número anterior para o exercício de outras funções por parte de gestores públicos que não sejam membros de comissões executivas, sem prejuízo da sua sujeição ao disposto no n.º 1 deste artigo.
 
-###### Art. 12.º O regime estabelecido no presente diploma para os membros das comissões executivas aplicam-se aos membros dos actuais conselhos de gestão ou conselhos de gerências das empresas públicas, incluindo as instituições de crédito e seguradoras com tal natureza.
+Art. 12.º O regime estabelecido no presente diploma para os membros das comissões executivas aplicam-se aos membros dos actuais conselhos de gestão ou conselhos de gerências das empresas públicas, incluindo as instituições de crédito e seguradoras com tal natureza.
 
-###### Art. 13.º É revogado o [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro, e diplomas que os integrem ou complementem, regulando desde já o presente diploma o estatuto dos gestores públicos que se encontrem no exercício de funções, Salvaguardando-se os eventuais direitos adquiridos ao abrigo da legislação anterior.
+Art. 13.º É revogado o [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro, e diplomas que os integrem ou complementem, regulando desde já o presente diploma o estatuto dos gestores públicos que se encontrem no exercício de funções, Salvaguardando-se os eventuais direitos adquiridos ao abrigo da legislação anterior.
 
 Visto e aprovado em Conselho de Ministros de 21 de Outubro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 2 de Dezembro de 1982.**
+Promulgado em 2 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

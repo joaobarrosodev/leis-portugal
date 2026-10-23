@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11100/17611763.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1983-451621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc7a3b3749409cfeea35539ccb7ae0dd9bd06aba2473ef68a0f88f6f5313f38f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f4e8a682b38d674e70dd39baabf1625fc647b3bd949af315c66015688df82f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação Colectiva
+- Junta de Crédito Público
+- Tecto Salarial
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:36Z'
   warnings: []
   errors: []
 ---
@@ -101,64 +126,64 @@ Usando da autorização conferida pelo artigo 5.º da [Lei n.º 2/83](https://di
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para cumprimento do disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 48/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1983-308542), de 29 de Janeiro, será emitido um empréstimo interno, amortizável, denominado «Títulos de poupança laboral 1983 - 1.ª série».
+Artigo 1.º Para cumprimento do disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 48/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1983-308542), de 29 de Janeiro, será emitido um empréstimo interno, amortizável, denominado «Títulos de poupança laboral 1983 - 1.ª série».
 
-###### Art. 2.º O empréstimo, cujo serviço é confiado à Junta do Crédito Público, não poderá exceder um total nominal de 10 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral.
+Art. 2.º O empréstimo, cujo serviço é confiado à Junta do Crédito Público, não poderá exceder um total nominal de 10 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral.
 
-###### Art. 3.º - 1 - Por portaria do Ministro de Estado e das Finanças e do Plano poderá ser anulada a parte do montante do presente empréstimo que não seja subscrita.
+Art. 3.º - 1 - Por portaria do Ministro de Estado e das Finanças e do Plano poderá ser anulada a parte do montante do presente empréstimo que não seja subscrita.
 
 2 - O montante abatido poderá ser incluído noutro empréstimo, sem prejuízo do limite estabelecido no n.º 1 do artigo 5.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, para empréstimos internos.
 
-###### Art. 4.º - 1 - A representação do empréstimo far-se-á em títulos nominativos de qualquer valor múltiplo de 100$00.
+Art. 4.º - 1 - A representação do empréstimo far-se-á em títulos nominativos de qualquer valor múltiplo de 100$00.
 
 2 - Os títulos levarão a assinatura de chancela do Ministro de Estado e das Finanças e do Plano, do vogal presidente e de outro vogal da Junta do Crédito Público.
 
 3 - Os títulos a que se refere este diploma não podem ser objecto das operações de integração e desdobramento previstas no artigo 16.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960.
 
-###### Art. 5.º Os títulos emitidos gozam da garantia do pagamento integral do juro e do reembolso, por força das receitas gerais do Estado, e da isenção de todos os impostos, incluindo o imposto sobre sucessões e doações.
+Art. 5.º Os títulos emitidos gozam da garantia do pagamento integral do juro e do reembolso, por força das receitas gerais do Estado, e da isenção de todos os impostos, incluindo o imposto sobre sucessões e doações.
 
-###### Art. 6.º - 1 - Para efeito de colocação do empréstimo, a entidade patronal deverá enviar mensalmente à Junta do Crédito Público, em duplicado, uma relação elaborada de harmonia com o modelo anexo a este diploma, da qual conste o nome da entidade patronal e de cada um dos trabalhadores abrangidos, bem como os números fiscais de contribuinte e os montantes individualizados da importância a subscrever arredondados para a centena de escudos imediatamente inferior.
+Art. 6.º - 1 - Para efeito de colocação do empréstimo, a entidade patronal deverá enviar mensalmente à Junta do Crédito Público, em duplicado, uma relação elaborada de harmonia com o modelo anexo a este diploma, da qual conste o nome da entidade patronal e de cada um dos trabalhadores abrangidos, bem como os números fiscais de contribuinte e os montantes individualizados da importância a subscrever arredondados para a centena de escudos imediatamente inferior.
 
 2 - A relação a que se refere o número anterior deverá ser acompanhada de numerário ou cheque visado do montante correspondente ao valor dos títulos a emitir.
 
-###### Art. 7.º O empréstimo encontrar-se-á aberto à subscrição até 31 de Dezembro de 1983.
+Art. 7.º O empréstimo encontrar-se-á aberto à subscrição até 31 de Dezembro de 1983.
 
-###### Art. 8.º - 1 - Até à emissão dos títulos definitivos, o empréstimo considera-se representado pelo duplicado da relação a que se refere o artigo 6.º, o qual, devidamente assinado por chancela pelo director-geral da Junta do Crédito Público e com aposição do selo branco da Junta do Crédito Público, será devolvido à entidade patronal respectiva.
+Art. 8.º - 1 - Até à emissão dos títulos definitivos, o empréstimo considera-se representado pelo duplicado da relação a que se refere o artigo 6.º, o qual, devidamente assinado por chancela pelo director-geral da Junta do Crédito Público e com aposição do selo branco da Junta do Crédito Público, será devolvido à entidade patronal respectiva.
 
 2 - A entidade patronal obriga-se a integrar na Junta do Crédito Público até ao último dia útil de cada mês os valores que vão dar lugar à emissão dos títulos.
 
 3 - A data da emissão será a do primeiro dia do mês seguinte ao da entrega dos valores a que se refere o número anterior.
 
-###### Art. 9.º Os títulos deste empréstimo serão reembolsados ao par em 1 de Março de 1988.
+Art. 9.º Os títulos deste empréstimo serão reembolsados ao par em 1 de Março de 1988.
 
-###### Art. 10.º A taxa de juro anual será a correspondente à taxa de depósitos em escudos a 181 dias, deduzida de impostos, em vigor no dia 30 de Abril de cada ano.
+Art. 10.º A taxa de juro anual será a correspondente à taxa de depósitos em escudos a 181 dias, deduzida de impostos, em vigor no dia 30 de Abril de cada ano.
 
-###### Art. 11.º - 1 - O juro será pagável anualmente em 1 de Maio, verificando-se o primeiro pagamento em 1 de Maio de 1984.
+Art. 11.º - 1 - O juro será pagável anualmente em 1 de Maio, verificando-se o primeiro pagamento em 1 de Maio de 1984.
 
 2 - O juro a pagar em 1 de Maio de 1984 será calculado tendo em conta a respectiva data da emissão.
 
-###### Art. 12.º As importâncias correspondentes aos títulos emitidos serão transferidas da Junta do Crédito Público para o Tesouro nos primeiros 10 dias do mês seguinte ao da entrega das correspondentes relações e importâncias a que se refere o artigo 6.º
+Art. 12.º As importâncias correspondentes aos títulos emitidos serão transferidas da Junta do Crédito Público para o Tesouro nos primeiros 10 dias do mês seguinte ao da entrega das correspondentes relações e importâncias a que se refere o artigo 6.º
 
-###### Art. 13.º - 1 - A entrega dos títulos será feita em data a fixar pela Junta do Crédito Público e serão levantados pela entidade patronal emitente da relação que lhes deu origem.
+Art. 13.º - 1 - A entrega dos títulos será feita em data a fixar pela Junta do Crédito Público e serão levantados pela entidade patronal emitente da relação que lhes deu origem.
 
 2 - A entrega dos títulos pela entidade patronal emitente só poderá ser feita aos respectivos titulares ou, na impossibilidade de o fazerem, deverão os títulos ser devolvidos à Junta do Crédito Público, onde se procederá à definição da propriedade dos mesmos.
 
-###### Art. 14.º No Orçamento do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma.
+Art. 14.º No Orçamento do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma.
 
-###### Art. 15.º As despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários a efectuar pela Junta do Crédito Público que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças e do Plano inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+Art. 15.º As despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários a efectuar pela Junta do Crédito Público que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças e do Plano inscritas nos orçamentos dos anos económicos em que tiverem lugar.
 
-###### Art. 16.º Não são aplicáveis a este empréstimo as disposições do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se refere à indicação do encargo máximo.
+Art. 16.º Não são aplicáveis a este empréstimo as disposições do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se refere à indicação do encargo máximo.
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 29 de Abril de 1983.**
+Promulgado em 29 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Maio de 1983.**
+Referendado em 5 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11100/17611763.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11100/17611763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11100/17611763.pdf)

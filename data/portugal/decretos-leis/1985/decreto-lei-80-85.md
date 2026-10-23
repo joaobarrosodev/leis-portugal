@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1985-324945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4bf5b98779ef35b9f3cf54744e740f970339a49e0e0ac218ca9fd81b5111dea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f70d841bf5a2ed3db35ea416a19aed72bb25d02b08a98c45a57aa96126333846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Ministério da Defesa Nacional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:228830:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228830:por
+  label: "Alterado o quadro de pessoal criado pelo presente diploma pela PORT.282/86.16.06.1986.MDN, DR.IS [135] de 16.06.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-1986-228830
+  date: '1986-06-16'
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:11Z'
   warnings: []
   errors: []
 ---
@@ -98,45 +115,45 @@ Considerando, finalmente, que se impõe, para execução do [Decreto-Lei n.º 42
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado no Ministério da Defesa Nacional o quadro de pessoal constante do mapa I anexo ao presente diploma.
+Artigo 1.º - 1 - É criado no Ministério da Defesa Nacional o quadro de pessoal constante do mapa I anexo ao presente diploma.
 
 2 - Os lugares do quadro de pessoal previsto no número anterior são distribuídos pelo Gabinete do Ministro da Defesa Nacional, pela Cruz Vermelha Portuguesa e pela Liga dos Combatentes, de acordo com o mapa II anexo a este diploma.
 
 3 - Os lugares criados nos termos do n.º 1 deste artigo extinguem-se à medida que vagarem, devendo, contudo, essa extinção iniciar-se pelos lugares de base das respectivas carreiras.
 
-###### Art. 2.º Os funcionários adidos em serviço junto do Gabinete do Ministro da Defesa Nacional, na Cruz Vermelha Portuguesa e na Liga dos Combatentes são integrados no quadro de pessoal referido no artigo 1.º, nos termos do artigo 4.º do [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro, sendo afectados aos organismos onde prestam serviço pelas listas nominativas de integração e de acordo com o mapa II anexo a este diploma.
+Art. 2.º Os funcionários adidos em serviço junto do Gabinete do Ministro da Defesa Nacional, na Cruz Vermelha Portuguesa e na Liga dos Combatentes são integrados no quadro de pessoal referido no artigo 1.º, nos termos do artigo 4.º do [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro, sendo afectados aos organismos onde prestam serviço pelas listas nominativas de integração e de acordo com o mapa II anexo a este diploma.
 
-###### Art. 3.º Os funcionários referidos no artigo anterior transitarão para o quadro do pessoal que vier a ser criado no âmbito da estruturação do Ministério da Defesa Nacional.
+Art. 3.º Os funcionários referidos no artigo anterior transitarão para o quadro do pessoal que vier a ser criado no âmbito da estruturação do Ministério da Defesa Nacional.
 
-###### Art. 4.º Ao pessoal integrado no quadro referido no artigo 1.º aplica-se o regime geral da função pública, bem como toda a legislação em vigor referente à gestão de pessoal da Administração Pública.
+Art. 4.º Ao pessoal integrado no quadro referido no artigo 1.º aplica-se o regime geral da função pública, bem como toda a legislação em vigor referente à gestão de pessoal da Administração Pública.
 
-###### Art. 5.º - 1 - Aos funcionários integrados nos termos do artigo 2.º é contado, para todos os efeitos legais, o tempo de serviço prestado nos serviços de origem e, bem assim, no quadro geral de adidos.
+Art. 5.º - 1 - Aos funcionários integrados nos termos do artigo 2.º é contado, para todos os efeitos legais, o tempo de serviço prestado nos serviços de origem e, bem assim, no quadro geral de adidos.
 
 2 - O tempo de serviço referido no número anterior é contado para efeitos de promoção e progressão na carreira, desde que prestado em categoria idêntica ou equiparada.
 
-###### Art. 6.º O quadro de pessoal criado pelo artigo 1.º pode ser alterado mediante portaria dos Ministros da Defesa Nacional e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
+Art. 6.º O quadro de pessoal criado pelo artigo 1.º pode ser alterado mediante portaria dos Ministros da Defesa Nacional e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
 
-###### Art. 7.º Os encargos decorrentes da integração do pessoal nos termos do artigo 2.º deste diploma serão suportados, até à aprovação do quadro de pessoal do Ministério da Defesa Nacional referido no artigo 3.º, pelo orçamento do Gabinete do Ministro da Defesa Nacional, que para o efeito será provido com as dotações necessárias.
+Art. 7.º Os encargos decorrentes da integração do pessoal nos termos do artigo 2.º deste diploma serão suportados, até à aprovação do quadro de pessoal do Ministério da Defesa Nacional referido no artigo 3.º, pelo orçamento do Gabinete do Ministro da Defesa Nacional, que para o efeito será provido com as dotações necessárias.
 
-###### Art. 8.º A integração a que se refere o artigo 2.º produz efeitos a partir de 1 de Maio de 1984.
+Art. 8.º A integração a que se refere o artigo 2.º produz efeitos a partir de 1 de Maio de 1984.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 6 de Março de 1985.**
+Promulgado em 6 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Março de 1985.**
+Referendado em 8 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
 Quadro de pessoal a que se refere o artigo 1.º do Decreto-Lei n.º 80/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf)
 
 MAPA II
 
@@ -144,12 +161,12 @@ Distribuição a que se refere o n.º 2 de artigo 1.º do Decreto-Lei n.º 80/85
 
 1 - Gabinete do Ministro da Defesa Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf)
 
 2 - Cruz Vermelha Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf)
 
 3 - Liga dos Combatentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07200/07970799.pdf)

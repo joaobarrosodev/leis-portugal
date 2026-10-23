@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1984, 3º Suplemento, Série I de 1984-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3976-(120) a 3976-(122)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/30103/01200122.pdf
 entry_into_force_dates: []
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1984-220499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9329b3b09c62770af4a2b139c61bd7edfe2ed52668985bb03961088c11884b45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cbf48aa9145c34a0bd9473b710bd0ec437d7869df8d3a799972e515157d46af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Orçamento
+- Segurança Social
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:401487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:19Z'
   warnings: []
   errors: []
 ---
@@ -90,32 +102,32 @@ Assim:
 
 Ao abrigo do artigo 16.º da [Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/lei/40-1983-443296), de 13 de Dezembro, e da [Lei n.º 34/84](https://diariodarepublica.pt/dr/detalhe/lei/34-1984-401487), de 5 de Dezembro, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Pelo presente diploma são postas em execução as alterações ao orçamento da Segurança Social para 1984, aprovadas pela [Lei n.º 34/84](https://diariodarepublica.pt/dr/detalhe/lei/34-1984-401487), de 5 de Dezembro.
+Artigo 1.º Pelo presente diploma são postas em execução as alterações ao orçamento da Segurança Social para 1984, aprovadas pela [Lei n.º 34/84](https://diariodarepublica.pt/dr/detalhe/lei/34-1984-401487), de 5 de Dezembro.
 
-###### Art. 2.º No capítulo das despesas correntes do orçamento da Segurança Social para 1984 serão autorizadas, por despacho do Ministro do Trabalho e Segurança Social, transferências de verbas, com excepção de ou para gastos de administração.
+Art. 2.º No capítulo das despesas correntes do orçamento da Segurança Social para 1984 serão autorizadas, por despacho do Ministro do Trabalho e Segurança Social, transferências de verbas, com excepção de ou para gastos de administração.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação e produz efeitos a partir do dia 31 de Dezembro de 1984.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação e produz efeitos a partir do dia 31 de Dezembro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo.
 
-**Promulgado em 31 de Dezembro de 1984.**
+Promulgado em 31 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1984.**
+Referendado em 31 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Orçamento da Segurança Social - 1984 (revisão)
 
 Receitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/30103/01200122.pdf))](https://files.diariodarepublica.pt/1s/1984/12/30103/01200122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/30103/01200122.pdf)
 
 Orçamento da Segurança Social - 1984 (revisão)
 
 Despesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/30103/01200122.pdf))](https://files.diariodarepublica.pt/1s/1984/12/30103/01200122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/30103/01200122.pdf)

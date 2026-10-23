@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/06400/06020604.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1982-609148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63948560b8398b96a5d190060d45e8a174ce369e7b96d95e23be37907a60aa2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd62dfa60a2bf1998debbdf649ce0e710f24a4b7df87009d14e4eb0f03cca538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto do SELO
+- Regulamento do Imposto do SELO
+- Tabela Geral do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:50Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +122,7 @@ Em execução da autorização legislativa concedida pelo artigo 23.º da [Lei n
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É fixada em 40$00 a taxa do papel selado a que se refere o artigo 6.º do Regulamento do Imposto do Selo e as demais taxas da Tabela Geral do Imposto do Selo em que esteja prevista como forma de pagamento o papel selado e, bem assim, as correspondentes àquela taxa constantes das seguintes disposições da mesma Tabela:
+Artigo 1.º - 1 - É fixada em 40$00 a taxa do papel selado a que se refere o artigo 6.º do Regulamento do Imposto do Selo e as demais taxas da Tabela Geral do Imposto do Selo em que esteja prevista como forma de pagamento o papel selado e, bem assim, as correspondentes àquela taxa constantes das seguintes disposições da mesma Tabela:
 
 a) Verba XL do artigo 4;
 
@@ -136,25 +150,25 @@ j) Alínea b) do artigo 157.
 
 4 - A actualização prevista no número anterior será observada sempre que o imposto correspondente ao papel selado deva ou possa ser pago por meio de estampilha, selo de verba ou selo especial.
 
-###### Art. 2.º Os artigos 60.º e 255.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
+Art. 2.º Os artigos 60.º e 255.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 60.º O imposto liquidado nos termos do artigo anterior será cobrado dos segurados e entregue nos cofres do Estado até ao último dia útil do mês imediato àquele em que se efectuar a cobrança dos prémios.
+Art. 60.º O imposto liquidado nos termos do artigo anterior será cobrado dos segurados e entregue nos cofres do Estado até ao último dia útil do mês imediato àquele em que se efectuar a cobrança dos prémios.
 
-###### Art. 255.º A restituição do selo, na hipótese do artigo anterior, só pode ser ordenada pelo Ministro de Estado e das Finanças e do Plano, a requerimento dos interessados e sob informação da Direcção-Geral das Contribuições e Impostos, sendo previamente ouvido o auditor jurídico do Ministério das Finanças e do Plano.
+Art. 255.º A restituição do selo, na hipótese do artigo anterior, só pode ser ordenada pelo Ministro de Estado e das Finanças e do Plano, a requerimento dos interessados e sob informação da Direcção-Geral das Contribuições e Impostos, sendo previamente ouvido o auditor jurídico do Ministério das Finanças e do Plano.
 
 § único. Autorizada a restituição, a repartição de finanças competente processará imediatamente o respectivo título de anulação, para ser pago a dinheiro.
 
-###### Art. 3.º É aditado ao Regulamento do Imposto do Selo o artigo 171.º-B com a seguinte redacção:
+Art. 3.º É aditado ao Regulamento do Imposto do Selo o artigo 171.º-B com a seguinte redacção:
 
-###### Art. 171.º-B. No caso de inutilização ou extravio dos elementos necessários à determinação do imposto do selo, cujo pagamento deva ser efectuado pela forma prevista nos artigos 164.º, 165.º e 166.º, o valor tributável será fixado pelo chefe da repartição de finanças com base em participação a apresentar, para o efeito, pelo contribuinte, em informação dos serviços de fiscalização e em outros elementos de que disponha, não podendo em caso algum ser fixado valor inferior ao que resultar da média dos 12 meses imediatamente anteriores.
+Art. 171.º-B. No caso de inutilização ou extravio dos elementos necessários à determinação do imposto do selo, cujo pagamento deva ser efectuado pela forma prevista nos artigos 164.º, 165.º e 166.º, o valor tributável será fixado pelo chefe da repartição de finanças com base em participação a apresentar, para o efeito, pelo contribuinte, em informação dos serviços de fiscalização e em outros elementos de que disponha, não podendo em caso algum ser fixado valor inferior ao que resultar da média dos 12 meses imediatamente anteriores.
 
 § 1.º A participação a que se refere o corpo deste artigo será apresentada nos prazos previstos no artigo 168.º, implicando a sua falta a determinação oficiosa do valor tributável pelo chefe da repartição de finanças, sem prejuízo da penalidade prevista no artigo 248.º
 
 § 2.º O valor fixado em conformidade com o presente artigo será notificado ao contribuinte para, no prazo de 30 dias, efectuar o pagamento do imposto devido ou, querendo, recorrer nos termos do artigo 251.º, sendo, neste caso, notificado o contribuinte da decisão, devendo efectuar o pagamento do imposto que se mostrar devido nos 30 dias imediatos.
 
-###### Art. 4.º Os artigos 13, 27-A, 29, 120-A, 141 e 170 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
+Art. 4.º Os artigos 13, 27-A, 29, 120-A, 141 e 170 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 13. Apólices de seguros, sobre a soma do prémio do seguro, do custo da apólice e de quaisquer outras importâncias que constituam receita das empresas seguradoras, cobradas juntamente com esse prémio ou em documento separado:
+Art. 13. Apólices de seguros, sobre a soma do prémio do seguro, do custo da apólice e de quaisquer outras importâncias que constituam receita das empresas seguradoras, cobradas juntamente com esse prémio ou em documento separado:
 
 a) Seguros de vida e de acidentes no trabalho, seguros de crédito internos, seguros-caução e seguros de crédito externos que não sejam à exportação - 2% (selo especial);
 
@@ -170,7 +184,7 @@ a) As apólices de seguros de créditos à exportação e de garantias de financ
 
 b) Os prémios recebidos por resseguros tomados a empresas funcionando legalmente em Portugal, incluindo o selo do papel do escrito ou do contrato.
 
-###### Art. 27-A. ...
+Art. 27-A. ...
 
 I - ...
 
@@ -180,7 +194,7 @@ II - ...
 
 2) Mediante cartões ou bilhetes modelo F, validos por uma única entrada - 30$00.
 
-###### Art. 29. Bilhetes de passagem:
+Art. 29. Bilhetes de passagem:
 
 I - Por via fluvial e de serviço nos portos:
 
@@ -208,7 +222,7 @@ Quando os bilhetes forem adquiridos nos territórios do continente ou das Regiõ
 
 V - Nos casos em que haja aluguer ou fretamento de embarcações, aviões ou outros veículos sujeitos ao selo deste artigo, o imposto incide sobre o preço do aluguer ou fretamento.
 
-###### Art. 120-A. Operações bancárias:
+Art. 120-A. Operações bancárias:
 
 a) Saques sobre o estrangeiro, guias-ouro emitidas, moedas e notas estrangeiras e fundos públicos ou títulos negociáveis vendidos, sobre o respectivo valor - 5(por mil) (selo de verba);
 
@@ -218,7 +232,7 @@ c) Prémios e juros de letras tomadas, de letras a receber por conta alheia, de 
 
 1 - O imposto será entregue nos cofres do Estado, por meio de guia, nos termos do artigo 23.º do Regulamento do Imposto do Selo.
 
-###### Art. 141. ...
+Art. 141. ...
 
 1 - ...
 
@@ -238,7 +252,7 @@ r) As importâncias respeitantes ao imposto de transacções, escrituradas nos r
 
 7 - ...
 
-###### Art. 170. Vistorias em prédios destinados a estabelecimentos de ensino particular:
+Art. 170. Vistorias em prédios destinados a estabelecimentos de ensino particular:
 
 1 - Por cada vistoria:
 
@@ -256,12 +270,12 @@ a) Quando num mesmo prédio se fizer mais de uma vistoria, serão reduzidas a me
 
 b) As taxas estabelecidas neste artigo são devidas no momento em que for autorizada a vistoria.
 
-###### Art. 5.º É abolido o selo de averbamento a que se referem os Decretos n.os 4692 e 4748, respectivamente de 12 de Julho e de 20 de Agosto de 1918, sendo revogados os artigos 146.º a 149.º do Regulamento do Imposto do Selo e eliminado o artigo 129 da Tabela Geral do Imposto do Selo.
+Art. 5.º É abolido o selo de averbamento a que se referem os Decretos n.os 4692 e 4748, respectivamente de 12 de Julho e de 20 de Agosto de 1918, sendo revogados os artigos 146.º a 149.º do Regulamento do Imposto do Selo e eliminado o artigo 129 da Tabela Geral do Imposto do Selo.
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Março de 1982.**
+Promulgado em 8 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

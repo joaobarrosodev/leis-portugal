@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01300/01330149.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e365cc7dd6ed149ad0b0ff0bec69d75d15c1381bf2980de3675965a7f0e413a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd944e8729e6f927fc733e0a0a46ae18dadd2bdc575fd8db8fac4bf4e3d9ade0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Estatuto Disciplinar dos Funcionários e Agentes da Administração Central Regional e Local
+- Função Pública
+- Infracção Disciplinar
+- Processo Disciplinar
+- Sanção Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:343611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:432674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483440:por
+  label: Rectificado pela DECL.DD4190.17.04.1984.PCM, DR.IS [100]3ºSupl de 30.04.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-483440
+  date: '1984-01-16'
+- type: repealed_by
+  target: pt:dre:454014:por
+  label: "Revogado, a partir da entrada em vigor do RCTFP, pela LEI.58/2008.09.09.2008.AR, DR.IS [174] de 09.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2008-454014
+  date: '2008-09-09'
 article_structure:
-  article_count: 93
+  article_count: 92
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:38Z'
   warnings: []
   errors: []
 ---
@@ -112,15 +147,15 @@ Assim:
 
 Usando da autorização conferida pela [Lei n.º 10/83](https://diariodarepublica.pt/dr/detalhe/lei/10-1983-454848), de 13 de Agosto, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, o qual faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, o qual faz parte integrante do presente diploma.
 
-###### Art. 2.º Os processos pendentes reger-se-ão pelas seguintes regras:
+Art. 2.º Os processos pendentes reger-se-ão pelas seguintes regras:
 
 a) As normas relativas à incriminação e qualificação de infracções constantes do Estatuto em anexos aplicáveis na medida em que forem mais favoráveis ao arguido;
 
 b) As normas processuais são de aplicação imediata.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local
 
@@ -1112,12 +1147,12 @@ A importância das multas aplicadas constituirá receita das autarquias locais, 
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 16 de Dezembro de 1983.**
+Promulgado em 16 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Dezembro de 1983.**
+Referendado em 22 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/12500/13091310.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1986-226849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c4fde6dccf7f4b97a38f69e91fc612910f57bb96e07ed6b6329d968e9212e9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11c60e0f8f62a3f41bad94494044b661bbe3e3f0a985abeb052bfa1b5e7ca189
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Exportação
+- ICEP
+- Incentivos à Exportação
+- Ministério da Indústria e Comércio
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178104:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:57Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +110,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O [Decreto-Lei n.º 431/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104), de 23 de Outubro, mantém-se em vigor durante o ano de 1986, com as alterações constantes dos artigos seguintes.
+Artigo 1.º O [Decreto-Lei n.º 431/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104), de 23 de Outubro, mantém-se em vigor durante o ano de 1986, com as alterações constantes dos artigos seguintes.
 
-###### Art. 2.º Os artigos 1.º, 3.º e 5.º do [Decreto-Lei n.º 431/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104) passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1.º, 3.º e 5.º do [Decreto-Lei n.º 431/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104) passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Às empresas exportadoras que se encontrem nas condições definidas no presente decreto-lei são concedidos, até 31 de Dezembro de 1986, os seguintes benefícios:
+Artigo 1.º - 1 - Às empresas exportadoras que se encontrem nas condições definidas no presente decreto-lei são concedidos, até 31 de Dezembro de 1986, os seguintes benefícios:
 
 a) ...
 
@@ -111,7 +126,7 @@ c) ...
 
 3 - ...
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) Serem empresas que se dediquem à actividade produtora e exportadora, adiante designadas por empresas produtoras-exportadoras, que no ano de 1985 tenham efectuado exportações num valor igual ou superior a 30000 contos;
 
@@ -127,22 +142,22 @@ b) Serem empresas que se dediquem exclusivamente à actividade de comercializaç
 
 6 - ...
 
-###### Art. 5.º - 1 - As empresas que formalizem a respectiva candidatura aos benefícios previstos no presente decreto-lei até 60 dias após a sua publicação fruirão dos respectivos benefícios a partir de 1 de Janeiro de 1986.
+Art. 5.º - 1 - As empresas que formalizem a respectiva candidatura aos benefícios previstos no presente decreto-lei até 60 dias após a sua publicação fruirão dos respectivos benefícios a partir de 1 de Janeiro de 1986.
 
 2 - ...
 
 3 - ...
 
-###### Art. 3.º Consideram-se feitas ao Ministério da Indústria e Comércio as referências do articulado do [Decreto-Lei n.º 431/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104) ao Ministério do Comércio e Turismo e ao Ministério da Indústria e Energia.
+Art. 3.º Consideram-se feitas ao Ministério da Indústria e Comércio as referências do articulado do [Decreto-Lei n.º 431/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104) ao Ministério do Comércio e Turismo e ao Ministério da Indústria e Energia.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 15 de Maio de 1986.**
+Promulgado em 15 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Maio de 1986.**
+Referendado em 21 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

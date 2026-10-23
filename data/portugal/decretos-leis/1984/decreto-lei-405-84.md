@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1984, 3º Suplemento, Série I de 1984-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3976-(122) a 3976-(124)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/30103/01220124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1984-220498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b744d5f35657b24799a77435f8e6d22e7f5f1302b26896463e5b86e8500af0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e5dee165e061a0bfb7b02fc1b3173c1f4dd7104901306eac2a7c32b8ac6c957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contingentação
+- Importação de Veículos
+- Indústria Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:406125:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227466:por
+  label: "Alterados os arts. 5º, 12º, 13º e 15º pelo DEC LEI.88/86.08.05.1986.MIC, DR.IS [105] de 08.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-1986-227466
+  date: '1986-05-08'
+- type: cites
+  target: pt:dre:147409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601296:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406125:por
+  label: "Revogado pelo DEC LEI.406/87.31.12.1987.MF, DR.IS [300-3ºSupl] de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-1987-406125
+  date: '1987-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:21Z'
   warnings: []
   errors: []
 ---
@@ -111,15 +145,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A importação de veículos automóveis desmontados (CKD) e montados (CBU) destinados às actividades industrial e comercial fica sujeita às regras constantes do presente decreto-lei.
+Artigo 1.º A importação de veículos automóveis desmontados (CKD) e montados (CBU) destinados às actividades industrial e comercial fica sujeita às regras constantes do presente decreto-lei.
 
-###### Art. 2.º Sem prejuízo do disposto nos artigos 4.º, 5.º, 8.º e 9.º, poderá anualmente ser autorizada, a cada marca, a importação de veículos automóveis no estado CBU de peso bruto inferior ou igual a 3500 kg, num mínimo de 15 unidades ou em número correspondente a 2% dos veículos da mesma marca montados e despachados no ano imediatamente anterior, com as seguintes excepções decorrentes dos compromissos internacionais assumidos por Portugal:
+Art. 2.º Sem prejuízo do disposto nos artigos 4.º, 5.º, 8.º e 9.º, poderá anualmente ser autorizada, a cada marca, a importação de veículos automóveis no estado CBU de peso bruto inferior ou igual a 3500 kg, num mínimo de 15 unidades ou em número correspondente a 2% dos veículos da mesma marca montados e despachados no ano imediatamente anterior, com as seguintes excepções decorrentes dos compromissos internacionais assumidos por Portugal:
 
 a) 1 contingente a fixar anualmente para marcas originárias da CEE e dos países da EFTA;
 
 b) 2 contingentes globais a fixar anualmente um para as marcas originárias da CEE e outro para as marcas originárias dos países da EFTA não abrangidas pelo disposto na alínea a) deste número, num mínimo de 20 unidades por marca, não podendo cada marca beneficiar de mais de um quarto deste contingente.
 
-###### Art. 3.º Sem prejuízo do disposto nos artigos 8.º e 9.º, e de acordo com os compromissos internacionais assumidos por Portugal, são anualmente abertos 2 contingentes globais para a importação no estado CBU de veículos automóveis de peso bruto superior a 3500 kg, um para veículos originários da CEE e outro para veículos originários dos países da EFTA.
+Art. 3.º Sem prejuízo do disposto nos artigos 8.º e 9.º, e de acordo com os compromissos internacionais assumidos por Portugal, são anualmente abertos 2 contingentes globais para a importação no estado CBU de veículos automóveis de peso bruto superior a 3500 kg, um para veículos originários da CEE e outro para veículos originários dos países da EFTA.
 
 Arti. 4.º - 1 - Para além do disposto no artigo 2.º, a importação de veículos automóveis ligeiros de passageiros, de carga e mistos de peso bruto inferior ou igual a 2000 kg fica sujeita a contingentação anual.
 
@@ -127,17 +161,17 @@ Arti. 4.º - 1 - Para além do disposto no artigo 2.º, a importação de veícu
 
 3 - O Governo fixará o contingente referido no n.º 1, bem como as condições da sua utilização, podendo excluir do regime de contingentação tipos de veículos especiais.
 
-###### Art. 5.º Para além dos contingentes atribuídos nos termos do artigo 4.º serão autorizadas, a requerimento da entidade interessada, importações adicionais em valor que não exceda o valor nacional acrescentado nas mercadorias exportadas nos termos do artigo 13.º deste diploma.
+Art. 5.º Para além dos contingentes atribuídos nos termos do artigo 4.º serão autorizadas, a requerimento da entidade interessada, importações adicionais em valor que não exceda o valor nacional acrescentado nas mercadorias exportadas nos termos do artigo 13.º deste diploma.
 
-###### Art. 6.º A utilização das quotas atribuídas ao abrigo dos artigos 4.º e 5.º deste decreto-lei poderá ser feita, parcial ou totalmente, em CKD ou em CBU, segundo o interesse do importador.
+Art. 6.º A utilização das quotas atribuídas ao abrigo dos artigos 4.º e 5.º deste decreto-lei poderá ser feita, parcial ou totalmente, em CKD ou em CBU, segundo o interesse do importador.
 
-###### Art. 7.º Não fica sujeita a restrições quantitativas a importação no estado CKD dos veículos automóveis não abrangidos pelo artigo 4.º
+Art. 7.º Não fica sujeita a restrições quantitativas a importação no estado CKD dos veículos automóveis não abrangidos pelo artigo 4.º
 
-###### Art. 8.º - 1 - Para além da importação permitida ao abrigo dos artigos 2.º ou 3.º deste diploma para veículos de peso bruto superior a 2000 kg, poderá, a requerimento da entidade interessada, ser também autorizada a importação em CBU ou em CBU e CKD, nas condições indicadas nas alíneas seguintes:
+Art. 8.º - 1 - Para além da importação permitida ao abrigo dos artigos 2.º ou 3.º deste diploma para veículos de peso bruto superior a 2000 kg, poderá, a requerimento da entidade interessada, ser também autorizada a importação em CBU ou em CBU e CKD, nas condições indicadas nas alíneas seguintes:
 
 a) O número total de veículos automóveis de peso bruto inferior ou igual a 6500 kg importados, por marca e por ano em CBU e CKD ao abrigo deste artigo, não poderá exceder o quantitativo que se obtém por aplicação de uma das expressões constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/30103/01220124.pdf))](https://files.diariodarepublica.pt/1s/1984/12/30103/01220124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/30103/01220124.pdf)
 
 b) O número total de veículos automóveis de peso bruto superior a 6500 kg, importados por marca e por ano em CBU e CKD ao abrigo deste artigo não poderá exceder 35% do total deste tipo de veículos da mesma marca, quer montados, quer importados no estado CBU ao abrigo deste artigo, desalfandegados nos três anos civis anteriores à data do requerimento;
 
@@ -147,11 +181,11 @@ c) Nos casos em que uma marca tenha mudado de designação, resulte da junção 
 
 3 - A importação de veículos automóveis de peso bruto superior a 2000 kg com ou sem caixa basculante, ou para tracção de semi-reboque, considerados de tipos não correntes, no estado CBU, não fica sujeita às condições definidas no n.º 1 deste artigo.
 
-###### Art. 9.º - 1 - Para além dos quantitativos permitidos nos termos do artigo 8.º, serão autorizadas, a requerimento da entidade interessada, importações adicionais em valor igual ao valor nacional acrescentado nas mercadorias exportadas, nos termos do artigo 11.º deste diploma.
+Art. 9.º - 1 - Para além dos quantitativos permitidos nos termos do artigo 8.º, serão autorizadas, a requerimento da entidade interessada, importações adicionais em valor igual ao valor nacional acrescentado nas mercadorias exportadas, nos termos do artigo 11.º deste diploma.
 
 2 - As importações adicionais autorizadas ao abrigo do n.º 1 poderão ser livremente utilizadas no estado CKD ou CBU sem que, neste caso, o número de unidades de veículos automóveis seja imputado ao número de unidades a que a marca tiver direito ao abrigo do disposto nos artigos 2.º e 3.º deste diploma.
 
-###### Art. 10.º - 1 - Os veículos automóveis montados em Portugal e destinados ao mercado interno ficam sujeitos a uma percentagem mínima de incorporação de componentes fabricados pela indústria nacional.
+Art. 10.º - 1 - Os veículos automóveis montados em Portugal e destinados ao mercado interno ficam sujeitos a uma percentagem mínima de incorporação de componentes fabricados pela indústria nacional.
 
 2 - Para veículos automóveis de peso bruto inferior ou igual a 2000 kg a percentagem referida no n.º 1 será de 10%.
 
@@ -161,9 +195,9 @@ c) Nos casos em que uma marca tenha mudado de designação, resulte da junção 
 
 5 - Para os efeitos do n.º 4 deste artigo, consideram-se as mercadorias referidas no artigo 11.º deste diploma.
 
-###### Art. 11.º As exportações a efectuar para os efeitos do n.º 2 do artigo 4.º e dos artigos 5.º, 9.º e 10.º só podem englobar veículos automóveis e componentes para veículos automóveis produzidos em Portugal.
+Art. 11.º As exportações a efectuar para os efeitos do n.º 2 do artigo 4.º e dos artigos 5.º, 9.º e 10.º só podem englobar veículos automóveis e componentes para veículos automóveis produzidos em Portugal.
 
-###### Art. 12.º - 1 - Os componentes importados e que se destinem a ser incorporados nos veículos produzidos nas oficinas de montagem entrarão nestas em regime de depósito franco.
+Art. 12.º - 1 - Os componentes importados e que se destinem a ser incorporados nos veículos produzidos nas oficinas de montagem entrarão nestas em regime de depósito franco.
 
 2 - O regime pautal aplicável aos veículos montados à saída do depósito franco é o seguinte:
 
@@ -173,28 +207,28 @@ b) Tratamento previsto no anexo P ao Acordo EFTA/Espanha, se para os mesmos pude
 
 c) Pauta mínima nos demais casos.
 
-###### Art. 13.º - 1 - O não cumprimento, em cada ano, da incorporação nacional mínima nos termos do artigo 10.º constitui contra-ordenação do importador, a que corresponde coima igual ao dobro da diferença entre o valor a incorporar, correspondente à percentagem mínima obrgatória, e o valor efectivamente incorporado.
+Art. 13.º - 1 - O não cumprimento, em cada ano, da incorporação nacional mínima nos termos do artigo 10.º constitui contra-ordenação do importador, a que corresponde coima igual ao dobro da diferença entre o valor a incorporar, correspondente à percentagem mínima obrgatória, e o valor efectivamente incorporado.
 
 2 - A reincidência implicará um agravamento de 100% da coima que ao caso coubesse nos termos do n.º 1.
 
-###### Art. 14.º - 1 - Os châssis montados em Portugal e destinados ao carroçamento fora das linhas de montagem, como veículos pesados de passageiros, não estão sujeitos ao disposto no artigo 10.º
+Art. 14.º - 1 - Os châssis montados em Portugal e destinados ao carroçamento fora das linhas de montagem, como veículos pesados de passageiros, não estão sujeitos ao disposto no artigo 10.º
 
 2 - Os châssis despachados ao abrigo do n.º 1, aos quais seja dado destino diferente do nele consignado, serão considerados em descaminho dos direitos que lhes corresponderiam se fossem importados no estado CBU.
 
-###### Art. 15.º Os contingentes referidos nas alíneas a) e b) do artigo 2.º, no artigo 3.º e artigo 4.º, bem como as respectivas condições de utilização, serão fixados por portaria dos Ministros das Finanças e do Plano, da Indústria e Energia e do Comércio e Turismo, a qual será publicada no ano imediatamente anterior para o qual os contingentes são fixados.
+Art. 15.º Os contingentes referidos nas alíneas a) e b) do artigo 2.º, no artigo 3.º e artigo 4.º, bem como as respectivas condições de utilização, serão fixados por portaria dos Ministros das Finanças e do Plano, da Indústria e Energia e do Comércio e Turismo, a qual será publicada no ano imediatamente anterior para o qual os contingentes são fixados.
 
-###### Art. 16.º São revogados o [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto, o [Decreto-Lei n.º 513-G1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-g1-1979-147409), de 27 de Dezembro, o [Decreto-Lei n.º 270/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1981-563375), de 18 de Setembro, o [Decreto-Lei n.º 7/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1982-601296), de 14 de Janeiro, e o [Decreto-Lei n.º 487/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1982-380738), de 28 de Dezembro.
+Art. 16.º São revogados o [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto, o [Decreto-Lei n.º 513-G1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-g1-1979-147409), de 27 de Dezembro, o [Decreto-Lei n.º 270/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1981-563375), de 18 de Setembro, o [Decreto-Lei n.º 7/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1982-601296), de 14 de Janeiro, e o [Decreto-Lei n.º 487/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1982-380738), de 28 de Dezembro.
 
-###### Art. 17.º Este diploma entra em vigor em 1 de Janeiro de 1985.
+Art. 17.º Este diploma entra em vigor em 1 de Janeiro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Veiga Simão - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 31 de Dezembro de 1984.**
+Promulgado em 31 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1984.**
+Referendado em 31 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

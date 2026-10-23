@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1d3c4d8aced06f0ff75fd4b0ca4b480db8c991719ad214ee306ddbb8d5b287e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2efcac1a0800289d38d2f97ffe2737344c4dc23306f456fb526c48dce484c6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Isenção Fiscal
+relationships:
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389874:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375837:por
+  label: Retifcado pelo(a) Declaração - Diário da República n.º 216/1982, Série I de 1982-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375837
+  date: '1982-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:00Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +109,9 @@ Considerando que para o efeito se torna necessário harmonizar a legislação na
 
 Usando da autorização conferida pela alínea g) do artigo 22.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea a) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 16/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1981-389874), de 28 de Janeiro, passa a ter a seguinte redacção:
+Artigo 1.º A alínea a) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 16/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1981-389874), de 28 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 1.º - 1 - ...
+Art. 1.º - 1 - ...
 
 2 - Para efeitos do n.º 1, entende-se por:
 
@@ -109,14 +127,14 @@ Sejam enviadas pelo expedidor ao destinatário sem que este tenha de efectuar qu
 
 b) ...
 
-###### Art. 2.º Ao mesmo decreto-lei é aditado o artigo 5.º, com a seguinte redacção:
+Art. 2.º Ao mesmo decreto-lei é aditado o artigo 5.º, com a seguinte redacção:
 
-###### Art. 5.º A concessão de novas franquias e a alteração das existentes, no âmbito deste decreto-lei, serão objecto de portaria do Ministro de Estado e das Finanças e do Plano.
+Art. 5.º A concessão de novas franquias e a alteração das existentes, no âmbito deste decreto-lei, serão objecto de portaria do Ministro de Estado e das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Julho de 1982.**
+Promulgado em 29 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 134/1986, 1º Suplemento, Série I de 1986-06-14
   number: '134'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1406-(3) a 1406-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13401/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 858b89e457c01dddea416f2bb5adb8f33e32e257378872ff5944356b10ccde4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05527e27897dc6996325b9d33e5f9577b40c43e7f0cf2a779a1f5bc0d6c37d33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conta Poupança-emigrante
+- Emigrante
 relationships:
 - type: amended_by
   target: pt:dre:444688:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218959:por
+  label: "Alterados o n.º 1 do art. 7.º, n.os 1 e 2 do art. 17.º, art. 19.º e alínea a) do art.º 21.º, pelo DEC LEI.260/86.29.08.1986.MF,\
+    \ DR.IS [198] de 29.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1986-218959
+  date: '1986-08-29'
+- type: amended_by
+  target: pt:dre:660329:por
+  label: "Alterados os artigos 2.º, n.º 2, alíneas e) e f), 5.º, alínea a), 7.º, n.º 1, 8.º, n.º 2, 10.º, n.º 3, 13.º, 19.º,\
+    \ 20.º e revogado o n.º 3 do artigo 8.º, pelo DEC LEI.357-A/86.25.10.1986.MF, DR.IS [247]Supl de 25.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-1986-660329
+  date: '1986-10-25'
+- type: amended_by
+  target: pt:dre:554865:por
+  label: "Alterado o art. 10.º do presente diploma, pelo DEC LEI.298/90.24.09.1990.MF, DR.IS [221] de 24.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1990-554865
+  date: '1990-09-24'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterado o art. 19º pela LEI.75/93.1993.12.20.AR,DR.IS [134]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:253857:por
+  label: "Alterado o art. 8º pelo DEC LEI.91/94.1994.04.07.MF, DR.IS-A [81], com as alterações introduzidas pelo Dec Lei 357-A/86,\
+    \ de 28-Out\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1994-253857
+  date: '1994-04-07'
+- type: cites
+  target: pt:dre:193622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617339:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627208:por
+  label: "Revogado pelo DEC LEI.323/95.1995.11.29.MF, DR.IS-A [276]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1995-627208
+  date: '1995-11-29'
 article_structure:
   article_count: 22
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:13Z'
   warnings: []
   errors: []
 ---
@@ -298,12 +353,12 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 9 de Junho de 1986.**
+Promulgado em 9 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1986.**
+Referendado em 12 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

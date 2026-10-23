@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10000/10251028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1986-227422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4958ea7606e2806d6822abbb77d031795fba2055798afdbe5a3960890a2e25ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d2855326aea8207c1defe387c0251d7f019a989e696660225a5c84a9ec268a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Investimento
+- Regime Jurídico
+- Sociedade de Investimento
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:626221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:555040:por
+  label: "Alterados os artigos 6.º, 11.º e 13.º, e aditado o artigo 6.º-A, pelo DEC LEI.308/90.29.09.1990.MF, DR.IS [226]\
+    \ de 29.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1990-555040
+  date: '1990-09-29'
+- type: cites
+  target: pt:dre:193813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564030:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419187:por
+  label: "Revogado o art. 4º, pelo DEC LEI.228/87.1987.06.11.MF, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1987-419187
+  date: '1987-06-11'
+- type: repealed_by
+  target: pt:dre:548228:por
+  label: "Revogada a alínea b) do n.º 1 do artigo 13.º, pelo DEC LEI.318/89.23.09.1989.MF, DR.IS [220] de 23.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1989-548228
+  date: '1989-09-23'
+- type: repealed_by
+  target: pt:dre:292298:por
+  label: "Revogado o artigo 10.º e alínea b) do n.º 1 e n.º 2 do artigo 13.º, na redacção dada no Decreto-Lei n.º 308/90,\
+    \ de 29 de Setembro, pelo DEC LEI.149/92.21.07.1992.MF, DR.IS-A [166] de 21.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-1992-292298
+  date: '1992-07-21'
+- type: repealed_by
+  target: pt:dre:626221:por
+  label: "Revogado pelo DEC LEI.260/94.1994.10.22.MF, DR.IS-A [245]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1994-626221
+  date: '1994-10-22'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:25Z'
   warnings: []
   errors: []
 ---
@@ -253,12 +296,12 @@ São revogados os Decretos-Leis n.os [342/80](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 14 de Abril de 1986.**
+Promulgado em 14 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1986.**
+Referendado em 21 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

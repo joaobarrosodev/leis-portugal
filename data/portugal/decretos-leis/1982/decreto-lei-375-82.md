@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21100/27412742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1982-375639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5168e69028c15eb5a5e9d02071defc56db72163092a433e19934af3da17990ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4487105006f879566150cb8de3221afdd2571f788db3cee0bb0e0e0d279946f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Transporte Público
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:124793102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124793102:por
+  label: Revogado, a partir de 19.09.2019, pelo(a) Decreto-Lei n.º 140/2019 - Diário da República n.º 179/2019, Série I de
+    2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2019-124793102
+  date: '2019-09-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:51Z'
   warnings: []
   errors: []
 ---
@@ -98,36 +110,36 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Por despacho do Ministro da Habitação, Obras Públicas e Transportes serão definidos no território nacional eixos rodoviários interurbanos onde poderão ser autorizadas carreiras de alta qualidade de transporte rodoviário de passageiros com características especiais de velocidade comercial, conforto e equipamento, a definir por portaria do mesmo Ministro, e que ficarão sujeitas às regras do presente diploma.
+Artigo 1.º - 1 - Por despacho do Ministro da Habitação, Obras Públicas e Transportes serão definidos no território nacional eixos rodoviários interurbanos onde poderão ser autorizadas carreiras de alta qualidade de transporte rodoviário de passageiros com características especiais de velocidade comercial, conforto e equipamento, a definir por portaria do mesmo Ministro, e que ficarão sujeitas às regras do presente diploma.
 
 2 - Face ao interesse turístico de determinadas ligações, o membro do Governo responsável pelo sector do turismo poderá, por despacho, seleccionar de entre os eixos rodoviários interurbanos a que alude o número anterior aqueles onde importa satisfazer uma procura turística com exigências de oferta de transporte definidas nos termos do mesmo número.
 
-###### Art. 2.º - 1 - É permitido às empresas concessionárias de transporte colectivo de passageiros requererem autorização para a exploração do transporte referido no artigo 1.º, dentro de programas de exploração concretamente definidos.
+Art. 2.º - 1 - É permitido às empresas concessionárias de transporte colectivo de passageiros requererem autorização para a exploração do transporte referido no artigo 1.º, dentro de programas de exploração concretamente definidos.
 
 2 - É permitido às agências de viagens e turismo requererem autorização para a exploração dos transportes referidos no artigo 1.º, desde que circunscritos aos eixos definidos nos termos do n.º 2 do mesmo artigo e dentro de programas de exploração concretamente definidos.
 
-###### Art. 3.º Compete ao Ministro da Habitação, Obras Públicas e Transportes, atentas as condições do mercado, nomeadamente no que respeita ao volume e qualidade da oferta existente, autorizar as carreiras requeridas ao abrigo do artigo 2.º
+Art. 3.º Compete ao Ministro da Habitação, Obras Públicas e Transportes, atentas as condições do mercado, nomeadamente no que respeita ao volume e qualidade da oferta existente, autorizar as carreiras requeridas ao abrigo do artigo 2.º
 
-###### Art. 4.º - 1 - O início da exploração das carreiras autorizadas nos termos do artigo anterior deverá verificar-se até 90 dias após a data de autorização, salvo prorrogação autorizada em circunstâncias especiais.
+Art. 4.º - 1 - O início da exploração das carreiras autorizadas nos termos do artigo anterior deverá verificar-se até 90 dias após a data de autorização, salvo prorrogação autorizada em circunstâncias especiais.
 
 2 - O não cumprimento do disposto no número anterior determina o imediato cancelamento das autorizações e a inibição de requerer novas autorizações, para o eixo em causa, pelo período de 2 anos.
 
-###### Art. 5.º A interrupção da exploração determina o imediato cancelamento das autorizações concedidas e a inibição de requerer novas autorizações, para o eixo em causa, pelo período de 2 anos.
+Art. 5.º A interrupção da exploração determina o imediato cancelamento das autorizações concedidas e a inibição de requerer novas autorizações, para o eixo em causa, pelo período de 2 anos.
 
-###### Art. 6.º - 1 - O regime tarifário das carreiras requeridas ao abrigo do n.º 1 do artigo 2.º será fixado por portaria do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 6.º - 1 - O regime tarifário das carreiras requeridas ao abrigo do n.º 1 do artigo 2.º será fixado por portaria do Ministro da Habitação, Obras Públicas e Transportes.
 
 2 - O regime tarifário das carreiras requeridas ao abrigo do n.º 2 do artigo 2.º será fixado por portaria do Ministro da Habitação, Obras Públicas e Transportes e do membro do Governo responsável pelo sector do turismo.
 
-###### Art. 7.º Às carreiras autorizadas nos termos do presente diploma é aplicável o disposto nos artigos 13.º e 14.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963.
+Art. 7.º Às carreiras autorizadas nos termos do presente diploma é aplicável o disposto nos artigos 13.º e 14.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963.
 
-###### Art. 8.º O presente diploma será regulamentado por portaria do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 8.º O presente diploma será regulamentado por portaria do Ministro da Habitação, Obras Públicas e Transportes.
 
-###### Art. 9.º As dúvidas de interpretação e de aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 9.º As dúvidas de interpretação e de aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Obras Públicas e Transportes.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 19 de Agosto de 1982.**
+Promulgado em 19 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

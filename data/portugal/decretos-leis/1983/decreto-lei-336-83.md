@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16400/26172629.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1983-453804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4e98828906a7fae0e5662a3c64ff325f1999a716287c3289caef6445808351b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7d76126340d3f528518af77db77e3266ea12fe25beb7d45fa0d1f5f3d5a7ea0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Regulamento sobre o Fabrico Armazenagem Comércio e Emprego de Produtos Explosivos
 relationships:
 - type: amended_by
   target: pt:dre:401043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401043:por
+  label: "Revogado o Regulamento pelo DEC LEI.376/84.1984.11.30.PCM, DR.IS [278]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1984-401043
+  date: '1984-11-30'
 article_structure:
-  article_count: 42
+  article_count: 41
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:02Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +125,21 @@ Convindo reunir tal matéria num diploma único, devidamente actualizado, e em c
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento sobre o Fabrico, Armazenagem, Comércio e Emprego de Produtos Explosivos, que faz parte integrante deste decreto-lei.
+Artigo 1.º É aprovado o Regulamento sobre o Fabrico, Armazenagem, Comércio e Emprego de Produtos Explosivos, que faz parte integrante deste decreto-lei.
 
-###### Art. 2.º Ficam revogados os artigos 73.º a 83.º, 91.º a 98.º, 100.º a 107.º, 133.º a 138.º, 140.º e 141.º do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, e ainda os artigos 45.º e 168.º do mesmo Regulamento, com a redacção que lhes foi dada pelo artigo único do [Decreto-Lei n.º 42095](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42095-1959-591755), de 14 de Janeiro de 1959, bem como o Decreto-Lei n.º 393/75, de 23 de Julho, e o [Decreto-Lei n.º 73/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1978-425295), de 17 de Abril.
+Art. 2.º Ficam revogados os artigos 73.º a 83.º, 91.º a 98.º, 100.º a 107.º, 133.º a 138.º, 140.º e 141.º do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, e ainda os artigos 45.º e 168.º do mesmo Regulamento, com a redacção que lhes foi dada pelo artigo único do [Decreto-Lei n.º 42095](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42095-1959-591755), de 14 de Janeiro de 1959, bem como o Decreto-Lei n.º 393/75, de 23 de Julho, e o [Decreto-Lei n.º 73/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1978-425295), de 17 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Carlos José Sanches Vaz Pardal - Alípio Barrosa Pereira Dias - José Ângelo Ferreira Correia - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 REGULAMENTO SOBRE O FABRICO, ARMAZENAGEM, COMÉRCIO E EMPREGO DE PRODUTOS EXPLOSIVOS
 
@@ -566,7 +597,7 @@ TABELA D
 
 Valor dos emolumentos a pagar em selos fiscais, por cada carta de estanqueiro, averbamentos e 2.as vias (artigos 20.º e 25.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16400/26172629.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16400/26172629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16400/26172629.pdf)
 
 TABELA E
 
@@ -576,10 +607,10 @@ Valor da importância a depositar por cada pretendente para a organização e an
 
 Valor da importância a pagar a cada examinador, por cada exame, além das despesas com a deslocação ao local da sua realização (alimentação, alojamento e transporte) - 200$00.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão - Pelo Ministro da Defesa Nacional, Carlos José Sanches Vaz Pardal, Secretário de Estado da Defesa Nacional. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Administração Interna, José Ângelo Ferreira Correia. - Pelo Ministro da Indústria, Energia e Exportação, Fernando Manuel Barbosa Faria de Oliveira, Secretário de Estado da Exportação.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão - Pelo Ministro da Defesa Nacional, Carlos José Sanches Vaz Pardal, Secretário de Estado da Defesa Nacional. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Administração Interna, José Ângelo Ferreira Correia. - Pelo Ministro da Indústria, Energia e Exportação, Fernando Manuel Barbosa Faria de Oliveira, Secretário de Estado da Exportação.
 
 Modelos de cédulas de operador
 
 (Artigo 30.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16400/26172629.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16400/26172629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16400/26172629.pdf)

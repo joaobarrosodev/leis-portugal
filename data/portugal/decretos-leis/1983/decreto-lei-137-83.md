@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06600/10021002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1983-310424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dda42bc25f674c4454095de1021ba3f43dd0b56f9a9580bd55f073af18faf2f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5147bcffb84a1654497e65de68cf8fb181e74d5edf033f85f6b361870b58361
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Eleição
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:46Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +112,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicável, em relação às eleições para a Assembleia da República, a realizar em 25 de Abril próximo, por força do Decreto do Presidente da República n.º 2/83, de 4 de Fevereiro, e nos termos da [Lei n.º 14/79](https://diariodarepublica.pt/dr/detalhe/lei/14-1979-382590), de 16 de Maio, o regime de transferência de verbas constante do [Decreto-Lei n.º 410-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-b-1979-420433), de 27 de Setembro, atribuindo-se, porém, às parcelas X, Y e Z a que se refere o seu artigo 1.º os seguintes valores:
+Artigo 1.º É aplicável, em relação às eleições para a Assembleia da República, a realizar em 25 de Abril próximo, por força do Decreto do Presidente da República n.º 2/83, de 4 de Fevereiro, e nos termos da [Lei n.º 14/79](https://diariodarepublica.pt/dr/detalhe/lei/14-1979-382590), de 16 de Maio, o regime de transferência de verbas constante do [Decreto-Lei n.º 410-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-b-1979-420433), de 27 de Setembro, atribuindo-se, porém, às parcelas X, Y e Z a que se refere o seu artigo 1.º os seguintes valores:
 
 X = 10000$00;
 
@@ -105,20 +120,20 @@ Y = 1$50 x número de eleitores inscritos no concelho;
 
 Z = 1000$00 x número de freguesias do concelho.
 
-###### Art. 2.º - 1 - É reforçada com a importância de 75000000$00 a dotação inscrita sob a rubrica 44.09, B) «Encargos decorrentes de actos eleitorais», do orçamento vigente do Secretariado Técnico dos Assuntos para o Processo Eleitoral (STAPE).
+Art. 2.º - 1 - É reforçada com a importância de 75000000$00 a dotação inscrita sob a rubrica 44.09, B) «Encargos decorrentes de actos eleitorais», do orçamento vigente do Secretariado Técnico dos Assuntos para o Processo Eleitoral (STAPE).
 
 2 - A contrapartida para o reforço a que se refere o n.º 1 sairá da dotação provisional inscrita no orçamento do Ministério das Finanças e do Plano.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia.
 
-**Promulgado em 11 de Março de 1983.**
+Promulgado em 11 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Março de 1983.**
+Referendado em 14 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1984-399791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33d30fa72df221088686ebea4edd1f82d007f50dc85502326c4de3ab679d6c67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b28a9dc9ed90e2ce89d30e07363e95e4546faab56e19af8b6f7875bb41554eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Metrologia
+- Sistema Internacional de Medidas
 relationships:
 - type: amended_by
   target: pt:dre:585426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICACAO PUBLICADA NO DR.IS, 278, 2 SUPL.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-11-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICACAO PUBLICADA NO DR.IS, 49, 2 SUPL, SEGUNDO SUPLEMENTO DE 28/02/85.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-02-28'
+- type: cites
+  target: pt:dre:443157:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380338:por
+  label: Rectificado pela DECL.DD5277.06.11.1984.PCM, DR.IS [278-2.º Supl] de 30.11.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-380338
+  date: '1984-11-06'
+- type: repealed_by
+  target: pt:dre:585426:por
+  label: "Revogado pelo DEC LEI.238/94.1994.09.19.MIE, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1994-585426
+  date: '1994-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:54Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +124,19 @@ A desconformidade do citado anexo com as deliberações da CGPM afecta, pois, a 
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O anexo ao [Decreto-Lei n.º 427/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1983-443157), de 7 de Dezembro, é substituído pelo anexo ao presente diploma.
+Artigo único. O anexo ao [Decreto-Lei n.º 427/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1983-443157), de 7 de Dezembro, é substituído pelo anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - José Veiga Simão.
 
-**Promulgado em 5 de Setembro de 1984.**
+Promulgado em 5 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Setembro de 1984.**
+Referendado em 10 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO
 
@@ -118,7 +144,7 @@ Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soare
 
 1.1 - Unidades SI de base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf))](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
 
 As definições das unidades SI de base são:
 
@@ -168,21 +194,21 @@ A candela é a intensidade luminosa, numa direcção dada, de uma fonte que emit
 
 1.1.1 - Nome e símbolo especiais da unidade SI de temperatura, no caso da temperatura Celsius:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf))](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
 
 A temperatura Celsius t é definida pela equação t = T - T(índice 0), onde T(índice 0) = 273,15 K. Um intervalo ou uma diferença de temperatura podem ser expressos em kelvin ou em grau Celsius. A unidade grau Celsius é igual à unidade kelvin.
 
 1.2 - Unidades SI derivadas: a partir das unidades de base, as unidades derivadas são obtidas através de expressões algébricas que utilizam os símbolos matemáticos da multiplicação e divisão (alguns exemplos na tabela seguinte):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf))](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
 
 1.2.1 - Unidades SI derivadas que tem nomes especiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf))](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
 
 1.3 - Unidades SI suplementares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf))](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
 
 As definições das unidades SI suplementares são:
 
@@ -228,7 +254,7 @@ m.kg/s(elevado a 3)/A
 
 2 - Prefixos e símbolos dos múltiplos e submúltiplos decimais das unidades SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf))](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
 
 2.1 - Regras de utilização dos prefixos:
 
@@ -258,4 +284,4 @@ e não
 
 3 - Outras unidades entregues com o SI: estas unidades não SI podem ser utilizadas conjuntamente com as unidades daquele sistema, não devendo, contudo, ser combinadas com elas a não ser em casos extremos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf))](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/22800/30183020.pdf)

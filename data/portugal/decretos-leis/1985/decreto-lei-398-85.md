@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/23400/33513353.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1985-178368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c94979f48a4fa2058e25ce97028157ebd1bfd5bc24709e91a2bb40e0d67ed27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d77e9c68d5565cb6008b44a511b23127181e6c745bbf5ffcbf1fd4b802249138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:404743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:322311:por
+  label: Rectificado pela DECL.DD5191.24.10.1985.PCM, DR.IS [251]3ºSupl de 31.10.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-322311
+  date: '1985-10-24'
+- type: repealed_by
+  target: pt:dre:404743:por
+  label: "Revogado pelo DEC LEI.316/2002.2002.12.27.MDN DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-2002-404743
+  date: '2002-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:29Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +107,11 @@ Tornando-se, por isso, necessário criar uma medalha que permita materializar o 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada a medalha da cruz naval, destinada a galardoar os militares, militarizados e civis que no âmbito técnico-profissional revelem elevada competência, extraordinário empenhamento e relemente qualidades pessoais, contribuindo significativamente para a eficiência, prestígio e cumprimento da missão da Marinha.
+Artigo 1.º - 1 - É criada a medalha da cruz naval, destinada a galardoar os militares, militarizados e civis que no âmbito técnico-profissional revelem elevada competência, extraordinário empenhamento e relemente qualidades pessoais, contribuindo significativamente para a eficiência, prestígio e cumprimento da missão da Marinha.
 
 2 - A medalha é especialmente destinada aos militares da Armada, podendo, no entanto, ser concedida a militares de outros ramos das Forças Armadas, militarizados e civis, nacionais ou estrangeiros.
 
-###### Art. 2.º A medalha da cruz naval compreende:
+Art. 2.º A medalha da cruz naval compreende:
 
 1.ª classe;
 
@@ -110,7 +121,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4.ª classe.
 
-###### Art. 3.º - 1 - A correspondência entre as classes da medalha da cruz naval e os postos dos militares aos quais poderão ser atribuídas será a seguinte:
+Art. 3.º - 1 - A correspondência entre as classes da medalha da cruz naval e os postos dos militares aos quais poderão ser atribuídas será a seguinte:
 
 a) 1.ª classe - oficiais generais;
 
@@ -122,13 +133,13 @@ c) 4.ª classe - sargentos e praças.
 
 3 - Qualquer das classes poderá ser concedida ao mesmo indivíduo mais de uma vez, sendo permitido o uso de todas.
 
-###### Art. 4.º - 1 - A concessão da medalha da cruz naval será feita por portaria do Chefe do Estado-Maior da Armada, por sua iniciativa ou sob proposta de oficiais generais exercendo funções de comando, direcção ou chefia.
+Art. 4.º - 1 - A concessão da medalha da cruz naval será feita por portaria do Chefe do Estado-Maior da Armada, por sua iniciativa ou sob proposta de oficiais generais exercendo funções de comando, direcção ou chefia.
 
 2 - Serão passados diplomas de concessão da medalha pelo gabinete do Chefe do Estado-Maior da Armada.
 
 3 - Os diplomas serão do modelo a aprovar por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 5.º - 1 - O processo para a concessão da medalha será constituído por:
+Art. 5.º - 1 - O processo para a concessão da medalha será constituído por:
 
 a) Proposta donde constem as acções relevantes justificativas de tal iniciativa;
 
@@ -136,25 +147,25 @@ b) Dados biográficos e currículo.
 
 2 - É dispensada a organização do processo quando a concessão seja da iniciativa do Chefe do Estado-Maior da Armada.
 
-###### Art. 6.º - 1 - A medalha da cruz naval será usada, obrigatoriamente, com as veneras completas, ou ostentando somente as respectivas fitas ou ainda as correspondentes miniaturas, consoante o estabelecido nos planos de uniformes e nas normas de protocolo em vigor.
+Art. 6.º - 1 - A medalha da cruz naval será usada, obrigatoriamente, com as veneras completas, ou ostentando somente as respectivas fitas ou ainda as correspondentes miniaturas, consoante o estabelecido nos planos de uniformes e nas normas de protocolo em vigor.
 
 2 - A insígnia para o peito será usada do lado esquerdo, na ordem de precedência estabelecida no Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas.
 
-###### Art. 7.º As insígnias da medalha e os encargos com a emissão dos diplomas serão custeados pela Marinha.
+Art. 7.º As insígnias da medalha e os encargos com a emissão dos diplomas serão custeados pela Marinha.
 
-###### Art. 8.º Os padrões das insígnias da medalha da cruz naval e respectivas figuras e descrições constam de anexo ao presente diploma.
+Art. 8.º Os padrões das insígnias da medalha da cruz naval e respectivas figuras e descrições constam de anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 30 de Setembro de 1985.**
+Promulgado em 30 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Outubro de 1985.**
+Referendado em 1 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO — Padrões das insígnias - Figuras e descrições
 

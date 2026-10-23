@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23800/31263129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1986-222421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63c369122062d37cb75c4faca035a47f1bbd19a9bb5449e8ce1194e00d1e1161
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25c5c5c953142ceaf65e360481c1bc95cfa41fee4f90639023a256d2e241b077
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete do Nó Ferroviário do Porto
+- Ministério da Habitação Obras Públicas e Transportes
+- Orgânica
+- Porto
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476739:por
+  label: "Extinto o Gabinete do Nó Ferroviário do Porto, pelo Dec Lei 104/97.1997.04.29.MEPAT, DR.IS-A [99] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1997-476739
+  date: '1997-04-29'
+- type: cites
+  target: pt:dre:568324:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:03Z'
   warnings: []
   errors: []
 ---
@@ -111,15 +130,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinto o Gabinete da Ponte Ferroviária sobre o Rio Douro, sendo criado em sua substituição o Gabinete do Nó Ferroviário do Porto, organismo com carácter eventual, sob tutela do Ministro das Obras Públicas, Transportes e Comunicações, gozando de personalidade jurídica e de autonomia administrativa.
+Artigo 1.º - 1 - É extinto o Gabinete da Ponte Ferroviária sobre o Rio Douro, sendo criado em sua substituição o Gabinete do Nó Ferroviário do Porto, organismo com carácter eventual, sob tutela do Ministro das Obras Públicas, Transportes e Comunicações, gozando de personalidade jurídica e de autonomia administrativa.
 
 2 - O Gabinete do Nó Ferroviário do Porto, adiante designado por Gabinete, tem as suas instalações principais nas cidades do Porto e ou Vila Nova de Gaia.
 
-###### Art. 2.º - 1 - São transferidos automaticamente para o Gabinete todos os direitos e obrigações, contratuais ou não, do agora extinto Gabinete da Ponte Ferroviária sobre o Rio Douro.
+Art. 2.º - 1 - São transferidos automaticamente para o Gabinete todos os direitos e obrigações, contratuais ou não, do agora extinto Gabinete da Ponte Ferroviária sobre o Rio Douro.
 
 2 - O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Ministério das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 3.º - 1 - O Gabinete tem por atribuições a promoção e coordenação de todas as actividades relacionadas com o empreendimento do nó ferroviário do Porto, sendo da sua competência, nomeadamente:
+Art. 3.º - 1 - O Gabinete tem por atribuições a promoção e coordenação de todas as actividades relacionadas com o empreendimento do nó ferroviário do Porto, sendo da sua competência, nomeadamente:
 
 a) Promover a elaboração de todos os estudos que se tornem necessários para a realização do empreendimento ou com ele relacionados;
 
@@ -145,11 +164,11 @@ i) Promover o pagamento das despesas.
 
 4 - Com a transferência das obras previstas no n.º 2, a CP assume perante o Estado a responsabilidade do Gabinete como mutuário dos financiamentos concedidos, com a correspondente conversão em dotação de capital da CP dos créditos do Estado destinados a investimentos com infra-estruturas de longa duração ou deles decorrentes e ainda os investimentos de carácter social.
 
-###### Art. 4.º - 1 - A CP e o Gabinete acordarão, em protocolo, o modo de articulação das duas entidades nas decisões que devam ser tomadas relativamente à execução e desenvolvimento de cada um dos projectos e sua futura integração na exploração da CP, sem prejuízo da representação desta empresa pública no órgão de direcção do Gabinete.
+Art. 4.º - 1 - A CP e o Gabinete acordarão, em protocolo, o modo de articulação das duas entidades nas decisões que devam ser tomadas relativamente à execução e desenvolvimento de cada um dos projectos e sua futura integração na exploração da CP, sem prejuízo da representação desta empresa pública no órgão de direcção do Gabinete.
 
 2 - As divergências entre a CP e o Gabinete, relativas ao conteúdo e execução do protocolo, que não puderem ser dirimidas por acordo serão decididas por despacho do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 5.º - 1 - O Gabinete é dirigido por um conselho directivo, constituído por um presidente e três vogais.
+Art. 5.º - 1 - O Gabinete é dirigido por um conselho directivo, constituído por um presidente e três vogais.
 
 2 - O presidente do conselho directivo será um dos membros do conselho de gerência da CP especialmente designado pelo Governo para esse efeito.
 
@@ -163,7 +182,7 @@ c) Um pela CP.
 
 4 - Nas faltas e impedimentos do presidente, este é substituído pelo vogal indicado pelo próprio conselho directivo do Gabinete.
 
-###### Art. 6.º - 1 - Ao presidente cabe, sem prejuízo do disposto no n.º 4, representar o Gabinete perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões do conselho directivo e assegurar a execução das suas deliberações.
+Art. 6.º - 1 - Ao presidente cabe, sem prejuízo do disposto no n.º 4, representar o Gabinete perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões do conselho directivo e assegurar a execução das suas deliberações.
 
 2 - Ao vogal indicado pelo Ministro das Finanças compete superintender nos serviços administrativos e de expediente do Gabinete e coordenar as acções do carácter financeiro.
 
@@ -171,11 +190,11 @@ c) Um pela CP.
 
 4 - O Gabinete vincula-se juridicamente pela assinatura de dois membros do seu conselho directivo ou por mandatários constituídos por deliberação desse conselho.
 
-###### Art. 7.º - 1 - O conselho directivo delibera por maioria dos membros no exercício de funções.
+Art. 7.º - 1 - O conselho directivo delibera por maioria dos membros no exercício de funções.
 
 2 - O presidente tem voto de qualidade.
 
-###### Art. 8.º - 1 - O Gabinete é assistido por um conselho técnico consultivo, com a seguinte composição:
+Art. 8.º - 1 - O Gabinete é assistido por um conselho técnico consultivo, com a seguinte composição:
 
 a) Um representante do Ministério das Obras Públicas, Transportes e Comunicações, que presidirá;
 
@@ -197,13 +216,13 @@ i) Um representante da companhia Caminhos de Ferro Portugueses, E. P.
 
 2 - Os membros do conselho técnico consultivo são nomeados pelo Ministro das Obras Públicas, Transportes e Comunicações, sob proposta dos ministros que tutelam os organismos referidos no número anterior.
 
-###### Art. 9.º - 1 - O conselho técnico consultivo reúne em sessões plenárias por determinação do Ministro das Obras Públicas, Transportes e Comunicações ou a solicitação do presidente do conselho directivo.
+Art. 9.º - 1 - O conselho técnico consultivo reúne em sessões plenárias por determinação do Ministro das Obras Públicas, Transportes e Comunicações ou a solicitação do presidente do conselho directivo.
 
 2 - Os membros do conselho técnico consultivo prestarão, individualmente, a assistência técnica que lhes for solicitada pelo presidente do conselho directivo, dentro das respectivas especialidades.
 
-###### Art. 10.º Os vencimentos e gratificações dos membros do conselho directivo, do pessoal a ele afecto e dos membros do conselho técnico consultivo são fixados por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Art. 10.º Os vencimentos e gratificações dos membros do conselho directivo, do pessoal a ele afecto e dos membros do conselho técnico consultivo são fixados por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 11.º - 1 - As despesas de funcionamento do Gabinete são suportadas por verbas a inscrever no orçamento do Gabinete do Ministro das Obras Públicas, Transportes e Comunicações.
+Art. 11.º - 1 - As despesas de funcionamento do Gabinete são suportadas por verbas a inscrever no orçamento do Gabinete do Ministro das Obras Públicas, Transportes e Comunicações.
 
 2 - O Gabinete requisitará à 12.ª Delegação-Geral da Contabilidade Pública, por conta das verbas destinadas à construção do nó ferroviário do Porto, as importâncias de que necessita para o pagamento das suas despesas.
 
@@ -221,22 +240,22 @@ d) Despesas de investimento a realizar no ano seguinte com indicação da respec
 
 5 - O conselho directivo não aprova nem propõe a aprovação de decisões ou contratos que determinem um excesso para além dos valores aprovados referidos na alínea d) do número anterior sem previamente colher a autorização para revisão desses valores.
 
-###### Art. 12.º O Gabinete presta anualmente contas de gerência ao Tribunal de Contas.
+Art. 12.º O Gabinete presta anualmente contas de gerência ao Tribunal de Contas.
 
-###### Art. 13.º A CP submeterá à apreciação do Gabinete quaisquer sugestões ou propostas que entenda dever transmitir sobre o teor e modo de execução dos contratos actualmente em vigor, com vista ao mais perfeito ajustamento dos projectos à sua economia de exploração, dentro dos limites definidos para o custo das obras.
+Art. 13.º A CP submeterá à apreciação do Gabinete quaisquer sugestões ou propostas que entenda dever transmitir sobre o teor e modo de execução dos contratos actualmente em vigor, com vista ao mais perfeito ajustamento dos projectos à sua economia de exploração, dentro dos limites definidos para o custo das obras.
 
-###### Art. 14.º O director e vogais do Gabinete da Ponte Ferroviária sobre o Rio Douro mantêm-se no exercício das funções para que foram nomeados até à data da posse do conselho directivo instituído neste diploma.
+Art. 14.º O director e vogais do Gabinete da Ponte Ferroviária sobre o Rio Douro mantêm-se no exercício das funções para que foram nomeados até à data da posse do conselho directivo instituído neste diploma.
 
-###### Art. 15.º É revogado o [Decreto-Lei n.º 307/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1981-568324), de 13 de Novembro.
+Art. 15.º É revogado o [Decreto-Lei n.º 307/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1981-568324), de 13 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Fernando Nunes Ferreira Real - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em Guimarães em 23 de Setembro de 1986.**
+Promulgado em Guimarães em 23 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Setembro de 1986.**
+Referendado em 30 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

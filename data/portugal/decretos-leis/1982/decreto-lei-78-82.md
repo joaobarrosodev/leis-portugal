@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1982-599949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 845b588820e85f929e952c679eb1fa63cb0767814d9004f3b36bbb5768dc95e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 857224ef2507508139ee15783d53e654e3243c5156f32b8afbb422eb64540bd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Ensino
+- Gratificação
+- Orientador Pedagógico
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:335255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471884:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335255:por
+  label: Revogado o artigo 6.º pelo DEC LEI.37/90.26.01.1990.ME, DR.IS [22] de 26.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1990-335255
+  date: '1990-01-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:43Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +132,21 @@ Considerando, finalmente, que existe um desfasamento no [Decreto-Lei n.º 95/81]
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Sempre que se verifique falta de candidatos ao concurso para orientadores pedagógicos previsto no n.º 4 do artigo 33.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro, serão nomeados por despacho ministerial professores efectivos ou profissionalizados não efectivos do respectivo grau de ensino, para o exercício daquelas funções.
+Artigo 1.º Sempre que se verifique falta de candidatos ao concurso para orientadores pedagógicos previsto no n.º 4 do artigo 33.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro, serão nomeados por despacho ministerial professores efectivos ou profissionalizados não efectivos do respectivo grau de ensino, para o exercício daquelas funções.
 
-###### Art. 2.º Aos orientadores referidos no artigo anterior é aplicável o disposto nos n.os 5, 6 e 7 do artigo 33.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595).
+Art. 2.º Aos orientadores referidos no artigo anterior é aplicável o disposto nos n.os 5, 6 e 7 do artigo 33.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595).
 
-###### Art. 3.º - 1 - Consideram-se regularizadas, para todos os efeitos legais, as nomeações dos orientadores pedagógicos referidos no n.º 2 do artigo 30.º e no artigo 32.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro, que, por falta de candidatos ao concurso previsto no n.º 3 do artigo 35.º do mesmo diploma, foram designados por despacho ministerial e entraram em exercício de funções.
+Art. 3.º - 1 - Consideram-se regularizadas, para todos os efeitos legais, as nomeações dos orientadores pedagógicos referidos no n.º 2 do artigo 30.º e no artigo 32.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro, que, por falta de candidatos ao concurso previsto no n.º 3 do artigo 35.º do mesmo diploma, foram designados por despacho ministerial e entraram em exercício de funções.
 
 2 - As nomeações dos orientadores referidos no número anterior consideram-se feitas por conveniência urgente de serviço público e é-lhes devida a gratificação prevista no n.º 2 do artigo 32.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), aplicável por força do n.º 6 do artigo 33.º do mesmo diploma.
 
 3 - Aos orientadores referidos neste artigo é igualmente aplicável o disposto no artigo 60.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595).
 
-###### Art. 4.º - 1 - A gratificação prevista para os orientadores pedagógicos nomeados, quer em resultado de concurso, quer em resultado do disposto no artigo 1.º e no n.º 2 do artigo 2.º deste diploma deixa de ser devida a partir do mês seguinte àquele em que o orientador cessa as suas funções específicas por inexistência de profissionalizandos, nomeadamente por efeitos de desistência destes.
+Art. 4.º - 1 - A gratificação prevista para os orientadores pedagógicos nomeados, quer em resultado de concurso, quer em resultado do disposto no artigo 1.º e no n.º 2 do artigo 2.º deste diploma deixa de ser devida a partir do mês seguinte àquele em que o orientador cessa as suas funções específicas por inexistência de profissionalizandos, nomeadamente por efeitos de desistência destes.
 
 2 - Salvo por motivos de força maior devidamente fundamentados e reconhecidos como tal por despacho do Ministro da Educação e das Universidades não é permitido aos orientadores pedagógicos desistir do exercício das suas funções antes do termo dos 2 anos de profissionalização dos docentes cuja orientação pedagógica iniciaram.
 
-###### Art. 5.º - 1 - As nomeações resultantes de eleição ou de despacho ministerial dos delegados de grupo, subgrupo ou disciplina a que se refere o n.º 2 do artigo 35.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595) consideram-se sempre feitas por conveniência urgente de serviço público.
+Art. 5.º - 1 - As nomeações resultantes de eleição ou de despacho ministerial dos delegados de grupo, subgrupo ou disciplina a que se refere o n.º 2 do artigo 35.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595) consideram-se sempre feitas por conveniência urgente de serviço público.
 
 2 - Aos delegados referidos no número anterior é devida a gratificação prevista na alínea b) do n.º 2 do artigo 35.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), desde a data do início das respectivas funções.
 
@@ -128,24 +154,24 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Aos delegados de grupo, subgrupo e disciplina previstos neste artigo é aplicável o disposto no n.º 1 do artigo anterior.
 
-###### Art. 6.º - 1 - Aos professores universitários e aos orientadores responsáveis por cada núcleo de estágio dos ramos de formação educacional das faculdades de ciências e dos bacharelatos e licenciaturas em ensino passa a ser devida a gratificação mensal prevista no n.º 2 do artigo 32.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), paga durante 12 meses do ano. Esta gratificação não é cumulável com o subsídio de férias e com o 13.º mês.
+Art. 6.º - 1 - Aos professores universitários e aos orientadores responsáveis por cada núcleo de estágio dos ramos de formação educacional das faculdades de ciências e dos bacharelatos e licenciaturas em ensino passa a ser devida a gratificação mensal prevista no n.º 2 do artigo 32.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), paga durante 12 meses do ano. Esta gratificação não é cumulável com o subsídio de férias e com o 13.º mês.
 
 2 - Aos professores universitários e aos orientadores referidos no número anterior é aplicável o disposto no n.º 1 do artigo 4.º do presente diploma.
 
-###### Art. 7.º - 1 - Os docentes que prestam serviço nas escolas do magistério primário e nas escolas normais de educadores de infância têm direito à gratificação de 2500$00 mensais, paga durante os 12 meses do ano. Esta gratificação não é cumulável com o subsídio de férias e com o 13.º mês.
+Art. 7.º - 1 - Os docentes que prestam serviço nas escolas do magistério primário e nas escolas normais de educadores de infância têm direito à gratificação de 2500$00 mensais, paga durante os 12 meses do ano. Esta gratificação não é cumulável com o subsídio de férias e com o 13.º mês.
 
 2 - Os docentes referidos no número anterior com horário incompleto perceberão gratificação proporcional ao número de horas curriculares semanais de serviço prestado, calculada na base da gratificação estabelecida para horário completo.
 
-###### Art. 8.º As nomeações dos orientadores pedagógicos e dos delegados de grupo, quer resultantes de concurso, quer de eleição, quer de despacho ministerial, bem como as nomeações dos professores universitários e orientadores referidos no artigo 6.º, estão isentas de visto do Tribunal de Contas.
+Art. 8.º As nomeações dos orientadores pedagógicos e dos delegados de grupo, quer resultantes de concurso, quer de eleição, quer de despacho ministerial, bem como as nomeações dos professores universitários e orientadores referidos no artigo 6.º, estão isentas de visto do Tribunal de Contas.
 
-###### Art. 9.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto dos Ministros de Estado e das Finanças e do Plano, da Reforma Administrativa e da Educação e das Universidades.
+Art. 9.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto dos Ministros de Estado e das Finanças e do Plano, da Reforma Administrativa e da Educação e das Universidades.
 
-###### Art. 10.º É revogado o [Decreto-Lei n.º 95/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1981-394728), de 29 de Abril.
+Art. 10.º É revogado o [Decreto-Lei n.º 95/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1981-394728), de 29 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 24 de Fevereiro de 1982.**
+Promulgado em 24 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

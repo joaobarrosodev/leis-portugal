@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14300/14871492.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1986-228469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0040701a27ea8d72e3571d18028b97be822ecb18a99ec3f6a98a3abff5276026
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22073068029cee12b430e988153712baad9437ca2cc69389b6c47bfc6d8c8fdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Enatur
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:292310:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613016:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do artigo 1.º, pelo AC.218/89.09.03.1989.TCS,\
+    \ DR.IS [57] de 09.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/218-1989-613016
+  date: '1989-03-09'
+- type: amended_by
+  target: pt:dre:574767:por
+  label: "Alterado o art. 7º dos Estatutos da ENATUR aprovados em anexo pelo DEC LEI.180/90.05.06.1990.MCT, DR.IS [129] de\
+    \ 05.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1990-574767
+  date: '1990-06-05'
+- type: cites
+  target: pt:dre:416414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429775:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:292310:por
+  label: "Revogado pelo DEC LEI.151/92.21.07.1992.MCT, DR.IS-A [166] de 21.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1992-292310
+  date: '1992-07-21'
 article_structure:
-  article_count: 36
+  article_count: 35
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:36Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +132,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos da ENATUR - Empresa Nacional de Turismo, E. P., anexos ao presente diploma, que substituem os aprovados pelo [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto.
+Artigo 1.º São aprovados os Estatutos da ENATUR - Empresa Nacional de Turismo, E. P., anexos ao presente diploma, que substituem os aprovados pelo [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto.
 
-###### Art. 2.º A criação de novos órgãos sociais, em harmonia com os Estatutos agora aprovados, dá lugar a cessação de funções dos membros em exercício nos actuais órgãos sociais.
+Art. 2.º A criação de novos órgãos sociais, em harmonia com os Estatutos agora aprovados, dá lugar a cessação de funções dos membros em exercício nos actuais órgãos sociais.
 
-###### Art. 3.º A ENATUR terá uma duração por tempo indeterminado, remontando a data da sua criação, para todos os efeitos, a 4 de Agosto de 1976, data em que foram publicados os seus primitivos Estatutos.
+Art. 3.º A ENATUR terá uma duração por tempo indeterminado, remontando a data da sua criação, para todos os efeitos, a 4 de Agosto de 1976, data em que foram publicados os seus primitivos Estatutos.
 
-###### Art. 4.º - 1 - São atribuições da ENATUR:
+Art. 4.º - 1 - São atribuições da ENATUR:
 
 a) Gerir os bens, estabelecimentos e participações financeiras que façam parte do seu património ou nele venham a se integrar a título permanente ou precário;
 
@@ -131,39 +158,39 @@ h) Prestar serviço de apoio técnico para que se encontre vocacionada.
 
 2 - A ENATUR poderá ainda desempenhar quaisquer funções específicas que o Governo entenda cometer-lhe, atentos os meios necessários para a sua execução.
 
-###### Art. 5.º - 1 - A ENATUR poderá criar empresas destinadas à prossecução das suas atribuições ou participar no capital de empresas constituídas ou a constituir.
+Art. 5.º - 1 - A ENATUR poderá criar empresas destinadas à prossecução das suas atribuições ou participar no capital de empresas constituídas ou a constituir.
 
 2 - Estas empresas poderão ser constituídas exclusivamente com capitais da ENATUR, com outros capitais públicos ou privados.
 
-###### Art. 6.º - 1 - Os imóveis do Estado a que se refere o artigo 7.º, n.º 1, alínea a), do [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, compreendem os imóveis do domínio público e do domínio privado do Estado.
+Art. 6.º - 1 - Os imóveis do Estado a que se refere o artigo 7.º, n.º 1, alínea a), do [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, compreendem os imóveis do domínio público e do domínio privado do Estado.
 
 2 - Ficam expressamente excluídos das universalidades referidas na alínea b) do preceito indicado no número anterior todos os bens que sejam ou venham a ser considerados obras de arte ou antiguidades, ficando, em tais casos, a ENATUR como fiel depositária de tais bens e sendo responsável pela sua administração.
 
-###### Art. 7.º - 1 - São revogados os artigos 7.º, alínea c), 8.º, n.º 3, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 23.º e 25.º do [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto.
+Art. 7.º - 1 - São revogados os artigos 7.º, alínea c), 8.º, n.º 3, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 23.º e 25.º do [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto.
 
 2 - É revogado o [Decreto-Lei n.º 886/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/886-1976-416414), de 29 de Dezembro.
 
-###### Art. 8.º O artigo 7.º, n.º 1, alínea d), do [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, passa a ter a seguinte redacção:
+Art. 8.º O artigo 7.º, n.º 1, alínea d), do [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, passa a ter a seguinte redacção:
 
 As participações financeiras do Estado ou de quaisquer institutos públicos cuja actividade se insere nos domínios da indústria turística e que se entenda serem transferidas.
 
-###### Art. 9.º O artigo 9.º do [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, passa a ter a seguinte redacção:
+Art. 9.º O artigo 9.º do [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, passa a ter a seguinte redacção:
 
 À ENATUR competirá, relativamente aos bens indicados no artigo 7.º, propor as medidas que considerar necessárias para uma gestão eficaz.
 
-###### Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1986. - Aníbal António Cavaco Silva. - Miguel José Ribeiro Cadilhe - Mário Ferreira Bustos Raposo.
 
-**Promulgado em 9 de Junho de 1986.**
+Promulgado em 9 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1986.**
+Referendado em 12 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da ENATUR - Empresa Nacional de Turismo, E. P.
 

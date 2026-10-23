@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09100/10651073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1985-324328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c255ede706e838c3ec3dd2df10a49b2ec6c1714dfb3faa56d42412dbb8604a26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0dfc10707647770cda4e1100c725904d6f0223995a44c1a0d0b8acb6b6e9f47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Custas Judiciais
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterados os arts. 8.º, 43.º e 184.º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329, de 08-Mai 1962,
+    com a redacção dada pelo presente diploma, pelo(a) Decreto-Lei n.º 92/88 - Diário da República n.º 64/1988, 1º Suplemento,
+    Série I de 1988-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: amended_by
+  target: pt:dre:377957:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma do artigo 5.º, na parte em que revoga a\
+    \ alínea e) do artigo 9.º do Decreto-Lei n.º 595/74, de 7 de Novembro, pelo AC.160/88.02.08.1988.TCS, DR.IS [177] de 02.08.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/160-1988-377957
+  date: '1988-08-02'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Alterados os arts. 4º e 5º, na redacção dada ao Código das Custas Judiciais aprovado pelo Dec Lei 44329 de 08-Mai\
+    \ 1962, pelo DEC LEI.227/94.1994.09.08.MJ, DR.IS-A [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:138519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582811:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:495142:por
+  label: Rectificado pela DECL.DD4920.24.05.1985.PCM, DR.IS [125-Supl] de 31.05.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-495142
+  date: '1985-05-24'
 article_structure:
   article_count: 36
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:46Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +177,7 @@ Não parece haver, efectivamente, erros ou desacertos tão relevantes que justif
 
 Assim, no uso da autorização legislativa conferida pelo artigo 66.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Regime de custas)
 
@@ -120,7 +185,7 @@ Assim, no uso da autorização legislativa conferida pelo artigo 66.º da [Lei n
 
 2 - Pelas disposições dos mesmos diplomas se regulam as multas e sua repartição, os preparos, a liquidação e a divisão das custas, o pagamento dos encargos e os serviços de contabilidade.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Alterações ao Código das Custas Judiciais)
 
@@ -568,7 +633,7 @@ Pelo produto dos bens apreendidos ao devedor são os pagamentos feitos pela orde
 
 2 - Na liquidação de multas do foro do trabalho estabelecidas por lei para o incumprimento de obrigações pecuniárias incluir-se-á também a importância correspondente à obrigação em falta, e o pagamento desta importância não é admitido sem a importância correspondente à multa pela infracção.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Alterações ao [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886))
 
@@ -638,7 +703,7 @@ f) A importância de 250$00 a favor do captor e os caminhos devidos aos oficiais
 
 3 - ...
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Alterações ao [Decreto-Lei n.º 44/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1977-138519), de 2 de Fevereiro - Assistência judiciária)
 
@@ -646,7 +711,7 @@ O artigo 4.º do [Decreto-Lei n.º 44/77](https://diariodarepublica.pt/dr/detalh
 
 Não constitui presunção de insuficiência económica o facto de o requerente dispor de outros rendimentos próprios ou de pessoas a seu cargo que, no conjunto, ultrapassem o valor de 300000$00 anuais, além dos proventos referidos na alínea c) do artigo anterior.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Disposição revogatória)
 
@@ -654,12 +719,12 @@ O presente diploma entra em vigor 90 dias depois da sua publicação e na mesma 
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 1985. - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 8 de Abril de 1985.**
+Promulgado em 8 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Abril de 1985.**
+Referendado em 8 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

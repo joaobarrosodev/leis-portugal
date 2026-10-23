@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22782279.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1983-452250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcfdaa16ae5cd5affcac1789c43b018537b53b7bb2ab3c13c43d9a44470a4793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a0cba7863d2581375f40369eff69645e8978193a9c4bc6146b0f017062144fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Equipamentos Colectivos
+- Direcção Geral da Assistência Social
+- Direcção Geral da Previdência
+- Extinção de Serviços
+- Federação das Caixas de Previdência e Abono de Família
+- Instituto da Família e Acção Social
+- Ministério dos Assuntos Sociais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570489:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:26Z'
   warnings: []
   errors: []
 ---
@@ -108,19 +153,19 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Extinção dos organismos)
 
 São extintos a Direcção-Geral da Assistência Social, a Direcção-Geral da Previdência, o Instituto da Família e Acção Social, a Federação das Caixas de Previdência e Abono de Família e a Comissão de Equipamentos Colectivos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Serviços actuariais)
 
 Os serviços actuariais da Direcção-Geral da Previdência são integrados na Direcção-Geral da Segurança Social, para cujo quadro transita, nos termos da lei vigente, o respectivo pessoal.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Destino do pessoal)
 
@@ -140,7 +185,7 @@ Os serviços actuariais da Direcção-Geral da Previdência são integrados na D
 
 8 - O disposto nos números anteriores é igualmente aplicável ao pessoal que tenha optado, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho, pela manutenção do regime jurídico da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, devendo contudo constituir, no respectivo organismo onde tenha sido ou venha a ser colocado, um mapa ou quadro de pessoal privativo, nos termos e para os efeitos dos n.os 1 e 2 do artigo 12.º do citado decreto-lei.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Integração do pessoal)
 
@@ -150,7 +195,7 @@ a) Para categoria idêntica à que actualmente detenha;
 
 b) Para categoria correspondente às funções actualmente desempenhadas, remunerada pela mesma letra de vencimento, ou pela imediatamente superior, quando não se verifique coincidência de remuneração, com respeito pelas habilitações literárias.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Contagem de tempo de serviço)
 
@@ -158,7 +203,7 @@ b) Para categoria correspondente às funções actualmente desempenhadas, remune
 
 2 - Para efeitos de progressão na carreira, apenas contará o tempo de serviço prestado em categoria de conteúdo funcional idêntico ao da categoria de transição.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Situações especiais)
 
@@ -166,13 +211,13 @@ b) Para categoria correspondente às funções actualmente desempenhadas, remune
 
 2 - O disposto no número anterior é igualmente aplicável ao pessoal nas situações de licença sem retribuição, impedimento prolongado ou equiparado, previstas nos artigos 114.º, 121.º e 97.º, n.º 2, da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Património mobiliário)
 
 Todos os bens móveis dos organismos extintos são transferidos, na data da entrada em vigor deste diploma, mediante relações de cadastro devidamente discriminadas e autenticadas, para a propriedade do Estado ou dos serviços com autonomia administrativa e financeira para onde tenham transitado, total ou parcialmente, as suas atribuições e competências.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Património imobiliário)
 
@@ -180,19 +225,19 @@ Todos os bens móveis dos organismos extintos são transferidos, na data da entr
 
 2 - A distribuição dos imóveis pelos serviços a que ficam adstritos será feita por despacho ministerial.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Cessação da posição contratual nos arrendamentos)
 
 Com dispensa de quaisquer formalidades, transitam para serviços do Ministério dos Assuntos Sociais, de harmonia com as necessidades que impliquem o exercício das respectivas atribuições e competências, todos os direitos e obrigações derivados dos contratos de arrendamento celebrados pelos organismos extintos por força do presente diploma.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Receitas e despesas)
 
 Os saldos orçamentais dos organismos referidos no artigo 1.º serão entregues nos cofres do Tesouro, como receita do Estado, para servirem de contrapartida ao reforço das dotações dos serviços para onde forem transferidas as acções dos organismos extintos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Contas de gerência)
 
@@ -200,12 +245,12 @@ As contas de gerência dos organismos dotados de autonomia administrativa agora 
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro - António José de Castro Bagão Félix - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

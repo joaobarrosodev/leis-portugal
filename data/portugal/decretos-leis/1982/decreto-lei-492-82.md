@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1982, 2º Suplemento, Série I de 1982-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4326-(23) a 4326-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30102/00230024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1982-626668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb887519f4e6af56f4bbc956ab94adec05395dbb562c8b2986d4af71b8cab078
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73b644e476eb43e023a4ad359e9207e3488401a106c714304f9af6536932549b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Incentivos Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:630198:por
+  label: Prorrogada, até 31.12.1984, a vigência das disposições do Dec Lei 408/80 de 26-set, com a redação dada pelo presente
+    diploma, pelo(a) Portaria n.º 1079/83 - Diário da República n.º 301/1983, 10º Suplemento, Série I de 1983-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1079-1983-630198
+  date: '1983-12-31'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462620:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:13Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +123,9 @@ Assim:
 
 Usando da autorização conferida pelo artigo 37.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º e 4.º do [Decreto-Lei n.º 408/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1980-461815), de 26 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º e 4.º do [Decreto-Lei n.º 408/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1980-461815), de 26 de Setembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Às empresas pertencentes aos grupos A e B da contribuição industrial com contabilidade regularmente organizada que exportem serviços ou mercadorias do seu comércio ou indústria são concedidos os seguintes incentivos fiscais:
+Artigo 1.º - 1 - Às empresas pertencentes aos grupos A e B da contribuição industrial com contabilidade regularmente organizada que exportem serviços ou mercadorias do seu comércio ou indústria são concedidos os seguintes incentivos fiscais:
 
 a) Dedução no lucro tributável da contribuição industrial, depois de consideradas as demais deduções legais aplicáveis, e até à sua concorrência, de uma importância dada pela seguinte expressão:
 
@@ -128,7 +153,7 @@ Exp = montante das exportações no ano (n) a que respeita a dedução, ou se fo
 
 (Delta)Exp = valor igual à diferença entre o somatório das receitas cambiais provenientes da exportação nas condições da alínea a) do número anterior e das exportações de bens de equipamento ou de serviços, objecto de crédito externo de médio e longo prazos, e o somatório das receitas cambiais e das exportações que, nos mesmos termos, poderiam ter sido consideradas para efeitos de dedução no lucro tributável do exercício anterior. No caso de haver variação negativa em relação a (n - 1) considera-se (Delta)Exp = 0.
 
-###### Art. 2.º - 1 - A dedução referida na alínea a) do n.º 1 do artigo anterior será efectuada no lucro tributável do exercício em que foram recebidas as receitas cambiais ou, nos casos previstos no n.º 2 do mesmo artigo, do exercício correspondente às datas dos despachos aduaneiros, tratando-se de bens de equipamento, ou às datas dos BAECP (boletins de autorização das exportações de capitais privados), tratando-se de serviços.
+Art. 2.º - 1 - A dedução referida na alínea a) do n.º 1 do artigo anterior será efectuada no lucro tributável do exercício em que foram recebidas as receitas cambiais ou, nos casos previstos no n.º 2 do mesmo artigo, do exercício correspondente às datas dos despachos aduaneiros, tratando-se de bens de equipamento, ou às datas dos BAECP (boletins de autorização das exportações de capitais privados), tratando-se de serviços.
 
 2 - Os interessados devem apresentar, com a declaração para efeitos da liquidação da contribuição industrial, declaração, isenta de imposto do selo, comprovativa, conforme os casos, do valor das receitas em divisas provenientes das exportações de bens e serviços ou do valor das exportações de bens de equipamento ou de serviços nas condições do n.º 2 do artigo anterior, no ano a que respeita a dedução e do incremento verificado em relação ao ano anterior.
 
@@ -148,7 +173,7 @@ Cópia do contrato de exportação ou, na sua falta, da respectiva factura.
 
 6 - A percentagem do valor acrescentado nacional correspondente às mercadorias e serviços exportados e o coeficiente K serão fixados por portaria do Ministro de Estado e das Finanças e do Plano e do Ministro da Indústria, Energia e Exportação.
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) Os contratos para a exportação de bens ou serviços;
 
@@ -156,14 +181,14 @@ b) Os contratos de concessão de crédito à exportação, nos termos do [Decret
 
 c) ...
 
-###### Art. 2.º - 1 - As disposições do [Decreto-Lei n.º 408/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1980-461815), de 26 de Setembro, com a redacção dada por este diploma, são aplicáveis ao exercício de 1983, podendo a sua vigência ser prorrogada, por portaria do Ministro de Estado e das Finanças e do Plano e do Ministro da Indústria, Energia e Exportação, até 31 de Dezembro de 1984.
+Art. 2.º - 1 - As disposições do [Decreto-Lei n.º 408/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1980-461815), de 26 de Setembro, com a redacção dada por este diploma, são aplicáveis ao exercício de 1983, podendo a sua vigência ser prorrogada, por portaria do Ministro de Estado e das Finanças e do Plano e do Ministro da Indústria, Energia e Exportação, até 31 de Dezembro de 1984.
 
 2 - O disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 408/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1980-461815), de 26 de Setembro, com a redacção dada por este diploma, aplica-se às exportações de bens e serviços efectuadas no ano de 1982, considerando-se para efeitos do cálculo de (Delta)Exp referido no n.º 2 daquele artigo 1.º, no que se refere ao ano de 1981, apenas as receitas cambiais que poderiam ter sido consideradas para efeitos de dedução no lucro tributável do exercício relativo a esse ano.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1982. - Diogo Pinto de Freitas do Amaral - Alípio Barrosa Pereira Dias - Ricardo Manuel Simões Bayão Horta.
 
-**Promulgado em 31 de Dezembro de 1982.**
+Promulgado em 31 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

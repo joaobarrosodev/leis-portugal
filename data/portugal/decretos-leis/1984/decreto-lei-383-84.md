@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 600979d574a1acb42db36551696d1766c4a9b20feac05583e9346f3fd2d8064a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 059768a1fdf7df4babd94f2fa5a37e1dd5a71d909d77543900a92824a6956b9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aparelho Científico
+- Aparelho Complementar Terapêutico
+- Deficiente
+- Importação
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:52Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +120,15 @@ Usando da autorização conferida pela alínea f) do artigo 19.º da [Lei n.º 4
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os objectos de carácter educativo, cientifico ou cultural mencionados no anexo I beneficiarão da franquia de direitos de importação, qualquer que. seja o seu destinatário e o uso a que se destinem.
+Artigo 1.º Os objectos de carácter educativo, cientifico ou cultural mencionados no anexo I beneficiarão da franquia de direitos de importação, qualquer que. seja o seu destinatário e o uso a que se destinem.
 
-###### Art. 2.º Os objectos de carácter educativo, científico ou cultural mencionados no anexo II beneficiarão da franquia de direitos de importação quando se destinarem:
+Art. 2.º Os objectos de carácter educativo, científico ou cultural mencionados no anexo II beneficiarão da franquia de direitos de importação quando se destinarem:
 
 Quer a estabelecimentos ou organismos públicos ou de utilidade pública de carácter educativo, cientifico ou cultural;
 
 Quer a estabelecimentos ou organismos incluídos nas categorias designadas, relativamente a cada objecto, na terceira coluna do referido anexo, desde que tenham sido aprovados pelo Ministério das Finanças e do Plano para receberem estes objectos com franquia.
 
-###### Art. 3.º - 1 - Beneficiarão da franquia de direitos de importação, sob reserva das disposições dos artigos 4.º a 9.º, os instrumentos e aparelhos científicos não abrangidos pelo artigo 2.º quando importados exclusivamente para fins não comerciais.
+Art. 3.º - 1 - Beneficiarão da franquia de direitos de importação, sob reserva das disposições dos artigos 4.º a 9.º, os instrumentos e aparelhos científicos não abrangidos pelo artigo 2.º quando importados exclusivamente para fins não comerciais.
 
 2 - A franquia mencionada no n.º 1 limitar-se-á aos instrumentos e aparelhos científicos:
 
@@ -121,7 +140,7 @@ Quer a estabelecimentos de carácter privado que tenham como actividade principa
 
 b) Desde que instrumentos ou aparelhos de valor científico equivalente não sejam presentemente fabricados em Portugal.
 
-###### Art. 4.º A franquia aplicar-se-á igualmente:
+Art. 4.º A franquia aplicar-se-á igualmente:
 
 a) Às peças sobresselentes, elementos ou acessórios específicos que se adaptem aos instrumentos ou aparelhos científicos, desde que tais peças sobresselentes, elementos ou acessórios sejam importados ao mesmo tempo que estes instrumentos ou aparelhos ou, se forem importados posteriormente, que se reconheça que se destinam a instrumentos ou aparelhos:
 
@@ -139,7 +158,7 @@ Que sejam susceptíveis de beneficiar da franquia no momento em que esta é requ
 
 e que ferramentas equivalentes não sejam presentemente fabricadas em Portugal.
 
-###### Art. 5.º Para aplicação dos artigos 3.º e 4.º:
+Art. 5.º Para aplicação dos artigos 3.º e 4.º:
 
 Entende-se por «instrumento ou aparelho científico» um instrumento ou aparelho que, por virtude das suas características técnicas objectivas e dos resultados que permite obter, é exclusiva ou principalmente apto para a realização de actividades científicas;
 
@@ -149,29 +168,29 @@ A equivalência do valor científico será apreciada por comparação das caract
 
 Um instrumento ou aparelho científico - ou, se for caso disso, uma das ferramentas referidas na alínea b) do artigo 4.º - será considerado como presentemente fabricado em Portugal quando o seu prazo de entrega, apreciado no momento da encomenda, não for, tendo em consideração os usos comerciais no sector de produção em causa, sensivelmente superior ao prazo de entrega do instrumento ou aparelho - ou, se for caso disso, da ferramenta - que motivou o pedido de franquia ou quando não exceder este prazo de tal modo que o destino ou a utilização inicialmente previstos para o instrumento, o aparelho ou a ferramenta fiquem sensivelmente afectados.
 
-###### Art. 6.º A concessão da franquia subordinar-se-á à verificação de que instrumentos ou aparelhos de valor científico equivalente ao dos instrumentos ou aparelhos para os quais é requerida a importação com franquia - ou, tratando-se de ferramentas, que ferramentas equivalentes àquelas para as quais a importação com franquia é requerida - não são presentemente fabricados em Portugal.
+Art. 6.º A concessão da franquia subordinar-se-á à verificação de que instrumentos ou aparelhos de valor científico equivalente ao dos instrumentos ou aparelhos para os quais é requerida a importação com franquia - ou, tratando-se de ferramentas, que ferramentas equivalentes àquelas para as quais a importação com franquia é requerida - não são presentemente fabricados em Portugal.
 
-###### Art. 7.º - 1 - A concessão da franquia para os instrumentos ou aparelhos científicos assim como para as ferramentas enviados como oferta por uma pessoa estabelecida fora de Portugal aos estabelecimentos referidos na alínea a) do n.º 2 do artigo 3.º não ficará subordinada às condições previstas na alínea b) do n.º 2 do artigo 3.º, na alínea b) do artigo 4.º e no artigo 6.º
+Art. 7.º - 1 - A concessão da franquia para os instrumentos ou aparelhos científicos assim como para as ferramentas enviados como oferta por uma pessoa estabelecida fora de Portugal aos estabelecimentos referidos na alínea a) do n.º 2 do artigo 3.º não ficará subordinada às condições previstas na alínea b) do n.º 2 do artigo 3.º, na alínea b) do artigo 4.º e no artigo 6.º
 
 2 - Para efeito do disposto no n.º 1 deste artigo deverá verificar-se que a dádiva dos instrumentos ou aparelhos científicos em causa não esconde qualquer preocupação de ordem comercial por parte do doador.
 
-###### Art. 8.º - 1 - Os objectos referidos no artigo 2.º e os instrumentos ou aparelhos científicos importados com franquia nas condições previstas nos artigos 3.º a 7.º não poderão ser emprestados, alugados ou cedidos a título oneroso ou gratuito sem que as autoridades aduaneiras tenham sido do facto previamente informadas.
+Art. 8.º - 1 - Os objectos referidos no artigo 2.º e os instrumentos ou aparelhos científicos importados com franquia nas condições previstas nos artigos 3.º a 7.º não poderão ser emprestados, alugados ou cedidos a título oneroso ou gratuito sem que as autoridades aduaneiras tenham sido do facto previamente informadas.
 
 2 - No caso de empréstimo, aluguer ou cessão a um estabelecimento ou organismo com direito a beneficiar da franquia em conformidade com o artigo 2.º ou a alínea a) do n.º 2 do artigo 3.º, a franquia manter-se-á desde que aquele estabelecimento ou organismo utilize o objecto, o instrumento ou aparelho em fins que dêem direito à concessão dessa franquia.
 
 3 - Nos outros casos, a realização do empréstimo, do aluguer ou da cessão ficará subordinada ao pagamento prévio dos direitos de importação, de acordo com a taxa em vigor na data do empréstimo, do aluguer ou da cessão, segundo a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades aduaneiras.
 
-###### Art. 9.º - 1 - Os estabelecimentos ou organismos referidos nos artigos 2.º e 3.º que deixarem de satisfazer às condições requeridas para beneficiarem da franquia ou que tenham em vista a utilização de um objecto importado com franquia em fins diferentes dos previstos pelos referidos artigos deverão informar do facto a Direcção-Geral das Alfândegas.
+Art. 9.º - 1 - Os estabelecimentos ou organismos referidos nos artigos 2.º e 3.º que deixarem de satisfazer às condições requeridas para beneficiarem da franquia ou que tenham em vista a utilização de um objecto importado com franquia em fins diferentes dos previstos pelos referidos artigos deverão informar do facto a Direcção-Geral das Alfândegas.
 
 2 - Os objectos que permaneçam em poder de estabelecimentos ou organismos que deixem de satisfazer às condições requeridas para beneficiarem da franquia ficarão sujeitos aos respectivos direitos de importação, conforme a taxa em vigor na data em que as referidas condições deixarem de satisfazer, segundo a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades aduaneiras.
 
 3 - Os objectos utilizados pelo estabelecimento ou organismo beneficiário da franquia em fins diferentes dos previstos nos artigos 2.º e 3.º ficarão sujeitos aos respectivos direitos de importação, conforme a taxa em vigor na data em que lhes tenha sido dado um outro uso, segundo a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades aduaneiras.
 
-###### Art. 10.º Os artigos 7.º, 8.º e 9.º aplicar-se-ão mutatis mutandis aos produtos referidos no artigo 4.º
+Art. 10.º Os artigos 7.º, 8.º e 9.º aplicar-se-ão mutatis mutandis aos produtos referidos no artigo 4.º
 
-###### Art. 11.º Os objectos especialmente concebidos para a promoção educativa, científica ou cultural dos cegos, mencionados no anexo III beneficiarão da franquia de direitos de importação.
+Art. 11.º Os objectos especialmente concebidos para a promoção educativa, científica ou cultural dos cegos, mencionados no anexo III beneficiarão da franquia de direitos de importação.
 
-###### Art. 12.º - 1 - Os objectos especialmente concebidos para a promoção educativa, científica ou cultural dos cegos, mencionados no anexo IV beneficiarão da franquia de direitos de importação quando forem importados:
+Art. 12.º - 1 - Os objectos especialmente concebidos para a promoção educativa, científica ou cultural dos cegos, mencionados no anexo IV beneficiarão da franquia de direitos de importação quando forem importados:
 
 Quer pelos próprios cegos e para seu próprio uso;
 
@@ -179,7 +198,7 @@ Quer por instituições ou organizações de cegos ou de assistência a cegos ap
 
 2 - A franquia referida no n.º 1 aplica-se às peças sobresselentes, elementos ou acessórios específicos que se adaptem aos objectos considerados, assim como às ferramentas a utilizar na manutenção, controle, calibragem ou reparação dos referidos objectos, desde que tais peças sobresselentes, elementos, acessórios ou ferramentas sejam importados ao mesmo tempo que esses objectos ou, se forem importados posteriormente, se reconheça que se destinam a objectos importados anteriormente com franquia ou susceptíveis de beneficiarem da franquia no momento em que esta for pedida para as peças sobresselentes, elementos ou acessórios específicos e ferramentas em causa.
 
-###### Art. 13.º - 1 - Os objectos especialmente concebidos para a educação, o emprego e a promoção social das pessoas física ou mentalmente diminuídas, que não sejam cegos, beneficiarão da franquia de direitos de importação:
+Art. 13.º - 1 - Os objectos especialmente concebidos para a educação, o emprego e a promoção social das pessoas física ou mentalmente diminuídas, que não sejam cegos, beneficiarão da franquia de direitos de importação:
 
 a) Quando forem importados:
 
@@ -199,21 +218,21 @@ A equivalência dos objectos será apreciada por comparação das característic
 
 Um objecto será considerado como presentemente fabricado em Portugal quando o seu prazo de entrega, apreciado no momento de encomenda, não for, tendo em consideração os usos comerciais no sector de produção em causa, sensivelmente superior ao prazo de entrega ou do objecto para o qual é requerida a franquia ou quando não exceder este prazo de tal modo que o destino ou a utilização inicialmente prevista para o objecto em questão fique sensivelmente afectada.
 
-###### Art. 14.º Sem prejuízo do n.º 2 do artigo 13.º, a concessão da franquia ficará subordinada à verificação de que os objectos equivalentes àqueles para os quais é requerida a franquia não são presentemente fabricados em Portugal.
+Art. 14.º Sem prejuízo do n.º 2 do artigo 13.º, a concessão da franquia ficará subordinada à verificação de que os objectos equivalentes àqueles para os quais é requerida a franquia não são presentemente fabricados em Portugal.
 
-###### Art. 15.º - 1 - A concessão da franquia aos objectos enviados como donativo aos próprios deficientes e para seu próprio uso ou às instituições referidas na alínea a) do n.º 1 do artigo 13.º não está subordinada às condições previstas na alínea b) do n.º 1 do artigo 13.º e no artigo 14.º
+Art. 15.º - 1 - A concessão da franquia aos objectos enviados como donativo aos próprios deficientes e para seu próprio uso ou às instituições referidas na alínea a) do n.º 1 do artigo 13.º não está subordinada às condições previstas na alínea b) do n.º 1 do artigo 13.º e no artigo 14.º
 
 2 - Para efeito do disposto no n.º 1 deverá verificar-se que a doação dos objectos em causa não encobre qualquer preocupação de ordem comercial por parte do doador.
 
-###### Art. 16.º A concessão directa da franquia, para uso próprio, a cegos ou a outros deficientes, tal como está previsto no primeiro parágrafo do n.º 1 do artigo 12.º, no primeiro parágrafo da alínea a) do n.º 1 do artigo 13.º e no artigo 15.º, ficará subordinada à condição de que os interessados provem a sua condição de cegos ou de deficientes com direito a tal franquia.
+Art. 16.º A concessão directa da franquia, para uso próprio, a cegos ou a outros deficientes, tal como está previsto no primeiro parágrafo do n.º 1 do artigo 12.º, no primeiro parágrafo da alínea a) do n.º 1 do artigo 13.º e no artigo 15.º, ficará subordinada à condição de que os interessados provem a sua condição de cegos ou de deficientes com direito a tal franquia.
 
-###### Art. 17.º - 1 - Os objectos importados com franquia pelas pessoas referidas nos artigos 12.º, 13.º e 15.º não poderão ser emprestados, alugados ou cedidos a título oneroso ou gratuito sem que as autoridades aduaneiras tenham sido previamente informadas.
+Art. 17.º - 1 - Os objectos importados com franquia pelas pessoas referidas nos artigos 12.º, 13.º e 15.º não poderão ser emprestados, alugados ou cedidos a título oneroso ou gratuito sem que as autoridades aduaneiras tenham sido previamente informadas.
 
 2 - No caso de empréstimo, aluguer ou cessão a uma pessoa, instituição ou organismo com direito a beneficiar da franquia em conformidade com os artigos 12.º a 15.º, a franquia manter-se-á desde que aquele estabelecimento ou organismo utilize o objecto em fins que dêem direito à concessão da franquia.
 
 3 - Em casos diferentes dos previstos no n.º 2, a realização do empréstimo, do aluguer ou da cessão ficará subordinada ao pagamento prévio dos direitos de importação, de acordo com a taxa em vigor na data do empréstimo, do aluguer ou da cessão, segundo a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades aduaneiras.
 
-###### Art. 18.º - 1 - Os objectos importados pelas instituições ou organizações aprovadas para beneficiarem da franquia nas condições previstas nos artigos 12.º a 15.º poderão sem emprestados, alugados ou cedidos sem fim lucrativo por estas instituições ou organizações aos cegos e a outros deficientes dos quais se ocupam, sem dar lugar ao pagamento dos direitos aduaneiros relativos a esses objectos.
+Art. 18.º - 1 - Os objectos importados pelas instituições ou organizações aprovadas para beneficiarem da franquia nas condições previstas nos artigos 12.º a 15.º poderão sem emprestados, alugados ou cedidos sem fim lucrativo por estas instituições ou organizações aos cegos e a outros deficientes dos quais se ocupam, sem dar lugar ao pagamento dos direitos aduaneiros relativos a esses objectos.
 
 2 - Nenhum empréstimo, aluguer ou cessão poderá efectuar-se em condições diferentes das previstas no n.º 1 sem prévia informação à Direcção-Geral das Alfândegas e sem o parecer favorável do Secretariado Nacional de Reabilitação.
 
@@ -221,31 +240,31 @@ Um objecto será considerado como presentemente fabricado em Portugal quando o s
 
 4 - Em casos diferentes dos previstos no n.º 3, a realização do empréstimo, do aluguer ou da cessão ficará subordinada ao pagamento prévio dos direitos aduaneiros, de acordo com a taxa em vigor na data do empréstimo, do aluguer ou da cessão, segundo a natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades aduaneiras.
 
-###### Art. 19.º - 1 - As instituições ou organizações referidas nos artigos 12.º e 13.º que deixem de satisfazer às condições requeridas para beneficiarem da franquia ou que tenham em vista a utilização de um objecto importado com franquia para fins diferentes dos previstos pelos referidos artigos, deverão informar do facto a Direcção-Geral das Alfândegas e o Secretariado Nacional de Reabilitação.
+Art. 19.º - 1 - As instituições ou organizações referidas nos artigos 12.º e 13.º que deixem de satisfazer às condições requeridas para beneficiarem da franquia ou que tenham em vista a utilização de um objecto importado com franquia para fins diferentes dos previstos pelos referidos artigos, deverão informar do facto a Direcção-Geral das Alfândegas e o Secretariado Nacional de Reabilitação.
 
 2 - Os objectos que permaneçam em poder das instituições ou organizações que deixem de satisfazer às condições requeridas para beneficiarem da franquia ficarão sujeitos aos respectivos direitos de importação, conforme a taxa em vigor na data em que as referidas condições deixaram de satisfazer, segundo a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades aduaneiras.
 
 3 - Os objectos utilizados pela instituição ou organização beneficiária da franquia em fins diferentes dos previstos pelos artigos 12.º e 13.º ficam sujeitos aos respectivos direitos de importação, conforme a taxa em vigor na data em que lhes foi dado um outro uso, segundo a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades aduaneiras.
 
-###### Art. 20.º - É revogado o [Decreto-Lei n.º 362/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1981-144396), de 31 de Dezembro.
+Art. 20.º - É revogado o [Decreto-Lei n.º 362/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1981-144396), de 31 de Dezembro.
 
-###### Art. 21.º - As disposições necessárias à execução dos artigos 1.º a 10.º - objectos de carácter educativo, científico ou cultural e instrumentos e aparelhos científicos - e 11.º a 19.º - objectos destinados aos cegos e a outras pessoas deficientes - constarão de dois decretos regulamentares.
+Art. 21.º - As disposições necessárias à execução dos artigos 1.º a 10.º - objectos de carácter educativo, científico ou cultural e instrumentos e aparelhos científicos - e 11.º a 19.º - objectos destinados aos cegos e a outras pessoas deficientes - constarão de dois decretos regulamentares.
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 13 de Novembro de 1984.**
+Promulgado em 13 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Novembro de 1984.**
+Referendado em 14 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — A - Livros, publicações e documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
 
 B - Material visual e auditivo de carácter educativo, científico ou cultural
 
@@ -253,12 +272,12 @@ Artigos referidos no anexo II-A produzidos pela Organização das Nações Unida
 
 ## ANEXO II — A - Material visual e auditivo de carácter educativo, científico ou cultural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
 
 B - Objectos de colecção e objectos de arte de carácter educativo, científico ou cultural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28000/36973703.pdf)

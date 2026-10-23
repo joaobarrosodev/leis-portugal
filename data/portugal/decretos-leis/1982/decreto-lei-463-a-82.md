@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 277/1982, 1º Suplemento, Série I de 1982-11-30
   number: '277'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4014-(1) a 4014-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/27701/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-a-1982-238976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ac4a1fbd16d65c2d11965bc455448ebd90dcd74152afdde617c32d2822630f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c0a6ba5b03a7081aeadb12fc31eb24b9f69c2cc6ae70e067fdda511e36e4f17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pensão de Invalidez
+- Pensão de Velhice
+- Subsídio de Natal
 relationships:
 - type: amended_by
   target: pt:dre:653127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:653127:por
+  label: Substituído pelo(a) Decreto-Lei n.º 329/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25, nos seus
+    precisos termos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1993-653127
+  date: '1993-09-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:43Z'
   warnings: []
   errors: []
 ---
@@ -96,14 +105,14 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - O montante dos subsídios de Natal atribuíveis em Dezembro aos pensionistas de invalidez, velhice e sobrevivência dos regimes de segurança social será estabelecido nos diplomas de actualização de pensões para o período em que se aplicam.
+Artigo único. - 1 - O montante dos subsídios de Natal atribuíveis em Dezembro aos pensionistas de invalidez, velhice e sobrevivência dos regimes de segurança social será estabelecido nos diplomas de actualização de pensões para o período em que se aplicam.
 
 2 - Os subsídios de Natal referidos no n.º 1 não serão, porém, de montante inferior às pensões em vigor antes do início de vigência de cada diploma de actualização de pensões.
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 19 de Novembro de 1982.**
+Promulgado em 19 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

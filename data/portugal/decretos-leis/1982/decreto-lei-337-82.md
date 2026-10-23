@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/19200/24522453.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1982-397550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70591dd709bbcadd85f7fad5910290d71fb731323af895534496e403f62b2c39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3136b7c74c03d4e9c500e4c19fe6a0ff607bb3bc6b2f545d2c1f971dc273ac34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- ANA
+- BEI
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:286511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:12Z'
   warnings: []
   errors: []
 ---
@@ -101,16 +123,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição e do artigo 1.º da [Lei n.º 66/77](https://diariodarepublica.pt/dr/detalhe/lei/66-1977-286511), de 2 de Setembro, o seguinte:
 
-###### Artigo 1.º O Governo, através do Ministro de Estado e das Finanças e do Plano, deverá assumir as obrigações e os direitos da empresa pública ANA - Aeroportos e Navegação Aérea, E. P., no contrato de empréstimo celebrado com o Banco Europeu de Investimentos (BEI) em 2 de Agosto de 1979.
+Artigo 1.º O Governo, através do Ministro de Estado e das Finanças e do Plano, deverá assumir as obrigações e os direitos da empresa pública ANA - Aeroportos e Navegação Aérea, E. P., no contrato de empréstimo celebrado com o Banco Europeu de Investimentos (BEI) em 2 de Agosto de 1979.
 
-###### Art. 2.º A assunção dos direitos e obrigações a que se refere o artigo anterior deverá ser regulada nos termos de uma adenda ao referido contrato, a celebrar entre a República Portuguesa, o BEI e a ANA, E. P.
+Art. 2.º A assunção dos direitos e obrigações a que se refere o artigo anterior deverá ser regulada nos termos de uma adenda ao referido contrato, a celebrar entre a República Portuguesa, o BEI e a ANA, E. P.
 
-###### Art. 3.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a inscrever no Orçamento Geral do Estado as verbas que forem necessárias para ocorrer aos encargos resultantes do disposto no presente decreto-lei.
+Art. 3.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a inscrever no Orçamento Geral do Estado as verbas que forem necessárias para ocorrer aos encargos resultantes do disposto no presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 3 de Agosto de 1982.**
+Promulgado em 3 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

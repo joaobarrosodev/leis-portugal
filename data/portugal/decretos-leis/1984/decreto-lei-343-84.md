@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1984-400201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c4cf161f1fb5d9b56e2ebd1b989debc74bfa4491ed35d3c4de1f5ad4cfd81b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71e8538870c575e4a77e4fe9828bfbf39f665a7c1f9918e96107df134120476d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral do Ensino Superior
+- Gratificação
+- Inspecção Geral do Ensino
+- Ministério da Educação
+- Pessoal Dirigente
+- Pessoal Técnico
 relationships:
 - type: amended_by
   target: pt:dre:227423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227423:por
+  label: "Dada nova redacção ao art.2º pelo DEC LEI.79/86.02.05.1986.MEC, DR.IS [100] de 02.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1986-227423
+  date: '1986-05-02'
+- type: cites
+  target: pt:dre:230890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667523:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:16Z'
   warnings: []
   errors: []
 ---
@@ -97,24 +120,24 @@ Considerando que as razões invocadas constituem fundamento enquadrável nas med
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao pessoal dirigente e técnico de inspecção da Inspecção-Geral de Ensino é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.
+Artigo 1.º Ao pessoal dirigente e técnico de inspecção da Inspecção-Geral de Ensino é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.
 
-###### Art. 2.º A gratificação referida no artigo anterior é extensiva aos inspectores da Direcção-Geral do Ensino Superior.
+Art. 2.º A gratificação referida no artigo anterior é extensiva aos inspectores da Direcção-Geral do Ensino Superior.
 
-###### Art. 3.º O pessoal dirigente e técnico de inspecção da Inspecção-Geral de Ensino continuará a receber, até 31 de Dezembro de 1984, a gratificação que lhe vinha sendo atribuída nos termos do disposto no artigo 65.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
+Art. 3.º O pessoal dirigente e técnico de inspecção da Inspecção-Geral de Ensino continuará a receber, até 31 de Dezembro de 1984, a gratificação que lhe vinha sendo atribuída nos termos do disposto no artigo 65.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
 
-###### Art. 4.º É revogado o [Decreto-Lei n.º 249/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1983-451837), de 11 de Junho, desde a data da sua entrada em vigor.
+Art. 4.º É revogado o [Decreto-Lei n.º 249/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1983-451837), de 11 de Junho, desde a data da sua entrada em vigor.
 
-###### Art. 5.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1985, com excepção dos artigos 3.º e 4.º, que entram imediatamente em vigor.
+Art. 5.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1985, com excepção dos artigos 3.º e 4.º, que entram imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Alípio Barrosa Pereira Dias - Maria Helena Carvalho dos Santos Oliveira Lopes.
 
-**Promulgado em 16 de Outubro de 1984.**
+Promulgado em 16 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Outubro de 1984.**
+Referendado em 17 de Outubro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

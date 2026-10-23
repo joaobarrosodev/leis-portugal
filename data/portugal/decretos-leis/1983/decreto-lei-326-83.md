@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15300/24502450.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1983-453219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40691444451cc90839704bf265922d6847cb6629fb80f0008397464ea3f971f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2019a3b9d10e3d8c9d8b1d618d62e3a3d7055c6013a5ced7a3f057897bb02351
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:124793102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124793102:por
+  label: Revogado, a partir de 19.09.2019, pelo(a) Decreto-Lei n.º 140/2019 - Diário da República n.º 179/2019, Série I de
+    2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2019-124793102
+  date: '2019-09-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:52Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +117,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a exploração de serviços especiais directos de transporte colectivo rodoviário de passageiros com a designação «expressos».
+Artigo 1.º É autorizada a exploração de serviços especiais directos de transporte colectivo rodoviário de passageiros com a designação «expressos».
 
-###### Art. 2.º São características essenciais dos expressos:
+Art. 2.º São características essenciais dos expressos:
 
 a) Extensão de percurso não inferior a 50 km;
 
@@ -108,24 +127,24 @@ b) Utilização exclusiva de veículos pesados de passageiros, no mínimo da cat
 
 c) Regime de paragens a definir por portaria.
 
-###### Art. 3.º - 1 - Podem requerer autorização para a exploração de expressos as empresas concessionárias de transporte colectivo de passageiros, individualmente ou associadas, desde que sirvam, com carreiras interurbanas de passageiros, pelo menos um dos pontos terminais do serviço requerido e parte do percurso no mesmo itinerário ou em itinerário paralelo, nos termos a definir em portaria.
+Art. 3.º - 1 - Podem requerer autorização para a exploração de expressos as empresas concessionárias de transporte colectivo de passageiros, individualmente ou associadas, desde que sirvam, com carreiras interurbanas de passageiros, pelo menos um dos pontos terminais do serviço requerido e parte do percurso no mesmo itinerário ou em itinerário paralelo, nos termos a definir em portaria.
 
 2 - Para efeitos do disposto no número anterior, consideram-se associados os concessionários que entre si estabeleçam um acordo para a exploração conjunta de um expresso.
 
-###### Art. 4.º As autorizações para a exploração de expressos serão concedidas pelo Ministro da Habitação, Obras Públicas e Transportes.
+Art. 4.º As autorizações para a exploração de expressos serão concedidas pelo Ministro da Habitação, Obras Públicas e Transportes.
 
-###### Art. 5.º Aos serviços autorizados nos termos do presente diploma é aplicável o disposto nos artigos 13.º e 14.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963.
+Art. 5.º Aos serviços autorizados nos termos do presente diploma é aplicável o disposto nos artigos 13.º e 14.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963.
 
-###### Art. 6.º O presente diploma será regulamentado por portaria do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 6.º O presente diploma será regulamentado por portaria do Ministro da Habitação, Obras Públicas e Transportes.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 2 de Junho de 1983.**
+Promulgado em 2 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Junho de 1983.**
+Referendado em 6 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

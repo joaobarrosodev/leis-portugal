@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01700/01100120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1983-307814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e714b5bc505c4343a8da7124b15e8cb4f6b5777d399b75548868139b024334fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a90c3354c68c5c060de4f2bca4b12ffb2d28a91653a1f58c67fbf730a2215fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Direitos Aduaneiros
+- Exportação
+- Importação
+- Instruções Preliminares das Pautas
+- Pauta Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:546469:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531829:por
+  label: "Alterado o art. 55.º pelo DEC LEI.4/84.1984.01.05.MFP DR.IS [4]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-1984-531829
+  date: '1984-01-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685239:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:151544:por
+  label: "Revogada a al. h) do nº 1 do art. 46º e os arts. 48º a 56º das Instruções Preliminares das Pautas, pelo DEC LEI.176/85.1985.05.22.MFP\
+    \ DR.IS [117]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1985-151544
+  date: '1985-05-22'
+- type: repealed_by
+  target: pt:dre:546469:por
+  label: "Revogado pelo DEC LEI.518/85.31.12.1985.MF, DR.IS [301]4ºSupl de 31.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/518-1985-546469
+  date: '1985-12-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:08Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +154,17 @@ Considerando que as actuais Instruções Preliminares das Pautas de Importação
 
 Usando da autorização conferida pelo artigo 22.º, alínea c), da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovadas as Instruções Preliminares das Pautas (instruções provisórias), anexas a este diploma.
+Artigo 1.º São aprovadas as Instruções Preliminares das Pautas (instruções provisórias), anexas a este diploma.
 
-###### Art. 2.º São revogadas as Instruções Preliminares da Pauta de Importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, e as Instruções Preliminares da Pauta de Exportação, aprovadas pelo [Decreto n.º 17823](https://diariodarepublica.pt/dr/detalhe/decreto/17823-1929-685239), de 31 de Dezembro de 1929.
+Art. 2.º São revogadas as Instruções Preliminares da Pauta de Importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, e as Instruções Preliminares da Pauta de Exportação, aprovadas pelo [Decreto n.º 17823](https://diariodarepublica.pt/dr/detalhe/decreto/17823-1929-685239), de 31 de Dezembro de 1929.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 11 de Janeiro de 1983.**
+Promulgado em 11 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 INSTRUÇÕES PRELIMINARES DAS PAUTAS
 
@@ -114,21 +172,21 @@ INSTRUÇÕES PRELIMINARES DAS PAUTAS
 
 Importação
 
-###### Artigo 1.º As mercadorias importadas para consumo ou utilização produtiva ficam sujeitas às taxas consignadas na Pauta dos Direitos de Importação, excepto no caso de estarem isentas de direitos por disposição legal.
+Artigo 1.º As mercadorias importadas para consumo ou utilização produtiva ficam sujeitas às taxas consignadas na Pauta dos Direitos de Importação, excepto no caso de estarem isentas de direitos por disposição legal.
 
-###### Art. 2.º Os serviços públicos ficam obrigados ao pagamento das taxas fixadas na Pauta dos Direitos de Importação para as mercadorias que importarem, salvo disposição legal em contrário.
+Art. 2.º Os serviços públicos ficam obrigados ao pagamento das taxas fixadas na Pauta dos Direitos de Importação para as mercadorias que importarem, salvo disposição legal em contrário.
 
-###### Art. 3.º - 1 - As taxas específicas consignadas na Pauta dos Direitos de Importação são expressas em moeda corrente.
+Art. 3.º - 1 - As taxas específicas consignadas na Pauta dos Direitos de Importação são expressas em moeda corrente.
 
 2 - Nas mercadorias tributadas ad valorem aplica-se a taxa ao valor expresso em moeda corrente.
 
-###### Art. 4.º - 1 - O valor aduaneiro das mercadorias importadas é o seu preço normal, isto é, o preço susceptível de ser atribuído a essas mercadorias no caso de uma venda efectuada em mercado livre, entre um comprador e um vendedor independentes um do outro.
+Art. 4.º - 1 - O valor aduaneiro das mercadorias importadas é o seu preço normal, isto é, o preço susceptível de ser atribuído a essas mercadorias no caso de uma venda efectuada em mercado livre, entre um comprador e um vendedor independentes um do outro.
 
 2 - A determinação do valor reporta-se à data da apresentação do pedido de despacho ou do preenchimento da caderneta, conforme o caso.
 
 3 - Exceptuam-se, para efeitos de aplicação dos direitos ad valorem, os medicamentos cujos direitos tenham por base os preços de venda ao público, nos termos da nota à posição 30.03 da Pauta dos Direitos de Importação.
 
-###### Art. 5.º - 1 - Para determinação do preço normal a que se refere o artigo anterior, deve considerar-se:
+Art. 5.º - 1 - Para determinação do preço normal a que se refere o artigo anterior, deve considerar-se:
 
 a) Que as mercadorias são entregues ao comprador no porto ou no local por onde se efectue a sua entrada no País:
 
@@ -138,7 +196,7 @@ c) Que o comprador suporta no País o encargo dos direitos e de quaisquer outras
 
 2 - O preço normal será determinado partindo-se do princípio de que a venda diz respeito à quantidade de mercadorias a avaliar.
 
-###### Art. 6.º - 1 - Uma venda no mercado livre, entre um comprador e um vendedor independentes um do outro, pressupõe as condições seguintes:
+Art. 6.º - 1 - Uma venda no mercado livre, entre um comprador e um vendedor independentes um do outro, pressupõe as condições seguintes:
 
 a) O pagamento do preço da mercadoria constitui o único desembolso efectivo do comprador;
 
@@ -148,7 +206,7 @@ c) Nenhuma parte do produto proveniente das revendas ou de outros actos de dispo
 
 2 - Duas pessoas são consideradas associadas em negócios se uma delas possui um interesse qualquer nos negócios ou nos bens da outra, ou se ambas possuem um interesse comum em negócios ou em bens, ou ainda se uma terceira pessoa possui um interesse nos negócios ou nos bens de cada uma delas, quer estes interesses sejam directos ou indirectos.
 
-###### Art. 7.º Quando as mercadorias a avaliar:
+Art. 7.º Quando as mercadorias a avaliar:
 
 a) São fabricadas segundo uma patente de invenção ou conforme desenho ou modelo protegidos;
 
@@ -158,9 +216,9 @@ c) São importadas para serem vendidas ou submetidas a um outro acto de disposi�
 
 a determinação do preço normal far-se-á considerando que esse preço inclui o valor do direito de utilização, relativamente às ditas mercadorias, da patente, do desenho ou do modelo, ou da marca de fábrica ou de comércio.
 
-###### Art. 8.º Pode aceitar-se como valor aduaneiro o preço indicado na factura, desde que se verifique que o cálculo feito obedece, às condições exigidas para a determinação do preço normal e não se suscitem dúvidas quanto à exactidão dos elementos fornecidos.
+Art. 8.º Pode aceitar-se como valor aduaneiro o preço indicado na factura, desde que se verifique que o cálculo feito obedece, às condições exigidas para a determinação do preço normal e não se suscitem dúvidas quanto à exactidão dos elementos fornecidos.
 
-###### Art. 9.º - 1 - As mercadorias importadas por qualquer via estão sujeitas às taxas e ao regime pautal que vigorem no dia em que for numerado o respectivo bilhete de despacho, mesmo que se encontrem arrecadadas em regime aduaneiro ou livre.
+Art. 9.º - 1 - As mercadorias importadas por qualquer via estão sujeitas às taxas e ao regime pautal que vigorem no dia em que for numerado o respectivo bilhete de despacho, mesmo que se encontrem arrecadadas em regime aduaneiro ou livre.
 
 2 - As mercadorias importadas por virtude de contratos de fornecimento ao Estado e aos corpos e corporações administrativas estão sujeitas às taxas e regime pautal vigentes na época da assinatura dos respectivos contratos.
 
@@ -172,21 +230,21 @@ I
 
 Regimes pautais
 
-###### Art. 10.º As mercadorias importadas estão sujeitas a regimes pautais diferentes, consoante a sua origem. Esses regimes são: pauta geral ou pauta máxima, pauta mínima e direitos preferenciais.
+Art. 10.º As mercadorias importadas estão sujeitas a regimes pautais diferentes, consoante a sua origem. Esses regimes são: pauta geral ou pauta máxima, pauta mínima e direitos preferenciais.
 
-###### Art. 11.º - 1 - O regime da pauta máxima ou da pauta geral é o regime a que, em princípio, estão sujeitas as mercadorias originárias de países estrangeiros, desde que esses países não tenham qualquer benefício assegurado por tratado de comércio.
+Art. 11.º - 1 - O regime da pauta máxima ou da pauta geral é o regime a que, em princípio, estão sujeitas as mercadorias originárias de países estrangeiros, desde que esses países não tenham qualquer benefício assegurado por tratado de comércio.
 
 2 - O Governo pode, em circunstâncias excepcionais de interesse para a economia nacional, tornar o regime da pauta mínima extensivo a países que apliquem a sua pauta mínima às mercadorias de origem portuguesa.
 
-###### Art. 12.º Aplica-se ainda o regime da pauta máxima:
+Art. 12.º Aplica-se ainda o regime da pauta máxima:
 
 a) Às mercadorias lotadas em armazéns gerais;
 
 b) Às mercadorias transformadas em armazéns gerais, uma vez que haja junção de mercadorias não nacionais ou nacionalizadas e o valor das peças ou materiais com direito a regime pautal favorável (pauta mínima ou direitos preferenciais) somado com o da mão-de-obra nacional seja inferior a metade do valor do artefacto no estado em que é submetido a despacho.
 
-###### Art. 13.º O regime da pauta mínima aplica-se a mercadorias originárias de países que tenham esse benefício assegurado, quer por tratado de comércio, quer por disposição legal. Consiste na aplicação de taxas inferiores às do regime da pauta máxima.
+Art. 13.º O regime da pauta mínima aplica-se a mercadorias originárias de países que tenham esse benefício assegurado, quer por tratado de comércio, quer por disposição legal. Consiste na aplicação de taxas inferiores às do regime da pauta máxima.
 
-###### Art. 14.º Gozam do regime da pauta mínima:
+Art. 14.º Gozam do regime da pauta mínima:
 
 a) As mercadorias originárias quer de países que tenham esse benefício assegurado por tratado de comércio ou por disposição legal, quer de países que beneficiem do tratamento da nação mais favorecida;
 
@@ -202,15 +260,15 @@ f) Os veículos sujeitos a direitos, com excepção dos automóveis mencionados 
 
 g) Os objectos arrojados pelo mar e os achados no mar, quando forem devidos direitos.
 
-###### Art. 15.º O regime dos direitos preferenciais, decorrente de acordos preferenciais celebrados com outros países, consiste na aplicação de taxas mais favaráveis do que as do regime da pauta mínima.
+Art. 15.º O regime dos direitos preferenciais, decorrente de acordos preferenciais celebrados com outros países, consiste na aplicação de taxas mais favaráveis do que as do regime da pauta mínima.
 
-###### Art. 16.º As mercadorias originárias de Macau e entradas no País por via postal ou transportadas sob qualquer bandeira, enquanto não houver carreiras regulares de navegação nacional, ficam sujeitas aos direitos calculados pelo pagamento de 30% das taxas mais favoráveis aplicadas às mercadorias similares estrangeiras.
+Art. 16.º As mercadorias originárias de Macau e entradas no País por via postal ou transportadas sob qualquer bandeira, enquanto não houver carreiras regulares de navegação nacional, ficam sujeitas aos direitos calculados pelo pagamento de 30% das taxas mais favoráveis aplicadas às mercadorias similares estrangeiras.
 
-###### Art. 17.º As embalagens seguem o regime pautal das mercadorias.
+Art. 17.º As embalagens seguem o regime pautal das mercadorias.
 
-###### Art. 18.º Os direitos específicos que incidirem sobre o peso das mercadorias são calculados pelo peso bruto, peso líquido ou peso líquido legal, conforme o estabelecido no texto da Pauta dos Direitos de Importação e respectivas disposições preliminares, assim como nestas Instruções.
+Art. 18.º Os direitos específicos que incidirem sobre o peso das mercadorias são calculados pelo peso bruto, peso líquido ou peso líquido legal, conforme o estabelecido no texto da Pauta dos Direitos de Importação e respectivas disposições preliminares, assim como nestas Instruções.
 
-###### Art. 19.º - 1 - São tributadas pelo peso bruto, além das mercadorias assim indicadas no texto da Pauta, todas aquelas cuja taxa da pauta mínima não exceda $20 por quilograma.
+Art. 19.º - 1 - São tributadas pelo peso bruto, além das mercadorias assim indicadas no texto da Pauta, todas aquelas cuja taxa da pauta mínima não exceda $20 por quilograma.
 
 2 - Nas mercadorias tributadas pelo peso bruto pode determinar-se este peso por pesagem directa ou por estimativa.
 
@@ -218,11 +276,11 @@ g) Os objectos arrojados pelo mar e os achados no mar, quando forem devidos dire
 
 4 - Pode ainda aceitar-se para base da tributação o peso bruto declarado no manifesto, desde que confira com o indicado na factura comercial ou com o mencionado na guia de exportação e a taxa da pauta aplicável não exceda $20 por quilograma.
 
-###### Art. 20.º - 1 - O peso líquido legal é o peso das mercadorias adicionado do peso da totalidade ou de parte das embalagens interiores.
+Art. 20.º - 1 - O peso líquido legal é o peso das mercadorias adicionado do peso da totalidade ou de parte das embalagens interiores.
 
 2 - Quando as mercadorias forem tributadas pelo peso e do texto da Pauta não conste que essa tributação incide sobre o peso bruto ou sobre o peso líquido, tributar-se-ão pelo peso líquido legal.
 
-###### Art. 21.º - 1 - Para as mercadorias tributadas pelo peso líquido legal estabelece-se este peso, à escolha da verificação, por qualquer dos modos seguintes:
+Art. 21.º - 1 - Para as mercadorias tributadas pelo peso líquido legal estabelece-se este peso, à escolha da verificação, por qualquer dos modos seguintes:
 
 a) Pesando a mercadoria com os invólucros que lhe servem de acondicionamento;
 
@@ -238,21 +296,21 @@ e) Subtraindo do peso bruto tomado por pesagem directa o peso das embalagens ext
 
 3 - Exceptua-se destas disposições o açúcar acondicionado em sacos simples ou dobrados, cujo peso tributável será calculado descontando-se do peso bruto, avaliado por pesagem directa ou por estimativa, o peso dos sacos obtido por estimativa.
 
-###### Art. 22.º O importador que não quiser aceitar o peso líquido legal determinado pelo verificador por qualquer dos processos mencionados nas alíneas b) a e) do n.º 1 do artigo antecedente tem a faculdade de optar pela pesagem directa. Não resultando um benefício superior a 3% a favor do importador, são por este pagas em dobro as taxas estabelecidas para o tráfego.
+Art. 22.º O importador que não quiser aceitar o peso líquido legal determinado pelo verificador por qualquer dos processos mencionados nas alíneas b) a e) do n.º 1 do artigo antecedente tem a faculdade de optar pela pesagem directa. Não resultando um benefício superior a 3% a favor do importador, são por este pagas em dobro as taxas estabelecidas para o tráfego.
 
-###### Art. 23.º Do peso bruto das mercadorias, quando contar-se-ão, conforme a natureza das mercadorias e o peso líquido legal for avaliado por tara oficial, desdos invólucros, as percentagens seguintes:
+Art. 23.º Do peso bruto das mercadorias, quando contar-se-ão, conforme a natureza das mercadorias e o peso líquido legal for avaliado por tara oficial, desdos invólucros, as percentagens seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/01700/01100120.pdf))](https://files.diariodarepublica.pt/1s/1983/01/01700/01100120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/01700/01100120.pdf)
 
 Nos volumes dobrados, forrados, encapados ou com capa dobrada, além da respectiva tara, deduzem-se mais 2%.
 
-###### Art. 24.º - 1 - As embalagens interiores de uso habitual, sem inscrição especial no texto da Pauta, pagam direitos como a própria mercadoria se a tributação recai sobre o peso líquido legal.
+Art. 24.º - 1 - As embalagens interiores de uso habitual, sem inscrição especial no texto da Pauta, pagam direitos como a própria mercadoria se a tributação recai sobre o peso líquido legal.
 
 2 - As matérias de acondicionamento que não tenham características de artefactos ou manufacturas, tais como serradura, aparas, casca de arroz, palha, bocados de cartão ou de papel e pó de talco, quando soltas, isto é, que não sejam propriamente invólucros nem acondicionamento interno das mercadorias, são livres de direitos.
 
-###### Art. 25.º O peso das embalagens interiores de uso habitual, sem inscrição especial no texto da Pauta, que acondicionem mercadorias classificadas por mais de um artigo pautal, desde que uma ou mais taxas incidam sobre o peso líquido legal, adiciona-se ao peso da mercadoria assim tributada a que corresponder maior taxa.
+Art. 25.º O peso das embalagens interiores de uso habitual, sem inscrição especial no texto da Pauta, que acondicionem mercadorias classificadas por mais de um artigo pautal, desde que uma ou mais taxas incidam sobre o peso líquido legal, adiciona-se ao peso da mercadoria assim tributada a que corresponder maior taxa.
 
-###### Art. 26.º É proibido importar:
+Art. 26.º É proibido importar:
 
 a) Caixas ou fardos, reunidos e atados, com a mesma marca, formando um só volume que contenha mercadorias diversas ou que, contendo a mesma mercadoria, não seja acompanhado de declaração do número e peso total das caixas ou fardos reunidos;
 
@@ -268,23 +326,23 @@ f) Medicamentos e produtos alimentares nocivos à saúde pública;
 
 g) Quaisquer outras mercadorias cuja importação seja proibida por outras disposições legais.
 
-###### Art. 27.º Pode ser proibida pelo Governo a importação de objectos, livros, impressos, fotografias, fitas cinematográficas, quaisquer desenhos e escritos que forem julgados ofensivos das instituições.
+Art. 27.º Pode ser proibida pelo Governo a importação de objectos, livros, impressos, fotografias, fitas cinematográficas, quaisquer desenhos e escritos que forem julgados ofensivos das instituições.
 
-###### Art. 28.º A classificação pautal das mercadorias efectuar-se-á de acordo com as regras gerais para a interpretação da Pauta dos Direitos de Importação.
+Art. 28.º A classificação pautal das mercadorias efectuar-se-á de acordo com as regras gerais para a interpretação da Pauta dos Direitos de Importação.
 
-###### Art. 29.º Se houver discordância entre o texto da Pauta e o disposto nas Inscrições Preliminares, prevalece o estabelecido no texto.
+Art. 29.º Se houver discordância entre o texto da Pauta e o disposto nas Inscrições Preliminares, prevalece o estabelecido no texto.
 
-###### Art. 30.º Sempre que na interpretação do texto da Pauta se reconheça haver divergência entre os dizeres do texto e os do índice, prevalecem os do texto.
+Art. 30.º Sempre que na interpretação do texto da Pauta se reconheça haver divergência entre os dizeres do texto e os do índice, prevalecem os do texto.
 
-###### Art. 31.º Considera-se como artigo pautal toda a posição, subposição ou desdobramento desta à qual corresponda uma taxa.
+Art. 31.º Considera-se como artigo pautal toda a posição, subposição ou desdobramento desta à qual corresponda uma taxa.
 
-###### Art. 32.º Os impressos avulsos e os folhetos fazendo parte da embalagem de perfumarias, medicamentos ou outras mercadorias a que digam respeito pelos seus dizeres, contidos em invólucro comum formando um único volume, pagam direitos como a própria mercadoria quando não excedam as diminutas quantidades habituais.
+Art. 32.º Os impressos avulsos e os folhetos fazendo parte da embalagem de perfumarias, medicamentos ou outras mercadorias a que digam respeito pelos seus dizeres, contidos em invólucro comum formando um único volume, pagam direitos como a própria mercadoria quando não excedam as diminutas quantidades habituais.
 
 II
 
 Regime especial
 
-###### Art. 33.º Têm regime especial na importação:
+Art. 33.º Têm regime especial na importação:
 
 a) Os álcoois dos Açores, que só podem ser importados quando desnaturados, salvo o caso previsto no [Decreto n.º 32599](https://diariodarepublica.pt/dr/detalhe/decreto/32599-1942-327617), de 30 de Dezembro de 1942;
 
@@ -292,9 +350,9 @@ b) O chá verde, que só pode ser importado mediante a apresentação de certifi
 
 c) Quaisquer outras mercadorias cuja importação seja regulada por outras disposições legais.
 
-###### Art. 34.º Para efeito de desembaraço aduaneiro das mercadorias, a alfândega pode sempre exigir facturas e quaisquer outros documentos relativos a compra ou à importação das mercadorias em causa, bem como, no caso de aparelhos, máquinas e instalações, desenhos e resenhas minuciosas da quantidade e qualidade dos respectivos componentes.
+Art. 34.º Para efeito de desembaraço aduaneiro das mercadorias, a alfândega pode sempre exigir facturas e quaisquer outros documentos relativos a compra ou à importação das mercadorias em causa, bem como, no caso de aparelhos, máquinas e instalações, desenhos e resenhas minuciosas da quantidade e qualidade dos respectivos componentes.
 
-###### Art. 35.º - 1 - Os aparelhos, máquinas e instalações, importados em diferentes remessas, podem gozar da classificação indicada na Pauta, observadas que sejam as formalidades seguintes:
+Art. 35.º - 1 - Os aparelhos, máquinas e instalações, importados em diferentes remessas, podem gozar da classificação indicada na Pauta, observadas que sejam as formalidades seguintes:
 
 a) O importador deve obrigar-se, por meio de termo, a realizar a importação de toda a máquina ou instalação em prazo determinado;
 
@@ -302,33 +360,33 @@ b) Até se ultimar a importação, o importador deve sucessivamente depositar os
 
 2 - Se no prazo fixado nos termos da alínea a) do n.º 1 deste artigo não tiver sido realizada a importação de toda a máquina ou instalação, liquidam-se os direitos da parte importada em harmonia com a classificação feita pela forma estabelecida na alínea b) do mesmo número.
 
-###### Art. 36.º - 1 - O material para instalações completas de centrais telefónicas, sem prejuízo da classificação que lhe competir de acordo com o texto da Pauta, estará unicamente sujeito às taxas uniformes de 50% e de 25%, ad valorem, respectivamente, nas pautas máxima e mínima.
+Art. 36.º - 1 - O material para instalações completas de centrais telefónicas, sem prejuízo da classificação que lhe competir de acordo com o texto da Pauta, estará unicamente sujeito às taxas uniformes de 50% e de 25%, ad valorem, respectivamente, nas pautas máxima e mínima.
 
 2 - Não se consideram como fazendo parte das instalações os telefones, acumuladores, dínamos ou motores e os respectivos quadros de distribuição.
 
-###### Art. 37.º - 1 - O material para antenas de emissão ou recepção radioeléctrica, compreendendo os acessórios para a sua fixação e iluminação, quando importados conjuntamente, sem prejuízo da classificação que lhe competir de acordo com o texto da Pauta, estará unicamente sujeito às taxas de 1$60 e de $80, por quilograma, respectivamente, nas pautas máxima e mínima.
+Art. 37.º - 1 - O material para antenas de emissão ou recepção radioeléctrica, compreendendo os acessórios para a sua fixação e iluminação, quando importados conjuntamente, sem prejuízo da classificação que lhe competir de acordo com o texto da Pauta, estará unicamente sujeito às taxas de 1$60 e de $80, por quilograma, respectivamente, nas pautas máxima e mínima.
 
 2 - O importador deverá garantir por depósito ou fiança os direitos correspondentes aos artigos da Pauta em que se encontrem compreendidos, liquidando-se o depósito ou cancelando-se o termo de fiança depois de a alfândega haver verificado a sua aplicação; consideram-se descaminhados aos direitos os artefactos a que for dado outro uso.
 
-###### Art. 38.º As bobinas de fita para pontas de cigarros, as composições ou matérias simples destinadas a dar aos tabacos perfume ou paladar especiais e as varetas-filtros para cigarros, sem prejuízo da classificação que lhes competir de acordo com o texto da Pauta, quando importadas pelas empresas legalmente autorizadas a exercer a indústria de tabacos, estão sujeitas, respectivamente, às taxas de 7$35, 2$45 e 12$35, por quilograma, nos termos do disposto no artigo 2.º e respectivo § 1.º do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957.
+Art. 38.º As bobinas de fita para pontas de cigarros, as composições ou matérias simples destinadas a dar aos tabacos perfume ou paladar especiais e as varetas-filtros para cigarros, sem prejuízo da classificação que lhes competir de acordo com o texto da Pauta, quando importadas pelas empresas legalmente autorizadas a exercer a indústria de tabacos, estão sujeitas, respectivamente, às taxas de 7$35, 2$45 e 12$35, por quilograma, nos termos do disposto no artigo 2.º e respectivo § 1.º do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957.
 
-###### Art. 39.º Os pulverizadores ou outros aparelhos de algibeira, carregados ou não, sem prejuízo da classificação que lhes competir de acordo com o texto da Pauta, quando destinados a perfumar ou conservar frescos os tabacos manufacturados, estarão sujeitos à taxa de 7$35, por quilograma, nos termos do disposto no artigo 2.º, § 3.º, do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957.
+Art. 39.º Os pulverizadores ou outros aparelhos de algibeira, carregados ou não, sem prejuízo da classificação que lhes competir de acordo com o texto da Pauta, quando destinados a perfumar ou conservar frescos os tabacos manufacturados, estarão sujeitos à taxa de 7$35, por quilograma, nos termos do disposto no artigo 2.º, § 3.º, do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957.
 
-###### Art. 40.º O Ministro de Estado e das Finanças e do Plano, mediante parecer favorável do ministério da tutela, poderá autorizar que os cereais, em qualquer estado, destinados à alimentação de animais, sem prejuízo da classificação que lhes competir de acordo com o texto da Pauta, quando previamente desnaturados com azul-de-metileno, fiquem sujeitos às taxas de $16 e $08, respectivamente, nas pautas máxima e mínima.
+Art. 40.º O Ministro de Estado e das Finanças e do Plano, mediante parecer favorável do ministério da tutela, poderá autorizar que os cereais, em qualquer estado, destinados à alimentação de animais, sem prejuízo da classificação que lhes competir de acordo com o texto da Pauta, quando previamente desnaturados com azul-de-metileno, fiquem sujeitos às taxas de $16 e $08, respectivamente, nas pautas máxima e mínima.
 
-###### Art. 41.º Considera-se avaria, para os efeitos aduaneiros, o dano sofrido pelas mercadorias que haja diminuído o valor que tinham em bom estado e que ocorra depois de iniciada a viagem.
+Art. 41.º Considera-se avaria, para os efeitos aduaneiros, o dano sofrido pelas mercadorias que haja diminuído o valor que tinham em bom estado e que ocorra depois de iniciada a viagem.
 
-###### Art. 42.º - 1 - Às mercadorias avariadas é concedido abatimento nos direitos, proporcional à diferença entre o valor das mesmas mercadorias no acto do despacho e o seu valor em bom estado, sendo, porém, indispensável, para se conceder tal abatimento, que a avaria exceda 25% do valor da mercadoria antes de avariada.
+Art. 42.º - 1 - Às mercadorias avariadas é concedido abatimento nos direitos, proporcional à diferença entre o valor das mesmas mercadorias no acto do despacho e o seu valor em bom estado, sendo, porém, indispensável, para se conceder tal abatimento, que a avaria exceda 25% do valor da mercadoria antes de avariada.
 
 2 - Não é concedido abatimento de direitos, sob pretexto de avarias, aos produtos alimentares, medicamentos ou substâncias medicinais.
 
-###### Art. 43.º - 1 - A percentagem da avaria é reconhecida por 2 árbitros, um dos quais, funcionário aduaneiro, nomeado pelo chefe da respectiva casa fiscal e o outro pelo importador.
+Art. 43.º - 1 - A percentagem da avaria é reconhecida por 2 árbitros, um dos quais, funcionário aduaneiro, nomeado pelo chefe da respectiva casa fiscal e o outro pelo importador.
 
 2 - Os 2 árbitros, quando não concordem no julgamento, escolhem terceiro, para desempate, devendo este pronunciar-se por uma das soluções que lhe forem presentes.
 
 3 - Quando os 2 primeiros não concordem na escolha, a nomeação do terceiro árbitro é feita pelo chefe da respectiva casa fiscal.
 
-###### Art. 44.º - 1 - Aos donos das mercadorias avariadas é concedido, antes ou depois da arbitragem, separar a parte boa, despachá-la para consumo ou utilização produtiva e reexportar ou abandonar o resto.
+Art. 44.º - 1 - Aos donos das mercadorias avariadas é concedido, antes ou depois da arbitragem, separar a parte boa, despachá-la para consumo ou utilização produtiva e reexportar ou abandonar o resto.
 
 2 - No caso de reexportação, quando se trate de produtos alimentares, medicamentos ou substâncias medicinais a alfândega deve comunicar o facto ao cônsul de Portugal na localidade do destino, para que seja prevenida a alfândega local, ou, se for caso disso, à competente autoridade administrativa de Macau.
 
@@ -336,7 +394,7 @@ b) Até se ultimar a importação, o importador deve sucessivamente depositar os
 
 4 - Sempre que o verificador encontre deterioração em produtos alimentares, medicamentos ou substâncias medicinais, deve requerer inspecção da autoridade sanitária, procedendo-se em seguida conforme for decidido pela mesma autoridade.
 
-###### Art. 45.º Quando se trate de produtos alimentares avariados, impróprios para consumo humano, pode o importador submetê-los a despacho, nas condições seguintes, sem prejuízo da classificação que lhes competir de acordo com o texto da Pauta:
+Art. 45.º Quando se trate de produtos alimentares avariados, impróprios para consumo humano, pode o importador submetê-los a despacho, nas condições seguintes, sem prejuízo da classificação que lhes competir de acordo com o texto da Pauta:
 
 a) Se a mercadoria é susceptível de ser empregada unicamente na alimentação de animais, depois de devidamente beneficiada ou misturada com outras, sobre ela incidem as taxas de $16 e $08, por quilograma, respectivamente, nas pautas máxima e mínima;
 
@@ -344,7 +402,7 @@ b) Se a mercadoria puder ser industrialmente utilizada, depois de convenientemen
 
 c) Se a mercadoria não é susceptível de beneficiação que a torne própria para alimentação de animais nem utilizável para fins industriais, sobre ela incidem as taxas de 3,6% e 1,8%, ad valorem, respectivamente, nas pautas máxima e mínima.
 
-###### Art. 46.º - 1 - São isentos do pagamento de direitos de importação:
+Art. 46.º - 1 - São isentos do pagamento de direitos de importação:
 
 a) As bandeiras, selos, escudos e impressos de serviço e material de expediente, incluindo o mobiliário de secretaria, com destino aos cônsules acreditados no País, no caso de reciprocidade;
 
@@ -396,9 +454,9 @@ s) Todas as demais mercadorias isentas por outras disposições legais.
 
 4 - As mercadorias isentas de direitos também são isentas das taxas a cobrar pelas alfândegas para os diversos organismos.
 
-###### Art. 47.º Consideram-se aprestos de embarcações, para o efeito do artigo 46.º, somente os pertences de bordo indispensáveis à manobra e navegação, tais como mastros, velas, toda a enxárcia, etc., e bem assim os escaleres, peças e aparelhos de sinais e mais objectos que completarem os apetrechos da embarcação, para os fins designados. Outros quaisquer artefactos, aparelhos e máquinas que a bordo se encontrem guarnecendo o navio, mas que não se apliquem de modo exclusivo ou principal à manobra, navegação ou salvação de vidas e fazendas, ficam sujeitos aos direitos que lhes competirem quando importados para consumo.
+Art. 47.º Consideram-se aprestos de embarcações, para o efeito do artigo 46.º, somente os pertences de bordo indispensáveis à manobra e navegação, tais como mastros, velas, toda a enxárcia, etc., e bem assim os escaleres, peças e aparelhos de sinais e mais objectos que completarem os apetrechos da embarcação, para os fins designados. Outros quaisquer artefactos, aparelhos e máquinas que a bordo se encontrem guarnecendo o navio, mas que não se apliquem de modo exclusivo ou principal à manobra, navegação ou salvação de vidas e fazendas, ficam sujeitos aos direitos que lhes competirem quando importados para consumo.
 
-###### Art. 48.º - 1 - Considera-se bagagem, para o efeito da isenção de direitos de importação:
+Art. 48.º - 1 - Considera-se bagagem, para o efeito da isenção de direitos de importação:
 
 a) O vestuário e objectos de uso pessoal pertencentes a passageiros, tripulantes de embarcações ou de aviões e condutores de quaisquer meios de transporte, livros, ferramentas, instrumentos e utensílios portáteis próprios da profissão dos seus possuidores, e bem assim as máquinas fotográficas e os rolos de películas, em pequena quantidade, que acompanham os passageiros;
 
@@ -414,31 +472,31 @@ ii) Que apresentem certificado probatório, passado pelo cônsul de Portugal no 
 
 3 - Todos os objectos a que se referem as alíneas a) e b) do n.º 1 precedente devem ser em quantidade e qualidade proporcionadas às funções exercidas pelos seus possuidores.
 
-###### Art. 49.º O disposto no artigo anterior aplica-se também aos passageiros que, tendo-se ausentado do País, a ele regressem antes de decorrido o prazo de 1 ano, desde que não tenham habitação guarnecida no continente e regiões autónomas e comprovem que os móveis, roupas e mais objectos de uso doméstico, a importar com isenção de direitos, já lhes pertenciam anteriormente à sua saída do País.
+Art. 49.º O disposto no artigo anterior aplica-se também aos passageiros que, tendo-se ausentado do País, a ele regressem antes de decorrido o prazo de 1 ano, desde que não tenham habitação guarnecida no continente e regiões autónomas e comprovem que os móveis, roupas e mais objectos de uso doméstico, a importar com isenção de direitos, já lhes pertenciam anteriormente à sua saída do País.
 
-###### Art. 50.º Serão isentos de direitos sem as formalidades do artigo 48.º, desde que se apresentem com evidentes sinais de uso, as roupas e outros objectos de uso doméstico, em pequena quantidade e de diminuto valor, e os gramofones, gira-discos, aparelhos receptores de telefonia sem fios, aparelhos de registo de som e máquinas de escrever, portáteis, e discos pertencentes a passageiros.
+Art. 50.º Serão isentos de direitos sem as formalidades do artigo 48.º, desde que se apresentem com evidentes sinais de uso, as roupas e outros objectos de uso doméstico, em pequena quantidade e de diminuto valor, e os gramofones, gira-discos, aparelhos receptores de telefonia sem fios, aparelhos de registo de som e máquinas de escrever, portáteis, e discos pertencentes a passageiros.
 
-###### Art. 51.º - 1 - As bagagens chegadas ao continente e às regiões autónomas e pertencentes a funcionários civis e militares prestando serviço em Macau e aos quais depois da expedição das mesmas bagagens tenha sido determinada a demora nesse território serão desalfandegadas, quando se encontrem ao abrigo das disposições dos artigos 48.º e 53.º, desde que os seus representantes apresentem na alfândega por onde correr o despacho respectivo procuração bastante para tal fim e comprovem com documento autêntico, passado pelo respectivo ministério, o motivo da demora no regresso.
+Art. 51.º - 1 - As bagagens chegadas ao continente e às regiões autónomas e pertencentes a funcionários civis e militares prestando serviço em Macau e aos quais depois da expedição das mesmas bagagens tenha sido determinada a demora nesse território serão desalfandegadas, quando se encontrem ao abrigo das disposições dos artigos 48.º e 53.º, desde que os seus representantes apresentem na alfândega por onde correr o despacho respectivo procuração bastante para tal fim e comprovem com documento autêntico, passado pelo respectivo ministério, o motivo da demora no regresso.
 
 2 - No regresso dos funcionários nas condições deste artigo, não serão concedidos os benefícios dos artigos 48.º e 53.º aos objectos que constituam recheio de habitação quando já deles se tenham aproveitado.
 
-###### Art. 52.º Não são aplicáveis em caso algum as disposições da alínea a) do n.º 1 do artigo 48.º a indivíduos que transitem com frequência pela raia, não se aplicando igualmente as da alínea b) do mesmo número a estabelecimentos de qualquer ordem existentes ou que venham a fundar-se em Portugal.
+Art. 52.º Não são aplicáveis em caso algum as disposições da alínea a) do n.º 1 do artigo 48.º a indivíduos que transitem com frequência pela raia, não se aplicando igualmente as da alínea b) do mesmo número a estabelecimentos de qualquer ordem existentes ou que venham a fundar-se em Portugal.
 
-###### Art. 53.º Tratando-se de funcionários do Estado que não estejam nas condições da parte final da subalínea ii) da alínea b) do n.º 1 do artigo 48.º, quanto ao prazo, ainda lhes é aplicável a isenção de direitos para os objectos designados na mesma alínea quando seja presente à alfândega certificado da autoridade administrativa portuguesa ou do ministério a que pertençam, conforme as circunstâncias, provando que o regresso foi determinado por motivo de serviço do Estado, entendendo-se que esta disposição não dispensa o preceituado na mesma alínea, na parte aplicável.
+Art. 53.º Tratando-se de funcionários do Estado que não estejam nas condições da parte final da subalínea ii) da alínea b) do n.º 1 do artigo 48.º, quanto ao prazo, ainda lhes é aplicável a isenção de direitos para os objectos designados na mesma alínea quando seja presente à alfândega certificado da autoridade administrativa portuguesa ou do ministério a que pertençam, conforme as circunstâncias, provando que o regresso foi determinado por motivo de serviço do Estado, entendendo-se que esta disposição não dispensa o preceituado na mesma alínea, na parte aplicável.
 
-###### Art. 54.º Quando se trate de primeira instalação de funcionários das missões diplomáticas acreditadas no País e dos cônsules estrangeiros, os respectivos móveis, roupas e outros objectos de uso doméstico são considerados bagagem, nos termos da alínea b) do n.º 1 do artigo 48.º, independentemente das formalidades preceituadas na subalínea ii) da alínea b) do mesmo número, nos termos do [Decreto n.º 17224](https://diariodarepublica.pt/dr/detalhe/decreto/17224-1929-293676), de 14 de Agosto de 1929.
+Art. 54.º Quando se trate de primeira instalação de funcionários das missões diplomáticas acreditadas no País e dos cônsules estrangeiros, os respectivos móveis, roupas e outros objectos de uso doméstico são considerados bagagem, nos termos da alínea b) do n.º 1 do artigo 48.º, independentemente das formalidades preceituadas na subalínea ii) da alínea b) do mesmo número, nos termos do [Decreto n.º 17224](https://diariodarepublica.pt/dr/detalhe/decreto/17224-1929-293676), de 14 de Agosto de 1929.
 
-###### Art. 55.º Não se consideram bagagem, para os efeitos do artigo 48.º, os veículos de qualquer natureza, com excepção de carrinhos para criança, cadeiras para passageiros enfermos e bicicletas sem motor, com evidentes sinais de uso.
+Art. 55.º Não se consideram bagagem, para os efeitos do artigo 48.º, os veículos de qualquer natureza, com excepção de carrinhos para criança, cadeiras para passageiros enfermos e bicicletas sem motor, com evidentes sinais de uso.
 
-###### Art. 56.º - 1 - O prazo durante o qual é permitida a entrada livre de direitos das bagagens que não acompanhem os passageiros é de 90 dias, quer estes cheguem antes, quer depois das mesmas bagagens.
+Art. 56.º - 1 - O prazo durante o qual é permitida a entrada livre de direitos das bagagens que não acompanhem os passageiros é de 90 dias, quer estes cheguem antes, quer depois das mesmas bagagens.
 
 2 - Em casos excepcionais, pode esse prazo ser prorrogado pela Direcção-Geral das Alfândegas, quando se trate de objectos, mobília ou roupa de uso doméstico, e pelas direcções das alfândegas nos outros casos.
 
-###### Art. 57.º - 1 - As mercadorias demoradas além dos prazos legais, os objectos arrojados pelo mar e os achados no mar e as mercadorias salvas de naufrágio, quando vendidos em hasta pública, são isentos de direitos para o comprador.
+Art. 57.º - 1 - As mercadorias demoradas além dos prazos legais, os objectos arrojados pelo mar e os achados no mar e as mercadorias salvas de naufrágio, quando vendidos em hasta pública, são isentos de direitos para o comprador.
 
 2 - Os direitos de tais mercadorias devem ser deduzidos do produto da venda, conforme a legislação especial.
 
-###### Art. 58.º - 1 - É permitida a importação temporária de:
+Art. 58.º - 1 - É permitida a importação temporária de:
 
 a) Mercadorias estrangeiras ou originárias de Macau que venham a exposições ou concursos no continente ou nas regiões autónomas;
 
@@ -488,7 +546,7 @@ x) Quaisquer outras mercadorias cuja importação temporária seja regulada por 
 
 3 - O Ministro de Estado e das Finanças e do Plano poderá, em casos excepcionais e devidamente justificados, autorizar a importação temporária de mercadorias não designadas neste artigo.
 
-###### Art. 59.º - 1 - As mercadorias importadas temporariamente devem ser reexportadas para Macau ou para o estrangeiro, em regra, no prazo de 6 meses, contado a partir da data em que o importador recebe a mercadoria, podendo esse prazo, em caso de força maior, devidamente comprovado, ser ampliado nos termos destas Instruções Preliminares.
+Art. 59.º - 1 - As mercadorias importadas temporariamente devem ser reexportadas para Macau ou para o estrangeiro, em regra, no prazo de 6 meses, contado a partir da data em que o importador recebe a mercadoria, podendo esse prazo, em caso de força maior, devidamente comprovado, ser ampliado nos termos destas Instruções Preliminares.
 
 2 - O prazo indicado neste artigo é reduzido a 3 meses para as mercadorias mencionadas nas alíneas e), q) e t) do n.º 1 do artigo antecedente.
 
@@ -506,17 +564,17 @@ x) Quaisquer outras mercadorias cuja importação temporária seja regulada por 
 
 9 - O prazo para os barris de carvalho destinados a acondicionar, na exportação, azeitona é de 1 ano.
 
-###### Art. 60.º - 1 - A concessão de prorrogação de prazo para reexportação de mercadorias importadas temporariamente é da competência da Direcção-Geral das Alfândegas e nenhuma pode ser dada se não for requerida antes de findo o prazo de reexportação.
+Art. 60.º - 1 - A concessão de prorrogação de prazo para reexportação de mercadorias importadas temporariamente é da competência da Direcção-Geral das Alfândegas e nenhuma pode ser dada se não for requerida antes de findo o prazo de reexportação.
 
 2 - Compete, porém, aos directores das alfândegas conceder as prorrogações de prazo a que se refere o n.º 3 do artigo 59.º e ainda a prorrogação até 60 dias para todas as mercadorias, com excepção de automóveis e das designadas nas alíneas e), m) a p), r), t) e u) do artigo 58.º
 
-###### Art. 61.º - 1 - Quando qualquer requerimento pedindo prorrogação de prazo para reexportar mercadorias importadas temporariamente, feito dentro do prazo legal da importação temporária, não tenha merecido deferimento, deverão as aludidas mercadorias ser reexportadas no prazo de 20 dias, a contar da data do recebimento nas alfândegas da respectiva notificação, sem prejuízo dos prazos estabelecidos no artigo 59.º e dos fixados por diploma especial.
+Art. 61.º - 1 - Quando qualquer requerimento pedindo prorrogação de prazo para reexportar mercadorias importadas temporariamente, feito dentro do prazo legal da importação temporária, não tenha merecido deferimento, deverão as aludidas mercadorias ser reexportadas no prazo de 20 dias, a contar da data do recebimento nas alfândegas da respectiva notificação, sem prejuízo dos prazos estabelecidos no artigo 59.º e dos fixados por diploma especial.
 
 2 - Não se compreendem na doutrina estabelecida neste artigo a cascaria e demais embalagens exteriores que ficam sujeitas ao imediato pagamento de direitos, desde que se tenham esgotado os prazos das prorrogações concedidas.
 
-###### Art. 62.º Será considerada como transgressão dos regulamentos fiscais a introdução no continente e regiões autónomas, por caixeiros-viajantes, de relógios e objectos de metais preciosos, importados temporariamente, quando não tenham sido contrastados.
+Art. 62.º Será considerada como transgressão dos regulamentos fiscais a introdução no continente e regiões autónomas, por caixeiros-viajantes, de relógios e objectos de metais preciosos, importados temporariamente, quando não tenham sido contrastados.
 
-###### Art. 63.º - 1 - É permitida a reimportação, sem pagamento de direitos, de:
+Art. 63.º - 1 - É permitida a reimportação, sem pagamento de direitos, de:
 
 a) Obras e publicações literárias, científicas e didácticas impressas no País e devidamente registadas e publicações oficiais;
 
@@ -536,7 +594,7 @@ g) Amostras de vinho do Porto ou de vinho da Madeira devolvidas às firmas expor
 
 3 - A livre reimportação, nos termos deste artigo, será concedida pelas alfândegas apenas quanto às alíneas a), b) e d) a g) do n.º 1 antecedente.
 
-###### Art. 64.º - 1 - A reimportação com isenção de direitos deverá realizar-se, em regra, no prazo de 1 ano, o qual só poderá ser prorrogado, pela Direcção-Geral das Alfândegas, em caso de força maior, devidamente comprovado.
+Art. 64.º - 1 - A reimportação com isenção de direitos deverá realizar-se, em regra, no prazo de 1 ano, o qual só poderá ser prorrogado, pela Direcção-Geral das Alfândegas, em caso de força maior, devidamente comprovado.
 
 2 - Exceptuam-se do disposto neste artigo:
 
@@ -544,9 +602,9 @@ a) As mercadorias mencionadas na alínea a) do n.º 1 do artigo 63.º, que podem
 
 b) As fitas cinematográficas procedentes de Macau, que poderão ser reimportadas dentro do prazo de 2 anos.
 
-###### Art. 65.º Tem regime especial na reimportação o vasilhame armado que tenha servido de embalagem, na exportação para o estrangeiro ou para Macau, de vinhos licorosos, que fica sujeito ao pagamento das taxas estabelecidas no [Decreto n.º 16154](https://diariodarepublica.pt/dr/detalhe/decreto/16154-1928-604422), de 21 de Novembro de 1928, nos termos dos Decretos-Leis n.os 27250, de 24 de Novembro de 1936, e 36029 de 12 de Dezembro de 1946.
+Art. 65.º Tem regime especial na reimportação o vasilhame armado que tenha servido de embalagem, na exportação para o estrangeiro ou para Macau, de vinhos licorosos, que fica sujeito ao pagamento das taxas estabelecidas no [Decreto n.º 16154](https://diariodarepublica.pt/dr/detalhe/decreto/16154-1928-604422), de 21 de Novembro de 1928, nos termos dos Decretos-Leis n.os 27250, de 24 de Novembro de 1936, e 36029 de 12 de Dezembro de 1946.
 
-###### Art. 66.º - 1 - As mercadorias a que se refere a alínea c) do n.º 1 do artigo 68.º, quando reimportadas, ficam sujeitas à taxa de 10% ad valorem, que incide sobre a mais-valia adquirida em virtude da operação sofrida no estrangeiro, mais-valia essa representada pela diferença entre o valor das mercadorias reimportadas e o das exportadas temporariamente.
+Art. 66.º - 1 - As mercadorias a que se refere a alínea c) do n.º 1 do artigo 68.º, quando reimportadas, ficam sujeitas à taxa de 10% ad valorem, que incide sobre a mais-valia adquirida em virtude da operação sofrida no estrangeiro, mais-valia essa representada pela diferença entre o valor das mercadorias reimportadas e o das exportadas temporariamente.
 
 2 - Exceptuam-se da aplicação da taxa referida no n.º 1 precedente os casos em que pelos interessados seja produzida prova de que:
 
@@ -558,7 +616,7 @@ c) Não foi incorporado qualquer produto.
 
 Exportação
 
-###### Art. 67.º Estão sujeitas a regime especial de exportação:
+Art. 67.º Estão sujeitas a regime especial de exportação:
 
 a) As mercadorias que beneficiem do regime de draubaque;
 
@@ -566,7 +624,7 @@ b) As mercadorias para cujo despacho seja de exigir, nos termos legais, a aprese
 
 c) Quaisquer outras mercadorias cuja exportação seja regulada por outras disposições legais.
 
-###### Art. 68.º - 1 - É permitida a exportação temporária de:
+Art. 68.º - 1 - É permitida a exportação temporária de:
 
 a) Objectos que vão a concursos ou exposições;
 
@@ -606,4 +664,4 @@ q) Quaisquer outras mercadorias cuja exportação temporária seja regulada por 
 
 Reexportação, baldeação e trânsito
 
-###### Art. 69.º São livres de direitos as mercadorias reexportadas, baldeadas e em trânsito.
+Art. 69.º São livres de direitos as mercadorias reexportadas, baldeadas e em trânsito.

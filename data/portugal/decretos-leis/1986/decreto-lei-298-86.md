@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1986-222016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aeaa33e6efa7d6e5600fd40a008fb9fe5ca9593f6c12ffb9e09dc6bdc6aad26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee4094546fba831abb8cabcc466c65799c3174f9d74ca2bee085d699d6daf685
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Educador de Infância
+- Ensino Primário
+- Escola Superior de Educação
+- Formação Profissional
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:643716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311039:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:10Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +114,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo Único. O artigo 10.º do [Decreto-Lei n.º 59/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1986-196876), de 21 de Março, passa a ter a seguinte redacção:
+Artigo Único. O artigo 10.º do [Decreto-Lei n.º 59/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1986-196876), de 21 de Março, passa a ter a seguinte redacção:
 
-###### Art. 10.º - 1 - O disposto no presente diploma aplica-se aos cursos a ministrar a partir do ano lectivo de 1986-1987 pela Escola Superior de Educação do Instituto Politécnico de Viseu.
+Art. 10.º - 1 - O disposto no presente diploma aplica-se aos cursos a ministrar a partir do ano lectivo de 1986-1987 pela Escola Superior de Educação do Instituto Politécnico de Viseu.
 
 2 - Os cursos actualmente ministrados pelo estabelecimento de ensino a que se refere o n.º 1, criados pelo [Decreto do Governo n.º 12/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/12-1983-311039), de 16 de Fevereiro, e regulados pela [Portaria n.º 250/83](https://diariodarepublica.pt/dr/detalhe/portaria/250-1983-309752), de 4 de Março, serão adaptados tendo em vista a satisfação genérica dos objectivos definidos no presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

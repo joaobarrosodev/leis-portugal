@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28700/37253726.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d36af75f18589f81e24c5f39bfed5f847146a9a08a828ef6e3664e10174a0c0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c92d2766e14e0ae8e9306c0ba324d9e43b7fae6a2f8a7c6b4815c0465d017396
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armador
+- Marinha Mercante
+- Setor Privado
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:485060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:565220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679984:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485060:por
+  label: "Revogado pelo DEC LEI.196/98.1998.07.10.MEPAT, DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1998-485060
+  date: '1998-07-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:10Z'
   warnings: []
   errors: []
 ---
@@ -108,19 +129,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º - 1 - A indústria de transportes marítimos tem por fim a exploração de navios de comércio em transportes por mar, de mercadorias e passageiros, e só pode ser exercida por sociedades que observem os requisitos definidos no presente diploma.
+Artigo 1.º - 1 - A indústria de transportes marítimos tem por fim a exploração de navios de comércio em transportes por mar, de mercadorias e passageiros, e só pode ser exercida por sociedades que observem os requisitos definidos no presente diploma.
 
 2 - O exercício da indústria a que este diploma se refere abrange, necessariamente, o armamento e consequente exploração directa de navios próprios e compreende também o fretamento e afretamento de navios e, bem assim, a compra e venda de navios.
 
-###### Art. 2.º - 1 - O exercício da indústria de transportes marítimos depende de inscrição, como armador, na Direcção-Geral da Marinha de Comércio, a requerimento da sociedade interessada.
+Art. 2.º - 1 - O exercício da indústria de transportes marítimos depende de inscrição, como armador, na Direcção-Geral da Marinha de Comércio, a requerimento da sociedade interessada.
 
 2 - O disposto no número anterior não prejudica as competências dos governos regionais relativamente à promoção da inscrição de sociedades que pretendam exercer a indústria de transportes marítimos limitada ao tráfego entre portos de cada uma das regiões autónomas.
 
-###### Art. 3.º O disposto no presente diploma não se aplica à exploração de navios de comércio registados no tráfego local.
+Art. 3.º O disposto no presente diploma não se aplica à exploração de navios de comércio registados no tráfego local.
 
 ### CAPÍTULO II — Da inscrição
 
-###### Art. 4.º - 1 - A inscrição para o exercício da indústria de transportes marítimos depende exclusivamente da verificação dos requisitos a seguir indicados, a preencher pela sociedade requerente:
+Art. 4.º - 1 - A inscrição para o exercício da indústria de transportes marítimos depende exclusivamente da verificação dos requisitos a seguir indicados, a preencher pela sociedade requerente:
 
 a) O exercício daquela indústria deve constituir o seu objecto social exclusivo;
 
@@ -130,7 +151,7 @@ c) A requerente deve possuir frota própria que integre, pelo menos, um navio op
 
 2 - Considera-se navio operacional o que mantenha válidos os certificados de classificação e segurança e os demais requeridos pelas autoridades competentes.
 
-###### Art. 5.º - 1 - O requerimento a solicitar a inscrição como armador deve identificar a sociedade requerente e ser instruído com os seguintes documentos:
+Art. 5.º - 1 - O requerimento a solicitar a inscrição como armador deve identificar a sociedade requerente e ser instruído com os seguintes documentos:
 
 a) Certidão de escritura de constituição da sociedade, de que constem os respectivos estatutos, e da escritura de alteração dos estatutos, se se tiver entretanto realizado;
 
@@ -144,15 +165,15 @@ d) Cópias autenticadas dos documentos necessários à prova de que a sociedade 
 
 3 - A sociedade requerente pode apresentar inicialmente apenas os documentos previstos nas alíneas a), b) e c) do n.º 1, e, se os mesmos fizerem prova do preenchimento dos requisitos referidos nas alíneas a) e b) do n.º 1 do artigo 4.º, a Direcção-Geral da Marinha de Comércio deve informá-la de que a inscrição se efectuará automaticamente logo que sejam apresentados os documentos comprovativos da disponibilidade de frota própria.
 
-###### Art. 6.º Além dos demais requisitos exigidos para o exercício da indústria de transportes marítimos, os armadores devem manter em efectiva actividade pelo menos um navio que reúna as condições previstas na alínea c) do n.º 1 do artigo 4.º, sem prejuízo das paralisações para reparação.
+Art. 6.º Além dos demais requisitos exigidos para o exercício da indústria de transportes marítimos, os armadores devem manter em efectiva actividade pelo menos um navio que reúna as condições previstas na alínea c) do n.º 1 do artigo 4.º, sem prejuízo das paralisações para reparação.
 
-###### Art. 7.º - 1 - Os armadores que deixem de preencher os requisitos previstos neste diploma devem regularizar a sua situação no prazo de 180 dias, sob pena de serem canceladas as respectivos inscrições.
+Art. 7.º - 1 - Os armadores que deixem de preencher os requisitos previstos neste diploma devem regularizar a sua situação no prazo de 180 dias, sob pena de serem canceladas as respectivos inscrições.
 
 2 - O cancelamento previsto no número anterior é da competência da Direcção-Geral da Marinha de Comércio, a qual deve ouvir, para o efeito, o armador visado.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 8.º - 1 - Os actuais armadores cujo capital social seja inferior ao montante mínimo aplicável, referido na alínea b) do n.º 1 do artigo 4.º, devem proceder ao seu aumento de modo a ser atingido esse montante.
+Art. 8.º - 1 - Os actuais armadores cujo capital social seja inferior ao montante mínimo aplicável, referido na alínea b) do n.º 1 do artigo 4.º, devem proceder ao seu aumento de modo a ser atingido esse montante.
 
 2 - O aumento previsto no número anterior pode efectuar-se por fases, nos seguintes termos:
 
@@ -160,7 +181,7 @@ a) No prazo de um ano a partir da data da entrada em vigor deste diploma, deve o
 
 b) No prazo de um ano a contar da data do aumento de capital referido na alínea anterior, deverá o capital social ser aumentado de modo a atingir o montante aplicável previsto na alínea b) do n.º 1 do artigo 4.º
 
-###### Art. 9.º - 1 - À Direcção-Geral da Marinha de Comércio compete acompanhar a actividade dos armadores, os quais devem fornecer os elementos por aquela solicitados com vista à execução do disposto neste diploma.
+Art. 9.º - 1 - À Direcção-Geral da Marinha de Comércio compete acompanhar a actividade dos armadores, os quais devem fornecer os elementos por aquela solicitados com vista à execução do disposto neste diploma.
 
 2 - Os armadores devem igualmente:
 
@@ -172,22 +193,22 @@ c) Colaborar com as entidades oficiais no cumprimento das normas internacionais 
 
 d) Promover, por iniciativa própria ou em colaboração com outras entidades, a formação profissional e a valorização dos seus quadros, tendo em vista manter no sector pessoal altamente qualificado, de acordo com as tradições marítimas do País.
 
-###### Art. 10.º - 1 - Considera-se armador nacional a sociedade que se dedique à indústria de transportes marítimos sediada e com administração principal em território português, com maioria portuguesa no capital e na gestão.
+Art. 10.º - 1 - Considera-se armador nacional a sociedade que se dedique à indústria de transportes marítimos sediada e com administração principal em território português, com maioria portuguesa no capital e na gestão.
 
 2 - O disposto no n.º 1 não deve colidir, na sua aplicação, com o disposto na ordem jurídica comunitária.
 
-###### Art. 11.º Considera-se frota própria nacional de um armador a que é constituída por um ou mais navios de comércio que arvorem exclusivamente a Bandeira Portuguesa, dos quais aquele seja proprietário ou afretador em casco nu com opção de compra.
+Art. 11.º Considera-se frota própria nacional de um armador a que é constituída por um ou mais navios de comércio que arvorem exclusivamente a Bandeira Portuguesa, dos quais aquele seja proprietário ou afretador em casco nu com opção de compra.
 
-###### Art. 12.º Pelo presente diploma são revogados os capítulos I e II do [Decreto-Lei n.º 543/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1971-632019), de 6 de Dezembro, o [Decreto-Lei n.º 259/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1981-565220), de 1 de Setembro, e o [Decreto-Lei n.º 135/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1972-679984), de 28 de Abril, com excepção do seu capítulo V.
+Art. 12.º Pelo presente diploma são revogados os capítulos I e II do [Decreto-Lei n.º 543/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1971-632019), de 6 de Dezembro, o [Decreto-Lei n.º 259/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1981-565220), de 1 de Setembro, e o [Decreto-Lei n.º 135/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1972-679984), de 28 de Abril, com excepção do seu capítulo V.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1986. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Novembro de 1986.**
+Promulgado em 26 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Dezembro de 1986.**
+Referendado em 2 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

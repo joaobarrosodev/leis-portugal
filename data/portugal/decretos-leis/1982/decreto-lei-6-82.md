@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/00900/00420054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4848b84d411a7201f442ae6f8087f78a46091204838af925708ef4bfca4b2165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 093a15341ae69bdb0034e0d3e1c0e6dde642b56e6735402be228460ebc8a6236
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
+- Ensino de Condução
+- Escola de Condução
+- Instrutor de Condução
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:209017:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375664:por
+  label: "Alterados os n.ºs 2 e 4 do art. 2.º, os arts. 4.º e 5.º, o n.º 2 do art. 16.º, o art. 18.º, o n.º 1 do art. 37.º,\
+    \ o n.º 1 do art. 41.º e os arts. 57.º, 59.º [nova redacção revogando os n.ºs 2 a 7 do art. 51.º e art. 53.º e determinando\
+    \ a manutenção em vigor ,até 01.01.1983, do n.º 1 do art. 51.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai\
+    \ 1954] e 60.º [alterada a entrada em vigor] do presente diploma, pelo DEC LEI.376/82.13.09.1982.MHOPT, DR.IS [212] de\
+    \ 13.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1982-375664
+  date: '1982-09-13'
+- type: amended_by
+  target: pt:dre:200005:por
+  label: "Transferidas as competências para o Ministro da Administração Interna as competências atribuídas no presente diploma\
+    \ ao Ministro das Obras Públicas, Transportes e Comunicações, pelo DEC LEI.56/92.13.04.1992.MOPTC, DR.IS-A [87] de 13.04.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1992-200005
+  date: '1992-04-13'
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterado o art. 53.º Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, já revogado pelo presente diploma,\
+    \ pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
+- type: amended_by
+  target: pt:dre:265545:por
+  label: "Alterado o art. 20º, pelo DEC LEI.137/94.1994.05.23.MAI, DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1994-265545
+  date: '1994-05-23'
+- type: amended_by
+  target: pt:dre:484430:por
+  label: "Convertidas em contra-ordenação, as infracções qualificadas como contravenções no presente diploma, pelo DEC LEI.199/95.31.07.1995.MAI,\
+    \ DR.IS-A [175] de 31.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1995-484430
+  date: '1995-07-31'
+- type: cites
+  target: pt:dre:286512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546823:por
+  label: "Revogado o n.º 4 do artigo 5.º, na redacção dada pelo Decreto-Lei n.º 376/82, de 13 de Setembro, pelo DEC LEI.155/85.09.05.1985.MES,\
+    \ DR.IS [106]Supl de 09.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1985-546823
+  date: '1985-05-09'
+- type: repealed_by
+  target: pt:dre:209017:por
+  label: "Revogado pelo DEC LEI.86/98.1998.04.03.MAI, DR.IS-A [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1998-209017
+  date: '1998-04-03'
 article_structure:
   article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:26Z'
   warnings: []
   errors: []
 ---
@@ -890,8 +959,8 @@ O disposto no presente diploma entra em vigor 6 meses após a data da sua public
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Dezembro de 1981.**
+Promulgado em 30 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

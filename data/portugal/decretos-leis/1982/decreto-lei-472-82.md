@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28900/41204121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1982-379110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa088ccf4b9f7712f84a9bbc34dcb59b4a3af3b365a19cd73a214dd03d97523f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3449307f46faa53ff6a5f43ada9c81206ff8fa4a9d88602340ec0e69b6cddea7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Isenção Fiscal
+- RTP
+- TAXA de Televisão
+- Televisão
 relationships:
 - type: amended_by
   target: pt:dre:283083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:369786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474689:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283083:por
+  label: Revogado pelo(a) Decreto-Lei n.º 38/88 - Diário da República n.º 31/1988, Série I de 1988-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1988-283083
+  date: '1988-02-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:52Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +122,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 13.º do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 13.º do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, passa a ter a seguinte redacção:
 
 ###### ARTIGO 13.º — (Isenções)
 
@@ -163,12 +180,12 @@ b) Declaração do próprio, sob compromisso de honra, e na qual se comprovem os
 
 13 - As isenções previstas neste artigo não prejudicam a obrigatoriedade do registo, fixada no artigo 3.º do presente diploma.
 
-###### Art. 2.º Fica revogado o [Decreto-Lei n.º 171/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1980-474689), de 29 de Maio.
+Art. 2.º Fica revogado o [Decreto-Lei n.º 171/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1980-474689), de 29 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 2 de Dezembro de 1982.**
+Promulgado em 2 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

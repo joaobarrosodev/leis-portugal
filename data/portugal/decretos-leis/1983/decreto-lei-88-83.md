@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03600/04540455.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1983-310858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c67084d188ba2f390e02d078af97f3378b43245857983ebd34cdde42b3d9cb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd5697fe37cf0ddee6ca854048204bf934faabe5b423e35390e7cbdcbc62c74c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete da Área de Sines
+- Saneamento Básico
+- Trabalho por Turnos
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:55Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +118,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Trabalho por turnos
 
-###### Artigo 1.º Nas estações elevatórias de água e de efluentes líquidos e nas estações de tratamento dos mesmos da área de saneamento básico do GAS é estabelecido um regime de trabalho por turnos rotativos em laboração contínua.
+Artigo 1.º Nas estações elevatórias de água e de efluentes líquidos e nas estações de tratamento dos mesmos da área de saneamento básico do GAS é estabelecido um regime de trabalho por turnos rotativos em laboração contínua.
 
-###### Art. 2.º - 1 - A duração do trabalho do pessoal que labore em regime de turnos será de 36 horas semanais.
+Art. 2.º - 1 - A duração do trabalho do pessoal que labore em regime de turnos será de 36 horas semanais.
 
 2 - Os trabalhadores em regime de turnos terão direito a uma interrupção de 1 hora para refeição, de forma a não prestarem mais de 5 horas consecutivas de trabalho.
 
@@ -122,7 +138,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 9 - O funcionário ou agente poderá, no entanto, ser dispensado de prestar tal trabalho quando, invocando motivos atendíveis, expressamente o solicite.
 
-###### Art. 3.º - 1 - O trabalhador em regime de turnos será remunerado com um acréscimo de 25% sobre a remuneração base mensal.
+Art. 3.º - 1 - O trabalhador em regime de turnos será remunerado com um acréscimo de 25% sobre a remuneração base mensal.
 
 2 - O subsídio de turno referido no número anterior é apenas devido ao pessoal que efectivamente desempenhar as respectivas tarefas nas áreas das estações elevatórias e de tratamento de águas e de efluentes líquidos.
 
@@ -132,13 +148,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Só haverá lugar ao pagamento de subsídio de turno quando for devido o vencimento de exercício.
 
-###### Art. 4.º Os limites fixados pelo n.º 1 do artigo 12.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, não são aplicáveis aos funcionários e agentes do GAS que prestem serviço em regime de turnos, nos termos do presente diploma.
+Art. 4.º Os limites fixados pelo n.º 1 do artigo 12.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, não são aplicáveis aos funcionários e agentes do GAS que prestem serviço em regime de turnos, nos termos do presente diploma.
 
 ### CAPÍTULO II — Regime de prevenção
 
-###### Art. 5.º Sempre que tal se justifique, o conselho de gestão do GAS poderá autorizar, mediante despacho, a constituição de piquetes de prevenção nos sectores de manutenção e conservação na área de saneamento básico, com a finalidade de assegurar o seu regular funcionamento.
+Art. 5.º Sempre que tal se justifique, o conselho de gestão do GAS poderá autorizar, mediante despacho, a constituição de piquetes de prevenção nos sectores de manutenção e conservação na área de saneamento básico, com a finalidade de assegurar o seu regular funcionamento.
 
-###### Art. 6.º - 1 - O regime de prevenção consiste na disponibilidade diurna e nocturna, incluindo sábados, domingos e feriados, do pessoal técnico, técnico-profissional e operário, de modo a poder acorrer às instalações em caso de necessidade. A disponibilidade traduzir-se-á na permanência do trabalhador em casa ou em local de fácil acesso, para efeito de convocação e comparência.
+Art. 6.º - 1 - O regime de prevenção consiste na disponibilidade diurna e nocturna, incluindo sábados, domingos e feriados, do pessoal técnico, técnico-profissional e operário, de modo a poder acorrer às instalações em caso de necessidade. A disponibilidade traduzir-se-á na permanência do trabalhador em casa ou em local de fácil acesso, para efeito de convocação e comparência.
 
 2 - A convocação deverá restringir-se às intervenções necessárias ao funcionamento e segurança das instalações ou impostas por situações que afectem o débito regular de água às indústrias e populações da área ou à bombagem e tratamento de efluentes líquidos que não possam esperar pela assistência durante o período normal de trabalho.
 
@@ -146,20 +162,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - É aplicável à prestação de serviço em regime de prevenção o disposto nos n.os 8 e 9 do artigo 2.º
 
-###### Art. 7.º - 1 - O pessoal técnico, técnico-profissional e operário em regime de prevenção tem direito a um subsídio correspondente ao acréscimo de 15% sobre a remuneração base mensal.
+Art. 7.º - 1 - O pessoal técnico, técnico-profissional e operário em regime de prevenção tem direito a um subsídio correspondente ao acréscimo de 15% sobre a remuneração base mensal.
 
 2 - É aplicável ao subsídio de prevenção o disposto nos n.os 4 e 5 do artigo 3.º
 
-###### Art. 8.º Sempre que haja lugar à intervenção em operações de manutenção ou reparação de equipamentos, o pessoal referido no artigo anterior terá ainda direito à remuneração por trabalho extraordinário, nocturno ou em dias de descanso e feriados, de acordo com os artigos 13.º, 17.º e 18.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, com as limitações impostas pelo artigo 12.º do citado diploma.
+Art. 8.º Sempre que haja lugar à intervenção em operações de manutenção ou reparação de equipamentos, o pessoal referido no artigo anterior terá ainda direito à remuneração por trabalho extraordinário, nocturno ou em dias de descanso e feriados, de acordo com os artigos 13.º, 17.º e 18.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, com as limitações impostas pelo artigo 12.º do citado diploma.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

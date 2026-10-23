@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 123/1986, 3º Suplemento, Série I de 1986-05-30
   number: '123'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1294-(7) a 1294-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/12303/00070010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-a-1986-194397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc7ebd00ab6e216ec58e1ed9fc2a9ab9109ef489557b0d7c7075776f466a6b09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9be87138db3df3b1ab8adce12539639e2ed19aa10bd7a97e8f10a1fd60089fbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Responsabilidade Civil Automóvel
+- Seguro
+- Seguro de Responsabilidade Civil Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:247448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627040:por
+  label: "Alterado o artigo 6.º do Decreto-Lei n.º 522/85, de 31 de Dezembro, com as alterações introduzidas no presente diploma,\
+    \ pelo DEC LEI.436/86.31.12.1986.MF, DR.IS [300]2ºSupl de 31.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1986-627040
+  date: '1986-12-31'
+- type: amended_by
+  target: pt:dre:406121:por
+  label: "Alterado o artigo 6.º do Decreto-Lei n.º 522/85, de 31 de Dezembro, com as alterações introduzidas no presente diploma,\
+    \ pelo DEC LEI.394/87.31.12.1987.MF, DR.IS [300]2ºSupl de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-1987-406121
+  date: '1987-12-31'
+- type: amended_by
+  target: pt:dre:550819:por
+  label: "Alterado o artigo 27.º do Decreto-Lei n.º 522/85, de 31 de Dezembro, com a redacção introduzida no presente diploma,\
+    \ pelo DEC LEI.415/89.30.11.1989.MF, DR.IS [276] de 30.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-1989-550819
+  date: '1989-11-30'
+- type: amended_by
+  target: pt:dre:262840:por
+  label: "Alterados os art.s 5º, 7º, 20º, 21º do Dec Lei 522/85, de 31-dez, na redação do presente diploma, pelo DEC LEI.130/94.1994.05.19.MF,\
+    \ DR.IS-A [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1994-262840
+  date: '1994-05-19'
+- type: amended_by
+  target: pt:dre:583976:por
+  label: "Alterado o art. 6º do Dec Lei 522/85 de 31-Dez, com a redacção dada pelo presente diploma, pelo DEC LEI.3/96.1996.01.25.MF,\
+    \ DR.IS-A [21]\0[21]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1996-583976
+  date: '1996-01-25'
+- type: amended_by
+  target: pt:dre:419386:por
+  label: "Alterado o Dec Lei 522/85, de 31-Dez, na redacção dada pelo presente diploma, pelo DEC LEI.368/97.1997.12.23.MF,\
+    \ DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1997-419386
+  date: '1997-12-23'
+- type: amended_by
+  target: pt:dre:240271:por
+  label: "Alterado o art. 20.º do Dec Lei 522/85, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.122/2005.29.07.2005.MJ,\
+    \ DR.IS-A [145] de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2005-240271
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:660327:por
+  label: "Alterado o art. 33º do Dec Lei 522/85 de 31-Dez, com a redacção do presente diploma, pelo DEC LEI.83/2006.03.05.2006.MEI,\
+    \ DR.IS-A [85] de 03.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2006-660327
+  date: '2006-05-03'
+- type: cites
+  target: pt:dre:399990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546457:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348113:por
+  label: Rectificado pela DECL.DD4619.05.08.1986.PCM, DR.IS [199]Supl de 30.08.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-348113
+  date: '1986-08-05'
+- type: repealed_by
+  target: pt:dre:640637:por
+  label: "Revogado, a partir de 20.10.2007, pelo DEC LEI.291/2007.21.08.2007.MFAP, DR.IS [160] de 21.08.2007(Ver notas)\0\
+    s)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-2007-640637
+  date: '2007-08-21'
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2008, o n.º 11 do art. 29º, na redacção do presente diploma, do Dec Lei 522/85, de 31-Dez,\
+    \ diploma já revogado na íntegra, desde 20.10.2007, pelo Dec Lei 291/2007, de 21-Ago, pelo DEC LEI.34/2008.26.02.2008.MJ,\
+    \ DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:53Z'
   warnings: []
   errors: []
 ---
@@ -306,12 +384,12 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 30 de Maio de 1986.**
+Promulgado em 30 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1986.**
+Referendado em 30 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

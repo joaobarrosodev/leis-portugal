@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1984-384422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cfdf6c24c751c6b6e12706eccedff217a84d2f95e54a9f83282122212075ea6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2e0b5aad202ab01e89878e77fb5fb58c30eea7fea354556a7fe3b4b2d8df542
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços de Apoio ao Tribunal Constitucional
+- Tribunal Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:633292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482162:por
+  label: "Alterado o art. 8º pelo DEC LEI.72-A/90.1990.03.03.MJ, DR.IS [52] SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-1990-482162
+  date: '1990-03-03'
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664729:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633292:por
+  label: "Revogadas as disposições ainda em vigor do Dec Lei 149-A/83 de 05-Abr DR.IS [78]2ºSUPL (com excepção do nº 3 do\
+    \ art. 27º do supracitado diploma, na redacção do presente diploma) pelo DEC LEI.545/99.1999.12.14.PCM, DR.IS-A [289]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/545-1999-633292
+  date: '1999-12-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:28Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +144,11 @@ Com as alterações que agora se fazem, conseguir-se-á a simplificação da est
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 5.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 17.º, 24.º e 27.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 5.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 17.º, 24.º e 27.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, passam a ter a seguinte redacção:
 
-###### Artigo 1.º A secretaria do Tribunal Constitucional compreende uma secção de expediente e contabilidade e secções de processos.
+Artigo 1.º A secretaria do Tribunal Constitucional compreende uma secção de expediente e contabilidade e secções de processos.
 
-###### Art. 2.º Compete à secção de expediente e contabilidade:
+Art. 2.º Compete à secção de expediente e contabilidade:
 
 a) Efectuar o registo dos requerimentos dirigidos à presidência e dos despachos proferidos pelo presidente;
 
@@ -127,7 +170,7 @@ i) Executar o expediente que não seja da competência das secções de processo
 
 j) Desempenhar quaisquer outras funções conferidas por lei.
 
-###### Art. 5.º Compete ao secretário do Tribunal Constitucional:
+Art. 5.º Compete ao secretário do Tribunal Constitucional:
 
 a) Dirigir a secretaria, sob a superintendência do presidente do Tribunal;
 
@@ -151,7 +194,7 @@ j) Apresentar ao magistrado do ministério público junto do Tribunal nota da di
 
 l) Desempenhar as demais funções conferidas por lei ou por determinação superior.
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - ...
 
@@ -159,7 +202,7 @@ l) Desempenhar as demais funções conferidas por lei ou por determinação supe
 
 4 - O provimento dos oficiais de justiça é sempre feito em comissão de serviço com a duração de 3 anos e considerar-se-á automaticamente renovada se, até 30 dias antes do seu termo, o presidente do Tribunal Constitucional ou o interessado não tiverem manifestada expressamente a intenção de a fazer cessar.
 
-###### Art. 10.º Os serviços de apoio compreendem:
+Art. 10.º Os serviços de apoio compreendem:
 
 a) O gabinete do presidente;
 
@@ -167,7 +210,7 @@ b) O gabinete dos juízes;
 
 c) O núcleo de apoio documental e informação jurídica.
 
-###### Art. 11.º - 1 - Compete ao gabinete do presidente e ao gabinete dos juízes coadjuvarem no exercício das suas funções, respectivamente, o presidente e os juízes do Tribunal Constitucional, desempenhando as tarefas que lhes sejam determinadas.
+Art. 11.º - 1 - Compete ao gabinete do presidente e ao gabinete dos juízes coadjuvarem no exercício das suas funções, respectivamente, o presidente e os juízes do Tribunal Constitucional, desempenhando as tarefas que lhes sejam determinadas.
 
 2 - Os membros do gabinete do presidente e do gabinete dos juízes são livremente providos e exonerados pelo presidente do Tribunal Constitucional, após prévia audição dos juízes interessados, no caso dos membros do gabinete dos juízes.
 
@@ -185,7 +228,7 @@ c) O núcleo de apoio documental e informação jurídica.
 
 9 - Os provimentos referidos no presente artigo não conferem, por si só, vínculo à função pública.
 
-###### Art. 12.º Compete ao núcleo de apoio documental e informação jurídica:
+Art. 12.º Compete ao núcleo de apoio documental e informação jurídica:
 
 a) Organizar a biblioteca e inventariar as publicações recebidas e adquiridas;
 
@@ -199,9 +242,9 @@ e) Promover a publicação dos acórdãos do Tribunal;
 
 f) Analisar e dar parecer sobre os problemas que na área da sua especialidade lhe sejam postos pelo presidente do Tribunal.
 
-###### Art. 13.º O núcleo de apoio documental e informação jurídica é coordenado pelo funcionário de maior categoria que existir dentro de carreira do pessoal técnico superior.
+Art. 13.º O núcleo de apoio documental e informação jurídica é coordenado pelo funcionário de maior categoria que existir dentro de carreira do pessoal técnico superior.
 
-###### Art. 14.º - 1 - Os lugares do quadro de pessoal do núcleo de apoio documental e informação jurídica e do pessoal operário e auxiliar são providos de acordo com o regime geral da função pública.
+Art. 14.º - 1 - Os lugares do quadro de pessoal do núcleo de apoio documental e informação jurídica e do pessoal operário e auxiliar são providos de acordo com o regime geral da função pública.
 
 2 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria.
 
@@ -209,13 +252,13 @@ f) Analisar e dar parecer sobre os problemas que na área da sua especialidade l
 
 4 - Os lugares de operador de reprografia de 3.ª classe serão providos de entre indivíduos habilitados com a escolaridade obrigatória, verificando-se a mudança de categoria após a permanência de 5 anos na categoria inferior com classificação de serviço não inferior a Bom.
 
-###### Art. 17.º - 1 - O regime das custas devidas pelas reclamações para o Tribunal Constitucional é o fixado na parte cível do Código das Custas Judiciais e no [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, ressalvadas as disposições deste diploma.
+Art. 17.º - 1 - O regime das custas devidas pelas reclamações para o Tribunal Constitucional é o fixado na parte cível do Código das Custas Judiciais e no [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, ressalvadas as disposições deste diploma.
 
 2 - Nas reclamações para o Tribunal Constitucional não há lugar a preparo.
 
-###### Art. 24.º O pessoal da secretaria e dos serviços de apoio e o pessoal operário e auxiliar têm direito ao uso de cartão de identidade, cujos modelos constam, respectivamente, dos anexos IV e V a este diploma.
+Art. 24.º O pessoal da secretaria e dos serviços de apoio e o pessoal operário e auxiliar têm direito ao uso de cartão de identidade, cujos modelos constam, respectivamente, dos anexos IV e V a este diploma.
 
-###### Art. 27.º - 1 - O pessoal que transitou para o quadro a que se reporta o artigo 15.º ao abrigo do artigo 110.º da Lei n.º 28/82, de 15 de Novembro, é provido definitivamente nos lugares do respectivo quadro, de acordo com as seguintes regras:
+Art. 27.º - 1 - O pessoal que transitou para o quadro a que se reporta o artigo 15.º ao abrigo do artigo 110.º da Lei n.º 28/82, de 15 de Novembro, é provido definitivamente nos lugares do respectivo quadro, de acordo com as seguintes regras:
 
 a) Em categoria idêntica à que o funcionário já possui;
 
@@ -225,11 +268,11 @@ b) Em categoria correspondente àquela que o funcionário ou agente actualmente 
 
 3 - A transição operada com base no presente artigo não confere direito ao ingresso no quadro de oficiais de justiça, a que se reporta o [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, relativamente aos funcionários que nele não se encontravam já integrados, revestindo quanto a eles o provimento a forma de nomeação definitiva.
 
-###### Art. 2.º O Tribunal Constitucional disporá de um conselho administrativo, constituído pelo presidente do Tribunal Constitucional, por 2 juízes por este designados após prévia audição do Tribunal, pelo secretário do Tribunal e pelo secretário judicial.
+Art. 2.º O Tribunal Constitucional disporá de um conselho administrativo, constituído pelo presidente do Tribunal Constitucional, por 2 juízes por este designados após prévia audição do Tribunal, pelo secretário do Tribunal e pelo secretário judicial.
 
-###### Art. 3.º São atribuições específicas do conselho administrativo a gestão financeira corrente do Tribunal Constitucional e a elaboração do projecto de orçamento e o respectivo relatório.
+Art. 3.º São atribuições específicas do conselho administrativo a gestão financeira corrente do Tribunal Constitucional e a elaboração do projecto de orçamento e o respectivo relatório.
 
-###### Art. 4.º No exercício das suas atribuições compete ao conselho administrativo:
+Art. 4.º No exercício das suas atribuições compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento, a submeter à aprovação do Tribunal Constitucional;
 
@@ -239,11 +282,11 @@ c) Organizar e submeter a julgamento do Tribunal de Contas a conta de gerência 
 
 d) Exercer as demais funções conferidas por lei.
 
-###### Art. 5.º - 1 - As despesas cujo montante ultrapasse a competência do conselho administrativo, bem como as que são referidas no artigo 22.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, serão autorizadas pelo Tribunal Constitucional.
+Art. 5.º - 1 - As despesas cujo montante ultrapasse a competência do conselho administrativo, bem como as que são referidas no artigo 22.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, serão autorizadas pelo Tribunal Constitucional.
 
 2 - Cabe ao Tribunal Constitucional, relativamente à execução do seu orçamento, a competência ministerial comum em matéria de administração financeira, nomeadamente a prevista no artigo 5.º, n.º 2, do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro.
 
-###### Art. 6.º - 1 - O presidente do Tribunal poderá autorizar:
+Art. 6.º - 1 - O presidente do Tribunal poderá autorizar:
 
 a) A celebração de contratos de pessoal além do quadro destinados a ocorrer a necessidades eventuais ou extraordinárias dos serviços;
 
@@ -255,38 +298,38 @@ c) A celebração de contratos de tarefa para a realização de trabalhos de car
 
 3 - O pessoal das carreiras técnicas e administrativas e o pessoal operário e auxiliar podem ser providos por transferência, nos termos da lei geral.
 
-###### Art. 7.º O pessoal das carreiras técnicas e administrativas e o pessoal operário e auxiliar que presta serviço no Tribunal Constitucional têm os mesmos direitos e regalias e estão sujeitos aos mesmos deveres que os estabelecidos para idêntico pessoal do Supremo Tribunal de Justiça.
+Art. 7.º O pessoal das carreiras técnicas e administrativas e o pessoal operário e auxiliar que presta serviço no Tribunal Constitucional têm os mesmos direitos e regalias e estão sujeitos aos mesmos deveres que os estabelecidos para idêntico pessoal do Supremo Tribunal de Justiça.
 
-###### Art. 8.º Os funcionários de justiça dos quadros a que se reporta o [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, podem ser requisitados para prestar serviço no Tribunal Constitucional, nos termos previstos naquele diploma.
+Art. 8.º Os funcionários de justiça dos quadros a que se reporta o [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, podem ser requisitados para prestar serviço no Tribunal Constitucional, nos termos previstos naquele diploma.
 
-###### Art. 9.º Os anexos I, II, IV e V ao [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, são substituídos pelos que acompanham o presente diploma.
+Art. 9.º Os anexos I, II, IV e V ao [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, são substituídos pelos que acompanham o presente diploma.
 
-###### Art. 10.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 11 de Maio de 1984.**
+Promulgado em 11 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Maio de 1984.**
+Referendado em 14 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — Mapa a que se refere o artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf)
 
 ## ANEXO II — Cartão de identificação a que se refere o artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf)
 
 ## ANEXO IV — Cartão de identificação a que se refere a 1.ª parte do artigo 24.º (oficiais de justiça)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf)
 
 ## ANEXO V — Cartão de identificação a que se refere a 2.ª parte do artigo 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12000/16701673.pdf)

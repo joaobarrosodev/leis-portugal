@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 43/1984, 1º Suplemento, Série I de 1984-02-20
   number: '43'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 564-(5) a 564-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/04301/00050008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-1984-667523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16db4637f54b43f7a5e2e1033a81b69a27c279fa8bf8d1385dceaecc69e2c056
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7c0c1b8cf9b9a7f2a602ca99355d0d843e3205eaefbd4040f18686a2713e609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA Civil
+- CASA Militar
+- Diuturnidades
+- Função Pública
+- Funcionário Público
+- Gabinete Governamental
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Preço de Sangue
+- Pensão de Reforma
+- Pensões
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681662:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300402:por
+  label: "Revogadas as disposições do presente diploma, pelo DEC LEI.40-A/85.11.02.1985.PCM, DR.IS [35]Supl de 11.02.1985,\
+    \ sem prejuízo do disposto no seu artigo 15.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-a-1985-300402
+  date: '1985-02-11'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:39Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +179,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da administração pública central e local e dos organismos de coordenação económica e demais institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos passa a ser, a partir de 1 de Janeiro de 1984, a seguinte:
+Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da administração pública central e local e dos organismos de coordenação económica e demais institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos passa a ser, a partir de 1 de Janeiro de 1984, a seguinte:
 
 A ... 59900$00
 
@@ -162,9 +225,9 @@ U ... 16600$00
 
 2 - O disposto no número anterior é aplicável ao pessoal cujas remunerações são asseguradas pelo Cofre Geral dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça, mediante despacho do Ministro da Justiça.
 
-###### Art. 2.º As remunerações mensais correspondentes a cargos ou funções exercidas a tempo completo, mas que não coincidam com qualquer das letras da tabela constante do n.º 1 do artigo 1.º, serão aumentadas, a partir de 1 de Janeiro de 1984, na percentagem de 16%, sendo os quantitativos resultantes arredondados por excesso para a centena de escudos.
+Art. 2.º As remunerações mensais correspondentes a cargos ou funções exercidas a tempo completo, mas que não coincidam com qualquer das letras da tabela constante do n.º 1 do artigo 1.º, serão aumentadas, a partir de 1 de Janeiro de 1984, na percentagem de 16%, sendo os quantitativos resultantes arredondados por excesso para a centena de escudos.
 
-###### Art. 3.º - 1 - As remunerações dos aprendizes e praticantes que não estejam incluídas nas letras da tabela constante do n.º 1 do artigo 1.º são fixadas, com efeitos a partir de 1 de Janeiro de 1984, nos termos seguintes:
+Art. 3.º - 1 - As remunerações dos aprendizes e praticantes que não estejam incluídas nas letras da tabela constante do n.º 1 do artigo 1.º são fixadas, com efeitos a partir de 1 de Janeiro de 1984, nos termos seguintes:
 
 1.º ano de aprendizagem ... 12000$00
 
@@ -176,7 +239,7 @@ Praticantes ... 14000$00
 
 2 - A remuneração mensal dos trabalhadores rurais ao serviço das entidades referidas no artigo 1.º será a correspondente à letra U, sem prejuízo dos salários correntes da região, quando superiores.
 
-###### Art. 4.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como os dos dirigentes equiparados ao abrigo da [Resolução n.º 354-B/79](https://diariodarepublica.pt/dr/detalhe/resolucao/354-b-1979-473298), de 14 de Dezembro, passam a ser, com efeitos a partir de 1 de Janeiro de 1984, os seguintes:
+Art. 4.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como os dos dirigentes equiparados ao abrigo da [Resolução n.º 354-B/79](https://diariodarepublica.pt/dr/detalhe/resolucao/354-b-1979-473298), de 14 de Dezembro, passam a ser, com efeitos a partir de 1 de Janeiro de 1984, os seguintes:
 
 Director-geral, secretário-geral e outros cargos equiparados a director-geral ... 64100$00
 
@@ -198,7 +261,7 @@ Chefe de contabilidade e chefe de exploração do grupo III e restantes ... 3990
 
 Chefe de serviço administrativo do grupo IV e restantes ... 36900$00
 
-###### Art. 5.º - 1 - São aumentadas em 14%, com efeitos a partir de 1 de Janeiro de 1984, as seguintes pensões:
+Art. 5.º - 1 - São aumentadas em 14%, com efeitos a partir de 1 de Janeiro de 1984, as seguintes pensões:
 
 a) De aposentação, de reforma e de invalidez;
 
@@ -210,9 +273,9 @@ c) De preço de sangue e outras a cargo do Ministério das Finanças e do Plano,
 
 3 - As pensões pagas através da Caixa Geral de Aposentações, do Montepio dos Servidores do Estado e de outras entidades públicas em cujo encargo o Estado não comparticipe poderão ser actualizadas, nos termos dos números anteriores, mediante decisão das entidades competentes.
 
-###### Art. 6.º A partir de 1 de Janeiro de 1984, o valor das diuturnidades a que se refere o [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, será de 1220$00, beneficiando também deste aumento o pessoal aposentado ou reformado e os pensionistas das espécies contempladas na alínea c) do n.º 1 do artigo anterior.
+Art. 6.º A partir de 1 de Janeiro de 1984, o valor das diuturnidades a que se refere o [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, será de 1220$00, beneficiando também deste aumento o pessoal aposentado ou reformado e os pensionistas das espécies contempladas na alínea c) do n.º 1 do artigo anterior.
 
-###### Art. 7.º - 1 - É proibida a criação, aumento ou a extensão de remunerações acessórias, nomeadamente ao pessoal dos órgãos e serviços que sejam criados ou integrados, mantendo quadros de pessoal diferenciados e hierarquia própria, em departamentos em cujo âmbito as mesmas venham sendo praticadas.
+Art. 7.º - 1 - É proibida a criação, aumento ou a extensão de remunerações acessórias, nomeadamente ao pessoal dos órgãos e serviços que sejam criados ou integrados, mantendo quadros de pessoal diferenciados e hierarquia própria, em departamentos em cujo âmbito as mesmas venham sendo praticadas.
 
 2 - Em casos devidamente fundamentados, mediante decreto-lei assinado pelos Ministros das Finanças e do Plano, da tutela e do membro do Governo que tiver a seu cargo a função pública, poderá ser excepcionado o disposto no número anterior.
 
@@ -220,39 +283,39 @@ c) De preço de sangue e outras a cargo do Ministério das Finanças e do Plano,
 
 4 - As remunerações acessórias são referidas ao cargo independentemente da pessoa do respectivo titular.
 
-###### Art. 8.º - 1 - Para efeitos do n.º 1 do artigo anterior são congeladas no montante correspondente ao mês de Dezembro do ano findo as remunerações acessórias previstas em lei ou decreto-lei.
+Art. 8.º - 1 - Para efeitos do n.º 1 do artigo anterior são congeladas no montante correspondente ao mês de Dezembro do ano findo as remunerações acessórias previstas em lei ou decreto-lei.
 
 2 - Quando as remunerações acessórias não revistam natureza certa e permanente, o congelamento referido no número anterior processa-se no valor equivalente ao montante total recebido no ano anterior.
 
 3 - O disposto no número anterior não prejudica a percepção de montante inferior ao do congelamento referido na citada disposição, quando tal resulte do sistema que determina a sua atribuição.
 
-###### Art. 9.º São reduzidas no quantitativo correspondente a 30% do aumento dos vencimentos fixados neste diploma todas as remunerações acessórias não previstas em lei, decreto-lei ou decreto regulamentar, independentemente das formas que revistam e dos motivos que determinaram a sua concessão ou das rubricas orçamentais por onde serão processadas.
+Art. 9.º São reduzidas no quantitativo correspondente a 30% do aumento dos vencimentos fixados neste diploma todas as remunerações acessórias não previstas em lei, decreto-lei ou decreto regulamentar, independentemente das formas que revistam e dos motivos que determinaram a sua concessão ou das rubricas orçamentais por onde serão processadas.
 
-###### Art. 10.º São reduzidas no quantitativo correspondente a 10% do aumento dos vencimentos fixados neste diploma todas as remunerações acessórias que vêm sendo mantidas no âmbito de um mesmo órgão ou serviço, nomeadamente nos casos resultantes da aplicação de regras de transição, sempre que aquelas sejam determinantes da coexistência de regimes remuneratórios diferenciados.
+Art. 10.º São reduzidas no quantitativo correspondente a 10% do aumento dos vencimentos fixados neste diploma todas as remunerações acessórias que vêm sendo mantidas no âmbito de um mesmo órgão ou serviço, nomeadamente nos casos resultantes da aplicação de regras de transição, sempre que aquelas sejam determinantes da coexistência de regimes remuneratórios diferenciados.
 
-###### Art. 11.º O disposto nos artigos 7.º, 8.º, 9.º e 10.º prevalece sobre toda e qualquer disposição especial em contrário.
+Art. 11.º O disposto nos artigos 7.º, 8.º, 9.º e 10.º prevalece sobre toda e qualquer disposição especial em contrário.
 
-###### Art. 12.º Da aplicação dos artigos 8.º, 9.º e 10.º não pode resultar diminuição da retribuição global percebida à data da entrada em vigor dos aumentos previstos no presente diploma, salvo nos casos previstos no n.º 3 do artigo 8.º
+Art. 12.º Da aplicação dos artigos 8.º, 9.º e 10.º não pode resultar diminuição da retribuição global percebida à data da entrada em vigor dos aumentos previstos no presente diploma, salvo nos casos previstos no n.º 3 do artigo 8.º
 
-###### Art. 13.º - 1 - Haverá lugar à reposição dos quantitativos recebidos em contravenção dos artigos 8.º, 9.º e 10.º
+Art. 13.º - 1 - Haverá lugar à reposição dos quantitativos recebidos em contravenção dos artigos 8.º, 9.º e 10.º
 
 2 - Os funcionários e agentes que autorizarem, informarem favoravelmente ou omitirem informação relativamente à observância das disposições mencionadas no número anterior são solidariamente responsáveis pela reposição das quantias indevidamente pagas, para além da responsabilidade civil e disciplinar que ao caso couber.
 
-###### Art. 14.º - 1 - A criação e regulamentação de prémios de produtividade devem constar de decreto dos Ministros das Finanças e do Plano, da tutela e do membro do Governo que tiver a seu cargo a função pública.
+Art. 14.º - 1 - A criação e regulamentação de prémios de produtividade devem constar de decreto dos Ministros das Finanças e do Plano, da tutela e do membro do Governo que tiver a seu cargo a função pública.
 
 2 - Quando for proposta a fixação ou alteração das gratificações previstas nas alíneas b) e c) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, bem como a criação ou alteração de prémios de produtividade, podem o Ministro das Finançac e do Plano e o Secretário de Estado da Administração Pública determinar conjuntamente, com a concordância do membro do Governo interessado, que os serviços competentes dos respectivos departamentos efectuem, nos serviços proponentes, as análises e estudos técnicos adequados à sua justificação e determinação do seu montante.
 
-###### Art. 15.º - 1 - A partir da entrada em vigor do presente decreto-lei, quando a execução de um diploma legal esteja dependente em matéria pecuniária da aprovação de outras medidas legais, o pagamento das remunerações ao pessoal por elas abrangido reporta-se ao início do exercício efectivo de funções.
+Art. 15.º - 1 - A partir da entrada em vigor do presente decreto-lei, quando a execução de um diploma legal esteja dependente em matéria pecuniária da aprovação de outras medidas legais, o pagamento das remunerações ao pessoal por elas abrangido reporta-se ao início do exercício efectivo de funções.
 
 2 - O disposto no n.º 1 não se aplica às situações criadas anteriormente à data da publicação do presente decreto-lei e ainda dependentes de medidas legislativas ou da sua execução.
 
 3 - Para efeitos do disposto no número anterior, o pagamento dos retroactivos a que haja lugar processar-se-á diferidamente, em prazo e condições a estabelecer por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 16.º A alínea c) do n.º 2 do artigo 12.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, passa a ter a seguinte redacção:
+Art. 16.º A alínea c) do n.º 2 do artigo 12.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, passa a ter a seguinte redacção:
 
 c) Quando se trate de pessoal administrativo e auxiliar que preste serviço nos gabinetes dos membros do Governo e de pessoal da Presidência da República, destacado para, normal ou eventualmente, prestar apoio ao Gabinete do Presidente da República.
 
-###### Art. 17.º Os vencimentos dos membros das Casas Civil e Militar do Presidente da República e dos Gabinetes dos membros do Governo, incluindo o Gabinete do Primeiro-Ministro e os Gabinetes dos Ministros da República para os Açores e para a Madeira, são os seguintes:
+Art. 17.º Os vencimentos dos membros das Casas Civil e Militar do Presidente da República e dos Gabinetes dos membros do Governo, incluindo o Gabinete do Primeiro-Ministro e os Gabinetes dos Ministros da República para os Açores e para a Madeira, são os seguintes:
 
 Chefes das Casas Civil e Militar do Presidente da República e chefes de Gabinete ... 64100$00
 
@@ -262,20 +325,20 @@ Adjuntos de gabinete ... 51600$00
 
 Secretários pessoais ... 39100$00
 
-###### Art. 18.º - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis à execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para o pagamento dos vencimentos.
+Art. 18.º - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis à execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para o pagamento dos vencimentos.
 
-###### Art. 19.º - 1 - São revogados os Decretos-Leis n.os [15-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-b-1982-681662), de 20 de Janeiro, e [106-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294), de 18 de Fevereiro.
+Art. 19.º - 1 - São revogados os Decretos-Leis n.os [15-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-b-1982-681662), de 20 de Janeiro, e [106-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294), de 18 de Fevereiro.
 
 2 - Mantém-se em vigor em tudo o que não contrarie o presente diploma o [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Luís Gaspar da Silva - Rui Manuel Parente - Chancerelle de Machete - Hernâni Rodrigues Lopes - José Augusto Seabra - Amândio Anes de Azeredo - António Manuel Maldonado Gonelha - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto - António Antero Coimbra Martins - João Rosado Correia - António d'Orey Capucho - Carlos Montez Melancia.
 
-**Promulgado em 16 de Fevereiro de 1984.**
+Promulgado em 16 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Fevereiro de 1984.**
+Referendado em 17 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1986-193613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9570a032e4538caec02ae32a9459e1e89ba19224f505fe15e1ce43d36614d807
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9795931925d6f02d2be85912f8c0794a9af065f68fb0f8f96fac98bfbef9b54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Comercial
+- Crédito à Habitação
+- Crédito a Longo Prazo
+- Crédito a Médio Prazo
 relationships:
 - type: amended_by
   target: pt:dre:583436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:240855:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:55Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +107,15 @@ Finalmente, cabe salientar que no Programa do Governo, quando se alude à aposta
 
 Por estas razões, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 1.º do [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855), de 29 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 1.º do [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855), de 29 de Agosto, passa a ter a seguinte redacção:
 
 3 - As operações de crédito a longo prazo não poderão exceder 10 anos, excepto para os fins previstos no n.º 5 do artigo 3.º deste decreto-lei, casos em que vigorará o limite de 25 anos.
 
-###### Art. 2.º É acrescentado ao artigo 3.º do mesmo [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855) um n.º 5 com a seguinte redacção:
+Art. 2.º É acrescentado ao artigo 3.º do mesmo [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855) um n.º 5 com a seguinte redacção:
 
 5 - São ainda abrangidas por este diploma as operações de crédito à aquisição, construção, reparação e beneficiação de prédios ou fracções de prédios de habitação, desde que os mutuários sejam pessoas singulares.
 
-###### Art. 3.º - 1 - Na realização das operações de crédito à aquisição, construção, reparação e beneficiação de prédios ou fracções de prédios de habitação os bancos comerciais poderão utilizar os seguintes recursos:
+Art. 3.º - 1 - Na realização das operações de crédito à aquisição, construção, reparação e beneficiação de prédios ou fracções de prédios de habitação os bancos comerciais poderão utilizar os seguintes recursos:
 
 a) Capitais próprios ou equiparados;
 
@@ -121,16 +129,16 @@ e) 10% do saldo dos depósitos a prazo superior a um ano.
 
 2 - Por portaria do Ministro das Finanças, poderão ser alterados a composição e os coeficientes de ponderação dos recursos que os bancos comerciais são autorizados, nos termos do número anterior, a aplicar nas operações de crédito contempladas neste decreto-lei.
 
-###### Art. 4.º É aplicável aos bancos de investimento o regime previsto no artigo 3.º
+Art. 4.º É aplicável aos bancos de investimento o regime previsto no artigo 3.º
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 10 de Fevereiro de 1986.**
+Promulgado em 10 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Fevereiro de 1986.**
+Referendado em 19 de Fevereiro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

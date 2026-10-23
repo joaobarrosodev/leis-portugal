@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/09/20900/32103211.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1983-439105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22f4cf9774474c4706aae261f773e86228a79bab69b4555aca83e4c11cfe2976
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd398936827848d26d2d0cf3605c8ccc9769cd0384f9713859a66a4149ab62c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Crime
+- Pedra Preciosa
+- Processo Civil
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:616264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:324533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676583:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616264:por
+  label: "Revogado pelo DEC LEI.139/91.10.04.1991.MF, DR.IS-A [83] de 10.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1991-616264
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:25Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +145,7 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 8/83](https://diariodarepublica.pt/dr/detalhe/lei/8-1983-455076), de 11 de Agosto, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Quem, fora dos casos legalmente autorizados ou dos termos regularmente prescritos, possuir ou simplesmente detiver, comprar ou vender, introduzir em território português ou dele levar diamantes em bruto ou não lapidados ou, por qualquer forma, intervir no seu tráfico será punido com prisão até 2 anos.
+Artigo 1.º - 1 - Quem, fora dos casos legalmente autorizados ou dos termos regularmente prescritos, possuir ou simplesmente detiver, comprar ou vender, introduzir em território português ou dele levar diamantes em bruto ou não lapidados ou, por qualquer forma, intervir no seu tráfico será punido com prisão até 2 anos.
 
 2 - Os diamantes que forem objecto dos actos previstos no número anterior serão apreendidos e terão o destino prescrito no artigo 3.º do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho.
 
@@ -123,17 +157,17 @@ Usando da autorização conferida pela [Lei n.º 8/83](https://diariodarepublica
 
 6 - A compra de diamantes em bruto ou não lapidados por agentes devidamente credenciados de empresa legalmente autorizada a efectuá-la e, bem assim, a detenção dos mesmos diamantes por esses agentes, nos termos e pelos prazos estabelecidos pela respectiva empresa, constituem casos legalmente autorizados para os efeitos do n.º 1.
 
-###### Art. 2.º O n.º 3 do artigo 2.º do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho, passa a ter a seguinte redacção:
+Art. 2.º O n.º 3 do artigo 2.º do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho, passa a ter a seguinte redacção:
 
 3 - Ao declarante será entregue um documento comprovativo do pedido de legalização emitido pelo chefe do posto alfandegário, o qual constituirá título para o declarante reclamar o respectivo preço à empresa que comprar os diamantes nos termos do artigo 4.º, n.º 2.
 
-###### Art. 3.º O artigo 4.º do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho, passa a ter a seguinte redacção:
+Art. 3.º O artigo 4.º do [Decreto-Lei n.º 228/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981), de 21 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Todos os diamantes que forem considerados perdidos a favor da Fazenda Nacional e devam ser vendidos nos termos do artigo anterior deverão, no prazo de 30 dias a contar da apreensão, ser entregues pela autoridade ou tribunal que tenha procedido à apreensão ou a cuja ordem ou guarda eles se encontrem à entidade compradora referida naquele artigo, a qual, nos 15 dias seguintes à entrega, liquidará à Fazenda Nacional o respectivo preço.
+Art. 4.º - 1 - Todos os diamantes que forem considerados perdidos a favor da Fazenda Nacional e devam ser vendidos nos termos do artigo anterior deverão, no prazo de 30 dias a contar da apreensão, ser entregues pela autoridade ou tribunal que tenha procedido à apreensão ou a cuja ordem ou guarda eles se encontrem à entidade compradora referida naquele artigo, a qual, nos 15 dias seguintes à entrega, liquidará à Fazenda Nacional o respectivo preço.
 
 2 - Todos os diamantes que forem legalizados pela forma prescrita no artigo 2.º deste diploma devem ser entregues, no prazo de 8 dias, pelo chefe do posto alfandegário à empresa autorizada, pelo [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro, a efectuar a compra de diamantes, a qual, nos 15 dias seguintes à apresentação do documento referido no artigo 2.º, n.º 3, liquidará o respectivo preço.
 
-###### Art. 4.º - 1 - O preço de compra de diamantes, quando não for objecto de acordo entre a entidade vendedora e a empresa compradora, corresponderá ao seu valor na data da entrega, o qual será determinado pela seguinte forma:
+Art. 4.º - 1 - O preço de compra de diamantes, quando não for objecto de acordo entre a entidade vendedora e a empresa compradora, corresponderá ao seu valor na data da entrega, o qual será determinado pela seguinte forma:
 
 a) Sendo a vendedora a Fazenda Nacional, a empresa pagará provisoriamente o preço proposto por aquela, mas poderá requerer arbitramento, nos termos do n.º 2 deste artigo;
 
@@ -153,12 +187,12 @@ b) É sempre admitida a produção antecipada de prova, prevista no artigo 520.�
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 2 de Setembro de 1983.**
+Promulgado em 2 de Setembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Setembro de 1983.**
+Referendado em 3 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

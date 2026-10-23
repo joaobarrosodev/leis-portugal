@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/25400/32943295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1986-221104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af75d3644cb78c506f810fe43c48fc371912a416ccd3389091c403090b2ffdf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38f9f6eb939fb18fafe75ff8682ab2de1f013fbda49deb36d6125dd10bd54e7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral do Ensino Superior
+- Ensino Superior
+- Pessoal Docente
+- Quadro de Efectivos Interdepartamentais
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:327146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:25Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +128,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os n.os 1 e 2 do artigo 2.º, bem como o artigo 7.º, do [Decreto-Lei n.º 48/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1985-327146), de 27 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 1 e 2 do artigo 2.º, bem como o artigo 7.º, do [Decreto-Lei n.º 48/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1985-327146), de 27 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - São integrados no QEI a que se refere o artigo anterior:
+Art. 2.º - 1 - São integrados no QEI a que se refere o artigo anterior:
 
 a) ...
 
@@ -113,22 +142,22 @@ d) Os estagiários de investigação dos organismos e serviços dependentes da D
 
 2 - Excepcionam-se do disposto na alínea a) do número anterior os assistentes que, tendo beneficiado por mais de um ano da dispensa prevista no n.º 1 do artigo 27.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), não requeiram as provas de doutoramento ou nelas não sejam aprovados, salvo se, entretanto, tiverem divulgado trabalhos com valor científico-pedagógico e como tal reconhecidos pelo conselho científico da instituição.
 
-###### Art. 7.º - 1 - A integração conta-se, para todos os efeitos legais, a partir do termo do contrato como assistente ou como assistente de investigação.
+Art. 7.º - 1 - A integração conta-se, para todos os efeitos legais, a partir do termo do contrato como assistente ou como assistente de investigação.
 
 2 - A partir do termo do contrato os assistentes ou assistentes de investigação consideram-se afectados às instituições a que se encontravam vinculados, sem prejuízo da sua colocação, nos termos do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
 3 - Ao pessoal a que se refere o número anterior serão atribuídas durante o período de afectação tarefas compatíveis com as suas habilitações e qualificação profissional.
 
-###### Art. 2.º O artigo 28.º do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e os n.os 3 a 6 do artigo 12.º do [Decreto-Lei n.º 415/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1980-461651), de 27 de Setembro, mantêm-se em vigor para o pessoal abrangido pelas alíneas c) e d) aditadas pelo presente diploma ao n.º 1 do artigo 2.º do [Decreto-Lei n.º 48/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1985-327146), de 27 de Fevereiro.
+Art. 2.º O artigo 28.º do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e os n.os 3 a 6 do artigo 12.º do [Decreto-Lei n.º 415/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1980-461651), de 27 de Setembro, mantêm-se em vigor para o pessoal abrangido pelas alíneas c) e d) aditadas pelo presente diploma ao n.º 1 do artigo 2.º do [Decreto-Lei n.º 48/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1985-327146), de 27 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Nunes Ferreira Real.
 
-**Promulgado em 16 de Outubro de 1986**
+Promulgado em 16 de Outubro de 1986
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1986.**
+Referendado em 21 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/22000/27012702.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1986-221554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2801605b3688bbc5e35c6b5c419ba4fd37e5a29112b331e65620880d23ec5905
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9d661dacb426d873038abd2bd060ff49c9b617a35ce9b97f121323f7aec3fb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casa do Douro
+- Extinção de Serviços
+- Instituto do Vinho do Porto
+- Integração de Trabalhadores
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662683:por
+  label: "Recusada a ratificação pela RES.6/87.1987.02.21.AR DR.IS [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/6-1987-662683
+  date: '1987-02-21'
+- type: cites
+  target: pt:dre:380741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:27Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +132,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a Casa do Douro, criada pelo [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro.
+Artigo 1.º - 1 - É extinta a Casa do Douro, criada pelo [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro.
 
 2 - A extinção somente produzirá efeitos após a criação da associação que representará os produtos de vinho da Região do Douro.
 
@@ -118,15 +140,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A associação referida nos números anteriores poderá ser declarada pessoa colectiva privada de utilidade pública, observados os requisitos legais.
 
-###### Art. 2.º Os direitos e obrigações, incluídos os emergentes de contratos de arrendamento, bem como as atribuições e competências, activos e passivos da extinta Casa do Douro, serão transferidos para a nova associação, com excepção das atribuições e competências próprias do Instituto do Vinho do Porto.
+Art. 2.º Os direitos e obrigações, incluídos os emergentes de contratos de arrendamento, bem como as atribuições e competências, activos e passivos da extinta Casa do Douro, serão transferidos para a nova associação, com excepção das atribuições e competências próprias do Instituto do Vinho do Porto.
 
-###### Art. 3.º - 1 - O pessoal afecto à Casa do Douro mediante vínculo definitivo transita para os quadros de pessoal do Instituto do Vinho do Porto, que, para esse estrito efeito, procederá ao alargamento do seu quadro de pessoal, sem encargos adicionais e no respeito pelas categorias e carreiras e demais direitos adquiridos, mediante a publicação de portaria contendo os novos lugares do quadro.
+Art. 3.º - 1 - O pessoal afecto à Casa do Douro mediante vínculo definitivo transita para os quadros de pessoal do Instituto do Vinho do Porto, que, para esse estrito efeito, procederá ao alargamento do seu quadro de pessoal, sem encargos adicionais e no respeito pelas categorias e carreiras e demais direitos adquiridos, mediante a publicação de portaria contendo os novos lugares do quadro.
 
 2 - A integração do pessoal nos termos referidos no número anterior terá lugar com dispensa de quaisquer formalidades, excepto a anotação pelo Tribunal de Contas.
 
 3 - Ao pessoal da extinta Casa do Douro é aplicável, no que se refere ao seu estatuto, o regime do pessoal dos organismos de coordenação económica.
 
-###### Art. 4.º - 1 - O Instituto do Vinho do Porto e a associação mencionada no artigo 1.º celebrarão um acordo com duração indeterminada, respeitante à prestação de serviço do pessoal da extinta Casa do Douro, que manterá as funções que vinha exercendo, agora junto da nova entidade a criar.
+Art. 4.º - 1 - O Instituto do Vinho do Porto e a associação mencionada no artigo 1.º celebrarão um acordo com duração indeterminada, respeitante à prestação de serviço do pessoal da extinta Casa do Douro, que manterá as funções que vinha exercendo, agora junto da nova entidade a criar.
 
 2 - O exercício da acção disciplinar sobre o pessoal mencionado no número anterior será assegurado pelos dirigentes do Instituto do Vinho do Porto.
 
@@ -136,12 +158,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20400/24372437.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1986-220076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3383fa424c40a24429546070944800b58d8a8c834ca6e194b323c5cc97778f66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cab656fa0a18dab41e47f6d2aaf128575dfaf2040e3769069dac9595c1380f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo X
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:49Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +103,20 @@ A actualização da estrutura orgânica do Governo, no sentido de garantir maior
 
 Nestes termos, ao abrigo do n.º 2 do artigo 201.º da Constituição, o Governo decreta:
 
-###### Artigo 1.º É aditado ao [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro, um artigo 13.º-A, com a seguinte redacção:
+Artigo 1.º É aditado ao [Decreto-Lei n.º 497/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1985-169972), de 17 de Dezembro, um artigo 13.º-A, com a seguinte redacção:
 
-###### Art. 13.º-A. O Ministro da Justiça é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Justiça.
+Art. 13.º-A. O Ministro da Justiça é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Justiça.
 
-###### Art. 2.º O presente diploma produz efeitos desde 29 de Julho de 1986.
+Art. 2.º O presente diploma produz efeitos desde 29 de Julho de 1986.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1986. - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral - Rui Carlos Alvarez Carp - António Amaro de Matos - Fernando Nunes Ferreira Real.
 
-**Promulgado em 16 de Agosto de 1986.**
+Promulgado em 16 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Agosto de 1986.**
+Referendado em 19 de Agosto de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

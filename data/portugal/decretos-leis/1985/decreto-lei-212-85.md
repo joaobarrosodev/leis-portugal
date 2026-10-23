@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14500/17341736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1985-182031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d0efae715639941a8cedee439277040f608739eac517071a5c555ebdbb41165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52a5d4b94f7bc431ae118c28d00f48846e313a4c9f8f10bcc3427a837c34c27a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- IAPMEI
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:354114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 387/88 DE 25-OUT DR.IS [247].\0247]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-10-25'
+- type: repealed_by
+  target: pt:dre:354114:por
+  label: "Revogado pelo DEC LEI.387/88.25.10.1988.MIE, DR.IS [247] de 25.10.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-1988-354114
+  date: '1988-10-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:15Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +139,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - No âmbito do Instituto de Apoio às Pequenas e Médias Empresas Industriais (IAPMEI), instituído pelo [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), de 7 de Fevereiro são criadas uma Direcção de Serviços de Gestão e uma Divisão de Informática.
+Artigo 1.º - 1 - No âmbito do Instituto de Apoio às Pequenas e Médias Empresas Industriais (IAPMEI), instituído pelo [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), de 7 de Fevereiro são criadas uma Direcção de Serviços de Gestão e uma Divisão de Informática.
 
 2 - É extinta a Divisão Administrativa daquele Instituto.
 
-###### Art. 2.º À Direcção de Serviços de Gestão compete:
+Art. 2.º À Direcção de Serviços de Gestão compete:
 
 a) Programar e executar todas as actividades do Instituto no domínio administrativo, nomeadamente no que respeita a pessoal, contabilidade, tesouraria, expediente, arquivo e economato;
 
@@ -123,7 +159,7 @@ f) Propor a criação, substituição ou inutilização dos impressos, consoante
 
 g) Assegurar a articulação no âmbito da organização e da gestão dos recursos humanos com o Gabinete de Organização e Recursos Humanos do Ministério.
 
-###### Art. 3.º A Direcção de Serviços de Gestão compreende:
+Art. 3.º A Direcção de Serviços de Gestão compreende:
 
 a) A Repartição de Orçamento, Contabilidade e Aprovisionamento;
 
@@ -131,7 +167,7 @@ b) A Repartição de Pessoal e Expediente;
 
 c) A Tesouraria.
 
-###### Art. 4.º - 1 - À Repartição de Orçamento, Contabilidade e Aprovisionamento compete:
+Art. 4.º - 1 - À Repartição de Orçamento, Contabilidade e Aprovisionamento compete:
 
 a) Proceder à recolha da informação necessária à elaboração das propostas de orçamento para cada ano económico, bem como promover as alterações orçamentais que se vierem a mostrar necessárias;
 
@@ -165,7 +201,7 @@ c) Entregar nos cofres respectivos os descontos referentes a receitas do Estado 
 
 d) Manter diariamente actualizado o balanço dos valores em cofre e das demais disponibilidades do Instituto.
 
-###### Art. 5.º Compete à Divisão de Informática, que funciona na dependência directa do conselho de administração:
+Art. 5.º Compete à Divisão de Informática, que funciona na dependência directa do conselho de administração:
 
 a) Assegurar e manter contactos e intercâmbio permanente com o Gabinete de Organização e Recursos Humanos do Ministério e com os órgãos centrais de informática da Administração Pública;
 
@@ -175,7 +211,7 @@ c) Estudar e propor as bases e regras de utilização dos meios de tratamento au
 
 d) Definir e administrar, em colaboração com outros serviços técnicos do Instituto e órgãos do MIE, um sistema adequado de informação interna, com base em indicadores económicos e financeiros que permitam às equipas técnicas um melhor conhecimento dos sectores e das empresas.
 
-###### Art. 6.º - 1 - Ao quadro de pessoal do Instituto, constante do anexo XIV à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, são aumentados e abatidos os lugares constantes do quadro anexo ao presente diploma.
+Art. 6.º - 1 - Ao quadro de pessoal do Instituto, constante do anexo XIV à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, são aumentados e abatidos os lugares constantes do quadro anexo ao presente diploma.
 
 2 - O provimento dos lugares criados pelo n.º 1 do presente artigo será feito de acordo com as regras seguintes:
 
@@ -201,16 +237,16 @@ b) Para categoria que integre as funções que o funcionário já desempenha, re
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Promulgado em 4 de Junho de 1985.**
+Promulgado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 QUADRO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14500/17341736.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14500/17341736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14500/17341736.pdf)

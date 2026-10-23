@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/23500/31183118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1984-400021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed3d801960e5baff5cde1906a647c811d8b35eda0ac63a0c4bdc8e5258d05e52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f8e70c90458760097445afbf12a01194d0897a29d548d07b5e706ed7fafad19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Açúcar
+- Beterraba
+- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:588644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:59Z'
   warnings: []
   errors: []
 ---
@@ -103,26 +116,26 @@ Nestes termos, ouvido o Governo Regional dos Açores:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a colocação e venda no continente de açúcar da Região Autónoma dos Açores, proveniente de beterraba sacarina produzida na mesma Região, até ao limite de 7200 t em 1984 e em 1985.
+Artigo 1.º - 1 - É autorizada a colocação e venda no continente de açúcar da Região Autónoma dos Açores, proveniente de beterraba sacarina produzida na mesma Região, até ao limite de 7200 t em 1984 e em 1985.
 
 2 - A referida quota será revista após 1985 em função da produção local de beterraba sacarina face ao consumo de açúcar da Região Autónoma.
 
-###### Art. 2.º A colocação e venda no continente do açúcar referido no artigo anterior será efectuada pela indústria açucareira regional.
+Art. 2.º A colocação e venda no continente do açúcar referido no artigo anterior será efectuada pela indústria açucareira regional.
 
-###### Art. 3.º A colocação no continente do açúcar a que o presente diploma se refere não é, para todos os efeitos, considerada importação.
+Art. 3.º A colocação no continente do açúcar a que o presente diploma se refere não é, para todos os efeitos, considerada importação.
 
-###### Art. 4.º É obrigatório, salvo em situações devidamente justificadas e sancionadas pelo Serviço Regional do Açúcar e do Álcool, que o açúcar destinado ao consumo na Região Autónoma dos Açores seja totalmente refinado pela indústria açoriana de refinação.
+Art. 4.º É obrigatório, salvo em situações devidamente justificadas e sancionadas pelo Serviço Regional do Açúcar e do Álcool, que o açúcar destinado ao consumo na Região Autónoma dos Açores seja totalmente refinado pela indústria açoriana de refinação.
 
-###### Art. 5.º É revogado o artigo 4.º do [Decreto n.º 15830](https://diariodarepublica.pt/dr/detalhe/decreto/15830-1928-588644), de 11 de Agosto de 1928.
+Art. 5.º É revogado o artigo 4.º do [Decreto n.º 15830](https://diariodarepublica.pt/dr/detalhe/decreto/15830-1928-588644), de 11 de Agosto de 1928.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 27 de Setembro de 1984.**
+Promulgado em 27 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Setembro de 1984.**
+Referendado em 28 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

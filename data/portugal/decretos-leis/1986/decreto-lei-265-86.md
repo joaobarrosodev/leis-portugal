@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20200/24032406.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1986-220102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7185f1b42f469ca2e254bd5e18b1bf18efade1de459cd9f8226ed1901d454970
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b06315c45e95a48c32a4f0392ced209a7103e124f92cdbd815898a83a313dcac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Justiça
+- Orgânica
+- Organização Judiciária
 relationships:
 - type: amended_by
   target: pt:dre:650730:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:650730:por
+  label: "Revogado pelo DEC LEI.376/87.11.12.1987.MJ, DR.IS [284]Supl de 11.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1987-650730
+  date: '1987-12-11'
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:37Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +120,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 46.º, 102.º-A, 116.º, 123.º, 126.º - A, 127.º, 130.º, 132.º, 142.º, 144.º, 148.º, e 149.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 46.º, 102.º-A, 116.º, 123.º, 126.º - A, 127.º, 130.º, 132.º, 142.º, 144.º, 148.º, e 149.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 9.º — (Turnos de férias de Verão)
 
@@ -228,20 +248,20 @@ d) ...
 
 3 - Quando sejam simultaneamente admitidos para provimento de lugares de ingresso do quadro de oficiais de justiça os candidatos previstos no n.º 1 do artigo anterior e no n.º 2 do artigo 111.º, gozam de preferência os que efectuaram a prática de serviço antes de 29 de Janeiro de 1979.
 
-###### Art. 2.º É aditado o artigo 99.º-A ao [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, com a seguinte redacção:
+Art. 2.º É aditado o artigo 99.º-A ao [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, com a seguinte redacção:
 
 ###### Artigo 99.º-A — (Natureza do provimento)
 
 Os provimentos do pessoal do quadro de oficial de justiça entendem-se sempre feitos por urgente conveniência de serviço, dependendo a sua execução e produção de efeitos da respectiva publicação no Diário da República.
 
-###### Art. 3.º É revogado o artigo 87.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro.
+Art. 3.º É revogado o artigo 87.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1986. - Eurico Silva Teixeira de Melo - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 16 de Agosto de 1986.**
+Promulgado em 16 de Agosto de 1986.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Agosto de 1986.**
+Referendado em 19 de Agosto de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

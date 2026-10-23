@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22700/28532854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1986-221729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee83872ae222fae41ae531a05f5e8badd43e416057183f7c9431f8ea05f458d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 723d68ba8422386201d26b1f16aedb3704981b82a191c9f317823a24ca47db78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Autónoma das Estradas
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474753:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:53Z'
   warnings: []
   errors: []
 ---
@@ -108,32 +139,32 @@ Assim:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 de artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os funcionários que à data da entrada em vigor deste diploma se encontrem providos na categoria de encarregado de armazém do quadro de pessoal da Junta Autónoma de Estradas transitam para a categoria de fiel de armazém principal desde que possuam ou logo que perfaçam 10 anos de serviço na categoria.
+Artigo 1.º Os funcionários que à data da entrada em vigor deste diploma se encontrem providos na categoria de encarregado de armazém do quadro de pessoal da Junta Autónoma de Estradas transitam para a categoria de fiel de armazém principal desde que possuam ou logo que perfaçam 10 anos de serviço na categoria.
 
-###### Art. 2.º Enquanto não satisfizerem as condições do artigo anterior, os restantes encarregados de armazém de mesmo quadro transitarão para a categoria de fiel de armazém de 1.ª classe, mas manterão a letra de vencimento N.
+Art. 2.º Enquanto não satisfizerem as condições do artigo anterior, os restantes encarregados de armazém de mesmo quadro transitarão para a categoria de fiel de armazém de 1.ª classe, mas manterão a letra de vencimento N.
 
-###### Art. 3.º A carreira de fiéis de armazém a que se referem o artigo 70.º e o mapa I do [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho, é considerada carreira horizontal, obedecendo a mudança de classe à permanência de cinco anos na classe anterior, com classificação de serviço não inferior a Bom.
+Art. 3.º A carreira de fiéis de armazém a que se referem o artigo 70.º e o mapa I do [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho, é considerada carreira horizontal, obedecendo a mudança de classe à permanência de cinco anos na classe anterior, com classificação de serviço não inferior a Bom.
 
-###### Art. 4.º A integração do pessoal nas categorias referidas nos artigos anteriores efectuar-se-á diplomas individuais de provimento, sem observância de quaisquer formalidades, salvo o visto do Tribunal Contas e a publicação no Diário da República.
+Art. 4.º A integração do pessoal nas categorias referidas nos artigos anteriores efectuar-se-á diplomas individuais de provimento, sem observância de quaisquer formalidades, salvo o visto do Tribunal Contas e a publicação no Diário da República.
 
-###### Art. 5.º A alteração do quadro de pessoal da junta Autónoma de Estradas conducente à concretização das medidas constantes dos artigos 1.º e 2.º far-se-á com observância da lei geral em vigor, designadamente de harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+Art. 5.º A alteração do quadro de pessoal da junta Autónoma de Estradas conducente à concretização das medidas constantes dos artigos 1.º e 2.º far-se-á com observância da lei geral em vigor, designadamente de harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
-###### Art. 6.º Considera-se revogado o disposto no artigo 70.º do [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho, nas matérias que forem incompatíveis com a natureza de carreira horizontal reconhecida por este diploma aos fiéis de armazém.
+Art. 6.º Considera-se revogado o disposto no artigo 70.º do [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho, nas matérias que forem incompatíveis com a natureza de carreira horizontal reconhecida por este diploma aos fiéis de armazém.
 
-###### Art. 7.º Os serventes providos nos lugares do quadro da Junta Autónoma de Estradas, aprovado pelo [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, que reúnam os requisitos de tempo, habilitações e maioridade previstos no artigo 30.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, poderão ingressar nas categorias das carreiras operárias correspondentes às funções efectivamente exercidas mediante aprovação em concurso de provas práticas de conhecimentos.
+Art. 7.º Os serventes providos nos lugares do quadro da Junta Autónoma de Estradas, aprovado pelo [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, que reúnam os requisitos de tempo, habilitações e maioridade previstos no artigo 30.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, poderão ingressar nas categorias das carreiras operárias correspondentes às funções efectivamente exercidas mediante aprovação em concurso de provas práticas de conhecimentos.
 
-###### Art. 8.º O tempo de serviço prestado pelos actuais serventes do quadro de pessoal da Junta Autónoma de Estradas é considerado como prestado nas categorias de aprendiz, ajudante e praticante, exclusivamente para efeitos de ingresso na base das carreiras operárias do referido quadro.
+Art. 8.º O tempo de serviço prestado pelos actuais serventes do quadro de pessoal da Junta Autónoma de Estradas é considerado como prestado nas categorias de aprendiz, ajudante e praticante, exclusivamente para efeitos de ingresso na base das carreiras operárias do referido quadro.
 
-###### Art. 9.º Poderão também candidatar-se às categorias de base das carreiras operárias, mediante concurso interno de provas práticas de conhecimentos, os indivíduos que reúnam as condições na lei geral.
+Art. 9.º Poderão também candidatar-se às categorias de base das carreiras operárias, mediante concurso interno de provas práticas de conhecimentos, os indivíduos que reúnam as condições na lei geral.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - João Maria Leitão do Oliveira Martins.
 
-**Promulgado em 11 de Setembro de 1986.**
+Promulgado em 11 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/27200/38933894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1983-442964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a41d751790d8b8164d0fdbe6cb84b3ec2170362b8de46f1020bad197124394c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78d1c23b3bdaccedbe32b9c201c6b793b0c90ec62976d537a647d20f47824732
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Região Demarcada dos Vinhos Verdes
+- TEOR Álcoolico
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:150313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:451623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454283:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:630389:por
+  label: Rectificado pela DECL.DD5515.09.12.1983.PCM, DR.IS [301]6ºSupl de 31.12.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-630389
+  date: '1983-12-09'
+- type: repealed_by
+  target: pt:dre:150313:por
+  label: "Revogado pelo DEC LEI.10/92.03.02.1992.MA, DR.IS-A [28] de 03.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1992-150313
+  date: '1992-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:24Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +128,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a concentração do mosto de uvas e a concentração e rectificação do mosto de uvas na Região Demarcada dos Vinhos Verdes, desde que seja utilizado unicamente mosto de uvas das castas recomendadas e autorizadas legalmente e produzido dentro da área geográfica da Região.
+Artigo 1.º É autorizada a concentração do mosto de uvas e a concentração e rectificação do mosto de uvas na Região Demarcada dos Vinhos Verdes, desde que seja utilizado unicamente mosto de uvas das castas recomendadas e autorizadas legalmente e produzido dentro da área geográfica da Região.
 
-###### Art. 2.º Para efeitos da aplicação deste diploma, considera-se:
+Art. 2.º Para efeitos da aplicação deste diploma, considera-se:
 
 a) Enriquecimento - o aumento do teor alcoólico volumétrico natural adquirido ou em potência;
 
@@ -121,11 +142,11 @@ d) Edulcoração - a adição de mosto de uva amuado, ou mosto de uva concentrad
 
 e) Vinho que pode vir a usar a designação de «vinho de qualidade produzido na região demarcada» - o vinho produzido na Região Demarcada dos Vinhos Verdes, proveniente das castas recomendadas e autorizadas para esta Região e tendo, pelo menos, o teor alcoólico mínimo natural de 7% vol.
 
-###### Art. 3.º - 1 - Quando as condições climáticas o tornarem necessário, é autorizado o aumento do teor alcoólico volumétrico natural (adquirido ou em potência) da uva fresca, do mosto de uvas, do mosto de uvas parcialmente fermentado, do vinho novo ainda em fermentação e do vinho que pode vir a usar a designação de «vinho de qualidade produzido na região demarcada».
+Art. 3.º - 1 - Quando as condições climáticas o tornarem necessário, é autorizado o aumento do teor alcoólico volumétrico natural (adquirido ou em potência) da uva fresca, do mosto de uvas, do mosto de uvas parcialmente fermentado, do vinho novo ainda em fermentação e do vinho que pode vir a usar a designação de «vinho de qualidade produzido na região demarcada».
 
 2 - Este aumento não poderá ser superior a 2,5% vol. e os produtos acima indicados não poderão ser objecto deste aumento se o seu teor alcoólico volumétrico mínimo natural for inferior a 7% vol. ou se apresentarem anomalias de composição.
 
-###### Art. 4.º - 1 - O aumento do teor alcoólico volumétrico natural só poderá ser obtido:
+Art. 4.º - 1 - O aumento do teor alcoólico volumétrico natural só poderá ser obtido:
 
 a) No que se refere às uvas frescas, ao mosto de uvas parcialmente fermentado ou ao vinho novo ainda em fermentação: pela adição de mosto de uvas concentrado ou de mosto de uvas concentrado e rectificado;
 
@@ -135,34 +156,34 @@ c) No que se refere ao vinho que pode vir a usar a designação de «vinho de qu
 
 2 - Cada uma das operações citadas excluí o emprego de qualquer das outras.
 
-###### Art. 5.º - 1 - A adição de mosto de uva concentrado ou mosto de uva concentrado e rectificado, nos termos das alíneas a) e b) do n.º 1 do artigo 4.º, não pode ter por efeito aumentar em mais de 8% o volume inicial das uvas frescas esmagadas, do mosto de uvas parcialmente fermentado ou do vinho novo ainda em fermentação.
+Art. 5.º - 1 - A adição de mosto de uva concentrado ou mosto de uva concentrado e rectificado, nos termos das alíneas a) e b) do n.º 1 do artigo 4.º, não pode ter por efeito aumentar em mais de 8% o volume inicial das uvas frescas esmagadas, do mosto de uvas parcialmente fermentado ou do vinho novo ainda em fermentação.
 
 2 - A concentração parcial não pode reduzir em mais de 20% o volume inicial, nem aumentar em mais de 2,5% vol. o teor alcoólico natural.
 
 3 - A adição de mosto de uva concentrado ou mosto de uva concentrado e rectificado nos termos das alíneas a) e b) do n.º 1 do artigo 4.º, não pode ser efectuada depois do dia 1 de Dezembro do próprio ano da colheita, podendo, contudo, a concentração do vinho pelo frio ser praticada durante todo o ano.
 
-###### Art. 6.º O enriquecimento por adição às uvas frescas, ao mosto de uvas, ao mosto de uvas parcialmente fermentado ou ao vinho ainda em fermentação provenientes da Região Demarcada dos Vinhos Verdes só pode ser efectuado com mosto de uva concentrado ou com mosto de uva concentrado e rectificado proveuvas concentrado e rectificado originários da Região da sua área geográfica.
+Art. 6.º O enriquecimento por adição às uvas frescas, ao mosto de uvas, ao mosto de uvas parcialmente fermentado ou ao vinho ainda em fermentação provenientes da Região Demarcada dos Vinhos Verdes só pode ser efectuado com mosto de uva concentrado ou com mosto de uva concentrado e rectificado proveuvas concentrado e rectificado originários da Região da sua área geográfica.
 
-###### Art. 7.º A edulcoração de um vinho verde só pode ser autorizada se for efectuada com um mosto de uvas, ou um mosto de uvas concentrado, ou um mosto de uvas concentrado e rectificado originários da Região Demarcada.
+Art. 7.º A edulcoração de um vinho verde só pode ser autorizada se for efectuada com um mosto de uvas, ou um mosto de uvas concentrado, ou um mosto de uvas concentrado e rectificado originários da Região Demarcada.
 
-###### Art. 8.º As unidades de concentração ou de concentração e rectificação a instalar na área geográfica da Região Demarcada dos Vinhos Verdes ficam sujeitas a licenciamento pelos serviços do Ministério da Indústria e Energia, carecendo de parecer prévio favorável da Comissão de Viticultura da Região dos Vinhos Verdes.
+Art. 8.º As unidades de concentração ou de concentração e rectificação a instalar na área geográfica da Região Demarcada dos Vinhos Verdes ficam sujeitas a licenciamento pelos serviços do Ministério da Indústria e Energia, carecendo de parecer prévio favorável da Comissão de Viticultura da Região dos Vinhos Verdes.
 
-###### Art. 9.º É da competência da Comissão de Viticultura da Região dos Vinhos Verdes a verificação do cumprimento do disposto no presente decreto-lei.
+Art. 9.º É da competência da Comissão de Viticultura da Região dos Vinhos Verdes a verificação do cumprimento do disposto no presente decreto-lei.
 
-###### Art. 10.º A Comissão de Viticultura da Região dos Vinhos Verdes elaborará um regulamento sobre a matéria constante deste decreto-lei, que submeterá, no prazo de 90 dias, à apreciação do Ministro da Agricultura, Florestas e Alimentação.
+Art. 10.º A Comissão de Viticultura da Região dos Vinhos Verdes elaborará um regulamento sobre a matéria constante deste decreto-lei, que submeterá, no prazo de 90 dias, à apreciação do Ministro da Agricultura, Florestas e Alimentação.
 
-###### Art. 11.º As contra-ordenações que se verifiquem constarão de autos a remeter à Direcção-Geral de Fiscalização Económica para elaboração dos respectivos processos.
+Art. 11.º As contra-ordenações que se verifiquem constarão de autos a remeter à Direcção-Geral de Fiscalização Económica para elaboração dos respectivos processos.
 
-###### Art. 12.º As contra-ordenações e as coimas a aplicar regem-se pelo disposto no [Decreto-Lei n.º 191/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1983-451623), de 16 de Maio.
+Art. 12.º As contra-ordenações e as coimas a aplicar regem-se pelo disposto no [Decreto-Lei n.º 191/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1983-451623), de 16 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Manuel José Dias Soares Costa.
 
-**Promulgado em 12 de Novembro de 1983.**
+Promulgado em 12 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Novembro de 1983.**
+Referendado em 14 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

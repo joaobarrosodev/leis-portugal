@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/12600/13131317.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1986-226855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 293bd8d4c8665bef9a041cd4f16cb2d02f77a91b4dbd11acf1e172f872931246
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d4518934ec166e77d2e0728ffdfb2160339780baa3bd049ce6a20e221c31dd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Fiscalização
+- Higiene Corporal
+- Produto Cosmetico
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:245368:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658228:por
+  label: "Alterados os artigos 2.º, 3.º, 4.º e 6.º, pelo DEC LEI.207/91.07.06.1991.MS, DR.IS-A [130] de 07.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1991-658228
+  date: '1991-06-07'
+- type: corrected_by
+  target: pt:dre:301057:por
+  label: Rectificado pela DECL.DD4694.14.07.1986.PCM, DR.IS [174]2ºSupl de 31.07.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301057
+  date: '1986-07-14'
+- type: repealed_by
+  target: pt:dre:245368:por
+  label: "Revogado pelo DEC LEI.296/98.1998.09.25.MS DR.IS-A [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1998-245368
+  date: '1998-09-25'
 article_structure:
   article_count: 26
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:59Z'
   warnings: []
   errors: []
 ---
@@ -305,15 +325,15 @@ Fica revogado o Decreto-Lei n.º 375/72, de 3 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 1986. - Aníbal António Cavaco Silva - Fernando Augusto dos Santos Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 15 de Maio de 1986.**
+Promulgado em 15 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Maio de 1986.**
+Referendado em 21 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO PREVISTO NO ARTIGO 1.º — Lista indicativa por categorias de produtos cosméticos e de higiene corporal
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16200/26092609.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1983-453794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11ee0f2743d4df94df49f6a34e76164b392d87bd5117e4392710921c6f02f909
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcbbbd57578eb93c7ef2d3fc001dd1422d47ec2ebfb9160b352406988984ba4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Cooperativo
+- Cooperativa
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:630631:por
+  label: "Prorrogado até 31 de Dezembro de 1984, o prazo de adaptação das cooperativas de 1º grau e de grau superior ao Código\
+    \ Cooperativo, aprovado pelo Dec Lei 454/80 de 09-Out, a que se refere o art. 98º, na redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.462/83.1983.12.31.PCM, DR.IS [301]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/462-1983-630631
+  date: '1983-12-31'
+- type: amended_by
+  target: pt:dre:660931:por
+  label: "Prorrogado, até 31 de Dezembro de 1984, o prazo de adaptação das cooperativas de 1º grau e grau superior ao Código\
+    \ Cooperativo, aprovado pelo Dec Lei 454/80 de 09-Out, na redacção dada pelo presente diploma, pelo DEC LEI.36/84.1984.02.01.PCM,\
+    \ DR.IS [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1984-660931
+  date: '1984-02-01'
+- type: amended_by
+  target: pt:dre:396478:por
+  label: "Prorrogado até 31 de Dezembro de 1985, o prazo de adaptação das cooperativas de 1º grau e de grau superior ao Código\
+    \ Cooperativo, aprovado pelo Dec Lei 454/80 de 09-Out, a que se refere o art. 98º, na redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.395/84.1984.12.27.PCM, DR.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/395-1984-396478
+  date: '1984-12-27'
+- type: amended_by
+  target: pt:dre:193611:por
+  label: "Prorrogado, até 30 de Junho de 1986, o prazo de adaptação das cooperativas de 1º grau e grau superior ao Código\
+    \ Cooperativo, aprovado pelo Dec Lei 454/80 de 09-Out, a que se refere o art. 98º, na redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.42/86.1986.03.06.MPAT, DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1986-193611
+  date: '1986-03-06'
+- type: amended_by
+  target: pt:dre:221370:por
+  label: "Alterado o art. 98º do Código Cooperativo, aprovado pelo Dec Lei 454/80 de 09-Out, na redacção dada pelo presente\
+    \ diploma, pelo DEC LEI.399/86.1986.11.27.MPAT, DR.IS [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-1986-221370
+  date: '1986-11-27'
+- type: cites
+  target: pt:dre:312427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676035:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:01Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +147,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 98.º do Código Cooperativo passa a ter a seguinte redacção:
+Artigo único. O artigo 98.º do Código Cooperativo passa a ter a seguinte redacção:
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 (Adaptação das cooperativas existentes)
 
@@ -118,12 +167,12 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos.
 
-**Promulgado em 1 de Julho de 1983.**
+Promulgado em 1 de Julho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Julho de 1983.**
+Referendado em 6 de Julho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

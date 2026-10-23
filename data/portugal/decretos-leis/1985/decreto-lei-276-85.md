@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16300/21132114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1985-183592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30d86ef2c5ec18776084809e8dee724f56c3cbdc79dc7f42566f059be2d3dc73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2602e8b6a45c07970642c9f2f2c5bec4ebdea5671cc6a9b3e14461017bfe6b5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Gestão Integrada da Bacia Hidrográfica do RIO AVE
+- Orgânica
+- Poluição
+- Primeiro-ministro
+- Proteção do Ambiente
+- RIO AVE
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2938212:por
+  label: "Alterado o presente diploma, pelo DESP.157/86.20.11.1986.SEARN-MPAT, DR.IIS [268] de 20.11.1986\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/157-1986-2938212
+  date: '1986-11-20'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:18Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +116,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada, na dependência do Primeiro-Ministro, a Comissão de Gestão Integrada da Bacia Hidrográfica do Ave, adiante designada por Comissão, que funcionará pelo período de 5 anos.
+Artigo 1.º - 1 - É criada, na dependência do Primeiro-Ministro, a Comissão de Gestão Integrada da Bacia Hidrográfica do Ave, adiante designada por Comissão, que funcionará pelo período de 5 anos.
 
 2 - A Comissão será composta por:
 
@@ -120,7 +136,7 @@ g) Um representante do Ministério do Equipamento Social;
 
 h) Dois representantes das autarquias locais servidas pela bacia hidrográfica do rio Ave a designar conjuntamente pelas Câmaras Municipais de Fafe, Guimarães, Póvoa de Lanhoso, Santo Tirso, Vieira do Minho, Vila do Conde e Vila Nova de Famalicão.
 
-###### Art. 2.º Junto da Comissão funcionará um conselho técnico e consultivo com a composição seguinte:
+Art. 2.º Junto da Comissão funcionará um conselho técnico e consultivo com a composição seguinte:
 
 a) Um representante do Ministério do Comércio e Turismo;
 
@@ -138,26 +154,26 @@ g) Um representante da Associação Industrial Portuense;
 
 h) Um representante da Associação Industrial do Minho.
 
-###### Art. 3.º - 1 - À Comissão compete estudar, planear, determinar e fazer executar todas as acções e medidas, imediatas e a médio prazo, necessárias à boa administração e utilização dos recursos da bacia hidrográfica do rio Ave, designadamente visando a sua despoluição.
+Art. 3.º - 1 - À Comissão compete estudar, planear, determinar e fazer executar todas as acções e medidas, imediatas e a médio prazo, necessárias à boa administração e utilização dos recursos da bacia hidrográfica do rio Ave, designadamente visando a sua despoluição.
 
 2 - A Comissão delibera nos termos e condições previstos na lei para as reuniões ordinárias dos órgãos das autarquias locais, e, em caso de empate, o coordenador previsto na alínea a) do n.º 2 do artigo 1.º terá voto de qualidade.
 
-###### Art. 4.º - 1 - O Conselho Técnico e Consultivo prestará à Comissão o apoio técnico de que a mesma careça e elaborará, por sua iniciativa ou a pedido daquela, pareceres e propostas sobre as matérias que lhe estão confiadas.
+Art. 4.º - 1 - O Conselho Técnico e Consultivo prestará à Comissão o apoio técnico de que a mesma careça e elaborará, por sua iniciativa ou a pedido daquela, pareceres e propostas sobre as matérias que lhe estão confiadas.
 
 2 - Os departamentos e serviços do Estado, incluindo os personalizados, as autarquias locais interessadas e as empresas públicas colaborarão com a Comissão, dentro das suas possibilidades e disponibilidades, na realização das tarefas que lhe são cometidas.
 
-###### Art. 5.º A Comissão funcionará provisoriamente em instalações cedidas pela Câmara Municipal de Santo Tirso.
+Art. 5.º A Comissão funcionará provisoriamente em instalações cedidas pela Câmara Municipal de Santo Tirso.
 
-###### Art. 6.º Das deliberações da Comissão cabe recurso para o Primeiro-Ministro, a interpor pelos interessados no prazo de 10 dias.
+Art. 6.º Das deliberações da Comissão cabe recurso para o Primeiro-Ministro, a interpor pelos interessados no prazo de 10 dias.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - António Manuel Maldonado Gonelha - Carlos Alberto Antunes Filipe - José Veiga Simão - Joaquim Martins Ferreira do Amaral - Carlos Montez Melancia - Júlio Miranda Calha.
 
-**Promulgado em 5 de Julho de 1985.**
+Promulgado em 5 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Julho de 1985.**
+Referendado em 11 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

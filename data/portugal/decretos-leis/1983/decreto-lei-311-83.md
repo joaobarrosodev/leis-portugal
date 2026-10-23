@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/14900/23952396.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1983-452679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 571a1277acaa648d9450e9bf0bddfeb4da6eaf4b584642f7c33cd93a3c818631
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f49ea1da2112e1a80c0a64ca3845449ce511671537f7aa48df90eacef1e12b88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Cofre Geral dos Tribunais
+- Custas Judiciais
+- Gabinete de Gestão Financeira
+- Ministério da Justiça
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:475299:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:39Z'
   warnings: []
   errors: []
 ---
@@ -99,22 +113,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O disposto no artigo 254.º do Código das Custas Judiciais é aplicável aos serviços dependentes do Ministério da Justiça autorizados por lei ou por despacho do Ministro a arrecadar receitas próprias e, por força destas, a efectuar despesas.
+Artigo 1.º - 1 - O disposto no artigo 254.º do Código das Custas Judiciais é aplicável aos serviços dependentes do Ministério da Justiça autorizados por lei ou por despacho do Ministro a arrecadar receitas próprias e, por força destas, a efectuar despesas.
 
 2 - As receitas próprias cobradas pelos serviços referidos no número anterior revertem para o Cofre Geral dos Tribunais.
 
 3 - O disposto nos números anteriores não tem aplicação aos serviços que forneçam mão-de-obra remunerada ou que produzam bens ou mercadorias para outros serviços do Estado ou para venda ao público.
 
-###### Art. 2.º Este diploma entra em vigor no dia 1 de Janeiro de 1984, mas os serviços elaborarão até 15 de Novembro do ano corrente o seu orçamento de despesas para o ano seguinte e remetê-lo-ão ao Gabinete de Gestão Financeira do Ministério da Justiça.
+Art. 2.º Este diploma entra em vigor no dia 1 de Janeiro de 1984, mas os serviços elaborarão até 15 de Novembro do ano corrente o seu orçamento de despesas para o ano seguinte e remetê-lo-ão ao Gabinete de Gestão Financeira do Ministério da Justiça.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

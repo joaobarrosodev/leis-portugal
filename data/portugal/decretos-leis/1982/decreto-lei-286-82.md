@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1982-394286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9372cba9c4c6165244cb5e55a47daa6e15102d80e20eef708c5a113f0d19d68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25da5e26b945a7a1300ae291b2b07bff1f346f3609a65b09941ea755be66cdaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:27Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +100,9 @@ Considerando, por outro lado, que a especificidade do desempenho das funções d
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O § 2.º do artigo 212.º e o corpo do artigo 214.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
+Artigo 1.º O § 2.º do artigo 212.º e o corpo do artigo 214.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
 
-###### Art. 212.º ...
+Art. 212.º ...
 
 § 1.º ...
 
@@ -103,14 +110,14 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 214.º A substituição das praças requisitadas para o serviço referido nos artigos antecedentes far-se-á parcialmente, com a frequência necessária ao eficaz desempenho do mesmo serviço, devendo ser de 3 anos a periodicidade mínima da sua prestação, salvo se os directores das alfândegas solicitarem a sua substituição por carência dos requisitos indispensáveis ao bom desempenho da função.
+Art. 214.º A substituição das praças requisitadas para o serviço referido nos artigos antecedentes far-se-á parcialmente, com a frequência necessária ao eficaz desempenho do mesmo serviço, devendo ser de 3 anos a periodicidade mínima da sua prestação, salvo se os directores das alfândegas solicitarem a sua substituição por carência dos requisitos indispensáveis ao bom desempenho da função.
 
 § único ...
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 14 de Julho de 1982.**
+Promulgado em 14 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

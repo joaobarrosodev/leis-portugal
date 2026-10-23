@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1986-221116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ed94807ec4573591aeb15fc79d0b73e632530f3a880a2c77b4d52afa90d319e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddab1cf6c9b154851aad7b3b1f62b195cb2fccf0c884a5716cb02a4a5e9d6ec8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acumulação de Funções
+- Ensino Superior
+- Horário de Trabalho
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:32Z'
   warnings: []
   errors: []
 ---
@@ -96,24 +112,24 @@ Considerando que o tempo genericamente previsto para preparação e obtenção d
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A acumulação de funções docentes por parte dos professores do ensino superior público em regime de tempo integral, referido no artigo 71.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com a redacção dada pelo artigo 1.º da [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e no artigo 34.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, com o exercício de funções docentes do ensino superior particular e cooperativo só é permitida desde que a soma das horas semanais de serviço em aulas ou seminários resultante daquela acumulação não ultrapasse o máximo de doze horas.
+Artigo 1.º - 1 - A acumulação de funções docentes por parte dos professores do ensino superior público em regime de tempo integral, referido no artigo 71.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com a redacção dada pelo artigo 1.º da [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e no artigo 34.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, com o exercício de funções docentes do ensino superior particular e cooperativo só é permitida desde que a soma das horas semanais de serviço em aulas ou seminários resultante daquela acumulação não ultrapasse o máximo de doze horas.
 
 2 - No ano lectivo de 1986-1987 o limite máximo referido no número anterior será de dezasseis horas.
 
 3 - Para os anos lectivos de 1987-1988 e 1988-1989 o limite máximo referido no n.º 1 deste artigo é de catorze horas.
 
-###### Art. 2.º Não é permitida a acumulação de funções docentes no ensino superior particular e cooperativo por parte de professores do ensino superior público que se encontrem em qualquer das situações previstas no artigo 77.º do Estatuto da Carreira Docente Universitária e no artigo 36.º do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico.
+Art. 2.º Não é permitida a acumulação de funções docentes no ensino superior particular e cooperativo por parte de professores do ensino superior público que se encontrem em qualquer das situações previstas no artigo 77.º do Estatuto da Carreira Docente Universitária e no artigo 36.º do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico.
 
-###### Art. 3.º A infracção ao disposto no presente diploma, para além de originar procedimento disciplinar, poderá determinar a reposição das remunerações auferidas no ensino superior público, a qual será determinada, caso a caso, por despacho dos Ministros das Finanças e da Educação e Cultura.
+Art. 3.º A infracção ao disposto no presente diploma, para além de originar procedimento disciplinar, poderá determinar a reposição das remunerações auferidas no ensino superior público, a qual será determinada, caso a caso, por despacho dos Ministros das Finanças e da Educação e Cultura.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 25 de Outubro de 1986.**
+Promulgado em 25 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1986.**
+Referendado em 28 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva

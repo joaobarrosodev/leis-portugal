@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1984-385043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2968d45d298ff2ed441a1febc1863af4ffbf2a0ce5ca93b4a42394dbce027f02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baba912e406f56c2550f710989113d2005ef5cc718f9a4ab91f1af36e8526caf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Portuguesa de Pesca
+- Extinção de Empresas
 relationships:
 - type: amended_by
   target: pt:dre:611075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611075:por
+  label: "Revogado o art. 2º pelo DEC LEI.161/89.13.05.1989.MF, DR.IS [110] de 13.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1989-611075
+  date: '1989-05-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:56Z'
   warnings: []
   errors: []
 ---
@@ -112,19 +123,19 @@ Assim, visto o disposto nos artigos 1.º, n.º 2, e 38.º do [Decreto-Lei n.º 2
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a CPP - Companhia Portuguesa de Pescas, S. A. R. L., adiante designada por CPP.
+Artigo 1.º - 1 - É extinta a CPP - Companhia Portuguesa de Pescas, S. A. R. L., adiante designada por CPP.
 
 2 - A CPP mantém a sua personalidade jurídica para os efeitos de liquidação até à aprovação final das contas apresentadas pelos liquidatários.
 
-###### Art. 2.º Por despacho conjunto dos Ministros das Finanças e do Plano e do Mar será nomeada, no prazo de 5 dias, a contar da data de publicação do presente diploma, uma comissão liquidatária constituída por 1 presidente e 2 vogais.
+Art. 2.º Por despacho conjunto dos Ministros das Finanças e do Plano e do Mar será nomeada, no prazo de 5 dias, a contar da data de publicação do presente diploma, uma comissão liquidatária constituída por 1 presidente e 2 vogais.
 
-###### Art. 3.º A partir da entrada em vigor deste diploma:
+Art. 3.º A partir da entrada em vigor deste diploma:
 
 1) É fixado em 1 mês o período durante o qual os credores da CPP residentes no País podem reclamar os seus créditos, podendo fazê-lo na sede da CPP - Edifício dos Armadores, portas 4, 5 e 6, Doca de Pesca, Pedrouços, 1400 Lisboa;
 
 2) É fixado em 2 meses o prazo para os credores não residentes no País reclamarem os seus créditos, podendo fazê-lo na sede da CPP ou por intermédio de qualquer representação diplomática de Portugal.
 
-###### Art. 4.º A partir da data de extinção:
+Art. 4.º A partir da data de extinção:
 
 1) Consideram-se encerradas todas as contas correntes e vencidas todas as dívidas e cessa a contagem dos respectivos juros;
 
@@ -138,7 +149,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6) A extinção da CPP não implicará a resolução automática dos demais contratos celebrados pela mesma; no entanto, a comissão liquidatária poderá rescindir unilateralmente qualquer contrato se tal for julgado mais conveniente para a massa em liquidação, devendo, neste caso, notificar o outro contratante, a quem fica reservado o direito de exigir à massa em liquidação, na fase de verificação, a indemnização pelos danos efectivamente sofridos.
 
-###### Art. 5.º - 1 - Ao abrigo do n.º 2 do artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Estado reserva, do património da empresa, o seguinte:
+Art. 5.º - 1 - Ao abrigo do n.º 2 do artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Estado reserva, do património da empresa, o seguinte:
 
 1.º - Navios:
 
@@ -176,22 +187,22 @@ m) Aljezur - Lx-63-A.
 
 4 - Feita a afectação, os bens por ela abrangidos considerar-se-ão na titularidade e propriedade das respectivas empresas, cabendo a estas a obrigação de pagar ao Estado o correspondente valor que por ele for devido à massa em liquidação.
 
-###### Art. 6.º Os registos referentes aos direitos reais de garantia que onerem os bens da CPP serão cancelados oficiosa e gratuitamente em face dos documentos que titularem a transmissão desses bens.
+Art. 6.º Os registos referentes aos direitos reais de garantia que onerem os bens da CPP serão cancelados oficiosa e gratuitamente em face dos documentos que titularem a transmissão desses bens.
 
-###### Art. 7.º O presente diploma será regulamentado por portaria dos Ministros das Finanças e do Plano e do Mar.
+Art. 7.º O presente diploma será regulamentado por portaria dos Ministros das Finanças e do Plano e do Mar.
 
-###### Art. 8.º Em tudo o que não contrarie o disposto no presente diploma e respectiva regulamentação, aplicam-se subsidiariamente as regras do Código de Processo Civil, com as necessárias adaptações, referentes à liquidação em benefício de credores.
+Art. 8.º Em tudo o que não contrarie o disposto no presente diploma e respectiva regulamentação, aplicam-se subsidiariamente as regras do Código de Processo Civil, com as necessárias adaptações, referentes à liquidação em benefício de credores.
 
-###### Art. 9.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 9.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 
-**Promulgado em 26 de Abril de 1984.**
+Promulgado em 26 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Abril de 1984.**
+Referendado em 26 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

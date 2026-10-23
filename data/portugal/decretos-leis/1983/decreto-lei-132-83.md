@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91b70656d97a71d30b5e25ebcdb95d5249b799faac91fd1f2d2a4707b7b66826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4540f8a3b1e1c89cb88745c43306c779758001b3210ac74e899c1c0cb0baa3a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Desenvolvimento Regional
+- Financiamento
+- Incentivos Fiscais
+- Indústria Mineira
+- Indústria Transformadora
+- Sistema Integrado de Incentivos ao Investimento
 relationships:
 - type: amended_by
   target: pt:dre:146039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451872:por
+  label: "Dada nova redacção à rubrica CAE ex 3610.1.0 do anexo III ao presente diploma, pela PORT.648/83.07.06.1983.MFP,\
+    \ DR.IS [130] de 07.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/648-1983-451872
+  date: '1983-06-07'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473291:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316324:por
+  label: Rectificado pela DECL.DD5782.27.06.1983.PCM, DR.IS [148-2.º Supl] de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316324
+  date: '1983-06-27'
+- type: repealed_by
+  target: pt:dre:661163:por
+  label: "Revogado pelo Decreto-Lei n.º 197-C/86, de 18 de Julho, DR.IS [163]Supl, com excepção do art. 3.º e cap. VI e VIII,\
+    \ bem como de todas as disposições, ou parte delas, que revelem para a matéria tratada nos mesmos e apenas para os seus\
+    \ fins.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-c-1986-661163
+  date: '1986-07-18'
+- type: repealed_by
+  target: pt:dre:219119:por
+  label: "Revogado, no que respeita às excepções consagradas no Decreto-Lei n.º 197-C/86, de 18 de Julho (crédito fiscal por\
+    \ investimento), pelo DEC LEI.251/86.25.08.1986.MIC, DR.IS [194] de 25.08.1986\086\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1986-219119
+  date: '1986-08-25'
 article_structure:
   article_count: 74
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:43Z'
   warnings: []
   errors: []
 ---
@@ -264,7 +319,7 @@ h) Dedução ao rendimento global líquido determinado para efeitos do imposto c
 
 3 - A correspondência entre a pontuação final P e as classes de incentivos fiscais, constantes do mapa referido no número anterior, obedecerá à seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
 
 4 - A concessão dos incentivos fiscais previstos na alínea c) do n.º 1 produzirá efeitos a partir do exercício social em que se verificar o início da fase de exploração, ou a partir do exercício seguinte, consoante a fase de exploração se incie no 1.º semestre ou no 2.º semestre do ano.
 
@@ -874,21 +929,21 @@ Sem prejuízo do disposto no artigo 70.º, é revogado o [Decreto-Lei n.º 194/8
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Basílio Adolfo Mendonça Horta da Franca - Ricardo Manuel Simões Bayão Horta - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 ## ANEXO I — Valor dos parâmetros a utilizar no cálculo do valor líquido actualizado a preços constantes de eficiência económica
 
 (Artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
 
 ## ANEXO II
 
@@ -896,13 +951,13 @@ Formulário e regras de cálculo referentes aos regimes, geral de incentivos fis
 
 (Artigos 6.º, 7.º, 8.º, 12.º e 17.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
 
 ## ANEXO III — Graduação de actividade a que se refere o n.º 2 do artigo 9.º
 
 (A) Sectores de actividade com prioridade sectorial P(índice 2) = 10:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
 
 (B) Sectores de actividade com prioridade sectorial P(índice 2) = 5:
 
@@ -910,20 +965,20 @@ Os sectores não incluídos em (A) ou (C).
 
 (C) Sectores de actividade com prioridade sectorial P(índice 2) = 0:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
 
 ## ANEXO IV — Zonas a que se referem os artigos 9.º, 16.º, 17.º e 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
 
 ## ANEXO V — Distribuição dos incentivos fiscais por classes
 
 (Artigo 11.º, n.º 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
 
 ## ANEXO VI — Formulário e regras de cálculo referentes ao regime extraordinário de dotações de capital
 
 (Artigo 21.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)

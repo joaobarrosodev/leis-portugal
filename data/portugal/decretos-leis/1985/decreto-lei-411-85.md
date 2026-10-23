@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1985-178334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4df58fcd28fef8ae2b3c96cd5210b91b77b560b9f0888e45c7fdb02c88e1c084
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14c999ca0e6c836feacdb1fc742870ac94c20c5c91b0f1025541905c43c75e4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Educação Física
+- Equiparação de Cursos
+- Instituto Superior de Educação Física
+- Lisboa
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:43Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +104,7 @@ Assim, e para que seja definitivamente encerrada esta questão, ouvidas previame
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Ao artigo 21.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro, são aditados os n.os 6 e 7, com a seguinte redacção:
+Artigo único. Ao artigo 21.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro, são aditados os n.os 6 e 7, com a seguinte redacção:
 
 6 - Os equiparados a bacharéis em Educação Física que pretendam obter o grau de licenciado em Educação Física ficarão sujeitos à frequência e aprovação num plano e regime de estudos a fixar para cada instituto pelo respectivo conselho científico.
 
@@ -103,12 +112,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

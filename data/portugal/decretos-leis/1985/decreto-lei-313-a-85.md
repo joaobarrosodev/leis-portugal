@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 174/1985, 1º Suplemento, Série I de 1985-07-31
   number: '174'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2296-(1) a 2296-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/17401/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-a-1985-649917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a83fc8e8a38e746ba0027cc66bc438e9bcfb79ea049615fa35fc131cbfe9e133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4852b4600dc76fe686e8f17233f234b6265965df03619436c1b45554527c7e10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Processo Civil
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583199:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:55Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +111,16 @@ Considerando a necessidade de garantir a atempada entrada em vigor do disposto n
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. o artigo 144.º do Código de Processo Civil, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 242/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1985-182662), de 9 de Julho, entra em vigor em 1 de Agosto de 1985, para efeitos do disposto na [Lei n.º 14/79](https://diariodarepublica.pt/dr/detalhe/lei/14-1979-382590), de 16 de Maio, e na [Lei n.º 14-A/85](https://diariodarepublica.pt/dr/detalhe/lei/14-a-1985-583199), de 10 de Julho.
+Artigo único. o artigo 144.º do Código de Processo Civil, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 242/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1985-182662), de 9 de Julho, entra em vigor em 1 de Agosto de 1985, para efeitos do disposto na [Lei n.º 14/79](https://diariodarepublica.pt/dr/detalhe/lei/14-1979-382590), de 16 de Maio, e na [Lei n.º 14-A/85](https://diariodarepublica.pt/dr/detalhe/lei/14-a-1985-583199), de 10 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Helena de Melo Torres Marques - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 31 de Julho de 1985.**
+Promulgado em 31 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António RAMALHO EANES.**
+O Presidente da República, António RAMALHO EANES.
 
-**Referendado em 31 de Julho de 1985.**
+Referendado em 31 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

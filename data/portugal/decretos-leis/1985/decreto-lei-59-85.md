@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1985-326324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 909fc565e53f2c29425de95f022b7ac827a8251c8f1abe1814d2a27fdb68afc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7b0a26a5a9223d77f1235562d69b5f41fb81d43e5bbc48bd213afa4f400a196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Fabrico Industrial
+- Margarina
+- Prazo de Validade
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:275669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:422593:por
+  label: Rectificado pela DECL.DD4896.30.04.1985.PCM, DR.IS [99(SUPL)] de 30.04.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-422593
+  date: '1985-04-30'
+- type: repealed_by
+  target: pt:dre:522852:por
+  label: "Revogado pelo DEC LEI.32/94.1994.02.05.MA, DR.IS-A [30], na data da entrada em vigor da regulamentação prevista\
+    \ no seu art. 3º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-1994-522852
+  date: '1994-02-05'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:52Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +153,13 @@ A violação das disposições do presente diploma não é expressamente conside
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Âmbito de aplicação
 
 O estabelecido no presente diploma destina-se a regular o fabrico e a comercialização de margarina.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Normas obrigatórias
 
@@ -120,7 +171,7 @@ Normas obrigatórias
 
 4 - A preparação das amostras para laboratório deverá ser a descrita na NP-896.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Rotulagem
 
@@ -130,19 +181,19 @@ a) A margarina fabricada com gorduras e óleos de origem exclusivamente vegetal 
 
 b) Têm de figurar as condições particulares de conservação, nomeadamente a menção «Conservar no frio», quando tal se torne necessário para assegurar uma adequada garantia das suas características.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Conservação
 
 Na venda de margarinas a conservar no frio ou em determinadas condições de humidade, os fabricantes poderão exigir do comerciante prévia comprovação da existência de adequadas condições de conservação para transporte e armazenagem.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Período de validade
 
 Mediante portaria do Secretário de Estado do Comércio e Indústria Agrícolas, poderá vir a ser fixado o período de validade para a margarina.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Quantidade líquida
 
@@ -152,7 +203,7 @@ Quantidade líquida
 
 2 - Sem prejuízo do disposto no número anterior, podem ser utilizadas embalagens com quantidades líquidas inferiores a 125 g, desde que se indique no rótulo, por qualquer forma, que as mesmas foram fornecidas gratuitamente e não se destinam, por isso, a ser comercializadas.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Legislação revogada
 
@@ -168,7 +219,7 @@ d) [Decreto n.º 416/71](https://diariodarepublica.pt/dr/detalhe/decreto/416-197
 
 e) N.os 7.º e 8.º da [Portaria n.º 331-G/81](https://diariodarepublica.pt/dr/detalhe/portaria/331-g-1981-275669), de 6 de Abril.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Entrada em vigor
 
@@ -176,17 +227,17 @@ O presente diploma entra em vigor no dia 23 de Março de 1985.
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral - Francisco José de Sousa Tavares.
 
-**Promulgado em 14 de Fevereiro de 1985.**
+Promulgado em 14 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Fevereiro de 1985.**
+Referendado em 18 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf))](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf)
 
 1 - Objectivo:
 
@@ -296,11 +347,11 @@ As características e respectivos limites da margarina, bem como da matéria gor
 
 QUADRO 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf))](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf)
 
 QUADRO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf))](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/05800/06100613.pdf)
 
 6 - Acondicionamento:
 

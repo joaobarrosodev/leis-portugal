@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24500/35193525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1985-178087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56efa48d35fe47388e9fceccc4fe719d5fd2688aff1adf038517773c891f0844
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55361b46ba62e7978f70da7e9999af0cc9334f1b73916dcdcff2208f93856181
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Saúde
+- Orgânica
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:325897:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222375:por
+  label: Alterados os arts. 28.º e 36.º, aditado o art. 39.º-A e substituído o quadro de pessoal a que se refere o art. 27.º
+    pelo DEC LEI.350/86.18.10.1986.MS, DR.IS [241] de 18.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/350-1986-222375
+  date: '1986-10-18'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:325897:por
+  label: Revogado o presente diploma pelo(a) Decreto-Lei n.º 295/93 - Diário da República n.º 199/1993, Série I-A de 1993-08-25,
+    que manteve em vigor, transitoriamente, nos termos do disposto no n.º 1 do art. 10.º, o quadro de pessoal anexo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-1993-325897
+  date: '1993-08-25'
 article_structure:
   article_count: 43
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:11Z'
   warnings: []
   errors: []
 ---
@@ -595,16 +634,16 @@ Considera-se prorrogado o regime de instalação dos Serviços Sociais desde o d
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha.
 
-**Promulgado em 10 de Outubro de 1985.**
+Promulgado em 10 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Outubro de 1985.**
+Referendado em 14 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro de pessoal a que se refere o artigo 27.º do Decreto-Lei n.º 439/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24500/35193525.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24500/35193525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24500/35193525.pdf)

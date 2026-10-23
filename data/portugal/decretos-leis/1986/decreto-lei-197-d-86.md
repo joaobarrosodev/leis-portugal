@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 163/1986, 1º Suplemento, Série I de 1986-07-18
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1774-(6) a 1774-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/16301/00060009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-d-1986-661164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76f7c3f9675e35ea2383af62837afb9132281568fad1abbe76e882300b9ccbd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c496e8addf8e3da3ce804775d8a678415b1c5dfbe00154de21c08c6774819e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Investimentos Estrangeiros
+- Investimento Estrangeiro
 relationships:
 - type: amended_by
   target: pt:dre:626592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626592:por
+  label: "Revogado pelo DEC LEI.321/95.1995.11.28.MCT, DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1995-626592
+  date: '1995-11-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:27Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +133,9 @@ Em conjunto com este decreto-lei publica-se o [Decreto Regulamentar n.º 24/86](
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As operações de investimento estrangeiro em Portugal devem subordinar-se aos princípios informadores do Estado em matéria de política económica, à lei geral do País, ao ordenamento jurídico decorrente do Tratado de Adesão de Portugal às Comunidades Europeias e às regras constantes deste decreto-lei e da legislação complementar.
+Artigo 1.º As operações de investimento estrangeiro em Portugal devem subordinar-se aos princípios informadores do Estado em matéria de política económica, à lei geral do País, ao ordenamento jurídico decorrente do Tratado de Adesão de Portugal às Comunidades Europeias e às regras constantes deste decreto-lei e da legislação complementar.
 
-###### Art. 2.º - 1 - Operações de investimento estrangeiro são os actos que têm por objecto, ou de que pode resultar, quanto a uma empresa constituída ou a constituir em Portugal, a criação de laços económicos estáveis e duradouros, de que resulte directa ou indirectamente, isolada ou cumulativamente, a obtenção ou o reforço de efectivo poder de decisão, se praticados por ou com a intervenção de:
+Art. 2.º - 1 - Operações de investimento estrangeiro são os actos que têm por objecto, ou de que pode resultar, quanto a uma empresa constituída ou a constituir em Portugal, a criação de laços económicos estáveis e duradouros, de que resulte directa ou indirectamente, isolada ou cumulativamente, a obtenção ou o reforço de efectivo poder de decisão, se praticados por ou com a intervenção de:
 
 a) Pessoas singulares ou colectivas não residentes;
 
@@ -114,7 +145,7 @@ b) Empresas portuguesas ou estabelecidas em Portugal que, por via de participaç
 
 3 - Os emigrantes portugueses são considerados residentes em Portugal para efeitos deste decreto-lei e da legislação complementar.
 
-###### Art. 3.º - 1 - Nos termos e para os efeitos do artigo 2.º, são operações de investimento estrangeiro, designadamente, os seguintes actos e contratos, ainda que não directamente associados a operações de importação de capitais:
+Art. 3.º - 1 - Nos termos e para os efeitos do artigo 2.º, são operações de investimento estrangeiro, designadamente, os seguintes actos e contratos, ainda que não directamente associados a operações de importação de capitais:
 
 a) Criação e ampliação de sucursais, de outras formas de representação social de empresas, com sede no estrangeiro, ou de novas empresas exclusivamente pertencentes ao investidor, e aquisição integral ou parcial de empresas já existentes;
 
@@ -132,7 +163,7 @@ g) Realização de prestações suplementares de capital, adiantamentos de sóci
 
 2 - As aquisições de bens imóveis situados em território nacional, efectuadas por entidades não residentes, que se integrem em projectos de investimento, seguem a disciplina jurídica das operações de investimento estrangeiro.
 
-###### Art. 4.º - 1 - Os actos de investimento estrangeiro que impliquem operações cambiais podem ser efectuados, com observância dos regulamentos em vigor sobre essas operações por:
+Art. 4.º - 1 - Os actos de investimento estrangeiro que impliquem operações cambiais podem ser efectuados, com observância dos regulamentos em vigor sobre essas operações por:
 
 a) Transferência de fundos do estrangeiro;
 
@@ -146,7 +177,7 @@ e) Incorporação de tecnologias.
 
 2 - Nas operações de investimento estrangeiro a que estejam associadas operações cambiais, a entidade competente obterá, quanto a estas, o parecer vinculativo do Banco de Portugal. A falta de emissão do parecer no prazo de um mês, a contar da recepção do respectivo pedido, implica a concordância tácita do Banco.
 
-###### Art. 5.º - 1 - As operações de investimento estrangeiro em Portugal estão sujeitas ao regime de declaração prévia, salvo as que forem objecto de contrato de investimento, que se regem por decreto regulamentar.
+Art. 5.º - 1 - As operações de investimento estrangeiro em Portugal estão sujeitas ao regime de declaração prévia, salvo as que forem objecto de contrato de investimento, que se regem por decreto regulamentar.
 
 2 - A cessão, entre não residentes, de participações de sociais, de posições contratuais ou de situações jurídicas integradas em operações de investimento estrangeiro está igualmente sujeita ao regime de declaração prévia.
 
@@ -158,7 +189,7 @@ b) As operações referidas no n.º 2 deste artigo, desde que quer o cedente que
 
 4 - As operações mencionadas no número anterior ficam sujeitas às suas regulamentações específicas e ainda a registo na entidade competente, devendo ser-lhe comunicadas no prazo de 30 dias.
 
-###### Art. 6.º Os trâmites fundamentais do regime de declaração prévia são os seguintes:
+Art. 6.º Os trâmites fundamentais do regime de declaração prévia são os seguintes:
 
 a) Antes de iniciar quaisquer operações, o investidor apresenta à entidade competente o projecto de investimento instruído com todos os documentos e informações necessárias e úteis;
 
@@ -168,7 +199,7 @@ c) A falta dessa decisão, comunicada ao interessado dentro do referido prazo, c
 
 d) Durante o prazo de exame, a entidade competente pode autorizar o investidor estrangeiro, a pedido e a risco dele, a realizar actos urgentes e inadiáveis respeitantes ao projecto de investimento.
 
-###### Art. 7.º - 1 - A entidade competente só pode recusar liminarmente os projectos de investimento que sejam inviáveis, por motivos de ordem legal ou técnica, e os projectos deficientemente organizados, podendo estes ser corrigidos ou completados nos prazos e nas condições que forem estabelecidos.
+Art. 7.º - 1 - A entidade competente só pode recusar liminarmente os projectos de investimento que sejam inviáveis, por motivos de ordem legal ou técnica, e os projectos deficientemente organizados, podendo estes ser corrigidos ou completados nos prazos e nas condições que forem estabelecidos.
 
 2 - Os projectos de investimento, incluindo os que forem apresentados por nacionais de um Estado membro das Comunidades Europeias, podem ser recusados nos seguintes casos:
 
@@ -182,7 +213,7 @@ d) Se violarem disposições imperativas da lei.
 
 3 - As entidades referidas na alínea a) do n.º 1 do artigo 2.º não podem, por si ou por interpostas pessoas, apresentar à entidade competente projectos de investimento que hajam sido recusados.
 
-###### Art. 8.º - 1 - Os projectos de investimento, quando apresentados por indivíduos ou entidades não residentes ou não sediados num Estado membro das Comunidades Europeias, podem ser objecto de avaliação e de eventual negociação, tendo-se em vista os seus efeitos para a economia do País.
+Art. 8.º - 1 - Os projectos de investimento, quando apresentados por indivíduos ou entidades não residentes ou não sediados num Estado membro das Comunidades Europeias, podem ser objecto de avaliação e de eventual negociação, tendo-se em vista os seus efeitos para a economia do País.
 
 2 - A avaliação referida no número anterior terá por objecto a apreciação da viabilidade técnica e económica dos projectos de investimento directo estrangeiro e a sua apreciação global, tendo em conta verificação, cumulativa ou parcial, entre outros, dos seguintes aspectos:
 
@@ -210,7 +241,7 @@ l) Formação profissional de trabalhadores portugueses;
 
 m) Reduzida poluição industrial.
 
-###### Art. 9.º - 1 - Os investidores e as empresas referidos na alínea b) do n.º 1 do artigo 2.º devem cumprir, com diligência e exactidão complementar.
+Art. 9.º - 1 - Os investidores e as empresas referidos na alínea b) do n.º 1 do artigo 2.º devem cumprir, com diligência e exactidão complementar.
 
 2 - O cumprimento daqueles deveres e, bem assim, a efectiva e atempada realização das operações de investimento estrangeiro e a consecução dos objectivos dos respectivos projectos de investimento são contrapartida necessária das garantias concedidas.
 
@@ -224,17 +255,17 @@ b) O produto da liquidação dos seus investimentos, incluindo as mais-valias, d
 
 c) Quaisquer importâncias que lhe sejam devidas, com dedução dos respectivos impostos, previstos em actos ou contratos que, nos termos deste decreto-lei, constituam investimentos estrangeiros.
 
-###### Art. 10.º As empresas portuguesas sem capital estrangeiro, quando intentem celebrar, com indivíduos ou entidades não residentes, acordo ou contrato que possam enquadrar-se nos artigos 2.º ou 3.º deste decreto-lei, devem iniciar, junto da entidade competente, o processo de declaração prévia.
+Art. 10.º As empresas portuguesas sem capital estrangeiro, quando intentem celebrar, com indivíduos ou entidades não residentes, acordo ou contrato que possam enquadrar-se nos artigos 2.º ou 3.º deste decreto-lei, devem iniciar, junto da entidade competente, o processo de declaração prévia.
 
-###### Art. 11.º As autoridades monetário-cambiais, as instituições de crédito, os serviços notariais e de registo e as entidades públicas em geral, a quem seja submetido, no exercício das suas funções, acto ou contrato enquadrável nos artigos 2.º ou 3.º deste decreto-lei, devem sobrestar no andamento da petição, até que os interessados demonstrem ter obtido a adequada intervenção ou decisão da entidade competente.
+Art. 11.º As autoridades monetário-cambiais, as instituições de crédito, os serviços notariais e de registo e as entidades públicas em geral, a quem seja submetido, no exercício das suas funções, acto ou contrato enquadrável nos artigos 2.º ou 3.º deste decreto-lei, devem sobrestar no andamento da petição, até que os interessados demonstrem ter obtido a adequada intervenção ou decisão da entidade competente.
 
-###### Art. 12.º - 1 - As operações de investimento estrangeiro praticadas sem observância do disposto neste decreto-lei e na legislação complementarão produzem quaisquer efeitos, designadamente de natureza cambial.
+Art. 12.º - 1 - As operações de investimento estrangeiro praticadas sem observância do disposto neste decreto-lei e na legislação complementarão produzem quaisquer efeitos, designadamente de natureza cambial.
 
 2 - Deve a entidade competente instaurar processos de averiguação, quanto às situações de incumprimento das normas deste decreto-lei e legislação complementar, com vista à determinação dos factos e das responsabilidades e à eventual aplicação de sanções.
 
 3 - Desde a notícia da situação de incumprimento, a entidade competente pode suspender, a título preventivo, todos ou alguns dos efeitos do acto sujeito a averiguação.
 
-###### Art. 13.º - 1 - O Instituto do Investimento Estrangeiro é a entidade competente para o território continental.
+Art. 13.º - 1 - O Instituto do Investimento Estrangeiro é a entidade competente para o território continental.
 
 2 - A entidade competente é o interlocutor directo do investidor estrangeiros e rege-se por estatuto próprio.
 
@@ -244,28 +275,28 @@ c) Quaisquer importâncias que lhe sejam devidas, com dedução dos respectivos 
 
 5 - A entidade competente elaborará e fará publicar as instruções técnicas necessárias à execução deste decreto-lei e de legislação complementar dentro do prazo de 60 dias a partir da data da sua publicação.
 
-###### Art. 14.º O cumprimento pelo investidor estrangeiro dos deveres estabelecidos neste decreto-lei e na legislação complementar é requisito prévio para a prática das operações cambiais integrantes do projecto aprovado, para a outorga das escrituras e para a realização de registos de actos de investimento estrangeiro.
+Art. 14.º O cumprimento pelo investidor estrangeiro dos deveres estabelecidos neste decreto-lei e na legislação complementar é requisito prévio para a prática das operações cambiais integrantes do projecto aprovado, para a outorga das escrituras e para a realização de registos de actos de investimento estrangeiro.
 
-###### Art. 15.º - 1 - O Estado Português pode celebrar com investidores estrangeiros e sociedades portuguesas com investimento estrangeiro contratos administrativos de investimento, para a realização de empreendimentos com interesse relevante para a economia nacional nos termos que vierem a ser estabelecidos em decreto regulamentar.
+Art. 15.º - 1 - O Estado Português pode celebrar com investidores estrangeiros e sociedades portuguesas com investimento estrangeiro contratos administrativos de investimento, para a realização de empreendimentos com interesse relevante para a economia nacional nos termos que vierem a ser estabelecidos em decreto regulamentar.
 
 2 - Nos empreendimentos realizados em regime contratual, a efectiva concessão de benefícios fica dependente do exacto e pontual cumprimento pelos investidores dos objectivos fixados.
 
-###### Art. 16.º A entidade competente exerce os poderes que lhe são conferidos no n.º 4 do artigo 6.º do [Decreto-Lei n.º 326/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1985-180605), de 7 de Agosto, de acordo com a disciplina e os trâmites estabelecidos no presente decreto-lei, designadamente, no artigo 9.º
+Art. 16.º A entidade competente exerce os poderes que lhe são conferidos no n.º 4 do artigo 6.º do [Decreto-Lei n.º 326/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1985-180605), de 7 de Agosto, de acordo com a disciplina e os trâmites estabelecidos no presente decreto-lei, designadamente, no artigo 9.º
 
-###### Art. 17.º - 1 - Este diploma e a legislação complementar serão aplicáveis, com as necessárias adaptações, às Regiões Autónomas dos Açores e da Madeira.
+Art. 17.º - 1 - Este diploma e a legislação complementar serão aplicáveis, com as necessárias adaptações, às Regiões Autónomas dos Açores e da Madeira.
 
 2 - São revogados os Decretos-Leis n.os [348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, e [174/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1982-392850), de 12 de Maio, e os Decretos Regulamentares n.os [51/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1977-659718) e [53/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1977-659715), ambos de 24 de Agosto.
 
-###### Art. 18.º O presente decreto-lei produz efeitos a partir da data da sua publicação.
+Art. 18.º O presente decreto-lei produz efeitos a partir da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 17 de Julho de 1986.**
+Promulgado em 17 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Julho de 1986.**
+Referendado em 18 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

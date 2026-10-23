@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1985-183444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee7bb9e3b0269cd05ad3fcf4cf991c381d912c76f0acb4ec651c307801c68fb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11ce8bd88f055534ded4bd6380438c13c5fd60244aaca3e2a5dc12ee33ec7dc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fundo de Socorro Social
+- Instituto de Gestão Financeira da Segurança Social
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Regime de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:140348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501639:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:12Z'
   warnings: []
   errors: []
 ---
@@ -129,16 +162,16 @@ Os encargos decorrentes da aplicação do presente diploma serão suportados pel
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo.
 
-**Promulgado em 5 de Julho de 1985.**
+Promulgado em 5 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Julho de 1985.**
+Referendado em 8 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa de pessoal a que refere o artigo 4.º e que passa a fazer parte integrante do mapa de pessoal a que se refere o artigo 2.º do [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411) de 14 de Fevereiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/16100/20652066.pdf))](https://files.diariodarepublica.pt/1s/1985/07/16100/20652066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/16100/20652066.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15300/20192022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1984-385434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 860fd3b6a6604f52353eb071f129b86d7f8fc69f674f2ddf1b3d8a41978090c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b2f5c75174f1ec9997a3f9283e609093755ab1cbeb98d09f1fb481175aebd1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Convenção
+- Espécie Protegida
+- Proteção do Ambiente
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
+- Vida Selvagem
+- Washington
 relationships:
 - type: amended_by
   target: pt:dre:332180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:240851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472556:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332180:por
+  label: "Revogado pelo DEC LEI.114/90.05.04.1990.MPLAT, DR.IS [80] de 05.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-1990-332180
+  date: '1990-04-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:18Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +128,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º De harmonia com a Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção, aprovada para ratificação pelo [Decreto n.º 50/80](https://diariodarepublica.pt/dr/detalhe/decreto/50-1980-472556), de 23 de Julho, fica sujeito ao regime de licenciamento prévio, previsto no presente diploma e legislação complementar, o comércio dos espécimes das espécies inscritas nos anexos I, II e III da referida Convenção, bem como outras que constarão de portaria a publicar pelo Ministro da Qualidade de Vida.
+Artigo 1.º De harmonia com a Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção, aprovada para ratificação pelo [Decreto n.º 50/80](https://diariodarepublica.pt/dr/detalhe/decreto/50-1980-472556), de 23 de Julho, fica sujeito ao regime de licenciamento prévio, previsto no presente diploma e legislação complementar, o comércio dos espécimes das espécies inscritas nos anexos I, II e III da referida Convenção, bem como outras que constarão de portaria a publicar pelo Ministro da Qualidade de Vida.
 
-###### Art. 2.º - 1 - O anexo I da Convenção compreende todas as espécies ameaçadas de extinção que são ou poderão ser afectadas pelo comércio, o qual só poderá ser autorizado em circunstâncias excepcionais de modo a não pôr ainda mais em perigo a sobrevivência dos espécimes das referidas espécies.
+Art. 2.º - 1 - O anexo I da Convenção compreende todas as espécies ameaçadas de extinção que são ou poderão ser afectadas pelo comércio, o qual só poderá ser autorizado em circunstâncias excepcionais de modo a não pôr ainda mais em perigo a sobrevivência dos espécimes das referidas espécies.
 
 2 - O anexo II da Convenção compreende todas as espécies que, apesar de actualmente não estarem ameaçadas de extinção, o poderão vir a estar se o comércio dos espécimes dessas espécies não estiver sujeito a regulamentação restritiva que evite uma exploração incompatível com a sua sobrevivência.
 
@@ -116,7 +140,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - A portaria referida no número anterior poderá ser alterada pelo Ministro da Qualidade de Vida, ouvida a Autoridade Científica, inserindo novas espécies ou retirando espécies inscritas.
 
-###### Art. 3.º - 1 - Para efeito da aplicação da referida Convenção e deste diploma, o Serviço Nacional de Parques, Reservas e Conservação da Natureza é a Autoridade Administrativa Nacional e a Autoridade Científica.
+Art. 3.º - 1 - Para efeito da aplicação da referida Convenção e deste diploma, o Serviço Nacional de Parques, Reservas e Conservação da Natureza é a Autoridade Administrativa Nacional e a Autoridade Científica.
 
 2 - Se tal se revelar conveniente, poderá ser designado outro ou outros organismos como Autoridade Administrativa Nacional e Autoridade Científica.
 
@@ -128,7 +152,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - A estrutura, a composição, as atribuições e as competências do Conselho Consultivo de Peritos serão estabelecidas por portaria do Ministro da Qualidade de Vida.
 
-###### Art. 4.º Compete à Autoridade Administrativa Nacional:
+Art. 4.º Compete à Autoridade Administrativa Nacional:
 
 a) Emitir licenças e certificados e conceder autorizações para o comércio e movimento dos espécimes das espécies constantes dos anexos I, II e III da Convenção e da portaria referida na parte final do artigo 1.º;
 
@@ -150,9 +174,9 @@ i) Divulgar os objectivos e disposições consagrados na Convenção;
 
 j) Aplicar as coimas.
 
-###### Art. 5.º São igualmente da competência das autoridades administrativas regionais os poderes conferidos nas alíneas a), d), i) e j) do artigo anterior.
+Art. 5.º São igualmente da competência das autoridades administrativas regionais os poderes conferidos nas alíneas a), d), i) e j) do artigo anterior.
 
-###### Art. 6.º Compete à Autoridade Científica:
+Art. 6.º Compete à Autoridade Científica:
 
 a) Zelar para que o comércio dos espécimes das espécies inscritas nos anexos I, II e III da Convenção e das constantes da portaria referida na parte final do artigo 1.º não prejudique a sobrevivência das respectivas espécies;
 
@@ -166,33 +190,33 @@ e) Elaborar as propostas de emendas aos anexos I e II da Convenção para os efe
 
 f) Participar na identificação dos espécimes de espécies protegidas.
 
-###### Art. 7.º Ficam sujeitas ao regime de registo prévio previsto no [Decreto-Lei n.º 353-F/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851), de 29 de Agosto, independentemente do valor declarado, as operações de comércio referidas no artigo 1.º, sendo aquele registo precedido obrigatoriamente pelo regime de licenciamento consagrado neste diploma.
+Art. 7.º Ficam sujeitas ao regime de registo prévio previsto no [Decreto-Lei n.º 353-F/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851), de 29 de Agosto, independentemente do valor declarado, as operações de comércio referidas no artigo 1.º, sendo aquele registo precedido obrigatoriamente pelo regime de licenciamento consagrado neste diploma.
 
-###### Art. 8.º Os boletins de registo prévio emitidos para as operações de comércio dos espécimes das espécies objecto deste diploma não poderão ser concedidos, para efeitos de desalfandegamento, por prazo superior ao da validade das licenças ou certificados concedidos pelas autoridades administrativas.
+Art. 8.º Os boletins de registo prévio emitidos para as operações de comércio dos espécimes das espécies objecto deste diploma não poderão ser concedidos, para efeitos de desalfandegamento, por prazo superior ao da validade das licenças ou certificados concedidos pelas autoridades administrativas.
 
-###### Art. 9.º Não estão dispensadas do regime de licenciamento previsto no presente diploma a importação, exportação e reexportação de quaisquer dos espécimes inscritos nos anexos da Convenção e na portaria referida na parte final do artigo 1.º, ainda que transportados na bagagem pessoal dos viajantes.
+Art. 9.º Não estão dispensadas do regime de licenciamento previsto no presente diploma a importação, exportação e reexportação de quaisquer dos espécimes inscritos nos anexos da Convenção e na portaria referida na parte final do artigo 1.º, ainda que transportados na bagagem pessoal dos viajantes.
 
-###### Art. 10.º - 1 - O desalfandegamento dos espécimes constantes do anexo I da Convenção apenas poderá processar-se na sede e nas delegações urbanas da Alfândega de Lisboa.
+Art. 10.º - 1 - O desalfandegamento dos espécimes constantes do anexo I da Convenção apenas poderá processar-se na sede e nas delegações urbanas da Alfândega de Lisboa.
 
 2 - O desalfandegamento dos espécimes constantes dos anexas II e III da Convenção e dos da portaria referida no artigo anterior apenas poderá processar-se na sede e nas delegações urbanas de Lisboa e do Porto e nas sedes das Alfândegas de Ponta Delgada e do Funchal.
 
 3 - Poderão ser designadas, ouvida a Autoridade Administrativa Nacional e a Autoridade Científica, outras estâncias aduaneiras para o desalfandegamento dos espécimes.
 
-###### Art. 11.º A estância por onde se processar o desalfandegamento dos espécimes não pode proceder ao respectivo desembaraço aduaneiro sem a apresentação dos documentos referidos na alínea a) do artigo 4.º do presente diploma.
+Art. 11.º A estância por onde se processar o desalfandegamento dos espécimes não pode proceder ao respectivo desembaraço aduaneiro sem a apresentação dos documentos referidos na alínea a) do artigo 4.º do presente diploma.
 
-###### Art. 12.º Os modelos das licenças e certificados concedidos ao abrigo do presente diploma serão aprovados por portaria do Ministro da Qualidade de Vida.
+Art. 12.º Os modelos das licenças e certificados concedidos ao abrigo do presente diploma serão aprovados por portaria do Ministro da Qualidade de Vida.
 
-###### Art. 13.º - 1 - As licenças e certificados referidos na alínea a) do artigo 4.º serão requeridos pelos interessados, mediante o preenchimento, em triplicado, de impressos de modelo próprio, destinando-se os exemplares A e B ao requerente e o C à entidade emissora.
+Art. 13.º - 1 - As licenças e certificados referidos na alínea a) do artigo 4.º serão requeridos pelos interessados, mediante o preenchimento, em triplicado, de impressos de modelo próprio, destinando-se os exemplares A e B ao requerente e o C à entidade emissora.
 
 2 - Os exemplares A e B devem ser apresentados pelo interessado ou seu representante aquando do desalfandegamento na respectiva alfândega, devendo aquela entidade, após o necessário averbamento, proceder à devolução do exemplar A ao interessado e do exemplar B à entidade emissora, para efeito do registo a que se refere a alínea c) do artigo 4.º
 
-###### Art. 14.º - 1 - Constituem receita das autoridades administrativas as importâncias pagas pelos interessados para cobertura dos encargos decorrentes da emissão das licenças e certificados.
+Art. 14.º - 1 - Constituem receita das autoridades administrativas as importâncias pagas pelos interessados para cobertura dos encargos decorrentes da emissão das licenças e certificados.
 
 2 - As taxas a cobrar serão fixadas por portaria dos Ministros das Finanças e do Plano e da Qualidade de Vida.
 
-###### Art. 15.º O prazo de validade das licenças e certificados concedidos pelas autoridades administrativas não pode ser superior a 6 meses, contados da data da emissão.
+Art. 15.º O prazo de validade das licenças e certificados concedidos pelas autoridades administrativas não pode ser superior a 6 meses, contados da data da emissão.
 
-###### Art. 16.º - 1 - O disposto nos artigos 1.º e 2.º não se aplica ao trânsito de espécimes no território nacional, desde que os mesmos permaneçam sob fiscalização aduaneira.
+Art. 16.º - 1 - O disposto nos artigos 1.º e 2.º não se aplica ao trânsito de espécimes no território nacional, desde que os mesmos permaneçam sob fiscalização aduaneira.
 
 2 - Ficam ainda dispensados do regime de licenciamento do presente diploma:
 
@@ -210,7 +234,7 @@ a) No caso de espécimes de uma espécie inscrita no anexo I da Convenção, des
 
 b) No caso de espécimes inscritos no anexo II da Convenção, desde que tenham sido adquiridos fora do País, por residentes no território nacional, num Estado que exija a prévia concessão de uma licença de exportação e em cujo meio selvagem se realizou a captura, abate ou recolha e que sejam importados posteriormente.
 
-###### Art. 17.º - 1 - As infracções ao disposto nos artigos 1.º, 2.º, 7.º, 9.º e 13.º constituem contra-ordenações e são puníveis com coimas:
+Art. 17.º - 1 - As infracções ao disposto nos artigos 1.º, 2.º, 7.º, 9.º e 13.º constituem contra-ordenações e são puníveis com coimas:
 
 a) De 500000$00 a 3000000$00, no caso de espécimes de espécies inscritas no anexo I da Convenção;
 
@@ -222,9 +246,9 @@ c) De 25000$00 a 300000$00, no caso de espécimes de espécies inscritas no anex
 
 3 - A tentativa e negligência são puníveis.
 
-###### Art. 18.º Para além das coimas previstas no artigo anterior e nos termos da legislação aplicável, poderão ser estabelecidas como sanções acessórias ao infractor a interdição do exercício da profissão ou actividade e a apreensão dos espécimes introduzidos no País em contra-ordenação com o disposto no presente diploma, competindo às autoridades administrativas dar-lhes o destino que entenderem por mais conveniente.
+Art. 18.º Para além das coimas previstas no artigo anterior e nos termos da legislação aplicável, poderão ser estabelecidas como sanções acessórias ao infractor a interdição do exercício da profissão ou actividade e a apreensão dos espécimes introduzidos no País em contra-ordenação com o disposto no presente diploma, competindo às autoridades administrativas dar-lhes o destino que entenderem por mais conveniente.
 
-###### Art. 19.º - 1 - As funções de fiscalização, para efeitos deste diploma, competem especialmente às autoridades administrativas em colaboração com as autoridades policiais e aduaneiras.
+Art. 19.º - 1 - As funções de fiscalização, para efeitos deste diploma, competem especialmente às autoridades administrativas em colaboração com as autoridades policiais e aduaneiras.
 
 2 - As autoridades administrativas são as competentes para o processamento das contra-ordenações e aplicação das sanções previstas nos artigos 17.º e 18.º
 
@@ -232,7 +256,7 @@ c) De 25000$00 a 300000$00, no caso de espécimes de espécies inscritas no anex
 
 4 - As autoridades com atribuições de fiscalização aduaneira deverão participar às autoridades administrativas do local onde se verificou a ocorrência o conhecimento de factos que julguem constituir infracções ao disposto no presente diploma.
 
-###### Art. 20.º - 1 - A receita das coimas previstas no artigo 17.º tem a seguinte distribuição:
+Art. 20.º - 1 - A receita das coimas previstas no artigo 17.º tem a seguinte distribuição:
 
 a) 10% para o autuante;
 
@@ -242,20 +266,20 @@ c) 40% para o Estado.
 
 2 - A parte das receitas a atribuir ao autuante não pode exceder 45% do respectivo vencimento anual, revertendo o excedente para o organismo ou corporação a que pertencer.
 
-###### Art. 21.º Os exemplares das licenças e certificados referidos no presente diploma são modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
+Art. 21.º Os exemplares das licenças e certificados referidos no presente diploma são modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
 
-###### Art. 22.º As disposições do presente decreto-lei não prejudicam a aplicação da legislação em vigor em matéria aduaneira, de higiene pública, ciência veterinária e de quarentena das plantas e animais.
+Art. 22.º As disposições do presente decreto-lei não prejudicam a aplicação da legislação em vigor em matéria aduaneira, de higiene pública, ciência veterinária e de quarentena das plantas e animais.
 
-###### Art. 23.º Em tudo o mais que não vier previsto no presente diploma aplica-se o disposto na Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção, aprovada para ratificação pelo [Decreto n.º 50/80](https://diariodarepublica.pt/dr/detalhe/decreto/50-1980-472556), de 23 de Julho.
+Art. 23.º Em tudo o mais que não vier previsto no presente diploma aplica-se o disposto na Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção, aprovada para ratificação pelo [Decreto n.º 50/80](https://diariodarepublica.pt/dr/detalhe/decreto/50-1980-472556), de 23 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 31 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa - Joaquim Ferreira do Amaral - António d'Orey Capucho.
 
-**Promulgado em 15 de Junho de 1984.**
+Promulgado em 15 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Junho de 1984.**
+Referendado em 20 de Junho de 1984.
 
 Pelo Primeiro-Ministro, Carlos Alberto da Mota Pinto, Vice-Primeiro-Ministro.

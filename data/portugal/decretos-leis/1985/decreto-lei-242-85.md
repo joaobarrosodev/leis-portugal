@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15500/18981910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,192 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1985-182662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04cbc0fde1bf295684a3628058d05c9bdf4b14b17166967d9e0b31b2b073ca48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d3ea74751788a87336b24158d7fe32d62cfd511bb2aa15462d5b0cb4de96ed8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Processo Civil
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476742:por
+  label: "Alterado o artigo 144.º do Dec Lei 44129, de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.381-A/85.28.09.1985.MJ,\
+    \ DR.IS [224-Supl] de 28.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-a-1985-476742
+  date: '1985-09-28'
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterado o art. 8.º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329, de 08-Mai 1962, com a redacção dada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 92/88 - Diário da República n.º 64/1988, 1º Suplemento, Série I de 1988-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: amended_by
+  target: pt:dre:202420:por
+  label: "Alterados os arts. 304º, 646º, 653º e 712º, todos do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez\
+    \ 1961, na redacção do presente diploma, pelo DEC LEI.39/95.1995.02.15.MJ DR.IS-A [39]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1995-202420
+  date: '1995-02-15'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 51.º, 100.º, 109.º, 138.º, 144.º, 145.º, 151.º, 152.º, 176.º, 232.º, 234.º, 235.º, 238.º, 239.º,\
+    \ 242.º, 253.º, 255.º, 257.º, 260.º, 261.º, 479.º, 484.º, 486.º, 488.º, 490.º, 495.º, 502.º, 503.º, 504.º, 508.º, 510.º,\
+    \ 511.º, 512.º, 646.º, 647.º, 651.º, 652.º, 653.º, 658.º, 659.º, 678.º, 682.º, 712.º, 734.º, 735.º, 754.º, 756.º, 762.º,\
+    \ 790.º, 792.º, 811.º, 924.º, 927.º e 928.º, todos do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez\
+    \ 1961, na redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:214238:por
+  label: "Alterados os arts. 138.º, 145.º, 152.º, 176.º, 207.º, 234.º, 239.º, 304.º, 462.º, 486.º, 488.º, 504.º, 508.º, 510.º,\
+    \ 511.º, 512.º, 646.º, 651.º, 678.º, 712.º, 754.º, 790.º, 792.º, do Código de Processo Civil, aprovado pelo Dec Lei 44129\
+    \ de 28-Dez, 1961, na redacção do presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pelo DEC LEI.180/96.25.09.1996.MJ,\
+    \ DR.IS-A [223] de 25.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1996-214238
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:196220:por
+  label: "Alterados os art. 462.º e 792º do Código do Processo Civil aprovado pelo Dec lei 44129, de 28-Dez 1961, na redacção\
+    \ do presente diploma, pela LEI.3/99.13.01.1999.AR, DR.IS-A [10] de 13.01.1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1999-196220
+  date: '1999-01-13'
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterados os arts. 462.º, 512.º, 646.º, 712.º e 754.º do Código do Processo Civil aprovado pelo Dec Lei 44129, de\
+    \ 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.375-A/99.1999.09.20.MJ DR.IS-A [220]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 238.º, 239.º, 257.º, 467.º, 646.º e 651.º do Código de Processo Civil aprovado pelo Dec Lei 44129\
+    \ de 28-Dez de 1961, na redacção do presente diploma, pelo DEC LEI.183/2000.10.08.2000.MJ, DR.IS-A [184] de 10.08.2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:315337:por
+  label: "Alterados os arts. 238.º e 257.º do Código do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção\
+    \ do presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pela LEI.30-D/2000.20.12.2000.AR, DR.IS-A\
+    \ [292-3.ºSupl] de 20.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-d-2000-315337
+  date: '2000-12-20'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados os arts. 234.º, 234.º-A (aditado pelo presente diploma), 238.º, 239.º, 242.º, 257.º, 261.º, 467.º, 512.º,\
+    \ 647.º, 651.º, 678.º, 811.º e 928.º, todos do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na\
+    \ redacção do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\003\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:511825:por
+  label: "Alterados os arts. 138.º e 928.º do Código de processo Civil (aprovado pelo Dec Lei 44129, de 28-Dez 1961), na redacção\
+    \ do presente diploma, pelo DEC LEI.199/2003.2003.09.10.MJ DR.IS-A [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2003-511825
+  date: '2003-09-10'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: "Alterados os artigos 145.º, 150.º e 152.º do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de\
+    \ Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterado o art. 678º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, com a redacção do\
+    \ presente diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigos 11.º e 12.º, os artigos 152.º,\
+    \ 234.º-A, 259.º, 261.º, 467.º, 678.º 682.º, 712.º do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28\
+    \ de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterados, a partir de 20.04.2009, os arts.145º, 152º, 467º e 659º do Código de Processo Civil, aprovado pelo Dec\
+    \ Lei 44129, de 28-Dez de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 51º e 811º do Dec Lei 44129, de 28-Dez de 1961, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterados a partir de 02.01.2009, os artigos 235.º, 239.º e 467.º do Código de Processo Civil, aprovado pelo Dec\
+    \ Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterados, a partir de 31.03.2009, os arts. 234º, 239º, 467º e 811º, 234º, 239º, 242º, 261º, 467º e 811º do Código\
+    \ do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez, 1961, na redacção do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ,\
+    \ DR.IS [226] de 20.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:613677:por
+  label: "Alterado, a partir de 20.04.2010, o art. 144º do Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44129,\
+    \ de 28 de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.35/2010.15.04.2010.MJ, DR.IS [73] de 15.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2010-613677
+  date: '2010-04-15'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:151878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401487:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:267835:por
+  label: Rectificado pela DECL.DD5034.20.08.1985.PCM, DR.IS [200]2ºSupl de 31.08.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-267835
+  date: '1985-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:47Z'
   warnings: []
   errors: []
 ---
@@ -182,9 +334,9 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 8. Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição e, usando da autorização legislativa conferida pela [Lei n.º 9/85](https://diariodarepublica.pt/dr/detalhe/lei/9-1985-151878), de 5 de Junho, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados, pela forma indicada, os seguintes artigos do Código de Processo Civil:
+Artigo 1.º São alterados, pela forma indicada, os seguintes artigos do Código de Processo Civil:
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 [...]
 
@@ -194,7 +346,7 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 3 - Se a assinatura for a rogo, o escrito só goza de força executiva quando tiver termo de reconhecimento da assinatura do rogado e este contiver, em especial, a menção de que o rogante sabia e podia ler o documento ou de que este lhe foi lido e o achou conforme com a sua vontade.
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 [...]
 
@@ -206,7 +358,7 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 4 - ...
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 [...]
 
@@ -218,7 +370,7 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 4 - O tribunal não terá de pronunciar-se sobre a incompetência relativa se não for arguida e os autos não fornecerem os elementos necessários para o seu conhecimento oficioso.
 
-###### ARTIGO 138.º
+ARTIGO 138.º
 
 [...]
 
@@ -226,7 +378,7 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 2 - Os actos processuais podem obedecer a modelos aprovados pela entidade competente, só podendo, no entanto, ser considerados obrigatórios os modelos relativos a actos da secretaria.
 
-###### ARTIGO 144.º
+ARTIGO 144.º
 
 [...]
 
@@ -238,7 +390,7 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 4 - Quando o prazo para a prática de determinado acto em juízo termine em qualquer dos dias referidos no n.º 2, o seu termo transfere-se para o primeiro dia útil.
 
-###### ARTIGO 145.º
+ARTIGO 145.º
 
 [...]
 
@@ -254,7 +406,7 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 6 - Praticado o acto em qualquer dos 3 dias úteis seguintes sem ter sido paga imediatamente a multa referida no número anterior, logo que a falta seja verificada, a secretaria, independentemente de despacho, notificará o interessado para pagar uma multa de montante igual ao dobro da prevista no número anterior, sob pena de se considerar perdido o direito de praticar o acto.
 
-###### ARTIGO 151.º
+ARTIGO 151.º
 
 (Definição e recibo de entrega dos articulados)
 
@@ -264,7 +416,7 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 3 - Da entrega da petição, bem como dos restantes articulados, será sempre dado recibo pela secretaria.
 
-###### ARTIGO 152.º
+ARTIGO 152.º
 
 [...]
 
@@ -280,7 +432,7 @@ E, uma vez que se julgou oportuno introduzir algumas alterações pontuais ao C�
 
 Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia do articulado, pagando o responsável o triplo das despesas a que a cópia der lugar, a qual é para o efeito contada como se de certidão se tratasse.
 
-###### ARTIGO 157.º
+ARTIGO 157.º
 
 [...]
 
@@ -292,7 +444,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 4 - ...
 
-###### ARTIGO 176.º
+ARTIGO 176.º
 
 [...]
 
@@ -308,7 +460,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 6 - As requisições a que se refere o n.º 1 do artigo 535.º e outras semelhantes bem como os pedidos de informações podem ser feitos a estações oficiais ou entidades de outra circunscrição territorial por meio de ofício ou telegrama endereçado a elas.
 
-###### ARTIGO 207.º
+ARTIGO 207.º
 
 [...]
 
@@ -316,7 +468,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 2 - Na relação e no Supremo é aplicável o disposto no número anterior, devendo o relator levar o processo à conferência para se decidir por acórdão, depois de ouvida a parte contrária, se tal for necessário; a conferência pode, porém, ordenar a audiência da parte contrária, quando tenha sido dispensada pelo relator.
 
-###### ARTIGO 232.º
+ARTIGO 232.º
 
 [...]
 
@@ -326,7 +478,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 3 - O funcionário que efectuar a diligência indicará, na respectiva certidão, as razões da impossibilidade da intervenção de testemunhas ou da não aposição, por estas, das respectivas assinaturas.
 
-###### ARTIGO 234.º
+ARTIGO 234.º
 
 [...]
 
@@ -338,7 +490,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 4 - A citação feita na pessoa de um empregado nas condições previstas no número anterior tem o mesmo valor que a citação feita na própria pessoa do representante.
 
-###### ARTIGO 235.º
+ARTIGO 235.º
 
 (Como é feita a citação por oficial de justiça)
 
@@ -350,7 +502,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 4 - Incorrem nas sanções correspondentes ao crime de desobediência as pessoas da casa, o porteiro ou os vizinhos que, tendo recebido a citação, não entreguem ao citado a cópia deixada pelo funcionário, do que serão previamente advertidos. Tendo sido a citação feita no porteiro ou na pessoa de um vizinho, ficam estes isentos de responsabilidade desde que entreguem a cópia a uma pessoa da casa, que deverá transmiti-la ao citado.
 
-###### ARTIGO 238.º
+ARTIGO 238.º
 
 (Falsa indicação. Dupla residência. Casa fechada e desabitada)
 
@@ -362,7 +514,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 4 - A falsidade da informação sujeita o seu autor à sanção correspondente ao crime de falsas declarações. Desta circunstância será expressamente advertido pelo funcionário encarregado da diligência no acto em que este receber a informação.
 
-###### ARTIGO 239.º
+ARTIGO 239.º
 
 [...]
 
@@ -374,7 +526,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 4 - É aplicável ao autor da informação referida no n.º 1 o disposto no n.º 4 do artigo anterior.
 
-###### ARTIGO 242.º
+ARTIGO 242.º
 
 (Citação feita na pessoa do réu)
 
@@ -384,7 +536,7 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 3 - Não sendo possível a intervenção das testemunhas, o funcionário enviará ao réu carta registada, com a indicação de que o duplicado fica à sua disposição na secretaria judicial.
 
-###### ARTIGO 253.º
+ARTIGO 253.º
 
 [...]
 
@@ -394,13 +546,13 @@ Se a parte não juntar o duplicado isento de selo, mandar-se-á extrair cópia d
 
 3 - ...
 
-###### ARTIGO 255.º
+ARTIGO 255.º
 
 (Notificações às partes quando não tenham mandatário)
 
 Se a parte não tiver constituído mandatário, as notificações ser-lhe-ão feitas nos termos estabelecidos para as notificações aos mandatários.
 
-###### ARTIGO 257.º
+ARTIGO 257.º
 
 (Notificações a intervenientes acidentais)
 
@@ -410,13 +562,13 @@ As notificações que tenham por fim chamar ao tribunal testemunhas, peritos e o
 
 3 - ...
 
-###### ARTIGO 259.º
+ARTIGO 259.º
 
 [...]
 
 Quando se notifiquem despachos, sentenças ou acórdãos, deve enviar-se ou entregar-se ao notificado cópia ou fotocópia, legível da decisão e dos fundamentos.
 
-###### ARTIGO 260.º
+ARTIGO 260.º
 
 [...]
 
@@ -426,7 +578,7 @@ Quando se notifiquem despachos, sentenças ou acórdãos, deve enviar-se ou entr
 
 3 - A secretaria, independentemente de despacho, entregará à parte os avisos relativos às pessoas que a própria parte se tenha comprometido a apresentar, quando a entrega for por ela solicitada, mesmo verbalmente.
 
-###### ARTIGO 261.º
+ARTIGO 261.º
 
 (Notificação avulsa)
 
@@ -436,7 +588,7 @@ Quando se notifiquem despachos, sentenças ou acórdãos, deve enviar-se ou entr
 
 3 - ...
 
-###### ARTIGO 304.º
+ARTIGO 304.º
 
 [...]
 
@@ -446,7 +598,7 @@ Quando se notifiquem despachos, sentenças ou acórdãos, deve enviar-se ou entr
 
 3 - Quando sejam prestados no tribunal da causa e não recaiam sobre matéria do questionário, os depoimentos serão orais; e, logo que termine a produção da prova, o tribunal declarará quais os factos que julga provados, observando, com as devidas adaptações, o disposto nos n.os 2 e 3 do artigo 653.º
 
-###### ARTIGO 462.º
+ARTIGO 462.º
 
 [...]
 
@@ -456,7 +608,7 @@ Quando se notifiquem despachos, sentenças ou acórdãos, deve enviar-se ou entr
 
 3 - No processo sumaríssimo a indemnização é sempre computada em quantia certa.
 
-###### ARTIGO 467.º
+ARTIGO 467.º
 
 1 - Na petição, com que propõe a acção, deve o autor:
 
@@ -476,7 +628,7 @@ f) Especificar os factos narrados no articulado que considera provados e aqueles
 
 3 - A petição não é recebida se não satisfizer as exigências das leis fiscais.
 
-###### ARTIGO 479.º
+ARTIGO 479.º
 
 (Irrecorribilidade do despacho de citação)
 
@@ -484,7 +636,7 @@ f) Especificar os factos narrados no articulado que considera provados e aqueles
 
 2 - Ainda que se ordene a citação do réu, nem por isso se devem considerar arrumadas as questões que podiam ser motivo de indeferimento liminar.
 
-###### ARTIGO 484.º
+ARTIGO 484.º
 
 [...]
 
@@ -494,7 +646,7 @@ f) Especificar os factos narrados no articulado que considera provados e aqueles
 
 3 - Se a resolução da causa revestir manifesta simplicidade, a sentença pode limitar-se à parte decisória, precedida da necessária identificação das partes e da fundamentação sumária do julgado.
 
-###### ARTIGO 486.º
+ARTIGO 486.º
 
 [...]
 
@@ -504,13 +656,13 @@ f) Especificar os factos narrados no articulado que considera provados e aqueles
 
 3 - Ao Ministério Público é concedida prorrogação do prazo, quando careça de informações que não possa obter dentro dele ou quando tenha de aguardar resposta a consulta feita a instância superior; o pedido deve ser fundamentado e a prorrogação não pode, em caso algum, ir além de 3 meses.
 
-###### ARTIGO 488.º
+ARTIGO 488.º
 
 [...]
 
 Na contestação deve o réu individualizar a acção, expor as razões de facto e de direito por que se opõe à pretensão do autor e, no final, especificar os factos contidos no articulado que considera provados e aqueles cuja prova se propõe fazer.
 
-###### ARTIGO 490.º
+ARTIGO 490.º
 
 [...]
 
@@ -524,13 +676,13 @@ Na contestação deve o réu individualizar a acção, expor as razões de facto
 
 5 - A impugnação pode fazer-se, total ou parcialmente, por simples menção dos números dos artigos da petição inicial em que se narram os factos contestados.
 
-###### ARTIGO 495.º
+ARTIGO 495.º
 
 [...]
 
 O tribunal deve conhecer oficiosamente de todas as excepções dilatórias, salvo da incompetência relativa nos casos não abrangidos pelo disposto no n.º 2 do artigo 109.º, bem como da preterição do tribunal arbitral voluntário e da falta de pagamento de custas de parte.
 
-###### ARTIGO 502.º
+ARTIGO 502.º
 
 (Função e prazo de réplica)
 
@@ -540,7 +692,7 @@ O tribunal deve conhecer oficiosamente de todas as excepções dilatórias, salv
 
 3 - ...
 
-###### ARTIGO 503.º
+ARTIGO 503.º
 
 (Função e prazo da tréplica)
 
@@ -548,19 +700,19 @@ O tribunal deve conhecer oficiosamente de todas as excepções dilatórias, salv
 
 2 - ...
 
-###### ARTIGO 504.º
+ARTIGO 504.º
 
 (Regime aplicável a todos os articulados)
 
 É aplicável a todos os articulados o disposto na alínea f) do n.º 1 e no n.º 2 do artigo 467.º, no n.º 3 do artigo 486.º, na parte final do artigo 488.º e no n.º 5 do artigo 490.º
 
-###### ARTIGO 505.º
+ARTIGO 505.º
 
 [...]
 
 A falta de algum dos articulados de que trata a presente secção ou a falta de impugnação, em qualquer deles, dos novos factos alegados pela parte contrária no articulado anterior tem o efeito previsto no artigo 490.º
 
-###### ARTIGO 508.º
+ARTIGO 508.º
 
 [...]
 
@@ -572,7 +724,7 @@ A falta de algum dos articulados de que trata a presente secção ou a falta de 
 
 4 - ...
 
-###### ARTIGO 510.º
+ARTIGO 510.º
 
 [...]
 
@@ -586,7 +738,7 @@ A falta de algum dos articulados de que trata a presente secção ou a falta de 
 
 5 - Não cabe recurso do despacho saneador que, por falta de elementos, relegue para a sentença o conhecimento das matérias de que lhe cumpre conhecer nos termos das alíneas a) a c) do n.º 1.
 
-###### ARTIGO 511.º
+ARTIGO 511.º
 
 [...]
 
@@ -610,13 +762,13 @@ c) Contradição entre a especificação e o questionário.
 
 7 - Quando a especificação e o questionário forem organizados, no todo ou em parte, através de remissão, a secretaria juntará ao processo, dentro do prazo de recurso do despacho saneador, cópia integral da especificação e questionário em que se reproduzam os artigos dos articulados para os quais sejam feitas remissões.
 
-###### ARTIGO 512.º
+ARTIGO 512.º
 
 (Indicação dos meios de prova)
 
 Na notificação da falta de reclamações contra a especificação e o questionário ou do despacho que decidir as reclamações, a secretaria, independentemente de despacho, advertirá as partes para, em 10 dias, apresentarem o rol de testemunhas e requererem outras provas ou alterarem o requerimento das provas que hajam feito nos articulados.
 
-###### ARTIGO 646.º
+ARTIGO 646.º
 
 [...]
 
@@ -628,7 +780,7 @@ Na notificação da falta de reclamações contra a especificação e o question
 
 4 - Têm-se por não escritas as respostas do tribunal colectivo sobre questões de direito e bem assim as dadas sobre factos que só possam ser provados por documentos ou que estejam plenamente provados, quer por documentos, quer por acordo ou confissão das partes.
 
-###### ARTIGO 647.º
+ARTIGO 647.º
 
 [...]
 
@@ -638,7 +790,7 @@ Na notificação da falta de reclamações contra a especificação e o question
 
 3 - Até à conclusão para este efeito, a qualquer dos advogados é lícito requerer o exame do processo. O prazo para o exame é fixado entre 5 e 10 dias e só depois de ele expirar se designa nesse caso, o dia para a audiência.
 
-###### ARTIGO 651.º
+ARTIGO 651.º
 
 [...]
 
@@ -656,7 +808,7 @@ c) ...
 
 4 - A falta de qualquer pessoa que deva comparecer será justificada na própria audiência ou nos 5 dias imediatos, salvo tratando-se de pessoa de cuja audição prescinda a parte que a indicou.
 
-###### ARTIGO 652.º
+ARTIGO 652.º
 
 (Tentativa de conciliação e discussão da matéria de facto)
 
@@ -682,7 +834,7 @@ e) ...
 
 6 - ...
 
-###### ARTIGO 653.º
+ARTIGO 653.º
 
 [...]
 
@@ -698,13 +850,13 @@ e) ...
 
 6 - Decididas as reclamações, ou não as tendo havido, as partes podem acordar na discussão oral do aspecto jurídico da causa; nesse caso, a discussão realiza-se logo perante o juiz a quem caiba lavrar a sentença final, observando-se quanto aos seus termos o que o artigo anterior dispõe sobre a discussão da matéria de facto, procurando os advogados interpretar e aplicar a lei aos factos que tenham ficado assentes.
 
-###### ARTIGO 658.º
+ARTIGO 658.º
 
 (Prazo da sentença)
 
 Concluída a discussão do aspecto jurídico da causa, é o processo concluso ao juiz, que proferirá sentença dentro de 15 dias.
 
-###### ARTIGO 659.º
+ARTIGO 659.º
 
 (Sentença)
 
@@ -716,7 +868,7 @@ Concluída a discussão do aspecto jurídico da causa, é o processo concluso ao
 
 4 - Se tiver sido oral a discussão do aspecto jurídico da causa, a sentença pode ser logo lavrada por escrito ou ditada para a acta.
 
-###### ARTIGO 678.º
+ARTIGO 678.º
 
 [...]
 
@@ -726,7 +878,7 @@ Concluída a discussão do aspecto jurídico da causa, é o processo concluso ao
 
 3 - ...
 
-###### ARTIGO 682.º
+ARTIGO 682.º
 
 [...]
 
@@ -740,7 +892,7 @@ Concluída a discussão do aspecto jurídico da causa, é o processo concluso ao
 
 5 - Se o recurso independente for admissível, o recurso subordinado também o será, ainda que a decisão impugnada seja desfavorável para o respectivo recorrente em valor igual ou inferior a metade da alçada do tribunal de que se recorre.
 
-###### ARTIGO 712.º
+ARTIGO 712.º
 
 [...]
 
@@ -756,7 +908,7 @@ c) ...
 
 3 - ...
 
-###### ARTIGO 728.º
+ARTIGO 728.º
 
 [...]
 
@@ -766,7 +918,7 @@ c) ...
 
 3 - ...
 
-###### ARTIGO 754.º
+ARTIGO 754.º
 
 [...]
 
@@ -782,7 +934,7 @@ d) Dos despachos proferidos depois da decisão final.
 
 2 - ...
 
-###### ARTIGO 735.º
+ARTIGO 735.º
 
 [...]
 
@@ -792,13 +944,13 @@ d) Dos despachos proferidos depois da decisão final.
 
 3 - (Eliminado.)
 
-###### ARTIGO 736.º
+ARTIGO 736.º
 
 [...]
 
 Sobem nos próprios autos os agravos interpostos das decisões que ponham termo ao processo no tribunal recorrido ou suspendam a instância e aqueles que apenas subam com os recursos dessas decisões.
 
-###### ARTIGO 754.º
+ARTIGO 754.º
 
 [...]
 
@@ -810,13 +962,13 @@ b) Do acórdão da relação de que seja admissível recurso, salvo nos casos em
 
 2 - É aplicável ao recurso de agravo o disposto no artigo 721.º-A.
 
-###### ARTIGO 756.º
+ARTIGO 756.º
 
 [...]
 
 Sobem imediatamente nos autos vindos da 1.ª instância o agravo a que se refere a alínea a) do n.º 1 do artigo 754.º e o agravo interposto do acórdão da relação que conheça do objecto do agravo ou se abstenha de conhecer do objecto do agravo ou da apelação.
 
-###### ARTIGO 762.º
+ARTIGO 762.º
 
 [...]
 
@@ -826,13 +978,13 @@ Sobem imediatamente nos autos vindos da 1.ª instância o agravo a que se refere
 
 3 - É aplicável ao julgamento do agravo o disposto no n.º 1 do artigo 731.º, no n.º 3 do artigo 728.º e ainda, se o recurso tiver por fundamento a violação da lei substantiva, o disposto nos n.os 1 e 2 deste artigo.
 
-###### ARTIGO 764.º
+ARTIGO 764.º
 
 [...]
 
 É também admissível recurso para o Supremo, funcionando em tribunal pleno, se o tribunal da relação proferir um acórdão que esteja em oposição com outro, dessa ou de diferente relação, sobre a mesma questão fundamental de direito e dele não for admitido recurso de revista ou de agravo por motivo estranho à alçada do tribunal ou ao disposto no n.º 1 do artigo 721.º-A.
 
-###### ARTIGO 790.º
+ARTIGO 790.º
 
 [...]
 
@@ -842,13 +994,13 @@ Sobem imediatamente nos autos vindos da 1.ª instância o agravo a que se refere
 
 3 - No caso de adiamento, a discussão e julgamento devem efectuar-se num dos 10 dias imediatos. Não pode haver segundo adiamento, salvo se não for possível constituir o tribunal.
 
-###### ARTIGO 792.º
+ARTIGO 792.º
 
 (Efeito da apelação)
 
 A apelação tem sempre efeito meramente devolutivo. Ao seu julgamento é também aplicável o disposto no artigo 712.º, mesmo que as respostas aos quesitos tenham sido dadas pelo juiz singular.
 
-###### ARTIGO 811.º
+ARTIGO 811.º
 
 [...]
 
@@ -858,7 +1010,7 @@ A apelação tem sempre efeito meramente devolutivo. Ao seu julgamento é també
 
 3 - Se a execução se fundar em sentença de condenação transitada há não mais de um ano, o exequente indicará bens à penhora logo no requerimento inicial; nesse caso, a citação será substituída, após a penhora, pela notificação do requerimento inicial e do despacho determinativo da penhora, podendo o executado, dentro de 10 dias, embargar ou requerer a substituição dos bens penhorados por outros de valor suficiente.
 
-###### ARTIGO 924.º
+ARTIGO 924.º
 
 [...]
 
@@ -866,7 +1018,7 @@ A apelação tem sempre efeito meramente devolutivo. Ao seu julgamento é també
 
 2 - É aplicável ao processo sumário o disposto no n.º 3 do artigo 811.º, sendo, porém, de 5 dias o prazo concedido ao executado para embargar a execução ou requerer a substituição dos bens penhorados.
 
-###### ARTIGO 928.º
+ARTIGO 928.º
 
 [...]
 
@@ -874,7 +1026,7 @@ A apelação tem sempre efeito meramente devolutivo. Ao seu julgamento é també
 
 2 - Se a execução se fundar em sentença transitada há não mais de um ano, pode o exequente pedir, logo no requerimento inicial, que se proceda à entrega judicial da coisa nos termos do artigo 930.º; nesse caso, o executado não será citado, mas apenas notificado, logo após a entrega do requerimento inicial, e bem assim do despacho determinativo da entrega, sendo-lhe facultada a dedução de embargos dentro dos 10 dias subsequentes.
 
-###### ARTIGO 927.º
+ARTIGO 927.º
 
 [...]
 
@@ -886,7 +1038,7 @@ b) A falta de alguma ou de ambas as partes que tenham sido convocadas não é mo
 
 c) Se alguma das partes não comparecer ou não for possível obter o acordo entre elas, pode o réu contestar e deduzir em reconversão o seu direito a benfeitorias ou a indemnização.
 
-###### ARTIGO 979.º
+ARTIGO 979.º
 
 [...]
 
@@ -896,9 +1048,9 @@ c) Se alguma das partes não comparecer ou não for possível obter o acordo ent
 
 3 - Quando, porém, se não trate de arrendamento rural, o réu pode obstar ao despejo, mostrando, quando for ouvido, que, fora do prazo, pagou ou depositou definitivamente, embora sem notificação ao senhorio, o montante das rendas e a importância da indemnização devida; nesse caso, é o réu condenado nas custas do incidente e nas despesas de levantamento do depósito, que serão contadas a final.
 
-###### Art. 2.º São aditados ao texto actual do Código de Processo Civil os seguintes artigos:
+Art. 2.º São aditados ao texto actual do Código de Processo Civil os seguintes artigos:
 
-###### ARTIGO 228.º-A
+ARTIGO 228.º-A
 
 (Modalidade)
 
@@ -912,13 +1064,13 @@ c) Se alguma das partes não comparecer ou não for possível obter o acordo ent
 
 5 - As notificações, salvo disposição legal em contrário, são feitos pelo correio, excepto a notificação avulsa, que é sempre efectuada pelo oficial de justiça.
 
-###### ARTIGO 228.º-B
+ARTIGO 228.º-B
 
 (Citação ou notificação de certas pessoas)
 
 Os incapazes, os incertos, as pessoas colectivas, as sociedades e os patrimónios autónomos são citados ou notificados na pessoa dos seus representantes, sem prejuízo do disposto nos artigos 13.º, 13.º-A, 13.º-B, n.º 3, e 13.º-D, n.os 2 e 3; quando a representação pertença a mais de uma pessoa, ainda que cumulativamente, basta que seja citada uma delas.
 
-###### ARTIGO 234.º-A
+ARTIGO 234.º-A
 
 (Diligência prévia na citação pelo oficial de justiça)
 
@@ -928,7 +1080,7 @@ Os incapazes, os incertos, as pessoas colectivas, as sociedades e os património
 
 3 - Se o citando não comparecer, passa-se mandado para a citação ser efectuada pelo oficial de justiça, salvo se o juiz, atentas as circunstâncias do caso, entender que deve proceder-se de outro modo.
 
-###### ARTIGO 238.º-A
+ARTIGO 238.º-A
 
 (Citação pelo correio)
 
@@ -942,7 +1094,7 @@ Os incapazes, os incertos, as pessoas colectivas, as sociedades e os património
 
 5 - A citação por via postal tem-se como efectuada na própria pessoa do citando.
 
-###### ARTIGO 464.º-A
+ARTIGO 464.º-A
 
 (Simplificação das formas de processo)
 
@@ -952,11 +1104,11 @@ Os incapazes, os incertos, as pessoas colectivas, as sociedades e os património
 
 3 - O juiz pode indeferir a simplificação processual requerida pelas partes, quando ela impeça o criterioso julgamento da causa.
 
-###### Art. 3.º São revogados os artigos 233.º, 237.º, 240.º, 241.º e 247.º do Código de Processo Civil, bem como os n.os 1 a 6 do artigo 68.º do Código da Estrada.
+Art. 3.º São revogados os artigos 233.º, 237.º, 240.º, 241.º e 247.º do Código de Processo Civil, bem como os n.os 1 a 6 do artigo 68.º do Código da Estrada.
 
-###### Art. 4.º Os artigos 8.º, 98.º, 104.º e 105.º do Código das Custas Judiciais passam a ter a seguinte redacção:
+Art. 4.º Os artigos 8.º, 98.º, 104.º e 105.º do Código das Custas Judiciais passam a ter a seguinte redacção:
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 [...]
 
@@ -974,7 +1126,7 @@ e) ...
 
 2 - ...
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 [...]
 
@@ -986,7 +1138,7 @@ e) ...
 
 4 - Os preparos são sempre arredondados para a dezena de escudos imediatamente superior e não são inferiores a 500$00.
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 [...]
 
@@ -1002,7 +1154,7 @@ Para os recursos da notificação da distribuição no tribunal superior.
 
 4 - ...
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 [...]
 
@@ -1010,9 +1162,9 @@ Para os recursos da notificação da distribuição no tribunal superior.
 
 2 - ...
 
-###### Art. 5.º O artigo 9.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passa a ter a seguinte redacção:
+Art. 5.º O artigo 9.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passa a ter a seguinte redacção:
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - ...
 
@@ -1032,16 +1184,16 @@ e) ...
 
 4 - Quando a forma de processo tenha sido simplificada nos termos do artigo 464.º-A do Código de Processo Civil, os limites máximo e mínimo da procuradoria são aumentados em 50%.
 
-###### Art. 6.º O presente diploma entra em vigor em 1 de Outubro de 1985.
+Art. 6.º O presente diploma entra em vigor em 1 de Outubro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 25 de Junho de 1985.**
+Promulgado em 25 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Junho de 1985.**
+Referendado em 27 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

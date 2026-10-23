@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09700/13971400.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1984-655084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d977350bba3e2495e0b30bfd165fc6ea0114e337eebf7b656a81f8c3cb6effe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b492dc2822330786e155e96eb9bcbc896600ebc3a477c805cab360dd70a76d3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Ensino Superior
+- Ministério da Educação
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:692654:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692654:por
+  label: Revogado pelo(a) Dec Lei 129/93 - Diário da República n.º 94/1993, Série I-A de 1993-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1993-692654
+  date: '1993-04-22'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:38Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +118,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São revogados a alínea d) do n.º 1 do artigo 10.º, o n.º 2 do artigo 10.º, a alínea f) do n.º 1 do artigo 39.º e o artigo 42.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio.
+Artigo 1.º São revogados a alínea d) do n.º 1 do artigo 10.º, o n.º 2 do artigo 10.º, a alínea f) do n.º 1 do artigo 39.º e o artigo 42.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio.
 
-###### Art. 2.º Os artigos 1.º, 4.º, 6.º, 8.º, 9.º, 10.º, 13.º, 15.º, 16.º, 18.º, 21.º, 24.º e 39.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1.º, 4.º, 6.º, 8.º, 9.º, 10.º, 13.º, 15.º, 16.º, 18.º, 21.º, 24.º e 39.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Os serviços sociais do ensino superior, adiante designados por serviços sociais, são pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, e funcionam em cada universidade, instituto universitário ou outros estabelecimentos de ensino superior.
+Artigo 1.º - 1 - Os serviços sociais do ensino superior, adiante designados por serviços sociais, são pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, e funcionam em cada universidade, instituto universitário ou outros estabelecimentos de ensino superior.
 
 2 - ...
 
@@ -137,9 +150,9 @@ l) ...
 
 3 - ...
 
-###### Art. 4.º Os diversos tipos de auxílios económicos ou de serviços a prestar pelos serviços sociais serão regulamentados por portaria do Ministro da Educação, ouvido o Conselho de Acção Social do Ensino Superior.
+Art. 4.º Os diversos tipos de auxílios económicos ou de serviços a prestar pelos serviços sociais serão regulamentados por portaria do Ministro da Educação, ouvido o Conselho de Acção Social do Ensino Superior.
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - ...
 
@@ -159,7 +172,7 @@ e) 1 representante das associações de estudantes de cada universidade ou insti
 
 5 - ...
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 2 - Para além das reuniões previstas no número anterior, o Conselho de Acção Social do Ensino Superior reunirá obrigatoriamente, sob a presidência do Ministro da Educação, uma vez por ano.
 
@@ -171,9 +184,9 @@ e) 1 representante das associações de estudantes de cada universidade ou insti
 
 6 - O Conselho será apoiado pelo Gabinete de Apoio à Acção Social do Ensino Superior, que ficará na dependência do presidente do Conselho de Acção Social do Ensino Superior.
 
-###### Art. 9.º Mantém-se em funcionamento o Gabinete de Apoio à Acção Social do Ensino Superior.
+Art. 9.º Mantém-se em funcionamento o Gabinete de Apoio à Acção Social do Ensino Superior.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 a) Realizar, a pedido e sob orientação do presidente do Conselho de Acção Social do Ensino Superior, os estudos necessários à definição da política de acção social global e do ensino superior;
 
@@ -189,7 +202,7 @@ f) Promover a execução das deliberações do Conselho de Acção Social do Ens
 
 2 - A dotação de pessoal, local de instalação e equipamento necessário ao funcionamento do Gabinete de Apoio à Acção Social do Ensino Superior, bem como o respectivo regulamento, serão definidos por despacho ministerial até 30 dias após a publicação do presente diploma.
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 a) ...
 
@@ -207,7 +220,7 @@ f) ...
 
 3 - ...
 
-###### Art. 15.º - 1 - O conselho geral tem a seguinte composição:
+Art. 15.º - 1 - O conselho geral tem a seguinte composição:
 
 a) O presidente dos serviços sociais, que preside;
 
@@ -229,7 +242,7 @@ f) 2 representantes das associações de estudantes.
 
 5 - O regulamento eleitoral para designação dos representantes dos estudantes, previstos na alínea e) do n.º 1 deste artigo, deverá ser apresentado ao Ministro até 30 dias após a publicação do presente diploma, para homologação.
 
-###### Art. 16.º Compete ao conselho geral:
+Art. 16.º Compete ao conselho geral:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades a submeter à aprovação do Conselho de Acção Social do Ensino Superior;
 
@@ -243,7 +256,7 @@ e) Aprovar o projecto de relatório anual de actividades;
 
 f) Acompanhar o funcionamento e consultar a documentação dos serviços operativo e de apoio, podendo para o efeito delegar poderes em algum ou alguns dos seus membros.
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 a) ...
 
@@ -257,7 +270,7 @@ d) ...
 
 3 - ...
 
-###### Art. 21.º - 1 - ...
+Art. 21.º - 1 - ...
 
 2 - ...
 
@@ -275,11 +288,11 @@ b) ...
 
 4 - A estrutura, dimensão e regulamentação dos serviços constantes dos números anteriores serão fixadas no diploma referido no artigo 39.º do presente decreto-lei, tendo em consideração o volume de serviços a prestar. Tal diploma poderá criar ou extinguir alguns dos serviços antes enunciados.
 
-###### Art. 24.º - 1 - Os serviços sociais poderão ainda dispor de serviços de infantário, jardins-de-infância, secção de textos, livraria e material escolar e outros que venham a ser criados.
+Art. 24.º - 1 - Os serviços sociais poderão ainda dispor de serviços de infantário, jardins-de-infância, secção de textos, livraria e material escolar e outros que venham a ser criados.
 
 2 - ...
 
-###### Art. 39.º - 1 - ...
+Art. 39.º - 1 - ...
 
 a) ...
 
@@ -295,12 +308,12 @@ e) ...
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - José Augusto Seabra.
 
-**Promulgado em 13 de Abril de 1984.**
+Promulgado em 13 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Abril de 1984.**
+Referendado em 16 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

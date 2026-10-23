@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 121/1986, 1º Suplemento, Série I de 1986-05-27
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1278-(1) a 1278-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/12101/00010007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-1986-168039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d496801ac1240693318333c5e933f9588af3fd499be1ee9758134511c195f4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2dd3f5417f5108a92d1f7c724a3a660c916d886e2ae6fc97499046fcdf22e40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654545:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:49Z'
   warnings: []
   errors: []
 ---
@@ -314,7 +409,7 @@ No ano de 1986 é suspensa a aplicação do disposto na alínea b) do artigo 97.
 
 ###### Artigo 32.º — (Benefícios fiscais relativos às empresas assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S.A.R.L.)
 
-**O Ministro das Finanças poderá, durante o ano de 1986, conceder às empresas assistidas pela PAREMPRESA de entre os benefícios previstos nas Leis n.os [36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193) e [39/77](https://diariodarepublica.pt/dr/detalhe/lei/39-1977-253188), ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.**
+O Ministro das Finanças poderá, durante o ano de 1986, conceder às empresas assistidas pela PAREMPRESA de entre os benefícios previstos nas Leis n.os [36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193) e [39/77](https://diariodarepublica.pt/dr/detalhe/lei/39-1977-253188), ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.
 
 ###### Artigo 33.º — (Imposto extraordinário sobre os lucros)
 
@@ -344,12 +439,12 @@ Não poderão ser utilizadas em mais de 96% as dotações dos capítulos 50.º �
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
 
-**Promulgado em 25 de Maio de 1986.**
+Promulgado em 25 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Maio de 1986.**
+Referendado em 26 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

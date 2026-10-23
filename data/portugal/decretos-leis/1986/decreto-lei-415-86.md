@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28800/37293730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1986-221322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17e1b0c108256cef9c6fdb773b364561e561ed1167a019f43aa91881b6e7f77e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 347e58f4e7991a47213af15e5a986a6e42ea063b402870450e20982cbce59a5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete para as Comunidades Europeias
+- Ministério das Obras Públicas Transportes e Comunicações
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:352174:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2257457:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma, pela Port 9/97IIS.1996.11.21.PCM, DR.IIS\
+    \ [8] de 10/Jan/1997 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-1996-2257457
+  date: '1996-11-21'
+- type: amended_by
+  target: pt:dre:3457328:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela PORT.368/2000(2ªSÉRIE).2000.02.08.MES, DR.IIS [63] de\
+    \ 15/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-2000-3457328
+  date: '2000-02-08'
+- type: cites
+  target: pt:dre:220097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:352174:por
+  label: "Revogado pelo DEC LEI.135/97.1997.05.31.MEPAT DR.IS-A [125] e extinto o Gabinete por ele criado.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1997-352174
+  date: '1997-05-31'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:11Z'
   warnings: []
   errors: []
 ---
@@ -152,16 +180,16 @@ Os encargos com a criação do Gabinete para as Comunidades Europeias serão sup
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Novembro de 1986.**
+Promulgado em 26 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Dezembro de 1986.**
+Referendado em 2 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro do pessoal a que se refere o artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/28800/37293730.pdf))](https://files.diariodarepublica.pt/1s/1986/12/28800/37293730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/28800/37293730.pdf)

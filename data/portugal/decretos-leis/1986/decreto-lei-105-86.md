@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11400/11801180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1986-227062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c55985b245a83f38f2a0da3fc97001325435afd899121b496acedcf29644020
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7660fb4eb43201d041aca35c08aadcea8ebc7a80b139449e059c12f83844ad84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gratificação
+- Telescola
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525627:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:518826:por
+  label: Rectificado pela DECL.DD4726.27.06.1986.PCM, DR.IS [147]2ºSupl de 30.06.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-518826
+  date: '1986-06-27'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:35Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +121,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - Ao director da Telescola passa a aplicar-se o estabelecido no n.º 1 do artigo 1.º do [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689), de 1 de Julho.
 
@@ -105,30 +129,30 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - Aos directores referidos nos números anteriores são igualmente aplicáveis as disposições constantes do artigo 3.º do [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689), sem dependência de qualquer outra formalidade, devendo os valores finais ser arredondados, por excesso, nas centenas de escudos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A aplicação do artigo anterior deverá tomar em consideração os valores corrigidos constantes do Despacho conjunto n.º 100/MFP/ME/85, publicado no Diário da República, 2.ª série, de 25 de Março de 1985.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Os encargos resultantes da aplicação do presente diploma são suportados pela verba inscrita no orçamento privativo do Instituto de Tecnologia Educativa consignada a gratificações certas e permanentes.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 São revogadas as alíneas a) e b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 909/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/909-1976-391065), de 31 de Dezembro.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O presente diploma produz efeitos desde 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 10 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 24 de Abril de 1986.**
+Promulgado em 24 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Maio de 1986.**
+Referendado em 8 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26500/34433444.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1986-220895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e37d075f7160f439b11de30bda203a060bb6ff39ae1230311bb4966d6965c6be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e8b5e326e3650e8993f665b11d29e6f87880e775b7b6e793bd59a99fed7d9ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Destacamento de Pessoal
+- Gratificação
+- Instituto de Tecnologia Educativa
+- Pessoal Docente
+- Telescola
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684799:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:40Z'
   warnings: []
   errors: []
 ---
@@ -103,22 +129,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal docente em regime de destacamento no Instituto de Tecnologia Educativa que integra as equipas pedagógicas do ciclo preparatório TV tem direito a uma gratificação mensal a fixar por despacho conjunto dos Ministros das Finanças e da Educação e Cultura.
+Artigo 1.º O pessoal docente em regime de destacamento no Instituto de Tecnologia Educativa que integra as equipas pedagógicas do ciclo preparatório TV tem direito a uma gratificação mensal a fixar por despacho conjunto dos Ministros das Finanças e da Educação e Cultura.
 
-###### Art. 2.º Os encargos resultantes da aplicação do presente diploma são suportados pela verba inscrita no orçamento privativo do Instituto de Tecnologia Educativa consignada a gratificações certas e permanentes.
+Art. 2.º Os encargos resultantes da aplicação do presente diploma são suportados pela verba inscrita no orçamento privativo do Instituto de Tecnologia Educativa consignada a gratificações certas e permanentes.
 
-###### Art. 3.º É revogada a alínea c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 909/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/909-1976-391065), de 31 de Dezembro.
+Art. 3.º É revogada a alínea c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 909/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/909-1976-391065), de 31 de Dezembro.
 
-###### Art. 4.º O presente diploma produz efeitos a partir do dia 1 de Outubro de 1986.
+Art. 4.º O presente diploma produz efeitos a partir do dia 1 de Outubro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 29 de Outubro de 1986.**
+Promulgado em 29 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Novembro de 1986.**
+Referendado em 5 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

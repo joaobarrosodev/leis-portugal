@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1985-183002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f24f0a4685db348bfc6299f159678d74afcaa25417b68150cb089eee8d897bea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5d75086d584511f53b962e2aadb9b57912eec7db461e2d720b4394d6799b96b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Função Pública
+- Instituições de Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:42Z'
   warnings: []
   errors: []
 ---
@@ -108,24 +123,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os trabalhadores ao serviço das instituições de previdência de inscrição obrigatória que ainda não tenham sido integradas nos centros regionais de segurança social, de acordo com o previsto no artigo 19.º, n.º 2, do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, consideram-se como tendo vínculo ao regime jurídico dos funcionários e agentes da Administração Pública para efeitos de acesso a concursos públicos para lugares dos quadros dos organismos e serviços da Administração Pública ou para eles serem transferidos, independentemente da efectiva integração das instituições a que pertencem.
+Artigo 1.º - 1 - Os trabalhadores ao serviço das instituições de previdência de inscrição obrigatória que ainda não tenham sido integradas nos centros regionais de segurança social, de acordo com o previsto no artigo 19.º, n.º 2, do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, consideram-se como tendo vínculo ao regime jurídico dos funcionários e agentes da Administração Pública para efeitos de acesso a concursos públicos para lugares dos quadros dos organismos e serviços da Administração Pública ou para eles serem transferidos, independentemente da efectiva integração das instituições a que pertencem.
 
 2 - O provimento em lugares dos quadros dos organismos e serviços mencionados no n.º 1 confere aos trabalhadores em causa a qualidade de funcionários públicos e o direito a que lhes seja contado para todos os efeitos legais, incluindo a aposentação, o tempo de serviço anteriormente prestado nas instituições de segurança social, nos termos previstos no [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho.
 
-###### Art. 2.º Ao pessoal a que se refere o artigo anterior são aplicáveis os restantes instrumentos de mobilidade previstos no [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+Art. 2.º Ao pessoal a que se refere o artigo anterior são aplicáveis os restantes instrumentos de mobilidade previstos no [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
-###### Art. 3.º As comissões administrativas das instituições de previdência de inscrição obrigatória poderão propor ao órgão de tutela a requisição ou o destacamento de trabalhadores para preenchimento dos lugares deixados vagos pela saída de pessoal que lhes estava adstrito por efeitos de mobilidade possibilitada pela aplicação do presente diploma sempre que tal medida se revele indispensável à continuidade do funcionamento normal das instituições.
+Art. 3.º As comissões administrativas das instituições de previdência de inscrição obrigatória poderão propor ao órgão de tutela a requisição ou o destacamento de trabalhadores para preenchimento dos lugares deixados vagos pela saída de pessoal que lhes estava adstrito por efeitos de mobilidade possibilitada pela aplicação do presente diploma sempre que tal medida se revele indispensável à continuidade do funcionamento normal das instituições.
 
-###### Art. 4.º Na fixação da quota de descongelamento para 1985 serão tidas em conta as disponibilidades de pessoal permitidas por este diploma.
+Art. 4.º Na fixação da quota de descongelamento para 1985 serão tidas em conta as disponibilidades de pessoal permitidas por este diploma.
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo.
 
-**Promulgado em 26 de Junho de 1985.**
+Promulgado em 26 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Julho de 1985.**
+Referendado em 1 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/14900/23962397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61ab34cb02b298a17e720202c217ca1c32c53cd8b8cc30c1ce8fa33172e4d531
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60483e83b59bb76e0f2270a59182b35e838a7944515f74b6c1a35a00d0cdbaf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Ensino Preparatório
+- Gratificação
 relationships:
 - type: amended_by
   target: pt:dre:628527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628527:por
+  label: "Revogado, sem prejuízo da respectiva aplicação até ao termo do período de transição, nos termos dos arts. 2.º e\
+    \ seguintes do Dec Lei 115-A/98 de 04-Mai, pelo DEC LEI.355-A/98.1998.11.13.ME DR.IS-A [263]SUPL\0L\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-a-1998-628527
+  date: '1998-11-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:39Z'
   warnings: []
   errors: []
 ---
@@ -104,30 +117,30 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os presidentes dos conselhos directivos dos estabelecimentos de ensino preparatório e secundário passam a auferir uma gratificação mensal de 5000$00 em acréscimo do vencimento.
+Artigo 1.º - 1 - Os presidentes dos conselhos directivos dos estabelecimentos de ensino preparatório e secundário passam a auferir uma gratificação mensal de 5000$00 em acréscimo do vencimento.
 
 2 - O disposto no número anterior aplica-se igualmente aos encarregados de direcção dos estabelecimentos dos ensinos preparatório e secundário, presidente da comissão instaladora dos estabelecimentos daqueles graus de ensino e ainda aos directores das escolas do magistério primário e escolas normais de educadores de infância.
 
-###### Art. 2.º Os vencimentos dos vice-presidentes e restantes professores dos conselhos directivos e das comissões instaladoras dos ensinos preparatório e secundário são acrescidos de uma gratificação mensal no montante de 4000$00.
+Art. 2.º Os vencimentos dos vice-presidentes e restantes professores dos conselhos directivos e das comissões instaladoras dos ensinos preparatório e secundário são acrescidos de uma gratificação mensal no montante de 4000$00.
 
-###### Art. 3.º As gratificações referidas nos artigos anteriores serão actualizadas sempre que se verifiquem aumentos da função pública, sendo a percentagem de aumento idêntica àquela que se verifique para a letra C da tabela de vencimentos da função pública.
+Art. 3.º As gratificações referidas nos artigos anteriores serão actualizadas sempre que se verifiquem aumentos da função pública, sendo a percentagem de aumento idêntica àquela que se verifique para a letra C da tabela de vencimentos da função pública.
 
-###### Art. 4.º É vedada aos membros docentes dos conselhos directivos e das comissões instaladoras e aos directores das escolas do magistério primário e escolas normais de educadores de infância a prestação de serviço lectivo extraordinário, exceptuados casos de força maior expressamente autorizados por despacho ministerial.
+Art. 4.º É vedada aos membros docentes dos conselhos directivos e das comissões instaladoras e aos directores das escolas do magistério primário e escolas normais de educadores de infância a prestação de serviço lectivo extraordinário, exceptuados casos de força maior expressamente autorizados por despacho ministerial.
 
-###### Art. 5.º O tempo de serviço prestado em órgãos directivos de 1 de Janeiro de 1980 até à entrada em vigor do presente diploma será bonificado pelo factor 1.25 contado para efeitos de progressão nas fases, mas não para efeitos de concurso.
+Art. 5.º O tempo de serviço prestado em órgãos directivos de 1 de Janeiro de 1980 até à entrada em vigor do presente diploma será bonificado pelo factor 1.25 contado para efeitos de progressão nas fases, mas não para efeitos de concurso.
 
-###### Art. 6.º O presente diploma poderá ser aplicado às regiões autónomas por decreto dos respectivos governos regionais.
+Art. 6.º O presente diploma poderá ser aplicado às regiões autónomas por decreto dos respectivos governos regionais.
 
-###### Art. 7.º O presente diploma produz efeitos a partir de 1 de Julho de 1983 e manter-se-á em vigor até que seja revisto o [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), de 23 de Outubro, ou até à publicação do Estatuto da Carreira Docente do Ensino Não Superior.
+Art. 7.º O presente diploma produz efeitos a partir de 1 de Julho de 1983 e manter-se-á em vigor até que seja revisto o [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), de 23 de Outubro, ou até à publicação do Estatuto da Carreira Docente do Ensino Não Superior.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco, José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - João José Fraústo da Silva - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 31 de Maio de 1983.**
+Promulgado em 31 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Maio de 1983.**
+Referendado em 31 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

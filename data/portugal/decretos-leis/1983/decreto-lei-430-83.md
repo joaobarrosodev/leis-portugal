@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/28500/40154029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1983-443290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53c178d5d4a99b730b1b4aef7ba1697ca5432c2db247010d9fab0ce3e8486fe6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a646e7d8dc368c7902b91f65f91112ef88c8446d3dd7c1d4df8620f414d5ac14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos da Profilaxia da Droga
+- Consumo
+- Contra-ordenação
+- Crime
+- Definição de Competências
+- Droga
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
+- Multa
+- Responsabilidade Criminal
+- Sanção Penal
+- Saúde Pública
+- Toxicodependente
 relationships:
 - type: amended_by
   target: pt:dre:585178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:373436:por
+  label: "Determinada a cessação do disposto na ressalva prevista no n.º 1 do art. 62.º pelo DR.71/84.07.09.1984.MJ, DR.IS\
+    \ [208] de 07.09.1984, salvaguardando-se, contudo, o disposto na norma transitória do seu art. 63.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/71-1984-373436
+  date: '1984-09-07'
+- type: amended_by
+  target: pt:dre:662539:por
+  label: "Acrescentadas substâncias às tabelas anexas, pela PORT.167/87.1987.03.10.MJ, DR.IS [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/167-1987-662539
+  date: '1987-03-10'
+- type: amended_by
+  target: pt:dre:333098:por
+  label: "Alterada a Tabela IV, na redacção da Port 217/90, de 24-mar, pela PORT.218/90.1990.03.24.MJ DR.IS [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-1990-333098
+  date: '1990-03-24'
+- type: amended_by
+  target: pt:dre:333099:por
+  label: "Alteradas as tabelas I-A (na redacção da Port 167/87, de 10-mar), II-B, II-C (a última na redacção da Port 167/87,\
+    \ de 10-mar) e IV, pela PORT.217/90.1990.03.24.MJ DR.IS [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-1990-333099
+  date: '1990-03-24'
+- type: amended_by
+  target: pt:dre:657869:por
+  label: "Alterado o artigo 35.º pelo DEC LEI.209/91.08.06.1991.MS, DR.IS-A [131] de 08.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1991-657869
+  date: '1991-06-08'
+- type: cites
+  target: pt:dre:141034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609092:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:146011:por
+  label: Rectificado pela DECL.DD885.1984.01.30.PCM DR.IS [26]3ºSupl de 31.01.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-146011
+  date: '1984-01-30'
+- type: repealed_by
+  target: pt:dre:585178:por
+  label: "Revogado pelo DEC LEI.15/93.1993.01.22.MJ,DR.IS-A [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1993-585178
+  date: '1993-01-22'
 article_structure:
   article_count: 62
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:37Z'
   warnings: []
   errors: []
 ---
@@ -731,15 +832,15 @@ h) A [Portaria n.º 312/82](https://diariodarepublica.pt/dr/detalhe/portaria/312
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - António Manuel Maldonado Gonelha.
 
-**Promulgado em 22 de Novembro de 1983.**
+Promulgado em 22 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Novembro de 1983.**
+Referendado em 23 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Tabelas das substâncias e preparados sujeitos a controle (artigos 2.º, 3.º e 4.º do Decreto-Lei n.º 430/83, de 13 de Dezembro).
 
@@ -819,7 +920,7 @@ Drotebanol - 3,4-dimetoxi-17-metilmorfinano-6-beta, 14-diol.
 
 Etilmetiltiambuteno - 3-etilmetilamino-1,1-di-(2'tienil)-1-buteno.
 
-Etilmorfina - 3-etoxi-4,5-epoxi-6-hidroxi-17-metil-7-morfineno; 3-([([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28500/40154029.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28500/40154029.pdf)
+Etilmorfina - 3-etoxi-4,5-epoxi-6-hidroxi-17-metil-7-morfineno; 3-([(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28500/40154029.pdf)
 
 Etonitazeno - 1-dietilaminoetil-2-para-etoxibenzil-5-nitrobenzimadozal.
 
@@ -1103,4 +1204,4 @@ Lefetamina SPA - (-)-dimetilamino-1,2-difeniletano.
 
 Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.
 
-**O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.

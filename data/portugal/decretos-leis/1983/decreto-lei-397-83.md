@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f439e2cc954d01b631256c5458498293034b339e850580de26d8115b4b60876b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77b8c056a868f6b96298ea8544a7cbebd06aa28f7b7425939a6dc2d79cacb589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento do Notariado
+- Registo Automóvel
+- Registo Comercial
+- Registo Predial
+- Registos e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:591313:por
+  label: "Substituída, a partir de 01.10.1984, a tabela de emolumentos do registo predial, pelo DEC LEI.224/84.06.07.1984.MJ,\
+    \ DR.IS [155-Supl] de 06.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1984-591313
+  date: '1984-07-06'
+- type: amended_by
+  target: pt:dre:421179:por
+  label: "Alterado o artigo 9.º da Tabela de Emolumentos do Notariado, pela PORT.378/87.05.05.1987.MJ, DR.IS [102] de 05.05.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1987-421179
+  date: '1987-05-05'
+- type: amended_by
+  target: pt:dre:420583:por
+  label: "Alterado o artigo 26.º e aditados os artigos n.ºs 27.º, 28.º e 29.º à tabela de emolumentos do registo comercial,\
+    \ pela PORT.632/87.20.07.1987.MJ, DR.IS [164] de 20.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/632-1987-420583
+  date: '1987-07-20'
+- type: amended_by
+  target: pt:dre:333164:por
+  label: "Alterado o art. 68º do Dec Lei 519-F2/79 de 29-Dez, pelo DEC LEI.92/90.17.03.1990.MJ, DR.IS [64] de 17.03.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1990-333164
+  date: '1990-03-17'
+- type: amended_by
+  target: pt:dre:288404:por
+  label: "Alterados os art.s 20º, 23º, 24º e 30º da tabela de emolumentos do notariado e aditdo o art. 8º da tabela de emolumentos\
+    \ do registo de automóveis, pela PORT.1046/91.12.10.1991.MJ, DR.IS-B [235] de 12.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1046-1991-288404
+  date: '1991-10-12'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Conferida nova redacção ao art. 26º da Tabela de Emolumentos do Notariado, pelo DEC LEI.227/94.1994.09.08.MJ, DR.IS-A\
+    \ [208]\0208]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469979:por
+  label: Rectificado pela DECL.DD5604.15.11.1983.PCM, DR.IS [276]2ºSupl de 30.11.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469979
+  date: '1983-11-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:04Z'
   warnings: []
   errors: []
 ---
@@ -108,29 +162,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As tabelas de emolumentos dos registos predial, comercial e de automóveis e a tabela de emolumentos do notariado são substituídas pelas correspondentes tabelas anexas ao presente diploma.
+Artigo 1.º As tabelas de emolumentos dos registos predial, comercial e de automóveis e a tabela de emolumentos do notariado são substituídas pelas correspondentes tabelas anexas ao presente diploma.
 
-###### Art. 2.º As tabelas de emolumentos referidas no número anterior, bem como a de emolumentos do registo civil, podem ser alteradas mediante portaria do Ministro da Justiça.
+Art. 2.º As tabelas de emolumentos referidas no número anterior, bem como a de emolumentos do registo civil, podem ser alteradas mediante portaria do Ministro da Justiça.
 
-###### Art. 3.º O artigo 68.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 68.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, passa a ter a seguinte redacção:
 
 Os requerimentos legalmente indispensáveis para a realização de qualquer acto de registo e, bem assim, os directamente relacionados com actos de registo ou notariais que devam ser apresentados em outras repartições podem, a pedido dos interessados e sem prejuízo dos demais serviços, ser redigidos nas conservatórias ou cartórios notariais pelos respectivos funcionários, mediante o pagamento de uma taxa de 200$00 por cada requerimento, acrescida de 100$00 por cada acto de registo além do primeiro; quando o requerimento se destinar a obter certidões, a taxa será de 100$00, acrescida de 20$00 por cada prédio além do primeiro.
 
-###### Art. 4.º O artigo 151.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, passa a ter a seguinte redacção:
+Art. 4.º O artigo 151.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, passa a ter a seguinte redacção:
 
 Aos oficiais dos registos e do notariado que possuam as habilitações literárias que, ao tempo do seu ingresso, eram necessárias para provimento nos lugares de escriturário dos quadros dos serviços externos da Direcção-Geral dos Registos e do Notariado são garantidos o ingresso e o acesso a todos os graus da carreira de ajudante.
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 18 de Outubro de 1983.**
+Promulgado em 18 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Outubro de 1983.**
+Referendado em 20 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 TABELA DE EMOLUMENTOS DO REGISTO PREDIAL
 
@@ -816,4 +870,4 @@ A taxa de reembolso, englobada no montante total das importâncias arrecadadas, 
 
 2 - No caso de dúvida sobre qual seja o emolumento, devido, cobrar-se-á sempre o menor.
 
-**O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.

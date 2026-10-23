@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1983-443130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 468898a4007270da85ad0d1e9c5538d2f36b06254548aa6ac8b98156acb12321
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88eba8e84e3f1c25693257ae3ff9ef8ff1f3ee82cbf547112f3120b43b06684c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- EDP
+- Energia Elétrica
+relationships:
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:32Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +116,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Para efeitos do número anterior, a zona de influência de um centro produtor hidroeléctrico é determinada pela área do círculo de raio igual a 2,5 km, com centro no edifício da central, acrescida da superfície inundada exterior a esse círculo, e a zona de influência de um centro produtor termoeléctrico é determinada pela área de um círculo de raio R, com centro no edifício da central, em que R tem os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf)
 
 ###### Artigo 2.º — (Cálculo da renda de centros electroprodutores em exploração)
 
@@ -201,15 +212,15 @@ Z(índice c) - zona de influência do centro electroprodutor c, em quilómetros 
 
 a) Caso do centro termoeléctrico a fuelóleo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf)
 
 b) Caso do centro termoeléctrico a carvão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf)
 
 c) No caso da central nuclear:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28000/39723974.pdf)
 
 3 - O valor dos coeficientes de ponderação previstos no número anterior poderá ser revisto por portaria conjunto dos Ministros da Indústria e Energia e da Administração Interna, ouvida a EDP.
 
@@ -233,12 +244,12 @@ O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - José Veiga Simão.
 
-**Promulgado em 22 de Novembro de 1983.**
+Promulgado em 22 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Novembro de 1983.**
+Referendado em 23 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

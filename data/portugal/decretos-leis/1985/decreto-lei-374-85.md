@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/21700/30543077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1985-177446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e6a1c77a81d13faccc4e4b868810003527437342c89c44a9ff2ac9ce96ff5db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3f263c6df1f2a80c08194a666967e5f2e295a173fd2cfb100e78988fc64789
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Guarda Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600513:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:322317:por
+  label: Rectificado pela DECL.DD5184.22.10.1985.PCM, DR.IS [251]3ºSupl de 31.10.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-322317
+  date: '1985-10-22'
+- type: corrected_by
+  target: pt:dre:138110:por
+  label: Rectificado pela DECL.DD5118.20.11.1985.PCM, DR.IS [276]Supl de 30.11.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-138110
+  date: '1985-11-20'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:00Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +170,11 @@ Impõe-se, assim, a necessidade de dotar a Guarda Fiscal de regulamentação est
 
 Nesta conformidade, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovados o Estatuto do Militar da Guarda Fiscal e, bem assim, os Estatutos do Oficial, do Sargento e da Praça do mesmo corpo especial de tropas, que fazem parte integrante do presente decreto-lei.
+Artigo 1.º São aprovados o Estatuto do Militar da Guarda Fiscal e, bem assim, os Estatutos do Oficial, do Sargento e da Praça do mesmo corpo especial de tropas, que fazem parte integrante do presente decreto-lei.
 
-###### Art. 2.º Os estatutos aprovados por este diploma deverão ser revistos dentro do prazo de 2 anos, após a publicação dos Estatutos da Condição Militar e Geral do Militar.
+Art. 2.º Os estatutos aprovados por este diploma deverão ser revistos dentro do prazo de 2 anos, após a publicação dos Estatutos da Condição Militar e Geral do Militar.
 
-###### Art. 3.º São revogados os diplomas legais vigentes contrários ao preceituado nos referidos Estatutos, designadamente os seguintes:
+Art. 3.º São revogados os diplomas legais vigentes contrários ao preceituado nos referidos Estatutos, designadamente os seguintes:
 
 [Decreto-Lei n.º 43907](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43907-1961-180398), de 12 de Setembro de 1961;
 
@@ -125,21 +194,21 @@ Nesta conformidade, o Governo decreta, nos termos da alínea a) do n.º 1 do art
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 6 de Setembro de 1985.**
+Promulgado em 6 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Setembro de 1985.**
+Referendado em 10 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Estatuto do Militar da Guarda Fiscal
 
 ### CAPÍTULO I — Âmbito e finalidade
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Âmbito
 
@@ -147,7 +216,7 @@ Estatuto do Militar da Guarda Fiscal
 
 2 - Os oficiais das Forças Armadas em serviço na Guarda regem-se pelos seus próprios estatutos, sendo-lhes aplicadas as disposições do capítulo II, dos artigos 5.º, 11.º, 13.º, 14.º e 17.º do capítulo III, do artigo 61.º do capítulo V, do capítulo X, com excepção das alíneas h), i) e j) do n.º 1 do artigo 118.º e dos artigos 126.º, 127.º e 128.º, e ainda do capítulo XI do presente Estatuto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Definição)
 
@@ -157,7 +226,7 @@ Estatuto do Militar da Guarda Fiscal
 
 ### CAPÍTULO II — Deveres e direitos
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Deveres)
 
@@ -237,7 +306,7 @@ c) Todas as alterações às suas habilitações literárias, evolução técnic
 
 34.º Ordenar no exercício de funções de comando e nos termos da lei a notificação de qualquer cidadão para comparecer em qualquer ponto do dispositivo da Guarda dentro da área da comarca da sua residência.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Direitos)
 
@@ -289,67 +358,67 @@ O militar da Guarda Fiscal, além dos direitos que a lei lhe confere, tem, nomea
 
 ### CAPÍTULO III — Hierarquia e funções
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Finalidade)
 
 A hierarquia militar tem por finalidade estabelecer as relações de autoridade e subordinação entre os militares em todas as circunstâncias e é determinada pelos respectivos postos e antiguidades, que conservam o mesmo foro do desempenho de funções.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Data da antiguidade)
 
 Em cada posto, os militares contam a antiguidade desde a data fixada nos respectivos documentos legais de promoção.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Antiguidade dos militares graduados)
 
 Os militares graduados são sempre considerados mais modernos do que os militares promovidos a posto igual, com excepção dos casos previstos na lei.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Escalas hierárquicas)
 
 As escalas hierárquicas dos militares são organizadas por ordem decrescente de postos e, dentro destes, por antiguidade.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Hierarquia funcional)
 
 A hierarquia funcional deve respeitar a hierarquia dos postos e antiguidade dos militares, salvo os casos em que a lei determine de forma diferente.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Prevalência de funções)
 
 Os casos excepcionais em que a hierarquia funcional implica promoção ou graduação ou que prevalece sobre a antiguidade devem ser claramente expressos em documento legal. A graduação e a prevalência sobre a antiguidade terminam com a exoneração dos cargos ou cessação de funções.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Obrigação de funções)
 
 O militar é obrigado ao desempenho de funções próprias do respectivo posto e qualificações profissionais para as quais seja legalmente nomeado.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Funções de posto inferior)
 
 O militar não pode ser nomeado para desempenhar funções que correspondam a posto inferior ao seu nem estar a militares de menor patente ou antiguidade, com excepção dos casos referidos nos artigos 9.º e 10.º
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Funções de posto superior)
 
 O militar no desempenho de funções de posto superior ao seu é considerado como autoridade correspondente a esse posto em relação a todos os subordinados.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Cerimónias)
 
 Em actos e cerimónias militares e civis, excepto formações, os militares colocam-se por ordem hierárquica de postos e antiguidades, observando-se para os oficiais as precedências previstas nos estatutos.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Ordem de Inscrição no posto de ingresso)
 
@@ -361,19 +430,19 @@ b) Mais tempo de serviço;
 
 c) Maior idade.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Alteração na escala do posto)
 
 Sempre que seja alterada a colocação de um militar na escala do seu posto, a data da sua antiguidade passará a ser a do militar que, na nova posição, lhe fica imediatamente a seguir na ordem descendente, salvo se outra data for indicada no documento que determina a alteração.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Antiguidade relativa)
 
 A antiguidade relativa entre militares com o mesmo posto é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Funções de posto imediato)
 
@@ -381,13 +450,13 @@ Sempre que possível, deve ser facultado aos militares reunindo condições de p
 
 ### CAPÍTULO IV — Efectivos e situações
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Efectivos)
 
 Efectivos são, genericamente, os quantitativos de militares da Guarda Fiscal fixados por diplomas legais próprios.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Distribuição por quadros e categorias)
 
@@ -395,25 +464,25 @@ Efectivos são, genericamente, os quantitativos de militares da Guarda Fiscal fi
 
 2 - Os efectivos nas situações de resma e de reforma não são fixos.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Preenchimento de vagas)
 
 As vagas ocorridas devem ser imediatamente preenchidas por militares que reúnam as necessárias condições de promoção.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Vagas por preencher)
 
 Se se verificar a existência de vagas num determinado posto e as mesmas não puderem ser preenchidas por falta de militares com as condições de promoção, efectuar-se-ão as promoções nos graus hierarquicamente inferiores como se tivesse efectuado o respectivo movimento.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Efectivo excedido no posto)
 
 O efectivo fixado para o posto mais elevado no qual se efectuou o movimento ao abrigo do disposto no artigo anterior fica aumentado, transitoriamente, do número de militares promovidos nestas condições, ficando na situação de supranumerários eventuais.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Condições de permanência no activo e na efectividade de serviço)
 
@@ -429,7 +498,7 @@ c) Aptidão técnico-profissional.
 
 3 - A decisão de impor ao militar o afastamento do activo e da efectividade de serviço compete ao Ministro das Finanças do Plano sobre proposta fundamentada do comandante-geral, ouvido o Conselho Superior da Guarda Fiscal, se o entender necessário.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Abate aos efectivos)
 
@@ -445,7 +514,7 @@ d) Sejam dispensados do serviço da Guarda Fiscal.
 
 2 - São igualmente abatidos definitivamente aos efectivos da Guarda, sendo os documentos enviados ao órgão de recrutamento próprio, os militares que tenham sofrido a pena acessória de expulsão.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Listas de antiguidade)
 
@@ -455,7 +524,7 @@ d) Sejam dispensados do serviço da Guarda Fiscal.
 
 3 - A publicação da lista geral de antiguidades será referida em aviso inserto na Ordem Geral da Guarda Fiscal.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Situações em relação ao serviço)
 
@@ -467,25 +536,25 @@ b) Reserva;
 
 c) Reforma.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Activo)
 
 Activo é a situação em que se encontra o militar que reúna as condições legais para exercer ou vir a exercer todas as funções próprias do seu quadro e posto e não abrangido pelas situações previstas para a reserva e reforma.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Reserva)
 
 Reserva é a situação para que transita o militar do activo que, nos termos do artigo 50.º, esteja em condições de exercer apenas algumas das funções próprias do respectivo quadro e posto, sem prejuízo do estabelecido nos artigos 115.º e 116.º, n.º 2.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Reforma)
 
 Reforma é a situação para que transita o militar do activo ou da reserva que, nos termos do artigo 56.º, não esteja em condições de exercer as funções próprias do respectivo quadro e posto.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Situação em relação ao quadro)
 
@@ -497,25 +566,25 @@ b) Adido ao quadro;
 
 c) Supranumerário.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (No quadro)
 
 Considera-se no quadro o militar que é contado nos efectivos aprovados por lei.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Adido ao quadro)
 
 Considera-se adido ao quadro, não sendo contado no seu efectivo, o militar que receba vencimento por outro organismo do Estado, entidade pública ou privada.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Supranumerário)
 
 Considera-se na situação de supranumerário o militar presente além do quadro.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Tipo de supranumerário)
 
@@ -525,19 +594,19 @@ a) Eventual;
 
 b) Não eventual.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Supranumerário eventual)
 
 Designa-se supranumerário eventual o militar aguardando vaga no respectivo quadro.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Supranumerário não eventual)
 
 Designa-se supranumerário não eventual o militar fora do quadro a manter nesta situação enquanto subsistirem os motivos que a determinam.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Supranumerário eventual - Motivos)
 
@@ -557,7 +626,7 @@ c) Por regresso da situação de adido ou de supranumerário não eventual;
 
 d) Por reabilitação em consequência de revisão de processo disciplinar ou criminal.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Supranumerário não eventual - Motivos)
 
@@ -577,7 +646,7 @@ f) Que esteja incurso no disposto nos n.os 1.º e 2.º da alínea c) do artigo 5
 
 g) As previstas nos estatutos que decorrem deste.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Situações quanto à prestação de serviço)
 
@@ -587,7 +656,7 @@ a) Na efectividade de serviço;
 
 b) Fora da efectividade de serviço.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Serviço efectivo - Natureza)
 
@@ -597,13 +666,13 @@ a) Comissão normal;
 
 b) Comissão especial.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Comissão normal)
 
 Considera-se comissão normal o serviço prestado nas unidades e serviços da Guarda Fiscal.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Afastamento da comissão normal)
 
@@ -613,19 +682,19 @@ Considera-se comissão normal o serviço prestado nas unidades e serviços da Gu
 
 3 - Para que um militar seja promovido ou nomeado para curso de promoção torna-se necessário que na data em que lhe compete a promoção ou nomeação esteja há, pelo menos, 1 ano na comissão normal.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Comissão especial)
 
 Considera-se comissão especial o desempenho de funções fora do âmbito da Guarda Fiscal.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Comissão especial - Uso de uniforme)
 
 Ao militar em comissão especial não é permitido o uso de uniforme em actos de serviço relativos às funções a que não corresponda o direito ao uso de insígnias militares.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Situações fora da efectividade de serviço)
 
@@ -639,13 +708,13 @@ c) A cumprir prisão disciplinar agravada;
 
 d) De licença sem direito a vencimentos.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Inactividade temporária)
 
 A inactividade temporária consiste na suspensão do exercício de funções, em período limitado, por motivo de doença ou disciplinar.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Colocação na inactividade temporária)
 
@@ -657,7 +726,7 @@ b) Por motivos disciplinares, quando lhe for aplicada a pena de inactividade pre
 
 2 - Para efeitos da contagem do prazo fixado na alínea a) do número anterior, são considerados todos os impedimentos por doença e de licença de junta médica, desde que o intervalo entre períodos consecutivos de impedimento seja inferior a 30 dias.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Passagem da inactividade temporária a outra situação)
 
@@ -667,7 +736,7 @@ a) Se a inactividade for resultante de acidente ou doença não considerados em 
 
 b) Se a inactividade for resultante de acidente ocorrido em serviço ou de doença adquirida ou agravada em serviço ou por motivo do mesmo, continuará nesta situação até que a junta superior de saúde se pronuncie, não podendo exceder o período máximo de 5 anos, findos os quais terá de optar pela passagem à reserva, reforma ou licença ilimitada.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Condições de passagem à reserva)
 
@@ -699,13 +768,13 @@ c) Tendo prestado 15 ou mais anos de serviço:
 
 d) A requeira depois de completar 36 anos de serviço.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Suspensão de passagem à reserva)
 
 A passagem de um militar à situação de reserva por atingir o limite de idade fixado para o seu posto é sustada quando se verifique a existência de vaga em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento lhe possa vir a resultar a promoção por escolha ou por antiguidade.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Prestação de serviço na reserva)
 
@@ -715,25 +784,25 @@ a) Em qualquer ocasião, por decisão do Ministro das Finanças e do Plano, sob 
 
 b) A seu requerimento, se este lhe for deferido.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Regresso à efectividade de serviço)
 
 O regresso à efectividade de serviço do militar na situação de reserva deverá ser precedido de parecer do Conselho Superior da Guarda Fiscal quando o comandante-geral entenda poder haver incompatibilidade entre o serviço da Guarda Fiscal e as actividades por ele até então desempenhadas, tenham estas tido carácter público ou privado.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Reserva compulsiva)
 
 O militar que tenha transitado compulsivamente para a situação de reserva não pode voltar a ser chamado ao desempenho de quaisquer funções, salvo em caso de guerra, estado de sítio ou de emergência.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Licença sem vencimentos na reserva)
 
 O militar que ao transitar da situação de activo para a de reserva esteja de licença sem vencimentos é colocado na reserva fora da efectividade de serviço, a menos que requeira continuar naquela situação.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Condições de passagem à reforma)
 
@@ -755,19 +824,19 @@ b) Requeira a passagem à reforma depois de completados os 60 anos de idade e 36
 
 c) Reúna as condições estabelecidas na lei para a reforma extraordinária.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Prestação de serviço na reforma)
 
 Em caso de guerra, estado de sítio ou de emergência, o militar na situação de reforma pode, por despacho ministerial, sob proposta do comandante-geral, ser chamado a prestar serviço efectivo compatível com as suas aptidões e estado físico e psíquico.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Provimento em cargo público)
 
 O militar na reserva fora da efectividade de serviço ou na reforma não carece de autorização militar para ser provido em cargo ou lugar da Administração Pública central, regional ou local, ou empresa pública, quando a lei não preveja expressamente que o provimento é feito por virtude da qualidade de militar ou em funções de carácter militar, embora na data de tomada de posse ou exoneração o interessado deva dar conhecimento do facto ao Comando-Geral.
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Data de mudança de situação)
 
@@ -775,7 +844,7 @@ As mudanças de situação do militar são sempre determinadas por disposições
 
 ### CAPÍTULO V — Tempo de serviço
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Tempo de serviço)
 
@@ -791,7 +860,7 @@ b) O de cumprimento de pena que importe suspensão de funções;
 
 c) O de ausência ilegítima.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Aumento de tempo de serviço)
 
@@ -801,7 +870,7 @@ c) O de ausência ilegítima.
 
 ### CAPÍTULO VI — Promoções e graduações
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Promoções e graduações)
 
@@ -809,7 +878,7 @@ c) O de ausência ilegítima.
 
 2 - Os militares podem ser graduados em posto superior àquele a que ascenderam por promoção, nos termos deste Estatuto.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Modalidades de promoção)
 
@@ -829,25 +898,25 @@ e) Por distinção.
 
 3 - Aplicável apenas a praças e nos termos consignados no respectivo Estatuto, considera-se ainda a modalidade de promoção por excepção.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Promoção por diuturnidade)
 
 A promoção por diuturnidade consiste no acesso ao posto imediato, independentemente da existência de vaga, decorrido o período de permanência fixado e satisfeitas as demais condições de promoção, mantendo-se a antiguidade relativa, salvo os casos de preterição.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Promoção por antiguidade)
 
 A promoção por antiguidade consiste no acesso ao posto imediato, pela ordem de antiguidade no respectivo quadro, quando haja vaga e satisfeitas que sejam as condições de promoção, salvo os casos de demora ou preterição.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Promoção por classificação em curso)
 
 A promoção por classificação em curso efectua-se por ordem de cursos e, dentro do mesmo curso, por ordem decrescente de classificação obtida neste.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 (Promoção por escolha)
 
@@ -855,7 +924,7 @@ A promoção por classificação em curso efectua-se por ordem de cursos e, dent
 
 2 - Tem em vista acelerar a promoção dos militares considerados mais competentes no respectivo posto e que se revelaram com maior aptidão para o desempenho de funções inerentes ao posto superior.
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 (Promoção por distinção)
 
@@ -885,7 +954,7 @@ d) A prática de actos ou serviços de carácter excepcional demonstrativos de a
 
 9 - A promoção por distinção pode ter lugar a título póstumo.
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 (Promoção a título excepcional)
 
@@ -897,13 +966,13 @@ b) Por reabilitação, em consequência de procedência de recurso de processo c
 
 2 - A promoção a título excepcional pode ter lugar a título póstumo.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 (Condições de promoção)
 
 Os militares para poderem ser promovidos têm de satisfazer às condições gerais e especiais de promoção, com excepção dos casos previstos neste Estatuto e nos estatutos complementares.
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Condições gerais)
 
@@ -917,7 +986,7 @@ c) Qualidades e capacidades pessoais, intelectuais e profissionais requeridas pa
 
 d) Aptidão física e ou psíquica adequadas.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 (Condições especiais)
 
@@ -925,7 +994,7 @@ d) Aptidão física e ou psíquica adequadas.
 
 2 - Salvo impossibilidade, deve ser garantida aos militares a satisfação oportuna das condições especiais de promoção exigidas para o acesso ao posto imediato.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 (Verificação das condições gerais)
 
@@ -941,7 +1010,7 @@ d) Outros documentos constantes do processo individual do militar ou que nele ve
 
 2 - Não é considerada matéria de apreciação aquela sobre a qual exista processo pendente de natureza disciplinar ou criminal enquanto sobre o mesmo não for proferida decisão definitiva.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Não satisfação de condições gerais)
 
@@ -949,13 +1018,13 @@ d) Outros documentos constantes do processo individual do militar ou que nele ve
 
 2 - O militar que não satisfaça as condições gerais de promoção constantes do artigo 71.º ficará excluído da promoção nos termos do artigo 80.º e se, no prazo máximo de 2 anos consecutivos, continuar a não satisfazer às mesmas condições será excluído definitivamente da promoção, aplicando-se-lhe o disposto na alínea e) do artigo 39.º
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 (Inexistência de informação)
 
 A inexistência de informação a que se refere o artigo 99.º não pode constituir fundamento válido para se considerar um militar como não satisfazendo as condições gerais de promoção.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 (Condições gerais de promoção - Parecer e decisão)
 
@@ -963,7 +1032,7 @@ A inexistência de informação a que se refere o artigo 99.º não pode constit
 
 2 - A decisão do comandante-geral relativamente à não satisfação daquelas condições será notificada ao militar nos prazos legalmente estabelecidos.
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 (Contestação)
 
@@ -971,7 +1040,7 @@ A inexistência de informação a que se refere o artigo 99.º não pode constit
 
 2 - Nos casos em que, por virtude dos elementos presentes, o comandante-geral venha a alterar a sua decisão, será o militar notificado no prazo de 30 dias.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Exclusão temporária de promoção)
 
@@ -981,7 +1050,7 @@ a) Demorado;
 
 b) Preterido.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 (Demora)
 
@@ -999,7 +1068,7 @@ e) Quando não tenha satisfeito as condições especiais de promoção por razõ
 
 2 - O militar demorado é promovido logo que cessem os motivos que determinaram a demora na promoção, independentemente da existência de vaga, indo ocupar na escala de antiguidade do novo posto a mesma posição que teria se a promoção tivesse ocorrido sem demora, desde que outros motivos não impeçam a sua promoção.
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Preterição)
 
@@ -1013,19 +1082,19 @@ c) Nas circunstâncias em que os estatutos complementares expressamente o determ
 
 2 - O militar preterido, após ter cessado o impedimento, só é promovido quando ocorrer vaga, indo ocupar na escala de antiguidade do novo posto a posição correspondente à data de antiguidade que lhe for atribuída.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 (Processo disciplinar pendente)
 
 O militar com processo disciplinar pendente pode ser promovido se o comandante-geral, ouvido o Conselho Superior da Guarda Fiscal, verificar que a matéria do processo não põe em dúvida a satisfação das condições gerais de promoção.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Diploma de promoção)
 
 O diploma de promoção deve conter menção expressa da data a partir da qual são devidos os vencimentos do novo posto, a qual coincidirá com a data da respectiva antiguidade, salvo no caso de antecipação desta, em que os vencimentos são devidos a partir da data a fixar no referido diploma.
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Graduação)
 
@@ -1041,7 +1110,7 @@ b) Manutenção do posto, quando se verificar o ingresso do militar num quadro e
 
 4 - O processo de graduação segue os trâmites normalmente estabelecidos para o processo de promoção.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 (Cessação da graduação)
 
@@ -1053,13 +1122,13 @@ b) Quando seja promovido ao posto em que foi graduado.
 
 2 - Cessada a graduação, não poderá a mesma ser invocada para efeitos de obtenção de quaisquer vantagens ou benefícios.
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Tempo de permanência no posto)
 
 O tempo de permanência no posto é o tempo de serviço efectivo prestado, contado a partir da data da antiguidade nesse posto.
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 (Obtenção das condições especiais de promoção)
 
@@ -1069,7 +1138,7 @@ O tempo de permanência no posto é o tempo de serviço efectivo prestado, conta
 
 3 - A nomeação de militares em comissão especial ou de licença sem vencimentos para satisfazer as condições de promoção só é efectuada a requerimento dos interessados.
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 (Organização dos processos de promoção)
 
@@ -1093,7 +1162,7 @@ e) Resultado da avaliação da aptidão física e psíquica.
 
 5 - Os processos de promoção e graduação são confidenciais e a sua organização compete ao órgão competente do Comando-Geral.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 (Diplomas de promoção e graduação)
 
@@ -1101,13 +1170,13 @@ As promoções e graduações de oficiais, sargentos e praças efectuam-se de ac
 
 ### CAPÍTULO VII — Formação
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Âmbito e processamento)
 
 A formação abrange a preparação militar e técnico-profissional do militar da Guarda Fiscal e realiza-se essencialmente através da frequência de cursos, tirocínios, instruções e estágios e do treino operacional e técnico.
 
-###### ARTIGO 90.º
+ARTIGO 90.º
 
 (Cursos)
 
@@ -1121,7 +1190,7 @@ c) Cursos de especialização e ou qualificação, que se destinam a obter ou me
 
 d) Cursos de actualização e aperfeiçoamento, que se destinam a reciclar os conhecimentos profissionais e técnicos, tendo em vista recuperar uma qualificação ou acompanhar a evolução técnico-profissional.
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Tirocínio)
 
@@ -1129,31 +1198,31 @@ d) Cursos de actualização e aperfeiçoamento, que se destinam a reciclar os co
 
 2 - A duração não deve, em regra, ser inferior a 6 meses.
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 (Instruções)
 
 As instruções destinam-se a dar ao militar uma preparação elementar e essencialmente prática para o desempenho de determinadas funções.
 
-###### ARTIGO 93.º
+ARTIGO 93.º
 
 (Estágios)
 
 Os estágios visam a preparação do militar para o exercício de funções específicas para que seja nomeado e deverão ter carácter probatório.
 
-###### ARTIGO 94.º
+ARTIGO 94.º
 
 (Treino operacional e técnico)
 
 O treino operacional e técnico destina-se a manter e aperfeiçoar os conhecimentos do militar para o desempenho das funções específicas de uma determinada especialidade ou qualificação.
 
-###### ARTIGO 95.º
+ARTIGO 95.º
 
 (Nomeação para cursos)
 
 A nomeação para cursos é feita por antiguidade, escolha, selecção ou voluntariado, de acordo com o estipulado nos estatutos complementares.
 
-###### ARTIGO 96.º
+ARTIGO 96.º
 
 (Adiamentos e consequências)
 
@@ -1171,13 +1240,13 @@ c) Por uma só vez, a requerimento do interessado, por motivos de ordem pessoal,
 
 4 - No adiamento ao abrigo da alínea c) do n.º 1, o militar é nomeado para o curso seguinte, respeitando-se a preterição se, entretanto, lhe competir a promoção.
 
-###### ARTIGO 97.º
+ARTIGO 97.º
 
 (Não aproveitamento e desistência de cursos)
 
 O não aproveitamento e a desistência dos cursos serão regulados nos estatutos respectivos.
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 (Valorização profissional)
 
@@ -1189,19 +1258,19 @@ O não aproveitamento e a desistência dos cursos serão regulados nos estatutos
 
 ### CAPÍTULO VIII — Avaliação individual
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 (Informações individuais)
 
 A avaliação do militar da Guarda Fiscal é feita através de informações individuais, que constam de documentos que dão a conhecer, em determinado momento, o conceito global e específico em que é tido todo o militar da Guarda Fiscal e compreendem elementos que, fornecidos de forma correcta e consciente, permitem uma apreciação, tanto quanto possível, objectiva e justa sobre o informado.
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 (Indagação de qualidades)
 
 A entidade informadora não deverá limitar-se, no momento em que tem de prestar a informação, à indagação apressada das qualidades dos seus subordinados, mas sim a um contínuo trabalho de apreciação e de acção pedagógica de comando.
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 (Finalidade)
 
@@ -1213,13 +1282,13 @@ b) Formação e aperfeiçoamento;
 
 c) Utilização.
 
-###### ARTIGO 102.º
+ARTIGO 102.º
 
 (Informantes)
 
 Para os fins referidos no artigo anterior, o conhecimento de cada militar requer uma larga série de informantes, reportando-se ao exercício de todas as actividades e funções exercidas.
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 (Confidencialidade)
 
@@ -1227,7 +1296,7 @@ Para os fins referidos no artigo anterior, o conhecimento de cada militar requer
 
 2 - A confidencialidade das informações individuais não impede que ao resultado final dos cursos, tirocínios, instruções, provas ou estágios seja dada a devida publicação.
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 (Aspectos a focar)
 
@@ -1235,7 +1304,7 @@ Para os fins referidos no artigo anterior, o conhecimento de cada militar requer
 
 2 - Os aspectos de natureza geral devem abranger a apreciação das qualidades morais e sociais, intelectuais e culturais, físicas, militares e técnicas.
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 (Periodicidade)
 
@@ -1247,7 +1316,7 @@ b) Extraordinárias.
 
 2 - Cada informação individual deve apenas referir-se ao período a que respeita e ser independente de outras informações anteriores.
 
-###### ARTIGO 106.º
+ARTIGO 106.º
 
 (Informações periódicas)
 
@@ -1255,7 +1324,7 @@ b) Extraordinárias.
 
 2 - São obrigatoriamente objecto de informação periódica dos comandantes ou chefes a que estão subordinados directamente os militares do activo e os da reserva na efectividade de serviço.
 
-###### ARTIGO 107.º
+ARTIGO 107.º
 
 (Informações extraordinárias)
 
@@ -1279,7 +1348,7 @@ d) Por determinação superior.
 
 4 - A elaboração das informações extraordinárias obedece aos princípios estabelecidos para as informações periódicas.
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 (Informações desfavoráveis)
 
@@ -1289,7 +1358,7 @@ d) Por determinação superior.
 
 3 - Caso o militar não se conforme com o teor da informação, poderá, no prazo de 5 dias após dela tomar conhecimento, apresentar exposição escrita justificativa, que entregará ao informante e será apensa à informação.
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 (Confirmação)
 
@@ -1297,19 +1366,19 @@ d) Por determinação superior.
 
 2 - As informações prestadas pelo 2.º comandante-geral não carecem de confirmação.
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 (Referências dignas de menção ou reparo)
 
 Sempre que das informações individuais dos militares constem referências dignas de menção ou reparo, os comandantes ou chefes deverão convocar os militares a que respeitem essas referências, quer para os elogiar, quer para os precaver contra as suas deficiências, sempre no sentido de promover o seu aperfeiçoamento e de os incitar ao cumprimento dos seus deveres.
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 (Informações irregulares)
 
 Quando, após um conjunto de informações regulares sobre um militar, se verificar uma informação nitidamente diferente, quer no aspecto favorável, quer no desfavorável, deverão os comandantes ou os chefes promover averiguações no sentido de esclarecer as razões que a motivaram.
 
-###### ARTIGO 112.º
+ARTIGO 112.º
 
 (Regulamentação)
 
@@ -1317,7 +1386,7 @@ As instruções para elaboração e processamento das informações individuais 
 
 ### CAPÍTULO IX — Aptidão física e psíquica
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 (Apreciação)
 
@@ -1331,7 +1400,7 @@ c) Provas de aptidão física;
 
 d) Exames psicotécnicos.
 
-###### ARTIGO 114.º
+ARTIGO 114.º
 
 (Meios de apreciação)
 
@@ -1343,13 +1412,13 @@ d) Exames psicotécnicos.
 
 4 - O não cumprimento dos mínimos fixados nas provas de aptidão física não é suficiente para concluir da inexistência da necessária aptidão física do militar, devendo para o efeito ser-lhe dada a possibilidade de repetição das provas, após um período de preparação especial e da realização de inspecções médicas, se necessário.
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 (Deficiente)
 
 O militar que no cumprimento da missão da Guarda Fiscal adquirir, nos termos da respectiva legislação especial, uma diminuição permanente na capacidade geral de ganho causada por lesão ou doença, adquirida ou agravada, poderá optar pela continuação na situação de activo, ou deficiente caso o deseje, desde que reúna condições para o desempenho de cargos ou funções que dispensem plena validez.
 
-###### ARTIGO 116.º
+ARTIGO 116.º
 
 (Serviços moderados)
 
@@ -1359,7 +1428,7 @@ O militar que no cumprimento da missão da Guarda Fiscal adquirir, nos termos da
 
 3 - O militar nas condições do número anterior deve ser periodicamente presente à junta superior de saúde para verificação da sua aptidão.
 
-###### ARTIGO 117.º
+ARTIGO 117.º
 
 (Juntas médicas)
 
@@ -1381,7 +1450,7 @@ b) Quando regresse à comissão normal, desde que tenha estado fora dessa comiss
 
 ### CAPÍTULO X — Licenças
 
-###### ARTIGO 118.º
+ARTIGO 118.º
 
 (Tipos de licença)
 
@@ -1409,7 +1478,7 @@ j) Para estudos.
 
 2 - Durante o período de licença, o militar suspende temporariamente o desempenho de funções e actividades de serviço.
 
-###### ARTIGO 119.º
+ARTIGO 119.º
 
 (Licença de férias)
 
@@ -1427,19 +1496,19 @@ e) Só poderá ser interrompida, por imperiosa necessidade do serviço, pela ent
 
 f) É concedida independentemente da fruição no mesmo ano de qualquer outra licença e do registo disciplinar.
 
-###### ARTIGO 120.º
+ARTIGO 120.º
 
 (Licença por mérito)
 
 A licença por mérito é concedida e usada nos termos do Regulamento de Disciplina Militar.
 
-###### ARTIGO 121.º
+ARTIGO 121.º
 
 (Licença de juntas médicas)
 
 As licenças das juntas médicas são arbitradas por parecer destas e concedidas pela entidade competente, de acordo com o que se encontra estipulado em regulamento especial.
 
-###### ARTIGO 122.º
+ARTIGO 122.º
 
 (Licença por falecimento de familiares)
 
@@ -1451,7 +1520,7 @@ b) Até 2 dias seguidos, em caso de falecimento de parente ou afim em qualquer o
 
 2 - A prova do falecimento pode ser exigida no acto da apresentação.
 
-###### ARTIGO 123.º
+ARTIGO 123.º
 
 (Licença por casamento)
 
@@ -1461,7 +1530,7 @@ a) O seu pedido deve ser apresentado com uma antecedência mínima de 10 dias;
 
 b) A confirmação do casamento será efectuada através da certidão necessária ao averbamento nos documentos de matrícula.
 
-###### ARTIGO 124.º
+ARTIGO 124.º
 
 (Licença por motivo de transferência)
 
@@ -1469,7 +1538,7 @@ b) A confirmação do casamento será efectuada através da certidão necessári
 
 2 - Quando a transferência de guarnição se efectuar dentro da mesma unidade, a licença a conceder será até 5 dias, desde que se verifiquem as condições expressas no número anterior.
 
-###### ARTIGO 125.º
+ARTIGO 125.º
 
 (Licença trimestral)
 
@@ -1477,7 +1546,7 @@ b) A confirmação do casamento será efectuada através da certidão necessári
 
 2 - Esta licença não pode ser concedida em acumulação com a licença de férias.
 
-###### ARTIGO 126.º
+ARTIGO 126.º
 
 (Licença registada)
 
@@ -1493,7 +1562,7 @@ a) O comandante-geral, até 90 dias;
 
 b) Os comandantes de unidade, até 15 dias, só a sargentos e praças.
 
-###### ARTIGO 127.º
+ARTIGO 127.º
 
 (Licença ilimitada)
 
@@ -1511,7 +1580,7 @@ b) Por motivo de doença ou de licença da junta médica, opte pela sua colocaç
 
 5 - A licença ilimitada é concedida sem qualquer vencimento ou pensão.
 
-###### ARTIGO 128.º
+ARTIGO 128.º
 
 (Licença para estudos)
 
@@ -1523,7 +1592,7 @@ b) Por motivo de doença ou de licença da junta médica, opte pela sua colocaç
 
 4 - A licença para estudos é concedida com ou sem vencimentos, tendo em conta o interesse para a Guarda Fiscal dos estudos para que a licença é concedida.
 
-###### ARTIGO 129.º
+ARTIGO 129.º
 
 (Direitos)
 
@@ -1531,31 +1600,31 @@ As licenças previstas nas alíneas a) a g), inclusive, do n.º 1 do artigo 18.�
 
 ### CAPÍTULO XI — Reclamações e recursos
 
-###### ARTIGO 130.º
+ARTIGO 130.º
 
 (Recurso em processo criminal militar)
 
 O exercício pelo militar do direito de recurso relativamente ao processo criminal militar é regulado pelo Código de Justiça Militar.
 
-###### ARTIGO 131.º
+ARTIGO 131.º
 
 (Reclamação e recurso em processo disciplinar)
 
 O exercício pelo militar do direito de reclamação e recurso em matéria disciplinar é regulado pelo Regulamento de Disciplina Militar em vigor.
 
-###### ARTIGO 132.º
+ARTIGO 132.º
 
 (Direito de reclamação e recurso contra actos administrativos)
 
 O militar tem o direito de reclamação e de recurso dos actos administrativos que julgue feridos de ilegalidade, designadamente por incompetência, vício de forma, usurpação ou desvio de poder.
 
-###### ARTIGO 133.º
+ARTIGO 133.º
 
 (Legitimidade para reclamar e recorrer)
 
 Só tem legitimidade para reclamar ou recorrer o militar que tenha interesse directo, pessoal e legítimo na revogação do acto objecto da reclamação ou recurso.
 
-###### ARTIGO 134.º
+ARTIGO 134.º
 
 (Reclamação)
 
@@ -1563,25 +1632,25 @@ Só tem legitimidade para reclamar ou recorrer o militar que tenha interesse dir
 
 2 - Considera-se como data de conhecimento do acto administrativo que dá origem à reclamação aquela em que o militar dele tomou conhecimento oficial ou de facto.
 
-###### ARTIGO 135.º
+ARTIGO 135.º
 
 (Recurso hierárquico)
 
 Quando a reclamação, apresentada nos termos do artigo anterior, for julgada improcedente, no todo ou em parte, assiste ao reclamante o direito de recurso hierárquico para o chefe imediato daquele que determinou o acto administrativo em causa, no prazo de 15 dias, contados a partir do conhecimento oficial da decisão recaída sobre a reclamação.
 
-###### ARTIGO 136.º
+ARTIGO 136.º
 
 (Fundamento do recurso)
 
 Os fundamentos da reclamação não podem ser ampliados no recurso.
 
-###### ARTIGO 137.º
+ARTIGO 137.º
 
 (Decisão definitiva)
 
 A decisão do chefe que julgar o recurso hierárquico contra actos administrativos é definitiva e pode revogar, alterar ou manter a decisão recorrida, no todo ou em parte.
 
-###### ARTIGO 138.º
+ARTIGO 138.º
 
 (Recurso contencioso)
 
@@ -1589,7 +1658,7 @@ A decisão do chefe que julgar o recurso hierárquico contra actos administrativ
 
 2 - O recurso deve ser interposto no prazo de 30 dias, a contar da data da notificação da decisão recorrida.
 
-###### ARTIGO 139.º
+ARTIGO 139.º
 
 (Recurso contencioso por falta de decisão hierárquica)
 
@@ -1599,7 +1668,7 @@ Estatuto do Oficial da Guarda Fiscal
 
 ### CAPÍTULO I — Âmbito e finalidade
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito)
 
@@ -1607,7 +1676,7 @@ Estatuto do Oficial da Guarda Fiscal
 
 2 - Os oficiais das Forças Armadas em serviço na Guarda regem-se pelos seus próprios estatutos, sendo-lhes aplicáveis as disposições dos capítulo II, dos artigos 9.º e 14.º do capítulo III e dos artigos 41.º e 46.º do capítulo VI deste Estatuto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Finalidade)
 
@@ -1615,13 +1684,13 @@ Este Estatuto estabelece as normas que regem a carreira dos oficiais do quadro p
 
 ### CAPÍTULO II — Deveres e direitos
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Âmbito)
 
 Competem ao oficial da Guarda ou ao seu serviço, para além dos deveres e direitos expressos no Estatuto do Militar da Guarda Fiscal, os que são inerentes ao seu posto e categoria.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Deveres)
 
@@ -1633,7 +1702,7 @@ São igualmente deveres do oficial:
 
 3.º Estimular e apoiar os seus subordinados na preparação para os cursos de formação e de promoção.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Direitos)
 
@@ -1657,7 +1726,7 @@ b) Com vista à prevenção e à investigação criminal, proceder à identifica
 
 ### CAPÍTULO III — Hierarquia e funções
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Hierarquia)
 
@@ -1687,7 +1756,7 @@ Tenente:
 
 Alferes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Funções)
 
@@ -1695,7 +1764,7 @@ Alferes.
 
 2 - A cada posto correspondem as funções específicas nos quadros orgânicos que estiverem em vigor ou nas leis que regulam as actividades que exerce.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Oficiais do quadro privativo de oficiais da Guarda Fiscal)
 
@@ -1709,7 +1778,7 @@ c) Os sargentos da Guarda Fiscal que sejam admitidos e obtenham aproveitamento n
 
 d) Os sargentos da Guarda Fiscal aprovados nos cursos do Instituto Superior Militar que tenham optado pelo quadro privativo da Guarda.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Oficiais do quadro permanente das Forças Armadas)
 
@@ -1739,7 +1808,7 @@ c) A pedido do estado-maior respectivo, por imperiosa necessidade de serviço;
 
 d) A seu pedido, desde que o requeiram e lhes seja deferido pelo comandante-geral.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Inamovibilidade)
 
@@ -1747,7 +1816,7 @@ O oficial, durante os 4 anos posteriores ao seu ingresso no quadro privativo da 
 
 ### CAPÍTULO IV — Efectivos e situações
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Ingresso no quadro privativo)
 
@@ -1757,7 +1826,7 @@ a) Os oficiais oriundos de subalternos do complemento das Forças Armadas, imedi
 
 b) Os oficiais oriundos de sargentos da Guarda, imediatamente após terem concluído com aproveitamento o curso referido na alínea anterior ou o curso do Instituto Superior Militar, quando optem pelo quadro privativo da Guarda Fiscal.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Supranumerário não eventual)
 
@@ -1767,7 +1836,7 @@ a) O tenente-coronel do quadro privativo da Guarda Fiscal que complete 6 anos de
 
 b) O oficial que, não tendo ainda 15 anos de serviço, esteja incurso no disposto no artigo 28.º, no n.º 2 do artigo 44.º e ou no n.º 2 do artigo 45.º, mantendo-se nesta situação até atingir aquele tempo, findo o qual transitará para a situação de reserva.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Limites de idade)
 
@@ -1795,7 +1864,7 @@ Tenente - 50 anos;
 
 Alferes - 50 anos.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Continuação na efectividade de serviço)
 
@@ -1803,19 +1872,19 @@ O oficial que tenha passado à situação de reserva por ter atingido o limite d
 
 ### CAPÍTULO V — Promoções e graduações
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Condição de promoção a alferes)
 
 É condição especial de promoção ao posto de alferes a aprovação no curso de formação de oficiais da Guarda ou no curso do Instituto Superior Militar.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Condição de promoção a tenente)
 
 É condição especial de promoção ao posto de tenente a prestação de 1 ano de serviço efectivo no posto de alferes.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Condição de promoção a capitão)
 
@@ -1829,7 +1898,7 @@ c) Ter obtido aprovação no curso de promoção a capitão.
 
 2 - O tempo exigido na alínea a) do número anterior será prestado maioritariamente nas unidades e órgãos de serviços em funções específicas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Condição de promoção a major)
 
@@ -1841,13 +1910,13 @@ b) Ter exercido no posto de capitão, pelo menos durante 2 anos, com boas inform
 
 c) Ter obtido aprovação no curso que constitui condição de promoção a oficial superior.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Condição de promoção a tenente-coronel)
 
 É condição especial de promoção ao posto de tenente-coronel a prestação, no mínimo, de 4 anos de serviço efectivo no posto de major.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Modalidades de promoção)
 
@@ -1861,19 +1930,19 @@ c) A major, por escolha e antiguidade;
 
 d) A tenente-coronel, por escolha.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Promoção a tenente)
 
 Para efeitos de promoção ao posto de tenente são apreciados os alferes que completem o tempo de permanência no posto exigido como condição especial de promoção.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Promoção a capitão)
 
 Para efeitos de promoção ao posto de capitão são apreciados os tenentes por ordem de antiguidade, de acordo com as vagas previstas.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Promoção a major)
 
@@ -1883,13 +1952,13 @@ Para efeitos de promoção ao posto de capitão são apreciados os tenentes por 
 
 3 - Os oficiais admitidos ao abrigo do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, e do [Decreto-Lei n.º 40/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1982-600513), de 6 de Fevereiro, serão apreciados em concorrência com os demais capitães, em proporção a estabelecer por despacho do comandante-geral.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Promoção a tenente-coronel)
 
 Para efeitos de promoção ao posto de tenente-coronel são apreciados os majores que se encontrem no terço superior da escala, ordenada por antiguidade.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Listas para promoção)
 
@@ -1909,25 +1978,25 @@ Lista de majores a promover por escolha.
 
 3 - As listas, uma vez aprovadas, são publicadas em Ordem Geral da Guarda Fiscal e são válidas de 1 de Janeiro a 31 de Dezembro de cada ano.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Listas de promoção esgotadas)
 
 No caso de as listas de promoção se esgotarem antes do final do ano, o órgão de gestão de pessoal, mediante despacho do comandante-geral, providencia pela elaboração de novas listas, de acordo com a previsão de vagas e a existência de oficiais com as condições de promoção.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Graduação em tenente)
 
 O oficial que ao ingressar no quadro privativo da Guarda já tenha sido promovido a tenente do ramo das Forças Armadas a que pertencia considera-se graduado neste posto até lhe competir a promoção.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Preterição na promoção)
 
 Anualmente é elaborada a lista de capitães a não promover e os oficiais constantes desta lista, se forem preteridos em 3 apreciações seguidas, passam à situação de reserva nos termos do n.º 2 da alínea c) do artigo 50.º do Estatuto do Militar da Guarda Fiscal, sendo-lhes aplicável o disposto na alínea b) do artigo 12.º
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Diplomas de promoção e graduação)
 
@@ -1937,7 +2006,7 @@ a) Por decreto, na promoção por distinção;
 
 b) Por portaria ministerial, nas recentes promoções e graduações.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Normas de apreciação)
 
@@ -1945,13 +2014,13 @@ As normas reguladoras de apreciação para a frequência de cursos e promoções
 
 ### CAPÍTULO VI — Recrutamento, selecção, formação e instrução
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Recrutamento)
 
 O recrutamento de oficiais para o quadro privativo da Guarda Fiscal é feito entre os oficiais subalternos de complemento das Forças Armadas e os sargentos da Guarda Fiscal.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Condição de admissão)
 
@@ -1979,7 +2048,7 @@ b) Melhores habilitações literárias;
 
 c) Menor idade.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Admissão provisória e definitiva)
 
@@ -1987,7 +2056,7 @@ c) Menor idade.
 
 2 - A admissão definitiva faz-se no posto de alferes, na data de ingresso no quadro privativo da Guarda.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Admissão de sargentos ao curso de formação de oficiais)
 
@@ -2011,19 +2080,19 @@ h) Ter obtido aprovação nas provas de admissão.
 
 2 - A admissão ao curso é feita de acordo com as vagas e a classificação obtida nas provas de admissão.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Admissão de sargentos ao Instituto Superior Militar)
 
 O sargento da Guarda pode, desde que satisfaça as condições de admissão, frequentar um dos cursos do Instituto Superior Militar para ingressar no quadro privativo de oficiais da Guarda.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Vagas no quadro privativo)
 
 O quantitativo de candidatos a oficiais do quadro privativo da Guarda Fiscal a admitir em cada ano será fixado anualmente em simultâneo com a abertura do concurso, sendo um quarto das vagas reservado para os sargentos da Guarda, o qual, na falta de candidatos, reverte na totalidade para os oficiais candidatos.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Provas de admissão ao curso de formação de oficiais)
 
@@ -2039,7 +2108,7 @@ d) Inspecção médica.
 
 2 - Estas provas só são válidas para um único concurso.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Cursos e estágios)
 
@@ -2055,7 +2124,7 @@ d) Curso de promoção a oficial superior;
 
 e) Cursos e estágios de especialização, qualificação, actualização e aperfeiçoamento.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Articulação do curso de formação de oficiais)
 
@@ -2065,19 +2134,19 @@ e) Cursos e estágios de especialização, qualificação, actualização e aper
 
 3 - Este curso, na área dos serviços, poderá, mediante despacho do comandante-geral, ter uma estruturação diferente, adaptada à especificidade de cada um.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Desistência ou reprovação do curso de formação de oficiais)
 
 Os instruendos reprovados ou desistentes do curso de formação de oficiais da Guarda são definitivamente eliminados do mesmo, regressando à sua anterior situação militar.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Estágio de especialização para oficiais dos quadros permanentes das Forças Armadas)
 
 Os oficiais dos quadros permanentes das Forças Armadas que venham prestar serviço na Guarda Fiscal frequentarão, quando necessário, um estágio de especialização a regulamentar pelo comandante-geral da Guarda Fiscal.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Escalas de antiguidade)
 
@@ -2085,13 +2154,13 @@ Os oficiais dos quadros permanentes das Forças Armadas que venham prestar servi
 
 2 - Os sargentos que, tendo optado pelo, quadro privativo dois oficiais da Guarda, tenham frequentado e obtido aproveitamento nos cursos do Instituto Superior Militar são inscritos na escala de antiguidade no posto de alferes, por ordem decrescente da classificação final neles obtida e colocados à direita dos alferes que no mesmo ano concluíram o curso de formação de oficiais da Guarda.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Cursos de promoção a capitão e a oficial superior)
 
 Os cursos de promoção a capitão e a oficial superior para os oficiais do quadro privativo da Guarda realizam-se nas escolas práticas ou aos estabelecimentos de ensino militar, nas mesmas condições e em concurso com os oficiais das Forças Armadas.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Falta de aproveitamento em curso de promoção)
 
@@ -2101,7 +2170,7 @@ Os cursos de promoção a capitão e a oficial superior para os oficiais do quad
 
 3 - O disposto no n.º 1 não se aplica quando a falta de aproveitamento for motivada por razões de doença ou acidente que, na opinião da junta superior de saúde, o impossibilitem de continuar a tomar parte nos trabalhos do curso ou por razões de força maior atendíveis.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Desistência de curso de promoção)
 
@@ -2109,7 +2178,7 @@ Os cursos de promoção a capitão e a oficial superior para os oficiais do quad
 
 2 - O oficial nestas condições passa à situação de reserva, nos termos da alínea c), n.º 1, do artigo 50.º do Estatuto do Militar da Guarda Fiscal, sendo-lhe aplicável o disposto na alínea b) do artigo 12.º, podendo, no entanto, manter-se na efectividade de serviço mediante despacho do comandante-geral homologado pelo ministro da tutela.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Outros cursos e estágios)
 
@@ -2117,13 +2186,13 @@ Os restantes cursos e estágios para obter, ampliar, melhorar ou reciclar conhec
 
 ### CAPÍTULO VII — Disposições diversas e transitórias
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Aplicação deste Estatuto)
 
 Aos oficiais de complemento das Forças Armadas em serviço na Guarda que pelo disposto na alínea a) do artigo 8.º passam nesta data ao quadro privativo de oficiais da Guarda são aplicáveis as disposições do presente Estatuto.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Acesso a oficial)
 
@@ -2133,13 +2202,13 @@ Estatuto do Sargento da Guarda Fiscal
 
 ### CAPÍTULO I — Âmbito e finalidade
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito)
 
 O presente Estatuto constitui complemento do Estatuto do Militar da Guarda Fiscal, aplicável aos sargentos do quadro privativo deste corpo especial de tropas em qualquer situação.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Finalidade)
 
@@ -2147,13 +2216,13 @@ Este Estatuto estabelece as normas que regem a carreira dos sargentos do quadro 
 
 ### CAPÍTULO II — Deveres e direitos
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Âmbito)
 
 Ao sargento da Guarda Fiscal compete, além dos deveres e direitos expressos no Estatuto do Militar da Guarda Fiscal, ter, em relação às funções do seu posto, exacto conhecimento das leis e regulamentos em vigor, tanto no que respeita ao serviço da Guarda como ao militar.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Deveres)
 
@@ -2165,7 +2234,7 @@ São igualmente deveres do sargento:
 
 3.º Estimular e apoiar os seus subordinados na preparação para os cursos de formação e de promoção, colaborando através do fornecimento de adequados elementos de estudo e das facilidades que lhe seja possível conceder.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Direitos)
 
@@ -2179,7 +2248,7 @@ São igualmente direitos do sargento:
 
 ### CAPÍTULO III — Hierarquia e funções
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Hierarquia)
 
@@ -2195,7 +2264,7 @@ Primeiro-sargento;
 
 Segundo-sargento.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Funções)
 
@@ -2215,13 +2284,13 @@ e) Segundo-sargento: comando de posto, comando de subunidades elementares operac
 
 ### CAPÍTULO IV — Efectivos e situações
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Ingresso no quadro)
 
 O ingresso no quadro de sargentos da Guarda Fiscal faz-se no posto de segundo-sargento, mediante o aproveitamento no curso de formação de sargentos, por ordem decrescente da classificação obtida.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Supranumerário não eventual)
 
@@ -2231,7 +2300,7 @@ a) O sargento-mor que complete 6 anos de permanência no posto;
 
 b) O primeiro-sargento que, não tendo ainda 15 anos de serviço, esteja incurso no disposto no artigo 33.º ou no n.º 2 do artigo 34.º, mantendo-se nesta situação até atingir aquele tempo, findo o qual transitará para a situação de reserva.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Limites de idade)
 
@@ -2247,19 +2316,19 @@ Primeiro-sargento - 57 anos;
 
 Segundo-sargento - 57 anos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Reserva)
 
 A passagem dos sargentos à situação de reserva, ao abrigo do disposto no n.º 2 da alínea c) do artigo 50.º do Estatuto do Militar da Guarda Fiscal, é determinada por despacho ministerial, sob proposta nominal do comandante-geral.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Reforma)
 
 A passagem dos sargentos à situação de reforma, ao abrigo do disposto no n.º 2 da alínea a) do artigo 56.º do Estatuto do Militar da Guarda Fiscal, só terá lugar se a incapacidade se manifestar durante o exercício das funções para que estejam nomeados ou nos cursos e estágios que foram obrigados a frequentar e será determinada por despacho ministerial, sob proposta nominal do comandante-geral.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Continuação na efectividade de serviço)
 
@@ -2267,7 +2336,7 @@ O sargento que tenha passado à situação de reserva poderá continuar ou regre
 
 ### CAPÍTULO V — Promoções e graduações
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Condições de promoção a segundo-sargento)
 
@@ -2277,13 +2346,13 @@ a) Aprovação no curso de formação de sargentos;
 
 b) Ter, no mínimo, 2 anos de serviço efectivo como cabo.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Condição de promoção a primeiro-sargento)
 
 É condição especial de promoção ao posto de primeiro-sargento, ter 3 anos de serviço efectivo a partir da promoção a segundo-sargento.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Condições de promoção a sargento-ajudante)
 
@@ -2293,19 +2362,19 @@ a) Aprovação no curso de promoção a sargento-ajudante;
 
 b) Ter, no mínimo, 4 anos de serviço efectivo a partir da promoção a primeiro-sargento.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Condição de promoção a sargento-chefe)
 
 É condição especial de promoção ao posto de sargento-chefe Ter, no mínimo, 2 anos de serviço efectivo a partir da promoção a sargento-ajudante.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Condição de promoção a sargento-mor)
 
 É condição especial de promoção ao posto de sargento-mor ter, no mínimo, 2 anos de serviço efectivo a partir da promoção a sargento-chefe.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Modalidades de promoção)
 
@@ -2321,19 +2390,19 @@ d) A sargento-chefe, por antiguidade e escolha;
 
 e) A sargento-mor, por escolha.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Promoção a segundo-sargento)
 
 A promoção de cabo ao posto de segundo-sargento é feita por classificação em curso, por ordem decrescente de classificação obtida no curso de formação de sargentos.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Promoção a primeiro-sargento)
 
 Para efeitos de promoção ao posto de primeiro-sargento são apreciados os segundos-sargentos que completem o tempo de permanência exigido como condição especial de promoção.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Promoção a sargento-ajudante)
 
@@ -2341,7 +2410,7 @@ Para efeitos de promoção ao posto de primeiro-sargento são apreciados os segu
 
 2 - A promoção a sargento-ajudante do primeiro-sargento colocado em primeiro lugar na linha respeitante a um curso de promoção, depois de reformulada a escala, só poderá processar-se depois de ter sido promovido o último primeiro-sargento do curso anterior, salvo caso excepcional de preterição ou falta de condição especial de promoção.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Promoção a sargento-chefe)
 
@@ -2351,19 +2420,19 @@ Para efeitos de promoção ao posto de primeiro-sargento são apreciados os segu
 
 3 - A ordem e alternância da natureza das vagas a preencher deve manter-se nas listas de promoção do ano seguinte, tendo em consideração a do último sargento promovido, de forma a garantir a proporcionalidade estabelecida entre as vagas a preencher por escolha e por antiguidade.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Promoção a sargento-mor)
 
 A escolha é feita entre os sargentos-chefes que no ano de apreciação satisfaçam à condição especial de promoção ao posto imediato, nos termos da regulamentação própria para o efeito.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Promoção a oficial)
 
 O sargento da Guarda Fiscal pode ser promovido a oficial para o quadro privativo, nos termos do Estatuto do Oficial da Guarda.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Diplomas de promoção e graduação)
 
@@ -2375,7 +2444,7 @@ b) Despacho do comandante-geral, nas restantes promoções e graduações.
 
 ### CAPÍTULO VI — Selecção, formação e instrução
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Cursos e estágios)
 
@@ -2389,7 +2458,7 @@ c) Cursos e estágios de especialização, qualificação, actualização e aper
 
 d) Outros cursos de valorização.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Condições de admissão ao curso de formação de sargentos)
 
@@ -2405,7 +2474,7 @@ d) Ter, no mínimo, o 9.º ano de escolaridade ou equivalente;
 
 e) Ter obtido aproveitamento nas provas de aptidão.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Articulação do curso de formação de sargentos)
 
@@ -2413,7 +2482,7 @@ e) Ter obtido aproveitamento nas provas de aptidão.
 
 2 - Este curso, na área dos serviços, poderá, mediante despacho do comandante-geral, ter uma estruturação diferente, adaptada à especificidade de cada um.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Desistência ou reprovação no curso de formação de sargentos)
 
@@ -2421,7 +2490,7 @@ e) Ter obtido aproveitamento nas provas de aptidão.
 
 2 - O instruendo aprovado na primeira parte e que desista ou reprove na segunda parte frequentará esta última no curso seguinte.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Exclusão do curso de formação de sargentos)
 
@@ -2431,7 +2500,7 @@ a) Os candidatos que reprovem duas vezes nas respectivas provas de aptidão;
 
 b) Os instrumentos que o percam duas vezes, por desistência e ou reprovação, salvo os casos de desistência motivada por doença devidamente comprovada.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Condições de admissão ao curso de promoção a sargento-ajudante)
 
@@ -2443,13 +2512,13 @@ b) Possuir aptidão física e a e boas qualidades militares, morais, intelectuai
 
 c) Ter menos de 47 anos de idade, referidos a 31 de Dezembro do ano de ingresso no curso.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Nomeação para o curso de promoção a sargento-ajudante)
 
 A nomeação dos primeiros-sargentos para o curso de promoção a sargento-ajudante deve ser feita até 6 meses antes do início do respectivo curso, a fim de possibilitar que cada um efectue a preparação que julgue conveniente, à qual os comandos devem dar o necessário apoio e estímulo.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Articulação do curso de promoção a sargento-ajudante)
 
@@ -2457,7 +2526,7 @@ A nomeação dos primeiros-sargentos para o curso de promoção a sargento-ajuda
 
 2 - Este curso, na área dos serviços, poderá ter uma estruturação diferente adaptada à especificidade de cada um.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Avaliação durante o curso de promoção a sargento-ajudante)
 
@@ -2467,7 +2536,7 @@ A nomeação dos primeiros-sargentos para o curso de promoção a sargento-ajuda
 
 3 - À classificação deste segundo período é atribuído coeficiente duplo da do primeiro, para efeito do cálculo da classificação final a atribuir a cada aluno.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Interrupção do curso de promoção a sargento-ajudante)
 
@@ -2479,7 +2548,7 @@ a) Na escala dos primeiros-sargentos do curso a que inicialmente pertencia, se a
 
 b) Na escala dos primeiros-sargentos do curso que frequentou em repetição, se obtiver aprovação.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Desistência do curso de promoção a sargento-ajudante)
 
@@ -2487,7 +2556,7 @@ b) Na escala dos primeiros-sargentos do curso que frequentou em repetição, se 
 
 2 - O sargento nestas condições passa à situação de reserva, nos termos do n.º 1.º da alínea c) do artigo 50.º do Estatuto do Militar da Guarda Fiscal.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Reprovação no curso de promoção a sargento-ajudante)
 
@@ -2497,7 +2566,7 @@ b) Na escala dos primeiros-sargentos do curso que frequentou em repetição, se 
 
 3 - O disposto no n.º 2 não se aplica quando a falta de aproveitamento for motivada por razões de doença ou acidente que, na opinião da junta superior de saúde, o impossibilitem de continuar a tomar parte nos trabalhos do curso ou por razões de força maior atendíveis.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Outros cursos e estágios)
 
@@ -2505,7 +2574,7 @@ Os restantes cursos e estágios para obter, ampliar, melhorar ou reciclar os con
 
 ### CAPÍTULO VII — Disposições diversas e transitórias
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Excepção na admissão ao curso de formação de sargentos)
 
@@ -2515,13 +2584,13 @@ Estatuto da Praça da Guarda Fiscal
 
 ### CAPÍTULO I — Âmbito e finalidade
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito)
 
 O presente Estatuto constitui complemento do Estatuto do Militar da Guarda Fiscal, aplicável às praças do quadro privativo deste corpo especial de tropas, em qualquer situação.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Finalidade)
 
@@ -2529,13 +2598,13 @@ Este Estatuto estabelece as normas que regem a carreira das praças do quadro pr
 
 ### CAPÍTULO II — Deveres e direitos
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Âmbito)
 
 Às praças da Guarda Fiscal compete, além dos deveres e direitos expressos no Estatuto do Militar da Guarda Fiscal, ter, em relação às funções do seu posto, exacto conhecimento das leis e regulamentos em vigor, tanto no que respeita ao serviço da Guarda como ao militar.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Perda da totalidade dos direitos)
 
@@ -2543,7 +2612,7 @@ A praça que, nos termos do artigo 24.º do Estatuto do Militar da Guarda Fiscal
 
 ### CAPÍTULO III — Hierarquia e funções
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Hierarquia)
 
@@ -2557,7 +2626,7 @@ Soldado.
 
 2 - Os militares candidatos ao ingresso no quadro privativo da Guarda Fiscal, enquanto na frequência do curso de formação de soldados, serão designados por soldados provisórios.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Funções)
 
@@ -2573,13 +2642,13 @@ c) Soldado: execução de missões e de tarefas especializadas e outras, referen
 
 ### CAPÍTULO IV — Efectivos e situações
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Ingresso)
 
 O ingresso de praças na Guarda Fiscal faz-se no posto de soldado, imediatamente após os soldados provisórios terem terminado com aproveitamento o curso de formação de soldados.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Limites de idade)
 
@@ -2593,7 +2662,7 @@ Soldado - 56 anos.
 
 ### CAPÍTULO V — Promoções
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Modalidades de promoção)
 
@@ -2611,7 +2680,7 @@ b) A cabo-chefe:
 
 Por escolha.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Promoção a cabo)
 
@@ -2625,7 +2694,7 @@ Por escolha.
 
 5 - A promoção por excepção a que se refere a alínea c) do artigo 11.º faz-se independentemente de vaga, ficando os militares promovidos na situação de supranumerários não eventuais até à sua mudança de situação.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Condições de promoção a cabo)
 
@@ -2655,7 +2724,7 @@ c) Por excepção:
 
 2) Ter prestado serviço efectivo sem interrupção e estar a menos de 30 dias de saída dos quadros activos por limite de idade; ter sido julgado incapaz pela junta superior de saúde, por motivo de doença ou acidente resultante do serviço, tendo prestado sem interrupção, no mínimo, 15 anos de serviço efectivo; ter falecido por motivo de doença ou acidente resultante do serviço.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Promoção a cabo-chefe)
 
@@ -2663,7 +2732,7 @@ c) Por excepção:
 
 2 - A escolha a que se refere o número anterior é feita entre os cabos propostos em cada ano, devendo, para tal, os comandantes das unidades enviar ao órgão de gestão de pessoal do Comando-Geral os processos de promoção até 30 de Setembro de cada ano, que serão presentes ao Conselho Superior da Guarda Fiscal para parecer sobre as listas de promoção, as quais, ordenadas por mérito, entrarão em vigor no ano seguinte após a aprovação do comandante-geral.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Condições de promoção a cabo-chefe)
 
@@ -2679,7 +2748,7 @@ d) Ter, no mínimo, 15 anos de serviço efectivo a partir da promoção a cabo, 
 
 e) Ser proposto pelo comandante da unidade onde presta serviço.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Diplomas de promoção)
 
@@ -2691,7 +2760,7 @@ b) Por despacho do comandante-geral nas restantes promoções.
 
 ### CAPÍTULO VI — Recrutamento e formação
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Recrutamento)
 
@@ -2699,7 +2768,7 @@ b) Por despacho do comandante-geral nas restantes promoções.
 
 2 - As condições de admissão à Guarda Fiscal são as constantes em diploma legal próprio.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Cursos e estágios)
 
@@ -2713,7 +2782,7 @@ c) Cursos e estágios de especialização, qualificação, actualização e aper
 
 d) Outros cursos de valorização.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Curso de formação de soldados)
 
@@ -2721,7 +2790,7 @@ d) Outros cursos de valorização.
 
 2 - O soldado provisório que não dê provas de poder vir a ser agente da autoridade disciplinado, competente, digno e respeitado regressa, mediante proposta fundamentada do comandante da unidade, à anterior situação militar.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Condições de admissão ao curso de promoção a cabos)
 
@@ -2737,13 +2806,13 @@ d) Possuir aptidão física e boas qualidades militares, morais, intelectuais e 
 
 e) Ter obtido aproveitamento nas provas de aptidão.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Exclusão do curso de promoção de cabos)
 
 Os instruendos que desistam ou reprovem nas provas de admissão ou durante o curso poderão concorrer novamente desde que satisfaçam todas as condições de admissão do novo concurso, sendo excluídos definitivamente depois da terceira desistência o ou reprovação.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Outros cursos e estágios)
 
@@ -2751,7 +2820,7 @@ Os restantes cursos e estágios para obter, ampliar, melhorar ou reciclar os con
 
 ### CAPÍTULO VII — Disposições diversas e transitórias
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Entrada em vigor da situação de reserva para praças)
 
@@ -2761,7 +2830,7 @@ Os restantes cursos e estágios para obter, ampliar, melhorar ou reciclar os con
 
 3 - As praças que durante o ano de 1986 atingirem o limite de idade ou forem julgadas incapazes para o serviço activo ficarão a aguardar passagem à situação de reserva, com a pensão provisória respectiva.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Situação de reserva para praças reformadas com menos de 70 anos)
 

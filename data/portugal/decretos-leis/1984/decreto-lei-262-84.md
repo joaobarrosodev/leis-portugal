@@ -49,36 +49,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1984-381733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa2cfa5bf56a51c3c6a219fc13eec1ce9611070da9e56ed36f2448f6f40671ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cadf89d359f5191f7239f49bbb6ff821f4c8468cb77aeb708a644fc133c8701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Conselho de Ministros
+- Contrato de Concessão
+- Definição de Competências
+- EDP
+- Energia Elétrica
+relationships:
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:01Z'
   warnings: []
   errors: []
 ---
@@ -115,36 +145,36 @@ Há por isso que encontrar outras soluções, até porque - e não será este o 
 
 Nesta linha de preocupações, nestes termos e nos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Sempre que um município que explore a distribuição, no continente, de energia eléctrica em baixa tensão, quer em regime de exploração directa, quer no regime de concessão previsto na alínea b) do n.º 3 do artigo 1.º do [Decreto-Lei n.º 344-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-b-1982-621690), de 1 de Setembro, tenha deixado ou deixe de cumprir pontualmente as obrigações decorrentes da aplicação do tarifário oficialmente aprovado, e em resultado disso se torne devedor à EDP - Electricidade de Portugal, E. P., de montantes que, quando para o efeito notificado, se recuse a regularizar, pode o Governo, em Conselho de Ministros, determinar que a distribuição de energia eléctrica em baixa tensão na área do município em falta seja cometida àquela empresa pública.
+Artigo 1.º - 1 - Sempre que um município que explore a distribuição, no continente, de energia eléctrica em baixa tensão, quer em regime de exploração directa, quer no regime de concessão previsto na alínea b) do n.º 3 do artigo 1.º do [Decreto-Lei n.º 344-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-b-1982-621690), de 1 de Setembro, tenha deixado ou deixe de cumprir pontualmente as obrigações decorrentes da aplicação do tarifário oficialmente aprovado, e em resultado disso se torne devedor à EDP - Electricidade de Portugal, E. P., de montantes que, quando para o efeito notificado, se recuse a regularizar, pode o Governo, em Conselho de Ministros, determinar que a distribuição de energia eléctrica em baixa tensão na área do município em falta seja cometida àquela empresa pública.
 
 2 - Quando um município notificado nos termos do n.º 1 se disponha a encetar negociações com vista à regularização do seu débito, a medida prevista no mesmo número só poderá ser aplicada em caso de insucesso das mesmas negociações dentro do prazo para o efeito fixado pelos Ministros das Finanças e do Plano e da Indústria e Energia.
 
-###### Art. 2.º - 1 - O regime decretado nos termos do artigo anterior não prejudica os direitos reconhecidos aos municípios pelo [Decreto-Lei n.º 344-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-b-1982-621690), designadamente nos seus artigos 6.º, 7.º e 13.º
+Art. 2.º - 1 - O regime decretado nos termos do artigo anterior não prejudica os direitos reconhecidos aos municípios pelo [Decreto-Lei n.º 344-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-b-1982-621690), designadamente nos seus artigos 6.º, 7.º e 13.º
 
 2 - A denúncia e o resgate da concessão, previstos no [Decreto-Lei n.º 344-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-b-1982-621690), não poderão ser feitos enquanto subsistirem débitos do município à EDP por fornecimentos de energia eléctrica.
 
-###### Art. 3.º A outorga de exploração à EDP - Electricidade de Portugal, E. P., prevista no artigo 1.º terá a duração que for fixada pela correspondente resolução, renovável, e caducará com a formal regularização da situação a que visa pôr termo.
+Art. 3.º A outorga de exploração à EDP - Electricidade de Portugal, E. P., prevista no artigo 1.º terá a duração que for fixada pela correspondente resolução, renovável, e caducará com a formal regularização da situação a que visa pôr termo.
 
-###### Art. 4.º No caso previsto nos artigos anteriores, a EDP - Electricidade de Portugal, E. P., administrará directamente os serviços municipais afectos à actividade que lhe é cometida e custeará os respectivos encargos, aplicando-se a esta situação, com adaptações a estabelecer por portaria conjunta dos Ministérios da Administração Interna e da Indústria e Energia, a regulamentação prevista na lei para a utilização por acordo daqueles serviços.
+Art. 4.º No caso previsto nos artigos anteriores, a EDP - Electricidade de Portugal, E. P., administrará directamente os serviços municipais afectos à actividade que lhe é cometida e custeará os respectivos encargos, aplicando-se a esta situação, com adaptações a estabelecer por portaria conjunta dos Ministérios da Administração Interna e da Indústria e Energia, a regulamentação prevista na lei para a utilização por acordo daqueles serviços.
 
-###### Art. 5.º Na regularização de contas entre a EDP e os municípios que perante a mesma se encontrem em dívida por fornecimentos de electricidade, far-se-á o encontro de créditos e débitos, por compensação, até a concorrência do menor montante.
+Art. 5.º Na regularização de contas entre a EDP e os municípios que perante a mesma se encontrem em dívida por fornecimentos de electricidade, far-se-á o encontro de créditos e débitos, por compensação, até a concorrência do menor montante.
 
-###### Art. 6.º A partir do início da exploração pela EDP do fornecimento de energia, anteriormente explorado por qualquer município, nos termos do presente diploma, os respectivos consumidores só se exonerarão do dever de pagamento da energia recebida efectuando-o directamente àquela empresa pública.
+Art. 6.º A partir do início da exploração pela EDP do fornecimento de energia, anteriormente explorado por qualquer município, nos termos do presente diploma, os respectivos consumidores só se exonerarão do dever de pagamento da energia recebida efectuando-o directamente àquela empresa pública.
 
-###### Art. 7.º Quer em resultado das negociações tendentes a evitar a aplicação das medidas previstas no presente diploma, quer na fase que preceder essa aplicação, quer ainda na fase que preceder a sua caducidade, poderá o Governo, por resolução de Conselho de Ministros, autorizar o município de que se trate a praticar, a título excepcional e transitório e por tempo delimitado, escalões de preços de consumo doméstico de energia eléctrica que beneficiem os consumidores mais modestos, com ou sem alteração do produto global correspondente à aplicação do tarifário oficialmente aprovado.
+Art. 7.º Quer em resultado das negociações tendentes a evitar a aplicação das medidas previstas no presente diploma, quer na fase que preceder essa aplicação, quer ainda na fase que preceder a sua caducidade, poderá o Governo, por resolução de Conselho de Ministros, autorizar o município de que se trate a praticar, a título excepcional e transitório e por tempo delimitado, escalões de preços de consumo doméstico de energia eléctrica que beneficiem os consumidores mais modestos, com ou sem alteração do produto global correspondente à aplicação do tarifário oficialmente aprovado.
 
-###### Art. 8.º Nos casos de distribuição de energia eléctrica feita por federações ou por associações de municípios, as concessões serão individualizadas relativamente a cada município envolvido.
+Art. 8.º Nos casos de distribuição de energia eléctrica feita por federações ou por associações de municípios, as concessões serão individualizadas relativamente a cada município envolvido.
 
-###### Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Promulgado em 11 de Julho de 1984.**
+Promulgado em 11 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Julho de 1984.**
+Referendado em 16 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

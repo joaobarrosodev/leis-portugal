@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28000/36973697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1984-401476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b730cb74db7e373ffc9302cd21421a57ff43c5fbe6d7c454ccac03816034472
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10dda644bb02af7e197310355e12e3dcec444c07de3ad2fa80e021aa688caa6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Comissão Militar
+- Exército
+- Reforma
+- Reserva
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:390839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391206:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:51Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +121,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São suspensos para os primeiros-sargentos e segundos-sargentos do Exército os limites de idade para passagem à situação de adidos aos respectivos quadros, previstos no n.º 12) da alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 941/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/941-1976-390839), de 31 de Dezembro.
+Artigo 1.º São suspensos para os primeiros-sargentos e segundos-sargentos do Exército os limites de idade para passagem à situação de adidos aos respectivos quadros, previstos no n.º 12) da alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 941/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/941-1976-390839), de 31 de Dezembro.
 
-###### Art. 2.º - 1 - Serão promovidos, a título excepcional, ao posto de sargento-ajudante os primeiros-sargentos do Exército ingressados nos quadros permanentes e no serviço postal militar antes de 1 de Janeiro de 1977, desde que satisfaçam uma das seguintes condições:
+Art. 2.º - 1 - Serão promovidos, a título excepcional, ao posto de sargento-ajudante os primeiros-sargentos do Exército ingressados nos quadros permanentes e no serviço postal militar antes de 1 de Janeiro de 1977, desde que satisfaçam uma das seguintes condições:
 
 a) Hajam completado 53 anos de idade e após se terem verificado as possíveis promoções ao posto de sargento-ajudante dos primeiros-sargentos que os antecedem na escala de antiguidades do quadro da respectiva arma ou serviço, excluídos os demorados e preteridos na promoção e os que não tenham possibilidades legais de vir a ser promovidos àquele mesmo posto;
 
@@ -118,16 +137,16 @@ b) Tendo sido admitidos ao curso de promoção a sargento-ajudante, não o tenha
 
 c) Não tenham sido admitidos ao curso de promoção a sargento-ajudante por não satisfazerem a condição a que se refere a alínea c) do artigo 31.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
 
-###### Art. 3.º Os vencimentos do novo posto, devidos aos sargentos promovidos por aplicação do presente diploma, reportar-se-ão à data da sua entrada em vigor, desde que a data de antiguidade atribuída no novo posto seja anterior àquela.
+Art. 3.º Os vencimentos do novo posto, devidos aos sargentos promovidos por aplicação do presente diploma, reportar-se-ão à data da sua entrada em vigor, desde que a data de antiguidade atribuída no novo posto seja anterior àquela.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1984. - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 23 de Novembro de 1984.**
+Promulgado em 23 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Novembro de 1984.**
+Referendado em 26 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

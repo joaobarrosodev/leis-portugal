@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/06400/06050605.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1982-609150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a5c01ae6b550d6f6a8a330b8fd659576c4e052bf8aebfd7045df5e8d4c24ae0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d163cd6f3ca6ac35bbf6a1765c1b74f4610e15e3b3b8e70c93a456dffef7b01f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aumento de Capital
+- Capital Social
+- Contribuições e Impostos
+- Imposto de Mais-Valias
+- Isenção Fiscal
+- Mais-Valias
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600770:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:51Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +126,14 @@ Ao abrigo da autorização legislativa concedida pelo artigo 42.º da [Lei n.º 
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º À incorporação no capital das sociedades anónimas, em comandita por acções ou por quotas da reserva de reavaliação constituída nos termos do [Decreto-Lei n.º 24/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1982-600770), de 30 de Janeiro, é aplicável o disposto nos artigos 1.º, 2.º e 4.º do [Decreto-Lei n.º 278/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1979-377717), de 9 de Agosto, desde que sejam cumpridas as formalidades previstas no n.º 1 do seu artigo 2.º até 31 de Outubro de 1982.
+Artigo 1.º À incorporação no capital das sociedades anónimas, em comandita por acções ou por quotas da reserva de reavaliação constituída nos termos do [Decreto-Lei n.º 24/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1982-600770), de 30 de Janeiro, é aplicável o disposto nos artigos 1.º, 2.º e 4.º do [Decreto-Lei n.º 278/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1979-377717), de 9 de Agosto, desde que sejam cumpridas as formalidades previstas no n.º 1 do seu artigo 2.º até 31 de Outubro de 1982.
 
-###### Art. 2.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros em 16 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Março de 1982.**
+Promulgado em 8 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

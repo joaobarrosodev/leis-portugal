@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 53/1984, 2º Suplemento, Série I de 1984-03-02
   number: '53'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 732-(5) a 732-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/05302/00050022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,201 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-c-1984-405702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c664c3a0056d9c9ec82ed0346966d8539b91e3a425b3abd816e6f54992b65f8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc0b398f122d7872000d36fda02e7e2f0040a7b5c2d1ed3d644a84a461d29cee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade Sanitária
+- Direcção Geral dos Cuidados de Saúde Primários
+- Extinção de Serviços
+- Ministério da Saúde
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:645076:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666538:por
+  label: "Alterado o quadro de pessoal, pela PORT.244/87.31.03.1987.MF, DR.IS [75] de 31.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-1987-666538
+  date: '1987-03-31'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal da Direcção-Geral dos Cuidados de Saúde Primários, aprovada pelo presente diploma e
+    alterado pela Port 244/87, de 31-mar, pelo(a) Portaria n.º 147/88 - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:574763:por
+  label: "Alterados os arts 9º e 13º e aditado um lugar de chefe de divisão ao quadro I referido no art. 20º pelo DEC LEI.175/90.1990.06.04.MS\
+    \ DR.IS [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-1990-574763
+  date: '1990-06-04'
+- type: amended_by
+  target: pt:dre:586004:por
+  label: "Extinta pelo DEC LEI.10/93.1993.01.15.MS DR.IS [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1993-586004
+  date: '1993-01-15'
+- type: amended_by
+  target: pt:dre:649154:por
+  label: "Substituidos, na parte referente às carreiras de técnico superior de saúde e de técnico de serviço social, os quadros\
+    \ I e II anexos ao presente diploma pela PORT.175/93.1993.02.16.MF DR.IS [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-1993-649154
+  date: '1993-02-16'
+- type: amended_by
+  target: pt:dre:283948:por
+  label: "Alterado o quadro de pessoal constante do anexo I pelo DN.83/93.1993.04.22.MF DR.IS [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/83-1993-283948
+  date: '1993-04-22'
+- type: amended_by
+  target: pt:dre:325881:por
+  label: "Alterado o quadro de pessoal constante do anexo I pelo DN.215/93.1993.07.15.MF DR.IS [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/215-1993-325881
+  date: '1993-07-15'
+- type: amended_by
+  target: pt:dre:645076:por
+  label: "Alterado o quadro de pessoal constante do anexo I pela PORT.977/93.1993.10.06.MF DR.IS [53]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/977-1993-645076
+  date: '1993-10-06'
+- type: cites
+  target: pt:dre:142685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:646300:por
+  label: "Revogado pelo DEC LEI.345/93.1993.10.01.MS DR.IS-A [231] de 01.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1993-646300
+  date: '1993-10-01'
 article_structure:
   article_count: 48
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:58Z'
   warnings: []
   errors: []
 ---
@@ -302,21 +463,21 @@ a) Serviços de apoio técnico e administrativo:
 
 Direcção de Serviços de Informação de Saúde, que compreende:
 
-##### Divisão de Organização;
+Divisão de Organização;
 
-##### Divisão de Estatística;
+Divisão de Estatística;
 
-##### Divisão de Epidemiologia;
+Divisão de Epidemiologia;
 
 Os serviços de assessoria do director-geral:
 
-##### Divisão de Planeamento e Avaliação;
+Divisão de Planeamento e Avaliação;
 
-##### Divisão de Apoio Jurídico;
+Divisão de Apoio Jurídico;
 
-##### Divisão de Documentação e Divulgação;
+Divisão de Documentação e Divulgação;
 
-##### Divisão de Educação para a Saúde;
+Divisão de Educação para a Saúde;
 
 Direcção de Serviços de Administração Geral, que compreende:
 
@@ -324,19 +485,19 @@ Direcção de Serviços de Administração Geral, que compreende:
 
 Repartição Administrativa, que é constituída por:
 
-#### Secção de Pessoal, Expediente Geral e Arquivo;
+Secção de Pessoal, Expediente Geral e Arquivo;
 
-#### Secção de Contabilidade, Economato e Reprografia;
+Secção de Contabilidade, Economato e Reprografia;
 
-#### Secção de Património e Viaturas;
+Secção de Património e Viaturas;
 
 b) Serviços operacionais:
 
 Direcção de Serviços de Cuidados de Saúde Individuais, que compreende:
 
-##### Divisão de Saúde Materna e Infantil;
+Divisão de Saúde Materna e Infantil;
 
-##### Divisão de Saúde de Adultos;
+Divisão de Saúde de Adultos;
 
 ##### Divisão de Saúde Oral;
 
@@ -898,20 +1059,20 @@ O presente diploma entrará em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha.
 
-**Promulgado em 26 de Fevereiro de 1984.**
+Promulgado em 26 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Fevereiro de 1984.**
+Referendado em 27 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro I, a que se refere o artigo 20.º deste diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/05302/00050022.pdf))](https://files.diariodarepublica.pt/1s/1984/03/05302/00050022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/05302/00050022.pdf)
 
 Quadro II, a que se refere o artigo 39.º deste diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/05302/00050022.pdf))](https://files.diariodarepublica.pt/1s/1984/03/05302/00050022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/05302/00050022.pdf)

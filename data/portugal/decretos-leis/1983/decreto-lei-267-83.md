@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13600/21362137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1983-452034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9194fd2f9e924a8c92c6116cd4dc4f40b0b190d7b521a20f3c829741710f53d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 128c3d8a160617ca7225a13e63c813c3808643dc1733dea503f7592be0de9702
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Escola de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:392866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:59Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +110,21 @@ Tendo em conta que a urgência que se faz sentir na resolução deste problema i
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os enfermeiros que trabalhem em Lisboa, Porto e Coimbra e que ingressem nos quadros ou mapas das escolas de enfermagem de Beja, Braga, Bragança, Castelo Branco, Évora, Faro, Guarda, Leiria, Portalegre, Santarém, Viana do Castelo, Vila Real e Viseu para exercer funções docentes e que, para tanto, mudem de domicílio terão direito a um abono mensal fixo, a título de subsídio de residência.
+Artigo 1.º - 1 - Os enfermeiros que trabalhem em Lisboa, Porto e Coimbra e que ingressem nos quadros ou mapas das escolas de enfermagem de Beja, Braga, Bragança, Castelo Branco, Évora, Faro, Guarda, Leiria, Portalegre, Santarém, Viana do Castelo, Vila Real e Viseu para exercer funções docentes e que, para tanto, mudem de domicílio terão direito a um abono mensal fixo, a título de subsídio de residência.
 
 2 - Apenas são relevantes para os efeitos do disposto no número anterior as deslocações efectuadas no interesse exclusivo da respectiva escola.
 
 3 - Não há lugar ao pagamento do referido subsídio se ao docente for facultado alojamento condigno.
 
-###### Art. 2.º O subsídio de residência previsto no artigo anterior será pago por um período máximo de 5 anos, devendo o seu quantitativo variar segundo o agregado familiar do docente e os preços correntes no mercado local de habitação.
+Art. 2.º O subsídio de residência previsto no artigo anterior será pago por um período máximo de 5 anos, devendo o seu quantitativo variar segundo o agregado familiar do docente e os preços correntes no mercado local de habitação.
 
-###### Art. 3.º Os enfermeiros docentes que há menos de 5 anos beneficiem de subsídio de fixação nos termos do despacho do Secretário de Estado da Saúde de 13 de Agosto de 1973 passam a receber o abono agora instituído até perfazerem o referido período de 5 anos, tendo em conta o tempo até então decorrido.
+Art. 3.º Os enfermeiros docentes que há menos de 5 anos beneficiem de subsídio de fixação nos termos do despacho do Secretário de Estado da Saúde de 13 de Agosto de 1973 passam a receber o abono agora instituído até perfazerem o referido período de 5 anos, tendo em conta o tempo até então decorrido.
 
-###### Art. 4.º - 1 - A título de compensação pelos encargos de mudança de domicílio, poderá ser concedido ao mesmo pessoal, por uma só vez, um subsídio de deslocação e instalação, que visa a cobertura de despesas de viagem do funcionário e agregado familiar, bem como o transporte de móveis e bagagens.
+Art. 4.º - 1 - A título de compensação pelos encargos de mudança de domicílio, poderá ser concedido ao mesmo pessoal, por uma só vez, um subsídio de deslocação e instalação, que visa a cobertura de despesas de viagem do funcionário e agregado familiar, bem como o transporte de móveis e bagagens.
 
 2 - O subsídio referido no número anterior será atribuído dentro de parâmetros a fixar por portaria, sendo concedido mediante a apresentação dos documentos de despesa.
 
-###### Art. 5.º - 1 - Os abonos e subsídios previstos neste diploma serão atribuídos por despacho do Ministro dos Assuntos Sociais, sob proposta das escolas interessadas.
+Art. 5.º - 1 - Os abonos e subsídios previstos neste diploma serão atribuídos por despacho do Ministro dos Assuntos Sociais, sob proposta das escolas interessadas.
 
 2 - É da responsabilidade das escolas a organização dos processos e a verificação das condições justificativas das propostas de concessão destes benefícios. Os processos serão sempre instruídos, pelo menos, com a identificação do interessado, lugar que vai ocupar, título, início e termo previstos para o desempenho das funções, dimensão do agregado familiar, preços correntes no mercado local de habitação, data do início do contrato (de arrendamento ou de hospedagem) e data da mudança de domicílio.
 
@@ -120,18 +132,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - As falsas declarações prestadas pelos interessados determinam a perda de benefícios concedidos e o dever de reposição dos já recebidos, sem prejuízo da correspondente responsabilidade disciplinar e criminal.
 
-###### Art. 6.º - 1 - Os quantitativos do subsídio de residência e do subsídio de deslocação e instalação previstos neste diploma serão fixados por portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Assuntos Sociais e da Reforma Administrativa.
+Art. 6.º - 1 - Os quantitativos do subsídio de residência e do subsídio de deslocação e instalação previstos neste diploma serão fixados por portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Assuntos Sociais e da Reforma Administrativa.
 
 2 - Os benefícios previstos neste diploma não sofrerão outros descontos senão os relativos ao pagamento do respectivo imposto do selo.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 26 de Maio de 1983.**
+Promulgado em 26 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Maio de 1983.**
+Referendado em 30 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

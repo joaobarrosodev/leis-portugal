@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1984-401054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd497710633835dc3b87cf092087be463bb0942ca6c7449eec908006da6e53b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8b2e99276f193dcc5183ef222104efbc7f20e911d1a21e6fb97503fd24a56ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito
+- Execução Fiscal
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Taxa
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471147:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:42Z'
   warnings: []
   errors: []
 ---
@@ -95,26 +112,26 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As taxas e outros créditos de natureza parafiscal devidos ao LNETI por serviços e trabalhos prestados a entidades exteriores ficam sujeitos ao regime do processo de execução fiscal.
+Artigo 1.º - 1 - As taxas e outros créditos de natureza parafiscal devidos ao LNETI por serviços e trabalhos prestados a entidades exteriores ficam sujeitos ao regime do processo de execução fiscal.
 
 2 - A cobrança coerciva será ordenada por despacho do presidente do LNETI, e da certidão de dívida a remeter para o tribunal ou repartição de finanças competente, para servir de base à execução, constará a menção, por extenso, da importância a haver e respectiva proveniência e, bem assim, de quaisquer outros elementos documentais existentes no LNETI que utilmente se lhe refiram.
 
 3 - Quando o devedor esteja domiciliado nas regiões autónomas ou no estrangeiro será competente o Tribunal de 1.ª Instância das Contribuições e Impostos de Lisboa.
 
-###### Art. 2.º As dívidas a que se refere o presente diploma estão sujeitas a juros de mora, nos termos do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969, alterado pelo [Decreto-Lei n.º 318/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1980-471147), de 20 de Agosto, e legislação complementar, e o devedor constitui-se em mora a partir do último dia fixado para pagamento da dívida ou de alguma das suas prestações.
+Art. 2.º As dívidas a que se refere o presente diploma estão sujeitas a juros de mora, nos termos do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969, alterado pelo [Decreto-Lei n.º 318/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1980-471147), de 20 de Agosto, e legislação complementar, e o devedor constitui-se em mora a partir do último dia fixado para pagamento da dívida ou de alguma das suas prestações.
 
-###### Art. 3.º O presente diploma poderá aplicar-se na cobrança de todas as receitas parafiscais emergentes de créditos devidos por serviços já prestados e cujo pagamento não tenha ainda sido satisfeito ao LNETI.
+Art. 3.º O presente diploma poderá aplicar-se na cobrança de todas as receitas parafiscais emergentes de créditos devidos por serviços já prestados e cujo pagamento não tenha ainda sido satisfeito ao LNETI.
 
-###### Art. 4.º Este diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 4.º Este diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Promulgado em 13 de Novembro de 1984.**
+Promulgado em 13 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Novembro de 1984.**
+Referendado em 14 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

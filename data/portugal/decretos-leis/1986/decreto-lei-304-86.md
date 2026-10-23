@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21800/26612663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1986-221764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca653287ae932d4145bbf139183a436670e44cd98b9c41eebdc3f8398bee2276
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc41128a9fce6cf43cba8a670c2654694a238105ef36bdf30e8985658381b74c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto da Vinha e do Vinho
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:680644:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619723:por
+  label: "Alterados os arts. 5º e 6º pelo DEC LEI.220/89.04.07.1989.MAPA, DR.IS [151] de 04.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-1989-619723
+  date: '1989-07-04'
+- type: cites
+  target: pt:dre:197077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428071:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:680644:por
+  label: Revogado o presente diploma pelo(a) Decreto-Lei n.º 102/93 - Diário da República n.º 78/1993, Série I-A de 1993-04-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1993-680644
+  date: '1993-04-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:17Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +126,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º É criado o Instituto da Vinha e do Vinho, abreviadamente designado por IVV, dotado de personalidade jurídica e autonomia administrativa e financeira e património próprio, que tem atribuições de fomento, apoio, controle e fiscalização na área da cultura, da vinha e da produção e comercialização de produtos vínicos e derivados, funcionando sob a tutela do Ministério da Agricultura, Pescas e Alimentação, sem prejuízo das competências específicas do Ministério da Indústria e Comércio.
+Artigo 1.º É criado o Instituto da Vinha e do Vinho, abreviadamente designado por IVV, dotado de personalidade jurídica e autonomia administrativa e financeira e património próprio, que tem atribuições de fomento, apoio, controle e fiscalização na área da cultura, da vinha e da produção e comercialização de produtos vínicos e derivados, funcionando sob a tutela do Ministério da Agricultura, Pescas e Alimentação, sem prejuízo das competências específicas do Ministério da Indústria e Comércio.
 
-###### Art. 2.º - 1 - No desempenho das suas atribuições e competências, o IVV actuará de modo concertado e articulado com as direcções regionais de agricultura, as comissões vitivinícolas regionais e as demais entidades públicas e privadas intervenientes no sector dos vinhos.
+Art. 2.º - 1 - No desempenho das suas atribuições e competências, o IVV actuará de modo concertado e articulado com as direcções regionais de agricultura, as comissões vitivinícolas regionais e as demais entidades públicas e privadas intervenientes no sector dos vinhos.
 
 2 - A acção do IVV desenvolver-se-á mediante a adopção de procedimentos visando a desconcentração do organismo pelo território nacional, sempre que se revelar indispensável à prossecução dos seus objectivos.
 
@@ -112,7 +136,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 3.º São órgãos do IVV:
+Art. 3.º São órgãos do IVV:
 
 a) O presidente;
 
@@ -120,7 +144,7 @@ b) O conselho consultivo;
 
 c) O conselho administrativo.
 
-###### Art. 4.º - 1 - Compete ao presidente:
+Art. 4.º - 1 - Compete ao presidente:
 
 a) Dirigir os serviços do IVV;
 
@@ -138,7 +162,7 @@ e) Assegurar a representação do IVV junto de quaisquer organismos ou entidades
 
 4 - O presidente do IVV é substituído, nas suas ausências e impedimentos, pelo vice-presidente que for designado por despacho ministerial, sob sua proposta, ou, na falta de designação, pelo vice-presidente mais antigo.
 
-###### Art. 5.º - 1 - O conselho consultivo é presidido pelo presidente do IVV e constituído por vogais, representantes das associações de produtores e comerciantes de vinho, adegas cooperativas e empresas com actividades no âmbito do sector considerado, bem como individualidades a título particular, designados mediante despacho ministerial, sob proposta do presidente, e ainda os representantes dos Ministérios das Finanças e da Indústria e Comércio que venham a ser designados para esse fim ouvidas as entidades interessadas.
+Art. 5.º - 1 - O conselho consultivo é presidido pelo presidente do IVV e constituído por vogais, representantes das associações de produtores e comerciantes de vinho, adegas cooperativas e empresas com actividades no âmbito do sector considerado, bem como individualidades a título particular, designados mediante despacho ministerial, sob proposta do presidente, e ainda os representantes dos Ministérios das Finanças e da Indústria e Comércio que venham a ser designados para esse fim ouvidas as entidades interessadas.
 
 2 - Ao conselho consultivo incumbe pronunciar-se sobre:
 
@@ -152,9 +176,9 @@ d) Projectos emanados das Comunidades Europeias incidindo sobre matéria dos vin
 
 e) Quaisquer outros assuntos submetidos à sua apreciação pelo presidente.
 
-###### Art. 6.º O conselho consultivo funcionará em sessões plenárias ou por comissões especializadas, de acordo com o respectivo regulamento interno a aprovar pelo presidente.
+Art. 6.º O conselho consultivo funcionará em sessões plenárias ou por comissões especializadas, de acordo com o respectivo regulamento interno a aprovar pelo presidente.
 
-###### Art. 7.º - 1 - O conselho administrativo é o órgão de gestão financeira e é constituído pelos seguintes membros efectivos:
+Art. 7.º - 1 - O conselho administrativo é o órgão de gestão financeira e é constituído pelos seguintes membros efectivos:
 
 a) O presidente;
 
@@ -164,7 +188,7 @@ c) O director dos serviços de administração, na área financeira, nos termos 
 
 2 - O conselho será assistido por um representante do Tribunal de Contas, que emitirá parecer quanto à legalidade das despesas, com direito a senhas de presença nos termos da lei aplicável.
 
-###### Art. 8.º - 1 - Compete ao conselho administrativo:
+Art. 8.º - 1 - Compete ao conselho administrativo:
 
 a) Promover a elaboração e execução do projecto de orçamento ordinário e suplementar do IVV;
 
@@ -190,7 +214,7 @@ i) Prestar anualmente contas da sua gerência ao Tribunal de Contas.
 
 4 - O conselho administrativo estabelecerá as normas internas do seu funcionamento.
 
-###### Art. 9.º - 1 - Constituem receitas do IVV:
+Art. 9.º - 1 - Constituem receitas do IVV:
 
 a) As dotações eventualmente atribuídas no Orçamento do Estado;
 
@@ -220,7 +244,7 @@ m) Quaisquer outras receitas que lhe sejam atribuídas por contrato, por lei ou 
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 10.º - 1 - São extintos a Junta Nacional do Vinho, criada pelo [Decreto n.º 27977](https://diariodarepublica.pt/dr/detalhe/decreto/27977-1937-428071), de 19 de Agosto de 1937, e as Divisões de Condicionamento da Cultura da Vinha e de Cadastro Vitícola, integrantes da Direcção de Serviços de Ordenamento Rural do Instituto de Gestão e Estruturação Fundiária, criado pelo [Decreto-Lei n.º 498-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-a-1979-197077), de 21 de Dezembro.
+Art. 10.º - 1 - São extintos a Junta Nacional do Vinho, criada pelo [Decreto n.º 27977](https://diariodarepublica.pt/dr/detalhe/decreto/27977-1937-428071), de 19 de Agosto de 1937, e as Divisões de Condicionamento da Cultura da Vinha e de Cadastro Vitícola, integrantes da Direcção de Serviços de Ordenamento Rural do Instituto de Gestão e Estruturação Fundiária, criado pelo [Decreto-Lei n.º 498-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-a-1979-197077), de 21 de Dezembro.
 
 2 - As atribuições e competências dos organismos e serviços extintos são cometidas ao IVV, sem prejuízo do preceituado no presente decreto-lei e na respectiva regulamentação.
 
@@ -234,22 +258,22 @@ m) Quaisquer outras receitas que lhe sejam atribuídas por contrato, por lei ou 
 
 7 - O pessoal dos quadros do organismo e serviços extintos transitará para o quadro de pessoal do Instituto ora criado, nos termos que vierem a ser definidos no decreto regulamentar a que se refere o artigo 11.º do presente diploma legal.
 
-###### Art. 11.º - 1 - O Governo, mediante decreto regulamentar, e no prazo de 60 dias contados da data de publicação do presente decreto-lei, procederá à regulamentação deste, designadamente no referente às competências, organização dos serviços, quadro e regime do pessoal do IVV.
+Art. 11.º - 1 - O Governo, mediante decreto regulamentar, e no prazo de 60 dias contados da data de publicação do presente decreto-lei, procederá à regulamentação deste, designadamente no referente às competências, organização dos serviços, quadro e regime do pessoal do IVV.
 
 2 - O diploma regulamentar referido no número anterior definirá igualmente os requisitos da manutenção ou modificação da situação do pessoal em regime de destacamento ou requisição, bem como dos vinculados mediante contrato ao organismo e serviços extintos, estipulando as condições a que obedecerá a transição do pessoal.
 
-###### Art. 12.º Os encargos resultantes da aplicação do presente decreto-lei serão suportados pelas verbas afectas ao organismo e serviços extintos.
+Art. 12.º Os encargos resultantes da aplicação do presente decreto-lei serão suportados pelas verbas afectas ao organismo e serviços extintos.
 
-###### Art. 13.º São revogados o [Decreto n.º 27977](https://diariodarepublica.pt/dr/detalhe/decreto/27977-1937-428071), de 19 de Agosto de 1937, bem como as alíneas c) e d) do n.º 2 do artigo 36.º e os artigos 39.º e 40.º do [Decreto-Lei n.º 498-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-a-1979-197077), de 21 de Dezembro, e ainda toda a legislação referente ao organismo e serviços extintos que contrarie o disposto no presente decreto-lei.
+Art. 13.º São revogados o [Decreto n.º 27977](https://diariodarepublica.pt/dr/detalhe/decreto/27977-1937-428071), de 19 de Agosto de 1937, bem como as alíneas c) e d) do n.º 2 do artigo 36.º e os artigos 39.º e 40.º do [Decreto-Lei n.º 498-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-a-1979-197077), de 21 de Dezembro, e ainda toda a legislação referente ao organismo e serviços extintos que contrarie o disposto no presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1986. - Eurico Silva Teixeira de Melo - Rui Carlos Alvarez Carp - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

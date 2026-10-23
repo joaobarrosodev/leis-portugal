@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07500/10421059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18c9a77d270d582c712ab8109fcd25a0defd8d271be13dca13dd26137db368cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2160fdbc8b13a874fc2254ea7deb055de0008d6dcf8bfdabd3075c3062acc459
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ACTO Administrativo
+- Autarquia Local
+- Câmara Municipal
+- Cargo Público
+- Definição de Competências
+- Descentralização
+- Freguesia
+- Indemnização
+- Junta de Freguesia
+- Legalidade Administrativa
+- Lisboa
+- Mandato Electivo
+- Porto
+- Presidente da Câmara
+- Região Administrativa
+- Remuneração
+- Responsabilidade Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:569886:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180411:por
+  label: "Alterados os arts. 2.º, 6.º, 11.º, 12.º, 22.º, 25.º, 27.º, 31.º, 36.º, 37.º, 39.º, 41.º, 44.º, 45.º, 46.º, 49.º,\
+    \ 70.º, 81.º e 97.º (a alteração deste art. produz a revogação dos art. 1.º a 81.º e 95.º a 115.º da Lei 79/77, de 25-Out),\
+    \ pela LEI.25/85.12.08.1985.AR, DR.IS [184] de 12.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/25-1985-180411
+  date: '1985-08-12'
+- type: amended_by
+  target: pt:dre:658473:por
+  label: "Alterados os art.s 39º, 45º (ambos na redacção da Lei 25/85, de 12-Ago), 51º, 52º e 53º, pela LEI.18/91.1991.06.12.AR,\
+    \ DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-1991-658473
+  date: '1991-06-12'
+- type: amended_by
+  target: pt:dre:691434:por
+  label: "Alterados os arts. 15.º e 39.º(este último na redacção da Lei 25/85 de 12-Ago), ambos do presente diploma, pela\
+    \ LEI.35/91.1991.07.27.AR DR.IS-A [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-1991-691434
+  date: '1991-07-27'
+- type: amended_by
+  target: pt:dre:138134:por
+  label: "Aditada uma al. j) ao nº 1 do art.51º pela LEI.17/99.1999.03.25.AR, DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-1999-138134
+  date: '1999-03-25'
+- type: cites
+  target: pt:dre:277277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441164:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275419:por
+  label: Rectificado pela DECL.DD871.1984.06.07.PCM, DR.IS [150]2ºSupl de 30.06.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275419
+  date: '1984-06-07'
+- type: repealed_by
+  target: pt:dre:547247:por
+  label: "Revogado o art. 70.º e o nº 2 do art. 81.º pela LEI.87/89.1989.09.09.AR DR.IS [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-1989-547247
+  date: '1989-09-09'
+- type: repealed_by
+  target: pt:dre:569886:por
+  label: "Revogado pela LEI.169/99.1999.09.18.AR,DR.IS-A [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/169-1999-569886
+  date: '1999-09-18'
 article_structure:
   article_count: 98
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:07Z'
   warnings: []
   errors: []
 ---
@@ -1216,12 +1284,12 @@ Mantém-se em vigor a legislação especial aplicável aos Municípios de Lisboa
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira.
 
-**Promulgado em 20 de Março de 1984.**
+Promulgado em 20 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Março de 1984.**
+Referendado em 20 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

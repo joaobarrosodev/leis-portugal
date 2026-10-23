@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/21600/30383039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1985-177453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cd6f90d731b611958f53d9f5fc5cfe4272b5d3a3a5da5f0666ac6bf1f45b41d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2ee4d403a859514bb52df64aca7e2d0c4e892a8f0f519d1dc63a8d90f8e0b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação de Veículos
+- Missão Diplomática
 relationships:
 - type: amended_by
   target: pt:dre:226204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498085:por
+  label: "Alterados os artigos 1.º, 3.º, 7.º, 8.º, 9.º e 10.º, pelo DEC LEI.378/87.17.12.1987.MF, DR.IS [289] de 17.12.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/378-1987-498085
+  date: '1987-12-17'
+- type: cites
+  target: pt:dre:186747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426104:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:322321:por
+  label: Rectificado pela DECL.DD5188.23.10.1985.PCM, DR.IS [251]3ºSupl de 31.10.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-322321
+  date: '1985-10-23'
+- type: repealed_by
+  target: pt:dre:226204:por
+  label: "Revogado a partir de 01.07.2007 pela LEI.22-A/2007.29.06.2007.AR, DR.IS [124-Supl] de 29.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-a-2007-226204
+  date: '2007-06-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:58Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +132,7 @@ Usando da autorização conferida pela alínea g) do artigo 30.º da [Lei n.º 2
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As missões Diplomáticas e consulares de carreira acreditadas em Portugal e os respectivos funcionários são autorizados a possuir com isenção de direitos de importação, em regime de reciprocidade, veículos automóveis em sistema de importação temporária destinados ao seu serviço, dentro dos limites seguintes:
+Artigo 1.º As missões Diplomáticas e consulares de carreira acreditadas em Portugal e os respectivos funcionários são autorizados a possuir com isenção de direitos de importação, em regime de reciprocidade, veículos automóveis em sistema de importação temporária destinados ao seu serviço, dentro dos limites seguintes:
 
 a) Para cada missão diplomática ou consular de carreira os veículos automóveis necessários ao seu serviço oficial, em número razoável, a juízo do Ministério dos Negócios Estrangeiros;
 
@@ -110,31 +144,31 @@ d) Um veículo automóvel para os cônsules de carreira ou até dois veículos a
 
 c) Os funcionários, administrativos e técnicos das missões diplomáticas e dos postos consulares de carreira que não sejam de nacionalidade portuguesa e não tenham em Portugal a sua residência permanente podem possuir, isento de direitos, em regime de reciprocidade, um veículo automóvel.
 
-###### Art. 2.º - 1 - Os veículos automóveis importados nos termos deste diploma serão registados nos Serviços do Protocolo do Ministério dos Negócios Estrangeiros em nome dos funcionários ou das missões a que pertencerem.
+Art. 2.º - 1 - Os veículos automóveis importados nos termos deste diploma serão registados nos Serviços do Protocolo do Ministério dos Negócios Estrangeiros em nome dos funcionários ou das missões a que pertencerem.
 
 2 - Os referidos veículos consideram-se em regime excepcional de importação temporária enquanto se mantiverem ao serviço efectivo das entidades referidas no número anterior.
 
-###### Art. 3.º - 1 - As estâncias aduaneiras despacharão os veículos automóveis importados nos termos deste diploma mediante a apresentação de franquia emitida pelos Serviços do Protocolo do Ministério dos Negócios Estrangeiros e sem exigência do boletim de registo de importação num prazo não superior a 5 dias úteis.
+Art. 3.º - 1 - As estâncias aduaneiras despacharão os veículos automóveis importados nos termos deste diploma mediante a apresentação de franquia emitida pelos Serviços do Protocolo do Ministério dos Negócios Estrangeiros e sem exigência do boletim de registo de importação num prazo não superior a 5 dias úteis.
 
 2 - O modelo de franquia vai anexo a este decreto-lei e pode ser alterado por despacho do Ministro dos Negócios Estrangeiros.
 
-###### Art. 4.º Os veículos a que se referem os artigos 1.º e 2.º deste diploma circulam munidos de um único documento - o certificado de matrícula de veículo privilegiado - emitido pelos Serviços do Protocolo e a aprovar por despacho do Ministro dos Negócios Estrangeiros.
+Art. 4.º Os veículos a que se referem os artigos 1.º e 2.º deste diploma circulam munidos de um único documento - o certificado de matrícula de veículo privilegiado - emitido pelos Serviços do Protocolo e a aprovar por despacho do Ministro dos Negócios Estrangeiros.
 
-###### Art. 5.º - 1 - Aos veículos automóveis a que se referem as alíneas a), b), c), d) e e) do artigo 1.º deste diploma serão reservadas para matrícula as séries de números dos grupos de letras CD, CC e FM, respectivamente, fazendo-se as respectivas inscrições em chapas de fundo branco com letras, algarismos e traços a vermelho, observando-se subsidiariamente, em relação às chapas de matrícula, o disposto no artigo 9.º da [Lei n.º 1955](https://diariodarepublica.pt/dr/detalhe/lei/1955-1937-426104), de 17 de Maio de 1937, embora as letras da matrícula possam figurar no centro dos dois grupos de algarismos.
+Art. 5.º - 1 - Aos veículos automóveis a que se referem as alíneas a), b), c), d) e e) do artigo 1.º deste diploma serão reservadas para matrícula as séries de números dos grupos de letras CD, CC e FM, respectivamente, fazendo-se as respectivas inscrições em chapas de fundo branco com letras, algarismos e traços a vermelho, observando-se subsidiariamente, em relação às chapas de matrícula, o disposto no artigo 9.º da [Lei n.º 1955](https://diariodarepublica.pt/dr/detalhe/lei/1955-1937-426104), de 17 de Maio de 1937, embora as letras da matrícula possam figurar no centro dos dois grupos de algarismos.
 
 2 - As chapas a que se refere este artigo constituem o único distintivo dos veículos automóveis dos membros do corpo diplomático e consular e do pessoal administrativo e técnico reconhecido pelas autoridades portuguesas.
 
-###### Art. 6.º - 1 - No caso de se verificar entre as entidades referidas no artigo 1.º a transferência de propriedades dos veículos automóveis importados ou adquiridos ao abrigo deste decreto-lei, o número de matrícula será aquele que ao novo proprietário couber.
+Art. 6.º - 1 - No caso de se verificar entre as entidades referidas no artigo 1.º a transferência de propriedades dos veículos automóveis importados ou adquiridos ao abrigo deste decreto-lei, o número de matrícula será aquele que ao novo proprietário couber.
 
 2 - Nos restantes casos de transferência de propriedade será o número de matrícula do veículo automóvel substituído por outro, da série normal, comunicando-se o facto ao director-geral de Viação, que mandará proceder às formalidades relativas ao registo do veículo na aludida série.
 
 3 - No caso de as pessoas mencionadas nas alíneas b), c), d) e e) do artigo 1.º deixarem de exercer em Portugal os seus cargos sem que se tenha verificado a transferência de propriedade prevista no corpo deste artigo, serão os registos dos respectivos veículos automóveis cancelados.
 
-###### Art. 7.º - 1 - Os veículos automóveis mencionados nas alíneas a), b), c) e d) do artigo 1.º do presente decreto-lei só podem ser alienados sem o pagamento de direitos, em regime de reciprocidade, passados 5 anos sobre a data da sua entrada ou aquisição em Portugal ou quando forem vendidos a outra entidade abrangida pelo artigo 1.º
+Art. 7.º - 1 - Os veículos automóveis mencionados nas alíneas a), b), c) e d) do artigo 1.º do presente decreto-lei só podem ser alienados sem o pagamento de direitos, em regime de reciprocidade, passados 5 anos sobre a data da sua entrada ou aquisição em Portugal ou quando forem vendidos a outra entidade abrangida pelo artigo 1.º
 
 2 - Para cumprimento da regra de reciprocidade internacional, compete ao Ministro das Finanças e do Plano, por despacho e sob proposta do Ministro dos Negócios Estrangeiros, encurtar ou ampliar os prazos referidos no número anterior.
 
-###### Art. 8.º Quando os proprietários dos veículos automóveis a que se refere o artigo 7.º pretendam vendê-los antes de decorridos os prazos, será exigida uma percentagem de direitos e taxas calculados pela pauta mínima segundo a tabela seguinte:
+Art. 8.º Quando os proprietários dos veículos automóveis a que se refere o artigo 7.º pretendam vendê-los antes de decorridos os prazos, será exigida uma percentagem de direitos e taxas calculados pela pauta mínima segundo a tabela seguinte:
 
 Anos a partir da entrada em Portugal:
 
@@ -146,7 +180,7 @@ Anos a partir da entrada em Portugal:
 
 5.º - 25%
 
-###### Art. 9.º - 1 - Os veículos automóveis dos funcionários administrativos e técnicos mencionados na alínea e) do artigo 1.º seguem a doutrina dos artigos 7.º e 8.º se forem de cilindrada inferior a 2000 cm3.
+Art. 9.º - 1 - Os veículos automóveis dos funcionários administrativos e técnicos mencionados na alínea e) do artigo 1.º seguem a doutrina dos artigos 7.º e 8.º se forem de cilindrada inferior a 2000 cm3.
 
 2 - Se forem de cilindrada superior a 2000 cm3 só poderão ser vendidos isentos de direitos ao fim de 7 anos após a data da sua importação em Portugal, ou pagando direitos e taxas calculados pela pauta mínima segundo a tabela seguinte:
 
@@ -162,25 +196,25 @@ Anos a partir da importação em Portugal:
 
 7.º - 10.%.
 
-###### Art. 10.º Nos casos de falecimento do proprietário do veículo importado nos termos do artigo 1.º ou da sua transferência de Portugal antes de decorridos desde a sua importação os prazos mencionados no artigo 7.º e de acidente ou de furto de que resulte a impossibilidade de recuperação do veículo, o Ministro das Finanças e do Plano pode dispensar o pagamento de direitos de importação, sob proposta do Ministro dos Negócios Estrangeiros, desde que se verifique a cláusula da reciprocidade.
+Art. 10.º Nos casos de falecimento do proprietário do veículo importado nos termos do artigo 1.º ou da sua transferência de Portugal antes de decorridos desde a sua importação os prazos mencionados no artigo 7.º e de acidente ou de furto de que resulte a impossibilidade de recuperação do veículo, o Ministro das Finanças e do Plano pode dispensar o pagamento de direitos de importação, sob proposta do Ministro dos Negócios Estrangeiros, desde que se verifique a cláusula da reciprocidade.
 
-###### Art. 11.º O conjunto de formalidades necessárias junto dos vários organismos portugueses para a importação definitiva e legalização destes veículos automóveis na série geral não poderá exceder 30 dias, salvo em casos excepcionais devidamente justificados.
+Art. 11.º O conjunto de formalidades necessárias junto dos vários organismos portugueses para a importação definitiva e legalização destes veículos automóveis na série geral não poderá exceder 30 dias, salvo em casos excepcionais devidamente justificados.
 
-###### Art. 12.º São revogados os Decretos-Leis n.os 32312, de 9 de Outubro de 1942, 39507, de 2 de Janeiro de 1954, 42281, de 25 de Maio de 1959, e 586/76, de 22 de Julho.
+Art. 12.º São revogados os Decretos-Leis n.os 32312, de 9 de Outubro de 1942, 39507, de 2 de Janeiro de 1954, 42281, de 25 de Maio de 1959, e 586/76, de 22 de Julho.
 
-###### Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Maria Manuela Aguiar - Alípio Barrosa Pereira Dias - Carlos Montez Melancia.
 
-**Promulgado em 2 de Setembro de 1985.**
+Promulgado em 2 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Setembro de 1985.**
+Referendado em 9 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Franquia
 
@@ -198,7 +232,7 @@ Data .../.../...
 
 (Assinatura com selo da missão)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/21600/30383039.pdf))](https://files.diariodarepublica.pt/1s/1985/09/21600/30383039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/21600/30383039.pdf)
 
 (nota 1) Nome e categoria do chefe da missão.
 

@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1986-222243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2314f53a60f39bf1c3d68b15695d645abd4037dd0508b52cae99a1e43c05f62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 296e665290fe0828490cada1f99d37d737a6b517da8cb8858e8070bbbfcf6f35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Pessoal Civil
+- Pessoal Docente
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:421189:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:16Z'
   warnings: []
   errors: []
 ---
@@ -99,28 +115,28 @@ Havendo vantagem em que os educadores de infância dos Serviços Sociais das For
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal de educação dos Serviços Sociais das Forças Armadas passa a reger-se pelas disposições do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.
+Artigo 1.º O pessoal de educação dos Serviços Sociais das Forças Armadas passa a reger-se pelas disposições do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.
 
-###### Art. 2.º O pessoal de educação transita para o regime referido no artigo 1.º desde que satisfaça as condições de ingresso e acesso às diferentes fases estabelecidas pelo decreto-lei indicado naquele artigo.
+Art. 2.º O pessoal de educação transita para o regime referido no artigo 1.º desde que satisfaça as condições de ingresso e acesso às diferentes fases estabelecidas pelo decreto-lei indicado naquele artigo.
 
-###### Art. 3.º - 1 - O pessoal de educação não abrangido pelo artigo precedente mantém as mesmas categorias e letras de vencimento, sem prejuízo do regime de acesso que lhe tem vindo a ser aplicado.
+Art. 3.º - 1 - O pessoal de educação não abrangido pelo artigo precedente mantém as mesmas categorias e letras de vencimento, sem prejuízo do regime de acesso que lhe tem vindo a ser aplicado.
 
 2 - A categoria de educador-director passa a designar-se por educador-especialista, letra H.
 
-###### Art. 4.º Os lugares das categorias referidas no artigo anterior serão extintos à medida que forem vagando, sendo preenchidos por igual número de indivíduos nas condições previstas no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.
+Art. 4.º Os lugares das categorias referidas no artigo anterior serão extintos à medida que forem vagando, sendo preenchidos por igual número de indivíduos nas condições previstas no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.
 
-###### Art. 5.º As alterações ao quadro do pessoal civil dos Serviços Sociais das Forças Armadas decorrentes da aplicação deste diploma serão efectuadas no prazo de 90 dias após a sua entrada em vigor, por portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
+Art. 5.º As alterações ao quadro do pessoal civil dos Serviços Sociais das Forças Armadas decorrentes da aplicação deste diploma serão efectuadas no prazo de 90 dias após a sua entrada em vigor, por portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
 
-###### Art. 6.º É revogada a [Portaria n.º 986/82](https://diariodarepublica.pt/dr/detalhe/portaria/986-1982-376188), de 20 de Outubro, na parte respeitante ao pessoal de educação.
+Art. 6.º É revogada a [Portaria n.º 986/82](https://diariodarepublica.pt/dr/detalhe/portaria/986-1982-376188), de 20 de Outubro, na parte respeitante ao pessoal de educação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Manuel Carlos Carvalho Fernandes.
 
-**Promulgado em 6 de Outubro de 1986.**
+Promulgado em 6 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1986.**
+Referendado em 18 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1983-443145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31cf13d1cc4df1e83440900e310a1e36adf2f475e0e2e468697a2b9035b4803f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9d831e1a89e092987d5b333d6a57b3824fefa3af6206bdf7d67bcbb4bbcaa9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Jogos de Fortuna e Azar
+- Lotaria Nacional
+relationships:
+- type: cites
+  target: pt:dre:578974:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:42Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +103,22 @@ Considerando, assim, que urge fixar por meios legais a presença do representant
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 15.º e o § único do artigo 31.º do Decreto com força de lei n.º 12790, de 30 de Novembro de 1926, passam a ter a seguinte redacção:
+Artigo único. O artigo 15.º e o § único do artigo 31.º do Decreto com força de lei n.º 12790, de 30 de Novembro de 1926, passam a ter a seguinte redacção:
 
-###### Art. 15.º Os bilhetes, subdivididos em conformidade com os planos aprovados, serão assinados por chancela, em todas as suas facções, pelo provedor e pelo director da Lotaria Nacional.
+Art. 15.º Os bilhetes, subdivididos em conformidade com os planos aprovados, serão assinados por chancela, em todas as suas facções, pelo provedor e pelo director da Lotaria Nacional.
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 § único. A este acto, bem como ao ingresso das esferas a extrair que imediatamente o precede, deve assistir um representante do Governador Civil do Distrito de Lisboa, que perceberá a gratificação mensal que lhe for fixada pela Mesa da Santa Casa da Misericórdia de Lisboa para a gerência da Lotaria Nacional.
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo.
 
-**Promulgado em 5 de Dezembro de 1983.**
+Promulgado em 5 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Dezembro de 1983.**
+Referendado em 6 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/04700/06380641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1984-661330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be1477737ed269b6c55da412519cc017ed62470a3bd15093d88b0f2046b58445
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a16b11c456c099c80da6f91ccf91226c4ca5458034baca8b672ca7d1889b4ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- Comércio
+- Comissão do Mercado de Cereais
+- Conselho Consultivo do Mercado de Cereais
+- EPAC
+- Importação
 relationships:
 - type: amended_by
   target: pt:dre:196209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183274:por
+  label: "Alterado o âmbito de aplicação do presente diploma pelo DEC LEI.296/85.1985.07.25.MA DR.IS [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1985-183274
+  date: '1985-07-25'
+- type: amended_by
+  target: pt:dre:168808:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, de parte da norma do art. 16º pelo AC.189/85.1985.10.29.TCS\
+    \ DR.IS [301] de 31/Dez/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/189-1985-168808
+  date: '1985-10-29'
+- type: corrected_by
+  target: pt:dre:631466:por
+  label: Rectificado pela DECL.DD2385.1984.03.13.PCM DR.IS [77]2ºSupl. de 31/Mar/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631466
+  date: '1984-03-13'
+- type: repealed_by
+  target: pt:dre:196209:por
+  label: "Revogado pelo DEC LEI.61/86.1986.03.25.MAPA DR.IS [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-1986-196209
+  date: '1986-03-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:48Z'
   warnings: []
   errors: []
 ---
@@ -123,15 +150,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Artigo 1.º A gestão do mercado de cereais, a que se refere este diploma, visará prioritariamente assegurar o seu adequado funcionamento, bem como disciplinar o comportamento dos agentes económicos que nele intervêm, em ordem a permitir o aproveitamento racional e harmonioso dos recursos existentes.
+Artigo 1.º A gestão do mercado de cereais, a que se refere este diploma, visará prioritariamente assegurar o seu adequado funcionamento, bem como disciplinar o comportamento dos agentes económicos que nele intervêm, em ordem a permitir o aproveitamento racional e harmonioso dos recursos existentes.
 
-###### Art. 2.º A regulamentação do mercado referido no artigo anterior abrange:
+Art. 2.º A regulamentação do mercado referido no artigo anterior abrange:
 
 a) Um sistema de preços e de intervenção;
 
 b) Um regime de importação e exportação.
 
-###### Art. 3.º Para o funcionamento do mercado de cereais são criados os seguintes órgãos:
+Art. 3.º Para o funcionamento do mercado de cereais são criados os seguintes órgãos:
 
 a) A Comissão do Mercado de Cereais;
 
@@ -141,11 +168,11 @@ c) O orçamento de intervenção.
 
 ### CAPÍTULO II — Sistema e preços de intervenção
 
-###### Art. 4.º - 1 - Em cada campanha de comercialização de cereais serão fixados, nos termos da alínea a) do artigo 14.º do presente diploma, um preço indicativo, um preço limiar de importação, um preço de intervenção e um preço de revenda, que serão referidos a uma qualidade tipo.
+Art. 4.º - 1 - Em cada campanha de comercialização de cereais serão fixados, nos termos da alínea a) do artigo 14.º do presente diploma, um preço indicativo, um preço limiar de importação, um preço de intervenção e um preço de revenda, que serão referidos a uma qualidade tipo.
 
 2 - A campanha de comercialização do trigo, centeio, aveia, cevada, milho e sorgo inicia-se em 1 de Julho e termina em 30 de Junho do ano seguinte e a do arroz inicia-se em 1 de Outubro e termina em 30 de Setembro do ano seguinte.
 
-###### Art. 5.º Para efeitos do disposto no presente diploma, entende-se por:
+Art. 5.º Para efeitos do disposto no presente diploma, entende-se por:
 
 a) Preço indicativo, o preço de mercado considerado desejável para os cereais nos locais de consumo;
 
@@ -155,15 +182,15 @@ c) Preço de intervenção, o preço a pagar à produção nacional pelo organis
 
 d) Preço de revenda, o preço a praticar pelo organismo de intervenção, ou pela EPAC enquanto aquele não entrar em funcionamento, para os cereais importados fora do regime concorrencial.
 
-###### Art. 6.º Se a qualidade do cereal entregue ao organismo de intervenção, ou à EPAC enquanto aquele não entrar em funcionamento, diferir da qualidade tipo a que se refere o preço de intervenção, este será ajustado, de acordo com a aplicação de tabelas de depreciações ou bonificações, definidas nos termos da alínea g) do artigo 14.º do presente diploma.
+Art. 6.º Se a qualidade do cereal entregue ao organismo de intervenção, ou à EPAC enquanto aquele não entrar em funcionamento, diferir da qualidade tipo a que se refere o preço de intervenção, este será ajustado, de acordo com a aplicação de tabelas de depreciações ou bonificações, definidas nos termos da alínea g) do artigo 14.º do presente diploma.
 
-###### Art. 7.º - 1 - O preço indicativo, o preço limiar de importação, o preço de intervenção e o preço de revenda são objecto de majorações mensais escalonadas durante toda ou parte da campanha de comercialização.
+Art. 7.º - 1 - O preço indicativo, o preço limiar de importação, o preço de intervenção e o preço de revenda são objecto de majorações mensais escalonadas durante toda ou parte da campanha de comercialização.
 
 2 - O número e o montante das majorações mensais, assim como a sua distribuição pela campanha de comercialização, são definidos nos termos da alínea b) do artigo 14.º deste diploma.
 
 ### CAPÍTULO III — Regime de importação e exportação
 
-###### Art. 8.º - 1 - O Governo fixará, nos termos da alínea c) do artigo 14.º, os contingentes de cereais que poderão ser importados fora do regime de exclusivo da EPAC.
+Art. 8.º - 1 - O Governo fixará, nos termos da alínea c) do artigo 14.º, os contingentes de cereais que poderão ser importados fora do regime de exclusivo da EPAC.
 
 2 - A importação destes contingentes fica sujeita à obtenção de um certificado de importação, a emitir pela Comissão do Mercado de Cereais, e ao pagamento de um direito regulador calculado por forma a elevar o preço de aquisição do cereal no mercado mundial até ao respectivo preço limiar de importação.
 
@@ -181,7 +208,7 @@ d) Preço de revenda, o preço a praticar pelo organismo de intervenção, ou pe
 
 9 - As normas respeitantes aos procedimentos relativos aos números anteriores serão estabelecidas nos termos da alínea d) do artigo 14.º deste diploma.
 
-###### Art. 9.º - 1 - A exportação de cereais e seus derivados fica sujeita à obtenção de um certificado de exportação, a emitir pela Comissão do Mercado de Cereais.
+Art. 9.º - 1 - A exportação de cereais e seus derivados fica sujeita à obtenção de um certificado de exportação, a emitir pela Comissão do Mercado de Cereais.
 
 2 - Aquando da exportação haverá lugar à devolução dos subsídios ou de outras importâncias de efeito equivalente de que o respectivo produto tenha beneficiado ao longo do seu circuito económico.
 
@@ -195,21 +222,21 @@ d) Preço de revenda, o preço a praticar pelo organismo de intervenção, ou pe
 
 ### CAPÍTULO IV — Normas de concorrência
 
-###### Art. 10.º É aplicável ao mercado de cereais regido pelo presente diploma o disposto na legislação sobre a defesa da concorrência.
+Art. 10.º É aplicável ao mercado de cereais regido pelo presente diploma o disposto na legislação sobre a defesa da concorrência.
 
 ### CAPÍTULO V — Órgãos
 
-###### Art. 11.º A Comissão do Mercado de Cereais é composta pelos membros designados pelos Ministros das Finanças e do Plano, da Agricultura, Florestas e Alimentação, da Indústria e Energia e do Comércio e Turismo, sendo a sua constituição, atribuições, competência e regras de actuação definidas por decreto regulamentar.
+Art. 11.º A Comissão do Mercado de Cereais é composta pelos membros designados pelos Ministros das Finanças e do Plano, da Agricultura, Florestas e Alimentação, da Indústria e Energia e do Comércio e Turismo, sendo a sua constituição, atribuições, competência e regras de actuação definidas por decreto regulamentar.
 
-###### Art. 12.º O Conselho Consultivo do Mercado de Cereais é composto por representantes dos sectores ligados ao funcionamento do mercado de cereais, sendo a sua constituição, atribuições e competência definidas nos termos da alínea h) do artigo 14.º deste diploma.
+Art. 12.º O Conselho Consultivo do Mercado de Cereais é composto por representantes dos sectores ligados ao funcionamento do mercado de cereais, sendo a sua constituição, atribuições e competência definidas nos termos da alínea h) do artigo 14.º deste diploma.
 
-###### Art. 13.º - 1 - O organismo de intervenção, ou a EPAC, enquanto aquele não entrar em funcionamento, fica obrigado a comprar, ao preço de intervenção, durante a campanha de comercialização, o cereal de produção nacional que lhe for oferecido, desde que o mesmo corresponda às normas de qualidade mínima previamente fixadas.
+Art. 13.º - 1 - O organismo de intervenção, ou a EPAC, enquanto aquele não entrar em funcionamento, fica obrigado a comprar, ao preço de intervenção, durante a campanha de comercialização, o cereal de produção nacional que lhe for oferecido, desde que o mesmo corresponda às normas de qualidade mínima previamente fixadas.
 
 2 - O organismo de intervenção, ou a EPAC, enquanto aquele não entrar em funcionamento, venderá o cereal proveniente da sua acção de intervenção, ficando obrigado a abastecer com o cereal nacional ou importado disponível todos os interessados, segundo as normas e os preços estabelecidos nos termos da alínea f) do artigo 14.º do presente diploma.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 14.º Serão estabelecidos por despacho conjunto dos Ministros das Finanças e do Plano, da Agricultura, Florestas e Alimentação e do Comércio e Turismo:
+Art. 14.º Serão estabelecidos por despacho conjunto dos Ministros das Finanças e do Plano, da Agricultura, Florestas e Alimentação e do Comércio e Turismo:
 
 a) Para cada campanha de comercialização, o preço indicativo, o preço limiar de importação, o preço de intervenção e o preço de revenda referidos no artigo 4.º;
 
@@ -227,26 +254,26 @@ g) As tabelas de depreciações ou bonificações da qualidade do cereal para a 
 
 h) A constituição, atribuições e competência do Conselho Consultivo do Mercado de Cereais.
 
-###### Art. 15.º Enquanto não entrar em funcionamento o organismo de intervenção referido na alínea c) do artigo 3.º, serão as respectivas funções exercidas pela EPAC - Empresa Pública de Abastecimento de Cereais, que, para o efeito, receberá as necessárias instruções dos ministros competentes.
+Art. 15.º Enquanto não entrar em funcionamento o organismo de intervenção referido na alínea c) do artigo 3.º, serão as respectivas funções exercidas pela EPAC - Empresa Pública de Abastecimento de Cereais, que, para o efeito, receberá as necessárias instruções dos ministros competentes.
 
-###### Art. 16.º Em caso de justificadas dificuldades resultantes da aplicação do novo sistema de comercialização, ou na ocorrência de perturbações no mercado nacional que ponham em perigo o abastecimento público, poderão os Ministros das Finanças e do Plano, da Agricultura, Florestas e Alimentação e do Comércio e Turismo, por iniciativa própria ou mediante proposta da Comissão do Mercado de Cereais, determinar, por portaria conjunta, as medidas adequadas ao restabelecimento do equilíbrio do mercado, suspendendo, se for caso disso, total ou parcialmente, por prazo não superior a 3 meses, a execução das normas constantes deste decreto-lei.
+Art. 16.º Em caso de justificadas dificuldades resultantes da aplicação do novo sistema de comercialização, ou na ocorrência de perturbações no mercado nacional que ponham em perigo o abastecimento público, poderão os Ministros das Finanças e do Plano, da Agricultura, Florestas e Alimentação e do Comércio e Turismo, por iniciativa própria ou mediante proposta da Comissão do Mercado de Cereais, determinar, por portaria conjunta, as medidas adequadas ao restabelecimento do equilíbrio do mercado, suspendendo, se for caso disso, total ou parcialmente, por prazo não superior a 3 meses, a execução das normas constantes deste decreto-lei.
 
-###### Art. 17.º - 1 - Na campanha de comercialização de 1984-1985 apenas poderão adquirir cereais à produção nacional em regime de mercado livre ou proceder à importação de cereais em regime concorrencial os agentes económicos que, para o efeito, se inscrevam previamente na Comissão do Mercado de Cereais.
+Art. 17.º - 1 - Na campanha de comercialização de 1984-1985 apenas poderão adquirir cereais à produção nacional em regime de mercado livre ou proceder à importação de cereais em regime concorrencial os agentes económicos que, para o efeito, se inscrevam previamente na Comissão do Mercado de Cereais.
 
 2 - O Governo poderá fixar nas campanhas seguintes condições objectivas de acesso dos agentes económicos à possibilidade de importação ou de aquisição dos cereais nacionais em regime de mercado livre.
 
-###### Art. 18.º - 1 - Fica revogado o regime de exclusivo da EPAC na aquisição de trigo de produção nacional e na importação de cereais que, nos termos do n.º 1 do artigo 8.º, forem incluídos no regime concorrencial.
+Art. 18.º - 1 - Fica revogado o regime de exclusivo da EPAC na aquisição de trigo de produção nacional e na importação de cereais que, nos termos do n.º 1 do artigo 8.º, forem incluídos no regime concorrencial.
 
 2 - A EPAC passará a actuar no mercado nacional de cereais e na importação dos contingentes a fixar nos termos do n.º 1 do artigo 8.º, de modo que fique assegurada a sã concorrência com os outros agentes económicos.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 16 de Fevereiro de 1984.**
+Promulgado em 16 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Fevereiro de 1984.**
+Referendado em 17 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

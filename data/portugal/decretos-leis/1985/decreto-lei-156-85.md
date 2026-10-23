@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 106/1985, 1º Suplemento, Série I de 1985-05-09
   number: '106'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1276-(4) a 1276-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10601/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1985-546814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83c2297e4aac531ea1d14827c5b1a756d21e7e578d43e726c02d7361760a55a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3edf93545811e19bcfc3f6ad93ad79cc0020e1c29acff475be847178eee4d3e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
 relationships:
 - type: amended_by
   target: pt:dre:220121:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:230891:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220121:por
+  label: Revogado pelo(a) Decreto-Lei n.º 290/86 - Diário da República n.º 208/1986, Série I de 1986-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1986-220121
+  date: '1986-09-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:24Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +106,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 47.º do Código da Estrada passa a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 47.º do Código da Estrada passa a ter a seguinte redacção:
 
 1 - As licenças de condução de veículos automóveis denominam-se «cartas de condução» e serão passadas pelas direcções de serviços e divisões de viação aos indivíduos que estejam nas condições seguintes:
 
@@ -110,18 +120,18 @@ d) Possuírem o 6.º ano de escolaridade obrigatória, comprovado através da ap
 
 e) ...
 
-###### Art. 2.º A partir de 1 de Janeiro de 1990 será obrigatória, para obtenção da carta de condução de qualquer categoria de veículos automóveis, a posse da 4.ª classe do ensino primário, sem prejuízo, porém, do nível de habilitações literárias exigido aos indivíduos nascidos a partir de 1 de Janeiro de 1967 pela redacção ora dada à alínea d) do n.º 1 do artigo 47.º do Código da Estrada.
+Art. 2.º A partir de 1 de Janeiro de 1990 será obrigatória, para obtenção da carta de condução de qualquer categoria de veículos automóveis, a posse da 4.ª classe do ensino primário, sem prejuízo, porém, do nível de habilitações literárias exigido aos indivíduos nascidos a partir de 1 de Janeiro de 1967 pela redacção ora dada à alínea d) do n.º 1 do artigo 47.º do Código da Estrada.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - João de Deus Rogado Salvador Pinheiro - Carlos Montez Melancia.
 
-**Promulgado em 8 de Abril de 1985.**
+Promulgado em 8 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Abril de 1985.**
+Referendado em 8 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

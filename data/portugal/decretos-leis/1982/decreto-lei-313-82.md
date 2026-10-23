@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/17900/23152317.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1982-397281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa6a0da49234ddb83a001bcf5cc0683b50f0546c2bda085a4e5b8d6678cc2ac9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99eb4f5a0c35c24edf824a74d4fe52802c31ca89fe5bd4d7e26268f8cc4bcbeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gestão Financeira
+- Modernização Administrativa
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:193663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:685439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:193663:por
+  label: "Revogado pela LEI.98/97.1997.08.26.AR DR.IS-A [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-1997-193663
+  date: '1997-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:50Z'
   warnings: []
   errors: []
 ---
@@ -117,11 +129,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As entidades legalmente obrigadas à prestação de contas ao Tribunal de Contas podem ser por este dispensadas, nos termos fixados no presente diploma, de fazer acompanhar aquelas de todos ou parte dos correspondentes documentos de despesa.
+Artigo 1.º - 1 - As entidades legalmente obrigadas à prestação de contas ao Tribunal de Contas podem ser por este dispensadas, nos termos fixados no presente diploma, de fazer acompanhar aquelas de todos ou parte dos correspondentes documentos de despesa.
 
 2 - O disposto no número anterior não dispensa o julgamento, pelo Tribunal, das correspondentes contas de gerência.
 
-###### Art. 2.º A dispensa prevista no n.º 1 do artigo 1.º não poderá ter lugar quando se trate de:
+Art. 2.º A dispensa prevista no n.º 1 do artigo 1.º não poderá ter lugar quando se trate de:
 
 a) Contas de tesoureiros da Fazenda Pública, das alfândegas ou de agentes consulares;
 
@@ -129,9 +141,9 @@ b) Contas de serviços e organismos, sempre que, no tocante a qualquer uma das 3
 
 c) Contas relativamente às quais haja qualquer tipo de indício da prática de irregularidades, seja qual for a natureza destas.
 
-###### Art. 3.º A mesma entidade não pode ser, em caso algum, dispensada de remeter documentos de despesa por mais de duas gerências seguidas.
+Art. 3.º A mesma entidade não pode ser, em caso algum, dispensada de remeter documentos de despesa por mais de duas gerências seguidas.
 
-###### Art. 4.º - 1 - Para execução do disposto no n.º 1 do artigo 1.º, a Direcção-Geral do Tribunal de Contas apresentará até 15 de Janeiro, ao presidente do Tribunal, processo contendo lista nominativa das entidades susceptíveis de serem abrangidas por aquele preceito e em que expressamente refira, no tocante a cada uma delas, a não verificação de qualquer das circunstâncias mencionadas nos artigos 2.º e 3.º
+Art. 4.º - 1 - Para execução do disposto no n.º 1 do artigo 1.º, a Direcção-Geral do Tribunal de Contas apresentará até 15 de Janeiro, ao presidente do Tribunal, processo contendo lista nominativa das entidades susceptíveis de serem abrangidas por aquele preceito e em que expressamente refira, no tocante a cada uma delas, a não verificação de qualquer das circunstâncias mencionadas nos artigos 2.º e 3.º
 
 2 - Seguidamente, o presidente determinará que do processo seja dada vista ao Ministério Público e a todos os juízes, pelo prazo de 2 dias a cada um.
 
@@ -141,11 +153,11 @@ c) Contas relativamente às quais haja qualquer tipo de indício da prática de 
 
 5 - A lista das entidades dispensadas da remessa dos documentos de despesa será publicada no Diário da República, 2.ª série, até ao final do mês de Fevereiro do ano seguinte ao da gerência abrangida.
 
-###### Art. 5.º - 1 - As entidades dispensadas da remessa dos documentos de despesa deverão conservar os mesmos em arquivo, pelo prazo mínimo de 5 anos, contados da publicação no Diário da República a que alude o artigo anterior.
+Art. 5.º - 1 - As entidades dispensadas da remessa dos documentos de despesa deverão conservar os mesmos em arquivo, pelo prazo mínimo de 5 anos, contados da publicação no Diário da República a que alude o artigo anterior.
 
 2 - Durante o período referido no número precedente, o Tribunal ou o seu presidente podem ordenar que se proceda ao exame de todos ou de parte dos documentos de despesa das entidades dispensadas de os enviar, nos termos e condições que considerarem mais adequados, ainda que as respectivas contas de gerência já tenham sido julgadas.
 
-###### Art. 6.º - 1 - A gestão económico-financeira e patrimonial das entidades legalmente obrigadas à prestação de contas ao Tribunal de Contas poderá ser objecto de apreciação por parte daquele Tribunal.
+Art. 6.º - 1 - A gestão económico-financeira e patrimonial das entidades legalmente obrigadas à prestação de contas ao Tribunal de Contas poderá ser objecto de apreciação por parte daquele Tribunal.
 
 2 - O Tribunal seleccionará anualmente as entidades que ficam sujeitas à apreciação referida no número anterior.
 
@@ -153,14 +165,14 @@ c) Contas relativamente às quais haja qualquer tipo de indício da prática de 
 
 4 - O Tribunal emitirá as instruções de carácter genérico ou específico que considerar necessárias à apreciação da gestão económico-financeira e patrimonial a que alude o presente artigo, podendo igualmente solicitar a entidades externas a realização das tarefas indispensáveis a tal apreciação, sempre que as mesmas não possam ser desempenhadas pelos serviços de apoio permanente ao Tribunal.
 
-###### Art. 7.º - 1 - Após a entrada em vigor do presente diploma e verificados todos os condicionalismos nele previstos, pode o Tribunal, no prazo de 180 dias, utilizar a faculdade prevista no n.º 1 do artigo 1.º no tocante a todas as contas pendentes na Direcção-Geral e cuja preparação para julgamento ainda não tenha sido concluída, ficando dispensada a publicação referida no n.º 5 do artigo 4.º
+Art. 7.º - 1 - Após a entrada em vigor do presente diploma e verificados todos os condicionalismos nele previstos, pode o Tribunal, no prazo de 180 dias, utilizar a faculdade prevista no n.º 1 do artigo 1.º no tocante a todas as contas pendentes na Direcção-Geral e cuja preparação para julgamento ainda não tenha sido concluída, ficando dispensada a publicação referida no n.º 5 do artigo 4.º
 
 2 - O presidente do Tribunal determinará à Direcção-Geral o que tiver por conveniente para execução do disposto no número precedente.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Julho de 1982.**
+Promulgado em 21 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

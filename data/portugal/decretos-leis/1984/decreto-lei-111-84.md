@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/08000/11351136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1984-654516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cc62a05df6904e4e852cd19a2e802b42ca98d517fee107932476844d471337f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 996be83d4711349e2a901a8ff9df35ad2b8f12c0d46dc9ff8c96909c0368017d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Ordenamento
+- Direcção Geral do Planeamento Urbanístico
+- Integração de Trabalhadores
+- Ministério da Qualidade de VIDA
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:22Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +121,9 @@ Pretende-se agora, pelo presente diploma, dissipar algumas dúvidas que se levan
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 337/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1983-453802), de 20 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 337/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1983-453802), de 20 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Poderão ser integrados no quadro único do MQV, para fazer parte do contingente de pessoal a atribuir à DGO aquando da publicação da lei orgânica, os funcionários e agentes da DGPU do MES que tenham prosseguido no âmbito desta as atribuições e competências cometidas pelo presente diploma à DGO, com observância do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+Art. 2.º - 1 - Poderão ser integrados no quadro único do MQV, para fazer parte do contingente de pessoal a atribuir à DGO aquando da publicação da lei orgânica, os funcionários e agentes da DGPU do MES que tenham prosseguido no âmbito desta as atribuições e competências cometidas pelo presente diploma à DGO, com observância do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
 2 - Para efeitos do disposto no número anterior, o Ministro do Equipamento Social e o Ministro da Qualidade de Vida aprovarão, por despacho conjunto e sob proposta dos directores-gerais do Ordenamento e do Planeamento Urbanístico, a lista nominativa do pessoal a transitar.
 
@@ -114,9 +137,9 @@ b) Em categoria correspondente à das funções que o funcionário ou agente act
 
 5 - Até à integração a que se referem os números anteriores, a situação jurídico-funcional dos funcionários e agentes constantes da lista nominativa referida no n.º 2 deste artigo mantém-se, para todos os efeitos legais, idêntica à que esse pessoal detinha na DGPU.
 
-###### Art. 2.º O artigo 3.º do [Decreto-Lei n.º 337/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1983-453802), de 20 de Junho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto-Lei n.º 337/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1983-453802), de 20 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Serão criados no quadro do MQV os lugares necessários à integração prevista no artigo anterior, mediante portaria conjunta dos Ministros das Finanças e do Plano e da Qualidade de Vida e do Secretário de Estado da Administração Pública.
+Art. 3.º - 1 - Serão criados no quadro do MQV os lugares necessários à integração prevista no artigo anterior, mediante portaria conjunta dos Ministros das Finanças e do Plano e da Qualidade de Vida e do Secretário de Estado da Administração Pública.
 
 2 - Serão transferidas do orçamento da DGPU para o da Secretaria-Geral do MQV as verbas correspondentes ao pessoal integrado nos termos do número anterior.
 
@@ -124,12 +147,12 @@ b) Em categoria correspondente à das funções que o funcionário ou agente act
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - João Rosado Correia - António d'Orey Capucho.
 
-**Promulgado em 25 de Março de 1984.**
+Promulgado em 25 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Março de 1984.**
+Referendado em 27 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

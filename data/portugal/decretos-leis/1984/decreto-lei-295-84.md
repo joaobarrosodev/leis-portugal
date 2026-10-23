@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/20200/26852686.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1984-373624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6768e6bea1d7442887af448efb8a8e75af9be72d872edc917ef2bb388ee48378
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 000f4fb6010791e7660ef49139d26d44639e9c000982cefbc401d9c881cb66b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Assistência Medicamentosa
+- GNR
+- Guarda Fiscal
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:150711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:150711:por
+  label: "Revogado pelo DEC LEI.158/2005.20.09.2005.MAI, DR.IS-A [181] de 20.09.2005, a partir da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2005-150711
+  date: '2005-09-20'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:33Z'
   warnings: []
   errors: []
 ---
@@ -96,24 +114,24 @@ Convindo, assim, fazer regressar a assistência na doença ao pessoal da Guarda 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 7.º do [Decreto-Lei n.º 357/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1977-286529), de 31 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 7.º do [Decreto-Lei n.º 357/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1977-286529), de 31 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 7.º — Competência e orgânica
 
 A estrutura e o funcionamento administrativos da assistência sanitária estatuída por este diploma são assegurados, respectivamente, pelas secções de assistência na doença (SAD) criadas na dependência dos Serviços de Administração e Finanças da Guarda Nacional Republicana e da Guarda Fiscal e pelo Serviço de Assistência na Doença da Polícia de Segurança Pública (SAD), a criar na dependência directa do Comando-Geral e à custa dos efectivos deste.
 
-###### Art. 2.º Fica revogado o [Decreto-Lei n.º 241/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1979-381283), de 25 de Julho.
+Art. 2.º Fica revogado o [Decreto-Lei n.º 241/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1979-381283), de 25 de Julho.
 
-###### Art. 3.º Este diploma produz efeitos a partir de 1 de Janeiro de 1985.
+Art. 3.º Este diploma produz efeitos a partir de 1 de Janeiro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 21 de Agosto de 1984.**
+Promulgado em 21 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Agosto de 1984.**
+Referendado em 22 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

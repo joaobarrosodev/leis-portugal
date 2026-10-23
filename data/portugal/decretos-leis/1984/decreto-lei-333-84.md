@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1984-400197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b4eb5f52c53a95ded21b26acd0effb89a31931b68e12fd27fd734dd36a7a953
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0655997c94005f7a7e7cd21dc41a1eb34ae9ada28bc984abb58124f3b39f26a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola de Formação de Guardas
+- Escola Prática de Polícia
+- Integração de Trabalhadores
+- Pessoal Militarizado
+- PSP
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:394694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661516:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:07Z'
   warnings: []
   errors: []
 ---
@@ -93,34 +119,34 @@ Considerando que há toda a conveniência em se alterar o [Decreto-Lei n.º 410/
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinto o quadro de pessoal da Escola de Formação de Guardas constante do apêndice 3 ao anexo IV do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro.
+Artigo 1.º É extinto o quadro de pessoal da Escola de Formação de Guardas constante do apêndice 3 ao anexo IV do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro.
 
-###### Art. 2.º O quadro de pessoal Escola Prática de Polícia constante do apêndice 2 ao anexo IV do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, passa a ser o do anexo I ao presente diploma.
+Art. 2.º O quadro de pessoal Escola Prática de Polícia constante do apêndice 2 ao anexo IV do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, passa a ser o do anexo I ao presente diploma.
 
-###### Art. 3.º O pessoal civil constante do mapa II da [Portaria n.º 1075/80](https://diariodarepublica.pt/dr/detalhe/portaria/1075-1980-459620), de 18 de Dezembro, do quadro anexo à [Portaria n.º 664/82](https://diariodarepublica.pt/dr/detalhe/portaria/664-1982-394694), de 3 de Julho, e do mapa anexo à [Portaria n.º 116/84](https://diariodarepublica.pt/dr/detalhe/portaria/116-1984-661516), de 22 de Fevereiro, transita para o quadro de pessoal da Escola Prática de Polícia.
+Art. 3.º O pessoal civil constante do mapa II da [Portaria n.º 1075/80](https://diariodarepublica.pt/dr/detalhe/portaria/1075-1980-459620), de 18 de Dezembro, do quadro anexo à [Portaria n.º 664/82](https://diariodarepublica.pt/dr/detalhe/portaria/664-1982-394694), de 3 de Julho, e do mapa anexo à [Portaria n.º 116/84](https://diariodarepublica.pt/dr/detalhe/portaria/116-1984-661516), de 22 de Fevereiro, transita para o quadro de pessoal da Escola Prática de Polícia.
 
-###### Art. 4.º São acrescidos ao quadro de pessoal do Comando-Geral da Polícia de Segurança Pública constante do apêndice 1 ao anexo IV do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, os lugares constantes do anexo II do presente diploma, destinados à integração do pessoal excedentário da Escola de Formação de Guardas.
+Art. 4.º São acrescidos ao quadro de pessoal do Comando-Geral da Polícia de Segurança Pública constante do apêndice 1 ao anexo IV do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, os lugares constantes do anexo II do presente diploma, destinados à integração do pessoal excedentário da Escola de Formação de Guardas.
 
-###### Art. 5.º A distribuição geral dos efectivos previstos no artigo 2.º do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, pelo Comando, Escola Prática de Polícia e unidades e subunidades da Polícia de Segurança Pública será alterada por portaria conjunta do Ministro da Administração Interna e do que tutela a Administração Pública.
+Art. 5.º A distribuição geral dos efectivos previstos no artigo 2.º do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro, pelo Comando, Escola Prática de Polícia e unidades e subunidades da Polícia de Segurança Pública será alterada por portaria conjunta do Ministro da Administração Interna e do que tutela a Administração Pública.
 
-###### Art. 6.º O presente diploma produz efeitos a partir de 1 de Setembro de 1984.
+Art. 6.º O presente diploma produz efeitos a partir de 1 de Setembro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 30 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 3 de Outubro de 1984.**
+Promulgado em 3 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Outubro de 1984.**
+Referendado em 8 de Outubro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — Escola Prática de Polícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/24200/32373238.pdf))](https://files.diariodarepublica.pt/1s/1984/10/24200/32373238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/24200/32373238.pdf)
 
 ## ANEXO II — Acréscimos ao apêndice e ao anexo IV «Comando-Geral» do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), de 30 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/24200/32373238.pdf))](https://files.diariodarepublica.pt/1s/1984/10/24200/32373238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/24200/32373238.pdf)

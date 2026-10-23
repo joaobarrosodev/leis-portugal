@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/26800/38553856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1983-443705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fefa733b7278ffd3525cc8d6668c157f482c88aba3599de0be4a769f3a6ddd2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4524b08756cd141244ff4876155fb0acbdfc66fea0c985460385e6cf397126d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Propriedade Industrial
+- Instituto Nacional da Propriedade Industrial
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:139270:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663314:por
+  label: "Substituída a tabela a que se refere o art. 1º pelo DEC LEI.56/87.31.01.1987.MIC, DR.IS [26] de 31.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1987-663314
+  date: '1987-01-31'
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474148:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469988:por
+  label: Rectificado pela DECL.DD5611.30.11.1983.PCM, DR.IS [276]2ºSupl de 30.11.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469988
+  date: '1983-11-30'
+- type: repealed_by
+  target: pt:dre:139270:por
+  label: "Revogado pelo DEC LEI.16/95.1995.01.24.MIE, DR.IS-A [20] de 24.01.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1995-139270
+  date: '1995-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:15Z'
   warnings: []
   errors: []
 ---
@@ -96,25 +122,25 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A tabela a que se refere o artigo 1.º, n.º 1, do [Decreto-Lei n.º 151/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1980-474148), de 23 de Maio, é substituída pela tabela anexa ao presente diploma.
+Artigo 1.º A tabela a que se refere o artigo 1.º, n.º 1, do [Decreto-Lei n.º 151/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1980-474148), de 23 de Maio, é substituída pela tabela anexa ao presente diploma.
 
-###### Art. 2.º Esta tabela passa a constituir a tabela n.º 6 a que se refere o artigo 255.º do Código da Propriedade Industrial.
+Art. 2.º Esta tabela passa a constituir a tabela n.º 6 a que se refere o artigo 255.º do Código da Propriedade Industrial.
 
-###### Art. 3.º As taxas referidas no artigo 1.º serão pagas em numerário no Instituto Nacional da Propriedade Industrial por meio de recibo, em triplicado, a emitir pelo mesmo, cujo original será entregue ao interessado, o duplicado será anexo ao processo respectivo e o triplicado fica arquivado na caderneta de recebidos.
+Art. 3.º As taxas referidas no artigo 1.º serão pagas em numerário no Instituto Nacional da Propriedade Industrial por meio de recibo, em triplicado, a emitir pelo mesmo, cujo original será entregue ao interessado, o duplicado será anexo ao processo respectivo e o triplicado fica arquivado na caderneta de recebidos.
 
-###### Art. 4.º As receitas provenientes da cobrança das taxas a que se refere o artigo anterior ficam sujeitas ao regime do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
+Art. 4.º As receitas provenientes da cobrança das taxas a que se refere o artigo anterior ficam sujeitas ao regime do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Promulgado em 9 de Novembro de 1983.**
+Promulgado em 9 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Novembro de 1983.**
+Referendado em 10 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 TABELA
 

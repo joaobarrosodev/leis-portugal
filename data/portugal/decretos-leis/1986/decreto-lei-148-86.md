@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13700/14321436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1986-229081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ff06a172d0c7fa2e22e45208bebc0c3368542bb74cdeaddebaa88584ea3e4f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db73e1ad99404539387c129b66d0dde7728ee419e082874b394f5575911b549a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Edma-empresa de Desenvolvimento Mineiro do Alentejo
+- Edm-empresa de Desenvolvimento Mineiro
+- Estatuto
+- Ferrominas
+- Fusão de Empresas
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547665:por
+  label: "Transformada a EDM - Empresa de Desenvolvimento Mineiro, E. P., em sociedade anónima de capitais maioritariamente\
+    \ públicos, pelo DEC LEI.313/89.21.09.1989.MIE, DR.IS [218] de 21.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/313-1989-547665
+  date: '1989-09-21'
+- type: cites
+  target: pt:dre:240846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 36
+  article_count: 35
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:23Z'
   warnings: []
   errors: []
 ---
@@ -95,35 +127,35 @@ Considerando o disposto nos artigos 4.º, n.º 2, e 38.º do [Decreto-Lei n.º 2
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Da fusão das empresas EDMA - Empresa de Desenvolvimento Mineiro do Alentejo, E. P., e FERROMINAS, E. P., é criada a Empresa de Desenvolvimento Mineiro, E. P., abreviadamente designada por EDM, a qual se rege pela lei aplicável às empresas públicas e pelo estatuto anexo, que faz parte integrante do presente diploma.
+Artigo 1.º - 1 - Da fusão das empresas EDMA - Empresa de Desenvolvimento Mineiro do Alentejo, E. P., e FERROMINAS, E. P., é criada a Empresa de Desenvolvimento Mineiro, E. P., abreviadamente designada por EDM, a qual se rege pela lei aplicável às empresas públicas e pelo estatuto anexo, que faz parte integrante do presente diploma.
 
 2 - A EDM é dotada de autonomia administrativa, financeira e patrimonial, sem prejuízo da tutela a exercer pelo Governo, nos termos da lei geral e do estatuto.
 
-###### Art. 2.º - 1 - É transferida para a EDM a universalidade dos direitos e obrigações das empresas EDMA - Empresa de Desenvolvimento Mineiro do Alentejo E. P., e FERROMINAS, E. P.
+Art. 2.º - 1 - É transferida para a EDM a universalidade dos direitos e obrigações das empresas EDMA - Empresa de Desenvolvimento Mineiro do Alentejo E. P., e FERROMINAS, E. P.
 
 2 - A transmissão referida no número anterior opera-se por virtude do presente decreto-lei, que servirá de título bastante para todos os efeitos legais, incluindo o de registo.
 
-###### Art. 3.º - 1 - Consideram-se extintas as empresas EDMA - Empresa de Desenvolvimento Mineiro do Alentejo, E. P., e FERROMINAS, E. P.
+Art. 3.º - 1 - Consideram-se extintas as empresas EDMA - Empresa de Desenvolvimento Mineiro do Alentejo, E. P., e FERROMINAS, E. P.
 
 2 - Os órgãos sociais em exercício nas empresas fundidas mantêm-se em funções até à nomeação dos órgãos sociais da EDM de harmonia com o estatuto agora aprovado.
 
 3 - Transitam para a EDM, independentemente de quaisquer formalidades, os trabalhadores que à data da fusão se encontrem ao serviço da EDMA - Empresa de Desenvolvimento Mineiro do Alentejo, E. P., e da FERROMINAS, E. P.
 
-###### Art. 4.º Os poderes de tutela do Governo sobre a EDM serão exercidos pelo Ministro da Indústria e Comércio.
+Art. 4.º Os poderes de tutela do Governo sobre a EDM serão exercidos pelo Ministro da Indústria e Comércio.
 
-###### Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins - Luís Fernando Mira Amaral.
 
-**Promulgado em 25 de Maio de 1986.**
+Promulgado em 25 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1986.**
+Referendado em 30 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto da Empresa de Desenvolvimento Mineiro, E. P.
 

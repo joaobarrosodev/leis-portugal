@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 55/1986, 1º Suplemento, Série I de 1986-03-07
   number: '55'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 564-(1) a 564-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05501/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-b-1986-628280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0059cb73426ea9ec40a6fd7dbea1199451d0ab97ad3bc158fd89ea00a9b37073
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbb53b3bf876b673a66f7d8f2d6eeed1c5ab39dbd09a1890f9aa23a696ecdb6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- HORA Legal
 relationships:
 - type: amended_by
   target: pt:dre:621299:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 3 PELO DEC LEI 134/92 DE 02-JUL DR.IS-A [150]\050]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-07-02'
+- type: repealed_by
+  target: pt:dre:621299:por
+  label: "Revogado pelo DEC LEI.17/96.1996.03.08.ME, DR.IS-A [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1996-621299
+  date: '1996-03-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:43Z'
   warnings: []
   errors: []
 ---
@@ -111,30 +122,30 @@ Considerando, finalmente, a Directiva do Conselho das Comunidades Europeias n.º
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º No território da República Portuguesa, a hora legal é definida a partir do tempo universal coordenado (UTC), estabelecido pelo Bureau International de l'Heure.
+Artigo 1.º No território da República Portuguesa, a hora legal é definida a partir do tempo universal coordenado (UTC), estabelecido pelo Bureau International de l'Heure.
 
-###### Art. 2.º - 1 - A hora legal é obtida aumentando ou diminuindo um número inteiro de horas ao tempo universal coordenado.
+Art. 2.º - 1 - A hora legal é obtida aumentando ou diminuindo um número inteiro de horas ao tempo universal coordenado.
 
 2 - Este número será fixado por diploma legal, para cada parte do território da República Portuguesa, em função dos fusos horários, ou tomando em consideração as características peculiares desse território, e pode aumentar ou diminuir durante uma parte do ano.
 
-###### Art. 3.º - 1 - Em conformidade com o disposto nos artigos anteriores, a hora legal de Portugal continental coincide com o tempo universal coordenado no período compreendido entre a 1 hora UTC do último domingo de Setembro e a 1 hora UTC do último domingo de Março seguinte (período de hora de Inverno) e coincide com o tempo universal coordenado, aumentado de 60 minutos, no período compreendido entre a 1 hora UTC do último domingo de Março e a 1 hora UTC do último domingo de Setembro seguinte (período de hora de Verão).
+Art. 3.º - 1 - Em conformidade com o disposto nos artigos anteriores, a hora legal de Portugal continental coincide com o tempo universal coordenado no período compreendido entre a 1 hora UTC do último domingo de Setembro e a 1 hora UTC do último domingo de Março seguinte (período de hora de Inverno) e coincide com o tempo universal coordenado, aumentado de 60 minutos, no período compreendido entre a 1 hora UTC do último domingo de Março e a 1 hora UTC do último domingo de Setembro seguinte (período de hora de Verão).
 
 2 - As mudanças de hora efectuar-se-ão adiantando os relógios de 60 minutos à 1 hora UTC (à 1 hora de tempo legal) do último domingo de Março e atrasando-os de 60 minutos à 1 hora UTC (às 2 horas de tempo legal) do último domingo de Setembro seguinte.
 
-###### Art. 4.º A hora legal nas Regiões Autónomas dos Açores e da Madeira será fixada por diplomas legais a publicar pelas Assembleias Regionais.
+Art. 4.º A hora legal nas Regiões Autónomas dos Açores e da Madeira será fixada por diplomas legais a publicar pelas Assembleias Regionais.
 
-###### Art. 5.º Após a publicação deste diploma legal, os textos regulamentares ou informativos e todos os outros documentos administrativos não deverão fazer referência ao tempo médio de Greenwich (GMT ou TMG).
+Art. 5.º Após a publicação deste diploma legal, os textos regulamentares ou informativos e todos os outros documentos administrativos não deverão fazer referência ao tempo médio de Greenwich (GMT ou TMG).
 
-###### Art. 6.º É revogado o Decreto-Lei n.º 309/76, de 27 de Abril.
+Art. 6.º É revogado o Decreto-Lei n.º 309/76, de 27 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 7 de Março de 1986.**
+Promulgado em 7 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1986.**
+Referendado em 7 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1985-178354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39b7a26e14d1c7e168e8bef3c99933b38476294f720ee4f20f70b9d62a47903b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27be5a2bb26364871e0bab42586e5870266df5fb90fcce4307ab23606c04faef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral das Alfândegas
+- Orgânica
+- Reforma Aduaneira
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:26Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +98,9 @@ Considerando que para o efeito se torna necessário harmonizar a legislação na
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 112.º, 113.º, 128.º, 129.º, 134.º, 136.º, 139.º, 140.º, 141.º, 142.º, 146.º, 147.º, 148.º, 149.º e 151.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 112.º, 113.º, 128.º, 129.º, 134.º, 136.º, 139.º, 140.º, 141.º, 142.º, 146.º, 147.º, 148.º, 149.º e 151.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 112.º ...
+Art. 112.º ...
 
 § único. As disposições deste artigo não se opõem à aplicação:
 
@@ -101,31 +108,31 @@ a) De proibições ou restrições justificadas por razões de moralidade, de or
 
 b) De proibições ou restrições justificadas por razões atinentes às características das instalações de armazenagem ou à natureza ou ao estado das mercadorias.
 
-###### Art. 113.º Os depósitos de regime aduaneiro compreendem os depósitos reais, alfandegados, afiançados, de trânsito, de baldeação e especiais.
+Art. 113.º Os depósitos de regime aduaneiro compreendem os depósitos reais, alfandegados, afiançados, de trânsito, de baldeação e especiais.
 
-###### Art. 128.º ...
+Art. 128.º ...
 
 § único. O funcionamento de depósitos afiançados para peças sobresselentes de navios e aeronaves e material para a sua reparação e conserto, destinados a reexportação, será regulado em legislação especial.
 
-###### Art. 129.º O prazo de armazenagem nos depósitos alfandegados e afiançados é de 5 anos, levando-se em conta a armazenagem que as mercadorias hajam tido em quaisquer depósitos de regime aduaneiro.
+Art. 129.º O prazo de armazenagem nos depósitos alfandegados e afiançados é de 5 anos, levando-se em conta a armazenagem que as mercadorias hajam tido em quaisquer depósitos de regime aduaneiro.
 
-###### Art. 134.º Os depósitos de trânsito serão constituídos em armazéns pertencentes a corporações, associações, empresas ou explorações especiais, com autorização do Governo, mediante prévia caução ou fiança, e destinam-se a mercadorias procedentes de países estrangeiros que venham declaradas para trânsito.
+Art. 134.º Os depósitos de trânsito serão constituídos em armazéns pertencentes a corporações, associações, empresas ou explorações especiais, com autorização do Governo, mediante prévia caução ou fiança, e destinam-se a mercadorias procedentes de países estrangeiros que venham declaradas para trânsito.
 
 § 1.º ...
 
 § 2.º Findo o prazo máximo de armazenagem, serão as mercadorias removidas para depósito geral franco.
 
-###### Art. 136.º ...
+Art. 136.º ...
 
 § único. As mercadorias recebidas nas condições deste artigo têm o prazo de armazenagem própria nos depósitos em que foram recebidas, conservando, todavia, o regime de trânsito apenas durante o prazo a que se refere o § 1.º do artigo 114.º-C.
 
-###### Art. 139.º Na falta de depósitos estabelecidos nos termos do artigo 137.º, podem as mercadorias em baldeação ser recebidas em depósitos reais, terminais TIR ou aeroportuários ou depósitos gerais francos, nas condições preceituadas no corpo do artigo 136.º, sendo neste caso aplicável o § único do mesmo artigo.
+Art. 139.º Na falta de depósitos estabelecidos nos termos do artigo 137.º, podem as mercadorias em baldeação ser recebidas em depósitos reais, terminais TIR ou aeroportuários ou depósitos gerais francos, nas condições preceituadas no corpo do artigo 136.º, sendo neste caso aplicável o § único do mesmo artigo.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 140.º ...
+Art. 140.º ...
 
 § 1.º ...
 
@@ -143,7 +150,7 @@ b) De proibições ou restrições justificadas por razões atinentes às caract
 
 § 2.º Aos depósitos especiais de caminho de ferro é aplicável o disposto no § único do artigo 116.º
 
-###### Art. 141.º ...
+Art. 141.º ...
 
 § 1...
 
@@ -153,11 +160,11 @@ b) De proibições ou restrições justificadas por razões atinentes às caract
 
 § 4.º O prazo de armazenagem nos depósitos do Arsenal da Marinha ou da Aeronáutica Militar é de 5 anos.
 
-###### Art. 142.º O prazo de armazenagem nos depósitos a que se referem os n.os 1.º, 5.º e 6.º do § 1.º, do artigo 140.º é de 5 anos.
+Art. 142.º O prazo de armazenagem nos depósitos a que se referem os n.os 1.º, 5.º e 6.º do § 1.º, do artigo 140.º é de 5 anos.
 
 § único. Os depósitos e terminais mencionados nos n.os 3.º, 4.º, 5.º e 6.º do § 1.º do artigo 140.º regular-se-ão nos termos da respectiva legislação especial.
 
-###### Art. 146.º ...
+Art. 146.º ...
 
 § 1.º Poderão igualmente ser recebidas nestes depósitos mercadorias nacionais ou nacionalizadas, não sujeitas a direitos, tomando-se as devidas cautelas de modo que não se confundam com as mencionadas no corpo deste artigo, devendo a sua arrumação fazer-se em depósito separado, sem embargo de poderem ser utilizadas nas manipulação referidas no artigo 114.º-D.
 
@@ -169,13 +176,13 @@ b) De proibições ou restrições justificadas por razões atinentes às caract
 
 § 5.º ...
 
-###### Art. 147.º As manipulações usuais referidas no artigo 114.º-D constarão sempre do boletim do depósito geral franco.
+Art. 147.º As manipulações usuais referidas no artigo 114.º-D constarão sempre do boletim do depósito geral franco.
 
-###### Art. 148.º O prazo de armazenagem nos depósitos gerais francos é de 5 anos.
+Art. 148.º O prazo de armazenagem nos depósitos gerais francos é de 5 anos.
 
-###### Art. 149.º A saída das mercadorias destes depósitos efectuar-se-á mediante boletins passados pelas administrações, que servirão de título de propriedade, e dos quais constarão contramarca, data de entrada, marcas, números, quantidade e qualidade dos volumes, pesos e valor, natureza das mercadorias, procedência e origem e nome do importador, conforme o que contiverem os títulos de propriedade legalizados pelas administrações portuárias ou pelas alfândegas, consoante os casos, e arquivados pelas referidas administrações quando findos, bem como as manipulações usuais referidas no artigo 147.º e as demais indicações constantes dos mesmos títulos de propriedade.
+Art. 149.º A saída das mercadorias destes depósitos efectuar-se-á mediante boletins passados pelas administrações, que servirão de título de propriedade, e dos quais constarão contramarca, data de entrada, marcas, números, quantidade e qualidade dos volumes, pesos e valor, natureza das mercadorias, procedência e origem e nome do importador, conforme o que contiverem os títulos de propriedade legalizados pelas administrações portuárias ou pelas alfândegas, consoante os casos, e arquivados pelas referidas administrações quando findos, bem como as manipulações usuais referidas no artigo 147.º e as demais indicações constantes dos mesmos títulos de propriedade.
 
-###### Art. 151.º ...
+Art. 151.º ...
 
 § 1.º O prazo de armazenagem nos depósitos francos é de 5 anos.
 
@@ -183,21 +190,21 @@ b) De proibições ou restrições justificadas por razões atinentes às caract
 
 § 3.º Sem embargo do disposto no corpo deste artigo, aos depósitos francos e às zonas francas poderá ser aplicável o disposto no artigo antecedente.
 
-###### Art. 2.º São revogados o § único do artigo 115.º e os artigos 119.º e 130.º da Reforma Aduaneira.
+Art. 2.º São revogados o § único do artigo 115.º e os artigos 119.º e 130.º da Reforma Aduaneira.
 
-###### Art. 3.º São aditados à Reforma Aduaneira os artigos 114.º-A, 114.º-B, 114.º-C, 114.º-D, 114.º-E, 114.º-F, 155.º-A e 155.º-B:
+Art. 3.º São aditados à Reforma Aduaneira os artigos 114.º-A, 114.º-B, 114.º-C, 114.º-D, 114.º-E, 114.º-F, 155.º-A e 155.º-B:
 
-###### Art. 114.º-A. As mercadorias que se apresentem em falta por perdas ocorridas durante o período de permanência em depósitos de regime aduaneiro ou livre não devem direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas quando se prove, em processo devidamente organizado e documentado, que tais perdas foram devidas a caso fortuito ou de força maior ou a causas inerentes à própria natureza das mercadorias.
+Art. 114.º-A. As mercadorias que se apresentem em falta por perdas ocorridas durante o período de permanência em depósitos de regime aduaneiro ou livre não devem direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas quando se prove, em processo devidamente organizado e documentado, que tais perdas foram devidas a caso fortuito ou de força maior ou a causas inerentes à própria natureza das mercadorias.
 
 § 1.º As mercadorias avariadas durante a sua permanência em depósito podem ser destruídas sob controle aduaneiro, não dando lugar à cobrança de direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas.
 
 § 2.º Os resíduos e destroços resultantes da destruição referida no § 1.º darão lugar, como tal, quando introduzidos no consumo, à cobrança de direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas, em conformidade com o disposto no artigo 114.º-E.
 
-###### Art. 114.º-B. No caso de remoção irregular de mercadorias de depósitos de regime aduaneiro ou livre, os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas serão cobrados sobre as mercadorias removidas em função das taxas em vigor na data da remoção e de harmonia com as disposições do artigo 114.º-E.
+Art. 114.º-B. No caso de remoção irregular de mercadorias de depósitos de regime aduaneiro ou livre, os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas serão cobrados sobre as mercadorias removidas em função das taxas em vigor na data da remoção e de harmonia com as disposições do artigo 114.º-E.
 
 § único. Se a data da remoção não puder ser determinada, aplicar-se-ão os direitos mais elevados que tenham estado em vigor desde o dia da entrada em armazém, ou, eventualmente, desde o dia do último controle, até ao dia em que a falta tiver sido constatada.
 
-###### Art. 114.º-C. As mercadorias armazenadas em depósitos reais, de trânsito, de baldeação e nos especiais mencionados nos n.os 3.º e 4.º do § 1.º do artigo 140.º só poderão ser objecto de manipulações usuais desde que estas se destinem a assegurar a sua conservação e mediante autorização do director da alfândega respectiva.
+Art. 114.º-C. As mercadorias armazenadas em depósitos reais, de trânsito, de baldeação e nos especiais mencionados nos n.os 3.º e 4.º do § 1.º do artigo 140.º só poderão ser objecto de manipulações usuais desde que estas se destinem a assegurar a sua conservação e mediante autorização do director da alfândega respectiva.
 
 § 1.º O prazo de armazenagem nos depósitos referidos no corpo do presente artigo será de 45 dias para mercadorias que cheguem ao País pela via marítima e de 15 dias para as que venham por qualquer outra via.
 
@@ -207,7 +214,7 @@ b) De proibições ou restrições justificadas por razões atinentes às caract
 
 § 4.º Quando terminarem os prazos referidos nos §§ 1.º e 3.º e não tenha sido atribuído às mercadorias em causa um regime aduaneiro ou não tenham sido reexpedidas, darão as mesmas entrada em depósito geral franco, salvo se se tratar de mercadorias vindas por via postal consideradas em refugo que importe o abandono.
 
-###### Art. 114.º-D. As mercadorias armazenadas em depósitos alfandegados, afiançados, especiais mencionados nos n.os 1.º, 2.º, 5.º e 6.º do § 1.º do artigo 140.º e nos de regime livre poderão ser objecto, nas condições estabelecidas pelas direcções das alfândegas, de manipulações usuais destinadas a assegurar a sua conservação ou a melhorar a sua apresentação ou qualidade comercial.
+Art. 114.º-D. As mercadorias armazenadas em depósitos alfandegados, afiançados, especiais mencionados nos n.os 1.º, 2.º, 5.º e 6.º do § 1.º do artigo 140.º e nos de regime livre poderão ser objecto, nas condições estabelecidas pelas direcções das alfândegas, de manipulações usuais destinadas a assegurar a sua conservação ou a melhorar a sua apresentação ou qualidade comercial.
 
 § 1.º A lista das manipulações usuais a que se refere o corpo deste artigo será publicada por portaria do Ministro das Finanças e do Plano.
 
@@ -221,11 +228,11 @@ b) De proibições ou restrições justificadas por razões atinentes às caract
 
 § 6.º Para efeito da aplicação do disposto no § 5.º, a natureza, o valor aduaneiro e a quantidade das mercadorias a ter em conta serão, a pedido do declarante, os das mercadorias no estado em que se encontravam antes de serem submetidas às referidas manipulações.
 
-###### Art. 114.º-E. Quando as mercadorias armazenadas em depósito de regime aduaneiro ou livre forem introduzidas no consumo, os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas exigíveis na importação serão cobrados em função das taxas em vigor na data da sua saída do depósito respectivo, consoante a sua natureza e tomando por base o valor aduaneiro e a quantidade reconhecidos ou aceites para esse fim pelos serviço aduaneiros.
+Art. 114.º-E. Quando as mercadorias armazenadas em depósito de regime aduaneiro ou livre forem introduzidas no consumo, os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas exigíveis na importação serão cobrados em função das taxas em vigor na data da sua saída do depósito respectivo, consoante a sua natureza e tomando por base o valor aduaneiro e a quantidade reconhecidos ou aceites para esse fim pelos serviço aduaneiros.
 
-###### Art. 114.º-F. As mercadorias armazenadas em depósitos de regime aduaneiro ou livre podem ser objecto de cessão nos termos da legislação nacional sobre a matéria.
+Art. 114.º-F. As mercadorias armazenadas em depósitos de regime aduaneiro ou livre podem ser objecto de cessão nos termos da legislação nacional sobre a matéria.
 
-###### Art. 155.º-A. O depositante ou depositário é obrigado:
+Art. 155.º-A. O depositante ou depositário é obrigado:
 
 a) A proceder em conformidade com todas as obrigações adoptadas em matéria de depósitos e a aplicar todas as instruções dadas pelas alfândegas;
 
@@ -237,24 +244,24 @@ d) A manter uma contabilidade de existências para uso do serviço aduaneiro;
 
 e) A dar conhecimento ao serviço aduaneiro competente de todas as circunstâncias que hajam modificado, ou que possam vir a modificar, o estado das mercadorias existentes em depósito.
 
-###### Art. 155.º-B. O director-geral das Alfândegas poderá, relativamente aos depósitos mencionados nos artigos 129.º, 141.º, § 4.º, 142.º, 148.º e 151.º, § 1.º:
+Art. 155.º-B. O director-geral das Alfândegas poderá, relativamente aos depósitos mencionados nos artigos 129.º, 141.º, § 4.º, 142.º, 148.º e 151.º, § 1.º:
 
 a) Prorrogar ou reduzir o prazo de armazenagem por motivos atinentes à natureza das mercadorias;
 
 b) Reduzir o prazo de armazenagem por motivos atinentes ao tipo de depósito.
 
-###### Art. 4.º Fica revogada toda a legislação em contrário.
+Art. 4.º Fica revogada toda a legislação em contrário.
 
-###### Art. 5.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1986.
+Art. 5.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barroso Pereira Dias.
 
-**Promulgado em 16 de Setembro, de 1985.**
+Promulgado em 16 de Setembro, de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Setembro de 1985.**
+Referendado em 18 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

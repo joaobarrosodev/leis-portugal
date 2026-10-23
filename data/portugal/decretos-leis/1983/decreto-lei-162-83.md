@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09300/14311433.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1983-311832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8f2385b3d3037698b3e627e31e3f7075507a6b5bc6e486892ca9a7f29a74226
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 994ab3819a9a112fce970432e4da5dddaae6a915eba8554469279452d620fae2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Liquidatária
+- Conselho da Revolução
+- Presidência do Conselho de Ministros
+- Serviços de Apoio ao Conselho da Revolução
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392870:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423438:por
+  label: Rectificado pela DECL.DD5951.03.05.1983.PCM, DR.IS [125-Supl] de 31.05.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-423438
+  date: '1983-05-03'
+- type: repealed_by
+  target: pt:dre:216106:por
+  label: "Revogado o nº 1 do art. 6º, pelo DEC LEI.247/92.1992.11.07.MF, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1992-216106
+  date: '1992-11-07'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:11Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +132,7 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Extinção de órgãos e serviços do Conselho da Revolução)
 
@@ -111,7 +142,7 @@ a) A Comissão Consultiva do Conselho da Revolução (CCCR), criada pelo [Decret
 
 b) Os Serviços de Apoio do Conselho da Revolução (SACR), criados pelo [Decreto-Lei n.º 246-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514), de 21 de Maio, a partir da entrada em vigor do presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Transição de competências)
 
@@ -127,7 +158,7 @@ c) Assegurar a gestão da Comissão Constitucional.
 
 3 - As competências administrativas e Financeiras, atribuídas ao presidente dos SACR pelos Decretos-Leis n.os [246-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514), de 21 de Maio, e 654-A/76, de 31 de Julho, transitam para o presidente da Comissão Liquidatária.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Constituição da Comissão)
 
@@ -149,19 +180,19 @@ Chefe dos serviços de contabilidade.
 
 4 - O desempenho de funções, na Comissão, por militares será feito em comissão normal de serviço, obtida a autorização dos respectivos chefes de estado-maior.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Regime de substituição)
 
-**O presidente da Comissão é substituído nas suas faltas ou impedimentos pelo oficial de maior patente e antiguidade de funções ou, em caso de igualdade, pelo de maior permanência nos SACR.**
+O presidente da Comissão é substituído nas suas faltas ou impedimentos pelo oficial de maior patente e antiguidade de funções ou, em caso de igualdade, pelo de maior permanência nos SACR.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Constituição de excedentes)
 
 Adquire a qualidade de excedente o pessoal civil da CCCR e dos SACR que reúna os requisitos estabelecidos no artigo 4.º do [Decreto-Lei n.º 167/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1982-392870), de 10 de Maio.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Quadro de efectivos interdepartamentais)
 
@@ -169,7 +200,7 @@ Adquire a qualidade de excedente o pessoal civil da CCCR e dos SACR que reúna o
 
 2 - Consideram-se integrados nesse QEI os funcionários e agentes constituídos em excedentes de pessoal nos termos do artigo precedente, sem prejuízo das situações de destacamento e requisição em que se encontrem à data da publicação deste diploma.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Formalidades a observar)
 
@@ -187,7 +218,7 @@ a) O nome, vínculo, categoria e letra de vencimento dos funcionários e agentes
 
 b) A data a partir da qual se considera adquirida essa qualidade e a correspondente integração no QEI.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Vínculo e categoria a respeitar)
 
@@ -195,7 +226,7 @@ b) A data a partir da qual se considera adquirida essa qualidade e a corresponde
 
 2 - Para efeitos do disposto no número anterior, não serão consideradas as categorias correspondentes a cargos exercidos a título precário, designadamente em regime de comissão de serviço, interinidade e substituição.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Órgãos competentes relativamente à gestão de excedentes)
 
@@ -205,7 +236,7 @@ a) A Secretaria-Geral da Presidência do Conselho de Ministros, no tocante à re
 
 b) A Direcção-Geral de Emprego e Formação da Administração Pública, do Ministério da Reforma Administrativa, relativamente à actividade de recolocação dos excedentes.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Regime geral de pessoal)
 
@@ -215,7 +246,7 @@ a) No tocante a direitos, deveres e incompatibilidades, ao regime consignado nos
 
 b) Relativamente à sua situação funcional, ao regime estabelecido nos artigos 10.º a 13.º do mesmo diploma.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Providências orçamentais)
 
@@ -225,7 +256,7 @@ a) Para satisfação de encargos resultantes da actividade da Comissão;
 
 b) Para pagamento das remunerações do pessoal a integrar no QEI, a que se refere o artigo 6.º
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Entrada em vigor)
 
@@ -233,15 +264,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - Diogo Pinto de Freitas do Amaral - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 13 de Abril de 1983.**
+Promulgado em 13 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Abril de 1983.**
+Referendado em 14 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Relação de pessoal da Comissão Liquidatária, a que se refere o n.º 2 do artigo 3.º
 
@@ -279,4 +310,4 @@ Contínuo ... 2
 
 Servente ... 1
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro da Defesa Nacional, Diogo Pinto de Freitas do Amaral. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro da Defesa Nacional, Diogo Pinto de Freitas do Amaral. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

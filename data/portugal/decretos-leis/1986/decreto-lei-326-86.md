@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1986-221694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c87c6e74924c37b978776836388e900c11584d08cb0d031cdf5bfdbec2d1e49b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f4bab60e3959f413481949308b0124595b5d7b3c0f4ccf83d5edb38fb14c2fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exame Médico
+- Exame Médico-forense
+- Instituto de Medicina Legal
 relationships:
 - type: amended_by
   target: pt:dre:518864:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518864:por
+  label: "Alterado o nº2 do art. 3º e revogado o nº3 do mesmo art. 3º do presente diploma, pelo DEC LEI.50/2007.28.02.2007.MS,\
+    \ DR.IS [42] de 28.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-2007-518864
+  date: '2007-02-28'
+- type: repealed_by
+  target: pt:dre:670073:por
+  label: "Revogado o n.º 1 do artigo 1.º pelo DEC LEI.387-C/87.29.12.1987.MJ, DR.IS [298]Supl de 29.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-c-1987-670073
+  date: '1987-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:40Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +124,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os exames médico-legais do foro psiquiátrico a que houver de proceder-se nos termos da lei do processo penal deverão ser solicitados ao instituto de medicina legal da circunscrição médico-legal respectiva, que os distribuirá pelos diversos serviços, aos quais cabe, de acordo com a legislação em vigor, a realização destes exames.
+Artigo 1.º Os exames médico-legais do foro psiquiátrico a que houver de proceder-se nos termos da lei do processo penal deverão ser solicitados ao instituto de medicina legal da circunscrição médico-legal respectiva, que os distribuirá pelos diversos serviços, aos quais cabe, de acordo com a legislação em vigor, a realização destes exames.
 
-###### Art. 2.º - 1 - Sem prejuízo do disposto na legislação em vigor, as entidades requisitantes de exames periciais de psiquiatria forense deverão:
+Art. 2.º - 1 - Sem prejuízo do disposto na legislação em vigor, as entidades requisitantes de exames periciais de psiquiatria forense deverão:
 
 a) Fazer constar do pedido dirigido ao instituto de medicina legal competente a requisição formal da realização do exame pericial;
 
@@ -126,7 +140,7 @@ e) Remeter à instituição psiquiátrica à qual foi distribuído o pedido do e
 
 2 - As autoridades requisitantes e os institutos de medicina legal poderão, quando o julguem conveniente, contactar directamente o perito ou peritos designados, bem como a respectiva instituição psiquiátrica a cujo quadro aquele ou aqueles pertençam.
 
-###### Art. 3.º - 1 - Aos institutos de medicina legal cabe, no âmbito da competência prevista no presente decreto-lei:
+Art. 3.º - 1 - Aos institutos de medicina legal cabe, no âmbito da competência prevista no presente decreto-lei:
 
 a) Manter actualizado o mapa dos efectivos relativamente aos especialistas de psiquiatria das instituições psiquiátricas da respectiva circunscrição médico-legal;
 
@@ -140,7 +154,7 @@ d) Elaborar a estatística anual dos exames realizados pelas instituições psiq
 
 3 - O critério constante do número anterior deve entender-se sem prejuízo do consignado na lei relativamente ao dever geral de colaboração com a justiça e salvaguarda, igualmente, da autonomia interna de cada instituição psiquiátrica.
 
-###### Art. 4.º - 1 - Compete às instituições psiquiátricas:
+Art. 4.º - 1 - Compete às instituições psiquiátricas:
 
 a) Remeter ao instituto de medicina legal da respectiva circunscrição, até 15 de Novembro de cada ano, o quadro ou mapa actualizado dos psiquiatras que nelas prestam serviço para vigorar no ano imediato, sem prejuízo de um eventual ajustamento ulterior, caso se venha a verificar, entretanto, alteração dos mesmos;
 
@@ -156,18 +170,18 @@ d) Remeter o relatório do exame pericial, dentro dos prazos fixados na lei, à 
 
 4 - O perito ou peritos a quem o exame se encontrar distribuído providenciarão no sentido de informar no prazo previsto a entidade requisitante de qualquer dificuldade relacionada com a realização dos exames solicitados.
 
-###### Art. 5.º A repartição dos custos decorrentes da realização dos exames periciais a que se refere o presente decreto-lei deverá ser objecto de regulamentação conjunta entre os Ministérios da Justiça, da Educação e Cultura e da Saúde, visando a sua distribuição equitativa.
+Art. 5.º A repartição dos custos decorrentes da realização dos exames periciais a que se refere o presente decreto-lei deverá ser objecto de regulamentação conjunta entre os Ministérios da Justiça, da Educação e Cultura e da Saúde, visando a sua distribuição equitativa.
 
-###### Art. 6.º Durante o corrente ano caberá à Direcção dos Serviços de Saúde Mental, da Direcção-Geral dos Cuidados de Saúde Primários, do Ministério da Saúde, facultar aos institutos de medicina legal o quadro ou mapa dos psiquiatras afectos às instituições psiquiátricas da respectiva circunscrição médico-legal e demais elementos indispensáveis ao cabal desempenho das funções de coordenação decorrentes do presente decreto-lei.
+Art. 6.º Durante o corrente ano caberá à Direcção dos Serviços de Saúde Mental, da Direcção-Geral dos Cuidados de Saúde Primários, do Ministério da Saúde, facultar aos institutos de medicina legal o quadro ou mapa dos psiquiatras afectos às instituições psiquiátricas da respectiva circunscrição médico-legal e demais elementos indispensáveis ao cabal desempenho das funções de coordenação decorrentes do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Mário Ferreira Bastos Raposo - João de Deus Rogado Salvador Pinheiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 11 de Setembro de 1986.**
+Promulgado em 11 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

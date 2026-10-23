@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1985-179046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3b34e9f4e93a9f177ad95a04f924129d86c3e96273b6278e1f03d64010eaecb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0bf52bf533efad3184acdc64b2a8af46ffe4d665409e6ca395e338372aa65f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centenário do Descobrimento da América
+- Comemoração
+- Comissão
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:50Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +93,7 @@ Se o curso da História e os contactos entre as civilizações das duas margens 
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada a Comissão Nacional para as Comemorações do V Centenário do Descobrimento da América, a qual tem por atribuições a preparação, organização e coordenação, a nível interno ou internacional, das actividades comemorativas dessa efeméride.
+Artigo 1.º - 1 - É criada a Comissão Nacional para as Comemorações do V Centenário do Descobrimento da América, a qual tem por atribuições a preparação, organização e coordenação, a nível interno ou internacional, das actividades comemorativas dessa efeméride.
 
 2 - A Comissão é constituída pelo Ministro dos Negócios Estrangeiros, que assegurará a coordenação dos seus trabalhos, pelo Ministro da Educação, pelo Ministro da Cultura e pelas seguintes individualidades:
 
@@ -114,7 +117,7 @@ b) Aprovar o relatório anual das actividades do secretariado executivo;
 
 c) Designar os vogais do secretariado executivo.
 
-###### Art. 2.º - 1 - Para coadjuvar a Comissão no desempenho das suas atribuições, é criado um secretariado executivo, composto pelo secretário executivo, por 5 vogais designados pela Comissão e por 1 representante do Ministério das Finanças e do Plano.
+Art. 2.º - 1 - Para coadjuvar a Comissão no desempenho das suas atribuições, é criado um secretariado executivo, composto pelo secretário executivo, por 5 vogais designados pela Comissão e por 1 representante do Ministério das Finanças e do Plano.
 
 2 - O cargo de secretário executivo é exercido pelo director-geral das Relações Culturais Externas do Ministério dos Negócios Estrangeiros.
 
@@ -132,11 +135,11 @@ e) Celebrar contratos de prestação de serviços com entidades ou individualida
 
 f) Celebrar contratos a prazo com pessoal para a execução de tarefas administrativas, quando os serviços do Ministério dos Negócios Estrangeiros não possam prestar o apoio previsto no artigo 4.º, sem que o referido pessoal adquira qualquer vínculo à função pública.
 
-###### Art. 3.º Os membros do secretariado executivo têm direito a uma gratificação a fixar por despacho conjunto dos Ministros das Finanças e do Plano e dos Negócios Estrangeiros.
+Art. 3.º Os membros do secretariado executivo têm direito a uma gratificação a fixar por despacho conjunto dos Ministros das Finanças e do Plano e dos Negócios Estrangeiros.
 
-###### Art. 4.º O apoio administrativo à Comissão e ao secretariado executivo será prestado pelos serviços do Ministério dos Negócios Estrangeiros.
+Art. 4.º O apoio administrativo à Comissão e ao secretariado executivo será prestado pelos serviços do Ministério dos Negócios Estrangeiros.
 
-###### Art. 5.º - 1 - As despesas resultantes da execução do presente diploma serão satisfeitas por conta de dotações apropriadas a inscrever anualmente no orçamento do Ministério dos Negócios Estrangeiros.
+Art. 5.º - 1 - As despesas resultantes da execução do presente diploma serão satisfeitas por conta de dotações apropriadas a inscrever anualmente no orçamento do Ministério dos Negócios Estrangeiros.
 
 2 - A dotação referida no número anterior será movimentada mediante requisições de fundos a enviar à 7.ª Delegação da Direcção-Geral da Contabilidade Pública e assinadas pelo secretário executivo e pelo representante do Ministério das Finanças e do Plano.
 
@@ -148,12 +151,12 @@ f) Celebrar contratos a prazo com pessoal para a execução de tarefas administr
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - António Antero Coimbra Martins.
 
-**Promulgado em 28 de Agosto de 1985.**
+Promulgado em 28 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Agosto de 1985.**
+Referendado em 30 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

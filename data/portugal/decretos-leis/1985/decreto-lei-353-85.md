@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1985-181070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdee4e07173083211a7fed4fa268344195014037446b9a202b9d66e0bfabcaca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e907c79fde851343ac8d87e302a4725cfbadd44d874fcdc4bd30560ae471a51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Português em ROMA
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:41Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +109,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - É criado o Instituto Português em Roma (IPR), organismo dotado de personalidade jurídica e autonomia administrativa com sede naquela cidade.
+Artigo 1.º - 1 - É criado o Instituto Português em Roma (IPR), organismo dotado de personalidade jurídica e autonomia administrativa com sede naquela cidade.
 
 2 - O IPR depende do Ministério dos Negócios Estrangeiros, sem prejuízo das necessárias articulações com os Ministérios da Educação e da Cultura, nomeadamente as consagradas no presente diploma.
 
-###### Art. 2.º O IPR tem por fim contribuir para a divulgação da cultura portuguesa em Itália, para o exercício de actividades pedagógicas e para o desenvolvimento da cooperação científica.
+Art. 2.º O IPR tem por fim contribuir para a divulgação da cultura portuguesa em Itália, para o exercício de actividades pedagógicas e para o desenvolvimento da cooperação científica.
 
-###### Art. 3.º - 1 - Para prossecução dos seus fins, compete designadamente ao IPR:
+Art. 3.º - 1 - Para prossecução dos seus fins, compete designadamente ao IPR:
 
 a) Fomentar as actividades de divulgação cultural, nomeadamente a realização de exposições, espectáculos, simpósios e conferências, a eventual elaboração de publicações e o apoio a bibliotecas portuguesas e a núcleos de informação e divulgação da cultura portuguesa;
 
@@ -121,7 +127,7 @@ d) Desenvolver as relações científicas com a Itália, nomeadamente apoiando a
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
-###### Art. 4.º São órgãos do IPR:
+Art. 4.º São órgãos do IPR:
 
 a) O director;
 
@@ -129,7 +135,7 @@ b) O conselho fiscal;
 
 c) O conselho administrativo.
 
-###### Art. 5.º - 1 - Incumbe ao director:
+Art. 5.º - 1 - Incumbe ao director:
 
 a) Elaborar os projectos do plano de actividade e relatório anuais e submetê-los à aprovação do conselho geral;
 
@@ -149,7 +155,7 @@ g) Representar o IPR em juízo e fora dele.
 
 3 - Em caso de ausência ou de impedimento temporário, será substituído pelo secretário, que assegurará o expediente e a gestão corrente.
 
-###### Art. 6.º - 1 - O conselho geral é constituído por:
+Art. 6.º - 1 - O conselho geral é constituído por:
 
 a) O director do IPR;
 
@@ -173,7 +179,7 @@ c) Aprovar as propostas apresentadas, obtido o parecer favorável dos representa
 
 5 - As reuniões terão lugar normalmente em Lisboa e serão convocadas pelo presidente do conselho geral em exercício.
 
-###### Art. 7.º - 1 - O conselho administrativo, órgão de gestão financeira e patrimonial, é constituído pelo director do Instituto, que preside, pelo secretário e pelo tesoureiro.
+Art. 7.º - 1 - O conselho administrativo, órgão de gestão financeira e patrimonial, é constituído pelo director do Instituto, que preside, pelo secretário e pelo tesoureiro.
 
 2 - Ao conselho administrativo compete:
 
@@ -193,15 +199,15 @@ f) Elaborar e publicar o relatório anual do conselho administrativo.
 
 4 - De cada reunião será elaborada acta, que deve ser assinada por todos os membros presentes.
 
-###### Art. 8.º O IPR dispõe de uma secretaria para assegurar a execução das actividades relativas à administração geral, financeira, patrimonial e do seu pessoal.
+Art. 8.º O IPR dispõe de uma secretaria para assegurar a execução das actividades relativas à administração geral, financeira, patrimonial e do seu pessoal.
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 9.º A gestão patrimonial abrangerá os bens móveis e imóveis que o Estado Português venha a adquirir para a prossecução dos fins e atribuições do Instituto, bem como aqueles que o Estado Italiano coloque à sua disposição.
+Art. 9.º A gestão patrimonial abrangerá os bens móveis e imóveis que o Estado Português venha a adquirir para a prossecução dos fins e atribuições do Instituto, bem como aqueles que o Estado Italiano coloque à sua disposição.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 10.º - 1 - O Instituto disporá do pessoal constante dos quadros anexos ao presente diploma.
+Art. 10.º - 1 - O Instituto disporá do pessoal constante dos quadros anexos ao presente diploma.
 
 2 - Sem prejuízo do disposto no artigo seguinte, o pessoal do quadro I fica sujeito ao regime geral da função pública.
 
@@ -209,7 +215,7 @@ f) Elaborar e publicar o relatório anual do conselho administrativo.
 
 4 - O IPR disporá do pessoal docente necessário à sua actividade, o qual poderá ser colocado pelo Ministério da Educação em regime equiparado ao de leitor ou contratado localmente.
 
-###### Art. 11.º - 1 - O director do IPR será nomeado, em comissão de serviço, por um período de 3 anos, por despacho conjunto dos Ministros dos Negócios Estrangeiros, da Educação e da Cultura, de entre indivíduos licenciados de reconhecida competência e mérito cultural.
+Art. 11.º - 1 - O director do IPR será nomeado, em comissão de serviço, por um período de 3 anos, por despacho conjunto dos Ministros dos Negócios Estrangeiros, da Educação e da Cultura, de entre indivíduos licenciados de reconhecida competência e mérito cultural.
 
 2 - Excepcionalmente, a nomeação poderá recair em indivíduos não licenciados, desde que:
 
@@ -219,19 +225,19 @@ b) O despacho de nomeação seja acompanhado, para publicação, do respectivo c
 
 3 - O director do Instituto é equiparado a director de serviços, sendo-lhe aplicável o regime previsto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, em tudo o que não contrariar o presente diploma.
 
-###### Art. 12.º O secretário do Instituto será provido de entre indivíduos habilitados com curso superior adequado.
+Art. 12.º O secretário do Instituto será provido de entre indivíduos habilitados com curso superior adequado.
 
-###### Art. 13.º O recrutamento dos escriturários-dactilógrafos, bem como o desenvolvimento na respectiva carreira, rege-se pelo disposto na lei geral.
+Art. 13.º O recrutamento dos escriturários-dactilógrafos, bem como o desenvolvimento na respectiva carreira, rege-se pelo disposto na lei geral.
 
-###### Art. 14.º O recrutamento dos tesoureiros, bem como o desenvolvimento na respectiva carreira, rege-se pelo disposto na lei geral.
+Art. 14.º O recrutamento dos tesoureiros, bem como o desenvolvimento na respectiva carreira, rege-se pelo disposto na lei geral.
 
-###### Art. 15.º - 1 - A carreira de técnico auxiliar desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras J, L e M.
+Art. 15.º - 1 - A carreira de técnico auxiliar desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras J, L e M.
 
 2 - Os lugares de técnico auxiliar principal e técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe com 3 anos de bom e efectivo serviço.
 
 3 - O recrutamento para a categoria de técnico auxiliar de 2.ª classe far-se-á de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado.
 
-###### Art. 16.º - 1 - O provimento do pessoal do quadro a que se refere o n.º 2 do artigo 10.º, com excepção do director, será feito por nomeação provisória ou em comissão de serviço, pelo período de 1 ano.
+Art. 16.º - 1 - O provimento do pessoal do quadro a que se refere o n.º 2 do artigo 10.º, com excepção do director, será feito por nomeação provisória ou em comissão de serviço, pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -247,7 +253,7 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No quadro do IPR, se, finda a comissão, for provido definitivamente.
 
-###### Art. 17.º - 1 - Ao pessoal constante do quadro I, anexo ao presente diploma, será atribuído:
+Art. 17.º - 1 - Ao pessoal constante do quadro I, anexo ao presente diploma, será atribuído:
 
 a) Um subsídio mensal de residência, a fixar anualmente por despacho do ministro da tutela e do Ministro das Finanças e do Plano e pelo membro do Governo que tiver a seu cargo a função pública;
 
@@ -265,21 +271,21 @@ d) Embalagem, seguro e transporte de móveis até ao limite de 4 t ou 25 m3.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - António Antero Coimbra Martins.
 
-**Promulgado em 8 de Agosto de 1985.**
+Promulgado em 8 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Agosto de 1985.**
+Referendado em 12 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 QUADRO I
 
 (A que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/19700/27862788.pdf))](https://files.diariodarepublica.pt/1s/1985/08/19700/27862788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/19700/27862788.pdf)
 
 QUADRO II
 

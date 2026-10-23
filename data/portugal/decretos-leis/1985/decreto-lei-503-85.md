@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1985, 1º Suplemento, Série I de 1985-12-30
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4252-(1) a 4252-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30001/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1985-250605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 444b684aacf4c63fe99cb01393f0ec878b846b6e0abac9132ed6a2d25bca195b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dfd289670ee66bfce0b55e7bf1315232e3b7ac4cc1ad8d9f160896d604e4730
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banana
+- Comércio
+- Comissão Permanente da Produção e Comercialização da Banana
+- Conselho Consultivo da Produção e Comercialização da Banana
+- Controlo de Qualidade
+- Criação de Serviços
+- Embalagem
+- Exportação
+- Financiamento
+- Importação
+- Mercado Interno
+- Preço de Campanha
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376841:por
+  label: Determinada a assunção pelo INGA das atribuições e competências conferidas ao extinto organismo de coordenação económica,
+    Junta Nacional das Frutas, relativamente à Comissão Permanente e ao Conselho Consultivo da Produção e Comercialização
+    da Banana, a que se refere o presente diploma, pelo DEC LEI.282/88.12.08.1988.MAPA, DR.IS [186] de 12.08.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1988-376841
+  date: '1988-08-12'
+- type: amended_by
+  target: pt:dre:334646:por
+  label: "Determinada a transferência para a DGMAIAA de todas as atribuições e competências conferidas ao extinto organismo\
+    \ de coordenação económica, Junta Nacional das Frutas, relativamente à Comissão Permanente e ao Conselho Consultivo da\
+    \ Produção e Comercialização da Banana, a que se refere o presente diploma, pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS\
+    \ [37] de 13.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:13Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +154,7 @@ Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira e no uso da
 
 ## TÍTULO I — Âmbito
 
-###### Artigo 1.º - 1 - É estabelecida uma organização nacional de mercado para a banana.
+Artigo 1.º - 1 - É estabelecida uma organização nacional de mercado para a banana.
 
 2 - A organização nacional de mercado compreende o seguinte:
 
@@ -130,7 +172,7 @@ e) Regime de comércio externo.
 
 ## TÍTULO II — Normas
 
-###### Art. 2.º - 1 - A obrigatoriedade das normas de qualidade para a banana a ser consumida no estado fresco será estabelecida em portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os Governos daquelas Regiões.
+Art. 2.º - 1 - A obrigatoriedade das normas de qualidade para a banana a ser consumida no estado fresco será estabelecida em portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os Governos daquelas Regiões.
 
 2 - Estas normas comportarão categorias de qualidade definidas tendo em conta o interesse económico para os seus produtores e a necessidade de satisfazer as exigências dos consumidores.
 
@@ -138,7 +180,7 @@ e) Regime de comércio externo.
 
 4 - A categoria «III» só poderá, excepcionalmente, ser admitida à comercialização em anos de produção agrícola anormal, mediante portaria conjunta dos ministros referidos no n.º 1 deste artigo, sob proposta da Comissão a que e refere o artigo 17.º do presente diploma, ouvidos os Governos das Regiões Autónomas.
 
-###### Art. 3.º - 1 - As Regiões Autónomas dos Açores e da Madeira fixarão as normas a observar no cultivo e colheita da banana.
+Art. 3.º - 1 - As Regiões Autónomas dos Açores e da Madeira fixarão as normas a observar no cultivo e colheita da banana.
 
 2 - Por decreto regulamentar dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os Governos daquelas Regiões, serão fixados:
 
@@ -158,7 +200,7 @@ b) Exposta à venda, vendida ou entregue pelo produtor nos mercados de venda por
 
 c) Vendida directamente ao consumidor pelo produtor na sua própria exploração.
 
-###### Art. 5.º - 1 - As menções previstas pelas normas de qualidade em matéria de marcação devem ser inscritas, em caracteres legíveis e indeléveis, num dos lados da embalagem, quer por impressão directa, quer por meio de uma etiqueta solidamente fixada na embalagem, em conformidade com o preceituado no [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março.
+Art. 5.º - 1 - As menções previstas pelas normas de qualidade em matéria de marcação devem ser inscritas, em caracteres legíveis e indeléveis, num dos lados da embalagem, quer por impressão directa, quer por meio de uma etiqueta solidamente fixada na embalagem, em conformidade com o preceituado no [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março.
 
 2 - Na venda a retalho observar-se-á o seguinte:
 
@@ -166,23 +208,23 @@ a) Para a banana exposta na embalagem, as menções previstas em matéria de mar
 
 b) Para a banana exposta à venda fora da embalagem, o retalhista tem de exibir um letreiro, em conformidade com o preceituado no [Decreto-Lei n.º 89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), com as indicações previstas nas normas de qualidade e relativas à variedade, à origem do produto e à categoria de qualidade.
 
-###### Art. 6.º - 1 - A banana será objecto de verificação de conformidade com as normas de qualidade, a efectuar pelos organismos competentes, por amostragem, em qualquer estádio da comercialização, assim como no decurso do transporte.
+Art. 6.º - 1 - A banana será objecto de verificação de conformidade com as normas de qualidade, a efectuar pelos organismos competentes, por amostragem, em qualquer estádio da comercialização, assim como no decurso do transporte.
 
 2 - Em decreto regulamentar dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os Governos daquelas Regiões, serão estabelecidas as normas a observar pelos organismos na verificação a que se refere o n.º 1 deste artigo.
 
-###### Art. 7.º - 1 - A banana destinada à expedição e à exportação é obrigatoriamente submetida à verificação das normas de qualidade pelos organismos competentes.
+Art. 7.º - 1 - A banana destinada à expedição e à exportação é obrigatoriamente submetida à verificação das normas de qualidade pelos organismos competentes.
 
 2 - Esta verificação far-se-á nos armazéns de acondicionamento e embalagem ou no cais.
 
 3 - Os organismos competentes deverão passar um boletim de verificação, que acompanhará a mercadoria expedida ou exportada.
 
-###### Art. 8.º - 1 - Só é admitida à importação a banana que satisfaça as normas de qualidade correspondentes às categorias «Extra», «I» ou «II» ou a normas, pelo menos, equivalentes.
+Art. 8.º - 1 - Só é admitida à importação a banana que satisfaça as normas de qualidade correspondentes às categorias «Extra», «I» ou «II» ou a normas, pelo menos, equivalentes.
 
 2 - É aplicável à banana importada o disposto nos artigos 2.º a 7.º, com excepção do n.º 1 do artigo 3.º
 
 ## TÍTULO III — Organizações de produtores
 
-###### Art. 9.º - 1 - Com o objectivo de encorajar a constituição ou reestruturação e facilitar o funcionamento eficaz das organizações de produtores de banana, é instituído um regime de incentivos a favor daquelas que visem:
+Art. 9.º - 1 - Com o objectivo de encorajar a constituição ou reestruturação e facilitar o funcionamento eficaz das organizações de produtores de banana, é instituído um regime de incentivos a favor daquelas que visem:
 
 a) Promover a concentração da oferta e a regularização do preço no estádio de produção;
 
@@ -198,7 +240,7 @@ b) Efectuar a colocação no mercado da totalidade da produção destinada à co
 
 4 - Em decreto regulamentar dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos os Governos daquelas Regiões, serão estabelecidas normas relativas à actividade económica das organizações de produtores.
 
-###### Art. 10.º - 1 - As organizações de produtores de banana serão objecto de um reconhecimento formal pelos Governos das Regiões Autónomas dos Açores e da Madeira, sem o que não poderão usufruir dos benefícios previstos no presente diploma.
+Art. 10.º - 1 - As organizações de produtores de banana serão objecto de um reconhecimento formal pelos Governos das Regiões Autónomas dos Açores e da Madeira, sem o que não poderão usufruir dos benefícios previstos no presente diploma.
 
 2 - É concedido às organizações de produtores, a seu pedido, o reconhecimento previsto no número anterior, desde que:
 
@@ -216,7 +258,7 @@ c) Tenham personalidade jurídica.
 
 ## TÍTULO IV — Regime de ajudas
 
-###### Art. 11.º - 1 - Poderão ser concedidas ajudas às organizações de produtores durante 5 anos após o seu reconhecimento, de acordo com o objectivo previsto no n.º 1 do artigo 9.º
+Art. 11.º - 1 - Poderão ser concedidas ajudas às organizações de produtores durante 5 anos após o seu reconhecimento, de acordo com o objectivo previsto no n.º 1 do artigo 9.º
 
 2 - O montante das ajudas não poderá exceder nos 1.º, 2.º, 3.º, 4.º e 5.º anos após o reconhecimento, respectivamente, 5%, 5%, 4%, 3% e 2% do valor da produção comercializada pela organização no ano anterior, e nunca poderá ultrapassar os encargos reais da constituição e do funcionamento administrativo da respectiva organização.
 
@@ -224,7 +266,7 @@ c) Tenham personalidade jurídica.
 
 4 - Em decreto regulamentar dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas das finanças, da agricultura e do comércio, ouvidos os Governos daquelas Regiões, serão definidos os encargos reais da constituição e do funcionamento administrativo das organizações de produtores.
 
-###### Art. 12.º - 1 - Poderão ainda ser concedidas ajudas para as acções que visem:
+Art. 12.º - 1 - Poderão ainda ser concedidas ajudas para as acções que visem:
 
 a) A modernização da cultura da banana;
 
@@ -236,7 +278,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte de banan
 
 ## TÍTULO V — Regime de preços
 
-###### Art. 13.º - 1 - Em cada ano, até 1 de Abril, é fixado um preço indicativo para a campanha de comercialização a iniciar naquele ano.
+Art. 13.º - 1 - Em cada ano, até 1 de Abril, é fixado um preço indicativo para a campanha de comercialização a iniciar naquele ano.
 
 2 - Este preço é fixado para a campanha de comercialização ou para cada um dos períodos em que a campanha se subdivide em função da evolução sazonal dos preços de mercado e para cada um dos mercados representativos à produção.
 
@@ -248,7 +290,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte de banan
 
 ## TÍTULO VI — Regime de comércio externo
 
-###### Art. 14.º - 1 - Com vista a evitar perturbações graves no escoamento da produção nacional, é fixado, anualmente, até 1 de Abril, um preço de referência para a banana a importar.
+Art. 14.º - 1 - Com vista a evitar perturbações graves no escoamento da produção nacional, é fixado, anualmente, até 1 de Abril, um preço de referência para a banana a importar.
 
 2 - O preço de referência poderá ser fixado para cada período em que se subdivide a campanha.
 
@@ -258,7 +300,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte de banan
 
 5 - O preço mencionado neste artigo será fixado por portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros com competência nas áreas da agricultura e do comércio, ouvidos o Governos daquelas Regiões, mediante proposta da Comissão a que se refere o artigo 17.º do presente diploma.
 
-###### Art. 15.º - 1 - Sempre que o preço de entrada das bananas importadas se situar abaixo do preço de referência, será cobrado um direito de compensação igual à diferença entre os dois preços.
+Art. 15.º - 1 - Sempre que o preço de entrada das bananas importadas se situar abaixo do preço de referência, será cobrado um direito de compensação igual à diferença entre os dois preços.
 
 2 - O preço de entrada das bananas importadas é calculado tendo em conta o preço CIF, adicionado das despesas de cais, direitos aduaneiros e outras imposições cobradas à entrada.
 
@@ -266,7 +308,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte de banan
 
 4 - Os direitos aduaneiros da pauta portuguesa são fixados em 20% ad valorem.
 
-###### Art. 16.º - 1 - A importação de banana está sujeita a restrições quantitativas, qualquer que seja a sua origem.
+Art. 16.º - 1 - A importação de banana está sujeita a restrições quantitativas, qualquer que seja a sua origem.
 
 2 - Anualmente, até 1 de Abril, serão fixados contingentes de importação, podendo estes ser repartidos pelos períodos em que se subdivide a campanha.
 
@@ -276,7 +318,7 @@ b) O tratamento, a transformação, a comercialização ou o transporte de banan
 
 ## TÍTULO VII — Disposições gerais
 
-###### Art. 17.º - 1 - É instituída a Comissão Permanente da Produção e Comercialização da Banana, designada no presente diploma por Comissão, na dependência conjunta dos ministros com competência nas áreas das finanças, da agricultura e do comércio.
+Art. 17.º - 1 - É instituída a Comissão Permanente da Produção e Comercialização da Banana, designada no presente diploma por Comissão, na dependência conjunta dos ministros com competência nas áreas das finanças, da agricultura e do comércio.
 
 2 - A Comissão é composta pelos representantes das seguintes entidades:
 
@@ -298,7 +340,7 @@ f) Governo da Região Autónoma da Madeira.
 
 5 - A Comissão, nos seus pareceres e propostas, mencionará sempre o parecer do Conselho Consultivo, justificando-os, quando divergentes deste.
 
-###### Art. 18.º - 1 - É criado o Conselho Consultivo da Produção e Comercialização da Banana, designado no presente diploma por Conselho Consultivo, constituído por representantes dos:
+Art. 18.º - 1 - É criado o Conselho Consultivo da Produção e Comercialização da Banana, designado no presente diploma por Conselho Consultivo, constituído por representantes dos:
 
 a) Produtores;
 
@@ -312,24 +354,24 @@ e) Consumidores.
 
 2 - A competência e as regras de funcionamento do Conselho Consultivo serão estabelecidas por portaria conjunta dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e dos ministros referidos no n.º 1 do artigo 17.º ouvidos os Governos daquelas Regiões.
 
-###### Art. 19.º - 1 - À Comissão incumbe, de uma maneira geral, pronunciar-se sobre todas as matérias relacionadas com este sector, emitindo pareceres ou apresentando propostas, quer por solicitação do Governo da República ou dos Governos das Regiões Autónomas dos Açores e da Madeira quer por iniciativa própria.
+Art. 19.º - 1 - À Comissão incumbe, de uma maneira geral, pronunciar-se sobre todas as matérias relacionadas com este sector, emitindo pareceres ou apresentando propostas, quer por solicitação do Governo da República ou dos Governos das Regiões Autónomas dos Açores e da Madeira quer por iniciativa própria.
 
 2 - Por portaria conjunta dos Ministros da República para as Regiões Autónomas e dos ministros referidos no n.º 1 do artigo 17.º, ouvidos os Governos daquelas Regiões Autónomas, serão estabelecidas a competência e as normas de funcionamento da Comissão.
 
-###### Art. 20.º - 1 - Constitui receita do Fundo de Abastecimento o produto dos direitos de compensação cobrados nos termos do artigo 15.º do presente diploma.
+Art. 20.º - 1 - Constitui receita do Fundo de Abastecimento o produto dos direitos de compensação cobrados nos termos do artigo 15.º do presente diploma.
 
 2 - A atribuição das ajudas a que se referem os artigos 11.º e 12.º constará de despacho conjunto dos Ministros da República para as Regiões Autónomas e dos ministros com competência nas áreas das finanças, da agricultura e do comércio, ouvidos os Governos daquelas Regiões.
 
-###### Art. 21.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 21.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 1985. - Aníbal António Cavaco Silva - Lino Dias Miguel - Tomás George Conceição Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 17 de Dezembro de 1985.**
+Promulgado em 17 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Dezembro de 1985.**
+Referendado em 19 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/14800/15541556.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1986-228606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bcf96b445b735b25dff74444c7a4f08ce07fd3ac6b228c6dbab25ee3e2a57cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40ee6566c8ec74ad2d99da5eb957a1798042a7364314eba606bd5712027853c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Reitor
+- Universidade de Évora
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:451221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601116:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:04Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Tendo em atenção a proposta de estrutura orgânica apresentada pela Universida
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados os seguintes órgãos da Universidade de Évora:
+Artigo 1.º São criados os seguintes órgãos da Universidade de Évora:
 
 a) A assembleia da Universidade;
 
@@ -110,7 +126,7 @@ f) O conselho pedagógico;
 
 g) O conselho administrativo.
 
-###### Art. 2.º - 1 - A assembleia da Universidade é composta:
+Art. 2.º - 1 - A assembleia da Universidade é composta:
 
 a) Pelo reitor, que preside;
 
@@ -134,7 +150,7 @@ i) Por um estudante por curso de licenciatura e por curso de mestrado.
 
 3 - A assembleia só pode deliberar validamente quando os elementos a que se referem as alíneas a) a d) constituam a maioria dos membros presentes.
 
-###### Art. 3.º - 1 - Compete à assembleia da Universidade:
+Art. 3.º - 1 - Compete à assembleia da Universidade:
 
 a) Aprovar os estatutos da Universidade e suas alterações;
 
@@ -144,7 +160,7 @@ c) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pelos restante
 
 2 - Salvo para os fins previstos na alínea b) do número anterior, a assembleia da Universidade reunirá, ordinariamente, uma vez por ano e, extraordinariamente, sempre que for convocada pelo seu presidente, por sua iniciativa ou a pedido de, pelo menos, metade dos seus membros.
 
-###### Art. 4.º - 1 - O senado universitário é composto:
+Art. 4.º - 1 - O senado universitário é composto:
 
 a) Pelo reitor, que preside;
 
@@ -170,7 +186,7 @@ l) Por três representantes dos estudantes da Universidade.
 
 2 - É aplicável aos elementos previstos nas alíneas e), f), g), i), j) e l) do número anterior o disposto no n.º 2 do artigo 2.º do presente diploma.
 
-###### Art. 5.º - 1 - Compete ao senado universitário:
+Art. 5.º - 1 - Compete ao senado universitário:
 
 a) Elaborar o projecto dos estatutos a submeter à aprovação da assembleia da Universidade;
 
@@ -194,7 +210,7 @@ j) Pronunciar-se sobre todos os assuntos que sejam submetidos à sua apreciaçã
 
 2 - O senado universitário reunirá, obrigatoriamente, de dois em dois meses e, extraordinariamente, sempre que for convocado pelo seu presidente, por sua iniciativa ou a pedido de, pelo menos, metade dos seus membros.
 
-###### Art. 6.º - 1 - Nas eleições para a nomeação do reitor o colégio eleitoral será constituído por todos os membros da assembleia da Universidade.
+Art. 6.º - 1 - Nas eleições para a nomeação do reitor o colégio eleitoral será constituído por todos os membros da assembleia da Universidade.
 
 2 - São elegíveis para o cargo de reitor todos os professores catedráticos da Universidade de Évora, devendo cada boletim de voto conter a lista nominativa desses professores ordenada por ordem alfabética.
 
@@ -204,11 +220,11 @@ j) Pronunciar-se sobre todos os assuntos que sejam submetidos à sua apreciaçã
 
 5 - O presidente da assembleia da Universidade comunicará imediatamente ao Ministro da Educação e Cultura o nome do reitor eleito para efeitos de nomeação.
 
-###### Art. 7.º - 1 - O reitor é nomeado por despacho do Ministro da Educação e Cultura, pelo período de três anos, renovável por período de igual duração.
+Art. 7.º - 1 - O reitor é nomeado por despacho do Ministro da Educação e Cultura, pelo período de três anos, renovável por período de igual duração.
 
 2 - O reitor cessante manter-se-á em exercício de funções até à posse do novo reitor.
 
-###### Art. 8.º - 1 - O reitor orienta e coordena os serviços e as actividades da Universidade, cabendo-lhe, especialmente:
+Art. 8.º - 1 - O reitor orienta e coordena os serviços e as actividades da Universidade, cabendo-lhe, especialmente:
 
 a) Representar a Universidade em juízo e fora dele;
 
@@ -230,7 +246,7 @@ f) Submeter a despacho do Ministro da Educação e Cultura as questões que care
 
 5 - O reitor poderá nomear pró-reitores, que, em circunstâncias meramente conjunturais, actuarão por delegação em tarefas específicas e por tempo limitado.
 
-###### Art. 9.º - 1 - O conselho consultivo da Universidade é constituído por:
+Art. 9.º - 1 - O conselho consultivo da Universidade é constituído por:
 
 a) Personalidade ligadas a sectores culturais, científicos, profissionais e económicos a definir pela assembleia da Universidade;
 
@@ -248,9 +264,9 @@ e) Antigos alunos designados pelo senado universitário.
 
 4 - Compete ainda ao conselho consultivo fomentar a ligação entre as actividades da Universidade e as actividades dos sectores previstos na alínea a) do n.º 1.
 
-###### Art. 10.º A composição, atribuições e funcionamento do conselho científico serão fixados por portaria do Ministro da Educação e Cultura, sob proposta do senado universitário.
+Art. 10.º A composição, atribuições e funcionamento do conselho científico serão fixados por portaria do Ministro da Educação e Cultura, sob proposta do senado universitário.
 
-###### Art. 11.º - 1 - O conselho pedagógico é composto:
+Art. 11.º - 1 - O conselho pedagógico é composto:
 
 a) Pelos presidentes das comissões permanentes dos cursos de licenciatura, bem como dos cursos que vierem a ser criados no âmbito do Centro Integrado de Formação de Professores;
 
@@ -266,7 +282,7 @@ d) Pelo director dos Serviços Académicos, ou seu delegado, que servirá de sec
 
 4 - O reitor e os vice-reitores podem, sempre que o desejarem, participar nas reuniões do conselho pedagógico, cabendo, neste caso, ao primeiro ou, na sua ausência, a um dos segundos a presidência da sessão.
 
-###### Art. 12.º - 1 - Compete ao conselho pedagógico:
+Art. 12.º - 1 - Compete ao conselho pedagógico:
 
 a) Fazer propostas e dar parecer sobre a orientação pedagógica e o desenvolvimento do processo de ensino-aprendizagem, incluindo o regime de avaliação;
 
@@ -286,7 +302,7 @@ c) Pronunciar-se sobre todos os assuntos de índole pedagógica que lhe sejam su
 
 7 - O plenário do conselho pedagógico funcionará em todos os casos como instância de recurso das decisões das secções especializadas.
 
-###### Art. 13.º - 1 - O conselho administrativo é o órgão de gestão financeira e patrimonial da Universidade.
+Art. 13.º - 1 - O conselho administrativo é o órgão de gestão financeira e patrimonial da Universidade.
 
 2 - O conselho administrativo tem as competências atribuídas na lei aos órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira.
 
@@ -304,28 +320,28 @@ d) Pelo director dos Serviços Administrativos, que servirá de secretário do c
 
 5 - O conselho administrativo reunirá, obrigatoriamente, uma vez por mês e, extraordinariamente, sempre que for convocado pelo presidente, por sua iniciativa ou a pedido de qualquer dos seus membros.
 
-###### Art. 14.º - 1 - Os actuais órgãos, estruturas e serviços da Universidade manterão as competências e atribuições que lhes estão cometidas em tudo o que não colida com o previsto neste diploma.
+Art. 14.º - 1 - Os actuais órgãos, estruturas e serviços da Universidade manterão as competências e atribuições que lhes estão cometidas em tudo o que não colida com o previsto neste diploma.
 
 2 - Sem prejuízo do disposto no número anterior, serão tomadas de imediato as providências indispensáveis à constituição da assembleia da Universidade e do senado universitário e à sua entrada em funcionamento no prazo de 45 dias a contar da data da publicação deste diploma.
 
 3 - A assembleia da Universidade reunirá nos 60 dias posteriores à data da sua entrada em funcionamento para eleição do reitor.
 
-###### Art. 15.º - 1 - Enquanto não for publicada a portaria a que se refere o artigo 10.º, a composição, atribuições e funcionamento do conselho científico regulam-se pela [Portaria n.º 578/83](https://diariodarepublica.pt/dr/detalhe/portaria/578-1983-451221), de 17 de Maio, em tudo o que não colidir com o disposto no presente diploma.
+Art. 15.º - 1 - Enquanto não for publicada a portaria a que se refere o artigo 10.º, a composição, atribuições e funcionamento do conselho científico regulam-se pela [Portaria n.º 578/83](https://diariodarepublica.pt/dr/detalhe/portaria/578-1983-451221), de 17 de Maio, em tudo o que não colidir com o disposto no presente diploma.
 
 2 - Sem prejuízo do disposto no número anterior, nos departamentos e divisões que disponham de um mínimo de cinco professores poderão funcionar secções do conselho científico, com a estrutura e competências que forem fixadas pelo conselho.
 
 3 - O plenário do conselho científico funcionará, em todos os casos, como instância de recurso das decisões das secções.
 
-###### Art. 16.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 16.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 18 de Junho de 1986.**
+Promulgado em 18 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1986.**
+Referendado em 18 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

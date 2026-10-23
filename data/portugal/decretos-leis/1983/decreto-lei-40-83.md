@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02000/01710174.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1983-308356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1615958864daab61da0173b333f5f37959cde7397a0966023b90327fcb55f0ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b7837fd400aa1878294942f9168e0092e5892f9f0bd4f691902a917f42532b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Emprego Protegido
+- Deficiente
+- Emprego Protegido
+- Política de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:491685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182226:por
+  label: "Alterados os artigos 7.º, 8.º, 9.º, 19.º, 20.º, 21.º, 22.º, 23.º, 25.º, 26.º, 27.º, 28.º, 29.º e 30.º, revogado\
+    \ o artigo 24.º, e determinado que nas disposições, onde se lê «deficiente(s)» ou «trabalhador(es) deficiente(s)» deve\
+    \ ler-se, respectivamente, «pessoa(s) deficiente(s)» e «trabalhador(es) em regime de emprego protegido», pelo DEC LEI.194/85.24.06.1985.MTSS,\
+    \ DR.IS [142] de 24.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1985-182226
+  date: '1985-06-24'
+- type: corrected_by
+  target: pt:dre:401338:por
+  label: Rectificado pela DECL.DD2783.1983.02.09.PCM DR.IS [48]Supl de 28.02.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-401338
+  date: '1983-02-09'
+- type: repealed_by
+  target: pt:dre:491685:por
+  label: "Revogado, a partir de 11.11.2009, na redacção do Dec Lei 194/85, de 24-Jun, pelo DEC LEI.290/2009.12.10.2009.MTSSO,\
+    \ DR.IS [197] de 12.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-2009-491685
+  date: '2009-10-12'
 article_structure:
   article_count: 31
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:07Z'
   warnings: []
   errors: []
 ---
@@ -330,8 +353,8 @@ Nas Regiões Autónomas da Madeira e dos Açores, as competências previstas no 
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 6 de Janeiro de 1983.**
+Promulgado em 6 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

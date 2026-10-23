@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/06000/06350640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,136 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1985-326895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 551140e7591acbf8db7f6946db4c9782c2d8397e0ed492cf30e211f68349bb63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4506dcc8e9a43053ea08806b95290c639cc5a0ba292635a5eafa60e8bb81e8fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos e Formação Autárquica
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:607728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227999:por
+  label: "Alterado o art. 11.º, pelo DEC LEI.192/86.17.07.1986.MPAT, DR.IS [162] de 17.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1986-227999
+  date: '1986-07-17'
+- type: amended_by
+  target: pt:dre:373454:por
+  label: "Substituído o quadro de pessoal, aprovado no presente diploma, pela PORT.292/88.10.05.1988.MF, DR.IS [108] de 10.05.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-1988-373454
+  date: '1988-05-10'
+- type: amended_by
+  target: pt:dre:515598:por
+  label: "Alterados os artigos 1.º, 2.º, 4.º, 5.º, 7.º, 8.º, 11.º, 14.º, 19.º, 22.º, 23.º e revogada a alínea h) do n.º 1\
+    \ do artigo 9.º, pelo DEC LEI.97/92.28.05.1992.PCM, DR.IS-A [123] de 28.05.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-1992-515598
+  date: '1992-05-28'
+- type: amended_by
+  target: pt:dre:1994052:por
+  label: "Alterado o quadro de pessoal aprovado em anexo, pela PORT.833/97(2ªSÉRIE).1997.10.09.PCM, MF, MEPAT, DR.IIS [247]\
+    \ de 1997.10.24\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/833-1997-1994052
+  date: '1997-10-09'
+- type: amended_by
+  target: pt:dre:3322060:por
+  label: "Alterado o quadro de pessoal a que se refere o mapa anexo ao presente diploma, pela PORT.858/97(2ªSÉRIE).1997.10.16.PCM,\
+    \ MF e MEPAT DR.IIS [254] de 03/Nov/1997\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/858-1997-3322060
+  date: '1997-10-16'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, do Centro de Estudos e Formação Autárquica\
+    \ (integrado no Ministério do Equipamento do Planeamento e da Administração do Território pelo Dec Lei 23/96, de 20-Mar),\
+    \ cuja Lei Orgânica foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Transferido o Centro de Estudos e Formação Autárquica da Presidência do Conselho de Ministros para o Ministério\
+    \ do Ambiente e do Ordenamento do Território, pelo DEC LEI.267-A/2000.2000.10.20.PCM DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
+- type: amended_by
+  target: pt:dre:343433:por
+  label: "Alterado o art. 4º, com a redacção introduzida pelo Dec Lei 97/92 de 28-Mai, pelo DEC LEI.160/2001.2001.05.18.MAOT\
+    \ DR.IS-A [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2001-343433
+  date: '2001-05-18'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ da Centro de Estudos e Formação Autárquica, (integrado no agora extinto Ministério das Cidades, Ordenamento do Território\
+    \ e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, do Centro de Estudos e Formação Autárquica,\
+    \ I. P. criado pelo Dec Lei 161/80, de 28-Maio, DR.IS [123], e cuja orgânica foi definida no presente diploma, ficando\
+    \ na dependência do Ministro de Estado e da Administração Interna, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de\
+    \ 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Determinado, que o Centro de Estudos e Formação Autárquica, cuja orgânica foi aprovada no presente diploma, deixe\
+    \ de integrar a administração central do Estado, envolvendo a Associação Nacional de Municípios Portugueses e a Associação\
+    \ Nacional de Freguesias, em termos a regular, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006, nos termos\
+    \ dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661718:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:607728:por
+  label: "Revogado o presente diploma, a partir de 28.05.2009, na redacção dos Dec Lei 192/86, de 17-Jul, Dec Lei 97/92, de\
+    \ 28-Maio, e Dec Lei 160/2001, de 18-Maio, pelo DEC LEI.98/2009.28.04.2009.PCM, DR.IS [82] de 28.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2009-607728
+  date: '2009-04-28'
 article_structure:
   article_count: 25
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:55Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +348,7 @@ h) Propor ao conselho geral o administrador do CEFA.
 
 ###### Artigo 10.º — (Substituição do presidente)
 
-**O presidente do conselho directivo é substituído nas suas faltas e impedimentos pelo vice-presidente que ele designar e, na falta de designação, pelo mais antigo.**
+O presidente do conselho directivo é substituído nas suas faltas e impedimentos pelo vice-presidente que ele designar e, na falta de designação, pelo mais antigo.
 
 #### SECÇÃO III — Conselho administrativo
 
@@ -380,16 +476,16 @@ A duração, os planos e os regimes de estudos dos cursos de formação e aperfe
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 20 de Fevereiro de 1985.**
+Promulgado em 20 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Fevereiro de 1935.**
+Referendado em 22 de Fevereiro de 1935.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro de Pessoal do CEFA a que se refere o n.º 4 do artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/06000/06350640.pdf))](https://files.diariodarepublica.pt/1s/1985/03/06000/06350640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/06000/06350640.pdf)

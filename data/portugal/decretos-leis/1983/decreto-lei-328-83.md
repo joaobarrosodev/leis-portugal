@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1983-453200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 841c3de07ce724058b1a587a95e5d89289b826eacfe5b36ab4e3bada46f9f9dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 630fe1cb6cb8d596cc24d146ce9b453007cf145e0bd85d0e65cfeeee4fa9ee00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Proteção à Infância
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:54Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +105,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Abrigo Infantil, estabelecimento social da Santa Casa da Misericórdia de Lisboa, cuja administração tem estado confiada a outra entidade, passa de imediato para a dependência da mesma Santa Casa da Misericórdia de Lisboa.
+Artigo 1.º O Abrigo Infantil, estabelecimento social da Santa Casa da Misericórdia de Lisboa, cuja administração tem estado confiada a outra entidade, passa de imediato para a dependência da mesma Santa Casa da Misericórdia de Lisboa.
 
-###### Art. 2.º - 1 - O pessoal que à data da entrada em vigor do presente diploma se encontre a prestar serviço no Abrigo Infantil transita para os lugares do quadro de pessoal da Santa Casa da Misericórdia de Lisboa, sem prejuízo da observância das disposições legais em vigor, de acordo com as seguintes regras:
+Art. 2.º - 1 - O pessoal que à data da entrada em vigor do presente diploma se encontre a prestar serviço no Abrigo Infantil transita para os lugares do quadro de pessoal da Santa Casa da Misericórdia de Lisboa, sem prejuízo da observância das disposições legais em vigor, de acordo com as seguintes regras:
 
 a) Na categoria que actualmente detém, independentemente das habilitações literárias;
 
@@ -110,12 +121,12 @@ b) Para categoria correspondente às funções que já desempenha, remunerada po
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Junho de 1983.**
+Referendado em 23 de Junho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

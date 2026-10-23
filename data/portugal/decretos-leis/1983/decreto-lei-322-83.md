@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15200/24272429.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1983-452966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47436896add06ef184a7b4e52d84ab417a5c5bc2f94fb6c5fd029d38c9347552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d7745669a379efabf924689edf5b3d436977313b1e1e5ca39bc6a01fb806d41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Lista Nominativa
+- Serviços Médico-sociais
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:49Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +147,9 @@ Considerando a utilidade da experiência colhida por quem no âmbito das citadas
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A requerimento dos interessados, poderão ser aditados às listas nominativas do pessoal dos Serviços Médico-Sociais, a elaborar e aprovar nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 309/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1982-397292), de 2 de Agosto, os indivíduos que à data do termo do período de instalação daqueles Serviços desempenhavam, sem vínculo à função pública, funções em comissões de gestão dos respectivos serviços distritais, desde que, como membros dessas comissões e de comissões administrativas de caixas de previdência, contem, em conjunto, pelo menos 6 anos de exercício.
+Artigo 1.º A requerimento dos interessados, poderão ser aditados às listas nominativas do pessoal dos Serviços Médico-Sociais, a elaborar e aprovar nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 309/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1982-397292), de 2 de Agosto, os indivíduos que à data do termo do período de instalação daqueles Serviços desempenhavam, sem vínculo à função pública, funções em comissões de gestão dos respectivos serviços distritais, desde que, como membros dessas comissões e de comissões administrativas de caixas de previdência, contem, em conjunto, pelo menos 6 anos de exercício.
 
-###### Art. 2.º Os aditamentos previstos no artigo anterior correspondem a provimentos nas condições a seguir enunciadas, apenas dependentes de avaliação curricular:
+Art. 2.º Os aditamentos previstos no artigo anterior correspondem a provimentos nas condições a seguir enunciadas, apenas dependentes de avaliação curricular:
 
 a) Em técnico superior de 1.ª classe ou de 2.ª classe, os que sejam possuidores de licenciatura em curso superior respectivamente há mais ou menos de 3 anos;
 
@@ -113,7 +157,7 @@ b) Em primeiro-oficial, os possuidores de habilitação equivalente ao curso ger
 
 c) Em segundo-oficial, os que tenham habilitação inferior à referida na alínea anterior.
 
-###### Art. 3.º As situações dos indivíduos já vinculados à função pública que à data referida no artigo 1.º exerciam funções como membros das comissões de gestão dos serviços distritais dos Serviços Médico-Sociais poderão ser alteradas nas mesmas listas nominativas, a requerimento dos interessados, correspondendo a provimentos nos termos seguintes:
+Art. 3.º As situações dos indivíduos já vinculados à função pública que à data referida no artigo 1.º exerciam funções como membros das comissões de gestão dos serviços distritais dos Serviços Médico-Sociais poderão ser alteradas nas mesmas listas nominativas, a requerimento dos interessados, correspondendo a provimentos nos termos seguintes:
 
 a) Na categoria de técnico superior principal, os que contem, em conjunto, pelo menos 6 anos de exercício de funções em comissões de gestão dos Serviços Médico-Sociais e em comissões administrativas de caixas de previdência e possuam licenciatura em curso superior;
 
@@ -125,7 +169,7 @@ d) Na categoria de chefe de secção, os que contem, pelo menos, 3 anos de exerc
 
 e) Ainda na categoria de chefe de secção, os segundos-oficiais com a antiguidade mínima de 6 anos na categoria, desde que possuam a habilitação mínima referida na alínea anterior e que contem, pelo menos, 6 anos de exercício de funções, em conjunto, em comissões de gestão dos Serviços Médico-Sociais e em comissões administrativas de caixas de previdência.
 
-###### Art. 4.º - 1 - O tempo de serviço prestado nas comissões de gestão dos serviços distritais dos Serviços Médico-Sociais pelos indivíduos mencionados no artigo 1.º conta para efeitos de antiguidade geral na função pública, incluindo aposentação e sobrevivência.
+Art. 4.º - 1 - O tempo de serviço prestado nas comissões de gestão dos serviços distritais dos Serviços Médico-Sociais pelos indivíduos mencionados no artigo 1.º conta para efeitos de antiguidade geral na função pública, incluindo aposentação e sobrevivência.
 
 2 - A antiguidade nas diversas categorias previstas nos artigos anteriores é contada nos seguintes termos:
 
@@ -133,26 +177,26 @@ a) Para todos os efeitos legais, excepto remuneração, desde a data em que fora
 
 b) Para efeitos de remuneração, desde a data da cessação de funções em comissões de gestão dos Serviços Médico-Sociais ou, no caso de ainda não se ter verificado a cessação de tais funções, desde a data da publicação do presente diploma.
 
-###### Art. 5.º Os requerimentos previstos nos artigos 1.º e 3.º deste diploma devem ser dirigidos ao Ministério dos Assuntos Sociais, devidamente informados, até 10 dias após a data de entrada em vigor deste diploma.
+Art. 5.º Os requerimentos previstos nos artigos 1.º e 3.º deste diploma devem ser dirigidos ao Ministério dos Assuntos Sociais, devidamente informados, até 10 dias após a data de entrada em vigor deste diploma.
 
-###### Art. 6.º As alterações às listas nominativas previstas no [Decreto-Lei n.º 309/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1982-397292), de 2 de Agosto, determinadas pelo presente diploma ficam isentas de todas as formalidades, salvo a anotação do Tribunal de Contas e a publicação no Diário da República.
+Art. 6.º As alterações às listas nominativas previstas no [Decreto-Lei n.º 309/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1982-397292), de 2 de Agosto, determinadas pelo presente diploma ficam isentas de todas as formalidades, salvo a anotação do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 7.º - 1 - Os membros das comissões instaladoras dos centros regionais de segurança social e do Centro Nacional de Pensões, vinculados ou não à função pública, que contem, à data da publicação do presente diploma, mais de 2 anos no exercício daquelas funções podem ser nomeados para os mapas ou quadros de pessoal daqueles Serviços.
+Art. 7.º - 1 - Os membros das comissões instaladoras dos centros regionais de segurança social e do Centro Nacional de Pensões, vinculados ou não à função pública, que contem, à data da publicação do presente diploma, mais de 2 anos no exercício daquelas funções podem ser nomeados para os mapas ou quadros de pessoal daqueles Serviços.
 
 2 - As nomeações previstas no número anterior serão feitas, com respeito pelas habilitações literárias exigidas por lei, nas categorias que a normal progressão determinar, considerando-se como prestado nesta o tempo de exercício de funções nas comissões instaladoras dos centros regionais de segurança social ou nas comissões administrativas das caixas de previdência naquelas integrados, bem como em funções na comissão instaladora do Centro Nacional de Pensões ou na comissão administrativa da Caixa Nacional de Pensões, sem interrupção de funções.
 
 3 - O tempo de serviço prestado nas comissões instaladoras dos centros regionais de segurança social e nas comissões administrativas das caixas de previdência nas condições do número anterior é considerado ainda para os efeitos consignados no n.º 1 do artigo 4.º
 
-###### Art. 8.º Às situações que venham a constituir-se por força da aplicação deste diploma corresponderão, se necessário, aditamentos dos respectivos lugares nos mapas dos quadros aprovados, os quais serão extintos quando vagarem.
+Art. 8.º Às situações que venham a constituir-se por força da aplicação deste diploma corresponderão, se necessário, aditamentos dos respectivos lugares nos mapas dos quadros aprovados, os quais serão extintos quando vagarem.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 4 de Junho de 1983.**
+Promulgado em 4 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

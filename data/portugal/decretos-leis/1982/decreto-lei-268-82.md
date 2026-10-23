@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15600/20442044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1982-394684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ac54f07ce01707361cf69642f3a3f8e5ad62f036ebd71a3ac34cda29c3155ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27a01c49166263c5245f226b82c840ea6249c39a960b3a4265191dfe1f8f67bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Horário de Funcionamento
 relationships:
 - type: amended_by
   target: pt:dre:442957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442957:por
+  label: "Revogado o Dec Lei 75-T/77, de 28-fev, na redação do presente diploma, pelo DEC LEI.417/83.25.11.1983.MTSS, DR.IS\
+    \ [272] de 25.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/417-1983-442957
+  date: '1983-11-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:10Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +109,14 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aditado o n.º 4 ao artigo 1.º do [Decreto-Lei n.º 75-T/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-t-1977-509053), de 28 de Fevereiro, com a seguinte redacção:
+Artigo único. É aditado o n.º 4 ao artigo 1.º do [Decreto-Lei n.º 75-T/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-t-1977-509053), de 28 de Fevereiro, com a seguinte redacção:
 
 4 - Poderão as câmaras municipais, para localidades em que os interesses de determinadas actividades profissionais o justifiquem, alargar para além das 2 horas o período de abertura dos estabelecimentos referidos no n.º 2 deste artigo.
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 28 de Junho de 1982.**
+Promulgado em 28 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

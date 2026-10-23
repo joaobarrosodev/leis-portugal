@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10500/12381239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1985-152359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5213168638815f1a85cc10b4aa8a007774e125071e375edb972e5b0f8f6fed33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8600aa735cbf519d97bf248113698d53d9e4e404ef746bac35a223bc7d00d382
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Educação
+- Museu da Ciência
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:14Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +120,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, na dependência do Ministério da Educação e como um estabelecimento anexo à Faculdade de Ciências da Universidade de Lisboa, o Museu da Ciência, adiante abreviadamente designado por Museu, nos termos do artigo 3.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Artigo 1.º É criado, na dependência do Ministério da Educação e como um estabelecimento anexo à Faculdade de Ciências da Universidade de Lisboa, o Museu da Ciência, adiante abreviadamente designado por Museu, nos termos do artigo 3.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
-###### Art. 2.º São objectivos do Museu:
+Art. 2.º São objectivos do Museu:
 
 a) Reunir, conservar, estudar e expor os elementos do património cultural relacionados com as ciências exactas;
 
@@ -124,13 +140,13 @@ g) Desenvolver o conhecimento da museologia aplicada às ciências exactas, inte
 
 h) Cooperar no enriquecimento da bibliografia em língua portuguesa nos domínios correspondentes aos seus fins específicos.
 
-###### Art. 3.º - 1 - O Museu é colocado em regime de instalação, o qual obedecerá às normas fixadas no presente diploma.
+Art. 3.º - 1 - O Museu é colocado em regime de instalação, o qual obedecerá às normas fixadas no presente diploma.
 
 2 - Durante o período de instalação o Museu goza de autonomia científica e administrativa.
 
 3 - O período de instalação não poderá exceder 8 meses e cessa com a publicação do diploma legal previsto na alínea g) do artigo 5.º do presente decreto-lei.
 
-###### Art. 4.º - 1 - É instituída uma comissão instaladora, que exercerá o seu mandato durante o período referido no artigo anterior.
+Art. 4.º - 1 - É instituída uma comissão instaladora, que exercerá o seu mandato durante o período referido no artigo anterior.
 
 2 - A comissão instaladora, nomeada por despacho do Ministro da Educação, será constituída por:
 
@@ -140,7 +156,7 @@ b) Mais 2 vogais, sendo um museólogo, designado pelo Instituto Português do Pa
 
 3 - Os membros da comissão instaladora terão direito a uma gratificação, a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Educação.
 
-###### Art. 5.º Compete à comissão instaladora:
+Art. 5.º Compete à comissão instaladora:
 
 a) Dirigir, orientar e coordenar as actividades e funcionamento do Museu, assegurando a sua gestão administrativa e patrimonial;
 
@@ -158,7 +174,7 @@ g) Apresentar o projecto de diploma legal que definirá a estrutura orgânica do
 
 h) Recorrer obrigatoriamente aos excedentes integrados no quadro de efectivos interdepartamentais, criado nos termos do [Decreto-Lei n.º 87/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1985-325119), de 1 de Abril, para preenchimento do quadro de pessoal a que se refere a alínea anterior.
 
-###### Art. 6.º O conselho administrativo será constituído:
+Art. 6.º O conselho administrativo será constituído:
 
 a) Pelo presidente da comissão instaladora, que preside;
 
@@ -166,7 +182,7 @@ b) Pelo secretário da Faculdade de Ciências da Universidade de Lisboa;
 
 c) Pelo chefe de secção daquela Faculdade, que substituirá, nas suas faltas ou impedimentos, o secretário.
 
-###### Art. 7.º Compete ao conselho administrativo assegurar a gestão administrativa, financeira e patrimonial do Museu e, designadamente:
+Art. 7.º Compete ao conselho administrativo assegurar a gestão administrativa, financeira e patrimonial do Museu e, designadamente:
 
 a) Verificar a legalidade das despesas e autorizar o seu pagamento;
 
@@ -178,7 +194,7 @@ d) Elaborar a conta de gerência a ser remetida ao Tribunal de Contas;
 
 e) Promover a organização e permanente actualização do cadastro dos imóveis e do inventário dos móveis, quer sejam propriedade do Museu, quer de sua fruição.
 
-###### Art. 8.º São receitas do Museu:
+Art. 8.º São receitas do Museu:
 
 a) As dotações inscritas no Orçamento Geral do Estado;
 
@@ -188,26 +204,26 @@ c) Os subsídios, subvenções, quotizações, doações, heranças ou legados d
 
 d) As que por lei, contrato ou qualquer outro título lhe sejam atribuídas.
 
-###### Art. 9.º As receitas previstas nas alíneas b), c) e d) do artigo anterior serão entregues nos cofres do Estado e movimentadas pelo conselho administrativo, nos termos da lei geral aplicável.
+Art. 9.º As receitas previstas nas alíneas b), c) e d) do artigo anterior serão entregues nos cofres do Estado e movimentadas pelo conselho administrativo, nos termos da lei geral aplicável.
 
-###### Art. 10.º Darão entrada no Museu as peças adquiridas ou construídas com as suas receitas próprias e, bem assim, todas aquelas de interesse para as finalidades do Museu que, nos termos legais, lhe forem doadas ou cedidas para incorporação por entidades públicas ou privadas.
+Art. 10.º Darão entrada no Museu as peças adquiridas ou construídas com as suas receitas próprias e, bem assim, todas aquelas de interesse para as finalidades do Museu que, nos termos legais, lhe forem doadas ou cedidas para incorporação por entidades públicas ou privadas.
 
-###### Art. 11 - 1 - O Museu ocupará, conjuntamente com o Museu Nacional de História Natural, a totalidade dos imóveis sitos na Rua da Escola Politécnica onde tem estado instalada a Faculdade de Ciências da Universidade de Lisboa.
+Art. 11 - 1 - O Museu ocupará, conjuntamente com o Museu Nacional de História Natural, a totalidade dos imóveis sitos na Rua da Escola Politécnica onde tem estado instalada a Faculdade de Ciências da Universidade de Lisboa.
 
 2 - A reitoria da Universidade de Lisboa, conjuntamente com a comissão instaladora, definirá a afectação ao Museu dos meios humanos e materiais existentes na Universidade de Lisboa, atendendo às necessidades do Museu e na sequência de critérios estabelecidos de comum acordo.
 
 3 - Para prossecução do disposto no número anterior, o Ministério da Educação poderá, durante o período de instalação, autorizar a admissão de pessoal em regime de destacamento, nos termos legais em vigor.
 
-###### Art. 12.º Por despacho do Ministro da Educação, poderão ser criadas, nos termos legais em vigor, comissões técnicas ou científicas, que, quando necessário, emitirão os pareceres que lhes forem solicitados pela comissão instaladora.
+Art. 12.º Por despacho do Ministro da Educação, poderão ser criadas, nos termos legais em vigor, comissões técnicas ou científicas, que, quando necessário, emitirão os pareceres que lhes forem solicitados pela comissão instaladora.
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 22 de Abril de 1985.**
+Promulgado em 22 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 24 de Abril de 1985.**
+Referendado em 24 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

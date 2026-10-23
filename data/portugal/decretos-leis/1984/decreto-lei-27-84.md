@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01500/02150220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1984-660156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba087fc1bc2f98151f1c1beba7c7b4b9778995e9dd4f898a35a1df13eb885121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c08f8039bf67dc4671aa0613c347bd57bdc8c022b6ffe0af71c222dbc9c2e66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Propriedade Industrial
+- Instituto Nacional da Propriedade Industrial
+- Marca
+- Patente
+- Propriedade do Estado
+- Propriedade Industrial
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:139270:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:192654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439444:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:139270:por
+  label: "Revogado pelo DEC LEI.16/95.1995.01.24.MIE, DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1995-139270
+  date: '1995-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:08Z'
   warnings: []
   errors: []
 ---
@@ -102,19 +126,19 @@ Com o objectivo de estimular a formação profissional dos agentes oficiais pela
 
 Assim, usando da autorização conferida pela [Lei n.º 17/83](https://diariodarepublica.pt/dr/detalhe/lei/17-1983-439444), de 6 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 8.º, 15.º, 19.º, 21.º, 35.º, 53.º, 54.º, 72.º, 78.º, § 3.º, 90.º, 118.º, 119.º, 121.º, 123.º, § 1.º, 125.º, 132.º, 172.º, §§ 4.º, 5.º, 6.º e 7.º, 180.º, § 2.º, 181.º, 183.º, 186.º, 191.º, 207.º, 225.º, 238.º, § 5.º, 256.º, 257.º, 258.º, 263.º, 265.º, n.os 1.º, 2.º e 3.º, 266.º, 268.º, 276.º, § 4.º, 278.º, § único, e 281.º do [Decreto n.º 30679](https://diariodarepublica.pt/dr/detalhe/decreto/30679-1940-192654), de 24 de Agosto de 1940, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 8.º, 15.º, 19.º, 21.º, 35.º, 53.º, 54.º, 72.º, 78.º, § 3.º, 90.º, 118.º, 119.º, 121.º, 123.º, § 1.º, 125.º, 132.º, 172.º, §§ 4.º, 5.º, 6.º e 7.º, 180.º, § 2.º, 181.º, 183.º, 186.º, 191.º, 207.º, 225.º, 238.º, § 5.º, 256.º, 257.º, 258.º, 263.º, 265.º, n.os 1.º, 2.º e 3.º, 266.º, 268.º, 276.º, § 4.º, 278.º, § único, e 281.º do [Decreto n.º 30679](https://diariodarepublica.pt/dr/detalhe/decreto/30679-1940-192654), de 24 de Agosto de 1940, passam a ter a seguinte redacção:
 
-###### Art. 7.º A patente de invenção cairá no domínio público ao fim de 15 anos, contados da data da respectiva concessão.
+Art. 7.º A patente de invenção cairá no domínio público ao fim de 15 anos, contados da data da respectiva concessão.
 
 § único. A propriedade das invenções adquiridas pelo Estado é perpétua.
 
-###### Art. 8.º A concessão da patente dá o direito exclusivo de explorar industrialmente o invento em qualquer parte do território português e de aí produzir ou fabricar os objectos que constituem o dito invento ou em que este se manifeste, com a obrigação de o fazer de modo efectivo e em harmonia com as necessidades da economia nacional.
+Art. 8.º A concessão da patente dá o direito exclusivo de explorar industrialmente o invento em qualquer parte do território português e de aí produzir ou fabricar os objectos que constituem o dito invento ou em que este se manifeste, com a obrigação de o fazer de modo efectivo e em harmonia com as necessidades da economia nacional.
 
 § 1.º O exercício do direito de exploração em exclusivo, a que se refere o corpo do artigo, importa a realização efectiva de uma actividade industrial em qualquer parte do território português, não constituindo exploração do invento a simples importação, venda ou mera manipulação quer do produto patenteado quer do obtido mediante utilização do processo patenteado.
 
 § 2.º As invenções cujo objecto constitua monopólio do Estado não podem ser exploradas sem autorização do Ministro da Indústria e Energia.
 
-###### Art. 15.º Ao requerimento deverão juntar-se, em triplicado, os documentos seguintes, começando cada um em nova folha de papel:
+Art. 15.º Ao requerimento deverão juntar-se, em triplicado, os documentos seguintes, começando cada um em nova folha de papel:
 
 1.º Resumo do invento;
 
@@ -192,13 +216,13 @@ f) Ter a escala desenhada, quando a mesma se indique;
 
 g) Ser devidamente selados com estampilhas fiscais da taxa em vigor, inutilizadas nos termos estabelecidos na lei fiscal.
 
-###### Art. 19.º Da apresentação do pedido publicar-se-á no Boletim da Propriedade Industrial aviso com a transcrição do resumo, para o efeito de reclamação de quem se julgar prejudicado pela eventual concessão de patente.
+Art. 19.º Da apresentação do pedido publicar-se-á no Boletim da Propriedade Industrial aviso com a transcrição do resumo, para o efeito de reclamação de quem se julgar prejudicado pela eventual concessão de patente.
 
 § 1.º Salvo pedido expresso do requerente, a publicação do resumo será feita no Boletim relativo ao mês em que a patente foi solicitada.
 
 § 2.º Publicado o resumo, qualquer pessoa poderá requerer cópia das reivindicações do correspondente pedido de patente.
 
-###### Art. 21.º Decorrido o prazo fixado no artigo anterior sem que seja recebida qualquer reclamação, proceder-se-á a exame do pedido e, findo ele, será o processo estudado, informado e submetido a despacho.
+Art. 21.º Decorrido o prazo fixado no artigo anterior sem que seja recebida qualquer reclamação, proceder-se-á a exame do pedido e, findo ele, será o processo estudado, informado e submetido a despacho.
 
 § 1.º O exame do pedido será feito em primeiro lugar pelo Laboratório Nacional de Engenharia e Tecnologia Industrial e complementado depois pelo Instituto Nacional da Propriedade Industrial.
 
@@ -206,9 +230,9 @@ g) Ser devidamente selados com estampilhas fiscais da taxa em vigor, inutilizada
 
 § 3.º Decorridos os prazos previstos no artigo 191.º, poderão publicar-se os fascículos das patentes.
 
-###### Art. 35.º O proprietário de patente de invenção que não tenha pago a taxa devida no prazo legal tem o direito de renovar a patente durante o período de 6 meses, com o pagamento da taxa em dívida, acrescido do adicional de 50%, sob pena de caducidade.
+Art. 35.º O proprietário de patente de invenção que não tenha pago a taxa devida no prazo legal tem o direito de renovar a patente durante o período de 6 meses, com o pagamento da taxa em dívida, acrescido do adicional de 50%, sob pena de caducidade.
 
-###### Art. 53.º O pedido de depósito de modelo ou desenho far-se-á em requerimento, redigido em português, com as indicações seguintes:
+Art. 53.º O pedido de depósito de modelo ou desenho far-se-á em requerimento, redigido em português, com as indicações seguintes:
 
 1.º Nome, firma ou denominação social do requerente, sua nacionalidade, profissão e domicílio ou lugar em que está estabelecido;
 
@@ -218,7 +242,7 @@ g) Ser devidamente selados com estampilhas fiscais da taxa em vigor, inutilizada
 
 4.º País onde tenha apresentado o primeiro pedido de depósito e data dessa apresentação, se pretender reivindicar o direito de prioridade.
 
-###### Art. 54.º Ao pedido de depósito juntar-se-á o seguinte:
+Art. 54.º Ao pedido de depósito juntar-se-á o seguinte:
 
 1.º Tratando-se de modelo de utilidade, resumo, descrição e desenhos, nos termos do artigo 15.º, §§ 1.º, 2.º e 3.º, e apenas desenhos ou fotografias, nas mesmas condições, para os modelos e desenhos industriais;
 
@@ -230,15 +254,15 @@ g) Ser devidamente selados com estampilhas fiscais da taxa em vigor, inutilizada
 
 § 3.º Quando se trate de modelos e desenhos industriais e não se opte pela apresentação dos próprios objectos, poderão os requerentes juntar ao pedido, além das exigíveis, fotografias tiradas de diversos pontos que concorram para se formar do modelo ideia mais exacta.
 
-###### Art. 72.º O proprietário de depósito do modelo ou desenho que não tenha pago a taxa devida no prazo legal poderá obter a renovação do seu título durante o período de 6 meses, com o pagamento da taxa em dívida, acrescida do adicional de 50%.
+Art. 72.º O proprietário de depósito do modelo ou desenho que não tenha pago a taxa devida no prazo legal poderá obter a renovação do seu título durante o período de 6 meses, com o pagamento da taxa em dívida, acrescida do adicional de 50%.
 
-###### Art. 78.º ...
+Art. 78.º ...
 
 ...
 
 § 3.º O disposto neste artigo não se aplica às marcas de registo internacional nem à marcas cujo registo for requerido por estrangeiros não domiciliados nem estabelecidos em Portugal.
 
-###### Art. 90.º O registo das marcas será feito por produtos e serviços.
+Art. 90.º O registo das marcas será feito por produtos e serviços.
 
 § 1.º Compete à respectiva divisão da Direcção de Serviços de Marcas do Instituto Nacional da Propriedade Industrial fazer a classificação dos produtos e serviços, indicando as respectivas classes.
 
@@ -248,7 +272,7 @@ g) Ser devidamente selados com estampilhas fiscais da taxa em vigor, inutilizada
 
 § 4.º No caso previsto no parágrafo anterior ficará ressalvado ao requerente o direito de prioridade em relação aos produtos ou serviços que deverão ser objecto de novo ou novos pedidos.
 
-###### Art. 118.º A propriedade das marcas registadas pode ser transmitida a título gratuito ou oneroso.
+Art. 118.º A propriedade das marcas registadas pode ser transmitida a título gratuito ou oneroso.
 
 § 1.º A propriedade da marca registada é transmissível, independentemente do estabelecimento, se isso não poder induzir o público em erro quanto à proveniência do produto ou do serviço ou aos caracteres essenciais para a sua apreciação.
 
@@ -260,13 +284,13 @@ g) Ser devidamente selados com estampilhas fiscais da taxa em vigor, inutilizada
 
 § 5.º Presume-se que, nos termos do § 1.º, pode induzir o público em erro quanto à proveniência do produto ou serviço a transmissão de uma marca, registada a favor de um português ou estrangeiro estabelecido em Portugal, para português ou estrangeiro estabelecido fora de Portugal, quando nessa marca se faça expressa indicação da proveniência portuguesa do respectivo produto ou serviço.
 
-###### Art. 119.º O titular do registo de marca pode, por contrato escrito, conceder a outrem licença para a explorar, a título gratuito ou oneroso, em certa zona ou em todo o território português, para todos ou parte dos produtos ou serviços, se isso não puder induzir o público em erro quanto à sua proveniência ou aos caracteres essenciais para a sua apreciação. A utilização da marca feita pelo licenciado será considerada como feita pelo titular do registo.
+Art. 119.º O titular do registo de marca pode, por contrato escrito, conceder a outrem licença para a explorar, a título gratuito ou oneroso, em certa zona ou em todo o território português, para todos ou parte dos produtos ou serviços, se isso não puder induzir o público em erro quanto à sua proveniência ou aos caracteres essenciais para a sua apreciação. A utilização da marca feita pelo licenciado será considerada como feita pelo titular do registo.
 
 § 1.º O licenciado, salvo disposições contrárias contidas no contrato de licença, gozará de todas as faculdades concedidas ao titular do registo para todos os efeitos legais e, designadamente, para provar o direito à marca perante quaisquer organismos oficiais.
 
 § 2.º O direito obtido por meio de licença de exploração não pode ser alienado sem consentimento escrito e expresso do titular do registo, salvo disposição em contrário estabelecida no contrato de licença.
 
-###### Art. 121.º A transmissão da propriedade das marcas ou a licença de exploração não produzirão efeito, em relação a terceiros, enquanto não forem averbadas no Instituto Nacional da Propriedade Industrial.
+Art. 121.º A transmissão da propriedade das marcas ou a licença de exploração não produzirão efeito, em relação a terceiros, enquanto não forem averbadas no Instituto Nacional da Propriedade Industrial.
 
 § 1.º O averbamento far-se-á no título de registo da marca e no livro competente, a requerimento de qualquer dos interessados, instruído com o documento ou documentos comprovativos do facto da transmsisão ou da licença.
 
@@ -274,19 +298,19 @@ g) Ser devidamente selados com estampilhas fiscais da taxa em vigor, inutilizada
 
 § 3.º Do averbamento publicar-se-á aviso no Boletim da Propriedade Industrial.
 
-###### Art. 123.º ...
+Art. 123.º ...
 
 § 1.º As acções competentes poderão ser propostas dentro do prazo de 5 anos a contar da data do despacho de concessão do registo por quem tiver interesse directo na sua anulação.
 
-###### Art. 125.º O registo da marca produz todos os efeitos, a contar da sua data, durante o período de 10 anos, que é indefinidamente renovável, se assim for requerido nos últimos 6 meses, ou, mediante o pagamento de sobretaxa, até 6 meses após o seu termo.
+Art. 125.º O registo da marca produz todos os efeitos, a contar da sua data, durante o período de 10 anos, que é indefinidamente renovável, se assim for requerido nos últimos 6 meses, ou, mediante o pagamento de sobretaxa, até 6 meses após o seu termo.
 
-###### Art. 132.º Ao requerimento juntar-se-ão os diplomas ou outros documentos comprovativos da concessão.
+Art. 132.º Ao requerimento juntar-se-ão os diplomas ou outros documentos comprovativos da concessão.
 
 § 1.º A prova da concessão pode também fazer-se juntando ao requerimento um exemplar, devidamente legalizado, do periódico oficial em que se tiver conferido ou publicado a recompensa, ou somente a parte dele necessária e suficiente para identificação da mesma.
 
 § 2.º O Instituto Nacional da Propriedade Industrial poderá exigir a apresentação de traduções em português dos diplomas ou outros documentos redigidos em línguas pouco conhecidas.
 
-###### Art. 172.º ...
+Art. 172.º ...
 
 § 4.º Se, por efeitos de alteração, solicitada ou oficiosamente sugerida, nas reivindicações, nas matrizes tipográficas ou outras, a invenção, modelo, desenho, marca, nome ou insígnia dever considerar-se sensivelmente diferente do que se publicou inicialmente no Boletim da Propriedade Industrial, esse facto implicará publicação de novo aviso para reclamações e a prioridade de alteração será contada da data em que esta foi introduzida.
 
@@ -296,47 +320,47 @@ g) Ser devidamente selados com estampilhas fiscais da taxa em vigor, inutilizada
 
 § 7.º Até ao momento da decisão poderão autorizar-se outras rectificações, como as do nome, profissão ou sede do requerente, desde que sejam pedidas em requerimento suficientemente fundamentado e devidamente publicadas.
 
-###### Art. 180.º ...
+Art. 180.º ...
 
 ...
 
 § 2.º Além das cópias referidas nas disposições anteriores, deverão as partes oferecer mais 2 exemplares, em papel não selado, um dos quais se destina ao Laboratório Nacional de Engenharia e Tecnologia Industrial e outro a ser arquivado e servir de base à reforma do processo em caso de descaminho.
 
-###### Art. 181.º Apresentada a tréplica, ou quando tenha expirado qualquer dos prazos anteriores sem que haja resposta da parte a quem competia usar desse direito, proceder-se-á ao exame do pedido e, conjuntamente, à apreciação do alegado pelas partes, depois do que o processo será informado para despacho.
+Art. 181.º Apresentada a tréplica, ou quando tenha expirado qualquer dos prazos anteriores sem que haja resposta da parte a quem competia usar desse direito, proceder-se-á ao exame do pedido e, conjuntamente, à apreciação do alegado pelas partes, depois do que o processo será informado para despacho.
 
 § único. Ao exame são aplicáveis as disposições dos §§ 2.º e 3.º do artigo 21.º
 
-###### Art. 183.º A vistoria pode também partir da iniciativa do Instituto Nacional da Propriedade Industrial ou do Laboratório Nacional de Engenharia e Tecnologia Industrial, no caso de se verificar que ela é indispensável ao perfeito esclarecimento do processo.
+Art. 183.º A vistoria pode também partir da iniciativa do Instituto Nacional da Propriedade Industrial ou do Laboratório Nacional de Engenharia e Tecnologia Industrial, no caso de se verificar que ela é indispensável ao perfeito esclarecimento do processo.
 
 § único. ...
 
-###### Art. 186.º Se até ao momento da publicação do despacho de concessão ou de recusa se reconhecer que o pedido de patente, depósito ou registo a não merecia, será o processo submetido a despacho do director do Instituto Nacional da Propriedade Industrial, com informação minuciosa dos factos de que tenha havido conhecimento e que aconselhem a revogação da decisão proferida.
+Art. 186.º Se até ao momento da publicação do despacho de concessão ou de recusa se reconhecer que o pedido de patente, depósito ou registo a não merecia, será o processo submetido a despacho do director do Instituto Nacional da Propriedade Industrial, com informação minuciosa dos factos de que tenha havido conhecimento e que aconselhem a revogação da decisão proferida.
 
-###### Art. 191.º Os títulos de concessão só serão entregues aos interessados decorrido 1 mês sobre o termo do prazo de recurso ou, interposto este, depois de publicada a decisão judicial definitiva.
+Art. 191.º Os títulos de concessão só serão entregues aos interessados decorrido 1 mês sobre o termo do prazo de recurso ou, interposto este, depois de publicada a decisão judicial definitiva.
 
 § único. ...
 
-###### Art. 207.º Recebido o processo no tribunal, dar-se-á vista, por 20 dias, na secretaria à parte contrária, se a houver.
+Art. 207.º Recebido o processo no tribunal, dar-se-á vista, por 20 dias, na secretaria à parte contrária, se a houver.
 
 § 1.º A notificação da parte será feita no escritório do seu advogado constituído ou, não o havendo, no cartório do agente oficial da propriedade industrial devidamente identificado que a tenha representado no processo administrativo, com a prevenção de que só poderá intervir no processo através de advogado constituído.
 
 § 2.º Findo o prazo da vista, será o processo concluso para decisão final, que será proferida, salvo caso de justo impedimento, no prazo de 15 dias.
 
-###### Art. 225.º Incorre na sanção do artigo 400.º do Código Penal aquele que se intitular falsamente agente oficial ou fizer, por qualquer meio, publicidade tendente a fazer crer que possui essa qualidade.
+Art. 225.º Incorre na sanção do artigo 400.º do Código Penal aquele que se intitular falsamente agente oficial ou fizer, por qualquer meio, publicidade tendente a fazer crer que possui essa qualidade.
 
-###### Art. 238.º ...
+Art. 238.º ...
 
 ...
 
 § 5.º Em qualquer processo, considera-se atingida a fase de publicidade quando o pedido for publicado no Boletim da Propriedade Industrial.
 
-###### Art. 256.º Todas as importâncias serão pagas em numerário, com os requerimentos em que se solicitem os actos tabelados e constituem receitas do Instituto Nacional da Propriedade Industrial.
+Art. 256.º Todas as importâncias serão pagas em numerário, com os requerimentos em que se solicitem os actos tabelados e constituem receitas do Instituto Nacional da Propriedade Industrial.
 
 § 1.º As importâncias, depois de conferidas, serão lançadas no respectivo livro de receitas e processar-se-ão nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
 
 § 2.º As importâncias arrecadadas nos termos deste artigo serão repartidas entre os Ministérios das Finanças e do Plano e da Indústria e Energia, por despacho conjunto dos respectivos ministros.
 
-###### Art. 257.º - 1 - As taxas dos registos e da primeira anuidade de patentes e depósitos, bem como as dos respectivos títulos, serão pagas no prazo máximo de 1 ano a contar da publicação do respectivo aviso de concessão no Boletim da Propriedade Industrial.
+Art. 257.º - 1 - As taxas dos registos e da primeira anuidade de patentes e depósitos, bem como as dos respectivos títulos, serão pagas no prazo máximo de 1 ano a contar da publicação do respectivo aviso de concessão no Boletim da Propriedade Industrial.
 
 2 - As taxas periódicas serão pagas:
 
@@ -350,7 +374,7 @@ d) As de registo de nome ou de insígnia, no último ano do respectivo prazo.
 
 § único. O pagamento antecipado pode ser sempre aceite; o retardado só o será nos casos previstos no título respectivo e implicará o direito de cobrar as sobretaxas fixadas na tabela.
 
-###### Art. 258.º As taxas a que se referem as disposições anteriores não serão restituídas às partes.
+Art. 258.º As taxas a que se referem as disposições anteriores não serão restituídas às partes.
 
 § 1.º Mediante despacho do director do Instituto Nacional da Propriedade Industrial, poderão todavia ser restituídas, a requerimento do interessado, as que se reconhecer terem sido pagas indevidamente.
 
@@ -358,7 +382,7 @@ d) As de registo de nome ou de insígnia, no último ano do respectivo prazo.
 
 § 3.º A restituição das taxas de vistoria far-se-á por folha de liquidação documentada com cópia do respectivo requerimento, informação e despacho.
 
-###### Art. 263.º Os actos e termos do processo só podem ser promovidos:
+Art. 263.º Os actos e termos do processo só podem ser promovidos:
 
 a) Por um agente oficial da propriedade industrial ou por advogado constituído;
 
@@ -370,7 +394,7 @@ b) Pelo próprio interessado ou titular do direito, se for estabelecido ou domic
 
 § 3.º Aos funcionários do Estado é vedado o exercício do mandato.
 
-###### Art. 265.º ...
+Art. 265.º ...
 
 1.º Ser cidadão português, maior e não estar inibido dos seus direitos civis e políticos;
 
@@ -378,7 +402,7 @@ b) Pelo próprio interessado ou titular do direito, se for estabelecido ou domic
 
 3.º Ter cumprido os preceitos da lei militar, quando aplicáveis;
 
-###### Art. 266.º O provimento das vagas que ocorrerem no quadro dos agentes far-se-á mediante concurso documental entre indivíduos habilitados com qualquer das licenciaturas indicadas no artigo anterior.
+Art. 266.º O provimento das vagas que ocorrerem no quadro dos agentes far-se-á mediante concurso documental entre indivíduos habilitados com qualquer das licenciaturas indicadas no artigo anterior.
 
 § 1.º Os propostos que à data da morte ou impedimento definitivo do respectivo agente oficial satisfazem as condições estabelecidas no artigo 265.º e tiveram, pelo menos, 8 anos de exercício das suas funções poderão ser nomeados agentes oficiais pelo director do Instituto Nacional da Propriedade Industrial, ficando a vaga assim preenchida.
 
@@ -394,19 +418,19 @@ b) Pelo próprio interessado ou titular do direito, se for estabelecido ou domic
 
 § 7.º A apresentação dos documentos comprovativos dos requisitos exigidos, e bem assim dos factores de valorização e demais condições de preferência a que se referem os artigos 269.º e 270.º, tornar-se-á exigível quando houver lugar a provimento.
 
-###### Art. 268.º Dentro dos 8 dias seguintes ao da publicação de que trata a disposição antecedente, o júri, constituído pelo director do Instituto Nacional da Propriedade Industrial e por 2 directores de serviços nomeados pelo Ministro da Indústria e Energia, procederá ao exame dos documentos oferecidos pelos candidatos e à sua classificação.
+Art. 268.º Dentro dos 8 dias seguintes ao da publicação de que trata a disposição antecedente, o júri, constituído pelo director do Instituto Nacional da Propriedade Industrial e por 2 directores de serviços nomeados pelo Ministro da Indústria e Energia, procederá ao exame dos documentos oferecidos pelos candidatos e à sua classificação.
 
-###### Art. 276.º ...
+Art. 276.º ...
 
 ...
 
 § 4.º Findo o legítimo impedimento ou ausência, deve o agente apresentar-se e visar todos os papéis entregues pelo proposto, se para tal for notificado pelo director de serviço competente.
 
-###### Art. 278.º ...
+Art. 278.º ...
 
 § único. O director de serviços competente poderá, todavia, exigir em qualquer altura que comprovem a sua qualidade de mandatários com a apresentação das instruções dos clientes ou de procuração notarial.
 
-###### Art. 281.º Os agentes oficiais da propriedade industrial, pelas infracções disciplinares e erros de ofício que cometerem, ficam sujeitos às seguintes penalidades:
+Art. 281.º Os agentes oficiais da propriedade industrial, pelas infracções disciplinares e erros de ofício que cometerem, ficam sujeitos às seguintes penalidades:
 
 1.ª Advertência;
 
@@ -420,9 +444,9 @@ b) Pelo próprio interessado ou titular do direito, se for estabelecido ou domic
 
 § 2.º Dos despachos relativos à imposição das penalidades previstas neste artigo cabe recurso para o director do Instituto Nacional da Propriedade Industrial.
 
-###### Art. 2.º São revogados os artigos 78.º, §§ 4.º e 5.º, 87.º, n.os 2 e 4, alínea b), 97.º a 102.º, 151.º, n.º 6, e 269.º, § 3.º, do [Decreto n.º 30679](https://diariodarepublica.pt/dr/detalhe/decreto/30679-1940-192654), de 24 de Agosto de 1940.
+Art. 2.º São revogados os artigos 78.º, §§ 4.º e 5.º, 87.º, n.os 2 e 4, alínea b), 97.º a 102.º, 151.º, n.º 6, e 269.º, § 3.º, do [Decreto n.º 30679](https://diariodarepublica.pt/dr/detalhe/decreto/30679-1940-192654), de 24 de Agosto de 1940.
 
-###### Art. 3.º - 1 - As pessoas singulares que, não sendo agentes oficiais, tenham habitualmente promovido actos e termos de processo junto do Instituto Nacional da Propriedade Industrial, poderão receber, do competente director de serviços do Instituto Nacional da Propriedade Industrial, autorização especial para continuar essa actividade, munidas de procuração especial para cada processo.
+Art. 3.º - 1 - As pessoas singulares que, não sendo agentes oficiais, tenham habitualmente promovido actos e termos de processo junto do Instituto Nacional da Propriedade Industrial, poderão receber, do competente director de serviços do Instituto Nacional da Propriedade Industrial, autorização especial para continuar essa actividade, munidas de procuração especial para cada processo.
 
 2 - A autorização poderá também incluir a prática dos actos previstos no § 1.º do artigo 263.º do Código da Propriedade Industrial se for expressamente mencionada no despacho.
 
@@ -442,16 +466,16 @@ d) Revogação definitiva da autorização para o exercício da sua actividade j
 
 6 - Dos despachos relativos às autorizações, renovações e penalidades previstas nos parágrafos anteriores deste artigo cabe recurso para o director do Instituto Nacional da Propriedade Industrial.
 
-###### Art. 4.º As referências feitas no Código da Propriedade Industrial ao Ministro do Comércio e à Repartição da Propriedade Industrial entendem-se como feitas ao Ministro da Indústria e Energia e ao Instituto Nacional da Propriedade Industrial.
+Art. 4.º As referências feitas no Código da Propriedade Industrial ao Ministro do Comércio e à Repartição da Propriedade Industrial entendem-se como feitas ao Ministro da Indústria e Energia e ao Instituto Nacional da Propriedade Industrial.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Promulgado em 9 de Janeiro de 1984.**
+Promulgado em 9 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Janeiro de 1984.**
+Referendado em 10 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11800/18781880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1983-451440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1635cba42247415c43813e95a22a5e52675ae2748057436d45a526b65441f654
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b754b78e3c1c6ec560d3133f89f1c584f3c377250c19373178afb2be0553c48d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Planeamento Urbano
+- Política de Solos
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:25345938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632252:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345938:por
+  label: Revogado, a partir de 29.06.2014, o Dec Lei 152/82, de 03-maio, na redação do presente diploma, pela LEI.31/2014.30.05.2014.AR,
+    DR.IS [104] de 30.05.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2014-25345938
+  date: '2014-05-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:59Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +124,7 @@ Assim:
 
 No uso da autorização conferida pelo artigo 29.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 2.º, 6.º, 9.º, 11.º, 12.º, 14.º, 19.º e 20.º do [Decreto-Lei n.º 152/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1982-393009), de 3 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º, 6.º, 9.º, 11.º, 12.º, 14.º, 19.º e 20.º do [Decreto-Lei n.º 152/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1982-393009), de 3 de Maio, passam a ter a seguinte redacção:
 
 ###### ARTIGO 2.º — (Processo de delimitação das áreas)
 
@@ -192,12 +218,12 @@ São aplicáveis às áreas de desenvolvimento urbano prioritário e de constru�
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro - Roberto Artur da Luz Carneiro - Basílio Adolfo Mendonça Horta da Franca - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 3 de Maio de 1983.**
+Promulgado em 3 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Maio de 1983.**
+Referendado em 6 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

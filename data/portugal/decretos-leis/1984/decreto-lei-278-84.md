@@ -49,36 +49,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1984-382430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c18d2176f225a3c35afdcd535f7f910dee39f6765e5b85ffd638456251235945
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f304cfda6475e811916b104ad93b4f3afa2a16d66effa7110bd4fcf71a72b54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Nacional de Alimentação e Nutrição
+- Criação de Serviços
+- Definição de Competências
+- Orgânica
+- Produto Alimentar
+relationships:
+- type: cites
+  target: pt:dre:470453:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:18Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +108,11 @@ Entretanto, tendo em atenção, em primeiro lugar, a Lei Orgânica do Governo, e
 
 Nestes termos, ouvidos os órgãos do Governo das Regiões Autónomas dos Açores e da Madeira, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 1.º, o corpo e as alíneas b) e c) do artigo 2.º e o artigo 3.º, todos do [Decreto-Lei n.º 265/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1980-470453), de 7 de Agosto, passam a ter a seguinte redacção:
+Artigo único. O artigo 1.º, o corpo e as alíneas b) e c) do artigo 2.º e o artigo 3.º, todos do [Decreto-Lei n.º 265/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1980-470453), de 7 de Agosto, passam a ter a seguinte redacção:
 
-###### Artigo 1.º É criado junto do Centro de Estudos de Nutrição do Instituto Nacional de Saúde Dr. Ricardo Jorge o Conselho Nacional de Alimentação e Nutrição (CNAN).
+Artigo 1.º É criado junto do Centro de Estudos de Nutrição do Instituto Nacional de Saúde Dr. Ricardo Jorge o Conselho Nacional de Alimentação e Nutrição (CNAN).
 
-###### Art. 2.º O Conselho Nacional de Alimentação e Nutrição (CNAN) terá as seguintes atribuições:
+Art. 2.º O Conselho Nacional de Alimentação e Nutrição (CNAN) terá as seguintes atribuições:
 
 a) ...
 
@@ -113,7 +122,7 @@ c) Coordenar e apoiar a actividade dos organismos ou serviços públicos em mat�
 
 ...
 
-###### Art. 3.º - 1 - O Conselho será presidido pelo director do Instituto Nacional de Saúde Dr. Ricardo Jorge, que representará o Ministério da Saúde, e terá como vice-presidente o director do Instituto de Qualidade de Alimentar, que representará o Ministério da Agricultura, Florestas e Alimentação.
+Art. 3.º - 1 - O Conselho será presidido pelo director do Instituto Nacional de Saúde Dr. Ricardo Jorge, que representará o Ministério da Saúde, e terá como vice-presidente o director do Instituto de Qualidade de Alimentar, que representará o Ministério da Agricultura, Florestas e Alimentação.
 
 2 - O Conselho terá como vogais permanentes:
 
@@ -151,12 +160,12 @@ p) 1 representante da Direcção-Geral do Ensino Particular e Cooperativo.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1984. - Carlos Alberto da Mota Pinto - José Augusto Seabra - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto - Francisco José de Sousa Tavares - Carlos Montez Melancia.
 
-**Promulgado em 27 de Julho de 1984.**
+Promulgado em 27 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Julho de 1984.**
+Referendado em 27 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

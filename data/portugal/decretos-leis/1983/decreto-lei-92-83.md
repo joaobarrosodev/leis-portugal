@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1983-311038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea9a2dda83bd2556c321613ea32f5b8a1650928a23310eff92e73fb12f0bd4ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f486f6301084a58e04c4975b0aaa8aca5f3b2aa1ccd0bdede1a0ac6a929e5e5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Contrato de Concessão
+- Domínio Público Marítimo
+- Ministério da Habitação Obras Públicas e Transportes
+- Olhão
+relationships:
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:00Z'
   warnings: []
   errors: []
 ---
@@ -100,35 +109,35 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Ministério da Habitação, Obras Públicas e Transportes, através da Direcção-Geral de Portos, autorizado a conceder ao Município de Olhão, representado pela respectiva Câmara Municipal, nos termos do presente decreto-lei e das bases anexas que dele fazem parte integrante, o direito de uso privativo dos terrenos do domínio público marítimo situados na parte poente da ilha de Armona e assinalados na planta anexa ao presente diploma, com vista ao seu adequado aproveitamento turístico.
+Artigo 1.º Fica o Ministério da Habitação, Obras Públicas e Transportes, através da Direcção-Geral de Portos, autorizado a conceder ao Município de Olhão, representado pela respectiva Câmara Municipal, nos termos do presente decreto-lei e das bases anexas que dele fazem parte integrante, o direito de uso privativo dos terrenos do domínio público marítimo situados na parte poente da ilha de Armona e assinalados na planta anexa ao presente diploma, com vista ao seu adequado aproveitamento turístico.
 
-###### Art. 2.º A concessão é declarada de utilidade pública.
+Art. 2.º A concessão é declarada de utilidade pública.
 
-###### Art. 3.º O prazo da concessão é de 30 anos, contados da data da celebração do contrato.
+Art. 3.º O prazo da concessão é de 30 anos, contados da data da celebração do contrato.
 
-###### Art. 4.º O direito de uso privativo a que o artigo 1.º deste diploma se refere tem o conteúdo definido no artigo 21.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro.
+Art. 4.º O direito de uso privativo a que o artigo 1.º deste diploma se refere tem o conteúdo definido no artigo 21.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro.
 
-###### Art. 5.º A concessão entender-se-á outorgada, sem prejuízo da fiscalização a exercer, nos termos da lei, nos terrenos dominiais a que respeita, pelas autoridades competentes.
+Art. 5.º A concessão entender-se-á outorgada, sem prejuízo da fiscalização a exercer, nos termos da lei, nos terrenos dominiais a que respeita, pelas autoridades competentes.
 
-###### Art. 6.º - 1 - Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
+Art. 6.º - 1 - Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
 
 2 - Os regulamentos de exploração podem estabelecer a aplicação de coimas até 200000$00, revertendo o seu produto para a Câmara Municipal de Olhão.
 
-###### Art. 7.º Os limites máximos das taxas a cobrar pelo concessionário pela utilização de terrenos ou instalações ou prestação de serviços não previstos nos regulamentos municipais, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo sob proposta do concessionário.
+Art. 7.º Os limites máximos das taxas a cobrar pelo concessionário pela utilização de terrenos ou instalações ou prestação de serviços não previstos nos regulamentos municipais, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo sob proposta do concessionário.
 
-###### Art. 8.º A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante, e baixam assinadas pelo Ministro da Habitação, Obras Públicas e Transportes.
+Art. 8.º A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante, e baixam assinadas pelo Ministro da Habitação, Obras Públicas e Transportes.
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Bases anexas ao Decreto-Lei n.º 92/83
 
@@ -340,8 +349,8 @@ BASE XVIII
 
 EXTREMO POENTE DA ILHA DA ARMONA CONTENDO A LINHA POLIGONAL ENVOLVENTE DA ZONA A CONCESSIONAR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03800/04800484.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03800/04800484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03800/04800484.pdf)
 
 COORDENADAS (H. G. - P. C.) DOS VÉRTICES DA POLIGONAL ENVOLVENTE DA ZONA A CONCESSIONAR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03800/04800484.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03800/04800484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03800/04800484.pdf)

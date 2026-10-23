@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/26200/38193822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/482-1985-171902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6850ff5d292c3b41de09f5160df32458ddee4b652dc81fe5f4dfa2624a33d38e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b26e6d13a728190aba84efd108d6f04972ed3ac877b7fa8439c27706d7139d60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Instituto Superior de Engenharia
+- Lisboa
+- Pessoal não Docente
+- Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL NAO DOCENTE DOS INSTITUTOS SUPERIORES DE ENGENHARIA DO PORTO E DE COIMBRA, CONSTANTE\
+    \ DO MAPA ANEXO, PELA PORT 114/88 DE 17-FEV DR.IS [39] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-02-17'
+- type: amended_by
+  target: pt:dre:618536:por
+  label: "Alterado o art. 5º pelo DEC LEI.277/89.22.08.1989.ME, DR.IS [[192]] de 22.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1989-618536
+  date: '1989-08-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL NAO DOCENTE CONSTANTE DO MAPA ANEXO AO PRESENTE DIPLOMA, PELA PORT 970/93 DE 02-OUT
+    DR.IS-B [232]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DO PESSOAL NAO DOCENTE DO INSTITUTO SUPERIOR DE ENGENHARIA DO INSTITUTO POLITÉCNICO DO PORTO, CONSTANTE
+    DO MAPA ANEXO, PELA PORT 185/96 DE 30-MAI DR.IS-B [126]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-05-30'
+- type: amended_by
+  target: pt:dre:444767:por
+  label: "Alterado o quadro de pessoal não docente do Instituto Superior de Engenharia do Instituto Politécnico do Porto,\
+    \ constante do mapa anexo ao presente diploma, pela PORT.185/96.30.05.1996.PCM, DR.IS-B [126] de 30.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/185-1996-444767
+  date: '1996-05-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL NAO DOCENTE DO INSTITUTO SUPERIOR DE ENGENHARIA DO INSTITUTO POLITÉCNICO DE LISBOA,
+    PELA PORT 255/96 DE 16-JUL DR.IS-B [163]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-16'
+- type: amended_by
+  target: pt:dre:414387:por
+  label: "Alterado o quadro de pessoal não docente do Instituto Superior de Engenharia do Instituto Politécnico de Lisboa\
+    \ aprovado pelo presente diploma, pela PORT.255/96.16.07.1996.PCM, DR.IS-B [163] de 16.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-1996-414387
+  date: '1996-07-16'
+- type: amended_by
+  target: pt:dre:232771:por
+  label: "Substituído, na parte relativa ao grupo de pessoal de informática, o quadro de pessoal não docente do Instituto\
+    \ Superior de Engenharia do Instituto Politécnico de Lisboa, aprovado pelo pelo presente diploma, pela PORT.548/96.07.10.1996.PCM,\
+    \ DR.IS-B [232] de 07.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/548-1996-232771
+  date: '1996-10-07'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301844:por
+  label: Rectificado pela DECL.DD4659.06.03.1986.PCM, DR.IS [74]Supl de 31.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301844
+  date: '1986-03-06'
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 3.º e 4.º pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:52Z'
   warnings: []
   errors: []
 ---
@@ -191,16 +285,16 @@ Os encargos resultantes da execução deste diploma serão satisfeitos, no corre
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 28 de Outubro de 1985.**
+Promulgado em 28 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Outubro de 1985.**
+Referendado em 30 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa a que se refere o artigo 1.º do Decreto-Lei n.º 482/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26200/38193822.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26200/38193822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26200/38193822.pdf)

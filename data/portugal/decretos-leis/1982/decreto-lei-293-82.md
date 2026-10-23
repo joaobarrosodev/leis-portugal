@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/17100/22282234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,175 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56a983228908476295b92a893757459221ad1cd587492c7d4559dd3a2099d6fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca078f87b1445ba2a23fea01554f7a307fbae081c1b18a50e520f6581d8fc708
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Centro Nacional de Produção Cavalar
+- Comissão de Viticultura da Região dos Vinhos Verdes
+- Conselho Nacional de Agricultura e Pescas
+- Conselho Nacional do Comércio Interno
+- Criação de Serviços
+- Direcção Geral da Agricultura
+- Direcção Geral da Concorrência e Preços
+- Direcção Geral da Extensão Rural
+- Direcção Geral da Pecuária
+- Direcção Geral das Florestas
+- Direcção Geral das Indústrias Agrícolas Alimentares
+- Direcção Geral das Pescas
+- Direcção Geral de Coordenação Comercial
+- Direcção Geral de Fiscalização Económica
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Direcção Geral de Protecção da Produção Agrícola
+- Direcção Geral do Comércio
+- Direcção Geral do Comércio Alimentar
+- Direcção Geral do Comércio não Alimentar
+- Direcção Geral do Desenvolvimento e Coordenação das Pescas
+- Direcção Geral do Fomento Florestal
+- Direcção Geral do Ordenamento e Gestão Florestal
+- Direcção Geral dos Serviços Veterinários
+- Direcção Regional de Agricultura
+- Escola Profissional de Pesca
+- Extinção de Serviços
+- Federação dos Vinicultores da Região do Douro
+- Gabinete de Comunicação Social
+- Gabinete de Relações Externas das Pescas
+- Gabinete para a Integração Europeia
+- Inspecção dos Organismos de Coordenação Económica
+- Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares
+- Instituto de Gestão e Estruturação Fundiária
+- Instituto de Qualidade Alimentar
+- Instituto Nacional de Investigação Agrária
+- Instituto Nacional de Investigação Agrária e Extensão Rural
+- Instituto Nacional de Investigação das Pescas
+- Instituto Nacional de Veterinária
+- Instituto Nacional do Frio
+- Instituto Português de Conservas de Peixe
+- Integração de Serviços
+- Lisboa
+- Ministério da Agricultura Comércio e Pescas
+- OBRA Social
+- Orgânica
+- Parque Nacional da Peneda-Gerês
+- Quadro de Pessoal
+- Regime de Pessoal
+- Secretaria Geral
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:339837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444414:por
+  label: "Mantido em vigor, no âmbito do Ministério da Agricultura, Florestas e Alimentação, ressalvadas as alterações introduzidas\
+    \ pelo Decreto-Lei n.º 344-A/83, de 25 de Julho, pelo DEC LEI.451/83.27.12.1983.PCM, DR.IS [297] de 27.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1983-444414
+  date: '1983-12-27'
+- type: amended_by
+  target: pt:dre:325103:por
+  label: "Acrescentado o lugar de vice-presidente ao quadro I anexo, pela PORT.175/85.02.04.1985.PCM, DR.IS [77] de 02.04.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-1985-325103
+  date: '1985-04-02'
+- type: amended_by
+  target: pt:dre:195194:por
+  label: "Alterado o quadro de pessoal constante do anexo I do presente diploma, pela PORT.170/86.29.04.1986.MF, DR.IS [98]\
+    \ de 29.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-1986-195194
+  date: '1986-04-29'
+- type: amended_by
+  target: pt:dre:218569:por
+  label: "Criado um lugar no quadro de pessoal constante do quadro II anexo ao presente diploma, pela PORT.411/86.30.07.1986.MF,\
+    \ DR.IS [173] de 30.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1986-218569
+  date: '1986-07-30'
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Extinto o Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares, criado pela al.
+    h) do nº 1 do art. 10º do presente diploma, pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37] de 13.02.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:575326:por
+  label: "Extinta a Inspecção dos Organismos de Coordenação Económica do Ministério do Comércio e Turismo pelo DEC LEI.215/90.29.06.1990.MCT,\
+    \ DR.IS [148] de 29.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1990-575326
+  date: '1990-06-29'
+- type: amended_by
+  target: pt:dre:435397:por
+  label: "Extinta a Direcção Geral das Pescas pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A [139]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
+- type: amended_by
+  target: pt:dre:199846:por
+  label: "Extinta a Direcção-Geral da Concorrência e Preços, criada no âmbito do MACP, pelo presente diploma, e integrada\
+    \ no MCT pelo Dec Lei 23/84 de 14-Jan, pelo DEC LEI.222/96.25.11.1996.MECO, DR.IS-A [273] de 25.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1996-199846
+  date: '1996-11-25'
+- type: amended_by
+  target: pt:dre:339837:por
+  label: "Extintas, a partir da entrada em vigor da lei orgânica da Agência para a Qualidade Alimentar, as Divisões de Fiscalização\
+    \ dos produtos de Origem Vegetal e de Fiscalização dos Produtos de Origem Animal das direcções regionais de agricultura,\
+    \ pelo DEC LEI.180/2000.2000.08.10.PCM DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-2000-339837
+  date: '2000-08-10'
+- type: cites
+  target: pt:dre:561817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:397891:por
+  label: Rectificado o presente diploma pela DECL.DD6088.27.07.1982.PCM, DR.IS [183] de 10.08.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-397891
+  date: '1982-07-27'
+- type: repealed_by
+  target: pt:dre:660281:por
+  label: "Revogadas as disposições que contrariem o DEC LEI.23/84.1984.01.14.MCT DR.IS [12], pelo citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1984-660281
+  date: '1984-01-14'
+- type: repealed_by
+  target: pt:dre:649312:por
+  label: "Revogadas as disposições do DEC LEI.293/82, 30-Mar DR.IS [75] Supl, em tudo o que contrarie o nele estabelecido.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-a-1985-649312
+  date: '1985-03-30'
+- type: repealed_by
+  target: pt:dre:667910:por
+  label: "Revogado pelo DEC LEI.310-A/86.23.09.1986.MAPA, DR.IS [219]Supl de 23.09.1986, em tudo o que contrarie no estabelecido\
+    \ do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-a-1986-667910
+  date: '1986-09-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:34Z'
   warnings: []
   errors: []
 ---
@@ -434,18 +569,18 @@ As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por desp
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Julho de 1982.**
+Promulgado em 14 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Quadro do pessoal do Ministério da Agricultura, Comércio e Pescas a que se refere o artigo 15.º do Decreto-Lei n.º 293/82
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/17100/22282234.pdf))](https://files.diariodarepublica.pt/1s/1982/07/17100/22282234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/17100/22282234.pdf)
 
 ## ANEXO II
 
 Lugares do pessoal dirigente dos ex-Ministérios do Comércio e Turismo e da Agricultura e Pescas extintos nos termos do artigo 16.º do Decreto-Lei n.º 293/82.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/17100/22282234.pdf))](https://files.diariodarepublica.pt/1s/1982/07/17100/22282234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/17100/22282234.pdf)

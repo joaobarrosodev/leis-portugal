@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74ea2bcf7e7c17e65bd083953e50c44ff35ad0248619748511c8e7b66114069f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc0f3a391a72f537ab3cd6cd9d5a5d93743fc1bee6161a920c7fae5667a6edb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extinção de Serviços
+- IPE
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:242053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675603:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:319743:por
+  label: Rectificado pela DECL.DD6067.09.09.1982.PCM, DR.IS [221-Supl] de 23.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-319743
+  date: '1982-09-09'
+- type: repealed_by
+  target: pt:dre:242053:por
+  label: Revogado, com excepção do art. 14º, pelo DEC LEI.406/90.26.12.1990.MF, DR.IS [296]Supl de 26.12.1990, que, manteve
+    transitoriamente em vigor, nos termos do n.º 2 do seu art. 8.º, os actuais estatutos do IPE - Investimentos e Participações
+    do Estado, S. A. (IPE, S.A.)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-1990-242053
+  date: '1990-12-26'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:07Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +162,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto das Participações do Estado, criado pelo [Decreto-Lei n.º 163-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-c-1975-638886), de 27 de Março, e com estatuto de empresa pública, aprovado pelo [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, é pelo presente diploma transformado em sociedade anónima de capitais públicos, a qual se regerá pelos estatutos anexos e subsidiariamente pelas mormas aplicáveis às sociedades anónimas, passando a denominar-se IPE - Investimentos e Participações do Estado, S. A. R. L.
+Artigo 1.º O Instituto das Participações do Estado, criado pelo [Decreto-Lei n.º 163-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-c-1975-638886), de 27 de Março, e com estatuto de empresa pública, aprovado pelo [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, é pelo presente diploma transformado em sociedade anónima de capitais públicos, a qual se regerá pelos estatutos anexos e subsidiariamente pelas mormas aplicáveis às sociedades anónimas, passando a denominar-se IPE - Investimentos e Participações do Estado, S. A. R. L.
 
-###### Art. 2.º O IPE, S. A. R. L., mantém, sob a forma referida no artigo anterior, a personalidade jurídica do IPE, E. P., conservando todos os bens, direitos e obrigações integrantes do activo e do passivo deste.
+Art. 2.º O IPE, S. A. R. L., mantém, sob a forma referida no artigo anterior, a personalidade jurídica do IPE, E. P., conservando todos os bens, direitos e obrigações integrantes do activo e do passivo deste.
 
-###### Art. 3.º - 1 - Considera-se integrante do património do IPE, S. A. R. L., a titularidade das participações no capital de sociedades que pertenciam ao IPE, E. P., quer por as ter adquirido com fundos próprios, quer por lhe haverem sido transmitidas devidamente, por virtude do disposto no artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, e não terem sido até esta data objecto da providência prevista no artigo 8.º do mesmo diploma.
+Art. 3.º - 1 - Considera-se integrante do património do IPE, S. A. R. L., a titularidade das participações no capital de sociedades que pertenciam ao IPE, E. P., quer por as ter adquirido com fundos próprios, quer por lhe haverem sido transmitidas devidamente, por virtude do disposto no artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, e não terem sido até esta data objecto da providência prevista no artigo 8.º do mesmo diploma.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo.
 
@@ -127,19 +178,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Os dividendos distribuídos após a entrada em vigor do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, relativos a participações por ele transferidas para o IPE, E. P., mas que hajam sido percebidos pelas entidades ex-titulares das mesmas participações pertencem ao IPE, S. A. R. L., pelo que deverão, no prazo do n.º 3 deste artigo, ser depositados à ordem deste.
 
-###### Art. 4.º A gestão das participações cuja titularidade pertença a sociedades em que o IPE, S. A. R. L., detenha participação superior a 50% do capital respectivo compete às entidades titulares das mesmas.
+Art. 4.º A gestão das participações cuja titularidade pertença a sociedades em que o IPE, S. A. R. L., detenha participação superior a 50% do capital respectivo compete às entidades titulares das mesmas.
 
-###### Art. 5.º - 1 - A alienação de participações pelo IPE, S. A. R. L., seja qual for o modo da respectiva aquisição, far-se-á nos termos do direito comum.
+Art. 5.º - 1 - A alienação de participações pelo IPE, S. A. R. L., seja qual for o modo da respectiva aquisição, far-se-á nos termos do direito comum.
 
 2 - O disposto no número anterior é igualmente aplicável à aquisição de quaisquer participações pelo IPE, S. A. R. L.
 
 3 - Sem prejuízo do disposto no n.º 1 e quando o IPE, S. A. R. L., proceda a alienações conforme a legislação vigente em matéria de mobilização dos títulos da dívida pública representativos de direitos de indemnização por nacionalização, poderá converter os títulos assim recebidos ao valor nominal, em dinheiro, fazendo deles entrega ao Estado, desde que tais verbas se destinem a aumentos de capital em empresas por ele participadas ou à realização de capital em sociedades para concretização de projectos de investimento que, pelo seu efeito previsível na balança de pagamentos e pelo nível de emprego que irão criar, sejam reconhecidas como de interesse relevante para a economia nacional.
 
-###### Art. 6.º - 1 - Quando o Governo solicite a aquisição de participações no capital de sociedades ou a subscrição de aumento de capital ao IPE, S. A. R. L., e este considere não oferecerem tais operações perspectivas razoáveis de remuneração do capital a investir, terá o Governo de conceder-lhe, por força do Orçamento Geral do Estado ou de fundos autónomos, existentes ou a criar, subvenções de valor igual ao investimento solicitado, as quais serão escrituradas em conta especial.
+Art. 6.º - 1 - Quando o Governo solicite a aquisição de participações no capital de sociedades ou a subscrição de aumento de capital ao IPE, S. A. R. L., e este considere não oferecerem tais operações perspectivas razoáveis de remuneração do capital a investir, terá o Governo de conceder-lhe, por força do Orçamento Geral do Estado ou de fundos autónomos, existentes ou a criar, subvenções de valor igual ao investimento solicitado, as quais serão escrituradas em conta especial.
 
 2 - O disposto no número anterior será também aplicável às sociedades participadas pelo IPE, S. A. R. L., que, pela natureza dos serviços públicos que prestam, sejam submetidas ao mesmo regime por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do conselho de administração do IPE, S. A. R. L.
 
-###### Art. 7.º - 1 - As acções do IPE, S. A. R. L., apenas poderão ser adquiridas pelo Estado, pessoas colectivas de direito público e empresas públicas.
+Art. 7.º - 1 - As acções do IPE, S. A. R. L., apenas poderão ser adquiridas pelo Estado, pessoas colectivas de direito público e empresas públicas.
 
 2 - O capital social do IPE, S. A. R. L., é fixado em 5000 milhões de escudos e encontra-se integralmente realizado através da entrega de dotações de capital, em numerário, e das transferências de participações financeiras do Estado ou de outras entidades públicas, nos termos, designadamente, do artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, mesmo que à data da publicação do presente diploma já não façam parte do património do IPE, E. P., em virtude de por este terem sido vendidas.
 
@@ -151,7 +202,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - O direito a exigir a entrega prevista no n.º 5 implica, independentemente do seu exercício, a extinção dos créditos emergentes das transferências operadas pelo artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, por mero efeito deste diploma e a partir da sua entrada em vigor.
 
-###### Art. 8.º - 1 - Relativamente às participações transferidas para o IPE, E. P., será constituída, relativamente a cada uma das entidades públicas ex-titulares das mesmas, uma comissão de avaliação, se tal for requerido pelo IPE, S. A. R. L., ou pela entidade transferente, no prazo de 60 dias, a partir da data do despacho do Ministro de Estado e das Finanças e do Plano referido no n.º 5 do artigo 7.º
+Art. 8.º - 1 - Relativamente às participações transferidas para o IPE, E. P., será constituída, relativamente a cada uma das entidades públicas ex-titulares das mesmas, uma comissão de avaliação, se tal for requerido pelo IPE, S. A. R. L., ou pela entidade transferente, no prazo de 60 dias, a partir da data do despacho do Ministro de Estado e das Finanças e do Plano referido no n.º 5 do artigo 7.º
 
 2 - A comissão a que se refere o número anterior será composta por um perito nomeado pelo IPE, S. A. R. L., outro nomeado pela entidade pública ex-titular das participações a avaliar e um terceiro, que preside, nomeado pelo presidente do Tribunal da Relação de Lisboa, e que será o mesmo para todas as comissões a constituir ao abrigo do n.º 1 deste artigo.
 
@@ -161,63 +212,63 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Os peritos entregarão ao Ministro de Estado e das Finanças e do Plano o relatório e decisão da avaliação no prazo de 60 dias, a contar da data da última das nomeações dos membros da comissão.
 
-###### Art. 9.º - 1 - A avaliação prevista no artigo anterior corresponderá ao valor substancial da empresa, referido a 31 de Dezembro de 1976.
+Art. 9.º - 1 - A avaliação prevista no artigo anterior corresponderá ao valor substancial da empresa, referido a 31 de Dezembro de 1976.
 
 2 - O valor substancial é igual ao valor dos activos e passivos reavaliados, com referência à data referida no número anterior, de acordo com os critérios valorimétricos a aprovar pelo Ministro de Estado e das Finanças e do Plano, sob proposta do IPE, S. A. R. L.
 
-###### Art. 10.º - 1 - No prazo de 30 dias, a contar da conclusão da avaliação prevista nos artigos 8.º e 9.º, o IPE, S. A. R. L., procederá aos acertos das posições accionistas do Estado e demais entidades públicas ex-titulares das participações financeiras transferidas, decorrentes do resultado daquelas e da consequente posição relativa final que venham a assumir em função do valor real das transferências efectuadas, e emitirá o número de acções que perfaça, ao valor nominal, o valor resultante da redistribuição prevista no n.º 3 deste artigo, recebendo, em contrapartida, os certificados provisórios referidos no artigo 7.º, n.º 5.
+Art. 10.º - 1 - No prazo de 30 dias, a contar da conclusão da avaliação prevista nos artigos 8.º e 9.º, o IPE, S. A. R. L., procederá aos acertos das posições accionistas do Estado e demais entidades públicas ex-titulares das participações financeiras transferidas, decorrentes do resultado daquelas e da consequente posição relativa final que venham a assumir em função do valor real das transferências efectuadas, e emitirá o número de acções que perfaça, ao valor nominal, o valor resultante da redistribuição prevista no n.º 3 deste artigo, recebendo, em contrapartida, os certificados provisórios referidos no artigo 7.º, n.º 5.
 
 2 - As mais-valias ou as menos-valias das participações financeiras transferidas, apuradas pelas avaliações efectuadas nos termos do artigo 9.º, serão imputadas à conta transitória de reserva prevista no n.º 4 do artigo 7.º, procedendo-se à necessária redistribuição do capital social, por forma que a posição relativa de cada accionista corresponda ao valor das entradas, após o processo de avaliação.
 
 3 - O Ministro de Estado e das Finanças e do Plano fixará por despacho, sob proposta do IPE, S. A. R. L., a composição final do capital.
 
-###### Art. 11.º - 1 - Sem prejuízo do disposto nos artigos anteriores, o IPE, S. A. R. L., procederá igualmente à avaliação do seu património, em referência a 31 de Dezembro de 1981, de acordo com os critérios definidos no anexo 2, a qual deverá ser concluída e submetida à homologação do Ministro de Estado e das Finanças e do Plano no prazo de 15 dias, a contar da data da fixação da composição final do capital, nos termos do n.º 3 do artigo anterior.
+Art. 11.º - 1 - Sem prejuízo do disposto nos artigos anteriores, o IPE, S. A. R. L., procederá igualmente à avaliação do seu património, em referência a 31 de Dezembro de 1981, de acordo com os critérios definidos no anexo 2, a qual deverá ser concluída e submetida à homologação do Ministro de Estado e das Finanças e do Plano no prazo de 15 dias, a contar da data da fixação da composição final do capital, nos termos do n.º 3 do artigo anterior.
 
 2 - As mais-valias ou menos-valias resultantes da avaliação referida no número anterior serão imputadas globalmente às reservas da empresa.
 
-###### Art. 12.º O IPE, S. A. R. L., é equiparado ao Estado sempre que, relativamente a sociedades anónimas, existam, quanto a participações do Estado, disposições legais ou contratuais específicas.
+Art. 12.º O IPE, S. A. R. L., é equiparado ao Estado sempre que, relativamente a sociedades anónimas, existam, quanto a participações do Estado, disposições legais ou contratuais específicas.
 
-###### Art. 13.º As acções do IPE, S. A. R. L., bem como as obrigações que emita, poderão ser incluídas, para todos os efeitos, nas reservas das sociedades seguradoras, sem prejuízo do disposto no n.º 3 do artigo 5.º do estatuto anexo a este diploma.
+Art. 13.º As acções do IPE, S. A. R. L., bem como as obrigações que emita, poderão ser incluídas, para todos os efeitos, nas reservas das sociedades seguradoras, sem prejuízo do disposto no n.º 3 do artigo 5.º do estatuto anexo a este diploma.
 
-###### Art. 14.º - 1 - Ao IPE, S. A. R. L., será aplicável o regime fiscal que o artigo 15.º, n.os 1 e 2, do [Decreto-Lei n.º 271/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1972-675603), de 2 de Agosto, estabeleceu para as sociedades de controle.
+Art. 14.º - 1 - Ao IPE, S. A. R. L., será aplicável o regime fiscal que o artigo 15.º, n.os 1 e 2, do [Decreto-Lei n.º 271/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1972-675603), de 2 de Agosto, estabeleceu para as sociedades de controle.
 
 2 - O regime previsto no número anterior só vigorará depois de decorridos 3 anos após a entrada em vigor do presente diploma, uma vez que, durante esse período, o IPE, S. A. R. L., conserva a isenção que ao IPE, E. P., e às suas obras sociais foram atribuídas pelo [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, e pelo estatuto a ele anexo, a qual abrange todos os impostos, contribuições, taxas e emolumentos.
 
-###### Art. 15.º - 1 - Os funcionários do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores das empresas públicas, podem ser autorizados a exercer funções no IPE, S. A. R. L., em regime de requisição.
+Art. 15.º - 1 - Os funcionários do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores das empresas públicas, podem ser autorizados a exercer funções no IPE, S. A. R. L., em regime de requisição.
 
 2 - Os funcionários e trabalhadores a que se refere o número anterior conservam todos os direitos e regalias adquiridos no seu quadro de origem à data em que transitam para o IPE, S. A. R. L., incluindo diuturnidades, reforma e outros de que usufruiriam por antiguidade se tivessem permanecido naquele quadro.
 
-###### Art. 16.º - 1 - O presente diploma revoga o [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, bem como os artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho.
+Art. 16.º - 1 - O presente diploma revoga o [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, bem como os artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho.
 
 2 - No prazo de 120 dias, a contar da publicação deste diploma, o Governo promoverá a atribuição das funções que ao IPE, E. P., estavam cometidas relativamente ao cadastro das participações do sector público e à carreira do gestor público, regulada pelo [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro.
 
-###### Art. 17.º - 1 - E aprovado o estatuto do IPE, S. A. R. L., anexo, que se considera parte integrante deste diploma.
+Art. 17.º - 1 - E aprovado o estatuto do IPE, S. A. R. L., anexo, que se considera parte integrante deste diploma.
 
 2 - O presente estatuto não carece de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que haja sido publicado.
 
 3 - As eventuais alterações ao presente estatuto produzirão todos os seus efeitos independentemente de forma legislativa, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
-###### Art. 18.º Fica desde já convocada a assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração, que reunirá 1 mês após a data da entrada em vigor do presente diploma, mantendo-se em funções os actuais membros do conselho de gerência e da comissão de fiscalização do IPE, E. P., até à data da posse dos novos corpos sociais.
+Art. 18.º Fica desde já convocada a assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração, que reunirá 1 mês após a data da entrada em vigor do presente diploma, mantendo-se em funções os actuais membros do conselho de gerência e da comissão de fiscalização do IPE, E. P., até à data da posse dos novos corpos sociais.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Agosto de 1982.**
+Promulgado em 4 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de IPE - Investimentos e Participações do Estado, S. A. R. L.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de IPE - Investimentos e Participações do Estado, S. A. R. L.
 
-###### Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa.
+Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa.
 
 2 - Por deliberação do conselho de administração, poderá a sociedade criar, em qualquer ponto do território nacional ou fora dele, agências, delegações ou qualquer outra forma de representação.
 
 3 - É desde já criada uma delegação no Porto.
 
-###### Art. 3.º A sociedade tem por objecto:
+Art. 3.º A sociedade tem por objecto:
 
 a) Gerir as participações sociais cuja titularidade lhe pertença ou cujos poderes de gestão lhe hajam sido confiados por contrato;
 
@@ -225,7 +276,7 @@ b) Promover a constituição de sociedades e incentivar novas iniciativas empres
 
 c) Organizar e gerir serviços comuns a todas ou algumas das sociedades em cujo capital, directa ou indirectamente, participe, podendo, quando julgado necessário, e em ligação com as instituições de ensino ou formação, promover programas, cursos, estágios e seminários de formação e gestão de empresas.
 
-###### Art. 4.º Para realização do seu objecto estatutário, incumbe especialmente à sociedade:
+Art. 4.º Para realização do seu objecto estatutário, incumbe especialmente à sociedade:
 
 a) Exercer, nos termos da lei, os direitos inerentes às participações sociais que detenha;
 
@@ -239,7 +290,7 @@ e) Promover a criação, reorganização, reconversão, agrupamento, fusão e ci
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 5.º - 1 - O capital social é de 5000 milhões de escudos, dividido em 5 milhões de acções de 1000$00 cada uma.
+Art. 5.º - 1 - O capital social é de 5000 milhões de escudos, dividido em 5 milhões de acções de 1000$00 cada uma.
 
 2 - As acções são nominativas.
 
@@ -249,9 +300,9 @@ e) Promover a criação, reorganização, reconversão, agrupamento, fusão e ci
 
 5 - As despesas com o desdobramento dos títulos correrão por conta dos accionistas que o requeiram.
 
-###### Art. 6.º O capital social do IPE, S. A. R. L., e fixado em 5000 milhões de escudos e encontra-se integralmente realizado através da entrega de dotações de capital, em numerário, e das transferências de participações financeiras do Estado ou de outras entidades públicas nos termos, designadamente, do artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, mesmo que à data da publicação do presente diploma já não façam parte do IPE, E. P., em virtude de por este terem sido vendidas.
+Art. 6.º O capital social do IPE, S. A. R. L., e fixado em 5000 milhões de escudos e encontra-se integralmente realizado através da entrega de dotações de capital, em numerário, e das transferências de participações financeiras do Estado ou de outras entidades públicas nos termos, designadamente, do artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, mesmo que à data da publicação do presente diploma já não façam parte do IPE, E. P., em virtude de por este terem sido vendidas.
 
-###### Art. 7.º - 1 - O aumento do capital social depende de deliberação da assembleia geral.
+Art. 7.º - 1 - O aumento do capital social depende de deliberação da assembleia geral.
 
 2 - Poderá, contudo, a sociedade, por simples deliberação do conselho de administração, aumentar uma e mais vezes o capital social, desde que o aumento de capital deliberado se destine expressamente a assegurar ao Estado 51% do capital social.
 
@@ -259,15 +310,15 @@ e) Promover a criação, reorganização, reconversão, agrupamento, fusão e ci
 
 4 - Sem prejuízo da possível alienação do direito previsto no n.º 3 deste artigo, sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiriam poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.
 
-###### Art. 8.º As acções ou os direitos de subscrição só podem ser alienados entre accionistas ou às entidades compreendidas na enumeração do n.º 3 do artigo 5.º
+Art. 8.º As acções ou os direitos de subscrição só podem ser alienados entre accionistas ou às entidades compreendidas na enumeração do n.º 3 do artigo 5.º
 
-###### Art. 9.º A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+Art. 9.º A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 ### CAPÍTULO III — Dos órgãos sociais
 
 #### SECÇÃO I — Da assembleia geral
 
-###### Art. 10.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
+Art. 10.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
 
 2 - Deverão participar nos trabalhos da assembleia, sem direito a voto, os membros do conselho de administração e do conselho fiscal.
 
@@ -277,7 +328,7 @@ e) Promover a criação, reorganização, reconversão, agrupamento, fusão e ci
 
 5 - Os restantes accionistas deverão indicar, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.
 
-###### Art. 11.º - 1 - Compete à assembleia geral:
+Art. 11.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e decidir sobre a aplicação dos resultados do exercício;
 
@@ -295,13 +346,13 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações tomadas no âmbito das alíneas a), b) e d) do número anterior carecem absolutamente do voto favorável do Estado.
 
-###### Art. 12.º - 1 - A assembleia geral será convocada e dirigida pela respectiva mesa, que será composta por 1 presidente, 1 vice-presidente e 1 secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
+Art. 12.º - 1 - A assembleia geral será convocada e dirigida pela respectiva mesa, que será composta por 1 presidente, 1 vice-presidente e 1 secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
 
 2 - O mandato dos membros da mesa da assembleia geral é renovável.
 
-###### Art. 13.º A assembleia geral reunirá ordinariamente, pelo menos, uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando seja requerida por accionistas que representem, pelo menos, 10% do capital social.
+Art. 13.º A assembleia geral reunirá ordinariamente, pelo menos, uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando seja requerida por accionistas que representem, pelo menos, 10% do capital social.
 
-###### Art. 14.º - 1 - A cada fracção de 2% por capital social corresponderá 1 voto na assembleia geral.
+Art. 14.º - 1 - A cada fracção de 2% por capital social corresponderá 1 voto na assembleia geral.
 
 2 - Quando a aplicação da regra prevista no número anterior implique que os 2 maiores accionistas presentes para além do Estado não disponham, por si mesmos, de voto, será reduzida aquela percentagem na medida necessária para lhes permitir o voto autónomo.
 
@@ -309,7 +360,7 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 15.º - 1 - O conselho de administração será composto por 1 presidente e por 4 ou 6 administradores.
+Art. 15.º - 1 - O conselho de administração será composto por 1 presidente e por 4 ou 6 administradores.
 
 2 - O presidente e 2 ou 3 vogais, consoante o seu número global seja 4 ou 6, são eleitos exclusivamente pelos votos do Estado. Os restantes vogais são eleitos sem intervenção dos votos do Estado.
 
@@ -319,7 +370,7 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 5 - O mandato dos membros do conselho administrativo é de 3 anos e é renovável.
 
-###### Art. 16.º - 1 - Ao conselho de administração compete:
+Art. 16.º - 1 - Ao conselho de administração compete:
 
 a) Zelar, nos intervalos das reuniões da assembleia geral, pelo correcto cumprimento das decisões desta, em matéria da competência que lhe é atribuída pela alínea b) do n.º 1 do artigo 11.º;
 
@@ -341,7 +392,7 @@ e) Constituir mandatários com os poderes que julgue convenientes.
 
 3 - A comissão executiva poderá delegar, em qualquer dos seus membros, algum ou alguns dos poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições do exercício de tal delegação.
 
-###### Art. 17.º - 1 - Para o exercício da sua competência, o conselho de administração reúne trimestralmente e sempre que o seu presidente o convoque, por sua iniciativa, ou a pedido de 2 administradores, ou do presidente do conselho fiscal.
+Art. 17.º - 1 - Para o exercício da sua competência, o conselho de administração reúne trimestralmente e sempre que o seu presidente o convoque, por sua iniciativa, ou a pedido de 2 administradores, ou do presidente do conselho fiscal.
 
 2 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros.
 
@@ -353,7 +404,7 @@ e) Constituir mandatários com os poderes que julgue convenientes.
 
 6 - Nas suas faltas ou impedimentos, o presidente será substituído pelo administrador por ele designado de entre os membros da comissão executiva eleitos com os votos do Estado.
 
-###### Art. 18.º - 1 - A sociedade obriga-se:
+Art. 18.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de 2 dos membros da comissão executiva;
 
@@ -365,7 +416,7 @@ b) Pela assinatura de um membro da comissão executiva e de um procurador consti
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 19.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por 1 presidente, 2 vogais efectivos e 1 suplente, todos eleitos em assembleia geral.
+Art. 19.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por 1 presidente, 2 vogais efectivos e 1 suplente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos será revisor oficial de contas.
 
@@ -375,21 +426,21 @@ b) Pela assinatura de um membro da comissão executiva e de um procurador consti
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 20.º Permanecem ao serviço do IPE, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, incluindo a contagem de tempo de antiguidade, os trabalhadores que já se encontravam ao serviço do IPE, E. P., à data da publicação destes estatutos.
+Art. 20.º Permanecem ao serviço do IPE, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, incluindo a contagem de tempo de antiguidade, os trabalhadores que já se encontravam ao serviço do IPE, E. P., à data da publicação destes estatutos.
 
-###### Art. 21.º - 1 - O pessoal do IPE, S. A. R. L., fica sujeito ao contrato individual de trabalho.
+Art. 21.º - 1 - O pessoal do IPE, S. A. R. L., fica sujeito ao contrato individual de trabalho.
 
 2 - É aplicável ao regime de previdência do pessoal do IPE, S. A. R. L., sem prejuízo do disposto no artigo 20.º, o artigo 33.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
-###### Art. 22.º - 1 - O IPE, S. A. R. L., pode instituir e subsidiar obras de carácter social em benefício dos seus trabalhadores e dos seus familiares.
+Art. 22.º - 1 - O IPE, S. A. R. L., pode instituir e subsidiar obras de carácter social em benefício dos seus trabalhadores e dos seus familiares.
 
 2 - As obras sociais do IPE, S. A. R. L., beneficiam do regime que o artigo 24.º do [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, estabeleceu para as obras sociais do IPE, E. P.
 
-###### Art. 23.º O modo de organização dos trabalhadores do IPE, S. A. R. L., bem como a sua intervenção na vida da empresa, são os resultantes da lei.
+Art. 23.º O modo de organização dos trabalhadores do IPE, S. A. R. L., bem como a sua intervenção na vida da empresa, são os resultantes da lei.
 
 ### CAPÍTULO V — Aplicação dos resultados
 
-###### Art. 24.º Os resultados do exercício, quando positivos, terão a seguinte aplicação:
+Art. 24.º Os resultados do exercício, quando positivos, terão a seguinte aplicação:
 
 a) 10%, pelo menos, para a reserva prevista no artigo 191.º do Código Comercial;
 
@@ -401,17 +452,17 @@ d) O remanescente será afectado ao que a assembleia geral determinar.
 
 ### CAPÍTULO VI — Disposições diversas e transitórias
 
-###### Art. 25.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 25.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 26.º A transformação do IPE, E. P., em IPE, S. A. R. L., produz efeitos a partir da data da entrada em vigor do diploma de que é anexo o presente estatuto.
+Art. 26.º A transformação do IPE, E. P., em IPE, S. A. R. L., produz efeitos a partir da data da entrada em vigor do diploma de que é anexo o presente estatuto.
 
-###### Art. 27.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 27.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.
 
 3 - Salvo deliberação em contrário da assembleia geral, a liquidação será efectuada pelo conselho de administração, ao qual competirão todos os poderes referidos no artigo 134.º do Código Comercial.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19000/24162425.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19000/24162425.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19000/24162425.pdf)
 
 ## ANEXO II
 
@@ -451,7 +502,7 @@ c) Sujeitar as restantes rubricas do balanço a quaisquer correcções que, para
 
 3.1 - O valor de goodwill é calculado por aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19000/24162425.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19000/24162425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19000/24162425.pdf)
 
 3.2 - Para efeitos do disposto no presente diploma, utilizar-se-ão para os coeficientes definidos no n.º 3.1 os valores a seguir indicados:
 

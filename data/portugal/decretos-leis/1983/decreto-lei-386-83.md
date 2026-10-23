@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23800/36073607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1983-441524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6b302b69b181e9153c84ef8003f890d86d349d273e59fe9ed5934d334388f1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f28db4f6a8a2ec7150138d290c16609b9ed2e7c9064d7bfd46dcdff840f3d77a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- IPSS
+- Prorrogação de Prazo
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:193821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397370:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:193821:por
+  label: "Revogado pelo DEC LEI.29/86.19.02.1986.MTSS, DR.IS [41] de 19.02.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1986-193821
+  date: '1986-02-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:54Z'
   warnings: []
   errors: []
 ---
@@ -104,16 +125,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É prorrogado até 31 de Dezembro de 1984 o prazo fixado no artigo 2.º do [Decreto-Lei n.º 298/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1982-397370), de 29 de Julho, e no n.º 2 do artigo 94.º do Estatuto aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro.
+Artigo único. É prorrogado até 31 de Dezembro de 1984 o prazo fixado no artigo 2.º do [Decreto-Lei n.º 298/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1982-397370), de 29 de Julho, e no n.º 2 do artigo 94.º do Estatuto aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo.
 
-**Promulgado em 4 de Outubro de 1983.**
+Promulgado em 4 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Outubro de 1983.**
+Referendado em 7 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

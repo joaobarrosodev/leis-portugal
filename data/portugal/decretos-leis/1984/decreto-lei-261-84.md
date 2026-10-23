@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9526b9b9bbb6a87b6f4dc6e4edf93d50f512e3a90d0a12735bed80ce2071efd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 652cf86478fad6ac12fc5385a922d768571fad5d11efb552afe37c8e99441839
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- Carne
+- Comércio
+- Contra-ordenação
+- Controlo de Qualidade
+- Controlo Sanitário
+- Embalagem
+- Multa
+- Proteção do Consumidor
+- Regulamento
+- Transporte
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325558:por
+  label: "Suspendida, pelo prazo de 180 dias, a aplicação pelo DEC LEI.108/85.15.04.1985.MAI, DR.IS [87] de 15.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1985-325558
+  date: '1985-04-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Substituídas as guias previstas pelos art 19º., 20º. e 31º. pelo Dec-Lei 245/96.1996.12.20.MADRP DR.IS-A [294].\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-20'
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374375:por
+  label: "Revogado artigo 24.º do Regulamento das Condições Higiénicas a Observar na Preparação, Embalagem, Transporte, Conservação\
+    \ e Venda de Carnes Pré-Embaladas e o artigo 21.º do Regulamento das Condições Higiénicas a Observar nas Operações de\
+    \ Corte e Desossagem de Carcaças de Aves, aprovados no presente diploma, pelo DEC LEI.193/88.30.05.1988.MIE, DR.IS [125]\
+    \ de 30.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1988-374375
+  date: '1988-05-30'
+- type: repealed_by
+  target: pt:dre:575571:por
+  label: "Revogado o Regulamento aprovado pela alínea f) do artigo 1.º pelo DEC LEI.222/90.07.07.1990.MAPA, DR.IS [155] de\
+    \ 07.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1990-575571
+  date: '1990-07-07'
+- type: repealed_by
+  target: pt:dre:375427:por
+  label: "Revogado o Regulamento das Condições Higiénicas a Observar na Preparação de Carnes Picadas para Consumo Público,\
+    \ aprovado na alínea c) do artigo 1.º, pelo DEC LEI.245/93.08.07.1993.MA, DR.IS-A [158] de 08.07.1993, a partir da entrada\
+    \ em vigor da portaria referida no seu artigo 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-1993-375427
+  date: '1993-07-08'
+- type: repealed_by
+  target: pt:dre:164050:por
+  label: "Revogados os Regulamentos aprovados pelo art. 1º, pelo DEC LEI.158/97.1997.06.24.MADRP DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1997-164050
+  date: '1997-06-24'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:00Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +172,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovados os seguintes Regulamentos, que constituem parte integrante deste diploma:
+Artigo 1.º São aprovados os seguintes Regulamentos, que constituem parte integrante deste diploma:
 
 a) Regulamento das Condições de Higiene e Sanidade do Pessoal do Sector das Carnes;
 
@@ -121,29 +186,29 @@ e) Regulamento das Condições Higiénicas da Venda de Carnes e Seus Produtos;
 
 f) Regulamento das Condições Higiénicas a Observar nas Operações de Corte e Desossagem de Carcaças de Aves.
 
-###### Art. 2.º - 1 - As infracções aos Regulamentos aprovados pelo presente diploma serão punidas segundo o disposto no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, nomeadamente nos termos dos artigos 58.º, 59.º, 60.º e 61º
+Art. 2.º - 1 - As infracções aos Regulamentos aprovados pelo presente diploma serão punidas segundo o disposto no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, nomeadamente nos termos dos artigos 58.º, 59.º, 60.º e 61º
 
 2 - As contra-ordenações previstas nos Regulamentos anexos, em conjugação com o [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, serão apreciadas pelo director-geral da Pecuária, depois de investigadas e instruídas pela autoridade competente.
 
-###### Art. 3.º Os Regulamentos aprovados pelo presente diploma entram em vigor no prazo de 90 dias a contar da data da sua publicação, devendo ser revistos em prazo não superior a 3 anos.
+Art. 3.º Os Regulamentos aprovados pelo presente diploma entram em vigor no prazo de 90 dias a contar da data da sua publicação, devendo ser revistos em prazo não superior a 3 anos.
 
-###### Art. 4.º O presente diploma não é aplicável à Região Autónoma dos Açores, sendo-o à Região Autónoma da Madeira, com as adaptações julgadas convenientes.
+Art. 4.º O presente diploma não é aplicável à Região Autónoma dos Açores, sendo-o à Região Autónoma da Madeira, com as adaptações julgadas convenientes.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1984. - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - António Manuel Maldonado Gonelha - Manuel José Dias Soares Costa - Joaquim Ferreira do Amaral - João Rosado Correia - Francisco de Sousa Tavares.
 
-**Promulgado em 26 de Junho de 1984.**
+Promulgado em 26 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Junho de 1984.**
+Referendado em 27 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — Regulamento das Condições de Higiene e Sanidade do Pessoal do Sector das Carnes
 
-###### Artigo 1.º - 1 - O pessoal encarregado das operações de preparação, manipulação, distribuição e venda de carnes deve cumprir com rigor as normas elementares de higiene individual e manter elevado estado de asseio, tais como:
+Artigo 1.º - 1 - O pessoal encarregado das operações de preparação, manipulação, distribuição e venda de carnes deve cumprir com rigor as normas elementares de higiene individual e manter elevado estado de asseio, tais como:
 
 a) Conservar as mãos e antebraços bem lavados e as unhas curtas e limpas;
 
@@ -153,7 +218,7 @@ b) Lavar as mãos, as unhas e os antebraços com água e sabão ou soluto deterg
 
 3 - Os lavatórios a utilizar em estabelecimentos ou locais de preparação ou fabrico de carnes e seus produtos serão providos de torneiras de comando não manual.
 
-###### Art. 2.º - 1 - Quando o pessoal do matadouro for utilizado noutras tarefas relacionadas com a preparação e manipulação de carnes, deverá, sempre que abandonar o sector do matadouro, submeter-se a rigorosa higiene corporal e à mudança de vestuário.
+Art. 2.º - 1 - Quando o pessoal do matadouro for utilizado noutras tarefas relacionadas com a preparação e manipulação de carnes, deverá, sempre que abandonar o sector do matadouro, submeter-se a rigorosa higiene corporal e à mudança de vestuário.
 
 2 - Durante as horas de trabalho, o pessoal encarregado das operações de preparação, manipulação, transporte, distribuição e venda de carnes e seus produtos deve usar sempre vestimenta própria, em perfeito estado de limpeza, preferivelmente de cor clara e de fácil lavagem, que constará do seguinte:
 
@@ -171,29 +236,29 @@ c) Para o transporte de carnes ao ombro, resguardo na cabeça e pescoço (capuz)
 
 6 - O avental deverá proteger a parte anterior do corpo, desde o pescoço até ao joelho.
 
-###### Art. 3.º - 1 - O pessoal encarregado das operações inerentes à preparação, manipulação, transporte, distribuição e venda de carnes deve possuir boletim de sanidade, passado, nos termos das disposições legais vigentes, pela autoridade sanitária competente e comparecer nas respectivas delegações ou subdelegações de saúde nos prazos que pelas mesmas lhes forem indicados, para efeitos de exame médico.
+Art. 3.º - 1 - O pessoal encarregado das operações inerentes à preparação, manipulação, transporte, distribuição e venda de carnes deve possuir boletim de sanidade, passado, nos termos das disposições legais vigentes, pela autoridade sanitária competente e comparecer nas respectivas delegações ou subdelegações de saúde nos prazos que pelas mesmas lhes forem indicados, para efeitos de exame médico.
 
 2 - A actividade profissional do mesmo pessoal ficará também dependente das decisões resultantes de inspecções médicas eventuais que a autoridade sanitária considere conveniente e delibere efectuar.
 
-###### Art. 4.º - 1 - Os gerentes responsáveis pelos estabelecimentos abrangidos por este Regulamento deverão afastar das operações de preparação, manipulação, embalagem, transporte, distribuição e venda de carnes e enviar sem demora às autoridades sanitárias das respectivas áreas, para serem submetidos a exame médico, os empregados que tenham contraído, ou se suspeite terem contraído, qualquer doença contagiosa, bem como os empregados que sofram de infecções da pele ou doenças cutâneas repugnantes, doenças mentais, doenças do aparelho digestivo acompanhadas de diarreia, vómitos ou febre, inflamações da garganta, do nariz, dos ouvidos ou dos olhos e quaisquer outras doenças que considerem incompatíveis com as referidas operações.
+Art. 4.º - 1 - Os gerentes responsáveis pelos estabelecimentos abrangidos por este Regulamento deverão afastar das operações de preparação, manipulação, embalagem, transporte, distribuição e venda de carnes e enviar sem demora às autoridades sanitárias das respectivas áreas, para serem submetidos a exame médico, os empregados que tenham contraído, ou se suspeite terem contraído, qualquer doença contagiosa, bem como os empregados que sofram de infecções da pele ou doenças cutâneas repugnantes, doenças mentais, doenças do aparelho digestivo acompanhadas de diarreia, vómitos ou febre, inflamações da garganta, do nariz, dos ouvidos ou dos olhos e quaisquer outras doenças que considerem incompatíveis com as referidas operações.
 
 2 - Iguais precauções deverão ser tomadas relativamente aos empregados que tenham estado em contacto com indivíduos afectados por doenças intestinais diarreicas, em especial quando forem seus conviventes.
 
 3 - O procedimento acima referido será ainda tomado quando houver razão para suspeitar que um empregado está sofrendo de febre tifóide, paratifóide ou toxi-infecção de origem alimentar, ou tiver estado em contacto com pessoa portadora de infecção intestinal acompanhada de diarreia.
 
-###### Art. 5.º As licenças para actividades relacionadas com a preparação, manipulação, transporte, distribuição e venda de carnes e seus produtos só devem ser concedidas a indivíduos que garantam o cumprimento de normas satisfatórias de higiene.
+Art. 5.º As licenças para actividades relacionadas com a preparação, manipulação, transporte, distribuição e venda de carnes e seus produtos só devem ser concedidas a indivíduos que garantam o cumprimento de normas satisfatórias de higiene.
 
-###### Art. 6.º O pessoal deverá dispor de convenientes instalações sanitárias, para um e para outro sexo, e bem assim de vestiários com armários individuais, tanto no sector do matadouro, como no do estabelecimento de preparação de carnes.
+Art. 6.º O pessoal deverá dispor de convenientes instalações sanitárias, para um e para outro sexo, e bem assim de vestiários com armários individuais, tanto no sector do matadouro, como no do estabelecimento de preparação de carnes.
 
-###### Art. 7.º Nas operações de manipulação, preparação, embalagem, transporte e distribuição de carnes, o pessoal deverá acatar os preceitos de disciplina e de higiene recomendados pela autoridade veterinária ou sanitária.
+Art. 7.º Nas operações de manipulação, preparação, embalagem, transporte e distribuição de carnes, o pessoal deverá acatar os preceitos de disciplina e de higiene recomendados pela autoridade veterinária ou sanitária.
 
-###### Art. 8.º Ao pessoal dos estabelecimentos ou locais de preparação ou fabrico, armazenagem e venda de carnes e seus produtos não é permitido comer, fumar, cuspir ou expectorar em qualquer dependência ou local de trabalho dos mesmos estabelecimentos.
+Art. 8.º Ao pessoal dos estabelecimentos ou locais de preparação ou fabrico, armazenagem e venda de carnes e seus produtos não é permitido comer, fumar, cuspir ou expectorar em qualquer dependência ou local de trabalho dos mesmos estabelecimentos.
 
-###### Art. 9.º As práticas de lamber o dedo ao embrulhar a carne ou soprar para dentro dos sacos de embalagem são expressamente proibidas.
+Art. 9.º As práticas de lamber o dedo ao embrulhar a carne ou soprar para dentro dos sacos de embalagem são expressamente proibidas.
 
-###### Art. 10.º Na laboração dos estabelecimentos abrangidos pelo presente Regulamento deverão ser observadas as disposições do Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais e dos diplomas vigentes sobre medicina do trabalho, designadamente as que se referem às medidas a tomar com vista a prevenir os inconvenientes do trabalho a baixas temperaturas.
+Art. 10.º Na laboração dos estabelecimentos abrangidos pelo presente Regulamento deverão ser observadas as disposições do Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais e dos diplomas vigentes sobre medicina do trabalho, designadamente as que se referem às medidas a tomar com vista a prevenir os inconvenientes do trabalho a baixas temperaturas.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.
 
 ## ANEXO II
 
@@ -201,15 +266,15 @@ Regulamento das condições Higiénicas a Observar na Preparação, Embalagem, T
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Entende-se por «carnes pré-embaladas» as peças ou porções de carne, desossada ou não, especialmente preparada para venda ao público e acondicionada em embalagens de origem devidamente aprovadas, em conformidade com a legislação em vigor.
+Artigo 1.º Entende-se por «carnes pré-embaladas» as peças ou porções de carne, desossada ou não, especialmente preparada para venda ao público e acondicionada em embalagens de origem devidamente aprovadas, em conformidade com a legislação em vigor.
 
-###### Art. 2.º Os estabelecimentos de preparação de carnes pré-embaladas serão assistidos por um médico veterinário cuja designação seja homologada pela Direcção-Geral da Pecuária, salvaguardado o regime das incompatibilidades.
+Art. 2.º Os estabelecimentos de preparação de carnes pré-embaladas serão assistidos por um médico veterinário cuja designação seja homologada pela Direcção-Geral da Pecuária, salvaguardado o regime das incompatibilidades.
 
-###### Art. 3.º As operações de preparação, embalagem e conservação de carnes pré-embaladas, bem como a exposição destas para venda, deverão efectuar-se sob a acção contínua do frio artificial e com estrito observância das condições higiénicas prescritas neste Regulamento.
+Art. 3.º As operações de preparação, embalagem e conservação de carnes pré-embaladas, bem como a exposição destas para venda, deverão efectuar-se sob a acção contínua do frio artificial e com estrito observância das condições higiénicas prescritas neste Regulamento.
 
 ### CAPÍTULO II — Normas processuais do licenciamento
 
-###### Art. 4.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de preparação de carnes pré-embaladas devem solicitar autorização neste sentido à Direcção-Geral da Pecuária, em requerimento apresentado nos serviços regionais de agricultura da área do estabelecimento, nos termos da alínea c) do artigo 37.º do [Decreto Regulamentar n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1983-453224), de 13 de Julho, e do qual constem:
+Art. 4.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de preparação de carnes pré-embaladas devem solicitar autorização neste sentido à Direcção-Geral da Pecuária, em requerimento apresentado nos serviços regionais de agricultura da área do estabelecimento, nos termos da alínea c) do artigo 37.º do [Decreto Regulamentar n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1983-453224), de 13 de Julho, e do qual constem:
 
 a) A identidade ou firma do requerente, bem como o número atribuído pelo Registo Nacional de Pessoas Colectivas, e a sua residência ou sede social;
 
@@ -237,7 +302,7 @@ e) Outros elementos que a Direcção-Geral da Pecuária exigir, nos termos da le
 
 4 - Indicação do médico veterinário que irá dar assistência ao estabelecimento, a qual incluirá, designadamente, a inspecção sanitária das carnes a laborar.
 
-###### Art. 5.º - 1 - Depois de concluída a instalação de harmonia com o projecto aprovado, o interessado solicitará vistoria à Direcção-Geral da Pecuária, por intermédio dos serviços regionais competentes.
+Art. 5.º - 1 - Depois de concluída a instalação de harmonia com o projecto aprovado, o interessado solicitará vistoria à Direcção-Geral da Pecuária, por intermédio dos serviços regionais competentes.
 
 2 - Nas vistorias intervirão sempre, além dos representantes da Direcção-Geral da Pecuária e dos serviços regionais competentes, o delegado ou subdelegado de saúde e o veterinário municipal do concelho onde o estabelecimento se situa, podendo, sempre que necessário, ser requisitada a intervenção de outros técnicos.
 
@@ -247,15 +312,15 @@ e) Outros elementos que a Direcção-Geral da Pecuária exigir, nos termos da le
 
 5 - A licença sanitária poderá ser renovada anualmente pelos competentes serviços regionais, quando reconheçam que se mantêm as condições de funcionamento do estabelecimento, sem prejuízo de suspensão da mesma, em qualquer momento, por efeito de intervenção da Direcção-Geral da Pecuária, sendo dado circunstanciado conhecimento do facto aos serviços regionais competentes, por forma que estes possam actuar.
 
-###### Art. 6.º As pessoas singulares ou colectivas interessadas na venda de carnes pré-embaladas, além das obrigações impostas pelas câmaras municipais, devem solicitar, para o efeito, prévia autorização à Direcção-Geral da Pecuária, em requerimento do qual constem:
+Art. 6.º As pessoas singulares ou colectivas interessadas na venda de carnes pré-embaladas, além das obrigações impostas pelas câmaras municipais, devem solicitar, para o efeito, prévia autorização à Direcção-Geral da Pecuária, em requerimento do qual constem:
 
 a) Os elementos de identificação referidos nas alíneas a) e b) do n.º 1 do artigo 4.º;
 
 b) A descrição dos locais de exposição e venda e as instalações frigoríficas para conservação do produto.
 
-###### Art. 7.º É aplicável à vistoria dos estabelecimentos de venda de carnes pré-embaladas o disposto no artigo 5.º
+Art. 7.º É aplicável à vistoria dos estabelecimentos de venda de carnes pré-embaladas o disposto no artigo 5.º
 
-###### Art. 8.º O regime de cobrança de taxas relativas a pedidos de montagem e aprovação dos estabelecimentos, vistorias, alteração ou adaptação de instalações, selagem e desselagem de máquinas ou aparelhos industriais e a averbamentos rege-se pelo disposto na [Portaria n.º 22106](https://diariodarepublica.pt/dr/detalhe/portaria/22106-1966-474957), de 7 de Julho de 1966, classificando-se os estabelecimentos, para o efeito, em:
+Art. 8.º O regime de cobrança de taxas relativas a pedidos de montagem e aprovação dos estabelecimentos, vistorias, alteração ou adaptação de instalações, selagem e desselagem de máquinas ou aparelhos industriais e a averbamentos rege-se pelo disposto na [Portaria n.º 22106](https://diariodarepublica.pt/dr/detalhe/portaria/22106-1966-474957), de 7 de Julho de 1966, classificando-se os estabelecimentos, para o efeito, em:
 
 a) De 1.ª classe - com matadouro anexo;
 
@@ -263,11 +328,11 @@ b) De 2.ª classe - sem matadouro anexo.
 
 ### CAPÍTULO III — Condições de instalação e funcionamento dos estabelecimentos
 
-###### Art. 9.º - 1 - Os estabelecimentos de preparação de carnes pré-embaladas só poderão ser abastecidos a partir de matadouros licenciados pela Direcção-Geral da Pecuária.
+Art. 9.º - 1 - Os estabelecimentos de preparação de carnes pré-embaladas só poderão ser abastecidos a partir de matadouros licenciados pela Direcção-Geral da Pecuária.
 
 2 - O transporte de carnes dos matadouros que não estejam anexos aos estabelecimentos de preparação deverá realizar-se o mais rapidamente possível, a temperatura não superior a +2ºC e em veículo aprovado conforme legislação em vigor, cujo compartimento de carga será selado.
 
-###### Art. 10.º - 1 - Os estabelecimentos deverão dispor de câmaras frigoríficas e de secções de corte, desossagem e embalagem.
+Art. 10.º - 1 - Os estabelecimentos deverão dispor de câmaras frigoríficas e de secções de corte, desossagem e embalagem.
 
 2 - As câmaras frigoríficas exclusivamente reservadas à conservação de carnes a laborar deverão estar convenientemente instaladas, ter capacidade para comportar o volume de carne necessário ao movimento de 2 dias e permitir que a temperatura ambiente seja mantida entre 0ºC e +2ºC, com humidade relativa entre 80% a 90%.
 
@@ -303,11 +368,11 @@ o) Estarem as instalações sanitárias devidamente isoladas das supracitadas de
 
 p) Disporem, à entrada, de lavatórios próprios para calçado.
 
-###### Art. 11.º Compete ao médico veterinário que preste assistência técnica a estes estabelecimentos superintender em todas as operações relativas ao corte, desossagem, embalagem, armazenagem e expedição dos produtos e verificação de temperaturas e, bem assim, vigiar o estado de asseio do pessoal e dos locais destinados àquelas operações, dos aparelhos, dos instrumentos ou utensílios e dos recipientes.
+Art. 11.º Compete ao médico veterinário que preste assistência técnica a estes estabelecimentos superintender em todas as operações relativas ao corte, desossagem, embalagem, armazenagem e expedição dos produtos e verificação de temperaturas e, bem assim, vigiar o estado de asseio do pessoal e dos locais destinados àquelas operações, dos aparelhos, dos instrumentos ou utensílios e dos recipientes.
 
-###### Art. 12.º Todas as deficiências verificadas pelo médico veterinário assistente ou pelas autoridades competentes nas suas visitas de inspecção deverão ser transmitidas, por escrito, ao proprietário ou responsável pelo estabelecimento, para que este providencie no sentido de as suprir prontamente.
+Art. 12.º Todas as deficiências verificadas pelo médico veterinário assistente ou pelas autoridades competentes nas suas visitas de inspecção deverão ser transmitidas, por escrito, ao proprietário ou responsável pelo estabelecimento, para que este providencie no sentido de as suprir prontamente.
 
-###### Art. 13.º - 1 - Cada estabelecimento deverá manter em dia um livro de registo, sem rasuras, entrelinhas ou espaços em branco, com indicação, por espécie animal, da origem e categoria das carnes, das quantidades preparadas, expedidas e em armazém.
+Art. 13.º - 1 - Cada estabelecimento deverá manter em dia um livro de registo, sem rasuras, entrelinhas ou espaços em branco, com indicação, por espécie animal, da origem e categoria das carnes, das quantidades preparadas, expedidas e em armazém.
 
 2 - O livro referido no número anterior, rubricado nos serviços regionais competentes, conterá termo de abertura e de encerramento.
 
@@ -315,43 +380,43 @@ p) Disporem, à entrada, de lavatórios próprios para calçado.
 
 ### CAPÍTULO IV — Condições a observar na preparação
 
-###### Art. 14.º É expressamente proibido preparar carnes pré-embaladas a partir de animais abatidos de urgência.
+Art. 14.º É expressamente proibido preparar carnes pré-embaladas a partir de animais abatidos de urgência.
 
-###### Art. 15.º As carcaças inteiras, suas metades ou quartos, para preparação nestes estabelecimentos, serão acondicionadas em câmaras frigoríficas, onde permanecerão durante 2 a 5 dias, no máximo, a temperaturas entre 0ºC e +2ºC.
+Art. 15.º As carcaças inteiras, suas metades ou quartos, para preparação nestes estabelecimentos, serão acondicionadas em câmaras frigoríficas, onde permanecerão durante 2 a 5 dias, no máximo, a temperaturas entre 0ºC e +2ºC.
 
-###### Art. 16.º Após a desossagem, deverão remover-se cuidadosamente as equírolas ósseas e os coágulos de sangue.
+Art. 16.º Após a desossagem, deverão remover-se cuidadosamente as equírolas ósseas e os coágulos de sangue.
 
-###### Art. 17.º Cada empregado deverá ter sempre à sua disposição um recipiente individual estanque, de preferência em material inoxidável, com os ângulos internos arredondados, destinado a recolher os ossos, os resíduos e outros detritos provenientes da desossagem e do preparo das carnes.
+Art. 17.º Cada empregado deverá ter sempre à sua disposição um recipiente individual estanque, de preferência em material inoxidável, com os ângulos internos arredondados, destinado a recolher os ossos, os resíduos e outros detritos provenientes da desossagem e do preparo das carnes.
 
-###### Art. 18.º A secção de corte e desossagem deverá ainda dispor de outros recipientes, nas condições indicadas no artigo anterior, munidos de tampa para fecho hermético, destinados a receber, à medida das necessidades, o conteúdo dos recipientes individuais.
+Art. 18.º A secção de corte e desossagem deverá ainda dispor de outros recipientes, nas condições indicadas no artigo anterior, munidos de tampa para fecho hermético, destinados a receber, à medida das necessidades, o conteúdo dos recipientes individuais.
 
-###### Art. 19.º Os ossos, os resíduos e outros detritos retirar-se-ão com a frequência necessária, e os recipientes, no fim de cada dia de trabalho, serão devidamente lavados e desinfectados.
+Art. 19.º Os ossos, os resíduos e outros detritos retirar-se-ão com a frequência necessária, e os recipientes, no fim de cada dia de trabalho, serão devidamente lavados e desinfectados.
 
-###### Art. 20.º As peças ou porções de carnes serão transportadas para a secção de embalagem em recipientes de material inoxidável, devidamente lavados ou desinfectados.
+Art. 20.º As peças ou porções de carnes serão transportadas para a secção de embalagem em recipientes de material inoxidável, devidamente lavados ou desinfectados.
 
-###### Art. 21.º Às operações de corte e de desossagem deve seguir-se imediatamente a de embalagem.
+Art. 21.º Às operações de corte e de desossagem deve seguir-se imediatamente a de embalagem.
 
-###### Art. 22.º As peças de carne, no decorrer das operações de corte, desossagem e embalagem, deverão manter uma temperatura interna não superior a +5ºC.
+Art. 22.º As peças de carne, no decorrer das operações de corte, desossagem e embalagem, deverão manter uma temperatura interna não superior a +5ºC.
 
 ### CAPÍTULO V — Condições a observar na embalagem
 
-###### Art. 23.º - 1 - Cada peça ou porção de carne pré-embalada com destino à venda será envolvida inteiramente por película transparente e própria para uso alimentar.
+Art. 23.º - 1 - Cada peça ou porção de carne pré-embalada com destino à venda será envolvida inteiramente por película transparente e própria para uso alimentar.
 
 2 - As peças ou porções referidas no n.º 1 deverão ser embaladas em caixas de madeira inodora, não resinosa e seca, ou de cartão impermeabilizado nas duas faces.
 
 3 - As embalagens serão revestidas com folha de papel sulfurizado ou película celulósica, ou outro material equivalente, nas condições anteriormente referidas, de modo a cobrir-lhes toda a superfície interior.
 
-###### Art. 24.º Qualquer outro tipo de embalagem a utilizar para este efeito carece de autorização especial da Direcção-Geral da Pecuária, ouvida a Direcção-Geral de Saúde e o Instituto de Qualidade Alimentar.
+Art. 24.º Qualquer outro tipo de embalagem a utilizar para este efeito carece de autorização especial da Direcção-Geral da Pecuária, ouvida a Direcção-Geral de Saúde e o Instituto de Qualidade Alimentar.
 
-###### Art. 25.º As embalagens deverão conter exteriormente, em caracteres bem visíveis e impressos em tinta inócua e indestingível, pelo menos as indicações do número de inscrição do estabelecimento na Direcção-Geral da Pecuária, das datas do abate e da embalagem, da marca de inspecção sanitária, da espécie animal e da categoria ou designação das peças de carne embaladas.
+Art. 25.º As embalagens deverão conter exteriormente, em caracteres bem visíveis e impressos em tinta inócua e indestingível, pelo menos as indicações do número de inscrição do estabelecimento na Direcção-Geral da Pecuária, das datas do abate e da embalagem, da marca de inspecção sanitária, da espécie animal e da categoria ou designação das peças de carne embaladas.
 
-###### Art. 26.º O armazenamento dos produtos pré-embalados far-se-á em câmaras frigoríficas a temperaturas compreendidas entre 0ºC e +2ºC.
+Art. 26.º O armazenamento dos produtos pré-embalados far-se-á em câmaras frigoríficas a temperaturas compreendidas entre 0ºC e +2ºC.
 
 ### CAPÍTULO VI — Condições do transporte, conservação e venda
 
-###### Art. 27.º O transporte das carnes pré-embaladas será realizado por forma a mantê-las a temperaturas compreendidas entre 0ºC e +2ºC.
+Art. 27.º O transporte das carnes pré-embaladas será realizado por forma a mantê-las a temperaturas compreendidas entre 0ºC e +2ºC.
 
-###### Art. 28.º - 1 - A conservação, a exposição para venda e a venda de carnes pré-embaladas só deverão efectuar-se em estabelecimentos dotados de instalações frigoríficas apropriadas, tais como vitrinas, armários ou balcões frigoríficos, nas quais as referidas carnes sejam mantidas, até sua aquisição pelo consumidor, a temperaturas compreendidas entre 0ºC e +2ºC.
+Art. 28.º - 1 - A conservação, a exposição para venda e a venda de carnes pré-embaladas só deverão efectuar-se em estabelecimentos dotados de instalações frigoríficas apropriadas, tais como vitrinas, armários ou balcões frigoríficos, nas quais as referidas carnes sejam mantidas, até sua aquisição pelo consumidor, a temperaturas compreendidas entre 0ºC e +2ºC.
 
 2 - Estarão patentes à vista do público termómetros, a fim de permitirem a verificação das temperaturas.
 
@@ -359,17 +424,17 @@ p) Disporem, à entrada, de lavatórios próprios para calçado.
 
 4 - As instalações frigoríficas utilizadas para a exposição ou conservação destas carnes deverão ser mantidas devidamente limpas.
 
-###### Art. 29.º - 1 - A venda das carnes pré-embaladas refrigeradas ao consumidor deverá efectuar-se rigorosamente dentro de 3 dias após a data da embalagem, nunca podendo exceder 8 dias a contar da data do abate dos animais de que as carnes provenham.
+Art. 29.º - 1 - A venda das carnes pré-embaladas refrigeradas ao consumidor deverá efectuar-se rigorosamente dentro de 3 dias após a data da embalagem, nunca podendo exceder 8 dias a contar da data do abate dos animais de que as carnes provenham.
 
 2 - Estes prazos só poderão ser prorrogados por autorização especial da autoridade que exercer vigilância sanitária.
 
 ### CAPÍTULO VII — Condições de higiene e sanidade do pessoal
 
-###### Art. 30.º - 1 - Todo o pessoal que prepare, manipule ou venda carnes pré-embaladas deverá possuir boletim de sanidade passado nos termos das disposições legais vigentes e comparecer na respectiva delegação ou subdelegação de saúde nos prazos que pelas mesmas lhe forem indicados, para efeito de exame médico.
+Art. 30.º - 1 - Todo o pessoal que prepare, manipule ou venda carnes pré-embaladas deverá possuir boletim de sanidade passado nos termos das disposições legais vigentes e comparecer na respectiva delegação ou subdelegação de saúde nos prazos que pelas mesmas lhe forem indicados, para efeito de exame médico.
 
 2 - A actividade profissional dos mesmos indivíduos ficará também dependente das decisões resultantes de inspecções médicas eventuais que a autoridade sanitária considere convenientes e delibere efectuar.
 
-###### Art. 31.º - 1 - É obrigatória a declaração dos casos de doença ou simples suspeita de doença dos empregados do estabelecimento de preparação, manipulação e venda de carnes pré-embaladas, a qual será transmitida à autoridade sanitária do concelho de residência dos mesmos empregados quer por estes quer por intermédio do gerente responsável pelo estabelecimento em que aqueles exerçam a sua actividade profissional.
+Art. 31.º - 1 - É obrigatória a declaração dos casos de doença ou simples suspeita de doença dos empregados do estabelecimento de preparação, manipulação e venda de carnes pré-embaladas, a qual será transmitida à autoridade sanitária do concelho de residência dos mesmos empregados quer por estes quer por intermédio do gerente responsável pelo estabelecimento em que aqueles exerçam a sua actividade profissional.
 
 2 - O pessoal doente ou suspeito de doença não poderá continuar a manipular carne e deve ser presente, sem demora, a exame médico por autoridade sanitária.
 
@@ -377,47 +442,47 @@ p) Disporem, à entrada, de lavatórios próprios para calçado.
 
 4 - Iguais cuidados deverão ser tomados relativamente a empregados que tenham estado em contacto com pessoa portadora de afecção intestinal acompanhada de diarreia.
 
-###### Art. 32.º - 1 - Durante as horas de trabalho, os empregados na manipulação ou preparação de carnes pré-embaladas usarão vestimenta adequada, em perfeito estado de limpeza, de cor clara e de fácil lavagem e desinfecção, bem como calçado adequado.
+Art. 32.º - 1 - Durante as horas de trabalho, os empregados na manipulação ou preparação de carnes pré-embaladas usarão vestimenta adequada, em perfeito estado de limpeza, de cor clara e de fácil lavagem e desinfecção, bem como calçado adequado.
 
 2 - Para o pessoal masculino, essa vestimenta constará de bata, gorro ou boné e avental impermeável, e bata, avental e touca, devendo esta recobrir todo o cabelo, para o pessoal feminino.
 
 3 - O pessoal deverá dispor de convenientes instalações sanitárias, para um e para outro sexo, e bem assim de vestiários com armários individuais.
 
-###### Art. 33.º - 1 - No decorrer da manipulação, da preparação e do transporte das carnes os empregados deverão acatar os preceitos de disciplina e de higiene recomendados.
+Art. 33.º - 1 - No decorrer da manipulação, da preparação e do transporte das carnes os empregados deverão acatar os preceitos de disciplina e de higiene recomendados.
 
 2 - Para efeito do preceituado neste artigo, o pessoal deverá ter permanentemente à sua disposição, nos locais de trabalho, os necessários meios de limpeza, tais como lavatórios em número suficiente, sabão, solutos detergentes e desinfectantes apropriados, escovas de unhas e toalhas individuais em escrupuloso estado de asseio ou toalhas de papel e, quando possível, secadores de mãos automáticos.
 
-###### Art. 34.º Na laboração dos estabelecimentos abrangidos pelo presente Regulamento deverão ser observadas as disposições do Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais e dos diplomas vigentes sobre medicina do trabalho, nomeadamente as que se referem às medidas a tomar com vista a prevenir os inconvenientes do trabalho a baixas temperaturas.
+Art. 34.º Na laboração dos estabelecimentos abrangidos pelo presente Regulamento deverão ser observadas as disposições do Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais e dos diplomas vigentes sobre medicina do trabalho, nomeadamente as que se referem às medidas a tomar com vista a prevenir os inconvenientes do trabalho a baixas temperaturas.
 
 ### CAPÍTULO VIII — Disposições relativas à preparação, transporte e venda de carnes desossadas congeladas
 
-###### Art. 35.º - 1 - As operações de desossagem e de preparação de carnes congeladas só poderão ter lugar em estabelecimentos devidamente licenciados e que satisfaçam às mesmas condições higiénicas estabelecidas para a preparação de carnes pré-embaladas.
+Art. 35.º - 1 - As operações de desossagem e de preparação de carnes congeladas só poderão ter lugar em estabelecimentos devidamente licenciados e que satisfaçam às mesmas condições higiénicas estabelecidas para a preparação de carnes pré-embaladas.
 
 2 - A instalação destes estabelecimentos carece de parecer favorável prévio por parte da Junta Nacional dos Produtos Pecuários.
 
-###### Art. 36.º Após as sucessivas operações de preparação e de congelação, estas carnes deverão ser mantidas em câmara frigorífica que permita assegurar-lhes uma temperatura inferior ou igual a -18ºC.
+Art. 36.º Após as sucessivas operações de preparação e de congelação, estas carnes deverão ser mantidas em câmara frigorífica que permita assegurar-lhes uma temperatura inferior ou igual a -18ºC.
 
-###### Art. 37.º O transporte destas carnes deverá ser realizado por forma a mantê-las livres de contiguidades perigosas e a uma temperatura interna inferior ou igual a -18ºC, em veículos devidamente concebidos e equipados, não podendo os mesmos ser utilizados para outros fins que possam comprometer a salubridade daqueles produtos.
+Art. 37.º O transporte destas carnes deverá ser realizado por forma a mantê-las livres de contiguidades perigosas e a uma temperatura interna inferior ou igual a -18ºC, em veículos devidamente concebidos e equipados, não podendo os mesmos ser utilizados para outros fins que possam comprometer a salubridade daqueles produtos.
 
-###### Art. 38.º Os industriais que desejam receber carnes desossadas congeladas para o fabrico de produtos preparados com estas carnes deverão dispor de câmaras frigoríficas que permitam mantê-las nas condições acima referidas.
+Art. 38.º Os industriais que desejam receber carnes desossadas congeladas para o fabrico de produtos preparados com estas carnes deverão dispor de câmaras frigoríficas que permitam mantê-las nas condições acima referidas.
 
-###### Art. 39.º Os estabelecimentos de exposição e venda deste tipo de carnes deverão dispor de instalações frigoríficas apropriadas, tais como arcas, armários ou balcões frigoríficos, nas quais as referidas carnes serão mantidas por forma a assegurar-lhes uma temperatura interna inferior ou igual a -18ºC até sua aquisição pelo consumidor.
+Art. 39.º Os estabelecimentos de exposição e venda deste tipo de carnes deverão dispor de instalações frigoríficas apropriadas, tais como arcas, armários ou balcões frigoríficos, nas quais as referidas carnes serão mantidas por forma a assegurar-lhes uma temperatura interna inferior ou igual a -18ºC até sua aquisição pelo consumidor.
 
-###### Art. 40.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para a aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
+Art. 40.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para a aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
 
-###### Art. 41.º É concebido o prazo de 80 dias, contados da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alterações por virtude da publicação do presente diploma.
+Art. 41.º É concebido o prazo de 80 dias, contados da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alterações por virtude da publicação do presente diploma.
 
-###### Art. 42.º Não serão concedidas licenças sanitárias para a instalação e funcionamento de estabelecimentos de preparação de carnes a requerentes que não garantam o cumprimento das condições e requisitos higio-sanitários a observar quanto àqueles estabelecimentos, bem como aos que tenham já sido condenados por crime contra a saúde pública.
+Art. 42.º Não serão concedidas licenças sanitárias para a instalação e funcionamento de estabelecimentos de preparação de carnes a requerentes que não garantam o cumprimento das condições e requisitos higio-sanitários a observar quanto àqueles estabelecimentos, bem como aos que tenham já sido condenados por crime contra a saúde pública.
 
-###### Art. 43.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
+Art. 43.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.
 
 ## ANEXO III — Regulamento das Condições Higiénicas a Observar na Preparação de Carnes Picadas para Consumo Público
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Para os fins previstos neste diploma, entende-se por:
+Artigo 1.º Para os fins previstos neste diploma, entende-se por:
 
 a) Carnes picadas. - Todas as preparações vendidas no estado cru ou pré-cozido obtidas por picagem de carnes, quer estas carnes sejam misturadas ou não entre si e adicionadas ou não de produtos ou substâncias estranhas cujo emprego esteja devidamente autorizado;
 
@@ -425,17 +490,17 @@ b) Acondicionamento. - A operação que realiza a protecção das unidades de ve
 
 c) Embalagem. - A colocação das unidades acondicionadas num segundo continente.
 
-###### Art. 2.º Este diploma diz respeito às carnes picadas preparadas industrialmente para consumo público em instalações para este fim destinadas e devidamente aprovadas e licenciadas pela Direcção-Geral da Pecuária.
+Art. 2.º Este diploma diz respeito às carnes picadas preparadas industrialmente para consumo público em instalações para este fim destinadas e devidamente aprovadas e licenciadas pela Direcção-Geral da Pecuária.
 
-###### Art. 3.º Podem ser utilizadas para a preparação de carnes picadas acima referenciadas as carnes de animais de talho das espécies bovina, ovina, caprina e suína, bem como as carnes de coelho e de aves.
+Art. 3.º Podem ser utilizadas para a preparação de carnes picadas acima referenciadas as carnes de animais de talho das espécies bovina, ovina, caprina e suína, bem como as carnes de coelho e de aves.
 
-###### Art. 4.º As carnes picadas preparadas industrialmente devem ser congeladas ou refrigeradas e convenientemente acondicionadas, com estrita observância das condições higiénicas prescritas neste Regulamento.
+Art. 4.º As carnes picadas preparadas industrialmente devem ser congeladas ou refrigeradas e convenientemente acondicionadas, com estrita observância das condições higiénicas prescritas neste Regulamento.
 
-###### Art. 5.º Os estabelecimentos de preparação de carnes picadas serão assistidos por um médico veterinário cuja designação seja homologada pela Direcção-Geral da Pecuária, salvaguardado o regime das incompatibilidades.
+Art. 5.º Os estabelecimentos de preparação de carnes picadas serão assistidos por um médico veterinário cuja designação seja homologada pela Direcção-Geral da Pecuária, salvaguardado o regime das incompatibilidades.
 
 ### CAPÍTULO II — Normas processuais do licenciamento
 
-###### Art. 6.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de preparação de carnes picadas devem solicitar autorização nesse sentido à Direcção-Geral da Pecuária, em requerimento apresentado nos serviços regionais de agricultura da área do estabelecimento, nos termos da alínea c) do artigo 37.º do [Decreto Regulamentar n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1983-453224), de 13 de Julho, e do qual constem:
+Art. 6.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de preparação de carnes picadas devem solicitar autorização nesse sentido à Direcção-Geral da Pecuária, em requerimento apresentado nos serviços regionais de agricultura da área do estabelecimento, nos termos da alínea c) do artigo 37.º do [Decreto Regulamentar n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1983-453224), de 13 de Julho, e do qual constem:
 
 a) A identidade ou firma do requerente, bem como o número atribuído pelo Registo Nacional de Pessoas Colectivas, e a sua residência ou sede social;
 
@@ -463,7 +528,7 @@ e) Outros elementos que a Direcção-Geral da Pecuária exigir, nos termos da le
 
 4 - Indicação do médico veterinário que irá dar assistência ao estabelecimento, a qual incluirá, designadamente, a inspecção sanitária das carnes a laborar.
 
-###### Art. 7.º - 1 - Depois de concluída a instalação de harmonia com o projecto aprovado, o interessado solicitará vistoria à Direcção-Geral da Pecuária, por intermédio dos serviços regionais competentes.
+Art. 7.º - 1 - Depois de concluída a instalação de harmonia com o projecto aprovado, o interessado solicitará vistoria à Direcção-Geral da Pecuária, por intermédio dos serviços regionais competentes.
 
 2 - Nas vistorias intervirão sempre, além dos representantes da Direcção-Geral da Pecuária e dos serviços regionais competentes, o delegado ou subdelegado de saúde e o veterinário municipal do concelho onde o estabelecimento se situa, podendo, sempre que necessário, ser requisitada a intervenção de outros técnicos.
 
@@ -475,7 +540,7 @@ e) Outros elementos que a Direcção-Geral da Pecuária exigir, nos termos da le
 
 ### CAPÍTULO III — Condições de instalação e de equipamento
 
-###### Art. 8.º Os estabelecimentos destinados à preparação de carnes picadas devem dispor de:
+Art. 8.º Os estabelecimentos destinados à preparação de carnes picadas devem dispor de:
 
 a) Uma ou várias câmaras frigoríficas especialmente reservadas à armazenagem de carnes refrigeradas, congeladas ou ultracongeladas destinadas à referida preparação;
 
@@ -503,25 +568,25 @@ m) Abastecimento de água potável quente e fria, abundante e sob pressão, com 
 
 n) Sistema de esgotos adequado, com as respectivas aberturas interiores de escoamento munidas de ralos e sifões hidráulicos; o sistema de drenagem das águas residuais será objecto de projecto a submeter à aprovação da respectiva câmara municipal, ouvida a autoridade sanitária local, tendo em vista a sua ligação, ou à rede pública, ou a um adequado sistema de tratamento comprovado por projecto específico, devendo, em qualquer caso, ser sempre evitada a poluição do meio circundante.
 
-###### Art. 9.º - 1 - Os locais de laboração devem estar dispostos de modo a permitir uma progressão contínua das diferentes operações, sem retrocessos, cruzamentos ou sobreposições.
+Art. 9.º - 1 - Os locais de laboração devem estar dispostos de modo a permitir uma progressão contínua das diferentes operações, sem retrocessos, cruzamentos ou sobreposições.
 
 2 - Os mesmos locais devem ter dimensões suficientes para que as operações possam ser efectuadas em condições de higiene e de segurança satisfatórias.
 
-###### Art. 10.º Os locais de laboração devem ter:
+Art. 10.º Os locais de laboração devem ter:
 
 a) Pavimento em material imputrescível, impermeável, antiderrapante, resistente ao choque, fácil de lavar e desinfectar, ligeiramente inclinado e dotado de rede de drenagem para escoamento das águas de lavagem ou residuais;
 
 b) Paredes revestidas, pelo menos até 2 m de altura, de material liso, impermeável, lavável e resistente ao choque, e a restante extensão e o tecto estucados ou pintados a tinta de cor clara, em camada lisa e lavável a água adicionada de sabão ou detergente, sendo as arestas e ângulos substituídos por superfícies arredondadas e os peitoris das janelas talhados em bisel para dentro.
 
-###### Art. 11.º A armazenagem de carnes destinada a serem picadas deverá ser assegurada a uma temperatura compreendida entre 0ºC e +3ºC para as carnes refrigeradas e a uma temperatura inferior ou igual a -18ºC para as carnes congeladas ou ultracongeladas.
+Art. 11.º A armazenagem de carnes destinada a serem picadas deverá ser assegurada a uma temperatura compreendida entre 0ºC e +3ºC para as carnes refrigeradas e a uma temperatura inferior ou igual a -18ºC para as carnes congeladas ou ultracongeladas.
 
-###### Art. 12.º - 1 - Os locais de preparação de carnes e de embalagem deverão manter-se climatizados, quando em funcionamento, a uma temperatura ambiente inferior ou igual a +8ºC.
+Art. 12.º - 1 - Os locais de preparação de carnes e de embalagem deverão manter-se climatizados, quando em funcionamento, a uma temperatura ambiente inferior ou igual a +8ºC.
 
 2 - A humidade relativa deverá ser regulada por forma a não permitir que se produza qualquer condensação sobre as carnes a laborar.
 
 3 - Aqueles locais e, bem assim, os de armazenagem deverão dispor de termómetros registadores, devendo os respectivos gráficos ser conservados pelo mínimo de 30 dias, para observação do médico veterinário assistente e dos agentes de fiscalização.
 
-###### Art. 13.º - 1 - Nos locais de laboração de carnes e de embalagem devem ainda ser previstos:
+Art. 13.º - 1 - Nos locais de laboração de carnes e de embalagem devem ainda ser previstos:
 
 a) Dispositivos que assegurem:
 
@@ -545,23 +610,23 @@ Torneiras de comando não manual.
 
 2 - A lavagem e a desinfecção dos utensílios e outro material, no decorrer do fabrico, devem ser feitas por imersão em água a temperatura não inferior a +82ºC.
 
-###### Art. 14.º - 1 - A manutenção das carnes e dos recipientes utilizados para as mesmas deve ser concebida por forma que as carnes e os recipientes não contactem com o solo ou não fiquem sujeitos a poluição.
+Art. 14.º - 1 - A manutenção das carnes e dos recipientes utilizados para as mesmas deve ser concebida por forma que as carnes e os recipientes não contactem com o solo ou não fiquem sujeitos a poluição.
 
 2 - O material e os utensílios de trabalho devem ser resistentes à corrosão, não susceptíveis de alterar as carnes e fáceis de lavar e de desinfectar.
 
 ### CAPÍTULO IV — Higiene do pessoal, do material e dos locais
 
-###### Art. 15.º - 1 - Todo o pessoal que prepare, manipule ou venda estas carnes deverá possuir boletim de sanidade, passado, nos termos das disposições legais vigentes, pela delegação ou subdelegação de saúde do concelho de residência.
+Art. 15.º - 1 - Todo o pessoal que prepare, manipule ou venda estas carnes deverá possuir boletim de sanidade, passado, nos termos das disposições legais vigentes, pela delegação ou subdelegação de saúde do concelho de residência.
 
 2 - Os referidos indivíduos deverão ainda apresentar-se naquelas delegações ou subdelegações de saúde nos prazos que pelas mesmas lhes foram indicados, para efeitos de exame.
 
 3 - A actividade profissional dos mesmos indivíduos ficará também dependente das decisões resultantes de inspecções médicas eventuais que a autoridade sanitária considere convenientes e delibere efectuar.
 
-###### Art. 16.º - 1 - Os gerentes responsáveis pelos estabelecimentos abrangidos por este Regulamento deverão afastar das operações de preparação, manipulação e venda destas carnes e enviar, sem demora, às autoridades sanitárias das respectivas áreas, para serem submetidos a exame médico, os empregados que tenham contraído ou se suspeite terem contraído qualquer doença contagiosa, bem como os empregados que sofram de infecções da pele ou doenças cutâneas repugnantes, doenças mentais, doenças do aparelho digestivo acompanhadas de diarreia, vómitos ou febre, inflamações da garganta, do nariz, dos ouvidos ou dos olhos e quaisquer outras doenças que considerem incompatíveis com as referidas operações.
+Art. 16.º - 1 - Os gerentes responsáveis pelos estabelecimentos abrangidos por este Regulamento deverão afastar das operações de preparação, manipulação e venda destas carnes e enviar, sem demora, às autoridades sanitárias das respectivas áreas, para serem submetidos a exame médico, os empregados que tenham contraído ou se suspeite terem contraído qualquer doença contagiosa, bem como os empregados que sofram de infecções da pele ou doenças cutâneas repugnantes, doenças mentais, doenças do aparelho digestivo acompanhadas de diarreia, vómitos ou febre, inflamações da garganta, do nariz, dos ouvidos ou dos olhos e quaisquer outras doenças que considerem incompatíveis com as referidas operações.
 
 2 - Iguais precauções deverão ser tomadas relativamente aos empregados que tenham estado em contacto com indivíduos afectados por doenças intestinais diarreicas, em especial quando forem seus conviventes.
 
-###### Art. 17.º - 1 - O pessoal deverá observar os preceitos da maior limpeza corporal.
+Art. 17.º - 1 - O pessoal deverá observar os preceitos da maior limpeza corporal.
 
 2 - O pessoal deverá usar, durante as horas de trabalho, vestimenta e calçado adequados, em perfeito estado de limpeza, de cor clara e de fácil lavagem e desinfecção.
 
@@ -573,19 +638,19 @@ Torneiras de comando não manual.
 
 6 - As luvas devem ser lavadas e desinfectadas várias vezes no decorrer do trabalho e no fim de cada dia de laboração.
 
-###### Art. 18.º O trabalho de manipulação de carnes não deve ser permitido a pessoas susceptíveis de as contaminar por microrganismos patogénicos para o homem, especialmente às pessoas que:
+Art. 18.º O trabalho de manipulação de carnes não deve ser permitido a pessoas susceptíveis de as contaminar por microrganismos patogénicos para o homem, especialmente às pessoas que:
 
 a) Exerçam, noutros locais, uma actividade incompatível com a manipulação de carnes;
 
 b) Apresentem um penso nas mãos, com excepção de um penso estanque para protecção de ferida não purulenta.
 
-###### Art. 19.º - 1 - As máquinas, utensílios, instrumentos, bem como os recipientes que contactem com as carnes, deverão ser mantidos constantemente em bom estado de limpeza e de conservação, pelo que serão cuidadosamente lavados e desinfectados sempre que seja necessário e obrigatoriamente no fim das operações de cada turno e dia de trabalho.
+Art. 19.º - 1 - As máquinas, utensílios, instrumentos, bem como os recipientes que contactem com as carnes, deverão ser mantidos constantemente em bom estado de limpeza e de conservação, pelo que serão cuidadosamente lavados e desinfectados sempre que seja necessário e obrigatoriamente no fim das operações de cada turno e dia de trabalho.
 
 2 - Todas as partes dos aparelhos ou máquinas de picar, de preparação e de acondicionamento devem ser acessíveis aos produtos de limpeza, devendo os seus elementos desmontáveis e que contactem com os produtos, superfícies de corte, e discos especialmente, no final das operações ser separados, limpos, desinfectados e postos ao abrigo de todas as poluições, até voltarem a ser utilizados.
 
 3 - A limpeza e a desinfecção daqueles aparelhos e dos seus elementos devem ser efectuadas com água a uma temperatura não inferior a +82ºC, ou por qualquer outro processo autorizado.
 
-###### Art. 20.º - 1 - Os locais anteriormente citados devem ser mantidos em perfeito estado de limpeza.
+Art. 20.º - 1 - Os locais anteriormente citados devem ser mantidos em perfeito estado de limpeza.
 
 2 - Não é permitido comer, fumar, expectorar e cuspir nos locais de trabalho e de armazenagem, e bem assim utilizar serradura sobre o pavimento.
 
@@ -595,7 +660,7 @@ b) Apresentem um penso nas mãos, com excepção de um penso estanque para prote
 
 ### CAPÍTULO V — Preparação, acondicionamento e embalagem
 
-###### Art. 21.º - 1 - Na preparação deste tipo de carnes são somente autorizadas as carnes refrigeradas, congeladas ou ultracongeladas que satisfaçam às seguintes prescrições:
+Art. 21.º - 1 - Na preparação deste tipo de carnes são somente autorizadas as carnes refrigeradas, congeladas ou ultracongeladas que satisfaçam às seguintes prescrições:
 
 a) As carcaças, meias carcaças e quartos de animais de talho devem provir directamente de um matadouro devidamente licenciado;
 
@@ -605,7 +670,7 @@ c) As carcaças de aves e de coelhos evisceradas devem provir directamente de um
 
 2 - Todavia, as carnes acima designadas podem transitar por um entreposto frigorífico devidamente licenciado.
 
-###### Art. 22.º - 1 - As carnes destinadas a ser picadas devem apresentar, entre outras marcas regulamentares, uma etiqueta aposta, sob responsabilidade do médico veterinário inspector do estabelecimento de proveniência, quer sobre as carcaças, meias carcaças ou quartos de animais de talho, quer sobre as embalagens que contenham as carnes desossadas de animais de talho, de aves ou de coelhos.
+Art. 22.º - 1 - As carnes destinadas a ser picadas devem apresentar, entre outras marcas regulamentares, uma etiqueta aposta, sob responsabilidade do médico veterinário inspector do estabelecimento de proveniência, quer sobre as carcaças, meias carcaças ou quartos de animais de talho, quer sobre as embalagens que contenham as carnes desossadas de animais de talho, de aves ou de coelhos.
 
 2 - Nesta etiqueta são mencionados:
 
@@ -621,7 +686,7 @@ c) As datas de abate, de corte e desossagem e eventualmente de congelação ou d
 
 5 - As carnes congeladas ou ultracongeladas devem ser utilizadas na preparação de carnes picadas no máximo de 6 meses após a sua congelação ou ultracongelação.
 
-###### Art. 23.º - 1 - As carnes serão introduzidas no local de corte e de desossagem e depois no local de picagem, à medida das necessidades, devendo ser utilizadas até ao termo do fabrico, sem suspensão do trabalho.
+Art. 23.º - 1 - As carnes serão introduzidas no local de corte e de desossagem e depois no local de picagem, à medida das necessidades, devendo ser utilizadas até ao termo do fabrico, sem suspensão do trabalho.
 
 2 - Quando as técnicas utilizadas na preparação de carnes picadas exigirem o abaixamento a uma temperatura igual ou inferior a -3ºC da temperatura interna do produto, as operações poderão ser interrompidas o tempo necessário para que se verifique este abaixamento de temperatura.
 
@@ -635,19 +700,19 @@ c) As datas de abate, de corte e desossagem e eventualmente de congelação ou d
 
 7 - Estas carnes desossadas, não cortadas nem aparadas, serão armazenadas numa câmara frigorífica específica cuja temperatura seja inferior ou igual a +2ºC, devendo o corte e a aparagem das mesmas preceder imediatamente a operação de picagem.
 
-###### Art. 24.º É interdita a utilização ou a adição no decorrer da preparação de carnes picadas, com vista à sua conservação, à sua coloração ou à sua aromatização, de substâncias que não estejam expressamente autorizadas pela legislação em vigor.
+Art. 24.º É interdita a utilização ou a adição no decorrer da preparação de carnes picadas, com vista à sua conservação, à sua coloração ou à sua aromatização, de substâncias que não estejam expressamente autorizadas pela legislação em vigor.
 
-###### Art. 25.º - 1 - As carnes próprias para consumo não utilizadas na preparação de carnes picadas e que sejam destinadas ao fabrico de produtos cárneos são recolhidas em recipientes apropriados para este efeito, não devendo ser armazenadas nas câmaras frigoríficas reservadas às carnes destinadas a ser picadas.
+Art. 25.º - 1 - As carnes próprias para consumo não utilizadas na preparação de carnes picadas e que sejam destinadas ao fabrico de produtos cárneos são recolhidas em recipientes apropriados para este efeito, não devendo ser armazenadas nas câmaras frigoríficas reservadas às carnes destinadas a ser picadas.
 
 2 - Os resíduos e outros detritos da aparagem das carnes são recolhidos em recipientes especiais, estanques, de material inalterável, munidos de tampa para fecho hermético, assinalados a tinta de cor bem visível, não devendo ser armazenados nas câmaras frigoríficas reservadas às carnes destinadas a ser picadas.
 
 ### CAPÍTULO VI — Transporte e venda
 
-###### Art. 26.º - 1 - Desde o momento da sua preparação até à venda ao consumidor, as carnes picadas devem ser conservadas sem interrupção a temperatura compreendida entre 0ºC e +3ºC para as carnes refrigeradas, e a temperatura inferior ou igual a -18ºC para as carnes congeladas ou ultracongeladas.
+Art. 26.º - 1 - Desde o momento da sua preparação até à venda ao consumidor, as carnes picadas devem ser conservadas sem interrupção a temperatura compreendida entre 0ºC e +3ºC para as carnes refrigeradas, e a temperatura inferior ou igual a -18ºC para as carnes congeladas ou ultracongeladas.
 
 2 - Os veículos utilizados para o transporte de carnes picadas devem satisfazer às prescrições regulamentares.
 
-###### Art. 27.º - 1 - Os estabelecimentos autorizados para a venda de carnes picadas devem dispor de:
+Art. 27.º - 1 - Os estabelecimentos autorizados para a venda de carnes picadas devem dispor de:
 
 a) Uma ou mais câmaras ou expositores frigoríficos, por forma a permitir manter a totalidade das mesmas, desde a recepção até à entrega ao consumidor, a temperatura inferior ou igual a -18ºC para as carnes picadas congeladas ou ultracongeladas, e inferior ou igual a +3ºC para as carnes picadas refrigeradas;
 
@@ -665,9 +730,9 @@ c) Após estes prazos, os referidos produtos devem ser considerados anormais e r
 
 ### CAPÍTULO VII — Controle sanitário
 
-###### Art. 28.º A marca sanitária deve ser reproduzida em cada unidade de venda e nas embalagens que reagrupem as unidades de venda de carnes picadas.
+Art. 28.º A marca sanitária deve ser reproduzida em cada unidade de venda e nas embalagens que reagrupem as unidades de venda de carnes picadas.
 
-###### Art. 29.º - 1 - Sob responsabilidade do fabricante ou do detentor, no caso de falta comprovativa quanto a este, as carnes picadas devem satisfazer aos critérios microbiológicos que vierem a ser oficialmente estabelecidos.
+Art. 29.º - 1 - Sob responsabilidade do fabricante ou do detentor, no caso de falta comprovativa quanto a este, as carnes picadas devem satisfazer aos critérios microbiológicos que vierem a ser oficialmente estabelecidos.
 
 2 - O fabricante deve mandar proceder periodicamente às análises microbiológicas e químicas dos produtos destinados à venda, periodicidade essa que deve estar relacionada com a quantidade dos produtos fabricados.
 
@@ -675,21 +740,21 @@ c) Após estes prazos, os referidos produtos devem ser considerados anormais e r
 
 ### CAPÍTULO VIII
 
-###### Art. 30.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para a aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
+Art. 30.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para a aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
 
-###### Art. 31.º É concedido o prazo de 80 dias, contado da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alterações por virtude da publicação do presente diploma.
+Art. 31.º É concedido o prazo de 80 dias, contado da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alterações por virtude da publicação do presente diploma.
 
-###### Art. 32.º Não serão concedidas licenças sanitárias para a instalação e funcionamento de estabelecimentos de preparação de carnes a requerentes que não garantam o cumprimento das condições e requisitos hígio-sanitários a observar quanto àqueles estabelecimentos, bem assim como aos que tenham já sido condenados por crime contra a saúde pública.
+Art. 32.º Não serão concedidas licenças sanitárias para a instalação e funcionamento de estabelecimentos de preparação de carnes a requerentes que não garantam o cumprimento das condições e requisitos hígio-sanitários a observar quanto àqueles estabelecimentos, bem assim como aos que tenham já sido condenados por crime contra a saúde pública.
 
-###### Art. 33.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
+Art. 33.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.
 
 ## ANEXO IV — Regulamento das Condições Higiénicas do Transporte e Distribuição de Carnes e Seus Produtos
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - Compete à Direcção-Geral da Pecuária superintender em todos os assuntos de carácter hígio-sanitário relativos ao transporte e distribuição de carnes e seus produtos.
+Artigo 1.º - 1 - Compete à Direcção-Geral da Pecuária superintender em todos os assuntos de carácter hígio-sanitário relativos ao transporte e distribuição de carnes e seus produtos.
 
 2 - Compete aos serviços regionais de agricultura supervisionar, nas áreas a seu cargo, o cumprimento das disposições constantes deste Regulamento.
 
@@ -697,7 +762,7 @@ c) Após estes prazos, os referidos produtos devem ser considerados anormais e r
 
 4 - Nos estabelecimentos de abate e preparação de carnes de animais de talho, de aves e de coelhos onde a inspecção sanitária esteja a cargo de inspectores sanitários é atribuída a estes, na parte aplicável, a competência referida no número anterior.
 
-###### Art. 2.º - 1 - Para os fins previstos neste Regulamento, devem observar-se as definições de «carne», «carnes», «animais de talho ou reses», «carcaça», «miudezas», «aves», «coelhos» e «caça», estabelecidas nos respectivos regulamentos de inspecção sanitária.
+Art. 2.º - 1 - Para os fins previstos neste Regulamento, devem observar-se as definições de «carne», «carnes», «animais de talho ou reses», «carcaça», «miudezas», «aves», «coelhos» e «caça», estabelecidas nos respectivos regulamentos de inspecção sanitária.
 
 2 - Por «produtos cárneos» deve entender-se as carnes secas, salgadas, ensacadas, fumadas ou por qualquer outro modo preparadas ou conservadas, as banhas e o toucinho, bem como outros produtos derivados dos animais das espécies comestíveis que, com ou sem prévia preparação, são destinados ao consumo público.
 
@@ -705,23 +770,23 @@ c) Após estes prazos, os referidos produtos devem ser considerados anormais e r
 
 ### CAPÍTULO II — Condições higiénicas do transporte de carnes e seus produtos
 
-###### Art. 3.º - 1 - Para efeitos deste Regulamento, deve entender-se por «transporte» a deslocação de carnes e seus produtos desde o local de origem (abate, preparação ou armazenagem) até ao destino, dentro ou fora do País.
+Art. 3.º - 1 - Para efeitos deste Regulamento, deve entender-se por «transporte» a deslocação de carnes e seus produtos desde o local de origem (abate, preparação ou armazenagem) até ao destino, dentro ou fora do País.
 
 2 - O transporte de carnes e seus produtos poderá efectuar-se por via terrestre, marítima ou aérea.
 
-###### Art. 4.º - 1 - O transporte de carnes deverá efectuar-se o mais directamente possível, em recipiente ou veículo especialmente destinado a este fim, com estrita observância dos inerentes cuidados hígio-sanitários.
+Art. 4.º - 1 - O transporte de carnes deverá efectuar-se o mais directamente possível, em recipiente ou veículo especialmente destinado a este fim, com estrita observância dos inerentes cuidados hígio-sanitários.
 
 2 - Para favorecer a conservação das carnes, deve o transporte efectuar-se a «temperatura condicionada» e em recipiente ou veículo aprovado pela autoridade veterinária, em função da natureza e exigência de conservação do produto e do tempo a despender no seu transporte.
 
 3 - O transporte de carnes e produtos cárneos nos estados refrigerado ou congelado deve efectuar-se de acordo com as condições fixadas no anexo 1 deste Regulamento.
 
-###### Art. 5.º No transporte de carnes e seus produtos poderão ser utilizados, conforme os casos, os tipos de veículos mencionados no anexo 2 deste Regulamento.
+Art. 5.º No transporte de carnes e seus produtos poderão ser utilizados, conforme os casos, os tipos de veículos mencionados no anexo 2 deste Regulamento.
 
-###### Art. 6.º As carnes e seus produtos poderão também ser transportados, por qualquer via, em recipientes apropriados - contentores - com características que permitam mantê-los nas condições técnicas adequadas à sua conservação.
+Art. 6.º As carnes e seus produtos poderão também ser transportados, por qualquer via, em recipientes apropriados - contentores - com características que permitam mantê-los nas condições técnicas adequadas à sua conservação.
 
-###### Art. 7.º No transporte a grande distância, as carnes devem ser devidamente acondicionadas em câmaras frigoríficas, previamente higienizadas e instaladas em veículo apropriado.
+Art. 7.º No transporte a grande distância, as carnes devem ser devidamente acondicionadas em câmaras frigoríficas, previamente higienizadas e instaladas em veículo apropriado.
 
-###### Art. 8.º - 1 - Por «carnes frigorificadas» deve entender-se todas as carnes conservadas por acção do frio artificial, a saber:
+Art. 8.º - 1 - Por «carnes frigorificadas» deve entender-se todas as carnes conservadas por acção do frio artificial, a saber:
 
 a) Carnes refrigeradas - aquelas que mantêm a consistência da carne fresca e são conservadas a temperatura geralmente compreendida entre -2ºC e +2ºC;
 
@@ -729,7 +794,7 @@ b) Carnes congeladas e ultracongeladas - aquelas que se apresentam sob a forma d
 
 2 - As carnes, como os demais produtos alimentares, uma vez tratadas pelo frio, devem manter-se permanentemente submetidas à sua acção, durante o transporte ou armazenagem, até ao momento da distribuição ou venda ao consumidor.
 
-###### Art. 9.º - 1 - O transporte por estrada de carnes destinadas ao consumo público poderá ser efectuado em veículo automóvel, reboque, semi-reboque ou outro tipo de veículo, desde que a caixa transportadora do produto obedeça aos requisitos hígio-sanitários exigidos.
+Art. 9.º - 1 - O transporte por estrada de carnes destinadas ao consumo público poderá ser efectuado em veículo automóvel, reboque, semi-reboque ou outro tipo de veículo, desde que a caixa transportadora do produto obedeça aos requisitos hígio-sanitários exigidos.
 
 2 - São os seguintes os requisitos a que deve obedecer a caixa para o transporte de carnes:
 
@@ -761,7 +826,7 @@ b) Dispositivo para carga e descarga mecânicas;
 
 c) Dispositivo refrigerante, tal como acumulador de gelo intercalado no sistema de ventilação.
 
-###### Art. 10.º O transporte de carnes e seus produtos deve obedecer às seguintes normas:
+Art. 10.º O transporte de carnes e seus produtos deve obedecer às seguintes normas:
 
 a) As carnes frescas ou refrigeradas devem ser penduradas por forma a não contactarem com o pavimento;
 
@@ -777,23 +842,23 @@ f) As tripas, devidamente preparadas, serão sempre acondicionadas em separado d
 
 g) O sangue deve ser transportado em recipientes estanques, de material inalterável e facilmente lavável.
 
-###### Art. 11.º É interdito o transporte de carnes frescas preparadas ou conservadas juntamente com outros produtos susceptíveis de exalar odores ou provocar conspurcação.
+Art. 11.º É interdito o transporte de carnes frescas preparadas ou conservadas juntamente com outros produtos susceptíveis de exalar odores ou provocar conspurcação.
 
-###### Art. 12.º - 1 - Dentro do País, o transporte de carnes, gorduras e miudezas em estado fresco, semipreparado, refrigerado ou congelado, efectuar-se-á em recipiente ou veículo próprio, nos termos deste Regulamento.
+Art. 12.º - 1 - Dentro do País, o transporte de carnes, gorduras e miudezas em estado fresco, semipreparado, refrigerado ou congelado, efectuar-se-á em recipiente ou veículo próprio, nos termos deste Regulamento.
 
 2 - O disposto no número anterior não é exigível no transporte de banha fundida devidamente embalada, carnes preparadas secas ou fumadas, carnes conservadas em latas ou outros recipientes apropriados, carnes em salmoura e tripas secas ou salgadas, em barrica, as quais poderão ser transportadas em qualquer veículo normal, desde que as embalagens sejam convenientemente protegidas contra o calor excessivo, humidade, poeira e outros agentes de conspurcação, e preservadas contra embates ou pressões externas violentas.
 
-###### Art. 13.º Os veículos e recipientes utilizados no transporte de carnes frescas e frigorificadas, bem como no dos produtos cárneos, devem ser mantidos em perfeito estado de conservação e de limpeza.
+Art. 13.º Os veículos e recipientes utilizados no transporte de carnes frescas e frigorificadas, bem como no dos produtos cárneos, devem ser mantidos em perfeito estado de conservação e de limpeza.
 
-###### Art. 14.º As carnes frescas e as carnes preparadas ou conservadas que sejam conspurcadas ou alteradas no decorrer do transporte serão declaradas impróprias para consumo público e, nos termos da lei, destruídas, quando não possam ser aproveitadas industrialmente.
+Art. 14.º As carnes frescas e as carnes preparadas ou conservadas que sejam conspurcadas ou alteradas no decorrer do transporte serão declaradas impróprias para consumo público e, nos termos da lei, destruídas, quando não possam ser aproveitadas industrialmente.
 
-###### Art. 15.º Os veículos destinados ao transporte de carnes nunca deverão servir para fins que comprometam as condições higiénicas do mesmo transporte, designadamente para a condução de animais vivos, restos ou partes de animais dados como impróprios para o consumo público e despojos vários, tais como peles, cornos, cascos, pêlos e estrumes.
+Art. 15.º Os veículos destinados ao transporte de carnes nunca deverão servir para fins que comprometam as condições higiénicas do mesmo transporte, designadamente para a condução de animais vivos, restos ou partes de animais dados como impróprios para o consumo público e despojos vários, tais como peles, cornos, cascos, pêlos e estrumes.
 
-###### Art. 16.º Os veículos destinados ao transporte e distribuição de carnes devem ser submetidos à inspecção hígio-sanitária do veterinário municipal do concelho em que o veículo se encontra manifestado com a periodicidade que for determinada por aquela autoridade, mas nunca por períodos superiores a seis meses.
+Art. 16.º Os veículos destinados ao transporte e distribuição de carnes devem ser submetidos à inspecção hígio-sanitária do veterinário municipal do concelho em que o veículo se encontra manifestado com a periodicidade que for determinada por aquela autoridade, mas nunca por períodos superiores a seis meses.
 
-###### Art. 17.º O tubo de escape dos veículos automóveis destinados ao transporte e distribuição de carnes deve ser montado por forma a evitar a penetração dos gases provenientes da combustão no interior da caixa reservada ao acondicionamento dos referidos produtos.
+Art. 17.º O tubo de escape dos veículos automóveis destinados ao transporte e distribuição de carnes deve ser montado por forma a evitar a penetração dos gases provenientes da combustão no interior da caixa reservada ao acondicionamento dos referidos produtos.
 
-###### Art. 18.º - 1 - No caso especial de transporte de carnes a curtas distâncias, e bem assim do transporte de peças isoladas de carne ou de carcaças inteiras de leitão, de borrego ou de cabrito, poder-se-ão aplicar as disposições relativas à distribuição de carnes previstas neste Regulamento.
+Art. 18.º - 1 - No caso especial de transporte de carnes a curtas distâncias, e bem assim do transporte de peças isoladas de carne ou de carcaças inteiras de leitão, de borrego ou de cabrito, poder-se-ão aplicar as disposições relativas à distribuição de carnes previstas neste Regulamento.
 
 2 - Para o efeito do número anterior, deverão ser observados cuidados especiais em função da procedência e da espécie animal, estado de conservação, preparação, armazenagem e embalagem das carnes a transportar, das temperaturas máximas verificadas na região, do tipo de veículo, itinerário e estado de conservação das estradas ou caminhos a utilizar nestes transportes.
 
@@ -803,7 +868,7 @@ g) O sangue deve ser transportado em recipientes estanques, de material inalter�
 
 5 - Quando não seja possível acordo neste sentido, deverá o caso ser submetido à apreciação dos serviços regionais da respectiva área e, em última instância, à Direcção-Geral da Pecuária.
 
-###### Art. 19.º - 1 - O transporte de carnes frescas ou frigorificadas para consumo público só poderá efectuar-se a coberto de guia sanitário de trânsito, emitida pelo inspector sanitário do estabelecimento em causa, pelo veterinário municipal do concelho de origem ou outra autoridade veterinária competente.
+Art. 19.º - 1 - O transporte de carnes frescas ou frigorificadas para consumo público só poderá efectuar-se a coberto de guia sanitário de trânsito, emitida pelo inspector sanitário do estabelecimento em causa, pelo veterinário municipal do concelho de origem ou outra autoridade veterinária competente.
 
 2 - Da referida guia, do modelo anexo n.º 3, devem constar, entre outros elementos, a entidade ou firma interessada no transporte, a natureza, proveniência, discriminação e peso dos produtos, os dizeres da marca de inspecção sanitária, o local de destino, o itinerário, os dados de identificação do veículo, a data de emissão e o prazo de validade da mesma guia.
 
@@ -819,7 +884,7 @@ c) O triplicado ficará em poder do veterinário que emitiu a guia, para arquivo
 
 5 - Sempre que a Direcção-Geral da Pecuária o entenda por conveniente, poderá a guia sanitária de trânsito ser passada pelas Delegações de Pecuária de Lisboa ou do Porto, ou pelos serviços regionais da área da proveniência dos produtos.
 
-###### Art. 20.º - 1 - A fim de permitir referência exacta da origem, qualidade e estado de conservação dos produtos cárneos para consumo público em poder do armazenista, para o caso de reclamação ou inquérito sanitário, deve o responsável pelo estabelecimento devidamente licenciado fazer acompanhar cada remessa de uma guia de fornecimento do modelo anexo n.º 4.
+Art. 20.º - 1 - A fim de permitir referência exacta da origem, qualidade e estado de conservação dos produtos cárneos para consumo público em poder do armazenista, para o caso de reclamação ou inquérito sanitário, deve o responsável pelo estabelecimento devidamente licenciado fazer acompanhar cada remessa de uma guia de fornecimento do modelo anexo n.º 4.
 
 2 - A guia atrás referida deverá ser numerada e passada em duplicado, com os seguintes fins:
 
@@ -831,19 +896,19 @@ b) O duplicado ficará em poder da firma fornecedora, para efeito de arquivo, pe
 
 ### CAPÍTULO III — Condições higiénicas da distribuição de carnes e seus produtos
 
-###### Art. 21.º Para efeitos deste Regulamento, deve entender-se por «distribuição» a condução de carnes e seus produtos, em regra por via rodoviária e de pequeno curso, do local de origem, preparação ou armazenagem para os locais de venda.
+Art. 21.º Para efeitos deste Regulamento, deve entender-se por «distribuição» a condução de carnes e seus produtos, em regra por via rodoviária e de pequeno curso, do local de origem, preparação ou armazenagem para os locais de venda.
 
-###### Art. 22.º A distribuição de carnes e seus produtos com destino à venda para consumo público só é permitida a partir de matadouros públicos, mistos ou privados, fábricas ou estabelecimentos de preparação de carnes, entrepostos frigoríficos ou depósitos de produtos cárneos, devidamente licenciados.
+Art. 22.º A distribuição de carnes e seus produtos com destino à venda para consumo público só é permitida a partir de matadouros públicos, mistos ou privados, fábricas ou estabelecimentos de preparação de carnes, entrepostos frigoríficos ou depósitos de produtos cárneos, devidamente licenciados.
 
-###### Art. 23.º A distribuição de carnes e seus produtos até aos locais de venda, industrialização ou consumo deve ser efectuada nas melhores condições de asseio, resguardo e conservação.
+Art. 23.º A distribuição de carnes e seus produtos até aos locais de venda, industrialização ou consumo deve ser efectuada nas melhores condições de asseio, resguardo e conservação.
 
-###### Art. 24.º Quando o local de venda não esteja próximo do estabelecimento de abate, de preparação ou de depósito, devem as carnes e seus produtos ser transportados em veículos ou recipientes, sempre que possível isotérmicos, exclusivamente destinados a este fim.
+Art. 24.º Quando o local de venda não esteja próximo do estabelecimento de abate, de preparação ou de depósito, devem as carnes e seus produtos ser transportados em veículos ou recipientes, sempre que possível isotérmicos, exclusivamente destinados a este fim.
 
-###### Art. 25.º A caixa de condicionamento para a distribuição de carnes pode constituir parte integrante do veículo ou ser transportada independentemente, devendo, neste último caso, satisfazer os requisitos constantes das alíneas a) a i), inclusive, do n.º 2 do artigo 9.º deste Regulamento.
+Art. 25.º A caixa de condicionamento para a distribuição de carnes pode constituir parte integrante do veículo ou ser transportada independentemente, devendo, neste último caso, satisfazer os requisitos constantes das alíneas a) a i), inclusive, do n.º 2 do artigo 9.º deste Regulamento.
 
-###### Art. 26.º Durante a distribuição devem ser observadas as normas do artigo 10.º deste Regulamento prescritas para o transporte de carnes.
+Art. 26.º Durante a distribuição devem ser observadas as normas do artigo 10.º deste Regulamento prescritas para o transporte de carnes.
 
-###### Art. 27.º - 1 - A distribuição de partes de carcaças, de peças isoladas de carnes ou de miudezas, ou ainda de carcaças inteiras de leitão, de borrego ou de cabrito, quando devidamente acondicionadas, poderá efectuar-se em embalagens ou recipientes apropriados, que assegurem conveniente protecção contra a chuva, poeiras, raios solares e demais agentes susceptíveis de provocar alteração ou conspurcação dos citados produtos.
+Art. 27.º - 1 - A distribuição de partes de carcaças, de peças isoladas de carnes ou de miudezas, ou ainda de carcaças inteiras de leitão, de borrego ou de cabrito, quando devidamente acondicionadas, poderá efectuar-se em embalagens ou recipientes apropriados, que assegurem conveniente protecção contra a chuva, poeiras, raios solares e demais agentes susceptíveis de provocar alteração ou conspurcação dos citados produtos.
 
 2 - Os recipientes mencionados no número anterior carecem de aprovação da autoridade veterinária do concelho de origem e devem ser mantidos em perfeito estado de limpeza.
 
@@ -861,13 +926,13 @@ d) Serem munidos de dispositivo que impeça a penetração de águas, poeiras e 
 
 5 - Os recipientes devem indicar exteriormente e por forma bem legível os produtos que contenham, e bem assim o nome e a residência tanto do fornecedor como do destinatário.
 
-###### Art. 28.º Os veículos destinados à distribuição de carnes e miudezas não devem transportar outras mercadorias ou objectos nem pessoas estranhas aos serviços de condução, carga e descarga.
+Art. 28.º Os veículos destinados à distribuição de carnes e miudezas não devem transportar outras mercadorias ou objectos nem pessoas estranhas aos serviços de condução, carga e descarga.
 
-###### Art. 29.º Os veículos mencionados no artigo anterior devem obedecer a horários e itinerários previamente estabelecidos, não devendo o pessoal ocupar mais tempo do que o indispensável nas operações de distribuição.
+Art. 29.º Os veículos mencionados no artigo anterior devem obedecer a horários e itinerários previamente estabelecidos, não devendo o pessoal ocupar mais tempo do que o indispensável nas operações de distribuição.
 
-###### Art. 30.º Após a sua utilização, os veículos, as caixas e outros recipientes usados na distribuição de carnes devem ser convenientemente lavados e limpos, designadamente as suas superfícies internas.
+Art. 30.º Após a sua utilização, os veículos, as caixas e outros recipientes usados na distribuição de carnes devem ser convenientemente lavados e limpos, designadamente as suas superfícies internas.
 
-###### Art. 31.º - 1 - O responsável pelo estabelecimento fornecedor deve fazer acompanhar cada remessa de uma guia de fornecimento que contenha as indicações expressas no modelo anexo a este Regulamento - n.º 4 ou n.º 5, conforme o caso -, a fim de permitir referência exacta da origem, qualidade e estado de conservação dos produtos cárneos nos locais de venda.
+Art. 31.º - 1 - O responsável pelo estabelecimento fornecedor deve fazer acompanhar cada remessa de uma guia de fornecimento que contenha as indicações expressas no modelo anexo a este Regulamento - n.º 4 ou n.º 5, conforme o caso -, a fim de permitir referência exacta da origem, qualidade e estado de conservação dos produtos cárneos nos locais de venda.
 
 2 - A guia de fornecimento acima referida deve ser numerada e passada em duplicado, com o seguinte destino:
 
@@ -881,7 +946,7 @@ b) O duplicado ficará em poder do fornecedor, para efeitos de arquivo, pelo pra
 
 Limpeza e desinfecção de veículos e de outro equipamento utilizado no transporte e na distribuição de carnes e seus produtos.
 
-###### Art. 32.º - 1 - A limpeza e a desinfecção da caixa dos veículos e de outro equipamento utilizado no transporte e na distribuição de carnes deve obedecer às seguintes normas:
+Art. 32.º - 1 - A limpeza e a desinfecção da caixa dos veículos e de outro equipamento utilizado no transporte e na distribuição de carnes deve obedecer às seguintes normas:
 
 a) As superfícies da caixa do veículo com as quais tenha contactado o calçado do pessoal, e bem assim a plataforma de carga e descarga, devem ser esfregadas, após o serviço, com água quente e sabão ou soluto detergente apropriado;
 
@@ -895,17 +960,17 @@ c) As superfícies que possam contactar a carne serão profusamente lavadas com 
 
 ### CAPÍTULO V — Disposições finais e penais
 
-###### Art. 33.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
+Art. 33.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
 
-###### Art. 34.º - 1 - É concedido o prazo de 80 dias, contado da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alteração por virtude da publicação do presente diploma.
+Art. 34.º - 1 - É concedido o prazo de 80 dias, contado da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alteração por virtude da publicação do presente diploma.
 
 2 - Ficam revogadas todas as disposições regulamentares e posturas municipais relativas às condições higiénicas do transporte e da distribuição de carnes e seus produtos.
 
-###### Art. 35.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
+Art. 35.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.
 
-## ANEXO N.º 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
+## ANEXO N.º 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
 
 ## ANEXO N.º 2 — Veículos especiais para transporte de carnes e seus produtos
 
@@ -943,37 +1008,37 @@ Classe F. - Veículo frigorífico munido de um dispositivo de produção de frio
 
 (Anexo n.º 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
 
 (Verso do anexo n.º 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
 
 (Anexo n.º 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
 
 (Verso do anexo n.º 4)
 
 (Anexo n.º 5)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
 
 (Verso do anexo n.º 5)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17600/23222347.pdf)
 
 ## ANEXO V — Regulamento das Condições Higiénicas da Venda de Carnes e Seus Produtos
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - Compete à Direcção-Geral da Pecuária superintender em todos os assuntos de carácter hígio-sanitário relativos à venda de carnes e seus produtos.
+Artigo 1.º - 1 - Compete à Direcção-Geral da Pecuária superintender em todos os assuntos de carácter hígio-sanitário relativos à venda de carnes e seus produtos.
 
 2 - Compete aos serviços regionais de agricultura supervisionar, nas áreas a seu cargo, o cumprimento das disposições constantes deste Regulamento.
 
 3 - Ao veterinário municipal compete cumprir e fazer cumprir no seu concelho as disposições constantes do presente Regulamento, bem como outras determinações hígio-sanitárias complementares que lhe sejam transmitidas por aqueles serviços regionais.
 
-###### Art. 2.º - 1 - Para os fins previstos neste regulamento, devem observar-se as definições de «carne», «carnes», «animais de talho ou reses», «carcaças», «miudezas», «aves», «coelhos» e «caça» estabelecidas nos respectivos regulamentos de inspecção sanitária.
+Art. 2.º - 1 - Para os fins previstos neste regulamento, devem observar-se as definições de «carne», «carnes», «animais de talho ou reses», «carcaças», «miudezas», «aves», «coelhos» e «caça» estabelecidas nos respectivos regulamentos de inspecção sanitária.
 
 2 - Por «produtos cárneos» entendem-se as carnes secas, salgadas, ensacadas, fumadas ou por qualquer outro modo preparadas ou conservadas e as banhas e o toucinho, bem como outros produtos derivados dos animais das espécies comestíveis que, com ou sem prévia preparação, são destinados ao consumo público.
 
@@ -983,39 +1048,39 @@ Classe F. - Veículo frigorífico munido de um dispositivo de produção de frio
 
 #### SECÇÃO I — Requisitos gerais
 
-###### Art. 3.º - 1 - Para efeitos deste Regulamento, entende-se por «venda» o conjunto de operações e de incidências a que ficam sujeitas as carnes desde a entrada nos locais de venda até à sua aquisição pelo comprador.
+Art. 3.º - 1 - Para efeitos deste Regulamento, entende-se por «venda» o conjunto de operações e de incidências a que ficam sujeitas as carnes desde a entrada nos locais de venda até à sua aquisição pelo comprador.
 
 2 - Por «locais de venda» entendem-se os talhos, salsicharias e outros estabelecimentos devidamente autorizados destinados à venda de carnes ou seus produtos para consumo público.
 
-###### Art. 4.º As carnes e seus produtos só poderão ser vendidos em locais de venda que satisfaçam às condições prescritas neste Regulamento.
+Art. 4.º As carnes e seus produtos só poderão ser vendidos em locais de venda que satisfaçam às condições prescritas neste Regulamento.
 
-###### Art. 5.º Qualquer peça de carne ou de miudezas só deve dar entrada nos locais de venda depois de inspeccionada e devidamente assinalada com a marca da inspecção sanitária, em conformidade com as disposições regulamentares em vigor.
+Art. 5.º Qualquer peça de carne ou de miudezas só deve dar entrada nos locais de venda depois de inspeccionada e devidamente assinalada com a marca da inspecção sanitária, em conformidade com as disposições regulamentares em vigor.
 
-###### Art. 6.º - 1 - As carnes destinadas ao consumo público devem ser objecto de cuidados higiénicos rigorosos em todas as manipulações a que sejam submetidas nos locais de venda, por forma a evitar a sua conspurcação ou poluição.
+Art. 6.º - 1 - As carnes destinadas ao consumo público devem ser objecto de cuidados higiénicos rigorosos em todas as manipulações a que sejam submetidas nos locais de venda, por forma a evitar a sua conspurcação ou poluição.
 
 2 - Sempre que se proceda à transacção em comum de carnes, seus produtos e miudezas, deverá o pessoal encarregado deste serviço observar cuidados especiais para evitar que o sangue e outras possíveis escorrências das miudezas conspurquem os restantes produtos postos à venda, quer por contacto directo das mãos, quer ainda através dos instrumentos de corte e outro equipamento.
 
-###### Art. 7.º Nos locais de venda, as carnes ou seus produtos devem apresentar-se em estado de salubridade, limpeza e conservação irrepreensíveis.
+Art. 7.º Nos locais de venda, as carnes ou seus produtos devem apresentar-se em estado de salubridade, limpeza e conservação irrepreensíveis.
 
-###### Art. 8.º As carnes para venda, bem como os seus produtos, não devem mostrar indício de falsificação, avaria ou corrupção, nem conter quaisquer substâncias aditivas, designadamente, corantes, conservantes ou outras não autorizadas pela lei.
+Art. 8.º As carnes para venda, bem como os seus produtos, não devem mostrar indício de falsificação, avaria ou corrupção, nem conter quaisquer substâncias aditivas, designadamente, corantes, conservantes ou outras não autorizadas pela lei.
 
-###### Art. 9.º As carnes e seus produtos devem ser manipulados, preparados, armazenados, expostos, vendidos ou embalados por forma a não afectar a sua conservação, qualidade e caracteres próprios.
+Art. 9.º As carnes e seus produtos devem ser manipulados, preparados, armazenados, expostos, vendidos ou embalados por forma a não afectar a sua conservação, qualidade e caracteres próprios.
 
-###### Art. 10.º - 1 - Não devem as carnes e seus produtos ser expostos ou vendidos fora dos recintos que lhes são destinados nos locais de venda.
+Art. 10.º - 1 - Não devem as carnes e seus produtos ser expostos ou vendidos fora dos recintos que lhes são destinados nos locais de venda.
 
 2 - As carnes e seus produtos devem estar permanentemente protegidos da acção directa dos raios solares, de poeiras e de outras conspurcações externas e do contacto manual do público.
 
 3 - É expressamente proibida a exposição de carnes ou seus produtos na parte do estabelecimento reservada ao público e, bem assim, nas ombreiras das portas ou à entrada dos locais de venda.
 
-###### Art. 11.º Os produtos cárneos expostos à venda devem apresentar a marca ou rótulo do fabricante, com indicações que permitam a sua fácil identificação.
+Art. 11.º Os produtos cárneos expostos à venda devem apresentar a marca ou rótulo do fabricante, com indicações que permitam a sua fácil identificação.
 
-###### Art. 12.º No caso de controle hígio-sanitário ou reclamação devidamente justificada relativa à venda de carne e seus produtos, deve o proprietário ou responsável pelo local de venda facultar prontamente à autoridade sanitária a guia de fornecimento, prevista no anexo n.º 4 do Regulamento das Condições Higiénicas do Transporte e Distribuição de Carnes e Seus Produtos, respeitante aos produtos em causa.
+Art. 12.º No caso de controle hígio-sanitário ou reclamação devidamente justificada relativa à venda de carne e seus produtos, deve o proprietário ou responsável pelo local de venda facultar prontamente à autoridade sanitária a guia de fornecimento, prevista no anexo n.º 4 do Regulamento das Condições Higiénicas do Transporte e Distribuição de Carnes e Seus Produtos, respeitante aos produtos em causa.
 
-###### Art. 13.º Os locais de venda e seus produtos ficam sujeitos às beneficiações e outros melhoramentos de índole hígio-sanitário que a autoridade sanitária entenda dever determinar nos termos deste Regulamento ou de outras disposições legais.
+Art. 13.º Os locais de venda e seus produtos ficam sujeitos às beneficiações e outros melhoramentos de índole hígio-sanitário que a autoridade sanitária entenda dever determinar nos termos deste Regulamento ou de outras disposições legais.
 
 #### SECÇÃO II — Requisitos hígio-sanitários dos locais de venda
 
-###### Art. 14.º - 1 - Os locais de venda de carnes e seus produtos devem satisfazer a determinados requisitos hígio-sanitários quanto à sua localização, instalação e funcionamento.
+Art. 14.º - 1 - Os locais de venda de carnes e seus produtos devem satisfazer a determinados requisitos hígio-sanitários quanto à sua localização, instalação e funcionamento.
 
 2 - No tocante à localização e instalação, esses requisitos são:
 
@@ -1103,7 +1168,7 @@ d) As câmaras e armários devem ficar inteiramente ligados à parede ou suficie
 
 e) As câmaras disporão de uma lâmpada indicadora, colocada no exterior, para dar sinal sempre que a porta não fique completamente fechada.
 
-###### Art. 15.º A exposição para venda e a venda de carnes frescas ou frigorificadas, desde que devidamente embaladas, poderão ainda ser autorizadas noutros estabelecimentos de géneros alimentícios, tais como os supermercados, desde que estes satisfaçam as seguintes condições:
+Art. 15.º A exposição para venda e a venda de carnes frescas ou frigorificadas, desde que devidamente embaladas, poderão ainda ser autorizadas noutros estabelecimentos de géneros alimentícios, tais como os supermercados, desde que estes satisfaçam as seguintes condições:
 
 a) Terem exclusivamente destinada àqueles fins uma secção de venda separada dos locais reservados às restantes mercadorias e que satisfaça aos requisitos das alíneas g) e h) do n.º 2 do artigo 14.º deste Regulamento;
 
@@ -1119,7 +1184,7 @@ f) Não ser efectuado qualquer corte de carne na secção de venda;
 
 g) Possuírem um balcão ou armário frigorífico, pelo menos, reservado a aves, no qual são expressamente proibidas, a par de peças esfoladas ou depenadas, outras com pele ou penas.
 
-###### Art. 16.º A exposição para venda e a venda de produtos cárneos poderão ser autorizados em estabelecimentos de géneros alimentícios que respeitem as seguintes condições:
+Art. 16.º A exposição para venda e a venda de produtos cárneos poderão ser autorizados em estabelecimentos de géneros alimentícios que respeitem as seguintes condições:
 
 a) Disporem de uma secção com um ou mais balcões frigoríficos reservados à conservação de produtos cárneos;
 
@@ -1131,7 +1196,7 @@ d) Estarem os enchidos e outros produtos cárneos pendurados em ganchos inoxidá
 
 e) Ser a manipulação por parte dos empregados efectuada sempre com a maior limpeza.
 
-###### Art. 17.º A exposição para venda e a venda de carcaças de aves e coelhos ou de suas porções e miudezas para consumo público podem efectuar-se tanto em talhos ou salsicharias devidamente licenciados como em supermercados e outros estabelecimentos de géneros alimentícios, mediante a observância das seguintes condições:
+Art. 17.º A exposição para venda e a venda de carcaças de aves e coelhos ou de suas porções e miudezas para consumo público podem efectuar-se tanto em talhos ou salsicharias devidamente licenciados como em supermercados e outros estabelecimentos de géneros alimentícios, mediante a observância das seguintes condições:
 
 a) Os referidos produtos devem provir de matadouros ou centros de abate devidamente licenciados;
 
@@ -1141,7 +1206,7 @@ c) Os locais de venda citados neste artigo devem dispor de armários ou balcão 
 
 d) Os locais reservados à conservação, depósito, exposição e venda dos referidos produtos devem ser mantidos convenientemente limpos, arejados e livres de contiguidades perigosas e, bem assim, dispostos por forma a subtrair os mesmos produtos à acção directa dos raios solares.
 
-###### Art. 18.º O equipamento frigorífico instalado nos estabelecimentos ou locais de venda mencionados neste Regulamento deverá garantir a conservação dos produtos às seguintes temperaturas:
+Art. 18.º O equipamento frigorífico instalado nos estabelecimentos ou locais de venda mencionados neste Regulamento deverá garantir a conservação dos produtos às seguintes temperaturas:
 
 a) Entre 0ºC e +4ºC, para os produtos frescos ou refrigerados;
 
@@ -1155,7 +1220,7 @@ e) Igual ou inferior a -18ºC, para os ultracongelados.
 
 ### CAPÍTULO III — Inspecção dos locais de venda
 
-###### Art. 19.º - 1 - Periodicamente devem as autoridades competentes proceder às visitas de inspecção dos locais de venda de carnes e seus produtos, nas áreas a seu cargo.
+Art. 19.º - 1 - Periodicamente devem as autoridades competentes proceder às visitas de inspecção dos locais de venda de carnes e seus produtos, nas áreas a seu cargo.
 
 2 - As referidas visitas terão principalmente por finalidade:
 
@@ -1175,33 +1240,33 @@ f) Indagar da higiene individual dos empregados, dos vestiários e das instalaç
 
 ### CAPÍTULO IV — Outras disposições
 
-###### Art. 20.º Carece de aprovação prévia da autoridade veterinária local, a fim de que a exposição e a venda das carnes e seus produtos sejam realizadas o mais higienicamente possível e ao abrigo da incidência de raios solares, de poeiras e outros agentes de conspurcação e do contacto com o público:
+Art. 20.º Carece de aprovação prévia da autoridade veterinária local, a fim de que a exposição e a venda das carnes e seus produtos sejam realizadas o mais higienicamente possível e ao abrigo da incidência de raios solares, de poeiras e outros agentes de conspurcação e do contacto com o público:
 
 a) A venda de carnes e seus produtos em feiras e mercados de levante, quando autorizados;
 
 b) A venda ambulante de carnes e seus produtos nas localidades em que não existam talhos ou salsicharias ou naquelas em que o abastecimento seja manifestamente deficiente.
 
-###### Art. 21.º Não é permitida a afixação de preços em papel colado directamente sobre qualquer peça de carne.
+Art. 21.º Não é permitida a afixação de preços em papel colado directamente sobre qualquer peça de carne.
 
-###### Art. 22.º Nas mercearias e estabelecimentos congéneres é proibida a venda de carnes de porco em vinha-de-alhos ou só temperadas e expostas em alguidares ou outros recipientes.
+Art. 22.º Nas mercearias e estabelecimentos congéneres é proibida a venda de carnes de porco em vinha-de-alhos ou só temperadas e expostas em alguidares ou outros recipientes.
 
-###### Art. 23.º É proibida a utilização de recipientes de cobre ou de latão para a recolha ou conservação de carnes e seus produtos.
+Art. 23.º É proibida a utilização de recipientes de cobre ou de latão para a recolha ou conservação de carnes e seus produtos.
 
-###### Art. 24.º As máquinas para corte de produtos cárneos destinados à venda a retalho, tais como fiambre, presunto, paio, mortadela e outros, devem ser montadas em local reservado do balcão de serviço e providas de dispositivo que proteja eficazmente os produtos nelas utilizados do contacto com o público, de incidência de raios solares, de insectos, das poeiras e de outros agentes de conspurcação.
+Art. 24.º As máquinas para corte de produtos cárneos destinados à venda a retalho, tais como fiambre, presunto, paio, mortadela e outros, devem ser montadas em local reservado do balcão de serviço e providas de dispositivo que proteja eficazmente os produtos nelas utilizados do contacto com o público, de incidência de raios solares, de insectos, das poeiras e de outros agentes de conspurcação.
 
-###### Art. 25.º - 1 - Não é permitido utilizar as dependências dos locais de venda de carnes e seus produtos para uso diverso daquele a que se destinam, nem manter nas mesmas produtos ou materiais estranhos às respectivas instalações ou ao seu funcionamento.
+Art. 25.º - 1 - Não é permitido utilizar as dependências dos locais de venda de carnes e seus produtos para uso diverso daquele a que se destinam, nem manter nas mesmas produtos ou materiais estranhos às respectivas instalações ou ao seu funcionamento.
 
 2 - Nesta proibição estão implícitas a confecção ou ingestão de refeições e a guarda de vestuário na parte reservada à exposição e venda de carnes e seus produtos.
 
-###### Art. 26.º É proibida a entrada ou permanência de cães, gatos ou outros animais domésticos nos estabelecimentos ou locais de venda ou de conservação de carnes e seus produtos.
+Art. 26.º É proibida a entrada ou permanência de cães, gatos ou outros animais domésticos nos estabelecimentos ou locais de venda ou de conservação de carnes e seus produtos.
 
-###### Art. 27.º Os locais de venda de carnes e seus produtos devem ser mantidos livres de insectos e de roedores, não sendo, porém, permitida nas dependências dos referidos locais a aplicação de venenos ou de produtos biológicos contra roedores sem autorização das autoridades sanitárias.
+Art. 27.º Os locais de venda de carnes e seus produtos devem ser mantidos livres de insectos e de roedores, não sendo, porém, permitida nas dependências dos referidos locais a aplicação de venenos ou de produtos biológicos contra roedores sem autorização das autoridades sanitárias.
 
-###### Art. 28.º Compete aos proprietários ou responsáveis pelos referidos locais e suas dependências diligenciar no sentido de manter rigoroso asseio em todos eles e, bem assim, zelar pelo seu integral e higiénico funcionamento.
+Art. 28.º Compete aos proprietários ou responsáveis pelos referidos locais e suas dependências diligenciar no sentido de manter rigoroso asseio em todos eles e, bem assim, zelar pelo seu integral e higiénico funcionamento.
 
 ### CAPÍTULO V — Agentes de limpeza e de desinfecção
 
-###### Art. 29.º - 1 - Os locais de venda de carnes e as suas dependências devem ser dotados de água potável corrente, abundante e sob pressão.
+Art. 29.º - 1 - Os locais de venda de carnes e as suas dependências devem ser dotados de água potável corrente, abundante e sob pressão.
 
 2 - O sistema predial de abastecimento de água, abundante e sob pressão, quando não esteja ligado a uma rede de abastecimento público da responsabilidade de uma entidade oficial, deve dispor de tratamento adequado da água, com vista a garantir permanentemente a sua potabilidade.
 
@@ -1213,7 +1278,7 @@ b) A venda ambulante de carnes e seus produtos nas localidades em que não exist
 
 6 - A canalização reservada à água potável deve ser instalada nas paredes, por forma a preservar a água contra a possibilidade de inquinação proveniente do estabelecimento.
 
-###### Art. 30.º - 1 - Os detergentes aconselhados como agentes de limpeza, nos termos deste Regulamento, são os adequados para a utilização nas instalações de produtos alimentares e a sua aplicação deve fazer-se de acordo com as instruções indicadas.
+Art. 30.º - 1 - Os detergentes aconselhados como agentes de limpeza, nos termos deste Regulamento, são os adequados para a utilização nas instalações de produtos alimentares e a sua aplicação deve fazer-se de acordo com as instruções indicadas.
 
 2 - Os desinfectantes só devem ser usados sobre o equipamento, pavimentos, paredes e tectos dos estabelecimentos de carnes e seus produtos nas seguintes condições:
 
@@ -1225,27 +1290,27 @@ b) Depois de ter sido efectuada a limpeza.
 
 ### CAPÍTULO VI — Disposições finais e penais
 
-###### Art. 31.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para a aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
+Art. 31.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para a aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
 
-###### Art. 32.º É concedido o prazo de 80 dias, contado da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alterações por virtude da publicação do presente diploma.
+Art. 32.º É concedido o prazo de 80 dias, contado da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alterações por virtude da publicação do presente diploma.
 
-###### Art. 33.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
+Art. 33.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.
 
 ## ANEXO VI — Requerimento das Condições Higiénicas a Observar nas Operações de Corte o Desossagem de Carcaças de Aves
 
 I - Disposições gerais
 
-###### Artigo 1.º As instalações reservadas ao corte e desossagem de carcaças de aves carecem de aprovação da Direcção-Geral da Pecuária e da Junta Nacional dos Produtos Pecuários no âmbito das respectivas atribuições.
+Artigo 1.º As instalações reservadas ao corte e desossagem de carcaças de aves carecem de aprovação da Direcção-Geral da Pecuária e da Junta Nacional dos Produtos Pecuários no âmbito das respectivas atribuições.
 
-###### Art. 2.º Os estabelecimentos de corte e desossagem de carcaças de aves serão assistidos por um médico veterinário, cuja designação seja homologada pela Direcção-Geral da Pecuária, salvaguardado o regime das incompatibilidades.
+Art. 2.º Os estabelecimentos de corte e desossagem de carcaças de aves serão assistidos por um médico veterinário, cuja designação seja homologada pela Direcção-Geral da Pecuária, salvaguardado o regime das incompatibilidades.
 
-###### Art. 3.º As operações de corte e desossagem de carcaças de aves deverão efectuar-se sob a acção contínua do frio artificial e com estrita observância das condições higiénicas e técnico-funcionais a seguir mencionadas.
+Art. 3.º As operações de corte e desossagem de carcaças de aves deverão efectuar-se sob a acção contínua do frio artificial e com estrita observância das condições higiénicas e técnico-funcionais a seguir mencionadas.
 
 II - Normas processuais do licenciamento
 
-###### Art. 4.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de corte e desossagem de carcaças de aves devem solicitar autorização nesse sentido à Direcção-Geral da Pecuária, em requerimento apresentado nos serviços regionais de agricultura da área do estabelecimento, nos termos da alínea c) do artigo 37.º do [Decreto Regulamentar n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1983-453224), de 13 de Julho, e do qual conste:
+Art. 4.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de corte e desossagem de carcaças de aves devem solicitar autorização nesse sentido à Direcção-Geral da Pecuária, em requerimento apresentado nos serviços regionais de agricultura da área do estabelecimento, nos termos da alínea c) do artigo 37.º do [Decreto Regulamentar n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1983-453224), de 13 de Julho, e do qual conste:
 
 a) A identidade ou firma requerente, bem como o número atribuído pelo Registo Nacional de Pessoas Colectivas e a sua residência ou sede social;
 
@@ -1273,7 +1338,7 @@ e) Outros elementos que a Direcção-Geral da Pecuária exigir nos termos da leg
 
 4 - Indicação do médico veterinário que irá dar assistência ao estabelecimento, a qual incluirá, designadamente, a inspecção sanitária das carnes a laborar.
 
-###### Art. 5.º - 1 - Depois de concluída a instalação de harmonia com o projecto aprovado, o interessado solicitará vistoria à Direcção-Geral da Pecuária, por intermédio dos serviços regionais competentes.
+Art. 5.º - 1 - Depois de concluída a instalação de harmonia com o projecto aprovado, o interessado solicitará vistoria à Direcção-Geral da Pecuária, por intermédio dos serviços regionais competentes.
 
 2 - Nas vistorias intervirão sempre, além dos representantes da Direcção-Geral da Pecuária, dos serviços regionais competentes e da Junta Nacional dos Produtos Pecuários, o delegado ou subdelegado de saúde e o veterinário municipal do concelho onde o estabelecimento se situa, podendo, sempre que necessário, ser requisitada a intervenção de outros técnicos.
 
@@ -1285,11 +1350,11 @@ e) Outros elementos que a Direcção-Geral da Pecuária exigir nos termos da leg
 
 III - Condições de instalação e funcionamento dos estabelecimentos
 
-###### Art. 6.º - 1 - Quando não disponham de matadouro anexo, os estabelecimentos de corte e desossagem de carcaças de aves só poderão ser abastecidos a partir de matadouros aprovados pela Direcção-Geral da Pecuária.
+Art. 6.º - 1 - Quando não disponham de matadouro anexo, os estabelecimentos de corte e desossagem de carcaças de aves só poderão ser abastecidos a partir de matadouros aprovados pela Direcção-Geral da Pecuária.
 
 2 - O transporte de carcaças de aves dos matadouros que não estejam anexos às instalações de preparação deverá realizar-se o mais rapidamente possível, em veículo aprovado conforme legislação em vigor, cujo compartimento de carga será selado, e de modo que a temperatura interna da carne se mantenha entre 0ºC e +4ºC.
 
-###### Art. 7.º - 1 - Os estabelecimentos deverão dispor de câmaras frigoríficas, de secções de corte e desossagem e de embalagem.
+Art. 7.º - 1 - Os estabelecimentos deverão dispor de câmaras frigoríficas, de secções de corte e desossagem e de embalagem.
 
 2 - As câmaras frigoríficas exclusivamente reservadas à conservação de carcaças a laborar deverão estar convenientemente instaladas, ter capacidade para comportar o volume de carcaças necessário ao movimento de 2 dias e permitir que a temperatura ambiente seja mantida entre 0ºC e +2ºC, com humidade relativa entre 80% e 90%.
 
@@ -1329,11 +1394,11 @@ p) Disporem à entrada de lavatórios próprios para calçado.
 
 5 - O pessoal ao serviço nas diferentes dependências destes estabelecimentos deverá ter carácter privativo, e, como tal, não deverá ocupar-se concomitantemente de outras tarefas dentro do estabelecimento a que as mesmas estejam anexas, designadamente no matadouro de aves, e, de um modo geral, não deverá exercer qualquer outra actividade que possa acarretar risco de contágio para os produtos a preparar nos referidos estabelecimentos.
 
-###### Art. 8.º Compete ao médico veterinário que presta assistência técnica a estes estabelecimentos assegurar a inspecção sanitária das carnes ali tratadas, superintender em todas as operações relativas ao corte, desossagem, embalagem, armazenagem e expedição dos produtos, verificação de temperaturas e, bem assim, vigiar o estado de asseio do pessoal e dos locais destinados àquelas operações, dos aparelhos, dos instrumentos ou utensílios e dos recipientes.
+Art. 8.º Compete ao médico veterinário que presta assistência técnica a estes estabelecimentos assegurar a inspecção sanitária das carnes ali tratadas, superintender em todas as operações relativas ao corte, desossagem, embalagem, armazenagem e expedição dos produtos, verificação de temperaturas e, bem assim, vigiar o estado de asseio do pessoal e dos locais destinados àquelas operações, dos aparelhos, dos instrumentos ou utensílios e dos recipientes.
 
-###### Art. 9.º Todas as deficiências verificadas pelo médico veterinário assistente, ou pelas autoridades competentes nas suas visitas de inspecção, deverão ser transmitidas por escrito ao proprietário ou responsável pelo estabelecimento, para que este providencie no sentido de as suprir prontamente.
+Art. 9.º Todas as deficiências verificadas pelo médico veterinário assistente, ou pelas autoridades competentes nas suas visitas de inspecção, deverão ser transmitidas por escrito ao proprietário ou responsável pelo estabelecimento, para que este providencie no sentido de as suprir prontamente.
 
-###### Art. 10.º - 1 - Cada estabelecimento deverá manter em dia um livro de registo, sem rasuras, entrelinhas ou espaços em branco, com indicação, por espécie animal, da origem e categoria das carcaças, das quantidades preparadas, expedidas e em armazém.
+Art. 10.º - 1 - Cada estabelecimento deverá manter em dia um livro de registo, sem rasuras, entrelinhas ou espaços em branco, com indicação, por espécie animal, da origem e categoria das carcaças, das quantidades preparadas, expedidas e em armazém.
 
 2 - O livro referido no número anterior, rubricado nos serviços regionais competentes, conterá termo de abertura e de encerramento.
 
@@ -1341,43 +1406,43 @@ p) Disporem à entrada de lavatórios próprios para calçado.
 
 IV - Condições a observar na preparação
 
-###### Art. 11.º Concluídas as operações de abate e ultimada a inspecção sanitária, as carcaças deverão ser conservadas em câmara frigorífica por um período máximo de 5 dias, por forma que a temperatura interna da carne se mantenha entre 0ºC e +4ºC.
+Art. 11.º Concluídas as operações de abate e ultimada a inspecção sanitária, as carcaças deverão ser conservadas em câmara frigorífica por um período máximo de 5 dias, por forma que a temperatura interna da carne se mantenha entre 0ºC e +4ºC.
 
-###### Art. 12.º A deslocação das carcaças refrigeradas da câmara frigorífica para a secção de corte e desossagem far-se-á directamente e à medida das necessidades de laboração.
+Art. 12.º A deslocação das carcaças refrigeradas da câmara frigorífica para a secção de corte e desossagem far-se-á directamente e à medida das necessidades de laboração.
 
-###### Art. 13.º - 1 - Após a desossagem, deverão remover-se cuidadosamente as esquírolas ósseas e os coágulos de sangue.
+Art. 13.º - 1 - Após a desossagem, deverão remover-se cuidadosamente as esquírolas ósseas e os coágulos de sangue.
 
 2 - Não é permitido proceder à limpeza das carcaças ou suas porções com panos.
 
-###### Art. 14.º Cada empregado deverá ter sempre à sua disposição um recipiente individual estanque, de preferência em material inoxidável com os ângulos internos arredondados, destinado a recolher os ossos, os resíduos e outros detritos provenientes da desossagem e do preparo das carcaças.
+Art. 14.º Cada empregado deverá ter sempre à sua disposição um recipiente individual estanque, de preferência em material inoxidável com os ângulos internos arredondados, destinado a recolher os ossos, os resíduos e outros detritos provenientes da desossagem e do preparo das carcaças.
 
-###### Art. 15.º A secção de corte e desossagem deverá ainda dispor de outros recipientes nas condições indicadas no artigo anterior, munidos de tampa para fecho hermético, destinados a receber, à medida das necessidades, o conteúdo dos recipientes individuais.
+Art. 15.º A secção de corte e desossagem deverá ainda dispor de outros recipientes nas condições indicadas no artigo anterior, munidos de tampa para fecho hermético, destinados a receber, à medida das necessidades, o conteúdo dos recipientes individuais.
 
-###### Art. 16.º Os ossos, os resíduos e outros detritos retirar-se-ão com a frequência necessária e os recipientes, no fim de cada dia de trabalho, serão devidamente lavados e desinfectados.
+Art. 16.º Os ossos, os resíduos e outros detritos retirar-se-ão com a frequência necessária e os recipientes, no fim de cada dia de trabalho, serão devidamente lavados e desinfectados.
 
-###### Art. 17.º As peças ou porções de carcaças serão transportadas para a secção de embalagem em recipientes inoxidáveis devidamente esterilizados.
+Art. 17.º As peças ou porções de carcaças serão transportadas para a secção de embalagem em recipientes inoxidáveis devidamente esterilizados.
 
-###### Art. 18.º Às operações de corte e de desossagem deve seguir-se imediatamente a de embalagem.
+Art. 18.º Às operações de corte e de desossagem deve seguir-se imediatamente a de embalagem.
 
-###### Art. 19.º As peças de carne no decorrer das operações de corte, desossagem e embalagem deverão manter uma temperatura interna não superior a +5ºC.
+Art. 19.º As peças de carne no decorrer das operações de corte, desossagem e embalagem deverão manter uma temperatura interna não superior a +5ºC.
 
 V - Condições a observar na embalagem
 
-###### Art. 20.º - 1 - Cada peça ou porção de carne com destino à venda será envolvida inteiramente por película especial transparente e própria para uso alimentar.
+Art. 20.º - 1 - Cada peça ou porção de carne com destino à venda será envolvida inteiramente por película especial transparente e própria para uso alimentar.
 
 2 - As peças ou porções referidas no n.º 1 deverão ser embaladas em caixas de madeira inodora, não resinosa e seca, ou de cartão impermeabilizado nas duas faces.
 
 3 - As embalagens serão revestidas com folha de papel sulfurizado ou película celulósica ou outro material equivalente, nas condições anteriormente referidas, de modo a cobri-lhes toda a superfície interior.
 
-###### Art. 21.º Qualquer outro tipo de embalagem a utilizar para este efeito carece de autorização especial da Direcção-Geral da Pecuária, ouvida a Direcção-Geral de Saúde e o Instituto de Qualidade Alimentar.
+Art. 21.º Qualquer outro tipo de embalagem a utilizar para este efeito carece de autorização especial da Direcção-Geral da Pecuária, ouvida a Direcção-Geral de Saúde e o Instituto de Qualidade Alimentar.
 
-###### Art. 22.º Além das indicações obrigatórias previstas na legislação vigente, as embalagens deverão apresentar exteriormente, em caracteres bem visíveis e impressos em tinta inócua e indestingível, as indicações do número de inscrição do estabelecimento na Direcção-Geral da Pecuária e a marca da inspecção sanitária.
+Art. 22.º Além das indicações obrigatórias previstas na legislação vigente, as embalagens deverão apresentar exteriormente, em caracteres bem visíveis e impressos em tinta inócua e indestingível, as indicações do número de inscrição do estabelecimento na Direcção-Geral da Pecuária e a marca da inspecção sanitária.
 
 VI - Condições de transporte, conservação e venda
 
-###### Art. 23.º O transporte destas carnes será realizado por forma a mantê-las livres de contiguidades perigosas e a uma temperatura interna inferior ou igual a +4ºC, em veículos devidamente concebidos e equipados, não podendo os mesmos ser utilizados para outros fins que comprometam a salubridade destes produtos.
+Art. 23.º O transporte destas carnes será realizado por forma a mantê-las livres de contiguidades perigosas e a uma temperatura interna inferior ou igual a +4ºC, em veículos devidamente concebidos e equipados, não podendo os mesmos ser utilizados para outros fins que comprometam a salubridade destes produtos.
 
-###### Art. 24.º - 1 - O armazenamento destas carnes embaladas far-se-á em câmaras frigoríficas que permitam assegurar às mesmas uma temperatura interna inferior ou igual a +4ºC.
+Art. 24.º - 1 - O armazenamento destas carnes embaladas far-se-á em câmaras frigoríficas que permitam assegurar às mesmas uma temperatura interna inferior ou igual a +4ºC.
 
 2 - A conservação, a exposição para venda e a venda de carnes pré-embaladas de aves só deverão efectuar-se em estabelecimentos dotados de instalações frigoríficas apropriadas, tais como vitrinas, armários ou balcões frigoríficos, nas quais as referidas carnes sejam mantidas, até sua aquisição pelo consumidor, a uma temperatura interna entre 0ºC e +4ºC.
 
@@ -1387,25 +1452,25 @@ VI - Condições de transporte, conservação e venda
 
 5 - As instalações frigoríficas utilizadas para a exposição ou conservação destas carnes deverão ser mantidas devidamente limpas e os produtos nelas acondicionados protegidos contra todos os agentes de conspurcação ou poluição.
 
-###### Art. 25.º - 1 - A entrega destas carnes ao consumidor deverá efectuar-se rigorosamente dentro de 3 dias após a data da embalagem, isto é, da introdução das mesmas carnes no seu invólucro de origem, nunca podendo exceder 8 dias a contar da data do abate das aves de que as carnes provenham.
+Art. 25.º - 1 - A entrega destas carnes ao consumidor deverá efectuar-se rigorosamente dentro de 3 dias após a data da embalagem, isto é, da introdução das mesmas carnes no seu invólucro de origem, nunca podendo exceder 8 dias a contar da data do abate das aves de que as carnes provenham.
 
 2 - Estes prazos só poderão ser prorrogados por autorização especial da autoridade que exercer vigilância sanitária.
 
 VII - Disposições relativas a carnes de aves desossadas congeladas
 
-###### Art. 26.º Após as devidas operações de preparação e de congelação, estas carnes deverão ser mantidas em câmara frigorífica que permita assegurar-lhes uma temperatura interna inferior ou igual a -18ºC.
+Art. 26.º Após as devidas operações de preparação e de congelação, estas carnes deverão ser mantidas em câmara frigorífica que permita assegurar-lhes uma temperatura interna inferior ou igual a -18ºC.
 
-###### Art. 27.º O transporte destas carnes deverá ser realizado por forma a mantê-las livres de contiguidades perigosas e a uma temperatura interna inferior ou igual a -18ºC, em veículos devidamente concebidos e equipados, não podendo os mesmos ser utilizados para outros fins que possam comprometer a salubridade destes produtos.
+Art. 27.º O transporte destas carnes deverá ser realizado por forma a mantê-las livres de contiguidades perigosas e a uma temperatura interna inferior ou igual a -18ºC, em veículos devidamente concebidos e equipados, não podendo os mesmos ser utilizados para outros fins que possam comprometer a salubridade destes produtos.
 
-###### Art. 28.º Os industriais que desejam receber carnes de aves desossadas congeladas para o fabrico de produtos preparados com estas carnes deverão dispor de câmaras frigoríficas que permitam mantê-las nas condições acima referidas.
+Art. 28.º Os industriais que desejam receber carnes de aves desossadas congeladas para o fabrico de produtos preparados com estas carnes deverão dispor de câmaras frigoríficas que permitam mantê-las nas condições acima referidas.
 
-###### Art. 29.º A venda e a exposição para venda deste tipo de carnes deverá satisfazer igualmente aos mesmos condicionalismos de preparação, conservação e temperatura acima mencionados, em instalações frigoríficas apropriadas, designadamente arcas, armários ou balcões frigoríficos, nas quais as referidas carnes sejam mantidas até sua aquisição pelo consumidor.
+Art. 29.º A venda e a exposição para venda deste tipo de carnes deverá satisfazer igualmente aos mesmos condicionalismos de preparação, conservação e temperatura acima mencionados, em instalações frigoríficas apropriadas, designadamente arcas, armários ou balcões frigoríficos, nas quais as referidas carnes sejam mantidas até sua aquisição pelo consumidor.
 
 VIII - Controle sanitário dos estabelecimentos de corte e desossagem de carcaças de aves
 
-###### Art. 30.º Os estabelecimentos de corte e desossagem de carnes de aves ficarão submetidos ao controle exercido pelas entidades competentes.
+Art. 30.º Os estabelecimentos de corte e desossagem de carnes de aves ficarão submetidos ao controle exercido pelas entidades competentes.
 
-###### Art. 31.º O controle atrás referido constará principalmente do seguinte:
+Art. 31.º O controle atrás referido constará principalmente do seguinte:
 
 a) Controle do registo de entradas de carnes frescas e de saídas de carnes cortadas;
 
@@ -1419,10 +1484,10 @@ e) Todo e qualquer outro controle considerado de utilidade para o conveniente fu
 
 IX - Disposições finais e penais
 
-###### Art. 32.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para a aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
+Art. 32.º As autoridades administrativas e policiais poderão ser chamadas a prestar todo o auxílio que a Direcção-Geral da Pecuária e serviços regionais de agricultura lhes solicitarem para a aplicação das medidas ordenadas ao abrigo deste Regulamento, a cooperar na sua execução em tudo o que for necessário e a zelar pela sua integral observância.
 
-###### Art. 33.º É concedido o prazo de 80 dias, contado da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alterações por virtude da publicação do presente diploma.
+Art. 33.º É concedido o prazo de 80 dias, contado da publicação deste Regulamento, para as câmaras municipais actualizarem, em conformidade com as prescrições agora estabelecidas, as posturas e as disposições regulamentares em vigor que sofram alterações por virtude da publicação do presente diploma.
 
-###### Art. 34.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
+Art. 34.º A Direcção-Geral da Pecuária expedirá as instruções necessárias à boa execução destas disposições regulamentares.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.

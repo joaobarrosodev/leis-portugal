@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1986-228207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e1cf7e4880a04e33406a7b9820cdc76e970dde78a8bacb20b7769118fa23e4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93c92399dbd755ceb3906952ddeb391210f73ab1b3d7ec3fd8eeba6b724aa079
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Português da Qualidade
+- Metrologia
+- Normalização
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:420585:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419653:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.509/87.1987.06.24.MF, DR.IS [142] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/509-1987-419653
+  date: '1987-06-24'
+- type: amended_by
+  target: pt:dre:420585:por
+  label: "Alterado o quadro de pessoal pela PORT.627/87.20.07.1987.MF, DR.IS [164] de 20.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/627-1987-420585
+  date: '1987-07-20'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:10Z'
   warnings: []
   errors: []
 ---
@@ -558,16 +612,16 @@ São revogados o [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 26 de Junho de 1986.**
+Promulgado em 26 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Junho de 1986.**
+Referendado em 30 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva
 
-## Anexo a que se refere o n.º 1 do artigo 22.º
+Anexo a que se refere o n.º 1 do artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15800/16871694.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15800/16871694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15800/16871694.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 678a55244fefbff3ccff6d767b4967baf988895f5d143a66c567f365d5781f6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 196e81c51f52a70077e8de148de2d5ebff96a8d5c78d782ff7be4dc9a40bcc30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GNR
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335394:por
+  label: Alterados os arts. 1.º, 2.º, 7.º, 8.º, 12.º, 26.º, 34.º, 36.º, 42.º, 52.º, 54.º, 59.º, 65.º, 66.º, 68.º, 69.º, 70.º,
+    80.º, 81.º e 87.º, aditados os arts. 24.º-A, 46.º-A e 46.º-B e revogados os arts. 72.º, 85.º, 86.º e 88.º do presente
+    diploma, pelo(a) Decreto-Lei n.º 39/90 - Diário da República n.º 29/1990, Série I de 1990-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1990-335394
+  date: '1990-02-03'
+- type: amended_by
+  target: pt:dre:556066:por
+  label: "Alterada a área de responsabilidade do posto de Santo Tirso da companhia territorial de Santo Tirso, no âmbito do\
+    \ Batalhão nº 4 -Porto pela PORT.965/90.10.10.1990.MAI, DR.IS [234] de 10.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/965-1990-556066
+  date: '1990-10-10'
+- type: amended_by
+  target: pt:dre:667886:por
+  label: "Alterados os artigos 59.º, 62.º e 86.º do presente diploma, na redacção do Decreto-Lei n.º 39/90, de 3 de Fevereiro,\
+    \ pelo DEC LEI.260/91.25.07.1991.MAI, DR.IS-A [169] de 25.07.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1991-667886
+  date: '1991-07-25'
+- type: cites
+  target: pt:dre:291219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569285:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:673775:por
+  label: Rectificado pela DECL.DD5712.11.08.1983.PCM, DR.IS [200-Supl] de 31.08.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-673775
+  date: '1983-08-11'
+- type: repealed_by
+  target: pt:dre:267033:por
+  label: "Revogada a orgânica, aprovada no presente diploma, com as alterações previstas nos Decretos-Leis n.ºs 39/90, de\
+    \ 3 de Fevereiro, e 260/91, de 25 de Julho, pelo DEC LEI.231/93.26.06.1993.MAI, DR.IS-A [148] de 26.06.1993, sem prejuízo\
+    \ do disposto no artigo 99.º da orgânica anexa ao citado diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1993-267033
+  date: '1993-06-26'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 88
+  article_count: 89
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:59Z'
   warnings: []
   errors: []
 ---
@@ -732,7 +790,9 @@ Soldado provisório.
 
 4 - A implementação dos quadros aprovados no diploma dependem de despacho conjunto dos Ministros das Finanças e do Plano, da Defesa Nacional e da Administração Interna.
 
-#### SECÇÃO II — Artigo 63.º
+#### SECÇÃO II
+
+###### Artigo 63.º
 
 (Regime penal e disciplinar)
 
@@ -928,33 +988,33 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia - Ricardo Manuel Simões Bayão Horta - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 QUADRO I
 
 Guarda Nacional Republicana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf)
 
 QUADRO II
 
 Comando-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf)
 
 QUADRO III
 
 Implantação territorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf)
 
 QUADRO I
 
@@ -962,7 +1022,7 @@ Efectivos
 
 1 - Pessoal militar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16000/25782592.pdf)
 
 2 - Pessoal civil:
 

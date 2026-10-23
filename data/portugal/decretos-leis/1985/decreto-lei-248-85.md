@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16000/20102023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ccd40b5aea1a9a93c6358948e80ad71d32ad46e35cfaa76e29b9bdd6db366f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b40c4ae1b89c7378a5123ff168a6e63b79f2ff33d2b0f9e096ea86d3bde333
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- Administração Regional
+- Avaliação do Pessoal
+- Carreira Profissional
+- Descrição de Funções
+- Função Pública
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221564:por
+  label: "Alterada a al. e) do nº 4 do art. 46º, pelo DEC LEI.317/86.1986.09.25.MF, DR.IS [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-1986-221564
+  date: '1986-09-25'
+- type: amended_by
+  target: pt:dre:370249:por
+  label: "Alterado o quadro de pessoal da DGAC previsto no presente diploma, pelo DEC LEI.318/88.09.09.1988.MOPTC, DR.IS [209]\
+    \ de 09.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1988-370249
+  date: '1988-09-09'
+- type: amended_by
+  target: pt:dre:283683:por
+  label: "Alterado o art. 20º, pelo DEC LEI.2/93.1993.01.08.MF, DR.IS-A [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1993-283683
+  date: '1993-01-08'
+- type: amended_by
+  target: pt:dre:668294:por
+  label: "Alterado o art. 22º pelo DEC LEI.275/95.1995.10.25.MF, DR.IS [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1995-668294
+  date: '1995-10-25'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Mantidas suspensas, até 31.12.2007, excepto as decorrentes da Res 109/2005 de 30-Jun, e as que sejam indispensáveis\
+    \ para o cumprimento de lei ou para a execução de sentenças judiciais, as revisões de carreiras aprovadas pelo presente\
+    \ diploma, alterado pelos Dec Lei 317/86 de 25-Set, 265/88 de 28-Jul, 2/93 de 08-Jan, Dec Lei 275/95 de 25-Out, 404-A/98\
+    \ de 18-Dez, 141/2001 de 24-Abr e Lei 10/2004 de 22-Mar, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Suspensas, até 31 de Dezembro de 2008, e nos termos do art. 15.º, as revisões de carreiras e do regime e montantes\
+    \ dos suplementos remuneratórios, aprovadas pelo presente diploma, alterado pelos Dec Lei 317/86 de 25-Set, 265/88 de\
+    \ 28-Jul, Lei 2/93 de 08-Jan, Dec Lei 275/95 de 25-Out, 404-A/98 de 18-Dez, 141/2001 de 24-Abr e Lei 10/2004 de 22-Mar,\
+    \ pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: cites
+  target: pt:dre:151774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:378358:por
+  label: "Revogados os arts. 18º e 19º, pelo DEC LEI.265/88.1988.07.28.MF, DR.IS [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1988-378358
+  date: '1988-07-28'
+- type: repealed_by
+  target: pt:dre:197076:por
+  label: "Revogados os arts. 15º, 17º, 20º a 34º, 36º a 40º e 42º a 46º pelo DEC LEI.404-A/98.1998.12.18.PCM DR.IS-A [291]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-a-1998-197076
+  date: '1998-12-18'
+- type: repealed_by
+  target: pt:dre:165049:por
+  label: "Revogados os nºs 4 a 6 do art. 14º pelo DEC LEI.141/2001.2001.04.24.MREAP,DR.IS-A [96]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2001-165049
+  date: '2001-04-24'
+- type: repealed_by
+  target: pt:dre:541273:por
+  label: "Revogado o art. 11.º pela LEI.10/2004.22.03.2004.AR, DR.IS-A [69] de 22.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2004-541273
+  date: '2004-03-22'
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 46
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:52Z'
   warnings: []
   errors: []
 ---
@@ -688,15 +789,15 @@ e) Em caso algum poderão utilizar-se dotações globais relativamente aos novos
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - Amândio Anes de Azevedo.
 
-**Promulgado em 2 de Julho de 1985.**
+Promulgado em 2 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Julho de 1985.**
+Referendado em 3 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Tabela anexa de reclassificação a que se refere o n.º 8 do artigo 46.º
 
@@ -768,8 +869,8 @@ Tradutor ... L
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/16000/20102023.pdf))](https://files.diariodarepublica.pt/1s/1985/07/16000/20102023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/16000/20102023.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/16000/20102023.pdf))](https://files.diariodarepublica.pt/1s/1985/07/16000/20102023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/16000/20102023.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25500/37023717.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1982-378509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89cc1a53fc5e39a91d0595505f75e712208f4501da47a8d5539f23be9f943b7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39350f621d8725319956a2d993ee3eef024834c73d11d46ad56b9332e3ad03cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- PSP
+- Regulamento Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421197:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade das normas do presente diploma, bem como do Regulamento\
+    \ Disciplinar da PSP por ele aprovado, pelo AC.103/87.06.05.1987.TCS, DR.IS [[103]] de 06.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/103-1987-421197
+  date: '1987-05-06'
+- type: cites
+  target: pt:dre:139918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540274:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:18Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +125,9 @@ Assim:
 
 O Governo decreta, no termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Disciplinar da Polícia de Segurança Pública, o qual faz parte integrante deste diploma.
+Artigo 1.º É aprovado o Regulamento Disciplinar da Polícia de Segurança Pública, o qual faz parte integrante deste diploma.
 
-###### Art. 2.º Os processos pendentes reger-se-ão pelas seguintes regras:
+Art. 2.º Os processos pendentes reger-se-ão pelas seguintes regras:
 
 a) As normas relativas à existência e qualificação das infracções disciplinares constantes do regulamento em anexo serão aplicáveis na medida em que forem mais favoráveis ao arguido;
 
@@ -110,11 +135,11 @@ b) As normas processuais aplicam-se imediatamente.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Setembro de 1982.**
+Promulgado em 30 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DISCIPLINAR DA POLÍCIA DE SEGURANÇA PÚBLICA
 
@@ -122,13 +147,13 @@ REGULAMENTO DISCIPLINAR DA POLÍCIA DE SEGURANÇA PÚBLICA
 
 #### SECÇÃO I — Princípios fundamentais gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Conceito de disciplina
 
 A disciplina na Polícia de Segurança Pública (PSP) consiste na exacta observância das leis e regulamentos policiais e das determinações que de umas e outros derivam para o cumprimento da missão que lhe cabe.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Âmbito de aplicação
 
@@ -136,13 +161,13 @@ A disciplina na Polícia de Segurança Pública (PSP) consiste na exacta observ�
 
 2 - Exceptuam-se do disposto do número anterior os militares que aí prestem serviço que estão sujeitos ao respectivo estatuto disciplinar.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Responsabilidade disciplinar
 
 Os funcionários e agentes a que se refere o artigo anterior são disciplinarmente responsáveis perante os superiores hierárquicos de que dependam pelas infracções que cometam.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Conceito de infracção disciplinar
 
@@ -150,7 +175,7 @@ Considera-se infracção disciplinar o facto culposo praticado por acção ou om
 
 #### SECÇÃO II — Princípios fundamentais de disciplina
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Conceito
 
@@ -160,7 +185,7 @@ São princípios fundamentais de disciplina:
 
 2) Obediência em acto de serviço ao elemento mais graduado ou mais antigo em tempo de serviço ou no exercício de função especializada.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Prescrição
 
@@ -172,7 +197,7 @@ Prescrição
 
 4 - O procedimento disciplinar por transgressão extingue-se com o pagamento voluntário da multa correspondente, se outra pena não lhe couber.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Obediência às leis
 
@@ -180,7 +205,7 @@ Os funcionários e agentes da Polícia de Segurança Pública devem regular o se
 
 #### SECÇÃO III — Deveres
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Deveres
 
@@ -302,7 +327,7 @@ d) Proteger os cidadãos e a propriedade alheia;
 
 #### SECÇÃO IV — Recompensas e seus efeitos
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Recompensas
 
@@ -318,19 +343,19 @@ d) Licença de prémio até 30 dias;
 
 e) Promoção por distinção.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Elogio
 
 O elogio destina-se a premiar os que, pela sua compostura e aprumo, se tornaram notados pelos seus superiores ou outras entidades.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Dispensas de serviço
 
 A dispensa de serviço consiste na autorização de não comparência ao mesmo e é concedida aos elementos que demonstrem ser zelosos no cumprimento dos seus deveres.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Louvor
 
@@ -338,7 +363,7 @@ Louvor
 
 2 - O louvor poderá ser acompanhado de licença de prémio.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Licença de prémio
 
@@ -346,7 +371,7 @@ Licença de prémio
 
 2 - A sua concessão compete ao comandante-geral.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Promoção por distinção
 
@@ -358,7 +383,7 @@ Promoção por distinção
 
 #### SECÇÃO V — Penas disciplinares e seus efeitos
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Penas disciplinares
 
@@ -382,7 +407,7 @@ h) Aposentação compulsiva;
 
 i) Demissão.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Caracterização das penas
 
@@ -402,7 +427,7 @@ Caracterização das penas
 
 8 - A pena de demissão consiste no afastamento definitivo do elemento punido, cessando o vínculo funcional.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Efeitos das penas
 
@@ -428,7 +453,7 @@ Efeitos das penas
 
 11 - A pena de demissão importa a desvinculação do elemento da função, com a consequente perda de todos os direitos, salvo quanto à aposentação nos termos da lei, e a incapacidade para poder ser provido em cargo público.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Unidade e acumulação de infracções
 
@@ -436,7 +461,7 @@ Unidade e acumulação de infracções
 
 2 - O disposto no número anterior é de observar, no caso de infracções apreciadas em mais de um processo, quando apensadas nos termos do artigo 44.º
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Penas aplicáveis a aposentados
 
@@ -444,7 +469,7 @@ Penas aplicáveis a aposentados
 
 2 - A pena de demissão determina a suspensão do abono pelo período de 3 anos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Classes de comportamento
 
@@ -524,13 +549,13 @@ Transferência para outro comando:
 
 #### SECÇÃO VI — Factos a que são aplicáveis as diferentes penas disciplinares
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Repreensão
 
 As penas de repreensão verbal ou escrita são aplicáveis por faltas leves de que não resultem prejuízos para o serviço ou para o público e sempre no intuito do melhoramento da disciplina e dos serviços.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Multa
 
@@ -542,7 +567,7 @@ Multa
 
 4 - A pedido do interessado e mediante despacho da entidade que julgar o processo, o pagamento da multa poderá ser feito em prestações, no máximo de 4.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Pena de detenção
 
@@ -568,13 +593,13 @@ i) Consentirem que alguém se apodere das armas de seu uso ou não as entregarem
 
 j) Se ausentarem da área do seu comando sem autorização superior.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Pena de transferência
 
 A pena de transferência é aplicável aos funcionários e agentes que, por virtude do seu procedimento, não possam manter-se no meio em que se encontram com prestígio correspondente à função ou que se mostrem incompatibilizados com ele de modo a serem os elementos perturbadores.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Pena de suspensão
 
@@ -598,7 +623,7 @@ h) Dentro do mesmo ano civil derem 30 faltas interpoladas não justificadas.
 
 2 - No caso de ausência ilegítima, o tempo contar-se-á por períodos de 24 horas, considerando-se como um período a fracção igual ou superior a 8 horas.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Pena de inactividade
 
@@ -610,7 +635,7 @@ b) Receberem fundos, cobrarem receitas ou outros, de que não prestem contas no 
 
 c) Violarem, com culpa grave ou dolo, o dever de imparcialidade no exercício das suas funções.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Penas de aposentação compulsiva e de demissão
 
@@ -638,7 +663,7 @@ i) Aceitarem, directa ou indirectamente, dádivas, gratificações ou participa�
 
 2 - A pena de aposentação compulsiva só será aplicada verificado o condicionalismo exigido pelo Estatuto da Aposentação, na ausência do qual será aplicada a de demissão.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Graduação das penas
 
@@ -646,7 +671,7 @@ Graduação das penas
 
 2 - Quando concorram circunstâncias atenuantes ou agravantes excepcionais, o julgador poderá aplicar as penas de escalão imediatamente inferior ou superior.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 Circunstâncias dirimentes
 
@@ -662,7 +687,7 @@ d) A não exigibilidade de conduta diversa;
 
 e) O exercício de um direito ou o cumprimento de um dever.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Circunstâncias atenuantes
 
@@ -688,7 +713,7 @@ Circunstâncias atenuantes
 
 3 - Considera-se pouco tempo de serviço o período de 2 anos após o alistamento ou ingresso na PSP.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Circunstâncias agravantes
 
@@ -720,7 +745,7 @@ Circunstâncias agravantes
 
 5 - A reincidência dá-se quando nova infracção é cometida antes de decorridos 6 meses sobre o dia em que tiver findado o cumprimento da pena imposta por infracção abrangida pelas mesmas disposições.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 Cumprimento das penas
 
@@ -736,13 +761,13 @@ b) As penas de aposentação compulsiva e demissão, a partir da data da publica
 
 #### SECÇÃO VII — Da competência disciplinar
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 Princípio geral
 
 A competência disciplinar, quer para a imposição de penas, quer para a concessão de recompensas, pertence aos superiores hierárquicos, de harmonia com os quadros anexos a este regulamento, e abrange sempre a dos subordinados.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 Exercício da competência
 
@@ -750,13 +775,13 @@ Exercício da competência
 
 2 - O superior hierárquico que recompensar ou punir um elemento pertencente a outro comando dará conhecimento do facto ao comandante daquele da resolução tomada.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 Obrigatoriedade de processo
 
 As participações por falta a que corresponda pena disciplinar sujeita a averbamento no processo individual do arguido serão sempre objecto de averiguações em processo disciplinar.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 Trâmites das participações
 
@@ -766,7 +791,7 @@ Trâmites das participações
 
 3 - Quando o superior, com competência disciplinar numa unidade ou serviço, constatar o cometimento de uma falta, poderá ordenar, por despacho escrito, a organização do respectivo processo disciplinar.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 Procedimento cautelar em caso de faltas graves
 
@@ -774,7 +799,7 @@ Procedimento cautelar em caso de faltas graves
 
 2 - O superior hierárquico que usar daqueles poderes deverá dar imediatamente conhecimento, por escrito e pelas vias competentes e mais rápidas, ao comandante do escalão superior e ao comandante da polícia de que o infractor dependa, descrevendo não só as faltas praticadas como o que delas resultou e os meios que empregou para manter a disciplina.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 Alteração das recompensas e das penas
 
@@ -784,19 +809,19 @@ O comandante-geral, comandantes distritais ou equivalentes têm a faculdade de c
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 Conceito
 
 O processo disciplinar é de investigação sumária, tendente ao apuramento claro e completo dos factos de natureza disciplinar, devendo remover-se todos os obstáculos contrários ao seu rápido e regular andamento, recusar-se tudo o que for impertinente, alheio e inútil ou dilatório e ordenar-se o que se torne necessário para o seguimento e conclusão esclarecedora do mesmo.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 Acção disciplinar e acção criminal
 
 A acção disciplinar é exercida independentemente da criminal. Porém, quando o ilícito criminal de que resultou a acção disciplinar tenha sido participado ao tribunal competente para apuramento e aplicação das respectivas sanções penais, a decisão final do processo disciplinar poderá aguardar tal resultado.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 Nulidades
 
@@ -812,13 +837,13 @@ Nulidades
 
 6 - A decisão que negue provimento ao recurso previsto no número anterior só pode ser impugnada no recurso interposto da decisão final.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 Clareza e testemunhas nas participações.
 
 O participante de uma infracção disciplinar deve procurar esclarecer-se previamente acerca dos pormenores que a caracterizaram, relatá-la como toda a verdade e clareza e indicar, quando possível, pelo menos, 2 testemunhas.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 Natureza secreta do processo
 
@@ -828,13 +853,13 @@ Natureza secreta do processo
 
 3 - É proibida toda e qualquer forma de publicidade, seja qual for o meio empregue, de quaisquer peças ou elementos constitutivos do processo disciplinar.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 Apensação de processos
 
 Quando um arguido cometa nova falta antes de julgado por infracção anterior, devem os processos ser apensos para apreciação e decisão em conjunto, salvo se houver conveniência em julgamentos separados, para bem da justiça.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 Despacho liminar
 
@@ -848,7 +873,7 @@ Despacho liminar
 
 #### SECÇÃO II — Instrução do processo
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 Nomeação do instrutor
 
@@ -858,13 +883,13 @@ Nomeação do instrutor
 
 3 - As funções de instrutor preferem a quaisquer outras que o funcionário ou agente nomeado tenha a seu cargo, podendo determinar-se, quando tal seja exigido pela natureza ou complexidade do processo, que aquele fique exclusivamente adstrito à função de instrução.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 Providências cautelares
 
 Compete ao instrutor tomar desde a sua nomeação as providências adequadas para que não se possa alterar o estado dos factos e dos documentos ou livros em que se descobriu ou se presume existir alguma irregularidade nem subtrair as provas desta.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 Instrução do processo
 
@@ -882,7 +907,7 @@ Instrução do processo
 
 7 - Os peritos a que se refere o número anterior serão indicados pela entidade que tiver mandado instaurar o processo disciplinar, caso o arguido não tenha usado a faculdade de indicar um, e os trabalhos a fazer pelo arguido serão da natureza dos que habitualmente competem a funcionários e agentes do mesmo serviço e categoria.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 Testemunhas na fase de instrução
 
@@ -890,7 +915,7 @@ Testemunhas na fase de instrução
 
 2 - É aplicável à inquirição de testemunhas o disposto no n.º 4 do artigo anterior.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 Termo da instrução
 
@@ -900,7 +925,7 @@ Termo da instrução
 
 #### SECÇÃO III — Defesa do arguido
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 Notificação da acusação
 
@@ -916,7 +941,7 @@ Notificação da acusação
 
 6 - Da nota de culpa deverá constar sempre a menção da delegação do poder de punir, quando exista e seja do conhecimento do instrutor.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 Incapacidade física ou mental
 
@@ -930,7 +955,7 @@ Incapacidade física ou mental
 
 5 - O incidente de alienação mental do arguido poderá ser suscitado pelo instrutor do processo, pelo próprio arguido ou por qualquer familiar seu.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 Exame do processo e apresentação da defesa
 
@@ -952,7 +977,7 @@ Exame do processo e apresentação da defesa
 
 9 - A falta de resposta dentro do prazo marcado vale como efectiva audiência do arguido para todos os efeitos legais.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 Resposta do arguido
 
@@ -960,7 +985,7 @@ Resposta do arguido
 
 2 - Quando a resposta revelar ou se traduzir em infracções estranhas à acusação e que não interessem à defesa, será autuada e dela se extrairá certidão, que será considerada como participação para efeitos de novo processo.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 Produção da prova oferecida pelo arguido
 
@@ -970,7 +995,7 @@ Produção da prova oferecida pelo arguido
 
 #### SECÇÃO IV — Decisão disciplinar e sua execução
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 Relatório final do instrutor
 
@@ -980,7 +1005,7 @@ Relatório final do instrutor
 
 3 - O processo, depois de relatado, será remetido no prazo de 24 horas à entidade que o tiver mandado instaurar, a qual, se não for competente para decidir, o enviará dentro de 2 dias a quem deva proferir a decisão.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 Decisão
 
@@ -988,7 +1013,7 @@ Decisão
 
 2 - A entidade que decidir o processo fundamentará sempre a sua decisão quando discordar da proposta formulada no relatório do instrutor.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 Notificação da decisão
 
@@ -996,7 +1021,7 @@ Proferida a decisão, o acusado será notificado, por escrito, da pena, com a in
 
 #### SECÇÃO V — Dos recursos e queixas
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 Recursos
 
@@ -1012,7 +1037,7 @@ d) Quando a descrição da infracção não corresponder aos actos praticados;
 
 e) Quando verificar que a falta de adopção de determinadas diligências lhe foram prejudiciais.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 Trâmites, apreciação e decisão do recurso
 
@@ -1032,7 +1057,7 @@ Trâmites, apreciação e decisão do recurso
 
 8 - Das decisões do Ministro cabe recurso para o Supremo Tribunal Administrativo, por via contenciosa, de acordo com a lei geral.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 Trâmites, apreciação e decisão da queixa
 
@@ -1044,7 +1069,7 @@ Trâmites, apreciação e decisão da queixa
 
 4 - A decisão sobre a queixa será exarada no prazo de 15 dias após a conclusão das averiguações e delas será dado conhecimento aos interessados.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 Imposto do selo
 
@@ -1054,7 +1079,7 @@ Imposto do selo
 
 #### SECÇÃO VI — Revisão do processo disciplinar
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 Requisitos da revisão
 
@@ -1062,7 +1087,7 @@ Requisitos da revisão
 
 2 - A revisão pode conduzir à revogação ou alteração da decisão proferida no processo revisto, não podendo, em caso algum, ser agravada a pena.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 Legitimidade
 
@@ -1072,7 +1097,7 @@ Legitimidade
 
 3 - A simples alegação da ilegalidade de forma ou de fundo do processo e da decisão disciplinar não constitui fundamento para a revisão.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 Decisão sobre o requerimento
 
@@ -1082,13 +1107,13 @@ Decisão sobre o requerimento
 
 3 - Da decisão do comandante-geral cabe recurso para o Ministro da Administração Interna.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 Trâmites
 
 Se for concedida a revisão, será o despacho e documentos inerentes apensos ao processo disciplinar, nomeando-se instrutor diferente do primeiro, que fará as diligências necessárias, nos termos dos artigos 46.º a 55.º, na parte aplicável.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 Efeitos da revisão
 
@@ -1104,7 +1129,7 @@ b) Anulação dos efeitos da pena.
 
 4 - No caso de revogação ou alteração das penas de reforma compulsiva e demissão, o arguido tem o direito de reingresso no lugar que ocupava. Se isto não for possível, ocupará a primeira vaga que ocorrer na categoria correspondente, exercendo transitoriamente, além do quadro e até à integração nestes, as suas funções, sem prejuízo para terceiros.
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 Imposto do selo
 
@@ -1112,7 +1137,7 @@ Ao processo de revisão, no que se refere a imposto do selo e emolumentos, é ap
 
 #### SECÇÃO VII — Amnistia
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 Penas amnistiadas
 
@@ -1120,7 +1145,7 @@ As amnistias não destroem os efeitos já produzidos pela aplicação da pena, d
 
 #### SECÇÃO VIII — Reabilitação
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 Regime aplicável
 
@@ -1140,13 +1165,13 @@ c) 4 anos para a pena de inactividade.
 
 #### SECÇÃO I — Processo de averiguações
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 Conceito
 
 Quando haja indícios de infracção disciplinar, poderão os comandantes distritais ou equivalentes proceder ou mandar proceder a processo de averiguações.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 Decisão
 
@@ -1158,7 +1183,7 @@ Decisão
 
 #### SECÇÃO II — Processo de inquérito e sindicância
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 Inquérito
 
@@ -1166,7 +1191,7 @@ Inquérito
 
 2 - A competência para ordenar inquéritos é do comandante-geral, por sua iniciativa ou por proposta dos comandos subordinados ou chefes de serviços.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 Sindicância
 
@@ -1174,13 +1199,13 @@ Sindicância
 
 2 - A competência para ordenar sindicâncias é do Ministro da Administração Interna.
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 Regras do processo
 
 Os processos de inquérito e sindicância regem-se pelas disposições contidas nos artigos seguintes e na parte aplicável pelas disposições gerais referentes à instrução do processo disciplinar.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 Publicidade
 
@@ -1188,7 +1213,7 @@ Publicidade
 
 2 - A afixação dos editais deverá fazer-se nos locais públicos do costume, especialmente na sede da junta de freguesia.
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 Prazo
 
@@ -1196,7 +1221,7 @@ Prazo
 
 2 - O inquiridor ou sindicante, sempre que julgue insuficiente o prazo inicialmente fixado para a efectivação das diligências ordenadas, informará aquele superior dessa insuficiência.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 Decisão
 
@@ -1204,7 +1229,7 @@ Concluído o processo e redigido o relatório do inquiridor ou sindicante, serã
 
 #### SECÇÃO III — Processo por abandono de lugar
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 Presunção de abandono e seus efeitos
 
@@ -1220,7 +1245,7 @@ Presunção de abandono e seus efeitos
 
 6 - Se a ausência ocorrer depois de desempenhado o serviço normal ou estando o faltoso na sua folga, começa a contar-se a partir do primeiro serviço a que faltar.
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 Regras do processo
 
@@ -1228,7 +1253,7 @@ Ao processo por abandono do serviço será aplicável o estabelecido quanto ao p
 
 ### CAPÍTULO IV — Conselho Superior de Justiça e Disciplina
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 Competência
 
@@ -1246,7 +1271,7 @@ e) Apreciar e dar parecer sobre propostas para a aplicação das penas de aposen
 
 f) Apreciar e emitir parecer sobre outros assuntos do âmbito da justiça e disciplina.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 Funcionamento do Conselho
 
@@ -1254,7 +1279,7 @@ O funcionamento será regulado por regimento interno, a aprovar pelo comandante-
 
 ### CAPÍTULO V — Disposições diversas
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 Obrigatoriedade de comparência a actos do processo
 
@@ -1264,18 +1289,18 @@ Obrigatoriedade de comparência a actos do processo
 
 3 - No caso de falta injustificada, a autoridade averiguante pode requerer ainda ao juiz a comparência do faltoso, sob custódia.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 Regime disciplinar escolar
 
 Quando da frequência dos cursos de formação inicial após o alistamento nos estabelecimentos de ensino da Polícia de Segurança Pública, será aplicável aos agentes um regime disciplinar escolar, segundo normas a aprovar pelo Comando-Geral.
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 Dúvidas e casos omissos
 
 As dúvidas e os casos omissos que se suscitarem para aplicação deste Regulamento serão resolvidos por despacho do Ministro da Administração Interna, sob proposta do comandante-geral.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25500/37023717.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25500/37023717.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25500/37023717.pdf)
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25500/37023717.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25500/37023717.pdf)
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25500/37023717.pdf)

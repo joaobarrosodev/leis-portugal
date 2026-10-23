@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1985-152685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3444f82d15f7d8546fd2ec02518e715be96f08c0cbbdb2569ea5ee588db0c5e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f650378fbdc901a1ead7d72c27e4e296d1cad2e1f0b50b9a70e2d0f0e85e3f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carta de Condução
+- Centro de Instrução de Condução AUTO
+- Conselho Administrativo
+- Exército
+- Gestão Financeira
+- Instrutor de Condução
+- Penafiel
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:280230:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:26Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +104,22 @@ Considerando ser objectivo do Exército o aproveitamento prioritário de instala
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, em Penafiel, o Centro de Instrução de Condução Auto n.º 1 (CICA n.º 1).
+Artigo 1.º É criado, em Penafiel, o Centro de Instrução de Condução Auto n.º 1 (CICA n.º 1).
 
-###### Art. 2.º O CICA n.º 1 tem como missão instruir o contingente que para o efeito lhe for destinado a ministrar instrução de adaptação e aperfeiçoamento aos especialistas de transportes que tenham sido convocados ou mobilizados e careçam da mesma.
+Art. 2.º O CICA n.º 1 tem como missão instruir o contingente que para o efeito lhe for destinado a ministrar instrução de adaptação e aperfeiçoamento aos especialistas de transportes que tenham sido convocados ou mobilizados e careçam da mesma.
 
-###### Art. 3.º O quadro orgânico do CICA n.º 1 será definido por portaria conjunta dos Ministros da Defesa Nacional e das Finanças e do Plano.
+Art. 3.º O quadro orgânico do CICA n.º 1 será definido por portaria conjunta dos Ministros da Defesa Nacional e das Finanças e do Plano.
 
-###### Art. 4.º Até que seja aprovado o sistema de gestão financeira previsto pelo [Decreto-Lei n.º 524/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1977-280230), de 21 de Dezembro, é criado o conselho administrativo do CICA n.º 1, com a constituição indicada nos Decretos n.os 34365, de 3 de Janeiro de 1945, e 35413, de 29 de Dezembro de 1945.
+Art. 4.º Até que seja aprovado o sistema de gestão financeira previsto pelo [Decreto-Lei n.º 524/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1977-280230), de 21 de Dezembro, é criado o conselho administrativo do CICA n.º 1, com a constituição indicada nos Decretos n.os 34365, de 3 de Janeiro de 1945, e 35413, de 29 de Dezembro de 1945.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 27 de Abril de 1985.**
+Promulgado em 27 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Abril de 1985.**
+Referendado em 30 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

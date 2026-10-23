@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1986-219967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc96fad2274c2c6282aa93c725e0edc03c20b42aa9d583c000c66ddb0360c350
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33680c7fd72c10b5b9e8d6d443a34436b9e9260f9ea59432d32872dad107f86c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do IVA
+- Importação de Veículos
 relationships:
 - type: amended_by
   target: pt:dre:574957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406128:por
+  label: "Alterado o art. 13º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec-Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.404/87.31.12.1987.MF, DR.IS [300-3ºSupl] de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-1987-406128
+  date: '1987-12-31'
+- type: amended_by
+  target: pt:dre:620353:por
+  label: Alterado o art. 13.º do Código do IVA aprovado pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma pelo(a)
+    Decreto-Lei n.º 195/89 - Diário da República n.º 133/1989, Série I de 1989-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1989-620353
+  date: '1989-06-12'
+- type: amended_by
+  target: pt:dre:574957:por
+  label: "Dada nova redacção aos art. 13º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, alterado pelo presente\
+    \ diploma, pelo DEC LEI.198/90.19.06.1990.MF, DR.IS [139] de 19.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1990-574957
+  date: '1990-06-19'
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:50Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +123,9 @@ Tendo em atenção a conveniência de rever alguns dos preceitos do aludido Cód
 
 No uso da autorização conferida pela alínea d) do artigo 28.º e pela alínea b) do n.º 1 do artigo 30.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 13.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 13.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 a) ...
 
@@ -163,12 +191,12 @@ b) Combustíveis e carburantes que não sejam os contidos nos depósitos normais
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Agosto de 1986.**
+Promulgado em 9 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Agosto de 1986.**
+Referendado em 14 de Agosto de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11400/11761178.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1986-227070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81f58d49ee15a2347591c2e0795c0468439ed6ff576103310cf1649da1f9453e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c73e92181deb471281dbf7c39efd9fe48f131da18381b2ecbe186305a10da6af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituição de Crédito
+- Locação Financeira
+- Regime Jurídico
+- Sociedade de Locação Financeira
 relationships:
 - type: amended_by
   target: pt:dre:230112:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382610:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419187:por
+  label: "Revogado o art. 4º, pelo DEC LEI.228/87.1987.06.11.MF, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1987-419187
+  date: '1987-06-11'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA A AL A) DO NUM 1 DO ART 10 PELO DEC LEI 318/89 DE 23-SET DR.IS [220]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-23'
+- type: repealed_by
+  target: pt:dre:548228:por
+  label: "Revogada a alínea a) do n.º 1 do artigo 10.º, pelo DEC LEI.318/89.23.09.1989.MF, DR.IS [220] de 23.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1989-548228
+  date: '1989-09-23'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA A AL B) DO NUM 1 E NUM 2 DO ART 10 PELO DEC LEI 149/92 DE 21-JUL DR.IS-A [166]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-07-21'
+- type: repealed_by
+  target: pt:dre:292298:por
+  label: "Revogada a alínea b) do n.º 1 e n.º 2 do artigo 10.º, pelo DEC LEI.149/92.21.07.1992.MF, DR.IS-A [166] de 21.07.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-1992-292298
+  date: '1992-07-21'
+- type: repealed_by
+  target: pt:dre:230112:por
+  label: "Revogado pelo DEC LEI.72/95.1995.04.15.MF, DR.IS-A [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-1995-230112
+  date: '1995-04-15'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:34Z'
   warnings: []
   errors: []
 ---
@@ -194,12 +249,12 @@ São revogados os Decretos-Leis n.os [135/79](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 24 de Abril de 1986.**
+Promulgado em 24 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Maio de 1986.**
+Referendado em 7 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

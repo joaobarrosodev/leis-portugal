@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1985-327134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28fd7b56d28d3f566212c52945550d0d42255198cedd71acf3926e5a29d34b9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db489d71087cb618d6640333d1e89b55ac583f7229bb40d3495aecf79e01c53e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Estabelecimento de Ensino
+- Gestão de Recursos Humanos
+- Pessoal Docente
+- Pessoal não Docente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:29Z'
   warnings: []
   errors: []
 ---
@@ -102,62 +107,62 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nas localidades onde não se justifique a existência de uma escola preparatória e de uma escola secundária autónomas poderá funcionar uma escola preparatória e secundária, designada abreviadamente neste diploma por «C + S».
+Artigo 1.º - 1 - Nas localidades onde não se justifique a existência de uma escola preparatória e de uma escola secundária autónomas poderá funcionar uma escola preparatória e secundária, designada abreviadamente neste diploma por «C + S».
 
 2 - As escolas referidas no número anterior serão criadas por portaria conjunta dos Ministros das Finanças e do Plano e da Educação e do Secretário de Estado da Administração Pública.
 
-###### Art. 2.º - 1 - As escolas C + S possuirão um quadro de professores efectivos do ensino preparatório e um quadro de professores efectivos do ensino secundário, a estabelecer na portaria referida no n.º 2 do artigo anterior.
+Art. 2.º - 1 - As escolas C + S possuirão um quadro de professores efectivos do ensino preparatório e um quadro de professores efectivos do ensino secundário, a estabelecer na portaria referida no n.º 2 do artigo anterior.
 
 2 - Os lugares dos quadros mencionados no número anterior serão providos nos termos da lei em vigor sobre o preenchimento dos lugares docentes dos quadros dos ensinos preparatório e secundário.
 
-###### Art. 3.º As escolas C + S a que se refere o presente diploma terão um único quadro de pessoal técnico, administrativo e de pessoal auxiliar de apoio.
+Art. 3.º As escolas C + S a que se refere o presente diploma terão um único quadro de pessoal técnico, administrativo e de pessoal auxiliar de apoio.
 
-###### Art. 4.º Às escolas C + S é aplicável a legislação vigente sobre gestão dos estabelecimentos do ensino preparatório e do ensino secundário.
+Art. 4.º Às escolas C + S é aplicável a legislação vigente sobre gestão dos estabelecimentos do ensino preparatório e do ensino secundário.
 
-###### Art. 5.º - 1 - A atribuição de cargos aos membros docentes do conselho directivo eleito far-se-á de acordo com o estabelecido na lei em vigor sobre a matéria, independentemente do grau de ensino a que pertencer cada um daqueles docentes.
+Art. 5.º - 1 - A atribuição de cargos aos membros docentes do conselho directivo eleito far-se-á de acordo com o estabelecido na lei em vigor sobre a matéria, independentemente do grau de ensino a que pertencer cada um daqueles docentes.
 
 2 - Sem prejuízo do disposto no número anterior, o presidente e o vice-presidente pertencerão, obrigatoriamente, a graus de ensino diferentes.
 
-###### Art. 6.º No caso de não ser possível a eleição do conselho directivo proceder-se-á, nos termos da lei em vigor, à designação do mesmo.
+Art. 6.º No caso de não ser possível a eleição do conselho directivo proceder-se-á, nos termos da lei em vigor, à designação do mesmo.
 
-###### Art. 7.º - 1 - As escolas C + S terão, nos termos da lei geral sobre a matéria, um único conselho pedagógico, presidido pelo presidente do conselho directivo, e dele fará obrigatoriamente parte o vice-presidente deste conselho.
+Art. 7.º - 1 - As escolas C + S terão, nos termos da lei geral sobre a matéria, um único conselho pedagógico, presidido pelo presidente do conselho directivo, e dele fará obrigatoriamente parte o vice-presidente deste conselho.
 
 2 - O conselho pedagógico mencionado no número anterior poderá reunir-se por secções, sendo uma do ensino preparatório e outra do ensino secundário, as quais serão presididas uma pelo presidente e outra pelo vice-presidente do conselho directivo, consoante o grau de ensino a que pertencerem.
 
-###### Art. 8.º - 1 - Os professores das escolas C + S poderão, desde que portadores das habilitações legalmente exigidas, prestar serviço em grau de ensino diferente daquele em que obtiveram colocação, de acordo com normas a definir pelas direcções-gerais de Ensino.
+Art. 8.º - 1 - Os professores das escolas C + S poderão, desde que portadores das habilitações legalmente exigidas, prestar serviço em grau de ensino diferente daquele em que obtiveram colocação, de acordo com normas a definir pelas direcções-gerais de Ensino.
 
 2 - A leccionação prevista nos termos do número anterior não envolverá qualquer alteração de letra de vencimento a que o professor tiver direito em resultado da respectiva colocação.
 
-###### Art. 9.º - 1 - As escolas C + S dependerão, em termos funcionais e de organização escolar, da Direcção-Geral do Ensino Básico.
+Art. 9.º - 1 - As escolas C + S dependerão, em termos funcionais e de organização escolar, da Direcção-Geral do Ensino Básico.
 
 2 - Pedagogicamente, as escolas C + S receberão as adequadas orientações quer da Direcção-Geral do Ensino Básico quer da Direcção-Geral do Ensino Secundário.
 
-###### Art. 10.º A designação das escolas C + S obedecerá às normas em vigor no que se refere às escolas preparatórias e às escolas secundárias.
+Art. 10.º A designação das escolas C + S obedecerá às normas em vigor no que se refere às escolas preparatórias e às escolas secundárias.
 
-###### Art. 11.º - 1 - Desde que a frequência escolar justifique a criação de novo estabelecimento de ensino, este será obrigatoriamente uma escola secundária, considerando-se, para todos os efeitos, transformada em preparatória a escola C + S.
+Art. 11.º - 1 - Desde que a frequência escolar justifique a criação de novo estabelecimento de ensino, este será obrigatoriamente uma escola secundária, considerando-se, para todos os efeitos, transformada em preparatória a escola C + S.
 
 2 - Em consequência do disposto no número anterior, o quadro de pessoal docente do ensino secundário da escola C + S, sem prejuízo do seu possível alargamento, transfere-se para a escola secundária.
 
-###### Art. 12.º - 1 - Os professores dos quadros do ensino preparatório e do ensino secundário da escola C + S transitam, independentemente de quaisquer formalidades legais, excepto a anotação do Tribunal de Contas, respectivamente, para a escola preparatória e para a escola secundária.
+Art. 12.º - 1 - Os professores dos quadros do ensino preparatório e do ensino secundário da escola C + S transitam, independentemente de quaisquer formalidades legais, excepto a anotação do Tribunal de Contas, respectivamente, para a escola preparatória e para a escola secundária.
 
 2 - Os professores profissionalizados não efectivos e provisórios do ensino preparatório e do ensino secundário da escola C + S consideram-se, para efeitos de concurso, vinculados, respectivamente, à escola preparatória e à escola secundária.
 
-###### Art. 13.º - 1 - Em consequência da separação a que se refere o artigo anterior, serão reajustados os quadros de pessoal administrativo e auxiliar de apoio da escola preparatória e criados novos quadros do respectivo pessoal na escola secundária.
+Art. 13.º - 1 - Em consequência da separação a que se refere o artigo anterior, serão reajustados os quadros de pessoal administrativo e auxiliar de apoio da escola preparatória e criados novos quadros do respectivo pessoal na escola secundária.
 
 2 - O pessoal técnico, administrativo e auxiliar de apoio considerado excedentário na escola preparatória em consequência do disposto no número anterior é transferido, na situação que possuir, para a escola secundária, independentemente de quaisquer formalidades legais, excepto a anotação do Tribunal de Contas.
 
-###### Art. 14.º No prazo de 30 dias, contado a partir da publicação do presente diploma, será o mesmo aplicado, por portaria conjunta dos Ministros das Finanças e do Plano e da Educação e do Secretário de Estado da Administração Pública, às escolas preparatórias que, reunindo as condições estabelecidas no artigo 1.º deste decreto-lei, se encontrem, à data da sua entrada em vigor, a ministrar os ensinos preparatório e secundário.
+Art. 14.º No prazo de 30 dias, contado a partir da publicação do presente diploma, será o mesmo aplicado, por portaria conjunta dos Ministros das Finanças e do Plano e da Educação e do Secretário de Estado da Administração Pública, às escolas preparatórias que, reunindo as condições estabelecidas no artigo 1.º deste decreto-lei, se encontrem, à data da sua entrada em vigor, a ministrar os ensinos preparatório e secundário.
 
-###### Art. 15.º Em tudo o que não se dispuser no presente diploma aplica-se a legislação em vigor para o ensino preparatório ou para o ensino secundário, consoante os casos.
+Art. 15.º Em tudo o que não se dispuser no presente diploma aplica-se a legislação em vigor para o ensino preparatório ou para o ensino secundário, consoante os casos.
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - José Augusto Seabra.
 
-**Promulgado em 12 de Fevereiro de 1985.**
+Promulgado em 12 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Fevereiro de 1985.**
+Referendado em 13 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

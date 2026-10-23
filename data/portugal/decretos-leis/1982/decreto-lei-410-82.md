@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 227/1982, 1º Suplemento, Série I de 1982-09-30
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3206-(6) a 3206-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22701/00060025.pdf
 entry_into_force_dates: []
@@ -46,40 +46,181 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 444a548fdaf18590b9ade50b1521373aa7845746eb4072a68a4fef1f3777ecfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d444102a6292da510ab3530ce074dda27d20378fb1542a0823dc589bafdf315d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- PSP
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:208991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381544:por
+  label: "Aumentado o quadro geral de efectivos instituido pelo anexo I, incluido Barcelos no apêndice 4 ao anexo III e dada\
+    \ nova redacção ao apêndice 13 ao anexo IV do presente diploma, pelo DEC LEI.264/84.02.08.1984.PCM, DR.IS [178] de 02.08.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1984-381544
+  date: '1984-08-02'
+- type: amended_by
+  target: pt:dre:373638:por
+  label: "Desactivado o posto policial de Vieira de Leiria,constante do anexo III do presente diploma, pela PORT.651/84.29.08.1984.MAI,\
+    \ DR.IS [200] de 29.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/651-1984-373638
+  date: '1984-08-29'
+- type: amended_by
+  target: pt:dre:400197:por
+  label: "Extinto o quadro de pessoal da Escola de Formação da Guarda, substituido o quadro de pessoal da Escola Prática de\
+    \ Polícia e aumentado o quadro de pessoal do Comando Geral de Polícia de Segurança Pública, constantes dos apêndices 1.2\
+    \ e 3 do anexo IV ao presente diploma, pelo DEC LEI.333/84.18.10.1984.PCM, DR.IS [242] de 18.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1984-400197
+  date: '1984-10-18'
+- type: amended_by
+  target: pt:dre:218915:por
+  label: "Aditado o anexo I referido no art. 2º, o apêndice 4 do anexo III e o apêndice 5 do anexo IV do Dec Lei 410/82, de\
+    \ 30-Set DR.IS [227] Supl. pelo DEC LEI.223/86.11.08.1986.MAI, DR.IS [183] de 11.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1986-218915
+  date: '1986-08-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO I E OS ANEXOS III E IV, PELA PORTARIA 151/88, DE 11 DE MARCO, PUBLICADA
+    NO DR.IS, 59, DE 880311.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO GERAL DE EFECTIVOS CONSTANTE DO ANEXO I, ELIMINADA NO ANEXO III A REFERÊNCIA AO POSTO POLICIAL\
+    \ DE PENICHE E ADITADA AO MESMO ANEXO A NOVA ESQUADRA POLICIAL, TIPO A, DE PENICHE, E ALTERADO O ANEXO IV, NA PARTE RESPEITANTE\
+    \ AO COMANDO DISTRITAL DE LEIRIA, PELA PORT 170/88 DE 21-MAR DR.IS [67]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-21'
+- type: amended_by
+  target: pt:dre:334656:por
+  label: "Alterados os anexos I, III e IV, pelo PORT.100/90.09.02.1990.MF, DR.IS [34] de 09.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/100-1990-334656
+  date: '1990-02-09'
+- type: amended_by
+  target: pt:dre:334662:por
+  label: "Alterados os anexos I, III e IV, pela PORT.98/90.09.02.1990.MF, DR.IS [34] de 09.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-1990-334662
+  date: '1990-02-09'
+- type: amended_by
+  target: pt:dre:334663:por
+  label: "Alterados os anexos I, III e IV, pela PORT.99/90.09.02.1990.MF, DR.IS [34] de 09.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-1990-334663
+  date: '1990-02-09'
+- type: amended_by
+  target: pt:dre:334664:por
+  label: "Alterados os anexos I, III e IV, pela PORT.97/90.09.02.1990.MF, DR.IS [34] de 09.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-1990-334664
+  date: '1990-02-09'
+- type: amended_by
+  target: pt:dre:571270:por
+  label: "Alterados o quadro geral de efectivos da Polícia de Segurança Pública, constante do anexo I, assim como os anexos\
+    \ III e IV pela PORT.365/90.12.05.1990.MF, DR.IS [109] de 12.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-1990-571270
+  date: '1990-05-12'
+- type: amended_by
+  target: pt:dre:574971:por
+  label: "Alterado o quadro de efectivos da PSP constante dos anexos I e IV pela PORT.427/90.12.06.1990.MF, DR.IS [135] de\
+    \ 12.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1990-574971
+  date: '1990-06-12'
+- type: amended_by
+  target: pt:dre:575478:por
+  label: "Alterados os anexos I, III e IV pela PORT.478/90.28.06.1990.MF, DR.IS [147] de 28.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/478-1990-575478
+  date: '1990-06-28'
+- type: amended_by
+  target: pt:dre:208991:por
+  label: "Substituído o quadro geral de efectivos da PSP, com funções técnico-policiais, pela PORT.212/98.1998.04.03.PCM DR.IS-B\
+    \ [79]O\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-1998-208991
+  date: '1998-04-03'
+- type: cites
+  target: pt:dre:139436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:376217:por
+  label: Rectificado pela DECL.DD5994.04.10.1982.PCM, DR.IS [240] de 16.10.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-376217
+  date: '1982-10-04'
 article_structure:
-  article_count: 1
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:30Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +247,15 @@ Atendendo à necessidade urgente de garantir a capacidade operacional actual em 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Passa a fazer parte integrante do quadro orgânico da Polícia de Segurança Pública o pessoal existente à presente data nas categorias de comissário e agente que havia sido integrado na qualidade de supranumerário permanente ao abrigo do [Decreto-Lei n.º 632/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1975-310386), de 14 de Novembro.
+Artigo 1.º Passa a fazer parte integrante do quadro orgânico da Polícia de Segurança Pública o pessoal existente à presente data nas categorias de comissário e agente que havia sido integrado na qualidade de supranumerário permanente ao abrigo do [Decreto-Lei n.º 632/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1975-310386), de 14 de Novembro.
 
-###### Art. 2.º O quadro geral de pessoal da Polícia de Segurança Pública, no que respeita a oficiais do Exército, comissários e agentes, passa a ser o constante do anexo I ao presente diploma.
+Art. 2.º O quadro geral de pessoal da Polícia de Segurança Pública, no que respeita a oficiais do Exército, comissários e agentes, passa a ser o constante do anexo I ao presente diploma.
 
-###### Art. 3.º - 1 - Para dar cumprimento ao previsto nos artigos anteriores serão postos em execução os mecanismos legais e regulamentares instituídos, quer aplicados ao pessoal do actual quadro orgânico, quer ao pessoal ex-supranumerário permanente, já colocado nas respectivas posições hierárquicas e de antiguidade para cada categoria, de acordo com as normas estipuladas no [Decreto-Lei n.º 632/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1975-310386), de 14 de Novembro.
+Art. 3.º - 1 - Para dar cumprimento ao previsto nos artigos anteriores serão postos em execução os mecanismos legais e regulamentares instituídos, quer aplicados ao pessoal do actual quadro orgânico, quer ao pessoal ex-supranumerário permanente, já colocado nas respectivas posições hierárquicas e de antiguidade para cada categoria, de acordo com as normas estipuladas no [Decreto-Lei n.º 632/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1975-310386), de 14 de Novembro.
 
 2 - Os excessos de efectivos de cada categoria que venham a existir, como resultado da aplicação do previsto no artigo 2.º à data da entrada em vigor deste diploma serão considerados na situação de além quadro, devendo os mesmos ocupar a primeira vaga que se venha a dar, sem prejuízo do que se encontra estabelecido no [Decreto-Lei n.º 192/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1975-161905), de 12 de Abril.3 - Ficarão abrangidos pelo previsto no número anterior os elementos de menor antiguidade nas respectivas categorias.
 
-###### Art. 4.º - 1 - No Comando-Geral e na dependência do Chefe do Estado-Maior são criados mais os seguintes órgãos de apoio:
+Art. 4.º - 1 - No Comando-Geral e na dependência do Chefe do Estado-Maior são criados mais os seguintes órgãos de apoio:
 
 Repartição de Instrução;
 
@@ -184,19 +325,19 @@ Executar outras missões que lhe venham a ser cometidas no âmbito de acidente e
 
 7 - São retiradas às restantes repartições e serviços as competências atribuídas aos órgãos agora criados.
 
-###### Art. 5.º Os comissários principais passam a desempenhar funções de 2.º comandante e comandante de formação de comando nos comandos distritais sempre que tal seja previsto nos anexos aos artigos 6.º e 7.º deste diploma.
+Art. 5.º Os comissários principais passam a desempenhar funções de 2.º comandante e comandante de formação de comando nos comandos distritais sempre que tal seja previsto nos anexos aos artigos 6.º e 7.º deste diploma.
 
-###### Art. 6.º - 1 - Para efeitos de uma mais equilibrada distribuição dos efectivos previstos no artigo 2.º são criados comandos e subunidades tipo, no que respeita a pessoal masculino, conforme se discriminam no anexo II ao presente diploma.
+Art. 6.º - 1 - Para efeitos de uma mais equilibrada distribuição dos efectivos previstos no artigo 2.º são criados comandos e subunidades tipo, no que respeita a pessoal masculino, conforme se discriminam no anexo II ao presente diploma.
 
 2 - A aplicação da tipificação prevista no número anterior aos vários comandos e subunidades, assim como a sua implantação no território nacional, é a descrita no anexo III ao presente diploma.
 
-###### Art. 7.º A distribuição geral dos efectivos prevista no artigo 2.º pelo Comando-Geral, estabelecimentos de ensino, unidades e subunidades, tendo em atenção o estabelecido neste diploma e na legislação geral da Polícia de Segurança Pública - Dispositivo -, passa a ser a que se discrimina no anexo IV.
+Art. 7.º A distribuição geral dos efectivos prevista no artigo 2.º pelo Comando-Geral, estabelecimentos de ensino, unidades e subunidades, tendo em atenção o estabelecido neste diploma e na legislação geral da Polícia de Segurança Pública - Dispositivo -, passa a ser a que se discrimina no anexo IV.
 
-###### Art. 8.º Fica o Ministro da Administração Interna autorizado a criar e a extinguir, por portaria, secções, esquadras e postos e a fixar as respectivas dotações em pessoal, desde que não seja excedido o quadro geral previsto no artigo 2.º
+Art. 8.º Fica o Ministro da Administração Interna autorizado a criar e a extinguir, por portaria, secções, esquadras e postos e a fixar as respectivas dotações em pessoal, desde que não seja excedido o quadro geral previsto no artigo 2.º
 
-###### Art. 9.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Administração Interna, sempre que o facto não envolva princípios gerais de administração e encargos, em que terá de ser obtida a concordância do Ministro da Reforma Administrativa e do Ministro de Estado e das Finanças e do Plano, de harmonia com as respectivas competências.
+Art. 9.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Administração Interna, sempre que o facto não envolva princípios gerais de administração e encargos, em que terá de ser obtida a concordância do Ministro da Reforma Administrativa e do Ministro de Estado e das Finanças e do Plano, de harmonia com as respectivas competências.
 
-###### Art. 10.º São revogados:
+Art. 10.º São revogados:
 
 1) Os artigos 1.º, com excepção no que diz respeito a oficiais do Exército do quadro de complemento, 3.º, 4.º, 6.º, 7.º, 8.º, n.º 1, 9.º e 10.º do [Decreto-Lei n.º 632/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1975-310386), de 14 de Novembro;
 
@@ -242,21 +383,21 @@ Total ... 17659
 
 ## ANEXO II — Tipificação de comandos distritais e subunidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00060025.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00060025.pdf)
 
 ## ANEXO III — Aplicação da tipificação e sua implantação em território nacional
 
-## Apêndice 1 - Comandos distritais e equiparados.
+Apêndice 1 - Comandos distritais e equiparados.
 
-## Apêndice 2 - Divisões e divisões especiais.
+Apêndice 2 - Divisões e divisões especiais.
 
-## Apêndice 3 - Secções.
+Apêndice 3 - Secções.
 
-## Apêndice 4 - Esquadras e esquadras especiais.
+Apêndice 4 - Esquadras e esquadras especiais.
 
-## Apêndice 5 - Postos e postos especiais.
+Apêndice 5 - Postos e postos especiais.
 
-## APÊNDICE 1 AO ANEXO III
+APÊNDICE 1 AO ANEXO III
 
 Comandos distritais e equiparados
 
@@ -272,7 +413,7 @@ e) Comando distrital - Comando tipo E - Viana do Castelo, Beja, Évora, Castelo 
 
 f) Comando (CMD) equiparado - Funchal, Ponta Delgada, Angra do Heroísmo e Horta.
 
-## APÊNDICE 2 AO ANEXO III
+APÊNDICE 2 AO ANEXO III
 
 Divisões e divisões especiais
 
@@ -282,7 +423,7 @@ b) Divisões - Divisão tipo B - 1.ª Divisão/Lisboa, 2.ª Divisão/Lisboa, 3.�
 
 c) Divisões especiais - Divisão de Segurança, Divisão do Aeroporto de Lisboa, Divisão de Trânsito de Lisboa e Divisão de Trânsito do Porto.
 
-## APÊNDICE 3 AO ANEXO III
+APÊNDICE 3 AO ANEXO III
 
 Secções
 
@@ -290,27 +431,27 @@ a) Secção de Lamego.
 
 #### Secção de Chaves.
 
-#### Secção de Elvas.
+Secção de Elvas.
 
 #### Secção da Covilhã.
 
-#### Secção de Guimarães.
+Secção de Guimarães.
 
 #### Secção de Espinho.
 
-#### Secção das Caldas da Rainha.
+Secção das Caldas da Rainha.
 
 #### Secção de Tomar.
 
-#### Secção de Penafiel.
+Secção de Penafiel.
 
 #### Secção de Loures.
 
-#### Secção de Oeiras.
+Secção de Oeiras.
 
-#### Secção da Figueira da Foz.
+Secção da Figueira da Foz.
 
-## APÊNDICE 4 AO ANEXO III
+APÊNDICE 4 AO ANEXO III
 
 Esquadras e esquadras especiais
 
@@ -516,7 +657,7 @@ Aeroporto de Santa Maria.
 
 Aeroporto de Santa Catarina.
 
-## APÊNDICE 5 AO ANEXO III
+APÊNDICE 5 AO ANEXO III
 
 Postos e postos especiais
 
@@ -736,11 +877,11 @@ Aeroporto da Horta.
 
 1 - Comando-Geral:
 
-## Apêndice 1.
+Apêndice 1.
 
 2 - Escola Prática de Polícia:
 
-## Apêndice 2:
+Apêndice 2:
 
 a) Mantém-se o efectivo previsto ao abrigo do artigo 1.º do [Decreto-Lei n.º 47267](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47267-1966-478270), de 21 de Outubro de 1966, da [Portaria n.º 23381](https://diariodarepublica.pt/dr/detalhe/portaria/23381-1968-271826), de 15 de Maio de 1968, da [Portaria n.º 388/71](https://diariodarepublica.pt/dr/detalhe/portaria/388-1971-642772), de 22 de Julho, da [Portaria n.º 368/73](https://diariodarepublica.pt/dr/detalhe/portaria/368-1973-422427), de 26 de Maio, e dos n.os 1.º e 2.º da [Portaria n.º 745/74](https://diariodarepublica.pt/dr/detalhe/portaria/745-1974-465444), de 18 de Novembro [alínea a) do apêndice 2];
 
@@ -752,7 +893,7 @@ c) Ficam por preencher, nos termos do artigo 6.º do [Decreto-Lei n.º 47267](ht
 
 3 - Escola de Formação de Guardas:
 
-## Apêndice 3:
+Apêndice 3:
 
 a) Mantém-se o efectivo previsto ao abrigo do [Decreto-Lei n.º 145/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1978-295164), de 17 de Junho, com a nova redacção que lhe é dada pelo [Decreto-Lei n.º 303/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1979-378974), de 18 de Agosto, [alínea a) do apêndice 3];
 
@@ -760,7 +901,7 @@ b) É aumentado ao efectivo total dado pela alínea anterior um major ou capitã
 
 4 - Corpo de Intervenção:
 
-## Apêndice 4:
+Apêndice 4:
 
 a) Mantém-se o efectivo previsto ao abrigo do [Decreto-Lei n.º 131/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1977-139436), de 5 de Abril [alínea a) do apêndice IV];
 
@@ -770,90 +911,90 @@ c) É aumentado um comissário principal ao efectivo previsto na alínea a), com
 
 5 - Comando Distrital de Lisboa:
 
-## Apêndice 5.
+Apêndice 5.
 
 6 - Comando Distrital do Porto:
 
-## Apêndice 6.
+Apêndice 6.
 
 7 - Comando Distrital de Faro:
 
-## Apêndice 7.
+Apêndice 7.
 
 8 - Comando Distrital de Setúbal:
 
-## Apêndice 8.
+Apêndice 8.
 
 9 - Comando Distrital de Coimbra:
 
-## Apêndice 9.
+Apêndice 9.
 
 10 - Comando Distrital de Santarém.
 
-## Apêndice 10.
+Apêndice 10.
 
 11 - Comando Distrital de Leiria:
 
-## Apêndice 11.
+Apêndice 11.
 
 12 - Comando Distrital de Aveiro:
 
-## Apêndice 12.
+Apêndice 12.
 
 13 - Comando Distrital de Braga:
 
-## Apêndice 13.
+Apêndice 13.
 
 14 - Comando Distrital de Viana do Castelo:
 
-## Apêndice 14.
+Apêndice 14.
 
 15 - Comando Distrital de Beja:
 
-## Apêndice 15.
+Apêndice 15.
 
 16 - Comando Distrital de Évora:
 
-## Apêndice 16.
+Apêndice 16.
 
 17 - Comando Distrital de Castelo Branco:
 
-## Apêndice 17.
+Apêndice 17.
 
 18 - Comando Distrital de Portalegre:
 
-## Apêndice 18.
+Apêndice 18.
 
 19 - Comando Distrital da Guarda:
 
-## Apêndice 19.
+Apêndice 19.
 
 20 - Comando Distrital de Viseu:
 
-## Apêndice 20.
+Apêndice 20.
 
 21 - Comando Distrital de Bragança:
 
-## Apêndice 21
+Apêndice 21
 
 22 - Comando Distrital de Vila Real:
 
-## Apêndice 22.
+Apêndice 22.
 
 23 - Comando do Funchal:
 
-## Apêndice 23.
+Apêndice 23.
 
 24 - Comando de Ponta Delgada:
 
-## Apêndice 24.
+Apêndice 24.
 
 25 - Comando de Angra do Heroísmo:
 
-## Apêndice 25.
+Apêndice 25.
 
 26 - Comando da Horta:
 
-## Apêndice 26.
+Apêndice 26.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00060025.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00060025.pdf)

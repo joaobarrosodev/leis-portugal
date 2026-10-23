@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 250/1985, 1º Suplemento, Série I de 1985-10-30
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3672-(2) a 3672-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf
 entry_into_force_dates: []
@@ -47,40 +47,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1985-535656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e14217329dedd4c69380cf499914b39e0b10dd137e978316f37329f00ced3b1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72cc1c93380d0334bd429f69c6deb9bc2eaba98268d573464cd1931ba0ed997f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auto-estrada
+- Auto-estrada Porto-amarante
+- Auto-estrada Porto-braga
+- Brisa
+- Contrato de Concessão
+- Isenção de Portagem
+- Portagem
 relationships:
 - type: amended_by
   target: pt:dre:150512:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283694:por
+  label: "Ampliada a concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., pelo Dec 467/72, de 22- Nov, na redacção\
+    \ do presente diploma, pela RES.46/93.31.05.1993.PCM, DR.IS-B [126] de 31.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/46-1993-283694
+  date: '1993-05-31'
+- type: cites
+  target: pt:dre:215542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:402880:por
+  label: "Revogadas as bases e as cláusulas que constituem os anexos I e II do presente diploma, pelo DEC LEI.315/91.1991.08.20.MOPTC,\
+    \ DR.IS-A [190], com excepção da base XXIII, sem prejuízo do disposto na base XIII constante do anexo I, e revogadas todas\
+    \ as disposições legais que atribuem isenções de portagem a entidades públicas para além das que constam da base XX do\
+    \ anexo I do diploma acima citado \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1991-402880
+  date: '1991-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:28Z'
   warnings: []
   errors: []
 ---
@@ -107,29 +176,29 @@ Atendendo ao disposto no artigo 2.º do [Decreto-Lei n.º 49319](https://diariod
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É outorgada à BRISA - Auto-Estradas de Portugal, S.A.R.L., a concessão da construção, conservação e exploração dos lanços Porto (via de cintura interna)-Cruz (proximidades de Braga), da auto-estrada Porto-Braga, e Porto (nó de Águas Santas)-Campo (proximidades de Valongo), da auto-estrada Porto-Amarante, nos termos das bases a que se refere o artigo 2.º do presente diploma.
+Artigo 1.º É outorgada à BRISA - Auto-Estradas de Portugal, S.A.R.L., a concessão da construção, conservação e exploração dos lanços Porto (via de cintura interna)-Cruz (proximidades de Braga), da auto-estrada Porto-Braga, e Porto (nó de Águas Santas)-Campo (proximidades de Valongo), da auto-estrada Porto-Amarante, nos termos das bases a que se refere o artigo 2.º do presente diploma.
 
-###### Art. 2.º São aprovadas as bases anexas ao presente diploma que regularão a concessão a que se refere o artigo 1.º bem como a concessão outorgada pelo [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro, na redacção que lhe foi dada pelo [Decreto Regulamentar n.º 5/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1981-390181), de 23 de Janeiro, cujas bases anexas são substituídas em conformidade.
+Art. 2.º São aprovadas as bases anexas ao presente diploma que regularão a concessão a que se refere o artigo 1.º bem como a concessão outorgada pelo [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro, na redacção que lhe foi dada pelo [Decreto Regulamentar n.º 5/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1981-390181), de 23 de Janeiro, cujas bases anexas são substituídas em conformidade.
 
-###### Art. 3.º São aprovadas as cláusulas do acordo de equilíbrio financeiro constantes do anexo II a este diploma.
+Art. 3.º São aprovadas as cláusulas do acordo de equilíbrio financeiro constantes do anexo II a este diploma.
 
-###### Art. 4.º São revogados o [Decreto n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto/183-1977-404477) e o [Decreto Regulamentar n.º 91/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/91-1977-404480), ambos de 31 de Dezembro.
+Art. 4.º São revogados o [Decreto n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto/183-1977-404477) e o [Decreto Regulamentar n.º 91/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/91-1977-404480), ambos de 31 de Dezembro.
 
-###### Art. 5.º Ficam os Ministros das Finanças e do Plano e do Equipamento Social autorizados a outorgar, por parte do Estado, os documentos necessários à formalização das alterações aprovadas pelo presente diploma.
+Art. 5.º Ficam os Ministros das Finanças e do Plano e do Equipamento Social autorizados a outorgar, por parte do Estado, os documentos necessários à formalização das alterações aprovadas pelo presente diploma.
 
-###### Art. 6.º Este diploma produz efeitos desde o dia 1 de Outubro de 1985.
+Art. 6.º Este diploma produz efeitos desde o dia 1 de Outubro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias - Carlos Montez Melancia.
 
-**Promulgado em 17 de Outubro de 1985.**
+Promulgado em 17 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Outubro de 1983.**
+Referendado em 21 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — BASE I
 
@@ -165,7 +234,7 @@ Auto-Estrada da Costa do Estoril: lanço Lisboa-Estádio Nacional, com 8 km de e
 
 3 - As auto-estradas relacionadas no n.º 1 consideram-se divididas nos seguintes lanços e sublanços:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
 
 4 - As extensões dos lanços ou sublanços serão medidas segundo o eixo de auto-estrada e determinadas, consoante os casos, nos termos previstos nos números seguintes.
 
@@ -241,7 +310,7 @@ Programa de execução das auto-estradas
 
 1 - Os lanços e sublanços referidos no n.º 3 da base I entrarão em serviço o mais tardar nos semestres seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
 
 2 - A pedido da concessionária, devidamente fundamentado, poderão, por despacho conjunto dos Ministros das Finanças e do Plano e do Equipamento Social, ser alteradas a divisão em lanços ou sublanços ou as datas de entrada em serviço que constam do n.º 1 desta base.
 
@@ -387,7 +456,7 @@ Tarifas de portagem
 
 1 - As classes de veículos para efeitos de aplicação das tarifas de portagem por quilómetro de auto-estrada são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
 
 2 - A relação entre as tarifas da classe 1 e da classe 4 será, no máximo, de 1 para 2,5.
 
@@ -1137,7 +1206,7 @@ LVIII - Alterações de legislação.
 
 LOCALIZAÇÃO E COORDENADAS DOS NOS DE LIGAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
 
 ## ANEXO II — Acordo de equilíbrio financeiro
 
@@ -1297,19 +1366,19 @@ Orçamento de exploração
 
 Preços correntes - 1986-2000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
 
 QUADRO II
 
 Orçamento financeiro - 1986-2000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
 
 QUADRO III
 
 Flexibilidade da dívida constante da cláusula 2.ª do acordo e dotações para o equilíbrio financeiro - 1986-2000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
 
 QUADRO IV
 
@@ -1317,7 +1386,7 @@ Avaliação da capacidade de reembolso das dotações para equilíbrio financeir
 
 Preços constantes - 2001-2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25001/00020023.pdf)
 
 Notas explicativas
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15800/19891994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1985-182653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d3aa172ae540504f6ec0cea3351651bfac031e99d43278438e1e7e7e5776802
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f211f215f6ce64a49139827985e4912eaab365d60088127efb0c9db656b5cd69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Investimento Imobiliário
+- Orgânica
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:644323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662369:por
+  label: "Alterados os arts 7º, 10º, 12º, 13º, 14º, 19º, 21º, 31º e 34º, pelo DEC LEI.101/87.1987.03.06.MF DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-1987-662369
+  date: '1987-03-06'
+- type: cites
+  target: pt:dre:152331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157029:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419187:por
+  label: "Revogados os nºs 2 e 4 do art. 7º, pelo DEC LEI.228/87.1987.06.11.MF, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1987-419187
+  date: '1987-06-11'
+- type: repealed_by
+  target: pt:dre:644323:por
+  label: "Revogado pelo DEC LEI.229-C/88.1988.07.04.MF DR.IS [152]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-c-1988-644323
+  date: '1988-07-04'
 article_structure:
   article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:51Z'
   warnings: []
   errors: []
 ---
@@ -419,12 +445,12 @@ As sociedades gestoras regem-se ainda pela legislação aplicável ao conjunto d
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 2 de Julho de 1985.**
+Promulgado em 2 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Julho de 1985.**
+Referendado em 3 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

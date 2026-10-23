@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1986-228046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46ffb722c5155656aa91fef3961d83999c311fd183454b56beef29147a0c5a5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b71c0212479e6eb74486181c8b312b94bb46fe47df09f537e23429b81d15bd73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco Comercial
+- Crédito a Longo Prazo
+- Crédito a Médio Prazo
+relationships:
+- type: cites
+  target: pt:dre:240855:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:14Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +103,22 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 1.º do [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855), de 29 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 1.º do [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855), de 29 de Agosto, passa a ter a seguinte redacção:
 
 3 - As operações de crédito a longo prazo não poderão exceder dez anos, excepto para os fins previstos nos n.os 5 e 6 do artigo 3.º deste decreto-lei, casos em que vigorará o limite de 25 anos.
 
-###### Art. 2.º É aditado ao artigo 3.º do mesmo [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855) um n.º 6 com a seguinte redacção:
+Art. 2.º É aditado ao artigo 3.º do mesmo [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855) um n.º 6 com a seguinte redacção:
 
 6 - São ainda abrangidas por este diploma as operações de crédito realizadas no âmbito de programas de desenvolvimento regional que correspondam à utilização de financiamentos externos, desde que essas operações sejam susceptíveis de refinanciamento junto do Banco de Portugal, Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas ou outras instituições que façam refinanciamento.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 22 de Junho de 1986.**
+Promulgado em 22 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Junho de 1986.**
+Referendado em 30 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

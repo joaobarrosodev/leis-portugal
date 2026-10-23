@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11500/18531854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1983-451384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26934e0bddcc352d7b75749c66470188cc5b4d5b0c2a10131ed92f1cb45f0a4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d968400ff29002e3e715ada599bc9fffcd6c1fffa555efa560376fcda401ce5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Individual de Trabalho
+- Despedimento
+- Empresa
+- Situação Económica Dificil
 relationships:
 - type: amended_by
   target: pt:dre:443683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251798:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443683:por
+  label: "Revogado pelo DEC LEI.398/83.02.11.1983.MTSS, DR.IS [252] de 02.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1983-443683
+  date: '1983-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:51Z'
   warnings: []
   errors: []
 ---
@@ -105,27 +126,27 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Aos trabalhadores das empresas que, por resolução do Conselho de Ministros para os Assuntos Económicos, venham a ser reconhecidas de relevância sectorial e ou regional e declaradas em situação económica difícil poderá ser garantido o pagamento de um complemento da quantia equivalente ao subsídio de desemprego, para além desta, caso os respectivos contratos de trabalho venham a ser suspensos ao abrigo e nos termos previstos nos Decretos-Leis n.os [353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853) e [353-I/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-i-1977-240854), de 29 de Agosto.
+Artigo 1.º - 1 - Aos trabalhadores das empresas que, por resolução do Conselho de Ministros para os Assuntos Económicos, venham a ser reconhecidas de relevância sectorial e ou regional e declaradas em situação económica difícil poderá ser garantido o pagamento de um complemento da quantia equivalente ao subsídio de desemprego, para além desta, caso os respectivos contratos de trabalho venham a ser suspensos ao abrigo e nos termos previstos nos Decretos-Leis n.os [353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853) e [353-I/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-i-1977-240854), de 29 de Agosto.
 
 2 - A aplicação do regime especial previsto no número anterior apenas poderá ter lugar no caso de se manterem em actividade as respectivas empresas.
 
-###### Art. 2.º - 1 - Nas hipóteses a que se refere o artigo anterior podem ser reduzidas as condições de trabalho dos trabalhadores que permaneçam em efectividade de funções, sendo-lhes, no entanto, garantido o direito a um mínimo de 90% das correspondentes retribuições, cujo montante não será, em caso algum, inferior ao valor do salário mínimo nacional.
+Art. 2.º - 1 - Nas hipóteses a que se refere o artigo anterior podem ser reduzidas as condições de trabalho dos trabalhadores que permaneçam em efectividade de funções, sendo-lhes, no entanto, garantido o direito a um mínimo de 90% das correspondentes retribuições, cujo montante não será, em caso algum, inferior ao valor do salário mínimo nacional.
 
 2 - Os termos da redução prevista no número anterior serão estabelecidos de harmonia com o disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853).
 
-###### Art. 3.º A empresa que pretenda a aplicação do regime previsto neste diploma observará o disposto nos Decretos-Leis n.os [353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853) e [353-I/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-i-1977-240854) e assumirá ainda o compromisso formal de suportar o encargo relativo a 50% do valor do complemento a que se refere o n.º 1 do artigo 1.º
+Art. 3.º A empresa que pretenda a aplicação do regime previsto neste diploma observará o disposto nos Decretos-Leis n.os [353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853) e [353-I/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-i-1977-240854) e assumirá ainda o compromisso formal de suportar o encargo relativo a 50% do valor do complemento a que se refere o n.º 1 do artigo 1.º
 
-###### Art. 4.º - 1 - Compete à empresa que for declarada em situação económica difícil nos termos previstos neste diploma processar e efectuar o pagamento mensal da quantia devida a cada trabalhador cujo contrato haja sido suspenso, por todo o tempo por que dure a suspensão.
+Art. 4.º - 1 - Compete à empresa que for declarada em situação económica difícil nos termos previstos neste diploma processar e efectuar o pagamento mensal da quantia devida a cada trabalhador cujo contrato haja sido suspenso, por todo o tempo por que dure a suspensão.
 
 2 - Para efeitos do disposto no número anterior, o Gabinete de Gestão do Fundo de Desemprego dotará a empresa com os meios financeiros referentes às verbas a pagar aos trabalhadores e que por ela não devam ser suportadas.
 
-###### Art. 5.º - 1 - O trabalhador cujo contrato haja sido suspenso ao abrigo do regime instituído pelo presente diploma terá direito a receber, no período da suspensão efectiva, uma importância mensal ilíquida equivalente a 70% da retribuição mensal que auferia à data da suspensão, com o limite estabelecido no número seguinte.
+Art. 5.º - 1 - O trabalhador cujo contrato haja sido suspenso ao abrigo do regime instituído pelo presente diploma terá direito a receber, no período da suspensão efectiva, uma importância mensal ilíquida equivalente a 70% da retribuição mensal que auferia à data da suspensão, com o limite estabelecido no número seguinte.
 
 2 - A nenhum trabalhador poderá ser efectuado o pagamento de quantia superior ao triplo do valor correspondente ao salário mínimo nacional, caso resulte montante mais elevado da aplicação da percentagem fixada no número anterior.
 
-###### Art. 6.º O regime previsto no presente diploma vigorará pelo período e nos termos regulados nos artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853).
+Art. 6.º O regime previsto no presente diploma vigorará pelo período e nos termos regulados nos artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853).
 
-###### Art. 7.º - 1 - Salvo nos casos em que a empresa declare pretender reocupar o trabalhador suspenso após o termo do período da suspensão, consideram-se em situação de desemprego involuntário, para efeitos exclusivos do disposto nos artigos 6.º, n.º 1, alínea d), e 7.º do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, os trabalhadores cujos contratos se encontrem suspensos ao abrigo do regime previsto no presente diploma.
+Art. 7.º - 1 - Salvo nos casos em que a empresa declare pretender reocupar o trabalhador suspenso após o termo do período da suspensão, consideram-se em situação de desemprego involuntário, para efeitos exclusivos do disposto nos artigos 6.º, n.º 1, alínea d), e 7.º do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, os trabalhadores cujos contratos se encontrem suspensos ao abrigo do regime previsto no presente diploma.
 
 2 - Em caso nenhum, porém, o trabalhador será compelido a aceitar emprego cuja retribuição seja inferior à que auferia à data da suspensão ou cujo vínculo contratual seja temporalmente limitado.
 
@@ -133,12 +154,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Alberto Ferrero Morales - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 7 de Maio de 1983.**
+Promulgado em 7 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Maio de 1983.**
+Referendado em 11 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

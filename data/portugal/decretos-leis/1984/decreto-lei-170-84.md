@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11900/16571658.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1984-383990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9589e948b99613628d6a4a72635ed51b0b08fe831f7915778aba139dbfa6760
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e4c6b9e45feef09e688391a2f6ee2b7eba52fef3971deec589a10cfb89f4321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Carreira de Técnico Auxiliar
+- Carreira Técnica
+- Formas de Provimento
+- Mobilidade de Pessoal
+- Quadro de Pessoal
+- Reconversão Profissional
+- Secretaria de Estado dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:307822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607524:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:26Z'
   warnings: []
   errors: []
 ---
@@ -97,38 +198,38 @@ Considerando que esse modelo transitório e não formalizado deve ser corrigido 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O ingresso e acesso nas carreiras técnica superior e técnica do quadro de pessoal da Secretaria de Estado dos Negócios Estrangeiros será efectuado nas condições estabelecidas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre cidadãos portugueses originários.
+Artigo 1.º O ingresso e acesso nas carreiras técnica superior e técnica do quadro de pessoal da Secretaria de Estado dos Negócios Estrangeiros será efectuado nas condições estabelecidas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre cidadãos portugueses originários.
 
-###### Art. 2.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe, com um mínimo de 3 anos de bom e efectivo serviço na categoria, sendo o método de selecção a utilizar o de avaliação curricular.
+Art. 2.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe, com um mínimo de 3 anos de bom e efectivo serviço na categoria, sendo o método de selecção a utilizar o de avaliação curricular.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos mediante concurso de provas de conhecimentos gerais na 1.ª fase e exame psicológico ou entrevista na 2.ª fase de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 3.º O provimento dos lugares de ingresso nas carreiras referidas nos artigos anteriores será efectuado por nomeação provisória ou em comissão de serviço durante o período de 1 ano, findo o qual o funcionário:
+Art. 3.º O provimento dos lugares de ingresso nas carreiras referidas nos artigos anteriores será efectuado por nomeação provisória ou em comissão de serviço durante o período de 1 ano, findo o qual o funcionário:
 
 a) Será provido definitivamente se tiver revelado aptidão para o lugar;
 
 b) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou de comissão de serviço, se não tiver revelado aquela aptidão.
 
-###### Art. 4.º - 1 - O pessoal já provido na Secretaria de Estado dos Negócios Estrangeiros em lugares correspondentes em carreiras técnicas passará à situação de nomeação vitalícia a partir da data da vigência deste diploma.
+Art. 4.º - 1 - O pessoal já provido na Secretaria de Estado dos Negócios Estrangeiros em lugares correspondentes em carreiras técnicas passará à situação de nomeação vitalícia a partir da data da vigência deste diploma.
 
 2 - A nova situação deverá ser anotada pelo Tribunal de Contas e averbada no anterior termo de posse, se esta tiver sido conferida.
 
-###### Art. 5.º O quadro de pessoal da Secretaria de Estado dos Negócios Estrangeiros, aprovado pela [Portaria n.º 1096/80](https://diariodarepublica.pt/dr/detalhe/portaria/1096-1980-457074), de 27 de Dezembro, com as alterações a que se referem o artigo 16.º do [Decreto-Lei n.º 218/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1979-382058), de 17 de Julho, o artigo 10.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, o [Decreto-Lei n.º 573/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1980-457071), de 27 de Dezembro, a [Portaria n.º 433/81](https://diariodarepublica.pt/dr/detalhe/portaria/433-1981-574511), de 27 de Maio, o [Decreto-Lei n.º 342/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1981-567259), de 15 de Dezembro, a [Portaria n.º 145/82](https://diariodarepublica.pt/dr/detalhe/portaria/145-1982-601086), de 2 de Fevereiro, o [Decreto-Lei n.º 57/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1982-600300), de 25 de Fevereiro, a [Portaria n.º 369/82](https://diariodarepublica.pt/dr/detalhe/portaria/369-1982-607327), de 14 de Abril, o [Decreto Regulamentar n.º 21/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-1982-607524), de 17 de Abril, a [Portaria n.º 532/82](https://diariodarepublica.pt/dr/detalhe/portaria/532-1982-392009), de 29 de Maio, a [Portaria n.º 562/82](https://diariodarepublica.pt/dr/detalhe/portaria/562-1982-395713), de 8 de Junho, a [Portaria n.º 582/82](https://diariodarepublica.pt/dr/detalhe/portaria/582-1982-395764), de 14 de Junho, o [Decreto-Lei n.º 276/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1982-394170), de 15 de Julho, o [Decreto-Lei n.º 370/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1982-375625), de 10 de Setembro, o [Decreto-Lei n.º 18/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1983-307822), de 28 de Janeiro, o artigo 2.º do [Decreto-Lei n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1983-311007), de 9 de Fevereiro, e a [Portaria n.º 476/83](https://diariodarepublica.pt/dr/detalhe/portaria/476-1983-311855), de 23 de Abril, é aumentado dos lugares constantes do mapa anexo ao presente diploma.
+Art. 5.º O quadro de pessoal da Secretaria de Estado dos Negócios Estrangeiros, aprovado pela [Portaria n.º 1096/80](https://diariodarepublica.pt/dr/detalhe/portaria/1096-1980-457074), de 27 de Dezembro, com as alterações a que se referem o artigo 16.º do [Decreto-Lei n.º 218/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1979-382058), de 17 de Julho, o artigo 10.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, o [Decreto-Lei n.º 573/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1980-457071), de 27 de Dezembro, a [Portaria n.º 433/81](https://diariodarepublica.pt/dr/detalhe/portaria/433-1981-574511), de 27 de Maio, o [Decreto-Lei n.º 342/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1981-567259), de 15 de Dezembro, a [Portaria n.º 145/82](https://diariodarepublica.pt/dr/detalhe/portaria/145-1982-601086), de 2 de Fevereiro, o [Decreto-Lei n.º 57/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1982-600300), de 25 de Fevereiro, a [Portaria n.º 369/82](https://diariodarepublica.pt/dr/detalhe/portaria/369-1982-607327), de 14 de Abril, o [Decreto Regulamentar n.º 21/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-1982-607524), de 17 de Abril, a [Portaria n.º 532/82](https://diariodarepublica.pt/dr/detalhe/portaria/532-1982-392009), de 29 de Maio, a [Portaria n.º 562/82](https://diariodarepublica.pt/dr/detalhe/portaria/562-1982-395713), de 8 de Junho, a [Portaria n.º 582/82](https://diariodarepublica.pt/dr/detalhe/portaria/582-1982-395764), de 14 de Junho, o [Decreto-Lei n.º 276/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1982-394170), de 15 de Julho, o [Decreto-Lei n.º 370/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1982-375625), de 10 de Setembro, o [Decreto-Lei n.º 18/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1983-307822), de 28 de Janeiro, o artigo 2.º do [Decreto-Lei n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1983-311007), de 9 de Fevereiro, e a [Portaria n.º 476/83](https://diariodarepublica.pt/dr/detalhe/portaria/476-1983-311855), de 23 de Abril, é aumentado dos lugares constantes do mapa anexo ao presente diploma.
 
-###### Art. 6.º Na carreira do pessoal técnico auxiliar extinguir-se-ão, à medida que vagarem, 7 lugares de categoria de técnico auxiliar principal e 2 de categoria de técnico auxiliar de 1.ª classe.
+Art. 6.º Na carreira do pessoal técnico auxiliar extinguir-se-ão, à medida que vagarem, 7 lugares de categoria de técnico auxiliar principal e 2 de categoria de técnico auxiliar de 1.ª classe.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Jaime José Matos da Gama - Ernâni Rodrigues Lopes.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Maio de 1984.**
+Referendado em 8 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa anexo a que se refere o artigo 5.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11900/16571658.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11900/16571658.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11900/16571658.pdf)

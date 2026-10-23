@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10600/12471264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09f28a2d7c6cf64799e1cc7494f2b623a3fb2d40b8b59729537b1eb8cae9a921
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66db3afad429bc8fc6541728022f82ad886cc2fe281df40270f0f429489f2fa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:322095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615228:por
+  label: Alterado o art. 81º do Estatuto da PSP pelo DEC LEI.127/89.15.04.1989.MAI, DR.IS [88] de 15.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1989-615228
+  date: '1989-04-15'
+- type: amended_by
+  target: pt:dre:430637:por
+  label: "Acrescentado aos membros natos do Conselho Superior de Polícia, referidos na alínea a) do n.º 2 do artigo 16.º,\
+    \ o inspector superior da PSP imediatamente a seguir ao superintendente-geral, e revoga os artigos 61.º e 65.º, os n.ºs\
+    \ 1 e 2 do artigo 81.º, os n.ºs 2 e 3 do artigo 82.º, o n.º 3 do artigo 85.º, o artigo 86.º, o n.º 2 do artigo 117.º e\
+    \ os artigos 118.º, 119.º, 120.º, 121.º, 122.º e 123.º do Estatuto aprovado pelo Decreto-Lei n.º 151/85, de 9 de Maio\
+    \ do Estatuto, aprovado em anexo ao presente diploma, pelo DEC LEI.204-A/89.23.06.1989.MAI, DR.IS [142]Supl de 23.06.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-a-1989-430637
+  date: '1989-06-23'
+- type: amended_by
+  target: pt:dre:571578:por
+  label: "Dada nova redacção à al. c) do art. 16º do Estatuto da Polícia de Segurança Pública pelo DEC LEI.161/90.22.05.1990.MAI,\
+    \ DR.IS [117] de 22.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1990-571578
+  date: '1990-05-22'
+- type: amended_by
+  target: pt:dre:309341:por
+  label: "Alterados os artigos 69.º, 77.º, 114.º e aditado o artigo 77.º-A ao Estatuto, pelo DEC LEI.447/91.27.11.1991.MAI,\
+    \ DR.IS-A [273] de 27.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/447-1991-309341
+  date: '1991-11-27'
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O NUMERO 2 DO ARTIGO 103 DO ESTATUTO DA POLICIA DE SEGURANCA PUBLICA, PELA LEI 32/94, DA AR, DE 29 DE AGOSTO,
+    PUBLICADA NO DR.IS-A, 199.L
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-29'
+- type: repealed_by
+  target: pt:dre:219370:por
+  label: "Revogado o nº 2 do art. 103º pela LEI.32/94.1994.08.29.AR, DR.IS-A [199]e\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-1994-219370
+  date: '1994-08-29'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 321/94, DE 29 DE DEZEMBRO, PUBLICADO NO DR.IS-A, 300.E\0 NO DR.IS-A, 300.E"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-29'
+- type: repealed_by
+  target: pt:dre:322095:por
+  label: "Revogado pelo DEC LEI.321/94.1994.12.29.MAI, DR.IS-A [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1994-322095
+  date: '1994-12-29'
 article_structure:
   article_count: 126
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:22Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +184,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### ARTIGO 2.º — (Regulamentação)
 
-**O Ministro da Administração Interna promoverá, no prazo de 12 meses, a publicação dos diplomas regulamentares necessários à execução do Estatuto.**
+O Ministro da Administração Interna promoverá, no prazo de 12 meses, a publicação dos diplomas regulamentares necessários à execução do Estatuto.
 
 ###### ARTIGO 3.º — (Norma revogatória)
 
@@ -136,15 +198,15 @@ O Estatuto da PSP entra em vigor no primeiro dia do mês seguinte ao da sua publ
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 19 de Abril de 1985.**
+Promulgado em 19 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Abril de 1985.**
+Referendado em 22 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ESTATUTO DA POLÍCIA DE SEGURANÇA PÚBLICA
 
@@ -720,9 +782,9 @@ O comandante será substituído, nas suas faltas ou impedimentos, pelo 2.º coma
 
 1 - As subunidades do comando distrital ou equiparado são:
 
-##### Divisão;
+Divisão;
 
-#### Secção;
+Secção;
 
 Esquadra.
 
@@ -1372,10 +1434,10 @@ O pessoal que actualmente presta serviço na PSP e venha a pertencer aos quadros
 
 A actual categoria de oficial de diligência será extinta à medida que vagar.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira.
 
 ## ANEXO — Quadro a que se refere o n.º 2 do artigo 61.º do Estatuto da PSP
 
 Principais funções dos diferentes postos da hierarquia do pessoal com funções policiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/10600/12471264.pdf))](https://files.diariodarepublica.pt/1s/1985/05/10600/12471264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/10600/12471264.pdf)

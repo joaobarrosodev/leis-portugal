@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22942296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1983-452478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c4a358ed9576e28148b8cb9ac1bcd147fd37cfdc4ef7b144b5d32542cf66a2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9256de11ec6e7421a24828ffa625e0bd28fe22885c0f73716cce52eff928d55c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desalojado
+- Extinção de Serviços
+- Instituto de Apoio ao Retorno de Nacionais
+- Personalidade Jurídica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:161489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573358:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:29Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +134,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Transferência de competências)
 
 A competência para a prossecução de actividades de carácter social que constituíram o objectivo do Instituto de Apoio ao Retorno de Nacionais (IARN) é transferida para os centros regionais de segurança social e para a Santa Casa da Misericórdia de Lisboa.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Transferência do património)
 
@@ -125,7 +154,7 @@ A competência para a prossecução de actividades de carácter social que const
 
 5 - Os ficheiros do IARN que contenham dados relevantes de carácter histórico sobre a vinda para Portugal de desalojados das ex-colónias serão transferidos para organismos a determinar por despacho dos ministros competentes.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Integração do pessoal do IARN)
 
@@ -137,7 +166,7 @@ A competência para a prossecução de actividades de carácter social que const
 
 4 - O restante pessoal do IARN será colocado na dependência da Secretaria-Geral do Ministério dos Assuntos Sociais, sendo a sua colocação confiada à Direcção-Geral de Emprego e Formação, ao abrigo do disposto no [Decreto-Lei n.º 167/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1982-392870), de 10 de Maio.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Alargamento dos quadros)
 
@@ -147,13 +176,13 @@ A competência para a prossecução de actividades de carácter social que const
 
 3 - Os lugares criados para além das densidades estabelecidas nos preceitos referidos no número anterior serão extintos à medida que vagarem.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Integração do pessoal)
 
 A integração a que se refere o presente diploma será feita em categoria igual ou equivalente à que o funcionário ou agente possui, devendo aquela equivalência ser aprovada, em tabelas, pelos Ministros da pasta, dos Assuntos Sociais e da Reforma Administrativa.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Manutenção de direitos)
 
@@ -161,19 +190,19 @@ A integração a que se refere o presente diploma será feita em categoria igual
 
 2 - O tempo de serviço que cada funcionário ou agente tiver na categoria ou carreira à data da integração será considerado como efectivamente prestado na categoria e carreira para que transitar.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Formalidades)
 
 A integração do pessoal será feita por diploma individual de provimento, ou listas nominativas sujeitas, respectivamente, a visto ou anotação do Tribunal de Contas, consoante se verifique ou não mudança de situação jurídico-funcional, e com dispensa de outras formalidades, salvo a publicação no Diário da República.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Representação dos interesses do IARN)
 
 A competência para a representação dos interesses do IARN, quer em juízo, quer em transacções extrajudiciais, é atribuída aos conselhos directivos dos centros regionais de segurança social.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Relatório de actividades e prestação de contas)
 
@@ -181,12 +210,12 @@ Até ao fim do presente ano económico, a Comissão Liquidatária desenvolverá 
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

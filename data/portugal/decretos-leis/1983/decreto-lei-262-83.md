@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1983-452042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5ae8be69d002d569e3d4378f9bebbebdb468d4811bd1f451f98926b14b0eab4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2072efc4205dd736e9bb526d7c95a97be1fdb8364be73d11e3af1def7a42f535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cheque
+- Código Civil
+- Código Comercial
+- Indemnização
+- Indemnização Compensatória
+- JURO de MORA
+- JURO Legal
+- Letras e Livranças
+- Pagamento
+- Responsabilidade Civil
+- TAXA de JURO
+- Títulos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:189484:por
+  label: "Alterado o art. 102º do Código Comercial aprovado pela CL DD4, de 06-Set 1888, na redacção do presente diploma,\
+    \ pelo DEC LEI.32/2003.17.02.2003.MJ, DR.IS-A [40] de 17.02.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2003-189484
+  date: '2003-02-17'
+- type: amended_by
+  target: pt:dre:261160:por
+  label: "Dada nova redação, a partir de 01.07.2013, ao art. 102º do Código Comercial, aprovado pela Carta de Lei de 28-jun\
+    \ 1888, com as alterações introduzidas pelo presente diploma, pelo DEC LEI.62/2013.10.05.2013.MF, DR.IS [90] de 10.05.2013\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2013-261160
+  date: '2013-05-10'
+- type: cites
+  target: pt:dre:226039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598962:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:54Z'
   warnings: []
   errors: []
 ---
@@ -211,12 +244,12 @@ O portador de letras, livranças ou cheques, quando o respectivo pagamento estiv
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 3 de Junho de 1983.**
+Promulgado em 3 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Junho de 1983.**
+Referendado em 6 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

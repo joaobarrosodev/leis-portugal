@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21700/29492950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1982-375839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2ea0630a50a11d42f3c8d47254e6aa17f1043a526613c1fae6621a225a375be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f25cf614d1bf4c515b1909db4ebddf8e47ce92e6595b7783a174b69f4425efa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Prédios
 relationships:
 - type: amended_by
   target: pt:dre:443522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:567896:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443522:por
+  label: "Revogado pelo DEC LEI.436/83.1983.12.19.MFP, DR.IS [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1983-443522
+  date: '1983-12-19'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:10Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +105,7 @@ Entendeu-se que as alterações agora introduzidas se devem aplicar às avaliaç
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 4.º — (Disposições transitórias)
 
@@ -115,18 +125,18 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 8 - Será fixado por portaria conjunta do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes um coeficiente de actualização de renda para vigorar até 31 de Dezembro de 1982.
 
-###### Art. 2.º - 1 - São anulados os resultados de todas as avaliações fiscais extraordinárias entretanto efectuadas ao abrigo do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro.
+Art. 2.º - 1 - São anulados os resultados de todas as avaliações fiscais extraordinárias entretanto efectuadas ao abrigo do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro.
 
 2 - O acto de avaliação será repetido oficiosamente, sem mais encargos para as partes, de acordo com os critérios e regras referidos no artigo anterior, logo que este entre em vigor.
 
 3 - Ficam suspensas até 1 de Novembro de 1982 as avaliações fiscais extraordinárias cujos resultados ainda não estejam apurados, passando a ficar sujeitas aos critérios e regras referidos no artigo anterior.
 
-###### Art. 3.º O artigo 1.º do presente decreto-lei entra em vigor no dia 1 de Novembro de 1982.
+Art. 3.º O artigo 1.º do presente decreto-lei entra em vigor no dia 1 de Novembro de 1982.
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 6 de Setembro de 1982.**
+Promulgado em 6 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

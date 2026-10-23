@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/26600/34613462.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1984-400782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efb2708c4b862ca2ea280d7e34f36ebaf16be7db1bdea552181367a5e0aae51f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5515153fb4aaaedc262d6537aef036fc099b522ff2fe9799d1dabcfdd2027aa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Religiosa
+- Capelão
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:515444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:392629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484415:por
+  label: Revogado pelo DEC LEI.93/91.26.02.1991.MDN, DR.IS-A [47] de 26.02.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1991-484415
+  date: '1991-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:29Z'
   warnings: []
   errors: []
 ---
@@ -96,26 +116,26 @@ Considerando haver necessidade de corrigir os inconvenientes resultantes da freq
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 13.º do [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), de 8 de Setembro de 1966, na redacção que lhe foi dada pelo [Decreto-Lei n.º 11/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1979-392629), de 24 de Janeiro, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 13.º do [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), de 8 de Setembro de 1966, na redacção que lhe foi dada pelo [Decreto-Lei n.º 11/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1979-392629), de 24 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 13.º - 1 - O limite máximo de tempo de serviço para capelães militares titulares é de 30 anos, contados desde o seu início após o estágio, ou, quanto aos capelães a que se referem o n.º 4 do artigo 9.º, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 44/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1971-446891), de 20 de Fevereiro, e o artigo 21.º, desde a sua primeira nomeação a qualquer título.
+Art. 13.º - 1 - O limite máximo de tempo de serviço para capelães militares titulares é de 30 anos, contados desde o seu início após o estágio, ou, quanto aos capelães a que se referem o n.º 4 do artigo 9.º, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 44/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1971-446891), de 20 de Fevereiro, e o artigo 21.º, desde a sua primeira nomeação a qualquer título.
 
 2 - ...
 
 3 - ...
 
-###### Art. 2.º Aos capelães militares titulares que à data da entrada em vigor do presente diploma se encontrem a prestar serviço efectivo é ressalvado o direito à aposentação ao completarem 20 anos de serviço efectivo.
+Art. 2.º Aos capelães militares titulares que à data da entrada em vigor do presente diploma se encontrem a prestar serviço efectivo é ressalvado o direito à aposentação ao completarem 20 anos de serviço efectivo.
 
-###### Art. 3.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1984.
+Art. 3.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 31 de Outubro de 1984.**
+Promulgado em 31 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Novembro de 1984.**
+Referendado em 7 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

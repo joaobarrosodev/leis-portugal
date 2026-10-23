@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31
   number: '300'
   series: I
-  supplement: 13º Suplemento
+  supplement: null
   pages: 3874-(591) a 3874-(601)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30013/05910601.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe146a8cef51b2ef2cf65d7acf056140042532e1a37187fc0429aa91e703380e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aba430ee686fddea14da3a7ee0eaa29eafc515204f1d2f727139b4d6e74fb8db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Contribuições e Impostos
+- Embalagem
+- Etiquetagem
+- Fabrico Industrial
+- Importação
+- Imposto Especial sobre o Consumo de Tabaco
+- Imposto sobre Consumos Específicos
+- Preço
+- Regime Jurídico
+- Tabaco
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:653128:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 11 E AS TAXAS CONSTANTES DO NUMERO 4 DOARTIGO 7 PELO DECRETO LEI 210-A/87, DE 20 DE MAIO, PUBLICADO\
+    \ NO DR.IS,115, SUPL.19870929 - ALTERADAS AS TAXAS CONSTANTES DO NUMERO 4 DO ARTIGO 7 PELODECRETO LEI 330/87, DE 29 DE\
+    \ SETEMBRO, PUBLICADO NO DR.IS, 224.19910626 - ALTERADOS OS ARTIGOS 3 E 7 PELO DECRETO LEI 231/91, DE 26DE JUNHO, PUBLICADO\
+    \ NO DR.IS-A, 144.19920504 - ALTERADO O ARTIGO 7 PELO DECRETO LEI 75/92, DE 4 DE MAIO,PUBLICADO NO DR.IS-A, 102, NA REDACCAO\
+    \ DADA PELO DECRETO LEI 231/91,DE 26 DE JUNHO.19930301 - ALTERADO O ARTIGO 7 PELO DECRETO LEI 55/93, DE 1 DE MARCO,PUBLICADO\
+    \ NO DR.IS-A, 50, NA REDACCAO QUE LHE FOI CONFERIDA PELODECRETO LEI 75/92, DE 4 DE MAIO.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-05-20'
+- type: amended_by
+  target: pt:dre:401891:por
+  label: "Alteradas as taxas constantes do n.º 4 do art. 7.º pelo DEC LEI.489/88.30.12.1988.MF, DR.IS [301-5ºSupl] de 30.12.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/489-1988-401891
+  date: '1988-12-30'
+- type: amended_by
+  target: pt:dre:334669:por
+  label: "Alterados os artigos 17.º, 24.º, 32.º, 36.º, 41.º, 45.º, 48.º, 54.º, 56.º, 57.º, 61.º, 62.º, 63.º, 65.º, aditado\
+    \ o artigo 54-A e revogado o artigo 42.º, pelo DEC LEI.49/90.10.02.1990.MF, DR.IS [35] de 10.02.1990\00"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1990-334669
+  date: '1990-02-10'
+- type: amended_by
+  target: pt:dre:574769:por
+  label: "Alteradas as taxas constantes do nº 4 do art. 7º pelo DEC LEI.176/90.05.06.1990.MF, DR.IS [129] de 05.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1990-574769
+  date: '1990-06-05'
+- type: amended_by
+  target: pt:dre:647737:por
+  label: "Alterados os art.s 3º e 7º (o último na redacção do Dec Lei 489/88, de 30-Dez, e Dec Lei 176/90, de 05-Jun), pelo\
+    \ DEC LEI.231/91.26.06.1991.MF, DR.IS-A [144] de 26.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1991-647737
+  date: '1991-06-26'
+- type: corrected_by
+  target: pt:dre:218277:por
+  label: Rectificado pela DECL.DD3034.1987.05.18.PCM DR.IS [124]2ºSupl de 30.05.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218277
+  date: '1987-05-18'
+- type: repealed_by
+  target: pt:dre:653128:por
+  label: "Revogado, na redacção constante do Decreto-Lei n.º 49/90, de 10 de Fevereiro, pelo DEC LEI.325/93.25.09.1993.MF,\
+    \ DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-1993-653128
+  date: '1993-09-25'
 article_structure:
   article_count: 70
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:50Z'
   warnings: []
   errors: []
 ---
@@ -685,12 +741,12 @@ Relativamente a assuntos respeitantes especificamente às regiões autónomas, a
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Manuel Pêgo Todo-Bom.
 
-**Promulgado em 31 de Dezembro de 1986.**
+Promulgado em 31 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1986.**
+Referendado em 31 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

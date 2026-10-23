@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19000/20962097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1986-219079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdde1ed880dc5afbdfeb9d5e6fb61ccca7774db6007f45d45e49fa9b8cb828c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c044d46e740a2a9cb1b22e63ce24b013f5ea4544a439c7ccc6f50c997786488e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do IVA
+- Propriedade Imobiliária
+- Sociedade de Locação Financeira
 relationships:
 - type: amended_by
   target: pt:dre:518046:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o art. 4º pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:319904:por
+  label: "Alterado o art. 8º pelo DEC LEI.31/2001.2001.02.08.MF,DR.IS-A [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2001-319904
+  date: '2001-02-08'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o art. 3º pela LEI.109-B/2001.2001.12.27.AR DR.IS-A [298]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518046:por
+  label: "Revogado a partir de 30.01.2007 pelo DEC LEI.21/2007.29.01.2007.MFAP, DR.IS [20] de 29.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2007-518046
+  date: '2007-01-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:17Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +134,15 @@ Assim, e de harmonia com o disposto nos n.os 4 a 7 do artigo 12.º do Código do
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os sujeitos passivos que, nos termos dos n.os 4 a 6 do artigo 12.º do Código do Imposto sobre o Valor Acrescentado, pretendam renunciar às isenções referidas nos n.os 30 e 31 do artigo 9.º do mesmo Código deverão entregar, em triplicado, na repartição de finanças competente, uma declaração conforme modelo aprovado.
+Artigo 1.º - 1 - Os sujeitos passivos que, nos termos dos n.os 4 a 6 do artigo 12.º do Código do Imposto sobre o Valor Acrescentado, pretendam renunciar às isenções referidas nos n.os 30 e 31 do artigo 9.º do mesmo Código deverão entregar, em triplicado, na repartição de finanças competente, uma declaração conforme modelo aprovado.
 
 2 - Sempre que se encontrem preenchidos os pressupostos previstos nos n.os 4 e 5 do artigo 12.º do Código do IVA, a repartição de finanças emitirá o certificado a que se refere o n.º 6 do mesmo artigo no prazo máximo de 30 dias a contar da data de entrega da declaração mencionada no número anterior.
 
-###### Art. 2.º - 1 - Os sujeitos passivos que realizem exclusivamente operações isentas nos termos dos n.os 30 e 31 do artigo 9.º do Código do IVA apresentarão, juntamente com a declaração a que se refere o artigo 1.º, a declaração de início de actividade, prevista no artigo 30.º do mesmo diploma.
+Art. 2.º - 1 - Os sujeitos passivos que realizem exclusivamente operações isentas nos termos dos n.os 30 e 31 do artigo 9.º do Código do IVA apresentarão, juntamente com a declaração a que se refere o artigo 1.º, a declaração de início de actividade, prevista no artigo 30.º do mesmo diploma.
 
 2 - Se o sujeito passivo tiver já entregue declaração de início de actividade, a declaração referida no artigo 1.º substituirá a declaração de alterações prevista no n.º 1 do artigo 31.º do Código do IVA.
 
-###### Art. 3.º - 1 - Os sujeitos passivos que exerceram a renúncia à isenção nos termos do artigo 1.º deste diploma são obrigados ao envio da declaração prevista na alínea c) do n.º 1 do artigo 28.º do Código do IVA, na forma e nos prazos enunciados no artigo 40.º, a partir do mês ou trimestre seguintes da emissão do certificado a que se refere o n.º 2 do artigo 1.º, consoante os casos, observando o disposto nos números seguintes.
+Art. 3.º - 1 - Os sujeitos passivos que exerceram a renúncia à isenção nos termos do artigo 1.º deste diploma são obrigados ao envio da declaração prevista na alínea c) do n.º 1 do artigo 28.º do Código do IVA, na forma e nos prazos enunciados no artigo 40.º, a partir do mês ou trimestre seguintes da emissão do certificado a que se refere o n.º 2 do artigo 1.º, consoante os casos, observando o disposto nos números seguintes.
 
 2 - A declaração referida no número anterior juntar-se-ão tantos anexos de modelo aprovado quantos os imóveis ou partes autónomas relativamente aos quais foi exercida a renúncia, devendo neles figurar separadamente as operações referentes a cada imóvel ou parte autónoma.
 
@@ -123,17 +150,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Na primeira declaração e anexos a apresentar pelo sujeito passivo, nos termos do n.º 2, deverá ser evidenciado o imposto devido nos termos do número anterior, bem como o valor de todas as aquisições e o imposto nelas contido, relativamente aos respectivos imóveis ou partes autónomas.
 
-###### Art. 4.º - 1 - Sem prejuízo do disposto nos artigos seguintes, os sujeitos passivos que renunciarem à isenção nos termos do artigo 1.º terão direito à dedução do imposto suportado para a realização das operações relativas a cada imóvel ou parte autónoma, segundo as regras definidas nos artigos 19.º e seguintes do Código do IVA.
+Art. 4.º - 1 - Sem prejuízo do disposto nos artigos seguintes, os sujeitos passivos que renunciarem à isenção nos termos do artigo 1.º terão direito à dedução do imposto suportado para a realização das operações relativas a cada imóvel ou parte autónoma, segundo as regras definidas nos artigos 19.º e seguintes do Código do IVA.
 
 2 - Não será, todavia, permitido aos sujeitos passivos efectivar a dedução relativa a cada imóvel ou parte autónoma no imposto apurado em outros imóveis ou partes autónomas ou quaisquer outras operações, nem solicitar o respectivo reembolso nos termos dos n.os 5 e 6 do artigo 22.º do Código do IVA, antes da celebração da escritura de transmissão ou do contrato de locação dos imóveis.
 
 3 - A concessão dos reembolsos poderá ficar condicionada à prestação de caução, fiança bancária ou outra garantia adequada, sem a limitação temporal constante do n.º 7 do artigo 22.º do Código do IVA.
 
-###### Art. 5.º - 1 - A dedução do imposto relativo a cada imóvel ou parte autónoma efectuar-se-á segundo o método da afectação real de todos os bens e serviços utilizados, de harmonia com o referido no n.º 2 do artigo 23.º do Código do IVA.
+Art. 5.º - 1 - A dedução do imposto relativo a cada imóvel ou parte autónoma efectuar-se-á segundo o método da afectação real de todos os bens e serviços utilizados, de harmonia com o referido no n.º 2 do artigo 23.º do Código do IVA.
 
 2 - Sempre que a Direcção-Geral das Contribuições e Impostos julgue inadequados os critérios de imputação utilizados na afectação real, fixará critérios diferentes, disso notificando o contribuinte, com indicação das razões que fundamentaram a decisão.
 
-###### Art. 6.º - 1 - Os sujeitos passivos que, no exercício da sua actividade, utilizem imóveis ou partes autónomas relativamente aos quais houve dedução total ou parcial do imposto que onerou a respectiva construção, aquisição ou, em geral, as despesas de investimento são obrigados a:
+Art. 6.º - 1 - Os sujeitos passivos que, no exercício da sua actividade, utilizem imóveis ou partes autónomas relativamente aos quais houve dedução total ou parcial do imposto que onerou a respectiva construção, aquisição ou, em geral, as despesas de investimento são obrigados a:
 
 a) Comunicar à repartição de finanças competente, em impresso de modelo aprovado e no prazo de 30 dias, as alterações que tenham relevância para efeitos de regularização das deduções inicialmente praticadas, verificadas durante o período de regularização previsto no n.º 2 do artigo 24.º do Código do IVA, as quais, para este efeito, serão reportadas a 1 de Janeiro do ano civil em que ocorreram;
 
@@ -145,22 +172,22 @@ d) Regularizar, nos termos do n.º 5 do artigo 24.º do Código do IVA e conside
 
 2 - O montante das regularizações previstas neste diploma deverá ser incluído na declaração do ultimo período do ano em que ocorreu a alteração que lhes deu origem.
 
-###### Art. 7.º Nas transmissões de imóveis com sujeição a IVA, a escritura substituirá a factura exigida para efeitos deste imposto, devendo dela constar as indicações referidas no n.º 5 do artigo 35.º do Código do IVA.
+Art. 7.º Nas transmissões de imóveis com sujeição a IVA, a escritura substituirá a factura exigida para efeitos deste imposto, devendo dela constar as indicações referidas no n.º 5 do artigo 35.º do Código do IVA.
 
-###### Art. 8.º Por cada imóvel ou parte autónoma relativamente aos quais foi exercida a renúncia à isenção prevista nos n.os 4 e 5 do artigo 12.º do Código do IVA será instaurado um processo na repartição de finanças da área de localização do imóvel, o qual será objecto de informação anual durante um período de dez anos.
+Art. 8.º Por cada imóvel ou parte autónoma relativamente aos quais foi exercida a renúncia à isenção prevista nos n.os 4 e 5 do artigo 12.º do Código do IVA será instaurado um processo na repartição de finanças da área de localização do imóvel, o qual será objecto de informação anual durante um período de dez anos.
 
-###### Art. 9.º A disciplina geral do IVA será aplicável as operações referidas neste diploma, na medida em que não se revelar contrária à presente regulamentação.
+Art. 9.º A disciplina geral do IVA será aplicável as operações referidas neste diploma, na medida em que não se revelar contrária à presente regulamentação.
 
-###### Art. 10.º O Ministro das Finanças aprovará por despacho os modelos de impressos necessários à execução do presente diploma.
+Art. 10.º O Ministro das Finanças aprovará por despacho os modelos de impressos necessários à execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Julho de 1986.**
+Promulgado em 26 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1986.**
+Referendado em 30 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

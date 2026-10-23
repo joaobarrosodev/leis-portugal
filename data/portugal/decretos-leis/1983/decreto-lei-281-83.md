@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1983-451995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fb84944101fd4bd2279a4d3ffa95f1886305f15cb22c88ba129f63cd8b283d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e7b2bb0ec23c1378e617a272af7331e9d6d41f13dcfc7546f0e9ed9f3c1814c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Horas Extraordinárias
+- Pessoal de Saúde
+- Remuneração
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:443546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443546:por
+  label: "Suspensa a execução do disposto do presente diploma pelo DEC LEI.402/83.10.11.1983.PCM, DR.IS [259] de 10.11.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/402-1983-443546
+  date: '1983-11-10'
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:12Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +114,9 @@ Considerando que a especificidade de determinados centos de saúde integrados e 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O disposto no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, é aplicável ao pessoal que preste serviço na área extra-hospitalar em tudo o que não colida com o previsto no [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
+Artigo 1.º O disposto no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, é aplicável ao pessoal que preste serviço na área extra-hospitalar em tudo o que não colida com o previsto no [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
 
-###### Art. 2.º - 1 - Os médicos da carreira de clínica geral que trabalhem em regime de tempo completo prolongado poderão cumprir o serviço de urgência numa das seguintes modalidades:
+Art. 2.º - 1 - Os médicos da carreira de clínica geral que trabalhem em regime de tempo completo prolongado poderão cumprir o serviço de urgência numa das seguintes modalidades:
 
 a) Em regime de presença física, durante 12 horas por semana;
 
@@ -109,12 +128,12 @@ b) Em regime de prevenção, nos termos do artigo 9.º do [Decreto-Lei n.º 62/7
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 4 de Junho de 1983.**
+Promulgado em 4 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1983.**
+Referendado em 7 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

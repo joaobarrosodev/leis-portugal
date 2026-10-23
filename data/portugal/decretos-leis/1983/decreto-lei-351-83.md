@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/17500/28342836.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1983-454066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0178ce0851ee038dbc2c349258f324610e940ed358da4e0c6f7c380fe219cdbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a06f350ad7b707f8be4cbb96edb35bb28a7d6794a73ee99f8a7121ff243e7ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consumo de Energia
+- Criação de Serviços
+- EDP
+- Energia Elétrica
+- Fundo de Apoio Térmico
+- Orgânica
+- Personalidade Jurídica
+- TAXA Adicional
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227831:por
+  label: "Extinto o Fundo de Apoio Térmico, pelo DEC LEI.202/86.22.07.1986.MIC, DR.IS [166] de 22.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1986-227831
+  date: '1986-07-22'
+- type: amended_by
+  target: pt:dre:495715:por
+  label: "Reduzido o adicional de 8% da facturação de electricidade, no que respeita aos fornecimentos em baixa tensão a consumidores\
+    \ com potência contratada inferior ou igual a 19,8 KVA, pelo DEC LEI.20/94.1994.01.26.MIE, DR.IS-A [21]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1994-495715
+  date: '1994-01-26'
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:19Z'
   warnings: []
   errors: []
 ---
@@ -112,11 +144,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Fundo de Apoio Térmico, adiante designado abreviadamente por FAT, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira.
+Artigo 1.º - 1 - O Fundo de Apoio Térmico, adiante designado abreviadamente por FAT, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira.
 
 2 - O FAT funciona na dependência directa da EDP - Electricidade de Portugal, E. P., criada pelo [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), de 30 de Junho, rege-se pelas disposições do presente diploma e, subsidiariamente, pela legislação aplicável aos fundos autónomos que o não contrarie.
 
-###### Art. 2.º - 1 - O FAT tem por objectivo assegurar a correcção dos resultados da EDP, através dos diferenciais entre o custo económico da produção de energia eléctrica pela EDP e o valor de referência correspondente ao custo económico calculado em função de condições hidrológicas consideradas médias (custo económico de referência).
+Art. 2.º - 1 - O FAT tem por objectivo assegurar a correcção dos resultados da EDP, através dos diferenciais entre o custo económico da produção de energia eléctrica pela EDP e o valor de referência correspondente ao custo económico calculado em função de condições hidrológicas consideradas médias (custo económico de referência).
 
 2 - Para os efeitos do presente diploma, entende-se por produção de energia eléctrica pela EDP o conjunto das energias de produção própria, importada e adquirida a terceiros.
 
@@ -126,7 +158,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O custo económico de referência será aprovado por despacho do Ministro da Indústria e Energia.
 
-###### Art. 3.º A tutela do FAT será assegurada pelos Ministros das Finanças e do Plano e da Indústria e Energia, compreendendo poderes para:
+Art. 3.º A tutela do FAT será assegurada pelos Ministros das Finanças e do Plano e da Indústria e Energia, compreendendo poderes para:
 
 a) Dar directivas e instruções genéricas ao conselho administrativo sobre a actividade a desenvolver pelo FAT e acompanhar o seu exercício, solicitando todas as informações e documentos julgados úteis para aquele efeito;
 
@@ -134,13 +166,13 @@ b) Autorizar a contracção de empréstimos;
 
 c) Exercer outros poderes conferidos por lei.
 
-###### Art. 4.º São órgãos do FAT:
+Art. 4.º São órgãos do FAT:
 
 a) O conselho administrativo;
 
 b) A comissão de controle financeiro.
 
-###### Art. 5.º - 1 - O conselho administrativo do FAT é constituído por 3 elementos escolhidos de entre os administradores da EDP, um dos quais, que presidirá ao conselho administrativo, será o presidente ou o vice-presidente do respectivo conselho de gerência.
+Art. 5.º - 1 - O conselho administrativo do FAT é constituído por 3 elementos escolhidos de entre os administradores da EDP, um dos quais, que presidirá ao conselho administrativo, será o presidente ou o vice-presidente do respectivo conselho de gerência.
 
 2 - Os membros do conselho administrativo do FAT são nomeados e exonerados por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Energia e as suas funções serão remuneradas em termos a definir por despacho conjunto dos referidos membros do Governo.
 
@@ -168,7 +200,7 @@ b) Representar o FAT em juízo ou fora dele e assinar em seu nome todos os actos
 
 6 - O presidente do conselho administrativo pode delegar em outro membro deste órgão o exercício total ou parcial dos seus poderes.
 
-###### Art. 6.º - 1 - A comissão de controle financeiro do FAT é constituída por 3 membros, representantes da Direcção-Geral da Contabilidade Pública, da Inspecção-Geral de Finanças e da Direcção-Geral de Energia, os quais serão nomeados por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Energia.
+Art. 6.º - 1 - A comissão de controle financeiro do FAT é constituída por 3 membros, representantes da Direcção-Geral da Contabilidade Pública, da Inspecção-Geral de Finanças e da Direcção-Geral de Energia, os quais serão nomeados por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Energia.
 
 2 - As funções dos membros da comissão de controle financeiro serão remuneradas em termos a fixar em despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Energia.
 
@@ -182,9 +214,9 @@ b) Dar parecer sobre as operações financeiras que lhe sejam submetidas pelo co
 
 c) Dar parecer sobre a conta de gerência anual.
 
-###### Art. 7.º No exercício da sua actividade, o FAT utilizará, em termos a definir no regulamento previsto na alínea f) do n.º 3 do artigo 5.º do presente diploma, a estrutura administrativa da EDP, cabendo a esta empresa suportar os respectivos encargos, que incluirão as remunerações previstas nos artigos 5.º e 6.º
+Art. 7.º No exercício da sua actividade, o FAT utilizará, em termos a definir no regulamento previsto na alínea f) do n.º 3 do artigo 5.º do presente diploma, a estrutura administrativa da EDP, cabendo a esta empresa suportar os respectivos encargos, que incluirão as remunerações previstas nos artigos 5.º e 6.º
 
-###### Art. 8.º - 1 - Constituem receitas do FAT:
+Art. 8.º - 1 - Constituem receitas do FAT:
 
 a) Os diferenciais positivos, verificados anualmente, entre o custo económico de referência e o custo económico efectivo da produção de energia eléctrica pela EDP;
 
@@ -200,7 +232,7 @@ d) Outras receitas.
 
 4 - Os adicionais serão calculados em termos de o equilíbrio financeiro do FAT ser alcançado em prazo não superior a 5 anos.
 
-###### Art. 9.º Constituem encargos do FAT:
+Art. 9.º Constituem encargos do FAT:
 
 a) Os diferenciais negativos, verificados anualmente, entre o custo económico de referência e o custo económico efectivo da produção de energia eléctrica pela EDP;
 
@@ -208,34 +240,34 @@ b) Os encargos dos empréstimos que sejam contraídos nos termos do presente dip
 
 c) Outros encargos determinados pelo objectivo definido no artigo 2.º
 
-###### Art. 10.º Os saldos do FAT transitarão sempre para os anos seguintes, não sendo em caso algum permitida a sua utilização fora do quadro legal instituído no presente diploma, o qual prevalecerá sobre outra legislação genérica referente a fundos autónomos.
+Art. 10.º Os saldos do FAT transitarão sempre para os anos seguintes, não sendo em caso algum permitida a sua utilização fora do quadro legal instituído no presente diploma, o qual prevalecerá sobre outra legislação genérica referente a fundos autónomos.
 
-###### Art. 11.º - 1 - Os saldos positivos do FAT serão usados como fonte de financiamento da EDP para o exercício da actividade desta.
+Art. 11.º - 1 - Os saldos positivos do FAT serão usados como fonte de financiamento da EDP para o exercício da actividade desta.
 
 2 - As condições de utilização dos saldos do FAT pela EDP como fonte de financiamento serão as que vigorarem em cada momento no mercado de capitais para empréstimos a curto prazo, ou as que forem definidas por despacho dos Ministros da Indústria e Energia e das Finanças e do Plano.
 
-###### Art. 12.º O FAT poderá contrair empréstimos destinados a cobrir os seus défices, carecendo para o efeito da autorização tutelar prevista na alínea b) do artigo 3.º
+Art. 12.º O FAT poderá contrair empréstimos destinados a cobrir os seus défices, carecendo para o efeito da autorização tutelar prevista na alínea b) do artigo 3.º
 
-###### Art. 13.º - 1 - O presente diploma entra imediatamente em vigor, sendo extinto na mesma data o Fundo de Apoio Térmico criado por despacho ministerial de 25 de Fevereiro de 1960.
+Art. 13.º - 1 - O presente diploma entra imediatamente em vigor, sendo extinto na mesma data o Fundo de Apoio Térmico criado por despacho ministerial de 25 de Fevereiro de 1960.
 
 2 - A partir da mesma data, serão da responsabilidade do FAT os encargos referentes aos saldos negativos transmitidos nos termos do n.º 1.
 
 3 - A transmissão de débitos nos termos do n.º 1 não implicará, salvo acordo dos respectivos credores, a extinção das garantias prestadas pela EDP na contracção de empréstimos destinados ao FAT.
 
-###### Art. 14.º - 1 - Não é aplicável ao FAT criado pelo presente diploma a legislação aplicável a fundos e organismos autónomos, nomeadamente quanto à organização, aprovação e publicação dos seus orçamentos, prestação e publicidade das contas de gerência e movimentação e utilização das suas receitas.
+Art. 14.º - 1 - Não é aplicável ao FAT criado pelo presente diploma a legislação aplicável a fundos e organismos autónomos, nomeadamente quanto à organização, aprovação e publicação dos seus orçamentos, prestação e publicidade das contas de gerência e movimentação e utilização das suas receitas.
 
 2 - As contas do FAT serão apresentadas em anexo às contas da EDP e sujeitas a aprovação nos mesmos termos destas.
 
-###### Art. 15.º O presente diploma entra imediatamente em vigor, sendo extinto na mesma data o Fundo de Apoio Térmico criado por despacho ministerial de 25 de Fevereiro de 1960.
+Art. 15.º O presente diploma entra imediatamente em vigor, sendo extinto na mesma data o Fundo de Apoio Térmico criado por despacho ministerial de 25 de Fevereiro de 1960.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1983. - O Primeiro-Ministro, Mário Soares. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 18 de Julho de 1983.**
+Promulgado em 18 de Julho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Julho de 1983.**
+Referendado em 20 de Julho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

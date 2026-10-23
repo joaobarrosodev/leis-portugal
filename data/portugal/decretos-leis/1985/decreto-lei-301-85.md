@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/17200/22532254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1985-179989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bda11c01aa8890c6f3d997dfd2eb673e5e9f11c23b228e4fb0c95dd607bd02ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daf9b69933ccbe442621fe544bfe8d305331186cec780ac1dea91eba88a91487
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Co-seguro
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:264701:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:384041:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264701:por
+  label: "Revogado pelo DEC LEI.102/94.1994.04.20.MF, DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1994-264701
+  date: '1994-04-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:43Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +117,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Entende-se por co-seguro a assunção conjunta de um determinado risco por várias seguradoras, denominadas «co-seguradoras», de entre as quais uma é líder, através de um contrato de seguro único, com as mesmas garantias e período de duração e com um prémio global.
+Artigo 1.º - 1 - Entende-se por co-seguro a assunção conjunta de um determinado risco por várias seguradoras, denominadas «co-seguradoras», de entre as quais uma é líder, através de um contrato de seguro único, com as mesmas garantias e período de duração e com um prémio global.
 
 2 - O co-seguro é admitido em todos os ramos de seguro relativamente a contratos que, pela sua natureza, características ou dimensão, justifiquem a intervenção de várias seguradoras.
 
-###### Art. 2.º O contrato em regime de co-seguro é titulado por uma apólice única, emitida pela líder e assinada por todas as co-seguradoras, na qual deve figurar a quota-parte do risco ou a parte percentual do capital assumidas por cada uma.
+Art. 2.º O contrato em regime de co-seguro é titulado por uma apólice única, emitida pela líder e assinada por todas as co-seguradoras, na qual deve figurar a quota-parte do risco ou a parte percentual do capital assumidas por cada uma.
 
-###### Art. 3.º No co-seguro cada co-seguradora responde apenas pela quota-parte do risco garantido ou pela parte percentual do capital seguro assumido.
+Art. 3.º No co-seguro cada co-seguradora responde apenas pela quota-parte do risco garantido ou pela parte percentual do capital seguro assumido.
 
-###### Art. 4.º - 1 - À líder do co-seguro encontram-se cometidas as seguintes funções, a serem exercidas, em seu próprio nome e em nome e por conta das restantes co-seguradoras, em relação à globalidade do contrato:
+Art. 4.º - 1 - À líder do co-seguro encontram-se cometidas as seguintes funções, a serem exercidas, em seu próprio nome e em nome e por conta das restantes co-seguradoras, em relação à globalidade do contrato:
 
 a) Receber, por parte do tomador de seguro, a declaração do risco a segurar, bem como as declarações posteriores de agravamento ou de diminuição desse mesmo risco;
 
@@ -132,7 +143,7 @@ g) Aceitar e propor a resolução do contrato.
 
 2 - Poderão ainda, mediante acordo entre as co-seguradoras, serem cometidas à líder outras funções para além das referidas no número anterior.
 
-###### Art. 5.º Relativamente a cada contrato em co-seguro deve ser estabelecido entre as co-seguradoras um acordo expresso relativo às relações entre todas e entre cada uma e a líder, do qual devem, sem prejuízo do disposto no n.º 1 do artigo anterior, constar, pelo menos, os seguintes aspectos:
+Art. 5.º Relativamente a cada contrato em co-seguro deve ser estabelecido entre as co-seguradoras um acordo expresso relativo às relações entre todas e entre cada uma e a líder, do qual devem, sem prejuízo do disposto no n.º 1 do artigo anterior, constar, pelo menos, os seguintes aspectos:
 
 a) Valor da taxa de gestão, no caso de as funções exercidas pela líder serem remuneradas;
 
@@ -140,32 +151,32 @@ b) Forma de transmissão de informações e de prestação de contas pela líder
 
 c) Sistema de liquidação de sinistros.
 
-###### Art. 6.º A líder é civilmente responsável perante as restantes co-seguradoras pelas perdas e danos decorrentes do não cumprimento das funções que lhe são cometidas.
+Art. 6.º A líder é civilmente responsável perante as restantes co-seguradoras pelas perdas e danos decorrentes do não cumprimento das funções que lhe são cometidas.
 
-###### Art. 7.º Os sinistros decorrentes de um contrato em co-seguro podem ser liquidados através de qualquer das seguintes modalidades, a constar expressamente da respectiva apólice:
+Art. 7.º Os sinistros decorrentes de um contrato em co-seguro podem ser liquidados através de qualquer das seguintes modalidades, a constar expressamente da respectiva apólice:
 
 a) A líder procede, em seu próprio nome e em nome e por conta das restantes co-seguradoras, à liquidação global do sinistro;
 
 b) Cada uma das co-seguradoras procede à liquidação da parte do sinistro proporcional à quota-parte do risco que garantiu ou à parte percentual do capital assumido.
 
-###### Art. 8.º As acções judiciais decorrentes de um contrato em co-seguro devem ser intentadas contra todas as co-seguradoras, salvo se o litígio se prender com a liquidação de um sinistro e tenha sido adoptado na apólice respectiva o esquema referido na alínea b) do artigo anterior.
+Art. 8.º As acções judiciais decorrentes de um contrato em co-seguro devem ser intentadas contra todas as co-seguradoras, salvo se o litígio se prender com a liquidação de um sinistro e tenha sido adoptado na apólice respectiva o esquema referido na alínea b) do artigo anterior.
 
-###### Art. 9.º Quando uma das co-seguradoras desejar abandonar o co-seguro, deve, com uma antecedência mínima de 30 dias em relação à data em que o pretenda fazer, comunicar tal facto à líder, que dará conhecimento ao tomador de seguro e às restantes co-seguradoras, a fim de que se decida acerca da forma de garantia da quota-parte em causa.
+Art. 9.º Quando uma das co-seguradoras desejar abandonar o co-seguro, deve, com uma antecedência mínima de 30 dias em relação à data em que o pretenda fazer, comunicar tal facto à líder, que dará conhecimento ao tomador de seguro e às restantes co-seguradoras, a fim de que se decida acerca da forma de garantia da quota-parte em causa.
 
-###### Art. 10.º - 1 - O regime previsto no presente diploma é aplicável a todos os contratos que se celebrem em regime de co-seguro, a partir da data da sua entrada em vigor.
+Art. 10.º - 1 - O regime previsto no presente diploma é aplicável a todos os contratos que se celebrem em regime de co-seguro, a partir da data da sua entrada em vigor.
 
 2 - O presente diploma é igualmente aplicável a todos os contratos existentes em regime de co-seguro à data da sua entrada em vigor no primeiro vencimento que venha a verificar-se decorridos que sejam 3 meses após aquela data.
 
-###### Art. 11.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+Art. 11.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Mário Ferreira Bastos Raposo - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 18 de Julho de 1985.**
+Promulgado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Julho de 1985.**
+Referendado em 19 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03400/04050420.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,220 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66181a7a4bee123c70c9dd0d8246e206e1ccbca4102ad5be357562c100d6965d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c0715325f69b9d39e7af6d0f448b8c7b80c26d0ab3dee7770286adc288edc04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Ministério da Educação
+- Quadro de Pessoal
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:665342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451653:por
+  label: "Criado 1 lugar de técnico superior principal no quadro de pessoal constante do anexo II do presente diploma, pelo\
+    \ DEC LEI.232/83.30.05.1983.MFP, DR.IS [124] de 30.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1983-451653
+  date: '1983-05-30'
+- type: amended_by
+  target: pt:dre:443542:por
+  label: "Alterado o anexo II pela PORT.1048/83.20.12.1983.PCM, DR.IS [291] de 20.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1048-1983-443542
+  date: '1983-12-20'
+- type: amended_by
+  target: pt:dre:654912:por
+  label: "Alterado o anexo II pela PORT.245/84.1984.04.18.PCM DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-1984-654912
+  date: '1984-04-18'
+- type: amended_by
+  target: pt:dre:386669:por
+  label: "Criado um lugar de assessor, Letra C, no quadro de pessoal constante do anexo II ao presente diploma, pela PORT.379/84.16.06.1984.PCM,\
+    \ DR.IS [139] de 16.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-1984-386669
+  date: '1984-06-16'
+- type: amended_by
+  target: pt:dre:373652:por
+  label: "Criado um lugar de assessor Letra C, no quadro único do pessoal dos organismos e serviços centrais constante do\
+    \ anexo II ao presente diploma, pela PORT.654/84.30.08.1984.PCM, DR.IS [201] de 30.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/654-1984-373652
+  date: '1984-08-30'
+- type: amended_by
+  target: pt:dre:399651:por
+  label: "Criado um lugar de técnico superior principal no quadro único de pessoal constante do anexo II do presente diploma,\
+    \ pela PORT.764/84.27.09.1984.PCM, DR.IS [225] de 27.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/764-1984-399651
+  date: '1984-09-27'
+- type: amended_by
+  target: pt:dre:401285:por
+  label: "Aumentado o número de lugares constante do anexo II e as dotações de pessoal constantes do anexo V e XXI, pela PORT.870/84.23.11.1984.PCM,\
+    \ DR.IS [272] de 23.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/870-1984-401285
+  date: '1984-11-23'
+- type: amended_by
+  target: pt:dre:326121:por
+  label: "Alterado o quadro de pessoal, pela PORT.123/85.1985.03.02.PCM, DR.IS [51]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-1985-326121
+  date: '1985-03-02'
+- type: amended_by
+  target: pt:dre:182872:por
+  label: "Criado um lugar de assessor no quadro de pessoal constante do anexo II ao presente diploma, pela PORT.427/85.06.07.1985.PCM,\
+    \ DR.IS [153] de 06.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1985-182872
+  date: '1985-07-06'
+- type: amended_by
+  target: pt:dre:182994:por
+  label: "Criado um lugar no quadro único de pessoal constante do anexo II ao presente diploma, pela PORT.436/85.08.07.1985.PCM,\
+    \ DR.IS [154] de 08.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1985-182994
+  date: '1985-07-08'
+- type: amended_by
+  target: pt:dre:193824:por
+  label: "Alterado o quadro de pessoal referido no anexo II, pela PORT.58/86.1986.02.19.MF DR.IS [41] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1986-193824
+  date: '1986-02-19'
+- type: amended_by
+  target: pt:dre:227046:por
+  label: "Alterado o quadro único do pessoal constante dos anexos I, II e o anexo XIV pelo DEC LEI.107/86.21.05.1986.MEC,\
+    \ DR.IS [116] de 21.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1986-227046
+  date: '1986-05-21'
+- type: amended_by
+  target: pt:dre:226993:por
+  label: "Alterado o quadro de pessoal constante do anexo II do presente diploma, com a redacção conferida pelas Ports 1048/83,\
+    \ de 20-Dez, 42/84, de 20-Jan, 245/84, de 18-Abr, 123/85, de 02-Mar e 58/86, de 19-Fev, pela PORT.262/86.31.05.1986.MF,\
+    \ DR.IS [124] de 31.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-1986-226993
+  date: '1986-05-31'
+- type: amended_by
+  target: pt:dre:297237:por
+  label: "Aditados os artigos 27.º-A, 27.º-B, 36.º-A, 43.º-A e lugares aos anexos I, II e substituído o anexo XIII pelo DEC\
+    \ LEI.151-E/86.18.06.1986.MEC, DR.IS [137-2ºSupl] de 18.06.1986\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-e-1986-297237
+  date: '1986-06-18'
+- type: amended_by
+  target: pt:dre:218738:por
+  label: "Criado um quadro de pessoal no quadro único, constante do anexo II ao presente diploma, pela PORT.407/86.28.07.1986.MF,\
+    \ DR.IS [171] de 28.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/407-1986-218738
+  date: '1986-07-28'
+- type: amended_by
+  target: pt:dre:663481:por
+  label: "Alterado o quadro de pessoal constante do anexo II ao presente diploma, pela PORT.40/87.17.01.1987.MF, DR.IS [14]\
+    \ de 17.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-1987-663481
+  date: '1987-01-17'
+- type: amended_by
+  target: pt:dre:421418:por
+  label: "Alterado o anexo II do presente diploma, pela PORT.402/87.14.05.1987.MF, DR.IS [110] de 14.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/402-1987-421418
+  date: '1987-05-14'
+- type: amended_by
+  target: pt:dre:420061:por
+  label: "Criado um lugar de assessor no quadro único constante do anexo II pela PORT.568/87.1987.07.08.MF, DR.IS [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/568-1987-420061
+  date: '1987-07-08'
+- type: amended_by
+  target: pt:dre:417778:por
+  label: "Alterado o quadro de pessoal constante do anexo II pela PORT.690/87.12.08.1987.MF, DR.IS [184] de 12.08.1987 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-1987-417778
+  date: '1987-08-12'
+- type: amended_by
+  target: pt:dre:658883:por
+  label: "Alterado o quadro de pessoal constantes dos anexos I e II do presente diploma, pela PORT.226-A/88.13.04.1988.MF,\
+    \ DR.IS [86]Supl de 13.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-a-1988-658883
+  date: '1988-04-13'
+- type: amended_by
+  target: pt:dre:192599:por
+  label: "Alterado o quadro de pessoal pela PORT.297/92.03.04.1992.MF, DR.IS-B [79] de 03.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-1992-192599
+  date: '1992-04-03'
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665342:por
+  label: "Revogado pelo DEC LEI.133/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1993-665342
+  date: '1993-04-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:50Z'
   warnings: []
   errors: []
 ---
@@ -462,16 +642,16 @@ As dúvidas resultantes da aplicação do presente diploma serão resolvidas, co
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva - José Manuel Meneres Sampaio Pimentel - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Do ANEXO I ao ANEXO XXI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03400/04050420.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03400/04050420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03400/04050420.pdf)

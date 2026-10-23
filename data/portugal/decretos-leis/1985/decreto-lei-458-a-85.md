@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 251/1985, 1º Suplemento, Série I de 1985-10-31
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3688-(1) a 3688-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/25101/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,150 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-a-1985-322509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee9fdda9446f8ca2481b3f704c7ce49275e6a3ce625743d2bd397f89d15b2b29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7e021e92caef3237e2679237cc16a649ccb9d219ad447feca88fac137c085b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Náutica Infante Dom Henrique
+- Marinha Mercante
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:276032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614779:por
+  label: Integrada no sistema educativo nacional, ao nível do ensino superior politécnico, a Escola Náutica Infante D. Henrique
+    (ENIDH), cuja orgânica consta do presente diploma, pelo(a) Decreto-Lei n.º 94/89 - Diário da República n.º 72/1989, Série
+    I de 1989-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1989-614779
+  date: '1989-03-28'
+- type: cites
+  target: pt:dre:225837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:305260:por
+  label: Revogado, na data de entrada em vigor do diploma que reestruturar a Escola Náutica Infante D. Henrique, conforme
+    o estabelecido na al. c) do n.º 3 do art. 21.º do Decreto-Lei n.º 154/92 - Diário da República n.º 170/1992, 1º Suplemento,
+    Série I-A de 1992-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1992-305260
+  date: '1992-07-25'
+- type: repealed_by
+  target: pt:dre:276032:por
+  label: "Revogado pelo DEC LEI.16/2002.2002.01.29.MES DR.IS-A [24], nos termos do respectivo art. 33º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2002-276032
+  date: '2002-01-29'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:28Z'
   warnings: []
   errors: []
 ---
@@ -170,12 +280,12 @@ São revogados os seguintes diplomas:
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - António de Almeida Costa - José de Almeida Serra.
 
-**Promulgado em 10 de Outubro de 1985.**
+Promulgado em 10 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Outubro de 1985.**
+Referendado em 14 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

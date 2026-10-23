@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 76/1984, 2º Suplemento, Série I de 1984-03-30
   number: '76'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1084-(17) a 1084-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07602/00170026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-1984-335895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a8bdd1bc0812dae38c84f7c647cba0cee3c9e4ec7556581bc91d0e6e91d7878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dc39a3d23b0a2edf9d45edb480e8a15f834f1547d5f5e3a434d2525a1f7d840
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,64 @@ relationships:
   target: pt:dre:645306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:586004:por
+  label: Extinta a Direcção Geral dos Assuntos Farmacêuticos, pelo(a) Decreto-Lei n.º 10/93 - Diário da República n.º 12/1993,
+    Série I-A de 1993-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1993-586004
+  date: '1993-01-15'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:645306:por
+  label: Revogado o presente diploma, mantendo-se em vigor o quadro anexo até à entrada em vigor da portaria prevista no n.º
+    1 do art. 21.º, pelo(a) Decreto-Lei n.º 353/93 - Diário da República n.º 235/1993, Série I-A de 1993-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-1993-645306
+  date: '1993-10-07'
 article_structure:
   article_count: 39
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:12Z'
   warnings: []
   errors: []
 ---
@@ -231,11 +279,11 @@ d) Divisão de Documentação e Informação;
 
 e) Repartição Administrativa, que compreende:
 
-#### Secção de Contabilidade, Património e Economato;
+Secção de Contabilidade, Património e Economato;
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente, Arquivo e Reprografia.
+Secção de Expediente, Arquivo e Reprografia.
 
 7 - Na directa dependência do director-geral funcionarão um Gabinete de Relações Públicas e Secretariado, um Gabinete de Apoio Jurídico e a Divisão de Documentação e Informação.
 
@@ -597,16 +645,16 @@ O presente diploma entrará em vigor no dia 1 do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 29 de Março de 1984.**
+Promulgado em 29 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Março de 1984.**
+Referendado em 29 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro de pessoal da DGAF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/07602/00170026.pdf))](https://files.diariodarepublica.pt/1s/1984/03/07602/00170026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/07602/00170026.pdf)

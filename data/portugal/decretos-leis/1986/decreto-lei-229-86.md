@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/18600/20192022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1986-218908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d882babba283a664a3131ba49b73df394b8f85dbdc375a5774c3e0919c8e183f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 160db8bd79f9fc10de610ed96ea22d31b918269bfa17ad1a3effd178e57befe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério das Finanças
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662372:por
+  label: "Alterado o artigo 1.º, o n.º 3 do artigo 3.º e os n.os 2, 4 e 5 do artigo 6.º, pelo DEC LEI.98/87.05.03.1987.MF,\
+    \ DR.IS [53] de 05.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1987-662372
+  date: '1987-03-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITOU A DIRECCAO-GERAL DA ADMINISTRACAO PUBLICA PARA A PRESIDENCIA DO CONSELHO DE MINISTROS, ATRAVES DO DEC\
+    \ LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0PL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:545650:por
+  label: "Reestruturada a Direcção-Geral da Administração Pública, criada pelo presente diploma, passando a designar-se Direcção-Geral\
+    \ da Administração e do Emprego Público, pelo DEC LEI.205/2006.27.10.2006.MFAP, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2006-545650
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567463:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241227:por
+  label: "Revogado pelo DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:05Z'
   warnings: []
   errors: []
 ---
@@ -280,12 +369,12 @@ b) Decretos Regulamentares n.os [72/82](https://diariodarepublica.pt/dr/detalhe/
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Julho de 1986.**
+Promulgado em 26 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1986.**
+Referendado em 30 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

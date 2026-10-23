@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1982-379564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80f8fa6cc460edd278298b3b1f704fbb6f24a718a2359ea9708239e5ca49fc8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 357f353114fba711fd1efafb2e03edef96a9db04d8c5d342001d2f0c95a43c50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Docente Universitária
+- Investigação Científica e Tecnológica
+- Regime de Exclusividade
+- Subsídio de Férias
+- Subsídio de Natal
+relationships:
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:55Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +104,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - Os subsídios complementares dos regimes de dedicação exclusiva, atribuídos ao pessoal integrado em carreiras em cuja regulamentação se preveja a possibilidade do seu exercício, serão considerados no cálculo dos subsídios de Natal e de férias do pessoal que a eles tiver direito, nos termos legais.
+Artigo único - 1 - Os subsídios complementares dos regimes de dedicação exclusiva, atribuídos ao pessoal integrado em carreiras em cuja regulamentação se preveja a possibilidade do seu exercício, serão considerados no cálculo dos subsídios de Natal e de férias do pessoal que a eles tiver direito, nos termos legais.
 
 2 - Os subsídios complementares referidos no número anterior serão tidos em conta no cálculo das pensões de aposentação, nos termos da alínea b) do n.º 1 do artigo 47.º e do artigo 48.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
@@ -103,8 +112,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 10 de Dezembro de 1982.**
+Promulgado em 10 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

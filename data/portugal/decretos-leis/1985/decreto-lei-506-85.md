@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1985-168811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbdef65fc2eb7b022b42ab73123f6c293561b6e58a58fb7be864abcd814b27cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71745a19f68e55e34e9d99d3e51002cfe2e20fdeb99e13bc57d17066ef0f9c65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Urbano não Habitacional
+- Mata Nacional do Buçaco
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:215962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301860:por
+  label: Rectificado pela DECL.DD4674.14.03.1986.PCM, DR.IS [74]Supl de 31.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301860
+  date: '1986-03-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:26Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +117,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a celebração com a Sociedade Hotéis Alexandre d'Almeida, Lda., de novo contrato de arrendamento do Palácio da Mata do Buçaco e respectivos anexos para continuação da exploração do estabelecimento hoteleiro ali instalado.
+Artigo 1.º - 1 - É autorizada a celebração com a Sociedade Hotéis Alexandre d'Almeida, Lda., de novo contrato de arrendamento do Palácio da Mata do Buçaco e respectivos anexos para continuação da exploração do estabelecimento hoteleiro ali instalado.
 
 2 - O referido contrato deverá assegurar a classificação do estabelecimento como hotel de 5 estrelas, de harmonia com o disposto no [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro.
 
@@ -101,23 +125,23 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A importância das rendas respectivas constitui receita do Orçamento do Estado.
 
-###### Art. 2.º - 1 - Os termos do contrato de arrendamento serão os constantes da minuta anexa ao presente diploma.
+Art. 2.º - 1 - Os termos do contrato de arrendamento serão os constantes da minuta anexa ao presente diploma.
 
 2 - O director-geral do Turismo tomará as providências necessárias para a celebração do contrato, que outorgará em representação do Estado.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 12 de Dezembro de 1985.**
+Promulgado em 12 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Dezembro de 1985.**
+Referendado em 16 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o n.º 1 do artigo 2.º
+Anexo a que se refere o n.º 1 do artigo 2.º
 
 MINUTA DO CONTRATO
 

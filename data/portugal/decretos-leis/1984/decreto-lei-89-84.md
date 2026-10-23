@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07000/09690977.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a74f222ce9c72dc723aae9632505ea332bcbeb61b5ebcbf1a051c94c1a708354
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb7e359cf057c01e8002c4bfe0233cd94014ed4e3998a1d081cbf28803a90b38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Etiquetagem
+- Produto Alimentar
+- Proteção do Consumidor
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:283925:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178084:por
+  label: "Introduzidas alterações pelo DEC LEI.440/85.24.10.1985.MA, DR.IS [245] de 24.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/440-1985-178084
+  date: '1985-10-24'
+- type: amended_by
+  target: pt:dre:625665:por
+  label: "Prorrogado o prazo previsto no n.º 1 do artigo 33.º, pelo DEC LEI.136/89.27.04.1989.MAPA, DR.IS [97] de 27.04.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1989-625665
+  date: '1989-04-27'
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283925:por
+  label: "Revogado pelo DEC LEI.170/92.08.08.1992.MA, DR.IS-A [182] de 08.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1992-283925
+  date: '1992-08-08'
 article_structure:
   article_count: 33
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:12Z'
   warnings: []
   errors: []
 ---
@@ -484,16 +521,16 @@ O presente diploma entrará em vigor decorrido 1 ano sobre a data da sua publica
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto - António d'Orey Capucho.
 
-**Promulgado em 6 de Março de 1984.**
+Promulgado em 6 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1984.**
+Referendado em 7 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO — Categorias de ingredientes para os quais a indicação da categoria pode substituir a do nome específico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/07000/09690977.pdf))](https://files.diariodarepublica.pt/1s/1984/03/07000/09690977.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/07000/09690977.pdf)

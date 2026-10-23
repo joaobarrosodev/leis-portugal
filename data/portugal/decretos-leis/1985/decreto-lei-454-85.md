@@ -48,36 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1985-177837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bdad78d92df730b7c806cba62456dd76166cd5e347d655e4079e7541e9fe376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c334b299cfb62b6046b56685a949ad3802be34da2829a9177aebd9bb34653c15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Alcochete
+- Almarina-empreendimento Turístico Imobiliário
+- Marina
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:171355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:24Z'
   warnings: []
   errors: []
 ---
@@ -92,41 +117,41 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica a Administração-Geral do Porto de Lisboa autorizada a contratar com ALMARINA -Empreendimentos Turístico-Imobiliários, Lda., sociedade por quotas com sede em Lisboa, a concessão do direito de construção e exploração de uma marina de recreio para 219 embarcações junto à vila de Alcochete, bem como do direito de utilização, com um complexo turístico, de uma área do domínio público que lhe está anexa.
+Artigo 1.º - 1 - Fica a Administração-Geral do Porto de Lisboa autorizada a contratar com ALMARINA -Empreendimentos Turístico-Imobiliários, Lda., sociedade por quotas com sede em Lisboa, a concessão do direito de construção e exploração de uma marina de recreio para 219 embarcações junto à vila de Alcochete, bem como do direito de utilização, com um complexo turístico, de uma área do domínio público que lhe está anexa.
 
 2 - A localização da marina e do complexo turístico é a que consta da planta anexa ao presente diploma.
 
-###### Art. 2.º A sociedade a que se refere o artigo 1.º obedecerá na sua constituição ao disposto na [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, e nos artigos 21.º e seguintes do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
+Art. 2.º A sociedade a que se refere o artigo 1.º obedecerá na sua constituição ao disposto na [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, e nos artigos 21.º e seguintes do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
-###### Art. 3.º O prazo da concessão é de 99 anos, a contar da data do visto do contrato pelo Tribunal de Contas.
+Art. 3.º O prazo da concessão é de 99 anos, a contar da data do visto do contrato pelo Tribunal de Contas.
 
-###### Art. 4.º Sobre os imóveis ou conjuntos imobiliários a implantar na área da concessão poderá a concessionária constituir, até ao limite do prazo previsto no artigo anterior, o direito de habitação periódica ou outros de idêntica natureza que respeitem o objecto da concessão e se integrem nas finalidades turísticas do complexo.
+Art. 4.º Sobre os imóveis ou conjuntos imobiliários a implantar na área da concessão poderá a concessionária constituir, até ao limite do prazo previsto no artigo anterior, o direito de habitação periódica ou outros de idêntica natureza que respeitem o objecto da concessão e se integrem nas finalidades turísticas do complexo.
 
-###### Art. 5.º - 1 - A marina de recreio será construída e mantida, como parte integrante, no domínio público do Estado afecto à Administração-Geral do Porto de Lisboa.
+Art. 5.º - 1 - A marina de recreio será construída e mantida, como parte integrante, no domínio público do Estado afecto à Administração-Geral do Porto de Lisboa.
 
 2 - Sem prejuízo do disposto no número anterior, o estabelecimento é propriedade da concessionária até ao termo da concessão; decorrido o prazo da concessão ou rescindido o contrato, o estabelecimento reverterá gratuitamente para o Estado, integrando-se no domínio afecto à AGPL, sem dependência de qualquer formalidade, nos termos do artigo 26.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro.
 
-###### Art. 6.º A marina e o complexo turístico situar-se-ão na área de jurisdição da Administração-Geral do Porto de Lisboa, à qual competirá o licenciamento e fiscalização de todas as obras.
+Art. 6.º A marina e o complexo turístico situar-se-ão na área de jurisdição da Administração-Geral do Porto de Lisboa, à qual competirá o licenciamento e fiscalização de todas as obras.
 
-###### Art. 7.º - 1 - As hipotecas que a concessionária constituir sobre as obras e instalações fixas para garantia de financiamentos destinados à construção do complexo turístico extinguir-se-ão decorrido que seja o prazo de 12 anos, a contar da data da sua constituição.
+Art. 7.º - 1 - As hipotecas que a concessionária constituir sobre as obras e instalações fixas para garantia de financiamentos destinados à construção do complexo turístico extinguir-se-ão decorrido que seja o prazo de 12 anos, a contar da data da sua constituição.
 
 2 - Nenhuma hipoteca poderá ser constituída por prazo que ultrapasse o ano 2030.
 
-###### Art. 8.º A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante.
+Art. 8.º A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante.
 
 Visto e aprovado em Conselho de Ministro de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Joaquim Martins Ferreira do Amaral - Carlos Montez Melancia - José de Almeida Serra.
 
-**Promulgado em 4 de Outubro de 1985.**
+Promulgado em 4 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Outubro de 1985.**
+Referendado em 7 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24800/35723576.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24800/35723576.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24800/35723576.pdf)
 
 Bases anexas ao [Decreto-Lei n.º 464/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1985-171355)
 
@@ -510,4 +535,4 @@ Resolução de diferendos
 
 2 - O tribunal julgará segundo a equidade.
 
-**O Ministro do Mar, José de Almeida Serra.**
+O Ministro do Mar, José de Almeida Serra.

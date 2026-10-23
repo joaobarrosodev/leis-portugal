@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/06600/06710671.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1986-196882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0667ee12af3ffb1f720600f0b3a2833a4a7f43c6222373e0f72e288f7fae2c7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00564b3a88c860444ab558f79af81865668ba96479ac464136a84cdebce56526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto do Emprego e Formação Profissional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:00Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +114,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 7.º, 9.º, 14.º e 18.º do Estatuto do Instituto do Emprego e Formação Profissional, aprovado pelo [Decreto-Lei n.º 247/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1985-182655), de 12 de Julho, passam a ter a seguinte redacção:
+Artigo único. Os artigos 7.º, 9.º, 14.º e 18.º do Estatuto do Instituto do Emprego e Formação Profissional, aprovado pelo [Decreto-Lei n.º 247/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1985-182655), de 12 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - A representação referida na alínea a) do número anterior é composta:
 
@@ -115,7 +126,7 @@ b) Por dois representantes do Ministro do Plano e da Administração do Territó
 
 c) Por um representante do Ministério da Educação e Cultura.
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - ...
 
@@ -125,7 +136,7 @@ c) Por um representante do Ministério da Educação e Cultura.
 
 5 - As funções de membro do conselho de administração conferem direito a uma gratificação mensal de montante a determinar por despacho conjunto dos Ministros das Finanças e do Trabalho e Segurança Social.
 
-###### Art. 14.º - 1 - A comissão de fiscalização é composta por um presidente e quatro vogais, representando:
+Art. 14.º - 1 - A comissão de fiscalização é composta por um presidente e quatro vogais, representando:
 
 a) O Ministros das Finanças;
 
@@ -143,7 +154,7 @@ d) ...
 
 5 - Os vogais têm direito a uma gratificação mensal de montante a fixar por despacho conjunto dos Ministros das Finanças e do Trabalho e Segurança Social.
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 2 - ...
 
@@ -155,12 +166,12 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral.
 
-**Promulgado em 6 de Março de 1986.**
+Promulgado em 6 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1986.**
+Referendado em 7 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

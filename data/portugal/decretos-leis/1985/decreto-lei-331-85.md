@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/18400/25422543.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1985-180410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 189941feec3598b7c91c34b55e1dc87cbf6f0ec7492a0780c0649c999e92976e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4c0fc86c41b9abc5c27479d676993752e5441624dd242500fbfe53b17870650
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços Administrativos
+- Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:355506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355506:por
+  label: "Revogado pelo DEC LEI.345/88.1988.09.28.ME, DR.IS [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1988-355506
+  date: '1988-09-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:12Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 27.º e 32.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 27.º e 32.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 27.º A estrutura, composição e atribuições dos órgãos e serviços da Universidade Técnica de Lisboa são as estabelecidas nos artigos anteriores para as Universidades de Coimbra, Lisboa e Porto, com as seguintes alterações:
+Art. 27.º A estrutura, composição e atribuições dos órgãos e serviços da Universidade Técnica de Lisboa são as estabelecidas nos artigos anteriores para as Universidades de Coimbra, Lisboa e Porto, com as seguintes alterações:
 
 1.º A Secretaria-Geral compreende as seguintes repartições:
 
@@ -127,7 +141,7 @@ a) Secção Pedagógica;
 
 b) Secção de Expediente Geral e Arquivo.
 
-###### Art. 32.º A competência das secções a que se refere o artigo 27.º é, com as necessárias adaptações, a seguinte:
+Art. 32.º A competência das secções a que se refere o artigo 27.º é, com as necessárias adaptações, a seguinte:
 
 a) Secção de Orçamento e Património - a prevista no artigo 12.º deste diploma;
 
@@ -139,30 +153,30 @@ d) Secção Pedagógica - a prevista no artigo 19.º;
 
 e) Secção de Expediente Geral e Arquivo - a prevista, no que for aplicável, no artigo 21.º
 
-###### Art. 2.º - 1 - Aos quadros do pessoal a que se refere o mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, é acrescentado, na parte respeitante a Universidade Técnica de Lisboa, o lugar constante do mapa I anexo ao presente diploma.
+Art. 2.º - 1 - Aos quadros do pessoal a que se refere o mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, é acrescentado, na parte respeitante a Universidade Técnica de Lisboa, o lugar constante do mapa I anexo ao presente diploma.
 
 2 - No quadro a que se refere o número anterior são abatidos os lugares constantes do mapa II também anexo a este diploma.
 
-###### Art. 3.º A forma de recrutamento e o regime de provimento do lugar previsto no artigo anterior são os estabelecidos pelo artigo 43.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
+Art. 3.º A forma de recrutamento e o regime de provimento do lugar previsto no artigo anterior são os estabelecidos pelo artigo 43.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 26 de Julho de 1985.**
+Promulgado em 26 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Julho de 1985.**
+Referendado em 30 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa I a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 331/85, de 12 de Agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18400/25422543.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18400/25422543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18400/25422543.pdf)
 
 Mapa II a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 331/85, de 12 de Agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18400/25422543.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18400/25422543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18400/25422543.pdf)

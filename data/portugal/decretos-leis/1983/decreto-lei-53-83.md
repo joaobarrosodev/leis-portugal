@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/02600/02990299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1983-308685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b7c878293e7a0b6d3b16501989e1bdd4aa0aec7af72e0946f45e89066d5e55f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c02045d72d0645e118815bcf82729f545b1aee75fd489cfc5e2aea90e63aa24d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Títulos
+- Direcção Geral do Tesouro
+- Instituição de Crédito
+- Instituto de Gestão Financeira da Segurança Social
+- Ministério das Finanças e do Plano
+- Obrigações do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:22Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +112,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Ministério das Finanças e do Plano autorizado a adquirir para a carteira de títulos do Estado os títulos de indemnização emitidos ao abrigo da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e dos quais é originariamente titular o Instituto de Gestão Financeira de Segurança Social, pelo respectivo valor nominal.
+Artigo 1.º Fica o Ministério das Finanças e do Plano autorizado a adquirir para a carteira de títulos do Estado os títulos de indemnização emitidos ao abrigo da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e dos quais é originariamente titular o Instituto de Gestão Financeira de Segurança Social, pelo respectivo valor nominal.
 
-###### Art. 2.º Poderá a Direcção-Geral do Tesouro ceder os títulos a que se refere o artigo 1.º, e pelo mesmo valor, a instituições de crédito.
+Art. 2.º Poderá a Direcção-Geral do Tesouro ceder os títulos a que se refere o artigo 1.º, e pelo mesmo valor, a instituições de crédito.
 
-###### Art. 3.º Às instituições de crédito que vierem a adquirir os títulos de indemnização será paga pela Direcção-Geral do Tesouro, enquanto tais títulos não forem amortizados, no prazo de 30 dias a contar do recebimento dos juros pelos adquirentes, uma bonificação correspondente à diferença entre a taxa efectiva de juro dos títulos adquiridos e a taxa de 21%.
+Art. 3.º Às instituições de crédito que vierem a adquirir os títulos de indemnização será paga pela Direcção-Geral do Tesouro, enquanto tais títulos não forem amortizados, no prazo de 30 dias a contar do recebimento dos juros pelos adquirentes, uma bonificação correspondente à diferença entre a taxa efectiva de juro dos títulos adquiridos e a taxa de 21%.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 19 de Janeiro de 1983.**
+Promulgado em 19 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Janeiro de 1983.**
+Referendado em 21 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

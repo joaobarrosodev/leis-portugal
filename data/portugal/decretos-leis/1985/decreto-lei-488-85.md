@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27100/39053907.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c752775eacf998a9876606a6f5388f44d66f26d1ea46dcb0fae326087c53cee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47dc54760b78c168897ea1e1a837f74a250345d5566bcb8cf2e9cd79c95ba860
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Industrial
+- Poluição
+- Proteção do Ambiente
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:690176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:332042:por
+  label: "Revogado na parte relativa às definições de resíduos e de resíduos perigosos o art. 2º do presente diploma pelo\
+    \ DEC LEI.121/90.09.04.1990.MPLAT, DR.IS [83] de 09.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1990-332042
+  date: '1990-04-09'
+- type: repealed_by
+  target: pt:dre:690176:por
+  label: "Revogado, com a entrada em vigor, pelo DEC LEI.310/95.1995.11.20.MARN, DR.IS-A [268]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-1995-690176
+  date: '1995-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:56Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +111,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O detentor de resíduos, qualquer que seja a sua natureza e origem, deve promover a sua recolha, armazenagem, transporte e eliminação ou utilização de tal forma que não ponham em perigo a saúde humana nem causem prejuízo ao ambiente.
+Artigo 1.º O detentor de resíduos, qualquer que seja a sua natureza e origem, deve promover a sua recolha, armazenagem, transporte e eliminação ou utilização de tal forma que não ponham em perigo a saúde humana nem causem prejuízo ao ambiente.
 
-###### Art. 2.º Para os efeitos do presente diploma, entende-se por:
+Art. 2.º Para os efeitos do presente diploma, entende-se por:
 
 Resíduos - conjunto de materiais, podendo compreender o que resta de matérias-primas após a sua utilização e que não possa ser considerado subprodutos ou produtos, de que o seu possuidor pretenda ou tenha necessidade de se desembaraçar;
 
@@ -110,7 +125,7 @@ Detritos - os resíduos não utilizáveis em função da tecnologia disponível;
 
 Desperdícios - os resíduos não utilizados, embora utilizáveis em função da tecnologia disponível.
 
-###### Art. 3.º - 1 - Compete ao ministério da tutela da área do ambiente, ouvidos os Ministérios do Equipamento Social, da Indústria e Energia, da Saúde e da Administração Interna:
+Art. 3.º - 1 - Compete ao ministério da tutela da área do ambiente, ouvidos os Ministérios do Equipamento Social, da Indústria e Energia, da Saúde e da Administração Interna:
 
 a) Definir a política nacional no domínio dos resíduos sólidos urbanos (RSU);
 
@@ -134,25 +149,25 @@ d) Planificar, organizar e promover a recolha, transporte, eliminação ou utili
 
 4 - Compete ao Ministério da Administração Interna e ao ministério da tutela da área do ambiente, por diploma conjunto, regulamentar as especificações relativas ao cumprimento do disposto na alínea d) do número anterior.
 
-###### Art. 4.º - 1 - As empresas são responsáveis por dar destino adequado aos seus resíduos industriais, nos termos consignados no artigo 1.º, podendo, entretanto, acordar a sua recolha, transporte, armazenagem, eliminação ou utilização, nos termos do mesmo artigo, com as câmaras municipais com jurisdição na área onde se verifica a produção desses resíduos ou empresas a tal devidamente autorizadas.
+Art. 4.º - 1 - As empresas são responsáveis por dar destino adequado aos seus resíduos industriais, nos termos consignados no artigo 1.º, podendo, entretanto, acordar a sua recolha, transporte, armazenagem, eliminação ou utilização, nos termos do mesmo artigo, com as câmaras municipais com jurisdição na área onde se verifica a produção desses resíduos ou empresas a tal devidamente autorizadas.
 
 2 - O destino a dar pelas empresas aos resíduos industriais deve constar do processo de licenciamento, devendo ser indicada a previsão da natureza e da quantidade dos resíduos produzidos, para além de outros elementos que venham a ser explicitados em posterior regulamentação.
 
 3 - Compete aos ministérios licenciadores e ao ministério da tutela da área do ambiente, por diploma conjunto, regulamentar as especificações relativas ao cumprimento dos números anteriores, designadamente no que respeita à fiscalização da sua aplicação e das condições de penalização por incumprimento.
 
-###### Art. 5.º Os projectos relativos à recuperação de resíduos industriais e matérias-primas e os projectos de aproveitamento energético são aprovados pelo membro do Governo da tutela do ambiente e pelo Ministério da Indústria e Energia, que dará assistência técnica e tecnológica aos referidos projectos.
+Art. 5.º Os projectos relativos à recuperação de resíduos industriais e matérias-primas e os projectos de aproveitamento energético são aprovados pelo membro do Governo da tutela do ambiente e pelo Ministério da Indústria e Energia, que dará assistência técnica e tecnológica aos referidos projectos.
 
-###### Art. 6.º - 1 - As unidades de saúde são responsáveis por dar destino adequado aos resíduos hospitalares nos termos consignados no artigo 1.º, podendo entretanto acordar a sua recolha, armazenagem, eliminação ou utilização, nos termos do mesmo artigo, com as câmaras municipais com jurisdição na área onde se verifique a produção desses resíduos ou empresas a tal devidamente autorizadas.
+Art. 6.º - 1 - As unidades de saúde são responsáveis por dar destino adequado aos resíduos hospitalares nos termos consignados no artigo 1.º, podendo entretanto acordar a sua recolha, armazenagem, eliminação ou utilização, nos termos do mesmo artigo, com as câmaras municipais com jurisdição na área onde se verifique a produção desses resíduos ou empresas a tal devidamente autorizadas.
 
 2 - Compete ao Ministério da Saúde e ao ministério da tutela da área do ambiente, por diploma conjunto, regulamentar as especificações relativas ao cumprimento do número anterior, designadamente no que respeita à fiscalização da sua aplicação e das condições de penalização por incumprimento.
 
-###### Art. 7.º - 1 - As câmaras municipais e, bem assim, as empresas e unidades de saúde, em relação aos seus próprios resíduos, devem organizar e manter actualizado um inventário que indique, com adequada referência temporal, as quantidades, natureza, origem e destino dos resíduos produzidos ou recolhidos.
+Art. 7.º - 1 - As câmaras municipais e, bem assim, as empresas e unidades de saúde, em relação aos seus próprios resíduos, devem organizar e manter actualizado um inventário que indique, com adequada referência temporal, as quantidades, natureza, origem e destino dos resíduos produzidos ou recolhidos.
 
 2 - Tratando-se de resíduos tóxicos ou perigosos deve existir um registo que refira, para além dos elementos considerados no número anterior, as condições de armazenagem, localização e eliminação, bem como os métodos utilizados para esta.
 
 3 - Os inventários e os registos referidos nos números anteriores e os dados neles contidos devem ser facultados às entidades com competência de fiscalização sempre que solicitados.
 
-###### Art. 8.º O presente diploma não abrange:
+Art. 8.º O presente diploma não abrange:
 
 Os efluentes líquidos lançados nos esgotos ou linhas de água, que ficam sujeitos à legislação própria destes sectores;
 
@@ -162,19 +177,19 @@ Os resíduos resultantes da prospecção, extracção, tratamento físico e arma
 
 Os resíduos radioactivos e outros para os quais exista legislação especial.
 
-###### Art. 9.º O disposto no artigo 7.º entra em vigor 6 meses após a publicação do presente diploma.
+Art. 9.º O disposto no artigo 7.º entra em vigor 6 meses após a publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - António Manuel Maldonado Gonelha - José Veiga Simão - Carlos Montez Melancia.
 
-**Promulgado em 5 de Novembro de 1985.**
+Promulgado em 5 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Novembro de 1985.**
+Referendado em 12 de Novembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Componentes tóxicos ou perigosos
 

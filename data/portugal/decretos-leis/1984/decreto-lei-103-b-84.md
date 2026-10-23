@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 76/1984, 1º Suplemento, Série I de 1984-03-30
   number: '76'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1084-(10) a 1084-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07601/00100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-1984-335898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f51629f47c387e735ce4eb6f6c83d54fb40bce05236425c683b1821462a32ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4051f3bb99db3c9b41b411606ac80b8e735dcdada4ac41e05dcb86ff3eb92c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação
+- Pauta Aduaneira
+- Sobretaxa de Importação
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:308574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:13Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +119,26 @@ Usando da autorização concedida pela alínea c) do artigo 19.º da [Lei n.º 4
 
 O Governo decreta, nos termos das alíneas a) e b) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A sobretaxa de importação que incide sobre as mercadorias constantes do anexo I do [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), de 3 de Maio, passará do nível de 30% ad valorem, que havia sido fixado pelo artigo único do [Decreto-Lei n.º 54/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1983-308574), de 1 de Fevereiro, para o nível de 10% ad valorem.
+Artigo 1.º A sobretaxa de importação que incide sobre as mercadorias constantes do anexo I do [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), de 3 de Maio, passará do nível de 30% ad valorem, que havia sido fixado pelo artigo único do [Decreto-Lei n.º 54/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1983-308574), de 1 de Fevereiro, para o nível de 10% ad valorem.
 
-###### Art. 2.º São eliminadas da lista do anexo I do [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), de 3 de Maio, as mercadorias constantes do anexo ao presente diploma.
+Art. 2.º São eliminadas da lista do anexo I do [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), de 3 de Maio, as mercadorias constantes do anexo ao presente diploma.
 
-###### Art. 3.º Por decreto dos Ministros das Finanças e do Plano e do Comércio e Turismo e, consoante a natureza dos casos, da Indústria e Energia ou da Agricultura, Florestas e Alimentação poderão ser revistos os anexos I e II do [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), de 3 de Maio.
+Art. 3.º Por decreto dos Ministros das Finanças e do Plano e do Comércio e Turismo e, consoante a natureza dos casos, da Indústria e Energia ou da Agricultura, Florestas e Alimentação poderão ser revistos os anexos I e II do [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), de 3 de Maio.
 
-###### Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni da Silva Lopes - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 29 de Março de 1984.**
+Promulgado em 29 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Março de 1984.**
+Referendado em 29 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO — Lista a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/07601/00100011.pdf))](https://files.diariodarepublica.pt/1s/1984/03/07601/00100011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/07601/00100011.pdf)

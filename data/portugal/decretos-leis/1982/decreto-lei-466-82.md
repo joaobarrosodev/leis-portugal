@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1982-379166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adeb415bf41bcd70fd41bbce01b459aa7845031f47e32e65c8d023cfd3d86c8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c231e2a5250eb8c790d24a267632606faa2f58801ae2a9b1809a9023c8bfed2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperação Internacional
+- Fundo Africano de Desenvolvimento
+- Política de Cooperação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:45Z'
   warnings: []
   errors: []
 ---
@@ -90,27 +94,27 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Estado Português participará no Fundo Africano de Desenvolvimento, cujo acordo constitutivo foi aprovado, para adesão, pela Lei da Assembleia da República n.º 27/82, de 14 de Outubro, através de uma subscrição inicial no montante de 8 milhões de unidades de conta do Fundo.
+Artigo 1.º - 1 - O Estado Português participará no Fundo Africano de Desenvolvimento, cujo acordo constitutivo foi aprovado, para adesão, pela Lei da Assembleia da República n.º 27/82, de 14 de Outubro, através de uma subscrição inicial no montante de 8 milhões de unidades de conta do Fundo.
 
 2 - A subscrição a que se refere o número anterior será composta de 2 prestações de igual montante, sendo a primeira pagável 30 dias após o depósito dos instrumentos de adesão ao Fundo e a segunda 1 ano depois.
 
 3 - Cada uma das prestações será entregue, em partes iguais, em moeda convertível e em promissórias pagáveis à vista, sem juro, de valor nominal expresso em escudos correspondentes a unidades de conta do Fundo, à taxa de câmbio em vigor na data em que Portugal se tornar membro, calculada de harmonia com a resolução da admissão de Portugal.
 
-###### Art. 2.º O Estado Português poderá contribuir ainda para o Fundo através de uma subscrição voluntária, a contabilizar na terceira reconstituição de capital, limitada a 10 milhões de unidades de conta do Fundo, pagáveis em mais de uma prestação, no decorrer dos anos de 1983 e 1984.
+Art. 2.º O Estado Português poderá contribuir ainda para o Fundo através de uma subscrição voluntária, a contabilizar na terceira reconstituição de capital, limitada a 10 milhões de unidades de conta do Fundo, pagáveis em mais de uma prestação, no decorrer dos anos de 1983 e 1984.
 
-###### Art. 3.º Compete ao Ministro de Estado e das Finanças e do Plano assegurar, por parte de Portugal, as relações com o Fundo Africano de Desenvolvimento, em conformidade com o disposto no artigo 34.º do acordo que constitui aquela instituição, e, nomeadamente, proceder ao depósito dos instrumentos de adesão por parte de Portugal ao Fundo.
+Art. 3.º Compete ao Ministro de Estado e das Finanças e do Plano assegurar, por parte de Portugal, as relações com o Fundo Africano de Desenvolvimento, em conformidade com o disposto no artigo 34.º do acordo que constitui aquela instituição, e, nomeadamente, proceder ao depósito dos instrumentos de adesão por parte de Portugal ao Fundo.
 
-###### Art. 4.º - 1 - O governador por parte de Portugal será o Ministro de Estado e das Finanças e do Plano ou um dos secretários de estado do Ministério, designado por aquele membro do Governo para o efeito.
+Art. 4.º - 1 - O governador por parte de Portugal será o Ministro de Estado e das Finanças e do Plano ou um dos secretários de estado do Ministério, designado por aquele membro do Governo para o efeito.
 
 2 - O governador suplente será um dos secretários de estado do Ministério das Finanças e do Plano, designado pelo respectivo Ministro ou pela entidade que, para o efeito, for nomeada pelo mesmo membro do Governo.
 
-###### Art. 5.º O Banco de Portugal será, conforme o artigo 33.º do acordo de constituição do Fundo, o depositário em Portugal dos haveres em escudos ou outros bens daquela instituição.
+Art. 5.º O Banco de Portugal será, conforme o artigo 33.º do acordo de constituição do Fundo, o depositário em Portugal dos haveres em escudos ou outros bens daquela instituição.
 
-###### Art. 6.º De harmonia com o disposto no acordo de constituição do Fundo Africano de Desenvolvimento, esta instituição terá, em todo o território da República Portuguesa, personalidade e capacidade jurídicas e beneficiará, quanto aos seus bens, arquivos e comunicações oficiais, das isenções e privilégios previstos no acordo que a criou.
+Art. 6.º De harmonia com o disposto no acordo de constituição do Fundo Africano de Desenvolvimento, esta instituição terá, em todo o território da República Portuguesa, personalidade e capacidade jurídicas e beneficiará, quanto aos seus bens, arquivos e comunicações oficiais, das isenções e privilégios previstos no acordo que a criou.
 
-###### Art. 7.º O presidente, governadores e administradores e seus suplentes, agentes e empregados do Fundo Africano de Desenvolvimento gozarão, em todo o território da República Portuguesa, das imunidades, isenções e privilégios estabelecidos no acordo constitutivo do Fundo.
+Art. 7.º O presidente, governadores e administradores e seus suplentes, agentes e empregados do Fundo Africano de Desenvolvimento gozarão, em todo o território da República Portuguesa, das imunidades, isenções e privilégios estabelecidos no acordo constitutivo do Fundo.
 
-###### Art. 8.º Fica o Ministro de Estado e das Finanças e do Plano autorizado:
+Art. 8.º Fica o Ministro de Estado e das Finanças e do Plano autorizado:
 
 a) A inscrever no cap. 60.º «Despesas excepcionais» do orçamento do Ministério das Finanças e do Plano as verbas que forem necessárias para ocorrer aos encargos inerentes à realização da participação do Estado Português no Fundo Africano de Desenvolvimento;
 
@@ -118,12 +122,12 @@ b) A emitir os títulos de obrigação, representados por promissórias, para os
 
 c) A praticar todos os actos necessários para concretização da adesão do Estado Português ao Fundo Africano de Desenvolvimento.
 
-###### Art. 9.º A emissão das promissórias referidas na alínea b) do artigo anterior ficará a cargo da Junta do Crédito Público e as condições daquela emissão serão fixadas por decreto-lei.
+Art. 9.º A emissão das promissórias referidas na alínea b) do artigo anterior ficará a cargo da Junta do Crédito Público e as condições daquela emissão serão fixadas por decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Novembro de 1982.**
+Promulgado em 25 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

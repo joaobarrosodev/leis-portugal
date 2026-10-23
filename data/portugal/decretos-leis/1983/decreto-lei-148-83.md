@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1983-312274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e76237aa19dec8bf74d23d2c29abeaffb6a6b1384c573531a9eed6ceb3a3884
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca72b3822075632b8537bd51d6a4a25a7ce0a1a18a815fe3bfd9e9b1ab1a4430
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cidadão Estrangeiro
+- Ensino Superior
+- Equivalência de Habilitações Literárias
+relationships:
+- type: cites
+  target: pt:dre:404483:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:56Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +106,20 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Ao [Decreto-Lei n.º 555/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1977-404483), de 31 de Dezembro, é aditado um artigo 3.º-A. com a seguinte redacção:
+Artigo único. Ao [Decreto-Lei n.º 555/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1977-404483), de 31 de Dezembro, é aditado um artigo 3.º-A. com a seguinte redacção:
 
-###### Art. 3.º-A - 1 - Os não titulares de uma licenciatura pelas universidades portuguesas ou equivalente legal que tenham obtido, no estrangeiro, as habilitações académicas necessárias à admissão aos cursos e provas para a concessão do grau de que requerem equivalência ao grau de doutor são dispensados da obtenção de equivalência prévia ao grau de licenciado.
+Art. 3.º-A - 1 - Os não titulares de uma licenciatura pelas universidades portuguesas ou equivalente legal que tenham obtido, no estrangeiro, as habilitações académicas necessárias à admissão aos cursos e provas para a concessão do grau de que requerem equivalência ao grau de doutor são dispensados da obtenção de equivalência prévia ao grau de licenciado.
 
 2 - A dispensa a que se refere o presente artigo bem como a eventual concessão da equivalência requerida não determinam, em circunstância alguma, o reconhecimento, expresso ou tácito, de equivalência ao grau de licenciado ou qualquer outro diferente do eventualmente conferido.
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.
 
-**Promulgado em 14 de Março de 1983.**
+Promulgado em 14 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Março de 1983.**
+Referendado em 17 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

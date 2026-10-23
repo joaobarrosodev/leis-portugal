@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/07400/07420742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1986-196180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4297d9de825f44d0fab23133f60104e7cc88d49007fe50a5c071abc3be2d3f81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c84a6047ef1df54300fefb1d005cb03febdad5eceee38c063a0759fe7439f84c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Estatuto
+- Estatuto dos Sargentos e Praças da Armada
+- Formação Profissional
+- Marinha
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498089:por
+  label: "Alterado o artigo 10.º do Estatuto dos Sargentos e Praças da Armada, aprovado pelo Decreto n.º 44884, de 18 de Fevereiro\
+    \ de 1963, alterado pelas Portarias n.os 219/72, de 21 de Abril, 632/76, de 23 de Outubro, e 692/76, de 20 de Novembro,\
+    \ e pelo presente diploma, pelo DEC LEI.377/87.17.12.1987.MDN, DR.IS [289] de 17.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1987-498089
+  date: '1987-12-17'
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409347:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498089:por
+  label: "Revogado pelo DEC LEI.377/87.1987.12.17.MDN, DR.IS [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1987-498089
+  date: '1987-12-17'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:11Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +140,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 10.º do Estatuto dos Sargentos e Praças da Armada, aprovado pelo [Decreto n.º 44884](https://diariodarepublica.pt/dr/detalhe/decreto/44884-1963-193429), de 18 de Fevereiro de 1963, e alterado pelas Portarias n.os [219/72](https://diariodarepublica.pt/dr/detalhe/portaria/219-1972-397102), de 21 de Abril, [632/76](https://diariodarepublica.pt/dr/detalhe/portaria/632-1976-409347), de 23 de Outubro, e [692/76](https://diariodarepublica.pt/dr/detalhe/portaria/692-1976-406912), de 20 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 10.º do Estatuto dos Sargentos e Praças da Armada, aprovado pelo [Decreto n.º 44884](https://diariodarepublica.pt/dr/detalhe/decreto/44884-1963-193429), de 18 de Fevereiro de 1963, e alterado pelas Portarias n.os [219/72](https://diariodarepublica.pt/dr/detalhe/portaria/219-1972-397102), de 21 de Abril, [632/76](https://diariodarepublica.pt/dr/detalhe/portaria/632-1976-409347), de 23 de Outubro, e [692/76](https://diariodarepublica.pt/dr/detalhe/portaria/692-1976-406912), de 20 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 10.º Para o desempenho de determinadas funções, os sargentos e praças da Armada podem, mediante a frequência de cursos de especialização, obter as especializações indicadas no quadro seguinte:
+Art. 10.º Para o desempenho de determinadas funções, os sargentos e praças da Armada podem, mediante a frequência de cursos de especialização, obter as especializações indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/07400/07420742.pdf))](https://files.diariodarepublica.pt/1s/1986/03/07400/07420742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/07400/07420742.pdf)
 
 § 1.º As especializações de soldador, torneiro mecânico, serralheiro mecânico e serralheiro-montador também podem ser adquiridas mediante a prestação de provas em que os sargentos e as praças demonstrem conhecimentos profissionais e técnicos adequados.
 
@@ -119,16 +158,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 6.º As especializações dão direito ao uso de distintivo próprio.
 
-###### Art. 2.º É revogada a [Portaria n.º 692/76](https://diariodarepublica.pt/dr/detalhe/portaria/692-1976-406912), de 20 de Novembro, e o n.º 1.º da [Portaria n.º 219/72](https://diariodarepublica.pt/dr/detalhe/portaria/219-1972-397102), de 21 de Abril, na parte correspondente.
+Art. 2.º É revogada a [Portaria n.º 692/76](https://diariodarepublica.pt/dr/detalhe/portaria/692-1976-406912), de 20 de Novembro, e o n.º 1.º da [Portaria n.º 219/72](https://diariodarepublica.pt/dr/detalhe/portaria/219-1972-397102), de 21 de Abril, na parte correspondente.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-**Promulgado em 6 de Março de 1986.**
+Promulgado em 6 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1986.**
+Referendado em 7 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

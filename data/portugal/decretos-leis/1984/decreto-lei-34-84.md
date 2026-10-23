@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad265b2e5eedec681df642755c22a7b302ce375fc3c2372f639769e43516f607
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a978f1b14a58d9e862f6f428ed156281c1a48953c871c7ea94f3c094c1097692
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Importação
+- Imposto Especial sobre o Consumo de Tabaco
+- Madeira.região Autónoma
+- Preço
+- Regime Fiscal
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:627236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520599:por
+  label: "Substituidos os mapas n.ºs. 1 e 3 anexos ao presente diploma, pelo DEC LEI.123-B/84.1984.04.16.MFP DR.IS [90]SUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-b-1984-520599
+  date: '1984-04-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O MAPA NUMERO 2 ANEXO PELO DESPACHO NORMATIVO 124/85, DE 31 DE DEZEMBRO, PUBLICADO NO DR.IS, 301, 7SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-12-31'
+- type: amended_by
+  target: pt:dre:546465:por
+  label: Alterado, a partir de 01.01.1986, o mapa n.º 2 anexo ao presente diploma pelo(a) Despacho Normativo n.º 124/85 -
+    Diário da República n.º 301/1985, 7º Suplemento, Série I de 1985-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/124-1985-546465
+  date: '1985-12-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O MAPA NUMERO 3 ANEXO PELO DECRETO LEI 210-A/87, DE 20 DE MAIO, PUBLICADO NO DR.IS, 115, SUPL.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-05-20'
+- type: cites
+  target: pt:dre:389874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462236:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627236:por
+  label: Revogado pelo DEC LEI.444/86.31.12.1986.MF, DR.IS [300]13ºSupl de 31.12.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1986-627236
+  date: '1986-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:11Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +162,9 @@ Assim:
 
 Usando da autorização legislativa conferida pela [Lei n.º 22/83](https://diariodarepublica.pt/dr/detalhe/lei/22-1983-439450), de 6 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 6.º, 7.º, 13.º, 18.º, 21.º, 29.º, 30.º, 35.º e 36.º do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 6.º, 7.º, 13.º, 18.º, 21.º, 29.º, 30.º, 35.º e 36.º do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - Fica isento do imposto de consumo:
+Art. 5.º - 1 - Fica isento do imposto de consumo:
 
 a) O tabaco manufacturado nacional exportado para o estrangeiro, qualquer que seja a forma do seu acondicionamento;
 
@@ -124,7 +178,7 @@ e) O tabaco referido no n.º 5 do artigo 13.º
 
 2 - ...
 
-###### Art. 6.º - 1 - O imposto de consumo sobre cigarros é composto por dois impostos parcelares, designados por imposto específico e imposto ad valorem.
+Art. 6.º - 1 - O imposto de consumo sobre cigarros é composto por dois impostos parcelares, designados por imposto específico e imposto ad valorem.
 
 2 - A incidência dos impostos específico e ad valorem, bem como o montante do primeiro e a taxa do segundo, constam do mapa n.º 1 anexo ao presente diploma e que dele faz parte integrante.
 
@@ -134,7 +188,7 @@ e) O tabaco referido no n.º 5 do artigo 13.º
 
 5 - No mapa n.º 3 anexo estabelecem-se os impostos de consumo aplicáveis, a título excepcional e provisório por um período de dois anos, às marcas de cigarros de fabrico nacional aí indicadas.
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - ...
 
@@ -142,7 +196,7 @@ e) O tabaco referido no n.º 5 do artigo 13.º
 
 4 - ...
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - O mesmo serviço pode autorizar a entrada nas áreas fiscalizadas de tabaco manufacturado destinado a beneficiação ou recuperação.
 
@@ -158,17 +212,17 @@ b) A importação, para o mesmo efeito, de amostras análogas manufacturadas no 
 
 6 - Ao disposto no número anterior é aplicável o regime fiscal e aduaneiro correspondente, previsto neste diploma, bem como o disposto no [Decreto-Lei n.º 462/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-1980-462235), de 11 de Outubro.
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 2 - O montante das despesas a que se refere o número anterior será fixado anualmente pelo Ministro das Finanças e do Plano e será pago até ao fim do 1.º trimestre do ano a que respeita, devendo a diferença, se após aquela fixação ocorrerem alterações nos encargos com a fiscalização que agravem aquele montante, ser apurada até 15 de Dezembro do mesmo ano, para pagamento nesse mês.
 
-###### Art. 21.º - 1 - A importação de tabaco estrangeiro, quer em folha, quer manufacturado, bem como a de outros produtos utilizados no seu fabrico, fica sujeita às taxas e ao regime pautal em vigor à data em que for numerado o correspondente bilhete de despacho.
+Art. 21.º - 1 - A importação de tabaco estrangeiro, quer em folha, quer manufacturado, bem como a de outros produtos utilizados no seu fabrico, fica sujeita às taxas e ao regime pautal em vigor à data em que for numerado o correspondente bilhete de despacho.
 
 2 - ...
 
 3 - ...
 
-###### Art. 29.º - 1 - Serão restituídos os direitos de importação correspondentes aos tabacos em folha de origem estrangeira incorporados na composição do tabaco manufacturado nacional, mesmo que não acondicionado para venda ao público, que seja exportado para o estrangeiro ou destinado a consumo de bordo ou lojas francas.
+Art. 29.º - 1 - Serão restituídos os direitos de importação correspondentes aos tabacos em folha de origem estrangeira incorporados na composição do tabaco manufacturado nacional, mesmo que não acondicionado para venda ao público, que seja exportado para o estrangeiro ou destinado a consumo de bordo ou lojas francas.
 
 2 - ...
 
@@ -176,7 +230,7 @@ b) A importação, para o mesmo efeito, de amostras análogas manufacturadas no 
 
 4 - ...
 
-###### Art. 30.º - 1 - Os invólucros de venda ao público de tabaco manufacturado no estrangeiro ou em território nacional diferente do de consumo conterão obrigatoriamente, aposta na origem, de modo a não permitir a sua reutilização, uma estampilha especial, impressa na Imprensa Nacional-Casa da Moeda, contendo o respectivo preço de venda ao público, fornecida aos produtores ou importadores pelas autoridades aduaneiras.
+Art. 30.º - 1 - Os invólucros de venda ao público de tabaco manufacturado no estrangeiro ou em território nacional diferente do de consumo conterão obrigatoriamente, aposta na origem, de modo a não permitir a sua reutilização, uma estampilha especial, impressa na Imprensa Nacional-Casa da Moeda, contendo o respectivo preço de venda ao público, fornecida aos produtores ou importadores pelas autoridades aduaneiras.
 
 2 - O tabaco manufacturado referido no número anterior não poderá ser desalfandegado ou entregue ao arrematante sem que se mostre selado de origem.
 
@@ -186,7 +240,7 @@ b) A importação, para o mesmo efeito, de amostras análogas manufacturadas no 
 
 5 - Compete à entidade referida no número anterior fixar as formalidades a observar no fornecimento de estampilhas e seu registo, bem como a forma e o prazo de garantia do imposto de consumo correspondente ao tabaco a importar e determinar a conversão em receita do Estado da garantia prestada quando tiver sido excedido o respectivo prazo.
 
-###### Art. 35.º - 1 - O tabaco manufacturado no continente e nas regiões autónomas deve conter, em local bem visível dos respectivos invólucros, pacotes ou volumes, o nome da empresa fabricante, a marca, o preço de venda ao público no território nacional de consumo e o número de unidades ou o peso líquido, no caso dos picados, do rapé e do tabaco de mascar, sem prejuízo de outras obrigações impostas por lei especial.
+Art. 35.º - 1 - O tabaco manufacturado no continente e nas regiões autónomas deve conter, em local bem visível dos respectivos invólucros, pacotes ou volumes, o nome da empresa fabricante, a marca, o preço de venda ao público no território nacional de consumo e o número de unidades ou o peso líquido, no caso dos picados, do rapé e do tabaco de mascar, sem prejuízo de outras obrigações impostas por lei especial.
 
 2 - Tratando-se do invólucro, o preço de venda ao público poderá figurar em selo aposto pelo fabricante, de modo a não permitir a sua reutilização.
 
@@ -196,11 +250,11 @@ b) A importação, para o mesmo efeito, de amostras análogas manufacturadas no 
 
 5 - É igualmente proibida a venda em qualquer território nacional de tabaco ali produzido e destinado a consumo noutro território nacional, salvo se não houver diferença nos preços de venda ao público.
 
-###### Art. 36.º - 1 - ...
+Art. 36.º - 1 - ...
 
 2 - Do despacho referido no número anterior constarão igualmente, por cada produto, as suas características e bem assim, sob proposta da indústria respectiva, as condições de comercialização a estabelecer para os respectivos intervenientes.
 
-###### Art. 2.º - 1 - Para efeitos de aplicação do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, consideram-se tabaco manufacturado:
+Art. 2.º - 1 - Para efeitos de aplicação do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, consideram-se tabaco manufacturado:
 
 Os charutos e as cigarrilhas;
 
@@ -248,7 +302,7 @@ De uma capa de tabaco reconstituído.
 
 10 - São equiparados ao rapé e ao tabaco de mascar os produtos constituídos parcialmente por substâncias que, não sendo tabaco, obedeçam aos outros critérios dos n.os 6 ou 7.
 
-###### Art. 3.º - 1 - Para efeitos de aplicação do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, consideram-se produtos do tabaco em curso de transformação todos os que não são susceptíveis de consumo directo pelo público sem ulterior transformação industrial, abrangendo, nomeadamente, tabaco em folha, tabaco homogeneizado, tabaco reconstituído, tabaco em pó, lâmina, nervuras, ou talos e tabacos loteados.
+Art. 3.º - 1 - Para efeitos de aplicação do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, consideram-se produtos do tabaco em curso de transformação todos os que não são susceptíveis de consumo directo pelo público sem ulterior transformação industrial, abrangendo, nomeadamente, tabaco em folha, tabaco homogeneizado, tabaco reconstituído, tabaco em pó, lâmina, nervuras, ou talos e tabacos loteados.
 
 2 - Aos produtos mencionados no número anterior aplicam-se, com a devida adaptação, os artigos 11.º, 12.º, 13.º, 21.º, 24.º, n.º 1, 26.º e 29.º do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636).
 
@@ -258,7 +312,7 @@ De uma capa de tabaco reconstituído.
 
 5 - É permitida a importação temporária de tabaco em folha em regime de franquia de direitos alfandegários, para efeitos de beneficiação, desde que se verifique a sua reexportação no prazo de 1 ano.
 
-###### Art. 4.º - 1 - São alterados no [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, as seguintes remissões:
+Art. 4.º - 1 - São alterados no [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, as seguintes remissões:
 
 a) No artigo 46.º, em vez dos n.os 1 e 2, passam a constar os n.os 1, 2 e 3;
 
@@ -268,19 +322,19 @@ c) No artigo 51.º, em vez do n.º 3 do artigo 6.º, passa a constar o n.º 4 do
 
 2 - É revogado o artigo 22.º do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636).
 
-###### Art. 5.º A utilização da estampilha prevista no n.º 1 do artigo 30.º será obrigatória a partir do decurso de 6 meses contados da data da entrada em vigor deste diploma, mantendo-se até lá o sistema em vigor nesta data.
+Art. 5.º A utilização da estampilha prevista no n.º 1 do artigo 30.º será obrigatória a partir do decurso de 6 meses contados da data da entrada em vigor deste diploma, mantendo-se até lá o sistema em vigor nesta data.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 10 de Janeiro de 1984.**
+Promulgado em 10 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Janeiro de 1984.**
+Referendado em 11 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa n.º 1
 
@@ -292,16 +346,16 @@ Mapa n.º 1
 
 Imposto de consumo sobre os cigarros de fabrico nacional e importados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf))](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf)
 
 Mapa n.º 2
 
 O imposto de consumo sobre charutos, cigarrilhas, tabaco picado para enrolar e para cachimbo, rapé e tabaco de mascar reveste a forma ad valorem, resultando da aplicação ao respectivo preço de venda ao público das taxas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf))](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf)
 
 Mapa n.º 3
 
 O imposto de consumo aplicável a título excepcional e provisório a marcas de fabrico nacional é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf))](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/02000/02860289.pdf)

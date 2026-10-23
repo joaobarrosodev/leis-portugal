@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1983-441559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12aeddeee853f9e1fed58d331c923ac66f8e897fc1befab90dcf85b04fec0080
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d34eec04028b1df75b5a3f56dc08235e72bbb4cdfad6afd9ee89c9bb325f0cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Despachante Oficial
+- Direcção Geral das Alfândegas
+- Quadro de Pessoal
+- Reforma Aduaneira
+- Regulamento das Sociedades de Despachantes Oficiais e seus Empregados
+relationships:
+- type: cites
+  target: pt:dre:147408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:59Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +117,13 @@ Tornando-se necessário assegurar a defesa dos legítimos direitos das pessoas h
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Por morte, aposentação, demissão ou qualquer outro impedimento do despachante, os empregados deste podem constituir-se em sociedade, nos termos do Regulamento aprovado pelo artigo 9.º do presente decreto-lei, observando-se, quanto ao preenchimento da respectiva vaga, o que naquele se estabelece, no seu artigo 8.º
+Art. 4.º - 1 - Por morte, aposentação, demissão ou qualquer outro impedimento do despachante, os empregados deste podem constituir-se em sociedade, nos termos do Regulamento aprovado pelo artigo 9.º do presente decreto-lei, observando-se, quanto ao preenchimento da respectiva vaga, o que naquele se estabelece, no seu artigo 8.º
 
 2 - O preenchimento da vaga a que alude o número anterior assume carácter excepcional, pelo que, além de não permitir o exercício da actividade fora da sociedade, fica condicionado à produção de prova da constituição desta e à garantia de que ficam assegurados os postos de trabalho do despachante que originou a vaga.
 
-###### Art. 2.º - 1 - O n.º 1 do artigo 8.º do Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados, anexo ao [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
+Art. 2.º - 1 - O n.º 1 do artigo 8.º do Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados, anexo ao [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
 
 ###### ARTIGO 8.º — (Preferência no preenchimento das vagas de despachante)
 
@@ -116,22 +141,22 @@ Os despachantes oficiais integrados em sociedades constituídas nos termos do Re
 
 Em tudo o não expressamente previsto neste Regulamento prevalecerá a lei geral aplicável às sociedades por quotas de responsabilidade limitada.
 
-###### Art. 3.º É introduzido no artigo 469.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, um § único, do seguinte teor:
+Art. 3.º É introduzido no artigo 469.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, um § único, do seguinte teor:
 
-###### Art. 469.º ...
+Art. 469.º ...
 
 § único. A recusa pela Câmara dos Despachantes Oficiais da inscrição como seu associado de quem se ache já habilitado com o competente alvará emitido pela Direcção-Geral das Alfândegas, nos termos da Reforma Aduaneira, será passível de procedimento disciplinar, tendo competência para aplicação da pena o Ministro das Finanças e do Plano.
 
-###### Art. 4.º É revogado o artigo 5.º do [Decreto-Lei n.º 397/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1982-375224), de 22 de Setembro.
+Art. 4.º É revogado o artigo 5.º do [Decreto-Lei n.º 397/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1982-375224), de 22 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Hernâni Rodrigues Lopes.
 
-**Promulgado em 11 de Outubro de 1983.**
+Promulgado em 11 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
 Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Outubro de 1983.**
+Referendado em 12 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

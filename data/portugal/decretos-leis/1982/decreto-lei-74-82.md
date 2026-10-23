@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1982-599921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6233b36cdf7d8cf7a012ac67622884373fc48b2e74825349f866018926aff04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 777e17b6eb17e843456fa2e91bc85836a5a0f75d1216243c464f9b562de71a40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Biblioteca Nacional
+- Depósito Legal
+relationships:
+- type: cites
+  target: pt:dre:530981:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:38Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +102,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Definição
 
-###### Artigo 1.º Entende-se por depósito legal o depósito obrigatório de um ou vários exemplares de toda e qualquer publicação feito numa instituição pública para tal designada.
+Artigo 1.º Entende-se por depósito legal o depósito obrigatório de um ou vários exemplares de toda e qualquer publicação feito numa instituição pública para tal designada.
 
-###### Art. 2.º Entende-se por publicação toda a obra de reflexão, imaginação ou de criação, qualquer que seja o seu modo de reprodução, destinada à venda, empréstimo ou distribuição gratuita e posta à disposição do público em geral ou de um grupo particular.
+Art. 2.º Entende-se por publicação toda a obra de reflexão, imaginação ou de criação, qualquer que seja o seu modo de reprodução, destinada à venda, empréstimo ou distribuição gratuita e posta à disposição do público em geral ou de um grupo particular.
 
 ### CAPÍTULO II — Objectivos
 
-###### Art. 3.º Consideram-se objectivos do depósito legal:
+Art. 3.º Consideram-se objectivos do depósito legal:
 
 a) Defesa e preservação dos valores da língua e cultura portuguesas;
 
@@ -116,23 +122,23 @@ e) Enriquecimento de bibliotecas dos principais centros culturais do País.
 
 ### CAPÍTULO III — Objecto
 
-###### Art. 4.º - 1 - São objecto de depósito legal as obras impressas ou publicadas em qualquer ponto do País, seja qual for a sua natureza e o seu sistema de reprodução, isto é, todas as formas e tipos de publicações ou quaisquer outros documentos resultantes de oficinas, fábricas ou serviços de reprografia destinados a venda ou distribuição gratuita.
+Art. 4.º - 1 - São objecto de depósito legal as obras impressas ou publicadas em qualquer ponto do País, seja qual for a sua natureza e o seu sistema de reprodução, isto é, todas as formas e tipos de publicações ou quaisquer outros documentos resultantes de oficinas, fábricas ou serviços de reprografia destinados a venda ou distribuição gratuita.
 
 2 - É, nomeadamente, obrigatório o depósito de livros, brochuras, revistas, jornais e outras publicações periódicas, separatas, atlas e cartas geográficas, mapas, quadros didácticos, gráficos estatísticos, plantas, planos, obras musicais impressas, programas de espectáculos, catálogos de exposições, bilhetes-postais ilustrados, selos, estampas, cartazes, gravuras, fonogramas e videogramas, obras cinematográficas, microformas e outras reproduções fotográficas.
 
 3 - Não são abrangidos pela obrigatoriedade do depósito previsto nos números anteriores os cartões de visita, cartas e sobrescritos timbrados, facturas comerciais, títulos de valores financeiros, etiquetas, rótulos, calendários, álbuns para colorir, cupões e outros equivalentes, modelos de impressos comerciais e outros similares.
 
-###### Art. 5.º São equiparadas às obras portuguesas, para cumprimento do n.º 2 do artigo 4.º as obras impressas no estrangeiro que tenham indicação do editor domiciliado em Portugal.
+Art. 5.º São equiparadas às obras portuguesas, para cumprimento do n.º 2 do artigo 4.º as obras impressas no estrangeiro que tenham indicação do editor domiciliado em Portugal.
 
-###### Art. 6.º São consideradas como obras diferentes, sujeitas, pois, a obrigação de depósito, as reimpressões e as novas edições, desde que não se trate de simples aumentos de tiragem.
+Art. 6.º São consideradas como obras diferentes, sujeitas, pois, a obrigação de depósito, as reimpressões e as novas edições, desde que não se trate de simples aumentos de tiragem.
 
 ### CAPÍTULO IV — Número de exemplares
 
-###### Art. 7.º - 1 - O depósito é constituído por 14 exemplares, para as obras constantes do n.º 2 do artigo 4.º
+Art. 7.º - 1 - O depósito é constituído por 14 exemplares, para as obras constantes do n.º 2 do artigo 4.º
 
 2 - Exceptuam-se os quadros didácticos, gráficos estatísticos, plantas, planos, obras musicais, impressos, catálogos de exposições, programas de espectáculos, bilhetes-postais ilustrados, selos, estampas, cartazes, gravuras, fonogramas e videogramas, obras cinematográficas, microformas e outras reproduções fotográficas, tiragens especiais até 100 exemplares, edições de luxo até 300 exemplares e reimpressões de obras publicadas há menos de 1 ano, para as quais se exige apenas um exemplar ou cópia.
 
-###### Art. 8.º - 1 - No que respeita aos 14 exemplares requisitados, a distribuição será a seguinte:
+Art. 8.º - 1 - No que respeita aos 14 exemplares requisitados, a distribuição será a seguinte:
 
 a) Biblioteca Nacional - 2 exemplares;
 
@@ -166,11 +172,11 @@ n) Região Autónoma da Madeira.
 
 4 - A lista dos beneficiários do depósito legal pode ser alterada pelo Ministro da Cultura e Coordenação Científica na sequência de proposta do director da Biblioteca Nacional que se considere justificada em consequência, nomeadamente, das condições de funcionamento das instituições contempladas.
 
-###### Art. 9.º O Estado Português assegurará, nomeadamente através de contrato com as entidades a quem incumbe proceder ao depósito legal referidas no artigo 10.º, em regime de reciprocidade e através da Biblioteca Nacional, o depósito de livros em relação a todos os países de expressão oficial portuguesa com quem haja, ou venha a haver, acordos nesse sentido.
+Art. 9.º O Estado Português assegurará, nomeadamente através de contrato com as entidades a quem incumbe proceder ao depósito legal referidas no artigo 10.º, em regime de reciprocidade e através da Biblioteca Nacional, o depósito de livros em relação a todos os países de expressão oficial portuguesa com quem haja, ou venha a haver, acordos nesse sentido.
 
 ### CAPÍTULO V — Depositante
 
-###### Art. 10.º - 1 - Os proprietários, gerentes ou equivalentes de tipografias, oficinas ou fábricas, seja qual for o processo reprográfico que utilizem e mesmo que imprimam ocasionalmente, devem entregar no Serviço do Depósito Legal exemplares de reprodução das obras indicadas no capítulo anterior, sem o que essas obras não poderão ser divulgadas.
+Art. 10.º - 1 - Os proprietários, gerentes ou equivalentes de tipografias, oficinas ou fábricas, seja qual for o processo reprográfico que utilizem e mesmo que imprimam ocasionalmente, devem entregar no Serviço do Depósito Legal exemplares de reprodução das obras indicadas no capítulo anterior, sem o que essas obras não poderão ser divulgadas.
 
 2 - No caso dos fonogramas e videogramas, a obrigação de proceder ao depósito legal incumbe ao seu editor, e, no caso de obras cinematográficas, ao seu produtor.
 
@@ -182,13 +188,13 @@ n) Região Autónoma da Madeira.
 
 ### CAPÍTULO VI — Depositário
 
-###### Art. 11.º - 1 - O Serviço do Depósito Legal funciona na Biblioteca Nacional.
+Art. 11.º - 1 - O Serviço do Depósito Legal funciona na Biblioteca Nacional.
 
 2 - Sempre que for considerado conveniente, espécies com características específicas diferentes das atribuídas aos livros, incluindo monografias e periódicos, poderão passar a ser depositadas noutras instituições nacionais especializadas mais adequadas, tais como os museus, quando tal resulte de lei ou de despacho ministerial.
 
 ### CAPÍTULO VII — Administração e prazos
 
-###### Art. 12.º - 1 - Todas as publicações devem ter no verso da página de rosto ou sua substituta, ou no colofão, ou em lugar para tal convencionado, o nome da tipografia impressora, local e data de impressão e nome do editor.
+Art. 12.º - 1 - Todas as publicações devem ter no verso da página de rosto ou sua substituta, ou no colofão, ou em lugar para tal convencionado, o nome da tipografia impressora, local e data de impressão e nome do editor.
 
 2 - Devem igualmente figurar outros elementos componentes da ficha catalográfica nacional, os quais serão fornecidos pelo Centro Nacional de Referência Bibliográfica.
 
@@ -196,23 +202,23 @@ n) Região Autónoma da Madeira.
 
 4 - Todas as espécies que pelo seu substracto material não permitam a inclusão dos elementos constantes deste artigo deverão ser acompanhadas de impresso com indicação do nome do autor, data de edição, editor, número de tiragem, oficina impressora ou gravadora, técnica de impressão ou gravação e outras, de acordo com as características próprias da espécie.
 
-###### Art. 13.º - 1 - Às monografias e periódicos será atribuído um número de registo, que deve constar de todos os exemplares.
+Art. 13.º - 1 - Às monografias e periódicos será atribuído um número de registo, que deve constar de todos os exemplares.
 
 2 - O número de registo deve ser solicitado pelas entidades indicadas no artigo 10.º, n.º 1, ao Serviço do Depósito Legal, que o atribuirá.
 
-###### Art. 14.º Com excepção dos periódicos, o depósito deve efectuar-se com a antecedência suficiente em relação à data em que a reprodução da obra deve ser entregue ao editor para que este proceda à verificação a que se refere o artigo 10.º, n.º 2.
+Art. 14.º Com excepção dos periódicos, o depósito deve efectuar-se com a antecedência suficiente em relação à data em que a reprodução da obra deve ser entregue ao editor para que este proceda à verificação a que se refere o artigo 10.º, n.º 2.
 
-###### Art. 15.º Até ao dia 10 de Janeiro de cada ano, as pessoas indicadas no artigo 10.º, n.º 1, deverão apresentar no Serviço do Depósito Legal uma declaração de que nada produziram no ano anterior sujeito a depósito legal, se tal houver acontecido.
+Art. 15.º Até ao dia 10 de Janeiro de cada ano, as pessoas indicadas no artigo 10.º, n.º 1, deverão apresentar no Serviço do Depósito Legal uma declaração de que nada produziram no ano anterior sujeito a depósito legal, se tal houver acontecido.
 
-###### Art. 16.º - 1 - Toda a publicação deve ser acompanhada de um impresso em duplicado e do qual conste o título da obra, nome do autor, nome da firma impressora, número de exemplares tirados, data do depósito, se é distribuída gratuitamente ou para venda, e, neste caso, o preço, e se há edições alternativas de luxo, escolares ou outras.
+Art. 16.º - 1 - Toda a publicação deve ser acompanhada de um impresso em duplicado e do qual conste o título da obra, nome do autor, nome da firma impressora, número de exemplares tirados, data do depósito, se é distribuída gratuitamente ou para venda, e, neste caso, o preço, e se há edições alternativas de luxo, escolares ou outras.
 
 2 - O duplicado do impresso será devolvido à firma impressora depois de conferidas as publicações nele insertas.
 
-###### Art. 17.º As despesas de embalagem e porte do correio ficam a cargo do depositante.
+Art. 17.º As despesas de embalagem e porte do correio ficam a cargo do depositante.
 
 ### CAPÍTULO VIII — Penalidades
 
-###### Art. 18.º A inobservância do disposto nos artigos 4.º, 5.º, 6.º e 10.º constitui transgressão, a qual será punível nos termos seguintes:
+Art. 18.º A inobservância do disposto nos artigos 4.º, 5.º, 6.º e 10.º constitui transgressão, a qual será punível nos termos seguintes:
 
 a) Pela não realização do depósito legal, com multa correspondente a 30% do valor do trabalho realizado;
 
@@ -224,14 +230,14 @@ d) Pela inobservância do disposto nos artigos 14.º e 15.º, com multa de 5000$
 
 ### CAPÍTULO IX — Disposições finais e transitórias
 
-###### Art. 19.º Constitui receita da Biblioteca Nacional o valor das multas a cobrar por infracção às normas relativas ao depósito legal.
+Art. 19.º Constitui receita da Biblioteca Nacional o valor das multas a cobrar por infracção às normas relativas ao depósito legal.
 
-###### Art. 20.º A presente lei entra em vigor no prazo de 30 dias após a sua publicação, com excepção do estabelecido no artigo 12.º, que apenas entra em vigor 18 meses depois da mesma publicação.
+Art. 20.º A presente lei entra em vigor no prazo de 30 dias após a sua publicação, com excepção do estabelecido no artigo 12.º, que apenas entra em vigor 18 meses depois da mesma publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 15 de Fevereiro de 1982.**
+Promulgado em 15 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

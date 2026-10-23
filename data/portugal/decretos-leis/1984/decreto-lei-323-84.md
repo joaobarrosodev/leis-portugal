@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d43cf1121a93278e86fafb6856a7701a030fbeb96d968102c7235015d34169d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96c2ca3a01967ebff08100672ee568f9dad00cdc37e3608d8ded3dc4e10700e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ensino Superior
+- Reitor
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:571269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634952:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:56Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +162,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Compete aos reitores das universidades e institutos universitários:
+Artigo 1.º Compete aos reitores das universidades e institutos universitários:
 
 a) Autorizar, nos termos legais, o recrutamento, incluindo a aprovação dos editais de abertura de concurso e a constituição dos respectivos júris, e o provimento do pessoal docente, de investigação, dirigente e outro, de qualquer categoria e carreira, seja qual for o regime legal de prestação de serviço, bem como conceder ao mesmo pessoal, consoante o caso, a exoneração ou a rescisão do contrato;
 
@@ -146,7 +210,7 @@ x) Autorizar a aquisição de passes sociais ou assinaturas para utilização de
 
 z) Autorizar a participação de funcionários e agentes em congressos, seminários, reuniões, colóquios, jornadas e outras actividades semelhantes levadas a efeito no País.
 
-###### Art. 2.º Compete ainda aos reitores das universidades e institutos universitários:
+Art. 2.º Compete ainda aos reitores das universidades e institutos universitários:
 
 a) Autorizar a admissão às provas de agregação, nos termos do artigo 8.º do [Decreto n.º 301/72](https://diariodarepublica.pt/dr/detalhe/decreto/301-1972-605815), de 11 de Agosto, tendo em consideração o disposto no artigo 24.º do mesmo diploma e no artigo 12.º do [Decreto-Lei n.º 263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto, e nomear os respectivos júris nos termos do artigo 10.º do [Decreto n.º 301/72](https://diariodarepublica.pt/dr/detalhe/decreto/301-1972-605815);
 
@@ -160,20 +224,20 @@ e) Fixar os limites de admissão dos candidatos aos cursos de mestrado e os resp
 
 f) Aprovar os mapas de distribuição do serviço docente.
 
-###### Art. 3.º Exceptuam-se do disposto na alínea a) do artigo 1.º as nomeações e exonerações dos vice-reitores, bem como a nomeação de comissões instaladoras de novas unidades de ensino, investigação ou de prestações de serviços, a que preside o reitor.
+Art. 3.º Exceptuam-se do disposto na alínea a) do artigo 1.º as nomeações e exonerações dos vice-reitores, bem como a nomeação de comissões instaladoras de novas unidades de ensino, investigação ou de prestações de serviços, a que preside o reitor.
 
-###### Art. 4.º Os reitores das universidades poderão delegar as competências atribuídas pelo presente diploma nos vice-reitores, não podendo estes subdelegá-las.
+Art. 4.º Os reitores das universidades poderão delegar as competências atribuídas pelo presente diploma nos vice-reitores, não podendo estes subdelegá-las.
 
-###### Art. 5.º O presente diploma entra em vigor na data da sua publicação.
+Art. 5.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Joaquim Germano Pinto Machado Correia da Silva.
 
-**Promulgado em 25 de Setembro de 1984.**
+Promulgado em 25 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Setembro de 1984.**
+Referendado em 27 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1982-394367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02ca6102f05b7f06703e337945eddbdd2fac17030ebb12d902ca2b74a3a5c488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c20224fb5024f365ed6fad7545afe4039c0d7f5eceb70a3d73897be62d6bedd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tribunal de Contas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:661098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462063:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:30Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º e 8.º do [Decreto-Lei n.º 478/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1980-462063), de 15 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º e 8.º do [Decreto-Lei n.º 478/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1980-462063), de 15 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - Os lugares de contador-geral são providos por despacho do Secretário de Estado das Finanças, sob proposta do director-geral, com anuência do presidente do Tribunal, mediante concurso documental, a que serão admitidos:
+Art. 7.º - 1 - Os lugares de contador-geral são providos por despacho do Secretário de Estado das Finanças, sob proposta do director-geral, com anuência do presidente do Tribunal, mediante concurso documental, a que serão admitidos:
 
 a) Contadores-chefes com o mínimo de 3 anos de serviço efectivo na categoria;
 
@@ -126,7 +137,7 @@ b) As qualidades de chefia.
 
 6 - O provimento a que este artigo se refere, quando recaia nos funcionários mencionados nas alíneas b) e c) do n.º 1, poderá ser feito em comissão de serviço, a opção do interessado, nos termos da lei geral aplicável aos directores de serviço.
 
-###### Art. 8.º - 1 - Os lugares de contador-chefe são providos por despacho do Secretário de Estado das Finanças, sob proposta do director-geral, de entre contadores-verificadores principais, com o mínimo de 3 anos de serviço efectivo na categoria e que hajam obtido aproveitamento nas provas de selecção a realizar no final dos cursos referidos na alínea a) do n.º 1 do artigo 44.º
+Art. 8.º - 1 - Os lugares de contador-chefe são providos por despacho do Secretário de Estado das Finanças, sob proposta do director-geral, de entre contadores-verificadores principais, com o mínimo de 3 anos de serviço efectivo na categoria e que hajam obtido aproveitamento nas provas de selecção a realizar no final dos cursos referidos na alínea a) do n.º 1 do artigo 44.º
 
 2 - Não existindo funcionários que preencham as condições referidas no número anterior, pode o provimento recair em funcionários com as categorias e os requisitos a seguir mencionados que para o efeito tenham sido admitidos aos cursos referidos na alínea a) do n.º 1 do artigo 44.º, tendo obtido aproveitamento nas provas finais de selecção:
 
@@ -140,7 +151,7 @@ c) Contadores-verificadores de 1.ª classe que hajam ingressado na carreira téc
 
 4 - Os funcionários em condições de frequentar o curso de promoção para contadores-chefes e que voluntariamente o não frequentem, bem como os que nele não hajam obtido aprovação ou dele tenham sido eliminados por motivo de faltas injustificadas, só podem ser admitidos a frequentar aquele curso decorridos 2 anos.
 
-###### Art. 2.º - 1 - O Tribunal de Contas pode publicar revista própria, sob a direcção do respectivo presidente.
+Art. 2.º - 1 - O Tribunal de Contas pode publicar revista própria, sob a direcção do respectivo presidente.
 
 2 - A propriedade da revista pertence ao Cofre do Tribunal e a sua administração ao correspondente conselho administrativo.
 
@@ -150,7 +161,7 @@ c) Contadores-verificadores de 1.ª classe que hajam ingressado na carreira téc
 
 5 - Sem prejuízo do disposto nos números anteriores, cabe ao presidente do Tribunal definir o regulamento interno da revista, bem como estabelecer os demais condicionalismos à mesma referentes.
 
-###### Art. 3.º - 1 - O pessoal dirigente, técnico superior e técnico da Direcção-Geral do Tribunal de Contas tem direito, quando em serviço, a ingressar e transitar livremente nas instalações de todos os serviços ou organismos sujeitos à fiscalização do Tribunal, não lhe podendo ser, a qualquer título, vedado o acesso aos locais onde se encontram os documentos a examinar ou os indivíduos a inquirir.
+Art. 3.º - 1 - O pessoal dirigente, técnico superior e técnico da Direcção-Geral do Tribunal de Contas tem direito, quando em serviço, a ingressar e transitar livremente nas instalações de todos os serviços ou organismos sujeitos à fiscalização do Tribunal, não lhe podendo ser, a qualquer título, vedado o acesso aos locais onde se encontram os documentos a examinar ou os indivíduos a inquirir.
 
 2 - Para efeitos do disposto no número precedente, basta ao pessoal nele referido exibir o respectivo cartão de identificação profissional, cujo modelo é aprovado por portaria do Secretário de Estado das Finanças.
 
@@ -160,12 +171,12 @@ c) Contadores-verificadores de 1.ª classe que hajam ingressado na carreira téc
 
 5 - Os cartões de identificação profissional são substituídos sempre que haja qualquer alteração na categoria dos respectivos titulares e recolhidos logo que estes deixem de exercer os seus cargos.
 
-###### Art. 4.º Fica revogado o n.º 4 do artigo 3.º do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março.
+Art. 4.º Fica revogado o n.º 4 do artigo 3.º do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março.
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 14 de Julho de 1982.**
+Promulgado em 14 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

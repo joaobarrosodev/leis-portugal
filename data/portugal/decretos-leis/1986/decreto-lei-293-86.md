@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 210/1986, 1º Suplemento, Série I de 1986-09-12
   number: '210'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2546-(1) a 2546-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21001/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d788d30dbdf67f359ea609875defd1411c9a340f276b3e0d2e46aaa35458d10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1281ac81ed1e3be85e9c461ce5c8a7cb3aa5253ca6be13ac8b7c2c1b3c0a28e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Moeda
 relationships:
 - type: amended_by
   target: pt:dre:635850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355117:por
+  label: "Alterado o n.º 1 do artigo 4.º pelo DEC LEI.362/88.14.10.1988.MF, DR.IS [238] de 14.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-1988-355117
+  date: '1988-10-14'
+- type: amended_by
+  target: pt:dre:621951:por
+  label: "Alterado o art. 4º pelo DEC LEI.130/91.1991.04.02.MF, DR.IS [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1991-621951
+  date: '1991-04-02'
+- type: amended_by
+  target: pt:dre:584254:por
+  label: "Alterado o art. 4.º do presente diploma, na redacção do Dec Lei 362/88, de 14-Out e do Dec Lei 130/91, de 02-Abr,\
+    \ pelo DEC LEI.256/92.20.11.1992.MF, DR.IS-A [269] de 20.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-1992-584254
+  date: '1992-11-20'
+- type: amended_by
+  target: pt:dre:197529:por
+  label: "Alterado o art. 4º, na redacção do Dec Lei 130/91, de 02-Abr, pelo DEC LEI.60/98.1998.03.17.MF, DR.IS-A [64]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1998-197529
+  date: '1998-03-17'
+- type: amended_by
+  target: pt:dre:521595:por
+  label: "Alterado o art. 13º, pelo DEC LEI.138/98.1998.05.16.MF DR.IS-A [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1998-521595
+  date: '1998-05-16'
+- type: cites
+  target: pt:dre:198741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451037:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:635850:por
+  label: "Revogado o presente diploma, com as alterações introduzidas pelo art. 5º do Dec Lei 138/98 de 16-Mai, pelo DEC LEI.246/2007.26.06.2007.MFAP,\
+    \ DR.IS [121] de 26.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2007-635850
+  date: '2007-06-26'
 article_structure:
   article_count: 13
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:04Z'
   warnings: []
   errors: []
 ---
@@ -242,12 +287,12 @@ As moedas metálicas correntes e, bem assim, as comemorativas destinadas a distr
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 11 de Setembro de 1986.**
+Promulgado em 11 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

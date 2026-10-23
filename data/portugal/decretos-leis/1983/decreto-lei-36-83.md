@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02000/01560157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1983-308349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a72b6c6e934d3cc21ffb1549da4f08e69150a07fd18ea9b67721a5fdb6ea2bbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45cfda3ca9fc3d78060950db2930f52e5d47b95a87ff81202698239c2da1a914
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496078:por
+  label: "Alterados os artigos 1.º e 2.º do Decreto-Lei 49266, de 26 de Setembro de 1969, na redacção do presente diploma,\
+    \ pelo DEC LEI.341/87.21.10.1987.MCT, DR.IS [242] de 21.10.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/341-1987-496078
+  date: '1987-10-21'
+- type: cites
+  target: pt:dre:214264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426693:por
+  label: "Revogado, mantendo-se em vigor as disposições que o regulamentam até à data da entrada em vigor dos novos regulamentos,\
+    \ pelo DEC LEI.308/99.1999.08.10.MECO, DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1999-426693
+  date: '1999-08-10'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:27Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +118,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º e 6.º, n.º 3, do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º e 6.º, n.º 3, do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - A comissão administrativa é o órgão que assegura a direcção e a gestão do Fundo de Turismo, exercendo as competências fixadas por lei ou superiormente delegadas pelo membro do Governo com tutela sobre o sector do turismo.
+Artigo 1.º - 1 - A comissão administrativa é o órgão que assegura a direcção e a gestão do Fundo de Turismo, exercendo as competências fixadas por lei ou superiormente delegadas pelo membro do Governo com tutela sobre o sector do turismo.
 
 2 - A comissão administrativa é composta por 1 presidente e 2 vogais, sendo o presidente e um dos vogais nomeados pelo membro do Governo com tutela sobre o sector do turismo e o outro pelo Ministro de Estado e das Finanças e do Plano, por um período de 3 anos, renovável.
 
@@ -109,19 +132,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Lavrar-se-á acta de todas as reuniões, subscrita por todos os presentes.
 
-###### Art. 2.º - 1 - Os membros da comissão administrativa terão direito à remuneração a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do membro do Governo com tutela sobre o sector do turismo.
+Art. 2.º - 1 - Os membros da comissão administrativa terão direito à remuneração a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do membro do Governo com tutela sobre o sector do turismo.
 
 2 - Quando exercer as funções em tempo parcial, o vogal a que alude o n.º 4 do artigo 1.º perceberá uma gratificação a fixar por despacho conjunto dos membros do Governo referidos no número anterior.
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - ...
 
 3 - O Fundo de Turismo só poderá aceitar segundas hipotecas quando a primeira tiver sido constituída a seu favor ou de qualquer estabelecimento de crédito do Estado ou banco nacionalizado. A aceitação de segundas hipotecas, quando a primeira tenha sido constituída a favor de outras pessoas colectivas públicas ou privadas, carece de autorização do membro do Governo com tutela sobre o sector do turismo.
 
-###### Art. 2.º A seguir ao artigo 2.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), com a nova redacção dada pelo artigo 1.º do presente diploma, é intercalado o seguinte artigo:
+Art. 2.º A seguir ao artigo 2.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), com a nova redacção dada pelo artigo 1.º do presente diploma, é intercalado o seguinte artigo:
 
-###### Art. 2.º-A - 1 - Compete, em especial, ao presidente da comissão administrativa:
+Art. 2.º-A - 1 - Compete, em especial, ao presidente da comissão administrativa:
 
 a) Dirigir superiormente todos os serviços do Fundo de Turismo e assegurar as medidas necessárias ao seu funcionamento;
 
@@ -143,8 +166,8 @@ b) Assegurar a gestão das áreas de actividades que lhes forem confiadas.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Fernando Cardoso Nandim de Carvalho.
 
-**Promulgado em 14 de Janeiro de 1983.**
+Promulgado em 14 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

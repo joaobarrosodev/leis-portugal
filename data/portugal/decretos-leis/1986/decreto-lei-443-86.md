@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1986, 7º Suplemento, Série I de 1986-12-31
   number: '300'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 3874-(459) a 3874-(460)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30007/04590460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1986-627193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0349b06934f6ac685dbb392a92386e46cade11dd68df392994e7499660a2f713
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4480c2060ffa80a6d28a7fbe59db54ec043e3825a58c60205ac4a0e4e9c6618
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mercado Cambial
+- Operação Cambial
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:451790:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:50Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +109,9 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 25.º e 26.º do [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), de 27 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 25.º e 26.º do [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), de 27 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 25.º - 1 - As instituições de crédito abrangidas pelo artigo 19.º, e assim autorizadas a exercer o comércio de câmbios por forma plena, podem, no exercício desse comércio:
+Art. 25.º - 1 - As instituições de crédito abrangidas pelo artigo 19.º, e assim autorizadas a exercer o comércio de câmbios por forma plena, podem, no exercício desse comércio:
 
 a) Ter abertas em seu nome em instituições de crédito domiciliadas no estrangeiro contas de disponibilidades à ordem em moeda estrangeira;
 
@@ -119,18 +131,18 @@ c) Letras, livranças, extractos de factura ou outros títulos de crédito de an
 
 3 - Na movimentação das contas previstas na alínea a) do n.º 1 deste artigo, bem como na realização das operações sobre ouro ou notas e moedas metálicas estrangeiras ou relativas aos cheques e aos títulos de crédito referidos na alínea c) daquele n.º 1 e no n.º 2 também do presente artigo, será observado o disposto no artigo 17.º e no tocante às contas previstas na alínea b) do mesmo n.º 1 serão observados os termos e condições constantes das instruções do Banco de Portugal.
 
-###### Art. 26.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem abrir nos seus livros contas estrangeiras à ordem, quer em moeda estrangeira quer em escudos.
+Art. 26.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem abrir nos seus livros contas estrangeiras à ordem, quer em moeda estrangeira quer em escudos.
 
 2 - A abertura das contas mencionadas no número anterior fica sujeita a autorização especial do Banco de Portugal; porém, quando tal seja recomendado para fins turísticos, a abertura das contas pode ser objecto de autorização genérica, fixando-se nesta as condições da movimentação das mesmas contas.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Dezembro de 1986.**
+Promulgado em 26 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1986.**
+Referendado em 30 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

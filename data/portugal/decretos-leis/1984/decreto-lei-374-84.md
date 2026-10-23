@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1984-401041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed6f3072f1af762210882e761dcce9fab0078f142b7fe5929a907a4a007dccd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19a554c494516fcf9091ea8cf1759361b5458129350371f01672a6dacc6d2398
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Orgânica
+- Tribunal Administrativo
+- Tribunal Administrativo e Fiscal
+- Tribunal Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:278029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196875:por
+  label: "Aditado um n.º 6 ao art. 28.º pela LEI.4/86.1986.03.21.AR DR.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-1986-196875
+  date: '1986-03-21'
+- type: amended_by
+  target: pt:dre:285132:por
+  label: "Alterado o n.º 1 do art. 29.º pelo DEC LEI.127/88.20.04.1988.MJ, DR.IS [92] de 20.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1988-285132
+  date: '1988-04-20'
+- type: amended_by
+  target: pt:dre:335242:por
+  label: Substituído o mapa VIII, pelo DEC LEI.28/90.24.01.1990.MJ, DR.IS [20] de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-1990-335242
+  date: '1990-01-24'
+- type: amended_by
+  target: pt:dre:168775:por
+  label: "Alterado o artigo 26.º pelo DEC LEI.419/93.28.12.1993.MF, DR.IS-A [301] de 28.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/419-1993-168775
+  date: '1993-12-28'
+- type: amended_by
+  target: pt:dre:385203:por
+  label: "Conferida nova redacção aos art 1º, 3º, 7º, 11º, 13º, 14º, 15º, 17º, 22º, 44º, 45º, 46º e 47º, alterada a epígrafe\
+    \ do cap II, substituidos os mapas V, VI e VIII anexos ao presente diploma pelos mapas V, VI e VIII, aditado o mapa VI-A\
+    \ e revogados os nums 2 e 3 do art 5º, os nums 2 e 5 do art 10º, e os art 12º, 24º, 33º e 52º a 58º bem como os respectivos\
+    \ mapas III, IV e X a XV anexos, pelo DEC LEI.114/97.1997.05.12.MJ, DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-1997-385203
+  date: '1997-05-12'
+- type: amended_by
+  target: pt:dre:380127:por
+  label: "Alterada a redacção dos arts. 28º, 46º e do Cap. IV, aditado um art. 27º-A e um Cap. IV-A, com a alteração decorrente\
+    \ do Dec Lei 114/97 de 12-Mai, pelo DEC LEI.301-A/99.1999.08.05.MJ, DR.IS-A [181]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-a-1999-380127
+  date: '1999-08-05'
+- type: amended_by
+  target: pt:dre:322110:por
+  label: "Alterado o art. 26º pela LEI.15/2001.2001.06.05.AR DR.IS-A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2001-322110
+  date: '2001-06-05'
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655081:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:190661:por
+  label: Rectificado pela DECL.DD4820.20.02.1985.PCM, DR.IS [49-2.º Supl] de 28.02.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-190661
+  date: '1985-02-20'
+- type: repealed_by
+  target: pt:dre:278029:por
+  label: "Revogado pela LEI.13/2002.2002.02.19.AR DR.IS-A [42], a partir da sua entrada em vigor.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2002-278029
+  date: '2002-02-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:44Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +173,13 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 ### CAPÍTULO I — Supremo Tribunal Administrativo
 
-###### Artigo 1.º Os quadros dos magistrados do Supremo Tribunal Administrativo são os fixados nos mapas I e II anexos.
+Artigo 1.º Os quadros dos magistrados do Supremo Tribunal Administrativo são os fixados nos mapas I e II anexos.
 
-###### Art. 2.º A secretaria do Supremo Tribunal Administrativo compreende uma secção de expediente e contabilidade e secções de processos.
+Art. 2.º A secretaria do Supremo Tribunal Administrativo compreende uma secção de expediente e contabilidade e secções de processos.
 
-###### Art. 3.º Compete ao secretário chefiar a secretaria e dar posse ao pessoal referido no mapa III anexo.
+Art. 3.º Compete ao secretário chefiar a secretaria e dar posse ao pessoal referido no mapa III anexo.
 
-###### Art. 4.º Compete à secção de expediente e contabilidade:
+Art. 4.º Compete à secção de expediente e contabilidade:
 
 a) Efectuar o registo dos requerimentos e demais papéis dirigidos ao Tribunal e ao presidente e dos despachos por este proferidos;
 
@@ -129,17 +199,17 @@ h) Executar o expediente que não seja da competência das secções de processo
 
 i) Desempenhar quaisquer outras funções conferidas por lei ou por determinação superior.
 
-###### Art. 5.º - 1 - São aplicáveis à secretaria do Supremo Tribunal Administrativo e ao respectivo pessoal, no que não estiver especialmente previsto, as disposições relativas ao Supremo Tribunal de Justiça que sejam adequadas.
+Art. 5.º - 1 - São aplicáveis à secretaria do Supremo Tribunal Administrativo e ao respectivo pessoal, no que não estiver especialmente previsto, as disposições relativas ao Supremo Tribunal de Justiça que sejam adequadas.
 
 2 - Os operadores de reprografia de 1.ª classe e de 2.ª classe são recrutados, respectivamente, de entre operadores de reprografia de 2.ª classe e de 3.ª classe, verificando-se a mudança de categoria após 5 anos de serviço na imediatamente anterior, desde que tenham classificação não inferior a Bom.
 
 3 - Os operadores de reprografia de 3.ª classe são nomeados de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 6.º O secretário judicial é coadjuvado e substituído nas funções da respectiva secção pelo escrivão de direito que nela preste serviço.
+Art. 6.º O secretário judicial é coadjuvado e substituído nas funções da respectiva secção pelo escrivão de direito que nela preste serviço.
 
-###### Art. 7.º O quadro da secretaria do Supremo Tribunal Administrativo é o fixado no mapa III anexo.
+Art. 7.º O quadro da secretaria do Supremo Tribunal Administrativo é o fixado no mapa III anexo.
 
-###### Art. 8.º Compete aos serviços de apoio do Supremo Tribunal Administrativo prestar apoio documental e técnico ao Tribunal e ao Conselho Superior dos Tribunais Administrativos e Fiscais, designadamente pelo exercício das seguintes actividades:
+Art. 8.º Compete aos serviços de apoio do Supremo Tribunal Administrativo prestar apoio documental e técnico ao Tribunal e ao Conselho Superior dos Tribunais Administrativos e Fiscais, designadamente pelo exercício das seguintes actividades:
 
 a) Organizar ficheiros de legislação, doutrina e jurisprudência;
 
@@ -159,9 +229,9 @@ h) Analisar os processos pendentes, nomeadamente para detecção dos casos de ev
 
 i) Recolher elementos estatísticos.
 
-###### Art. 9.º Os serviços de apoio do Supremo Tribunal Administrativo orientam e auxiliam os serviços análogos dos restantes tribunais administrativos e fiscais e cooperam com instituições ou serviços de fins similares.
+Art. 9.º Os serviços de apoio do Supremo Tribunal Administrativo orientam e auxiliam os serviços análogos dos restantes tribunais administrativos e fiscais e cooperam com instituições ou serviços de fins similares.
 
-###### Art. 10.º - 1 - O pessoal técnico superior é provido por nomeação e recrutado, nos termos da lei geral, de entre licenciados em Direito com experiência adequada.
+Art. 10.º - 1 - O pessoal técnico superior é provido por nomeação e recrutado, nos termos da lei geral, de entre licenciados em Direito com experiência adequada.
 
 2 - O pessoal técnico superior de BAD é provido por nomeação e recrutado nos termos previstos no [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, com preferência dos licenciados em Direito.
 
@@ -177,29 +247,29 @@ i) Recolher elementos estatísticos.
 
 8 - O pessoal em regime de comissão de serviço pode optar pelas remunerações correspondentes aos cargos de origem.
 
-###### Art. 11.º - 1 - Os serviços de apoio são dirigidos pelo funcionário de maior categoria que existir na carreira de pessoal técnico superior ou, sendo vários, pelo que de entre estes seja designado pelo presidente.
+Art. 11.º - 1 - Os serviços de apoio são dirigidos pelo funcionário de maior categoria que existir na carreira de pessoal técnico superior ou, sendo vários, pelo que de entre estes seja designado pelo presidente.
 
 2 - O funcionário a que se refere o número anterior tem direito ao abono de gratificação de montante equivalente a 10% do vencimento da letra C.
 
-###### Art. 12.º O quadro dos serviços de apoio do Supremo Tribunal Administrativo é o fixado no mapa IV anexo.
+Art. 12.º O quadro dos serviços de apoio do Supremo Tribunal Administrativo é o fixado no mapa IV anexo.
 
 ### CAPÍTULO II — Tribunal Tributário de 2.ª Instância
 
-###### Art. 13.º Os quadros dos magistrados do Tribunal Tributário de 2.ª Instância são os fixados nos mapas V e VI anexos.
+Art. 13.º Os quadros dos magistrados do Tribunal Tributário de 2.ª Instância são os fixados nos mapas V e VI anexos.
 
-###### Art. 14.º O presidente do Tribunal Tributário de 2.ª Instância, ou o seu substituto, pode ter redução na distribuição, em termos a estabelecer pelo Conselho Superior dos Tribunais Administrativos e Fiscais.
+Art. 14.º O presidente do Tribunal Tributário de 2.ª Instância, ou o seu substituto, pode ter redução na distribuição, em termos a estabelecer pelo Conselho Superior dos Tribunais Administrativos e Fiscais.
 
-###### Art. 15.º Aos serviços de apoio do Tribunal Tributário de 2.ª Instância é aplicável, com as necessárias adaptações, o disposto nos artigos 8.º a 11.º, n.º 1.
+Art. 15.º Aos serviços de apoio do Tribunal Tributário de 2.ª Instância é aplicável, com as necessárias adaptações, o disposto nos artigos 8.º a 11.º, n.º 1.
 
 ### CAPÍTULO III — Tribunais administrativos de círculo
 
-###### Art. 16.º A área de jurisdição dos tribunais administrativos de círculo é a que lhes é atribuída no mapa VII anexo.
+Art. 16.º A área de jurisdição dos tribunais administrativos de círculo é a que lhes é atribuída no mapa VII anexo.
 
-###### Art. 17.º Os quadros dos magistrados dos tribunais administrativos de círculo são os fixados nos mapas VIII e IX anexos.
+Art. 17.º Os quadros dos magistrados dos tribunais administrativos de círculo são os fixados nos mapas VIII e IX anexos.
 
-###### Art. 18.º As secretarias dos tribunais administrativos de círculo compreendem uma secção central e secções de processos, em número correspondente ao de escrivães do respectivo quadro.
+Art. 18.º As secretarias dos tribunais administrativos de círculo compreendem uma secção central e secções de processos, em número correspondente ao de escrivães do respectivo quadro.
 
-###### Art. 19.º - 1 - As secretarias dos tribunais administrativos de círculo são dirigidas por secretários.
+Art. 19.º - 1 - As secretarias dos tribunais administrativos de círculo são dirigidas por secretários.
 
 2 - Quando os serviços de apoio não forem dirigidos por licenciados em Direito, o lugar de secretário é provido, por concurso documental, de entre licenciados em Direito com adequado currículo.
 
@@ -207,35 +277,35 @@ i) Recolher elementos estatísticos.
 
 4 - Os secretários têm todos os direitos e regalias dos secretários judiciais.
 
-###### Art. 20.º A secção central tem competência idêntica à secção de expediente e contabilidade do Supremo Tribunal Administrativo.
+Art. 20.º A secção central tem competência idêntica à secção de expediente e contabilidade do Supremo Tribunal Administrativo.
 
-###### Art. 21.º São aplicáveis às secretarias dos tribunais administrativos de círculo e ao respectivo pessoal, no que não estiver especialmente previsto, as disposições relativas aos tribunais judiciais de 1.ª instância que sejam adequadas.
+Art. 21.º São aplicáveis às secretarias dos tribunais administrativos de círculo e ao respectivo pessoal, no que não estiver especialmente previsto, as disposições relativas aos tribunais judiciais de 1.ª instância que sejam adequadas.
 
-###### Art. 22.º Os quadros das secretarias dos tribunais administrativos de círculo são os fixados nos mapas X a XII anexos.
+Art. 22.º Os quadros das secretarias dos tribunais administrativos de círculo são os fixados nos mapas X a XII anexos.
 
-###### Art. 23.º Aos serviços de apoio dos tribunais administrativos de círculo é aplicável, com as necessárias adaptações, o disposto nos artigos 8.º a 11.º, n.º 1.
+Art. 23.º Aos serviços de apoio dos tribunais administrativos de círculo é aplicável, com as necessárias adaptações, o disposto nos artigos 8.º a 11.º, n.º 1.
 
-###### Art. 24.º Os quadros dos serviços de apoio dos tribunais administrativos de círculo são os previstos nos mapas XIII a XV anexos.
+Art. 24.º Os quadros dos serviços de apoio dos tribunais administrativos de círculo são os previstos nos mapas XIII a XV anexos.
 
-###### Art. 25.º - 1 - Quando não existirem nos serviços de apoio de um tribunal administrativo de círculo funcionários da carreira de pessoal técnico superior, a respectiva direcção é assegurada pelo secretário do tribunal, se for licenciado em Direito.
+Art. 25.º - 1 - Quando não existirem nos serviços de apoio de um tribunal administrativo de círculo funcionários da carreira de pessoal técnico superior, a respectiva direcção é assegurada pelo secretário do tribunal, se for licenciado em Direito.
 
 2 - Quando o secretário do tribunal não for licenciado em Direito, terá a seu cargo a superintendência administrativa dos serviços de apoio e o exercício das funções previstas nas alíneas e), f) e h) do artigo 8.º
 
 ### CAPÍTULO IV — Tribunais tributários de 1.ª instância e tribunais fiscais aduaneiros
 
-###### Art. 26.º - 1 - No Tribunal Tributário de 1.ª Instância de Lisboa há 11 juízos, com 1 juiz cada um, salvo o juízo referido no n.º 3 do artigo 59.º do Estatuto dos Tribunais Administrativos e Fiscais, que tem 3 juízes.
+Art. 26.º - 1 - No Tribunal Tributário de 1.ª Instância de Lisboa há 11 juízos, com 1 juiz cada um, salvo o juízo referido no n.º 3 do artigo 59.º do Estatuto dos Tribunais Administrativos e Fiscais, que tem 3 juízes.
 
 2 - No Tribunal Tributário de 1.ª Instância do Porto há 6 juízos, com 1 juiz cada um.
 
 3 - Nos restantes tribunais tributários de 1.ª instância há 1 juízo, com 1 juiz, sem prejuízo de o Conselho Superior dos Tribunais Administrativos e Fiscais poder determinar a acumulação, nos termos do artigo 47.º do [Decreto-Lei n.º 45006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298), de 27 de Abril de 1963.
 
-###### Art. 27.º - 1 - No Tribunal Fiscal Aduaneiro de Lisboa há 2 juízos, com 1 juiz cada um.
+Art. 27.º - 1 - No Tribunal Fiscal Aduaneiro de Lisboa há 2 juízos, com 1 juiz cada um.
 
 2 - No Tribunal Fiscal Aduaneiro do Porto há 1 juízo, com 1 juiz.
 
 ### CAPÍTULO V — Conselho Superior dos Tribunais Administrativos e Fiscais
 
-###### Art. 28.º - 1 - Cada um dos membros referidos nas alíneas b) e c) do n.º 1 do artigo 99.º do Estatuto dos Tribunais Administrativos e Fiscais é eleito, por escrutínio secreto, em sessão convocada pelo presidente do Supremo Tribunal Administrativo.
+Art. 28.º - 1 - Cada um dos membros referidos nas alíneas b) e c) do n.º 1 do artigo 99.º do Estatuto dos Tribunais Administrativos e Fiscais é eleito, por escrutínio secreto, em sessão convocada pelo presidente do Supremo Tribunal Administrativo.
 
 2 - Para a eleição dos membros referidos nas alíneas e) e f) do mesmo preceito, o Conselho Superior dos Tribunais Administrativos e Fiscais, ou, por delegação deste, o seu presidente, organiza o recenseamento dos juízes dos tribunais administrativos de círculo e o dos juízes dos tribunais tributários de 1.ª instância e dos tribunais fiscais aduaneiros, elabora e expede as correspondentes listas, marca a data das eleições, fiscaliza a regularidade dos actos eleitorais e efectua o apuramento final da votação.
 
@@ -245,45 +315,45 @@ i) Recolher elementos estatísticos.
 
 5 - Os membros referidos nas alíneas g) a j) do n.º 1 do mencionado artigo 99.º são designados nos termos do Regimento da Assembleia da República.
 
-###### Art. 29.º - 1 - Os vogais do Conselho Superior dos Tribunais Administrativos e Fiscais que não sejam magistrados têm direito a senhas de presença pelas sessões a que assistam, nos termos e do montante a fixar por despacho do Ministro da Justiça, bem como, quando residam fora de Lisboa, aos abonos legais pelas deslocações e a ajudas de custo correspondentes às atribuídas aos funcionários remunerados pela letra A.
+Art. 29.º - 1 - Os vogais do Conselho Superior dos Tribunais Administrativos e Fiscais que não sejam magistrados têm direito a senhas de presença pelas sessões a que assistam, nos termos e do montante a fixar por despacho do Ministro da Justiça, bem como, quando residam fora de Lisboa, aos abonos legais pelas deslocações e a ajudas de custo correspondentes às atribuídas aos funcionários remunerados pela letra A.
 
 2 - Os vogais que sejam magistrados mas exerçam funções em tribunais com sede fora de Lisboa têm direito aos abonos legais pelas deslocações e a ajudas de custo.
 
-###### Art. 30.º Os tribunais administrativos e fiscais devem fornecer periodicamente ao presidente do Conselho Superior dos Tribunais Administrativos e Fiscais elementos estatísticos, nos termos determinados pelo Conselho.
+Art. 30.º Os tribunais administrativos e fiscais devem fornecer periodicamente ao presidente do Conselho Superior dos Tribunais Administrativos e Fiscais elementos estatísticos, nos termos determinados pelo Conselho.
 
-###### Art. 31.º Dos actos praticados por delegado do Conselho Superior dos Tribunais Administrativos e Fiscais, que não seja o seu presidente, cabe reclamação necessária para o Conselho.
+Art. 31.º Dos actos praticados por delegado do Conselho Superior dos Tribunais Administrativos e Fiscais, que não seja o seu presidente, cabe reclamação necessária para o Conselho.
 
-###### Art. 32.º - 1 - Para efeitos de pedidos de transferência ou permuta nos termos do artigo 83.º do Estatuto dos Tribunais Administrativos e Fiscais, as vagas são levadas ao conhecimento dos interessados por circular do Conselho Superior dos Tribunais Administrativos e Fiscais.
+Art. 32.º - 1 - Para efeitos de pedidos de transferência ou permuta nos termos do artigo 83.º do Estatuto dos Tribunais Administrativos e Fiscais, as vagas são levadas ao conhecimento dos interessados por circular do Conselho Superior dos Tribunais Administrativos e Fiscais.
 
 2 - Os concursos e provas de selecção previstos nos artigos 85.º, n.º 1, alínea a), 91.º, 92.º e 94.º do mesmo Estatuto são abertos por aviso publicado no Diário da República, do qual conste a data do seu encerramento, os documentos que devem acompanhar o requerimento de admissão e os demais elementos necessários.
 
 3 - No caso previsto na citada alínea a) do n.º 1 do artigo 85.º, o Conselho publica no Diário da República a lista dos candidatos admitidos e excluídos, sujeita a reclamação necessária dos interessados no prazo de 10 dias.
 
-###### Art. 33.º O consentimento para o provimento de magistrados previsto no n.º 2 do artigo 96.º do Estatuto dos Tribunais Administrativos e Fiscais é solicitado pelo Conselho Superior dos Tribunais Administrativos e Fiscais ao conselho competente.
+Art. 33.º O consentimento para o provimento de magistrados previsto no n.º 2 do artigo 96.º do Estatuto dos Tribunais Administrativos e Fiscais é solicitado pelo Conselho Superior dos Tribunais Administrativos e Fiscais ao conselho competente.
 
 ### CAPÍTULO VI — Ingresso no Centro de Estudos Judiciários
 
-###### Art. 34.º - 1 - O Ministro da Justiça, ouvido o Conselho Superior dos Tribunais Administrativos e Fiscais, declara aberto o concurso para ingresso no Centro de Estudos Judiciários e estabelece o número provisório de vagas.
+Art. 34.º - 1 - O Ministro da Justiça, ouvido o Conselho Superior dos Tribunais Administrativos e Fiscais, declara aberto o concurso para ingresso no Centro de Estudos Judiciários e estabelece o número provisório de vagas.
 
 2 - A declaração faz-se por aviso publicado no Diário da República.
 
-###### Art. 35.º - 1 - No prazo estabelecido no aviso, os candidatos devem requerer o ingresso no Centro de Estudos Judiciários.
+Art. 35.º - 1 - No prazo estabelecido no aviso, os candidatos devem requerer o ingresso no Centro de Estudos Judiciários.
 
 2 - Os requerimentos devem ser instruídos com documentos comprovativos do preenchimento das condições de ingresso à data do início do período de formação.
 
-###### Art. 36.º - 1 - Encerrado o prazo para apresentação dos requerimentos, publicar-se-á no Diário da República a lista dos candidatos admitidos a testes de aptidão.
+Art. 36.º - 1 - Encerrado o prazo para apresentação dos requerimentos, publicar-se-á no Diário da República a lista dos candidatos admitidos a testes de aptidão.
 
 2 - Podem ser admitidos condicionalmente os candidatos que, no termo do prazo referido no número anterior, sejam licenciados há menos de 2 anos, sem prejuízo do disposto no n.º 2 do artigo antecedente.
 
 3 - Da lista pode reclamar-se para o Ministro da Justiça no prazo de 10 dias.
 
-###### Art. 37.º - 1 - Os testes de aptidão decorrem em 2 fases, uma escrita e outra oral.
+Art. 37.º - 1 - Os testes de aptidão decorrem em 2 fases, uma escrita e outra oral.
 
 2 - Para cada prova da fase escrita é designado dia próprio; as provas incluídas na fase oral devem repartir-se por 2 ou 3 dias.
 
 3 - A fase escrita é eliminatória quando revele manifesta inaptidão.
 
-###### Art. 38.º - 1 - A fase escrita compreende:
+Art. 38.º - 1 - A fase escrita compreende:
 
 a) Uma composição sobre temas sociais, económicos, administrativos ou culturais;
 
@@ -299,7 +369,7 @@ d) A resolução de uma questão prática de direito civil, sobre teoria geral e
 
 4 - Aberto o concurso, o Centro de Estudos Judiciários fará publicar as listas, elaboradas pelo júri, das matérias sobre que versam as provas referidas nas alíneas b) a d) do n.º 1 e na alínea a) do n.º 1 do artigo seguinte.
 
-###### Art. 39.º - 1 - A fase oral compreende:
+Art. 39.º - 1 - A fase oral compreende:
 
 a) Uma conversação de 30 minutos, tendo como ponto de partida a exposição de um tema relativo a aspectos sociais, jurídicos, económicos, administrativos ou culturais, a escolher pelo candidato, da lista a que se refere o n.º 4 do artigo anterior;
 
@@ -315,51 +385,51 @@ f) Uma discussão, por tempo não superior a 30 minutos, sobre as matérias vers
 
 2 - As provas são públicas, excepto para os candidatos que ainda as não tenham prestado.
 
-###### Art. 40.º Às faltas dos candidatos é aplicável o disposto no artigo 38.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro.
+Art. 40.º Às faltas dos candidatos é aplicável o disposto no artigo 38.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro.
 
-###### Art. 41.º Efectuada a graduação, o júri pode propor ao Ministro da Justiça o alargamento do número de vagas para ingresso no Centro de Estudos Judiciários.
+Art. 41.º Efectuada a graduação, o júri pode propor ao Ministro da Justiça o alargamento do número de vagas para ingresso no Centro de Estudos Judiciários.
 
-###### Art. 42.º A validade dos testes é limitada ao período de formação que se lhes seguir.
+Art. 42.º A validade dos testes é limitada ao período de formação que se lhes seguir.
 
-###### Art. 43.º Aos candidatos à frequência do Centro de Estudos Judiciários é aplicável o disposto no artigo 44.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro.
+Art. 43.º Aos candidatos à frequência do Centro de Estudos Judiciários é aplicável o disposto no artigo 44.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 44.º Nas sessões, os vice-presidentes do Supremo Tribunal Administrativo e o do Tribunal Tributário de 2.ª Instância ocupam lugar, seguidamente ao do presidente, segundo a sua antiguidade na função.
+Art. 44.º Nas sessões, os vice-presidentes do Supremo Tribunal Administrativo e o do Tribunal Tributário de 2.ª Instância ocupam lugar, seguidamente ao do presidente, segundo a sua antiguidade na função.
 
-###### Art. 45.º De cada acórdão do Supremo Tribunal Administrativo e do Tribunal Tributário de 2.ª Instância é feito um sumário doutrinal, da responsabilidade do relator.
+Art. 45.º De cada acórdão do Supremo Tribunal Administrativo e do Tribunal Tributário de 2.ª Instância é feito um sumário doutrinal, da responsabilidade do relator.
 
-###### Art. 46.º - 1 - Os juízes designados para proceder a inspecções e instruir processos disciplinares, de averiguações, inquérito e sindicância nos tribunais administrativos e fiscais podem ser secretariados por funcionários do Supremo Tribunal Administrativo ou do Tribunal Tributário de 2.ª Instância por eles indicados, obtida a concordância do respectivo presidente.
+Art. 46.º - 1 - Os juízes designados para proceder a inspecções e instruir processos disciplinares, de averiguações, inquérito e sindicância nos tribunais administrativos e fiscais podem ser secretariados por funcionários do Supremo Tribunal Administrativo ou do Tribunal Tributário de 2.ª Instância por eles indicados, obtida a concordância do respectivo presidente.
 
 2 - Para os fins previstos no número anterior, em relação aos tribunais tributários de 1.ª instância e aos tribunais fiscais aduaneiros, podem ser requisitados ao respectivo director-geral funcionários do Ministério das Finanças e do Plano.
 
-###### Art. 47.º - 1 - No Tribunal Tributário de 2.ª Instância e no Tribunal Administrativo do Círculo de Lisboa os turnos de férias e os demais previstos na lei de processo são fixados pelo respectivo presidente.
+Art. 47.º - 1 - No Tribunal Tributário de 2.ª Instância e no Tribunal Administrativo do Círculo de Lisboa os turnos de férias e os demais previstos na lei de processo são fixados pelo respectivo presidente.
 
 2 - O presidente do Supremo Tribunal Administrativo fixa os turnos nos restantes tribunais administrativos e fiscais, podendo agregar vários tribunais e determinar a intervenção de juízes substitutos.
 
 3 - O Conselho Superior dos Tribunais Administrativos e Fiscais pode estabelecer critérios a observar na fixação dos turnos.
 
-###### Art. 48.º Os cartões de identidade dos juízes dos tribunais administrativos e fiscais, de modelo correspondente aos dos juízes dos tribunais judiciais, são emitidos pelo Conselho Superior dos Tribunais Administrativos e Fiscais.
+Art. 48.º Os cartões de identidade dos juízes dos tribunais administrativos e fiscais, de modelo correspondente aos dos juízes dos tribunais judiciais, são emitidos pelo Conselho Superior dos Tribunais Administrativos e Fiscais.
 
-###### Art. 49.º Quando conveniente a uma melhor gestão dos quadros, o Conselho Superior dos Tribunais Administrativos e Fiscais pode solicitar ao Conselho Superior da Magistratura a atribuição de prioridade e urgência às inspecções requeridas por juízes de direito que pretendam candidatar-se a lugares nos tribunais administrativos e fiscais ou por funcionários destes.
+Art. 49.º Quando conveniente a uma melhor gestão dos quadros, o Conselho Superior dos Tribunais Administrativos e Fiscais pode solicitar ao Conselho Superior da Magistratura a atribuição de prioridade e urgência às inspecções requeridas por juízes de direito que pretendam candidatar-se a lugares nos tribunais administrativos e fiscais ou por funcionários destes.
 
-###### Art. 50.º Cada um dos tribunais administrativos e fiscais tem direito a receber gratuitamente o Diário da República, 1.ª e 2.ª séries e apêndices, o Diário da Assembleia da República e todas as outras publicações jurídicas da Imprensa Nacional-Casa da Moeda, bem como as publicações jurídicas periódicas de quaisquer serviços da Administração Pública.
+Art. 50.º Cada um dos tribunais administrativos e fiscais tem direito a receber gratuitamente o Diário da República, 1.ª e 2.ª séries e apêndices, o Diário da Assembleia da República e todas as outras publicações jurídicas da Imprensa Nacional-Casa da Moeda, bem como as publicações jurídicas periódicas de quaisquer serviços da Administração Pública.
 
-###### Art. 51.º É descongelada a admissão aos lugares de secretário dos tribunais administrativos de círculo e do pessoal técnico superior e auxiliar dos serviços de apoio dos tribunais administrativos e fiscais.
+Art. 51.º É descongelada a admissão aos lugares de secretário dos tribunais administrativos de círculo e do pessoal técnico superior e auxiliar dos serviços de apoio dos tribunais administrativos e fiscais.
 
-###### Art. 52.º Nos 2 primeiros anos de aplicação deste diploma servirão 2 juízes auxiliares no Tribunal Administrativo do Círculo de Lisboa, 1 juiz auxiliar, podendo ser em acumulação, no Tribunal Administrativo do Círculo do Porto, 1 juiz auxiliar no Tribunal Fiscal Aduaneiro do Porto e 1 delegado do procurador da República auxiliar no Tribunal Administrativo do Círculo de Lisboa.
+Art. 52.º Nos 2 primeiros anos de aplicação deste diploma servirão 2 juízes auxiliares no Tribunal Administrativo do Círculo de Lisboa, 1 juiz auxiliar, podendo ser em acumulação, no Tribunal Administrativo do Círculo do Porto, 1 juiz auxiliar no Tribunal Fiscal Aduaneiro do Porto e 1 delegado do procurador da República auxiliar no Tribunal Administrativo do Círculo de Lisboa.
 
-###### Art. 53.º O primeiro período de formação para juízes dos tribunais administrativos e fiscais no Centro de Estudos Judiciários inicia-se em Outubro de 1985.
+Art. 53.º O primeiro período de formação para juízes dos tribunais administrativos e fiscais no Centro de Estudos Judiciários inicia-se em Outubro de 1985.
 
-###### Art. 54.º Até à entrada em funcionamento do Conselho Superior dos Tribunais Administrativos e Fiscais, o disposto no artigo 33.º é aplicável à competência do Ministro da Justiça para as nomeações a que se refere o n.º 1 do artigo 113.º do Estatuto dos Tribunais Administrativos e Fiscais.
+Art. 54.º Até à entrada em funcionamento do Conselho Superior dos Tribunais Administrativos e Fiscais, o disposto no artigo 33.º é aplicável à competência do Ministro da Justiça para as nomeações a que se refere o n.º 1 do artigo 113.º do Estatuto dos Tribunais Administrativos e Fiscais.
 
-###### Art. 55.º - 1 - Os processos distribuídos no Supremo Tribunal Administrativo depois de 27 de Abril de 1984, ainda pendentes e sem vistos para julgamento, para cuja instauração passe a ser competente o Tribunal Tributário da 2.ª Instância transitam para este Tribunal por despacho do relator, dando-se baixa na distribuição.
+Art. 55.º - 1 - Os processos distribuídos no Supremo Tribunal Administrativo depois de 27 de Abril de 1984, ainda pendentes e sem vistos para julgamento, para cuja instauração passe a ser competente o Tribunal Tributário da 2.ª Instância transitam para este Tribunal por despacho do relator, dando-se baixa na distribuição.
 
 2 - Os recursos contenciosos já interpostos para a 1.ª Secção do Supremo Tribunal Administrativo, mas ainda não recebidos neste até 31 de Dezembro de 1984, para cuja instauração passe a ser competente outro tribunal são remetidos directamente a esse tribunal.
 
 3 - Quando os recursos referidos no número anterior forem indevidamente remetidos ao Supremo Tribunal Administrativo, serão enviados ao tribunal competente por despacho do presidente ou, se forem distribuídos, por despacho do relator, dando-se baixa na distribuição.
 
-###### Art. 56.º - 1 - São extintos os lugares de primeiro, segundo e terceiro-oficial e de escriturário-dactilógrafo da secretaria do Supremo Tribunal Administrativo.
+Art. 56.º - 1 - São extintos os lugares de primeiro, segundo e terceiro-oficial e de escriturário-dactilógrafo da secretaria do Supremo Tribunal Administrativo.
 
 2 - O actual titular do cargo de primeiro-oficial, encarregado da biblioteca e arquivo, transita para o quadro a que se refere o mapa IV anexo na categoria de técnico auxiliar principal.
 
@@ -369,27 +439,27 @@ f) Uma discussão, por tempo não superior a 30 minutos, sobre as matérias vers
 
 5 - Os actuais titulares dos cargos de contínuo, encarregado de pessoal auxiliar, motorista e oficial-porteiro do Supremo Tribunal Administrativo, que vêm exercendo funções próprias de oficial judicial, transitam para lugares desta categoria do quadro da secretaria pela ordem da sua antiguidade no tribunal.
 
-###### Art. 57.º - 1 - Até à nomeação do pessoal para a secretaria do Tribunal Administrativo do Círculo de Coimbra, o respectivo serviço será assegurado, transitoriamente, por pessoal de outros tribunais com sede naquela cidade, designado pelo Ministro da Justiça, e por pessoal do Tribunal Tributário de 1.ª Instância de Coimbra, designado pelo respectivo juiz.
+Art. 57.º - 1 - Até à nomeação do pessoal para a secretaria do Tribunal Administrativo do Círculo de Coimbra, o respectivo serviço será assegurado, transitoriamente, por pessoal de outros tribunais com sede naquela cidade, designado pelo Ministro da Justiça, e por pessoal do Tribunal Tributário de 1.ª Instância de Coimbra, designado pelo respectivo juiz.
 
 2 - O exercício das funções a que se refere o número anterior é cumulável com o das relativas aos cargos nos tribunais a que os funcionários pertencem.
 
-###### Art. 58.º - 1 - Até à aplicação do Orçamento do Estado para 1985, o Ministério das Finanças e do Plano continua a suportar os encargos com os juízes dos tribunais fiscais.
+Art. 58.º - 1 - Até à aplicação do Orçamento do Estado para 1985, o Ministério das Finanças e do Plano continua a suportar os encargos com os juízes dos tribunais fiscais.
 
 2 - Durante o período a que se refere o número anterior, o acréscimo dos encargos da responsabilidade do Orçamento do Estado resultante da execução do presente diploma, quanto ao Conselho Superior dos Tribunais Administrativos e Fiscais, Supremo Tribunal Administrativo e tribunais administrativos de círculo, é suportado pelo Gabinete de Gestão Financeira do Ministério da Justiça.
 
-###### Art. 59.º O presente decreto-lei entra em vigor, com o Estatuto dos Tribunais Administrativos e Fiscais, em 1 de Janeiro de 1985.
+Art. 59.º O presente decreto-lei entra em vigor, com o Estatuto dos Tribunais Administrativos e Fiscais, em 1 de Janeiro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 13 de Novembro de 1984.**
+Promulgado em 13 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 15 de Novembro de 1984.**
+Referendado em 15 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
@@ -417,13 +487,13 @@ MAPA III
 
 Quadro da secretaria do Supremo Tribunal Administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf))](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
 
 MAPA IV
 
 Quadro dos serviços de apoio do Supremo Tribunal Administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf))](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
 
 MAPA V
 
@@ -509,34 +579,34 @@ MAPA X
 
 Quadro da secretaria do Tribunal Administrativo do Círculo de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf))](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
 
 MAPA XI
 
 Quadro da secretaria do Tribunal Administrativo do Círculo do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf))](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
 
 MAPA XII
 
 Quadro da secretaria do Tribunal Administrativo do Círculo de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf))](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
 
 MAPA XIII
 
 Quadro dos serviços de apoio do Tribunal Administrativo do Círculo de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf))](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
 
 MAPA XIV
 
 Quadro dos serviços de apoio do Tribunal Administrativo do Círculo do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf))](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
 
 MAPA XV
 
 Quadro dos serviços de apoio do Tribunal Administrativo do Círculo de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf))](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/27700/36143620.pdf)

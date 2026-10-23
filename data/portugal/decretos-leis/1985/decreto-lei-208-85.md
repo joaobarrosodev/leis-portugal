@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14400/17181720.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1985-182012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a50ba94a8fea524a031c4bc752433e6d0f1aac4cf48ed99191aba9d49993695
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ada94e60fcbcfc1159e9f16f8db9e8d1132a23880a5624d4c08dbcc3995087f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cimento
+- Comércio
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:405911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 1 PELO DEC LEI 85/92 DE 07-MAI DR.IS-A [105]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-05-07'
+- type: cites
+  target: pt:dre:171082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405911:por
+  label: "Revogado pelo DEC LEI.139/96.1996.08.16.MEPAT, DR.IS-A [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1996-405911
+  date: '1996-08-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:12Z'
   warnings: []
   errors: []
 ---
@@ -118,24 +163,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os cimentos que têm como componente activo principal o clínquer portland devem satisfazer as condições estabelecidas na norma portuguesa EP-2064 (1983) - Cimentos - Definições, classes de resistência e características.
+Artigo 1.º - 1 - Os cimentos que têm como componente activo principal o clínquer portland devem satisfazer as condições estabelecidas na norma portuguesa EP-2064 (1983) - Cimentos - Definições, classes de resistência e características.
 
 2 - A comercialização dos referidos cimentos deve ser efectuada segundo a disciplina estabelecida pela norma portuguesa NP-2065 (1983) - Cimentos - Condições de fornecimento e recepção.
 
-###### Art. 2.º Em todas as obras que corram total ou parcialmente por conta de organismos da administração central ou local, de institutos públicos autónomos ou de empresas públicas devem ser exclusivamente utilizados, salvo justificação especial devidamente fundamentada, cimentos que disponham da Marca Nacional de Conformidade com as Normas, conferida pela Direcção-Geral da Qualidade nos termos do regulamento aprovado pela [Portaria n.º 50/85](https://diariodarepublica.pt/dr/detalhe/portaria/50-1985-328389), de 25 de Janeiro.
+Art. 2.º Em todas as obras que corram total ou parcialmente por conta de organismos da administração central ou local, de institutos públicos autónomos ou de empresas públicas devem ser exclusivamente utilizados, salvo justificação especial devidamente fundamentada, cimentos que disponham da Marca Nacional de Conformidade com as Normas, conferida pela Direcção-Geral da Qualidade nos termos do regulamento aprovado pela [Portaria n.º 50/85](https://diariodarepublica.pt/dr/detalhe/portaria/50-1985-328389), de 25 de Janeiro.
 
-###### Art. 3.º Durante o prazo de 2 anos a contar da data da publicação do presente diploma, poderão ser produzidos e comercializados cimentos ao abrigo da legislação referida no artigo 4.º, ficando dispensado o cumprimento do disposto no artigo 2.º
+Art. 3.º Durante o prazo de 2 anos a contar da data da publicação do presente diploma, poderão ser produzidos e comercializados cimentos ao abrigo da legislação referida no artigo 4.º, ficando dispensado o cumprimento do disposto no artigo 2.º
 
-###### Art. 4.º Com ressalva do disposto no artigo anterior, são revogados: o [Decreto n.º 20918](https://diariodarepublica.pt/dr/detalhe/decreto/20918-1932-523270), de 20 de Fevereiro de 1932; a parte ainda em vigor do caderno de encargos provisório para o fornecimento e recepção de cimentos especiais, aprovado por despacho do Ministério das Obras Públicas, publicado em 10 de Outubro de 1946; o caderno de encargos para o fornecimento e recepção do cimento portland normal, aprovado pelo [Decreto n.º 40870](https://diariodarepublica.pt/dr/detalhe/decreto/40870-1956-298620), de 22 de Novembro de 1956, com as alterações do [Decreto n.º 41127](https://diariodarepublica.pt/dr/detalhe/decreto/41127-1957-277106), de 24 de Maio de 1957, e de [Portaria n.º 18189](https://diariodarepublica.pt/dr/detalhe/portaria/18189-1961-631617), de 5 de Janeiro de 1961; o caderno de encargos para o fornecimento e recepção do cimento pozolânico normal, aprovado pelo [Decreto n.º 43683](https://diariodarepublica.pt/dr/detalhe/decreto/43683-1961-171082), de 11 de Maio de 1961; o caderno de encargos para o fornecimento e recepção do cimento portland de ferro e do cimento de alto-forno 60/80, aprovado pelo [Decreto n.º 49371](https://diariodarepublica.pt/dr/detalhe/decreto/49371-1969-215766), de 11 de Novembro de 1969, e o [Decreto Regulamentar n.º 4/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1980-678214), de 13 de Março.
+Art. 4.º Com ressalva do disposto no artigo anterior, são revogados: o [Decreto n.º 20918](https://diariodarepublica.pt/dr/detalhe/decreto/20918-1932-523270), de 20 de Fevereiro de 1932; a parte ainda em vigor do caderno de encargos provisório para o fornecimento e recepção de cimentos especiais, aprovado por despacho do Ministério das Obras Públicas, publicado em 10 de Outubro de 1946; o caderno de encargos para o fornecimento e recepção do cimento portland normal, aprovado pelo [Decreto n.º 40870](https://diariodarepublica.pt/dr/detalhe/decreto/40870-1956-298620), de 22 de Novembro de 1956, com as alterações do [Decreto n.º 41127](https://diariodarepublica.pt/dr/detalhe/decreto/41127-1957-277106), de 24 de Maio de 1957, e de [Portaria n.º 18189](https://diariodarepublica.pt/dr/detalhe/portaria/18189-1961-631617), de 5 de Janeiro de 1961; o caderno de encargos para o fornecimento e recepção do cimento pozolânico normal, aprovado pelo [Decreto n.º 43683](https://diariodarepublica.pt/dr/detalhe/decreto/43683-1961-171082), de 11 de Maio de 1961; o caderno de encargos para o fornecimento e recepção do cimento portland de ferro e do cimento de alto-forno 60/80, aprovado pelo [Decreto n.º 49371](https://diariodarepublica.pt/dr/detalhe/decreto/49371-1969-215766), de 11 de Novembro de 1969, e o [Decreto Regulamentar n.º 4/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1980-678214), de 13 de Março.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Veiga Simão - Carlos Montez Melancia.
 
-**Promulgado em 3 de Junho de 1985.**
+Promulgado em 3 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

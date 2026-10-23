@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1983-443297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 833835d7e79aa49679997e892232ba892c00e4596db661d5dd1a13fdcf33b22f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38bf2a7ebb4c654475a12109a7269052bcc4bd3e97cdf4931a495fdf6a05ad65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Sociedades
+- Venda
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:35Z'
   warnings: []
   errors: []
 ---
@@ -91,22 +94,22 @@ O Governo considera inadmissível, quer política, quer juridicamente, que, ante
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Salvo havendo autorização prévia do Ministro das Finanças e do Plano, as vendas ou trocas de acções de sociedades anónimas e em comandita por acções com sede estatutária ou de facto em Portugal efectuadas por meio de oferta pública lançada em país estrangeiro não serão eficazes em Portugal, tanto em relação à sociedade emitente como a terceiros, qualquer que seja a residência dos accionistas alienantes e a nacionalidade do oferente.
+Artigo 1.º Salvo havendo autorização prévia do Ministro das Finanças e do Plano, as vendas ou trocas de acções de sociedades anónimas e em comandita por acções com sede estatutária ou de facto em Portugal efectuadas por meio de oferta pública lançada em país estrangeiro não serão eficazes em Portugal, tanto em relação à sociedade emitente como a terceiros, qualquer que seja a residência dos accionistas alienantes e a nacionalidade do oferente.
 
-###### Art. 2.º As sociedades emitentes das acções que forem objecto de oferta pública não admitida nos termos do artigo anterior devem recusar aos adquirentes o exercício de qualquer direito social, incluindo o direito de voto e, bem assim, o registo das acções, se lhes for requerido.
+Art. 2.º As sociedades emitentes das acções que forem objecto de oferta pública não admitida nos termos do artigo anterior devem recusar aos adquirentes o exercício de qualquer direito social, incluindo o direito de voto e, bem assim, o registo das acções, se lhes for requerido.
 
-###### Art. 3.º As instituições de crédito portuguesas não podem aceitar depósitos de acções adquiridas por meio de oferta pública não admitida nos termos do artigo 1.º
+Art. 3.º As instituições de crédito portuguesas não podem aceitar depósitos de acções adquiridas por meio de oferta pública não admitida nos termos do artigo 1.º
 
-###### Art. 4.º Este decreto-lei entra em vigor no dia da sua publicação.
+Art. 4.º Este decreto-lei entra em vigor no dia da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 29 de Novembro de 1983.**
+Promulgado em 29 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Novembro de 1983.**
+Referendado em 29 de Novembro de 1983.
 
-**O Primeiro-Ministro. Mário Soares.**
+O Primeiro-Ministro. Mário Soares.

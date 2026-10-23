@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 84/1984, 1º Suplemento, Série I de 1984-04-09
   number: '84'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1180-(1) a 1180-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/08401/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-1984-286534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6030cf4acad0c9cfc0f5ce94c59cf4d9685738f1415d9a9c4b6bc0b48689be33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d054ca0bbc6d4153520d0b6b8322b71cbb8253eef71b806f1fe750b7bc9cfaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa
+- Falência
+- Parempresa-Sociedade Parabancária para a Recuperação de Empresas
+- Processo de Execução
+- Saneamento Económico e Financeiro
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:33Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +138,9 @@ Considerando, finalmente, que uma equitativa ponderação dos interesses em pres
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º, a alínea a) do n.º 1 e o n.º 3 do artigo 2.º do [Decreto-Lei n.º 254/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1983-452049), de 15 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º, a alínea a) do n.º 1 e o n.º 3 do artigo 2.º do [Decreto-Lei n.º 254/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1983-452049), de 15 de Junho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Poderão requerer a suspensão de quaisquer execuções ou processos de falência em que sejam demandadas:
+Artigo 1.º - 1 - Poderão requerer a suspensão de quaisquer execuções ou processos de falência em que sejam demandadas:
 
 a) As empresas com acordos de assistência em curso e, bem assim, aquelas cujo processo de acordo de assistência haja já sido admitido pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., nos termos previstos no artigo 4.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, na redacção que lhe foi dada pelo [Decreto-Lei n.º 120/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1983-311459), de 1 de Março;
 
@@ -116,7 +150,7 @@ c) As empresas desintervencionadas que, tendo preenchido as condições prevista
 
 2 - Desde que a empresa junte documento emitido pela PAREMPRESA comprovativo de se encontrar numa das situações previstas no n.º 1 anterior, o tribunal suspenderá os autos, dando conhecimento à PAREMPRESA, e designará como curador da requerente a entidade sua maior credora, para intervir e autorizar todos os actos que não sejam de gestão corrente que envolvam alienação ou oneração de valores patrimoniais da empresa.
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 a) Homologação do contrato pelo juiz do tribunal competente, nos termos do n.º 3 do artigo 15.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, ou dos acordos globais de recuperação celebrados com os credores;
 
@@ -130,16 +164,16 @@ d) ...
 
 3 - A suspensão dos autos não poderá ultrapassar, em caso algum, a data de 30 de Junho de 1984.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos desde 29 de Fevereiro de 1984.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos desde 29 de Fevereiro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 5 de Abril de 1984.**
+Promulgado em 5 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Abril de 1984.**
+Referendado em 6 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

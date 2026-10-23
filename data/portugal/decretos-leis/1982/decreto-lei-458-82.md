@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/27200/39243949.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,250 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 490d8b6fbb72898b9a1839564d4ec2b0c1ef79c2a05a5b733a02824a638c3335
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4be9a9319ec93d3314d9bb0527edbef631ccb6107e0ecb1395dc0ea78e14b036
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Inspecção da Polícia Judiciária
+- Orgânica
+- Polícia Judiciária
+- Promoção Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:661288:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:450775:por
+  label: "Alterado o Quadro de Pessoal da Polícia Judiciária, anexo ao presente diploma, pela PORT.557/83.11.05.1983.MJ, DR.IS\
+    \ [108] de 11.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/557-1983-450775
+  date: '1983-05-11'
+- type: amended_by
+  target: pt:dre:661956:por
+  label: "Alterado o Quadro de Pessoal pela PORT.154/84.1984.03.19.PCM, DR.IS [66] de 19/Mar/1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/154-1984-661956
+  date: '1984-03-19'
+- type: amended_by
+  target: pt:dre:400213:por
+  label: "Aditado o quadro único da Polícia Judiciária e extinta na carreira de pessoal técnico superior de documentação,\
+    \ tradução técnica e interpretação, os lugares aditados ao mapa II anexo ao presente diploma, na redacção da Port 154/84,\
+    \ de 19-Mar, pelo DEC LEI.339/84.22.10.1984.PCM, DR.IS [245] de 22.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1984-400213
+  date: '1984-10-22'
+- type: amended_by
+  target: pt:dre:401031:por
+  label: "Alargado o quadro de pessoal da Polícia Judiciária, na redacção da Portaria 154/84, de 19 de Março, pela PORT.877/84.03.12.1984.PCM,\
+    \ DR.IS [279] de 03.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/877-1984-401031
+  date: '1984-12-03'
+- type: amended_by
+  target: pt:dre:328247:por
+  label: "Alterado o Quadro de Pessoal pela PORT.65/85.1985.02.01.PCM, DR.IS [27] de 1/Fev/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1985-328247
+  date: '1985-02-01'
+- type: amended_by
+  target: pt:dre:183430:por
+  label: "Alterado o n.º 1 do artigo 85º pelo DEC LEI.256/85.15.07.1985.MJ, DR.IS [160] de 15.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-1985-183430
+  date: '1985-07-15'
+- type: amended_by
+  target: pt:dre:181008:por
+  label: "Aumentados lugares ao quadro de pessoal constante do presente diploma, pela PORT.629/85.23.08.1985.PCM, DR.IS [193]\
+    \ de 23.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1985-181008
+  date: '1985-08-23'
+- type: amended_by
+  target: pt:dre:228229:por
+  label: "Alargado o quadro único de pessoal da Polícia Judiciária, aprovado pelo presente diploma, pela PORT.354/86.09.07.1986.MF,\
+    \ DR.IS [155] de 09.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1986-228229
+  date: '1986-07-09'
+- type: amended_by
+  target: pt:dre:227848:por
+  label: "Aumentados lugares ao quadro de pessoal da Polícia Judiciária, aprovado pelo presente diploma, pela PORT.372/86.21.07.1986.MF,\
+    \ DR.IS [165] de 21.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/372-1986-227848
+  date: '1986-07-21'
+- type: amended_by
+  target: pt:dre:218902:por
+  label: "Criado lugares no quadro de pessoal da Polícia Judiciária pelo presente diploma, pela PORT.440/86.13.08.1986.MF,\
+    \ DR.IS [185] de 13.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/440-1986-218902
+  date: '1986-08-13'
+- type: amended_by
+  target: pt:dre:666119:por
+  label: Alterado o quadro de pessoal, a que se referem os arts. 76.º e 91.º, pela PORT.316/87.16.04.1987.MF, DR.IS [89] de
+    16.04.1987, que passa a ser o constante do seu anexo V
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1987-666119
+  date: '1987-04-16'
+- type: amended_by
+  target: pt:dre:421056:por
+  label: "Alterado o quadro único de pessoal aprovado pelo presente diploma, pela PORT.388/87.1987.05.07.MF, DR.IS [104]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/388-1987-421056
+  date: '1987-05-07'
+- type: amended_by
+  target: pt:dre:498728:por
+  label: "Alterado o quadro de pessoal da Polícia Judiciária aprovado pelo presente diploma, posteriormente alterado pelas\
+    \ Port 154/84 de 19-Mar, 65/85 de 01-Fev e 316/87 de 16-Abr, pela PORT.919/87.03.12.1987.MF, DR.IS [278] de 03.12.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/919-1987-498728
+  date: '1987-12-03'
+- type: amended_by
+  target: pt:dre:311218:por
+  label: "Alterados os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 9.º, 10.º, 11.º e 14.º, pelo DEC LEI.387-H/87.30.12.1987.MJ, DR.IS\
+    \ [299]Supl de 30.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-h-1987-311218
+  date: '1987-12-30'
+- type: amended_by
+  target: pt:dre:573688:por
+  label: "Alterado o quadro de pessoal, pela PORT.674/90.16.08.1990.MF, DR.IS [188] de 16.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/674-1990-573688
+  date: '1990-08-16'
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678829:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469211:por
+  label: Rectificado pela DECL.DD2688.1983.01.11.PCM DR.IS [25]Supl de 31/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469211
+  date: '1983-01-11'
+- type: repealed_by
+  target: pt:dre:324492:por
+  label: "Revogado o n.º 3 do artigo 142.º, pelo DEC LEI.129/86.04.06.1986.MJ, DR.IS [127]Supl de 04.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1986-324492
+  date: '1986-06-04'
+- type: repealed_by
+  target: pt:dre:553435:por
+  label: "Revogado, pelo DEC LEI.295-A/90.21.09.1990.MJ, DR.IS [219]Supl de 21.09.1990, bem como todas as disposições referidas\
+    \ no seu artigo 156.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-a-1990-553435
+  date: '1990-09-21'
 article_structure:
   article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:35Z'
   warnings: []
   errors: []
 ---
@@ -1712,11 +1922,11 @@ As disposições do presente decreto-lei relativas a remunerações produzem efe
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 9 de Novembro de 1982.**
+Promulgado em 9 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro único do pessoal da Polícia Judiciária
 
@@ -1724,10 +1934,10 @@ MAPA I
 
 (A que se referem o artigo 76.º e o n.º 1 do artigo 91.º, ambos do Decreto-Lei n.º 458/82, de 24 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/27200/39243949.pdf))](https://files.diariodarepublica.pt/1s/1982/11/27200/39243949.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/27200/39243949.pdf)
 
 MAPA II
 
 (A que se referem o artigo 76.º e o n.º 2 do artigo 91.º, ambos do Decreto-Lei n.º 458/82, de 24 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/27200/39243949.pdf))](https://files.diariodarepublica.pt/1s/1982/11/27200/39243949.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/27200/39243949.pdf)

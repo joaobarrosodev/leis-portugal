@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1985, 4º Suplemento, Série I de 1985-12-30
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4252-(32) a 4252-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30004/00320034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-i-1985-250617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28f67fc85a123c58e59e5d860e148a62db865f16d8749dae98941b459a1ff4f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fbbc815866487dee214159071230da8bde7541465057a2cb0e3e75db8255dcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:468802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O PRAZO ESTABELECIDO NO ART 8, NUM 1 PELO DN 35/87 DR.IS [79] DE 04/ABR/87
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DN 51/87 DR.IS [141] DE 23/JUN/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-06-23'
+- type: cites
+  target: pt:dre:238644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593354:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468802:por
+  label: "Revogado pelo DEC LEI.83/97.1997.04.09.MADRP, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1997-468802
+  date: '1997-04-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:21Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +156,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os detentores de vinhas de castas europeias ou de híbridos produtores directos, qualquer que seja o seu destino, cujo povoamento total ultrapasse 100 pés de videiras, sejam vinhas contínuas, em cordões, bardos, latadas, ramadas, enforcados ou outras formas, terão de efectuar, no prazo de 180 dias, a contar da data da entrada em vigor do presente diploma, uma declaração com indicação discriminada de todas as vinhas de sua propriedade ou de sua exploração, utilizando um impresso de modelo a aprovar por portaria do Ministro da Agricultura, Pescas e Alimentação, a adquirir e a entregar nos serviços das direcções regionais de agricultura (DRA) em cuja área se localizem as vinhas.
+Artigo 1.º - 1 - Os detentores de vinhas de castas europeias ou de híbridos produtores directos, qualquer que seja o seu destino, cujo povoamento total ultrapasse 100 pés de videiras, sejam vinhas contínuas, em cordões, bardos, latadas, ramadas, enforcados ou outras formas, terão de efectuar, no prazo de 180 dias, a contar da data da entrada em vigor do presente diploma, uma declaração com indicação discriminada de todas as vinhas de sua propriedade ou de sua exploração, utilizando um impresso de modelo a aprovar por portaria do Ministro da Agricultura, Pescas e Alimentação, a adquirir e a entregar nos serviços das direcções regionais de agricultura (DRA) em cuja área se localizem as vinhas.
 
 2 - Em relação às regiões demarcadas cujos organismos vinícolas regionais já disponham da generalidade dos elementos a que se refere o número anterior, os referidos organismos e as DRA poderão acordar num modelo e termos de preenchimento a aprovar por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
@@ -124,13 +164,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os detentores de vinhas que não cumpram o disposto nos números anteriores, além da penalidade a que se refere o artigo 12.º, não poderão usufruir dos benefícios relativos a operações de intervenção ou de qualquer outra acção do Estado.
 
-###### Art. 2.º - 1 - Com base nas declarações de vinhas e suas alterações a que se refere o artigo 1.º, as DRA deverão proceder aos devidos apuramentos e actualizações anuais, com vista a conhecer-se regularmente, por freguesia e por proprietário e viticultor, o número de vinhas e videiras, seu destino, área e forma de exploração, bem como outros elementos de interesse, nomeadamente em relação à situação das vinhas quanto à regularidade da plantação do ponto de vista legal.
+Art. 2.º - 1 - Com base nas declarações de vinhas e suas alterações a que se refere o artigo 1.º, as DRA deverão proceder aos devidos apuramentos e actualizações anuais, com vista a conhecer-se regularmente, por freguesia e por proprietário e viticultor, o número de vinhas e videiras, seu destino, área e forma de exploração, bem como outros elementos de interesse, nomeadamente em relação à situação das vinhas quanto à regularidade da plantação do ponto de vista legal.
 
 2 - Em face dos elementos constantes das declarações de vinhas e das regularizações que venham a ser feitas acerca da situação das mesmas nos termos do presente diploma, será fornecido aos declarantes o respectivo cartão de viticultor, que deverá ser revalidado periodicamente e cujo modelo e termos de emissão e revalidação serão objecto de portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 3 - O cartão de viticultor será apresentado ou referenciado em todos os actos relativos quer a vinhas quer ao vinho em que se verifique a intervenção do Estado e dos organismos com acção na matéria, bem como das instituições de crédito em relação a operações de apoio e fomento do sector.
 
-###### Art. 3.º - 1 - Para efeitos deste diploma, consideram-se em situação regular, quanto à sua plantação, as vinhas de castas europeias constantes das declarações referidas no artigo 1.º que se encontrem numa das seguintes condições:
+Art. 3.º - 1 - Para efeitos deste diploma, consideram-se em situação regular, quanto à sua plantação, as vinhas de castas europeias constantes das declarações referidas no artigo 1.º que se encontrem numa das seguintes condições:
 
 a) As plantadas anteriormente à publicação do [Decreto n.º 21086](https://diariodarepublica.pt/dr/detalhe/decreto/21086-1932-524233), de 13 de Abril de 1932;
 
@@ -142,7 +182,7 @@ c) As plantadas ao abrigo da alínea b) do artigo 2.º do [Decreto-Lei n.º 3852
 
 3 - Os proprietários de vinhas nas condições a que se refere a alínea b) do n.º 1 que não possam exibir as licenças ou outros documentos comprovativos da legalidade das plantações poderão solicitar, em requerimento dirigido ao director do Instituto de Gestão e Estruturação Fundiária, a entregar na respectiva DRA, a emissão de uma 2.ª via de tais documentos.
 
-###### Art. 4.º Para efeitos deste diploma, consideram-se em situação irregular:
+Art. 4.º Para efeitos deste diploma, consideram-se em situação irregular:
 
 a) As vinhas que não tenham sido objecto das declarações a que se refere o artigo 1.º;
 
@@ -150,25 +190,25 @@ b) As vinhas que, embora tendo sido objecto das referidas declarações, não se
 
 c) As vinhas de produtores directos.
 
-###### Art. 5.º - 1 - As vinhas de castas europeias que tenham sido objecto das declarações a que se refere o artigo 1.º e que se encontrem em situação irregular poderão ser regularizadas nos termos dos artigos seguintes, a requerimento dos interessados dirigido ao director do Instituto de Gestão e Estruturação Fundiária, a apresentar no prazo de 180 dias nas DRA em cuja área se encontrem as vinhas em causa.
+Art. 5.º - 1 - As vinhas de castas europeias que tenham sido objecto das declarações a que se refere o artigo 1.º e que se encontrem em situação irregular poderão ser regularizadas nos termos dos artigos seguintes, a requerimento dos interessados dirigido ao director do Instituto de Gestão e Estruturação Fundiária, a apresentar no prazo de 180 dias nas DRA em cuja área se encontrem as vinhas em causa.
 
 2 - As vinhas de castas europeias que não venham a ser regularizadas por não constarem das declarações a que se refere o artigo 1.º ou porque, embora constando das referidas declarações, não tenha sido em relação a elas requerida a sua regularização, serão futuramente consideradas ilegais, sendo abrangidas pelo disposto no artigo 10.º
 
 3 - As vinhas de produtores directos deverão, conforme os casos e regiões, ser reconvertidas ou arrancadas nas condições e prazos que forem estabelecidos por portaria do Ministro da Agricultura, Pescas e Alimentação, sem prejuízo da possibilidade de, excepcionalmente, serem mantidas com destino à produção de sumos ou refrigerantes sem álcool ou ainda de vinhos para consumo exclusivo das respectivas casas agrícolas.
 
-###### Art. 6.º - 1 - As vinhas plantadas em terrenos apropriados à cultura e em que tenham sido utilizadas as castas autorizadas legalmente ou aconselhadas pelos serviços oficiais poderão ser regularizadas, mantendo os direitos de reconstituição ou replantação e de transferência ou de substituição.
+Art. 6.º - 1 - As vinhas plantadas em terrenos apropriados à cultura e em que tenham sido utilizadas as castas autorizadas legalmente ou aconselhadas pelos serviços oficiais poderão ser regularizadas, mantendo os direitos de reconstituição ou replantação e de transferência ou de substituição.
 
 2 - As vinhas plantadas em terrenos apropriados à cultura mas em que não tenham sido utilizadas as castas autorizadas legalmente ou aconselhadas pelos serviços oficiais poderão ser regularizadas, mantendo os direitos de reconstituição ou replantação e de transferência ou substituição, sob a condição de nelas serem introduzidas as castas apropriadas no prazo máximo de 8 anos ou arrancadas no mesmo prazo.
 
-###### Art. 7.º - 1 - As vinhas plantadas em áreas vitivinícolas com a finalidade de fixação de terrenos sujeitos a forte assoreamento ou violenta erosão ou ainda em terrenos que, pela sua situação marginal a cursos de água, sejam frequentemente inundados e onde outras culturas não tenham possibilidades económicas de exploração e nas quais tenham sido utilizadas as castas apropriadas poderão ser regularizadas, mantendo os direitos de reconstituição.
+Art. 7.º - 1 - As vinhas plantadas em áreas vitivinícolas com a finalidade de fixação de terrenos sujeitos a forte assoreamento ou violenta erosão ou ainda em terrenos que, pela sua situação marginal a cursos de água, sejam frequentemente inundados e onde outras culturas não tenham possibilidades económicas de exploração e nas quais tenham sido utilizadas as castas apropriadas poderão ser regularizadas, mantendo os direitos de reconstituição.
 
 2 - As vinhas plantadas nos terrenos a que se refere o número anterior e em que não tenham sido utilizadas as castas apropriadas poderão ser regularizadas, mantendo os direitos de reconstituição, sob a condição de nelas serem introduzidas as castas apropriadas no prazo máximo de 8 anos ou arrancadas no mesmo prazo.
 
-###### Art. 8.º - 1 - Os requerimentos para regularização, feitos em papel selado pelos proprietários ou seus legais representantes, acompanhados de cópia em papel comum, dirigidos ao director do Instituto de Gestão e Estruturação Fundiária, deverão dar entrada nas DRA em cujas áreas se situem os prédios no prazo de 180 dias, a contar da entrada em vigor do presente diploma, com possibilidade de prolongamento por mais 90 dias, considerando o disposto no n.º 2 do artigo 9.º
+Art. 8.º - 1 - Os requerimentos para regularização, feitos em papel selado pelos proprietários ou seus legais representantes, acompanhados de cópia em papel comum, dirigidos ao director do Instituto de Gestão e Estruturação Fundiária, deverão dar entrada nas DRA em cujas áreas se situem os prédios no prazo de 180 dias, a contar da entrada em vigor do presente diploma, com possibilidade de prolongamento por mais 90 dias, considerando o disposto no n.º 2 do artigo 9.º
 
 2 - Os requerentes, que deverão ser devidamente identificados com o nome e morada completa, terão também de referenciar a declaração de vinhas a que se refere o n.º 1 do artigo 1.º
 
-###### Art. 9.º - 1 - As vinhas que venham a ser regularizadas ao abrigo do presente diploma ficam sujeitas, por cada pé de videira, ao pagamento das seguintes taxas, as quais dependem do número de cepas que, na globalidade, cada proprietário possuir:
+Art. 9.º - 1 - As vinhas que venham a ser regularizadas ao abrigo do presente diploma ficam sujeitas, por cada pé de videira, ao pagamento das seguintes taxas, as quais dependem do número de cepas que, na globalidade, cada proprietário possuir:
 
 Até 10000 pés - 1$50;
 
@@ -182,7 +222,7 @@ Mais de 60000 pés - 6$00.
 
 2 - No caso de o requerimento a que se refere o n.º 1 do artigo 8.º não respeitar o prazo de 180 dias, a taxa a pagar será de 10$00 por cada pé.
 
-###### Art. 10.º - 1 - As vinhas em situação irregular e cuja regularização não for efectuada, assim como as vinhas que venham a ser plantadas após a entrada em vigor do presente diploma sem a necessária autorização, ficam sujeitas à taxa anual de 20$00 por cada pé, até ao seu arranque.
+Art. 10.º - 1 - As vinhas em situação irregular e cuja regularização não for efectuada, assim como as vinhas que venham a ser plantadas após a entrada em vigor do presente diploma sem a necessária autorização, ficam sujeitas à taxa anual de 20$00 por cada pé, até ao seu arranque.
 
 2 - Em caso de falta de pagamento, proceder-se-á à cobrança coerciva pelo processo de execuções fiscais, servindo de título de execução a participação dos serviços.
 
@@ -190,19 +230,19 @@ Mais de 60000 pés - 6$00.
 
 4 - Os detentores das vinhas referidas no número anterior não poderão, mesmo em relação às vinhas restantes das suas explorações, usufruir dos benefícios relativos a operações de intervenção e de crédito e a qualquer outra acção do Estado.
 
-###### Art. 11.º As plantações de vinhas efectuadas no prazo de validade da respectiva licença com base em autorização de transferência de área de vinha continuarão sujeitas às exigências de arranque das vinhas originárias constantes da respectiva licença.
+Art. 11.º As plantações de vinhas efectuadas no prazo de validade da respectiva licença com base em autorização de transferência de área de vinha continuarão sujeitas às exigências de arranque das vinhas originárias constantes da respectiva licença.
 
-###### Art. 12.º - 1 - A falta de apresentação ou falsidade no preenchimento das declarações de vinhas a que se referem os n.os 1 e 2 do artigo 1.º do presente diploma, bem como a inobservância do estabelecido no n.º 3 do mesmo artigo, constitui contra-ordenação, a qual será punida, desde que se prove o dolo, com a coima anual de 5000$00, enquanto se verificar a ilicitude.
+Art. 12.º - 1 - A falta de apresentação ou falsidade no preenchimento das declarações de vinhas a que se referem os n.os 1 e 2 do artigo 1.º do presente diploma, bem como a inobservância do estabelecido no n.º 3 do mesmo artigo, constitui contra-ordenação, a qual será punida, desde que se prove o dolo, com a coima anual de 5000$00, enquanto se verificar a ilicitude.
 
 2 - No caso de negligência, o montante da coima fixado no número anterior é reduzido a metade e, para a sua punibilidade, é indispensável a verificação de qualquer dos requisitos referidos no artigo 15.º do Código Penal.
 
-###### Art. 13.º Os prazos indicados nos n.os 1 dos artigos 1.º, 5.º e 8.º poderão ser prorrogados por despacho do Ministro da Agricultura, Pescas e Alimentação.
+Art. 13.º Os prazos indicados nos n.os 1 dos artigos 1.º, 5.º e 8.º poderão ser prorrogados por despacho do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 14.º As vinhas regularizadas ao abrigo do presente diploma ficam sujeitas às restrições quanto à concessão do direito a denominações de origem no âmbito da respectiva disciplina regional.
+Art. 14.º As vinhas regularizadas ao abrigo do presente diploma ficam sujeitas às restrições quanto à concessão do direito a denominações de origem no âmbito da respectiva disciplina regional.
 
-###### Art. 15.º Por portaria do Ministro da Agricultura, Pescas e Alimentação serão estabelecidas as disposições que se tornarem necessárias à plena execução do presente diploma.
+Art. 15.º Por portaria do Ministro da Agricultura, Pescas e Alimentação serão estabelecidas as disposições que se tornarem necessárias à plena execução do presente diploma.
 
-###### Art. 16.º São revogadas as seguintes disposições legais:
+Art. 16.º São revogadas as seguintes disposições legais:
 
 a) Os artigos 15.º a 17.º do [Decreto-Lei n.º 38525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38525-1951-593354), de 23 de Novembro de 1951;
 
@@ -210,16 +250,16 @@ b) O artigo 6.º do [Decreto-Lei n.º 46256](https://diariodarepublica.pt/dr/det
 
 c) O artigo 1.º do [Decreto-Lei n.º 513-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-d-1979-393780), de 24 de Dezembro.
 
-###### Art. 17.º Este diploma entra em vigor 60 dias após a sua publicação.
+Art. 17.º Este diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 30 de Dezembro de 1985.**
+Promulgado em 30 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Dezembro de 1985.**
+Referendado em 30 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

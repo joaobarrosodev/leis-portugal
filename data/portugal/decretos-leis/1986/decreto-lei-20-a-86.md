@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 36/1986, 1º Suplemento, Série I de 1986-02-13
   number: '36'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 396-(1) a 396-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/02/03601/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1986-222836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9d5747cea7b7f9a3d36d9a9d049327b93a191e4308bb96db5a20b56161afd6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec9b209b1d9fa07e835a1ccea01757b76558435fc437338c54fa3cbd152355f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ADSE
+- Ajudas de Custo
+- Função Pública
+- Gabinete Governamental
+- Membros do Governo
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Preço de Sangue
+- Pensão de Reforma
+- Remuneração
+- Subsídio de Refeição
 relationships:
 - type: amended_by
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614668:por
+  label: "Mantidos em vigor os nºs 3 e 4 do art. 5º e o nº 1 do art. 12º pelo DEC LEI.98/89.29.03.1989.MF, DR.IS [73] de 29.03.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1989-614668
+  date: '1989-03-29'
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:282877:por
+  label: "Revogado, com excepção dos n.ºs 3 e 4 do artigo 5.º e n.º 1 do artigo 12.º, pelo DEC LEI.26/88.30.01.1988.MF, DR.IS\
+    \ [25] de 30.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1988-282877
+  date: '1988-01-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:31Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +170,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da administração pública central e local e dos organismos de coordenação económica e demais institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos passa a ser, a partir de 1 de Janeiro de 1986, a seguinte:
+Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da administração pública central e local e dos organismos de coordenação económica e demais institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos passa a ser, a partir de 1 de Janeiro de 1986, a seguinte:
 
 A ... 85000$00
 
@@ -149,11 +216,11 @@ U ... 23600$00
 
 2 - O disposto no número anterior é aplicável ao pessoal cujas remunerações são asseguradas pelos Cofres Gerais dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça, mediante despacho do Ministro da Justiça.
 
-###### Art. 2.º - 1 - As remunerações mensais correspondentes a cargos ou funções exercidas a tempo completo, mas que não coincidam com qualquer das letras da tabela constante do n.º 1 do artigo 1.º, são aumentadas, a partir de 1 de Janeiro de 1986, na percentagem de 16,4%, sendo os quantitativos resultantes arredondados por excesso para a centena de escudos.
+Art. 2.º - 1 - As remunerações mensais correspondentes a cargos ou funções exercidas a tempo completo, mas que não coincidam com qualquer das letras da tabela constante do n.º 1 do artigo 1.º, são aumentadas, a partir de 1 de Janeiro de 1986, na percentagem de 16,4%, sendo os quantitativos resultantes arredondados por excesso para a centena de escudos.
 
 2 - A actualização das gratificações previstas nas alíneas b) e c) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, é feita de acordo com a percentagem fixada no número anterior.
 
-###### Art. 3.º - 1 - As remunerações dos aprendizes e praticantes que não estejam incluídas nas letras da tabela constante do n.º 1 do artigo 1.º são fixadas, com efeitos a partir de 1 de Janeiro de 1986, nos termos seguintes:
+Art. 3.º - 1 - As remunerações dos aprendizes e praticantes que não estejam incluídas nas letras da tabela constante do n.º 1 do artigo 1.º são fixadas, com efeitos a partir de 1 de Janeiro de 1986, nos termos seguintes:
 
 1.º ano de aprendizagem ... 17000$00
 
@@ -165,7 +232,7 @@ Praticantes ... 19800$00
 
 2 - A remuneração mensal dos trabalhadores rurais ao serviço das entidades referidas no artigo 1.º será correspondente à letra U, sem prejuízo dos salários correntes na região, quando superiores.
 
-###### Art. 4.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como os dos dirigentes equiparados ao abrigo do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, e da [Resolução n.º 354-B/79](https://diariodarepublica.pt/dr/detalhe/resolucao/354-b-1979-473298), de 14 de Dezembro, passam a ser, com efeitos a partir de 1 de Janeiro de 1986, os seguintes:
+Art. 4.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como os dos dirigentes equiparados ao abrigo do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, e da [Resolução n.º 354-B/79](https://diariodarepublica.pt/dr/detalhe/resolucao/354-b-1979-473298), de 14 de Dezembro, passam a ser, com efeitos a partir de 1 de Janeiro de 1986, os seguintes:
 
 Director-geral, secretário-geral e outros cargos equiparados a director-geral ... 90400$00
 
@@ -187,7 +254,7 @@ Chefe de contabilidade e chefe de exploração do grupo III e restantes ... 5630
 
 Chefe de serviço administrativo do grupo IV e restantes ... 52000$00
 
-###### Art. 5.º - 1 - São aumentadas em 16,4%, com efeitos a partir de 1 de Janeiro de 1986:
+Art. 5.º - 1 - São aumentadas em 16,4%, com efeitos a partir de 1 de Janeiro de 1986:
 
 a) As pensões de aposentação, reforma e invalidez;
 
@@ -205,11 +272,11 @@ c) As pensões de preço de sangue e outras a cargo do Ministério das Finanças
 
 6 - É abolida a taxa de junta médica a que se referem o n.º 1 do artigo 93.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, e o n.º 3 do artigo 50.º do [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março.
 
-###### Art. 6.º A partir de 1 de Janeiro de 1986, o valor das diuturnidades a que se refere o [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, é de 1740$00.
+Art. 6.º A partir de 1 de Janeiro de 1986, o valor das diuturnidades a que se refere o [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, é de 1740$00.
 
-###### Art. 7.º O montante do subsídio de refeição fixado no [Decreto-Lei n.º 40-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1985-300402), de 20 de Fevereiro, é, a partir de 1 de Janeiro de 1986, de 220$00.
+Art. 7.º O montante do subsídio de refeição fixado no [Decreto-Lei n.º 40-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1985-300402), de 20 de Fevereiro, é, a partir de 1 de Janeiro de 1986, de 220$00.
 
-###### Art. 8.º As ajudas de custo previstas no [Decreto-Lei n.º 519-M/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m-1979-510013), de 28 de Dezembro, têm, a partir de 1 de Fevereiro de 1986, os seguintes valores:
+Art. 8.º As ajudas de custo previstas no [Decreto-Lei n.º 519-M/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m-1979-510013), de 28 de Dezembro, têm, a partir de 1 de Fevereiro de 1986, os seguintes valores:
 
 Membros do Governo ... 4830$00
 
@@ -221,7 +288,7 @@ Da letra D à letra H ... 3460$00
 
 Outras ... 3120$00
 
-###### Art. 9.º - 1 - A comparticipação da ADSE em consultas no regime livre é de 460$00 por consulta.
+Art. 9.º - 1 - A comparticipação da ADSE em consultas no regime livre é de 460$00 por consulta.
 
 2 - A comparticipação da ADSE em reembolsos aumenta, em média, por modalidade:
 
@@ -243,7 +310,7 @@ Lares ... 25
 
 3 - O disposto no presente artigo produz efeitos a partir de 1 de Março do corrente ano.
 
-###### Art. 10.º Os vencimentos dos membros das Casas Civil e Militar do Presidente da República e dos gabinetes dos membros do Governo, incluindo o Gabinete do Primeiro-Ministro e os Gabinetes dos Ministros da República para as Regiões Autónomas da Madeira e dos Açores, são, a partir de 1 de Janeiro de 1986, os seguintes:
+Art. 10.º Os vencimentos dos membros das Casas Civil e Militar do Presidente da República e dos gabinetes dos membros do Governo, incluindo o Gabinete do Primeiro-Ministro e os Gabinetes dos Ministros da República para as Regiões Autónomas da Madeira e dos Açores, são, a partir de 1 de Janeiro de 1986, os seguintes:
 
 Chefes das Casas Civil e Militar do Presidente da República e chefes de gabinete ... 90400$00
 
@@ -253,24 +320,24 @@ Adjuntos de gabinete ... 72800$00
 
 Secretários pessoais ... 55200$00
 
-###### Art. 11.º Quando a execução de um diploma legal esteja dependente, em matéria pecuniária, da aprovação de outras medidas legais, o pagamento das remunerações por elas abrangido reporta-se ao início do exercício efectivo de funções.
+Art. 11.º Quando a execução de um diploma legal esteja dependente, em matéria pecuniária, da aprovação de outras medidas legais, o pagamento das remunerações por elas abrangido reporta-se ao início do exercício efectivo de funções.
 
-###### Art. 12.º - 1- É revogado o [Decreto-Lei n.º 40-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1985-300402), de 1 de Fevereiro, com excepção do disposto nos seus artigos 11.º e 13.º a 15.º
+Art. 12.º - 1- É revogado o [Decreto-Lei n.º 40-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1985-300402), de 1 de Fevereiro, com excepção do disposto nos seus artigos 11.º e 13.º a 15.º
 
 2 - Mantém-se em vigor o [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, em tudo o que não contrarie o disposto no presente diploma.
 
-###### Art. 13.º - 1 - Enquanto não entrar em vigor o Orçamento do Estado para 1986, os encargos resultantes do presente diploma poderão ser satisfeitos, no corrente ano, por conta das disponibilidades das dotações orçamentais adequadas, inscritas no Orçamento de 1985, em execução nos termos do art. 15.º da [Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/lei/40-1983-443296), de 13 de Dezembro.
+Art. 13.º - 1 - Enquanto não entrar em vigor o Orçamento do Estado para 1986, os encargos resultantes do presente diploma poderão ser satisfeitos, no corrente ano, por conta das disponibilidades das dotações orçamentais adequadas, inscritas no Orçamento de 1985, em execução nos termos do art. 15.º da [Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/lei/40-1983-443296), de 13 de Dezembro.
 
 2 - O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros em 28 de Janeiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 10 de Fevereiro de 1986.**
+Promulgado em 10 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Fevereiro de 1986.**
+Referendado em 13 de Fevereiro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

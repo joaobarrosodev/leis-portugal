@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10100/11571160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1985-152334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc814d1deb9ddf48c866bed493a8fe175180fb7f2edb569f56f2ab8dc45e45fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 712e9a450d2abebf098808604eea8e64e217868d9b657abe634450ae69b71f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Adopção
+- Assistência Médica
+- Dispensa de Serviço
+- Faltas
+- Função Pública
+- Licença de Trabalho
+- Licença Especial
+- Licença por Maternidade
+- Maternidade
+- Mulher Trabalhadora
+- Paternidade
+- Proteção à Infância
+- Proteção ao Deficiente
+- Protecção à Família
+- Protecção da Maternidade
+- Regime Especial de Prestação de Trabalho
+- Trabalho a Tempo Parcial
 relationships:
 - type: amended_by
   target: pt:dre:228408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:192022:por
+  label: "Alterados os arts. 2.º e 8.º do Dec Lei 167/80, de 29-Mai, na redacção do presente diploma, pelo DEC LEI.9/86.17.01.1986.PCM,\
+    \ DR.IS [14] de 17.01.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-1986-192022
+  date: '1986-01-17'
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684228:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228408:por
+  label: "Revogado pelo DEC LEI.194/96.1996.10.16.PCM, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1996-228408
+  date: '1996-10-16'
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:02Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +154,7 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo, 201.º da Const
 
 ### CAPÍTULO I — Âmbito e aplicação
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito de aplicação pessoal)
 
@@ -113,7 +162,7 @@ O presente diploma regulamenta a [Lei n.º 4/84](https://diariodarepublica.pt/dr
 
 ### CAPÍTULO II — Protecção no trabalho
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Licença por maternidade ou paternidade)
 
@@ -123,7 +172,7 @@ O presente diploma regulamenta a [Lei n.º 4/84](https://diariodarepublica.pt/dr
 
 3 - Nos casos previstos no n.º 2 do artigo 9.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, e no número anterior, a mãe gozará obrigatoriamente 30 dias de licença por maternidade a seguir ao parto, podendo o restante período ser gozado pelo pai.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Licença por adopção)
 
@@ -137,25 +186,25 @@ O presente diploma regulamenta a [Lei n.º 4/84](https://diariodarepublica.pt/dr
 
 5 - Não há lugar à licença prevista neste artigo se a criança a adoptar for filho do cônjuge do trabalhador.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Efeitos das licenças nas férias)
 
 O exercício do direito a licença por maternidade, paternidade ou por adopção suspende o gozo de férias, devendo os restantes dias de férias ser gozados após o termo da licença, mesmo que tal se verifique no ano civil seguinte.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Posse coincidente com as licenças por maternidade, paternidade ou adopção)
 
 Os trabalhadores que devam tomar posse durante o período de licença por maternidade, paternidade ou adopção fá-lo-ão quando esta terminar, produzindo aquela todos os efeitos, designadamente no que respeita ao vencimento e antiguidade, a partir da data da publicação do respectivo despacho de nomeação.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Efeitos das licenças em estágios e cursos de formação)
 
 O exercício do direito à licença por maternidade, paternidade ou adopção não prejudica o tempo de estágios, internatos ou cursos de formação já realizados ou frequentados, sem prejuízo do cumprimento, pelos trabalhadores, do tempo em falta para completar os estágios, internatos ou cursos de formação.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Efeitos das licenças)
 
@@ -163,7 +212,7 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 2 - Durante as licenças referidas no número anterior o trabalhador tem direito à remuneração por inteiro.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Dispensas para consultas)
 
@@ -171,7 +220,7 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 2 - Quando a consulta só for possível dentro do horário de funcionamento do serviço ou organismo, pode ser exigida à trabalhadora a apresentação de documento comprovativo dessa circunstância e da realização da consulta ou declaração sob compromisso de honra dos mesmos factos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Dispensas para amamentação)
 
@@ -179,7 +228,7 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 2 - Para o exercício do direito de ser dispensada para amamentação, a trabalhadora deverá apresentar ao respectivo dirigente declaração, sob compromisso de honra, de que amamenta o filho.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Faltas para assistência a menores doentes e à família)
 
@@ -189,7 +238,7 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 3 - As faltas para assistência a familiares previstas no artigo 23.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, são equiparadas, para todos os efeitos, às faltas por doença do próprio.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Justificação e controle das faltas para assistência a menores e à família)
 
@@ -199,7 +248,7 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 3 - O atestado médico referido no número anterior deve ser entregue com uma declaração do trabalhador da qual conste que é ele o familiar em melhores condições para a prestação do acompanhamento ou assistência e a indicação da sua ligação familiar com o doente.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Licença especial para assistência a filhos)
 
@@ -211,7 +260,7 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 4 - Nas situações previstas no artigo 4.º do presente diploma, a licença especial iniciar-se-á imediatamente após o termo do gozo das férias.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Exercício do direito à licença especial)
 
@@ -233,7 +282,7 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 9 - A licença especial não pode ser interrompida por conveniência da Administração.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Incompatibilidades)
 
@@ -241,7 +290,7 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 2 - Presume-se incompatível, para os efeitos do número anterior, sem admissão de prova em contrário, qualquer forma de prestação de trabalho subordinado ou de prestação continuada de serviços quando esta ocorra fora do agregado familiar.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Efeitos da licença especial)
 
@@ -253,19 +302,19 @@ O exercício do direito à licença por maternidade, paternidade ou adopção n�
 
 4 - Quando se tratar de trabalhadores contratados, o gozo da licença especial não prejudica a caducidade do respectivo contrato no termo deste.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Regresso do trabalhador)
 
 1 - Terminado o período de licença especial, ficam restabelecidos todos os direitos e deveres emergentes da relação de emprego público.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Provimento interino)
 
 Quando a licença especial for gozada por funcionários do quadro, podem os respectivos lugares ser preenchidos interinamente enquanto durar aquela situação.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Trabalho a meio tempo)
 
@@ -273,13 +322,13 @@ Quando a licença especial for gozada por funcionários do quadro, podem os resp
 
 2 - A decisão do membro do Governo competente sobre o requerimento a que alude o n.º 1 do artigo 8.º do [Decreto-Lei n.º 167/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1980-474568), de 29 de Maio, será obrigatoriamente proferida até 20 dias após a sua entrega no respectivo serviço, presumindo-se, na sua falta, o deferimento do mesmo nos seus precisos termos.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Flexibilidade de horário)
 
 Aos trabalhadores com filhos, adoptandos, adoptados ou enteados a cargo que tenham idade inferior a 12 anos ou que sejam deficientes e que se encontrem em alguma das situações previstas no artigo 5.º do [Decreto-Lei n.º 170/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1980-474564), de 29 de Maio, devem os serviços e organismos fixar, a requerimento daqueles, sem prejuízo do cumprimento da duração semanal do trabalho e com observância dos princípios previstos na lei geral, horários com a necessária flexibilidade e ajustados, na medida do possível, ao acompanhamento dos mesmos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Dispensas)
 
@@ -287,7 +336,7 @@ Aos trabalhadores com filhos, adoptandos, adoptados ou enteados a cargo que tenh
 
 2 - A dispensa referida no número anterior, se gozada cumulativamente com as dispensas concedidas ao abrigo do regime do trabalhador-estudante, não poderá exceder o valor global de 6 e 8 horas, consoante o trabalhador esteja sujeito ao cumprimento da duração semanal de 36 horas ou superior.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Condições para a atribuição das facilidades de horário)
 
@@ -295,13 +344,13 @@ Aos trabalhadores com filhos, adoptandos, adoptados ou enteados a cargo que tenh
 
 2 - Sempre que o número das pretensões para a utilização das facilidades de horários se revelar manifesta e comprovadamente comprometedor do normal funcionamento dos serviços ou organismos, fixar-se-á pelo processo previsto no n.º 1 deste artigo o número e condições em que serão deferidas as pretensões apresentadas.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Trabalhos proibidos e condicionados)
 
 Enquanto não for definido novo regime, aplica-se às trabalhadoras abrangidas pelo artigo 1.º do presente diploma o disposto na [Portaria n.º 186/73](https://diariodarepublica.pt/dr/detalhe/portaria/186-1973-684228), de 13 de Março.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Garantia dos direitos)
 
@@ -311,7 +360,7 @@ Enquanto não for definido novo regime, aplica-se às trabalhadoras abrangidas p
 
 ### CAPÍTULO III — Disposições finais
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Normas revogadas e derrogadas)
 
@@ -325,12 +374,12 @@ b) A alínea a) do artigo 2.º do [Decreto-Lei n.º 167/80](https://diariodarepu
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos.
 
-**Promulgado em 22 de Março de 1985.**
+Promulgado em 22 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Março de 1985.**
+Referendado em 25 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

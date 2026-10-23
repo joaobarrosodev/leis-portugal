@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09000/10571060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1985-324319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3225fb94ec723ed9eb8fe6ee8f11cd9715e7882133c98b0a580f110bf92b6505
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36640cca5e9d621a6715565bf446f35b7ab068cac6dc2a68ef8e70cdc99ff5ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo do Trabalho
+- Comissão de Conciliação e Julgamento
+- Contrato de Trabalho
+- Definição de Competências
+- Direito do Trabalho
+- Extinção de Serviços
+- Gestão do Património
+- Integração de Trabalhadores
+- Ministério do Trabalho e Segurança Social
+- Prescrição da Acção
+- Processo Laboral
+- Relações de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:37Z'
   warnings: []
   errors: []
 ---
@@ -116,13 +157,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Extinção das CCJ)
 
 São extintas as comissões de conciliação e julgamento (CCJ), criadas pelo [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Processos pendentes)
 
@@ -130,7 +171,7 @@ São extintas as comissões de conciliação e julgamento (CCJ), criadas pelo [D
 
 2 - As notificações aos requerentes, para os efeitos que emergem do disposto na parte final do número anterior, terão de ser efectuadas dentro do prazo de 30 dias contados a partir da data da entrada em vigor do presente diploma.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Encerramento e prestação de contas)
 
@@ -140,19 +181,19 @@ São extintas as comissões de conciliação e julgamento (CCJ), criadas pelo [D
 
 3 - A comissão administrativa do fundo comum, nos 30 dias posteriores ao termo do prazo fixado no n.º 1, transferirá para os cofres do Estado o saldo da respectiva conta.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Fundo comum das comissões de conciliação e julgamento)
 
 A verba orçamental destinada ao fundo comum integrará o orçamento do Ministério do Trabalho e Segurança Social.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Destino do património)
 
 O património das comissões de conciliação e julgamento, nomeadamente os direitos decorrentes dos contratos de arrendamento celebrados, é transferido para a titularidade do Ministério do Trabalho e Segurança Social, cabendo à Secretaria-Geral fazer a respectiva gestão e determinar o seu destino, elaborando para o efeito um plano de acção que, no prazo de 90 dias, em colaboração com a Direcção-Geral do Património do Estado, submeterá a despacho do Ministro do Trabalho e Segurança Social.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Destino dos arquivos, livros e documentos)
 
@@ -160,7 +201,7 @@ O património das comissões de conciliação e julgamento, nomeadamente os dire
 
 2 - Os livros e demais documentos referentes às contas de cada secretaria distrital das comissões de conciliação e julgamento, bem como as do fundo comum, transitam para o serviço competente da Secretaria-Geral do Ministério do Trabalho e Segurança Social.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Pessoal requisitado ou destacado)
 
@@ -168,7 +209,7 @@ O património das comissões de conciliação e julgamento, nomeadamente os dire
 
 2 - O pessoal referido no número anterior que se mostre necessário para os efeitos dos artigos 2.º, 3.º e 6.º deverá apresentar-se nos serviços de que é originário no prazo máximo de 30 ou 60 dias, conforme preste serviço nas secretarias distritais ou no fundo comum.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Pessoal contratado nas comissões de conciliação e julgamento)
 
@@ -176,7 +217,7 @@ O património das comissões de conciliação e julgamento, nomeadamente os dire
 
 2 - O disposto no número anterior é ainda aplicável aos presidentes das comissões de conciliação e julgamento, nas demais condições referidas no n.º 1, mesmo que a respectiva actividade seja exercida em regime de tempo parcial, se completar o horário próprio da função pública com o exercício de outras funções prestadas ao Estado.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Remunerações)
 
@@ -184,19 +225,19 @@ O património das comissões de conciliação e julgamento, nomeadamente os dire
 
 2 - Sempre que, por força do número anterior, o vencimento a atribuir seja superior ao vencimento líquido correspondente à letra que lhe caiba conforme o mapa anexo, a diferença será absorvida em futuros aumentos ou promoções.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Carreiras e categorias de transição)
 
 O pessoal transita para os lugares dos quadros do Ministério do Trabalho e Segurança Social de acordo com o mapa anexo.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Dependência e formas de colocação)
 
 O pessoal referido no artigo anterior ficará dependente da Secretaria-Geral do Ministério do Trabalho e Segurança Social e será colocado, no prazo de 60 dias, por despacho do Ministro do Trabalho e Segurança Social ou do secretário-geral do Ministério do Trabalho e Segurança Social, consoante se trate dos presidentes ou do restante pessoal.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Alargamento de quadros)
 
@@ -204,7 +245,7 @@ O pessoal referido no artigo anterior ficará dependente da Secretaria-Geral do 
 
 2 - Os lugares criados pelas portarias previstas no número anterior deverão ser extintos quando vagarem.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Contagem de tempo)
 
@@ -212,13 +253,13 @@ O pessoal referido no artigo anterior ficará dependente da Secretaria-Geral do 
 
 2 - O Instituto de Gestão Financeira da Segurança Social assumirá a responsabilidade pelo encargo com a parcela de aposentação e de pensão de sobrevivência resultante da consideração do tempo de serviço referido no número anterior, bem como das diuturnidades que do mesmo resultem.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Quota de descongelamento do Ministério do Trabalho e Segurança Social em 1985)
 
 O número de indivíduos integrados na função pública por força do presente decreto-lei será descontado na quota a atribuir no ano de 1985 ao Ministério do Trabalho e Segurança Social, nos termos dos artigos 12.º e 13.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 13 de Fevereiro.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Norma revogatória)
 
@@ -230,7 +271,7 @@ b) A [Portaria n.º 280/76](https://diariodarepublica.pt/dr/detalhe/portaria/280
 
 c) O artigo 49.º do Código do Processo do Trabalho, aprovado pelo [Decreto-Lei n.º 272-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-a-1981-329610), de 30 de Setembro.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Vigência)
 
@@ -238,16 +279,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Alípio Barrosa Pereira Dias - Amândio Anes de Azevedo.
 
-**Promulgado em 8 de Abril de 1985.**
+Promulgado em 8 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Abril de 1985.**
+Referendado em 8 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa a que se referem os artigos 8.º e 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/09000/10571060.pdf))](https://files.diariodarepublica.pt/1s/1985/04/09000/10571060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09000/10571060.pdf)

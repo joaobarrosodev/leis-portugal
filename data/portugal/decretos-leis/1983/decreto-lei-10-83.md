@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01300/00880091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1983-308169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 130ac75e91ea6728c9a735b98f036c0d53fe0af8bc5e735e4bb59762b39cddf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d23fa867c90b55bf5d77f85226b26b9133dd89d22ac698679205f536bf44e24e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Aviação Civil
+- Comissão Aeroportuária Fal-sec
+- Comissão Nacional Fal-sec
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Aviação Civil
+- Diretor Geral
+- Extinção de Serviços
+- Pessoal Dirigente
+- Segurança Aérea
+- Tráfego Aéreo
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:459439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685591:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:459439:por
+  label: "Revogado o art. 14º pelo DEC LEI.102/91.08.03.1991.MAI, DR.IS-A [56]] de 08.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1991-459439
+  date: '1991-03-08'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 134/95 DE 09-JUN DR.IS-A [134]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:04Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +143,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Sistema de facilitação e de segurança)
 
@@ -116,7 +151,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - O director-geral designará para o coadjuvar no desempenho da competência estabelecida no número anterior um funcionário da DGAC com funções de inspecção da facilitação e de segurança, cabendo-lhe, nomeadamente, promover, orientar e fiscalizar o estabelecimento das normas, recomendações e procedimentos aprovados e os métodos da sua aplicação.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Comissão Nacional de Facilitação e de Segurança)
 
@@ -124,7 +159,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - A Comissão referida no número anterior é um órgão consultivo do director-geral da Aviação Civil nos domínios da racionalização e eficiência da exploração aeroportuária (facilitação) e da prevenção de actos ilícitos contra a aviação civil (segurança).
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Constituição)
 
@@ -166,7 +201,7 @@ o) 1 representante permanente da Associação dos Pilotos Portugueses de Linha A
 
 5 - Sempre que se mostre conveniente, a Comissão poderá propor ao director-geral da Aviação Civil a representação ou colaboração de outros serviços ou entidades públicas ou privadas nela não representadas.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência)
 
@@ -190,7 +225,7 @@ h) Estudar e propor os critérios gerais de facilitação e de segurança a apli
 
 i) Dar parecer sobre qualquer assunto que, no âmbito das suas atribuições, lhe seja submetido.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Regulamento e funcionamento)
 
@@ -204,7 +239,7 @@ i) Dar parecer sobre qualquer assunto que, no âmbito das suas atribuições, lh
 
 5 - O funcionamento e o expediente da Comissão são assegurados pela Direcção-Geral da Aviação Civil.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Comissões aeroportuárias)
 
@@ -212,7 +247,7 @@ i) Dar parecer sobre qualquer assunto que, no âmbito das suas atribuições, lh
 
 2 - A comissão referida no número anterior é o órgão que define e orienta, no respectivo aeroporto, as condições de aplicação das normas, recomendações e procedimentos estabelecidos.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Constituição)
 
@@ -248,7 +283,7 @@ m) 1 representante permanente da Associação dos Pilotos Portugueses de Linha A
 
 4 - Sempre que se mostre conveniente, a comissão poderá propor ao director do aeroporto a representação ou a colaboração de outros serviços ou entidades públicas ou privadas nela não representados.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Competência)
 
@@ -264,7 +299,7 @@ d) Dar parecer, no âmbito da facilitação e da segurança, sobre os projectos 
 
 e) Pronunciar-se sobre qualquer assunto que lhe seja submetido no âmbito das suas atribuições;
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Regulamento e funcionamento)
 
@@ -274,7 +309,7 @@ e) Pronunciar-se sobre qualquer assunto que lhe seja submetido no âmbito das su
 
 3 - As decisões das comissões tomadas com a oposição das entidades directamente interessadas na matéria em causa deverão ser postas à consideração da Comissão Nacional FAL/SEC.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Agentes da DGAC)
 
@@ -282,7 +317,7 @@ e) Pronunciar-se sobre qualquer assunto que lhe seja submetido no âmbito das su
 
 2 - Os referidos presidentes deverão informar a DGAC, através do funcionário referido no n.º 2 do artigo 1.º, sobre o estado de aplicação no respectivo aeroporto das normas, recomendações e procedimentos em vigor.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Planos de segurança aeroportuários)
 
@@ -298,19 +333,19 @@ b) Estabelecer o comando e supervisão do conjunto das acções respeitantes às
 
 4 - Os planos referidos no n.º 1 deste artigo são aprovados por despacho conjunto do director-geral da Aviação Civil e do comandante-geral da Polícia de Segurança Pública.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Comissões de facilitação e de segurança)
 
 São extintas as comissões de facilitação e de segurança criadas pelos Decretos-Leis n.os [551/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/551-1975-312189), de 30 de Setembro e [575/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1975-311622), de 6 de Outubro.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Encargos com a facilitação)
 
 São da responsabilidade das administrações dos aeroportos os encargos inerentes à facilitação.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Encargos com a segurança)
 
@@ -324,8 +359,8 @@ São da responsabilidade das administrações dos aeroportos os encargos inerent
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1982. - Diogo Pinto de Freitas do Amaral - José Ângelo Ferreira Correia - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 5 de Janeiro de 1982.**
+Promulgado em 5 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 178/1985, 1º Suplemento, Série I de 1985-08-05
   number: '178'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2376-(1) a 2376-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/17801/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1985-283919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89c0a71e5cd5cf0e787f4b2f973653b45f23e12a26d18f51ff3376dc03bcfec3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4177a59a2633e07bd8ff5bbb74464d88a181da502ceadfdde0500bbdf9734631
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Obrigações do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:241404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371595:por
+  label: "Alterados os arts. 3º, 4º, 6º, 7º, 9º e 11º pelo DEC LEI.218/88.27.06.1988.MF, DR.IS [146] de 27.06.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1988-371595
+  date: '1988-06-27'
+- type: amended_by
+  target: pt:dre:229924:por
+  label: Alterada a redacção dos arts. 2.º e 4.º pelo(a) Decreto-Lei n.º 444-A/88 - Diário da República n.º 278/1988, 1º Suplemento,
+    Série I de 1988-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-a-1988-229924
+  date: '1988-12-02'
+- type: amended_by
+  target: pt:dre:182840:por
+  label: Alterado o art. 3º do presente diploma, na redação do Dec Lei 218/88 de 27-jun, pelo DEC LEI.132/90.20.04.1990.MF,
+    DR.IS [92-Supl] de 20.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1990-182840
+  date: '1990-04-20'
+- type: cites
+  target: pt:dre:460585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692064:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241404:por
+  label: "Revogado pelo DEC LEI.279/98.1998.09.17.MF, DR.IS-B [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-1998-241404
+  date: '1998-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:03Z'
   warnings: []
   errors: []
 ---
@@ -105,29 +144,29 @@ Assim:
 
 Usando da faculdade conferida pela [Lei n.º 20/85](https://diariodarepublica.pt/dr/detalhe/lei/20-1985-692064), de 26 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É autorizado o Ministro das Finanças e do Plano a recorrer à emissão de dívida pública de curto prazo representada por bilhetes do Tesouro.
+Artigo 1.º - 1 - É autorizado o Ministro das Finanças e do Plano a recorrer à emissão de dívida pública de curto prazo representada por bilhetes do Tesouro.
 
 2 - Não haverá emissões de montante inferior a 1 milhão de contos nem bilhetes do Tesouro de valor inferior ao fixado em circular do Banco de Portugal.
 
-###### Art. 2.º - 1 - Os bilhetes do Tesouro serão emitidos pelos prazos de 91, 182 e 364 dias, sendo as respectivas taxas médias de juro anuais, bem como o limite máximo de emissão objecto de acordo entre o Ministério das Finanças e do Plano, através da Direcção-Geral do Tesouro, e o Banco de Portugal.
+Art. 2.º - 1 - Os bilhetes do Tesouro serão emitidos pelos prazos de 91, 182 e 364 dias, sendo as respectivas taxas médias de juro anuais, bem como o limite máximo de emissão objecto de acordo entre o Ministério das Finanças e do Plano, através da Direcção-Geral do Tesouro, e o Banco de Portugal.
 
 2 - Os acordos mencionados no número anterior podem ser revistos sempre que as condições do mercado ou os objectivos da política monetária o aconselhem.
 
-###### Art. 3.º - 1 - A colocação dos bilhetes do Tesouro efectua-se, sem emissão física de títulos, no mercado monetário e através do Banco de Portugal, que agirá em representação do Estado.
+Art. 3.º - 1 - A colocação dos bilhetes do Tesouro efectua-se, sem emissão física de títulos, no mercado monetário e através do Banco de Portugal, que agirá em representação do Estado.
 
 2 - Têm acesso directo à emissão as instituições de crédito e bem assim as instituições financeiras devidamente autorizadas pelo Banco de Portugal a subscrever bilhetes do Tesouro, por conta própria ou de terceiros.
 
 3 - O Banco de Portugal poderá também autorizar outras entidades especializadas a exercer a actividade de intermediários no mercado secundário de bilhetes do Tesouro.
 
-###### Art. 4.º - 1 - As propostas de compra de bilhetes do Tesouro devem ser apresentadas ao Banco de Portugal, nos termos que este fixar, antes do início de cada sessão do respectivo mercado.
+Art. 4.º - 1 - As propostas de compra de bilhetes do Tesouro devem ser apresentadas ao Banco de Portugal, nos termos que este fixar, antes do início de cada sessão do respectivo mercado.
 
 2 - A parte de cada emissão que não for subscrita pelas instituições mencionadas no número precedente será tornada firme pelo Banco de Portugal.
 
-###### Art. 5.º Os juros correspondentes às operações mencionadas no artigo 4.º são pagos por dedução no valor nominal dos bilhetes do Tesouro.
+Art. 5.º Os juros correspondentes às operações mencionadas no artigo 4.º são pagos por dedução no valor nominal dos bilhetes do Tesouro.
 
-###### Art. 6.º Os bilhetes do Tesouro podem ser transaccionados no mercado monetário pelas instituições referidas no artigo 3.º, n.º 2, bem como pelo Banco de Portugal.
+Art. 6.º Os bilhetes do Tesouro podem ser transaccionados no mercado monetário pelas instituições referidas no artigo 3.º, n.º 2, bem como pelo Banco de Portugal.
 
-###### Art. 7.º - 1 - As instituições que hajam subscrito bilhetes do Tesouro, além de os poderem transaccionar entre si, podem colocá-los junto do público mediante a emissão de certificados nominativos, de modelo a aprovar pelo Banco de Portugal.
+Art. 7.º - 1 - As instituições que hajam subscrito bilhetes do Tesouro, além de os poderem transaccionar entre si, podem colocá-los junto do público mediante a emissão de certificados nominativos, de modelo a aprovar pelo Banco de Portugal.
 
 2 - Para efeitos da compra de bilhetes do Tesouro por parte do público, a mobilização antecipada de depósitos a prazo constituídos antes da entrada em vigor do presente diploma não terá qualquer penalização, aplicando-se a taxa de juros respectiva ao período de duração do depósito.
 
@@ -135,9 +174,9 @@ Usando da faculdade conferida pela [Lei n.º 20/85](https://diariodarepublica.pt
 
 4 - Os detentores de bilhetes do Tesouro poderão transaccioná-los entre si através das entidades referidas nos n.os 2 e 3 do artigo 3.º
 
-###### Art. 8.º A movimentação e a contabilização dos bilhetes do Tesouro devem efectuar-se de forma meramente escritural.
+Art. 8.º A movimentação e a contabilização dos bilhetes do Tesouro devem efectuar-se de forma meramente escritural.
 
-###### Art. 9.º - 1 - Os bilhetes do Tesouro poderão, mediante acordo entre as partes, ser automaticamente substituídos por outros de valor nominal e prazo idênticos.
+Art. 9.º - 1 - Os bilhetes do Tesouro poderão, mediante acordo entre as partes, ser automaticamente substituídos por outros de valor nominal e prazo idênticos.
 
 2 - O portador dos certificados de bilhetes do Tesouro pode, até à data do vencimento dos mesmos, rescindir o acordo referido no número anterior.
 
@@ -145,9 +184,9 @@ Usando da faculdade conferida pela [Lei n.º 20/85](https://diariodarepublica.pt
 
 4 - A diferença entre o valor nominal dos bilhetes do Tesouro e o preço referido no número anterior deve ser creditada a favor do titular dos certificados.
 
-###### Art. 10.º Os títulos da dívida pública na posse do Banco de Portugal podem ser utilizados pelo respectivo valor nominal para subscrever bilhetes do Tesouro, nos termos e condições que forem estabelecidos por despacho do Ministro das Finanças e do Plano.
+Art. 10.º Os títulos da dívida pública na posse do Banco de Portugal podem ser utilizados pelo respectivo valor nominal para subscrever bilhetes do Tesouro, nos termos e condições que forem estabelecidos por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 11.º - 1 - O reembolso dos bilhetes do Tesouro será efectuado pelo valor nominal, no seu vencimento, pelas instituições que os hajam colocado junto do público.
+Art. 11.º - 1 - O reembolso dos bilhetes do Tesouro será efectuado pelo valor nominal, no seu vencimento, pelas instituições que os hajam colocado junto do público.
 
 2 - O reembolso dos bilhetes do Tesouro na posse das instituições com acesso ao mercado primário será efectuado pelo valor nominal, no seu vencimento, pelo Banco de Portugal como caixa geral do Tesouro.
 
@@ -155,32 +194,32 @@ Usando da faculdade conferida pela [Lei n.º 20/85](https://diariodarepublica.pt
 
 4 - A Direcção-Geral do Tesouro fica desde já autorizada a emitir as necessárias ordens incertas de operações de tesouraria, para efeitos deste decreto-lei, e a criar as rubricas necessárias, dando deste facto conhecimento à Direcção-Geral da Contabilidade Pública.
 
-###### Art. 12.º Os bilhetes do Tesouro não carecem de inscrição, registo ou assentamento e gozam dos privilégios e garantias reconhecidos aos restantes títulos da dívida pública.
+Art. 12.º Os bilhetes do Tesouro não carecem de inscrição, registo ou assentamento e gozam dos privilégios e garantias reconhecidos aos restantes títulos da dívida pública.
 
-###### Art. 13.º Os bilhetes do Tesouro gozam ainda da garantia de reembolso integral pelo valor nominal, a partir da data do vencimento, por força das receitas gerais do Estado e da isenção de todos os impostos, incluindo o imposto sobre as sucessões e doações.
+Art. 13.º Os bilhetes do Tesouro gozam ainda da garantia de reembolso integral pelo valor nominal, a partir da data do vencimento, por força das receitas gerais do Estado e da isenção de todos os impostos, incluindo o imposto sobre as sucessões e doações.
 
-###### Art. 14.º - 1 - Compete à Direcção-Geral do Tesouro o serviço da dívida pública constituída nos termos do presente diploma, sem prejuízo de serem cometidas a instituições de crédito ou a outras entidades funções administrativas ligadas à emissão ou ao serviço de operações de bilhetes do Tesouro, para além do previsto nas disposições precedentes.
+Art. 14.º - 1 - Compete à Direcção-Geral do Tesouro o serviço da dívida pública constituída nos termos do presente diploma, sem prejuízo de serem cometidas a instituições de crédito ou a outras entidades funções administrativas ligadas à emissão ou ao serviço de operações de bilhetes do Tesouro, para além do previsto nas disposições precedentes.
 
 2 - O controle e a gestão da mesma dívida pública em ligação com a política monetária é centralizada pelo Banco de Portugal, competindo a este ainda publicar as estatísticas e as cotações das emissões e transacções dos bilhetes do Tesouro e, bem assim, emitir as instruções que se mostrem necessárias ao funcionamento do respectivo mercado.
 
 3 - Para efeitos do n.º 1, o Banco de Portugal prestará todas as informações necessárias à Direcção-Geral do Tesouro, que poderá, além disso, fazer-se representar nas sessões de abertura e adjudicação de propostas.
 
-###### Art. 15.º Serão inscritas no Orçamento do Estado as verbas indispensáveis para ocorrer ao serviço da dívida pública regulada pelo presente diploma.
+Art. 15.º Serão inscritas no Orçamento do Estado as verbas indispensáveis para ocorrer ao serviço da dívida pública regulada pelo presente diploma.
 
-###### Art. 16.º Em tudo o que não se mostrar contrariado pela sua natureza aplica-se aos bilhetes do Tesouro, subsidiariamente, o regime jurídico dos títulos da dívida pública.
+Art. 16.º Em tudo o que não se mostrar contrariado pela sua natureza aplica-se aos bilhetes do Tesouro, subsidiariamente, o regime jurídico dos títulos da dívida pública.
 
-###### Art. 17.º São revogados o [Decreto-Lei n.º 361/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1980-464021), de 9 de Setembro, e o [Despacho Normativo n.º 308/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/308-1980-460585), publicado em 22 de Setembro de 1980 e alterado pelo [Despacho Normativo n.º 8/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-1983-540814), publicado em 7 de Janeiro de 1983.
+Art. 17.º São revogados o [Decreto-Lei n.º 361/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1980-464021), de 9 de Setembro, e o [Despacho Normativo n.º 308/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/308-1980-460585), publicado em 22 de Setembro de 1980 e alterado pelo [Despacho Normativo n.º 8/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-1983-540814), publicado em 7 de Janeiro de 1983.
 
-###### Art. 18.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 18.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 3 de Agosto de 1985.**
+Promulgado em 3 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Agosto de 1985.**
+Referendado em 3 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

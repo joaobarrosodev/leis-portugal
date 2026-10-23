@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 257/1982, 1º Suplemento, Série I de 1982-11-06
   number: '257'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3742-(5) a 3742-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25701/00050005.pdf
 entry_into_force_dates: []
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-b-1982-444201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a97f48bad1624a7f2c54287af7890edbf4a5053bf8cf13183359d8e3e5a8f897
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34038f6cbc86e0b1b851a48198b51fbd4aeab95c9918285ae74b9e9d0f18758c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto de Santa Catarina
+- Gabinete do Aeroporto de Santa Catarina
+- Madeira.região Autónoma
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:207059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:20Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +117,22 @@ Nestes termos:
 
 Ouvidos, nos termos constitucionais e legais, os órgãos do Governo da Região Autónoma da Madeira, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São transmitidas para o Gabinete do Aeroporto de Santa Catarina as posições contratuais assumidas pela Região Autónoma da Madeira em relação ao empreendimento da infra-estrutura aeroportuária de Santa Catarina.
+Artigo 1.º - 1 - São transmitidas para o Gabinete do Aeroporto de Santa Catarina as posições contratuais assumidas pela Região Autónoma da Madeira em relação ao empreendimento da infra-estrutura aeroportuária de Santa Catarina.
 
 2 - As liquidações de despesas já efectuadas pela Região Autónoma da Madeira no cumprimento de obrigações decorrentes das posições contratuais referidas no número anterior serão suportadas pelo Gabinete do Aeroporto de Santa Catarina, desde que tais liquidações tenham ocorrido após o dia 11 de Janeiro de 1982.
 
-###### Art. 2.º - 1 - Entendem-se como feitas ao Gabinete do Aeroporto de Santa Catarina todas as referências aos órgãos regionais, designadamente a qualidade de entidade expropriante, contidas nos Decretos-Leis n.os [271/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1979-381482), de 3 de Agosto, [146-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-d-1980-207059), de 22 de Maio, e [531/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1980-457575), de 5 de Novembro, em matéria de expropriação dos imóveis necessários quer às obras de ampliação do Aeroporto de Santa Catarina, quer ao realojamento das famílias desalojadas em consequência daquele processo expropriativo.
+Art. 2.º - 1 - Entendem-se como feitas ao Gabinete do Aeroporto de Santa Catarina todas as referências aos órgãos regionais, designadamente a qualidade de entidade expropriante, contidas nos Decretos-Leis n.os [271/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1979-381482), de 3 de Agosto, [146-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-d-1980-207059), de 22 de Maio, e [531/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1980-457575), de 5 de Novembro, em matéria de expropriação dos imóveis necessários quer às obras de ampliação do Aeroporto de Santa Catarina, quer ao realojamento das famílias desalojadas em consequência daquele processo expropriativo.
 
 2 - As despesas inerentes ao empreendimento aeroportuário de Santa Catarina, incluindo os encargos com as indemnizações devidas pela expropriação dos imóveis declarados de utilidade pública, serão suportadas através das dotações orçamentais atribuídas ao Gabinete do Aeroporto de Santa Catarina.
 
 3 - Sem prejuízo do disposto nos números anteriores, o Governo da Região Autónoma da Madeira prestará, através dos serviços competentes da Secretaria Regional do Equipamento Social, toda a colaboração, assistência e apoio técnicos que, nesta matéria, o Gabinete do Aeroporto de Santa Catarina lhe solicitar.
 
-###### Art. 3.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 4 de Novembro de 1982.**
+Promulgado em 4 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

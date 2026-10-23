@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/17600/23232343.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1985-179824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9d15014e72ea8d3d6c9a93c1d17382281bb505679470a6a34740888c09bab4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3496a26c2d51218b570e68cc0f65faaa5f3cec468c04cab4e8587145ec1659cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Raiva
+- Saúde Pública
+- Vacinação
 relationships:
 - type: amended_by
   target: pt:dre:347950:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583623:por
+  label: "Declarada, a inconstitucionalidade, com força obrigatória geral, do artigo 18.º, pelo AC.452/87.09.12.1987.TCS,\
+    \ DR.IS [1] de 02.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/452-1988-583623
+  date: '1987-12-09'
+- type: amended_by
+  target: pt:dre:690072:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade orgânica da norma do n.º 4 do artigo 10.º, pelo\
+    \ AC.579/95.24.10.1995.TCS, DR.IS-A [268] de 20.11.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/579-1995-690072
+  date: '1995-10-24'
+- type: cites
+  target: pt:dre:202604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:322302:por
+  label: Rectificado pela DECL.DD5174.16.10.1985.PCM, DR.IS [251]3ºSupl de 31.10.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-322302
+  date: '1985-10-16'
+- type: repealed_by
+  target: pt:dre:347950:por
+  label: "Revogado pelo DEC LEI.91/2001.2001.03.23.MADRP, DR.IS-A [70] de 23.03.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2001-347950
+  date: '2001-03-23'
 article_structure:
   article_count: 67
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:58Z'
   warnings: []
   errors: []
 ---
@@ -702,14 +771,14 @@ As autoridades, agentes da autoridade ou funcionários públicos no exercício d
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - Júlio Miranda Calha.
 
-**Promulgado em 17 de Julho de 1985.**
+Promulgado em 17 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Julho de 1985.**
+Referendado em 18 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/17600/23232343.pdf))](https://files.diariodarepublica.pt/1s/1985/08/17600/23232343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/17600/23232343.pdf)

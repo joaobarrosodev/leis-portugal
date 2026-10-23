@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1983-308676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b543545f49871e03cbfab8c436a1aa7feaa0e5dbfce872daea68a5468553c8c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffd188a8f736d39de2b6d04fd2db3441d1f9a5917e9052feda46584cac727164
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção Financeira
+- Angola
+- Capital Social
+- Companhia de Diamantes de Angola
+- Gestão Financeira
+- Indemnização
+- Sociedade Portuguesa de Empreendimentos
+relationships:
+- type: cites
+  target: pt:dre:139062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684061:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:25Z'
   warnings: []
   errors: []
 ---
@@ -96,34 +123,34 @@ A isso e do lado do Governo Português se destina o presente decreto-lei.
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Sociedade Portuguesa de Empreendimentos, SPE, S. A. R. L., que, por força do disposto nos Decretos-Leis n.os [301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186), de 27 de Julho, [357-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1977-684061), de 31 de Agosto, e 103-A/78, de 23 de Maio, sucedeu nos bens e direitos situados em Portugal que pertenceram à Companhia de Diamantes de Angola, S. A. R. L., fica autorizada a receber desta, ou de outrem por conta desta, as importâncias que vierem a ser fixadas em diploma do Governo da República Popular de Angola como restituição da reserva referida no preâmbulo deste diploma.
+Artigo 1.º A Sociedade Portuguesa de Empreendimentos, SPE, S. A. R. L., que, por força do disposto nos Decretos-Leis n.os [301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186), de 27 de Julho, [357-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1977-684061), de 31 de Agosto, e 103-A/78, de 23 de Maio, sucedeu nos bens e direitos situados em Portugal que pertenceram à Companhia de Diamantes de Angola, S. A. R. L., fica autorizada a receber desta, ou de outrem por conta desta, as importâncias que vierem a ser fixadas em diploma do Governo da República Popular de Angola como restituição da reserva referida no preâmbulo deste diploma.
 
-###### Art. 2.º - 1 - A SPE deverá aumentar o seu capital social em 300000000$00, tendo como contrapartida uma parte, em igual montante, do crédito sobre a Companhia de Diamantes de Angola, S. A. R. L., por pagamentos a que esta é obrigada por força de legislação da República Popular de Angola.
+Art. 2.º - 1 - A SPE deverá aumentar o seu capital social em 300000000$00, tendo como contrapartida uma parte, em igual montante, do crédito sobre a Companhia de Diamantes de Angola, S. A. R. L., por pagamentos a que esta é obrigada por força de legislação da República Popular de Angola.
 
 2 - Qualquer outra importância que constitua restituição, da reserva da cláusula 4.ª e que, seja qual for a sua proveniência, venha a entrar em Portugal, para além do montante referido no número anterior, deverá ser incorporada no capital da SPE por aumentos de capital, a efectuar por uma ou mais vezes.
 
 3 - O eventual rendimento produzido entre a data do recebimento e a data do aumento de capital, na parte que não for necessária para efectuar arredondamentos destes aumentos, constitui receita da SPE.
 
-###### Art. 3.º - 1 - As acções emitidas em cada aumento de capital previsto no artigo anterior serão atribuídas aos antigos accionistas da DIAMANG, pessoas singulares ou colectivas, públicas ou privadas, a quem a legislação da República Popular de Angola não mandar pagar por outra via, incluindo aquelas de nacionalidade portuguesa ou residentes em Portugal cujas acções tenham sido sujeitas à medida prevista no artigo 2.º do Decreto n.º 70-A/76, de 10 de Julho, da República Popular de Angola.
+Art. 3.º - 1 - As acções emitidas em cada aumento de capital previsto no artigo anterior serão atribuídas aos antigos accionistas da DIAMANG, pessoas singulares ou colectivas, públicas ou privadas, a quem a legislação da República Popular de Angola não mandar pagar por outra via, incluindo aquelas de nacionalidade portuguesa ou residentes em Portugal cujas acções tenham sido sujeitas à medida prevista no artigo 2.º do Decreto n.º 70-A/76, de 10 de Julho, da República Popular de Angola.
 
 2 - A atribuição será feita em proporção das acções da Companhia de Diamantes de Angola, S. A. R. L., pertencentes a cada uma das pessoas mencionadas no número anterior que tenham sido objecto das medidas tomadas pelos Decretos n.os 70-A/76, [61/77](https://diariodarepublica.pt/dr/detalhe/decreto/61-1977-139062) e 255/79, respectivamente de 10 de Julho, 24 de Agosto e 11 de Dezembro, da República Popular de Angola.
 
 3 - Às acções que não forem reclamadas por quem tenha direito a elas aplica-se o disposto no artigo 1.º, alínea a), do [Decreto-Lei n.º 187/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1970-141856), de 30 de Abril, contando-se o prazo a partir da publicação de cada aumento de capital.
 
-###### Art. 4.º No caso de todos ou de alguns dos accionistas da Companhia de Diamantes de Angola, S. A. R. L., não abrangidos pelo artigo 3.º, n.º 1, deste diploma que também sejam accionistas da SPE pretenderem concorrer aos aumentos de capital com créditos ou dinheiros que lhes competirem nos termos da legislação da República Popular de Angola, serão a isso admitidos, elevando-se correspondentemente os montantes dos aumentos.
+Art. 4.º No caso de todos ou de alguns dos accionistas da Companhia de Diamantes de Angola, S. A. R. L., não abrangidos pelo artigo 3.º, n.º 1, deste diploma que também sejam accionistas da SPE pretenderem concorrer aos aumentos de capital com créditos ou dinheiros que lhes competirem nos termos da legislação da República Popular de Angola, serão a isso admitidos, elevando-se correspondentemente os montantes dos aumentos.
 
-###### Art. 5.º - 1 - Os recebimentos pela Sociedade Portuguesa de Empreendimentos, SPE, S. A. R. L., de importâncias em divisas estrangeiras que constituam restituição da reserva da cláusula 4.ª, seja qual for a sua proveniência, não ficam sujeitos a qualquer formalidade prévia, devendo, porém, aquela sociedade comunicá-los ao Banco de Portugal nos 8 dias seguintes.
+Art. 5.º - 1 - Os recebimentos pela Sociedade Portuguesa de Empreendimentos, SPE, S. A. R. L., de importâncias em divisas estrangeiras que constituam restituição da reserva da cláusula 4.ª, seja qual for a sua proveniência, não ficam sujeitos a qualquer formalidade prévia, devendo, porém, aquela sociedade comunicá-los ao Banco de Portugal nos 8 dias seguintes.
 
 2 - Ao montante das divisas estrangeiras recebidas pela SPE nos termos do número anterior aplicam-se as mesmas condições definidas no regime que, na data da entrada em vigor deste diploma, estiver estabelecido por autorização do Banco de Portugal para outras contas da SPE em moeda estrangeira.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 19 de Janeiro de 1983.**
+Promulgado em 19 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Janeiro de 1983.**
+Referendado em 21 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14600/17421746.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,122 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1985-182052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9949007d6e94b75c665447c998919dbb092012fa3fa860e75f0d1f829c22aa44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 748bf349aa5bcc551a1c90d782fac462114bbc8a18f729ce1ee53edbda2336dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de Santa Cruz
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419982:por
+  label: Alterado o quadro de pessoal, aprovado pelo presente diploma, pelo(a) Portaria n.º 554/87 - Diário da República n.º
+    151/1987, Série I de 1987-07-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-1987-419982
+  date: '1987-07-04'
+- type: amended_by
+  target: pt:dre:417190:por
+  label: "Alterado o quadro de pessoal do Hospital de Santa Cruz, aprovado pelo presente diploma, alterado pela Port 554/87\
+    \ de 04-Jul, pela PORT.669/87.30.07.1987.MF, DR.IS [173] de 30.07.1987\087\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/669-1987-417190
+  date: '1987-07-30'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital de Santa Cruz pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:322299:por
+  label: Rectificado pela DECL.DD5171.07.10.1985.PCM, DR.IS [251]3ºSupl de 31.10.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-322299
+  date: '1985-10-07'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:17Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +180,13 @@ Hoje consideram-se reunidas as condições objectivas para a sua passagem ao reg
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Quadro de pessoal)
 
 É aprovado o quadro de pessoal do Hospital de Santa Cruz, anexo ao presente diploma e que deste faz parte integrante.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Provimento dos lugares do quadro)
 
@@ -120,7 +202,7 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 4 - O disposto no número anterior não prejudica a nomeação, em comissão de serviço, por um período não superior a um ano, com base em opção do funcionário ou conveniência da Administração.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Efeitos da comissão de serviço)
 
@@ -128,13 +210,13 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 2 - O tempo de serviço prestado em conformidade com o disposto no número anterior considera-se, para todos os efeitos, inclusivamente para promoção, como prestado no lugar de origem, ou no deste Hospital, caso venha a ser provido definitivamente.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Recrutamento e progressão na carreira)
 
 O recrutamento de pessoal para os lugares do quadro é efectuado nos termos da lei geral, em conformidade com as necessidades do serviço, e processa-se, bem como a progressão na carreira, de acordo com as normas estabelecidas nos artigos seguintes.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Pessoal dirigente)
 
@@ -146,7 +228,7 @@ O recrutamento de pessoal para os lugares do quadro é efectuado nos termos da l
 
 4 - Os lugares de chefe de repartição serão providos de entre diplomados com licenciatura ou curso superior adequado e experiência profissional ou de entre chefes de serviços administrativos hospitalares e ainda de entre chefes de secção que reúnam os conhecimentos e experiência necessários para o exercício das funções e, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Carreira técnica superior, carreira médica e carreira técnica superior de saúde)
 
@@ -156,25 +238,25 @@ O recrutamento de pessoal para os lugares do quadro é efectuado nos termos da l
 
 3 - Os lugares de assessor e de técnico superior de saúde serão providos de acordo com as regras de ingresso e acesso constantes do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho, e legislação complementar.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Pessoal de enfermagem)
 
 Os lugares da carreira de enfermagem serão providos de acordo com o estabelecido no [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, e legislação complementar.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Carreira técnica)
 
 Os lugares correspondentes ao pessoal técnico de serviço social e pessoal técnico de instalações e equipamento serão providos, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com curso superior adequado.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Carreira de técnico auxiliar dos serviços complementares de diagnóstico e terapêutica)
 
 Os lugares de técnico auxiliar dos serviços complementares de diagnóstico e terapêutica serão providos de acordo com o estabelecido no [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), de 30 de Dezembro, e legislação complementar.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Carreira administrativa)
 
@@ -186,7 +268,7 @@ Os lugares de técnico auxiliar dos serviços complementares de diagnóstico e t
 
 4 - O provimento dos lugares de escriturárío-dactilógrafo, bem como a progressão na respectiva carreira, far-se-á nos termos do artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Fiscal técnico de obras)
 
@@ -194,7 +276,7 @@ Os lugares de técnico auxiliar dos serviços complementares de diagnóstico e t
 
 2 - Os lugares de fiscal técnico de obras de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado, acrescido de formação técnico-profissional complementar de construção civil com a duração mínima de 2 anos.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Carreira de técnico auxiliar)
 
@@ -202,7 +284,7 @@ Os lugares de técnico auxiliar dos serviços complementares de diagnóstico e t
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Secretárias dos serviços de saúde)
 
@@ -210,7 +292,7 @@ Os lugares de técnico auxiliar dos serviços complementares de diagnóstico e t
 
 2 - Os lugares de secretárias dos serviços de saúde de 2.ª classe serão providos de entre indivíduos com o curso técnico-profissional complementar adequado que reúna os requisitos do n.º 4 do artigo 10.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Pessoal operário e auxiliar)
 
@@ -218,13 +300,13 @@ Os lugares de técnico auxiliar dos serviços complementares de diagnóstico e t
 
 2 - Os lugares de motorista e telefonista serão providos nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Carreira do pessoal dos serviços gerais)
 
 Os lugares da carreira do pessoal dos serviços gerais serão providos nos termos previstos no [Decreto n.º 109/80](https://diariodarepublica.pt/dr/detalhe/decreto/109-1980-462429), de 20 de Outubro.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Integração do pessoal no quadro)
 
@@ -240,7 +322,7 @@ b) Para categoria correspondente às funções que actualmente desempenhe, remun
 
 4 - O provimento do pessoal a integrar no quadro efectuar-se-á mediante diploma individual de provimento ou lista nominativa de acordo com o estabelecido no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Entrada em vigor)
 
@@ -248,16 +330,16 @@ Este diploma entra em vigor no dia imediato ao da sua publicação, considerando
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha.
 
-**Promulgado em 4 de Junho de 1985.**
+Promulgado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO — Quadro de pessoal do Hospital de Santa Cruz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14600/17421746.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14600/17421746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14600/17421746.pdf)

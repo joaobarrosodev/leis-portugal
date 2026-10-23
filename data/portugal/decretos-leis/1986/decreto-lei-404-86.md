@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/27800/36383641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1986-221520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 735e30893025cd50f27a298bc45cda36a80169b09b490a9526ea1eaaf52fa8b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee152e8375922b1b13d0280b227b0b371cff5a180411f3f825ca5867140d2725
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Elevador
+- Estatuto das Entidades Conservadoras de Elevadores
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:391196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391196:por
+  label: "Revogado pelo DEC LEI.320/2002.2002.12.28.MCOTA, DR.IS-A [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-2002-391196
+  date: '2002-12-28'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:58Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +118,27 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto das Entidades Conservadoras de Elevadores, abreviadamente designadas por ECE, que constitui o anexo I ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto das Entidades Conservadoras de Elevadores, abreviadamente designadas por ECE, que constitui o anexo I ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º Os serviços constantes dos contratos de conservação, assim como o termo de responsabilidade, constam dos anexas I-1, I-2 e I-3 ao presente diploma e dele fazem parte integrante.
+Art. 2.º Os serviços constantes dos contratos de conservação, assim como o termo de responsabilidade, constam dos anexas I-1, I-2 e I-3 ao presente diploma e dele fazem parte integrante.
 
-###### Art. 3.º São revogados os n.os 2 e 3 do artigo 2.º do [Decreto n.º 513/70](https://diariodarepublica.pt/dr/detalhe/decreto/513-1970-147794), de 30 de Outubro.
+Art. 3.º São revogados os n.os 2 e 3 do artigo 2.º do [Decreto n.º 513/70](https://diariodarepublica.pt/dr/detalhe/decreto/513-1970-147794), de 30 de Outubro.
 
-###### Art. 4.º O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, com as devidas adequações.
+Art. 4.º O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, com as devidas adequações.
 
-###### Art. 5.º Este decreto-lei entra em vigor 30 dias após a sua publicação.
+Art. 5.º Este decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Setembro de 1986. - Aníbal António Cavaco Silva - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 14 de Novembro de 1986.**
+Promulgado em 14 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Novembro de 1986.**
+Referendado em 17 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Estatuto das Entidades Conservadoras de Elevadores
 

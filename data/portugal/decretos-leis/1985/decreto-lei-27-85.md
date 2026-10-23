@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01700/01660166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1985-328864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 715aca752615cfa58619cda845050cd79e5757956279aa428e9aa6260a786f2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe4d1503805d547ae2583dcbe4bc362df31962e5ef5f11c8c4a4c9292a1d4bd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciamento
+- Transporte de Mercadorias
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:177055:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:687657:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177055:por
+  label: Revogado pelo(a) Decreto-Lei n.º 384/85 - Diário da República n.º 225/1985, Série I de 1985-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1985-177055
+  date: '1985-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:13Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +107,18 @@ Assim, não se justificando a manutenção da obrigatoriedade de licenciamento d
 
 Nestes termos, o Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A circulação dos motociclos e dos veículos automóveis mistos de peso bruto não superior a 2500 kg e cuja carga autorizada não exceda um terço do respectivo peso, uns e outros de serviço particular, deixa de estar sujeita à obrigatoriedade de licenciamento fixada no artigo 1.º do [Decreto-Lei n.º 45311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45311-1963-687657), de 28 de Outubro de 1963.
+Artigo 1.º A circulação dos motociclos e dos veículos automóveis mistos de peso bruto não superior a 2500 kg e cuja carga autorizada não exceda um terço do respectivo peso, uns e outros de serviço particular, deixa de estar sujeita à obrigatoriedade de licenciamento fixada no artigo 1.º do [Decreto-Lei n.º 45311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45311-1963-687657), de 28 de Outubro de 1963.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - João Rosado Correia.
 
-**Promulgado em 9 de Janeiro de 1985.**
+Promulgado em 9 de Janeiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Janeiro de 1985.**
+Referendado em 10 de Janeiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

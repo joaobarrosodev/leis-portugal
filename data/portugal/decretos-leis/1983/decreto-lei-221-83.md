@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12100/19251928.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1983-451821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75c371605c4684b4cdc57a241ca13fa0b7a2c6ab702fd39091e43db71b7915cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd9d10e6739668c3fab3549c4c2daa782d486c9df060d3da1cbe4c3d7257082d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Animais
+- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:566031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656385:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:435789:por
+  label: Rectificado pela DECL.DD6361.26.07.1983.PCM, DR.IS [174-3.º Supl] de 30.07.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-435789
+  date: '1983-07-26'
+- type: repealed_by
+  target: pt:dre:566031:por
+  label: "Revogado pelo DEC LEI.350/90.06.11.1990.MAPA, DR.IS [256] de 06.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/350-1990-566031
+  date: '1990-11-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:08Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +160,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O disposto no presente decreto-lei destina-se a regulamentar a comercialização de alimentos compostos para animais, sem prejuízo do disposto no [Decreto-Lei n.º 259/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1982-394719), de 6 de Julho, que aprovou o Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais.
+Artigo 1.º O disposto no presente decreto-lei destina-se a regulamentar a comercialização de alimentos compostos para animais, sem prejuízo do disposto no [Decreto-Lei n.º 259/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1982-394719), de 6 de Julho, que aprovou o Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais.
 
-###### Art. 2.º Para efeitos do presente diploma, entende-se por:
+Art. 2.º Para efeitos do presente diploma, entende-se por:
 
 a) Alimentos para animais - as substâncias orgânicas ou inorgânicas, simples ou compostas, compreendendo ou não aditivos, destinadas à nutrição animal por via oral;
 
@@ -128,11 +180,11 @@ g) Ração diária - a quantidade total de alimentos, referida a um teor de humi
 
 h) Animais - os seres vivos normalmente alimentados pelo homem para seu consumo ou companhia.
 
-###### Art. 3.º - 1 - Os alimentos para animais devem ter características organolépticas normais, apresentarem-se em conveniente estado de conservação, não apresentarem parasitas vegetais ou animais e não provocarem qualquer prejuízo na saúde dos animais ou do homem.
+Art. 3.º - 1 - Os alimentos para animais devem ter características organolépticas normais, apresentarem-se em conveniente estado de conservação, não apresentarem parasitas vegetais ou animais e não provocarem qualquer prejuízo na saúde dos animais ou do homem.
 
 2 - Sem prejuízo de regulamentação própria, os alimentos para animais não podem conter agentes microbianos comprovadamente responsáveis por patogenicidade para os animais ou para o homem, designadamente do género Salmonella.
 
-###### Art. 4.º - 1 - Para efeitos de comercialização, os alimentos compostos para animais deverão ser convenientemente acondicionados do seguinte modo:
+Art. 4.º - 1 - Para efeitos de comercialização, os alimentos compostos para animais deverão ser convenientemente acondicionados do seguinte modo:
 
 a) De forma inviolável, em embalagens ou recipientes perdidos, constituídos por sacos de papel de consistência adequada ou por qualquer outro material, com as necessárias condições de resistência e impermeabilidade e inomeidade;
 
@@ -144,7 +196,7 @@ c) A granel, quando os alimentos compostos circulem entre fabricantes, entre o f
 
 3 - Nos estabelecimentos de retalho apenas é permitida a venda de alimentos compostos para animais em embalagens de origem e invioladas.
 
-###### Art. 5.º - 1 - Nas embalagens, ou nos rótulos, dísticos, etiquetas ou guias de remessa que acompanhem os alimentos para animais devem constar obrigatoriamente as seguintes indicações:
+Art. 5.º - 1 - Nas embalagens, ou nos rótulos, dísticos, etiquetas ou guias de remessa que acompanhem os alimentos para animais devem constar obrigatoriamente as seguintes indicações:
 
 a) A designação «Alimento composto completo», «Alimento composto complementar», «Alimento mineral» ou «Alimento melaçado», consoante os casos;
 
@@ -188,7 +240,7 @@ Período mínimo de 7 dias de habituação, durante os quais o alimento será fo
 
 Quantidade máxima de alimento composto aconselhada por 100 kg de peso vivo.
 
-###### Art. 6.º - 1 - Nas embalagens, ou nos rótulos, dísticos, etiquetas ou guias de remessa podem constar ainda quaisquer das seguintes indicações:
+Art. 6.º - 1 - Nas embalagens, ou nos rótulos, dísticos, etiquetas ou guias de remessa podem constar ainda quaisquer das seguintes indicações:
 
 a) Marca comercial do alimento composto;
 
@@ -214,9 +266,9 @@ c) As letras A, B, C, E, H, O, P, R ou S, em mancha de fundo, consoante se trate
 
 3 - No caso dos alimentos minerais podem constar ainda, além do referido no n.º 1, indicações sobre teores de proteína bruta, proteína digestível, gordura bruta, celulose bruta e magnésio.
 
-###### Art. 7.º Nas embalagens, ou nos rótulos, dísticos, etiquetas ou guias de remessa dos alimentos compostos não podem constar outras indicações além das referidas nos artigos 5.º e 6.º do presente diploma e no artigo 9.º do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo [Decreto-Lei n.º 259/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1982-394719), de 6 de Julho.
+Art. 7.º Nas embalagens, ou nos rótulos, dísticos, etiquetas ou guias de remessa dos alimentos compostos não podem constar outras indicações além das referidas nos artigos 5.º e 6.º do presente diploma e no artigo 9.º do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo [Decreto-Lei n.º 259/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1982-394719), de 6 de Julho.
 
-###### Art. 8.º - 1 - O teor de humidade não pode ser superior a:
+Art. 8.º - 1 - O teor de humidade não pode ser superior a:
 
 ... Percentagem
 
@@ -236,7 +288,7 @@ b) Os alimentos compostos que contenham mais de 50% de coroas ou de polpas de be
 
 c) A rotulagem dos alimentos compostos que estejam nas condições referidas na alínea anterior deverá obrigatoriamente indicar o teor de cinza insolúvel em HCl expresso em relação à matéria tal qual.
 
-###### Art. 9.º - 1 - Os teores indicados nos artigos 5.º e 6.1 e no n.º 1 do artigo 8.º do presente diploma são referidos à matéria tal qual.
+Art. 9.º - 1 - Os teores indicados nos artigos 5.º e 6.1 e no n.º 1 do artigo 8.º do presente diploma são referidos à matéria tal qual.
 
 2 - Para efeitos de fiscalização das características dos alimentos compostos serão considerados os teores fixados e declarados nas embalagens, ou nos rótulos, dísticos, etiquetas ou guias de remessa, sendo admitidas tolerâncias analíticas, a fixar por portaria do Ministro da Agricultura, Comércio e Pescas, sob proposta da Comissão de Alimentação Animal.
 
@@ -248,22 +300,22 @@ b) Preparação de amostras para análise;
 
 c) Métodos de análise.
 
-###### Art. 10.º Mediante portaria do Ministro da Agricultura, Comércio e Pescas poderão sob proposta da Comissão de Alimentação Animal, ser prescritas recomendações relativas ao fabrico ou à comercialização de certos tipos de alimentos compostos.
+Art. 10.º Mediante portaria do Ministro da Agricultura, Comércio e Pescas poderão sob proposta da Comissão de Alimentação Animal, ser prescritas recomendações relativas ao fabrico ou à comercialização de certos tipos de alimentos compostos.
 
-###### Art. 11.º Às infracções do presente diploma é aplicável o disposto no [Decreto-Lei n.º 191/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1983-451623), de 16 de Maio, no que respeita à investigação, instrução dos processos e aplicação das respectivas coimas e sanções acessórias, se punição mais grave lhes não couber.
+Art. 11.º Às infracções do presente diploma é aplicável o disposto no [Decreto-Lei n.º 191/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1983-451623), de 16 de Maio, no que respeita à investigação, instrução dos processos e aplicação das respectivas coimas e sanções acessórias, se punição mais grave lhes não couber.
 
-###### Art. 12.º São revogados os artigos 1.º, 4.º, 11.º, 12.º, 13.º, 16.º e 17.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo Decreto-Lei n.º 47776, de 5 de Julho de 1967, e as Portarias n.os [663/73](https://diariodarepublica.pt/dr/detalhe/portaria/663-1973-413060), de 4 de Outubro, [732/73](https://diariodarepublica.pt/dr/detalhe/portaria/732-1973-412273), de 24 de Outubro, [139/74](https://diariodarepublica.pt/dr/detalhe/portaria/139-1974-412873), de 21 de Fevereiro, [155/74](https://diariodarepublica.pt/dr/detalhe/portaria/155-1974-412991), de 26 de Fevereiro, [417/76](https://diariodarepublica.pt/dr/detalhe/portaria/417-1976-430428), de 13 de Julho, [191/78](https://diariodarepublica.pt/dr/detalhe/portaria/191-1978-446926), de 7 de Abril, [192-H/78](https://diariodarepublica.pt/dr/detalhe/portaria/192-h-1978-656385), de 7 de Abril, e [629/79](https://diariodarepublica.pt/dr/detalhe/portaria/629-1979-367208), de 28 de Novembro, e os n.os 1, 2, 4, 5 e 7 do artigo 9.º do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo [Decreto-Lei n.º 259/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1982-394719), de 6 de Julho.
+Art. 12.º São revogados os artigos 1.º, 4.º, 11.º, 12.º, 13.º, 16.º e 17.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo Decreto-Lei n.º 47776, de 5 de Julho de 1967, e as Portarias n.os [663/73](https://diariodarepublica.pt/dr/detalhe/portaria/663-1973-413060), de 4 de Outubro, [732/73](https://diariodarepublica.pt/dr/detalhe/portaria/732-1973-412273), de 24 de Outubro, [139/74](https://diariodarepublica.pt/dr/detalhe/portaria/139-1974-412873), de 21 de Fevereiro, [155/74](https://diariodarepublica.pt/dr/detalhe/portaria/155-1974-412991), de 26 de Fevereiro, [417/76](https://diariodarepublica.pt/dr/detalhe/portaria/417-1976-430428), de 13 de Julho, [191/78](https://diariodarepublica.pt/dr/detalhe/portaria/191-1978-446926), de 7 de Abril, [192-H/78](https://diariodarepublica.pt/dr/detalhe/portaria/192-h-1978-656385), de 7 de Abril, e [629/79](https://diariodarepublica.pt/dr/detalhe/portaria/629-1979-367208), de 28 de Novembro, e os n.os 1, 2, 4, 5 e 7 do artigo 9.º do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo [Decreto-Lei n.º 259/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1982-394719), de 6 de Julho.
 
-###### Art. 13.º O presente diploma entra em vigor 180 dias após a sua publicação.
+Art. 13.º O presente diploma entra em vigor 180 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 11 de Maio de 1983.**
+Promulgado em 11 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Maio de 1983.**
+Referendado em 13 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.

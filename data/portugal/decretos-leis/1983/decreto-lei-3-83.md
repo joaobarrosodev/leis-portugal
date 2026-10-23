@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/00800/00410043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1983-540470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f5ba728c08e9160105c24535eb670c8c6881af043a07c05ab65546313cdab9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09597e268a6c4cdcb417e0ca884b2c69e6417372f49eed94b3a27837f77dfd16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diário da República
+- Diploma Legal
+- Formulário dos Diplomas
 relationships:
 - type: amended_by
   target: pt:dre:654511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408675:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454286:por
+  label: "Revogado pela LEI.6/83.1983.07.29.AR DR.IS [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-1983-454286
+  date: '1983-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:27Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +222,7 @@ m) Assentos.
 
 2 - Tratando-se de acto do Presidente da República, da Assembleia da República, de decreto do Governo ou de decreto regional, dir-se-á:
 
-**O Presidente da República (ou a Assembleia da República ou o Governo ou a Assembleia Regional ou o Governo Regional) decreta, nos termos do artigo ... da Constituição, o seguinte:**
+O Presidente da República (ou a Assembleia da República ou o Governo ou a Assembleia Regional ou o Governo Regional) decreta, nos termos do artigo ... da Constituição, o seguinte:
 
 3 - No caso de decreto-lei do Governo no uso de uma autorização legislativa ou no desenvolvimento de princípios ou de bases gerais dos regimes jurídicos contidos em lei indicar-se-á a lei a que se reporta.
 
@@ -306,8 +326,8 @@ b) A [Lei n.º 8/77](https://diariodarepublica.pt/dr/detalhe/lei/8-1977-138535),
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 5 de Janeiro de 1983.**
+Promulgado em 5 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1983-308115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4f4ea6282f7b285779df8b622a23d9212deec72102247eba7927c8918e3b1f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3293123a95a51ab6b6b5da5e708a5a24d29a6b5d0be8c4405c12f720f00fb7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alimento para Animais
+- Amendoim
+- Definição de Competências
+- Direção Geral da Saúde
+- Fiscalização
+- Importação
+- Instituto de Qualidade Alimentar
+- Produto Alimentar
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:29Z'
   warnings: []
   errors: []
 ---
@@ -110,21 +127,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Sem prejuízo das atribuições cometidas por lei à Direcção-Geral de Saúde, nos aspectos relacionados com a defesa da saúde pública, a fiscalização e o controle da qualidade quer do amendoim importado, destinado a rações para animais, ao consumo humano em natureza ou a fins industriais, quer dos outros produtos alimentares a que se refere o presente diploma serão da competência do IQA ou dos organismos oficiais em que este Instituto entenda dever delegar a sua execução.
+Artigo 1.º Sem prejuízo das atribuições cometidas por lei à Direcção-Geral de Saúde, nos aspectos relacionados com a defesa da saúde pública, a fiscalização e o controle da qualidade quer do amendoim importado, destinado a rações para animais, ao consumo humano em natureza ou a fins industriais, quer dos outros produtos alimentares a que se refere o presente diploma serão da competência do IQA ou dos organismos oficiais em que este Instituto entenda dever delegar a sua execução.
 
-###### Art. 2.º - 1 - Para efeito do disposto no artigo anterior, o pessoal do IQA e dos organismos em que o mesmo Instituto delegar terá, nos termos das disposições legais em vigor, livre acesso a todos os locais onde se encontrem os produtos em causa, inclusive a bordo dos meios de transporte, a fim de ajuizar das condições em que os mesmos produtos foram ou estiverem acondicionados.
+Art. 2.º - 1 - Para efeito do disposto no artigo anterior, o pessoal do IQA e dos organismos em que o mesmo Instituto delegar terá, nos termos das disposições legais em vigor, livre acesso a todos os locais onde se encontrem os produtos em causa, inclusive a bordo dos meios de transporte, a fim de ajuizar das condições em que os mesmos produtos foram ou estiverem acondicionados.
 
 2 - O pessoal referido no número anterior poderá requisitar meios necessários para a execução das tarefas atrás mencionadas, mesmo os das entidades sob cuja guarda estiverem os produtos alimentares de que trata o presente diploma.
 
-###### Art. 3.º A colheita de amostras de cada partida ou lote de amendoim será efectuada em conformidade com as indicações da norma portuguesa NP-855.
+Art. 3.º A colheita de amostras de cada partida ou lote de amendoim será efectuada em conformidade com as indicações da norma portuguesa NP-855.
 
-###### Art. 4.º O método de análise utilizado para a determinação dos teores de aflatoxinas no amendoim destinado a rações para animais, ao consumo humano em natureza ou para fins industriais é o estabelecido pela norma portuguesa NP-1822.
+Art. 4.º O método de análise utilizado para a determinação dos teores de aflatoxinas no amendoim destinado a rações para animais, ao consumo humano em natureza ou para fins industriais é o estabelecido pela norma portuguesa NP-1822.
 
-###### Art. 5.º A preparação de cada amostra ou subamostra de amendoim para análise laboratorial será efectuada em conformidade com a norma portuguesa NP-915.
+Art. 5.º A preparação de cada amostra ou subamostra de amendoim para análise laboratorial será efectuada em conformidade com a norma portuguesa NP-915.
 
-###### Art. 6.º Enquanto não forem estabelecidas normas oficiais para colheita de amostras e métodos de análise aplicáveis aos outros alimentos para o consumo humano indicados no artigo 7.º, as referidas normas serão definidas, quanto à colheita de amostras, pelo IQA e, quanto aos métodos de doseamento das aflatoxinas, pelo referido Instituto, conjuntamente com o Instituto Nacional de Saúde Dr. Ricardo Jorge (INSA).
+Art. 6.º Enquanto não forem estabelecidas normas oficiais para colheita de amostras e métodos de análise aplicáveis aos outros alimentos para o consumo humano indicados no artigo 7.º, as referidas normas serão definidas, quanto à colheita de amostras, pelo IQA e, quanto aos métodos de doseamento das aflatoxinas, pelo referido Instituto, conjuntamente com o Instituto Nacional de Saúde Dr. Ricardo Jorge (INSA).
 
-###### Art. 7.º Os limites máximos permitidos de aflatoxinas (B1) nos alimentos destinados ao consumo humano, importados ou produzidos no País, são os seguintes:
+Art. 7.º Os limites máximos permitidos de aflatoxinas (B1) nos alimentos destinados ao consumo humano, importados ou produzidos no País, são os seguintes:
 
 Amendoim - 25 p. p. b.;
 
@@ -132,14 +149,14 @@ Alimentos dietéticos e de regime para crianças - 5 p. p. b.;
 
 Restantes alimentos - 20 p. p. b.
 
-###### Art. 8.º Às infracções ao disposto no artigo anterior serão aplicáveis as penas previstas nos artigos 17.º, 18.º, 19.º e 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e legislação complementar.
+Art. 8.º Às infracções ao disposto no artigo anterior serão aplicáveis as penas previstas nos artigos 17.º, 18.º, 19.º e 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e legislação complementar.
 
-###### Art. 9.º Qualquer agente económico nacional, relacionado com a importação, produção e venda dos produtos alimentares referidos no presente diploma, poderá interpor recurso, nos termos das disposições legais em vigor, sempre que se não conforme com os resultados das análises laboratoriais ou com as decisões dos serviços oficiais de fiscalização e controle da qualidade.
+Art. 9.º Qualquer agente económico nacional, relacionado com a importação, produção e venda dos produtos alimentares referidos no presente diploma, poderá interpor recurso, nos termos das disposições legais em vigor, sempre que se não conforme com os resultados das análises laboratoriais ou com as decisões dos serviços oficiais de fiscalização e controle da qualidade.
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 1982. - Francisco José Pereira Pinto Balsemão - Luís da Silva Eduardo Barbosa - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 5 de Janeiro de 1983.**
+Promulgado em 5 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

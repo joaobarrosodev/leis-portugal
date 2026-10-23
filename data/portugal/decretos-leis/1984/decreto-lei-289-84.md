@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19600/26142618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1984-380931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a262368c6879f8a205276fe7ea0e35a060aa09e9c146be21c659f31dad3e27d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f8c2db2f33c9dde38283fa43887e56cce2f5e85d1504a26d4256816c33f6891
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:216746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685654:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380342:por
+  label: Rectificado pela DECL.DD5289.28.11.1984.PCM, DR.IS [278]2ºSupl de 30.11.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-380342
+  date: '1984-11-28'
+- type: repealed_by
+  target: pt:dre:305641:por
+  label: "Revogado o art. 6º e dada nova redacção ao nº 1 do art. 8º e à al. c) do art. 16º pelo DEC LEI.404-A/86.04.12.1986.MIC,\
+    \ DR.IS [279-2ºSupl] de 04.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-a-1986-305641
+  date: '1986-12-04'
+- type: repealed_by
+  target: pt:dre:216746:por
+  label: "Revogado pelo DEC LEI.65/92.23.04.1992.MA, DR.IS-A [95] de 23.04.1992, com a entrada em vigor da regulamentação\
+    \ prevista no seu art. 1º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1992-216746
+  date: '1992-04-23'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:28Z'
   warnings: []
   errors: []
 ---
@@ -391,12 +462,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto - Francisco José de Sousa Tavares.
 
-**Promulgado em 3 de Agosto de 1984.**
+Promulgado em 3 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Agosto de 1984.**
+Referendado em 7 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

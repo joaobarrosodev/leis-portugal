@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29600/38133813.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1986-210597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 246056eb8463290dcd2e42129d43267fc4cd9ab5c7734a9d3f653bd72fc30dc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3aed7211f77c1e25373b9c12183620422547abafa880695dcbb7cd432184ea9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Depósitos
+- Contrato de Risco de Câmbio
+- Kreditanstalt FUR Wiederaufbau
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:25Z'
   warnings: []
   errors: []
 ---
@@ -100,30 +108,30 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Finanças autorizado, com a faculdade de delegar, a celebrar com a Caixa Geral de Depósitos (CGD) um contrato de risco de câmbio associado ao empréstimo de 10 milhões de marcos que o Kreditanstalt für Wiederaufbau (KfW) vai conceder à CGD nas condições aprovadas pelo presente decreto-lei.
+Artigo 1.º Fica o Ministro das Finanças autorizado, com a faculdade de delegar, a celebrar com a Caixa Geral de Depósitos (CGD) um contrato de risco de câmbio associado ao empréstimo de 10 milhões de marcos que o Kreditanstalt für Wiederaufbau (KfW) vai conceder à CGD nas condições aprovadas pelo presente decreto-lei.
 
-###### Art. 2.º - 1 - O Estado suportará os encargos decorrentes das variações cambiais, reflectidas no contravalor em escudos, do serviço do empréstimo a conceder pelo KfW à CGD resultantes da evolução desfavorável da moeda nacional relativamente ao marco alemão verificada entre as datas de utilização daquele financiamento e as datas de vencimento dos correspondentes compromissos.
+Art. 2.º - 1 - O Estado suportará os encargos decorrentes das variações cambiais, reflectidas no contravalor em escudos, do serviço do empréstimo a conceder pelo KfW à CGD resultantes da evolução desfavorável da moeda nacional relativamente ao marco alemão verificada entre as datas de utilização daquele financiamento e as datas de vencimento dos correspondentes compromissos.
 
 2 - No caso de a evolução da moeda nacional relativamente ao marco alemão ser favorável entre as datas de utilização de financiamento e as datas do vencimento dos compromissos deste empréstimo, a CGD promoverá a entrega ao Estado da importância resultante da variação cambial, reflectida no contravalor em escudos, do serviço da dívida.
 
-###### Art. 3.º Semestralmente, a CGD entregará ao Estado a quantia correspondente à diferença entre as remunerações dos financiamentos por ela concedidos, por aplicação do empréstimo do KfW, e o custo deste empréstimo, deduzida de uma margem de 3%.
+Art. 3.º Semestralmente, a CGD entregará ao Estado a quantia correspondente à diferença entre as remunerações dos financiamentos por ela concedidos, por aplicação do empréstimo do KfW, e o custo deste empréstimo, deduzida de uma margem de 3%.
 
-###### Art. 4.º Os recebimentos e os pagamentos que tiverem lugar ao abrigo do presente decreto-lei serão contabilizados numa rubrica de operações de tesouraria a criar para o efeito, designada Fundo especial para cobertura de riscos cambiais.
+Art. 4.º Os recebimentos e os pagamentos que tiverem lugar ao abrigo do presente decreto-lei serão contabilizados numa rubrica de operações de tesouraria a criar para o efeito, designada Fundo especial para cobertura de riscos cambiais.
 
-###### Art. 5.º Fica a Direcção-Geral do Tesouro autorizada a propor a inscrição, anualmente, de uma dotação no Orçamento do Estado, com vista a assegurar o pagamento dos encargos assumidos pelo Estado por força do n.º 1 do artigo 2.º, na parte não coberta pelas entregas efectuada pela CGD, a realizar ao abrigo do presente diploma.
+Art. 5.º Fica a Direcção-Geral do Tesouro autorizada a propor a inscrição, anualmente, de uma dotação no Orçamento do Estado, com vista a assegurar o pagamento dos encargos assumidos pelo Estado por força do n.º 1 do artigo 2.º, na parte não coberta pelas entregas efectuada pela CGD, a realizar ao abrigo do presente diploma.
 
-###### Art. 6.º No final da vida do empréstimo que o KfW vai conceder à CGD, o excedente que se registar entre as entregas efectuadas pela CGD e os encargos satisfeitos pelo Estado ao abrigo do presente decreto-lei será afecto prioritariamente ao financiamento de projectos de investimento.
+Art. 6.º No final da vida do empréstimo que o KfW vai conceder à CGD, o excedente que se registar entre as entregas efectuadas pela CGD e os encargos satisfeitos pelo Estado ao abrigo do presente decreto-lei será afecto prioritariamente ao financiamento de projectos de investimento.
 
-###### Art. 7.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

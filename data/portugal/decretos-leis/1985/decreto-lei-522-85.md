@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1985, 6º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 4260-(84) a 4260-(91)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30106/00840091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,200 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b439634eebe40ef97154c2e8b57a3946546739be614359958beda3b1409abbe8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddcae385414895e9a3698a33abf95b4f835d3e01b23cc7ee6d81be88745a48b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Seguro
+- Fundo de Garantia Automóvel
+- Responsabilidade Civil Automóvel
+- Seguro de Responsabilidade Civil Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:247448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:194397:por
+  label: "Alterados os artigos 4.º, 5.º, 6.º, 7.º, 20.º, 21.º, 23.º, 25.º, 26.º, 27.º, 29.º, 32.º, 33.º e 35.º, pelo DEC LEI.122-A/86.30.05.1986.MF,\
+    \ DR.IS [123]3ºSupl de 30.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-a-1986-194397
+  date: '1986-05-30'
+- type: amended_by
+  target: pt:dre:627040:por
+  label: "Alterado o artigo 6.º, com as alterações introduzidas no Decreto-Lei n.º 122-A/86, de 30 de Maio, pelo DEC LEI.436/86.31.12.1986.MF,\
+    \ DR.IS [300]2ºSupl de 31.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1986-627040
+  date: '1986-12-31'
+- type: amended_by
+  target: pt:dre:662690:por
+  label: "Alterado o artigo 3.º, pelo DEC LEI.81/87.20.02.1987.MF, DR.IS [43] de 20.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1987-662690
+  date: '1987-02-20'
+- type: amended_by
+  target: pt:dre:406121:por
+  label: "Alterado o artigo 6.º, com as alterações introduzidas nos Decretos-Leis n.ºs 122-A/86, de 30 de Maio, e 436/86,\
+    \ de 31 de Dezembro, pelo DEC LEI.394/87.31.12.1987.MF, DR.IS [300]2ºSupl de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-1987-406121
+  date: '1987-12-31'
+- type: amended_by
+  target: pt:dre:550819:por
+  label: "Alterado o artigo 27.º, com a redacção introduzida no Decreto-Lei n.º 122-A/86, de 30 de Maio, pelo DEC LEI.415/89.30.11.1989.MF,\
+    \ DR.IS [276] de 30.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-1989-550819
+  date: '1989-11-30'
+- type: amended_by
+  target: pt:dre:291845:por
+  label: "Alterado o artigo 27.º, pelo DEC LEI.122/92.02.07.1992.MAI, DR.IS-A [150] de 02.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1992-291845
+  date: '1992-07-02'
+- type: amended_by
+  target: pt:dre:584780:por
+  label: "Alterado o artigo 6.º, pelo DEC LEI.18/93.23.01.1993.MF, DR.IS-A [19] de 23.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1993-584780
+  date: '1993-01-23'
+- type: amended_by
+  target: pt:dre:668324:por
+  label: "Alterado o artigo 27.º, alterado no Decreto-Lei n.º 122/92, de 2 de Julho, pelo DEC LEI.358/93.14.10.1993.MAI, DR.IS-A\
+    \ [241] de 14.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/358-1993-668324
+  date: '1993-10-14'
+- type: amended_by
+  target: pt:dre:262840:por
+  label: "Alterados os art.s 5º, 7º, 20º, 21º (todos na redação do Dec Lei 122-A/86, de 30-maio), 30º, 34º e 39º, pelo DEC\
+    \ LEI.130/94.1994.05.19.MF, DR.IS-A [116)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1994-262840
+  date: '1994-05-19'
+- type: amended_by
+  target: pt:dre:583976:por
+  label: "Alterado o art. 6º, com a redacção dada pelo Dec Lei 122-A/86, de 30-Mai, pelo DEC LEI.3/96.1996.01.25.MF, DR.IS-A\
+    \ [21]\0[21]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1996-583976
+  date: '1996-01-25'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o n.º 11 do art 29º pelo Dec-Lei. 224-A/96.1996.11.26.MJ DR.IS-A [274]2ºSupl\0upl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: amended_by
+  target: pt:dre:526781:por
+  label: "Alterados os artºs 26º e 27º, na redacção dos Decs-Leis 122-A/86 de 30-Mai, 122/92 de 02-Jul, 358/93 de 14-Out e\
+    \ 130/94 de 19-Mai, pelo Dec Lei.68/97.1997.04.03.MF DR.IS-A [78]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1997-526781
+  date: '1997-04-03'
+- type: amended_by
+  target: pt:dre:419386:por
+  label: "Alterado o art. 26º pelo DEC LEI.368/97.1997.12.23.MF, DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1997-419386
+  date: '1997-12-23'
+- type: amended_by
+  target: pt:dre:566836:por
+  label: "Alterado o art. 6º, com a redacção do Dec Lei 3/96 de 25-Jan, pelo DEC LEI.301/2001.2001.11.23.MF DR.IS-A [272]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-2001-566836
+  date: '2001-11-23'
+- type: amended_by
+  target: pt:dre:315884:por
+  label: "Alterados os arts. 23º e 27º, revogado o art. 41º e aditados: antes da epígrafe \"Capítulo I\", a epígrafe \"Título\
+    \ I - Do seguro obrigatório\", bem como os arts. 21º-A e 26º-A e o \"Título II - Da protecção em caso de acidente no estrangeiro\"\
+    , pelo DEC LEI.72-A/2003.2003.04.14.MF DR.IS-A [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-2003-315884
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:240271:por
+  label: "Alterado o art. 20.º, na redacção dos Dec Leis 122-A/86, de 30-Mai e 130/94, de 19-Mai, pelo DEC LEI.122/2005.29.07.2005.MJ,\
+    \ DR.IS-A [145] de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2005-240271
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:660327:por
+  label: "Alterados os arts. 33º e 37º do presente diploma, com a redacção que lhe foi conferida pelo Dec Lei 122-A/86 de\
+    \ 30-Mai, e aditados: o cap. II-A \"Da regularização dos sinistros\", com os arts. 20º-A a 20º-O, e o cap. V-A, \"Da garantia\
+    \ do regime de regularização de sinistros\", com os arts. 35º-A a 35º-D pelo DEC LEI.83/2006.03.05.2006.MEI, DR.IS-A [85]\
+    \ de 03.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2006-660327
+  date: '2006-05-03'
+- type: cites
+  target: pt:dre:182229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608743:por
+  label: "Revogados os nºs 1 e 2 do art. 34º pelo DEC LEI.44/2005.23.02.2005.MAI, DR.IS-A [38] de 23.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2005-608743
+  date: '2005-02-23'
+- type: repealed_by
+  target: pt:dre:640637:por
+  label: "Revogado, a partir de 20.10.2007, pelo DEC LEI.291/2007.21.08.2007.MFAP, DR.IS [160] de 21.08.2007(Ver notas)\0\
+    s)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-2007-640637
+  date: '2007-08-21'
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2008, o n.º 11 do art. 29º (na redacção do Dec Lei 122-A/86, de 30-Mai e mantido em\
+    \ vigor pelo Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96, de 26-Nov) do presente diploma (já revogado\
+    \ na íntegra, desde 20.10.2007, pelo Dec Lei 291/2007, de 21-Ago), pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
 article_structure:
   article_count: 41
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:41Z'
   warnings: []
   errors: []
 ---
@@ -486,12 +646,12 @@ São revogados o [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1985. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

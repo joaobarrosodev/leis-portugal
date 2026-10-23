@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29800/42364237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cea7b1552d70b4db2dc7153b2714adfdcc597489704fd06b8767eecd470eab33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 315b700ff7cb3866ca78a83a8e294e9438f1dfb17c724452e0113b93010741cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casa do Douro
+- Criação de Empresas
+- Extinção de Empresas
+- Orgânica
+- Pessoa Colectiva de Direito Público
 relationships:
 - type: amended_by
   target: pt:dre:58325220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451808:por
+  label: "Alterados os artigos 1º, 4º e 9º pelo DEC LEI.230/83.28.05.1983.MFP, DR.IS [123] de 28.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1983-451808
+  date: '1983-05-28'
+- type: amended_by
+  target: pt:dre:221554:por
+  label: Extinta a Casa do Douro pelo(a) Decreto-Lei n.º 313/86 - Diário da República n.º 220/1986, Série I de 1986-09-24,
+    nos termos do disposto no n.º 2 do seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/313-1986-221554
+  date: '1986-09-24'
+- type: amended_by
+  target: pt:dre:662683:por
+  label: "Repristinado pela RES.6/87.1987.02.21.AR DR.IS [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/6-1987-662683
+  date: '1987-02-21'
+- type: amended_by
+  target: pt:dre:58325220:por
+  label: Extinta, a partir de 31.12.2014, a Casa do Douro, com a natureza de associação pública, criada pelo presente diploma,
+    o qual é revogado, com efeitos a partir de 31.12.2014, pelo(a) Decreto-Lei n.º 152/2014 - Diário da República n.º 199/2014,
+    Série I de 2014-10-15, nos termos do disposto no seu art. 21º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2014-58325220
+  date: '2014-10-15'
+- type: cites
+  target: pt:dre:181269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596973:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469223:por
+  label: Rectificado pela DECL.DD2681.1983.01.06.PCM DR.IS [25]Supl de 31/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469223
+  date: '1983-01-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:05Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +143,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Natureza)
 
@@ -106,13 +151,13 @@ Natureza)
 
 2 - A Casa do Douro é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Fins)
 
 A Casa do Douro tem por objecto a representação e promoção dos interesses dos vitivinicultores durienses e o exercício das atribuições e competências que lhe são cometidas pelo presente diploma e estatutos complementares.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Atribuições e competências)
 
@@ -140,7 +185,7 @@ j) Promover e colaborar na melhoria das condições de fabrico dos produtos viti
 
 l) Promover e colaborar na investigação e experimentação tendentes ao aperfeiçoamento da vitivinicultura duriense.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Órgãos)
 
@@ -152,7 +197,7 @@ l) Promover e colaborar na investigação e experimentação tendentes ao aperfe
 
 4 - Os estatutos fixarão a competência e modo de funcionamento dos órgãos referidos neste artigo.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Intervenção do Estado)
 
@@ -172,7 +217,7 @@ d) Destituir os titulares do conselho regional dos vitivinicultores e da direcç
 
 4 - Os contratos efectuados com violação do disposto na parte final do número anterior são nulos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Transferências patrimoniais)
 
@@ -182,7 +227,7 @@ d) Destituir os titulares do conselho regional dos vitivinicultores e da direcç
 
 3 - O disposto nos números anteriores constitui título suficiente para quaisquer efeitos legais, incluindo os de registo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Do pessoal)
 
@@ -190,7 +235,7 @@ d) Destituir os titulares do conselho regional dos vitivinicultores e da direcç
 
 2 - Ao pessoal da Casa do Douro é aplicável, no que se refere ao seu estatuto, o regime do pessoal dos organismos de coordenação económica.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Dos estatutos)
 
@@ -198,7 +243,7 @@ d) Destituir os titulares do conselho regional dos vitivinicultores e da direcç
 
 2 - As alterações dos estatutos e regulamento eleitoral serão propostas pela direcção, em colaboração com o conselho regional de vitivinicultores, e aprovadas por decreto nos termos do número anterior.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Disposições transitórias)
 
@@ -214,6 +259,6 @@ Visto e aprovado em Conselho de Ministros de 11 de Novembro de 1982. - Francisco
 
 Homologado em 13 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

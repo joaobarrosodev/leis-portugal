@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16100/21192120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1982-394278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40124bea744f8f6fc8b3a0fc5ad503898e63d5b8812745cf21d3f4d487172f38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ff8045ba40dad21f48f7ffe687827059c73408e9457e1a37fb2de54883f5814
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Dívidas à Segurança Social
+- Pagamento
+- Previdência Social
+- Regime Jurídico
+- TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:442305:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:397756:por
+  label: Retificado o art. 1.º (na parte em que altera o n.º 2 do art. 25.º do Dec Lei 103/80 de 9 de mai) pelo(a) Declaração
+    - Diário da República n.º 187/1982, Série I de 1982-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-397756
+  date: '1982-08-14'
+- type: repealed_by
+  target: pt:dre:375980:por
+  label: Revogados os arts. 2.º, 3.º e 4.º pelo(a) Decreto-Lei n.º 52/88 - Diário da República n.º 41/1988, 1º Suplemento,
+    Série I de 1988-02-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-1988-375980
+  date: '1988-02-19'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o Dec Lei 103/80, de 09-Maio, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela\
+    \ Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:17Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +138,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 18.º, 21.º, 22.º e 25.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 18.º, 21.º, 22.º e 25.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, passam a ter a seguinte redacção:
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1 - ...
 
@@ -118,7 +154,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - As taxas de juros de mora previstas nos n.os 2 e 5 poderão ser alteradas por portaria do Ministro de Estado e das Finanças e do Plano e do Ministro dos Assuntos Sociais.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1 - A falta ou atraso na comunicação do início de actividade do contribuinte prevista no artigo 3.º será punida com a multa de 2000$00 a 30000$00.
 
@@ -126,7 +162,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - A falta de entrega nos prazos regulamentares em vigor das remunerações previstas no artigo 4.º será punida com a multa de 3000$00 a 50000$00.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1 - ...
 
@@ -134,7 +170,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - ...
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 1 - ...
 
@@ -146,24 +182,24 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - A falta de pagamento de qualquer prestação ou das contribuições mensais que se vencerem posteriormente à data do acordo determina o vencimento imediato das restantes prestações e juros, ficando sem efeito a redução prevista no n.º 3 do artigo 18.º
 
-###### Art. 2.º - 1 - Poderá ser concedida, por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro dos Assuntos Sociais, aos contribuintes que à data da entrada em vigor do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, se encontrassem em negociações para a celebração de contrato de viabilização a inexigibilidade ou redução de juros de mora vencidos até à data da publicação do presente diploma relativos às dívidas à Previdência até 31 de Dezembro de 1980.
+Art. 2.º - 1 - Poderá ser concedida, por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro dos Assuntos Sociais, aos contribuintes que à data da entrada em vigor do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, se encontrassem em negociações para a celebração de contrato de viabilização a inexigibilidade ou redução de juros de mora vencidos até à data da publicação do presente diploma relativos às dívidas à Previdência até 31 de Dezembro de 1980.
 
 2 - Apenas poderão beneficiar do previsto no número anterior os contribuintes cujo contrato de viabilização não tenha sido celebrado no prazo previsto no n.º 2 do artigo 27.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, por causas que não lhes sejam imputáveis.
 
 3 - O disposto nos artigos anteriores é aplicável, com as necessárias adaptações, aos contribuintes que se encontrem a negociar a celebração de acordos de reequilíbrio económico e financeiro no âmbito da assistência da Parempresa e de saneamento económico e financeiro de empresas públicas.
 
-###### Art. 3.º - 1 - Sempre que qualquer contribuinte pretenda obter crédito a curto prazo em qualquer instituição de crédito, deverá exibir guia de pagamento das contribuições devidas no segundo mês anterior ao do pedido, sem o que o crédito não poderá ser concedido.
+Art. 3.º - 1 - Sempre que qualquer contribuinte pretenda obter crédito a curto prazo em qualquer instituição de crédito, deverá exibir guia de pagamento das contribuições devidas no segundo mês anterior ao do pedido, sem o que o crédito não poderá ser concedido.
 
 2 - Ao não cumprimento do disposto no número anterior aplicar-se-á o disposto no n.º 7 do artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio.
 
-###### Art. 4.º - 1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, salvo no que se refere ao artigo 3.º, que entrará em vigor na data que for fixada em despacho do Ministro de Estado e das Finanças e do Plano e do Ministro dos Assuntos Sociais.
+Art. 4.º - 1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, salvo no que se refere ao artigo 3.º, que entrará em vigor na data que for fixada em despacho do Ministro de Estado e das Finanças e do Plano e do Ministro dos Assuntos Sociais.
 
 2 - O disposto no n.º 5 do artigo 18.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, aplicar-se-á apenas às contribuições que se vencerem a partir da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Junho de 1982.**
+Promulgado em 30 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

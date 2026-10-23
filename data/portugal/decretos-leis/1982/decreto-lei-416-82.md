@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/23300/32933294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1982-376587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99b0466db26c41f6038916aba5225bedd4eff746095fea4ef1805ad04cfe9dfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2750e1184a25104ad200e2cbce326ea3cb8ac6157fa1e0998098275f9aa976b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Pessoa Coletiva
 relationships:
 - type: amended_by
   target: pt:dre:312427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:327299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412470:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:312427:por
+  label: "Revogado pelo DEC LEI.144/83.1983.03.31.MJ, DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1983-312427
+  date: '1983-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:34Z'
   warnings: []
   errors: []
 ---
@@ -98,38 +117,38 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Podem ser provisoriamente inscritas no Registo Nacional de Pessoas Colectivas as entidades que não tenham completado as formalidades legais exigidas para a sua constituição ou regularização como pessoas colectivas ou entidades equiparadas.
+Artigo 1.º - 1 - Podem ser provisoriamente inscritas no Registo Nacional de Pessoas Colectivas as entidades que não tenham completado as formalidades legais exigidas para a sua constituição ou regularização como pessoas colectivas ou entidades equiparadas.
 
 2 - Às entidades referidas no número anterior são atribuídos um número e um cartão de identificação com carácter provisório.
 
-###### Art. 2.º A emissão do cartão provisório de identificação de pessoa colectiva ou entidade equiparada está condicionada à prova, por parte do requerente, de terem sido accionados os mecanismos de constituição ou regularização da pessoa colectiva ou entidade equiparada objecto de identificação provisória.
+Art. 2.º A emissão do cartão provisório de identificação de pessoa colectiva ou entidade equiparada está condicionada à prova, por parte do requerente, de terem sido accionados os mecanismos de constituição ou regularização da pessoa colectiva ou entidade equiparada objecto de identificação provisória.
 
-###### Art. 3.º Do cartão provisório de identificação deve, pelo menos, constar o número provisório de identificação, o nome ou designação social do titular, a sede, a actividade económica e a data de validade.
+Art. 3.º Do cartão provisório de identificação deve, pelo menos, constar o número provisório de identificação, o nome ou designação social do titular, a sede, a actividade económica e a data de validade.
 
-###### Art. 4.º O cartão provisório de identificação vale nos mesmos termos do cartão de identificação a que se referem os artigos 8.º e 19.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, na redacção do [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), de 9 de Novembro, salvo no que decorre da sua provisoriedade.
+Art. 4.º O cartão provisório de identificação vale nos mesmos termos do cartão de identificação a que se referem os artigos 8.º e 19.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, na redacção do [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), de 9 de Novembro, salvo no que decorre da sua provisoriedade.
 
-###### Art. 5.º - 1 - O cartão provisório de identificação caduca decorridos 6 meses após a sua emissão, podendo, porém, ser requerido novo cartão provisório quando o requerente prove não ter sido possível a finalização do processo de constituição e eficácia.
+Art. 5.º - 1 - O cartão provisório de identificação caduca decorridos 6 meses após a sua emissão, podendo, porém, ser requerido novo cartão provisório quando o requerente prove não ter sido possível a finalização do processo de constituição e eficácia.
 
 2 - A devolução de cartão provisório anterior é condição da passagem de novo cartão provisório ou de cartão definitivo.
 
-###### Art. 6.º Ao número provisório de identificação deve corresponder uma sequência numérica própria que se não confunda com as reservadas aos números definitivos.
+Art. 6.º Ao número provisório de identificação deve corresponder uma sequência numérica própria que se não confunda com as reservadas aos números definitivos.
 
-###### Art. 7.º - 1 - O disposto no [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), de 9 de Novembro, aplica-se, no que não contrarie o presente diploma, ao requerimento e emissão do cartão provisório.
+Art. 7.º - 1 - O disposto no [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), de 9 de Novembro, aplica-se, no que não contrarie o presente diploma, ao requerimento e emissão do cartão provisório.
 
 2 - Os modelos dos impressos de pedido e de cartão, bem como os respectivos preços, são aprovados por portaria do Ministro da Justiça.
 
 3 - As despesas de emissão do cartão de identificação são suportadas pelo produto da venda dos impressos, nos termos das normas aprovadas por despacho do Ministro da Justiça.
 
-###### Art. 8.º - 1 - A emissão de cartão de identificação pode ser recusada ou suspensa quando se verificar a existência de irregularidades graves no processo legal de constituição da pessoa colectiva ou entidade equiparada.
+Art. 8.º - 1 - A emissão de cartão de identificação pode ser recusada ou suspensa quando se verificar a existência de irregularidades graves no processo legal de constituição da pessoa colectiva ou entidade equiparada.
 
 2 - No caso previsto no número anterior, deverá ser emitido cartão provisório de identificação, que poderá ser renovado enquanto se mantiver o motivo da recusa ou suspensão.
 
-###### Art. 9.º As dúvidas surgidas na aplicação deste diploma são resolvidas por despacho do Ministro da Justiça.
+Art. 9.º As dúvidas surgidas na aplicação deste diploma são resolvidas por despacho do Ministro da Justiça.
 
 Visto e aprovado em Conselho de Ministros de 19 de Agosto de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 21 de Setembro de 1982.**
+Promulgado em 21 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

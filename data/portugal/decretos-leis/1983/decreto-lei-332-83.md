@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1983-453225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c432d210016de9a8888ac230d479f69b99791c953af5b4336a0974cae8afb76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc6da14883fd633e8f3b3e1585964984a1e821ddfcea0fa6f513651ebf7b4580
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Madeira.região Autónoma
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:664889:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472131:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:59Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +113,9 @@ Ao mesmo tempo, verifica-se também a conveniência de esclarecer nalguns pontos
 
 Assim, de acordo com o proposto pelos órgãos de governo próprio da Região Autónoma da Madeira, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O ensino superior ministrado na Região Autónoma da Madeira é parte integrante do sistema nacional do ensino superior e desenvolve-se na esfera político-administrativa da Região, nos termos definidos no presente diploma.
+Artigo 1.º O ensino superior ministrado na Região Autónoma da Madeira é parte integrante do sistema nacional do ensino superior e desenvolve-se na esfera político-administrativa da Região, nos termos definidos no presente diploma.
 
-###### Art. 2.º Sem prejuízo da competência exclusiva da Assembleia da República, cabe ao Governo da República a definição do sistema nacional do ensino superior, cujas normas definidas por via legislativa são directamente aplicáveis à Região, compreendendo, nomeadamente:
+Art. 2.º Sem prejuízo da competência exclusiva da Assembleia da República, cabe ao Governo da República a definição do sistema nacional do ensino superior, cujas normas definidas por via legislativa são directamente aplicáveis à Região, compreendendo, nomeadamente:
 
 a) Os estatutos dos diferentes tipos de ensino superior;
 
@@ -114,7 +129,7 @@ e) As condições gerais de acesso ao ensino superior;
 
 f) As estruturas orgânicas dos estabelecimentos de ensino superior.
 
-###### Art. 3.º São atribuições próprias da Região Autónoma da Madeira, no que se refere ao ensino superior:
+Art. 3.º São atribuições próprias da Região Autónoma da Madeira, no que se refere ao ensino superior:
 
 a) Proporcionar os meios humanos e materiais necessários à manutenção e ao desenvolvimento dos estabelecimentos públicos de ensino superior na Região;
 
@@ -128,7 +143,7 @@ e) Incentivar a fixação de docentes na Região e estimular o ingresso na carre
 
 f) Exercer a tutela administrativa relativamente aos estabelecimentos públicos de ensino superior da Região, sem prejuízo da sua autonomia e de acordo com a legislação que regule a sua orgânica e o seu funcionamento.
 
-###### Art. 4.º - 1 - Compete ao Governo da República e aos órgãos de governo próprio da Região Autónoma da Madeira, conjuntamente, em relação ao ensino superior nesta ministrado:
+Art. 4.º - 1 - Compete ao Governo da República e aos órgãos de governo próprio da Região Autónoma da Madeira, conjuntamente, em relação ao ensino superior nesta ministrado:
 
 a) A aprovação dos estatutos das instituições que ministram o ensino superior na Região;
 
@@ -144,7 +159,7 @@ f) A nomeação e exoneração do reitor, dos vice-reitores e dos vogais da comi
 
 2 - Os actos que, nos termos do número anterior, sejam da competência do Governo da República e dos órgãos de governo próprio da Região assumirão a forma prevista na lei geral, com intervenção conjunta do Ministro da República para a Madeira, do Ministro da Educação e do membro do Governo Regional com competência na matéria.
 
-###### Art. 5.º É da Competência exclusiva dos órgãos de governo próprio da Região, sem prejuízo do disposto no artigo anterior, a prossecução das atribuições consignadas no artigo 3.º designadamente:
+Art. 5.º É da Competência exclusiva dos órgãos de governo próprio da Região, sem prejuízo do disposto no artigo anterior, a prossecução das atribuições consignadas no artigo 3.º designadamente:
 
 a) Aprovar os orçamentos e superintender na gestão financeira das instituições públicas de ensino superior na Região;
 
@@ -154,18 +169,18 @@ c) Proporcionar as instalações e o equipamento necessários ao regular funcion
 
 d) Superintender nos serviços sociais do ensino superior da Região.
 
-###### Art. 6.º - 1 - Cabe à Região Autónoma da Madeira, a partir de 1 de Janeiro de 1984, o financiamento do ensino superior ministrado na Região, nos termos do artigo 3.º do presente diploma.
+Art. 6.º - 1 - Cabe à Região Autónoma da Madeira, a partir de 1 de Janeiro de 1984, o financiamento do ensino superior ministrado na Região, nos termos do artigo 3.º do presente diploma.
 
 2 - Os encargos relativos ao Instituto Superior de Artes Plásticas da Madeira e à Escola Superior de Educação da Madeira, e outros até agora suportados pelo Ministério da Educação, continuarão a ser satisfeitos até ao final do presente ano económico pelas respectivas rubricas orçamentais.
 
 Visto e aprovado em, Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Lino Dias Miguel - João José Fraústo da Silva.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Junho de 1983.**
+Referendado em 23 de Junho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

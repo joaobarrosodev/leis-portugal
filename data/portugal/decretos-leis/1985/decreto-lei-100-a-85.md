@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 81/1985, 1º Suplemento, Série I de 1985-04-08
   number: '81'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 964-(1) a 964-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/08101/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-a-1985-187954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eecea5b108b584dd420e7f887f9dde6dc7c588b7af6ae004defbdc64636d3be8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f618b83997a823f967504598a5a0c25499f1f2eb595f4eea4a4227a065a15b21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Comissão
+- Extinção de Serviços
+- Grupo de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:603475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:328869:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603475:por
+  label: "Revogado, a partir de 01.02.2004, pela LEI.4/2004.15.01.2004.AR, DR.IS-A [12] de 15.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2004-603475
+  date: '2004-01-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:24Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +115,13 @@ Considerando a necessidade de um redimensionamento do aparelho administrativo do
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A criação de comissões ou grupos de trabalho, em qualquer departamento ministerial, apenas se deverá efectivar quando não for possível realizar os trabalhos no âmbito da estrutura orgânica de cada ministério.
+Artigo 1.º - 1 - A criação de comissões ou grupos de trabalho, em qualquer departamento ministerial, apenas se deverá efectivar quando não for possível realizar os trabalhos no âmbito da estrutura orgânica de cada ministério.
 
 2 - A criação ou manutenção dos órgãos referidos no número anterior, independentemente da forma da sua constituição, passa a estar, obrigatoriamente, sujeita à fixação clara dos seus objectivos e à determinação de prazo limite para a sua duração, não dando direito a senhas de presença ou qualquer outra forma de remuneração.
 
 3 - Nos casos em que, excepcionalmente, a criação de comissões ou grupos de trabalho implique a atribuição de quaisquer remunerações, as mesmas não poderão ser fixadas ou processadas sem prévia concordância, após rigorosa análise, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública.
 
-###### Art. 2.º São extintos, nesta data, os seguintes organismos da Administração Pública:
+Art. 2.º São extintos, nesta data, os seguintes organismos da Administração Pública:
 
 Na Presidência do Conselho de Ministros:
 
@@ -240,12 +253,12 @@ Comissão ad hoc para emitir parecer sobre o Plano Geral do Porto de Sines.
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Augusto Seabra - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins - João Rosado Correia - Francisco José de Sousa Tavares - Carlos Montez Melancia.
 
-**Promulgado em 27 de Março de 1985.**
+Promulgado em 27 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Março de 1985.**
+Referendado em 29 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

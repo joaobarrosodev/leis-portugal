@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11500/18421845.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1983-451274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00e50f5ee61167c5fc04633df93ca6f36d1b751efda2a5da1406f8898573e08f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b2078af3bfb40b20ccf53d8bef70a51767a05ed8afb823c8ed420f946d7f253
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Turismo de Portugal no Estrangeiro
+- Orgânica
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:684396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606541:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551256:por
+  label: "Revogado pelo DEC LEI.446/89.30.12.1989.MCT, DR.IS [299] de 30.12.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/446-1989-551256
+  date: '1989-12-30'
+- type: repealed_by
+  target: pt:dre:684396:por
+  label: Revogado pelo(a) Decreto-Lei n.º 179/92 - Diário da República n.º 188/1992, 1º Suplemento, Série I-A de 1992-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1992-684396
+  date: '1992-08-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:48Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +146,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Localização, competência e funcionamento
 
-###### Artigo 1.º - 1 - Os serviços de turismo no estrangeiro integram os centros de turismo de Portugal, designados abreviadamente por CTP, e as delegações cuja acção será regulada pelas disposições do presente diploma.
+Artigo 1.º - 1 - Os serviços de turismo no estrangeiro integram os centros de turismo de Portugal, designados abreviadamente por CTP, e as delegações cuja acção será regulada pelas disposições do presente diploma.
 
 2 - Constituem CTP os serviços de turismo sediados nos seguintes países: Bélgica, Brasil, Canadá, Dinamarca, Espanha, Estados Unidos da América, França, Grã-Bretanha, Itália, Países Baixos, República Federal da Alemanha, Suécia, Suíça e Venezuela.
 
@@ -125,7 +166,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 10 - Quando a dimensão do mercado e o interesse para o turismo o justifique, poderão ser criadas subdelegações nas áreas onde se encontrem já instalados CTP ou delegações, na exclusiva dependência do respectivo responsável, por despacho conjunto do membro do Governo com tutela sobre o sector do turismo e do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 2.º Compete aos serviços de turismo no estrangeiro, designadamente:
+Art. 2.º Compete aos serviços de turismo no estrangeiro, designadamente:
 
 a) Representar a DGT na sua área de actuação;
 
@@ -141,7 +182,7 @@ f) Cooperar com as missões diplomáticas portuguesas na preparação e negocia�
 
 g) Colaborar com as representações particulares e oficiais portuguesas na prossecução dos interesses do turismo nacional e na comercialização do produto turístico português.
 
-###### Art. 3.º Os CTP são geridos por um director responsável pelo funcionamento do respectivo centro, competindo-lhe, designadamente:
+Art. 3.º Os CTP são geridos por um director responsável pelo funcionamento do respectivo centro, competindo-lhe, designadamente:
 
 a) Assegurar a respectiva gestão administrativa e financeira;
 
@@ -151,7 +192,7 @@ c) Prestar anualmente contas da sua gerência ao conselho administrativo da DGT;
 
 d) Elaborar o relatório anual das actividades do centro.
 
-###### Art. 4.º - 1 - As delegações funcionarão integradas nas delegações do ICEP, nos países onde já estejam implantadas, sendo estas responsáveis pela execução dos planos previamente aprovados pela DGT.
+Art. 4.º - 1 - As delegações funcionarão integradas nas delegações do ICEP, nos países onde já estejam implantadas, sendo estas responsáveis pela execução dos planos previamente aprovados pela DGT.
 
 2 - Aos directores das delegações do ICEP, no âmbito do turismo, compete:
 
@@ -169,7 +210,7 @@ c) Elaborar o relatório anual das actividades promocionais, que será submetido
 
 6 - O saldo verificado em cada gerência será reposto nos cofres do Estado através do ICEP.
 
-###### Art. 5.º - 1 - O horário de funcionamento dos CTP dependerá do regime em vigor nos países onde se encontrem sediados.
+Art. 5.º - 1 - O horário de funcionamento dos CTP dependerá do regime em vigor nos países onde se encontrem sediados.
 
 2 - Para efeitos do disposto no número anterior, a elaboração e execução do horário é da responsabilidade do director do centro, que organizará os turnos de pessoal que se tornem necessários para assegurar sem interrupção o respectivo funcionamento.
 
@@ -177,7 +218,7 @@ c) Elaborar o relatório anual das actividades promocionais, que será submetido
 
 ### CAPÍTULO II — Planeamento e administração
 
-###### Art. 6.º - 1 - Com vista à elaboração dos respectivos desdobramentos de despesa, a DGT dará a conhecer, até 31 de Dezembro, aos CTP e delegações os fundos de que passam a dispor, aprovados no Orçamento do Estado para o ano seguinte.
+Art. 6.º - 1 - Com vista à elaboração dos respectivos desdobramentos de despesa, a DGT dará a conhecer, até 31 de Dezembro, aos CTP e delegações os fundos de que passam a dispor, aprovados no Orçamento do Estado para o ano seguinte.
 
 2 - Logo que a DGT tenha conhecimento das verbas atribuídas aos CTP e delegações incluídas anualmente no investimento do plano e constantes dos planos anuais superiormente aprovados pelo membro do Governo com tutela sobre o sector do turismo e do Ministro de Estado e das Finanças e do Plano, dará a conhecer os respectivos quantitativos para a elaboração dos planos definitivos, face às verbas efectivamente concedidas.
 
@@ -185,15 +226,15 @@ c) Elaborar o relatório anual das actividades promocionais, que será submetido
 
 4 - Para além das verbas previstas no n.º 1, poderão os CTP e delegações beneficiar dos acréscimos que localmente se verifiquem provenientes da sua actividade e de que prestarão contas através de documentos de quitação devidamente ligitimados.
 
-###### Art. 7.º - 1 - No plano administrativo, como excepção às regras de contabilidade pública, ficam os directores dos CTP autorizados a poder realizar despesas até ao limite da competência que, nos termos do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, está consignada aos órgãos dirigentes dos serviços com autonomia administrativa e a dispensar a realização de concursos e contratos até ao limite de 500 contos estabelecidos na alínea b) do artigo 21.º do mesmo diploma.
+Art. 7.º - 1 - No plano administrativo, como excepção às regras de contabilidade pública, ficam os directores dos CTP autorizados a poder realizar despesas até ao limite da competência que, nos termos do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, está consignada aos órgãos dirigentes dos serviços com autonomia administrativa e a dispensar a realização de concursos e contratos até ao limite de 500 contos estabelecidos na alínea b) do artigo 21.º do mesmo diploma.
 
 2 - Para além dos limites referidos no número anterior, devem ser propostas à DGT as necessárias autorizações para a realização de despesas que os CTP tenham de efectuar, bem como a autorização para dispensa de formalidades atinentes à realização de concurso ou celebração de contratos, quando as despesas atinjam valores superiores aos referidos naquele número.
 
 3 - A realização de despesas no estrangeiro com obras e aquisições de serviços respeitantes a projectos inseridos em programas de investimentos do plano, aprovados e liquidáveis quer por este quer pelo Orçamento do Estado, é dispensada do cumprimento das formalidades referidas nos números anteriores.
 
-###### Art. 8.º As despesas referidas no n.º 3 do artigo anterior e, bem assim, as que respeitem a admissão local do pessoal necessário ao funcionamento dos CTP ou delegações realizar-se-ão sem sujeição a outras formalidades e ao visto do Tribunal de Contas.
+Art. 8.º As despesas referidas no n.º 3 do artigo anterior e, bem assim, as que respeitem a admissão local do pessoal necessário ao funcionamento dos CTP ou delegações realizar-se-ão sem sujeição a outras formalidades e ao visto do Tribunal de Contas.
 
-###### Art. 9.º - 1 - As dotações atribuídas aos serviços de turismo no estrangeiro serão dispensadas do regime duodecimal, dados os condicionalismos de que se reveste a sua acção.
+Art. 9.º - 1 - As dotações atribuídas aos serviços de turismo no estrangeiro serão dispensadas do regime duodecimal, dados os condicionalismos de que se reveste a sua acção.
 
 2 - A isenção prevista no número anterior aplica-se igualmente às verbas do investimento do plano afectas a acções promocionais em que aqueles serviços estejam envolvidos.
 
@@ -211,29 +252,29 @@ c) Declaração do saldo de encerramento da conta;
 
 d) Mapa de controle financeiro.
 
-###### Art. 10.º No prazo de 30 dias após o encerramento das contas, a DGT, achando-as conformes, submetê-las-á ao visto do membro do Governo com tutela sobre o sector do turismo para efeitos de aprovação.
+Art. 10.º No prazo de 30 dias após o encerramento das contas, a DGT, achando-as conformes, submetê-las-á ao visto do membro do Governo com tutela sobre o sector do turismo para efeitos de aprovação.
 
-###### Art. 11.º - 1 - Aprovadas as contas referidas no artigo anterior, a DGT procederá à regularização das importâncias que, não tendo sido aplicadas, devem dar entrada nos cofres do Estado como sobra da gerência anterior por encontro de contas na primeira remessa de fundos a efectuar para o CTP.
+Art. 11.º - 1 - Aprovadas as contas referidas no artigo anterior, a DGT procederá à regularização das importâncias que, não tendo sido aplicadas, devem dar entrada nos cofres do Estado como sobra da gerência anterior por encontro de contas na primeira remessa de fundos a efectuar para o CTP.
 
 2 - Um dos exemplares da guia de reposição, depois de averbado o pagamento, será enviado ao director do CTP pela DGT.
 
-###### Art. 12.º - 1 - Nos CTP proceder-se-á sempre à contabilização, registo e movimentação de operações de escrita, de acordo com os sistemas utilizados na administração central e quaisquer outros meios que os condicionalismos locais aconselhem dever adoptar-se.
+Art. 12.º - 1 - Nos CTP proceder-se-á sempre à contabilização, registo e movimentação de operações de escrita, de acordo com os sistemas utilizados na administração central e quaisquer outros meios que os condicionalismos locais aconselhem dever adoptar-se.
 
 2 - Para efeito do disposto no número anterior, constituirão modelos obrigatórios a considerar nas operações de escrita os que forem aprovados pelas Direcções-Gerais da Contabilidade Pública e do Turismo.
 
-###### Art. 13.º - 1 - A mudança de director dos CTP implicará a necessidade de se lavrar auto de entrega e posse assinado pelo que deixou a gerência e pelo que a assume.
+Art. 13.º - 1 - A mudança de director dos CTP implicará a necessidade de se lavrar auto de entrega e posse assinado pelo que deixou a gerência e pelo que a assume.
 
 2 - Do auto constará, por extenso, todo o numerário existente, posição da conta bancária e do balancete sobre os valores existentes à data da mudança de director.
 
-###### Art. 14.º No caso de falecimento do director, o funcionário que passar a substitui-lo deverá proceder às formalidades prescritas no artigo anterior.
+Art. 14.º No caso de falecimento do director, o funcionário que passar a substitui-lo deverá proceder às formalidades prescritas no artigo anterior.
 
-###### Art. 15.º - 1 - Os CTP e delegações comunicarão à DGT, até 10 de Janeiro de cada ano, os bens que foram aumentados ou abatidos ao património do Estado, em relação a 31 de Dezembro anterior, para que constem do arrolamento geral da DGT.
+Art. 15.º - 1 - Os CTP e delegações comunicarão à DGT, até 10 de Janeiro de cada ano, os bens que foram aumentados ou abatidos ao património do Estado, em relação a 31 de Dezembro anterior, para que constem do arrolamento geral da DGT.
 
 2 - Todas as alterações que resultem de roubos, extravios ou inutilização de bens patrimoniais devem ser comunicadas à DGT, só podendo ser consideradas nos respectivos mapas de abate quando sobre os mesmos se tenha obtido o competente assentimento por parte da Direcção-Geral do Património.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 16.º - 1 - Os CTP terão, além do director, o pessoal privativo que anualmente for considerado necessário para concretizar os objectivos previstos no presente diploma.
+Art. 16.º - 1 - Os CTP terão, além do director, o pessoal privativo que anualmente for considerado necessário para concretizar os objectivos previstos no presente diploma.
 
 2 - O pessoal das delegações do ICEP assegurará o funcionamento das delegações da DGT, acrescido ou não, conforme o caso, do pessoal privativo de turismo previsto no [Decreto Regulamentar n.º 44/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1982-394292), de 24 de Julho.
 
@@ -241,19 +282,19 @@ d) Mapa de controle financeiro.
 
 4 - Os lugares e cargos previstos nos números anteriores serão providos por funcionários em regime de comissão de serviço ou contratados localmente em regime de direito privado, subordinados às leis laborais locais.
 
-###### Art. 17.º - 1 - As remunerações do pessoal dos CTP constarão de tabela em moeda local, a aprovar anualmente pelo membro do Governo com tutela sobre o sector do turismo e pelo Ministro de Estado e das Finanças e do Plano, sob proposta dos respectivos directores, tendo em conta o custo de vida local.
+Art. 17.º - 1 - As remunerações do pessoal dos CTP constarão de tabela em moeda local, a aprovar anualmente pelo membro do Governo com tutela sobre o sector do turismo e pelo Ministro de Estado e das Finanças e do Plano, sob proposta dos respectivos directores, tendo em conta o custo de vida local.
 
 2 - No caso das delegações, ter-se-ão em conta as tabelas praticadas pelo ICEP.
 
-###### Art. 18.º A mudança de escalão nas várias categorias do pessoal dos CTP constantes da tabela referida no artigo anterior, que deverá verificar-se após 2 anos de permanência no escalão inferior, será precedida de proposta a apresentar pelo director, donde constem informações quanto a zelo e aptidão para o serviço.
+Art. 18.º A mudança de escalão nas várias categorias do pessoal dos CTP constantes da tabela referida no artigo anterior, que deverá verificar-se após 2 anos de permanência no escalão inferior, será precedida de proposta a apresentar pelo director, donde constem informações quanto a zelo e aptidão para o serviço.
 
-###### Art. 19.º - 1 - Aos funcionários e agentes na efectividade de serviço nos CTP são abonados, em cada ano, subsídios de férias e de Natal correspondentes à remuneração mensal auferida.
+Art. 19.º - 1 - Aos funcionários e agentes na efectividade de serviço nos CTP são abonados, em cada ano, subsídios de férias e de Natal correspondentes à remuneração mensal auferida.
 
 2 - O pessoal que em 1 de Dezembro não tiver completado 1 ano de bom e efectivo serviço só terá direito a receber o subsídio de valor correspondente a tantos duodécimos quantos os meses de serviço prestado nestas condições.
 
-###### Art. 20.º Sem prejuízo do regime em vigor nas leis laborais locais, poderá ser admitido pessoal para a execução de trabalho específico sempre que as exigências de serviço nos CTP o aconselhem, devendo os directores dos centros dar conhecimento à DGT das remunerações atribuídas com indicação das funções a exercer e do tempo previsto para o trabalho a prestar.
+Art. 20.º Sem prejuízo do regime em vigor nas leis laborais locais, poderá ser admitido pessoal para a execução de trabalho específico sempre que as exigências de serviço nos CTP o aconselhem, devendo os directores dos centros dar conhecimento à DGT das remunerações atribuídas com indicação das funções a exercer e do tempo previsto para o trabalho a prestar.
 
-###### Art. 21.º - 1 - O funcionário tem direito a um abono para despesas de instalação quando transferido de Portugal para qualquer centro de turismo no estrangeiro, delegação ou entre centros.
+Art. 21.º - 1 - O funcionário tem direito a um abono para despesas de instalação quando transferido de Portugal para qualquer centro de turismo no estrangeiro, delegação ou entre centros.
 
 2 - Igual abono será atribuído aos agentes transferidos de um para outro posto.
 
@@ -287,13 +328,13 @@ Entre 24 e 36 meses ... 10
 
 11 - O montante do abono mencionado no número anterior deve, em situação normal, equivaler a 4 vezes o vencimento correspondente à categoria do funcionário.
 
-###### Art. 22.º - 1 - Os funcionários nomeados em comissão de serviço para os CTP ou delegações no estrangeiro terão direito ao transporte para si e sua família, quer no início da comissão quer no fim, bem como o direito ao transporte e seguro da mobília do seu agregado familiar.
+Art. 22.º - 1 - Os funcionários nomeados em comissão de serviço para os CTP ou delegações no estrangeiro terão direito ao transporte para si e sua família, quer no início da comissão quer no fim, bem como o direito ao transporte e seguro da mobília do seu agregado familiar.
 
 2 - Os encargos com o transporte de mobiliário e bagagem serão liquidados até ao limite de 6 t ou 40 m3 para o pessoal com filhos e 4 t ou 25 m3 para o pessoal sem filhos.
 
 3 - Os agentes transferidos entre centros terão igualmente direito aos abonos referidos nos números anteriores.
 
-###### Art. 23.º - 1 - Ao pessoal dos CTP ou delegações, sem prejuízo, nestas, do regime em vigor nas delegações do ICEP, que prevalecerá, serão deduzidas as contribuições que forem devidas em obediência a sistemas de previdência social vigentes nos respectivos países, quando tal medida seja nos mesmos admitida, para completa integração nos competentes esquemas de segurança social.
+Art. 23.º - 1 - Ao pessoal dos CTP ou delegações, sem prejuízo, nestas, do regime em vigor nas delegações do ICEP, que prevalecerá, serão deduzidas as contribuições que forem devidas em obediência a sistemas de previdência social vigentes nos respectivos países, quando tal medida seja nos mesmos admitida, para completa integração nos competentes esquemas de segurança social.
 
 2 - Nos casos em que não seja possível a inscrição na segurança social local, poderão os centros ou delegações promover a sua integração em esquema de segurança social que contemple as mesmas formas de previdência.
 
@@ -301,7 +342,7 @@ Entre 24 e 36 meses ... 10
 
 4 - Dada a inexequibilidade da extensão dos benefícios da ADSE ao pessoal comissionado em serviço nos CTP ou delegações, não será deduzido nas respectivas remunerações o desconto para aquele fim, pelo que fica abrangido pelas disposições dos números anteriores.
 
-###### Art. 24.º - 1 - O pessoal dos serviços de turismo no estrangeiro, quando deslocado por motivo de serviço, tem direito ao abono de ajudas de custo nos termos da legislação em vigor para os funcionários públicos.
+Art. 24.º - 1 - O pessoal dos serviços de turismo no estrangeiro, quando deslocado por motivo de serviço, tem direito ao abono de ajudas de custo nos termos da legislação em vigor para os funcionários públicos.
 
 2 - Exceptuam-se deste regime os casos em que, por motivo da sua actividade promocional, sejam obrigados a instalar-se em hotéis de categoria incompatível com a ajuda de custo respectiva, facto que será apreciado e autorizado previamente pela sede.
 
@@ -309,18 +350,18 @@ Entre 24 e 36 meses ... 10
 
 4 - Quando se trate de participação em acontecimentos também de interesse para o turismo, designadamente conferências internacionais e congressos, que, por razões de prestígio, implique a utilização de estabelecimentos hoteleiros de nível de todo incomportável pela ajuda de custo em vigor, será abonado ao respectivo pessoal a ajuda de custo que tiver direito e ainda o reembolso do excedente verificado em relação à despesa efectivamente realizada e comprovada.
 
-###### Art. 25.º Ficam revogados os Decretos-Leis n.os 39475, de 21 de Dezembro de 1953, e 39724, de 9 de Julho de 1954, as Portarias n.os 15327, de 30 de Março de 1955, e 16665, de 15 de Abril de 1958, e os n.os 2, 3, 4 e 5 do artigo 5.º e artigo 6.º do [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), de 19 de Outubro.
+Art. 25.º Ficam revogados os Decretos-Leis n.os 39475, de 21 de Dezembro de 1953, e 39724, de 9 de Julho de 1954, as Portarias n.os 15327, de 30 de Março de 1955, e 16665, de 15 de Abril de 1958, e os n.os 2, 3, 4 e 5 do artigo 5.º e artigo 6.º do [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), de 19 de Outubro.
 
-###### Art. 26.º O presente decreto-lei entra em vigor no início do mês seguinte ao da sua publicação.
+Art. 26.º O presente decreto-lei entra em vigor no início do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Vasco Luís Caldeira Coelho Futscher Pereira - Ricardo Manuel Simões Bayão Horta - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 25 de Abril de 1983.**
+Promulgado em 25 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Maio de 1983.**
+Referendado em 5 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

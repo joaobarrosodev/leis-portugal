@@ -49,36 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1984-400791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bd8a56db429b8f961806021b3ccc850623150d713e07d7273fcdb2724ecad1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 912e0ecdc0c1180bcc7aa9e6552e66bbfcb94c120aa6cf3717682e9166565e92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central
+- Autarquia Local
+- Instalação de Serviços
+- Serviços de Segurança
+relationships:
+- type: cites
+  target: pt:dre:291219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:32Z'
   warnings: []
   errors: []
 ---
@@ -103,56 +127,56 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Constitui encargo do Estado, de harmonia com o plano de instalações das forças e serviços de segurança e de protecção civil dependentes do Ministério da Administração Interna, segundo as disponibilidades do Orçamento do Estado, a construção, a aquisição e a adaptação de instalações e edifícios para as mesmas.
+Artigo 1.º Constitui encargo do Estado, de harmonia com o plano de instalações das forças e serviços de segurança e de protecção civil dependentes do Ministério da Administração Interna, segundo as disponibilidades do Orçamento do Estado, a construção, a aquisição e a adaptação de instalações e edifícios para as mesmas.
 
-###### Art. 2.º - 1 - O plano referido no artigo anterior é um plano de médio prazo e será revisto anualmente.
+Art. 2.º - 1 - O plano referido no artigo anterior é um plano de médio prazo e será revisto anualmente.
 
 2 - A preparação, coordenação, actualização e acompanhamento do plano cabe a uma comissão de coordenação, que funcionará junto do Ministro da Administração Interna e que será composta por 1 representante do Ministério, que presidirá, 2 representantes do Ministério do Equipamento Social e representantes das forças e serviços de segurança e de protecção civil referidos no artigo 1.º
 
 3 - Os membros da comissão de coordenação não auferem qualquer remuneração ou gratificação, salvo ajudas de custo e transporte, que constituem encargos dos serviços a que pertencem.
 
-###### Art. 3.º As dotações orçamentais para a execução do plano referido no artigo 1.º serão previstas no orçamento do Plano de Investimentos da Administração Central (PIDDAC) do Ministério do Equipamento Social, mediante despacho prévio dos Ministros da Administração Interna, das Finanças e do Plano e do Equipamento Social, sob proposta da comissão de coordenação.
+Art. 3.º As dotações orçamentais para a execução do plano referido no artigo 1.º serão previstas no orçamento do Plano de Investimentos da Administração Central (PIDDAC) do Ministério do Equipamento Social, mediante despacho prévio dos Ministros da Administração Interna, das Finanças e do Plano e do Equipamento Social, sob proposta da comissão de coordenação.
 
-###### Art. 4.º Cabe ao Ministério do Equipamento Social, através dos serviços competentes, a responsabilidade pelo estudo e execução de todas as obras para a instalação das forças e serviços de segurança e de protecção civil dependentes do Ministro da Administração Interna.
+Art. 4.º Cabe ao Ministério do Equipamento Social, através dos serviços competentes, a responsabilidade pelo estudo e execução de todas as obras para a instalação das forças e serviços de segurança e de protecção civil dependentes do Ministro da Administração Interna.
 
-###### Art. 5.º Os projectos de construção de novos edifícios ou adaptação dos existentes serão elaborados ou mandados elaborar pelos serviços competentes do Ministério do Equipamento Social com base no programa-tipo elaborado pela força ou serviço interessado, sendo aprovados por despachos conjuntos dos Ministros da Administração Interna e do Equipamento Social, sob proposta da comissão de coordenação.
+Art. 5.º Os projectos de construção de novos edifícios ou adaptação dos existentes serão elaborados ou mandados elaborar pelos serviços competentes do Ministério do Equipamento Social com base no programa-tipo elaborado pela força ou serviço interessado, sendo aprovados por despachos conjuntos dos Ministros da Administração Interna e do Equipamento Social, sob proposta da comissão de coordenação.
 
-###### Art. 6.º - 1 - De harmonia com o artigo 12.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, podem ser estabelecidos acordos de colaboração com os municípios onde estejam previstas instalações para as forças e serviços de segurança e de protecção civil.
+Art. 6.º - 1 - De harmonia com o artigo 12.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, podem ser estabelecidos acordos de colaboração com os municípios onde estejam previstas instalações para as forças e serviços de segurança e de protecção civil.
 
 2 - Os acordos serão estabelecidos entre a câmara municipal respectiva e o órgão dirigente da força ou serviço, sobre minuta previamente aprovada pelo Ministro da Administração Interna e pela assembleia municipal competente.
 
 3 - Os acordos de colaboração serão programados e analisados pela comissão de coordenação, cabendo a execução, na parte relativa à elaboração de projectos, organização das empreitadas e respectiva fiscalização aos serviços competentes do Ministério do Equipamento Social.
 
-###### Art. 7.º Não será estabelecida qualquer forma de colaboração quando a participação do município for inferior ao valor do terreno urbanizado.
+Art. 7.º Não será estabelecida qualquer forma de colaboração quando a participação do município for inferior ao valor do terreno urbanizado.
 
-###### Art. 8.º - 1 - Nos casos de acordo de colaboração, o edifício, uma vez concluído e feita a recepção final, passará para o património do município, mediante acto de cessão, não tendo o município direito a receber qualquer contraprestação pela respectiva utilização pela força ou serviço destinatário durante o período de 50 a 99 anos, conforme for acordado, assumindo os encargos de conservação nos termos idênticos aos do senhorio nos contratos de arrendamento.
+Art. 8.º - 1 - Nos casos de acordo de colaboração, o edifício, uma vez concluído e feita a recepção final, passará para o património do município, mediante acto de cessão, não tendo o município direito a receber qualquer contraprestação pela respectiva utilização pela força ou serviço destinatário durante o período de 50 a 99 anos, conforme for acordado, assumindo os encargos de conservação nos termos idênticos aos do senhorio nos contratos de arrendamento.
 
 2 - O acordo de colaboração pode ainda dispor que o município assuma o encargo de realizar ou cooperar com a força ou o serviço destinatário na realização das obras que cabem normalmente ao inquilino, no caso do arrendamento, e ainda acordem quanto à assunção pelo município do fornecimento de móveis e utensílios para a instalação daquela força ou serviço.
 
-###### Art. 9.º Decorrido o prazo previsto no acordo de colaboração, ao abrigo do disposto no artigo anterior, se as instalações forem necessárias à força ou serviço destinatário ou outros dependentes do Ministério da Administração Interna, será a cessão gratuita convertida em arrendamento, por analogia com o disposto no artigo 11.º
+Art. 9.º Decorrido o prazo previsto no acordo de colaboração, ao abrigo do disposto no artigo anterior, se as instalações forem necessárias à força ou serviço destinatário ou outros dependentes do Ministério da Administração Interna, será a cessão gratuita convertida em arrendamento, por analogia com o disposto no artigo 11.º
 
-###### Art. 10.º A titularidade dos arrendamentos celebrados pelos municípios nos termos e para os efeitos do artigo 92.º do [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Agosto de 1944, artigo 109.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, artigo único do Decreto-Lei n.º 61795, de 5 de Agosto de 1959, e artigo 85.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Junho, é transferida respectivamente para a GNR e PSP, por cujas dotações orçamentais serão pagas as respectivas rendas.
+Art. 10.º A titularidade dos arrendamentos celebrados pelos municípios nos termos e para os efeitos do artigo 92.º do [Decreto-Lei n.º 33905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33905-1944-291219), de 2 de Agosto de 1944, artigo 109.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, artigo único do Decreto-Lei n.º 61795, de 5 de Agosto de 1959, e artigo 85.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Junho, é transferida respectivamente para a GNR e PSP, por cujas dotações orçamentais serão pagas as respectivas rendas.
 
-###### Art. 11.º - 1 - Mantém-se a cedência a favor da GNR e da PSP das instalações e equipamentos das autarquias locais em regime de gratuitidade, desde que aquelas entidades não necessitem dos mesmos para instalação de serviços próprios, nem tenham de, para o efeito, recorrer a arrendamentos de outros prédios.
+Art. 11.º - 1 - Mantém-se a cedência a favor da GNR e da PSP das instalações e equipamentos das autarquias locais em regime de gratuitidade, desde que aquelas entidades não necessitem dos mesmos para instalação de serviços próprios, nem tenham de, para o efeito, recorrer a arrendamentos de outros prédios.
 
 2 - Logo que as autarquias locais venham a necessitar de instalar serviços próprios nos prédios ou parte deles cedidos à GNR e PSP, será a cedência gratuita convertida em arrendamento, sendo a renda estabelecida de comum acordo e, na falta de acordo, pela comissão de avaliação competente.
 
 3 - A renda a fixar terá em conta os investimentos feitos ou a comparticipação dada pelo Estado na construção ou obras de adaptação e benfeitorias necessárias feitas no edifício ou instalações, aplicando-se com as necessárias adaptações o disposto no artigo 8.º
 
-###### Art. 12.º Relativamente às situações previstas nos artigos 10.º e 11.º poderão ainda ser estabelecidos acordos de colaboração em termos idênticos aos previstos no n.º 2 do artigo 8.º
+Art. 12.º Relativamente às situações previstas nos artigos 10.º e 11.º poderão ainda ser estabelecidos acordos de colaboração em termos idênticos aos previstos no n.º 2 do artigo 8.º
 
-###### Art. 13.º As adjudicações de empreendimentos destinados a edifícios da PSP e da GNR que tenham sido efectuadas pelas câmaras municipais em data anterior à entrada em vigor deste diploma são excepcionalmente consideradas para todos os efeitos legais, devendo as obras prosseguir até final, sendo utilizadas as dotações orçamentais já previstas e a prever no orçamento do Plano de Investimentos da Administração Central (PIDDAC), competindo o financiamento ao Ministério do Equipamento Social.
+Art. 13.º As adjudicações de empreendimentos destinados a edifícios da PSP e da GNR que tenham sido efectuadas pelas câmaras municipais em data anterior à entrada em vigor deste diploma são excepcionalmente consideradas para todos os efeitos legais, devendo as obras prosseguir até final, sendo utilizadas as dotações orçamentais já previstas e a prever no orçamento do Plano de Investimentos da Administração Central (PIDDAC), competindo o financiamento ao Ministério do Equipamento Social.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo o disposto nos artigos 10.º e 11.º, que só entrarão em vigor no dia 1 de Outubro de 1985.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo o disposto nos artigos 10.º e 11.º, que só entrarão em vigor no dia 1 de Outubro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 1984. - O Primeiro-Ministro em exercício e Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - João Rosado Correia.
 
-**Promulgado em 9 de Novembro de 1984.**
+Promulgado em 9 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Novembro de 1984.**
+Referendado em 12 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

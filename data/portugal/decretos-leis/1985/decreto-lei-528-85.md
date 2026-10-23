@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1985, 8º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 4260-(135) a 4260-(138)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30108/01350138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1985-546607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1a66d110dcd41849f1d2204716957b6640989f59fb47a578ad3a2a654fe6215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33e58747e2dead91254798febc10b6e7a78da0b5c7e27e32eae41dfc7fd80118
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Negócios Político-económicos
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301850:por
+  label: Rectificado pela DECL.DD4665.07.03.1986.PCM, DR.IS [74]Supl de 31.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301850
+  date: '1986-03-07'
+- type: repealed_by
+  target: pt:dre:471168:por
+  label: "Revogados os arts. 10º e 11º, pelo DEC LEI.118/91.1991.03.21.MNE, DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1991-471168
+  date: '1991-03-21'
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:46Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +124,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 #### SECÇÃO I — Natureza e competência
 
-###### Artigo 1.º - 1 - A Direcção-Geral dos Negócios Político-Económicos, criada pela alínea b) do n.º 1 do artigo 3.º do Decreto-Lei n.º 528/85 é o serviço do Ministério dos Negócios Estrangeiros que assegura efectividade e continuidade à acção do Estado no plano das relações internacionais políticas, económicas e culturais, sem prejuízo das competências atribuídas a outras direcções-gerais do Ministério dos Negócios Estrangeiros.
+Artigo 1.º - 1 - A Direcção-Geral dos Negócios Político-Económicos, criada pela alínea b) do n.º 1 do artigo 3.º do Decreto-Lei n.º 528/85 é o serviço do Ministério dos Negócios Estrangeiros que assegura efectividade e continuidade à acção do Estado no plano das relações internacionais políticas, económicas e culturais, sem prejuízo das competências atribuídas a outras direcções-gerais do Ministério dos Negócios Estrangeiros.
 
 2 - A Direcção-Geral dos Negócios Político-Económicos assegura a representação do Ministério dos Negócios Estrangeiros nas comissões interministeriais e outros organismos nacionais quando as atribuições destes abrangerem questões de natureza política, económica ou cultural da área das suas atribuições, assim como a presidência das comissões e delegações de carácter político, económico ou cultural que caiba a este Ministério.
 
@@ -110,7 +132,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 #### SECÇÃO II — Serviços e suas competências
 
-###### Art. 2.º - 1 - Para o exercício das suas atribuições, a Direcção-Geral dos Negócios Político-Económicos dispõe dos seguintes serviços:
+Art. 2.º - 1 - Para o exercício das suas atribuições, a Direcção-Geral dos Negócios Político-Económicos dispõe dos seguintes serviços:
 
 a) Correspondente Europeu;
 
@@ -132,7 +154,7 @@ i) Direcção de Serviços das Relações Culturais Bilaterais.
 
 2 - A competência das divisões pertencentes aos serviços acima referidos será definida por despacho do Ministro dos Negócios Estrangeiros, ouvido o director-geral dos Negócios Político-Económicos, tendo por base critérios de gestão que conduzam a uma maior eficácia na prossecução dos objectivos do Ministério dos Negócios Estrangeiros, com reforço da sua capacidade técnica e pleno aproveitamento dos recursos humanos disponíveis.
 
-###### Art. 3.º - 1 - Compete ao Correspondente Europeu:
+Art. 3.º - 1 - Compete ao Correspondente Europeu:
 
 a) Coordenar a participação nacional nas estruturas da cooperação política europeia das Comunidades Europeias;
 
@@ -144,7 +166,7 @@ d) Registar, dar expediente e arquivar a correspondência recebida ou expedida q
 
 2 - O Correspondente Europeu disporá de uma divisão.
 
-###### Art. 4.º - 1 - Às Direcções de Serviços da Europa, América, África Subsariana, Médio Oriente e Magrebe, Àsia e Oceânia compete, no âmbito da respectiva área geográfica:
+Art. 4.º - 1 - Às Direcções de Serviços da Europa, América, África Subsariana, Médio Oriente e Magrebe, Àsia e Oceânia compete, no âmbito da respectiva área geográfica:
 
 a) Reunir informações de carácter político e económico recebidas na Secretaria de Estado e assegurar a actualização de elementos completos sobre a situação política e económica nos diferentes países das áreas consideradas;
 
@@ -164,7 +186,7 @@ h) Registar, dar expediente e arquivar a correspondência recebida ou expedida q
 
 2 - Cada uma das direcções de serviços referidas no presente artigo disporá de duas divisões.
 
-###### Art. 5.º - 1 - Compete à Direcção de Serviços dos Assuntos Multilaterais:
+Art. 5.º - 1 - Compete à Direcção de Serviços dos Assuntos Multilaterais:
 
 a) Reunir informações sobre os organismos políticos, económicos ou culturais internacionais;
 
@@ -188,7 +210,7 @@ j) Registar, dar expediente e arquivar a correspondência recebida ou expedida q
 
 2 - À Direcção de Serviços, dos Assuntos Multilaterais serão atribuídas três divisões.
 
-###### Art. 6.º - 1 - Compete à Direcção de Serviços dos Assuntos de Defesa, Segurança e Desarmamento:
+Art. 6.º - 1 - Compete à Direcção de Serviços dos Assuntos de Defesa, Segurança e Desarmamento:
 
 a) Orientar ou coordenar a participação nacional na Organização do Tratado do Atlântico Norte, colaborando, para esse efeito, com os restantes serviços do Ministério dos Negócios Estrangeiros e com todas as competentes entidades públicas e particulares;
 
@@ -202,7 +224,7 @@ e) Registar, dar expediente e arquivar a correspondência recebida ou expedida q
 
 2 - A Direcção de Serviços dos Assuntos de Defesa, Segurança e Desarmamento será dotada com duas divisões.
 
-###### Art. 7.º - 1 - Compete à Direcção de Serviços das Relações Culturais Bilaterais:
+Art. 7.º - 1 - Compete à Direcção de Serviços das Relações Culturais Bilaterais:
 
 a) Estudar, do ponto de vista do interesse político, propondo e ordenando por prioridades, acções e programas que tenham por objectivos a defesa e a expansão da língua e da cultura portuguesas no estrangeiro;
 
@@ -220,23 +242,23 @@ f) Registar, dar expediente e arquivar a correspondência recebida ou expedida q
 
 #### SECÇÃO III — Pessoal
 
-###### Art. 8.º O cargo de director-geral dos Negócios Político-Económicos será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de embaixador ou de ministro plenipotenciário de 1.ª classe.
+Art. 8.º O cargo de director-geral dos Negócios Político-Económicos será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de embaixador ou de ministro plenipotenciário de 1.ª classe.
 
-###### Art. 9.º - 1 - O director-geral dos Negócios Político-Económicos é coadjuvado por subdirectores-gerais, até ao número de três.
+Art. 9.º - 1 - O director-geral dos Negócios Político-Económicos é coadjuvado por subdirectores-gerais, até ao número de três.
 
 2 - O cargo de subdirector-geral dos Negócios Político-Económicos será provido, por livre escolha do Ministro dos Negócios Estrangeiros, ouvido o director-geral, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe.
 
-###### Art. 10.º O cargo de director de serviços da Direcção-Geral dos Negócios Político-Económicos será provido, por livre escolha do Ministro dos Negócios Estrangeiros, ouvido o director-geral, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de ministro plenipotenciário de 2.ª classe ou de conselheiro de embaixada.
+Art. 10.º O cargo de director de serviços da Direcção-Geral dos Negócios Político-Económicos será provido, por livre escolha do Ministro dos Negócios Estrangeiros, ouvido o director-geral, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de ministro plenipotenciário de 2.ª classe ou de conselheiro de embaixada.
 
-###### Art. 11.º O cargo de chefe de divisão da Direcção-Geral dos Negócios Político-Económicos será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de conselheiro de embaixada ou de primeiro-secretário de embaixada.
+Art. 11.º O cargo de chefe de divisão da Direcção-Geral dos Negócios Político-Económicos será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de conselheiro de embaixada ou de primeiro-secretário de embaixada.
 
-###### Art. 12.º - 1 - As divisões disporão de pessoal do serviço diplomático do quadro do Ministério dos Negócios Estrangeiros, em número e com a distribuição que aconselharem as razões de serviço, sob proposta do director-geral.
+Art. 12.º - 1 - As divisões disporão de pessoal do serviço diplomático do quadro do Ministério dos Negócios Estrangeiros, em número e com a distribuição que aconselharem as razões de serviço, sob proposta do director-geral.
 
 2 - Mediante proposta do director-geral dos Negócios Político-Económicos, as divisões poderão também ser dotadas com pessoal técnico, nos termos da lei geral.
 
-###### Art. 13.º O apoio administrativo ao funcionamento da Direcção-Geral dos Negócios Político-Económicos será assegurado por pessoal administrativo e auxiliar do quadro do Ministério dos Negócios Estrangeiros, sob proposta do director-geral, sem prejuízo do recurso aos meios de mobilidade previstos na lei geral.
+Art. 13.º O apoio administrativo ao funcionamento da Direcção-Geral dos Negócios Político-Económicos será assegurado por pessoal administrativo e auxiliar do quadro do Ministério dos Negócios Estrangeiros, sob proposta do director-geral, sem prejuízo do recurso aos meios de mobilidade previstos na lei geral.
 
-###### Art. 14.º - 1 - Para efeitos dos artigos 8.º, 9.º, 10.º e 11.º do presente decreto-lei, o quadro de pessoal do Ministério dos Negócios Estrangeiros é acrescido das seguintes unidades:
+Art. 14.º - 1 - Para efeitos dos artigos 8.º, 9.º, 10.º e 11.º do presente decreto-lei, o quadro de pessoal do Ministério dos Negócios Estrangeiros é acrescido das seguintes unidades:
 
 Pessoal dirigente:
 
@@ -264,16 +286,16 @@ Pessoal dirigente:
 
 1 lugar de chefe de secção.
 
-###### Art. 15.º Este diploma entra em vigor no dia 1 de Janeiro de 1986.
+Art. 15.º Este diploma entra em vigor no dia 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

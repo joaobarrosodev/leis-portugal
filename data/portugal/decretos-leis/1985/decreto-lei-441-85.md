@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24500/35283528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1985-178085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a894c144d6905e39bd8bffd7906594381d356df4bc5efde145d928bae8cd91dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54c4db5bf86e53ec1f65e8ce61733876875a60afd1fef00a005ffcd4bcdc0209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cinema
+- Código do IVA
+- Indústria Cinematográfica
+- Produção Cinematográfica
+- Titulo de Ingresso
 relationships:
 - type: amended_by
   target: pt:dre:620353:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620353:por
+  label: Alterado o anexo II do Código do IVA aprovado pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma pelo(a)
+    Decreto-Lei n.º 195/89 - Diário da República n.º 133/1989, Série I de 1989-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1989-620353
+  date: '1989-06-12'
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:620353:por
+  label: Revogado pelo(a) Decreto-Lei n.º 195/89 - Diário da República n.º 133/1989, Série I de 1989-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1989-620353
+  date: '1989-06-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:13Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +122,16 @@ Neste sentido, dá-se execução com este decreto-lei à autorização legislati
 
 Assim, no uso da autorização conferida pelo artigo 32.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os bilhetes de entradas para espectáculos cinematográficos constantes da lista II, com o n.º 3.13 (a), anexa ao [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passam a constar de lista I anexa ao citado decreto-lei, com o n.º 22.
+Artigo único. Os bilhetes de entradas para espectáculos cinematográficos constantes da lista II, com o n.º 3.13 (a), anexa ao [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passam a constar de lista I anexa ao citado decreto-lei, com o n.º 22.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - António Antero Coimbra Martins.
 
-**Promulgado em 14 de Outubro de 1985.**
+Promulgado em 14 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Outubro de 1985.**
+Referendado em 16 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

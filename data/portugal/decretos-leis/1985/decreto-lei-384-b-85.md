@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 225/1985, 2º Suplemento, Série I de 1985-09-30
   number: '225'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3240-(5) a 3240-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/22502/00050009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14acb3f9382e96e950b3376a5d5101f04b62922e447b5728d64489d92b67c7e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2541cd621e89676c45863c47b30b2e0d1b887eb3cf07eea562a550741e133373
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Formas de Provimento
+- Ministério da Saúde
+- Pessoal de Saúde
+- Pessoal Técnico
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Política de Saúde
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:661768:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:372420:por
+  label: "Alterados os artigos 5.º e 6.º, pelo DEC LEI.247/88.13.07.1988.MS, DR.IS [160] de 13.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1988-372420
+  date: '1988-07-13'
+- type: amended_by
+  target: pt:dre:527643:por
+  label: "Aditada a carreira de técnico de higiene e saúde ambiental às áreas profissionais abrangidas pelo artigo 5.º, pelo\
+    \ DEC LEI.117/95.30.05.1995.MS, DR.IS-A [125] de 30.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1995-527643
+  date: '1995-05-30'
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616620:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:541444:por
+  label: "Revogado o n.º 2 do artigo 6.º, pelo DEC LEI.415/93.23.12.1993.MS, DR.IS-A [298] de 23.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-1993-541444
+  date: '1993-12-23'
+- type: repealed_by
+  target: pt:dre:661768:por
+  label: "Revogado pelo DEC LEI.564/99.1999.12.21.MS DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/564-1999-661768
+  date: '1999-12-21'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:15Z'
   warnings: []
   errors: []
 ---
@@ -291,24 +332,24 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha.
 
-**Promulgado em 27 de Setembro de 1985.**
+Promulgado em 27 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Setembro de 1985.**
+Referendado em 30 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
 A que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22502/00050009.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22502/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22502/00050009.pdf)
 
 MAPA II
 
 A que se refere o artigo 11.º, n.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22502/00050009.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22502/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22502/00050009.pdf)

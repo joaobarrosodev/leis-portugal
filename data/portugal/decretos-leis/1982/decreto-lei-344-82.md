@@ -47,40 +47,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1982-374460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16932a73434e8fdd0e986a7ad3e5b4169a6cb62cee686f5dc661aa3111128b6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e98f983fe6ddd1dd1c60dea23834f0347aa808061937042dea94c81b1c2403d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Ensino Preparatório
+- Escola de Educadores de Infância
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:620320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:171534:por
+  label: "Criados lugares no quadro aprovado pelo presente diploma, pela PORT.838/85.07.11.1985.PCM, DR.IS [256] de 07.11.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/838-1985-171534
+  date: '1985-11-07'
+- type: cites
+  target: pt:dre:139890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474687:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:20Z'
   warnings: []
   errors: []
 ---
@@ -113,39 +167,39 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - Os estabelecimentos dos ensinos preparatório e secundário, as escolas do magistério primário e as escolas normais de educadores de infância passam a ser dotadas, nos termos do presente diploma, de um quadro técnico da acção social escolar, de acordo com o estabelecido nos artigos seguintes.
+Artigo 1.º - Os estabelecimentos dos ensinos preparatório e secundário, as escolas do magistério primário e as escolas normais de educadores de infância passam a ser dotadas, nos termos do presente diploma, de um quadro técnico da acção social escolar, de acordo com o estabelecido nos artigos seguintes.
 
-###### Art. 2.º - 1 - O quadro referido no artigo anterior constitui um quadro único em que se integram as dotações de cada estabelecimento de ensino e o seu dimensionamento processa-se de acordo com o disposto no mapa anexo ao presente diploma.
+Art. 2.º - 1 - O quadro referido no artigo anterior constitui um quadro único em que se integram as dotações de cada estabelecimento de ensino e o seu dimensionamento processa-se de acordo com o disposto no mapa anexo ao presente diploma.
 
 2 - As dotações de cada estabelecimento de ensino poderão ser alteradas por despacho do Ministro da Educação, desde que das mesmas alterações não resulte um aumento do número total de lugares do quadro único.
 
 3 - As categorias do quadro técnico da acção social escolar desenvolvem-se em termos de pessoal técnico auxiliar, a que correspondem as letras J, L e M, conforme as respectivas categorias sejam de principal, de 1.ª classe ou de 2.ª classe.
 
-###### Art. 3.º - O pessoal do quadro técnico da acção social escolar exercerá as suas funções na directa dependência do membro do conselho directivo encarregado do pelouro da acção social escolar, do director da escola do magistério primário ou da escola normal de educadores de infância.
+Art. 3.º - O pessoal do quadro técnico da acção social escolar exercerá as suas funções na directa dependência do membro do conselho directivo encarregado do pelouro da acção social escolar, do director da escola do magistério primário ou da escola normal de educadores de infância.
 
-###### Art. 4.º - 1 - Os funcionários abrangidos pelo disposto nas alíneas a), c) e d) do n.º 1 do artigo 2.º e alínea a) do n.º 2 do mesmo artigo do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), de 30 de Agosto, desde que, pelo menos, portadores do curso complementar do ensino secundário ou equivalente, são providos em lugares de técnico auxiliar de 1.ª classe, no estabelecimento de ensino onde se encontrem a exercer funções à data da entrada em vigor do presente diploma.
+Art. 4.º - 1 - Os funcionários abrangidos pelo disposto nas alíneas a), c) e d) do n.º 1 do artigo 2.º e alínea a) do n.º 2 do mesmo artigo do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), de 30 de Agosto, desde que, pelo menos, portadores do curso complementar do ensino secundário ou equivalente, são providos em lugares de técnico auxiliar de 1.ª classe, no estabelecimento de ensino onde se encontrem a exercer funções à data da entrada em vigor do presente diploma.
 
 2 - O tempo de serviço prestado pelos funcionários referidos no número anterior até à data do provimento como técnico auxiliar de 1.ª classe é contado para efeitos de promoção à categoria seguinte.
 
-###### Art. 5.º - 1 - Os funcionários abrangidos pelo disposto nas alíneas a), c) e d) do n.º 1 do artigo 2.º e alínea a) do n.º 2 do mesmo artigo do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), desde que possuam como habilitação o curso geral do ensino secundário, ou equivalente, são providos em lugares de técnico auxiliar de 2.ª classe, no estabelecimento de ensino onde se encontrem a exercer funções à data da entrada em vigor do presente diploma.
+Art. 5.º - 1 - Os funcionários abrangidos pelo disposto nas alíneas a), c) e d) do n.º 1 do artigo 2.º e alínea a) do n.º 2 do mesmo artigo do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), desde que possuam como habilitação o curso geral do ensino secundário, ou equivalente, são providos em lugares de técnico auxiliar de 2.ª classe, no estabelecimento de ensino onde se encontrem a exercer funções à data da entrada em vigor do presente diploma.
 
 2 - O tempo de serviço prestado pelos funcionários referidos no número anterior até à data do provimento como técnico auxiliar de 2.ª classe é contado para efeitos de promoção à categoria seguinte.
 
-###### Art. 6.º - Os provimentos referidos nos artigos 4.º e 5.º far-se-ão independentemente de quaisquer formalidades legais, salvo visto do Tribunal de Contas.
+Art. 6.º - Os provimentos referidos nos artigos 4.º e 5.º far-se-ão independentemente de quaisquer formalidades legais, salvo visto do Tribunal de Contas.
 
-###### Art. 7.º - 1 - Os funcionários abrangidos pela alínea b) do n.º 1 e pela alínea b) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051) poderão optar pelo provimento no quadro técnico criado pelo presente diploma e nas condições definidas nos seus artigos 4.º e 5.º, consoante as habilitações de que forem portadores, sem prejuízo do provimento em categoria a que corresponda vencimento igual ou imediatamente superior ao da categoria que já detêm nos termos da tabela de equivalências a aprovar por despacho do Ministro da Educação e do membro do Governo que tiver a seu cargo a função pública.
+Art. 7.º - 1 - Os funcionários abrangidos pela alínea b) do n.º 1 e pela alínea b) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051) poderão optar pelo provimento no quadro técnico criado pelo presente diploma e nas condições definidas nos seus artigos 4.º e 5.º, consoante as habilitações de que forem portadores, sem prejuízo do provimento em categoria a que corresponda vencimento igual ou imediatamente superior ao da categoria que já detêm nos termos da tabela de equivalências a aprovar por despacho do Ministro da Educação e do membro do Governo que tiver a seu cargo a função pública.
 
 2 - Os funcionários referidos no número anterior que não optarem pelo provimento no quadro técnico da acção social escolar poderão ser integrados nos quadros de secretaria nos termos previstos na [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, ou regressar ao quadro geral de adidos.
 
-###### Art. 8.º - 1 - O ingresso na carreira de técnico auxiliar da acção social escolar far-se-á por concurso público documental, ao qual poderão ser opositores os candidatos portadores, pelo menos, do curso geral do ensino secundário, ou equivalente.
+Art. 8.º - 1 - O ingresso na carreira de técnico auxiliar da acção social escolar far-se-á por concurso público documental, ao qual poderão ser opositores os candidatos portadores, pelo menos, do curso geral do ensino secundário, ou equivalente.
 
 2 - Logo que a Direcção-Geral de Pessoal disponha das necessárias estruturas materiais e humanas, serão estabelecidos adequados métodos de selecção dos candidatos, através de portaria dos Ministros da Educação e da Reforma Administrativa.
 
-###### Art. 9.º - 1 - O acesso à categoria superior, dentro da carreira técnica auxiliar da acção social escolar, depende da permanência de um mínimo de 3 anos na categoria imediatamente anterior.
+Art. 9.º - 1 - O acesso à categoria superior, dentro da carreira técnica auxiliar da acção social escolar, depende da permanência de um mínimo de 3 anos na categoria imediatamente anterior.
 
 2 - Por despacho do Ministro da Educação, poderão ser estabelecidos outros requisitos, os quais constarão, obrigatoriamente, no aviso de abertura de concurso.
 
-###### Art. 10.º - 1 - Após o preenchimento dos lugares, nos termos do disposto nos artigos 4.º, 5.º e 7.º do presente diploma, os ainda vagos serão preenchidos por concurso documental, de carácter excepcional, a abrir pela Direcção-Geral de Pessoal, no ano de 1982, através de aviso publicado no Diário da República.
+Art. 10.º - 1 - Após o preenchimento dos lugares, nos termos do disposto nos artigos 4.º, 5.º e 7.º do presente diploma, os ainda vagos serão preenchidos por concurso documental, de carácter excepcional, a abrir pela Direcção-Geral de Pessoal, no ano de 1982, através de aviso publicado no Diário da República.
 
 2 - Só se poderão candidatar ao concurso referido no número anterior docentes que, cumulativamente, reúnam os seguintes requisitos:
 
@@ -159,15 +213,15 @@ c) Estejam vinculados ao Ministério da Educação até 30 de Setembro de 1982, 
 
 4 - Os provimentos resultantes do concurso referido neste artigo far-se-ão no lugar de ingresso da respectiva carreira.
 
-###### Art. 11.º - 1 - A ordenação dos candidatos ao concurso referido no artigo anterior far-se-á de acordo com a classificação do curso complementar do ensino secundário ou equivalente, à qual acrescerá 1 valor por cada ano de serviço prestado na função pública.
+Art. 11.º - 1 - A ordenação dos candidatos ao concurso referido no artigo anterior far-se-á de acordo com a classificação do curso complementar do ensino secundário ou equivalente, à qual acrescerá 1 valor por cada ano de serviço prestado na função pública.
 
 2 - Em caso de empate resultante da aplicação do disposto no número anterior, preferirá o candidato que tiver classificação mais elevada no curso complementar do ensino secundário, ou equivalente, e se, mesmo assim, o empate subsistir, preferirá o mais idoso.
 
-###### Art. 12.º - 1 - Após o cumprimento do estabelecido no artigo anterior, as necessidades surgidas nos estabelecimentos de ensino, em termos de quadro técnico da acção social escolar, serão satisfeitas através do provimento no lugar de ingresso de candidatos recrutados através do concurso, cujo aviso de abertura será mandado publicar pela Direcção-Geral de Pessoal no Diário da República.
+Art. 12.º - 1 - Após o cumprimento do estabelecido no artigo anterior, as necessidades surgidas nos estabelecimentos de ensino, em termos de quadro técnico da acção social escolar, serão satisfeitas através do provimento no lugar de ingresso de candidatos recrutados através do concurso, cujo aviso de abertura será mandado publicar pela Direcção-Geral de Pessoal no Diário da República.
 
 2 - O concurso referido no número anterior respeitará o disposto no artigo 8.º do presente diploma e no respectivo aviso de abertura de concurso constarão todas as disposições que o regem.
 
-###### Art. 13.º - 1 - Ao concurso mencionado no artigo anterior poderão candidatar-se indivíduos portadores, pelo menos, do curso geral do ensino secundário, ou equivalente, desde que não sejam portadores de habilitação própria para a docência.
+Art. 13.º - 1 - Ao concurso mencionado no artigo anterior poderão candidatar-se indivíduos portadores, pelo menos, do curso geral do ensino secundário, ou equivalente, desde que não sejam portadores de habilitação própria para a docência.
 
 2 - Na ordenação dos candidatos observar-se-ão as seguintes prioridades:
 
@@ -185,17 +239,17 @@ e) Candidatos portadores do curso geral do ensino secundário, ou equivalente, n
 
 4 - O concurso referido neste artigo depende de despacho conjunto de autorização do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa, no qual igualmente se referirá o número de lugares a pôr a concurso.
 
-###### Art. 14.º - O concurso mencionado no artigo anterior respeitará o disposto no artigo 8.º do presente diploma.
+Art. 14.º - O concurso mencionado no artigo anterior respeitará o disposto no artigo 8.º do presente diploma.
 
-###### Art. 15.º - 1 - Anualmente, a Direcção-Geral de Pessoal abrirá concurso documental de promoção na carreira técnica da acção social escolar, através de aviso a publicar no Diário da República.
+Art. 15.º - 1 - Anualmente, a Direcção-Geral de Pessoal abrirá concurso documental de promoção na carreira técnica da acção social escolar, através de aviso a publicar no Diário da República.
 
 2 - Poderão ser opositores ao concurso os técnicos auxiliares que reúnam as condições previstas no artigo 9.º deste decreto-lei e ainda as que forem referidas no respectivo aviso de abertura do concurso.
 
 3 - As promoções resultantes do disposto nos números anteriores não determinam, por parte do funcionário, mudança de escola.
 
-###### Art. 16.º - A colocação de docentes, por forma dos concursos previstos nos artigos 10.º e 13.º deste diploma, determina, de imediato, a sua desvinculação à docência.
+Art. 16.º - A colocação de docentes, por forma dos concursos previstos nos artigos 10.º e 13.º deste diploma, determina, de imediato, a sua desvinculação à docência.
 
-###### Art. 17.º - 1 - O pessoal abrangido pelas alíneas a) do n.º 1 e do n.º 2 do artigo 2.º do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), que não seja portador de curso geral do ensino secundário, ou equivalente, será provido no lugar de ingresso da carreira de escriturário-dactilógrafo definida no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e em lugares vagos do quadro único dos estabelecimentos de ensino criado pelo [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, para estabelecimento da sua preferência, manifestada por escrito.
+Art. 17.º - 1 - O pessoal abrangido pelas alíneas a) do n.º 1 e do n.º 2 do artigo 2.º do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), que não seja portador de curso geral do ensino secundário, ou equivalente, será provido no lugar de ingresso da carreira de escriturário-dactilógrafo definida no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e em lugares vagos do quadro único dos estabelecimentos de ensino criado pelo [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, para estabelecimento da sua preferência, manifestada por escrito.
 
 2 - A aplicação do disposto no número anterior depende de os funcionários respectivos obterem aproveitamento em concurso de provas práticas que incluirá:
 
@@ -211,13 +265,13 @@ b) Prova de redacção.
 
 6 - Aos funcionários referidos no n.º 4 deste artigo que venham a ser abrangidos pelo disposto no número anterior será dada por finda a respectiva requisição.
 
-###### Art. 18.º - São permitidas transferências dentro do quadro único criado pelo presente diploma e, sempre que se apresente mais do que um candidato à transferência, esta far-se-á de acordo com as regras estabelecidas nas alíneas seguintes, funcionando cada uma delas como grau de preferência:
+Art. 18.º - São permitidas transferências dentro do quadro único criado pelo presente diploma e, sempre que se apresente mais do que um candidato à transferência, esta far-se-á de acordo com as regras estabelecidas nas alíneas seguintes, funcionando cada uma delas como grau de preferência:
 
 a) Mais tempo de serviço prestado na acção social escolar;
 
 b) Mais tempo de serviço prestado à função pública.
 
-###### Art. 19.º - 1 - Se, em resultado da aplicação do novo mapa anexo ao presente diploma, o número de lugares do quadro técnico, existentes à data da sua publicação, exceder os limites previstos no mesmo, ou sempre que, em resultado da diminuição da frequência escolar, verificada após 2 anos escolares referidos, o número de lugares do referido quadro exceder esses limites, os respectivos funcionários serão transferidos de acordo com o disposto nas alíneas seguintes:
+Art. 19.º - 1 - Se, em resultado da aplicação do novo mapa anexo ao presente diploma, o número de lugares do quadro técnico, existentes à data da sua publicação, exceder os limites previstos no mesmo, ou sempre que, em resultado da diminuição da frequência escolar, verificada após 2 anos escolares referidos, o número de lugares do referido quadro exceder esses limites, os respectivos funcionários serão transferidos de acordo com o disposto nas alíneas seguintes:
 
 a) Obrigatoriamente, se a transferência se verificar para estabelecimento de ensino da mesma localidade;
 
@@ -233,34 +287,34 @@ b) Funcionário com menos tempo de serviço prestado à função pública.
 
 4 - No caso de não haver interessados na transferência para localidade diferente, os funcionários, na ausência do acordo previsto na alínea b) do n.º 1 deste artigo, entrarão na situação de supranumerários, de acordo com os critérios previstos no número anterior, com direito à primeira vaga que ocorrer em estabelecimento de ensino da mesma localidade.
 
-###### Art. 20.º - As funções do pessoal do quadro técnico da acção social escolar, bem como a sua articulação com o conselho directivo, director, ou quem as suas vezes fizer, constarão de portaria do Ministro da Educação, sob proposta conjunta da Direcção-Geral de Pessoal e do Instituto de Acção Social Escolar.
+Art. 20.º - As funções do pessoal do quadro técnico da acção social escolar, bem como a sua articulação com o conselho directivo, director, ou quem as suas vezes fizer, constarão de portaria do Ministro da Educação, sob proposta conjunta da Direcção-Geral de Pessoal e do Instituto de Acção Social Escolar.
 
-###### Art. 21.º - 1 - No caso de necessidades, devidamente fundamentadas, em termos de acção social escolar, e perante a insuficiência de pessoal do quadro técnico, poderão exercer, transitoriamente, tais funções professores vinculados ao Ministério da Educação até 30 de Setembro do respectivo ano escolar, nos termos do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), ou de legislação subsequente, para os quais não haja serviço docente para distribuir e ainda por docentes que tenham sido abrangidos pelo disposto no artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+Art. 21.º - 1 - No caso de necessidades, devidamente fundamentadas, em termos de acção social escolar, e perante a insuficiência de pessoal do quadro técnico, poderão exercer, transitoriamente, tais funções professores vinculados ao Ministério da Educação até 30 de Setembro do respectivo ano escolar, nos termos do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), ou de legislação subsequente, para os quais não haja serviço docente para distribuir e ainda por docentes que tenham sido abrangidos pelo disposto no artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 
 2 - O serviço prestado pelos docentes referidos no número anterior é considerado, para todos os efeitos legais, como serviço docente.
 
-###### Art. 22.º - O pessoal do quadro técnico previsto neste diploma fica sujeito ao horário normal de serviço da função pública.
+Art. 22.º - O pessoal do quadro técnico previsto neste diploma fica sujeito ao horário normal de serviço da função pública.
 
-###### Art. 23.º - O quadro técnico previsto neste diploma será integrado no quadro técnico dos estabelecimentos dos ensinos preparatório, secundário e médio, aquando da sua criação.
+Art. 23.º - O quadro técnico previsto neste diploma será integrado no quadro técnico dos estabelecimentos dos ensinos preparatório, secundário e médio, aquando da sua criação.
 
-###### Art. 24.º - Mantêm-se na situação que possuam à data da entrada em vigor do presente diploma os indivíduos que foram abrangidos pela alínea b) do n.º 4 da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril.
+Art. 24.º - Mantêm-se na situação que possuam à data da entrada em vigor do presente diploma os indivíduos que foram abrangidos pela alínea b) do n.º 4 da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril.
 
-###### Art. 25.º - O presente decreto-lei poderá ser aplicado às regiões autónomas por diplomas dos respectivos governos regionais, nos quais poderá ser considerada a situação específica das referidas regiões.
+Art. 25.º - O presente decreto-lei poderá ser aplicado às regiões autónomas por diplomas dos respectivos governos regionais, nos quais poderá ser considerada a situação específica das referidas regiões.
 
-###### Art. 26.º - As dúvidas resultantes da execução deste diploma serão resolvidas por despacho do Ministro da Educação, ou por despacho conjunto dos Ministros de Estado e das Finanças e do Plano, da Educação e da Reforma Administrativa, consoante a sua natureza.
+Art. 26.º - As dúvidas resultantes da execução deste diploma serão resolvidas por despacho do Ministro da Educação, ou por despacho conjunto dos Ministros de Estado e das Finanças e do Plano, da Educação e da Reforma Administrativa, consoante a sua natureza.
 
-###### Art. 27.º - 1 - É revogada toda a legislação anterior sobre a matéria, nomeadamente os Decretos-Leis n.os [354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), de 30 de Agosto, e [172/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1980-474687), de 29 de Maio.
+Art. 27.º - 1 - É revogada toda a legislação anterior sobre a matéria, nomeadamente os Decretos-Leis n.os [354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), de 30 de Agosto, e [172/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1980-474687), de 29 de Maio.
 
 2 - Até à publicação da portaria referida no artigo 20.º deste diploma, mantém-se em vigor a [Portaria n.º 450/82](https://diariodarepublica.pt/dr/detalhe/portaria/450-1982-393049), de 30 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 20 de Agosto de 1982.**
+Promulgado em 20 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 344/82, de 1 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20200/25742577.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20200/25742577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20200/25742577.pdf)

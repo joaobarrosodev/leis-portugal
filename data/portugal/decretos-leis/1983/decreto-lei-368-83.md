@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/22900/34453445.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1983-442766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 751a5d950869c3135d35c63d9434546bc5b3639f5b93d0f58b192727e3cf42d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dd2b40a8deabd09a897c9718edff923f41b6d7c4402ce0d0ab95b96dc2a6bfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Habitação Periódica
+- Habitação
+- Propriedade de BENS
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144244:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:34Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +117,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 1.º, as alíneas a) e c) do n.º 1 do artigo 3.º e o artigo 4.º do [Decreto-Lei n.º 355/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1981-144244), de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 1.º, as alíneas a) e c) do n.º 1 do artigo 3.º e o artigo 4.º do [Decreto-Lei n.º 355/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1981-144244), de 31 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — (Direito de habitação periódica)
 
@@ -140,7 +153,7 @@ e) ...
 
 O direito de habitação periódica é, na falta de indicação em contrário, perpétuo, mas poderá ser-lhe fixado, no respectivo título constitutivo, um limite de duração não inferior a 20 anos.
 
-###### Art. 2.º Ao artigo 14.º do [Decreto-Lei n.º 355/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1981-144244), de 31 de Dezembro, é aditado um n.º 5, com a seguinte redacção:
+Art. 2.º Ao artigo 14.º do [Decreto-Lei n.º 355/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1981-144244), de 31 de Dezembro, é aditado um n.º 5, com a seguinte redacção:
 
 ###### Artigo 14.º — (Prestação periódica devida pelo titular do direito de habitação)
 
@@ -156,12 +169,12 @@ O direito de habitação periódica é, na falta de indicação em contrário, p
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 22 de Setembro de 1983.**
+Promulgado em 22 de Setembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Setembro de 1983.**
+Referendado em 26 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

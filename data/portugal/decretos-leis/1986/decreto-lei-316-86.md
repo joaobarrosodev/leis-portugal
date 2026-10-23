@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/22100/27162721.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1986-221572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81f5bb154dacf33a45cbf1c4f94eec16fe2e2824979a008991c98dff88dc9eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aae0b0cf424403dd83c569ecec304026b07630dedfdf6b059ddb47a53f5f2441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661125:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477614:por
+  label: Rectificado pela DECL.DD4524.31.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477614
+  date: '1986-10-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:30Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +138,9 @@ Assim:
 
 O Governo, no uso das autorizações conferidas pelas alíneas d) e e) do artigo 21.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º O n.º 7.º do artigo 12.º e seu § 3.º, os artigos 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 120.º, 161.º, 224.º-A, 225.º, 232.º, 233.º, 238.º, 296.º, 301.º e 302.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
+Artigo 1.º O n.º 7.º do artigo 12.º e seu § 3.º, os artigos 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 120.º, 161.º, 224.º-A, 225.º, 232.º, 233.º, 238.º, 296.º, 301.º e 302.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 ...
 
@@ -130,7 +158,7 @@ b) Se o pedido der entrada na repartição de finanças para além do prazo esta
 
 c) Se, durante o período da isenção, cessar o regime da renda condicionada, aplicar-se-á o disposto no artigo 35.º
 
-###### Art. 17.º Os rendimentos dos prédios urbanos construídos de novo serão, na parte destinada à habitação e salvo o disposto na [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro, temporariamente isentos da contribuição predial em função do correspondente colectável inscrito na matriz:
+Art. 17.º Os rendimentos dos prédios urbanos construídos de novo serão, na parte destinada à habitação e salvo o disposto na [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro, temporariamente isentos da contribuição predial em função do correspondente colectável inscrito na matriz:
 
 a) Pelo período de dez anos, se o rendimento, por cada habitação, não exceder 300000$00;
 
@@ -142,7 +170,7 @@ b) Pelo período de cinco anos, se o rendimento exceder 300000$00 mas não for s
 
 § 3.º Os limites do rendimento colectável estabelecidos nas alíneas a) e b) do corpo deste artigo serão periodicamente actualizados por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 18.º Considera-se habitação, para efeitos do disposto no artigo anterior, o conjunto de todos os compartimentos ou divisões constituindo um fogo independente, incluindo as respectivas despensas e garagens, ainda que fisicamente separadas mas integrando o mesmo edifício ou bloco habitacional ou situadas no próprio logradouro, constantes da mesma inscrição matricial, devendo as garagens destinar-se exclusivamente à recolha de veículos, não adstritos a actividades comerciais ou industriais, do residente e do seu agregado familiar.
+Art. 18.º Considera-se habitação, para efeitos do disposto no artigo anterior, o conjunto de todos os compartimentos ou divisões constituindo um fogo independente, incluindo as respectivas despensas e garagens, ainda que fisicamente separadas mas integrando o mesmo edifício ou bloco habitacional ou situadas no próprio logradouro, constantes da mesma inscrição matricial, devendo as garagens destinar-se exclusivamente à recolha de veículos, não adstritos a actividades comerciais ou industriais, do residente e do seu agregado familiar.
 
 § 1.º A unidade a tomar em conta para a concessão da isenção será representada pelo conjunto de todas as habitações do mesmo prédio.
 
@@ -150,21 +178,21 @@ b) Pelo período de cinco anos, se o rendimento exceder 300000$00 mas não for s
 
 § 3.º Não será concedida isenção se o rendimento colectável de qualquer das habitações exceder o limite máximo estabelecido na alínea b) do mesmo artigo.
 
-###### Art. 19.º Nos prédios em regime de propriedade horizontal cada habitação constituirá uma unidade autónoma, procedendo-se ao ajustamento da isenção sempre que esta tenha sido concedida anteriormente à data em que o edifício foi submetido àquele regime.
+Art. 19.º Nos prédios em regime de propriedade horizontal cada habitação constituirá uma unidade autónoma, procedendo-se ao ajustamento da isenção sempre que esta tenha sido concedida anteriormente à data em que o edifício foi submetido àquele regime.
 
 § único. Cada habitação a que se refere este artigo, embora só podendo abranger uma fracção autónoma como fogo independente segundo a respectiva licença de habitação, incluirá, para efeitos de isenção, nos termos do disposto no corpo do artigo anterior, as respectivas despensas e garagens individuais, ainda que as mesmas constituam ou se integrem noutra fracção autónoma, e, sendo as garagens comuns, o rendimento colectável a considerar para efeitos de isenção será o que for atribuído, por discriminação matricial, à habitação da fracção autónoma em causa ou, na falta de discriminação, a parte que lhe corresponde na proporção fixada no título constitutivo.
 
-###### Art. 20.º A isenção contar-se-á a partir da data em que, nos termos do artigo 232.º, o respectivo rendimento colectável fique sujeito a tributação.
+Art. 20.º A isenção contar-se-á a partir da data em que, nos termos do artigo 232.º, o respectivo rendimento colectável fique sujeito a tributação.
 
-###### Art. 21.º Aos rendimentos dos prédios urbanos ampliados e melhorados aproveitará também a isenção prevista no artigo 17.º e nos termos estabelecidos nos artigos 18.º a 20.º, mas apenas na parte correspondente ao acréscimo de rendimento colectável resultante das ampliações ou melhoramentos efectuados.
+Art. 21.º Aos rendimentos dos prédios urbanos ampliados e melhorados aproveitará também a isenção prevista no artigo 17.º e nos termos estabelecidos nos artigos 18.º a 20.º, mas apenas na parte correspondente ao acréscimo de rendimento colectável resultante das ampliações ou melhoramentos efectuados.
 
 § único. Na determinação do escalão do corpo do artigo 17.º ter-se-á em conta todo o rendimento coléctável da habitação, após o aumento resultante das ampliações ou melhoramentos efectuados.
 
-###### Art. 22.º Aos rendimentos dos prédios urbanos adquiridos a título oneroso, na parte destinada a residência permanente dos seus proprietários, tenham aqueles beneficiado ou não de anterior isenção, aproveita igualmente a referida no artigo 17.º e contar-se-á a partir da data do respectivo documento comprovativo da aquisição.
+Art. 22.º Aos rendimentos dos prédios urbanos adquiridos a título oneroso, na parte destinada a residência permanente dos seus proprietários, tenham aqueles beneficiado ou não de anterior isenção, aproveita igualmente a referida no artigo 17.º e contar-se-á a partir da data do respectivo documento comprovativo da aquisição.
 
 § único. É aplicável à isenção prevista no presente artigo o disposto no corpo do artigo 18.º e no § único do artigo 19.º, conforme os casos.
 
-###### Art. 23.º Para concessão das isenções previstas nos artigos 17.º e 21.º deverão os contribuintes apresentar, na repartição de finanças da situação do prédio, juntamente com a declaração referida no artigo 214.º, a respectiva licença de habitação ou o documento comprovativo da data da conclusão das obras e do fim a que se destina o prédio, passado pela Câmara Municipal quando aquela licença não seja exigível, o que também constará no respectivo documento.
+Art. 23.º Para concessão das isenções previstas nos artigos 17.º e 21.º deverão os contribuintes apresentar, na repartição de finanças da situação do prédio, juntamente com a declaração referida no artigo 214.º, a respectiva licença de habitação ou o documento comprovativo da data da conclusão das obras e do fim a que se destina o prédio, passado pela Câmara Municipal quando aquela licença não seja exigível, o que também constará no respectivo documento.
 
 § 1.º Sempre que, na declaração apresentada nos termos do artigo 214.º, conste a impossibilidade da junção da licença da habitação ou de qualquer dos documentos previstos no corpo deste artigo, poderá a sua entrega, para efeitos da isenção, ser feita até à data em que o prédio seja inscrito na matriz.
 
@@ -186,7 +214,7 @@ b) Pelo período de cinco anos, se o rendimento exceder 300000$00 mas não for s
 
 § 10.º As isenções concebidas inicialmente, de harmonia com as alíneas a) e b) do artigo 17.º, manter-se-ão quanto aos novos rendimentos que forem resultando quer por virtude de factores de actualização das matrizes quer por actualização das rendas correspondentes, desde que, neste caso, não sejam ultrapassados os limites máximos dos factores ou coeficientes estabelecidos pelo Governo.
 
-###### Art. 24.º As isenções a que se referem os artigos 17.º e 21.º caducam, independentemente de quaisquer formalidades, em relação ao rendimento de cada habitação que delas beneficie:
+Art. 24.º As isenções a que se referem os artigos 17.º e 21.º caducam, independentemente de quaisquer formalidades, em relação ao rendimento de cada habitação que delas beneficie:
 
 1.º Logo que lhe seja dado destino diferente do da habitação;
 
@@ -200,9 +228,9 @@ b) Pelo período de cinco anos, se o rendimento exceder 300000$00 mas não for s
 
 § 3.º Caducando a isenção, aplicar-se-á o disposto no artigo 35.º e seu § único.
 
-###### Art. 25.º Verificando-se falta de averbamento das isenções a que haja lugar nos termos dos artigos 17.º, 21.º e 22.º, ou reconhecendo-se através de quaisquer elementos, designadamente por informação devidamente fundamentada da fiscalização, ter ocorrido qualquer erro de direito ou de facto, deverá o chefe da repartição de finanças, quer oficiosamente, quer a requerimento dos contribuintes, suprir a falta ou proceder à respectiva revisão, com a consequente correcção das liquidações, se for caso disso.
+Art. 25.º Verificando-se falta de averbamento das isenções a que haja lugar nos termos dos artigos 17.º, 21.º e 22.º, ou reconhecendo-se através de quaisquer elementos, designadamente por informação devidamente fundamentada da fiscalização, ter ocorrido qualquer erro de direito ou de facto, deverá o chefe da repartição de finanças, quer oficiosamente, quer a requerimento dos contribuintes, suprir a falta ou proceder à respectiva revisão, com a consequente correcção das liquidações, se for caso disso.
 
-###### Art. 120.º Sem prejuízo do disposto no § único do artigo 226.º quanto aos prédios urbanos nele referidos, não se consideram devolutos os restantes prédios ou partes de prédio:
+Art. 120.º Sem prejuízo do disposto no § único do artigo 226.º quanto aos prédios urbanos nele referidos, não se consideram devolutos os restantes prédios ou partes de prédio:
 
 a) Que se encontrem arrendados, embora o locatário os não ocupe;
 
@@ -216,13 +244,13 @@ d) ...
 
 § 2.º ...
 
-###### Art. 161.º A inscrição dos prédios isentos ou não sujeitos a contribuição predial far-se-á nos termos gerais, mencionando-se, porém, na coluna das observações o preceito legal que estabeleça a isenção ou a não sujeição, devendo ainda, quando esta situação seja temporária, indicar-se, na referida coluna, as datas em que tenha início e termo, bem como o respectivo despacho e o processo em que haja sido proferido, sendo caso disso.
+Art. 161.º A inscrição dos prédios isentos ou não sujeitos a contribuição predial far-se-á nos termos gerais, mencionando-se, porém, na coluna das observações o preceito legal que estabeleça a isenção ou a não sujeição, devendo ainda, quando esta situação seja temporária, indicar-se, na referida coluna, as datas em que tenha início e termo, bem como o respectivo despacho e o processo em que haja sido proferido, sendo caso disso.
 
-###### Art. 224.º-A. Se os contribuintes tiverem requerido segunda avaliação nos termos do artigo 279.º em relação a prédios ou a fracções autónomas dos mesmos, inscritos na matriz de harmonia com o § 1.º do artigo 201.º, será suspensa a correspondente liquidação até que o seu rendimento colectável se torne definitivo, cumprindo-se então o disposto no artigo 233.º
+Art. 224.º-A. Se os contribuintes tiverem requerido segunda avaliação nos termos do artigo 279.º em relação a prédios ou a fracções autónomas dos mesmos, inscritos na matriz de harmonia com o § 1.º do artigo 201.º, será suspensa a correspondente liquidação até que o seu rendimento colectável se torne definitivo, cumprindo-se então o disposto no artigo 233.º
 
-###### Art. 225.º A contribuição relativa aos prédios rústicos e aos urbanos não arrendados será liquidada sobre os rendimentos colectáveis que constem das matrizes à data do último encerramento, mas sem prejuízo do disposto no artigo anterior e nos artigos 229.º, 232.º e 234.º
+Art. 225.º A contribuição relativa aos prédios rústicos e aos urbanos não arrendados será liquidada sobre os rendimentos colectáveis que constem das matrizes à data do último encerramento, mas sem prejuízo do disposto no artigo anterior e nos artigos 229.º, 232.º e 234.º
 
-###### Art. 232.º Relativamente aos prédios novos, a contribuição predial liquidar-se-á de harmonia com as seguintes regras:
+Art. 232.º Relativamente aos prédios novos, a contribuição predial liquidar-se-á de harmonia com as seguintes regras:
 
 1.ª Os prédios urbanos construídos para habitação ou utilização dos próprios titulares do direito aos rendimentos ficam sujeitos a tributação:
 
@@ -258,11 +286,11 @@ c) A partir da data em que tenham sido transmitidos, habitados ou ocupados, se t
 
 § 3.º Considera-se que os prédios ficam concluídos na data em que for solicitada a vistoria, se exigida, ou na data da sua utilização, se anterior.
 
-###### Art. 233.º Quando a avaliação de prédio omisso se torne definitiva, liquidar-se-á contribuição predial por todo o tempo durante o qual a omissão se tenha verificado, com o limite máximo dos cinco anos civis imediatamente anteriores àquele em que o rendimento do prédio for considerado no encerramento da matriz, mesmo que se trate de prédio cuja liquidação tenha ficado suspensa nos termos do artigo 224.º-A.
+Art. 233.º Quando a avaliação de prédio omisso se torne definitiva, liquidar-se-á contribuição predial por todo o tempo durante o qual a omissão se tenha verificado, com o limite máximo dos cinco anos civis imediatamente anteriores àquele em que o rendimento do prédio for considerado no encerramento da matriz, mesmo que se trate de prédio cuja liquidação tenha ficado suspensa nos termos do artigo 224.º-A.
 
-###### Art. 238.º Só poderá ser liquidada contribuição predial nos cinco anos seguintes àquele a que o rendimento colectável respeite, sem prejuízo do disposto no artigo 233.º
+Art. 238.º Só poderá ser liquidada contribuição predial nos cinco anos seguintes àquele a que o rendimento colectável respeite, sem prejuízo do disposto no artigo 233.º
 
-###### Art. 296.º A falta de apresentação das declarações referidas nos artigos 116.º e 117.º, bem como dos elementos a que se refere o § 1.º do artigo 116.º, será punida com multa de 1000$00 a 100000$00, sendo, porém, estes limites reduzidos a metade quando, tratando-se da declaração a que se refere o artigo 116.º, já tenham sido apresentados os elementos que devem ser-lhe juntos nos termos do seu § 1.º
+Art. 296.º A falta de apresentação das declarações referidas nos artigos 116.º e 117.º, bem como dos elementos a que se refere o § 1.º do artigo 116.º, será punida com multa de 1000$00 a 100000$00, sendo, porém, estes limites reduzidos a metade quando, tratando-se da declaração a que se refere o artigo 116.º, já tenham sido apresentados os elementos que devem ser-lhe juntos nos termos do seu § 1.º
 
 § 1.º ...
 
@@ -270,15 +298,15 @@ c) A partir da data em que tenham sido transmitidos, habitados ou ocupados, se t
 
 § 3.º ...
 
-###### Art. 301.º A falta de apresentação das declarações a que se referem os artigos 213.º e 214.º é punida com multa igual à contribuição predial correspondente aos meses que tenham decorrido depois de findos os prazos estabelecidos nos citados artigos, até ao mês, inclusive, em que as declarações forem apresentadas, ou igual à que seria de liquidar se o prédio não gozasse de isenção ou de não incidência.
+Art. 301.º A falta de apresentação das declarações a que se referem os artigos 213.º e 214.º é punida com multa igual à contribuição predial correspondente aos meses que tenham decorrido depois de findos os prazos estabelecidos nos citados artigos, até ao mês, inclusive, em que as declarações forem apresentadas, ou igual à que seria de liquidar se o prédio não gozasse de isenção ou de não incidência.
 
 § único. ...
 
-###### Art. 302.º O contribuinte que não solicite a liquidação da contribuição nos termos do artigo 231.º dentro dos prazos estabelecidos ou, fazendo-o, não apresente a declaração referida no artigo 116.º incorrerá em multa de 1000$00 a 40000$00, ficando sujeito a igual multa aquele que não apresente a declaração a que se refere o § 3.º do artigo 23.º quando, face à nova situação que a originou, deva operar-se mudança para escalão de menor período da isenção ou esta tenha de caducar, bem como a declaração mencionada no § único do artigo 35.º ou a participação a que alude o artigo 119.º
+Art. 302.º O contribuinte que não solicite a liquidação da contribuição nos termos do artigo 231.º dentro dos prazos estabelecidos ou, fazendo-o, não apresente a declaração referida no artigo 116.º incorrerá em multa de 1000$00 a 40000$00, ficando sujeito a igual multa aquele que não apresente a declaração a que se refere o § 3.º do artigo 23.º quando, face à nova situação que a originou, deva operar-se mudança para escalão de menor período da isenção ou esta tenha de caducar, bem como a declaração mencionada no § único do artigo 35.º ou a participação a que alude o artigo 119.º
 
-###### Art. 2.º São aditados ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola os §§ 1.º, 2.º e 3.º do artigo 201.º e o § único do artigo 226.º, com a seguinte redação:
+Art. 2.º São aditados ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola os §§ 1.º, 2.º e 3.º do artigo 201.º e o § único do artigo 226.º, com a seguinte redação:
 
-###### Art. 201.º ...
+Art. 201.º ...
 
 § 1.º As alterações a que se refere a alínea b) do n.º 1.º far-se-ão com inscrição imediata dos prédios na matriz após a primeira avaliação, sem prejuízo do subsequente cumprimento do disposto nos artigos 278.º e seguintes.
 
@@ -286,15 +314,15 @@ c) A partir da data em que tenham sido transmitidos, habitados ou ocupados, se t
 
 § 3.º As declarações de rendimento, feitas pelos sublocadores nos termos do artigo 117.º, não serão tomadas em conta no confronto estabelecido no n.º 3.º
 
-###### Art. 226.º ...
+Art. 226.º ...
 
 § único. Tratando-se de prédios ou partes de prédios urbanos destinados à habitação, enquanto se mantiverem devolutos por facto imputável ao senhorio, a contribuição será liquidada nos termos do artigo 38.º e alíneas a) e b) da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro.
 
-###### Art. 3.º - 1 - São eliminados os n.os 8.º e 9.º do artigo 12.º, os seus §§ 4.º, 5.º, 6.º e 7.º e ainda o § único do artigo 201.º e revogado o artigo 300.º-A do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
+Art. 3.º - 1 - São eliminados os n.os 8.º e 9.º do artigo 12.º, os seus §§ 4.º, 5.º, 6.º e 7.º e ainda o § único do artigo 201.º e revogado o artigo 300.º-A do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
 
 2 - São igualmente revogadas todas as demais disposições legais não inseridas no referido Código que concedem isenções temporárias de contribuição predial relativamente a prédios urbanos destinados a habitação, salvo o regime especial tributário estabelecido na [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro.
 
-###### Art. 4.º - 1 - Os processos pendentes da resolução, instaurados nos termos da legislação ora eliminada ou revogada, desde que declarados pelo requerente como respeitantes a prédios urbanos destinados a habitação ou residência permanente dos proprietários, conforme os casos, e após documentados de harmonia com a legislação aplicável, designadamente, sendo caso disso, com a licença de habitação ou documento comprovativo da data da conclusão do prédio e fim a que se destina, quando aquela licença não seja exigível pelos serviços da câmara municipal, serão arquivados, sem mais formalidades, logo que os prédios estejam inscritos nas matrizes, averbando-se, nestas e nos verbetes de lançamento, as isenções a que tinham direito nos termos daquela legislação, considerando-se verificadas as condições necessárias à sua concessão, salvo se existirem suficientes elementos de prova em contrário que obstem ao seu deferimento.
+Art. 4.º - 1 - Os processos pendentes da resolução, instaurados nos termos da legislação ora eliminada ou revogada, desde que declarados pelo requerente como respeitantes a prédios urbanos destinados a habitação ou residência permanente dos proprietários, conforme os casos, e após documentados de harmonia com a legislação aplicável, designadamente, sendo caso disso, com a licença de habitação ou documento comprovativo da data da conclusão do prédio e fim a que se destina, quando aquela licença não seja exigível pelos serviços da câmara municipal, serão arquivados, sem mais formalidades, logo que os prédios estejam inscritos nas matrizes, averbando-se, nestas e nos verbetes de lançamento, as isenções a que tinham direito nos termos daquela legislação, considerando-se verificadas as condições necessárias à sua concessão, salvo se existirem suficientes elementos de prova em contrário que obstem ao seu deferimento.
 
 2 - Se, durante o período de isenção, for dada ao prédio, parte de prédio ou fracção autónoma beneficiados destino diferente do da habitação ou deixarem de verificar-se as condições para a sua concessão, aplicar-se-á o disposto no artigo 24.º e seu parágrafos do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com a nova redacção dada pelo artigo 1.º do presente diploma.
 
@@ -302,22 +330,22 @@ c) A partir da data em que tenham sido transmitidos, habitados ou ocupados, se t
 
 § único. Verificando-se a situação prevista na parte final do n.º 1 deste artigo, o chefe da repartição de finanças proferirá despacho fundamentado de indeferimento, que será notificado aos interessados.
 
-###### Art. 5.º - 1 - As isenções previstas nos artigos 17.º, 21.º e 22.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com a redacção dada pelo artigo 1.º deste diploma, serão concedidas apenas aos prédios ou parte de prédios urbanos relativamente aos quais a data do respectivo início, nos termos do artigo 20.º ou 22.º do referido Código, conforme o caso, ocorra após a entrada em vigor do presente diploma.
+Art. 5.º - 1 - As isenções previstas nos artigos 17.º, 21.º e 22.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com a redacção dada pelo artigo 1.º deste diploma, serão concedidas apenas aos prédios ou parte de prédios urbanos relativamente aos quais a data do respectivo início, nos termos do artigo 20.º ou 22.º do referido Código, conforme o caso, ocorra após a entrada em vigor do presente diploma.
 
 2 - O disposto no § 1.º do artigo 201.º e nos artigos 224.º-A e 233.º do Código referido no número anterior, com a redacção dada pelo presente diploma, será aplicável a todos os prédios que, à data da sua publicação, estejam omissos na matriz, mesmo que já avaliados e a aguardar que a avaliação se torne definitiva.
 
 3 - O disposto na regra 3.ª do artigo 232.º do Código mencionado nos números anteriores, com a nova redacção dada pelo artigo 1.º do presente diploma, aplica-se aos prédios nela referidos cuja conclusão se tenha verificado a partir de 1 de Janeiro de 1983, inclusive.
 
-###### Art. 6.º Não caduca direito de liquidação da contribuição predial que ainda se mostre devida nos termos do artigo 238.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com a redacção que lhe fora dada pelo artigo 1.º do [Decreto-Lei n.º 73/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1984-661125), de 2 de Março, nos casos em que a mesma se encontre suspensa de harmonia com o artigo 224.º-A do referido Código.
+Art. 6.º Não caduca direito de liquidação da contribuição predial que ainda se mostre devida nos termos do artigo 238.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com a redacção que lhe fora dada pelo artigo 1.º do [Decreto-Lei n.º 73/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1984-661125), de 2 de Março, nos casos em que a mesma se encontre suspensa de harmonia com o artigo 224.º-A do referido Código.
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

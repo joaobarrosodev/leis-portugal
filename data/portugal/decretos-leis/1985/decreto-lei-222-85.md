@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15000/18001800.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1985-182848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b92508701675c364684cd7840f7fb43168270bca822ff94a07d6e09a1488bb7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52dc33f9c3d0271e8b27d56e4ed543dce66a7368a70a22c4af6b0cf91c3de12d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:417646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547241:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417646:por
+  label: "Revogado pelo DEC LEI.311/87.10.08.1987.MAPA, DR.IS [182] de 10.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1987-417646
+  date: '1987-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:24Z'
   warnings: []
   errors: []
 ---
@@ -93,28 +103,28 @@ Considerando que não se justifica, actualmente, manter a proibição da caça d
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 39.º e a epígrafe que o antecede, o artigo 40.º e a epígrafe que o antecede, o artigo 41.º e o n.º 1 do artigo 73.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, passam a ter a seguinte redacção:
+Artigo único. O artigo 39.º e a epígrafe que o antecede, o artigo 40.º e a epígrafe que o antecede, o artigo 41.º e o n.º 1 do artigo 73.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, passam a ter a seguinte redacção:
 
 Gamos, veados, corços e javalis
 
-###### Art. 39.º A caça aos gamos, veados, corços e javalis só é permitida em períodos e condições a definir pelo Secretário de Estado da Produção Agrícola.
+Art. 39.º A caça aos gamos, veados, corços e javalis só é permitida em períodos e condições a definir pelo Secretário de Estado da Produção Agrícola.
 
 Raposos, lobos e saca-rabos
 
-###### Art. 40.º É permitida a caça às raposas, lobos e saca-rabos desde o primeiro domingo de Outubro até ao último de Fevereiro.
+Art. 40.º É permitida a caça às raposas, lobos e saca-rabos desde o primeiro domingo de Outubro até ao último de Fevereiro.
 
-###### Art. 41.º A partir do último domingo de Dezembro, a caça das espécies referidas no artigo anterior só é permitida pelo processo de batida, mediante autorização da Direcção-Geral das Florestas, que fixará as condições em que poderá ser exercida.
+Art. 41.º A partir do último domingo de Dezembro, a caça das espécies referidas no artigo anterior só é permitida pelo processo de batida, mediante autorização da Direcção-Geral das Florestas, que fixará as condições em que poderá ser exercida.
 
-###### Art. 73.º - 1 - A caça «à espera» só é permitida para as seguintes espécies: rolas, patos, galeirões, galinhas-d'água, pombos bravos, abibes, tarambolas, tordos, estorninhos, coelhos, raposas, lobos, saca-rabos, ginetos, furões bravos, doninhas e texugos.
+Art. 73.º - 1 - A caça «à espera» só é permitida para as seguintes espécies: rolas, patos, galeirões, galinhas-d'água, pombos bravos, abibes, tarambolas, tordos, estorninhos, coelhos, raposas, lobos, saca-rabos, ginetos, furões bravos, doninhas e texugos.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 18 de Junho de 1985.**
+Promulgado em 18 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Junho de 1985.**
+Referendado em 20 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

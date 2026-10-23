@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1982-375187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d466c36078fc36757a3b3689f785653ca408ff09436fa86bdd5787759bc1b66b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7113e8f6326f8fdbff1e03aade6fe7edf4113c84eb685b40f560edfb90b2b71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Areias
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Extracção de Inertes
+- Gestão dos Recursos
+- Indústria Mineira
+- Licenciamento
+- Produto Mineiro
+- Proteção do Ambiente
+- Recursos Hídricos
+- Recursos Naturais
 relationships:
 - type: amended_by
   target: pt:dre:515806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADOS O NUMERO 5 AO ARTIGO 2, OS NUMEROS 3 E 4 AO ARTIGO 4 E ALTERADOS OS ARTIGOS 14, 15, NUMERO 1, 16, 17 NUMERO
+    2, 21, ALÍNEA F), 22, 23 E 24, NUMERO 1, PELO DECRETO LEI 164/84, DE 21 DE MAIO, PUBLICADO NO DR.IS, 117.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-05-21'
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "Determinada a não aplicação do presente diploma, na matéria respeitante ao DEC LEI.46/94.1994.02.22.MARN, DR.IS-A\
+    \ [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+  date: '1994-02-22'
+- type: cites
+  target: pt:dre:272667:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:20Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +172,7 @@ A destruição da fauna e flora aquática e marginal.
 
 ### CAPÍTULO II — Licenças
 
-##### DIVISÃO I
+DIVISÃO I
 
 Concessão de licenças
 
@@ -206,7 +232,7 @@ A concessão de licença para a extracção de materiais inertes de zonas de esc
 
 Para quantidades de materiais inertes que anualmente não excedam o volume de 1000 m3, e não se destinem a comércio, poderão ser emitidas licenças com dispensa da hasta pública prevista neste diploma, as quais permitirão a extracção de inertes das zonas de escoamento e de expansão de águas navegáveis ou flutuáveis, em áreas ou lotes livres e como tal devidamente demarcados pela DGRAH, ficando as licenças subordinadas ao pagamento da taxa avaliada nos termos da alínea b) do n.º 1 do artigo 19.º deste diploma.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Transmissibilidade e cancelamento das licenças
 
@@ -356,8 +382,8 @@ Ficam expressamente revogadas as alíneas e) e f) do § 1.º do artigo 2.º do [
 
 Visto e aprovado em Conselhos de Ministros de 20 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Agosto de 1982.**
+Promulgado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

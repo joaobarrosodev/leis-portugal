@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15100/18251826.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1985-183018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3977257ead7478e47b5d8a98d0cd0709b709534aca2691d5dfa651ffabcaf378
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b45bc2f888bb26424cda8e826185bd7bae831d27f572eceeb1787d8c1b002c2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Orgânica
+- Política de Defesa
+- Serviço de Informações Militares
+- Sistema de Informações da República Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:575726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:172099:por
+  label: "Alterado o n.º 2 do artigo 8.º, pelo DEC LEI.486/85.22.11.1985.MDN, DR.IS [269] de 22.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1985-172099
+  date: '1985-11-22'
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:168617:por
+  label: Rectificado pela DECL.DD5086.29.08.1985.PCM, DR.IS [225]3ºSupl de 30.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-168617
+  date: '1985-08-29'
+- type: repealed_by
+  target: pt:dre:575726:por
+  label: "Revogado o presente diploma, rectificado pela Decl DD5086, de 29-Ago e alterado pelo Dec Lei 486/85, de 22-Nov,\
+    \ pelo DEC LEI.254/95.1995.09.30.MDN, DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1995-575726
+  date: '1995-09-30'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:28Z'
   warnings: []
   errors: []
 ---
@@ -203,12 +228,12 @@ A fiscalização de actividades, programas, dados e informações do Serviço de
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 26 de Junho de 1985.**
+Promulgado em 26 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Julho de 1985.**
+Referendado em 1 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c18a94d05825132c7fa318ed5a0697d1008e6b71f08717307bf08bb1277132b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fff51fa40f9ac4bd24c1dd0669aa3f932e638e3573f7dd011c43f2d3fbdfa363
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Alfândegas
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:283118:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221529:por
+  label: "Alterado o artigo 66.º do Decreto-Lei n.º 252-A/82, de 28 de Junho, alterado pelo presente diploma, pelo DEC LEI.400/86.29.11.1986.MF,\
+    \ DR.IS [276] de 29.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1986-221529
+  date: '1986-11-29'
+- type: amended_by
+  target: pt:dre:283118:por
+  label: "Alterados os artigos 6.º e 28.º do Decreto-Lei n.º 252-A/82, de 28 de Junho, na redacção do presente diploma, pelo\
+    \ DEC LEI.49/88.17.02.1988.MF, DR.IS [39] de 17.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1988-283118
+  date: '1988-02-17'
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138119:por
+  label: Rectificado pela DECL.DD5128.12.11.1985.PCM, DR.IS [276]Supl de 30.11.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-138119
+  date: '1985-11-12'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:09Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +120,7 @@ Considerando que, pelas razões expostas, se torna imperiosa e urgente a sua rem
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 28.º, 30.º, 31.º, 32.º, 33.º, 34.º, 66.º e 122.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 28.º, 30.º, 31.º, 32.º, 33.º, 34.º, 66.º e 122.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — (Estrutura orgânica)
 
@@ -221,7 +244,7 @@ A substituição do pessoal dirigente dos serviços centrais processar-se-á nos
 
 6) Os chefes de divisão, pelo técnico superior de categoria mais elevada, a designar mediante proposta do respectivo director de serviços e autorização do director-geral.
 
-###### Art. 2.º São introduzidos no [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, os artigos 34.º-A, 34.º-B, 31.º-C e 34.º-D:
+Art. 2.º São introduzidos no [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, os artigos 34.º-A, 34.º-B, 31.º-C e 34.º-D:
 
 ###### Artigo 34.º-A — (Divisão das Origens e das Relações Externas - Atribuições)
 
@@ -281,20 +304,20 @@ c) Regime de certificados de importação e exportação;
 
 4) Participação nos trabalhos dos comités comunitários.
 
-###### Art. 3.º Ao quadro de pessoal anexo ao Decreto-Lei n.º 252-A/85, de 28 de Junho, são introduzidas as alterações constantes do quadro anexo ao presente diploma e que dele faz parte integrante.
+Art. 3.º Ao quadro de pessoal anexo ao Decreto-Lei n.º 252-A/85, de 28 de Junho, são introduzidas as alterações constantes do quadro anexo ao presente diploma e que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro de pessoal a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24500/35163519.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24500/35163519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24500/35163519.pdf)

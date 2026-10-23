@@ -22,6 +22,7 @@ from typing import Any
 from leis_portugal.errors import FetchError
 from leis_portugal.infrastructure.http import HttpClient
 from leis_portugal.sources.dre.constants import DRE_BASE_URL
+from leis_portugal.sources.dre.sitemap import SITEMAP_INDEX
 
 
 BASE = f"{DRE_BASE_URL}/dr"
@@ -317,6 +318,14 @@ class DreClient:
 
     def consolidated_sitemap(self) -> bytes:
         return self.session.http.get(SITEMAP_CONSOLIDATED).content
+
+    # ------------------------------------------------------------------ sitemaps
+
+    def sitemap_index(self) -> bytes:
+        return self.session.http.get(SITEMAP_INDEX).content
+
+    def sitemap(self, url: str) -> bytes:
+        return self.session.http.get(url).content
 
     def consolidated_header(self, tipo: str, ano: int, frag_id: str) -> dict[str, Any]:
         """Cabeçalho do consolidado: DiplomaLegis (Id, LinkSitemap, DataPublicacao...)."""

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14100/14641466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1986-228650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e652c2ce4fa81d7ad189b41f29d7bde1e8740173f565fda676bc5f16d687ecf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d31d928a1443e78c10960f1567bca1fbffcb6824484ba5df7d256bd43aaf45f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regime Jurídico
+- Seguro
+- Setor Privado
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:37Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +101,9 @@ Considerando a adesão de Portugal às Comunidades Europeias e a consequente nec
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 8.º, 9.º, 11.º, 13.º, 14.º, 17.º, 18.º, 19.º, 21.º a 23.º e 25.º do Decreto-Lei n.º 188/84, de 5 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 8.º, 9.º, 11.º, 13.º, 14.º, 17.º, 18.º, 19.º, 21.º a 23.º e 25.º do Decreto-Lei n.º 188/84, de 5 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - O disposto na presente secção aplica-se à constituição de seguradoras, por pessoas singulares ou colectivas, de nacionalidade portuguesa ou de um outro Estado membro da Comunidade Económica Europeia, ainda que no respectivo capital participem entidades do sector público português.
+Art. 6.º - 1 - O disposto na presente secção aplica-se à constituição de seguradoras, por pessoas singulares ou colectivas, de nacionalidade portuguesa ou de um outro Estado membro da Comunidade Económica Europeia, ainda que no respectivo capital participem entidades do sector público português.
 
 2 - Rege-se por lei especial a constituição de seguradoras de capitais públicos portugueses.
 
@@ -103,7 +111,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - ...
 
-###### Art. 8.º - 1 - A autorização só pode ser concedida desde que os promotores da seguradora se comprometam a:
+Art. 8.º - 1 - A autorização só pode ser concedida desde que os promotores da seguradora se comprometam a:
 
 a) Adoptar a forma de sociedade anónima de responsabilidade limitada;
 
@@ -117,7 +125,7 @@ a) Suficiência dos meios técnicos e recursos financeiros relativamente aos ram
 
 b) Compatibilidade entre as perspectivas de desenvolvimento da seguradora e a manutenção de uma sã concorrência no mercado.
 
-###### Art. 9.º - 1 - O pedido de autorização será apresentado ao Ministro das Finanças, acompanhado dos seguintes elementos:
+Art. 9.º - 1 - O pedido de autorização será apresentado ao Ministro das Finanças, acompanhado dos seguintes elementos:
 
 a) ...
 
@@ -163,17 +171,17 @@ d) Previsões relativas a cada um dos três primeiros exercícios sociais, em re
 
 5 - Os requerentes designarão de entre si um que a todos represente perante as autoridades encarregadas de apreciar o pedido de autorização ou de sobre ele se pronunciarem.
 
-###### Art. 11.º - 1 - O Instituto de Seguros de Portugal deverá remeter o seu parecer ao Ministro das Finanças no prazo máximo de 90 dias, sem prejuízo do disposto no artigo anterior.
+Art. 11.º - 1 - O Instituto de Seguros de Portugal deverá remeter o seu parecer ao Ministro das Finanças no prazo máximo de 90 dias, sem prejuízo do disposto no artigo anterior.
 
 2 - Nos casos previstos na segunda parte do n.º 2 do artigo 7.º, o processo, acompanhado do parecer do Instituto de Seguros de Portugal, será enviado ao respectivo governo regional, que remeterá o seu parecer ao Ministro das Finanças no prazo máximo de 45 dias.
 
-###### Art. 13.º - 1 - Durante os três exercícios sociais que são objecto das previsões referidas na alínea d) do n.º 3 do artigo 9.º, a seguradora deve apresentar, anualmente, ao Instituto de Seguros de Portugal um relatório sobre a forma como o programa de actividade está a ser executado.
+Art. 13.º - 1 - Durante os três exercícios sociais que são objecto das previsões referidas na alínea d) do n.º 3 do artigo 9.º, a seguradora deve apresentar, anualmente, ao Instituto de Seguros de Portugal um relatório sobre a forma como o programa de actividade está a ser executado.
 
 2 - ...
 
 3 - Quaisquer alterações aos programas de actividade, apresentadas nos termos da alínea d) do n.º 3 do artigo 9.º, devem ser previamente comunicados ao Instituto de Seguros de Portugal.
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 a) ...
 
@@ -189,17 +197,17 @@ d) ...
 
 4 - Quando for revogada a autorização a uma seguradora já constituída, proceder-se-á à sua liquidação, nos termos do Decreto de 21 de Outubro de 1907 e dos diplomas regulamentares.
 
-###### Art. 17.º À constituição de seguradoras, quando requerida, no todo ou em parte, por pessoas singulares ou colectivas nacionais de países fora da Comunidade Económica Europeia, aplica-se o disposto nos n.os 3 e 4 do artigo 6.º e nos artigos 7.º a 16.º, com as especialidades constantes da presente secção.
+Art. 17.º À constituição de seguradoras, quando requerida, no todo ou em parte, por pessoas singulares ou colectivas nacionais de países fora da Comunidade Económica Europeia, aplica-se o disposto nos n.os 3 e 4 do artigo 6.º e nos artigos 7.º a 16.º, com as especialidades constantes da presente secção.
 
-###### Art. 18.º A autorização só pode ser concedida desde que a seguradora em causa dê satisfação a necessidades do mercado segurador.
+Art. 18.º A autorização só pode ser concedida desde que a seguradora em causa dê satisfação a necessidades do mercado segurador.
 
-###### Art. 19.º Relativamente aos accionistas fundadores que sejam seguradoras, resseguradoras ou outras pessoas colectivas, o pedido de autorização será ainda instruído com uma memória explicativa da actividade no âmbito internacional e, nomeadamente, nas relações seguradoras, resseguradoras ou de outro tipo mantidas com empresas ou entidades portuguesas.
+Art. 19.º Relativamente aos accionistas fundadores que sejam seguradoras, resseguradoras ou outras pessoas colectivas, o pedido de autorização será ainda instruído com uma memória explicativa da actividade no âmbito internacional e, nomeadamente, nas relações seguradoras, resseguradoras ou de outro tipo mantidas com empresas ou entidades portuguesas.
 
-###### Art. 21.º - 1 - À constituição das mútuas de seguros aplica-se, com as necessárias adaptações e sem prejuízo do disposto no número seguinte, o disposto no n.º 3 do artigo 6.º, no artigo 7.º, nas alíneas b) e c) do n.º 1 e nas alíneas a) e b) do n.º 2 do artigo 8.º e nos artigos 9.º e 16.º
+Art. 21.º - 1 - À constituição das mútuas de seguros aplica-se, com as necessárias adaptações e sem prejuízo do disposto no número seguinte, o disposto no n.º 3 do artigo 6.º, no artigo 7.º, nas alíneas b) e c) do n.º 1 e nas alíneas a) e b) do n.º 2 do artigo 8.º e nos artigos 9.º e 16.º
 
 2 - ...
 
-###### Art. 22.º - 1 - As seguradoras sediadas num outro Estado membro da Comunidade Económica Europeia que pretendam autorização para a abertura em Portugal de uma agência-geral devem apresentar ao Ministro das Finanças um pedido acompanhado dos seguintes elementos:
+Art. 22.º - 1 - As seguradoras sediadas num outro Estado membro da Comunidade Económica Europeia que pretendam autorização para a abertura em Portugal de uma agência-geral devem apresentar ao Ministro das Finanças um pedido acompanhado dos seguintes elementos:
 
 a) Estatutos;
 
@@ -253,7 +261,7 @@ f) Declaração de compromisso de que, no momento da abertura, a agência-geral 
 
 6 - Decorrido que seja um prazo de três meses após o envio dos documentos referidos no número anterior, sem que a autoridade de controle consultada se tenha pronunciado, considera-se o seu parecer favorável.
 
-###### Art. 23.º - 1 - As seguradoras sediadas fora do território da Comunidade Económica Europeia que pretendam autorização para a abertura em Portugal de uma agência-geral devem apresentar ao Ministro das Finanças um pedido acompanhado dos seguintes elementos:
+Art. 23.º - 1 - As seguradoras sediadas fora do território da Comunidade Económica Europeia que pretendam autorização para a abertura em Portugal de uma agência-geral devem apresentar ao Ministro das Finanças um pedido acompanhado dos seguintes elementos:
 
 a) ...
 
@@ -289,7 +297,7 @@ e) ...
 
 6 - É aplicável às agências-gerais, com as devidas adaptações, o disposto no n.º 4 do artigo 9.º e nos artigos 10.º a 13.º
 
-###### Art. 25.º - 1 - A autorização pode ser revogada:
+Art. 25.º - 1 - A autorização pode ser revogada:
 
 a) Nos termos do disposto nas alíneas a), b) e c) do n.º 1 do artigo 14.º;
 
@@ -301,16 +309,16 @@ c) Se as autoridades do país da sede da seguradora revogarem a autorização de
 
 3 - À revogação da autorização das agências-gerais aplica-se o disposto no artigo 15.º
 
-###### Art. 2.º O disposto no presente decreto-lei aplica-se a todos os pedidos de autorização que eventualmente se encontrem pendentes.
+Art. 2.º O disposto no presente decreto-lei aplica-se a todos os pedidos de autorização que eventualmente se encontrem pendentes.
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Maio de 1986.**
+Promulgado em 28 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1986.**
+Referendado em 30 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

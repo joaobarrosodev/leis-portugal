@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 192/1984, 1º Suplemento, Série I de 1984-08-20
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2556-(12) a 2556-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19201/00120016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -50,40 +50,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-c-1984-579346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3431a6fc0b9aadf09f2f8801d45a6a5dc3206ac746a017306677a8c19539f107
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 317390a6d0da419e5bea3ca8133ca4bd7893e3c465eb9485b4b1b19a48a7b847
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Coordenador do Trabalho Portuário
+- Instituto do Trabalho Portuário
+- Orgânica
+- Personalidade Jurídica
+- Trabalho Portuário
 relationships:
 - type: amended_by
   target: pt:dre:223012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571408:por
+  label: "Alterados os arts. 4º, 5º, 6º, 9º, 11º, 13º e 15º pelo DEC LEI.151/90.15.05.1990.MOPTC, DR.IS [111] de 15.05.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1990-571408
+  date: '1990-05-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 15 PELO DEC 357/91 DE 20-SET DR.IS-A [217]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-09-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 2, 4 A 12, 15 E REVOGADO O ART 24 PELO DEC LEI 356/93 DE 09-OUT DR.IS-A [237]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-09'
+- type: cites
+  target: pt:dre:364171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631274:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADOS OS ART 17 A 20 PELO DEC LEI 280/93 DE 13-AGO DR.IS-A [189]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-13'
+- type: repealed_by
+  target: pt:dre:356105:por
+  label: Revogados os arts. 17.º a 20.º pelo(a) Decreto-Lei n.º 280/93 - Diário da República n.º 189/1993, Série I-A de 1993-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1993-356105
+  date: '1993-08-13'
+- type: repealed_by
+  target: pt:dre:223012:por
+  label: "Revogado pelo DEC LEI.331/98.1998.11.03.MEPAT, DR.IS-A [254], com a redacção do Dec Lei 356/93 de 09-Out\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1998-223012
+  date: '1998-11-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:23Z'
   warnings: []
   errors: []
 ---
@@ -108,21 +164,21 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e âmbito
 
-###### Artigo 1.º - 1 - O Instituto do Trabalho Portuário (ITP), criado pelo [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, é um instituto público dotado de personalidade jurídica de direito público e de autonomia administrativa, financeira e patrimonial.
+Artigo 1.º - 1 - O Instituto do Trabalho Portuário (ITP), criado pelo [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, é um instituto público dotado de personalidade jurídica de direito público e de autonomia administrativa, financeira e patrimonial.
 
 2 - O ITP rege-se pelo disposto no presente diploma e respectivos regulamentos e, subsidiariamente, pelo regime jurídico aplicável às empresas públicas.
 
-###### Art. 2.º - 1 - O ITP tem sede em Lisboa e exerce a sua acção em todo o território nacional.
+Art. 2.º - 1 - O ITP tem sede em Lisboa e exerce a sua acção em todo o território nacional.
 
 2 - Sob a tutela administrativa, controle e fiscalização do ITP podem funcionar centros coordenadores do trabalho portuário (CCTP).
 
 3 - Sob o controle e fiscalização do ITP poderão funcionar, nos portos não dotados de CCTP, órgãos de gestão bipartida (OGB) e qualquer outro tipo de organização ou estrutura destinados a gerir localmente o trabalho portuário.
 
-###### Art. 3.º O Ministro do Mar é o ministro da tutela do ITP.
+Art. 3.º O Ministro do Mar é o ministro da tutela do ITP.
 
 ### CAPÍTULO II — Atribuições e competências
 
-###### Art. 4.º - 1 - São atribuições do ITP:
+Art. 4.º - 1 - São atribuições do ITP:
 
 a) Estudar e propor linhas de orientação e de política do trabalho portuário a nível nacional, com vista à unificação, tanto quanto possível, do tratamento dos respectivos problemas em todos os portos nacionais;
 
@@ -156,7 +212,7 @@ b) Promover a garantia da aplicação pelos CCTP de normas de disciplina, higien
 
 c) De um modo geral, exercer a tutela administrativa, controle e fiscalização sobre os CCTP.
 
-###### Art. 5.º - 1 - Para o exercício das suas atribuições, compete ao ITP:
+Art. 5.º - 1 - Para o exercício das suas atribuições, compete ao ITP:
 
 a) Propor superiormente as medidas e a legislação adequada ao desempenho das suas funções;
 
@@ -180,13 +236,13 @@ i) Manter uma auditoria permanente à actividade dos CCTP, dos OGB e das outras 
 
 ### CAPÍTULO III — Órgãos e serviços
 
-###### Art. 6.º São órgãos do ITP:
+Art. 6.º São órgãos do ITP:
 
 a) O conselho directivo;
 
 b) A comissão de fiscalização.
 
-###### Art. 7.º - 1 - O conselho directivo do ITP é nomeado e exonerado por despacho do ministro da tutela, sendo constituído por:
+Art. 7.º - 1 - O conselho directivo do ITP é nomeado e exonerado por despacho do ministro da tutela, sendo constituído por:
 
 a) 1 representante do ministério da tutela, que presidirá;
 
@@ -196,7 +252,7 @@ c) 1 representante das associações de operadores portuários.
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior poderá o ministro da tutela, se o considerar necessário, suprir a falta se as entidades competentes se abstiverem de indicar o seu representante no prazo de 30 dias após serem solicitadas a fazê-lo.
 
-###### Art. 8.º - 1 - Os membros do conselho directivo ficarão sujeitos ao Estatuto do Gestor Público, sem prejuízo do disposto no n.º 1 do artigo 7.º
+Art. 8.º - 1 - Os membros do conselho directivo ficarão sujeitos ao Estatuto do Gestor Público, sem prejuízo do disposto no n.º 1 do artigo 7.º
 
 2 - O ministro da tutela fixará por despacho o regime de prestação de trabalho dos membros do conselho directivo na parte em que não lhes puder ser aplicável o Estatuto referido no número anterior.
 
@@ -208,7 +264,7 @@ c) 1 representante das associações de operadores portuários.
 
 6 - Se a nomeação do presidente do conselho directivo recair em funcionário do Estado, de institutos públicos ou de autarquias locais ou ainda em trabalhador de empresa pública, a nomeação será feita em regime de comissão de serviço ou de requisição, com garantia do seu lugar de origem e dos direitos nele adquiridos.
 
-###### Art. 9.º - 1 - Compete ao conselho directivo:
+Art. 9.º - 1 - Compete ao conselho directivo:
 
 a) Estruturar, organizar e dirigir os serviços do ITP e tomar as medidas necessárias à prossecução dos seus fins;
 
@@ -246,11 +302,11 @@ l) Outras atribuições que legalmente lhe sejam cometidas.
 
 8 - O conselho directivo tem a faculdade de, sempre que o entender necessário, pedir o parecer, conjunto ou separado, dos conselhos gerais dos CCTP.
 
-###### Art. 10.º Salvo em actos de mero expediente, o ITP obriga-se pela assinatura de 2 membros do conselho directivo, sendo um deles o presidente ou um dos membros em que o presidente delegue, ou pela assinatura de quem tenha delegação nominal de poderes, por deliberação do mesmo conselho directivo devidamente registada em acta, na qual tem de participar o presidente.
+Art. 10.º Salvo em actos de mero expediente, o ITP obriga-se pela assinatura de 2 membros do conselho directivo, sendo um deles o presidente ou um dos membros em que o presidente delegue, ou pela assinatura de quem tenha delegação nominal de poderes, por deliberação do mesmo conselho directivo devidamente registada em acta, na qual tem de participar o presidente.
 
-###### Art. 11.º As deliberações do conselho directivo, tomadas no exercício da competência prevista na alínea j) do n.º 1 do artigo 9.º, são equiparadas, para todos os efeitos legais, às decisões referidas no artigo 1522.º do Código de Processo Civil.
+Art. 11.º As deliberações do conselho directivo, tomadas no exercício da competência prevista na alínea j) do n.º 1 do artigo 9.º, são equiparadas, para todos os efeitos legais, às decisões referidas no artigo 1522.º do Código de Processo Civil.
 
-###### Art. 12.º - 1 - A comissão de fiscalização é nomeada e exonerada por despacho do ministro da tutela, sendo constituída por:
+Art. 12.º - 1 - A comissão de fiscalização é nomeada e exonerada por despacho do ministro da tutela, sendo constituída por:
 
 a) 1 representante do ministério da tutela, que presidirá;
 
@@ -266,7 +322,7 @@ c) 1 representante das associações de operadores portuários.
 
 5 - De todas as reuniões será lavrada acta.
 
-###### Art. 13.º - 1 - Compete à comissão de fiscalização:
+Art. 13.º - 1 - Compete à comissão de fiscalização:
 
 a) Emitir parecer sobre o relatório anual de actividades do ITP e a respectiva conta de gerência, bem como sobre o orçamento para o ano seguinte;
 
@@ -280,11 +336,11 @@ c) Fiscalizar, nos casos não previstos na alínea b), a aplicação do regime j
 
 4 - O conselho directivo será sempre informado dos resultados dos exames e verificações a que proceda a comissão de fiscalização.
 
-###### Art. 14.º A estrutura do ITP, que será estabelecida pelo conselho directivo de acordo com o desenvolvimento gradual das suas actividades no âmbito do trabalho portuário, carece de aprovação do ministro da tutela.
+Art. 14.º A estrutura do ITP, que será estabelecida pelo conselho directivo de acordo com o desenvolvimento gradual das suas actividades no âmbito do trabalho portuário, carece de aprovação do ministro da tutela.
 
 ### CAPÍTULO IV — Regime financeiro
 
-###### Art. 15.º - 1 - Constituem receitas do ITP:
+Art. 15.º - 1 - Constituem receitas do ITP:
 
 a) As comparticipações para o efeito inscritas nos orçamentos dos CCTP, OGB e outras organizações locais de gestão do trabalho portuário, nos termos fixados por decreto regulamentar;
 
@@ -300,15 +356,15 @@ f) Quaisquer outras que legalmente lhe venham a ser atribuídas, nomeadamente as
 
 2 - Os saldos apurados no final de cada exercício serão transferidos para a gerência do ano seguinte.
 
-###### Art. 16.º Constituem despesas do ITP todas as que resultem do exercício das suas funções.
+Art. 16.º Constituem despesas do ITP todas as que resultem do exercício das suas funções.
 
 ### CAPÍTULO V — CCTP
 
-###### Art. 17.º - 1 - Os CCTP regulam-se pelo disposto no presente diploma e em decreto regulamentar, onde são fixados a respectiva área de jurisdição, a competência, a composição dos órgãos e o regime financeiro.
+Art. 17.º - 1 - Os CCTP regulam-se pelo disposto no presente diploma e em decreto regulamentar, onde são fixados a respectiva área de jurisdição, a competência, a composição dos órgãos e o regime financeiro.
 
 2 - Os CCTP são dotados de personalidade jurídica de direito público e autonomia administrativa, financeira e patrimonial.
 
-###### Art. 18.º - 1 - São atribuições dos CCTP as consignado no n.º 2 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, e ainda:
+Art. 18.º - 1 - São atribuições dos CCTP as consignado no n.º 2 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, e ainda:
 
 a) Propor normas de actuação para o trabalho portuário no quadro da regulamentação legal e dos instrumentos de regulamentação colectiva de trabalho aplicáveis;
 
@@ -320,7 +376,7 @@ d) De um modo geral ocupar-se das questões atinentes ao trabalho portuário na 
 
 2 - No exercício das suas atribuições e competências, os CCTP cooperarão com as organizações sindicais e operadores portuários.
 
-###### Art. 19.º - 1 - São órgãos dos CCTP:
+Art. 19.º - 1 - São órgãos dos CCTP:
 
 a) A direcção;
 
@@ -332,11 +388,11 @@ c) O conselho geral.
 
 3 - Estarão representadas no conselho geral as entidades locais ligadas ao sector portuário.
 
-###### Art. 20.º É aplicável aos membros das direcções dos CCTP o disposto nos n.os 2 e 3 do artigo 8.º e no artigo 10.º, com as necessárias adaptações.
+Art. 20.º É aplicável aos membros das direcções dos CCTP o disposto nos n.os 2 e 3 do artigo 8.º e no artigo 10.º, com as necessárias adaptações.
 
 ### CAPÍTULO VI — Regime do pessoal do ITP e dos CCTP
 
-###### Art. 21.º - 1 - O pessoal do ITP e dos CCTP rege-se pelas normas aplicáveis ao contrato individual de trabalho, com as adaptações definidas em estatuto próprio aprovado por portaria conjunta do ministro da tutela e do Ministro do Trabalho e Segurança Social, após audição dos sindicatos representativos do pessoal.
+Art. 21.º - 1 - O pessoal do ITP e dos CCTP rege-se pelas normas aplicáveis ao contrato individual de trabalho, com as adaptações definidas em estatuto próprio aprovado por portaria conjunta do ministro da tutela e do Ministro do Trabalho e Segurança Social, após audição dos sindicatos representativos do pessoal.
 
 2 - É proibido o exercício pelos trabalhadores do ITP e dos CCTP de quaisquer outras funções remuneradas por conta de outrem, salvo autorização especial nos termos da legislação aplicável.
 
@@ -344,7 +400,7 @@ c) O conselho geral.
 
 4 - Na fixação e actualização das remunerações, incluindo as do conselho directivo, atender-se-á ao nível e condições de retribuição praticados no sector empresarial público e nas empresas operadoras portuárias.
 
-###### Art. 22.º - 1 - Os funcionários do Estado, de institutos públicos e de autarquis locais, bem como os trabalhadores das empresas públicas e os trabalhadores a que se refere o artigo 1.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, podem ser chamados a desempenhar funções no ITP ou nos CCTP em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos.
+Art. 22.º - 1 - Os funcionários do Estado, de institutos públicos e de autarquis locais, bem como os trabalhadores das empresas públicas e os trabalhadores a que se refere o artigo 1.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, podem ser chamados a desempenhar funções no ITP ou nos CCTP em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos.
 
 2 - Os trabalhadores contratados para os quadros do ITP ou dos CCTP poderão ser chamados a desempenhar funções no Estado, em institutos públicos ou em autarquias locais, bem como em empresas públicas, em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos.
 
@@ -352,7 +408,7 @@ c) O conselho geral.
 
 Disposições finais e transitórias
 
-###### Art. 23.º - 1 - Com a entrada em vigor do presente diploma consideram-se dissolvidos os actuais órgãos do ITP e dos CCTP.
+Art. 23.º - 1 - Com a entrada em vigor do presente diploma consideram-se dissolvidos os actuais órgãos do ITP e dos CCTP.
 
 2 - Manter-se-ão porém transitoriamente em funções, até à data da nomeação dos novos órgãos do ITP, os actuais conselhos directivo e administrativo.
 
@@ -360,18 +416,18 @@ Disposições finais e transitórias
 
 4 - Os prazos previstos nos n.os 2 dos artigos 7.º e 12.º são reduzidos para 8 dias no caso da nomeação a que se refere o n.º 2 do presente artigo.
 
-###### Art. 24.º Nas regiões autónomas poderá aplicar-se o presente diploma, com as adaptações consideradas necessárias.
+Art. 24.º Nas regiões autónomas poderá aplicar-se o presente diploma, com as adaptações consideradas necessárias.
 
-###### Art. 25.º É revogado o [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, com a redacção da [Lei n.º 72/79](https://diariodarepublica.pt/dr/detalhe/lei/72-1979-364171), de 24 de Outubro.
+Art. 25.º É revogado o [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, com a redacção da [Lei n.º 72/79](https://diariodarepublica.pt/dr/detalhe/lei/72-1979-364171), de 24 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Carlos Montez Melancia.
 
-**Promulgado em 8 de Agosto de 1984.**
+Promulgado em 8 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Agosto de 1984.**
+Referendado em 17 de Agosto de 1984.
 
 Primeiro-Ministro, Mário Soares.

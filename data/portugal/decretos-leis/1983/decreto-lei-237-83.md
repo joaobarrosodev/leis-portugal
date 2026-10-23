@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1983-451862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea711d5b0a9ac85824a1137cc82aaae748d0cadf3a3173de3de25c9b19f7268c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f746ed89e0826f0d8bc943ce505a84ddf210ec4744b17573993c4aaf81d20dd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Parque Natural do Alvão
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:454502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:441538:por
+  label: "Alargada a composição da comissão instaladora do Parque Natural do Alvão referida no nº 1 do art. 4º, pelo DEC LEI.390/83.18.10.1983.MQV,\
+    \ DR.IS [240] de 18.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-1983-441538
+  date: '1983-10-18'
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454502:por
+  label: "Revogados, a partir de 29.07.2008, os art.s 6º, 7º, 8º, 10º e 11º, pelo DEC LEI.142/2008.24.07.2008.MAOTDR, DR.IS\
+    \ [142] de 24.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2008-454502
+  date: '2008-07-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:29Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +134,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o Parque Natural do Alvão.
+Artigo 1.º É criado o Parque Natural do Alvão.
 
-###### Art. 2.º - 1 - A área do Parque Natural do Alvão é definida pelos limites cartográficos na carta, à escala 1/100000, anexa ao presente diploma e que são os seguintes:
+Art. 2.º - 1 - A área do Parque Natural do Alvão é definida pelos limites cartográficos na carta, à escala 1/100000, anexa ao presente diploma e que são os seguintes:
 
 A norte:
 
@@ -176,7 +202,7 @@ A este:
 
 2 - Quaisquer dúvidas levantadas pela leitura da carta à escala 1/100000, anexa ao presente decreto-lei, serão resolvidas pelos limites registados em carta à escala 1/25000, Carta Militar de Portugal, existente no Serviço Nacional de Parques, Reservas e Conservação da Natureza.
 
-###### Art. 3.º O Parque Natural visa fundamentalmente o desenvolvimento integrado e harmonioso com base na gestão dos recursos naturais, sociais e culturais, de maneira a conferir às populações qualidade de vida sem recorrer à degradação desses mesmos recursos, tendo por objectivos:
+Art. 3.º O Parque Natural visa fundamentalmente o desenvolvimento integrado e harmonioso com base na gestão dos recursos naturais, sociais e culturais, de maneira a conferir às populações qualidade de vida sem recorrer à degradação desses mesmos recursos, tendo por objectivos:
 
 a) A conservação da Natureza e a salvaguarda do meio ambiente, nomeadamente quanto aos aspectos geomorfológicos, fisiográficos, faunísticos e florísticos;
 
@@ -188,7 +214,7 @@ d) Promoção e apoio ao recreio ecológico;
 
 e) Sensibilização ecológica das populações.
 
-###### Art. 4.º - 1 - Até à entrada em funcionamento das estruturas definitivas do Parque Natural, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, aquele será administrado por uma comissão instaladora, a nomear por despacho do Ministro da Qualidade de Vida.
+Art. 4.º - 1 - Até à entrada em funcionamento das estruturas definitivas do Parque Natural, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, aquele será administrado por uma comissão instaladora, a nomear por despacho do Ministro da Qualidade de Vida.
 
 Esta comissão, que será presidida pelo representante do Serviço Nacional de Parques, Reservas e Conservação da Natureza, é constituída, além deste, por um representante de cada uma das seguintes entidades:
 
@@ -218,11 +244,11 @@ Comissão Regional de Turismo da Serra do Marão.
 
 2 - A comissão instaladora e os órgãos directivos do Parque, logo que nomeados, poderão tomar as medidas necessárias à prossecução dos objectivos referidos no artigo 3.º, podendo fazer obras e trabalhos que acharem convenientes, utilizando meios financeiros que lhes forem consignados em orçamento.
 
-###### Art. 5.º - 1 - O Plano de Ordenamento e o Regulamento do Parque Natural do Alvão serão elaborados pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza, sendo coadjuvado nestes trabalhos pela comissão instaladora.
+Art. 5.º - 1 - O Plano de Ordenamento e o Regulamento do Parque Natural do Alvão serão elaborados pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza, sendo coadjuvado nestes trabalhos pela comissão instaladora.
 
 2 - A execução dos planos sectoriais aprovados para as referidas áreas atenderá ao espírito que preside à criação do Parque Natural.
 
-###### Art. 6.º - 1 - Dentro dos limites do Parque Natural do Alvão são proibidos, sem parecer favorável da comissão instaladora ou do órgão directivo do Parque, logo que nomeado, os seguintes actos ou actividades:
+Art. 6.º - 1 - Dentro dos limites do Parque Natural do Alvão são proibidos, sem parecer favorável da comissão instaladora ou do órgão directivo do Parque, logo que nomeado, os seguintes actos ou actividades:
 
 a) A criação de novos núcleos populacionais;
 
@@ -262,9 +288,9 @@ q) A introdução de espécies de animais ou vegetais exóticas.
 
 4 - Não carecem de autorização quaisquer trabalhos que digam respeito ao exercício da actividade agrícola, desde que estes não impliquem a destruição ou danificação do arvoredo, a alteração do relevo natural ou a destruição de construções.
 
-###### Art. 7.º A caça será regulamentada em colaboração com o serviço competente, atendendo ao espírito que preside à criação do Parque Natural.
+Art. 7.º A caça será regulamentada em colaboração com o serviço competente, atendendo ao espírito que preside à criação do Parque Natural.
 
-###### Art. 8.º - 1 - As infracções ao disposto no n.º 1 do artigo 6.º, sem prejuízo de outras sanções aplicáveis, são punidas com as seguintes coimas:
+Art. 8.º - 1 - As infracções ao disposto no n.º 1 do artigo 6.º, sem prejuízo de outras sanções aplicáveis, são punidas com as seguintes coimas:
 
 a) De 50000$00 a 500000$00, as das alíneas a), b), c), d), e), l) e m);
 
@@ -276,7 +302,7 @@ c) De 5000$00 a 20000$00 as das alíneas j), o), p) e q).
 
 3 - Acessoriamente poderão ser apreendidos os objectos utilizados na prática da infracção e os objectos dela resultantes.
 
-###### Art. 9.º - 1 - Independentemente do processamento das contra-ordenações e da aplicação ou não da coima, os infractores, incluindo autores e pessoas colectivas, são obrigados solidariamente, a todo o tempo, a demolir as obras e trabalhos efectuados em infracção e a repor a situação anterior à infracção.
+Art. 9.º - 1 - Independentemente do processamento das contra-ordenações e da aplicação ou não da coima, os infractores, incluindo autores e pessoas colectivas, são obrigados solidariamente, a todo o tempo, a demolir as obras e trabalhos efectuados em infracção e a repor a situação anterior à infracção.
 
 2 - Se os infractores não cumprirem as obrigações referidas nos prazos que lhes forem indicados, a comissão instaladora ou a direcção do Parque Natural, logo que nomeada, ou a câmara municipal da área mandarão proceder às demolições, obras e trabalhos necessários à reposição da situação anterior à infracção, apresentando a relação das despesas efectuadas para cobrança aos infractores.
 
@@ -284,15 +310,15 @@ c) De 5000$00 a 20000$00 as das alíneas j), o), p) e q).
 
 4 - Em caso de não ser possível repor a situação anterior à infracção, os infractores indemnizarão o Estado pelos prejuízos sofridos pelo Parque.
 
-###### Art. 10.º - 1 - A competência em razão da matéria para o processamento das contra-ordenações caberá ao Ministério da Qualidade de Vida, competindo ao Ministro da Qualidade de Vida a aplicação das coimas.
+Art. 10.º - 1 - A competência em razão da matéria para o processamento das contra-ordenações caberá ao Ministério da Qualidade de Vida, competindo ao Ministro da Qualidade de Vida a aplicação das coimas.
 
 2 - A competência territorial para o mesmo processamento caberá à comissão instaladora e de futuro ao director do Parque.
 
-###### Art. 11.º - 1 - O policiamento e a fiscalização do disposto neste decreto-lei competem, nomeadamente, aos membros dos órgãos do Parque, aos funcionários do Ministério da Qualidade de Vida e das câmaras municipais da área, à Guarda Nacional Republicana, à Polícia Florestal e aos guarda-rios.
+Art. 11.º - 1 - O policiamento e a fiscalização do disposto neste decreto-lei competem, nomeadamente, aos membros dos órgãos do Parque, aos funcionários do Ministério da Qualidade de Vida e das câmaras municipais da área, à Guarda Nacional Republicana, à Polícia Florestal e aos guarda-rios.
 
 2 - Os respectivos autos devem ser dirigidos à comissão instaladora ou ao director do Parque, logo que nomeado, dentro do prazo de 30 dias.
 
-###### Art. 12.º - 1 - O Serviço Nacional de Parques, Reservas e Conservação da Natureza goza do direito de preferência nas transmissões, por título oneroso, de terrenos ou edifícios situados na área do Parque.
+Art. 12.º - 1 - O Serviço Nacional de Parques, Reservas e Conservação da Natureza goza do direito de preferência nas transmissões, por título oneroso, de terrenos ou edifícios situados na área do Parque.
 
 2 - Este direito de preferência tem o conteúdo e efeitos do artigo 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e regula-se pelo [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro, devendo os transmitentes fazer a comunicação referida no seu artigo 3.º à comissão instaladora ou à direcção do Parque, logo que nomeada.
 
@@ -300,14 +326,14 @@ c) De 5000$00 a 20000$00 as das alíneas j), o), p) e q).
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles.
 
-**Promulgado em 12 de Maio de 1983.**
+Promulgado em 12 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Maio de 1983.**
+Referendado em 13 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13100/20652069.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13100/20652069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13100/20652069.pdf)

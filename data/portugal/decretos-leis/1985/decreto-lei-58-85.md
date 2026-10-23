@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/05800/06080610.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1985-326325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61a732af70fc1822d7647766459a4bf02f8a261e8d0ff78791067454322d87dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 236ca56394b95a3d393109a9c0121e0b3a7215ae841c3a5e90ca2c46926b1522
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Vinagre
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:395371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:422594:por
+  label: Rectificado pela DECL.DD4922.20.04.1985.PCM, DR.IS [99-2SUPL] de 30.04.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-422594
+  date: '1985-04-20'
+- type: repealed_by
+  target: pt:dre:374375:por
+  label: "Revogado o n.º 1 do artigo 10.º pelo DEC LEI.193/88.30.05.1988.MIE, DR.IS [125] de 30.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1988-374375
+  date: '1988-05-30'
+- type: repealed_by
+  target: pt:dre:520833:por
+  label: "Revogado, com excepção das suas disposições relativas à rotulagem, que se mantém em vigor até ao final do periodo\
+    \ transitório estabelecido no art. 20º, pelo DEC LEI.174/2007.08.05.2007.MADRP, DR.IS [88] de 08.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2007-520833
+  date: '2007-05-08'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:51Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +140,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Âmbito de aplicação
 
 O fabrico e a comercialização dos vinagres passam a obedecer ao disposto no presente decreto-lei e nos diplomas publicados em virtude do que nele se dispõe.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Definições
 
@@ -126,19 +158,19 @@ a) Vinagre de vinho ou simplesmente vinagre - o produto obtido por fermentação
 
 b) Vinagre de fruta - o produto obtido por fermentação acética de líquidos provenientes da fermentação alcoólica de frutos comestíveis, estremes ou em mistura, que não sejam a uva. Quando forem de uma só espécie, o nome desta pode substituir a palavra «fruta».
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Matérias-primas
 
 No fabrico de vinagres só podem ser utilizados como matérias-primas o vinho ou outros líquidos resultantes de fermentação alcoólica de frutos, isentos de germes patogénicos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Ingredientes facultativos
 
 Na preparação dos vinagres é permitida a adição de plantas ou partes de plantas aromatizantes, especiarias e extractos aromatizantes.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Aditivos
 
@@ -160,7 +192,7 @@ g) Dióxido de enxofre (anidrido sulfuroso);
 
 h) Fosfatos e carbonatos de amónio, bem como extractos de malte ou de levedura, para facilitar a multiplicação das bactérias acéticas.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Operações tecnológicas
 
@@ -186,13 +218,13 @@ i) Coloração com caramelo;
 
 j) Esterilização e pasteurização.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Características e métodos de análise
 
 Por portaria do Secretário de Estado do Comércio e Indústrias Agrícolas, sob proposta do Instituto de Qualidade Alimentar, serão fixadas as características organolépticas e químicas dos vinagres e respectivos métodos de análise.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Vinagres avariados
 
@@ -204,13 +236,13 @@ b) Presença de anguílulas, ácaros do vinagre e insectos, vivos ou mortos;
 
 c) Turvações e depósitos, para além do permitido no diploma regulador das características do vinagre.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Controle de laboração
 
 O controle da laboração e das quantidades produzidas de cada tipo de vinagre será assegurado através de contas correntes das matérias-primas utilizadas.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Acondicionamento
 
@@ -222,7 +254,7 @@ Acondicionamento
 
 0,25 l; 0,50 l; 0,75 l; 1 l; 2 l e 5 l.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Rotulagem
 
@@ -230,13 +262,13 @@ Rotulagem
 
 2 - Nas embalagens de vinagre, além das indicações exigidas pela legislação em vigor sobre rotulagem, deve ser mencionado o teor de ácido acético, expresso em graus, admitindo-se uma tolerância de (mais ou menos)0,5º, entendendo-se por grau de acidez a acidez de titulação expressa em gramas de ácido acético por 100 ml de vinagre.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Legislação revogada
 
 Fica revogado por este diploma o [Decreto-Lei n.º 248/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1982-395371), de 24 de Junho.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Entrada em vigor
 
@@ -244,12 +276,12 @@ O presente diploma entrará em vigor decorridos 60 dias após a data da sua publ
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral - Francisco José de Sousa Tavares.
 
-**Promulgado em 14 de Fevereiro de 1985.**
+Promulgado em 14 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Fevereiro de 1985.**
+Referendado em 18 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

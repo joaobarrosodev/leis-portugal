@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1983-441525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3050467f820cc38cd350d8711c81e7ed4a5d2bf90814d595f597b7c948548df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b35a910f7a28229633ad1706ed94c1e06034a3f96f9fb2276a0d0cc2a07bf4ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco Africano de Desenvolvimento
+- Ministro das Finanças e Plano
+- Portugal
+- Representante do Governo
+relationships:
+- type: cites
+  target: pt:dre:442167:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:54Z'
   warnings: []
   errors: []
 ---
@@ -91,23 +99,23 @@ Considerando que se torna indispensável dispor de um instrumento legal que regu
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É o Governo autorizado a participar no Banco Africano de Desenvolvimento, mediante a subscrição de 1008 acções do respectivo capital, do valor nominal de 10000 unidades de conta do Banco Africano de Desenvolvimento, das quais 252 serão acções realizadas e 756 serão acções exigíveis.
+Artigo 1.º É o Governo autorizado a participar no Banco Africano de Desenvolvimento, mediante a subscrição de 1008 acções do respectivo capital, do valor nominal de 10000 unidades de conta do Banco Africano de Desenvolvimento, das quais 252 serão acções realizadas e 756 serão acções exigíveis.
 
-###### Art. 2.º Caberá ao Ministro das Finanças e do Plano representar o Governo perante o Banco Africano de Desenvolvimento, nomeadamente no que se refere ao depósito dos instrumentos de adesão ao Banco.
+Art. 2.º Caberá ao Ministro das Finanças e do Plano representar o Governo perante o Banco Africano de Desenvolvimento, nomeadamente no que se refere ao depósito dos instrumentos de adesão ao Banco.
 
-###### Art. 3.º O Ministério das Finanças e do Plano será, de harmonia com o n.º 1 do artigo 40.º do Acordo de Constituição do Banco Africano de Desenvolvimento, a entidade oficial designada para assegurar a ligação com o Banco.
+Art. 3.º O Ministério das Finanças e do Plano será, de harmonia com o n.º 1 do artigo 40.º do Acordo de Constituição do Banco Africano de Desenvolvimento, a entidade oficial designada para assegurar a ligação com o Banco.
 
-###### Art. 4.º O Banco de Portugal será, de harmonia com o n.º 2 do artigo 40.º do Acordo de Constituição do Banco Africano de Desenvolvimento, o depositário dos haveres em escudos desta instituição internacional.
+Art. 4.º O Banco de Portugal será, de harmonia com o n.º 2 do artigo 40.º do Acordo de Constituição do Banco Africano de Desenvolvimento, o depositário dos haveres em escudos desta instituição internacional.
 
-###### Art. 5.º O governador e o governador substituto por parte de Portugal no Banco Africano de Desenvolvimento serão nomeados pelo Ministro das Finanças e do Plano.
+Art. 5.º O governador e o governador substituto por parte de Portugal no Banco Africano de Desenvolvimento serão nomeados pelo Ministro das Finanças e do Plano.
 
-###### Art. 6.º Em conformidade com o disposto no capítulo VII do Acordo de Constituição do Banco Africano de Desenvolvimento, terá aquela instituição, em todo o território da República Portuguesa, personalidade e capacidade jurídicas e beneficiará das imunidades, isenções e privilégios estabelecidos naquele capítulo.
+Art. 6.º Em conformidade com o disposto no capítulo VII do Acordo de Constituição do Banco Africano de Desenvolvimento, terá aquela instituição, em todo o território da República Portuguesa, personalidade e capacidade jurídicas e beneficiará das imunidades, isenções e privilégios estabelecidos naquele capítulo.
 
-###### Art. 7.º Os governadores e os administradores, bem como os respectivos substitutos, os funcionários e demais empregados do Banco Africano de Desenvolvimento que não sejam de nacionalidade portuguesa gozarão em todo o território da República Portuguesa das imunidades e privilégios referidos nos artigos 56.º e 57.º do Acordo de Constituição do Banco Africano de Desenvolvimento.
+Art. 7.º Os governadores e os administradores, bem como os respectivos substitutos, os funcionários e demais empregados do Banco Africano de Desenvolvimento que não sejam de nacionalidade portuguesa gozarão em todo o território da República Portuguesa das imunidades e privilégios referidos nos artigos 56.º e 57.º do Acordo de Constituição do Banco Africano de Desenvolvimento.
 
-###### Art. 8.º O pagamento da subscrição das acções realizadas será efectuado em 5 prestações anuais de igual montante, vencendo-se a primeira 30 dias após a data do depósito dos instrumentos de adesão ao Banco Africano de Desenvolvimento por parte de Portugal.
+Art. 8.º O pagamento da subscrição das acções realizadas será efectuado em 5 prestações anuais de igual montante, vencendo-se a primeira 30 dias após a data do depósito dos instrumentos de adesão ao Banco Africano de Desenvolvimento por parte de Portugal.
 
-###### Art. 9.º Em representação do Governo fica o Ministro das Finanças e do Plano autorizado:
+Art. 9.º Em representação do Governo fica o Ministro das Finanças e do Plano autorizado:
 
 a) A inscrever no Orçamento do Estado as verbas que forem necessárias para ocorrer aos encargos inerentes à sua participação no Banco Africano de Desenvolvimento;
 
@@ -115,18 +123,18 @@ b) A emitir os títulos de obrigação, representados por promissórias, se tal 
 
 c) A praticar todos os demais actos necessários para concretização da adesão do Estado Português ao Acordo de Constituição do Banco Africano de Desenvolvimento.
 
-###### Art. 10.º A emissão de promissórias referida na alínea b) do artigo anterior ficará, se revelar necessário, a cargo da junta do Crédito Público e as condições daquela emissão serão fixadas por decreto-lei.
+Art. 10.º A emissão de promissórias referida na alínea b) do artigo anterior ficará, se revelar necessário, a cargo da junta do Crédito Público e as condições daquela emissão serão fixadas por decreto-lei.
 
-###### Art. 11.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação e é aplicável em todo o território da República Portuguesa.
+Art. 11.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação e é aplicável em todo o território da República Portuguesa.
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 3 de Outubro de 1983.**
+Promulgado em 3 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Outubro de 1983.**
+Referendado em 7 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

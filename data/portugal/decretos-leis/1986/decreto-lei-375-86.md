@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/25600/33243341.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,180 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1986-221084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0db828a7e6eafbbb55ea36d45ed8428c2378703bff42296c67452b53674bd0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc60ae2bfbef22a4768d65bbb21e4a9a6e664ecf464746c5e40391ab3e547524
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612254:por
+  label: "Alterado pelo DR.5/89.1989.01.27.MAPA, DR.IS [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1989-612254
+  date: '1989-01-27'
+- type: amended_by
+  target: pt:dre:495331:por
+  label: "Alterado o quadro de pessoal, com as alterações introduzidas no artigo 1.º do Decreto Regulamentar n.º 5/89, de\
+    \ 27 de Fevereiro, pelo DN.10/91.21.12.1990.SEO-MF, DR.IS-B [14] de 17.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-1991-495331
+  date: '1990-12-21'
+- type: amended_by
+  target: pt:dre:495318:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, com as alterações introduzidas no artigo\
+    \ 1.º do Decreto Regulamentar n.º 5/89, de 27 de Fevereiro, pelo DN.11/91.31.12.1990.MF, DR.IS-B [14] de 17.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-1991-495318
+  date: '1990-12-31'
+- type: amended_by
+  target: pt:dre:495324:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, com as alterações introduzidas no artigo\
+    \ 1.º do Decreto Regulamentar n.º 5/89, de 27 de Fevereiro, pelo DN.9/91.31.12.1990.SEO-MF, DR.IS-B [14] de 17.01.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-1991-495324
+  date: '1990-12-31'
+- type: amended_by
+  target: pt:dre:629465:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, com as alterações introduzidas no artigo\
+    \ 1.º do Decreto Regulamentar 5/89, de 27 de Fevereiro, pela PORT.480/91.04.06.1991.MF, DR.IS-B [127] de 04.06.1991 \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/480-1991-629465
+  date: '1991-06-04'
+- type: amended_by
+  target: pt:dre:144455:por
+  label: "Alterado o quadro de pessoal, aprovado no presente diploma, com as alterações introduzidas pelo Decreto Regulamentar\
+    \ n.º 5/89, de 27 de Fevereiro, pela PORT.20/92.16.01.1992.MF, DR.IS-B [13] de 16.01.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-1992-144455
+  date: '1992-01-16'
+- type: amended_by
+  target: pt:dre:165059:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, na parte respeitante às carreiras de pessoal da área funcional\
+    \ de biblioteca e documentação pela PORT.120/92.26.02.1992.MF, DR.IS-B [48] de 26.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-1992-165059
+  date: '1992-02-26'
+- type: amended_by
+  target: pt:dre:637910:por
+  label: "Alterado o quadro de pessoal, pela PORT.330/93.20.03.1993.MF, DR.IS-B [67] de 20.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/330-1993-637910
+  date: '1993-03-20'
+- type: amended_by
+  target: pt:dre:281437:por
+  label: "Alterado o quadro de pessoal, com as alterações introduzidas no artigo 1.º do Decreto Regulamentar n.º 5/89, de\
+    \ 27 de Fevereiro, pelo DN.79/93.27.04.1993.MF, DR.IS-B [118] de 21.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/79-1993-281437
+  date: '1993-04-27'
+- type: amended_by
+  target: pt:dre:376421:por
+  label: "Alterado o quadro de pessoal, com as alterações introduzidas no artigo 1.º do Decreto Regulamentar n.º 5/89, de\
+    \ 27 de Fevereiro, e na Portaria n.º 20/92, de 16 de Janeiro, pelo DN.136/93.28.05.1993.MF, DR.IS-B [156] de 06.07.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/136-1993-376421
+  date: '1993-05-28'
+- type: amended_by
+  target: pt:dre:654753:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, com as alterações introduzidas no artigo\
+    \ 1.º do Decreto Regulamentar n.º 5/89, de 27 de Fevereiro, pelo DN.272/93.24.08.1993.MF, DR.IS-B [220] de 18.09.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/272-1993-654753
+  date: '1993-08-24'
+- type: cites
+  target: pt:dre:163451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578321:por
+  label: Rectificado pela DECL.DD4461.26.11.1986.PCM, DR.IS [276]Supl de 29.11.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-578321
+  date: '1986-11-26'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:30Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +241,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral de Hidráulica e Engenharia Agrícola, abreviadamente designada por DGHEA, a que se refere a alínea c) do n.º 4 do artigo 3.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro, é um organismo dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio, com funções de concepção, coordenação e apoio, que tem como objectivos promover os estudos e as operações necessários à estruturação fundiária e ao redimensionamento de explorações, coordenar a gestão ou administrar o património rústico estatal não adstrito a outros organismos, assegurar o levantamento a nível nacional das necessidades em aproveitamentos hidroagrícolas e infra-estruturas conexas e a elaboração dos respectivos projectos, prestar apoio e orientação no domínio da mecanização agrícola, lançar infra-estruturas e projectos de electrificação rurais e executar trabalhos de topografia e de cartografia agrícola necessários às suas actividades, objectivos estes subordinados ao fim último do desenvolvimento regional.
+Artigo 1.º A Direcção-Geral de Hidráulica e Engenharia Agrícola, abreviadamente designada por DGHEA, a que se refere a alínea c) do n.º 4 do artigo 3.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro, é um organismo dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio, com funções de concepção, coordenação e apoio, que tem como objectivos promover os estudos e as operações necessários à estruturação fundiária e ao redimensionamento de explorações, coordenar a gestão ou administrar o património rústico estatal não adstrito a outros organismos, assegurar o levantamento a nível nacional das necessidades em aproveitamentos hidroagrícolas e infra-estruturas conexas e a elaboração dos respectivos projectos, prestar apoio e orientação no domínio da mecanização agrícola, lançar infra-estruturas e projectos de electrificação rurais e executar trabalhos de topografia e de cartografia agrícola necessários às suas actividades, objectivos estes subordinados ao fim último do desenvolvimento regional.
 
-###### Art. 2.º São atribuições da DGHEA, além das estabelecidas em lei especial, designadamente na [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1962, na [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, no [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, e no [Decreto-Lei n.º 233/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1985-183021), de 4 de Julho:
+Art. 2.º São atribuições da DGHEA, além das estabelecidas em lei especial, designadamente na [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1962, na [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, no [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, e no [Decreto-Lei n.º 233/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1985-183021), de 4 de Julho:
 
 a) Estabelecer o plano nacional de aproveitamentos hidroagrícolas, em colaboração com os órgãos competentes da gestão dos recursos hídricos nacionais, promover a elaboração dos respectivos projectos e a sua integração no planeamento geral dos recursos e aproveitamentos hidráulicos e apoiar as acções conducentes ao aumento da área regada nacional;
 
@@ -125,17 +265,17 @@ h) Apoiar e promover o estudo e a definição dos modelos mais adequados ao equi
 
 #### SECÇÃO I — Órgãos
 
-###### Art. 3.º São órgãos da DGHEA:
+Art. 3.º São órgãos da DGHEA:
 
 a) O director-geral;
 
 b) O conselho administrativo.
 
-###### Art. 4.º - 1 - O director-geral é o órgão que dirige, coordena e superintende na actividade global da DGHEA e assegura a sua representação junto de outros organismos e entidades nacionais ou estrangeiras.
+Art. 4.º - 1 - O director-geral é o órgão que dirige, coordena e superintende na actividade global da DGHEA e assegura a sua representação junto de outros organismos e entidades nacionais ou estrangeiras.
 
 2 - O director-geral é coadjuvado, no exercício das suas funções, por dois subdirectores-gerais, um dos quais, a designar por despacho ministerial, o substituirá nas suas faltas, ausências e impedimentos.
 
-###### Art. 5.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e é constituído pelos seguintes membros:
+Art. 5.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e é constituído pelos seguintes membros:
 
 a) O director-geral, que presidirá;
 
@@ -147,7 +287,7 @@ d) Um director de serviços, a designar anualmente por despacho ministerial, sob
 
 2 - Servirá de secretário o chefe da Repartição de Administração Financeira.
 
-###### Art. 6.º - 1 - Ao conselho administrativo compete:
+Art. 6.º - 1 - Ao conselho administrativo compete:
 
 a) Promover a organização dos orçamentos ordinários e suplementares da DGHEA;
 
@@ -197,7 +337,7 @@ d) Convocar e dirigir as reuniões do conselho.
 
 #### SECÇÃO II — Serviços
 
-###### Art. 7.º A DGHEA dispõe dos seguintes serviços:
+Art. 7.º A DGHEA dispõe dos seguintes serviços:
 
 A) Serviços de apoio técnico e administrativo:
 
@@ -223,9 +363,9 @@ e) Direcção de Serviços de Construção e Infra-Estruturas Rurais.
 
 ##### SUBSECÇÃO I — Serviços de apoio técnico e administrativo
 
-###### Art. 8.º O Gabinete de Planeamento tem como objectivos a programação e controle da execução das actividades da DGHEA, a análise de projectos, assegurar o serviço de documentação e estatística, bem como as actividades de formação técnico-profissional especializada, e colaborar com outros organismos nos contactos com as instituições internacionais ligadas à cooperação técnica e ao financiamento de projectos do âmbito da DGHEA.
+Art. 8.º O Gabinete de Planeamento tem como objectivos a programação e controle da execução das actividades da DGHEA, a análise de projectos, assegurar o serviço de documentação e estatística, bem como as actividades de formação técnico-profissional especializada, e colaborar com outros organismos nos contactos com as instituições internacionais ligadas à cooperação técnica e ao financiamento de projectos do âmbito da DGHEA.
 
-###### Art. 9.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes divisões:
+Art. 9.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes divisões:
 
 a) Divisão de Programação e Controle;
 
@@ -233,7 +373,7 @@ b) Divisão de Análise de Projectos;
 
 c) Divisão de Documentação e Estatística.
 
-###### Art. 10.º À Divisão de Programação e Controle compete:
+Art. 10.º À Divisão de Programação e Controle compete:
 
 a) Promover e coordenar a preparação dos planos anuais e plurianuais de actividades da DGHEA com base nas linhas de orientação superiormente definidas e numa óptica de gestão por objectivos, bem como assegurar a elaboração do respectivo relatório anual de execução;
 
@@ -247,7 +387,7 @@ e) Coordenar e assegurar, de acordo com as necessidades dos serviços, a formaç
 
 f) Apoiar a Divisão de Documentação e Estatística na concretização das relações internacionais existentes no âmbito da acção da DGHEA.
 
-###### Art. 11.º À Divisão de Análise de Projectos compete:
+Art. 11.º À Divisão de Análise de Projectos compete:
 
 a) Realizar estudos de viabilidade e correspondentes trabalhos de base relativos às fases de estudo prévio, anteprojecto e projecto de aproveitamentos hidroagrícolas, em colaboração com a Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos e outros organismos;
 
@@ -259,7 +399,7 @@ d) Proceder aos estudos agro-económicos relativos aos aproveitamentos hidroagr�
 
 e) Realizar os estudos de análise económica durante e após a execução dos projectos de aproveitamentos hidroagrícolas, de emparcelamento e de engenharia rural, colaborando com outros organismos quando aqueles aproveitamentos e obras sejam de fins múltiplos.
 
-###### Art. 12.º À Divisão de Documentação e Estatística compete:
+Art. 12.º À Divisão de Documentação e Estatística compete:
 
 a) Assegurar o funcionamento de uma biblioteca científica e técnica de interesse para os diversos domínios de actividade da DGHEA;
 
@@ -275,7 +415,7 @@ f) Assegurar o funcionamento de um banco de dados hidrometeorológicos, cartogr�
 
 g) Efectuar o tratamento de dados estatísticos armazenados no banco de dados, no sentido de obter e divulgar os resultados que interessam às actividades do domínio da DGHEA.
 
-###### Art. 13.º A Direcção de Serviços de Administração tem como objectivos a coordenação administrativa e o apoio técnico-administrativo aos serviços e equipas de projecto e como principais atribuições:
+Art. 13.º A Direcção de Serviços de Administração tem como objectivos a coordenação administrativa e o apoio técnico-administrativo aos serviços e equipas de projecto e como principais atribuições:
 
 a) Garantir a aplicação das disposições legais e assegurar a execução das actividades que respeitam aos domínios da administração dos recursos humanos, financeiros e patrimoniais, de acordo com os critérios de eficácia e eficiência;
 
@@ -283,7 +423,7 @@ b) Promover, em colaboração com a Divisão de Organização e Informática, o 
 
 c) Zelar pela segurança e manutenção das instalações e dos equipamentos e pela eficácia das comunicações.
 
-###### Art. 14.º A Direcção de Serviços de Administração compreende as seguintes repartições:
+Art. 14.º A Direcção de Serviços de Administração compreende as seguintes repartições:
 
 a) Repartição de Administração de Pessoal;
 
@@ -291,7 +431,7 @@ b) Repartição de Administração Financeira;
 
 c) Repartição de Administração Patrimonial e Geral.
 
-###### Art. 15.º - 1 - A Repartição de Administração de Pessoal exerce as suas competências no âmbito das actividades relacionadas com a administração dos recursos humanos da DGHEA e compreende as seguintes secções:
+Art. 15.º - 1 - A Repartição de Administração de Pessoal exerce as suas competências no âmbito das actividades relacionadas com a administração dos recursos humanos da DGHEA e compreende as seguintes secções:
 
 a) Secção de Pessoal;
 
@@ -317,7 +457,7 @@ b) Instruir os processos referentes a prestações sociais de que sejam benefici
 
 c) Assegurar a análise e processamento dos elementos relacionados com os vencimentos e outros abonos do pessoal, bem como dos descontos que sobre eles incidam, e elaborar os elementos que lhes sirvam de suporte.
 
-###### Art. 16.º - 1 - A Repartição de Administração Financeira exerce as suas competências no âmbito da organização dos orçamentos e da conta anual de gerência, do processamento da despesa, do controle orçamental, da arrecadação de receitas e do pagamento das despesas autorizadas e compreende as seguintes secções:
+Art. 16.º - 1 - A Repartição de Administração Financeira exerce as suas competências no âmbito da organização dos orçamentos e da conta anual de gerência, do processamento da despesa, do controle orçamental, da arrecadação de receitas e do pagamento das despesas autorizadas e compreende as seguintes secções:
 
 a) Secção de Orçamento e Controle;
 
@@ -353,7 +493,7 @@ f) Controlar o movimento de tesouraria, efectuando mensalmente o seu balanço;
 
 g) Assegurar o tratamento automático da informação de carácter financeiro.
 
-###### Art. 17.º Adstrita à Repartição de Administração Financeira, funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 17.º Adstrita à Repartição de Administração Financeira, funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes à DGHEA;
 
@@ -361,7 +501,7 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Art. 18.º - 1 - A Repartição de Administração Patrimonial e Geral exerce as suas competências no âmbito das actividades relacionadas com a administração do património e instalações, aquisição de bens necessários ao funcionamento da DGHEA, arquivo e expediente geral e compreende as seguintes secções:
+Art. 18.º - 1 - A Repartição de Administração Patrimonial e Geral exerce as suas competências no âmbito das actividades relacionadas com a administração do património e instalações, aquisição de bens necessários ao funcionamento da DGHEA, arquivo e expediente geral e compreende as seguintes secções:
 
 a) Secção de Património e Aprovisionamento;
 
@@ -393,7 +533,7 @@ d) Prestar apoio técnico-administrativo aos actos de concursos públicos ou lim
 
 e) Zelar pela segurança dos edifícios e outras instalações e pela eficiência das redes de comunicação interna e externa dos serviços.
 
-###### Art. 19.º À Divisão de Apoio Jurídico, dependente directamente do director-geral, compete:
+Art. 19.º À Divisão de Apoio Jurídico, dependente directamente do director-geral, compete:
 
 a) Dar parecer sobre questões de carácter jurídico respeitantes à actividade da DGHEA;
 
@@ -403,7 +543,7 @@ c) Colaborar na preparação e redacção de projectos de diplomas e de normas d
 
 d) Instruir processos disciplinares, de inquérito e outros que lhe sejam determinados.
 
-###### Art. 20.º À Divisão de Organização e Informática, dependente directamente do director-geral, compete:
+Art. 20.º À Divisão de Organização e Informática, dependente directamente do director-geral, compete:
 
 a) Proceder a estudos com vista à melhoria do funcionamento dos serviços, nomeadamente no que respeita à racionalização e simplificação dos circuitos administrativos, organização e descongestionamento dos arquivos e formação do pessoal;
 
@@ -415,9 +555,9 @@ d) Assegurar as ligações entre a DGHEA e os serviços centrais no domínio da 
 
 ##### SUBSECÇÃO II — Serviços operativos
 
-###### Art. 21.º A Direcção de Serviços de Estruturação Fundiária e Topografia tem como objectivos o estudo, coordenação e orientação da execução de medidas de ordenamento rural e dos meios destinados a adoptar a estruturação agrária e da empresa agrícola à melhor utilização dos factores de produção e ainda a orientação e execução de todos os trabalhos topográficos e cartográficos necessários às actividades da DGHEA.
+Art. 21.º A Direcção de Serviços de Estruturação Fundiária e Topografia tem como objectivos o estudo, coordenação e orientação da execução de medidas de ordenamento rural e dos meios destinados a adoptar a estruturação agrária e da empresa agrícola à melhor utilização dos factores de produção e ainda a orientação e execução de todos os trabalhos topográficos e cartográficos necessários às actividades da DGHEA.
 
-###### Art. 22.º A Direcção de Serviços de Estruturação Fundiária e Topografia compreende as seguintes divisões:
+Art. 22.º A Direcção de Serviços de Estruturação Fundiária e Topografia compreende as seguintes divisões:
 
 a) Divisão de Estruturação Fundiária;
 
@@ -427,7 +567,7 @@ c) Divisão de Topografia e Cadastro;
 
 d) Divisão de Cartografia.
 
-###### Art. 23.º À Divisão de Estruturação Fundiária compete:
+Art. 23.º À Divisão de Estruturação Fundiária compete:
 
 a) Estudar as medidas e os meios tendentes a adaptar a superfície agrícola disponível à melhor rendibilidade dos factores de produção;
 
@@ -445,7 +585,7 @@ g) Estudar e promover a execução de medidas de estruturação das exploraçõe
 
 h) Organizar e conservar o ficheiro automatizado de dados relativos aos prédios rústicos abrangidos pelas acções de estruturação fundiária.
 
-###### Art. 24.º À Divisão de Ordenamento Rural compete:
+Art. 24.º À Divisão de Ordenamento Rural compete:
 
 a) Promover e coordenar os estudos de ordenamento rural, de acordo com a mais adequada utilização do solo e o melhor aproveitamento dos espaços agrícola, florestal e estuarial, tendo em vista a valorização do meio rural;
 
@@ -463,7 +603,7 @@ g) Orientar e coordenar, em colaboração com as direcções regionais de agricu
 
 h) Contribuir para a valorização do espaço rural e promover a integração paisagística das obras de engenharia e de hidráulica agrícola.
 
-###### Art. 25.º À Divisão de Topografia e Cadastro compete:
+Art. 25.º À Divisão de Topografia e Cadastro compete:
 
 a) Promover a execução de levantamentos topográficos e a recolha de elementos cadastrais necessários aos estudos e projectos a cargo da DGHEA ou que sejam solicitados por outros organismos do Ministério;
 
@@ -475,7 +615,7 @@ d) Promover as coberturas aerofotográficas necessárias aos estudos e trabalhos
 
 e) Executar a restituição fotogramétrica necessária aos levantamentos a cargo da DGHEA.
 
-###### Art. 26.º À Divisão de Cartografia compete:
+Art. 26.º À Divisão de Cartografia compete:
 
 a) Efectuar os trabalhos de preparação e desenho fotográfico e assegurar a publicação das cartas que sejam de interesse para os trabalhos da competência da DGHEA;
 
@@ -487,9 +627,9 @@ d) Executar o desenho dos levantamentos clássicos, aerofotogramétricos e de fo
 
 e) Assegurar o arquivo de filmes, fotografias, desenhos e outros elementos que tenham servido à impressão e publicação de cartas.
 
-###### Art. 27.º A Direcção de Serviços de Estudos e Gestão de Projectos tem como objectivos a realização de estudos prévios à implantação de projectos de aproveitamentos hidroagrícolas e a coordenação da respectiva gestão.
+Art. 27.º A Direcção de Serviços de Estudos e Gestão de Projectos tem como objectivos a realização de estudos prévios à implantação de projectos de aproveitamentos hidroagrícolas e a coordenação da respectiva gestão.
 
-###### Art. 28.º A Direcção de Serviços de Estudos e Gestão de Projectos compreende as seguintes divisões:
+Art. 28.º A Direcção de Serviços de Estudos e Gestão de Projectos compreende as seguintes divisões:
 
 a) Divisão de Estudos de Produção, Indemnizações e Expropriações;
 
@@ -497,7 +637,7 @@ b) Divisão de Gestão de Projectos;
 
 c) Divisão de Apoio aos Aproveitamentos Hidroagrícolas.
 
-###### Art. 29.º À Divisão de Estudos de Produção, indemnizações e Expropriações compete:
+Art. 29.º À Divisão de Estudos de Produção, indemnizações e Expropriações compete:
 
 a) Promover e coordenar todas as acções necessárias à implantação de campos experimentais nos terrenos que venham a ser postos à disposição da DGHEA para essa finalidade, em colaboração com as direcções regionais de agricultura;
 
@@ -507,7 +647,7 @@ c) Colaborar com os serviços de extensão rural centrais e das direcções regi
 
 d) Proceder, em colaboração com as equipas de projecto, ao cálculo e execução das indemnizações e expropriações necessárias à implantação das obras a cargo da DGHEA.
 
-###### Art. 30.º À Divisão de Gestão de Projectos compete:
+Art. 30.º À Divisão de Gestão de Projectos compete:
 
 a) Promover a constituição e implementação das equipas de projecto e a sua articulação com outros serviços do Ministério ou a ele estranhos interessados na realização dos projectos;
 
@@ -521,7 +661,7 @@ e) Propor a elaboração e a adjudicação dos estudos necessários à prossecu�
 
 f) Assegurar as ligações com cooperantes estrangeiros no âmbito dos projectos e dos aproveitamentos hidroagrícolas.
 
-###### Art. 31.º À Divisão de Apoio aos Aproveitamentos Hidroagrícolas compete:
+Art. 31.º À Divisão de Apoio aos Aproveitamentos Hidroagrícolas compete:
 
 a) Impulsionar o aproveitamento das obras de fomento hidroagrícola, bem como apoiar, coordenar, orientar, fiscalizar e inspeccionar os serviços de gestão dos aproveitamentos hidroagrícolas e das associações de beneficiários, especialmente no domínio financeiro;
 
@@ -553,9 +693,9 @@ o) Emitir parecer sobre os orçamentos das associações de beneficiários e sub
 
 p) Emitir parecer, em colaboração com a Direcção de Serviços de Hidráulica Agrícola, sobre as propostas de novas utilizações de águas públicas nas bacias hidroagrícolas das obras de fomento hidroagrícola de iniciativa do Estado.
 
-###### Art. 32.º A Direcção de Serviços de Hidráulica Agrícola tem como objectivos a apreciação e a realização dos estudos e projectos de rega, de drenagem, de defesa e de beneficiação e conservação do solo e da água e assegurar a exploração da rede hidrometeorológica a cargo do Ministério da Agricultura, Pescas e Alimentação.
+Art. 32.º A Direcção de Serviços de Hidráulica Agrícola tem como objectivos a apreciação e a realização dos estudos e projectos de rega, de drenagem, de defesa e de beneficiação e conservação do solo e da água e assegurar a exploração da rede hidrometeorológica a cargo do Ministério da Agricultura, Pescas e Alimentação.
 
-###### Art. 33.º A Direcção de Serviços de Hidráulica Agrícola compreende as seguintes divisões:
+Art. 33.º A Direcção de Serviços de Hidráulica Agrícola compreende as seguintes divisões:
 
 a) Divisão de Rega e Drenagem;
 
@@ -565,7 +705,7 @@ c) Divisão de Meteorologia e Hidrologia Agrícola;
 
 d) Divisão de Geotecnia e Geoidrologia.
 
-###### Art. 34.º À Divisão de Rega e Drenagem compete:
+Art. 34.º À Divisão de Rega e Drenagem compete:
 
 a) Definir as condições técnicas e económicas a que devem satisfazer as estruturas e outras benfeitorias hidroagrícolas em obediência às características locais e às necessidades das explorações agrícolas a beneficiar;
 
@@ -587,7 +727,7 @@ i) Apoiar as direcções regionais de agricultura nos projectos de rega, de adap
 
 j) Dar parecer sobre os pedidos de licenciamento e de financiamento das obras hidroagrícolas, nos termos do artigo 6.º do [Decreto-Lei n.º 108/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1974-412426), de 15 de Março.
 
-###### Art. 35.º À Divisão de Solos e Conservação da Água compete:
+Art. 35.º À Divisão de Solos e Conservação da Água compete:
 
 a) Efectuar os estudos e levantamentos dos solos de áreas envolvidas em projectos hidroagrícolas e de estruturação agrária, com vista à obtenção dos dados necessários a fornecer aos diferentes serviços que intervêm na sua execução;
 
@@ -605,7 +745,7 @@ g) Propor as medidas legislativas necessárias à defesa dos recursos naturais n
 
 h) Emitir parecer sobre os pedidos de licenciamento e de financiamento de obras de conservação do solo e da água.
 
-###### Art. 36.º À Divisão de Meteorologia e Hidrologia Agrícola compete:
+Art. 36.º À Divisão de Meteorologia e Hidrologia Agrícola compete:
 
 a) Colaborar com o Instituto Nacional de Meteorologia e Geofísica e a Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos na planificação da rede hidrometeorológica e agro-climatológica do Ministério da Agricultura, Pescas e Alimentação, complementar das redes daqueles organismos;
 
@@ -625,7 +765,7 @@ h) Promover, nomeadamente em colaboração com as direcções regionais de agric
 
 i) Promover a divulgação de métodos, técnicas e resultados hidrológicos.
 
-###### Art. 37.º À Divisão de Geotecnia e Geoidrologia compete:
+Art. 37.º À Divisão de Geotecnia e Geoidrologia compete:
 
 a) Proceder aos estudos geotécnicos necessários à implantação e construção de estruturas e obras hidráulicas e de engenharia rural da competência da DGHEA;
 
@@ -637,9 +777,9 @@ d) Apoiar as direcções regionais de agricultura no domínio da prospecção, c
 
 e) Acompanhar e participar, no âmbito das suas competências, na fiscalização de obras a cargo da DGHEA e de outros serviços do Ministério no âmbito da sua competência, quando lhe seja determinado.
 
-###### Art. 38.º A Direcção-Geral de Serviços de Mecanização Agrária tem como objectivos o ensaio e a experimentação do equipamento mecânico agro-pecuário, a realização de estudos de economia do emprego de máquinas e a preparação e aplicação de legislação, normas e regulamentos no domínio da mecanização agrícola, bem como administrar o parque de máquinas e viaturas automóveis da DGHEA e apoiar a gestão de outros parques do Ministério da Agricultura, Pescas e Alimentação ou de utilização colectiva.
+Art. 38.º A Direcção-Geral de Serviços de Mecanização Agrária tem como objectivos o ensaio e a experimentação do equipamento mecânico agro-pecuário, a realização de estudos de economia do emprego de máquinas e a preparação e aplicação de legislação, normas e regulamentos no domínio da mecanização agrícola, bem como administrar o parque de máquinas e viaturas automóveis da DGHEA e apoiar a gestão de outros parques do Ministério da Agricultura, Pescas e Alimentação ou de utilização colectiva.
 
-###### Art. 39.º A Direcção de Serviços de Mecanização Agrária compreende as seguintes divisões:
+Art. 39.º A Direcção de Serviços de Mecanização Agrária compreende as seguintes divisões:
 
 a) Divisão de Ensaios e Experimentação;
 
@@ -647,7 +787,7 @@ b) Divisão de Mecanização e Normalização;
 
 c) Divisão de Máquinas e Viaturas.
 
-###### Art. 40.º À Divisão de Ensaios e Experimentação compete:
+Art. 40.º À Divisão de Ensaios e Experimentação compete:
 
 a) Determinar e verificar as características mecânicas e funcionais dos motores, tractores e máquinas agrícolas de fabricação nacional e estrangeira;
 
@@ -663,7 +803,7 @@ f) Colaborar com os serviços que representem em Portugal a Organização Intern
 
 g) Colaborar com os serviços centrais competentes e com as direcções regionais de agricultura em actividades de formação e de divulgação no domínio da mecanização agrícola.
 
-###### Art. 41.º À Divisão de Mecanização e Normalização compete:
+Art. 41.º À Divisão de Mecanização e Normalização compete:
 
 a) Calcular tempos padrão e limiares de rendibilidade dos equipamentos mecânicos em condições de emprego devidamente caracterizadas;
 
@@ -683,7 +823,7 @@ h) Recolher os mapas de vendas mensais enviados pelas empresas importadoras e fa
 
 i) Manter um ficheiro geral actualizado de fabricantes e de importadores de equipamentos agrícolas.
 
-###### Art. 42.º À Divisão de Máquinas e Viaturas compete:
+Art. 42.º À Divisão de Máquinas e Viaturas compete:
 
 a) Assegurar a gestão dos parques de máquinas e de viaturas automóveis da DGHEA e das respectivas oficinas;
 
@@ -697,9 +837,9 @@ e) Elaborar as tabelas de preços de aluguer das máquinas agrícolas e equipame
 
 f) Assegurar, com a Direcção de Serviços de Administração, a organização e actualização do inventário de máquinas, viaturas e equipamentos a seu cargo.
 
-###### Art. 43.º A Direcção de Serviços de Construção e Infra-Estruturas Rurais tem como objectivos a promoção e o apoio ao estudo e execução dos modelos mais adequados das instalações da empresa agrícola, do equipamento do meio rural, dos caminhos agrícolas e da electrificação rural, bem como a elaboração de projectos e construções da competência da DGHEA.
+Art. 43.º A Direcção de Serviços de Construção e Infra-Estruturas Rurais tem como objectivos a promoção e o apoio ao estudo e execução dos modelos mais adequados das instalações da empresa agrícola, do equipamento do meio rural, dos caminhos agrícolas e da electrificação rural, bem como a elaboração de projectos e construções da competência da DGHEA.
 
-###### Art. 44.º A Direcção de Serviços de Construção e Infra-Estruturas Rurais compreende as seguintes divisões:
+Art. 44.º A Direcção de Serviços de Construção e Infra-Estruturas Rurais compreende as seguintes divisões:
 
 a) Divisão de Instalações e Equipamentos Rurais;
 
@@ -709,7 +849,7 @@ c) Divisão de Electrificação Rural;
 
 d) Divisão de Construção.
 
-###### Art. 45.º À Divisão de Instalações e Equipamentos Rurais compete:
+Art. 45.º À Divisão de Instalações e Equipamentos Rurais compete:
 
 a) Elaborar projectos de instalações agrícolas e pecuárias para as diversas regiões e habitacionais para a empresa agrícola;
 
@@ -737,7 +877,7 @@ m) Colaborar com a Divisão de Construção na adjudicação e fiscalização de
 
 n) Dar parecer, a solicitação das entidades ou serviços competentes, sobre projectos de obras de instalações agro-pecuárias e de caminhos agrícolas a executar com auxílio financeiro do Estado.
 
-###### Art. 46.º À Divisão de Estruturas Hidráulicas compete:
+Art. 46.º À Divisão de Estruturas Hidráulicas compete:
 
 a) Apoiar os serviços da DGHEA no domínio da concepção e dimensionamento das estruturas hidráulicas a utilizar nas redes de rega, enxugo e drenagem;
 
@@ -751,7 +891,7 @@ e) Apoiar a execução de obras projectadas pela DGHEA ou, eventualmente, por ou
 
 f) Dar parecer sobre pedidos de licenciamento de estruturas hidráulicas para fins agrícolas, nos termos do artigo 6.º do [Decreto-Lei n.º 108/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1974-412426), de 15 de Março.
 
-###### Art. 47.º À Divisão de Electrificação Rural compete:
+Art. 47.º À Divisão de Electrificação Rural compete:
 
 a) Colaborar no fomento da electrificação de zonas rurais, nomeadamente no domínio da electrificação agrícola, e difundir estudos relativos ao uso de electricidade na agricultura;
 
@@ -783,7 +923,7 @@ o) Dar parecer sobre projectos e obras de electrificação rural a realizar com 
 
 p) Promover e divulgar, em colaboração com outros organismos oficiais, os estudos sobre a utilização na agricultura de outras formas de energia, nomeadamente das energias renováveis.
 
-###### Art. 48.º À Divisão de Construção compete:
+Art. 48.º À Divisão de Construção compete:
 
 a) Promover e realizar concursos de adjudicação de todas as obras da competência da DGHEA;
 
@@ -803,13 +943,13 @@ h) Realizar os actos necessários à recepção e quitação das obras a cargo d
 
 #### SECÇÃO III — Equipas de projecto
 
-###### Art. 49.º - 1 - Sempre que a natureza dos objectivos o aconselhe, poderão ser constituídas, com carácter temporário, equipas de projecto, integradas por técnicos de diversas especialidades e oriundos de diferentes serviços do Ministério da Agricultura, Pescas e Alimentação ou de diversas unidades orgânicas da DGHEA.
+Art. 49.º - 1 - Sempre que a natureza dos objectivos o aconselhe, poderão ser constituídas, com carácter temporário, equipas de projecto, integradas por técnicos de diversas especialidades e oriundos de diferentes serviços do Ministério da Agricultura, Pescas e Alimentação ou de diversas unidades orgânicas da DGHEA.
 
 2 - As equipas de projecto serão constituídas por despacho do Ministro da Agricultura, Pescas e Alimentação, quando integrem técnicos de vários serviços do Ministério, e por despacho do director-geral, quando constituídas por técnicos da DGHEA, sendo reguladas pelas disposições aplicáveis no âmbito do Ministério.
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 50.º Para a realização dos seus fins a DGHEA administrará autonomamente o património próprio e as dotações inscritas no seu orçamento privativo e assegurará a gestão dos bens a seu cargo, orientada pelos seguintes princípios:
+Art. 50.º Para a realização dos seus fins a DGHEA administrará autonomamente o património próprio e as dotações inscritas no seu orçamento privativo e assegurará a gestão dos bens a seu cargo, orientada pelos seguintes princípios:
 
 a) Gestão por objectivos, assente na estratégia do planeamento agrícola definida para o sector;
 
@@ -817,7 +957,7 @@ b) Controle orçamental pelos resultados, tendo em vista a avaliação da produt
 
 c) Um sistema de informação integrado de gestão, necessário à elaboração dos programas e projectos e à sua correcta execução.
 
-###### Art. 51.º - 1 - A gestão da DGHEA será disciplinada pelos seguintes instrumentos de previsão e controle:
+Art. 51.º - 1 - A gestão da DGHEA será disciplinada pelos seguintes instrumentos de previsão e controle:
 
 a) Planos de actividades e financeiros anuais e plurianuais;
 
@@ -833,7 +973,7 @@ d) Conta e relatório financeiro.
 
 4 - O orçamento privativo será elaborado com base no plano anual de actividades, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
-###### Art. 52.º - 1 - Constituem receitas próprias da DGHEA:
+Art. 52.º - 1 - Constituem receitas próprias da DGHEA:
 
 a) As dotações que lhe forem atribuídas no Orçamento do Estado;
 
@@ -871,7 +1011,7 @@ q) Quaisquer outras receitas não compreendidas nas alíneas anteriores que por 
 
 3 - Na movimentação e utilização das receitas próprias observar-se-á o regime estabelecido no [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
 
-###### Art. 53.º - 1 - A cobrança coerciva das dívidas à DGHEA provenientes de taxas ou outras receitas cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+Art. 53.º - 1 - A cobrança coerciva das dívidas à DGHEA provenientes de taxas ou outras receitas cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base uma certidão, passada pela entidade competente, da qual constem os elementos seguintes:
 
@@ -885,79 +1025,79 @@ d) Data da certidão e assinatura da entidade emitente, devidamente autenticada 
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 54.º - 1 - Constituem despesas da DGHEA as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atribuições.
+Art. 54.º - 1 - Constituem despesas da DGHEA as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atribuições.
 
 2 - Na realização das despesas respeitar-se-ão os condicionalismos e imperativos decorrentes do orçamento e dos planos aprovados, bem como as prioridades definidas.
 
-###### Art. 55.º - 1 - Os pagamentos devem ser efectuados, em regra, por meio de cheques nominativos, mediante recibos devidamente legalizados.
+Art. 55.º - 1 - Os pagamentos devem ser efectuados, em regra, por meio de cheques nominativos, mediante recibos devidamente legalizados.
 
 2 - O conselho administrativo poderá levantar e manter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devem ser satisfeitas em numerário.
 
-###### Art. 56.º Todos os documentos relativos a recebimentos e a pagamentos serão assinados ou visados pelo presidente do conselho administrativo e pelo director dos Serviços de Administração ou pelos seus substitutos legais, podendo o conselho administrativo, nos casos em que tal se justifique, autorizar a assinatura por outros funcionários.
+Art. 56.º Todos os documentos relativos a recebimentos e a pagamentos serão assinados ou visados pelo presidente do conselho administrativo e pelo director dos Serviços de Administração ou pelos seus substitutos legais, podendo o conselho administrativo, nos casos em que tal se justifique, autorizar a assinatura por outros funcionários.
 
-###### Art. 57.º - 1 - A contabilidade da DGHEA deverá adequar-se às necessidades da sua gestão, permitir o controle orçamental permanente e integrar uma contabilidade analítica que determine os custos de participação de cada uma das unidades orgânicas e equipas de projecto em cada um dos programas e projectos, bem como o respectivo custo total.
+Art. 57.º - 1 - A contabilidade da DGHEA deverá adequar-se às necessidades da sua gestão, permitir o controle orçamental permanente e integrar uma contabilidade analítica que determine os custos de participação de cada uma das unidades orgânicas e equipas de projecto em cada um dos programas e projectos, bem como o respectivo custo total.
 
 2 - Para efeito do número anterior, a DGHEA poderá aplicar, adaptado às suas realidades específicas e fundamentalmente como instrumento de gestão, o Plano Oficial de Contabilidade, aprovado pelo [Decreto-Lei n.º 47/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1977-221746), de 7 de Fevereiro.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 58.º - 1 - Nos termos do artigo 7.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro, a DGHEA, para o desempenho das suas atribuições, dispõe do quadro de pessoal constante do mapa I anexo ao presente diploma, ao qual é aplicável o regime vigente para o Ministério da Agricultura, Pescas e Alimentação.
+Art. 58.º - 1 - Nos termos do artigo 7.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro, a DGHEA, para o desempenho das suas atribuições, dispõe do quadro de pessoal constante do mapa I anexo ao presente diploma, ao qual é aplicável o regime vigente para o Ministério da Agricultura, Pescas e Alimentação.
 
 2 - Transita para o quadro de pessoal da DGHEA o pessoal do quadro do Instituto de Gestão e Estruturação Fundiária afecto às áreas de estruturação fundiária constante do mapa II anexo ao presente diploma, considerando-se este quadro automaticamente abatido do correspondente número de unidades.
 
 3 - A distribuição de pessoal pelos diversos serviços da DGHEA será feita por despacho do director-geral, em função das necessidades dos serviços e das qualificações profissionais dos funcionários.
 
-###### Art. 59.º - 1 - Os encargos com o pessoal são incluídos no orçamento privativo da DGHEA e suportados pelas suas receitas próprias.
+Art. 59.º - 1 - Os encargos com o pessoal são incluídos no orçamento privativo da DGHEA e suportados pelas suas receitas próprias.
 
 2 - Os tesoureiros têm direito a um abono para falhas correspondente a 10% do vencimento da letra J.
 
-###### Art. 60.º Fica vedado o preenchimento dos lugares relativos às categorias criadas pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, até que se encontrem publicados todos os diplomas que dêem execução ao aludido decreto-lei no âmbito do Ministério da Agricultura, Pescas e Alimentação.
+Art. 60.º Fica vedado o preenchimento dos lugares relativos às categorias criadas pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, até que se encontrem publicados todos os diplomas que dêem execução ao aludido decreto-lei no âmbito do Ministério da Agricultura, Pescas e Alimentação.
 
 ### CAPÍTULO V — Disposições gerais e finais
 
-###### Art. 61.º - 1 - A DGHEA está isenta de todos os impostos, contribuições, taxas, custas, emolumentos e selos nos processos, actos notariais e outros em que intervenha, em termos e condições idênticos às do Estado.
+Art. 61.º - 1 - A DGHEA está isenta de todos os impostos, contribuições, taxas, custas, emolumentos e selos nos processos, actos notariais e outros em que intervenha, em termos e condições idênticos às do Estado.
 
 2 - A aquisição, alienação, troca, entrega para exploração e venda de prédios ou direitos a eles inerentes realizadas no âmbito da estruturação fundiária e emparcelamento rural não carecem de exame e visto do Tribunal de Contas.
 
-###### Art. 62.º - 1 - Passam a constituir património próprio da DGHEA os bens móveis e imóveis e os direitos e obrigações, sejam ou não de natureza contratual, afectos, à data da publicação deste diploma, à prossecução dos seus fins.
+Art. 62.º - 1 - Passam a constituir património próprio da DGHEA os bens móveis e imóveis e os direitos e obrigações, sejam ou não de natureza contratual, afectos, à data da publicação deste diploma, à prossecução dos seus fins.
 
 2 - É transferida para a DGHEA a titularidade dos bens imóveis, direitos e obrigações, incluindo as posições contratuais, de que é titular o Instituto de Gestão e Estruturação Fundiária na área do emparcelamento rural.
 
-###### Art. 63.º - 1 - A DGHEA poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas, nacionais ou estrangeiras.
+Art. 63.º - 1 - A DGHEA poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas, nacionais ou estrangeiras.
 
 2 - Os preços dos serviços prestados serão aprovados por despacho ministerial e fixados tendo em conta os meios humanos e materiais envolvidos em cada caso, o nível de serviço prestado e os custos indirectos de financiamento.
 
-###### Art. 64.º - 1 - Mediante proposta fundamentada e despacho ministerial de autorização, a DGHEA poderá, nos termos da lei geral, celebrar contratos com entidades ou indivíduos nacionais ou estrangeiros para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 64.º - 1 - Mediante proposta fundamentada e despacho ministerial de autorização, a DGHEA poderá, nos termos da lei geral, celebrar contratos com entidades ou indivíduos nacionais ou estrangeiros para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão, em caso algum, ao particular outorgante a qualidade de agente administrativo.
 
-###### Art. 65.º - 1 - A DGHEA poderá, mediante proposta fundamentada e despacho ministerial de autorização, conceder subsídios às entidades e nos termos referidos no n.º 18 do artigo 55.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), entendendo-se a referência ao [Decreto Regulamentar n.º 39-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-c-1979-402718) como feita a este diploma.
+Art. 65.º - 1 - A DGHEA poderá, mediante proposta fundamentada e despacho ministerial de autorização, conceder subsídios às entidades e nos termos referidos no n.º 18 do artigo 55.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), entendendo-se a referência ao [Decreto Regulamentar n.º 39-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-c-1979-402718) como feita a este diploma.
 
 2 - Quando os subsídios sejam reembolsáveis e não provenham de receitas próprias, o reembolso será feito directamente nos cofres do Tesouro, mediante guias a expedir pela DGHEA.
 
-###### Art. 66.º A DGHEA poderá comparticipar nos encargos com a construção de infra-estruturas rurais de interesse colectivo e agrícola, de acordo com as orientações definidas nos planos de investimento do sector público.
+Art. 66.º A DGHEA poderá comparticipar nos encargos com a construção de infra-estruturas rurais de interesse colectivo e agrícola, de acordo com as orientações definidas nos planos de investimento do sector público.
 
-###### Art. 67.º O conteúdo funcional da carreira de técnico auxiliar consta do mapa III anexo ao presente diploma.
+Art. 67.º O conteúdo funcional da carreira de técnico auxiliar consta do mapa III anexo ao presente diploma.
 
-###### Art. 68.º É revogado o [Decreto Regulamentar n.º 39-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-c-1979-402718), de 31 de Julho, bem como as disposições do [Decreto-Lei n.º 498-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-a-1979-197077), de 21 de Dezembro, em tudo o que contrarie o presente diploma, designadamente no que respeita às competências agora atribuídas à Direcção de Serviços de Estruturação Fundiária e Topografia pelos artigos 21.º e seguintes.
+Art. 68.º É revogado o [Decreto Regulamentar n.º 39-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-c-1979-402718), de 31 de Julho, bem como as disposições do [Decreto-Lei n.º 498-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-a-1979-197077), de 21 de Dezembro, em tudo o que contrarie o presente diploma, designadamente no que respeita às competências agora atribuídas à Direcção de Serviços de Estruturação Fundiária e Topografia pelos artigos 21.º e seguintes.
 
-###### Art. 69.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 69.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 6 de Outubro de 1986.**
+Promulgado em 6 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1986.**
+Referendado em 18 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa I a que se refere o n.º 1 do artigo 58.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/25600/33243341.pdf))](https://files.diariodarepublica.pt/1s/1986/11/25600/33243341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/25600/33243341.pdf)
 
 Mapa II a que se refere o n.º 2 do artigo 58.º
 

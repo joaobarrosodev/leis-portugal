@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1983-453241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeb9b3dc112e77aab2480413535123e53780ff3622071a6c4f0a36e452ced956
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2cad4c278418c6de6180640ce897f1ce5f9592046b0569aa54353e2ddf43ebb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Circulação de Mercadorias
+- Importação
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:694041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:694041:por
+  label: "Alterados os arts. 4º, 20º e 21º e eliminados os anexos I e II pelo DEC LEI.16/91.1991.01.10.MF, DR.IS-A [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1991-694041
+  date: '1991-01-10'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693406:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:673776:por
+  label: Rectificada a al. b) do nº 3 do art. 8.º, pelo DECL.DD5713.04.08.1983.PCM, DR.IS [200-Supl] de 31.08.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-673776
+  date: '1983-08-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:54Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +130,11 @@ Usando da autorização conferida pela alínea g) do artigo 19.º da [Lei n.º 2
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A circulação de mercadorias sob regime de trânsito aduaneiro entre 2 pontos do território nacional pode efectuar-se, com prestação da garantia aos direitos e taxas de importação, ao abrigo de uma declaração de trânsito (modelo T), a seguir designada por declaração T.
+Artigo 1.º A circulação de mercadorias sob regime de trânsito aduaneiro entre 2 pontos do território nacional pode efectuar-se, com prestação da garantia aos direitos e taxas de importação, ao abrigo de uma declaração de trânsito (modelo T), a seguir designada por declaração T.
 
-###### Art. 2.º O transporte das mercadorias referidas no artigo 1.º efectuar-se-á sem acompanhamento da fiscalização.
+Art. 2.º O transporte das mercadorias referidas no artigo 1.º efectuar-se-á sem acompanhamento da fiscalização.
 
-###### Art. 3.º Para os fins do presente decreto-lei, considera-se:
+Art. 3.º Para os fins do presente decreto-lei, considera-se:
 
 a) Responsável principal: a pessoa que, por intermédio de um representante habilitado, quando for caso disso, pede, numa declaração que obedeça às formalidades aduaneiras requeridas, para efectuar uma operação de trânsito e se responsabiliza deste modo pela execução regular desta operação;
 
@@ -126,7 +156,7 @@ d) Estância aduaneira de destino: a estância aduaneira onde as mercadorias dev
 
 e) Estância aduaneira de garantia: a estância aduaneira onde for prestada a garantia global.
 
-###### Art. 4.º - 1 - Para circularem ao abrigo do regime de trânsito previsto neste decreto-lei, deverão as mercadorias ser objecto de uma declaração T, conforme modelo reproduzido no anexo I.
+Art. 4.º - 1 - Para circularem ao abrigo do regime de trânsito previsto neste decreto-lei, deverão as mercadorias ser objecto de uma declaração T, conforme modelo reproduzido no anexo I.
 
 2 - A declaração T será assinada pela pessoa que tiver pedido para efectuar uma operação de trânsito ou pelo seu representante habilitado e deverá ser apresentada em 3 exemplares, pela ordem da sua numeração, na estância aduaneira de partida:
 
@@ -138,13 +168,13 @@ e) Estância aduaneira de garantia: a estância aduaneira onde for prestada a ga
 
 3 - Quando na declaração T não houver espaço suficiente para inscrever todas as mercadorias transportadas, poderão juntar-se folhas suplementares, do modelo constante do anexo II, mencionando-se na declaração o número de folhas anexas.
 
-###### Art. 5.º O responsável principal é obrigado:
+Art. 5.º O responsável principal é obrigado:
 
 a) A apresentar as mercadorias intactas na estância aduaneira de destino no prazo prescrito e a respeitar as medidas de identificação tomadas pelas autoridades competentes;
 
 b) A respeitar as disposições relativas ao regime de trânsito.
 
-###### Art. 6.º - 1 - O mesmo meio de transporte pode ser utilizado para o carregamento de mercadorias em diversas estâncias aduaneiras de partida, bem como para a descarga em diversas estâncias aduaneiras de destino.
+Art. 6.º - 1 - O mesmo meio de transporte pode ser utilizado para o carregamento de mercadorias em diversas estâncias aduaneiras de partida, bem como para a descarga em diversas estâncias aduaneiras de destino.
 
 2 - Apenas podem figurar numa mesma declaração T mercadorias carregadas ou que devam ser carregadas num único meio de transporte e destinadas a serem transportadas de uma mesma estância aduaneira de partida para uma mesma estância aduaneira de destino.
 
@@ -158,11 +188,11 @@ c) As embarcações que constituam um conjunto único;
 
 d) Os contentores carregados num meio de transporte na acepção do presente artigo.
 
-###### Art. 7.º - 1 - A estância aduaneira de partida regista a declaração T, fixa o prazo para apresentação das mercadorias na estância aduaneira de destino e toma as medidas de identificação que considerar necessárias.
+Art. 7.º - 1 - A estância aduaneira de partida regista a declaração T, fixa o prazo para apresentação das mercadorias na estância aduaneira de destino e toma as medidas de identificação que considerar necessárias.
 
 2 - Depois de ter anotado em conformidade a declaração T, a estância aduaneira de partida conservará o exemplar que lhe é destinado e entregará os outros exemplares ao responsável principal ou ao seu representante.
 
-###### Art. 8.º - 1 - A identificação das mercadorias é assegurada, regra geral, por selagem.
+Art. 8.º - 1 - A identificação das mercadorias é assegurada, regra geral, por selagem.
 
 2 - A selagem efectua-se:
 
@@ -182,39 +212,39 @@ d) Que os espaços reservados à carga sejam facilmente acessíveis à inspecç�
 
 4 - A estância aduaneira de partida poderá dispensar a selagem quando, tendo em conta outras medidas eventuais de identificação, a descrição das mercadorias na declaração T permita a sua identificação.
 
-###### Art. 9.º - 1 - O transporte das mercadorias efectua-se ao abrigo dos exemplares da declaração T entregues ao responsável principal ou ao seu representante pela estância aduaneira de partida.
+Art. 9.º - 1 - O transporte das mercadorias efectua-se ao abrigo dos exemplares da declaração T entregues ao responsável principal ou ao seu representante pela estância aduaneira de partida.
 
 2 - Para o percurso poderão as autoridades aduaneiras exigir que os meios de transporte sigam por um itinerário determinado.
 
 3 - Poderão ainda as autoridades aduaneiras proceder durante o percurso ao controle dos meios de transporte e, em casos excepcionais, à inspecção do seu carregamento.
 
-###### Art. 10.º - 1 - As mercadorias que figuram na declaração T poderão, sob controle aduaneiro, ser objecto de um transbordo para um outro meio de transporte.
+Art. 10.º - 1 - As mercadorias que figuram na declaração T poderão, sob controle aduaneiro, ser objecto de um transbordo para um outro meio de transporte.
 
 2 - Sempre que se verifique a hipótese formulada no número. anterior deverão os serviços anotar a declaração T em conformidade.
 
-###### Art. 11.º - 1 - No caso de ruptura dos selos, durante o transporte, por motivos independentes da vontade do transportador, deverá este, no mais curto espaço de tempo, comunicar o facto a uma estância aduaneira, se a houver nas proximidades, ou, na sua falta, a qualquer outra autoridade habilitada, a fim de que por elas possa ser feita a competente participação.
+Art. 11.º - 1 - No caso de ruptura dos selos, durante o transporte, por motivos independentes da vontade do transportador, deverá este, no mais curto espaço de tempo, comunicar o facto a uma estância aduaneira, se a houver nas proximidades, ou, na sua falta, a qualquer outra autoridade habilitada, a fim de que por elas possa ser feita a competente participação.
 
 2 - A autoridade interveniente no caso mencionado no número anterior aporá, se for possível, novos selos.
 
 3 - Consideram-se autoridades habilitadas, para efeito do n.º 1, a Guarda Fiscal e a Guarda Nacional Republicana.
 
-###### Art. 12.º No caso de acidente que obrigue a um transbordo para um outro meio de transporte, aplicar-se-ão as disposições do artigo 10.º, podendo, porém, intervir qualquer outra autoridade habilitada nas condições indicadas naquele artigo se, nas proximidades, não houver estância aduaneira.
+Art. 12.º No caso de acidente que obrigue a um transbordo para um outro meio de transporte, aplicar-se-ão as disposições do artigo 10.º, podendo, porém, intervir qualquer outra autoridade habilitada nas condições indicadas naquele artigo se, nas proximidades, não houver estância aduaneira.
 
-###### Art. 13.º Em caso de perigo eminente que torne necessária a descarga imediata, parcial ou total, o transportador poderá tomar medidas por sua própria iniciativa, que mencionará na declaração T, devendo, além disso, proceder em conformidade com o disposto no n.º 1 do artigo 11.º
+Art. 13.º Em caso de perigo eminente que torne necessária a descarga imediata, parcial ou total, o transportador poderá tomar medidas por sua própria iniciativa, que mencionará na declaração T, devendo, além disso, proceder em conformidade com o disposto no n.º 1 do artigo 11.º
 
-###### Art. 14.º Sempre que, em consequência de acidentes ou de incidentes ocorridos no decurso do transporte, o transportador não possa respeitar o prazo referido no n.º 1 do artigo 7.º, deverá, no mais curto espaço de tempo, avisar a autoridade competente visada no n.º 1 do artigo 11.º, a qual anotará esse facto na declaração T.
+Art. 14.º Sempre que, em consequência de acidentes ou de incidentes ocorridos no decurso do transporte, o transportador não possa respeitar o prazo referido no n.º 1 do artigo 7.º, deverá, no mais curto espaço de tempo, avisar a autoridade competente visada no n.º 1 do artigo 11.º, a qual anotará esse facto na declaração T.
 
-###### Art. 15.º - 1 - A estância aduaneira de destino, depois de anotar os exemplares da declaração T de acordo com o controle efectuado, devolverá sem demora um exemplar à estância aduaneira de partida e conservará o outro exemplar.
+Art. 15.º - 1 - A estância aduaneira de destino, depois de anotar os exemplares da declaração T de acordo com o controle efectuado, devolverá sem demora um exemplar à estância aduaneira de partida e conservará o outro exemplar.
 
 2 - Por motivo de força maior devidamente justificado, uma operação de trânsito poderá terminar numa estância aduaneira diferente da prevista na declaração T, passando, por esse motivo, essa estância a ser considerada estância aduaneira de destino.
 
-###### Art. 16.º - 1 - Para assegurar a cobrança dos direitos e outras imposições exigíveis por motivo de infracções ou irregularidades cometidas no decurso ou por ocasião das operações de trânsito, o responsável principal é obrigado a prestar uma garantia.
+Art. 16.º - 1 - Para assegurar a cobrança dos direitos e outras imposições exigíveis por motivo de infracções ou irregularidades cometidas no decurso ou por ocasião das operações de trânsito, o responsável principal é obrigado a prestar uma garantia.
 
 2 - A garantia pode ser prestada globalmente para várias operações de trânsito ou isoladamente para uma só operação.
 
 3 - A garantia será prestada, à escolha do interessado, por depósito em moeda corrente ou por fiança, nos termos dos §§ 2.º, 3.º e 4.º do artigo 95.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.
 
-###### Art. 17.º - 1 - A garantia global será prestada numa estância aduaneira de garantia.
+Art. 17.º - 1 - A garantia global será prestada numa estância aduaneira de garantia.
 
 2 - A estância aduaneira de garantia referida no n.º 1 será a sede da alfândega a que corresponder o domicílio do responsável principal.
 
@@ -222,52 +252,52 @@ d) Que os espaços reservados à carga sejam facilmente acessíveis à inspecç�
 
 4 - Em cada declaração T deverá fazer-se referência, quando for caso disso, ao certificado de caução.
 
-###### Art. 18.º - 1 - No verso do certificado de caução o responsável principal designará, sob sua responsabilidade, no momento da entrega do certificado ou em qualquer outra altura durante o prazo de validade do mesmo, as pessoas por ele habilitadas a assinar em seu nome a declaração T.
+Art. 18.º - 1 - No verso do certificado de caução o responsável principal designará, sob sua responsabilidade, no momento da entrega do certificado ou em qualquer outra altura durante o prazo de validade do mesmo, as pessoas por ele habilitadas a assinar em seu nome a declaração T.
 
 2 - Cada designação, apoiada pela assinatura do responsável principal, compreenderá a indicação do nome da pessoa habilitada, acompanhada da respectiva assinatura.
 
 3 - O responsável principal poderá, em qualquer momento, anular a inscrição do nome de uma pessoa habilitada constante do verso do certificado.
 
-###### Art. 19.º Qualquer pessoa mencionada no verso de um certificado de caução apresentado numa estância aduaneira de partida será considerada como representante do responsável principal.
+Art. 19.º Qualquer pessoa mencionada no verso de um certificado de caução apresentado numa estância aduaneira de partida será considerada como representante do responsável principal.
 
-###### Art. 20.º O prazo de validade do certificado de caução não poderá exceder 1 ano.
+Art. 20.º O prazo de validade do certificado de caução não poderá exceder 1 ano.
 
-###### Art. 21.º - 1 - A garantia global será prestada por um período não superior a 1 ano, podendo ser cancelada pelas autoridades aduaneiras sempre que não se encontrem reunidas as condições observadas quando da sua prestação.
+Art. 21.º - 1 - A garantia global será prestada por um período não superior a 1 ano, podendo ser cancelada pelas autoridades aduaneiras sempre que não se encontrem reunidas as condições observadas quando da sua prestação.
 
 2 - Quando uma garantia global for cancelada nos termos da parte final do número anterior, deixará de produzir efeitos a partir da data do seu cancelamento e a sede da alfândega onde a mesma tiver lugar informará do facto, para os devidos efeitos, as estâncias aduaneiras dela dependentes e as restantes alfândegas.
 
 3 - Os certificados de caução relativos às garantias globais canceladas serão restituídos sem demora pelos responsáveis principais às estâncias aduaneiras de garantia que os emitiram.
 
-###### Art. 22.º - 1 - Quando a garantia cobrir uma única operação de trânsito, será prestada na estância aduaneira de partida da mercadoria.
+Art. 22.º - 1 - Quando a garantia cobrir uma única operação de trânsito, será prestada na estância aduaneira de partida da mercadoria.
 
 2 - A garantia referida no número anterior poderá ser prestada por depósito em moeda corrente, sendo o seu montante fixado pela respectiva estância aduaneira.
 
-###### Art. 23.º O responsável principal ficará dispensado do pagamento dos direitos e de outras imposições relativos às mercadorias:
+Art. 23.º O responsável principal ficará dispensado do pagamento dos direitos e de outras imposições relativos às mercadorias:
 
 a) Que tenham sido destruídas por motivo de força maior ou por uma causa fortuita devidamente comprovada;
 
 b) Que sejam consideradas em falta por razões dependentes da sua natureza.
 
-###### Art. 24.º O fiador ficará livre dos compromissos assumidos quando na estância aduaneira de destino for dada por encerrada a operação de trânsito a que a declaração T se refere.
+Art. 24.º O fiador ficará livre dos compromissos assumidos quando na estância aduaneira de destino for dada por encerrada a operação de trânsito a que a declaração T se refere.
 
-###### Art. 25.º Quando, no decurso ou por ocasião de uma operação de trânsito, for cometida uma infracção ou uma irregularidade, cobrar-se-ão os direitos e outras imposições eventualmente exigíveis, sem prejuízo de procedimento penal.
+Art. 25.º Quando, no decurso ou por ocasião de uma operação de trânsito, for cometida uma infracção ou uma irregularidade, cobrar-se-ão os direitos e outras imposições eventualmente exigíveis, sem prejuízo de procedimento penal.
 
-###### Art. 26.º Os anexos ao presente decreto-lei fazem dele parte integrante.
+Art. 26.º Os anexos ao presente decreto-lei fazem dele parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)

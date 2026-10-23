@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03500/04210423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1983-310663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6f0f31b7a99ef96f605e35a442a649ab9226fdf268b8e6e4e24e4416b633f26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e6b11340124852342a13eea030528fab6769a1307d72b98671fd6305ab75469
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jogos de Fortuna e Azar
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328846:por
+  label: "Aditado o n.º 4 ao artigo 4.º do Decreto-Lei n.º 48912, de 18 de Março de 1969, na redacção dada pelo artigo 2.º\
+    \ do presente diploma, pelo DEC LEI.22/85.17.01.1985.MJ, DR.IS [14] de 17.01.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-1985-328846
+  date: '1985-01-17'
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:401347:por
+  label: Rectificado pela DECL.DD2943.1983.02.23.PCM DR.IS [48]Supl de 28.02.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-401347
+  date: '1983-02-23'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:50Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +120,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aditados os seguintes 3 parágrafos ao artigo 2.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passando o § único a § 4.º:
+Artigo 1.º São aditados os seguintes 3 parágrafos ao artigo 2.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passando o § único a § 4.º:
 
 § 1.º Pode o membro do Governo com tutela sobre o sector do turismo, ouvidas a Inspecção-Geral de Jogos e a Direcção-Geral do Turismo, autorizar a exploração e a prática dos jogos de fortuna ou azar a bordo de navios ou aeronaves, quando fora de território nacional e operando percursos de acentuado interesse turístico.
 
@@ -106,11 +128,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 3.º A exploração e a prática referidas no § 1.º obedecem às regras estabelecidas para a sua realização em casinos, competindo ao membro do Governo com tutela sobre o sector do turismo fixar as condições específicas, incluindo as épocas e os períodos de funcionamento.
 
-###### Art. 2.º É aditado o seguinte parágrafo ao artigo 4.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passando o § 3.º a § 4.º:
+Art. 2.º É aditado o seguinte parágrafo ao artigo 4.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passando o § 3.º a § 4.º:
 
 § 3.º O valor mínimo da aposta nos jogos não bancados será fixado por portaria do membro do Governo com tutela sobre o sector do turismo, ouvida a Inspecção-Geral de Jogos.
 
-###### Art. 3.º É aditado o seguinte parágrafo ao artigo 22.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969:
+Art. 3.º É aditado o seguinte parágrafo ao artigo 22.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969:
 
 § único. As concessionárias podem condicionar o acesso aos casinos, designadamente por:
 
@@ -120,9 +142,9 @@ b) Inobservância das usuais normas de higiene, convivência e ordem pública e 
 
 c) Exercício da venda ambulante ou acompanhamento por animais.
 
-###### Art. 4.º Os artigos 27.º, 30.º, 33.º, 53.º e 55.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passam a ter as seguintes redacções:
+Art. 4.º Os artigos 27.º, 30.º, 33.º, 53.º e 55.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passam a ter as seguintes redacções:
 
-###### Art. 27.º As concessionárias devem manter nas salas de jogos de fortuna ou azar, com excepção das salas destinadas aos jogos do bingo e em máquinas automáticas, um serviço destinado à compra de cheques nacionais emitidos pelos frequentadores, devendo efectuar no respectivo livro de registo a correspondente inscrição.
+Art. 27.º As concessionárias devem manter nas salas de jogos de fortuna ou azar, com excepção das salas destinadas aos jogos do bingo e em máquinas automáticas, um serviço destinado à compra de cheques nacionais emitidos pelos frequentadores, devendo efectuar no respectivo livro de registo a correspondente inscrição.
 
 § 1.º Os cheques, cuja compra não é obrigatória, não são resgatáveis mas podem ser inutilizados no próprio dia em que forem comprados, por forma a não poderem ser de novo utilizados, devendo as concessionárias efectuar no respectivo livro de registo o correspondente averbamento.
 
@@ -132,7 +154,7 @@ c) Exercício da venda ambulante ou acompanhamento por animais.
 
 § 4.º As concessionárias trocarão aos jogadores as fichas que estes tenham em seu poder por dinheiro ou, sempre que os jogadores o solicitem, por cheques por si sacados.
 
-###### Art. 30.º Sem prejuízo do previsto no § 1.º, não é permitida a entrada nas salas em que se pratiquem jogos de fortuna ou azar, aos indivíduos:
+Art. 30.º Sem prejuízo do previsto no § 1.º, não é permitida a entrada nas salas em que se pratiquem jogos de fortuna ou azar, aos indivíduos:
 
 a) Nacionais, estrangeiros e apátridas que se encontrem ou residam em Portugal com menos de 23 anos de idade;
 
@@ -178,28 +200,28 @@ b) Os membros das direcções das instituições representativas dos empregados 
 
 § 5.º A Inspecção-Geral de Jogos, sempre que haja motivo que o justifique ou a pedido do interessado, pode proibir a entrada nas salas de jogos, por períodos não superiores a 3 anos, a indivíduos que, por lei, não estejam inibidos de as frequentar.
 
-###### Art. 33.º As concessionárias podem instalar nos casinos, especialmente nas salas de jogos, equipamento electrónico de vigia e controle, como medida de protecção e segurança de pessoas e bens ou para efeitos de contabilização das receitas do jogo.
+Art. 33.º As concessionárias podem instalar nos casinos, especialmente nas salas de jogos, equipamento electrónico de vigia e controle, como medida de protecção e segurança de pessoas e bens ou para efeitos de contabilização das receitas do jogo.
 
 § único. Não é permitido aos frequentadores das salas de jogos, durante o funcionamento destas, serem portadores ou fazerem uso de aparelhos de registo ou de transmissão de imagem ou de som, bem como a realização de reportagens.
 
-###### Art. 53.º A Inspecção-Geral de Jogos pode aplicar aos empregados das salas de jogos a sanção administrativa de exclusão do exercício de funções nas respectivas salas até 2 anos, por infringirem o disposto nos artigos 2.º e 26.º
+Art. 53.º A Inspecção-Geral de Jogos pode aplicar aos empregados das salas de jogos a sanção administrativa de exclusão do exercício de funções nas respectivas salas até 2 anos, por infringirem o disposto nos artigos 2.º e 26.º
 
 § 1.º Os empregados punidos não podem ingressar nos quadros das salas de jogos de qualquer outra pessoa concessionária, durante o mesmo período.
 
 § 2.º As quantias jogadas ou mutuadas nos termos do corpo do artigo são apreendidas, revertendo para o Fundo de Turismo.
 
-###### Art. 55.º Aqueles que, não sendo administradores das concessionárias ou empregados das salas de jogos de fortuna ou azar, infringirem o disposto nos artigos 26.º e 28.º incorrem na multa de 12000$00 a 120000$00, elevada ao dobro no caso de reincidência.
+Art. 55.º Aqueles que, não sendo administradores das concessionárias ou empregados das salas de jogos de fortuna ou azar, infringirem o disposto nos artigos 26.º e 28.º incorrem na multa de 12000$00 a 120000$00, elevada ao dobro no caso de reincidência.
 
 § único. A quantia mutuada ou cambiada é apreendida, revertendo para o Fundo de Socorro Social.
 
 Visto e aprovado em Conselho de Ministros, 6 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

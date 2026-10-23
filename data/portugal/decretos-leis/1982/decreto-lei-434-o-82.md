@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 251/1982, 2º Suplemento, Série I de 1982-10-29
   number: '251'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3598-(41) a 3598-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25102/00410041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-o-1982-243486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b21348fcfead94cef9fa9703bb68a9fac4f0ff4d652c1ee259e8f82350103470
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c951d8cf667f423f875c2d64792d7922036bc018df5ffb7468ae613a162e0de9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Despesas Públicas
+- Forças Armadas
+- Gestão Orçamental
+- Orçamento
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:589685:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:05Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +108,18 @@ Considerando ainda que a necessidade de actualização também pode contemplar d
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 463/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1977-589685), de 9 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 463/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1977-589685), de 9 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Independentemente do cumprimento das restantes disposições legais aplicáveis, as despesas a efectuar de conta das dotações orçamentais destinadas a «Bens duradouros» e «Investimentos» passam a ficar sujeitas à prévia autorização do chefe do estado-maior do respectivo ramo, quando o seu valor seja superior a 250000$00, e à do Chefe do Estado-Maior-General das Forças Armadas, se excederem 25000000$00.
+Art. 4.º - 1 - Independentemente do cumprimento das restantes disposições legais aplicáveis, as despesas a efectuar de conta das dotações orçamentais destinadas a «Bens duradouros» e «Investimentos» passam a ficar sujeitas à prévia autorização do chefe do estado-maior do respectivo ramo, quando o seu valor seja superior a 250000$00, e à do Chefe do Estado-Maior-General das Forças Armadas, se excederem 25000000$00.
 
 2 - As competências mencionadas no número anterior poderão ser delegadas dentro dos limites e condições fixados pela entidade delegante.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1982.
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1982.
 
 Visto e aprovado em Conselho da Revolução em 26 de Outubro de 1982.
 
-**Promulgado em 28 de Outubro de 1982.**
+Promulgado em 28 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

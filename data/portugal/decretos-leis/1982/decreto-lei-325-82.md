@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1982-397915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0ae3d02275b14df3c158f4baa25d8262443e30b3ded80b88fb202ee2eb58f0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f13ede44b064093116e0277f5c50b76daf4843579e14c041d0536961f5222d06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Formação Profissional
+- Ministério do Trabalho
+- Política de Emprego
+- Reconversão Profissional
 relationships:
 - type: amended_by
   target: pt:dre:229080:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:384266:por
+  label: "Alterado o artigo 2º pelo DEC LEI.186/84.29.05.1984.MTSS, DR.IS [124] de 29.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1984-384266
+  date: '1984-05-29'
+- type: amended_by
+  target: pt:dre:229080:por
+  label: Alterado o art. 2.º pelo(a) Decreto-Lei n.º 151/86 - Diário da República n.º 137/1986, Série I de 1986-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1986-229080
+  date: '1986-06-18'
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600964:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:02Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +120,22 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É cometida ao Ministério do Trabalho a competência necessária à definição do Programa de Construção de Novos Centros de Formação Profissional e de Reabilitação Profissional.
+Artigo 1.º - 1 - É cometida ao Ministério do Trabalho a competência necessária à definição do Programa de Construção de Novos Centros de Formação Profissional e de Reabilitação Profissional.
 
 2 - Os empreendimentos a incluir neste Programa serão definidos por despacho do Ministro do Trabalho.
 
-###### Art. 2.º A execução deste Programa cabe ao Instituto de Emprego e Formação Profissional, com verbas do seu orçamento e de outras que lhe venham a ser consignadas no âmbito dos acordos de adesão à Comunidade Económica Europeia.
+Art. 2.º A execução deste Programa cabe ao Instituto de Emprego e Formação Profissional, com verbas do seu orçamento e de outras que lhe venham a ser consignadas no âmbito dos acordos de adesão à Comunidade Económica Europeia.
 
-###### Art. 3.º As despesas com obras e aquisição de bens e serviços destinados à execução deste Programa poderão, mediante despacho conjunto do Primeiro-Ministro e do Ministro do Trabalho, efectuar-se por ajuste directo, independentemente do seu valor.
+Art. 3.º As despesas com obras e aquisição de bens e serviços destinados à execução deste Programa poderão, mediante despacho conjunto do Primeiro-Ministro e do Ministro do Trabalho, efectuar-se por ajuste directo, independentemente do seu valor.
 
-###### Art. 4.º O disposto no presente diploma aplica-se às despesas já efectuadas, desde que as mesmas sejam susceptíveis de enquadramento neste Programa.
+Art. 4.º O disposto no presente diploma aplica-se às despesas já efectuadas, desde que as mesmas sejam susceptíveis de enquadramento neste Programa.
 
-###### Art. 5.º Para implementação do presente Programa, poderá o Ministro do Trabalho declarar a urgência da expropriação dos terrenos, nos termos do previsto e disposto no artigo 14.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, com a nova redacção do [Decreto-Lei n.º 32/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1982-600964), de 1 de Fevereiro.
+Art. 5.º Para implementação do presente Programa, poderá o Ministro do Trabalho declarar a urgência da expropriação dos terrenos, nos termos do previsto e disposto no artigo 14.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, com a nova redacção do [Decreto-Lei n.º 32/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1982-600964), de 1 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Agosto de 1982.**
+Promulgado em 4 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

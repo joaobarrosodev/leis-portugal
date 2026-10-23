@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15100/18291831.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1985-183021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c721ad828752d2c299502ae29406c3ec6bdd938bdb0887db5b71d3a0a928fc66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 856cbe93efd61cf6c6156da6491a19e117c0ac1362a0bb0f3e31c6a994b06070
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Electrificação Rural
+- Energia Elétrica
+- Exploração Agrícola
+- Financiamento
 relationships:
 - type: amended_by
   target: pt:dre:419664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419664:por
+  label: "Revogado pelo DEC LEI.253/87.24.06.1987.MAPA, DR.IS [142] de 24.06.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1987-419664
+  date: '1987-06-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:35Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +123,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Modalidades a condições gerais de auxílio financeiro à electrificação agrícola
 
-###### Artigo 1.º - 1 - O Estado comparticipará nos custos das obras de electrificação agrícola a realizar pelos agricultores ou suas associações ou pelos distribuidores de energia eléctrica.
+Artigo 1.º - 1 - O Estado comparticipará nos custos das obras de electrificação agrícola a realizar pelos agricultores ou suas associações ou pelos distribuidores de energia eléctrica.
 
 2 - Poderão ser concedidos empréstimos destinados a ocorrer parcialmente aos encargos com as obras de electrificação agrícola não cobertos por comparticipações, através do Sistema de Financiamento à Agricultura e Pescas (SIFAP), em cujo âmbito se devem enquadrar os pedidos e a respectiva tramitação.
 
-###### Art. 2.º As modalidades de auxílio previstas nos artigos anteriores poderão ser atribuídas:
+Art. 2.º As modalidades de auxílio previstas nos artigos anteriores poderão ser atribuídas:
 
 a) A empresários individuais ou sociedades civis agrárias;
 
@@ -114,7 +135,7 @@ b) A rendeiros que provem por documento autêntico estarem autorizados, pelos re
 
 c) A entidades colectivas com personalidade jurídica, designadamente associações de agricultores, cooperativas agrícolas, sociedades que pratiquem modalidades de agricultura de grupo e as que tenham a seu cargo a conservação e a exploração de obras de rega ou de defesa e enxugo.
 
-###### Art. 3.º As modalidades de auxílio abrangerão os seguintes trabalhos:
+Art. 3.º As modalidades de auxílio abrangerão os seguintes trabalhos:
 
 a) Comparticipação no encargo com o estabelecimento das linhas de alimentação em alta ou baixa tensão;
 
@@ -124,7 +145,7 @@ c) Empréstimos destinados a ocorrer parcialmente ao encargo com as obras de ele
 
 d) Empréstimos destinados a ocorrer parcialmente ao custo das instalações de utilização de energia eléctrica nas habitações dos agricultores quando incluídas na exploração e sejam empresários individuais, sociedades civis agrárias ou rendeiros.
 
-###### Art. 4.º - 1 - Os pedidos de auxílio financeiro do Estado deverão ser dirigidos em requerimento conjunto aos Ministros da Agricultura e da Indústria e Energia e entregues na respectiva direcção regional de agricultura, que os enviará à Direcção-Geral de Hidráulica e Engenharia Agrícola, acompanhados de informação justificativa do interesse da electrificação.
+Art. 4.º - 1 - Os pedidos de auxílio financeiro do Estado deverão ser dirigidos em requerimento conjunto aos Ministros da Agricultura e da Indústria e Energia e entregues na respectiva direcção regional de agricultura, que os enviará à Direcção-Geral de Hidráulica e Engenharia Agrícola, acompanhados de informação justificativa do interesse da electrificação.
 
 2 - A petição deverá ser elaborada em requerimento, em papel selado, nos termos da minuta anexa ao presente diploma.
 
@@ -148,29 +169,29 @@ d) Orçamento das instalações eléctricas, em triplicado, com discriminação 
 
 e) Proposta, em duplicado, das firmas fornecedoras do equipamento eléctrico que se pretende adquirir.
 
-###### Art. 5.º - 1 - Com base nos pedidos recebidos até à data da formulação das propostas do Orçamento do Estado, as Direcções-Gerais de Hidráulica e Engenharia Agrícola e de Energia, em conjunto, elaborarão o plano de obras e a previsão dos encargos, na modalidade de comparticipação, para o ano seguinte, para efeitos de inscrição nos respectivos orçamentos.
+Art. 5.º - 1 - Com base nos pedidos recebidos até à data da formulação das propostas do Orçamento do Estado, as Direcções-Gerais de Hidráulica e Engenharia Agrícola e de Energia, em conjunto, elaborarão o plano de obras e a previsão dos encargos, na modalidade de comparticipação, para o ano seguinte, para efeitos de inscrição nos respectivos orçamentos.
 
 2 - A prioridade das obras e as dotações orçamentais decorrentes da aplicação do número anterior serão fixadas anualmente por portaria dos Ministros das Finanças e do Plano, da Agricultura e da Indústria e Energia.
 
-###### Art. 6.º Os encargos correspondentes à elaboração dos projectos, à fiscalização e à administração das obras de electrificação poderão ser incluídos nos orçamentos das instalações, não devendo o seu valor, a ponderar em cada caso consoante a natureza dos trabalhos, exceder 17% dos valores dos respectivos orçamentos.
+Art. 6.º Os encargos correspondentes à elaboração dos projectos, à fiscalização e à administração das obras de electrificação poderão ser incluídos nos orçamentos das instalações, não devendo o seu valor, a ponderar em cada caso consoante a natureza dos trabalhos, exceder 17% dos valores dos respectivos orçamentos.
 
-###### Art. 7.º - 1 - A aprovação dos projectos de instalações eléctricas compete à Direcção-Geral de Energia, após a emissão de pareceres prévios pela respectiva direcção regional de agricultura e pela Direcção-Geral de Hidráulica e Engenharia Agrícola.
+Art. 7.º - 1 - A aprovação dos projectos de instalações eléctricas compete à Direcção-Geral de Energia, após a emissão de pareceres prévios pela respectiva direcção regional de agricultura e pela Direcção-Geral de Hidráulica e Engenharia Agrícola.
 
 2 - A aprovação dos orçamentos das linhas de alimentação em alta ou baixa tensão compete à Direcção-Geral de Energia e a dos orçamentos das restantes instalações à Direcção-Geral de Hidráulica e Engenharia Agrícola.
 
 3 - A comparticipação relativa às linhas de alimentação em alta tensão compete à Direcção-Geral de Energia, ao abrigo do disposto no [Decreto-Lei n.º 48337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48337-1968-234529), de 17 de Abril de 1968, e a referente às restantes instalações compete à Direcção-Geral de Hidráulica e Engenharia Agrícola.
 
-###### Art. 8.º Após a aprovação dos projectos e dos orçamentos e cumpridas as formalidades legais do licenciamento, a Direcção-Geral de Hidráulica e Engenharia Agrícola fixará e comunicara aos requerentes e à competente direcção regional de agricultura as condições da concessão do auxílio.
+Art. 8.º Após a aprovação dos projectos e dos orçamentos e cumpridas as formalidades legais do licenciamento, a Direcção-Geral de Hidráulica e Engenharia Agrícola fixará e comunicara aos requerentes e à competente direcção regional de agricultura as condições da concessão do auxílio.
 
-###### Art. 9.º Quando as obras comparticipadas ou financiadas não forem concluídas dentro do prazo que for estipulado, proceder-se-á de harmonia com as normas vigentes no SIFAP.
+Art. 9.º Quando as obras comparticipadas ou financiadas não forem concluídas dentro do prazo que for estipulado, proceder-se-á de harmonia com as normas vigentes no SIFAP.
 
-###### Art. 10.º As instalações eléctricas de serviço público comparticipadas nas condições previstas neste diploma serão estabelecidas pela entidade distribuidora de energia eléctrica que efectuar o fornecimento e ficarão integradas na sua rede.
+Art. 10.º As instalações eléctricas de serviço público comparticipadas nas condições previstas neste diploma serão estabelecidas pela entidade distribuidora de energia eléctrica que efectuar o fornecimento e ficarão integradas na sua rede.
 
-###### Art. 11.º Não poderão ser concedidos auxílios financeiros a obras já executadas ou em execução.
+Art. 11.º Não poderão ser concedidos auxílios financeiros a obras já executadas ou em execução.
 
 ### CAPÍTULO II — Limites do auxílio financeiro
 
-###### Art. 12.º Os quantitativos de auxílio financeiro a conceder sob a forma de comparticipação serão fixados dentro dos limites a seguir indicados:
+Art. 12.º Os quantitativos de auxílio financeiro a conceder sob a forma de comparticipação serão fixados dentro dos limites a seguir indicados:
 
 a) Linhas de alimentação em alta tensão - 60%;
 
@@ -186,45 +207,45 @@ f) Instalações eléctricas nas habitações - até 30%;
 
 g) Grupos electrobombas para utilização na exploração agrícola - até 30%.
 
-###### Art. 13.º A soma das comparticipações e dos empréstimos não poderá exceder 90% do respectivo orçamento aprovado, devendo o empréstimo ser apenas atribuído à parte não comparticipável das instalações eléctricas.
+Art. 13.º A soma das comparticipações e dos empréstimos não poderá exceder 90% do respectivo orçamento aprovado, devendo o empréstimo ser apenas atribuído à parte não comparticipável das instalações eléctricas.
 
-###### Art. 14.º - 1 - O prazo de amortização dos empréstimos será estabelecido para cada caso, considerando o interesse económico e social da obra de electrificação, as importâncias a despender e os recursos dos interessados, dentro dos limites previstos no SIFAP.
+Art. 14.º - 1 - O prazo de amortização dos empréstimos será estabelecido para cada caso, considerando o interesse económico e social da obra de electrificação, as importâncias a despender e os recursos dos interessados, dentro dos limites previstos no SIFAP.
 
 2 - O prazo da amortização para os empréstimos não poderá ultrapassar, quando concedidos a rendeiros, a duração do contrato de arrendamento.
 
-###### Art. 15.º Em caso de aprovação do pedido, a Direcção-Geral de Hidráulica e Engenharia Agrícola comunicará, por escrito, o montante da comparticipação à competente direcção regional de agricultura e ao interessado.
+Art. 15.º Em caso de aprovação do pedido, a Direcção-Geral de Hidráulica e Engenharia Agrícola comunicará, por escrito, o montante da comparticipação à competente direcção regional de agricultura e ao interessado.
 
-###### Art. 16.º - 1 - São causas de rescisão do contrato, sem prejuízo do disposto no artigo 9.º a alteração ou a redução da obra de electrificação sem prévia autorização da Direcção-Geral de Hidráulica e Engenharia Agrícola relativamente ao projecto aprovado.
+Art. 16.º - 1 - São causas de rescisão do contrato, sem prejuízo do disposto no artigo 9.º a alteração ou a redução da obra de electrificação sem prévia autorização da Direcção-Geral de Hidráulica e Engenharia Agrícola relativamente ao projecto aprovado.
 
 2 - A Direcção-Geral de Hidráulica e Engenharia Agrícola, em conjunto com a competente direcção regional de agricultura, deverá fiscalizar o andamento dos trabalhos das obras de electrificação e fazer o acompanhamento da implementação do projecto, sem prejuízo da competência da Direcção-Geral de Energia relativa às obras nas linhas de alimentação em alta tensão e do estabelecido nas normas do SIFAP.
 
-###### Art. 17.º Quando, a comparticipação seja concedida simultaneamente com o empréstimo, não deverá ser entregue qualquer fracção deste enquanto o montante da comparticipação não estiver totalmente investido na realização da obra.
+Art. 17.º Quando, a comparticipação seja concedida simultaneamente com o empréstimo, não deverá ser entregue qualquer fracção deste enquanto o montante da comparticipação não estiver totalmente investido na realização da obra.
 
 ### CAPÍTULO III — Suporte financeiro
 
-###### Art. 18.º As comparticipações relativas às linhas de alimentação em alta tensão das atribuições da Direcção-Geral de Energia serão suportadas pelas dotações que para o efeito forem inscritas no orçamento da referida Direcção-Geral ou por outras dotações que especificamente lhe forem consignadas.
+Art. 18.º As comparticipações relativas às linhas de alimentação em alta tensão das atribuições da Direcção-Geral de Energia serão suportadas pelas dotações que para o efeito forem inscritas no orçamento da referida Direcção-Geral ou por outras dotações que especificamente lhe forem consignadas.
 
-###### Art. 19.º As comparticipações, da competência da Direcção-Geral de Hidráulica e Engenharia Agrícola serão suportadas pelas dotações a inscrever em rubrica adequada no orçamento privativo da Direcção-Geral.
+Art. 19.º As comparticipações, da competência da Direcção-Geral de Hidráulica e Engenharia Agrícola serão suportadas pelas dotações a inscrever em rubrica adequada no orçamento privativo da Direcção-Geral.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 20.º Este diploma vigorará até ao ano económico de 1990, inclusive, podendo o regime nele fixado ser revisto e manter-se em vigor para além daquela data.
+Art. 20.º Este diploma vigorará até ao ano económico de 1990, inclusive, podendo o regime nele fixado ser revisto e manter-se em vigor para além daquela data.
 
-###### Art. 21.º O presente decreto-lei não se aplica às regiões autónomas.
+Art. 21.º O presente decreto-lei não se aplica às regiões autónomas.
 
-###### Art. 22.º São revogadas as disposições do [Decreto-Lei n.º 48337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48337-1968-234529), de 17 de Abril de 1968, e do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, que contrariem este diploma.
+Art. 22.º São revogadas as disposições do [Decreto-Lei n.º 48337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48337-1968-234529), de 17 de Abril de 1968, e do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, que contrariem este diploma.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão.
 
-**Promulgado em 21 de Junho de 1985.**
+Promulgado em 21 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 24 de Junho de 1985.**
+Referendado em 24 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Minuta de requerimento
 

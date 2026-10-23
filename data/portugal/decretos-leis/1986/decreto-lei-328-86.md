@@ -47,40 +47,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 169bfa4e10a8d56b477d7bf2fb03b7d846b169e4b903e474d8c700c68b0c6164
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aa8441a93e2cd8b88bed5134352003022af138c6947d72e2ac2103d5c295e45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Comissão para as Áreas de Interesse Turístico
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral do Turismo
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
+- Multa
+- Região de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:1511695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285370:por
+  label: "Alteradas a al. c) do nº1 do art. 2º, o art. 3º, as als. a) e e) do nº1 do art. 4º as als. b), c) e f) do nº1 do\
+    \ art. 5º, o nº3 do art. 15º, o nº3 do art. 16º, os nºs. 2 e 3 do art. 18º, o nº1 do art. 20º, os arts. 28º e 29º e as\
+    \ als. a) e c) do nº1 do art. 36º do presente diploma, pelo DEC LEI.149/88.27.04.1988.MCT, DR.IS [97] de 27.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-1988-285370
+  date: '1988-04-27'
+- type: amended_by
+  target: pt:dre:371671:por
+  label: "Transferidas para a Região de Turismo do Alto Minho (Costa Verde) as competências previstas nas al. c), d) e e)\
+    \ do nº 1 do art. 5,º pela PORT.391/88.1988.06.18.MCT DR.IS [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-1988-371671
+  date: '1988-06-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A AL B) DO NUM 1 DO ART 2 PELO DN 83/88 DE 10-OUT DR.IS [234] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-10-10'
+- type: amended_by
+  target: pt:dre:649365:por
+  label: "Alterado o art. 87º, aditados os nºs 12 e 13 ao art. 29º e renovados os prazos estabelecidos no nº 1 do art. 85º\
+    \ e nº 2 do art. 86º, no que respeita aos aldeamentos turísticos e aos conjuntos turísticos, pelo DEC LEI.235/91.27.06.1991.MCT,\
+    \ DR.IS-A [145] de 27.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-1991-649365
+  date: '1991-06-27'
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Repristinado, por recusa de ratificação do Dec Lei 327/95 de 05-Dez, pela RES.10/96.17.02.1996.AR, DR.IS-A [41]\
+    \ de 17.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-17'
+- type: amended_by
+  target: pt:dre:156002:por
+  label: "Mantido em vigor para os estabelecimentos de restauração e bebidas o disposto no art. 34º, na parte relativa aos\
+    \ estabelecimentos similares, pelo DEC LEI.168/97.04.07.1997.MECO, DR.IS-A [152] de 04.07.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-1997-156002
+  date: '1997-07-04'
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684616:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633726:por
+  label: "Revogado pelo DEC LEI.327/95.1995.12.05.MCT, DR.IS-A [280], sem prejuízo do disposto no nº 2 do art. 2º do referido\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1995-633726
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:156001:por
+  label: "Revogado, à excepção do art 34º, pelo DEC LEI.167/97.1997.07.04.MECO, DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1997-156001
+  date: '1997-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:41Z'
   warnings: []
   errors: []
 ---
@@ -139,9 +233,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Das atribuições e competência
 
-###### Artigo 1.º O presente diploma destina-se a estabelecer normas respeitantes ao aproveitamento dos recursos turísticos do País e ao exercício da indústria hoteleira e similar e do alojamento turístico em geral, em ordem a preservar e valorizar as características sócio-económicas locais e o meio ambiente e a garantir a qualidade da oferta turística nacional.
+Artigo 1.º O presente diploma destina-se a estabelecer normas respeitantes ao aproveitamento dos recursos turísticos do País e ao exercício da indústria hoteleira e similar e do alojamento turístico em geral, em ordem a preservar e valorizar as características sócio-económicas locais e o meio ambiente e a garantir a qualidade da oferta turística nacional.
 
-###### Art. 2.º - 1 - Para efeitos do estabelecido no artigo anterior, são atribuições da Presidência do Conselho de Ministros, pela Direcção-Geral do Turismo:
+Art. 2.º - 1 - Para efeitos do estabelecido no artigo anterior, são atribuições da Presidência do Conselho de Ministros, pela Direcção-Geral do Turismo:
 
 a) Fomentar e orientar o aproveitamento e a preservação dos recursos turísticos do País;
 
@@ -151,13 +245,13 @@ c) Dar apoio técnico às câmaras municipais e aos órgãos regionais de turism
 
 2 - Para o exercício das atribuições que lhe são cometidas nos termos do número anterior, e sempre que haja lugar à intervenção de outras entidades, a Direcção-Geral do Turismo pode promover reuniões com vista à apreciação e decisão conjunta dos assuntos pendentes, dar o seu parecer ou informar-se do andamento dos processos.
 
-###### Art. 3.º No âmbito das atribuições que lhe são cometidas nos termos da alínea a) do n.º 1 do artigo anterior, cabe à Presidência do Conselho de Ministros, pela Direcção-Geral do Turismo:
+Art. 3.º No âmbito das atribuições que lhe são cometidas nos termos da alínea a) do n.º 1 do artigo anterior, cabe à Presidência do Conselho de Ministros, pela Direcção-Geral do Turismo:
 
 a) Dar parecer sobre os planos regionais de ordenamento, os planos directores municipais e os planos de urbanização, sujeitos à ratificação ou aprovação do Governo;
 
 b) Propor a definição de áreas de aproveitamento e desenvolvimento turísticos.
 
-###### Art. 4.º - 1 - Para o desempenho das atribuições a que se refere a alínea b) do n.º 1 do artigo 2.º, cabe à Presidência do Conselho de Ministros, pela Direcção-Geral do Turismo:
+Art. 4.º - 1 - Para o desempenho das atribuições a que se refere a alínea b) do n.º 1 do artigo 2.º, cabe à Presidência do Conselho de Ministros, pela Direcção-Geral do Turismo:
 
 a) Aprovar, sem prejuízo da competência atribuída a outras entidades nos termos definidos na lei, localização e os projectos dos estabelecimentos hoteleiros e dos demais empreendimentos referidos nas alíneas seguintes;
 
@@ -187,7 +281,7 @@ m) Determinar o encerramento dos estabelecimentos abrangidos pelo presente diplo
 
 3 - Sempre que se trate dos estabelecimentos previstos na alínea b) do n.º 1 do artigo seguinte, da ordem de encerramento será dado conhecimento à câmara municipal do município onde se situar, bem como ao respectivo órgão regional de turismo.
 
-###### Art. 5.º - 1 - Compete às câmaras municipais, nos termos estabelecidos neste diploma e suas disposições regulamentares:
+Art. 5.º - 1 - Compete às câmaras municipais, nos termos estabelecidos neste diploma e suas disposições regulamentares:
 
 a) Dar parecer sobre a localização e os projectos dos empreendimentos referidos nas alíneas a) a d) do n.º 1 do artigo anterior, em conjunto com as demais entidades competentes;
 
@@ -203,7 +297,7 @@ f) Aplicar sanções em relação aos estabelecimentos previstos na anterior al�
 
 2 - Para efeitos do disposto no número anterior, aplicar-se-á às câmaras municipais o que neste diploma e suas disposições regulamentares se dispõe para a Direcção-Geral do Turismo, com as necessárias adaptações.
 
-###### Art. 6.º - 1 - A competência prevista nas alíneas c), d) e e) do n.º 1 do artigo anterior será exercida pelas comissões executivas das regiões de turismo, quando estas existirem e desde que estejam dotadas de meios adequados para esse fim.
+Art. 6.º - 1 - A competência prevista nas alíneas c), d) e e) do n.º 1 do artigo anterior será exercida pelas comissões executivas das regiões de turismo, quando estas existirem e desde que estejam dotadas de meios adequados para esse fim.
 
 2 - A transferência de competência far-se-á por portaria do membro do Governo competente, a solicitação do presidente da respectiva comissão regional.
 
@@ -211,11 +305,11 @@ f) Aplicar sanções em relação aos estabelecimentos previstos na anterior al�
 
 4 - É aplicável às comissões executivas das regiões de turismo o disposto neste diploma e suas disposições regulamentares para a Direcção-Geral do Turismo, com as necessárias adaptações.
 
-###### Art. 7.º - 1 - A competência definida no n.º 1 do artigo 4.º deste diploma poderá ser delegada, no todo ou em parte, nas câmaras municipais ou seus presidentes, desde que estas o solicitem e estejam dotadas dos meios adequados.
+Art. 7.º - 1 - A competência definida no n.º 1 do artigo 4.º deste diploma poderá ser delegada, no todo ou em parte, nas câmaras municipais ou seus presidentes, desde que estas o solicitem e estejam dotadas dos meios adequados.
 
 2 - Quando os órgãos regionais de turismo estejam dotados dos meios adequados, poderão ser delegadas neles algumas das competências definidas no n.º 1 do artigo 4.º deste diploma.
 
-###### Art. 8.º - 1 - Sempre que se verifique a transferência de competências prevista no n.º 1 do artigo anterior, os interessados deverão solicitar à Direcção-Geral do Turismo, directamente ou por intermédio da câmara municipal, o parecer prévio sobre:
+Art. 8.º - 1 - Sempre que se verifique a transferência de competências prevista no n.º 1 do artigo anterior, os interessados deverão solicitar à Direcção-Geral do Turismo, directamente ou por intermédio da câmara municipal, o parecer prévio sobre:
 
 a) As condições funcionais do projecto e a classificação máxima que ele permitirá atribuir ao estabelecimento;
 
@@ -229,7 +323,7 @@ c) As condições do empreendimento para ser qualificado de conjunto turístico 
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 9.º - 1 - Nenhum estabelecimento pode ser classificado em determinado grupo ou categoria sem satisfazer os requisitos mínimos estabelecidos para esse grupo ou categoria.
+Art. 9.º - 1 - Nenhum estabelecimento pode ser classificado em determinado grupo ou categoria sem satisfazer os requisitos mínimos estabelecidos para esse grupo ou categoria.
 
 2 - Sem prejuízo da observância do estabelecido no número anterior, na classificação de um estabelecimento deverá ainda ter-se em conta a ponderação equilibrada dos factores a seguir indicados, nos termos a estabelecer em regulamento:
 
@@ -241,7 +335,7 @@ c) A existência de equipamentos complementares.
 
 3 - Para além dos requisitos mínimos a que se refere o n.º 1, poderão ainda ser exigidos requisitos especiais para os estabelecimentos localizados nas áreas de interesse turístico a fixar no diploma que as criar.
 
-###### Art. 10.º - 1 - A classificação atribuída a um estabelecimento poderá se revista, a todo o tempo, oficiosamente, a solicitação do respectivo órgão regional de turismo ou a requerimento do interessado, verificada a alteração dos pressupostos que a determinaram.
+Art. 10.º - 1 - A classificação atribuída a um estabelecimento poderá se revista, a todo o tempo, oficiosamente, a solicitação do respectivo órgão regional de turismo ou a requerimento do interessado, verificada a alteração dos pressupostos que a determinaram.
 
 2 - A desclassificação terá lugar, independentemente da aplicação de qualquer sanção, quando, pelo deficiente estado de conservação das instalações ou reiteradas deficiências de serviço, o estabelecimento não corresponder ao grupo ou categoria em que estiver incluído.
 
@@ -249,7 +343,7 @@ c) A existência de equipamentos complementares.
 
 #### SECÇÃO II — Dos estabelecimentos hoteleiros
 
-###### Art. 11.º - 1 - São estabelecimentos hoteleiros os destinados a proporcionar alojamento, mediante remuneração, com ou sem fornecimento de refeições, e outros serviços acessórios ou de apoio.
+Art. 11.º - 1 - São estabelecimentos hoteleiros os destinados a proporcionar alojamento, mediante remuneração, com ou sem fornecimento de refeições, e outros serviços acessórios ou de apoio.
 
 2 - Não se consideram estabelecimentos hoteleiros:
 
@@ -263,7 +357,7 @@ c) Os conjuntos turísticos.
 
 4 - É vedado aos estabelecimentos hoteleiros alojar os seus clientes em casas particulares.
 
-###### Art. 12.º - 1 - Os estabelecimentos hoteleiros classificar-se-ão nos grupos a seguir definidos, com as categorias que forem estabelecidas em regulamento:
+Art. 12.º - 1 - Os estabelecimentos hoteleiros classificar-se-ão nos grupos a seguir definidos, com as categorias que forem estabelecidas em regulamento:
 
 Grupo 1 - hotéis;
 
@@ -287,7 +381,7 @@ Grupo 8 - hospedarias ou casas de hóspedes.
 
 #### SECÇÃO III — Dos estabelecimentos similares dos hoteleiros
 
-###### Art. 13.º - 1 - Consideram-se estabelecimentos similares dos hoteleiros, qualquer que seja a sua denominação, os destinados a proporcionar ao público, mediante remuneração, alimentos ou bebidas para serem consumidos no próprio estabelecimento.
+Art. 13.º - 1 - Consideram-se estabelecimentos similares dos hoteleiros, qualquer que seja a sua denominação, os destinados a proporcionar ao público, mediante remuneração, alimentos ou bebidas para serem consumidos no próprio estabelecimento.
 
 2 - Os estabelecimentos não compreendidos no número anterior em que seja exercida, ainda que acessoriamente, alguma das actividades a que se refere o mesmo número ficam, na parte respectiva, sujeitos às disposições deste diploma para os estabelecimentos similares, com as necessárias adaptações.
 
@@ -299,7 +393,7 @@ b) As cantinas ou refeitórios de organismos ou de empresas que forneçam alimen
 
 c) Em geral, quaisquer estabelecimentos de fim não lucrativo cuja possibilidade de frequência seja restrita a um grupo delimitado, com exclusão do público em geral.
 
-###### Art. 14.º - 1 - Os estabelecimentos definidos no n.º 1 do artigo anterior classificar-se-ão nos seguintes grupos, com as categorias estabelecidas em regulamento:
+Art. 14.º - 1 - Os estabelecimentos definidos no n.º 1 do artigo anterior classificar-se-ão nos seguintes grupos, com as categorias estabelecidas em regulamento:
 
 Grupo 1 - restaurantes;
 
@@ -313,7 +407,7 @@ Grupo 3 - salas de dança.
 
 4 - No grupo 3 incluem-se os estabelecimentos cuja actividade fundamental consiste em proporcionar locais para dançar, com ou sem espectáculo de variedades e com serviço de bebidas ou pequenas refeições, nomeadamente os denominados na prática internacional como «discotecas», «boîtes», «night-clubs», «cabarets» e «dancings».
 
-###### Art. 15.º - 1 - Quando no mesmo estabelecimento forem exercidas actividades correspondentes a mais de um grupo, aquele deverá satisfazer cumulativamente aos requisitos exigidos para cada grupo, com as necessárias adaptações.
+Art. 15.º - 1 - Quando no mesmo estabelecimento forem exercidas actividades correspondentes a mais de um grupo, aquele deverá satisfazer cumulativamente aos requisitos exigidos para cada grupo, com as necessárias adaptações.
 
 2 - Os estabelecimentos previstos no número anterior serão classificados de mistos, devendo a classificação atribuída ser unitária e corresponder à determida pela actividade principal, salvo o disposto no número seguinte.
 
@@ -323,7 +417,7 @@ Grupo 3 - salas de dança.
 
 #### SECÇÃO IV — Dos meios complementares do alojamento turístico e dos conjuntos turísticos
 
-###### Art. 16.º - 1 - Os meios complementares de alojamento turístico classificar-se-ão, nos termos regulamentares, em:
+Art. 16.º - 1 - Os meios complementares de alojamento turístico classificar-se-ão, nos termos regulamentares, em:
 
 a) Apartamentos turísticos;
 
@@ -345,7 +439,7 @@ c) Unidades de turismo rural ou agroturismo - as casas particulares, integradas 
 
 4 - A qualificação dos meios complementares de alojamento como turísticos pode ser feita oficiosamente ou a requerimento dos interessados, nos termos a estabelecer em regulamento.
 
-###### Art. 17.º - 1 - São qualificados de conjuntos turísticos os núcleos de instalações contíguas e funcionalmente interdependentes destinados, mediante remuneração:
+Art. 17.º - 1 - São qualificados de conjuntos turísticos os núcleos de instalações contíguas e funcionalmente interdependentes destinados, mediante remuneração:
 
 a) À prática de desportos ou a outras formas de entretenimento que, por si, constituem motivo de atracção turística, salvo se pertencerem a entidades oficiais, a associações desportivas ou a outras e o seu acesso não for facultado ao público em geral;
 
@@ -353,7 +447,7 @@ b) A proporcionar aos turistas qualquer forma de alojamento, ainda que não hote
 
 2 - É aplicável a estes empreendimentos o disposto no n.º 4 do artigo anterior.
 
-###### Art. 18.º - 1 - Para além dos empreendimentos referidos nos artigos 16.º e 17.º, poderão ainda ser declarados de interesse para o turismo os alojamentos particulares, nos termos a estabelecer em regulamento.
+Art. 18.º - 1 - Para além dos empreendimentos referidos nos artigos 16.º e 17.º, poderão ainda ser declarados de interesse para o turismo os alojamentos particulares, nos termos a estabelecer em regulamento.
 
 2 - Para este efeito, entendem-se por alojamentos particulares os quartos, moradias ou apartamentos que sejam ocasionalmente utilizados por turistas, mediante remuneração, e sem obrigatoriedade da prestação de qualquer serviço.
 
@@ -363,13 +457,13 @@ b) A proporcionar aos turistas qualquer forma de alojamento, ainda que não hote
 
 ### CAPÍTULO III — Da construção e instalação dos empreendimentos
 
-###### Art. 19.º - 1 - A construção e instalação dos empreendimentos abrangidos pelo presente diploma ficam sujeitas ao disposto no presente diploma e suas disposições regulamentares.
+Art. 19.º - 1 - A construção e instalação dos empreendimentos abrangidos pelo presente diploma ficam sujeitas ao disposto no presente diploma e suas disposições regulamentares.
 
 2 - As actividades hoteleiras e similares de hoteleiras e de alojamento turístico só podem ser exploradas comercialmente nos estabelecimentos instalados nos termos do presente diploma e suas disposições regulamentares.
 
 3 - Do mesmo modo, só eles poderão constar das campanhas de promoção organizadas ou patrocinadas pelos serviços de turismo, e bem assim beneficiar da declaração de utilidade turística, de relevância turística e de assistência financeira do Fundo de Turismo.
 
-###### Art. 20.º - 1 - Os processos respeitantes à construção e instalação dos empreendimentos designados no n.º 1 do artigo anterior serão organizados:
+Art. 20.º - 1 - Os processos respeitantes à construção e instalação dos empreendimentos designados no n.º 1 do artigo anterior serão organizados:
 
 a) Pela Direcção-Geral do Turismo - os referentes aos estabelecimentos hoteleiros, conjuntos turísticos, meios complementares de alojamento turístico e empreendimentos de animação, culturais e desportivos de interesse para o turismo;
 
@@ -377,23 +471,23 @@ b) Pelas câmaras municipais - os referentes aos estabelecimentos similares dos 
 
 2 - É aplicável aos projectos dos estabelecimentos referidos na alínea a) do número anterior o disposto no [Decreto n.º 73/73](https://diariodarepublica.pt/dr/detalhe/decreto/73-1973-684616), de 28 de Fevereiro.
 
-###### Art. 21.º - 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, os interessados apresentarão na Direcção-Geral do Turismo os respectivos requerimentos, acompanhados dos elementos exigidos nos regulamentos do presente diploma e demais legislação aplicável, designadamente o parecer previsto no n.º 2 do artigo 14.º do [Decreto-Lei n.º 451/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1982-377482), de 16 de Novembro.
+Art. 21.º - 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, os interessados apresentarão na Direcção-Geral do Turismo os respectivos requerimentos, acompanhados dos elementos exigidos nos regulamentos do presente diploma e demais legislação aplicável, designadamente o parecer previsto no n.º 2 do artigo 14.º do [Decreto-Lei n.º 451/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1982-377482), de 16 de Novembro.
 
 2 - No prazo estabelecido em regulamento, a Direcção-Geral do Turismo poderá solicitar aos interessados, por uma única vez, a apresentação de outros elementos que considere necessários para poder apreciar o requerido.
 
 3 - A Direcção-Geral do Turismo deverá indeferir o requerido desde que os interessados não apresentem os elementos solicitados nos termos do número anterior.
 
-###### Art. 22.º - 1 - Qualquer interessado poderá requerer, por escrito, à Direcção-Geral do Turismo informação sobre a possibilidade de princípio de construir ou instalar algum dos empreendimentos referidos na alínea a) do n.º 1 do artigo 20.º e respectivos condicionamentos, nos termos, prazos e condições a estabelecer em regulamento.
+Art. 22.º - 1 - Qualquer interessado poderá requerer, por escrito, à Direcção-Geral do Turismo informação sobre a possibilidade de princípio de construir ou instalar algum dos empreendimentos referidos na alínea a) do n.º 1 do artigo 20.º e respectivos condicionamentos, nos termos, prazos e condições a estabelecer em regulamento.
 
 2 - É aplicável neste caso o disposto nos n.os 2 e 3 do artigo 21.º
 
 3 - A informação fornecida nos termos deste artigo não é constitutiva de direitos, nem geradora de expectativas susceptíveis de protecção jurídica.
 
-###### Art. 23.º - 1 - A Direcção-Geral do Turismo deverá comunicar ao interessado a decisão tomada quanto à localização, anteprojecto e projecto do empreendimento, nos termos prazos e condições a definir em regulamento.
+Art. 23.º - 1 - A Direcção-Geral do Turismo deverá comunicar ao interessado a decisão tomada quanto à localização, anteprojecto e projecto do empreendimento, nos termos prazos e condições a definir em regulamento.
 
 2 - Na falta de decisão dentro dos prazos que forem fixados nos termos do n.º 1 deste artigo, entender-se-á que nada há a opor ao requerido.
 
-###### Art. 24.º - 1 - Compete à Direcção-Geral do Turismo, mediante parecer favorável da câmara municipal do respectivo concelho, a aprovação da localização, do anteprojecto e projecto dos empreendimentos referidos na alínea a) do n.º 1 do artigo 20.º, salvo se o empreendimento se situar numa área de interesse turístico ou nos casos previstos no artigo 28.º
+Art. 24.º - 1 - Compete à Direcção-Geral do Turismo, mediante parecer favorável da câmara municipal do respectivo concelho, a aprovação da localização, do anteprojecto e projecto dos empreendimentos referidos na alínea a) do n.º 1 do artigo 20.º, salvo se o empreendimento se situar numa área de interesse turístico ou nos casos previstos no artigo 28.º
 
 2 - O parecer previsto no número anterior pode estabelecer condicionamentos de acordo com a lei.
 
@@ -405,7 +499,7 @@ b) Pelas câmaras municipais - os referentes aos estabelecimentos similares dos 
 
 6 - A aprovação da localização dos estabelecimentos hoteleiros e similares nos parques nacionais e naturais, reservas e áreas classificadas deverá obter prévio parecer dos respectivos órgãos gestores ou, na sua falta, do Serviço Nacional de Parques, Reservas e Conservação da Natureza.
 
-###### Art. 25.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, a Direcção-Geral do Turismo remeterá à câmara municipal competente os elementos apresentados, para obtenção do respectivo parecer.
+Art. 25.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, a Direcção-Geral do Turismo remeterá à câmara municipal competente os elementos apresentados, para obtenção do respectivo parecer.
 
 2 - A câmara municipal deverá pronunciar-se, por escrito, nos prazos a estabelecer em regulamento, entendendo-se que nada tem a opor ao requerido se o não fizer.
 
@@ -415,7 +509,7 @@ b) Pelas câmaras municipais - os referentes aos estabelecimentos similares dos 
 
 5 - As decisões desfavoráveis têm de ser fundamentadas.
 
-###### Art. 26.º A decisão desfavorável da câmara municipal pode basear-se, nomeadamente, em qualquer dos seguintes fundamentos:
+Art. 26.º A decisão desfavorável da câmara municipal pode basear-se, nomeadamente, em qualquer dos seguintes fundamentos:
 
 a) Inconformidade do requerido com plano director municipal, ou com o plano de urbanização geral ou parcial, ou com o respectivo regulamento ou normas provisórias legalmente aprovadas, ou com os planos das áreas de desenvolvimento urbano prioritário ou construção prioritária e com os planos regionais de ordenamento do território que estiverem aprovados;
 
@@ -425,7 +519,7 @@ c) Alteração de construções ou de elementos naturais classificados;
 
 d) Falta de licença de loteamento ou inconformidade com o loteamento aprovado, excepto se se tratar de aldeamento ou conjunto turístico.
 
-###### Art. 27.º A Direcção-Geral do Turismo poderá basear o indeferimento dos pedidos de instalação com fundamento, nomeadamente:
+Art. 27.º A Direcção-Geral do Turismo poderá basear o indeferimento dos pedidos de instalação com fundamento, nomeadamente:
 
 a) Na existência de indústrias ou actividades insalubres, poluentes, ruidosas ou incómodas nas proximidades do empreendimento ou no facto de estar prevista a sua existência no plano regional de ordenamento, no plano director municipal ou no respectivo plano de urbanização aprovados;
 
@@ -441,7 +535,7 @@ f) Na proximidade de estruturas urbanas degradadas;
 
 g) Na inadequação do local à instalação e funcionamento do empreendimento pretendido.
 
-###### Art. 28.º - 1 - Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 451/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1982-377482), de 16 de Novembro, a localização dos empreendimentos a construir de novo será apreciada por uma comissão especial de apreciação, mediante a análise das áreas de implantação e das volumetrias previstas, quando se verificar alguma das seguintes situações:
+Art. 28.º - 1 - Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 451/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1982-377482), de 16 de Novembro, a localização dos empreendimentos a construir de novo será apreciada por uma comissão especial de apreciação, mediante a análise das áreas de implantação e das volumetrias previstas, quando se verificar alguma das seguintes situações:
 
 a) Não estar o respectivo local abrangido pelo plano regional de ordenamento do território, pelo plano director municipal ou por plano de urbanização geral, parcial ou de pormenor plenamente eficaz;
 
@@ -455,7 +549,7 @@ b) Não se situar o local destinado ao empreendimento em área de desenvolviment
 
 5 - Se alguma entidade, serviço ou organismo regularmente convocado não comparecer às reuniões da comissão, não se pronunciar ou o seu representante não tiver poderes de decisão, entender-se-á que dá a sua aprovação tácita ao requerido.
 
-###### Art. 29.º - 1 - A comissão a que se refere o n.º 1 do artigo anterior funcionará junto da Direcção-Geral do Turismo, mesmo nos casos a que se refere o n.º 1 do artigo 7.º, e será presidida pelo seu representante.
+Art. 29.º - 1 - A comissão a que se refere o n.º 1 do artigo anterior funcionará junto da Direcção-Geral do Turismo, mesmo nos casos a que se refere o n.º 1 do artigo 7.º, e será presidida pelo seu representante.
 
 2 - As decisões da comissão são vinculativas e consubstanciarão os pareceres das entidades representadas, segundo a respectiva esfera de competência, podendo estabelecer condicionamentos à realização do empreendimento.
 
@@ -469,7 +563,7 @@ b) Não se situar o local destinado ao empreendimento em área de desenvolviment
 
 7 - Das reuniões da comissão serão elaboradas actas, das quais constarão as posições de cada membro e a decisão tomada.
 
-###### Art. 30.º - 1 - A aprovação dos empreendimentos será sempre concedida pela Direcção-Geral do Turismo, de acordo com o disposto no artigo 24.º e com a decisão da comissão a que se refere o n.º 1 do artigo 28.º
+Art. 30.º - 1 - A aprovação dos empreendimentos será sempre concedida pela Direcção-Geral do Turismo, de acordo com o disposto no artigo 24.º e com a decisão da comissão a que se refere o n.º 1 do artigo 28.º
 
 2 - Da comunicação da Direcção-Geral do Turismo deverão constar sempre os condicionamentos a que a aprovação estiver sujeita, bem como os dados necessários à concretização do eventual destaque das parcelas que puderem ser alienadas, de acordo com o regime próprio do empreendimento.
 
@@ -477,7 +571,7 @@ b) Não se situar o local destinado ao empreendimento em área de desenvolviment
 
 4 - As câmaras municipais não podem recusar a emissão do alvará de licença de construção desde que os respectivos projectos se mostrem aprovados nos termos do presente decreto-lei, satisfaçam a demais legislação em vigor e estejam pagas as taxas devidas.
 
-###### Art. 31.º - 1 - A Direcção-Geral do Turismo fixará, aquando da aprovação dos projectos de novos empreendimentos, o prazo em que deve ser iniciada a respectiva construção, caducando essa aprovação se o prazo não for respeitado.
+Art. 31.º - 1 - A Direcção-Geral do Turismo fixará, aquando da aprovação dos projectos de novos empreendimentos, o prazo em que deve ser iniciada a respectiva construção, caducando essa aprovação se o prazo não for respeitado.
 
 2 - Na fixação do prazo ter-se-á em conta, designadamente:
 
@@ -487,21 +581,21 @@ b) O montante previsto do investimento global necessário para a concretização
 
 c) As dificuldades específicas de execução do projecto derivadas da localização do empreendimento ou das suas características especiais.
 
-###### Art. 32.º - 1 - A execução de quaisquer obras que não sejam de simples conservação, nos estabelecimentos abrangidos pelo presente diploma, está sujeita, com as necessárias adaptações, ao disposto neste capítulo e respectivas disposições complementares.
+Art. 32.º - 1 - A execução de quaisquer obras que não sejam de simples conservação, nos estabelecimentos abrangidos pelo presente diploma, está sujeita, com as necessárias adaptações, ao disposto neste capítulo e respectivas disposições complementares.
 
 2 - Se as obras se destinarem a obter a reclassificação do estabelecimento, o interessado poderá obter previamente o parecer da Direcção-Geral do Turismo sobre essa pretensão.
 
-###### Art. 33.º Se os processos forem organizados pelas câmaras municipais no âmbito da competência que lhes é atribuída pelo presente diploma, ser-lhes-á aplicável, com as necessárias adaptações, o disposto neste capítulo e respectivas disposições regulamentares.
+Art. 33.º Se os processos forem organizados pelas câmaras municipais no âmbito da competência que lhes é atribuída pelo presente diploma, ser-lhes-á aplicável, com as necessárias adaptações, o disposto neste capítulo e respectivas disposições regulamentares.
 
-###### Art. 34.º - 1 - Nos prédios ou parte dos prédios para o exercício da indústria hoteleira ou similar podem ser feitas, independentemente de autorização do locador, as obras aprovadas nos termos deste diploma que interessem directamente à exploração da indústria e consistam em meras benfeitorias.
+Art. 34.º - 1 - Nos prédios ou parte dos prédios para o exercício da indústria hoteleira ou similar podem ser feitas, independentemente de autorização do locador, as obras aprovadas nos termos deste diploma que interessem directamente à exploração da indústria e consistam em meras benfeitorias.
 
 2 - Consideram-se benfeitorias, para efeitos do estabelecido no número anterior, as instalações de água, gás, aquecimento, condicionamento de ar, isolamento acústico, esgotos, eléctricas, telefónicas, televisão, sanitárias, contra incêndios ou de energias renováveis, bem como a instalação de elevadores, monta-cargas ou monta-pratos.
 
 ### CAPÍTULO IV — Do funcionamento dos estabelecimentos
 
-###### Art. 35.º Os processos respeitantes à classificação, disciplina e funcionamento dos estabelecimentos abrangidos pelo presente diploma serão organizados pela Direcção-Geral do Turismo, com excepção dos referidos na alínea b) do n.º 1 do artigo 5.º, que são organizados pela câmara municipal do respectivo concelho.
+Art. 35.º Os processos respeitantes à classificação, disciplina e funcionamento dos estabelecimentos abrangidos pelo presente diploma serão organizados pela Direcção-Geral do Turismo, com excepção dos referidos na alínea b) do n.º 1 do artigo 5.º, que são organizados pela câmara municipal do respectivo concelho.
 
-###### Art. 36.º - 1 - Nenhum dos estabelecimentos abrangidos pelo presente diploma poderá iniciar a sua exploração sem prévia autorização, precedida de vistoria, das entidades a seguir indicadas, consoante o caso:
+Art. 36.º - 1 - Nenhum dos estabelecimentos abrangidos pelo presente diploma poderá iniciar a sua exploração sem prévia autorização, precedida de vistoria, das entidades a seguir indicadas, consoante o caso:
 
 a) Da Direcção-Geral do Turismo, quando se tratar de estabelecimentos hoteleiros, dos meios complementares de alojamento turístico, de conjuntos turísticos e dos empreendimentos de animação, culturais e desportivos declarados de interesse turístico;
 
@@ -513,19 +607,19 @@ d) Da Direcção-Geral dos Espectáculos e do Direito de Autor, relativamente ao
 
 2 - Relativamente à Direcção-Geral do Turismo, a vistoria prevista no número anterior terá por fim verificar a conformidade do estabelecimento com o projecto aprovado e atribuir-lhe a respectiva classificação.
 
-###### Art. 37.º - 1 - A autorização de abertura dos estabelecimentos abrangidos pelo presente diploma constará de alvará a emitir pelo governo civil do distrito onde se situar, nos termos a definir em regulamento.
+Art. 37.º - 1 - A autorização de abertura dos estabelecimentos abrangidos pelo presente diploma constará de alvará a emitir pelo governo civil do distrito onde se situar, nos termos a definir em regulamento.
 
 2 - O alvará previsto no número anterior substitui todas as licenças e alvarás que eram exigidos para efeitos da exploração destes estabelecimentos até à entrada em vigor do presente diploma.
 
 3 - O alvará a que se refere o presente artigo é independente e não substitui a licença municipal de utilização dos edifícios onde se encontra instalado o estabelecimento.
 
-###### Art. 38.º - 1 - Para efeitos do estabelecido no artigo anterior, compete aos governos civis a organização dos processos de autorização de abertura dos estabelecimentos, ainda que haja lugar à intervenção de outras entidades ou serviços, nos termos, prazos e condições a estabelecer em regulamento.
+Art. 38.º - 1 - Para efeitos do estabelecido no artigo anterior, compete aos governos civis a organização dos processos de autorização de abertura dos estabelecimentos, ainda que haja lugar à intervenção de outras entidades ou serviços, nos termos, prazos e condições a estabelecer em regulamento.
 
 2 - As entidades consultadas deverão pronunciar-se, por escrito, no prazo máximo de 30 dias contado da data da recepção do processo, entendendo-se tacitamente concedidas as respectivas autorizações ou licenças se o não fizerem dentro daquele prazo.
 
 3 - As decisões das entidades consultadas, que são vinculativas, podem sujeitar a respectiva autorização ou licença à satisfação de determinados condicionamentos não impeditivos da emissão do alvará de abertura, fixando o prazo para o seu cumprimento.
 
-###### Art. 39.º - 1 - Nos cinco dias úteis seguintes à recepção da última das comunicações das entidades consultadas ou do decurso do prazo fixado no n.º 2 do artigo anterior, se elas nada disserem, o governo civil emitirá o respectivo alvará de abertura ou notificará o interessado, em despacho fundamentado, do indeferimento do pedido.
+Art. 39.º - 1 - Nos cinco dias úteis seguintes à recepção da última das comunicações das entidades consultadas ou do decurso do prazo fixado no n.º 2 do artigo anterior, se elas nada disserem, o governo civil emitirá o respectivo alvará de abertura ou notificará o interessado, em despacho fundamentado, do indeferimento do pedido.
 
 2 - A falta de resolução no prazo fixado no número anterior interpreta-se, para todos os efeitos, como aprovação do pedido.
 
@@ -535,23 +629,23 @@ d) Da Direcção-Geral dos Espectáculos e do Direito de Autor, relativamente ao
 
 5 - No caso previsto no n.º 3 do artigo anterior, o alvará terá carácter provisório enquanto a entidade que fixou os condicionamentos não comunicar ao governo civil que os mesmos foram cumpridos.
 
-###### Art. 40.º - 1 - As taxas devidas pela emissão do alvará de abertura serão fixadas por portaria conjunta do Ministro da Administração Interna e do membro do Governo competente.
+Art. 40.º - 1 - As taxas devidas pela emissão do alvará de abertura serão fixadas por portaria conjunta do Ministro da Administração Interna e do membro do Governo competente.
 
 2 - Enquanto não for publicada a portaria prevista no número anterior, os governos civis cobrarão, para além das que lhes são devidas, as taxas que, nesta data, são recebidas pela Direcção-Geral do Turismo, pelas câmaras municipais e pela Direcção-Geral dos Espectáculos, remetendo-as a estas entidades até ao dia 10 do mês seguinte àquele em que foram recebidas.
 
-###### Art. 41.º - 1 - Às unidades de turismo de habitação, de turismo rural ou agroturismo não é exigível o alvará de abertura previsto no artigo 37.º deste diploma, nem qualquer outra licença policial, sem prejuízo do cumprimento da obrigação de registo dos hóspedes e posterior comunicação às entidades competentes.
+Art. 41.º - 1 - Às unidades de turismo de habitação, de turismo rural ou agroturismo não é exigível o alvará de abertura previsto no artigo 37.º deste diploma, nem qualquer outra licença policial, sem prejuízo do cumprimento da obrigação de registo dos hóspedes e posterior comunicação às entidades competentes.
 
 2 - A Direcção-Geral do Turismo dará conhecimento ao governo civil e à câmara municipal das unidades referidas no número anterior autorizadas.
 
-###### Art. 42.º - 1 - Os estabelecimentos abrangidos pelo presente diploma não devem apresentar deficiências susceptíveis de pôr em perigo a saúde dos consumidores ou o prestígio do turismo nacional.
+Art. 42.º - 1 - Os estabelecimentos abrangidos pelo presente diploma não devem apresentar deficiências susceptíveis de pôr em perigo a saúde dos consumidores ou o prestígio do turismo nacional.
 
 2 - As deficiências susceptíveis de pôr em perigo a saúde dos consumidores serão verificadas pelos serviços competentes do Ministério da Saúde.
 
 3 - Os estabelecimentos abrangidos pelo presente diploma devem estar dotados dos meios adequados para prevenção do risco contra incêndios, de acordo com as normas a estabelecer em regulamento.
 
-###### Art. 43.º A Direcção-Geral do Turismo poderá, a qualquer tempo, realizar as vistorias e inspecções que tiver por convenientes a todos os empreendimentos abrangidos pelo presente diploma.
+Art. 43.º A Direcção-Geral do Turismo poderá, a qualquer tempo, realizar as vistorias e inspecções que tiver por convenientes a todos os empreendimentos abrangidos pelo presente diploma.
 
-###### Art. 44.º - 1 - A exploração de cada estabelecimento deve ser globalmente realizada por uma única entidade, que é a primeira responsável pelo seu funcionamento, bem como pelo cumprimento das normas reguladoras da actividade.
+Art. 44.º - 1 - A exploração de cada estabelecimento deve ser globalmente realizada por uma única entidade, que é a primeira responsável pelo seu funcionamento, bem como pelo cumprimento das normas reguladoras da actividade.
 
 2 - A unidade de exploração do estabelecimento não é impeditiva de a sua propriedade pertencer a uma pluralidade de pessoas.
 
@@ -569,7 +663,7 @@ d) Vencimento imediato dos créditos concedidos para a construção do empreendi
 
 5 - Para além do estabelecido no número anterior, a câmara municipal deverá retirar licença de utilização ao edifício ou edifícios abrangidos, mediante notificação da Direcção-Geral do Turismo.
 
-###### Art. 45.º - 1 - Sempre que um estabelecimento seja propriedade de várias entidades ou pessoas, estas serão responsáveis, na proporção correspondente ao valor da sua fracção imobiliária ou unidade de alojamento, pela manutenção e conservação de todas as estruturas e instalações comuns necessárias ao seu funcionamento, nos termos estabelecidos neste diploma e suas disposições regulamentares.
+Art. 45.º - 1 - Sempre que um estabelecimento seja propriedade de várias entidades ou pessoas, estas serão responsáveis, na proporção correspondente ao valor da sua fracção imobiliária ou unidade de alojamento, pela manutenção e conservação de todas as estruturas e instalações comuns necessárias ao seu funcionamento, nos termos estabelecidos neste diploma e suas disposições regulamentares.
 
 2 - Tratando-se de empreendimentos que se desenvolvam em superfície, a obrigação prevista no número anterior compreende a conservação e manutenção das suas instalações, equipamentos e serviços de utilização turística considerados comuns, nos termos fixados neste diploma e suas disposições regulamentares.
 
@@ -587,7 +681,7 @@ d) Vencimento imediato dos créditos concedidos para a construção do empreendi
 
 9 - O disposto no número anterior não é aplicável às taxas municipais devidas por aquelas infra-estruturas, cujo pagamento é devido pelos proprietários nos termos do n.º 3 deste artigo.
 
-###### Art. 46.º - 1 - Às relações entre os proprietários das várias fracções imobiliárias ou unidades de alojamento dos empreendimentos a que se refere o artigo 45.º é aplicável o regime da propriedade horizontal, com as necessárias adaptações resultantes das características do empreendimento e do disposto no presente diploma e suas disposições regulamentares.
+Art. 46.º - 1 - Às relações entre os proprietários das várias fracções imobiliárias ou unidades de alojamento dos empreendimentos a que se refere o artigo 45.º é aplicável o regime da propriedade horizontal, com as necessárias adaptações resultantes das características do empreendimento e do disposto no presente diploma e suas disposições regulamentares.
 
 2 - As funções que cabem ao administrador do condomínio nos termos da lei geral serão exercidas nestes empreendimentos pela respectiva entidade exploradora, salvo o estabelecido no número seguinte.
 
@@ -627,7 +721,7 @@ b) As partes comuns do empreendimento.
 
 13 - A existência do título a que se refere o n.º 6 deste artigo deve ser obrigatoriamente mencionada nos contratos de transmissão, sob qualquer forma, de direitos relativos às unidades e fracções que integrem o empreendimento, sob pena de poderem ser declarados nulos a requerimento dos adquirentes.
 
-###### Art. 47.º O proprietário de qualquer unidade de alojamento ou fracção imobiliária, quer esteja ou não afecta à exploração turística, fica obrigado a:
+Art. 47.º O proprietário de qualquer unidade de alojamento ou fracção imobiliária, quer esteja ou não afecta à exploração turística, fica obrigado a:
 
 a) Não alterar substancialmente a sua estrutura externa ou o seu aspecto estético exterior, de forma a não afectar a unidade do empreendimento;
 
@@ -641,11 +735,11 @@ e) Efectuar a sua conservação;
 
 f) Não praticar quaisquer actos ou realizar obras que sejam susceptíveis de afectar a continuidade e unidade urbanística do empreendimento ou prejudicar a implantação dos respectivos acessos.
 
-###### Art. 48.º - 1 - Os conflitos de interesses entre os proprietários das diversas fracções imobiliárias ou unidades de alojamento que integram os estabelecimentos e entre estes e a entidade exploradora poderão ser apreciados e julgados por um tribunal arbitral, de acordo com o disposto nos artigos 1508.º e seguintes do Código de Processo Civil e demais legislação aplicável.
+Art. 48.º - 1 - Os conflitos de interesses entre os proprietários das diversas fracções imobiliárias ou unidades de alojamento que integram os estabelecimentos e entre estes e a entidade exploradora poderão ser apreciados e julgados por um tribunal arbitral, de acordo com o disposto nos artigos 1508.º e seguintes do Código de Processo Civil e demais legislação aplicável.
 
 2 - Para efeitos do disposto no número anterior, qualquer interessado poderá requerer a constituição do tribunal arbitral, de acordo com o estabelecido nas disposições legais aplicáveis.
 
-###### Art. 49.º - 1 - Nos nomes dos estabelecimentos hoteleiros, dos conjuntos turísticos e dos meios complementares de alojamento deverá ser utilizada a língua portuguesa, só podendo ser autorizado o emprego de palavras estrangeiras quando os usos internacionais ou razões de ordem turística o justificarem.
+Art. 49.º - 1 - Nos nomes dos estabelecimentos hoteleiros, dos conjuntos turísticos e dos meios complementares de alojamento deverá ser utilizada a língua portuguesa, só podendo ser autorizado o emprego de palavras estrangeiras quando os usos internacionais ou razões de ordem turística o justificarem.
 
 2 - O termo «turismo» e seus derivados só podem ser usados nos nomes ou outras designações dos estabelecimentos abrangidos pelo presente diploma.
 
@@ -653,17 +747,17 @@ f) Não praticar quaisquer actos ou realizar obras que sejam susceptíveis de af
 
 4 - O disposto neste artigo não se aplica aos nomes já autorizados.
 
-###### Art. 50.º - 1 - Os estabelecimentos abrangidos pelo presente diploma não poderão usar nomes iguais aos de outros já existentes ou por tal forma semelhantes que possam induzir em erro, salvo se estiverem integrados na mesma organização.
+Art. 50.º - 1 - Os estabelecimentos abrangidos pelo presente diploma não poderão usar nomes iguais aos de outros já existentes ou por tal forma semelhantes que possam induzir em erro, salvo se estiverem integrados na mesma organização.
 
 2 - Para efeitos do disposto no número anterior, a Direcção-Geral do Turismo poderá determinar a alteração do nome do estabelecimento que abrir em último lugar, sem prejuízo dos direitos resultantes da propriedade industrial, nos termos do respectivo código.
 
-###### Art. 51.º - 1 - Os estabelecimentos hoteleiros e similares e os meios complementares de alojamento turístico usarão obrigatoriamente no seu nome, de acordo com a classificação que lhes for atribuída, a nomenclatura estabelecida no n.º 1 do artigo 12.º, no n.º 1 do artigo 14.º e no n.º 1 do artigo 16.º, e só eles a poderão usar.
+Art. 51.º - 1 - Os estabelecimentos hoteleiros e similares e os meios complementares de alojamento turístico usarão obrigatoriamente no seu nome, de acordo com a classificação que lhes for atribuída, a nomenclatura estabelecida no n.º 1 do artigo 12.º, no n.º 1 do artigo 14.º e no n.º 1 do artigo 16.º, e só eles a poderão usar.
 
 2 - Do mesmo modo, só poderão utilizar a expressão «conjuntos turísticos» os empreendimentos qualificados como tal.
 
 3 - Nenhum estabelecimento poderá incluir no seu nome ou usar por qualquer forma como designação expressões que não correspondam aos serviços nele prestados.
 
-###### Art. 52.º - 1 - Os estabelecimentos hoteleiros e similares, os conjuntos turísticos, os meios complementares de alojamento turístico e os empreendimentos de animação, culturais e desportivos declarados de interesse para o turismo serão considerados como públicos, sendo livre o seu acesso sem outra restrição que não seja a de a clientela se sujeitar ao disposto no presente diploma e suas disposições regulamentares, bem como às demais disposições legais.
+Art. 52.º - 1 - Os estabelecimentos hoteleiros e similares, os conjuntos turísticos, os meios complementares de alojamento turístico e os empreendimentos de animação, culturais e desportivos declarados de interesse para o turismo serão considerados como públicos, sendo livre o seu acesso sem outra restrição que não seja a de a clientela se sujeitar ao disposto no presente diploma e suas disposições regulamentares, bem como às demais disposições legais.
 
 2 - Poderá ser recusado o acesso ou a permanência nos estabelecimentos ou empreendimentos referidos no número anterior a todas as pessoas que perturbem ou possam perturbar a actividade normal dos mesmos e os seus utentes, designadamente àqueles que:
 
@@ -683,17 +777,17 @@ g) Sejam acompanhados de animais ou portadores de armas de fogo, produtos tóxic
 
 3 - Exceptuam-se do disposto no n.º 1, mediante autorização da Direcção-Geral do Turismo, os estabelecimentos, ou suas partes individualizadas, destinados apenas aos associados ou beneficiários das empresas proprietárias ou exploradoras.
 
-###### Art. 53.º O regime de preços a praticar nos estabelecimentos abrangidos pelo presente diploma será regulado por legislação especial.
+Art. 53.º O regime de preços a praticar nos estabelecimentos abrangidos pelo presente diploma será regulado por legislação especial.
 
-###### Art. 54.º Os estabelecimentos hoteleiros deverão dispor de um director, nos termos a estabelecer em regulamento.
+Art. 54.º Os estabelecimentos hoteleiros deverão dispor de um director, nos termos a estabelecer em regulamento.
 
-###### Art. 55.º - 1 - O encerramento dos estabelecimentos abrangidos pelo presente diploma, ou de partes individualizadas deles, será ordenado pelos governos civis dos distritos onde se situarem, mediante comunicação fundamentada da Direcção-Geral do Turismo ou da câmara municipal respectiva.
+Art. 55.º - 1 - O encerramento dos estabelecimentos abrangidos pelo presente diploma, ou de partes individualizadas deles, será ordenado pelos governos civis dos distritos onde se situarem, mediante comunicação fundamentada da Direcção-Geral do Turismo ou da câmara municipal respectiva.
 
 2 - Quando se trate de estabelecimentos, ou de partes individualizadas, cujo licenciamento seja também da competência da Direcção-Geral dos Espectáculos e do Direito de Autor, o seu encerramento poderá ser realizado ainda mediante comunicação fundamentada desta Direcção-Geral.
 
 3 - O encerramento do estabelecimento determinará a cassação do respectivo alvará de abertura.
 
-###### Art. 56.º - 1 - A Direcção-Geral do Turismo cobrará das empresas as importâncias indevidamente recebidas dos clientes e providenciará no sentido da sua restituição aos interessados.
+Art. 56.º - 1 - A Direcção-Geral do Turismo cobrará das empresas as importâncias indevidamente recebidas dos clientes e providenciará no sentido da sua restituição aos interessados.
 
 2 - Quando a restituição for inviável por facto imputável ao interessado, a importância reverterá para o Fundo de Turismo.
 
@@ -701,15 +795,15 @@ g) Sejam acompanhados de animais ou portadores de armas de fogo, produtos tóxic
 
 ### CAPÍTULO V — Das áreas turísticas
 
-###### Art. 57.º O Governo definirá pólos de desenvolvimento turístico em conformidade com o plano aprovado para o sector.
+Art. 57.º O Governo definirá pólos de desenvolvimento turístico em conformidade com o plano aprovado para o sector.
 
-###### Art. 58.º - 1 - Nos pólos a que se refere o artigo anterior, as câmaras municipais interessadas poderão propor ao membro do Governo com competência sobre o sector que as zonas com especial aptidão para o turismo sejam classificadas como áreas de interesse turístico.
+Art. 58.º - 1 - Nos pólos a que se refere o artigo anterior, as câmaras municipais interessadas poderão propor ao membro do Governo com competência sobre o sector que as zonas com especial aptidão para o turismo sejam classificadas como áreas de interesse turístico.
 
 2 - As áreas de interesse turístico serão criadas por decreto regulamentar.
 
 3 - Compete à Presidência do Conselho de Ministros, pela Direcção-Geral do Turismo, a organização dos processos de criação das áreas de interesse turístico e a sua apresentação ao Governo.
 
-###### Art. 59.º - 1 - As áreas de interesse turístico terão como objectivo especial definir parâmetros e normas que permitam o seu aproveitamento e desenvolvimento turístico de forma harmoniosa e integrada, em ordem a preservar da melhor forma as suas características e o meio ambiente e a minorar os efeitos negativos do impacte resultante do crescimento turístico.
+Art. 59.º - 1 - As áreas de interesse turístico terão como objectivo especial definir parâmetros e normas que permitam o seu aproveitamento e desenvolvimento turístico de forma harmoniosa e integrada, em ordem a preservar da melhor forma as suas características e o meio ambiente e a minorar os efeitos negativos do impacte resultante do crescimento turístico.
 
 2 - Do diploma de criação das áreas de interesse turístico constarão obrigatoriamente os elementos e normas a seguir enunciados, além dos condicionamentos específicos referentes a cada uma delas:
 
@@ -723,7 +817,7 @@ d) As regras relativas às actividades e serviços cuja implantação e exercíc
 
 e) As directrizes destinadas a preservar as suas características, o meio ambiente e o património cultural da área.
 
-###### Art. 60.º - 1 - A câmara ou câmaras municipais que estiverem interessadas na criação de uma área de interesse turístico, antes de formalizarem a respectiva proposta, poderão consultar previamente a Direcção-Geral do Turismo para efeitos de análise das potencialidades da área indicada para esse fim.
+Art. 60.º - 1 - A câmara ou câmaras municipais que estiverem interessadas na criação de uma área de interesse turístico, antes de formalizarem a respectiva proposta, poderão consultar previamente a Direcção-Geral do Turismo para efeitos de análise das potencialidades da área indicada para esse fim.
 
 2 - Para tanto, a consulta deverá ser instruída com os seguintes elementos:
 
@@ -753,7 +847,7 @@ b) Memória descritiva e justificativa, da qual conste, designadamente:
 
 7 - O parecer emitido nos termos deste artigo não prejudica a apreciação da proposta de criação da área de interesse turístico nem torna obrigatória a sua criação.
 
-###### Art. 61.º - 1 - As propostas de criação de áreas de interesse turístico são obrigatoriamente instruídas com os elementos a seguir especificados, sob pena de não poderem ser apreciadas:
+Art. 61.º - 1 - As propostas de criação de áreas de interesse turístico são obrigatoriamente instruídas com os elementos a seguir especificados, sob pena de não poderem ser apreciadas:
 
 a) Planta da área, com a sua delimitação pormenorizada;
 
@@ -793,13 +887,13 @@ f) Actividades e serviços cuja implantação não será permitida na área ou f
 
 7 - A falta de apresentação dos elementos referidos no n.º 5 deste artigo determinará o arquivamento imediato da proposta.
 
-###### Art. 62.º - 1 - Compete à comissão prevista no artigo 71.º promover a apreciação da proposta de criação de uma área de interesse turístico por todos os departamentos ou serviços interessados.
+Art. 62.º - 1 - Compete à comissão prevista no artigo 71.º promover a apreciação da proposta de criação de uma área de interesse turístico por todos os departamentos ou serviços interessados.
 
 2 - A análise a que se refere o número anterior será realizada nos 150 dias seguintes à entrada da proposta, ou do último elemento solicitado, no caso previsto no n.º 5 do artigo anterior.
 
 3 - Cabe ao membro do Governo competente dar conhecimento à câmara ou câmaras interessadas de quaisquer alterações à proposta apresentada resultantes da análise prevista nos números anteriores, com vista à aceitação das mesmas.
 
-###### Art. 63.º - 1 - A proposta de criação de uma área de interesse turístico não será aprovada quando se considerar que:
+Art. 63.º - 1 - A proposta de criação de uma área de interesse turístico não será aprovada quando se considerar que:
 
 a) O desenvolvimento turístico pretendido não está de acordo com a política aprovada para o sector;
 
@@ -817,7 +911,7 @@ g) A área indicada é inadequada ao projecto apresentado.
 
 2 - Para além dos casos previstos no número anterior, a proposta também não poderá ser aprovada desde que a câmara não aceite as alterações sugeridas pela comissão de apreciação.
 
-###### Art. 64.º - 1 - A alteração de uma área de interesse turístico ou de algum dos elementos referidos nas alíneas b) e c) do n.º 1 do artigo 61.º só pode ter lugar mediante proposta da câmara municipal interessada.
+Art. 64.º - 1 - A alteração de uma área de interesse turístico ou de algum dos elementos referidos nas alíneas b) e c) do n.º 1 do artigo 61.º só pode ter lugar mediante proposta da câmara municipal interessada.
 
 2 - É aplicável às propostas de alteração o disposto nos artigos 61.º a 63.º deste diploma, com as necessárias adaptações.
 
@@ -825,7 +919,7 @@ g) A área indicada é inadequada ao projecto apresentado.
 
 4 - É aplicável ao diploma de alteração o disposto no n.º 2 do artigo 59.º, com as necessárias adaptações.
 
-###### Art. 65.º - 1 - A criação de uma área de interesse turístico determinará a existência do seguinte regime:
+Art. 65.º - 1 - A criação de uma área de interesse turístico determinará a existência do seguinte regime:
 
 a) A obrigação de cumprir rigorosamente o plano de ordenamento aprovado para a área;
 
@@ -847,7 +941,7 @@ f) O acesso dos interessados aos sistemas de crédito mais favoráveis que estej
 
 5 - É aplicável aos projectos dos empreendimentos a implantar nas áreas de interesse turístico o disposto no n.º 4 do artigo 3.º do [Decreto n.º 73/73](https://diariodarepublica.pt/dr/detalhe/decreto/73-1973-684616), de 28 de Fevereiro, e na alínea a) do n.º 1 e no n.º 2 do artigo 8.º deste diploma.
 
-###### Art. 66.º - 1 - As câmaras municipais que aprovarem os projectos dos empreendimentos nos termos do disposto na alínea b) do n.º 1 do artigo anterior enviarão um exemplar dos mesmos à Direcção-Geral do Turismo, destinado à organização dos respectivos processos de:
+Art. 66.º - 1 - As câmaras municipais que aprovarem os projectos dos empreendimentos nos termos do disposto na alínea b) do n.º 1 do artigo anterior enviarão um exemplar dos mesmos à Direcção-Geral do Turismo, destinado à organização dos respectivos processos de:
 
 a) Classificação e autorização de abertura do estabelecimento, quando se tratar dos estabelecimentos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º;
 
@@ -857,7 +951,7 @@ c) Declaração de relevância turística.
 
 2 - Nos casos previstos no número anterior, a Comissão de Utilidade Turística deverá verificar se foram cumpridos os condicionamentos previstos no diploma que criou a «área de interesse turístico», para além dos demais requisitos legalmente exigidos para o empreendimento.
 
-###### Art. 67.º - 1 - Sempre que for indeferido qualquer pedido de aprovação da localização ou do projecto dos empreendimentos a instalar numa área de interesse turístico, os interessados poderão solicitar à câmara municipal que o mesmo seja reapreciado em reunião conjunta com a Comissão referida no artigo 71.º, sem prejuízo do recurso da decisão camarária nos termos legais.
+Art. 67.º - 1 - Sempre que for indeferido qualquer pedido de aprovação da localização ou do projecto dos empreendimentos a instalar numa área de interesse turístico, os interessados poderão solicitar à câmara municipal que o mesmo seja reapreciado em reunião conjunta com a Comissão referida no artigo 71.º, sem prejuízo do recurso da decisão camarária nos termos legais.
 
 2 - O pedido de reapreciação deverá ser apresentado na câmara, devidamente fundamentado, no prazo de 30 dias, contado da data em que o interessado foi notificado da decisão.
 
@@ -871,7 +965,7 @@ c) Declaração de relevância turística.
 
 7 - Da reunião será elaborada uma acta, da qual constarão os pareceres das duas entidades e a decisão tomada.
 
-###### Art. 68.º - 1 - Quando se verificar, relativamente a qualquer área de interesse turístico, que o plano de ordenamento e o programa de desenvolvimento turístico não estão a ser observados, ou que não estão a ser cumpridas as normas constantes do decreto que a institui e do presente diploma e suas disposições regulamentares, o Governo poderá decretar a sua extinção, sob proposta do membro do Governo competente.
+Art. 68.º - 1 - Quando se verificar, relativamente a qualquer área de interesse turístico, que o plano de ordenamento e o programa de desenvolvimento turístico não estão a ser observados, ou que não estão a ser cumpridas as normas constantes do decreto que a institui e do presente diploma e suas disposições regulamentares, o Governo poderá decretar a sua extinção, sob proposta do membro do Governo competente.
 
 2 - Para efeitos do estabelecido no número anterior, o membro do Governo competente comunicará às câmaras municipais e aos órgãos regionais de turismo interessados as irregularidades verificadas, com indicação concreta das obras em falta e das demais infracções verificadas.
 
@@ -881,7 +975,7 @@ c) Declaração de relevância turística.
 
 5 - Durante o período transitório previsto no número anterior, a área não poderá beneficiar de qualquer apoio da promoção turística oficial.
 
-###### Art. 69.º - 1 - Independentemente do estabelecido no artigo anterior, o membro do Governo competente ou a câmara ou câmaras municipais interessadas poderão ainda tomar qualquer das seguintes medidas:
+Art. 69.º - 1 - Independentemente do estabelecido no artigo anterior, o membro do Governo competente ou a câmara ou câmaras municipais interessadas poderão ainda tomar qualquer das seguintes medidas:
 
 a) Embargar as obras em curso;
 
@@ -893,7 +987,7 @@ d) Reconstruir ou restaurar o que houver sido destruído, danificado ou alterado
 
 2 - Antes de tomar qualquer das decisões previstas no número anterior, o membro do Governo competente ou as câmaras poderão conceder ao interessado um prazo para executar as acções necessárias à reposição da legalidade.
 
-###### Art. 70.º - 1 - A extinção de uma área de interesse turístico determinará automaticamente, a partir da publicação do respectivo decreto e sem necessidade de quaisquer comunicações ou notificações aos interessados, a caducidade:
+Art. 70.º - 1 - A extinção de uma área de interesse turístico determinará automaticamente, a partir da publicação do respectivo decreto e sem necessidade de quaisquer comunicações ou notificações aos interessados, a caducidade:
 
 a) De todos os benefícios e regimes legais especiais que lhe eram inerentes;
 
@@ -907,7 +1001,7 @@ c) De todos os incentivos financeiros concedidos para a construção ou instala�
 
 4 - A não observância do plano de ordenamento aprovado, bem como a extinção de uma área de interesse turístico, importará, para a respectiva câmara municipal, a responsabilidade civil perante terceiros pelos danos daí resultantes.
 
-###### Art. 71.º - 1 - É criada, no gabinete do membro do Governo competente e na sua dependência directa, a Comissão para as Áreas de Interesse Turístico, destinada a organizar os respectivos processos e a verificar o cumprimento das suas normas reguladoras.
+Art. 71.º - 1 - É criada, no gabinete do membro do Governo competente e na sua dependência directa, a Comissão para as Áreas de Interesse Turístico, destinada a organizar os respectivos processos e a verificar o cumprimento das suas normas reguladoras.
 
 2 - A Comissão prevista no número anterior será constituída por um representante do membro do Governo competente, que presidirá, e por representantes dos Ministérios das Finanças, do Plano e da Administração do Território, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
 
@@ -915,7 +1009,7 @@ c) De todos os incentivos financeiros concedidos para a construção ou instala�
 
 4 - A participação nesta Comissão é acumulável com quaisquer outras funções públicas.
 
-###### Art. 72.º - 1 - Compete à Comissão referida no artigo anterior:
+Art. 72.º - 1 - Compete à Comissão referida no artigo anterior:
 
 a) Organizar os processos relativos a cada área;
 
@@ -937,7 +1031,7 @@ a) Fiscalizar as áreas, directamente ou por intermédio dos serviços dos minis
 
 b) Solicitar às câmaras municipais o envio de elementos.
 
-###### Art. 73.º - 1 - Poderão ser declaradas como áreas sem interesse para o turismo, sob proposta do membro do Governo competente, aquelas em que se verifiquem algumas das seguintes situações:
+Art. 73.º - 1 - Poderão ser declaradas como áreas sem interesse para o turismo, sob proposta do membro do Governo competente, aquelas em que se verifiquem algumas das seguintes situações:
 
 a) A existência de indústrias ou actividades insalubres, poluentes, ruidosas ou incómodas;
 
@@ -955,7 +1049,7 @@ e) Um desenvolvimento turístico contrário à orientação definida pelo Govern
 
 ### CAPÍTULO VI — Das infracções e sua sanção
 
-###### Art. 74.º - 1 - Sem prejuízo da responsabilidade civil emergente dos actos praticados, às infracções ao disposto nos artigos 18.º, n.º 3, 19.º, n.º 2, 32.º, n.º 1, 36.º, n.º 1, 42.º, n.º 1, 44.º, n.os 1, 3 e 4, 45.º, n.º 1, 47.º, 49.º, n.os 1, 2 e 3, 50.º, n.º 1, 51.º, n.os 1, 2 e 3, 52.º, n.º 1, e 54.º são aplicadas coimas entre 5000$00 e 500000$00, se as mesmas não constituírem crimes nos termos da lei geral.
+Art. 74.º - 1 - Sem prejuízo da responsabilidade civil emergente dos actos praticados, às infracções ao disposto nos artigos 18.º, n.º 3, 19.º, n.º 2, 32.º, n.º 1, 36.º, n.º 1, 42.º, n.º 1, 44.º, n.os 1, 3 e 4, 45.º, n.º 1, 47.º, 49.º, n.os 1, 2 e 3, 50.º, n.º 1, 51.º, n.os 1, 2 e 3, 52.º, n.º 1, e 54.º são aplicadas coimas entre 5000$00 e 500000$00, se as mesmas não constituírem crimes nos termos da lei geral.
 
 2 - As infracções às disposições citadas no número anterior poderão ser passíveis ainda das seguintes sanções acessórias:
 
@@ -967,37 +1061,37 @@ c) Encerramento do estabelecimento;
 
 d) Publicidade do acto sancionado, por conta do infractor.
 
-###### Art. 75.º - 1 - A quem infringir as normas reguladoras da construção e instalação de empreendimentos nas áreas de interesse turístico será aplicada coima de 100000$00 a 3000000$00, podendo ainda aplicar-se as sanções acessórias de encerramento e ou publicidade do acto sancionado, por conta do infractor.
+Art. 75.º - 1 - A quem infringir as normas reguladoras da construção e instalação de empreendimentos nas áreas de interesse turístico será aplicada coima de 100000$00 a 3000000$00, podendo ainda aplicar-se as sanções acessórias de encerramento e ou publicidade do acto sancionado, por conta do infractor.
 
 2 - A quem exercer a actividade ou serviços proibidos, ou sem a respectiva autorização, nas áreas de interesse turístico será aplicada coima de 500000$00 a 1000000$00, podendo ainda aplicar-se a sanção de encerramento.
 
-###### Art. 76.º - 1 - As infracções às disposições citadas no n.º 1 do artigo 74.º e as previstas nos n.os 1 e 2 do artigo 75.º deste diploma são puníveis, ainda que praticadas por negligência.
+Art. 76.º - 1 - As infracções às disposições citadas no n.º 1 do artigo 74.º e as previstas nos n.os 1 e 2 do artigo 75.º deste diploma são puníveis, ainda que praticadas por negligência.
 
 2 - Nos casos previstos nas disposições citadas no número anterior, a tentativa será sempre punida.
 
-###### Art. 77.º A aplicação das coimas e das respectivas sanções acessórias é da competência do director-geral do Turismo ou da câmara municipal respectiva, consoante o tipo de estabelecimento relativamente ao qual se verifiquem as infracções.
+Art. 77.º A aplicação das coimas e das respectivas sanções acessórias é da competência do director-geral do Turismo ou da câmara municipal respectiva, consoante o tipo de estabelecimento relativamente ao qual se verifiquem as infracções.
 
-###### Art. 78.º - 1 - Quando for aplicada alguma das sanções acessórias previstas no n.º 2 do artigo 74.º e nos n.os 1 e 2 do artigo 75.º, o estabelecimento só encerrará depois de terminarem a sua estada todos os hóspedes que à hora da notificação ali se encontrem.
+Art. 78.º - 1 - Quando for aplicada alguma das sanções acessórias previstas no n.º 2 do artigo 74.º e nos n.os 1 e 2 do artigo 75.º, o estabelecimento só encerrará depois de terminarem a sua estada todos os hóspedes que à hora da notificação ali se encontrem.
 
 2 - Ficará, porém, interdita a demissão de novos hóspedes, ainda que as respectivas reservas sejam anteriores à notificação da decisão.
 
 3 - À infracção ao disposto no número anterior, quando não constituir crime nos termos da lei geral, será aplicada coima entre 5000$00 e 500000$00.
 
-###### Art. 79.º Na aplicação das coimas e das sanções acessórias aplicar-se-á o disposto na lei geral sobre contra-ordenações, em tudo o que não estiver expressamente previsto no presente diploma.
+Art. 79.º Na aplicação das coimas e das sanções acessórias aplicar-se-á o disposto na lei geral sobre contra-ordenações, em tudo o que não estiver expressamente previsto no presente diploma.
 
-###### Art. 80.º Para efeitos do disposto nos artigos anteriores, todas as autoridades e seus agentes que tomarem conhecimento de quaisquer infracções ao presente diploma e suas disposições regulamentares deverão participá-las à Direcção-Geral do Turismo ou à câmara municipal do local.
+Art. 80.º Para efeitos do disposto nos artigos anteriores, todas as autoridades e seus agentes que tomarem conhecimento de quaisquer infracções ao presente diploma e suas disposições regulamentares deverão participá-las à Direcção-Geral do Turismo ou à câmara municipal do local.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 81.º O regime jurídico dos estabelecimentos hoteleiros e similares, dos conjuntos turísticos e dos meios complementares de alojamento turístico e das respectivas actividades e serviços estabelecidos neste diploma e suas disposições regulamentares fixará, para todos os efeitos, a sua caracterização legal.
+Art. 81.º O regime jurídico dos estabelecimentos hoteleiros e similares, dos conjuntos turísticos e dos meios complementares de alojamento turístico e das respectivas actividades e serviços estabelecidos neste diploma e suas disposições regulamentares fixará, para todos os efeitos, a sua caracterização legal.
 
-###### Art. 82.º Os governos civis e demais autoridades administrativas tomarão as providências necessárias para a harmonização dos respectivos regulamentos policiais, sanitários ou de qualquer outro tipo com as normas do presente diploma e suas disposições regulamentares.
+Art. 82.º Os governos civis e demais autoridades administrativas tomarão as providências necessárias para a harmonização dos respectivos regulamentos policiais, sanitários ou de qualquer outro tipo com as normas do presente diploma e suas disposições regulamentares.
 
-###### Art. 83.º Compete à Direcção-Geral do Turismo a organização de um registo de todos os estabelecimentos hoteleiros e similares, conjuntos turísticos, meios complementares de alojamento e empreendimentos de animação, nos termos a fixar em regulamento.
+Art. 83.º Compete à Direcção-Geral do Turismo a organização de um registo de todos os estabelecimentos hoteleiros e similares, conjuntos turísticos, meios complementares de alojamento e empreendimentos de animação, nos termos a fixar em regulamento.
 
-###### Art. 84.º Os estabelecimentos existentes classificados sem interesse para o turismo deverão ser reclassificados de acordo com o estabelecido no presente diploma e suas disposições regulamentares, nos prazos e termos que neles forem fixados.
+Art. 84.º Os estabelecimentos existentes classificados sem interesse para o turismo deverão ser reclassificados de acordo com o estabelecido no presente diploma e suas disposições regulamentares, nos prazos e termos que neles forem fixados.
 
-###### Art. 85.º - 1 - Os estabelecimentos existentes que estejam abrangidos pelo disposto nos artigos 45.º e 46.º deverão apresentar na Direcção-Geral do Turismo o título previsto no n.º 6 do artigo 46.º no prazo de um ano, contado da data da entrada em vigor do presente diploma.
+Art. 85.º - 1 - Os estabelecimentos existentes que estejam abrangidos pelo disposto nos artigos 45.º e 46.º deverão apresentar na Direcção-Geral do Turismo o título previsto no n.º 6 do artigo 46.º no prazo de um ano, contado da data da entrada em vigor do presente diploma.
 
 2 - O título referido no número anterior deverá ter sido previamente aprovado na assembleia de todos os proprietários das unidades de alojamento e fracções imobiliárias que integrem o empreendimento, independentemente de estarem ou não afectos à exploração turística, por uma maioria de proprietários que representem, pelo menos, dois terços do valor total do empreendimento.
 
@@ -1007,7 +1101,7 @@ d) Publicidade do acto sancionado, por conta do infractor.
 
 5 - No caso previsto no n.º 3 deste artigo, o prazo fixado no n.º 1 suspender-se-á enquanto decorrer a respectiva acção judicial, devendo o autor ou autores desta apresentar na Direcção-Geral do Turismo, antes do termo do prazo, prova da pendência da acção.
 
-###### Art. 86.º - 1 - A assembleia prevista no n.º 2 do artigo anterior deverá ser convocada, por carta registada com aviso de recepção, com 90 dias de antecedência, devendo constar da respectiva convocatória a indicação prevista do seu objecto, o local e a hora da reunião e a referência aos artigos deste diploma que a justificam.
+Art. 86.º - 1 - A assembleia prevista no n.º 2 do artigo anterior deverá ser convocada, por carta registada com aviso de recepção, com 90 dias de antecedência, devendo constar da respectiva convocatória a indicação prevista do seu objecto, o local e a hora da reunião e a referência aos artigos deste diploma que a justificam.
 
 2 - Se a entidade proprietária e ou exploradora do estabelecimento não convocar a assembleia no prazo de 90 dias, contado da data da entrada em vigor do presente diploma, qualquer proprietário poderá realizar a convocatória.
 
@@ -1017,7 +1111,7 @@ d) Publicidade do acto sancionado, por conta do infractor.
 
 5 - A convocatória da assembleia deverá ser acompanhada, em qualquer caso, do projecto do título a submeter à sua aprovação.
 
-###### Art. 87.º - 1 - Os empreendimentos a que se refere o n.º 1 do artigo 85.º, se o respectivo título não for apresentado no prazo e condições fixados ou se o suprimento judicial previsto no n.º 3 do mesmo artigo for negado, ficarão sujeitos ao seguinte regime legal:
+Art. 87.º - 1 - Os empreendimentos a que se refere o n.º 1 do artigo 85.º, se o respectivo título não for apresentado no prazo e condições fixados ou se o suprimento judicial previsto no n.º 3 do mesmo artigo for negado, ficarão sujeitos ao seguinte regime legal:
 
 a) Tratando-se de um estabelecimento classificado como aldeamento turístico, o título previsto no n.º 6 do artigo 46.º será elaborado oficiosamente pela Direcção-Geral do Turismo no prazo de seis meses e notificado à entidade proprietária e ou exploradora, bem como aos proprietários das várias fracções imobiliárias ou unidades de alojamento;
 
@@ -1033,7 +1127,7 @@ b) Aos restantes empreendimentos ser-lhes-á retirada a classificação de estab
 
 6 - A falta de apresentação da relação prevista no número anterior ou a sua apresentação em condições que não permitam à Direcção-Geral do Turismo dar execução ao estabelecido neste artigo será punida com uma coima de 100000$00 a 1000000$00.
 
-###### Art. 88.º - 1 - Nos estabelecimentos existentes classificados como aldeamentos turísticos em que as infra-estruturas urbanísticas não tenham sido recebidas pelas câmaras municipais, e enquanto esta situação se mantiver, os encargos inerentes à sua conservação e manutenção serão pagos por todos os proprietários das fracções imobiliárias e unidades de alojamento que o integram, quer estejam ou não afectas à exploração, de acordo com o disposto em regulamento.
+Art. 88.º - 1 - Nos estabelecimentos existentes classificados como aldeamentos turísticos em que as infra-estruturas urbanísticas não tenham sido recebidas pelas câmaras municipais, e enquanto esta situação se mantiver, os encargos inerentes à sua conservação e manutenção serão pagos por todos os proprietários das fracções imobiliárias e unidades de alojamento que o integram, quer estejam ou não afectas à exploração, de acordo com o disposto em regulamento.
 
 2 - Nos casos previstos no número anterior, as respectivas entidades exploradoras deverão comunicar à Direcção-Geral do Turismo, no prazo de seis meses, contados da publicação deste diploma, as razões por que as infra-estruturas urbanísticas do empreendimento não foram recebidas pelas câmaras municipais.
 
@@ -1043,13 +1137,13 @@ b) Aos restantes empreendimentos ser-lhes-á retirada a classificação de estab
 
 5 - A falta de apresentação da comunicação referida no n.º 2 deste artigo ou a sua apresentação em termos que não permitam à Direcção-Geral do Turismo avaliar as causas da situação será punida com coima de 200000$00 a 1000000$00.
 
-###### Art. 89.º - 1 - Até 31 de Dezembro de cada ano todos os proprietários dos alojamentos particulares a que se refere o artigo 18.º que pretendam comercializá-los deverão inscrevê-los nos registos previstos no n.º 3 daquele artigo.
+Art. 89.º - 1 - Até 31 de Dezembro de cada ano todos os proprietários dos alojamentos particulares a que se refere o artigo 18.º que pretendam comercializá-los deverão inscrevê-los nos registos previstos no n.º 3 daquele artigo.
 
 2 - A partir da data fixada no número anterior, os operadores turísticos, as agências de viagens e quaisquer outras entidades similares estrangeiras que comercializem alojamentos particulares não legalizados nos termos do número anterior e do artigo 18.º poderão ser proibidos de operar em Portugal, sem prejuízo da sanção prevista no n.º 1 do artigo 74.º
 
 3 - Às agências de viagens portuguesas que infringirem o disposto no n.º 3 do artigo 18.º poderá ser-lhes aplicável ainda a sanção de suspensão de funcionamento até seis meses.
 
-###### Art. 90.º - 1 - Até 31 de Dezembro de 1987 a Direcção-Geral do Turismo reclassificará os estabelecimentos hoteleiros existentes, de acordo com os requisitos mínimos estabelecidos em regulamento.
+Art. 90.º - 1 - Até 31 de Dezembro de 1987 a Direcção-Geral do Turismo reclassificará os estabelecimentos hoteleiros existentes, de acordo com os requisitos mínimos estabelecidos em regulamento.
 
 2 - Quando se mostre necessário realizar obras para que o estabelecimento mantenha a classificação actual, a Direcção-Geral do Turismo notificará o interessado das obras a executar, do prazo fixado para a sua realização e, ainda, da classificação que lhe será atribuída se elas não forem realizadas.
 
@@ -1057,26 +1151,26 @@ b) Aos restantes empreendimentos ser-lhes-á retirada a classificação de estab
 
 4 - Para este efeito, o membro do Governo competente tomará as medidas necessárias para ser concedido às empresas abrangidas apoio financeiro em condições adequadas.
 
-###### Art. 91.º Enquanto não for efectuada a revisão do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, e do [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio, todas as referências e remissões feitas neste diploma para o [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, entendem-se feitas para o presente decreto-lei, a partir da sua entrada em vigor.
+Art. 91.º Enquanto não for efectuada a revisão do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, e do [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio, todas as referências e remissões feitas neste diploma para o [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, entendem-se feitas para o presente decreto-lei, a partir da sua entrada em vigor.
 
-###### Art. 92.º - 1 - São revogados os Decretos-Leis n.os 49399, de 24 de Novembro de 1969, [435/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1982-378147), de 30 de Outubro, e [56/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1984-661546), de 17 de Fevereiro.
+Art. 92.º - 1 - São revogados os Decretos-Leis n.os 49399, de 24 de Novembro de 1969, [435/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1982-378147), de 30 de Outubro, e [56/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1984-661546), de 17 de Fevereiro.
 
 2 - São repostos em vigor os artigos 1.º a 5.º do [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio.
 
-###### Art. 93.º - 1 - Nas regiões autónomas, as atribuições e competências previstas nos artigos 2.º a 8.º, nos artigos constantes dos capítulos III, IV e V e nos artigos 77.º, 80.º, 82.º, 83.º, 85.º a 88.º e 90.º cabem aos departamentos com tutela sobre o sector do turismo.
+Art. 93.º - 1 - Nas regiões autónomas, as atribuições e competências previstas nos artigos 2.º a 8.º, nos artigos constantes dos capítulos III, IV e V e nos artigos 77.º, 80.º, 82.º, 83.º, 85.º a 88.º e 90.º cabem aos departamentos com tutela sobre o sector do turismo.
 
 2 - Para o exercício das competências a que se refere o número anterior, os órgãos de governo próprios promoverão a publicação dos diplomas necessários a sua execução.
 
-###### Art. 94.º O presente diploma entra em vigor no dia 1 de Janeiro de 1987.
+Art. 94.º O presente diploma entra em vigor no dia 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Manuel Durão Barroso - José Albino de Silva Peneda.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

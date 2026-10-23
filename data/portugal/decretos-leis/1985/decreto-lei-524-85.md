@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1985, 7º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 4260-(117) a 4260-(121)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30107/01170121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1985-546459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dde9c5002632bb1d2014e5fb8478701ed1c056180402f969108c698a2624833d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24e65a12272386116c1a6575f7aeaf18ef5e0731a957d4576c2773a8a8b66e59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Banco de Portugal
+- Circulação de Mercadorias
+- Comércio Externo
+- Definição de Competências
+- Direitos Aduaneiros
+- Exportação
+- Importação
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:357919:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227458:por
+  label: "Feita uma excepção, transitória, ao prazo previsto no nº 4 do art. 5º pelo DEC LEI.87/86.08.05.1986.MIC, DR.IS [105]\
+    \ de 08.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-1986-227458
+  date: '1986-05-08'
+- type: cites
+  target: pt:dre:240851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374673:por
+  label: Revogados os arts. 15.º a 23.º pelo(a) Decreto-Lei n.º 181/88 - Diário da República n.º 117/1988, Série I de 1988-05-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1988-374673
+  date: '1988-05-20'
+- type: repealed_by
+  target: pt:dre:357919:por
+  label: "Revogado pelo DEC LEI.420/88.11.11.1988.MCT, DR.IS [261] de 11.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1988-357919
+  date: '1988-11-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:43Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +147,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As operações de importação e de exportação de mercadorias ficam sujeitas aos regimes estabelecidos no presente decreto-lei e seus diplomas regulamentares.
+Artigo 1.º As operações de importação e de exportação de mercadorias ficam sujeitas aos regimes estabelecidos no presente decreto-lei e seus diplomas regulamentares.
 
-###### Art. 2.º - 1 - Sem prejuízo do disposto no artigo 6.º, as operações de importação de mercadorias ficam sujeitas ao regime de registo prévio, que se destina a fins exclusivamente estatísticos.
+Art. 2.º - 1 - Sem prejuízo do disposto no artigo 6.º, as operações de importação de mercadorias ficam sujeitas ao regime de registo prévio, que se destina a fins exclusivamente estatísticos.
 
 2 - Exceptua-se do disposto no n.º 1 a importação dos produtos a que se refere o artigo 235.º do Acto de Adesão, salvo se ficarem sujeitos ao mecanismo complementar aplicável às trocas, referido no artigo 249.º do mesmo Acto de Adesão, ou a um regime de vigilância nos termos da regulamentação comunitária.
 
 3 - O regime de registo prévio vigorará até 31 de Dezembro de 1988, podendo manter-se para além daquela data no caso de aplicação de medidas de vigilância ou de salvaguarda, nos termos da legislação nacional ou da regulamentação comunitária.
 
-###### Art. 3.º - 1 - As operações de exportação de mercadorias não sujeitas a restrições quantitativas que dêem lugar a liquidação cambial ficam isentas de registo prévio.
+Art. 3.º - 1 - As operações de exportação de mercadorias não sujeitas a restrições quantitativas que dêem lugar a liquidação cambial ficam isentas de registo prévio.
 
 2 - Ficam igualmente isentas de registo prévio:
 
@@ -134,7 +175,7 @@ g) A importação de ouro em barra ou amoedado, a efectuar pelo Banco de Portuga
 
 3 - Exceptua-se do n.º 1 a exportação de mercadorias, que, nos termos do Acto de Adesão ou da regulamentação comunitária, estejam ou venham a estar sujeitas a regime de controle ou de vigilância.
 
-###### Art. 4.º O Ministro da Indústria e Comércio sob proposta da Direcção-Geral do Comércio Externo, poderá, mediante despacho:
+Art. 4.º O Ministro da Indústria e Comércio sob proposta da Direcção-Geral do Comércio Externo, poderá, mediante despacho:
 
 a) Submeter a registo prévio, nos termos do Acto de Adesão, a exportação de determinadas mercadorias;
 
@@ -142,7 +183,7 @@ b) Submeter a registo prévio, total ou parcialmente, as operações referidas n
 
 c) Elevar ou diminuir o limite de isenção de registo prévio referido na alínea a) do n.º 2 do artigo anterior.
 
-###### Art. 5.º - 1 - O registo prévio será requerido pelo interessado através do preenchimento de uma declaração de importação (DI) ou, nos casos em que for exigida, de uma declaração de exportação (DE), compostas de 3 exemplares, A, B e C.
+Art. 5.º - 1 - O registo prévio será requerido pelo interessado através do preenchimento de uma declaração de importação (DI) ou, nos casos em que for exigida, de uma declaração de exportação (DE), compostas de 3 exemplares, A, B e C.
 
 2 - Dos exemplares das declarações destinar-se-ão.
 
@@ -160,9 +201,9 @@ O B à entidade emissora.
 
 7 - Em relação aos produtos em que há lugar, por força da regulamentação da respectiva Organização Comum de Mercado ou da legislação nacional aplicável às importações da Comunidade, à emissão de certificados de importação, estes substituirão, para todos os efeitos legais, as DI, desde que aqueles mencionem o valor da mercadoria.
 
-###### Art. 6.º Ficam subordinadas a emissão de licença as operações de importação e exportação de mercadorias submetidas a regimes restritivos.
+Art. 6.º Ficam subordinadas a emissão de licença as operações de importação e exportação de mercadorias submetidas a regimes restritivos.
 
-###### Art. 7.º - 1 - A emissão de licenças de importação ou de exportação será requerida pelo interessado através do preenchimento dos seus exemplares marcados de A a D.
+Art. 7.º - 1 - A emissão de licenças de importação ou de exportação será requerida pelo interessado através do preenchimento dos seus exemplares marcados de A a D.
 
 2 - Dos exemplares da licença, destinar-se-ão:
 
@@ -174,21 +215,21 @@ O C ao interessado, apenas para efeito de liquidação cambial anterior ao despa
 
 O D à entidade emissora.
 
-###### Art. 8.º As operações de importação e de exportação de mercadorias sujeitas a uma organização comum de mercado ficam subordinadas à emissão de certificado, nos casos em que a legislação comunitária o exija.
+Art. 8.º As operações de importação e de exportação de mercadorias sujeitas a uma organização comum de mercado ficam subordinadas à emissão de certificado, nos casos em que a legislação comunitária o exija.
 
-###### Art. 9.º - 1 - O registo prévio, o licenciamento e a emissão de certificados são da competência da Direcção-Geral do Comércio Externo, que a poderá delegar noutras entidades, ficando estas sujeitas no exercício dessa competência à orientação daquela Direcção-Geral.
+Art. 9.º - 1 - O registo prévio, o licenciamento e a emissão de certificados são da competência da Direcção-Geral do Comércio Externo, que a poderá delegar noutras entidades, ficando estas sujeitas no exercício dessa competência à orientação daquela Direcção-Geral.
 
 2 - A competência para o registo prévio e o licenciamento das operações de importação de produtos destinados às Regiões Autónomas da Madeira e dos Açores, bem como das operações de exportação de produtos oriundos das mesmas Regiões Autónomas efectuadas por empresas ali sediadas, pertence às entidades a definir pelos respectivos governos regionais e processar-se-á de forma coordenada com a Direcção-Geral do Comércio Externo.
 
-###### Art. 10.º As alfândegas não poderão permitir o desembaraço aduaneiro das mercadorias sujeitas à emissão de licença e ou certificado sem a apresentação desses documentos.
+Art. 10.º As alfândegas não poderão permitir o desembaraço aduaneiro das mercadorias sujeitas à emissão de licença e ou certificado sem a apresentação desses documentos.
 
-###### Art. 11.º O prazo geral de validade para efeito de despacho aduaneiro das declarações e das licenças é de 6 meses, podendo, em casos especiais, a Direcção-Geral do Comércio Externo fixar prazos diferentes.
+Art. 11.º O prazo geral de validade para efeito de despacho aduaneiro das declarações e das licenças é de 6 meses, podendo, em casos especiais, a Direcção-Geral do Comércio Externo fixar prazos diferentes.
 
-###### Art. 12.º - 1 - Cada declaração ou licença servirá apenas para um despacho aduaneiro, mesmo que não tenha sido utilizada na sua totalidade, salvo disposição em contrário.
+Art. 12.º - 1 - Cada declaração ou licença servirá apenas para um despacho aduaneiro, mesmo que não tenha sido utilizada na sua totalidade, salvo disposição em contrário.
 
 2 - Transitoriamente e enquanto não for estabelecida legislação especial, as declarações ou licenças relativas à importação de veículos automóveis podem ser objecto de utilizações parciais.
 
-###### Art. 13.º - 1 - Por cada despacho deverá ser preenchido um bilhete estatístico aduaneiro e uma declaração de movimento de mercadorias, adiante designados «BEA» e «DMM», respectivamente; esta última é composta pelos exemplares A e B, nos casos de importação e de exportação, e apenas do exemplar único, quando se tratar de mercadorias em regime de trânsito.
+Art. 13.º - 1 - Por cada despacho deverá ser preenchido um bilhete estatístico aduaneiro e uma declaração de movimento de mercadorias, adiante designados «BEA» e «DMM», respectivamente; esta última é composta pelos exemplares A e B, nos casos de importação e de exportação, e apenas do exemplar único, quando se tratar de mercadorias em regime de trânsito.
 
 2 - Exceptuam-se do disposto no número anterior:
 
@@ -214,17 +255,17 @@ Uma única DMM, correspondente à totalidade do despacho, a menos que ocorra qua
 
 4 - No caso de exportação efectuada por via postal, é da exclusiva responsabilidade dos CTT a efectivação das acções e o cumprimento dos prazos descritos nos números anteriores do presente artigo.
 
-###### Art. 14.º As declarações, as licenças, os certificados, os bilhetes estatísticos aduaneiros, os bilhetes de controle de recepção dos bilhetes estatísticos aduaneiros e as declarações de movimento de mercadorias deverão conter, obrigatoriamente, resposta integral a todos os quesitos neles constantes, de acordo com as respectivas instruções de preenchimento.
+Art. 14.º As declarações, as licenças, os certificados, os bilhetes estatísticos aduaneiros, os bilhetes de controle de recepção dos bilhetes estatísticos aduaneiros e as declarações de movimento de mercadorias deverão conter, obrigatoriamente, resposta integral a todos os quesitos neles constantes, de acordo com as respectivas instruções de preenchimento.
 
-###### Art. 15.º - 1 - A liquidação das operações de comércio externo só pode ser efectuada por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios em território nacional.
+Art. 15.º - 1 - A liquidação das operações de comércio externo só pode ser efectuada por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios em território nacional.
 
 2 - Exceptuam-se do regime previsto no número anterior os casos em que a legislação sobre operações cambiais admita formas diferentes de liquidação.
 
-###### Art. 16.º - 1 - A liquidação cambial das operações de mercadorias só pode ser efectuada em moedas que constem das directivas monetárias.
+Art. 16.º - 1 - A liquidação cambial das operações de mercadorias só pode ser efectuada em moedas que constem das directivas monetárias.
 
 2 - Mediante autorização prévia e especial do Banco de Portugal, poderá a liquidação cambial referida no número anterior ser efectuada em moeda diferente das constantes nas mencionadas directivas monetárias.
 
-###### Art. 17.º - 1 - A liquidação cambial das operações de importação ou de exportação de mercadorias será efectuada no prazo máximo de 6 meses a contar da data de desalfandegamento, mediante a apresentação pelo interessado do exemplar B da DMM.
+Art. 17.º - 1 - A liquidação cambial das operações de importação ou de exportação de mercadorias será efectuada no prazo máximo de 6 meses a contar da data de desalfandegamento, mediante a apresentação pelo interessado do exemplar B da DMM.
 
 2 - O disposto no número anterior não obsta à fixação, mediante portaria do Ministro das Finanças, sob proposta do Banco de Portugal, de câmbio a aplicar à liquidação de exportações, quando efectuada para além do prazo determinado na mesma portaria.
 
@@ -236,7 +277,7 @@ a) A liquidação cambial referente ao pagamento do preço das mercadorias entra
 
 b) Quando a liquidação cambial referente ao pagamento do preço das mercadorias entradas tenha ocorrido em momento anterior à liquidação relativa ao recebimento do preço das mercadorias saídas, deve ser exibida perante a competente instituição de crédito a prova da concretização desta última operação, através do exemplar único da correspondente DMM, devidamente anotada.
 
-###### Art. 18.º - 1 - A liquidação cambial de operações relacionadas com o comércio internacional que não dêem lugar à emissão de BEA e correspondente DMM nem devam processar-se como operação de invisíveis correntes só poderá ser efectuada após autorização do Banco de Portugal.
+Art. 18.º - 1 - A liquidação cambial de operações relacionadas com o comércio internacional que não dêem lugar à emissão de BEA e correspondente DMM nem devam processar-se como operação de invisíveis correntes só poderá ser efectuada após autorização do Banco de Portugal.
 
 2 - As operações de mercadorias cuja liquidação seja inicialmente prevista para data posterior ao termo do prazo fixado no n.º 1 do artigo anterior devem realizar-se nos termos das normas reguladoras das operações de capitais.
 
@@ -246,11 +287,11 @@ b) Quando a liquidação cambial referente ao pagamento do preço das mercadoria
 
 5 - Durante período transitório, a fixar em instrução do Banco de Portugal, o prazo a que se refere o n.º 3 será de 12 meses.
 
-###### Art. 19.º - 1 - Por cada transacção comercial efectuada com o estrangeiro terá o importador de realizar todas as correspondentes liquidações cambiais numa mesma e única instituição de crédito.
+Art. 19.º - 1 - Por cada transacção comercial efectuada com o estrangeiro terá o importador de realizar todas as correspondentes liquidações cambiais numa mesma e única instituição de crédito.
 
 2 - Sempre que ocorram pagamentos de importação em momento anterior à data de desalfandegamento, é da exclusiva responsabilidade do importador a entrega, até ao termo do prazo de 4 meses a contar da data de liquidação, do exemplar B da DMM na mesma instituição de crédito onde se realizou aquela operação.
 
-###### Art. 20.º - 1 - O importador não pode utilizar as divisas para fim diverso daquele para que as adquiriu.
+Art. 20.º - 1 - O importador não pode utilizar as divisas para fim diverso daquele para que as adquiriu.
 
 2 - Não se concretizando a importação cuja liquidação foi previamente efectuada, deverá o importador revender ao sistema bancário os correspondentes meios de pagamento sobre o exterior, até ao 15.º dia após o termo de validade da respectiva licença ou, quando não se trate de mercadorias sujeitas a licenciamento, até ao 15.º dia após o termo do período de 4 meses subsequente à liquidação cambial efectuada.
 
@@ -258,7 +299,7 @@ b) Quando a liquidação cambial referente ao pagamento do preço das mercadoria
 
 4 - O Banco de Portugal poderá autorizar que ao valor das operações de exportação de mercadorias sejam deduzidas as importâncias de comissões, despesas no estrangeiro, fretes, seguros ou outros encargos legítimos inerentes à exportação efectuada.
 
-###### Art. 21.º - 1 - A instituição de crédito que proceder à liquidação de operações de importação ou exportação de mercadorias deverá remeter ao Banco de Portugal, até ao 3.º dia útil após a efectivação daquelas operações, os respectivos impressos de modelo daquele Banco, devidamente preenchidos.
+Art. 21.º - 1 - A instituição de crédito que proceder à liquidação de operações de importação ou exportação de mercadorias deverá remeter ao Banco de Portugal, até ao 3.º dia útil após a efectivação daquelas operações, os respectivos impressos de modelo daquele Banco, devidamente preenchidos.
 
 2 - O exemplar B da DMM será anotado com os elementos essenciais das liquidações efectuadas, devendo ainda a instituição de crédito:
 
@@ -270,7 +311,7 @@ b) Anotados os elementos essenciais das operações cambiais respeitantes à exp
 
 4 - Visando o controle global da regularização das liquidações respeitantes às operações de mercadorias em regime de trânsito pela instituição de crédito que efectuar o pagamento, compete às instituições de crédito que efectuem os recebimentos anotar as correspondentes liquidações cambiais no exemplar único da DMM referente à mesma operação, ficando este exemplar na posse da instituição que tenha efectuado ou venha a efectuar o pagamento.
 
-###### Art. 22.º - 1 - Nas operações de exportação de mercadorias, sem liquidação cambial, o desalfandegamento só pode ter lugar após a emissão de parecer prévio favorável do Banco de Portugal, a apresentar pelo exportador.
+Art. 22.º - 1 - Nas operações de exportação de mercadorias, sem liquidação cambial, o desalfandegamento só pode ter lugar após a emissão de parecer prévio favorável do Banco de Portugal, a apresentar pelo exportador.
 
 2 - No caso de as operações referidas no número anterior estarem sujeitas a licenciamento, o parecer prévio favorável do Banco de Portugal, a apresentar pelo exportador na entidade emissora, deve preceder a emissão da respectiva licença.
 
@@ -288,32 +329,32 @@ e) Outras operações com natureza ou finalidade semelhante às anteriores que v
 
 4 - As estâncias aduaneiras que, nas operações de importação ou exportação, procedam ao desalfandegamento de mercadorias sem liquidação cambial reterão o exemplar B da correspondente DMM, para posterior envio ao Banco de Portugal conjuntamente com o exemplar A da mesma declaração.
 
-###### Art. 23.º - 1 - O Banco de Portugal poderá delegar nas instituições de crédito autorizadas a exercer o comércio de câmbio em território nacional as competências para, nas condições que estabelecer, autorizar e controlar as operações cambiais relativas aos movimentos de mercadorias.
+Art. 23.º - 1 - O Banco de Portugal poderá delegar nas instituições de crédito autorizadas a exercer o comércio de câmbio em território nacional as competências para, nas condições que estabelecer, autorizar e controlar as operações cambiais relativas aos movimentos de mercadorias.
 
 2 - Sem prejuízo de avocação, a todo o tempo, dos respectivos processos pelo Banco de Portugal, as decisões proferidas no uso dos poderes delegados são passíveis de reclamação para aquele Banco e só valem como decisões deste, para efeitos de recurso contencioso, quando por ele confirmadas, entendendo-se como tacitamente confirmadas as decisões não alteradas decorridos 30 dias sobre a data em que for apresentada a reclamação.
 
 3 - Mantêm-se em vigor as delegações de competência já efectuadas pelo Banco de Portugal, aplicando-se-lhes imediatamente o disposto neste artigo.
 
-###### Art. 24.º Os documentos e actos necessários à execução do disposto neste decreto-lei são isentos de imposto do selo e de quaisquer emolumentos.
+Art. 24.º Os documentos e actos necessários à execução do disposto neste decreto-lei são isentos de imposto do selo e de quaisquer emolumentos.
 
-###### Art. 25.º Os boletins de registo prévio emitidos ao abrigo da legislação anterior continuam em vigor até ao termo da sua validade.
+Art. 25.º Os boletins de registo prévio emitidos ao abrigo da legislação anterior continuam em vigor até ao termo da sua validade.
 
-###### Art. 26.º Os exemplares das declarações, das licenças, dos certificados, dos bilhetes estatísticos aduaneiros e das declarações de movimento de mercadorias referidos no presente diploma são modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
+Art. 26.º Os exemplares das declarações, das licenças, dos certificados, dos bilhetes estatísticos aduaneiros e das declarações de movimento de mercadorias referidos no presente diploma são modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
 
-###### Art. 27.º Salvo se o facto estiver previsto em tipo legal de crime ou contravenção, designadamente no [Decreto-Lei n.º 630/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/630-1976-430862), de 28 de Julho, as infracções ao presente diploma constituem contra-ordenações puníveis nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Art. 27.º Salvo se o facto estiver previsto em tipo legal de crime ou contravenção, designadamente no [Decreto-Lei n.º 630/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/630-1976-430862), de 28 de Julho, as infracções ao presente diploma constituem contra-ordenações puníveis nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
-###### Art. 28.º São expressamente revogados os Decretos-Leis n.os [353-F/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851), de 29 de Agosto, e [340/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1978-325965), de 15 de Novembro.
+Art. 28.º São expressamente revogados os Decretos-Leis n.os [353-F/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851), de 29 de Agosto, e [340/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1978-325965), de 15 de Novembro.
 
-###### Art. 29.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1986.
+Art. 29.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Lino Dias Miguel - Tomás George Conceição Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

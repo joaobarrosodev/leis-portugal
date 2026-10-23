@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1985-324327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a457e9980af6a4b8a364121441017b852745a57f91ba15dc97f32745b9341168
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42a49a8344b1fa0375a31aefae9f948bb164f44d1f100abc442022644828af74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- Guarda Fiscal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:431449:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:44Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +98,7 @@ Atendendo à circunstância de os vencimentos dos militares da Guarda Nacional R
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os vencimentos base a abonar mensalmente aos oficiais em serviço na Guarda Nacional Republicana (GNR) e na Guarda Fiscal (GF) são os correspondentes aos quantitativos fixados para os oficiais das Forças Armadas.
+Artigo 1.º - 1 - Os vencimentos base a abonar mensalmente aos oficiais em serviço na Guarda Nacional Republicana (GNR) e na Guarda Fiscal (GF) são os correspondentes aos quantitativos fixados para os oficiais das Forças Armadas.
 
 2 - Identicamente, os vencimentos base a abonar mensalmente aos sargentos da Guarda Nacional Republicana e da Guarda Fiscal são os correspondentes aos quantitativos fixados para os sargentos das Forças Armadas.
 
@@ -103,22 +110,22 @@ Soldado - 26000$00;
 
 Soldado provisório - 20300$00.
 
-###### Art. 2.º As diuturnidades dos militares reformados da Guarda Nacional Republicana e da Guarda Fiscal são actualizadas nos termos estabelecidos pelo artigo 6.º do [Decreto-Lei n.º 533/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1976-431449), de 8 de Julho.
+Art. 2.º As diuturnidades dos militares reformados da Guarda Nacional Republicana e da Guarda Fiscal são actualizadas nos termos estabelecidos pelo artigo 6.º do [Decreto-Lei n.º 533/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1976-431449), de 8 de Julho.
 
-###### Art. 3.º Os descontos para o Montepio dos Servidores do Estado e para a Caixa Geral de Aposentações são, desde 1 de Janeiro de 1985, respectivamente de 1,5% e 6,5%.
+Art. 3.º Os descontos para o Montepio dos Servidores do Estado e para a Caixa Geral de Aposentações são, desde 1 de Janeiro de 1985, respectivamente de 1,5% e 6,5%.
 
-###### Art. 4.º Enquanto não se proceder às alterações orçamentais necessárias à execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais adequadas.
+Art. 4.º Enquanto não se proceder às alterações orçamentais necessárias à execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais adequadas.
 
-###### Art. 5.º O presente diploma produz efeitos desde 1 de Janeiro de 1985.
+Art. 5.º O presente diploma produz efeitos desde 1 de Janeiro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 1985. - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 10 de Abril de 1985.**
+Promulgado em 10 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Abril de 1985.**
+Referendado em 11 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14300/16751680.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1985-182242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e6dd29aefde6827b741d3617a5ee2989dc7950777ecf65e01df3dc9dec492a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85dd0e21c83f60c40ba849306fff11a2214f7c986c9f4f5bbaf22a5cea5caa7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Definição de Competências
+- Fiscalização
+- Inspeção Geral da Administração Interna
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:01Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +147,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Natureza e atribuições)
 
@@ -120,7 +155,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - A Inspecção-Geral da Administração Interna é dirigida por um inspector-geral.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Âmbito de actuação)
 
@@ -128,7 +163,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - A Inspecção-Geral da Administração Interna poderá ainda prestar a colaboração solicitada pelos órgãos das regiões autónomas em matérias relacionadas com idênticos poderes de tutela que estes detêm sobre as autarquias locais.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Competência)
 
@@ -146,7 +181,7 @@ e) Colaborar com os restantes órgãos e serviços na definição e prossecuçã
 
 2 - As competências referidas nos números anteriores não incluem as competências específicas que a lei prevê para a Inspecção-Geral de Finanças.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Colaboração com a Inspecção-Geral de Finanças)
 
@@ -154,7 +189,7 @@ e) Colaborar com os restantes órgãos e serviços na definição e prossecuçã
 
 2 - A coordenação será acordada entre os respectivos inspectores-gerais.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Planos e questionários)
 
@@ -164,7 +199,7 @@ e) Colaborar com os restantes órgãos e serviços na definição e prossecuçã
 
 3 - O questionário referido no número anterior será aprovado por despacho do Ministro da Administração Interna, sob proposta do inspector-geral.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Competência do Ministro da Administração Interna)
 
@@ -172,7 +207,7 @@ Compete ao Ministro da Administração Interna decidir os processos instaurados 
 
 ### CAPÍTULO II — Organização
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Estrutura)
 
@@ -186,7 +221,7 @@ c) Serviços centrais.
 
 2 - Em cada governo civil existirá um inspector como delegado distrital da Inspecção-Geral da Administração Interna.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Competência genérica do Inspector-geral)
 
@@ -202,7 +237,7 @@ d) Coordenar a actuação da Inspecção-Geral da Administração Interna com a 
 
 e) Conferir posse aos funcionários dos respectivos quadros privativos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Competência específica do Inspector-geral)
 
@@ -224,13 +259,13 @@ g) Promover a abertura dos concursos de provimento dos lugares dos quadros centr
 
 2 - O inspector-geral será coadjuvado no exercício das suas funções pelo pessoal técnico e administrativo da Inspecção-Geral da Administração Interna que por despacho afectar ao seu serviço de apoio.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Substituição do Inspector-geral)
 
 O inspector-geral é substituído nas suas faltas e impedimentos por um elemento da comissão técnica a nomear pelo Ministro da Administração Interna e, na falta ou impedimento deste, pelo mais antigo dos restantes membros daquela comissão.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Comissão técnica)
 
@@ -250,7 +285,7 @@ d) Estudar os modelos de questionários e as normas e procedimentos técnicos a 
 
 e) Pronunciar-se sobre quaisquer outros assuntos de serviço que lhe sejam submetidos por iniciativa do inspector-geral ou por determinação do Ministro da Administração Interna.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Funcionamento da comissão técnica)
 
@@ -270,13 +305,13 @@ e) Pronunciar-se sobre quaisquer outros assuntos de serviço que lhe sejam subme
 
 8 - Os processos são submetidos a despacho do membro do Governo competente acompanhados pela acta da sessão da comissão técnica em que foram apreciados, a qual incluirá as declarações de voto emitidas.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Membros designados da comissão técnica)
 
 Os inspectores superiores administrativos enquanto integrarem a comissão técnica ficam dispensados da realização de inspecções, podendo, no entanto, em situações de especial complexidade e melindre, ser empenhados na realização de inquéritos ou sindicâncias, mas, nestes casos, como coordenadores de equipas de trabalho adequadamente constituídas.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Serviços centrais e delegados distritais)
 
@@ -290,13 +325,13 @@ Os inspectores superiores administrativos enquanto integrarem a comissão técni
 
 5 - Excepcionalmente, pode o inspector-geral incumbir os delegados distritais do desempenho de funções fora da área do respectivo distrito.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Competência dos inspectores)
 
 Aos inspectores compete, em geral, a execução de todas as tarefas inerentes ao exercício das actividades cometidas à Inspecção-Geral da Administração Interna, designadamente a organização e instrução dos processos de inspecção, inquérito, sindicância, disciplinares ou relativos a serviços de averiguações ou esclarecimento e ainda a realização dos que lhes forem especialmente confiados.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Direitos e prerrogativas)
 
@@ -320,7 +355,7 @@ h) Proceder à selagem de quaisquer instalações e à selagem ou arrombamento d
 
 2 - Aqueles que por qualquer forma dificultarem ou se opuserem ao desempenho das funções dos inspectores da IGAI incorrem no crime de desobediência, qualificada, previsto na lei penal, além da responsabilidade civil e disciplinar a que haja lugar.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Dos deveres específicos)
 
@@ -330,7 +365,7 @@ a) Desempenhar com o maior escrúpulo, correcção e diligência os serviços de
 
 b) Guardar sigilo em todos os assuntos que se relacionem com o serviço.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Inibições e incompatibilidades)
 
@@ -350,7 +385,7 @@ e) Exercer quaisquer outras funções fora da IGAI, salvo as que decorrerem do e
 
 3 - O despacho de autorização pode ser revogado a todo o tempo pela entidade que o proferiu, sob proposta do inspector-geral, ouvidos a comissão técnica e o interessado, quando não se considerarem devidamente salvaguardadas quer as condições que eventualmente tenham constado desse despacho, quer as mencionadas no n.º 2.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Requisição de testemunhas ou declarantes)
 
@@ -364,7 +399,7 @@ e) Exercer quaisquer outras funções fora da IGAI, salvo as que decorrerem do e
 
 5 - Toda a pessoa notificada ou avisada que não compareça no dia, hora e local designados, nem justifique a falta, será punida nos termos da lei, sem prejuízo do procedimento disciplinar a que haja lugar.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Duração e relatórios dos serviços externos)
 
@@ -376,13 +411,13 @@ e) Exercer quaisquer outras funções fora da IGAI, salvo as que decorrerem do e
 
 ### CAPÍTULO III — Do pessoal
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Quadro de pessoal)
 
 As categorias do pessoal da IGAI são as constantes do mapa anexo a este diploma e que dele faz parte integrante.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Pessoal dirigente)
 
@@ -392,7 +427,7 @@ As categorias do pessoal da IGAI são as constantes do mapa anexo a este diploma
 
 3 - No caso previsto no número anterior, a nomeação será obrigatoriamente precedida de autorização, a obter nos termos das respectivas leis estatutárias, considerando-se o serviço prestado no cargo de inspector-geral como se o tivesse sido nas categorias e funções dos quadros de origem.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Carreira de inspecção administrativa)
 
@@ -406,7 +441,7 @@ As categorias do pessoal da IGAI são as constantes do mapa anexo a este diploma
 
 5 - Nos concursos para as categorias de acesso poderão ser opositores os funcionários de outros quadros pertencentes a carreiras inseridas na mesma área funcional.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Estágio)
 
@@ -416,13 +451,13 @@ As categorias do pessoal da IGAI são as constantes do mapa anexo a este diploma
 
 3 - Os estagiários anteriormente vinculados à função pública consideram-se durante o período de estágio na situação de requisitado aos serviços e organismos de origem.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Classificação anual de serviço)
 
 Os funcionários da IGAI serão objecto de classificação anual de serviço, a qual traduzirá uma apreciação e avaliação do respectivo mérito, nos termos que vierem a ser definidos por portaria conjunta do Ministro da Administração Interna e do membro do Governo que tiver a seu cargo a função pública.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Provimento)
 
@@ -444,13 +479,13 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro da IGAI em que vier a ser provido definitivamente, finda a comissão.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Gratificações)
 
 O pessoal constante do quadro anexo ao presente diploma tem direito a gratificação mensal, que será de importância equivalente a 20% do respectivo vencimento.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Abonos e ajudas de custos)
 
@@ -462,13 +497,13 @@ O pessoal constante do quadro anexo ao presente diploma tem direito a gratifica�
 
 4 - Tendo em conta a natureza específica das suas funções, quando numa mesma localidade se encontrem deslocados funcionários de categorias diferentes, serão a todos abonadas ajudas de custo do quantitativo que competir ao inspector de maior categoria.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Interrupção de licença para férias de funcionários e agentes dos serviços visitados)
 
 Os funcionários de inspecção, quando assim o exigirem as necessidades dos trabalhos que estejam a executar, podem determinar a interrupção, pelo menor período de tempo possível, do gozo da licença para férias de qualquer funcionário dos serviços visitados cuja imediata presença se torne imprescindível.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Residência dos inspectores)
 
@@ -478,7 +513,7 @@ Os funcionários de inspecção, quando assim o exigirem as necessidades dos tra
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Transição dos inspectores para o novo quadro)
 
@@ -488,19 +523,19 @@ Os funcionários de inspecção, quando assim o exigirem as necessidades dos tra
 
 3 - É extinta a categoria de inspector administrativo-adjunto.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Caducidade de validade de concurso)
 
 Considera-se caducado o concurso em vigor para admissão na categoria de inspector administrativo-adjunto.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Revogação)
 
 São revogadas todas as disposições do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, relacionadas com a IGAI, bem como as do [Decreto-Lei n.º 356/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1982-374253), de 6 de Setembro, que o alterou.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Entrada em vigor)
 
@@ -508,16 +543,16 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 4 de Junho de 1985.**
+Promulgado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa a que se refere o artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16751680.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16751680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16751680.pdf)

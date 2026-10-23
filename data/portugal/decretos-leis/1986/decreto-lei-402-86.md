@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/27800/36113619.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94a0444755a97be29be1e4dfa54910b56d63a257a71936d7daac7fe76cda61fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 571ffc9f419561ce470a8867119ba8cc67962328191e66fb3ac86a8daf00b8c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Promoção Turística
+- Orgânica
+- Presidência do Conselho de Ministros
+- Promoção Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:684396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406126:por
+  label: Prorrogado o período de instalação do Instituto de Promoção Turística a que se refere o art. 55º do presente diploma,
+    pelo DEC LEI.407/87.31.12.1987.MCT, DR.IS [300]3ºSupl de 31.12.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/407-1987-406126
+  date: '1987-12-31'
+- type: amended_by
+  target: pt:dre:563233:por
+  label: "Alterados os arts. 6º, 7º, 8º, 9º, 12º e 16º, aditado o art. 53º-A e substituido o mapa anexo ao presente diploma,\
+    \ pelo DEC LEI.400/90.17.12.1990.MCT, DR.IS [289] de 17.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1990-563233
+  date: '1990-12-17'
+- type: amended_by
+  target: pt:dre:684396:por
+  label: Extinto o Instituto de Promoção Turística (IPT), criado pelo presente diploma, que é revogado, com a redação dada
+    pelo Dec Lei 400/90, de 17-dez, pelo(a) Decreto-Lei n.º 179/92 - Diário da República n.º 188/1992, 1º Suplemento, Série
+    I-A de 1992-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1992-684396
+  date: '1992-08-17'
+- type: cites
+  target: pt:dre:451274:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551256:por
+  label: "Revogado o nº 2 do art. 30º e os art.s 32º e 33º, pelo DEC LEI.446/89.30.12.1989.MCT, DR.IS [299] de 30.12.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/446-1989-551256
+  date: '1989-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:57Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +144,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Da natureza, atribuições e competência
 
-###### Artigo 1.º - 1 - É criado na Presidência do Conselho de Ministros o Instituto de Promoção Turística, abreviadamente designado por IPT.
+Artigo 1.º - 1 - É criado na Presidência do Conselho de Ministros o Instituto de Promoção Turística, abreviadamente designado por IPT.
 
 2 - O IPT é um instituto com personalidade jurídica dotado de autonomia administrativa e financeira e de património próprio.
 
-###### Art. 2.º - 1 - São atribuições do IPT:
+Art. 2.º - 1 - São atribuições do IPT:
 
 a) Executar a política definida para o turismo em matéria de promoção;
 
@@ -128,7 +162,7 @@ e) Coordenar todas as acções destinadas a promover o turismo português no est
 
 2 - Em consequência do estabelecido no número anterior, passam a ser exercidas pelo IPT as funções respeitantes à promoção do turismo português, que são, actualmente, da competência da Direcção-Geral do Turismo.
 
-###### Art. 3.º Para prossecução das atribuições que lhe são cometidas nos termos do artigo anterior cabe, em geral, ao IPT:
+Art. 3.º Para prossecução das atribuições que lhe são cometidas nos termos do artigo anterior cabe, em geral, ao IPT:
 
 a) Organizar, apoiar ou promover a realização de acções destinadas à divulgação do fenómeno turístico e à consciencialização e informação da população portuguesa sobre a importância da actividade;
 
@@ -156,7 +190,7 @@ m) Promover a constituição de fundos especiais destinados a realizar acções 
 
 n) Dar parecer ao Fundo de Turismo sobre os pedidos de apoio financeiro a acções promocionais visando a exportação do turismo português.
 
-###### Art. 4.º - 1 - Só o IPT pode realizar no estrangeiro, com carácter oficial, acções ou manifestações destinadas à promoção do turismo português.
+Art. 4.º - 1 - Só o IPT pode realizar no estrangeiro, com carácter oficial, acções ou manifestações destinadas à promoção do turismo português.
 
 2 - As acções do IPT fora do País serão realizadas através dos seus serviços no estrangeiro, salvo se não existirem no país onde aquelas terão lugar.
 
@@ -170,7 +204,7 @@ n) Dar parecer ao Fundo de Turismo sobre os pedidos de apoio financeiro a acçõ
 
 #### SECÇÃO I — Da estrutura geral
 
-###### Art. 5.º O IPT compreende os seguintes órgãos e serviços:
+Art. 5.º O IPT compreende os seguintes órgãos e serviços:
 
 1) São órgãos do IPT:
 
@@ -204,7 +238,7 @@ Postos de turismo.
 
 #### SECÇÃO II — Dos órgãos
 
-###### Art. 6.º - 1 - Ao presidente incumbe a direcção e gestão do IPT, em ordem à prossecução das atribuições que são definidas por este diploma e das que lhe forem especialmente cometidas.
+Art. 6.º - 1 - Ao presidente incumbe a direcção e gestão do IPT, em ordem à prossecução das atribuições que são definidas por este diploma e das que lhe forem especialmente cometidas.
 
 2 - O presidente será coadjuvado por um vice-presidente.
 
@@ -212,7 +246,7 @@ Postos de turismo.
 
 4 - O presidente e o vice-presidente do IPT são equiparados, respectivamente, a director-geral e a subdirector-geral, para todos os efeitos legais, sendo a sua nomeação feita nos termos da lei geral.
 
-###### Art. 7.º - 1 - Para o desempenho das suas funções compete ao presidente praticar todos os actos necessários à execução das atribuições do IPT, em especial:
+Art. 7.º - 1 - Para o desempenho das suas funções compete ao presidente praticar todos os actos necessários à execução das atribuições do IPT, em especial:
 
 a) Representar o IPT em juízo e fora dele, podendo constituir mandatários;
 
@@ -238,7 +272,7 @@ l) Submeter a despacho do membro do Governo da tutela todos os assuntos que requ
 
 2 - O presidente pode delegar o exercício de qualquer das suas competências no vice-presidente ou em qualquer funcionário do pessoal dirigente ou superior do IPT, especificando os poderes e as matérias abrangidos na delegação.
 
-###### Art. 8.º - 1 - O conselho administrativo é um órgão de gestão e consulta, constituído por:
+Art. 8.º - 1 - O conselho administrativo é um órgão de gestão e consulta, constituído por:
 
 a) O presidente do IPT, que presidirá;
 
@@ -250,7 +284,7 @@ c) O responsável pelo Departamento de Promoção.
 
 3 - Os responsáveis pelos Departamentos de Administração e Pessoal e de Promoção serão substituídos nas suas faltas e impedimentos pelo responsável dos Serviços Administrativos e Financeiros e pelo responsável do Serviço de Planeamento, respectivamente.
 
-###### Art. 9.º - 1 - Compete ao presidente do conselho administrativo:
+Art. 9.º - 1 - Compete ao presidente do conselho administrativo:
 
 a) Presidir e representar o conselho;
 
@@ -260,7 +294,7 @@ c) Superintender em toda a actividade de expediente, contabilidade e secretariad
 
 2 - O presidente poderá delegar a presidência do conselho no vice presidente.
 
-###### Art. 10.º - 1 - Compete ao conselho administrativo:
+Art. 10.º - 1 - Compete ao conselho administrativo:
 
 a) Elaborar as contas anuais de gerência;
 
@@ -284,7 +318,7 @@ h) Pronunciar-se sobre quaisquer outros assuntos de natureza administrativa ou f
 
 4 - O IPT obriga-se mediante a assinatura de dois membros do conselho administrativo, sendo obrigatória a do seu presidente ou de quem o substitua.
 
-###### Art. 11.º - 1 - O conselho administrativo reúne ordinariamente uma vez por semana, podendo reunir extraordinariamente sempre que o seu presidente o convoque.
+Art. 11.º - 1 - O conselho administrativo reúne ordinariamente uma vez por semana, podendo reunir extraordinariamente sempre que o seu presidente o convoque.
 
 2 - O conselho só poderá reunir e deliberar com a presença da maioria legal dos seus membros.
 
@@ -296,7 +330,7 @@ h) Pronunciar-se sobre quaisquer outros assuntos de natureza administrativa ou f
 
 6 - O expediente e secretariado do conselho será assegurado pelo pessoal do IPT designado para o efeito.
 
-###### Art. 12.º - 1 - O conselho de coordenação promocional é constituído por:
+Art. 12.º - 1 - O conselho de coordenação promocional é constituído por:
 
 a) O presidente do IPT, que presidirá;
 
@@ -328,9 +362,9 @@ b) Os presidentes das associações empresariais do sector que o requeiram ao me
 
 3 - Por proposta do conselho, o membro do Governo da tutela pode excluir da sua participação os membros previstos no número anterior que não colaborem ou participem nas acções promovidas ou realizadas pelo IPT ou cuja acção não seja consentânea com os objectivos do conselho.
 
-###### Art. 13.º Sempre que o julgar conveniente, o presidente do conselho de coordenação promocional poderá convidar a participar nos seus trabalhos, sem direito a voto, funcionários do IPT e ainda, com o estatuto de observador ou consultor, entidades ou personalidades estranhas ao Instituto com especial competência nas matérias a tratar.
+Art. 13.º Sempre que o julgar conveniente, o presidente do conselho de coordenação promocional poderá convidar a participar nos seus trabalhos, sem direito a voto, funcionários do IPT e ainda, com o estatuto de observador ou consultor, entidades ou personalidades estranhas ao Instituto com especial competência nas matérias a tratar.
 
-###### Art. 14.º Ao conselho de coordenação promocional cabe dar parecer sobre:
+Art. 14.º Ao conselho de coordenação promocional cabe dar parecer sobre:
 
 a) O plano anual e plurianual de promoção turística a realizar pelo IPT e pelas regiões de turismo no País e no estrangeiro;
 
@@ -340,7 +374,7 @@ c) O relatório anual da actividade promocional do IPT;
 
 d) Quaisquer outros assuntos que sejam submetidos à sua apreciação pelo presidente.
 
-###### Art. 15.º - 1 - Ao conselho de coordenação promocional compete ainda:
+Art. 15.º - 1 - Ao conselho de coordenação promocional compete ainda:
 
 a) Aprovar as acções promocionais a realizar através dos fundos previstos na alínea m) do artigo 3.º deste diploma;
 
@@ -350,7 +384,7 @@ b) Pronunciar-se sobre as acções ou campanhas promocionais a realizar no estra
 
 3 - Nas reuniões do conselho destinadas a deliberar sobre as matérias a que se refere o n.º 1 apenas participarão os membros interessados no assunto, sem prejuízo do estabelecido no n.º 2 do artigo 13.º
 
-###### Art. 16.º - 1 - Ao presidente do conselho de coordenação promocional compete:
+Art. 16.º - 1 - Ao presidente do conselho de coordenação promocional compete:
 
 a) Convocar e dirigir as suas reuniões;
 
@@ -364,7 +398,7 @@ d) Superintender no expediente do conselho.
 
 3 - O presidente poderá delegar no vice-presidente a competência a que se referem a alínea d) do n.º 1 deste artigo e as alíneas a) e b) do mesmo número, no que respeita às reuniões restritas do conselho.
 
-###### Art. 17.º - 1 - O conselho funcionará em sessões plenárias ou restritas, de acordo com o regulamento interno, a aprovar por despacho do membro do Governo da tutela, sob proposta do respectivo presidente.
+Art. 17.º - 1 - O conselho funcionará em sessões plenárias ou restritas, de acordo com o regulamento interno, a aprovar por despacho do membro do Governo da tutela, sob proposta do respectivo presidente.
 
 2 - As reuniões plenárias serão convocadas pelo presidente, por sua iniciativa ou a pedido da maioria dos seus membros.
 
@@ -378,13 +412,13 @@ d) Superintender no expediente do conselho.
 
 7 - De todas as reuniões do conselho, incluindo as das comissões especializadas, serão lavradas actas, subscritas por todos os presentes.
 
-###### Art. 18.º O conselho poderá constituir comissões especializadas, nos termos do respectivo regulamento interno, para apreciar matérias de carácter específico.
+Art. 18.º O conselho poderá constituir comissões especializadas, nos termos do respectivo regulamento interno, para apreciar matérias de carácter específico.
 
-###### Art. 19.º O expediente do conselho, incluindo o secretariado das suas reuniões, será assegurado pelo serviço do IPT que for designado para tal por despacho do seu presidente.
+Art. 19.º O expediente do conselho, incluindo o secretariado das suas reuniões, será assegurado pelo serviço do IPT que for designado para tal por despacho do seu presidente.
 
 #### SECÇÃO III — Dos serviços centrais
 
-###### Art. 20.º O Departamento de Promoção, a quem compete executar a competência do IPT em matéria de promoção turística, compreende:
+Art. 20.º O Departamento de Promoção, a quem compete executar a competência do IPT em matéria de promoção turística, compreende:
 
 a) O Serviço de Planeamento;
 
@@ -392,7 +426,7 @@ b) O Serviço de Acção e Coordenação;
 
 c) O Serviço de Relações Públicas, Produção e Informação Turística.
 
-###### Art. 21.º Ao Serviço de Planeamento incumbe a definição das acções promocionais a desenvolver nos mercados internos e externos, com vista ao mais adequado aproveitamento da oferta turística portuguesa, nomeadamente:
+Art. 21.º Ao Serviço de Planeamento incumbe a definição das acções promocionais a desenvolver nos mercados internos e externos, com vista ao mais adequado aproveitamento da oferta turística portuguesa, nomeadamente:
 
 a) A definição e implantação de sistema de planeamento da acção promocional, tendo em conta o plano global do sector;
 
@@ -414,7 +448,7 @@ i) Manter ligações com os organismos internacionais que actuam na área do pla
 
 j) Prestar a colaboração do IPT nas negociações de acordos internacionais.
 
-###### Art. 22.º Ao Serviço de Acção e Coordenação compete a realização e coordenação da acção promocional do turismo português no País e no estrangeiro, nomeadamente:
+Art. 22.º Ao Serviço de Acção e Coordenação compete a realização e coordenação da acção promocional do turismo português no País e no estrangeiro, nomeadamente:
 
 a) Implementar e promover a aplicação dos programas e acções planeados;
 
@@ -430,7 +464,7 @@ f) Coordenar e prestar apoio técnico de acções promocionais a cargo dos órg�
 
 g) Organizar ou promover a realização e participação em seminários, feiras, conferências, exposições ou outras manifestações de carácter turístico, cultural ou desportivo.
 
-###### Art. 23.º Ao Serviço de Relações Públicas, Produção e Informação Turística compete assegurar a concepção e produção de materiais promocionais, as acções destinadas à divulgação do turismo português e à defesa da sua imagem, ficando a seu cargo, nomeadamente:
+Art. 23.º Ao Serviço de Relações Públicas, Produção e Informação Turística compete assegurar a concepção e produção de materiais promocionais, as acções destinadas à divulgação do turismo português e à defesa da sua imagem, ficando a seu cargo, nomeadamente:
 
 a) Produzir os materiais de divulgação do turismo português e do País, em geral, e propor a aquisição dos materiais promocionais que não sejam produzidos directamente pelo IPT;
 
@@ -460,13 +494,13 @@ n) Apoiar os CTP nas suas acções de relações públicas em Portugal;
 
 o) Assegurar o armazenamento e controle de stocks de todos os materiais promocionais e respectiva distribuição.
 
-###### Art. 24.º O Departamento de Administração e Pessoal, a quem compete assegurar o apoio à gestão do IPT nos domínios do pessoal, administrativo, financeiro e patrimonial, compreende:
+Art. 24.º O Departamento de Administração e Pessoal, a quem compete assegurar o apoio à gestão do IPT nos domínios do pessoal, administrativo, financeiro e patrimonial, compreende:
 
 a) O Serviço de Organização e Pessoal;
 
 b) Os Serviços Administrativos e Financeiros.
 
-###### Art. 25.º Ao Serviço de Organização e Pessoal compete a gestão do pessoal do IPT, nomeadamente:
+Art. 25.º Ao Serviço de Organização e Pessoal compete a gestão do pessoal do IPT, nomeadamente:
 
 a) Apoiar os órgãos e serviços do IPT no domínio da respectiva organização;
 
@@ -478,7 +512,7 @@ d) Organizar e manter actualizados os processos dos funcionários e o cadastro d
 
 e) Superintender no pessoal auxiliar.
 
-###### Art. 26.º Aos Serviços Administrativos e Financeiros compete, designadamente:
+Art. 26.º Aos Serviços Administrativos e Financeiros compete, designadamente:
 
 a) Preparar e elaborar, em colaboração com os demais departamentos, o orçamento do IPT;
 
@@ -494,13 +528,13 @@ f) Coordenar, nos aspectos administrativos e financeiros, o funcionamento dos se
 
 g) Assegurar o arquivo e expediente geral do IPT.
 
-###### Art. 27.º O Departamento de Auditoria e Inspecção, a quem compete apoiar os órgãos do IPT na gestão e fiscalização da actividade e do funcionamento dos seus serviços, compreende:
+Art. 27.º O Departamento de Auditoria e Inspecção, a quem compete apoiar os órgãos do IPT na gestão e fiscalização da actividade e do funcionamento dos seus serviços, compreende:
 
 a) O Serviço de Assessores;
 
 b) O Serviço de Inspecção dos Serviços Desconcentrados do IPT.
 
-###### Art. 28.º Ao Serviço de Assessores incumbe, nomeadamente:
+Art. 28.º Ao Serviço de Assessores incumbe, nomeadamente:
 
 a) Elaborar e propor ao presidente do IPT os regulamentos e medidas de controle internos julgados convenientes;
 
@@ -514,7 +548,7 @@ e) Dar apoio ao presidente em matéria de organização e gestão;
 
 f) Colaborar com o Serviço de Inspecção.
 
-###### Art. 29.º Ao Serviço de Inspecção dos Serviços Desconcentrados do IPT compete, nomeadamente:
+Art. 29.º Ao Serviço de Inspecção dos Serviços Desconcentrados do IPT compete, nomeadamente:
 
 a) Realizar inspecções aos CTP, acompanhando a execução das acções previstas nos respectivos planos de acção;
 
@@ -536,11 +570,11 @@ i) Colaborar com o Serviço de Assessores.
 
 #### SECÇÃO IV — Dos serviços desconcentrados do IPT
 
-###### Art. 30.º - 1 - Os serviços no estrangeiro constituem serviços externos do IPT, aos quais incumbe, fundamentalmente, assegurar a promoção da imagem turística de Portugal e do turismo português em geral.
+Art. 30.º - 1 - Os serviços no estrangeiro constituem serviços externos do IPT, aos quais incumbe, fundamentalmente, assegurar a promoção da imagem turística de Portugal e do turismo português em geral.
 
 2 - Os serviços no estrangeiro continuam a ser regulados pelo disposto no [Decreto-Lei n.º 199/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1983-451274), de 19 de Maio, e demais legislação aplicável aos serviços de turismo no estrangeiro da Direcção-Geral do Turismo em tudo o que não contrarie o disposto no presente diploma.
 
-###### Art. 31.º Aos centros de turismo de Portugal, designados abreviadamente por CTP, compete, nomeadamente:
+Art. 31.º Aos centros de turismo de Portugal, designados abreviadamente por CTP, compete, nomeadamente:
 
 a) Representar o IPT na sua área de actuação;
 
@@ -556,7 +590,7 @@ f) Cooperar com as missões diplomáticas na preparação e negociação de acor
 
 g) Colaborar com as representações particulares e oficiais portuguesas na prossecução dos interesses do turismo nacional e na comercialização do produto turístico português.
 
-###### Art. 32.º Às delegações do IPT, que dependerão do CTP da respectiva área, compete, nomeadamente:
+Art. 32.º Às delegações do IPT, que dependerão do CTP da respectiva área, compete, nomeadamente:
 
 a) Elaborar e propor ao respectivo director do CTP o plano anual da delegação e a proposta de orçamento correspondente;
 
@@ -570,7 +604,7 @@ e) Desenvolver a actuação promocional da delegação, de harmonia com as direc
 
 f) Propor a contratação local de pessoal necessário ao funcionamento da delegação.
 
-###### Art. 33.º - 1 - Às subdelegações do IPT compete desenvolver, essencialmente, uma actividade de relações públicas, designadamente através do seguinte tipo de acções:
+Art. 33.º - 1 - Às subdelegações do IPT compete desenvolver, essencialmente, uma actividade de relações públicas, designadamente através do seguinte tipo de acções:
 
 a) Visitas de prospecção e educacionais;
 
@@ -584,11 +618,11 @@ e) Realização de acções publicitárias, directamente ou em colaboração com
 
 2 - O estabelecido no número anterior não impede o lançamento pontual de outro tipo de acções de promoção consideradas oportunas.
 
-###### Art. 34.º - 1 - Os postos de turismo têm apenas funções de acolhimento e assistência aos turistas, competindo-lhes prestar informações, tanto verbais como pela entrega de material destinado a esse fim.
+Art. 34.º - 1 - Os postos de turismo têm apenas funções de acolhimento e assistência aos turistas, competindo-lhes prestar informações, tanto verbais como pela entrega de material destinado a esse fim.
 
 2 - Os postos de turismo funcionam na dependência hierárquica e funcional do Departamento de Promoção, através do Serviço de Relações Públicas, Produção e Informação Turística.
 
-###### Art. 35.º - 1 - Os serviços locais do IPT são criados por portaria conjunta do membro do Governo com tutela sobre o sector do turismo e do Ministro das Finanças.
+Art. 35.º - 1 - Os serviços locais do IPT são criados por portaria conjunta do membro do Governo com tutela sobre o sector do turismo e do Ministro das Finanças.
 
 2 - Da portaria a que se refere o número anterior deverão constar:
 
@@ -598,11 +632,11 @@ b) O pessoal que os integra.
 
 ### CAPÍTULO III — Do funcionamento
 
-###### Art. 36.º - 1 - O apoio do IPT previsto no artigo 3.º deste diploma pode revestir o carácter de ajuda técnica ou financeira.
+Art. 36.º - 1 - O apoio do IPT previsto no artigo 3.º deste diploma pode revestir o carácter de ajuda técnica ou financeira.
 
 2 - O apoio do IPT pode ser condicionado ao cumprimento por parte da entidade ou empresa beneficiária de determinadas obrigações.
 
-###### Art. 37.º - 1 - O IPT poderá conceder subsídios destinados:
+Art. 37.º - 1 - O IPT poderá conceder subsídios destinados:
 
 a) À realização de festivais, feiras, seminários, exposições, competições ou manifestações culturais ou desportivas de reconhecido interesse turístico;
 
@@ -616,9 +650,9 @@ d) À participação em manifestações destinadas à divulgação e promoção 
 
 3 - Os subsídios poderão ser concedidos a fundo perdido ou ser reembolsáveis, no todo ou em parte.
 
-###### Art. 38.º O IPT poderá proceder à exploração comercial de material destinado à promoção do País, designadamente através da edição, produção, venda, aluguer ou de qualquer outra forma de comercialização.
+Art. 38.º O IPT poderá proceder à exploração comercial de material destinado à promoção do País, designadamente através da edição, produção, venda, aluguer ou de qualquer outra forma de comercialização.
 
-###### Art. 39.º No desempenho das suas atribuições poderá o IPT:
+Art. 39.º No desempenho das suas atribuições poderá o IPT:
 
 a) Articular a sua acção com outras entidade públicas ou privadas, nacionais ou estrangeiras, promovendo acordos e associações que se revelem de utilidade para o exercício das suas funções;
 
@@ -626,7 +660,7 @@ b) Solicitar e contratar a colaboração de serviços especializados nas áreas 
 
 ### CAPÍTULO IV — Da gestão financeira e patrimonial
 
-###### Art. 40.º - 1 - A gestão do IPT será disciplinada pelos seguintes instrumentos de previsão e de controle:
+Art. 40.º - 1 - A gestão do IPT será disciplinada pelos seguintes instrumentos de previsão e de controle:
 
 a) Planos anuais e plurianuais de actividade;
 
@@ -640,7 +674,7 @@ c) Relatório anual de actividade.
 
 4 - O orçamento será elaborado com base no plano anual de actividade, sem prejuízo dos desdobramentos internos que se mostrem necessários ao adequado controle de gestão.
 
-###### Art. 41.º Constituem receitas do IPT:
+Art. 41.º Constituem receitas do IPT:
 
 a) As dotações que lhe sejam atribuídas no Orçamento do Estado;
 
@@ -660,13 +694,13 @@ h) O produto das explorações comerciais ou industriais em que seja interessado
 
 i) Os saldos verificados em gerências anteriores correspondentes ao excesso das receitas arrecadadas.
 
-###### Art. 42.º Constituem despesas do IPT:
+Art. 42.º Constituem despesas do IPT:
 
 a) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições e competências que lhe estão confiadas;
 
 b) Os custos de aquisição, manutenção e conservação de bens, equipamentos ou serviços que tenha de utilizar.
 
-###### Art. 43.º - 1 - O IPT arrecada e cobra as suas receitas.
+Art. 43.º - 1 - O IPT arrecada e cobra as suas receitas.
 
 2 - As receitas do IPT serão depositadas em conta própria em qualquer instituição de crédito do Estado.
 
@@ -674,15 +708,15 @@ b) Os custos de aquisição, manutenção e conservação de bens, equipamentos 
 
 4 - O presidente requisitará mensalmente à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que legalmente lhe possam ser atribuídas por conta das dotações orçamentais consignadas ao IPT no Orçamento do Estado.
 
-###### Art. 44.º - 1 - As despesas previstas no orçamento do IPT serão processadas nos termos previstos pela lei geral para organismos dotados de autonomia administrativa.
+Art. 44.º - 1 - As despesas previstas no orçamento do IPT serão processadas nos termos previstos pela lei geral para organismos dotados de autonomia administrativa.
 
 2 - O pagamento das despesas far-se-á por cheques nominativos, assinados por dois membros do conselho administrativo.
 
-###### Art. 45.º Anualmente será apresentada ao Tribunal de Contas a conta de gerência, nos termos da lei geral.
+Art. 45.º Anualmente será apresentada ao Tribunal de Contas a conta de gerência, nos termos da lei geral.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 46.º - 1 - O quadro de pessoal não dirigente do IPT será fixado por portaria conjunta do Ministro das Finanças e dos membros do Governo com tutela sobre o sector do turismo e sobre a Administração Pública.
+Art. 46.º - 1 - O quadro de pessoal não dirigente do IPT será fixado por portaria conjunta do Ministro das Finanças e dos membros do Governo com tutela sobre o sector do turismo e sobre a Administração Pública.
 
 2 - São desde já criados os lugares de pessoal dirigente constantes do mapa anexo a este diploma.
 
@@ -690,13 +724,13 @@ b) Os custos de aquisição, manutenção e conservação de bens, equipamentos 
 
 4 - O quadro do pessoal do IPT pode ser alterado por portaria, nos termos da legislação em vigor.
 
-###### Art. 47.º - 1 - Os departamentos dos serviços centrais são dirigidos por directores de serviços.
+Art. 47.º - 1 - Os departamentos dos serviços centrais são dirigidos por directores de serviços.
 
 2 - Os serviços que integram os departamentos dos serviços centrais, com excepção do Serviço de Assessores, são dirigidos por chefes de divisão.
 
 3 - O Serviço de Assessores funcionará na dependência directa do responsável pelo departamento, a quem competirá a chefia do Serviço.
 
-###### Art. 48.º - 1 - Os directores dos centros de turismo de Portugal são nomeados pelo membro do Governo com tutela sobre o sector do turismo, sob proposta do presidente do IPT.
+Art. 48.º - 1 - Os directores dos centros de turismo de Portugal são nomeados pelo membro do Governo com tutela sobre o sector do turismo, sob proposta do presidente do IPT.
 
 2 - Quanto tal seja tido por conveniente para a eficaz promoção do turismo português, os directores dos centros de turismo de Portugal, desde que tenham nacionalidade portuguesa, poderão ser acreditados como conselheiros ou adidos às respectivas embaixadas portuguesas, sendo em tais casos a nomeação da competência conjunta do Ministro dos Negócios Estrangeiros e do membro do Governo com tutela sobre o sector do turismo, mediante proposta do presidente do IPT.
 
@@ -704,7 +738,7 @@ b) Os custos de aquisição, manutenção e conservação de bens, equipamentos 
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 49.º - 1 - Os lugares do quadro de pessoal não dirigente do IPT serão preenchidos por funcionários transferidos do quadro de pessoal da Direcção-Geral do Turismo.
+Art. 49.º - 1 - Os lugares do quadro de pessoal não dirigente do IPT serão preenchidos por funcionários transferidos do quadro de pessoal da Direcção-Geral do Turismo.
 
 2 - O pessoal a transferir constará de listas nominativas aprovadas por despacho do membro do Governo da tutela e publicadas no Diário da República.
 
@@ -712,15 +746,15 @@ b) Os custos de aquisição, manutenção e conservação de bens, equipamentos 
 
 4 - O pessoal integrado no IPT, nos termos deste diploma, conservará todos os direitos que possuía à data da sua integração, designadamente no que respeita à categoria, antiguidade e remuneração.
 
-###### Art. 50.º - 1 - Das verbas atribuídas à Direcção-Geral do Turismo para o ano corrente e das que lhe forem atribuídas para o ano de 1987 serão transferidas para o IPT as correspondentes ao pessoal transferido e às despesas inerentes ao funcionamento dos serviços transitados, bem como as afectas ou destinadas às actividades e acções promocionais.
+Art. 50.º - 1 - Das verbas atribuídas à Direcção-Geral do Turismo para o ano corrente e das que lhe forem atribuídas para o ano de 1987 serão transferidas para o IPT as correspondentes ao pessoal transferido e às despesas inerentes ao funcionamento dos serviços transitados, bem como as afectas ou destinadas às actividades e acções promocionais.
 
 2 - Fica o Ministro das Finanças autorizado a proceder às transferências necessárias à correcta execução do presente diploma.
 
-###### Art. 51.º - 1 - Mediante despacho conjunto do membro do Governo com tutela sobre o turismo e do Ministro das Finanças poderão ser utilizadas pelo IPT, à medida que se for processando a sua instalação e até à efectivação das alterações orçamentais decorrentes deste diploma, as verbas da Direcção-Geral do Turismo a transferir para ele.
+Art. 51.º - 1 - Mediante despacho conjunto do membro do Governo com tutela sobre o turismo e do Ministro das Finanças poderão ser utilizadas pelo IPT, à medida que se for processando a sua instalação e até à efectivação das alterações orçamentais decorrentes deste diploma, as verbas da Direcção-Geral do Turismo a transferir para ele.
 
 2 - Da execução do presente diploma não poderá advir aumento do pessoal ou das verbas orçamentadas.
 
-###### Art. 52.º - 1 - A instalação do IPT compete ao seu presidente, que será coadjuvado pelo vice-presidente e pessoal dirigente do IPT.
+Art. 52.º - 1 - A instalação do IPT compete ao seu presidente, que será coadjuvado pelo vice-presidente e pessoal dirigente do IPT.
 
 2 - Para efeitos do disposto no número anterior, durante o período de instalação será permitido o destacamento de pessoal da Direcção-Geral do Turismo para o IPT.
 
@@ -728,7 +762,7 @@ b) Os custos de aquisição, manutenção e conservação de bens, equipamentos 
 
 4 - Durante o período de instalação, o presidente poderá contratar técnicos especializados para a execução de trabalhos específicos de natureza excepcional, nos termos da lei geral.
 
-###### Art. 53.º - 1 - O provimento de pessoal não dirigente a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 53.º - 1 - O provimento de pessoal não dirigente a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -746,22 +780,22 @@ a) No lugar de origem, quando à comissão não se seguir provimento definitivo;
 
 b) No lugar do quadro do IPT em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 54.º Para efeitos do disposto no presente diploma, todas as referências feitas à Direcção-Geral do Turismo respeitantes à promoção do turismo português e aos serviços transferidos em diplomas legais, contratos ou outros documentos entender-se-ão feitas ao IPT e aos respectivos serviços deste.
+Art. 54.º Para efeitos do disposto no presente diploma, todas as referências feitas à Direcção-Geral do Turismo respeitantes à promoção do turismo português e aos serviços transferidos em diplomas legais, contratos ou outros documentos entender-se-ão feitas ao IPT e aos respectivos serviços deste.
 
-###### Art. 55.º O IPT entrará em funcionamento no prazo de seis meses a contar da data da publicação do presente diploma.
+Art. 55.º O IPT entrará em funcionamento no prazo de seis meses a contar da data da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 14 de Novembro de 1986.**
+Promulgado em 14 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Novembro de 1986.**
+Referendado em 17 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 46.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27800/36113619.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27800/36113619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27800/36113619.pdf)

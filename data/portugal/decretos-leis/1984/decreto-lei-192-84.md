@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 135/1984, 1º Suplemento, Série I de 1984-06-11
   number: '135'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1844-(2) a 1844-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1984-143302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63273a4a41469b55438f57b2ffddec37582c4daabb0005cb45e4264cb916eaa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f1683a2e7e0fa04678f0fb34f507b1d5e1b7a12111fc763c5e85ed7ad2c2b8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
+- Imposto Complementar
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:46Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +148,9 @@ Nestes termos:
 
 No uso da autorização conferida pelos artigos 15.º e 16.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 7.º, 11.º, 14.º, 17.º, 22.º, 23.º, 24.º, 25.º, 25.º-A, 25.º-B, 28.º, 29.º, 30.º, 33.º, 48.º, 88.º, 92.º, 100.º, 113.º e 125.º do Código do Imposto Complementar passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 7.º, 11.º, 14.º, 17.º, 22.º, 23.º, 24.º, 25.º, 25.º-A, 25.º-B, 28.º, 29.º, 30.º, 33.º, 48.º, 88.º, 92.º, 100.º, 113.º e 125.º do Código do Imposto Complementar passam a ter a seguinte redacção:
 
-###### Art. 2.º O imposto complementar, secção A, é devido pelas pessoas singulares residentes no território do continente e arquipélagos dos Açores e da Madeira e pelas que, residindo fora desse território, nele obtenham rendimentos determinados nos termos deste Código.
+Art. 2.º O imposto complementar, secção A, é devido pelas pessoas singulares residentes no território do continente e arquipélagos dos Açores e da Madeira e pelas que, residindo fora desse território, nele obtenham rendimentos determinados nos termos deste Código.
 
 § 1.º No caso de as pessoas a que se refere este artigo serem casadas e não separadas judicialmente de pessoas e bens, ambos os cônjuges estão sujeitos ao imposto em relação aos rendimentos do agregado familiar determinados nos termos deste Código.
 
@@ -130,7 +162,7 @@ No uso da autorização conferida pelos artigos 15.º e 16.º da [Lei n.º 42/83
 
 3.º ...
 
-###### Art. 3.º O rendimento global das pessoas singulares é a soma dos rendimentos ou dos valores a seguir mencionados, deduzida dos competentes encargos:
+Art. 3.º O rendimento global das pessoas singulares é a soma dos rendimentos ou dos valores a seguir mencionados, deduzida dos competentes encargos:
 
 1.º ...
 
@@ -150,9 +182,9 @@ No uso da autorização conferida pelos artigos 15.º e 16.º da [Lei n.º 42/83
 
 § 2.º ...
 
-###### Art. 7.º São considerados como rendimentos do agregado familiar os rendimentos ou os valores referidos no artigo 3.º de todos os seus membros, salvo os dos filhos, enteados e adoptados, de que seja administrador pessoa a quem não incumbe a direcção do agregado familiar.
+Art. 7.º São considerados como rendimentos do agregado familiar os rendimentos ou os valores referidos no artigo 3.º de todos os seus membros, salvo os dos filhos, enteados e adoptados, de que seja administrador pessoa a quem não incumbe a direcção do agregado familiar.
 
-###### Art. 11.º Os titulares de rendimentos e ou valores abrangidos pelo artigo 3.º apresentarão, nos meses de Junho e Julho, ou, no caso de auferirem rendimentos da indústria agrícola ou da actividade comercial ou industrial, até 15 de Outubro, a declaração modelo n.º 1, quando os rendimentos do ano anterior não isentos de imposto complementar e ou os valores desse mesmo ano, apurados de harmonia com o disposto nos artigos 15.º, 15.º-A e 17.º, excedam no total os seguintes quantitativos:
+Art. 11.º Os titulares de rendimentos e ou valores abrangidos pelo artigo 3.º apresentarão, nos meses de Junho e Julho, ou, no caso de auferirem rendimentos da indústria agrícola ou da actividade comercial ou industrial, até 15 de Outubro, a declaração modelo n.º 1, quando os rendimentos do ano anterior não isentos de imposto complementar e ou os valores desse mesmo ano, apurados de harmonia com o disposto nos artigos 15.º, 15.º-A e 17.º, excedam no total os seguintes quantitativos:
 
 1.º ...
 
@@ -186,7 +218,7 @@ c) Da residência da pessoa a quem incumbe a direcção da família residente no
 
 § 7.º ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 1.º ...
 
@@ -210,7 +242,7 @@ c) Da residência da pessoa a quem incumbe a direcção da família residente no
 
 § 3.º Nos casos das alíneas f) e g) do artigo 30.º, a prova será feita com os originais dos recibos comprovativos dos pagamentos efectuados, salvo se estes recibos se encontrarem em poder de serviços oficiais, caso em que a prova poderá ser feita mediante declaração passada por esses serviços em que se declare a importância efectivamente suportada pelos interessados, tendo em conta os casos de pagamento parcial e aqueles em que houve reembolso de parte da importância inicialmente paga.
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 a) ...
 
@@ -228,11 +260,11 @@ e) ...
 
 § 3.º ...
 
-###### Art. 22.º Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades que processem folhas para o abano de importâncias abrangidas pelas alíneas b) e c) da regra 4.ª do artigo 15.º, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias, enviarão, até 30 de Abril de cada ano, à repartição de finanças em cuja área fique situado o serviço ou entidade relações nominais modelo n.º 2, em duplicado, contendo as importâncias líquidas de descontos obrigatórios cujo pagamento tenha sido autorizado no ano anterior.
+Art. 22.º Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades que processem folhas para o abano de importâncias abrangidas pelas alíneas b) e c) da regra 4.ª do artigo 15.º, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias, enviarão, até 30 de Abril de cada ano, à repartição de finanças em cuja área fique situado o serviço ou entidade relações nominais modelo n.º 2, em duplicado, contendo as importâncias líquidas de descontos obrigatórios cujo pagamento tenha sido autorizado no ano anterior.
 
-###### Art. 23.º As entidades que paguem, ou ponham à disposição dos respectivos beneficiários, pensões ou rendas abrangidas pelas regras 6.ª e 7.ª do artigo 15.º, bem como remunerações pela prestação de serviço fora do continente e dos arquipélagos dos Açores e da Madeira, apresentarão, até 30 de Abril de cada ano, na repartição de finanças da área da respectiva residência ou sede, relações nominais modelo n.º 3, em duplicado, contendo as importâncias pagas ou postas à disposição desses beneficiários durante o ano anterior.
+Art. 23.º As entidades que paguem, ou ponham à disposição dos respectivos beneficiários, pensões ou rendas abrangidas pelas regras 6.ª e 7.ª do artigo 15.º, bem como remunerações pela prestação de serviço fora do continente e dos arquipélagos dos Açores e da Madeira, apresentarão, até 30 de Abril de cada ano, na repartição de finanças da área da respectiva residência ou sede, relações nominais modelo n.º 3, em duplicado, contendo as importâncias pagas ou postas à disposição desses beneficiários durante o ano anterior.
 
-###### Art. 24.º As sociedades e quaisquer outras entidades emitentes de acções e obrigações apresentarão, até 30 de Abril de cada ano, na repartição de finanças da área da sua sede, relações nominais modelo n.º 4, em duplicado, organizadas em face dos livros de registo que são obrigadas a possuir, e bem assim das comunicações que recebam das instituições de crédito relativamente às acções depositadas, contendo:
+Art. 24.º As sociedades e quaisquer outras entidades emitentes de acções e obrigações apresentarão, até 30 de Abril de cada ano, na repartição de finanças da área da sua sede, relações nominais modelo n.º 4, em duplicado, organizadas em face dos livros de registo que são obrigadas a possuir, e bem assim das comunicações que recebam das instituições de crédito relativamente às acções depositadas, contendo:
 
 a) ...
 
@@ -252,17 +284,17 @@ c) ...
 
 § 6.º ...
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 § único. As relações serão entregues na repartição de finanças da área da sede ou residência das entidades obrigadas à sua apresentação ou, no caso de estas terem a sede ou residência fora do território do continente e dos arquipélagos dos Açores e da Madeira e estabelecimento estável nesse território, na repartição de finanças da área onde se situa o referido estabelecimento.
 
-###### Art. 25.º-A O Banco de Portugal enviará, até 30 de Abril de cada ano, à repartição de finanças da área da sua sede relações nominais modelo n.º 5-A, em duplicado, contendo as importâncias dos rendimentos dos títulos referidos nos artigos 2.º e 32.º, n.º 1, do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, colocados à disposição dos seus titulares no ano anterior, com exclusão dos rendimentos dos títulos expressos ou pagáveis em moeda estrangeira emitidos por entidades com sede no território do continente e dos arquipélagos dos Açores e da Madeira, os quais serão incluídos nas relações a que se refere o artigo 24.º
+Art. 25.º-A O Banco de Portugal enviará, até 30 de Abril de cada ano, à repartição de finanças da área da sua sede relações nominais modelo n.º 5-A, em duplicado, contendo as importâncias dos rendimentos dos títulos referidos nos artigos 2.º e 32.º, n.º 1, do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, colocados à disposição dos seus titulares no ano anterior, com exclusão dos rendimentos dos títulos expressos ou pagáveis em moeda estrangeira emitidos por entidades com sede no território do continente e dos arquipélagos dos Açores e da Madeira, os quais serão incluídos nas relações a que se refere o artigo 24.º
 
-###### Art. 25.º-B As relações a que se referem os artigos 22.º a 25.º-A serão organizadas por repartições de finanças e ordem alfabética dos beneficiários dos rendimentos, contendo cada uma os que tenham residência ou sede na área da mesma repartição de finanças. No caso dos beneficiários com residência ou sede fora do território do continente e dos arquipélagos dos Açores e da Madeira, será organizada uma única relação contendo, por ordem alfabética, todos os beneficiários nessas condições.
+Art. 25.º-B As relações a que se referem os artigos 22.º a 25.º-A serão organizadas por repartições de finanças e ordem alfabética dos beneficiários dos rendimentos, contendo cada uma os que tenham residência ou sede na área da mesma repartição de finanças. No caso dos beneficiários com residência ou sede fora do território do continente e dos arquipélagos dos Açores e da Madeira, será organizada uma única relação contendo, por ordem alfabética, todos os beneficiários nessas condições.
 
 § único. ...
 
-###### Art. 28.º Para determinação do rendimento global líquido, ao total das importâncias apuradas nos termos do artigo 15.º ou do artigo 15.º-A serão deduzidos, quando ainda o não tenham sido, os seguintes encargos:
+Art. 28.º Para determinação do rendimento global líquido, ao total das importâncias apuradas nos termos do artigo 15.º ou do artigo 15.º-A serão deduzidos, quando ainda o não tenham sido, os seguintes encargos:
 
 a) ...
 
@@ -288,7 +320,7 @@ f) ...
 
 § 4.º ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 a) ...
 
@@ -330,7 +362,7 @@ b) Tratando-se de contribuintes não residentes no continente ou nos arquipélag
 
 § 10.º Nos casos em que o número de dependentes referidos nos n.os 3, 4 e 5 da alínea a) for igual ou superior a 5, o total das correspondentes deduções não será inferior a 200000$00.
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 a) ...
 
@@ -358,23 +390,23 @@ b) Tratando-se de bens diferentes dos referidos na alínea anterior, por avalia�
 
 § 4.º ...
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes das tabelas I e II seguintes:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes das tabelas I e II seguintes:
 
 Tabela I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf))](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf)
 
 Tabela II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf))](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf)
 
 § 1.º ...
 
 § 2.º Aos rendimentos compreendidos no primeiro escalão das tabelas I e II ou cujo quantitativo coincida com o limite superior de algum dos escalões dessas tabelas aplicar-se-á a correspondente taxa da coluna (B); quanto aos restantes rendimentos, dividir-se-á o seu quantitativo em duas partes, uma igual ao limite do maior dos escalões que nele couber, à qual se aplicará a taxa da mesma coluna correspondente a esse escalão, e outra igual ao excedente, a que se aplicará a taxa da coluna (A) respeitante ao escalão imediatamente superior.
 
-###### Art. 48.º Na repartição de finanças da área da respectiva residência ou, sendo esta fora do território do continente e dos arquipélagos dos Açores e da Madeira, na Repartição de Finanças do 3.º Bairro Fiscal de Lisboa, organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 1, no qual serão incorporados os elementos que lhe respeitam, com excepção do verbete de lançamento.
+Art. 48.º Na repartição de finanças da área da respectiva residência ou, sendo esta fora do território do continente e dos arquipélagos dos Açores e da Madeira, na Repartição de Finanças do 3.º Bairro Fiscal de Lisboa, organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 1, no qual serão incorporados os elementos que lhe respeitam, com excepção do verbete de lançamento.
 
-###### Art. 88.º ...
+Art. 88.º ...
 
 § 1.º A declaração será apresentada em qualquer repartição de finanças, salvo sendo a entrega fora do prazo estabelecido, caso em que esta só poderá ser efectuada na repartição de finanças da sede do contribuinte.
 
@@ -390,27 +422,27 @@ Tabela II
 
 § 7.º ...
 
-###### Art. 92.º ...
+Art. 92.º ...
 
 § 1.º Findo o pleito e transitada em julgado a decisão, deverão as pessoas a quem ficaram a pertencer os rendimentos apresentar, dentro de 30 dias, nova declaração modelo n.º 6, relativa aos anos a que respeitam os rendimentos, na repartição de finanças da área da respectiva sede ou representação permanente ou, não existindo esta no continente ou nos arquipélagos dos Açores e da Madeira, na Repartição de Finanças do 3.º Bairro Fiscal de Lisboa.
 
 § 2.º ...
 
-###### Art. 100.º Na repartição de finanças da área da sede do contribuinte organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 6, no qual serão incorporados os elementos que lhe respeitem.
+Art. 100.º Na repartição de finanças da área da sede do contribuinte organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 6, no qual serão incorporados os elementos que lhe respeitem.
 
 § único. Se o contribuinte tiver a sede fora do território do continente e dos arquipélagos dos Açores e da Madeira, o processo será organizado na repartição de finanças da área da representação permanente, salvo se esta não existir naquele território, caso em que o processo será organizado na Repartição de Finanças do 3.º Bairro Fiscal de Lisboa.
 
-###### Art. 113.º ...
+Art. 113.º ...
 
 § único. O livro deverá ser apresentado na repartição de finanças da área da sede da entidade ou da sua representação permanente no continente ou nos arquipélagos dos Açores e da Madeira antes de utilizado, para que o respectivo chefe assine os termos de abertura e encerramento, numere e rubrique as folhas.
 
-###### Art. 125.º O imposto devido nos termos do artigo anterior será entregue pelas entidades a quem incumbe o pagamento dos rendimentos na tesouraria da Fazenda Pública junto da repartição de finanças da área da sua sede ou representação permanente no território do continente e dos arquipélagos dos Açores e da Madeira, dentro do prazo estabelecido para a entrega do imposto de capitais, secção B, referente aos mesmos rendimentos.
+Art. 125.º O imposto devido nos termos do artigo anterior será entregue pelas entidades a quem incumbe o pagamento dos rendimentos na tesouraria da Fazenda Pública junto da repartição de finanças da área da sua sede ou representação permanente no território do continente e dos arquipélagos dos Açores e da Madeira, dentro do prazo estabelecido para a entrega do imposto de capitais, secção B, referente aos mesmos rendimentos.
 
 § único. ...
 
-###### Art. 2.º São aditados ao Código do Imposto Complementar os artigos 15.º-A, 15.º-B e 15.º-C, com a seguinte redacção:
+Art. 2.º São aditados ao Código do Imposto Complementar os artigos 15.º-A, 15.º-B e 15.º-C, com a seguinte redacção:
 
-###### Art. 15.º-A Quando se verifique acentuada desproporção entre o rendimento declarado, ou que o devia ter sido, e o montante dos valores atribuídos aos sinais exteriores de riqueza constantes da tabela anexa de que seja titular o contribuinte, será esse montante havido como rendimento para efeitos deste imposto.
+Art. 15.º-A Quando se verifique acentuada desproporção entre o rendimento declarado, ou que o devia ter sido, e o montante dos valores atribuídos aos sinais exteriores de riqueza constantes da tabela anexa de que seja titular o contribuinte, será esse montante havido como rendimento para efeitos deste imposto.
 
 § 1.º Considera-se que a referida desproporção se verifica sempre que o total dos valores dos sinais exteriores de riqueza, apurados com base na tabela anexa, exceda, pelo menos, em um terço a soma dos rendimentos declarados no ano a que respeita a declaração e no ano anterior.
 
@@ -428,29 +460,29 @@ c) Sociedades em que o contribuinte seja sócio e tenham por único ou predomina
 
 § 5.º Tratando-se de bens considerados temporariamente para efeitos deste artigo, o seu valor será determinado proporcionalmente ao período decorrido desde 1 de Janeiro até à data em que se completar a respectiva antiguidade.
 
-###### Art. 15.º-B Os contribuintes poderão indicar na declaração modelo n.º 1 os quantitativos dos rendimentos isentos ou não tributados neste imposto, os quais serão adicionados ao rendimento declarado, para efeitos da comparação prevista no § 1.º do artigo anterior.
+Art. 15.º-B Os contribuintes poderão indicar na declaração modelo n.º 1 os quantitativos dos rendimentos isentos ou não tributados neste imposto, os quais serão adicionados ao rendimento declarado, para efeitos da comparação prevista no § 1.º do artigo anterior.
 
-###### Art. 15.º-C Tendo ocorrido injustiça grave ou notória na determinação do rendimento, nos termos dos artigos 15.º-A e 15.º-B, poderão os contribuintes requerer ao Ministro das Finanças e do Plano, ou este oficiosamente promover, a revisão daquele rendimento pelo chefe da repartição de finanças.
+Art. 15.º-C Tendo ocorrido injustiça grave ou notória na determinação do rendimento, nos termos dos artigos 15.º-A e 15.º-B, poderão os contribuintes requerer ao Ministro das Finanças e do Plano, ou este oficiosamente promover, a revisão daquele rendimento pelo chefe da repartição de finanças.
 
 § único. O pedido de revisão previsto neste artigo, devidamente fundamentado, não tem efeito suspensivo e deverá ser apresentado no prazo de 1 ano a contar da data da abertura dos cofres para a cobrança do imposto ou da data do pagamento eventual; a revisão oficiosa a que se refere este artigo só poderá ser ordenada dentro do mesmo prazo.
 
-###### Art. 3.º O n.º 2 do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, passa a ter a seguinte redacção:
+Art. 3.º O n.º 2 do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, passa a ter a seguinte redacção:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 1 - ...
 
 2 - Para efeitos dos limites estabelecidos no número anterior, não serão considerados a participação em multas, as ajudas de custo, os subsídios de campo, viagem e residência, os abonos para falhas, os prémios por sugestões, o abono de família, as despesas de representação e outras que constituam simples compensação de despesas feitas por motivo de serviço.
 
-###### Art. 4.º O imposto extraordinário criado pela [Lei n.º 37/83](https://diariodarepublica.pt/dr/detalhe/lei/37-1983-441570), de 21 de Outubro, ainda que incidente sobre rendimentos respeitantes ao ano de 1982, será deduzido aos rendimentos relativos ao ano de 1983, a englobar para efeitos do imposto complementar, secção A.
+Art. 4.º O imposto extraordinário criado pela [Lei n.º 37/83](https://diariodarepublica.pt/dr/detalhe/lei/37-1983-441570), de 21 de Outubro, ainda que incidente sobre rendimentos respeitantes ao ano de 1982, será deduzido aos rendimentos relativos ao ano de 1983, a englobar para efeitos do imposto complementar, secção A.
 
-###### Art. 5.º Os rendimentos referidos no n.º 5 do artigo 6.º do Código do Imposto de Capitais relativos aos anos de 1984, 1985 e 1986 ficam isentos do imposto complementar, secções A e B.
+Art. 5.º Os rendimentos referidos no n.º 5 do artigo 6.º do Código do Imposto de Capitais relativos aos anos de 1984, 1985 e 1986 ficam isentos do imposto complementar, secções A e B.
 
-###### Art. 6.º Fica suspensa a tributação em imposto complementar, secção B, relativa aos rendimentos de 1983 e 1984 auferidos pelas sociedades mencionadas na alínea a) do artigo 94.º do Código do Imposto Complementar.
+Art. 6.º Fica suspensa a tributação em imposto complementar, secção B, relativa aos rendimentos de 1983 e 1984 auferidos pelas sociedades mencionadas na alínea a) do artigo 94.º do Código do Imposto Complementar.
 
-###### Art. 7.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1983 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se, neste caso, o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 2,33%, multiplicado pelo número de meses, incluindo o do pagamento, que antecede o mês em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código, com o máximo de 9,32%.
+Art. 7.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1983 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se, neste caso, o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 2,33%, multiplicado pelo número de meses, incluindo o do pagamento, que antecede o mês em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código, com o máximo de 9,32%.
 
-###### Art. 8.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à repartição de finanças da área da respectiva residência ou, sendo esta fora do território do continente e dos arquipélagos dos Açores e da Madeira, à Repartição de Finanças do 3.º Bairro Fiscal de Lisboa, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do recibo e demais documentos, quando for caso disso.
+Art. 8.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à repartição de finanças da área da respectiva residência ou, sendo esta fora do território do continente e dos arquipélagos dos Açores e da Madeira, à Repartição de Finanças do 3.º Bairro Fiscal de Lisboa, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do recibo e demais documentos, quando for caso disso.
 
 2 - As repartições referidas no número precedente, ao receberem a declaração modelo n.º 1 e anexos, os documentos justificativos e o cheque ou vale de correio, deverão proceder à respectiva conferência, processar o conhecimento e promover a cobrança, apresentando, no final de cada dia, na competente tesouraria, os conhecimentos e respectivos meios de pagamento.
 
@@ -458,22 +490,22 @@ c) Sociedades em que o contribuinte seja sócio e tenham por único ou predomina
 
 4 - O pagamento efectuado nos termos do presente artigo não impede a eventual correcção do imposto a mais liquidado, devendo aplicar-se o estabelecido no artigo 61.º do Código do Imposto Complementar.
 
-###### Art. 9.º As alterações introduzidas pelo presente diploma nos artigos 2.º, 3.º, 7.º, 11.º, 28.º, 29.º, 30.º e 33.º do Código do Imposto Complementar, bem como os artigos 15.º-A, 15.º-B e 15.º-C, aditados a este Código pelo artigo 2.º deste diploma, são aplicáveis ao imposto complementar respeitante aos anos de 1983 e seguintes, independentemente da data de aquisição dos bens constantes da tabela anexa a este decreto-lei, a qual será considerada como fazendo parte do referido Código.
+Art. 9.º As alterações introduzidas pelo presente diploma nos artigos 2.º, 3.º, 7.º, 11.º, 28.º, 29.º, 30.º e 33.º do Código do Imposto Complementar, bem como os artigos 15.º-A, 15.º-B e 15.º-C, aditados a este Código pelo artigo 2.º deste diploma, são aplicáveis ao imposto complementar respeitante aos anos de 1983 e seguintes, independentemente da data de aquisição dos bens constantes da tabela anexa a este decreto-lei, a qual será considerada como fazendo parte do referido Código.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 4 de Junho de 1984.**
+Promulgado em 4 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Junho de 1984.**
+Referendado em 5 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Tabela dos elementos que constituem os sinais exteriores de riqueza e da respectiva base de valores, a que se refere o artigo 15.º-A do Código do Imposto Complementar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf))](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/13501/00020008.pdf)
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.

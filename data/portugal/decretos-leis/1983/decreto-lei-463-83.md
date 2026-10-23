@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1983, 3º Suplemento, Série I de 1983-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4172-(63) a 4172-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/30103/00630065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1983-630632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4022c634b2d82ea12d240f51e241401366f0ccea351a5380ae23c1b971de824d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4bbdcd9874aaf36de751edf668dd42bf2ddcab7738dcf2b1b96c0774a62294a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Coordenadora
+- Conta Especial Temporais Novembro 1983
+- Financiamento
+- Orgânica
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218905:por
+  label: Extinta a conta especial Temporais Novembro 1983 (CETN 83), pelo(a) Decreto-Lei n.º 231/86 - Diário da República
+    n.º 186/1986, Série I de 1986-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1986-218905
+  date: '1986-08-14'
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:12Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +121,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Delimitação das áreas afectadas
 
-###### Artigo 1.º Para os efeitos do n.º 2 do artigo 16.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro, são consideradas atingidas por calamidade pública as áreas assoladas pelos temporais dos dias 18, 19 e 20 de Novembro de 1983 nos concelhos de Lisboa, Cascais, Sintra, Oeiras, Amadora, Loures, Sobral de Monte Agraço, Arruda dos Vinhos, Vila Franca de Xira, Alenquer, Mafra, Torres Vedras, Azambuja e Setúbal.
+Artigo 1.º Para os efeitos do n.º 2 do artigo 16.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro, são consideradas atingidas por calamidade pública as áreas assoladas pelos temporais dos dias 18, 19 e 20 de Novembro de 1983 nos concelhos de Lisboa, Cascais, Sintra, Oeiras, Amadora, Loures, Sobral de Monte Agraço, Arruda dos Vinhos, Vila Franca de Xira, Alenquer, Mafra, Torres Vedras, Azambuja e Setúbal.
 
 ### CAPÍTULO II — Estruturas de coordenação e suas atribuições
 
-###### Art. 2.º - 1 - São criadas no âmbito do Serviço Nacional de Protecção Civil (SNPC) uma comissão coordenadora e a conta especial Temporais Novembro 1983 (CETN 83).
+Art. 2.º - 1 - São criadas no âmbito do Serviço Nacional de Protecção Civil (SNPC) uma comissão coordenadora e a conta especial Temporais Novembro 1983 (CETN 83).
 
 2 - Compete à comissão coordenadora:
 
@@ -119,11 +139,11 @@ d) Suportar as despesas previstas nos termos deste diploma e outras, relacionada
 
 3 - Constituem receitas da CETN 83 as dotações postas à sua disposição pelo Ministério das Finanças e do Plano, bem como os donativos e outros auxílios financeiros, nacionais ou estrangeiros.
 
-###### Art. 3.º - 1 - A orientação das acções a empreender para atingir os objectivos referidos no artigo anterior cabe ao presidente do SNPC, que cumulativamente desempenhará as funções de presidente da comissão coordenadora.
+Art. 3.º - 1 - A orientação das acções a empreender para atingir os objectivos referidos no artigo anterior cabe ao presidente do SNPC, que cumulativamente desempenhará as funções de presidente da comissão coordenadora.
 
 2 - A comissão coordenadora é composta por 5 elementos, 4 dos quais pertencentes ao SNPC, designados pelo presidente, e 1 representante do Ministério das Finanças e do Plano, designado pelo respectivo Ministro.
 
-###### Art. 4.º - 1 - Sob a superintendência dos membros da comissão coordenadora funcionarão 4 grupos, que assegurarão a coordenação das intervenções a cargo dos respectivos sectores ministeriais, previstas no n.º 2, do artigo 2.º, nos seguintes domínios:
+Art. 4.º - 1 - Sob a superintendência dos membros da comissão coordenadora funcionarão 4 grupos, que assegurarão a coordenação das intervenções a cargo dos respectivos sectores ministeriais, previstas no n.º 2, do artigo 2.º, nos seguintes domínios:
 
 a) Apoio a desalojados;
 
@@ -141,33 +161,33 @@ d) Apoio às actividades económicas e recuperação da habitação.
 
 5 - O grupo de coordenação referido na alínea d) do n.º 1, de apoio às acções de recuperação de indústrias, estabelecimentos comerciais, explorações agrícolas e habitação mais duramente afectados, será composto por representantes dos Ministérios do Trabalho e Segurança Social, da Indústria e Energia, da Agricultura, Florestas e Alimentação, do Comércio e Turismo e do Equipamento Social.
 
-###### Art. 5.º - 1 - Ao conselho administrativo do SNPC compete gerir as verbas postas à disposição da comissão coordenadora, autorizando as despesas efectuadas, incluindo as decorrentes do seu próprio funcionamento e do dos grupos de coordenação.
+Art. 5.º - 1 - Ao conselho administrativo do SNPC compete gerir as verbas postas à disposição da comissão coordenadora, autorizando as despesas efectuadas, incluindo as decorrentes do seu próprio funcionamento e do dos grupos de coordenação.
 
 2 - A CETN 83 poderá ainda suportar os encargos com as acções de socorro e assistência, realizadas durante a fase de emergência, que não possam ser cobertos pelas verbas próprias dos organismos intervenientes.
 
 3 - As receitas da CETN 83 serão depositadas à ordem da comissão coordenadora em conta-depósito a abrir na Caixa Geral de Depósitos, Crédito e Previdência e movimentadas em conformidade com as deliberações tomadas nesse sentido pelo conselho administrativo do SNPC.
 
-###### Art. 6.º - 1 - Os encargos com a reparação dos danos e outras acções de apoio às vítimas dos temporais serão suportados por verbas disponíveis ou a inscrever nos orçamentos dos respectivos ministérios, por verbas da CETN 83 e por linhas de crédito a estabelecer.
+Art. 6.º - 1 - Os encargos com a reparação dos danos e outras acções de apoio às vítimas dos temporais serão suportados por verbas disponíveis ou a inscrever nos orçamentos dos respectivos ministérios, por verbas da CETN 83 e por linhas de crédito a estabelecer.
 
 2 - Os auxílios financeiros a conceder às autarquias locais para efeitos do disposto na alínea c) do n.º 1 do artigo 4.º serão concedidos pelo Ministério da Administração Interna.
 
-###### Art. 7.º - 1 - Todas as verbas da CETN 83 e as verbas dos departamentos e serviços destinados a obras, reparações e demais acções decorrentes dos temporais não ficarão sujeitas ao regime duodecimal.
+Art. 7.º - 1 - Todas as verbas da CETN 83 e as verbas dos departamentos e serviços destinados a obras, reparações e demais acções decorrentes dos temporais não ficarão sujeitas ao regime duodecimal.
 
 2 - As despesas serão realizadas independentemente do cumprimento de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas.
 
 3 - Mensalmente a comissão coordenadora e todos os departamentos e serviços que efectuarem despesas em conta de verbas destinadas ao suporte dos encargos previstos neste diploma elaboração balancetes aos mesmos respeitantes, que serão submetidos a visto do ministro da tutela e do Ministro das Finanças e do Plano.
 
-###### Art. 8.º - 1 - Cabe ao SNPC o apoio administrativo e logístico em meios humanos e técnicos à comissão e aos grupos coordenadores.
+Art. 8.º - 1 - Cabe ao SNPC o apoio administrativo e logístico em meios humanos e técnicos à comissão e aos grupos coordenadores.
 
 2 - Para a consecução dos objectivos referidos no número anterior, pode o Ministro da Administração Interna autorizar, mediante despacho conjunto com o ministro da tutela, o destacamento de pessoal dos serviços públicos, civis ou militares e das empresas públicas ou nacionalizadas.
 
-###### Art. 9.º A comissão coordenadora e os grupos de coordenação extinguem-se até ao dia 30 de Junho de 1984, independentemente das acções ainda a decorrer da competência dos respectivos ministérios.
+Art. 9.º A comissão coordenadora e os grupos de coordenação extinguem-se até ao dia 30 de Junho de 1984, independentemente das acções ainda a decorrer da competência dos respectivos ministérios.
 
-###### Art. 10.º Os saldos existentes no final do corrente ano na CETN 83 transitarão para o ano seguinte, sem dependência de qualquer formalidade.
+Art. 10.º Os saldos existentes no final do corrente ano na CETN 83 transitarão para o ano seguinte, sem dependência de qualquer formalidade.
 
 ### CAPÍTULO III — Apoio financeiro - Linhas de crédito
 
-###### Art. 11.º - 1 - A Caixa Geral de Depósitos abrirá, a favor dos municípios mencionados no artigo 1.º, uma linha de crédito, até ao montante de 2 milhões de contos, em condições a estabelecer por protocolo a acordar entre as Secretarias de Estado do Tesouro e da Administração Autárquica e aquela instituição de crédito.
+Art. 11.º - 1 - A Caixa Geral de Depósitos abrirá, a favor dos municípios mencionados no artigo 1.º, uma linha de crédito, até ao montante de 2 milhões de contos, em condições a estabelecer por protocolo a acordar entre as Secretarias de Estado do Tesouro e da Administração Autárquica e aquela instituição de crédito.
 
 2 - A taxa de juro a aplicar será a máxima legal estabelecida para operações de prazo idêntico, deduzida de uma bonificação de 9,5%, a conceder pelo Estado (4%) e pela Caixa Geral de Depósitos (5,5%).
 
@@ -177,20 +197,20 @@ d) Apoio às actividades económicas e recuperação da habitação.
 
 5 - Os financiamentos serão contratados por prazos adequados à natureza das obras, até ao limite máximo de 10 anos.
 
-###### Art. 12.º As empresas e demais entidades cujas actividades ficaram afectadas beneficiarão, sem acumulação, dos apoios especialmente definidos pelos Ministérios das Finanças e do Plano e do Comércio e Turismo, sem prejuízo da concessão dos apoios financeiros para pagamento de compensações pecuniárias aos trabalhadores ou para manutenção de postos de trabalho, a cargo do Ministério do Trabalho e Segurança Social.
+Art. 12.º As empresas e demais entidades cujas actividades ficaram afectadas beneficiarão, sem acumulação, dos apoios especialmente definidos pelos Ministérios das Finanças e do Plano e do Comércio e Turismo, sem prejuízo da concessão dos apoios financeiros para pagamento de compensações pecuniárias aos trabalhadores ou para manutenção de postos de trabalho, a cargo do Ministério do Trabalho e Segurança Social.
 
 ### CAPÍTULO IV — Disposição final
 
-###### Art. 13.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Manuel José Dias Soares Costa - José Veiga Simão - Joaquim Ferreira do Amaral - João Rosado Correia.
 
-**Promulgado em 29 de Dezembro de 1983.**
+Promulgado em 29 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Dezembro de 1983.**
+Referendado em 29 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

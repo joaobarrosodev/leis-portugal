@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 219/1986, 1º Suplemento, Série I de 1986-09-23
   number: '219'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2698-(1) a 2698-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21901/00010008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,163 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db815b77576bf60f7c2860184d9bc723b74e99452f9ac8a8291394c1fda7a5d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1396ab7c7b76260367489db08f2db028a09bd3092097fac4c64b3feea95d13b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:602066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334646:por
+  label: "Extinto o Secretariado Agrícola para as Relações Europeias, criado pela al. c) do nº 2) do art. 3º do presente diploma,\
+    \ pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37] de 13.02.1990, e revogados, com a entrada em vigor da regulamentação\
+    \ prevista no art. 3º daquele diploma, a al. c) do nº 2 e al. d) do nº 4 do referido art. 3º, e a al. c) do nº 1 e a al.\
+    \ d) do nº 3 do art. 5º do presente\0e"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELO DECRETO LEI 451/91, PUBLICADO NO DR.IS-A, 279, SUPL, RELATIVAMENTE A TUTELA DA DIRECÇÃO GERAL DAS\
+    \ PESCAS, DO INSTITUTO NACIONAL DE INVESTIGAÇÃO DAS PESCAS, DO INSTITUTO PORTUGUÊS DE CONSERVAS E PESCADO, DO GABINETE\
+    \ DE ESTUDOS E PLANEAMENTO DAS PESCAS DA ESCOLA PROFISSIONAL DE PESCA DE LISBOA, DA INSPECÇÃO GERAL DAS PESCAS E DA DIRECÇÃO\
+    \ DE SERVIÇOS DE APOIO TÉCNICO ADMINISTRATIVO. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma relativamente à tutela da Direcção Geral das Pescas, do Instituto Nacional de Investigação
+    das Pescas, do Instituto Português de Conservas e Pescado, do Gabinete de Estudos e Planeamento das Pescas, da Escola
+    Profissional de Pesca de Lisboa, da Inspecção Geral das Pescas e da Direcção de Serviços de Apoio Técnico Administrativo,
+    pelo(a) Decreto-Lei n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:305260:por
+  label: Extintas a Inspecção-Geral das Pescas e a Direcção de Serviços de Apoio Técnico e Administrativo, criadas no presente
+    diploma, pelo DEC LEI.154/92.25.07.1992.MM, DR.IS-A [170]Supl de 25.07.1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1992-305260
+  date: '1992-07-25'
+- type: amended_by
+  target: pt:dre:545637:por
+  label: "Extinto, sendo objecto de fusão: - a Direcção Regional de Agricultura de Entre Douro e Minho e a Direcção Regional\
+    \ de Agricultura de Trás-os-Montes, sendo as suas atribuições integradas na Direcção Regional de Agricultura e Pescas\
+    \ do Norte; - a Direcção Regional de Agricultura da Beira Litoral e a Direcção Regional de Agricultura da Beira Interior,\
+    \ sendo as suas atribuições integradas na Direcção Regional de Agricultura e Pescas do Centro. Reestruturada: - a Inspecção-Geral\
+    \ e Auditoria de Gestão que passa a designar-se Inspecção-Geral de Agricultura e Pescas; - a Direcção Regional de Agricultura\
+    \ do Ribatejo e Oeste, que passa a designar-se Direcção Regional de Agricultura e Pescas de Lisboa e Vale do Tejo; - a\
+    \ Direcção Regional de Agricultura do Alentejo, que passa a designar-se Direcção Regional de Agricultura e Pescas do Alentejo;\
+    \ - e a Direcção Regional de Agricultura do Algarve, que passa a designar-se Direcção Regional de Agricultura e Pescas\
+    \ do Algarve, pelo DEC LEI.209/2006.27.10.2006.MADRP, DR.IS [208] de 27.10.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2006-545637
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:602066:por
+  label: "Determinado que a DGV suceda,em parte, nas atribuições das Direcções Regionais de Agricultura de Entre Douro e Minho,\
+    \ de Trás-os-Montes, da Beira Litoral, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve, pelo DR.4/2009.13.02.2009.MADRP,\
+    \ DR.IS [31] de 13.02.2009, nos termos do seu art. 8º-A\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2009-602066
+  date: '2009-02-13'
+- type: cites
+  target: pt:dre:176760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649312:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477580:por
+  label: Rectificado pela DECL.DD4500.23.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477580
+  date: '1986-10-23'
+- type: corrected_by
+  target: pt:dre:627179:por
+  label: Rectificado pela DECL.DD4426.19.12.1986.PCM, DR.IS [300]6ºSupl de 31.12.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-627179
+  date: '1986-12-19'
+- type: repealed_by
+  target: pt:dre:417183:por
+  label: "Revogado o n.º 3 do artigo 20.º, pelo DEC LEI.299/87.01.08.1987.MAPA, DR.IS [175] de 01.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1987-417183
+  date: '1987-08-01'
+- type: repealed_by
+  target: pt:dre:680642:por
+  label: "Revogado pelo DEC LEI.94/93.02.04.1993.MA, DR.IS-A [78] de 02.04.1993, e extinto o Conselho Nacional de Agricultura,\
+    \ Pescas e Alimentação, a Direcção-Geral de Planeamento e Agricultura, a Direcção-Geral de Hidráulica e Engenharia Agrícola,\
+    \ a Direcção-Geral da Pecuária, a Direcção-Geral das Florestas e o Instituto de Qualidade Alimentar pelo referido diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1993-680642
+  date: '1993-04-02'
 article_structure:
   article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:25Z'
   warnings: []
   errors: []
 ---
@@ -448,18 +571,18 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 (a que se refere o artigo 21.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21901/00010008.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21901/00010008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21901/00010008.pdf)

@@ -48,40 +48,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1985-622173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc246ebdf9782c9759fd39fa57c6506a09a7fc98cedc360d645b972e739944c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6a1901efa9eabc60a4a3206eeca725b43a3447122e246ca71f37802f313845d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- IPSS
+- Isenção Fiscal
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:107114312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662275:por
+  label: "Aditada a alínea n) ao artigo 2.º, pelo DEC LEI.135/87.19.03.1987.MF, DR.IS [65] de 19.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1987-662275
+  date: '1987-03-19'
+- type: cites
+  target: pt:dre:158422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:648483:por
+  label: "Revogada a alínea e) do artigo 2.º, pelo DEC LEI.27/93.12.02.1993.MF, DR.IS-A [36] de 12.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1993-648483
+  date: '1993-02-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:19Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +147,13 @@ Verifica-se, deste modo, uma diversidade de regimes de isenções fiscais das in
 
 Assim, no uso da autorização conferida pelo artigo 26.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Outubro, que aprovou o Orçamento do Estado para 1984, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As instituições particulares de solidariedade social, uma vez registadas nos termos dos artigos 7.º e 8.º do Estatuto aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, ficam isentas de:
+Artigo 1.º As instituições particulares de solidariedade social, uma vez registadas nos termos dos artigos 7.º e 8.º do Estatuto aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, ficam isentas de:
 
 a) Imposto do selo;
 
 b) Custas judiciais.
 
-###### Art. 2.º As instituições particulares de solidariedade social, uma vez registadas, ficam ainda isentas dos seguintes impostos, desde que se verifiquem os condicionalismos abaixo estabelecidos:
+Art. 2.º As instituições particulares de solidariedade social, uma vez registadas, ficam ainda isentas dos seguintes impostos, desde que se verifiquem os condicionalismos abaixo estabelecidos:
 
 a) Sisa, pela aquisição de bens destinados à directa e imediata realização dos seus fins, nas condições estabelecidas pelo artigo 15.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, com a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 260-D/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-d-1981-158422), de 2 de Setembro;
 
@@ -134,24 +179,24 @@ l) Imposto sobre veículos, nas condições constantes do n.º 2 do artigo 5.º 
 
 m) Imposto de circulação, nas condições definidas pelo [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963.
 
-###### Art. 3.º Beneficiam igualmente da isenção do imposto sobre as sucessões e doações, nos termos do artigo 15.º do respectivo Código, os actos de instituição de fundações, uma vez reconhecidas como fundações de solidariedade social.
+Art. 3.º Beneficiam igualmente da isenção do imposto sobre as sucessões e doações, nos termos do artigo 15.º do respectivo Código, os actos de instituição de fundações, uma vez reconhecidas como fundações de solidariedade social.
 
-###### Art. 4.º - 1 - As associações de socorros, mútuos e as instituições particulares de solidariedade social anteriormente qualificadas como pessoas colectivas de utilidade pública administrativa que não tiverem ainda procedido à reforma, e registo dos respectivos estatutos, de harmonia com a legislação em vigor, beneficiam das isenções previstas no presente diploma, salvo se já tiverem decorrido os prazos legais para a reforma e registo dos estatutos.
+Art. 4.º - 1 - As associações de socorros, mútuos e as instituições particulares de solidariedade social anteriormente qualificadas como pessoas colectivas de utilidade pública administrativa que não tiverem ainda procedido à reforma, e registo dos respectivos estatutos, de harmonia com a legislação em vigor, beneficiam das isenções previstas no presente diploma, salvo se já tiverem decorrido os prazos legais para a reforma e registo dos estatutos.
 
 2 - Competirá aos serviços competentes do ministério da tutela das instituições emitir as declarações ou certificados comprovativos da situação jurídica das instituições para os efeitos do número anterior.
 
-###### Art. 5.º - 1 - É revogado o artigo 97.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro.
+Art. 5.º - 1 - É revogado o artigo 97.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro.
 
 2 - É igualmente revogado o artigo 17.º do [Decreto-Lei n.º 347/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1981-567059), de 22 de Dezembro, na parte relativa às associações de socorros mútuos.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo.
 
-**Promulgado em 21 de Dezembro de 1984.**
+Promulgado em 21 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Dezembro de 1984.**
+Referendado em 26 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

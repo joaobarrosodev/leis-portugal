@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29500/42014202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1982-380756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1d8c9037912d87e51556aa91650ebdde916de88ace007d844d11071aa627d6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 793af2bb769056748dd7fe940afd2157bd056e9b9c1b89429c89677de417176f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Imprensa Nacional-Casa da Moeda
 relationships:
 - type: amended_by
   target: pt:dre:70686126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521595:por
+  label: "Aditado o nº 3 ao art. 4º do Dec Lei 333/81, na redacção do presente diploma, pelo DEC LEI.138/98.1998.05.16.MF\
+    \ DR.IS-A [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1998-521595
+  date: '1998-05-16'
+- type: cites
+  target: pt:dre:567461:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70686126:por
+  label: Revogado, a partir de 15.10.2015, o Dec Lei 333/81 de 07-dez, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 235/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2015-70686126
+  date: '2015-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:58Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +117,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 4.º, 36.º e 43.º do [Decreto-Lei n.º 333/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1981-567461), de 7 de Dezembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 4.º, 36.º e 43.º do [Decreto-Lei n.º 333/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1981-567461), de 7 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - Constitui exclusivo da INCM a produção dos bens mencionados em 1) a 5) da alínea a) do número anterior e também, desde que destinados aos serviços do Estado e a outras entidades públicas, os indicados em 7) da mesma alínea a), bem como a prestação dos serviços referidos nas alíneas b), c) e d) do mesmo número.
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 a) ...
 
@@ -113,7 +131,7 @@ b) ...
 
 c) Sugerir e dar parecer sobre medidas relativas à preservação e valorização do património numismático e medalhístico da INCM.
 
-###### Art. 43.º - 1 - ...
+Art. 43.º - 1 - ...
 
 2 - ...
 
@@ -121,8 +139,8 @@ c) Sugerir e dar parecer sobre medidas relativas à preservação e valorizaçã
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 13 de Dezembro de 1982.**
+Promulgado em 13 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

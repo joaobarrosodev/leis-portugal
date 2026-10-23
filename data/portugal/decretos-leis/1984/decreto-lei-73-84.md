@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/05300/07270729.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1984-661125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be30cfecca2c417fee7be0d3c658075c8b59cda1e8b6ba5fab69ac711f2592cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb80195a1da20862093f8894bb471e3215bfc0bd5001720576090bc41f9df3a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Contribuição Predial
+- Imposto sobre a Indústria Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:54Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +112,9 @@ Nestes termos:
 
 Usando da autorização legislativa concedida pelo artigo 12.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 113.º, 121.º, 229.º, 232.º, 238.º e 241.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 113.º, 121.º, 229.º, 232.º, 238.º e 241.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § 1.º ...
 
@@ -115,7 +128,7 @@ Usando da autorização legislativa concedida pelo artigo 12.º da [Lei n.º 42/
 
 § 6.º ...
 
-###### Art. 113.º ...
+Art. 113.º ...
 
 § 1.º ...
 
@@ -125,7 +138,7 @@ Usando da autorização legislativa concedida pelo artigo 12.º da [Lei n.º 42/
 
 § 4.º Nas sublocações sujeitas a contribuição predial nos termos do § 4.º do artigo 6.º, o rendimento colectável é igual à diferença entre a renda anual paga pelo sublocatário e a renda, também anual, convencionada entre o senhorio e o sublocador, salvo tratando-se de sublocação ou cessão onerosa de lojas nas condições a que se refere a parte final daquele § 4.º do artigo 6.º
 
-###### Art. 121.º ...
+Art. 121.º ...
 
 a) ...
 
@@ -135,7 +148,7 @@ b) ...
 
 § 2.º ...
 
-###### Art. 229.º Quando a transmissão contratual origine mudança dos titulares do direito aos rendimentos dos prédios, nos termos do artigo 6.º, a contribuição predial será liquidada de harmonia com as seguintes regras:
+Art. 229.º Quando a transmissão contratual origine mudança dos titulares do direito aos rendimentos dos prédios, nos termos do artigo 6.º, a contribuição predial será liquidada de harmonia com as seguintes regras:
 
 1.ª Ao alheador, quanto aos duodécimos correspondentes aos meses anteriores àquele em que ocorra algum destes factos:
 
@@ -149,7 +162,7 @@ c) Transmissão por título gratuito.
 
 § único. Cumpre à repartição de finanças, além do estabelecido no artigo 183.º, proceder à divisão e atribuição do rendimento colectável nos termos e para os efeitos do disposto nas regras do presente artigo, efectuando, sendo caso disso, a correcção do lançamento respeitante ao ano da transmissão ou a revisão oficiosa a que haja lugar.
 
-###### Art. 232.º Relativamente aos prédios novos, a contribuição predial liquidar-se-á segundo as regras seguintes:
+Art. 232.º Relativamente aos prédios novos, a contribuição predial liquidar-se-á segundo as regras seguintes:
 
 1.ª Os prédios construídos para habitação própria ficam sujeitos a tributação a partir da data em que sejam declarados habitáveis ou, se ocupados anteriormente, desde o mês em que o tenham sido.
 
@@ -163,15 +176,15 @@ c) Transmissão por título gratuito.
 
 § 2.º A contribuição de quaisquer outros prédios cuja isenção tenha cessado liquidar-se-á também nos termos deste artigo.
 
-###### Art. 238.º Só poderá ser liquidada contribuição predial nos 5 anos seguintes àquele a que o rendimento colectável respeite, salvo no caso do artigo 224.º-A e sem prejuízo do disposto no artigo 233.º
+Art. 238.º Só poderá ser liquidada contribuição predial nos 5 anos seguintes àquele a que o rendimento colectável respeite, salvo no caso do artigo 224.º-A e sem prejuízo do disposto no artigo 233.º
 
-###### Art. 241.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 241.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. O juro será contado dia a dia desde o termo do prazo para a apresentação da declaração ou para o cumprimento da obrigação de que resultou atraso na liquidação, até à data em que vier a ser suprida ou corrigida a falta, tendo igualmente em conta o limite estabelecido no artigo 238.º, bem como o período em que a liquidação da colecta de cada ano tiver sido retardada.
 
-###### Art. 2.º São aditados ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola o § 3.º do artigo 119.º e o artigo 224.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola o § 3.º do artigo 119.º e o artigo 224.º-A, com a seguinte redacção:
 
-###### Art. 119.º ...
+Art. 119.º ...
 
 § 1.º ...
 
@@ -179,18 +192,18 @@ c) Transmissão por título gratuito.
 
 § 3.º Se a participação for apresentada fora do prazo estabelecido neste artigo, a liquidação da contribuição predial abrangerá apenas os duodécimos correspondentes aos meses decorridos desde aquele em que o prédio, ou parte do prédio, ficou devoluto até ao termo daquele em que a participação tenha sido apresentada.
 
-###### Art. 224.º-A. Os contribuintes que requeiram isenção de contribuição predial poderão requerer também a suspensão da liquidação até decisão final.
+Art. 224.º-A. Os contribuintes que requeiram isenção de contribuição predial poderão requerer também a suspensão da liquidação até decisão final.
 
 § único. Findo o processo, reconhecendo-se que a contribuição é devida, proceder-se-á à liquidação sem limite de anos, acrescida do juro referido no artigo 241.º
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 20 de Fevereiro de 1984.**
+Promulgado em 20 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 24 de Fevereiro de 1984.**
+Referendado em 24 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

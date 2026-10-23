@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 116/1986, 1º Suplemento, Série I de 1986-05-21
   number: '116'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1238-(2) a 1238-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11601/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1986-173754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55aaaf1ba954ade13ae1a8200ce44812af00552af462f6c092f4f06608ada4c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 849a9b8bf5f51d5040232803cb84d6576961435241d12d8bd8a25e5af8e7f10c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Profissional
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:180178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:40Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +119,9 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 24.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º, 21.º, 47.º, 49.º, 50.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º, 21.º, 47.º, 49.º, 50.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 a) ...
 
@@ -124,21 +139,21 @@ g) ...
 
 h) As indemnizações pagas ou atribuídas em resultado da cessação do contrato individual de trabalho, desde que, atentas as circunstâncias de cada caso e as características da conjuntura económica, os respectivos montantes se contenham dentro dos limites tidos por razoáveis pela Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 350000$00.
+Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 350000$00.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11601/00020006.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11601/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11601/00020006.pdf)
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 47.º Durante o mês de Janeiro de cada ano as pessoas referidas no artigo anterior deverão apresentar na repartição de finanças da área a que alude o § 1.º do artigo 29.º relação nominal, em duplicado, conforme modelo n.º 8, das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º a quem, no ano anterior, hajam pago ou atribuído remunerações ou rendimentos, ainda que não tenha havido lugar a dedução de imposto.
+Art. 47.º Durante o mês de Janeiro de cada ano as pessoas referidas no artigo anterior deverão apresentar na repartição de finanças da área a que alude o § 1.º do artigo 29.º relação nominal, em duplicado, conforme modelo n.º 8, das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º a quem, no ano anterior, hajam pago ou atribuído remunerações ou rendimentos, ainda que não tenha havido lugar a dedução de imposto.
 
 A relação será organizada por ordem alfabética dos contribuintes e dela deverão constar as remunerações ou rendimentos ilíquidos, a importância deduzida e a soma desta, bem como a designação e residência ou sede da entidade responsável.
 
@@ -148,13 +163,13 @@ A relação será organizada por ordem alfabética dos contribuintes e dela deve
 
 § 3.º A relação referida neste artigo poderá, mediante prévia autorização da Direcção-Geral das Contribuições e Impostos, adaptar-se ao sistema de organização das empresas ou demais entidades, nomeadamente com apoio da informática, sem prejuízo do formato e dos elementos nela exigidos.
 
-###### Art. 49.º Os chefes, directores, administradores ou outros responsáveis dos serviços públicos, civis ou militares, das pessoas colectivas de utilidade pública administrativa, das instituições particulares de solidariedade social, dos sindicatos ou outros organismos representativos das categorias profissionais, das associações patronais e de quaisquer outras entidades públicas, de sociedades ou empresas públicas e organizações ou associações privadas, bem como os donos de empresas em nome individual e as pessoas que exerçam por conta própria alguma das actividades constantes da tabela anexa, comunicarão à repartição de finanças da área da respectiva sede ou domicílio, durante o mês de Janeiro, as remunerações ou rendimentos que por eles foram pagos ou atribuídos, no ano anterior, às pessoas abrangidas pela alínea c) do artigo 2.º
+Art. 49.º Os chefes, directores, administradores ou outros responsáveis dos serviços públicos, civis ou militares, das pessoas colectivas de utilidade pública administrativa, das instituições particulares de solidariedade social, dos sindicatos ou outros organismos representativos das categorias profissionais, das associações patronais e de quaisquer outras entidades públicas, de sociedades ou empresas públicas e organizações ou associações privadas, bem como os donos de empresas em nome individual e as pessoas que exerçam por conta própria alguma das actividades constantes da tabela anexa, comunicarão à repartição de finanças da área da respectiva sede ou domicílio, durante o mês de Janeiro, as remunerações ou rendimentos que por eles foram pagos ou atribuídos, no ano anterior, às pessoas abrangidas pela alínea c) do artigo 2.º
 
 A comunicação será feita através da relação modelo n.º 10, em duplicado, organizada por ordem alfabética dos contribuintes e com indicação do seu domicílio e respectiva repartição de finanças.
 
 § único. A relação referida neste artigo poderá, mediante prévia autorização da Direcção-Geral das Contribuições e Impostos, adaptar-se ao sistema de organização das empresas ou demais entidades, nomeadamente com o apoio da informática, sem prejuízo do formato e dos elementos nela exigidos.
 
-###### Art. 50.º ...
+Art. 50.º ...
 
 a) ...
 
@@ -166,7 +181,7 @@ d) ...
 
 § único. Da comunicação, feita através da nota modelo n.º 11, deverão constar os honorários, preços ou remunerações, quando conhecidos, assim como o nome e residência do beneficiário.
 
-###### Art. 59.º A falta ou inexactidão das declarações, relações ou dos suportes magnéticos e respectivas fichas a que se referem os artigos 6.º, 6.º-A, 27.º-A, 45.º-A, 47.º e 47.º-A, bem como as omissões neles praticadas, serão punidas, no caso de simples negligência, com multa de 200$00 a 50000$00, e, tratando-se da falta de entrega da declaração modelo n.º 5 nos casos previstos no artigo 28.º e no § único do artigo 40.º, com a multa igual a metade do imposto devido, no mínimo de 250$00.
+Art. 59.º A falta ou inexactidão das declarações, relações ou dos suportes magnéticos e respectivas fichas a que se referem os artigos 6.º, 6.º-A, 27.º-A, 45.º-A, 47.º e 47.º-A, bem como as omissões neles praticadas, serão punidas, no caso de simples negligência, com multa de 200$00 a 50000$00, e, tratando-se da falta de entrega da declaração modelo n.º 5 nos casos previstos no artigo 28.º e no § único do artigo 40.º, com a multa igual a metade do imposto devido, no mínimo de 250$00.
 
 § 1.º ...
 
@@ -174,21 +189,21 @@ d) ...
 
 § 3.º ...
 
-###### Art. 2.º São aditados os artigos 38.º-A e 47.º-A ao Código do Imposto Profissional, com a seguinte redacção:
+Art. 2.º São aditados os artigos 38.º-A e 47.º-A ao Código do Imposto Profissional, com a seguinte redacção:
 
-###### Art. 38.º-A. Quando se verificar que na autoliquidação se cometeram erros de facto ou de direito ou houve quaisquer omissões de que resultou prejuízo para o Estado, sem, no entanto, serem por lei considerados infracções, a repartição de finanças deverá repará-la através da liquidação definitiva ou mediante liquidação adicional, mas sempre com observância, em qualquer caso, do disposto nos artigos 35.º, 37.º e 38.º
+Art. 38.º-A. Quando se verificar que na autoliquidação se cometeram erros de facto ou de direito ou houve quaisquer omissões de que resultou prejuízo para o Estado, sem, no entanto, serem por lei considerados infracções, a repartição de finanças deverá repará-la através da liquidação definitiva ou mediante liquidação adicional, mas sempre com observância, em qualquer caso, do disposto nos artigos 35.º, 37.º e 38.º
 
-###### Art. 47.º-A. A relação modelo n.º 8 referida no artigo anterior poderá, mediante prévia autorização da Direcção-Geral das Contribuições e Impostos, a solicitar pelas empresas ou demais entidades até 31 de Outubro, ser substituída por suporte magnético, desde que este obedeça às características constantes da ficha modelo n.º 9.
+Art. 47.º-A. A relação modelo n.º 8 referida no artigo anterior poderá, mediante prévia autorização da Direcção-Geral das Contribuições e Impostos, a solicitar pelas empresas ou demais entidades até 31 de Outubro, ser substituída por suporte magnético, desde que este obedeça às características constantes da ficha modelo n.º 9.
 
 § 1.º O suporte magnético será igualmente entregue durante o mês de Janeiro de cada ano, acompanhado do rosto da relação modelo n.º 8 e da ficha modelo n.º 9, ambas em duplicado, sendo um dos exemplares da ficha devolvido como recibo.
 
 § 2.º Após o tratamento informático do suporte magnético serão extraídas folhas intercalares contendo todos os elementos constantes do mesmo, e entregues ao contribuinte, por intermédio da repartição de finanças da área a que alude o artigo 29.º, acompanhadas do duplicado do rosto da relação modelo n.º 8 e do referido suporte.
 
-###### Art. 3.º - 1 - O levantamento de autos de notícia por infracções ao disposto no artigo 47.º-A do Código do Imposto Profissional, aditado pelo presente diploma, durante os anos de 1987 e 1988, depende de prévia autorização do director-geral das Contribuições e Impostos, que a concederá quando tenha havido culpa grave.
+Art. 3.º - 1 - O levantamento de autos de notícia por infracções ao disposto no artigo 47.º-A do Código do Imposto Profissional, aditado pelo presente diploma, durante os anos de 1987 e 1988, depende de prévia autorização do director-geral das Contribuições e Impostos, que a concederá quando tenha havido culpa grave.
 
 2 - O disposto no número anterior não é aplicável quando tenha sido autorizada a entrega do suporte magnético em substituição da relação modelo n.º 8 e nenhum destes elementos seja entregue no prazo legal.
 
-###### Art. 4.º - 1 - As alterações introduzidas nos artigos 3.º, 5.º e 21.º do Código do Imposto Profissional, nos termos do artigo 1.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1986 e seguintes.
+Art. 4.º - 1 - As alterações introduzidas nos artigos 3.º, 5.º e 21.º do Código do Imposto Profissional, nos termos do artigo 1.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1986 e seguintes.
 
 2 - As importâncias que, por virtude das alterações referidas no número anterior, se considerem a mais ou a menos deduzidas e entregues nos cofres do Estado, nos termos dos artigos 26.º, 27.º, 27.º-A e 29.º do Código, serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações ou rendimentos a pagar ou a atribuir até ao fim do ano em curso.
 
@@ -196,14 +211,14 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 15 de Maio de 1986.**
+Promulgado em 15 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Maio de 1986.**
+Referendado em 21 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11601/00020006.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11601/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11601/00020006.pdf)

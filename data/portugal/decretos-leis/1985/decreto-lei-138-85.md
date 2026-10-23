@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1985-152336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95334de79f19897540159651dc7becbb60fbc2c9faafbd2ff18404fcfaf07cdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0658bd7797f4af79c387fea92da5ee7c799d60dec257ecd1034f909a3a613b33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Nacional de Navegação
+- Extinção de Empresas
+- Marinha Mercante
+- Personalidade Jurídica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182237:por
+  label: "Alterado o nº 1 do artigo 2º pelo DEC LEI.202/85.25.06.1985.MM, DR.IS [143] de 25.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1985-182237
+  date: '1985-06-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PRORROGADO O PRAZO NO PRESENTE DIPLOMA PELO DC DDC92/89 DO SET-MF/SETEC-MOPTC DR.IIS [119]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-05-24'
+- type: amended_by
+  target: pt:dre:2796651:por
+  label: "Prorrogado por mais um ano o prazo estabelecido no presente diploma, pelo DC.DD3015.27.06.1990.SEF-MF, DR.IIS [146]\
+    \ de 27.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1990-2796651
+  date: '1990-06-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DECLARADA A INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL, DA NORMA DO NUM 1 DO ART 8 PELO AC DO TCS 151/94
+    DE 08-FEV DR.IS-A [75] DE 30/MAR/1994 QUANDO INTERPRETADA NO SENTIDO DE QUE OS TRIBUNAIS COMUNS A QUE SE FAZ REFERÊNCIA
+    NESSA NORMA SAO OS TRIBUNAIS CIVEIS E ESTEJAM EM CAUSA CRÉDITOS ORIUNDOS DE RELAÇÕES LABORAIS
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PRORROGADO O PRAZO PREVISTO NO ART 14 DOS DEC LEIS 137/85 E 138/85 AMBOS DE 03-MAI PELO DC DIDC7/95 DE 15-DEZ DR.IIS
+    [5].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DECLARADA, COM FORÇA OBRIGATÓRIA GERAL, A INCONSTITUCIONALIDADE DA AL C) DO NUM 1 DO ART 4 PELO AC 162/95 DE 28-MAR
+    DO TCS (PROC 214/94) DR.IS-A [106] DE 08/MAI/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU A COMISSAO LIQUIDATÁRIA DA COMPANHIA NACIONAL DE NAVEGAÇÃO (CNN) PARA A DEPENDENCIA DO MINISTRO DO EQUIPAMENTO\
+    \ SOCIAL ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: cites
+  target: pt:dre:431397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:07Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +155,7 @@ A situação económico-financeira da empresa pública CNN - Companhia Nacional 
 
 a) Prejuízos de exploração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf))](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf)
 
 Não se conhecem valores, mesmo aproximados, para o exercício de 1984;
 
@@ -101,11 +163,11 @@ b) Apoios do Estado - A CNN tem vindo a sobreviver à custa de substanciais apoi
 
 Em matéria de subsídios e dotações de capital desenvolveu o Estado um enorme esforço, o qual, contudo, não foi eficaz no que concerne à obtenção de resultados favoráveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf))](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf)
 
 c) A estrutura financeira da CNN tem vindo a degradar-se progressivamente e encontra-se irremediavelmente comprometida:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf))](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/10100/11691172.pdf)
 
 d) Em relação ao final de 1984 constata-se um montante superior a 22 milhões de contos para o passivo da CNN, do qual mais de 10,5 milhões de contos são referidos a divisas;
 
@@ -121,11 +183,11 @@ Decide-se, por isso, extinguir a CNN - Companhia Nacional de Navegação, E. P.
 
 Assim, visto o disposto no artigo 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a CNN - Companhia Nacional de Navegação, E. P., adiante designada CNN, que nesta data entra em liquidação.
+Artigo 1.º - 1 - É extinta a CNN - Companhia Nacional de Navegação, E. P., adiante designada CNN, que nesta data entra em liquidação.
 
 2 - A CNN mantém a sua personalidade jurídica, para efeitos de liquidação, até à aprovação final das contas a apresentar pela comissão liquidatária.
 
-###### Art. 2.º - 1 - Por despacho conjunto dos Ministros das Finanças e do Plano e do Mar será nomeada, no prazo de 5 dias a contar da data da publicação do presente diploma, uma comissão liquidatária, constituída por 1 presidente e 2 vogais, que terá todos os poderes necessários e adequados à liquidação da empresa ora extinta, nos limites da lei e das directrizes que lhe forem fixadas por despacho conjunto dos Secretários de Estado das Finanças e da Marinha Mercante.
+Art. 2.º - 1 - Por despacho conjunto dos Ministros das Finanças e do Plano e do Mar será nomeada, no prazo de 5 dias a contar da data da publicação do presente diploma, uma comissão liquidatária, constituída por 1 presidente e 2 vogais, que terá todos os poderes necessários e adequados à liquidação da empresa ora extinta, nos limites da lei e das directrizes que lhe forem fixadas por despacho conjunto dos Secretários de Estado das Finanças e da Marinha Mercante.
 
 2 - Qualquer dos membros da comissão liquidatária pode ser livremente exonerado por forma idêntica à da nomeação.
 
@@ -157,13 +219,13 @@ i) Praticar todos os demais actos necessários ao cumprimento das suas atribuiç
 
 7 - Os contratos referidos no n.º 5 ficam sujeitos a autorização dos Secretários de Estado das Finanças e da Marinha Mercante.
 
-###### Art. 3.º - 1 - É fixado em 1 mês, a contar da entrada em vigor deste diploma, o prazo durante o qual os credores da CNN residentes no País podem reclamar os seus créditos, sendo tal prazo, para os credores não residentes no País, de 3 meses.
+Art. 3.º - 1 - É fixado em 1 mês, a contar da entrada em vigor deste diploma, o prazo durante o qual os credores da CNN residentes no País podem reclamar os seus créditos, sendo tal prazo, para os credores não residentes no País, de 3 meses.
 
 2 - Os credores residentes no País deverão reclamar os seus créditos na sede da empresa, podendo os credores não residentes fazer essa reclamação ou directamente na sede da empresa ou por intermédio de qualquer representação diplomática de Portugal.
 
 3 - Sem prejuízo dos prazos previstos nos números anteriores, deverá a comissão liquidatária notificar os credores de que tenha conhecimento, dando-lhes a conhecer o disposto neste artigo.
 
-###### Art. 4.º - 1 - A extinção da CNN implica:
+Art. 4.º - 1 - A extinção da CNN implica:
 
 a) O encerramento de todas as contas correntes, o vencimento de todas as dívidas e a cessação da contagem dos juros respectivos;
 
@@ -177,13 +239,13 @@ c) A extinção por caducidade imediata de todos os contratos de trabalho em que
 
 4 - Os trabalhadores que, por mútuo acordo, tenham cessado a sua actividade na empresa e estejam a receber à data da extinção da CNN uma pensão pecuniária mensal a título de pré-reforma são equiparados aos trabalhadores referidos na alínea c) do n.º 1 do presente artigo, beneficiando, designadamente, dos direitos reconhecidos aos trabalhadores em situação de desemprego involuntário, considerando-se uns e outros nesta situação.
 
-###### Art. 5.º Por forma a facilitar o início do processo de liquidação e para a constituição de um fundo de maneio destinado a acorrer aos encargos de liquidação, poderão ser obtidos pela comissão liquidatária da CNN empréstimos, nomeadamente do Estado, que serão reembolsados logo que a liquidação do respectivo património o permita, com prioridade absoluta sobre quaisquer outros créditos, sejam quais forem a sua natureza ou as garantias de que gozem, nomeadamente as referidas no n.º 3 do artigo anterior.
+Art. 5.º Por forma a facilitar o início do processo de liquidação e para a constituição de um fundo de maneio destinado a acorrer aos encargos de liquidação, poderão ser obtidos pela comissão liquidatária da CNN empréstimos, nomeadamente do Estado, que serão reembolsados logo que a liquidação do respectivo património o permita, com prioridade absoluta sobre quaisquer outros créditos, sejam quais forem a sua natureza ou as garantias de que gozem, nomeadamente as referidas no n.º 3 do artigo anterior.
 
-###### Art. 6.º - 1 - A comissão liquidatária dará aos credores da CNN todos os elementos de informação necessários à determinação exacta do montante dos respectivos créditos.
+Art. 6.º - 1 - A comissão liquidatária dará aos credores da CNN todos os elementos de informação necessários à determinação exacta do montante dos respectivos créditos.
 
 2 - As reclamações de créditos apresentadas estarão patentes para consulta dos interessados na sede da empresa, durante o prazo de 1 mês após o termo do prazo previsto na parte final do n.º 1 do artigo 3.º, podendo ser impugnadas por qualquer interessado nos 30 dias seguintes.
 
-###### Art. 7.º - 1 - Até 5 meses após o termo do prazo referido na parte final do artigo anterior, a comissão liquidatária apreciará as reclamações de créditos e respectivas impugnações e publicará o mapa de todos os créditos, com observância do seguinte:
+Art. 7.º - 1 - Até 5 meses após o termo do prazo referido na parte final do artigo anterior, a comissão liquidatária apreciará as reclamações de créditos e respectivas impugnações e publicará o mapa de todos os créditos, com observância do seguinte:
 
 a) Em relação a cada crédito, será discriminado o nome do credor, causa do crédito e seu montante, data da reclamação, nome do impugnante, quando exista, e montante impugnado;
 
@@ -191,11 +253,11 @@ b) Se o crédito for ilíquido e o reclamante não tiver elementos suficientes p
 
 2 - Decorrido o prazo previsto no número anterior, a comissão liquidatária mandará afixar na sede da empresa o mapa dos créditos reclamados e reconhecidos e a respectiva graduação.
 
-###### Art. 8.º - 1 - Os credores cujos créditos não hajam sido reconhecidos pela comissão liquidatária e incluídos no mapa referido no artigo anterior, ou que não hajam sido graduados em conformidade com a lei, podem recorrer ao tribunal comum para fazer valer os seus direitos.
+Art. 8.º - 1 - Os credores cujos créditos não hajam sido reconhecidos pela comissão liquidatária e incluídos no mapa referido no artigo anterior, ou que não hajam sido graduados em conformidade com a lei, podem recorrer ao tribunal comum para fazer valer os seus direitos.
 
 2 - No caso de o tribunal reconhecer os direitos invocados, deve a comissão liquidatária introduzir no respectivo mapa as competentes correcções.
 
-###### Art. 9.º Elaborado o mapa final dos créditos, a comissão liquidatária iniciará a venda dos bens e direitos do património em liquidação até ao termo desta, com observância das normas seguintes:
+Art. 9.º Elaborado o mapa final dos créditos, a comissão liquidatária iniciará a venda dos bens e direitos do património em liquidação até ao termo desta, com observância das normas seguintes:
 
 a) A venda de navios e de bens imóveis deverá ser realizada mediante concurso público, sem prejuízo do disposto na alínea g) do n.º 4 do artigo 2.º;
 
@@ -207,7 +269,7 @@ d) Os demais bens móveis serão vendidos por negociação particular ou em esta
 
 e) Por despacho conjunto dos Secretários de Estado das Finanças e da Marinha Mercante, poderá ser autorizada a venda antecipada de bens, quando estes se encontrem sujeitos a depreciação ou quando haja manifesta vantagem para o património em liquidação na antecipação da venda.
 
-###### Art. 10.º - 1 - Terminada a verificação do passivo, serão os credores pagos à medida da realização do activo e de acordo com a graduação estabelecida, sem prejuízo do disposto no artigo 1254.º do Código de Processo Civil.
+Art. 10.º - 1 - Terminada a verificação do passivo, serão os credores pagos à medida da realização do activo e de acordo com a graduação estabelecida, sem prejuízo do disposto no artigo 1254.º do Código de Processo Civil.
 
 2 - Poderá o Estado, quando o interesse público o justifique, efectuar o pagamento de créditos sobre o património em liquidação. Neste caso, ficará sub-rogado, com direito de regresso nos direitos do credor, bem como nas garantias e acessórios do crédito pago.
 
@@ -219,7 +281,7 @@ e) Por despacho conjunto dos Secretários de Estado das Finanças e da Marinha M
 
 6 - Sob proposta fundamentada da comissão liquidatária, poderá ser autorizado o pagamento antecipado de débitos da empresa resultantes de retribuições vencidas, decorrentes, nomeadamente, de contratos de trabalho caducados na data da extinção, com o produto de subsídios ou empréstimos concedidos com essa finalidade pelo Governo.
 
-###### Art. 11.º - 1 - A comissão liquidatária apresentará contas anuais, sem prejuízo de dever manter informados do estado da liquidação os interessados com crédito reconhecido.
+Art. 11.º - 1 - A comissão liquidatária apresentará contas anuais, sem prejuízo de dever manter informados do estado da liquidação os interessados com crédito reconhecido.
 
 2 - A conta final da liquidação deverá ser apresentada até 60 dias após o respectivo termo, em forma de conta corrente e acompanhada de todos os elementos comprovativos.
 
@@ -229,13 +291,13 @@ e) Por despacho conjunto dos Secretários de Estado das Finanças e da Marinha M
 
 5 - Não havendo recurso ou decidido este por decisão transitada, as contas serão submetidas aos Secretários de Estado das Finanças e da Marinha Mercante, para aprovação final.
 
-###### Art. 12.º Com a aprovação final das contas cessam a personalidade jurídica da CNN e, após a inscrição daquele acto no registo comercial, as funções e responsabilidades da comissão liquidatária.
+Art. 12.º Com a aprovação final das contas cessam a personalidade jurídica da CNN e, após a inscrição daquele acto no registo comercial, as funções e responsabilidades da comissão liquidatária.
 
-###### Art. 13.º Desde a entrada em vigor deste diploma e até à aprovação das contas apresentadas pela comissão liquidatária, deverá ser aposta à denominação da CNN a expressão «em liquidação».
+Art. 13.º Desde a entrada em vigor deste diploma e até à aprovação das contas apresentadas pela comissão liquidatária, deverá ser aposta à denominação da CNN a expressão «em liquidação».
 
-###### Art. 14.º É fixado em 2 anos o prazo para a liquidação da CNN, o qual poderá ser prorrogado por despacho conjunto dos Secretários de Estado das Finanças e da Marinha Mercante.
+Art. 14.º É fixado em 2 anos o prazo para a liquidação da CNN, o qual poderá ser prorrogado por despacho conjunto dos Secretários de Estado das Finanças e da Marinha Mercante.
 
-###### Art. 15.º - 1 - Para o desempenho das suas atribuições, a comissão liquidatária reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o processo de liquidação o exija, mediante convocação do seu presidente, por iniciativa ou a pedido de qualquer dos seus membros.
+Art. 15.º - 1 - Para o desempenho das suas atribuições, a comissão liquidatária reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o processo de liquidação o exija, mediante convocação do seu presidente, por iniciativa ou a pedido de qualquer dos seus membros.
 
 2 - Para a comissão liquidatária poder deliberar validamente é necessária a presença da maioria dos seus membros.
 
@@ -243,22 +305,22 @@ e) Por despacho conjunto dos Secretários de Estado das Finanças e da Marinha M
 
 4 - Das reuniões lavrar-se-á acta em livro próprio, que deverá ser assinada por todos os presentes, e na qual deverão relatar-se o conteúdo e as circunstâncias em que sejam tomadas as deliberações, bem como a maioria que as tiver tomado.
 
-###### Art. 16.º Os actos ou documentos relativos à liquidação deverão ser praticados ou assinados por, pelo menos, 2 membros da comissão liquidatária, salvo para os casos de mero expediente, em que bastará a assinatura de um deles.
+Art. 16.º Os actos ou documentos relativos à liquidação deverão ser praticados ou assinados por, pelo menos, 2 membros da comissão liquidatária, salvo para os casos de mero expediente, em que bastará a assinatura de um deles.
 
-###### Art. 17.º A comissão liquidatária poderá ser assessorada por técnicos pertencentes aos quadros da função pública ou de empresas públicas, os quais serão destacados ou requisitados para essas funções, sob proposta daquela, por despacho conjunto do Secretário de Estado da Marinha Mercante e do ministro ou secretário de Estado que tenha competência hierárquica ou tutelar sobre o serviço ou empresa a que pertençam esses técnicos.
+Art. 17.º A comissão liquidatária poderá ser assessorada por técnicos pertencentes aos quadros da função pública ou de empresas públicas, os quais serão destacados ou requisitados para essas funções, sob proposta daquela, por despacho conjunto do Secretário de Estado da Marinha Mercante e do ministro ou secretário de Estado que tenha competência hierárquica ou tutelar sobre o serviço ou empresa a que pertençam esses técnicos.
 
-###### Art. 18.º - 1 - Os membros da comissão liquidatária receberão pelas suas funções, durante o prazo de 2 anos previsto no artigo 14.º, uma remuneração igual à percebida pelos membros dos conselhos de gerência ou de administração da CNN, excepto quando exercerem as suas funções a tempo parcial, caso em que a respectiva remuneração será fixada no despacho previsto no n.º 3 do artigo 2.º
+Art. 18.º - 1 - Os membros da comissão liquidatária receberão pelas suas funções, durante o prazo de 2 anos previsto no artigo 14.º, uma remuneração igual à percebida pelos membros dos conselhos de gerência ou de administração da CNN, excepto quando exercerem as suas funções a tempo parcial, caso em que a respectiva remuneração será fixada no despacho previsto no n.º 3 do artigo 2.º
 
 2 - Decorrido o prazo previsto no número anterior, a remuneração dos membros da comissão liquidatária será a que for fixada no despacho conjunto previsto no artigo 14.º
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Carlos Montez Melancia.
 
-**Promulgado em 12 de Março de 1985.**
+Promulgado em 12 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Março de 1985.**
+Referendado em 20 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

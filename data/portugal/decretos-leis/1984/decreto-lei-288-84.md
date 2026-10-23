@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19600/26092614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,151 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bafec84e5c30def2a8f68487a18f2c9e103ab623a3d7e6018bdabd3453902ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa751531768f9674177097bb261d36559a94d54f7e9e03e35d64c4adf21c38a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Embalagem
+- Especificação Técnica
+- Etiquetagem
+- Fabrico Industrial
+- Farinha
+- Indústria Alimentar
+- Indústria da Panificação
+- Indústria de Moagem
+- Indústria Pasteleira
+- Massa Alimentícia
+- Pão
+- Produto Alimentar
+- Semola
 relationships:
 - type: amended_by
   target: pt:dre:216746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:326120:por
+  label: "Dada nova redacção ao art. 20º pelo DEC LEI.55/85.04.03.1985.MA, DR.IS [52] de 04.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1985-326120
+  date: '1985-03-04'
+- type: amended_by
+  target: pt:dre:419988:por
+  label: Alterada a al. b) do n.º 1 do art. 17.º pelo(a) Decreto-Lei n.º 274/87 - Diário da República n.º 151/1987, Série
+    I de 1987-07-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-1987-419988
+  date: '1987-07-04'
+- type: amended_by
+  target: pt:dre:575699:por
+  label: "Alterado o art. 19º pelo DEC LEI.226/90.10.07.1990.MAPA, DR.IS [157] de 10.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-1990-575699
+  date: '1990-07-10'
+- type: cites
+  target: pt:dre:315310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685803:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380336:por
+  label: Retificado pelo(a) Declaração - Diário da República n.º 278/1984, 2º Suplemento, Série I de 1984-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-380336
+  date: '1984-11-30'
+- type: corrected_by
+  target: pt:dre:144047:por
+  label: Retificada a Decl de 30-Nov 1984, que retificou o presente diploma, pelo(a) Declaração - Diário da República n.º
+    26/1985, 2º Suplemento, Série I de 1985-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-144047
+  date: '1985-01-31'
+- type: repealed_by
+  target: pt:dre:216746:por
+  label: "Revogado pelo DEC LEI.65/92.23.04.1992.MA, DR.IS-A [95] de 23.04.1992, com a entrada em vigor da regulamentação\
+    \ prevista no seu art. 1º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1992-216746
+  date: '1992-04-23'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:26Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +266,7 @@ As farinhas e sêmolas destinadas à panificação e a outros fins devem ter as 
 
 1 - As farinhas destinadas à indústria de panificação terão as características e os limites indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19600/26092614.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19600/26092614.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/19600/26092614.pdf)
 
 2 - As características analíticas indicadas no quadro do número anterior, à excepção do teor de humidade, são referidas à matéria seca.
 
@@ -191,7 +302,7 @@ Cinza insolúvel em HCl ... 0,06%
 
 1 - A sêmola e as farinhas destinadas à indústria de massas alimentícias terão as características e os limites indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19600/26092614.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19600/26092614.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/19600/26092614.pdf)
 
 2 - As características analíticas indicadas no quadro do número anterior, à excepção do teor de humidade, são referidas à matéria seca.
 
@@ -449,12 +560,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto - Francisco José de Sousa Tavares.
 
-**Promulgado em 3 de Agosto de 1984.**
+Promulgado em 3 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Agosto de 1984.**
+Referendado em 7 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

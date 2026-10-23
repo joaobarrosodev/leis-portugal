@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 295/1986, 2º Suplemento, Série I de 1986-12-24
   number: '295'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3810-(10) a 3810-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29502/00100015.pdf
 entry_into_force_dates: []
@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-c-1986-406344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eca4ea278a4c40589d20cdc969fce1c4d7be06026389ed3d47b8c67ba3b6aa62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af1ee3cdaa833ecaf4ac15b300cf90bbefcc8c658929132190289a6176369b90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Contingentação
+- Direitos de Importação
+- Espanha
+- Importação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:23Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +100,13 @@ Assim:
 
 No uso da autorização conferida pela alínea b) do artigo 28.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes dos anexos I e II ao presente diploma, quando estejam nas condições previstas nos artigos 9.º e 10.º do [Tratado que instituiu a CEE](https://diariodarepublica.pt/application/external/tratado) ou quando originárias da EFTA, durante o período e nos limites dos contingentes pautais referidos nesses anexos.
+Artigo 1.º - 1 - É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes dos anexos I e II ao presente diploma, quando estejam nas condições previstas nos artigos 9.º e 10.º do [Tratado que instituiu a CEE](https://diariodarepublica.pt/application/external/tratado) ou quando originárias da EFTA, durante o período e nos limites dos contingentes pautais referidos nesses anexos.
 
 2 - O anexo I inclui os novos contingentes.
 
 3 - O anexo II inclui contingentes suplementares para alguns dos produtos constantes do Decreto-Lei n.º 117/86, de 27 de Maio.
 
-###### Art. 2.º - 1 - A atribuição do benefício consagrado no presente decreto-lei deverá ter em conta, relativamente a cada contingente, o montante das importações efectivamente realizadas pelos importadores tradicionais dos produtos em causa nos 24 meses que antecederam a data da publicação do diploma legal que o instituiu. A cada um dos referidos importadores tradicionais e para cada um dos contingentes caberá um quantitativo proporcional àquele montante.
+Art. 2.º - 1 - A atribuição do benefício consagrado no presente decreto-lei deverá ter em conta, relativamente a cada contingente, o montante das importações efectivamente realizadas pelos importadores tradicionais dos produtos em causa nos 24 meses que antecederam a data da publicação do diploma legal que o instituiu. A cada um dos referidos importadores tradicionais e para cada um dos contingentes caberá um quantitativo proporcional àquele montante.
 
 2 - Aos importadores referidos no número anterior caberá fazer prova das importações realizadas no período em causa.
 
@@ -111,24 +116,24 @@ No uso da autorização conferida pela alínea b) do artigo 28.º da Lei n.º 9/
 
 5 - A admissão e o modo de gestão serão regulamentados por portaria conjunta dos Ministros das Finanças e da Indústria e Comércio.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 23 de Dezembro de 1986.**
+Promulgado em 23 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986**
+Referendado em 24 de Dezembro de 1986
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Lista a que se refere a n.º 2 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29502/00100015.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29502/00100015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29502/00100015.pdf)
 
 ## ANEXO II — Lista a que se refere o n.º 3 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29502/00100015.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29502/00100015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29502/00100015.pdf)

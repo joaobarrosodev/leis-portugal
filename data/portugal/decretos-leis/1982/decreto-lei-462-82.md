@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-1982-379967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf15cfd682205ed0755796896758ad2793aae70cc35d4257a94531481cd3e634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa83055b97effe00643d65a021f1c118dd0527ff1ec769d946389a5257a80465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto António Sérgio do Sector Cooperativo
+- Subsídio
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:40Z'
   warnings: []
   errors: []
 ---
@@ -101,21 +103,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A aplicação dos subsídios internacionais, não reembolsáveis, especificamente destinados ao financiamento de projectos a realizar pelo Instituto António Sérgio do Sector Cooperativo será efectuada através de dotações globais, a inscrever no Orçamento Geral do Estado, consignadas àquele serviço.
+Artigo 1.º A aplicação dos subsídios internacionais, não reembolsáveis, especificamente destinados ao financiamento de projectos a realizar pelo Instituto António Sérgio do Sector Cooperativo será efectuada através de dotações globais, a inscrever no Orçamento Geral do Estado, consignadas àquele serviço.
 
-###### Art. 2.º As dotações referidas no artigo anterior terão contrapartida nos quantitativos a entregar pelas entidades estrangeiras ao Estado Português, que, através da Direcção-Geral do Tesouro, as escriturará em adequada conta de depósito em operações de tesouraria, transitando por receita efectiva do Estado, à medida que o levantamento de fundos se realizar e por importâncias correspondentes ao seu valor.
+Art. 2.º As dotações referidas no artigo anterior terão contrapartida nos quantitativos a entregar pelas entidades estrangeiras ao Estado Português, que, através da Direcção-Geral do Tesouro, as escriturará em adequada conta de depósito em operações de tesouraria, transitando por receita efectiva do Estado, à medida que o levantamento de fundos se realizar e por importâncias correspondentes ao seu valor.
 
-###### Art. 3.º - 1 - As despesas a efectuar em conta das dotações mencionadas no artigo anterior realizar-se-ão sem dependência de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas, através de relação mensal, aos vistos do Primeiro-Ministro e do Ministro de Estado e das Finanças e do Plano, que, a serem concedidos, as legitimarão.
+Art. 3.º - 1 - As despesas a efectuar em conta das dotações mencionadas no artigo anterior realizar-se-ão sem dependência de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas, através de relação mensal, aos vistos do Primeiro-Ministro e do Ministro de Estado e das Finanças e do Plano, que, a serem concedidos, as legitimarão.
 
 2 - A relação do número anterior deverá ser remetida, em duplicado, acompanhada dos documentos de despesa pagos, à respectiva delegação da Direcção-Geral da Contabilidade Pública até ao fim do mês imediato àquele em que se efectuarem os pagamentos.
 
 3 - A delegação competente, após a conferência dos documentos, apresentará a relação ao visto das entidades citadas no n.º 1 deste artigo, devolvendo depois 1 exemplar ao serviço, com a nota de que os documentos de despesa foram conferidos e a indicação da data da aprovação ministerial.
 
-###### Art. 4.º Para pagamento das despesas aludidas neste diploma, o Instituto António Sérgio do Sector Cooperativo procederá, previamente, através do processamento de folhas, a remeter à correspondente delegação da contabilidade pública, ao levantamento dos fundos necessários, em conta das dotações em causa, que ficam sujeitas ao duplo cabimento, mas sem sujeição ao regime de duodécimos.
+Art. 4.º Para pagamento das despesas aludidas neste diploma, o Instituto António Sérgio do Sector Cooperativo procederá, previamente, através do processamento de folhas, a remeter à correspondente delegação da contabilidade pública, ao levantamento dos fundos necessários, em conta das dotações em causa, que ficam sujeitas ao duplo cabimento, mas sem sujeição ao regime de duodécimos.
 
-###### Art. 5.º Na falta de disposição especial inserta no acordo celebrado com a entidade fiscalizadora, os bens de capital e os bens duradouros adquiridos em conta dos subsídios concedidos para a execução dos projectos referidos neste diploma ficam definitivamente afectos ao Instituto António Sérgio do Sector Cooperativo.
+Art. 5.º Na falta de disposição especial inserta no acordo celebrado com a entidade fiscalizadora, os bens de capital e os bens duradouros adquiridos em conta dos subsídios concedidos para a execução dos projectos referidos neste diploma ficam definitivamente afectos ao Instituto António Sérgio do Sector Cooperativo.
 
-###### Art. 6.º - 1 - Para execução dos projectos no âmbito do Instituto António Sérgio do Sector Cooperativo pode ser contratado pessoal em regime de prestação de serviço, com observância das seguintes regras:
+Art. 6.º - 1 - Para execução dos projectos no âmbito do Instituto António Sérgio do Sector Cooperativo pode ser contratado pessoal em regime de prestação de serviço, com observância das seguintes regras:
 
 a) Redução a escrito;
 
@@ -131,8 +133,8 @@ c) Justificação de imprescindibilidade de recurso àquele regime de prestaçã
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 19 de Novembro de 1982.**
+Promulgado em 19 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

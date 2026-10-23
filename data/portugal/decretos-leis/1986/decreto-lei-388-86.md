@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26600/34553460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f6412600da2ad8c1ed84bd1f43dcd80ba43145e155bed826ffa498c629fd8b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4656d5d7ea71724e0146f04dbc4bd9edcfd057ac6eb3d8fe3c3ef4c3dfd3c40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ICEP
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:532862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:625610:por
+  label: "Determinada a transferência de algumas das atribuições e competências do ex-Instituto do Investimento Estrangeiro\
+    \ (IIE) para o Instituto do Comércio Externo de Portugal (ICEP), pelo DEC LEI.143/89.29.04.1989.MF, DR.IS [99] de 29.04.1989\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1989-625610
+  date: '1989-04-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 1, 7 A 14, 23, 28, 31, 33 E ADITADOS OS ART 14-A, 14-B, PELO DEC LEI 428/91 DE 31-OUT DR.IS-A [251]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 1, 4, 5, 6, 7, 8, 11, 13, 19, 25 E 33 (COM A REDACÇÃO DADA PELO DEC LEI 428/91, DE 31-OUT), PELO
+    DEC LEI 180/92 DE 17-AGO DR.IS-A [188]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-08-17'
+- type: amended_by
+  target: pt:dre:684395:por
+  label: TRANSFERIDAS AS COMPETENCIAS A ATRIBUIÇÕES DO EXTINTO INSTITUTO DE PROMOÇÃO TURÍSTICA, PELO DEC LEI 179/92 DE 17-AGO
+    DR.IS-A [188]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1992-684395
+  date: '1992-08-17'
+- type: amended_by
+  target: pt:dre:684396:por
+  label: Transferidas as atribuições e competências cometidas ao extinto Instituto Português do Turismo, para o Instituto
+    do Comércio Externo de Portugal, criado pelo Dec Lei n.º 115/82, de 14-abr, com as atribuições e competências estabelecidas
+    pelo presente diploma, e alteradas pelo Dec Lei 428/91, de 31-out, pelo(a) Decreto-Lei n.º 179/92 - Diário da República
+    n.º 188/1992, 1º Suplemento, Série I-A de 1992-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1992-684396
+  date: '1992-08-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALARGADO O QUADRO DE PESSOAL DO ICEP - INVESTIMENTOS COMERCIO E TURISMO DE PORTUGAL PELO DESP 1597/92/A DE 30-DEZ
+    1992 DO SEACE-MCT DR.IIS [14] DE 18/JAN/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-18'
+- type: amended_by
+  target: pt:dre:3012499:por
+  label: "TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0 DEC LEI 296-A/95\
+    \ DE 17-NOV DR.IS-A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1597-1993-3012499
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:241409:por
+  label: "Alterado o art. 8º, na redacção dada pelo Dec Lei 180/92 de 17-Ago, pelo DEC LEI.285/98.1998.09.17.MECO, DR.IS-A\
+    \ [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1998-241409
+  date: '1998-09-17'
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607335:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532862:por
+  label: "Revogado, com as alterações introduzidas pelos Dec Lei 428/91 de 31-Out, 180/92 de 17-Ago e 285/98 de 17-Set, pelo\
+    \ DEC LEI.264/2000.2000.10.18.MECO DR.IS-A [241]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-2000-532862
+  date: '2000-10-18'
 article_structure:
   article_count: 36
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:42Z'
   warnings: []
   errors: []
 ---
@@ -494,12 +564,12 @@ Os encargos derivados da execução do presente decreto-lei relativamente ao ano
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 16 de Outubro de 1986.**
+Promulgado em 16 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1986.**
+Referendado em 21 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

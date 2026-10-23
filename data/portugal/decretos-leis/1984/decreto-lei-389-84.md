@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28500/37583759.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1984-401359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f13b46bd5c37b379d8046894d307545e2c5d6f23c3636194f189f9f10a7f37a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee589d17f139389c0de3b01293a3ecea342ce2377f754d9f709abfa325424b8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Limite de Idade
+- Profissão Diplomática
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:253235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644278:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:220492:por
+  label: Rectificado pela DECL.DD5244.26.12.1984.PCM, DR.IS [301]Supl de 31.12.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-220492
+  date: '1984-12-26'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:57Z'
   warnings: []
   errors: []
 ---
@@ -97,32 +127,32 @@ Considerando, por último, que as consequentes acções executórias do ora defi
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São suspensos para os tenentes-coronéis e para os majores os limites de idade para a passagem a adidos aos respectivos quadros constantes do 1.º grupo do mapa n.º 1 referido no n.º 16 da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (Estatuto do Oficial do Exército), com a redacção que lhe foi dada pela [Portaria n.º 524/75](https://diariodarepublica.pt/dr/detalhe/portaria/524-1975-314950), de 28 de Agosto, e pelo [Decreto-Lei n.º 238/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1977-253240), de 8 de Junho.
+Artigo 1.º São suspensos para os tenentes-coronéis e para os majores os limites de idade para a passagem a adidos aos respectivos quadros constantes do 1.º grupo do mapa n.º 1 referido no n.º 16 da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (Estatuto do Oficial do Exército), com a redacção que lhe foi dada pela [Portaria n.º 524/75](https://diariodarepublica.pt/dr/detalhe/portaria/524-1975-314950), de 28 de Agosto, e pelo [Decreto-Lei n.º 238/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1977-253240), de 8 de Junho.
 
-###### Art. 2.º Passam à situação de supranumerários permanentes os oficiais das armas de infantaria, de artilharia, de cavalaria e de engenharia, os de transmissões da arma de transmissões, os do Serviço de Administração Militar, os de material do Serviço de Material e os do quadro especial de oficiais que, estando na situação de activo, atinjam ou tenham atingido os seguintes limites de idade:
+Art. 2.º Passam à situação de supranumerários permanentes os oficiais das armas de infantaria, de artilharia, de cavalaria e de engenharia, os de transmissões da arma de transmissões, os do Serviço de Administração Militar, os de material do Serviço de Material e os do quadro especial de oficiais que, estando na situação de activo, atinjam ou tenham atingido os seguintes limites de idade:
 
 Tenentes-coronéis - 50 anos;
 
 Majores - 48 anos.
 
-###### Art. 3.º - 1 - Para efeitos de eventual promoção ao posto imediato são apreciados os tenentes-coronéis e os majores, na situação de activo, das armas de infantaria, de artilharia, de cavalaria e de engenharia, os de transmissões da arma de transmissões, os do Serviço de Administração Militar, os de material do Serviço de Material e os do quadro especial de oficiais que não tenham sido promovidos ao posto imediato apenas por força do disposto no n.º 16 da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (Estatuto do Oficial do Exército), com a redacção que lhe foi dada pela [Portaria n.º 524/75](https://diariodarepublica.pt/dr/detalhe/portaria/524-1975-314950), de 28 de Agosto, e pelo [Decreto-Lei n.º 238/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1977-253240), de 8 de Junho.
+Art. 3.º - 1 - Para efeitos de eventual promoção ao posto imediato são apreciados os tenentes-coronéis e os majores, na situação de activo, das armas de infantaria, de artilharia, de cavalaria e de engenharia, os de transmissões da arma de transmissões, os do Serviço de Administração Militar, os de material do Serviço de Material e os do quadro especial de oficiais que não tenham sido promovidos ao posto imediato apenas por força do disposto no n.º 16 da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (Estatuto do Oficial do Exército), com a redacção que lhe foi dada pela [Portaria n.º 524/75](https://diariodarepublica.pt/dr/detalhe/portaria/524-1975-314950), de 28 de Agosto, e pelo [Decreto-Lei n.º 238/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1977-253240), de 8 de Junho.
 
 2 - Caso os oficiais referidos no número anterior sejam considerados em condições de serem promovidos e satisfaçam as necessárias condições de promoção, excepto o constante do n.º 2 do artigo 198.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (Estatuto do Oficial do Exército), as respectivas promoções devem efectivar-se com a antiguidade do oficial que na escala da respectiva arma ou serviço se encontrava imediatamente à sua esquerda à data da passagem do oficial à situação de adido nos termos do n.º 16 da alínea b) do artigo 44.º do mesmo decreto-lei e que não tenha sido promovido por escolha de supranumerários permanentes.
 
-###### Art. 4.º Os majores aos quais tenha sido aplicado o disposto no [Decreto-Lei n.º 239/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1977-253235), de 8 de Junho, apenas no ano em que completaram os 48 anos de idade só podem ser apreciados e normalmente promovidos na altura que lhes competiria se tivessem mantido a sua posição inicial no curso de origem.
+Art. 4.º Os majores aos quais tenha sido aplicado o disposto no [Decreto-Lei n.º 239/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1977-253235), de 8 de Junho, apenas no ano em que completaram os 48 anos de idade só podem ser apreciados e normalmente promovidos na altura que lhes competiria se tivessem mantido a sua posição inicial no curso de origem.
 
-###### Art. 5.º Os oficiais nas condições dos artigos 2.º e 4.º não preenchem vaga nos respectivos quadros, ficando na situação de supranumerários permanentes até serem atingidos pelo limite de idade de passagem à situação de reserva, ou, como coronéis, ficarem abrangidos pelo n.º 16 da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril, caso em que transitarão para a situação de adidos aos quadros, ou, eventualmente, serem promovidos a oficial general.
+Art. 5.º Os oficiais nas condições dos artigos 2.º e 4.º não preenchem vaga nos respectivos quadros, ficando na situação de supranumerários permanentes até serem atingidos pelo limite de idade de passagem à situação de reserva, ou, como coronéis, ficarem abrangidos pelo n.º 16 da alínea b) do artigo 44.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril, caso em que transitarão para a situação de adidos aos quadros, ou, eventualmente, serem promovidos a oficial general.
 
-###### Art. 6.º Os vencimentos do novo posto devidos aos oficiais promovidos por aplicação do presente diploma reportar-se-ão à data da sua entrada em vigor, desde que a data de antiguidade atribuída no novo posto seja anterior àquela.
+Art. 6.º Os vencimentos do novo posto devidos aos oficiais promovidos por aplicação do presente diploma reportar-se-ão à data da sua entrada em vigor, desde que a data de antiguidade atribuída no novo posto seja anterior àquela.
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 1984. - O Primeiro-Ministro em exercício e Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.
 
-**Promulgado em 27 de Novembro de 1984.**
+Promulgado em 27 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Dezembro de 1984.**
+Referendado em 3 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

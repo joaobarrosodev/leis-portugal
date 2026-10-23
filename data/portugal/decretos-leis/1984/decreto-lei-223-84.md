@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1984-385398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 552f901c0c48fb82b51eaa51553e9dabc4f7c94d16edd162bfe05a2011b3b01e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ef2742a952080d69048cf3bb51351f86177937cefc266c245055278d154646b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:228013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444414:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:368386:por
+  label: Rectificado pela DECL.DD5472.10.07.1984.PCM, DR.IS [176]Supl de 31.07.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-368386
+  date: '1984-07-10'
+- type: corrected_by
+  target: pt:dre:520024:por
+  label: Rectificado pela DECL.DD5439.17.08.1984.PCM, DR.IS [202]Supl de 31.08.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-520024
+  date: '1984-08-17'
+- type: repealed_by
+  target: pt:dre:228013:por
+  label: "Revogado pelo DEC LEI.190/86.16.07.1986.MAPA, DR.IS [161] de 16.07.1986, sem prejuízo do disposto no seu n.º 2 do\
+    \ artigo 22.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1986-228013
+  date: '1986-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:23Z'
   warnings: []
   errors: []
 ---
@@ -131,13 +181,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Artigo 1.º Os serviços referidos no artigo 3.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, passam a denominar-se direcções regionais de agricultura, abreviadamente designadas por DRA.
+Artigo 1.º Os serviços referidos no artigo 3.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, passam a denominar-se direcções regionais de agricultura, abreviadamente designadas por DRA.
 
-###### Art. 2.º O presente diploma tem por objectivo definir, genericamente, a natureza, áreas funcionais e atribuições das DRA e os princípios a que devem obedecer a organização e estrutura dos órgãos e serviços que as integram.
+Art. 2.º O presente diploma tem por objectivo definir, genericamente, a natureza, áreas funcionais e atribuições das DRA e os princípios a que devem obedecer a organização e estrutura dos órgãos e serviços que as integram.
 
 ### CAPÍTULO II — Natureza e atribuições
 
-###### Art. 3.º - 1 - As DRA são serviços dotados de autonomia administrativa, cuja acção se desenvolve em regiões agrárias.
+Art. 3.º - 1 - As DRA são serviços dotados de autonomia administrativa, cuja acção se desenvolve em regiões agrárias.
 
 2 - As regiões agrárias, bem como as zonas agrárias nelas compreendidas, são as constantes do mapa I anexo a este diploma.
 
@@ -145,13 +195,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Transitoriamente, até à institucionalização das regiões administrativas, as zonas agrárias poderão ser alteradas por despacho conjunto dos Ministros da Administração Interna e da Agricultura, Florestas e Alimentação e do Secretário de Estado da Administração Pública.
 
-###### Art. 4.º - 1 - As DRA dependem directamente do Ministro da Agricultura, Florestas e Alimentação, que definirá a política e os princípios que deverão presidir à sua acção regional.
+Art. 4.º - 1 - As DRA dependem directamente do Ministro da Agricultura, Florestas e Alimentação, que definirá a política e os princípios que deverão presidir à sua acção regional.
 
 2 - A acção das DRA será coordenada com a dos serviços centrais do Ministério da Agricultura, Florestas e Alimentação, de acordo com as normas e directivas gerais de actuação dimanadas dos órgãos e entidades competentes.
 
 3 - As DRA articulam-se funcionalmente entre si, mediante a colaboração e apoio técnico recíprocos, bem como através da participação conjunta em grupos de trabalho e comissões e da permuta de informação e documentação.
 
-###### Art. 5.º - 1 - As DRA têm atribuições de concepção, de fomento técnico e económico e de execução, a nível regional, da política agrária, mobilizando, para o efeito, os agentes económicos e demais entidades interessadas no processo de desenvolvimento e modernização dos sectores agro-alimentar e florestal, designadamente no âmbito da preparação e execução de políticas e programas de desenvolvimento regional.
+Art. 5.º - 1 - As DRA têm atribuições de concepção, de fomento técnico e económico e de execução, a nível regional, da política agrária, mobilizando, para o efeito, os agentes económicos e demais entidades interessadas no processo de desenvolvimento e modernização dos sectores agro-alimentar e florestal, designadamente no âmbito da preparação e execução de políticas e programas de desenvolvimento regional.
 
 2 - Compete, designadamente, às DRA:
 
@@ -185,7 +235,7 @@ o) Proceder aos licenciamentos da competência do Ministério da Agricultura, Fl
 
 ### CAPÍTULO III — Órgãos e serviços
 
-###### Art. 6.º As DRA compreendem os seguintes órgãos e serviços:
+Art. 6.º As DRA compreendem os seguintes órgãos e serviços:
 
 1) Órgãos:
 
@@ -219,19 +269,19 @@ C) Serviços locais:
 
 Zonas agrárias.
 
-###### Art. 7.º - 1 - As DRA são dirigidas por um director regional, coadjuvado por 2 subdirectores regionais.
+Art. 7.º - 1 - As DRA são dirigidas por um director regional, coadjuvado por 2 subdirectores regionais.
 
 2 - O director regional e os subdirectores regionais são equiparados, para todas os efeitos legais, a director-geral e subdirector-geral, respectivamente.
 
 3 - O director regional é substituído, nas suas ausências e impedimentos, pelo subdirector regional que, para o efeito, for por ele designado.
 
-###### Art. 8.º - 1 - Ao director regional compete dirigir, coordenar e superintender na actividade global das DRA, bem como assegurar a sua representação junto de outros organismos e entidades nacionais ou estrangeiras.
+Art. 8.º - 1 - Ao director regional compete dirigir, coordenar e superintender na actividade global das DRA, bem como assegurar a sua representação junto de outros organismos e entidades nacionais ou estrangeiras.
 
 2 - O director regional poderá delegar, com ou sem poderes de subdelegação, o exercício permanente ou ocasional de parte das suas competências nos subdirectores regionais ou, quanto a assuntos de natureza corrente dos serviços, nos respectivos dirigentes.
 
 3 - O director regional poderá delegar nos subdirectores regionais a coordenação de grandes domínios de actividade das DRA em ordem ao cumprimento de objectivos específicos, bem como o estabelecimento das ligações com a orgânica de serviços afins.
 
-###### Art. 9.º - 1 - O conselho regional de agricultura é um órgão consultivo que, congregando os interesses sócio-económicos da região, assegura a representação das entidades e organizações de âmbito regional e nacional com acção na região agrária interessadas no desenvolvimento agrário.
+Art. 9.º - 1 - O conselho regional de agricultura é um órgão consultivo que, congregando os interesses sócio-económicos da região, assegura a representação das entidades e organizações de âmbito regional e nacional com acção na região agrária interessadas no desenvolvimento agrário.
 
 2 - O conselho regional será integrado pelos seguintes elementos:
 
@@ -261,7 +311,7 @@ g) Representantes de outras entidades de reconhecido interesse para o desenvolvi
 
 8 - O presidente do conselho regional será substituído, nas suas ausências e impedimentos, pelo subdirector regional designado nos termos do n.º 3 do artigo 7.º
 
-###### Art. 10.º Ao conselho regional de agricultura compete, designadamente:
+Art. 10.º Ao conselho regional de agricultura compete, designadamente:
 
 a) Propor o seu representante no Conselho Nacional de Agricultura;
 
@@ -277,7 +327,7 @@ f) Canalizar para conhecimento da DRA toda a informação disponível de cada um
 
 g) Pronunciar-se sobre todas as questões que forem submetidas à sua apreciação pelo director regional, no âmbito das suas atribuições.
 
-###### Art. 11.º - 1 - O conselho regional de agricultura reunirá ordinariamente 2 vezes por ano e extraordinariamente por iniciativa do seu presidente ou a solicitação de dois terços dos seus membros.
+Art. 11.º - 1 - O conselho regional de agricultura reunirá ordinariamente 2 vezes por ano e extraordinariamente por iniciativa do seu presidente ou a solicitação de dois terços dos seus membros.
 
 2 - O conselho regional só pode reunir com a maioria dos seus membros.
 
@@ -287,7 +337,7 @@ g) Pronunciar-se sobre todas as questões que forem submetidas à sua apreciaç�
 
 5 - As normas de funcionamento do conselho regional de agricultura constarão de regulamento interno, a elaborar pelo próprio conselho.
 
-###### Art. 12.º - 1 - O conselho técnico regional é um órgão de consulta e apoio do director regional e terá a seguinte composição:
+Art. 12.º - 1 - O conselho técnico regional é um órgão de consulta e apoio do director regional e terá a seguinte composição:
 
 a) O director regional, que presidirá;
 
@@ -303,7 +353,7 @@ e) Os chefes das zonas agrárias.
 
 3 - Sempre que se mostre conveniente, serão convocados, com estatuto consultivo, outros elementos da DRA especialmente qualificados para o esclarecimento das matérias em apreciação.
 
-###### Art. 13.º Ao conselho técnico regional compete, designadamente:
+Art. 13.º Ao conselho técnico regional compete, designadamente:
 
 a) Contribuir para a definição dos objectivos e linhas gerais de acção regional, de acordo com o plano e programação de acção estabelecidos pelo Ministério da Agricultura, Florestas e Alimentação, e sugerir as respectivas prioridades de actuação;
 
@@ -315,13 +365,13 @@ d) Propor medidas que visem melhorar a coordenação dos diversos serviços na e
 
 e) Pronunciar-se sobre quaisquer assuntos que lhe forem submetidos pelo presidente.
 
-###### Art. 14.º - 1 - O conselho técnico regional funciona em reuniões plenárias ou por secções especializadas, conforme a natureza dos assuntos a tratar, reunindo o plenário ordinariamente 2 vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 14.º - 1 - O conselho técnico regional funciona em reuniões plenárias ou por secções especializadas, conforme a natureza dos assuntos a tratar, reunindo o plenário ordinariamente 2 vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos à apreciação do conselho técnico são resolvidos por maioria simples de votos.
 
 3 - A constituição de secções especializadas, bem como as normas do funcionamento do conselho, será objecto de regulamento interno, a elaborar pelo próprio conselho técnico.
 
-###### Art. 15.º - 1 - O conselho administrativo é um órgão deliberativo em matéria de gestão financeira e patrimonial e terá a seguinte composição:
+Art. 15.º - 1 - O conselho administrativo é um órgão deliberativo em matéria de gestão financeira e patrimonial e terá a seguinte composição:
 
 a) O director regional, que presidirá;
 
@@ -335,7 +385,7 @@ d) O director dos serviços de planeamento.
 
 3 - O conselho será secretariado por um funcionário, designado pelo director regional, sem direito de voto.
 
-###### Art. 16.º Ao conselho administrativo compete, designadamente:
+Art. 16.º Ao conselho administrativo compete, designadamente:
 
 a) Superintender na gestão financeira e patrimonial da DRA;
 
@@ -363,7 +413,7 @@ m) Autorizar a venda de material considerado inservível ou dispensável, após 
 
 n) Pronunciar-se sobre qualquer outro assunto que no âmbito das suas atribuições lhe seja submetido pelo presidente.
 
-###### Art. 17.º - 1 - O conselho administrativo reunirá ordinariamente 2 vezes por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
+Art. 17.º - 1 - O conselho administrativo reunirá ordinariamente 2 vezes por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
 
 2 - O conselho administrativo só poderá deliberar quando se encontre presente a maioria dos seus membros, incluindo o presidente ou o seu substituto.
 
@@ -375,7 +425,7 @@ n) Pronunciar-se sobre qualquer outro assunto que no âmbito das suas atribuiç�
 
 6 - Das reuniões do conselho administrativo serão lavradas actas.
 
-###### Art. 18.º - 1 - O conselho administrativo pode delegar no seu presidente os poderes consignados nas alíneas f) e g) do artigo 16.º, fixando-lhes os respectivos limites.
+Art. 18.º - 1 - O conselho administrativo pode delegar no seu presidente os poderes consignados nas alíneas f) e g) do artigo 16.º, fixando-lhes os respectivos limites.
 
 2 - O conselho administrativo poderá ainda delegar em qualquer dos seus membros e nos dirigentes dos serviços operativos e locais, bem como nos coordenadores de agrupamentos de zonas agrárias, algumas das suas competências para a realização de despesas, fixando-lhes os respectivos limites.
 
@@ -383,13 +433,13 @@ n) Pronunciar-se sobre qualquer outro assunto que no âmbito das suas atribuiç�
 
 4 - O conselho administrativo obriga-se mediante a assinatura de 2 dos seus membros, sendo um deles o presidente ou o seu substituto.
 
-###### Art. 19.º - 1 - Os serviços operativos serão estruturados por departamentos de especialidades, em função dos interesses específicos da região, podendo, quando o justifique a dimensão e complexidade das actividades a desenvolver e o volume de efectivos a eles afectos, assumir-se como direcções de serviço ou divisões.
+Art. 19.º - 1 - Os serviços operativos serão estruturados por departamentos de especialidades, em função dos interesses específicos da região, podendo, quando o justifique a dimensão e complexidade das actividades a desenvolver e o volume de efectivos a eles afectos, assumir-se como direcções de serviço ou divisões.
 
 2 - Os serviços enumerados no n.º 1 funcionam na dependência directa do director regional e em estreita e sistemática articulação com os correspondentes serviços centrais, de acordo com os princípios de coordenação que vieram a ser definidos para execução de programas de âmbito nacional, nos termos do n.º 2 do artigo 4.º
 
 3 - Os princípios de coordenação referidos no número anterior não poderão prejudicar a colaboração directa com os organismos e instituições de âmbito regional e local, nem as delegações de competência que forem conferidas pelo director regional, nem situações de emergência devidamente pronunciadas, onde se imponha uma centralização específica e temporária nos diferentes domínios da competência de outros serviços.
 
-###### Art. 20.º - 1 - A Direcção de Serviços de Planeamento tem por objectivo o planeamento e programação das actividades da DRA, competindo-lhe, designadamente:
+Art. 20.º - 1 - A Direcção de Serviços de Planeamento tem por objectivo o planeamento e programação das actividades da DRA, competindo-lhe, designadamente:
 
 a) Promover o estudo e definição do ordenamento agrário regional;
 
@@ -409,7 +459,7 @@ h) Assegurar a elaboração do relatório anual de actividades das DRA;
 
 i) Assegurar a ligação entre os serviços da DRA e o Gabinete de Planeamento do Ministério da Agricultura, Florestas e Alimentação.
 
-###### Art. 21.º A Direcção dos Serviços de Administração tem por objectivo a coordenação administrativa e o apoio técnico-administrativo às actividades desenvolvidas pela DRA, competindo-lhe, designadamente:
+Art. 21.º A Direcção dos Serviços de Administração tem por objectivo a coordenação administrativa e o apoio técnico-administrativo às actividades desenvolvidas pela DRA, competindo-lhe, designadamente:
 
 a) Assegurar a execução de todas as tarefas que se insiram nos domínios da administração dos recursos humanos, financeiros e patrimoniais, de acordo com as disposições legais aplicáveis e critérios de boa gestão;
 
@@ -423,7 +473,7 @@ e) Cuidar da segurança das instalações e da eficiência das comunicações;
 
 f) Coordenar as várias iniciativas que venham a ser desenvolvidas no âmbito da acção social complementar.
 
-###### Art. 22.º A Divisão de Informação e Documentação tem por objectivo organizar e manter devidamente actualizada toda a documentação da DRA, competindo-lhe, designadamente:
+Art. 22.º A Divisão de Informação e Documentação tem por objectivo organizar e manter devidamente actualizada toda a documentação da DRA, competindo-lhe, designadamente:
 
 a) Organizar e orientar tecnicamente o sistema de informação e documentação científica, técnica e administrativa da DRA e promover o seu relacionamento com sistemas similares nacionais;
 
@@ -449,7 +499,7 @@ l) Organizar a participação da DRA em feiras, exposições, colóquios e outra
 
 m) Apoiar o funcionamento dos órgãos consultivos, difundindo para os seus membros a informação pertinente.
 
-###### Art. 23.º - 1 - Os serviços de extensão rural têm como objectivo o apoio às actividades desenvolvidas pelas zonas agrárias no âmbito de extensão e formação profissional, competindo-lhes, designadamente:
+Art. 23.º - 1 - Os serviços de extensão rural têm como objectivo o apoio às actividades desenvolvidas pelas zonas agrárias no âmbito de extensão e formação profissional, competindo-lhes, designadamente:
 
 a) Dinamizar e apoiar as zonas agrárias na definição da estratégia de actuação junto do meio rural e acompanhar as acções participativas dos agricultores e seus familiares na elaboração e execução dos programas e projectos de desenvolvimento rural;
 
@@ -473,7 +523,7 @@ i) Dinamizar e participar no estabelecimento de ensaios de adaptação tecnológ
 
 3 - A orgânica dos centros regionais de formação profissional e a categoria dos funcionários a que se refere o número anterior serão fixadas nos decretos regulamentares regionais respectivos, de acordo com a dimensão dos centros de formação profissional e a complexidade das tarefas de gestão envolvidas.
 
-###### Art. 24.º Os serviços de protecção à produção e apoio à comunidade têm como objectivo o apoio às actividades desenvolvidas nas zonas agrárias no âmbito do associativismo agrícola, da protecção à produção, das infra-estruturas e do crédito e seguros, competindo-lhes, designadamente, em coordenação com os competentes serviços centrais:
+Art. 24.º Os serviços de protecção à produção e apoio à comunidade têm como objectivo o apoio às actividades desenvolvidas nas zonas agrárias no âmbito do associativismo agrícola, da protecção à produção, das infra-estruturas e do crédito e seguros, competindo-lhes, designadamente, em coordenação com os competentes serviços centrais:
 
 a) Apoiar a organização, estruturação e desenvolvimento das várias formas de associativismo agrícola, acompanhando os respectivos programas e projectos de acção;
 
@@ -501,11 +551,11 @@ m) Proceder aos licenciamentos da competência do Ministério da Agricultura, Fl
 
 n) Emitir parecer técnico sobre os projectos para financiamento, em ligação com as instituições de crédito e demais estruturas regionais, acompanhando a sua aplicação.
 
-###### Art. 25.º - 1 - Os serviços especiais têm por objectivo o apoio técnico especializado a actividades agrárias que a nível regional assumam particular relevância no seu contexto sócio-económico ou que se caracterizem por uma alta especificidade da sua actividade.
+Art. 25.º - 1 - Os serviços especiais têm por objectivo o apoio técnico especializado a actividades agrárias que a nível regional assumam particular relevância no seu contexto sócio-económico ou que se caracterizem por uma alta especificidade da sua actividade.
 
 2 - Os serviços especiais serão institucionalizados em decreto regulamentar, o qual estabelecerá o respectivo domínio de acção, as atribuições e competências, o nível orgânico e os contingentes de pessoal que lhes serão afectos.
 
-###### Art. 26.º - 1 - Os serviços das zonas agrárias têm por objectivo a execução, nas respectivas áreas geográficas, das acções desenvolvidas pelas DRA, competindo-lhes, designadamente:
+Art. 26.º - 1 - Os serviços das zonas agrárias têm por objectivo a execução, nas respectivas áreas geográficas, das acções desenvolvidas pelas DRA, competindo-lhes, designadamente:
 
 a) Assegurar, a nível local, a execução das actividades decorrentes do plano anual de actividades da DRA;
 
@@ -523,7 +573,7 @@ d) Assegurar o apoio administrativo às actividades referidas nas alíneas anter
 
 5 - O apoio administrativo às zonas agrárias será assegurado por uma secção administrativa dependente funcionalmente da Direcção dos Serviços de Administração.
 
-###### Art. 27.º - 1 - Os serviços das zonas agrárias são dirigidos por um chefe de zona agrária equiparado a chefe de divisão, coadjuvado por um adjunto, que o substituirá nas suas ausências e impedimentos.
+Art. 27.º - 1 - Os serviços das zonas agrárias são dirigidos por um chefe de zona agrária equiparado a chefe de divisão, coadjuvado por um adjunto, que o substituirá nas suas ausências e impedimentos.
 
 2 - O adjunto será nomeado por despacho ministerial, sob proposta do director regional, e provido em comissão de serviço por períodos de 3 anos, renováveis.
 
@@ -533,7 +583,7 @@ d) Assegurar o apoio administrativo às actividades referidas nas alíneas anter
 
 5 - O chefe da zona agrária poderá delegar no adjunto o exercício permanente ou ocasional de parte das suas competências.
 
-###### Art. 28.º - 1 - Sob proposta do director regional, ouvido o conselho técnico regional, poderão ser constituídos, por despacho do Ministro da Agricultura, Florestas e Alimentação, agrupamentos de zonas agrárias, para efeito de coordenação de actividades específicas comuns.
+Art. 28.º - 1 - Sob proposta do director regional, ouvido o conselho técnico regional, poderão ser constituídos, por despacho do Ministro da Agricultura, Florestas e Alimentação, agrupamentos de zonas agrárias, para efeito de coordenação de actividades específicas comuns.
 
 2 - No despacho de constituição do agrupamento das zonas agrárias serão definidas as actividades específicas objecto da coordenação e o seu período de duração.
 
@@ -545,7 +595,7 @@ d) Assegurar o apoio administrativo às actividades referidas nas alíneas anter
 
 ### CAPÍTULO IV — Gestão financeira e patrimonial
 
-###### Art. 29.º As DRA deverão observar, na gestão financeira e patrimonial, os seguintes princípios:
+Art. 29.º As DRA deverão observar, na gestão financeira e patrimonial, os seguintes princípios:
 
 a) A gestão por objectivos, tendo em conta uma desconcentração das decisões na base de objectivos precisos;
 
@@ -553,7 +603,7 @@ b) O controle orçamental pelos resultados, tendo em vista a avaliação da prod
 
 c) Um sistema de informação integral de gestão necessário à elaboração dos programas e projectos e à sua correcta execução.
 
-###### Art. 30.º - 1 - A gestão das DRA será disciplinada pelos seguintes instrumentos de previsão e controle:
+Art. 30.º - 1 - A gestão das DRA será disciplinada pelos seguintes instrumentos de previsão e controle:
 
 a) Planos de actividades e financeiros anuais e plurianuais;
 
@@ -567,7 +617,7 @@ d) Conta e relatório financeiro.
 
 3 - O orçamento será elaborado com base no plano anual de actividades, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
-###### Art. 31.º - 1 - Além das dotações que lhes forem atribuídas no Orçamento do Estado, as DRA dispõem das seguintes receitas próprias:
+Art. 31.º - 1 - Além das dotações que lhes forem atribuídas no Orçamento do Estado, as DRA dispõem das seguintes receitas próprias:
 
 a) O produto das taxas e licenças que lhes esteja consignado;
 
@@ -591,15 +641,15 @@ h) Quaisquer outras receitas não compreendidas nas alíneas anteriores que por 
 
 4 - Na movimentação e utilização das receitas próprias observar-se-á o regime estabelecido no [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
 
-###### Art. 32.º - 1 - Constituem despesas das DRA as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atribuições.
+Art. 32.º - 1 - Constituem despesas das DRA as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atribuições.
 
 2 - Na realização das despesas respeitar-se-ão os condicionalismos e imperativos decorrentes do orçamento e dos planos aprovados e, bem assim, as prioridades que vierem a ser fixadas.
 
-###### Art. 33.º - 1 - Os pagamentos devem ser efectuados, em regra, por meio de cheques, que serão entregues em troca dos respectivos recibos, devidamente legalizados.
+Art. 33.º - 1 - Os pagamentos devem ser efectuados, em regra, por meio de cheques, que serão entregues em troca dos respectivos recibos, devidamente legalizados.
 
 2 - O conselho administrativo poderá levantar e manter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devam ser satisfeitas a dinheiro.
 
-###### Art. 34.º - 1 - A contabilidade das DRA deverá adequar-se às necessidades da respectiva gestão, permitir um controle orçamental permanente e, bem assim, a fácil verificação da relação existente entre os valores patrimoniais e financeiros e os correspondentes elementos contabilísticos.
+Art. 34.º - 1 - A contabilidade das DRA deverá adequar-se às necessidades da respectiva gestão, permitir um controle orçamental permanente e, bem assim, a fácil verificação da relação existente entre os valores patrimoniais e financeiros e os correspondentes elementos contabilísticos.
 
 2 - As DRA deverão manter uma contabilidade analítica, a fim de procederem ao apuramento dos custos da participação de cada unidade orgânica em cada um dos programas e projectos e, bem assim, do seu custo global, tendo em vista uma gestão integrada.
 
@@ -607,11 +657,11 @@ h) Quaisquer outras receitas não compreendidas nas alíneas anteriores que por 
 
 4 - As normas a que deverá obedecer a organização da contabilidade serão definidas por despacho ministerial.
 
-###### Art. 35.º O conselho administrativo promoverá anualmente a elaboração da conta de gerência para submissão a julgamento do Tribunal de Contas.
+Art. 35.º O conselho administrativo promoverá anualmente a elaboração da conta de gerência para submissão a julgamento do Tribunal de Contas.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 36.º - 1 - As DRA dispõem de contingentes de pessoal integrados no quadro único do Ministério da Agricultura, Florestas e Alimentação.
+Art. 36.º - 1 - As DRA dispõem de contingentes de pessoal integrados no quadro único do Ministério da Agricultura, Florestas e Alimentação.
 
 2 - Os contingentes de pessoal a que se refere o número anterior serão fixados nos decretos regulamentares, a publicar nos termos do artigo 39.º
 
@@ -621,11 +671,11 @@ h) Quaisquer outras receitas não compreendidas nas alíneas anteriores que por 
 
 5 - Os tesoureiros têm direito a um abono para falhas correspondente a 10% do vencimento da letra J.
 
-###### Art. 37.º - 1 - O pessoal integrado nas equipas de extensão, a que se refere o artigo 26.º, tem direito à percepção do subsídio especial de assistência técnica agrária, nos termos do [Decreto-Lei n.º 389/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1979-369813), de 20 de Setembro, bem como ao abono de ajudas de custo, nos termos legais.
+Art. 37.º - 1 - O pessoal integrado nas equipas de extensão, a que se refere o artigo 26.º, tem direito à percepção do subsídio especial de assistência técnica agrária, nos termos do [Decreto-Lei n.º 389/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1979-369813), de 20 de Setembro, bem como ao abono de ajudas de custo, nos termos legais.
 
 2 - O subsídio especial de assistência técnica agrária será abonado em face das folhas mensais das tarefas realizadas, previamente programadas nos planos de trabalho.
 
-###### Art. 38.º - 1 - Para a realização de estudos, projectos ou outros trabalhos de carácter excepcional que se mostrem necessários à prossecução das actividades das DRA, poderão ser celebrados, mediante autorização ministerial, contratos de prestação de serviços, sem subordinação hierárquica, que ficarão sujeitos ao regime geral de realização de desposas públicas em matéria de aquisição de serviços.
+Art. 38.º - 1 - Para a realização de estudos, projectos ou outros trabalhos de carácter excepcional que se mostrem necessários à prossecução das actividades das DRA, poderão ser celebrados, mediante autorização ministerial, contratos de prestação de serviços, sem subordinação hierárquica, que ficarão sujeitos ao regime geral de realização de desposas públicas em matéria de aquisição de serviços.
 
 2 - Os contratos a que se refere o número anterior só poderão ser celebrados quando, no âmbito das respectivas DRA, não existam funcionários ou agentes com as qualificações adequadas à execução daquelas tarefas.
 
@@ -633,25 +683,25 @@ h) Quaisquer outras receitas não compreendidas nas alíneas anteriores que por 
 
 ### CAPÍTULO VI — Disposições transitórias e finais
 
-###### Art. 39.º - 1 - As estruturas, competências, criação de cargos dirigentes e contingentes de pessoal das DRA serão objecto de decretos regulamentares, a publicar no prazo de 60 dias a contar da entrada em vigor do presente diploma.
+Art. 39.º - 1 - As estruturas, competências, criação de cargos dirigentes e contingentes de pessoal das DRA serão objecto de decretos regulamentares, a publicar no prazo de 60 dias a contar da entrada em vigor do presente diploma.
 
 2 - Até à publicação dos diplomas referidos no número anterior, manter-se-ão em vigor os diplomas orgânicos e outras disposições com expressão na orgânica dos actuais serviços regionais de agricultura.
 
 3 - A implantação das estruturas e a transferência das competências dos serviços centrais para as DRA serão feitas segundo um escalonamento gradual, de acordo com as prioridades e calendarizarão a fixar por despacho do Ministro da Agricultura, Florestas e Alimentação, no respeito do equilibro inter-regional e correlativamente equacionados com a progressiva transferência das instalações e seu apetrechamento, dos recursos humanos e dos meios financeiros necessários à plena assunção das funções transferidas, decorrentes da reestruturação dos serviços centrais do Ministério.
 
-###### Art. 40.º - 1 - As DRA actuarão em permanente disponibilidade de participação e colaboração técnicas com os demais serviços regionais e autarquias locais no prosseguimento de objectivos comuns de desenvolvimento regional.
+Art. 40.º - 1 - As DRA actuarão em permanente disponibilidade de participação e colaboração técnicas com os demais serviços regionais e autarquias locais no prosseguimento de objectivos comuns de desenvolvimento regional.
 
 2 - As DRA deverão estabelecer uma articulação funcional com as comissões de coordenação regional, designadamente no domínio dos programas integrados de desenvolvimento regional.
 
-###### Art. 41.º As DRA poderão, mediante autorização ministerial, celebrar com entidades públicas ou privadas acordos ou convénios de cooperação para a realização de estudos, projectos ou outros trabalhos julgados indispensáveis à prossecução dos seus fins.
+Art. 41.º As DRA poderão, mediante autorização ministerial, celebrar com entidades públicas ou privadas acordos ou convénios de cooperação para a realização de estudos, projectos ou outros trabalhos julgados indispensáveis à prossecução dos seus fins.
 
-###### Art. 42.º - 1 - As unidades de exploração agrária a cargo das DRA deverão ser prioritariamente orientadas para suporte de ensaios de demonstração e experimentação e para a formação e reciclagem de pessoal técnico.
+Art. 42.º - 1 - As unidades de exploração agrária a cargo das DRA deverão ser prioritariamente orientadas para suporte de ensaios de demonstração e experimentação e para a formação e reciclagem de pessoal técnico.
 
 2 - A gestão das unidades de exploração agrária será assegurada por um técnico de reconhecida competência, a designar por despacho do director regional.
 
 3 - As normas relativas à gestão das unidades de exploração agrária serão definidas por portaria do Ministro da Agricultura, Florestas e Alimentação.
 
-###### Art. 43.º - 1 - A cobrança coerciva das dívidas às DRA provenientes de taxas ou outras receitas cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+Art. 43.º - 1 - A cobrança coerciva das dívidas às DRA provenientes de taxas ou outras receitas cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão passada pela entidade competente, da qual constem os elementos seguintes:
 
@@ -665,34 +715,34 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 44.º - 1 - Os activos e passivos dos ex-serviços regionais de agricultura, bem como quaisquer outros valores, direitos e obrigações, incluindo os emergentes de contratos de arrendamento, transitam para as DRA a partir da data da entrada em vigor do presente diploma, constituindo a presente disposição acto bastante para a aquisição, pelas DRA, da titularidade dos referidos bens e direitos.
+Art. 44.º - 1 - Os activos e passivos dos ex-serviços regionais de agricultura, bem como quaisquer outros valores, direitos e obrigações, incluindo os emergentes de contratos de arrendamento, transitam para as DRA a partir da data da entrada em vigor do presente diploma, constituindo a presente disposição acto bastante para a aquisição, pelas DRA, da titularidade dos referidos bens e direitos.
 
 2 - Sem prejuízo do disposto no número anterior, quando se trate de bens imóveis, bens móveis sujeitos a registo ou direitos da mesma natureza, serão elaboradas relações a aprovar por despacho ministerial.
 
-###### Art. 45.º São revogados o [Decreto-Lei n.º 166/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1978-298014) de 6 de Julho, e o [Decreto Regulamentar n.º 6-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-1979-241043), de 24 de Março, sem prejuízo do disposto no n.º 2 do artigo 39.º deste diploma, bem como quaisquer outras normas que o contrariem.
+Art. 45.º São revogados o [Decreto-Lei n.º 166/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1978-298014) de 6 de Julho, e o [Decreto Regulamentar n.º 6-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-1979-241043), de 24 de Março, sem prejuízo do disposto no n.º 2 do artigo 39.º deste diploma, bem como quaisquer outras normas que o contrariem.
 
-###### Art. 46.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 46.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa.
 
-**Promulgado em 15 de Junho de 1984.**
+Promulgado em 15 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Junho de 1984.**
+Referendado em 18 de Junho de 1984.
 
 Pelo Primeiro-Ministro, Carlos Alberto da Mota Pinto, Vice-Primeiro-Ministro.
 
 Mapa I a que se refere o n.º 2 do artigo 3.º deste diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf)
 
 Mapa II a que se refere o n.º 4 do artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf)
 
 Mapa III a que se refere o n.º 3 do artigo 36.º deste diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15500/20382052.pdf)

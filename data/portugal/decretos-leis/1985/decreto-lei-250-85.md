@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16000/20242025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1985-183422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7e45e76b92b195b8d841fcbd6f3d05c089f6df9767aaadc254e0fac1ffbf36e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a98326a96364e7beb633406adcc5a8d4ece902acd2620e49b464c1d3550239a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Forças Armadas
+- Instituto de Altos Estudos da Força Aérea
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:148000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148000:por
+  label: "Extinto o Instituto de Altos Estudos da Força Aérea, criado pelo Dec Lei 318/78 de 04-Nov, que é revogado, com a\
+    \ redacção que lhe foi dada pelo presente diploma, pelo DEC LEI.161/2005.22.09.2005.MDN, DR.IS-A [183] de 22.09.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-2005-148000
+  date: '2005-09-22'
+- type: cites
+  target: pt:dre:327312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:55Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +112,9 @@ Considerando, por tal facto, que o [Decreto-Lei n.º 318/78](https://diariodarep
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 13.º, 14.º, 15.º, 18.º, 19.º, 21.º, 23.º e 24.º do [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), de 4 de Novembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 13.º, 14.º, 15.º, 18.º, 19.º, 21.º, 23.º e 24.º do [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), de 4 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 a) ...
 
@@ -113,7 +128,7 @@ a) ...
 
 b) ...
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) ...
 
@@ -123,11 +138,11 @@ c) Curso básico de comando (CBC), que constitui o primeiro nível de aquisiçã
 
 2 - ...
 
-###### Art. 4.º - 1 - Os CSGA, CGGA e CBC são frequentados por oficiais nomeados pelo Chefe do Estado-Maior da Força Aérea, nos termos do Estatuto do Oficial dos Quadros Permanentes da Força Aérea (EOQPFA).
+Art. 4.º - 1 - Os CSGA, CGGA e CBC são frequentados por oficiais nomeados pelo Chefe do Estado-Maior da Força Aérea, nos termos do Estatuto do Oficial dos Quadros Permanentes da Força Aérea (EOQPFA).
 
 2 - ...
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - O ensino no CBC procura der aos oficiais uma visão global da organização da Força Aérea, sua missão e pontos de contacto com os outros ramos das Forças Armadas e sua inserção no contexto da Aliança Atlântica e, ao mesmo tempo, dar suficiente relevo a assuntos de natureza específica, como administração, organização, gestão e métodos, bem como técnicas de expressão do pensamento nos seus modernos aspectos.
 
@@ -135,23 +150,23 @@ c) Curso básico de comando (CBC), que constitui o primeiro nível de aquisiçã
 
 4 - A duração do CBC é, em regra, de 3 meses, podendo, consoante as necessidades e disponibilidades, realizar-se mais de um curso em cada ano lectivo.
 
-###### Art. 6.º - 1 - Os cursos são organizados em áreas de actividades sob a responsabilidade primária de um assessor no caso do CSGA e de um professor efectivo no caso dos CGGA e CBC.
+Art. 6.º - 1 - Os cursos são organizados em áreas de actividades sob a responsabilidade primária de um assessor no caso do CSGA e de um professor efectivo no caso dos CGGA e CBC.
 
 2 - ...
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - Os oficiais que tenham concluído ou venham a concluir com aproveitamento outros cursos, nacionais ou estrangeiros, cuja finalidade, reconhecida em despacho do Chefe do Estado-Maior da Força Aérea, inclua a preparação para funções de comando a diversos níveis e ou estado-maior, consideram-se habilitados com os cursos equivalentes ministrados no IAEFA.
 
-###### Art. 8.º A frequência dos CSGA, CGGA e CBC não é acumulável com o desempenho de outras funções.
+Art. 8.º A frequência dos CSGA, CGGA e CBC não é acumulável com o desempenho de outras funções.
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - ...
 
 3 - O CBC não tem carácter selectivo, sendo, no entanto, realizada uma avaliação do aproveitamento do aluno, através de juízo ampliativo, que deve incidir, nomeadamente, sobre os conhecimentos militares, de comando e chefia de nível inicial, a capacidade intelectual, a atitude de relação e o poder de comunicação demonstrados durante a frequência do curso.
 
-###### Art. 10.º - 1 - São normalmente eliminados dos CSGA, CGGA e CBC os oficiais que:
+Art. 10.º - 1 - São normalmente eliminados dos CSGA, CGGA e CBC os oficiais que:
 
 a) ...
 
@@ -161,7 +176,7 @@ c) Com excepção do CBC, sejam propostos pelo conselho escolar antes do final d
 
 2 - ...
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 a) ...
 
@@ -223,7 +238,7 @@ d) Civis contratados:
 
 4 ...
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 a) ...
 
@@ -253,7 +268,7 @@ e) ...
 
 f) ...
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 a) ...
 
@@ -275,7 +290,7 @@ c) ...
 
 d) ...
 
-###### Art. 18.º - 1 - O director, subdirector, assessores do CSGA e professores efectivos titulares dos CGGA/CBC, oficiais da Força Aérea, são nomeados por portaria do CEMFA o são considerados na situação de adidos aos respectivos quadros.
+Art. 18.º - 1 - O director, subdirector, assessores do CSGA e professores efectivos titulares dos CGGA/CBC, oficiais da Força Aérea, são nomeados por portaria do CEMFA o são considerados na situação de adidos aos respectivos quadros.
 
 2 - ...
 
@@ -285,26 +300,26 @@ d) ...
 
 5 - ...
 
-###### Art. 19.º - 1 - Os oficiais da Força Aérea professores efectivos titulares não acumulam as funções no IAEFA com outros cargos, com, excepção de colaboração prestada a institutos pertencentes a outros ramos das Forças Armadas.
+Art. 19.º - 1 - Os oficiais da Força Aérea professores efectivos titulares não acumulam as funções no IAEFA com outros cargos, com, excepção de colaboração prestada a institutos pertencentes a outros ramos das Forças Armadas.
 
 2 - Os assessores, os professores efectivos adjuntos, e os eventuais podem acumular as funções no IAEFA com outros cargos ou serviços.
 
-###### Art. 21.º - 1 - As remunerações dos professores civis contratados são fixadas por despacho conjunto dos Ministros da Defesa Nacional e das Finanças e do Plano e do Secretário de Estado da Administração Pública.
+Art. 21.º - 1 - As remunerações dos professores civis contratados são fixadas por despacho conjunto dos Ministros da Defesa Nacional e das Finanças e do Plano e do Secretário de Estado da Administração Pública.
 
 2 - ...
 
-###### Art. 23.º O quadro orgânico do IAEFA é estabelecido por portaria dos Ministros da Defesa Nacional e das Finanças e do Plano, tendo em conta as necessidades permanentes do serviço.
+Art. 23.º O quadro orgânico do IAEFA é estabelecido por portaria dos Ministros da Defesa Nacional e das Finanças e do Plano, tendo em conta as necessidades permanentes do serviço.
 
-###### Art. 24.º O Ministro da Defesa Nacional aprovará, por portaria, o Regulamento do Instituto de Altos Estudos da Força Aérea.
+Art. 24.º O Ministro da Defesa Nacional aprovará, por portaria, o Regulamento do Instituto de Altos Estudos da Força Aérea.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 2 de Julho de 1985.**
+Promulgado em 2 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Julho de 1985.**
+Referendado em 3 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

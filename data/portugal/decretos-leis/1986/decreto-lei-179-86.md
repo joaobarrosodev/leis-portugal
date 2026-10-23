@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1986-228257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8bb3d77e7d92a21ed158adae7a78539a13109053ef9493c689d57f09b6e8fda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 263bef45cd7048595e9a04fdcadf4fbb81b2530f71a1e4173c165565b38dbaad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- Classificação de Arroz
+- Comércio
+- Controlo de Qualidade
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:575690:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667302:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575690:por
+  label: "Revogado pelo DEC LEI.227/90.1990.07.10.MAPA DR.IS [157], com efeitos a partir da entrada em vigor da regulamentação\
+    \ nele prevista\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1990-575690
+  date: '1990-07-10'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:07Z'
   warnings: []
   errors: []
 ---
@@ -295,11 +346,11 @@ Lusito.
 
 1 - A qualidade tipo do arroz em casca, para a qual é fixado o preço de intervenção, corresponde a arroz com coloração própria, isento de cheiros estranhos, de impurezas e de depredadores vivos e que apresente as características e os limites a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 2 - Além das características e dos limites fixados no número anterior, à qualidade tipo do arroz em casca corresponderão, consoante as variedades, os seguintes rendimentos industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 3 - Nos rendimentos industriais em grãos inteiros referidos no número anterior é admitida uma percentagem máxima de 5% de grãos despontados.
 
@@ -307,11 +358,11 @@ Lusito.
 
 1 - Poderá ser aceite à intervenção o arroz em casca que satisfaça às condições gerais previstas no artigo 3.º do presente diploma e às características e limites a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 2 - Além das características e limites fixados no número anterior, o arroz em casca, para ser aceite à intervenção, deverá satisfazer também os seguintes rendimentos industriais mínimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 3 - Nos rendimentos industriais em grãos inteiros referidos no número anterior é admitida uma percentagem máxima de 5% de grãos despontados.
 
@@ -365,7 +416,7 @@ Depreciação no preço de 0,50% por unidade excedente, quando apresentar um teo
 
 1 - A qualidade do arroz em película corresponde a arroz com coloração própria, isento de cheiros estranhos, de impurezas e de depredadores vivos, da variedade Balilla, tendo as características e os limites a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 2 - No rendimento industrial em grãos inteiros referido no quadro do número anterior é admitida uma percentagem máxima de 5% de grãos despontados.
 
@@ -375,11 +426,11 @@ Depreciação no preço de 0,50% por unidade excedente, quando apresentar um teo
 
 1 - O arroz destinado a consumo deverá ser obtido a partir de variedades extremes, ser uniforme quanto às características morfológicas, ao comprimento médio dos grãos e ao comportamento à cozedura, de acordo com o estabelecido no artigo 4.º do presente diploma, e satisfazer as características fixadas no quadro seguinte, podendo ser fabricado e comercializado nas classes comerciais aí indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 2 - Para qualquer das formas de acabamento do arroz destinado a consumo referidas no artigo 11.º as classes comerciais caracterizadas no número anterior poderão ser fabricadas e comercializadas nos seguintes tipos comerciais de arroz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 3 - Sem prejuízo do disposto no número anterior e no n.º 1 do artigo 5.º sempre que um lote de arroz não satisfaça as características biométricas fixadas para o tipo comercial a que pertence poderá ser comercializado no tipo comercial de dimensões imediatamente inferiores, se obedecer, neste caso, às características fixadas para a classe comercial correspondente.
 
@@ -387,7 +438,7 @@ Depreciação no preço de 0,50% por unidade excedente, quando apresentar um teo
 
 1 - Poderá ser fabricado e comercializado para consumo o arroz que se apresente nas formas de acabamento e nas classes comerciais indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 2 - Mediante portaria do Ministro da Agricultura, Pescas e Alimentação, sob proposta do Instituto de Qualidade Alimentar, poderá ser autorizado o fabrico e comercialização para consumo de arroz com outras formas de acabamento.
 
@@ -395,7 +446,7 @@ Depreciação no preço de 0,50% por unidade excedente, quando apresentar um teo
 
 É permitida a comercialização, com destino ao consumo, de trinca de arroz obtida exclusivamente da operação tecnológica de branqueio e que obedeça às características e limites indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 ###### Artigo 13.º — (Métodos de análise)
 
@@ -409,7 +460,7 @@ Depreciação no preço de 0,50% por unidade excedente, quando apresentar um teo
 
 1 - Para efeitos de verificação das características do arroz e da trinca de arroz, ambos destinados a consumo, são admitidas as seguintes tolerâncias analíticas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15100/15951601.pdf)
 
 2 - Mediante portaria do Ministério da Agricultura, Pescas e Alimentação, sob proposta do Instituto de Qualidade Alimentar, serão estabelecidas tolerâncias para o peso líquido do arroz e da trinca de arroz comercializados para consumo e respectivo método de verificação.
 
@@ -485,12 +536,12 @@ O presente diploma entra em vigor em 1 de Outubro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 22 de Maio de 1986. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 18 de Junho de 1986.**
+Promulgado em 18 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1986.**
+Referendado em 18 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 125/1986, 1º Suplemento, Série I de 1986-06-02
   number: '125'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1310-(1) a 1310-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/12501/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-a-1986-254180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fb24ff780611aa1428f0e4534e2a0b76ccff2a00581350699a0948a6ed1b1ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20582cf10a773e5b0c6b1be6ef929311f65c57261660b559688abda563a46ded
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministro das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:688862:por
+  label: Rectificado pela DECL.DD4713.05.06.1986.PCM, DR.IS [128]Supl de 05.06.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-688862
+  date: '1986-06-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:58Z'
   warnings: []
   errors: []
 ---
@@ -98,35 +114,35 @@ Nestes termos:
 
 Usando da autorização concedida pelo n.º 1 do artigo 3.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Ministro das Finanças é autorizado a contrair, em nome e representação da República Portuguesa, um empréstimo no montante de 20000 milhões de ienes japoneses, representado por obrigações a subscrever por instituições financeiras japonesas, com oferta pública no mercado japonês, e a proceder à correspondente emissão de títulos.
+Artigo 1.º O Ministro das Finanças é autorizado a contrair, em nome e representação da República Portuguesa, um empréstimo no montante de 20000 milhões de ienes japoneses, representado por obrigações a subscrever por instituições financeiras japonesas, com oferta pública no mercado japonês, e a proceder à correspondente emissão de títulos.
 
-###### Art. 2.º - 1 - Ao abrigo da autorização concedida pelo artigo anterior, o Ministro das Finanças poderá celebrar com um grupo de instituições financeiras japonesas, em nome e representação da República Portuguesa, todos os contratos, regulando, nomeadamente, os termos e condições das obrigações, as respectivas condições de subscrição, de oferta ao público e admissão à cotação nas bolsas de valores e os termos em que serão desempenhadas as funções de agentes recebedores, pagadores e de registo de títulos por parte das referidas instituições.
+Art. 2.º - 1 - Ao abrigo da autorização concedida pelo artigo anterior, o Ministro das Finanças poderá celebrar com um grupo de instituições financeiras japonesas, em nome e representação da República Portuguesa, todos os contratos, regulando, nomeadamente, os termos e condições das obrigações, as respectivas condições de subscrição, de oferta ao público e admissão à cotação nas bolsas de valores e os termos em que serão desempenhadas as funções de agentes recebedores, pagadores e de registo de títulos por parte das referidas instituições.
 
 2 - O Ministro das Finanças poderá, em nome e representação da República Portuguesa, assinar os títulos representativos das obrigações e os respectivos cupões de juro, sendo permitida a substituição da assinatura por simples reprodução mecânica, e praticar todos os actos e assinar todos os documentos necessários para a realização da operação ou dela decorrentes.
 
-###### Art. 3.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
+Art. 3.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
 
-###### Art. 4.º As condições fundamentais da operação referida no artigo 1.º são as constantes da ficha técnica publicada em anexo.
+Art. 4.º As condições fundamentais da operação referida no artigo 1.º são as constantes da ficha técnica publicada em anexo.
 
-###### Art. 5.º O Ministro das Finanças poderá delegar num dos secretários de Estado do Ministério das Finanças ou em outra entidade sob a sua tutela, no todo ou em parte, os poderes que lhe são conferidos pelo presente decreto-lei.
+Art. 5.º O Ministro das Finanças poderá delegar num dos secretários de Estado do Ministério das Finanças ou em outra entidade sob a sua tutela, no todo ou em parte, os poderes que lhe são conferidos pelo presente decreto-lei.
 
-###### Art. 6.º O serviço do empréstimo é cometido à Direcção-Geral do Tesouro.
+Art. 6.º O serviço do empréstimo é cometido à Direcção-Geral do Tesouro.
 
-###### Art. 7.º Os títulos emitidos gozam de isenção de todos os impostos, incluindo o imposto sobre sucessões e doações.
+Art. 7.º Os títulos emitidos gozam de isenção de todos os impostos, incluindo o imposto sobre sucessões e doações.
 
-###### Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Maio de 1986.**
+Promulgado em 28 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1986.**
+Referendado em 28 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Ficha técnica
 

@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1983-308677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 847155005318216b08120f9dafff9a774c13af9bd6bfe584adee5887cd36fee0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4d7df735f97cf33a7a81741fc5149ebebe6360c13ff13883538c8e01af9d4fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Fonds de Reetablissement DU Conseil de L Europe
+- Sismo
+relationships:
+- type: cites
+  target: pt:dre:395298:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:25Z'
   warnings: []
   errors: []
 ---
@@ -96,34 +103,34 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a celebrar com a Região Autónoma dos Açores contratos de empréstimos até ao limite do contravalor em escudos dos financiamentos que venham a ser concedidos pelo Fonds de Réétablissement du Conseil de l'Europe ao Estado Português para efeitos do financiamento do projecto de reconstrução e reabilitação das zonas devastadas, na Região Autónoma dos Açores, pelo sismo ocorrido em 1980.
+Artigo 1.º Fica o Ministro de Estado e das Finanças e do Plano autorizado a celebrar com a Região Autónoma dos Açores contratos de empréstimos até ao limite do contravalor em escudos dos financiamentos que venham a ser concedidos pelo Fonds de Réétablissement du Conseil de l'Europe ao Estado Português para efeitos do financiamento do projecto de reconstrução e reabilitação das zonas devastadas, na Região Autónoma dos Açores, pelo sismo ocorrido em 1980.
 
-###### Art. 2.º Os produtos dos empréstimos a conceder à Região Autónoma dos Açores ao abrigo do presente diploma são postos à sua disposição à medida que sejam desembolsados os empréstimos correspondentes concedidos pelo Fonds de Réétablissement ao Estado Português.
+Art. 2.º Os produtos dos empréstimos a conceder à Região Autónoma dos Açores ao abrigo do presente diploma são postos à sua disposição à medida que sejam desembolsados os empréstimos correspondentes concedidos pelo Fonds de Réétablissement ao Estado Português.
 
-###### Art. 3.º O reembolso dos empréstimos a conceder à Região Autónoma dos Açores e o pagamento dos respectivos juros e demais encargos serão feitos por esta ao Estado Português nas mesmas condições das acordadas entre este e o Fonds de Réétablissement, sem prejuízo do disposto no artigo seguinte.
+Art. 3.º O reembolso dos empréstimos a conceder à Região Autónoma dos Açores e o pagamento dos respectivos juros e demais encargos serão feitos por esta ao Estado Português nas mesmas condições das acordadas entre este e o Fonds de Réétablissement, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 4.º - 1 - O Estado suporta o risco de câmbio correspondente à variação entre o valor da moeda ou moedas à data da sua utilização dos empréstimos concedidos pelo Fonds de Réétablissement e o valor destas mesmas moedas relativamente ao escudo na data do pagamento dos encargos respectivos ao Fonds de Réétablissement.
+Art. 4.º - 1 - O Estado suporta o risco de câmbio correspondente à variação entre o valor da moeda ou moedas à data da sua utilização dos empréstimos concedidos pelo Fonds de Réétablissement e o valor destas mesmas moedas relativamente ao escudo na data do pagamento dos encargos respectivos ao Fonds de Réétablissement.
 
 2 - A obrigação referida no número anterior reporta-se ao capital, juros e demais encargos passíveis de risco de câmbio.
 
-###### Art. 5.º - 1 - Em contrapartida da obrigação assumida pelo Estado nos termos do artigo anterior, a Região Autónoma dos Açores pagará ao Estado uma comissão sobre os montantes utilizados dos financiamentos do Fonds de Réétablissement que forem reemprestados e que se encontrem em dívida.
+Art. 5.º - 1 - Em contrapartida da obrigação assumida pelo Estado nos termos do artigo anterior, a Região Autónoma dos Açores pagará ao Estado uma comissão sobre os montantes utilizados dos financiamentos do Fonds de Réétablissement que forem reemprestados e que se encontrem em dívida.
 
 2 - O pagamento desta comissão terá lugar nas datas do vencimento dos juros devidos pelo Estado ao Fonds de Réétablissement.
 
 3 - A comissão devida pela Região Autónoma dos Açores nos termos do presente artigo será fixada por despacho do Ministro de Estado e das Finanças e do Plano relativamente a cada contrato de empréstimo que venha a realizar-se ao abrigo do presente diploma.
 
-###### Art. 6.º A comissão cobrada de acordo com o artigo precedente será contabilizada numa rubrica de operações de tesouraria a criar para o efeito, sendo transformada em receita do Estado mediante proposta da Direcção-Geral do Tesouro, a ser aprovada pelo Ministro de Estado e das Finanças e do Plano.
+Art. 6.º A comissão cobrada de acordo com o artigo precedente será contabilizada numa rubrica de operações de tesouraria a criar para o efeito, sendo transformada em receita do Estado mediante proposta da Direcção-Geral do Tesouro, a ser aprovada pelo Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 7.º Qualquer alteração que vier a ser introduzida nos contratos de empréstimos celebrados com o Fonds de Réétablissement produzirá os correspondentes efeitos nos contratos de empréstimo que venham a ser estabelecidos entre o Estado e a Região Autónoma dos Açores.
+Art. 7.º Qualquer alteração que vier a ser introduzida nos contratos de empréstimos celebrados com o Fonds de Réétablissement produzirá os correspondentes efeitos nos contratos de empréstimo que venham a ser estabelecidos entre o Estado e a Região Autónoma dos Açores.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 14 de Janeiro de 1983.**
+Promulgado em 14 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Janeiro de 1983.**
+Referendado em 21 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

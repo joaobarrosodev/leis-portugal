@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04200/05390548.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1983-311444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b28aab25db5a75631eca4c3c03b7a464601a18fe487346f7078e3d3b023f8faf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 925ec49b99234a38e0378046cd4a7fd465660a2eb4a76423728905f13e74c224
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Direcção Geral dos Serviços de Informática
+- Informática
+- Ministério da Justiça
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:345151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666119:por
+  label: Alterado o quadro de pessoal pelo(a) Port 316/87 - Diário da República n.º 89/1987, Série I de 1987-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1987-666119
+  date: '1987-04-16'
+- type: amended_by
+  target: pt:dre:459436:por
+  label: Alterados os art.s 1º, 8º, 14º, 21.º e 54º e aditados os art.s 4º-A, 4º-B, 12.º-A, 12º-B e 52.º-A pelo DEC LEI.104/91.08.03.1991.MJ,
+    DR.IS-A [56] de 08.03.1991�1
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1991-459436
+  date: '1991-03-08'
+- type: amended_by
+  target: pt:dre:320560:por
+  label: "Extinta, com a entrada em vigor do diploma orgânico do serviço ou entidade que lhe suceder nas competências, a Direcção-Geral\
+    \ dos Serviços de Informática pelo DEC LEI.146/2000.2000.07.18.MJ,DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2000-320560
+  date: '2000-07-18'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423430:por
+  label: Rectificado pela DECL.DD5964.16.03.1983.PCM, DR.IS [125-Supl] de 31.05.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-423430
+  date: '1983-03-16'
+- type: corrected_by
+  target: pt:dre:326160:por
+  label: Rectificado pela DECL.DD5744.30.04.1983.PCM, DR.IS [99-Supl] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326160
+  date: '1983-04-30'
+- type: repealed_by
+  target: pt:dre:345151:por
+  label: "Revogado pelo DEC LEI.103/2001.2001.03.29.MJ DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2001-345151
+  date: '2001-03-29'
 article_structure:
   article_count: 55
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:16Z'
   warnings: []
   errors: []
 ---
@@ -752,7 +837,7 @@ Os encargos resultantes do presente diploma serão suportados pelo Cofre dos Con
 
 ###### Artigo 54.º — (Despesas da instalação e equipamento)
 
-**O Ministro da Justiça pode determinar que as despesas de instalação e de equipamento da DGSI sejam suportadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.**
+O Ministro da Justiça pode determinar que as despesas de instalação e de equipamento da DGSI sejam suportadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 ###### Artigo 55.º — (Revogação de diplomas)
 
@@ -766,16 +851,16 @@ c) Os artigos 77.º a 83.º do [Decreto-Lei n.º 555/73](https://diariodarepubli
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 1 de Fevereiro de 1983.**
+Promulgado em 1 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Fevereiro de 1983.**
+Referendado em 2 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Quadro de pessoal do Centro de Informática do Ministério da Justiça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04200/05390548.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04200/05390548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04200/05390548.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15800/20742074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1982-394903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 089b9d41a7ee455c6fd54bf42c9bd043e65ca5117a9025ecde3dff4a32e5b344
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcb889595d83d04ab95fcd98712c0b8e342714a84bdfd51ed1c911d1c75e3a49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviço Nacional de Bombeiros
 relationships:
 - type: amended_by
   target: pt:dre:616189:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658226:por
+  label: "Alterado o art. 41º do Dec Lei 418/80, de 29-Set, na redacção do presente diploma, pelo DEC LEI.205/91.07.06.1991.MAI,\
+    \ DR.IS-A [130] de 07.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1991-658226
+  date: '1991-06-07'
+- type: amended_by
+  target: pt:dre:584791:por
+  label: "Alterado o art. 41º do Dec Lei 418/80, na redacção do presente diploma, pelo DEC LEI.253/92.19.11.1992.MAI, DR.IS-A\
+    \ [268] de 19.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1992-584791
+  date: '1992-11-19'
+- type: cites
+  target: pt:dre:461642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621286:por
+  label: "Revogado pelo DEC LEI.277/94.1994.11.03.MAI, DR.IS-A [254]0\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1994-621286
+  date: '1994-11-03'
+- type: repealed_by
+  target: pt:dre:616189:por
+  label: "Revogado o Dec Lei 418/80 de 29-Set DR.IS [225], com as alterações introduzidas pelo presente diploma, pelo DEC\
+    \ LEI.293/2000.2000.11.17.MAI DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-2000-616189
+  date: '2000-11-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:12Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +126,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 41.º do [Decreto-Lei n.º 418/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1980-461642), de 29 de Setembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 41.º do [Decreto-Lei n.º 418/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1980-461642), de 29 de Setembro, passa a ter a seguinte redacção:
 
 1 - ...
 
@@ -107,8 +136,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 28 de Junho de 1982.**
+Promulgado em 28 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 29/1984, 1º Suplemento, Série I de 1984-02-03
   number: '29'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 372-(1) a 372-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/02901/00010013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,191 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6e9b4bfa2342f5b2248498515846e3680dd381401c49b3a0a65cf9c0bdd1f82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb65e229ae88e1d98173132eb36d27840d89bce2157efc628015b9b553cadd1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Admissão de Pessoal
+- Gestão de Recursos Humanos
+- Mobilidade de Pessoal
+- Orgânica
+- Quadro de Pessoal
+- Reconversão Profissional
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL DE 27-ABR DR.IS [100]3SUPL DE 30/ABR/1984-\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-04-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL DE 26-JUN DR.IS [150]2SUPL DE 30/JUN/19848\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-06-30'
+- type: amended_by
+  target: pt:dre:179990:por
+  label: "Alterada a redacção do art. 17º, pelo DEC LEI.299/85.1985.07.29.PCM, DR.IS [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1985-179990
+  date: '1985-07-29'
+- type: amended_by
+  target: pt:dre:228464:por
+  label: "Alterada a al. a) do nº 2 do art. 24º e o nº 2 do art. 32º, pelo DEC LEI.160/86.1986.06.26.PCM, DR.IS [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1986-228464
+  date: '1986-06-26'
+- type: amended_by
+  target: pt:dre:421775:por
+  label: "Alterados o nº 7 do art. 12º, pelo DEC LEI.215/87.1987.05.29.PCM, DR.IS [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: amended_by
+  target: pt:dre:401882:por
+  label: "Aditada a expressão \"sendo considerada, para efeitos disciplinares, falte grave punível com inactividade\" ao nº\
+    \ 2 do art. 16º (Nº 10 do art. 14º). Estende o âmbito de aplicação deste mesmo diploma ao pessoal civil dos serviços departamentais\
+    \ das Forças Armadas pela LEI.114/88.1988.12.30.AR, DR.IS [301]3ºSupl (Nº3 do art. 15º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-1988-401882
+  date: '1988-12-30'
+- type: amended_by
+  target: pt:dre:158647:por
+  label: "Fica condicionada à demonstração da sua imprescindibilidade a requisição de pessoal a empresas públicas e privadas,\
+    \ prevista no art. 37º do presente diploma, pela RES.97/2002.2002.05.02.PCM, DR.IS-B [115] de 18/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/97-2002-158647
+  date: '2002-05-02'
+- type: amended_by
+  target: pt:dre:538820:por
+  label: "Alterados os arts. 1.º, 11.º e 17.º (este último na redacção do Dec Lei 299/85, de 29-Jul) e aditado o art. 37.º-A,\
+    \ todos do presente diploma, pelo Dec Lei.169/2006.17.08.2006.MFAP, DR.IS [158] de 17.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2006-538820
+  date: '2006-08-17'
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677466:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483452:por
+  label: Rectificado pela DECL.DD5409.27.04.1984.PCM, DR.IS [100-3 SUPL] de 30.04.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-483452
+  date: '1984-04-27'
+- type: repealed_by
+  target: pt:dre:550586:por
+  label: "Revogados os arts. 14º a 16º, 19º a 25º, 27º a 29º, 32º e 39º, pelo DEC LEI.427/89.1989.12.07.PCM, DR.IS [281]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-1989-550586
+  date: '1989-12-07'
+- type: repealed_by
+  target: pt:dre:634930:por
+  label: "Revogado o art. 30º pelo DEC LEI.497/99.1999.11.19.PCM,DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1999-634930
+  date: '1999-11-19'
+- type: repealed_by
+  target: pt:dre:603475:por
+  label: "Revogados, a partir de 01.02.2004, os arts. 2.º a 5.º e 10.º, pela LEI.4/2004.15.01.2004.AR, DR.IS-A [12] de 15.01.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2004-603475
+  date: '2004-01-15'
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 43
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:21Z'
   warnings: []
   errors: []
 ---
@@ -713,20 +864,20 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Maria Manuela Aguiar Dias Moreira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Augusto Seabra - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - Manuel José Dias Soares Costa - José Veiga Simão - Joaquim Ferreira do Amaral - António Antero Coimbra Martins - João Rosado Correia - António d'Orey Capucho - Carlos Montez Melancia.
 
-**Promulgado em 13 de Janeiro de 1984.**
+Promulgado em 13 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Janeiro de 1984.**
+Referendado em 16 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I (a que se refere a alínea b) do n.º 2 do artigo 2º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/02901/00010013.pdf))](https://files.diariodarepublica.pt/1s/1984/02/02901/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/02901/00010013.pdf)
 
 MAPA II (n.º 3 do artº 12º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/02901/00010013.pdf))](https://files.diariodarepublica.pt/1s/1984/02/02901/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/02901/00010013.pdf)

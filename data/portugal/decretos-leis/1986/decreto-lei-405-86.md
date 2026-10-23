@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28000/36683671.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1986-221304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e145abac6bbe8103bc31f782dc91fe6cefb87291043be9122f8e0d888658f02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cd98857ebb55bab35d2ac60c8cdce9bcde7703e85a9b0dac58315c167844bd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Ensino Preparatório
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:380135:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380135:por
+  label: "Revogado pelo DEC LEI.287/88.19.08.1988.ME, DR.IS [191] de 19.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1988-380135
+  date: '1988-08-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:59Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +121,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Do âmbito
 
-###### Artigo 1.º O sistema de formação em serviço a que se refere o presente decreto-lei visa a profissionalização dos professores provisórios dos ensinos preparatório e secundário, nos termos do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 412/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1985-178337), de 16 de Outubro, e pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril.
+Artigo 1.º O sistema de formação em serviço a que se refere o presente decreto-lei visa a profissionalização dos professores provisórios dos ensinos preparatório e secundário, nos termos do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 412/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1985-178337), de 16 de Outubro, e pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril.
 
 ### CAPÍTULO II — Da formação
 
-###### Art. 2.º Os objectivos a atingir na formação serão objecto de regulamentação a estabelecer por despacho do Ministro da Educação e Cultura, de acordo com a caracterização genérica de cada um dos níveis de ensino.
+Art. 2.º Os objectivos a atingir na formação serão objecto de regulamentação a estabelecer por despacho do Ministro da Educação e Cultura, de acordo com a caracterização genérica de cada um dos níveis de ensino.
 
-###### Art. 3.º - 1 - A formação em serviço compete aos centros integrados de formação de professores das universidades, adiante designados por CIFOP, e às escolas superiores de educação, adiante designadas por ESE, e ainda a outras instituições de ensino superior, nomeadamente as que possuem experiência na formação de professores ou que para tal estejam vocacionadas.
+Art. 3.º - 1 - A formação em serviço compete aos centros integrados de formação de professores das universidades, adiante designados por CIFOP, e às escolas superiores de educação, adiante designadas por ESE, e ainda a outras instituições de ensino superior, nomeadamente as que possuem experiência na formação de professores ou que para tal estejam vocacionadas.
 
 2 - Qualquer das instituições referidas no número anterior pode celebrar acordos de colaboração com o Instituto de Tecnologia Educativa e com o Instituto Português de Ensino a Distância e ainda com quaisquer outras instituições de ensino superior, nomeadamente as que possuam experiência em formação de professores ou que para a mesma se encontrem vocacionadas.
 
 3 - A cada escola dos ensinos preparatório e secundário cabe, através do conselho pedagógico, acompanhar o processo de formação dos seus professores no âmbito que lhes é consignado pelos diplomas legais aplicáveis.
 
-###### Art. 4.º - 1 - Será assegurado o início da formação no primeiro ano da sua colocação a todos os professores efectivos de nomeação provisória.
+Art. 4.º - 1 - Será assegurado o início da formação no primeiro ano da sua colocação a todos os professores efectivos de nomeação provisória.
 
 2 - Por despacho ministerial, proferido ano a ano, será fixado o conjunto de escolas dos ensinos preparatório e secundário cujos professores efectivos de nomeação provisória serão objecto de formação realizada por cada uma das instituições a que se referem os n.os 1 e 2 do artigo anterior.
 
@@ -117,7 +141,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os protocolos referidos no número anterior serão sujeitos à homologação do director-geral de ensino respectivo.
 
-###### Art. 5.º - 1 - A formação em serviço desenvolve-se tomando como base a iniciação em Ciências da Educação, nos planos teórico e prático, incidindo, essencialmente, no acompanhamento da prática pedagógica.
+Art. 5.º - 1 - A formação em serviço desenvolve-se tomando como base a iniciação em Ciências da Educação, nos planos teórico e prático, incidindo, essencialmente, no acompanhamento da prática pedagógica.
 
 2 - A componente de formação em Ciências da Educação consiste no tratamento de unidades de aprendizagem, designadamente relacionadas com a teoria curricular, a Psicologia e a Gestão e Administração Escolar.
 
@@ -131,13 +155,13 @@ c) Observação de aulas dos formandos;
 
 d) Reflexão crítica sobre as aulas referidas na alínea anterior.
 
-###### Art. 6.º - 1 - A formação em serviço realiza-se segundo programa estabelecido pelas instituições que a orientam, em solução acordada com os formandos.
+Art. 6.º - 1 - A formação em serviço realiza-se segundo programa estabelecido pelas instituições que a orientam, em solução acordada com os formandos.
 
 2 - Tendo em atenção a especificidade de alguns grupos de docência, a solução acordada com os formandos referida no número anterior pode incluir, designadamente em relação aos escalões de habilitações próprias com menor prioridade, a formação no âmbito científico, técnico e tecnológico, a qual terá carácter facultativo e não produzirá efeitos no processo de avaliação.
 
 3 - Para os efeitos referidos nos números anteriores, na 2.ª quinzena de Setembro que precede o início da formação é organizado um programa de acolhimento aos candidatos inscritos, os quais têm oportunidade de contactar com os docentes que irão orientar a formação, de ser informados acerca do trabalho a realizar e, por sua vez, de dar conhecimento das suas expectativas e desejos de formação, no sentido de ser elaborado o acordo de formação.
 
-###### Art. 7.º - 1 - O programa de formação desenvolve-se num período máximo de dois anos e, na sua sequência, realiza-se a prova de avaliação a que se refere o artigo 10.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 412/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1985-178337), de 16 de Outubro, e pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril.
+Art. 7.º - 1 - O programa de formação desenvolve-se num período máximo de dois anos e, na sua sequência, realiza-se a prova de avaliação a que se refere o artigo 10.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 412/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1985-178337), de 16 de Outubro, e pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril.
 
 2 - Na sua realização, o processo de formação inclui sessões presenciais, que podem revestir a forma de seminários.
 
@@ -151,11 +175,11 @@ d) Reflexão crítica sobre as aulas referidas na alínea anterior.
 
 7 - A cada professor em formação será atribuída no 2.º ano de formação a direcção de uma turma, não sendo permitido o desempenho de qualquer outro cargo que implique redução do horário lectivo.
 
-###### Art. 8.º A frequência com aproveitamento do programa de formação confere o direito a um diploma profissional, do qual constará a classificação profissional do interessado.
+Art. 8.º A frequência com aproveitamento do programa de formação confere o direito a um diploma profissional, do qual constará a classificação profissional do interessado.
 
 ### CAPÍTULO III — Da avaliação
 
-###### Art. 9.º - 1 - A avaliação da formação reveste, essencialmente, as características de avaliação formativa e inclui uma avaliação do rendimento final das actividades.
+Art. 9.º - 1 - A avaliação da formação reveste, essencialmente, as características de avaliação formativa e inclui uma avaliação do rendimento final das actividades.
 
 2 - Cada área de Ciências da Educação é objecto de uma avaliação quantitativa final, expressa na escala de 0 a 20 valores, com aproximação às unidades, a qual será dada a conhecer ao formando.
 
@@ -163,7 +187,7 @@ d) Reflexão crítica sobre as aulas referidas na alínea anterior.
 
 4 - A avaliação a que se referem os n.os 2 e 3 deste artigo deve estar concluída até ao final do 2.º trimestre do 2.º ano de formação.
 
-###### Art. 10.º - 1 - Os formandos que tenham obtido classificação igual ou superior a 10 valores em Ciências da Educação e na prática pedagógica são admitidos à prova final a que se refere o n.º 1 do artigo 10.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864).
+Art. 10.º - 1 - Os formandos que tenham obtido classificação igual ou superior a 10 valores em Ciências da Educação e na prática pedagógica são admitidos à prova final a que se refere o n.º 1 do artigo 10.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864).
 
 2 - Para efeitos do número anterior, a classificação em Ciências da Educação é a obtida em resultado da aplicação do disposto no n.º 2 do artigo 9.º, expressa em valores e com aproximação às unidades.
 
@@ -183,7 +207,7 @@ d) Reflexão crítica sobre as aulas referidas na alínea anterior.
 
 10 - Será elaborada uma acta circunstanciada da prova de avaliação final, a qual fica arquivada na instituição de ensino superior sob cuja dependência se realiza a formação.
 
-###### Art. 11.º - 1 - A aprovação do formando no programa de formação consiste na atribuição de uma classificação numérica igual ou superior a 10 valores na prova final.
+Art. 11.º - 1 - A aprovação do formando no programa de formação consiste na atribuição de uma classificação numérica igual ou superior a 10 valores na prova final.
 
 2 - À aprovação do formando corresponde uma habilitação profissional cuja classificação será determinada, com aproximação às décimas, pela fórmula
 
@@ -215,19 +239,19 @@ HP a classificação da habilitação profissional.
 
 5 - A classificação profissional, depois de homologada pelo respectivo director-geral de ensino, é publicada no Diário da República.
 
-###### Art. 12.º - 1 - Caso o candidato não obtenha aprovação, pode solicitar a repetição da formação ou da prova final, por uma só vez, nos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, com a alteração introduzida pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril.
+Art. 12.º - 1 - Caso o candidato não obtenha aprovação, pode solicitar a repetição da formação ou da prova final, por uma só vez, nos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, com a alteração introduzida pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril.
 
 2 - A repetição prevista no número anterior tem de ser realizada até final dos dois anos imediatamente subsequentes ao período de formação.
 
-###### Art. 13.º - 1 - A ausência ou insuficiência de elementos de informação, nos termos do n.º 2 do artigo 9.º, determina a impossibilidade de admissão do formando à prova de avaliação final.
+Art. 13.º - 1 - A ausência ou insuficiência de elementos de informação, nos termos do n.º 2 do artigo 9.º, determina a impossibilidade de admissão do formando à prova de avaliação final.
 
 2 - A decisão sobre a ausência ou insuficiência de elementos a que se refere o número anterior compete, em exclusivo, ao júri constituído nos termos do artigo anterior, não cabendo recurso dessa decisão.
 
-###### Art. 14.º Para o exercício das actividades de apreciação que vai desenvolver, ao professor profissionalizado a que se referem os n.os 4 e 5 do artigo 10.º será concedida uma redução de serviço lectivo, calculada, por excesso, na razão de uma hora por cada dois formandos, a partir da data da sua designação como elemento do júri.
+Art. 14.º Para o exercício das actividades de apreciação que vai desenvolver, ao professor profissionalizado a que se referem os n.os 4 e 5 do artigo 10.º será concedida uma redução de serviço lectivo, calculada, por excesso, na razão de uma hora por cada dois formandos, a partir da data da sua designação como elemento do júri.
 
 ### CAPÍTULO IV — Da creditação de competência
 
-###### Art. 15.º - 1 - Sob proposta do professor que acompanha a prática pedagógica, a partir do final do 1.º semestre do 1.º ano do programa de formação, a instituição de ensino superior pode decidir que o júri a que se refere o n.º 4 do artigo 10.º proceda a uma apreciação ad hoc de qualquer formando que tenha revelado, na sua atitude pedagógica, elevada competência profissional.
+Art. 15.º - 1 - Sob proposta do professor que acompanha a prática pedagógica, a partir do final do 1.º semestre do 1.º ano do programa de formação, a instituição de ensino superior pode decidir que o júri a que se refere o n.º 4 do artigo 10.º proceda a uma apreciação ad hoc de qualquer formando que tenha revelado, na sua atitude pedagógica, elevada competência profissional.
 
 2 - Para efeitos do disposto no n.º 1, o júri pode ser alargado, passando a integrar mais um professor da instituição de ensino superior.
 
@@ -239,7 +263,7 @@ HP a classificação da habilitação profissional.
 
 ### CAPÍTULO V — Da coordenação
 
-###### Art. 16.º - 1 - Na dependência do Ministro da Educação e Cultura é constituído um conselho consultivo, que se pronunciará sobre os diversos aspectos relacionados com a formação de professores a que se refere o presente decreto-lei, designadamente:
+Art. 16.º - 1 - Na dependência do Ministro da Educação e Cultura é constituído um conselho consultivo, que se pronunciará sobre os diversos aspectos relacionados com a formação de professores a que se refere o presente decreto-lei, designadamente:
 
 a) Coordenação global do processo;
 
@@ -263,18 +287,18 @@ c) Um representante da Direcção-Geral de Pessoal.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 17.º Tendo em consideração as necessidades de funcionamento de formação a que se refere o presente decreto-lei, poderá ser estabelecida, por portaria do Ministro da Educação e Cultura, regulamentação adequada referente à organização funcional das escolas dos ensinos preparatório e secundário.
+Art. 17.º Tendo em consideração as necessidades de funcionamento de formação a que se refere o presente decreto-lei, poderá ser estabelecida, por portaria do Ministro da Educação e Cultura, regulamentação adequada referente à organização funcional das escolas dos ensinos preparatório e secundário.
 
-###### Art. 18.º É revogada a [Portaria n.º 750/85](https://diariodarepublica.pt/dr/detalhe/portaria/750-1985-177037), de 2 de Outubro.
+Art. 18.º É revogada a [Portaria n.º 750/85](https://diariodarepublica.pt/dr/detalhe/portaria/750-1985-177037), de 2 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 7 de Novembro de 1986.**
+Promulgado em 7 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1986.**
+Referendado em 12 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

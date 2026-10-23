@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1985-178328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f181ce6a003c1b3a2e8f7ea83a142605f4906a8c6579df151a5ebb70b7d9053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e789466b1c2b2cb18d09af3b1ce9910726564d122d7a05c9feed67458af806c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco Internacional para a Reconstrução e Desenvolvimento
+- Ifadap
+- JURO Bonificado
+- Ministério das Finanças e do Plano
+- TAXA de JURO
+relationships:
+- type: cites
+  target: pt:dre:399398:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:39Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +102,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 305/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1984-399398), de 19 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 305/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1984-399398), de 19 de Setembro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O Estado, através do Ministério das Finanças e do Plano, assume a obrigação de pagamento das bonificações complementares às concedidas no âmbito do sistema de financiamento à agricultura e pescas, de molde a garantir que a taxa de juro líquida dos financiamentos concedidos aos mutuários e objecto de refinanciamento ao abrigo do empréstimo n.º 1603 PO do Banco Internacional para a Reconstrução e Desenvolvimento (BIRD) seja de 16% ao ano, constante ao longo da vida dos créditos refinanciados.
+Artigo 1.º - 1 - O Estado, através do Ministério das Finanças e do Plano, assume a obrigação de pagamento das bonificações complementares às concedidas no âmbito do sistema de financiamento à agricultura e pescas, de molde a garantir que a taxa de juro líquida dos financiamentos concedidos aos mutuários e objecto de refinanciamento ao abrigo do empréstimo n.º 1603 PO do Banco Internacional para a Reconstrução e Desenvolvimento (BIRD) seja de 16% ao ano, constante ao longo da vida dos créditos refinanciados.
 
 2 - Para efeitos do número anterior, o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas enviará à Direcção-Geral do Tesouro uma relação de todas as operações integradas na presente linha de crédito, com base na qual a Direcção-Geral do Tesouro entregará às instituições de crédito mutuantes as bonificações que são devidas pelo Estado, nos termos do presente diploma.
 
-###### Art. 2.º O presente decreto-lei produz efeitos a partir da data de entrada em vigor do [Decreto-Lei n.º 305/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1984-399398), de 19 de Setembro.
+Art. 2.º O presente decreto-lei produz efeitos a partir da data de entrada em vigor do [Decreto-Lei n.º 305/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1984-399398), de 19 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 1 de Outubro de 1985.**
+Promulgado em 1 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Outubro de 1985.**
+Referendado em 3 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

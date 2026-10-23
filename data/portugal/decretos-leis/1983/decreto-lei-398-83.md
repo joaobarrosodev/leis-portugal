@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/25200/37383743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1983-443683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88eac9855bff1d00d5c8fcbb4db8de5526139d68dd56ae1fa778fde054d2b47d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad60b859f4f2b0d4bcfef3f3b725b2956bf9f5064f7f25d5d9bc28f74a53b241
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Trabalho
+- Contrato Individual de Trabalho
+- Empresa
+- LAY OFF
+- Redução do Período Normal de Trabalho
+- Regime Jurídico
+- Situação Económica Dificil
+- Suspensão do Contrato de Trabalho
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621303:por
+  label: Alterados, a partir de 29.05.1989, os arts. 14.º, 15.º, 16.º, 17.º e 21.º do presente diploma, pelo(a) Decreto-Lei
+    n.º 64-B/89 - Diário da República n.º 48/1989, 2º Suplemento, Série I de 1989-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-b-1989-621303
+  date: '1989-02-27'
+- type: amended_by
+  target: pt:dre:233305:por
+  label: "Dada nova redacção aos arts 5º, 10º e 11º e revogado o art. 22º pelo DEC LEI.210/92.02.10.1992.MESS, DR.IS-A [228]\
+    \ de 02.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1992-233305
+  date: '1992-10-02'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterada a redacção do art. 21.º, na redacção dada pelo Dec Lei 64.º-B/89, de 27-Fev, pela LEI.118/99.1999.08.11.AR\
+    \ DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:532448:por
+  label: "Dada nova redacção aos arts. 13.º e 14.º (este com a redacção constante do Dec Lei 64-B/89 de 27-Fev), aditado o\
+    \ art. 15.º-A, e revogado o nº 3 do art. 5.º pela LEI.137/99.1999.08.28.AR DR.IS-A [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/137-1999-532448
+  date: '1999-08-28'
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:05Z'
   warnings: []
   errors: []
 ---
@@ -350,12 +424,12 @@ São revogados os Decretos-Leis n.os [353-I/77](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto - Carlos Montez Melancia.
 
-**Promulgado em 24 de Outubro de 1983.**
+Promulgado em 24 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 24 de Outubro de 1983.**
+Referendado em 24 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/06400/08630890.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1984-661945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e646dfd2d3b0b1ab268bbbdab73951ecd46f735898b23879f203693d8d6d2a93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d99bf2083c94afcdaec962b30f84daf0a9d26d2965b3497de6484b5900af1f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Advogado
+- Estatuto
+- Estatuto Judiciário
+- Ordem dos Advogados
 relationships:
 - type: amended_by
   target: pt:dre:624462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179357:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante da al. i) do art. 69º pelo AC.143/85.1985.07.31.TCS\
+    \ DR.IS [202] de 03/Set/1985\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/143-1985-179357
+  date: '1985-07-31'
+- type: amended_by
+  target: pt:dre:226976:por
+  label: "Aditado um título II-A a seguir ao art. 173º, bem como os arts 173º-A, 173º-B, 173º-C, 173º-D, 173º-E e 173º-F pelo\
+    \ DEC LEI.119/86.1986.05.28.MJ DR.IS [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1986-226976
+  date: '1986-05-28'
+- type: amended_by
+  target: pt:dre:355476:por
+  label: "Alterada a al. b) do nº 2 do art. 164º do Estatuto aprovado perlo presente diploma pelo DEC LEI.325/88.1988.09.23.MJ\
+    \ DR.IS [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-1988-355476
+  date: '1988-09-23'
+- type: amended_by
+  target: pt:dre:657432:por
+  label: "Alterados os arts. 2º, 33º, 42º, 46º, 170º e aditados os arts. 172º-A e 172º-B pela LEI.33/94.1994.09.06.AR, DR.IS-A\
+    \ [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-1994-657432
+  date: '1994-09-06'
+- type: amended_by
+  target: pt:dre:392841:por
+  label: "Alterados os arts. 4º, 7º, 8º, 9º, 10º, 11º, 24º 40º, 41º, 42º (na redacção da Lei 33/94, de 06-Set), 45º, 46º (na\
+    \ redacção da Lei 33/94, de 06-Set), 47º, 48º, 49º, 50º, 52º, 53º, 73º, 82º, 90º a 145º, 149º, 150º, 155º, 156º e 173º-A\
+    \ a 173º-F (os últimos introduzidos pelo Dec Lei 119/86, de 28-Mai), aditados os arts. 48º-A, 48º-B e 48ºC (que passam\
+    \ a constituir a secção IX-A do Cap. II do Título I e o art. 173º-G, revogado o art. 172º-A (introduzido pelo Dec Lei\
+    \ 119/86, de 28-Mai) e determinado que o art. 172º-B (aditado pelo Dec Lei 119/86, de 28-Mai) passe a 172º-A e republicado,\
+    \ em Anexo o Estatuto com todas as alterações, pela LEI.80/2001.2001.07.20.AR, DR.IS-A [167] (Anexo II)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/80-2001-392841
+  date: '2001-07-20'
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660352:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607296:por
+  label: Rectificado pela DECL.DD5576.07.05.1984.PCM, DR.IS [126-2Supl] de 31.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-607296
+  date: '1984-05-07'
+- type: repealed_by
+  target: pt:dre:315338:por
+  label: "Revogada a al. a) do n.º 2 do art. 164.º do Estatuto pela LEI.30-E/2000.20.12.2000.AR, DR.IS-A [292]3ºSupl de 20.12.2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-e-2000-315338
+  date: '2000-12-20'
+- type: repealed_by
+  target: pt:dre:479604:por
+  label: "Revogados os arts 53º (na redacção da Lei 80/2001 de 20-Jul) e 56º do Estatuto da Ordem dos Advogados, aprovado\
+    \ pelo presente diploma, pela LEI.49/2004.24.08.2004.AR, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2004-479604
+  date: '2004-08-24'
+- type: repealed_by
+  target: pt:dre:624462:por
+  label: "Revogado o Estatuto da Ordem dos Advogados,com as alterações introduzidas pelos Dec Leis 119/86, de 28-Mai, e 325/88,\
+    \ de 23-Set, e pelas Leis 33/94, de 06-Set, 30-E/2000, de 20-Dez, e 80/2001, de 20-Jul, pela LEI.15/2005.26.01.2005.AR,\
+    \ DR.IS-A [18] de 26.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2005-624462
+  date: '2005-01-26'
 article_structure:
-  article_count: 175
+  article_count: 176
   section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:08Z'
   warnings: []
   errors: []
 ---
@@ -131,15 +201,15 @@ Com o início da vigência do presente diploma são revogados os artigos 538.º 
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 9 de Março de 1984.**
+Promulgado em 9 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Março de 1984.**
+Referendado em 9 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## TÍTULO I — Da Ordem dos Advogados
 
@@ -1663,7 +1733,9 @@ Todos os livros e impressos destinados ao expediente dos serviços da Ordem dos 
 
 ## TÍTULO II — Dos advogados, advogados estagiarias e sociedades de advogados
 
-### CAPÍTULO I — Artigo 154.º
+### CAPÍTULO I
+
+###### Artigo 154.º
 
 (Inscrição na Ordem dos Advogados e domicílio profissional)
 
@@ -1879,4 +1951,4 @@ Lei especial regulamentará a criação e funcionamento das sociedades de advoga
 
 O primeiro congresso ordinário dos advogados portugueses realizar-se-á até ao final do ano de 1985.
 
-**O Ministro da Justiça, Rui Manuel Parente de Chancerelle de Machete.**
+O Ministro da Justiça, Rui Manuel Parente de Chancerelle de Machete.

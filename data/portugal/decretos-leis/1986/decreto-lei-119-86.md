@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/12200/12811282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1986-226976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08ed3196c487a13e1a97cc0ffedc0ac3a197bcd4480b0e29e4ca791fd6a8cd07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e639260a345aada25d8ff267023ec240566539ca255f2c0c8b7920e909875b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Advogado
+- Aproximação das Legislações
+- Estatuto
+- Livre Circulação de Trabalhadores
+- Livre Prestação de Serviços
+- Ordem dos Advogados
 relationships:
 - type: amended_by
   target: pt:dre:624462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392841:por
+  label: "Alterados os arts. 173º-A a 173º-F, revogado o art. 172º-A e determinado que o art. 172º-B passe a 172º-A, todos\
+    \ do Estatuto da Ordem dos Advogados, aprovado pelo Dec Lei 84/84, de 16-Mar e introduzidos pelo presente diploma, pela\
+    \ LEI.80/2001.2001.07.20.AR, DR.IS-A [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/80-2001-392841
+  date: '2001-07-20'
+- type: repealed_by
+  target: pt:dre:624462:por
+  label: "Revogado o Dec Lei 84/84, de 16-Mar, com as alterações introduzidas pelo presente diploma, pela LEI.15/2005.26.01.2005.AR,\
+    \ DR.IS-A [18] de 26.01.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2005-624462
+  date: '2005-01-26'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:49Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +120,7 @@ Na elaboração do presente decreto-lei participou a Ordem dos Advogados, a qual
 
 Assim, no uso da autorização legislativa concedida pela Lei n.º 6/86, de 26 de Março, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São introduzidos, a seguir ao artigo 173.º do Estatuto da Ordem dos Advogados, aprovado pelo Decreto-Lei n.º 84/84, de 16 de Março, um título novo, numerado como título II-A, bem como os artigos 173.º-A, 173.º-B, 173.º-C, 173.º-D, 173.º-E e 173.º-F, com a seguinte redacção:
+Artigo 1.º São introduzidos, a seguir ao artigo 173.º do Estatuto da Ordem dos Advogados, aprovado pelo Decreto-Lei n.º 84/84, de 16 de Março, um título novo, numerado como título II-A, bem como os artigos 173.º-A, 173.º-B, 173.º-C, 173.º-D, 173.º-E e 173.º-F, com a seguinte redacção:
 
 ## TÍTULO II-A
 
@@ -135,7 +154,7 @@ Na República Federal da Alemanha: rechtsanwalt;
 
 Na França: avocat;
 
-Na Grécia: [([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/12200/12811282.pdf))](https://files.diariodarepublica.pt/1s/1986/05/12200/12811282.pdf);
+Na Grécia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/12200/12811282.pdf);
 
 Na Irlanda: barrister, solicitor;
 
@@ -175,16 +194,16 @@ Na Espanha: abogado.
 
 3 - A Ordem dos Advogados portuguesa informará o Estado membro de proveniência das sanções disciplinares que aplicar a advogados comunitários.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Abril de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 10 de Maio de 1986.**
+Promulgado em 10 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Maio de 1986.**
+Referendado em 15 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

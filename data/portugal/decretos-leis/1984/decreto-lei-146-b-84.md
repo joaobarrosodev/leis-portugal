@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 107/1984, 1º Suplemento, Série I de 1984-05-09
   number: '107'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1508-(5) a 1508-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/10701/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-b-1984-475559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15b9d74054eeb5ff8d8a4a32f47cb83527e31cbf077fe759808c5fc005ea2ea1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aba2b8e50fe5b346d4cee88e8f7ff7a4742f05612e3f98def514eae7f3f516d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos Judiciários
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:165851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165851:por
+  label: "Revogado pela LEI.16/98.1998.04.08.AR, DR.IS-A [83] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1998-165851
+  date: '1998-04-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:05Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +118,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado, como órgão do Centro de Estudos Judiciários, o conselho técnico.
+Artigo 1.º - 1 - É criado, como órgão do Centro de Estudos Judiciários, o conselho técnico.
 
 2 - São criados, no Centro de Estudos Judiciários, os seguintes serviços:
 
@@ -119,7 +130,7 @@ c) O Museu.
 
 3 - Quando a complexidade das matérias a tratar e a natureza dos temas que as integram e a sua especificidade o justifiquem, poderão criar-se no Gabinete de Estudos Jurídico-Sociais, por despacho do Ministro da Justiça, sob proposta fundamentada do director do Centro de Estudos Judiciários, departamentos de estudos.
 
-###### Art. 2.º - 1 - Constituem o conselho técnico do Centro de Estudos Judiciários:
+Art. 2.º - 1 - Constituem o conselho técnico do Centro de Estudos Judiciários:
 
 a) O director do Centro de Estudos Judiciários, que preside;
 
@@ -133,7 +144,7 @@ e) 2 professores universitários, designados por despacho conjunto dos Ministros
 
 2 - Os responsáveis dos departamentos de estudos do Gabinete de Estudos Jurídico-Sociais participam, com direito a voto, nas reuniões do conselho técnico em que se trate de matéria da competência do respectivo departamento.
 
-###### Art. 3.º Compete ao conselho técnico do Centro de Estudos Judiciários:
+Art. 3.º Compete ao conselho técnico do Centro de Estudos Judiciários:
 
 a) Apreciar o plano anual de actividades do Gabinete de Estudos Jurídico-Sociais, a inscrever, pelo director do Centro de Estudos Judiciários, no plano anual de actividades a que se refere o artigo 11.º, alínea a), do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro;
 
@@ -143,19 +154,19 @@ c) Decidir da qualidade dos estudos a publicar pelo Gabinete de Estudos Jurídic
 
 d) Deliberar sobre quaisquer questões relativas à organização e funcionamento do Gabinete de Estudos Jurídico-Sociais que lhe sejam submetidas pelo presidente, directamente ou a solicitação do director.
 
-###### Art. 4.º - 1 - O conselho técnico reúne ordinariamente 3 vezes por ano e extraordinariamente sempre que convocado pelo presidente, por iniciativa própria ou a solicitação do director do Gabinete de Estudos Jurídico-Sociais.
+Art. 4.º - 1 - O conselho técnico reúne ordinariamente 3 vezes por ano e extraordinariamente sempre que convocado pelo presidente, por iniciativa própria ou a solicitação do director do Gabinete de Estudos Jurídico-Sociais.
 
 2 - Para validade das deliberações exige-se a presença de, pelo menos, 6 membros com direito a voto.
 
 3 - As deliberações são tomadas à pluralidade de votos, cabendo ao presidente voto de qualidade.
 
-###### Art. 5.º - 1 - O director do Gabinete de Estudos Jurídico-Sociais tem categoria equivalente à de director de estudos ou de director de estágios do Centro de Estudos Judiciários e é nomeado, em regime de comissão de serviço, por períodos de 3 anos, renováveis, pelo Ministro da Justiça, sob proposta do director do Centro de Estudos Judiciários, de entre licenciados com reconhecida competência.
+Art. 5.º - 1 - O director do Gabinete de Estudos Jurídico-Sociais tem categoria equivalente à de director de estudos ou de director de estágios do Centro de Estudos Judiciários e é nomeado, em regime de comissão de serviço, por períodos de 3 anos, renováveis, pelo Ministro da Justiça, sob proposta do director do Centro de Estudos Judiciários, de entre licenciados com reconhecida competência.
 
 2 - Para efeitos de vencimento, o cargo de director do Gabinete de Estudos Jurídico-Sociais é equiparado ao de juiz de relação.
 
 3 - Os responsáveis pelos departamentos de estudo são nomeados pelo Ministro da Justiça, sob proposta do conselho técnico, de entre professores do Centro de Estudos Judiciários, magistrados judiciais ou do ministério público e professores universitários, em regime de acumulação.
 
-###### Art. 6.º Ao director do Gabinete de Estudos Jurídico-Sociais compete:
+Art. 6.º Ao director do Gabinete de Estudos Jurídico-Sociais compete:
 
 a) Orientar directamente a execução do plano anual de actividades;
 
@@ -163,7 +174,7 @@ b) Executar e fazer executar as disposições legais e regulamentares relativas 
 
 c) Propor a publicação dos estudos promovidos pelo Gabinete que repute de qualidade.
 
-###### Art. 7.º Ao Gabinete de Estudos Jurídico-Sociais compete:
+Art. 7.º Ao Gabinete de Estudos Jurídico-Sociais compete:
 
 a) Preparar o plano anual de actividades do Gabinete;
 
@@ -179,9 +190,9 @@ f) Proceder, em articulação com a Biblioteca do Centro de Estudos Judiciários
 
 g) Assegurar a publicação e a difusão de estudos promovidos pelo Gabinete sempre que de reconhecida qualidade.
 
-###### Art. 8.º A Biblioteca é dirigida pelo director de estudos do Centro de Estudos Judiciários.
+Art. 8.º A Biblioteca é dirigida pelo director de estudos do Centro de Estudos Judiciários.
 
-###### Art. 9.º À Biblioteca compete:
+Art. 9.º À Biblioteca compete:
 
 a) Prestar apoio documental, técnico, de informação e de formação geral ao Centro de Estudos Judiciários;
 
@@ -191,20 +202,20 @@ c) Organizar o banco de dados para apoio ao Gabinete de Estudos Jurídico-Sociai
 
 d) Promover a realização de sessões públicas sobre o livro jurídico.
 
-###### Art. 10.º O Museu é dirigido pelo director do Gabinete de Estudos Jurídico-Sociais.
+Art. 10.º O Museu é dirigido pelo director do Gabinete de Estudos Jurídico-Sociais.
 
-###### Art. 11.º Ao Museu compete a recolha, catalogação, guarda e exposição dos objectos de interesse didáctico, cultural e histórico ilustrativos da vida dos tribunais e ligados ao exercício da justiça em Portugal.
+Art. 11.º Ao Museu compete a recolha, catalogação, guarda e exposição dos objectos de interesse didáctico, cultural e histórico ilustrativos da vida dos tribunais e ligados ao exercício da justiça em Portugal.
 
-###### Art. 12.º O actual quadro de pessoal do Centro de Estudos Judiciários será alterado por portaria conjunta dos Ministros da Justiça e das Finanças e do Plano e do Secretário de Estado da Administração Pública, a publicar no prazo de 90 dias a partir da data da entrada em vigor do presente diploma.
+Art. 12.º O actual quadro de pessoal do Centro de Estudos Judiciários será alterado por portaria conjunta dos Ministros da Justiça e das Finanças e do Plano e do Secretário de Estado da Administração Pública, a publicar no prazo de 90 dias a partir da data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Augusto Seabra.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Maio de 1984.**
+Referendado em 9 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

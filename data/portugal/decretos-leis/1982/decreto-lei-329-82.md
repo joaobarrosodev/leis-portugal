@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1982-397880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bc2249bd246d1ed297c5f50d3ba6e90224896326a78cbfdc84cb3927db63026
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d692e90520875c20f3a1b91c7553f8a82f02e514af9dc4a91ab9ba82852736b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Urbano para Habitação
+- CASA do Estado
+- Habitação Social
+- Renda Condicionada
+- Venda de Imóveis
+relationships:
+- type: cites
+  target: pt:dre:312231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600961:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:05Z'
   warnings: []
   errors: []
 ---
@@ -103,18 +128,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A alienação, pelos proprietários, das casas económicas construídas ao abrigo do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, fica sujeita ao disposto no artigo 8.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro.
+Artigo 1.º - 1 - A alienação, pelos proprietários, das casas económicas construídas ao abrigo do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, fica sujeita ao disposto no artigo 8.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro.
 
 2 - Ao arrendamento, pelos proprietários, das casas económicas referidas no número anterior aplica-se o regime de renda condicionada previsto no [Decreto-Lei n.º 148/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1981-574334), de 4 de Junho.
 
-###### Art. 2.º Serão canceladas gratuitamente as inscrições dos ónus de casal de família lavradas nos termos do § 3.º do artigo 2.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933.
+Art. 2.º Serão canceladas gratuitamente as inscrições dos ónus de casal de família lavradas nos termos do § 3.º do artigo 2.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933.
 
-###### Art. 3.º É revogado o artigo 1.º do [Decreto-Lei n.º 376/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1976-428220), de 19 de Maio.
+Art. 3.º É revogado o artigo 1.º do [Decreto-Lei n.º 376/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1976-428220), de 19 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Julho de 1982.**
+Promulgado em 29 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

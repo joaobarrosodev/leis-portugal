@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13200/20862086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1983-451845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 088670058e96bac72e77a86d63c31d192e2308cc697f80cb8944bc847e48bce5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24ce548a660b55d56a0d356a2e924f9d621e6647dbe8e0450556c4fe0acba7c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda à Modernização
+- Benefícios Fiscais
+- Cabotagem
+- Direitos Aduaneiros
+- Embarcação de Pesca
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683268:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:36Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +122,7 @@ Considerando que tais incentivos passam necessariamente pelo alargamento da apli
 
 Usando da autorização parcial concedida pela alínea j) do artigo 19.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O benefício previsto no [Decreto n.º 3292](https://diariodarepublica.pt/dr/detalhe/decreto/3292-1917-496543), de 14 de Agosto de 1917, é aplicável às embarcações:
+Artigo 1.º - 1 - O benefício previsto no [Decreto n.º 3292](https://diariodarepublica.pt/dr/detalhe/decreto/3292-1917-496543), de 14 de Agosto de 1917, é aplicável às embarcações:
 
 a) De cabotagem e de longo curso;
 
@@ -110,20 +138,20 @@ f) De pesca de cerco.
 
 2 - Exceptuam-se das alíneas c) e d) do número anterior as embarcações de pesca local.
 
-###### Art. 2.º As disposições do presente diploma são aplicáveis aos pedidos pendentes formulados ao abrigo do [Decreto n.º 3292](https://diariodarepublica.pt/dr/detalhe/decreto/3292-1917-496543), cujos direitos e demais imposições se encontrem garantidos.
+Art. 2.º As disposições do presente diploma são aplicáveis aos pedidos pendentes formulados ao abrigo do [Decreto n.º 3292](https://diariodarepublica.pt/dr/detalhe/decreto/3292-1917-496543), cujos direitos e demais imposições se encontrem garantidos.
 
-###### Art. 3.º Aos serviços competentes do ministério da tutela cumpre fiscalizar a correcta aplicação dos respectivos materiais e equipamentos e bem assim dar imediato conhecimento à Direcção-Geral das Alfândegas dos casos de desvio do destino ou aplicação dos referidos bens.
+Art. 3.º Aos serviços competentes do ministério da tutela cumpre fiscalizar a correcta aplicação dos respectivos materiais e equipamentos e bem assim dar imediato conhecimento à Direcção-Geral das Alfândegas dos casos de desvio do destino ou aplicação dos referidos bens.
 
-###### Art. 4.º É revogado o [Decreto n.º 36178](https://diariodarepublica.pt/dr/detalhe/decreto/36178-1947-414466), de 12 de Março de 1947.
+Art. 4.º É revogado o [Decreto n.º 36178](https://diariodarepublica.pt/dr/detalhe/decreto/36178-1947-414466), de 12 de Março de 1947.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Basílio Adolfo Mendonça Horta da Franca
 
-**Promulgado em 17 de Maio de 1983.**
+Promulgado em 17 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Maio de 1983.**
+Referendado em 26 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

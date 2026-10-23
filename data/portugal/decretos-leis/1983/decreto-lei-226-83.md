@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12200/19401945.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,144 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6357c61faee085295422e6ad6944175e9b7989a145495bea73376c42bbe2ed6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d7ad87c97a2efa9a6d049dfc3cf0bffc31242b3e3f0dd5420f9ef7df08edb88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Prevenção do Tabagismo
+- Criação de Serviços
+- Orgânica
+- Saúde
+- Tabaco
+- Tabagismo
 relationships:
 - type: amended_by
   target: pt:dre:636938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180980:por
+  label: "Alterado o nº 4 e aditado um nº5 ao artigo 6º pelo DEC LEI.333/85.20.08.1985.PCM, DR.IS [190] de 20.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1985-180980
+  date: '1985-08-20'
+- type: amended_by
+  target: pt:dre:371779:por
+  label: Alterada a al. a) do n.º 1 do art. 8.º pelo(a) Portaria n.º 388/88 - Diário da República n.º 138/1988, Série I de
+    1988-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/388-1988-371779
+  date: '1988-06-17'
+- type: amended_by
+  target: pt:dre:358361:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º (na redacção do Dec Lei 333/85, de 20-ago), 8.º (na redacção da Port
+    388/88, de 17-jun), 13.º, 15.º e 17.º, aditados os arts. 9.º-A, 9.º-B e 9.º-C, e revogado o n.º 4 do art. 2.º, o n.º 4
+    do art. 6.º (na redacção do Dec Lei 333/85, de 20-ago) e os arts. 10.º e 11.º do presente diploma, pelo(a) Decreto-Lei
+    n.º 393/88 - Diário da República n.º 258/1988, Série I de 1988-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/393-1988-358361
+  date: '1988-11-08'
+- type: amended_by
+  target: pt:dre:618299:por
+  label: "Alterado o art. 2º pelo DEC LEI.287/89.30.08.1989.MPAT, DR.IS [199] de 30.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1989-618299
+  date: '1989-08-30'
+- type: amended_by
+  target: pt:dre:573146:por
+  label: "Alterado o art. 8º (na redacção do Dec Lei 393/88, de 08-Nov) do presente diploma, pelo DEC LEI.253/90.04.08.1990.MARN,\
+    \ DR.IS [[179]] de 04.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1990-573146
+  date: '1990-08-04'
+- type: amended_by
+  target: pt:dre:630782:por
+  label: "Alterados os art.s 1º (na redacção do Dec Lei 393/88, de 08-Nov) e 8º (na redacção do Dec Lei 393/88, de 08-Nov,\
+    \ e Dec Lei 253/90, de 04-Ago, pelo DEC LEI.200/91.29.05.1991.MS, DR.IS-A [123] de 29.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1991-630782
+  date: '1991-05-29'
+- type: amended_by
+  target: pt:dre:616446:por
+  label: "Alterados os arts. 9.º-B, 9.º-C, 13.º (os três na redacção do Dec Lei 393/88, de 08-Nov), 14.º, 15.º e 17.º pelo\
+    \ DEC LEI.276/92.12.12.1992.MS, DR.IS-A [286] de 12.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1992-616446
+  date: '1992-12-12'
+- type: amended_by
+  target: pt:dre:241406:por
+  label: "Alterado o art. 2º, na redacção dada pelo Dec Lei 393/88 de 08-Nov, pelo Dec lei 200/91 de 29-Mai e pelo Dec Lei\
+    \ 200/91 de 29-Mai, pelo DEC LEI.283/98.1998.09.17.MEPAT, DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/283-1998-241406
+  date: '1998-09-17'
+- type: amended_by
+  target: pt:dre:209590:por
+  label: "Alterado o art. 1º deste diploma, com a redacção dada pelos Dec Lei 333/85 de 20-Ago, 393/88 de 08-Nov, 287/89 de\
+    \ 30-Ago, 253/90 de 04-Ago, 200/91 de 20-Mai, 276/92 de 12-Dez e 283/98 de 17-Set, pelo DEC LEI.25/2003.2003.02.04.MS\
+    \ DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2003-209590
+  date: '2003-02-04'
+- type: amended_by
+  target: pt:dre:693254:por
+  label: "Alterado o art. 3º, na redacção do Dec Lei 393/88 de 8-Nov pelo DEC LEI.138/2003.2003.06.28.MOPTH , DR.IS-A [147]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2003-693254
+  date: '2003-06-28'
+- type: amended_by
+  target: pt:dre:538997:por
+  label: "Alterados os arts. 1º, 6º, 9º-A e 9º-B e revogado o art. 9º-C do presente diploma - com as alterações introduzidas\
+    \ pelos Dec Lei 333/85 de 20-Ago, 393/88 de 08-Nov, 200/91 de 29-Mai, 276/92 de 12-Dez e 25/2003 de 04-Fev - bem com é\
+    \ aditado o art. 6º-A pelo DEC LEI.14/2006.20.01.2006.MS, DR.IS-A [15] de 20.01.2006, que o republica na íntegra com todas\
+    \ as alterações\0es\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2006-538997
+  date: '2006-01-20'
+- type: cites
+  target: pt:dre:272267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461621:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636938:por
+  label: "Revogado, a partir de 01.01.2008, pela LEI.37/2007.14.08.2007.AR, DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2007-636938
+  date: '2007-08-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:11Z'
   warnings: []
   errors: []
 ---
@@ -329,20 +433,20 @@ A extensão do regime estabelecido no presente diploma às Regiões Autónomas d
 
 Visto e aprovado em Conselho de Ministros de 7 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 6 de Maio de 1983.**
+Promulgado em 6 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Maio de 1983.**
+Referendado em 10 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 MODELO A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12200/19401945.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12200/19401945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12200/19401945.pdf)
 
 MODELO B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12200/19401945.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12200/19401945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12200/19401945.pdf)

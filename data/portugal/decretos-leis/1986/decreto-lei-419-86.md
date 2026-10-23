@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1986-210632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f97a32931b102bf56c5eb0a2c8b32ac16e35940b119e632a4d164017f73d044
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2849153d99caa78577e9999d92c3835a500b06e20034c1a896b6b9b4e3e2b280
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento
+- Ministério das Obras Públicas Transportes e Comunicações
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:515597:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515597:por
+  label: Extinto o Gabinete de Estudos e Planeamento, na data da entrada em vigor do diploma referido no n.º 3 do art. 5.º,
+    e alteradas as als. b) e c) do n.º1 do art. 2.º, relativamente à transferência de competências desse Gabinete para a Direcção
+    Geral de Transportes Terrestre e Instituto de Gestão e Alienação do Património Habitacional do Estado, pelo(a) Decreto-Lei
+    n.º 99/92 - Diário da República n.º 123/1992, Série I-A de 1992-05-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1992-515597
+  date: '1992-05-28'
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:523430:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 75/1987, 1º Suplemento, Série I de 1987-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-523430
+  date: '1987-03-31'
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:15Z'
   warnings: []
   errors: []
 ---
@@ -368,14 +396,14 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 14 de Novembro de 1986.**
+Promulgado em 14 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Novembro de 1986.**
+Referendado em 20 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29200/37643769.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29200/37643769.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29200/37643769.pdf)

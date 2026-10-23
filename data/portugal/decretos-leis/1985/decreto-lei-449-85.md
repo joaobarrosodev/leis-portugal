@@ -48,36 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1985-177873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbf8fabfe7ae4e02404cce78a6570dbd05299c7c51fff039de19fdcf21490527
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71c6e429d23d3f9aebf79b828392e3778222ebcb6b16cb3009a4bd55c41c745a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aldeamento Turístico
+- Estabelecimento Hoteleiro
+- Parque de Campismo
+- Segurança dos Edifícios
+- Seguro Obrigatório de Responsabilidade Civil
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:141628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462272:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:19Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +128,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os proprietários e os que tiverem a direcção efectiva das instalações referidas no artigo 2.º são solidariamente responsáveis, nos termos fixados no n.º 1 do artigo 509.º do Código Civil, pelos danos ou prejuízos resultantes das próprias redes internas ou ramais de distribuição dos gases a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 512/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1980-462272), de 28 de Outubro, bem como dos aparelhos ou utensílios destinados ao uso dos gases, designadamente os derivados da sua deficiente instalação, dos sistemas de evacuação dos produtos da combustão, da ventilação dos locais e da ausência de certificados dos aparelhos nos termos da lei.
+Artigo 1.º - 1 - Os proprietários e os que tiverem a direcção efectiva das instalações referidas no artigo 2.º são solidariamente responsáveis, nos termos fixados no n.º 1 do artigo 509.º do Código Civil, pelos danos ou prejuízos resultantes das próprias redes internas ou ramais de distribuição dos gases a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 512/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1980-462272), de 28 de Outubro, bem como dos aparelhos ou utensílios destinados ao uso dos gases, designadamente os derivados da sua deficiente instalação, dos sistemas de evacuação dos produtos da combustão, da ventilação dos locais e da ausência de certificados dos aparelhos nos termos da lei.
 
 2 - A responsabilidade fixada pelo número anterior é excluída se provar que ao tempo do acidente a rede interna ou o ramal de distribuição e os aparelhos ou utensílios se encontravam de acordo com os requisitos técnicos de certificação de instalação e de segurança de utilização em vigor e em perfeito estado de conservação ou que o acidente é imputável ao próprio lesado ou a terceiro.
 
@@ -126,7 +152,7 @@ b) Embora não certificados por a sua instalação ser anterior ao [Decreto-Lei 
 
 7 - A responsabilidade de que trata o n.º 1 deste artigo é aplicável o disposto no n.º 2 do artigo 509.º e no n.º 1 do artigo 510.º do Código Civil, com as necessárias adaptações.
 
-###### Art. 2.º Consideram-se abrangidos pelo disposto no artigo anterior:
+Art. 2.º Consideram-se abrangidos pelo disposto no artigo anterior:
 
 a) Todos os estabelecimentos classificados pelas entidades competentes como hoteleiros, aldeamentos turísticos, apartamentos turísticos e parques de campismo;
 
@@ -136,7 +162,7 @@ c) Todas as unidades de alojamento ou quaisquer outras instalações que constit
 
 d) Todas e quaisquer instalações locadas por períodos que não excedam 2 meses, independentemente de terem sido objecto de qualquer classificação.
 
-###### Art. 3.º - 1 - A responsabilidade de que trata o artigo 1.º deste diploma não pode ser excluída ou limitada contratualmente entre o locador e o locatário antes do acidente.
+Art. 3.º - 1 - A responsabilidade de que trata o artigo 1.º deste diploma não pode ser excluída ou limitada contratualmente entre o locador e o locatário antes do acidente.
 
 2 - A responsabilidade de que trata o presente diploma abrange igualmente os danos referidos no n.º 1 do artigo 1.º ocorridos até 30 dias após o termo do período de validade do certificado de inspecção mencionado no n.º 3 do mesmo artigo, salvo quando o requerimento para a sua revalidação tenha dado entrada nos serviços da entidade competente até 30 dias antes de tal termo.
 
@@ -144,7 +170,7 @@ d) Todas e quaisquer instalações locadas por períodos que não excedam 2 mese
 
 4 - A apólice de seguro prevista no número anterior será aprovada por portaria do Ministro das Finanças e do Plano.
 
-###### Art. 4.º - 1 - Sem prejuízo da responsabilidade de que trata o artigo 1.º a Direcção-Geral do Turismo bem como a câmara municipal respectiva podem, mediante prévia vistoria, determinar o encerramento imediato de qualquer das instalações referidas no artigo 2.º nos seguintes casos:
+Art. 4.º - 1 - Sem prejuízo da responsabilidade de que trata o artigo 1.º a Direcção-Geral do Turismo bem como a câmara municipal respectiva podem, mediante prévia vistoria, determinar o encerramento imediato de qualquer das instalações referidas no artigo 2.º nos seguintes casos:
 
 a) Sempre que se verifique que as redes internas ou os ramais de distribuição, bem como os aparelhos ou utensílios nelas existentes, não satisfazem os requisitos técnicos de segurança de utilização, nomeadamente quanto aos aparelhos referidos na parte final do n.º 1 do artigo 1.º;
 
@@ -156,7 +182,7 @@ b) Sempre que se verifique nelas qualquer acidente motivado pela utilização de
 
 4 - No caso do encerramento das instalações previsto no n.º 1, os sujeitos referidos no n.º 1 do artigo 1.º deverão indemnizar os locatários desalojados em montante correspondente aos dias de alojamento vincendos já reservados, no mínimo de 5 diárias, sem prejuízo do dispositivo legal sobre o enriquecimento sem causa, uma vez realojados os locatários.
 
-###### Art. 5.º - 1 - Independentemente das providências previstas no artigo anterior, as entidades distribuidoras de gás e os respectivos agentes ou revendedores são obrigados a suspender os fornecimentos destinados às instalações referidas no artigo 2.º que não apresentem, além do seguro a que se refere o n.º 3 do artigo 3.º, termo de responsabilidade ou certificado de inspecção válidos.
+Art. 5.º - 1 - Independentemente das providências previstas no artigo anterior, as entidades distribuidoras de gás e os respectivos agentes ou revendedores são obrigados a suspender os fornecimentos destinados às instalações referidas no artigo 2.º que não apresentem, além do seguro a que se refere o n.º 3 do artigo 3.º, termo de responsabilidade ou certificado de inspecção válidos.
 
 2 - As entidades, bem como os seus agentes ou revendedores, que suspenderem os fornecimentos nos termos do número anterior são obrigadas a comunicar o facto à Direcção-Geral do Turismo, à Direcção-Geral de Energia, à câmara municipal e ao respectivo órgão local ou regional de turismo nos 15 dias seguintes à data da suspensão.
 
@@ -166,26 +192,26 @@ b) Sempre que se verifique nelas qualquer acidente motivado pela utilização de
 
 5 - A instrução dos processos destinados à aplicação das multas a que se referem os n.os 3 e 4 deste artigo é da competência da Direcção-Geral de Energia, cabendo a sua aplicação ao director-geral, de cujas decisões cabe recurso nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Art. 6.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, a Direcção-Geral do Turismo habilitará as entidades distribuidoras de gás e respectivos agentes ou revendedores com lista nominativa dos estabelecimentos compreendidos nas alíneas a), b) e c) do artigo 2.º
+Art. 6.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, a Direcção-Geral do Turismo habilitará as entidades distribuidoras de gás e respectivos agentes ou revendedores com lista nominativa dos estabelecimentos compreendidos nas alíneas a), b) e c) do artigo 2.º
 
 2 - Verificando-se dúvidas quanto à inserção de instalações não classificadas na alínea d) do artigo 2.º poderão as entidades referidas no número anterior exigir dos respectivos proprietários documento em que se declare expressamente que a instalação não se encontra abrangida por aquele disposição.
 
-###### Art. 7.º - 1 - A entidade competente para a emissão de certificado de inspecção, se não puder fazê-la no prazo de 15 dias contados da data em que foi requerido, é obrigada a passar ao interessado documento comprovativo da entrada do pedido, com indicação da data previsível da sua emissão.
+Art. 7.º - 1 - A entidade competente para a emissão de certificado de inspecção, se não puder fazê-la no prazo de 15 dias contados da data em que foi requerido, é obrigada a passar ao interessado documento comprovativo da entrada do pedido, com indicação da data previsível da sua emissão.
 
 2 - O documento previsto no número anterior, que terá a validade de 1 mês, substituirá o certificado de inspecção para todos os efeitos, sem prejuízo da responsabilidade do interessado a que se refere o artigo 1.º
 
-###### Art. 8.º O regime do presente decreto-lei aplica-se nas regiões autónomas, com as devidas adaptações.
+Art. 8.º O regime do presente decreto-lei aplica-se nas regiões autónomas, com as devidas adaptações.
 
-###### Art. 9.º É revogado o [Decreto-Lei n.º 399/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1983-443560), de 8 de Novembro.
+Art. 9.º É revogado o [Decreto-Lei n.º 399/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1983-443560), de 8 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Alípio Barrosa Pereira Dias - José Veiga Simão - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Outubro de 1985.**
+Referendado em 14 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

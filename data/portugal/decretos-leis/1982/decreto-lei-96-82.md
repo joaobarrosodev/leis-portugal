@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1982-608479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 501e139af12c8bb03ce952861eb86b376af692883a56a21f76934b5f97b51981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99c8424b7c3627e821579bdb33e677b1074848ae01e982fdd630b7589d41f028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Funcionário Público
+- Integração de Trabalhadores
+- Ministério das Finanças e do Plano
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:00Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +108,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O corpo de fiscalização da Inspecção-Geral de Finanças (IGF) colocado junto das fábricas de fósforos será extinto a partir do momento em que for abolido o imposto de consumo sobre os fósforos.
+Artigo 1.º O corpo de fiscalização da Inspecção-Geral de Finanças (IGF) colocado junto das fábricas de fósforos será extinto a partir do momento em que for abolido o imposto de consumo sobre os fósforos.
 
-###### Art. 2.º - 1 - Os chefes de posto do quadro da fiscalização da IGF serão integrados na categoria de primeiro-oficial do quadro administrativo da IGF, com efeitos a partir do momento indicado no artigo 3.º, n.º 2.
+Art. 2.º - 1 - Os chefes de posto do quadro da fiscalização da IGF serão integrados na categoria de primeiro-oficial do quadro administrativo da IGF, com efeitos a partir do momento indicado no artigo 3.º, n.º 2.
 
 2 - São criados 3 lugares de primeiro oficial no quadro do pessoal administrativo da IGF, a extinguir quando vagarem.
 
-###### Art. 3.º - 1 - Os agentes fiscais do quadro do pessoal da fiscalização da IGF colocados junto das fábricas de fósforos, no momento da abolição do imposto de consumo, serão integrados no quadro paralelo da Direcção-Geral das Alfândegas (DGA) criado pela [Portaria n.º 298/77](https://diariodarepublica.pt/dr/detalhe/portaria/298-1977-252803), de 25 de Maio, sendo-lhes aplicável o regime geral de pessoal nela estabelecido.
+Art. 3.º - 1 - Os agentes fiscais do quadro do pessoal da fiscalização da IGF colocados junto das fábricas de fósforos, no momento da abolição do imposto de consumo, serão integrados no quadro paralelo da Direcção-Geral das Alfândegas (DGA) criado pela [Portaria n.º 298/77](https://diariodarepublica.pt/dr/detalhe/portaria/298-1977-252803), de 25 de Maio, sendo-lhes aplicável o regime geral de pessoal nela estabelecido.
 
 2 - A integração referida no número anterior produz efeitos a partir da data da abolição do imposto de consumo sobre fósforos e far-se-á de acordo com a seguinte tabela de equivalências.
 
@@ -110,20 +122,20 @@ Agente fiscal principal - técnico auxiliar de verificação de 1.ª classe.
 
 Agente fiscal de 1.ª classe ou de 2.ª classe - técnico auxiliar de verificação de 2.ª classe.
 
-###### Art. 4.º A IGF assegurará o pagamento a todo o pessoal da fiscalização até ao ingresso dos agentes fiscais na DGA.
+Art. 4.º A IGF assegurará o pagamento a todo o pessoal da fiscalização até ao ingresso dos agentes fiscais na DGA.
 
-###### Art. 5.º A IGF fará transitar para a DGA os processos individuais dos agentes fiscais que ingressem nos quadros deste departamento ao abrigo do presente diploma.
+Art. 5.º A IGF fará transitar para a DGA os processos individuais dos agentes fiscais que ingressem nos quadros deste departamento ao abrigo do presente diploma.
 
-###### Art. 6.º A antiguidade nas novas categorias conta-se a partir do ingresso nas mesmas.
+Art. 6.º A antiguidade nas novas categorias conta-se a partir do ingresso nas mesmas.
 
-###### Art. 7.º O visto do Tribunal de Contas far-se-á sem prejuízo do momento da transição, a que se refere o artigo 3.º, n.º 2.
+Art. 7.º O visto do Tribunal de Contas far-se-á sem prejuízo do momento da transição, a que se refere o artigo 3.º, n.º 2.
 
-###### Art. 8.º As dúvidas resultantes da aplicação deste decreto-lei serão esclarecidas mediante despacho do Ministro das Finanças e do Plano.
+Art. 8.º As dúvidas resultantes da aplicação deste decreto-lei serão esclarecidas mediante despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Março de 1982.**
+Promulgado em 25 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

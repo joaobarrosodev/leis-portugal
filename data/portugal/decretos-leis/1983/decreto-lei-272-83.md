@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1983-452017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab37c76d4b5a04511079ae10209343a9fe49a2fc7bdd98b2538500ac1cda1a49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41d0124aff2dab6ab1c655cde7db9142f7b271597488c3245aec845c12041496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Pessoal Técnico Auxiliar Sanitário
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654543:por
+  label: "Substituido o quadro II anexo ao presente diploma pelo DEC LEI.119/84.1984.04.09.PCM DR.IS [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1984-654543
+  date: '1984-04-09'
+- type: cites
+  target: pt:dre:138077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:04Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +120,7 @@ Neste momento impõe-se a revisão da referida carreira, não só porque carreir
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Definição)
 
@@ -142,7 +168,7 @@ Participação na peritagem relativa ao encerramento, em caixões de chumbo ou z
 
 f) Colaboração com as demais equipas de saúde no domínio das suas atribuições.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Formação)
 
@@ -150,7 +176,7 @@ f) Colaboração com as demais equipas de saúde no domínio das suas atribuiç�
 
 2 - A partir do ingresso na carreira, o técnico auxiliar sanitário segue regularmente as modalidades de formação profissional que forem determinadas para efeitos de reciclagem e aperfeiçoamento.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Graduações)
 
@@ -160,7 +186,7 @@ f) Colaboração com as demais equipas de saúde no domínio das suas atribuiç�
 
 3 - Ao grau IV, para além dessas funções, correspondem ainda funções de coordenação de equipa de técnicos auxiliares sanitários, a nível regional, devendo existir um coordenador por cada distrito, salvo Porto e Lisboa, em que poderão existir, respectivamente, 3 e 4, e podendo ainda haver mais 2 nos serviços centrais.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Ingresso e acesso)
 
@@ -176,7 +202,7 @@ f) Colaboração com as demais equipas de saúde no domínio das suas atribuiç�
 
 6 - As condições de ingresso e acesso previstas neste artigo não prejudicam o preceituado no artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Normas de transição)
 
@@ -196,7 +222,7 @@ f) Colaboração com as demais equipas de saúde no domínio das suas atribuiç�
 
 8 - Os técnicos auxiliares sanitários de 1.ª classe que possuam, pelo menos, 6 anos de serviço na carreira podem candidatar-se ao primeiro concurso de promoção que seja aberto após a entrada em vigor deste diploma.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Quadros)
 
@@ -206,7 +232,7 @@ f) Colaboração com as demais equipas de saúde no domínio das suas atribuiç�
 
 3 - Se da execução dos n.os 2 a 6 do artigo anterior resultar em alguma categoria número de funcionários a integrar superior ao dos lugares previstos nos n.os 1 e 2 do presente artigo, devem os mesmos funcionários ser integrados na categoria a que tenham direito, tendo em conta as vagas que existam nas categorias superiores, acrescendo-se para o efeito os necessários lugares, que se extinguirão quando vagarem.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Colocações)
 
@@ -216,24 +242,24 @@ f) Colaboração com as demais equipas de saúde no domínio das suas atribuiç�
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 26 de Maio de 1983.**
+Promulgado em 26 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Maio de 1983.**
+Referendado em 30 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 I
 
 Quadro anexo previsto no n.º 1 do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf)
 
 II
 
 Quadro anexo previsto no n.º 1 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf)

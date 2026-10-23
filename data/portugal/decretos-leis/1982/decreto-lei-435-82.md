@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25200/35993602.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1982-378147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 357771e5e4aecf00cf23af26b79e3af00edb885020f349ed177de68c51ed41c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac833d58a7e33271bf958509b41706294e492eea21ce4224636c78e9e3c58c8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aldeamento Turístico
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:221697:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311441:por
+  label: "Suspenso pela RES.1/83.1983.02.22.AR DR.IS [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/1-1983-311441
+  date: '1983-02-22'
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522612:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221697:por
+  label: "Revogado pelo DEC LEI.328/86.30.09.1986.PCM, DR.IS [225] de 30.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1986-221697
+  date: '1986-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:13Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +128,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São classificados como aldeamentos turísticos os conjuntos urbanísticos constituídos por um complexo de instalações interdependentes objecto de uma exploração turística integrada, que se destinem a proporcionar aos seus utilizadores, mediante remuneração, uma forma de alojamento para-hoteleiro, com equipamento complementar e de apoio.
+Artigo 1.º - 1 - São classificados como aldeamentos turísticos os conjuntos urbanísticos constituídos por um complexo de instalações interdependentes objecto de uma exploração turística integrada, que se destinem a proporcionar aos seus utilizadores, mediante remuneração, uma forma de alojamento para-hoteleiro, com equipamento complementar e de apoio.
 
 2 - Os aldeamentos turísticos, como tal classificados pela Direcção-Geral do Turismo, são considerados, nos termos do n.º 1 do artigo 10.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, estabelecimentos de interesse para o turismo.
 
 3 - Só os empreendimentos classificados pela Direcção-Geral do Turismo como «aldeamentos turísticos» poderão usar esta qualificação ou qualquer outra que com ela se possa confundir, tal como «aldeias turísticas» ou «aldeias de férias».
 
-###### Art. 2.º A classificação de aldeamento turístico só poderá ser atribuída a um complexo com o mínimo de 100 camas, instalado e explorado segundo o regime estabelecido neste diploma e regulamentos aplicáveis.
+Art. 2.º A classificação de aldeamento turístico só poderá ser atribuída a um complexo com o mínimo de 100 camas, instalado e explorado segundo o regime estabelecido neste diploma e regulamentos aplicáveis.
 
-###### Art. 3.º - 1 - A gestão do aldeamento turístico, incluindo a exploração e comercialização dos estabelecimentos e serviços nele existentes, designadamente do serviço de alojamento, terá de ser realizada, globalmente, por uma única entidade, registada na Direcção-Geral do Turismo como entidade exploradora, nos termos da legislação hoteleira.
+Art. 3.º - 1 - A gestão do aldeamento turístico, incluindo a exploração e comercialização dos estabelecimentos e serviços nele existentes, designadamente do serviço de alojamento, terá de ser realizada, globalmente, por uma única entidade, registada na Direcção-Geral do Turismo como entidade exploradora, nos termos da legislação hoteleira.
 
 2 - Só poderão ser registadas como entidades exploradoras de aldeamentos turísticos pessoas que sejam titulares, por qualquer título legítimo, do direito de utilizar as infra-estruturas que, necessariamente e nos termos legais, integram o aldeamento e bem assim do direito de disporem para alojamento de um mínimo de 100 camas.
 
@@ -118,19 +146,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Às relações entre a entidade exploradora e os seus clientes não são aplicáveis as disposições legais relativas à locação, mas o regime jurídico dos estabelecimentos hoteleiros e similares e das respectivas actividades e serviços, designadamente o Regulamento da Indústria Hoteleira e Similares.
 
-###### Art. 4.º - 1 - A unidade de gestão do aldeamento turístico não é impeditiva da propriedade das várias unidades de alojamento nele existentes por uma pluralidade de pessoas jurídicas.
+Art. 4.º - 1 - A unidade de gestão do aldeamento turístico não é impeditiva da propriedade das várias unidades de alojamento nele existentes por uma pluralidade de pessoas jurídicas.
 
 2 - Quando as unidades de alojamento não forem propriedade da entidade exploradora, deve o direito à exploração turística dessas unidades constar de contrato escrito.
 
 3 - A desafectação de uma ou mais unidades de alojamento da exploração e comercialização do aldeamento não prejudica a sua qualificação como tal, salvo se, por esse facto, deixar de existir o número mínimo de 100 camas em exploração.
 
-###### Art. 5.º - 1 - É vedado aos proprietários das diferentes unidades de alojamento alterarem, por qualquer meio, o volume, as características arquitectónicas e as cores externas dos edifícios definidos nos projectos do aldeamento, licenciados pela respectiva câmara municipal.
+Art. 5.º - 1 - É vedado aos proprietários das diferentes unidades de alojamento alterarem, por qualquer meio, o volume, as características arquitectónicas e as cores externas dos edifícios definidos nos projectos do aldeamento, licenciados pela respectiva câmara municipal.
 
 2 - Os proprietários também não poderão prejudicar a continuidade dos jardins e zonas verdes, a implantação dos acessos e a unidade urbanística do aldeamento turístico, nomeadamente pela prática de actos que pretendam demarcar, murar, valar, rodear de sebes rígidas ou tapar as suas unidades de alojamento.
 
 3 - A entidade exploradora tem a faculdade de embargar as obras realizadas em infracção ao disposto nos números anteriores, nos mesmos termos do proprietário comum.
 
-###### Art. 6.º - 1 - Os proprietários das diferentes unidades de alojamento integradas no aldeamento turístico deverão manter um nível de conservação exterior dos edifícios e dos jardins próprios semelhante ao da entidade exploradora.
+Art. 6.º - 1 - Os proprietários das diferentes unidades de alojamento integradas no aldeamento turístico deverão manter um nível de conservação exterior dos edifícios e dos jardins próprios semelhante ao da entidade exploradora.
 
 2 - Se o proprietário estiver em mora quanto à obrigação de fazer essa conservação e se esta, pela sua urgência, se não compadecer com o normal procedimento judical, poderá a entidade exploradora requerer à comissão regional de turismo a respectiva autorização para a executar.
 
@@ -140,7 +168,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Caso a entidade exploradora seja autorizada a efectuar as obras de conservação a que se refere o n.º 2 deste artigo, terá direito ao reembolso das respectivas despesas, a exigir ao proprietário.
 
-###### Art. 7.º - 1 - Os aldeamentos turísticos serão dotados de infra-estruturas e de serviços básicos de urbanização adequados ao fim específico a que se destinam e complementares dos exigidos no alvará de loteamento a que se refere o [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), de 6 de Junho.
+Art. 7.º - 1 - Os aldeamentos turísticos serão dotados de infra-estruturas e de serviços básicos de urbanização adequados ao fim específico a que se destinam e complementares dos exigidos no alvará de loteamento a que se refere o [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), de 6 de Junho.
 
 2 - As infra-estruturas e serviços próprios dos aldeamentos definidos no número anterior não são qualificáveis como serviços públicos.
 
@@ -168,7 +196,7 @@ j) Portaria e recepção;
 
 l) Segurança e vigilância.
 
-###### Art. 8.º - 1 - As despesas de manutenção, substituição e funcionamento das infra-estruturas e serviços básicos de urbanização e de uso necessário, quer transitoriamente os exigidos pelo alvará de loteamento até serem recebidos pelos municípios, quer os complementares e específicos do aldeamento, serão suportadas por todos os proprietários das unidades imobiliárias existentes, sejam ou não de alojamento.
+Art. 8.º - 1 - As despesas de manutenção, substituição e funcionamento das infra-estruturas e serviços básicos de urbanização e de uso necessário, quer transitoriamente os exigidos pelo alvará de loteamento até serem recebidos pelos municípios, quer os complementares e específicos do aldeamento, serão suportadas por todos os proprietários das unidades imobiliárias existentes, sejam ou não de alojamento.
 
 2 - A comparticipação dos proprietários definir-se-á nos termos do contrato de exploração com a entidade exploradora, ou nos usos com base no número de camas, ou, na falta de um e outro, na proporção equitativa da sua participação na área construída no aldeamento.
 
@@ -176,7 +204,7 @@ l) Segurança e vigilância.
 
 4 - O contrato de exploração turística das unidades de alojamento referido no n.º 2 do artigo 4.º poderá isentar os respectivos proprietários do pagamento das despesas previstas neste artigo.
 
-###### Art. 9.º - 1 - A entidade exploradora elaborará e enviará a cada um dos proprietários das diferentes unidades de alojamento, até 15 de Novembro de cada ano, memória justificativa e orçamento das despesas a que se refere o artigo anterior relativos ao ano civil seguinte, indicando a quota-parte da comparticipação que a cada um caberá.
+Art. 9.º - 1 - A entidade exploradora elaborará e enviará a cada um dos proprietários das diferentes unidades de alojamento, até 15 de Novembro de cada ano, memória justificativa e orçamento das despesas a que se refere o artigo anterior relativos ao ano civil seguinte, indicando a quota-parte da comparticipação que a cada um caberá.
 
 2 - Os proprietários das diferentes unidades de alojamento, através dos respectivos órgãos representativos, têm direito a pronunciar-se sobre os documentos enviados pela entidade exploradora.
 
@@ -194,13 +222,13 @@ l) Segurança e vigilância.
 
 9 - Nas áreas não abrangidas por comissões regionais de turismo aplica-se o estatuído no n.º 4 do artigo 6.º
 
-###### Art. 10.º - 1 - Os proprietários deverão satisfazer a sua quota-parte de comparticipação nos termos acordados com a entidade exploradora ou, se o não houver, deverão proceder ao pagamento da comparticipação orçamentada.
+Art. 10.º - 1 - Os proprietários deverão satisfazer a sua quota-parte de comparticipação nos termos acordados com a entidade exploradora ou, se o não houver, deverão proceder ao pagamento da comparticipação orçamentada.
 
 2 - A comparticipação orçamentada poderá ser paga até ao máximo de 4 prestações, vencíveis em Março, Junho, Setembro e Dezembro do ano a que respeita.
 
 3 - As prestações em dívida vencerão juros à taxa que, por aplicação do disposto no artigo 559.º do Código Civil, em cada ano vigorar.
 
-###### Art. 11.º - 1 - As despesas a que se refere o artigo 8.º terão sempre suporte documental e deverão ser contabilizadas, em conta própria, pela entidade exploradora.
+Art. 11.º - 1 - As despesas a que se refere o artigo 8.º terão sempre suporte documental e deverão ser contabilizadas, em conta própria, pela entidade exploradora.
 
 2 - Os proprietários gozam do direito de examinar a escrituração e os documentos concernentes àquelas despesas, e à recusa da entidade exploradora será aplicável, com as necessárias adaptações, o disposto nos artigos 1497.º e seguintes do Código de Processo Civil.
 
@@ -210,18 +238,18 @@ l) Segurança e vigilância.
 
 5 - Decorrido esse prazo, a importância em dívida passa a vencer juros à taxa que, por aplicação do disposto no artigo 559.º do Código Civil, em cada ano vigorar.
 
-###### Art. 12.º - 1 - O regulamento dos aldeamentos turísticos será aprovado, até 31 de Dezembro de 1982, por portaria dos membros do Governo que superintendam nos sectores do turismo, ordenamento territorial e habitação e obras públicas.
+Art. 12.º - 1 - O regulamento dos aldeamentos turísticos será aprovado, até 31 de Dezembro de 1982, por portaria dos membros do Governo que superintendam nos sectores do turismo, ordenamento territorial e habitação e obras públicas.
 
 2 - Enquanto não for publicado o regulamento referido no número anterior mantém-se em vigor, na parte não revogada pelo artigo 13.º deste decreto-lei, o [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio.
 
-###### Art. 13.º São revogados o [Decreto Regulamentar n.º 83/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1980-457191), de 23 de Dezembro, e os artigos 1.º a 5.º, inclusive, do [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio.
+Art. 13.º São revogados o [Decreto Regulamentar n.º 83/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1980-457191), de 23 de Dezembro, e os artigos 1.º a 5.º, inclusive, do [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio.
 
-###### Art. 14.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho individual ou conjunto dos membros do Governo que superintendam nos sectores do turismo, ordenamento territorial e habitação e obras públicas quando estiverem em causa matérias das respectivas competências.
+Art. 14.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho individual ou conjunto dos membros do Governo que superintendam nos sectores do turismo, ordenamento territorial e habitação e obras públicas quando estiverem em causa matérias das respectivas competências.
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Setembro de 1982.**
+Promulgado em 21 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

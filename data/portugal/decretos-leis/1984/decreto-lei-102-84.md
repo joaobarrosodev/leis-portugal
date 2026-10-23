@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07500/10691076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82d1fc6b08255fbe95df1a25d7dd918643e4c06262ccce1d2840ae01286c118b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fda9e2cc16782c081665a23d9dcd202483850941df7adc78ef5840cb2d437e29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aprendizagem Profissional
+- Bolsa de Formação de Aprendizagem
+- Comissão Nacional de Aprendizagem
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem Trabalhador
+- Política de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:226416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:181041:por
+  label: "Alterado o artigo 29.º, pelo DEC LEI.338/85.21.08.1985.MTSS, DR.IS [191] de 21.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1985-181041
+  date: '1985-08-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 29 PELO DEC LEI 228/85 DR.IS [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-08-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 8, 12, 13, 14, 19, 20, 21, 22, 23, 29, 30, 31, 32 E 34 PELO DEC LEI 436/88 DR.IS [271], ADITADO\
+    \ O ART 39-A E REVOGADOS OS ART 28 E 38 PELO REFERIDO DIPLOMA\0MA\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-11-23'
+- type: amended_by
+  target: pt:dre:357329:por
+  label: "Alterados os artigos 8.º, 12.º, 13.º, 14.º, 19.º, 20.º, 21.º, 22.º, 23.º, 29.º, 30.º, 31.º, 32.º, 34.º, aditado\
+    \ o artigo 39.º-A, e revogados os artigos 28.º e 38.º, pelo DEC LEI.436/88.23.11.1988.MESS, DR.IS [271] de 23.11.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1988-357329
+  date: '1988-11-23'
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226416:por
+  label: "Revogado pelo DEC LEI.205/96.1996.10.25.MQE, DR.IS-A [248], na data da entrada em vigor do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1996-226416
+  date: '1996-10-25'
 article_structure:
   article_count: 39
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:10Z'
   warnings: []
   errors: []
 ---
@@ -516,12 +555,12 @@ Um decreto legislativo regional aprovará as normas necessárias para que, na ap
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - José Augusto Seabra - Amândio Anes de Azevedo - José Veiga Simão.
 
-**Promulgado em 10 de Março de 1984.**
+Promulgado em 10 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Março de 1984.**
+Referendado em 19 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

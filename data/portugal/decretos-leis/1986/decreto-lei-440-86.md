@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 300/1986, 5º Suplemento, Série I de 1986-12-31
   number: '300'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3874-(398) a 3874-(415)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30005/03980415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,144 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1986-627065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de0c7c2e12cada4150ea5db03961a66fde966d0a19296606f246d24cc49a44a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5299daf1d89018d9a2fa28c733265864f69f2826311e3400fffb4f22fb912fe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Administração Interna
+- Orgânica
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:649343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420454:por
+  label: "Alterado o quadro de pessoal contante do anexo I, pela PORT.617/87.18.07.1987.MF, DR.IS [163] de 18.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/617-1987-420454
+  date: '1987-07-18'
+- type: amended_by
+  target: pt:dre:496893:por
+  label: "Alterado o quadro I anexo ao presente diploma, anteriormente alterado pela Port 617/87, de 18-Jul, pela PORT.877/87.13.11.1987.MF,\
+    \ DR.IS [262] de 13.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/877-1987-496893
+  date: '1987-11-13'
+- type: amended_by
+  target: pt:dre:354168:por
+  label: "Aditado o artigo 45.º-A e dada nova redacção ao artigo 40.º pelo DEC LEI.372/88.17.10.1988.MAI, DR.IS [240] de 17.10.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1988-354168
+  date: '1988-10-17'
+- type: amended_by
+  target: pt:dre:549392:por
+  label: "Alterados os arts. 27º, 42º, 43º, 53º, 55º, 60º e 61º, aditados os arts. 55º-A, 55º-B, 55º-C, 55º-D e 55º-E, revogado\
+    \ o art. 82º e substituído o quadro II anexo ao presente diploma, pelo DEC LEI.360/89.18.10.1989.MAI, DR.IS [240] de 18.10.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1989-549392
+  date: '1989-10-18'
+- type: amended_by
+  target: pt:dre:201230:por
+  label: "Dada nova redacção aos arts. 68º, 73º, 74º e 75º pelo DEC LEI.228/96.1996.11.29.MAI DR.IS-A [277]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1996-201230
+  date: '1996-11-29'
+- type: amended_by
+  target: pt:dre:383436:por
+  label: "Alterados os arts 53º e 58º a 61º e revogados os arts 62º e 63º pelo Dec Lei 108/97.1997.05.08.MAI, DR.IS-A [106]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1997-383436
+  date: '1997-05-08'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567431:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:305842:por
+  label: Rectificado pela DECL.DD2293.30.04.1987.PCM, DR.IS [99]4ºSupl de 30.04.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-305842
+  date: '1987-04-14'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ARTIGO 82 E DADA NOVA REDACCAO AOS ARTIGOS 27,42, 43, 53, 55, 60 E 61 E ADITADOS OS ARTIGOS 55-A, 55-B,\
+    \ 55-C, 55-DE 55-E, PELO DECRETO LEI 360/89, DE 18 DE OUTUBRO, PUBLICADO NO DR.IS,240.19891209 - ALTERADO O QUADRO DE\
+    \ PESSOAL, PELA PORTARIA 1058/89,PUBLICADA NO DR.IS, 282.19920801 - REVOGADO O ARTIGO 72, PELO DECRETO LEI 160/92, 1 DEAGOSTO,\
+    \ PUBLICADO NO DR.IS-A, 176, NO QUE TOCA AO PESSOAL DEINVESTIGACAO E FISCALIZACAO.19930416 - ALTERADOS OS ARTIGOS 1, 2,\
+    \ 5, 12, 13, 14, 15, 16, 25, 66E 76, PELO DECRETO LEI 120/93, DE 16 DE ABRIL, PUBLICADO NO DR.IS-A,89, E ALTERADA A EPIGRAFE\
+    \ DA SUBSECCAO IV DA SECCAO II CAPITULO II,PELO MESMO DIPLOMA.SAO ADITADOS OS ARTIGOS 25-A, 25-B E 25-C PELO MESMO DIPLOMA.19880531\
+    \ - DADA NOVA REDACCAO AOS ARTIGOS 39 E 56 E SUBSTITUIDO OQUADRO I ANEXO, PELO DECRETO LEI 198/88, DE 31 DE MAIO, PUBLICADONO\
+    \ DR.IS, 126, ALTERADO PELA PORTARIA 617/87, DE 18 DE JULHO.19881017 - DADA NOVA REDACCAO AO ARTIGO 40 E ADITADO O ARTIGO\
+    \ 45-A,PELO DECRETO LEI 372/88, DE 17 DE OUTUBRO, PUBLICADO NO DR.IS, 240.19891018 - SUBSTITUIDO O QUADRO II ANEXO AO\
+    \ PRESENTE DIPLOMA, PELODECRETO LEI 360/89, DE 18 DE OUTUBRO, PUBLICADO NO DR.IS, 240.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-10-18'
+- type: repealed_by
+  target: pt:dre:541806:por
+  label: "Revogados os arts. 1º a 8º e 10º a 34º, os nºs 2, 3 e 4 do art. 38º e arts. 40º a 45ºpelo DEC LEI.252/2000.2000.10.16.MAI,DR.IS-A\
+    \ [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2000-541806
+  date: '2000-10-16'
+- type: repealed_by
+  target: pt:dre:649343:por
+  label: "Revogado pelo DECLEI.290-A/2001.2001.11.17.MAI,DR.IS-A [267]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-a-2001-649343
+  date: '2001-11-17'
 article_structure:
   article_count: 89
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:46Z'
   warnings: []
   errors: []
 ---
@@ -350,7 +454,9 @@ b) A Divisão de Refugiados (DR);
 
 c) A Divisão de Investigação (D. Inv.).
 
-###### Artigo 16.º — Divisão de Estrangeiros
+###### Artigo 16.º
+
+##### Divisão de Estrangeiros
 
 Compete à DE:
 
@@ -370,7 +476,9 @@ g) Instruir os processos relativos a pedidos de visto de trabalho e manter a nec
 
 h) Emitir passaportes e salvos-condutos a favor de estrangeiros.
 
-###### Artigo 17.º — Divisão de Refugiados
+###### Artigo 17.º
+
+##### Divisão de Refugiados
 
 Compete em especial à DR:
 
@@ -382,7 +490,9 @@ c) Assegurar as relações com os organismos nacionais e internacionais especial
 
 d) Elaborar os elementos estatísticos julgados necessários.
 
-###### Artigo 18.º — Divisão de Investigação
+###### Artigo 18.º
+
+##### Divisão de Investigação
 
 Compete à D. Inv.:
 
@@ -408,7 +518,9 @@ a) A Divisão de Pesquisa (D. Pesq.);
 
 b) A Divisão de Análise e Difusão (DAD).
 
-###### Artigo 20.º — Divisão de Pesquisa
+###### Artigo 20.º
+
+##### Divisão de Pesquisa
 
 Compete à D. Pesq.:
 
@@ -416,7 +528,9 @@ a) Assegurar a pesquisa e recolha de notícias e informações respeitantes a es
 
 b) Colaborar com as demais forças e serviços de segurança no controle das actividades de estrangeiros em território nacional.
 
-###### Artigo 21.º — Divisão de Análise e Difusão
+###### Artigo 21.º
+
+##### Divisão de Análise e Difusão
 
 À DAD compete:
 
@@ -438,7 +552,9 @@ a) A Divisão de Organização, Gestão e Formação de Pessoal (DOGFP);
 
 b) A Repartição de Administração Financeira Patrimonial (RAFP).
 
-###### Artigo 23.º — Divisão de Organização, Gestão e Formação de Pessoal
+###### Artigo 23.º
+
+##### Divisão de Organização, Gestão e Formação de Pessoal
 
 Compete à DOGFP:
 
@@ -500,15 +616,23 @@ b) A Secção de Economato e Património (SEP);
 
 c) A Secção de Expediente (S. Exp.).
 
-##### SUBSECÇÃO IV — Divisão de Informática
+##### SUBSECÇÃO IV
 
-###### Artigo 25.º — Divisão de Informática
+##### Divisão de Informática
+
+###### Artigo 25.º
+
+##### Divisão de Informática
 
 A DI é o departamento integrado nos serviços centrais a que compete a recolha, tratamento e memorização de dados de interesse para o SEF, de acordo com as condições previstas na lei e sempre no respeito pelos direitos, liberdades e garantias.
 
-##### SUBSECÇÃO V — Divisão de Telecomunicações
+##### SUBSECÇÃO V
 
-###### Artigo 26.º — Divisão de Telecomunicações
+##### Divisão de Telecomunicações
+
+###### Artigo 26.º
+
+##### Divisão de Telecomunicações
 
 A DT é o departamento integrado nos serviços centrais a que compete estudar e executar as actividades relativas à instalação, exploração, manutenção e segurança dos sistemas de telecomunicações do SEF.
 
@@ -530,7 +654,9 @@ d) O GRP.
 
 3 - O GI é dirigido pelo inspector superior referido no artigo 61.º e, nas suas faltas ou impedimentos, por um inspector-coordenador a designar pelo director.
 
-###### Artigo 28.º — Divisão de Planeamento
+###### Artigo 28.º
+
+##### Divisão de Planeamento
 
 Compete à DP:
 
@@ -1100,24 +1226,24 @@ O presente diploma entrará em vigor no dia 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 23 de Dezembro de 1986.**
+Promulgado em 23 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 QUADRO I
 
 Pessoal dirigente e de carreira - Categorias comuns
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30005/03980415.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30005/03980415.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30005/03980415.pdf)
 
 QUADRO II
 
 Pessoal de investigação e fiscalização (artigo 54.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30005/03980415.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30005/03980415.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30005/03980415.pdf)

@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1982-375830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 382c5720b503640aacf9a32f87630a979177a45eed078ab478a35c98a8e8b5c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 668abb86e934cdb1836c29b0b5ce388d2da69583a22825fbe25253ef3a9d3100
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Aquisição de Bens e Serviços
+- Autarquia Local
+- Concurso
+- Concurso Público
+- Contrato
+- Contrato de Concessão
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Obras Públicas
+- Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:248178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462032:por
+  label: "Alterado o art. 6º pela LEI.22/95.1995.07.18.AR, DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-1995-462032
+  date: '1995-07-18'
+- type: repealed_by
+  target: pt:dre:173688:por
+  label: "Revogados os arts. 2.º, 3.º, 4.º, 5.º, 7.º, 8.º e 9.º, pelo DEC LEI.55/95.1995.03.29.MF DR.IS-A [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1995-173688
+  date: '1995-03-29'
+- type: repealed_by
+  target: pt:dre:152526:por
+  label: "Revogadas todas as disposições legislativas, regulamentares ou administrativas contrárias ao estabelecido no presente\
+    \ diploma, pelo DEC LEI.59/99.1999.03.02.MEPAT DR.IS-A [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-1999-152526
+  date: '1999-03-02'
+- type: repealed_by
+  target: pt:dre:311259:por
+  label: "Revogado o art. 6º pelo DEC LEI.197/99.1999.06.08.MF, DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1999-311259
+  date: '1999-06-08'
+- type: repealed_by
+  target: pt:dre:248178:por
+  label: "Revogados, a partir de 30.07.2008, os arts. 10º a 15º, pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:10Z'
   warnings: []
   errors: []
 ---
@@ -271,8 +312,8 @@ O presente diploma entra em vigor 60 dias após a sua publicação, aplicando-se
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 26 de Agosto de 1982.**
+Promulgado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

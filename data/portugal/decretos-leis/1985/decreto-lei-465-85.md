@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/25400/37063708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1985-171556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ffa4417f1e862fbeaf6d9a34493c6e892051ee4b3ec305a80acce8d2e3011a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68387257e18cb48f980e44aedc0c43de0d3ab69de4c2c771b49670d8b099bf19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Comercial
+- Habitação
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:426748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613934:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas dos artigos 5.º, alínea c), parte do\
+    \ artigo 6.º e 7.º, artigo 8.º, parte dos artigos 9.º, 11.º e 12.º, pelo AC.221/89.22.02.1989.TCS, DR.IS [69] de 23.03.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/221-1989-613934
+  date: '1989-02-22'
+- type: amended_by
+  target: pt:dre:1849526:por
+  label: "Alterado o impresso publicado em anexo ao presente diploma, pelo DESP.1/91.02.05.1991.SEAI-MAI, DR.IIS [155]Supl\
+    \ de 09.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1-1991-1849526
+  date: '1991-05-02'
+- type: corrected_by
+  target: pt:dre:138108:por
+  label: Rectificado pela DECL.DD5115.18.11.1985.PCM, DR.IS [276]Supl de 30.11.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-138108
+  date: '1985-11-18'
+- type: repealed_by
+  target: pt:dre:426748:por
+  label: "Revogado pelo DEC LEI.297/99.1999.08.04.MAI DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-1999-426748
+  date: '1999-08-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:34Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +122,7 @@ Assim:
 
 O Governo decreta nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A montagem em edifícios ou instalações de qualquer natureza de sistemas sonoros de alarme contra intrusão de que resulta a produção de ruído para o exterior das mesmas fica sujeita a comunicação ao governador civil do respectivo distrito.
+Artigo 1.º - 1 - A montagem em edifícios ou instalações de qualquer natureza de sistemas sonoros de alarme contra intrusão de que resulta a produção de ruído para o exterior das mesmas fica sujeita a comunicação ao governador civil do respectivo distrito.
 
 2 - A comunicação referida no número anterior será feita pelo proprietário ou pelo possuidor da instalação, através da utilização de impresso próprio, cujo modelo constitui o anexo do presente decreto-lei.
 
@@ -104,21 +130,21 @@ O Governo decreta nos termos da alínea a) do n.º 1 do artigo 201.º da Constit
 
 4 - O impresso a que se refere o n.º 2 poderá ser alterado por despacho do Ministro da Administração Interna, ouvido o departamento que na Administração Pública tem a seu cargo a organização administrativa.
 
-###### Art. 2.º - 1 - Excepcionam-se do disposto no artigo anterior os sistemas instalados em edifícios públicos ou de representação diplomática, desde que esteja assegurada a presença permanente de pessoal de guarda ou vigilância habilitado a desligar o alarme.
+Art. 2.º - 1 - Excepcionam-se do disposto no artigo anterior os sistemas instalados em edifícios públicos ou de representação diplomática, desde que esteja assegurada a presença permanente de pessoal de guarda ou vigilância habilitado a desligar o alarme.
 
 2 - O presente diploma também não se aplica às correntes de segurança de porta que incorporem um dispositivo sonoro com um nível de potência sonora inferior a 90 dB (A), determinado de acordo com a normalização portuguesa aplicável, e de autonomia de funcionamento não superior a 30 minutos.
 
-###### Art. 3.º - 1 - A comunicação será feita mediante o envio da declaração que constitui o anexo ao presente diploma, em triplicado, ao governo civil do distrito, que registará e arquivará o original, enviando as restantes cópias uma para o declarante e outra para o comandante do posto da Guarda Nacional Republicana ou da esquadra da Polícia de Segurança Pública, conforme o caso.
+Art. 3.º - 1 - A comunicação será feita mediante o envio da declaração que constitui o anexo ao presente diploma, em triplicado, ao governo civil do distrito, que registará e arquivará o original, enviando as restantes cópias uma para o declarante e outra para o comandante do posto da Guarda Nacional Republicana ou da esquadra da Polícia de Segurança Pública, conforme o caso.
 
 2 - A comunicação considera-se regularmente feita desde que seja entregue pessoalmente ou mediante carta registada com aviso de recepção ao governo civil do distrito e pagas as quantias devidas nos termos da lei.
 
 3 - Sobre a declaração incide uma taxa de 800$00, que constitui receita do governo civil, não sendo devida a taxa prevista no n.º 1 do artigo 791.º do Código Administrativo.
 
-###### Art. 4.º - 1 - A fiscalização do disposto no presente diploma cabe à Guarda Nacional Republicana e à Polícia de Segurança Pública.
+Art. 4.º - 1 - A fiscalização do disposto no presente diploma cabe à Guarda Nacional Republicana e à Polícia de Segurança Pública.
 
 2 - A ligação dos sistemas referidos neste diploma a centrais públicas de alarme na dependência da Guarda Nacional Republicana ou da Polícia de Segurança Pública será regulada por portaria do Ministro da Administração Interna, que estabelecerá os procedimentos e as taxas.
 
-###### Art. 5.º Ao instalar o sistema sonoro de alarme o proprietário ou o possuidor obriga-se:
+Art. 5.º Ao instalar o sistema sonoro de alarme o proprietário ou o possuidor obriga-se:
 
 a) A declarar o nome, morada e telefone, se o tiver, das pessoas ou serviços que, permanentemente ou por escala, poderão em qualquer momento desligar o aparelho que haja sido accionado;
 
@@ -136,42 +162,42 @@ g) Pagar pontualmente as despesas previstas nos artigos 7.º e 8.º;
 
 h) Comunicar ao governo civil a retirada do alarme, para efeitos de cancelamento do registo.
 
-###### Art. 6.º No caso de o sistema de alarme, accionado por qualquer motivo, não ser desligado em prazo razoável pelo seu proprietário ou possuidor ou pelas pessoas ou serviços por si indicados, a autoridade policial competente lavrará auto de notícia da ocorrência e tomará as necessárias providências para desligar o aparelho, podendo para o efeito utilizar os meios adequados e ainda, se isso se mostrar indispensável, entrar por qualquer meio adequado nos próprios edifícios ou instalações donde o ruído é originário, lavrando igualmente auto.
+Art. 6.º No caso de o sistema de alarme, accionado por qualquer motivo, não ser desligado em prazo razoável pelo seu proprietário ou possuidor ou pelas pessoas ou serviços por si indicados, a autoridade policial competente lavrará auto de notícia da ocorrência e tomará as necessárias providências para desligar o aparelho, podendo para o efeito utilizar os meios adequados e ainda, se isso se mostrar indispensável, entrar por qualquer meio adequado nos próprios edifícios ou instalações donde o ruído é originário, lavrando igualmente auto.
 
-###### Art. 7.º Em qualquer das situações previstas no artigo anterior serão da conta do proprietário ou possuidor todas as despesas relativas à afectação dos meios técnicos e humanos necessários e o custo da substituição ou reparação de fechaduras ou outros objectos que hajam eventualmente sido destruídos, desfigurados ou inutilizados.
+Art. 7.º Em qualquer das situações previstas no artigo anterior serão da conta do proprietário ou possuidor todas as despesas relativas à afectação dos meios técnicos e humanos necessários e o custo da substituição ou reparação de fechaduras ou outros objectos que hajam eventualmente sido destruídos, desfigurados ou inutilizados.
 
-###### Art. 8.º - 1 - Sempre que se tenha verificado a previsão da parte final do artigo 6.º, desligado o aparelho será montada guarda ao edifício ou instalação, por conta do proprietário ou possuidor do mesmo, até que este ou seu comissário ou representante compareça no local, lavrando-se auto da ocorrência.
+Art. 8.º - 1 - Sempre que se tenha verificado a previsão da parte final do artigo 6.º, desligado o aparelho será montada guarda ao edifício ou instalação, por conta do proprietário ou possuidor do mesmo, até que este ou seu comissário ou representante compareça no local, lavrando-se auto da ocorrência.
 
 2 - A guarda referida no número anterior tem a natureza de serviço remunerado, constituindo encargo do proprietário ou possuidor o pagamento das gratificações legalmente fixadas.
 
-###### Art. 9.º A instalação do aparelho referido no artigo 1.º sem comunicação prévia constitui contra-ordenação punida com coima de 2000$00 a 300000$00 e, acessoriamente, com a apreensão e perda do mesmo a favor do Estado.
+Art. 9.º A instalação do aparelho referido no artigo 1.º sem comunicação prévia constitui contra-ordenação punida com coima de 2000$00 a 300000$00 e, acessoriamente, com a apreensão e perda do mesmo a favor do Estado.
 
-###### Art. 10.º O não cumprimento do disposto na alinea b) do artigo 5.º será sancionado com coima de 2000$00 a 50000$00, sendo o mínimo elevado para o dobro no caso de pessoas colectivas.
+Art. 10.º O não cumprimento do disposto na alinea b) do artigo 5.º será sancionado com coima de 2000$00 a 50000$00, sendo o mínimo elevado para o dobro no caso de pessoas colectivas.
 
-###### Art. 11.º A violação do disposto na alínea d) do artigo 5.º será sancionada com coima de 2000$00 a 500000$00 e, acessoriamente, com a apreensão e perda do aparelho a favor do Estado, sendo o mínimo da coima elevado para o dobro no caso de pessoas colectivas.
+Art. 11.º A violação do disposto na alínea d) do artigo 5.º será sancionada com coima de 2000$00 a 500000$00 e, acessoriamente, com a apreensão e perda do aparelho a favor do Estado, sendo o mínimo da coima elevado para o dobro no caso de pessoas colectivas.
 
-###### Art. 12.º A instalação de aparelhos sem mecanismo de controle de duração de alarme é punida com coima de 50000$00 a 500000$00 e, acessoriamente, com a apreensão do aparelho a favor do Estado.
+Art. 12.º A instalação de aparelhos sem mecanismo de controle de duração de alarme é punida com coima de 50000$00 a 500000$00 e, acessoriamente, com a apreensão do aparelho a favor do Estado.
 
-###### Art. 13.º No caso dos artigos 9.º a 12.º, a negligência é igualmente punida.
+Art. 13.º No caso dos artigos 9.º a 12.º, a negligência é igualmente punida.
 
-###### Art. 14.º As contra-ordenações estabelecidas no presente diploma serão instruídas pela autoridade policial da área da localização do aparelho, sendo as coimas aplicadas pelo governador civil.
+Art. 14.º As contra-ordenações estabelecidas no presente diploma serão instruídas pela autoridade policial da área da localização do aparelho, sendo as coimas aplicadas pelo governador civil.
 
-###### Art. 15.º Do produto das coimas metade constitui receita do Estado, um quarto constitui receita do governo civil e a parte restante é dividida em partes iguais pelos Serviços Sociais da Guarda Nacional Republicana e da Polícia de Segurança Pública.
+Art. 15.º Do produto das coimas metade constitui receita do Estado, um quarto constitui receita do governo civil e a parte restante é dividida em partes iguais pelos Serviços Sociais da Guarda Nacional Republicana e da Polícia de Segurança Pública.
 
-###### Art. 16.º Os proprietários ou possuidores dos aparelhos montados à data da entrada em vigor do presente decreto-lei deverão, no prazo de 130 dias, instalar no mesmo um mecanismo de controle de duração do alarme e proceder à comunicação a que se refere o artigo 1.º, decorrido o qual ficam sujeitos às sanções previstas nos artigos 9.º e 12.º
+Art. 16.º Os proprietários ou possuidores dos aparelhos montados à data da entrada em vigor do presente decreto-lei deverão, no prazo de 130 dias, instalar no mesmo um mecanismo de controle de duração do alarme e proceder à comunicação a que se refere o artigo 1.º, decorrido o qual ficam sujeitos às sanções previstas nos artigos 9.º e 12.º
 
-###### Art. 17.º O presente diploma entra em vigor no prazo de 30 dias a contar da sua publicação e não se aplica às regiões autónomas.
+Art. 17.º O presente diploma entra em vigor no prazo de 30 dias a contar da sua publicação e não se aplica às regiões autónomas.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - José Veiga Simão.
 
-**Promulgado em 18 de Outubro de 1985.**
+Promulgado em 18 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Outubro de 1985.**
+Referendado em 21 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/25400/37063708.pdf))](https://files.diariodarepublica.pt/1s/1985/11/25400/37063708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/25400/37063708.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1982-375267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9e136edc81e13000570810a491b855c300ddca2310219c09208c601c8b40a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67845970a1e1bce6c8212d3d5cad9f4cf98bfb0217530fc16c3fb6edeb1761c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Pessoal Dirigente
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311435:por
+  label: "Alterados os anexos I e IV ao Decreto-Lei n.º 466/79, de 7 de Dezembro, na redacção que lhe foi dada pelo presente\
+    \ diploma, pelo DEC LEI.113/83.22.02.1983.MFP, DR.IS [43] de 22.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1983-311435
+  date: '1983-02-22'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:138506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:308164:por
+  label: Rectificado pela DECL.DD2208.1982.12.06.PCM DR.IS [12] de 15.01.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-308164
+  date: '1982-12-06'
+- type: repealed_by
+  target: pt:dre:419013:por
+  label: "Revogado pelo DEC LEI.247/87.17.06.1987.MPAT, DR.IS [137] de 17.06.1987, na parte relativa a carreiras\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1987-419013
+  date: '1987-06-17'
+- type: repealed_by
+  target: pt:dre:214240:por
+  label: "Revogado o art. 10º do Dec Lei 466/79, de 07-Dez, na redacção constante do presente diploma, pelo DEC LEI.412-A/98.30.12.1998.MEPAT,\
+    \ DR.IS-A [300]Supl de 30.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-a-1998-214240
+  date: '1998-12-30'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:26Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +205,9 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 6.º, 8.º, 10.º, 11.º, 15.º, 24.º, 28.º, 37.º e 42.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 6.º, 8.º, 10.º, 11.º, 15.º, 24.º, 28.º, 37.º e 42.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - As federações e associações de municípios e os serviços municipalizados agrupam-se, para efeito de atribuição das categorias de pessoal dirigente e de chefia, de acordo com os seguintes parâmetros:
+Art. 3.º - 1 - As federações e associações de municípios e os serviços municipalizados agrupam-se, para efeito de atribuição das categorias de pessoal dirigente e de chefia, de acordo com os seguintes parâmetros:
 
 a) Valor anual da conta de resultados correntes do exercício obtido no ano anterior;
 
@@ -184,7 +267,7 @@ Grupo IV - média inferior a 1,5
 
 8 - Os critérios de agrupamento referidos nos n.os 1 e 2 poderão ser revistos mediante decreto do Ministro da Administração Interna.
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 a) ...
 
@@ -196,7 +279,7 @@ c) Chefe de divisão - adjunto do secretário do Governo Civil do Distrito de Li
 
 3 - ...
 
-###### Art. 6.º - 1 - O pessoal dirigente das federações e associações de municípios e dos serviços municipalizados, das assembleias distritais e dos serviços de habitação, técnicos de obras, limpeza, oficinas e transportes não abrangidos pelo disposto no artigo 4.º será recrutado de entre:
+Art. 6.º - 1 - O pessoal dirigente das federações e associações de municípios e dos serviços municipalizados, das assembleias distritais e dos serviços de habitação, técnicos de obras, limpeza, oficinas e transportes não abrangidos pelo disposto no artigo 4.º será recrutado de entre:
 
 a) ...
 
@@ -214,7 +297,7 @@ e) ...
 
 4 - ...
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 a) Chefe de secretaria de município urbano de 1.ª ordem e chefes de secretaria das Assembleias Distritais de Lisboa e Porto - de entre chefes de secretaria de municípios rural de 1.ª ordem e urbano de 2.ª ordem, chefes de secretaria de assembleia distrital todos com, pelo menos, 3 anos de bom e efectivo serviço na categoria, ou técnicos superiores de 1.ª classe, licenciados em Direito, Economia ou Finanças;
 
@@ -226,7 +309,7 @@ d) ...
 
 2 - Aos concursos de habilitação a que se refere a alínea a) do número anterior poderão ser admitidos técnicos superiores de 2.ª classe, com 3 anos na categoria e a licenciatura ali exigida, desde que não se candidatem técnicos superiores de 1.ª classe.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - A categoria de chefe de secção e a carreira de oficial administrativo das Câmaras Municipais de Lisboa e Porto, das federações e associações de municípios e dos serviços municipalizados constituem quadros privativos das mesmas entidades, processando-se o seu recrutamento e provimento de acordo com a respectiva regulamentação interna e em obediência aos seguintes critérios:
 
@@ -236,7 +319,7 @@ b) Oficiais administrativos - nos termos do artigo 11.º do [Decreto-Lei n.º 19
 
 3 - ...
 
-###### Art. 11.º - 1 - O provimento dos lugares de tesoureiro dos quadros de pessoal das entidades referidas no artigo 3.º far-se-á mediante concurso de prestação de provas, de acordo com as seguintes regras:
+Art. 11.º - 1 - O provimento dos lugares de tesoureiro dos quadros de pessoal das entidades referidas no artigo 3.º far-se-á mediante concurso de prestação de provas, de acordo com as seguintes regras:
 
 a) Grupo I - de entre técnicos de contabilidade e administração de 1.ª ou 2.ª classe, tesoureiros do grupo II e chefes de secção, todos com mais de 3 anos na categoria;
 
@@ -248,7 +331,7 @@ d) Grupo IV - de entre segundos-oficiais ou terceiros-oficiais com mais de 3 ano
 
 2 - O provimento dos lugares de tesoureiro dos quadros de pessoal das Câmaras Municipais de Lisboa e Porto far-se-á, mediante concurso de prestação de provas, de entre primeiros-oficiais e técnicos de contabilidade e administração de 2.ª classe com 3 anos de bom e efectivo serviço nas respectivas categorias.
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 2 - ...
 
@@ -256,9 +339,9 @@ d) Grupo IV - de entre segundos-oficiais ou terceiros-oficiais com mais de 3 ano
 
 4 - Para efeito da regra de densidade fixada no número anterior, não deverão ser considerados os lugares providos e a prover por funcionários que não possuam o curso geral do ensino secundário ou equiparado, os quais serão extintos quando ocorrer a respectiva vacatura.
 
-###### Art. 24.º São consideradas carreiras horizontais, para além das referidas no n.º 4 do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as de adjunto de tesoureiro, fiel de armazém, fiel de mercados e feiras, leitor-cobrador de consumos, coveiro, cantoneiro de limpeza, limpa-colectores, tratador-apanhador de animais, varejador, operador de estações elevatórias, de tratamento ou depuradoras, operador de reprografia, operador de máquinas de endereçar, oficial de diligências, cozinheiro, fiel de refeitório, condutor de veículos especiais, cobrador de transportes colectivos, motorista de transportes colectivos, condutor de máquinas pesadas, tractorista, condutor de cilindros, ecónomo, guarda campestre, auxiliar técnico, bilheteiro e vigilante de jardins e parques infantis.
+Art. 24.º São consideradas carreiras horizontais, para além das referidas no n.º 4 do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as de adjunto de tesoureiro, fiel de armazém, fiel de mercados e feiras, leitor-cobrador de consumos, coveiro, cantoneiro de limpeza, limpa-colectores, tratador-apanhador de animais, varejador, operador de estações elevatórias, de tratamento ou depuradoras, operador de reprografia, operador de máquinas de endereçar, oficial de diligências, cozinheiro, fiel de refeitório, condutor de veículos especiais, cobrador de transportes colectivos, motorista de transportes colectivos, condutor de máquinas pesadas, tractorista, condutor de cilindros, ecónomo, guarda campestre, auxiliar técnico, bilheteiro e vigilante de jardins e parques infantis.
 
-###### Art. 28.º - 1 - Os cargos de direcção e chefia podem ser exercidos em regime de substituição enquanto durar a vacatura do lugar ou a ausência ou impedimento do respectivo titular.
+Art. 28.º - 1 - Os cargos de direcção e chefia podem ser exercidos em regime de substituição enquanto durar a vacatura do lugar ou a ausência ou impedimento do respectivo titular.
 
 2 - A substituição cessará passados 6 meses sobre a data do seu início, salvo quando:
 
@@ -274,19 +357,19 @@ b) Se verifique impedimento legal ao provimento.
 
 6 - O substituto terá direito à totalidade do vencimento e outras remunerações atribuídas ao substituído enquanto durar a substituição.
 
-###### Art. 37.º Até 31 de Janeiro de cada ano os governos civis enviarão ao Ministério da Administração Interna e às restantes entidades a que se refere o presente diploma e à comissão de coordenação regional da área respectiva ou ao Governo Regional, conforme os casos, mapa discriminativo, reportado a 31 de Dezembro do ano anterior, de todos os lugares existentes nos quadros de pessoal, com indicação dos que se encontram vagos, da data da vacatura e dos que estão preenchidos, por sexo, por níveis etários, de escolaridade e por antiguidade dos respectivos titulares, conforme modelo a aprovar por portaria do Ministro da Administração Interna.
+Art. 37.º Até 31 de Janeiro de cada ano os governos civis enviarão ao Ministério da Administração Interna e às restantes entidades a que se refere o presente diploma e à comissão de coordenação regional da área respectiva ou ao Governo Regional, conforme os casos, mapa discriminativo, reportado a 31 de Dezembro do ano anterior, de todos os lugares existentes nos quadros de pessoal, com indicação dos que se encontram vagos, da data da vacatura e dos que estão preenchidos, por sexo, por níveis etários, de escolaridade e por antiguidade dos respectivos titulares, conforme modelo a aprovar por portaria do Ministro da Administração Interna.
 
-###### Art. 42.º São revogados os Decretos-Leis n.os [37/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1977-138506), de 29 de Janeiro, [76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, e [498/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1977-281253), de 28 de Novembro, e as Portarias n.os [733/77](https://diariodarepublica.pt/dr/detalhe/portaria/733-1977-281243), de 29 de Novembro, e [787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), de 24 de Dezembro.
+Art. 42.º São revogados os Decretos-Leis n.os [37/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1977-138506), de 29 de Janeiro, [76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, e [498/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1977-281253), de 28 de Novembro, e as Portarias n.os [733/77](https://diariodarepublica.pt/dr/detalhe/portaria/733-1977-281243), de 29 de Novembro, e [787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), de 24 de Dezembro.
 
-###### Art. 2.º Os anexos I, II, III e IV do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, são substituídos pelos anexos ao presente diploma.
+Art. 2.º Os anexos I, II, III e IV do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, são substituídos pelos anexos ao presente diploma.
 
-###### Art. 3.º Poderão ser criadas nas autarquias locais, federações e associações de municípios e serviços municipalizados as carreiras de técnico auxiliar e de auxiliar técnico, respectivamente, nos termos dos artigos 10.º, n.os 3 e 5, e 13.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, com os desenvolvimentos previstos no anexo I ao presente diploma, devendo os quadros de pessoal das entidades e serviços em que se verificar a necessidade de criação destas carreiras identificar a área funcional a que se destinam.
+Art. 3.º Poderão ser criadas nas autarquias locais, federações e associações de municípios e serviços municipalizados as carreiras de técnico auxiliar e de auxiliar técnico, respectivamente, nos termos dos artigos 10.º, n.os 3 e 5, e 13.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, com os desenvolvimentos previstos no anexo I ao presente diploma, devendo os quadros de pessoal das entidades e serviços em que se verificar a necessidade de criação destas carreiras identificar a área funcional a que se destinam.
 
-###### Art. 4.º As entidades a que se refere o presente diploma deverão desenvolver uma política de gestão dos recursos humanos no sentido da integração dos serventes, com, pelo menos, 1 ano de exercício de funções inerentes a carreiras específicas, na categoria de ingresso da carreira respectiva.
+Art. 4.º As entidades a que se refere o presente diploma deverão desenvolver uma política de gestão dos recursos humanos no sentido da integração dos serventes, com, pelo menos, 1 ano de exercício de funções inerentes a carreiras específicas, na categoria de ingresso da carreira respectiva.
 
-###### Art. 5.º O ingresso e acesso na carreira de enfermagem será regulamentado por portaria conjunta dos Ministros da Administração Interna, dos Assuntos Sociais e da Reforma Administrativa, de acordo com o que vier a ser estabelecido nos termos do artigo 11.º do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
+Art. 5.º O ingresso e acesso na carreira de enfermagem será regulamentado por portaria conjunta dos Ministros da Administração Interna, dos Assuntos Sociais e da Reforma Administrativa, de acordo com o que vier a ser estabelecido nos termos do artigo 11.º do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
 
-###### Art. 6.º O artigo 62.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, passa a ter a seguinte redacção:
+Art. 6.º O artigo 62.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 62.º
 
@@ -318,17 +401,17 @@ d) As vagas a abrir a concurso anual, nos termos das alíneas anteriores, serão
 
 5 - As entidades a que se refere o presente diploma procederão à extinção gradual dos lugares de escriturário-dactilógrafo, à medida que se verificar a respectiva vacatura, passando-se a exigir, para ingresso na carreira administrativa, no cargo de terceiro-oficial, a prática de dactilografia comprovada, mediante adequadas provas de selecção.
 
-###### Art. 7.º Os escriturários-dactilógrafos e adjuntos de tesoureiro das Câmaras Municipais de Lisboa e Porto, bem como dos serviços municipalizados, das federações e das associações de municípios, poderão também candidatar-se às vagas de terceiro-oficial nos termos e condições previstos no artigo 62.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), na nova redacção que lhe é dada pelo artigo 6.º do presente decreto-lei.
+Art. 7.º Os escriturários-dactilógrafos e adjuntos de tesoureiro das Câmaras Municipais de Lisboa e Porto, bem como dos serviços municipalizados, das federações e das associações de municípios, poderão também candidatar-se às vagas de terceiro-oficial nos termos e condições previstos no artigo 62.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), na nova redacção que lhe é dada pelo artigo 6.º do presente decreto-lei.
 
-###### Art. 8.º O pessoal integrado nas carreiras sujeitas ao regime do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e que desempenhe funções na área de museus, transita para a categoria da mesma classe e letra de vencimento das novas carreiras de museografia.
+Art. 8.º O pessoal integrado nas carreiras sujeitas ao regime do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e que desempenhe funções na área de museus, transita para a categoria da mesma classe e letra de vencimento das novas carreiras de museografia.
 
-###### Art. 9.º - 1 - A transição dos actuais fiscais municipais de 2.ª classe para a categoria de 1.ª classe processar-se-á ao fim de 5 anos de bom e efectivo serviço ou após 3 anos de bom e efectivo serviço e sujeição a métodos de selecção.
+Art. 9.º - 1 - A transição dos actuais fiscais municipais de 2.ª classe para a categoria de 1.ª classe processar-se-á ao fim de 5 anos de bom e efectivo serviço ou após 3 anos de bom e efectivo serviço e sujeição a métodos de selecção.
 
 2 - As regras definidas no número anterior aplicam-se ainda aos funcionários providos nos termos da transição operada pelo anexo IV do presente diploma na categoria de 2.ª classe das carreiras de fiscal de obras, fiscal dos serviços de higiene e limpeza e fiscal dos serviços de águas e ou saneamento.
 
 3 - Sempre que da aplicação do disposto nos números anteriores resultar dotação diferente da estabelecida nos termos do artigo 19.º, n.º 2, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as proporções serão restabelecidas à medida que se verificar a vacatura de lugares ou alterações dos quadros.
 
-###### Art. 10.º - 1 - O número de lugares correspondente às categorias de mestre florestal principal e mestre florestal do quadro de pessoal do Município de Lisboa fica condicionado às seguintes regras de densidade:
+Art. 10.º - 1 - O número de lugares correspondente às categorias de mestre florestal principal e mestre florestal do quadro de pessoal do Município de Lisboa fica condicionado às seguintes regras de densidade:
 
 a) Só poderá ser criado 1 lugar de mestre florestal principal quando existam, pelo menos, 3 mestres florestais;
 
@@ -340,9 +423,9 @@ b) Só poderá ser criado 1 lugar de mestre florestal por cada grupo de 6 profis
 
 4 - Os lugares criados nos termos dos n.os 2 e 3 serão obrigatoriamente extintos com a respectiva vacatura, desde que se encontre já observada a regra de densidade estabelecida no n.º 1.
 
-###### Art. 11.º Os funcionários que se encontrem providos em categoria ou classe não prevista no anexo I do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, ou estejam a ser remunerados por letra de vencimento superior à da sua categoria, transitarão para a categoria adequada e ser-lhes-á atribuída a letra de vencimento correspondente, mantendo embora a actual remuneração até que esta seja completamente absorvida por futuras actualizações da tabela salarial.
+Art. 11.º Os funcionários que se encontrem providos em categoria ou classe não prevista no anexo I do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, ou estejam a ser remunerados por letra de vencimento superior à da sua categoria, transitarão para a categoria adequada e ser-lhes-á atribuída a letra de vencimento correspondente, mantendo embora a actual remuneração até que esta seja completamente absorvida por futuras actualizações da tabela salarial.
 
-###### Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo, porém, efeitos retroactivos relativamente às seguintes categorias e carreiras:
+Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo, porém, efeitos retroactivos relativamente às seguintes categorias e carreiras:
 
 a) Administrador de bairro de Lisboa e Porto, adjunto do secretário do Governo Civil do Distrito de Lisboa, chefe de secretaria das Assembleias Distritais de Lisboa e Porto, chefe de secretaria de assembleia distrital, secretário de administração de bairro, reportados à data de 1 de Julho de 1979;
 
@@ -352,15 +435,15 @@ c) Guarda florestal, reportado à data da entrada em vigor do [Decreto Regulamen
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 7 de Setembro de 1982.**
+Promulgado em 7 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf)
 
 ## ANEXO III — Carreiras operárias
 
@@ -532,6 +615,6 @@ Proceder ainda ao carregamento e transporte em máquinas apropriadas dos materia
 
 (Nota. - Sempre que no presente anexo se mantenham a carreira e categoria de integração já estabelecidas nos termos do anexo IV ao [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, tal não prejudica as promoções que, após a entrada em vigor daquele diploma, se tenham operado, nos termos legais e regulamentares.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22400/30583079.pdf)
 
 As referências numéricas constantes da coluna respeitante à designação «Anterior ao Decreto-Lei n.º 4661//79, de 7 de Dezembro» reportam-se aos «Grupos de actividades» enunciados em nota ao anexo I.

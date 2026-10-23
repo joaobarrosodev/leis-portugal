@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1986, 1º Suplemento, Série I de 1986-12-31
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3874-(1) a 3874-(93)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1986-627039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f9d11fba152c5609123d343677c3535df84e97d4d5b849b158e090707c8641
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d38820bf666186877e5a678d9196f94d4108cf472b686bb66870153c9fd910c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Importação
+- Importação
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS ARTIGOS DA PAUTA DOS DIREITOS DE IMPORTACAO PELO DEC LEI 249/87, DE 23-JUN, DR.IS 141\041\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-06-23'
+- type: amended_by
+  target: pt:dre:419438:por
+  label: "Alterados artigos da pauta dos direitos de importação, pelo DEC LEI.249/87.23.06.1987.MF, DR.IS [141] de 23.06.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-1987-419438
+  date: '1987-06-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Reduzidos temporáriamente os direitos de certas mercadorias da Pauta dos Direitos de Importação pela DEC LEI.258/87.1987.06.26.MF,\
+    \ DR.IS [144]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-06-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A PAUTA DOS DIREITOS DE IMPORTACAO PELO DEC LEI 412/87, DR.IS. [300] 5º SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-12-31'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: corrected_by
+  target: pt:dre:357275:por
+  label: Rectificado pela DECL.DD1162.1987.02.23.PCM, DR.IS [50]SUPL de 28/Fev/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-357275
+  date: '1987-02-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 121
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:36Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +134,13 @@ Atendendo que as numerosas alterações já introduzidas na pauta vigente justif
 
 No uso da autorização conferida pela alínea b) do artigo 28.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 456-A/83, de 28 de Dezembro, com as alterações que entretanto a modificaram, é substituída pela pauta que constitui o anexo a este diploma.
+Artigo 1.º - 1 - A Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 456-A/83, de 28 de Dezembro, com as alterações que entretanto a modificaram, é substituída pela pauta que constitui o anexo a este diploma.
 
 2 - A pauta a que se refere o número anterior será publicada em separata, que constituirá modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
 
-###### Art. 2.º Os direitos de importação constantes da pauta em anexo não são aplicáveis às mercadorias abrangidas por acordos preferenciais ou por outras concessões pautais estabelecidas em legislação específica.
+Art. 2.º Os direitos de importação constantes da pauta em anexo não são aplicáveis às mercadorias abrangidas por acordos preferenciais ou por outras concessões pautais estabelecidas em legislação específica.
 
-###### Art. 3.º Quando se encontrem nas condições previstas nos artigos 9.º e 10.º do Tratado que institui a Comunidade Económica Europeia ou quando originárias dos países membros da EFTA, são livres de direitos, na sua importação, as seguintes mercadorias:
+Art. 3.º Quando se encontrem nas condições previstas nos artigos 9.º e 10.º do Tratado que institui a Comunidade Económica Europeia ou quando originárias dos países membros da EFTA, são livres de direitos, na sua importação, as seguintes mercadorias:
 
 ex 68.06.
 
@@ -118,19 +154,19 @@ ex 84.06, D, II, b):
 
 - Camisas-cilindros, camisas de cilindros, eixos de êmbolos, êmbolos e segmentos para motores de explosão.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 de Janeiro de 1987.
+Art. 4.º O presente diploma entra em vigor no dia 1 de Janeiro de 1987.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 24 de Dezembro de 1986.**
+Promulgado em 24 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Disposições Preliminares da Pauta dos Direitos de Importação
 
@@ -196,7 +232,7 @@ A) Produtos destinados a certas categorias de embarcações e de plataformas de 
 
 1 - A cobrança dos direitos aduaneiros é suspensa em relação aos produtos destinados a serem incorporados nas embarcações mencionadas no quadro seguinte, para fins da sua construção, reparação, manutenção ou transformação, assim como aos produtos destinados ao armamento ou ao equipamento dessas embarcações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 2 - A cobrança de direitos aduaneiros é suspensa relativamente:
 
@@ -300,7 +336,7 @@ b) Das culturas de microrganismos e de outros produtos do n.º 30.02;
 
 c) Dos animais do n.º 97.08.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 2 — Carne e miudezas, comestíveis
 
@@ -428,7 +464,7 @@ b) Os produtos da posição 02.06 a que são adicionados produtos de tempero dur
 
 b) As partes de aves de capoeira referidas na alínea a), das quais uma parte de ossos foi retirada, classificam-se pela subposição 02.02 B. II. g)».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 3 — Peixes, crustáceos e moluscos
 
@@ -442,7 +478,7 @@ b) Os peixes (compreendendo os fígados, ovas e sémen), crustáceos e moluscos 
 
 c) O caviar e seus sucedâneos (n.º 16.04).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 4 — Leite e lacticínios; ovos de aves; mel natural; produtos comestíveis de origem animal não especificados nem compreendidos noutros capítulos
 
@@ -462,7 +498,7 @@ NOTAS COMPLEMENTARES:
 
 4 - O direito nivelador agrícola aplicável as misturas abrangidas pelo presente capítulo e compostas por produtos das posições ou subposições 04.01 B, 04.02, 04.03, 04.04, 17.02 A ou 21.07 F. I é o aplicável ao componente submetido ao direito nivelador mais elevado e que, simultaneamente represente, pelo menos, 10%, em peso, da mistura. Quando esta forma de fixação do direito nivelador não puder ser aplicada, o direito nivelador aplicável a estas misturas é o que resultar da sua classificação pautal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 5 — Outros produtos de origem animal não especificados nem compreendidos noutros capítulos
 
@@ -484,7 +520,7 @@ d) As cabeças preparadas para escovas, pincéis e artefactos semelhantes (n.º 
 
 4 - Para efeitos pautais considera-se crina, não só os pêlos do pescoço do cavalo, mas também os da cauda dos equídeos ou bovídeos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO II — Produtos do reino vegetal
 
@@ -496,7 +532,7 @@ NOTAS:
 
 2 - Os ramos de flores, cestos de flores, coroas e artigos semelhantes consideram-se, para efeitos pautais, como flores ou folhagem dos n.os 06.03 ou 06.04, não se tomando em conta os acessórios de outras matérias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 7 — Produtos hortícolas, plantas, raízes e tubérculos alimentares
 
@@ -518,7 +554,7 @@ NOTA COMPLEMENTAR:
 
 Consideram-se como cogumelos de cultura, na acepção da subposição 07.01 Q. I, exclusivamente os seguintes cogumelos cultivados da espécie Psalliota (Agaricus): Hortensis, alba ou bispora e subedulis. As outras espécies, mesmo cultivadas artificialmente (por exemplo: Rhodopaxillus nudus e Polypurus tuberaster), incluem-se na subposição 07.01 Q. IV.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 8 — Frutas; cascas de citrinos e de melões
 
@@ -528,7 +564,7 @@ NOTAS:
 
 2 - Para efeitos pautais, as frutas refrigeradas consideram-se frutas frescas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 9 — Café, chá, mate e especiarias
 
@@ -550,7 +586,7 @@ a) Os pimentos doces ou pimentões que não se apresentem triturados ou em pó (
 
 b) A pimenta de cúbebas (Piper cubeba) e outros produtos do n.º 12.07.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 10 — Cereais
 
@@ -598,7 +634,7 @@ b) Ao componente sujeito ao direito nivelador mais elevado, se nenhum dos compon
 
 F) Quando o modo de determinação do direito nivelador, tal como é acima previsto, não puder ser aplicado, o direito nivelador aplicável às misturas em questão, é o que resulta da sua classificação pautal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 11 — Produtos de moagem; malte; amidos e féculas; glúten; inulina
 
@@ -626,7 +662,7 @@ Todavia, os germes de cereais, inteiros, esmagados, em flocos ou moídos, inclue
 
 B) Os produtos deste tipo, que se incluem no presente capítulo, de harmonia com as disposições que antecedem, classificam-se pelo n.º 11.01 (farinhas) quando a percentagem que passa através de um peneiro de gaze de seda ou de tecido de matérias artificiais ou sintéticas, cujas malhas tenham uma abertura correspondente à indicada nas colunas 4 e 5, consoante o caso, for igual ou superior, em peso, à referente a esse cereal.Caso contrário, incluem-se no n.º 11.02.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 NOTAS COMPLEMENTARES:
 
@@ -644,7 +680,7 @@ a) Quando um dos componentes represente, pelo menos, 90%, em peso, da mistura, a
 
 b) Nos outros casos, a taxa é a do componente sujeito ao direito mais elevado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 12 — Sementes e frutos, oleaginosos; sementes e frutos, diversos; plantas industriais e medicinais; palhas e forragens
 
@@ -676,7 +712,7 @@ c) Os artigos de perfumaria e de toucador do capítulo 33;
 
 d) Os desinfectantes, insecticidas, fungicidas, herbicidas e produtos similares do n.º 38.11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 13 — Gomas, resinas e outros sucos e extractos vegetais
 
@@ -704,7 +740,7 @@ h) Os óleos essenciais, líquidos ou concretos, e os resinóides (n.º 33.01), 
 
 ij) A borracha, a batata, a guta-percha e as gomas naturais análogas (n.º 40.01).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 14 — Matérias para entrançamento e outros produtos de origem vegetal, não especificados nem compreendidos noutros capítulos
 
@@ -718,7 +754,7 @@ NOTA:
 
 4 - No n.º 14.03 não estão incluídas as cabeças preparadas para escovas, pincéis e artefactos semelhantes (n.º 96.01).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO III — Gorduras e óleos gordos (animais e vegetais); produtos da sua dissociação; gorduras alimentares preparadas; ceras de origem animal ou vegetal
 
@@ -840,7 +876,7 @@ No caso dos sebos destinados exclusivamente ao fabrico de sabões, dispensa-se a
 
 Os sebos que tiverem aplicação diferente do fabrico de sabões considerar-se-ão descaminhados aos direitos dos artigos 15.02 B. I ou 15.02 B. II.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO IV — Produtos das indústrias alimentares; bebidas, líquidos alcoólicos e vinagres; tabacos
 
@@ -856,7 +892,7 @@ NOTAS COMPLEMENTARES:
 
 2 - Na acepção das subposições 16.02 B. III. a) 2. aa) 11 e B. III. a) 2. aa) 22 a expressão «respectivos pedaços» aplica-se apenas aos preparados e conservas de carne que podem ser identificados, através das dimensões e das características do tecido muscular respectivo, como provenientes das pernas, lombos, espinhaços ou pás de porcos domésticos, conforme o caso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)CAPÍTULO 17
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)CAPÍTULO 17
 
 Açúcares e produtos de confeitaria
 
@@ -884,7 +920,7 @@ Açúcar em bruto, o açúcar não aromatizado nem adicionado de corantes conten
 
 3 - As mercadorias da subposição 17.04 D. que se apresentem sob a forma de sortidos, classificam-se consoante o teor médio em matérias gordas provenientes do leite, em sacarose e em amido ou fécula, da totalidade do sortido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 18 — Cacau e seus preparados
 
@@ -898,7 +934,7 @@ NOTA COMPLEMENTAR:
 
 As mercadorias da subposição 18.06 C. que se apresentem em sortidos classificam-se, consoante o teor médio, em sacarose e substâncias gordas provenientes do leite, da totalidade do sortido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 19 — Preparados à base de cereais, de farinhas, de amidos ou de féculas; produtos de pastelaria
 
@@ -918,7 +954,7 @@ NOTA COMPLEMENTAR:
 
 As mercadorias da subposição 19.08 B. que se apresentem em sortidos classificam-se, consoante o teor médio, em amido ou fécula, em sacarose e em substâncias gordas provenientes do leite, da totalidade do sortido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 20 — Preparados de produtos hortícolas, de frutas e de outras plantas ou parte de plantas
 
@@ -974,7 +1010,7 @@ Considera-se teor alcoólico adquirido, em volume, o número de volumes de álco
 
 7 - Considera-se sumo de uvas (compreendendo o mosto de uvas) concentrado [subposições 20.07 B. I. a) 1. aa) e 20.07 B. I. b) 1. aa)] o sumo (compreendendo o mosto) de uvas cuja indicação numérica fornecida pelo refractómetro, à temperatura de 20ºC, segundo o método previsto no anexo III do Regulamento (CEE) n.º [516/77](https://data.europa.eu/eli/reg/1977/516/oj?locale=pt), não é inferior a 50,9%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 21 — Preparados alimentares diversos
 
@@ -1004,7 +1040,7 @@ A classificação por esta subposição fica ainda sujeita à apresentação de 
 
 3 - Considera-se isoglicose, na acepção da subposição 21.07 F. III., o produto obtido a partir de glicose ou dos seus polímeros, com um teor em peso, no estado seco, de, pelo menos, 10% de frutose.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 22 — Bebidas, líquidos alcoólicos e vinagres
 
@@ -1090,7 +1126,7 @@ Todavia, alguns vinhos licorosos de qualidade, constantes de uma lista a fixar, 
 
 7 - Para aplicação de subposição 22.10 A., considera-se vinagre de vinho o vinagre obtido exclusivamente por fermentação acética do vinho com um teor de acidez total, igual ou superior a 60 g por litro, expressa em ácido acético.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 23 — Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais
 
@@ -1106,7 +1142,7 @@ Teor alcoólico total, em massa, a soma dos teores alcoólicos adquiridos e em p
 
 «% mas», o símbolo do teor alcoólico em massa.2 - Para aplicação da subposição 23.07 B. são considerados produtos lácteos os produtos classificáveis pelos n.os 04.01, 04.02, 04.03, 04.04 e pelas subposições 17.02 A. e 21.07 F. I.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO V — Produtos minerais
 
@@ -1138,7 +1174,7 @@ h) O giz para escrever ou para desenhar e o de alfaiate ou de bilhar (n.º 98.05
 
 3 - O n.º 25.32 compreende, designadamente: as terras corantes, mesmo calcinadas ou misturadas entre si; os óxidos de ferro micáceos naturais; a espuma do mar natural (mesmo em fragmentos polidos) e o âmbar amarelo natural, a espuma do mar e o âmbar reconstituídos em plaquetas, varetas, barras e formas semelhantes, simplesmente moldados; o azeviche; o carbonato de estrôncio (estroncianite), mesmo calcinado, com exclusão do óxido de estrôncio; os resíduos e fragmentos de cerâmica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 26 — Minérios metalúrgicos, escórias e cinzas
 
@@ -1162,7 +1198,7 @@ f) Os mates de cobre, níquel e cobalto, obtidos por fusão destes minérios (se
 
 3 - O n.º 26.03 compreende apenas as cinzas e resíduos que contenham metal ou compostos metálicos e que sejam dos tipos utilizados na indústria para extracção do metal ou fabrico de compostos metálicos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 27 — Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais
 
@@ -1204,7 +1240,7 @@ G) Fuelóleos (subposição 27.10 C. II), os óleos pesados, definidos na alíne
 
 Quadro de correspondência cor diluída (C)/viscosidade (V)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 Por viscosidade (V) deve entender-se a viscosidade cinemática à temperatura de 50ºC, expressa em 10(elevado a -6) m2 s(elevado a -1) (centistokes), segundo o método ASTM D 445.
 
@@ -1270,7 +1306,7 @@ No mínimo uma cuba de mistura com utilização de força motriz, eventualmente 
 
 Aparelhos de acondicionamento.Quando as misturas forem efectuadas em instalações arrendadas ou por um empreiteiro, as três últimas condições, referentes ao equipamento das instalações, são igualmente exigidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO VI — Produtos das indústrias químicas e das indústrias conexas
 
@@ -1364,7 +1400,7 @@ NOTA COMPLEMENTAR:
 
 Salvo disposições em contrário, os sais mencionados numa subposição compreendem também os sais ácidos e sais básicos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 29 — Produtos químicos orgânicos
 
@@ -1436,7 +1472,7 @@ NOTA COMPLEMENTAR:
 
 No âmbito de uma posição, os derivados de um compostos químico (ou de um grupo de compostos químicos), que se incluem em determinada subposição, salvo disposições especiais, devem classificar-se por esta subposição, desde que na mesma série de subposições não exista uma subposição final «Outros» (sem qualquer texto adicional). Quando esta existia, os derivados em causa classificar-se-ão por essa subposição final «Outros».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 30 — Produtos farmacêuticos
 
@@ -1492,7 +1528,7 @@ f) Os cimentos e outros produtos para obturação dentária;
 
 g) Os estojos e caixas de farmácia, guarnecidos, para primeiros socorros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 31 — Adubos
 
@@ -1566,7 +1602,7 @@ b) Os produtos de composição química definida, quando isolados, com excepçã
 
 c) Os cristais cultivados de cloreto de potássio, excepto os elementos de óptica, de peso unitário igual ou superior a 2,5 g, incluídos no n.º 38.19, e os elementos de óptica de cloreto de potássio (n.º 90.01).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 32 — Extratos tanantes e tintórios; taninos e seus derivados; matérias corantes, cores, tintas e vernizes; mástiques; tintas de escrever
 
@@ -1592,7 +1628,7 @@ a) Pós metálicos impalpáveis (mesmo de metais preciosos) ou pigmentos aglomer
 
 b) Metais (mesmo preciosos) ou pigmentos dispostos sobre uma folha de qualquer matéria que lhes sirva de suporte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 33 — Óleos essenciais e resinóides; produtos de perfumaria ou de toucador e cosméticos, preparados
 
@@ -1612,7 +1648,7 @@ a) Os desodorizantes de ambientes, preparados, mesmo não perfumados;
 
 b) Os produtos, mesmo não misturados (com exclusão das águas destiladas aromáticas e das soluções aquosas de óleos essenciais), próprios para utilização como produtos de perfumaria ou de toucador, como cosméticos ou como desodorizantes de ambientes, acondicionados para venda a retalho com destino ao seu emprego nesses usos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 34
 
@@ -1644,7 +1680,7 @@ a) As ceras do n.º 27.13;
 
 b) As ceras animais ou vegetais, não misturadas, simplesmente coradas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 35 — Matérias albuminóides, colas e enzimas
 
@@ -1666,7 +1702,7 @@ e) Os produtos das artes gráficas em suporte de gelatina (capítulo 49).
 
 Estes produtos com um teor superior incluem-se no n.º 17.02.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 36 — Pólvora e explosivos; artigos de pirotecnia; fósforos ligas pirofóricas; matérias inflamáveis
 
@@ -1682,7 +1718,7 @@ b) Os combustíveis líquidos (tais como a gasolina), do tipo utilizado nos isqu
 
 c) Os archotes e as tochas de resina, as acendelhas e semelhantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 37 — Produtos para fotografia e cinematografia
 
@@ -1704,7 +1740,7 @@ NOTAS COMPLEMENTARES:
 
 2 - Por filmes de actualidades, na acepção da subposição 37.07 B. II. a), entendem-se os filmes de metragem inferior a 330 m, relativos a acontecimentos que apresentem uma característica de actualidade política, desportiva, militar, científica, literária, folclórica, turística, mundana, etc.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 38 — Produtos diversos das indústrias químicas
 
@@ -1742,7 +1778,7 @@ f) O gesso, especialmente preparado para a arte dentária;
 
 g) Os elementos químicos do capítulo 28, como o silício e o selénico, impurificados (dopés) para utilização em electrónica, desde que se apresentem em discos, pequenas chapas ou em formas análogas, polidos ou não, revestidos ou não de uma camada epitaxial uniforme.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO VII
 
@@ -1822,7 +1858,7 @@ NOTA COMPLEMENTAR:
 
 O polietileno ligeiramente modificado por pequenas quantidades de outras olefinas considera-se também incluído na subposição 39.02 C. I.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 40 — Borracha natural, sintética ou artificial e obras de borracha
 
@@ -1914,7 +1950,7 @@ c) As peles em bruto, curtidas ou completamente preparadas, não depiladas, de a
 
 2 - Para efeitos pautais, a expressão «couro artificial ou reconstituído» refere-se às matérias incluídas no n.º 41.10.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 42 — Obras de couro; artigos de correeiro e de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa
 
@@ -1944,7 +1980,7 @@ k) Os botões, botões de punho, etc., do n.º 98.01 ou do capítulo 71.
 
 2 - Estão incluídos no n.º 42.03 as luvas (compreendendo as de desporto e as de protecção), os aventais e outros artigos especiais usados como protecção individual para qualquer profissão, os suspensórios, cintos, cinturões, talabares e pulseiras, de couro natural, artificial ou reconstituído.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 43
 
@@ -1972,7 +2008,7 @@ f) Os artigos do capítulo 97 (brinquedos, jogos, aparelhos desportivos, etc.).
 
 5 - Consideram-se como «peles em cabelo artificiais», na acepção do n.º 43.04, as imitações obtidas com lã, pêlos ou outras fibras aplicadas por colagem ou costura sobre couro, tecidos ou outras matérias, com exclusão, porém, das imitações obtidas por tecelagem, que serão classificadas como obras dos respectivos têxteis (veludos, pelúcias, tecidos com argolas, etc.).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO IX — Madeira, carvão vegetal e obras de madeira; cortiça e obras de cortiça; obras de esteireiro e de cesteiro
 
@@ -2022,7 +2058,7 @@ NOTA COMPLEMENTAR:
 
 Considera-se «farinha de madeira», na ascepção do n.º 44.12, o pó de madeira que passe, com o máximo de 8%, em peso, de desperdícios, através de um peneiro com uma abertura de malhas de 0,63 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 45 — Cortiça e obras de cortiça
 
@@ -2036,7 +2072,7 @@ b) Os chapéus e artefactos semelhantes e suas partes, do capítulo 65;
 
 c) Os artefectos do capítulo 97 (brinquedos, jogos, aparelhos desportivos, etc.).2 - A cortiça natural simplesmente esquadriada ou espaldada está abrangida pelo n.º 45.02.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 46 — Obras de esteireiro e de cesteiro
 
@@ -2056,13 +2092,13 @@ d) Os móveis e suas partes (capítulo 94).
 
 3 - Consideram-se «matérias para entrançar paralelizadas», na acepção do n.º 46.02, os artefactos constituídos por «matérias para entrançar» justapostas e reunidas em toalhas por meio de materiais de ligação, mesmo que estes últimos sejam de matérias têxteis fiadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO X — Matérias-primas para o fabrico de papel; papel e suas obras
 
 ### CAPÍTULO 47 — Matérias-primas para o fabrico de papel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 48 — Papel e cartão; obras de pasta de celulose («ouate»), de papel e de cartão
 
@@ -2134,7 +2170,7 @@ a) Papel - Os podutos pesando menos de 225 g por metro quadrado;
 
 b) Cartão - Os produtos de peso igual ou superior a 225 g por metro quadrado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 49 — Artigos de livraria e produtos das artes gráficas
 
@@ -2168,7 +2204,7 @@ Porém, as gravuras e ilustrações sem texto que se apresentem em folhas soltas
 
 7 - Consideram-se bilhetes-postais ilustrados, na acepção do n.º 49.09, os que contenham uma ou várias impressões que determinem essa utilização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XI — Matérias têxteis e respectivas obras
 
@@ -2344,7 +2380,7 @@ c) Apenas se atende ao tecido de base, relativamente aos bordados do n.º 58.10.
 
 ### CAPÍTULO 50 — Seda, borra de seda («schappe») e estopa de seda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 51 — Têxteis sintéticos e artificiais, contínuos
 
@@ -2372,11 +2408,11 @@ Os monofios cuja maior dimensão da secção transversal seja superior a 1 mm in
 
 As lâminas ou formas similares (palha artificial) de matérias têxteis sintéticas e artificiais classificam-se pelo n.º 51.02, se a sua largura não exceder 5 mm, e pelo capítulo 39, no caso contrário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 52 — Fios e tecidos, com metais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 53 — Lã, pêlos e crinas
 
@@ -2388,15 +2424,15 @@ NOTA:
 
 É adoptada para os fios a numeração decimal. Para averiguar o número do sistema decimal que corresponde a dado fio pesa-se um número de metros, nunca inferior a 50, deste fio e divide-se esse número pelo peso achado em gramas. O quociente multiplicado pelo número de cabos que formarem o fio dará o título ou número decimal que ao mesmo fio corresponde, devendo acrescentar-se, com relação aos fios torcidos, 7% aos não tintos e 10% aos que forem tintos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 54 — Linho e rami
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 55 — Algodão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 56 — Têxteis sintéticos ou artificiais, descontínuos
 
@@ -2416,11 +2452,11 @@ e) Peso total do cabo superior a 2 g por metro (2000 tex).
 
 Os cabos cujo comprimento não exceda 2 m incluem-se no n.º 56.01.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 57 — Outras fibras têxteis vegetais; fios de papel e tecidos de fios de papel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 58 — Tapetes e tapeçarias; veludos, pelúcias, tecidos com argolas e tecidos de froco; fitas; passamanarias; tules e tecidos de rede com nó; rendas e guipuras; bordados
 
@@ -2450,7 +2486,7 @@ NOTA COMPLEMENTAR:
 
 Para aplicação do máximo de cobrança fixado para os tapetes da subposição 58.01 A. II, a superfície tributável não inclui as pontas, as ourelas ou as franjas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 59 — Pastas («ouates») e feltros; cordame e outros artigos de cordoaria; tecidos especiais; tecidos impregnados ou revestidos; artigos técnicos de matérias têxteis
 
@@ -2518,7 +2554,7 @@ Os cordões lubrificantes e os entrançados, cordas e outros produtos têxteis s
 
 b) Os artefactos têxteis para usos técnicos (com excepção dos incluídos nos n.os 59.14 a 59.16) e, designadamente, os discos para polir, as juntas, as rodelas e outras partes ou peças de máquinas ou de aparelhos. Não se consideram como artefactos têxteis para usos técnicos os tecidos, pastas (ouates), feltros e «tecidos não tecidos», que se apresentem em peças, cortados no sentido do comprimento ou apenas cortados de forma quadrada ou rectangular.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 60 — Malha e respectivos artefactos
 
@@ -2628,7 +2664,7 @@ O «conjunto para a prática de esqui» também pode ser constituído por um fat
 
 Todos os componentes de um «conjunto para a prática de esqui» devem ser feitos de um tecido da mesma contextura, do mesmo estilo e da mesma composição, da mesma cor ou de cores diferentes; devem, além disso, ter tamanho correspondente e compatível.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 61 — Vestuário e acessórios de vestuário, de tecidos
 
@@ -2724,7 +2760,7 @@ O «conjunto para a prática de esqui» também pode ser constituído por um fat
 
 Todos os componentes de um «conjunto para a prática de esqui» devem ser feitos de um tecido da mesma contextura, do mesmo estilo e da mesma composição, da mesma cor ou de cores diferentes; devem, além disso, ter tamanho correspondente e compatível.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 62 — Outros artefactos confeccionados de tecidos
 
@@ -2738,11 +2774,11 @@ a) Os artefactos incluídos nos capítulos 58, 59 e 61;
 
 b) As roupas usadas do n.º 63.01.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 63 — Roupas usadas, retalhos e trapos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XII — Calçado; chapéus e artefactos de uso semelhante; guarda-chuvas e guarda-sóis; penas de adorno preparadas e respectivas obras; flores artificiais; obras de cabelo
 
@@ -2766,7 +2802,7 @@ e) O calçado com características de brinquedo e o calçado com patins insepar�
 
 3 - Para aplicação do n.º 64.01, consideram-se como borracha ou matéria plástica artificial os tecidos e outros suportes têxteis que apresentem, respectivamente, uma camada visível de borracha ou de matéria plástica artificial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 65 — Chapéus e artefactos de uso semelhante e respectivas partes
 
@@ -2784,7 +2820,7 @@ d) Os artigos de chapelaria com característica de brinquedos, tais como os chap
 
 2 - O n.º 65.02 não se aplica às cloches ou formas confeccionadas por costura, com excepção das obtidas pela reunião de tiras (entrançadas, tecidas ou obtidas por qualquer outro modo) simplesmente cosidas em espiral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 66 — Guarda-chuvas, guarda-sóis, bengalas, chicotes, pingalins e respectivas partes
 
@@ -2800,7 +2836,7 @@ c) Os artefactos do capítulo 97, designadamente os guarda-chuvas e sombrinhas m
 
 2 - O n.º 66.03 não compreende os acessórios de matérias têxteis, as bainhas, coberturas, borlas, fiadores e semelhantes, de qualquer matéria, para os artefactos incluídos nos n.os 66.01 e 66.02. Estes acessórios são classificados separadamente, mesmo quando se apresentem com os artefactos a que são destinados, sempre que não sejam aplicados nesses artefactos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 67 — Penas e penugem preparadas e respectivas obras; flores artificiais; obras de cabelo
 
@@ -2834,7 +2870,7 @@ a) Os artefactos análogos em vidro (capítulo 70);
 
 b) As imitações de flores, de folhagem ou de frutos, de cerâmica, pedra, metal, madeira, etc., obtidas numa só peça, por moldação, forja, cinzelagem, estampagem ou qualquer outro processo, ou ainda formadas por diversas partes reunidas por processos que não sejam ligação, colagem ou análogos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XIII — Obras de pedra, gesso, cimento, amianto, mica e matérias análogas; produtos cerâmicos; vidros e suas obras
 
@@ -2872,7 +2908,7 @@ n) Os objectos de arte, de colecção e de antiguidade (capítulo 99).
 
 2 - Na acepção do n.º 68.02, a designação (pedras de cantaria ou de construção» compreende não só as pedras habitualmente utilizadas para esses fins, mas também todas as outras pedras naturais trabalhadas do mesmo modo, com excepção da ardósia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 69 — Produtos cerâmicos
 
@@ -2898,7 +2934,7 @@ g) Os botões, cachimbos e outros artefactos do capítulo 98;
 
 h) Os objectos de arte, de colecção e de antiguidade (capítulo 99).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 70 — Vidro e suas obras
 
@@ -2938,7 +2974,7 @@ a) Mat - manta em filamentos cortados e aglomerados com um aglutinante;
 
 b) Roving - mecha de filamentos contínuos, não torcidos, enrolados em bobinas ou carretéis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XIV — Pérolas naturais, gemas e similares, metais preciosos, metais chapeados de metais preciosos e respectivas obras; joalharia falsa e de fantasia; moedas
 
@@ -3030,7 +3066,7 @@ NOTA COMPLEMENTAR:
 
 Na acepção do n.º 71.11, a expressão «lixo de ourives e outros resíduos e desperdícios de metais preciosos» refere-se aos produtos unicamente utilizáveis para recuperação do metal ou para a preparação de produtos ou composições químicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 72 — Moedas
 
@@ -3038,7 +3074,7 @@ NOTA:
 
 O presente capítulo não compreende as moedas que tenham o carácter de objectos de colecção (n.º 99.05).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XV — Metais comuns e respectivas obras
 
@@ -3298,7 +3334,7 @@ a) Aços especiais contendo, em peso, um ou mais dos elementos abaixo especifica
 
 b) Outros aços especiais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 74 — Cobre
 
@@ -3320,7 +3356,7 @@ Estão incluídas no n.º 74.04 as chapas, folhas e tiras de espessura superior 
 
 3 - Estão designadamente incluídos nos n.os 74.07 e 74.08 os tubos, barras ocas e acessórios de ligação de tubos, polidos ou revestidos e os de forma especial ou trabalhados (em serpentina, curvos, roscados, perfurados, estrangulados, cónicos, com aplicação de aletas, etc.).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 75 — Níquel
 
@@ -3338,7 +3374,7 @@ Estão designadamente compreendidas no n.º 75.03 as chapas, folhas e tiras reco
 
 2 - Estão designadamente compreendidos no n.º 75.04 os tubos, barras ocas e acessórios de ligação de tubos, polidos ou revestidos, e os de forma especial ou trabalhados (em serpentinas, curvos, roscados, perfurados, estrangulados, cónicos, com aplicação de aletas, etc.).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 76 — Alumínio
 
@@ -3356,11 +3392,11 @@ Estão designadamente compreendidas no n.º 76.03 as chapas, folhas e tiras de e
 
 2 - Estão designadamente compreendidos nos n.os 76.06 e 76.07 os tubos, barras ocas e acessórios de ligação de tubos, polidos ou revestidos, e os de forma especial ou trabalhados (em serpentinas, curvos, roscados, perfurados, estrangulados, cónicos, com aplicação de aletas, etc.).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 77 — Magnésio e berílio (glucínio)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 78 — Chumbo
 
@@ -3378,7 +3414,7 @@ Estão designadamente compreendidas no n.º 78.03 as chapas, folhas e tiras cujo
 
 2 - Estão designadamente compreendidos no n.º 78.05 os tubos, barras ocas e acessórios de ligação de tubos, polidos ou revestidos, e os de forma especial ou trabalhados (em serpentinas, curvos, roscados, perfurados, estrangulados, cónicos, com aplicação de aletas, etc.).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 79 — Zinco
 
@@ -3396,7 +3432,7 @@ Estão designadamente compreendidas no n.º 79.03 as chapas, folhas e tiras cort
 
 2 - Estão designadamente compreendidos no n.º 79.04 os tubos, barras ocas e acessórios de ligação de tubos, polidos ou revestidos e os de forma especial ou trabalhados (em serpentinas, curvos, roscados, perfurados, estrangulados, cónicos, com aplicação de aletas, etc.).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 80 — Estanho
 
@@ -3414,7 +3450,7 @@ Estão designadamente compreendidas no n.º 80.03 as chapas, folhas e tiras que 
 
 2 - Estão designadamente compreendidos no n.º 80.05 os tubos, barras ocas e acessórios de ligação de tubos, polidos ou revestidos e os de forma especial ou trabalhados (em serpentinas, curvos, roscados, perfurados, estrangulados, cónicos, com aplicação de aletas, etc.).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 81 — Outros metais comuns
 
@@ -3422,7 +3458,7 @@ NOTA:
 
 O n.º 81.04 abrange apenas os seguintes metais comuns: bismuto, cádmio, cobalto, crómio, gálio, germânio, háfnio (céltio), índio, manganés, nióbio (colômbio), rénio, antimónio, titânio, tório, tálio, urânio empobrecido em U 235, vanádio e zircónio. Esta posição também abrange os mates, o speiss e outros produtos itermédios de metalurgia do cobalto, e ainda os cermèts.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 82 — Ferramentas; artigos de cutelaria e talheres, de metais comuns
 
@@ -3444,7 +3480,7 @@ Nos n.os 82.11 ou 82.13, conforme os casos, incluem-se as cabeças, pentes, cont
 
 3 - Os estojos e receptáculos semelhantes que se apresentem com os artefactos deste capítulo a que são destinados e com os quais são normalmente vendidos classificam-se com esses artefactos. Quando apresentados isoladamente, seguem o seu regime próprio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 83 — Obras diversas de metais comuns
 
@@ -3452,7 +3488,7 @@ NOTA:
 
 Em nenhum caso se consideram como partes de obras do presente capítulo os artefactos de ferro fundido, de ferro macio ou de aço classificados pelos n.os 73.25, 73.29, 73.31, 73.32 e 73.35, nem os mesmos artefactos de outros metais comuns.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XVI — Máquinas e aparelhos; material eléctrico
 
@@ -3586,7 +3622,7 @@ b) Precisão no deslocamento da mesa porta-objecto e do cursor porta-fuso cujo e
 
 4 - (EURATOM) A expressão «reatores nucleares» (subposição 84.59 B) designa o conjunto de aparelhagem e dispositivos contidos num invólucro de protecção biológica, compreendendo eventualmente a própria protecção, bem como os dispositivos que façam corpo com as partes colocadas no invólucro (designadamente barras de regulação e respectivos dispositivos, de guia e de comando, desde que façam corpo com essas barras ou com outras partes no interior do invólucro).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XVI — Máquinas e aparelhos; material eléctrico
 
@@ -3636,7 +3672,7 @@ NOTA COMPLEMENTAR:
 
 A subposição 85.15 A III b) compreende também os aparelhos receptores de televisão sem monitor (video tuner) que podem ser ligados, por exemplo, a aparelhos de registo e de reprodução das imagens e do som em televisão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XVII — Material de transporte
 
@@ -3708,7 +3744,7 @@ c) Os aparelhos eléctricos de sinalização do n.º 85.16.
 
 Também se incluem no n.º 86.10, mesmo que comportem dispositivos acessórios para iluminação eléctrica, os discos, placas móveis e semáforos, aparelhos de comando para passagens de nível, aparelhos para agulhagem no solo, postos de manobra à distância e outros aparelhos mecânicos não eléctricos de sinalização, de segurança, de controle e de comando, para quaisquer vias de comunicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 87 — Automóveis, tractores, velocípedes e outros veículos terrestres
 
@@ -3724,7 +3760,7 @@ NOTAS COMPLEMENTARES:
 
 1 - O presente capítulo não compreende os veículos concebidos para circularem apenas sobre carris.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 88 — Navegação aérea
 
@@ -3732,7 +3768,7 @@ NOTAS COMPLEMENTARES:
 
 1 - Para aplicação da subposição 88.02 B., a expressão «peso em vazio» significa o peso dos aparelhos prontos a voar, com exclusão do peso do pessoal, do peso do combustível e dos diversos equipamentos, salvo os que se encontrem fixos de forma estável.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 89 — Navegação marítima e fluvial
 
@@ -3756,7 +3792,7 @@ Artefactos amovíveis (móveis, artigos de cozinha, louças, etc.) que apresente
 
 A existência destas condições será verificada por peritos nomeados pelo chefe da respectiva casa fiscal, os quais para tal fim procederão a vistoria, estando presentes a esse acto o capitão do porto e o cônsul ou vice-cônsul da nação a que o navio pertencer. Quando não haja estas entidades no local em que a vistoria se fizer, ou próximo dele, o chefe da respectiva casa fiscal indicará quem os deve substituir.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XVIII
 
@@ -3818,7 +3854,7 @@ NOTAS COMPLEMENTARES:
 
 2 - Consideranm-se como instrumentos e aparelhos electrónicos, na acepção da subposição 90.28 A., os instrumentos e aparelhos que contenham um ou mais artefactos do n.º 85.21. Todavia, para aplicação desta disposição não são tomados em consideração os artefactos do n.º 85.21 que desempenhem apenas a função de rectificadores de corrente ou que se apresentem apenas na parte desses instrumentos ou aparelhos que se destine à alimentação dos mesmos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 91 — Relojoaria
 
@@ -3838,7 +3874,7 @@ NOTAS:
 
 Os artefactos incluídos no n.º 91.09 classificam-se como esboços quando se apresentem simplesmente estampados ou torneados, sem furagem, polimento, revestimento galvanoplástico ou qualquer outra espécie de acabamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 92
 
@@ -3866,7 +3902,7 @@ g) As bobinas e suportes semelhantes (classificação consoante a matéria const
 
 3 - Os estojos e receptáculos semelhantes que se apresentem com os artefactos deste capítulo a que são destinados e com os quais são normalmente vendidos classificam-se juntamente com esses artefactos. Quando se apresentem isolados seguem o seu regime próprio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XIX — Armas e munições
 
@@ -3892,7 +3928,7 @@ f) As armas e munições que tenham as características de objectos de colecçã
 
 3 - Os estojos e receptáculos semelhantes que se apresentem com os artefactos deste capítulo a que são destinados e com os quais são normalmente vendidos classificam-se juntamente com esses artefactos. Quando se apresentem isolados, seguem o seu regime próprio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XX — Mercadorias e produtos diversos não especificados nem compreendidos noutras secções
 
@@ -3938,7 +3974,7 @@ c) As estantes para livros e móveis semelhantes, formados por elementos que se 
 
 b) Os artefactos compreendidos no n.º 94.04, quando se apresentem isoladamente, classificam-se por aquela posição, ainda que sejam partes de móveis dos n.os 94.01 a 94.03.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 95 — Matérias para talhe ou modelação, preparadas ou em obra
 
@@ -3976,7 +4012,7 @@ a) As sementes rijas, caroços, cascas e matérias vegetais semelhantes (por exe
 
 b) A espuma-do-mar e o âmbar-amarelo, naturais ou reconstituídos, bem como o azeviche e as matérias minerais semelhantes ao azeviche.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 96 — Escovas, pincéis e artefactos semelhantes, vassouras, borlas, peneiros e crivos
 
@@ -3992,7 +4028,7 @@ c) Os artefactos que tenham características de brinquedos (capítulo 97).
 
 2 - Consideram-se «cabeças preparadas», na acepção do n.º 96.01, os tufos de pêlos, de fibras vegetais ou de outras matérias, não montados, prontos a serem utilizados, não divididos, na fabricação de pincéis ou artefactos semelhantes, ou que apenas exijam, para esse fim, complementos de obra pouco importantes, tais como a colagem, o revestimento da base do tufo e a igualização ou apara das extremidades.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 97 — Brinquedos, jogos e artigos para recreio e desporto
 
@@ -4042,7 +4078,7 @@ s) As cordas para raquetas, as tendas e artigos de campismo e as luvas de qualqu
 
 4 - Salvo o que dispõe a nota 1 precedente, as partes, peças separadas e acessórios que possam reconhecer-se como destinando-se exclusivamente ou principalmente aos artefactos deste capítulo classificam-se como estes artefactos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 ### CAPÍTULO 98 — Obras diversas
 
@@ -4064,7 +4100,7 @@ e) Os brinquedos do capítulo 97.
 
 3 - Os estojos e receptáculos semelhantes que se apresentem com os artefactos deste capítulo a que são destinados e com os quais são normalmente vendidos classificam-se juntamente com esses artefactos. Quando se apresentem isolados seguem o seu regime próprio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
 
 #### SECÇÃO XXI — Objectos de arte e de colecção; antiguidades
 
@@ -4090,4 +4126,4 @@ b) Os artefactos susceptíveis de serem classificados simultaneamente pelo n.º 
 
 5 - As molduras classificam-se juntamente com os respectivos quadros, pinturas, desenhos, gravuras, estampas e litografias quando as suas características e o seu valor estejam de harmonia com as características e o valor dos referidos objectos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30001/00010093.pdf)

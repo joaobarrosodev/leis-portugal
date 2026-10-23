@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1983-452050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a021918359d4d3474875c74a250b52d2ad709853609c42a7e9e75cb30ee0e8ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebb19b2ec1a2ed04083ac290e25ddf61b5404f4330aa35e42db6681f80c8c6d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério da Indústria Energia e Exportação
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:618136:por
+  label: Rectificado pela DECL.DD5676.12.09.1983.PCM, DR.IS [226]Supl de 30.09.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-618136
+  date: '1983-09-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:49Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +118,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O recrutamento do pessoal para lugares de ingresso e acesso dos organismos e serviços integrados no Ministério da Indústria, Energia e Exportação é feito por concursos.
+Artigo 1.º - 1 - O recrutamento do pessoal para lugares de ingresso e acesso dos organismos e serviços integrados no Ministério da Indústria, Energia e Exportação é feito por concursos.
 
 2 - Na falta de regulamento próprio, aplicar-se-á o regulamento aprovado para a Secretaria-Geral, nos termos da legislação geral em vigor.
 
@@ -105,9 +128,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - A progressão nas carreiras horizontais não está condicionada à realização de concurso, ficando sujeita ao disposto no artigo 21.º do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio.
 
-###### Art. 2.º Sempre que numa carreira não possam ser preenchidos lugares de categorias de acesso por falta de candidatos com os requisitos de promoção, poderá ser preenchido o correspondente número de lugares em categoria de ingresso ou em categoria intermédia, independentemente da existência de vaga nestas categorias, ficando, porém, cativos os lugares das categorias superiores.
+Art. 2.º Sempre que numa carreira não possam ser preenchidos lugares de categorias de acesso por falta de candidatos com os requisitos de promoção, poderá ser preenchido o correspondente número de lugares em categoria de ingresso ou em categoria intermédia, independentemente da existência de vaga nestas categorias, ficando, porém, cativos os lugares das categorias superiores.
 
-###### Art. 3.º - 1 - O Ministro poderá transferir funcionários de um quadro para outro, dentro do Ministério, desde que, cumulativamente:
+Art. 3.º - 1 - O Ministro poderá transferir funcionários de um quadro para outro, dentro do Ministério, desde que, cumulativamente:
 
 a) Haja vaga na mesma categoria no quadro de destino;
 
@@ -119,7 +142,7 @@ b) Haja anuência do funcionário.
 
 4 - Por despacho do Ministro da Indústria, Energia e Exportação, serão estabelecidos os critérios a observar nas transferências dos funcionários e agentes a que se referem os números anteriores.
 
-###### Art. 4.º - 1 - Aos cargos de director-geral, subdirector-geral, director de serviços e chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 4.º - 1 - Aos cargos de director-geral, subdirector-geral, director de serviços e chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - Os cargos dirigentes que sejam portadores de diferentes designações serão expressamente equiparados aos cargos a que se refere o número anterior nos diplomas orgânicos dos referidos serviços para efeitos de aplicação do regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
@@ -137,28 +160,28 @@ b) Candidatos com curso superior adequado vinculados à função pública.
 
 5 - Para o cômputo do tempo exigido pela alínea a) do n.º 4 aos adjuntos técnicos principais toma-se em consideração também o tempo de bom e efectivo serviço como adjuntos técnicos de 1.ª classe.
 
-###### Art. 5.º - 1 - Os cargos de chefes de repartição e de chefe de secção podem ser exercidos em regime de substituição, nos termos do artigo 11.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 5.º - 1 - Os cargos de chefes de repartição e de chefe de secção podem ser exercidos em regime de substituição, nos termos do artigo 11.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - A substituição de chefes de repartição e de chefes de secção do quadro único da Secretaria-Geral deferir-se-á em funcionários do mesmo quadro e carreira e de nível inferior na escala hierárquica, a designar preferentemente de entre os da categoria mais próxima da do cargo a substituir que exerçam funções no mesmo serviço.
 
-###### Art. 6.º Os tesoureiros e os funcionários que em cada serviço ou organismo exerçam funções de tesoureiro terão direito a abono para falhas a fixar nos termos da lei geral ou, na sua falta, por despacho do Ministro, não podendo, neste último caso, ser fixado quantitativo superior a 10% do vencimento da letra J.
+Art. 6.º Os tesoureiros e os funcionários que em cada serviço ou organismo exerçam funções de tesoureiro terão direito a abono para falhas a fixar nos termos da lei geral ou, na sua falta, por despacho do Ministro, não podendo, neste último caso, ser fixado quantitativo superior a 10% do vencimento da letra J.
 
-###### Art. 7.º Os funcionários provenientes do quadro geral de adidos que, antes de concluído o respectivo processo de reclassificação, foram integrados na carreira de auxiliar técnico prevista nos quadros do Ministério em classe de remuneração inferior ao da categoria atribuída no termo daquele processo serão providos, com efeitos reportados à data da respectiva integração em categoria do mesmo nível de remuneração daquela em que foram reclassificados.
+Art. 7.º Os funcionários provenientes do quadro geral de adidos que, antes de concluído o respectivo processo de reclassificação, foram integrados na carreira de auxiliar técnico prevista nos quadros do Ministério em classe de remuneração inferior ao da categoria atribuída no termo daquele processo serão providos, com efeitos reportados à data da respectiva integração em categoria do mesmo nível de remuneração daquela em que foram reclassificados.
 
-###### Art. 8.º Aos funcionários integrados numa das carreiras a que se referem os artigos 15.º, 16.º e 17.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 26 de Junho, será contado na actual carreira o tempo em que comprovadamente exercerem as correspondentes funções, ainda que se encontrassem providos em lugares de outra carreira.
+Art. 8.º Aos funcionários integrados numa das carreiras a que se referem os artigos 15.º, 16.º e 17.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 26 de Junho, será contado na actual carreira o tempo em que comprovadamente exercerem as correspondentes funções, ainda que se encontrassem providos em lugares de outra carreira.
 
-###### Art. 9.º - 1 - Os funcionários que à data da entrada em vigor do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, se encontravam nomeados em lugar da carreira técnica não abrangida pelo [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, são providos em lugar da mesma classe da carreira de técnico superior constante do quadro de pessoal do serviço a que pertencem, independentemente de habilitações académicas, nos termos do n.º 1 do artigo 25.º do mesmo decreto-lei, continuando-lhes vedado o acesso à categoria de assessor.
+Art. 9.º - 1 - Os funcionários que à data da entrada em vigor do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, se encontravam nomeados em lugar da carreira técnica não abrangida pelo [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, são providos em lugar da mesma classe da carreira de técnico superior constante do quadro de pessoal do serviço a que pertencem, independentemente de habilitações académicas, nos termos do n.º 1 do artigo 25.º do mesmo decreto-lei, continuando-lhes vedado o acesso à categoria de assessor.
 
 2 - Para efeitos de contagem de tempo na categoria o provimento previsto no número anterior considera-se retrotraído a 1 de Junho de 1979.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Ricardo Manuel Simões Bayão Horta - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 30 de Maio de 1983.**
+Promulgado em 30 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Junho de 1983.**
+Referendado em 5 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

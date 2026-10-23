@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16000/20232023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1985-183421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c72ef817dd9c02044b7755538e3ab634e90883e7eb3c9fe21d7498c2939a1f38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 389d2547198aabd530d08017e701239e624d2578acf25df20bc25ad00a4257bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600309:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:53Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +118,7 @@ Tornando-se, por isso, necessário definir, dos abonos percebidos pelos elemento
 
 o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São considerados como remunerações acessórias, para efeitos do disposto no n.º 1 do artigo 10.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, os abonos estabelecidos pelos diplomas a seguir indicados:
+Artigo 1.º São considerados como remunerações acessórias, para efeitos do disposto no n.º 1 do artigo 10.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, os abonos estabelecidos pelos diplomas a seguir indicados:
 
 [Decreto-Lei n.º 59/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1982-600309), de 27 de Fevereiro;
 
@@ -103,16 +126,16 @@ o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Despacho de 27 de Outubro de 1978, publicado no Diário da República, 2.ª série, de 4 de Novembro de 1978, a p. 6675.
 
-###### Art. 2.ª São igualmente abrangidos pelo conceito de remunerações acessórias os prémios por inactivação de engenhos explosivos, as gratificações de especialidade de minas e armadilhas, bem como o abono referido no n.º 2 do artigo 1.º do [Decreto-Lei n.º 454/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1983-444383), de 28 de Dezembro.
+Art. 2.ª São igualmente abrangidos pelo conceito de remunerações acessórias os prémios por inactivação de engenhos explosivos, as gratificações de especialidade de minas e armadilhas, bem como o abono referido no n.º 2 do artigo 1.º do [Decreto-Lei n.º 454/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1983-444383), de 28 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 2 de Julho de 1985.**
+Promulgado em 2 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Julho de 1985.**
+Referendado em 3 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

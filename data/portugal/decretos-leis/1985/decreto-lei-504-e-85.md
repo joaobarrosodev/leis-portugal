@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1985, 4º Suplemento, Série I de 1985-12-30
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4252-(27) a 4252-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30004/00270029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-e-1985-250613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 777c6d4d0590169d5921faadcfcaec7757babf564f6845a7034832ff45c22021
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cea6030030623081d3cc7e5dc795ddabe00281610e75201105db06e6e809db5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Exportação
+- Direitos de Importação
+- Dívida Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:555041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:555041:por
+  label: Revogado, a partir de 01.07.1990, pelo DEC LEI.309/90.29.09.1990.MF, DR.IS [226] de 29.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1990-555041
+  date: '1990-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:18Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +111,7 @@ O Governo decreta, ao abrigo da alínea f) do artigo 30.º da [Lei n.º 2-B/85](
 
 ## TÍTULO I — Definições
 
-###### Artigo 1.º Para efeitos de aplicação do presente decreto-lei, entende-se por:
+Artigo 1.º Para efeitos de aplicação do presente decreto-lei, entende-se por:
 
 a) «Dívida aduaneira», a obrigação de uma pessoa singular ou colectiva pagar o montante dos direitos de importação ou dos direitos de exportação aplicáveis às mercadorias passíveis de tais direitos, em virtude das disposições em vigor;
 
@@ -113,7 +125,7 @@ d) «Registo de liquidação», o acto administrativo pelo qual é devidamente f
 
 ### CAPÍTULO I — Constituição da dívida aduaneira na importação
 
-###### Art. 2.º - 1 - São factos constitutivos da dívida aduaneira na importação:
+Art. 2.º - 1 - São factos constitutivos da dívida aduaneira na importação:
 
 a) A introdução no consumo ou a colocação em livre prática no território aduaneiro de uma mercadoria passível de direitos de importação;
 
@@ -133,7 +145,7 @@ f) A permanência no território aduaneiro, a título definitivo, de desperdíci
 
 2 - A destruição da mercadoria efectuada sem autorização prévia das autoridades aduaneiras, antes de essa mercadoria ter sido efectivamente utilizada nos fins previstos, é equiparada à não utilização referida na alínea e) do número anterior.
 
-###### Art. 3.º Considera-se como momento da constituição da dívida aduaneira na importação:
+Art. 3.º Considera-se como momento da constituição da dívida aduaneira na importação:
 
 a) Nos casos referidos no artigo 2.º, n.º 1, alínea a), a data da numeração do bilhete de despacho de importação ou da declaração para livre prática;
 
@@ -155,7 +167,7 @@ e) Nos casos referidos no artigo 2.º, n.º 1, alínea e):
 
 f) Nos casos referidos no artigo 2.º, n.º 1, alínea f), e n.º 2, o momento em que se verifica a destruição da mercadoria.
 
-###### Art. 4.º Em derrogação do disposto no artigo 2.º, n.º 1, não há lugar à constituição da dívida aduaneira na importação:
+Art. 4.º Em derrogação do disposto no artigo 2.º, n.º 1, não há lugar à constituição da dívida aduaneira na importação:
 
 a) Nos casos referidos nas alíneas b) e d), quando o interessado provar, a contento das autoridades aduaneiras, que as mercadorias foram objecto de destruição total, ou de perda irremediável por uma causa dependente da própria natureza da mercadoria ou em consequência de caso fortuito ou de força maior;
 
@@ -163,7 +175,7 @@ b) No caso referido na alínea e), quando, mediante autorização das autoridade
 
 ### CAPÍTULO II — Extinção da dívida aduaneira na importação
 
-###### Art. 5.º A dívida aduaneira na importação extingue-se:
+Art. 5.º A dívida aduaneira na importação extingue-se:
 
 a) Pela anulação da declaração para a livre prática, nos termos das disposições legais aplicáveis àquele regime aduaneiro;
 
@@ -181,13 +193,13 @@ f) Pela exportação das mercadorias do território aduaneiro da Comunidade ou p
 
 ### CAPÍTULO I — Constituição da dívida aduaneira na exportação
 
-###### Art. 6.º São factos constitutivos da dívida aduaneira na exportação:
+Art. 6.º São factos constitutivos da dívida aduaneira na exportação:
 
 a) A exportação do território aduaneiro de uma mercadoria passível de direitos de exportação;
 
 b) A não afectação de uma mercadoria ao destino que justificou a sua saída do território aduaneiro com isenção total ou parcial de direitos de exportação.
 
-###### Art. 7.º Considera-se como momento da constituição da dívida aduaneira na exportação:
+Art. 7.º Considera-se como momento da constituição da dívida aduaneira na exportação:
 
 a) No caso referido no artigo 6.º, alínea a), a data da numeração da declaração de exportação ou, na sua falta, o momento em que as mercadorias saíram do território aduaneiro;
 
@@ -199,7 +211,7 @@ b) Nos casos referidos no artigo 6.º, alínea b):
 
 ### CAPÍTULO II — Extinção da dívida aduaneira na exportação
 
-###### Art. 8.º A dívida aduaneira na exportação extingue-se:
+Art. 8.º A dívida aduaneira na exportação extingue-se:
 
 a) Pela anulação da declaração de exportação;
 
@@ -209,7 +221,7 @@ c) Por prescrição, nos termos da legislação em vigor.
 
 ## TÍTULO IV — Determinação do montante e exigibilidade da dívida aduaneira
 
-###### Art. 9.º Sob reserva de disposições especiais adoptadas no quadro de regulamentações aduaneiras ou agrícolas específicas:
+Art. 9.º Sob reserva de disposições especiais adoptadas no quadro de regulamentações aduaneiras ou agrícolas específicas:
 
 a) O montante dos direitos de importação ou de exportação aplicáveis a uma mercadoria é determinado com base nos elementos de tributação que lhe são próprios no momento em que a respectiva dívida aduaneira se constituiu, nos termos dos artigos 3.º e 7.º;
 
@@ -217,20 +229,20 @@ b) Quando não for possível determinar o momento de constituição da dívida a
 
 c) Em derrogação do disposto na alínea anterior, serão aplicáveis os elementos de tributação em vigor no momento mais recuado no tempo em que a existência da dívida aduaneira puder ser fixada, sempre que as autoridades aduaneiras possam determinar a sua constituição em momento anterior ao da constatação.
 
-###### Art. 10.º Sem prejuízo dos prazos de pagamento que podem ser concedidos ao devedor, nos termos da legislação em vigor, o montante dos direitos de importação ou de exportação que é objecto da dívida aduaneira é exigível a partir do momento em que as autoridades competentes procedam ao respectivo registo de liquidação.
+Art. 10.º Sem prejuízo dos prazos de pagamento que podem ser concedidos ao devedor, nos termos da legislação em vigor, o montante dos direitos de importação ou de exportação que é objecto da dívida aduaneira é exigível a partir do momento em que as autoridades competentes procedam ao respectivo registo de liquidação.
 
 ## TÍTULO V — Entrada em vigor
 
-###### Art. 11.º O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1986.
+Art. 11.º O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Dezembro de 1985.**
+Promulgado em 30 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Dezembro de 1985.**
+Referendado em 30 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

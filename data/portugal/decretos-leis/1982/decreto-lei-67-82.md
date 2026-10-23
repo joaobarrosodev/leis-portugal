@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1982-599913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 684aa2819ab807e9862877f219a3874712ff2a63cb64e56ccfc4015c6fb53d25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45982716ffda3e75f44baf2366d8aeb3912f312558120a7208f70f3ed17bb6fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Área de Paisagem Protegida da Serra do Açor
+- Proteção do Ambiente
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:454502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454502:por
+  label: "Revogados, a partir de 29.07.2008, os art.s 7º e 8º , pelo DEC LEI.142/2008.24.07.2008.MAOTDR, DR.IS [142] de 24.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2008-454502
+  date: '2008-07-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:33Z'
   warnings: []
   errors: []
 ---
@@ -112,11 +125,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Área de Paisagem Protegida da Serra do Açor, adiante designada por Paisagem Protegida.
+Artigo 1.º É criada a Área de Paisagem Protegida da Serra do Açor, adiante designada por Paisagem Protegida.
 
-###### Art. 2.º A criação da Paisagem Protegida tem por objectivo a salvaguarda dos valores naturais, culturais, científicos e recreativos nela existentes.
+Art. 2.º A criação da Paisagem Protegida tem por objectivo a salvaguarda dos valores naturais, culturais, científicos e recreativos nela existentes.
 
-###### Art. 3.º A Paisagem Protegida tem os seguintes limites:
+Art. 3.º A Paisagem Protegida tem os seguintes limites:
 
 1) Do desvio da estrada florestal na encosta das Eiras, pela linha de água nascente da ribeira da Mata da Margaraça, em direcção a jusante até à confluência da barroca de Degrainhos; desta confluência, segundo a inflexão da linha de água em linha recta na direcção E.-W., até ao carreteiro que, partindo da povoação de Benfeita, segue a linha de festo da Lomba do Bujo na direcção N.-S.; pelo referido carreteiro até ao caminho de pé posto que estabelece a ligação entre esse mesmo carreteiro e o ponto de confluência das linhas de água da barroca do Sardal e da barroca do Enxudro; desta última confluência, pela barroca do Enxudro em direcção sul, até ao marco geodésico (Picoto) cota 1012, e do marco geodésico, seguindo a estrada florestal em direcção este, até ao desvio da estrada florestal na encosta das Eiras;
 
@@ -124,17 +137,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3) As dúvidas eventualmente suscitadas pela leitura do mapa anexo ao presente diploma serão resolvidas pela consulta dos limites cartografados à escala 1/25000 em carta arquivada para o efeito na Câmara Municipal de Arganil e no Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 4.º Dentro da Paisagem Protegida são criadas as seguintes zonas:
+Art. 4.º Dentro da Paisagem Protegida são criadas as seguintes zonas:
 
 1) Reserva Natural Parcial da Mata da Margaraça, adiante designada por Reserva Natural, delimitada na carta anexa;
 
 2) Reserva de Recreio da Fraga da Pena, adiante designada por Reserva de Recreio, assinalada na carta anexa.
 
-###### Art. 5.º Dentro da Reserva Natural serão estabelecidas, através de diploma legal apropriado, as reservas integrais que estudos botânicos venham a reconhecer como necessárias.
+Art. 5.º Dentro da Reserva Natural serão estabelecidas, através de diploma legal apropriado, as reservas integrais que estudos botânicos venham a reconhecer como necessárias.
 
-###### Art. 6.º A Paisagem Protegida disporá de órgãos próprios, a definir em regulamento, de acordo com o disposto no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, assegurando a devida representação autárquica.
+Art. 6.º A Paisagem Protegida disporá de órgãos próprios, a definir em regulamento, de acordo com o disposto no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, assegurando a devida representação autárquica.
 
-###### Art. 7.º Para a realização do objectivo definido no artigo 2.º, para além de se manter a necessidade de obtenção de todas as autorizações definitivas e prévias já hoje exigidas, estabelecem-se mais os seguintes condicionalismos:
+Art. 7.º Para a realização do objectivo definido no artigo 2.º, para além de se manter a necessidade de obtenção de todas as autorizações definitivas e prévias já hoje exigidas, estabelecem-se mais os seguintes condicionalismos:
 
 1) Dentro dos limites da Paisagem Protegida ficam sujeitos a parecer favorável do Ministério da Qualidade de Vida:
 
@@ -166,7 +179,7 @@ m) A captura ou caça de qualquer animal selvagem, salvo nos termos fixados por 
 
 3) Não carecem da autorização a que se refere o n.º 1) quaisquer trabalhos que digam respeito ao exercício das actividades agrícolas, de acordo com os sistemas e área de exploração existentes.
 
-###### Art. 8.º - 1 - A infracção ao disposto no n.º 1) do artigo 7.º do presente diploma legal constitui contra-ordenação punida com uma coima até ao montante de 1000000$00, em termos a fixar por regulamento.
+Art. 8.º - 1 - A infracção ao disposto no n.º 1) do artigo 7.º do presente diploma legal constitui contra-ordenação punida com uma coima até ao montante de 1000000$00, em termos a fixar por regulamento.
 
 2 - A aplicação da coima prevista no número anterior não exonera o infractor da obrigação de demolir as obras ou trabalhos efectuados e de repor as coisas na situação anterior à infracção, sem que por esse facto tenha direito a qualquer indemnização.
 
@@ -174,20 +187,20 @@ m) A captura ou caça de qualquer animal selvagem, salvo nos termos fixados por 
 
 4 - A decisão que aplique uma coima ou determine o arquivamento do processo compete ao Ministro de Estado e da Qualidade de Vida.
 
-###### Art. 9.º O plano de ordenamento da Paisagem Protegida constará de regulamento, que definirá os termos em que poderão ser concedidas as autorizações previstas no artigo 7.º
+Art. 9.º O plano de ordenamento da Paisagem Protegida constará de regulamento, que definirá os termos em que poderão ser concedidas as autorizações previstas no artigo 7.º
 
-###### Art. 10.º Após a aprovação do plano do ordenamento a que se refere o artigo anterior, não carecem das autorizações a que se refere o artigo 7.º das obras nas povoações incluídas na Paisagem Protegida.
+Art. 10.º Após a aprovação do plano do ordenamento a que se refere o artigo anterior, não carecem das autorizações a que se refere o artigo 7.º das obras nas povoações incluídas na Paisagem Protegida.
 
-###### Art. 11.º Os regulamentos necessários à execução do presente diploma serão aprovados por decreto regulamentar, assinado, além do Primeiro-Ministro, pelos Ministros de Estado e da Qualidade de Vida e das Finanças e do Plano e pelo Ministro da Reforma Administrativa.
+Art. 11.º Os regulamentos necessários à execução do presente diploma serão aprovados por decreto regulamentar, assinado, além do Primeiro-Ministro, pelos Ministros de Estado e da Qualidade de Vida e das Finanças e do Plano e pelo Ministro da Reforma Administrativa.
 
-###### Art. 12.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro de Estado e da Qualidade de Vida.
+Art. 12.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro de Estado e da Qualidade de Vida.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1982. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 15 de Fevereiro de 1982.**
+Promulgado em 15 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/05100/04650467.pdf))](https://files.diariodarepublica.pt/1s/1982/03/05100/04650467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/05100/04650467.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/08200/09710972.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1985-325543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a68af44885fa2e550000189079efa501dd7c5c699514fe0cf47d3b23a02cd677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d474cc25c70a19ab9485a608592063cc3d52126879b126e35fc7031df7726a98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento
+- Exportação
+- Política de Defesa
+- Restrição a Exportação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:26Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +107,19 @@ Considerando que as medidas de salvaguarda necessárias à defesa dos interesses
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Princípio fundamental
 
 A exportação de mercadorias apenas pode ser restringida por razões de ordem e segurança públicas, de protecção da saúde e da vida das pessoas e dos animais ou da preservação dos vegetais, de protecção do património nacional com valor artístico, histórico ou arqueológico, ou de protecção da propriedade industrial e comercial.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Âmbito de aplicação
 
 Não obstante o disposto no artigo anterior, caso se verifique a situação de carência, ou o risco iminente dessa situação, de mercadorias consideradas essenciais para o abastecimento do País, poderão ser estabelecidas, a título excepcional, medidas de salvaguarda da exportação de tais produtos.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Processo de aplicação de medidas de salvaguarda
 
@@ -124,7 +133,7 @@ a) O interesse em manter, tanto quanto possível, aquelas correntes; e
 
 b) O volume de contratos negociados em condições normais antes da entrada em vigor das medidas de salvaguarda.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Notificação
 
@@ -132,12 +141,12 @@ As medidas de salvaguarda estabelecidas no âmbito do disposto no presente diplo
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins - José de Almeida Serra.
 
-**Promulgado em 24 de Março de 1985.**
+Promulgado em 24 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Março de 1985.**
+Referendado em 25 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/23900/33923397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1982-376615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34d81fabc38ffb6313450a916efd92da4630d886dd8e2889d2c956eb2376ade6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee7af5da6cbcac81d2bd49e99bea53323c9a78e2bb89eb385a5c7c1173603104
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Superior da Polícia
+- Orgânica
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:221565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO ATE 30 DE JUNHO DE 1986, PELO DECRETO LEI 104/86, DE 19 DE MAIO, PUBLICADO NO DR.IS, 114.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-05-19'
+- type: cites
+  target: pt:dre:480966:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221565:por
+  label: "Revogado pelo DEC LEI.318/86.25.09.1986.MAI, DR.IS [221] de 25.09.1986, sem prejuízo da vigência transitória dos\
+    \ seus regulamentos de execução.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1986-221565
+  date: '1986-09-25'
 article_structure:
   article_count: 39
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:40Z'
   warnings: []
   errors: []
 ---
@@ -460,7 +478,7 @@ i) Armamento e Tiro.
 
 ###### Artigo 29.º — (Número de alunos)
 
-**O Ministro da Administração Interna fixará anualmente o número de vagas para os cursos professados na ESP, tendo em conta as necessidades estimadas, o número de pretendentes à matrícula e a capacidade das instalações.**
+O Ministro da Administração Interna fixará anualmente o número de vagas para os cursos professados na ESP, tendo em conta as necessidades estimadas, o número de pretendentes à matrícula e a capacidade das instalações.
 
 #### SECÇÃO V — Situação escolar dos alunos
 
@@ -502,7 +520,7 @@ Em cada um dos diferentes cursos há prémios pecuniários, honoríficos ou outr
 
 ###### Artigo 37.º — (Remunerações)
 
-**O Ministro de Estado e das Finanças e do Plano e o Ministro da Administração Interna fixarão por despacho conjunto o regime de remunerações a vigorar na ESP.**
+O Ministro de Estado e das Finanças e do Plano e o Ministro da Administração Interna fixarão por despacho conjunto o regime de remunerações a vigorar na ESP.
 
 #### SECÇÃO VII — Regime de disciplina
 
@@ -516,8 +534,8 @@ O regulamento interno a aprovar pelo comandante-geral da Polícia de Segurança 
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 24 de Setembro de 1982.**
+Promulgado em 24 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

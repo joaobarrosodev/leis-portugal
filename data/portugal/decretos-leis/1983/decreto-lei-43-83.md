@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02000/01820183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1983-308345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab1ea0a82db024fca4d49e1f8127237ec3a18ea395086dcce7eddccc7806711a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 597f352e62295feeaeecca059b87dd25d2b06c338e46ae6f3cfb508078dbea25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agente Transitário
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:374619:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661112:por
+  label: "Prorrogado o prazo previsto no nº 12º pelo DEC LEI.76/84.1984.03.05.MES DR.IS [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1984-661112
+  date: '1984-03-05'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469216:por
+  label: Rectificado pelo DECL.DD2678.1983.01.25.PCM DR.IS [25]Supl de 31/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469216
+  date: '1983-01-25'
+- type: repealed_by
+  target: pt:dre:522996:por
+  label: Revogado o n.º 4 do art. 7.º pelo(a) Decreto-Lei n.º 89/92 - Diário da República n.º 117/1992, Série I-A de 1992-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1992-522996
+  date: '1992-05-21'
+- type: repealed_by
+  target: pt:dre:374619:por
+  label: "Revogado pelo DEC LEI.255/99.1999.07.07.MEPAT,DR.IS-A [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/255-1999-374619
+  date: '1999-07-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:39Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +124,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São consideradas empresas transitárias as sociedades comerciais que, tendo por objecto a prestação de serviços a terceiros, no âmbito da planificação, controle, coordenação e direcção das operações necessárias à execução das formalidades e trâmites exigidos na expedição, recepção e circulação de bens ou mercadorias, obedeçam aos requisitos estabelecidos no presente diploma e nas suas disposições regulamentares.
+Artigo 1.º São consideradas empresas transitárias as sociedades comerciais que, tendo por objecto a prestação de serviços a terceiros, no âmbito da planificação, controle, coordenação e direcção das operações necessárias à execução das formalidades e trâmites exigidos na expedição, recepção e circulação de bens ou mercadorias, obedeçam aos requisitos estabelecidos no presente diploma e nas suas disposições regulamentares.
 
-###### Art. 2.º O exercício da actividade transitária apenas pode ser efectuado por empresas licenciadas para o efeito e pelo Ministro da Habitação, Obras Públicas e Transportes.
+Art. 2.º O exercício da actividade transitária apenas pode ser efectuado por empresas licenciadas para o efeito e pelo Ministro da Habitação, Obras Públicas e Transportes.
 
-###### Art. 3.º - 1 - As licenças para o exercício da actividade transitária só serão concedidas a sociedades comerciais, regularmente constituídas, que reúnam, cumulativamente, os seguintes requisitos:
+Art. 3.º - 1 - As licenças para o exercício da actividade transitária só serão concedidas a sociedades comerciais, regularmente constituídas, que reúnam, cumulativamente, os seguintes requisitos:
 
 a) Possuam um capital social não inferior a 5000 contos, do qual pelo menos metade inteiramente realizado e o restante a realizar no prazo máximo de 3 anos;
 
@@ -126,7 +152,7 @@ e) Condenação, com trânsito em julgado, a pena maior em virtude de qualquer c
 
 3 - Para efeitos do disposto na alínea b) do n.º 1 deste artigo, os administradores ou gerentes da sociedade poderão exercer o cargo de director técnico desde que possuam os requisitos exigidos para o efeito.
 
-###### Art. 4.º - 1 - Os pedidos para a concessão das licenças a que se refere o artigo 2.º deverão ser dirigidos ao Ministro da Habitação, Obras Públicas e Transportes e deles deverá constar:
+Art. 4.º - 1 - Os pedidos para a concessão das licenças a que se refere o artigo 2.º deverão ser dirigidos ao Ministro da Habitação, Obras Públicas e Transportes e deles deverá constar:
 
 a) Identificação da sociedade requerente;
 
@@ -152,15 +178,15 @@ a) Certificado do registo criminal;
 
 b) Certidão do registo comercial comprovativa de não estarem inibidos do exercício do comércio.
 
-###### Art. 5.º Quaisquer alterações subsequentes ao licenciamento a que se refere o artigo 2.º, quer relativos à sociedade, quer aos administradores, directores ou gerentes, quer ao director técnico, deverão ser objecto de comunicação ao Ministro da Habitação, Obras Públicas e Transportes, no prazo máximo de 60 dias, após a data da sua ocorrência.
+Art. 5.º Quaisquer alterações subsequentes ao licenciamento a que se refere o artigo 2.º, quer relativos à sociedade, quer aos administradores, directores ou gerentes, quer ao director técnico, deverão ser objecto de comunicação ao Ministro da Habitação, Obras Públicas e Transportes, no prazo máximo de 60 dias, após a data da sua ocorrência.
 
-###### Art. 6.º - 1 - A empresa transitária pode intervir no comércio jurídico em nome próprio ou por conta de outrem, sub-rogar-se ou ser sub-rogada na posição jurídica do dono dos bens ou mercadorias e actuar como gestor de negócios ou de interesses de terceiros em conformidade com o título que legitime tal intervenção ou com declaração expressa de responsabilidade nesse sentido.
+Art. 6.º - 1 - A empresa transitária pode intervir no comércio jurídico em nome próprio ou por conta de outrem, sub-rogar-se ou ser sub-rogada na posição jurídica do dono dos bens ou mercadorias e actuar como gestor de negócios ou de interesses de terceiros em conformidade com o título que legitime tal intervenção ou com declaração expressa de responsabilidade nesse sentido.
 
 2 - A legitimidade da intervenção do transitário perante terceiros, entidades públicas ou privadas, aferir-se-á pelo título ou declaração que exiba, de acordo com o previsto no número anterior.
 
 3 - Quando intervenha em termos de sub-rogação ou de gestão de negócios ou de interesse de outrem, a empresa transitária será havida como dono dos bens ou mercadorias e responderá como tal perante terceiros, quer estes sejam entidades públicas ou privadas.
 
-###### Art. 7.º - 1 - A empresa transitária poderá praticar todos os actos necessários ou convenientes à normal prestação dos serviços a que se referem os artigos anteriores.
+Art. 7.º - 1 - A empresa transitária poderá praticar todos os actos necessários ou convenientes à normal prestação dos serviços a que se referem os artigos anteriores.
 
 2 - A amplitude dos poderes atribuídos ao transitário verificar-se-á pelos documentos que possua para o efeito, entendendo-se que lhe é permitido praticar ou promover tudo quanto não lhe seja expressamente vedado nesses documentos ou pelo presente diploma.
 
@@ -168,7 +194,7 @@ b) Certidão do registo comercial comprovativa de não estarem inibidos do exerc
 
 4 - A actividade contemplada pelo artigo 426.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, não pode ser exercida por empresas transitárias.
 
-###### Art. 8.º Constituem direitos do transitário:
+Art. 8.º Constituem direitos do transitário:
 
 a) Praticar todos os actos para que estiver mandatado nos termos previstos neste diploma;
 
@@ -178,7 +204,7 @@ c) Assumir, em nome próprio ou em nome do cliente ou destinatário dos bens sob
 
 d) Exercer, em geral, quaisquer outras funções inerentes à prestação de serviços de transitário.
 
-###### Art. 9.º Constituem deveres do transitário:
+Art. 9.º Constituem deveres do transitário:
 
 a) Cumprir todas as obrigações legais, nomeadamente as reguladoras do exercício da actividade;
 
@@ -194,7 +220,7 @@ f) Colaborar com os serviços públicos no cumprimento e execução das formalid
 
 g) Exercer, com zelo e diligência, todas as funções inerentes à prestação de serviços de transitário.
 
-###### Art. 10.º - 1 - Por despacho do Ministro da Habitação, Obras Públicas e Transportes será criada uma comissão consultiva destinada a colaborar na execução e cumprimento deste diploma e suas disposições regulamentares, a qual será constituída por representantes dos serviços da Administração Pública interessando as operações de transportes, de exportação e de importação, e da associação empresarial dos transitários, sendo presidida pelo representante do Ministério da Habitação, Obras Públicas e Transportes.
+Art. 10.º - 1 - Por despacho do Ministro da Habitação, Obras Públicas e Transportes será criada uma comissão consultiva destinada a colaborar na execução e cumprimento deste diploma e suas disposições regulamentares, a qual será constituída por representantes dos serviços da Administração Pública interessando as operações de transportes, de exportação e de importação, e da associação empresarial dos transitários, sendo presidida pelo representante do Ministério da Habitação, Obras Públicas e Transportes.
 
 2 - Constituem atribuições da comissão consultiva:
 
@@ -208,20 +234,20 @@ b) Pronunciar-se, em prazo não superior a 10 dias, sobre quaisquer outras quest
 
 5 - No despacho a que se refere o n.º 1 deste artigo será igualmente fixada a constituição e o modo de funcionamento da comissão consultiva.
 
-###### Art. 11.º - 1 - As violações do disposto no presente decreto-lei constituem contra-ordenações puníveis com coima até 3000000$00.
+Art. 11.º - 1 - As violações do disposto no presente decreto-lei constituem contra-ordenações puníveis com coima até 3000000$00.
 
 2 - Às infracções previstas neste diploma são aplicáveis as disposições gerais sobre contra-ordenações e as especiais no domínio da actividade económica.
 
-###### Art. 12.º As empresas transitárias em exercício de actividade à data da entrada em vigor do presente diploma dispõem do prazo de 1 ano para darem cumprimento às obrigações impostas pelo regime instituído.
+Art. 12.º As empresas transitárias em exercício de actividade à data da entrada em vigor do presente diploma dispõem do prazo de 1 ano para darem cumprimento às obrigações impostas pelo regime instituído.
 
-###### Art. 13.º O Ministro da Habitação, Obras Públicas e Transportes, através de portaria, expedirá os regulamentos necessários à boa execução deste decreto-lei.
+Art. 13.º O Ministro da Habitação, Obras Públicas e Transportes, através de portaria, expedirá os regulamentos necessários à boa execução deste decreto-lei.
 
-###### Art. 14.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 14.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 11 de Janeiro de 1983.**
+Promulgado em 11 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

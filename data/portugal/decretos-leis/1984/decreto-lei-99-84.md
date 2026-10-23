@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07500/10411042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1984-661718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33024a489ee876c7f2a5e7ed2247f20fc367dceaebbebf17d118f73530b63ecd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eab867a50ed26161d6c9078e67fef8ef3de7b6f731cede6be5efc4fdcfcd117
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- Assembleia Intermunicipal
+- Associação de Municípios
+- Autarquia Local
+- Câmara Municipal
+- Centro de Estudos e Formação Autárquica
+- Conselho Administrativo
+- Definição de Competências
+- Direito Privado
+- Direito Público
+- Eleição
+- Estatuto
+- Governo
+- Mandato
+- Organismo Internacional
+- Pessoa Colectiva de Direito Privado
+- Pessoa Colectiva de Direito Público
+- Pessoa Coletiva
+- Presidente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:437231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:439443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:437231:por
+  label: "Revogado pela LEI.54/98.1998.08.18.AR DR.IS-A [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/54-1998-437231
+  date: '1998-08-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:21Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +135,11 @@ Assim:
 
 No uso da autorização conferida pela alínea f) do artigo 1.º da [Lei n.º 19/83](https://diariodarepublica.pt/dr/detalhe/lei/19-1983-439443), de 6 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As associações que tiverem por objecto a representação dos municípios junto dos órgãos de soberania e de administração central e a cooperação com esta na participação em organizações internacionais podem constituir-se ao abrigo do [Decreto-Lei n.º 266/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1981-563018), de 15 de Setembro, ou ainda ao abrigo das disposições do Código Civil aplicáveis às associações de direito privado.
+Artigo 1.º - 1 - As associações que tiverem por objecto a representação dos municípios junto dos órgãos de soberania e de administração central e a cooperação com esta na participação em organizações internacionais podem constituir-se ao abrigo do [Decreto-Lei n.º 266/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1981-563018), de 15 de Setembro, ou ainda ao abrigo das disposições do Código Civil aplicáveis às associações de direito privado.
 
 2 - As referidas associações podem ser constituídas por municípios geograficamente descontíguos.
 
-###### Art. 2.º - 1 - Os estatutos da associação, quando constituída ao abrigo do [Decreto-Lei n.º 266/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1981-563018), devem designar a sede, o objecto e a composição, fixar a sua duração, no caso de não serem constituídas por tempo indeterminado, e a contribuição de cada município para as despesas comuns, definir os seus órgãos e respectivas competências e, bem assim, estabelecer todas as demais disposições necessárias ao seu bom funcionamento.
+Art. 2.º - 1 - Os estatutos da associação, quando constituída ao abrigo do [Decreto-Lei n.º 266/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1981-563018), devem designar a sede, o objecto e a composição, fixar a sua duração, no caso de não serem constituídas por tempo indeterminado, e a contribuição de cada município para as despesas comuns, definir os seus órgãos e respectivas competências e, bem assim, estabelecer todas as demais disposições necessárias ao seu bom funcionamento.
 
 2 - Os estatutos deverão prever obrigatoriamente os seguintes órgãos:
 
@@ -114,22 +151,22 @@ b) Conselho administrativo, composto por um número ímpar de membros a definir 
 
 4 - O presidente e os demais membros do conselho administrativo serão eleitos pela assembleia intermunicipal, podendo ser substituídos, a todo o tempo, por deliberação desta.
 
-###### Art. 3.º - 1 - Se vier a ser criada pelos municípios, nos termos deste diploma, uma associação de âmbito nacional que abranja mais de 100 municípios, o Governo passará a consultar a referida associação em todas as iniciativas legislativas a estes relativas.
+Art. 3.º - 1 - Se vier a ser criada pelos municípios, nos termos deste diploma, uma associação de âmbito nacional que abranja mais de 100 municípios, o Governo passará a consultar a referida associação em todas as iniciativas legislativas a estes relativas.
 
 2 - Sem prejuízo da representação directa que couber aos municípios, serão asseguradas formas de representação da associação nas diversas estruturas de natureza consultiva do Estado em que se preveja a consulta às autarquias locais.
 
 3 - O Governo poderá estabelecer com a referida associação acordos de colaboração relativos quer a acções de âmbito interno quer de representação nos respectivos organismos internacionais.
 
-###### Art. 4.º As associações de municípios de âmbito nacional participarão, em termos a definir por decreto-lei, na gestão do Centro de Estudos e Formação Autárquica, criado pelo [Decreto-Lei n.º 161/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1980-474705), de 28 de Maio.
+Art. 4.º As associações de municípios de âmbito nacional participarão, em termos a definir por decreto-lei, na gestão do Centro de Estudos e Formação Autárquica, criado pelo [Decreto-Lei n.º 161/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1980-474705), de 28 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira.
 
-**Promulgado em 21 de Março de 1984.**
+Promulgado em 21 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Março de 1984.**
+Referendado em 22 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

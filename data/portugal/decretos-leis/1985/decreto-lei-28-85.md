@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01800/01770177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1985-329396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee23cbdf0389d3ee42f1c1b274b73290a54f1790485f314992384156409d3eec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 244dcfff9b8879094e49a8837c5900fc3e24a0852c72c59270b226c55df56edb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Geográfico e Cadastral
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:177663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177663:por
+  label: Revogado, a partir de 23.10.1985, pelo(a) Decreto-Lei n.º 416/85 - Diário da República n.º 240/1985, Série I de 1985-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/416-1985-177663
+  date: '1985-10-18'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:23Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +109,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 O n.º 1 do artigo 1.º do [Decreto-Lei n.º 513/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1980-462273), de 28 de Outubro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O Instituto Geográfico e Cadastral, adiante designado abreviadamente por IGC, constitui um organismo dotado de autonomia administrativa, dependente do Ministro das Finanças e do Plano.
+Artigo 1.º - 1 - O Instituto Geográfico e Cadastral, adiante designado abreviadamente por IGC, constitui um organismo dotado de autonomia administrativa, dependente do Ministro das Finanças e do Plano.
 
 2 - ...
 
@@ -116,12 +127,12 @@ A alteração do regime jurídico-financeiro previsto nos artigos anteriores pro
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 7 de Janeiro de 1985.**
+Promulgado em 7 de Janeiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Janeiro de 1985.**
+Referendado em 9 de Janeiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

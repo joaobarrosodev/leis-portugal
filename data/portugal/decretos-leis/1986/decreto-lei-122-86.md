@@ -47,36 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1986-226979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 582221486e4bfb322ea55180db78970f9e801ea3dba9744010205f4342c6c38d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4fa0b020261571e0a34f4360edbd4326660af08a145aea0c7c14750bee88204
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Coimbra
+- Gabinete do NOVO Hospital Central de Coimbra
+- Hospital Central
+- Hospital da Universidade de Coimbra
+- Transferência de Serviços
+relationships:
+- type: cites
+  target: pt:dre:274219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:52Z'
   warnings: []
   errors: []
 ---
@@ -111,25 +140,25 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os Hospitais da Universidade de Coimbra, abreviadamente designados HUC, pessoa colectiva de direito público dotada de autonomia administrativa e financeira, nos termos da legislação geral em vigor, passam a utilizar para o seu funcionamento como hospital central geral, além das instalações da actual Clínica Obstétrica Dr. Daniel de Matos e dos pavilhões de Celas, a nova unidade hospitalar para o efeito edificada na mesma zona, até agora designada por Novo Hospital Central de Coimbra.
+Artigo 1.º - 1 - Os Hospitais da Universidade de Coimbra, abreviadamente designados HUC, pessoa colectiva de direito público dotada de autonomia administrativa e financeira, nos termos da legislação geral em vigor, passam a utilizar para o seu funcionamento como hospital central geral, além das instalações da actual Clínica Obstétrica Dr. Daniel de Matos e dos pavilhões de Celas, a nova unidade hospitalar para o efeito edificada na mesma zona, até agora designada por Novo Hospital Central de Coimbra.
 
 2 - A nova unidade a que se refere o número anterior destina-se a substituir os edifícios dos antigos Colégios de São Jerónimo e das Artes, os quais, concluída a transferência dos serviços e equipamentos para as novas instalações, o Ministério da Saúde restituirá à Universidade de Coimbra.
 
-###### Art. 2.º - 1 - A partir da entrada em vigor do presente diploma e durante o período de seis meses é aplicável aos HUC o regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 2.º - 1 - A partir da entrada em vigor do presente diploma e durante o período de seis meses é aplicável aos HUC o regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
 2 - Durante o regime de instalação, a responsabilidade pela administração dos HUC caberá a uma comissão instaladora, a nomear por despacho do Ministro da Saúde, de que farão parte o presidente do actual conselho de gerência dos HUC e elementos do conselho director do actual Gabinete do Novo Hospital Central de Coimbra.
 
-###### Art. 3.º - 1 - A entrega e afectação do novo edifício ao funcionamento dos HUC efectuar-se-á na data da entrada em funções da comissão instaladora dos HUC.
+Art. 3.º - 1 - A entrega e afectação do novo edifício ao funcionamento dos HUC efectuar-se-á na data da entrada em funções da comissão instaladora dos HUC.
 
 2 - Na data de entrega considera-se extinto o gabinete criado pelo [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, cessando, consequentemente, funções a comissão instaladora a que se refere a portaria do Ministro da Saúde publicada no Diário da República, 2.ª série, n.º 92, de 18 de Abril de 1984.
 
-###### Art. 4.º - 1 - Todos os direitos, obrigações e demais responsabilidades assumidos pelo Gabinete do Novo Hospital Central de Coimbra, bem como pelo seu conselho director, enquanto comissão instaladora, consideram-se assumidos pelos HUC, após prévia e expressa anuência da comissão instaladora dos HUC, a partir da data de recepção das novas instalações e equipamentos.
+Art. 4.º - 1 - Todos os direitos, obrigações e demais responsabilidades assumidos pelo Gabinete do Novo Hospital Central de Coimbra, bem como pelo seu conselho director, enquanto comissão instaladora, consideram-se assumidos pelos HUC, após prévia e expressa anuência da comissão instaladora dos HUC, a partir da data de recepção das novas instalações e equipamentos.
 
 2 - Sem prejuízo do disposto no número anterior, mantém-se a responsabilidade dos membros do Gabinete e da comissão instaladora pelas despesas, contratos e outros compromissos que aqueles órgãos hajam contraído até que as respectivas contas sejam superiormente aprovadas, nos termos legais.
 
-###### Art. 5.º A transferência de serviços e equipamentos para as novas instalações processar-se-á sob a responsabilidade da comissão instaladora dos HUC, segundo plano a aprovar pelo Ministro da Saúde.
+Art. 5.º A transferência de serviços e equipamentos para as novas instalações processar-se-á sob a responsabilidade da comissão instaladora dos HUC, segundo plano a aprovar pelo Ministro da Saúde.
 
-###### Art. 6.º - 1 - No prazo máximo de 30 dias, contados a partir da sua entrada em funções, a comissão instaladora dos HUC deverá apresentar à aprovação do Governo, através do Ministro da Saúde, os quadros de pessoal que considere necessários ao regular funcionamento de todos os serviços.
+Art. 6.º - 1 - No prazo máximo de 30 dias, contados a partir da sua entrada em funções, a comissão instaladora dos HUC deverá apresentar à aprovação do Governo, através do Ministro da Saúde, os quadros de pessoal que considere necessários ao regular funcionamento de todos os serviços.
 
 2 - Os quadros a que se refere o número anterior deverão:
 
@@ -145,20 +174,20 @@ c) Prever a programação do preenchimento das vagas eventualmente sobrantes ap�
 
 5 - A declaração a que se refere o número anterior deverá ser, em todos os casos, confirmada pela comissão instaladora dos HUC.
 
-###### Art. 7.º - 1 - Os encargos resultantes da execução do disposto no presente diploma serão suportados no corrente ano económico por verbas do Serviço Nacional de Saúde, a inscrever no orçamento dos HUC, salvo o disposto no número seguinte.
+Art. 7.º - 1 - Os encargos resultantes da execução do disposto no presente diploma serão suportados no corrente ano económico por verbas do Serviço Nacional de Saúde, a inscrever no orçamento dos HUC, salvo o disposto no número seguinte.
 
 2 - Os encargos financeiros resultantes do exercício das actividades docentes e de investigação da Faculdade de Medicina nos HUC serão suportados pelo orçamento do Ministério da Educação e Cultura, nos termos previstos no artigo 1.º, n.º 3, alínea e), do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, devendo o protocolo a celebrar entre as duas instituições e a homologar pelos Ministros da Educação e Cultura e da Saúde prever a sua distribuição.
 
-###### Art. 8.º Este diploma entra imediatamente em vigor.
+Art. 8.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Fernando Nunes Ferreira Real.
 
-**Promulgado em 10 de Maio de 1986.**
+Promulgado em 10 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Maio de 1986.**
+Referendado em 15 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

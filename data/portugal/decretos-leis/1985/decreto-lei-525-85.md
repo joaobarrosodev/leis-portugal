@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1985, 7º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 4260-(121) a 4260-(122)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30107/01210122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1985-546460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fd41d4e304c884418d9e2a4616db5f2c68e6d3a453c3de88b5cb5dd7f3996b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a286444163924120b9f8d7cf22d9bc164696643dd72318ac0bde0c7dd3d8805
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Combustível
+- Importação
+- Liberalização de Importações
+- Petrogal
 relationships:
 - type: amended_by
   target: pt:dre:591108:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613938:por
+  label: "Dada nova redacção ao art. 1º e substituída a lista anexa pelo DEC LEI.85/89.23.03.1989.MIE, DR.IS [69] de 23.03.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-1989-613938
+  date: '1989-03-23'
+- type: amended_by
+  target: pt:dre:564662:por
+  label: "Alterado o art. 1º, na redacção do Dec Lei 85/89, de 23-Mar, pelo DEC LEI.368/90.26.11.1990.MIE, DR.IS [273] de\
+    \ 26.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1990-564662
+  date: '1990-11-26'
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631420:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:682995:por
+  label: "Revogado pelo DEC LEI.106/93.1993.04.07.MIE, DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-1993-682995
+  date: '1993-04-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:44Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +133,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A importação dos produtos derivados do petróleo, constantes da lista anexa, só poderá ser efectuada com prévia autorização do Governo.
+Artigo 1.º A importação dos produtos derivados do petróleo, constantes da lista anexa, só poderá ser efectuada com prévia autorização do Governo.
 
-###### Art. 2.º - 1 - As autorizações podem ser gerais, excepcionais e especiais.
+Art. 2.º - 1 - As autorizações podem ser gerais, excepcionais e especiais.
 
 2 - As autorizações gerais são concedidas aos importadores de quantidades iguais ou superiores a 25 t por ano.
 
@@ -106,36 +143,36 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - As autorizações especiais respeitam a importações que se destinam ao consumo exclusivo do importador.
 
-###### Art. 3.º A adaptação do direito exclusivo de comercialização dos combustíveis derivados do petróleo, determinada pela adesão de Portugal à Comunidade Económica Europeia, efectuar-se-á progressivamente desde 1 de Janeiro de 1986 e deverá estar concluída em 31 de Dezembro de 1992.
+Art. 3.º A adaptação do direito exclusivo de comercialização dos combustíveis derivados do petróleo, determinada pela adesão de Portugal à Comunidade Económica Europeia, efectuar-se-á progressivamente desde 1 de Janeiro de 1986 e deverá estar concluída em 31 de Dezembro de 1992.
 
-###### Art. 4.º Consideram-se abolidas, em 1 de Janeiro de 1986, as quotas do mercado contingentado dos combustíveis líquidos (gasolinas auto, petróleos, gasóleo e fuelóleo) atribuídas às empresas que delas são actualmente beneficiárias, à excepção da que compete à PETROGAL - Petróleos de Portugal, E. P.
+Art. 4.º Consideram-se abolidas, em 1 de Janeiro de 1986, as quotas do mercado contingentado dos combustíveis líquidos (gasolinas auto, petróleos, gasóleo e fuelóleo) atribuídas às empresas que delas são actualmente beneficiárias, à excepção da que compete à PETROGAL - Petróleos de Portugal, E. P.
 
-###### Art. 5.º - 1 - A partir de 1 de Janeiro de 1986, qualquer empresa dos Estados membros de Comunidade Económica Europeia estabelecida ou a estabelecer em Portugal poderá candidatar-se a importar uma quantidade total de cada produto igual ao conjunto das quotas do mercado que, antes dessa data, detinham as empresas mencionadas no artigo anterior.
+Art. 5.º - 1 - A partir de 1 de Janeiro de 1986, qualquer empresa dos Estados membros de Comunidade Económica Europeia estabelecida ou a estabelecer em Portugal poderá candidatar-se a importar uma quantidade total de cada produto igual ao conjunto das quotas do mercado que, antes dessa data, detinham as empresas mencionadas no artigo anterior.
 
 2 - Esta quantidade será acrescida anualmente da parcela de liberalização da quota de mercado atribuída em 1981 à PETROGAL - Petróleos de Portugal, E. P.
 
 3 - Sem prejuízo do preceituado no artigo 3.º do presente decreto-lei e com ressalva do disposto no n.º 2 do artigo 208.º do Acto Anexo ao Tratado de Adesão de Portugal às Comunidades Europeias, o acréscimo a que se refere o número anterior será de 5% ao ano a partir de 1987, relativamente a cada produto, reduzindo-se em correspondência a quota de mercado atribuída à PETROGAL - Petróleos de Portugal, E. P.
 
-###### Art. 6.º O acesso das empresas dos Estados membros da Comunidade Económica Europeia ao mercado petrolífero português fica subordinado, a partir da data de adesão de Portugal, ao preenchimento por tais empresas de condições objectivas e não discriminatórias, que terão por fim garantir a segurança do abastecimento nacional em produtos petrolíferos.
+Art. 6.º O acesso das empresas dos Estados membros da Comunidade Económica Europeia ao mercado petrolífero português fica subordinado, a partir da data de adesão de Portugal, ao preenchimento por tais empresas de condições objectivas e não discriminatórias, que terão por fim garantir a segurança do abastecimento nacional em produtos petrolíferos.
 
-###### Art. 7.º As empresas candidatas à concessão ou renovação de autorização de importação de produtos derivados do petróleo deverão apresentar no Ministério da Indústria e Comércio o respectivo processo de candidatura em termos que sirvam adequadamente as necessidades do País relativamente a esses produtos e que assegurem o equilíbrio e o desenvolvimento do sector petrolífero.
+Art. 7.º As empresas candidatas à concessão ou renovação de autorização de importação de produtos derivados do petróleo deverão apresentar no Ministério da Indústria e Comércio o respectivo processo de candidatura em termos que sirvam adequadamente as necessidades do País relativamente a esses produtos e que assegurem o equilíbrio e o desenvolvimento do sector petrolífero.
 
-###### Art. 8.º O processo de candidatura e a sua apreciação, bem como as condições referidas no artigo 6.º, serão regulamentados por portaria do Ministro da Indústria e Comércio.
+Art. 8.º O processo de candidatura e a sua apreciação, bem como as condições referidas no artigo 6.º, serão regulamentados por portaria do Ministro da Indústria e Comércio.
 
-###### Art. 9.º Os titulares das autorizações de importação ficam obrigados a fornecer à Direcção-Geral de Energia, até ao dia 20 de cada mês, informação relativa aos preços praticados no mês anterior, e até ao dia 20 de Abril de cada ano, informação relativa ao ano anterior sobre níveis de custo, contas de exploração e balanços e meios operacionais de armazenagem, distribuição e revenda instalados em território nacional, bem como quaisquer outras informações que a Direcção-Geral de Energia solicite.
+Art. 9.º Os titulares das autorizações de importação ficam obrigados a fornecer à Direcção-Geral de Energia, até ao dia 20 de cada mês, informação relativa aos preços praticados no mês anterior, e até ao dia 20 de Abril de cada ano, informação relativa ao ano anterior sobre níveis de custo, contas de exploração e balanços e meios operacionais de armazenagem, distribuição e revenda instalados em território nacional, bem como quaisquer outras informações que a Direcção-Geral de Energia solicite.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Produtos sujeitos a autorização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30107/01210122.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30107/01210122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30107/01210122.pdf)

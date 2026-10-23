@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15100/18131824.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 042def85f024307c5f6269ef54efaf90b45ed39210022586724fde0e6349267a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 231905569d24d86d661778ee187c9441b1b169bed65d9503b40233c890944eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Confidencialidade
+- Conselho Consultivo
+- Definição de Competências
+- Informatização
+- Ministro da Administração Interna
+- Orgânica
+- Promoção Profissional
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime de Pessoal
+- Sanção Disciplinar
+- Segredo de Estado
+- Segredo Profissional
+- Segurança Interna
+- Serviço de Informações de Segurança
+- Serviço de Informática
+- Serviço Público
+- Sistema de Informações da República Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:517985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287975:por
+  label: "Alterados os arts. 21.º, 26.º, 28.º, 33.º, 34.º, 39.º, 41.º, 43.º, 45.º, 52.º, 54.º e 56.º e substituídos os mapas\
+    \ do quadro de pessoal pelo DEC LEI.369/91.07.10.1991.MAI, DR.IS-A [230] de 07.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-1991-287975
+  date: '1991-10-07'
+- type: amended_by
+  target: pt:dre:563987:por
+  label: "Alterados os arts. 1.º, 5.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 19.º, 20.º, 21.º (na redacção do\
+    \ Dec Lei 369/91, 07-Out), 24.º, 26.º (na redacção do Dec Lei 369/91, 07-Out), 27.º, 28.º (na redacção do Dec Lei 369/91,\
+    \ 07-Out), 30.º, 34.º (na redacção do Dec Lei 369/91, 07-Out), 35.º, 36.º, 37.º, 38.º, 39.º, 41.º (na redacção do Dec\
+    \ Lei 369/91, 07-Out), 42.º, 43.º (na redacção do Dec Lei 369/91, 07-Out), 44.º, 49.º, 57.º e 58.º, determinado que as\
+    \ referências feitas a direcção, director e director-adjunto correspondem, as duas primeiras a director-geral e a terceira\
+    \ a directores-gerais-adjuntos e revogado o art. 17º pelo DEC LEI.245/95.14.09.1995.MAI, DR.IS-A [213] de 14.09.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-1995-563987
+  date: '1995-09-14'
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogado o art. 39º do presente diploma, alterado pelo Dec Lei 245/95 de 14-Set, pelo DEC LEI.229/2005.29.12.2005.MFAP,\
+    \ DR.IS-A [249] de 29.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
+- type: repealed_by
+  target: pt:dre:517985:por
+  label: Revogado o presente diploma, na redacção dos Dec Lei 369/91 de 07-Out e 245/95 de 14-Set, pela LEI.9/2007.19.02.2007.AR,
+    DR.IS [35] de 19.02.2007, sem prejuízo do disposto no art. 71º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2007-517985
+  date: '2007-02-19'
 article_structure:
   article_count: 60
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:27Z'
   warnings: []
   errors: []
 ---
@@ -705,7 +788,7 @@ Na importação de armamento, munições, viaturas, equipamentos de segurança, 
 
 ###### Artigo 58.º — (Aquisição de bens e serviços)
 
-**O Ministro da Administração Interna pode autorizar o SIS a celebrar contratos para aquisição de bens e serviços, com dispensa, total ou parcial, das formalidades previstas na lei geral, sempre que razões de segurança interna ou relacionadas com a especificidade do serviço o justifiquem.**
+O Ministro da Administração Interna pode autorizar o SIS a celebrar contratos para aquisição de bens e serviços, com dispensa, total ou parcial, das formalidades previstas na lei geral, sempre que razões de segurança interna ou relacionadas com a especificidade do serviço o justifiquem.
 
 ###### Artigo 59.º — (Encargos de execução)
 
@@ -717,21 +800,21 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Jaime José Matos da Gama - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 26 de Junho de 1985.**
+Promulgado em 26 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Julho de 1985.**
+Referendado em 1 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA 1
 
 Quadro a que se referem os artigos 27.º, 35.º a 41.º do Decreto-Lei n.º 225/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15100/18131824.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15100/18131824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15100/18131824.pdf)
 
 MAPA 2
 
@@ -739,4 +822,4 @@ Quadro a que se referem os artigos 27.º, 35.º a 41.º do Decreto-Lei n.º 225/
 
 Pessoal de informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15100/18131824.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15100/18131824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15100/18131824.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21300/27652766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1982-375781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a74ec13225b41677e065e22f784f658614760dd0b30f859fde8e2fd6193a86b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efea06327e60025dd9e290a3d48ea478fc52c1bb0cc797f17758f7135853e0f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Desenvolvimento Regional
+- Projecto de Desenvolvimento Rural Integrado de Trás-os-montes
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:376649:por
+  label: Rcetificado pela DECL.DD5990.28.09.1982.PCM, DR.IS [236] de 12.10.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-376649
+  date: '1982-09-28'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:53Z'
   warnings: []
   errors: []
 ---
@@ -109,13 +134,13 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 15/82](https://diariodarepublica.pt/dr/detalhe/lei/15-1982-395901), de 16 de Junho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito de aplicação)
 
 O âmbito de aplicação deste diploma coincide com a área de competência de acção da Direcção Regional de Agricultura de Trás-os-Montes, adiante abreviadamente designada por DRTM.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Definições)
 
@@ -125,7 +150,7 @@ a) Regadios tradicionais - as áreas beneficiadas por obras hidro-agrícolas já
 
 b) Novos pequenos aproveitamentos hidro-agrícolas - as obras de fomento hidro-agrícola que é necessário executar para beneficiar as áreas compreendidas entre 200 ha e 600 ha.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Melhoramento dos regadios tradicionais)
 
@@ -137,19 +162,19 @@ b) Novos pequenos aproveitamentos hidro-agrícolas - as obras de fomento hidro-a
 
 4 - Com vista à concretização e legalização das obras a realizar, será estabelecido um acordo entre a DRTM e os proprietários dos terrenos a beneficiar pelas obras.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Encargos de exploração e conservação)
 
 Os encargos resultantes da exploração e conservação das obras referidas serão integralmente suportados pelos beneficiários.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Gestão dos regadios tradicionais)
 
 A gestão dos aproveitamentos realizados será feita por cooperativas de rega ou por juntas de agricultores constituídas nos termos do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, salvaguardando-se os usos e costumes e as escrituras existentes na repartição das águas pelos utentes.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Novos pequenos e médios aproveitamentos hidro-agrícolas)
 
@@ -161,7 +186,7 @@ A gestão dos aproveitamentos realizados será feita por cooperativas de rega ou
 
 4 - As obras a que respeitam esses projectos serão integralmente financiadas pelo Estado, sendo 80% do seu custo a fundo perdido.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Acordo dos beneficiários)
 
@@ -169,7 +194,7 @@ A gestão dos aproveitamentos realizados será feita por cooperativas de rega ou
 
 2 - O acordo será promovido e celebrado em reunião convocada pela DRTM e vincula todos os beneficiários.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Reembolso dos aproveitamentos)
 
@@ -181,13 +206,13 @@ A gestão dos aproveitamentos realizados será feita por cooperativas de rega ou
 
 4 - Para efeitos da aplicação do disposto nos números anteriores, a DRTM promoverá a elaboração e o envio dos mapas referentes às anuidades estabelecidas para as respectivas repartições de finanças.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Gestão dos novos aproveitamentos)
 
 A gestão, exploração e conservação dos novos pequenos e médios aproveitamentos ficará a cargo de cooperativas de regas ou das juntas de agricultores previstas no [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Critério de fixação das indemnizações)
 
@@ -195,7 +220,7 @@ A gestão, exploração e conservação dos novos pequenos e médios aproveitame
 
 2 - No cálculo do valor do bem expropriado ter-se-á em conta os valores referentes à venda de terrenos de potencialidade, afectação e localização semelhantes, efectuada nos 2 últimos anos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Disposições gerais)
 
@@ -203,8 +228,8 @@ Em tudo quanto não estiver contemplado neste diploma aplicar-se-á o disposto n
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 7 de Setembro de 1982.**
+Promulgado em 7 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

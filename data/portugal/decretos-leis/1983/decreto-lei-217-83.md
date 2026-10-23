@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1983-451817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccbb7ec65114ba0c39cf0dab75b4cf72cc3f59247951e766e6044ee6511dffda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4be321eef68991b5112ffcc5113200130e22db675d61626f64d3d315181f77c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Polícia Judiciária
+- Registo Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:171693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395317:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:04Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É alterado o artigo 27.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro, com a redacção introduzida pelo artigo 1.º do [Decreto-Lei n.º 242/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1982-395317), de 22 de Junho, que passa a ter a seguinte redacção:
+Artigo único. É alterado o artigo 27.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro, com a redacção introduzida pelo artigo 1.º do [Decreto-Lei n.º 242/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1982-395317), de 22 de Junho, que passa a ter a seguinte redacção:
 
-###### Art. 27.º - 1 - O nome ou denominação e a residência habitual ou sede do proprietário ou usufrutuário dos veículos automóveis registados e a matrícula destes são obrigatoriamente comunicados à Direcção-Geral das Contribuições e Impostos, às direcções de viação em que os veículos estiverem matriculados e aos comandos da Polícia de Segurança Pública e da Brigada de Trânsito da Guarda Nacional Republicana da área onde o proprietário tiver a residência ou sede. A comunicação será feita, sempre que possível, mediante a instalação de terminais nos respectivos serviços.
+Art. 27.º - 1 - O nome ou denominação e a residência habitual ou sede do proprietário ou usufrutuário dos veículos automóveis registados e a matrícula destes são obrigatoriamente comunicados à Direcção-Geral das Contribuições e Impostos, às direcções de viação em que os veículos estiverem matriculados e aos comandos da Polícia de Segurança Pública e da Brigada de Trânsito da Guarda Nacional Republicana da área onde o proprietário tiver a residência ou sede. A comunicação será feita, sempre que possível, mediante a instalação de terminais nos respectivos serviços.
 
 2 - É autorizado o acesso directo da Polícia Judiciária à informação constante do registo automóvel, mediante a utilização de terminais de computador.
 
@@ -108,12 +123,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 7 de Maio de 1983.**
+Promulgado em 7 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Maio de 1983.**
+Referendado em 12 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1983-311452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06e0ada37c7d2828c58529c13b0629cc4823185674761e10493478b508392b31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28c976c45de71a5b98eda3811ca74223c2de7b2e74e030760af6d1606f2ad728
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Certificado de Origem
+- Exportação
+- Importação
+- Mercadoria
+relationships:
+- type: cites
+  target: pt:dre:579277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 75-A/86, PUBLICADO NO DR.IS, 94, SUPL.\0UPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-04-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:11Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +112,7 @@ Tendo em vista a próxima integração do País nas Comunidades Europeias, com a
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente decreto-lei define a origem das mercadorias para efeito de:
+Artigo 1.º O presente decreto-lei define a origem das mercadorias para efeito de:
 
 a) Aplicação uniforme do tratamento pautal, das restrições quantitativas e de outras medidas relativas à importação;
 
@@ -103,13 +120,13 @@ b) Aplicação uniforme de medidas relativas à exportação;
 
 c) Emissão de certificados de origem.
 
-###### Art. 2.º O presente decreto-lei não se aplica:
+Art. 2.º O presente decreto-lei não se aplica:
 
 Às trocas comerciais decorrentes de acordos que prevejam um regime específico de origem, nomeadamente os que impliquem derrogação da cláusula de nação mais favorecida;
 
 Às trocas comerciais no âmbito das preferências generalizadas.
 
-###### Art. 3.º - 1 - São originárias de um país as mercadorias inteiramente obtidas nesse país.
+Art. 3.º - 1 - São originárias de um país as mercadorias inteiramente obtidas nesse país.
 
 2 - Por mercadorias inteiramente obtidas num país entende-se:
 
@@ -133,11 +150,11 @@ i) Os resíduos e desperdícios resultantes de operações fabris e os artefacto
 
 j) As mercadorias aí recolhidas exclusivamente a partir dos produtos mencionados nas alíneas a) a i) ou de seus derivados, qualquer que seja a fase em que se encontrem.
 
-###### Art. 4.º - 1 - Salvo o disposto no artigo 5.º, uma mercadoria em cuja produção intervieram 2 ou mais países é originária do país em que teve lugar a última transformação ou operação substancial, economicamente justificada, efectuada numa empresa equipada para esse efeito e que dê lugar ao fabrico de um produto novo ou que represente uma fase importante do fabrico.
+Art. 4.º - 1 - Salvo o disposto no artigo 5.º, uma mercadoria em cuja produção intervieram 2 ou mais países é originária do país em que teve lugar a última transformação ou operação substancial, economicamente justificada, efectuada numa empresa equipada para esse efeito e que dê lugar ao fabrico de um produto novo ou que represente uma fase importante do fabrico.
 
 2 - Em caso de dúvida quanto à interpretação do disposto no número anterior, a Direcção-Geral das Alfândegas poderá solicitar parecer técnico da Direcção-Geral da Indústria.
 
-###### Art. 5.º Os produtos petrolíferos enumerados, no anexo I são considerados originários de um país:
+Art. 5.º Os produtos petrolíferos enumerados, no anexo I são considerados originários de um país:
 
 a) Quando extraídos do seu solo ou dos seus fundos marinhos;
 
@@ -145,9 +162,9 @@ b) Quando aí foram obtidos após terem sido submetidos a transformações ou op
 
 c) Quando submetidos às transformações ou operações enumeradas na lista B do anexo II.
 
-###### Art. 6.º As transformações ou operações em relação às quais se prove ou se presuma, em virtude dos factos constatados, que tiveram por único objectivo contornar as disposições aplicáveis no País às mercadorias de certos países, não poderão, em caso algum, considerar-se como tendo conferido, nos termos do artigo 4.º, às mercadorias assim obtidas, a origem do país onde se efectuaram.
+Art. 6.º As transformações ou operações em relação às quais se prove ou se presuma, em virtude dos factos constatados, que tiveram por único objectivo contornar as disposições aplicáveis no País às mercadorias de certos países, não poderão, em caso algum, considerar-se como tendo conferido, nos termos do artigo 4.º, às mercadorias assim obtidas, a origem do país onde se efectuaram.
 
-###### Art. 7.º - 1 - Os acessórios, as peças de substituição e as ferramentas expedidos ao mesmo tempo que um artefacto principal, uma máquina, um aparelho ou um veículo e que façam parte do seu equipamento normal são considerados como tendo a mesma origem que o artefacto principal, a máquina, o aparelho ou o veículo em causa.
+Art. 7.º - 1 - Os acessórios, as peças de substituição e as ferramentas expedidos ao mesmo tempo que um artefacto principal, uma máquina, um aparelho ou um veículo e que façam parte do seu equipamento normal são considerados como tendo a mesma origem que o artefacto principal, a máquina, o aparelho ou o veículo em causa.
 
 2 - As peças de substituição essenciais destinadas a um artefacto principal, uma máquina, um aparelho ou um veículo expedidos anteriormente são considerados como tendo a mesma origem que o artefacto principal, a máquina, o aparelho ou o veículo considerados desde que se cumpram as disposições referidas nos números seguintes.
 
@@ -167,7 +184,7 @@ São características dessa mercadoria;
 
 São destinadas à sua manutenção normal e a substituir peças da mesma espécie avariadas ou inutilizadas.
 
-###### Art. 8.º - 1 - A prova de origem das mercadorias na importação é feita, em regra, mediante a apresentação de certificado de origem, que deve obedecer aos seguintes requisitos:
+Art. 8.º - 1 - A prova de origem das mercadorias na importação é feita, em regra, mediante a apresentação de certificado de origem, que deve obedecer aos seguintes requisitos:
 
 a) Ser emitido quer por uma autoridade quer por um organismo que dê as necessárias garantias e que esteja devidamente habilitado para o efeito pelo país de origem, salvo o disposto no artigo 16.º;
 
@@ -187,13 +204,13 @@ c) Certificar sem ambiguidade que a mercadoria a que se refere é originária de
 
 3 - As justificações complementares a que se refere o número anterior poderão incidir nomeadamente sobre a origem primitiva dos produtos sujeitos a laboração industrial no país exportador, a natureza das transformações ou operações efectuadas neste último país, a importância, em valor, dessas transformações ou operações e a natureza do equipamento da empresa transformadora.
 
-###### Art. 9.º - 1 - A prova de origem das mercadorias procedentes do país ou território aduaneiro de onde são originárias pode ser feita mediante a apresentação de factura visada por uma das entidades a que se refere o n.º 1, alínea a), do artigo 8.º
+Art. 9.º - 1 - A prova de origem das mercadorias procedentes do país ou território aduaneiro de onde são originárias pode ser feita mediante a apresentação de factura visada por uma das entidades a que se refere o n.º 1, alínea a), do artigo 8.º
 
 2 - É aplicável às facturas visadas o disposto nos n.os 2 e 3 do artigo 8.º
 
-###### Art. 10.º A prova de origem das mercadorias vindas por via postal faz-se pelos selos ou carimbos apostos nos volumes ou na respectiva documentação, podendo, em caso de dúvida, exigir-se a apresentação de certificado de origem.
+Art. 10.º A prova de origem das mercadorias vindas por via postal faz-se pelos selos ou carimbos apostos nos volumes ou na respectiva documentação, podendo, em caso de dúvida, exigir-se a apresentação de certificado de origem.
 
-###### Art. 11.º - 1 - Os certificados de origem relativos às mercadorias originárias e exportadas do País devem obedecer às condições fixadas nas alíneas a) e b) do n.º 1 do artigo 8.º
+Art. 11.º - 1 - Os certificados de origem relativos às mercadorias originárias e exportadas do País devem obedecer às condições fixadas nas alíneas a) e b) do n.º 1 do artigo 8.º
 
 2 - Os certificados de origem referidos no n.º 1 e os respectivos pedidos devem ser estabelecidos de acordo com os modelos constantes do anexo III e com as normas constantes do anexo IV.
 
@@ -201,7 +218,7 @@ c) Certificar sem ambiguidade que a mercadoria a que se refere é originária de
 
 4 - Por despacho do Ministro de Estado e das Finanças e do Plano poder-se-ão exigir outras indicações.
 
-###### Art. 12.º - 1 - Quando for solicitado um certificado de origem para as peças de substituição essenciais ao abrigo do n.º 2 do artigo 7.º, o dito certificado e respectivo pedido devem indicar na coluna da designação das mercadorias a declaração do exportador ou do seu representante de que as mercadorias aí mencionadas são destinadas à manutenção normal de um artefacto principal, de uma máquina, de um aparelho ou de um veículo expedidos anteriormente, bem como a indicação exacta dos referidos artefacto principal, máquina, aparelho ou veículo. Além disso, o exportador ou seu representante deverão indicar, na medida do possível, as referências do certificado de origem (autoridade emissora e número e data do certificado) a coberto do qual foi expedido o artefacto principal, a máquina, o aparelho ou o veículo para cuja manutenção as peças são destinadas.
+Art. 12.º - 1 - Quando for solicitado um certificado de origem para as peças de substituição essenciais ao abrigo do n.º 2 do artigo 7.º, o dito certificado e respectivo pedido devem indicar na coluna da designação das mercadorias a declaração do exportador ou do seu representante de que as mercadorias aí mencionadas são destinadas à manutenção normal de um artefacto principal, de uma máquina, de um aparelho ou de um veículo expedidos anteriormente, bem como a indicação exacta dos referidos artefacto principal, máquina, aparelho ou veículo. Além disso, o exportador ou seu representante deverão indicar, na medida do possível, as referências do certificado de origem (autoridade emissora e número e data do certificado) a coberto do qual foi expedido o artefacto principal, a máquina, o aparelho ou o veículo para cuja manutenção as peças são destinadas.
 
 2 - As autoridades competentes poderão ainda exigir:
 
@@ -209,53 +226,53 @@ A apresentação da factura ou de uma cópia da factura relativamente ao artefac
 
 O contrato ou a cópia do contrato ou qualquer documento de onde se infira que a entrega se efectua no quadro da manutenção normal.
 
-###### Art. 13.º Os modelos de certificados de origem actualmente em vigor poderão continuar a ser utilizados até 30 de Junho de 1983.
+Art. 13.º Os modelos de certificados de origem actualmente em vigor poderão continuar a ser utilizados até 30 de Junho de 1983.
 
-###### Art. 14.º As entidades ou organismos habilitados que emitam certificados de origem devem conservar os respectivos pedidos durante 2 anos, pelo menos.
+Art. 14.º As entidades ou organismos habilitados que emitam certificados de origem devem conservar os respectivos pedidos durante 2 anos, pelo menos.
 
-###### Art. 15.º - 1 - São entidades emissoras a Direcção-Geral das Alfândegas e os organismos a designar por despacho do Ministro de Estado e das Finanças e do Plano ou, se for caso disso, por despacho conjunto daquele e do respectivo ministro da tutela.
+Art. 15.º - 1 - São entidades emissoras a Direcção-Geral das Alfândegas e os organismos a designar por despacho do Ministro de Estado e das Finanças e do Plano ou, se for caso disso, por despacho conjunto daquele e do respectivo ministro da tutela.
 
 2 - Os organismos referidos no n.º 1 deverão, para efeito da primeira concessão de competência, requerer esta ao Ministro de Estado e das Finanças e do Plano dentro do prazo de 90 dias, a contar da data da entrada em vigor do presente diploma.
 
 3 - As entidades que à data da publicação do presente diploma detêm competência para a emissão de certificados conservam tal competência até que sejam designados os organismos a que se refere o n.º 1 deste artigo.
 
-###### Art. 16.º - 1 - Quando as mercadorias não são importadas directamente do país de origem, mas procedem de outro país, os certificados de origem poderão ser emitidos pelas autoridades ou organismos habilitados para o efeito neste último país com base na certificação de origem feita anteriormente no país de origem das mercadorias.
+Art. 16.º - 1 - Quando as mercadorias não são importadas directamente do país de origem, mas procedem de outro país, os certificados de origem poderão ser emitidos pelas autoridades ou organismos habilitados para o efeito neste último país com base na certificação de origem feita anteriormente no país de origem das mercadorias.
 
 2 - Poderão ser emitidos certificados de origem pelos organismos habilitados pelas autoridades do território de Macau para mercadorias procedentes, mas não originárias desse território, com base na certificação de origem feita anteriormente no país de origem das mercadorias.
 
-###### Art. 17.º Compete à Direcção-Geral das Alfândegas solicitar das autoridades estrangeiras o controle a posteriori das provas de origem e, bem assim, responder a idênticos pedidos das mesmas autoridades, ouvida a referida entidade emissora.
+Art. 17.º Compete à Direcção-Geral das Alfândegas solicitar das autoridades estrangeiras o controle a posteriori das provas de origem e, bem assim, responder a idênticos pedidos das mesmas autoridades, ouvida a referida entidade emissora.
 
-###### Art. 18.º - 1 - Fica sujeita à aplicação de sanções toda e qualquer pessoa que forneça ou faça fornecer um documento contendo dados inexactos com o fim de obter uma prova de origem para a exportação ou que apresente na importação uma prova de origem falsa ou com falsas indicações.
+Art. 18.º - 1 - Fica sujeita à aplicação de sanções toda e qualquer pessoa que forneça ou faça fornecer um documento contendo dados inexactos com o fim de obter uma prova de origem para a exportação ou que apresente na importação uma prova de origem falsa ou com falsas indicações.
 
 2 - As situações referidas no n.º 1 darão lugar a procedimento fiscal, punível nos termos legais.
 
-###### Art. 19.º - 1 - São revogadas as seguintes disposições das Instruções Preliminares da Pauta dos Direitos de Importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, artigos 14.º e 15.º, n.os 3.º, 4.º, 5.º, 6.º, 9.º e 10.º do artigo 17.º e artigos 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º e 29.º
+Art. 19.º - 1 - São revogadas as seguintes disposições das Instruções Preliminares da Pauta dos Direitos de Importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, artigos 14.º e 15.º, n.os 3.º, 4.º, 5.º, 6.º, 9.º e 10.º do artigo 17.º e artigos 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º e 29.º
 
 2 - São revogadas as disposições em vigor sobre origem que colidam com o disposto no presente diploma, nomeadamente as que estabelecem as entidades emissoras de certificados de origem e os modelos de certificados.
 
-###### Art. 20.º As provas de origem em vigor em 31 de Dezembro de 1982 são aceites até 30 de Junho de 1983.
+Art. 20.º As provas de origem em vigor em 31 de Dezembro de 1982 são aceites até 30 de Junho de 1983.
 
-###### Art. 21.º Salvo o disposto no n.º 2 do artigo 16.º, o presente diploma não é aplicável ao território de Macau.
+Art. 21.º Salvo o disposto no n.º 2 do artigo 16.º, o presente diploma não é aplicável ao território de Macau.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Basílio Adolfo Mendonça Horta da Franca - Ricardo Manuel Simões Bayão Horta.
 
-**Promulgado em 1 de Fevereiro de 1983.**
+Promulgado em 1 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Fevereiro de 1983.**
+Referendado em 2 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 ## ANEXO I — Lista dos produtos petrolíferos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04100/05180525.pdf)
 
 ## ANEXO IV — Normas relativas à emissão de certificados de origem
 

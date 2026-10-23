@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1983-452514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a46e435c318aa110e6361b75907f4f6afa25f080544988689666a2cd750a00d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 011bbcd3ec39cddf70ba03cb3c719722fd1fb87c76c5b91e0ef7ccbabdfbfa89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Integração de Serviços
+- IPSS
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:17Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +109,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São integradas na Santa Casa da Misericórdia de Lisboa as instituições particulares de solidariedade social a seguir indicadas:
+Artigo 1.º São integradas na Santa Casa da Misericórdia de Lisboa as instituições particulares de solidariedade social a seguir indicadas:
 
 a) O Orfanato-Escola Santa Isabel, até aqui pessoa colectiva de utilidade pública administrativa, actualmente com sede em Albarraque;
 
@@ -110,29 +117,29 @@ b) A PRODAC - Associação de Produtividade na Auto-Construção, instituição 
 
 c) O CASU - Centro de Acção Social Universitário, pessoa colectiva de utilidade pública administrativa, com sede em Lisboa.
 
-###### Art. 2.º Transitam para a Santa Casa da Misericórdia de Lisboa, passando a ficar sob exclusiva gestão e a seu cargo, os estabelecimentos de carácter social a seguir indicados, e que têm sido administrados, respectivamente, pela Associação de Serviço Social e pela Associação Jardim Infantil de Palma e Fonsecas:
+Art. 2.º Transitam para a Santa Casa da Misericórdia de Lisboa, passando a ficar sob exclusiva gestão e a seu cargo, os estabelecimentos de carácter social a seguir indicados, e que têm sido administrados, respectivamente, pela Associação de Serviço Social e pela Associação Jardim Infantil de Palma e Fonsecas:
 
 1) O Centro Social da Quinta do Ourives e o Centro Social do Bairro das Casas Pré-Fabricadas, sitos em Lisboa;
 
 2) O Jardim Infantil de Palma e Fonsecas, sito em Lisboa.
 
-###### Art. 3.º Ficam a pertencer à Santa Casa da Misericórdia de Lisboa todos os edifícios, respectivos logradouros e demais imóveis, bem como todos os direitos a eles inerentes e suas partes integrantes, e, bem assim, as coisas móveis, equipamentos e, em geral, quaisquer valores ou numerário, em cofre ou depósitos, relativamente às aludidas instituições privadas ora integradas.
+Art. 3.º Ficam a pertencer à Santa Casa da Misericórdia de Lisboa todos os edifícios, respectivos logradouros e demais imóveis, bem como todos os direitos a eles inerentes e suas partes integrantes, e, bem assim, as coisas móveis, equipamentos e, em geral, quaisquer valores ou numerário, em cofre ou depósitos, relativamente às aludidas instituições privadas ora integradas.
 
-###### Art. 4.º - 1 - O património do Orfanato-Escola de Santa Isabel, agora transmitido para a Santa Casa da Misericórdia de Lisboa, compreende também o prédio, sito na Rua do Lumiar, 16, em Lisboa, o qual lhe pertencia até agora, em virtude do despacho ministerial de 19 de Agosto de 1977, Diário da República, 3.ª série, de 1 de Outubro de 1977.
+Art. 4.º - 1 - O património do Orfanato-Escola de Santa Isabel, agora transmitido para a Santa Casa da Misericórdia de Lisboa, compreende também o prédio, sito na Rua do Lumiar, 16, em Lisboa, o qual lhe pertencia até agora, em virtude do despacho ministerial de 19 de Agosto de 1977, Diário da República, 3.ª série, de 1 de Outubro de 1977.
 
 2 - Serão respeitados, quanto possível, os fins que presidiram àquele Orfanato-Escola, desde que se compatibilizem com as normas que disciplinam a Santa Casa da Misericórdia de Lisboa.
 
-###### Art. 5.º No que respeita aos referidos centros sociais, a Associação de Serviço Social assegurará, mediante os trâmites adequados, a subsistência do gozo e utilização dos locais afectos às respectivas obras sociais.
+Art. 5.º No que respeita aos referidos centros sociais, a Associação de Serviço Social assegurará, mediante os trâmites adequados, a subsistência do gozo e utilização dos locais afectos às respectivas obras sociais.
 
-###### Art. 6.º No tocante ao Jardim Infantil de Palma e Fonsecas, a Misericórdia de Lisboa diligenciará pela subsistência do gozo e utilização dos locais afectos àquela obra social pertencentes à Câmara Municipal de Lisboa.
+Art. 6.º No tocante ao Jardim Infantil de Palma e Fonsecas, a Misericórdia de Lisboa diligenciará pela subsistência do gozo e utilização dos locais afectos àquela obra social pertencentes à Câmara Municipal de Lisboa.
 
-###### Art. 7.º A Santa Casa da Misericórdia de Lisboa sucede em todos os direitos e obrigações das instituições contempladas no artigo 1.º, as quais ficam por conseguinte extintas para todos os efeitos de direito.
+Art. 7.º A Santa Casa da Misericórdia de Lisboa sucede em todos os direitos e obrigações das instituições contempladas no artigo 1.º, as quais ficam por conseguinte extintas para todos os efeitos de direito.
 
-###### Art. 8.º - 1 - A Santa Casa da Misericórdia de Lisboa não responderá por quaisquer encargos, débitos ou responsabilidades relativamente aos estabelecimentos de carácter social a que alude o artigo 2.º contraídos até à data da entrada em vigor deste diploma.
+Art. 8.º - 1 - A Santa Casa da Misericórdia de Lisboa não responderá por quaisquer encargos, débitos ou responsabilidades relativamente aos estabelecimentos de carácter social a que alude o artigo 2.º contraídos até à data da entrada em vigor deste diploma.
 
 2 - Os acordos e contratos legalmente celebrados que digam respeito especificamente a tais estabelecimentos são, no entanto, assumidos, independentemente de quaisquer formalidades, pela Santa Casa da Misericórdia de Lisboa, sem prejuízo do disposto no n.º 1.
 
-###### Art. 9.º - 1 - O pessoal que à data da entrada em vigor do presente diploma se encontre a prestar serviço nas instituições referidas no artigo 1.º e nos estabelecimentos a que se refere o artigo 2.º transita para os lugares do quadro de pessoal da Santa Casa da Misericórdia de Lisboa, sem prejuízo da observância das disposições legais em vigor, de acordo com as seguintes regras:
+Art. 9.º - 1 - O pessoal que à data da entrada em vigor do presente diploma se encontre a prestar serviço nas instituições referidas no artigo 1.º e nos estabelecimentos a que se refere o artigo 2.º transita para os lugares do quadro de pessoal da Santa Casa da Misericórdia de Lisboa, sem prejuízo da observância das disposições legais em vigor, de acordo com as seguintes regras:
 
 a) Na categoria que actualmente detêm, independentemente das habilitações literárias;
 
@@ -144,16 +151,16 @@ b) Para categoria correspondente às funções que já desempenha, remunerada po
 
 4 - Enquanto não for possível a aplicação do n.º 1 deste artigo, em virtude de o quadro de pessoal não dirigente ter de ser alterado para o efeito, o pessoal manterá a situação que actualmente detém, sendo, no entanto, os seus vencimentos processados e suportados pela Santa Casa da Misericórdia de Lisboa.
 
-###### Art. 10.º Para a transferência da propriedade dos bens em causa serão asseguradas à Santa Casa da Misericórdia de Lisboa quaisquer formalidades ou trâmites que se mostrem devidos, de forma a permitir, inclusivamente, todas as inscrições e registos competentes em seu nome.
+Art. 10.º Para a transferência da propriedade dos bens em causa serão asseguradas à Santa Casa da Misericórdia de Lisboa quaisquer formalidades ou trâmites que se mostrem devidos, de forma a permitir, inclusivamente, todas as inscrições e registos competentes em seu nome.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel - Luís Eduardo da Silva Barbosa - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 4 de Junho de 1983.**
+Promulgado em 4 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1983.**
+Referendado em 7 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

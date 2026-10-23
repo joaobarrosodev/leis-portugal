@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1985-178355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96dd6dc45ec6e757b57ba232a9f1cd15211916582e41780d6d742da4f98c4ab9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a47c500db752eb31d39dd15487d6d5a9bd3cb27c041e62944d54372053cf596a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento Eléctrico
+- Marina
+- Parque de Campismo
+- Regulamento de Segurança das Instalações Eléctricas de Parques de Campismo e de Marinas
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:265518:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661153:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:168179:por
+  label: Rectificado pela DECL.DD4539.09.10.1986.PCM, DR.IS [26-1º supl] de 31.01.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-168179
+  date: '1986-10-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:24Z'
   warnings: []
   errors: []
 ---
@@ -100,35 +142,35 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O estabelecimento e a exploração das instalações eléctricas de parques de campismo e de marinas que se destinam ao fornecimento de energia às caravanas, tendas e embarcações de recreio, bem como às instalações interiores das caravanas, deverão obedecer às disposições do Regulamento aprovado pelo presente decreto-lei e a ele anexo.
+Artigo 1.º - 1 - O estabelecimento e a exploração das instalações eléctricas de parques de campismo e de marinas que se destinam ao fornecimento de energia às caravanas, tendas e embarcações de recreio, bem como às instalações interiores das caravanas, deverão obedecer às disposições do Regulamento aprovado pelo presente decreto-lei e a ele anexo.
 
 2 - Nas instalações eléctricas de parques de campismo e de marinas existentes o cumprimento das disposições inovadoras do Regulamento só será obrigatório relativamente às obras de ampliação, modificação ou renovação.
 
 3 - Nas instalações eléctricas de parques de campismo e de marinas existentes a fiscalização do Governo poderá impor, de acordo com os preceitos do Regulamento, a execução das modificações ou adaptações que se tornarem necessárias para a segurança das pessoas ou da exploração.
 
-###### Art. 2.º As instalações eléctricas de parques de campismo e de marinas existentes à data da entrada em vigor do presente decreto-lei deverão ser remodeladas no prazo máximo de 3 anos, por forma a satisfazerem, no mínimo, o disposto nos artigos 5.º, 7.º, 8.º, 13.º e 16.º do Regulamento.
+Art. 2.º As instalações eléctricas de parques de campismo e de marinas existentes à data da entrada em vigor do presente decreto-lei deverão ser remodeladas no prazo máximo de 3 anos, por forma a satisfazerem, no mínimo, o disposto nos artigos 5.º, 7.º, 8.º, 13.º e 16.º do Regulamento.
 
-###### Art. 3.º - 1 - Uma das inspecções previstas no artigo 15.º do Estatuto do Técnico Responsável por Instalações Eléctricas de Serviço Particular, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, deverá ser realizada obrigatoriamente nos meses de Abril ou Maio.
+Art. 3.º - 1 - Uma das inspecções previstas no artigo 15.º do Estatuto do Técnico Responsável por Instalações Eléctricas de Serviço Particular, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, deverá ser realizada obrigatoriamente nos meses de Abril ou Maio.
 
 2 - O técnico responsável pela exploração e a entidade exploradora deverão providenciar para que na recepção do parque de campismo ou da marina existam sempre, devidamente actualizados, o projecto das instalações eléctricas e os relatórios anuais de exploração.
 
-###### Art. 4.º As alterações ao Regulamento anexo serão aprovadas por decreto regulamentar.
+Art. 4.º As alterações ao Regulamento anexo serão aprovadas por decreto regulamentar.
 
-###### Art. 5.º O presente decreto-lei será aplicável no território do continente e entrará em vigor 60 dias após a data da sua publicação.
+Art. 5.º O presente decreto-lei será aplicável no território do continente e entrará em vigor 60 dias após a data da sua publicação.
 
-###### Art. 6.º A aplicação do presente decreto-lei às regiões autónomas dependerá de diploma regional.
+Art. 6.º A aplicação do presente decreto-lei às regiões autónomas dependerá de diploma regional.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - José Veiga Simão - Joaquim Martins Ferreira do Amaral - José de Almeida Serra.
 
-**Promulgado em 27 de Setembro de 1985.**
+Promulgado em 27 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Setembro de 1985.**
+Referendado em 30 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Regulamento de Segurança de Instalações Eléctricas de Parques de Campismo e de Marinas (RPCM)
 
@@ -178,7 +220,7 @@ b) 16 mm2 de alumínio.
 
 Comentários. - 1 - No caso de instalações fixas destinadas exclusivamente à alimentação de caravanas, recomenda-se a adopção dos coeficientes de simultaneidade indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf))](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf)
 
 2 - Recomenda-se que a queda de tensão admissível, desde a origem da instalação fixa até ao quadro de armário electricamente mais afastado, não seja superior a 5% da tensão nominal da instalação.
 
@@ -210,9 +252,9 @@ Tensão nominal: 250 V;
 
 Intensidade nominal: 16 A;
 
-Número de pólos: 2 P + [([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf))](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf);
+Número de pólos: 2 P + [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf);
 
-Tipo: protegida contra projecções de água [([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf))](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf) (IP* 4*).
+Tipo: protegida contra projecções de água [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/23200/33303334.pdf) (IP* 4*).
 
 2 - As tomadas referidas no número anterior deverão estar agrupadas em quadros de armário de tal modo que fiquem acessíveis a menos de 20 m do local previsto para a instalação de cada caravana.
 
@@ -392,4 +434,4 @@ As instalações deverão ser protegidas contra sobreintensidades nos termos def
 
 As instalações deverão ser convenientemente verificadas, exploradas e conservadas de acordo com o capítulo 9 do Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica, na parte aplicável, e com o [Decreto-Lei n.º 517/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1980-457674), de 31 de Outubro.
 
-**O Ministro da Indústria e Energia, José Veiga Simão.**
+O Ministro da Indústria e Energia, José Veiga Simão.

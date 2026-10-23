@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14600/23162323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1983-452567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad0c40497c24f6b4639807f17e4471175d25822a7d84887722e4b8d40947aa22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d46868c4c17f74629f826e8f68b441efb1cf436eedd725f443b8db05bb98802
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Publicidade
+- Criação de Serviços
+- Definição de Competências
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:628040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619277:por
+  label: "Alterados os artigos 25.º e 30.º pelo DEC LEI.266/89.18.08.1989.MPLAT, DR.IS [189] de 18.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-1989-619277
+  date: '1989-08-18'
+- type: amended_by
+  target: pt:dre:628040:por
+  label: Alterado o art. 2.º do Dec Lei 330/90 de 23-out, que determinou a revogação total do presente diploma, pelo(a) Decreto-Lei
+    n.º 74/93 - Diário da República n.º 58/1993, Série I-A de 1993-03-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1993-628040
+  date: '1993-03-10'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461621:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:565417:por
+  label: Revogado o presente diploma, na redacção dada pelo Dec Lei 266/89 de 18-ago, com excepção do art. 25.º e als. c)
+    e d) do n.º 1 do art. 30.º pelo DEC LEI.330/90.23.10.1990.MARN, DR.IS [245] de 23.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1990-565417
+  date: '1990-10-23'
 article_structure:
   article_count: 51
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:32Z'
   warnings: []
   errors: []
 ---
@@ -608,12 +637,12 @@ A extensão do regime estabelecido no presente decreto-lei às Regiões Autónom
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - José Manuel Meneres Sampaio Pimentel - Basílio Adolfo Mendonça Horta da Franca - Ricardo Manuel Simões Bayão Horta.
 
-**Promulgado em 4 de Junho de 1983.**
+Promulgado em 4 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1983.**
+Referendado em 7 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

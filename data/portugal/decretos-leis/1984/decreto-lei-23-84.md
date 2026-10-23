@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01200/01290132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,152 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1984-660281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d2d6f97dd5f62b8f97896098fd32b5cbf39754126299b19bb5a77bf86aa84db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 602f725d3450b007dd4b8eb64ef64879acac4a898c7dff2883d4d386c491cf4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Turismo
+- Conselho Nacional do Comércio Externo
+- Conselho Nacional do Comércio Interno
+- Direcção Geral da Concorrência e Preços
+- Direcção Geral de Inspecção Económica
+- Direcção Geral do Comércio Externo
+- Direcção Geral do Comércio Interno
+- Direcção Geral do Turismo
+- Fundo de Turismo
+- Gabinete de Estudos e Planeamento
+- Gabinete Jurídico
+- ICEP
+- Inspecção Geral de Jogos
+- Instituto Nacional de Formação Turística
+- Ministério do Comércio e Turismo
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:199846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:387139:por
+  label: "Alargado o quadro de pessoal da Direcção-Geral do Comércio Interno, aprovado pelo presente diploma, pela PORT.396/84.19.06.1984.PCM,\
+    \ DR.IS [141] de 19.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/396-1984-387139
+  date: '1984-06-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTA A DIRECÇÃO GERAL DE INSPECÇÃO ECONÓMICA (CRIADA PELO DEC LEI 329-D/74 DE 10-JUL, COM A DESIGNAÇÃO DE DIRECÇÃO\
+    \ GERAL DE FISCALIZAÇÃO ECONOMICA), PELO DEC LEI 14/93 DE 18-JAN DR.IS-A [14]19930318 - EXTINTA A DIRECÇÃO GERAL DO COMERCIO\
+    \ EXTERNO E DIRECÇÃO GERAL DO COMERCIO INTERNO, CONSTANTES DA ORGÂNICA APROVADA PELO PRESENTE DIPLOMA, PELO DEC LEI 85/93\
+    \ DE 18-MAR DR.IS-A [65]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-18'
+- type: amended_by
+  target: pt:dre:586839:por
+  label: Extinta a Direção-Geral de Fiscalização Económica, criada pelo art 1.º do Dec Lei 329-D/74 de 10-jul, com a designação
+    de Direção-Geral de Inspeção Económica, que lhe foi dada pelo n.º 3 do art. 5.º do presente diploma, pelo(a) Decreto-Lei
+    n.º 14/93 - Diário da República n.º 14/1993, Série I-A de 1993-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1993-586839
+  date: '1993-01-18'
+- type: amended_by
+  target: pt:dre:199846:por
+  label: "Extintos Direcção-Geral do Comércio (criada pelo Dec Lei 85/93 de 18-Mar e regulamentada pelo Dec Lei 86/93 de 18-Mar,\
+    \ a Direcção-Geral da Concorrência e Preços (criada no âmbito do então Ministério da Agricultura, Comércio e Pescas pelo\
+    \ Dec Lei 293/82 de 27-Jul, e posteriormente integrada no Ministério do Comércio e Turismo), a Auditoria Jurídica (regulamentada\
+    \ pelo Dec Lei 439/89 de 19-Dez), o Gabinete para os Assuntos Comunitário (regulamentado pelo Desp 24/87 de 28-Out) a\
+    \ Secretaria-Geral (regulamentada pelo Dec Lei 135/88 de 21-Abr), todos do ex-Ministério do Comércio e Turismo, cuja orgânica\
+    \ consta do presente diploma, pelo DEC LEI.222/96.25.11.1996.MECO, DR.IS-A [273] de 25.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1996-199846
+  date: '1996-11-25'
+- type: cites
+  target: pt:dre:138153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401354:por
+  label: "Revogada a alínea a) do n.º 1 do artigo 6.º, e alterado n.º 2 do artigo 6.º, pelo DEC LEI.388/84.10.12.1984.PCM,\
+    \ DR.IS [284] de 10.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/388-1984-401354
+  date: '1984-12-10'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:28Z'
   warnings: []
   errors: []
 ---
@@ -300,16 +412,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 4 de Janeiro de 1984.**
+Promulgado em 4 de Janeiro de 1984.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Janeiro de 1984.**
+Referendado em 5 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro a que se refere o n.º 6 do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01200/01290132.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01200/01290132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01200/01290132.pdf)

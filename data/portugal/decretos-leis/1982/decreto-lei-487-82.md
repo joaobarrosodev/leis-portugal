@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29800/42384239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1982-380738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86bd191b66c219842f7c3f94744399de8f9c8bbeca6d95bc126f8ea6562ee86c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f7f65f4d6c9478fc9583c11a3d1b902f16c9a47b14a4973410d8eacc175d622
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:220498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475349:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220498:por
+  label: "Revogado pelo DEC LEI.405/84.31.12.1984.MFP, DR.IS [301]3ºSupl de 31.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/405-1984-220498
+  date: '1984-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:06Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +125,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os industriais de montagem de veículos automóveis cuja importação não ficou abrangida pela contingentação estabelecida pelo artigo 5.º do [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto, ou dela haja sido excluída, nos termos do artigo 2.º do [Decreto-Lei n.º 513-G1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-g1-1979-147409), de 27 de Dezembro, poderão ser autorizados, por despacho do Ministro da Indústria, Energia e Exportação, a importar aqueles veículos no estado CBU acima dos quantitativos fixados pelos artigos 3.º e 4.º do decreto-lei primeiramente referido, desde que se verifiquem as seguintes condições:
+Artigo 1.º - 1 - Os industriais de montagem de veículos automóveis cuja importação não ficou abrangida pela contingentação estabelecida pelo artigo 5.º do [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto, ou dela haja sido excluída, nos termos do artigo 2.º do [Decreto-Lei n.º 513-G1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-g1-1979-147409), de 27 de Dezembro, poderão ser autorizados, por despacho do Ministro da Indústria, Energia e Exportação, a importar aqueles veículos no estado CBU acima dos quantitativos fixados pelos artigos 3.º e 4.º do decreto-lei primeiramente referido, desde que se verifiquem as seguintes condições:
 
 a) Ter sido atingida a percentagem mínima de incorporação nacional nos veículos desalfandegados e montados no ano anterior, tal como aquela vem expressa no artigo 13.º do mesmo diploma;
 
@@ -114,7 +133,7 @@ b) Procedam à reconversão das suas linhas de montagem, de acordo com o estabel
 
 2 - O total anual de importações de veículos automóveis, por marca, quer em CKD quer em CBU, a autorizar ao abrigo do despacho referido no número anterior não poderá exceder 85% do maior quantitativo anual de veículos dessa marca montados e desalfandegados nos quatro anos civis imediatamente anteriores, exceptuando-se os casos previstos nos artigos 5.º, 6.º e 8.º
 
-###### Art. 2.º - 1 - Considera-se que há reconversão de uma linha de montagem desde que se verifiquem, obrigatória e cumulativamente, as seguintes condições:
+Art. 2.º - 1 - Considera-se que há reconversão de uma linha de montagem desde que se verifiquem, obrigatória e cumulativamente, as seguintes condições:
 
 a) Ser mantido o número de postos de trabalho existentes na linha de montagem;
 
@@ -132,7 +151,7 @@ c) Ser a actividade final:
 
 3 - Os veículos automóveis montados e desalfandegados nas linhas de montagem consideradas reconvertidas ao abrigo do [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto, ou deste decreto-lei e destinados ao mercado interno estão sujeitos ao estabelecido no artigo 13.º do [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto.
 
-###### Art. 3.º - 1 - O plano de reconversão de uma linha de montagem, que deverá ser aprovado por despacho do Ministro da Indústria, Energia e Exportação, será proposto pela empresa proprietária da linha de montagem e dele deverá constar:
+Art. 3.º - 1 - O plano de reconversão de uma linha de montagem, que deverá ser aprovado por despacho do Ministro da Indústria, Energia e Exportação, será proposto pela empresa proprietária da linha de montagem e dele deverá constar:
 
 a) Declaração de cada sócio representante de construtores de veículos automóveis que pretenda beneficiar do disposto no n.º 1 do artigo 1.º de que para tal se compromete a cumprir o disposto no n.º 2 do mesmo artigo;
 
@@ -152,11 +171,11 @@ f) Previsão das importações a realizar nos 2 anos seguintes à aprovação do
 
 4 - A Direcção-Geral da Indústria dará conhecimento do despacho aos proponentes do plano, à Direcção-Geral das Alfândegas e à Direcção-Geral do Comércio Externo.
 
-###### Art. 4.º - 1 - Os benefícios previstos no n.º 1 do artigo 1.º não são extensíveis a entidades cuja qualidade de sócio tenha sido adquirida após a apresentação do plano de reconversão referido no artigo 3.º
+Art. 4.º - 1 - Os benefícios previstos no n.º 1 do artigo 1.º não são extensíveis a entidades cuja qualidade de sócio tenha sido adquirida após a apresentação do plano de reconversão referido no artigo 3.º
 
 2 - A autorização referida no artigo 1.º só é aplicável às marcas constantes da declaração referida na alínea c) do n.º 1 do artigo 3.º, excepto nos casos previstos no artigo 8.º e verificados após o despacho referido no n.º 1 do artigo 3.º
 
-###### Art. 5.º - 1 - Para além dos quantitativos estabelecidos no n.º 2 do artigo 1.º, poderão ser autorizadas, por despacho do Ministro da Indústria, Energia e Exportação, a requerimento da entidade interessada, importações adicionais em valor correlativo ao valor nacional acrescentado nas seguintes mercadorias exportadas:
+Art. 5.º - 1 - Para além dos quantitativos estabelecidos no n.º 2 do artigo 1.º, poderão ser autorizadas, por despacho do Ministro da Indústria, Energia e Exportação, a requerimento da entidade interessada, importações adicionais em valor correlativo ao valor nacional acrescentado nas seguintes mercadorias exportadas:
 
 a) Veículos automóveis no estado CKD e ou CBU;
 
@@ -176,15 +195,15 @@ f) Produtos resultantes da nova actividade referida na alínea c) do n.º 1 do a
 
 4 - As importações adicionais referidas no n.º 1 estão sujeitas ao estabelecido nos n.os 3.º, 13.º, 14.º, 15.º, 17.º e 19.º da [Portaria n.º 230/80](https://diariodarepublica.pt/dr/detalhe/portaria/230-1980-475349), de 7 de Maio.
 
-###### Art. 6.º Poderão ser autorizadas, até 31 de Dezembro de 1984, por despacho do Ministro da Indústria, Energia e Exportação e a requerimento do interessado, importações para além do quantitativo referido no n.º 2 do artigo 1.º, como contrapartida de investimentos na indústria automóvel a que se reconheça incidência significativa no desenvolvimento da indústria de componentes, na criação de postos de trabalho, no desenvolvimento tecnológico do sector e no montante de exportações.
+Art. 6.º Poderão ser autorizadas, até 31 de Dezembro de 1984, por despacho do Ministro da Indústria, Energia e Exportação e a requerimento do interessado, importações para além do quantitativo referido no n.º 2 do artigo 1.º, como contrapartida de investimentos na indústria automóvel a que se reconheça incidência significativa no desenvolvimento da indústria de componentes, na criação de postos de trabalho, no desenvolvimento tecnológico do sector e no montante de exportações.
 
-###### Art. 7.º - 1 - O não cumprimento, por parte do proponente, do plano de reconversão acordado dará lugar ao cancelamento imediato da autorização de importação de veículos automóveis no estado CBU, a que se refere o n.º 1 do artigo 1.º
+Art. 7.º - 1 - O não cumprimento, por parte do proponente, do plano de reconversão acordado dará lugar ao cancelamento imediato da autorização de importação de veículos automóveis no estado CBU, a que se refere o n.º 1 do artigo 1.º
 
 2 - Os veículos automóveis importados no estado CBU, ao abrigo do n.º 1 do artigo 1.º, até à data da ocorrência referida no número anterior serão considerados como montados localmente com uma incorporação nacional nula, pelo que estarão sujeitos às sanções previstas no artigo 16.º do [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto.
 
-###### Art. 8.º Nos casos em que uma marca tenha mudado de designação, resulte da junção de marcas anteriormente existentes ou se tenha verificado a absorção de uma marca por outra, o quantitativo referido no n.º 2 do artigo 1.º será o correspondente à anterior designação ou ao somatório dos quantitativos correspondentes a cada uma das marcas constituintes da nova marca.
+Art. 8.º Nos casos em que uma marca tenha mudado de designação, resulte da junção de marcas anteriormente existentes ou se tenha verificado a absorção de uma marca por outra, o quantitativo referido no n.º 2 do artigo 1.º será o correspondente à anterior designação ou ao somatório dos quantitativos correspondentes a cada uma das marcas constituintes da nova marca.
 
-###### Art. 9.º As subposições pautais referidas na alínea c) do n.º 1 do artigo 2.º são as seguintes:
+Art. 9.º As subposições pautais referidas na alínea c) do n.º 1 do artigo 2.º são as seguintes:
 
 87.02.03 (Auto-ónibus de 2 pisos);
 
@@ -198,18 +217,18 @@ f) Produtos resultantes da nova actividade referida na alínea c) do n.º 1 do a
 
 87.02.10 (Para remoção de lixo).
 
-###### Art. 10.º Os veículos automóveis no estado CBU, importados ao abrigo do n.º 1 do artigo 1.º, deverão constar das relações trimestrais a que se refere o n.º 6.º da [Portaria n.º 230/80](https://diariodarepublica.pt/dr/detalhe/portaria/230-1980-475349), de 7 de Maio.
+Art. 10.º Os veículos automóveis no estado CBU, importados ao abrigo do n.º 1 do artigo 1.º, deverão constar das relações trimestrais a que se refere o n.º 6.º da [Portaria n.º 230/80](https://diariodarepublica.pt/dr/detalhe/portaria/230-1980-475349), de 7 de Maio.
 
-###### Art. 11.º Não será permitida a transferência, total ou parcial, do quantitativo referido no n.º 2 do artigo 1.º de uma marca para outra, exceptuando os casos previstos no artigo 8.º
+Art. 11.º Não será permitida a transferência, total ou parcial, do quantitativo referido no n.º 2 do artigo 1.º de uma marca para outra, exceptuando os casos previstos no artigo 8.º
 
-###### Art. 12.º Quaisquer dúvidas que resultem da aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação.
+Art. 12.º Quaisquer dúvidas que resultem da aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação.
 
-###### Art. 13.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 13.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Dezembro de 1982.**
+Promulgado em 13 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

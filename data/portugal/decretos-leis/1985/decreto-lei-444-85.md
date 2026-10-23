@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 245/1985, 1º Suplemento, Série I de 1985-10-24
   number: '245'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3528-(7) a 3528-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24501/00070009.pdf
 entry_into_force_dates: []
@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1985-141218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d14a34a85ee8fdff7cba7f845baf1107937a7fe96bc4ee447b120954bb43f7d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97b2d98922acc8806ec67673d4885940fe0eadb43da6b0822a5b0df75074e4d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Coimbra
+- Instituto Superior de Contabilidade e Administração
+- Lisboa
+- Pessoal não Docente
+- Porto
+- Quadro de Pessoal
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:230275:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO SUPERIOR DE CONTABILIDADE E ADMINISTRAÇÃO DE AVEIRO PELA PORT 216/93 DE
+    23/FEV DR.IS-B [45] NA PARTE RELATIVA AO PESSOAL DE BAD.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-02-23'
+- type: amended_by
+  target: pt:dre:626417:por
+  label: "Alterado o quadro de pessoal do Instituto Superior de Contabilidade e Administração de Aveiro anexo ao presente\
+    \ diploma pela PORT.250/93.1993.03.05.MF DR.IS-B [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/250-1993-626417
+  date: '1993-03-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL NAO DOCENTE CONSTANTE DO MAPA ANEXO PELA PORT 630/93 DE 01-JUL DR.IS-B [152].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL CONSTANTE DO MAPA ANEXO PELA PORT 732/93 DE 13-AGO DR.IS-B [189] NA PARTE RELATIVA
+    AS ÁREAS FUNCIONAIS DE BIBLIOTECA E DOCUMENTAÇÃO E DE ARQUIVO.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO INSTITUTO SUPERIOR DE CONTABILIDADE E ADMINISTRAÇÃO DO PORTO PELA PORT 104/95\
+    \ DE 02-FEV DR.IS-B [28].\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-02-02'
+- type: amended_by
+  target: pt:dre:230275:por
+  label: "Alterado o quadro do Instituto Superior de Contabilidade e Administração pela PORT.54/98.1998.02.05.PCM, DR.IS-B\
+    \ [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/54-1998-230275
+  date: '1998-02-05'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427801:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:168180:por
+  label: Rectificado pela DECL.DD4540.21.10.1985.PCM, DR.IS [26]Supl de 31.01.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-168180
+  date: '1985-10-21'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:16Z'
   warnings: []
   errors: []
 ---
@@ -169,16 +233,16 @@ Os encargos resultantes da execução deste diploma serão satisfeitos pelas dis
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 10 de Outubro de 1985.**
+Promulgado em 10 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Outubro de 1985.**
+Referendado em 14 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa a que se refere o artigo 1.º do Decreto-Lei n.º 444/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24501/00070009.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24501/00070009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24501/00070009.pdf)

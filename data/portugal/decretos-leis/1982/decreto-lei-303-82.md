@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/17500/22712274.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cd5e46077e6ce3ee6144c7ed952bd7b9d723d86b2b6ac19f5dd62512590bd2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9416d43aa20c0e6bc920b298a4a178b776d54ee05edf6148b22194cda3ffcde7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bebida Alcoólica
+- Café
+- Código do Imposto de Transacções
+- Fósforos
+- Imposto de Transacções
+- Indústria Electrotécnica
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380913:por
+  label: "Aditado aos nºs 2 e 3 a observação (b) e altera o n.º 8 e a observação (a) inserta no final da relação anexa ao\
+    \ presente diploma, pela PORT.1174/82.22.12.1982.MFP, DR.IS [294] de 22.12.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1174-1982-380913
+  date: '1982-12-22'
+- type: amended_by
+  target: pt:dre:669084:por
+  label: "Alterado o artigo 2.º, o n.º 7 da relação anexa ao presente diploma, e aditados os n.ºs 10, 11 e 12 pelo DEC LEI.181/84.25.05.1984.MFP,\
+    \ DR.IS [121]Supl de 25.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1984-669084
+  date: '1984-05-25'
+- type: amended_by
+  target: pt:dre:387148:por
+  label: "Aditada a observação (c) ao n.º 10 e a observação (b) ao n.º 12 (na redacção da Port 1174/82, de 22-Dez) e eliminada\
+    \ a al. f) do n.º 12 (na redacção do Dec Lei 181/84, de 25-Mai) da relação anexa ao presente diploma, pela PORT.400/84.20.06.1984.MFP,\
+    \ DR.IS [142] de 20.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/400-1984-387148
+  date: '1984-06-20'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509017:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375206:por
+  label: Rectificado pela DECL.DD6072.03.09.1982.PCM, DR.IS [223] de 25.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375206
+  date: '1982-09-03'
+- type: repealed_by
+  target: pt:dre:550813:por
+  label: Revogado o Dec Lei 586/80 de 31-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 414/89 - Diário da República
+    n.º 276/1989, Série I de 1989-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1989-550813
+  date: '1989-11-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:44Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +168,7 @@ Usando da autorização legislativa concedida pelos artigos 24.º, alínea g), e
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nas transacções das mercadorias constantes da relação anexa a este diploma o imposto de transacções é devido à saída do local de produção ou, no caso de importação, no acto do desembaraço aduaneiro, sendo a ele sujeitos unicamente os respectivos produtores ou importadores.
+Artigo 1.º - 1 - Nas transacções das mercadorias constantes da relação anexa a este diploma o imposto de transacções é devido à saída do local de produção ou, no caso de importação, no acto do desembaraço aduaneiro, sendo a ele sujeitos unicamente os respectivos produtores ou importadores.
 
 2 - O disposto no número anterior não prejudica o regime estabelecido no § 2.º do artigo 5.º do Código do Imposto de Transacções e, bem assim, o previsto nos artigos 64.º e 65.º do mesmo Código, quanto a matérias-primas - com excepção do café - destinadas à produção de mercadorias.
 
@@ -114,7 +176,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 4 - A relação de mercadorias, anexa ao presente diploma, poderá ser revista por portaria do Ministro de Estado e das Finanças e do Plano sempre que tal se mostre conveniente com vista a evitar distorções do imposto.
 
-###### Art. 2.º - 1 - O valor tributável nas transacções referidas no artigo anterior será o preço de venda do produtor, no caso de mercadorias produzidas no continente e nos arquipélagos dos Açores e da Madeira, ou o valor global constituído pela soma do valor aduaneiro e dos direitos e quaisquer outros encargos devidos, tratando-se de importações, acrescendo àquele preço ou a este valor global as seguintes percentagens:
+Art. 2.º - 1 - O valor tributável nas transacções referidas no artigo anterior será o preço de venda do produtor, no caso de mercadorias produzidas no continente e nos arquipélagos dos Açores e da Madeira, ou o valor global constituído pela soma do valor aduaneiro e dos direitos e quaisquer outros encargos devidos, tratando-se de importações, acrescendo àquele preço ou a este valor global as seguintes percentagens:
 
 a) 40% relativamente às mercadorias constantes dos n.os 1 a 6 da relação anexa a este diploma;
 
@@ -126,19 +188,19 @@ d) 20% relativamente ao café torrado, em grão, moído ou solúvel.
 
 2 - O valor tributável nas transacções dos fósforos, a que se refere o n.º 9 da relação anexa, será, em qualquer dos casos, o preço de venda ao público, com exclusão do próprio imposto.
 
-###### Art. 3.º - 1 - O imposto devido pelos produtores nos termos dos artigos anteriores será entregue nos cofres do Estado no prazo de 4 meses e pela forma prevista na alínea a) do artigo 41.º do Código do Imposto de Transacções.
+Art. 3.º - 1 - O imposto devido pelos produtores nos termos dos artigos anteriores será entregue nos cofres do Estado no prazo de 4 meses e pela forma prevista na alínea a) do artigo 41.º do Código do Imposto de Transacções.
 
 2 - Nas importações das mercadorias abrangidas neste decreto-lei, o imposto poderá ser pago até 4 meses após o desembaraço aduaneiro, desde que seja prestada garantia considerada idónea pelos competentes serviços alfandegários.
 
-###### Art. 4.º É facultada a inscrição no registo a que se refere o artigo 48.º do Código do Imposto de Transacções aos exportadores das mercadorias constantes da lista anexa ao presente decreto-lei.
+Art. 4.º É facultada a inscrição no registo a que se refere o artigo 48.º do Código do Imposto de Transacções aos exportadores das mercadorias constantes da lista anexa ao presente decreto-lei.
 
-###### Art. 5.º - 1 - A Administração-Geral do Álcool (AGA) e a Junta Nacional do Vinho (JNV) remeterão à Direcção-Geral das Contribuições e Impostos, até 28 de Fevereiro de cada ano, relações dos importadores, preparadores e ou engarrafadores que, no ano anterior, tenham transaccionado bebidas alcoólicas sujeitas ao regime estabelecido neste diploma, nas quais deverá indicar-se, relativamente a cada empresa, os elementos de que disponham e com interesse para a fiscalização do imposto de transacções, designadamente quantidades, espécies e respectivas importâncias.
+Art. 5.º - 1 - A Administração-Geral do Álcool (AGA) e a Junta Nacional do Vinho (JNV) remeterão à Direcção-Geral das Contribuições e Impostos, até 28 de Fevereiro de cada ano, relações dos importadores, preparadores e ou engarrafadores que, no ano anterior, tenham transaccionado bebidas alcoólicas sujeitas ao regime estabelecido neste diploma, nas quais deverá indicar-se, relativamente a cada empresa, os elementos de que disponham e com interesse para a fiscalização do imposto de transacções, designadamente quantidades, espécies e respectivas importâncias.
 
 2 - Relativamente à AGA, a relação deverá conter também as quantidades de álcool fornecidas a cada preparador ou engarrafador.
 
-###### Art. 6.º O Instituto do Vinho do Porto e o Instituto do Vinho da Madeira remeterão à Direcção-Geral das Contribuições e Impostos, até 28 de Fevereiro de cada ano, relações dos produtores, preparadores e ou engarrafadores que, no ano anterior, tenham transaccionado bebidas alcoólicas sujeitas ao regime estabelecido neste diploma, nas quais deverá indicar-se, relativamente a cada empresa, os elementos de que disponham e com interesse para a fiscalização do imposto de transacções, designadamente quantidades e espécies e respectivas importâncias.
+Art. 6.º O Instituto do Vinho do Porto e o Instituto do Vinho da Madeira remeterão à Direcção-Geral das Contribuições e Impostos, até 28 de Fevereiro de cada ano, relações dos produtores, preparadores e ou engarrafadores que, no ano anterior, tenham transaccionado bebidas alcoólicas sujeitas ao regime estabelecido neste diploma, nas quais deverá indicar-se, relativamente a cada empresa, os elementos de que disponham e com interesse para a fiscalização do imposto de transacções, designadamente quantidades e espécies e respectivas importâncias.
 
-###### Art. 7.º - 1 - Relativamente às mercadorias constantes da relação anexa ao presente diploma que tenham sido exportadas, o imposto de transacções entregue nos cofres do Estado e efectivamente suportado pelos exportadores registados ser-lhes-á restituído nas condições definidas nos números seguintes.
+Art. 7.º - 1 - Relativamente às mercadorias constantes da relação anexa ao presente diploma que tenham sido exportadas, o imposto de transacções entregue nos cofres do Estado e efectivamente suportado pelos exportadores registados ser-lhes-á restituído nas condições definidas nos números seguintes.
 
 2 - A restituição do imposto reportar-se-á a cada despacho de exportação, junto do qual deverá figurar a relação das mercadorias exportadas, donde constarão os seguintes elementos:
 
@@ -166,7 +228,7 @@ c) Duplicado da relação mencionada no n.º 2, devidamente autenticado pela res
 
 5 - A declaração e respectivos documentos, acompanhados das informações dos Serviços de Fiscalização Tributária e do chefe da repartição de finanças, serão remetidos ao director distrital de finanças, o qual, verificadas que se mostrem as condições para a restituição do imposto, no todo ou em parte, ordenará o processamento do respectivo título de anulação para ser pago a dinheiro ou abatido em imposto de transacções arrecadado por cobrança virtual.
 
-###### Art. 8.º - 1 - As mercadorias constantes dos n.os 7, 8 e 9 da relação anexa ao presente diploma que, à data da entrada em vigor do mesmo, se encontrem em existência nos estabelecimentos de grossistas ou importadores deverão constar de inventário a organizar, o qual será apresentado no prazo de 30 dias a contar daquela data.
+Art. 8.º - 1 - As mercadorias constantes dos n.os 7, 8 e 9 da relação anexa ao presente diploma que, à data da entrada em vigor do mesmo, se encontrem em existência nos estabelecimentos de grossistas ou importadores deverão constar de inventário a organizar, o qual será apresentado no prazo de 30 dias a contar daquela data.
 
 2 - O inventário será entregue na repartição de finanças referida no § 2.º do artigo 51.º do Código do Imposto de Transacções, assinado pelo contribuinte ou pelos seus representantes legais ou mandatários e pelo respectivo técnico de contas, quando o houver.
 
@@ -180,27 +242,27 @@ c) Nomes ou denominações dos fornecedores e seus domicílios ou sedes.
 
 4 - Às transacções de mercadorias sujeitas a inventário nos termos deste artigo continuará a ser aplicável o regime anterior ao da vigência do presente diploma.
 
-###### Art. 9.º - 1 - A falta de entrega, ou a entrega fora do prazo, do inventário a que se refere o artigo anterior será punível nos termos do artigo 107.º do Código do Imposto de Transacções.
+Art. 9.º - 1 - A falta de entrega, ou a entrega fora do prazo, do inventário a que se refere o artigo anterior será punível nos termos do artigo 107.º do Código do Imposto de Transacções.
 
 2 - A falsificação ou viciação do mesmo inventário será punida de acordo com o artigo 109.º do referido Código.
 
-###### Art. 10.º Nos casos não previstos nos artigos anteriores e relativamente ao imposto e obrigações correlativas estabelecidos no presente diploma, será aplicável, com as necessárias adaptações, o regime do Código do Imposto de Transacções e demais legislação complementar.
+Art. 10.º Nos casos não previstos nos artigos anteriores e relativamente ao imposto e obrigações correlativas estabelecidos no presente diploma, será aplicável, com as necessárias adaptações, o regime do Código do Imposto de Transacções e demais legislação complementar.
 
-###### Art. 11.º - 1 - É revogada a alínea d) do artigo 7.º do Código do Imposto de Transacções.
+Art. 11.º - 1 - É revogada a alínea d) do artigo 7.º do Código do Imposto de Transacções.
 
 2 - São revogados os artigos 6.º a 12.º do [Decreto-Lei n.º 480/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1976-431042), de 18 de Junho, os artigos 4.º e 5.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, o artigo 5.º do [Decreto-Lei n.º 140-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1981-149261), de 1 de Junho, e as Portarias n.º 684/80, de 19 de Setembro, e n.º 343/81, de 18 de Abril.
 
-###### Art. 12.º - 1 - É abolido o imposto de consumo sobre os fósforos.
+Art. 12.º - 1 - É abolido o imposto de consumo sobre os fósforos.
 
 2 - Independentemente de ulterior revisão do regime fosforeiro, são revogados os artigos 10.º a 18.º, 23.º a 26.º, 28.º e 31.º do [Decreto-Lei n.º 586/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/586-1980-226777), de 31 de Dezembro, e revogados os n.os 2, 3 e 4 do artigo 6.º, n.º 2 do artigo 21.º, n.º 1 do artigo 27.º e n.º 3 do artigo 29.º do mesmo decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Julho de 1982.**
+Promulgado em 21 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Relação das mercadorias cujas transacções estão sujeitas ao regime previsto no Decreto-Lei n.º 303/82, de 31 de Julho.
 

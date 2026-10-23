@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21600/29282934.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1982-375838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcfbcf7618e4f37ef275b92328d3aa160ee23023cc2a481ce3783bee7a773d76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce7179ba81b608c6db8747188ab7839e424b7ee92bad8ccecd9d5e98fc57efec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cinema
+- Indústria Cinematográfica
+- Instituto Português de Cinema
+- Orgânica
+- Produção Cinematográfica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:496679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666129:por
+  label: "Alargado o quadro de pessoal (aprovado pelo presente diploma), pela PORT.295/87.1987.04.10.MF, DR.IS [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1987-666129
+  date: '1987-04-10'
+- type: amended_by
+  target: pt:dre:583593:por
+  label: "Alterado o quadro de pessoal pela PORT.11/88.07.01.1988.PCM, DR.IS [5] de 07.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-1988-583593
+  date: '1988-01-07'
+- type: amended_by
+  target: pt:dre:283082:por
+  label: "Alterado o artigo 29.º pelo DEC LEI.40/88.06.02.1988.PCM, DR.IS [31] de 06.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1988-283082
+  date: '1988-02-06'
+- type: amended_by
+  target: pt:dre:508451:por
+  label: "Alterados os arts. 3º, 7º, 12º, 14º e 36º pelo DEC LEI.51/91.25.01.1991.PCM, DR.IS-A [21] de 25.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1991-508451
+  date: '1991-01-25'
+- type: cites
+  target: pt:dre:311261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469225:por
+  label: Rectificado pela DECL.DD2686.1983.01.14.PCM DR.IS [25]Supl de 31/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469225
+  date: '1983-01-14'
+- type: repealed_by
+  target: pt:dre:496679:por
+  label: "Revogado pelo DEC LEI.25/94.1994.02.01.PCM, DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1994-496679
+  date: '1994-02-01'
 article_structure:
-  article_count: 1
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:09Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +176,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Instituto Português de Cinema, abreviadamente designado por IPC, é um instituto público com autonomia administrativa e financeira, que tem por objectivo apoiar o desenvolvimento da actividade cinematográfica nacional e internacional.
+Artigo 1.º O Instituto Português de Cinema, abreviadamente designado por IPC, é um instituto público com autonomia administrativa e financeira, que tem por objectivo apoiar o desenvolvimento da actividade cinematográfica nacional e internacional.
 
-###### Art. 2.º A sede do IPC será em Lisboa, podendo o IPC, por proposta da direcção, a apreciar pelo membro do Governo que tutela o IPC, abrir delegações ou outra espécie de representação em qualquer local do território nacional.
+Art. 2.º A sede do IPC será em Lisboa, podendo o IPC, por proposta da direcção, a apreciar pelo membro do Governo que tutela o IPC, abrir delegações ou outra espécie de representação em qualquer local do território nacional.
 
-###### Art. 3.º São atribuições do IPC:
+Art. 3.º São atribuições do IPC:
 
 a) Fomentar a cultura e a criação cinematográfica;
 
@@ -126,7 +198,7 @@ g) Apoiar a formação profissional e a investigação no campo do cinema;
 
 h) Estudar e dar parecer sobre diplomas legais relativos à actividade cinematográfica e, designadamente, os que regulamentem a actividade industrial cinematográfica.
 
-###### Art. 4.º - 1 - No exercício das suas atribuições, compete ao IPC:
+Art. 4.º - 1 - No exercício das suas atribuições, compete ao IPC:
 
 a) Conceder assistência financeira às actividades cinematográficas nacionais;
 
@@ -164,7 +236,7 @@ q) Tomar outras providências referidas neste diploma e, de um modo geral, todas
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 5.º - 1 - São órgãos do IPC:
+Art. 5.º - 1 - São órgãos do IPC:
 
 a) A direcção;
 
@@ -182,9 +254,9 @@ c) A Repartição Administrativa.
 
 #### SECÇÃO I — Direcção
 
-###### Art. 6.º A direcção é composta pelo presidente, designado pelo órgão de tutela, e 2 vice-presidentes, designados igualmente pelo órgão de tutela, sob proposta do presidente.
+Art. 6.º A direcção é composta pelo presidente, designado pelo órgão de tutela, e 2 vice-presidentes, designados igualmente pelo órgão de tutela, sob proposta do presidente.
 
-###### Art. 7.º - 1 - À direcção compete:
+Art. 7.º - 1 - À direcção compete:
 
 a) Elaborar as propostas do plano anual de actividades e de distribuição percentual das receitas, para assistência financeira aos diferentes ramos da actividade cinematográfica e para o funcionamento do IPC, bem como as diferentes formas e esquemas de apoio técnico e financeiro;
 
@@ -196,7 +268,7 @@ d) Elaborar o relatório anual e as contas de gerência a apresentar ao membro d
 
 2 - Os documentos a que se referem as alíneas a) e b) do número anterior serão submetidos à aprovação do membro do Governo responsável pelo sector da cultura.
 
-###### Art. 8.º Ao presidente da direcção compete:
+Art. 8.º Ao presidente da direcção compete:
 
 a) Representar o IPC, em juízo e fora dele;
 
@@ -206,15 +278,15 @@ c) Submeter o relatório anual e as contas de gerência à apreciação do membr
 
 d) Exercer as demais atribuições que por este diploma lhe sejam cometidas.
 
-###### Art. 9.º - 1 - A direcção reunir-se-á, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o seu presidente, por iniciativa própria ou a pedido da maioria dos membros, o convoque.
+Art. 9.º - 1 - A direcção reunir-se-á, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o seu presidente, por iniciativa própria ou a pedido da maioria dos membros, o convoque.
 
 2 - As deliberações são tomadas por maioria dos membros da direcção.
 
 3 - Lavrar-se-á acta de todas as reuniões, que será subscrita por todos os membros presentes.
 
-###### Art. 10.º Para obrigar o IPC será necessária a assinatura de 2 membros da direcção, salvo em actos de mero expediente, em que bastará uma assinatura.
+Art. 10.º Para obrigar o IPC será necessária a assinatura de 2 membros da direcção, salvo em actos de mero expediente, em que bastará uma assinatura.
 
-###### Art. 11.º - 1 - Junto da direcção funcionará um gabinete técnico de apoio, ao qual competirá:
+Art. 11.º - 1 - Junto da direcção funcionará um gabinete técnico de apoio, ao qual competirá:
 
 a) Proceder a estudos jurídicos e fiscais, interessando a indústria e o comércio cinematográficos, elaborando os respectivos textos legislativos;
 
@@ -236,7 +308,7 @@ h) Preparar os elementos estatísticos necessários à gestão do IPC.
 
 #### SECÇÃO II — Conselho consultivo
 
-###### Art. 12.º - 1 - O conselho consultivo será presidido por um dos vice-presidentes e terá a seguinte composição:
+Art. 12.º - 1 - O conselho consultivo será presidido por um dos vice-presidentes e terá a seguinte composição:
 
 a) 1 representante dos produtores;
 
@@ -258,7 +330,7 @@ h) 3 individualidades de reconhecido mérito, nomeados pelo Ministro da Cultura 
 
 3 - Quando da designação dos vogais referidos nas alíneas a) a g) do n.º 1, devem ser indicados os nomes dos respectivos suplentes, que os substituirão nas suas faltas ou impedimentos.
 
-###### Art. 13.º Compete ao conselho consultivo:
+Art. 13.º Compete ao conselho consultivo:
 
 a) Dar parecer sobre o plano anual de actividades e sobre a distribuição percentual das receitas para a assistência financeira aos diferentes ramos da actividade cinematográfica e para o funcionamento do IPC;
 
@@ -268,11 +340,11 @@ c) Pronunciar-se sobre os acordos cinematográficos internacionais e, nomeadamen
 
 d) Dar parecer sobre a representação oficial de filmes portugueses em festivais e manifestações internacionais e sobre o apoio a iniciativas relacionadas com a actividade cinematográfica no território nacional.
 
-###### Art. 14.º - 1 - O conselho consultivo reúne, ordinariamente, uma vez por mês e, extraordinariamente, por iniciativa do presidente ou a requerimento da maioria dos seus membros.
+Art. 14.º - 1 - O conselho consultivo reúne, ordinariamente, uma vez por mês e, extraordinariamente, por iniciativa do presidente ou a requerimento da maioria dos seus membros.
 
 2 - Para sua assessoria, o conselho consultivo pode requerer a designação de técnicos de reconhecida competência.
 
-###### Art. 15.º - 1 - A convocação para as reuniões será feita pelo presidente, mediante ofício registado e com aviso de recepção do qual conste a agenda de trabalhos, com antecedência mínima de 8 dias.
+Art. 15.º - 1 - A convocação para as reuniões será feita pelo presidente, mediante ofício registado e com aviso de recepção do qual conste a agenda de trabalhos, com antecedência mínima de 8 dias.
 
 2 - O conselho consultivo só poderá funcionar com, pelo menos, metade dos seus membros.
 
@@ -284,11 +356,11 @@ d) Dar parecer sobre a representação oficial de filmes portugueses em festivai
 
 6 - Nas reuniões do conselho servirá de secretário, sem voto, um funcionário do IPC, a designar pelo presidente.
 
-###### Art. 16.º Aos membros do conselho consultivo, excepto o respectivo presidente, serão atribuídas gratificações, a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do membro do Governo responsável pela área da cultura.
+Art. 16.º Aos membros do conselho consultivo, excepto o respectivo presidente, serão atribuídas gratificações, a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do membro do Governo responsável pela área da cultura.
 
 #### SECÇÃO III — Conselho administrativo
 
-###### Art. 17.º - 1 - O conselho administrativo será presidido pelo presidente da direcção e terá a seguinte composição:
+Art. 17.º - 1 - O conselho administrativo será presidido pelo presidente da direcção e terá a seguinte composição:
 
 a) 1 vice-presidente;
 
@@ -300,7 +372,7 @@ c) 1 representante da Direcção-Geral da Contabilidade Pública.
 
 3 - O conselho administrativo reunirá, ordinariamente, uma vez por semana e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
 
-###### Art. 18.º Ao conselho administrativo compete:
+Art. 18.º Ao conselho administrativo compete:
 
 a) Elaborar o orçamento e acompanhar a sua execução financeira;
 
@@ -312,15 +384,15 @@ d) Apreciar as contas de gerência a submeter, anualmente, à apreciação do Tr
 
 #### SECÇÃO IV — Direcção de Serviços de Cinematografia
 
-###### Art. 19.º À Direcção de Serviços de Cinematografia compete o planeamento e execução das acções relativas ao desenvolvimento da actividade cinematográfica no plano nacional.
+Art. 19.º À Direcção de Serviços de Cinematografia compete o planeamento e execução das acções relativas ao desenvolvimento da actividade cinematográfica no plano nacional.
 
-###### Art. 20.º A Direcção de Serviços de Cinematografia compreende:
+Art. 20.º A Direcção de Serviços de Cinematografia compreende:
 
 a) A Divisão de Produção;
 
 b) A Divisão de Estabelecimentos Técnicos, Distribuição e Exibição.
 
-###### Art. 21.º À Divisão de Produção compete:
+Art. 21.º À Divisão de Produção compete:
 
 a) Estudar, analisar e dar parecer sobre as propostas de produção cinematográfica nacional e de co-produção ou comparticipação;
 
@@ -334,7 +406,7 @@ e) Controlar e analisar a execução dos contratos de apoio à produção, bem c
 
 f) Propor a atribuição de bolsas para investigação e conceder apoio à formação profissional no âmbito da sua competência.
 
-###### Art. 22.º À Divisão de Estabelecimentos Técnicos, Distribuição e Exibição compete:
+Art. 22.º À Divisão de Estabelecimentos Técnicos, Distribuição e Exibição compete:
 
 a) Apreciar e dar parecer sobre os pedidos de assistência financeira apresentados pelos estúdios e laboratórios e pela exibição;
 
@@ -344,9 +416,11 @@ c) Estudar e pronunciar-se sobre os pedidos de autorização de dobragem em esta
 
 d) Elaborar os mapas anuais da distribuição e exibição dos filmes contingentados pelos recintos de cinema e efectuar o controle do seu cumprimento, através dos respectivos mapas de distribuição e exibição.
 
-#### SECÇÃO V — Divisão de Relações Exteriores
+#### SECÇÃO V
 
-###### Art. 23.º À Divisão de Relações Exteriores compete:
+##### Divisão de Relações Exteriores
+
+Art. 23.º À Divisão de Relações Exteriores compete:
 
 a) Promover e difundir o cinema português;
 
@@ -368,13 +442,13 @@ i) Preparar e coordenar o material de apoio à difusão do cinema português;
 
 j) Organizar os processos em conjunto com os outros serviços relativos ao apoio a prestar à formação profissional.
 
-###### Art. 24.º As relações públicas do IPC, nomeadamente com os meios de comunicação social e com todas as entidades nacionais e estrangeiras interessadas na actividade cinematográfica, serão asseguradas por um funcionário ou agente designado pela direcção do IPC.
+Art. 24.º As relações públicas do IPC, nomeadamente com os meios de comunicação social e com todas as entidades nacionais e estrangeiras interessadas na actividade cinematográfica, serão asseguradas por um funcionário ou agente designado pela direcção do IPC.
 
 #### SECÇÃO VI — Repartição Administrativa
 
-###### Art. 25.º À Repartição Administrativa compete a execução das tarefas administrativas necessárias ao funcionamento do IPC, designadamente a gestão corrente e o respectivo controle das receitas e despesas e a gestão do quadro de pessoal, e assegurar os serviços de correspondência e economato.
+Art. 25.º À Repartição Administrativa compete a execução das tarefas administrativas necessárias ao funcionamento do IPC, designadamente a gestão corrente e o respectivo controle das receitas e despesas e a gestão do quadro de pessoal, e assegurar os serviços de correspondência e economato.
 
-###### Art. 26.º - 1 - A Repartição Administrativa compreende:
+Art. 26.º - 1 - A Repartição Administrativa compreende:
 
 a) A Secção de Tesouraria e Contabilidade;
 
@@ -396,9 +470,9 @@ e) Reunir e preparar os elementos necessários à elaboração do relatório e c
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 27.º Constitui património do IPC a universalidade dos bens, direitos e obrigações de que seja titular à data da publicação do presente diploma, bem como os que adquira ou contraia no exercício das suas atribuições.
+Art. 27.º Constitui património do IPC a universalidade dos bens, direitos e obrigações de que seja titular à data da publicação do presente diploma, bem como os que adquira ou contraia no exercício das suas atribuições.
 
-###### Art. 28.º - 1 - Constituem receitas do IPC:
+Art. 28.º - 1 - Constituem receitas do IPC:
 
 a) O produto resultante da percepção do adicional sobre os bilhetes de cinema, nos termos da legislação em vigor;
 
@@ -434,17 +508,17 @@ g) O apoio financeiro a conceder a organismos interessados no fomento da cultura
 
 h) O apoio financeiro a prestar com vista ao desenvolvimento do cinema experimental.
 
-###### Art. 29.º O IPC poderá, mediante autorização do Ministro de Estado e das Finanças e do Plano e do membro do Governo responsável pelo sector da cultura, contrair empréstimos para o exercício das suas atribuições.
+Art. 29.º O IPC poderá, mediante autorização do Ministro de Estado e das Finanças e do Plano e do membro do Governo responsável pelo sector da cultura, contrair empréstimos para o exercício das suas atribuições.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 30.º - 1 - O quadro do pessoal do IPC é o constante do mapa anexo a este diploma.
+Art. 30.º - 1 - O quadro do pessoal do IPC é o constante do mapa anexo a este diploma.
 
 2 - O quadro de pessoal constante do mapa referido no número anterior poderá ser alterado por portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa.
 
 3 - O pessoal do IPC será distribuído pelos respectivos serviços, mediante despacho do presidente da direcção.
 
-###### Art. 31.º - 1 - O provimento do pessoal do quadro a que se refere o artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+Art. 31.º - 1 - O provimento do pessoal do quadro a que se refere o artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -456,9 +530,9 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 4 - O tempo de serviço em regime de comissão de serviço conta, para todos os efeitos legais, no lugar de origem.
 
-###### Art. 32.º Poderá ser contratado além do quadro o pessoal indispensável para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente.
+Art. 32.º Poderá ser contratado além do quadro o pessoal indispensável para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente.
 
-###### Art. 33.º - 1 - Poderá ser requisitado, para prestar serviço no IPC, pessoal de outros departamentos do Estado, verificado o seu acordo prévio e do membro do Governo de que dependa, nos termos do artigo 9.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.
+Art. 33.º - 1 - Poderá ser requisitado, para prestar serviço no IPC, pessoal de outros departamentos do Estado, verificado o seu acordo prévio e do membro do Governo de que dependa, nos termos do artigo 9.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.
 
 2 - O destacamento de funcionários ou agentes de outros quadros ou serviços para exercer funções no IPC far-se-á nos termos do artigo 10.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.
 
@@ -468,15 +542,15 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 5 - A requisição não depende da existência de vagas no quadro de pessoal do serviço requisitante, devendo o respectivo despacho fixar desde logo o vencimento correspondente, a satisfazer por conta das dotações para o efeito inscritas no respectivo orçamento.
 
-###### Art. 34.º - 1 - Em casos excepcionais, devidamente fundamentados, poderá ser autorizado o exercício de funções em regime de tempo parcial, mediante contrato.
+Art. 34.º - 1 - Em casos excepcionais, devidamente fundamentados, poderá ser autorizado o exercício de funções em regime de tempo parcial, mediante contrato.
 
 2 - O pessoal contratado ao abrigo do número anterior receberá uma remuneração mensal de quantitativo correspondente ao número de horas realizado, com base no valor da hora de trabalho calculado nos termos da lei geral.
 
-###### Art. 35.º - 1 - O pessoal do quadro a que se refere o artigo 30.º, n.º 1, poderá ser transitoriamente destacado, requisitado ou nomeado em comissão de serviço, para exercer funções em qualquer outro serviço ou organismo público, desde que não haja inconveniente para o serviço.
+Art. 35.º - 1 - O pessoal do quadro a que se refere o artigo 30.º, n.º 1, poderá ser transitoriamente destacado, requisitado ou nomeado em comissão de serviço, para exercer funções em qualquer outro serviço ou organismo público, desde que não haja inconveniente para o serviço.
 
 2 - O pessoal referido no número anterior mantém o direito aos lugares de origem, podendo, nos casos de requisição ou comissão de serviço, os mesmos ser preenchidos interinamente enquanto durar o exercício das novas funções.
 
-###### Art. 36.º - 1 - Aos cargos de dirigentes do IPC é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 36.º - 1 - Aos cargos de dirigentes do IPC é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - Os cargos de presidente e vice-presidente são equiparados, respectivamente, a director-geral e subdirector-geral.
 
@@ -486,69 +560,69 @@ a) Chefes de secção, técnicos superiores ou técnicos de 1.ª classe com um m
 
 b) Indivíduos possuidores de curso superior e experiência adequada.
 
-###### Art. 37.º O ingresso e o acesso nas carreiras de pessoal técnico superior são condicionados ao disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
+Art. 37.º O ingresso e o acesso nas carreiras de pessoal técnico superior são condicionados ao disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
 
-###### Art. 38.º - 1 - A carreira de consultor jurídico desenvolve-se pelas categorias de assessor, principal, de 1.ª classe e de 2.ª classe.
+Art. 38.º - 1 - A carreira de consultor jurídico desenvolve-se pelas categorias de assessor, principal, de 1.ª classe e de 2.ª classe.
 
 2 - O acesso na carreira far-se-á nos termos do disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 3 - O ingresso na carreira é condicionado à posse de licenciatura em Direito.
 
-###### Art. 39.º O ingresso e o acesso nas carreiras de pessoal técnico são condicionados ao disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
+Art. 39.º O ingresso e o acesso nas carreiras de pessoal técnico são condicionados ao disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
 
-###### Art. 40.º Os lugares de chefe de secção serão providos de entre:
+Art. 40.º Os lugares de chefe de secção serão providos de entre:
 
 a) Primeiros-oficiais habilitados com o curso geral dos liceus ou equiparado ou assistentes técnicos de 1.ª classe, com um mínimo de 3 anos de bom e efectivo serviço e experiência adequada;
 
 b) Indivíduos habilitados com curso superior.
 
-###### Art. 41.º - 1 - A carreira de subinspector desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 41.º - 1 - A carreira de subinspector desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
 
 2 - O acesso à categoria superior, dentro da carreira, é condicionado à permanência de 3 anos na categoria e classificação de serviço não inferior a Bom.
 
 3 - O ingresso na carreira está condicionado à posse do curso geral do ensino secundário ou equivalente e experiência adequada.
 
-###### Art. 42.º O lugar de tradutor-correspondente-intérprete é provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e domínio escrito e falado de, pelo menos, 2 línguas estrangeiras.
+Art. 42.º O lugar de tradutor-correspondente-intérprete é provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e domínio escrito e falado de, pelo menos, 2 línguas estrangeiras.
 
-###### Art. 43.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe são providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 43.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe são providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe são providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 44.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial são providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário ou equivalente e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 44.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial são providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário ou equivalente e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de terceiro-oficial são providos nos termos da lei geral.
 
-###### Art. 45.º Os lugares de tesoureiro principal, de 1.ª classe ou 2.ª classe são providos nos termos do artigo 4.º do [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro.
+Art. 45.º Os lugares de tesoureiro principal, de 1.ª classe ou 2.ª classe são providos nos termos do artigo 4.º do [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro.
 
-###### Art. 46.º O provimento dos lugares de escriturário-dactilógrafo principal, de 1.ª classe ou de 2.ª classe, bem como a progressão na respectiva carreira, é feito nos termos da lei geral.
+Art. 46.º O provimento dos lugares de escriturário-dactilógrafo principal, de 1.ª classe ou de 2.ª classe, bem como a progressão na respectiva carreira, é feito nos termos da lei geral.
 
-###### Art. 47.º - 1 - A carreira de projeccionista desenvolve-se pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe.
+Art. 47.º - 1 - A carreira de projeccionista desenvolve-se pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe.
 
 2 - O acesso à categoria superior, dentro da carreira, é condicionado à permanência de 3 anos na categoria e classificação de serviço não inferior a Bom.
 
 3 - O ingresso na carreira é condicionado à posse de escolaridade obrigatória e experiência profissional adequada.
 
-###### Art. 48.º - 1 - A carreira de revisor de filmes desenvolve-se pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe.
+Art. 48.º - 1 - A carreira de revisor de filmes desenvolve-se pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe.
 
 2 - O acesso à categoria superior, dentro da carreira, é condicionado à permanência de 3 anos na categoria e classificação de serviço não inferior a Bom.
 
 3 - O ingresso na carreira é condicionado à posse da escolaridade obrigatória e prática profissional adequada.
 
-###### Art. 49.º - 1 - A carreira de fiel de armazém desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 49.º - 1 - A carreira de fiel de armazém desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
 
 2 - O acesso à categoria superior, dentro da carreira, é condicionado à permanência de 3 anos na categoria e classificação de serviço não inferior a Bom.
 
 3 - O ingresso na carreira é condicionado à posse de escolaridade obrigatória.
 
-###### Art. 50.º - 1 - Os lugares de dactilógrafo-compositor principal, de 1.ª classe e de 2.ª classe são providos, respectivamente, de entre dactilógrafos-compositores de 1.ª classe, de 2.ª classe e de 3.ª classe com, pelo menos, 3 anos de bom e efectivo serviço.
+Art. 50.º - 1 - Os lugares de dactilógrafo-compositor principal, de 1.ª classe e de 2.ª classe são providos, respectivamente, de entre dactilógrafos-compositores de 1.ª classe, de 2.ª classe e de 3.ª classe com, pelo menos, 3 anos de bom e efectivo serviço.
 
 2 - Os lugares de dactilógrafo-compositor de 3.ª classe são providos de entre indivíduos habilitados com a escolaridade obrigatória e prática profissional adequada, devidamente comprovada.
 
-###### Art. 51.º Os lugares de telefonista, motorista, contínuo e servente são providos nos termos da lei geral.
+Art. 51.º Os lugares de telefonista, motorista, contínuo e servente são providos nos termos da lei geral.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 52.º - 1 - O pessoal que se encontra a prestar serviço no IPC à data da entrada em vigor deste diploma será provido nos lugares do quadro constante do mapa anexo, de acordo com as seguintes regras:
+Art. 52.º - 1 - O pessoal que se encontra a prestar serviço no IPC à data da entrada em vigor deste diploma será provido nos lugares do quadro constante do mapa anexo, de acordo com as seguintes regras:
 
 a) Para categoria idêntica ou equivalente à que o funcionário ou agente já possui;
 
@@ -560,22 +634,22 @@ c) Para a categoria de outra carreira correspondente às funções que o funcion
 
 3 - Para efeito de progressão na nova carreira é considerado o tempo de serviço prestado na anterior carreira, sempre que se tiver verificado a sua extinção.
 
-###### Art. 53.º Os lugares do quadro constantes do anexo II ao [Decreto-Lei n.º 410/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1980-461665), de 27 de Setembro, serão abatidos à medida que pelos seus titulares forem preenchidos os lugares do quadro anexo.
+Art. 53.º Os lugares do quadro constantes do anexo II ao [Decreto-Lei n.º 410/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1980-461665), de 27 de Setembro, serão abatidos à medida que pelos seus titulares forem preenchidos os lugares do quadro anexo.
 
-###### Art. 54.º O pessoal que na Direcção-Geral da Acção Cultural desempenhe funções cuja tutela, por força do artigo 4.º deste diploma, transita para o IPC pode ser transferido para lugares idênticos do quadro anexo a este decreto-lei por despacho do ministro da tutela, publicado no Diário da República e visado pelo Tribunal de Contas, sendo os respectivos lugares abatidos ao quadro daquela Direcção-Geral.
+Art. 54.º O pessoal que na Direcção-Geral da Acção Cultural desempenhe funções cuja tutela, por força do artigo 4.º deste diploma, transita para o IPC pode ser transferido para lugares idênticos do quadro anexo a este decreto-lei por despacho do ministro da tutela, publicado no Diário da República e visado pelo Tribunal de Contas, sendo os respectivos lugares abatidos ao quadro daquela Direcção-Geral.
 
-###### Art. 55.º A integração do pessoal do quadro anexo será efectuada mediante diplomas individuais de provimento ou listas nominativas, respectivamente visados ou anotadas pelo Tribunal de Contas, conforme os casos, e publicados no Diário da República.
+Art. 55.º A integração do pessoal do quadro anexo será efectuada mediante diplomas individuais de provimento ou listas nominativas, respectivamente visados ou anotadas pelo Tribunal de Contas, conforme os casos, e publicados no Diário da República.
 
-###### Art. 56.º É revogada a [Lei n.º 7/71](https://diariodarepublica.pt/dr/detalhe/lei/7-1971-632010), de 7 de Dezembro, e os Decretos-Leis n.os [184/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1973-673990), de 25 de Abril, e 286/73, de 5 de Junho, nos capítulos ou títulos que disponham sobre o IPC, e ainda o [Decreto-Lei n.º 685/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/685-1975-311261), de 10 de Dezembro.
+Art. 56.º É revogada a [Lei n.º 7/71](https://diariodarepublica.pt/dr/detalhe/lei/7-1971-632010), de 7 de Dezembro, e os Decretos-Leis n.os [184/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1973-673990), de 25 de Abril, e 286/73, de 5 de Junho, nos capítulos ou títulos que disponham sobre o IPC, e ainda o [Decreto-Lei n.º 685/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/685-1975-311261), de 10 de Dezembro.
 
-###### Art. 57.º As dúvidas que ocorrerem na interpretação do presente diploma serão resolvidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa.
+Art. 57.º As dúvidas que ocorrerem na interpretação do presente diploma serão resolvidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Agosto de 1982.**
+Promulgado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21600/29282934.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21600/29282934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21600/29282934.pdf)

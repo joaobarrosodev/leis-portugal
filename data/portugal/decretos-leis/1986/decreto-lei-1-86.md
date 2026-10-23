@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1986-616472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37232729d8d8d990a8510ce53c272dfd1ed2e02711eb5c9932823c19fd35d9f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abe84a079bb894206b571fa004cbf2ef5d76f9e7bfad86542ba363dd45d88ed0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato
+- Investimento Estrangeiro
+- Política de Defesa
+- Transferência de Tecnologia
 relationships: []
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:30Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +125,7 @@ Findo este prazo, sem expressa comunicação em contrário, considerar-se-á tac
 
 ###### Artigo 3.º — (Proibição de exportações)
 
-**O Ministro da Defesa Nacional pode proibir a exportação de bens produzidos em território nacional, ou previamente importados, ou que se encontrem em trânsito no nosso país, com o fundamento de poderem ser lesados os interesses da defesa nacional.**
+O Ministro da Defesa Nacional pode proibir a exportação de bens produzidos em território nacional, ou previamente importados, ou que se encontrem em trânsito no nosso país, com o fundamento de poderem ser lesados os interesses da defesa nacional.
 
 ###### Artigo 4.º — (Regime transitório)
 
@@ -137,12 +141,12 @@ Findo este prazo, sem expressa comunicação em contrário, considerar-se-á tac
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Dezembro de 1985.**
+Promulgado em 13 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Dezembro de 1985.**
+Referendado em 19 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

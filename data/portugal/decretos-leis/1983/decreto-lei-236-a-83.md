@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 129/1983, 1º Suplemento, Série I de 1983-06-06
   number: '129'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2060-(1) a 2060-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/12901/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-a-1983-209869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 427a91b8d4177c91688bf0ec688cd87dffa6aa8b8568a6090b1cd99e246fde5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bccce4a64586dc50a6c02b31ee30c3299479bfdb54163e810a779fcf81c5f5c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:29Z'
   warnings: []
   errors: []
 ---
@@ -96,25 +107,25 @@ Assim:
 
 Usando da autorização legislativa concedida ao Governo pelo artigo 5.º, n.º 1, da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo da autorização concedida pelo n.º 1 do artigo 5.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Ministro de Estado e das Finanças e do Plano é autorizado a celebrar, em nome e representação do Estado Português, um contrato de empréstimo com um consórcio bancário internacional no montante de 300 milhões de dólares dos Estados Unidos da América.
+Artigo 1.º Ao abrigo da autorização concedida pelo n.º 1 do artigo 5.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Ministro de Estado e das Finanças e do Plano é autorizado a celebrar, em nome e representação do Estado Português, um contrato de empréstimo com um consórcio bancário internacional no montante de 300 milhões de dólares dos Estados Unidos da América.
 
-###### Art. 2.º As condições essenciais do empréstimo referido no artigo anterior são as constantes da ficha técnica publicada em anexo.
+Art. 2.º As condições essenciais do empréstimo referido no artigo anterior são as constantes da ficha técnica publicada em anexo.
 
-###### Art. 3.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou de outros empreendimentos especialmente reprodutivos.
+Art. 3.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou de outros empreendimentos especialmente reprodutivos.
 
-###### Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 3 de Junho de 1983.**
+Promulgado em 3 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Junho de 1983.**
+Referendado em 6 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 ## ANEXO — Ficha técnica
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28800/41144115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1982-379131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2f6672ef1fc8507641291fcb0c7620afe6fee7aa9c7c35f35ecf3af0c879a4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36fdbed04020eac95006880e5e62ab7bb4cb7c7fca46e5daca4af63bd5bd6fdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Obrigações
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:50Z'
   warnings: []
   errors: []
 ---
@@ -99,32 +113,32 @@ Assim:
 
 O Governo decreta, nos termos da alníea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O empréstimo interno, amortizável, autorizado pela alínea c) do n.º 2 do artigo 7.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, corresponderá a obrigações do valor nominal de 10000$00 cada uma, até à quantia máxima de 98 milhões de contos, e o seu produto destina-se a fazer face ao défice do Orçamento Geral do Estado.
+Artigo 1.º O empréstimo interno, amortizável, autorizado pela alínea c) do n.º 2 do artigo 7.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, corresponderá a obrigações do valor nominal de 10000$00 cada uma, até à quantia máxima de 98 milhões de contos, e o seu produto destina-se a fazer face ao défice do Orçamento Geral do Estado.
 
-###### Art. 2.º A representação das obrigações deste empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será feita exclusivamente em certificados de dívida inscrita representativos de qualquer quantidade de obrigações.
+Art. 2.º A representação das obrigações deste empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será feita exclusivamente em certificados de dívida inscrita representativos de qualquer quantidade de obrigações.
 
-###### Art. 3.º - 1 - O empréstimo vencerá anualmente juros à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período anual de contagem de juro.
+Art. 3.º - 1 - O empréstimo vencerá anualmente juros à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período anual de contagem de juro.
 
 2 - O vencimento dos primeiros juros terá lugar em 1 de Agosto de 1983.
 
-###### Art. 4.º A amortização do empréstimo será feita ao par, por sorteio, em 10 anuidades iguais e a primeira amortização terá lugar em 1 de Agosto de 1988.
+Art. 4.º A amortização do empréstimo será feita ao par, por sorteio, em 10 anuidades iguais e a primeira amortização terá lugar em 1 de Agosto de 1988.
 
-###### Art. 5.º Os certificados de dívida inscrita representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização por força das receitas gerais do Estado, e da isenção de todos os impostos, com excepção do imposto sobre as sucessões e doações.
+Art. 5.º Os certificados de dívida inscrita representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização por força das receitas gerais do Estado, e da isenção de todos os impostos, com excepção do imposto sobre as sucessões e doações.
 
-###### Art. 6.º Os certificados de dívida inscrita levarão as assinaturas de chancela do Ministro de Estado e das Finanças e do Plano, do vogal presidente e de outro vogal da Junta do Crédito Público, bem como o selo branco da mesma Junta.
+Art. 6.º Os certificados de dívida inscrita levarão as assinaturas de chancela do Ministro de Estado e das Finanças e do Plano, do vogal presidente e de outro vogal da Junta do Crédito Público, bem como o selo branco da mesma Junta.
 
-###### Art. 7.º O Ministro de Estado e das Finanças e do Plano poderá contratar com as instituições financeiras e o Banco de Portugal a colocação total ou parcial das obrigações deste empréstimo.
+Art. 7.º O Ministro de Estado e das Finanças e do Plano poderá contratar com as instituições financeiras e o Banco de Portugal a colocação total ou parcial das obrigações deste empréstimo.
 
-###### Art. 8.º Para a emissão deste empréstimo são dispensadas as formalidades previstas no artigo 20.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936.
+Art. 8.º Para a emissão deste empréstimo são dispensadas as formalidades previstas no artigo 20.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936.
 
-###### Art. 9.º No Orçamento do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo.
+Art. 9.º No Orçamento do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo.
 
-###### Art. 10.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças e do Plano, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+Art. 10.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças e do Plano, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Fernandes Maurício Salgueiro.
 
-**Promulgado em 10 de Dezembro de 1982.**
+Promulgado em 10 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

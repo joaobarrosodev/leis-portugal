@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17100/27782787.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1983-454307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90b25f0f7a0eeede768dd14c814153f8ea7a1075d69ef8f8b0ae6ddbd5319be2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8311f1d236a0333a7a5a2ba68310416a2cc14ca00255bd3036e00a4d105033bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Organização e Recursos Humanos
+- Ministério dos Assuntos Sociais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:387336:por
+  label: "Aumentados lugares no quadro de pessoal aprovado pelo presente diploma, pela PORT.421/84.28.06.1984.PCM, DR.IS [148]\
+    \ de 28.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/421-1984-387336
+  date: '1984-06-28'
+- type: amended_by
+  target: pt:dre:385433:por
+  label: "Alterado, na parte do pessoal técnico superior, o mapa a que se refere o art. 10.º, dada nova redacção aos arts.\
+    \ 20.º e 21.º e aditado o art. 20.º-A ao presente diploma, pelo DEC LEI.217/84.04.07.1984.PCM, DR.IS [153] de 04.07.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1984-385433
+  date: '1984-07-04'
+- type: amended_by
+  target: pt:dre:285766:por
+  label: "Alterado o quadro de pessoal pela PORT.168/88.19.03.1988.MF, DR.IS [66] de 19.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1988-285766
+  date: '1988-03-19'
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570489:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:618143:por
+  label: Rectificado pela DECL.DD5686.01.09.1983.PCM, DR.IS [226]Supl de 30.09.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-618143
+  date: '1983-09-01'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 35
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:12Z'
   warnings: []
   errors: []
 ---
@@ -186,17 +257,17 @@ e) A Direcção de Serviços Administrativos, que compreende:
 
 A Repartição do Registo Central de Pessoal, que é constituída por:
 
-#### Secção de Recolha de Dados e Manutenção de Ficheiros;
+Secção de Recolha de Dados e Manutenção de Ficheiros;
 
-#### Secção de Exploração de Ficheiros;
+Secção de Exploração de Ficheiros;
 
 A Repartição dos Serviços Administrativos, que é constituída por:
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente Geral e Arquivo;
+Secção de Expediente Geral e Arquivo;
 
-#### Secção de Contabilidade e Economato.
+Secção de Contabilidade e Economato.
 
 #### SECÇÃO II — Competência dos serviços
 
@@ -586,14 +657,14 @@ O presente diploma entrará em vigor no dia 1 do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Junho de 1983.**
+Referendado em 23 de Junho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa de pessoal a que se refere o artigo 10.º do Decreto-Lei n.º 346/83
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17100/27782787.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17100/27782787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17100/27782787.pdf)

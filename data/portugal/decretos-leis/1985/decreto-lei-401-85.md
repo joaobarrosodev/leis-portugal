@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6175e2bc398bc2977b4afe58ed49b5ceb236d6e6a0dfdb06bdac99eedd07f00a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8082cfaa94935afe0374bc6b6e0e9d1481390781cc115a2c808da2e6d456d35e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- Deslocação em Serviço
+- GNR
+relationships:
+- type: cites
+  target: pt:dre:580311:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:33Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +99,15 @@ Tornando-se também necessário definir, para efeito de abono de ajudas de custo
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aditado ao [Decreto-Lei n.º 201/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1981-580311), de 10 de Julho, um n.º 3 ao seu artigo 2.º e alterada a redacção dos artigos 7.º, 9.º e 16.º do mesmo diploma, nos seguintes termos:
+Artigo 1.º É aditado ao [Decreto-Lei n.º 201/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1981-580311), de 10 de Julho, um n.º 3 ao seu artigo 2.º e alterada a redacção dos artigos 7.º, 9.º e 16.º do mesmo diploma, nos seguintes termos:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
 3 - Para efeitos do n.º 1, a periferia da cidade de Lisboa considera-se limitada por uma linha envolvendo Cascais, Sintra, Granja do Marquês, Loures, Vila Franca de Xira, Alcochete (futuro quartel da GNR), Moita, Montijo, Coina, Monte de Caparica e Cascais, e a do Porto por uma linha envolvendo Perafita, Moreira, Maia, Alfena, Valongo, Gondomar, Avintes, Moura, Granja e Perafita.
 
-###### Art. 7.º - 1 - O abono de ajudas de custo corresponderá ao pagamento de uma parte da importância diária que estiver fixada ou da sua totalidade, conforme o disposto nos números seguintes.
+Art. 7.º - 1 - O abono de ajudas de custo corresponderá ao pagamento de uma parte da importância diária que estiver fixada ou da sua totalidade, conforme o disposto nos números seguintes.
 
 2 - Nas deslocações diárias abonar-se-ão as seguintes percentagens de ajuda de custo diária:
 
@@ -156,7 +163,7 @@ Com o fornecimento do alojamento, do almoço e do jantar - 10%.
 
 9 - Os oficiais que acompanhem os oficiais generais no desempenho de missões de serviço têm direito a ajudas de custo iguais às atribuídas na tabela para oficiais generais.
 
-###### Art. 9.º - 1 - Em casos especiais, poderá excepcionar-se o disposto no artigo 6.º pela forma e nas condições seguintes, a apreciar e a despachar pelo comandante-geral:
+Art. 9.º - 1 - Em casos especiais, poderá excepcionar-se o disposto no artigo 6.º pela forma e nas condições seguintes, a apreciar e a despachar pelo comandante-geral:
 
 a) Abono para despesas de almoço de uma importância até ao limite de 25% da ajuda de custo diária nas deslocações até 5 km, se o militar não dispuser de transporte que lhe permita almoçar na sua residência ou no quartel;
 
@@ -166,7 +173,7 @@ c) Abono dos quantitativos correspondentes às percentagens previstas no n.º 2 
 
 2 - Igualmente em casos especiais poderá excepcionar-se o disposto no n.º 3 do artigo 2.º, concedendo o abono de ajudas de custo por deslocação dentro das referidas áreas, mediante despacho fundamentado do comandante-geral, sob proposta apresentada.
 
-###### Art. 16.º A mudança de residência do militar que, por motivo de nova colocação, seja transferido para outra localidade dá direito ao abono, por uma só vez, de ajudas de custo por mudança de residência, de quantitativo igual a 30 dias de ajudas de custo, com a observância das seguintes regras:
+Art. 16.º A mudança de residência do militar que, por motivo de nova colocação, seja transferido para outra localidade dá direito ao abono, por uma só vez, de ajudas de custo por mudança de residência, de quantitativo igual a 30 dias de ajudas de custo, com a observância das seguintes regras:
 
 1.ª O direito à percepção de ajudas de custo por mudança de residência verifica-se em relação à data em que se concretize a apresentação do militar na nova situação;
 
@@ -176,12 +183,12 @@ c) Abono dos quantitativos correspondentes às percentagens previstas no n.º 2 
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 1 de Outubro de 1985.**
+Promulgado em 1 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Outubro de 1985.**
+Referendado em 2 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

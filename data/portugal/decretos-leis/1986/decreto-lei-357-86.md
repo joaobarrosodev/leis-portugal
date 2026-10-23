@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/24700/32213222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1986-222222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c756cd28dfd0f60582320e56e226c02e4b79fa4b10be765f554e5f312abc44e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2d80fe217b871768d9416d3c3d365378da26eed63d2f13869290b1810f340c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bilhete de Identidade
+- Centro de Identificação Civil e Criminal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:640075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:506818:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640075:por
+  label: Revogado pela LEI.12/91.1991.05.21.AR DR.IS-A [116], a partir da entrada em vigor do Dec Lei que regulamentar a referida
+    Lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-1991-640075
+  date: '1991-05-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:12Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +116,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É revogado o artigo 8.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro.
+Artigo 1.º É revogado o artigo 8.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro.
 
-###### Art. 2.º Os artigos 5.º, 6.º, 13.º, 26.º e 27.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 5.º, 6.º, 13.º, 26.º e 27.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - O pedido deve ser acompanhado dos seguintes elementos:
+Art. 5.º - 1 - O pedido deve ser acompanhado dos seguintes elementos:
 
 a) Duas fotografias actuais do requerente, a cores e com boas condições de identificação;
 
@@ -119,7 +132,7 @@ c) ...
 
 3 - ...
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - ...
 
@@ -129,28 +142,28 @@ c) ...
 
 5 - ...
 
-###### Art. 13.º O número individual atribuído na primeira emissão manter-se-á na renovação e será o mesmo do processo individual correspondente.
+Art. 13.º O número individual atribuído na primeira emissão manter-se-á na renovação e será o mesmo do processo individual correspondente.
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 2 - Qualquer entidade pública perante a qual sejam usados bilhetes de identidade nulos deve apreendê-los e remetê-los ao Centro de Identificação Civil e Criminal, onde aguardarão que os interessados requeiram a sua renovação.
 
-###### Art. 27.º - 1 - As conservatórias do registo civil, quando praticarem actos que obriguem à apresentação do bilhete de identidade e envolvam a alteração de qualquer dos elementos nele inscritos, devem promover que o interessado requeira a sua renovação, retendo, para tanto, o bilhete apresentado.
+Art. 27.º - 1 - As conservatórias do registo civil, quando praticarem actos que obriguem à apresentação do bilhete de identidade e envolvam a alteração de qualquer dos elementos nele inscritos, devem promover que o interessado requeira a sua renovação, retendo, para tanto, o bilhete apresentado.
 
 2 - Decorrido o prazo de 60 dias a contar da data em que se tenha verificado a alteração do elemento de identificação sem que a renovação devida tenha sido requerida, o conservador deve enviar o bilhete de identidade retido ao Centro de Identificação Civil e Criminal, comunicando-lhe por ofício a sua desactualização e em que consiste.
 
-###### Art. 3.º Durante o prazo de um ano, contado a partir da entrada em vigor do presente diploma, as duas fotografias a que se refere a alínea a) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, com a redacção que lhe é dada pelo presente decreto-lei, podem ser em tons de preto e branco.
+Art. 3.º Durante o prazo de um ano, contado a partir da entrada em vigor do presente diploma, as duas fotografias a que se refere a alínea a) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, com a redacção que lhe é dada pelo presente decreto-lei, podem ser em tons de preto e branco.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 do mês imediato ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia 1 do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 6 de Outubro de 1986.**
+Promulgado em 6 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1986.**
+Referendado em 18 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

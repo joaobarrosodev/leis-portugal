@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 109/1986, 1º Suplemento, Série I de 1986-05-13
   number: '109'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1126-(2) a 1126-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10901/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1986-189342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c876a6be9f4095277bf01fc9ffa80325fcaf805e129562275e11ad3b7c1ced8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6a8729ac8e0d63c06c269cc807b6b66a75c3a97cb2f102f257826b73e3927ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Garantia Agrícola
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545637:por
+  label: "Extinto, sendo objecto de fusão o Instituto Nacional de Intervenção e Garantia Agrícola, criado no presente diploma,\
+    \ cujo estatuto consta do Dec Lei 78/98 de 27-Mar DR.IS-A [73], sendo as suas atribuições integradas no Instituto de Financiamento\
+    \ da Agricultura e Pescas, I.P., na Inspecção-Geral de Agricultura e Pescas e no Gabinete de Planeamento e Política, pelo\
+    \ DEC LEI.209/2006.27.10.2006.MADRP, DR.IS [208] de 27.10.2006, nos termos do disposto na al. e) do nº 2 do seu art. 21º.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2006-545637
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:147386:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:376841:por
+  label: Revogado, a partir de 17.08.1988, pelo DEC LEI.282/88.12.08.1988.MAPA, DR.IS [186] de 12.08.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1988-376841
+  date: '1988-08-12'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:43Z'
   warnings: []
   errors: []
 ---
@@ -156,12 +176,12 @@ No corrente ano, os encargos resultantes da aplicação do presente decreto-lei 
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 10 de Maio de 1986.**
+Promulgado em 10 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1986.**
+Referendado em 13 de Maio de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

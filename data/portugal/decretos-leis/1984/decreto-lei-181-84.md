@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 121/1984, 1º Suplemento, Série I de 1984-05-25
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1692-(6) a 1692-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12101/00060008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1984-669084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25e23b6425b0c2c9d8081a862a9a6a90d8453bfd8bce767684faba5484d02d59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41e6500c952fe20b4fdbdb0e645339aa75c10f9918576427d053858176e70ae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bebida Alcoólica
+- Café
+- Código do Imposto de Transacções
+- Fósforos
+- Imposto de Transacções
+- Indústria Electrotécnica
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:387148:por
+  label: "Eliminada a al. f) do n.º 12 da relação anexa ao Dec Lei 303/82, de 31-Jul, aditada pelo presente diploma, pela\
+    \ PORT.400/84.20.06.1984.MFP, DR.IS [142] de 20.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/400-1984-387148
+  date: '1984-06-20'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:397337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275421:por
+  label: Rectificado pela DECL.DD4998.30.06.1984.PCM, DR.IS [150]2ºSupl de 30.06.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275421
+  date: '1984-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:36Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +136,9 @@ Assim:
 
 No uso da autorização conferida pela alínea f) do artigo 21.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), de 31 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), de 31 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - O valor tributável nas transacções referidas no artigo anterior será o preço de venda do produtor, no caso de mercadorias produzidas no continente e nas Regiões Autónomas dos Açores e da Madeira, ou o valor global, constituído pela soma do valor aduaneiro e dos direitos e quaisquer outros encargos devidos, tratando-se de importações, acrescendo àquele preço ou a este valor global a percentagem de 40%, salvo nos casos a seguir indicados:
+Art. 2.º - 1 - O valor tributável nas transacções referidas no artigo anterior será o preço de venda do produtor, no caso de mercadorias produzidas no continente e nas Regiões Autónomas dos Açores e da Madeira, ou o valor global, constituído pela soma do valor aduaneiro e dos direitos e quaisquer outros encargos devidos, tratando-se de importações, acrescendo àquele preço ou a este valor global a percentagem de 40%, salvo nos casos a seguir indicados:
 
 a) 30%, relativamente às bebidas constantes do n.º 7 e à mercadoria constante do n.º 10 da relação anexa a este diploma;
 
@@ -121,7 +152,7 @@ c) 20%, relativamente ao café torrado, em grão, moído ou solúvel, e seus ext
 
 4 - Na falta de preço da transacção ou nos casos em que este não seja conhecido ou ainda quando as transacções se realizarem entre estabelecimentos da empresa produtora ou entre empresas filiadas, dependentes ou que se encontrem em situação análoga, com as quais tenham sido estabelecidas condições diferentes das que seriam normalmente acordadas entre pessoas independentes, o valor tributável não poderá ser inferior ao preço de venda do produtor definido no número anterior, corrigido nos termos do n.º 1 deste artigo.
 
-###### Art. 2.º Na relação anexa ao [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337) é alterado o n.º 7 e aditados os n.os 10, 11 e 12, nos termos seguintes:
+Art. 2.º Na relação anexa ao [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337) é alterado o n.º 7 e aditados os n.os 10, 11 e 12, nos termos seguintes:
 
 1 - ...
 
@@ -185,13 +216,13 @@ e) Máquinas fotográficas;
 
 f) Diapositivos, rolos, papel de impressão fotográfica e outros produtos para fotografia e cinematografia, impressionados ou não.
 
-###### Art. 3.º - 1 - Consideram-se canceladas as inscrições a que se refere o artigo 48.º do Código do Imposto de Transacções respeitantes aos grossistas e importadores que passem a transaccionar apenas mercadorias agora submetidas ao regime especial previsto no [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), de 31 de Julho.
+Art. 3.º - 1 - Consideram-se canceladas as inscrições a que se refere o artigo 48.º do Código do Imposto de Transacções respeitantes aos grossistas e importadores que passem a transaccionar apenas mercadorias agora submetidas ao regime especial previsto no [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), de 31 de Julho.
 
 2 - Os importadores e grossistas que, além de transaccionarem mercadorias abrangidas por aquele regime, transaccionem outras sujeitas ao regime normal do Código do Imposto de Transacções deverão proceder à renovação das suas declarações modelo n.º 1, nos termos do artigo 53.º do citado Código, no prazo de 30 de dias a contar da data de publicação do presente diploma.
 
-###### Art. 4.º Por força do disposto no artigo anterior e com ressalva das situações previstas no n.º 2 do artigo 1.º do [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), de 31 de Julho, não é aplicável às transacções de mercadorias incluídas na relação anexa àquele decreto-lei o disposto nos artigos 64.º e 65.º do Código do Imposto de Transacções.
+Art. 4.º Por força do disposto no artigo anterior e com ressalva das situações previstas no n.º 2 do artigo 1.º do [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), de 31 de Julho, não é aplicável às transacções de mercadorias incluídas na relação anexa àquele decreto-lei o disposto nos artigos 64.º e 65.º do Código do Imposto de Transacções.
 
-###### Art. 5.º - 1 - As mercadorias constantes das alíneas h) e n) do n.º 7 e, bem assim, dos n.os 10, 11 e 12 da relação anexa ao [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), com a redacção dada pelo presente diploma, que, à data da sua entrada em vigor, se encontrem em existência nos estabelecimentos de grossistas ou importadores e tenham sido adquiridas ao abrigo das declarações modelo n.º 5 ou modelo n.º 6 deverão constar de inventário a organizar, o qual será apresentado no prazo de 30 dias a contar daquela data
+Art. 5.º - 1 - As mercadorias constantes das alíneas h) e n) do n.º 7 e, bem assim, dos n.os 10, 11 e 12 da relação anexa ao [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), com a redacção dada pelo presente diploma, que, à data da sua entrada em vigor, se encontrem em existência nos estabelecimentos de grossistas ou importadores e tenham sido adquiridas ao abrigo das declarações modelo n.º 5 ou modelo n.º 6 deverão constar de inventário a organizar, o qual será apresentado no prazo de 30 dias a contar daquela data
 
 2 - Do inventário deverão fazer parte, designadamente, os seguintes elementos:
 
@@ -209,18 +240,18 @@ d) Imposto devido.
 
 5 - A falsificação ou viciação do inventário será punida de acordo com o artigo 109.º do Código do Imposto de Transacções.
 
-###### Art. 6.º - 1 - O imposto respeitante às mercadorias constantes do inventário a que se refere o artigo anterior deverá ser entregue nos cofres do Estado até 31 de Dezembro de 1984, em prestações mensais, sucessivas e não inferiores a 50000$00 cada uma, devendo a primeira prestação ser entregue no mês seguinte ao da publicação deste diploma.
+Art. 6.º - 1 - O imposto respeitante às mercadorias constantes do inventário a que se refere o artigo anterior deverá ser entregue nos cofres do Estado até 31 de Dezembro de 1984, em prestações mensais, sucessivas e não inferiores a 50000$00 cada uma, devendo a primeira prestação ser entregue no mês seguinte ao da publicação deste diploma.
 
 2 - Se não for paga qualquer das prestações no prazo do seu vencimento, será imediatamente instaurado processo executivo com base em certidão extraída pelo chefe da repartição de finanças pela totalidade da dívida, procedendo-se a penhora, seguindo a execução seus termos, sem prejuízo do levantamento do auto de notícia para aplicação da multa respectiva.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1984. - Mário Soares - Ernâni Rodrigues Lopes.
 
-**Promulgado em 15 de Maio de 1984.**
+Promulgado em 15 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 15 de Maio de 1984.**
+Referendado em 15 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1985-172158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d79e90f1add6d72057737b7cbac0ed0aa831b4f93363ab882af1275ee46870dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85a81ca6ba470d5df7c4c93ac5aa13df5542574d591d9faac5185d8868f2c68d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Português de Oncologia de Francisco Gentil
+- Reclassificação de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:251653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:51Z'
   warnings: []
   errors: []
 ---
@@ -98,34 +112,34 @@ Tendo em conta que as razões de interesse público não permitem dispensar a in
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal médico, de enfermagem, de informática, de investigação e de apoio geral que exercia funções nos Centros Regionais de Lisboa, Porto e Coimbra do Instituto Português de Oncologia de Francisco Gentil, ainda que em regime de contrato além do quadro, à data da entrada em vigor dos Decretos-Leis n.º 310/82, de 3 de Aposto, 305/81, de 12 de Novembro, 110-A/80, de 10 de Maio, e 415/80, de 27 de Setembro, e do [Decreto n.º 109/80](https://diariodarepublica.pt/dr/detalhe/decreto/109-1980-462429), de 20 de Outubro, respectivamente, será reclassificado de acordo com os princípios fixados por aqueles diplomas independentemente da existência de quadros ou mapas de pessoal.
+Artigo 1.º - 1 - O pessoal médico, de enfermagem, de informática, de investigação e de apoio geral que exercia funções nos Centros Regionais de Lisboa, Porto e Coimbra do Instituto Português de Oncologia de Francisco Gentil, ainda que em regime de contrato além do quadro, à data da entrada em vigor dos Decretos-Leis n.º 310/82, de 3 de Aposto, 305/81, de 12 de Novembro, 110-A/80, de 10 de Maio, e 415/80, de 27 de Setembro, e do [Decreto n.º 109/80](https://diariodarepublica.pt/dr/detalhe/decreto/109-1980-462429), de 20 de Outubro, respectivamente, será reclassificado de acordo com os princípios fixados por aqueles diplomas independentemente da existência de quadros ou mapas de pessoal.
 
 2 - O disposto no número anterior não dispensa a posterior criação dos quadros do pessoal dos Centros ou a sua revisão, nos termos estabelecidos por aqueles diplomas.
 
-###### Art. 2.º O pessoal que tiver sido ou vier a ser reclassificado nos termos do artigo anterior passa a ser imediatamente remunerado pelos vencimentos correspondentes às categorias que lhe forem atribuídas, na reclassificação e tem direito ao abono dos retroactivos previstos nos respectivos diplomas.
+Art. 2.º O pessoal que tiver sido ou vier a ser reclassificado nos termos do artigo anterior passa a ser imediatamente remunerado pelos vencimentos correspondentes às categorias que lhe forem atribuídas, na reclassificação e tem direito ao abono dos retroactivos previstos nos respectivos diplomas.
 
-###### Art. 3.º - 1 - O disposto no artigo 2.º não prejudica a obrigatoriedade de apresentação a visto do Tribunal de Contas dos diplomas de provimento do pessoal a que respeita a reclassificação.
+Art. 3.º - 1 - O disposto no artigo 2.º não prejudica a obrigatoriedade de apresentação a visto do Tribunal de Contas dos diplomas de provimento do pessoal a que respeita a reclassificação.
 
 2 - No caso de recusa de visto pelo Tribunal de Contas, a cessação dos abonos terá lugar a partir da notificação da recusa pelo respectivo serviço.
 
-###### Art. 4.º - 1 - O pagamento das quantias devidas pelos retroactivos será feito em três prestações mensais.
+Art. 4.º - 1 - O pagamento das quantias devidas pelos retroactivos será feito em três prestações mensais.
 
 2 - No caso de recusa do visto pelo Tribunal de Contas, as quantias abonadas serão repostas nos cofres do Estado.
 
-###### Art. 5.º São aplicáveis ao pessoal das carreiras horizontais, nomeadamente ao pessoal de apoio geral em serviço nos centros em regime de contrato além do quadro, as regras de transição estabelecidas para as respectivas carreiras, independentemente da existência de quadros ou mapas de pessoal.
+Art. 5.º São aplicáveis ao pessoal das carreiras horizontais, nomeadamente ao pessoal de apoio geral em serviço nos centros em regime de contrato além do quadro, as regras de transição estabelecidas para as respectivas carreiras, independentemente da existência de quadros ou mapas de pessoal.
 
-###### Art. 6.º Os encargos decorrentes da aprovação do presente diploma serão suportados por reforços a inscrever no orçamento do Ministério da Educação pelo Ministério das Finanças e do Plano.
+Art. 6.º Os encargos decorrentes da aprovação do presente diploma serão suportados por reforços a inscrever no orçamento do Ministério da Educação pelo Ministério das Finanças e do Plano.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 5 de Novembro de 1985.**
+Promulgado em 5 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Novembro de 1985.**
+Referendado em 12 de Novembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

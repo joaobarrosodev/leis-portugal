@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23300/35433544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1983-441308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fba58b345688f9d7050b5797e0dbc91fb42c30bc6c44987d720fcea1b93513e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba9de03912fbb1d60dd74f20e911081c0d15d55e8ed1cb64051c68faa6a25d89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Conciliação e Julgamento
+- Ministério do Trabalho e Segurança Social
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448938:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:45Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +129,15 @@ Nestes termos, ouvido o Governo Regional:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para a Região Autónoma da Madeira as atribuições e competências que, no âmbito das comissões de conciliação e julgamento, são cometidas, naquela Região, ao Ministério do Trabalho e Segurança Social.
+Artigo 1.º São transferidas para a Região Autónoma da Madeira as atribuições e competências que, no âmbito das comissões de conciliação e julgamento, são cometidas, naquela Região, ao Ministério do Trabalho e Segurança Social.
 
-###### Art. 2.º - 1 - São devidas ao organismo regional competente as contribuições legais das associações sindicais e patronais de âmbito regional, bem como das de âmbito nacional, no que respeita às quotizações pagas pelos associados que desenvolvam a sua actividade na Região.
+Art. 2.º - 1 - São devidas ao organismo regional competente as contribuições legais das associações sindicais e patronais de âmbito regional, bem como das de âmbito nacional, no que respeita às quotizações pagas pelos associados que desenvolvam a sua actividade na Região.
 
 2 - São igualmente devidas ao organismo regional as taxas e multas previstas no artigo 5.º, n.º 1, do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, e no regulamento aprovado pela [Portaria n.º 280/76](https://diariodarepublica.pt/dr/detalhe/portaria/280-1976-427609), de 4 de Maio, quando referentes aos processos que corram na Região Autónoma.
 
 3 - As receitas das comissões de conciliação e julgamento da Região constituirão um fundo comum cuja gestão ficará a cargo do competente órgão regional.
 
-###### Art. 3.º - 1 - O pessoal adstrito aos serviços ora regionalizados e que desempenha funções na Região Autónoma da Madeira, qualquer que seja a sua forma de provimento, será integrado, se o desejar, no quadro de pessoal do correspondente organismo regional, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se para todos os efeitos como se fora no mesmo lugar o tempo de serviço prestado no seu actual cargo.
+Art. 3.º - 1 - O pessoal adstrito aos serviços ora regionalizados e que desempenha funções na Região Autónoma da Madeira, qualquer que seja a sua forma de provimento, será integrado, se o desejar, no quadro de pessoal do correspondente organismo regional, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se para todos os efeitos como se fora no mesmo lugar o tempo de serviço prestado no seu actual cargo.
 
 2 - A integração e a colocação previstas no n.º 1 serão efectuadas independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República e no jornal Oficial da Região Autónoma.
 
@@ -119,24 +147,24 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O pessoal que venha a ser integrado no quadro do respectivo organismo regional e que, ao aposentar-se, pretenda fixar residência no continente ou Açores manterá os direitos consignados no concernente a transporte de pessoas e bens.
 
-###### Art. 4.º O Ministério do Trabalho e Segurança Social prestará, na medida das suas possibilidades, apoio técnico aos serviços ora regionalizados a solicitação expressa do Governo Regional.
+Art. 4.º O Ministério do Trabalho e Segurança Social prestará, na medida das suas possibilidades, apoio técnico aos serviços ora regionalizados a solicitação expressa do Governo Regional.
 
-###### Art. 5.º O património afecto aos serviços regionalizados, por força do disposto nos artigos 1.º e 2.º, transita para o Governo Regional mediante simples inventário.
+Art. 5.º O património afecto aos serviços regionalizados, por força do disposto nos artigos 1.º e 2.º, transita para o Governo Regional mediante simples inventário.
 
-###### Art. 6.º As formas de cooperação entre o Ministério do Trabalho e Segurança Social e a Secretaria Regional do Trabalho serão definidas em protocolo.
+Art. 6.º As formas de cooperação entre o Ministério do Trabalho e Segurança Social e a Secretaria Regional do Trabalho serão definidas em protocolo.
 
-###### Art. 7.º As atribuições das comissões de conciliação e julgamento na Região Autónoma da Madeira, bem como as competências, direitos e deveres dos seus funcionários, são, com as necessárias adaptações, as constantes do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, e da [Portaria n.º 280/76](https://diariodarepublica.pt/dr/detalhe/portaria/280-1976-427609), de 4 de Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 328/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1978-327290), de 10 de Novembro, e demais legislação aplicável.
+Art. 7.º As atribuições das comissões de conciliação e julgamento na Região Autónoma da Madeira, bem como as competências, direitos e deveres dos seus funcionários, são, com as necessárias adaptações, as constantes do [Decreto-Lei n.º 463/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1975-314886), de 27 de Agosto, e da [Portaria n.º 280/76](https://diariodarepublica.pt/dr/detalhe/portaria/280-1976-427609), de 4 de Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 328/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1978-327290), de 10 de Novembro, e demais legislação aplicável.
 
-###### Art. 8.º Os encargos resultantes da regionalização serão garantidos pela Região Autónoma da Madeira a partir do início do mês seguinte ao do prazo fixado no n.º 4 do artigo 3.º do presente diploma.
+Art. 8.º Os encargos resultantes da regionalização serão garantidos pela Região Autónoma da Madeira a partir do início do mês seguinte ao do prazo fixado no n.º 4 do artigo 3.º do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo.
 
-**Promulgado em 26 de Setembro de 1983.**
+Promulgado em 26 de Setembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Setembro de 1983.**
+Referendado em 28 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

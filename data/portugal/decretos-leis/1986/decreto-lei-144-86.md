@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13500/14131413.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1986-228831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23294c136d6d638e285aaecf13e09dbe794206d251f84d6a21110fef138f11e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d91dbf290b9776f48644848e8d0ddb5b48cc5f2520e48e24fea0b1560677315d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614590:por
+  label: Alterado o nº 22º do art. 11º e o nº 1 do art. 16º do Código da Sisa e do Imposto sobre Sucessões e Doações, aprovado
+    pelo Dec Lei 41969 de 24-Nov de 1958, com a redacção do presente diploma, pelo DEC LEI.91/89.27.03.1989.MF, DR.IS [71]
+    de 27.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: amended_by
+  target: pt:dre:574925:por
+  label: "Alterado o nº 20º do art. 11º do Código da Sisa e do Imposto sobre Sucessões e Doações, aprovado pelo Dec Lei 41969\
+    \ de 24-Nov 19458, com a redacção do presente diploma, pelo DEC LEI.181/90.06.06.1990.MF, DR.IS [130] de 06.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1990-574925
+  date: '1990-06-06'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441566:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301052:por
+  label: Rectificado pela DECL.DD4693.14.07.1986.PCM, DR.IS [174]2ºSupl de 31.07.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301052
+  date: '1986-07-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:18Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +136,9 @@ No uso da autorização conferida pelo artigo 27.º da [Lei n.º 9/86](https://d
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É alterada a redacção dos n.os 20.º e 21.º do artigo 11.º, do n.º 1.º do artigo 16.º e do § 1.º do artigo 184.º do Código da Sisa e do Imposto sobre as Sucessões e Doações pela forma seguinte:
+Artigo 1.º É alterada a redacção dos n.os 20.º e 21.º do artigo 11.º, do n.º 1.º do artigo 16.º e do § 1.º do artigo 184.º do Código da Sisa e do Imposto sobre as Sucessões e Doações pela forma seguinte:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 ...
 
@@ -115,28 +148,28 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 1.º Que aos prédios adquiridos para revenda foi dado destino diferente ou que os mesmos não foram revendidos dentro do prazo de dois anos ou o foram novamente para revenda, salvo justificação aceite por despacho do Ministro das Finanças, que poderá prorrogar esse prazo até ao máximo de dois anos;
 
 ...
 
-###### Art. 184.º ...
+Art. 184.º ...
 
 § 1.º Tratando-se de certificados de aforro ou de títulos sem cupão, considera-se rendimento pago no momento de amortização a diferença entre o preço por que foram adquiridos no momento da emissão e o valor por que forem amortizados.
 
-###### Art. 2.º São revogados a [Lei n.º 33/83](https://diariodarepublica.pt/dr/detalhe/lei/33-1983-441566), de 21 de Outubro, e o artigo 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações.
+Art. 2.º São revogados a [Lei n.º 33/83](https://diariodarepublica.pt/dr/detalhe/lei/33-1983-441566), de 21 de Outubro, e o artigo 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações.
 
-###### Art. 3.º Este decreto-lei entra em vigor no dia da sua publicação.
+Art. 3.º Este decreto-lei entra em vigor no dia da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Maio de 1986.**
+Promulgado em 28 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Junho de 1986.**
+Referendado em 4 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

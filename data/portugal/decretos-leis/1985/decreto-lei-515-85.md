@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1985, 3º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4260-(41) a 4260-(44)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30103/00410044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1985-546421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a76c63d07a5e47c8d38635992cad87a9b3262d130f8c95141bc71d22c36d4331
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2510e6af6b433c1f60bca025fe4a9a3bd5adcfd81157f502eb9553730785e9ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- Carcaça
+- Carne
+- Carne de Vaca
+- Exportação
+- Gado Bovino
+- Importação
+- Organização Comum de Mercado
+- Preço
+- Preço de Intervenção
+- Preço de Orientação
+- Tratado de Adesão CE
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250432:por
+  label: "Alterados os artigos 1.º e 10.º, pelo DEC LEI.72-A/86.18.04.1986.MAPA, DR.IS [90]Supl de 18.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-1986-250432
+  date: '1986-04-18'
+- type: amended_by
+  target: pt:dre:612865:por
+  label: Decreto-Lei n.º 68/89 - Diário da República n.º 51/1989, Série I de 1989-03-02 (Altera o art. 1.º)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1989-612865
+  date: '1989-03-02'
+- type: amended_by
+  target: pt:dre:566203:por
+  label: Alterado o art. 5.º, pelo DEC LEI.349/90.05.11.1990.MAPA, DR.IS [255] de 05.11.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-1990-566203
+  date: '1990-11-05'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477173:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:34Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +148,7 @@ Ouvidos os Governos das Regiões Autónomas da Madeira e dos Açores e no uso da
 
 A organização do mercado para o sector da carne de bovino, adiante designada por «organização do mercado», a que se refere o presente diploma, abrange os seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30103/00410044.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30103/00410044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30103/00410044.pdf)
 
 ###### Artigo 2.º — (Direito aplicável)
 
@@ -247,12 +288,12 @@ A aplicação deste diploma às Regiões Autónomas da Madeira e dos Açores ser
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

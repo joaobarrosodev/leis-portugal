@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24200/34413442.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1985-177642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f50abf5f4ed15f364c9dfea9b01ebad4d5e5183b36ab5c857af505b8adedf6b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c0028c1cf7e5ff5dd81d3dd1586eca5bb72ff95b8ad7024e8f94c226b9e28d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos da Profilaxia da Droga
+- Droga
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:169004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:169004:por
+  label: "Caducado por força da revogação do Dec Lei 365/82, de 08-Set, pelo DEC LEI.31/99.1999.02.05.PCM DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1999-169004
+  date: '1999-02-05'
+- type: cites
+  target: pt:dre:374399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:169004:por
+  label: "Revogado pelo DEC LEI.31/99.1999.02.05.PCM DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1999-169004
+  date: '1999-02-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:51Z'
   warnings: []
   errors: []
 ---
@@ -103,17 +125,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea b) do artigo 33.º do [Decreto-Lei n.º 365/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399), de 8 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º A alínea b) do artigo 33.º do [Decreto-Lei n.º 365/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399), de 8 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 33.º ...
+Art. 33.º ...
 
 a) ...
 
 b) Director-adjunto do CEPD a director de serviços.
 
-###### Art. 2.º O artigo 46.º do [Decreto-Lei n.º 365/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399), de 8 de Setembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 46.º do [Decreto-Lei n.º 365/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399), de 8 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 46.º O pessoal dirigente do GPCCD e do CEPID é provido nos termos da lei geral, observadas ainda as seguintes regras:
+Art. 46.º O pessoal dirigente do GPCCD e do CEPID é provido nos termos da lei geral, observadas ainda as seguintes regras:
 
 a) Os lugares de director nacional, de director-adjunto e de chefe das Divisões de Investigação, de Informação Científica e Técnica e Psico-Social do CEPD são providos por despacho do Ministro da Justiça, sob proposta do director-geral do GPCCD, de entre indivíduos habilitados com licenciatura cujo currículo revele experiência e reconhecida competência num ou mais dos seguintes domínios: psiquiatria, psicologia, serviço social, sociologia, ciências da educação e gestão administrativa e financeira;
 
@@ -123,20 +145,20 @@ c) Os lugares de chefe da Divisão Clínica são providos por despacho do Minist
 
 d) Os lugares de chefe de repartição são providos de entre chefes de secção com 3 anos de bom e efectivo serviço ou de entre diplomados com curso superior adequado.
 
-###### Art. 3.º O artigo 66.º do [Decreto-Lei n.º 365/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399), de 8 de Setembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 66.º do [Decreto-Lei n.º 365/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1982-374399), de 8 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 66.º - 1 - O pessoal médico, técnico superior, técnico, de enfermagem e técnico auxiliar dos serviços complementares de diagnóstico e terapêutica fica sujeito ao regime jurídico definido para o mesmo pessoal do Ministério da Saúde, salvaguardado o disposto neste diploma.
+Art. 66.º - 1 - O pessoal médico, técnico superior, técnico, de enfermagem e técnico auxiliar dos serviços complementares de diagnóstico e terapêutica fica sujeito ao regime jurídico definido para o mesmo pessoal do Ministério da Saúde, salvaguardado o disposto neste diploma.
 
 2 - O pessoal médico que exercer os cargos referidos nas alíneas b) e c) do artigo 46.º aufere o vencimento da categoria de chefe de serviços hospitalares, acrescido de uma percentagem sobre o vencimento, prevista para o exercício de funções dirigentes no quadro I apenso ao [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, a fixar por despacho do Ministro da Justiça.
 
 Visto e aprovado em Conselho de Ministros a 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

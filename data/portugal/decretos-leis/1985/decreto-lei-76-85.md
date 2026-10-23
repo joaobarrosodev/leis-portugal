@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/07000/07830784.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1985-324964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d503387fc9fa8170cf228a304aa17a981cafa8556039e1ea0f0f4c46e8d97402
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 696ccee56770575dddc9b84d287cb59ef314b24c1faa115d9e224efe1c739d02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa de Habitação
+- Crédito à Habitação
+- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:172088:por
+  label: "Alterado o art. 10º pelo DEC LEI.477/85.12.11.1985.MES, DR.IS [260] de 12.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/477-1985-172088
+  date: '1985-11-12'
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660559:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:07Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +153,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto Nacional de Habitação, a Caixa Geral de Depósitos, o Crédito Predial Português e a Caixa Económica de Lisboa - Montepio Geral ficam autorizados a conceder empréstimos a cooperativas de habitação e construção de qualquer grau para a construção ou aquisição de habitações destinadas ao regime de propriedade colectiva previsto no [Decreto-Lei n.º 218/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1982-391836), de 2 de Junho.
+Artigo 1.º O Instituto Nacional de Habitação, a Caixa Geral de Depósitos, o Crédito Predial Português e a Caixa Económica de Lisboa - Montepio Geral ficam autorizados a conceder empréstimos a cooperativas de habitação e construção de qualquer grau para a construção ou aquisição de habitações destinadas ao regime de propriedade colectiva previsto no [Decreto-Lei n.º 218/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1982-391836), de 2 de Junho.
 
-###### Art. 2.º Para acesso ao financiamento a conceder ao abrigo do presente diploma as cooperativas de habitação e construção devem preencher os seguintes requisitos:
+Art. 2.º Para acesso ao financiamento a conceder ao abrigo do presente diploma as cooperativas de habitação e construção devem preencher os seguintes requisitos:
 
 a) Exercer a sua actividade no respeito pelos princípios cooperativos e possuir contabilidade regularmente organizada;
 
@@ -114,19 +163,19 @@ b) Fazer prova de que os reembolsos de eventuais empréstimos anteriormente conc
 
 c) Apresentar acta da assembleia geral realizada nos termos e para os efeitos do artigo 6.º do [Decreto-Lei n.º 218/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1982-391836), de 2 de Junho.
 
-###### Art. 3.º Os empréstimos previstos neste diploma destinam-se a programas habitacionais a realizar em terrenos propriedade da cooperativa ou de que esta seja superficiária.
+Art. 3.º Os empréstimos previstos neste diploma destinam-se a programas habitacionais a realizar em terrenos propriedade da cooperativa ou de que esta seja superficiária.
 
-###### Art. 4.º - 1 - As condições dos empréstimos, designadamente montante máximo, prazo, reembolso e valor de bonificação, serão definidas por portaria conjunta dos Ministros das Finanças e do Plano e do Equipamento Social e do membro do Governo que exerça tutela sobre o INSCOOP.
+Art. 4.º - 1 - As condições dos empréstimos, designadamente montante máximo, prazo, reembolso e valor de bonificação, serão definidas por portaria conjunta dos Ministros das Finanças e do Plano e do Equipamento Social e do membro do Governo que exerça tutela sobre o INSCOOP.
 
 2 - As importâncias respeitantes às parcelas de juros contados e de exigibilidade diferida serão capitalizadas, repercutindo-se nas prestações seguintes.
 
-###### Art. 5.º - 1 - A taxa de juro contratual será a taxa máxima legal correspondente ao prazo da operação aplicável no momento da concessão dos empréstimos ou, em caso de alteração, na data do vencimento de cada prestação.
+Art. 5.º - 1 - A taxa de juro contratual será a taxa máxima legal correspondente ao prazo da operação aplicável no momento da concessão dos empréstimos ou, em caso de alteração, na data do vencimento de cada prestação.
 
 2 - A taxa de juro contratual poderá beneficiar de uma bonificação, que constitui encargo do Estado, nas condições a definir na portaria referida no artigo anterior.
 
 3 - As futuras variações ascendentes ou descendentes da taxa máxima legal repercutir-se-ão no mesmo sentido e segundo o critério da proporcionalidade, nas taxas do juro contratual e de bonificação.
 
-###### Art. 6.º - 1 - O valor final das habitações financiadas nos termos do presente diploma, mesmo quando localizadas em terrenos infra-estruturados, resultará da adição ao valor inicial do valor de revisão de preços respectivo, dos encargos financeiros vencidos após a conclusão e ainda de outros custos resultantes de alterações, de acordo com a expressão seguinte:
+Art. 6.º - 1 - O valor final das habitações financiadas nos termos do presente diploma, mesmo quando localizadas em terrenos infra-estruturados, resultará da adição ao valor inicial do valor de revisão de preços respectivo, dos encargos financeiros vencidos após a conclusão e ainda de outros custos resultantes de alterações, de acordo com a expressão seguinte:
 
 V(índice fn) = (V(índice i) + R(índice p) + V(índice j) + C(índice a) x (1 + (n x j)/200) + R(índice c)
 
@@ -156,24 +205,24 @@ R(índice c) = reserva para construção até 10% do total dos demais valores da
 
 5 - No caso de financiamento para aquisição, o valor das habitações compreender-se-á dentro dos valores máximos de custos fixados nos termos da [Portaria n.º 580/83](https://diariodarepublica.pt/dr/detalhe/portaria/580-1983-451222).
 
-###### Art. 7.º Os empréstimos concedidos ao abrigo deste diploma serão garantidos preferencialmente por hipoteca constituída sobre os terrenos e as edificações, sem prejuízo de outras garantias que o Instituto Nacional de Habitação e as instituições de crédito, por força das suas regras de gestão e segurança, entendam exigir.
+Art. 7.º Os empréstimos concedidos ao abrigo deste diploma serão garantidos preferencialmente por hipoteca constituída sobre os terrenos e as edificações, sem prejuízo de outras garantias que o Instituto Nacional de Habitação e as instituições de crédito, por força das suas regras de gestão e segurança, entendam exigir.
 
-###### Art. 8.º São isentos de emolumentos todos os actos de registo pedidos no interesse das cooperativa de habitação e construção relativos a prédios rústicos e urbanos e respectivas fracções autónomas construídos ou adquiridos com empréstimos previstos neste diploma.
+Art. 8.º São isentos de emolumentos todos os actos de registo pedidos no interesse das cooperativa de habitação e construção relativos a prédios rústicos e urbanos e respectivas fracções autónomas construídos ou adquiridos com empréstimos previstos neste diploma.
 
-###### Art. 9.º Às cooperativas de habitação e construção financiadas ao abrigo deste diploma, bem como às empresas construtoras dos respectivos empreendimentos habitacionais, poderão ser concedidos, na parte aplicável, mediante despacho dos Ministros das Finanças e do Plano e do Equipamento Social, os benefícios a que se refere o artigo 7.º do [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554), de 28 de Agosto.
+Art. 9.º Às cooperativas de habitação e construção financiadas ao abrigo deste diploma, bem como às empresas construtoras dos respectivos empreendimentos habitacionais, poderão ser concedidos, na parte aplicável, mediante despacho dos Ministros das Finanças e do Plano e do Equipamento Social, os benefícios a que se refere o artigo 7.º do [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554), de 28 de Agosto.
 
-###### Art. 10.º O valor dos financiamentos a conceder ao abrigo deste diploma será fixado para cada ano por despacho conjunto dos Ministros das Finanças e do Plano e do Equipamento Social não podendo para o ano de 1985 ser excedido o valor de 1 milhão de contos.
+Art. 10.º O valor dos financiamentos a conceder ao abrigo deste diploma será fixado para cada ano por despacho conjunto dos Ministros das Finanças e do Plano e do Equipamento Social não podendo para o ano de 1985 ser excedido o valor de 1 milhão de contos.
 
-###### Art. 11.º É revogado o [Decreto-Lei n.º 265/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1982-394518), de 8 de Julho.
+Art. 11.º É revogado o [Decreto-Lei n.º 265/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1982-394518), de 8 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - João Rosado Correia.
 
-**Promulgado em 19 de Março de 1985.**
+Promulgado em 19 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Março de 1985.**
+Referendado em 20 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

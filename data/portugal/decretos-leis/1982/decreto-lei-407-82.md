@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22400/30793082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1982-375268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7674546ba210f4d1d9b2e98cf959be22245774ee28b7ae0089a87aed5b4eb01b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ed89f778271be95d77d96564bf0eab4e6e73d56961ae13b8070d147fea1bb5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo Especial da Caixa de Previdência dos Profissionais de Espectáculos
+- Maternidade
+- Profissão Artística
+- Regime Jurídico
+- Segurança Social
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:670003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380145:por
+  label: Rectificado pela DECL.DD5938.15.11.1982.PCM, DR.IS [274] de 26.11.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-380145
+  date: '1982-11-15'
+- type: repealed_by
+  target: pt:dre:670003:por
+  label: Revogado, nos termos do art. 7º, pela LEI.28/2011.16.06.2011.AR, DR.IS [115] de 16.06.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2011-670003
+  date: '2011-06-16'
 article_structure:
   article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:24Z'
   warnings: []
   errors: []
 ---
@@ -258,8 +278,8 @@ O presente diploma entra em vigor no dia 1 do mês seguinte àquele em que se co
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Agosto de 1982.**
+Promulgado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1983-309880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3ee3228788ea0b2f1a70760d5209db93725ed315b412c7cc7aaf3d70e5fdde4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ffc663f07734a16002d2e4ee2c233f6253c27fde53a494365bfed1a5f14f20c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Explosivos
+- Ministério da Administração Interna
+- Ministério da Defesa Nacional
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:228002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631797:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316346:por
+  label: Rectificado pela DECL.DD5796.06.06.1983.PCM, DR.IS [148-2.º Supl] de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316346
+  date: '1983-06-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:33Z'
   warnings: []
   errors: []
 ---
@@ -109,24 +150,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Comissão dos Explosivos, organismo de consulta e execução, com as atribuições constantes do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, alterado pelos Decretos-Leis n.os [142/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1979-382786); [143/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1979-382787) e [144/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1979-382781), de 23 de Maio, e [222/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1982-391777), de 7 de Junho, é integrada no Ministério da Administração Interna.
+Artigo 1.º - 1 - A Comissão dos Explosivos, organismo de consulta e execução, com as atribuições constantes do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, alterado pelos Decretos-Leis n.os [142/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1979-382786); [143/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1979-382787) e [144/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1979-382781), de 23 de Maio, e [222/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1982-391777), de 7 de Junho, é integrada no Ministério da Administração Interna.
 
-###### Art. 2.º A Comissão dos Explosivos funcionará também como órgão consultivo do Ministério da Defesa Nacional e dos departamentos das Forças Armadas nos assuntos que digam respeito a substâncias explosivas, incluindo todos aqueles em que a respectiva indústria particular possa interessar à defesa nacional.
+Art. 2.º A Comissão dos Explosivos funcionará também como órgão consultivo do Ministério da Defesa Nacional e dos departamentos das Forças Armadas nos assuntos que digam respeito a substâncias explosivas, incluindo todos aqueles em que a respectiva indústria particular possa interessar à defesa nacional.
 
-###### Art. 3.º A Comissão dos Explosivos é um organismo dotado de autonomia administrativa, com receita própria proveniente do Fundo de Substâncias Explosivas, criado pelo [Decreto-Lei n.º 36874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36874-1948-388629), de 17 de Maio de 1948.
+Art. 3.º A Comissão dos Explosivos é um organismo dotado de autonomia administrativa, com receita própria proveniente do Fundo de Substâncias Explosivas, criado pelo [Decreto-Lei n.º 36874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36874-1948-388629), de 17 de Maio de 1948.
 
-###### Art. 4.º O artigo 9.º do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140) de 1 de Agosto de 1950, passará a incluir, como vogal, um delegado do Ministério da Defesa Nacional.
+Art. 4.º O artigo 9.º do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140) de 1 de Agosto de 1950, passará a incluir, como vogal, um delegado do Ministério da Defesa Nacional.
 
-###### Art. 5.º O quadro do pessoal permanente da Comissão dos Explosivos e suas delegações é o referido no artigo 14.º do Regulamento aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, alterado pelo [Decreto-Lei n.º 222/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1982-391777), de 7 de Junho.
+Art. 5.º O quadro do pessoal permanente da Comissão dos Explosivos e suas delegações é o referido no artigo 14.º do Regulamento aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, alterado pelo [Decreto-Lei n.º 222/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1982-391777), de 7 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - Diogo Pinto de Freitas do Amaral - José Ângelo Ferreira Correia - Ricardo Manuel Simões Bayão Horta.
 
-**Promulgado em 16 de Fevereiro de 1983.**
+Promulgado em 16 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República. ANTÓNIO RAMALHO EANES.**
+O Presidente da República. ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Fevereiro de 1983.**
+Referendado em 23 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

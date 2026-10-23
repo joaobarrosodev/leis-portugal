@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08100/08220827.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,151 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1982-607277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3aa46cc28c25b3680d1cf48c221df773ac0eb983d4e0dfd445548ee7226f4fd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dc0a862424bb4bad9ec9bc465c55c0b03c5648cd97e375d6bbbe1f6ca75b862
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Judiciários
+- Ministério da Justiça
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:305592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 77/87 DE 04-FEV DR.IS [29]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-02-04'
+- type: amended_by
+  target: pt:dre:663171:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.77/87.04.02.1987.MF, DR.IS [29] de 04.02.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-1987-663171
+  date: '1987-02-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 316/87, PUBLICADA NO DR.IS, 89, DE 870416.G\0G\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-16'
+- type: amended_by
+  target: pt:dre:666119:por
+  label: Alterado o quadro de pessoal da Direcção-Geral dos Serviços Judiciários, aprovado no presente diploma, pela PORT.316/87.16.04.1987.MF,
+    DR.IS [89] de 16.04.1987, que passa a ser o constante do seu anexo II
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1987-666119
+  date: '1987-04-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 373/89, PUBLICADA NO DR.IS, 121, DE 890527.O \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-05-27'
+- type: amended_by
+  target: pt:dre:609871:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.373/89.27.05.1989.MF, DR.IS [121] de 27.05.1989\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/373-1989-609871
+  date: '1989-05-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 313/90, PUBLICADA NO DR.IS, 96, DE 900426, NA REDACCAO CONSTANTE DA PORTARIA\
+    \ 316/87, DE 870416, NA PARTE REFERENTE AO PESSOAL TECNICO SUPERIOR.\0OR.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-04-26'
+- type: amended_by
+  target: pt:dre:332219:por
+  label: "Alterado o quadro de pessoal, na redacção constante da Portaria n.º 316/87, de 16 de Abril, pela PORT.313/90.26.04.1990.MF,\
+    \ DR.IS [96] de 26.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-1990-332219
+  date: '1990-04-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "CRIADA A DIRECCAO DE SERVICOS DE IDENTIFICACAO CRIMINAL DE CONTUMAZES E OBJECTORES DE CONSCIENCIA NA DIRECCAO GERAL\
+    \ DOS SERVICOS JUDICIARIOS, PELO DECRETO LEI 148/93, PUBLICADO NO DR.IS-A, 102, DE 930503.\003.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-03'
+- type: amended_by
+  target: pt:dre:300011:por
+  label: Criada a Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência, na Direcção-Geral
+    dos Serviços Judiciários, pelo DEC LEI.148/93.03.05.1993.MJ, DR.IS-A [102] de 03.05.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1993-300011
+  date: '1993-05-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DA DIRECCAO GERAL DOS SERVICOS JUDICIARIOS, PELA PORTARIA 546/93, PUBLICADA NO DR.IS-B,\
+    \ 122, DE 930526.\06.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-26'
+- type: amended_by
+  target: pt:dre:283152:por
+  label: "Alterado o quadro de pessoal pela PORT.546/93.26.05.1993.MF, DR.IS-B [122] de 26.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/546-1993-283152
+  date: '1993-05-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 636/93, PUBLICADA NO DR.IS-B, 155, DE 930705.S\0S\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-05'
+- type: amended_by
+  target: pt:dre:376803:por
+  label: "Alterado o quadro de pessoal pela PORT.636/93.05.07.1993.MF, DR.IS-B [155] de 05.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-1993-376803
+  date: '1993-07-05'
+- type: cites
+  target: pt:dre:328034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:305592:por
+  label: "Revogado pelo DEC LEI.173/94.25.06.1994.MJ, DR.IS-A [145] de 25.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1994-305592
+  date: '1994-06-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:03Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +223,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral dos Serviços Judiciários, abreviadamente designada por DGSJ, é o departamento do Ministério da Justiça que tem como objectivo estudar, orientar, coordenar e controlar a execução das acções e das medidas relativas à organização e funcionamento das instituições judiciárias e à racionalização do respectivo ordenamento territorial.
+Artigo 1.º - 1 - A Direcção-Geral dos Serviços Judiciários, abreviadamente designada por DGSJ, é o departamento do Ministério da Justiça que tem como objectivo estudar, orientar, coordenar e controlar a execução das acções e das medidas relativas à organização e funcionamento das instituições judiciárias e à racionalização do respectivo ordenamento territorial.
 
 2 - As instituições judiciárias compreendem o Conselho Superior da Magistratura, a Procuradoria-Geral da República, os tribunais, os serviços do Ministério Público e os Serviços Médico-Legais.
 
 3 - A DGSJ actua em estreita ligação e cooperação com o Conselho Superior da Magistratura e a Procuradoria-Geral da República, mas sem prejuízo das respectivas funções específicas.
 
-###### Art. 2.º São atribuições da DGSJ:
+Art. 2.º São atribuições da DGSJ:
 
 a) Efectuar estudos, propor medidas e definir procedimentos e técnicas de actuação tendentes à racionalização do sistema judiciário e à permanente actualização da estrutura e funcionamento dos serviços das instituições judiciárias;
 
@@ -136,13 +247,13 @@ g) Executar o expediente relativo a cartas rogatórias e outros actos de jurisdi
 
 h) Elaborar as listas dos peritos médico-legais e dos peritos para as expropriações.
 
-###### Art. 3.º - 1 - Ao director-geral compete orientar e coordenar superiormente os serviços.
+Art. 3.º - 1 - Ao director-geral compete orientar e coordenar superiormente os serviços.
 
 2 - No exercício da sua competência o director-geral é coadjuvado por um subdirector-geral, que o substitui nas suas faltas e impedimentos.
 
 ### CAPÍTULO II — Serviços
 
-###### Art. 4.º São serviços da Direcção-Geral dos Serviços Judiciários:
+Art. 4.º São serviços da Direcção-Geral dos Serviços Judiciários:
 
 A) Serviços operativos:
 
@@ -160,15 +271,15 @@ C) Delegações.
 
 #### SECÇÃO I — Serviços operativos
 
-###### Art. 5.º À Direcção de Serviços de Concursos e Administração de Pessoal cabe organizar os concursos de provimento dos lugares das instituições judiciárias, colaborar na execução de medidas de racionalização da gestão dos recursos humanos ao serviço dos tribunais e implementar e explorar os adequados ficheiros e arquivos de pessoal e proceder à sua permanente actualização.
+Art. 5.º À Direcção de Serviços de Concursos e Administração de Pessoal cabe organizar os concursos de provimento dos lugares das instituições judiciárias, colaborar na execução de medidas de racionalização da gestão dos recursos humanos ao serviço dos tribunais e implementar e explorar os adequados ficheiros e arquivos de pessoal e proceder à sua permanente actualização.
 
-###### Art. 6.º A Direcção de Serviços de Concursos e Administração de Pessoal compreende os seguintes serviços:
+Art. 6.º A Direcção de Serviços de Concursos e Administração de Pessoal compreende os seguintes serviços:
 
 a) Repartição de Estágios e Concursos;
 
 b) Repartição de Administração de Pessoal, Expediente e Arquivo.
 
-###### Art. 7.º Compete à Repartição de Estágios e Concursos:
+Art. 7.º Compete à Repartição de Estágios e Concursos:
 
 a) Promover a abertura dos estágios nos tribunais, coordenar a sua realização e acompanhar os seus resultados;
 
@@ -188,7 +299,7 @@ h) Organizar e manter permanentemente actualizados os ficheiros e dossiers indiv
 
 i) Averbar as informações recebidas do Conselho Superior da Magistratura e da Procuradoria-Geral da República sobre classificações, castigos ou louvores dos oficiais de justiça.
 
-###### Art. 8.º - 1 - A Repartição de Estágios e Concursos compreende os seguintes serviços:
+Art. 8.º - 1 - A Repartição de Estágios e Concursos compreende os seguintes serviços:
 
 a) Secção de Estágios e Concursos de Lugares de Ingresso;
 
@@ -196,7 +307,7 @@ b) Secção de Concursos de Lugares de Acesso.
 
 2 - À Secção de Estágios e Concursos de Lugares de Ingresso cabe o desempenho da competência referida na alínea a) do artigo anterior e, bem assim, o cumprimento das demais actividades relativas ao provimento dos titulares dos lugares de escriturário e oficial judicial. Todas as competências respeitantes aos processos de nomeação para os demais cargos de oficiais de justiça cabem à Secção de Concursos de Lugares de Acesso.
 
-###### Art. 9.º Compete à Repartição de Administração de Pessoal, Expediente e Arquivo:
+Art. 9.º Compete à Repartição de Administração de Pessoal, Expediente e Arquivo:
 
 a) Executar o serviço de estrangeiros, peritos avaliadores ou médico-forenses, passes de magistrados, parque automóvel, abonos de vencimento de exercício perdido para magistrados, pensões de sobrevivência de familiares de magistrados, certidões diversas e outro expediente da competência da Direcção-Geral;
 
@@ -216,7 +327,7 @@ h) Cumprir o expediente de pessoal dos tribunais superiores, Procuradoria-Geral 
 
 i) Informar as propostas de designação de pessoal eventual e dar execução aos respectivos despachos.
 
-###### Art. 10.º - 1 - A Repartição de Administração de Pessoal, Expediente e Arquivo compreende os seguintes serviços:
+Art. 10.º - 1 - A Repartição de Administração de Pessoal, Expediente e Arquivo compreende os seguintes serviços:
 
 a) Secção de Expediente e Arquivo;
 
@@ -224,15 +335,15 @@ b) Secção de Administração de Pessoal.
 
 2 - À Secção de Expediente e Arquivo e à Secção de Administração de Pessoal incumbe o desempenho das competências referidas, respectivamente, nas alíneas a) a c) e d) a i) do artigo anterior.
 
-###### Art. 11.º À Direcção de Serviços de Ordenamento do Sistema Judiciário cabe promover a obtenção das condições humanas e materiais que tornem possível uma actividade mais eficiente da administração judiciária, velar pela correcção das deficiências de ordenamento territorial e assegurar uma adequada afectação de instalações e meios de equipamento aos tribunais.
+Art. 11.º À Direcção de Serviços de Ordenamento do Sistema Judiciário cabe promover a obtenção das condições humanas e materiais que tornem possível uma actividade mais eficiente da administração judiciária, velar pela correcção das deficiências de ordenamento territorial e assegurar uma adequada afectação de instalações e meios de equipamento aos tribunais.
 
-###### Art. 12.º A Direcção de Serviços de Ordenamento do Sistema Judiciário compreende os seguintes serviços:
+Art. 12.º A Direcção de Serviços de Ordenamento do Sistema Judiciário compreende os seguintes serviços:
 
 a) Divisão de Estudos para a Racionalização da Administração Judiciária;
 
 b) Divisão de Organização, Informática e Apoio Jurídico.
 
-###### Art. 13.º Compete à Divisão de Estudos para a Racionalização da Administração Judiciária:
+Art. 13.º Compete à Divisão de Estudos para a Racionalização da Administração Judiciária:
 
 a) Efectuar estudos no domínio do funcionamento das instituições judiciárias;
 
@@ -252,7 +363,7 @@ h) Proceder, em colaboração com as delegações da DGSJ, ao levantamento e an�
 
 i) Colaborar com a Repartição Administrativa e com a Divisão de Organização, Informática e Apoio Jurídico na apreciação das propostas de orçamento das instituições judiciárias e na preparação e fundamentação dos subsequentes projectos.
 
-###### Art. 14.º Compete à Divisão de Organização, Informática e Apoio Jurídico:
+Art. 14.º Compete à Divisão de Organização, Informática e Apoio Jurídico:
 
 a) Estudar e orientar as medidas de actualização das estruturas orgânicas da DGSJ e funcionamento dos seus serviços;
 
@@ -266,7 +377,7 @@ e) Analisar e dar parecer técnico-jurídico sobre os problemas que lhe sejam co
 
 #### SECÇÃO II — Serviços de apoio
 
-###### Art. 15.º Compete à Repartição Administrativa:
+Art. 15.º Compete à Repartição Administrativa:
 
 a) Assegurar a gestão administrativa do pessoal da DGSJ;
 
@@ -292,7 +403,7 @@ l) Zelar pela guarda e conservação dos recursos patrimoniais afectos aos servi
 
 m) Assegurar o serviço de reprografia e providenciar pela eficácia das comunicações.
 
-###### Art. 16.º - 1 - A Repartição Administrativa integra as seguintes secções:
+Art. 16.º - 1 - A Repartição Administrativa integra as seguintes secções:
 
 a) Secção de Pessoal;
 
@@ -300,7 +411,7 @@ b) Secção de Administração Financeira e Patrimonial.
 
 2 - À Secção de Pessoal e à Secção de Administração Financeira e Patrimonial incumbe exercer as competências referidas, respectivamente, nas alíneas a) a f) e g) a m) do artigo anterior.
 
-###### Art. 17.º - 1 - Compete ao Serviço de Informação e Relações Públicas:
+Art. 17.º - 1 - Compete ao Serviço de Informação e Relações Públicas:
 
 a) Prestar as informações necessárias aos candidatos à realização de estágios e concursos;
 
@@ -318,7 +429,7 @@ f) Colaborar com o serviço competente da Secretaria-Geral na harmonização de 
 
 #### SECÇÃO III — Delegações
 
-###### Art. 18.º - 1 - São criadas nos distritos judiciais do Porto, Coimbra e Évora delegações da DGSJ.
+Art. 18.º - 1 - São criadas nos distritos judiciais do Porto, Coimbra e Évora delegações da DGSJ.
 
 2 - Compete às delegações da DGSJ:
 
@@ -342,9 +453,9 @@ g) Acompanhar, em articulação com a Direcção de Serviços de Concursos e Adm
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 19.º O pessoal da Direcção-Geral dos Serviços Judiciários é o constante do quadro anexo ao presente diploma, que substitui o mapa a que se refere o artigo 5.º do [Decreto-Lei n.º 308/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1978-328034), de 19 de Outubro.
+Art. 19.º O pessoal da Direcção-Geral dos Serviços Judiciários é o constante do quadro anexo ao presente diploma, que substitui o mapa a que se refere o artigo 5.º do [Decreto-Lei n.º 308/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1978-328034), de 19 de Outubro.
 
-###### Art. 20.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+Art. 20.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -362,37 +473,37 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro da DGSJ em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 21.º - 1 - Aos lugares de director-geral, subdirector-geral, director de serviços, chefe de divisão e chefe de delegação é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 25 de Junho.
+Art. 21.º - 1 - Aos lugares de director-geral, subdirector-geral, director de serviços, chefe de divisão e chefe de delegação é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 25 de Junho.
 
 2 - Os lugares de chefe de repartição são providos de entre chefes de secção com, pelo menos, 3 anos de bom e efectivo serviço ou de entre indivíduos habilitados com curso superior adequado.
 
 3 - Os lugares de chefe de secção são providos de entre primeiros-oficiais, habilitados com o curso geral do ensino secundário ou equiparado, com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
-###### Art. 22.º - 1 - Os lugares de pessoal técnico superior são providos, nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada.
+Art. 22.º - 1 - Os lugares de pessoal técnico superior são providos, nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada.
 
 2 - Os lugares de técnico principal e de técnico de 1.ª classe são providos de entre, respectivamente, técnicos de 1.ª e de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 3 - Os lugares de técnico de 2.ª classe são providos de entre indivíduos habilitados com curso superior adequado.
 
-###### Art. 23.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial são providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 23.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial são providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de terceiro-oficial são providos nos termos da lei geral.
 
 3 - O provimento dos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, é feito nos termos da lei geral.
 
-###### Art. 24.º O lugar de tradutor-correspondente-intérprete é provido de entre indivíduos habilitados com o curso geral do ensino secundário e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
+Art. 24.º O lugar de tradutor-correspondente-intérprete é provido de entre indivíduos habilitados com o curso geral do ensino secundário e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
 
-###### Art. 25.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe são providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 25.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe são providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe são providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 26.º - 1 - Os lugares de operador de reprografia de 1.ª e de 2.ª classes são providos, respectivamente, de entre operadores de 2.ª e 3.ª classes com, pelo menos, 3 anos de bom e efectivo serviço.
+Art. 26.º - 1 - Os lugares de operador de reprografia de 1.ª e de 2.ª classes são providos, respectivamente, de entre operadores de 2.ª e 3.ª classes com, pelo menos, 3 anos de bom e efectivo serviço.
 
 2 - Os lugares de operador de reprografia de 3.ª classe são providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 27.º Os lugares de motorista e de contínuo são providos nos termos da lei geral.
+Art. 27.º Os lugares de motorista e de contínuo são providos nos termos da lei geral.
 
-###### Art. 28.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam.
+Art. 28.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam.
 
 2 - O período de requisição será previamente fixado, não podendo exceder a duração de 1 ano, prazo este que poderá ser prorrogado por uma só vez.
 
@@ -400,7 +511,7 @@ b) No lugar do quadro da DGSJ em que vier a ser provido definitivamente, finda a
 
 4 - Os lugares de que sejam titulares no quadro de origem os funcionários requisitados poderão ser providos interinamente enquanto se mantiver a requisição.
 
-###### Art. 29.º - 1 - Quando as necessidades do serviço o exijam, poderá ser destacado para o DGSJ pessoal de outros organismos e serviços.
+Art. 29.º - 1 - Quando as necessidades do serviço o exijam, poderá ser destacado para o DGSJ pessoal de outros organismos e serviços.
 
 2 - Os destacamentos previstos no número anterior dependem de acordo dos interessados e carecem de autorização do membro do Governo de que dependam.
 
@@ -410,7 +521,7 @@ b) No lugar do quadro da DGSJ em que vier a ser provido definitivamente, finda a
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 30.º - 1 - O pessoal da Direcção-Geral dos Serviços Judiciários transita para os lugares do quadro a que se refere o artigo 19.º, com respeito pelo disposto na alínea b) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, sem prejuízo das habilitações literárias exigidas de acordo com as seguintes regras:
+Art. 30.º - 1 - O pessoal da Direcção-Geral dos Serviços Judiciários transita para os lugares do quadro a que se refere o artigo 19.º, com respeito pelo disposto na alínea b) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, sem prejuízo das habilitações literárias exigidas de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -422,18 +533,18 @@ c) Para categoria correspondente às funções que o funcionário ou agente actu
 
 3 - Os actuais chefes de repartição licenciados, com atribuições predominantemente técnicas, poderão transitar para lugar da carreira de técnico superior a que corresponda letra de vencimento idêntica à que possuem.
 
-###### Art. 31.º São revogados os artigos 6.º a 8.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, o [Decreto n.º 197/73](https://diariodarepublica.pt/dr/detalhe/decreto/197-1973-422008), de 3 de Maio, e os artigos 5.º a 9.º do [Decreto-Lei n.º 308/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1978-328034), de 19 de Outubro.
+Art. 31.º São revogados os artigos 6.º a 8.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, o [Decreto n.º 197/73](https://diariodarepublica.pt/dr/detalhe/decreto/197-1973-422008), de 3 de Maio, e os artigos 5.º a 9.º do [Decreto-Lei n.º 308/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1978-328034), de 19 de Outubro.
 
-###### Art. 32.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o Ministro das Finanças e do Plano e com o membro do Governo que tiver a seu cargo a Administração Pública, quando estejam em causa matérias da respectiva competência.
+Art. 32.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o Ministro das Finanças e do Plano e com o membro do Governo que tiver a seu cargo a Administração Pública, quando estejam em causa matérias da respectiva competência.
 
-###### Art. 33.º Os encargos resultantes da aplicação do disposto no presente diploma serão suportados, na medida em que ultrapassem as dotações orçamentais, pelo Cofre Geral dos Tribunais ou pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 33.º Os encargos resultantes da aplicação do disposto no presente diploma serão suportados, na medida em que ultrapassem as dotações orçamentais, pelo Cofre Geral dos Tribunais ou pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Março de 1982.**
+Promulgado em 25 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/08100/08220827.pdf))](https://files.diariodarepublica.pt/1s/1982/04/08100/08220827.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/08100/08220827.pdf)

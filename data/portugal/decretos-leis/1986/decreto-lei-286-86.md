@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20500/24542458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1986-219961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665dfb1caa064812e62dd0000215de05b9f8820053c37b212781387d9cdc1c8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1ec437f93ccc58e8e2d66dc069e6cdee533d8a392ce7cbb9f37a01eea6ae4dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Indústria da Panificação
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:569888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419989:por
+  label: Alterados os arts. 8.º e 10.º pelo(a) Decreto-Lei n.º 275/87 - Diário da República n.º 151/1987, Série I de 1987-07-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1987-419989
+  date: '1987-07-04'
+- type: cites
+  target: pt:dre:178084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216746:por
+  label: Revogado pelo DEC LEI.65/92.23.04.1992.MA, DR.IS-A [95] de 23.04.1992, com a entrada em vigor da regulamentação prevista
+    no seu art. 1º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1992-216746
+  date: '1992-04-23'
+- type: repealed_by
+  target: pt:dre:569888:por
+  label: "Revogado o art. 15º, no que se refere aos estabelecimentos de venda de pão e produtos afins, pelo DEC LEI.370/99.1999.09.18.MECO,DR.IS-A\
+    \ [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/370-1999-569888
+  date: '1999-09-18'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:57Z'
   warnings: []
   errors: []
 ---
@@ -281,12 +321,12 @@ Este diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1986. - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Fernando Augusto dos Santos Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - António Amaro de Matos.
 
-**Promulgado em 16 de Agosto de 1986.**
+Promulgado em 16 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Agosto de 1986.**
+Referendado em 19 de Agosto de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

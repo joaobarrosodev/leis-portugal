@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/18700/24862490.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1984-382401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 216fba9c0d359036137e745ec59fd014db26adc2be048f2c72dcdfd3dfc671d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 831a5cf11390957db3767459501559acc0c8b75c507e74a448e5d0be0af0c0dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Planeamento Civil de Emergência
+- Orgânica
+- Política de Defesa
+- Primeiro-ministro
+- Proteção Civil
 relationships:
 - type: amended_by
   target: pt:dre:594679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221695:por
+  label: "Alterados os arts. 3º e 5º, pelo DEC LEI.324/86.1986.09.29.MDN, DR.IS [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1986-221695
+  date: '1986-09-29'
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, pelo constante do anexo XI da PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:594679:por
+  label: "Revogado pelo DEC LEI.153/91.1991.04.23.MDN, DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-1991-594679
+  date: '1991-04-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:18Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +134,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alinea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado, na dependência do Primeiro-Ministro, o Conselho Nacional de Planeamento Civil de Emergência, adiante designado por CNPCE.
+Artigo 1.º - 1 - É criado, na dependência do Primeiro-Ministro, o Conselho Nacional de Planeamento Civil de Emergência, adiante designado por CNPCE.
 
 2 - O CNPCE é um órgão colegial de apoio consultivo, que tem por objectivos:
 
@@ -114,7 +142,7 @@ a) A nível nacional, a definição e permanente actualização das políticas d
 
 b) A nível da NATO, integrando a Delegação Nacional Portuguesa ao Senior Civil Emergency Committee/NATO (SCEPC/NATO), já criada por Resolução do Conselho de Ministros n.º 39/83, de 31 de Agosto, a promoção da representação eficaz e sistemática naquele Alto Comité e a coordenação das actividades das comissões sectoriais, entretanto em fase de implementação ou de reestruturação, nas suas funções de representantes de Portugal nos subcomités do SCEPC.
 
-###### Art. 2.º - 1 - São atribuições do CNPCE, a nível nacional:
+Art. 2.º - 1 - São atribuições do CNPCE, a nível nacional:
 
 a) Contribuir para a definição da política nacional de planeamento civil de emergência;
 
@@ -148,7 +176,7 @@ d) Pronunciar-se quanto à participação das comissões sectoriais em grupos de
 
 e) Cometer a realização dos estudos julgados necessários às comissões sectoriais e manter-se informado acerca da implementação dos mesmos ou outros estudos provenientes de solicitações dos subcomités do SCEPC/NATO.
 
-###### Art. 3.º - 1 - Serão desde já criadas as seguintes comissões sectoriais do CNPCE, directamente dependentes do respectivo ministro da tutela e funcionalmente do presidente do Conselho, com a natureza de órgãos de representação nacional, quer no plano interno, quer no plano NATO, de âmbito sectorial, e com ligações aos correspondentes subcomités dependentes do SCEPC:
+Art. 3.º - 1 - Serão desde já criadas as seguintes comissões sectoriais do CNPCE, directamente dependentes do respectivo ministro da tutela e funcionalmente do presidente do Conselho, com a natureza de órgãos de representação nacional, quer no plano interno, quer no plano NATO, de âmbito sectorial, e com ligações aos correspondentes subcomités dependentes do SCEPC:
 
 a) Sob tutela do Ministro da Indústria e Energia:
 
@@ -176,7 +204,7 @@ Comissão para o planeamento da gestão dos recursos alimentares, em tempo de cr
 
 3 - A regulamentação das comissões sectoriais referidas nos números anteriores será feita por portaria conjunta do Primeiro-Ministro, Ministro da Defesa Nacional, ministro da tutela, Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 4.º O CNPCE é presidido pelo Ministro da Defesa Nacional e constituído por um vice-presidente e pelos seguintes membros:
+Art. 4.º O CNPCE é presidido pelo Ministro da Defesa Nacional e constituído por um vice-presidente e pelos seguintes membros:
 
 a) Presidentes das comissões sectoriais;
 
@@ -188,7 +216,7 @@ d) 1 representante do Governo Regional dos Açores;
 
 e) 1 representante do Governo Regional da Madeira.
 
-###### Art. 5.º - 1 - Compete ao presidente do CNPCE:
+Art. 5.º - 1 - Compete ao presidente do CNPCE:
 
 a) Assegurar o funcionamento do CNPCE e convocar e dirigir as respectivas reuniões;
 
@@ -214,13 +242,13 @@ f) Submeter a despacho do presidente do CNPCE os assuntos que dele carecem.
 
 5 - A remuneração do lugar de vice-presidente será fixada por despacho conjunto dos Ministros da Defesa Nacional e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, não podendo ser inferior à de director-geral quando o cargo for desempenhado em tempo inteiro e em exclusividade.
 
-###### Art. 6.º - 1 - O vice-presidente será coadjuvado por 3 adjuntos, que assegurarão ainda a preparação dos estudos e pareceres necessários ao normal desenvolvimento do Conselho.
+Art. 6.º - 1 - O vice-presidente será coadjuvado por 3 adjuntos, que assegurarão ainda a preparação dos estudos e pareceres necessários ao normal desenvolvimento do Conselho.
 
 2 - Os adjuntos são nomeados por despacho do Ministro da Defesa Nacional, sob proposta do vice-presidente do CNPCE, em comissão de serviço, por 3 anos, renováveis, ou em regime de destacamento, respectivamente dos quadros do funcionalismo público ou das Forças Armadas, com vencimento equiparado a director de serviços.
 
-###### Art. 7.º Para prestação de assistência técnica especializada, poderá o Ministro da Defesa Nacional celebrar contratos de prestação de serviço, nos termos do artigo 17.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, com peritos de reconhecida competência.
+Art. 7.º Para prestação de assistência técnica especializada, poderá o Ministro da Defesa Nacional celebrar contratos de prestação de serviço, nos termos do artigo 17.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, com peritos de reconhecida competência.
 
-###### Art. 8.º - 1 - O CNPCE elaborará o seu regulamento interno, obedecendo aos princípios fixado neste diploma.
+Art. 8.º - 1 - O CNPCE elaborará o seu regulamento interno, obedecendo aos princípios fixado neste diploma.
 
 2 - O Conselho funcionará em sessões plenárias ou restritas, consoante os assuntos a tratar e segundo as regras fixadas no regulamento interno.
 
@@ -230,9 +258,9 @@ f) Submeter a despacho do presidente do CNPCE os assuntos que dele carecem.
 
 5 - Os membros do Conselho que não pertençam aos quadros do Ministério da Defesa Nacional terão direito a senhas de presença, nos termos da lei geral.
 
-###### Art. 9.º Uma secção administrativa assegurará o apoio ao CNPCE em matéria de expediente, arquivo, pessoal, contabilidade e economato.
+Art. 9.º Uma secção administrativa assegurará o apoio ao CNPCE em matéria de expediente, arquivo, pessoal, contabilidade e economato.
 
-###### Art. 10.º - 1 - O Conselho disporá do pessoal técnico-profissional e administrativo constante do quadro anexo ao presente diploma.
+Art. 10.º - 1 - O Conselho disporá do pessoal técnico-profissional e administrativo constante do quadro anexo ao presente diploma.
 
 2 - O provimento do pessoal referido no n.º 1 será feito por nomeação provisória ou comissão de serviço pelo período de 1 ano.
 
@@ -250,7 +278,7 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro anexo em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 11.º - 1 - O provimento dos lugares constantes do quadro em anexo far-se-á prioritariamente de entre pessoal dos quadros do funcionalismo público e das Forças Armadas.
+Art. 11.º - 1 - O provimento dos lugares constantes do quadro em anexo far-se-á prioritariamente de entre pessoal dos quadros do funcionalismo público e das Forças Armadas.
 
 2 - A integração de pessoal civil dos serviços departamentais das Forças Armadas, a que se refere o número anterior, far-se-á de acordo com as seguintes regras:
 
@@ -258,40 +286,40 @@ a) Para categoria idêntica à que o funcionário já possui;
 
 b) Para categoria correspondente às funções que o funcionário desempenha, remunerado pela mesma letra de vencimento ou, quando não se verifique coincidência de remuneração, letra de vencimento imediatamente superior, sem prejuízo das habilitações literárias.
 
-###### Art. 12.º O lugar de chefe de secção será provido de entre primeiros-oficiais ou técnicos auxiliares principais com um mínimo de 3 anos na categoria e capacidade para o exercício de funções de coordenação e chefia.
+Art. 12.º O lugar de chefe de secção será provido de entre primeiros-oficiais ou técnicos auxiliares principais com um mínimo de 3 anos na categoria e capacidade para o exercício de funções de coordenação e chefia.
 
-###### Art. 13.º Os lugares de oficial administrativo serão providos nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 13.º Os lugares de oficial administrativo serão providos nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 14.º O lugar de tradutor-correspondente-intérprete será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
+Art. 14.º O lugar de tradutor-correspondente-intérprete será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
 
-###### Art. 15.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+Art. 15.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado.
 
-###### Art. 16.º O provimento nos lugares de escriturário-dactilógrafo, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 16.º O provimento nos lugares de escriturário-dactilógrafo, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 17.º Os lugares das carreiras de motoristas e contínuo serão providos nos termos da lei geral.
+Art. 17.º Os lugares das carreiras de motoristas e contínuo serão providos nos termos da lei geral.
 
-###### Art. 18.º O tempo de serviço para efeitos de promoção previsto nos artigos precedentes poderá ser reduzido de 1 ano nos casos de classificação de serviços de Muito bom em 2 anos consecutivos.
+Art. 18.º O tempo de serviço para efeitos de promoção previsto nos artigos precedentes poderá ser reduzido de 1 ano nos casos de classificação de serviços de Muito bom em 2 anos consecutivos.
 
-###### Art. 19.º Os encargos financeiros decorrentes do funcionamento do CNPCE são suportados pelo orçamento do Ministério da Defesa Nacional.
+Art. 19.º Os encargos financeiros decorrentes do funcionamento do CNPCE são suportados pelo orçamento do Ministério da Defesa Nacional.
 
-###### Art. 20.º O CNPCE funcionará em instalações do Ministério da Defesa Nacional.
+Art. 20.º O CNPCE funcionará em instalações do Ministério da Defesa Nacional.
 
-###### Art. 21.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 21.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa - José Veiga Simão - João Rosado Correia - Carlos Montez Melancia.
 
-**Promulgado em 27 de Julho de 1984.**
+Promulgado em 27 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Julho de 1984.**
+Referendado em 30 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro de pessoal a que se refere o n.º 1 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18700/24862490.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18700/24862490.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18700/24862490.pdf)

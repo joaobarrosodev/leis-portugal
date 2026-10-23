@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04600/06290630.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1983-311400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d0c2cdc170b387ed9c94ed9ce63539ea9806299190502713a9d69525950a2b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7744e00748fc78691559a88a7b395269571e6fa45e7195745848966a42ec398f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Obrigações de Caixa
+- Sociedade de Investimento
 relationships:
 - type: amended_by
   target: pt:dre:288874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453177:por
+  label: "Alterados os nºs. 1 e 2 do artigo 3º pelo DEC LEI.319/83.04.07.1983.MFP, DR.IS [151] de 04.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-1983-453177
+  date: '1983-07-04'
+- type: cites
+  target: pt:dre:326709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564030:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355516:por
+  label: "Revogado o artigo 10.º pelo DEC LEI.329/88.27.09.1988.MF, DR.IS [224] de 27.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1988-355516
+  date: '1988-09-27'
+- type: repealed_by
+  target: pt:dre:288874:por
+  label: Revogado pelo DEC LEI.408/91.17.10.1991.MF, DR.IS-A [239] de 17.10.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1991-288874
+  date: '1991-10-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:21Z'
   warnings: []
   errors: []
 ---
@@ -104,23 +133,23 @@ Considerando igualmente a conveniência de este novo instrumento financeiro pode
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As obrigações de caixa são títulos de crédito, ao portador ou nominativos, emitidos por instituições especiais de crédito, bancos de investimento ou sociedades de investimento, em contrapartida de empréstimos por eles contraídos.
+Artigo 1.º - 1 - As obrigações de caixa são títulos de crédito, ao portador ou nominativos, emitidos por instituições especiais de crédito, bancos de investimento ou sociedades de investimento, em contrapartida de empréstimos por eles contraídos.
 
 2 - A emissão de obrigações de caixa, bem como a respectiva oferta pública de compra, venda ou troca, regem-se pelo disposto neste decreto-lei, não lhes sendo aplicável o regime previsto no [Decreto-Lei n.º 371/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1978-326709), de 30 de Novembro.
 
 3 - O regime do presente diploma aplica-se também à Caixa Geral de Depósitos, ao Crédito Predial Português e à Sociedade Financeira Portuguesa, podendo ser extensivo, com as necessárias adaptações e mediante portaria do Ministro de Estado e das Finanças e do Plano, ouvido o Banco de Portugal, a outras instituições de crédito ou parabancárias.
 
-###### Art. 2.º A emissão de obrigações de caixa incorpora a obrigação de pagar uma certa importância em prazo não inferior a 2 anos e os correspondentes juros.
+Art. 2.º A emissão de obrigações de caixa incorpora a obrigação de pagar uma certa importância em prazo não inferior a 2 anos e os correspondentes juros.
 
-###### Art. 3.º - 1 - O prazo de amortização das obrigações de caixa é fixo, podendo, no entanto, o seu reembolso antecipado ser reclamado, desde que decorridos 12 meses após a sua emissão. Para tanto as instituições emitentes deverão ser avisadas com antecedência não inferior a 30 dias.
+Art. 3.º - 1 - O prazo de amortização das obrigações de caixa é fixo, podendo, no entanto, o seu reembolso antecipado ser reclamado, desde que decorridos 12 meses após a sua emissão. Para tanto as instituições emitentes deverão ser avisadas com antecedência não inferior a 30 dias.
 
 2 - No caso de reembolso antecipado, a taxa de juro a aplicar ao período decorrido após a última contagem de juros será a que tiver sido aplicada naquela data.
 
 3 - Sem prejuízo do disposto no n.º 1 quanto ao reembolso antecipado, as obrigações de caixa não podem ser adquiridas pela própria instituição emitente antes de decorrido o prazo de 2 anos sobre a data da emissão.
 
-###### Art. 4.º O valor nominal das obrigações de caixa será de 10000$00 ou de múltiplos desse valor.
+Art. 4.º O valor nominal das obrigações de caixa será de 10000$00 ou de múltiplos desse valor.
 
-###### Art. 5.º - 1 - Dos títulos a emitir constarão sempre:
+Art. 5.º - 1 - Dos títulos a emitir constarão sempre:
 
 a) A entidade emitente;
 
@@ -144,25 +173,25 @@ j) Duas assinaturas que obriguem a sociedade.
 
 2 - Cabe ao Ministro de Estado e das Finanças e do Plano, ouvido o Banco de Portugal, aprovar através de portaria o modelo do impresso das obrigações de caixa que cada instituição poderá utilizar.
 
-###### Art. 6.º - 1 - Dependem de autorização do Ministro de Estado e das Finanças e do Plano, ouvido o Banco de Portugal, a emissão e a oferta pública de compra, venda ou troca de obrigações de caixa.
+Art. 6.º - 1 - Dependem de autorização do Ministro de Estado e das Finanças e do Plano, ouvido o Banco de Portugal, a emissão e a oferta pública de compra, venda ou troca de obrigações de caixa.
 
 2 - As instituições referidas no artigo 1.º apenas poderão emitir obrigações de caixa desde que tenham o seu capital social mínimo legal integralmente realizado e tenham sido publicadas as contas relativas ao segundo exercício de actividade, depois de devidamente aprovadas de acordo com as respectivas normas legais e estatutárias.
 
 3 - Tendo em atenção a situação nos mercados monetários e financeiros e a necessidade de estimular a captação de poupanças para o financiamento de investimentos produtivos, poderá o Ministro de Estado e das Finanças e do Plano, ouvido o Banco de Portugal, autorizar a emissão de obrigações de caixa antes de decorrido o prazo estipulado no número anterior.
 
-###### Art. 7.º A emissão de obrigações de caixa estará sempre sujeita às seguintes regras:
+Art. 7.º A emissão de obrigações de caixa estará sempre sujeita às seguintes regras:
 
 a) O montante anualmente emitido por cada instituição não poderá ultrapassar o valor dos respectivos capitais próprios;
 
 b) O montante global da dívida resultante da emissão de obrigações de caixa não poderá ultrapassar, em cada momento, uma percentagem do endividamento total da instituição emitente a fixar por aviso do Banco de Portugal.
 
-###### Art. 8.º A emissão e a oferta pública de venda de obrigações de caixa poderá ser feita de forma contínua, de acordo com as necessidades financeiras da instituição emitente e com a procura dos aforradores.
+Art. 8.º A emissão e a oferta pública de venda de obrigações de caixa poderá ser feita de forma contínua, de acordo com as necessidades financeiras da instituição emitente e com a procura dos aforradores.
 
-###### Art. 9.º As obrigações de caixa poderão ser admitidas à cotação nas bolsas de valores nos termos que vierem a ser definidos em portaria do Ministro de Estado e das Finanças e do Plano.
+Art. 9.º As obrigações de caixa poderão ser admitidas à cotação nas bolsas de valores nos termos que vierem a ser definidos em portaria do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 10.º O Banco de Portugal fixará, mediante aviso, as taxas mínimas de juro das obrigações de caixa.
+Art. 10.º O Banco de Portugal fixará, mediante aviso, as taxas mínimas de juro das obrigações de caixa.
 
-###### Art. 11.º - 1 - A contabilidade das instituições emitentes de obrigações de caixa deve expressar os valores das obrigações emitidas, amortizadas e em circulação.
+Art. 11.º - 1 - A contabilidade das instituições emitentes de obrigações de caixa deve expressar os valores das obrigações emitidas, amortizadas e em circulação.
 
 2 - Devem igualmente as mesmas instituições possuir um livro de registo, de onde constem:
 
@@ -182,12 +211,12 @@ b) Para os títulos nominativos: um livro de averbamento no qual constem, além 
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 1 de Fevereiro de 1983.**
+Promulgado em 1 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Fevereiro de 1983.**
+Referendado em 2 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/04100/05340535.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1984-661546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb52ffd6624e02504f1e6bf9bceb027d7595ceba3ed315d5a0f8df7d8ee1a8ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b68c3081bb690a27021160b0cc2f3c48fe2b1ab07ee2f52184ed844ac3e2cfb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Direcção Geral do Turismo
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
 relationships:
 - type: amended_by
   target: pt:dre:221697:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221697:por
+  label: "Revogado pelo DEC LEI.328/86.1986.09.30.PCM DR.IS [225] de 30.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1986-221697
+  date: '1986-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:36Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +113,15 @@ Assim, são encurtados os prazos dados às várias entidades intervenientes na r
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os prazos referidos nos artigos 26.º e 27.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, ficam fixados em 30 dias a contar da data do recebimento dos elementos.
+Artigo 1.º Os prazos referidos nos artigos 26.º e 27.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, ficam fixados em 30 dias a contar da data do recebimento dos elementos.
 
-###### Art. 2.º - 1 - Sempre que, para a aprovação da localização, anteprojecto ou projecto dos empreendimentos turísticos, haja lugar à intervenção de outros serviços centrais do Estado, aquela processar-se-á normalmente nas reuniões previstas na alínea b) do n.º 2 do artigo 25.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969.
+Art. 2.º - 1 - Sempre que, para a aprovação da localização, anteprojecto ou projecto dos empreendimentos turísticos, haja lugar à intervenção de outros serviços centrais do Estado, aquela processar-se-á normalmente nas reuniões previstas na alínea b) do n.º 2 do artigo 25.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969.
 
 2 - Para este efeito os serviços convocados nos termos do artigo 27.º do mesmo diploma deverão fazer-se representar nas reuniões por funcionários dotados dos poderes bastantes para tomar as decisões correspondentes ao respectivo serviço.
 
-###### Art. 3.º O disposto no artigo anterior não prejudica a consulta às câmaras municipais competentes, nos termos da alínea a) do n.º 2 do artigo 25.º do mesmo decreto-lei.
+Art. 3.º O disposto no artigo anterior não prejudica a consulta às câmaras municipais competentes, nos termos da alínea a) do n.º 2 do artigo 25.º do mesmo decreto-lei.
 
-###### Art. 4.º - 1 - A declaração de interesse para o turismo referida no artigo 6.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, passa a ser dispensada.
+Art. 4.º - 1 - A declaração de interesse para o turismo referida no artigo 6.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, passa a ser dispensada.
 
 2 - Os requerimentos de aprovação da localização e dos anteprojectos e projectos serão apresentados, pelos interessados, na Direcção-Geral do Turismo ou nas câmaras municipais, consoante se trate de estabelecimentos de ou sem interesse para o turismo, de acordo com os critérios legais aplicáveis.
 
@@ -112,12 +129,12 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Álvaro Roque de Pinho Bissaia Barreto - João Rosado Correia - António d'Orey Capucho.
 
-**Promulgado em 8 de Fevereiro de 1984.**
+Promulgado em 8 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Fevereiro de 1984.**
+Referendado em 9 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

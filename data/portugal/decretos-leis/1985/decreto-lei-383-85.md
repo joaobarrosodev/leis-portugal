@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/22500/32383239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1985-177056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a861838a371383eaed04e6d2d463a4c8f62018b27bf80a90cb8dd06802ad2f41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77720549f8c96e80aeca933d0b456e1fec46f50b3bc6db9b34ac1a37032ff3fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Autarquia Local
+- Cooperação Técnica
+- Direcção Geral da Aviação Civil
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:254659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661712:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:13Z'
   warnings: []
   errors: []
 ---
@@ -106,19 +131,19 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É instituído, nos termos do artigo 27.º do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, um programa de cooperação técnica e financeira entre o Ministério do Equipamento Social, através da Direcção-Geral da Aviação Civil, e as Câmaras Municipais de Braga, Bragança, Coimbra, Covilhã, Portimão, Vila Real e Viseu, a decorrer nos anos económicos de 1986 e 1987 e destinado ao desenvolvimento dos respectivos aeródromos com o objectivo de adaptar estas infra-estruturas às condições de funcionamento e de segurança exigidas pelo tráfego que as demanda.
+Artigo 1.º - 1 - É instituído, nos termos do artigo 27.º do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, um programa de cooperação técnica e financeira entre o Ministério do Equipamento Social, através da Direcção-Geral da Aviação Civil, e as Câmaras Municipais de Braga, Bragança, Coimbra, Covilhã, Portimão, Vila Real e Viseu, a decorrer nos anos económicos de 1986 e 1987 e destinado ao desenvolvimento dos respectivos aeródromos com o objectivo de adaptar estas infra-estruturas às condições de funcionamento e de segurança exigidas pelo tráfego que as demanda.
 
 2 - O período de vigência referido no número anterior poderá, excepcionalmente, ser ultrapassado no caso dos empreendimentos adjudicados até 31 de Dezembro de 1987.
 
 3 - As obras e a instalação de equipamentos comprovadamente realizadas em 1984 e 1985 pelas referidas câmaras municipais poderão ser incluídas nos protocolos a que se refere o artigo seguinte e as respectivas autarquias reembolsadas na proporção estabelecida no artigo 4.º
 
-###### Art. 2.º O Ministério do Equipamento Social, através da Direcção-Geral da Aviação Civil, estabelecerá com as câmaras municipais que fazem a gestão dos aeródromos referidos no artigo anterior, se nisso estiverem interessadas, protocolos pelos quais se identifiquem os trabalhos a realizar e se regulamente, complementarmente a este diploma, naquilo que for necessário, a intervenção das duas partes.
+Art. 2.º O Ministério do Equipamento Social, através da Direcção-Geral da Aviação Civil, estabelecerá com as câmaras municipais que fazem a gestão dos aeródromos referidos no artigo anterior, se nisso estiverem interessadas, protocolos pelos quais se identifiquem os trabalhos a realizar e se regulamente, complementarmente a este diploma, naquilo que for necessário, a intervenção das duas partes.
 
-###### Art. 3.º - 1 - Se o montante disponível para o programa for insuficiente para satisfazer todos os pedidos de subscrição, usar-se-á como critério de prioridade o facto de o aeródromo ter registado tráfego regular de passageiros em alguns dos anos do período 1982-1984 e o volume desse mesmo tráfego nesse período.
+Art. 3.º - 1 - Se o montante disponível para o programa for insuficiente para satisfazer todos os pedidos de subscrição, usar-se-á como critério de prioridade o facto de o aeródromo ter registado tráfego regular de passageiros em alguns dos anos do período 1982-1984 e o volume desse mesmo tráfego nesse período.
 
 2 - Em igualdade de circunstâncias preferem os trabalhos relativos aos aeródromos que revelem maior carência em matéria de segurança operacional.
 
-###### Art. 4.º As atribuições e encargos que cabem a cada um dos níveis da Administração são distribuídos da seguinte forma:
+Art. 4.º As atribuições e encargos que cabem a cada um dos níveis da Administração são distribuídos da seguinte forma:
 
 1) Ministério do Equipamento Social, através da Direcção-Geral da Aviação Civil:
 
@@ -140,16 +165,16 @@ c) Execução dos empreendimentos na qualidade de dono da obra;
 
 d) Manutenção, gestão e funcionamento dos serviços e equipamentos instalados.
 
-###### Art. 5.º A cobertura dos encargos financeiros decorrentes do disposto nos artigos anteriores será assegurada por verbas a inscrever no Orçamento do Estado para 1986 e 1987, no âmbito do plano de investimentos da administração central.
+Art. 5.º A cobertura dos encargos financeiros decorrentes do disposto nos artigos anteriores será assegurada por verbas a inscrever no Orçamento do Estado para 1986 e 1987, no âmbito do plano de investimentos da administração central.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 
-**Promulgado em 11 de Setembro de 1985.**
+Promulgado em 11 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Setembro de 1985.**
+Referendado em 13 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

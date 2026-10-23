@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01200/00800082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1983-308163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c77fcdfc12d54a94addd4f387f985da638b9089dc8f6a799f1ca4a5b017ee03f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd25d8a459290769bbc8a9259f2a54669480cb52c647b58ff0955a6ce654bfce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Cobrança de Dívidas
+- Cobrança de Impostos
+- Contribuição Industrial
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Empresa
+- Execução Fiscal
+- Expropriação
+- Imposto de Capitais
+- Imposto sobre Sucessões e Doações
+- Nacionalização
+- Política Fiscal
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:401348:por
+  label: Rectificado pela DECL.DD2945.1983.02.23.PCM DR.IS [48]Supl de 28/Fev/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-401348
+  date: '1983-02-23'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:47Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +131,7 @@ Usando da autorização legislativa concedida pelo artigo 48.º da [Lei n.º 40/
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Ministro de Estado e das Finanças e do Plano poderá autorizar, nas condições e termos que se estabelecerem, ouvida a Direcção-Geral das Contribuições e Impostos, que as empresas que, mercê de situações especiais derivadas dos acontecimentos económico-sociais verificados nos últimos anos, foram objecto, designadamente, de ocupação, autogestão ou intervenção estatal, satisfaçam em prestações, com dispensa de juros ou de outros encargos, as suas dívidas por impostos ou contribuições referentes a obrigações fiscais nascidas até ao termo do segundo exercício imediato ao da cessação daquelas situações, nomeadamente os que foram autoliquidados ou retidos na fonte.
+Artigo 1.º - 1 - O Ministro de Estado e das Finanças e do Plano poderá autorizar, nas condições e termos que se estabelecerem, ouvida a Direcção-Geral das Contribuições e Impostos, que as empresas que, mercê de situações especiais derivadas dos acontecimentos económico-sociais verificados nos últimos anos, foram objecto, designadamente, de ocupação, autogestão ou intervenção estatal, satisfaçam em prestações, com dispensa de juros ou de outros encargos, as suas dívidas por impostos ou contribuições referentes a obrigações fiscais nascidas até ao termo do segundo exercício imediato ao da cessação daquelas situações, nomeadamente os que foram autoliquidados ou retidos na fonte.
 
 2 - Nenhuma prestação poderá ser inferior a 10000$00 por cada contribuição ou imposto. Não será concedido prazo de deferimento de pagamento superior a 2 anos, nem prazo máximo de amortização superior a 10 anos, incluindo o prazo anterior.
 
@@ -115,7 +143,7 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 7 - Serão suspensos os processos executivos pendentes para a arrecadação das contribuições ou impostos cujo pagamento em prestações seja autorizado nos termos deste artigo, os quais serão arquivados, efectuado que seja o pagamento total da dívida exequenda, ou prosseguirão no caso referido na parte final do n.º 3.
 
-###### Art. 2.º - 1 - As empresas referidas no artigo 1.º sujeitas a contribuição industrial do grupo B ou cuja matéria colectável tenha sido fixada segundo as regras estabelecidas para esse grupo e que não tenham pago a respectiva contribuição poderão ainda, relativamente aos exercícios decorridos desde 1 de Janeiro do ano em que se verificou a ocupação, autogestão ou intervenção estatal, até 31 de Dezembro do ano em que cessou tal situação, reclamar nos termos do artigo 70.º do Código da Contribuição Industrial contra a matéria colectável fixada, no prazo de 90 dias a contar da data da publicação deste diploma, sendo-lhes aplicável o disposto no artigo 1.º, quanto ao pagamento da contribuição que se mostrar definitivamente devida, desde que requerido no prazo de 15 dias a contar da notificação da decisão definitiva.
+Art. 2.º - 1 - As empresas referidas no artigo 1.º sujeitas a contribuição industrial do grupo B ou cuja matéria colectável tenha sido fixada segundo as regras estabelecidas para esse grupo e que não tenham pago a respectiva contribuição poderão ainda, relativamente aos exercícios decorridos desde 1 de Janeiro do ano em que se verificou a ocupação, autogestão ou intervenção estatal, até 31 de Dezembro do ano em que cessou tal situação, reclamar nos termos do artigo 70.º do Código da Contribuição Industrial contra a matéria colectável fixada, no prazo de 90 dias a contar da data da publicação deste diploma, sendo-lhes aplicável o disposto no artigo 1.º, quanto ao pagamento da contribuição que se mostrar definitivamente devida, desde que requerido no prazo de 15 dias a contar da notificação da decisão definitiva.
 
 2 - No caso de as empresas terem oportunamente reclamado nos termos do citado artigo sem que tenham sido atendidas totalmente, poderão, com base em factos não invocados ou não considerados na decisão tomada, reclamar também nos termos do número anterior, sendo-lhes aplicável o disposto na parte final do mesmo número.
 
@@ -125,9 +153,9 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 5 - A suspensão a que se refere o n.º 3 será requerida ao chefe da respectiva repartição de finanças ou ao tribunal por onde corre o processo.
 
-###### Art. 3.º Nos casos de ocupação, de expropriação ou de nacionalização de prédios e de outros bens a eles afectos que posteriormente regressaram, total ou parcialmente, à posse dos seus titulares, não serão de liquidar quaisquer contribuições ou impostos relativos aos anos económicos em que se compreendeu o período em que esses prédios ou bens se mantiveram naquela situação, anulando-se oficiosamente as contribuições e impostos já liquidados e ainda não pagos à data da publicação deste diploma.
+Art. 3.º Nos casos de ocupação, de expropriação ou de nacionalização de prédios e de outros bens a eles afectos que posteriormente regressaram, total ou parcialmente, à posse dos seus titulares, não serão de liquidar quaisquer contribuições ou impostos relativos aos anos económicos em que se compreendeu o período em que esses prédios ou bens se mantiveram naquela situação, anulando-se oficiosamente as contribuições e impostos já liquidados e ainda não pagos à data da publicação deste diploma.
 
-###### Art. 4.º - 1 - O imposto sobre as sucessões e doações devido e ainda não pago pela transmissão da propriedade plena de bens ocupados ou expropriados ou que o vierem a ser após a transmissão e que posteriormente foram ou vierem a ser devolvidos aos seus proprietários poderá ser pago em 16 prestações semestrais, sem encargo adicional, com observância das disposições aplicáveis do Código da Sisa e do Imposto sobre as Sucessões e Doações.
+Art. 4.º - 1 - O imposto sobre as sucessões e doações devido e ainda não pago pela transmissão da propriedade plena de bens ocupados ou expropriados ou que o vierem a ser após a transmissão e que posteriormente foram ou vierem a ser devolvidos aos seus proprietários poderá ser pago em 16 prestações semestrais, sem encargo adicional, com observância das disposições aplicáveis do Código da Sisa e do Imposto sobre as Sucessões e Doações.
 
 2 - Tratando-se de imposto liquidado em anuidades, não serão de exigir as correspondentes aos prédios e aos anos em que estiveram ocupados ou expropriados, anulando-se as já liquidadas e por pagar.
 
@@ -135,23 +163,23 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 4 - As repartições de finanças anularão oficiosamente os conhecimentos já debitados respeitantes aos bens referidos no n.º 1, processando e debitando, em sua substituição, tantos conhecimentos quantas as prestações em que o imposto deva ser pago.
 
-###### Art. 5.º - 1 - Poderá ser prorrogado, a requerimento dos interessados, até 31 de Dezembro de 1983, o prazo fixado no n.º 1 do artigo 16.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, nos casos em que, após a aquisição dos prédios para revenda e no decurso do prazo fixado naquele preceito, se tenha verificado, relativamente às empresas adquirentes ou a esses prédios, qualquer das situações a que aludem os artigos 1.º e 3.º, contanto que não esteja paga a sisa à data da publicação deste diploma, quando esta devesse ser liquidada posteriormente à aquisição dos prédios.
+Art. 5.º - 1 - Poderá ser prorrogado, a requerimento dos interessados, até 31 de Dezembro de 1983, o prazo fixado no n.º 1 do artigo 16.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, nos casos em que, após a aquisição dos prédios para revenda e no decurso do prazo fixado naquele preceito, se tenha verificado, relativamente às empresas adquirentes ou a esses prédios, qualquer das situações a que aludem os artigos 1.º e 3.º, contanto que não esteja paga a sisa à data da publicação deste diploma, quando esta devesse ser liquidada posteriormente à aquisição dos prédios.
 
 2 - Poderão ser arquivados ou anulados, a solicitação dos interessados feita no requerimento a que alude o número anterior, devidamente informado pelo serviço de fiscalização tributária, os processos pendentes ou as liquidações consequentes da aplicação do disposto no artigo 16.º, n.º 1, do Código da Sisa e do Imposto sobre as Sucessões e Doações a situações ainda não regularizadas à data da publicação deste diploma pelas empresas referidas no artigo 1.º
 
 3 - O requerimento a que se refere o n.º 1 será dirigido ao Ministro de Estado e das Finanças e do Plano, deverá identificar as liquidações ou os processos e ser apresentado no prazo de 90 dias a contar da data da publicação deste diploma.
 
-###### Art. 6.º - 1 - Os promitentes-compradores de prédios ou suas fracções autónomas de que sejam promitentes-vendedores empresas que tenham estado ou estejam nas condições mencionadas no artigo 1.º, que não tenham pago ainda a sisa, quando devida, poderão regularizar a sua situação tributária, sem quaisquer encargos ou sanções, no prazo de 90 dias a contar da data da publicação deste diploma.
+Art. 6.º - 1 - Os promitentes-compradores de prédios ou suas fracções autónomas de que sejam promitentes-vendedores empresas que tenham estado ou estejam nas condições mencionadas no artigo 1.º, que não tenham pago ainda a sisa, quando devida, poderão regularizar a sua situação tributária, sem quaisquer encargos ou sanções, no prazo de 90 dias a contar da data da publicação deste diploma.
 
 2 - Existindo processos de transgressão ou de execução pendentes, serão estes arquivados a requerimento dos interessados, a apresentar no prazo de 30 dias após o pagamento da sisa no prazo referido no n.º 1.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto no artigo 5.º, nos casos de isenção ou redução da taxa de contribuições ou impostos subordinados à verificação de ulterior condicionalismo que, em razão de situações especiais derivadas dos acontecimentos económico-sociais dos últimos anos, não pôde ser satisfeito até 31 de Dezembro de 1981, poderá o Ministro de Estado e das Finanças e do Plano prorrogar o prazo para satisfação desse condicionalismo.
+Art. 7.º - 1 - Sem prejuízo do disposto no artigo 5.º, nos casos de isenção ou redução da taxa de contribuições ou impostos subordinados à verificação de ulterior condicionalismo que, em razão de situações especiais derivadas dos acontecimentos económico-sociais dos últimos anos, não pôde ser satisfeito até 31 de Dezembro de 1981, poderá o Ministro de Estado e das Finanças e do Plano prorrogar o prazo para satisfação desse condicionalismo.
 
 2 - A prorrogação a que se refere o número anterior depende da apresentação de requerimento no prazo de 90 dias a contar da data da publicação deste diploma, sob pena da imediata liquidação nos termos gerais das contribuições ou impostos e demais imposições que se mostrarem devidas.
 
 3 - Concedida a prorrogação nos termos deste artigo, serão arquivados quaisquer processos em que estejam a ser exigidas as respectivas contribuições ou impostos.
 
-###### Art. 8.º - 1 - Poderão ser suspensas as liquidações do imposto de capitais, secção A, respeitante a créditos não litigiosos sobre empresas que tenham estado em qualquer das situações referidas no artigo 1.º ou sobre contribuintes cujos bens tenham estado nas situações mencionadas no artigo 3.º, desde que tais créditos sejam anteriores ao início daquelas situações.
+Art. 8.º - 1 - Poderão ser suspensas as liquidações do imposto de capitais, secção A, respeitante a créditos não litigiosos sobre empresas que tenham estado em qualquer das situações referidas no artigo 1.º ou sobre contribuintes cujos bens tenham estado nas situações mencionadas no artigo 3.º, desde que tais créditos sejam anteriores ao início daquelas situações.
 
 2 - A suspensão a que se refere o n.º 1 será requerida pelos interessados ao chefe da respectiva repartição de finanças no prazo de 90 dias a contar da data da publicação deste diploma, devendo a petição ser acompanhada de documento comprovativo da subsistência da dívida e de que não foram pagos juros e, bem assim, da data em que ocorreram os factos mencionados nos artigos 1.º e 3.º
 
@@ -163,26 +191,26 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 6 - Concedida a suspensão a que se refere este artigo, o chefe da repartição de finanças averbará a mesma no verbete de lançamento e anulará oficiosamente o imposto já liquidado e ainda não pago.
 
-###### Art. 9.º - 1 - As empresas referidas no n.º 1 do artigo 1.º poderão requerer a suspensão dos processos de execução fiscal em curso por dívidas de natureza parafiscal desde que lhes haja sido concedido pela entidade exequente esquema especial de pagamento, nos termos da legislação aplicável.
+Art. 9.º - 1 - As empresas referidas no n.º 1 do artigo 1.º poderão requerer a suspensão dos processos de execução fiscal em curso por dívidas de natureza parafiscal desde que lhes haja sido concedido pela entidade exequente esquema especial de pagamento, nos termos da legislação aplicável.
 
 2 - A suspensão a que se refere o n.º 1 deverá ser requerida ao chefe da respectiva repartição de finanças ou ao tribunal por onde corre o processo executivo no prazo de 90 dias a contar da data da publicação deste diploma ou da data da concessão do esquema especial de pagamento, devendo a petição ser acompanhada do respectivo documento comprovativo.
 
 3 - A suspensão do processo perdurará pelo prazo de pagamento concedido, sem prejuízo do seu prosseguimento ou arquivo a todo o tempo, a pedido da entidade exequente, não sendo, neste último caso, devidas custas.
 
-###### Art. 10.º O Ministro de Estado e das Finanças e do Plano, ouvida a Direcção-Geral das Contribuições e Impostos, poderá autorizar, a requerimento, as empresas a que se refere o artigo 1.º, pertencentes ao grupo A da contribuição industrial, a deduzir, quando e na parte em que o não tenham sido ainda, os prejuízos acumulados a partir do exercício de 1975 até ao termo do segundo exercício imediato ao da cessação das situações mencionadas naquele artigo nos lucros tributáveis, havendo-os, de um ou mais dos 5 anos posteriores ao termo deste último exercício.
+Art. 10.º O Ministro de Estado e das Finanças e do Plano, ouvida a Direcção-Geral das Contribuições e Impostos, poderá autorizar, a requerimento, as empresas a que se refere o artigo 1.º, pertencentes ao grupo A da contribuição industrial, a deduzir, quando e na parte em que o não tenham sido ainda, os prejuízos acumulados a partir do exercício de 1975 até ao termo do segundo exercício imediato ao da cessação das situações mencionadas naquele artigo nos lucros tributáveis, havendo-os, de um ou mais dos 5 anos posteriores ao termo deste último exercício.
 
-###### Art. 11.º A apresentação dos requerimentos solicitando a aplicação das disposições deste diploma suspende os prazos de caducidade e de prescrição das contribuições ou impostos a que respeitam e, bem assim, das dívidas parafiscais.
+Art. 11.º A apresentação dos requerimentos solicitando a aplicação das disposições deste diploma suspende os prazos de caducidade e de prescrição das contribuições ou impostos a que respeitam e, bem assim, das dívidas parafiscais.
 
-###### Art. 12.º - 1 - Independentemente dos requisitos expressamente mencionados nos artigos anteriores, deverão os requerimentos, além de devidamente fundamentados, ser acompanhados, sempre que possível, de documentos comprovativos dos factos alegados.
+Art. 12.º - 1 - Independentemente dos requisitos expressamente mencionados nos artigos anteriores, deverão os requerimentos, além de devidamente fundamentados, ser acompanhados, sempre que possível, de documentos comprovativos dos factos alegados.
 
 2 - Os serviços de fiscalização tributária prestarão, sempre que necessário, informação sobre os pedidos.
 
-###### Art. 13.º Pelas infracções fiscais ocorridas desde o início da ocupação, autogestão ou intervenção estatal nas empresas a que se refere o artigo 1.º e até 31 de Dezembro de 1981 não poderão ser aplicadas quaisquer penalidades, não sendo de exigir as multas e custas ainda não pagas, desde que, sendo caso disso, as empresas tenham aproveitado e cumprido pontualmente as condições deste diploma.
+Art. 13.º Pelas infracções fiscais ocorridas desde o início da ocupação, autogestão ou intervenção estatal nas empresas a que se refere o artigo 1.º e até 31 de Dezembro de 1981 não poderão ser aplicadas quaisquer penalidades, não sendo de exigir as multas e custas ainda não pagas, desde que, sendo caso disso, as empresas tenham aproveitado e cumprido pontualmente as condições deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 6 de Janeiro de 1983.**
+Promulgado em 6 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

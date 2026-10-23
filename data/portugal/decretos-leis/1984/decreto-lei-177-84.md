@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12100/16871690.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1984-384471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54a78a17e55f17446679eae4138bc7ed4035dd40cc671376c2335c4d16277c59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9811418bdbd492a9c48528e624b999fe6931c1f69847f3bf459a062ce86ab42b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Extinção de Serviços
+- Fundo de Apoio ao Investimento para a Habitação
+- Habitação
+- Instituto Nacional de Habitação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL DE 08-JUN DR.IS [150]2SUPL DE 30/JUN/1984\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-06-30'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Determinada a reestruturação do Instituto Nacional da Habitação, criado no presente diploma e cuja orgância consta\
+    \ do Dec Lei 202-B/86 de 22-Jul, pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, nos termos do respectivo\
+    \ art. 29º, passando a designar-se Instituto da Habitação e da Reabilitação Urbana\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:391874:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275416:por
+  label: Rectificado pela DECL.DD4994.08.06.1984.PCM, DR.IS [150-2SUPL] de 30.06.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275416
+  date: '1984-06-08'
+- type: repealed_by
+  target: pt:dre:313416:por
+  label: "Revogado pelo DEC LEI.202-B/86.22.07.1986.MOPTC, DR.IS [166]Supl de 22.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-b-1986-313416
+  date: '1986-07-22'
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:32Z'
   warnings: []
   errors: []
 ---
@@ -346,12 +378,12 @@ A estrutura orgânica, quadro, regime de pessoal e regras de integração serão
 
 Visto e aprovado em Conselho de Ministros de 10 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - João Rosado Correia.
 
-**Promulgado em 16 de Maio de 1984.**
+Promulgado em 16 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Maio de 1984.**
+Referendado em 22 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15000/17891789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1985-182845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ccc05fd0a364545d85a14b9a8a6e1082b57690ed80d76e8fad6a163405e9836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f824183f39a7282ba3355c8cb0df13611167a585929220a231ee190bd71d4ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Força Aérea
+- Forças Armadas
+- Graduação Militar
+- Militar
+- Quadro Permanente do Exército
+- Reserva
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568500:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:24Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +122,19 @@ Considerando as razões que determinaram a publicação dos Decretos-Leis n.os [
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 2.º do [Decreto-Lei n.º 492/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1980-462441), de 18 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 2.º do [Decreto-Lei n.º 492/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1980-462441), de 18 de Outubro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Os primeiros-cabos readmitidos do Exército, na situação de activo, que, nos termos do artigo 1.º do [Decreto-Lei n.º 626/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1975-310473), de 13 de Novembro, foram graduados em furriéis dos quadros permanentes são, excepcionalmente, promovidos a este posto no dia anterior àquele em que transitem:
+Artigo 1.º Os primeiros-cabos readmitidos do Exército, na situação de activo, que, nos termos do artigo 1.º do [Decreto-Lei n.º 626/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1975-310473), de 13 de Novembro, foram graduados em furriéis dos quadros permanentes são, excepcionalmente, promovidos a este posto no dia anterior àquele em que transitem:
 
 a) Para a situação de reserva, ao abrigo do disposto nos n.os 1.º, 2.º e 4.º da alínea b), no n.º 4.º da alínea c) e na alínea d) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 514/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1979-365764), de 28 de Dezembro;
 
 b) Para a situação de reforma, ao abrigo do disposto nos n.os 1.º e 4.º da alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 514/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1979-365764), de 28 de Dezembro.
 
-###### Art. 2.º Os militares abrangidos pelas alíneas do artigo anterior passam à situação de reserva ou de reforma, respectivamente, no dia imediato ao da sua promoção ao posto de furriel do quadro permanente.
+Art. 2.º Os militares abrangidos pelas alíneas do artigo anterior passam à situação de reserva ou de reforma, respectivamente, no dia imediato ao da sua promoção ao posto de furriel do quadro permanente.
 
-###### Art. 2.º O artigo 2.º do [Decreto-Lei n.º 314/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1981-568500), de 20 de Novembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 2.º do [Decreto-Lei n.º 314/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1981-568500), de 20 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 2.º Os militares graduados em furriel nos termos do artigo 1.º serão promovidos a este posto no dia anterior àquele em que transitem:
+Art. 2.º Os militares graduados em furriel nos termos do artigo 1.º serão promovidos a este posto no dia anterior àquele em que transitem:
 
 a) Para a situação de reserva, ao abrigo do disposto nos n.os 1.º, 2.º e 4.º da alínea b), no n.º 4.º da alínea c) e na alínea d) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 514/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1979-365764), de 28 de Dezembro;
 
@@ -114,12 +142,12 @@ b) Para a situação de reforma, ao abrigo do disposto nos n.os 1.º e 4.º da a
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 18 de Junho de 1985.**
+Promulgado em 18 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Junho de 1985.**
+Referendado em 20 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

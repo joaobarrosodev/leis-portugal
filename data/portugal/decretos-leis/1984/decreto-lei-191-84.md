@@ -48,40 +48,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 124a82f738beef6f07eb1fea2264e2d9e77d975fe3871e99a8402e3faf1c7ecd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12d54201d93c48e4817254befdd1c3e1ae584afb015c88c3e75bee9fd3d7fe39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Pessoal Militarizado
+- Quadro de Pessoal
+- Serviços de Polícia e dos Transportes da Marinha
 relationships:
 - type: amended_by
   target: pt:dre:907287351:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615458:por
+  label: Alterado o artigo 19.º do Dec Lei 282/76 de 20-Abr, na redacção do presente diploma, pelo DEC LEI.107/89.13.04.1989.MDN,
+    DR.IS [86] de 13.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1989-615458
+  date: '1989-04-13'
+- type: cites
+  target: pt:dre:161891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534615:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:46Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +146,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 2.º, o artigo 7.º, os n.os 1, 3 e 4 do artigo 9.º, os n.os 1, 4 e 5 do artigo 10.º, o n.º 3 do artigo 11.º, o n.º 2 e a alínea c) do n.º 3 do artigo 18.º, o artigo 19.º e o n.º 2 do artigo 28.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 2.º, o artigo 7.º, os n.os 1, 3 e 4 do artigo 9.º, os n.os 1, 4 e 5 do artigo 10.º, o n.º 3 do artigo 11.º, o n.º 2 e a alínea c) do n.º 3 do artigo 18.º, o artigo 19.º e o n.º 2 do artigo 28.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - O QPMM compreende o pessoal pertencente aos seguintes grupos:
+Art. 2.º - 1 - O QPMM compreende o pessoal pertencente aos seguintes grupos:
 
 a) Grupo 1 - Polícia Marítima;
 
@@ -122,13 +164,13 @@ f) Grupo 6 - Faroleiros.
 
 ...
 
-###### Art. 7.º - 1 - A administração do pessoal do QPMM compete à Direcção do Serviço do Pessoal, designadamente no que respeita a admissão, promoção, movimento e registo.
+Art. 7.º - 1 - A administração do pessoal do QPMM compete à Direcção do Serviço do Pessoal, designadamente no que respeita a admissão, promoção, movimento e registo.
 
 2 - Compete à mesma Direcção distribuir aquele pessoal pelos organismos da Marinha, de acordo com as lotações que forem estabelecidas por despacho do Chefe do Estado-Maior da Armada.
 
 ...
 
-###### Art. 9.º - 1 - O ingresso no grupo 1 - Polícia Marítima efectua-se na categoria de agente de 3.ª classe.
+Art. 9.º - 1 - O ingresso no grupo 1 - Polícia Marítima efectua-se na categoria de agente de 3.ª classe.
 
 2 - ...
 
@@ -140,7 +182,7 @@ f) Grupo 6 - Faroleiros.
 
 6 - ...
 
-###### Art. 10.º - 1 - O ingresso no grupo 2 - Polícia dos Estabelecimentos de Marinha efectua-se na categoria de guarda auxiliar.
+Art. 10.º - 1 - O ingresso no grupo 2 - Polícia dos Estabelecimentos de Marinha efectua-se na categoria de guarda auxiliar.
 
 2 - ...
 
@@ -154,7 +196,7 @@ f) Grupo 6 - Faroleiros.
 
 7 - ...
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - ...
 
@@ -162,7 +204,7 @@ f) Grupo 6 - Faroleiros.
 
 4 - ...
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 2 - O regime de diuturnidades do mesmo pessoal será igual ao estabelecido para o pessoal militar.
 
@@ -174,7 +216,7 @@ b) ...
 
 c) Para os indivíduos oriundos de qualquer dos ramos das Forças Armadas, dos quadros da Polícia de Segurança Pública, Guarda Nacional Republicana e Guarda Fiscal, da função pública e pessoal civil das Forças Armadas e ainda dos quadros do pessoal militarizado dos ramos onde eles existam, a partir da data de ingresso nesses ramos e quadros.
 
-###### Art. 19.º - 1 - O pessoal do QPMM, além dos abonos e subsídios comuns a todos os servidores do Estado, tem direito ainda aos seguintes:
+Art. 19.º - 1 - O pessoal do QPMM, além dos abonos e subsídios comuns a todos os servidores do Estado, tem direito ainda aos seguintes:
 
 a) Suplemento por comissão de serviço militarizado;
 
@@ -222,7 +264,7 @@ Grupo 4 - Troço do mar, quando desempenhado, com carácter permanente, o servi�
 
 11 - O suplemento por comissão de serviço militarizado, o adicional por serviço de policiamento e fiscalização e o suplemento especial de serviço militarizado são considerados no abono dos subsídios de férias e de Natal.
 
-###### Art. 28.º - 1 - ...
+Art. 28.º - 1 - ...
 
 2 - As gratificações de isolamento de que trata o artigo 146.º do Decreto com força de lei n.º 21274, de 16 de Abril de 1932, são acumuláveis e abonadas ao pessoal do grupo 6 - Faroleiros nos seguintes quantitativos:
 
@@ -232,30 +274,30 @@ b) 2000$00 nos faróis ou farolins de 2.ª classe de isolamento;
 
 c) 600$00 nos faróis ou farolins de 3.ª classe de isolamento.
 
-###### Art. 2.º O quadro referido nos artigos 3.º, 4.º e 18.º do diploma que tem vindo a ser referido é alterado de forma a reflectir a nova designação dos grupos do QPMM estabelecidos no artigo 2.º do mesmo diploma.
+Art. 2.º O quadro referido nos artigos 3.º, 4.º e 18.º do diploma que tem vindo a ser referido é alterado de forma a reflectir a nova designação dos grupos do QPMM estabelecidos no artigo 2.º do mesmo diploma.
 
-###### Art. 3.º O artigo 14.º do [Decreto-Lei n.º 49078](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49078-1969-200261), de 25 de Junho de 1969, passa a ter a seguinte redacção:
+Art. 3.º O artigo 14.º do [Decreto-Lei n.º 49078](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49078-1969-200261), de 25 de Junho de 1969, passa a ter a seguinte redacção:
 
-###### Art. 14.º Para assegurar o cumprimento das leis e dos regulamentos marítimos e o policiamento geral nas áreas de jurisdição marítima, nos seus aspectos preventivos e repressivos, incluindo a investigação dos crimes sob a alçada do Código Penal e Disciplinar da Marinha Mercante, e, nos termos do Contencioso Aduaneiro, a repressão do contrabando, as capitanias dos portos dispõem do pessoal do grupo 1 do quadro do pessoal militarizado da Marinha.
+Art. 14.º Para assegurar o cumprimento das leis e dos regulamentos marítimos e o policiamento geral nas áreas de jurisdição marítima, nos seus aspectos preventivos e repressivos, incluindo a investigação dos crimes sob a alçada do Código Penal e Disciplinar da Marinha Mercante, e, nos termos do Contencioso Aduaneiro, a repressão do contrabando, as capitanias dos portos dispõem do pessoal do grupo 1 do quadro do pessoal militarizado da Marinha.
 
-###### Art. 4.º Todas as disposições legais respeitantes ao Corpo de Polícia Marítima, designadamente as que constam do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, que sejam incompatíveis com o preceituado no artigo 2.º consideram-se prejudicadas.
+Art. 4.º Todas as disposições legais respeitantes ao Corpo de Polícia Marítima, designadamente as que constam do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, que sejam incompatíveis com o preceituado no artigo 2.º consideram-se prejudicadas.
 
-###### Art. 5.º É revogado o [Decreto n.º 172/71](https://diariodarepublica.pt/dr/detalhe/decreto/172-1971-444702), de 28 de Abril.
+Art. 5.º É revogado o [Decreto n.º 172/71](https://diariodarepublica.pt/dr/detalhe/decreto/172-1971-444702), de 28 de Abril.
 
-###### Art. 6.º As alterações introduzidas pelo presente diploma vigoram a partir do dia 1 de Janeiro de 1984.
+Art. 6.º As alterações introduzidas pelo presente diploma vigoram a partir do dia 1 de Janeiro de 1984.
 
-###### Art. 7.º O disposto no presente diploma não prejudica a aplicação dos resultados, de acordo com as respectivas normas, dos concursos actualmente em vigor para preenchimento das vagas que ocorrerem nas categorias a que aqueles concursos respeitam.
+Art. 7.º O disposto no presente diploma não prejudica a aplicação dos resultados, de acordo com as respectivas normas, dos concursos actualmente em vigor para preenchimento das vagas que ocorrerem nas categorias a que aqueles concursos respeitam.
 
-###### Art. 8.º Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para execução do presente diploma, os encargos são satisfeitos, no corrente ano, pelas verbas orçamentais consignadas a pessoal, que, para o efeito, serão consideradas dotações globais.
+Art. 8.º Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para execução do presente diploma, os encargos são satisfeitos, no corrente ano, pelas verbas orçamentais consignadas a pessoal, que, para o efeito, serão consideradas dotações globais.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1984. - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 28 de Maio de 1984.**
+Promulgado em 28 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Maio de 1984.**
+Referendado em 31 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

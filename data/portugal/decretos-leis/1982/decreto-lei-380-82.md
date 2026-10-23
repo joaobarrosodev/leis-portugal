@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1982-375800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9ea6985d9e42477caded36fe03814c76315fbebca72e4ef8897694113e56223
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b51dd7019878bb790416107b8716aa68ec60ad40a280708d3c295d99921223f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Forças Armadas
+- Pessoal Civil
+- Serviços Departamentais das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:400445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:678219:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:243570:por
+  label: Rectificado pela DECL.DD2198.1982.10.14.CR DR.IS [251]4ºSupl de 29/Out/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-243570
+  date: '1982-10-14'
 article_structure:
-  article_count: 121
+  article_count: 120
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:56Z'
   warnings: []
   errors: []
 ---
@@ -104,17 +117,17 @@ De facto, enquanto um, o pessoal civil dos estabelecimentos fabris - e não só 
 
 7. O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado, em anexo a este decreto-lei, do qual faz parte integrante, o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas.
+Artigo 1.º É aprovado, em anexo a este decreto-lei, do qual faz parte integrante, o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas.
 
 Art.º 2.º É revogado o [Decreto-Lei n.º 33/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1980-678219), de 13 de Março, no respeitante ao Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas.
 
 Visto e aprovado em Conselho da Revolução em 20 de Julho de 1982.
 
-**Promulgado em 11 de Agosto de 1982.**
+Promulgado em 11 de Agosto de 1982.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DO PESSOAL CIVIL DOS SERVIÇOS DEPARTAMENTAIS DAS FORÇAS ARMADAS
 

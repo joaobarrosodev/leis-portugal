@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 210/1986, 2º Suplemento, Série I de 1986-09-12
   number: '210'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2546-(6) a 2546-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21002/00060009.pdf
 entry_into_force_dates: []
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-a-1986-587622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29994cec02e1551d2cfc5ed0be7e46956cd2450cbf4517a2d9d81f5110654709
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6c05f3cfcf1d92e14a52346ecae9e48aecc42a4c80c8ced1fce88e8a9f409a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa de Silos Portuários
+- EPAC
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:692200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221105:por
+  label: "Suspensa, até à publicação da lei que o alterará ou até à rejeição de todas as propostas de alteração apresentadas,\
+    \ a vigência do presente diploma pela RES.27/86.04.11.1986.AR, DR.IS [254] de 04.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/27-1986-221105
+  date: '1986-11-04'
+- type: amended_by
+  target: pt:dre:420029:por
+  label: "Alterados os nºs 1 e 3 do art. 1º, os nºs 1, 6 e 7 do art. 2º, o nº 1 do art. 3º, o art. 4º e o nº 3 do art. 10º\
+    \ (novo art. 9º), - o anterior nº 7 do art. 2º passa a nº 8- aditado ao art. 2º um nº 9- eliminado o art. 5º passando\
+    \ os arts. 6º, 7º, 8º, 9º, 10º e 11º a constituir respectivamente os arts. 5º, 6º, 7º, 8º, 9º e 10º- aditados os arts.\
+    \ 11º e 12º- alterados os arts. 1º e 4º e o nº 6 do art. 7º (novo art. 6º) dos estatutos- suprimido o art. 5º, passando\
+    \ os arts. 6º a 21º a constituir os arts. 5º a 20º dos estatutos - a referência feita no art.18º (novo art. 17º) ao art.\
+    \ 14º dos estatutos entender-se-á como referente ao art.13º pela LEI.32/87.1987.07.10.AR, DR.IS [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-1987-420029
+  date: '1987-07-10'
+- type: amended_by
+  target: pt:dre:354087:por
+  label: "Alterados os arts. 2º, 3º e 4º, pelo DEC LEI.376/88.1988.10.21.DR.IS [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1988-354087
+  date: '1988-10-21'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a Empresa de Silos Portuários, S.A., criada no presente\
+    \ diploma, pelo DEC LEI.474-A/99.08.11.1999.PCM, DR.IS-A [260]Supl de 08.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: cites
+  target: pt:dre:429776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:05Z'
   warnings: []
   errors: []
 ---
@@ -109,13 +147,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada uma sociedade anónima de responsabilidade limitada com a designação de SILOPOR - Empresa de Silos Portuários, S. A. R. L., abreviadamente designada por SILOPOR.
+Artigo 1.º - 1 - É criada uma sociedade anónima de responsabilidade limitada com a designação de SILOPOR - Empresa de Silos Portuários, S. A. R. L., abreviadamente designada por SILOPOR.
 
 2 - A constituição da sociedade mencionada no número anterior resulta de uma cisão operada na Empresa Pública do Abastecimento de Cereais (EPAC), criada pelo [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776), de 4 de Agosto, e produz-se nos termos dos n.os 2 e 3 do artigo 40.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e demais legislação aplicável.
 
 3 - A SILOPOR é uma sociedade de capitais maioritariamente públicos que se rege pelo presente diploma legal, pelos seus estatutos e pela legislação aplicável às sociedades anónimas de responsabilidade limitada.
 
-###### Art. 2.º - 1 - Do património imobiliário e mobiliário da EPAC é destacado o acervo de bens a seguir indicados, que passará a constituir património da nova sociedade:
+Art. 2.º - 1 - Do património imobiliário e mobiliário da EPAC é destacado o acervo de bens a seguir indicados, que passará a constituir património da nova sociedade:
 
 a) O terminal portuário da Trafaria;
 
@@ -139,11 +177,11 @@ e) Edifício Conde Valbon, sito em Lisboa.
 
 7 - A EPAC e a SILOPOR celebrarão um acordo onde se estabeleça a composição, categorias e funções do pessoal ao serviço da primeira e que integrará o quadro do pessoal da nova sociedade, sem prejuízo da natureza do vínculo laboral e garantindo-se os direitos e regalias adquiridos pelos trabalhadores.
 
-###### Art. 3.º - 1 - A SILOPOR terá inicialmente um capital social de 3500000 contos, integralmente subscrito e realizado pelo Estado, obtido mediante destaque do capital social da EPAC.
+Art. 3.º - 1 - A SILOPOR terá inicialmente um capital social de 3500000 contos, integralmente subscrito e realizado pelo Estado, obtido mediante destaque do capital social da EPAC.
 
 2 - As acções representativas do capital subscrito pelo Estado permanecerão na titularidade da Direcção-Geral do Tesouro, mas os direitos sociais do Estado como accionista e nomeadamente a sua representação em assembleia geral serão exercidos por quem for designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 4.º - 1 - O capital social será, em qualquer momento, representado por acções de tipo A e de tipo B, com as seguintes características:
+Art. 4.º - 1 - O capital social será, em qualquer momento, representado por acções de tipo A e de tipo B, com as seguintes características:
 
 a) As acções de tipo A serão nominativas e só podem pertencer ou ser subscritas pelo Estado, pessoas colectivas de direito público, empresas públicas e sociedades que por determinação legal pertençam ao sector público;
 
@@ -155,11 +193,11 @@ b) As acções de tipo B serão nominativas ou ao portador, podendo pertencer ou
 
 4 - As acções são livremente transferíveis entre as entidades a quem puderem pertencer.
 
-###### Art. 5.º - 1 - A maioria absoluta do capital social e dos votos emergentes das acções emitidas deve sempre pertencer aos titulares de acções de tipo A.
+Art. 5.º - 1 - A maioria absoluta do capital social e dos votos emergentes das acções emitidas deve sempre pertencer aos titulares de acções de tipo A.
 
 2 - A designação dos titulares dos órgãos sociais cabe sempre à maioria dos votos expressos em assembleia geral, sendo no entanto permitidas cláusulas estatutárias que reservem a designação de uma minoria desses titulares aos possuidores de acções de tipo B.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos sócios, o conselho de administração enviará aos Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos quinze dias antes da data da assembleia geral, a quem cabe a apreciação:
+Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos sócios, o conselho de administração enviará aos Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos quinze dias antes da data da assembleia geral, a quem cabe a apreciação:
 
 a) O relatório e contas com apreciação da forma como foram executados os orçamentos anuais aprovados;
 
@@ -169,15 +207,15 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 3 - Os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações definirão por despacho as regras a aplicar para efeitos do disposto nos números anteriores.
 
-###### Art. 7.º A SILOPOR fica autorizada a proceder imediatamente à constituição das reservas de reavaliação de activos corpóreos correspondentes aos exercícios em que a EPAC, podendo fazê-lo, não exerceu tal direito, no relativo aos bens destacados para o património da SILOPOR, e a incorporar tais resmas no seu capital social.
+Art. 7.º A SILOPOR fica autorizada a proceder imediatamente à constituição das reservas de reavaliação de activos corpóreos correspondentes aos exercícios em que a EPAC, podendo fazê-lo, não exerceu tal direito, no relativo aos bens destacados para o património da SILOPOR, e a incorporar tais resmas no seu capital social.
 
-###### Art. 8.º - 1 - Aplica-se à SILOPOR o disposto no artigo 5.º do [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776), de 4 de Agosto.
+Art. 8.º - 1 - Aplica-se à SILOPOR o disposto no artigo 5.º do [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776), de 4 de Agosto.
 
 2 - É concedida à nova sociedade isenção total do pagamento dos impostos e outras imposições legais que forem devidos pelos actos de constituição e transmissão do património e respectivos registos, em aplicação do disposto no presente diploma legal.
 
 3 - O presente diploma é título bastante para a comprovação do previsto no artigo 2.º para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser feitos pelas repartições competentes com base em simples comunicação subscrita por dois membros do conselho de administração da SILOPOR, confirmada por despacho conjunto dos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 9.º - 1 - A SILOPOR terá como órgãos a assembleia geral, o conselho de administração e o conselho fiscal, com composição e competências fixadas nos estatutos.
+Art. 9.º - 1 - A SILOPOR terá como órgãos a assembleia geral, o conselho de administração e o conselho fiscal, com composição e competências fixadas nos estatutos.
 
 2 - No entanto, constituirão sempre competência da assembleia geral:
 
@@ -191,45 +229,45 @@ d) Autorizar a prossecução de actividades que não se compreendam no objecto p
 
 e) Deliberar sobre aquisição e alienação de participações sociais.
 
-###### Art. 10.º São aprovados os estatutos da SILOPOR anexos, que se consideram parte integrante deste diploma.
+Art. 10.º São aprovados os estatutos da SILOPOR anexos, que se consideram parte integrante deste diploma.
 
 2 - Os presentes estatutos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
 3 - As eventuais alterações aos presentes estatutos poderão ser efectuadas de harmonia com as disposições aplicáveis da lei comercial e dos próprios estatutos e produzirão todos os seus efeitos, independentemente da forma legislativa, desde que não contradigam o disposto nos artigos deste decreto-lei, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
-###### Art. 11.º - 1 - A cisão determinada pelo presente diploma produz os seus efeitos na data da entrada em vigor do mesmo.
+Art. 11.º - 1 - A cisão determinada pelo presente diploma produz os seus efeitos na data da entrada em vigor do mesmo.
 
 2 - Fica desde já convocada a assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração, que reunirá cinco dias após a data da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 1986. - Eurico Silva Teixeira de Melo - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins - Rui Carlos Alvarez Carp - José Augusto Sacadura Garcia Marques - António Amaro de Matos.
 
-**Promulgado em 8 de Setembro de 1986.**
+Promulgado em 8 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da SILOPOR - Empresa de Silos Portuários, S. A. R. L.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação SILOPOR - Empresa de Silos Portuários, S. A. R. L., abreviadamente designada por SILOPOR.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação SILOPOR - Empresa de Silos Portuários, S. A. R. L., abreviadamente designada por SILOPOR.
 
-###### Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa.
+Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa.
 
 2 - Por deliberação do conselho de administração pode a sociedade criar e manter em qualquer ponto do território nacional ou fora dele agências, delegações ou qualquer forma de representação.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto principal a prestação de serviços de recepção, movimentação, armazenagem, expedição e transporte de matérias-primas alimentares e produtos conexos, mediante a utilização das suas infra-estruturas de armazenagem, aos operadores comerciais inseridos no seu ramo de actividade.
+Art. 3.º - 1 - A sociedade tem por objecto principal a prestação de serviços de recepção, movimentação, armazenagem, expedição e transporte de matérias-primas alimentares e produtos conexos, mediante a utilização das suas infra-estruturas de armazenagem, aos operadores comerciais inseridos no seu ramo de actividade.
 
 2 - A sociedade pode prosseguir quaisquer outras actividades complementares ou subsidiárias que se relacionem com a prossecução do seu fim principal desde que para o efeito a assembleia geral haja dado o seu assentimento.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social será, em qualquer momento, representado por acções de tipo A e de tipo B, com as seguintes características:
+Art. 4.º - 1 - O capital social será, em qualquer momento, representado por acções de tipo A e de tipo B, com as seguintes características:
 
 a) As acções de tipo A serão nominativas e só podem pertencer ou ser subscritas pelo Estado, pessoas colectivas de direito público, empresas públicas e sociedades que por determinação legal pertençam ao sector público;
 
@@ -241,7 +279,7 @@ b) As acções de tipo B serão nominativas ou ao portador, podendo pertencer ou
 
 4 - As acções são livremente transferíveis entre as entidades a quem puderem pertencer.
 
-###### Art. 5.º - 1 - O capital da sociedade é de 3500 milhões de contos, integralmente subscrito e realizado pelo Estado, obtido mediante destaque do capital social da EPAC - Empresa Pública de Abastecimento de Cereais.
+Art. 5.º - 1 - O capital da sociedade é de 3500 milhões de contos, integralmente subscrito e realizado pelo Estado, obtido mediante destaque do capital social da EPAC - Empresa Pública de Abastecimento de Cereais.
 
 2 - O capital está representado por 3500000 acções nominativas, com o valor nominal de 1000$00 cada uma, todas pertencentes ao Estado, sendo 1785000 acções de tipo A e 1715000 acções de tipo B.
 
@@ -251,13 +289,13 @@ b) As acções de tipo B serão nominativas ou ao portador, podendo pertencer ou
 
 5 - As acções que vierem a ser emitidas em aumentos de capital da sociedade serão de tipo A e de tipo B, na proporção que se acha definida no n.º 2.
 
-###### Art. 6.º - 1 - A sociedade pode emitir, interna ou externamente, obrigações e outros títulos de dívida, nos termos da legislação aplicável.
+Art. 6.º - 1 - A sociedade pode emitir, interna ou externamente, obrigações e outros títulos de dívida, nos termos da legislação aplicável.
 
 2 - A sociedade pode emitir avales e prestar garantias.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 7.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 1000 acções corresponde um voto na assembleia geral.
 
@@ -271,7 +309,7 @@ b) As acções de tipo B serão nominativas ou ao portador, podendo pertencer ou
 
 Os restantes accionistas que sejam pessoas colectivas deverão indicar por carta dirigida ao presidente da mesa quem os representará na assembleia geral.
 
-###### Art. 8.º Compete à assembleia geral:
+Art. 8.º Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e decidir sobre a aplicação dos resultados do exercício;
 
@@ -293,19 +331,19 @@ i) Autorizar a celebração de contratos envolvendo despesa cujo valor exceda 20
 
 j) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 9.º - 1 - A assembleia geral será convocada e dirigida pela respectiva mesa, composta por um presidente, um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
+Art. 9.º - 1 - A assembleia geral será convocada e dirigida pela respectiva mesa, composta por um presidente, um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com uma antecedência mínima de quinze dias, com indicação expressa dos assuntos a tratar.
 
 3 - O mandato dos membros da mesa da assembleia geral é renovável.
 
-###### Art. 10.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julgarem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 20% capital.
+Art. 10.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julgarem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 20% capital.
 
-###### Art. 11.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.
+Art. 11.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
-###### Art. 12.º - 1 - Ao conselho de administração compete:
+Art. 12.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -327,7 +365,7 @@ i) Constituir mandatários com os poderes que julgue conveniente.
 
 2 - O conselho de administração poderá delegar numa comissão executiva constituída por alguns dos seus membros algum ou alguns dos poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Coordenar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões;
 
@@ -337,11 +375,11 @@ c) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 14.º - 1 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros.
+Art. 14.º - 1 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros.
 
 2 - As deliberações do conselho de administração constarão sempre de acta e serão tomadas por maioria dos votos presentes, tendo o presidente ou quem legalmente o substitui voto de qualidade.
 
-###### Art. 15.º - 1 - A sociedade obriga-se:
+Art. 15.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -349,7 +387,7 @@ b) Pela assinatura dos mandatários constituídos, no âmbito do correspondente 
 
 2 - Em assuntos de mero expediente bastará a assinatura de um administrador.
 
-###### Art. 16.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
+Art. 16.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos será revisor oficial de contas.
 
@@ -357,7 +395,7 @@ b) Pela assinatura dos mandatários constituídos, no âmbito do correspondente 
 
 4 - Por deliberação da assembleia geral poderão as funções do conselho fiscal ser cometidas a uma sociedade revisora de contas.
 
-###### Art. 17.º Compete ao conselho fiscal:
+Art. 17.º Compete ao conselho fiscal:
 
 a) Emitir parecer acerca do relatório e das contas anuais de gerência elaborados pelo conselho de administração;
 
@@ -367,11 +405,11 @@ c) Chamar a atenção do conselho de administração para qualquer assunto que e
 
 d) Assistir, sempre que os seus membros o entendam conveniente, às reuniões do conselho de administração, bem como participar naquelas para que o presidente do conselho de administração o convoque ou em que se apreciem as contas do exercício.
 
-###### Art. 18.º O conselho fiscal reúne obrigatoriamente uma vez por mês e sempre que o seu presidente ou qualquer membro o convoque, sendo-lhe aplicável o artigo 14.º
+Art. 18.º O conselho fiscal reúne obrigatoriamente uma vez por mês e sempre que o seu presidente ou qualquer membro o convoque, sendo-lhe aplicável o artigo 14.º
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 19.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na cobertura de reserva legal prevista no artigo 191.º do Código Comercial e na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado pela assembleia geral com observância dos seguintes critérios:
+Art. 19.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na cobertura de reserva legal prevista no artigo 191.º do Código Comercial e na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado pela assembleia geral com observância dos seguintes critérios:
 
 a) Pelo menos 20% dos resultados serão aplicados na distribuição de dividendos aos accionistas;
 
@@ -379,9 +417,9 @@ b) Até 15% dos resultados serão aplicados como participação nos lucros dos t
 
 ### CAPÍTULO V — Disposições diversas e transitórias
 
-###### Art. 20.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 20.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 21.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 21.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.
 

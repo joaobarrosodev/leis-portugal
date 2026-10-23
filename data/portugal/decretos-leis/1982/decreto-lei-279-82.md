@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16600/21722174.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1982-394127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5d978ebe50484f19921033a9bb001ed65fe5584e4bd96143fef60023e76f2fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d69bc095ce5e9392ade74ca854ad6422a1be18506665fa36a2fbbe63533e0611
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Gestão de Empresas
+- Instituto de Gestão Financeira das Empresas Públicas
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182032:por
+  label: "Extinto o Instituto criado pelo presente diploma, pelo DEC LEI.210/85.1985.06.27.PCM, DR.IS [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1985-182032
+  date: '1985-06-27'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:20Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +126,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 210.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o Instituto de Gestão Financeira das Empresas Públicas, adiante designado como Instituto, dotado de personalidade jurídica e autonomia administrativa e financeira.
+Artigo 1.º É criado o Instituto de Gestão Financeira das Empresas Públicas, adiante designado como Instituto, dotado de personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 2.º - 1 - O Instituto rege-se pelas normas em vigor para os institutos públicos e pelo respectivo estatuto, cujo projecto será elaborado pela comissão instaladora no prazo de 60 dias a partir da data da sua entrada em funções.
+Art. 2.º - 1 - O Instituto rege-se pelas normas em vigor para os institutos públicos e pelo respectivo estatuto, cujo projecto será elaborado pela comissão instaladora no prazo de 60 dias a partir da data da sua entrada em funções.
 
 2 - O Instituto disporá de plena capacidade jurídica para praticar os actos e negócios jurídicos de direito privado necessários à prossecução das suas atribuições.
 
-###### Art. 3.º - 1 - Constitui atribuição genérica do Instituto colaborar no exercício da tutela financeira sobre as empresas públicas nacionalizadas e equiparadas (doravante designadas como empresas públicas), com vista a racionalizar o seu exercício e a optimizar a rentabilidade do sector.
+Art. 3.º - 1 - Constitui atribuição genérica do Instituto colaborar no exercício da tutela financeira sobre as empresas públicas nacionalizadas e equiparadas (doravante designadas como empresas públicas), com vista a racionalizar o seu exercício e a optimizar a rentabilidade do sector.
 
 2 - O Instituto tem como atribuições específicas:
 
@@ -124,7 +142,7 @@ b) Colaborar na definição e implementação de uma política de gestão financ
 
 3 - O Instituto poderá ainda contribuir por quaisquer outros meios de que seja encarregado pelo Governo para assegurar maior rigor e eficiência na gestão das empresas públicas e do próprio sistema, privilegiando a autonomia empresarial e a responsabilidade dos gestores, mas salvaguardando a rentabilidade dos fundos públicos investidos e a coordenação da actividade da empresa com os imperativos do Plano.
 
-###### Art. 4.º - 1 - Com vista ao desempenho das atribuições que lhe são cometidas no quadro definido pelo artigo 3.º será o Instituto mandatado para as seguintes tarefas:
+Art. 4.º - 1 - Com vista ao desempenho das atribuições que lhe são cometidas no quadro definido pelo artigo 3.º será o Instituto mandatado para as seguintes tarefas:
 
 a) Discutir e promover a aprovação dos orçamentos de exploração;
 
@@ -156,15 +174,15 @@ l) Emitir parecer sobre as condições de exercício de funções pelos gestores
 
 5 - Poderão igualmente ser delegados no Instituto poderes de tutela não financeira, no caso de o ministro que exercer a tutela sectorial considerar conveniente tal procedimento.
 
-###### Art. 5.º - 1 - Sem prejuízo das alterações de estruturas que venham a revelar-se necessárias e, nomeadamente, de integração no Instituto de serviços já existentes, serão devidamente articuladas a acção do Instituto com organismos dependentes do Ministério das Finanças e do Plano e com intervenção no mesmo domínio.
+Art. 5.º - 1 - Sem prejuízo das alterações de estruturas que venham a revelar-se necessárias e, nomeadamente, de integração no Instituto de serviços já existentes, serão devidamente articuladas a acção do Instituto com organismos dependentes do Ministério das Finanças e do Plano e com intervenção no mesmo domínio.
 
 2 - As informações prestadas regularmente pelas comissões de fiscalização das empresas públicas ao Ministério das Finanças e do Plano poderão ser prestadas directamente ao Instituto.
 
-###### Art. 6.º Os órgãos de gestão, o quadro e o regime jurídico do pessoal serão definidos pelo estatuto.
+Art. 6.º Os órgãos de gestão, o quadro e o regime jurídico do pessoal serão definidos pelo estatuto.
 
-###### Art. 7.º O Instituto é criado na dependência orgânica directa do Ministro de Estado e das Finanças e do Plano, sem prejuízo da dependência funcional emergente dos mandatos e delegações de poderes que lhe sejam conferidos.
+Art. 7.º O Instituto é criado na dependência orgânica directa do Ministro de Estado e das Finanças e do Plano, sem prejuízo da dependência funcional emergente dos mandatos e delegações de poderes que lhe sejam conferidos.
 
-###### Art. 8.º Constituem receitas do Instituto:
+Art. 8.º Constituem receitas do Instituto:
 
 a) As comissões pagas pelas empresas submetidas ao controle de gestão do Instituto, calculadas através da aplicação de uma taxa a definir anualmente por despacho do Ministro de Estado e das Finanças e do Plano, sobre proposta do Instituto, em função da dimensão das empresas ou do seu volume de actividade;
 
@@ -172,7 +190,7 @@ b) As dotações do OGE que eventualmente venham a ser inscritas a favor do Inst
 
 c) Os rendimentos provenientes da aplicação das suas disponibilidades.
 
-###### Art. 9.º - 1 - É criada a comissão instaladora do Instituto, composta por 1 presidente, 1 vice-presidente e 3 vogais, nomeados pelo Conselho de Ministros, sob proposta do Ministro de Estado e das Finanças e do Plano, a quem cabe:
+Art. 9.º - 1 - É criada a comissão instaladora do Instituto, composta por 1 presidente, 1 vice-presidente e 3 vogais, nomeados pelo Conselho de Ministros, sob proposta do Ministro de Estado e das Finanças e do Plano, a quem cabe:
 
 a) Submeter no prazo de 60 dias à aprovação do Governo projecto do estatuto do Instituto;
 
@@ -184,16 +202,16 @@ d) Contratar a execução das tarefas necessárias ao bom desempenho das atribui
 
 2 - Os membros da comissão instaladora poderão exercer o seu cargo em acumulação com outras funções públicas ou com o exercício de funções de gestor público, sendo-lhes atribuída nesse caso uma gratificação a fixar por despacho do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 10.º A comissão funcionará junto do Gabinete do Ministro de Estado e das Finanças e do Plano, a quem competirá assegurar o apoio administrativo e as dotações necessárias.
+Art. 10.º A comissão funcionará junto do Gabinete do Ministro de Estado e das Finanças e do Plano, a quem competirá assegurar o apoio administrativo e as dotações necessárias.
 
-###### Art. 11.º As dúvidas suscitadas pelo presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
+Art. 11.º As dúvidas suscitadas pelo presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 12.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 12.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministro de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 9 de Julho de 1982.**
+Promulgado em 9 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

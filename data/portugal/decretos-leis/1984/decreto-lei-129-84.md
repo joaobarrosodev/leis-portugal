@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09800/14071420.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1984-655081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47a8d3537e638b91cb546b12930793f6c140a264e26aa2367198de80c838ece3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2555deaf52d7544189c4ed589a7ea12d1e8f2fde713870e1a6bfc60669ddfd4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Orgânica
+- Tribunal Administrativo
+- Tribunal Administrativo e Fiscal
+- Tribunal Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:424313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196875:por
+  label: "Alterada al. c) do n.º 1 do art. 32.º, a al. c) do n.º 1 do art. 33.º, a al. b) do n.º 1 do art. 41.º, a al. b)\
+    \ do n.º 1 do art. 42.º, o n.º 1 do art. 46.º, o n.º 2 do art. 60.º, as als. a), b) e c) do n.º 3 do art. 63.º, o n.º\
+    \ 1, do art. 85.º, o n.º 1 do art. 90.º, o n.º 2 do art. 96.º, as als. g), h), i) e j) do n.º 1 e os n.ºs 2, 3 e 4 do\
+    \ art. 99.º, a al. b) do n.º 2 do art. 86.º e a al. d) do n.º 1 do art. 94.º e adita uma al. d1) ao n.º 1 do art. 51.º\
+    \ e, incisos finais ao n.º 2 do art. 69.º, ao n.º 1 do art. 93.º e a al. c) do n.º 1 do art. 94.º, pela LEI.4/86.1986.03.21.AR\
+    \ DR.IS [67]\07]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-1986-196875
+  date: '1986-03-21'
+- type: amended_by
+  target: pt:dre:687019:por
+  label: "Alterados os arts. 45.º, 58.º, 64.º e 106.º pela LEI.46/91.1991.08.03.AR DR.IS-A [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-1991-687019
+  date: '1991-08-03'
+- type: amended_by
+  target: pt:dre:683011:por
+  label: "Alterado o art. 30.º do Estatuto pela LEI.11/93.1993.04.06.AR DR.IS [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-1993-683011
+  date: '1993-04-06'
+- type: amended_by
+  target: pt:dre:241641:por
+  label: "Alterados os arts. 78º, 80º, 92º, 94º, 97º, 98º, 99º, 100º, 106º, 111º, 112º, 113º e 115º, e revogado expressamente\
+    \ o art. 91º e o nº 2 do art. 107º, todos do Estatuto dos Tribunais Administrativos e Fiscais, pela LEI.49/96.1996.09.04.AR\
+    \ , DR.IS-A [205], entrando as referidas alterações em vigor na data do inicio de funcionamento do Tribunal Central Administrativo,\
+    \ com excepção das al. a), d) e d) do art. 106º e do art. 111º do referido estatuto, que entram imediatamente em vigor\0\
+    r\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-1996-241641
+  date: '1996-09-04'
+- type: amended_by
+  target: pt:dre:201224:por
+  label: "Alterados os arts 2º, 21º, 22º, 23º, 24º, 25º, 26º, 30º, 31º, 32º, 33º, 36º, 37º, 38º, 39º, 40º, 41º, 42º, 43º,\
+    \ 44º, 47º, 50º, 51º, 54º, 62º, 63º, 68º, 70º, 73º, 76º, 104º, 105º, 109º, 110º, 114º, 116º, 117º, 119º e 120º e revogado\
+    \ o num 3 do art 46º e o art 49º pelo Dec Lei.229/96.1996.11.29.MJ, DR.IS-A [277]\07]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1996-201224
+  date: '1996-11-29'
+- type: amended_by
+  target: pt:dre:380127:por
+  label: "Alterada a redacção dos arts. 2º, 21º, 30º, 31º, 33º, 42º, 45º, 48º, 61º a 63º, 70º, 73º, 76º, 78º, 83º, 85º, 90º,\
+    \ 99º, 100º, 103º, 106º, 117º e 118º, aditado um art. 62º-A e revogado o Cap. VI do Título I, pelo DEC LEI.301-A/99.1999.08.05.MJ,\
+    \ DR.IS-A [181]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-a-1999-380127
+  date: '1999-08-05'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Aditado o art. 62º-B ao Estatuto pela LEI.30-G/2000.2000.12.29.AR DR.IS-A [299]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:424313:por
+  label: "Extintos os actuais Tribunais Administrativos de Círculo de Lisboa, Porto e Coimbra, criado pelo presente diploma\
+    \ e converte-os no 1.º Juízo dos Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra. Extingue, com\
+    \ a entrada em funcionamento dos novos Tribunais Tributários, os Tribunais Tributários de 1.ª Instância criados também\
+    \ pelo supracitado diploma, pelo DEC LEI.325/2003.29.12.2003.MJ, DR.IS-A [299] de 29.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-2003-424313
+  date: '2003-12-29'
+- type: cites
+  target: pt:dre:232562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439435:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275415:por
+  label: Rectificado pela DECL.DD4993.18.06.1984.PCM, DR.IS [150-2SUPL] de 30.06.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275415
+  date: '1984-06-18'
+- type: repealed_by
+  target: pt:dre:322110:por
+  label: "Revogado o nº 3 do art. 59º do Estatuto pela LEI.15/2001.2001.06.05.AR DR.IS-A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2001-322110
+  date: '2001-06-05'
+- type: repealed_by
+  target: pt:dre:278029:por
+  label: "Revogado o Estatuto dos Tribunais Administrativos e Fiscais aprovado pelo presente diploma, pela LEI.13/2002.2002.02.19.AR\
+    \ DR.IS-A [42], a partir da sua entrada em vigor.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2002-278029
+  date: '2002-02-19'
 article_structure:
   article_count: 122
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:42Z'
   warnings: []
   errors: []
 ---
@@ -343,7 +428,9 @@ c) Dos conflitos de jurisdição entre tribunais administrativos e tribunais fis
 
 5 - A fim de assegurar a unidade de aplicação do direito, quando a importância jurídica da questão, a sua novidade, as divergências suscitadas ou outras razões ponderosas o justifiquem, o julgamento pode efectuar-se, nos casos previstos no n.º 3 deste artigo, com intervenção dos juízes referidos no n.º 2 e, nos casos previstos no n.º 2, com intervenção de todos os juízes do Tribunal, desde que, antes de o acórdão estar assinado, o presidente, ouvidos os vice-presidentes, ou a maioria dos juízes assim o determinem.
 
-#### SECÇÃO III — Secção de Contencioso Administrativo
+#### SECÇÃO III
+
+#### Secção de Contencioso Administrativo
 
 ###### Artigo 24.º — (Competência da Secção em pleno)
 
@@ -423,7 +510,9 @@ p) Das matérias que lhe forem confiadas por lei posterior.
 
 Cada um dos vice-presidentes que seja juiz da Secção participa, semanalmente, em 2 sessões ordinárias das subsecções, a indicar pelo presidente.
 
-#### SECÇÃO IV — Secção de Contencioso Tributário
+#### SECÇÃO IV
+
+#### Secção de Contencioso Tributário
 
 ###### Artigo 30.º — (Competência da Secção em pleno)
 
@@ -1343,14 +1432,14 @@ Os processos distribuídos no Supremo Tribunal Administrativo depois da publica�
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 13 de Abril de 1984.**
+Promulgado em 13 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Abril de 1984.**
+Referendado em 16 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 (Para publicação no Boletim Oficial de Macau.)

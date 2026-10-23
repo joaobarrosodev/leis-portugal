@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22700/28452847.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1986-221719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffbb5cd1f1f3b2dfcbd4b0dd25a4121022e827441f20049f33f21da5b0f4ba08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14c4f3e3ddd7af0b65c57f3c210e823d2c4bd7b708482c20d174851fdeab9639
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Documento de Encarte
+- Guarda Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:50Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +103,9 @@ Considerando que pelo n.º 3 do artigo 5.º do Estatuto do Oficial da Guarda Fis
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A carta-patente constitui a forma de encarte dos oficiais do quadro privativo da Guarda Fiscal, a qual substitui, para todos os efeitos legais, o termo de posse.
+Artigo 1.º A carta-patente constitui a forma de encarte dos oficiais do quadro privativo da Guarda Fiscal, a qual substitui, para todos os efeitos legais, o termo de posse.
 
-###### Art. 2.º - 1 - As promoções serão averbadas na carta-patente, não podendo escriturar-se promoção relativa a qualquer posto sem que o tenham sido as promoções aos postos anteriores.
+Art. 2.º - 1 - As promoções serão averbadas na carta-patente, não podendo escriturar-se promoção relativa a qualquer posto sem que o tenham sido as promoções aos postos anteriores.
 
 2 - Na carta-patente serão averbadas as passagens do oficial para a situação de reserva e de reforma.
 
@@ -102,13 +113,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Nas folhas serão coladas e inutilizadas, pela entidade que fizer qualquer dos averbamentos anteriormente mencionados, estampilhas fiscais de valor correspondente à taxa devida nos termos das disposições em vigor na data do averbamento.
 
-###### Art. 3.º - 1 - Correrá por conta do interessado o pagamento do custo do impresso da carta-patente, da capa do modelo oficial em que as folhas devem ser conservadas e, bem assim, das estampilhas fiscais a que se refere o n.º 4 do artigo anterior.
+Art. 3.º - 1 - Correrá por conta do interessado o pagamento do custo do impresso da carta-patente, da capa do modelo oficial em que as folhas devem ser conservadas e, bem assim, das estampilhas fiscais a que se refere o n.º 4 do artigo anterior.
 
 2 - A nenhum oficial do quadro privativo da Guarda Fiscal que tenha ascendido ao primeiro posto do seu quadro, sido promovido ou transitado para a situação de reserva ou de reforma poderão ser liquidados vencimentos correspondentes ao novo posto ou situação sem que prove possuir devidamente escriturada a sua carta-patente ou tenha cumprido as formalidades legais necessárias ao seu encarte.
 
 3 - As entidades administrativas encarregadas de liquidar vencimentos ou quaisquer abonos que o façam em contravenção do disposto neste artigo incorrerão em responsabilidade pecuniária correspondente ao dobro da taxa devida pelo encarte ou averbamento.
 
-###### Art. 4.º - 1 - O modelo da carta-patente em anexo ao presente decreto-lei consta de um desdobrável em três folhas, tendo cada uma as dimensões de 22,5 cm x 13,5 cm.
+Art. 4.º - 1 - O modelo da carta-patente em anexo ao presente decreto-lei consta de um desdobrável em três folhas, tendo cada uma as dimensões de 22,5 cm x 13,5 cm.
 
 2 - Este desdobrável será acompanhado de uma capa de protecção, da qual constará o escudo nacional, precedido dos dizeres «Guarda Fiscal» e seguido da indicação «carta-patente».
 
@@ -116,20 +127,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Juro, por minha honra, como português e como oficial da Guarda Fiscal, guardar e fazer guardar a Constituição e mais leis da República; cumprir as ordens e deveres militares de acordo com as leis e regulamentos; actuar estritamente de acordo com a autoridade de que estiver investido; contribuir com todas as minhas capacidades para o prestígio deste corpo especial de tropas e servir a minha pátria em todas as circunstâncias e sem limitações, mesmo com o sacrifício da própria vida.
 
-###### Art. 5.º O termo de passagem da carta-patente será assinado pelo Primeiro-Ministro, que poderá delegar no Ministro das Finanças.
+Art. 5.º O termo de passagem da carta-patente será assinado pelo Primeiro-Ministro, que poderá delegar no Ministro das Finanças.
 
-###### Art. 6.º Os actuais oficiais do quadro privativo da Guarda Fiscal, qualquer que seja a situação em que se encontrem, deverão satisfazer as formalidades legais para a aquisição da carta-patente, nos termos do disposto no presente decreto-lei, no prazo de 90 dias após a sua publicação, findo o qual ficarão sujeitos às prescrições do artigo 3.º
+Art. 6.º Os actuais oficiais do quadro privativo da Guarda Fiscal, qualquer que seja a situação em que se encontrem, deverão satisfazer as formalidades legais para a aquisição da carta-patente, nos termos do disposto no presente decreto-lei, no prazo de 90 dias após a sua publicação, findo o qual ficarão sujeitos às prescrições do artigo 3.º
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/22700/28452847.pdf))](https://files.diariodarepublica.pt/1s/1986/10/22700/28452847.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22700/28452847.pdf)

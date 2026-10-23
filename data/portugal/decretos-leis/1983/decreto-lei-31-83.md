@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01800/01430143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1983-307785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c465b8ff6f3cf49e045fdd764e58f0a78846adc559ecb140effaccc86596c731
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 841e7d2b7e45196cf9092c5cd287c896a39b9d338ae6e4f7cd25925f43b32d02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cuidados Médicos
+- Ministério da Educação
+- Pessoal de Saúde
+- Política de Saúde
+- Regime de Pessoal
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474125:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:39Z'
   warnings: []
   errors: []
 ---
@@ -101,14 +116,14 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As disposições do [Decreto-Lei n.º 135/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1980-474125), de 20 de Maio, são aplicáveis, com as necessárias adaptações, aos organismos e serviços dependentes do Ministério da Educação que prestem cuidados de saúde.
+Artigo 1.º As disposições do [Decreto-Lei n.º 135/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1980-474125), de 20 de Maio, são aplicáveis, com as necessárias adaptações, aos organismos e serviços dependentes do Ministério da Educação que prestem cuidados de saúde.
 
-###### Art. 2.º As transferências do pessoal daqueles organismos e serviços far-se-ão mediante concurso de avaliação curricular, sem prejuízo das demais condições fixadas no artigo 4.º do [Decreto-Lei n.º 135/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1980-474125), de 20 de Maio.
+Art. 2.º As transferências do pessoal daqueles organismos e serviços far-se-ão mediante concurso de avaliação curricular, sem prejuízo das demais condições fixadas no artigo 4.º do [Decreto-Lei n.º 135/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1980-474125), de 20 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.
 
-**Promulgado em 11 de Janeiro de 1983.**
+Promulgado em 11 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

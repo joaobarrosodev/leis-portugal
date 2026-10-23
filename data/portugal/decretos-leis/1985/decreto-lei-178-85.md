@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11800/13891398.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d013a8247f824ff210a01c033bba1396af746c0abed4318d046dfd9388d8928
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78d465000b38efdcdd26a5e461847adbc3770b3d3033e9108866e377752a415a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Enfermagem
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:266642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:266642:por
+  label: "Prevista a cessação, até 31 de Dezembro de 1996, do curso de Pedagogia Aplicada ao Ensino de Enfermagem e do curso\
+    \ de Administração de Serviços de Enfermagem, a que se refere o n.º 2 do artigo 14.º, pela PORT.239/94.16.04.1994.ME,\
+    \ DR.IS-B [89] de 16.04.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1994-266642
+  date: '1994-04-16'
+- type: cites
+  target: pt:dre:160280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662139:por
+  label: "Revogado o artigo 2.º, os n.ºs 1, 3, 4, 5 e 19 do artigo 10.º, o n.º 11 do artigo 12.º, os n.ºs 2 e 4 do artigo\
+    \ 16.º (com excepção no que respeita aos efeitos previstos nos n.ºs 3 e 4 do artigo 4.º) e a tabela anexa, pelo DEC LEI.134/87.17.03.1987.MS,\
+    \ DR.IS [63] de 17.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1987-662139
+  date: '1987-03-17'
+- type: repealed_by
+  target: pt:dre:361157:por
+  label: "Revogados os n.os 1 e 2 do artigo 14.º e o n.º 4 do artigo 19.º, pelo DEC LEI.480/88.23.12.1988.MS, DR.IS [295]\
+    \ de 23.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/480-1988-361157
+  date: '1988-12-23'
+- type: repealed_by
+  target: pt:dre:335235:por
+  label: Revogado o art. 17º, pelo DEC LEI.34/90.1990.01.24.MS, DR.IS [20}
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1990-335235
+  date: '1990-01-24'
+- type: repealed_by
+  target: pt:dre:333290:por
+  label: Revogada - na parte em que se refere aos nºs 1 e 2 do art. 14º do presente diploma - a al. e) do nº 1 do art. 14º
+    do Dec Lei 480/88, de 23-Dez, pelo DEC LEI.100/90.20.03.1990.MS, DR.IS [66] de 20.03.1990, produzindo efeitos repristinatórios
+    sobre as mencionadas disposições do presente diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1990-333290
+  date: '1990-03-20'
+- type: repealed_by
+  target: pt:dre:331852:por
+  label: "Revogado pelo DEC LEI.437/91.08.11.1991.MS, DR.IS-A [257] de 08.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/437-1991-331852
+  date: '1991-11-08'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:44Z'
   warnings: []
   errors: []
 ---
@@ -597,16 +656,16 @@ c) O [Decreto-Lei n.º 324/83](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 1985. - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha.
 
-**Promulgado em 6 de Maio de 1985.**
+Promulgado em 6 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Maio de 1985.**
+Referendado em 9 de Maio de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Tabela a que se refere o n.º 2 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/11800/13891398.pdf))](https://files.diariodarepublica.pt/1s/1985/05/11800/13891398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/11800/13891398.pdf)

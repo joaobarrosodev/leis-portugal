@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1986-221288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba97061d24f59f3c09b34bd297522c97e978504d854957b14a485b6c346fbb53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b676aff3892a72b11b4705bffe10e353d1cf69cfab05b7405071e1bd77fd368b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Integrado de Formação de Professores
+- Formação Profissional
+- Pessoal Docente
+- Universidade de Trás-os-montes e ALTO Douro
 relationships:
 - type: amended_by
   target: pt:dre:612460:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:172090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:05Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +135,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado o Centro Integrado de Formação de Professores da Universidade de Trás-os-Montes e Alto Douro, adiante designado por Centro.
+Artigo 1.º - 1 - É criado o Centro Integrado de Formação de Professores da Universidade de Trás-os-Montes e Alto Douro, adiante designado por Centro.
 
 2 - O Centro é um organismo interdisciplinar cujas actividades se estendem à formação de professores para todos os níveis do sistema escolar e de agentes de educação para os sectores pré, extra e pós-escolar, à investigação e ao serviço à comunidade na área científica da educação.
 
-###### Art. 2.º O Centro goza de autonomia científica e pedagógica, sem prejuízo da orientação global da política de investigação, ensino e serviços à comunidade definida pelos órgãos competentes da Universidade de Trás-os-Montes e Alto Douro (UTAD).
+Art. 2.º O Centro goza de autonomia científica e pedagógica, sem prejuízo da orientação global da política de investigação, ensino e serviços à comunidade definida pelos órgãos competentes da Universidade de Trás-os-Montes e Alto Douro (UTAD).
 
-###### Art. 3.º O Centro tem por objectivos:
+Art. 3.º O Centro tem por objectivos:
 
 a) Promover a criação e o funcionamento de cursos de formação inicial de professores para todos os graus do sistema escolar, de técnicos de ensino-aprendizagem extra-escolar e de agentes de educação pré e pós-escolar;
 
@@ -129,9 +161,9 @@ h) Criar e manter um centro de recursos educacionais;
 
 i) Colaborar directamente no desenvolvimento integrado da região.
 
-###### Art. 4.º Para a prossecução dos seus objectivos, o Centro funcionará em colaboração com os diversos departamentos científico-pedagógicos e centros de investigação da UTAD, tendo em vista a gestão racional dos recursos disponíveis.
+Art. 4.º Para a prossecução dos seus objectivos, o Centro funcionará em colaboração com os diversos departamentos científico-pedagógicos e centros de investigação da UTAD, tendo em vista a gestão racional dos recursos disponíveis.
 
-###### Art. 5.º - 1 - Por despacho do Ministro da Educação e Cultura, será nomeada uma comissão coordenadora para a instalação do Centro, a qual será constituída por:
+Art. 5.º - 1 - Por despacho do Ministro da Educação e Cultura, será nomeada uma comissão coordenadora para a instalação do Centro, a qual será constituída por:
 
 a) O reitor, ou um dos vice-reitores a designar pelo reitor, que presidirá à comissão;
 
@@ -143,7 +175,7 @@ c) Cinco membros do corpo docente da UTAD propostos pelo reitor.
 
 3 - São aplicáveis aos membros da comissão coordenadora para a instalação do Centro as disposições do artigo 43.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, sem prejuízo do disposto no [Decreto-Lei n.º 244/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), de 11 de Julho.
 
-###### Art. 6.º Compete à comissão coordenadora para a instalação do Centro:
+Art. 6.º Compete à comissão coordenadora para a instalação do Centro:
 
 a) Elaborar o regulamento do Centro, que deverá ser aprovado pelos órgãos competentes da UTAD e proposto à homologação do Ministro da Educação e Cultura;
 
@@ -163,28 +195,28 @@ h) Propor a aquisição de equipamento e mobiliário;
 
 i) Promover periodicamente a elaboração de esquemas de avaliação dos programas e das actividades do Centro.
 
-###### Art. 7.º Passam a competir ao Centro os objectivos e as atribuições cometidos pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com a redacção dada pela [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho, e demais legislação complementar à Escola Superior de Educação de Vila Real, que é extinta pelo presente diploma.
+Art. 7.º Passam a competir ao Centro os objectivos e as atribuições cometidos pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com a redacção dada pela [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho, e demais legislação complementar à Escola Superior de Educação de Vila Real, que é extinta pelo presente diploma.
 
-###### Art. 8.º O pessoal docente em serviço na Escola Superior de Educação de Vila Real à data da publicação do presente diploma transita para a UTAD na mesma situação, salvo tratando-se de assistentes do 1.º triénio, habilitados com o grau de licenciatura, que serão contratados como assistentes estagiários.
+Art. 8.º O pessoal docente em serviço na Escola Superior de Educação de Vila Real à data da publicação do presente diploma transita para a UTAD na mesma situação, salvo tratando-se de assistentes do 1.º triénio, habilitados com o grau de licenciatura, que serão contratados como assistentes estagiários.
 
-###### Art. 9.º - 1 - O pessoal não docente em serviço na Escola Superior de Educação de Vila Real à data da publicação do presente diploma transitará para a UTAD na mesma categoria, em regime de contrato além do quadro ou de comissão de serviço, por despacho do reitor e com efeitos a partir da data da extinção da Escola, independentemente de quaisquer formalidades, salvo o visto ou a anotação do Tribunal de Contas, nos termos da lei geral em vigor.
+Art. 9.º - 1 - O pessoal não docente em serviço na Escola Superior de Educação de Vila Real à data da publicação do presente diploma transitará para a UTAD na mesma categoria, em regime de contrato além do quadro ou de comissão de serviço, por despacho do reitor e com efeitos a partir da data da extinção da Escola, independentemente de quaisquer formalidades, salvo o visto ou a anotação do Tribunal de Contas, nos termos da lei geral em vigor.
 
 2 - O pessoal a que se refere o número anterior poderá ser integrado no quadro da UTAD à data da sua criação, sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
-###### Art. 10.º - 1 - O património da Escola Superior de Educação, incluindo as instalações e equipamento, é integrado na UTAD e afectado ao funcionamento do Centro, independentemente de quaisquer formalidades, com os direitos e deveres de que a Escola era titular.
+Art. 10.º - 1 - O património da Escola Superior de Educação, incluindo as instalações e equipamento, é integrado na UTAD e afectado ao funcionamento do Centro, independentemente de quaisquer formalidades, com os direitos e deveres de que a Escola era titular.
 
 2 - São ainda transferidos para a UTAD os saldos das dotações do orçamento da Escola Superior de Educação para o corrente ano económico.
 
-###### Art. 11.º Durante o período de instalação será inscrita no orçamento da UTAD uma verba global destinada ao desenvolvimento do Centro, a qual será gerida, nos termos da lei, pelos órgãos competentes da Universidade, sob proposta da comissão coordenadora para a instalação do Centro.
+Art. 11.º Durante o período de instalação será inscrita no orçamento da UTAD uma verba global destinada ao desenvolvimento do Centro, a qual será gerida, nos termos da lei, pelos órgãos competentes da Universidade, sob proposta da comissão coordenadora para a instalação do Centro.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - José de Oliveira Costa.
 
-**Promulgado em 26 de Novembro de 1986.**
+Promulgado em 26 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Dezembro de 1986.**
+Referendado em 2 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1985, 3º Suplemento, Série I de 1985-12-30
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4252-(13) a 4252-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30003/00130014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-d-1985-250639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3c71f41634f5d12c5e6ee0f4d8b4f3629d5b1760800fc537f15e7bfc0eed500
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d1de038a6f77692a3824609e5435aeb2640088444e66401a017ee0a04f5968f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Exportação
+- Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:555041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:555041:por
+  label: Revogado, a partir de 01.07.1990, pelo DEC LEI.309/90.29.09.1990.MF, DR.IS [226] de 29.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1990-555041
+  date: '1990-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:17Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +116,7 @@ Considerando que importa agora ter em atenção a Directiva do Conselho n.º 78/
 
 O Governo decreta, ao abrigo da alínea f) do artigo 30.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos de aplicação do presente decreto-lei entende-se por:
+Artigo 1.º Para efeitos de aplicação do presente decreto-lei entende-se por:
 
 a) Direitos de importação: os direitos aduaneiros, as taxas de efeito equivalente a direitos, os direitos niveladores agrícolas e outras imposições previstas no âmbito da política agrícola comum ou no de regimes específicos, aplicáveis na importação a certas mercadorias que resultam da transformação de produtos agrícolas;
 
@@ -107,13 +126,13 @@ c) Registo de liquidação: o acto administrativo pelo qual é devidamente fixad
 
 d) Garantia apropriada: aquela cujo montante e modalidade são fixados pelas autoridades competentes em função de cada operação ou de várias operações de importação ou de exportação e que é prestada por uma pessoa singular ou colectiva que tenha a aprovação das referidas autoridades.
 
-###### Art. 2.º - 1 - A pedido do interessado, as autoridades aduaneiras poderão conceder a prorrogação do pagamento de direitos relativos às mercadorias declaradas para um regime aduaneiro que implique o pagamento de direitos de importação ou de exportação.
+Art. 2.º - 1 - A pedido do interessado, as autoridades aduaneiras poderão conceder a prorrogação do pagamento de direitos relativos às mercadorias declaradas para um regime aduaneiro que implique o pagamento de direitos de importação ou de exportação.
 
 2 - O prazo de prorrogação do pagamento é de 30 dias.
 
 3 - A concessão da prorrogação do pagamento está sempre subordinada à constituição de uma garantia apropriada pelo requerente.
 
-###### Art. 3.º - 1 - A prorrogação do pagamento de direitos de importação ou de exportação será concedida pelas autoridades competentes, caso a caso, relativamente ao montante de direitos liquidados, nos termos do artigo 4.º
+Art. 3.º - 1 - A prorrogação do pagamento de direitos de importação ou de exportação será concedida pelas autoridades competentes, caso a caso, relativamente ao montante de direitos liquidados, nos termos do artigo 4.º
 
 2 - A prorrogação do pagamento poderá ainda ser concedida pelas autoridades competentes:
 
@@ -121,11 +140,11 @@ a) Globalmente, nos termos do artigo 5.º, para as mercadorias importadas ou exp
 
 b) Globalmente, nos termos do artigo 6.º, para as mercadorias importadas ou exportadas cujos direitos, entretanto liquidados, são objecto de um único pagamento.
 
-###### Art. 4.º - 1 - A prorrogação do pagamento de direitos referida no artigo 3.º, n.º 1, será concedida para um único acto de registo de liquidação dos direitos devidos por mercadorias que são objecto de uma única operação de importação ou exportação.
+Art. 4.º - 1 - A prorrogação do pagamento de direitos referida no artigo 3.º, n.º 1, será concedida para um único acto de registo de liquidação dos direitos devidos por mercadorias que são objecto de uma única operação de importação ou exportação.
 
 2 - O pedido de prorrogação a que se refere o n.º 1 será efectuado nos termos do artigo 254.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941.
 
-###### Art. 5.º - 1 - Em aplicação do artigo 3.º, n.º 2, alínea a), as autoridades competentes poderão conceder a prorrogação do pagamento dos direitos devidos pelas mercadorias entregues ao requerente, durante um período máximo de 31 dias, e que são objecto de um único registo de liquidação no final daquele período, efectuado nos termos do artigo 7.º
+Art. 5.º - 1 - Em aplicação do artigo 3.º, n.º 2, alínea a), as autoridades competentes poderão conceder a prorrogação do pagamento dos direitos devidos pelas mercadorias entregues ao requerente, durante um período máximo de 31 dias, e que são objecto de um único registo de liquidação no final daquele período, efectuado nos termos do artigo 7.º
 
 2 - A prorrogação do pagamento prevista no número anterior será concedida pelos directores das alfândegas às pessoas singulares ou colectivas que preencham, cumulativamente, as condições seguintes:
 
@@ -135,7 +154,7 @@ b) Disponham de uma contabilidade adequada ao apuramento e fiscalização das op
 
 3 - A concessão da prorrogação do pagamento dos direitos pelas autoridades competentes poderá, sempre que estas o julguem conveniente, ficar condicionada à classificação das mercadorias pela mesma posição pautal.
 
-###### Art. 6.º - 1 - Em aplicação do artigo 3.º, n.º 2, alínea b), as autoridades competentes poderão conceder a prorrogação global do pagamento de direitos que forem objecto de vários registos de liquidação, efectuados nos termos do artigo 7.º, durante um período máximo de 31 dias.
+Art. 6.º - 1 - Em aplicação do artigo 3.º, n.º 2, alínea b), as autoridades competentes poderão conceder a prorrogação global do pagamento de direitos que forem objecto de vários registos de liquidação, efectuados nos termos do artigo 7.º, durante um período máximo de 31 dias.
 
 2 - A prorrogação prevista no número anterior será concedida pelos directores das alfândegas às pessoas singulares ou colectivas que preencham, cumulativamente, as condições seguintes:
 
@@ -143,13 +162,13 @@ a) Processem os despachos respectivos pela mesma estância aduaneira;
 
 b) Disponham de uma contabilidade adequada ao apuramento e fiscalização das operações efectuadas, sempre que as autoridades aduaneiras o julguem necessário.
 
-###### Art. 7.º - 1 - O registo de liquidação do montante de direitos devidos deverá efectuar-se o mais tardar até ao segundo dia seguinte ao da entrega das mercadorias, sem prejuízo do disposto no artigo 5.º, n.º 1.
+Art. 7.º - 1 - O registo de liquidação do montante de direitos devidos deverá efectuar-se o mais tardar até ao segundo dia seguinte ao da entrega das mercadorias, sem prejuízo do disposto no artigo 5.º, n.º 1.
 
 2 - Excepcionalmente, o registo de liquidação poderá ter lugar no prazo suplementar de 12 dias.
 
-###### Art. 8.º Quando, em consequência de circunstâncias particulares, o registo de liquidação não se efectuar nos prazos referidos no artigo 7.º, o presente decreto-lei não é aplicável, sem prejuízo do disposto no artigo 10.º
+Art. 8.º Quando, em consequência de circunstâncias particulares, o registo de liquidação não se efectuar nos prazos referidos no artigo 7.º, o presente decreto-lei não é aplicável, sem prejuízo do disposto no artigo 10.º
 
-###### Art. 9.º - 1 - Quando for concedida a prorrogação do pagamento na modalidade prevista no artigo 4.º, o prazo de prorrogação conta-se a partir da data do registo de liquidação dos direitos.
+Art. 9.º - 1 - Quando for concedida a prorrogação do pagamento na modalidade prevista no artigo 4.º, o prazo de prorrogação conta-se a partir da data do registo de liquidação dos direitos.
 
 2 - Quando for concedido o período de globalização nos termos do artigo 5.º, o prazo de prorrogação conta-se a partir da data do registo global de liquidação dos direitos a cobrar durante o período em causa.
 
@@ -161,26 +180,26 @@ b) Disponham de uma contabilidade adequada ao apuramento e fiscalização das op
 
 6 - Sempre que for utilizado o prazo suplementar para o registo de liquidação previsto no artigo 7.º, n.º 2, será também este deduzido por inteiro ao prazo de prorrogação que resultar da aplicação dos números anteriores.
 
-###### Art. 10.º - 1 - As autoridades competentes poderão conceder, nos termos do artigo 95.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, outras facilidades de pagamento para além das previstas no presente decreto-lei.
+Art. 10.º - 1 - As autoridades competentes poderão conceder, nos termos do artigo 95.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, outras facilidades de pagamento para além das previstas no presente decreto-lei.
 
 2.º A concessão das facilidades de pagamento previstas no número anterior dará lugar à cobrança de juros calculados à taxa normal praticada no mercado financeiro nacional, a suportar pelo devedor.
 
-###### Art. 11.º Os directores das alfândegas poderão delegar nos chefes das delegações aduaneira a competência que lhes é conferida pelos artigos 4.º, 5.º e 6.º do presente decreto-lei.
+Art. 11.º Os directores das alfândegas poderão delegar nos chefes das delegações aduaneira a competência que lhes é conferida pelos artigos 4.º, 5.º e 6.º do presente decreto-lei.
 
-###### Art. 12.º - 1 - O pagamento dos direitos terá de ser efectuado até ao termo do prazo de prorrogação.
+Art. 12.º - 1 - O pagamento dos direitos terá de ser efectuado até ao termo do prazo de prorrogação.
 
 2 - Se o pagamento dos direitos não for efectuado nos termos do artigo anterior, as autoridades aduaneiras deverão proceder à sua cobrança accionando a respectiva garantia, nos termos do legislação em vigor.
 
-###### Art. 13.º O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1986.
+Art. 13.º O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Dezembro de 1985.**
+Promulgado em 30 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Dezembro de 1985.**
+Referendado em 30 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

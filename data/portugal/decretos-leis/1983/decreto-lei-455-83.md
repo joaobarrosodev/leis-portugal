@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1983-444390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bb4543b206e83d21a14c452fe7cb15f565b087e0fc08654a77910dc11226cf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5674e07980da73691112903e6b33e8e736e89d7af8647f32a6d54fd0baf99b10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GNR
+- Gratificação
+- Guarda Fiscal
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:491437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491437:por
+  label: "Extinta, a partir de 01.01.2010, a gratificação de trânsito e tratadores de canídeos, na parte aplicável à PSP,\
+    \ e revogado, a partir da mesma data, este diploma, no referente à PSP, pelo DEC LEI.299/2009.14.10.2009.MAI, DR.IS [199]\
+    \ de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2009-491437
+  date: '2009-10-14'
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491436:por
+  label: "Revogado, com efeitos a 01.01.2009, pelo DEC LEI.298/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009 (Ver notas)\0\
+    s)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2009-491436
+  date: '2009-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:04Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +117,7 @@ Considerando ainda a necessidade de criar um aliciante que permita um mais fáci
 
 Nesta conformidade, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A todo o pessoal da Guarda Nacional Republicana e da Polícia de Segurança Pública que possua averbadas nos seus documentos de matrícula as especialidades indicadas no número seguinte é abonada uma gratificação mensal de quantitativo a fixar anualmente por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano, sob proposta dos respectivos comandantes-gerais.
+Artigo 1.º - 1 - A todo o pessoal da Guarda Nacional Republicana e da Polícia de Segurança Pública que possua averbadas nos seus documentos de matrícula as especialidades indicadas no número seguinte é abonada uma gratificação mensal de quantitativo a fixar anualmente por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano, sob proposta dos respectivos comandantes-gerais.
 
 2 - A gratificação referida no número anterior será atribuída pelo desempenho efectivo da função inerente às seguintes especialidades:
 
@@ -106,20 +127,20 @@ b) Tratadores de solípedes;
 
 c) Tratadores de canídeos.
 
-###### Art. 2.º - 1 - O abono destas gratificações não sofre interrupções no caso de ausências de serviço por motivo de acidente ocorrido no exercício da função que ao mesmo dá lugar.
+Art. 2.º - 1 - O abono destas gratificações não sofre interrupções no caso de ausências de serviço por motivo de acidente ocorrido no exercício da função que ao mesmo dá lugar.
 
 2 - As gratificações referidas são consideradas no cálculo da pensão de reserva, reforma e aposentação nos termos da alínea b) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 de Janeiro de 1984.
+Art. 3.º O presente diploma entra em vigor no dia 1 de Janeiro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 19 de Dezembro de 1983.**
+Promulgado em 19 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Dezembro de 1983.**
+Referendado em 20 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

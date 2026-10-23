@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/17300/22762280.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1985-179865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ca158c90e9041e233b5077ee1812700fc441f636ecbcce45dbecc7c08a2c139
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddea95f68aad985de83e78ef1d962393c9f27a40c8c2bf675f87e4cb447800f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria Alimentar
+- Indústria Transformadora
+- Peixe Congelado
+- Regulamento
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:321917:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:446313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:267825:por
+  label: Rectificado pela DECL.DD5028.19.08.1985.PCM, DR.IS [200]2ºSupl de 31.08.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-267825
+  date: '1985-08-19'
+- type: repealed_by
+  target: pt:dre:321917:por
+  label: "Revogado pelo DEC LEI.427/91.31.10.1991.MAPA, DR.IS-A [251] de 31.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-1991-321917
+  date: '1991-10-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:52Z'
   warnings: []
   errors: []
 ---
@@ -102,35 +129,35 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Indústria de Transformação e Congelação de Pescado, anexo ao presente diploma, dele fazendo parte integrante,
+Artigo 1.º É aprovado o Regulamento da Indústria de Transformação e Congelação de Pescado, anexo ao presente diploma, dele fazendo parte integrante,
 
-###### Art. 2.º As infracções ao Regulamento aprovado pelo presente diploma serão punidas segundo o disposto no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, nomeadamente nos termos dos artigos 58.º, 66.º e 68.º
+Art. 2.º As infracções ao Regulamento aprovado pelo presente diploma serão punidas segundo o disposto no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, nomeadamente nos termos dos artigos 58.º, 66.º e 68.º
 
-###### Art. 3.º Este diploma não é aplicável às regiões autónomas.
+Art. 3.º Este diploma não é aplicável às regiões autónomas.
 
-###### Art. 4.º O presente diploma entra em vigor 30 dias após a sua publicação, com excepção do que se dispõe na alínea c) do n.º 11 do artigo 10.º do Regulamento, que entrará em vigor 180 dias depois.
+Art. 4.º O presente diploma entra em vigor 30 dias após a sua publicação, com excepção do que se dispõe na alínea c) do n.º 11 do artigo 10.º do Regulamento, que entrará em vigor 180 dias depois.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão - Joaquim Martins Ferreira do Amaral - Júlio Miranda Calha - José de Almeida Serra.
 
-**Promulgado em 18 de Julho de 1985.**
+Promulgado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Julho de 1985.**
+Referendado em 19 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Regulamento da Indústria de Transformação e Congelação do Pescado
 
 ### CAPÍTULO I — Disposições gerais e definições
 
-###### Artigo 1.º A instalação e o funcionamento dos estabelecimentos de transformação e congelação do pescado e as respectivas instalações destinadas à conservação das matérias-primas e produtos acabados preparados nesses estabelecimentos devem obedecer às regras técnicas e processuais constantes do presente Regulamento, observando-se ainda as disposições aplicáveis do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março, de
+Artigo 1.º A instalação e o funcionamento dos estabelecimentos de transformação e congelação do pescado e as respectivas instalações destinadas à conservação das matérias-primas e produtos acabados preparados nesses estabelecimentos devem obedecer às regras técnicas e processuais constantes do presente Regulamento, observando-se ainda as disposições aplicáveis do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março, de
 
 1966, e as disposições complementares deste decreto-lei e do Regulamento Geral de Segurança e Higiene do Trabalho dos Estabelecimentos Industriais, aprovado pela [Portaria n.º 53/71](https://diariodarepublica.pt/dr/detalhe/portaria/53-1971-446313), de 3 de Fevereiro.
 
-###### Art. 2.º Para efeitos do presente Regulamento entende-se por:
+Art. 2.º Para efeitos do presente Regulamento entende-se por:
 
 a) Câmara frigorífica. - Local isolado e arrefecido especialmente concebido para conservação do pescado;
 
@@ -144,7 +171,7 @@ e) Pescado congelado. - Todo o pescado que, encontrando-se em bom estado de fres
 
 ### CAPÍTULO II — Licenciamento da instalação e laboração
 
-###### Art. 3.º - 1 - As pessoas singulares ou colectivas interessadas na instalação, alteração ou ampliação de estabelecimentos de transformação e congelação do pescado solicitarão aprovação do respectivo projecto em requerimento dirigido ao presidente do Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares (IAPA), o qual poderá ser entregue neste Instituto ou na direcção regional de agricultura (DRA) da área do interessado.
+Art. 3.º - 1 - As pessoas singulares ou colectivas interessadas na instalação, alteração ou ampliação de estabelecimentos de transformação e congelação do pescado solicitarão aprovação do respectivo projecto em requerimento dirigido ao presidente do Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares (IAPA), o qual poderá ser entregue neste Instituto ou na direcção regional de agricultura (DRA) da área do interessado.
 
 2 - Os requerimentos entregues directamente no IAPA serão enviados para as DRA para organização dos processos.
 
@@ -198,7 +225,7 @@ m) Instalação para tratamento de efluentes, nomeadamente eliminação de resí
 
 6.º Análise bacteriológica e físico-química comprovativa de potabilidade da água que irá abastecer o estabelecimento, quando a mesma não seja fornecida por rede pública.
 
-###### Art. 4.º - 1 - A DRA, uma vez recebido o pedido de licenciamento, remeterá um exemplar do projecto, com o pedido de parecer, aos serviços de saúde da área.
+Art. 4.º - 1 - A DRA, uma vez recebido o pedido de licenciamento, remeterá um exemplar do projecto, com o pedido de parecer, aos serviços de saúde da área.
 
 2 - Depois de devidamente organizado o processo com as peças constantes do artigo 3.º, deverão as DRA remetê-lo ao IAPA, para efeitos de apreciação e posterior aprovação.
 
@@ -210,7 +237,7 @@ m) Instalação para tratamento de efluentes, nomeadamente eliminação de resí
 
 6 - Simultaneamente, serão enviados à DRA e à câmara municipal competentes cópias do processo devidamente organizado.
 
-###### Art. 5.º - 1 - Concluídas as instalações, serão as mesmas vistoriadas, a pedido do interessado, conjuntamente, por representantes do IAPA, do IQA, da DRA, dos serviços de saúde e da Inspecção do Trabalho, podendo, sempre que necessário, ser requisitada a intervenção de outros técnicos, designadamente do IPCP.
+Art. 5.º - 1 - Concluídas as instalações, serão as mesmas vistoriadas, a pedido do interessado, conjuntamente, por representantes do IAPA, do IQA, da DRA, dos serviços de saúde e da Inspecção do Trabalho, podendo, sempre que necessário, ser requisitada a intervenção de outros técnicos, designadamente do IPCP.
 
 Da data e hora da vistoria serão os organismos envolvidos notificados pela DRA com antecedência mínima de 8 dias úteis.
 
@@ -220,17 +247,17 @@ Da data e hora da vistoria serão os organismos envolvidos notificados pela DRA 
 
 4 - Caso se não verifique a unanimidade dos pareceres dos técnicos, observar-se-á, com as devidas adaptações, o disposto nos n.os 2 e 3 do artigo 14.º do Decreto-Lei n.º 46924, de 28 de Março de 1966.
 
-###### Art. 6.º - 1 - O encerramento do estabelecimento, com selagem das instalações, a pedido do interessado ou nos casos previstos na lei, deverá ser efectuado pelas DRA e comunicado por estas ao IAPA, ao IQA e ao IPCP.
+Art. 6.º - 1 - O encerramento do estabelecimento, com selagem das instalações, a pedido do interessado ou nos casos previstos na lei, deverá ser efectuado pelas DRA e comunicado por estas ao IAPA, ao IQA e ao IPCP.
 
 2 - A reabertura de qualquer estabelecimento que tenha suspendido a sua laboração por período superior a 2 anos carece de nova vistoria, mediante requerimento do interessado dirigido ao presidente do IAPA, que para o efeito ouvirá o IPCP.
 
 3 - A decisão sobre a reabertura pertence ao presidente do IAPA, com base no resultado da vistoria efectuada pela DRA e no parecer do IPCP, sendo esta comunicada pelo IAPA ao interessado, ao IPCP, à DRA e ao IQA.
 
-###### Art. 7.º A transmissão por qualquer título de propriedade ou fruição de estabelecimento industrial deverá ser averbada no respectivo processo pelo IPCP, mediante requerimento do interessado, devendo para o efeito serem também apresentados os documentos probatórios que justifiquem esse averbamento, o qual deverá ser comunicado por aquele Instituto à DRA e ao IAPA.
+Art. 7.º A transmissão por qualquer título de propriedade ou fruição de estabelecimento industrial deverá ser averbada no respectivo processo pelo IPCP, mediante requerimento do interessado, devendo para o efeito serem também apresentados os documentos probatórios que justifiquem esse averbamento, o qual deverá ser comunicado por aquele Instituto à DRA e ao IAPA.
 
 ### CAPÍTULO III — Condições gerais de instalação e laboração
 
-###### Art. 8.º São requisitos de construção e instalação a observar em todas as dependências e anexos dos estabelecimentos de transformação e congelação de pescado os seguintes:
+Art. 8.º São requisitos de construção e instalação a observar em todas as dependências e anexos dos estabelecimentos de transformação e congelação de pescado os seguintes:
 
 1) Estabelecimento e zona circundante. - Devem manter-se, tanto quanto possível, isentos de ruídos, cheiros desagradáveis, fumo, pó ou outros elementos contaminantes, ter as dimensões suficientes para permitir uma perfeita movimentação do pessoal ou equipamento e ser de construção sólida e manter-se em bom estado. A construção deve estar preparada para impedir a entrada de insectos, roedores ou quaisquer outros animais e ser projectada de modo a permitir uma limpeza conveniente e fácil;
 
@@ -258,7 +285,7 @@ Nos lavatórios obrigatoriamente existentes nas instalações sanitárias devem 
 
 11) Lavabos. - Além dos lavatórios existentes nos sanitários, o pessoal deve dispor de instalações adequadas e convenientes para lavar e enxugar as mãos, sempre que assim o exija a natureza das operações em que intervém. Estas instalações devem ser visíveis da respectiva secção de fabrico. Sempre que possível, recomenda-se secadores de ar quente ou toalhas individuais (uma para cada utilização).
 
-###### Art. 9.º São ainda de observar os seguintes requisitos hígio-tecnológicos:
+Art. 9.º São ainda de observar os seguintes requisitos hígio-tecnológicos:
 
 1) Materiais. - Todas as superfícies que entrem em contacto com o pescado ou suas partes devem ser lisas, impermeáveis, inatacáveis pelos produtos laborados, não tóxicas, e permitir as operações normais de limpeza e desinfecção. Os pavimentos devem ainda ser de superfície unida, antideslizante, com declive para fácil escoamento das águas de lavagens e de líquidos residuais.
 
@@ -274,7 +301,7 @@ Todavia, os tanques de salmoura podem ser admitidos, se devidamente justificados
 
 4) Câmaras frigoríficas. - Devem ser dimensionadas em função da capacidade de produção e do movimento previsto e equipadas de modo a permitir as condições de temperatura estipuladas no n.º 7), alínea b), do artigo seguinte.
 
-###### Art. 10.º Embora se possa estabelecer requisitos adicionais mais específicos para determinados tipos de produtos, devem cumprir-te os seguintes requisitos mínimos em todas as operações de manipulação, preparação e expedição de pescado:
+Art. 10.º Embora se possa estabelecer requisitos adicionais mais específicos para determinados tipos de produtos, devem cumprir-te os seguintes requisitos mínimos em todas as operações de manipulação, preparação e expedição de pescado:
 
 1) Manutenção sanitária da instalação e equipamento. - O edifício, o equipamento, os utensílios e todos os demais acessórios de instalação devem manter-se limpos e em bom estado de funcionamento, por forma ordenada e em boas condições sanitárias. Nos locais de trabalho, e enquanto estiver a funcionar a instalação, devem eliminar-se, frequentemente, os resíduos e existir recipientes adequados para deitar o lixo. Os detergentes e desinfectantes empregados devem ser os adequados e ser utilizados de modo a não constituírem risco para a saúde pública;
 
@@ -342,7 +369,7 @@ c) Identificação. - Na embalagem destinada à venda ao público do produto aca
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 11.º - 1 - Aos estabelecimentos que se encontram devidamente licenciados e em laboração à data da publicação desde Regulamento será feita uma vistoria pelas entidades atrás referidas intervenientes no processo de licenciamento, para efeitos de verificação do estipulado no presente Regulamento.
+Art. 11.º - 1 - Aos estabelecimentos que se encontram devidamente licenciados e em laboração à data da publicação desde Regulamento será feita uma vistoria pelas entidades atrás referidas intervenientes no processo de licenciamento, para efeitos de verificação do estipulado no presente Regulamento.
 
 2 - A vistoria deverá ser pedida pelos interessados, no prazo máximo de 90 dias após a entrada em vigor deste diploma, em requerimento dirigido ao director regional, com indicação do número de inscrição no IPCP ou documento comprovativo de licenciamento, conforme o caso.
 
@@ -350,7 +377,7 @@ c) Identificação. - Na embalagem destinada à venda ao público do produto aca
 
 4 - Desta vistoria será elaborado auto, donde constarão, se for caso disso, as alterações a efectuar, fixando-se o prazo para o seu cumprimento, o qual não poderá exceder 1 ano.
 
-###### Art. 12.º - 1 - Os estabelecimentos de transformação e congelação de pescado só poderão laborar uma vez inscritos no IPCP e de lhes ter sido atribuído o respectivo número.
+Art. 12.º - 1 - Os estabelecimentos de transformação e congelação de pescado só poderão laborar uma vez inscritos no IPCP e de lhes ter sido atribuído o respectivo número.
 
 2 - O IPCP só poderá aceitar a inscrição dos estabelecimentos devidamente licenciados de acordo com o estabelecido neste Regulamento ou mediante auto de vistoria aprovativo para os casos previstos no artigo anterior.
 
@@ -358,4 +385,4 @@ c) Identificação. - Na embalagem destinada à venda ao público do produto aca
 
 4 - Enquanto durar a inscrição provisória, o número respectivo referido na alínea c) do n.º 11) do artigo 10.º deverá figurar nas embalagens de venda ao público precedido pela letra P, seguida do mês e ano estipulados como data limite para a efectivação das alterações.
 
-**O Ministro do Mar, José de Almeida Serra.**
+O Ministro do Mar, José de Almeida Serra.

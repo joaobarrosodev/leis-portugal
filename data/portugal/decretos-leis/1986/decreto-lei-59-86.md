@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1986-196876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feadeedc4ad68be328adf396b528390eeda363e410a00e127ce69d844d0bee83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fdc6dfd07173804bcbcd1d8dd69becd9107d8a25d4e79c4d4c37173cfc727b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Educador de Infância
+- Ensino Básico
+- Ensino Primário
+- Escola Superior de Educação
+- Formação Complementar
+- Formação Profissional
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:643716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:01Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +106,7 @@ Tendo em consideração que aquele referencial deve conter, em si, a flexibilida
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As escolas superiores de educação organizarão as suas actividades de formação inicial em cursos separados, orientados para a formação de:
+Artigo 1.º - 1 - As escolas superiores de educação organizarão as suas actividades de formação inicial em cursos separados, orientados para a formação de:
 
 a) Educadores de infância;
 
@@ -103,9 +114,9 @@ b) Professores do ensino primário.
 
 2 - Sem prejuízo da sua diferenciação global, face a objectivos autónomos, os cursos referidos no número anterior poderão, na sua organização curricular, apresentar componentes comuns de formação.
 
-###### Art. 2.º Os cursos de formação de professores do ensino primário deverão contemplar uma formação complementar com vista à docência de uma área curricular do ensino preparatório.
+Art. 2.º Os cursos de formação de professores do ensino primário deverão contemplar uma formação complementar com vista à docência de uma área curricular do ensino preparatório.
 
-###### Art. 3.º - 1 - Para efeitos de organização dos cursos referidos nos artigos anteriores serão tomados em consideração os seguintes princípios orientadores:
+Art. 3.º - 1 - Para efeitos de organização dos cursos referidos nos artigos anteriores serão tomados em consideração os seguintes princípios orientadores:
 
 a) Os cursos de formação de educadores de infância e de professores do ensino primário terão a duração de seis semestres e serão seguidos de um ano de indução;
 
@@ -117,40 +128,40 @@ a) Em sequência estrita do curso base de formação de professores do ensino pr
 
 b) Integrada numa lógica de organização curricular global, sem prejuízo da conclusão do curso base de professores do ensino primário, no final dos seis semestres previstos.
 
-###### Art. 4.º - 1 - O acesso à formação complementar para a docência no ensino preparatório será condicionado por limitações decorrentes da necessidade de recursos humanos e ainda por critérios de selecção decorrentes da natureza da formação anteriormente adquirida.
+Art. 4.º - 1 - O acesso à formação complementar para a docência no ensino preparatório será condicionado por limitações decorrentes da necessidade de recursos humanos e ainda por critérios de selecção decorrentes da natureza da formação anteriormente adquirida.
 
 2 - Os princípios necessários à aplicação do número anterior serão estabelecidos pelo Ministro da Educação e Cultura, mediante proposta do Conselho Coordenador de Instalação dos Estabelecimentos Superiores Politécnicos.
 
-###### Art. 5.º - 1 - Para efeitos de realização da formação complementar, deverão as escolas superiores de educação estabelecer, em todos os casos, regimes de associação com estabelecimentos de ensino superior universitário, de acordo com o disposto no n.º 1 do artigo 3.º do [Decreto-Lei n.º 513-T/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025), de 26 de Dezembro.
+Art. 5.º - 1 - Para efeitos de realização da formação complementar, deverão as escolas superiores de educação estabelecer, em todos os casos, regimes de associação com estabelecimentos de ensino superior universitário, de acordo com o disposto no n.º 1 do artigo 3.º do [Decreto-Lei n.º 513-T/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025), de 26 de Dezembro.
 
 2 - Os regimes de associação referidos no número anterior obedecerão a normas a aprovar por despacho do Ministro da Educação e Cultura.
 
-###### Art. 6.º A organização da formação complementar a que se refere o artigo 2.º do presente decreto-lei considerará:
+Art. 6.º A organização da formação complementar a que se refere o artigo 2.º do presente decreto-lei considerará:
 
 a) Como referencial de docência futura, a composição das áreas curriculares do ensino preparatório que venha a ser estabelecida por despacho do Ministro da Educação e Cultura, a proferir no prazo de 90 dias contado a partir da publicação deste diploma;
 
 b) Como base de compatibilização de objectivos de formação, a expectativa de uma composição percentual que abranja 60% a 70% de formação científica e 30% a 40% de formação geral, formação psicopedagógica e formação prática.
 
-###### Art. 7.º - 1 - A conclusão, com aproveitamento, do curso de formação de educadores de infância ou do curso de professores do ensino primário confere direito a um diploma de educador de infância ou de professor de ensino primário, consoante os casos, do qual constará a classificação profissional obtida.
+Art. 7.º - 1 - A conclusão, com aproveitamento, do curso de formação de educadores de infância ou do curso de professores do ensino primário confere direito a um diploma de educador de infância ou de professor de ensino primário, consoante os casos, do qual constará a classificação profissional obtida.
 
 2 - A conclusão, com aproveitamento, da formação complementar a que se refere o artigo 2.º deste decreto-lei confere direito a um diploma de professor do ensino básico, do qual constará a indicação da área curricular de docência no ensino preparatório e a classificação profissional obtida.
 
-###### Art. 8.º O disposto no presente diploma aplica-se, com as adequadas adaptações, aos centros integrados de formação de professores, de acordo com critérios a estabelecer por portaria do Ministro da Educação, ouvido o Conselho de Reitores das Universidades Portuguesas.
+Art. 8.º O disposto no presente diploma aplica-se, com as adequadas adaptações, aos centros integrados de formação de professores, de acordo com critérios a estabelecer por portaria do Ministro da Educação, ouvido o Conselho de Reitores das Universidades Portuguesas.
 
-###### Art. 9.º - 1 - Para efeitos do presente diploma, o ano de indução realiza-se através de formas de apoio a prestar ao novo diplomado pela respectiva instituição formadora durante o primeiro ano de exercício autónomo de funções docentes.
+Art. 9.º - 1 - Para efeitos do presente diploma, o ano de indução realiza-se através de formas de apoio a prestar ao novo diplomado pela respectiva instituição formadora durante o primeiro ano de exercício autónomo de funções docentes.
 
 2 - A realização do ano de indução incumbe a cada instituição formadora de acordo com o quadro legal a estabelecer por despacho do Ministro da Educação e Cultura.
 
-###### Art. 10.º O presente diploma considera-se aplicável aos cursos das escolas superiores de educação que hajam entrado em funcionamento antes da sua publicação, devendo as mesmas escolas propor, para homologação do Ministro da Educação e Cultura, as adaptações entendidas como adequadas ao seu integral cumprimento.
+Art. 10.º O presente diploma considera-se aplicável aos cursos das escolas superiores de educação que hajam entrado em funcionamento antes da sua publicação, devendo as mesmas escolas propor, para homologação do Ministro da Educação e Cultura, as adaptações entendidas como adequadas ao seu integral cumprimento.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 27 de Fevereiro de 1986.**
+Promulgado em 27 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Março de 1986.**
+Referendado em 4 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1985-180193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aac8a37e1840b93291da2df4c5a5c1e72e36dcdf39aefbd75d2071c721df4af2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b3a503a07466bd3fedb4c30273e46e9739ac1cab7fab2f9dc192c1e4438f5a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Participada
+- Empresa Pública
+- Títulos de Participação
 relationships:
 - type: amended_by
   target: pt:dre:674051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221291:por
+  label: "Alterado o art. 1º pelo DEC LEI.407/86.06.12.1986.MF, DR.IS [281] de 06.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/407-1986-221291
+  date: '1986-12-06'
+- type: amended_by
+  target: pt:dre:644321:por
+  label: "Alterado o art. 1º pelo DEC LEI.229-A/88.04.07.1988.MF, DR.IS [152-Supl] de 04.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-a-1988-644321
+  date: '1988-07-04'
+- type: amended_by
+  target: pt:dre:547655:por
+  label: "Alterado o art. 4º pelo DEC LEI.311/89.21.09.1989.MF, DR.IS [218] de 21.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1989-547655
+  date: '1989-09-21'
+- type: amended_by
+  target: pt:dre:658897:por
+  label: "Alterado o art. 4º do presente diploma, na redacção do Dec Lei 311/89, de 21-Set, pelo DEC LEI.213/91.17.06.1991.MF,\
+    \ DR.IS-A [136] de 17.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-1991-658897
+  date: '1991-06-17'
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:03Z'
   warnings: []
   errors: []
 ---
@@ -515,12 +539,12 @@ São aplicáveis subsidiariamente, com as necessárias adaptações, as disposi�
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 17 de Junho de 1985.**
+Promulgado em 17 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Julho de 1985.**
+Referendado em 18 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

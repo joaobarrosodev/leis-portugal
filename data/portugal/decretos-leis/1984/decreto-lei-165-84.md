@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11700/16311632.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1984-384007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4e059f6d58ceae0ed7993d114710ac128031bcce07ff1bf9b0ec8dfb20a36c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 772e3ac8c554bb8cc2aac7c28bf327e5e6c7cd9f03e1db981d55bd0a1fd71b48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Instaladora
+- Extinção de Serviços
+- TIR
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:298390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325133:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:22Z'
   warnings: []
   errors: []
 ---
@@ -101,26 +117,26 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinta, com efeitos a partir de 31 de Dezembro de 1983, a Comissão Instaladora dos Terminais Terrestres Internacionais (CITTI), criada pela Resolução do Conselho de Ministros n.º 104/78, de 29 de Julho, passando a Direcção-Geral de Transportes Terrestres (DGTT) a exercer as atribuições cometidas por lei à CITTI, bem como a competência para os actos a que se refere o n.º 2 do artigo 6.º do [Decreto-Lei n.º 424/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1978-325133), de 22 de Dezembro.
+Artigo 1.º - 1 - É extinta, com efeitos a partir de 31 de Dezembro de 1983, a Comissão Instaladora dos Terminais Terrestres Internacionais (CITTI), criada pela Resolução do Conselho de Ministros n.º 104/78, de 29 de Julho, passando a Direcção-Geral de Transportes Terrestres (DGTT) a exercer as atribuições cometidas por lei à CITTI, bem como a competência para os actos a que se refere o n.º 2 do artigo 6.º do [Decreto-Lei n.º 424/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1978-325133), de 22 de Dezembro.
 
 2 - As referências à CITTI feitas em diplomas legais ou contratos devem entender-se como reportadas à DGTT.
 
-###### Art. 2.º - 1 - Para o exercício das atribuições e competências referidas no artigo anterior, o orçamento da DGTT para 1984 poderá vir a ser reforçado com as verbas incluídas no orçamento do Gabinete do Secretário de Estado dos Transportes para o funcionamento da CITTI.
+Art. 2.º - 1 - Para o exercício das atribuições e competências referidas no artigo anterior, o orçamento da DGTT para 1984 poderá vir a ser reforçado com as verbas incluídas no orçamento do Gabinete do Secretário de Estado dos Transportes para o funcionamento da CITTI.
 
 2 - Se estas se mostrarem insuficientes, poderá, nos termos legais, proceder-se ainda ao reforço do orçamento da DGTT com contrapartida em receitas do Fundo Especial de Transportes Terrestres.
 
-###### Art. 3.º O património e os bens afectos ao funcionamento da CITTI terão o destino que lhes for fixado por despacho do Ministro do Equipamento Social, sob proposta do secretário-geral do ex-Ministério dos Transportes e Comunicações.
+Art. 3.º O património e os bens afectos ao funcionamento da CITTI terão o destino que lhes for fixado por despacho do Ministro do Equipamento Social, sob proposta do secretário-geral do ex-Ministério dos Transportes e Comunicações.
 
-###### Art. 4.º O presente diploma produz efeitos desde o início do corrente ano.
+Art. 4.º O presente diploma produz efeitos desde o início do corrente ano.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - João Rosado Correia - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Maio de 1984.**
+Referendado em 8 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

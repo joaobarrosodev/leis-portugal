@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/18200/23352336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1982-396883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d22301f78b68fb8a3c1c99036a09689257d7aba842f074c64bece3dcb89a969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9be6547891d67f8becfab0102f4a82d06a6f7e284ff6fc8a68b9f5572d3a3909
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto dos Oficiais das Forças Armadas
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:507824:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:52Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +101,9 @@ de 9 de Agosto
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 14.º, 48.º e 104.º do Estatuto dos Oficiais das Forças Armadas, aprovado pelo [Decreto-Lei n.º 46672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824), de 29 de Novembro de 1965, passam a ter a seguinte redacção:
+Artigo único. Os artigos 14.º, 48.º e 104.º do Estatuto dos Oficiais das Forças Armadas, aprovado pelo [Decreto-Lei n.º 46672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824), de 29 de Novembro de 1965, passam a ter a seguinte redacção:
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 § 1.º Os oficiais do activo de licença ilimitada, da reserva fora da actividade do serviço, na reforma extraordinária e separados do serviço:
 
@@ -110,7 +121,7 @@ b) Na data de tomada de posse ou de exoneração devem dar conhecimento ao respe
 
 § 3.º O regresso à efectividade de serviço dos oficiais do activo de licença ilimitada e da reserva deverá ser precedido de parecer do conselho superior de disciplina do respectivo ramo, quando as competentes autoridades militares entendam poder haver incompatibilidade entre o serviço que iriam prestar e as actividades por eles até então desempenhadas, tenham estas tido carácter público ou privado.
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 § 1.º Os oficiais da reserva licenciados só podem ser convocados para:
 
@@ -124,7 +135,7 @@ d) Prestar serviço efectivo, por decisão do titular do respectivo departamento
 
 § 2.º Os oficiais que ao transitarem do activo para a reserva estejam na situação de licença ilimitada são colocados na reserva na situação de licenciados, a menos que requeiram continuar naquela situação.
 
-###### Art. 104.º ...
+Art. 104.º ...
 
 § 1.º ...
 
@@ -134,8 +145,8 @@ d) Prestar serviço efectivo, por decisão do titular do respectivo departamento
 
 Visto e aprovado em Conselho da Revolução em 14 de Julho de 1982.
 
-**Promulgado em 28 de Julho de 1982.**
+Promulgado em 28 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

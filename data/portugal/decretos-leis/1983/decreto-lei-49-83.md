@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02500/02750284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1983-308554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 132bf13ed36a1616559f6ea8e7a9b8fcb7648cf9bbdbc32e7a32417994dd8e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f54dc078859fea1394f6a3335fbaab68ef772e3c75658897f7627b55decb7bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Qualidade de VIDA
+- Orgânica
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661708:por
+  label: "Alterado o art. 13º e aditado o art. 13º-A pelo DEC LEI.107/84.1984.04.02.PCM DR.IS [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1984-661708
+  date: '1984-04-02'
+- type: amended_by
+  target: pt:dre:283521:por
+  label: "Extinto o Serviço Nacional de Parques, Reservas e Conservação da Natureza, pelo DEC LEI.187/93.24.05.1993.MARN,\
+    \ DR.IS-A [120] de 24.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-1993-283521
+  date: '1993-05-24'
+- type: cites
+  target: pt:dre:276632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:19Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +229,11 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Ministério da Qualidade de Vida, adiante designado por MQV, é o departamento governamental que tem por finalidade defender e promover a qualidade de vida das populações, de modo a garantir, no quadro geográfico nacional, um desenvolvimento económico, social e cultural harmonioso.
+Artigo 1.º - 1 - O Ministério da Qualidade de Vida, adiante designado por MQV, é o departamento governamental que tem por finalidade defender e promover a qualidade de vida das populações, de modo a garantir, no quadro geográfico nacional, um desenvolvimento económico, social e cultural harmonioso.
 
 2 - O MQV mantém, para a realização dos seus objectivos, estreita colaboração com entidades públicas e privadas, incluindo as estruturas regionais e autárquicas, o sector cooperativo e as associações particulares cujas acções tenham repercussão naqueles domínios.
 
-###### Art. 2.º - 1 - São atribuições do MQV:
+Art. 2.º - 1 - São atribuições do MQV:
 
 a) Promover as acções necessárias à formulação e execução, de forma coordenada, das políticas do seu domínio, nomeadamente as de ordenamento do território, de ambiente, de conservação da natureza, de defesa do consumidor e de desporto e recreio;
 
@@ -194,13 +265,13 @@ o) Promover e apoiar a investigação e formar e actualizar o pessoal científic
 
 p) Ocupar-se dos assuntos relativos à cooperação internacional nos domínios próprios das suas atribuições, sem prejuízo da competência própria dos ministérios com intervenção no domínio das relações internacionais.
 
-###### Art. 3.º - 1 - Compete ao Ministro da Qualidade de Vida a representação do Ministério e assegurar a realização das atribuições deste.
+Art. 3.º - 1 - Compete ao Ministro da Qualidade de Vida a representação do Ministério e assegurar a realização das atribuições deste.
 
 2 - A competência do Ministro da Qualidade de Vida pode ser delegada nos secretários de Estado que, nos termos do diploma que institui a Lei Orgânica do Governo, desempenhem funções no MQV.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º - 1 - O MQV compreende os seguintes órgãos e serviços:
+Art. 4.º - 1 - O MQV compreende os seguintes órgãos e serviços:
 
 a) De apoio consultivo e coordenação:
 
@@ -230,11 +301,11 @@ d) De carácter operativo:
 
 3 - O MQV disporá de delegações regionais em cada uma das regiões que vierem a ser definidas e das delegações locais julgadas convenientes para o desempenho das suas atribuições.
 
-###### Art. 5.º - 1 - Na dependência do MQV funciona o Fundo de Fomento do Desporto, organismo criado nos termos do [Decreto-Lei n.º 46449](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46449-1965-291967), de 23 de Julho de 1965, e dotado de personalidade jurídica e autonomia administrativa e financeira.
+Art. 5.º - 1 - Na dependência do MQV funciona o Fundo de Fomento do Desporto, organismo criado nos termos do [Decreto-Lei n.º 46449](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46449-1965-291967), de 23 de Julho de 1965, e dotado de personalidade jurídica e autonomia administrativa e financeira.
 
 2 - As atribuições, competências, composição e funcionamento do Fundo de Fomento do Desporto são objecto de diploma legal próprio.
 
-###### Art. 6.º - 1 - Na dependência do MQV funciona o Instituto Nacional de Defesa do Consumidor (INDC), organismo criado nos termos do disposto no artigo 15.º da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, e dotado de personalidade jurídica e autonomia administrativa.
+Art. 6.º - 1 - Na dependência do MQV funciona o Instituto Nacional de Defesa do Consumidor (INDC), organismo criado nos termos do disposto no artigo 15.º da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, e dotado de personalidade jurídica e autonomia administrativa.
 
 2 - São atribuições do INDC:
 
@@ -250,7 +321,7 @@ e) Estabelecer contactos regulares com organismos similares estrangeiros e promo
 
 3 - As competências, estrutura orgânica e funcionamento do INDC são objecto de diploma legal próprio.
 
-###### Art. 7.º - 1 - O conselho consultivo do MQV é o órgão superior de consulta do Ministro e terá como objectivo garantir a concertação permanente das políticas desenvolvidas no âmbito das atribuições do MQV.
+Art. 7.º - 1 - O conselho consultivo do MQV é o órgão superior de consulta do Ministro e terá como objectivo garantir a concertação permanente das políticas desenvolvidas no âmbito das atribuições do MQV.
 
 2 - O conselho consultivo funcionará em plenário, enquanto órgão de coordenação global das actividades no âmbito das atribuições do Ministério.
 
@@ -270,7 +341,7 @@ c) Defesa do consumidor.
 
 7 - A Secretaria-Geral assegurará os serviços de expediente, contabilidade e arquivo do conselho.
 
-###### Art. 8.º - 1 - O Gabinete de Estudos e Planeamento (GEP) é um serviço de estudos e planeamento e apoio técnico do MQV, ao qual incumbe:
+Art. 8.º - 1 - O Gabinete de Estudos e Planeamento (GEP) é um serviço de estudos e planeamento e apoio técnico do MQV, ao qual incumbe:
 
 a) Apoiar o Ministro e membros do Governo em funções no MQV em todas as matérias que lhe forem submetidas, nomeadamente as relacionadas com o planeamento;
 
@@ -308,7 +379,7 @@ a) A Comissão de Planeamento do MQV;
 
 b) A Comissão Consultiva de Estatística.
 
-###### Art. 9.º - 1 - O Gabinete de Defesa do Consumidor (GDC) é um serviço de apoio técnico que tem por finalidade promover e participar na política de salvaguarda dos direitos e interesses do consumidor, ao qual incumbe:
+Art. 9.º - 1 - O Gabinete de Defesa do Consumidor (GDC) é um serviço de apoio técnico que tem por finalidade promover e participar na política de salvaguarda dos direitos e interesses do consumidor, ao qual incumbe:
 
 a) Prestar apoio ao Ministro da Qualidade de Vida na promoção da política de defesa do consumidor;
 
@@ -328,7 +399,7 @@ h) Propor a celebração de acordos e convenções internacionais, bem como part
 
 2 - Junto do GDC funciona o conselho de publicidade, órgão criado nos termos do disposto no artigo 41.º do [Decreto-Lei n.º 421/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1980-461621), de 30 de Setembro.
 
-###### Art. 10.º - 1 - A Secretaria-Geral é um serviço de gestão e apoio técnico-administrativo, ao qual incumbe:
+Art. 10.º - 1 - A Secretaria-Geral é um serviço de gestão e apoio técnico-administrativo, ao qual incumbe:
 
 a) Desempenhar funções de carácter comum aos diversos órgãos e serviços do Ministério nos domínios da gestão e administração do pessoal, gestão e administração financeira e patrimonial, economato e arquivo geral;
 
@@ -360,7 +431,7 @@ o) Pronunciar-se sobre todos os assuntos de natureza jurídica que lhe sejam sub
 
 2 - A Secretaria-Geral poderá ter, junto dos demais serviços do MQV, quando a sua especial complexidade o justifique, unidades administrativas hierarquicamente a estes subordinadas, mas funcionalmente dependentes da sua orientação técnica.
 
-###### Art. 11.º A Direcção-Geral do Ordenamento (DGO) é um serviço que tem por finalidade promover, instituir e coordenar um correcto ordenamento do território, ao qual incumbe:
+Art. 11.º A Direcção-Geral do Ordenamento (DGO) é um serviço que tem por finalidade promover, instituir e coordenar um correcto ordenamento do território, ao qual incumbe:
 
 a) Promover o ordenamento do território nacional, através da elaboração de planos de ordenamento que definam as potencialidades e capacidades do território, em ordem à salvaguarda do património natural e cultural e à correcta execução dos planos de desenvolvimento;
 
@@ -386,7 +457,7 @@ l) Estudar e propor conceitos e sistemas de recreio integrado na estrutura geral
 
 m) Propor a celebração de acordos e convenções internacionais e participar nas actividades dos organismos internacionais que se ocupem de assuntos relacionados com as suas atribuições.
 
-###### Art. 12.º A Direcção-Geral da Qualidade do Ambiente (DGQA) é um serviço que tem por finalidade promover a protecção e qualidade do ambiente, ao qual incumbe:
+Art. 12.º A Direcção-Geral da Qualidade do Ambiente (DGQA) é um serviço que tem por finalidade promover a protecção e qualidade do ambiente, ao qual incumbe:
 
 a) Promover, a nível nacional, um plano de protecção do ambiente;
 
@@ -426,7 +497,7 @@ s) Colaborar com a DGO nas acções necessárias à execução, apreciação e r
 
 t) Propor a celebração de acordos e convenções internacionais no âmbito da protecção e melhoria do ambiente e participar nas actividades dos organismos internacionais que se ocupam de assuntos relacionados com as suas atribuições.
 
-###### Art. 13.º O Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN) é um serviço com autonomia administrativa que tem por objectivos desenvolver os estudos e propor as medidas adequadas à protecção da natureza, ao qual incumbe:
+Art. 13.º O Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN) é um serviço com autonomia administrativa que tem por objectivos desenvolver os estudos e propor as medidas adequadas à protecção da natureza, ao qual incumbe:
 
 a) Promover, a nível nacional, um plano de conservação da natureza;
 
@@ -442,7 +513,7 @@ f) Estudar e inventariar os factores e sistemas ecológicos quanto à sua compos
 
 g) Propor a celebração de acordos e convenções internacionais no âmbito da conservação da natureza e protecção das paisagens e participar nas actividades dos organismos internacionais que se ocupem de assuntos relacionados com as suas atribuições.
 
-###### Art. 14.º - 1 - A Direcção-Geral dos Desportos (DGD) é um serviço que tem por objectivos o fomento e a orientação da prática gimnodesportiva e a criação de condições técnicas e materiais necessárias ao seu desenvolvimento, ao qual incumbe:
+Art. 14.º - 1 - A Direcção-Geral dos Desportos (DGD) é um serviço que tem por objectivos o fomento e a orientação da prática gimnodesportiva e a criação de condições técnicas e materiais necessárias ao seu desenvolvimento, ao qual incumbe:
 
 a) Fomentar e coordenar todas as áreas da actividade gimnodesportiva;
 
@@ -480,7 +551,7 @@ c) Os centros de estágio;
 
 d) As escolas desportivas.
 
-###### Art. 15.º - 1 - As delegações regionais e locais são serviços de representação e actuação desconcentrada do MQV aos quais incumbe, de acordo com as orientações superiormente definidas:
+Art. 15.º - 1 - As delegações regionais e locais são serviços de representação e actuação desconcentrada do MQV aos quais incumbe, de acordo com as orientações superiormente definidas:
 
 a) Elaborar e implementar as acções necessárias à efectiva execução e controle das medidas e acções tendentes à realização das atribuições genéricas do Ministério, ou da competência própria de cada órgão ou serviço central representado na área da respectiva jurisdição;
 
@@ -496,25 +567,25 @@ f) Exercer outras actividades que lhes vierem a ser fixadas por diploma legal ad
 
 2 - Compete também às delegações regionais do MQV, que funcionarão em cada uma das regiões, colaborar com os departamentos regionais de planeamento respectivos nos trabalhos relativos à elaboração e execução dos planos de desenvolvimento económico e social.
 
-###### Art. 16.º - 1 - Os órgãos e serviços do MQV manterão estreita relação entre si no exercício das respectivas competências.
+Art. 16.º - 1 - Os órgãos e serviços do MQV manterão estreita relação entre si no exercício das respectivas competências.
 
 2 - O funcionamento dos serviços do MQV poderá processar-se por grupos de projectos, sempre que a natureza dos objectivos a prosseguir o aconselhe.
 
 3 - A concepção e a execução de programas de desconcentração do MQV serão feitas em articulação com as delegações regionais e locais.
 
-###### Art. 17.º - 1 - O MQV poderá prestar serviços de assessoria directa no domínio das suas especialidades a solicitação de entidades públicas ou privadas.
+Art. 17.º - 1 - O MQV poderá prestar serviços de assessoria directa no domínio das suas especialidades a solicitação de entidades públicas ou privadas.
 
 2 - Quando a prestação de assessoria vise a realização de estudos ou projectos, serão estes orçamentados, podendo o seu custo ou parte dele ser suportado pelas entidades interessadas, nos termos que, por despacho, vierem a ser definidos.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 18.º - 1 - O quadro do pessoal dirigente do MQV é o constante do mapa anexo ao presente diploma, e será acescido dos restantes lugares que forem criados pelos decretos regulamentares instituidores dos quadros de pessoal do MQV;
+Art. 18.º - 1 - O quadro do pessoal dirigente do MQV é o constante do mapa anexo ao presente diploma, e será acescido dos restantes lugares que forem criados pelos decretos regulamentares instituidores dos quadros de pessoal do MQV;
 
 2 - Os lugares de director do Gabinete de Estudos e Planeamento, de director do Gabinete de Defesa do Consumidor e de presidente do Serviço Nacional de Parques, Reservas e Conservação da Natureza são equiparados, para todos os efeitos, ao de director-geral.
 
-###### Art. 19.º O recrutamento e o provimento do pessoal dirigente do MQV serão feitos nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e demais legislação aplicável.
+Art. 19.º O recrutamento e o provimento do pessoal dirigente do MQV serão feitos nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e demais legislação aplicável.
 
-###### Art. 20.º - 1 - O provimento do pessoal dos quadros será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+Art. 20.º - 1 - O provimento do pessoal dos quadros será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -532,15 +603,15 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar dos quadros do MQV em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 21.º - 1 - O decreto regulamentar que instituir os quadros únicos do pessoal do MQV poderá criar e definir categorias e carreiras não previstas na legislação geral aplicável.
+Art. 21.º - 1 - O decreto regulamentar que instituir os quadros únicos do pessoal do MQV poderá criar e definir categorias e carreiras não previstas na legislação geral aplicável.
 
 2 - O regime que vier a ser definido para as categorias e carreiras a que se refere o número anterior terá em conta os princípios e regras estabelecidos na legislação geral aplicável.
 
-###### Art. 22.º - 1 - O recrutamento e promoção faz-se nos termos do disposto no [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio.
+Art. 22.º - 1 - O recrutamento e promoção faz-se nos termos do disposto no [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio.
 
 2 - A natureza, programas, condições de aplicação e demais requisitos de selecção a adoptar por cada categoria e carreira serão definidos nos termos do artigo 18.º do decreto-lei mencionado no número anterior.
 
-###### Art. 23.º - 1 - A integração do pessoal que presta serviço no âmbito do MQV no quadro único a aprovar pelo diploma referido no n.º 2 do artigo 26.º deste diploma far-se-á sem prejuízo do disposto no artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, de acordo com as seguintes regras:
+Art. 23.º - 1 - A integração do pessoal que presta serviço no âmbito do MQV no quadro único a aprovar pelo diploma referido no n.º 2 do artigo 26.º deste diploma far-se-á sem prejuízo do disposto no artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, de acordo com as seguintes regras:
 
 a) Em categoria idêntica à que o funcionário ou agente possui;
 
@@ -556,13 +627,13 @@ b) Em categoria correspondente à das funções que o funcionário ou agente act
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 24.º - 1 - A estrutura, atribuições e competências dos órgãos e serviços do MQV constarão de decretos regulamentares, a publicar no prazo de 90 dias.
+Art. 24.º - 1 - A estrutura, atribuições e competências dos órgãos e serviços do MQV constarão de decretos regulamentares, a publicar no prazo de 90 dias.
 
 2 - O regime de pessoal e respectivo quadro constarão de decreto regulamentar aplicável aos serviços centrais do MQV.
 
 3 - Até à entrada em vigor dos diplomas legais referidos nos números anteriores, os órgãos e serviços do MQV e o regime de pessoal a eles afecto continuarão a reger-se pelas disposições que actualmente lhes são aplicáveis em tudo o que não contrariar o presente diploma.
 
-###### Art. 25.º - 1 - As delegações regionais do MQV serão criadas integradamente para todo o Ministério por decreto regulamentar, que, observando o disposto na [Resolução n.º 162/82](https://diariodarepublica.pt/dr/detalhe/resolucao/162-1982-374575), de 4 de Setembro, igualmente consagrará:
+Art. 25.º - 1 - As delegações regionais do MQV serão criadas integradamente para todo o Ministério por decreto regulamentar, que, observando o disposto na [Resolução n.º 162/82](https://diariodarepublica.pt/dr/detalhe/resolucao/162-1982-374575), de 4 de Setembro, igualmente consagrará:
 
 a) Normas definidoras de competência desconcentrada;
 
@@ -580,7 +651,7 @@ f) Termos em que poderão ser instituídas as delegações locais.
 
 3 - O regime de pessoal dos serviços desconcentrados do MQV e respectivo quadro constarão de decreto regulamentar.
 
-###### Art. 26.º - 1 - São extintos os seguintes órgãos e serviços:
+Art. 26.º - 1 - São extintos os seguintes órgãos e serviços:
 
 a) Conselho Nacional do Ordenamento e Ambiente;
 
@@ -600,36 +671,36 @@ b) Presidente do Serviço Nacional de Conservação da Natureza;
 
 c) Director-geral do Apoio Médico.
 
-###### Art. 27.º As dotações orçamentais dos organismos extintos pelo presente diploma e pelo [Decreto-Lei n.º 73/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1981-389051), de 7 de Abril, bem como todo o seu património, transitarão para os serviços agora criados, mediante despacho do Ministro da Qualidade de Vida.
+Art. 27.º As dotações orçamentais dos organismos extintos pelo presente diploma e pelo [Decreto-Lei n.º 73/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1981-389051), de 7 de Abril, bem como todo o seu património, transitarão para os serviços agora criados, mediante despacho do Ministro da Qualidade de Vida.
 
-###### Art. 28.º - 1 - Até serem aprovados os quadros de pessoal referidos no n.º 2 do artigo 24.º e no n.º 3 do artigo 25.º, o Ministro da Qualidade de Vida reverá a situação do pessoal requisitado ou destacado que presta serviço no MQV e fará as requisições ou destacamentos que julgue convenientes.
+Art. 28.º - 1 - Até serem aprovados os quadros de pessoal referidos no n.º 2 do artigo 24.º e no n.º 3 do artigo 25.º, o Ministro da Qualidade de Vida reverá a situação do pessoal requisitado ou destacado que presta serviço no MQV e fará as requisições ou destacamentos que julgue convenientes.
 
 2 - Salvo determinação em contrário, o pessoal requisitado ou destacado que preste serviço nos órgãos ou serviços extintos verá cessado o seu regime de requisição ou destacamento.
 
 3 - O pessoal que presta funções no MQV cujo vínculo não haja cessado nos termos do disposto nos números anteriores será distribuído pelos órgãos e serviços do Ministério, mediante despacho do Ministro da Qualidade de Vida.
 
-###### Art. 29.º Mantém-se a comissão de serviço do pessoal dirigente dos órgãos e serviços do MQV.
+Art. 29.º Mantém-se a comissão de serviço do pessoal dirigente dos órgãos e serviços do MQV.
 
-###### Art. 30.º - 1 - Sem prejuízo do disposto no artigo 28.º, são integrados nos quadros do pessoal do MQV os funcionários e agentes que nele prestem serviço à data da entrada em vigor do presente decreto-lei.
+Art. 30.º - 1 - Sem prejuízo do disposto no artigo 28.º, são integrados nos quadros do pessoal do MQV os funcionários e agentes que nele prestem serviço à data da entrada em vigor do presente decreto-lei.
 
 2 - Exceptua-se do disposto no número anterior o pessoal que preste serviço no MQV contratado além do quadro a prazo certo e determinado.
 
-###### Art. 31.º - 1 - Os encargos com remunerações certas e permanentes resultantes da execução deste diploma serão suportados pelas disponibilidades financeiras das dotações dos respectivos serviços.
+Art. 31.º - 1 - Os encargos com remunerações certas e permanentes resultantes da execução deste diploma serão suportados pelas disponibilidades financeiras das dotações dos respectivos serviços.
 
 2 - As dotações relativas a remunerações de pessoal inscritas nos orçamentos dos órgãos e serviços centrais do MQV, a que se refere o artigo 4.º, são transferidas, a partir de 1 de Janeiro de 1983, para o orçamento da Secretaria-Geral.
 
-###### Art. 32.º - 1 - Fica revogado o [Decreto-Lei n.º 73/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1981-389051), de 7 de Abril.
+Art. 32.º - 1 - Fica revogado o [Decreto-Lei n.º 73/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1981-389051), de 7 de Abril.
 
 2 - A entrada em vigor do decreto regulamentar relativo à Direcção-Geral dos Desportos fará caducar o [Decreto-Lei n.º 533/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1977-276632), de 31 de Dezembro, e a [Lei n.º 63/78](https://diariodarepublica.pt/dr/detalhe/lei/63-1978-329029), de 29 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 12 de Janeiro de 1983.**
+Promulgado em 12 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Quadro do pessoal a que se refere o n.º 1 do artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/02500/02750284.pdf))](https://files.diariodarepublica.pt/1s/1983/01/02500/02750284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/02500/02750284.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13900/14471448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1986-228863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e860058af8f8c33f5cd9692dbd31c19db837affb66a06e5b691bb15d279a385e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6e53e06aa60dab1cc4da971f88f7976beb5729271543acc9d3a47651ab577e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Despesas de Representação
+- Orgânica
+- Presidência do Conselho de Ministros
 relationships:
 - type: amended_by
   target: pt:dre:300009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409282:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300009:por
+  label: "Revogado pelo DEC LEI.147/93.1993.05.03.PCM, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1993-300009
+  date: '1993-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:34Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +105,22 @@ Considerando a necessidade de colocar o secretário-geral da Presidência do Con
 
 O Governo decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aditado ao artigo 4.º do [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, um n.º 6, com a seguinte redacção:
+Artigo 1.º É aditado ao artigo 4.º do [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, um n.º 6, com a seguinte redacção:
 
 6 - O secretário-geral perceberá uma quantia mensal para despesas de representação de igual montante à que for fixada para o cargo de secretário-geral da Presidência da República.
 
-###### Art. 2.º Os encargos com a execução do presente diploma poderão ser satisfeitos, no corrente ano económico, por conta da dotação «Pessoal dos quadros aprovados por lei» do orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.
+Art. 2.º Os encargos com a execução do presente diploma poderão ser satisfeitos, no corrente ano económico, por conta da dotação «Pessoal dos quadros aprovados por lei» do orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.
 
-###### Art. 3.º O presente diploma produz efeitos a partir do dia imediato ao da sua publicação.
+Art. 3.º O presente diploma produz efeitos a partir do dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 1986. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 5 de Junho de 1986.**
+Promulgado em 5 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1986.**
+Referendado em 12 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

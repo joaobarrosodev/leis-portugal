@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/05200/04810483.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1982-599905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8803c811522ae9ddbe2e95f83af9e2ebcc2d26c7e7f9c9a13e7e00223db1c1ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 841915910d9cdf8eda1bab1f1141bd8912a84544b12b31786ae2756a6b35cc66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Centro de Estudos e Formação Autárquica
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311062:por
+  label: "Aditados os n.ºs 3 e 4 ao artigo 11.º, pelo DEC LEI.105/83.18.02.1983.MFP, DR.IS [40] de 18.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1983-311062
+  date: '1983-02-18'
+- type: cites
+  target: pt:dre:474705:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:41Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +117,7 @@ Nestes termos:
 
 O Governo decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Do regime de instalação, fins e sede)
 
@@ -110,7 +127,7 @@ O Governo decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 201.�
 
 3 - Sem prejuízo de acções de formação e aperfeiçoamento a desenvolver em todo o território nacional, o CEFA tem a sua sede em Coimbra.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Competência da comissão instaladora)
 
@@ -140,7 +157,7 @@ k) Delegar em qualquer dos membros alguma ou algumas das suas competências;
 
 l) Deliberar sobre quaisquer outros assuntos que lhe sejam cometidos por lei ou por despacho do Ministro da Administração Interna.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Competência do presidente e do vice-presidente)
 
@@ -160,7 +177,7 @@ f) Delegar em qualquer dos membros da comissão a prática de actos da sua compe
 
 2 - Compete ao vice-presidente da comissão instaladora coadjuvar o presidente no exercício da suas funções e substituí-lo nas suas ausências ou impedimentos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Conselho administrativo)
 
@@ -176,7 +193,7 @@ c) Aprovar os balancetes mensais e organizar e apresentar as contas;
 
 d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão instaladora.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Conselhos consultivos)
 
@@ -184,7 +201,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 2 - Os conselhos consultivos serão presididos por um membro da comissão instaladora.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Curso de administração autárquica)
 
@@ -192,7 +209,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 2 - A duração, o plano e o regime de estudos do curso de administração autárquica, bem como os requisitos de admissão à matrícula, serão definidos por portaria conjunta dos Ministros da Administração Interna e da Reforma Administrativa.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Do valor dos diplomas e certificados)
 
@@ -200,7 +217,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 2 - Sem prejuízo do disposto no número anterior, a portaria prevista no n.º 2 do artigo 6.º fixará o valor específico do curso de administração autárquica para as carreiras do funcionalismo regional e local.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Pessoal)
 
@@ -210,7 +227,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 3 - As admissões caducam findo o período de instalação, se os admitidos não ingressarem no quadro a que se refere o artigo seguinte.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Quadro definitivo)
 
@@ -218,7 +235,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 2 - O pessoal admitido durante o período da instalação, em exercício à data da publicação da portaria referida no número anterior, poderá transitar para lugares do quadro, de acordo com as condições fixadas em decreto regulamentar.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Contratos de tarefa)
 
@@ -228,7 +245,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 3 - Os trabalhos previstos nos números anteriores, ainda que remunerados, prestados por docentes e investigadores dos estabelecimentos públicos nos termos dos contratos referidos neste artigo não prejudicam o regime de tempo integral ou de dedicação exclusiva em que o particular outorgante se encontrar no âmbito da sua função e carreira próprias.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Categorias e remunerações)
 
@@ -236,7 +253,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 2 - Os membros da comissão instaladora e os membros do conselho administrativo, quando exerçam as suas funções em regime de tempo parcial, terão direito a uma gratificação mensal a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Administração Interna e da Reforma Administrativa.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Gestão financeira)
 
@@ -244,7 +261,7 @@ d) Pronunciar-se sobre os assuntos que lhe forem apresentados pela comissão ins
 
 2 - Mensalmente são remetidos à Direcção-Geral de Contabilidade Pública balancetes donde constem o saldo, as receitas, as despesas autorizadas e pagas no mês anterior e as receitas e as despesas previstas para o mês seguinte.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Dúvidas)
 
@@ -252,8 +269,8 @@ As dúvidas resultantes da interpretação e aplicação do presente diploma ser
 
 Aprovado em Conselho de Ministros de 23 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 15 de Fevereiro de 1982.**
+Promulgado em 15 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

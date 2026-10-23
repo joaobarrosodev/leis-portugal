@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1983-308682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9904ab76796905b9d5cf9c31b39866011dd9ac66c11dfa82eaf7368caaca7db6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3565e082b1033b45b8bd8524a8efbb449d0ed33877611e24294b7fd9bd4447e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Criação de Serviços
+- Definição de Competências
+- Extinção de Serviços
+- Polícia da Administração Geral do Porto de Lisboa
+- PSP
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:643961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:27Z'
   warnings: []
   errors: []
 ---
@@ -92,29 +107,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Compete ao Ministério da Administração Interna, mediante parecer favorável do Ministro da Habitação, Obras Públicas e Transportes, criar, por portaria, subunidades da Polícia de Segurança Pública junto dos portos, de acordo com o disposto no artigo 8.º do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961).
+Artigo 1.º - 1 - Compete ao Ministério da Administração Interna, mediante parecer favorável do Ministro da Habitação, Obras Públicas e Transportes, criar, por portaria, subunidades da Polícia de Segurança Pública junto dos portos, de acordo com o disposto no artigo 8.º do [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961).
 
 2 - Da portaria a que se refere o número anterior constará o quadro de efectivos que serão afectos ao porto, a respectiva área de jurisdição, bem como eventuais condições especiais que em cada caso se justifiquem, designadamente quanto ao suporte administrativo e logístico.
 
-###### Art. 2.º As subunidades da Polícia de Segurança Pública existentes ou a criar junto das administrações e juntas portuárias ficam na dependência operacional do comando distrital da Polícia de Segurança Pública da respectiva área.
+Art. 2.º As subunidades da Polícia de Segurança Pública existentes ou a criar junto das administrações e juntas portuárias ficam na dependência operacional do comando distrital da Polícia de Segurança Pública da respectiva área.
 
-###### Art. 3.º Sem prejuízo do disposto no artigo anterior e da sua dependência hierárquica, o pessoal da Polícia de Segurança Pública em serviço nas áreas de jurisdição dos portos deve obediência às orientações de serviço das respectivas administrações e juntas portuárias, desde que canalizadas através dos respectivos comandantes de subunidade policial.
+Art. 3.º Sem prejuízo do disposto no artigo anterior e da sua dependência hierárquica, o pessoal da Polícia de Segurança Pública em serviço nas áreas de jurisdição dos portos deve obediência às orientações de serviço das respectivas administrações e juntas portuárias, desde que canalizadas através dos respectivos comandantes de subunidade policial.
 
-###### Art. 4.º Constitui encargo das administrações e juntas portuárias o pagamento dos vencimentos e demais abonos devidos ao pessoal da Polícia de Segurança Pública afecto à sua área de jurisdição.
+Art. 4.º Constitui encargo das administrações e juntas portuárias o pagamento dos vencimentos e demais abonos devidos ao pessoal da Polícia de Segurança Pública afecto à sua área de jurisdição.
 
-###### Art. 5.º - 1 - O pessoal destacado para as subunidades referidas no n.º 2 ficará abrangido pelo artigo 258.º do Decreto-Lei n.º 39550, de 26 de Fevereiro de 1954, não ocupando vaga no quadro orgânico da Polícia de Segurança Pública.
+Art. 5.º - 1 - O pessoal destacado para as subunidades referidas no n.º 2 ficará abrangido pelo artigo 258.º do Decreto-Lei n.º 39550, de 26 de Fevereiro de 1954, não ocupando vaga no quadro orgânico da Polícia de Segurança Pública.
 
 2 - No seu regresso ao quadro orgânico ficarão na situação de além-quadro, entrando para este logo que haja vagas.
 
-###### Art. 6.º - 1 - As administrações e juntas portuárias facultarão à Polícia de Segurança Pública as instalações necessárias ao regular funcionamento da subunidade de polícia a elas afecta, bem como a sua manutenção e conservação.
+Art. 6.º - 1 - As administrações e juntas portuárias facultarão à Polícia de Segurança Pública as instalações necessárias ao regular funcionamento da subunidade de polícia a elas afecta, bem como a sua manutenção e conservação.
 
 2 - Constituem património das administrações e juntas portuárias os meios de transporte e os demais meios necessários ao exercício da actividade policial.
 
 3 - O material a adquirir será seleccionado tendo em conta o parecer do Comando-Geral da Polícia de Segurança Pública, devendo o mesmo obedecer ao tipo do usado na generalidade pela Polícia de Segurança Pública.
 
-###### Art. 7.º É extinta a Polícia da Administração-Geral do Porto de Lisboa, cujas funções passam a ser exercidas pela Polícia de Segurança Pública.
+Art. 7.º É extinta a Polícia da Administração-Geral do Porto de Lisboa, cujas funções passam a ser exercidas pela Polícia de Segurança Pública.
 
-###### Art. 8.º - 1 - É desde já criada, na dependência do Comando Distrital da Polícia de Segurança Pública, a Divisão do Porto de Lisboa.
+Art. 8.º - 1 - É desde já criada, na dependência do Comando Distrital da Polícia de Segurança Pública, a Divisão do Porto de Lisboa.
 
 2 - A Divisão do Porto de Lisboa é, nos termos do exposto no [Decreto-Lei n.º 410/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1982-643961), do tipo A, com os seguintes efectivos:
 
@@ -136,12 +151,12 @@ Guardas - 225.
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 1982. - Diogo Pinto de Freitas do Amaral - José Ângelo Ferreira Correia - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 19 de Janeiro de 1983.**
+Promulgado em 19 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Janeiro de 1983.**
+Referendado em 21 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

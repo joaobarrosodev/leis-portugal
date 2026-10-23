@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 48/1983, 2º Suplemento, Série I de 1983-02-28
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 708-(51) a 708-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04802/00510051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-c-1983-401317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7d0a32047e79318b1f03004ba36f8bd6c5687f93fa707d5bd7f5e8dc4329011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6bec1b924b8af41ca23b6e1bc097f78d82fd0f4e90ae08b2d24a78ba7766d89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Imposto sobre Sucessões e Doações
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618082:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:23Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +125,11 @@ Assim:
 
 No uso da autorização conferida pelo artigo 18.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São elevados para 2750000$00 - 22000$00 e 3500000$00 - 28000$00, respectivamente, os limites fixados no artigo 1.º alínea a), e no artigo 2.º do [Decreto-Lei n.º 472/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1974-618082), de 20 de Setembro.
+Artigo 1.º São elevados para 2750000$00 - 22000$00 e 3500000$00 - 28000$00, respectivamente, os limites fixados no artigo 1.º alínea a), e no artigo 2.º do [Decreto-Lei n.º 472/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1974-618082), de 20 de Setembro.
 
-###### Art. 2.º É aditado um § 3.º ao artigo 2.º do Código da Sisa e do Imposto sobre as Sucessões e Doações e alterada a redacção dos seus artigos 182.º, 183.º, 184.º e 186.º pela forma seguinte:
+Art. 2.º É aditado um § 3.º ao artigo 2.º do Código da Sisa e do Imposto sobre as Sucessões e Doações e alterada a redacção dos seus artigos 182.º, 183.º, 184.º e 186.º pela forma seguinte:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ...
 
@@ -108,7 +137,7 @@ No uso da autorização conferida pelo artigo 18.º da [Lei n.º 2/83](https://d
 
 ...
 
-###### Art. 182.º Será pago por avença, mediante dedução no rendimento dos títulos, o imposto pela transmissão, a título gratuito:
+Art. 182.º Será pago por avença, mediante dedução no rendimento dos títulos, o imposto pela transmissão, a título gratuito:
 
 a) Dos títulos e certificados da dívida pública fundada, incluindo os certificados de aforro;
 
@@ -118,7 +147,7 @@ c) Das acções ao portador de sociedades com sede no território do continente 
 
 § único. ...
 
-###### Art. 183.º Ficam isentos do imposto por avença:
+Art. 183.º Ficam isentos do imposto por avença:
 
 1.º ...
 
@@ -140,7 +169,7 @@ b) ...
 
 § 3.º ...
 
-###### Art. 184.º A avença é de 5% dos juros, dividendos ou quaisquer outros rendimentos atribuídos aos títulos e deverá ser descontada nesses rendimentos pelas entidades que tiverem de fazer o respectivo pagamento.
+Art. 184.º A avença é de 5% dos juros, dividendos ou quaisquer outros rendimentos atribuídos aos títulos e deverá ser descontada nesses rendimentos pelas entidades que tiverem de fazer o respectivo pagamento.
 
 § 1.º ...
 
@@ -148,7 +177,7 @@ b) ...
 
 ...
 
-###### Art. 186.º ...
+Art. 186.º ...
 
 § único. ...
 
@@ -166,18 +195,18 @@ f) ...
 
 g) Data do vencimento dos juros das obrigações ou da colocação dos dividendos à disposição dos seus titulares.
 
-###### Art. 3.º O disposto no artigo 182.º, na redacção dada pelo presente decreto-lei, é aplicável aos casos em que a colocação dos rendimentos à disposição dos seus titulares se verifique posteriormente à entrada em vigor deste decreto-lei.
+Art. 3.º O disposto no artigo 182.º, na redacção dada pelo presente decreto-lei, é aplicável aos casos em que a colocação dos rendimentos à disposição dos seus titulares se verifique posteriormente à entrada em vigor deste decreto-lei.
 
-###### Art. 4.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 28 de Fevereiro de 1983.**
+Promulgado em 28 de Fevereiro de 1983.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Fevereiro de 1983.**
+Referendado em 28 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

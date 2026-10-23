@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13300/20992099.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1983-451837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10c71c1d39f6f5383d2c8c4a30135ee7cafa146052b3dcc2ba6a88f3d5a9dce6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d262da301fd806e6fcd17ec906fc95d725632d7f3fbd14d3e123e68b016d0c3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gratificação
+- Inspecção Geral do Ensino
+- Pessoal Dirigente
+- Pessoal Técnico
 relationships:
 - type: amended_by
   target: pt:dre:400201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:230890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:400201:por
+  label: "Revogado, desde a sua entrada em vigor, pelo DEC LEI.343/84.26.10.1984.PCM, DR.IS [249] de 26.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1984-400201
+  date: '1984-10-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:41Z'
   warnings: []
   errors: []
 ---
@@ -101,28 +126,28 @@ Ao abrigo do n.º 1 do artigo 1.º do Decreto n.º 59/76, de 23 de Janeiro:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A gratificação a atribuir ao pessoal dirigente e técnico de inspecção dos quadros da Inspecção-Geral de Ensino, constante dos mapas anexos ao [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro, passa a ser fixada por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa.
+Artigo 1.º - 1 - A gratificação a atribuir ao pessoal dirigente e técnico de inspecção dos quadros da Inspecção-Geral de Ensino, constante dos mapas anexos ao [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro, passa a ser fixada por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa.
 
 2 - O abono da gratificação referida no número anterior fica condicionado à efectivação mensal de 15 deslocações em serviço.
 
 3 - Quando o número de deslocações for inferior a 15, o abono de gratificação será calculado na base de 1/15 desse montante por deslocação.
 
-###### Art. 2.º - 1 - Para efeito do artigo anterior, consideram-se deslocações em serviço as que obedecerem aos regimes previstos no [Decreto-Lei n.º 519-M/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m-1979-510013), de 28 de Dezembro.
+Art. 2.º - 1 - Para efeito do artigo anterior, consideram-se deslocações em serviço as que obedecerem aos regimes previstos no [Decreto-Lei n.º 519-M/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m-1979-510013), de 28 de Dezembro.
 
 2 - Nas deslocações por dias sucessivos, cada dia conta como sendo uma deslocação para efeitos de cálculo da gratificação referida no n.º 1 do artigo 1.º
 
-###### Art. 3.º É revogado o artigo 65.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
+Art. 3.º É revogado o artigo 65.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
 
-###### Art. 4.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1983.
+Art. 4.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1983.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - João José Fraústo da Silva - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 25 de Maio de 1983.**
+Promulgado em 25 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Maio de 1983.**
+Referendado em 26 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

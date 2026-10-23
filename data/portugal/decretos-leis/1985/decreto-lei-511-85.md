@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1985, 3º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4260-(28) a 4260-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30103/00280031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1985-546417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8435aa06680a8c05548e8080ac0b936180be3672008f37dda02d5384826032e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4502956414598c0d6d4c06a2fbc6a477ac36a45790cd1d39a0d670faf803df79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- Aeroporto
+- Alfândega
+- ANA
+- Descentralização
+- Mercadoria
+- Política Pautal
+- Regulamento das Alfândegas
+- Terminal Aeroportuário
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498333:por
+  label: "Alterado o art. 13º do Dec 31730, de 15-Dez 1941, na redacção do presente diploma, pelo DEC LEI.35/91.18.01.1991.MF,\
+    \ DR.IS-A [15] de 18.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1991-498333
+  date: '1991-01-18'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:178354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:31Z'
   warnings: []
   errors: []
 ---
@@ -103,25 +144,25 @@ No uso da autorização conferida pela alínea f) do artigo 30.º da [Lei n.º 2
 
 ## TÍTULO I — Condução das mercadorias à alfândega
 
-###### Artigo 1.º As mercadorias introduzidas no território aduaneiro estão, desde essa introdução, sujeitas a fiscalização aduaneira, podendo, se for caso disso, ser objecto de controle por parte das autoridades aduaneiras.
+Artigo 1.º As mercadorias introduzidas no território aduaneiro estão, desde essa introdução, sujeitas a fiscalização aduaneira, podendo, se for caso disso, ser objecto de controle por parte das autoridades aduaneiras.
 
-###### Art. 2.º - 1 - As mercadorias mencionadas no artigo 1.º devem ser imediatamente conduzidas a uma estância aduaneira ou a um outro local sujeito a fiscalização designado ou aprovado pelas autoridades aduaneiras, utilizando, se for caso disso, o percurso fixado por essas autoridades.
+Art. 2.º - 1 - As mercadorias mencionadas no artigo 1.º devem ser imediatamente conduzidas a uma estância aduaneira ou a um outro local sujeito a fiscalização designado ou aprovado pelas autoridades aduaneiras, utilizando, se for caso disso, o percurso fixado por essas autoridades.
 
 2 - São equiparadas às mercadorias introduzidas no território aduaneiro nacional as que provenham de uma zona franca implantada nesse território.
 
 3 - O disposto no n.º 1 não obsta à aplicação de quaisquer disposições autónomas ou convencionais em vigor em matéria de tráfego turístico ou fronteiriço, na medida em que o exercício da fiscalização aduaneira não seja afectado em resultado dessa aplicação.
 
-###### Art. 3.º O preceituado no artigo 2.º não é aplicável às mercadorias que se encontrem a bordo de embarcações ou aeronaves que atravessem o mar territorial ou o espaço aéreo nacionais e que não tenham por destino um porto ou um aeroporto situados em Portugal.
+Art. 3.º O preceituado no artigo 2.º não é aplicável às mercadorias que se encontrem a bordo de embarcações ou aeronaves que atravessem o mar territorial ou o espaço aéreo nacionais e que não tenham por destino um porto ou um aeroporto situados em Portugal.
 
 ## TÍTULO II — Apresentação das mercadorias à alfândega
 
-###### Art. 4.º - 1 - As mercadorias chegadas, em conformidade com o disposto nos n.os 1 e 2 do artigo 2.º a uma estância aduaneira ou a qualquer outro local designado ou aprovado pelas autoridades aduaneiras devem ser apresentadas à alfândega.
+Art. 4.º - 1 - As mercadorias chegadas, em conformidade com o disposto nos n.os 1 e 2 do artigo 2.º a uma estância aduaneira ou a qualquer outro local designado ou aprovado pelas autoridades aduaneiras devem ser apresentadas à alfândega.
 
 A apresentação à alfândega consiste na comunicação daquela chegada às autoridades aduaneiras, nas formas para o efeito estabelecidas.
 
 2 - A apresentação das mercadorias à alfândega e a entrega da declaração sumária mencionada no artigo 5.º podem ocorrer simultaneamente.
 
-###### Art. 5.º - 1 - Com ressalva das disposições eventualmente aplicáveis às mercadorias que circulem sob um regime de trânsito aquando da sua introdução no território aduaneiro nacional e do disposto no artigo seguinte, as mercadorias referidas nos n.os 1 e 2 do artigo 2.º devem ser objecto de uma declaração sumária.
+Art. 5.º - 1 - Com ressalva das disposições eventualmente aplicáveis às mercadorias que circulem sob um regime de trânsito aquando da sua introdução no território aduaneiro nacional e do disposto no artigo seguinte, as mercadorias referidas nos n.os 1 e 2 do artigo 2.º devem ser objecto de uma declaração sumária.
 
 2 - Pode ser aceite, a título de declaração sumária, qualquer documento aduaneiro, comercial ou administrativo que contenha, pelo menos, os elementos seguintes:
 
@@ -139,11 +180,11 @@ d) O local de carregamento das mercadorias nesse meio de transporte.
 
 5 - Quando se verificar o caso previsto no § 1.º do artigo 17.º do Regulamento das Alfândegas atrás referido, podem igualmente ser aceites, a título de declaração sumária e relativamente à carga desembarcada, os competentes manifestos.
 
-###### Art. 6.º Sem prejuízo das disposições aplicáveis às mercadorias transportadas por viajantes, aos objectos de correspondência postal e às encomendas postais, pode a entrega da declaração sumária ser dispensada relativamente às mercadorias que sejam declaradas para um regime aduaneiro antes de decorrido o prazo de 24 horas previsto no artigo 8.º
+Art. 6.º Sem prejuízo das disposições aplicáveis às mercadorias transportadas por viajantes, aos objectos de correspondência postal e às encomendas postais, pode a entrega da declaração sumária ser dispensada relativamente às mercadorias que sejam declaradas para um regime aduaneiro antes de decorrido o prazo de 24 horas previsto no artigo 8.º
 
-###### Art. 7.º A declaração sumária deve ser entregue, devidamente assinada pela pessoa responsável pelas mercadorias transportadas ou pelo seu representante legal, no serviço aduaneiro competente para a receber, e é por este serviço numerada e registada, devendo ser conservada para controle do destino aduaneiro dado às mercadorias.
+Art. 7.º A declaração sumária deve ser entregue, devidamente assinada pela pessoa responsável pelas mercadorias transportadas ou pelo seu representante legal, no serviço aduaneiro competente para a receber, e é por este serviço numerada e registada, devendo ser conservada para controle do destino aduaneiro dado às mercadorias.
 
-###### Art. 8.º - 1 - A declaração sumária deve ser entregue:
+Art. 8.º - 1 - A declaração sumária deve ser entregue:
 
 a) Para as mercadorias chegadas por via marítima, no prazo de 24 horas previsto no artigo 9.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941;
 
@@ -153,19 +194,19 @@ Em qualquer caso, o prazo para entrega da declaração sumária não poderá exc
 
 2 - Quando, para as mercadorias que circulem sob um regime de trânsito internacional, haja lugar à entrega de uma declaração sumária, o prazo para a entrega deste documento é contado a partir do momento em que as mercadorias deixem de estar sujeitas àquele regime.
 
-###### Art. 9.º A descarga das mercadorias não poderá ter lugar antes da entrega da declaração sumária no serviço aduaneiro competente, ou, caso as mercadorias tenham entretanto sido declaradas para um regime aduaneiro, antes da entrega da declaração para esse regime.
+Art. 9.º A descarga das mercadorias não poderá ter lugar antes da entrega da declaração sumária no serviço aduaneiro competente, ou, caso as mercadorias tenham entretanto sido declaradas para um regime aduaneiro, antes da entrega da declaração para esse regime.
 
 Todavia, e desde que tenham sido tornadas as medidas necessárias para assegurar a fiscalização das mercadorias em causa, pode aquele serviço, a pedido do interessado, autorizar, por escrito, a descarga das mercadorias, antes da entrega da declaração sumária, para locais sujeitos a fiscalização aduaneira por si designados.
 
 As operações de descarga autorizadas devem realizar-se durante as horas e nas condições fixadas por aquele serviço, o qual pode, sempre que para tal haja motivo justificativo, mandar sustar a descarga.
 
-###### Art. 10.º As mercadorias apresentadas à alfândega que não tenham sido declaradas para um regime aduaneiro antes de decorridas os prazos máximos previstos no artigo 8.º, n.º 1 ou n.º 2, consoante os casos, serão colocadas em depósito provisório.
+Art. 10.º As mercadorias apresentadas à alfândega que não tenham sido declaradas para um regime aduaneiro antes de decorridas os prazos máximos previstos no artigo 8.º, n.º 1 ou n.º 2, consoante os casos, serão colocadas em depósito provisório.
 
 ## TÍTULO III — Disposições diversas
 
-###### Art. 11.º Os artigos 9.º, 13.º, 15.º, 25.º, 37.º, 42.º, 104.º, 166.º, 168.º e 170.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
+Art. 11.º Os artigos 9.º, 13.º, 15.º, 25.º, 37.º, 42.º, 104.º, 166.º, 168.º e 170.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
 
-###### Art. 9.º No prazo de 24 horas, a contar da chegada das embarcações ao porto, os capitães ou mestres das referidas embarcações entregarão no serviço aduaneiro competente:
+Art. 9.º No prazo de 24 horas, a contar da chegada das embarcações ao porto, os capitães ou mestres das referidas embarcações entregarão no serviço aduaneiro competente:
 
 1.º ...
 
@@ -213,7 +254,7 @@ Das cópias dos conhecimentos aludidos no n.º 2 devem constar, designadamente, 
 
 § 8.º ...
 
-###### Art. 13.º Os capitães ou mestres das embarcações que entrarem sem carga ou em lastro são obrigados a entregar, em Lisboa e Porto, no serviço de fiscalização da respectiva alfândega e, nos demais casos, na competente estância aduaneira:
+Art. 13.º Os capitães ou mestres das embarcações que entrarem sem carga ou em lastro são obrigados a entregar, em Lisboa e Porto, no serviço de fiscalização da respectiva alfândega e, nos demais casos, na competente estância aduaneira:
 
 a) Manifesto negativo, tratando-se de embarcações de arqueação superior a 750 t;
 
@@ -227,11 +268,11 @@ b) Certificado comprovativo de que a embarcação saiu em lastro, designando a s
 
 § 4.º ...
 
-###### Art. 15.º O manifesto, traduzido em português, será apresentado improrrogavelmente no prazo prescrito no artigo 9.º
+Art. 15.º O manifesto, traduzido em português, será apresentado improrrogavelmente no prazo prescrito no artigo 9.º
 
 § único. A apresentação prescrita no corpo deste artigo será feita, em Lisboa e Porto, no serviço de fiscalização da respectiva alfândega e, nos demais casos, na competente estância aduaneira.
 
-###### Art. 25.º A descarga das mercadorias não poderá ter lugar enquanto não for entregue no serviço aduaneiro competente o manifesto indicado no artigo 9.º, n.º 2.
+Art. 25.º A descarga das mercadorias não poderá ter lugar enquanto não for entregue no serviço aduaneiro competente o manifesto indicado no artigo 9.º, n.º 2.
 
 Todavia, e desde que tenham sido tomadas as medidas necessárias para assegurar a fiscalização das mercadorias em causa, pode aquele serviço, a pedido do interessado, autorizar, por escrito, a descarga das mercadorias, antes da entrega do manifesto, para locais sujeitos a fiscalização aduaneira por ele designados, devendo a descarga efectuar-se durante as horas e nas condições fixadas por aquele serviço.
 
@@ -241,7 +282,7 @@ Todavia, e desde que tenham sido tomadas as medidas necessárias para assegurar 
 
 § 3.º ...
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 § 1.º ...
 
@@ -259,15 +300,15 @@ Todavia, e desde que tenham sido tomadas as medidas necessárias para assegurar 
 
 § 8.º ...
 
-###### Art. 42.º ...
+Art. 42.º ...
 
 § único. Sem embargo do disposto no corpo deste artigo, a alfândega tem a faculdade de superintender ou proceder directamente à conferência da descarga nele referida sempre que o entenda conveniente.
 
-###### Art. 104.º A tradução do manifesto será apresentada no prazo de 8 horas após a chegada da aeronave.
+Art. 104.º A tradução do manifesto será apresentada no prazo de 8 horas após a chegada da aeronave.
 
 Sempre que a estância aduaneira o exija, será apresentada, no mesmo prazo, a tradução da restante documentação.
 
-###### Art. 166.º Para as mercadorias importadas por meios de transporte diferentes dos indicados nos capítulos anteriores será exigido manifesto ou documento equivalente.
+Art. 166.º Para as mercadorias importadas por meios de transporte diferentes dos indicados nos capítulos anteriores será exigido manifesto ou documento equivalente.
 
 § 1.º O manifesto ou documento equivalente, do qual constarão, pelo menos, os elementos prescritos para os manifestos no § 1.º do artigo 9.º, será assinado pelo condutor do veículo e entregue, juntamente com uma colecção de duplicados de factura ou documento equivalente, imediatamente após a chegada das mercadorias à estância aduaneira ou a outro local designado ou aprovado pelas autoridades aduaneiras.
 
@@ -279,38 +320,38 @@ Quando a chegada das mercadorias ocorrer fora do horário de funcionamento da es
 
 § 4.º Do anteriormente disposto neste artigo excluem-se os produtos do solo das regiões limítrofes, para os quais não será de exigir manifesto ou documento equivalente.
 
-###### Art. 168.º As mercadorias serão conferidas com o manifesto ou documento equivalente, e, quando destinadas a outras estâncias aduaneiras, seguirão acompanhadas de guia de trânsito.
+Art. 168.º As mercadorias serão conferidas com o manifesto ou documento equivalente, e, quando destinadas a outras estâncias aduaneiras, seguirão acompanhadas de guia de trânsito.
 
-###### Art. 170.º Nenhum meio de transporte poderá seguir ao seu destino sem que a respectiva estância aduaneira fronteiriça confira toda a carga com os documentos que lhe disserem respeito, ficando o condutor do veículo responsável pelas diferenças encontradas entre a quantidade de volumes mencionados nos documentos indicados no artigo 166.º ou na guia de trânsito e o número de volumes encontrados no acto da conferência.
+Art. 170.º Nenhum meio de transporte poderá seguir ao seu destino sem que a respectiva estância aduaneira fronteiriça confira toda a carga com os documentos que lhe disserem respeito, ficando o condutor do veículo responsável pelas diferenças encontradas entre a quantidade de volumes mencionados nos documentos indicados no artigo 166.º ou na guia de trânsito e o número de volumes encontrados no acto da conferência.
 
-###### Art. 12.º O n.º 2 do n.º 6.º da [Portaria n.º 57/83](https://diariodarepublica.pt/dr/detalhe/portaria/57-1983-308353), de 25 de Janeiro, passa a ter a seguinte redacção:
+Art. 12.º O n.º 2 do n.º 6.º da [Portaria n.º 57/83](https://diariodarepublica.pt/dr/detalhe/portaria/57-1983-308353), de 25 de Janeiro, passa a ter a seguinte redacção:
 
 6.º - 1 - ...
 
 2 - Sem embargo do disposto no número anterior, a alfândega tem a faculdade de superintender ou proceder directamente à conferência das descargas, sempre que o entenda conveniente.
 
-###### Art. 13.º - 1 - As infracções ao disposto no presente diploma serão objecto de procedimento fiscal, nos termos do [Decreto-Lei n.º 187/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1983-451603), de 13 de Maio, e demais legislação aplicável.
+Art. 13.º - 1 - As infracções ao disposto no presente diploma serão objecto de procedimento fiscal, nos termos do [Decreto-Lei n.º 187/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1983-451603), de 13 de Maio, e demais legislação aplicável.
 
 2 - Sem prejuízo do disposto no número anterior, a não entrega da declaração sumária nos prazos legais é qualificada como transgressão fiscal.
 
 3 - É igualmente qualificável como transgressão fiscal a não entrega, nos prazos legais, da tradução dos manifestos prevista nos artigos 15.º e 104.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941.
 
-###### Art. 14.º O apuramento das declarações sumárias será efectuado à medida que for dado um destino aduaneiro às mercadorias, mediante averbamento, naqueles documentos, do número de ordem, data e nome da estância aduaneira processadora das declarações relativas ao regime aduaneiro atribuído, devendo o apuramento ser efectuado, sempre que possível, antes de ter sido autorizado o desalfandegamento das mercadorias.
+Art. 14.º O apuramento das declarações sumárias será efectuado à medida que for dado um destino aduaneiro às mercadorias, mediante averbamento, naqueles documentos, do número de ordem, data e nome da estância aduaneira processadora das declarações relativas ao regime aduaneiro atribuído, devendo o apuramento ser efectuado, sempre que possível, antes de ter sido autorizado o desalfandegamento das mercadorias.
 
-###### Art. 15.º As disposições do presente decreto-lei prevalecem sobre quaisquer normas que estabeleçam em sentido contrário.
+Art. 15.º As disposições do presente decreto-lei prevalecem sobre quaisquer normas que estabeleçam em sentido contrário.
 
-###### Art. 16.º As instruções necessárias à aplicação do presente decreto-lei serão definidas por despacho do Ministro das Finanças.
+Art. 16.º As instruções necessárias à aplicação do presente decreto-lei serão definidas por despacho do Ministro das Finanças.
 
-###### Art. 17.º O presente diploma entra em vigor em 1 de Janeiro de 1986.
+Art. 17.º O presente diploma entra em vigor em 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

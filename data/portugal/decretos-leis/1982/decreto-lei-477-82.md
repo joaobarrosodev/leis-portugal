@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29400/41924193.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1982-380903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ef973895460bd41baedc494931eb80e94d00da493cda2c12bd273794f1c4b4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19056ac57c76e33857a95fb132bc054c0cbc96204c539fa627fb392c55c4f0ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Penal
 relationships:
 - type: amended_by
   target: pt:dre:662562:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374394:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662562:por
+  label: "Revogado pelo DEC LEI.78/87.1987.02.17.MJ, DR.IS [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1987-662562
+  date: '1987-02-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:55Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +122,7 @@ Assim, usando da faculdade conferida pela [Lei n.º 25/82](https://diariodarepub
 
 O Governo decreta, nos termos do n.º 3, parte final, do artigo 168.º e da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Não é admissível liberdade provisória relativamente a crimes puníveis com pena de prisão cujo limite máximo seja superior a 8 anos.
+Artigo 1.º - 1 - Não é admissível liberdade provisória relativamente a crimes puníveis com pena de prisão cujo limite máximo seja superior a 8 anos.
 
 2 - Não é igualmente admissível liberdade provisória relativamente aos crimes a seguir enumerados, quando a pena que lhes corresponda for pela lei considerada como de prisão maior:
 
@@ -120,14 +142,14 @@ g) De associações criminosas ou cometidos por associações criminosas;
 
 h) Abrangidos pela Convenção para a Repressão de Actos Ilícitos Contra a Segurança da Aviação Civil, concluída em Montreal em 23 de Setembro de 1971; pela Convenção para a Repressão da Captura Ilícita de Aeronaves, concluída na Haia em 16 de Dezembro de 1970; pela Convenção Referente às Infracções e a Certos Outros Actos Cometidos a Bordo de Aeronaves, assinada em Tóquio a 14 de Setembro de 1963, e pela Convenção Europeia para a Repressão do Terrorismo, assinada em 27 de Janeiro de 1977.
 
-###### Art. 2.º Relativamente aos crimes referidos no artigo anterior, só será admitida a suspensão da prisão preventiva quando se verifiquem os requisitos do artigo 291.º-B do Código de Processo Penal e for de presumir que o arguido, pela idade ou saúde precária, não oferece perigosidade nem a sua libertação vai causar alarme no meio em que se insere.
+Art. 2.º Relativamente aos crimes referidos no artigo anterior, só será admitida a suspensão da prisão preventiva quando se verifiquem os requisitos do artigo 291.º-B do Código de Processo Penal e for de presumir que o arguido, pela idade ou saúde precária, não oferece perigosidade nem a sua libertação vai causar alarme no meio em que se insere.
 
-###### Art. 3.º Este diploma entra em vigor em 1 de Janeiro de 1983.
+Art. 3.º Este diploma entra em vigor em 1 de Janeiro de 1983.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 14 de Dezembro de 1982.**
+Promulgado em 14 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

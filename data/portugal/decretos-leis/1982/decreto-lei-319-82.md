@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/18400/23602363.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1982-397901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f0e0e03be6ba6a4354c431c79206cf001f23b8bf37d0b2d8a41125a62d4bcd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed3a5ec177cc3ee232d142e9a10a9e3b338824660c292d7068b3134fcfd11443
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Social
+- Instituto de Reinserção Social
+- Orgânica
+- Recluso
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545645:por
+  label: "Reestruturado o Instituto de Reinserção Social, que é integrado na administração directa do Estado, passando a designar-se\
+    \ Direcção-Geral da Reinserção Social (al. c) do nº 4 do art. 27º). Transferidas as atribuições referidas no nº 7 do mesmo\
+    \ artigo para o Instituto de Segurança Social, I.P., no âmbito do Ministério do Trabalho e Solidariedade Social, pelo\
+    \ DEC LEI.206/2006.27.10.2006.MJ, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2006-545645
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:56Z'
   warnings: []
   errors: []
 ---
@@ -124,19 +145,19 @@ Uma política criminal racional e actual importa, para além de uma acção huma
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, na dependência directa do Ministro da Justiça, o Instituto de Reinserção Social, instituto público personalizado dotado de autonomia administrativa e financeira.
+Artigo 1.º É criado, na dependência directa do Ministro da Justiça, o Instituto de Reinserção Social, instituto público personalizado dotado de autonomia administrativa e financeira.
 
-###### Art. 2.º - 1 - Ao Instituto de Reinserção Social compete desenvolver as actividades de serviço social prisional e pós-prisional, bem como implementar as medidas penais não institucionais existentes ou que venham a ser consagradas na lei, relativamente a delinquentes imputáveis e inimputáveis.
+Art. 2.º - 1 - Ao Instituto de Reinserção Social compete desenvolver as actividades de serviço social prisional e pós-prisional, bem como implementar as medidas penais não institucionais existentes ou que venham a ser consagradas na lei, relativamente a delinquentes imputáveis e inimputáveis.
 
 2 - A actividade do serviço poderá ser alargada, mediante decreto regulamentar, à prevenção criminal, em especial relativamente a fenómenos de marginalidade social, bem como a actividades visando a reintegração social dos indivíduos por eles atingidos.
 
 3 - Por diploma especial, a competência do Instituto poderá ainda abranger os menores sujeitos a medidas de tratamento em estabelecimento adequado ou de simples acompanhamento.
 
-###### Art. 3.º - 1 - O Instituto de Reinserção Social estruturar-se-á, para além dos serviços centrais, em centros regionais e núcleos de extensão, a definir de acordo com as necessidades e tendo em conta a localização das pessoas carecidas da assistência e auxílio e os diferentes tipos destas medidas.
+Art. 3.º - 1 - O Instituto de Reinserção Social estruturar-se-á, para além dos serviços centrais, em centros regionais e núcleos de extensão, a definir de acordo com as necessidades e tendo em conta a localização das pessoas carecidas da assistência e auxílio e os diferentes tipos destas medidas.
 
 2 - No âmbito do Instituto, e em condições a definir, serão igualmente criados lares de transição destinados a albergar temporariamente aqueles que, carecendo de acolhimento, tenham sido objecto de medidas institucionais ou não institucionais ou que se encontrem em situações de marginalidade social.
 
-###### Art. 4.º - 1 - A estrutura do Instituto e os respectivos quadros de pessoal serão definidos em decreto regulamentar, no qual se deve fixar:
+Art. 4.º - 1 - A estrutura do Instituto e os respectivos quadros de pessoal serão definidos em decreto regulamentar, no qual se deve fixar:
 
 a) A competência dos serviços e as formas de articulação das actividades dos vários centros regionais;
 
@@ -154,17 +175,17 @@ b) As condições em que será admitido o concurso de agentes de serviço social
 
 c) A transição para os quadros do Instituto dos funcionários da Direcção-Geral dos Serviços Prisionais integrados nas actuais carreiras afectas ao serviço social.
 
-###### Art. 5.º - 1 - O Instituto fica sujeito a regime de instalação durante um período de 3 anos, prorrogável por despacho do Ministro da Justiça por períodos de 1 ano.
+Art. 5.º - 1 - O Instituto fica sujeito a regime de instalação durante um período de 3 anos, prorrogável por despacho do Ministro da Justiça por períodos de 1 ano.
 
 2 - O regime aplicável durante esse período será o constante dos artigos seguintes.
 
-###### Art. 6.º A comissão instaladora será constituída por um presidente, que dispõe de voto de qualidade, e por 2 vogais, nomeados pelo Ministro da Justiça, com os vencimentos correspondentes, respectivamente, aos de director-geral e de subdirector-geral.
+Art. 6.º A comissão instaladora será constituída por um presidente, que dispõe de voto de qualidade, e por 2 vogais, nomeados pelo Ministro da Justiça, com os vencimentos correspondentes, respectivamente, aos de director-geral e de subdirector-geral.
 
-###### Art. 7.º O pessoal que, nos termos do artigo 11.º, seja recrutado para o exercício de funções de coordenação durante o período de instalação será remunerado por vencimento, a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Justiça e da Reforma Administrativa, correspondente ao previsto no regime geral de vencimentos da função pública para o equivalente lugar dos quadros.
+Art. 7.º O pessoal que, nos termos do artigo 11.º, seja recrutado para o exercício de funções de coordenação durante o período de instalação será remunerado por vencimento, a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Justiça e da Reforma Administrativa, correspondente ao previsto no regime geral de vencimentos da função pública para o equivalente lugar dos quadros.
 
-###### Art. 8.º A gestão administrativa, financeira e patrimonial do Instituto será assegurada, durante o período de instalação, por um conselho administrativo, presidido pelo presidente da comissão instaladora e integrado por um vogal da mesma comissão e por um dos funcionários recrutados nos termos do artigo anterior, designados pelo Ministro da Justiça.
+Art. 8.º A gestão administrativa, financeira e patrimonial do Instituto será assegurada, durante o período de instalação, por um conselho administrativo, presidido pelo presidente da comissão instaladora e integrado por um vogal da mesma comissão e por um dos funcionários recrutados nos termos do artigo anterior, designados pelo Ministro da Justiça.
 
-###### Art. 9.º Compete à comissão instaladora:
+Art. 9.º Compete à comissão instaladora:
 
 a) Gerir o Instituto, no âmbito da sua competência e com respeito pelas normas legais em vigor, dando execução aos planos superiormente aprovados;
 
@@ -180,7 +201,7 @@ f) Deliberar sobre a admissão de pessoal;
 
 g) Estabelecer planos para a formação do pessoal.
 
-###### Art. 10.º Ao presidente da comissão instaladora compete:
+Art. 10.º Ao presidente da comissão instaladora compete:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -190,17 +211,17 @@ c) Dirigir os serviços do Instituto e assegurar a gestão do seu pessoal;
 
 d) Delegar em qualquer dos membros da comissão instaladora a prática de actos da sua competência.
 
-###### Art. 11.º - 1 - Durante o período de instalação, o Ministro da Justiça poderá autorizar a admissão do pessoal indispensável ao funcionamento dos serviços, nos termos da lei geral, com base em planos periódicos elaborados pela comissão instaladora.
+Art. 11.º - 1 - Durante o período de instalação, o Ministro da Justiça poderá autorizar a admissão do pessoal indispensável ao funcionamento dos serviços, nos termos da lei geral, com base em planos periódicos elaborados pela comissão instaladora.
 
 2 - As admissões serão efectuadas em regime de prestação eventual de serviço, pelo período de 1 ano, tacitamente renovável, e caducam findo o período de instalação se os admitidos não ingressarem nos quadros do Instituto.
 
 4 - Poderá igualmente ser destacado ou requisitado para os serviços do Instituto, nos termos da lei geral, o pessoal necessário ao seu funcionamento.
 
-###### Art. 12.º Serão desenvolvidas as medidas necessárias à reciclagem dos funcionários referidos na alínea c) do n.º 2 do artigo 4.º, em termos a definir por despacho do Ministro da Justiça, sob proposta conjunta do Instituto e da DGSP.
+Art. 12.º Serão desenvolvidas as medidas necessárias à reciclagem dos funcionários referidos na alínea c) do n.º 2 do artigo 4.º, em termos a definir por despacho do Ministro da Justiça, sob proposta conjunta do Instituto e da DGSP.
 
-###### Art. 13.º A comissão instaladora pode celebrar contratos para a execução de trabalhos específicos, nos termos legalmente previstos para os contratos de tarefa.
+Art. 13.º A comissão instaladora pode celebrar contratos para a execução de trabalhos específicos, nos termos legalmente previstos para os contratos de tarefa.
 
-###### Art. 14.º - 1 - Constituem receitas do Instituto:
+Art. 14.º - 1 - Constituem receitas do Instituto:
 
 a) As dotações inscritas no Orçamento Geral do Estado;
 
@@ -214,18 +235,18 @@ e) Os saldos das contas de anos findos.
 
 2 - Constituem despesas do Instituto as que resultarem da execução das actividades que lhe são cometidas.
 
-###### Art. 15.º - 1 - Todas as receitas do Instituto são depositadas em contas bancárias à ordem da comissão instaladora, as quais serão movimentadas por cheques assinados por um dos membros do conselho administrativo, designado pelo seu presidente, e pelo responsável pelos serviços de contabilidade.
+Art. 15.º - 1 - Todas as receitas do Instituto são depositadas em contas bancárias à ordem da comissão instaladora, as quais serão movimentadas por cheques assinados por um dos membros do conselho administrativo, designado pelo seu presidente, e pelo responsável pelos serviços de contabilidade.
 
 2 - Mensalmente são remetidos à Direcção-Geral da Contabilidade Pública balancetes de onde constem o saldo, as receitas, as despesas autorizadas e pagas no mês anterior e as receitas e despesas previstas para o mês seguinte.
 
-###### Art. 16.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o Ministro de Estado e das Finanças e do Plano e o Ministro da Reforma Administrativa, quando estejam em causa matérias da sua competência.
+Art. 16.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o Ministro de Estado e das Finanças e do Plano e o Ministro da Reforma Administrativa, quando estejam em causa matérias da sua competência.
 
-###### Art. 17.º Os encargos resultantes da aplicação do presente diploma poderão ser suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça na parte excedente à dotação para o efeito inscrita no Orçamento Geral do Estado.
+Art. 17.º Os encargos resultantes da aplicação do presente diploma poderão ser suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça na parte excedente à dotação para o efeito inscrita no Orçamento Geral do Estado.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 31 de Julho de 1982.**
+Promulgado em 31 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

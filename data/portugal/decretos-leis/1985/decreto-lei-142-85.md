@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10400/11961196.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1985-152358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff28d42a7d3663c398427b3d7e6acad0c79a518991e63271a48af11a94424e32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bf1bb9f085008e00bf30335e60bb61ae91761c9857c9583a8a22a2281d94a7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Indemnização
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:335246:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:393783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335246:por
+  label: Revogado pelo DEC LEI.27/90.24.01.1990.MPAT, DR.IS [20] de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1990-335246
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:09Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +108,16 @@ Havendo necessidade de actualizar, decorridos mais de 5 anos sobre a última fix
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É elevado para 500000$00 o limite a que se refere o n.º 3 do artigo 42.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 513-G/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-g-1979-393783), de 24 de Dezembro.
+Artigo único. É elevado para 500000$00 o limite a que se refere o n.º 3 do artigo 42.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 513-G/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-g-1979-393783), de 24 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 10 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 
-**Promulgado em 22 de Abril de 1985.**
+Promulgado em 22 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Abril de 1985.**
+Referendado em 22 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

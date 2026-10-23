@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10300/10511051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1986-227449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae8cede2b6b594b19e128d3addbd52b2fd482a830b4f10c95272d413223a7948
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 857ccf17550f4dda58f33d01981af5d1a5918eba3c85ca7e861cbec8600e1daa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Café
+- Contribuições e Impostos
+- Importação
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285755:por
+  label: "Alterada a redacção do art. 1º, pelo DEC LEI.94/88.1988.03.21.MF, DR.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1988-285755
+  date: '1988-03-21'
+- type: amended_by
+  target: pt:dre:621714:por
+  label: "Abolido o imposto sobre o café, pelo DEC LEI.290/92.1992.12.28.MF, DR.IS-A [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1992-621714
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:194387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:30Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +124,20 @@ No uso da autorização conferida pelo n.º 2 do artigo 8.º da [Lei n.º 3/86](
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado um imposto interno de 90$00 por quilograma que incide sobre o consumo de produtos incluídos na posição 09.01 da Pauta dos Direitos de Importação.
+Artigo 1.º - 1 - É criado um imposto interno de 90$00 por quilograma que incide sobre o consumo de produtos incluídos na posição 09.01 da Pauta dos Direitos de Importação.
 
 2 - O imposto referido no número anterior será cobrado na altura do desembaraço aduaneiro quando se tratar de produtos importados.
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 253/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1979-381494), de 27 de Julho.
+Art. 2.º É revogado o [Decreto-Lei n.º 253/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1979-381494), de 27 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 14 de Fevereiro de 1986.**
+Promulgado em 14 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1986.**
+Referendado em 21 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1986-221108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d1db595a2abcc7f132a8367b56b30b80b22e14d188b53337fa35a7216d99f82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a07a761654549d2ca7f943ef1d576f0458e58a7e532ab60daa3f7f6070629bf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BENS de Consumo
+- Comércio
+- Empresa
+- Mercado Interno
+- Preço
+- Preço Declarado
+- Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:336551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:23Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +108,9 @@ Considerando-se a necessidade de rever os montantes de facturação previstos no
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, alterado pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, alterado pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Ficam sujeitos ao regime de preços declarados os bens ou serviços produzidos ou importados por empresas cuja facturação bruta total, correspondente a vendas no mercado interno no ano anterior, tenha sido superior a 575000 contos, mas somente aqueles bens ou serviços enquadrados numa posição da Classificação das Actividades Económicas (CAE, revisão de 1973) a seis dígitos, cuja facturação nessa posição tenha sido superior a 115000 contos, quando tais bens ou serviços não sejam abrangidos naquele estádio de produção ou importação por qualquer outro regime.
+Art. 4.º - 1 - Ficam sujeitos ao regime de preços declarados os bens ou serviços produzidos ou importados por empresas cuja facturação bruta total, correspondente a vendas no mercado interno no ano anterior, tenha sido superior a 575000 contos, mas somente aqueles bens ou serviços enquadrados numa posição da Classificação das Actividades Económicas (CAE, revisão de 1973) a seis dígitos, cuja facturação nessa posição tenha sido superior a 115000 contos, quando tais bens ou serviços não sejam abrangidos naquele estádio de produção ou importação por qualquer outro regime.
 
 2 - ...
 
@@ -109,18 +128,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 9 - A actualização do montante de facturação bruta dos bens ou serviços enquadrados numa posição CAE a seis dígitos deverá corresponder a um quinto do montante da facturação bruta total, revisto nos termos deste artigo.
 
-###### Art. 2.º O montante referido no artigo 1.º do [Decreto-Lei n.º 371/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1975-336551), de 16 de Julho, corresponderá ao volume de facturação bruta total relativo a vendas no mercado interno, estabelecido para as empresas nos termos do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, na redacção dada pelo presente decreto-lei.
+Art. 2.º O montante referido no artigo 1.º do [Decreto-Lei n.º 371/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1975-336551), de 16 de Julho, corresponderá ao volume de facturação bruta total relativo a vendas no mercado interno, estabelecido para as empresas nos termos do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, na redacção dada pelo presente decreto-lei.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação e aplica-se aos processos pendentes nessa data.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação e aplica-se aos processos pendentes nessa data.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1986. - Aníbal António Cavaco Silva - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 16 de Outubro de 1986.**
+Promulgado em 16 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1986.**
+Referendado em 21 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

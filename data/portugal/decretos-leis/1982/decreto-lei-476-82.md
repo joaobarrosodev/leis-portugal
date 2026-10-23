@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1982-380892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60e55115488d3fb66117f73a663b5d936e622a37ba8494625097bb6210b5b947
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46b662075a680c823e64f89b0875d7ad4382f0b0f7e2700168bf063f379bcfc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hidrocarbonetos
+- Importação
+- Ministério da Qualidade de VIDA
+- Poluição por Hidrocarbonetos
+- Proteção do Ambiente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:56Z'
   warnings: []
   errors: []
 ---
@@ -98,32 +103,32 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É proibida, a partir da data da entrada em vigor deste diploma, a produção de diclorodifluormetano e de triclorofluormetano.
+Artigo 1.º É proibida, a partir da data da entrada em vigor deste diploma, a produção de diclorodifluormetano e de triclorofluormetano.
 
-###### Art. 2.º - 1 - A partir de 1 de Janeiro de 1983, a importação de diclorodifluormetano, triclorofluormetano ou de misturas de que estes compostos façam parte, para utilização como propelentes de aerossóis e, bem assim, de embalagens de aerossóis que os contenham, com excepção dos casos previstos no artigo 3.º, não poderá exceder o total de 3000 t por ano.
+Art. 2.º - 1 - A partir de 1 de Janeiro de 1983, a importação de diclorodifluormetano, triclorofluormetano ou de misturas de que estes compostos façam parte, para utilização como propelentes de aerossóis e, bem assim, de embalagens de aerossóis que os contenham, com excepção dos casos previstos no artigo 3.º, não poderá exceder o total de 3000 t por ano.
 
 2 - A forma de distribuição do contingente fixado nos termos do número anterior será definida por despacho conjunto do Ministro de Estado e da Qualidade de Vida e do Ministro da Indústria, Energia e Exportação.
 
-###### Art. 3.º Exceptuam-se do disposto nos artigos anteriores:
+Art. 3.º Exceptuam-se do disposto nos artigos anteriores:
 
 1) Artigos ou utilizações com fins terapêuticos, a definir por despacho do Ministro dos Assuntos Sociais;
 
 2) Outros artigos ou utilizações cuja produção ou importação e comercialização se mostrem imprescindíveis, a definir por despacho conjunto do Ministro de Estado e da Qualidade de Vida e dos ministros de quem depende a sua produção, importação ou comercialização, consoante o caso.
 
-###### Art. 4.º - 1 - A partir de 1 de Janeiro de 1983, as firmas importadoras ou utilizadoras de diclorodifluormetano e de triclorofluormetano deverão manter um registo actualizado das quantidades importadas, adquiridas e em armazém daqueles compostos e, bem assim, dos quantitativos utilizados e seus destinos. O registo será facultado às actividades fiscalizadoras ou licenciadoras, sempre que solicitado.
+Art. 4.º - 1 - A partir de 1 de Janeiro de 1983, as firmas importadoras ou utilizadoras de diclorodifluormetano e de triclorofluormetano deverão manter um registo actualizado das quantidades importadas, adquiridas e em armazém daqueles compostos e, bem assim, dos quantitativos utilizados e seus destinos. O registo será facultado às actividades fiscalizadoras ou licenciadoras, sempre que solicitado.
 
 2 - Até ao fim do mês de Março de cada ano, as firmas referidas no número anterior deverão submeter à Comissão Reguladora dos Produtos Químicos e Farmacêuticos a transcrição daquele registo reportada ao ano findo.
 
 3 - O registo referido neste artigo pode ser feito por folhas mecanográficas.
 
-###### Art. 5.º Compete à Direcção-Geral das Alfândegas, à Guarda Fiscal e à Direcção-Geral de Fiscalização Económica a fiscalização das infracções ao preceituado no presente decreto-lei, sem prejuízo da competência das restantes autoridades e agentes.
+Art. 5.º Compete à Direcção-Geral das Alfândegas, à Guarda Fiscal e à Direcção-Geral de Fiscalização Económica a fiscalização das infracções ao preceituado no presente decreto-lei, sem prejuízo da competência das restantes autoridades e agentes.
 
-###### Art. 6.º As infracções ao disposto no presente decreto-lei serão punidas com coima de 10 contos a 100 contos, elevada a 200 contos no caso de reincidência dentro do prazo de 1 ano, a processar pelo Ministério da Qualidade de Vida.
+Art. 6.º As infracções ao disposto no presente decreto-lei serão punidas com coima de 10 contos a 100 contos, elevada a 200 contos no caso de reincidência dentro do prazo de 1 ano, a processar pelo Ministério da Qualidade de Vida.
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - Luís Eduardo da Silva Barbosa - Basílio Adolfo Mendonça Horta da Franca - Ricardo Manuel Simões Bayão Horta.
 
-**Promulgado em 10 de Dezembro de 1982.**
+Promulgado em 10 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

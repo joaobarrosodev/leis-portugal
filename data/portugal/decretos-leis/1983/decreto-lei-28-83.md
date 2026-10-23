@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01800/01410142.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1983-307787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: beeca004943381e70a9a31691aa94647c991c9c938050127e8c80728bfa1ce67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4905eb04235133f1335e7d5243204eafa8a12340bd698f9d1edd1ca90561bd66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspeção Geral de Finanças
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451260:por
+  label: "Alterado o artigo 35.º do Decreto-Lei n.º 513-Z/79, de 27 de Dezembro, na redacção do presente diploma, pelo DEC\
+    \ LEI.198/83.18.05.1983.MFP, DR.IS [114] de 18.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1983-451260
+  date: '1983-05-18'
+- type: cites
+  target: pt:dre:147386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:11Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +118,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 23.º, 24.º, 34.º, 35.º e 50.º, n.º 1, do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 23.º, 24.º, 34.º, 35.º e 50.º, n.º 1, do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, passam a ter a seguinte redacção:
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Direcção e constituição)
 
@@ -111,7 +132,7 @@ b) Repartição de Contabilidade, Economato e Reprografia.
 
 2 - Aos Serviços Administrativos compete, em geral, a execução de todas as tarefas de carácter administrativo, com exclusão daquelas que, respeitando à dinâmica própria de cada um dos outros serviços referidos no artigo 6.º, sejam prosseguidas pelos serviços indicados no artigo 25.º
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Repartições e atribuições)
 
@@ -145,13 +166,13 @@ c) Proceder à impressão dos suportes de informação, bem como de elementos de
 
 5 - As secções referidas nos números anteriores são chefiadas por chefes de secção.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Director de serviços)
 
 O lugar de director dos Serviços Administrativos é provido, por escolha, de entre chefes de repartição que possuam experiência, qualificação e competência adequadas ou outros indivíduos de reconhecida competência, em ambos os casos licenciados com curso superior adequado.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Chefes de repartição)
 
@@ -161,18 +182,18 @@ O lugar de director dos Serviços Administrativos é provido, por escolha, de en
 
 3 - Se a nomeação a que se refere o número anterior recair em funcionário público, o período de nomeação provisória poderá ser efectuado em regime de requisição.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Regimes de provimento)
 
 1 - O provimento dos lugares de inspector-geral, subinspector-geral e director dos Serviços Administrativos, equiparados, respectivamente, a director-geral, subdirector-geral e director de serviços, é efectuado nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, aplicando-se-lhes o regime respectivo, sem prejuízo do disposto nos artigos 32.º, 33.º e 34.º
 
-###### Art. 2.º O quadro de pessoal da Inspecção-Geral de Finanças, anexo ao [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), é aumentado de 1 lugar de director de serviços, 1 lugar de chefe de repartição e 1 lugar de chefe de secção.
+Art. 2.º O quadro de pessoal da Inspecção-Geral de Finanças, anexo ao [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), é aumentado de 1 lugar de director de serviços, 1 lugar de chefe de repartição e 1 lugar de chefe de secção.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 11 de Janeiro de 1983.**
+Promulgado em 11 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

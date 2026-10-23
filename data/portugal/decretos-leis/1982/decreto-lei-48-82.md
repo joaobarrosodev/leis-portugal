@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/04000/03450346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1982-600105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c596607f915489c38f01661c92c676eea057bd5e8dceb50766fb765309e7d6f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 015e2c989439cc7908047f94c9eab2ef22bec14758c80317fe2aa7f843d383ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional para a Investigação Científica e Tecnológica
+- Investigação Científica e Tecnológica
+- Jnict
+- Ministério da Cultura e Coordenação Científica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:194242:por
+  label: Revogado, salvo os n.ºs 2, 4 e 5 do seu art 9.º, o presente diploma, pelo(a) Decreto-Lei n.º 22/86 - Diário da República
+    n.º 39/1986, Série I de 1986-02-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-1986-194242
+  date: '1986-02-17'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:58Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +124,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A definição da política científica e tecnológica nacional compete ao Conselho de Ministros, sob proposta do Ministro da Cultura e Coordenação Científica.
+Artigo 1.º A definição da política científica e tecnológica nacional compete ao Conselho de Ministros, sob proposta do Ministro da Cultura e Coordenação Científica.
 
-###### Art. 2.º É criado, junto do Ministro da Cultura e Coordenação Científica, o Conselho Nacional para a Investigação Científica e Tecnológica (CNICT).
+Art. 2.º É criado, junto do Ministro da Cultura e Coordenação Científica, o Conselho Nacional para a Investigação Científica e Tecnológica (CNICT).
 
-###### Art. 3.º São atribuições do CNICT:
+Art. 3.º São atribuições do CNICT:
 
 1) Pronunciar-se sobre:
 
@@ -128,7 +152,7 @@ i) Os assuntos que no âmbito da sua competência lhe sejam apresentados pelo se
 
 2) Formular, por sua iniciativa, propostas relativas à política científica e tecnológica nacional, designadamente no âmbito das alíneas referidas no número anterior.
 
-###### Art. 4.º - 1 - O CNICT é um órgão colegial em que estão representados os interesses sectoriais, público e privado, no domínio das actividades científicas e tecnológicas e as entidades cuja competência ou actuação seja relevante no âmbito da política científica e tecnológica nacional.
+Art. 4.º - 1 - O CNICT é um órgão colegial em que estão representados os interesses sectoriais, público e privado, no domínio das actividades científicas e tecnológicas e as entidades cuja competência ou actuação seja relevante no âmbito da política científica e tecnológica nacional.
 
 2 - Farão parte do CNICT:
 
@@ -158,23 +182,23 @@ l) Até 6 personalidades de reconhecido mérito em matéria de política cientí
 
 4 - Servirá de secretário do Conselho um funcionário do Ministério da Cultura e Coordenação Científica, designado pelo Ministro.
 
-###### Art. 5.º O CNICT será presidido pelo Ministro da Cultura e Coordenação Científica, o qual poderá ser coadjuvado por um vice-presidente.
+Art. 5.º O CNICT será presidido pelo Ministro da Cultura e Coordenação Científica, o qual poderá ser coadjuvado por um vice-presidente.
 
-###### Art. 6.º - 1 - O vice-presidente do CNICT será nomeado por períodos de 3 anos, renováveis, por despacho conjunto do Primeiro-Ministro e do Ministro da Cultura e Coordenação Científica, e escolhido de entre personalidades de reconhecido prestígio e competência no domínio da política científica, sendo a respectiva remuneração fixada por despacho conjunto do Ministro de Estado das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, não podendo ser inferior à de director-geral.
+Art. 6.º - 1 - O vice-presidente do CNICT será nomeado por períodos de 3 anos, renováveis, por despacho conjunto do Primeiro-Ministro e do Ministro da Cultura e Coordenação Científica, e escolhido de entre personalidades de reconhecido prestígio e competência no domínio da política científica, sendo a respectiva remuneração fixada por despacho conjunto do Ministro de Estado das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, não podendo ser inferior à de director-geral.
 
 2 - Se já pertencer aos quadros do funcionalismo público, o vice-presidente poderá ser nomeado em comissão de serviço, caso em que poderá optar pelas remunerações e demais abonos e subsídios a que tiver direito no lugar que estiver a desempenhar, incluindo a remuneração complementar prevista nos artigos 70.º e 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, se for professor universitário.
 
-###### Art. 7.º - 1 - O CNICT elaborará o seu próprio regimento.
+Art. 7.º - 1 - O CNICT elaborará o seu próprio regimento.
 
 2 - Serão previstas reuniões plenárias pelo menos 3 vezes por ano, podendo, porém, o Ministro da Cultura e Coordenação Científica convocá-las a todo o tempo.
 
 3 - O referido órgão poderá funcionar por secções quando, nos termos do respectivo regimento, se considere ser esse o regime mais conveniente.
 
-###### Art. 8.º - 1 - O CNICT será apoiado pela Junta Nacional de Investigação Científica e Tecnológica (JNICT), a qual assegurará, a título permanente, as actividades decorrentes do funcionamento do Conselho.
+Art. 8.º - 1 - O CNICT será apoiado pela Junta Nacional de Investigação Científica e Tecnológica (JNICT), a qual assegurará, a título permanente, as actividades decorrentes do funcionamento do Conselho.
 
 2 - Para prossecução das suas atribuições, o CNICT solicitará o apoio e a colaboração técnica dos organismos estatais de coordenação, financiamento e execução de investigação científica e tecnológica, designadamente a JNICT.
 
-###### Art. 9.º - 1 - A JNICT dependerá directamente do Ministério da Cultura e Coordenação Científica, a quem competirá, nomeadamente, definir as respectivas linhas de actuação.
+Art. 9.º - 1 - A JNICT dependerá directamente do Ministério da Cultura e Coordenação Científica, a quem competirá, nomeadamente, definir as respectivas linhas de actuação.
 
 2 - São extintos o conselho geral e a comissão executiva da Junta.
 
@@ -186,16 +210,16 @@ l) Até 6 personalidades de reconhecido mérito em matéria de política cientí
 
 6 - A Junta manterá todas as competências que não tiverem sido transferidas para outros órgãos e prestará todo o apoio logístico e executivo de que, no sector de ciência e tecnologia, careçam o CNICT ou o Ministério da Cultura e Coordenação Científica.
 
-###### Art. 10.º Os encargos resultantes da execução deste diploma serão suportados no ano económico corrente pelo orçamento do Gabinete do Ministro da Cultura e Coordenação Científica.
+Art. 10.º Os encargos resultantes da execução deste diploma serão suportados no ano económico corrente pelo orçamento do Gabinete do Ministro da Cultura e Coordenação Científica.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Fevereiro de 1982.**
+Promulgado em 8 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal referido no artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/04000/03450346.pdf))](https://files.diariodarepublica.pt/1s/1982/02/04000/03450346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/04000/03450346.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27200/39263927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1985-170478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f45ad53873b00215ce5808825821ab34ff0f0133ce229c107a1c55ae793805b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 705190aeebf8df3896d9e0d271a42345c88535630850ffb3c39f60da01826e86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Formação Profissional
+- Profissional de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogado, a partir de 01.08.2011, o Dec Lei 519-F/79, de 28-Dez, na redacção do presente diploma, pelo DEC LEI.92/2011.27.07.2011.MTSSO,\
+    \ DR.IIS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:01Z'
   warnings: []
   errors: []
 ---
@@ -98,28 +120,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, n.os 1 e 2, 13.º, 16. e 17.º do [Decreto-Lei n.º 519-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f-1979-510047), de 28 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, n.os 1 e 2, 13.º, 16. e 17.º do [Decreto-Lei n.º 519-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f-1979-510047), de 28 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 9.º - 1 - O exercício da actividade dos profissionais de informação turística é condicionado à posse do diploma do respectivo curso de formação e da carteira profissional, passada pelos serviços competentes do Ministério do Trabalho e Segurança Social.
+Art. 9.º - 1 - O exercício da actividade dos profissionais de informação turística é condicionado à posse do diploma do respectivo curso de formação e da carteira profissional, passada pelos serviços competentes do Ministério do Trabalho e Segurança Social.
 
 2 - As condições de acesso, os planos de estudo e o regime de avaliação de conhecimentos daqueles cursos serão regulamentados por portaria conjunta dos Ministros do Trabalho e Segurança Social, do Comércio e Turismo e da Educação.
 
-###### Art. 13.º Aos profissionais de informação turística e às empresas que infrinjam o disposto no presente diploma e no [Decreto Regulamentar n.º 71-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-f-1979-156811), de 29 de Dezembro, aplicar-se-ão os regimes definidos nos artigos 6.º e 7.º do [Decreto-Lei n.º 358/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1984-400813), de 13 de Novembro.
+Art. 13.º Aos profissionais de informação turística e às empresas que infrinjam o disposto no presente diploma e no [Decreto Regulamentar n.º 71-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-f-1979-156811), de 29 de Dezembro, aplicar-se-ão os regimes definidos nos artigos 6.º e 7.º do [Decreto-Lei n.º 358/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1984-400813), de 13 de Novembro.
 
-###### Art. 16.º Constitui receita do Estado o produto das coimas aplicadas nos termos deste diploma.
+Art. 16.º Constitui receita do Estado o produto das coimas aplicadas nos termos deste diploma.
 
-###### Art. 17.º Funcionarão na Direcção-Geral do Turismo os serviços de registo dos profissionais de informação turística, para o que lhe serão comunicados os necessários elementos pelos profissionais e pelo respectivo sindicato.
+Art. 17.º Funcionarão na Direcção-Geral do Turismo os serviços de registo dos profissionais de informação turística, para o que lhe serão comunicados os necessários elementos pelos profissionais e pelo respectivo sindicato.
 
-###### Art. 2.º São revogados os artigos 9.º, n.º 3, 11.º, n.º 1, 14.º e 15.º do [Decreto-Lei n.º 519-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f-1979-510047) e ainda os artigos 15.º, 19.º a 24.º, 26.º e 27.º do [Decreto Regulamentar n.º 71-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-f-1979-156811), de 29 de Dezembro.
+Art. 2.º São revogados os artigos 9.º, n.º 3, 11.º, n.º 1, 14.º e 15.º do [Decreto-Lei n.º 519-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f-1979-510047) e ainda os artigos 15.º, 19.º a 24.º, 26.º e 27.º do [Decreto Regulamentar n.º 71-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-f-1979-156811), de 29 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - João de Deus Rogado Salvador Pinheiro - Amândio Anes de Azevedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 5 de Novembro de 1985.**
+Promulgado em 5 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Novembro de 1985.**
+Referendado em 12 de Novembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

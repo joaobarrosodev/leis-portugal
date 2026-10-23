@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a67105ca19dffbcc44a2d2e555674a54cb0de27e8482b908febc48129534323
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 984871d4b03b1f29ac61c93f58a591c1fcaeb06e428fb81f59b910dbcc816a03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avião
+- Contribuições e Impostos
+- Embarcação de Recreio
+- Imposto Especial sobre Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:575356:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 1 DA LEI 34/83 DE 21-OUT, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DEC LEI 131/86 DE 12-JUN\
+    \ DR.IIS [133] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-06-12'
+- type: amended_by
+  target: pt:dre:611535:por
+  label: Alterado o art. 1.º da Lei 34/83 de 21-out, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 154/89
+    - Diário da República n.º 108/1989, Série I de 1989-05-11
+  source: null
+  date: '1989-05-11'
+- type: amended_by
+  target: pt:dre:575356:por
+  label: "Eliminadas a al. a) do art. 1º e as als. a) e b) do art. 5º da Lei 34/83 de 21-Out, com a redacção conferida no\
+    \ presente diploma, pelo DEC LEI.209/90.27.06.1990.MF, DR.IS [146] de 27.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1990-575356
+  date: '1990-06-27'
+- type: cites
+  target: pt:dre:441567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:17Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +128,9 @@ Nestes termos:
 
 Ao abrigo da autorização legislativa concedida pelo artigo 39.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 1.º e 5.º da [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º e 5.º da [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º É criado um imposto que incide sobre os seguintes bens móveis:
+Artigo 1.º É criado um imposto que incide sobre os seguintes bens móveis:
 
 a) Veículos automóveis ligeiros de passageiros e automóveis ligeiros mistos de peso bruto igual ou inferior a 2500 kg, com cilindrada superior a 1700 cm3 e com antiguidade inferior a 5 anos;
 
@@ -109,7 +140,7 @@ c) ...
 
 d) Barcos de recreio de tonelagem de arqueação bruta superior a 2 t e com antiguidade inferior a 10 anos.
 
-###### Art. 5.º As taxas do imposto são as seguintes:
+Art. 5.º As taxas do imposto são as seguintes:
 
 a) ...
 
@@ -153,12 +184,12 @@ De mais de 50 t:
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 9 de Março de 1984.**
+Promulgado em 9 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Março de 1984.**
+Referendado em 9 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

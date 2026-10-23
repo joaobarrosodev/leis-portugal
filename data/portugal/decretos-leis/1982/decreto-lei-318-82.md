@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/18400/23552359.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1982-397900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 788a1ce4572ff2b086bee64172d19c72f5cc0bebc3b144a1eefb4d4f9c8c4e99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79d582768da86439dc760d74cce4bbda72a9d3523dbb7003eaca27548f1f18a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imóvel Classificado
+- Instituto Português do Património Cultural
+- Museu
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:352714:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661947:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma pela PORT.150/84.1984.03.16.PCM DR.IS [64]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-1984-661947
+  date: '1984-03-16'
+- type: amended_by
+  target: pt:dre:385024:por
+  label: "Alterado o art. 5º pelo DEC LEI.141/84.1984.05.08.PCM DR.IS [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1984-385024
+  date: '1984-05-08'
+- type: amended_by
+  target: pt:dre:219097:por
+  label: "Revisto o Dec Lei 318/82, de 11-Ago, na parte respeitante à categoria que atribuiu aos directores dos Palácios Nacionais\
+    \ de Mafra, Pena e Sintra, pelo DEC LEI.246/86.21.08.1986.MEC, DR.IS [191] de 21.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1986-219097
+  date: '1986-08-21'
+- type: amended_by
+  target: pt:dre:352714:por
+  label: "Alterado o quadro de pessoal pela PORT.245/2001.2001.03.22.MF,DR.IS-B [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-2001-352714
+  date: '2001-03-22'
+- type: cites
+  target: pt:dre:463975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375851:por
+  label: Rectificados os anexos I e III do presente diploma, pela DECL.DD6057.03.09.1982.PCM, DR.IS [218] de 20.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375851
+  date: '1982-09-03'
+- type: repealed_by
+  target: pt:dre:575493:por
+  label: "Revogado pelo DEC LEI.216/90.1990.07.03.PCM, DR.IS [151] de 03.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1990-575493
+  date: '1990-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:55Z'
   warnings: []
   errors: []
 ---
@@ -100,23 +155,23 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São afectos ao Ministério da Cultura e Coordenação Científica, através do Instituto Português do Património Cultural, os imóveis constantes do anexo I a este diploma.
+Artigo 1.º - 1 - São afectos ao Ministério da Cultura e Coordenação Científica, através do Instituto Português do Património Cultural, os imóveis constantes do anexo I a este diploma.
 
 2 - A afectação de outros imóveis sob administração do Ministério das Finanças e do Plano ao Ministério da Cultura e Coordenação Científica efectuar-se-á ao abrigo do disposto no n.º 3 do artigo 62.º do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
 
 3 - A afectação dos imóveis a que se refere o presente diploma não inclui as partes dos mesmos que eventualmente se encontrem afectas a outras entidades.
 
-###### Art. 2.º - 1 - O pessoal actualmente em exercício de funções nos imóveis a que se refere o artigo 1.º transita para o Ministério da Cultura e Coordenação Científica, de acordo com o disposto no presente diploma.
+Art. 2.º - 1 - O pessoal actualmente em exercício de funções nos imóveis a que se refere o artigo 1.º transita para o Ministério da Cultura e Coordenação Científica, de acordo com o disposto no presente diploma.
 
 2 - O disposto no número anterior aplica-se igualmente ao pessoal do quadro geral de adidos em exercício efectivo de funções à data da publicação deste decreto-lei.
 
-###### Art. 3.º - 1 - O pessoal a que se refere o artigo anterior será integrado nos quadros do pessoal constante dos anexos II e III ao presente diploma.
+Art. 3.º - 1 - O pessoal a que se refere o artigo anterior será integrado nos quadros do pessoal constante dos anexos II e III ao presente diploma.
 
 2 - Aos quadros do pessoal do Instituto Português do Património Cultural, Museu de Alberto Sampaio, Museu de Lamego, Museu do Abade de Baçal, Museu Nacional de Soares dos Reis, Museu de Aveiro, Museu Nacional de Machado de Castro, Museu de José Malhoa, Museu de Francisco Tavares Proença Júnior, Museu de Évora e Museu do Mosteiro de Santa Maria da Vitória são acrescentados os lugares indicados no anexo II a este diploma.
 
 3 - São criados os quadros do pessoal do Palácio Nacional de Queluz, Palácio Nacional da Ajuda, Palácio Nacional de Mafra, Palácio Nacional da Pena, Palácio Nacional de Sintra, Arquivo Histórico do Ministério das Finanças, Mosteiro dos Jerónimos e Convento de Cristo (Tomar), constantes do anexo III ao presente decreto-lei.
 
-###### Art. 4.º - 1 - A transição do pessoal a que se refere o artigo 2.º para os lugares dos quadros do pessoal constantes dos anexos II e III ao presente diploma efectuar-se-á de acordo com os números seguintes.
+Art. 4.º - 1 - A transição do pessoal a que se refere o artigo 2.º para os lugares dos quadros do pessoal constantes dos anexos II e III ao presente diploma efectuar-se-á de acordo com os números seguintes.
 
 2 - Transita para as carreiras de conservador e guarda de museu, criadas pelo [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, em categoria idêntica, respectivamente, o pessoal com as designações de conservador, guarda e guarda-nocturno.
 
@@ -128,7 +183,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - O tempo de serviço prestado nas carreiras e categorias actuais pelos funcionários abrangidos pelos n.os 2 e 3 do presente artigo será contado para efeitos de progressão nas carreiras em que venham a ficar inseridos.
 
-###### Art. 5.º - 1 - O pessoal abrangido pela transição efectuada ao abrigo do disposto no n.º 1 do artigo 2.º deste diploma mantém o direito às remunerações que vem recebendo, nos termos dos artigos 34.º e 39.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, nos limites de valor absoluto estabelecidos pelo [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio.
+Art. 5.º - 1 - O pessoal abrangido pela transição efectuada ao abrigo do disposto no n.º 1 do artigo 2.º deste diploma mantém o direito às remunerações que vem recebendo, nos termos dos artigos 34.º e 39.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, nos limites de valor absoluto estabelecidos pelo [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio.
 
 2 - As remunerações referidas no número anterior serão absorvidas progressivamente, até à sua extinção, sempre que:
 
@@ -138,19 +193,19 @@ b) Se verifique aumento do respectivo vencimento.
 
 3 - O regime estabelecido no n.º 1 cessa quando os funcionários sejam providos em carreira diferente da que resulte da transição.
 
-###### Art. 6.º Serão objecto de decreto regulamentar, a emanar do Ministério das Finanças e do Plano e do Ministério da Reforma Administrativa, as alterações à estrutura orgânica e funcional e ao regime e quadro do pessoal da Direcção-Geral do Património do Estado decorrentes da afectação dos imóveis referidos no artigo 1.º ao Ministério da Cultura e Coordenação Científica, através do Instituto Português do Património Cultural.
+Art. 6.º Serão objecto de decreto regulamentar, a emanar do Ministério das Finanças e do Plano e do Ministério da Reforma Administrativa, as alterações à estrutura orgânica e funcional e ao regime e quadro do pessoal da Direcção-Geral do Património do Estado decorrentes da afectação dos imóveis referidos no artigo 1.º ao Ministério da Cultura e Coordenação Científica, através do Instituto Português do Património Cultural.
 
-###### Art. 7.º Os lugares dos quadros constantes dos anexos II e III ao presente diploma que ficarem vagos após a transição do pessoal actualmente vinculado ao Ministério das Finanças e do Plano poderão, a título excepcional, ser preenchidos de acordo com os limites e condições que venham a ser fixados por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa.
+Art. 7.º Os lugares dos quadros constantes dos anexos II e III ao presente diploma que ficarem vagos após a transição do pessoal actualmente vinculado ao Ministério das Finanças e do Plano poderão, a título excepcional, ser preenchidos de acordo com os limites e condições que venham a ser fixados por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa.
 
-###### Art. 8.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, consoante a natureza das matérias.
+Art. 8.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, consoante a natureza das matérias.
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 17 de Julho de 1982.**
+Promulgado em 17 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Lista a que se refere o n.º 1 do artigo 1.º do presente diploma
 
@@ -426,8 +481,8 @@ Ruínas de Estói.
 
 ## ANEXO II — (Elaborado de acordo com o n.º 2 do artigo 3.º do presente diploma)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/18400/23552359.pdf))](https://files.diariodarepublica.pt/1s/1982/08/18400/23552359.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/18400/23552359.pdf)
 
 ## ANEXO III — (Elaborado de acordo com o n.º 3 do artigo 3.º do presente diploma)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/18400/23552359.pdf))](https://files.diariodarepublica.pt/1s/1982/08/18400/23552359.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/18400/23552359.pdf)

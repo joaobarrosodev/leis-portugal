@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/02600/03010302.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1983-308684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a7bd639d96f38345b70d0c4de0c59dec74ab63aa680146a7582e78d2d54cd0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1052ec92f687cdd1b48d089b6bd39932f443eb260b5a3ae84c41f5d71933f1cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipa de Minas e Armadilhas
+- Faro
+- Gratificação
+- Lisboa
+- PSP
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:508233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508233:por
+  label: "Alterado o art. 2º do Dec Lei 196/79, de 29-Jun, na redacção do presente diploma, pelo DEC LEI.54/91.26.01.1991.MAI,\
+    \ DR.IS-A [22] de 26.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-1991-508233
+  date: '1991-01-26'
+- type: cites
+  target: pt:dre:381168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464042:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:27Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +121,7 @@ Considerando serem os aeroportos um dos objectivos principais a proteger e que o
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 2 do artigo 2.º do [Decreto-Lei n.º 196/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1979-381168), de 29 de Junho, na redacção que lhe foi dada pela [Resolução n.º 368/80](https://diariodarepublica.pt/dr/detalhe/resolucao/368-1980-462653), de 10 de Setembro, no que concerne aos Comandos da Polícia de Segurança Pública de Lisboa e de Faro, passa a ter a seguinte redacção:
+Artigo único. O n.º 2 do artigo 2.º do [Decreto-Lei n.º 196/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1979-381168), de 29 de Junho, na redacção que lhe foi dada pela [Resolução n.º 368/80](https://diariodarepublica.pt/dr/detalhe/resolucao/368-1980-462653), de 10 de Setembro, no que concerne aos Comandos da Polícia de Segurança Pública de Lisboa e de Faro, passa a ter a seguinte redacção:
 
 Lisboa - 10:
 
@@ -119,12 +143,12 @@ Faro - 3:
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia.
 
-**Promulgado em 19 de Janeiro de 1983.**
+Promulgado em 19 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Janeiro de 1983.**
+Referendado em 21 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

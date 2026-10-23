@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15200/24332434.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1983-452971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc34ce2e09c4e8e1cfb633c44dcac583eb3a75edf17b12bfe3fb967b5c174d71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab325e8ae7e72091ae661b29f4458c00afbc9733db8342488d1e034479477d67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Ensino Primário
+- Igreja Católica
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:261111:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499039:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, de parte do n.º1 e n.ºs 2 e 3 do art. 2.º do presente
+    diploma, pelo(a) Acórdão n.º 423/87 - Diário da República n.º 273/1987, Série I de 1987-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/423-1987-499039
+  date: '1987-11-26'
+- type: cites
+  target: pt:dre:161689:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261111:por
+  label: "Revogado, a partir de 24.05.2013, pelo DEC LEI.70/2013.23.05.2013.MECI, DR.IS [99] de 23.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2013-261111
+  date: '2013-05-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:49Z'
   warnings: []
   errors: []
 ---
@@ -102,42 +121,42 @@ Tendo assim presentes os princípios que acabam de ser sucintamente referenciado
 
 O Governo decreta, no uso da competência que lhe confere a alínea a) do n.º 1 do artigo 201.º da mesma Constituição, o seguinte:
 
-###### Artigo 1.º O Estado, tendo em conta o dever de cooperação com os pais na educação dos filhos, bem como os seus deveres gerais em matéria de ensino, garante nas suas escolas o ensino das ciências morais e religiosas nos termos do presente diploma.
+Artigo 1.º O Estado, tendo em conta o dever de cooperação com os pais na educação dos filhos, bem como os seus deveres gerais em matéria de ensino, garante nas suas escolas o ensino das ciências morais e religiosas nos termos do presente diploma.
 
-###### Art. 2.º - 1 - De acordo com a especial representatividade da população católica do País, ministrar-se-á o ensino da Religião e Moral Católicas nas escolas primárias, preparatórias e secundárias públicas aos alunos cujos pais, ou quem suas vezes fizer, não declararem expressamente desejo em contrário.
+Art. 2.º - 1 - De acordo com a especial representatividade da população católica do País, ministrar-se-á o ensino da Religião e Moral Católicas nas escolas primárias, preparatórias e secundárias públicas aos alunos cujos pais, ou quem suas vezes fizer, não declararem expressamente desejo em contrário.
 
 2 - Sendo maiores de 16 anos, compete aos próprios alunos fazer a declaração referida no n.º 1.
 
 3 - A declaração prevista nos números anteriores será formulada no acto da matrícula ou de inscrição; para este efeito deverá constar do respectivo documento o necessário para que a manifestação de vontade seja inequívoca.
 
-###### Art. 3.º - 1 - A disciplina de Religião e Moral Católicas faz parte do currículo escolar normal nas escolas públicas a que se refere o presente diploma.
+Art. 3.º - 1 - A disciplina de Religião e Moral Católicas faz parte do currículo escolar normal nas escolas públicas a que se refere o presente diploma.
 
 2 - A disciplina de Religião e Moral Católicas, salvaguardado o seu carácter específico, está sujeita ao regime aplicável às restantes disciplinas curriculares, nomeadamente no que se refere às condições gerais de matrícula e apoio pedagógico devido a alunos e docentes.
 
 3 - No que respeita a avaliação de conhecimentos, de igual modo se aplica o regime geral, não podendo, contudo, em caso algum dessa avaliação resultar qualquer efeito negativo sobre a transição de ano.
 
-###### Art. 4.º - 1 - A orientação do ensino da Religião e Moral Católicas é da exclusiva responsabilidade da Igreja Católica, competindo-lhe, nomeadamente, através da Conferência Episcopal:
+Art. 4.º - 1 - A orientação do ensino da Religião e Moral Católicas é da exclusiva responsabilidade da Igreja Católica, competindo-lhe, nomeadamente, através da Conferência Episcopal:
 
 a) A elaboração e revisão dos programas da disciplina, que serão enviados ao Ministério da Educação, antes da sua entrada em vigor, para publicação conjunta com os programas das restantes disciplinas;
 
 b) A elaboração e sequente edição e divulgação dos manuais de ensino da disciplina, bem como de outros instrumentos auxiliares de trabalho, destinados a alunos ou professores.
 
-###### Art. 5.º - 1 - Os professores de Religião e Moral Católicas serão contratados ou nomeados mediante proposta da autoridade eclesiástica competente, de acordo com a legislação em vigor sobre habilitações.
+Art. 5.º - 1 - Os professores de Religião e Moral Católicas serão contratados ou nomeados mediante proposta da autoridade eclesiástica competente, de acordo com a legislação em vigor sobre habilitações.
 
 2 - Os professores da disciplina de Religião e Moral Católicas fazem parte do corpo docente dos estabelecimentos de ensino em que prestam serviço, gozando dos direitos e deveres inerentes à sua função docente.
 
 3 - As condições em que o ensino da Religião e Moral Católicas será ministrado nas escolas primárias serão objecto de regulamentação por portaria do Ministro da Educação.
 
-###### Art. 6.º O ensino da Religião e Moral Católicas será igualmente asegurado, com a índole apropriada, nos termos do presente diploma, nas actuais escolas do magistério e nas destinadas à preparação e formação de docentes para os quadros da educação pré-escolar e do ensino básico, com o carácter de disciplina facultativa dirigida à natureza das respectivas funções.
+Art. 6.º O ensino da Religião e Moral Católicas será igualmente asegurado, com a índole apropriada, nos termos do presente diploma, nas actuais escolas do magistério e nas destinadas à preparação e formação de docentes para os quadros da educação pré-escolar e do ensino básico, com o carácter de disciplina facultativa dirigida à natureza das respectivas funções.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

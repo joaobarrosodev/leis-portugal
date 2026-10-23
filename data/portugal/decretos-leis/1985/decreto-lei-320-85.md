@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/17800/23612368.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1985-180190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efd09d49012d7c2377e621418e1b06856f4fa8c8dbfa15b7ab7d52e6b37a54c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c05bdfd9808545e1af1862d6c48b17da54dbf75ef53462561315a18c4298b564
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Justiça
+- Orgânica
+- Organização Judiciária
 relationships:
 - type: amended_by
   target: pt:dre:650730:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443736:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:650730:por
+  label: "Revogado pelo DEC LEI.376/87.11.12.1987.MJ, DR.IS [284]Supl de 11.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1987-650730
+  date: '1987-12-11'
 article_structure:
-  article_count: 35
+  article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:02Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +139,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 16.º, 42.º, 50.º, 99.º, 100.º, 101.º, 102.º, 104.º, 105.º, 106.º, 108.º, 110.º, 111.º, 112.º, 113.º, 114.º, 115.º, 121.º, 125.º, 127.º, 130.º, 141.º, 143.º, 144.º, 145.º, 146.º, 148.º e 149.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 16.º, 42.º, 50.º, 99.º, 100.º, 101.º, 102.º, 104.º, 105.º, 106.º, 108.º, 110.º, 111.º, 112.º, 113.º, 114.º, 115.º, 121.º, 125.º, 127.º, 130.º, 141.º, 143.º, 144.º, 145.º, 146.º, 148.º e 149.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 16.º — [...]
 
@@ -455,7 +475,7 @@ Enquanto não for determinado que o acesso se faça mediante aprovação em curs
 
 3 - Quando sejam simultaneamente opositores os candidatos previstos no n.º 1 do artigo anterior e no n.º 2 do artigo 111.º, gozam de preferência os que possuam maiores habilitações literárias e, em caso de igualdade, os de maior idade.
 
-###### Art. 2.º São aditados os artigos 77.º-A, 102.º-A, 106.º-A, 126.º-A, 144.º-A e 144.º-B ao [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, com a seguinte redacção:
+Art. 2.º São aditados os artigos 77.º-A, 102.º-A, 106.º-A, 126.º-A, 144.º-A e 144.º-B ao [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, com a seguinte redacção:
 
 ###### Artigo 77.º-A — (Substituição e acumulação de funções no quadro de oficiais de justiça)
 
@@ -495,18 +515,18 @@ Enquanto não for determinado que o acesso se faça mediante aprovação em curs
 
 Quando, por despacho publicado simultaneamente no Diário da República, 2.ª série, forem promovidos funcionários dispensados e aprovados em cursos ou concursos de prestação de provas, estes serão graduados, para efeitos de antiguidade, à esquerda daqueles, desde que a última classificação dos funcionários dispensados seja superior ou igual à obtida pelos declarados aptos.
 
-###### Art. 3.º É revogado o [Despacho Normativo n.º 206/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/206-1983-443736), de 31 de Outubro, publicado no Diário da República, 1.ª série, n.º 266, de 18 de Novembro de 1983.
+Art. 3.º É revogado o [Despacho Normativo n.º 206/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/206-1983-443736), de 31 de Outubro, publicado no Diário da República, 1.ª série, n.º 266, de 18 de Novembro de 1983.
 
-###### Art. 4.º O sistema instituído pela nova redacção conferida ao artigo 99.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, entra em vigor 60 dias após a publicação do presente diploma.
+Art. 4.º O sistema instituído pela nova redacção conferida ao artigo 99.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, entra em vigor 60 dias após a publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 19 de Julho de 1985.**
+Promulgado em 19 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Julho de 1985.**
+Referendado em 22 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

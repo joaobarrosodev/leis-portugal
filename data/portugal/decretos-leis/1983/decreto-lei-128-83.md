@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05900/08850892.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,142 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1983-309946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce21bc042e03a4da8d0ae2f5a3acce6f8e133410ca723181b6b03553ecc30c5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fb9c8fd51799c0719075aebadd29eaad8399246d12b9605ad6f54aa9812fd10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Processo Civil
+- Juiz
+- Mandato
+- Notificação
+- Processo Civil
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439416:por
+  label: "Suspensa a entrada em vigor pelo DEC LEI.356/83.02.09.1983.MJ, DR.IS [202] de 02.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-1983-439416
+  date: '1983-09-02'
+- type: amended_by
+  target: pt:dre:202420:por
+  label: "Alterados os arts. 463.º e 639.º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção\
+    \ do presente diploma, pelo DEC LEI.39/95.15.02.1995.MJ, DR.IS-A [39] de 15.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1995-202420
+  date: '1995-02-15'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 39.º, 109.º, 146.º, 169.º, 170.º, 181.º, 232.º, 239.º, 242.º, 260.º, 300.º, 463.º, 639.º, 658.º,\
+    \ 659.º, 709.º, 721.º, 754.º, 795.º e 927.º, do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961,\
+    \ na redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:214238:por
+  label: "Alterados os arts. 39.º, 239.º, 252.º-A, 266.º-B, 304.º, 463.º, 639.º, 754.º e 795.º, todos do Código de Processo\
+    \ Civil, aprovado pelo Dec 44129 de 28-Dez 1961, na redacção do presente diploma, revisto e republicado pelo Dec Lei 329-A/95\
+    \ de 12-Dez, pelo DEC LEI.180/96.25.09.1996.MJ, DR.IS-A [223] de 25.09.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1996-214238
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:516747:por
+  label: "Alterado o art. 146.º do Código do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.125/98.12.05.1998.MJ, DR.IS-A [109] de 12.05.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1998-516747
+  date: '1998-05-12'
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterados os arts. 754.º e 795.º do Código do Processo Civil aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção\
+    \ do presente diploma, pelo DEC LEI.375-A/99.20.09.1999.MJ, DR.IS-A [220-Supl] de 20.09.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 181.º, 239.º, e 252.º-A do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez de\
+    \ 1961, na redacção do presente diploma, pelo DEC LEI.183/2000.10.08.2000.MJ, DR.IS-A [184] de 10.08.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:315337:por
+  label: "Alterado o art. 252.º-A, do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção do\
+    \ presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pela LEI.30-D/2000.20.12.2000.AR, DR.IS-A [292-3.ºSupl]\
+    \ de 20.12.2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-d-2000-315337
+  date: '2000-12-20'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados os arts. 93.º, 239.º, 242.º e 463.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez\
+    \ 1961, na redacção do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigo 11.º, e 12.º, os artigos 123.º,\
+    \ 259.º, 709.º e 721.º do Código de Processo Civil, a provado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961, na redacção\
+    \ do presente diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 659.º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez\
+    \ de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterado, a partir de 02.01.2009, o artigo 239.º do Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44129,\
+    \ de 28 de Dezembro de 1961, na redacção do presente diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterados, a partir de 31.03.2009, os arts. 239º, 242º e 252º-A do Código do Processo Civil, aprovado pelo Dec Lei\
+    \ 44129, de 28-Dez, 1961, na redacção do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: cites
+  target: pt:dre:395722:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165215:por
+  label: Rectificado pela DECL.DD3788.1983.03.29.PCM DR.IS [75]Supl de 31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165215
+  date: '1983-03-29'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 39
+  article_count: 38
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:38Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +230,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código de Processo Civil:
+Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código de Processo Civil:
 
 ###### Artigo 39.º — (...)
 
@@ -482,16 +584,16 @@ d) A causa seja de valor igual ou superior ao décuplo da alçada dos tribunais 
 
 Haja ou não contestação, seguir-se-ão os termos do processo ordinário.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 de Outubro de 1983.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Outubro de 1983.
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 4 de Fevereiro de 1983.**
+Promulgado em 4 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Fevereiro de 1983.**
+Referendado em 8 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

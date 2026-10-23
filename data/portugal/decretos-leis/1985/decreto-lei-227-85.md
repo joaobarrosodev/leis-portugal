@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15100/18271827.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1985-183014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81cd1249389d53d8226f4e9968749b41528197550718d4b8b45812e9f855bb41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e6bc8627190445fbd0e7ae4ef4bce5b3629e14c57563a52a55015fb41c307cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Concurso Público
+- Conservação e Restauro
+- Liquidação de Despesas
+- Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 34
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:29Z'
   warnings: []
   errors: []
 ---
@@ -100,86 +119,86 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As importâncias fixadas nas disposições do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, adiante mencionadas são alteradas para os seguintes montantes:
+Artigo 1.º As importâncias fixadas nas disposições do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, adiante mencionadas são alteradas para os seguintes montantes:
 
-###### Artigo 4.º, n.º 3 - 40000$00 e 400000$00;
+Artigo 4.º, n.º 3 - 40000$00 e 400000$00;
 
-###### Artigo 5.º, n.º 1, alínea a) - 1600000$00;
+Artigo 5.º, n.º 1, alínea a) - 1600000$00;
 
-###### Artigo 5.º, n.º 1, alínea b) - 800000$00;
+Artigo 5.º, n.º 1, alínea b) - 800000$00;
 
-###### Artigo 5.º, n.º 2, alínea a) - 16000000$00;
+Artigo 5.º, n.º 2, alínea a) - 16000000$00;
 
-###### Artigo 5.º, n.º 2, alínea b) - 4000000$00;
+Artigo 5.º, n.º 2, alínea b) - 4000000$00;
 
-###### Artigo 5.º, n.º 3 - 160000000$00;
+Artigo 5.º, n.º 3 - 160000000$00;
 
-###### Artigo 8.º, n.º 1, alínea a) - 1600000$00;
+Artigo 8.º, n.º 1, alínea a) - 1600000$00;
 
-###### Artigo 8.º, n.º 1, alínea b) - 800000$00;
+Artigo 8.º, n.º 1, alínea b) - 800000$00;
 
 ###### Artigo 10.º, n.º 1 - 6000000$00;
 
-###### Artigo 16.º, n.º 2 - 2880000$00;
+Artigo 16.º, n.º 2 - 2880000$00;
 
 ###### Artigo 16.º, n.º 3 - 960000$00;
 
-###### Artigo 20.º, n.º 1, alínea a) - 400000$00;
+Artigo 20.º, n.º 1, alínea a) - 400000$00;
 
-###### Artigo 20.º, n.º 1, alínea b) - 800000$00;
+Artigo 20.º, n.º 1, alínea b) - 800000$00;
 
-###### Artigo 20.º, n.º 1, alínea c) - 4000000$00;
+Artigo 20.º, n.º 1, alínea c) - 4000000$00;
 
-###### Artigo 20.º, n.º 1, alínea d) - 8000000$00;
+Artigo 20.º, n.º 1, alínea d) - 8000000$00;
 
-###### Artigo 20.º, n.º 1, alínea e) - 80000000$00;
+Artigo 20.º, n.º 1, alínea e) - 80000000$00;
 
-###### Artigo 20.º, n.º 1, alínea f) - 200000000$00;
+Artigo 20.º, n.º 1, alínea f) - 200000000$00;
 
-###### Artigo 20.º, n.º 1, alínea g) - 400000000$00;
+Artigo 20.º, n.º 1, alínea g) - 400000000$00;
 
-###### Artigo 20.º, n.º 2, alínea a) - 4000000$00;
+Artigo 20.º, n.º 2, alínea a) - 4000000$00;
 
-###### Artigo 20.º, n.º 2, alínea b) - 16000000$00;
+Artigo 20.º, n.º 2, alínea b) - 16000000$00;
 
-###### Artigo 20.º, n.º 2, alínea c) - 40000000$00;
+Artigo 20.º, n.º 2, alínea c) - 40000000$00;
 
-###### Artigo 20.º, n.º 2, alínea d) - 80000000$00;
+Artigo 20.º, n.º 2, alínea d) - 80000000$00;
 
-###### Artigo 20.º, n.º 2, alínea e) - 200000000$00;
+Artigo 20.º, n.º 2, alínea e) - 200000000$00;
 
-###### Artigo 21.º, alínea a) - 400000$00;
+Artigo 21.º, alínea a) - 400000$00;
 
-###### Artigo 21.º, alínea b) - 2000000$00;
+Artigo 21.º, alínea b) - 2000000$00;
 
-###### Artigo 21.º, alínea c) - 4000000$00;
+Artigo 21.º, alínea c) - 4000000$00;
 
-###### Artigo 21.º, alínea d) - 40000000$00;
+Artigo 21.º, alínea d) - 40000000$00;
 
-###### Artigo 21.º, alínea e) - 100000000$00;
+Artigo 21.º, alínea e) - 100000000$00;
 
-###### Artigo 21.º, alínea f) - 200000000$00;
+Artigo 21.º, alínea f) - 200000000$00;
 
-###### Artigo 22.º, n.º 1, alínea d) - 20000$00, 80000$00, 1000000$00 e 2000000$00.
+Artigo 22.º, n.º 1, alínea d) - 20000$00, 80000$00, 1000000$00 e 2000000$00.
 
-###### Art. 2.º As importâncias fixadas nas disposições do [Decreto-Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1979-393642), de 22 de Fevereiro, adiante mencionadas são alteradas para os seguintes montantes:
+Art. 2.º As importâncias fixadas nas disposições do [Decreto-Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1979-393642), de 22 de Fevereiro, adiante mencionadas são alteradas para os seguintes montantes:
 
-###### Artigo 1.º, n.º 1 - 200000 contos;
+Artigo 1.º, n.º 1 - 200000 contos;
 
-###### Artigo 1.º, n.º 2 - 200000 contos;
+Artigo 1.º, n.º 2 - 200000 contos;
 
-###### Artigo 4.º, n.º 1 - 200000 contos.
+Artigo 4.º, n.º 1 - 200000 contos.
 
-###### Art. 3.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 18 de Junho de 1985.**
+Promulgado em 18 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Junho de 1985.**
+Referendado em 20 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

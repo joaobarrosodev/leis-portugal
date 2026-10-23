@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1985-325109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ffb03350e6cd0a89c38e8229ec617f2e549b22f3161d1cb96144adf3e0aaaa5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f5754a9f68b977625f6bb6d8537e2337e671c9fcdd9d9bec1d0ea90f9df1412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Planeamento
+- Ministério da Agricultura
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:301579:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334601:por
+  label: Mantido transitoriamente na dependência do IROMA o Serviço de Informação dos Mercados Agrícolas (SIMA), criado no
+    presente diploma, pelo DEC LEI.44/90.08.02.1990.MAPA, DR.IS [[33]] de 08.02.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1990-334601
+  date: '1990-02-08'
+- type: amended_by
+  target: pt:dre:575353:por
+  label: "Alterado o mapa I anexo pelo DN.44/90.30.06.1990.MF, DR.IS [149] de 30.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/44-1990-575353
+  date: '1990-06-30'
+- type: amended_by
+  target: pt:dre:301579:por
+  label: Alterado, no referente ao pessoal de informática, o quadro de pessoal do Serviço de Informação de Mercados Agrícolas
+    (SIMA) pelo(a) Portaria n.º 492/92 - Diário da República n.º 136/1992, Série I-B de 1992-06-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/492-1992-301579
+  date: '1992-06-15'
+- type: cites
+  target: pt:dre:573337:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:20Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +133,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º É criada, transitoriamente na dependência do director-geral do Gabinete de Planeamento do Ministério da Agricultura, a Direcção de Serviços de Informação de Mercados Agrícolas, abreviadamente designada por SIMA, que tem como objectivos:
+Artigo 1.º É criada, transitoriamente na dependência do director-geral do Gabinete de Planeamento do Ministério da Agricultura, a Direcção de Serviços de Informação de Mercados Agrícolas, abreviadamente designada por SIMA, que tem como objectivos:
 
 a) Promover a maior eficiência e transparência dos mercados agrícolas e a racionalização da intervenção da Administração Pública nas acções de regularização;
 
@@ -117,7 +141,7 @@ b) Melhorar o conhecimento da Administração Pública sobre o abastecimento int
 
 c) Coordenar o processo de transmissão e recepção de informações agrícolas, necessárias à gestão dos mercados, entre Portugal e a Comissão das Comunidades Europeias.
 
-###### Art. 2.º No âmbito do disposto no artigo anterior, compete ao SIMA:
+Art. 2.º No âmbito do disposto no artigo anterior, compete ao SIMA:
 
 a) Recolher oportuna e periodicamente as cotações dos produtos agrícolas verificadas nos locais de transacção seleccionados como representativos e outros elementos de informação tidos como necessários ao acompanhamento dos mercados agrícolas;
 
@@ -129,17 +153,17 @@ d) Assegurar, após a adesão à CEE, a concentração, transmissão e recepçã
 
 e) Estabelecer os processos de ligação e de cooperação, através da celebração de protocolos e acordos de colaboração, com todas as organizações estatais e paraestatais com intervenção no domínio da comercialização e distribuição de produtos agrícolas, como sejam organismos de coordenação económica ou que da sua transformação resultem, empresas públicas, institutos, serviços com intervenção no comércio externo e municípios.
 
-###### Art. 3.º A actuação do SIMA abrange todo o território continental e deverá apoiar a instituição de serviços similares nas Regiões Autónomas dos Açores e da Madeira, de acordo com as decisões dos Governos interessados.
+Art. 3.º A actuação do SIMA abrange todo o território continental e deverá apoiar a instituição de serviços similares nas Regiões Autónomas dos Açores e da Madeira, de acordo com as decisões dos Governos interessados.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º Para cumprimento das suas atribuições, o SIMA dispõe de:
+Art. 4.º Para cumprimento das suas atribuições, o SIMA dispõe de:
 
 a) Serviços centrais;
 
 b) Divisões regionais de informação de mercados agrícolas.
 
-###### Art. 5.º Os serviços centrais compreendem:
+Art. 5.º Os serviços centrais compreendem:
 
 a) Uma Divisão de Coordenação e Controle de Recolha e Difusão de Informações de Mercados;
 
@@ -149,7 +173,7 @@ c) Um Centro de Tratamento Informático de Dados;
 
 d) Uma Secção Administrativa.
 
-###### Art. 6.º À Divisão de Coordenação e Controle de Recolha e Difusão de Informações de Mercados (DCC) compete:
+Art. 6.º À Divisão de Coordenação e Controle de Recolha e Difusão de Informações de Mercados (DCC) compete:
 
 a) Orientar e coordenar a actividade das divisões regionais de informação de mercados agrícolas e das equipas de informação dos mercados abastecedores;
 
@@ -159,7 +183,7 @@ c) Assegurar a validade e a representatividade das cotações e outras informaç
 
 d) Centralizar, processar e difundir as cotações e restantes informações de mercado por todas as entidades e agentes interessados do sector agro-alimentar.
 
-###### Art. 7.º À Divisão de Metodologia de Recolha e Análise de Mercados (DMA) compete:
+Art. 7.º À Divisão de Metodologia de Recolha e Análise de Mercados (DMA) compete:
 
 a) Definir e transmitir às divisões regionais de informação de mercados agrícolas e às equipas de informação dos mercados abastecedores as normas metodológicas em ordem a permitir a regularização e uniformização da recolha;
 
@@ -173,11 +197,11 @@ e) Incentivar acções de formação profissional para o pessoal técnico afecto
 
 f) Desenvolver com a Comissão das Comunidades Económicas Europeias as acções convenientes à adequação do sistema de recolha e transmissão de cotações e informações de mercado às necessidades decorrentes da aplicação das organizações comuns de mercado, no quadro da política agrícola comum, e propor a organização da estrutura interna necessária para a sua execução.
 
-###### Art. 8.º Ao Centro de Tratamento Informático de Dados (CID) compete promover as acções de desenvolvimento e execução das funções de processamento automático necessárias ao desempenho dos objectivos do serviço.
+Art. 8.º Ao Centro de Tratamento Informático de Dados (CID) compete promover as acções de desenvolvimento e execução das funções de processamento automático necessárias ao desempenho dos objectivos do serviço.
 
-###### Art. 9.º À Secção Administrativa cabe o desempenho das missões de apoio administrativo nas áreas de expediente, pessoal, contabilidade e património.
+Art. 9.º À Secção Administrativa cabe o desempenho das missões de apoio administrativo nas áreas de expediente, pessoal, contabilidade e património.
 
-###### Art. 10.º - 1 - No exercício das suas competências, dispõe a Divisão de Coordenação e Controle de Recolha e Difusão de Informações de Mercados de equipas de informação de mercados abastecedores (EIMA), actuando designadamente:
+Art. 10.º - 1 - No exercício das suas competências, dispõe a Divisão de Coordenação e Controle de Recolha e Difusão de Informações de Mercados de equipas de informação de mercados abastecedores (EIMA), actuando designadamente:
 
 a) No Mercado do Rego, em Lisboa;
 
@@ -203,7 +227,7 @@ f) Colaborar com as administrações dos mercados abastecedores apenas no que re
 
 4 - O funcionamento das EIMA será regulamentado por despacho do Ministro da Agricultura, sob proposta do director do SIMA.
 
-###### Art. 11.º - 1 - As divisões regionais de informação de mercados agrícolas (DIMA) dependem hierarquicamente dos directores regionais de agricultura e funcionalmente do director de serviços do SIMA.
+Art. 11.º - 1 - As divisões regionais de informação de mercados agrícolas (DIMA) dependem hierarquicamente dos directores regionais de agricultura e funcionalmente do director de serviços do SIMA.
 
 2 - Às DIMA, sob orientação do director do SIMA, compete:
 
@@ -219,9 +243,9 @@ e) Participar em reuniões com os serviços centrais e promovê-las sempre que n
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 12.º Os serviços centrais dispõem de pessoal dirigente e do contingente do quadro único do Ministério da Agricultura constante do mapa I anexo ao presente diploma.
+Art. 12.º Os serviços centrais dispõem de pessoal dirigente e do contingente do quadro único do Ministério da Agricultura constante do mapa I anexo ao presente diploma.
 
-###### Art. 13.º - 1 - O pessoal das DIMA pertence ao contingente da direcção regional de agricultura da área da respectiva localização e será afectado ao desempenho das funções do SIMA mediante acordo dos directores do SIMA e dos serviços regionais de agricultura.
+Art. 13.º - 1 - O pessoal das DIMA pertence ao contingente da direcção regional de agricultura da área da respectiva localização e será afectado ao desempenho das funções do SIMA mediante acordo dos directores do SIMA e dos serviços regionais de agricultura.
 
 2 - Os lugares do pessoal dirigente das DIMA é o constante do mapa II anexo ao presente diploma.
 
@@ -229,32 +253,32 @@ e) Participar em reuniões com os serviços centrais e promovê-las sempre que n
 
 4 - O provimento dos lugares referidos nos números anteriores far-se-á sob proposta do director regional em concordância com o director do SIMA.
 
-###### Art. 14.º O pessoal dirigente do SIMA referido nos artigos anteriores é recrutado nos termos da lei geral e deverá possuir, como requisito preferencial para provimento do lugar, comprovados conhecimentos e experiência em matéria de análise de mercados e cotações agrícolas.
+Art. 14.º O pessoal dirigente do SIMA referido nos artigos anteriores é recrutado nos termos da lei geral e deverá possuir, como requisito preferencial para provimento do lugar, comprovados conhecimentos e experiência em matéria de análise de mercados e cotações agrícolas.
 
-###### Art. 15.º O Centro de Tratamento Informático de Dados é coordenado por um técnico especializado nesta área, directamente dependente do director de serviços do SIMA.
+Art. 15.º O Centro de Tratamento Informático de Dados é coordenado por um técnico especializado nesta área, directamente dependente do director de serviços do SIMA.
 
-###### Art. 16.º O pessoal ao serviço do SIMA, quando actuar na recolha de elementos para constatação de cotações, deverá ser identificado mediante cartão pessoal e intransmissível, do qual constem as funções que exerce e os locais a que tem acesso.
+Art. 16.º O pessoal ao serviço do SIMA, quando actuar na recolha de elementos para constatação de cotações, deverá ser identificado mediante cartão pessoal e intransmissível, do qual constem as funções que exerce e os locais a que tem acesso.
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 19 de Março de 1985.**
+Promulgado em 19 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Março de 1985.**
+Referendado em 20 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
 (A que se refere o artigo 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/07600/08800883.pdf))](https://files.diariodarepublica.pt/1s/1985/04/07600/08800883.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/07600/08800883.pdf)
 
 MAPA II
 
 (A que se refere o n.º 2 do artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/07600/08800883.pdf))](https://files.diariodarepublica.pt/1s/1985/04/07600/08800883.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/07600/08800883.pdf)

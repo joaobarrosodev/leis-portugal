@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/02700/02610264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1982-601091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13caf5f17f7e5a512884814d435e27e9dda697408297bfad8d0a680f6b47e02d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0944448542f6dec843f67617338fac3f52674e64ee8d09962ce3f595cc1b80b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azeite
+- Comércio
+- ÓLEO Comestivel
 relationships:
 - type: amended_by
   target: pt:dre:355502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443712:por
+  label: "Alterado o art. 9.º, pelo DEC LEI.407/83.19.11.1983.MAFA, DR.IS [267] de 19.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/407-1983-443712
+  date: '1983-11-19'
+- type: cites
+  target: pt:dre:238645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:609316:por
+  label: Rectificado pela DECL.DD794.08.03.1982.PCM, DR.IS [63] de 17.03.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-609316
+  date: '1982-03-08'
+- type: repealed_by
+  target: pt:dre:374375:por
+  label: "Revogado o n.º 1 do artigo 17.º, pelo DEC LEI.193/88.30.05.1988.MIE, DR.IS [125] de 30.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1988-374375
+  date: '1988-05-30'
+- type: repealed_by
+  target: pt:dre:355502:por
+  label: "Revogado pelo DEC LEI.343/88.28.09.1988.MAPA, DR.IS [225] de 28.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1988-355502
+  date: '1988-09-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:06Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +186,7 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É obrigatória para o azeite, gordura de palma e óleos vegetais comestíveis, incluído o óleo alimentar, de harmonia com o artigo 8.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Julho de 1952, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 48459](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48459-1968-273006), de 25 de Julho de 1968, a conformidade com as normas portuguesas de:
+Artigo 1.º É obrigatória para o azeite, gordura de palma e óleos vegetais comestíveis, incluído o óleo alimentar, de harmonia com o artigo 8.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Julho de 1952, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 48459](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48459-1968-273006), de 25 de Julho de 1968, a conformidade com as normas portuguesas de:
 
 a) Obtenção;
 
@@ -147,7 +198,7 @@ d) Preparação de amostras para laboratório;
 
 e) Processos de análise.
 
-###### Art. 2.º - 1 - Consideram-se directamente comestíveis, observados os princípios estabelecidos no presente diploma, além do azeite e da gordura de palma, os óleos de:
+Art. 2.º - 1 - Consideram-se directamente comestíveis, observados os princípios estabelecidos no presente diploma, além do azeite e da gordura de palma, os óleos de:
 
 a) Algodão;
 
@@ -177,15 +228,15 @@ m) Soja.
 
 3 - Enquanto não forem publicadas as normas relativas aos óleos de bolota e de gergelim, bem como ao de semente de tomate, deverão estes óleos obedecer ao disposto, respectivamente, nas Portarias n.os 21430 e 23945, de 29 de Julho de 1965 e 27 de Fevereiro de 1969.
 
-###### Art. 3.º Poderão ser considerados como directamente comestíveis outros óleos, mediante portaria do Ministro da Agricultura, Comércio e Pescas, sob proposta do Instituto de Qualidade Alimentar e com pareceres favoráveis da Direcção-Geral de Saúde e do Instituto do Azeite e Produtos Oleaginosos.
+Art. 3.º Poderão ser considerados como directamente comestíveis outros óleos, mediante portaria do Ministro da Agricultura, Comércio e Pescas, sob proposta do Instituto de Qualidade Alimentar e com pareceres favoráveis da Direcção-Geral de Saúde e do Instituto do Azeite e Produtos Oleaginosos.
 
-###### Art. 4.º Nas instalações de obtenção dos produtos referidos nos artigos 2.º e 3.º não poderão processar-se simultaneamente quaisquer operações com outras gorduras ou óleos.
+Art. 4.º Nas instalações de obtenção dos produtos referidos nos artigos 2.º e 3.º não poderão processar-se simultaneamente quaisquer operações com outras gorduras ou óleos.
 
-###### Art. 5.º - 1 - O azeite só pode ser produzido em locais onde nunca se processem quaisquer operações com outras gorduras ou óleos, mesmos que comestíveis.
+Art. 5.º - 1 - O azeite só pode ser produzido em locais onde nunca se processem quaisquer operações com outras gorduras ou óleos, mesmos que comestíveis.
 
 2 - É proibida a existência, nos locais a que se refere este artigo, de outras gorduras ou óleos e bem assim das respectivas matérias-primas e subprodutos.
 
-###### Art. 6.º - 1 - Nas instalações de obtenção, tratamento e armazenagem dos produtos referidos nos artigos 2.º e 3.º e nas respectivas dependências e anexos é proibida:
+Art. 6.º - 1 - Nas instalações de obtenção, tratamento e armazenagem dos produtos referidos nos artigos 2.º e 3.º e nas respectivas dependências e anexos é proibida:
 
 a) A existência de aparelhagem destinada à realização de operações não previstas na norma NP-964;
 
@@ -195,25 +246,25 @@ b) A presença de produtos que sirvam ou possam ser utilizados em operações de
 
 3 - O estabelecido neste artigo não é aplicável aos reagentes desde que estes se encontrem com a pureza necessária para as análises em quantidades insuspeitas de aplicação tecnológica.
 
-###### Art. 7.º Nos armazéns e estabelecimentos industriais autorizados a proceder a quaisquer operações com azeite e com os outros produtos referidos nos artigos 2.º e 3.º não é permitida a presença simultânea daquele e destes, excepto quando devidamente pré-embalados nos termos da legislação em vigor.
+Art. 7.º Nos armazéns e estabelecimentos industriais autorizados a proceder a quaisquer operações com azeite e com os outros produtos referidos nos artigos 2.º e 3.º não é permitida a presença simultânea daquele e destes, excepto quando devidamente pré-embalados nos termos da legislação em vigor.
 
-###### Art. 8.º É proibida a mistura de azeite com qualquer gordura ou óleo, mesmo com óleo de bagaço de azeitona.
+Art. 8.º É proibida a mistura de azeite com qualquer gordura ou óleo, mesmo com óleo de bagaço de azeitona.
 
-###### Art. 9.º - 1 - O óleo de bagaço de azeitona é obrigatoriamente adicionado, imediatamente a seguir à extracção, de óleo de gergelim num teor da ordem de 5%, de harmonia com o estipulado na norma NP-1540.
+Art. 9.º - 1 - O óleo de bagaço de azeitona é obrigatoriamente adicionado, imediatamente a seguir à extracção, de óleo de gergelim num teor da ordem de 5%, de harmonia com o estipulado na norma NP-1540.
 
 2 - Exceptua-se do disposto no n.º 1 o óleo de bagaço de azeitona que presumivelmente se destine à exportação e se encontre para esse efeito sob o controle do Instituto de Qualidade Alimentar.
 
 3 - O óleo de bagaço de azeitona a que se refere o número anterior que possa vir a ser destinado ao mercado interno será adicionado, antes da suspensão do controle do Instituto de Qualidade Alimentar, de óleo de gergelim, nos termos do n.º 1.
 
-###### Art. 10.º O azeite e os óleos comestíveis destinados à indústria de conservas de peixe não poderão apresentar temperatura de congelação superior a 5ºC nem reversão do aroma e do sabor, mesmo depois de submetidos a 120ºC durante 2 horas em ambiente fechado.
+Art. 10.º O azeite e os óleos comestíveis destinados à indústria de conservas de peixe não poderão apresentar temperatura de congelação superior a 5ºC nem reversão do aroma e do sabor, mesmo depois de submetidos a 120ºC durante 2 horas em ambiente fechado.
 
-###### Art. 11.º Os produtos referidos nos artigos 2.º e 3.º com falta de características legais, avariados, corruptos ou falsificados poderão ser beneficiados, quando tecnicamente possível, de acordo com a norma NP-964.
+Art. 11.º Os produtos referidos nos artigos 2.º e 3.º com falta de características legais, avariados, corruptos ou falsificados poderão ser beneficiados, quando tecnicamente possível, de acordo com a norma NP-964.
 
-###### Art. 12.º - 1 - Só é permitida a compra a granel dos produtos referidos nos artigos 2.º e 3.º a armazenistas, a entidades aos mesmos equiparadas, a exportadores, a refinadores e a industriais de margarinas e de conservas e, bem assim, a industriais de produtos não alimentares que deles careçam para o exercício da sua indústria.
+Art. 12.º - 1 - Só é permitida a compra a granel dos produtos referidos nos artigos 2.º e 3.º a armazenistas, a entidades aos mesmos equiparadas, a exportadores, a refinadores e a industriais de margarinas e de conservas e, bem assim, a industriais de produtos não alimentares que deles careçam para o exercício da sua indústria.
 
 2 - Por despacho do Ministro da Agricultura, Comércio e Pescas, com pareceres favoráveis do Instituto de Qualidade Alimentar e do Instituto do Azeite e Produtos Oleaginosos, poderá ser autorizada a compra a granel a entidades não previstas no número anterior.
 
-###### Art. 13.º - 1 - A venda de azeite a retalhistas, a entidades aos mesmos equiparadas, a consumidores colectivos e ao público só pode ser efectuada nos seguintes tipos comerciais:
+Art. 13.º - 1 - A venda de azeite a retalhistas, a entidades aos mesmos equiparadas, a consumidores colectivos e ao público só pode ser efectuada nos seguintes tipos comerciais:
 
 a) Azeite extra;
 
@@ -233,44 +284,44 @@ d) Azeite comum, ou azeite.
 
 6 - É permitida a venda, até 90 dias após a data de entrada em vigor do presente diploma, com a designação de «azeite fino», do azeite já embalado com as características limites agora fixadas para o tipo comercial a que se refere o n.º 2.
 
-###### Art. 14.º - 1 - Os produtos referidos nos artigos 2.º e 3.º só podem ser postos à venda e vendidos a retalhistas e entidades aos mesmos equiparados, a consumidores colectivos e ao público quando devidamente pré-embalados em embalagens não recuperáveis.
+Art. 14.º - 1 - Os produtos referidos nos artigos 2.º e 3.º só podem ser postos à venda e vendidos a retalhistas e entidades aos mesmos equiparados, a consumidores colectivos e ao público quando devidamente pré-embalados em embalagens não recuperáveis.
 
 2 - Os hotéis, pensões, restaurantes, casas de pasto e, de uma maneira geral, todos os estabelecimentos que forneçam refeições são obrigados a apresentar para consumo dos respectivos clientes azeite dos tipos comerciais extrafino.
 
-###### Art. 15.º O acondicionamento dos produtos referidos nos artigos 2.º e 3.º só pode ser efectuado por produtores armazenistas.
+Art. 15.º O acondicionamento dos produtos referidos nos artigos 2.º e 3.º só pode ser efectuado por produtores armazenistas.
 
-###### Art. 16.º - 1 - Dos rótulos das embalagens dos produtos referidos nos artigos 2.º e 3.º devem constar, além de outras indicações legalmente exigidas, o dia, mês e ano do acondicionamento, podendo para o efeito ser usados códigos de tipo aprovado pelo Instituto de Qualidade Alimentar.
+Art. 16.º - 1 - Dos rótulos das embalagens dos produtos referidos nos artigos 2.º e 3.º devem constar, além de outras indicações legalmente exigidas, o dia, mês e ano do acondicionamento, podendo para o efeito ser usados códigos de tipo aprovado pelo Instituto de Qualidade Alimentar.
 
 2 - Dos rótulos das embalagens que acondicionem azeite devem constar, para além das indicações exigidas no número anterior, a respectiva acidez ou a acidez máxima permitida para o tipo respectivo, expressa em ácido oleico.
 
-###### Art. 17.º - 1 - As embalagens destinadas ao acondicionamento dos produtos referidos nos artigos 2.º e 3.º ficam sujeitas à aprovação, sob o ponto de vista sanitário, da Direcção-Geral de Saúde.
+Art. 17.º - 1 - As embalagens destinadas ao acondicionamento dos produtos referidos nos artigos 2.º e 3.º ficam sujeitas à aprovação, sob o ponto de vista sanitário, da Direcção-Geral de Saúde.
 
 2 - Para cumprimento do disposto neste artigo devem as entidades que procedam ao acondicionamento dos produtos mencionados exigir dos fornecedores das embalagens que indiquem nas respectivas facturas de venda que as mesmas são próprias para o fim a que se destinam e, bem assim, o número e a data do documento de aprovação por parte da referida Direcção-Geral.
 
-###### Art. 18.º É proibido importar, fabricar, tratar, fazer transportar, armazenar, expor à venda ou vender como directamente comestível qualquer óleo não previsto nos artigos 2.º e 3.º
+Art. 18.º É proibido importar, fabricar, tratar, fazer transportar, armazenar, expor à venda ou vender como directamente comestível qualquer óleo não previsto nos artigos 2.º e 3.º
 
-###### Art. 19.º - 1 - As infracções ao disposto no presente decreto-lei são punidas nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 19.º - 1 - As infracções ao disposto no presente decreto-lei são punidas nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 2 - As infracções ao disposto na alínea a) do artigo 1.º são punidas nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 3 - As infracções ao disposto nos artigos 9.º, 10.º, 12.º, 14.º e 15.º são punidas nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 20.º As infracções ao disposto nos artigos 5.º, 6.º e 7.º são punidas nos termos do artigo 3.º do [Decreto-Lei n.º 340/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1973-421273), de 6 de Julho.
+Art. 20.º As infracções ao disposto nos artigos 5.º, 6.º e 7.º são punidas nos termos do artigo 3.º do [Decreto-Lei n.º 340/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1973-421273), de 6 de Julho.
 
-###### Art. 21.º As infracções ao disposto nos artigos 5.º, 6.º e 7.º são punidas nos termos do artigo 7.º do [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto.
+Art. 21.º As infracções ao disposto nos artigos 5.º, 6.º e 7.º são punidas nos termos do artigo 7.º do [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto.
 
-###### Art. 22.º Fica revogada toda a legislação em contrário e especialmente os Decretos-Leis n.os 28152, de 12 de Novembro de 1937, n.º 45620, de 23 de Março de 1964, n.º 46257, de 19 de Março de 1965, e suas redacções posteriores, e o [Decreto n.º 17774](https://diariodarepublica.pt/dr/detalhe/decreto/17774-1929-289418), de 18 de Dezembro de 1929; as Portarias n.º 13698, de 10 de Outubro de 1951, n.º 20167, de 14 de Novembro de 1963, n.º 23255, de 4 de Março de 1968, n.º 208/76, de 7 de Abril, e n.º 183/79, de 11 de Abril, e o despacho ministerial de 7 de Janeiro de 1967, publicado no Diário do Governo, 1.ª série, n.º 6, da mesma data.
+Art. 22.º Fica revogada toda a legislação em contrário e especialmente os Decretos-Leis n.os 28152, de 12 de Novembro de 1937, n.º 45620, de 23 de Março de 1964, n.º 46257, de 19 de Março de 1965, e suas redacções posteriores, e o [Decreto n.º 17774](https://diariodarepublica.pt/dr/detalhe/decreto/17774-1929-289418), de 18 de Dezembro de 1929; as Portarias n.º 13698, de 10 de Outubro de 1951, n.º 20167, de 14 de Novembro de 1963, n.º 23255, de 4 de Março de 1968, n.º 208/76, de 7 de Abril, e n.º 183/79, de 11 de Abril, e o despacho ministerial de 7 de Janeiro de 1967, publicado no Diário do Governo, 1.ª série, n.º 6, da mesma data.
 
-###### Art. 23.º O presente diploma aplica-se apenas ao território do continente.
+Art. 23.º O presente diploma aplica-se apenas ao território do continente.
 
-###### Art. 24.º As dúvidas que possam surgir da aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas.
+Art. 24.º As dúvidas que possam surgir da aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas.
 
-###### Art. 25.º O presente decreto-lei entra imediatamente em vigor e produz efeitos a partir de 1 de Janeiro de 1982.
+Art. 25.º O presente decreto-lei entra imediatamente em vigor e produz efeitos a partir de 1 de Janeiro de 1982.
 
 Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1981. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 13 de Janeiro de 1982.**
+Promulgado em 13 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

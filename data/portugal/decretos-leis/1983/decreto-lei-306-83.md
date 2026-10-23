@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14800/23612367.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1983-452693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b15435011141f1be425f7cfcdafaccf638b351e6f8bd5f0f750974774e28b021
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e207f27f94d9753e3497a2322d3ab5af39e89c8295f072da4d53c500cac05b99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- INA
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:292305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, pelo constante do anexo VI da PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:435800:por
+  label: Rectificado pela DECL.DD6385.12.07.1983.PCM, DR.IS [174-3.º Supl] de 30.07.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-435800
+  date: '1983-07-12'
+- type: repealed_by
+  target: pt:dre:292305:por
+  label: "Revogado pelo DEC LEI.144/92.1992.07.21.PCM, DR.IS-A [166], à excepção do disposto no art. 54º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1992-292305
+  date: '1992-07-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:34Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +151,9 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º O Instituto Nacional de Administração, abreviadamente designado por INA, é uma pessoa colectiva de direito público dotada de autonomia pedagógica e científica, administrativa e financeira, com património próprio, dependendo directamente do Primeiro-Ministro.
+Artigo 1.º O Instituto Nacional de Administração, abreviadamente designado por INA, é uma pessoa colectiva de direito público dotada de autonomia pedagógica e científica, administrativa e financeira, com património próprio, dependendo directamente do Primeiro-Ministro.
 
-###### Art. 2.º - 1 - O INA tem por missão fundamental contribuir, através do ensino, da investigação científica e da assessoria técnica, para a modernização da Administração Pública e para a formação especializada e actualização dos seus quadros superiores e dirigentes.
+Art. 2.º - 1 - O INA tem por missão fundamental contribuir, através do ensino, da investigação científica e da assessoria técnica, para a modernização da Administração Pública e para a formação especializada e actualização dos seus quadros superiores e dirigentes.
 
 2 - Para efeitos do número anterior, compete em especial ao INA:
 
@@ -118,19 +171,19 @@ d) O estabelecimento e manutenção de relações de cooperação com instituiç
 
 ### CAPÍTULO II — Do funcionamento
 
-###### Art. 3.º - 1 - O INA realizará cursos de longa e curta duração, de nível superior, destinados à formação especializada e ao aperfeiçoamento e reciclagem profissional.
+Art. 3.º - 1 - O INA realizará cursos de longa e curta duração, de nível superior, destinados à formação especializada e ao aperfeiçoamento e reciclagem profissional.
 
 2 - A aprovação dos currícula, regime de estudos e condições de admissão aos cursos são da responsabilidade do conselho directivo do INA, salvo quando a sua frequência com aproveitamento constitua requisito para progressão na carreira técnica superior ou nomeação em cargo dirigente da Administração Pública, casos em que as condições a satisfazer serão fixadas por portaria do Primeiro-Ministro e do Ministro da Reforma Administrativa.
 
 3 - Em casos excepcionais, quando for julgada de interesse a correspondência ou equivalência de cursos ministrados no INA a cursos de pós-licenciatura ministrados nas universidades, serão os mesmos criados por portaria do Primeiro-Ministro e dos Ministros da Educação e da Reforma Administrativa.
 
-###### Art. 4.º - 1 - Terão acesso aos diversos cursos a ministrar no INA os funcionários dos quadros superiores da Administração Pública e das empresas públicas, bem como, para vagas disponíveis, outros candidatos diplomados por qualquer escola superior.
+Art. 4.º - 1 - Terão acesso aos diversos cursos a ministrar no INA os funcionários dos quadros superiores da Administração Pública e das empresas públicas, bem como, para vagas disponíveis, outros candidatos diplomados por qualquer escola superior.
 
 2 - A frequência com aprovação dos cursos com regime de avaliação ministrados no INA dá direito a um diploma referindo essa aprovação, mas não confere qualquer grau académico.
 
 3 - No caso de cursos sem regime de avaliação, a frequência regular dos mesmos dá direito a um certificado de frequência de curso.
 
-###### Art. 5.º - 1 - Poderá ser confiada, mediante contrato, a personalidades nacionais ou estrangeiras de reconhecida competência a realização de lições, estudos e outros trabalhos de interesse para as finalidades do INA.
+Art. 5.º - 1 - Poderá ser confiada, mediante contrato, a personalidades nacionais ou estrangeiras de reconhecida competência a realização de lições, estudos e outros trabalhos de interesse para as finalidades do INA.
 
 2 - O contrato referido no número anterior deverá ser reduzido a escrito, dele constando as condições da respectiva prestação, tempo da sua duração e a menção expressa de que não confere por si a qualidade de agente administrativo.
 
@@ -142,7 +195,7 @@ d) O estabelecimento e manutenção de relações de cooperação com instituiç
 
 ##### SUBSECÇÃO I — Dos órgãos em geral
 
-###### Art. 6.º São órgãos do INA:
+Art. 6.º São órgãos do INA:
 
 a) O presidente;
 
@@ -154,9 +207,9 @@ d) O conselho administrativo.
 
 ##### SUBSECÇÃO II — Do presidente
 
-###### Art. 7.º O presidente é nomeado, em comissão de serviço, por despacho do Primeiro-Ministro, devendo a escolha recair em professores catedráticos de nomeação definitiva ou personalidades de elevado mérito científico ou profissional, com experiência relevante no domínio da Administração Pública.
+Art. 7.º O presidente é nomeado, em comissão de serviço, por despacho do Primeiro-Ministro, devendo a escolha recair em professores catedráticos de nomeação definitiva ou personalidades de elevado mérito científico ou profissional, com experiência relevante no domínio da Administração Pública.
 
-###### Art. 8.º - 1 - Compete ao presidente dirigir, orientar e coordenar as actividades e serviço do INA, imprimindo-lhes unidade, continuidade e eficiência, nomeadamente:
+Art. 8.º - 1 - Compete ao presidente dirigir, orientar e coordenar as actividades e serviço do INA, imprimindo-lhes unidade, continuidade e eficiência, nomeadamente:
 
 a) Representar o INA em juízo e fora dele;
 
@@ -168,11 +221,11 @@ d) Submeter ao Primeiro-Ministro todas as questões que careçam de resolução 
 
 2 - Para todos os efeitos o cargo de presidente do INA, quando a designação recair sobre um professor catedrático, é equiparado ao de reitor das universidades e institutos universitários.
 
-###### Art. 9.º O presidente é coadjuvado por um máximo de 3 vice-presidentes, nos quais o presidente pode delegar parte das suas competências, incumbindo-os de assegurar a gestão das áreas de actividade que lhes foram confiadas.
+Art. 9.º O presidente é coadjuvado por um máximo de 3 vice-presidentes, nos quais o presidente pode delegar parte das suas competências, incumbindo-os de assegurar a gestão das áreas de actividade que lhes foram confiadas.
 
 ##### SUBSECÇÃO III — Do conselho directivo
 
-###### Art. 10.º - 1 - O Conselho directivo é constituído por:
+Art. 10.º - 1 - O Conselho directivo é constituído por:
 
 a) O presidente do INA, que preside;
 
@@ -182,11 +235,11 @@ c) 3 vogais.
 
 2 - Poderão participar em reuniões, sem direito a voto, outras entidades que o conselho directivo ou o presidente entendam por conveniente convocar.
 
-###### Art. 11.º Os vice-presidentes são equiparados para todos os efeitos a subdirector-geral e são nomeados, em comissão de serviço, por despacho do Primeiro-Ministro, de entre os professores das universidades portuguesas ou personalidades de reconhecido mérito científico ou profissional, sob proposta do presidente do INA.
+Art. 11.º Os vice-presidentes são equiparados para todos os efeitos a subdirector-geral e são nomeados, em comissão de serviço, por despacho do Primeiro-Ministro, de entre os professores das universidades portuguesas ou personalidades de reconhecido mérito científico ou profissional, sob proposta do presidente do INA.
 
-###### Art. 12.º Os vogais são nomeados por despacho do Primeiro-Ministro, sob proposta do presidente do INA, de entre personalidades de reconhecido mérito, e exercerão o cargo em regime de tempo parcial.
+Art. 12.º Os vogais são nomeados por despacho do Primeiro-Ministro, sob proposta do presidente do INA, de entre personalidades de reconhecido mérito, e exercerão o cargo em regime de tempo parcial.
 
-###### Art. 13.º Compete ao conselho consultivo:
+Art. 13.º Compete ao conselho consultivo:
 
 a) Administrar superiormente as actividades do INA em todos os assuntos que não sejam da expressa competência de outros órgãos, assegurando o seu regular funcionamento;
 
@@ -198,13 +251,13 @@ d) Aprovar os programas anuais de actividade;
 
 e) Deliberar sobre qualquer outro assunto que lhe seja apresentado pelo presidente ou por um mínimo de 2 membros do conselho.
 
-###### Art. 14.º - 1 - O conselho directivo do INA poderá constituir conselhos consultivos sectoriais para o aconselharem sobre os seus programas de actividade nos domínios de formação, de investigação ou de cooperação.
+Art. 14.º - 1 - O conselho directivo do INA poderá constituir conselhos consultivos sectoriais para o aconselharem sobre os seus programas de actividade nos domínios de formação, de investigação ou de cooperação.
 
 2 - Para estudo de problemas específicos poderão também ser constituídas comissões ou grupos de trabalho, cujo mandato, composição e funcionamento serão estabelecidos pelo conselho directivo.
 
 ##### SUBSECÇÃO IV — Do conselho geral
 
-###### Art. 15.º - 1 - O conselho geral, presidido pelo Primeiro-Ministro ou pelo membro do Governo em quem este delegar, é constituído por:
+Art. 15.º - 1 - O conselho geral, presidido pelo Primeiro-Ministro ou pelo membro do Governo em quem este delegar, é constituído por:
 
 a) Presidente e vice-presidente do INA;
 
@@ -214,13 +267,13 @@ c) Membros dos conselhos consultivos no âmbito do INA.
 
 2 - A composição do conselho geral, no que respeita às personalidades mencionadas na alínea b), será estabelecida trienalmente por despacho do Primeiro-Ministro, sob proposta do conselho directivo do INA.
 
-###### Art. 16.º Compete ao conselho geral pronunciar-se sobre as linhas gerais de actuação do INA, formulando sugestões e recomendações em harmonia com o plano geral aprovado e fomentando a ligação entre as actividades do INA e as actividades dos sectores previstos na alínea b) do artigo 15.º
+Art. 16.º Compete ao conselho geral pronunciar-se sobre as linhas gerais de actuação do INA, formulando sugestões e recomendações em harmonia com o plano geral aprovado e fomentando a ligação entre as actividades do INA e as actividades dos sectores previstos na alínea b) do artigo 15.º
 
 ##### SUBSECÇÃO V — Do conselho administrativo
 
-###### Art. 17.º O conselho administrativo é presidido pelo presidente do INA e dele farão parte 2 vice-presidentes, sendo um deles o responsável pela área administrativo-financeira, e 1 vogal a designar pelo Primeiro-Ministro, sob proposta do presidente do INA.
+Art. 17.º O conselho administrativo é presidido pelo presidente do INA e dele farão parte 2 vice-presidentes, sendo um deles o responsável pela área administrativo-financeira, e 1 vogal a designar pelo Primeiro-Ministro, sob proposta do presidente do INA.
 
-###### Art. 18.º - 1 - As competências atribuídas ao conselho administrativo são de natureza administrativa, financeira e patrimonial, nomeadamente:
+Art. 18.º - 1 - As competências atribuídas ao conselho administrativo são de natureza administrativa, financeira e patrimonial, nomeadamente:
 
 a) Autorizar a adjudicação e contratação de estudos, obras, trabalhos, serviços e fornecimentos indispensáveis ao funcionamento dos serviços;
 
@@ -236,13 +289,13 @@ f) Organizar e remeter anualmente a conta de gerência ao Tribunal de Contas;
 
 g) Autorizar os actos de administração relativos ao património do INA, incluindo a aquisição, alienação, expropriação, troca, cedência, aluguer, arrendamento e ainda os relacionados com contratos de comodato de quaisquer bens ou direitos a eles inerentes.
 
-###### Art. 19.º Nas suas ausências e impedimentos, o presidente do INA delegará num dos vice-presidentes a sua competência como presidente do conselho administrativo.
+Art. 19.º Nas suas ausências e impedimentos, o presidente do INA delegará num dos vice-presidentes a sua competência como presidente do conselho administrativo.
 
 #### SECÇÃO II — Dos serviços
 
 ##### SUBSECÇÃO I — Dos serviços em geral
 
-###### Art. 20.º O INA, para a prossecução das suas atribuições, compreende as seguintes estruturas:
+Art. 20.º O INA, para a prossecução das suas atribuições, compreende as seguintes estruturas:
 
 a) Área pedagógico-científica;
 
@@ -256,7 +309,7 @@ e) Área de apoio técnico;
 
 f) Serviços Sociais.
 
-###### Art. 21.º A área pedagógico-científica compreende:
+Art. 21.º A área pedagógico-científica compreende:
 
 1):
 
@@ -270,7 +323,7 @@ d) Departamento de Informática.
 
 2) Centro de Estudos de Ciências Político-Administrativas e Empresariais.
 
-###### Art. 22.º A área administrativo-financeira compreende:
+Art. 22.º A área administrativo-financeira compreende:
 
 a) Serviços gerais;
 
@@ -282,7 +335,7 @@ d) Repartição de Aprovisionamentos;
 
 e) Tesouraria.
 
-###### Art. 23.º A área de apoio técnico compreende:
+Art. 23.º A área de apoio técnico compreende:
 
 a) Biblioteca e Centro de Documentação;
 
@@ -296,21 +349,21 @@ e) Secretaria dos Cursos.
 
 ##### SUBSECÇÃO II — Da área pedagógico-científica
 
-###### Art. 24.º - 1 - A área pedagógico-científica compreende actividades de formação e aperfeiçoamento profissional, investigação científica e assessoria técnica nos domínios da Administração Pública e da gestão empresarial.
+Art. 24.º - 1 - A área pedagógico-científica compreende actividades de formação e aperfeiçoamento profissional, investigação científica e assessoria técnica nos domínios da Administração Pública e da gestão empresarial.
 
 2 - A assessoria técnica nos domínios da Administração Pública e da gestão empresarial compete às várias estruturas da área pedagógico-científica, consoante a matéria em causa.
 
 3 - As actividades dos Departamentos e Centros de Estudos de Ciências Político-Administrativas e Empresariais deverão ser articuladas de forma a assegurar o seu desenvolvimento coerente.
 
-###### Art. 25.º Ao Departamento de Administração Pública compete nomeadamente promover, na área da sua especialidade, a formação e o aperfeiçoamento profissional mediante a realização de cursos, colóquios e seminários.
+Art. 25.º Ao Departamento de Administração Pública compete nomeadamente promover, na área da sua especialidade, a formação e o aperfeiçoamento profissional mediante a realização de cursos, colóquios e seminários.
 
-###### Art. 26.º Ao Departamento de Administração Empresarial compete nomeadamente prestar, na área da sua especialidade, apoio técnico com vista à racionalização e modernização do sector empresarial público e privado e exercer as acções de consultadoria e de auditoria que lhe forem solicitadas.
+Art. 26.º Ao Departamento de Administração Empresarial compete nomeadamente prestar, na área da sua especialidade, apoio técnico com vista à racionalização e modernização do sector empresarial público e privado e exercer as acções de consultadoria e de auditoria que lhe forem solicitadas.
 
-###### Art. 27.º Ao Departamento de Integração Europeia compete nomeadamente promover, na área da sua especialidade, acções de formação de carácter pluridisciplinar, bem como acções intensivas de formação técnico-profissional específicas em colaboração com outros departamentos da Administração Pública e empresarial.
+Art. 27.º Ao Departamento de Integração Europeia compete nomeadamente promover, na área da sua especialidade, acções de formação de carácter pluridisciplinar, bem como acções intensivas de formação técnico-profissional específicas em colaboração com outros departamentos da Administração Pública e empresarial.
 
-###### Art. 28.º Ao Departamento de Informática compete nomeadamente promover, na área da sua especialidade, a realização de cursos de início de carreira e de especialização para técnicos de informática, acções de sensibilização para quadros em geral e seminários para dirigentes.
+Art. 28.º Ao Departamento de Informática compete nomeadamente promover, na área da sua especialidade, a realização de cursos de início de carreira e de especialização para técnicos de informática, acções de sensibilização para quadros em geral e seminários para dirigentes.
 
-###### Art. 29.º Ao Centro de Estudos de Ciências Político-Administrativas e Empresariais compete nomeadamente:
+Art. 29.º Ao Centro de Estudos de Ciências Político-Administrativas e Empresariais compete nomeadamente:
 
 a) Desenvolver projectos de investigação aplicada no domínio das ciências político-administrativas e empresariais centrados sobre os grandes problemas do Estado;
 
@@ -322,7 +375,7 @@ d) Preparar, em colaboração com os demais serviços, as publicações do INA.
 
 ##### SUBSECÇÃO III — Do Gabinete de Cooperação
 
-###### Art. 30.º Ao Gabinete de Cooperação compete, nomeadamente:
+Art. 30.º Ao Gabinete de Cooperação compete, nomeadamente:
 
 a) Promover e apoiar a cooperação com outros países e especialmente com os países de língua portuguesa, nos domínios das atribuições do INA;
 
@@ -330,7 +383,7 @@ b) Promover ou coordenar os estudos, projectos e programas que lhe sejam solicit
 
 ##### SUBSECÇÃO IV — Do Gabinete de Relações Públicas
 
-###### Art. 31.º Ao Gabinete de Relações Públicas compete, nomeadamente:
+Art. 31.º Ao Gabinete de Relações Públicas compete, nomeadamente:
 
 a) Programar acções de relações públicas e de divulgação das actividades do INA;
 
@@ -342,7 +395,7 @@ d) Prestar apoio aos departamentos na organização de acções de formação.
 
 ##### SUBSECÇÃO V — Da área administrativo-financeira
 
-###### Art. 32.º À Repartição dos Serviços Gerais compete, nomeadamente:
+Art. 32.º À Repartição dos Serviços Gerais compete, nomeadamente:
 
 a) Assegurar o expediente geral do INA;
 
@@ -352,7 +405,7 @@ c) Assegurar o funcionamento do sector de reprografia e do parque automóvel;
 
 d) Superintender no pessoal auxiliar.
 
-###### Art. 33.º À Repartição de Pessoal compete, nomeadamente:
+Art. 33.º À Repartição de Pessoal compete, nomeadamente:
 
 a) Assegurar a informação necessária à correcta gestão do pessoal, submetendo a despacho os processos relativos a recrutamento, selecção e provimento, bem como os respeitantes à promoção, recondução, nomeação e aposentação do pessoal do INA;
 
@@ -360,7 +413,7 @@ b) Elaborar e manter actualizado o cadastro do pessoal;
 
 c) Instruir os processos relativos a diuturnidades, prestações sociais e outros abonos, dando-lhes o devido seguimento.
 
-###### Art. 34.º À Repartição de Aprovisionamento compete, nomeadamente:
+Art. 34.º À Repartição de Aprovisionamento compete, nomeadamente:
 
 a) Assegurar o apetrechamento dos serviços de equipamento e material necessário ao funcionamento do INA;
 
@@ -368,7 +421,7 @@ b) Manter em depósito o material de uso corrente indispensável ao regular func
 
 c) Organizar e manter actualizados o cadastro e inventário dos bens móveis e imóveis do INA.
 
-###### Art. 35.º À Repartição de Contabilidade compete, nomeadamente:
+Art. 35.º À Repartição de Contabilidade compete, nomeadamente:
 
 a) Preparar os elementos para o orçamento anual do INA;
 
@@ -382,7 +435,7 @@ e) Processar e registar as receitas arrecadadas;
 
 f) Organizar e manter a contabilidade analítica.
 
-###### Art. 36.º À tesouraria compete, nomeadamente:
+Art. 36.º À tesouraria compete, nomeadamente:
 
 a) Arrecadar as receitas pertencentes ao INA;
 
@@ -392,31 +445,31 @@ c) Manter devidamente escriturados os livros de tesouraria.
 
 ##### SUBSECÇÃO VI — Da área de apoio técnico
 
-###### Art. 37.º À Biblioteca e Centro de Documentação compete, nomeadamente:
+Art. 37.º À Biblioteca e Centro de Documentação compete, nomeadamente:
 
 a) A coordenação técnica da biblioteca do INA;
 
 b) A recolha, tratamento e difusão da documentação e informação com interesse para as actividades empreendidas no âmbito do INA.
 
-###### Art. 38.º Ao Centro de Línguas compete, nomeadamente:
+Art. 38.º Ao Centro de Línguas compete, nomeadamente:
 
 a) Ministrar cursos de línguas estrangeiras aos funcionários da Administração Pública e do sector empresarial do Estado;
 
 b) Coordenar a actividade do sector de traduções e revisão de textos.
 
-###### Art. 39.º Ao Centro de Cálculo compete, nomeadamente:
+Art. 39.º Ao Centro de Cálculo compete, nomeadamente:
 
 a) Promover e desenvolver a informatização do sistema de informação do INA;
 
 b) Apoiar técnica e pedagogicamente as acções de formação que requeiram o uso de equipamento.
 
-###### Art. 40.º Aos Serviços de Conservação e Manutenção compete, nomeadamente:
+Art. 40.º Aos Serviços de Conservação e Manutenção compete, nomeadamente:
 
 a) A conservação e manutenção de edifícios e jardins;
 
 b) A reparação de mobiliário e utensílios.
 
-###### Art. 41.º À Secretaria dos Cursos, que será dirigida por um chefe de secção, compete, nomeadamente:
+Art. 41.º À Secretaria dos Cursos, que será dirigida por um chefe de secção, compete, nomeadamente:
 
 a) Difundir os planos e programas de cursos ministrados no INA;
 
@@ -426,19 +479,19 @@ c) Preparar os elementos estatísticos relativos aos cursos do INA e sua frequê
 
 ##### SUBSECÇÃO VII — Dos Serviços Sociais
 
-###### Art. 42.º - 1 - Os Serviços Sociais têm por fim auxiliar na satisfação das necessidades de ordem social e cultural dos seus beneficiários.
+Art. 42.º - 1 - Os Serviços Sociais têm por fim auxiliar na satisfação das necessidades de ordem social e cultural dos seus beneficiários.
 
 2 - A estrutura e atribuições dos Serviços Sociais serão objecto de regulamentação a aprovar por portaria.
 
 ### CAPÍTULO IV — Dos meios financeiros e da sua gestão
 
-###### Art. 43.º A gestão económica e financeira orientar-se-á pelos seguintes instrumentos de previsão:
+Art. 43.º A gestão económica e financeira orientar-se-á pelos seguintes instrumentos de previsão:
 
 a) Planos de actividades e planos financeiros plurianuais;
 
 b) Orçamentos anuais.
 
-###### Art. 44.º Constituem receitas do INA:
+Art. 44.º Constituem receitas do INA:
 
 a) As dotações do Orçamento do Estado;
 
@@ -452,25 +505,25 @@ e) Outras receitas cobradas;
 
 f) Os saldos das contas dos anos findos.
 
-###### Art. 45.º Constituem despesas do INA:
+Art. 45.º Constituem despesas do INA:
 
 a) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições e competências que lhe estão confiadas;
 
 b) O custo de aquisição, manutenção e conservação de bens, equipamentos ou serviços que tenha de utilizar.
 
-###### Art. 46.º As receitas arrecadadas pelo INA serão depositadas em conta própria na Caixa Geral de Depósitos.
+Art. 46.º As receitas arrecadadas pelo INA serão depositadas em conta própria na Caixa Geral de Depósitos.
 
-###### Art. 47.º O pagamento das despesas far-se-á por cheques nominativos assinados pelo presidente ou seu substituto legal e um dos vice-presidentes.
+Art. 47.º O pagamento das despesas far-se-á por cheques nominativos assinados pelo presidente ou seu substituto legal e um dos vice-presidentes.
 
-###### Art. 48.º Anualmente será apresentada ao Tribunal de Contas a conta de gerência, nos termos da lei geral.
+Art. 48.º Anualmente será apresentada ao Tribunal de Contas a conta de gerência, nos termos da lei geral.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 49.º Ao pessoal do INA aplica-se o disposto no presente diploma e nas leis gerais da função pública.
+Art. 49.º Ao pessoal do INA aplica-se o disposto no presente diploma e nas leis gerais da função pública.
 
-###### Art. 50.º É aprovado o quadro de pessoal anexo a este diploma e que dele faz parte integrante.
+Art. 50.º É aprovado o quadro de pessoal anexo a este diploma e que dele faz parte integrante.
 
-###### Art. 51.º As formas de recrutamento e os regimes de provimento do pessoal do quadro criado pelo presente diploma são os seguintes:
+Art. 51.º As formas de recrutamento e os regimes de provimento do pessoal do quadro criado pelo presente diploma são os seguintes:
 
 a) Os lugares do pessoal dirigente serão providos de harmonia com o disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e destinam-se à coordenação das áreas de actividade homogéneas nos domínios de apoio técnico e pedagógico-científico;
 
@@ -488,7 +541,7 @@ g) Os lugares de chefe de repartição serão providos de entre chefes de secç�
 
 h) Os lugares de chefe de secção serão providos mediante concurso de provas públicas a realizar entre os primeiros-oficiais ou técnicos auxiliares principais com mais de 3 anos de bom e efectivo serviço.
 
-###### Art. 52.º - 1 - O provimento do pessoal não dirigente a que se refere o presente diploma será feito por nomeação provisória ou comissão de serviço pelo período de 1 ano.
+Art. 52.º - 1 - O provimento do pessoal não dirigente a que se refere o presente diploma será feito por nomeação provisória ou comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -498,13 +551,13 @@ b) Será exonerado ou regressará ao serviço de origem, conforme se trate de no
 
 3 - Se o funcionário a nomear já tiver provimento definitivo noutro lugar da função pública, poderá, desde logo, ser provido definitivamente, nos casos em que exerça funções da mesma natureza.
 
-###### Art. 53.º - 1 - Sem prejuízo das normas restritivas sobre admissão de pessoal, poderá ser contratado além do quadro o pessoal absolutamente indispensável para a satisfação de necessidades que não possam ser asseguradas pelo pessoal permanente.
+Art. 53.º - 1 - Sem prejuízo das normas restritivas sobre admissão de pessoal, poderá ser contratado além do quadro o pessoal absolutamente indispensável para a satisfação de necessidades que não possam ser asseguradas pelo pessoal permanente.
 
 2 - O contrato a que se refere o n.º 1 será celebrado por prazo não superior a 6 meses, podendo ser renovado com observância dos condicionalismos estabelecidos na lei geral.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 54.º - 1 - As personalidades designadas para o exercício das funções de presidente e de vice-presidentes em regime de tempo completo de serviço mantêm o vencimento do último cargo exercido, bem como os direitos e regalias ao mesmo inerentes, não podendo, porém, em qualquer caso, o seu vencimento base exceder o correspondente ao exercício do cargo de director-geral.
+Art. 54.º - 1 - As personalidades designadas para o exercício das funções de presidente e de vice-presidentes em regime de tempo completo de serviço mantêm o vencimento do último cargo exercido, bem como os direitos e regalias ao mesmo inerentes, não podendo, porém, em qualquer caso, o seu vencimento base exceder o correspondente ao exercício do cargo de director-geral.
 
 2 - Ao presidente e vice-presidentes do INA serão atribuídos abonos para despesas de representação de montantes a fixar por despacho do Primeiro-Ministro e do Ministro das Finanças e do Plano.
 
@@ -512,7 +565,7 @@ b) Será exonerado ou regressará ao serviço de origem, conforme se trate de no
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 55.º - 1 - O primeiro provimento nos lugares do quadro a que se refere o presente diploma será feito de entre o pessoal em serviço no INA, em regime de requisição, comissão de serviço ou contrato além do quadro, à data da sua publicação, sem prejuízo das habilitações literárias exigíveis.
+Art. 55.º - 1 - O primeiro provimento nos lugares do quadro a que se refere o presente diploma será feito de entre o pessoal em serviço no INA, em regime de requisição, comissão de serviço ou contrato além do quadro, à data da sua publicação, sem prejuízo das habilitações literárias exigíveis.
 
 2 - A transição do pessoal efectuar-se-á para as mesmas categorias e carreiras ou para categorias da mesma letra de vencimento mas de carreiras correspondentes às funções efectivamente exercidas ou ainda para a letra imediatamente superior na estrutura da carreira, se não houver coincidência.
 
@@ -522,20 +575,20 @@ b) Será exonerado ou regressará ao serviço de origem, conforme se trate de no
 
 5 - O tempo de serviço prestado, a qualquer título, durante o regime de instalação conta para todos os efeitos legais, incluindo o de promoção ou de progressão na carreira.
 
-###### Art. 56.º São revogados os Decretos-Leis n.os [160/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1979-383596), de 30 de Maio, e [153/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1981-574293), de 5 de Junho.
+Art. 56.º São revogados os Decretos-Leis n.os [160/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1979-383596), de 30 de Maio, e [153/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1981-574293), de 5 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14800/23612367.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14800/23612367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14800/23612367.pdf)

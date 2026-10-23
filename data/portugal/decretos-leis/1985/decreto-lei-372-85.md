@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1985-177452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2856435d4275b65f00dff2a3f00863ab221997f74bbd5ba37bf93e2b62ce5986
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91534920ddcdf9000a6d2d5dca480900de1749b987342df3101ceed1aed74998
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Jogos de Fortuna e Azar
+- Vidago Pedras Salgadas
+- ZONA de JOGO
+relationships:
+- type: cites
+  target: pt:dre:386072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:58Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +107,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a zona de jogo permanente de Vidago-Pedras Salgadas, para todos os efeitos previstos na legislação aplicável às zonas de jogo.
+Artigo 1.º É criada a zona de jogo permanente de Vidago-Pedras Salgadas, para todos os efeitos previstos na legislação aplicável às zonas de jogo.
 
-###### Art. 2.º - 1 - O capital social da empresa a quem for adjudicada a zona de jogo de Vidago-Pedras Salgadas será de, pelo menos, 500000 contos.
+Art. 2.º - 1 - O capital social da empresa a quem for adjudicada a zona de jogo de Vidago-Pedras Salgadas será de, pelo menos, 500000 contos.
 
 2 - 51%, no mínimo, do capital social da empresa concessionária será representado por acções nominativas pertencentes a portugueses de origem ou naturalizados há mais de 10 anos ou a sociedades portuguesas em que igual percentagem do capital pertença a portugueses nas mesmas condições.
 
@@ -106,22 +117,22 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Quando da transmissão resulte alteração no domínio da sociedade adjudicatária por algum ou alguns dos seus accionistas, e não tenha sido autorizada pelo membro do Governo com tutela sobre a Inspecção-Geral de Jogos, é a mesma fundamento de rescisão do contrato de concessão.
 
-###### Art. 3.º - 1 - A comparticipação da concessionária da zona de jogo de Vidago-Pedras Salgadas nos encargos com a Inspecção-Geral de Jogos, nos termos do artigo 49.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), na redacção dada pelo [Decreto-Lei n.º 247/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1984-386072), de 23 de Julho, será paga na proporção do valor numérico indicado na alínea b) do n.º 3 do mesmo preceito legal.
+Art. 3.º - 1 - A comparticipação da concessionária da zona de jogo de Vidago-Pedras Salgadas nos encargos com a Inspecção-Geral de Jogos, nos termos do artigo 49.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), na redacção dada pelo [Decreto-Lei n.º 247/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1984-386072), de 23 de Julho, será paga na proporção do valor numérico indicado na alínea b) do n.º 3 do mesmo preceito legal.
 
 2 - O início da obrigação decorrente deste artigo verificar-se-á 1 ano antes de principiar a exploração do jogo.
 
-###### Art. 4.º - 1 - A concessão da exploração da zona de jogo de Vidago-Pedras Salgadas ficará sujeita às disposições do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
+Art. 4.º - 1 - A concessão da exploração da zona de jogo de Vidago-Pedras Salgadas ficará sujeita às disposições do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
 
 2 - O prazo da concessão bem como as obrigações mínimas a que deve sujeitar-se a empresa concessionária serão estabelecidos em decreto regulamentar.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 2 de Setembro de 1985.**
+Promulgado em 2 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Setembro de 1985.**
+Referendado em 4 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -50,40 +50,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36ec823669c4164b8ac4f3890fadce09b5dc39b7a63c7c7fed3c47080da1dc9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a4332d25fd17a739c471bba1efe35bcc0aa95354d571ba877ff54a9c90566c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Cortiça
 relationships:
 - type: amended_by
   target: pt:dre:197687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669091:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:53Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +116,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Ficam sujeitos à disciplina do presente diploma os órgãos e departamentos do Estado e as entidades singulares ou colectivas gestoras, em nome próprio ou por conta alheia, de explorações agrícolas com montado de sobro, situadas em prédios rústicos nacionalizados ou expropriados, quanto às operações de extracção, comercialização e transporte de cortiça amadia e secundeira, de cortiça virgem e de bocados, bem como as demais operações inerentes à cultura suberícola.
+Artigo 1.º - 1 - Ficam sujeitos à disciplina do presente diploma os órgãos e departamentos do Estado e as entidades singulares ou colectivas gestoras, em nome próprio ou por conta alheia, de explorações agrícolas com montado de sobro, situadas em prédios rústicos nacionalizados ou expropriados, quanto às operações de extracção, comercialização e transporte de cortiça amadia e secundeira, de cortiça virgem e de bocados, bem como as demais operações inerentes à cultura suberícola.
 
 2 - Sempre que no presente diploma se faça alusão a cortiça, esta expressão engloba os diferentes tipos de cortiça referidos no número anterior.
 
@@ -114,7 +124,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O disposto no número anterior implica a extinção das obrigações decorrentes do contrato, ficando o comprador investido no direito de exigir a restituição dos pagamentos efectuados nos termos da alínea c) do artigo 4.º do presente diploma.
 
-###### Art. 2.º - 1 - As entidades referidas no artigo anterior ficam sujeitas às seguintes operações:
+Art. 2.º - 1 - As entidades referidas no artigo anterior ficam sujeitas às seguintes operações:
 
 a) Cumprir as directrizes dos serviços competentes do Ministério da Agricultura relativamente a todas as operações culturais e de exploração dos montados de sobro;
 
@@ -126,9 +136,9 @@ c) Não efectuar nem permitir que se efectue o levantamento de quaisquer quantid
 
 3 - A falta de envio da declaração de previsão de extracção no prazo legal é punida com multa de 5000$00 a 50000$00, se a falta se verificar pela primeira vez, e com multa de 50000$00 a 100000$00, no caso de a falta se verificar pela segunda ou mais vezes.
 
-###### Art. 3.º As aquisições de cortiça compreendidas no âmbito deste decreto-lei serão precedidas de concursos públicos ou limitados, a abrir pela Direcção-Geral das Florestas nos termos da legislação em vigor.
+Art. 3.º As aquisições de cortiça compreendidas no âmbito deste decreto-lei serão precedidas de concursos públicos ou limitados, a abrir pela Direcção-Geral das Florestas nos termos da legislação em vigor.
 
-###### Art. 4.º Os adquirentes de cortiça ficam sujeitos às seguintes obrigações:
+Art. 4.º Os adquirentes de cortiça ficam sujeitos às seguintes obrigações:
 
 a) Celebrar o contrato de compra e venda de cortiça nos termos do artigo anterior;
 
@@ -138,7 +148,7 @@ c) Proceder aos pagamentos contratualmente acordados por depósito na Caixa Gera
 
 d) Só levantar a cortiça que corresponda às autorizações emitidas pela Direcção-Geral das Florestas.
 
-###### Art. 5.º - 1 - Do produto da venda da cortiça a que se referem os artigos anteriores retirar-se-ão as importâncias correspondentes à liquidação dos encargos com:
+Art. 5.º - 1 - Do produto da venda da cortiça a que se referem os artigos anteriores retirar-se-ão as importâncias correspondentes à liquidação dos encargos com:
 
 a) Operações de extracção e empilhamento da cortiça;
 
@@ -164,7 +174,7 @@ c) Pagamento de indemnizações por frutos pendentes, gados, máquinas e alfaias
 
 6 - As acções a que se refere a alínea b) do n.º 2 serão obrigatoriamente inscritas em programa de actividades dos competentes organismos, a aprovar pelos ministros de que dependem.
 
-###### Art. 6.º - 1 - À Direcção-Geral das Florestas compete:
+Art. 6.º - 1 - À Direcção-Geral das Florestas compete:
 
 a) Proceder, de acordo com o artigo 3.º, à venda de cortiça proveniente dos montados de sobro das explorações agrícolas situadas nos prédios rústicos referidos no artigo 1.º
 
@@ -184,7 +194,7 @@ g) Efectuar para cada contrato a distribuição das verbas a que se refere o art
 
 3 - Se existirem reservas demarcadas, pedidos de reserva ou propostas de declaração de não expropriabilidade, deverá a quantia referida no número anterior ser entregue aos interessados a partir do momento da entrega da área de reserva ou da desocupação dos prédios em causa, comprovada pela competente direcção regional de agricultura.
 
-###### Art. 7.º - 1 - À Direcção-Geral das Florestas compete organizar o corpo de assistência técnica e de fiscalização com funcionários do seu quadro de pessoal, responsabilizando-se pela sua eficiente actuação, por forma a cumprir as funções que lhe são cometidas neste diploma.
+Art. 7.º - 1 - À Direcção-Geral das Florestas compete organizar o corpo de assistência técnica e de fiscalização com funcionários do seu quadro de pessoal, responsabilizando-se pela sua eficiente actuação, por forma a cumprir as funções que lhe são cometidas neste diploma.
 
 2 - Ao corpo de assistência técnica e de fiscalização compete:
 
@@ -200,34 +210,34 @@ e) Exigir às entidades referidas no artigo 1.º deste diploma prova do envio da
 
 f) Levantar autos de notícia relativos às infracções ao disposto neste diploma.
 
-###### Art. 8.º - 1 - É proibido o levantamento e transporte de cortiça dos prédios rústicos citados no artigo 1.º sem emissão prévia de autorização pela Direcção-Geral das Florestas.
+Art. 8.º - 1 - É proibido o levantamento e transporte de cortiça dos prédios rústicos citados no artigo 1.º sem emissão prévia de autorização pela Direcção-Geral das Florestas.
 
 2 - A autorização a que se refere o número anterior deverá ser apresentada pelo adquirente à entidade a que se refere o artigo 1.º, sendo aquela datada e assinada por qualquer dos seus representantes legais antes que se permita o levantamento do montante da cortiça mencionado na autorização.
 
 3 - O adquirente deverá devolver à Direcção-Geral das Florestas as autorizações já utilizadas no prazo de 5 dias, contado a partir da data da sua utilização, sem o que não lhe serão concedidas novas autorizações, independentemente dos pagamentos já efectuados.
 
-###### Art. 9.º - 1 - As infracções ao disposto no presente diploma constituem contravenção punível com a pena de multa de 50000$00 a 10000000$00.
+Art. 9.º - 1 - As infracções ao disposto no presente diploma constituem contravenção punível com a pena de multa de 50000$00 a 10000000$00.
 
 2 - Os autos de notícia a que se refere a alínea f) do artigo 7.º serão apreciados pela Direcção-Geral das Florestas, competindo-lhe graduar a multa de acordo com o disposto no artigo 553.º do Código de Processo Penal e notificar os transgressores, por carta registada com aviso de recepção, para procederem ao pagamento das multas, querendo, no prazo de 15 dias, contado a partir da data da assinatura do aviso de recepção.
 
 3 - Decorrido o prazo de pagamento voluntário, se este não for efectuado, a Direcção-Geral das Florestas remeterá o processo ao tribunal competente.
 
-###### Art. 10.º O produto das multas reverte integralmente para o Estado.
+Art. 10.º O produto das multas reverte integralmente para o Estado.
 
-###### Art. 11.º Os contratos de comercialização de cortiça realizados até 31 de Dezembro de 1985 obedecerão às disposições legais que vigoravam na data da sua constituição.
+Art. 11.º Os contratos de comercialização de cortiça realizados até 31 de Dezembro de 1985 obedecerão às disposições legais que vigoravam na data da sua constituição.
 
-###### Art. 12.º É revogado o [Decreto-Lei n.º 189-C/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-c-1981-669091), de 3 de Julho, com a redacção que lhe foi dada pela [Lei n.º 26/82](https://diariodarepublica.pt/dr/detalhe/lei/26-1982-375234), de 23 de Setembro, sem prejuízo do disposto no artigo anterior.
+Art. 12.º É revogado o [Decreto-Lei n.º 189-C/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-c-1981-669091), de 3 de Julho, com a redacção que lhe foi dada pela [Lei n.º 26/82](https://diariodarepublica.pt/dr/detalhe/lei/26-1982-375234), de 23 de Setembro, sem prejuízo do disposto no artigo anterior.
 
-###### Art. 13.º O presente diploma entra em vigor no dia 1 de Janeiro de 1986.
+Art. 13.º O presente diploma entra em vigor no dia 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão.
 
-**Promulgado em 18 de Julho de 1985.**
+Promulgado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Julho de 1985.**
+Referendado em 19 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

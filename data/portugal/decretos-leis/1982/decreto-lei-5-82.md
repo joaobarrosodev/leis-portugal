@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/00900/00420042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1982-553004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1893a7dd43acc1ee339cf30f0b16c06d0dfaeb889b420e1760126e0f42608c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5209754c444d8b05db614770a17648af9cca6936fc47cf8ea779aa1512c0688b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Património do Estado
+- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:444403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:525622:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:600930:por
+  label: Rectificado pela DECL.DD5851.13.01.1982.PCM, DR.IS [20] de 25.01.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-600930
+  date: '1982-01-13'
+- type: repealed_by
+  target: pt:dre:444403:por
+  label: "Revogado pelo DEC LEI.450/83.26.12.1983.MFP, DR.IS [296] de 26.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/450-1983-444403
+  date: '1983-12-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:16Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +118,7 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 Os §§ 2.º e 3.º do artigo 2.º do [Decreto-Lei n.º 39083](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39083-1953-525622), de 17 de Janeiro de 1953, passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º ...
 
@@ -113,8 +130,8 @@ Os §§ 2.º e 3.º do artigo 2.º do [Decreto-Lei n.º 39083](https://diariodar
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Dezembro de 1981.**
+Promulgado em 30 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

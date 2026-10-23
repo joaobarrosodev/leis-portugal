@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/03400/03120312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1982-600355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c0891cec6dabf78f1b0080724ca34ba1b7e23906107245d0455bb4aa999f0f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9debcda72b3891f7c2f8944e09ba9f77a00360333ab83032ed60d1e94e1b4ba0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Cooperativo
+- Cooperativa
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676035:por
+  label: "Alterada a numeração do art. 99º, que passa a art. 98º - com nova redacção -, do Código Cooperativo, aprovado pelo\
+    \ Dec Lei 454/80, de 09-Out, na redacção do presente diploma, pela LEI.1/83.1983.01.10.AR, DR.IS [7]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-1983-676035
+  date: '1983-01-10'
+- type: cites
+  target: pt:dre:462212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576534:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:27Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +115,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 99.º do Código Cooperativo aprovado pelo [Decreto-Lei n.º 454/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1980-462212), de 9 de Outubro, com a redacção introduzida pelo [Decreto-Lei n.º 238/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1981-576534), de 10 de Agosto, passa a ter a seguinte redacção:
+Artigo único. O artigo 99.º do Código Cooperativo aprovado pelo [Decreto-Lei n.º 454/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1980-462212), de 9 de Outubro, com a redacção introduzida pelo [Decreto-Lei n.º 238/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1981-576534), de 10 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 99.º - 1 - As cooperativas de 1.º grau e de grau superior, legalmente constituídas ao abrigo da legislação anterior, terão de se adaptar às disposições deste Código até 31 de Julho de 1982, excepto as dos ramos agrícola e crédito que farão até 31 de Dezembro de 1982, nomeadamente no que respeita:
+Art. 99.º - 1 - As cooperativas de 1.º grau e de grau superior, legalmente constituídas ao abrigo da legislação anterior, terão de se adaptar às disposições deste Código até 31 de Julho de 1982, excepto as dos ramos agrícola e crédito que farão até 31 de Dezembro de 1982, nomeadamente no que respeita:
 
 a) ...
 
@@ -110,8 +131,8 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 28 de Janeiro de 1982.**
+Promulgado em 28 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

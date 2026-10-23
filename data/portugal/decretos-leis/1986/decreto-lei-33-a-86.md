@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 49/1986, 1º Suplemento, Série I de 1986-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 508-(1) a 508-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/02/04901/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-1986-406917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: deb8f92db4e5bba7a75cfb4fd8ceebdee96e6ea82ab2f8a43807c23ea404e09b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cfbda20b79199e10ab285958c9c1fc7ac4d3b255c6cedfe73be0fdf1b337c44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- Direcção Geral das Alfândegas
+- Direito Comunitário
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Isenção Fiscal
+- Mercadoria
+- Produto Industrial
+- Tratado CEE
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578328:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:45Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +157,7 @@ No uso da autorização conferida pela alínea f) do artigo 30.º da [Lei n.º 2
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São revogadas todas as disposições legais que prevêem, a título de benefícios aduaneiros, a concessão de isenção ou redução de direitos não permitidas pelo direito comunitário.
+Artigo 1.º - 1 - São revogadas todas as disposições legais que prevêem, a título de benefícios aduaneiros, a concessão de isenção ou redução de direitos não permitidas pelo direito comunitário.
 
 2 - São igualmente objecto de revogação:
 
@@ -113,40 +165,40 @@ a) O [Decreto-Lei n.º 15/83](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 b) O [Decreto-Lei n.º 46838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46838-1966-493268), de 18 de Janeiro de 1966, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 47243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47243-1966-478184), de 7 de Outubro de 1966, pelo [Decreto-Lei n.º 48836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48836-1969-527034), de 16 de Janeiro de 1969, e pela [Lei n.º 2141](https://diariodarepublica.pt/dr/detalhe/lei/2141-1969-201465), de 13 de Maio de 1969, que suspendeu a aplicação dos direitos normalmente devidos por certos produtos siderúrgicos.
 
-###### Art. 2.º - 1 - Os produtos importados para fins industriais que constam do anexo I ao presente diploma serão livres de direitos desde que importados das Comunidades e estejam nas condições previstas no n.º 2 do artigo 9.º e no n.º 1 do artigo 10.º do Tratado que institui a Comunidade Económica Europeia.
+Art. 2.º - 1 - Os produtos importados para fins industriais que constam do anexo I ao presente diploma serão livres de direitos desde que importados das Comunidades e estejam nas condições previstas no n.º 2 do artigo 9.º e no n.º 1 do artigo 10.º do Tratado que institui a Comunidade Económica Europeia.
 
 2 - Para os produtos constantes do mesmo anexo I, quando importados de terceiros países para os fins referidos no número anterior, as taxas aplicáveis pelas Comunidades serão introduzidas nos termos dos artigos 197.º, 365.º e 366.º do Acto de Adesão.
 
-###### Art. 3.º - 1 - O estipulado nos artigos anteriores não constitui obstáculo à manutenção, para as empresas constantes do anexo II a este diploma, da isenção de direitos na importação de bens de equipamento, para seu uso e até às datas limites e montantes de investimento indicados no mesmo anexo, de acordo com o Protocolo n.º 16 do Acto de Adesão.
+Art. 3.º - 1 - O estipulado nos artigos anteriores não constitui obstáculo à manutenção, para as empresas constantes do anexo II a este diploma, da isenção de direitos na importação de bens de equipamento, para seu uso e até às datas limites e montantes de investimento indicados no mesmo anexo, de acordo com o Protocolo n.º 16 do Acto de Adesão.
 
 2 - Por portaria do Ministério das Finanças será publicada a lista dos produtos cobertos por esta isenção.
 
-###### Art. 4.º - 1 - Competirá à Direcção-Geral das Alfândegas fiscalizar a correcta aplicação dos produtos importados ao abrigo dos artigos 2.º e 3.º do presente diploma, para o que instituirá os mecanismos considerados convenientes.
+Art. 4.º - 1 - Competirá à Direcção-Geral das Alfândegas fiscalizar a correcta aplicação dos produtos importados ao abrigo dos artigos 2.º e 3.º do presente diploma, para o que instituirá os mecanismos considerados convenientes.
 
 2 - Ao desvio das mercadorias dos fins estabelecidos nos artigos 2.º e 3.º do presente diploma poderá aplicar-se o disposto na alínea d) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 187/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1983-451603), de 13 de Maio.
 
-###### Art. 5.º São expressamente revogadas, por constituírem encargos de efeito equivalente a direitos aduaneiros, as alíneas c) e d) do artigo 4.º do [Decreto n.º 7822](https://diariodarepublica.pt/dr/detalhe/decreto/7822-1921-578328), de 22 de Novembro de 1921, e as alíneas e) e f) do artigo 1.º do [Decreto n.º 8786](https://diariodarepublica.pt/dr/detalhe/decreto/8786-1923-340991), de 28 de Abril de 1923, que fixaram os montantes cobrados a favor do Fundo de Protecção à Marinha Mercante.
+Art. 5.º São expressamente revogadas, por constituírem encargos de efeito equivalente a direitos aduaneiros, as alíneas c) e d) do artigo 4.º do [Decreto n.º 7822](https://diariodarepublica.pt/dr/detalhe/decreto/7822-1921-578328), de 22 de Novembro de 1921, e as alíneas e) e f) do artigo 1.º do [Decreto n.º 8786](https://diariodarepublica.pt/dr/detalhe/decreto/8786-1923-340991), de 28 de Abril de 1923, que fixaram os montantes cobrados a favor do Fundo de Protecção à Marinha Mercante.
 
-###### Art. 6.º O presente diploma entra em vigor em 1 de Março de 1986.
+Art. 6.º O presente diploma entra em vigor em 1 de Março de 1986.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 28 de Fevereiro de 1986.**
+Promulgado em 28 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Fevereiro de 1986.**
+Referendado em 28 de Fevereiro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Lista a que se refere o artigo 2.º
 
 (Anexo XVIII do Acto de Adesão às Comunidades)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/02/04901/00010005.pdf))](https://files.diariodarepublica.pt/1s/1986/02/04901/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/02/04901/00010005.pdf)
 
 ## ANEXO II — (Protocolo n.º 16 do Acto de Adesão)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/02/04901/00010005.pdf))](https://files.diariodarepublica.pt/1s/1986/02/04901/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/02/04901/00010005.pdf)

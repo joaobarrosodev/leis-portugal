@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/18500/20042005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1986-218901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c643e2091235bb06631df5b54abddc81cebd5cdbe16a44d6a6acc7208c2e3228
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2b2bbc70d2f1ae69d716b3ad0ecda31fbdd0f4eb51e608a681373c5f8eda3eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regime Jurídico
+- Venda a Prestações
 relationships:
 - type: amended_by
   target: pt:dre:517181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517181:por
+  label: "Revogado o Dec Lei 457/79, de 21-nov, na redação do presente diploma, pelo DEC LEI.63/94.28.02.1994.MF, DR.IS-A\
+    \ [49] de 28.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-1994-517181
+  date: '1994-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:04Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +107,18 @@ Considerando que se justifica que idêntico procedimento seja admitido relativam
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 7.º do [Decreto-Lei n.º 457/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1979-367609), de 21 de Novembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 7.º do [Decreto-Lei n.º 457/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1979-367609), de 21 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 7.º As sobretaxas de juro e demais encargos mencionados na alínea h) do n.º 1 do artigo 2.º, bem como o imposto estabelecido pelo artigo 120-A da Tabela Geral do Imposto do Selo, obrigatoriamente comprovados perante o comprador, só podem ser repercutidos pelo vendedor sobre o comprador, e sem quaisquer acréscimos, quando tenham sido total ou parcialmente mobilizados, sob qualquer forma, em uma ou mais instituições de crédito, os títulos emitidos nos termos do artigo 3.º ou os contratos e outros instrumentos legais representativos da venda a prestações.
+Art. 7.º As sobretaxas de juro e demais encargos mencionados na alínea h) do n.º 1 do artigo 2.º, bem como o imposto estabelecido pelo artigo 120-A da Tabela Geral do Imposto do Selo, obrigatoriamente comprovados perante o comprador, só podem ser repercutidos pelo vendedor sobre o comprador, e sem quaisquer acréscimos, quando tenham sido total ou parcialmente mobilizados, sob qualquer forma, em uma ou mais instituições de crédito, os títulos emitidos nos termos do artigo 3.º ou os contratos e outros instrumentos legais representativos da venda a prestações.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Julho de 1986.**
+Promulgado em 26 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1986.**
+Referendado em 30 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1983-308344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88794560251dcd30b57a7e47b2ed35b603e27484b714e18f78215376976bb57e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bad463102acf4b78f13f72477051817282640b9546d0f67bd3a93295d586b0c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Nacional de Belas-artes
+- Belas-artes
+- Prémio
+relationships:
+- type: cites
+  target: pt:dre:448521:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:25Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +101,9 @@ Considerando a função da Academia Nacional de Belas-Artes como depositária de
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São instituídos os prémios anuais da Academia Nacional de Belas-Artes, cujo regulamento, publicado em anexo ao presente diploma, é por ele aprovado, do mesmo fazendo parte integrante.
+Artigo 1.º São instituídos os prémios anuais da Academia Nacional de Belas-Artes, cujo regulamento, publicado em anexo ao presente diploma, é por ele aprovado, do mesmo fazendo parte integrante.
 
-###### Art. 2.º Os prémios anuais da Academia Nacional de Belas-Artes são o resultado da transformação em 2 prémios do conjunto dos seguintes prémios e subsídio:
+Art. 2.º Os prémios anuais da Academia Nacional de Belas-Artes são o resultado da transformação em 2 prémios do conjunto dos seguintes prémios e subsídio:
 
 Prémio Anunciação;
 
@@ -118,19 +125,19 @@ Subsídio de viagem do legado dos Viscondes de Valmor.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1982. - Diogo Pinto de Freitas do Amaral - Francisco António Lucas Pires.
 
-**Promulgado em 11 de Janeiro de 1983.**
+Promulgado em 11 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Regulamento dos Prémios Anuais da Academia Nacional de Belas-Artes
 
-###### Artigo 1.º Os prémios anuais da Academia Nacional de Belas-Artes destinam-se a estimular e distinguir diplomados pelas Escolas Superiores de Belas-Artes de Lisboa e do Porto, bem como artistas portugueses nos domínios da arquitectura, da escultura e da pintura.
+Artigo 1.º Os prémios anuais da Academia Nacional de Belas-Artes destinam-se a estimular e distinguir diplomados pelas Escolas Superiores de Belas-Artes de Lisboa e do Porto, bem como artistas portugueses nos domínios da arquitectura, da escultura e da pintura.
 
-###### Art. 2.º São 2 os prémios anuais da Academia Nacional de Belas-Artes, o prémio Investigação e o prémio Aquisição, no valor de 100000$00 cada um.
+Art. 2.º São 2 os prémios anuais da Academia Nacional de Belas-Artes, o prémio Investigação e o prémio Aquisição, no valor de 100000$00 cada um.
 
-###### Art. 3.º - 1 - O prémio Investigação será atribuído a diplomados pelas Escolas Superiores de Belas-Artes de Lisboa ou do Porto, que, no prazo mínimo de 5 anos e máximo de 10 após a licenciatura, tenham mantido actividade criadora nos domínios da arquitectura, da escultura ou da pintura.
+Art. 3.º - 1 - O prémio Investigação será atribuído a diplomados pelas Escolas Superiores de Belas-Artes de Lisboa ou do Porto, que, no prazo mínimo de 5 anos e máximo de 10 após a licenciatura, tenham mantido actividade criadora nos domínios da arquitectura, da escultura ou da pintura.
 
 2 - A selecção dos candidatos a este prémio faz-se mediante concurso público, a realizar pela Academia Nacional de Belas-Artes, que será anunciado na 2.ª série do Diário da República e nos meios de comunicação social. Do aviso do concurso devem constar os seguintes elementos:
 
@@ -154,13 +161,13 @@ c) Quaisquer outros elementos comprovativos da qualificação e experiência pro
 
 d) 2 fotografias do candidato.
 
-###### Art. 4.º - 1 - O prémio Aquisição será atribuído a artistas portugueses, nos domínios da arquitectura, da escultura e da pintura, autores de uma obra que, pela sua qualidade, seja considerada relevante no contexto da cultura nacional.
+Art. 4.º - 1 - O prémio Aquisição será atribuído a artistas portugueses, nos domínios da arquitectura, da escultura e da pintura, autores de uma obra que, pela sua qualidade, seja considerada relevante no contexto da cultura nacional.
 
 2 - A sua atribuição faz-se mediante escolha da Academia Nacional de Belas-Artes, independentemente de concurso.
 
 3 - O premiado fica vinculado a oferecer à Academia Nacional de Belas-Artes um trabalho da sua autoria e de sua livre escolha, de entre anteprojectos ou projectos desenhados que tenha realizado, na modalidade de arquitectura, e de uma obra de escultura, pintura ou desenho, em material definitivo, nas modalidades de escultura e pintura.
 
-###### Art. 5.º - 1 - Todas as operações dos concursos para o prémio Investigação e de escolha do contemplado com o prémio Aquisição são realizadas sob a responsabilidade de um júri, constituído por 9 elementos, sendo 7 efectivos e 2 suplentes, eleitos pela Academia Nacional de Belas-Artes de entre os seus membros.
+Art. 5.º - 1 - Todas as operações dos concursos para o prémio Investigação e de escolha do contemplado com o prémio Aquisição são realizadas sob a responsabilidade de um júri, constituído por 9 elementos, sendo 7 efectivos e 2 suplentes, eleitos pela Academia Nacional de Belas-Artes de entre os seus membros.
 
 2 - Do júri fazem necessariamente parte 3 artistas da especialidade a premiar.
 
@@ -172,7 +179,7 @@ d) 2 fotografias do candidato.
 
 6 - Das reuniões do júri são lavradas actas das quais constam as deliberações tomadas.
 
-###### Art. 6.º Quaisquer referências aos prémios anuais da Academia Nacional de Belas-Artes devem ser sempre acompanhadas da explicação de que os mesmos são constituídos pela reunião de outros prémios:
+Art. 6.º Quaisquer referências aos prémios anuais da Academia Nacional de Belas-Artes devem ser sempre acompanhadas da explicação de que os mesmos são constituídos pela reunião de outros prémios:
 
 a) Os prémios de arquitectura, pela dos prémios Soares dos Reis, Luciano Freire e Viscondes de Valmor;
 
@@ -180,4 +187,4 @@ b) Os prémios de escultura, pela dos prémios Soares dos Reis, Luciano Freire, 
 
 c) Os prémios de pintura, pela dos prémios Anunciação Lupi, Luciano Freire, Ferreira Chaves, Barão de Castelo de Paiva, Rocha Cabral, Júlio Mardel e Viscondes de Valmor.
 
-###### Art. 7.º As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Cultura e Coordenação Científica.
+Art. 7.º As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Cultura e Coordenação Científica.

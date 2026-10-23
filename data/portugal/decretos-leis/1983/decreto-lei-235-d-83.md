@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01
   number: '126'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2040-(35) a 2040-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/12602/00350037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -49,40 +49,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-d-1983-245345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e2594ba81c86846c68af19a05d105a52619cc045b1e2e94a96372cb47c2fecb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 791fc3329fc30df98364444e9d48b1715a740435d884abaf1fa834a111b87d83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente Motor
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:404134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514848:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316342:por
+  label: Rectificado o presente diploma pela DECL.DD5805.29.06.1983.PCM, DR.IS [148-2ºSupl] de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316342
+  date: '1983-06-29'
+- type: repealed_by
+  target: pt:dre:404134:por
+  label: "Revogado pelo DEC LEI.103-A/90.1990.03.22.MF, DR.IS [68]Supl de 22.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-a-1990-404134
+  date: '1990-03-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:24Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +133,7 @@ Nestes termos:
 
 Usando da autorização concedida pela alínea c) do artigo 19.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos da alínea b) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Aos deficientes motores das Forças Armadas não compreendidos no artigo 1.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, e aos deficientes motores civis é concedida a isenção de direitos aduaneiros, taxas, imposto sobre a venda de veículos, sobretaxa e emolumentos gerais na importação de triciclos, cadeiras de rodas, com ou sem motor, ou de automóveis ligeiros de passageiros ou mistos para uso próprio.
+Artigo 1.º - 1 - Aos deficientes motores das Forças Armadas não compreendidos no artigo 1.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, e aos deficientes motores civis é concedida a isenção de direitos aduaneiros, taxas, imposto sobre a venda de veículos, sobretaxa e emolumentos gerais na importação de triciclos, cadeiras de rodas, com ou sem motor, ou de automóveis ligeiros de passageiros ou mistos para uso próprio.
 
 2 - No caso de automóveis, a isenção só contempla deficientes motores e a cilindrada daqueles não poderá exceder 1750 cm3, quando de motor a gasolina, ou 2500 cm3, quando de motor a gasóleo.
 
@@ -119,7 +151,7 @@ b) O acesso aos transportes públicos normais ou a sua utilização.
 
 7 - A aquisição dos veículos deverá ser feita adentro do contingente e por intermédio dos representantes nacionais das respectivas marcas.
 
-###### Art. 2.º - 1 - A isenção prevista no artigo anterior não pode ser fruída por cada beneficiário relativamente a mais do que 1 veículo em cada 5 anos, salvo no caso de acidente involuntário com danos irreparáveis, de roubo ou de outro motivo extraordinário que conduza à eliminação da viatura em circunstâncias justificadas, devidamente comprovadas pela autoridade competente.
+Art. 2.º - 1 - A isenção prevista no artigo anterior não pode ser fruída por cada beneficiário relativamente a mais do que 1 veículo em cada 5 anos, salvo no caso de acidente involuntário com danos irreparáveis, de roubo ou de outro motivo extraordinário que conduza à eliminação da viatura em circunstâncias justificadas, devidamente comprovadas pela autoridade competente.
 
 2 - Se o adquirente pretender alienar o automóvel importado ao abrigo deste decreto-lei antes de completados 5 anos, terá de pagar previamente ao Estado a parte dos direitos e demais encargos proporcional ao tempo que faltar para o termo daquele período.
 
@@ -127,7 +159,7 @@ b) O acesso aos transportes públicos normais ou a sua utilização.
 
 4 - Em caso de falecimento do beneficiário antes de decorrido o período de 5 anos após a aquisição do veículo, a propriedade deste transitará para os seus sucessores sem obrigação de pagamento ao Estado dos direitos e outros encargos referidos no n.º 1 do artigo 1.º, excepto se aqueles o alienarem, caso em que será aplicável o disposto no n.º 2 deste artigo.
 
-###### Art. 3.º - 1 - Só serão aceites pelas alfândegas declarações de incapacidade emitidas pelas seguintes entidades:
+Art. 3.º - 1 - Só serão aceites pelas alfândegas declarações de incapacidade emitidas pelas seguintes entidades:
 
 a) Direcções dos serviços de pessoal de cada um dos ramos das Forças Armadas;
 
@@ -141,30 +173,30 @@ c) Administrações regionais de saúde (no caso de deficientes civis).
 
 4 - A Direcção-Geral das Alfândegas poderá, sempre que o julgar conveniente, obrigar à submissão dos deficientes em nome de quem foram emitidas as declarações da incapacidade referida nos números anteriores a uma junta médica de verificação.
 
-###### Art. 4.º Os pedidos de isenção, que serão apresentados directamente nas alfândegas, deverão ser acompanhados de documentação justificativa de que os impetrantes satisfazem os requisitos fixados nos artigos anteriores, bem como da prova de que apresentaram a declaração relativa ao imposto complementar nos 3 anos anteriores ao da formulação das petições.
+Art. 4.º Os pedidos de isenção, que serão apresentados directamente nas alfândegas, deverão ser acompanhados de documentação justificativa de que os impetrantes satisfazem os requisitos fixados nos artigos anteriores, bem como da prova de que apresentaram a declaração relativa ao imposto complementar nos 3 anos anteriores ao da formulação das petições.
 
-###### Art. 5.º - 1 - Dos verbetes de importação e das guias do imposto sobre a venda de veículos automóveis deverá constar, de forma bem visível, a indicação «Deficiente», seguida do número do presente decreto-lei, a fim de as direcções de viação e as conservatórias do registo de propriedade automóvel exararem averbadamente de conformidade nos respectivos livretes e títulos de registo de propriedade.
+Art. 5.º - 1 - Dos verbetes de importação e das guias do imposto sobre a venda de veículos automóveis deverá constar, de forma bem visível, a indicação «Deficiente», seguida do número do presente decreto-lei, a fim de as direcções de viação e as conservatórias do registo de propriedade automóvel exararem averbadamente de conformidade nos respectivos livretes e títulos de registo de propriedade.
 
 2 - As chapas de matrícula dos veículos automóveis importados ao abrigo do presente diploma serão de tipo especial, a determinar por portaria do Ministro da Habitação, Obras Públicas e Transportes no prazo de 90 dias, a contar da entrada em vigor do presente decreto-lei.
 
 3 - O cumprimento das obrigações impostas por este diploma será fiscalizado pela Guarda Nacional Republicana, Polícia de Segurança Pública, Guarda Fiscal, Direcção-Geral das Alfândegas e Direcção-Geral de Viação.
 
-###### Art. 6.º - 1 - Até 31 de Dezembro de 1983 deverá ser operada a substituição das chapas de matrícula dos veículos importados ao abrigo da [Lei n.º 11/78](https://diariodarepublica.pt/dr/detalhe/lei/11-1978-447350), de 20 de Março, por outras obedecendo ao tipo indicado no n.º 2 do artigo 5.º do presente decreto-lei, bem como, se for caso disso, ser efectuado o averbamento nos respectivos livretes do nome das pessoas autorizadas a conduzi-los nos termos do [Despacho Normativo n.º 63/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1979-382827), de 14 de Março.
+Art. 6.º - 1 - Até 31 de Dezembro de 1983 deverá ser operada a substituição das chapas de matrícula dos veículos importados ao abrigo da [Lei n.º 11/78](https://diariodarepublica.pt/dr/detalhe/lei/11-1978-447350), de 20 de Março, por outras obedecendo ao tipo indicado no n.º 2 do artigo 5.º do presente decreto-lei, bem como, se for caso disso, ser efectuado o averbamento nos respectivos livretes do nome das pessoas autorizadas a conduzi-los nos termos do [Despacho Normativo n.º 63/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1979-382827), de 14 de Março.
 
 2 - Se os veículos referidos no número anterior não forem conduzidos pelo deficiente, só poderão circular sem o mesmo num perímetro de 10 km à volta da localidade da sua residência.
 
 3 - A inobservância do que se comina nos números anteriores dará lugar à sanção prevista no n.º 6 do artigo 1.º
 
-###### Art. 7.º São revogados a [Lei n.º 11/78](https://diariodarepublica.pt/dr/detalhe/lei/11-1978-447350), de 20 de Março, e o [Despacho Normativo n.º 63/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1979-382827), de 14 de Março, inserto no Diário da República, 1.ª série, n.º 79, de 4 de Abril de 1979.
+Art. 7.º São revogados a [Lei n.º 11/78](https://diariodarepublica.pt/dr/detalhe/lei/11-1978-447350), de 20 de Março, e o [Despacho Normativo n.º 63/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1979-382827), de 14 de Março, inserto no Diário da República, 1.ª série, n.º 79, de 4 de Abril de 1979.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - Ricardo Manuel Simões Bayão Horta - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel - Luís Eduardo da Silva Barbosa - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 27 de Maio de 1983.**
+Promulgado em 27 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Junho de 1983.**
+Referendado em 5 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03200/03740385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,122 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1983-311035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48475b9bc5843137ab3daeab61de664cfae5c6184d87c5ea9551b0f692dfd074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4375017c7cf53224cf1470bafd9d5231d69bff5fb0987ed1b8f68e327d3d1798
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Junta do Crédito Público
+- Junta de Crédito Público
+- Ministério das Finanças e do Plano
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:241227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451640:por
+  label: "Alargado o quadro de pessoal aprovado pelo presente diploma, pela PORT.621/83.1983.05.30.MFP, DR.IS [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-1983-451640
+  date: '1983-05-30'
+- type: amended_by
+  target: pt:dre:384403:por
+  label: "Alargado o quadro de pessoal (aprovado pelo presente diploma), pela PORT.322/84.1984.05.30.PCM, DR.IS [125]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-1984-384403
+  date: '1984-05-30'
+- type: amended_by
+  target: pt:dre:662174:por
+  label: "Aumentado o quadro de pessoal (aprovado pelo presente diploma, na redacção da Port 709/86 de 25-Nov), pela PORT.196/87.1987.03.19.MF,\
+    \ DR.IS [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1987-662174
+  date: '1987-03-19'
+- type: amended_by
+  target: pt:dre:575144:por
+  label: "Alterada a carreira de pessoal técnico de crédito público, prevista no presente diploma, nos termos constantes do\
+    \ DEC LEI.193/90.09.06.1990.MF, DR.IS [133] de 09.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1990-575144
+  date: '1990-06-09'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Extinta a Direcção Geral da Junta do Crédito Público até 30 de Junho de 1997, criada pelo presente diploma, pelo\
+    \ DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\04]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506035:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:619714:por
+  label: "Revogado o art. 2º pelo DEC LEI.219/89.04.07.1989.MF, DR.IS [151] de 04.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1989-619714
+  date: '1989-07-04'
+- type: repealed_by
+  target: pt:dre:241227:por
+  label: "Revogados os arts. 1.º, 3.º e 4.º, pelo DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
 article_structure:
   article_count: 53
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:45Z'
   warnings: []
   errors: []
 ---
@@ -426,7 +508,9 @@ h) Colaborar na elaboração de ordens de serviço e instruções regulamentares
 
 i) Prestar todo o apoio de ordem técnica que lhe seja solicitado pelo director-geral e pelo subdirector-geral.
 
-#### SECÇÃO VII — Divisão do Arquivo-Museu e Biblioteca
+#### SECÇÃO VII
+
+##### Divisão do Arquivo-Museu e Biblioteca
 
 ###### Artigo 24.º — (Atribuições)
 
@@ -822,15 +906,15 @@ A partir da entrada em vigor deste decreto-lei é revogada a seguinte legislaç�
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Quadros a que se refere o artigo 26.º do presente diploma
 
@@ -840,6 +924,6 @@ Junta do Crédito Público
 
 Direcção-Geral de Junta do Crédito Público
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03200/03740385.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03200/03740385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03740385.pdf)
 
 (nota a) A remunerar por gratificação.

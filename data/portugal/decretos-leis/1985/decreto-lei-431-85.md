@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24400/35063507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1985-178104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e2e8dad8cf522fd52b577d669a21be9798fd861656c472f37fa8ebeb5629e57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac4f273aded7ed1da0cc9d0f33f0a0304c42e5ee37d0e1a8f2e80ca9faf4313a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio à Exportação
+- Exportação
+- ICEP
+- Incentivos à Exportação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226849:por
+  label: Mantido em vigor durante o ano de 1986, alterados os arts. 1.º, 3.º e 5.º e remetidas para o Ministério da Indústria
+    e Comércio, as referências feitas ao Ministério do Comércio e Turismo e ao Ministério da Indústria e Energia no articulado
+    do presente diploma, pelo(a) Decreto-Lei n.º 127/86 - Diário da República n.º 125/1986, Série I de 1986-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1986-226849
+  date: '1986-06-02'
+- type: cites
+  target: pt:dre:309961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335899:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:04Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +118,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Às empresas exportadoras que se encontrem nas condições definidas no presente decreto-lei são concedidos, até 31 de Dezembro de 1985, os seguintes benefícios:
+Artigo 1.º - 1 - Às empresas exportadoras que se encontrem nas condições definidas no presente decreto-lei são concedidos, até 31 de Dezembro de 1985, os seguintes benefícios:
 
 a) Tratamento prioritário em matéria de assistência técnica e comercial e de apoio a acções a conceder pelo ICEP - Instituto do Comércio Externo de Portugal em moldes a estabelecer casuisticamente em função dos objectivos e programas de exportação apresentados ou nos termos estabelecidos nos acordos de comercialização;
 
@@ -106,7 +130,7 @@ c) Substituição do parecer favorável casuístico do departamento competente d
 
 3 - É vedada a acumulação pela mesma empresa dos benefícios conferidos pelo presente decreto-lei com outros do mesmo tipo concedidos pelo Estado através de outro instrumento de incentivo ou a qualquer outro título.
 
-###### Art. 2.º - 1 - Os sectores elegíveis para efeitos da atribuição dos benefícios referidos no artigo anterior serão definidos por portaria conjunta dos Ministros do Comércio e Turismo e da tutela.
+Art. 2.º - 1 - Os sectores elegíveis para efeitos da atribuição dos benefícios referidos no artigo anterior serão definidos por portaria conjunta dos Ministros do Comércio e Turismo e da tutela.
 
 2 - Transitoriamente manter-se-ão em vigor os sectores elegíveis para efeitos da Carta de Exportador constantes do anexo I à [Portaria n.º 275/83](https://diariodarepublica.pt/dr/detalhe/portaria/275-1983-309961), de 11 de Março.
 
@@ -114,7 +138,7 @@ c) Substituição do parecer favorável casuístico do departamento competente d
 
 4 - Na análise referida no número anterior serão tomados em consideração, nomeadamente, os seguintes factores: valor acrescentado nacional; grau de transformação e utilização de recursos naturais, nível tecnológico; possibilidade de resposta da indústria à procura mundial.
 
-###### Art. 3.º - 1 - Têm acesso aos benefícios referidos no artigo 1.º as empresas ou agrupamentos de empresas que exportam bens ou serviços que se encontrem nas condições estabelecidas no artigo anterior, desde que possuam os seguintes requisitos:
+Art. 3.º - 1 - Têm acesso aos benefícios referidos no artigo 1.º as empresas ou agrupamentos de empresas que exportam bens ou serviços que se encontrem nas condições estabelecidas no artigo anterior, desde que possuam os seguintes requisitos:
 
 a) Serem empresas que se dediquem à actividade produtora e exportadora, adiante designadas por empresas produtoras-exportadoras, que no ano de 1984 tenham efectuado exportações num valor igual ou superior a 30000 contos;
 
@@ -134,7 +158,7 @@ a) Não possuam as condições básicas de organização e gestão para o desemp
 
 b) Sejam devedoras ao Estado, à Segurança Social e ao Fundo de Desemprego de quaisquer contribuições, impostos ou quotizações ou que o pagamento dos seus débitos não se encontre devidamente assegurado.
 
-###### Art. 4.º - 1 - As empresas interessadas na obtenção dos benefícios previstos no presente decreto-lei apresentarão as suas propostas de candidatura ao ICEP através do preenchimento de formulários fornecidos por este Instituto.
+Art. 4.º - 1 - As empresas interessadas na obtenção dos benefícios previstos no presente decreto-lei apresentarão as suas propostas de candidatura ao ICEP através do preenchimento de formulários fornecidos por este Instituto.
 
 2 - As propostas a que se refere o número anterior deverão ser acompanhadas dos documentos justificativos necessários, sendo os formulários diferentes consoante se trate de empresas que se candidatem pela primeira vez a este tipo de benefícios ou de empresas que tenham beneficiado dos incentivos previstos no [Decreto-Lei n.º 103-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-c-1984-335899).
 
@@ -142,22 +166,22 @@ b) Sejam devedoras ao Estado, à Segurança Social e ao Fundo de Desemprego de q
 
 4 - Cada proposta de concessão será objecto de deliberação por parte do conselho directivo do ICEP e submetida a despacho do Ministro do Comércio e Turismo.
 
-###### Art. 5.º - 1 - As empresas que formalizem a respectiva candidatura aos benefícios previstos no presente decreto-lei até 60 dias após a sua publicação usufruirão dos respectivos benefícios com data reportada a 1 de Janeiro de 1985.
+Art. 5.º - 1 - As empresas que formalizem a respectiva candidatura aos benefícios previstos no presente decreto-lei até 60 dias após a sua publicação usufruirão dos respectivos benefícios com data reportada a 1 de Janeiro de 1985.
 
 2 - As empresas que apresentem o respectivo processo de candidatura fora do prazo estabelecido no número anterior auferirão dos benefícios previstos no presente decreto-lei a partir da data da formalização da candidatura.
 
 3 - O ICEP estabelecerá com os restantes departamentos competentes um esquema transitório para a não interrupção dos benefícios aduaneiros concedidos ao abrigo do [Decreto-Lei n.º 103-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-c-1984-335899), de 30 de Março, aplicável às empresas que se encontrem nas condições referidas no n.º 1.
 
-###### Art. 6.º Os benefícios previstos no presente diploma serão suportados por dotação inscrita no Orçamento do Estado.
+Art. 6.º Os benefícios previstos no presente diploma serão suportados por dotação inscrita no Orçamento do Estado.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Veiga Simão - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 11 de Outubro de 1985.**
+Promulgado em 11 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 15 de Outubro de 1985.**
+Referendado em 15 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

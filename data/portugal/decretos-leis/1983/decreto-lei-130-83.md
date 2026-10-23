@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06200/09090913.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1983-310398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1d58e2f03661223b2513ed6ff8fb117bfb7db35a32074b1ab883944b4bb037f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bac892aa29ce30e62872c9ce3aa6695c51474478115bb9fe5f7b94c02c8b0aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Fundação
+- Fundação AGA KHAN
 relationships:
 - type: amended_by
   target: pt:dre:547031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:547031:por
+  label: "Revogado pelo DEC LEI.27/96.1996.03.30.PCM, DR.IS-A [77] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1996-547031
+  date: '1996-03-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:41Z'
   warnings: []
   errors: []
 ---
@@ -96,35 +104,35 @@ Considerando o interesse manifestado pela Fundação em ser autorizada a prosseg
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Fundação Aga Khan é autorizada a exercer a sua actividade em Portugal.
+Artigo 1.º - 1 - A Fundação Aga Khan é autorizada a exercer a sua actividade em Portugal.
 
 2 - A Fundação, na sua actividade em Portugal, rege-se pelos seus estatutos, que são publicados em anexo, na versão original e na tradução portuguesa, e ainda pelas normas de direito aplicáveis nos termos gerais.
 
 3 - A Fundação Aga Khan instituirá, nos termos dos seus estatutos, um conselho nacional em Portugal, que terá maioria de cidadãos portugueses e a quem competirá, de acordo com o Conselho da Fundação, orientar a actividade, gerir os bens e representar a instituição no nosso país.
 
-###### Art. 2.º A Fundação Aga Khan tem fins culturais, beneficentes, educacionais e desportivos.
+Art. 2.º A Fundação Aga Khan tem fins culturais, beneficentes, educacionais e desportivos.
 
-###### Art. 3.º - 1 - A Fundação Aga Khan é declarada, para todos os efeitos legais, pessoa colectiva de utilidade pública.
+Art. 3.º - 1 - A Fundação Aga Khan é declarada, para todos os efeitos legais, pessoa colectiva de utilidade pública.
 
 2 - São concedidos à Fundação Aga Khan todas as isenções e benefícios, fiscais e outros, de que possam gozar as pessoas colectivas de utilidade pública, ficando a mesma sujeita a todos os deveres impostos a tais pessoas.
 
-###### Art. 4.º A Fundação Aga Khan não fica submetida ao regime das instituições particulares de solidariedade social, sem prejuízo da sua sujeição à fiscalização genérica do Estado e, na parte em que venha a facultar directamente serviços ou prestações de segurança social, à sua acção orientadora nos termos previstos para aquelas instituições.
+Art. 4.º A Fundação Aga Khan não fica submetida ao regime das instituições particulares de solidariedade social, sem prejuízo da sua sujeição à fiscalização genérica do Estado e, na parte em que venha a facultar directamente serviços ou prestações de segurança social, à sua acção orientadora nos termos previstos para aquelas instituições.
 
-###### Art. 5.º - 1 - Salvo o caso de cessação da actividade da Fundação Aga Khan em Portugal, os bens que lhe hajam sido doados ou deixados para afectação à sua actividade no País, ou que provenham de subsídio de pessoa colectiva pública, bem como os que como produto da sua alienação ou do seu rendimento sejam adquiridos, não poderão ser desafectados daquela actividade sem autorização do Governo a conceder pelo Primeiro-Ministro.
+Art. 5.º - 1 - Salvo o caso de cessação da actividade da Fundação Aga Khan em Portugal, os bens que lhe hajam sido doados ou deixados para afectação à sua actividade no País, ou que provenham de subsídio de pessoa colectiva pública, bem como os que como produto da sua alienação ou do seu rendimento sejam adquiridos, não poderão ser desafectados daquela actividade sem autorização do Governo a conceder pelo Primeiro-Ministro.
 
 2 - A cessação da actividade da Fundação em Portugal determina automaticamente a caducidade de quaisquer subsídios que lhe hajam sido concedidos por pessoa colectiva pública, cabendo a esta determinar o destino do produto dos mesmos subsídios.
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia - João José Fraústo da Silva - Luís Eduardo da Silva Barbosa - Francisco António Lucas Pires.
 
-**Promulgado em 22 de Fevereiro de 1983.**
+Promulgado em 22 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Março de 1983.**
+Referendado em 1 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 L'an mil neuf cent soixante-sept et le vingt-quatre janvier.
 

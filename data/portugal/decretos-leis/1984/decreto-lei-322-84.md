@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1984-400048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2862cc15c9d62be1d06eff94b153984fe2f139a6cf67a8d8fc9393b7f87c21e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b5988377b725fc33d2f310797ab2116441f4094002fc3484e7bae0bf1101e43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento das Pescas
+- Ministério do MAR
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:305260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:305260:por
+  label: "Extinto o Gabinete de Estudos e Planeamento das Pescas, criado no n.º 1 do artigo 17.º, pelo DEC LEI.154/92.25.07.1992.MM,\
+    \ DR.IS-A [170]Supl de 25.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1992-305260
+  date: '1992-07-25'
+- type: cites
+  target: pt:dre:366629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380345:por
+  label: Rectificado pela DECL.DD5273.05.11.1984.PCM, DR.IS [278]2ºSupl de 30.11.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-380345
+  date: '1984-11-05'
+- type: repealed_by
+  target: pt:dre:667910:por
+  label: "Revogado pelo DEC LEI.310-A/86.23.09.1986.MAPA, DR.IS [219]Supl de 23.09.1986, em tudo o que contrarie no estabelecido\
+    \ do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-a-1986-667910
+  date: '1986-09-23'
+- type: repealed_by
+  target: pt:dre:222392:por
+  label: "Revogadas as alíneas c) do n.º 4 do artigo 5.º e do n.º 3 do artigo 8.º pelo DEC LEI.348/86.16.10.1986.MOPTC, DR.IS\
+    \ [239] de 16.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/348-1986-222392
+  date: '1986-10-16'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:56Z'
   warnings: []
   errors: []
 ---
@@ -461,24 +499,24 @@ O presente diploma prevalece sobre quaisquer leis especiais que regulem as maté
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - Jacinto José Montalvão de Santos e Silva Marques - João Rosado Correia - Francisco José de Sousa Tavares - Carlos Montez Melancia.
 
-**Promulgado em 13 de Setembro de 1984.**
+Promulgado em 13 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Setembro de 1984.**
+Referendado em 27 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
 (A que se refere o n.º 1 do artigo 26.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23300/30773083.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23300/30773083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23300/30773083.pdf)
 
 MAPA II
 
 (A que se refere o n.º 2 do artigo 26.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23300/30773083.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23300/30773083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23300/30773083.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 202/1982, 1º Suplemento, Série I de 1982-09-01
   number: '202'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2582-(1) a 2582-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20201/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1982-621691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 231bcb56640e2a3ec59c4b81f158df1e2e0602a49a27cc35d647af3c0e9074db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 910291c41c0049a8c5dcb50a6de8c341e0f5a51dc676a5f22510af5205a497f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Energia Elétrica
+- Ministro da Indústria Energia e Exportação
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:448682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448682:por
+  label: Revogado, pelo(a) Decreto-Lei n.º 18-A/89 - Diário da República n.º 10/1989, 1º Suplemento, Série I de 1989-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-a-1989-448682
+  date: '1989-01-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:21Z'
   warnings: []
   errors: []
 ---
@@ -114,23 +155,23 @@ Várias circunstâncias, como o facto de não ter sido expressamente invocado aq
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É da competência do Ministro da Indústria, Energia e Exportação a fixação, em portaria, para o território do continente dos preços de venda da energia eléctrica em alta, média e baixa tensão.
+Artigo 1.º - 1 - É da competência do Ministro da Indústria, Energia e Exportação a fixação, em portaria, para o território do continente dos preços de venda da energia eléctrica em alta, média e baixa tensão.
 
 2 - O preço de venda abrange quer o resultado global da aplicação das fórmulas quer as componentes destas.
 
 3 - Consideram-se abrangidas pelo disposto no presente decreto-lei as tarifas fixadas pela Portaria n.º 1148/81, de 31 de Dezembro.
 
-###### Art. 2.º - 1 - Os vendedores de energia eléctrica, qualquer que seja a sua natureza, não podem estabelecei preços diferentes daqueles que estejam fixados ao abrigo do disposto no artigo 1.º
+Art. 2.º - 1 - Os vendedores de energia eléctrica, qualquer que seja a sua natureza, não podem estabelecei preços diferentes daqueles que estejam fixados ao abrigo do disposto no artigo 1.º
 
 2 - Fica ressalvada a permissão excepcional prevista no n.º 2 do artigo 3.º do presente diploma.
 
-###### Art. 3.º - 1 - Os preços de energia eléctrica ao consumidor final que à data da publicação do presente decreto-lei estejam a ser aplicados em montantes inferiores às tarifas oficialmente fixadas pelo Governo, nos termos dos artigos 1.º e 2.º, serão objecto de actualização, nos termos prescritos nos artigos seguintes.
+Art. 3.º - 1 - Os preços de energia eléctrica ao consumidor final que à data da publicação do presente decreto-lei estejam a ser aplicados em montantes inferiores às tarifas oficialmente fixadas pelo Governo, nos termos dos artigos 1.º e 2.º, serão objecto de actualização, nos termos prescritos nos artigos seguintes.
 
 2 - Os valores resultantes da aplicação dos princípios aqui estabelecidos para a recuperação das tarifas degradadas entrarão em vigor por força do presente decreto-lei, sem prejuízo de os vendedores poderem fixar outros valores mais elevados, com o fim de uma recuperação mais rápida.
 
 3 - A aplicação das tarifas de recuperação aqui previstas para venda de energia eléctrica ao consumidor final não dispensa os vendedores do pagamento de energia eléctrica por si adquirida à EDP, em relação à qual são aplicáveis os preços do tarifário oficialmente aprovado.
 
-###### Art. 4.º Para os consumos domésticos e agrícolas em baixa tensão aplicam-se os seguintes princípios:
+Art. 4.º Para os consumos domésticos e agrícolas em baixa tensão aplicam-se os seguintes princípios:
 
 a) Na data da entrada em vigor do presente decreto-lei, os valores dos coeficientes dos termos de potência e de energia serão aumentados de um valor correspondente a 25% dos valores praticados em 31 de Agosto de 1982;
 
@@ -140,20 +181,20 @@ c) Com início em 1 de Julho de 1983 e com periodicidade semestral os valores do
 
 d) Sempre que, por alteração do tarifário oficial, haja aumentos dos coeficientes dos termos de potência e de energia, tais aumentos acrescerão aos valores resultantes da aplicação do determinado nas alíneas anteriores.
 
-###### Art. 5.º Relativamente aos consumos não contemplados no artigo 4.º aplicam-se os princípios seguintes:
+Art. 5.º Relativamente aos consumos não contemplados no artigo 4.º aplicam-se os princípios seguintes:
 
 a) Na data de entrada em vigor do presente decreto-lei os valores dos coeficientes dos termos de potência e de energia serão acrescidos de metade da diferença entre os valores do tarifário oficial em 31 de Agosto de 1982 e os correspondentes das tarifas que estejam a ser praticadas;
 
 b) Em 1 de Julho de 1983 os valores dos coeficientes dos termos de potência e de energia serão os aprovados pelo Governo e em vigor nessa data.
 
-###### Art. 6.º - 1 - Na aplicação dos aumentos prescritos neste diploma seguir-se-á o determinado na alínea a) do n.º 10.º da Portaria n.º 1148/81, de 31 de Dezembro.
+Art. 6.º - 1 - Na aplicação dos aumentos prescritos neste diploma seguir-se-á o determinado na alínea a) do n.º 10.º da Portaria n.º 1148/81, de 31 de Dezembro.
 
-###### Art. 7.º O presente decreto-lei entra em vigor na data da sua publicação.
+Art. 7.º O presente decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Agosto de 1982.**
+Promulgado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

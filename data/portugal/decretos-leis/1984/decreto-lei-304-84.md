@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/21700/28802885.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1984-399396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89cdeac60257522897cf4e2d4e1471d1f4a5f91408f1cf2c2a88b042dbdde969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d8341b304261f5c7a94504367b1cac7e08336566d340b9962077d9795a118f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Licenciamento
+- Matadouro
 relationships:
 - type: amended_by
   target: pt:dre:275602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:656410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275602:por
+  label: Revogado pelo(a) Decreto-Lei n.º 178/93 - Diário da República n.º 110/1993, Série I-A de 1993-05-12, a partir da
+    data de entrada em vigor da Port prevista no art. 2.º desse diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1993-275602
+  date: '1993-05-12'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:42Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +117,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Objecto, definição e classificação dos matadouros
 
-###### Artigo 1.º O presente diploma define as condições a que deverão obedecer a instalação, funcionamento e licenciamento dos estabelecimentos destinados ao abate dos animais das espécies bovina, ovina, caprina, suína e equina.
+Artigo 1.º O presente diploma define as condições a que deverão obedecer a instalação, funcionamento e licenciamento dos estabelecimentos destinados ao abate dos animais das espécies bovina, ovina, caprina, suína e equina.
 
-###### Art. 2.º Para efeitos do presente diploma, define-se como matadouro o estabelecimento industrial aprovado e licenciado pelas entidades competentes para execução de abates e preparação de carcaças de uma ou várias das espécies bovina, ovina, caprina, suína e equina destinadas ao consumo público ou destinadas à indústria.
+Art. 2.º Para efeitos do presente diploma, define-se como matadouro o estabelecimento industrial aprovado e licenciado pelas entidades competentes para execução de abates e preparação de carcaças de uma ou várias das espécies bovina, ovina, caprina, suína e equina destinadas ao consumo público ou destinadas à indústria.
 
-###### Art. 3.º - 1 - Os matadouros classificam-se pela sua função em:
+Art. 3.º - 1 - Os matadouros classificam-se pela sua função em:
 
 a) Matadouros de serviço público. - Os que se destinam exclusivamente à prestação de serviços a terceiros;
 
@@ -116,7 +133,7 @@ c) Matadouros de serviço misto. - Os que se destinam quer ao serviço das empre
 
 ### CAPÍTULO II — Rede Nacional de Abate
 
-###### Art. 4.º - 1 - A Rede Nacional de Abate (RNA) é o conjunto de matadouros que prioritariamente se destinam a garantir o abastecimento público em carnes verdes pela prestação de serviços a terceiros, mediante a cobrança de taxas.
+Art. 4.º - 1 - A Rede Nacional de Abate (RNA) é o conjunto de matadouros que prioritariamente se destinam a garantir o abastecimento público em carnes verdes pela prestação de serviços a terceiros, mediante a cobrança de taxas.
 
 2 - A integração dos matadouros licenciados na RNA será decidida pela JNPP, tendo em conta:
 
@@ -132,7 +149,7 @@ c) A rentabilização dos investimentos públicos, cooperativos e privados, já 
 
 ## TÍTULO I — Disposições gerais
 
-###### Art. 5.º - 1 - O abate de animais das espécies bovina, ovina, caprina, suína e equina só pode fazer-se em matadouros licenciados para o efeito pela JNPP, pela Direcção-Geral de Pecuária (DGP) e pelo Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares (IAPA), à excepção do abate de animais das espécies suína, ovina e caprina, quando destinado estritamente ao autoconsumo.
+Art. 5.º - 1 - O abate de animais das espécies bovina, ovina, caprina, suína e equina só pode fazer-se em matadouros licenciados para o efeito pela JNPP, pela Direcção-Geral de Pecuária (DGP) e pelo Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares (IAPA), à excepção do abate de animais das espécies suína, ovina e caprina, quando destinado estritamente ao autoconsumo.
 
 2 - As condições técnico-sanitárias a que os matadouros devem satisfazer constam do anexo ao presente diploma.
 
@@ -140,7 +157,7 @@ c) A rentabilização dos investimentos públicos, cooperativos e privados, já 
 
 4 - Os matadouros de serviço privado estão dispensados de observar as prescrições técnicas constantes do anexo relativas às espécies animais não abatidas pela empresa.
 
-###### Art. 6.º - 1 - O licenciamento dos matadouros será solicitado mediante requerimento, em papel selado, dirigido à JNPP, segundo norma a elaborar por este organismo.
+Art. 6.º - 1 - O licenciamento dos matadouros será solicitado mediante requerimento, em papel selado, dirigido à JNPP, segundo norma a elaborar por este organismo.
 
 2 - O requerimento só será deferido se o estabelecimento satisfizer as condições técnicas e sanitárias constantes do anexo.
 
@@ -154,7 +171,7 @@ c) A rentabilização dos investimentos públicos, cooperativos e privados, já 
 
 ## TÍTULO II — Matadores existentes
 
-###### Art. 7.º - 1 - As entidades que possuam ou explorem estabelecimentos já licenciados à data da publicação do presente diploma e destinados ao abate de qualquer das espécies indicadas no n.º 1 do artigo 5.º deverão, no prazo de 60 dias após a publicação do presente diploma, requerer à JNPP a renovação do licenciamento.
+Art. 7.º - 1 - As entidades que possuam ou explorem estabelecimentos já licenciados à data da publicação do presente diploma e destinados ao abate de qualquer das espécies indicadas no n.º 1 do artigo 5.º deverão, no prazo de 60 dias após a publicação do presente diploma, requerer à JNPP a renovação do licenciamento.
 
 2 - Os requerentes juntarão documento comprovativo do anterior licenciamento.
 
@@ -162,7 +179,7 @@ c) A rentabilização dos investimentos públicos, cooperativos e privados, já 
 
 4 - Contra entrega do requerimento e do documento referido no n.º 2, a JNPP passará ao requerente documento comprovativo de o mesmo haver cumprido o disposto nos números anteriores, que servirá de licença provisória até à comunicação referida no n.º 3 do artigo 8.º
 
-###### Artigo 8.º - 1 - No prazo máximo de 1 ano contado da publicação do presente diploma, técnicos dos serviços regionais do Ministério da Agricultura, Florestas e Alimentação ou da DGP, da JNPP e do IAPA efectuarão em conjunto vistorias técnicas a todos os estabelecimentos para os quais foi requerida licença ou a sua renovação e elaborarão os relatórios de vistoria que servirão de base aos despachos a proferir sobre os pedidos respectivos.
+Artigo 8.º - 1 - No prazo máximo de 1 ano contado da publicação do presente diploma, técnicos dos serviços regionais do Ministério da Agricultura, Florestas e Alimentação ou da DGP, da JNPP e do IAPA efectuarão em conjunto vistorias técnicas a todos os estabelecimentos para os quais foi requerida licença ou a sua renovação e elaborarão os relatórios de vistoria que servirão de base aos despachos a proferir sobre os pedidos respectivos.
 
 2 - Os relatórios de vistorias relativos aos estabelecimentos da área de cada direcção regional do Ministério da Agricultura, Florestas e Alimentação serão agregados num mesmo processo, do qual constará um relatório sobre as condições gerais das estruturas de abate existentes na região, com apreciação sumária comprovativa das diversas instalações.
 
@@ -178,7 +195,7 @@ c) Encerramento imediato, quando o estabelecimento não satisfaça as condiçõe
 
 ## TÍTULO III — Licenciamento de novos matadouros e ampliação ou remodelação de matadouros existentes
 
-###### Art. 9.º - 1 - A partir da data da publicação do presente diploma, os promotores de projecto de novos matadouros ou de remodelação ou ampliação de matadouros existentes deverão requerer à JNPP autorização para iniciarem as obras respectivas, devendo o requerimento ser acompanhado de 4 cópias do estudo prévio dos trabalhos a efectuar, sendo uma selada, o qual deverá conter:
+Art. 9.º - 1 - A partir da data da publicação do presente diploma, os promotores de projecto de novos matadouros ou de remodelação ou ampliação de matadouros existentes deverão requerer à JNPP autorização para iniciarem as obras respectivas, devendo o requerimento ser acompanhado de 4 cópias do estudo prévio dos trabalhos a efectuar, sendo uma selada, o qual deverá conter:
 
 a) Implementação do estabelecimento e sua relação com terrenos anexos num raio de 2 km a 3 km, auxiliada por planta à escala de 1:2000 a 1:500, orientada, com indicação de acessos rodoviários e ferroviários existentes e previstos e distâncias às povoações mais próximas, caso não se integre em alguma (recorrer a cópias de plantas dos serviços municipalizados);
 
@@ -200,11 +217,11 @@ b) O estudo prévio satisfaz as condições constantes do anexo, pelo que o requ
 
 3 - Do estudo prévio será devolvido um dos exemplares com certificação de aprovação em todas as peças.
 
-###### Art. 10.º - 1 - Se à data da publicação do presente diploma estiverem em curso obras de construção de novos matadouros ou de ampliação ou de remodelação de matadouros já existentes, em ambos os casos devidamente licenciados, os promotores dessas obras deverão requerer à JNPP a vistoria dos estabelecimentos em causa no prazo de 60 dias, dando cumprimento ao estabelecido no n.º 1 do artigo anterior, sem prejuízo do normal prosseguimento dos trabalhos em curso, os quais, no entanto, deverão ter desde logo em conta as condições constantes do anexo.
+Art. 10.º - 1 - Se à data da publicação do presente diploma estiverem em curso obras de construção de novos matadouros ou de ampliação ou de remodelação de matadouros já existentes, em ambos os casos devidamente licenciados, os promotores dessas obras deverão requerer à JNPP a vistoria dos estabelecimentos em causa no prazo de 60 dias, dando cumprimento ao estabelecido no n.º 1 do artigo anterior, sem prejuízo do normal prosseguimento dos trabalhos em curso, os quais, no entanto, deverão ter desde logo em conta as condições constantes do anexo.
 
 2 - Sempre que as obras em curso não observem as condições do anexo, do relatório da vistoria referida no número anterior deverão constar obrigatoriamente todas as faltas de cumprimento do anexo e ser fixado um prazo para apresentação da reformulação do projecto.
 
-###### Art. 11.º - 1 - A JNPP, logo que recebidos os 4 exemplares do projecto, remeterá à DGP um exemplar e outro ao IAPA.
+Art. 11.º - 1 - A JNPP, logo que recebidos os 4 exemplares do projecto, remeterá à DGP um exemplar e outro ao IAPA.
 
 2 - A DGP e o IAPA deverão emitir o seu parecer no prazo máximo de 30 dias.
 
@@ -212,7 +229,7 @@ b) O estudo prévio satisfaz as condições constantes do anexo, pelo que o requ
 
 4 - Os técnicos da JNPP, da DGP e do IAPA poderão visitar o local da obra prevista quando entenderem que tal é necessário para uma conveniente apreciação do processo.
 
-###### Art. 12.º - 1 - No prazo máximo de 60 dias após a apresentação do projecto ou da sua reformulação, a JNPP comunicará ao requerente, por carta registada, uma das seguintes decisões:
+Art. 12.º - 1 - No prazo máximo de 60 dias após a apresentação do projecto ou da sua reformulação, a JNPP comunicará ao requerente, por carta registada, uma das seguintes decisões:
 
 a) O projecto não satisfaz as condições constantes do anexo (indicando quais e porquê), pelo que deverá ser reformulado e sujeito a nova apreciação;
 
@@ -220,13 +237,13 @@ b) O projecto satisfaz as condições constantes do anexo, pelo que, desde que o
 
 2 - Do projecto será devolvido um exemplar, com certificação de aprovação em todas as peças.
 
-###### Art. 13.º Caso o estudo prévio ou o projecto não satisfaçam as condições constantes do anexo em aspectos pontuais de fácil e inequívoca identificação, esses documentos poderão eventualmente ser aprovados sob condições, expressamente mencionadas, a observar respectivamente na elaboração do projecto e execução da obra.
+Art. 13.º Caso o estudo prévio ou o projecto não satisfaçam as condições constantes do anexo em aspectos pontuais de fácil e inequívoca identificação, esses documentos poderão eventualmente ser aprovados sob condições, expressamente mencionadas, a observar respectivamente na elaboração do projecto e execução da obra.
 
-###### Art. 14.º - 1 - A entrega incompleta ou incorrecta dos elementos que devem constar do estudo prévio ou projecto dará lugar ao pedido dos elementos em falta, por carta registada a enviar ao requerente, interrompendo os prazos referidos nos artigos 9.º e 11.º
+Art. 14.º - 1 - A entrega incompleta ou incorrecta dos elementos que devem constar do estudo prévio ou projecto dará lugar ao pedido dos elementos em falta, por carta registada a enviar ao requerente, interrompendo os prazos referidos nos artigos 9.º e 11.º
 
 2 - O pedido dos elementos em falta será feito de uma só vez.
 
-###### Art. 15.º - 1 - Concluída a obra, o requerente dará do facto conhecimento à JNPP por carta registada, a fim de que, no prazo de 20 dias, uma equipa de técnicos da DGP, do IAPA ou das direcções regionais do Ministério da Agricultura, Florestas e Alimentação e da JNPP efectue uma vistoria técnica destinada a verificar se o estabelecimento está conforme com o projecto.
+Art. 15.º - 1 - Concluída a obra, o requerente dará do facto conhecimento à JNPP por carta registada, a fim de que, no prazo de 20 dias, uma equipa de técnicos da DGP, do IAPA ou das direcções regionais do Ministério da Agricultura, Florestas e Alimentação e da JNPP efectue uma vistoria técnica destinada a verificar se o estabelecimento está conforme com o projecto.
 
 2 - No prazo máximo de 20 dias após a realização da vistoria técnica, a JNPP comunicará ao requerente, por carta registada, uma das seguintes decisões, consoante o relatório da vistoria conclua que o estabelecimento construído, remodelado ou ampliado está ou não conforme o projecto:
 
@@ -236,39 +253,39 @@ b) O requerimento foi indeferido, pelo que o estabelecimento não é autorizado 
 
 3 - Caso se verifique o referido na alínea b) do número anterior, o interessado, após ter realizado as alterações ou melhorias necessárias à perfeita execução do projecto anteriormente aprovado nos termos do artigo 12.º, poderá requerer à JNPP a realização de nova vistoria, repetindo-se o processo conforme estabelecido nos números anteriores.
 
-###### Art. 16.º Aquando da comunicação ao requerente das decisões relativas ao estudo prévio, ao projecto ou à vistoria técnica, complementarmente à indicação do cumprimento ou não das condições constantes do anexo, poderá ser feita, com carácter meramente orientador e informativo, uma apreciação da concepção geral do estabelecimento, seu dimensionamento e soluções técnicas adoptadas, segurança do pessoal e das instalações, etc.
+Art. 16.º Aquando da comunicação ao requerente das decisões relativas ao estudo prévio, ao projecto ou à vistoria técnica, complementarmente à indicação do cumprimento ou não das condições constantes do anexo, poderá ser feita, com carácter meramente orientador e informativo, uma apreciação da concepção geral do estabelecimento, seu dimensionamento e soluções técnicas adoptadas, segurança do pessoal e das instalações, etc.
 
 ### CAPÍTULO IV — Da transmissão dos estabelecimentos de abate
 
-###### Art. 17.º - 1 - A transmissão, por qualquer título, da propriedade ou fruição de estabelecimento de abate, de harmonia com as disposições legais em vigor, será averbada no respectivo processo, a requerimento do interessado, sem prejuízo do disposto em legislação especial.
+Art. 17.º - 1 - A transmissão, por qualquer título, da propriedade ou fruição de estabelecimento de abate, de harmonia com as disposições legais em vigor, será averbada no respectivo processo, a requerimento do interessado, sem prejuízo do disposto em legislação especial.
 
 2 - O requerimento referido no número anterior deverá ser dirigido à JNPP instruído com o documento probatório da transmissão, averbando-se esta imediatamente, e do mesmo dado conhecimento à DPG e ao IAPA.
 
 ### CAPÍTULO V — Das sanções e medidas cautelares
 
-###### Art. 18.º - 1 - Os estabelecimentos onde se abatam ou tenham abatido reses das espécies bovina, ovina, caprina, suína e equina destinadas ao consumo público sem estarem licenciados nos termos deste diploma serão imediatamente encerrados pela Direcção-Geral da Inspecção Económica, até obterem a respectiva licença.
+Art. 18.º - 1 - Os estabelecimentos onde se abatam ou tenham abatido reses das espécies bovina, ovina, caprina, suína e equina destinadas ao consumo público sem estarem licenciados nos termos deste diploma serão imediatamente encerrados pela Direcção-Geral da Inspecção Económica, até obterem a respectiva licença.
 
 2 - O estabelecido no número anterior não prejudica o disposto nos artigos 17.º, 18.º e 22.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
 ## TÍTULO IV — Disposições gerais
 
-###### Art. 19.º É aplicável aos processos pendentes o preceituado neste diploma, sem prejuízo do aproveitamento dos actos processuais já praticados.
+Art. 19.º É aplicável aos processos pendentes o preceituado neste diploma, sem prejuízo do aproveitamento dos actos processuais já praticados.
 
-###### Art. 20.º É revogado na parte respeitante aos matadouros o artigo 5.º do [Decreto-Lei n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1978-656410), de 7 de Abril.
+Art. 20.º É revogado na parte respeitante aos matadouros o artigo 5.º do [Decreto-Lei n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1978-656410), de 7 de Abril.
 
-###### Art. 21.º Este diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
+Art. 21.º Este diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto - Francisco José de Sousa Tavares.
 
-**Promulgado em 3 de Agosto de 1984.**
+Promulgado em 3 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Agosto de 1984.**
+Referendado em 7 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO — Condições técnicas e sanitárias a que devem satisfazer os matadouros
 
@@ -514,4 +531,4 @@ c) Nos acessos à triparia, subprodutos, vestiários e sanitários do pessoal de
 
 d) As disposições tomadas deverão ter em atenção os regulamentos e recomendações em vigor no que respeita às doenças profissionais e acidentes de trabalho.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.

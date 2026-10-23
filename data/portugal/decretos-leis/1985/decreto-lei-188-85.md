@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 130/1985, 1º Suplemento, Série I de 1985-06-07
   number: '130'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1524-(4) a 1524-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/13001/00040007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1985-176716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17462a5ea41eaf5735bb5a54878db4d5ee7fd7ef641b2e554639d7853ac0ce48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b07b370b1731977edfdc599414e53888f18cd9d57d716eb34636815c7f7903d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Importação
+- Importação
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221748:por
+  label: "Alterada a pauta dos Direitos de importação, aprovada pelo Dec Lei 456-A/83, de 28-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.308/86.23.09.1986.MF, DR.IS [219] de 23.09.1986\086\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1986-221748
+  date: '1986-09-23'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:143303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385404:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:168618:por
+  label: Rectificado pela DECL.DD5087.27.08.1985.PCM, DR.IS [225]3ºSupl de 30.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-168618
+  date: '1985-08-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:52Z'
   warnings: []
   errors: []
 ---
@@ -102,37 +151,37 @@ No uso da autorização conferida pela alínea b) do artigo 30.º da [Lei n.º 2
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Na Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 456-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-a-1983-302362), de 28 de Dezembro, e alterada sucessivamente pelos Decretos-Leis n.os [131/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1984-385237), de 30 de Abril, [196/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1984-143303), de 11 de Junho, [216/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1984-385404), de 3 de Julho, e [403/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1984-220497), de 31 de Dezembro, são criadas as notas às posições ou subposições pautais indicadas no anexo I ao presente diploma.
+Artigo 1.º - 1 - Na Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 456-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-a-1983-302362), de 28 de Dezembro, e alterada sucessivamente pelos Decretos-Leis n.os [131/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1984-385237), de 30 de Abril, [196/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1984-143303), de 11 de Junho, [216/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1984-385404), de 3 de Julho, e [403/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1984-220497), de 31 de Dezembro, são criadas as notas às posições ou subposições pautais indicadas no anexo I ao presente diploma.
 
 2 - A taxa da pauta mínima da subposição pautal 38.19 Q passa a 20% ad valorem.
 
 3 - Na nota (3) no final do capítulo 38 é eliminada a expressão «Desincrustantes para caldeiras».
 
-###### Art. 2.º Os pesos para equilibrar rodas de aplicação exclusiva nos veículos das posições pautais 87.01 a 87.03 passam a classificar-se pela posição pautal 87.06.
+Art. 2.º Os pesos para equilibrar rodas de aplicação exclusiva nos veículos das posições pautais 87.01 a 87.03 passam a classificar-se pela posição pautal 87.06.
 
-###### Art. 3.º - 1 - Para os produtos enumerados no anexo II ao presente diploma, com excepção dos referidos no n.º 2 deste artigo, a taxa de 20% ad valorem passa a constituir o novo direito de base, no âmbito das relações preferenciais com a CEE, a EFTA e a Espanha, mesmo quando implicar redução do nível de tributação.
+Art. 3.º - 1 - Para os produtos enumerados no anexo II ao presente diploma, com excepção dos referidos no n.º 2 deste artigo, a taxa de 20% ad valorem passa a constituir o novo direito de base, no âmbito das relações preferenciais com a CEE, a EFTA e a Espanha, mesmo quando implicar redução do nível de tributação.
 
 2 - O direito de base é de 16% para as subposições pautais 56.01 ex A. e ex 70.06, de 15% para as subposições pautais 84.15 C. ex I. e 84.15 C. ex II. e de 10% para as subposições pautais 48.07 ex D., 59.03 ex B. - flocados, ex 59.08, ex 59.12 e ex 70.13.
 
-###### Art. 4.º Os direitos de base definidos no artigo anterior serão reduzidos de acordo com o calendário de desarmamento fixado no Acto de Adesão de Portugal à CEE, não havendo qualquer redução à data da reintrodução.
+Art. 4.º Os direitos de base definidos no artigo anterior serão reduzidos de acordo com o calendário de desarmamento fixado no Acto de Adesão de Portugal à CEE, não havendo qualquer redução à data da reintrodução.
 
-###### Art. 5.º Os produtos incluídos no anexo II não podem, independentemente da sua origem, estar sujeitos ao regime de sobretaxa e de contingentamento à importação.
+Art. 5.º Os produtos incluídos no anexo II não podem, independentemente da sua origem, estar sujeitos ao regime de sobretaxa e de contingentamento à importação.
 
-###### Art. 6.º É derrogado o disposto no artigo 1.º do [Decreto-Lei n.º 15/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1983-307813), de 21 de Janeiro, relativamente aos produtos incluídos no 38.19 Q., 38.19 ex X., 85.15 A. I. ex b), 85.15 A. II. ex b), 85.15 A. III. b) 2. ex aa), 90.28 A. II. ex b) e 90.28 B. ex II.
+Art. 6.º É derrogado o disposto no artigo 1.º do [Decreto-Lei n.º 15/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1983-307813), de 21 de Janeiro, relativamente aos produtos incluídos no 38.19 Q., 38.19 ex X., 85.15 A. I. ex b), 85.15 A. II. ex b), 85.15 A. III. b) 2. ex aa), 90.28 A. II. ex b) e 90.28 B. ex II.
 
-###### Art. 7.º O presente decreto-lei produz efeitos desde 4 de Junho de 1985.
+Art. 7.º O presente decreto-lei produz efeitos desde 4 de Junho de 1985.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Promulgado em 5 de Junho de 1985.**
+Promulgado em 5 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I
 
@@ -250,4 +299,4 @@ B) Os aparelhos e instrumentos de controle e regulação aplicáveis nos process
 
 C) Os reguladores ficam sujeitos à taxa de 20% ad valorem na pauta mínima.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/13001/00040007.pdf))](https://files.diariodarepublica.pt/1s/1985/06/13001/00040007.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/13001/00040007.pdf)

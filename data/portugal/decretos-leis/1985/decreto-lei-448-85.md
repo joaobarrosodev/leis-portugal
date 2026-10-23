@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1985-177871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e2e1979dcf116496060cef1ef7d50bf521e7a25bdfbb94f7ee97ace710db00c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fee82f79da71a50615a6984255adc1a50a201be8e49f74edecbbb493c6ec636d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Indemnização
+- Junta Nacional dos Produtos Pecuários
+- Matadouro
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:383992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:18Z'
   warnings: []
   errors: []
 ---
@@ -97,28 +111,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 169/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1984-383992), de 23 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 169/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1984-383992), de 23 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 5.º As indemnizações a atribuir nos termos deste diploma serão suportadas por receitas próprias da Junta Nacional dos Produtos Pecuários e pagas por depósito a efectuar na Caixa Geral de Depósitos, Crédito e Previdência à ordem das respectivas câmaras ou por meio de cheques à ordem dos presidentes das câmaras, contra entrega de documentos de quitação.
+Art. 5.º As indemnizações a atribuir nos termos deste diploma serão suportadas por receitas próprias da Junta Nacional dos Produtos Pecuários e pagas por depósito a efectuar na Caixa Geral de Depósitos, Crédito e Previdência à ordem das respectivas câmaras ou por meio de cheques à ordem dos presidentes das câmaras, contra entrega de documentos de quitação.
 
-###### Art. 2.º Os anexos ao [Decreto-Lei n.º 169/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1984-383992), de 23 de Maio, passam a ter a redacção dos mapas anexos a este diploma.
+Art. 2.º Os anexos ao [Decreto-Lei n.º 169/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1984-383992), de 23 de Maio, passam a ter a redacção dos mapas anexos a este diploma.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24600/35393542.pdf)

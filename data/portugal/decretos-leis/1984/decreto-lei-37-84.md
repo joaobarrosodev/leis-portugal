@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1984-660945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:00:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc830e7b12c0fe61c987bc46c4674792b7bd3c9ba2fd04094b0906ae812f479d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5923f44a61751f1285ea84ad766eb1052f104a0c46ab8b370cc3bca9ec921be3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:00:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- EDP
+- Regime Geral da Segurança Social
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:00:41Z'
   warnings: []
   errors: []
 ---
@@ -98,28 +118,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É obrigatória a inscrição no regime geral da segurança social dos trabalhadores integrados nos quadros da Electricidade de Portugal (EDP), E. P., oriundos das autarquias locais, serviços municipalizados ou federações de municípios, que por tal facto ficam abrangidos pelos Serviços Médico-Sociais.
+Artigo 1.º - 1 - É obrigatória a inscrição no regime geral da segurança social dos trabalhadores integrados nos quadros da Electricidade de Portugal (EDP), E. P., oriundos das autarquias locais, serviços municipalizados ou federações de municípios, que por tal facto ficam abrangidos pelos Serviços Médico-Sociais.
 
 2 - Com a integração passam os trabalhadores a beneficiar do sistema complementar de segurança social, bem como de assistência médica e medicamentosa, consignado no estatuto unificado de pessoal da EDP.
 
 3 - Por força do disposto no n.º 1, não pode para o trabalhador integrado resultar tratamento menos favorável do que aquele que resultaria da aplicação do Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, nem para os seus herdeiros hábeis, do que aquele que resultaria da aplicação do Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março.
 
-###### Art. 2.º A EDP suportará, nos termos previstos no seu estatuto unificado de pessoal, as diferenças que se verifiquem em consequência do disposto no n.º 3 do artigo anterior.
+Art. 2.º A EDP suportará, nos termos previstos no seu estatuto unificado de pessoal, as diferenças que se verifiquem em consequência do disposto no n.º 3 do artigo anterior.
 
-###### Art. 3.º - 1 - A Caixa Geral de Aposentações e o Montepio dos Servidores do Estado são responsáveis pelos encargos correspondentes às pensões de aposentação e sobrevivência devidas aos trabalhadores abrangidos pelo presente diploma e seus herdeiros hábeis pelo tempo em que o trabalhador foi subscritor daquelas instituições.
+Art. 3.º - 1 - A Caixa Geral de Aposentações e o Montepio dos Servidores do Estado são responsáveis pelos encargos correspondentes às pensões de aposentação e sobrevivência devidas aos trabalhadores abrangidos pelo presente diploma e seus herdeiros hábeis pelo tempo em que o trabalhador foi subscritor daquelas instituições.
 
 2 - O cálculo da pensão será efectuado nos termos da legislação aplicável, tomando-se como base de cálculo o vencimento que o trabalhador auferiria à data da aposentação, caso não se tivesse verificado a integração na Electricidade de Portugal (EPD), E. P.
 
-###### Art. 4.º Os valores determinados nos termos do artigo anterior serão pela Caixa Geral de Aposentações e pelo Montepio dos Servidores do Estado transferidos para o Centro Nacional de Pensões, que assumirá a totalidade do encargo com o pagamento das pensões devidas aos trabalhadores ou aos seus herdeiros hábeis.
+Art. 4.º Os valores determinados nos termos do artigo anterior serão pela Caixa Geral de Aposentações e pelo Montepio dos Servidores do Estado transferidos para o Centro Nacional de Pensões, que assumirá a totalidade do encargo com o pagamento das pensões devidas aos trabalhadores ou aos seus herdeiros hábeis.
 
 Visto e aprovado em Conselho de Ministros de 12 de Janeiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - José Veiga Simão.
 
-**Promulgado em 18 de Janeiro de 1984.**
+Promulgado em 18 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Janeiro de 1984.**
+Referendado em 19 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

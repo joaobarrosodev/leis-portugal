@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1983-308280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4af67d5ad3fafbef1b2d79143b93d06d8941198b9dc5bfc805854c16e33481c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6282a568f9762b6c1f08805b0417aaabb1b5e583f6b3f65bc4062d07aa28773f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CP
+- Saneamento Económico e Financeiro
+relationships:
+- type: cites
+  target: pt:dre:240850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684579:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:32Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +119,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O regime de exploração do transporte ferroviário contido no [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março, será aplicado à CP - Caminhos de Ferro Portugueses, E. P., com as adaptações inerentes à natureza pública da empresa e aos princípios e medidas estabelecidos neste diploma.
+Artigo 1.º O regime de exploração do transporte ferroviário contido no [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março, será aplicado à CP - Caminhos de Ferro Portugueses, E. P., com as adaptações inerentes à natureza pública da empresa e aos princípios e medidas estabelecidos neste diploma.
 
-###### Art. 2.º - 1 - A CP - Caminhos de Ferro Portugueses, E. P., assume a responsabilidade exclusiva por todos os investimentos ferroviários de transporte público.
+Art. 2.º - 1 - A CP - Caminhos de Ferro Portugueses, E. P., assume a responsabilidade exclusiva por todos os investimentos ferroviários de transporte público.
 
 2 - Em casos excepcionais, o Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes poderão propor a concessão do aval do Estado em empréstimos ou a associação de outras entidades públicas nos investimentos.
 
@@ -127,17 +137,17 @@ d) Segurança.
 
 4 - A CP fica isenta de qualquer obrigação de remunerar os capitais aplicados na empresa.
 
-###### Art. 3.º - 1 - A CP - Caminhos de Ferro Portugueses, E. P., fica sujeita apenas às obrigações de serviço público de transporte de exploração e de prática de tarifas sociais que tenham contrapartida económica.
+Art. 3.º - 1 - A CP - Caminhos de Ferro Portugueses, E. P., fica sujeita apenas às obrigações de serviço público de transporte de exploração e de prática de tarifas sociais que tenham contrapartida económica.
 
 2 - O Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes definirão as obrigações de serviço público com contrapartida financeira sob a forma de indemnizações compensatórias.
 
 3 - A concessão de transportes gratuitos ou bonificados para passageiros ou mercadorias não incluídos no número anterior será regulamentada por contrato a celebrar entre a CP e as entidades patrocinadoras do transporte.
 
-###### Art. 4.º - 1 - O encerramento de linhas ou estações previsto nos artigos 6.º e 7.º do [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março, só se pode verificar desde que estejam criadas alternativas equivalentes de transporte ou se demonstre a inexistência de interesses sociais relevantes a salvaguardar.
+Art. 4.º - 1 - O encerramento de linhas ou estações previsto nos artigos 6.º e 7.º do [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março, só se pode verificar desde que estejam criadas alternativas equivalentes de transporte ou se demonstre a inexistência de interesses sociais relevantes a salvaguardar.
 
 2 - Nos casos previstos no número anterior, a CP pode negociar a concessão de exploração de linhas ou troços de linhas a entidades públicas, nomeadamente municípios, e, bem assim, condicionar a exploração à atribuição de subsídios que concorram para a cobertura dos custos directos.
 
-###### Art. 5.º - 1 - As dívidas da CP - Caminhos de Ferro Portugueses, E. P., ao Tesouro, ao Fundo Especial de Transportes Terrestres, à Previdência, ao Fundo de Desemprego, à banca e aos restantes credores do sector público são consolidadas, sendo garantido um prazo de amortização superior a 10 anos.
+Art. 5.º - 1 - As dívidas da CP - Caminhos de Ferro Portugueses, E. P., ao Tesouro, ao Fundo Especial de Transportes Terrestres, à Previdência, ao Fundo de Desemprego, à banca e aos restantes credores do sector público são consolidadas, sendo garantido um prazo de amortização superior a 10 anos.
 
 2 - As importâncias contabilizadas pela empresa a débito do Estado são anuladas em relação às infra-estruturas de longa duração e aos subsídios e indemnizações compensatórias não atribuídos.
 
@@ -145,11 +155,11 @@ d) Segurança.
 
 4 - Os encargos com as amortizações e juros das dívidas consolidadas serão cobertos através de dotações e subsídios, desde que a empresa tenha cumprido, em relação ao ano anterior, as metas de viabilidade económica definidas.
 
-###### Art. 6.º - 1 - A CP - Caminhos de Ferro Portugueses, E. P., deverá manter actualizado o cadastro valorizado do património, incluindo os bens de domínio público, atendendo-se ao cálculo de reavaliação, ao valor real dos bens e à sua vida útil previsível.
+Art. 6.º - 1 - A CP - Caminhos de Ferro Portugueses, E. P., deverá manter actualizado o cadastro valorizado do património, incluindo os bens de domínio público, atendendo-se ao cálculo de reavaliação, ao valor real dos bens e à sua vida útil previsível.
 
 2 - A CP deverá apresentar ao Ministro de Estado e das Finanças e do Plano e ao Ministro da Habitação, Obras Públicas e Transportes, no prazo de 90 dias, um cadastro valorizado do património que seja susceptível de alienação imediata e, até 31 de Dezembro de 1983, um cadastro valorizado de todo o património, incluindo os bens de domínio público, com referência à utilidade ou necessidade dos bens para a realização dos objectivos da empresa.
 
-###### Art. 7.º - 1 - A CP - Caminhos de Ferro Portugueses, E. P., deve apresentar, no prazo de 90 dias, uma proposta de acordo de saneamento económico e financeiro que, baseada no regime definido neste diploma, contemple os seguintes princípios:
+Art. 7.º - 1 - A CP - Caminhos de Ferro Portugueses, E. P., deve apresentar, no prazo de 90 dias, uma proposta de acordo de saneamento económico e financeiro que, baseada no regime definido neste diploma, contemple os seguintes princípios:
 
 a) Estabelecimento de margens positivas e crescentes de autofinanciamento;
 
@@ -183,26 +193,26 @@ b) Atribuição da verba de 2 milhões de contos, quer em 1983 quer em 1984, com
 
 c) Realização de um mínimo de 2 milhões de contos, quer em 1983 quer em 1984, a título de dotação de capital para saneamento financeiro.
 
-###### Art. 8.º - 1 - No caso de trabalhadores excedentes, o Ministério do Trabalho poderá atribuir um subsídio anual para a manutenção de postos de trabalho excedentes.
+Art. 8.º - 1 - No caso de trabalhadores excedentes, o Ministério do Trabalho poderá atribuir um subsídio anual para a manutenção de postos de trabalho excedentes.
 
 2 - No caso previsto no número anterior, os Ministros da Habitação, Obras Públicas e Transportes e do Trabalho determinarão, por despacho, a não aplicação, total ou parcial, das cláusulas dos instrumentos de regulamentação colectiva de trabalho e o respectivo regime sucedâneo.
 
 3 - Poderão ainda ser aplicadas à empresa as medidas previstas no [Decreto-Lei n.º 353-E/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-e-1977-240850) e demais legislação aplicável relativamente a empresas em situação económica difícil.
 
-###### Art. 9.º - 1 - O Ministro da Habitação, Obras Públicas e Transportes apresentará, no prazo de 180 dias, proposta de alteração do regime fiscal dos transportes terrestres no que concerne, nomeadamente, aos impostos ferroviários de camionagem e de compensação, por forma a optimizar a harmonização das condições de concorrência entre os diferentes meios de transporte.
+Art. 9.º - 1 - O Ministro da Habitação, Obras Públicas e Transportes apresentará, no prazo de 180 dias, proposta de alteração do regime fiscal dos transportes terrestres no que concerne, nomeadamente, aos impostos ferroviários de camionagem e de compensação, por forma a optimizar a harmonização das condições de concorrência entre os diferentes meios de transporte.
 
 2 - No prazo de 90 dias deverá ser igualmente alterado o estatuto da CP - Caminhos de Ferro Portugueses, E. P., por forma a adaptar a orgânica da empresa aos objectivos económicos e funcionais servidos por uma gestão assente fundamentalmente em critérios empresariais.
 
-###### Art. 10.º O Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes adoptarão as medidas extraordinárias e transitórias necessárias à adequação destes princípios com a disciplina orçamental e com as necessidades da empresa no ano de 1983.
+Art. 10.º O Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes adoptarão as medidas extraordinárias e transitórias necessárias à adequação destes princípios com a disciplina orçamental e com as necessidades da empresa no ano de 1983.
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Alberto Ferrero Morales - Luís Eduardo da Silva Barbosa - Ricardo Manuel Simões Bayão Horta - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 21 de Janeiro de 1983.**
+Promulgado em 21 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

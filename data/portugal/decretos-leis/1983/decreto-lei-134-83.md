@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06500/09890993.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1983-310428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c111f4336409b156a6b10d0a4b1666d6ada5121dda0c7c9daec088162015b054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c335580a7d603128fc6de34549c90a9d2f49d4c1fa7f9a460f41929758c9fd94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto de Turismo
+- Regulamento do Imposto de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443102:por
+  label: "Alterados os arts. 1º, 18º e 36º do Regulamento, aprovado pelo presente diploma, pelo DEC LEI.420/83.30.11.1983.PCM,\
+    \ DR.IS [276] de 30.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1983-443102
+  date: '1983-11-30'
+- type: amended_by
+  target: pt:dre:605547:por
+  label: "Abolido o imposto de turismo, regulamentado pelo presente diploma, pelo DEC LEI.394-B/84.1984.12.26.MFP, DR.IS [297]Supl,\
+    \ a partir da data da entrada em vigor do Código do IVA aprovado pelo referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-b-1984-605547
+  date: '1984-12-26'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675061:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:326277:por
+  label: Rectificado pela DECL.DD5752.30.04.1983.PCM, DR.IS [99-Supl] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326277
+  date: '1983-04-30'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:44Z'
   warnings: []
   errors: []
 ---
@@ -102,35 +153,35 @@ Assim:
 
 Em execução da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Imposto de Turismo, que faz parte integrante do presente decreto-lei.
+Artigo 1.º É aprovado o Regulamento do Imposto de Turismo, que faz parte integrante do presente decreto-lei.
 
-###### Art. 2.º As disposições do presente diploma poderão ter aplicação às Regiões Autónomas dos Açores e da Madeira mediante decretos legislativos regionais.
+Art. 2.º As disposições do presente diploma poderão ter aplicação às Regiões Autónomas dos Açores e da Madeira mediante decretos legislativos regionais.
 
-###### Art. 3.º O Governo, pelo departamento competente, providenciará no sentido de o imposto de turismo ser englobado na formação dos preços dos serviços não sujeitos aos regimes de preços livres ou declarados.
+Art. 3.º O Governo, pelo departamento competente, providenciará no sentido de o imposto de turismo ser englobado na formação dos preços dos serviços não sujeitos aos regimes de preços livres ou declarados.
 
-###### Art. 4.º Por infracções ao disposto no Regulamento anexo ao presente decreto-lei cometidas até 30 de Junho de 1983 só poderão ser levantados autos de notícia com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
+Art. 4.º Por infracções ao disposto no Regulamento anexo ao presente decreto-lei cometidas até 30 de Junho de 1983 só poderão ser levantados autos de notícia com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
 
-###### Art. 5.º É revogado o [Decreto-Lei n.º 279/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1980-470813), de 14 de Agosto.
+Art. 5.º É revogado o [Decreto-Lei n.º 279/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1980-470813), de 14 de Agosto.
 
-###### Art. 6.º O presente diploma entrará em vigor no dia 1 do mês imediato ao da sua publicação.
+Art. 6.º O presente diploma entrará em vigor no dia 1 do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia.
 
-**Promulgado em 5 de Março de 1983.**
+Promulgado em 5 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Março de 1983.**
+Referendado em 10 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 REGULAMENTO DO IMPOSTO DE TURISMO
 
 ### CAPÍTULO I — Incidência
 
-###### Artigo 1.º - 1 - Estão sujeitos ao imposto de turismo os serviços prestados na área dos municípios integrados em regiões de turismo e, bem assim, nas zonas de turismo relativamente às actividades exercidas:
+Artigo 1.º - 1 - Estão sujeitos ao imposto de turismo os serviços prestados na área dos municípios integrados em regiões de turismo e, bem assim, nas zonas de turismo relativamente às actividades exercidas:
 
 a) Em estabelecimentos hoteleiros e similares, independentemente da entidade competente para o seu licenciamento, incluindo os aldeamentos e apartamentos turísticos, e em conjuntos turísticos;
 
@@ -144,9 +195,9 @@ d) De aluguer de veículos automóveis com ou sem condutor, nos termos do Decret
 
 3 - Para efeito do disposto na alínea b) do n.º 1, são considerados meios complementares de alojamento, além dos parques de campismo, quaisquer outras formas de alojamento não hoteleiro em que a permanência dos hóspedes não exceda 3 meses e cuja exploração esteja sujeita a contribuição industrial.
 
-###### Art. 2.º Ficam sujeitas ao imposto as pessoas, singulares ou colectivas, nacionais ou estrangeiras, que prestem os serviços referidos no artigo anterior.
+Art. 2.º Ficam sujeitas ao imposto as pessoas, singulares ou colectivas, nacionais ou estrangeiras, que prestem os serviços referidos no artigo anterior.
 
-###### Art. 3.º O imposto é devido no momento em que for prestado o serviço, excepto nos seguintes casos:
+Art. 3.º O imposto é devido no momento em que for prestado o serviço, excepto nos seguintes casos:
 
 a) Nos serviços de prestação continuada, cuja contraprestação se verifique por pagamentos periódicos ou sucessivos - no momento em que estes se tornem exigíveis;
 
@@ -158,11 +209,11 @@ d) Nos serviços prestados em estabelecimentos hoteleiros cuja reserva e pagamen
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 4.º Estão isentos do imposto de turismo os serviços prestados por contribuintes sujeitos a contribuição industrial pelo sistema do grupo C.
+Art. 4.º Estão isentos do imposto de turismo os serviços prestados por contribuintes sujeitos a contribuição industrial pelo sistema do grupo C.
 
 ### CAPÍTULO III — Determinação da matéria colectável
 
-###### Art. 5.º - 1 - O valor tributável é constituído pelo preço dos serviços prestados, líquido de impostos e taxas devidos ao Estado ou aos seus organismos, ainda que personalizados, e às autarquias locais e suas associações e federações, pela prestação dos mesmos serviços.
+Art. 5.º - 1 - O valor tributável é constituído pelo preço dos serviços prestados, líquido de impostos e taxas devidos ao Estado ou aos seus organismos, ainda que personalizados, e às autarquias locais e suas associações e federações, pela prestação dos mesmos serviços.
 
 2 - Na determinação do valor tributável nos casos previstos na alínea c) do n.º 1 do artigo 1.º serão deduzidas ao preço dos respectivos bilhetes as despesas por que seja devido imposto de turismo.
 
@@ -170,27 +221,27 @@ d) Nos serviços prestados em estabelecimentos hoteleiros cuja reserva e pagamen
 
 4 - O valor tributável relativo a serviços prestados gratuitamente é o preço normalmente praticado pelo prestador dos serviços.
 
-###### Art. 6.º - 1 - Decorridos os prazos estabelecidos para a entrega, nos cofres do Estado, do imposto que se mostrar devido e verificando-se que este não foi entregue em consequência do não apuramento da matéria colectável, a repartição de finanças procederá a sua determinação com base em informação dos serviços de fiscalização e em quaisquer outros elementos de que disponha.
+Art. 6.º - 1 - Decorridos os prazos estabelecidos para a entrega, nos cofres do Estado, do imposto que se mostrar devido e verificando-se que este não foi entregue em consequência do não apuramento da matéria colectável, a repartição de finanças procederá a sua determinação com base em informação dos serviços de fiscalização e em quaisquer outros elementos de que disponha.
 
 2 - Da matéria colectável determinada nos termos do número anterior será o contribuinte notificado para efeitos do disposto no artigo 8.º
 
-###### Art. 7.º - 1 - Quando, face aos elementos considerados para efeitos da contribuição industrial, se verificar que o valor tributável que serviu de base à liquidação do imposto é inferior ao apurado, será este valor determinado pelo chefe da repartição de finanças com base nos elementos de que disponha.
+Art. 7.º - 1 - Quando, face aos elementos considerados para efeitos da contribuição industrial, se verificar que o valor tributável que serviu de base à liquidação do imposto é inferior ao apurado, será este valor determinado pelo chefe da repartição de finanças com base nos elementos de que disponha.
 
 2 - A determinação do valor tributável nos termos do número anterior poderá ser feita em qualquer altura, mas sempre com observância do disposto no artigo 14.º
 
 3 - Para efeitos do disposto no artigo 8.º, a decisão do chefe da repartição de finanças será notificada ao contribuinte.
 
-###### Art. 8.º Dos valores tributáveis fixados em conformidade com o disposto nos artigos 6.º e 7.º poderão os contribuintes ou a Fazenda Nacional, representada pelo ministério público, reclamar nos termos dos artigos 12.º a 15.º, 18.º e 19.º do Código do Imposto de Transacções, com as necessárias adaptações.
+Art. 8.º Dos valores tributáveis fixados em conformidade com o disposto nos artigos 6.º e 7.º poderão os contribuintes ou a Fazenda Nacional, representada pelo ministério público, reclamar nos termos dos artigos 12.º a 15.º, 18.º e 19.º do Código do Imposto de Transacções, com as necessárias adaptações.
 
 ### CAPÍTULO IV — Taxa
 
-###### Art. 9.º A taxa do imposto de turismo é de 3%.
+Art. 9.º A taxa do imposto de turismo é de 3%.
 
-###### Art. 10.º Sobre o imposto de turismo não recairá qualquer adicional.
+Art. 10.º Sobre o imposto de turismo não recairá qualquer adicional.
 
 ### CAPÍTULO V — Liquidação
 
-###### Art. 11.º - 1 - A competência para a liquidação do imposto pertence:
+Art. 11.º - 1 - A competência para a liquidação do imposto pertence:
 
 a) Aos prestadores de serviços sujeitos ao imposto;
 
@@ -198,27 +249,27 @@ b) À repartição de finanças correspondente à área referida no n.º 1 do ar
 
 2 - Feita a liquidação em conformidade com a alínea b) do número anterior, será o contribuinte notificado, por meio de carta com aviso de recepção, para efectuar o pagamento do imposto nos termos do artigo 19.º
 
-###### Art. 12.º A liquidação do imposto deverá ser efectuada diariamente em relação ao valor tributável apurado.
+Art. 12.º A liquidação do imposto deverá ser efectuada diariamente em relação ao valor tributável apurado.
 
-###### Art. 13.º - 1 - As pessoas sujeitas ao imposto nos termos dos artigos anteriores poderão repercutir no preço final do serviço prestado a importância correspondente ao imposto.
+Art. 13.º - 1 - As pessoas sujeitas ao imposto nos termos dos artigos anteriores poderão repercutir no preço final do serviço prestado a importância correspondente ao imposto.
 
 2 - O imposto, quando repercutido, deverá ser adicionado ao preço do serviço prestado e constar da correspondente factura ou documento equivalente, ainda que a respectiva margem de comercialização se encontre oficialmente fixada ou os serviços estejam sujeitos ao regime de preços máximos.
 
 3 - No sistema de preços «tudo incluído», nos termos do [Decreto-Lei n.º 137/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1973-675061), de 30 de Março, o imposto será obrigatoriamente integrado no preço do serviço, não podendo ser discriminado nas correspondentes facturas ou documentos equivalentes destinados aos clientes.
 
-###### Art. 14.º Só poderá ser liquidado imposto nos 5 anos civis seguintes àquele em que os serviços tiverem sido prestados.
+Art. 14.º Só poderá ser liquidado imposto nos 5 anos civis seguintes àquele em que os serviços tiverem sido prestados.
 
-###### Art. 15.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões de que resultou prejuízo para o destinatário do imposto, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
+Art. 15.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões de que resultou prejuízo para o destinatário do imposto, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
 
-###### Art. 16.º Não se procederá a liquidação adicional quando o seu quantitativo global seja inferior a 100$00.
+Art. 16.º Não se procederá a liquidação adicional quando o seu quantitativo global seja inferior a 100$00.
 
-###### Art. 17.º - 1 - Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, acrescerá ao montante do imposto o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 17.º - 1 - Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, acrescerá ao montante do imposto o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
 
 2 - O juro será contado dia a dia, a partir do dia imediato ao do termo do prazo em que o imposto deveria ser entregue e até à data em que vier a ser suprida ou corrigida a falta.
 
 ### CAPÍTULO VI — Cobrança
 
-###### Art. 18.º - 1 - O imposto de turismo será entregue na tesouraria da Fazenda Pública da área do estabelecimento ou, na sua falta, do domicílio do prestador dos serviços, mediante guia em triplicado, durante o mês seguinte ao do trimestre a que disser respeito.
+Art. 18.º - 1 - O imposto de turismo será entregue na tesouraria da Fazenda Pública da área do estabelecimento ou, na sua falta, do domicílio do prestador dos serviços, mediante guia em triplicado, durante o mês seguinte ao do trimestre a que disser respeito.
 
 2 - As guias deverão conter os seguintes elementos:
 
@@ -232,29 +283,29 @@ d) Trimestre a que respeita o imposto.
 
 3 - Quando os prestadores de serviços exercerem as actividades em mais de um concelho, o imposto será entregue nas tesourarias correspondentes àqueles em que os estabelecimentos se encontrem situados.
 
-###### Art. 19.º Feita a liquidação do imposto com base na matéria tributável fixada nos termos dos artigos 6.º e 7.º, será o contribuinte notificado para efectuar o seu pagamento no mês imediato ao da notificação.
+Art. 19.º Feita a liquidação do imposto com base na matéria tributável fixada nos termos dos artigos 6.º e 7.º, será o contribuinte notificado para efectuar o seu pagamento no mês imediato ao da notificação.
 
-###### Art. 20.º Decorridos os prazos fixados para a entrega do imposto, nos termos dos artigos 18.º e 19.º, sem que o pagamento se tenha efectuado, promover-se-á a cobrança virtual nos termos do artigo 28.º e sua alínea b) do Código de Processo das Contribuições e Impostos.
+Art. 20.º Decorridos os prazos fixados para a entrega do imposto, nos termos dos artigos 18.º e 19.º, sem que o pagamento se tenha efectuado, promover-se-á a cobrança virtual nos termos do artigo 28.º e sua alínea b) do Código de Processo das Contribuições e Impostos.
 
 ### CAPÍTULO VII — Fiscalização
 
-###### Art. 21.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades e repartições públicas e, em especial, pelas direcções-gerais das Contribuições e Impostos e de Turismo, pelas câmaras municipais e pelas comissões executivas das regiões de turismo.
+Art. 21.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades e repartições públicas e, em especial, pelas direcções-gerais das Contribuições e Impostos e de Turismo, pelas câmaras municipais e pelas comissões executivas das regiões de turismo.
 
-###### Art. 22.º O imposto liquidado nos termos da alínea a) do n.º 1 do artigo 11.º será escriturado, quando houver contabilidade regularmente organizada, de acordo com o Plano Oficial de Contabilidade, numa subconta específica a abrir para esse efeito na conta «Sector público estatal», ou, para os contribuintes que ainda não tenham adoptado o Plano Oficial de Contabilidade, numa subconta específica da sua contabilidade, a qual será creditada pelas importâncias liquidadas e debitada pelas entregues nos cofres do Estado.
+Art. 22.º O imposto liquidado nos termos da alínea a) do n.º 1 do artigo 11.º será escriturado, quando houver contabilidade regularmente organizada, de acordo com o Plano Oficial de Contabilidade, numa subconta específica a abrir para esse efeito na conta «Sector público estatal», ou, para os contribuintes que ainda não tenham adoptado o Plano Oficial de Contabilidade, numa subconta específica da sua contabilidade, a qual será creditada pelas importâncias liquidadas e debitada pelas entregues nos cofres do Estado.
 
-###### Art. 23.º Os prestadores de serviços abrangidos pelo artigo 1.º sujeitos a imposto são obrigados a processar facturas ou documentos equivalentes em relação aos serviços prestados.
+Art. 23.º Os prestadores de serviços abrangidos pelo artigo 1.º sujeitos a imposto são obrigados a processar facturas ou documentos equivalentes em relação aos serviços prestados.
 
-###### Art. 24.º As entidades a quem compete o licenciamento das actividades compreendidas no artigo 1.º deverão dar dele conhecimento à repartição de finanças da área da localização dos respectivos estabelecimentos.
+Art. 24.º As entidades a quem compete o licenciamento das actividades compreendidas no artigo 1.º deverão dar dele conhecimento à repartição de finanças da área da localização dos respectivos estabelecimentos.
 
 ### CAPÍTULO VIII — Reclamações e impugnações
 
-###### Art. 25.º Os prestadores de serviços sujeitos a imposto poderão reclamar contra a liquidação do mesmo ou impugná-la com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos, observando-se, na parte aplicável, o disposto nos artigos 102.º e 103.º do Código do Imposto de Transacções.
+Art. 25.º Os prestadores de serviços sujeitos a imposto poderão reclamar contra a liquidação do mesmo ou impugná-la com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos, observando-se, na parte aplicável, o disposto nos artigos 102.º e 103.º do Código do Imposto de Transacções.
 
 ### CAPÍTULO IX — Penalidades
 
-###### Art. 26.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 26.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 27.º - 1 - A falta de entrega nos cofres do Estado, ou a entrega fora dos prazos estabelecidos, de todo ou parte do imposto devido será punida com multa variável entre metade e a totalidade do imposto em falta, no mínimo de 1000$00, nos casos de mera negligência, e com multa variável entre o dobro e o quádruplo do imposto, no mínimo de 2000$00, quando a infracção for cometida dolosamente.
+Art. 27.º - 1 - A falta de entrega nos cofres do Estado, ou a entrega fora dos prazos estabelecidos, de todo ou parte do imposto devido será punida com multa variável entre metade e a totalidade do imposto em falta, no mínimo de 1000$00, nos casos de mera negligência, e com multa variável entre o dobro e o quádruplo do imposto, no mínimo de 2000$00, quando a infracção for cometida dolosamente.
 
 2 - Presumem-se dolosas as infracções previstas neste artigo quando ocorrer algum dos seguintes factos:
 
@@ -266,27 +317,27 @@ c) Inexistência ou falta de processamento de documentos relativamente aos servi
 
 d) Recusa da exibição de livros, facturas e demais documentos que devam ser processados relativamente aos serviços prestados, bem como a sua ocultação, destruição, inutilização, falsificação ou viciação.
 
-###### Art. 28.º A inobservância do disposto no artigo 23.º será punida com multa de 500$00 a 100000$00 em relação às faltas verificadas no mesmo acto de fiscalização.
+Art. 28.º A inobservância do disposto no artigo 23.º será punida com multa de 500$00 a 100000$00 em relação às faltas verificadas no mesmo acto de fiscalização.
 
-###### Art. 29.º Por qualquer infracção não especialmente prevenida neste diploma será aplicada multa de 200$00 a 40000$00.
+Art. 29.º Por qualquer infracção não especialmente prevenida neste diploma será aplicada multa de 200$00 a 40000$00.
 
-###### Art. 30.º Sobre as multas estabelecidas neste diploma não incidirá nenhum adicional.
+Art. 30.º Sobre as multas estabelecidas neste diploma não incidirá nenhum adicional.
 
-###### Art. 31.º - 1 - Sendo infractora uma pessoa colectiva, responderão pelo pagamento da multa, solidariamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que for cometida a infracção.
+Art. 31.º - 1 - Sendo infractora uma pessoa colectiva, responderão pelo pagamento da multa, solidariamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que for cometida a infracção.
 
 2 - A responsabilidade solidária prevista no número anterior só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado a omissão ou acto delituoso.
 
 3 - Após a extinção das pessoas colectivas, responderão solidariamente entre si as restantes pessoas neste artigo mencionadas.
 
-###### Art. 32.º As multas serão impostas mediante o processo estabelecido no Código de Processo das Contribuições e Impostos.
+Art. 32.º As multas serão impostas mediante o processo estabelecido no Código de Processo das Contribuições e Impostos.
 
-###### Art. 33.º - 1 - Nos casos de pagamento espontâneo, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será a multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 33.º - 1 - Nos casos de pagamento espontâneo, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será a multa reduzida a metade, revertendo integralmente para o Estado.
 
 2 - Se, nos casos previstos no n.º 1 e tratando-se de infracções por mera negligência puníveis pelo artigo 27.º, a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita até 60 dias depois do termo dos prazos estabelecidos neste diploma, as multas serão reduzidas à quarta parte da que vier a ser fixada, sem prejuízo do disposto no artigo 34.º
 
 3 - Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização ou exame à escrita do infractor.
 
-###### Art. 34.º - 1 - As penalidades previstas neste diploma serão reduzidas às multas a seguir indicadas sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos 15 dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
+Art. 34.º - 1 - As penalidades previstas neste diploma serão reduzidas às multas a seguir indicadas sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos 15 dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
 
 a) Multa de 5% do quantitativo em falta, quando a obrigação consistir no pagamento ou entrega do imposto nos cofres do Estado;
 
@@ -298,9 +349,9 @@ b) Multa variável entre 100$00 e 20000$00, quando estiverem em causa outras obr
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 35.º Em tudo o que não contrariar o disposto no presente Regulamento, aplicar-se-ão ao imposto de turismo, com as necessárias adaptações, as normas reguladoras do imposto de transacções sobre a prestação de serviços.
+Art. 35.º Em tudo o que não contrariar o disposto no presente Regulamento, aplicar-se-ão ao imposto de turismo, com as necessárias adaptações, as normas reguladoras do imposto de transacções sobre a prestação de serviços.
 
-###### Art. 36.º - 1 - Cada município pagará ao Tesouro, como compensação dos encargos de cobrança do imposto de turismo, mediante dedução na respectiva ordem de entrega de receitas, 2,5% das quantias entregues.
+Art. 36.º - 1 - Cada município pagará ao Tesouro, como compensação dos encargos de cobrança do imposto de turismo, mediante dedução na respectiva ordem de entrega de receitas, 2,5% das quantias entregues.
 
 2 - Esta percentagem poderá ser revista quando se mostre necessário.
 

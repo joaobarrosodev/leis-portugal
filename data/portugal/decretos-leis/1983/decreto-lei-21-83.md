@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01700/01230136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,119 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1983-307810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdcbd3d347ca9d3eff77524a50527b9c44a4ad8618ce4e27623ab2d3a22f7671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b334393ff65b4e05ce099659b18338a6592fea0eac10cb223a33aaa059609e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral de Viação
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:517201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325105:por
+  label: "Aumentado lugares ao quadro de pessoal, pela PORT.172/85.01.04.1985.PCM, DR.IS [76] de 01.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/172-1985-325105
+  date: '1985-04-01'
+- type: amended_by
+  target: pt:dre:325094:por
+  label: "Criado um lugar de assessor, letra B no quadro de pessoal da DGV, pela PORT.178/85.03.04.1985.PCM, DR.IS [78] de\
+    \ 03.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-1985-325094
+  date: '1985-04-03'
+- type: amended_by
+  target: pt:dre:183463:por
+  label: "Aumentados lugares no quadro de pessoal pela PORT.469/85.17.07.1985.PCM, DR.IS [162] de 17.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-1985-183463
+  date: '1985-07-17'
+- type: amended_by
+  target: pt:dre:194248:por
+  label: "Transferidas as competências do Fundo Especial de Transportes Terrestres para a Direcção Geral de Viação cuja orgânica\
+    \ consta do presente diploma, pelo DEC LEI.21/86.14.02.1986.MF, DR.IS [37] de 14.02.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-1986-194248
+  date: '1986-02-14'
+- type: amended_by
+  target: pt:dre:228578:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.326/86.28.06.1986.MF, DR.IS [146] de 28.06.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-1986-228578
+  date: '1986-06-28'
+- type: amended_by
+  target: pt:dre:222377:por
+  label: "Alargado o número de lugares do quadro de pessoal aprovado pelo presente diploma, pela PORT.610/86.18.10.1986.MF,\
+    \ DR.IS [241] de 18.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/610-1986-222377
+  date: '1986-10-18'
+- type: amended_by
+  target: pt:dre:663362:por
+  label: "Alargado, de acordo com a lista anexa, o quadro de pessoal aprovado pelo presente diploma, pela PORT.45/87.1987.01.20.MF\
+    \ DR.IS [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-1987-663362
+  date: '1987-01-20'
+- type: amended_by
+  target: pt:dre:610896:por
+  label: "Alterado o quadro de pessoal constante do anexo I do presente diploma, pela PORT.46/89.24.01.1989.MF, DR.IS [20]\
+    \ de 24.01.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-1989-610896
+  date: '1989-01-24'
+- type: cites
+  target: pt:dre:407334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165225:por
+  label: Rectificado pela DECL.DD2998.1983.03.24.PCM DR.IS [75]Supl de 31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165225
+  date: '1983-03-24'
+- type: repealed_by
+  target: pt:dre:517201:por
+  label: "Revogado pelo DEC LEI.61/94.26.02.1994.MAI, DR.IS-A [48] de 26.02.1994, que determina que, até à data da entrada\
+    \ em vigor do novo Código da Estrada, as competências conferidas à Direcção de Serviços de Identificação e Transgressões\
+    \ nos termos do art. 25º do presente diploma sejam exercidas pelo Gabinete de Contencioso.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-1994-517201
+  date: '1994-02-26'
 article_structure:
   article_count: 77
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:59Z'
   warnings: []
   errors: []
 ---
@@ -1073,12 +1152,12 @@ Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista - Alípio Barrosa Pereira Dias - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 5 de Janeiro de 1983.**
+Promulgado em 5 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal da DGV, referido no artigo 46.º do Decreto-Lei n.º 21/83, de 21 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/01700/01230136.pdf))](https://files.diariodarepublica.pt/1s/1983/01/01700/01230136.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/01700/01230136.pdf)

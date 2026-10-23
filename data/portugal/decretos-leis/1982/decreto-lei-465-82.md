@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1982-379362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d76f8454d0c567576ccff53503ccf829867822eb62a55e7f28da942930a4ad85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6eab6f3cd7466cfe73798769ac4528e6ed4661040b826880a10a2b4200696a26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Educação
+- Ministério dos Assuntos Sociais
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:452051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:45Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +111,15 @@ Considerando que excepcionalmente e para os serviços em causa é justificado o 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Mediante parecer favorável do Ministro da Reforma Administrativa, podem os Ministros da Educação e dos Assuntos Sociais tomar, por portaria, as medidas adequadas à reorganização, respectivamente, dos serviços centrais e periféricos do Ministério da Educação e dos serviços e estabelecimentos do Ministério dos Assuntos Sociais com competência no domínio da saúde.
+Artigo 1.º Mediante parecer favorável do Ministro da Reforma Administrativa, podem os Ministros da Educação e dos Assuntos Sociais tomar, por portaria, as medidas adequadas à reorganização, respectivamente, dos serviços centrais e periféricos do Ministério da Educação e dos serviços e estabelecimentos do Ministério dos Assuntos Sociais com competência no domínio da saúde.
 
-###### Art. 2.º - 1 - As medidas referidas no artigo anterior poderão ter como objecto a fusão, a transferência de atribuições e competências e o redimensionamento de unidades orgânicas, importando correspondentes modificações de recursos humanos, materiais e financeiros.
+Art. 2.º - 1 - As medidas referidas no artigo anterior poderão ter como objecto a fusão, a transferência de atribuições e competências e o redimensionamento de unidades orgânicas, importando correspondentes modificações de recursos humanos, materiais e financeiros.
 
 2 - As alterações orçamentais a que se torne necessário proceder em consequência das medidas tomadas serão aprovadas por portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação ou dos Assuntos Sociais.
 
 3 - As medidas a que se refere o n.º 1 não poderão envolver, no seu conjunto, aumento quer de encargos financeiros, quer de efectivos de pessoal.
 
-###### Art. 3.º - 1 - Poderão ser transferidas para outros ministérios unidades orgânicas actualmente integradas no Ministério de Educação por portaria conjunta do Primeiro-Ministro, Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa e do ministro para cujo Ministério as unidades são transferidas.
+Art. 3.º - 1 - Poderão ser transferidas para outros ministérios unidades orgânicas actualmente integradas no Ministério de Educação por portaria conjunta do Primeiro-Ministro, Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa e do ministro para cujo Ministério as unidades são transferidas.
 
 2 - Poderão igualmente ser transferidas para o Ministério da Educação unidades orgânicas actualmente integradas noutros ministérios por portaria conjunta do Primeiro-Ministro, do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa e do ministro de cujo ministério as unidades são transferidas.
 
@@ -116,11 +127,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - É aplicável às transferências previstas neste artigo o disposto no n.º 3 do artigo anterior.
 
-###### Art. 4.º As portariais referidas nos artigos 1.º e 3.º terão de ser publicadas até 1 ano depois da entrada em vigor do presente diploma.
+Art. 4.º As portariais referidas nos artigos 1.º e 3.º terão de ser publicadas até 1 ano depois da entrada em vigor do presente diploma.
 
-###### Art. 5.º Para responder aos objectivos a prosseguir pelas medidas que forem tomadas, designadamente para a realização de tarefas que requeiram formação e experiência em domínios especializados, poderá o Ministro da Educação ou o Ministro dos Assuntos Sociais, por despacho, proceder à requisição ou destacamento para os serviços que dele careçam, nos termos da lei geral, do pessoal julgado indispensável.
+Art. 5.º Para responder aos objectivos a prosseguir pelas medidas que forem tomadas, designadamente para a realização de tarefas que requeiram formação e experiência em domínios especializados, poderá o Ministro da Educação ou o Ministro dos Assuntos Sociais, por despacho, proceder à requisição ou destacamento para os serviços que dele careçam, nos termos da lei geral, do pessoal julgado indispensável.
 
-###### Art. 6.º - 1 - Da aplicação do presente diploma não poderá resultar a restrição dos direitos adquiridos pelos funcionários e agentes dos serviços que sejam objecto de reorganização.
+Art. 6.º - 1 - Da aplicação do presente diploma não poderá resultar a restrição dos direitos adquiridos pelos funcionários e agentes dos serviços que sejam objecto de reorganização.
 
 2 - Ao pessoal dirigente nomeado nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, cujos lugares de chefia ou serviços que dirigem sejam afectados por força da aplicação do disposto neste diploma serão automaticamente dadas por findas as respectivas comissões de serviço aquando da concretização daquela afectação.
 
@@ -128,8 +139,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 2 de Dezembro de 1982.**
+Promulgado em 2 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

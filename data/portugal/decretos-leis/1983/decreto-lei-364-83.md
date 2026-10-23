@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1983-442944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf2f4158e4fd8544952985f28457ed577cccc47d9fe583424d34f5a95bea3e80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f845b2fcb4b32a77def599d371b4ea4c082a80e655de6bbcc02eb817df98f98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armas e Munições
+- PSP
+- Uso e porte de arma
+relationships:
+- type: cites
+  target: pt:dre:146881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:31Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +101,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal da Polícia de Segurança Pública tem direito ao uso e porte de arma de fogo de qualquer calibre e modelo, independentemente de licença, desde que lhe seja distribuída pelo Estado.
+Artigo 1.º O pessoal da Polícia de Segurança Pública tem direito ao uso e porte de arma de fogo de qualquer calibre e modelo, independentemente de licença, desde que lhe seja distribuída pelo Estado.
 
-###### Art. 2.º - 1 - Além da sua utilização com finalidade de instrução e em locais próprios, o recurso a arma de fogo só é permitido como medida de extrema coacção ou de legítima defesa, adequada às circunstâncias, designadamente:
+Art. 2.º - 1 - Além da sua utilização com finalidade de instrução e em locais próprios, o recurso a arma de fogo só é permitido como medida de extrema coacção ou de legítima defesa, adequada às circunstâncias, designadamente:
 
 a) Contra agressão iminente ou em execução, ou tentativa de agressão, dirigida contra o próprio agente da autoridade, contra o seu posto de serviço ou contra terceiros;
 
@@ -116,26 +123,26 @@ h) Quando a manutenção da ordem pública assim o exija ou os superiores do age
 
 2 - É proibido o recurso a arma de fogo sempre que possa constituir perigo para terceiros, salvo em estado de necessidade resultante do previsto no n.º 1.
 
-###### Art. 3.º - 1 - O recurso a arma de fogo deve ser precedido de advertência, claramente perceptível, sempre que a natureza do serviço e as circunstâncias o permitam.
+Art. 3.º - 1 - O recurso a arma de fogo deve ser precedido de advertência, claramente perceptível, sempre que a natureza do serviço e as circunstâncias o permitam.
 
 2 - A advertência pode consistir em tiro para o ar, desde que seja de supor que ninguém venha a ser atingido, e que a intimação ou advertência prévia possa não ser clara e imediatamente perceptível.
 
-###### Art. 4.º - 1 - O agente da Polícia de Segurança Pública que tenha recorrido a arma de fogo é obrigado a socorrer ou a tomar medidas de socorro aos feridos, logo que lhe seja possível.
+Art. 4.º - 1 - O agente da Polícia de Segurança Pública que tenha recorrido a arma de fogo é obrigado a socorrer ou a tomar medidas de socorro aos feridos, logo que lhe seja possível.
 
 2 - O recurso a arma de fogo torna obrigatório relato de tal facto, por escrito, aos superiores hierárquicos, no mais curto prazo possível, ainda que não tenha resultado qualquer dano.
 
-###### Art. 5.º Para os efeitos previstos nos artigos anteriores, o exercício de funções na Polícia de Segurança Pública é considerado de carácter permanente e obrigatório, ainda que prestado fora da área normal de actividade do agente.
+Art. 5.º Para os efeitos previstos nos artigos anteriores, o exercício de funções na Polícia de Segurança Pública é considerado de carácter permanente e obrigatório, ainda que prestado fora da área normal de actividade do agente.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira.
 
-**Promulgado em 22 de Setembro de 1983.**
+Promulgado em 22 de Setembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Setembro de 1983.**
+Referendado em 26 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

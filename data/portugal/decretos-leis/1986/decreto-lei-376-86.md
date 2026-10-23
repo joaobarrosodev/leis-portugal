@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1986-221131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ad9e8ffb7add884210974374cb8aabe69cdcffd358eef14cf850d0ba39c789d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d7f172e07800174659bbe0a1f61bd832a11484cfccebf3339b02b3c11543b2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Função Pública
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432672:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:30Z'
   warnings: []
   errors: []
 ---
@@ -95,26 +106,26 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Podem habilitar-se, até 31 de Março de 1987, a pensão de sobrevivência, nos termos do Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 191-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), de 25 de Junho, os herdeiros hábeis dos funcionários e agentes, incluindo os da ex-administração ultramarina, que cessaram funções a qualquer título, já falecidos ou cujo óbito ocorra até 31 de Dezembro de 1986.
+Artigo 1.º - 1 - Podem habilitar-se, até 31 de Março de 1987, a pensão de sobrevivência, nos termos do Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 191-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), de 25 de Junho, os herdeiros hábeis dos funcionários e agentes, incluindo os da ex-administração ultramarina, que cessaram funções a qualquer título, já falecidos ou cujo óbito ocorra até 31 de Dezembro de 1986.
 
 2 - Para efeitos do disposto no número anterior, o elenco dos herdeiros hábeis é o definido no n.º 1 do artigo 40.º do Estatuto das Pensões de Sobrevivência, independentemente da data do falecimento.
 
 3 - O disposto neste diploma não é aplicável aos pensionistas do Montepio dos Servidores do Estado, qualquer que seja o regime ao abrigo do qual a pensão foi concedida, nem aos que, em relação ao mesmo tempo de serviço, beneficiem de pensão de sobrevivência atribuída por qualquer outra instituição.
 
-###### Art. 2.º - 1 - As pensões requeridas ao abrigo deste decreto-lei vencem-se a partir do dia 1 do mês seguinte ao da recepção do requerimento no Montepio dos Servidores do Estado.
+Art. 2.º - 1 - As pensões requeridas ao abrigo deste decreto-lei vencem-se a partir do dia 1 do mês seguinte ao da recepção do requerimento no Montepio dos Servidores do Estado.
 
 2 - As pensões começam, porém, a vencer-se a partir da entrada em vigor deste diploma quando se trate de requerimentos que, até esta data, tenham dado entrada no referido Montepio.
 
-###### Art. 3.º - O presente diploma entra em vigor no dia 1 do mês imediato ao da sua publicação.
+Art. 3.º - O presente diploma entra em vigor no dia 1 do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 25 de Outubro de 1986.**
+Promulgado em 25 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1986.**
+Referendado em 28 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

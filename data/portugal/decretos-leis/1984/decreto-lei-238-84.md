@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/16000/21102110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1984-385979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b29aa91e64e4f40a0a72f4ef7c36089dccdba0c4c0b11bc3e85e83bea32f7778
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97fa491f86071b9f66ef9738d3cbfb3041cdc8971781bd57aa9bf513ad92622c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Turismo
+- Promoção Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:380348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643902:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:36Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +123,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Aos contratos de empréstimo a celebrar pelo Fundo de Turismo no âmbito da alínea e) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49226](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49226-1969-380348), de 26 de Setembro de 1969, na redacção do [Decreto-Lei n.º 223/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1971-643902), de 27 de Maio, de montante inferior a 10 milhões de escudos é aplicável o disposto no artigo único do [Decreto-Lei n.º 32765](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32765-1943-595921), de 29 de Abril de 1943.
+Artigo único. Aos contratos de empréstimo a celebrar pelo Fundo de Turismo no âmbito da alínea e) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49226](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49226-1969-380348), de 26 de Setembro de 1969, na redacção do [Decreto-Lei n.º 223/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1971-643902), de 27 de Maio, de montante inferior a 10 milhões de escudos é aplicável o disposto no artigo único do [Decreto-Lei n.º 32765](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32765-1943-595921), de 29 de Abril de 1943.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1984. - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Joaquim Ferreira do Amaral.
 
-**Promulgado em 27 de Junho de 1984.**
+Promulgado em 27 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Junho de 1984.**
+Referendado em 27 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

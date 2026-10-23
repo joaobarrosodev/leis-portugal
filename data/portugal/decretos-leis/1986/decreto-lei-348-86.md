@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1986-222392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c04fb0e18bbb35caa349132ccab50968deaafffd735f8258a8d4a30857f075f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c144bcdabe7d3f6da7b0442df03e8efa7dd03323ab65cf113a5302e882a2d78e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Comissão Nacional dos Portos
+- Exploração Portuária
+- Instituto Nacional de Portos e Costas Marítimas
+- Orgânica
+- Portos
+- Sistema Portuário Nacional
 relationships:
 - type: amended_by
   target: pt:dre:223019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:260163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223011:por
+  label: "Revogado o art. 14º pelo DEC LEI.335/98.1998.11.03.MEPAT, DR.IS-A [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-1998-223011
+  date: '1998-11-03'
+- type: repealed_by
+  target: pt:dre:223015:por
+  label: "Revogado o art. 14º pelo DEC LEI.336/98.1998.11.03.MEPAT, DR.IS-A [254] \04] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/336-1998-223015
+  date: '1998-11-03'
+- type: repealed_by
+  target: pt:dre:223019:por
+  label: "Revogado o art. 14º, já revogado pelo Dec Lei 335/98 de 03-Nov, pelo DEC LEI.337/98.1998.11.03.MEPAT, DR.IS-A [254]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/337-1998-223019
+  date: '1998-11-03'
+- type: repealed_by
+  target: pt:dre:223022:por
+  label: "Revogado o art. 14º, já revogado pelo Dec Lei 335/98 de 03-Nov, pelo DEC LEI.338/98.1998.11.03.MEPAT, DR.IS-A [254]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1998-223022
+  date: '1998-11-03'
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:04Z'
   warnings: []
   errors: []
 ---
@@ -296,15 +365,15 @@ Fica revogada a legislação em contrário, nomeadamente o Decreto com força de
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - Luís Fernando Mira Amaral - José António da Silveira Godinho - José Manuel Nunes Liberato.
 
-**Promulgado em 11 de Setembro de 1986.**
+Promulgado em 11 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MARIO SOARES.**
+O Presidente da República, MARIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — (Artigo 15.º)
 
@@ -312,11 +381,11 @@ Bases Gerais das Estatutos Orgânicos das Administrações dos Portos
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º As administrações dos portos são institutos públicos dotados de personalidade jurídica e de autonomia administrativa, financeira e patrimonial.
+Artigo 1.º As administrações dos portos são institutos públicos dotados de personalidade jurídica e de autonomia administrativa, financeira e patrimonial.
 
-###### Art. 2.º As administrações dos portos regem-se pelas normas legais que lhes sejam aplicáveis em conformidade com o presente diploma e pelos respectivos estatutos e regulamentos.
+Art. 2.º As administrações dos portos regem-se pelas normas legais que lhes sejam aplicáveis em conformidade com o presente diploma e pelos respectivos estatutos e regulamentos.
 
-###### Art. 3.º Os estatutos das administração dos portos devem obrigatoriamente especificar:
+Art. 3.º Os estatutos das administração dos portos devem obrigatoriamente especificar:
 
 a) Denominação;
 
@@ -338,15 +407,15 @@ i) Regras gerais relativas ao estatuto do pessoal.
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 4.º São órgãos obrigatórios das administrações dos portos o conselho de administração, a comissão de fiscalização e o conselho consultivo.
+Art. 4.º São órgãos obrigatórios das administrações dos portos o conselho de administração, a comissão de fiscalização e o conselho consultivo.
 
-###### Art. 5.º - 1 - O conselho de administração será composto por um presidente e por dois ou quatro vogais nomeados pelo Primeiro-Ministro, pelo Ministro das Finanças e pelo ministro da tutela.
+Art. 5.º - 1 - O conselho de administração será composto por um presidente e por dois ou quatro vogais nomeados pelo Primeiro-Ministro, pelo Ministro das Finanças e pelo ministro da tutela.
 
 2 - Os membros do conselho de administração exercerão o mandato durante três anos renováveis.
 
 3 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vogal que for designado pelo conselho.
 
-###### Art. 6.º - 1 - Compete ao conselho de administração assegurar a gestão do organismo portuário, mediante o exercício das competências necessárias ao regular funcionamento do porto nos seus múltiplos aspectos de ordem económica, financeira e patrimonial, de gestão de efectivos e de exploração portuária com eficácia e rentabilidade.
+Art. 6.º - 1 - Compete ao conselho de administração assegurar a gestão do organismo portuário, mediante o exercício das competências necessárias ao regular funcionamento do porto nos seus múltiplos aspectos de ordem económica, financeira e patrimonial, de gestão de efectivos e de exploração portuária com eficácia e rentabilidade.
 
 2 - No âmbito do estabelecido no número anterior, compete, designadamente, ao conselho de administração, sem prejuízo dos poderes da tutela:
 
@@ -380,13 +449,13 @@ o) Propor ao ministro da tutela as medidas respeitantes à concessão de áreas 
 
 p) Aprovar os regulamentos internos destinados à execução do respectivo estatuto e necessários ao bom funcionamento dos serviços e velar pelo seu cumprimento.
 
-###### Art. 7.º O conselho de administração poderá:
+Art. 7.º O conselho de administração poderá:
 
 a) Delegar, sob proposta do seu presidente, a competência para a realização de quaisquer das suas atribuições em um ou mais dos seus vogais;
 
 b) Fazer-se representar por procurador em actos ou contratos em que o organismo deva ser parte.
 
-###### Art. 8.º Compete ao presidente do conselho de administração a coordenação e orientação geral das actividades do conselho e, em especial:
+Art. 8.º Compete ao presidente do conselho de administração a coordenação e orientação geral das actividades do conselho e, em especial:
 
 a) Convocar o conselho de administração, fixar a agenda de trabalhos e presidir às respectivas reuniões;
 
@@ -396,15 +465,15 @@ c) Decidir sobre as matérias que, embora da competência do conselho de adminis
 
 d) Representar o organismo portuário em juízo e fora dele, designadamente junto do ministro da tutela, quando outros representantes ou mandatários não hajam sido designados.
 
-###### Art. 9.º Os estatutos das administrações dos portos estabelecerão a periodicidade das reuniões do conselho de administração, bem como as regras de convocação e funcionamento respectivas.
+Art. 9.º Os estatutos das administrações dos portos estabelecerão a periodicidade das reuniões do conselho de administração, bem como as regras de convocação e funcionamento respectivas.
 
-###### Art. 10.º - 1 - Os membros do conselho de administração desempenharão os seus cargos em regime de tempo inteiro, sendo-lhes vedado o exercício de quaisquer outras funções remuneradas, nos termos da lei geral.
+Art. 10.º - 1 - Os membros do conselho de administração desempenharão os seus cargos em regime de tempo inteiro, sendo-lhes vedado o exercício de quaisquer outras funções remuneradas, nos termos da lei geral.
 
 2 - Exceptua-se do estabelecido no número anterior o exercício de missões de serviço público que, pela sua natureza, se considere conveniente serem cometidas a qualquer dos membros do conselho de administração.
 
 3 - Os membros do conselho de administração regem-se pelo Estatuto do Gestor Público.
 
-###### Art. 11.º - 1 - A comissão de fiscalização é composta por três membros, que escolherão o presidente.
+Art. 11.º - 1 - A comissão de fiscalização é composta por três membros, que escolherão o presidente.
 
 2 - Os membros da comissão de fiscalização serão nomeados por despacho conjunto do ministro da tutela e do Ministro das Finanças, sendo um deles indicado pelos trabalhadores.
 
@@ -412,7 +481,7 @@ d) Representar o organismo portuário em juízo e fora dele, designadamente junt
 
 4 - Um dos membros da comissão de fiscalização será obrigatoriamente revisor oficial de contas.
 
-###### Art. 12.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatuárias e regulamentares aplicáveis ao organismo portuário ou às actividades por ele exercidas.
+Art. 12.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatuárias e regulamentares aplicáveis ao organismo portuário ou às actividades por ele exercidas.
 
 2 - Compete, em especial, à comissão de fiscalização:
 
@@ -442,13 +511,13 @@ c) Obter de terceiros que tenham realizado operações por conta do organismo as
 
 4 - A actuação da comissão de fiscalização reger-se-á pelas normas que vierem a ser definidas por despacho conjunto do ministro da tutela e do Ministro das Finanças.
 
-###### Art. 13.º O presidente da comissão de fiscalização, a solicitação do presidente do conselho de administração, poderá assistir ou fazer-se representar por outro membro da comissão às reuniões do conselho de administração.
+Art. 13.º O presidente da comissão de fiscalização, a solicitação do presidente do conselho de administração, poderá assistir ou fazer-se representar por outro membro da comissão às reuniões do conselho de administração.
 
-###### Art. 14.º Os estatutos das administrações dos portos estabelecerão a periodicidade das reuniões da comissão de fiscalização, bem como as regras de convocação e funcionamento respectivas.
+Art. 14.º Os estatutos das administrações dos portos estabelecerão a periodicidade das reuniões da comissão de fiscalização, bem como as regras de convocação e funcionamento respectivas.
 
-###### Art. 15.º Ao presidente e aos membros da comissão do fiscalização será atribuída uma gratificação mensal a definir por despacho conjunto do ministro da tutela e do Ministro das Finanças.
+Art. 15.º Ao presidente e aos membros da comissão do fiscalização será atribuída uma gratificação mensal a definir por despacho conjunto do ministro da tutela e do Ministro das Finanças.
 
-###### Art. 16.º - 1 - O conselho consultivo deverá ter a seguinte composição:
+Art. 16.º - 1 - O conselho consultivo deverá ter a seguinte composição:
 
 a) Presidente do conselho de administração respectivo;
 
@@ -498,7 +567,7 @@ z) Um representante de cada uma das associações dos armadores de pesca locais.
 
 2 - Os membros do conselho consultivo serão designados pelas entidades que representarem, a solicitação do organismo portuário.
 
-###### Art. 17.º - 1 - Compete ao conselho consultivo:
+Art. 17.º - 1 - Compete ao conselho consultivo:
 
 a) Dar parecer sobre questões relativas ao porto que lhe sejam submetidas pelo Governo ou pelo conselho de administração;
 
@@ -508,17 +577,17 @@ b) Apreciar as propostas, devidamente justificadas, que sejam apresentadas pelos
 
 3 - Caso o presidente não inclua as propostas apresentadas na agenda da primeira reunião a realizar posteriormente à sua apresentação, o proponente poderá recorrer dessa não inclusão para o próprio conselho consultivo.
 
-###### Art. 18.º - 1 - O conselho consultivo será presidido pelo presidente do conselho de administração, órgão que designará um funcionário para exercer as funções de secretário.
+Art. 18.º - 1 - O conselho consultivo será presidido pelo presidente do conselho de administração, órgão que designará um funcionário para exercer as funções de secretário.
 
 2 - O conselho consultivo reunirá, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que for convocado pelo ministro da tutela ou pelo seu presidente, por sua iniciativa ou a requerimento da maioria dos vogais.
 
 3 - O conselho consultivo elaborará o respectivo regulamento interno, o qual deverá prever, nomeadamente, o seu funcionamento em plenário, por comissões ou por secções especializadas.
 
-###### Art. 19.º O exercício da função de vogal do conselho consultivo constitui encargo das entidades representadas.
+Art. 19.º O exercício da função de vogal do conselho consultivo constitui encargo das entidades representadas.
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 20.º - 1 - A gestão das administrações dos portos realizar-se-á por forma a assegurar a sua viabilidade económica e o seu equilíbrio financeiro, com respeito pelos seguintes condicionalismo:
+Art. 20.º - 1 - A gestão das administrações dos portos realizar-se-á por forma a assegurar a sua viabilidade económica e o seu equilíbrio financeiro, com respeito pelos seguintes condicionalismo:
 
 a) Adaptação da oferta à procura em condições economicamente rentáveis, salvo quando sejam acordadas com o Estado especiais obrigações de interesse público;
 
@@ -534,23 +603,23 @@ b) Planos de actividade e orçamentos anuais, individualizando, pelo menos, os d
 
 c) Relatórios de execução orçamental adaptados às características dos organismos portuários e às necessidades do seu acompanhamento por parte do Governo.
 
-###### Art. 21.º - 1 - Os planos de actividade plurianuais devem estabelecer a estratégia a seguir, sendo reformulados sempre que as circunstâncias o justificarem.
+Art. 21.º - 1 - Os planos de actividade plurianuais devem estabelecer a estratégia a seguir, sendo reformulados sempre que as circunstâncias o justificarem.
 
 2 - Os planos financeiros plurianuais incluirão o programa de investimentos e respectivas fontes de financiamento e, para um período bianual, a conta de exploração, o balanço, o plano financeiro e o balanço cambial previsionais, constituindo, em relação ao 1.º ano, uma síntese do orçamento anual, sendo apresentados nos prazos previstos no n.º 2 do artigo seguinte.
 
-###### Art. 22.º - 1 - As administrações dos portos prepararão para cada ano económico, os planos de actividade e os orçamentos anuais, os quais deverão ser completados com os desdobramentos necessários para permitir a descentralização de responsabilidades e o adequado controle de gestão.
+Art. 22.º - 1 - As administrações dos portos prepararão para cada ano económico, os planos de actividade e os orçamentos anuais, os quais deverão ser completados com os desdobramentos necessários para permitir a descentralização de responsabilidades e o adequado controle de gestão.
 
 2 - Os projectos do plano de actividade e do orçamento anual a que se refere o n.º 1 serão elaborados com respeito pelos pressupostos macroeconómicos e demais directrizes globais definidas pelo Governo, sendo remetidos para aprovação até 30 de Novembro.
 
 3 - As administrações dos portos prepararão, até 30 de Setembro de cada ano, uma primeira versão dos elementos básicos dos seus orçamentos de exploração, de investimento, financeiro e cambial para o ano seguinte.
 
-###### Art. 23.º - 1 - A contabilidade deve corresponder às necessidades da gestão empresarial corrente e permitir um controle orçamental permanente, bem como a fácil verificação da correspondência entre os valores patrimoniais e contabilísticos.
+Art. 23.º - 1 - A contabilidade deve corresponder às necessidades da gestão empresarial corrente e permitir um controle orçamental permanente, bem como a fácil verificação da correspondência entre os valores patrimoniais e contabilísticos.
 
 2 - A organização contabilística deve ser estabelecida em conformidade com o Plano Oficial de Contabilidade.
 
 3 - As administrações dos portos deverão implementar um sistema de contabilidade analítica que lhes permita o apuramento dos resultados por tipo de actividade.
 
-###### Art. 24.º - 1 - O património actual, as dotações e outras entradas patrimoniais, do Estado e entidades públicas, destinados a responder a necessidades permanentes das administrações dos portos, integrarão o seu fundo de constituição.
+Art. 24.º - 1 - O património actual, as dotações e outras entradas patrimoniais, do Estado e entidades públicas, destinados a responder a necessidades permanentes das administrações dos portos, integrarão o seu fundo de constituição.
 
 2 - O fundo de constituição pode ser aumentado não só pelas entradas patrimoniais previstas no número anterior, mas também mediante incorporação de reservas.
 
@@ -558,7 +627,7 @@ c) Relatórios de execução orçamental adaptados às características dos orga
 
 4 - A avaliação do património actual dos organismos será feita de acordo com os critérios que venham a ser fixados despacho conjunto do ministro da tutela e do Ministro das Finanças.
 
-###### Art. 25.º Constituem receitas das administrações dos portos:
+Art. 25.º Constituem receitas das administrações dos portos:
 
 a) As importâncias resultantes de taxas devidas ao abrigo do regulamento de tarifas;
 
@@ -576,7 +645,7 @@ g) Os juros de depósitos bancários;
 
 h) Quaisquer outras receitas provenientes da sua actividade ou que, por disposição legal ou regulamentar, lhes devam pertencer.
 
-###### Art. 26.º Constituem despesas das administrações dos portos:
+Art. 26.º Constituem despesas das administrações dos portos:
 
 a) Os encargos com o funcionamento e com o cumprimento das respectivas obrigações;
 
@@ -584,17 +653,17 @@ b) Os custos de aquisição, manutenção e conservação de bens, equipamentos 
 
 c) Quaisquer outras derivadas do exercício da sua actividade.
 
-###### Art. 27.º - 1 - A amortização e a reintegração dos bens, a reavaliação do activo imobilizado e a constituição de provisões serão efectuadas pelo conselho de administração, de acordo com critérios aprovados pelo ministro da tutela e pelo Ministro das Finanças, sem prejuízo da aplicabilidade do disposto na lei fiscal.
+Art. 27.º - 1 - A amortização e a reintegração dos bens, a reavaliação do activo imobilizado e a constituição de provisões serão efectuadas pelo conselho de administração, de acordo com critérios aprovados pelo ministro da tutela e pelo Ministro das Finanças, sem prejuízo da aplicabilidade do disposto na lei fiscal.
 
 2 - O valor anual das amortizações e reintegrações constitui encargo de exploração e será escriturado em conta especial
 
 3 - As administrações dos portos deverão proceder periodicamente a reavaliações do activo imobilizado, em ordem a obter uma mais exacta correspondência entre os valores patrimoniais e contabilísticos.
 
-###### Art. 28.º - 1 - As administrações dos portos constituirão as provisões, reservas e fundos que se mostrem necessários.
+Art. 28.º - 1 - As administrações dos portos constituirão as provisões, reservas e fundos que se mostrem necessários.
 
 2 - Deverão, especialmente, constituir-se reservas e fundos para investimentos e para auto-seguro.
 
-###### Art. 29.º - 1 - As administrações dos portos devem elaborar anualmente, com referência a 31 de Dezembro do ano anterior, os seguintes documentos de prestação de contas:
+Art. 29.º - 1 - As administrações dos portos devem elaborar anualmente, com referência a 31 de Dezembro do ano anterior, os seguintes documentos de prestação de contas:
 
 a) Balanço analítico;
 
@@ -616,13 +685,13 @@ e) Parecer da comissão de fiscalização.
 
 6 - A aprovação das contas e da aplicação dos resultados verifica-se, uma vez preenchidas as condições necessárias para o efeito, por despacho conjunto do ministro da tutela e do Ministro das Finanças, o qual deverá ser comunicado à IGF, que, por sua vez, informará o organismo portuário.
 
-###### Art. 30.º As contas das administrações dos portos não são submetidas a julgamento do Tribunal de Contas.
+Art. 30.º As contas das administrações dos portos não são submetidas a julgamento do Tribunal de Contas.
 
 ### CAPÍTULO IV — Intervenção do Governo
 
-###### Art. 31.º Sem prejuízo da autonomia conferida às administrações dos portos, cabe ao ministro da tutela definir o enquadramento geral no qual se desenvolverá a sua actividade, de modo a garantir a sua harmonização com as políticas global e sectorial e com o planeamento económico nacional.
+Art. 31.º Sem prejuízo da autonomia conferida às administrações dos portos, cabe ao ministro da tutela definir o enquadramento geral no qual se desenvolverá a sua actividade, de modo a garantir a sua harmonização com as políticas global e sectorial e com o planeamento económico nacional.
 
-###### Art. 32.º No exercício da tutela, compete ao ministro responsável pelo sector portuário:
+Art. 32.º No exercício da tutela, compete ao ministro responsável pelo sector portuário:
 
 a) Aprovar os planos plurianuais de actividade e financeiros;
 
@@ -644,11 +713,11 @@ i) Aprovar os princípios a que deve obedecer a reavaliação do activo e os res
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 33.º O pessoal das administrações portuárias reger-se-á por um único regime jurídico de direito público privativo, adequado às necessidades e responsabilidades do serviço, a definir em diploma próprio.
+Art. 33.º O pessoal das administrações portuárias reger-se-á por um único regime jurídico de direito público privativo, adequado às necessidades e responsabilidades do serviço, a definir em diploma próprio.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 34.º As administrações dos portos são titulares dos direitos e obrigações atribuídos ao Estado nas disposições legais e regulamentares aplicáveis, designadamente quanto:
+Art. 34.º As administrações dos portos são titulares dos direitos e obrigações atribuídos ao Estado nas disposições legais e regulamentares aplicáveis, designadamente quanto:
 
 a) À cobrança coerciva de taxas, outros rendimentos do serviço e outros créditos;
 
@@ -664,12 +733,12 @@ f) Ao uso público dos serviços, à sua fiscalização, à definição de infra
 
 g) À responsabilidade civil extracontratual.
 
-###### Art. 35.º Para efeitos das suas relações comerciais com a banca, as administrações portuárias são livres na escolha das instituições de crédito.
+Art. 35.º Para efeitos das suas relações comerciais com a banca, as administrações portuárias são livres na escolha das instituições de crédito.
 
-###### Art. 36.º O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela gestão de cada administração portuária, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.
+Art. 36.º O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela gestão de cada administração portuária, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.
 
-###### Art. 37.º - 1 - Salvo o disposto no número seguinte, compete aos tribunais judiciais o julgamento de todos os litígios em que seja parte uma administração portuária, incluindo as acções para efectivação da responsabilidade civil por actos dos seus órgãos, bem como a apreciação da responsabilidade civil dos titulares desses órgãos para com o respectivo organismo.
+Art. 37.º - 1 - Salvo o disposto no número seguinte, compete aos tribunais judiciais o julgamento de todos os litígios em que seja parte uma administração portuária, incluindo as acções para efectivação da responsabilidade civil por actos dos seus órgãos, bem como a apreciação da responsabilidade civil dos titulares desses órgãos para com o respectivo organismo.
 
 2 - São da competência dos tribunais administrativos os julgamentos dos recursos dos actos definitivos e executórios dos órgãos da administração portuária sujeitos a um regime de direito público, bem como o julgamento das acções sobre validade, interpretação ou execução dos contratos administrativos por ele celebrados.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

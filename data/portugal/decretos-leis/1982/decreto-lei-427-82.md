@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/24400/34793483.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02acf5e17d4c51eea8a01d892393d28e2b33c57aa41ab21950c1491f4d373a69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d757b5387b437378fb470dfbb787dd1942228402f7fe16ddda5dcc522b10bc4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EDP
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693786:por
+  label: "Transformada em sociedade anónima de capitais exclusivamente públicos a empresa pública Electricidade de Portugal\
+    \ (EDP), E. P., criada pelo Dec Lei 502/76, de 30-Jun, alterado pelo presente diploma, pelo DEC LEI.7/91.08.01.1991.MIE,\
+    \ DR.IS-A [6]] de 08.01.1991, sucedendo a EDP automática e globalmente à Electricidade de Portugal (EDP), E. P., e continuando\
+    \ a personalidade jurídica desta.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1991-693786
+  date: '1991-01-08'
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681999:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:379303:por
+  label: Rectificado pela DECL.DD5861.15.11.1982.PCM, DR.IS [286] de 13.12.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-379303
+  date: '1982-11-15'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:44Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +144,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É alterado, em conformidade com os artigos seguintes, o Estatuto da Electricidade de Portugal (EDP), E. P., aprovado pelo [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), de 30 de Junho.
+Artigo 1.º É alterado, em conformidade com os artigos seguintes, o Estatuto da Electricidade de Portugal (EDP), E. P., aprovado pelo [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), de 30 de Junho.
 
-###### Art. 2.º O capítulo III do Estatuto passa a ter a seguinte redacção:
+Art. 2.º O capítulo III do Estatuto passa a ter a seguinte redacção:
 
 ### CAPÍTULO III — Órgãos
 
@@ -352,13 +388,13 @@ b) Os responsáveis dos departamentos regionais e locais da empresa, no âmbito 
 
 3 - As regras respeitantes à orgânica e funcionamento dos conselhos locais serão definidas em protocolo a estabelecer com os respectivos municípios.
 
-###### Art. 3.º O artigo 50.º do Estatuto passa a ter a seguinte redacção:
+Art. 3.º O artigo 50.º do Estatuto passa a ter a seguinte redacção:
 
 ###### Artigo 50.º
 
 O conselho de gerência porá à disposição do conselho geral, da comissão de fiscalização, dos órgãos de articulação com o poder local e dos órgãos representativos da estrutura dos trabalhadores os meios de apoio indispensáveis ao desempenho das respectivas funções.
 
-###### Art. 4.º O artigo 51.º do Estatuto passa a ter a seguinte redacção:
+Art. 4.º O artigo 51.º do Estatuto passa a ter a seguinte redacção:
 
 ###### Artigo 51.º
 
@@ -368,16 +404,16 @@ O conselho de gerência porá à disposição do conselho geral, da comissão de
 
 3 - Os membros dos órgãos da empresa que tenham de se deslocar da localidade onde residam habitualmente para assistir a reuniões dos respectivos órgãos terão direito ao abono de ajudas de custo, de montante a fixar pelo conselho de gerência, e ao pagamento das despesas de transporte, de acordo com o que for regulamentado para os trabalhadores da empresa.
 
-###### Art. 5.º As referências feitas no Estatuto a ministros ou ministérios entendem-se feitas aos que lhes correspondam, em função das competências, na orgânica do Governo.
+Art. 5.º As referências feitas no Estatuto a ministros ou ministérios entendem-se feitas aos que lhes correspondam, em função das competências, na orgânica do Governo.
 
-###### Art. 6.º Na designação inicial dos membros do conselho regional referidos na alínea a) do n.º 1 do artigo 23.º do Estatuto da EDP, o Ministério da Administração Interna definirá a metade cujo mandato será, excepcionalmente, de 2 anos, com o fim de assegurar, findo esse biénio, a rotatividade prevista no n.º 5 daquele artigo.
+Art. 6.º Na designação inicial dos membros do conselho regional referidos na alínea a) do n.º 1 do artigo 23.º do Estatuto da EDP, o Ministério da Administração Interna definirá a metade cujo mandato será, excepcionalmente, de 2 anos, com o fim de assegurar, findo esse biénio, a rotatividade prevista no n.º 5 daquele artigo.
 
-###### Art. 7.º As dúvidas que se levantem na aplicação do presente decreto-lei, bem como dos Decretos-Leis n.os [344-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1982-621691) e [344-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-b-1982-621690), ambos de 1 de Setembro, que, com este, consubstanciam as medidas determinadas no n.º 10 da Resolução do Conselho de Ministros n.º 112/82, de 20 de Maio, publicada em 14 de Julho, serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação ou por despacho conjunto seu e dos ministros competentes na matéria, consoante a natureza das dúvidas.
+Art. 7.º As dúvidas que se levantem na aplicação do presente decreto-lei, bem como dos Decretos-Leis n.os [344-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1982-621691) e [344-B/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-b-1982-621690), ambos de 1 de Setembro, que, com este, consubstanciam as medidas determinadas no n.º 10 da Resolução do Conselho de Ministros n.º 112/82, de 20 de Maio, publicada em 14 de Julho, serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação ou por despacho conjunto seu e dos ministros competentes na matéria, consoante a natureza das dúvidas.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 5 de Outubro de 1982.**
+Promulgado em 5 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

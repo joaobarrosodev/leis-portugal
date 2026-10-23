@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25700/37373738.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1982-377948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2d8cf37721c0d00f7a49f95a2205389a7940805da1af1806c890a8c9307cb36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2525cd2c66b51556d30fd7a1231f1dfc54625bf8b9c863af1ba293ee5d6bd94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Português do Património Cultural
+- Literatura
+- Museu Nacional de Literatura
+- Orgânica
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:469378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469378:por
+  label: "Extinto o Museu pelo DEC LEI.89/97.1997.04.19.MC DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1997-469378
+  date: '1997-04-19'
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380742:por
+  label: Rectificado pela DECL.DD5882.26.11.1982.PCM, DR.IS [298] de 28.12.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-380742
+  date: '1982-11-26'
+- type: repealed_by
+  target: pt:dre:575493:por
+  label: "Revogado pelo DEC LEI.216/90.03.07.1990.PCM, DR.IS [151] de 03.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1990-575493
+  date: '1990-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:18Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +128,11 @@ A criação de um museu como este, cuja especificidade e novidade lhe darão uma
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado, na dependência técnica e administrativa do Instituto Português do Património Cultural, o Museu Nacional de Literatura.
+Artigo 1.º - 1 - É criado, na dependência técnica e administrativa do Instituto Português do Património Cultural, o Museu Nacional de Literatura.
 
 2 - O Museu Nacional de Literatura terá a sua sede na cidade do Porto.
 
-###### Art. 2.º - 1 - São atribuições do Museu Nacional de Literatura:
+Art. 2.º - 1 - São atribuições do Museu Nacional de Literatura:
 
 a) Recolher, preservar e incentivar o património literário português, nomeadamente os espólios dos escritores e movimentos literários culturalmente mais representativos;
 
@@ -122,7 +150,7 @@ g) Cooperar com outros museus ou casas-museus, nacionais ou estrangeiros, dando-
 
 2 - O Museu prossegue as suas atribuições nas áreas da museografia, da investigação e da acção cultural, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
-###### Art. 3.º Para prossecução das suas atribuições, o Museu Nacional de Literatura possuirá:
+Art. 3.º Para prossecução das suas atribuições, o Museu Nacional de Literatura possuirá:
 
 a) Um arquivo de espécies literárias manuscritas, tipografadas ou impressas por qualquer meio;
 
@@ -132,7 +160,7 @@ c) Uma discoteca, destinada a recolher gravações de escritores portugueses e o
 
 d) Uma filmoteca, com filmes relativos, directa ou indirectamente, à vida literária.
 
-###### Art. 4.º O Museu dispõe de um gabinete de estudos e documentação, ao qual compete:
+Art. 4.º O Museu dispõe de um gabinete de estudos e documentação, ao qual compete:
 
 a) A organização e a gestão da biblioteca e dos fundos documentais do Museu;
 
@@ -142,9 +170,9 @@ c) A recolha e o tratamento de elementos bibliográficos e documentais;
 
 d) A gestão dos serviços de consulta de documentos e permuta com outras instituições congéneres.
 
-###### Art. 5.º A direcção do Museu é assegurada por um director, provido nos termos do artigo 9.º
+Art. 5.º A direcção do Museu é assegurada por um director, provido nos termos do artigo 9.º
 
-###### Art. 6.º - 1 - É constituído um conselho científico e cultural, órgão de colaboração e consulta do director do Museu no exercício das suas atribuições, para efeitos de coordenação e planeamento das actividades científicas e culturais do Museu.
+Art. 6.º - 1 - É constituído um conselho científico e cultural, órgão de colaboração e consulta do director do Museu no exercício das suas atribuições, para efeitos de coordenação e planeamento das actividades científicas e culturais do Museu.
 
 2 - O conselho científico e cultural será constituído pelos seguintes membros:
 
@@ -160,32 +188,32 @@ e) 1 representante do Centro de Literatura da Universidade do Porto (INIC);
 
 f) Até 5 personalidades, de reconhecido mérito, designadas pelo Ministro da Cultura e Coordenação Científica.
 
-###### Art. 7.º - 1 - O conselho científico e cultural reunirá ordinariamente todos os meses e extraordinariamente sempre que for convocado pelo director do Museu.
+Art. 7.º - 1 - O conselho científico e cultural reunirá ordinariamente todos os meses e extraordinariamente sempre que for convocado pelo director do Museu.
 
 2 - O conselho só pode reunir com a presença da maioria dos seus membros.
 
 3 - As deliberações serão tomadas por maioria de votos dos membros presentes, tendo o director do Museu voto de qualidade.
 
-###### Art. 8.º O quadro do pessoal do Museu Nacional de Literatura é o constante do mapa anexo ao presente diploma.
+Art. 8.º O quadro do pessoal do Museu Nacional de Literatura é o constante do mapa anexo ao presente diploma.
 
-###### Art. 9.º O director do Museu Nacional de Literatura tem a categoria de director de serviços e será provido nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 9.º O director do Museu Nacional de Literatura tem a categoria de director de serviços e será provido nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
-###### Art. 10.º Os lugares de assessor, técnico superior, técnico auxiliar e auxiliar técnico de BAD serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+Art. 10.º Os lugares de assessor, técnico superior, técnico auxiliar e auxiliar técnico de BAD serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
-###### Art. 11.º Os lugares de conservador, monitor, assistente de conservador, técnico auxiliar de museografia, auxiliar de museografia e guarda de museu serão providos nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 11.º Os lugares de conservador, monitor, assistente de conservador, técnico auxiliar de museografia, auxiliar de museografia e guarda de museu serão providos nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
-###### Art. 12.º Os restantes lugares do quadro serão providos nos termos da lei geral.
+Art. 12.º Os restantes lugares do quadro serão providos nos termos da lei geral.
 
-###### Art. 13.º As dúvidas que se suscitarem na execução do presente diploma serão esclarecidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, consoante a natureza das matérias.
+Art. 13.º As dúvidas que se suscitarem na execução do presente diploma serão esclarecidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, consoante a natureza das matérias.
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Mapa a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25700/37373738.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25700/37373738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25700/37373738.pdf)

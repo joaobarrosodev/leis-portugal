@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10300/11811187.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,128 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1985-152301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:03:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14ff405c1d33640f3c12703be2ea5f68b96a9d15a508d80bf710962351ac01cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5444dd73b4a82ada5f98abff2e6f879c9f99437837269b945a4afdf6f9f6364e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Execução do Orçamento
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654545:por
+  label: null
+  source: null
 article_structure:
   article_count: 39
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:03:09Z'
   warnings: []
   errors: []
 ---
@@ -338,7 +426,7 @@ As despesas com os centros de medicina desportiva serão realizadas por cada um 
 
 ###### Artigo 33.º — (Benefícios fiscais relativos às empresas assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L.)
 
-**O Ministro das Finanças e do Plano poderá, durante o ano de 1985 e até à publicação da lei prevista no n.º 1 do artigo 12.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, conceder às empresas assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., de entre os benefícios fiscais previstos nas Leis n.os [36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193) e [39/79](https://diariodarepublica.pt/dr/detalhe/lei/39-1979-276583), ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.**
+O Ministro das Finanças e do Plano poderá, durante o ano de 1985 e até à publicação da lei prevista no n.º 1 do artigo 12.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, conceder às empresas assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., de entre os benefícios fiscais previstos nas Leis n.os [36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193) e [39/79](https://diariodarepublica.pt/dr/detalhe/lei/39-1979-276583), ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.
 
 ###### Artigo 34.º — (Imposto extraordinário sobre os lucros)
 
@@ -376,12 +464,12 @@ O presente diploma produz efeitos a partir da data da entrada em vigor da [Lei n
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Eduardo Manuel Bastos Ambar - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins - Carlos Montez Melancia - Júlio Miranda Calha - José de Almeida Serra.
 
-**Promulgado em 24 de Abril de 1985.**
+Promulgado em 24 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Abril de 1985.**
+Referendado em 30 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

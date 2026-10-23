@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 121/1984, 1º Suplemento, Série I de 1984-05-25
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1692-(3) a 1692-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12101/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9d5253b534cc40d010e853f3f8ea3d292865942dddd0f71bdfaf2661f92f677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c18aeb39d790076a384c8486750062845b9cac75c36bf9dcd77a705b553385b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Profissional
+- Imposto Profissional
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607284:por
+  label: Rectificado e publicados os modelos anexos ao presente diploma, pela DECL.DD5562.30.05.1984.PCM, DR.IS [126]2ºSupl
+    de 31.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-607284
+  date: '1984-05-30'
+- type: corrected_by
+  target: pt:dre:368391:por
+  label: Rectificado pela DECL.DD5479.05.07.1984.PCM, DR.IS [176]Supl de 31.07.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-368391
+  date: '1984-07-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:35Z'
   warnings: []
   errors: []
 ---
@@ -104,19 +127,19 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 14.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 7.º, 13.º, 15.º, 17.º, 20.º, 21.º, 28.º, 29.º, 32.º, 34.º, 40.º, 44.º, 45.º, 47.º, 49.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 7.º, 13.º, 15.º, 17.º, 20.º, 21.º, 28.º, 29.º, 32.º, 34.º, 40.º, 44.º, 45.º, 47.º, 49.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
-###### Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 14 vezes o salário mínimo nacional mais elevado que vigorar no ano a que respeitam os rendimentos.
+Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 14 vezes o salário mínimo nacional mais elevado que vigorar no ano a que respeitam os rendimentos.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 7.º A matéria colectável determinar-se-á com base nos elementos constantes da declaração modelo n.º 5 e de harmonia com as regras estabelecidas nos artigos 7.º-A, 10.º e seguintes.
+Art. 7.º A matéria colectável determinar-se-á com base nos elementos constantes da declaração modelo n.º 5 e de harmonia com as regras estabelecidas nos artigos 7.º-A, 10.º e seguintes.
 
 § único. ...
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 § 1.º ...
 
@@ -124,7 +147,7 @@ No uso da autorização conferida pelo artigo 14.º da [Lei n.º 42/83](https://
 
 § 2.º ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § 1.º ...
 
@@ -136,7 +159,7 @@ No uso da autorização conferida pelo artigo 14.º da [Lei n.º 42/83](https://
 
 § 5.º Na falta da comunicação prevista no parágrafo anterior, não será a reclamação apreciada pela comissão referida neste artigo.
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 § 1.º ...
 
@@ -144,7 +167,7 @@ No uso da autorização conferida pelo artigo 14.º da [Lei n.º 42/83](https://
 
 § 3.º No caso de não ter havido lugar a liquidação do imposto, será igualmente fixado o agravamento mínimo de 1000$00 previsto no parágrafo anterior.
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § 1.º ...
 
@@ -160,15 +183,15 @@ No uso da autorização conferida pelo artigo 14.º da [Lei n.º 42/83](https://
 
 § 7.º Quando o pedido de revisão a que se refere o § 2.º for totalmente desatendido, será fixado, a título de custas, um agravamento à colecta, graduado conforme as circunstâncias, nunca superior a 5% nem inferior a 1000$00.
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12101/00030006.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12101/00030006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12101/00030006.pdf)
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 28.º Os contribuintes que exerçam por conta própria actividades constantes da tabela anexa ficam obrigados a proceder à autoliquidação do imposto.
+Art. 28.º Os contribuintes que exerçam por conta própria actividades constantes da tabela anexa ficam obrigados a proceder à autoliquidação do imposto.
 
 § 1.º Quando os contribuintes apresentarem declaração em substituição da anteriormente entregue em consequência de erros ou omissões de que resultou pagamento de imposto inferior ao devido, ficam obrigados a proceder à autoliquidação adicional se a entrega da declaração se verificar até 31 de Março do ano seguinte àquele a que respeitam os rendimentos.
 
@@ -176,7 +199,7 @@ No uso da autorização conferida pelo artigo 14.º da [Lei n.º 42/83](https://
 
 § 3.º No caso de os contribuintes exercerem actividades por conta própria e igualmente actividades por conta de outrem e ou serem titulares de direitos de autor sobre obras intelectuais, deverão os mesmos proceder ao cálculo do imposto devido relativamente ao rendimento global, abatendo as importâncias porventura já deduzidas ou entregues nos termos dos artigos 26.º e 27.º e do § 2.º do artigo 29.º
 
-###### Art. 29.º A importância referida no artigo 26.º será entregue nos cofres do Estado, por meio de guia modelo n.º 6, nos prazos a seguir indicados:
+Art. 29.º A importância referida no artigo 26.º será entregue nos cofres do Estado, por meio de guia modelo n.º 6, nos prazos a seguir indicados:
 
 a) ...
 
@@ -188,15 +211,15 @@ c) ...
 
 § 2.º ...
 
-###### Art. 32.º Apurado o rendimento colectável, proceder-se-á ao cálculo do imposto no verbete individual, devendo abater-se as importâncias porventura já deduzidas a cada contribuinte ou entregues nos termos dos artigos 26.º e 27.º e do § 2.º do artigo 29.º, bem como as liquidadas e pagas nos termos do artigo 28.º, §§ 1.º e 2.º, e do § único do artigo 40.º, e fazer-se a liquidação pela diferença, se a houver.
+Art. 32.º Apurado o rendimento colectável, proceder-se-á ao cálculo do imposto no verbete individual, devendo abater-se as importâncias porventura já deduzidas a cada contribuinte ou entregues nos termos dos artigos 26.º e 27.º e do § 2.º do artigo 29.º, bem como as liquidadas e pagas nos termos do artigo 28.º, §§ 1.º e 2.º, e do § único do artigo 40.º, e fazer-se a liquidação pela diferença, se a houver.
 
-###### Art. 34.º Na repartição de finanças competente para a liquidação deverá organizar-se um processo por cada contribuinte em que se incorporem as declarações modelos n.os 1 e 5, assim como os demais elementos individuais respeitantes a este imposto.
+Art. 34.º Na repartição de finanças competente para a liquidação deverá organizar-se um processo por cada contribuinte em que se incorporem as declarações modelos n.os 1 e 5, assim como os demais elementos individuais respeitantes a este imposto.
 
-###### Art. 40.º O imposto liquidado nos termos do artigo 32.º deverá ser pago durante o mês de Julho, cobrando-se conjuntamente a importância do agravamento a que se refere o § 2.º do artigo 17.º, devendo a cobrança do agravamento previsto no § 3.º do artigo 17.º e no § 7.º do artigo 20.º fazer-se eventualmente.
+Art. 40.º O imposto liquidado nos termos do artigo 32.º deverá ser pago durante o mês de Julho, cobrando-se conjuntamente a importância do agravamento a que se refere o § 2.º do artigo 17.º, devendo a cobrança do agravamento previsto no § 3.º do artigo 17.º e no § 7.º do artigo 20.º fazer-se eventualmente.
 
 § único. O imposto liquidado nos termos do artigo 28.º e seus §§ 1.º e 2.º será pago na data da entrega da declaração modelo n.º 5, mediante conhecimento de cobrança modelo n.º 7, processado em triplicado, considerando-se sem efeito a declaração apresentada no caso de falta de pagamento naquela data.
 
-###### Art. 44.º ...
+Art. 44.º ...
 
 a) ...
 
@@ -204,11 +227,11 @@ b) ...
 
 c) Os empresários, proprietários ou titulares de casas, instalações ou recintos onde actuem as pessoas referidas no artigo 27.º são directa e solidariamente responsáveis pelo imposto e multa devidos sempre que se verifique a falta de pagamento do imposto antes da realização do espectáculo.
 
-###### Art. 45.º Se os contribuintes, salvo os referidos no artigo 6.º-A, cessarem a sua actividade e quiserem pagar imediatamente o imposto devido até então, este será logo liquidado para cobrança eventual, com base nos rendimentos constantes da declaração modelo n.º 5 a apresentar para esse efeito, sem prejuízo, porém, quer de rectificação ulterior dessa declaração, quer do cumprimento do disposto no artigo 6.º relativamente a rendimentos que só venham a ser-lhes pagos ou atribuídos nos anos subsequentes.
+Art. 45.º Se os contribuintes, salvo os referidos no artigo 6.º-A, cessarem a sua actividade e quiserem pagar imediatamente o imposto devido até então, este será logo liquidado para cobrança eventual, com base nos rendimentos constantes da declaração modelo n.º 5 a apresentar para esse efeito, sem prejuízo, porém, quer de rectificação ulterior dessa declaração, quer do cumprimento do disposto no artigo 6.º relativamente a rendimentos que só venham a ser-lhes pagos ou atribuídos nos anos subsequentes.
 
 § único ...
 
-###### Art. 47.º Durante os meses de Janeiro e Fevereiro de cada ano as pessoas referidas no artigo anterior deverão apresentar, na repartição de finanças do concelho ou bairro a que alude o artigo 29.º, relação nominal, em duplicado, acompanhada de notas individuais, em singelo, conforme modelos n.os 8 e 8-A, das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º a quem, no ano anterior, hajam pago ou atribuído remunerações ou rendimentos, ainda que não tenha havido lugar a dedução de imposto.
+Art. 47.º Durante os meses de Janeiro e Fevereiro de cada ano as pessoas referidas no artigo anterior deverão apresentar, na repartição de finanças do concelho ou bairro a que alude o artigo 29.º, relação nominal, em duplicado, acompanhada de notas individuais, em singelo, conforme modelos n.os 8 e 8-A, das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º a quem, no ano anterior, hajam pago ou atribuído remunerações ou rendimentos, ainda que não tenha havido lugar a dedução de imposto.
 
 A relação será organizada por ordem alfabética dos contribuintes e dela deverão constar as remunerações ou rendimentos ilíquidos, a importância deduzida e a soma desta, bem como a designação e residência ou sede da entidade responsável.
 
@@ -220,11 +243,11 @@ As notas individuais indicarão, além dos elementos contidos na relação model
 
 § 3.º ...
 
-###### Art. 49.º Os chefes, directores, administradores ou outros responsáveis dos serviços públicos, civis ou militares, das pessoas colectivas de utilidade pública administrativa, dos sindicatos ou outros organismos representativos das categorias profissionais, das associações patronais e de quaisquer outras entidades públicas, de sociedades e organizações ou associações privadas, bem como os donos de empresas em nome individual e as pessoas que exerçam por conta própria alguma das actividades constantes da tabela anexa, comunicarão à repartição de finanças da área da respectiva sede ou domicílio, durante os meses de Janeiro e Fevereiro, as remunerações que por eles foram atribuídas no ano anterior às pessoas abrangidas pela alínea c) do artigo 2.º
+Art. 49.º Os chefes, directores, administradores ou outros responsáveis dos serviços públicos, civis ou militares, das pessoas colectivas de utilidade pública administrativa, dos sindicatos ou outros organismos representativos das categorias profissionais, das associações patronais e de quaisquer outras entidades públicas, de sociedades e organizações ou associações privadas, bem como os donos de empresas em nome individual e as pessoas que exerçam por conta própria alguma das actividades constantes da tabela anexa, comunicarão à repartição de finanças da área da respectiva sede ou domicílio, durante os meses de Janeiro e Fevereiro, as remunerações que por eles foram atribuídas no ano anterior às pessoas abrangidas pela alínea c) do artigo 2.º
 
 A comunicação será feita por meio de notas individuais do modelo n.º 9, em duplicado, agrupadas por repartições de finanças e por ordem alfabética dos contribuintes.
 
-###### Art. 59.º A falta ou inexactidão das declarações ou relações e das notas a que se referem os artigos 6.º, 6.º-A, 27.º-A, 45.º-A e 47.º, bem como as omissões nelas praticadas, será punida, no caso de simples negligência, com a multa de 200$00 a 50000$00 e, tratando-se da falta de entrega da declaração modelo n.º 5 ou de pagamento do imposto nos casos previstos no artigo 28.º e no § único do artigo 40.º, com a multa igual a metade do imposto devido, no mínimo de 250$00.
+Art. 59.º A falta ou inexactidão das declarações ou relações e das notas a que se referem os artigos 6.º, 6.º-A, 27.º-A, 45.º-A e 47.º, bem como as omissões nelas praticadas, será punida, no caso de simples negligência, com a multa de 200$00 a 50000$00 e, tratando-se da falta de entrega da declaração modelo n.º 5 ou de pagamento do imposto nos casos previstos no artigo 28.º e no § único do artigo 40.º, com a multa igual a metade do imposto devido, no mínimo de 250$00.
 
 § 1.º ...
 
@@ -232,33 +255,33 @@ A comunicação será feita por meio de notas individuais do modelo n.º 9, em d
 
 § 3.º ...
 
-###### Art. 2.º São aditados os artigos 6.º-A, 27.º-A, 43.º-A, 44.º-A, 45.º-A e 54.º-B ao Código do Imposto Profissional, sendo o artigo 45.º-A integrado no capítulo VII «Fiscalização» do mesmo Código, com a redacção seguinte:
+Art. 2.º São aditados os artigos 6.º-A, 27.º-A, 43.º-A, 44.º-A, 45.º-A e 54.º-B ao Código do Imposto Profissional, sendo o artigo 45.º-A integrado no capítulo VII «Fiscalização» do mesmo Código, com a redacção seguinte:
 
-###### Art. 6.º-A No caso de cessação total do exercício por conta própria das actividades constantes da tabela anexa, deverão os contribuintes apresentar, no prazo de 30 dias, a declaração a que se refere o artigo anterior, sem prejuízo do disposto na parte final do corpo do artigo 45.º
+Art. 6.º-A No caso de cessação total do exercício por conta própria das actividades constantes da tabela anexa, deverão os contribuintes apresentar, no prazo de 30 dias, a declaração a que se refere o artigo anterior, sem prejuízo do disposto na parte final do corpo do artigo 45.º
 
 § único. Se a cessação da actividade se verificar por motivo de falecimento do contribuinte, a declaração incumbirá ao cabeça-de-casal, o qual, porém, ficará dela dispensado se tiver sido feita, nos devidos termos, por qualquer interessado.
 
-###### Art. 27.º-A As pessoas a quem competir o pagamento ou a atribuição de remunerações, nos termos do artigo anterior, são obrigadas a entregar o imposto devido mediante guia modelo n.º 6 na tesouraria da Fazenda Pública da área do seu domicílio ou sede antes do exercício da actividade contratada.
+Art. 27.º-A As pessoas a quem competir o pagamento ou a atribuição de remunerações, nos termos do artigo anterior, são obrigadas a entregar o imposto devido mediante guia modelo n.º 6 na tesouraria da Fazenda Pública da área do seu domicílio ou sede antes do exercício da actividade contratada.
 
 § 1.º Com a guia modelo n.º 6 será apresentada uma declaração conforme o modelo n.º 5-A, em duplicado, na respectiva repartição de finanças.
 
 § 2.º Quando, face a informação dos serviços de fiscalização devidamente fundamentada e quaisquer outros elementos de que disponha, se verifique divergência com o rendimento declarado, o rendimento será determinado nos termos do artigo 11.º e seguintes, com as necessárias adaptações.
 
-###### Art. 43.º-A No caso de cessação total do exercício por conta própria das actividades constantes da tabela anexa, o contribuinte será notificado pela forma prevista no § 3.º do artigo 15.º para pagar o imposto ou satisfazer a diferença no prazo de 15 dias.
+Art. 43.º-A No caso de cessação total do exercício por conta própria das actividades constantes da tabela anexa, o contribuinte será notificado pela forma prevista no § 3.º do artigo 15.º para pagar o imposto ou satisfazer a diferença no prazo de 15 dias.
 
 § único. Se o pagamento não for efectuado no prazo estabelecido neste artigo, proceder-se-á à cobrança vritual, sem prejuízo do direito de reclamação e impugnação, devendo então o pagamento efectuar-se durante o mês seguinte ao do débito ao tesoureiro.
 
-###### Art. 44.º-A As pessoas referidas no artigo 2.º não residentes no território nacional são obrigadas a designar uma pessoa singular ou colectiva com domicílio ou sede no continente ou nos arquipélagos dos Açores e da Madeira para as representar junto da administração fiscal, relativamente ao cumprimento das suas obrigações fiscais e ao pagamento do imposto devido.
+Art. 44.º-A As pessoas referidas no artigo 2.º não residentes no território nacional são obrigadas a designar uma pessoa singular ou colectiva com domicílio ou sede no continente ou nos arquipélagos dos Açores e da Madeira para as representar junto da administração fiscal, relativamente ao cumprimento das suas obrigações fiscais e ao pagamento do imposto devido.
 
 § 1.º A designação do representante será participada à repartição de finanças da área do seu domicílio ou sede antes do início da actividade ou da realização de qualquer dos actos a que se refere o artigo 27.º, acompanhada de uma declaração, em papel comum, emitida pelo representante e autenticada por notário, donde conste a aceitação expressa relativa à representação e a responsabilidade pelas obrigações tributarias.
 
-###### Art. 45.º-A As pessoas singulares que exerçam por conta própria alguma das actividades constantes da tabela anexa deverão apresentar uma declaração modelo n.º 1 na repartição de finanças da área do seu domicílio, quando o tenham no continente ou nos arquipélagos dos Açores e da Madeira. Não tendo aí domicílio, mas apenas escritório, consultório ou estabelecimento, a declaração será entregue na repartição de finanças da respectiva área.
+Art. 45.º-A As pessoas singulares que exerçam por conta própria alguma das actividades constantes da tabela anexa deverão apresentar uma declaração modelo n.º 1 na repartição de finanças da área do seu domicílio, quando o tenham no continente ou nos arquipélagos dos Açores e da Madeira. Não tendo aí domicílio, mas apenas escritório, consultório ou estabelecimento, a declaração será entregue na repartição de finanças da respectiva área.
 
 § único. A declaração será feita em duplicado e entregue na repartição de finanças respectiva no prazo de 15 dias antes do início do exercício da actividade.
 
-###### Art. 54.º-B No caso de não se mostrar cumprido o disposto no artigo 27.º-A, o chefe da repartição de finanças em cuja área sejam anunciados espectáculos, conferências ou reuniões solicitará a intervenção das autoridades policiais no sentido de impedir a sua realização.
+Art. 54.º-B No caso de não se mostrar cumprido o disposto no artigo 27.º-A, o chefe da repartição de finanças em cuja área sejam anunciados espectáculos, conferências ou reuniões solicitará a intervenção das autoridades policiais no sentido de impedir a sua realização.
 
-###### Art. 3.º São aditadas à tabela das actividades exercidas por conta própria, referida no artigo 2.º, alínea c), do Código do Imposto Profissional, as actividades de médico dentista e manequim, com as correspondentes deduções mínimas e fixas, a que se referem, respectivamente, os n.os 1.º e 2.º do artigo 10.º do mesmo Código, passando a actividade de dentista para 8.13, nos termos seguintes:
+Art. 3.º São aditadas à tabela das actividades exercidas por conta própria, referida no artigo 2.º, alínea c), do Código do Imposto Profissional, as actividades de médico dentista e manequim, com as correspondentes deduções mínimas e fixas, a que se referem, respectivamente, os n.os 1.º e 2.º do artigo 10.º do mesmo Código, passando a actividade de dentista para 8.13, nos termos seguintes:
 
 8.12 - Médicos dentistas - 22% e 14%;
 
@@ -266,17 +289,17 @@ A comunicação será feita por meio de notas individuais do modelo n.º 9, em d
 
 15.14 - Manequim - 8% e 6%.
 
-###### Art. 4.º São criadas as declarações modelos n.º 1, n.º 5 e n.º 5-A anexas a este diploma, as quais passarão a fazer parte do Código do Imposto Profissional.
+Art. 4.º São criadas as declarações modelos n.º 1, n.º 5 e n.º 5-A anexas a este diploma, as quais passarão a fazer parte do Código do Imposto Profissional.
 
-###### Art. 5.º A referência feita à declaração modelo n.º 1 nos diversos artigos do Código do Imposto Profissional, com a redacção anterior à vigência do presente decreto-lei, entender-se-á como sendo à declaração modelo n.º 5.
+Art. 5.º A referência feita à declaração modelo n.º 1 nos diversos artigos do Código do Imposto Profissional, com a redacção anterior à vigência do presente decreto-lei, entender-se-á como sendo à declaração modelo n.º 5.
 
-###### Art. 6.º - 1 - Os contribuintes que estejam exercendo por conta própria alguma das actividades constantes da tabela anexa ao Código do Imposto Profissional e tenham já apresentado, na repartição de finanças da área do actual domicílio, a declaração de rendimentos do antigo modelo n.º 1 são dispensados de entregar a declaração referida no artigo 45.º-A do mesmo Código.
+Art. 6.º - 1 - Os contribuintes que estejam exercendo por conta própria alguma das actividades constantes da tabela anexa ao Código do Imposto Profissional e tenham já apresentado, na repartição de finanças da área do actual domicílio, a declaração de rendimentos do antigo modelo n.º 1 são dispensados de entregar a declaração referida no artigo 45.º-A do mesmo Código.
 
 2 - Os contribuintes, nas condições previstas no número precedente que nunca entregaram na repartição de finanças da área do seu actual domicílio a declaração de rendimentos do antigo modelo n.º 1 deverão apresentar no prazo de 60 dias, a contar da entrada em vigor deste diploma, naquela repartição de finanças a declaração a que se refere o citado artigo 45.º-A.
 
 3 - O não cumprimento do disposto no número anterior será punido nos termos do artigo 59.º do Código do Imposto Profissional.
 
-###### Art. 7.º - 1 - As alterações introduzidas nos artigos 5.º e 21.º do Código do Imposto Profissional e, bem assim, na tabela a que se refere o artigo 2.º, alínea c), do mesmo Código, nos termos dos artigos 1.º e 3.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1984 e seguintes.
+Art. 7.º - 1 - As alterações introduzidas nos artigos 5.º e 21.º do Código do Imposto Profissional e, bem assim, na tabela a que se refere o artigo 2.º, alínea c), do mesmo Código, nos termos dos artigos 1.º e 3.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1984 e seguintes.
 
 2 - As importâncias que, por virtude das alterações referidas no número anterior, se considerem a mais ou a menos deduzidas e entregues nos cofres do Estado nos termos dos artigos 26.º, 27.º e 29.º do Código serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações ou rendimentos a pagar ou a atribuir até ao fim do ano em curso.
 
@@ -284,12 +307,12 @@ A comunicação será feita por meio de notas individuais do modelo n.º 9, em d
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1984. - Mário Soares - Ernâni Rodrigues Lopes.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Maio de 1984.**
+Referendado em 9 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

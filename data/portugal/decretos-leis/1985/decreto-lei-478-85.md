@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1985-172084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc23f9698533cc96588a378af7898cb87c41cb0e142d6c9cbdc07cb541940f85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edb2ef0a05dde3cdad824da0b472d62e197e2dbc5066cabb478769550fdae8d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- TAP
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:46Z'
   warnings: []
   errors: []
 ---
@@ -93,34 +106,34 @@ Assim, ouvidos os órgãos de governo próprio das Regiões Autónomas da Madeir
 
 O Governo decreta, nos termos da alínea a) do n.º do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para os efeitos deste diploma, considera-se:
+Artigo 1.º Para os efeitos deste diploma, considera-se:
 
 a) Transporte aéreo regular - séries de voos comerciais abertos ao público e operados para transporte entre dois ou mais pontos, com uma frequência regular conforme com um horário previamente estabelecido e aprovado;
 
 b) Tarifa - preço do transporte de passageiros, bagagens e mercadorias e as condições em que aquele se aplica, incluindo os preços e condições referentes aos serviços de agência e outros serviços auxiliares.
 
-###### Art. 2.º São aprovadas pelo Ministro do Equipamento Social as tarifas de transporte aéreo regular a aplicar em serviços entre o continente e as Regiões Autónomas da Madeira e dos Açores ou entre estas regiões, no que respeita a tarifas de nível superior à tarifa económica normal.
+Art. 2.º São aprovadas pelo Ministro do Equipamento Social as tarifas de transporte aéreo regular a aplicar em serviços entre o continente e as Regiões Autónomas da Madeira e dos Açores ou entre estas regiões, no que respeita a tarifas de nível superior à tarifa económica normal.
 
-###### Art. 3.º São aprovadas por portaria, nos termos dos Decretos-Leis n.os [329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231) e [75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), as tarifas entre o continente e as regiões autónomas e entre estas regiões não previstas no artigo anterior.
+Art. 3.º São aprovadas por portaria, nos termos dos Decretos-Leis n.os [329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231) e [75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), as tarifas entre o continente e as regiões autónomas e entre estas regiões não previstas no artigo anterior.
 
-###### Art. 4.º As competências referidas no artigo 2.º poderão ser delegadas no director-geral da Aviação Civil.
+Art. 4.º As competências referidas no artigo 2.º poderão ser delegadas no director-geral da Aviação Civil.
 
-###### Art. 5.º - 1 - As propostas para aprovação das tarifas previstas neste diploma deverão ser apresentadas, acompanhadas da respectiva justificação económica, na Direcção-Geral da Aviação Civil, nos prazos estabelecidos nos acordos e convenções de que Portugal é parte ou, na sua ausência, até 60 dias antes da data prevista para a sua entrada em vigor.
+Art. 5.º - 1 - As propostas para aprovação das tarifas previstas neste diploma deverão ser apresentadas, acompanhadas da respectiva justificação económica, na Direcção-Geral da Aviação Civil, nos prazos estabelecidos nos acordos e convenções de que Portugal é parte ou, na sua ausência, até 60 dias antes da data prevista para a sua entrada em vigor.
 
 2 - Em casos devidamente justificados poderão ser aceites propostas fora dos prazos estabelecidos no número anterior.
 
 3 - Nenhuma tarifa pode ser aplicada sem prévia aprovação.
 
-###### Art. 6.º São revogadas todas as disposições legais, gerais ou especiais, que contrariem o disposto no presente diploma.
+Art. 6.º São revogadas todas as disposições legais, gerais ou especiais, que contrariem o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias - Joaquim Martins Ferreira do Amaral - Carlos Montez Melancia.
 
-**Promulgado em 28 de Outubro de 1985.**
+Promulgado em 28 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Outubro de 1985.**
+Referendado em 30 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

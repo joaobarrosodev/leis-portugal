@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/01400/01160121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1982-601290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6aa3ced4f1b1ec7d035a63ea400f939756ab8a9829754d046638e03977bf9991
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: add48ff276ab4d86a4fe36823bc62cb3e630010a07cc2f2218f781563642182e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Segurança Social
+- Trabalhador Independente
 relationships:
 - type: amended_by
   target: pt:dre:189476:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391868:por
+  label: "Alterados os artigos 13.º e 14.º, pelo DEC LEI.216/82.31.05.1982.MAS, DR.IS [123] de 31.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1982-391868
+  date: '1982-05-31'
+- type: amended_by
+  target: pt:dre:311466:por
+  label: "Alterado o artigo 26.º, pelo DEC LEI.163/83.27.04.1983.MJ, DR.IS [96] de 27.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1983-311466
+  date: '1983-04-27'
+- type: amended_by
+  target: pt:dre:443286:por
+  label: "Alterado o artigo 26.º, com as modificações introduzidas no Decreto-Lei n.º 163/83, de 24 de Abril, pelo DEC LEI.431/83.13.12.1983.MTSS,\
+    \ DR.IS [285] de 13.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/431-1983-443286
+  date: '1983-12-13'
+- type: amended_by
+  target: pt:dre:385426:por
+  label: "Alterado o artigo 26.º, na redacção dada no Decreto-Lei n.º 163/83, de 27 de Abril, pelo pelo DEC LEI.221/84.04.07.1984.MTSS,\
+    \ DR.IS [153] de 04.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-1984-385426
+  date: '1984-07-04'
+- type: amended_by
+  target: pt:dre:554608:por
+  label: "Prorrogada a vigência das bases de incidência contributiva constantes do presente diploma, pelo DEC LEI.311/90.01.10.1990.MESS,\
+    \ DR.IS [227] de 01.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1990-554608
+  date: '1990-10-01'
+- type: cites
+  target: pt:dre:140288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579159:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221762:por
+  label: "Revogadas as normas e a legisla&#231;&#227;o complementar, pelo DEC LEI.307/86.22.09.1986.MTSS, DR.IS [218] de 22.09.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1986-221762
+  date: '1986-09-22'
+- type: repealed_by
+  target: pt:dre:612243:por
+  label: Revogado, a partir de 01.05.1989, o n.º 2 do art. 25.º do presente diploma pelo(a) Decreto-Lei n.º 64/89 - Diário
+    da República n.º 47/1989, Série I de 1989-02-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1989-612243
+  date: '1989-02-25'
+- type: repealed_by
+  target: pt:dre:653124:por
+  label: "Revogado pelo DEC LEI.328/93.25.09.1993.MESS, DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1993-653124
+  date: '1993-09-25'
 article_structure:
   article_count: 30
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:44Z'
   warnings: []
   errors: []
 ---
@@ -298,7 +381,7 @@ O pagamento das contribuições dos beneficiários referidos nesta secção far-
 
 ###### Artigo 22.º — (Regime transitório de contribuições)
 
-**O Ministro dos Assuntos Sociais poderá estabelecer por despacho, para certos grupos de beneficiários, taxas de contribuições inferiores às estabelecidas no capítulo III deste diploma, a vigorar por um período determinado, nos casos em que se mostre conveniente à transição do regime estabelecido na legislação referida no artigo 29.º**
+O Ministro dos Assuntos Sociais poderá estabelecer por despacho, para certos grupos de beneficiários, taxas de contribuições inferiores às estabelecidas no capítulo III deste diploma, a vigorar por um período determinado, nos casos em que se mostre conveniente à transição do regime estabelecido na legislação referida no artigo 29.º
 
 ###### Artigo 23.º — (Gestão do regime)
 
@@ -358,8 +441,8 @@ O presente diploma entra em vigor no dia 1 de Fevereiro de 1982.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 31 de Dezembro de 1981.**
+Promulgado em 31 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1983-309905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 190d47b916281119e9cd78a0ea13af04f9928fb33a3175b8c0e254b5396c6dfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 064a2f51db4e59d46d953d8fdcf100526fd0fc9d74a8acafb8dae60fa5a415be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Petróleo
+- Porto de Sines
+- TAXA de Utilização
 relationships:
 - type: amended_by
   target: pt:dre:416073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:416073:por
+  label: "Revogados os arts. 1º, 2º e 3º, pelo DEC LEI.261-A/91.1991.07.25.MF, DR.IS-A [169]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-a-1991-416073
+  date: '1991-07-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:38Z'
   warnings: []
   errors: []
 ---
@@ -102,28 +110,28 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada uma taxa sobre mercadoria pela utilização do porto de Sines, incidindo sobre as ramas de petróleo bruto entradas no porto.
+Artigo 1.º É criada uma taxa sobre mercadoria pela utilização do porto de Sines, incidindo sobre as ramas de petróleo bruto entradas no porto.
 
-###### Art. 2.º - 1 - As ramas de petróleo bruto entradas no porto de Sines e destinadas à refinação ficam sujeitas ao pagamento de uma taxa por tonelada métrica, que será fixada através da portaria a que alude o artigo 4.º do presente diploma.
+Art. 2.º - 1 - As ramas de petróleo bruto entradas no porto de Sines e destinadas à refinação ficam sujeitas ao pagamento de uma taxa por tonelada métrica, que será fixada através da portaria a que alude o artigo 4.º do presente diploma.
 
 2 - O transhipment de ramas de petróleo bruto ou produtos refinados especiais fica igualmente sujeito ao pagamento de uma taxa sobre mercadoria, a estabelecer pela portaria a que se refere o número anterior, distinguindo entre a operação que utilize as instalações do porto daquela que se efectue ao largo.
 
-###### Art. 3.º - 1 - O produto da cobrança das taxas referidas no artigo 2.º deste diploma constitui receita da Administração do Porto de Sines, que esta entregará, até ao dia 10 do mês seguinte ao da respectiva cobrança, nos cofres do Tesouro, mediante guia de operações de tesouraria e escriturada em conta especial, criada para o efeito.
+Art. 3.º - 1 - O produto da cobrança das taxas referidas no artigo 2.º deste diploma constitui receita da Administração do Porto de Sines, que esta entregará, até ao dia 10 do mês seguinte ao da respectiva cobrança, nos cofres do Tesouro, mediante guia de operações de tesouraria e escriturada em conta especial, criada para o efeito.
 
 2 - Através de despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes, será fixada a parte do produto da cobrança, depositado em operações de tesouraria, a que se refere o n.º 1 do presente artigo, a entregar ao Gabinete da Área de Sines a fim de habilitar este organismo, no âmbito do seu orçamento privativo, a fazer face aos encargos resultantes dos investimentos portuários, bem como será estabelecida a aplicação da quantia remanescente.
 
-###### Art. 4.º - 1 - A criação de taxas, bem como as alterações e excepções a considerar e a regulamentação do tarifário da administração do porto de Sines serão objecto de portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Indústria, Energia e Exportação e da Habitação, Obras Públicas e Transportes.
+Art. 4.º - 1 - A criação de taxas, bem como as alterações e excepções a considerar e a regulamentação do tarifário da administração do porto de Sines serão objecto de portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Indústria, Energia e Exportação e da Habitação, Obras Públicas e Transportes.
 
 2 - Enquanto não for publicada a portaria referida no número anterior, continuam a ser aplicadas as taxas que têm vigorado no porto de Sines.
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Ricardo Manuel Simões Bayão Horta - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 10 de Fevereiro de 1983.**
+Promulgado em 10 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Fevereiro de 1983.**
+Referendado em 23 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

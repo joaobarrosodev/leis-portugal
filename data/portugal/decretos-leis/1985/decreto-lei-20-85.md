@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01400/01250133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1985-328843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af8986b38deb010ceb32af051cfa0a1020aae29a888fce6ece867a3b482b43fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67c73a61185d697e8ce9f53b0da435ed276e49e2e4beaebf39a36064cb0c830d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desemprego
+- Segurança Social
+- Seguro de Desemprego
+- Subsídio de Desemprego
 relationships:
 - type: amended_by
   target: pt:dre:632907:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661126:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:144053:por
+  label: Rectificado pela DECL.DD4780.31.01.1985.PCM, DR.IS [26]2.º Supl de 31.01.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-144053
+  date: '1985-01-31'
+- type: corrected_by
+  target: pt:dre:495126:por
+  label: Rectificado pela DECL.DD4902.03.05.1985.PCM, DR.IS [125-Supl] de 31.05.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-495126
+  date: '1985-05-03'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ARTIGO 26 PELO DECRETO LEI 64/89, DE 25 DE FEVEREIRO, PUBLICADO NO DR.IS, 47.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-02-25'
+- type: repealed_by
+  target: pt:dre:612243:por
+  label: Revogado, a partir de 01.05.1989, o art. 26.º do presente diploma pelo(a) Decreto-Lei n.º 64/89 - Diário da República
+    n.º 47/1989, Série I de 1989-02-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1989-612243
+  date: '1989-02-25'
+- type: repealed_by
+  target: pt:dre:632907:por
+  label: "Revogado, a partir de 28.06.1989, pelo DEC LEI.79-A/89.13.03.1989.MESS, DR.IS [60-Supl] de 13.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-a-1989-632907
+  date: '1989-03-13'
 article_structure:
   article_count: 46
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:04Z'
   warnings: []
   errors: []
 ---
@@ -538,12 +584,12 @@ O presente diploma entra em vigor no dia 1 de Fevereiro de 1985.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo.
 
-**Promulgado em 9 de Janeiro de 1985.**
+Promulgado em 9 de Janeiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Janeiro de 1985.**
+Referendado em 10 de Janeiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

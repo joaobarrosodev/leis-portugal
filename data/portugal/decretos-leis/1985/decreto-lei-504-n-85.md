@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1985, 5º Suplemento, Série I de 1985-12-30
   number: '300'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 4252-(41) a 4252-(52)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,30 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-n-1985-250671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83da64e6578a4708d27b0839de562b751f7d2520cc7474f3f1014cd9066f81c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02d257560d86316d0f36c97810e02228accd4726d66c8a95465d1af88f9f38ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Dívidas
+- Feoga
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 29 PELO DECRETO 186/89, DE 3 DE JUNHO, PUBLICADO NO DR.IS, 127.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-06-03'
+- type: amended_by
+  target: pt:dre:609830:por
+  label: "Alterado o art. 29º pelo DEC LEI.186/89.03.06.1989.MF, DR.IS [[127]] de 03.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1989-609830
+  date: '1989-06-03'
+- type: amended_by
+  target: pt:dre:276021:por
+  label: "Alterado o art. 2º pelo DEC LEI.69/94.1994.03.03.MF. DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1994-276021
+  date: '1994-03-03'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
 - type: cites
   target: celex:31970D0243
   label: null
@@ -79,16 +102,26 @@ relationships:
   target: celex:31976L0308
   label: null
   source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:438041:por
+  label: "Revogado, ressalvando a manutenção da Comissão Interministerial nos termos do art. 33.º, pelo DEC LEI.296/2003.21.11.2003.MF,\
+    \ DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-2003-438041
+  date: '2003-11-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:24Z'
   warnings: []
   errors: []
 ---
@@ -107,13 +140,13 @@ O Governo decreta, ao abrigo da alínea f) do artigo 30.º da [Lei n.º 2-B/85](
 
 ## TÍTULO I — Disposições gerais
 
-###### Artigo 1.º O presente decreto-lei estabelece as regras a observar com vista a:
+Artigo 1.º O presente decreto-lei estabelece as regras a observar com vista a:
 
 a) Assegurar, a pedido de um Estado membro da Comunidade Económica Europeia, a cobrança em território nacional dos créditos referidos no artigo 2.º e constituídos nesse Estado membro;
 
 b) Solicitar a cobrança, em território de outro Estado membro, dos créditos referidos no mesmo artigo e constituídos em território nacional.
 
-###### Art. 2.º O presente decreto-lei aplica-se a todos os créditos correspondentes:
+Art. 2.º O presente decreto-lei aplica-se a todos os créditos correspondentes:
 
 a) Às restituições, intervenções e outras medidas que fazem parte do sistema de financiamento integral ou parcial do Fundo Europeu de Orientação e de Garantia Agrícola, incluindo as importâncias a receber no âmbito destas acções;
 
@@ -125,7 +158,7 @@ d) Ao imposto sobre o valor acrescentado, nos termos do artigo 374.º do Acto de
 
 e) Às despesas e juros relativos à cobrança dos créditos acima indicados.
 
-###### Art. 3.º - 1 - Nos termos do presente decreto-lei, entende-se por:
+Art. 3.º - 1 - Nos termos do presente decreto-lei, entende-se por:
 
 a) «Autoridade requerente», a autoridade competente de um Estado membro que formula um pedido de assistência relativo a um crédito referido no artigo 2.º;
 
@@ -139,7 +172,7 @@ b) «Autoridade requerida», a autoridade competente de um Estado membro à qual
 
 ### CAPÍTULO I — Pedido de informações formulado por uma autoridade competente de outro Estado membro
 
-###### Art. 4.º - 1 - A Comissão comunicará à autoridade requerente as informações por esta solicitadas com vista à cobrança de um crédito constituído no Estado membro onde a referida autoridade tem a sua sede.
+Art. 4.º - 1 - A Comissão comunicará à autoridade requerente as informações por esta solicitadas com vista à cobrança de um crédito constituído no Estado membro onde a referida autoridade tem a sua sede.
 
 2 - Quando receber um pedido de comunicação de informações, a Comissão deverá verificar se o mesmo:
 
@@ -151,7 +184,7 @@ c) Indica o nome e a morada da pessoa a que respeitam as informações a fornece
 
 3 - A Comissão acusará a recepção do pedido de informações por escrito e, sempre que possível, por telex, o mais tardar até ao sétimo dia seguinte ao da referida recepção.
 
-###### Art. 5.º - 1 - A Comissão não é obrigada a transmitir as informações:
+Art. 5.º - 1 - A Comissão não é obrigada a transmitir as informações:
 
 a) Que não esteja em condições de obter para a cobrança de créditos similares constituídos em território nacional;
 
@@ -163,7 +196,7 @@ c) Cuja comunicação seja atentatória da segurança ou ordem pública.
 
 3 - A comunicação referida no número anterior deverá ser feita a partir do momento em que a Comissão tome a sua decisão e, em qualquer caso, antes de decorrido o prazo de 6 meses a contar da data da acusação da recepção do pedido.
 
-###### Art. 6.º - 1 - A Comissão transmitirá à autoridade requerente as informações solicitadas à medida que as for obtendo.
+Art. 6.º - 1 - A Comissão transmitirá à autoridade requerente as informações solicitadas à medida que as for obtendo.
 
 2 - No caso de não ser possível obter as informações solicitadas em prazos razoáveis, a Comissão informará a autoridade requerente das razões desta situação.
 
@@ -173,7 +206,7 @@ c) Cuja comunicação seja atentatória da segurança ou ordem pública.
 
 ### CAPÍTULO II — Pedido de informações formulado à autoridade competente de outro Estado membro
 
-###### Art. 7.º - 1 - A Comissão poderá solicitar às autoridades competentes de outros Estados membros a comunicação de informações úteis para a cobrança de créditos constituídos em território português.
+Art. 7.º - 1 - A Comissão poderá solicitar às autoridades competentes de outros Estados membros a comunicação de informações úteis para a cobrança de créditos constituídos em território português.
 
 2 - O pedido de informações deverá obedecer às condições previstas no n.º 2 do artigo 4.º
 
@@ -183,7 +216,7 @@ a) Quer ao próprio devedor principal;
 
 b) Quer a outra pessoa obrigada ao pagamento do crédito, nos termos da legislação nacional em vigor.
 
-###### Art. 8.º - 1 - Se a autoridade requerida informar que não é possível fornecer as informações solicitadas em prazos razoáveis, a Comissão, tendo em conta os motivos alegados, poderá solicitar o prosseguimento das averiguações.
+Art. 8.º - 1 - Se a autoridade requerida informar que não é possível fornecer as informações solicitadas em prazos razoáveis, a Comissão, tendo em conta os motivos alegados, poderá solicitar o prosseguimento das averiguações.
 
 2 - Este pedido deverá ser feito por escrito e, sempre que possível, por telex, no prazo de 2 meses a contar da data de recepção da comunicação dos resultados das averiguações efectuadas pela autoridade requerida.
 
@@ -195,7 +228,7 @@ b) Quer a outra pessoa obrigada ao pagamento do crédito, nos termos da legisla�
 
 ### CAPÍTULO I — Pedido de notificação formulado por uma autores competente de outro Estado membro
 
-###### Art. 9.º - 1 - A pedido da autoridade competente de um Estado membro, a Comissão ordenará a notificação do destinatário de todos os actos e decisões, incluindo os judiciais, relativos a um crédito ou à sua cobrança que tenham origem no Estado membro onde a autoridade requerente tem a sua sede.
+Art. 9.º - 1 - A pedido da autoridade competente de um Estado membro, a Comissão ordenará a notificação do destinatário de todos os actos e decisões, incluindo os judiciais, relativos a um crédito ou à sua cobrança que tenham origem no Estado membro onde a autoridade requerente tem a sua sede.
 
 2 - A Comissão deverá verificar se o pedido de notificação:
 
@@ -207,7 +240,7 @@ c) Indica o nome e a morada do destinatário, a natureza e o objecto da decisão
 
 d) Está acompanhado, em duplicado, do acto ou da decisão cuja notificação é solicitada.
 
-###### Art. 10.º - 1 - A Comissão informará, sem demora, a autoridade requerente do seguimento dado ao pedido, designadamente da data em que o destinatário foi notificado.
+Art. 10.º - 1 - A Comissão informará, sem demora, a autoridade requerente do seguimento dado ao pedido, designadamente da data em que o destinatário foi notificado.
 
 2 - Aquela informação será prestada pela remessa à autoridade requerente de um dos exemplares do pedido devidamente completado com o preenchimento do certificado que figura no verso.
 
@@ -215,7 +248,7 @@ d) Está acompanhado, em duplicado, do acto ou da decisão cuja notificação é
 
 ### CAPÍTULO II — Pedido de notificação formulado à autoridade competente de outro Estado membro
 
-###### Art. 11.º - 1 - A Comissão poderá solicitar às autoridades competentes de outros Estados membros que procedam à notificação, nesses Estados, de actos e decisões, incluindo os judiciais, relativos a créditos constituídos em território português.
+Art. 11.º - 1 - A Comissão poderá solicitar às autoridades competentes de outros Estados membros que procedam à notificação, nesses Estados, de actos e decisões, incluindo os judiciais, relativos a créditos constituídos em território português.
 
 2 - O pedido de notificação deverá conter os elementos referidos no artigo 9.º, n.º 2.
 
@@ -227,9 +260,9 @@ d) Está acompanhado, em duplicado, do acto ou da decisão cuja notificação é
 
 Pedido de cobrança e ou de adopção de medidas cautelares formulado pela autoridade competente de outro Estado membro.
 
-###### Art. 12.º A pedido da autoridade competente de um Estado membro, a Comissão procederá, através dos serviços, organismos e entidades competentes, à cobrança dos créditos que são objecto de um título executivo e ou à adopção de medidas cautelares, de acordo com as disposições legislativas, regulamentares e administrativas aplicáveis à cobrança de créditos idênticos constituídos em território nacional.
+Art. 12.º A pedido da autoridade competente de um Estado membro, a Comissão procederá, através dos serviços, organismos e entidades competentes, à cobrança dos créditos que são objecto de um título executivo e ou à adopção de medidas cautelares, de acordo com as disposições legislativas, regulamentares e administrativas aplicáveis à cobrança de créditos idênticos constituídos em território nacional.
 
-###### Art. 13.º A Comissão verificará se o pedido de cobrança e ou de adopção de medidas cautelares que lhe é enviado pela autoridade requerente:
+Art. 13.º A Comissão verificará se o pedido de cobrança e ou de adopção de medidas cautelares que lhe é enviado pela autoridade requerente:
 
 a) É formulado por escrito, de acordo com o modelo constante do anexo III;
 
@@ -243,7 +276,7 @@ e) Está acompanhado do documento oficial ou de uma cópia autenticada do títul
 
 f) Contém uma declaração da autoridade requerente indicando a data a partir da qual a execução é possível, segundo as regras de direito em vigor no Estado membro onde tem a sua sede.
 
-###### Art. 14.º - 1 - A Comissão acusará, por escrito, a recepção do pedido de cobrança e ou de adopção de medidas cautelares, no prazo máximo de 7 dias contados a partir da data da referida recepção.
+Art. 14.º - 1 - A Comissão acusará, por escrito, a recepção do pedido de cobrança e ou de adopção de medidas cautelares, no prazo máximo de 7 dias contados a partir da data da referida recepção.
 
 2 - Quando não for possível proceder à cobrança do crédito e ou adoptar as medidas cautelares necessárias em prazos razoáveis, a Comissão informará a autoridade requerente das razões daquela situação.
 
@@ -251,7 +284,7 @@ f) Contém uma declaração da autoridade requerente indicando a data a partir d
 
 4 - Se, tendo em conta as informações que lhe foram comunicadas, a autoridade requerente solicitar à Comissão que prossiga o processo de cobrança e ou de adopção de medidas cautelares, esta conferirá a este pedido o tratamento previsto para o pedido inicial.
 
-###### Art. 15.º - 1 - A Comissão não dará seguimento ao pedido de cobrança e ou de adopção de medidas cautelares quando o crédito ou o título executivo for contestado no Estado membro onde a autoridade requerente tem a sua sede.
+Art. 15.º - 1 - A Comissão não dará seguimento ao pedido de cobrança e ou de adopção de medidas cautelares quando o crédito ou o título executivo for contestado no Estado membro onde a autoridade requerente tem a sua sede.
 
 2 - A Comissão também não é obrigada:
 
@@ -261,7 +294,7 @@ b) A proceder à cobrança do crédito quando a autoridade requerente não tenha
 
 3 - A Comissão informará, fundamentadamente, a autoridade requerente e a Comissão das Comunidades dos motivos que impedem a satisfação do pedido de assistência.
 
-###### Art. 16.º - 1 - A Comissão suspenderá o processo de execução, ficando a aguardar a decisão da instância competente, sempre que for informada pelos serviços, organismos e entidades competentes ou pelo devedor de que o crédito ou o título executivo respeitante ao pedido de assistência foi objecto de uma acção de impugnação no país onde a autoridade requerente tem a sua sede.
+Art. 16.º - 1 - A Comissão suspenderá o processo de execução, ficando a aguardar a decisão da instância competente, sempre que for informada pelos serviços, organismos e entidades competentes ou pelo devedor de que o crédito ou o título executivo respeitante ao pedido de assistência foi objecto de uma acção de impugnação no país onde a autoridade requerente tem a sua sede.
 
 2 - O disposto no número anterior não prejudica a adopção de medidas cautelares necessárias para garantir a cobrança, nos termos previstos pela legislação nacional para créditos idênticos.
 
@@ -269,7 +302,7 @@ b) A proceder à cobrança do crédito quando a autoridade requerente não tenha
 
 4 - A impugnação que tiver por objecto medidas de execução adoptadas em território nacional deverá ser proposta no tribunal competente para apreciar as impugnações relativas à cobrança de créditos idênticos constituídos em território nacional.
 
-###### Art. 17.º - 1 - A Comissão mandará arquivar o processo de cobrança e ou de adopção de medidas cautelares quando o respectivo pedido vier a carecer de objecto, na sequência do pagamento do crédito, da sua anulação ou por qualquer outra razão.
+Art. 17.º - 1 - A Comissão mandará arquivar o processo de cobrança e ou de adopção de medidas cautelares quando o respectivo pedido vier a carecer de objecto, na sequência do pagamento do crédito, da sua anulação ou por qualquer outra razão.
 
 2 - Se a Comissão for informada, por escrito, pela autoridade requerente da modificação do montante inicial do crédito, deverá:
 
@@ -281,7 +314,7 @@ b) No caso de ocorrer um aumento daquele montante, e sempre que possível, junta
 
 4 - Se, pelo estado de avanço do processo de cobrança, não for possível dar cumprimento ao disposto na alínea b) do n.º 2 anterior, a Comissão só dará seguimento ao pedido complementar se o montante nele indicado for igual ou superior ao referido no artigo 29.º, n.º 3.
 
-###### Art. 18.º - 1 - A cobrança do crédito será efectuada em moeda nacional.
+Art. 18.º - 1 - A cobrança do crédito será efectuada em moeda nacional.
 
 2 - A Comissão poderá, nos termos da legislação nacional e após ter consultado a autoridade requerente, conceder ao devedor um prazo para o pagamento ou autorizar um pagamento escalonado.
 
@@ -291,31 +324,31 @@ b) No caso de ocorrer um aumento daquele montante, e sempre que possível, junta
 
 ### CAPÍTULO II — Pedido de cobrança a ou de adopção de medidas cautelares formulado à autoridade competente de outro Estado membro
 
-###### Art. 19.º - 1 - A Comissão poderá solicitar às autoridades competentes de outros Estados membros a cobrança, nestes Estados, de créditos constituídos em território nacional e ou a adopção de medidas cautelares.
+Art. 19.º - 1 - A Comissão poderá solicitar às autoridades competentes de outros Estados membros a cobrança, nestes Estados, de créditos constituídos em território nacional e ou a adopção de medidas cautelares.
 
 2 - O pedido de cobrança e ou de adopção de medidas cautelares deverá conter os elementos referidos no artigo 13.º
 
-###### Art. 20.º A Comissão apenas poderá formular um pedido de cobrança:
+Art. 20.º A Comissão apenas poderá formular um pedido de cobrança:
 
 a) Se o crédito ou o respectivo título executivo não tiver sido contestado em território nacional;
 
 b) Quando tenha aplicado internamente o processo de cobrança susceptível de ser intentado, não tendo as medidas adoptadas resultado no pagamento integral do crédito.
 
-###### Art. 21.º - 1 - O título executivo pode ter por objecto vários créditos desde que digam respeito à mesma pessoa.
+Art. 21.º - 1 - O título executivo pode ter por objecto vários créditos desde que digam respeito à mesma pessoa.
 
 2 - Os créditos que são objecto de um mesmo título executivo serão considerados como constituindo um crédito único
 
-###### Art. 22.º - 1 - Se, no decurso do processo de cobrança, o crédito ou o título executivo emitido em território nacional for impugnado pelo devedor, a acção deverá ser proposta por este perante a instância competente, de acordo com as regras de direito nacionais.
+Art. 22.º - 1 - Se, no decurso do processo de cobrança, o crédito ou o título executivo emitido em território nacional for impugnado pelo devedor, a acção deverá ser proposta por este perante a instância competente, de acordo com as regras de direito nacionais.
 
 2 - A Comissão deverá notificar imediatamente, se, possível por telex, a autoridade requerida da propositura da acção referida no número anterior, podendo o interessado promover ele próprio aquela notificação.
 
 3 - Quando a instância competente perante a qual a acção é proposta, nos termos do n.º 1, for um tribunal judicial ou administrativo, a decisão deste tribunal, favorável à Comissão e na medida em que permita a cobrança do crédito, constitui título executivo, com base no qual se processará a respectiva cobrança.
 
-###### Art. 23.º - 1 - A Comissão poderá solicitar à autoridade requerida o prosseguimento do processo de cobrança e ou de adopção de medidas cautelares quando for informada por aquela autoridade que não é possível cobrar o crédito em causa em prazos razoáveis.
+Art. 23.º - 1 - A Comissão poderá solicitar à autoridade requerida o prosseguimento do processo de cobrança e ou de adopção de medidas cautelares quando for informada por aquela autoridade que não é possível cobrar o crédito em causa em prazos razoáveis.
 
 2- O pedido referido no número anterior será feito, por escrito, no prazo de 2 meses a contar da data da recepção da comunicação do resultado do processo iniciado.
 
-###### Art. 24.º - 1 - A Comissão deverá informar, por escrito, imediatamente, e se possível por telex, a autoridade requerida:
+Art. 24.º - 1 - A Comissão deverá informar, por escrito, imediatamente, e se possível por telex, a autoridade requerida:
 
 a) Quando, na sequência do pagamento do crédito, da sua anulação ou por qualquer outro motivo, o pedido inicial ficar sem objecto;
 
@@ -325,13 +358,13 @@ b) Quando ocorrer uma modificação do montante do crédito que foi objecto do p
 
 3 - Para o cálculo do montante modificado do crédito na moeda do Estado membro da autoridade requerida, a Comissão utilizará a taxa de câmbio aplicada no pedido inicial.
 
-###### Art. 25.º Com excepção das importâncias devidas a título de juros eventualmente cobrados nos termos do artigo 18.º, n.º 3, o crédito considera-se cobrado quando for percebido o respectivo montante, na moeda do Estado membro onde a autoridade requerida tem a sua sede, com base na taxa de câmbio referida no pedido de cobrança.
+Art. 25.º Com excepção das importâncias devidas a título de juros eventualmente cobrados nos termos do artigo 18.º, n.º 3, o crédito considera-se cobrado quando for percebido o respectivo montante, na moeda do Estado membro onde a autoridade requerida tem a sua sede, com base na taxa de câmbio referida no pedido de cobrança.
 
 ## TÍTULO V — Disposições finais
 
-###### Art. 26.º As questões relativas à prescrição são reguladas exclusivamente pelas regras de direito em vigor no Estado membro onde a autoridade requerente tem a sua sede.
+Art. 26.º As questões relativas à prescrição são reguladas exclusivamente pelas regras de direito em vigor no Estado membro onde a autoridade requerente tem a sua sede.
 
-###### Art. 27.º Os documentos e as informações comunicados à Comissão pela autoridade requerente apenas podem ser transmitidos;
+Art. 27.º Os documentos e as informações comunicados à Comissão pela autoridade requerente apenas podem ser transmitidos;
 
 a) À pessoa referida no pedido de assistência;
 
@@ -339,32 +372,32 @@ b) Às pessoas e às autoridades encarregadas da cobrança;
 
 c) Às autoridades judiciais encarregadas de assuntos relativos à cobrança dos créditos.
 
-###### Art. 28.º Os pedidos de assistência e os documentos anexos serão acompanhados de uma tradução na língua oficial do Estado membro onde a autoridade requerida tem a sua sede.
+Art. 28.º Os pedidos de assistência e os documentos anexos serão acompanhados de uma tradução na língua oficial do Estado membro onde a autoridade requerida tem a sua sede.
 
-###### Art. 29.º - 1 - A Comissão poderá formular um pedido de assistência para um único crédito ou para vários créditos, desde que respeitem à mesma pessoa.
+Art. 29.º - 1 - A Comissão poderá formular um pedido de assistência para um único crédito ou para vários créditos, desde que respeitem à mesma pessoa.
 
 2 - A Comissão não poderá, todavia, formular pedidos de assistência quando o montante do ou dos créditos a cobrar for inferior a 750 ECU.
 
 3 - A Comissão também não dará seguimento aos pedidos de assistência que lhe forem formulados quando o montante do ou dos créditos a que se referem for inferior àquele valor.
 
-###### Art. 30.º Os Estados membros renunciam a qualquer restituição de despesas resultantes da assistência mútua prevista nos termos do presente decreto-lei.
+Art. 30.º Os Estados membros renunciam a qualquer restituição de despesas resultantes da assistência mútua prevista nos termos do presente decreto-lei.
 
-###### Art. 31.º O presente diploma entra em vigor no dia 1 de Janeiro de 1986.
+Art. 31.º O presente diploma entra em vigor no dia 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 30 de Dezembro de 1985.**
+Promulgado em 30 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Dezembro de 1985.**
+Referendado em 30 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30005/00410052.pdf)

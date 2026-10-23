@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe5e2fb011bcfa4bc94e57454307f64eba852cfe1bf1cff93f9c5b281842574a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3a4ffb681122db5437711b398f15bc4f68545e2d0d4b20b65277465025c0f76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Concessão
+- Serra da Estrela
+- Turismo
+- Turistrela
+relationships:
+- type: cites
+  target: pt:dre:225987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642956:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:03Z'
   warnings: []
   errors: []
 ---
@@ -126,23 +142,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A concessão em exclusivo da exploração do turismo e dos desportos na serra da Estrela, outorgada à empresa de economia mista denominada Turismo da Serra da Estrela, Turistrela, S. A. R. L., pelo [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956), de 28 de Julho, passa a regular-se também pelo disposto no presente diploma.
+Artigo 1.º A concessão em exclusivo da exploração do turismo e dos desportos na serra da Estrela, outorgada à empresa de economia mista denominada Turismo da Serra da Estrela, Turistrela, S. A. R. L., pelo [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956), de 28 de Julho, passa a regular-se também pelo disposto no presente diploma.
 
-###### Art. 2.º - 1 - As bases do contrato da concessão referida no artigo anterior são integralmente substituídas pelas anexas ao presente decreto-lei, que se consideram, para todos os efeitos, como sendo parte integrante dele.
+Art. 2.º - 1 - As bases do contrato da concessão referida no artigo anterior são integralmente substituídas pelas anexas ao presente decreto-lei, que se consideram, para todos os efeitos, como sendo parte integrante dele.
 
 2 - O membro do Governo com tutela sobre o sector do turismo procederá à revisão do contrato existente em conformidade com as bases referidas no número anterior e o disposto no presente diploma.
 
-###### Art. 3.º - 1 - O exclusivo resultante da concessão outorgada nos termos do [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956) não vigora dentro das localidades existentes na zona da concessão.
+Art. 3.º - 1 - O exclusivo resultante da concessão outorgada nos termos do [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956) não vigora dentro das localidades existentes na zona da concessão.
 
 2 - Ficam ainda ressalvados os direitos das entidades públicas ou privadas proprietárias de estabelecimentos ou de instalações destinados à exploração do turismo ou dos desportos que se encontrem legalmente em funcionamento na zona da concessão, à data da publicação do presente diploma.
 
 3 - A concessão referida no n.º 1 deste artigo não abrange a exploração das pousadas existentes na respectiva área, nem pode impedir a instalação e exploração de novas pousadas.
 
-###### Art. 4.º - 1 - O prazo da concessão previsto no artigo 7.º do [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956) contar-se-á a partir da data da assinatura do contrato de revisão do existente.
+Art. 4.º - 1 - O prazo da concessão previsto no artigo 7.º do [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956) contar-se-á a partir da data da assinatura do contrato de revisão do existente.
 
 2 - Compete à Presidência do Conselho de Ministros, pela Direcção-Geral do Turismo, exercer os poderes do Estado no que respeita ao objecto da concessão e, bem assim, a colaboração e outorga do respectivo contrato de revisão.
 
-###### Art. 5.º - 1 - Para a execução e exploração dos serviços compreendidos no objecto da concessão, a concessionária poderá:
+Art. 5.º - 1 - Para a execução e exploração dos serviços compreendidos no objecto da concessão, a concessionária poderá:
 
 a) Promover e participar na constituição de empresas que tenham por objecto exclusivo a realização e exploração de actividades turísticas ou desportivas na zona da concessão;
 
@@ -160,13 +176,13 @@ c) Subconceder a outras empresas alguns dos serviços incluídos no objecto da c
 
 6 - A Direcção-Geral do Turismo poderá solicitar à concessionária, por uma vez, a apresentação de novos elementos que considere necessários para a apreciação do pedido, contando-se o prazo estabelecido no número anterior a partir da data da entrega dos mesmos.
 
-###### Art. 6.º Os empreendimentos realizados pela concessionária, na área da concessão e durante os respectivos períodos de duração, beneficiarão do seguinte regime:
+Art. 6.º Os empreendimentos realizados pela concessionária, na área da concessão e durante os respectivos períodos de duração, beneficiarão do seguinte regime:
 
 a) Atribuição de utilidade turística e de relevância turística a todos os que forem susceptíveis de beneficiar dos respectivos regimes, desde que sejam legalmente aprovados e preencham os demais requisitos exigidos;
 
 b) Acesso aos sistemas de crédito mais favoráveis que estejam em vigor para cada tipo de empreendimento, desde que os respectivos projectos tenham sido legalmente aprovados.
 
-###### Art. 7.º - 1 - É admitida a expropriação por utilidade pública, nos termos da legislação aplicável, dos bens imóveis situados na zona da concessão onde vigora o exclusivo e dos direitos a eles relativos que se mostrem indispensáveis à realização dos fins da concessionária e ao cumprimento das obrigações que assumir nos termos do respectivo contrato de concessão.
+Art. 7.º - 1 - É admitida a expropriação por utilidade pública, nos termos da legislação aplicável, dos bens imóveis situados na zona da concessão onde vigora o exclusivo e dos direitos a eles relativos que se mostrem indispensáveis à realização dos fins da concessionária e ao cumprimento das obrigações que assumir nos termos do respectivo contrato de concessão.
 
 2 - Poderá ainda ser declarada de utilidade pública, nos termos da legislação aplicável, a constituição de servidões sobre prédios vizinhos daqueles onde estão ou serão implantados os empreendimentos da concessionária destinados à realização do objectivo da concessão, desde que os mesmos se situem na zona onde vigora o exclusivo e tais servidões se mostrem estritamente indispensáveis à adequada exploração dos empreendimentos.
 
@@ -180,19 +196,19 @@ b) Documento comprovativo de que o anteprojecto ou projecto do empreendimento ou
 
 c) Parecer favorável da câmara municipal onde se situam os bens.
 
-###### Art. 8.º - 1 - O capital social da concessionária, depois da realização das medidas destinadas ao saneamento financeiro da empresa, deve ser reposto no montante de 60000000$00, no prazo de um ano contado da data da assinatura do contrato de revisão da concessão.
+Art. 8.º - 1 - O capital social da concessionária, depois da realização das medidas destinadas ao saneamento financeiro da empresa, deve ser reposto no montante de 60000000$00, no prazo de um ano contado da data da assinatura do contrato de revisão da concessão.
 
 2 - O aumento do capital social previsto no número anterior será realizado por uma ou mais vezes, nos termos que forem deliberados pelo conselho de administração da empresa.
 
 3 - O capital social da concessionária poderá ser elevado, por uma ou mais vezes, até ao montante de 120000000$00, por simples deliberação do conselho de administração.
 
-###### Art. 9.º - 1 - A participação do Fundo de Turismo no capital social da sociedade Turismo da Serra da Estrela, Turistrela, S. A. R. L., depois de realizadas as medidas destinadas ao seu saneamento financeiro, será transferida para a ENATUR - Empresa Nacional de Turismo, E. P.
+Art. 9.º - 1 - A participação do Fundo de Turismo no capital social da sociedade Turismo da Serra da Estrela, Turistrela, S. A. R. L., depois de realizadas as medidas destinadas ao seu saneamento financeiro, será transferida para a ENATUR - Empresa Nacional de Turismo, E. P.
 
 2 - O Fundo de Turismo fica autorizado a conceder à ENATUR um subsídio de montante igual ao capital que esta empresa deva subscrever no aumento previsto no artigo 8.º deste diploma.
 
 3 - A participação referida no n.º 1 deste artigo e o subsídio previsto no número anterior serão integrados no património da ENATUR a título de realização do seu capital estatutário nos termos estabelecidos no n.º 4 do artigo 5.º dos seus estatutos.
 
-###### Art. 10.º - 1 - O conselho de administração da sociedade concessionária será constituído por três a cinco membros.
+Art. 10.º - 1 - O conselho de administração da sociedade concessionária será constituído por três a cinco membros.
 
 2 - Sempre que o conselho de administração for constituído por mais de três membros, poderá ser criada uma comissão executiva composta por três dos seus membros, a quem competirá especialmente a gestão corrente dos negócios sociais.
 
@@ -200,19 +216,19 @@ c) Parecer favorável da câmara municipal onde se situam os bens.
 
 4 - A ENATUR, enquanto dispuser de uma participação accionista superior a 20% do capital social da concessionária, terá direito a designar, pelo menos, um dos membros do conselho de administração.
 
-###### Art. 11.º - 1 - Enquanto o sector público dispuser de uma participação accionista de, pelo menos, 10% do capital social da concessionária caber-lhe-á designar o revisor oficial de contas, membro do conselho fiscal, ou a sociedade de revisão de contas que substituir o conselho fiscal.
+Art. 11.º - 1 - Enquanto o sector público dispuser de uma participação accionista de, pelo menos, 10% do capital social da concessionária caber-lhe-á designar o revisor oficial de contas, membro do conselho fiscal, ou a sociedade de revisão de contas que substituir o conselho fiscal.
 
 2 - A nomeação será feita pelo membro do Governo com tutela sobre o sector do turismo.
 
-###### Art. 12.º O membro do Governo com tutela sobre o sector do turismo tomará, através do Fundo de Turismo, as medidas de carácter financeiro consideradas convenientes, por forma que o saneamento financeiro da concessionária se processe em termos adequados às necessidades do seu funcionamento e relançamento.
+Art. 12.º O membro do Governo com tutela sobre o sector do turismo tomará, através do Fundo de Turismo, as medidas de carácter financeiro consideradas convenientes, por forma que o saneamento financeiro da concessionária se processe em termos adequados às necessidades do seu funcionamento e relançamento.
 
-###### Art. 13.º - 1 - A revisão do contrato de concessão existente deverá estar concretizada no prazo de seis meses contado da entrada em vigor do presente decreto-lei.
+Art. 13.º - 1 - A revisão do contrato de concessão existente deverá estar concretizada no prazo de seis meses contado da entrada em vigor do presente decreto-lei.
 
 2 - No prazo estabelecido no número anterior, a empresa é obrigada a adoptar as medidas de saneamento financeiro aprovadas pelo Governo e a introduzir nos seus estatutos as alterações resultantes do disposto no presente diploma.
 
 3 - A falta de cumprimento do disposto no número anterior determinará a caducidade automática do contrato de concessão, com todas as consequências legais.
 
-###### Art. 14.º - 1 - A quem explorar actividades e serviços de natureza turística e desportiva na zona da concessão em infracção ao exclusivo estabelecido no artigo 1.º do [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956), de 28 de Julho, será aplicada a coima de 100000$00 a 3000000$00.
+Art. 14.º - 1 - A quem explorar actividades e serviços de natureza turística e desportiva na zona da concessão em infracção ao exclusivo estabelecido no artigo 1.º do [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956), de 28 de Julho, será aplicada a coima de 100000$00 a 3000000$00.
 
 2 - As infracções previstas no número anterior serão ainda passíveis das seguintes sanções acessórias:
 
@@ -226,21 +242,21 @@ b) Encerramento das instalações ou do estabelecimento.
 
 5 - Para efeitos do estabelecido nos números anteriores, a concessionária e as autoridades policiais comunicarão à Direcção-Geral do Turismo as infracções de que tiverem conhecimento.
 
-###### Art. 15.º São revogados os artigos 3.º a 6.º, 8.º a 10.º, as alíneas b) e c) do n.º 1 e o n.º 2 do artigo 11.º, o artigo 12.º, o n.º 2 do artigo 13.º e os artigos 14.º a 20.º do [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956), de 28 de Julho.
+Art. 15.º São revogados os artigos 3.º a 6.º, 8.º a 10.º, as alíneas b) e c) do n.º 1 e o n.º 2 do artigo 11.º, o artigo 12.º, o n.º 2 do artigo 13.º e os artigos 14.º a 20.º do [Decreto-Lei n.º 325/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956), de 28 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 18 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 14 de Novembro de 1986.**
+Promulgado em 14 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Novembro de 1986.**
+Referendado em 20 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 408/86
+Anexo a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 408/86
 
 Bases do contrato da concessão à sociedade Turismo da Serra da Estrela, Turistrela, S. A. R. L., do exclusivo da exploração do turismo e dos desportos na serra da Estrela.
 
@@ -420,4 +436,4 @@ BASE XVI
 
 5 - Os árbitros funcionarão em Lisboa.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

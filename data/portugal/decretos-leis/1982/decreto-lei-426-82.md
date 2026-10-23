@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1982-376195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e459230856a738d7ec4d133b13b59d94ada579e45b99d3db365f113e22a1071
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1df1e4b8bacb8c94b828c56d4f4a8ffcd120ee39587f8b5b0bec7fe083ad32de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Portuguesa de Resseguros
+- Estatuto
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:370433:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370433:por
+  label: Alterados os arts. 5.º e 8.º e revogado o n.º 4 do art. 7.º dos Estatutos da Companhia Portuguesa de Resseguros,
+    S. A. pelo DEC LEI.303/88.02.09.1988.MF, DR.IS [203] de 02.09.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1988-370433
+  date: '1988-09-02'
+- type: cites
+  target: pt:dre:376194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:43Z'
   warnings: []
   errors: []
 ---
@@ -95,23 +108,23 @@ Atendendo a que há que garantir que a Companhia Portuguesa de Resseguros, S. A.
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o estatuto inicial da Companhia Portuguesa de Resseguros, S. A. R. L., resultante da transformação da Companhia Portuguesa de Resseguros, E. P., em sociedade anónima, nos termos do [Decreto-Lei n.º 425/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1982-376194), de 20 de Outubro.
+Artigo 1.º É aprovado o estatuto inicial da Companhia Portuguesa de Resseguros, S. A. R. L., resultante da transformação da Companhia Portuguesa de Resseguros, E. P., em sociedade anónima, nos termos do [Decreto-Lei n.º 425/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1982-376194), de 20 de Outubro.
 
-###### Art. 2.º O presente diploma constitui título bastante para todos os efeitos legais, nomeadamente para a celebração da competente escritura pública.
+Art. 2.º O presente diploma constitui título bastante para todos os efeitos legais, nomeadamente para a celebração da competente escritura pública.
 
-###### Art. 3.º A Companhia Portuguesa de Resseguros, S. A. R. L., iniciará a sua actividade logo que seja efectuada, nos termos legais e estatutários, a assembleia geral para eleição dos membros dos seus órgãos sociais.
+Art. 3.º A Companhia Portuguesa de Resseguros, S. A. R. L., iniciará a sua actividade logo que seja efectuada, nos termos legais e estatutários, a assembleia geral para eleição dos membros dos seus órgãos sociais.
 
 Estatutos da Companhia Portuguesa de Resseguros, S. A. R. L.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de Companhia Portuguesa de Resseguros, S. A. R. L.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de Companhia Portuguesa de Resseguros, S. A. R. L.
 
-###### Art. 2.º A sociedade tem a sua sede em Lisboa, podendo, mediante deliberação do conselho de administração, estabelecer, em qualquer ponto do território nacional ou no estrangeiro, agências, delegações ou qualquer outra forma de representação que considere necessária à prossecução dos seus fins.
+Art. 2.º A sociedade tem a sua sede em Lisboa, podendo, mediante deliberação do conselho de administração, estabelecer, em qualquer ponto do território nacional ou no estrangeiro, agências, delegações ou qualquer outra forma de representação que considere necessária à prossecução dos seus fins.
 
-###### Art. 3.º A duração da empresa é por tempo indeterminado.
+Art. 3.º A duração da empresa é por tempo indeterminado.
 
-###### Art. 4.º - 1 - A Companhia Portuguesa de Resseguros, S. A. R. L., tem por objecto:
+Art. 4.º - 1 - A Companhia Portuguesa de Resseguros, S. A. R. L., tem por objecto:
 
 a) Praticar quaisquer operações relativas a resseguros, tanto em Portugal como no estrangeiro;
 
@@ -121,7 +134,7 @@ b) Participar na redistribuição no mercado de determinados riscos de natureza 
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 5.º - 1 - O capital social inicial, integralmente realizado, é de 250000 contos, dividido em acções de 1000$00 cada uma.
+Art. 5.º - 1 - O capital social inicial, integralmente realizado, é de 250000 contos, dividido em acções de 1000$00 cada uma.
 
 2 - Apenas podem deter acções da sociedade as seguintes entidades:
 
@@ -131,13 +144,13 @@ b) As empresas públicas de seguros e os fundos existentes no âmbito da activid
 
 c) Quaisquer outras empresas públicas que não as referidas na alínea anterior.
 
-###### Art. 6.º - 1 - As acções são nominativas.
+Art. 6.º - 1 - As acções são nominativas.
 
 2 - Haverá títulos de 1, 5, 50, 100, 1000 ou 10000 acções, podendo o conselho de administração emitir certificados, provisórios ou definitivos, representativos de qualquer número de acções.
 
 3 - As despesas com o desdobramento dos títulos serão por conta do accionista que o requeira.
 
-###### Art. 7.º - 1 - O aumento de capital depende, como regra, de deliberação da assembleia geral.
+Art. 7.º - 1 - O aumento de capital depende, como regra, de deliberação da assembleia geral.
 
 2 - Na subscrição em dinheiro de novas acções resultantes de aumento de capital têm preferência os accionistas, na proporção das respectivas posições.
 
@@ -145,11 +158,11 @@ c) Quaisquer outras empresas públicas que não as referidas na alínea anterior
 
 4 - Quando, num aumento de capital, haja accionistas que renunciem à subscrição de acções que lhe caberiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.
 
-###### Art. 8.º As acções só podem ser alienadas entre accionistas ou às entidades referidas no n.º 2 do artigo 5.º
+Art. 8.º As acções só podem ser alienadas entre accionistas ou às entidades referidas no n.º 2 do artigo 5.º
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 9.º São órgãos da sociedade:
+Art. 9.º São órgãos da sociedade:
 
 a) A assembleia geral;
 
@@ -159,7 +172,7 @@ c) O conselho fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 10.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+Art. 10.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
 
 2 - A cada fracção de 2% do capital social corresponderá 1 voto na assembleia geral.
 
@@ -169,7 +182,7 @@ c) O conselho fiscal.
 
 5 - O Estado, desde que accionista, será representado na assembleia geral pela pessoa designada pelo Ministro de Estado e das Finanças e do Plano, os fundos, pela entidade encarregada da respectiva gestão, e as empresas públicas, pela pessoa indicada pelo respectivo conselho de gestão, em carta dirigida ao presidente da mesa.
 
-###### Art. 11.º Compete à assembleia geral:
+Art. 11.º Compete à assembleia geral:
 
 a) Discutir e aprovar o balanço e as contas anuais de gerência, acompanhados do relatório do conselho de administração e do parecer do conselho fiscal, bem como decidir sobre o destino dos resultados do exercício;
 
@@ -183,7 +196,7 @@ e) Fixar as remunerações dos membros dos conselhos de administração e fiscal
 
 f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 12.º - 1 - A mesa da assembleia geral é composta por 3 accionistas, eleitos em assembleia geral por períodos de 3 anos, renováveis.
+Art. 12.º - 1 - A mesa da assembleia geral é composta por 3 accionistas, eleitos em assembleia geral por períodos de 3 anos, renováveis.
 
 2 - A mesa é constituída por 1 presidente, 1 vice-presidente e 1 secretário, designados pela própria assembleia geral aquando da eleição referida no número anterior.
 
@@ -191,27 +204,27 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - As faltas e impedimentos dos membros da mesa da assembleia geral serão supridos nos termos da lei comercial.
 
-###### Art. 13.º Compete à mesa da assembleia geral dirigir os trabalhos da assembleia geral, e ao respectivo presidente, convocar, nos termos legais e estatutários, as assembleias ordinárias e extraordinárias.
+Art. 13.º Compete à mesa da assembleia geral dirigir os trabalhos da assembleia geral, e ao respectivo presidente, convocar, nos termos legais e estatutários, as assembleias ordinárias e extraordinárias.
 
-###### Art. 14.º - 1 - A convocação da assembleia geral faz-se por anúncios publicados com uma antecedência mínima de 15 dias.
+Art. 14.º - 1 - A convocação da assembleia geral faz-se por anúncios publicados com uma antecedência mínima de 15 dias.
 
 2 - As convocatórias indicarão sempre os fins da reunião.
 
-###### Art. 15.º - 1 - A assembleia geral reunirá ordinariamente uma vez por ano, e extraordinariamente, a solicitação do conselho de administração, do conselho fiscal ou de accionistas que representem, pelo menos, 10% do capital social.
+Art. 15.º - 1 - A assembleia geral reunirá ordinariamente uma vez por ano, e extraordinariamente, a solicitação do conselho de administração, do conselho fiscal ou de accionistas que representem, pelo menos, 10% do capital social.
 
 2 - De todas as assembleias gerais será lavrada acta.
 
-###### Art. 16.º Para que a assembleia geral possa funcionar validamente em primeira convocatória é necessário que nela esteja representado, pelo menos, um quinto do capital emitido.
+Art. 16.º Para que a assembleia geral possa funcionar validamente em primeira convocatória é necessário que nela esteja representado, pelo menos, um quinto do capital emitido.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 17.º - 1 - O conselho de administração é composto por 5 membros, eleitos todos em assembleia geral por um período de 3 anos, renovável.
+Art. 17.º - 1 - O conselho de administração é composto por 5 membros, eleitos todos em assembleia geral por um período de 3 anos, renovável.
 
 2 - 3 dos membros do conselho de administração, incluindo o respectivo presidente, são accionistas da sociedade, que deverão, através de carta dirigida à sociedade, designar o indivíduo que os representará e o respectivo suplente, enquanto os restantes 2 membros são pessoas singulares de reconhecida competência no âmbito da actividade resseguradora.
 
 3 - Os administradores eleitos nos termos do n.º 1 manter-se-ão em funções até à data da efectiva substituição.
 
-###### Art. 18.º Compete ao conselho de administração:
+Art. 18.º Compete ao conselho de administração:
 
 a) Gerir a sociedade e praticar todos os actos e operações necessários ao cumprimento do seu objecto social;
 
@@ -227,11 +240,11 @@ f) Elaborar o relatório e as contas anuais de gerência, bem como a proposta de
 
 g) Executar e fazer cumprir os preceitos legais e estatutários e as deliberações da assembleia geral.
 
-###### Art. 19.º - 1 - Os 2 membros do conselho de administração que, de harmonia com o disposto na parte final do n.º 2 do artigo 17.º, sejam pessoas singulares eleitas em nome próprio são administradores-delegados, exercendo as suas funções em tempo completo.
+Art. 19.º - 1 - Os 2 membros do conselho de administração que, de harmonia com o disposto na parte final do n.º 2 do artigo 17.º, sejam pessoas singulares eleitas em nome próprio são administradores-delegados, exercendo as suas funções em tempo completo.
 
 2 - Na falta ou impedimento prolongado ou definitivo de um dos administradores-delegados, compete ao conselho de administração designar um substituto, que exercerá as respectivas funções até à realização da próxima assembleia geral.
 
-###### Art. 20.º - 1 - O conselho de administração reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque, por sua iniciativa ou a solicitação de 2 administradores ou do presidente do conselho fiscal.
+Art. 20.º - 1 - O conselho de administração reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque, por sua iniciativa ou a solicitação de 2 administradores ou do presidente do conselho fiscal.
 
 2 - O conselho de administração só poderá funcionar com a presença da maioria dos seus membros.
 
@@ -239,25 +252,25 @@ g) Executar e fazer cumprir os preceitos legais e estatutários e as deliberaç�
 
 4 - De todas as reuniões será lavrada acta.
 
-###### Art. 21.º Compete ao presidente do conselho de administração convocar as reuniões do conselho e dirigir os respectivos trabalhos, exercendo, em caso de empate, o voto de qualidade, rubricar os livros gerais, podendo fazê-lo por chancela, bem como praticar todos os demais actos de que for incumbido pela assembleia geral.
+Art. 21.º Compete ao presidente do conselho de administração convocar as reuniões do conselho e dirigir os respectivos trabalhos, exercendo, em caso de empate, o voto de qualidade, rubricar os livros gerais, podendo fazê-lo por chancela, bem como praticar todos os demais actos de que for incumbido pela assembleia geral.
 
-###### Art. 22.º Compete aos administradores-delegados velar pela execução das deliberações do conselho de administração e assegurar os actos de gestão corrente.
+Art. 22.º Compete aos administradores-delegados velar pela execução das deliberações do conselho de administração e assegurar os actos de gestão corrente.
 
-###### Art. 23.º O conselho de administração pode deliberar a constituição de mandatários com os poderes que julgue convenientes, desde que defina em acta os limites e as condições do exercício dos mandatos.
+Art. 23.º O conselho de administração pode deliberar a constituição de mandatários com os poderes que julgue convenientes, desde que defina em acta os limites e as condições do exercício dos mandatos.
 
-###### Art. 24.º - 1 - A sociedade obriga-se pela assinatura de 2 administradores, pela assinatura de 1 administrador e de 1 procurador ou de 2 procuradores constituídos nos termos do artigo anterior.
+Art. 24.º - 1 - A sociedade obriga-se pela assinatura de 2 administradores, pela assinatura de 1 administrador e de 1 procurador ou de 2 procuradores constituídos nos termos do artigo anterior.
 
 2 - Em assuntos de mero expediente bastará a assinatura de 1 administrador ou de 1 procurador com poderes bastantes.
 
-###### Art. 25.º Os membros do conselho de administração serão remunerados nos termos que forem estabelecidos em assembleia geral.
+Art. 25.º Os membros do conselho de administração serão remunerados nos termos que forem estabelecidos em assembleia geral.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 26.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por 1 presidente e 2 vogais, um dos quais será obrigatoriamente revisor oficial de contas, eleitos em assembleia geral por um período de 3 anos, renovável.
+Art. 26.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por 1 presidente e 2 vogais, um dos quais será obrigatoriamente revisor oficial de contas, eleitos em assembleia geral por um período de 3 anos, renovável.
 
 2 - Quando os membros do conselho fiscal forem accionistas, estes deverão, em carta dirigida à sociedade, designar os indivíduos que os representarão e os respectivos substitutos.
 
-###### Art. 27.º Compete ao conselho fiscal:
+Art. 27.º Compete ao conselho fiscal:
 
 a) Emitir parecer acerca do relatório e contas anuais de gerência elaborados pelo conselho de administração;
 
@@ -267,25 +280,25 @@ c) Chamar a atenção do conselho de administração para qualquer assunto que e
 
 d) Praticar todos os demais actos que lhe sejam cometidos por lei ou pelos presentes Estatutos.
 
-###### Art. 28.º - 1 - O conselho fiscal reúne obrigatoriamente de 3 em 3 meses e sempre que o seu presidente, por sua iniciativa ou a solicitação dos 2 vogais ou do presidente do conselho de administração, o convoque.
+Art. 28.º - 1 - O conselho fiscal reúne obrigatoriamente de 3 em 3 meses e sempre que o seu presidente, por sua iniciativa ou a solicitação dos 2 vogais ou do presidente do conselho de administração, o convoque.
 
 2 - O conselho fiscal só poderá funcionar com a presença da maioria dos seus membros.
 
 3 - De todas as reuniões será lavrada acta.
 
-###### Art. 29.º Os membros do conselho fiscal serão remunerados nos termos que forem estabelecidos pela assembleia geral.
+Art. 29.º Os membros do conselho fiscal serão remunerados nos termos que forem estabelecidos pela assembleia geral.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 30.º Permanecem ao serviço da Companhia Portuguesa de Resseguros, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, inclusivamente a contagem do tempo de antiguidade, os trabalhadores que já se encontravam ao serviço da Companhia Portuguesa de Resseguros, E. P., à data da celebração da escritura de constituição da presente sociedade.
+Art. 30.º Permanecem ao serviço da Companhia Portuguesa de Resseguros, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, inclusivamente a contagem do tempo de antiguidade, os trabalhadores que já se encontravam ao serviço da Companhia Portuguesa de Resseguros, E. P., à data da celebração da escritura de constituição da presente sociedade.
 
-###### Art. 31.º O pessoal da Companhia Portuguesa de Resseguros, S. A. R. L., fica sujeito ao contrato colectivo de trabalho para a actividade seguradora e ao regime geral da segurança social.
+Art. 31.º O pessoal da Companhia Portuguesa de Resseguros, S. A. R. L., fica sujeito ao contrato colectivo de trabalho para a actividade seguradora e ao regime geral da segurança social.
 
 ### CAPÍTULO V — Contas anuais
 
-###### Art. 32.º O ano social será o ano civil.
+Art. 32.º O ano social será o ano civil.
 
-###### Art. 33.º Os lucros líquidos apurados pelo balanço terão a seguinte aplicação:
+Art. 33.º Os lucros líquidos apurados pelo balanço terão a seguinte aplicação:
 
 a) 5%, pelo menos, para o fundo de reserva legal, enquanto não estiver preenchido ou sempre que seja necessário reintegrá-lo;
 
@@ -295,18 +308,18 @@ c) O saldo, depois da aplicação a quaisquer outros fins determinados pela asse
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 34.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 34.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes Estatutos e pelas deliberações da assembleia geral.
 
 3 - A liquidação será, salvo deliberação em contrário da assembleia geral, efectuada pelo conselho de administração, ao qual serão conferidos todos os poderes referidos no artigo 134.º do Código Comercial.
 
-###### Art. 35.º Os membros dos conselhos de administração e fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 35.º Os membros dos conselhos de administração e fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Setembro de 1982.**
+Promulgado em 30 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

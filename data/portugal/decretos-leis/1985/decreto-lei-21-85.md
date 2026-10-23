@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01400/01340137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1985-328845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eaa173bcf541cbd6247a198c791b8e7b14451fc948c662ab94aa747a5dce9f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bc256217e5f5731053c8a21c4a4ab95b21c38b3d8ccc9c8d9986f14047374b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Máquinas de Jogo
 relationships:
 - type: amended_by
   target: pt:dre:626589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662751:por
+  label: "Reposto, integralmente em vigor, o disposto no art. 13.º, pela LEI.2/88.1988.01.26.AR DR.IS [21]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1988-662751
+  date: '1988-01-26'
+- type: amended_by
+  target: pt:dre:283079:por
+  label: "Declarada, a inconstitucionalidade com força obrigatória geral, de parte da norma do n.º 5 do artigo 15.º, pelo\
+    \ AC.30/88.10.02.1988.TCS, DR.IS [34] de 10.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/30-1988-283079
+  date: '1988-02-10'
+- type: amended_by
+  target: pt:dre:611574:por
+  label: "Declarada, a inconstitucionalidade com força obrigatória geral, de parte da norma do n.º 5 do artigo 15.º, pelo\
+    \ AC.120/89.04.02.1989.TCS, DR.IS [30] de 04.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/120-1989-611574
+  date: '1989-02-04'
+- type: amended_by
+  target: pt:dre:569760:por
+  label: "Declarada, a inconstitucionalidade com força obrigatória geral, de parte da alínea b) do n.º 1 do artigo 15.º ,\
+    \ pelo AC.447/91.28.11.1991.TCS, DR.IS-A [9] de 11.01.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/447-1992-569760
+  date: '1991-11-28'
+- type: cites
+  target: pt:dre:386001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561853:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:190651:por
+  label: Rectificado pela DECL.DD4818.20.02.1985.PCM, DR.IS [49]2ºSupl de 28.02.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-190651
+  date: '1985-02-20'
+- type: repealed_by
+  target: pt:dre:626589:por
+  label: "Revogado pelo DEC LEI.316/95.1995.11.28.MAI, DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1995-626589
+  date: '1995-11-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:12Z'
   warnings: []
   errors: []
 ---
@@ -104,23 +150,23 @@ Nestes termos:
 
 Usando da autorização legislativa conferida pela [Lei n.º 25/84](https://diariodarepublica.pt/dr/detalhe/lei/25-1984-386001), de 13 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O licenciamento de exploração e registo de máquinas automáticas, mecânicas e eléctricas ou electrónicas de diversão e a respectiva exploração e prática regem-se pelo presente diploma.
+Artigo 1.º O licenciamento de exploração e registo de máquinas automáticas, mecânicas e eléctricas ou electrónicas de diversão e a respectiva exploração e prática regem-se pelo presente diploma.
 
-###### Art. 2.º - 1 - Consideram-se máquinas de diversão aquelas que, não pagando prémios em dinheiro, fichas ou coisas com valor económico, desenvolvem jogos cujos resultados dependem exclusiva ou fundamentalmente da perícia do utilizador.
+Art. 2.º - 1 - Consideram-se máquinas de diversão aquelas que, não pagando prémios em dinheiro, fichas ou coisas com valor económico, desenvolvem jogos cujos resultados dependem exclusiva ou fundamentalmente da perícia do utilizador.
 
 2 - É permitido que ao utilizador seja concedido o prolongamento da utilização gratuita da máquina face à pontuação obtida.
 
 3 - As máquinas que desenvolvam temas próprios dos jogos de fortuna ou azar ou apresentem pontuações dependentes exclusiva ou fundamentalmente de sorte são reguladas pelo [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
 
-###### Art. 3.º - 1 - Nenhuma máquina submetida ao regime deste diploma pode ser posta em exploração sem que se encontre registada no governo civil respectivo.
+Art. 3.º - 1 - Nenhuma máquina submetida ao regime deste diploma pode ser posta em exploração sem que se encontre registada no governo civil respectivo.
 
 2 - O registo é requerido pelo proprietário da máquina ao governador civil do distrito onde se encontra ou em que se presume irá ser colocada em exploração.
 
 3 - Quando a exploração seja feita em pavilhões ambulantes a funcionar em feiras e mercados e outros lugares públicos, por tempo predeterminado, o registo das máquinas pode ser feito perante qualquer governo civil.
 
-###### Art. 4.º O requerimento de registo é formulado, em relação a cada máquina, através de impresso próprio, em que o selo do papel é pago por estampilha colocada e inutilizada no próprio impresso.
+Art. 4.º O requerimento de registo é formulado, em relação a cada máquina, através de impresso próprio, em que o selo do papel é pago por estampilha colocada e inutilizada no próprio impresso.
 
-###### Art. 5.º - 1 - O requerimento para o primeiro registo de cada máquina é instruído com os seguintes documentos:
+Art. 5.º - 1 - O requerimento para o primeiro registo de cada máquina é instruído com os seguintes documentos:
 
 Máquinas importadas:
 
@@ -142,21 +188,21 @@ g) Factura, guia de remessa ou recibo que contenha elementos identificativos, no
 
 h) Documento emitido pela Inspecção-Geral de jogos comprovativo de que a máquina a registar não está abrangida pelo n.º 4 do artigo 4.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840).
 
-###### Art. 6.º O registo é titulado por documento próprio, assinado e autenticado, que acompanhará obrigatoriamente a máquina a que respeitar.
+Art. 6.º O registo é titulado por documento próprio, assinado e autenticado, que acompanhará obrigatoriamente a máquina a que respeitar.
 
-###### Art. 7.º - 1 - As máquinas registadas que mudem de proprietário obrigam ao averbamento respectivo, a requerer com base no título de registo e em documentação de venda ou cedência, com assinatura do transmitente reconhecida pelos meios consentidos por lei.
+Art. 7.º - 1 - As máquinas registadas que mudem de proprietário obrigam ao averbamento respectivo, a requerer com base no título de registo e em documentação de venda ou cedência, com assinatura do transmitente reconhecida pelos meios consentidos por lei.
 
 2 - O requerimento para averbamento de novo proprietário é formulado em impresso em que o selo do papel é pago por estampilha colada e inutilizada no próprio impresso.
 
-###### Art. 8.º - 1 - As máquinas registadas que sejam transferidas para outro distrito diferente ficam sujeitas ao novo registo no distrito para que são deslocadas.
+Art. 8.º - 1 - As máquinas registadas que sejam transferidas para outro distrito diferente ficam sujeitas ao novo registo no distrito para que são deslocadas.
 
 2 - Quando essa transferência seja acompanhada de transferência de propriedade, o registo é requerido pelo novo proprietário com base no título do registo no distrito de origem e na declaração de venda ou cedência de máquina, com assinatura do transmitente reconhecida pelos meios consentidos por lei.
 
-###### Art. 9.º - 1 - Nenhuma máquina pode ser posta em exploração sem que disponha da correspondente licença de exploração passada pelo governador civil do distrito onde se encontra registada.
+Art. 9.º - 1 - Nenhuma máquina pode ser posta em exploração sem que disponha da correspondente licença de exploração passada pelo governador civil do distrito onde se encontra registada.
 
 2 - As licenças de exploração podem ser requeridas por períodos anuais ou semestrais, caducando sempre no final de cada ano civil.
 
-###### Art. 10.º - 1 - A licença de exploração é requerida pelo proprietário da máquina perante o governo civil onde a mesma se encontra registada, através de impresso próprio, em que o selo do papel é pago por estampilha colocada e inutilizada no próprio impresso.
+Art. 10.º - 1 - A licença de exploração é requerida pelo proprietário da máquina perante o governo civil onde a mesma se encontra registada, através de impresso próprio, em que o selo do papel é pago por estampilha colocada e inutilizada no próprio impresso.
 
 2 - O pedido será instruído com os seguintes documentos:
 
@@ -170,11 +216,11 @@ d) Alvará camarário da licença sanitária, que será devolvido.
 
 3 - O governador civil, no respectivo regulamento de polícia, pode limitar o período de abertura e encerramento dos estabelecimentos que explorem, quer como actividade principal, quer como actividade acessória, jogos de divertimento previstos no presente diploma e recusar, em despacho fundamentado, a concessão ou renovação de licenças de exploração sempre que tal medida de polícia se justifique para protecção à infância e juventude, prevenção da criminalidade e da ordem e tranquilidade públicas.
 
-###### Art. 11.º - 1 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração mais de 2 máquinas em cada um, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos, com intercomunicação interna, vertical ou horizontal.
+Art. 11.º - 1 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração mais de 2 máquinas em cada um, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos, com intercomunicação interna, vertical ou horizontal.
 
 2 - As máquinas só podem ser exploradas em locais previamente licenciados para a prática de jogos lícitos com máquinas de diversão, nos termos do regulamento policial do governo civil respectivo.
 
-###### Art. 12.º - 1 - A prática de jogos em máquinas sujeitas a este diploma é interdita a menores de 16 anos.
+Art. 12.º - 1 - A prática de jogos em máquinas sujeitas a este diploma é interdita a menores de 16 anos.
 
 2 - Nos locais onde se explorem as máquinas é obrigatória a afixação, em lugar bem visível junto de cada uma, de um quadro onde constem:
 
@@ -186,15 +232,15 @@ c) O prazo limite de validade da licença de exploração concedida;
 
 d) A idade mínima exigida para a prática de jogos.
 
-###### Art. 13.º - 1 - Os actos requeridos nos termos deste diploma estão sujeitos ao pagamento das taxas previstas na tabela anexa, que constituem receita do governo civil do distrito perante o qual forem requeridos, sem prejuízo do que se dispõe no número seguinte.
+Art. 13.º - 1 - Os actos requeridos nos termos deste diploma estão sujeitos ao pagamento das taxas previstas na tabela anexa, que constituem receita do governo civil do distrito perante o qual forem requeridos, sem prejuízo do que se dispõe no número seguinte.
 
 2 - Das taxas cobradas pela concessão de licenças de exploração, 5% constituem receita dos Serviços Sociais da Guarda Nacional Republicana e 5% constituem receita dos Serviços Sociais da Polícia de Segurança Pública.
 
 3 - A tabela referida no n.º 1 deste artigo pode ser alterada por despacho do Ministro da Administração Interna, a publicar no Diário da República.
 
-###### Art. 14.º Todos os actos requeridos nos termos deste diploma devem obter decisão dentro dos 30 dias seguintes à apresentação dos pedidos, sem prejuízo da sua antecipação, quando sejam satisfeitas as taxas previstas na tutela anexa, para as urgências consideradas.
+Art. 14.º Todos os actos requeridos nos termos deste diploma devem obter decisão dentro dos 30 dias seguintes à apresentação dos pedidos, sem prejuízo da sua antecipação, quando sejam satisfeitas as taxas previstas na tutela anexa, para as urgências consideradas.
 
-###### Art. 15.º - 1 - As infracções ao presente diploma constituem contra-ordenação e serão punidas nos termos seguintes:
+Art. 15.º - 1 - As infracções ao presente diploma constituem contra-ordenação e serão punidas nos termos seguintes:
 
 a) Máquinas em exploração sem registo no respectivo governo civil - coima de 100000$00 a 200000$00 e registo compulsivo, sendo a taxa agravada em 100%;
 
@@ -222,7 +268,7 @@ i) Outras situações não expressamente referidas - coima de 10000$00 a 30000$0
 
 5 - Os recursos judiciais contra a aplicação de uma coima, nos casos previstos no n.º 1, só terão seguimento após o prévio depósito do quantitativo da coima.
 
-###### Art. 16.º - 1 - Para efeitos deste diploma consideram-se responsáveis, relativamente às contra-ordenações verificadas:
+Art. 16.º - 1 - Para efeitos deste diploma consideram-se responsáveis, relativamente às contra-ordenações verificadas:
 
 a) O proprietário da máquina, no caso de falta do registo previsto no artigo 3.º, punido pela alínea a) do n.º 1 do artigo 15.º;
 
@@ -230,30 +276,30 @@ b) O proprietário ou explorador de máquinas ou do estabelecimento, nas demais 
 
 2 - Quando, por qualquer circunstância, se mostre impossível a identificação do proprietário de máquinas encontradas em exploração, considera-se responsável pelas contra-ordenações o proprietário ou explorador do estabelecimento onde as mesmas se encontrem.
 
-###### Art. 17.º A aplicação das coimas compete ao governador civil e o produto das colmas aplicadas nos termos deste diploma constitui 75% receita do Estado e 25% receita do governo civil.
+Art. 17.º A aplicação das coimas compete ao governador civil e o produto das colmas aplicadas nos termos deste diploma constitui 75% receita do Estado e 25% receita do governo civil.
 
-###### Art. 18.º Compete às autoridades policiais, designadamente à Guarda Nacional Republicana e à Polícia de Segurança Pública, à Guarda Fiscal e ainda à Inspecção-Geral de Jogos fiscalizar a observância deste diploma e proceder q instrução dos respectivos processos contra-ordenacionais.
+Art. 18.º Compete às autoridades policiais, designadamente à Guarda Nacional Republicana e à Polícia de Segurança Pública, à Guarda Fiscal e ainda à Inspecção-Geral de Jogos fiscalizar a observância deste diploma e proceder q instrução dos respectivos processos contra-ordenacionais.
 
-###### Art. 19.º - 1 - Os impressos próprios referidos no presente diploma serão aprovados por portaria do Ministro da Administração Interna e constituem exclusivo da Imprensa Nacional - Casa da Moeda, E. P.
+Art. 19.º - 1 - Os impressos próprios referidos no presente diploma serão aprovados por portaria do Ministro da Administração Interna e constituem exclusivo da Imprensa Nacional - Casa da Moeda, E. P.
 
 2 - Até ao seu esgotamento poderão continuar a ser utilizados os modelos criados pela legislação em vigor.
 
-###### Art. 20.º É revogado o [Decreto-Lei n.º 293/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1981-561853), de 16 de Outubro.
+Art. 20.º É revogado o [Decreto-Lei n.º 293/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1981-561853), de 16 de Outubro.
 
-###### Art. 21.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação, salvo quanto à tabela de taxas, que entra em vigor no dia imediato ao da sua publicação e se aplica a todos os actos que forem requeridos ao abrigo do [Decreto-Lei n.º 293/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1981-561853) e disposições regulamentares.
+Art. 21.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação, salvo quanto à tabela de taxas, que entra em vigor no dia imediato ao da sua publicação e se aplica a todos os actos que forem requeridos ao abrigo do [Decreto-Lei n.º 293/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1981-561853) e disposições regulamentares.
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 31 de Dezembro de 1984.**
+Promulgado em 31 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Janeiro de 1985.**
+Referendado em 4 de Janeiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO — Tabela de taxas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01400/01340137.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01400/01340137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01400/01340137.pdf)

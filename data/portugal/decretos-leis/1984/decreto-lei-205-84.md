@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1984-387294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c966de56b513d6d1413a48d4bf5fc13da95f8c6138b59fc24db0ac460d4a237
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be42c3d93244b81fab6fb7f1fed0ae218a77f9c1a03370379960987cc2802b7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Despachante Oficial
+- Direcção Geral das Alfândegas
+- Garantia
+- Orgânica
+- Reforma Aduaneira
+relationships:
+- type: cites
+  target: pt:dre:147408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:03Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +105,22 @@ Considerando que aquele montante está bastante desajustado face à realidade ad
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 454.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, alterado pelo artigo 7.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 454.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, alterado pelo artigo 7.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 454.º A importância da caução a que se refere o artigo 440.º é fixada em 1000000$00.
+Art. 454.º A importância da caução a que se refere o artigo 440.º é fixada em 1000000$00.
 
 § único. ...
 
-###### Art. 2.º Os despachantes oficiais actualmente em exercício deverão, no prazo de 60 dias, reforçar as respectivas cauções para o montante estabelecido por este diploma.
+Art. 2.º Os despachantes oficiais actualmente em exercício deverão, no prazo de 60 dias, reforçar as respectivas cauções para o montante estabelecido por este diploma.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 8 de Junho de 1984.**
+Promulgado em 8 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1984.**
+Referendado em 8 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

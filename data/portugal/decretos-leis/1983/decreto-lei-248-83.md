@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1983-451852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7322af6f4e82bb225e9b867b808d39656441a36b8e977d10223eb87b5c76158
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66a936df1dc8c8a70068ac0b2b98c2bc6460bfcd5ddad6968a3919d4c935baac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência Funerária
+- Estabelecimento Hospitalar
+- Funeral
+- Lares
+- Multa
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:372853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:313653:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:372853:por
+  label: "Revogado o art. 2º deste diploma, bem como a redacção introduzida ao nº 1 do art. 2º do Dec Lei 47838 de 09-Ago\
+    \ 1967, pelo DEC LEI.206/2001.2001.07.27.MECO DR.IS-A [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2001-372853
+  date: '2001-07-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:41Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +115,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Sempre que tal se revele necessário, os órgãos de gestão dos hospitais e dos lares para a terceira idade poderão determinar que os funerais de pessoas falecidas nesses estabelecimentos, a realizar por agências com sede ou filial no respectivo concelho, fiquem dependentes de prévia inscrição das referidas agências naqueles estabelecimentos.
+Artigo 1.º - 1 - Sempre que tal se revele necessário, os órgãos de gestão dos hospitais e dos lares para a terceira idade poderão determinar que os funerais de pessoas falecidas nesses estabelecimentos, a realizar por agências com sede ou filial no respectivo concelho, fiquem dependentes de prévia inscrição das referidas agências naqueles estabelecimentos.
 
 2 - Nos casos previstos no número anterior, os serviços fúnebres serão distribuídos de forma equitativa pelas agências inscritas, em condições a acordar entre os estabelecimentos e as agências.
 
@@ -107,26 +123,26 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O disposto nos números anteriores não prejudica a faculdade de livre escolha, pelos familiares dos falecidos, da agência funerária que efectuará os funerais.
 
-###### Art. 2.º A realização de serviços fúnebres com violação do disposto neste diploma e dos acordos nele previstos fica sujeita às penalidades estabelecidas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, seguindo-se o procedimento determinado no n.º 1 e na primeira parte do n.º 2 do artigo 3.º e nos artigos 4.º e 5.º do mesmo diploma.
+Art. 2.º A realização de serviços fúnebres com violação do disposto neste diploma e dos acordos nele previstos fica sujeita às penalidades estabelecidas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, seguindo-se o procedimento determinado no n.º 1 e na primeira parte do n.º 2 do artigo 3.º e nos artigos 4.º e 5.º do mesmo diploma.
 
-###### Art. 3.º O artigo 2.º do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, passa a ter a seguinte redacção:
+Art. 3.º O artigo 2.º do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - A violação do disposto nos n.os 1 e 2 do artigo anterior será punida com multa de 12000$00 a 120000$00 e proibição de as agências efectuarem funerais de qualquer pessoa falecida nos hospitais e lares para a terceira idade por períodos de um a cinco anos.
+Art. 2.º - 1 - A violação do disposto nos n.os 1 e 2 do artigo anterior será punida com multa de 12000$00 a 120000$00 e proibição de as agências efectuarem funerais de qualquer pessoa falecida nos hospitais e lares para a terceira idade por períodos de um a cinco anos.
 
 2 - ...
 
 3 - ...
 
-###### Art. 4.º As referências feitas aos hospitais e seus funcionários no preâmbulo e no articulado do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, tornam-se extensivas aos lares para a terceira idade e respectivos funcionários.
+Art. 4.º As referências feitas aos hospitais e seus funcionários no preâmbulo e no articulado do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, tornam-se extensivas aos lares para a terceira idade e respectivos funcionários.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 17 de Maio de 1983.**
+Promulgado em 17 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Maio de 1983.**
+Referendado em 26 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

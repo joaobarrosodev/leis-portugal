@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/03100/02940295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1982-600513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2871d09eb3a9fa9984e904a500d4170ed9aacd1cc6d45aa1e45dfdb37586cc5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cff7919d38a07493b70bdebd38c6d2cb348e5151801f9b6a4f96632ff553855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desalojado
+- Guarda Fiscal
+- Integração de Trabalhadores
+- Quadro Paralelo
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:327822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426933:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:392672:por
+  label: Rectificado pela DECL.DD3092.1982.04.28.SG-PCM, DR.IS [105] de 07/Mai/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-392672
+  date: '1982-04-28'
+- type: repealed_by
+  target: pt:dre:177446:por
+  label: Revogado, no que respeita a oficiais, pelo DEC LEI.374/85.20.09.1985.MFP, DR.IS [217] de 20.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1985-177446
+  date: '1985-09-20'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:19Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +131,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro a que alude o n.º 1 do artigo 1.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, passa a ter as categorias e efectivos constantes do mapa I anexo ao presente diploma.
+Artigo 1.º O quadro a que alude o n.º 1 do artigo 1.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, passa a ter as categorias e efectivos constantes do mapa I anexo ao presente diploma.
 
-###### Art. 2.º Os artigos 9.º, 10.º e 11.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 9.º, 10.º e 11.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, passam a ter a seguinte redacção:
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Antiguidades)
 
@@ -114,7 +145,7 @@ Na integração dos militares no quadro paralelo, deverá ser observado, quanto 
 
 2) Para os restantes militares, é a antiguidade do último posto que tinham na Guarda Fiscal de Moçambique e nas polícias fiscais dos demais territórios descolonizados, posto que serviu de base à respectiva equivalência de integração.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Condições de promoção)
 
@@ -130,7 +161,7 @@ Na integração dos militares no quadro paralelo, deverá ser observado, quanto 
 
 6 - Os cabos e soldados serão submetidos, em em concorrência com os cabos e soldados do quadro privativo, às provas de aptidão e aos cursos de formação.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Transição do quadro paralelo para o quadro privativo da Guarda Fiscal)
 
@@ -144,20 +175,20 @@ c) Os segundos-sargentos mantêm-se no quadro paralelo;
 
 d) Os cabos e soldados transitam para o quadro privativo na data da promoção ao posto imediato.
 
-###### Art. 3.º - 1 - Aos oficiais do quadro de complemento do quadro paralelo são aplicáveis as disposições contidas no [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, com excepção dos artigos 1.º a 9.º, inclusive, e 32.º a 38.º, inclusive.
+Art. 3.º - 1 - Aos oficiais do quadro de complemento do quadro paralelo são aplicáveis as disposições contidas no [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, com excepção dos artigos 1.º a 9.º, inclusive, e 32.º a 38.º, inclusive.
 
 2 - Os sargentos, cabos e soldados do quadro paralelo têm os mesmos direitos e obrigações dos sargentos, cabos e soldados do quadro privativo, com excepção do estabelecido no artigo 1.º deste diploma.
 
-###### Art. 4.º Os oficiais de complemento que transitaram para o quadro privativo da Guarda Fiscal ao abrigo do artigo 11.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, regressarão ao seu quadro de origem na data da publicação do presente diploma.
+Art. 4.º Os oficiais de complemento que transitaram para o quadro privativo da Guarda Fiscal ao abrigo do artigo 11.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, regressarão ao seu quadro de origem na data da publicação do presente diploma.
 
-###### Art. 5.º Quaisquer dúvidas que surjam para a execução deste diploma serão resolvidas por despacho interpretativo do Ministro de Estado e das Finanças e do Plano.
+Art. 5.º Quaisquer dúvidas que surjam para a execução deste diploma serão resolvidas por despacho interpretativo do Ministro de Estado e das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Janeiro de 1982.**
+Promulgado em 25 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/03100/02940295.pdf))](https://files.diariodarepublica.pt/1s/1982/02/03100/02940295.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/03100/02940295.pdf)

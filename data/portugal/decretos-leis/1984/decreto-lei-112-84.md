@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/08000/11381140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1984-654518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d351ea817eb8e0b5e6d569b593a0045f978766a3a3fe3e67b2123dcae6bfc5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d1fee3d6d1a1c0d5572ce693d3478dddf9cdfcfa548ef6cda11ffd2b959dab2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
+- Imposto de Transacções
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:464019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483449:por
+  label: Rectificado pela DECL.DD5406.30.04.1984.pcm, DR.IS [100-3ºSupl] de 30.04.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-483449
+  date: '1984-04-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:23Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +121,9 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 21.º, alíneas a), b), c), d) e g) da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º e 22.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º e 22.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º ...
 
@@ -116,7 +137,7 @@ No uso da autorização conferida pelo artigo 21.º, alíneas a), b), c), d) e g
 
 § 6.º Não se consideram produtoras, para efeitos deste Código, as actividades desenvolvidas em estaleiros, oficinas e outros estabelecimentos por construtores civis e empreiteiros de obras públicas, quando a respectiva produção se destine a ser exclusivamente utilizada na actividade de construção ou beneficiação de imóveis, para venda, por eles directamente construídos ou beneficiados.
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 § 1.º ...
 
@@ -138,7 +159,7 @@ b) A 6000$00, tratando-se de bens compreendidos na verba 38 da mesma lista.
 
 § 8.º ...
 
-###### Art. 22.º ...
+Art. 22.º ...
 
 a) ...
 
@@ -154,7 +175,7 @@ d) Cerveja - taxa específica de 17$00 por litro.
 
 § 3.º ...
 
-###### Art. 2.º Na lista I anexa ao Código do Imposto de Transacções é aditada a verba n.º 30.9.1 e alteradas as verbas n.os 30.14 e 37, nos termos seguintes:
+Art. 2.º Na lista I anexa ao Código do Imposto de Transacções é aditada a verba n.º 30.9.1 e alteradas as verbas n.os 30.14 e 37, nos termos seguintes:
 
 30 - e) ...
 
@@ -174,7 +195,7 @@ De capacidade igual ou inferior a 0,40 l e de valor tributável igual ou inferio
 
 37 - b) Utensílios e outros equipamentos exclusiva ou principalmente destinados à detecção e combate a incêndios.
 
-###### Art. 3.º Na lista II anexa ao referido Código são eliminadas as verbas n.os 1, 9-A e 17, aditada a verba n.º 4-B e alteradas as verbas n.os 4, 5, 7, 9, 10, 15, 26, 27 e 35, nos termos seguintes:
+Art. 3.º Na lista II anexa ao referido Código são eliminadas as verbas n.os 1, 9-A e 17, aditada a verba n.º 4-B e alteradas as verbas n.os 4, 5, 7, 9, 10, 15, 26, 27 e 35, nos termos seguintes:
 
 4 - a) Aparelhos receptores, registadores e reprodutores de som ou imagem e respectivos estojos, a seguir indicados:
 
@@ -272,7 +293,7 @@ c) De caixa alta de valor tributável superior a 90000$00;
 
 d) De caixas total ou parcialmente de metais preciosos ou guarnecidos de pérolas naturais ou de cultura, de pedras preciosas naturais, sintéticas ou reconstituídas.
 
-###### Art. 4.º Na lista III anexa ao referido Código são eliminadas as verbas n.os 4, 8 e 26 e alteradas as verbas n.os 5, 9 e 16, nos termos seguintes:
+Art. 4.º Na lista III anexa ao referido Código são eliminadas as verbas n.os 4, 8 e 26 e alteradas as verbas n.os 5, 9 e 16, nos termos seguintes:
 
 5 - ...
 
@@ -284,16 +305,16 @@ d) De caixas total ou parcialmente de metais preciosos ou guarnecidos de pérola
 
 16 - Licores de valor tributável superior a 600$00 por litro.
 
-###### Art. 5.º É prorrogado até 31 de Dezembro de 1984 o regime estabelecido no artigo 4.º do [Decreto-Lei n.º 360/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1980-464019), de 9 de Setembro.
+Art. 5.º É prorrogado até 31 de Dezembro de 1984 o regime estabelecido no artigo 4.º do [Decreto-Lei n.º 360/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1980-464019), de 9 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 20 de Março de 1984.**
+Promulgado em 20 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Março de 1984.**
+Referendado em 22 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

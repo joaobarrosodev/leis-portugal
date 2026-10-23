@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20400/24392441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1986-219973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 046c4b23324106d56c1a4754180ccc9569a7141e96e2efa3c5ecf947abb084a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24a65e1a17d82a27a0d11eeb17630a5e7536755a2889e7579b2b48dbde417706
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Armazenagem
+- Armazenagens de Depósito Provisório
+- Desalfândegamento
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:483144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546985:por
+  label: "Aditados os arts. 3º-A, 8º-A e 8º-B, que fixa as normas a que deverá obedecer a autorização e funcionamento de armazéns\
+    \ de depósito provisório pelo DEC LEI.291/89.1989.09.02.MF, DR.IS [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1989-546985
+  date: '1989-09-02'
+- type: amended_by
+  target: pt:dre:694041:por
+  label: Alterado o art. 3º pelo DEC LEI.16/91.1991.01.10.MF, DR.IS-A [8]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1991-694041
+  date: '1991-01-10'
+- type: cites
+  target: pt:dre:144399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601115:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483144:por
+  label: "Revogado, a partir de 25.11.2009, pelo DEC LEI.311/2009.26.10.2009.MFAP, DR.IS [207] de 26.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-2009-483144
+  date: '2009-10-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:52Z'
   warnings: []
   errors: []
 ---
@@ -100,25 +145,25 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O presente decreto-lei fixa as normas a que deverá obedecer a autorização e funcionamento de armazéns destinados a receber mercadorias com o estatuto de depósito provisório, adiante designados «armazéns de depósito provisório».
+Artigo 1.º - 1 - O presente decreto-lei fixa as normas a que deverá obedecer a autorização e funcionamento de armazéns destinados a receber mercadorias com o estatuto de depósito provisório, adiante designados «armazéns de depósito provisório».
 
 2 - Entendem-se por armazéns de depósito provisório as instalações para as quais podem ser descarregadas as mercadorias apresentadas à alfândega nos termos do [Decreto-Lei n.º 511/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1985-546417), de 31 de Dezembro, e onde podem permanecer pelos prazos fixados pelas autoridades aduaneiras nos termos da lei, até que lhes seja atribuído um destino aduaneiro.
 
-###### Art. 2.º - 1 - Os armazéns de depósito provisório poderão ser privados ou públicos, consoante se destinem a receber respectivamente mercadorias destinadas a um ou a vários consignatários
+Art. 2.º - 1 - Os armazéns de depósito provisório poderão ser privados ou públicos, consoante se destinem a receber respectivamente mercadorias destinadas a um ou a vários consignatários
 
 2 - Os armazéns a que alude o número anterior podem funcionar em recintos cobertos e totalmente fechados ou em recintos ao ar livre.
 
-###### Art. 3.º - 1 - A autorização para constituição de armazéns privados de depósito provisório será concedida pelos directores das alfândegas da área da respectiva jurisdição.
+Art. 3.º - 1 - A autorização para constituição de armazéns privados de depósito provisório será concedida pelos directores das alfândegas da área da respectiva jurisdição.
 
 2 - A autorização referida no número anterior fica condicionada à atribuição do regime simplificado de descarga directa, previsto no [Decreto-Lei n.º 363/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1981-144399), de 31 de Dezembro, regulamentado pela [Portaria n.º 158/82](https://diariodarepublica.pt/dr/detalhe/portaria/158-1982-601115), de 4 de Fevereiro, e deve obedecer aos requisitos fixados nestes diplomas legais e no [Despacho Normativo n.º 47/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1985-183051), de 5 de Julho.
 
-###### Art. 4.º - 1 - A autorização para a constituição de armazéns públicos de depósito provisório será concedida pelo Ministro das Finanças a pessoas colectivas com idoneidade fiscal.
+Art. 4.º - 1 - A autorização para a constituição de armazéns públicos de depósito provisório será concedida pelo Ministro das Finanças a pessoas colectivas com idoneidade fiscal.
 
 2 - A autorização pode ser concedida para armazéns do próprio requerente ou para instalações que, não sendo de sua propriedade, prove estar em condições legais de poder utilizar.
 
 3 - O capital social mínimo das entidades requerentes é fixado por despacho do Ministro das Finanças.
 
-###### Art. 5.º Os armazéns públicos de depósito provisório deverão preencher os seguintes requisitos:
+Art. 5.º Os armazéns públicos de depósito provisório deverão preencher os seguintes requisitos:
 
 a) Dimensão que permita responder às necessidades de armazenagem resultantes do volume de tráfego verificado na delegação aduaneira em cuja área se pretendam constituir;
 
@@ -132,37 +177,37 @@ e) Existência de instrumentos e equipamento indispensáveis à movimentação, 
 
 f) Vias que possibilitem o fácil acesso dos veículos transportadores das mercadorias e um adequado parque de estacionamento.
 
-###### Art. 6.º A autorização de armazéns públicos de depósito provisório em recintos ao ar livre só será autorizada quando se considere não haver qualquer inconveniente face à natureza das mercadorias, designadamente por se tratar de mercadorias pesadas, volumosas ou perigosas.
+Art. 6.º A autorização de armazéns públicos de depósito provisório em recintos ao ar livre só será autorizada quando se considere não haver qualquer inconveniente face à natureza das mercadorias, designadamente por se tratar de mercadorias pesadas, volumosas ou perigosas.
 
-###### Art. 7.º Independentemente do preenchimento das condições fixadas nos artigos 4.º, 5.º e 6.º, o Ministro das Finanças poderá denegar a autorização para a constituição de armazéns públicos de depósito provisório sempre que não se justifique a sua existência, nomeadamente em função das necessidades de armazenagem.
+Art. 7.º Independentemente do preenchimento das condições fixadas nos artigos 4.º, 5.º e 6.º, o Ministro das Finanças poderá denegar a autorização para a constituição de armazéns públicos de depósito provisório sempre que não se justifique a sua existência, nomeadamente em função das necessidades de armazenagem.
 
-###### Art. 8.º - 1 - O requerente a quem seja concedida autorização para a constituição de armazém de depósito provisório fica responsável perante as autoridades aduaneiras pelo pagamento dos direitos aduaneiros e taxas de efeito equivalente, direitos niveladores agrícolas e outras imposições respeitantes às mercadorias entradas em armazém que forem encontradas em falta, sem prejuízo de eventual procedimento por infracção fiscal, nos termos da legislação aplicável.
+Art. 8.º - 1 - O requerente a quem seja concedida autorização para a constituição de armazém de depósito provisório fica responsável perante as autoridades aduaneiras pelo pagamento dos direitos aduaneiros e taxas de efeito equivalente, direitos niveladores agrícolas e outras imposições respeitantes às mercadorias entradas em armazém que forem encontradas em falta, sem prejuízo de eventual procedimento por infracção fiscal, nos termos da legislação aplicável.
 
 2 - Para garantia da responsabilidade estabelecida no número anterior, o titular da autorização prestará caução por depósito ou fiança bancária, de montante a fixar pelo director da alfândega, tendo em conta, nomeadamente, a capacidade média de armazenagem e a carga fiscal incidente sobre as mercadorias a armazenar.
 
 3 - O titular da autorização deverá dispor de uma contabilidade organizada, de modo a permitir às autoridades aduaneiras um controle imediato sobre as mercadorias entradas, saídas e existentes em armazém.
 
-###### Art. 9.º Os titulares de autorização de armazéns públicos de depósito provisório submeterão à aprovação do director-geral das Alfândegas um regulamento de exploração, do qual deverá constar, nomeadamente, o tarifário a praticar.
+Art. 9.º Os titulares de autorização de armazéns públicos de depósito provisório submeterão à aprovação do director-geral das Alfândegas um regulamento de exploração, do qual deverá constar, nomeadamente, o tarifário a praticar.
 
-###### Art. 10.º A entrada em funcionamento dos armazéns públicos de depósito provisório dependerá sempre de vistoria prévia das respectivas instalações pela alfândega competente que confirme a observância dos requisitos fixados no artigo 5.º, para além da constituição da caução mencionada no n.º 2 do artigo 8.º e da aprovação do regulamento referido no artigo anterior.
+Art. 10.º A entrada em funcionamento dos armazéns públicos de depósito provisório dependerá sempre de vistoria prévia das respectivas instalações pela alfândega competente que confirme a observância dos requisitos fixados no artigo 5.º, para além da constituição da caução mencionada no n.º 2 do artigo 8.º e da aprovação do regulamento referido no artigo anterior.
 
-###### Art. 11.º Na entrada das mercadorias em armazém de depósito provisório observar-se-ão as seguinte formalidades:
+Art. 11.º Na entrada das mercadorias em armazém de depósito provisório observar-se-ão as seguinte formalidades:
 
 a) As mercadorias só poderão descarregar dos respectivos meios de transporte após autorização dos serviços aduaneiros competentes;
 
 b) A entrada das mercadorias em armazém processar-se-á através da declaração sumária ou documento equivalente aceite pelas autoridades aduaneiras com elementos constantes do n.º 2 do artigo 5.º do [Decreto-Lei n.º 511/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1985-546417), de 31 de Dezembro.
 
-###### Art. 12.º - 1 - Os prazos de permanência das mercadorias em armazém de depósito provisório serão de 45 dias para as mercadorias chegadas ao País por via marítima e de quinze dias para as chegadas por qualquer outra via, podendo estes prazos ser prorrogados pelos chefes das respectivas estâncias aduaneiras, em casos devidamente justificados.
+Art. 12.º - 1 - Os prazos de permanência das mercadorias em armazém de depósito provisório serão de 45 dias para as mercadorias chegadas ao País por via marítima e de quinze dias para as chegadas por qualquer outra via, podendo estes prazos ser prorrogados pelos chefes das respectivas estâncias aduaneiras, em casos devidamente justificados.
 
 2 - O prazo de permanência nos armazéns privados de depósito provisório, mesmo com prorrogação, não poderá exceder 60 dias, independentemente da via de chegada das mercadorias ao País.
 
 3 - Decorridos os prazos previstos nos anteriores n.os 1 e 2 sem que às mercadorias seja atribuído um destino aduaneiro, serão as mesmas consideradas na situação de demoradas, ficando os titulares dos armazéns obrigados a elaborar e a entregar nos serviços aduaneiros a listagem a que se refere o artigo 648.º do Regulamento das Alfândegas.
 
-###### Art. 13.º Nos termos da legislação aduaneira aplicável, poderá haver lugar a exames prévios e a recolha de amostras em locais apropriados para o efeito dentro dos armazéns.
+Art. 13.º Nos termos da legislação aduaneira aplicável, poderá haver lugar a exames prévios e a recolha de amostras em locais apropriados para o efeito dentro dos armazéns.
 
-###### Art. 14.º As mercadorias depositadas em armazéns de depósito provisório só poderão ser objecto de manipulações usuais desde que estas se destinem a assegurar a sua conservação e mediante autorização do director da alfândega respectiva.
+Art. 14.º As mercadorias depositadas em armazéns de depósito provisório só poderão ser objecto de manipulações usuais desde que estas se destinem a assegurar a sua conservação e mediante autorização do director da alfândega respectiva.
 
-###### Art. 15.º - 1 - As mercadorias serão arrumadas dentro dos armazéns por forma a possibilitar a sua identificação por contramarca fiscal.
+Art. 15.º - 1 - As mercadorias serão arrumadas dentro dos armazéns por forma a possibilitar a sua identificação por contramarca fiscal.
 
 2 - Sempre que as autoridades aduaneiras pretendam proceder a qualquer controle físico das mercadorias, nomeadamente à sua verificação e reverificação, a prestação de todos os serviços inerentes à movimentação, à abertura de volumes e a quaisquer actos exigidos por essas formalidades é da exclusiva responsabilidade dos titulares dos armazéns.
 
@@ -170,20 +215,20 @@ b) A entrada das mercadorias em armazém processar-se-á através da declaraçã
 
 4 - A alfândega exercerá a sua acção fiscalizadora em todas as dependências dos armazéns, podendo, designadamente, proceder a varejos e ter acesso ao controle contabilístico referente à carga, bem como pedir todos os esclarecimentos que julgue necessários.
 
-###### Art. 16.º O Ministro das Finanças poderá determinar, mediante despacho fundamentado, o encerramento dos armazéns de depósito provisório, e bem assim os directores das alfândegas relativamente aos armazéns privados de depósito da área da respectiva jurisdição, sem que tal facto possa constituir fundamento válido para a exigência de qualquer indemnização.
+Art. 16.º O Ministro das Finanças poderá determinar, mediante despacho fundamentado, o encerramento dos armazéns de depósito provisório, e bem assim os directores das alfândegas relativamente aos armazéns privados de depósito da área da respectiva jurisdição, sem que tal facto possa constituir fundamento válido para a exigência de qualquer indemnização.
 
-###### Art. 17.º Os terminais e depósitos equiparados a entrepostos nos termos do [Decreto-Lei n.º 392/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1985-178354), de 9 de Outubro, poderão receber mercadorias com o estatuto de depósito provisório, ficando, todavia, sujeitos ao cumprimento do consignado nos artigos 11.º a 15.º do presente diploma.
+Art. 17.º Os terminais e depósitos equiparados a entrepostos nos termos do [Decreto-Lei n.º 392/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1985-178354), de 9 de Outubro, poderão receber mercadorias com o estatuto de depósito provisório, ficando, todavia, sujeitos ao cumprimento do consignado nos artigos 11.º a 15.º do presente diploma.
 
-###### Art. 18.º As instruções necessárias à aplicação do presente diploma serão fixadas por despacho do Ministro das Finanças.
+Art. 18.º As instruções necessárias à aplicação do presente diploma serão fixadas por despacho do Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Agosto de 1986.**
+Promulgado em 9 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Agosto de 1986.**
+Referendado em 14 de Agosto de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/04700/04230424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 629994cde64bc74ffabfb220d205d23fe57751ec59d2324ac029b8261e5abc90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 412181b4ac1c7352676c99c4f728995ea3c2e9fb874fe8e4cbccf94e5951b978
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Energia
+- Política Energética
+- Poupança de Energia
 relationships:
 - type: amended_by
   target: pt:dre:249821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:249821:por
+  label: "Revogado, a partir de 14.06.2008, pelo DEC LEI.71/2008.15.04.2008.MEI, DR.IS [74] de 15.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2008-249821
+  date: '2008-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:23Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +112,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O presente decreto-lei aplica-se a instalações consumidoras intensivas de energia e será regulamentado por portarias do Ministério da Indústria, Energia e Exportação.
+Artigo 1.º - 1 - O presente decreto-lei aplica-se a instalações consumidoras intensivas de energia e será regulamentado por portarias do Ministério da Indústria, Energia e Exportação.
 
 2 - As portarias referidas no número anterior determinarão as instalações consumidoras intensivas de energia a que se aplicam.
 
-###### Art. 2.º - 1 - As entidades proprietárias ou utentes que tenham a responsabilidade pela utilização das instalações consumidoras intensivas de energia deverão, em relação às mesmas e em termos a fixar pelos regulamentos:
+Art. 2.º - 1 - As entidades proprietárias ou utentes que tenham a responsabilidade pela utilização das instalações consumidoras intensivas de energia deverão, em relação às mesmas e em termos a fixar pelos regulamentos:
 
 a) Fazer examinar as condições em que operam relativamente à utilização de energia;
 
@@ -118,11 +126,11 @@ c) Cumprir o referido plano, sob a responsabilidade de um técnico qualificado.
 
 2 - Os regulamentos fixarão as condições exigidas para o exercício da actividade dos técnicos examinadores, dos autores de planos e dos responsáveis pelo controle da sua execução.
 
-###### Art. 3.º Os planos de racionalização de consumos de energia definirão obrigatoriamente metas de redução dos consumos específicos, os quais não poderão ter valor inferior aos que venham a ser fixados pelos regulamentos que lhes sejam aplicáveis.
+Art. 3.º Os planos de racionalização de consumos de energia definirão obrigatoriamente metas de redução dos consumos específicos, os quais não poderão ter valor inferior aos que venham a ser fixados pelos regulamentos que lhes sejam aplicáveis.
 
-###### Art. 4.º O Governo, através do Ministério da Indústria, Energia e Exportação, poderá, nos termos dos artigos 6.º e 7.º, conceder subsídios às entidades proprietárias ou utentes que tenham a responsabilidade pela utilização de instalações consumidoras intensivas de energia, com vista à melhoria das condições de utilização de energia na respectiva instalação.
+Art. 4.º O Governo, através do Ministério da Indústria, Energia e Exportação, poderá, nos termos dos artigos 6.º e 7.º, conceder subsídios às entidades proprietárias ou utentes que tenham a responsabilidade pela utilização de instalações consumidoras intensivas de energia, com vista à melhoria das condições de utilização de energia na respectiva instalação.
 
-###### Art. 5.º - 1 - O incumprimento das obrigações previstas no n.º 1 do artigo 2.º por parte das entidades proprietárias ou utentes que tenham a responsabilidade pela utilização de instalações consumidoras de energia fica sujeito a:
+Art. 5.º - 1 - O incumprimento das obrigações previstas no n.º 1 do artigo 2.º por parte das entidades proprietárias ou utentes que tenham a responsabilidade pela utilização de instalações consumidoras de energia fica sujeito a:
 
 a) Perda de direito a benefícios de esquemas de apoio e de incentivos a investimentos, no domínio da energia, salvo o disposto no artigo 7.º deste diploma;
 
@@ -130,22 +138,22 @@ b) Multas de 100000$00 a 1000000$00, que serão elevadas ao dobro em caso de rei
 
 2 - A Direcção-Geral de Energia procederá à cobrança da multa prevista na alínea b) do número anterior, devendo para o efeito expedir a competente guia de receita, a qual deverá ser paga no prazo de 30 dias, findo o qual a cobrança será efectuada de acordo com o estabelecido no artigo 144.º do Código de Processo das Contribuições e Impostos, aprovado pelo Decreto-Lei n.º 95005, de 27 de Abril de 1963.
 
-###### Art. 6.º - 1 - As importâncias resultantes da aplicação das penalidades a que se refere a alínea b) do n.º 1 do artigo anterior serão escrituradas em rubrica especial do orçamento das receitas do Orçamento Geral do Estado, servindo de contrapartida à verba inscrita no orçamento de despesas do Ministério da Indústria, Energia e Exportação, tendo em atenção o artigo 7.º, e por elas serão satisfeitos todos os encargos resultantes da aplicação do presente diploma.
+Art. 6.º - 1 - As importâncias resultantes da aplicação das penalidades a que se refere a alínea b) do n.º 1 do artigo anterior serão escrituradas em rubrica especial do orçamento das receitas do Orçamento Geral do Estado, servindo de contrapartida à verba inscrita no orçamento de despesas do Ministério da Indústria, Energia e Exportação, tendo em atenção o artigo 7.º, e por elas serão satisfeitos todos os encargos resultantes da aplicação do presente diploma.
 
 2 - Na rubrica a que se refere o número anterior poderão também ser inscritas, e com o mesmo fim, quaisquer outras dotações.
 
-###### Art. 7.º - 1 - Os subsídios a que se refere o artigo 4.º deste diploma serão concedidos às entidades proprietárias ou utentes que tenham a responsabilidade pela utilização de instalações consumidoras de energia que, tendo sido multadas nos termos do artigo 5.º, mostrem, no entanto, cumpridas, no prazo de 1 ano, as obrigações previstas no n.º 1 do artigo 2.º
+Art. 7.º - 1 - Os subsídios a que se refere o artigo 4.º deste diploma serão concedidos às entidades proprietárias ou utentes que tenham a responsabilidade pela utilização de instalações consumidoras de energia que, tendo sido multadas nos termos do artigo 5.º, mostrem, no entanto, cumpridas, no prazo de 1 ano, as obrigações previstas no n.º 1 do artigo 2.º
 
 2 - Estes subsídios terão exclusivamente o fim a que se refere o artigo 4.º
 
 3 - Estes subsídios terão, para cada empresa, como máximo, o valor das multas pagas pela mesma.
 
-###### Art. 8.º As dúvidas resultantes da aplicação do presente diploma e seus regulamentos serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação.
+Art. 8.º As dúvidas resultantes da aplicação do presente diploma e seus regulamentos serão resolvidas por despacho do Ministro da Indústria, Energia e Exportação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 11 de Fevereiro de 1982.**
+Promulgado em 11 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

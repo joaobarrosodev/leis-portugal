@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 31/1986, 1º Suplemento, Série I de 1986-02-06
   number: '31'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 356-(2) a 356-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/02/03101/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f767742c7670375b9cfc5d754321632af98836dfac1da7afde60592a255b76c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65010a74b8a35487d29a3fab5ee4ee5411eef08c04e3689785a35c6e70f2c58a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Ensino Preparatório
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:506397:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573365:por
+  label: "Alterada a al. a) do nº 2 do art. 2º, o nº 5 do art. 3º, a al. c) do nº 1 do art. 6º, o nº 2 do art. 9º, os nºs.\
+    \ 1 e 2 do art. 15º, o nº 2 do art. 19º e o nº 1 do art. 24º pelo DEC LEI.50-B/87.29.01.1987.MEC, DR.IS [24-Supl] de 29.01.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-b-1987-573365
+  date: '1987-01-29'
+- type: cites
+  target: pt:dre:140488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506397:por
+  label: "Revogado pelo DEC LEI.18/88.21.01.1988.ME, DR.IS [17]Supl de 21.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1988-506397
+  date: '1988-01-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:50Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +143,7 @@ Considerando que é de toda a conveniência, tanto para a Administração como p
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º, da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O provimento nos lugares de professor efectivo de cada grupo, subgrupo, disciplina ou especialidade dos ensinos preparatório e secundário será feito por concurso, a abrir anualmente pela Direcção-Geral de Pessoal, mediante aviso a publicar no Diário da República até 31 de Março.
+Artigo 1.º - 1 - O provimento nos lugares de professor efectivo de cada grupo, subgrupo, disciplina ou especialidade dos ensinos preparatório e secundário será feito por concurso, a abrir anualmente pela Direcção-Geral de Pessoal, mediante aviso a publicar no Diário da República até 31 de Março.
 
 2 - Do aviso de abertura do concurso constarão:
 
@@ -108,7 +155,7 @@ c) Quaisquer outros elementos, tais como prazos, condições e locais de apresen
 
 3 - O prazo para admissão a concurso será de 10 dias a contar da publicação no Diário da República do aviso de abertura.
 
-###### Art. 2.º - 1 - Os candidatos ao concurso a que se refere o presente diploma serão ordenados de acordo com a ordem de prioridade estabelecida nas alíneas seguintes:
+Art. 2.º - 1 - Os candidatos ao concurso a que se refere o presente diploma serão ordenados de acordo com a ordem de prioridade estabelecida nas alíneas seguintes:
 
 a) Professores efectivos;
 
@@ -130,7 +177,7 @@ c) Professores que adquiriram a categoria de efectivo ao abrigo do disposto no n
 
 3 - Nos concursos regulados por este diploma a realizar nos anos de 1987 e seguintes os professores referidos na alínea e) do n.º 1 deste artigo só poderão concorrer ao grupo, subgrupo, disciplina ou especialidade em que se encontrem colocados à data de abertura do concurso.
 
-###### Art. 3.º - 1 - Os opositores ao concurso incluídos em cada uma das alíneas a) e b) do n.º 1 do artigo 2.º deste decreto-lei são ordenados por ordem decrescente da respectiva graduação profissional.
+Art. 3.º - 1 - Os opositores ao concurso incluídos em cada uma das alíneas a) e b) do n.º 1 do artigo 2.º deste decreto-lei são ordenados por ordem decrescente da respectiva graduação profissional.
 
 2 - A graduação profissional referida no número anterior é determinada pela soma da classificação profissional obtida de acordo com a legislação em vigor à data da sua obtenção, com a parcela N x 1 valor, em que N é o quociente da divisão inteira por 365 dias do número de dias de serviço docente oficial ou equiparado qualificado de Bom, contado a partir do dia 1 de Setembro do ano em que o professor concluiu a sua profissionalização no grupo, subgrupo, disciplina ou especialidade em que é opositor até ao dia 30 de Setembro imediatamente anterior à data da abertura do concurso, não podendo N exceder 20.
 
@@ -150,11 +197,11 @@ c) Candidatos portadores de maior grau académico:
 
 d) Candidatos mais idosos.
 
-###### Art. 4.º - 1 - Os docentes incluídos na alínea c) do n.º 1 do artigo 2.º deste decreto-lei são ordenados nos termos do disposto no artigo 17.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
+Art. 4.º - 1 - Os docentes incluídos na alínea c) do n.º 1 do artigo 2.º deste decreto-lei são ordenados nos termos do disposto no artigo 17.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
 
 2 - Os docentes incluídos nas alíneas d) e e) do n.º 1 do artigo 2.º deste decreto-lei são ordenados de acordo com o estabelecido no artigo 17.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), tendo em conta o disposto no artigo 6.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
 
-###### Art. 5.º A apresentação a concurso far-se-á mediante o preenchimento de um boletim normalizado, do qual constarão obrigatoriamente:
+Art. 5.º A apresentação a concurso far-se-á mediante o preenchimento de um boletim normalizado, do qual constarão obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -168,7 +215,7 @@ e) Situação em que o candidato concorre, de acordo com o disposto no artigo 2.
 
 f) Códigos dos estabelecimentos de ensino e dos distritos e zonas a que o candidato concorre, de acordo com a identificação estabelecida no aviso de abertura do concurso.
 
-###### Art. 6.º - 1 - Os candidatos ao concurso a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, num e num só boletim, de acordo com o previsto numa ou mais das seguintes alíneas:
+Art. 6.º - 1 - Os candidatos ao concurso a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, num e num só boletim, de acordo com o previsto numa ou mais das seguintes alíneas:
 
 a) Códigos de estabelecimentos de ensino do continente, no máximo de 50;
 
@@ -178,17 +225,17 @@ c) Códigos das zonas do continente referenciadas no mapa anexo ao presente dipl
 
 2 - Quando um candidato concorrer por distritos ou por zonas, considera-se que manifesta igual preferência por todos os estabelecimentos de ensino desse distrito ou dessa zona.
 
-###### Art. 7.º - 1 - Os candidatos que sejam professores efectivos apenas poderão concorrer, nessa qualidade, aos grupos, subgrupos, disciplinas ou especialidades em que estão providos.
+Art. 7.º - 1 - Os candidatos que sejam professores efectivos apenas poderão concorrer, nessa qualidade, aos grupos, subgrupos, disciplinas ou especialidades em que estão providos.
 
 2 - Os candidatos que sejam professores efectivos e possuam também habilitação profissional para outros grupos, subgrupos, disciplinas ou especialidades poderão, não concorrendo ao grupo, subgrupo disciplina ou especialidade em que são efectivos, optar por candidatar-se a um e um só daqueles grupos, subgrupos, disciplinas ou especialidades, na qualidade de professores profissionalizados não efectivos, integrando-se, neste caso, na situação prevista na alínea b) do n.º 1 do artigo 2.º deste diploma.
 
 3 - Os candidatos que sejam profissionalizados não efectivos com habilitação profissional para mais de um grupo, subgrupo, disciplina ou especialidade apenas se poderão candidatar a um desses grupos, subgrupos, disciplinas ou especialidades.
 
-###### Art. 8.º Serão excluídos do concurso os candidatos que preencherem irregularmente o respectivo boletim de admissão.
+Art. 8.º Serão excluídos do concurso os candidatos que preencherem irregularmente o respectivo boletim de admissão.
 
 2 - Poderá não haver recuperação de vagas sempre
 
-###### Art. 9.º - 1 - O concurso a que se refere este diploma realiza-se com recuperação automática de vagas, de modo que cada concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com menor graduação.
+Art. 9.º - 1 - O concurso a que se refere este diploma realiza-se com recuperação automática de vagas, de modo que cada concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com menor graduação.
 
 que os lugares já providos em anteriores concursos excedam as necessidades reais do estabelecimento de ensino.
 
@@ -198,29 +245,29 @@ que os lugares já providos em anteriores concursos excedam as necessidades reai
 
 5 - As vagas que resultarem da efectivação num grupo diferente daquele em que estavam providos os candidatos que concorrem nas condições do n.º 2 do artigo 7.º deste diploma só são consideradas para concursos posteriores àquele em que se verificarem.
 
-###### Art. 10.º - 1 - As listas provisórias de ordenação dos candidatos serão publicadas no Diário da República, podendo os mesmos reclamar, no prazo de 8 dias a contar do dia imediato ao da mencionada publicação, dos elementos delas constantes, bem como dos verbetes distribuídos pela Direcção-Geral de Pessoal aos estabelecimentos de ensino e dos quais constam os códigos dos estabelecimentos de ensino, dos distritos e das zonas e ainda dos grupos, subgrupos, disciplinas ou especialidades a que os candidatos foram opositores, sem prejuízo do disposto no número seguinte.
+Art. 10.º - 1 - As listas provisórias de ordenação dos candidatos serão publicadas no Diário da República, podendo os mesmos reclamar, no prazo de 8 dias a contar do dia imediato ao da mencionada publicação, dos elementos delas constantes, bem como dos verbetes distribuídos pela Direcção-Geral de Pessoal aos estabelecimentos de ensino e dos quais constam os códigos dos estabelecimentos de ensino, dos distritos e das zonas e ainda dos grupos, subgrupos, disciplinas ou especialidades a que os candidatos foram opositores, sem prejuízo do disposto no número seguinte.
 
 2 - O prazo de reclamações a que se refere o número anterior será de 12 dias em relação aos candidatos que exerçam funções no estrangeiro, como cooperantes, em Macau ou nas regiões autónomas.
 
 3 - É da competência do director-geral de Pessoal a decisão sobre as reclamações referidas no n.º 1 deste artigo, que só serão consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais.
 
-###### Art. 11.º - 1 - As desistências do concurso ou de parte das preferências manifestadas ou de alterações às mesmas são admitidas desde que os respectivos pedidos dêem entrada na Direcção-Geral de Pessoal até ao termo do prazo de reclamações a que se refere o n.º 1 do artigo anterior.
+Art. 11.º - 1 - As desistências do concurso ou de parte das preferências manifestadas ou de alterações às mesmas são admitidas desde que os respectivos pedidos dêem entrada na Direcção-Geral de Pessoal até ao termo do prazo de reclamações a que se refere o n.º 1 do artigo anterior.
 
 2 - Os pedidos de desistência fora do prazo indicado no número anterior serão objecto de despacho do director-geral de Pessoal, proferido caso a caso.
 
 3 - Decididas as reclamações, as listas provisórias converter-se-ão em definitivas, tendo em conta as alterações decorrentes das reclamações julgadas procedentes e das provenientes das desistências.
 
-###### Art. 12.º - 1 - As listas de colocações serão publicadas no Diário da República e constituem o único meio que a Direcção-Geral de Pessoal utilizará para comunicar aos interessados as respectivas colocações.
+Art. 12.º - 1 - As listas de colocações serão publicadas no Diário da República e constituem o único meio que a Direcção-Geral de Pessoal utilizará para comunicar aos interessados as respectivas colocações.
 
 2 - As listas definitivas de graduação e as listas de colocações serão homologadas por despacho ministerial.
 
 3 - Para todos os efeitos, considera-se que a não apresentação de reclamação por parte dos candidatos dos elementos constantes das listas provisórias e dos verbetes referidos no n.º 1 do artigo 10.º equivale à aceitação tácita dos mesmos, daí resultando a intempestividade do recurso hierárquico, quando interposto com base nesses elementos.
 
-###### Art. 13.º Até à publicação do estatuto do pessoal docente dos ensinos preparatório e secundário, às nomeações e transferências do pessoal docente dos quadros daqueles graus de ensino aplica-se o disposto na legislação em vigor sobre a matéria.
+Art. 13.º Até à publicação do estatuto do pessoal docente dos ensinos preparatório e secundário, às nomeações e transferências do pessoal docente dos quadros daqueles graus de ensino aplica-se o disposto na legislação em vigor sobre a matéria.
 
-###### Art. 14.º Os provimentos do pessoal docente dos quadros das escolas preparatórias e secundárias entendem-se sempre feitos por urgente conveniência de serviço, sendo devidos os respectivos abonos a partir da entrada em exercício de funções.
+Art. 14.º Os provimentos do pessoal docente dos quadros das escolas preparatórias e secundárias entendem-se sempre feitos por urgente conveniência de serviço, sendo devidos os respectivos abonos a partir da entrada em exercício de funções.
 
-###### Art. 15.º - 1 - No período decorrente de 1 de Setembro a 1 de Outubro do ano escolar a que o concurso respeita e sem prejuízo das respectivas obrigações e regalias em relação à escola em que prestam serviço, os docentes tomarão posse provisória dos lugares que, nos termos das listas de colocação, lhes hajam sido atribuídos por efeitos do respectivo concurso, lavrando-se o competente termo.
+Art. 15.º - 1 - No período decorrente de 1 de Setembro a 1 de Outubro do ano escolar a que o concurso respeita e sem prejuízo das respectivas obrigações e regalias em relação à escola em que prestam serviço, os docentes tomarão posse provisória dos lugares que, nos termos das listas de colocação, lhes hajam sido atribuídos por efeitos do respectivo concurso, lavrando-se o competente termo.
 
 2 - A posse a que se refere o número anterior produz efeitos a partir de 1 de Outubro, sem prejuízo da data a partir da qual seja determinada a apresentação na escola em que o professor foi colocado.
 
@@ -228,7 +275,7 @@ que os lugares já providos em anteriores concursos excedam as necessidades reai
 
 4 - O provimento dos lugares considerados vagos por efeito do disposto do n.º 1 do artigo 9.º do presente diploma far-se-á independentemente da publicação no Diário da República da data de vacatura do lugar, coincidindo a mesma com a data do despacho ministerial que autorize a transferência do antigo titular.
 
-###### Art. 16.º - 1 - No caso de ao provimento dos lugares dos quadros referidos no presente diploma ser recusado o visto pelo Tribunal de Contas, considera-se nula a posse provisória mencionada no n.º 1 do artigo anterior, a qual não originará, porém, para o interessado, a perda da qualidade de docente profissionalizado.
+Art. 16.º - 1 - No caso de ao provimento dos lugares dos quadros referidos no presente diploma ser recusado o visto pelo Tribunal de Contas, considera-se nula a posse provisória mencionada no n.º 1 do artigo anterior, a qual não originará, porém, para o interessado, a perda da qualidade de docente profissionalizado.
 
 2 - Até ao conhecimento oficial pelo respectivo estabelecimento de ensino da recusa do visto referido no número anterior são devidos os abonos aos interessados na qualidade de docentes dos quadros.
 
@@ -236,9 +283,9 @@ que os lugares já providos em anteriores concursos excedam as necessidades reai
 
 4 - Os docentes referidos nos n.os 2 e 3 deste artigo manter-se-ão, porém, ao serviço até ao termo do respectivo ano escolar, sendo-lhes devidos abonos na qualidade de profissionalizados não efectivos.
 
-###### Art. 17.º Sem prejuízo do disposto no presente diploma e no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, a posse provisória mencionada no artigo 15.º deste diploma confere ao respectivo docente todos os direitos e deveres inerentes à qualidade de professor dos quadros.
+Art. 17.º Sem prejuízo do disposto no presente diploma e no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, a posse provisória mencionada no artigo 15.º deste diploma confere ao respectivo docente todos os direitos e deveres inerentes à qualidade de professor dos quadros.
 
-###### Art. 18.º - 1 - Sem prejuízo do disposto no § único do artigo 4.º do [Decreto-Lei n.º 39945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39945-1954-680650), de 27 de Setembro de 1945, a não comparência dos professores dos ensinos preparatório e secundário para efeitos do disposto no n.º 1 do artigo 15.º deste diploma determina:
+Art. 18.º - 1 - Sem prejuízo do disposto no § único do artigo 4.º do [Decreto-Lei n.º 39945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39945-1954-680650), de 27 de Setembro de 1945, a não comparência dos professores dos ensinos preparatório e secundário para efeitos do disposto no n.º 1 do artigo 15.º deste diploma determina:
 
 a) A anulação da colocação;
 
@@ -250,7 +297,7 @@ c) A impossibilidade de, no respectivo ano escolar, serem colocados em exercíci
 
 3 - Os docentes profissionalizados abrangidos pelo disposto neste artigo não perdem a condição de profissionalizados nem a respectiva graduação profissional.
 
-###### Art. 19.º - 1 - Sempre que uma secção de um estabelecimento de ensino preparatório ou secundário der origem à criação de uma escola, os professores efectivos da escola de origem nas condições da alínea a) do n.º 1 do artigo 2.º deste diploma poderão requerer a sua integração no novo quadro.
+Art. 19.º - 1 - Sempre que uma secção de um estabelecimento de ensino preparatório ou secundário der origem à criação de uma escola, os professores efectivos da escola de origem nas condições da alínea a) do n.º 1 do artigo 2.º deste diploma poderão requerer a sua integração no novo quadro.
 
 2 - A integração referida no número anterior far-se-á independentemente de concurso e será requerida até 30 de Dezembro imediatamente anterior à data de abertura do primeiro concurso para professores efectivos em que os lugares da nova escola sejam postos a concurso.
 
@@ -262,7 +309,7 @@ c) A impossibilidade de, no respectivo ano escolar, serem colocados em exercíci
 
 6 - Caso o número de docentes interessados na transferência seja insuficiente para evitar o excesso de professores, serão transferidos os que possuem menor graduação profissional.
 
-###### Art. 20.º - 1 - Os professores efectivos na situação de licença ilimitada que pretendam reocupar lugar na sua categoria só o poderão fazer através do concurso regulamentado por este diploma, situando-se, para tal efeito, na alínea a) do n.º 1 do artigo 2.º do presente decreto-lei.
+Art. 20.º - 1 - Os professores efectivos na situação de licença ilimitada que pretendam reocupar lugar na sua categoria só o poderão fazer através do concurso regulamentado por este diploma, situando-se, para tal efeito, na alínea a) do n.º 1 do artigo 2.º do presente decreto-lei.
 
 2 - Os professores abrangidos pelo número anterior, enquanto não obtêm colocação em concurso de professores efectivos, poderão candidatar-se ao concurso de professores profissionalizados não efectivos, sendo, para o efeito, incluídos na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
 
@@ -270,7 +317,7 @@ c) A impossibilidade de, no respectivo ano escolar, serem colocados em exercíci
 
 4 - O disposto nos números anteriores não é aplicável às situações decorrentes de licença ilimitada abrangidas pelo [Decreto-Lei n.º 122/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1980-473933), de 16 de Maio.
 
-###### Art. 21.º - 1 - Os docentes que fizeram a opção a que se refere a alínea b) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e que não obtiveram colocação no concurso extraordinário a que se refere o artigo 15.º do mesmo diploma consideram-se na situação de professores efectivos de nomeação provisória em lugares dos quadros criados para o efeito, a extinguir quando vagarem, na escola em que se encontravam em contrato plurianual.
+Art. 21.º - 1 - Os docentes que fizeram a opção a que se refere a alínea b) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e que não obtiveram colocação no concurso extraordinário a que se refere o artigo 15.º do mesmo diploma consideram-se na situação de professores efectivos de nomeação provisória em lugares dos quadros criados para o efeito, a extinguir quando vagarem, na escola em que se encontravam em contrato plurianual.
 
 2 - Os docentes referidos no número anterior que não obtenham colocação no concurso regulamentado pelo presente diploma no ano de 1986 terão, logo que adquiram a profissionalização, de se apresentar anualmente a esse concurso a todas as escolas de, pelo menos, uma zona, até obterem colocação.
 
@@ -280,13 +327,13 @@ c) A impossibilidade de, no respectivo ano escolar, serem colocados em exercíci
 
 5 - Os docentes referidos nas alíneas c), d) e e) do n.º 1 do artigo 2.º deste diploma integrar-se-ão na alínea a) do mesmo número logo que concluem a profissionalização.
 
-###### Art. 22.º - 1 - Os docentes que haviam obtido direito a profissionalização e não a puderam realizar em virtude de terem sido chamados para a prestação de serviço militar obrigatório, para exercício de qualquer dos cargos previstos no [Decreto-Lei n.º 901/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/901-1976-416439), de 31 de Dezembro, ou por se encontrarem a desempenhar funções em conselhos directivos ou comissões instaladoras deverão fazer a sua profissionalização de harmonia com o disposto no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, considerando-se, caso não tenham obtido colocação no concurso extraordinário, na situação prevista no n.º 1 do artigo 21.º deste diploma.
+Art. 22.º - 1 - Os docentes que haviam obtido direito a profissionalização e não a puderam realizar em virtude de terem sido chamados para a prestação de serviço militar obrigatório, para exercício de qualquer dos cargos previstos no [Decreto-Lei n.º 901/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/901-1976-416439), de 31 de Dezembro, ou por se encontrarem a desempenhar funções em conselhos directivos ou comissões instaladoras deverão fazer a sua profissionalização de harmonia com o disposto no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, considerando-se, caso não tenham obtido colocação no concurso extraordinário, na situação prevista no n.º 1 do artigo 21.º deste diploma.
 
 2 - Aos docentes referidos no número anterior que não tenham obtido colocação ser-lhes-á aplicado o disposto nos n.os 2 e 3 do artigo 21.º deste diploma.
 
 3 - Aos docentes referidos neste artigo é aplicável o disposto nos n.os 4 e 5 do artigo 21.º deste decreto-lei, considerando-se, para efeito de fases e concursos, como profissionalizados desde a data em que teriam concluído com aproveitamento a profissionalização caso o impedimento não existisse.
 
-###### Art. 23.º - 1 - As classificações profissionais dos docentes que fizeram a opção a que se refere a alínea b) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e requereram a realização da prova de avaliação nas condições previstas no n.º 3 do mesmo artigo serão publicadas no Diário da República até 31 de Dezembro de 1986.
+Art. 23.º - 1 - As classificações profissionais dos docentes que fizeram a opção a que se refere a alínea b) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e requereram a realização da prova de avaliação nas condições previstas no n.º 3 do mesmo artigo serão publicadas no Diário da República até 31 de Dezembro de 1986.
 
 2 - Aos docentes que não tenham requerido a realização da prova referida no número anterior, ou que, tendo-a requerido, não obtiveram aproveitamento serão dados por findos os respectivos provimentos provisórios como professores efectivos, passando à situação de professores provisórios com contrato anual na mesma escola e no mesmo grupo, subgrupo, disciplina ou especialidade em que se encontravam providos.
 
@@ -296,25 +343,25 @@ c) A impossibilidade de, no respectivo ano escolar, serem colocados em exercíci
 
 5 - Os docentes referidos neste artigo integrar-se-ão na alínea e) do n.º 1 do artigo 2.º deste diploma, para efeitos de candidatura ao primeiro concurso a realizar após a data indicada no n.º 3 deste artigo, desde que reúnam as condições definidas no n.º 2 do artigo 2.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
 
-###### Art. 24.º - 1 - Aos docentes que fizeram a opção a que se refere a alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e, observado o disposto no n.º 2 do artigo 16.º daquele diploma, não obtenham aproveitamento na profissionalização em exercício será rescindido o contrato plurianual a partir de 1 de Outubro do ano escolar seguinte.
+Art. 24.º - 1 - Aos docentes que fizeram a opção a que se refere a alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e, observado o disposto no n.º 2 do artigo 16.º daquele diploma, não obtenham aproveitamento na profissionalização em exercício será rescindido o contrato plurianual a partir de 1 de Outubro do ano escolar seguinte.
 
 2 - Aos docentes referidos no número anterior é aplicável o disposto nos n.os 4 e 5 do artigo 23.º deste diploma.
 
-###### Art. 25.º No período de provimento provisório referido no artigo 8.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, os docentes providos não poderão usar do direito de candidatura ao concurso ao abrigo da preferência conjugal.
+Art. 25.º No período de provimento provisório referido no artigo 8.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, os docentes providos não poderão usar do direito de candidatura ao concurso ao abrigo da preferência conjugal.
 
-###### Art. 26.º - 1 - Os lugares de professor auxiliar dos quadros são transformados em lugares do quadro de efectivos do estabelecimento de ensino onde se encontravam colocados no ano lectivo de 1985-1986.
+Art. 26.º - 1 - Os lugares de professor auxiliar dos quadros são transformados em lugares do quadro de efectivos do estabelecimento de ensino onde se encontravam colocados no ano lectivo de 1985-1986.
 
 2 - Os titulares dos lugares dos quadros de professor auxiliar referidos no número anterior consideram-se, para todos os efeitos legais, providos naqueles lugares na categoria de efectivo.
 
 3 - A ordenação dos docentes referidos nos números anteriores, para efeitos do concurso de professores efectivos, obedecerá ao disposto no artigo 3.º deste decreto-lei.
 
-###### Art. 27.º - 1 - Os docentes a que se refere a alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, poderão candidatar-se ao concurso para professores efectivos a realizar para o ano lectivo de 1986-1987, integrando-se na prioridade referida na alínea c) do n.º 1 do artigo 2.º deste diploma.
+Art. 27.º - 1 - Os docentes a que se refere a alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, poderão candidatar-se ao concurso para professores efectivos a realizar para o ano lectivo de 1986-1987, integrando-se na prioridade referida na alínea c) do n.º 1 do artigo 2.º deste diploma.
 
 2 - Para todos os efeitos legais, com excepção dos remuneratórios, os docentes referidos no número anterior consideram-se professores efectivos, com nomeação provisória, desde 1 de Outubro de 1985.
 
 3 - Aos docentes referidos neste artigo que não obtiverem colocação aplica-se o disposto nos n.os 1, 2, 3 e 5 do artigo 21.º deste diploma.
 
-###### Art. 28.º São revogados:
+Art. 28.º São revogados:
 
 a) O [Decreto-Lei n.º 258/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1980-470376), de 31 de Julho;
 
@@ -326,16 +373,16 @@ d) Demais legislação em contrário.
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 4 de Fevereiro de 1986.**
+Promulgado em 4 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Fevereiro de 1986.**
+Referendado em 4 de Fevereiro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Zonas a que se refere a alínea c) do n.º 1 do artigo 6.º do Decreto-Lei n.º 17-C/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/02/03101/00020007.pdf))](https://files.diariodarepublica.pt/1s/1986/02/03101/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/02/03101/00020007.pdf)

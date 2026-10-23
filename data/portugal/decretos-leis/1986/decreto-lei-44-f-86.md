@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 55/1986, 2º Suplemento, Série I de 1986-03-07
   number: '55'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 564-(17) a 564-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05502/00170019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-f-1986-628063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42aa7214f482f7528016b9e1c27fd7631221e5de6fac9d09f2b0d7d220711237
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52e4e76762853c31b1d5e0a66bab509c95f87dc149a2f9e2af2f2c764833fde3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Pessoal
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:546605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471168:por
+  label: "Revogado o art. 11º, pelo DEC LEI.118/91.1991.03.21.MNE, DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1991-471168
+  date: '1991-03-21'
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:45Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +123,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º À Direcção-Geral do Pessoal, prevista no artigo 9.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, compete assegurar as actividades de selecção, recrutamento, formação e gestão do pessoal do quadro do Ministério dos Negócios Estrangeiros, das missões diplomáticas e dos postos consulares.
+Artigo 1.º À Direcção-Geral do Pessoal, prevista no artigo 9.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, compete assegurar as actividades de selecção, recrutamento, formação e gestão do pessoal do quadro do Ministério dos Negócios Estrangeiros, das missões diplomáticas e dos postos consulares.
 
 ### CAPÍTULO II — Estrutura dos serviços
 
-###### Art. 2.º Para o exercício das suas atribuições, a Direcção-Geral do Pessoal dispõe dos seguintes serviços:
+Art. 2.º Para o exercício das suas atribuições, a Direcção-Geral do Pessoal dispõe dos seguintes serviços:
 
 a) Direcção de Serviços de Recrutamento, Formação e Planeamento;
 
 b) Direcção de Serviços de Pessoal.
 
-###### Art. 3.º A Direcção de Serviços de Pessoal compreende:
+Art. 3.º A Direcção de Serviços de Pessoal compreende:
 
 a) A Repartição de Nomeações e Cadastro;
 
@@ -116,7 +141,7 @@ b) A Repartição de Abonos;
 
 c) A Repartição do Pessoal Contratado no Estrangeiro.
 
-###### Art. 4.º - 1 - A Repartição de Nomeações e Cadastro integra as seguintes secções:
+Art. 4.º - 1 - A Repartição de Nomeações e Cadastro integra as seguintes secções:
 
 a) Secção de Arquivo e Cadastro;
 
@@ -142,7 +167,7 @@ c) Secção de Segurança Social.
 
 ### CAPÍTULO III — Competências
 
-###### Art. 5.º À Direcção de Serviços de Recrutamento, Formação e Planeamento compete:
+Art. 5.º À Direcção de Serviços de Recrutamento, Formação e Planeamento compete:
 
 a) Promover a selecção e o recrutamento do pessoal do quadro do Ministério dos Negócios Estrangeiros;
 
@@ -160,9 +185,9 @@ g) Propor e dar parecer sobre esquemas de segurança social do pessoal em servi�
 
 h) Dar apoio ao Conselho do Ministério.
 
-###### Art. 6.º À Direcção de Serviços de Pessoal compete assegurar a gestão do pessoal do quadro do Ministério dos Negócios Estrangeiros, das missões diplomáticas e dos postos consulares, bem como o processamento dos respectivos vencimentos e remunerações.
+Art. 6.º À Direcção de Serviços de Pessoal compete assegurar a gestão do pessoal do quadro do Ministério dos Negócios Estrangeiros, das missões diplomáticas e dos postos consulares, bem como o processamento dos respectivos vencimentos e remunerações.
 
-###### Art. 7.º À Repartição de Nomeações e Cadastro compete assegurar:
+Art. 7.º À Repartição de Nomeações e Cadastro compete assegurar:
 
 a) A organização e actualização dos processos individuais;
 
@@ -182,7 +207,7 @@ h) A execução do expediente relativo à Assistência na Doença aos Servidores
 
 i) A superintendência no trabalho e disciplina do pessoal auxiliar.
 
-###### Art. 8.º À Repartição de Abonos compete:
+Art. 8.º À Repartição de Abonos compete:
 
 a) Promover as formalidades e diligências necessárias ao processamento dos vencimentos e outras remunerações devidas ao pessoal;
 
@@ -190,7 +215,7 @@ b) Registar e comunicar à Direcção-Geral dos Assuntos Consulares e da Adminis
 
 c) Assegurar o processamento relativo às requisições de viagens e ao transporte dos funcionários e suas bagagens.
 
-###### Art. 9.º À Repartição do Pessoal Contratado no Estrangeiro compete:
+Art. 9.º À Repartição do Pessoal Contratado no Estrangeiro compete:
 
 a) A execução das actividades necessárias à gestão e administração do pessoal contratado no estrangeiro, designadamente as nomeações e a elaboração dos quadros;
 
@@ -200,21 +225,21 @@ c) Organizar e instruir os processos respeitantes à segurança social daquele p
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 10.º - 1 - O cargo de director-geral do Pessoal será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre os funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de embaixador ou de ministro plenipotenciário de 1.ª classe.
+Art. 10.º - 1 - O cargo de director-geral do Pessoal será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre os funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de embaixador ou de ministro plenipotenciário de 1.ª classe.
 
 2 - O director-geral do Pessoal será coadjuvado por um subdirector-geral.
 
 3 - O cargo de subdirector-geral do Pessoal será provido, por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro do pessoal diplomático com a categoria de ministro plenipotenciário de 1.ª ou de 2.ª classe, ouvido o director-geral.
 
-###### Art. 11.º O cargo de director de serviços da Direcção-Geral do Pessoal será provido, por livre escolha do Ministro dos Negócios Estrangeiros, sob proposta do director-geral, de entre funcionários do quadro de pessoal do serviço diplomático com a categoria de ministro plenipotenciário de 2.ª classe ou de conselheiro de embaixada.
+Art. 11.º O cargo de director de serviços da Direcção-Geral do Pessoal será provido, por livre escolha do Ministro dos Negócios Estrangeiros, sob proposta do director-geral, de entre funcionários do quadro de pessoal do serviço diplomático com a categoria de ministro plenipotenciário de 2.ª classe ou de conselheiro de embaixada.
 
-###### Art. 12.º O cargo de chefe de repartição será provido, nos termos da lei geral, de entre chefes de secção do quadro de pessoal do Ministério dos Negócios Estrangeiros.
+Art. 12.º O cargo de chefe de repartição será provido, nos termos da lei geral, de entre chefes de secção do quadro de pessoal do Ministério dos Negócios Estrangeiros.
 
-###### Art. 13.º A Direcção-Geral do Pessoal disporá ainda de pessoal do quadro do Ministério dos Negócios Estrangeiros necessário ao funcionamento dos serviços, o qual será afectado por despacho do secretário-geral, sob proposta do director-geral, sem prejuízo do recurso aos mecanismos previstos na lei geral.
+Art. 13.º A Direcção-Geral do Pessoal disporá ainda de pessoal do quadro do Ministério dos Negócios Estrangeiros necessário ao funcionamento dos serviços, o qual será afectado por despacho do secretário-geral, sob proposta do director-geral, sem prejuízo do recurso aos mecanismos previstos na lei geral.
 
-###### Art. 14.º A Direcção-Geral do Pessoal poderá celebrar, de acordo com as disponibilidades orçamentais, contratos com entidades nacionais ou estrangeiras, desde que constem de programas de actividades previamente aprovados pelo Ministro dos Negócios Estrangeiros, tendo em vista a realização de estudos, inquéritos e outros trabalhos de carácter técnico eventual relacionados com as atribuições dos serviços do Ministério que não possam ser assegurados pelo respectivo pessoal.
+Art. 14.º A Direcção-Geral do Pessoal poderá celebrar, de acordo com as disponibilidades orçamentais, contratos com entidades nacionais ou estrangeiras, desde que constem de programas de actividades previamente aprovados pelo Ministro dos Negócios Estrangeiros, tendo em vista a realização de estudos, inquéritos e outros trabalhos de carácter técnico eventual relacionados com as atribuições dos serviços do Ministério que não possam ser assegurados pelo respectivo pessoal.
 
-###### Art. 15.º - 1 - Na sequência da reestruturação orgânica promovida por este diploma, são aumentadas ao quadro do Ministério dos Negócios Estrangeiros as seguintes unidades:
+Art. 15.º - 1 - Na sequência da reestruturação orgânica promovida por este diploma, são aumentadas ao quadro do Ministério dos Negócios Estrangeiros as seguintes unidades:
 
 a) Pessoal dirigente:
 
@@ -236,7 +261,7 @@ Um lugar de subdirector-geral;
 
 Dois lugares de chefe de repartição.
 
-###### Art. 16.º - 1 - Os titulares dos cargos dirigentes dos órgãos ou serviços do Ministério dos Negócios Estrangeiros extintos pelo artigo 19.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, mantêm-se no exercício das suas funções e no usufruto das competências inerentes até à posse dos titulares dos cargos dirigentes dos órgãos ou serviços instituídos por aquele diploma.
+Art. 16.º - 1 - Os titulares dos cargos dirigentes dos órgãos ou serviços do Ministério dos Negócios Estrangeiros extintos pelo artigo 19.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, mantêm-se no exercício das suas funções e no usufruto das competências inerentes até à posse dos titulares dos cargos dirigentes dos órgãos ou serviços instituídos por aquele diploma.
 
 2 - O disposto no número anterior produz efeitos desde a data da entrada em vigor do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro.
 
@@ -246,16 +271,16 @@ Dois lugares de chefe de repartição.
 
 5 - A norma do número anterior aplica-se igualmente aos encargos decorrentes das nomeações dos titulares dos cargos dirigentes dos serviços criados pelas alíneas a), e) e f) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro.
 
-###### Art. 17.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 17.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 7 de Março de 1986.**
+Promulgado em 7 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1986.**
+Referendado em 7 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

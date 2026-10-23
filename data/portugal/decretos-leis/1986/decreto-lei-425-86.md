@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1986-210810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff18d99f0f8b956a6596070b5cbdc003eed0d0f099f68f41ae8b7fecfaef170a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ec38a19d7e39eb40adba516bdc134f8e880318bed57fa10fc847312c99f61ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arbitragem
+- Centro de Arbitragem
+- Licenciamento
+- Ministro da Justiça
 relationships:
 - type: amended_by
   target: pt:dre:652968:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:26Z'
   warnings: []
   errors: []
 ---
@@ -101,36 +109,36 @@ Assim, em desenvolvimento do artigo 38.º da [Lei n.º 31/86](https://diariodare
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As entidades que, no âmbito da [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto, pretendam promover, com carácter institucionalizado, a realização de arbitragens voluntárias, devem requerer ao Ministro da Justiça autorização para a criação dos respectivos centros.
+Artigo 1.º - 1 - As entidades que, no âmbito da [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto, pretendam promover, com carácter institucionalizado, a realização de arbitragens voluntárias, devem requerer ao Ministro da Justiça autorização para a criação dos respectivos centros.
 
 2 - No requerimento referido no número anterior as entidades interessadas devem expor circunstanciadamente as razões que justificam a sua pretensão, delimitando o objecto das arbitragens que pretendem levar a efeito.
 
-###### Art. 2.º Ao apreciar os pedidos formulados nos termos do artigo anterior, o Ministro da Justiça deve tomar em conta a representatividade da entidade requerente e a sua idoneidade para a prossecução da actividade que se propõe realizar, com vista a verificar se estão preenchidas as condições que assegurem uma execução adequada de tal actividade.
+Art. 2.º Ao apreciar os pedidos formulados nos termos do artigo anterior, o Ministro da Justiça deve tomar em conta a representatividade da entidade requerente e a sua idoneidade para a prossecução da actividade que se propõe realizar, com vista a verificar se estão preenchidas as condições que assegurem uma execução adequada de tal actividade.
 
-###### Art. 3.º O despacho proferido sobre o requerimento deve ser fundamentado, especificando, em cada caso, o carácter especializado ou geral das arbitragens a realizar pela entidade requerente.
+Art. 3.º O despacho proferido sobre o requerimento deve ser fundamentado, especificando, em cada caso, o carácter especializado ou geral das arbitragens a realizar pela entidade requerente.
 
-###### Art. 4.º - 1 - Constará de portaria do Ministro da Justiça uma lista das entidades autorizadas a realizar arbitragens voluntárias institucionalizadas, com a menção, para cada uma, do carácter especializado ou geral destas.
+Art. 4.º - 1 - Constará de portaria do Ministro da Justiça uma lista das entidades autorizadas a realizar arbitragens voluntárias institucionalizadas, com a menção, para cada uma, do carácter especializado ou geral destas.
 
 2 - A lista a que se refere o número anterior será anualmente actualizada.
 
-###### Art. 5.º - 1 - A autorização concedida nos termos do presente diploma pode ser revogada se ocorrer algum facto que demonstre que a entidade em causa deixou de possuir condições técnicas ou de idoneidade para a realização de arbitragens voluntárias institucionalizadas.
+Art. 5.º - 1 - A autorização concedida nos termos do presente diploma pode ser revogada se ocorrer algum facto que demonstre que a entidade em causa deixou de possuir condições técnicas ou de idoneidade para a realização de arbitragens voluntárias institucionalizadas.
 
 2 - O despacho de revogação, devidamente fundamentado, é publicado no Diário da República.
 
-###### Art. 6.º - 1 - As entidades que realizem arbitragens voluntárias institucionalizadas sem que para tal tenham obtido prévia autorização são punidas com coima de 300000$00 a 500000$00.
+Art. 6.º - 1 - As entidades que realizem arbitragens voluntárias institucionalizadas sem que para tal tenham obtido prévia autorização são punidas com coima de 300000$00 a 500000$00.
 
 2 - A aplicação da coima prevista no número anterior compete ao secretário-geral do Ministério da Justiça.
 
-###### Art. 7.º O presente diploma entrará em vigor dez dias após a sua publicação.
+Art. 7.º O presente diploma entrará em vigor dez dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

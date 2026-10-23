@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1982-376044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e6e916b0438b27317f45abe4750432eda5f74307135fd40e4047464b2b3375c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77dd8081a7a854f60184ff227998c1d1051af3019b056b33ec7e35b0ee230264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Português de Teatro
+- Orgânica
+- Política Cultural
+- Teatro
+relationships:
+- type: cites
+  target: pt:dre:631993:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:45Z'
   warnings: []
   errors: []
 ---
@@ -108,43 +116,43 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Artigo 1.º O Estado reconhece que o teatro, como forma de expressão artística e, simultaneamente, como meio de entendimento, comunicação e divertimento, constitui uma contribuição fundamental para o desenvolvimento e a formação da identidade cultural e social do País, assim como um importante factor pedagógico e formativo.
+Artigo 1.º O Estado reconhece que o teatro, como forma de expressão artística e, simultaneamente, como meio de entendimento, comunicação e divertimento, constitui uma contribuição fundamental para o desenvolvimento e a formação da identidade cultural e social do País, assim como um importante factor pedagógico e formativo.
 
-###### Art. 2.º - 1 - A liberdade de criação, organização e produção teatral é um direito fundamental e um valor absoluto a defender pelo Estado no domínio da actividade teatral, qualquer que seja a finalidade económica do respectivo exercício, o tipo de associação que está na origem da sua produção ou a modalidade de teatro que pratica.
+Art. 2.º - 1 - A liberdade de criação, organização e produção teatral é um direito fundamental e um valor absoluto a defender pelo Estado no domínio da actividade teatral, qualquer que seja a finalidade económica do respectivo exercício, o tipo de associação que está na origem da sua produção ou a modalidade de teatro que pratica.
 
 2 - Toda a intervenção do Estado em relação à actividade teatral exercer-se-á de forma supletiva, visando, sobretudo, propiciar condições materiais de desenvolvimento do teatro português, com consideração do trabalho, capacidade, valor artístico e cultural e reconhecimento público como únicos critérios de apoio.
 
-###### Art. 3.º A promoção, o fomento e o apoio à actividade teatral pelo Estado circunscrever-se-ão ao âmbito definido no presente diploma e contemplarão os diversos sectores e esferas da actividade teatral, nomeadamente no terreno da criação profissional com relevância cultural, do teatro para a infância e juventude e do teatro de amadores, devendo ser consideradas com particular atenção as manifestações de raiz nacional e as acções tendentes a preservar as formas tradicionais populares.
+Art. 3.º A promoção, o fomento e o apoio à actividade teatral pelo Estado circunscrever-se-ão ao âmbito definido no presente diploma e contemplarão os diversos sectores e esferas da actividade teatral, nomeadamente no terreno da criação profissional com relevância cultural, do teatro para a infância e juventude e do teatro de amadores, devendo ser consideradas com particular atenção as manifestações de raiz nacional e as acções tendentes a preservar as formas tradicionais populares.
 
 ### CAPÍTULO II — Instituto Português de Teatro
 
-###### Art. 4.º É criado o Instituto Português de Teatro (IPT), dotado de autonomia administrativa e financeira, directamente dependente do Ministério da Cultura e Coordenação Científica, e que se regerá por diploma orgânico próprio, a publicar no prazo de 180 dias a contar da data da publicação do presente decreto-lei.
+Art. 4.º É criado o Instituto Português de Teatro (IPT), dotado de autonomia administrativa e financeira, directamente dependente do Ministério da Cultura e Coordenação Científica, e que se regerá por diploma orgânico próprio, a publicar no prazo de 180 dias a contar da data da publicação do presente decreto-lei.
 
-###### Art. 5.º O ITP, além da direcção e do conselho administrativo, disporá de um conselho consultivo que terá, na sua maior parte, carácter representativo, nele devendo ter assento, nomeadamente, os representantes das associações directamente ligadas à actividade teatral portuguesa.
+Art. 5.º O ITP, além da direcção e do conselho administrativo, disporá de um conselho consultivo que terá, na sua maior parte, carácter representativo, nele devendo ter assento, nomeadamente, os representantes das associações directamente ligadas à actividade teatral portuguesa.
 
-###### Art. 6.º O ITP terá por objectivo a promoção de iniciativas tendentes a apoiar e desenvolver o teatro português, a coordenação das várias entidades e organismos teatrais públicos e a atribuição e programação das formas de apoio e assistência, financeira ou de outro tipo, à actividade teatral, processando-se por seu intermédio as relações entre o Ministério da Cultura e Coordenação Científica e as organizações com incidência na vida teatral portuguesa.
+Art. 6.º O ITP terá por objectivo a promoção de iniciativas tendentes a apoiar e desenvolver o teatro português, a coordenação das várias entidades e organismos teatrais públicos e a atribuição e programação das formas de apoio e assistência, financeira ou de outro tipo, à actividade teatral, processando-se por seu intermédio as relações entre o Ministério da Cultura e Coordenação Científica e as organizações com incidência na vida teatral portuguesa.
 
-###### Art. 7.º O IPT substituirá e absorverá todos os órgãos, serviços ou dependências dispersas que, na área administrativa e pública, têm por objectivo a actividade teatral, nomeadamente a Divisão de Teatro da Direcção-Geral da Acção Cultural e o Fundo de Teatro, e poderá, para prossecução das suas finalidades e competências, relacionar-se e celebrar convénios com quaisquer entidades públicas e privadas.
+Art. 7.º O IPT substituirá e absorverá todos os órgãos, serviços ou dependências dispersas que, na área administrativa e pública, têm por objectivo a actividade teatral, nomeadamente a Divisão de Teatro da Direcção-Geral da Acção Cultural e o Fundo de Teatro, e poderá, para prossecução das suas finalidades e competências, relacionar-se e celebrar convénios com quaisquer entidades públicas e privadas.
 
-###### Art. 8.º - 1 - O IPT indicará um representante seu para o Museu do Teatro, o qual, na dependência do Instituto Português do Património Cultural, procurará assegurar, nomeadamente, a investigação, recolha e conservação de todos os dados e elementos que preservem a memória do teatro português, numa perspectiva de animação e sistemática, constituindo também um instrumento de valor pedagógico ao serviço do público e dos criadores e artistas teatrais.
+Art. 8.º - 1 - O IPT indicará um representante seu para o Museu do Teatro, o qual, na dependência do Instituto Português do Património Cultural, procurará assegurar, nomeadamente, a investigação, recolha e conservação de todos os dados e elementos que preservem a memória do teatro português, numa perspectiva de animação e sistemática, constituindo também um instrumento de valor pedagógico ao serviço do público e dos criadores e artistas teatrais.
 
 2 - O IPT deverá dispor ainda de uma biblioteca teatral e de um centro de documentação com funções de apoio à actividade teatral nos seus diversos domínios.
 
 ### CAPÍTULO III — Teatros nacionais
 
-###### Art. 9.º Os teatros nacionais são pessoas colectivas de direito público, dotadas de autonomia administrativa e serão os que constam do presente diploma.
+Art. 9.º Os teatros nacionais são pessoas colectivas de direito público, dotadas de autonomia administrativa e serão os que constam do presente diploma.
 
-###### Art. 10.º - 1 - O Teatro Nacional de D. Maria I regular-se-á por lei orgânica própria.
+Art. 10.º - 1 - O Teatro Nacional de D. Maria I regular-se-á por lei orgânica própria.
 
 2 - Desde que se considerem existir as condições para o efeito, poderá ser criada, na cidade do Porto, uma companhia dispondo de categoria de teatro nacional, a qual se regerá por diploma orgânico próprio.
 
 ### CAPÍTULO IV — Teatro profissional
 
-###### Art. 11.º - 1 - O IPT poderá apoiar, através de contratos de criação teatral, as companhias de teatro profissional que tiverem demonstrado capacidade, valor e qualidades artísticas e culturais, reconhecimento público e continuidade do seu trabalho.
+Art. 11.º - 1 - O IPT poderá apoiar, através de contratos de criação teatral, as companhias de teatro profissional que tiverem demonstrado capacidade, valor e qualidades artísticas e culturais, reconhecimento público e continuidade do seu trabalho.
 
 2 - Tal apoio em nenhum caso dispensará da obrigação de angariar receitas próprias a reinvestir, obrigatoriamente, nas actividades da companhia e para as quais o IPT poderá fixar um limite mínimo presumido para ser tomado em conta nos contratos referidos no número anterior.
 
-###### Art. 12.º - 1 - Os contratos de criação teatral serão celebrados por períodos de 1 ano, renovando-se automaticamente, até ao limite de 3 anos, enquanto se mantiverem as mesmas condições, nomeadamente a permanência dos responsáveis artísticos iniciais, e se tiverem sido cumpridas durante o ano anterior todas as cláusulas contratuais.
+Art. 12.º - 1 - Os contratos de criação teatral serão celebrados por períodos de 1 ano, renovando-se automaticamente, até ao limite de 3 anos, enquanto se mantiverem as mesmas condições, nomeadamente a permanência dos responsáveis artísticos iniciais, e se tiverem sido cumpridas durante o ano anterior todas as cláusulas contratuais.
 
 2 - Os contratos serão definidos em minutatipo, constante de diploma legal adequado, assegurando sempre a responsabilidade pessoal e directa da respectiva direcção e exigindo informação regular sobre o programa, número de espectáculos e projecto de trabalho de cada temporada.
 
@@ -152,67 +160,67 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 4 - Os contratos não carecem do cumprimento de quaisquer outras formalidades.
 
-###### Art. 13.º - 1 - Independentemente do disposto no número anterior, o IPT poderá apreciar pedidos de apoio a companhias que, embora não se encontrando nas condições referidas para a celebração de um contrato de criação teatral, apresentem um programa, uma direcção e um conjunto artístico susceptíveis de justificarem tal apoio.
+Art. 13.º - 1 - Independentemente do disposto no número anterior, o IPT poderá apreciar pedidos de apoio a companhias que, embora não se encontrando nas condições referidas para a celebração de um contrato de criação teatral, apresentem um programa, uma direcção e um conjunto artístico susceptíveis de justificarem tal apoio.
 
 2 - Tais apoios serão concedidos por 1 ano, mediante processo de candidatura a apresentar nas condições reguladas por normas legais adequadas, não sendo os respectivos contratos passíveis de renovação que não decorra de nova candidatura ou da assinatura de um contrato de criação teatral.
 
-###### Art. 14.º - 1 - O IPT poderá também apreciar pedidos de apoio para a realização de espectáculos ou a montagem de projectos específicos que possam ser considerados de interesse cultural ou se integrem em planos conjuntos desse tipo, devendo, igualmente, tais apoios ser apresentados na base de regulamentação legal adequada e a sua concessão revestir forma contratual.
+Art. 14.º - 1 - O IPT poderá também apreciar pedidos de apoio para a realização de espectáculos ou a montagem de projectos específicos que possam ser considerados de interesse cultural ou se integrem em planos conjuntos desse tipo, devendo, igualmente, tais apoios ser apresentados na base de regulamentação legal adequada e a sua concessão revestir forma contratual.
 
 2 - Este tipo de apoio poderá ser dado, nomeadamente, tendo em vista facilitar a digressão destes espectáculos através do País ou no estrangeiro e abrangerá todo o tipo de companhias.
 
-###### Art. 15.º - 1 - O Ministério da Cultura e Coordenação Científica poderá conceder o título de centro dramático a companhias teatrais cuja actividade, pelo prestígio granjeado junto dos auditórios e populações para que actuam, possam contribuir decisivamente, através do trabalho teatral, para o desenvolvimento teatral da respectiva região e do País.
+Art. 15.º - 1 - O Ministério da Cultura e Coordenação Científica poderá conceder o título de centro dramático a companhias teatrais cuja actividade, pelo prestígio granjeado junto dos auditórios e populações para que actuam, possam contribuir decisivamente, através do trabalho teatral, para o desenvolvimento teatral da respectiva região e do País.
 
 2 - Sem embargo de aplicação das regras gerais válidas para apoio ao teatro profissional, o IPT poderá concertar com tais centros modalidades especiais de apoio que sejam função de uma localização de exigências especiais de formação e papel na defesa da cultura teatral, as quais serão tidas em conta na celebração dos contratos de criação cultural e poderão ser alargadas à participação das autarquias locais da respectiva área.
 
 ### CAPÍTULO V — Teatro de amadores
 
-###### Art. 16.º - 1 - O IPT programará um conjunto de medidas para apoiar e aperfeiçoar a actividade dos grupos de teatro de amadores, nomeadamente através da participação na organização de acções conjuntas para o desenvolvimento dos grupos de teatro amador, como festivais, cursos e outras formas especialmente indicadas de aperfeiçoamento e intercâmbio e do apoio técnico e económico à sua actividade.
+Art. 16.º - 1 - O IPT programará um conjunto de medidas para apoiar e aperfeiçoar a actividade dos grupos de teatro de amadores, nomeadamente através da participação na organização de acções conjuntas para o desenvolvimento dos grupos de teatro amador, como festivais, cursos e outras formas especialmente indicadas de aperfeiçoamento e intercâmbio e do apoio técnico e económico à sua actividade.
 
 2 - Deverá ser considerado com atenção especial o apoio a grupos ou associações que utilizem, conservem ou recuperem formas tradicionais de teatro popular português.
 
 ### CAPÍTULO VI — Teatro para a infância e a juventude
 
-###### Art. 17.º O IPT terá em conta na sua orgânica, objectivos e actividades a importância do teatro para a infância e a juventude promoverá inciativas de carácter pedagógico e artístico, nomeadamente festivais, seminários e outros tipos de encontros tendentes a desenvolver e aperfeiçoar esta área de actividade teatral.
+Art. 17.º O IPT terá em conta na sua orgânica, objectivos e actividades a importância do teatro para a infância e a juventude promoverá inciativas de carácter pedagógico e artístico, nomeadamente festivais, seminários e outros tipos de encontros tendentes a desenvolver e aperfeiçoar esta área de actividade teatral.
 
-###### Art. 18.º - 1 - Na programação dos teatros nacionais e na celebração de contratos de criação teatral e organização de apoios anuais deverá prever-se a realização de espectáculos para a infância e a juventude, integrando-se a existência de companhias que têm esse tipo de teatro como objectivo principal.
+Art. 18.º - 1 - Na programação dos teatros nacionais e na celebração de contratos de criação teatral e organização de apoios anuais deverá prever-se a realização de espectáculos para a infância e a juventude, integrando-se a existência de companhias que têm esse tipo de teatro como objectivo principal.
 
 2 - As companhias que beneficiem ou sejam candidatas a qualquer tipo de apoio e pretendam, em cada temporada, realizar espectáculos para a infância e a juventude farão constar a respectiva indicação, devidamente identificada, de informação com programa a apresentar ao IPT.
 
 ### CAPÍTULO VII — Formação e ensino
 
-###### Art. 19.º No domínio da formação profissional, o IPT poderá celebrar protocolos com a Escola Superior do Conservatório Nacional, quando tal se afigurar útil e necessário, promover ou colaborar em acções formativas de aperfeiçoamento ou reciclagem profissional e, através dos teatros nacionais, organizar centros de estágio e formação que servirão tanto a amadores como a profissionais.
+Art. 19.º No domínio da formação profissional, o IPT poderá celebrar protocolos com a Escola Superior do Conservatório Nacional, quando tal se afigurar útil e necessário, promover ou colaborar em acções formativas de aperfeiçoamento ou reciclagem profissional e, através dos teatros nacionais, organizar centros de estágio e formação que servirão tanto a amadores como a profissionais.
 
-###### Art. 20.º O IPT procurará promover medidas conducentes à definição, dignificação e valorização das carreiras e profissões teatrais.
+Art. 20.º O IPT procurará promover medidas conducentes à definição, dignificação e valorização das carreiras e profissões teatrais.
 
 ### CAPÍTULO VIII — Prémios e festivais
 
-###### Art. 21.º - 1 - O IPT instituirá prémios destinados a distinguir as contribuições de maior valia para o prestígio e desenvolvimento do teatro português.
+Art. 21.º - 1 - O IPT instituirá prémios destinados a distinguir as contribuições de maior valia para o prestígio e desenvolvimento do teatro português.
 
 2 - Os prémios a instituir, quando de carácter pessoal, conterão sempre a possibilidade para os premiados de realizarem viagens de estudo ou estágios junto de companhias, escolas ou homens de teatro de prestígio internacional.
 
-###### Art. 22.º - 1 - O IPT organizará, de 2 em 2 anos, um concurso de textos originais portugueses e providenciará para que, pelo menos, a peça classificada em primeiro lugar seja montada por uma das companhias dos teatros nacionais.
+Art. 22.º - 1 - O IPT organizará, de 2 em 2 anos, um concurso de textos originais portugueses e providenciará para que, pelo menos, a peça classificada em primeiro lugar seja montada por uma das companhias dos teatros nacionais.
 
 2 - Todos os textos premiados serão editados a expensas do IPT.
 
-###### Art. 23.º - 1 - O ITP promoverá, pelo menos de 2 em 2 anos, um grande festival internacional de teatro, com a participação de companhias nacionais e estrangeiras, com vista ao encontro, troca e confronto estético e cultural, na perspectiva de enriquecimento do público e dos agentes da criação teatral nacional e ao prestígio e valorização cultural do País.
+Art. 23.º - 1 - O ITP promoverá, pelo menos de 2 em 2 anos, um grande festival internacional de teatro, com a participação de companhias nacionais e estrangeiras, com vista ao encontro, troca e confronto estético e cultural, na perspectiva de enriquecimento do público e dos agentes da criação teatral nacional e ao prestígio e valorização cultural do País.
 
 2 - O IPT apoiará especialmente os festivais de teatro que garantam uma expressão continuada e diversificada.
 
 ### CAPÍTULO IX — Salas e espaços cénicos
 
-###### Art. 24.º O Ministério da Cultura e Coordenação Científica apoiará e promoverá a construção, recuperação, equipamento e reapetrechamento de espaços cénicos de modo a assegurar o acesso do público ao espectáculo teatral e assegurar a dignidade de representação.
+Art. 24.º O Ministério da Cultura e Coordenação Científica apoiará e promoverá a construção, recuperação, equipamento e reapetrechamento de espaços cénicos de modo a assegurar o acesso do público ao espectáculo teatral e assegurar a dignidade de representação.
 
-###### Art. 25.º - 1 - O IPT poderá celebrar com as autarquias locais acordos que visem a instalação, em espaços cénicos de propriedade ou disposição municipal, das companhias por ele apoiadas.
+Art. 25.º - 1 - O IPT poderá celebrar com as autarquias locais acordos que visem a instalação, em espaços cénicos de propriedade ou disposição municipal, das companhias por ele apoiadas.
 
 2 - O IPT providenciará para que as referidas companhias possam utilizar, a título de depositárias, o material cénico necessário ao equipamento dos espaços em que trabalham e ao desenvolvimento normal da sua actividade.
 
-###### Art. 26.º O IPT poderá comparticipar ou financiar, a pedido das entidades responsáveis pela exploração, obras e melhoramentos que visem beneficiar as condições de frequência, em teatros de propriedade particular.
+Art. 26.º O IPT poderá comparticipar ou financiar, a pedido das entidades responsáveis pela exploração, obras e melhoramentos que visem beneficiar as condições de frequência, em teatros de propriedade particular.
 
-###### Art. 27.º Nas localidades onde só houver cine-teatro de propriedade particular o IPT pode intervir como representante das companhias de teatro interessadas em deslocar-se a tal localidade para obter, nas melhores condições, a cedência, no mínimo de 1 dia por mês.
+Art. 27.º Nas localidades onde só houver cine-teatro de propriedade particular o IPT pode intervir como representante das companhias de teatro interessadas em deslocar-se a tal localidade para obter, nas melhores condições, a cedência, no mínimo de 1 dia por mês.
 
 ### CAPÍTULO X — Relações internacionais
 
-###### Art. 28.º - 1 - O IPT promoverá, em colaboração com o Gabinete das Relações Culturais Internacionais do Ministério da Cultura e Coordenação Científica, iniciativas tendentes a fomentar e desenvolver o intercâmbio entre o teatro português e as companhias e organismos teatrais estrangeiros ou de carácter internacional.
+Art. 28.º - 1 - O IPT promoverá, em colaboração com o Gabinete das Relações Culturais Internacionais do Ministério da Cultura e Coordenação Científica, iniciativas tendentes a fomentar e desenvolver o intercâmbio entre o teatro português e as companhias e organismos teatrais estrangeiros ou de carácter internacional.
 
 2 - Compete ao IPT assegurar a participação portuguesa nos diversos organismos internacionais em matéria da sua competência.
 
@@ -220,14 +228,14 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO XI — Disposições diversas
 
-###### Art. 29.º As companhias que beneficiarem de apoio do IPT serão registadas nos respectivos serviços durante o período em que beneficiarem desse apoio, devendo a respectiva relação ser enviada anualmente à Direcção-Geral dos Espectáculos e do Direito do Autor.
+Art. 29.º As companhias que beneficiarem de apoio do IPT serão registadas nos respectivos serviços durante o período em que beneficiarem desse apoio, devendo a respectiva relação ser enviada anualmente à Direcção-Geral dos Espectáculos e do Direito do Autor.
 
-###### Art. 30.º Até à instalação do IPT, os serviços do Ministério da Cultura e Coordenação Centífica que se ocupam dos diversos aspectos da actividade teatral continuarão a assegurar as actuais orientações nos estritos termos em que se encontram definidas.
+Art. 30.º Até à instalação do IPT, os serviços do Ministério da Cultura e Coordenação Centífica que se ocupam dos diversos aspectos da actividade teatral continuarão a assegurar as actuais orientações nos estritos termos em que se encontram definidas.
 
 Visto e aprovado em Conselho de Ministros de 19 de Agosto de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 6 de Outubro de 1982.**
+Promulgado em 6 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 147/1986, 1º Suplemento, Série I de 1986-06-30
   number: '147'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1550-(2) a 1550-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14701/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1986-518810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:11:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f9721f0c16792509868698336636d42e3f7fcb7247a74209e913c880cd50375
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68196db0d8cb326d5ee69dcf31ca1c6801513e98ef3a9d13431e8f4e94b87671
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:11:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Instituto Nacional de Seguros
+- Profissional de Seguros
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:288062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:288062:por
+  label: "Revogado pelo DEC LEI.388/91.10.10.1991.MF, DR.IS-A [233] de 10.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/388-1991-288062
+  date: '1991-10-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:11:55Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +102,13 @@ Considerando a adesão de Portugal às Comunidades Europeias e a consequente nec
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É dada a seguinte redacção aos artigos 22.º, 23.º e 26.º do Decreto-Lei n.º 336/85, de 21 de Agosto:
+Artigo 1.º É dada a seguinte redacção aos artigos 22.º, 23.º e 26.º do Decreto-Lei n.º 336/85, de 21 de Agosto:
 
-###### Art. 22.º - 1 - Dentro dos limites do presente diploma e das disposições legais e regulamentares dele complementares, os cidadãos de países terceiros em relação à Comunidade Económica Europeia que tenham residência em Portugal podem ser admitidos como agentes de seguros nos mesmos termos em que, nos seus países de origem, forem admitidos na actividade de mediação os cidadãos portugueses.
+Art. 22.º - 1 - Dentro dos limites do presente diploma e das disposições legais e regulamentares dele complementares, os cidadãos de países terceiros em relação à Comunidade Económica Europeia que tenham residência em Portugal podem ser admitidos como agentes de seguros nos mesmos termos em que, nos seus países de origem, forem admitidos na actividade de mediação os cidadãos portugueses.
 
 2 - ...
 
-###### Art. 23.º - ...
+Art. 23.º - ...
 
 a) ...
 
@@ -117,7 +126,7 @@ g) Ser nacional de Portugal ou de um outro Estado membro da Comunidade Europeia.
 
 2 - ...
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 a) ...
 
@@ -145,9 +154,9 @@ l) ...
 
 3 - ...
 
-###### Art. 2.º É aditado ao Decreto-Lei n.º 336/85, de 21 de Agosto, o seguinte artigo:
+Art. 2.º É aditado ao Decreto-Lei n.º 336/85, de 21 de Agosto, o seguinte artigo:
 
-###### Art. 24.º-A - 1 - Podem solicitar ao ISP a sua inscrição como agentes de seguros, com dispensa do disposto no artigo 24.º, os nacionais de outros Estados membros da Comunidade Económica Europeia que preencham os seguintes requisitos:
+Art. 24.º-A - 1 - Podem solicitar ao ISP a sua inscrição como agentes de seguros, com dispensa do disposto no artigo 24.º, os nacionais de outros Estados membros da Comunidade Económica Europeia que preencham os seguintes requisitos:
 
 a) Terem residência em Portugal;
 
@@ -165,7 +174,7 @@ Um ano como independentes ou como gerentes de uma sociedade de mediação, desde
 
 3 - Os documentos a apresentar nos termos dos números anteriores não podem ter sido emitidos há mais de três meses e devem ser redigidos em língua portuguesa ou devidamente traduzidos.
 
-###### Art. 3.º - 1 - É admitida a abertura em Portugal de sucursais de agentes pessoas colectivas e de corretores sediados num outro Estado membro da Comunidade Económica Europeia, mediante solicitação dirigida ao ISP e acompanhada dos seguintes elementos:
+Art. 3.º - 1 - É admitida a abertura em Portugal de sucursais de agentes pessoas colectivas e de corretores sediados num outro Estado membro da Comunidade Económica Europeia, mediante solicitação dirigida ao ISP e acompanhada dos seguintes elementos:
 
 a) Certificado emitido pela autoridade competente do país onde se encontra situada a sede da sociedade comprovando que esta se encontra legalmente constituída e que exerce a sua actividade há, pelo menos, quatro anos;
 
@@ -179,12 +188,12 @@ c) Compromisso de que, no momento da abertura da sucursal, disporão em Portugal
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 22 de Junho de 1986.**
+Promulgado em 22 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Junho de 1986.**
+Referendado em 30 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

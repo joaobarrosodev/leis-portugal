@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09000/13361350.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,163 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1983-311663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71d85b47355ca916258b0aa7f345068a6750f459a33f4b092763157c1410175e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2a3bea27cfd664979d2232fdbab2867ae5fda4569cb15980fab1fcfaa457905
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Investigação Científica e Tropical
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:547070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:327663:por
+  label: "Alterada a al. a) do nº 5 do art. 10º, al. a) do nº 2 do art. 13º e al. c) do nº 1 do art. 41º pelo DEC LEI.42/85.12.02.1985.PCM,\
+    \ DR.IS [36] de 12.02.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1985-327663
+  date: '1985-02-12'
+- type: amended_by
+  target: pt:dre:179327:por
+  label: "Alterado o quadro I anexo ao presente diploma, pela PORT.657/85.05.09.1985.PCM, DR.IS [204] de 05.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/657-1985-179327
+  date: '1985-09-05'
+- type: amended_by
+  target: pt:dre:496880:por
+  label: "Alterado o quadro de pessoal constante do anexo I do presente diploma, com as alterações que lhe foram introduzidas\
+    \ pelo Dec Lei 42/85, de 12-Fev, pela PORT.871/87.12.11.1987.MF, DR.IS [261] de 12.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/871-1987-496880
+  date: '1987-11-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO ANEXO PELA PORT 394/89 DE 03-JUN DR.IS [127]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-06-03'
+- type: amended_by
+  target: pt:dre:609823:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.394/89.03.06.1989.MF, DR.IS [127] de 03.06.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-1989-609823
+  date: '1989-06-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 580/89 DE 28-JUL DR.IS [172]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-07-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 657/90 DE 10-AGO DR.IS [184]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-08-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 362-A/91 DE 24-ABR DR.IS-B [95]2SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-24'
+- type: amended_by
+  target: pt:dre:242028:por
+  label: Alterado, no referente ao pessoal técnico, o quadro de pessoal do Instituto de Investigação Científica e Tropical
+    pelo(a) Portaria n.º 362-A/91 - Diário da República n.º 95/1991, 2º Suplemento, Série I-B de 1991-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-a-1991-242028
+  date: '1991-04-24'
+- type: amended_by
+  target: pt:dre:813206:por
+  label: "Alterado o Quadro de Pessoal pela PORT.738/2000(2ªSÉRIE).2000.03.24.MCTE,DR.IIS [104] de 5/5/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/738-2000-813206
+  date: '2000-03-24'
+- type: amended_by
+  target: pt:dre:438042:por
+  label: "Mantida a estrutura orgânica até á entrada em vigor dos diplomas referidos nos arts. 24.º e 30.º do Dec Lei 297/2003,\
+    \ e revogadas as disposições que contrariem o referido Dec Lei, sem prejuízo do seu art. 33.º e as restantes disposições\
+    \ com a entrada em vigor do DR previsto no art. 24.º, pelo DEC LEI.297/2003.21.11.2003.MCES, DR.IS-A [270] de 21.11.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2003-438042
+  date: '2003-11-21'
+- type: amended_by
+  target: pt:dre:233953:por
+  label: "Determinada, nos termos do art. 33º do Dec Lei 297/2003 de 21-Nov(Lei Orgânica do IICT), a cessação de todas as\
+    \ comissões de serviço de pessoal dirigente nomeado e provido nos termos do presente diploma, pelo DN.32/2005.03.01.2005.MFAP,\
+    \ DR.IS-B [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/32-2005-233953
+  date: '2005-01-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a competência relativa à definição das orientações estratégicas do Instituto, cuja orgânica foi aprovada\
+    \ no presente diploma, seja exercida pelo Ministro da Ciência, Tecnologia e Ensino Superior em articulação com o Ministro\
+    \ de Estado e dos Negócios Estrangeiros, bem como o acompanhamento da sua execução, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: cites
+  target: pt:dre:231283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:09Z'
   warnings: []
   errors: []
 ---
@@ -704,7 +827,9 @@ g) Reproduzir em meios adequados a informação necessária aos Serviços do Ins
 
 h) Garantir o funcionamento e gerir os serviços de reprografia do Instituto.
 
-#### SECÇÃO IV — Divisão de Cálculo Científico e Informático
+#### SECÇÃO IV
+
+##### Divisão de Cálculo Científico e Informático
 
 ###### Artigo 27.º — (Atribuições)
 
@@ -882,22 +1007,22 @@ O presente diploma entra em vigor e produz efeitos, quanto a remunerações e co
 
 Visto e aprovado em Conselho de Ministros de 3 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - João José Fraústo da Silva - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 5 de Abril de 1983.**
+Promulgado em 5 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Abril de 1983.**
+Referendado em 8 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 QUADRO I
 
 Do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09000/13361350.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09000/13361350.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09000/13361350.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09000/13361350.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09000/13361350.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09000/13361350.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/22800/30133014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1984-399785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 751afb786fecd269c50dc9a1f56fde30dbbaea4097c10cd17aeab714b57389a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a9b760f6e00f19373f5135692b59522b5cd847e9833570c36ad7b40a2427ec0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Música Portuguesa
+- Radiodifusão
+- Televisão
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:386001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579890:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:51Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +118,7 @@ Assim:
 
 No uso da autorização conferida pela [Lei n.º 25/84](https://diariodarepublica.pt/dr/detalhe/lei/25-1984-386001), de 13 de Julho, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os operadores de rádio e de televisão que desrespeitarem as percentagens mínimas previstas na [Lei n.º 12/81](https://diariodarepublica.pt/dr/detalhe/lei/12-1981-579890), de 21 de Julho, incorrem em coima de 20000$00 a 200000$00.
+Artigo 1.º - 1 - Os operadores de rádio e de televisão que desrespeitarem as percentagens mínimas previstas na [Lei n.º 12/81](https://diariodarepublica.pt/dr/detalhe/lei/12-1981-579890), de 21 de Julho, incorrem em coima de 20000$00 a 200000$00.
 
 2 - A ausência de remessa ou o preenchimento inexacto dos alinhamentos de programas a que se refere o artigo 6.º da mesma lei sujeitam os operadores à coima de 4000$00 a 40000$00.
 
@@ -109,11 +126,11 @@ No uso da autorização conferida pela [Lei n.º 25/84](https://diariodarepublic
 
 4 - Às entidades a que se referem os números anteriores fica ressalvado o direito a haverem dos seus agentes responsáveis pela infracção as importâncias pagas, independentemente da responsabilidade disciplinar que no caso couber.
 
-###### Art. 2.º - 1 - Para efeito do disposto no artigo 5.º da [Lei n.º 12/81](https://diariodarepublica.pt/dr/detalhe/lei/12-1981-579890), de 21 de Julho, o cálculo das percentagens de música portuguesa e de música estrangeira previstas nos artigos 2.º, 3.º e 4.º da mesma lei transmitidas mensalmente pelas estações emissoras será efectuado pela organização representativa dos autores, com base nos alinhamentos fornecidos pelos operadores de rádio e de televisão.
+Art. 2.º - 1 - Para efeito do disposto no artigo 5.º da [Lei n.º 12/81](https://diariodarepublica.pt/dr/detalhe/lei/12-1981-579890), de 21 de Julho, o cálculo das percentagens de música portuguesa e de música estrangeira previstas nos artigos 2.º, 3.º e 4.º da mesma lei transmitidas mensalmente pelas estações emissoras será efectuado pela organização representativa dos autores, com base nos alinhamentos fornecidos pelos operadores de rádio e de televisão.
 
 2 - A organização representativa dos autores enviará aos serviços da Direcção-Geral da Comunicação Social que tiverem a seu cargo o registo magnético das emissões radiofónicas e televisivas, nos 30 dias posteriores ao da recepção dos elementos a que se refere o número anterior, nota das percentagens verificadas, tanto em relação à música ligeira como à música erudita, bem como cópia dos programas remetidos pelos operadores de rádio e de televisão.
 
-###### Art. 3.º - 1 - Os competentes serviços da Direcção-Geral da Comunicação Social gravarão mensalmente, por amostragem, períodos de emissão das 8 às 24 horas de cada estação emissora de cobertura geral de rádio e de televisão e organizarão o registo dos elementos de identificação da gravação efectuada.
+Art. 3.º - 1 - Os competentes serviços da Direcção-Geral da Comunicação Social gravarão mensalmente, por amostragem, períodos de emissão das 8 às 24 horas de cada estação emissora de cobertura geral de rádio e de televisão e organizarão o registo dos elementos de identificação da gravação efectuada.
 
 2 - Sempre que as percentagens comunicadas pela organização representativa dos autores não indiciarem a existência de infracção, o controle realizar-se-á por mera amostragem, com base na verificação da correspondência:
 
@@ -125,20 +142,20 @@ b) Entre o programa remetido por aquela organização e os registos magnéticos 
 
 4 - As infracções que vierem a ser consideradas suficientemente indiciadas serão objecto de comunicação, no prazo de 5 dias, à organização representativa dos autores para conhecimento e de participação, em igual prazo, aos competentes serviços da Direcção-Geral dos Espectáculos e do Direito de Autor para efeito do disposto no artigo seguinte.
 
-###### Art. 4.º - 1 - O processamento das correspondentes contra-ordenações é da competência dos serviços responsáveis pelo contencioso da Direcção-Geral dos Espectáculos e do Direito de Autor.
+Art. 4.º - 1 - O processamento das correspondentes contra-ordenações é da competência dos serviços responsáveis pelo contencioso da Direcção-Geral dos Espectáculos e do Direito de Autor.
 
 2 - As coimas previstas no artigo 1.º serão aplicadas pelo membro do Governo que tiver a seu cargo a área da cultura.
 
-###### Art. 5.º Por um período de 2 anos, as estações emissoras que emitam em mais de um canal poderão dar cumprimento às percentagens mínimas fixadas nos artigos 2.º, 3.º e 4.º por média ponderada, segundo a duração das emissões nos diversos canais.
+Art. 5.º Por um período de 2 anos, as estações emissoras que emitam em mais de um canal poderão dar cumprimento às percentagens mínimas fixadas nos artigos 2.º, 3.º e 4.º por média ponderada, segundo a duração das emissões nos diversos canais.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - António Antero Coimbra Martins.
 
-**Promulgado em 15 de Setembro de 1984.**
+Promulgado em 15 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Setembro de 1984.**
+Referendado em 19 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

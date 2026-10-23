@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/08400/12541255.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1983-312996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec6652afd1b5494a9214923691b28837888354fdf2b738a110c0d2d4139b9b96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb1a0bf826c62f3b52202d34f964e453bc490246fa42419eab74fac4320a26f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Expropriações
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443076:por
+  label: "Alterados os arts. 9.º e 12.º do Decreto-Lei n.º 845/76, de 11-Dez., com as alterações introduzidas pelo presente\
+    \ diploma, pelo DEC LEI.413/83.23.11.1983.MJ, DR.IS [270] de 23.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1983-443076
+  date: '1983-11-23'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600964:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:03Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +135,13 @@ Reviu-se, por último, os critérios que devem presidir à elaboração da lista
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 10.º, 11.º, 12.º, 14.º, 16.º, 17.º, 63.º, 70.º e 78.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 10.º, 11.º, 12.º, 14.º, 16.º, 17.º, 63.º, 70.º e 78.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 9.º - 1 - A declaração de utilidade pública da expropriação pode resultar de lei, decreto-lei, decreto regulamentar ou de acto administrativo.
+Art. 9.º - 1 - A declaração de utilidade pública da expropriação pode resultar de lei, decreto-lei, decreto regulamentar ou de acto administrativo.
 
 2 - A declaração de utilidade pública caducará se, passado 1 ano sobre a sua publicação, a entidade expropriante não tiver adquirido os bens por expropriação amigável ou não tiver promovido a constituição da arbitragem, nos termos dos artigos 49.º e seguintes deste diploma.
 
-###### Art. 10.º - 1 - É da competência do Ministro a cujo departamento competir a apreciação final do processo:
+Art. 10.º - 1 - É da competência do Ministro a cujo departamento competir a apreciação final do processo:
 
 a) A declaração de utilidade pública da expropriação dos bens imóveis e direitos a eles inerentes;
 
@@ -120,9 +153,9 @@ c) A declaração de utilidade pública do resgate, não previsto nos respectivo
 
 3 - Tratando-se de expropriações que afectem o ambiente económico-social da região em que as obras se vão realizar, deverá o expropriante apresentar um relatório circunstanciado, de forma a apurar-se a medida em que o referido ambiente económico-social poderá ser afectado desfavoravelmente e quais as soluções concretas a adoptar.
 
-###### Art. 11.º A declaração de utilidade pública da expropriação depende, se for caso disso, de requerimento da entidade com legitimidade para o requerer.
+Art. 11.º A declaração de utilidade pública da expropriação depende, se for caso disso, de requerimento da entidade com legitimidade para o requerer.
 
-###### Art. 12.º - 1 - O requerimento dirigido ao Ministro competente será acompanhado dos seguintes documentos:
+Art. 12.º - 1 - O requerimento dirigido ao Ministro competente será acompanhado dos seguintes documentos:
 
 a) ...
 
@@ -144,11 +177,11 @@ g) Quando o requerente for entidade particular, documento comprovativo de se enc
 
 4 - ...
 
-###### Art. 14.º - 1 - No próprio acto declarativo de utilidade pública, que será sempre publicado no Diário da República, pode ser atribuído carácter de urgência à expropriação, por motivos específicos, devidamente justificados.
+Art. 14.º - 1 - No próprio acto declarativo de utilidade pública, que será sempre publicado no Diário da República, pode ser atribuído carácter de urgência à expropriação, por motivos específicos, devidamente justificados.
 
 2 - ...
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - Para efeitos do disposto no número anterior, o expropriante deverá juntar ao requerimento a que se refere o artigo 12.º uma avaliação dos bens a expropriar e indicação da rubrica orçamental, e respectivo saldo, que suportará o pagamento das indemnizações.
 
@@ -156,7 +189,7 @@ g) Quando o requerente for entidade particular, documento comprovativo de se enc
 
 4 - A caução a que se refere o número anterior subsiste até ao depósito final e é prestada administrativamente.
 
-###### Art. 17.º - 1 - Quando a entidade expropriante seja de direito público ou se trate de empresa pública, nacionalizada, concessionária de serviço público ou de obras públicas, pode ser autorizada a tomar posse administrativa dos prédios a expropriar desde que tal providência se torne indispensável para o início imediato ou a prossecução ininterrupta de trabalhos necessários à execução do projecto de obras aprovado, sempre que haja sido declarada a utilidade pública urgente da expropriação.
+Art. 17.º - 1 - Quando a entidade expropriante seja de direito público ou se trate de empresa pública, nacionalizada, concessionária de serviço público ou de obras públicas, pode ser autorizada a tomar posse administrativa dos prédios a expropriar desde que tal providência se torne indispensável para o início imediato ou a prossecução ininterrupta de trabalhos necessários à execução do projecto de obras aprovado, sempre que haja sido declarada a utilidade pública urgente da expropriação.
 
 2 - Para ser autorizada a tomada de posse administrativa nos termos do número anterior, a entidade expropriante terá de caucionar, por qualquer das formas em direito admitidas, a importância provável da indemnização.
 
@@ -164,7 +197,7 @@ g) Quando o requerente for entidade particular, documento comprovativo de se enc
 
 4 - A investidura na propriedade dos bens expropriados será conferida judicialmente.
 
-###### Art. 63.º - 1 - O processo urgente terá lugar sempre que se verifiquem os seguintes requisitos cumulativos, para além dos casos em que tenha sido declarada a utilidade pública urgente da expropriação:
+Art. 63.º - 1 - O processo urgente terá lugar sempre que se verifiquem os seguintes requisitos cumulativos, para além dos casos em que tenha sido declarada a utilidade pública urgente da expropriação:
 
 a) ...
 
@@ -176,7 +209,7 @@ a) Execução, de quaisquer empreendimentos habitacionais, incluindo as correspo
 
 b) ...
 
-###### Art. 70.º - 1 - ...
+Art. 70.º - 1 - ...
 
 2 - ...
 
@@ -184,7 +217,7 @@ b) ...
 
 4 - Recebido o processo devidamente instruído com a guia de depósito das indemnizações ou efectuada a notificação referida no número anterior e comprovado no processo o cumprimento do disposto na parte final do número anterior, o juiz, no prazo de 2 dias, adjudicará ao expropriante a propriedade e posse dos prédios, salvo, quanto a esta, o caso de já ter sido conferida posse administrativa ou judicial. Simultaneamente, será ordenada a notificação da decisão arbitral, quer ao expropriante, quer aos diversos interessados.
 
-###### Art. 78.º - 1 - ...
+Art. 78.º - 1 - ...
 
 2 - ...
 
@@ -204,16 +237,16 @@ b) ...
 
 10 - Por despacho do Ministro da Justiça, a publicar no Diário da República, serão definidos, para cada distrito judicial, os requisitos necessários à inclusão na lista de peritos, bem como o seu número.
 
-###### Art. 2.º Mantém-se em vigor o disposto no [Decreto-Lei n.º 36/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1979-383611), de 3 de Março, relativamente às expropriações para fins mineiros, designadamente no que respeita à competência e composição do Conselho de Ministros nele previsto.
+Art. 2.º Mantém-se em vigor o disposto no [Decreto-Lei n.º 36/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1979-383611), de 3 de Março, relativamente às expropriações para fins mineiros, designadamente no que respeita à competência e composição do Conselho de Ministros nele previsto.
 
 Visto e aprovado em Conselho de Ministros de 10 de Março de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 25 de Março de 1983.**
+Promulgado em 25 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Março de 1983.**
+Referendado em 29 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

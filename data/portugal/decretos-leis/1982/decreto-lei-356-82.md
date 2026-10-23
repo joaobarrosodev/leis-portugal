@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20600/26392643.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1982-374253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a80ee12a2efcfb75c3eacc9f49b7847c590943d495f1d4db8f694a2ffa2fb2a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cee7b391618e4e21465460b28b78dc94d7b107bd762691559d6887e9a3250973
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspeção Geral da Administração Interna
+- Ministério da Administração Interna
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:182242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:376450:por
+  label: Rectificado pela DECL.DD5986.23.09.1982.PCM, DR.IS [231] de 06.10.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-376450
+  date: '1982-09-23'
+- type: repealed_by
+  target: pt:dre:182242:por
+  label: Revogadas todas as disposições relacionadas com a IGAI pelo(a) Decreto-Lei n.º 197/85 - Diário da República n.º 143/1985,
+    Série I de 1985-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1985-182242
+  date: '1985-06-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:34Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +123,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do art. 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 14.º, 15.º, 43.º, 55.º, 74.º e 78.º do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 14.º, 15.º, 43.º, 55.º, 74.º e 78.º do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, passam a ter a seguinte redacção:
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Competência)
 
@@ -129,7 +155,7 @@ i) Instruir processos disciplinares instaurados ao pessoal ao serviço das autar
 
 4 - As competências referidas nos números anteriores não incluem as competências específicas que a lei prevê para a Inspecção-Geral de Finanças (IGF).
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Desconcentração de serviços)
 
@@ -153,7 +179,7 @@ O pessoal adstrito a cada uma das delegações fica subordinado ao inspector-ger
 
 10 - A dotação do pessoal de cada delegação será fixada, mediante proposta do inspector-geral, por despacho do Ministro da Administração Interna.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Competência específica do inspector-geral da Administração Interna)
 
@@ -173,13 +199,13 @@ f) Propor os inspectores que deverão assegurar o funcionamento das delegações
 
 g) Promover a abertura dos concursos a que aludem os n.os 1 a 5 do artigo 78.º
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Gratificações)
 
 O pessoal constante do quadro V anexo ao presente diploma tem direito a gratificação mensal, que será de importância equivalente a 20% do respectivo vencimento.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Formação e aperfeiçoamento profissional)
 
@@ -195,7 +221,7 @@ O pessoal constante do quadro V anexo ao presente diploma tem direito a gratific
 
 6 - Os estágios e cursos de formação que funcionem como condição de ingresso ou de acesso nos quadros do Ministério da Administração Interna serão regulamentados por despacho do Ministro da Administração Interna, ouvido o Ministro da Reforma Administrativa, nomeadamente no que respeita à sua natureza, programas e condições de realização.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Carreira de inspecção administrativa)
 
@@ -225,9 +251,9 @@ d) No caso de, em 2 concursos sucessivos, não serem apurados candidatos em núm
 
 9 - O tempo de serviço prestado nas condições dos n.os 7 e 8 será, desde que seguido de provimento definitivo, contado para todos os efeitos legais.
 
-###### Art. 2.º São aditados ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, os artigos 15.º-A e 51.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, os artigos 15.º-A e 51.º-A, com a seguinte redacção:
 
-###### ARTIGO 15.º-A
+ARTIGO 15.º-A
 
 (Provimento dos lugares nas delegações da IGAI)
 
@@ -237,7 +263,7 @@ d) No caso de, em 2 concursos sucessivos, não serem apurados candidatos em núm
 
 3 - Quando, por falta de interessados, não seja possível prover todos ou parte dos lugares de alguma delegação, as respectivas actividades serão asseguradas, total ou parcialmente, conforme os casos e se tal se tornar necessário, pelo pessoal de outra delegação ou da sede, tendo em consideração a maior proximidade dos serviços.
 
-###### ARTIGO 51.º-A
+ARTIGO 51.º-A
 
 (Colaboração com a IGF)
 
@@ -245,11 +271,11 @@ d) No caso de, em 2 concursos sucessivos, não serem apurados candidatos em núm
 
 2 - A coordenação prevista no número anterior será acordada entre os respectivos inspectores-gerais.
 
-###### Art. 3.º - 1 - É criado na IGAI e incluído no quadro V anexo ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, um lugar de subinspector-geral, ao qual incumbirão funções de permanente e directa coadjuvação do inspector-geral e de substituição deste nas suas faltas e impedimentos.
+Art. 3.º - 1 - É criado na IGAI e incluído no quadro V anexo ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, um lugar de subinspector-geral, ao qual incumbirão funções de permanente e directa coadjuvação do inspector-geral e de substituição deste nas suas faltas e impedimentos.
 
 2 - Os cargos de inspector-geral e de subinspector-geral são equiparados respectivamente, e para todos os efeitos legais, aos de director-geral e subdirector-geral, sendo providos nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 4.º - 1 - O quadro V anexo ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, passa a ter a redacção constante do quadro anexo ao presente diploma.
+Art. 4.º - 1 - O quadro V anexo ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, passa a ter a redacção constante do quadro anexo ao presente diploma.
 
 2 - A transição dos actuais inspectores para as categorias constantes do quadro a que se refere o número anterior faz-se do seguinte modo:
 
@@ -261,22 +287,22 @@ c) Os inspectores administrativos principais para a categoria de inspector princ
 
 3 - A transição operada nos termos das alíneas b) e c) do número anterior far-se-á sem prejuízo da revalorização de letras constante do quadro a que se refere o n.º 1 deste artigo.
 
-###### Art. 5.º - 1 - Ao primeiro concurso de provimento de lugares de inspector superior administrativo e de inspector-coordenador administrativo que for aberto após a publicação do presente diploma só podem candidatar-se respectivamente os actuais inspectores-coordenadores e principais, com obediência às regras constantes do artigo 78.º, considerando-se como exercido nas actuais categorias o tempo de serviço prestado respectivamente nas de inspector administrativo de 1.ª classe e de 2.ª classe, que anteriormente lhes correspondiam.
+Art. 5.º - 1 - Ao primeiro concurso de provimento de lugares de inspector superior administrativo e de inspector-coordenador administrativo que for aberto após a publicação do presente diploma só podem candidatar-se respectivamente os actuais inspectores-coordenadores e principais, com obediência às regras constantes do artigo 78.º, considerando-se como exercido nas actuais categorias o tempo de serviço prestado respectivamente nas de inspector administrativo de 1.ª classe e de 2.ª classe, que anteriormente lhes correspondiam.
 
 2 - O concurso a que se refere o número anterior será aberto, no prazo máximo de 90 dias, após a publicação do presente diploma, por despacho do Ministro da Administração Interna.
 
 3 - A nomeação dos respectivos candidatos será efectuada com base em graduação resultante da respectiva avaliação curricular e produzirá efeitos após o visto do Tribunal de Contas e publicação no Diário da República.
 
-###### Art. 6.º O Ministro de Estado e das Finanças e do Plano tomará as providências necessárias à execução do presente diploma.
+Art. 6.º O Ministro de Estado e das Finanças e do Plano tomará as providências necessárias à execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 12 de Agosto de 1982.**
+Promulgado em 12 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20600/26392643.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20600/26392643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20600/26392643.pdf)

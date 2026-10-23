@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1986-221726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1db7da3f81b400ec990397d58cb4b356e43831ca7698624307110e4c499abdc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c64a71ef1d756362c676a08af6f16de8bd0fb4736bed1d0fd4afee544181bd71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto da Carreira Médico-militar
+- Forças Armadas
+- Médico
+relationships:
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:48Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +98,9 @@ Considerando necessário manter a equiparação das carreiras dos médicos milit
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. São alterados os artigos 4.º, 5.º, 6.º, 11.º, 12.º e 14.º do Decreto-Lei 519-B/77, de 17 de Dezembro, que passam a ter as seguintes redacções:
+Artigo único. São alterados os artigos 4.º, 5.º, 6.º, 11.º, 12.º e 14.º do Decreto-Lei 519-B/77, de 17 de Dezembro, que passam a ter as seguintes redacções:
 
-###### Art. 4.º A valorização profissional específica dentro do corpo médico do Serviço de Saúde Militar comporta os seguintes graus:
+Art. 4.º A valorização profissional específica dentro do corpo médico do Serviço de Saúde Militar comporta os seguintes graus:
 
 a) Clínica geral;
 
@@ -101,17 +108,17 @@ b) Assistente de clínica geral ou assistente hospitalar;
 
 c) Consultor de clínica geral ou chefe de serviço hospitalar.
 
-###### Art. 5.º Os graus referidos no artigo 4.º adquirem-se conforme o legalmente estabelecido, quer para as carreiras médicas, quer para a fase de pré-carreira.
+Art. 5.º Os graus referidos no artigo 4.º adquirem-se conforme o legalmente estabelecido, quer para as carreiras médicas, quer para a fase de pré-carreira.
 
-###### Art. 6.º As qualificações nos vários graus da carreira constituirão factor de valorização profissional obrigatório para a promoção em vários postos da hierarquia militar.
+Art. 6.º As qualificações nos vários graus da carreira constituirão factor de valorização profissional obrigatório para a promoção em vários postos da hierarquia militar.
 
-###### Art. 11.º - 1 - Os oficiais médicos das Forças Armadas obrigam-se, após o ingresso nos quadros permanentes, ao cumprimento de 10 anos de serviço a partir do grau de assistente, contados a partir da data de obtenção desse grau da carreira médico-militar.
+Art. 11.º - 1 - Os oficiais médicos das Forças Armadas obrigam-se, após o ingresso nos quadros permanentes, ao cumprimento de 10 anos de serviço a partir do grau de assistente, contados a partir da data de obtenção desse grau da carreira médico-militar.
 
 2 - ...
 
 3 - ...
 
-###### Art. 12.º - 1 - A promoção dos oficiais médicos realiza-se nas condições estabelecidas nos estatutos militares.
+Art. 12.º - 1 - A promoção dos oficiais médicos realiza-se nas condições estabelecidas nos estatutos militares.
 
 2 - É também condição especial de promoção:
 
@@ -125,16 +132,16 @@ c) Para coronel ou capitão-de-mar-e-guerra, obtenção grau de consultor ou che
 
 4 - O oficial que posteriormente não tenha aproveitamento ou desista de satisfazer a condição especial de que tratam os números anteriores ficará abrangido pela mudança de situação prevista no Estatuto do Oficial das Forças Armadas.
 
-###### Art. 14.º Os oficiais médicos que se encontrem a frequentar o internato complementar e não obtenham, por três vezes e durante dois anos, consecutivos ou não, aproveitamento no mesmo estágio passarão à situação de reserva se reunirem as demais condições legais ou serão abatidos aos quadros permanentes, no caso contrário.
+Art. 14.º Os oficiais médicos que se encontrem a frequentar o internato complementar e não obtenham, por três vezes e durante dois anos, consecutivos ou não, aproveitamento no mesmo estágio passarão à situação de reserva se reunirem as demais condições legais ou serão abatidos aos quadros permanentes, no caso contrário.
 
 Visto e aprovado no Conselho de Ministros de 7 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

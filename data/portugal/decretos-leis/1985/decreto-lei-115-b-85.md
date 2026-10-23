@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 90/1985, 1º Suplemento, Série I de 1985-04-18
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1060-(3) a 1060-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09001/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-b-1985-477168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:02:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ae1c657fe1b3378a54f7c10a251c88512d445079a7e3624cfc58be9c5552cca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66bca0366e90f6e618f8a51cdec0d703763f441bf5a05653e93012f6fd59a1ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do Imposto Profissional
+relationships:
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:495135:por
+  label: Rectificado pela DECL.DD4913.21.05.1985.PCM, DR.IS [125]Supl de 31.05.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-495135
+  date: '1985-05-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:02:39Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +112,9 @@ Nestes termos:
 
 No uso da autorização conferida pelo artigo 26.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º 3.º, 10.º, 21.º, 26.º 29.º, 40.º, 45.º-A, 55.º e 83.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º 3.º, 10.º, 21.º, 26.º 29.º, 40.º, 45.º-A, 55.º e 83.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 a) ...
 
@@ -120,7 +130,7 @@ c) ...
 
 § 4.º Para efeitos de tributação em imposto profissional, considera-se como exercida no território do continente e arquipélagos dos Açores e da Madeira a actividade prestada no estrangeiro por pessoas singulares e entidades com residência ou sede nesses territórios, ou que, não a tendo, possuam nos mesmos escritórios, estabelecimentos ou qualquer forma de representação a que deve imputar-se o pagamento das respectivas remunerações, desde que não seja feita prova de que estas foram tributadas no país onde aquelas pessoas se encontram deslocadas.
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 a) ...
 
@@ -140,7 +150,7 @@ f):
 
 g) ...
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 a) ...
 
@@ -208,15 +218,15 @@ b) ...
 
 c) ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/09001/00030005.pdf))](https://files.diariodarepublica.pt/1s/1985/04/09001/00030005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09001/00030005.pdf)
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 a) ...
 
@@ -232,7 +242,7 @@ c) ...
 
 § 4.º ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 a) ...
 
@@ -244,31 +254,31 @@ c) ...
 
 § 2.º ...
 
-###### Art. 40.º ...
+Art. 40.º ...
 
 § único. O imposto liquidado nos termos do artigo 28.º e seus parágrafos será pago na data da entrega da declaração modelo n.º 5, mediante conhecimento de cobrança modelo n.º 7, processado em triplicado, considerando-se sem efeito a declaração apresentada no caso de falta de pagamento naquela data.
 
-###### Art. 45.º-A As pessoas singulares que exerçam por conta própria alguma das actividades constantes da tabela anexa deverão apresentar uma declaração modelo n.º 1 na repartição de finanças da área do seu domicílio, quando o tenham no continente ou nos arquipélagos dos Açores e da Madeira. Não tendo aí domicílio, mas apenas escritório, consultório ou estabelecimento, a declaração será entregue na repartição da respectiva área.
+Art. 45.º-A As pessoas singulares que exerçam por conta própria alguma das actividades constantes da tabela anexa deverão apresentar uma declaração modelo n.º 1 na repartição de finanças da área do seu domicílio, quando o tenham no continente ou nos arquipélagos dos Açores e da Madeira. Não tendo aí domicílio, mas apenas escritório, consultório ou estabelecimento, a declaração será entregue na repartição da respectiva área.
 
 § único. A declaração será feita em triplicado e entregue na repartição de finanças respectiva antes do início do exercício da actividade.
 
-###### Art. 55.º ...
+Art. 55.º ...
 
 § 1.º ...
 
 § 2.º Os prazos de reclamação, ordinária ou extraordinária, e de impugnação para anulação do excesso de imposto deduzido e entregue nos termos dos artigos 27.º e 27.º-A serão contados a partir de 1 de Janeiro do ano seguinte àquele em que as remunerações forem pagas ou atribuídas.
 
-###### Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas ou participações a que se referem os artigos 6.º, 9.º, 27.º-A, § 1.º, 44.º-A, § único, 45.º-A, 47.º, 49.º e 50.º, quando apresentados em duplicado ou triplicado.
+Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas ou participações a que se referem os artigos 6.º, 9.º, 27.º-A, § 1.º, 44.º-A, § único, 45.º-A, 47.º, 49.º e 50.º, quando apresentados em duplicado ou triplicado.
 
-###### Art. 2.º A rubrica 15.3 - Angariadores e comissionistas - meros intermediários sem poderes de contratação, constante da tabela a que se refere a alínea c) do artigo 2.º do Código do Imposto Profissional, passa a ter a seguinte redacção:
+Art. 2.º A rubrica 15.3 - Angariadores e comissionistas - meros intermediários sem poderes de contratação, constante da tabela a que se refere a alínea c) do artigo 2.º do Código do Imposto Profissional, passa a ter a seguinte redacção:
 
 15.3 - Angariadores e comissionistas - meros intermediários sem poderes de contratação, com ou sem poderes de cobrança - 10% e 12%.
 
-###### Art. 3.º - 1 - As pessoas que passarem a ficar abrangidas pelas actividades constantes da rubrica 15.3 da tabela anexa ao Código do Imposto Profissional por virtude da nova redacção que lhe é dada pelo artigo 2.º do presente decreto-lei devem apresentar, no prazo de 30 dias a contar da publicação deste diploma, a declaração referida no artigo 45.º-A daquele Código.
+Art. 3.º - 1 - As pessoas que passarem a ficar abrangidas pelas actividades constantes da rubrica 15.3 da tabela anexa ao Código do Imposto Profissional por virtude da nova redacção que lhe é dada pelo artigo 2.º do presente decreto-lei devem apresentar, no prazo de 30 dias a contar da publicação deste diploma, a declaração referida no artigo 45.º-A daquele Código.
 
 2 - O não cumprimento do disposto no número anterior será punido nos termos do artigo 59.º do Código do Imposto Profissional.
 
-###### Art. 4.º - 1 - As alterações introduzidas no § 1.º do artigo 2.º nos n.os 1 e 2 do artigo 10.º e nos artigos 21.º e 26.º do Código do Imposto Profissional, bem assim a alteração introduzida na rubrica 15.3 da tabela anexa ao mesmo Código, nos termos dos artigos 1.º e 2.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1985 e seguintes.
+Art. 4.º - 1 - As alterações introduzidas no § 1.º do artigo 2.º nos n.os 1 e 2 do artigo 10.º e nos artigos 21.º e 26.º do Código do Imposto Profissional, bem assim a alteração introduzida na rubrica 15.3 da tabela anexa ao mesmo Código, nos termos dos artigos 1.º e 2.º do presente diploma, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1985 e seguintes.
 
 2 - As importâncias que, por virtude das alterações referidas no número anterior, se considerem a mais ou a menos deduzidas e entregues nos cofres do Estado, nos termos dos artigos 26.º 27.º, 27.º-A e 29.º do Código serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações ou rendimentos a pagar ou a atribuir até ao fim do ano em curso.
 
@@ -276,12 +286,12 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1985. - Mário Soares-Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 15 de Abril de 1985.**
+Promulgado em 15 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Abril de 1985.**
+Referendado em 16 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

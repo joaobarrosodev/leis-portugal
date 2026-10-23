@@ -47,40 +47,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1986-222248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd9c4747229f62abb78729810c1fb7b3d9b1f0ef2d37e7dc458620176d3bff8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 069a230d38696315e41a85f4dc0b950106a338bb817cdb3cfe658af1712a0de8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Empresa Pública
+- Estatuto
+- Sociedade Anónima
+- União de Bancos Portugueses
 relationships:
 - type: amended_by
   target: pt:dre:615227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663518:por
+  label: "Suspensa, até à publicação da lei que os vier a alterar ou até à rejeição de todas as propostas de alteração apresentadas,\
+    \ a vigência do nº 3 do art. 4º e do art. 7º do presente diploma, assim como da al. c) do nº 1 do art. 11º, do nº 3 do\
+    \ art. 14º, da al. c) do nº 1 do art. 15º, do nº 3 do art. 20º, das als. b) e c) do art. 24º, e do nº 2 do art. 29º dos\
+    \ Estatutos da União de Bancos Portugueses, S.A.R.L. anexos pela RES.1/87.14.01.1987.AR, DR.IS [11] de 14.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/1-1987-663518
+  date: '1987-01-14'
+- type: amended_by
+  target: pt:dre:666147:por
+  label: "Alterados os arts. 3.º, 4.º, 5.º, e 6.º e os arts. 10.º, 11.º, 14.º, 20.º, 21.º e 24.º dos Estatutos, aditados os\
+    \ arts. 8.º, 9.º e 10.º eliminado o n.º 4 do art. 4.º, e os n.ºs. 4 do art. 4.º, os n.ºs. 3 e 5 do art. 20.º e o art.\
+    \ 29.º dos Estatutos e consideradas como feitas a \"Sociedade Anónima\" e \"S.A.\" as referências a \"Sociedade Anónima\
+    \ de Responsabilidade Limitada\" e \"S.A.R.L.\" do presente diploma e dos Estatutos que lhe são anexos, pela LEI.13/87.1987.04.07.AR\
+    \ DR.IS [81]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-1987-666147
+  date: '1987-04-07'
+- type: amended_by
+  target: pt:dre:615227:por
+  label: "Transformada, em sociedade anónima de capitais maioritariamente públicos, a sociedade anónima de capitais exclusivamente\
+    \ públicos denominada União de Bancos Portugueses, S. A., criada pelo presente diploma, pelo DEC LEI.126/89.15.04.1989.MF,\
+    \ DR.IS [88] de 15.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-1989-615227
+  date: '1989-04-15'
+- type: cites
+  target: pt:dre:149258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:08Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +170,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A União de Bancos Portugueses, E. P., que resultou da fusão de instituições de crédito nacionalizadas pelos Decretos-Leis n.os [470/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-1974-473287), de 10 de Setembro, e [132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, e mantidas pelos mesmos diplomas como sociedades anónimas e que está organizada como pessoa colectiva de direito público ao abrigo do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, e do [Decreto n.º 3-A/78](https://diariodarepublica.pt/dr/detalhe/decreto/3-a-1978-149258), de 9 de Janeiro, assume pelo presente diploma a forma de sociedade anónima de responsabilidade limitada e de capitais exclusivamente públicos, passando a denominar-se União de Bancos Portugueses, S. A. R. L.
+Artigo 1.º - 1 - A União de Bancos Portugueses, E. P., que resultou da fusão de instituições de crédito nacionalizadas pelos Decretos-Leis n.os [470/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-1974-473287), de 10 de Setembro, e [132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, e mantidas pelos mesmos diplomas como sociedades anónimas e que está organizada como pessoa colectiva de direito público ao abrigo do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, e do [Decreto n.º 3-A/78](https://diariodarepublica.pt/dr/detalhe/decreto/3-a-1978-149258), de 9 de Janeiro, assume pelo presente diploma a forma de sociedade anónima de responsabilidade limitada e de capitais exclusivamente públicos, passando a denominar-se União de Bancos Portugueses, S. A. R. L.
 
 2 - A União de Bancos Portugueses, S. A. R. L., reger-se-á pelo presente diploma e em tudo o que nele se não achar previsto pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas de responsabilidade limitada e pelas normas gerais e especiais aplicáveis às instituições de crédito.
 
-###### Art. 2.º - 1 - A União de Bancos Portugueses, S. A. R. L., mantém, sob a forma referida no artigo anterior e sem quebra de identidade, a personalidade jurídica da União de Bancos Portugueses, E. P., conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais integrantes do activo e do passivo desta.
+Art. 2.º - 1 - A União de Bancos Portugueses, S. A. R. L., mantém, sob a forma referida no artigo anterior e sem quebra de identidade, a personalidade jurídica da União de Bancos Portugueses, E. P., conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais integrantes do activo e do passivo desta.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser feitos pelas repartições competentes com base em simples comunicação subscrita por dois membros do conselho de administração da União de Bancos Portugueses, S. A. R. L., isentos de quaisquer taxas ou emolumentos.
 
-###### Art. 3.º - 1 - A União de Bancos Portugueses, S. A. R. L, terá inicialmente um capital social de 6000000000$00, o qual se acha integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
+Art. 3.º - 1 - A União de Bancos Portugueses, S. A. R. L, terá inicialmente um capital social de 6000000000$00, o qual se acha integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
 2 - As acções representativas do capital subscrito pelo Estado serão mantidas na titularidade da Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma entidade do sector público ou a sua titularidade ser transferida, desde que observado o disposto no número seguinte.
 
@@ -121,7 +186,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os fundos públicos e organismos congéneres do sector público administrativo poderão subscrever acções representativas do capital da União de Bancos Portugueses, S. A. R. L., desde que, para o efeito, sejam autorizados por despacho do Ministro das Finanças.
 
-###### Art. 4.º - 1 - São aprovados os estatutos da União de Bancos Portugueses, S. A. R. L., anexos a este diploma e que dele fazem parte integrante.
+Art. 4.º - 1 - São aprovados os estatutos da União de Bancos Portugueses, S. A. R. L., anexos a este diploma e que dele fazem parte integrante.
 
 2 - Os estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
@@ -131,7 +196,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O presente diploma é título bastante para os necessários actos de registo no Registo Nacional de Pessoas Colectivas e na conservatória do registo comercial, ficando os mesmos isentos de todas as taxas, emolumentos e outros encargos por força da realização de tais actos.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos sócios, o conselho de administração enviará ao Ministério das Finanças, pelo menos quinze dias antes da data da assembleia geral a quem cabe a apreciação:
+Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos sócios, o conselho de administração enviará ao Ministério das Finanças, pelo menos quinze dias antes da data da assembleia geral a quem cabe a apreciação:
 
 a) O relatório e contas, com apreciação da forma como foram executados os orçamentos anuais aprovados;
 
@@ -139,41 +204,41 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 3 - O Ministro das Finanças definirá por despacho as regras a aplicar para efeitos do disposto nos números anteriores.
 
-###### Art. 6.º - 1 - Os trabalhadores e pensionistas mantêm todos os seus direitos, obrigações e regalias emergentes do contrato individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma.
+Art. 6.º - 1 - Os trabalhadores e pensionistas mantêm todos os seus direitos, obrigações e regalias emergentes do contrato individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais e os trabalhadores de empresas públicas podem ser autorizados a exercer funções na União de Bancos Portugueses, S. A. R. L., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros de que usufruíam por antiguidade se tivessem permanecido naquele quadro.
 
 3 - A situação dos trabalhadores da União de Bancos Portugueses, S. A. R. L., que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
-###### Art. 7.º Fica desde já convocada a assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração, que reunirá na sede do banco um mês após a data da entrada em vigor do presente diploma, mantendo-se em funções os actuais membros do conselho de gestão e da comissão de fiscalização até à data da posse dos novos corpos sociais.
+Art. 7.º Fica desde já convocada a assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração, que reunirá na sede do banco um mês após a data da entrada em vigor do presente diploma, mantendo-se em funções os actuais membros do conselho de gestão e da comissão de fiscalização até à data da posse dos novos corpos sociais.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 6 de Outubro de 1986.**
+Promulgado em 6 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Outubro de 1986.**
+Referendado em 8 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de União de Bancos Portugueses, S. A. R. L.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de União de Bancos Portugueses, S. A. R. L.
 
-###### Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é na cidade do Porto.
+Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é na cidade do Porto.
 
 2 - Por deliberação do conselho da administração pode a sociedade criar e manter em qualquer ponto do território nacional ou fora dele agências, delegações ou qualquer forma de representação.
 
-###### Art. 3.º O objecto social será a realização de todas as operações do comércio bancário, e bem assim a prática de quaisquer actos necessários ou acessórios dessas mesmas operações.
+Art. 3.º O objecto social será a realização de todas as operações do comércio bancário, e bem assim a prática de quaisquer actos necessários ou acessórios dessas mesmas operações.
 
 ### CAPÍTULO II — Capital social e acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 6000000000$00, está integralmente subscrito e realizado pelo Estado à data da entrada em vigor do diploma de que são anexo os presentes estatutos e fica representado por 6000000 de acções nominativas com o valor nominal de 1000$00 cada uma.
+Art. 4.º - 1 - O capital social é de 6000000000$00, está integralmente subscrito e realizado pelo Estado à data da entrada em vigor do diploma de que são anexo os presentes estatutos e fica representado por 6000000 de acções nominativas com o valor nominal de 1000$00 cada uma.
 
 2 - As acções representativas do capital social apenas poderão pertencer ao Estado, a pessoas colectivas de direito público, empresas públicas e sociedades de capitais públicos.
 
@@ -181,23 +246,23 @@ Estatutos
 
 4 - Poderá haver acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
 
-###### Art. 5.º - 1 - A sociedade terá um fundo de reserva sem limite máximo, constituído pela transferência de lucros líquidos apurados em cada exercício, de acordo com a deliberação da assembleia geral.
+Art. 5.º - 1 - A sociedade terá um fundo de reserva sem limite máximo, constituído pela transferência de lucros líquidos apurados em cada exercício, de acordo com a deliberação da assembleia geral.
 
 2 - Além do fundo referido no número anterior, pode o conselho de administração criar outros fundos e provisões necessários para prevenir riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estejam particularmente sujeitas.
 
-###### Art. 6.º - 1 - O conselho de administração fica autorizado a aumentar o capital social acima fixado, por uma ou mais vezes, até ao montante de 12000000000$00.
+Art. 6.º - 1 - O conselho de administração fica autorizado a aumentar o capital social acima fixado, por uma ou mais vezes, até ao montante de 12000000000$00.
 
 2 - Os aumentos de capital para além do limite definido no número anterior serão deliberados pela assembleia geral.
 
-###### Art. 7.º As acções a emitir por força de aumentos de capital serão nominativas e só podem ser subscritas e pertencer às entidades referidas no artigo 4.º, n.º 2.
+Art. 7.º As acções a emitir por força de aumentos de capital serão nominativas e só podem ser subscritas e pertencer às entidades referidas no artigo 4.º, n.º 2.
 
-###### Art. 8.º Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
+Art. 8.º Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
 
-###### Art. 9.º A sociedade poderá emitir obrigações, nos termos e até aos limites legais, e bem assim efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
+Art. 9.º A sociedade poderá emitir obrigações, nos termos e até aos limites legais, e bem assim efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 10.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 10.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 1000 acções corresponde um voto na assembleia geral.
 
@@ -211,7 +276,7 @@ Estatutos
 
 7 - Nenhum accionista se poderá fazer representar por duas ou mais pessoas.
 
-###### Art. 11.º - 1 - Compete à assembleia geral:
+Art. 11.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas e o parecer do conselho fiscal e decidir sobre a aplicação dos resultados do exercício;
 
@@ -227,19 +292,19 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações serão tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral sempre que a lei não exija maior número.
 
-###### Art. 12.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, constituída ainda por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia, cujas faltas serão supridas nos termos da lei comercial.
+Art. 12.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, constituída ainda por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia, cujas faltas serão supridas nos termos da lei comercial.
 
 2 - O mandato dos membros da mesa da assembleia geral é renovável.
 
-###### Art. 13.º A assembleia geral reunirá ordinariamente, pelo menos, uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital.
+Art. 13.º A assembleia geral reunirá ordinariamente, pelo menos, uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital.
 
-###### Art. 14.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais, dos quais dois poderão ser eleitos sem funções executivas.
+Art. 14.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais, dos quais dois poderão ser eleitos sem funções executivas.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
 3 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos pelo próprio conselho de administração até que a primeira assembleia geral sobre eles preveja definitivamente.
 
-###### Art. 15.º - 1 - Ao conselho de administração compete, além das atribuições gerais que por lei lhe são conferidas:
+Art. 15.º - 1 - Ao conselho de administração compete, além das atribuições gerais que por lei lhe são conferidas:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -255,7 +320,7 @@ f) Constituir mandatários com os poderes que julgue convenientes, incluindo os 
 
 2 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, compostas por alguns dos seus membros com funções executivas ou em comissões especiais constituídas por algum ou alguns dos seus membros e por empregados da sociedade algum ou alguns dos seus poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 16.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 16.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -267,19 +332,19 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente ou por dois administradores.
+Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente ou por dois administradores.
 
 2 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal expressamente reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração serão tomadas por maioria dos votos expressos, tendo o presidente ou quem legalmente o substituir voto de qualidade.
 
-###### Art. 18.º - 1 - Nas actas do conselho de administração e das comissões executivas mencionam-se sumariamente, mas com clareza, todos os assuntos tratados nas respectivas reuniões.
+Art. 18.º - 1 - Nas actas do conselho de administração e das comissões executivas mencionam-se sumariamente, mas com clareza, todos os assuntos tratados nas respectivas reuniões.
 
 2 - As actas são assinadas por todos os membros do conselho de administração que participarem na reunião.
 
 3 - Os participantes na reunião podem ditar para a acta a súmula das suas intervenções, sendo-lhes ainda facultado votar «vencido» quanto às decisões de que discordem.
 
-###### Art. 19.º - 1 - A sociedade obriga-se:
+Art. 19.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -291,7 +356,7 @@ b) Pela assinatura dos mandatários constituídos no âmbito e nos termos do cor
 
 4 - O conselho de administração poderá deliberar, em termos e dentro dos limites legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela.
 
-###### Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplemente, todos eleitos em assembleia geral.
+Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplemente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos será revisor oficial de contas.
 
@@ -301,7 +366,7 @@ b) Pela assinatura dos mandatários constituídos no âmbito e nos termos do cor
 
 5 - Por deliberação da assembleia geral poderão as funções do conselho fiscal ser cometidas a uma sociedade revisora de contas.
 
-###### Art. 21.º - 1 - Ao conselho fiscal compete, em especial:
+Art. 21.º - 1 - Ao conselho fiscal compete, em especial:
 
 a) Examinar, sempre que o julgue conveniente e pelo menos uma vez por mês, a escrituração do banco;
 
@@ -321,15 +386,15 @@ h) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito ou por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 22.º As deliberações do conselho fiscal serão tomadas estando presente a maioria dos membros em exercício e por maioria dos votos expressos.
+Art. 22.º As deliberações do conselho fiscal serão tomadas estando presente a maioria dos membros em exercício e por maioria dos votos expressos.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 23.º - 1 - Permanecem ao serviço da União de Bancos Portugueses, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, incluindo a contagem de tempo de antiguidade, os trabalhadores que já se encontravam ao serviço da União de Bancos Portugueses, E. P., à data da publicação destes estatutos.
+Art. 23.º - 1 - Permanecem ao serviço da União de Bancos Portugueses, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, incluindo a contagem de tempo de antiguidade, os trabalhadores que já se encontravam ao serviço da União de Bancos Portugueses, E. P., à data da publicação destes estatutos.
 
 2 - Os pensionistas da União de Bancos Portugueses, E. P., mantêm igualmente todos os direitos, obrigações e regalias que detinham à data da entrada em vigor deste diploma.
 
-###### Art. 24.º O regime jurídico do pessoal é definido:
+Art. 24.º O regime jurídico do pessoal é definido:
 
 a) Pelas leis gerais do contrato individual de trabalho;
 
@@ -341,7 +406,7 @@ d) Pelas normas de cada contrato individual de trabalho.
 
 ### CAPÍTULO V — Aplicação do resultados
 
-###### Art. 25.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na constituição da reserva legal, na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado pela assembleia geral, com observância dos seguintes princípios:
+Art. 25.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na constituição da reserva legal, na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado pela assembleia geral, com observância dos seguintes princípios:
 
 a) Pelo menos 20% do remanescente serão aplicados na distribuição de dividendos aos accionistas;
 
@@ -349,12 +414,12 @@ b) Até 15% do remanescente serão aplicados como participação dos lucros dos 
 
 ### CAPÍTULO VI — Disposições diversas e transitórias
 
-###### Art. 26.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 26.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 27.º Os presentes estatutos produzem efeitos a partir da data da entrada em vigor do diploma de que são anexo.
+Art. 27.º Os presentes estatutos produzem efeitos a partir da data da entrada em vigor do diploma de que são anexo.
 
-###### Art. 28.º Em todos os casos omissos nestes estatutos serão observadas as disposições gerais de direito aplicáveis a sociedades anónimas de responsabilidade limitada e as especiais que vigorarem sobre os bancos e as suas operações.
+Art. 28.º Em todos os casos omissos nestes estatutos serão observadas as disposições gerais de direito aplicáveis a sociedades anónimas de responsabilidade limitada e as especiais que vigorarem sobre os bancos e as suas operações.
 
-###### Art. 29.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 29.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.

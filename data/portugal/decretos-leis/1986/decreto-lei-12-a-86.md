@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 16/1986, 1º Suplemento, Série I de 1986-01-20
   number: '16'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 180-(1) a 180-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/01/01601/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-1986-598165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 037789841dedead09dc5d9df5b09ec61865fd9bd3283a2dbcbb8bdc8ae85e3de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 584c8be017f889a894ae7b6c2875d5247ede738d09a67cd788c332e9a0d07857
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Médico
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECUSADA A RATIFICAÇÃO DO PRESENT DIPLOMA E REPRISTINADAS AS NORMAS LEGAIS QUE HAVIAM SIDO POR ELE REVOGADAS, PELA\
+    \ RESOLUÇÃO 8/86, DA AR, DE 4 DE MARCO, PUBLICADA NO DR.IS, 62, DE 860315.\0, DE 860315."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-03-15'
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:51Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +119,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, n.º 8, e 10.º, n.º 1, do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, passam ter a redacção seguinte:
+Artigo 1.º Os artigos 7.º, n.º 8, e 10.º, n.º 1, do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, passam ter a redacção seguinte:
 
 ###### Artigo 7.º
 
@@ -116,20 +133,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 1 - A frequência do internato geral implica a impossibilidade de exercício profissional fora do programa do internato e obedece à duração semanal que estiver fixada no Regulamento do Internato Geral, incluindo obrigatoriamente a frequência de serviços de urgência.
 
-###### Art. 2.º No quadro I anexo ao [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, considera-se não incluída a atribuição da letra G da escala geral do funcionalismo ao interno do internato geral.
+Art. 2.º No quadro I anexo ao [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, considera-se não incluída a atribuição da letra G da escala geral do funcionalismo ao interno do internato geral.
 
-###### Art. 3.º São revogados os n.os 5 e 6 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
+Art. 3.º São revogados os n.os 5 e 6 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
 
-###### Art. 4.º Este diploma produz efeitos relativamente aos médicos que venham a iniciar o internato geral e o internato complementar após a entrada em vigor do presente decreto-lei.
+Art. 4.º Este diploma produz efeitos relativamente aos médicos que venham a iniciar o internato geral e o internato complementar após a entrada em vigor do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 17 de Janeiro de 1985.**
+Promulgado em 17 de Janeiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Janeiro de 1986.**
+Referendado em 20 de Janeiro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

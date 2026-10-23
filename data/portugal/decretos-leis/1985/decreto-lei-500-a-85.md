@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 298/1985, 1º Suplemento, Série I de 1985-12-27
   number: '298'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4244-(1) a 4244-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/29801/00010008.pdf
 entry_into_force_dates: []
@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-a-1985-423220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d00b5e5c03d8e5573bccbc33d46014cebb5aa2d171728a3ae7facaca87838929
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f830fd60e4b5f653ecb7ea46f99260870a7798fb131e2117c14af6224381305b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Importação
+- Regime de Aperfeiçoamento Activo
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:09Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +99,9 @@ Considerando que para o efeito se torna necessário harmonizar a legislação na
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente decreto-lei fixa as regras relativas ao regime do aperfeiçoamento activo.
+Artigo 1.º O presente decreto-lei fixa as regras relativas ao regime do aperfeiçoamento activo.
 
-###### Art. 2.º - 1 - Entende-se por regime de aperfeiçoamento activo o regime aduaneiro segundo o qual as mercadorias importadas que não preencham as condições referidas nos artigos 9.º e 10.º do Tratado podem ser submetidas a determinadas operações sem ficarem sujeitas ao pagamento dos direitos aduaneiros, dos encargos de efeito equivalente e dos direitos niveladores agrícolas, quando tais mercadorias se destinarem a serem exportadas, na totalidade ou em parte, sob a forma de produtos compensadores definidos no n.º 3.
+Art. 2.º - 1 - Entende-se por regime de aperfeiçoamento activo o regime aduaneiro segundo o qual as mercadorias importadas que não preencham as condições referidas nos artigos 9.º e 10.º do Tratado podem ser submetidas a determinadas operações sem ficarem sujeitas ao pagamento dos direitos aduaneiros, dos encargos de efeito equivalente e dos direitos niveladores agrícolas, quando tais mercadorias se destinarem a serem exportadas, na totalidade ou em parte, sob a forma de produtos compensadores definidos no n.º 3.
 
 2 - O regime de aperfeiçoamento activo aplica-se, nas condições do presente decreto-lei, a mercadorias de qualquer espécie e de qualquer origem.
 
@@ -111,17 +119,17 @@ d) Utilização de mercadorias, tais como catalisadores, aceleradores ou retarda
 
 5 - No caso referido na alínea d) do n.º 3, o desaparecimento total ou parcial das mercadorias é equiparado a uma exportação de produtos compensadores, desde que os produtos obtidos sejam exportados.
 
-###### Art. 3.º - 1 - Os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas aplicáveis às mercadorias submetidas ao regime do aperfeiçoamento activo serão garantidos por meio de fiança.
+Art. 3.º - 1 - Os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas aplicáveis às mercadorias submetidas ao regime do aperfeiçoamento activo serão garantidos por meio de fiança.
 
 2 - Para as mercadorias submetidas ao regime de aperfeiçoamento activo em depósitos gerais francos, em depósitos francos ou em zonas francas não será exigida garantia.
 
-###### Art. 4.º - 1 - O benefício do regime de aperfeiçoamento activo só será concedido a pessoas singulares ou colectivas estabelecidas na Comunidade Económica Europeia.
+Art. 4.º - 1 - O benefício do regime de aperfeiçoamento activo só será concedido a pessoas singulares ou colectivas estabelecidas na Comunidade Económica Europeia.
 
 2 - O Ministro das Finanças e do Plano concederá o benefício do regime aos interessados, a pedido destes, quer mediante autorizações concedidas automaticamente em virtude de disposições de alcance geral, quer mediante autorizações globais ou especiais, sendo ouvidas as entidades envolvidas, se tal for considerado necessário.
 
 3 - O benefício do regime não será concedido quando for impossível identificar as mercadorias importadas nos produtos compensadores ou, no caso referido no artigo 24.º, quando for impossível verificar se as condições previstas por esse artigo se encontram preenchidas.
 
-###### Art. 5.º - 1 - O Ministro das Finanças e do Plano poderá conceder autorizações em todos os casos em que o regime de aperfeiçoamento activo possa contribuir para a reunião das condições mais favoráveis para a exportação das mercadorias resultantes desse aperfeiçoamento sem causar prejuízo aos interesses essenciais dos produtores comunitários.
+Art. 5.º - 1 - O Ministro das Finanças e do Plano poderá conceder autorizações em todos os casos em que o regime de aperfeiçoamento activo possa contribuir para a reunião das condições mais favoráveis para a exportação das mercadorias resultantes desse aperfeiçoamento sem causar prejuízo aos interesses essenciais dos produtores comunitários.
 
 2 - Consideram-se que contribuem para a reunião das condições mais favoráveis para a exportação sem prejuízo dos interesses essenciais dos produtores comunitários as operações a efectuar ao abrigo do regime do aperfeiçoamento activo que incidam, consoante o caso, sobre:
 
@@ -137,21 +145,21 @@ d) Mercadorias cuja utilização se torne necessária pelo facto de as disponív
 
 4 - O requerente é obrigado a fornecer as informações de que disponha e que possam justificar a existência das circunstâncias referidas nos n.os 2 e 3.
 
-###### Art. 6.º - 1 - As autorizações que concedem o benefício do regime de aperfeiçoamento activo em casos diferentes dos enumerados nos n.os 2 e 3 do artigo 5.º devem ser limitadas a um período que não exceda 9 meses.
+Art. 6.º - 1 - As autorizações que concedem o benefício do regime de aperfeiçoamento activo em casos diferentes dos enumerados nos n.os 2 e 3 do artigo 5.º devem ser limitadas a um período que não exceda 9 meses.
 
 2 - Os elementos de facto que levaram o Ministro das Finanças e do Plano a conceder as autorizações referidas no n.º 1 no decurso de 1 mês serão por ele comunicadas à Comissão antes do dia 10 do mês seguinte.
 
 3 - Quando, 2 meses antes do termo do prazo de 9 meses referido no n.º 1, o Conselho não tiver adoptado disposições sobre essa matéria, o Ministro das Finanças e do Plano poderá, a pedido do interessado, prolongar o prazo de validade da autorização.
 
-###### Art. 7.º - 1 - Os elementos de facto que levaram o Ministro das Finanças e do Plano a conceder autorização ao abrigo do n.º 2, alíneas b) ou d), do artigo 5.º ou ao abrigo do n.º 3 do referido artigo serão comunicados periodicamente à Comissão.
+Art. 7.º - 1 - Os elementos de facto que levaram o Ministro das Finanças e do Plano a conceder autorização ao abrigo do n.º 2, alíneas b) ou d), do artigo 5.º ou ao abrigo do n.º 3 do referido artigo serão comunicados periodicamente à Comissão.
 
 2 - As informações referidas no n.º 1 apenas serão fornecidas relativamente a operações de aperfeiçoamento cuja importância, no plano económico, possa justificar um exame a nível comunitário.
 
 3 - O Ministro das Finanças e do Plano comunicará à Comissão os pedidos que tiver rejeitado e que possam dizer respeito a operações de aperfeiçoamento importantes no plano económico.
 
-###### Art. 8.º O Ministro das Finanças e do Plano comunicará à Comissão as disposições de alcance geral referidas no n.º 2 do artigo 4.º, assim como as modificações eventuais dessas disposições.
+Art. 8.º O Ministro das Finanças e do Plano comunicará à Comissão as disposições de alcance geral referidas no n.º 2 do artigo 4.º, assim como as modificações eventuais dessas disposições.
 
-###### Art. 9.º A autorização fixará as condições em que se deve realizar a operação de aperfeiçoamento e, especialmente:
+Art. 9.º A autorização fixará as condições em que se deve realizar a operação de aperfeiçoamento e, especialmente:
 
 a) A modalidade de garantia exigida na acepção do artigo 3.º e, se for caso disso, o seu montante;
 
@@ -159,23 +167,23 @@ b) O prazo dentro do qual as mercadorias importadas devem ter recebido um dos de
 
 c) A taxa de rendimento ou, se for caso disso, o modo de fixação dessa taxa.
 
-###### Art. 10.º O titular da autorização é obrigado a sujeitar-se a todas as medidas de fiscalização ou de controle prescritas pelas autoridades aduaneiras.
+Art. 10.º O titular da autorização é obrigado a sujeitar-se a todas as medidas de fiscalização ou de controle prescritas pelas autoridades aduaneiras.
 
-###### Art. 11.º - 1 - O Ministro das Finanças e do Plano fixa a taxa de rendimento da operação de aperfeiçoamento baseando-se nas condições reais em que se efectua esta operação.
+Art. 11.º - 1 - O Ministro das Finanças e do Plano fixa a taxa de rendimento da operação de aperfeiçoamento baseando-se nas condições reais em que se efectua esta operação.
 
 2 - A taxa a que se refere o n.º 1 será fixada especificando a espécie, a quantidade e a qualidade dos diversos produtos compensadores.
 
-###### Art. 12.º Quando as circunstâncias o justificarem e, especialmente, quando se tratar de operações de aperfeiçoamento efectuadas tradicionalmente em condições técnicas bem definidas que incidam sobre mercadorias de características sensivelmente constantes e levem à obtenção de produtos compensadores de qualidade constante podem ser estabelecidas, com base em dados reais previamente verificados, taxas forfaitaires de rendimento a aplicar ao conjunto de empresas que se dedicam a um tipo determinado de operações de aperfeiçoamento.
+Art. 12.º Quando as circunstâncias o justificarem e, especialmente, quando se tratar de operações de aperfeiçoamento efectuadas tradicionalmente em condições técnicas bem definidas que incidam sobre mercadorias de características sensivelmente constantes e levem à obtenção de produtos compensadores de qualidade constante podem ser estabelecidas, com base em dados reais previamente verificados, taxas forfaitaires de rendimento a aplicar ao conjunto de empresas que se dedicam a um tipo determinado de operações de aperfeiçoamento.
 
-###### Art. 13.º O regime de aperfeiçoamento activo considera-se terminado quando, nas condições previstas na autorização, os produtos compensadores forem quer exportados, quer colocados em entreposto aduaneiro, quer em zona franca, quer sob o regime de trânsito comunitário (procedimento externo), tendo em vista a sua ulterior exportação.
+Art. 13.º O regime de aperfeiçoamento activo considera-se terminado quando, nas condições previstas na autorização, os produtos compensadores forem quer exportados, quer colocados em entreposto aduaneiro, quer em zona franca, quer sob o regime de trânsito comunitário (procedimento externo), tendo em vista a sua ulterior exportação.
 
-###### Art. 14.º O Ministro das Finanças e do Plano pode permitir:
+Art. 14.º O Ministro das Finanças e do Plano pode permitir:
 
 a) Que os produtos compensadores colocados em entreposto aduaneiro ou em zona franca ou submetidos ao regime de trânsito comunitário (procedimento externo) dêem entrada no consumo nas condições previstas no artigo 16.º, se as circunstâncias o justificarem e os direitos, encargos de efeito equivalente e direitos niveladores agrícolas devidos tiverem sido determinados aquando da introdução em entreposto aduaneiro ou em zona franca ou aquando da sua colocação sob o regime de trânsito comunitário (procedimento externo);
 
 b) Que os produtos compensadores colocados em entreposto aduaneiro ou em zona franca ou submetidos ao regime de trânsito comunitário (procedimento externo) dêem excepcionalmente entrada no consumo mediante o pagamento dos direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas aplicáveis à data da entrada no consumo, se o seu montante for, pelo menos, igual ao que teria sido cobrado em caso da aplicação do artigo 16.º
 
-###### Art. 15.º Quando as circunstâncias o justifiquem e, especialmente, quando se trate de empresas que tenham correntes contínuas de produção destinadas simultaneamente ao mercado da Comunidade e aos mercados externos, o Ministro das Finanças e do Plano pode permitir:
+Art. 15.º Quando as circunstâncias o justifiquem e, especialmente, quando se trate de empresas que tenham correntes contínuas de produção destinadas simultaneamente ao mercado da Comunidade e aos mercados externos, o Ministro das Finanças e do Plano pode permitir:
 
 a) Que produtos compensadores entrem no consumo ou sejam inutilizados;
 
@@ -189,9 +197,9 @@ iii) Entrem em consumo nas condições previstas no artigo 14.º,
 
 sem distinguir se se trata de mercadorias que se encontram ainda no estado em que foram importadas, a seguir denominadas «mercadorias no seu estado inalterado» ou que se encontram sob a forma de produtos resultantes de um tratamento incompleto relativamente ao previsto na autorização, a seguir denominados «produtos intermédios».
 
-###### Art. 16.º No caso de entrada no consumo autorizada nas condições previstas na alínea a) ou na subalínea i) da alínea b) do artigo 15.º, os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas a cobrar sobre os produtos compensadores, sobre os produtos intermédios ou sobre as mercadorias no seu estado inalterado serão os respeitantes às mercadorias importadas, consoante a taxa ou o montante aplicável na data da aceitação pelas autoridades aduaneiras do documento aduaneiro que lhe diga respeito e tomando por base o valor aduaneiro e outros elementos de tributação reconhecidos ou admitidos nessa data, sem prejuízo dos juros de mora eventualmente exigíveis.
+Art. 16.º No caso de entrada no consumo autorizada nas condições previstas na alínea a) ou na subalínea i) da alínea b) do artigo 15.º, os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas a cobrar sobre os produtos compensadores, sobre os produtos intermédios ou sobre as mercadorias no seu estado inalterado serão os respeitantes às mercadorias importadas, consoante a taxa ou o montante aplicável na data da aceitação pelas autoridades aduaneiras do documento aduaneiro que lhe diga respeito e tomando por base o valor aduaneiro e outros elementos de tributação reconhecidos ou admitidos nessa data, sem prejuízo dos juros de mora eventualmente exigíveis.
 
-###### Art. 17.º Quando a entrada no consumo autorizada disser respeito a uma parte quer dos produtos compensadores, quer dos produtos intermédios, os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas exigíveis nas condições do artigo 16.º serão calculados:
+Art. 17.º Quando a entrada no consumo autorizada disser respeito a uma parte quer dos produtos compensadores, quer dos produtos intermédios, os direitos aduaneiros, os encargos de efeito equivalente e os direitos niveladores agrícolas exigíveis nas condições do artigo 16.º serão calculados:
 
 a) No caso de uma única espécie de produtos resultar das operações de aperfeiçoamento, em função da quantidade dos produtos que entrem no consumo relativamente à quantidade total dos produtos obtidos;
 
@@ -201,7 +209,7 @@ i) Se for possível determinar a quantidade das mercadorias referidas no n.º 1 
 
 ii) Caso contrário, em função do valor de cada um dos diversos produtos que entram no consumo relativamente ao valor total, determinado na mesma data, de todos os produtos obtidos.
 
-###### Art. 18.º - 1 - Quando os produtos compensadores ou intermédios mencionados na col. 2.ª da lista que figura em anexo e resultantes das operações referidas na col. 3.ª são postos em livre prática nas condições previstas nos artigos 14.º e 15.º, a sua tributação far-se-á mediante a aplicação dos direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas que lhe são próprios na data da sua entrada em livre prática.
+Art. 18.º - 1 - Quando os produtos compensadores ou intermédios mencionados na col. 2.ª da lista que figura em anexo e resultantes das operações referidas na col. 3.ª são postos em livre prática nas condições previstas nos artigos 14.º e 15.º, a sua tributação far-se-á mediante a aplicação dos direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas que lhe são próprios na data da sua entrada em livre prática.
 
 2 - O titular da autorização de aperfeiçoamento poderá, no entanto, solicitar a tributação desses produtos nas condições enunciadas nos artigos 16.º e 17.º
 
@@ -213,7 +221,7 @@ ii) Caso contrário, em função do valor de cada um dos diversos produtos que e
 
 6 - Quando resultar da aplicação dos n.os 1 e 3 que produtos compensadores ou produtos intermédios são postos em livre prática com isenção de direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas, o seu valor será considerado nulo pela aplicação da subalínea ii) da alínea b) do artigo 17.º
 
-###### Art. 19.º - 1 - As inutilizações autorizadas em conformidade com as disposições do artigo 15.º devem realizar-se sob controle aduaneiro.
+Art. 19.º - 1 - As inutilizações autorizadas em conformidade com as disposições do artigo 15.º devem realizar-se sob controle aduaneiro.
 
 2 - Quando a inutilização se destinar a retirar todo o valor aos produtos compensadores, aos produtos intermédios ou às mercadorias no seu estado inalterado, não se deve proceder a qualquer cobrança de direitos aduaneiros, encargos de efeito equivalente e de direitos niveladores agrícolas.
 
@@ -221,17 +229,17 @@ ii) Caso contrário, em função do valor de cada um dos diversos produtos que e
 
 4 - Serão equiparadas a inutilizações autorizadas as devidas a casos fortuitos ou de força maior reconhecidos pelas autoridades aduaneiras.
 
-###### Art. 20.º - 1 - Quando, no momento do controle, o titular da autorização não puder apresentar às autoridades aduaneiras as mercadorias que deveriam encontrar-se ainda ao abrigo do regime do aperfeiçoamento activo como mercadorias no seu estado inalterado, como produtos intermédios ou como produtos compensadores, serão cobrados os direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas respeitantes às mercadorias em falta, sem prejuízo dos juros de mora eventualmente exigíveis.
+Art. 20.º - 1 - Quando, no momento do controle, o titular da autorização não puder apresentar às autoridades aduaneiras as mercadorias que deveriam encontrar-se ainda ao abrigo do regime do aperfeiçoamento activo como mercadorias no seu estado inalterado, como produtos intermédios ou como produtos compensadores, serão cobrados os direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas respeitantes às mercadorias em falta, sem prejuízo dos juros de mora eventualmente exigíveis.
 
 2 - O n.º 1 também se aplicará, não obstante a apresentação das mercadorias, quando o prazo referido no artigo 9.º tiver expirado e a reexportação não for exigida.
 
-###### Art. 21.º O Ministro das Finanças e do Plano pode permitir a cessão a um terceiro de produtos compensadores, de produtos intermédios ou de mercadorias no seu estado inalterado, desde que esse terceiro assuma as obrigações do titular da autorização.
+Art. 21.º O Ministro das Finanças e do Plano pode permitir a cessão a um terceiro de produtos compensadores, de produtos intermédios ou de mercadorias no seu estado inalterado, desde que esse terceiro assuma as obrigações do titular da autorização.
 
-###### Art. 22.º - 1 - O director-geral das Alfândegas pode permitir, dentro dos limites e condições fixados pelas disposições relativas ao aperfeiçoamento passivo, que a totalidade ou parte dos produtos compensadores, dos produtos intermédios ou das mercadorias no seu estado inalterado sejam objecto de uma exportação temporária, tendo em vista operações de aperfeiçoamento complementares a efectuar num terceiro país.
+Art. 22.º - 1 - O director-geral das Alfândegas pode permitir, dentro dos limites e condições fixados pelas disposições relativas ao aperfeiçoamento passivo, que a totalidade ou parte dos produtos compensadores, dos produtos intermédios ou das mercadorias no seu estado inalterado sejam objecto de uma exportação temporária, tendo em vista operações de aperfeiçoamento complementares a efectuar num terceiro país.
 
 2 - Aquando da sua reimportação, os produtos resultantes das operações de aperfeiçoamento complementares referidas no n.º 1 serão, se for caso disso, colocados de novo sob o regime de aperfeiçoamento activo.
 
-###### Art. 23.º - 1 - Quando for autorizada, nos termos do artigo 15.º, a entrada no consumo da totalidade ou parte dos produtos reimportados na sequência da sua exportação temporária dará lugar à cobrança:
+Art. 23.º - 1 - Quando for autorizada, nos termos do artigo 15.º, a entrada no consumo da totalidade ou parte dos produtos reimportados na sequência da sua exportação temporária dará lugar à cobrança:
 
 a) Por um lado, dos direitos aduaneiros, encargos de efeito equivalente e direitos niveladores agrícolas referentes aos produtos compensadores, aos produtos intermédios ou às mercadorias no seu estado inalterado referidos no n.º 1 do artigo 22.º, calculados nos termos do disposto nos artigos 16.º, 17.º e 18.º;
 
@@ -239,34 +247,34 @@ b) Por outro lado, dos direitos aduaneiros, encargos de efeito equivalente e dir
 
 2 - A entrada no consumo poderá ser igualmente autorizada nas mesmas condições para os produtos que, após reimportação na sequência da sua exportação temporária, sejam de novo colocados ao abrigo do regime de aperfeiçoamento activo.
 
-###### Art. 24.º Quando as circunstâncias o justifiquem, o Ministro das Finanças e do Plano pode considerar como produtos compensadores, em derrogação do n.º 3 do artigo 2.º, produtos provenientes do tratamento de mercadorias de natureza, qualidade e características técnicas idênticas às das mercadorias importadas.
+Art. 24.º Quando as circunstâncias o justifiquem, o Ministro das Finanças e do Plano pode considerar como produtos compensadores, em derrogação do n.º 3 do artigo 2.º, produtos provenientes do tratamento de mercadorias de natureza, qualidade e características técnicas idênticas às das mercadorias importadas.
 
-###### Art. 25.º - 1 - Nos casos previstos no artigo 24.º quando as circunstâncias o justifiquem, os produtos considerados como produtos compensadores podem, nas condições fixadas pelo Ministro das Finanças e do Plano, ser exportados antes da importação das mercadorias que beneficiam do regime de aperfeiçoamento activo.
+Art. 25.º - 1 - Nos casos previstos no artigo 24.º quando as circunstâncias o justifiquem, os produtos considerados como produtos compensadores podem, nas condições fixadas pelo Ministro das Finanças e do Plano, ser exportados antes da importação das mercadorias que beneficiam do regime de aperfeiçoamento activo.
 
 2 - A exportação antecipada referida no n.º 1 é equiparada à exportação prevista no n.º 1 do artigo 2.º
 
-###### Art. 26.º As disposições necessárias para aplicação do presente diploma serão publicadas por portaria do Ministro das Finanças e do Plano.
+Art. 26.º As disposições necessárias para aplicação do presente diploma serão publicadas por portaria do Ministro das Finanças e do Plano.
 
-###### Art. 27.º O artigo 443.º-A do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passa a ter a seguinte redacção:
+Art. 27.º O artigo 443.º-A do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passa a ter a seguinte redacção:
 
-###### Art. 443.º-A O pagamento dos direitos poderá ser substituído por depósito ou fiança, a liquidar ou a cancelar quando forem realizadas as correspondentes exportações.
+Art. 443.º-A O pagamento dos direitos poderá ser substituído por depósito ou fiança, a liquidar ou a cancelar quando forem realizadas as correspondentes exportações.
 
 § único. Se, expirado o prazo legal, a exportação se não tiver efectuado ou tiver sido realizada parcialmente, deverão imediatamente ser liquidados os respectivos direitos de importação nos termos regulamentares.
 
-###### Art. 28.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1986.
+Art. 28.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 13 de Dezembro de 1985.**
+Promulgado em 13 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Dezembro de 1985.**
+Referendado em 16 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Lista dos produtos compensadores aos quais se aplica o artigo 18.º quando introduzidos em livre prática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/29801/00010008.pdf))](https://files.diariodarepublica.pt/1s/1985/12/29801/00010008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/29801/00010008.pdf)

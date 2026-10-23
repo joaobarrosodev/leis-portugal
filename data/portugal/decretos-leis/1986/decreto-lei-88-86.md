@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10500/10791079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1986-227466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5737a833851de473a74c68ed16df1c99722f5d742466a201eecb27ab050e638e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43c21b4f644cc21af2b1143eed6b12aae2dfcf2332c8a484e920090e647cb4fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contingentação
+- Importação de Veículos
+- Indústria Automóvel
 relationships:
 - type: amended_by
   target: pt:dre:406125:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:220498:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406125:por
+  label: "Revogado pelo DEC LEI.406/87.31.12.1987.MF, DR.IS [300-3ºSupl] de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-1987-406125
+  date: '1987-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:36Z'
   warnings: []
   errors: []
 ---
@@ -99,34 +111,34 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 5.º, 12.º, 13.º e 15.º do [Decreto-Lei n.º 405/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1984-220498), de 31 de Dezembro, passam a ter a redacção seguinte:
+Artigo único. Os artigos 5.º, 12.º, 13.º e 15.º do [Decreto-Lei n.º 405/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1984-220498), de 31 de Dezembro, passam a ter a redacção seguinte:
 
-###### Art. 5.º - 1 - Para além dos contingentes atribuídos nos termos do artigo 4.º, serão autorizadas, a requerimento da entidade interessada, importações adicionais em valor que não exceda o valor nacional acrescentado nas mercadorias exportadas a que se refere o artigo 11.º
+Art. 5.º - 1 - Para além dos contingentes atribuídos nos termos do artigo 4.º, serão autorizadas, a requerimento da entidade interessada, importações adicionais em valor que não exceda o valor nacional acrescentado nas mercadorias exportadas a que se refere o artigo 11.º
 
 2 - Não serão permitidas importações adicionais nos termos do número anterior como contrapartido de exportações de veículos automóveis, no estado CKD ou CBU, de marca diversa daquela a importar, salvo no caso de terem o mesmo representante.
 
-###### Art. 12.º - 1 - Os componentes importados e que se destinem a ser incorporados nos veículos automóveis produzidos em instalações de montagem que funcionem em regime de depósito franco entrarão nelas nesse regime.
+Art. 12.º - 1 - Os componentes importados e que se destinem a ser incorporados nos veículos automóveis produzidos em instalações de montagem que funcionem em regime de depósito franco entrarão nelas nesse regime.
 
 2 - ...
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - ...
 
 3 - Compete à Direcção-Geral da Indústria a aplicação das coimas previstas neste artigo e à Direcção-Geral das Alfândegas a sua execução.
 
-###### Art. 15.º - 1 - Os contingentes referidos nas alíneas a) e b) do artigo 2.º, no artigo 3.º e no artigo 4.º, bem como as respectivas condições de utilização, serão fixados por portaria dos Ministros das Finanças e da Indústria e Comércio, a qual será publicada no ano imediatamente anterior para o qual os contingentes são fixados.
+Art. 15.º - 1 - Os contingentes referidos nas alíneas a) e b) do artigo 2.º, no artigo 3.º e no artigo 4.º, bem como as respectivas condições de utilização, serão fixados por portaria dos Ministros das Finanças e da Indústria e Comércio, a qual será publicada no ano imediatamente anterior para o qual os contingentes são fixados.
 
 2 - Portaria idêntica à prevista no número anterior fixará os mecanismos processuais necessários à execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 14 de Abril de 1986.**
+Promulgado em 14 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1986.**
+Referendado em 21 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 29/1984, 1º Suplemento, Série I de 1984-02-03
   number: '29'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 372-(16) a 372-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/02901/00160020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7316f226b2f62299010560f5032528fc997de79923b6e83379ea63630df3a4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0a82dcd58358a02c7072ad53cf28d06b16a5d3b17d213b2ef7af313817672ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Funcionário Público
+- Gestão de Recursos Humanos
+- Mobilidade de Pessoal
+- Quadro de Efectivos Interdepartamentais
+- Quadro de Excedentes
 relationships:
 - type: amended_by
   target: pt:dre:616666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:590339:por
+  label: "Complementado o regime estabelecido nos n.ºs. 4 e 5 do art. 12.º, pela LEI.101/89.1989.12.29.AR DR.IS [298]2ºSUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/101-1989-590339
+  date: '1989-12-29'
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455903:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483441:por
+  label: Rectificado pela DECL.DD5398.17.04.1984.PCM, DR.IS [100-3ºSupl] de 30.04.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-483441
+  date: '1984-04-17'
+- type: repealed_by
+  target: pt:dre:216106:por
+  label: "Revogado pelo DEC LEI.247/92.1992.11.07.MF, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1992-216106
+  date: '1992-11-07'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:23Z'
   warnings: []
   errors: []
 ---
@@ -319,10 +357,10 @@ O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Maria Manuela Aguiar Dias Moreira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Augusto Seabra - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - Manuel José Dias Soares Costa - José Veiga Simão - Joaquim Ferreira do Amaral - António Antero Coimbra Martins - João Rosado Correia - António d'Orey Capucho - Carlos Montez Melancia.
 
-**Promulgado em 13 de Janeiro de 1984.**
+Promulgado em 13 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Janeiro de 1984. - O Primeiro-Ministro, Mário Soares.**
+Referendado em 16 de Janeiro de 1984. - O Primeiro-Ministro, Mário Soares.

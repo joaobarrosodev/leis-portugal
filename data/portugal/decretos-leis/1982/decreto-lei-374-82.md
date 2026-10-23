@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1982-375652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d0815cb47874cafaa80a2a18cf77fc66f708b903837dbb8071a944e384f32a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56c528fe507d2b5725f0f524374e6235ce3e86b91238654ced4e2bade01f2c58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exposição Europeia de ARTE Ciência e Cultura XVII
+relationships:
+- type: cites
+  target: pt:dre:382233:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:50Z'
   warnings: []
   errors: []
 ---
@@ -94,23 +99,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O comissariado para a XVII Exposição Europeia de Arte, Ciência e Cultura tem o direito exclusivo ao uso da denominação e do emblema da Exposição.
+Artigo 1.º O comissariado para a XVII Exposição Europeia de Arte, Ciência e Cultura tem o direito exclusivo ao uso da denominação e do emblema da Exposição.
 
-###### Art. 2.º Para os efeitos do disposto neste diploma entende-se por:
+Art. 2.º Para os efeitos do disposto neste diploma entende-se por:
 
 a) Denominação. - A expressão «XVII Exposição Europeia de Arte, Ciência e Cultura - Os Descobrimentos Portugueses e a Europa do Renascimento»;
 
 b) Emblema. - Um astrolábio náutico plano constituído por um aro ou rodela e uma alidade, com as suas 2 pínulas e um anel de suspensão, na extremidade vertical - estilização de astrolábio português da primeira metade do século XVI, que se reproduz no desenho publicado em anexo.
 
-###### Art. 3.º - 1 - É proibido o uso, a reprodução ou a imitação, no todo, em parte ou com acréscimo, para quaisquer fins, da denominação e do emblema referidos no artigo anterior.
+Art. 3.º - 1 - É proibido o uso, a reprodução ou a imitação, no todo, em parte ou com acréscimo, para quaisquer fins, da denominação e do emblema referidos no artigo anterior.
 
 2 - A proibição abrange as expressões e emblemas que, de algum modo, possam facilmente suscitar erro ou confusão com aqueles que o presente diploma pretende defender.
 
 3 - A referência a emblema abrange também qualquer expressão figurativa que produza os efeitos referidos no número anterior.
 
-###### Art. 4.º O comissariado para a XVII Exposição Europeia de Arte, Ciência e Cultura poderá autorizar o uso por outras entidades da denominação e do emblema da Exposição, devendo essas autorizações delimitar com rigor os respectivos termos, âmbito e duração.
+Art. 4.º O comissariado para a XVII Exposição Europeia de Arte, Ciência e Cultura poderá autorizar o uso por outras entidades da denominação e do emblema da Exposição, devendo essas autorizações delimitar com rigor os respectivos termos, âmbito e duração.
 
-###### Art. 5.º - 1 - Constitui contra-ordenação, nos termos do [Decreto-Lei n.º 232/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233), de 24 de Julho, a infracção ao disposto no artigo 3.º do presente diploma legal.
+Art. 5.º - 1 - Constitui contra-ordenação, nos termos do [Decreto-Lei n.º 232/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233), de 24 de Julho, a infracção ao disposto no artigo 3.º do presente diploma legal.
 
 2 - A infracção referida no número anterior é punida com uma coima do montante de 10000$00 a 500000$00.
 
@@ -120,10 +125,10 @@ b) Emblema. - Um astrolábio náutico plano constituído por um aro ou rodela e 
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 3 de Agosto de 1982.**
+Promulgado em 3 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21100/27412741.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21100/27412741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21100/27412741.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/07100/07890790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1985-324960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68fc703e768f44d21483b32d7e896365304aee2dd5bd1ed684adfdc35bbf16c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95c61ea9ee7063a40729531b8a6ec38648ec442b6cb780bec7688ae06c36b0d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extinção de Serviços
+- Ministério do Ultramar
+- OBRA Social
+- Presidência do Conselho de Ministros
+- Serviços Sociais
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:08Z'
   warnings: []
   errors: []
 ---
@@ -105,42 +132,42 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta a Obra Social do ex-Ministério do Ultramar (OSMU), criada pelo [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966, e regulamentada pela [Portaria n.º 23068](https://diariodarepublica.pt/dr/detalhe/portaria/23068-1967-401717), de 19 de Dezembro de 1967, com as alterações introduzidas pela [Portaria n.º 112/72](https://diariodarepublica.pt/dr/detalhe/portaria/112-1972-399027), de 24 de Fevereiro, sendo transferidas para os Serviços Sociais da Presidência do Conselho de Ministros as suas atribuições e competências.
+Artigo 1.º É extinta a Obra Social do ex-Ministério do Ultramar (OSMU), criada pelo [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966, e regulamentada pela [Portaria n.º 23068](https://diariodarepublica.pt/dr/detalhe/portaria/23068-1967-401717), de 19 de Dezembro de 1967, com as alterações introduzidas pela [Portaria n.º 112/72](https://diariodarepublica.pt/dr/detalhe/portaria/112-1972-399027), de 24 de Fevereiro, sendo transferidas para os Serviços Sociais da Presidência do Conselho de Ministros as suas atribuições e competências.
 
-###### Art. 2.º É transferida para os Serviços Sociais da Presidência do Conselho de Ministros a titularidade de todos os bens imóveis e móveis, incluindo as contas de depósito abertas em instituições bancárias em nome da Obra Social do ex-Ministério do Ultramar ou de qualquer das suas comissões executivas, e as acções e obrigações que as mesmas entidades tenham depositadas naquelas instituições, servindo o presente diploma de título bastante para se proceder às operações de registo necessárias.
+Art. 2.º É transferida para os Serviços Sociais da Presidência do Conselho de Ministros a titularidade de todos os bens imóveis e móveis, incluindo as contas de depósito abertas em instituições bancárias em nome da Obra Social do ex-Ministério do Ultramar ou de qualquer das suas comissões executivas, e as acções e obrigações que as mesmas entidades tenham depositadas naquelas instituições, servindo o presente diploma de título bastante para se proceder às operações de registo necessárias.
 
-###### Art. 3.º Com dispensa de quaisquer formalidades transitam para os Serviços Sociais da Presidência do Conselho de Ministros todos os direitos e obrigações, contratuais ou não, de que é titular a Obra Social do ex-Ministério do Ultramar, incluindo as emergentes de contratos de arrendamento.
+Art. 3.º Com dispensa de quaisquer formalidades transitam para os Serviços Sociais da Presidência do Conselho de Ministros todos os direitos e obrigações, contratuais ou não, de que é titular a Obra Social do ex-Ministério do Ultramar, incluindo as emergentes de contratos de arrendamento.
 
-###### Art. 4.º A transferência do activo e do passivo prevista nos artigos anteriores será feita através de inventário reportado ao final do mês anterior à data da entrada em vigor do presente diploma, a aprovar por despacho conjunto dos Secretários de Estado da Presidência do Conselho de Ministros e da Administração Pública.
+Art. 4.º A transferência do activo e do passivo prevista nos artigos anteriores será feita através de inventário reportado ao final do mês anterior à data da entrada em vigor do presente diploma, a aprovar por despacho conjunto dos Secretários de Estado da Presidência do Conselho de Ministros e da Administração Pública.
 
-###### Art. 5.º Até serem efectuadas as necessárias alterações orçamentais, os encargos de execução do presente diploma serão satisfeitos por conta das dotações inscritas no orçamento da Obra Social do ex-Ministério do Ultramar, cabendo o respectivo processamento aos Serviços Sociais da Presidência do Conselho de Ministros.
+Art. 5.º Até serem efectuadas as necessárias alterações orçamentais, os encargos de execução do presente diploma serão satisfeitos por conta das dotações inscritas no orçamento da Obra Social do ex-Ministério do Ultramar, cabendo o respectivo processamento aos Serviços Sociais da Presidência do Conselho de Ministros.
 
-###### Art. 6.º - 1 - O pessoal com mais de 3 anos de serviço que à data da entrada em vigor do presente diploma se encontra a prestar serviço na Obra Social do ex-Ministério do Ultramar é integrado no quadro de efectivos interdepartamentais da Secretaria de Estado da Administração Pública, mediante lista nominativa a aprovar por despacho conjunto do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública.
+Art. 6.º - 1 - O pessoal com mais de 3 anos de serviço que à data da entrada em vigor do presente diploma se encontra a prestar serviço na Obra Social do ex-Ministério do Ultramar é integrado no quadro de efectivos interdepartamentais da Secretaria de Estado da Administração Pública, mediante lista nominativa a aprovar por despacho conjunto do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública.
 
 2 - Os funcionários que se encontram na Obra Social do ex-Ministério do Ultramar em regime de destacamento ou requisição manterão a mesma situação.
 
 3 - Transitam para os Serviços Sociais da Presidência do Conselho de Ministros os direitos e obrigações emergentes de contratos de trabalho celebrados pela Obra Social do ex-Ministério do Ultramar.
 
-###### Art. 7.º Os beneficiários da Obra Social do ex-Ministério do Ultramar conservam todos os direitos e obrigações que nessa qualidade detinham e passam a ter direito aos benefícios prestados pelos Serviços Sociais da Presidência do Conselho de Ministros.
+Art. 7.º Os beneficiários da Obra Social do ex-Ministério do Ultramar conservam todos os direitos e obrigações que nessa qualidade detinham e passam a ter direito aos benefícios prestados pelos Serviços Sociais da Presidência do Conselho de Ministros.
 
-###### Art. 8.º O n.º 1 do artigo 2.º do [Decreto-Lei n.º 389/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1982-375836), de 17 de Setembro, passa a ter a seguinte redacção:
+Art. 8.º O n.º 1 do artigo 2.º do [Decreto-Lei n.º 389/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1982-375836), de 17 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - A direcção é composta por 1 presidente e 3 vogais, tendo o presidente voto de qualidade.
+Art. 2.º - 1 - A direcção é composta por 1 presidente e 3 vogais, tendo o presidente voto de qualidade.
 
-###### Art. 9.º O quadro de pessoal dos Serviços Sociais da Presidência do Conselho de Ministros deverá ser redimensionado tendo presente as novas atribuições e competências conferidas pelo presente diploma.
+Art. 9.º O quadro de pessoal dos Serviços Sociais da Presidência do Conselho de Ministros deverá ser redimensionado tendo presente as novas atribuições e competências conferidas pelo presente diploma.
 
-###### Art. 10.º São revogados o [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966, e as Portarias n.os 23068, de 19 de Dezembro de 1967, e 112/72, de 24 de Fevereiro.
+Art. 10.º São revogados o [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966, e as Portarias n.os 23068, de 19 de Dezembro de 1967, e 112/72, de 24 de Fevereiro.
 
-###### Art. 11.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 19 de Março de 1985.**
+Promulgado em 19 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Março de 1985.**
+Referendado em 20 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

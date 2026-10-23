@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1984-385797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6245ab637854e1fd5cb722c5cf9a72db06cc20b210e922368b6bbf8239e53d0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9c50fbfe45a38843fd8e470243f39ec2be38d782d492458ba806a8ed278392a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Alverca do Ribatejo
+- Porto
+- Reforma Aduaneira
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:546985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:327824:por
+  label: "Dada nova redacção ao art. único da tabela III anexa ao presente diploma, pelo DEC LEI.36/85.06.02.1985.MFP, DR.IS\
+    \ [31] de 06.02.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1985-327824
+  date: '1985-02-06'
+- type: amended_by
+  target: pt:dre:546985:por
+  label: "Alterado o nº 3 do art. 2º e a secção II do Regulamento Interno do Terminal Internacional Rodoviário de Alverca\
+    \ e Freixieiro pelo DEC LEI.291/89.1989.09.02.MF, DR.IS [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1989-546985
+  date: '1989-09-02'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473517:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:520020:por
+  label: Rectificado pela DECL.DD5434.28.08.1984.PCM, DR.IS [202]Supl de 31.08.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-520020
+  date: '1984-08-28'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ARTIGO UNICO DA TABELA III, E O NUMERO 3 DO ARTIGO 319, PELO DECRETO LEI 136/86, PUBLICADO NO DR.IS,\
+    \ 133, DE 860612.E \0.E \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-06-12'
+- type: repealed_by
+  target: pt:dre:228849:por
+  label: "Revogado o artigo único da tabela III e o n.º 3.º do artigo 319.º, pelo DEC LEI.136/86.12.06.1986.MF, DR.IS [133]\
+    \ de 12.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1986-228849
+  date: '1986-06-12'
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 46
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:41Z'
   warnings: []
   errors: []
 ---
@@ -105,19 +155,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criadas junto dos terminais TIR de Alverca e do Freixieiro, respectivamente, a Delegação Aduaneira de Alverca e a Delegação Aduaneira do Freixieiro.
+Artigo 1.º São criadas junto dos terminais TIR de Alverca e do Freixieiro, respectivamente, a Delegação Aduaneira de Alverca e a Delegação Aduaneira do Freixieiro.
 
-###### Art. 2.º - 1 - As Delegações Aduaneiras de Alverca e do Freixieiro serão consideradas urbanas, devendo ser incluídas no mapa I a que se refere o § 1.º do artigo 50.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, na parte respeitante às sedes das Alfândegas de Lisboa e do Porto, respectivamente.
+Art. 2.º - 1 - As Delegações Aduaneiras de Alverca e do Freixieiro serão consideradas urbanas, devendo ser incluídas no mapa I a que se refere o § 1.º do artigo 50.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, na parte respeitante às sedes das Alfândegas de Lisboa e do Porto, respectivamente.
 
 2 - Para além das atribuições constantes do artigo 57.º da Reforma Aduaneira, às delegações aduaneiras referidas no número anterior incumbe a realização de operações TIR, como estâncias aduaneiras de partida, de passagem e de destino.
 
 3 - Sem embargo do disposto no n.º 1 do presente artigo, as chefias das aludidas estâncias aduaneiras exercerão as competências fixadas no artigo 358.º da Reforma Aduaneira, inclusivamente as que são cometidas aos chefes das delegações extra-urbanas.
 
-###### Art. 3.º São aprovadas as tabelas I, II e III anexas ao presente diploma, as quais substituem as tabelas I e II anexas à citada Reforma Aduaneira.
+Art. 3.º São aprovadas as tabelas I, II e III anexas ao presente diploma, as quais substituem as tabelas I e II anexas à citada Reforma Aduaneira.
 
-###### Art. 4.º É aditado ao artigo 319.º da Reforma Aduaneira um n.º 3.º com a seguinte redacção:
+Art. 4.º É aditado ao artigo 319.º da Reforma Aduaneira um n.º 3.º com a seguinte redacção:
 
-###### Art. 319.º ...
+Art. 319.º ...
 
 1.º ...
 
@@ -125,29 +175,29 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3.º 25% do montante da taxa englobada, nos termos do artigo único da tabela III anexa a esta Reforma.
 
-###### Art. 5.º São aprovados os regulamentos internos dos terminais TIR de Alverca e do Freixieiro, os quais se publicam em anexo ao presente diploma.
+Art. 5.º São aprovados os regulamentos internos dos terminais TIR de Alverca e do Freixieiro, os quais se publicam em anexo ao presente diploma.
 
-###### Art. 6.º As tarifas devidas pela armazenagem e movimentação de mercadorias sob acção aduaneira e pelo estacionamento de veículos e contentores serão fixadas, precedendo requerimento devidamente fundamentado da concessionária, por despacho conjunto dos Ministros das Finanças e do Plano e do Equipamento Social.
+Art. 6.º As tarifas devidas pela armazenagem e movimentação de mercadorias sob acção aduaneira e pelo estacionamento de veículos e contentores serão fixadas, precedendo requerimento devidamente fundamentado da concessionária, por despacho conjunto dos Ministros das Finanças e do Plano e do Equipamento Social.
 
-###### Art. 7.º As datas de entrada em funcionamento dos terminais TIR de Alverca e do Freixieiro e da abertura das respectivas delegações aduaneiras serão fixadas por despacho do Ministro das Finanças e do Plano.
+Art. 7.º As datas de entrada em funcionamento dos terminais TIR de Alverca e do Freixieiro e da abertura das respectivas delegações aduaneiras serão fixadas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1984. - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - João Rosado Correia.
 
-**Promulgado em 3 de Julho de 1984.**
+Promulgado em 3 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Julho de 1984.**
+Referendado em 4 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 TABELA I
 
 Taxas do tráfego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf))](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf)
 
 Observações
 
@@ -217,7 +267,7 @@ TABELA II
 
 Emolumentos a cobrar nas alfândegas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf))](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf)
 
 Observações
 
@@ -307,11 +357,11 @@ REGULAMENTO INTERNO
 
 #### SECÇÃO I — (Objecto)
 
-###### Artigo 1.º São organizados e funcionarão nos termos deste Regulamento, tendo em conta o disposto no [Decreto-Lei n.º 324/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1979-378749), de 23 de Agosto, bem como no despacho conjunto dos Ministros das Finanças e do Plano e dos Transportes e Comunicações publicado no Diário da República, 2.ª série, n.º 220, de 23 de Setembro de 1980, os serviços do depósito TIR estabelecido por TERTIR - Terminais de Portugal, S. A. R. L., no Terminal Internacional Rodoviário de Alverca, por força do contrato administrativo de concessão e exploração celebrado com o Estado aos 6 de Julho de 1981, em conformidade com a alínea c) do n.º 1 e com o n.º 2 do artigo 5.º do [Decreto-Lei n.º 424/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1978-325133), de 22 de Dezembro, e da Resolução do Conselho de Ministros n.º 61-G/81, de 30 de Março.
+Artigo 1.º São organizados e funcionarão nos termos deste Regulamento, tendo em conta o disposto no [Decreto-Lei n.º 324/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1979-378749), de 23 de Agosto, bem como no despacho conjunto dos Ministros das Finanças e do Plano e dos Transportes e Comunicações publicado no Diário da República, 2.ª série, n.º 220, de 23 de Setembro de 1980, os serviços do depósito TIR estabelecido por TERTIR - Terminais de Portugal, S. A. R. L., no Terminal Internacional Rodoviário de Alverca, por força do contrato administrativo de concessão e exploração celebrado com o Estado aos 6 de Julho de 1981, em conformidade com a alínea c) do n.º 1 e com o n.º 2 do artigo 5.º do [Decreto-Lei n.º 424/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1978-325133), de 22 de Dezembro, e da Resolução do Conselho de Ministros n.º 61-G/81, de 30 de Março.
 
 #### SECÇÃO II — (Definições)
 
-###### Art. 2.º Para efeitos deste Regulamento, entende-se por:
+Art. 2.º Para efeitos deste Regulamento, entende-se por:
 
 1) Parque TIR - zona afecta ao estacionamento de veículos que transportam sob regime TIR ou sob qualquer outro regime por via rodoviária enquanto aguardam o respectivo desembaraço aduaneiro. Esta zona dispõe de uma portaria de entrada, sob fiscalização permanente da Guarda Fiscal, onde se procederá ao controle de chegada desses veículos, e de uma outra portaria, também sob fiscalização permanente da mesma corporação, a qual dá acesso directo do parque ao depósito TIR;
 
@@ -335,9 +385,9 @@ d) Instalações destinadas à armazenagem de mercadorias na situação de aband
 
 #### SECÇÃO III — (Exploração do depósito TIR)
 
-###### Art. 3.º A exploração do depósito TIR é da exclusiva responsabilidade da TERTIR, nos termos do respectivo contrato de concessão, referido no artigo 1.º
+Art. 3.º A exploração do depósito TIR é da exclusiva responsabilidade da TERTIR, nos termos do respectivo contrato de concessão, referido no artigo 1.º
 
-###### Art. 4.º São obrigações da TERTIR:
+Art. 4.º São obrigações da TERTIR:
 
 a) Respeitar e fazer respeitar na exploração do depósito TIR todas as leis, regulamentos e instruções aduaneiros;
 
@@ -349,7 +399,7 @@ c) Zelar pelo bom estado de conservação de todas as instalações e edifícios
 
 #### SECÇÃO I — (Controle de chegada dos veículos)
 
-###### Art. 5.º Passada a portaria do terminal, o veículo dirige-se directamente para o parque TIR, em cuja portaria de entrada se procede às seguintes formalidades:
+Art. 5.º Passada a portaria do terminal, o veículo dirige-se directamente para o parque TIR, em cuja portaria de entrada se procede às seguintes formalidades:
 
 1) Com base nos elementos constantes da caderneta TIR da guia de trânsito interior ou do documento aduaneiro equivalente, conforme os casos, o agente da Guarda Fiscal em serviço na portaria preencherá, na parte que lhe compete (identificação do condutor, número da caderneta TIR ou do documento aduaneiro apresentado, matrícula do veículo e estância aduaneira de procedência), a ficha em quintuplicado de modelo anexo ao presente Regulamento (anexo I);
 
@@ -361,7 +411,7 @@ c) Zelar pelo bom estado de conservação de todas as instalações e edifícios
 
 #### SECÇÃO II — (Saída do parque dos veículos TIR)
 
-###### Art. 6.º Apresentada junto da estância aduaneira a caderneta TIR, a guia de trânsito interior ou o documento aduaneiro equivalente para efeito da respectiva movimentação, esta atribuirá o número da contramarca fiscal, que deverá ser coincidente com o número de ordem de entrada no parque TIR, após o que se procederá da seguinte forma:
+Art. 6.º Apresentada junto da estância aduaneira a caderneta TIR, a guia de trânsito interior ou o documento aduaneiro equivalente para efeito da respectiva movimentação, esta atribuirá o número da contramarca fiscal, que deverá ser coincidente com o número de ordem de entrada no parque TIR, após o que se procederá da seguinte forma:
 
 1) Veículos com carregamento destinado a um único importador, relativamente aos quais tenha sido autorizado pelos serviços aduaneiros o seu seguimento em regime de descarga directa:
 
@@ -381,7 +431,7 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO III — (Controle dos veículos TIR com carga destinada a sair do País)
 
-###### Art. 7.º - 1 - Os veículos que transportem em regime TIR mercadorias destinadas a sair do País deverão ser presentes no Terminal de Alverca, para efeitos de selagem e processamento pela delegação aduaneira do fecho das correspondente cadernetas, salvo casos excepcionais devidamente autorizados pelo respectivo chefe da delegação.
+Art. 7.º - 1 - Os veículos que transportem em regime TIR mercadorias destinadas a sair do País deverão ser presentes no Terminal de Alverca, para efeitos de selagem e processamento pela delegação aduaneira do fecho das correspondente cadernetas, salvo casos excepcionais devidamente autorizados pelo respectivo chefe da delegação.
 
 2 - Com vista à realização das formalidades prescritas no número anterior, os veículos darão entrada no parque TIR mediante simples registo, a efectuar pelo agente da Guarda Fiscal em serviço na respectiva portaria de entrada, processando-se a sua saída pela mesma portaria, após serem executadas pelos serviços aduaneiros as ditas formalidades.
 
@@ -389,7 +439,7 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO I — (Conferência da descarga)
 
-###### Art. 8.º A conferência da descarga das mercadorias e respectiva entrada para os armazéns do depósito TIR far-se-á sob a superintendência da alfândega e com observância das formalidades seguintes:
+Art. 8.º A conferência da descarga das mercadorias e respectiva entrada para os armazéns do depósito TIR far-se-á sob a superintendência da alfândega e com observância das formalidades seguintes:
 
 1) Chegado o veículo ao local que lhe foi destinado, proceder-se-á à sua descarga, na presença do motorista e eventualmente do depositante, tomando como base para efeito de conferência o manifesto TIR (página amarela da caderneta TIR), a guia de trânsito interior ou o documento aduaneiro equivalente;
 
@@ -403,19 +453,19 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)
 
-###### Art. 9.º - 1 - Os títulos de propriedade das mercadorias armazenadas no depósito TIR obedecem ao modelo do anexo II ao presente Regulamento e serão emitidos pela TERTIR com base no manifesto e no relatório de descarga, devendo ser apresentados nos serviços aduaneiros para efeito de conferência dos respectivos bilhetes de despacho.
+Art. 9.º - 1 - Os títulos de propriedade das mercadorias armazenadas no depósito TIR obedecem ao modelo do anexo II ao presente Regulamento e serão emitidos pela TERTIR com base no manifesto e no relatório de descarga, devendo ser apresentados nos serviços aduaneiros para efeito de conferência dos respectivos bilhetes de despacho.
 
 2 - Os títulos de propriedade das mercadorias vindas por via rodoviária e contentores que não descarreguem para o depósito TIR continuarão a ser legalizados pelas alfândegas, em conformidade com o estabelecido no artigo 174.º do Regulamento das Alfândegas.
 
 #### SECÇÃO III — (Exames prévios e recolha de amostras)
 
-###### Art. 10.º - 1 - Nos termos da legislação aduaneira aplicável, poderá haver lugar a exames prévios e a recolha de amostras em locais apropriados para o efeito, dentro dos armazéns.
+Art. 10.º - 1 - Nos termos da legislação aduaneira aplicável, poderá haver lugar a exames prévios e a recolha de amostras em locais apropriados para o efeito, dentro dos armazéns.
 
 2 - Não serão autorizadas quaisquer modificações ou transformações da natureza, peso ou forma de acondicionamento das mercadorias depositadas, salvo nos casos em que tal se encontre expressamente previsto na legislação aduaneira.
 
 #### SECÇÃO IV — (Despacho das mercadorias)
 
-###### Art. 11.º O despacho das mercadorias far-se-á com observância das seguintes formalidades:
+Art. 11.º O despacho das mercadorias far-se-á com observância das seguintes formalidades:
 
 1) Por ordem dos funcionários aduaneiros encarregados da verificação, os serviços da TERTIR apresentarão os volumes submetidos a despacho, efectuando as necessárias aberturas e quaisquer outros actos impostos por essas formalidades;
 
@@ -425,7 +475,7 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO V — (Saída das mercadorias)
 
-###### Art. 12.º - 1 - Para efeito do levantamento das mercadorias já desembaraçadas da acção aduaneira, o importador apresentará aos serviços da TERTIR a «Guia de saída de volumes», procedendo de seguida à conferência e recebimento das mesmas.
+Art. 12.º - 1 - Para efeito do levantamento das mercadorias já desembaraçadas da acção aduaneira, o importador apresentará aos serviços da TERTIR a «Guia de saída de volumes», procedendo de seguida à conferência e recebimento das mesmas.
 
 2 - Aquando do levantamento das mercadorias, ser-lhe-á entregue a «Nota de entrega de volumes», mediante a apresentação da qual será autorizada a saída do depósito TIR, através da respectiva portaria, ficando a citada «Nota de entrega de volumes» em poder do agente da Guarda Fiscal ali em serviço, que posteriormente a remeterá à alfândega.
 
@@ -433,31 +483,31 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 ### CAPÍTULO IV — Da armazenagem
 
-###### Art. 13.º É expressamente proibida a recepção e armazenagem de mercadorias radioactivas, explosivas ou outras que, pela sua natureza, possam também provocar danos graves, mas se por falta ou insuficiência de declarações elas forem recebidas, serão imediatamente removidas, com prévia autorização da alfândega.
+Art. 13.º É expressamente proibida a recepção e armazenagem de mercadorias radioactivas, explosivas ou outras que, pela sua natureza, possam também provocar danos graves, mas se por falta ou insuficiência de declarações elas forem recebidas, serão imediatamente removidas, com prévia autorização da alfândega.
 
-###### Art. 14.º A TERTIR tem o direito de recusar a armazenagem de mercadorias nocivas, perigosas ou incómodas para as quais não possua condições de segurança e de armazenagem adequadas, mas se por falta ou insuficiência de declarações elas forem recebidas, serão, se for caso disso, e com prévia autorização da alfândega, imediatamente removidas.
+Art. 14.º A TERTIR tem o direito de recusar a armazenagem de mercadorias nocivas, perigosas ou incómodas para as quais não possua condições de segurança e de armazenagem adequadas, mas se por falta ou insuficiência de declarações elas forem recebidas, serão, se for caso disso, e com prévia autorização da alfândega, imediatamente removidas.
 
-###### Art. 15.º As mercadorias a remover nos termos dos dois artigos antecedentes serão depositadas em lugar reservado para o efeito na área do depósito TIR, devendo ser submetidas a despacho no prazo de 4 dias a contar da data da entrada, o qual pode, por motivos fundamentados e com audição prévia da TERTIR, ser prorrogado por igual período pelo chefe da delegação aduaneira, findo o qual serão consideradas na situação de demoradas e incorrerão em multa por transgressão fiscal.
+Art. 15.º As mercadorias a remover nos termos dos dois artigos antecedentes serão depositadas em lugar reservado para o efeito na área do depósito TIR, devendo ser submetidas a despacho no prazo de 4 dias a contar da data da entrada, o qual pode, por motivos fundamentados e com audição prévia da TERTIR, ser prorrogado por igual período pelo chefe da delegação aduaneira, findo o qual serão consideradas na situação de demoradas e incorrerão em multa por transgressão fiscal.
 
-###### Art. 16.º Decorrido o prazo legal de 4 meses de armazenagem, contado a partir da data da descarga, sem que o importador promova o desembaraço aduaneiro das mercadorias, serão estas consideradas demoradas, devendo ser enviada, diariamente, à alfândega pela TERTIR uma listagem da qual constem os elementos identificativos preconizados no artigo 648.º do Regulamento das Alfândegas.
+Art. 16.º Decorrido o prazo legal de 4 meses de armazenagem, contado a partir da data da descarga, sem que o importador promova o desembaraço aduaneiro das mercadorias, serão estas consideradas demoradas, devendo ser enviada, diariamente, à alfândega pela TERTIR uma listagem da qual constem os elementos identificativos preconizados no artigo 648.º do Regulamento das Alfândegas.
 
-###### Art. 17.º Sempre que se torne necessário proceder à inutilização de mercadorias por se verificarem os requisitos de que a lei aduaneira a faz depender, poderá a mesma ter lugar, com observância das formalidades nela estabelecidas.
+Art. 17.º Sempre que se torne necessário proceder à inutilização de mercadorias por se verificarem os requisitos de que a lei aduaneira a faz depender, poderá a mesma ter lugar, com observância das formalidades nela estabelecidas.
 
 ### CAPÍTULO V — Das mercadorias demoradas e das abandonadas
 
-###### Art. 18.º As mercadorias que passem à situação de demoradas continuarão no local em que se encontram dentro dos armazéns, devendo, porém, aquelas que passem à situação de abandonadas ser transferidas para as instalações destinadas a essa finalidade do depósito TIR.
+Art. 18.º As mercadorias que passem à situação de demoradas continuarão no local em que se encontram dentro dos armazéns, devendo, porém, aquelas que passem à situação de abandonadas ser transferidas para as instalações destinadas a essa finalidade do depósito TIR.
 
-###### Art. 19.º Sem embargo do disposto no artigo anterior, as mercadorias na situação de demoradas, quando despachadas, ficarão incursas no pagamento da taxa a que se refere o § 2.º do artigo 639.º do Regulamento das Alfândegas.
+Art. 19.º Sem embargo do disposto no artigo anterior, as mercadorias na situação de demoradas, quando despachadas, ficarão incursas no pagamento da taxa a que se refere o § 2.º do artigo 639.º do Regulamento das Alfândegas.
 
-###### Art. 20.º Quando as mercadorias na situação de demoradas ou abandonadas forem vendidas em hasta pública, assiste à TERTIR o direito de, após serem deduzidos do produto da venda os direitos e outras imposições, em conformidade com o estabelecido no artigo 675.º do Regulamento das Alfândegas, ser reembolsada, como credora privilegiada, de todas as taxas de tráfego, de armazenagem e de outras despesas devidas pela mercadoria.
+Art. 20.º Quando as mercadorias na situação de demoradas ou abandonadas forem vendidas em hasta pública, assiste à TERTIR o direito de, após serem deduzidos do produto da venda os direitos e outras imposições, em conformidade com o estabelecido no artigo 675.º do Regulamento das Alfândegas, ser reembolsada, como credora privilegiada, de todas as taxas de tráfego, de armazenagem e de outras despesas devidas pela mercadoria.
 
 ### CAPÍTULO VI — Da fiscalização e segurança
 
 #### SECÇÃO I — (Do acesso ao depósito TIR)
 
-###### Art. 21.º A área do depósito TIR será submetida a fiscalização permanente por parte da Guarda Fiscal no que respeita à entrada e à saída de pessoas, mercadorias e veículos, movimento este que só poderá efectuar-se pelas portarias autorizadas pela alfândega.
+Art. 21.º A área do depósito TIR será submetida a fiscalização permanente por parte da Guarda Fiscal no que respeita à entrada e à saída de pessoas, mercadorias e veículos, movimento este que só poderá efectuar-se pelas portarias autorizadas pela alfândega.
 
-###### Art. 22.º Apenas podem entrar no depósito TIR:
+Art. 22.º Apenas podem entrar no depósito TIR:
 
 1) As pessoas portadoras do cartão de identificação emitido pela TERTIR e visado pela alfândega, distribuído a pessoas em serviço regular no depósito;
 
@@ -471,7 +521,7 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO II — (Do acesso ao parque TIR)
 
-###### Art. 23.º - 1 - A área do parque TIR será submetida a fiscalização permanente por parte da Guarda Fiscal no que respeita à entrada e saída de veículos e pessoas.
+Art. 23.º - 1 - A área do parque TIR será submetida a fiscalização permanente por parte da Guarda Fiscal no que respeita à entrada e saída de veículos e pessoas.
 
 2 - Apenas têm acesso ao parque TIR:
 
@@ -485,11 +535,11 @@ d) Os funcionários aduaneiros e da Guarda Fiscal no exercício das suas funçõ
 
 #### SECÇÃO III — (Do controle de pessoas e veículos)
 
-###### Art. 24.º Todas as pessoas e veículos que tenham entrada nas áreas do parque e do depósito TIR ficarão sujeitos às buscas que se tornem necessárias, quer por iniciativa da alfândega ou da Guarda Fiscal, quer por solicitação a estas dirigidas pelos serviços da TERTIR.
+Art. 24.º Todas as pessoas e veículos que tenham entrada nas áreas do parque e do depósito TIR ficarão sujeitos às buscas que se tornem necessárias, quer por iniciativa da alfândega ou da Guarda Fiscal, quer por solicitação a estas dirigidas pelos serviços da TERTIR.
 
 ### CAPÍTULO VII — Da responsabilidade da TERTIR perante as autoridades aduaneiras
 
-###### Art. 25.º - 1 - A alfândega exercerá a sua acção fiscalizadora em todas as dependências do depósito TIR e do parque TIR, podendo, designadamente, proceder a varejos, ter acesso ao controle do sistema informático da TERTIR referente à carga, bem como pedir todos os esclarecimentos que julgue necessários.
+Art. 25.º - 1 - A alfândega exercerá a sua acção fiscalizadora em todas as dependências do depósito TIR e do parque TIR, podendo, designadamente, proceder a varejos, ter acesso ao controle do sistema informático da TERTIR referente à carga, bem como pedir todos os esclarecimentos que julgue necessários.
 
 2 - Sempre que nos armazéns do depósito TIR forem encontradas mercadorias em quantidade inferior àquela que deveria existir, ficará a TERTIR sujeita ao pagamento dos direitos e imposições aplicáveis, com base nos elementos contidos nos manifestos, se outros não forem determináveis, sem prejuízo do procedimento fiscal adequado.
 
@@ -499,7 +549,7 @@ d) Os funcionários aduaneiros e da Guarda Fiscal no exercício das suas funçõ
 
 ### CAPÍTULO VIII — Do horário de funcionamento
 
-###### Art. 26.º - 1 - O horário de funcionamento do depósito TIR deverá ser coincidente com o horário de expediente normal da delegação aduaneira.
+Art. 26.º - 1 - O horário de funcionamento do depósito TIR deverá ser coincidente com o horário de expediente normal da delegação aduaneira.
 
 2 - Independentemente do disposto no número anterior, o horário de funcionamento do depósito TIR poderá ser prolongado de segunda-feira a sexta-feira, até às 19 horas, para efeito das descargas que hajam sido autorizadas dentro do horário de expediente normal da delegação aduaneira.
 
@@ -507,7 +557,7 @@ d) Os funcionários aduaneiros e da Guarda Fiscal no exercício das suas funçõ
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 27.º São aplicáveis às relações entre a TERTIR e os utentes dos seus serviços:
+Art. 27.º São aplicáveis às relações entre a TERTIR e os utentes dos seus serviços:
 
 1) Este Regulamento;
 
@@ -515,11 +565,11 @@ d) Os funcionários aduaneiros e da Guarda Fiscal no exercício das suas funçõ
 
 3) As leis portuguesas.
 
-###### Art. 28.º As disposições do presente Regulamento prevalecem sobre quaisquer normas que estabeleçam em sentido contrário ao que nelas é preconizado.
+Art. 28.º As disposições do presente Regulamento prevalecem sobre quaisquer normas que estabeleçam em sentido contrário ao que nelas é preconizado.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf))](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf)
 
 Terminal Internacional Rodoviário do Freixieiro
 
@@ -529,11 +579,11 @@ REGULAMENTO INTERNO
 
 #### SECÇÃO I — (Objecto)
 
-###### Artigo 1.º São organizados e funcionarão nos termos deste Regulamento, tendo em conta o disposto no [Decreto-Lei n.º 324/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1979-378749), de 23 de Agosto, bem como no despacho conjunto dos Ministros das Finanças e do Plano e dos Transportes e Comunicações publicado no Diário da República, 2.ª série, n.º 220, de 23 de Setembro de 1980, os serviços do depósito TIR estabelecido por TERTIR - Terminais de Portugal, S, A. R. L., no Terminal Internacional Rodoviário do Freixieiro, por força do contrato administrativo de concessão e exploração celebrado com o Estado aos 6 de Julho de 1981, em conformidade com a alínea c) do n.º 1 e com o n.º 2 do artigo 5.º do [Decreto-Lei n.º 424/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1978-325133), de 22 de Dezembro, e da Resolução do Conselho de Ministros n.º 61-G/81, de 30 de Março.
+Artigo 1.º São organizados e funcionarão nos termos deste Regulamento, tendo em conta o disposto no [Decreto-Lei n.º 324/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1979-378749), de 23 de Agosto, bem como no despacho conjunto dos Ministros das Finanças e do Plano e dos Transportes e Comunicações publicado no Diário da República, 2.ª série, n.º 220, de 23 de Setembro de 1980, os serviços do depósito TIR estabelecido por TERTIR - Terminais de Portugal, S, A. R. L., no Terminal Internacional Rodoviário do Freixieiro, por força do contrato administrativo de concessão e exploração celebrado com o Estado aos 6 de Julho de 1981, em conformidade com a alínea c) do n.º 1 e com o n.º 2 do artigo 5.º do [Decreto-Lei n.º 424/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1978-325133), de 22 de Dezembro, e da Resolução do Conselho de Ministros n.º 61-G/81, de 30 de Março.
 
 #### SECÇÃO II — (Definições)
 
-###### Art. 2.º Para efeitos deste Regulamento, entende-se por:
+Art. 2.º Para efeitos deste Regulamento, entende-se por:
 
 1) Parque TIR - zona afecta ao estacionamento de veículos que transportam sob regime TIR ou sob qualquer outro regime por via rodoviária enquanto aguardam o respectivo desembaraço aduaneiro. Esta zona dispõe de uma portaria de entrada, sob fiscalização permanente da Guarda Fiscal, onde se procederá ao controle de chegada desses veículos;
 
@@ -557,9 +607,9 @@ d) Parque destinado ao estabelecimento de contentores;
 
 #### SECÇÃO III — (Exploração do depósito TIR)
 
-###### Art. 3.º A exploração do depósito TIR é da exclusiva responsabilidade da TERTIR, nos termos do respectivo contrato de concessão, referido no artigo 1.º
+Art. 3.º A exploração do depósito TIR é da exclusiva responsabilidade da TERTIR, nos termos do respectivo contrato de concessão, referido no artigo 1.º
 
-###### Art. 4.º São obrigações da TERTIR:
+Art. 4.º São obrigações da TERTIR:
 
 a) Respeitar e fazer respeitar na exploração do depósito TIR todas as leis, regulamentos e instruções aduaneiros;
 
@@ -571,7 +621,7 @@ c) Zelar pelo bom estado de conservação de todas as instalações e edifícios
 
 #### SECÇÃO I — (Controle de chegada dos veículos)
 
-###### Art. 5.º Passada a portaria do terminal, o veículo dirige-se directamente para o parque TIR, em cuja portaria de entrada se procede às seguintes formalidades:
+Art. 5.º Passada a portaria do terminal, o veículo dirige-se directamente para o parque TIR, em cuja portaria de entrada se procede às seguintes formalidades:
 
 1) Com base nos elementos constantes da caderneta TIR, da guia de trânsito interior ou do documento aduaneiro equivalente, conforme os casos, o agente da Guarda Fiscal em serviço na portaria preencherá, na parte que lhe compete (identificação do condutor, número da caderneta TIR ou do documento aduaneiro apresentado, matrícula do veículo e estância aduaneira de procedência), a ficha em quintuplicado de modelo anexo ao presente Regulamento (anexo I);
 
@@ -583,7 +633,7 @@ c) Zelar pelo bom estado de conservação de todas as instalações e edifícios
 
 #### SECÇÃO II — (Saída do parque dos veículos TIR)
 
-###### Art. 6.º Apresentada junto da estância aduaneira a caderneta TIR, a guia de trânsito interior ou o documento aduaneiro equivalente para efeito da respectiva movimentação, esta atribuirá o número da contramarca fiscal, que deverá ser coincidente com o número de ordem de entrada no parque TIR, após o que se procederá da seguinte forma:
+Art. 6.º Apresentada junto da estância aduaneira a caderneta TIR, a guia de trânsito interior ou o documento aduaneiro equivalente para efeito da respectiva movimentação, esta atribuirá o número da contramarca fiscal, que deverá ser coincidente com o número de ordem de entrada no parque TIR, após o que se procederá da seguinte forma:
 
 1) Veículos com carregamento destinado a um único importador, relativamente aos quais tenha sido autorizado pelos serviços aduaneiros o seu seguimento em regime de descarga directa:
 
@@ -601,7 +651,7 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO III — (Controle dos veículos TIR com carga destinada a sair do País)
 
-###### Art. 7.º - 1 - Os veículos que transportem em regime TIR mercadorias destinadas a sair do País deverão ser presentes no Terminal do Freixieiro, para efeitos de selagem e processamento pela delegação aduaneira do fecho das correspondentes cadernetas, salvo casos excepcionais devidamente autorizados pelo respectivo chefe da delegação.
+Art. 7.º - 1 - Os veículos que transportem em regime TIR mercadorias destinadas a sair do País deverão ser presentes no Terminal do Freixieiro, para efeitos de selagem e processamento pela delegação aduaneira do fecho das correspondentes cadernetas, salvo casos excepcionais devidamente autorizados pelo respectivo chefe da delegação.
 
 2 - Com vista à realização das formalidades prescritas no número anterior, os veículos darão entrada em local dotado das necessárias condições de segurança fiscal existente para o efeito dentro do terminal.
 
@@ -609,7 +659,7 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO I — (Conferência da descarga)
 
-###### Art. 8.º A conferência da descarga das mercadorias e a respectiva entrada para os armazéns do depósito TIR far-se-ão sob a superintendência da alfândega, com observância das formalidades seguintes:
+Art. 8.º A conferência da descarga das mercadorias e a respectiva entrada para os armazéns do depósito TIR far-se-ão sob a superintendência da alfândega, com observância das formalidades seguintes:
 
 1) Chegado o veículo ao local que lhe foi destinado, proceder-se-á à sua descarga, na presença do motorista e eventualmente do depositante, tomando como base para efeito de conferência o manifesto TIR (página amarela da caderneta TIR), a guia de trânsito interior ou o documento aduaneiro equivalente;
 
@@ -623,19 +673,19 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)
 
-###### Art. 9.º - 1 - Os títulos de propriedade das mercadorias armazenadas no depósito TIR obedecem ao modelo do anexo II ao presente Regulamento e serão emitidos pela TERTIR com base no manifesto e no relatório de descarga, devendo ser apresentados nos serviços aduaneiros para efeito de conferência dos respectivos bilhetes de despacho.
+Art. 9.º - 1 - Os títulos de propriedade das mercadorias armazenadas no depósito TIR obedecem ao modelo do anexo II ao presente Regulamento e serão emitidos pela TERTIR com base no manifesto e no relatório de descarga, devendo ser apresentados nos serviços aduaneiros para efeito de conferência dos respectivos bilhetes de despacho.
 
 2 - Os títulos de propriedade das mercadorias vindas por via rodoviária e contentores que não descarreguem para o depósito TIR continuarão a ser legalizados pelas alfândegas em conformidade com o estabelecido no artigo 174.º do Regulamento das Alfândegas.
 
 #### SECÇÃO III — (Exames prévios e recolha de amostras)
 
-###### Art. 10.º - 1 - Nos termos da legislação aduaneira aplicável, poderá haver lugar a exames prévios e a recolha de amostras em locais apropriados para o efeito, dentro dos armazéns.
+Art. 10.º - 1 - Nos termos da legislação aduaneira aplicável, poderá haver lugar a exames prévios e a recolha de amostras em locais apropriados para o efeito, dentro dos armazéns.
 
 2 - Não serão autorizadas quaisquer modificações ou transformações da natureza, peso ou forma de acondicionamento das mercadorias depositadas, salvo nos casos em que tal se encontre expressamente previsto na legislação aduaneira.
 
 #### SECÇÃO IV — (Despacho das mercadorias)
 
-###### Art. 11.º O despacho das mercadorias far-se-á com observância das seguintes formalidades:
+Art. 11.º O despacho das mercadorias far-se-á com observância das seguintes formalidades:
 
 1) Por ordem dos funcionários aduaneiros encarregados da verificação, os serviços da TERTIR apresentarão os volumes submetidos a despacho, efectuando as necessárias aberturas e quaisquer outros actos impostos por essas formalidades;
 
@@ -645,7 +695,7 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO V — (Saída das mercadorias)
 
-###### Art. 12.º - 1 - Para efeito do levantamento das mercadorias já desembaraçadas da acção aduaneira, o importador apresentará aos serviços da TERTIR a «Guia de saída de volumes», procedendo, de seguida, à conferência e recebimento das mesmas.
+Art. 12.º - 1 - Para efeito do levantamento das mercadorias já desembaraçadas da acção aduaneira, o importador apresentará aos serviços da TERTIR a «Guia de saída de volumes», procedendo, de seguida, à conferência e recebimento das mesmas.
 
 2 - Aquando do levantamento das mercadorias, ser-lhe-á entregue a «Nota de entrega de volumes», mediante a apresentação da qual será autorizada a saída do depósito TIR, através da respectiva portaria, ficando a citada «Nota de entrega de volumes» em poder do agente da Guarda Fiscal ali em serviço, que posteriormente a remeterá à alfândega.
 
@@ -653,31 +703,31 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 ### CAPÍTULO IV — Da armazenagem
 
-###### Art. 13.º É expressamente proibida a recepção e armazenagem de mercadorias radioactivas, explosivas ou outras que, pela sua natureza, possam também provocar danos graves, mas se por falta ou insuficiência de declarações elas forem recebidas, serão imediatamente removidas, com prévia autorização da alfândega.
+Art. 13.º É expressamente proibida a recepção e armazenagem de mercadorias radioactivas, explosivas ou outras que, pela sua natureza, possam também provocar danos graves, mas se por falta ou insuficiência de declarações elas forem recebidas, serão imediatamente removidas, com prévia autorização da alfândega.
 
-###### Art. 14.º A TERTIR tem o direito de recusar a armazenagem de mercadorias nocivas, perigosas ou incómodas para as quais não possua condições de segurança e de armazenagem adequadas, mas se por falta ou insuficiência de declarações elas forem recebidas, serão, se for caso disso, e com prévia autorização da alfândega, imediatamente removidas.
+Art. 14.º A TERTIR tem o direito de recusar a armazenagem de mercadorias nocivas, perigosas ou incómodas para as quais não possua condições de segurança e de armazenagem adequadas, mas se por falta ou insuficiência de declarações elas forem recebidas, serão, se for caso disso, e com prévia autorização da alfândega, imediatamente removidas.
 
-###### Art. 15.º As mercadorias a remover nos termos dos dois artigos antecedentes serão depositadas em lugar reservado para o efeito na área do depósito TIR, devendo ser submetidas a despacho no prazo de 4 dias a contar da data da entrada, a qual pode, por motivos fundamentados e com audição prévia da TERTIR, ser prorrogado por igual período pelo chefe da delegação aduaneira, findo o qual serão consideradas na situação de demoradas e incorrerão em multa por transgressão fiscal.
+Art. 15.º As mercadorias a remover nos termos dos dois artigos antecedentes serão depositadas em lugar reservado para o efeito na área do depósito TIR, devendo ser submetidas a despacho no prazo de 4 dias a contar da data da entrada, a qual pode, por motivos fundamentados e com audição prévia da TERTIR, ser prorrogado por igual período pelo chefe da delegação aduaneira, findo o qual serão consideradas na situação de demoradas e incorrerão em multa por transgressão fiscal.
 
-###### Art. 16.º Decorrido o prazo legal de 4 meses de armazenagem, contado a partir da data da descarga, sem que o importador promova o desembaraço aduaneiro das mercadorias, serão estas consideradas demoradas, devendo ser enviada, diariamente, à alfândega pela TERTIR uma listagem da qual constem os elementos identificativos preconizados no artigo 648.º do Regulamento das Alfândegas.
+Art. 16.º Decorrido o prazo legal de 4 meses de armazenagem, contado a partir da data da descarga, sem que o importador promova o desembaraço aduaneiro das mercadorias, serão estas consideradas demoradas, devendo ser enviada, diariamente, à alfândega pela TERTIR uma listagem da qual constem os elementos identificativos preconizados no artigo 648.º do Regulamento das Alfândegas.
 
-###### Art. 17.º Sempre que se torne necessário proceder à inutilização de mercadorias por se verificarem os requisitos de que a lei aduaneira a faz depender, poderá a mesma ter lugar, com observância das formalidades nela estabelecidas.
+Art. 17.º Sempre que se torne necessário proceder à inutilização de mercadorias por se verificarem os requisitos de que a lei aduaneira a faz depender, poderá a mesma ter lugar, com observância das formalidades nela estabelecidas.
 
 ### CAPÍTULO V — Das mercadorias demoradas e das abandonadas
 
-###### Art. 18.º As mercadorias que passem à situação de demoradas continuarão no local em que se encontram dentro dos armazéns, devendo, porém, aquelas que passem à situação de abandonadas ser transferidas para as instalações destinadas a essa finalidade do depósito TIR.
+Art. 18.º As mercadorias que passem à situação de demoradas continuarão no local em que se encontram dentro dos armazéns, devendo, porém, aquelas que passem à situação de abandonadas ser transferidas para as instalações destinadas a essa finalidade do depósito TIR.
 
-###### Art. 19.º Sem embargo do disposto no artigo anterior, as mercadorias na situação de demoradas, quando despachadas, ficarão incursas no pagamento da taxa a que se refere o § 2.º do artigo 639.º do Regulamento das Alfândegas.
+Art. 19.º Sem embargo do disposto no artigo anterior, as mercadorias na situação de demoradas, quando despachadas, ficarão incursas no pagamento da taxa a que se refere o § 2.º do artigo 639.º do Regulamento das Alfândegas.
 
-###### Art. 20.º Quando as mercadorias na situação de demoradas ou abandonadas forem vendidas em hasta pública, assiste à TERTIR o direito de, após serem deduzidos do produto da venda os direitos e outras imposições, em conformidade com o estabelecido no artigo 675.º do Regulamento das Alfândegas, ser reembolsada, como credora privilegiada, de todas as taxas de tráfego, de armazenagem e de outras despesas devidas pela mercadoria.
+Art. 20.º Quando as mercadorias na situação de demoradas ou abandonadas forem vendidas em hasta pública, assiste à TERTIR o direito de, após serem deduzidos do produto da venda os direitos e outras imposições, em conformidade com o estabelecido no artigo 675.º do Regulamento das Alfândegas, ser reembolsada, como credora privilegiada, de todas as taxas de tráfego, de armazenagem e de outras despesas devidas pela mercadoria.
 
 ### CAPÍTULO VI — Da fiscalização e segurança
 
 #### SECÇÃO I — (Do acesso ao depósito TIR)
 
-###### Art. 21.º A área do depósito TIR será submetida a fiscalização permanente por parte da Guarda Fiscal no que respeita à entrada e à saída de pessoas, mercadorias e veículos, movimento este que só poderá efectuar-se pelas portarias autorizadas pela alfândega.
+Art. 21.º A área do depósito TIR será submetida a fiscalização permanente por parte da Guarda Fiscal no que respeita à entrada e à saída de pessoas, mercadorias e veículos, movimento este que só poderá efectuar-se pelas portarias autorizadas pela alfândega.
 
-###### Art. 22.º Apenas podem entrar no depósito TIR:
+Art. 22.º Apenas podem entrar no depósito TIR:
 
 1) As pessoas portadoras do cartão de identificação emitido pela TERTIR e visado pela alfândega, distribuído a pessoas em serviço regular no depósito;
 
@@ -691,7 +741,7 @@ b) A quitação das cadernetas TIR dos veículos a que se refere este número se
 
 #### SECÇÃO II — (Do acesso ao parque TIR)
 
-###### Art. 23.º - 1 - A área do parque TIR será submetida a fiscalização permanente por parte da Guarda Fiscal no que respeita à entrada e saída de veículos e pessoas.
+Art. 23.º - 1 - A área do parque TIR será submetida a fiscalização permanente por parte da Guarda Fiscal no que respeita à entrada e saída de veículos e pessoas.
 
 2 - Apenas têm acesso ao parque TIR:
 
@@ -705,11 +755,11 @@ d) Os funcionários aduaneiros e da Guarda Fiscal no exercício da suas funçõe
 
 #### SECÇÃO III — (Do controle de pessoas e veículos)
 
-###### Art. 24.º Todas as pessoas e veículos que tenham entrada nas áreas do parque e depósito TIR ficarão sujeitos às buscas que se tornem necessárias, quer por iniciativa da alfândega ou da Guarda Fiscal, quer por solicitação a estas dirigidas pelos serviços da TERTIR.
+Art. 24.º Todas as pessoas e veículos que tenham entrada nas áreas do parque e depósito TIR ficarão sujeitos às buscas que se tornem necessárias, quer por iniciativa da alfândega ou da Guarda Fiscal, quer por solicitação a estas dirigidas pelos serviços da TERTIR.
 
 ### CAPÍTULO VII — Da responsabilidade da TERTIR perante as autoridades aduaneiras
 
-###### Art. 25.º - 1 - A alfândega exercerá a sua acção fiscalizadora em todas as dependências do depósito TIR e do parque TIR, podendo designadamente proceder a varejos, ter acesso ao controle do sistema informático da TERTIR referente à carga, bem como pedir todos os esclarecimentos que julgue necessários.
+Art. 25.º - 1 - A alfândega exercerá a sua acção fiscalizadora em todas as dependências do depósito TIR e do parque TIR, podendo designadamente proceder a varejos, ter acesso ao controle do sistema informático da TERTIR referente à carga, bem como pedir todos os esclarecimentos que julgue necessários.
 
 2 - Sempre que nos armazéns do depósito TIR forem encontradas mercadorias em quantidade inferior àquela que deveria existir, ficará a TERTIR sujeita ao pagamento dos direitos e imposições aplicáveis, com base nos elementos contidos nos manifestos, se outros não forem determináveis, sem prejuízo de procedimento fiscal adequado.
 
@@ -719,7 +769,7 @@ d) Os funcionários aduaneiros e da Guarda Fiscal no exercício da suas funçõe
 
 ### CAPÍTULO VIII — Do horário de funcionamento
 
-###### Art. 26.º - 1 - O horário de funcionamento do depósito TIR deverá ser coincidente com o horário de expediente normal da delegação aduaneira.
+Art. 26.º - 1 - O horário de funcionamento do depósito TIR deverá ser coincidente com o horário de expediente normal da delegação aduaneira.
 
 2 - Independentemente do disposto no número anterior, o horário de funcionamento do depósito TIR poderá ser prolongado de segunda-feira a sexta-feira, até às 19 horas, para efeito das descargas que hajam sido autorizadas dentro do horário de expediente normal da delegação aduaneira.
 
@@ -727,7 +777,7 @@ d) Os funcionários aduaneiros e da Guarda Fiscal no exercício da suas funçõe
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 27.º São aplicáveis às relações entre a TERTIR e os utentes dos seus serviços:
+Art. 27.º São aplicáveis às relações entre a TERTIR e os utentes dos seus serviços:
 
 1) Este Regulamento;
 
@@ -735,8 +785,8 @@ d) Os funcionários aduaneiros e da Guarda Fiscal no exercício da suas funçõe
 
 3) As leis portuguesas.
 
-###### Art. 28.º As disposições do presente Regulamento prevalecem sobre quaisquer normas que estabeleçam em sentido contrário ao que nelas é preconizado.
+Art. 28.º As disposições do presente Regulamento prevalecem sobre quaisquer normas que estabeleçam em sentido contrário ao que nelas é preconizado.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf))](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/16300/21512170.pdf)

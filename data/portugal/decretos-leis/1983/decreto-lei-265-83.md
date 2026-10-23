@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13600/21342135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1983-452040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7d40476650e1adca824f68508513965d03e411c0ee660d786dfb0750aae4fdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8926fbc03892f5460b9bad91f364880b5c89f0220e26aaf183e03592b21bd7b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Medicina de Reabilitação do Alcoitão
+- Coimbra
+- Criação de Serviços
+- Definição de Competências
+- Escola de Enfermagem de Bissaya Barreto
+- Escola de Enfermagem de Calouste Gulbenkian
+- Escola de Enfermagem de são JOÃO
+- Escola de Enfermagem Pós-Básica
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Integração de Trabalhadores
+- Lisboa
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220914:por
+  label: "Prorrogado por um ano o período de instalação das Escolas de Enfermagem Pós - Básicas do Porto e de Lisboa pela\
+    \ PORT.690/86.18.11.1986.MS, DR.IS [266] de 18.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-1986-220914
+  date: '1986-11-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECONVERTIDAS EM ESCOLA SUPERIOR DE ENFERMAGEM DE MARIA FERNANDA RESENDE E ESCOLA SUPERIOR DE ENFERMAGEM CIDADE\
+    \ DO PORTO, AS ESCOLAS POS-BASICOS DE LISBOA E PORTO CRIADAS, PELO PRESENTE DIPLOMA, PELA PORT 821/89 DE 15-SET DR.IS\
+    \ [213]\0SET DR.IS [213]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-15'
+- type: amended_by
+  target: pt:dre:266642:por
+  label: "Determinada a cessação total da ministração, até 31.12.1996. dos cursos de especialização em enfermagem a que se\
+    \ refere a al. a) do n.° 1 do art. 4.°, pela PORT.239/94.16.04.1994.ME, DR.IS-B [89] de 16.04.1994\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1994-266642
+  date: '1994-04-16'
+- type: cites
+  target: pt:dre:390609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668919:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:56Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +154,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São criadas em Lisboa, Porto e Coimbra, na dependência do Ministério dos Assuntos Sociais, escolas de enfermagem pós-básicas, a seguir apenas designadas por escolas.
+Artigo 1.º - 1 - São criadas em Lisboa, Porto e Coimbra, na dependência do Ministério dos Assuntos Sociais, escolas de enfermagem pós-básicas, a seguir apenas designadas por escolas.
 
 2 - As escolas são dotadas de autonomia técnica e administrativa.
 
@@ -112,9 +164,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - É integrado na Escola de Coimbra o curso de especialização em enfermagem obstétrica da Escola de Enfermagem de Bissaya Barreto.
 
-###### Art. 2.º As escolas ficam subordinadas à orientação e supervisão do Departamento do Ensino de Enfermagem do Instituto Nacional de Saúde Dr. Ricardo Jorge.
+Art. 2.º As escolas ficam subordinadas à orientação e supervisão do Departamento do Ensino de Enfermagem do Instituto Nacional de Saúde Dr. Ricardo Jorge.
 
-###### Art. 3.º As escolas têm por finalidade:
+Art. 3.º As escolas têm por finalidade:
 
 a) Preparar enfermeiros em áreas profissionais definidas;
 
@@ -122,7 +174,7 @@ b) Promover e realizar estudos e pesquisas em ordem ao aperfeiçoamento da enfer
 
 c) Cooperar com entidades oficiais e particulares, nacionais e estrangeiras, com vista à melhoria do nível científico da enfermagem.
 
-###### Art. 4.º - 1 - Às escolas, em execução da sua finalidade de preparar a nível pós-básico, compete em especial:
+Art. 4.º - 1 - Às escolas, em execução da sua finalidade de preparar a nível pós-básico, compete em especial:
 
 a) Ministrar cursos de enfermagem a saber:
 
@@ -164,7 +216,7 @@ a) Promover o intercâmbio nacional e internacional de informação de interesse
 
 b) Colaborar com outras instituições ou organizações, nacionais ou estrangeiras, em actividades científicas que visem a melhoria da prestação de cuidados e do exercício profissional.
 
-###### Art. 5.º - 1 - O curso de enfermagem complementar, referido no [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, é extinto e substituído pelos cursos a que se refere o artigo 14.º do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
+Art. 5.º - 1 - O curso de enfermagem complementar, referido no [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, é extinto e substituído pelos cursos a que se refere o artigo 14.º do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
 
 2 - O curso de especialização em enfermagem obstétrica, referido no [Decreto n.º 47884](https://diariodarepublica.pt/dr/detalhe/decreto/47884-1967-390609), de 31 de Agosto de 1967, passa a designar-se curso de enfermagem de saúde materna e obstétrica.
 
@@ -172,11 +224,11 @@ b) Colaborar com outras instituições ou organizações, nacionais ou estrangei
 
 4 - Os cursos mencionados na alínea a) do n.º 1 do artigo 4.º têm a duração fixada por portaria do Ministro dos Assuntos Sociais.
 
-###### Art. 6.º Todas as actividades das escolas, na prossecução das suas finalidades, serão orientadas pelas necessidades do País e instituídas progressivamente na medida dos meios postos à sua disposição.
+Art. 6.º Todas as actividades das escolas, na prossecução das suas finalidades, serão orientadas pelas necessidades do País e instituídas progressivamente na medida dos meios postos à sua disposição.
 
-###### Art. 7.º A organização e o funcionamento das escolas reger-se-ão por decreto dos Ministros de Estado e das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, que contemplará os seus órgãos de gestão e administração.
+Art. 7.º A organização e o funcionamento das escolas reger-se-ão por decreto dos Ministros de Estado e das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, que contemplará os seus órgãos de gestão e administração.
 
-###### Art. 8.º - 1 - Constituem receitas das Escolas:
+Art. 8.º - 1 - Constituem receitas das Escolas:
 
 a) As comparticipações do Ministério dos Assuntos Sociais;
 
@@ -190,7 +242,7 @@ e) Quaisquer outras receitas legalmente autorizadas.
 
 2 - Constituem despesas das escolas as que resultem da execução das suas finalidades.
 
-###### Art. 9.º - 1 - Transita para as escolas respectivas, sem perda de quaisquer direitos e regalias, o pessoal dos serviços ou estabelecimentos naquelas integrados, mediante lista nominativa aprovada por despacho ministerial, anotada pelo Tribunal de Contas e publicada no Diário da República.
+Art. 9.º - 1 - Transita para as escolas respectivas, sem perda de quaisquer direitos e regalias, o pessoal dos serviços ou estabelecimentos naquelas integrados, mediante lista nominativa aprovada por despacho ministerial, anotada pelo Tribunal de Contas e publicada no Diário da República.
 
 2 - É integrado na Escola de Lisboa todo o pessoal das escolas de enfermagem de saúde pública, de Enfermagem Psiquiátrica de Lisboa e de Ensino e Administração de Enfermagem e o pessoal docente de enfermagem dos quadros das Escolas de Enfermagem de Calouste Gulbenkian, de Lisboa, e de reabilitação, do Centro de Medicina de Reabilitação, afecto, respectivamente, ao curso de especialização em enfermagem obstétrica e ao curso de especialização em enfermagem de reabilitação.
 
@@ -198,20 +250,20 @@ e) Quaisquer outras receitas legalmente autorizadas.
 
 4 - É integrado na Escola de Coimbra o pessoal docente de enfermagem do quadro da Escola de Enfermagem de Bissaya Barreto afecto ao curso de especialização em enfermagem obstétrica.
 
-###### Art. 10.º As escolas sucedem aos serviços e estabelecimentos nelas integrados em todos e quaisquer direitos e obrigações.
+Art. 10.º As escolas sucedem aos serviços e estabelecimentos nelas integrados em todos e quaisquer direitos e obrigações.
 
-###### Art. 11.º As escolas são colocadas em regime de instalação, nos termos dos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, contando-se o respectivo prazo a partir da data de tomada de posse das respectivas comissões instaladoras.
+Art. 11.º As escolas são colocadas em regime de instalação, nos termos dos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, contando-se o respectivo prazo a partir da data de tomada de posse das respectivas comissões instaladoras.
 
-###### Art. 12.º A integração dos cursos de especialização em enfermagem obstétrica e de reabilitação, referida nos n.os 3, 4 e 5 do artigo 1.º, bem como a integração do pessoal docente de enfermagem que lhes está afecto, referida nos n.os 2, 3 e 4 do artigo 9.º, só deverá efectuar-se no início do ano lectivo imediato à publicação do presente decreto-lei, a fim de não prejudicar o normal funcionamento dos cursos que estejam a decorrer.
+Art. 12.º A integração dos cursos de especialização em enfermagem obstétrica e de reabilitação, referida nos n.os 3, 4 e 5 do artigo 1.º, bem como a integração do pessoal docente de enfermagem que lhes está afecto, referida nos n.os 2, 3 e 4 do artigo 9.º, só deverá efectuar-se no início do ano lectivo imediato à publicação do presente decreto-lei, a fim de não prejudicar o normal funcionamento dos cursos que estejam a decorrer.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 26 de Maio de 1983.**
+Promulgado em 26 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Maio de 1983.**
+Referendado em 30 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

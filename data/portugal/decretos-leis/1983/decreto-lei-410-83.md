@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/27000/38663870.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1983-442974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf27efc1b19a296e933a2743766b406b78573f5814c7d73785d96b3af104fb8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 227adc7f7837136594df9cf580e7e107f2af45d7113ff13fadef8caba3a6f1db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Centro de Estudos e Formação Autárquica
+- Comissão de Coordenação Regional
+- Comissão de Explosivos
+- Direcção Geral da Administração Local
+- Direcção Geral do Desenvolvimento Regional
+- Gabinete de Informação e Relações Públicas
+- GAT
+- GNR
+- Inspeção Geral da Administração Interna
+- Ministério da Administração Interna
+- Orgânica
+- PSP
+- Secretariado para a Desconcentração
+- Secretariado Técnico dos Assuntos para o Processo Eleitoral
+- Serviço de Estrangeiros
+- Serviço Nacional de Bombeiros
 relationships:
 - type: amended_by
   target: pt:dre:545642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227983:por
+  label: "Extinto o Secretariado para a Desconcentração, criado pelo presente diploma, pelo DEC LEI.203/86.1986.07.23.MF,\
+    \ DR.IS [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-1986-227983
+  date: '1986-07-23'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Determinada a integração na administração indirecta do Estado da Direcção-Geral do Desenvolvimento Regional, primeiramente\
+    \ criada no presente diploma e cuja orgânica consta do Dec Lei 312/94 de 23-Dez, pelo DEC LEI.207/2006.27.10.2006.MAOTDR,\
+    \ DR.IS [208] de 27.10.2006, nos termos do disposto no respectivo art. 29º, com a designação de Instituto Financeiro para\
+    \ o Desenvolvimento Regional\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663315:por
+  label: "Revogado pelo DEC LEI.55/87.1987.01.31.MAI, DR.IS [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1987-663315
+  date: '1987-01-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:17Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +155,9 @@ Finalmente, aproveitou-se a oportunidade para introduzir alterações pontuais �
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 4.º, 5.º, 15.º, 16.º, 17.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º e 28.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 4.º, 5.º, 15.º, 16.º, 17.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º e 28.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O Ministério da Administração Interna compreende os seguintes serviços:
+Artigo 1.º O Ministério da Administração Interna compreende os seguintes serviços:
 
 a) Secretaria-Geral;
 
@@ -139,9 +191,9 @@ p) Comissão de Explosivos;
 
 q) Serviço Nacional de Bombeiros.
 
-###### Art. 2.º As comissões de coordenação regional são organismos periféricos do Ministério da Administração Interna que exercem as suas atribuições em estreita colaboração e articulação com os demais departamentos ministeriais.
+Art. 2.º As comissões de coordenação regional são organismos periféricos do Ministério da Administração Interna que exercem as suas atribuições em estreita colaboração e articulação com os demais departamentos ministeriais.
 
-###### Art. 4.º No desempenho das suas atribuições, compete, designadamente, à Secretaria-Geral:
+Art. 4.º No desempenho das suas atribuições, compete, designadamente, à Secretaria-Geral:
 
 a) ...
 
@@ -163,19 +215,19 @@ i) ...
 
 j) ...
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - Junto da Secretaria-Geral funciona a Comissão Consultiva de Estatística.
 
-###### Art. 15.º - 1 - A Inspecção-Geral da Administração Interna é o organismo do Ministério incumbido de preparar e executar as acções ligadas à competência do Governo quanto ao exercício da tutela inspectiva sobre as autarquias locais.
+Art. 15.º - 1 - A Inspecção-Geral da Administração Interna é o organismo do Ministério incumbido de preparar e executar as acções ligadas à competência do Governo quanto ao exercício da tutela inspectiva sobre as autarquias locais.
 
 2 - ...
 
-###### Art. 16.º - 1 - A Inspecção-Geral da Administração Interna desenvolve a sua acção em todo o território em que o Governo exercer poderes de tutela administrativa sobre as autarquias locais.
+Art. 16.º - 1 - A Inspecção-Geral da Administração Interna desenvolve a sua acção em todo o território em que o Governo exercer poderes de tutela administrativa sobre as autarquias locais.
 
 2 - ...
 
-###### Art. 17.º No desempenho das suas atribuições, compete, especialmente, à Inspecção-Geral da Administração Interna:
+Art. 17.º No desempenho das suas atribuições, compete, especialmente, à Inspecção-Geral da Administração Interna:
 
 a) Averiguar do cumprimento das obrigações impostas por lei às autarquias locais e suas associações, através de inspecções ordinárias, constantes do respectivo plano, e de inspecções extraordinárias, superiormente determinadas;
 
@@ -187,9 +239,9 @@ d) Proceder, junto das autarquias locais e dos seus funcionários, às acções 
 
 e) Colaborar com os restantes órgãos e serviços na definição e prossecução dos objectivos do Ministério da Administração Interna.
 
-###### Art. 19.º A Direcção-Geral da Administração Local é o organismo encarregado de estudar e coordenar o processo de descentralização, nomeadamente através da transferência de competências para a administração local, do planeamento autárquico, municipal e intermunicipal, das finanças locais e do apoio técnico aos municípios e associações de municípios.
+Art. 19.º A Direcção-Geral da Administração Local é o organismo encarregado de estudar e coordenar o processo de descentralização, nomeadamente através da transferência de competências para a administração local, do planeamento autárquico, municipal e intermunicipal, das finanças locais e do apoio técnico aos municípios e associações de municípios.
 
-###### Art. 20.º Para o desempenho das suas atribuições, compete, especialmente, à Direcção-Geral da Administração Local:
+Art. 20.º Para o desempenho das suas atribuições, compete, especialmente, à Direcção-Geral da Administração Local:
 
 a) ...
 
@@ -227,7 +279,7 @@ r) Implementar os instrumentos técnicos de coordenação necessários ao exerc�
 
 s) Apreciar e emitir parecer sobre a legalidade formal dos processos de declaração de utilidade pública de expropriação de bens imóveis e direitos a eles inerentes de iniciativa dos municípios.
 
-###### Art. 21.º - 1 - A Direcção-Geral da Administração Local compreende os seguintes serviços:
+Art. 21.º - 1 - A Direcção-Geral da Administração Local compreende os seguintes serviços:
 
 a) Gabinete de Coordenação Técnica;
 
@@ -237,9 +289,9 @@ c) Direcção de Serviços de Finanças Locais.
 
 2 - O Gabinete de Coordenação Técnica é dirigido por um director de serviços.
 
-###### Art. 22.º O Gabinete de Apoio às Autarquias Locais é o organismo do Ministério da Administração Interna incumbido da coordenação, estudo e execução de medidas de natureza jurídica e administrativa de apoio aos municípios e freguesias, bem como da institucionalização de formas de cooperação e diálogo entre autarquias e o poder central.
+Art. 22.º O Gabinete de Apoio às Autarquias Locais é o organismo do Ministério da Administração Interna incumbido da coordenação, estudo e execução de medidas de natureza jurídica e administrativa de apoio aos municípios e freguesias, bem como da institucionalização de formas de cooperação e diálogo entre autarquias e o poder central.
 
-###### Art. 23.º Para o desempenho das suas atribuições, compete, nomeadamente, ao Gabinete de Apoio às Autarquias Locais:
+Art. 23.º Para o desempenho das suas atribuições, compete, nomeadamente, ao Gabinete de Apoio às Autarquias Locais:
 
 a) ...
 
@@ -269,7 +321,7 @@ n) Propor soluções e incentivar a criação de mecanismos que assegurem as lig
 
 o) Implementar os instrumentos técnicos de coordenação necessários ao exercício das suas atribuições, designadamente no que respeita às actuações das comissões de coordenação regional.
 
-###### Art. 24.º - 1 - O Gabinete de Apoio às Autarquias Locais é dirigido por um director-geral e compreende os seguintes serviços:
+Art. 24.º - 1 - O Gabinete de Apoio às Autarquias Locais é dirigido por um director-geral e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Formação e Assessoria;
 
@@ -279,25 +331,25 @@ c) Gabinete de Apoio Jurídico.
 
 2 - O Gabinete de Apoio Jurídico é dirigido por um director de serviços.
 
-###### Art. 25.º A Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros, o Serviço Nacional de Bombeiros, a Comissão de Explosivos, o Centro de Estudos e Formação Autárquica e as comissões de coordenação regional regem-se por legislação própria.
+Art. 25.º A Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros, o Serviço Nacional de Bombeiros, a Comissão de Explosivos, o Centro de Estudos e Formação Autárquica e as comissões de coordenação regional regem-se por legislação própria.
 
-###### Art. 26.º - 1 - São extintos os lugares de director-geral da Direcção-Geral de Acção Regional e Local de subdirector-geral da Direcção-Geral de Acção Regional e Local e são criados os lugares de director-geral da Direcção-Geral da Administração Local, de director-geral do Gabinete de Apoio às Autarquias Locais, de director-geral da Direcção-Geral do Desenvolvimento Regional e de director-geral do Secretariado para a Desconcentração.
+Art. 26.º - 1 - São extintos os lugares de director-geral da Direcção-Geral de Acção Regional e Local de subdirector-geral da Direcção-Geral de Acção Regional e Local e são criados os lugares de director-geral da Direcção-Geral da Administração Local, de director-geral do Gabinete de Apoio às Autarquias Locais, de director-geral da Direcção-Geral do Desenvolvimento Regional e de director-geral do Secretariado para a Desconcentração.
 
 2 - São extintos os lugares de director dos Serviços do Núcleo de Apoio à Coordenação Técnica Regional e de director dos Serviços de Acção Regional e Local e são criados os lugares de director de serviços do Gabinete de Coordenação Técnica, da Direcção de Serviços de Estudos e Planeamento Autárquicos, da Direcção de Serviços de Finanças Locais, do Gabinete de Apoio Jurídico, da Direcção de Serviços de Política Regional, da Direcção de Serviços de Programas Integrados de Desenvolvimento Regional e da Direcção de Serviços de Finanças Regionais.
 
-###### Art. 27.º O pessoal dirigente será provido e reger-se-á de acordo com as disposições do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 27.º O pessoal dirigente será provido e reger-se-á de acordo com as disposições do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 28.º - 1 - Com excepção do pessoal dos serviços referidos no artigo 25.º, o pessoal administrativo, técnico-profissional, operário e auxiliar constitui quadros únicos adstritos à Secretaria-Geral.
+Art. 28.º - 1 - Com excepção do pessoal dos serviços referidos no artigo 25.º, o pessoal administrativo, técnico-profissional, operário e auxiliar constitui quadros únicos adstritos à Secretaria-Geral.
 
 2 - O pessoal dirigente de inspecção, técnico superior e técnico forma quadros próprios de cada serviço.
 
 3 - As dotações de pessoal dos quadros únicos a afectar a cada serviço constarão de decreto regulamentar, o qual definirá também os mecanismos de gestão desse pessoal.
 
-###### Art. 2.º São aditados os seguintes artigos ao [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto: 24.º-A, 24.º-B, 24.º-C, 24.º-D, 24.º-E e 24.º-F:
+Art. 2.º São aditados os seguintes artigos ao [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto: 24.º-A, 24.º-B, 24.º-C, 24.º-D, 24.º-E e 24.º-F:
 
-###### Art. 24.º-A A Direcção-Geral do Desenvolvimento Regional é o organismo incumbido de promover e participar no estudo das questões relativas ao planeamento e desenvolvimento regional e de definir, em colaboração com outros departamentos da Administração Pública, os objectivos, medidas e instrumentos de política regional e da coordenação da respectiva implementação. É-lhe cometido, igualmente, o estudo e coordenação técnica do processo de regionalização do continente.
+Art. 24.º-A A Direcção-Geral do Desenvolvimento Regional é o organismo incumbido de promover e participar no estudo das questões relativas ao planeamento e desenvolvimento regional e de definir, em colaboração com outros departamentos da Administração Pública, os objectivos, medidas e instrumentos de política regional e da coordenação da respectiva implementação. É-lhe cometido, igualmente, o estudo e coordenação técnica do processo de regionalização do continente.
 
-###### Art. 24.º-B - 1 - Para o desempenho das suas atribuições, compete, especialmente, à Direcção-Geral do Desenvolvimento Regional:
+Art. 24.º-B - 1 - Para o desempenho das suas atribuições, compete, especialmente, à Direcção-Geral do Desenvolvimento Regional:
 
 a) Efectuar a recolha, tratamento e análise da informação estatística e documental em matéria da sua competência e proceder à respectiva divulgação;
 
@@ -331,7 +383,7 @@ p) Promover e acompanhar a realização de acções de formação e reciclagem d
 
 2 - A actividade da Direcção-Geral do Desenvolvimento Regional será exercida em articulação com os organismos competentes da Administração Pública, designadamente as comissões de coordenação regional e as autarquias locais.
 
-###### Art. 24.º-C A Direcção-Geral do Desenvolvimento Regional compreende os seguintes serviços:
+Art. 24.º-C A Direcção-Geral do Desenvolvimento Regional compreende os seguintes serviços:
 
 a) Direcção de Serviços de Política Regional;
 
@@ -339,9 +391,9 @@ b) Direcção de Serviços de Programas Integrados de Desenvolvimento Regional;
 
 c) Direcção de Serviços de Finanças Regionais.
 
-###### Art. 24.º-D O Secretariado para a Desconcentração é o organismo do Ministério da Administração Interna incumbido de, em estreita articulação com as entidades responsáveis pela coordenação central do processo de reforma e modernização da Administração Pública e em contacto permanente com as autarquias locais, promover estudos, medidas e iniciativas que, em conexão com o processo de descentralização, se mostrem adequadas à desconcentração territorial da Administração Pública Central e acompanhar a respectiva execução.
+Art. 24.º-D O Secretariado para a Desconcentração é o organismo do Ministério da Administração Interna incumbido de, em estreita articulação com as entidades responsáveis pela coordenação central do processo de reforma e modernização da Administração Pública e em contacto permanente com as autarquias locais, promover estudos, medidas e iniciativas que, em conexão com o processo de descentralização, se mostrem adequadas à desconcentração territorial da Administração Pública Central e acompanhar a respectiva execução.
 
-###### Art. 24.º-E Para o desempenho das suas atribuições, compete, designadamente, ao Secretariado para a Desconcentração:
+Art. 24.º-E Para o desempenho das suas atribuições, compete, designadamente, ao Secretariado para a Desconcentração:
 
 a) Estudar e participar nos estudos de definição dos objectivos do processo de desconcentração;
 
@@ -355,13 +407,13 @@ e) Promover estudos e colaborar na definição de medidas tendentes à fixação
 
 f) Identificar as necessidades de formação de que carece o exercício das competências desconcentradas e promover a respectiva satisfação.
 
-###### Art. 24.º-F - 1 - O Secretariado para a Desconcentração é dirigido por um secretário, equiparado a director-geral.
+Art. 24.º-F - 1 - O Secretariado para a Desconcentração é dirigido por um secretário, equiparado a director-geral.
 
 2 - O Secretariado para a Desconcentração não disporá de quadro de pessoal, sendo os respectivos funcionários requisitados ou destacados de outros serviços do Ministério ou de outros departamentos da Administração Pública.
 
 3 - A gestão do Secretariado para a Desconcentração será feita por objectivos, mediante a constituição de equipas de projecto.
 
-###### Art. 3.º - 1 - A estrutura, atribuições, competências e respectivos quadros de pessoal dos serviços do Ministério da Administração Interna a que se referem as alíneas a) a i) do artigo 1.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto, na redacção que lhe é dada pelo presente diploma, constarão de decreto regulamentar, a publicar no prazo de 60 dias.
+Art. 3.º - 1 - A estrutura, atribuições, competências e respectivos quadros de pessoal dos serviços do Ministério da Administração Interna a que se referem as alíneas a) a i) do artigo 1.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto, na redacção que lhe é dada pelo presente diploma, constarão de decreto regulamentar, a publicar no prazo de 60 dias.
 
 2 - Enquanto não forem aprovados os quadros de pessoal da Direcção-Geral de Administração Local e da Direcção-Geral do Desenvolvimento Regional mantém-se em vigor o quadro VI anexo ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 19 de Dezembro.
 
@@ -375,12 +427,12 @@ f) Identificar as necessidades de formação de que carece o exercício das comp
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.
 
-**Promulgado em 12 de Novembro de 1983.**
+Promulgado em 12 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Novembro de 1983.**
+Referendado em 14 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

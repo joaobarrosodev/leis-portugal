@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06600/09971002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49bc91b1abba974eedfec09c96ffcb0f2c229d326888e5afe76cabeec704bf07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eb0caac27561caf993a0478423e1c75380becfe59119d3ddc32e48ae05d6544
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Conselho Diretivo
+- Conselho Regional de Segurança Social
+- Orgânica
+- Prémio de Produtividade
+- Regime de Instalação
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:346485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310665:por
+  label: "Prorrogado o prazo do regime de instalação, pelo DEC LEI.85/83.1983.02.11.MFP, DR.IS [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-1983-310665
+  date: '1983-02-11'
+- type: amended_by
+  target: pt:dre:660278:por
+  label: "Prorrogado até 31 de Janeiro de 1984, o prazo do regime de instalação, pelo DEC LEI.16/84.1984.01.14.PCM, DR.IS\
+    \ [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1984-660278
+  date: '1984-01-14'
+- type: amended_by
+  target: pt:dre:399635:por
+  label: "Alterados os quadros de pessoal dos Centros Regionais de Segurança Social, aprovados pelo presente diploma, pela\
+    \ PORT.752/84.25.09.1984.PCM, DR.IS [223] de 25.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/752-1984-399635
+  date: '1984-09-25'
+- type: amended_by
+  target: pt:dre:332260:por
+  label: Alterado o art. 29.º pelo DEC LEI.134/90.23.04.1990.MESS, DR.IS [94] de 23.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1990-332260
+  date: '1990-04-23'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681662:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346485:por
+  label: Revogado pelo DEC LEI.260/93.23.07.1993.MESS, DR.IS-A [171] de 23.07.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1993-346485
+  date: '1993-07-23'
 article_structure:
   article_count: 36
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:46Z'
   warnings: []
   errors: []
 ---
@@ -446,12 +504,12 @@ O termo do regime de instalação será determinado, para cada centro, por porta
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Luís Eduardo da Silva Barbosa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 1 de Março de 1983.**
+Promulgado em 1 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Março de 1983.**
+Referendado em 3 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

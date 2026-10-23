@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/25500/33143320.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1986-221094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e019df90febaed1db7256c39f6c9fe8a4963d4f8523c042da3181b83d003880f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b31484ba2dce9414bd7e7add64d912d323618879a8ef8fd5b5cb59e522d7009
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério das Obras Públicas
+- Ministério das Obras Públicas Transportes e Comunicações
+- Orgânica
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:653149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 58/87 DE 24-JAN DR.IS [20] 19870210 -AUMENTADO O QUADRO DE PESSOAL DA SECRETÁRIA\
+    \ GERAL PELA PORT 92/87 DE 10-FEV DR.IS [34]\0]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-01-24'
+- type: amended_by
+  target: pt:dre:662935:por
+  label: "Aumentado o quadro de pessoal da Secretaria-Geral do Ministério, das Obras Públicas Transportes e Comunicações,\
+    \ pela PORT.92/87.10.02.1987.MF, DR.IS [34] de 10.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-1987-662935
+  date: '1987-02-10'
+- type: amended_by
+  target: pt:dre:286721:por
+  label: "Alterado o quadro de pessoal pela PORT.133/88.29.02.1988.MF, DR.IS [49] de 29.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/133-1988-286721
+  date: '1988-02-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA SECRETÁRIA PELA PORT 67/89 31-JAN DR.IS [26]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-01-31'
+- type: amended_by
+  target: pt:dre:653149:por
+  label: "Totalmente revogado pelo DEC LEI.246/97.1997.09.19.MEPAT, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1997-653149
+  date: '1997-09-19'
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:29Z'
   warnings: []
   errors: []
 ---
@@ -254,7 +317,9 @@ c) Propor a constituição e administrar fundos permanentes;
 
 d) Organizar e manter actualizadas as contas-correntes das dotações orçamentais dos gabinetes ministeriais, Secretaria-Geral e Auditoria Jurídica.
 
-###### Artigo 8.º — Divisão de Documentação e Informação Técnica e Administrativa (DDITA)
+###### Artigo 8.º
+
+##### Divisão de Documentação e Informação Técnica e Administrativa (DDITA)
 
 A DDITA é o serviço de apoio instrumental ao qual compete organizar e orientar tecnicamente o sistema de documentação e informação técnica e administrativa do Ministério em cooperação com os serviços e organismos dependentes e promover o seu relacionamento com sistemas similares nacionais e internacionais, incumbindo-lhe, especialmente:
 
@@ -284,7 +349,9 @@ a) Divisão de Organização e Pessoal;
 
 b) Divisão de Recrutamento e Formação.
 
-###### Artigo 10.º — Divisão de Organização e Pessoal (DOP)
+###### Artigo 10.º
+
+##### Divisão de Organização e Pessoal (DOP)
 
 À DOP compete:
 
@@ -306,7 +373,9 @@ h) Emitir pareceres e informações de natureza jurídica em assuntos de pessoal
 
 i) Assegurar o apoio jurídico na fase graciosa do processo administrativo em assuntos de pessoal.
 
-###### Artigo 11.º — Divisão de Recrutamento e Formação (DRF)
+###### Artigo 11.º
+
+##### Divisão de Recrutamento e Formação (DRF)
 
 À DRF compete:
 
@@ -466,16 +535,16 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 16 de Outubro de 1986.**
+Promulgado em 16 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1986.**
+Referendado em 21 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro a que se refere o artigo 13.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/25500/33143320.pdf))](https://files.diariodarepublica.pt/1s/1986/11/25500/33143320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/25500/33143320.pdf)

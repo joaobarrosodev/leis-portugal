@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1985-176991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bba1576d1f2d3344652b9d384fad8fc1ad05880719ba14e50c98c634043534d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ee91cad9bca34bd41dfd6f3f09d5d15156a7c0f01b339453968b5bc6b7eeb09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Pessoal Militarizado
+- Quadro de Pessoal
+- Serviços de Polícia e dos Transportes da Marinha
 relationships:
 - type: amended_by
   target: pt:dre:907287351:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502192:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:02Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +116,9 @@ Considerando a conveniência e oportunidade de alterar esse sistema de promoçã
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 6 do artigo 9.º, o n.º 7 do artigo 10.º, o n.º 4 do artigo 11.º, o n.º 4 do artigo 12.º, o n.º 2 do artigo 13.º e o n.º 4 do artigo 14.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, passam a ter a seguinte redacção:
+Artigo único. O n.º 6 do artigo 9.º, o n.º 7 do artigo 10.º, o n.º 4 do artigo 11.º, o n.º 4 do artigo 12.º, o n.º 2 do artigo 13.º e o n.º 4 do artigo 14.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - ...
 
@@ -110,7 +130,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - As restantes promoções realizam-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com as proporções a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal, privilegiando-se a antiguidade na categoria mais baixa e a escolha na categoria mais elevada.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - ...
 
@@ -124,7 +144,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 7 - As restantes promoções realizam-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com as proporções a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal, privilegiando-se a antiguidade na categoria mais baixa e a escolha na categoria mais elevada.
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - ...
 
@@ -132,7 +152,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - As restantes promoções realizam-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com as proporções a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal, privilegiando-se a antiguidade na categoria mais baixa e a escolha na categoria mais elevada.
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 2 - ...
 
@@ -142,13 +162,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - ...
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - A promoção a prático de 1.ª classe efectua-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com a proporção a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal.
 
 3 - ...
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 2 - ...
 
@@ -162,12 +182,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 11 de Setembro de 1985.**
+Promulgado em 11 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Setembro de 1985.**
+Referendado em 13 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,205 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1983-453199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb63d3ebdd2d76330b15bbf5c2e75dc467ea1df473eb427efee70ff077cf9b8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dee2bc419b611f888d25dfb4e25b9c991b7d17b7eff2c58da65c9638593a2b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Estatuto
+- Inspecção Geral do Trabalho
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531852:por
+  label: "Prorrogado o prazo previsto no n.º 1 do art. 3.º do presente diploma, pelo DN.1/84.1984.01.03.MTSS DR.IS [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-1984-531852
+  date: '1984-01-03'
+- type: amended_by
+  target: pt:dre:324321:por
+  label: "Alterado o quadro de pessoal constante do anexo III ao Estatuto aprovado pelo presente diploma, pela PORT.216/85.18.04.1985.PCM,\
+    \ DR.IS [90] de 18.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/216-1985-324321
+  date: '1985-04-18'
+- type: amended_by
+  target: pt:dre:176761:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Inspecção Geral do Trabalho, aprovado pelo presente diploma,\
+    \ pela PORT.716/85.24.09.1985.PCM, DR.IS [220] de 24.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1985-176761
+  date: '1985-09-24'
+- type: amended_by
+  target: pt:dre:226858:por
+  label: "Criado um lugar de assessor no quadro de pessoal constante do anexo II ao Estatuto da Inspecção Geral do Trabalho,\
+    \ aprovado pelo presente diploma, pela PORT.267/86.03.06.1986.MF, DR.IS [126] de 03.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-1986-226858
+  date: '1986-06-03'
+- type: amended_by
+  target: pt:dre:228231:por
+  label: "Alterado o quadro de pessoal da Inspecção Geral do Trabalho, aprovado pelo presente diploma, pela PORT.355/86.09.07.1986.MF,\
+    \ DR.IS [155] de 09.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/355-1986-228231
+  date: '1986-07-09'
+- type: amended_by
+  target: pt:dre:221682:por
+  label: "Alterados os mapas constantes dos anexos II e III ao Estatuto aprovado pelo presente diploma, pela PORT.557/86.27.09.1986.MF,\
+    \ DR.IS [223] de 27.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/557-1986-221682
+  date: '1986-09-27'
+- type: amended_by
+  target: pt:dre:221500:por
+  label: "Criado um lugar de assessor no quadro de pessoal constante do anexo II ao Estatuto da Inspecção Geral do Trabalho,\
+    \ aprovado pelo presente diploma, pela PORT.704/86.22.11.1986.MF, DR.IS [270] de 22.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/704-1986-221500
+  date: '1986-11-22'
+- type: amended_by
+  target: pt:dre:496102:por
+  label: "Criados lugares no quadro de pessoal anexo ao Estatuto da Inspecção Geral do Trabalho, aprovado pelo presente diploma,\
+    \ alterado pelas Ports 832/84, de 27-Out, 216/85, de 18-Abr, 244/85, de 02-Mai, 716/85, de 24-Set, 267/86, de 03-Jun,\
+    \ 355/86, de 09-Jul, 557/86, de 27-Set e 704/86, de 22-Nov, pela PORT.837/87.24.10.1987.MF, DR.IS [245] de 24.10.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-1987-496102
+  date: '1987-10-24'
+- type: amended_by
+  target: pt:dre:374666:por
+  label: "Alterado o quadro de pessoal, constante do anexo II ao estatuto aprovado no presente diploma, pela PORT.322/88.19.05.1988.MF,\
+    \ DR.IS [116] de 19.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-1988-374666
+  date: '1988-05-19'
+- type: amended_by
+  target: pt:dre:377485:por
+  label: "Alargado quadro de pessoal constante do anexo II ao estatuto com a redacção da Port 17/88 de 08-Jan, pela PORT.526/88.06.08.1988.MF,\
+    \ DR.IS [181] de 06.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1988-377485
+  date: '1988-08-06'
+- type: amended_by
+  target: pt:dre:357336:por
+  label: "Alterado o quadro de pessoal, constante do anexo II ao Estatuto aprovado pelo presente diploma, na redacção da Port\
+    \ 17/88, de 8-Jan, pela PORT.755/88.24.11.1988.MF, DR.IS [272] de 24.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/755-1988-357336
+  date: '1988-11-24'
+- type: amended_by
+  target: pt:dre:357337:por
+  label: "Alterado o quadro de pessoal, constante do anexo II ao Estatuto aprovado pelo presente diploma, pela PORT.756/88.24.11.1988.MF,\
+    \ DR.IS [272] de 24.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-1988-357337
+  date: '1988-11-24'
+- type: amended_by
+  target: pt:dre:619930:por
+  label: "Alterados os arts. 62º a 64º, 67º, 69º, 71º, 72º, 75º a 79º, 82º e 84º e o anexo II, substituído o anexo III, eliminado\
+    \ o anexo III-A e revogados o nº3 do art. 55º, os arts. 56º e 73º e o nº3 do art. 74º do Estatuto da Inspecção-Geral do\
+    \ Trabalho (IGT), aprovado pelo presente diploma, pelo DEC LEI.232/89.24.07.1989.MESS, DR.IS [168] de 24.07.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1989-619930
+  date: '1989-07-24'
+- type: amended_by
+  target: pt:dre:313794:por
+  label: "Criado um lugar de técnico superior principal no quadro de pessoal, aprovado no presente diploma, pelo DN.3/90.09.01.1990.MF,\
+    \ DR.IS [7] de 09.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-1990-313794
+  date: '1990-01-09'
+- type: amended_by
+  target: pt:dre:572656:por
+  label: "Criados vários lugares no quadro de pessoal técnico superior da Inspecção-Geral do Trabalho, constante do anexo\
+    \ II ao estatuto aprovado pelo presente diploma, pela PORT.576/90.21.07.1990.MF, DR.IS [167] de 21.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/576-1990-572656
+  date: '1990-07-21'
+- type: amended_by
+  target: pt:dre:572660:por
+  label: "Alterado o quadro de pessoal técnico da Inspecção-Geral do Trabalho, constante do anexo III ao estatuto aprovado\
+    \ pelo presente diploma, pela PORT.575/90.21.07.1990.MF, DR.IS [167] de 21.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/575-1990-572660
+  date: '1990-07-21'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642569:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:673674:por
+  label: Rectificado pelo DECL.DD5711.01.08.1983.PCM, DR.IS [200-Supl] de 31.08.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-673674
+  date: '1983-08-01'
+- type: repealed_by
+  target: pt:dre:265699:por
+  label: "Revogado o Estatuto, aprovado no presente diploma, com excepção dos artigos 28.º a 49.º, pelo DEC LEI.219/93.16.06.1993.MESS,\
+    \ DR.IS-A [139] de 16.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1993-265699
+  date: '1993-06-16'
+- type: repealed_by
+  target: pt:dre:291655:por
+  label: "Revogados os arts. 28º a 49º do Estatuto da Inspecção-Geral do Trabalho pelo DEC LEI.102/2000.2000.06.02.MTS,DR.IS-A\
+    \ [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2000-291655
+  date: '2000-06-02'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 117
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 116
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:54Z'
   warnings: []
   errors: []
 ---
@@ -164,37 +329,37 @@ Considerando a necessidade e a oportunidade de proceder à remodelação da Insp
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Inspecção-Geral do Trabalho, anexo a este decreto-lei, de que faz parte integrante.
+Artigo 1.º É aprovado o Estatuto da Inspecção-Geral do Trabalho, anexo a este decreto-lei, de que faz parte integrante.
 
-###### Art. 2.º Os serviços periféricos da Inspecção-Geral do Trabalho serão objecto de reestruturação, a elaborar no prazo de 18 meses.
+Art. 2.º Os serviços periféricos da Inspecção-Geral do Trabalho serão objecto de reestruturação, a elaborar no prazo de 18 meses.
 
-###### Art. 3.º - 1 - O regime de autonomia administrativa atribuído à Inspecção-Geral do Trabalho passará a vigorar no início do semestre seguinte ao da entrada em vigor do Estatuto, só então sendo instalados o conselho administrativo e a Repartição de Administração Geral.
+Art. 3.º - 1 - O regime de autonomia administrativa atribuído à Inspecção-Geral do Trabalho passará a vigorar no início do semestre seguinte ao da entrada em vigor do Estatuto, só então sendo instalados o conselho administrativo e a Repartição de Administração Geral.
 
 2 - O prazo fixado no número anterior poderá ser prorrogado por despacho do Ministro do Trabalho.
 
-###### Art. 4.º São revogados os artigos 43.º a 53.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, passando o seu capítulo III a ser integrado pelo seguinte artigo:
+Art. 4.º São revogados os artigos 43.º a 53.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, passando o seu capítulo III a ser integrado pelo seguinte artigo:
 
-###### Art. 43.º A Inspecção-Geral do Trabalho constitui um departamento técnico, dotado de autonomia, com estatuto próprio, a publicar em diploma legal específico.
+Art. 43.º A Inspecção-Geral do Trabalho constitui um departamento técnico, dotado de autonomia, com estatuto próprio, a publicar em diploma legal específico.
 
-###### Art. 5.º É revogado o [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março.
+Art. 5.º É revogado o [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março.
 
-###### Art. 6.º O encargo, de natureza transitória, com a passagem do pessoal do quadro criado pelo [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março, para o quadro criado pelo Estatuto anexo será suportado por contrapartida em transferência do orçamento do Fundo de Desemprego para o Orçamento do Estado.
+Art. 6.º O encargo, de natureza transitória, com a passagem do pessoal do quadro criado pelo [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março, para o quadro criado pelo Estatuto anexo será suportado por contrapartida em transferência do orçamento do Fundo de Desemprego para o Orçamento do Estado.
 
-###### Art. 7.º As disposições do Estatuto anexo ao presente decreto-lei poderão ser aplicadas nas Regiões Autónomas dos Açores e da Madeira, com as necessárias adaptações, mediante diploma regional.
+Art. 7.º As disposições do Estatuto anexo ao presente decreto-lei poderão ser aplicadas nas Regiões Autónomas dos Açores e da Madeira, com as necessárias adaptações, mediante diploma regional.
 
-###### Art. 8.º Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 8.º Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes - Salgueiro Luís Alberto Ferrero Morales - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 ESTATUTO DA INSPECÇÃO-GERAL DO TRABALHO
 
@@ -1266,7 +1431,7 @@ Os conteúdos funcionais mencionados no artigo anterior poderão ser alterados, 
 
 2 - Aplicar-se-á ao estagiário o regime fixado no artigo 75.º com excepção dos seus n.os 2 e 4.
 
-##### SUBSECÇÃO
+SUBSECÇÃO
 
 Pessoal administrativo e auxiliar
 
@@ -1538,26 +1703,26 @@ São extintas as 2 secções administrativas criadas, na Inspecção do Trabalho
 
 ## ANEXO I — Lista das delegações e subdelegações da IGT (artigo 16.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
 
 ## ANEXO II — Quadro de pessoal de IGT (artigo 54.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
 
 ## ANEXO III — Quadro de pessoal da IGT (artigo 54.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
 
 ## ANEXO III (ver nota *) — Quadro de pessoal de IGT (artigo 54.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
 
 (nota *) O escalonamento da programação pelos grupos do quadro do pessoal será estabelecido por despacho conjunto do Ministro do Trabalho e do membro do Governo que tiver a seu cargo a função pública.
 
 ## ANEXO IV — Quadro de pessoal da IGT (artigos 54.º e 99.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
 
 ## ANEXO V — Mapa de equivalências (artigo 100.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15500/24742498.pdf)

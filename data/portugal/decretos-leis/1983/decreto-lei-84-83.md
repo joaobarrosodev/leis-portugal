@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03500/04250426.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1983-310664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c59f561310143b59cf8cd941e5fcdc4ac1c0bab529d048ddc63fe9db43096ba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3df4297dded176ba18ff7dca0de44e11d4215c0658d341028a071973cce6086
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exposição Europeia de ARTE Ciência e Cultura XVII
+- Moeda Comemorativa
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472531:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:52Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +115,11 @@ Assim, e com o acordo do Banco de Portugal, nos termos do artigo 12.º, n.º 2, 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada uma colecção de moedas comemorativas da XVII Exposição Europeia de Arte, Ciência e Cultura, constituída por 3 moedas metálicas de valores faciais de 500$00, 750$00 e 1000$00.
+Artigo 1.º - 1 - É criada uma colecção de moedas comemorativas da XVII Exposição Europeia de Arte, Ciência e Cultura, constituída por 3 moedas metálicas de valores faciais de 500$00, 750$00 e 1000$00.
 
 2 - Dos lucros da amoedação, 262000 contos são postos pelo Ministério das Finanças e do Plano à disposição do Comissariado para a XVII Exposição Europeia de Arte, Ciência e Cultura, criado pelo [Decreto-Lei n.º 244/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1980-472531), de 22 de Julho, para fazer face aos encargos decorrentes da realização do mesmo acontecimento.
 
-###### Art. 2.º As moedas dos respectivos valores faciais são em liga de prata, com toque de 835(por mil), e com mais as seguintes características:
+Art. 2.º As moedas dos respectivos valores faciais são em liga de prata, com toque de 835(por mil), e com mais as seguintes características:
 
 Na moeda de 500$00 - diâmetro: 25 mm; peso: 7 g; tolerância no toque e no peso de mais ou menos 5(por mil); bordo serrilhado;
 
@@ -112,7 +127,7 @@ Na moeda de 750$00 - diâmetro: 30 mm; peso: 12,5 g; tolerância no toque e no p
 
 Na moeda de 1000$00 - diâmetro: 34 mm; peso: 21 g; tolerância no toque e no peso de mais ou menos 5(por mil); bordo serrilhado.
 
-###### Art. 3.º - 1 - O anverso de cada uma das denominações é constituído na parte superior do campo central pela representação da cruz de Cristo, na parte inferior do mesmo campo pelo desenho do astrolábio, símbolo adoptado para a XVII Exposição, ficando ambas as figuras assentes sobre o desenho da esfera armilar, ladeada pela era em algarismos separados: 19 - 83. Por baixo da esfera armilar o valor facial em algarismos.
+Art. 3.º - 1 - O anverso de cada uma das denominações é constituído na parte superior do campo central pela representação da cruz de Cristo, na parte inferior do mesmo campo pelo desenho do astrolábio, símbolo adoptado para a XVII Exposição, ficando ambas as figuras assentes sobre o desenho da esfera armilar, ladeada pela era em algarismos separados: 19 - 83. Por baixo da esfera armilar o valor facial em algarismos.
 
 Na orla superior da moeda a legenda «República Portuguesa» e na orla inferior a legenda «Descobrimentos - Renascimento», legendas essas separadas por 2 florões.
 
@@ -124,22 +139,22 @@ Na moeda de 750$00 - anverso do «índio» de prata, de D. Manuel I;
 
 Na moeda de 1000$00 - anverso do «português» de ouro, de D. Manuel I.
 
-###### Art. 4.º - 1 - O limite da emissão da moeda agora criada é fixado em 585000000$00.
+Art. 4.º - 1 - O limite da emissão da moeda agora criada é fixado em 585000000$00.
 
 2 - Dentro deste limite a Imprensa Nacional-Casa da Moeda fica autorizada a cunhar 250000 de cada um dos valores faciais em moeda corrente e a proceder à cunhagem de 10000 colecções com acabamento proof, destinadas estas a comercialização pela própria Imprensa Nacional-Casa da Moeda.
 
-###### Art. 5.º As moedas são postas em circulação em todo o território nacional pelo Estado, por intermédio e sob requisição do Banco de Portugal.
+Art. 5.º As moedas são postas em circulação em todo o território nacional pelo Estado, por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 6.º Todas as moedas terão curso legal, mas ninguém poderá ser obrigado a receber, em qualquer pagamento, mais de 5000$00, 7500$00 e 10000$00 em moedas de 500$00, 750$00 e 1000$00, respectivamente.
+Art. 6.º Todas as moedas terão curso legal, mas ninguém poderá ser obrigado a receber, em qualquer pagamento, mais de 5000$00, 7500$00 e 10000$00 em moedas de 500$00, 750$00 e 1000$00, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 27 de Janeiro de 1983.**
+Promulgado em 27 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Janeiro de 1983.**
+Referendado em 28 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

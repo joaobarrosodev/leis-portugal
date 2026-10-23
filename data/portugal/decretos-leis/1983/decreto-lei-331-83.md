@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1983-453236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c5665b750a7a56daeadfc0403fbe1e72f5561e8955dfb8e5e467d0d5c8b5a97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e36b2c55b0ebb1d92e926ab43f2f6d129ab0355fa0552d4529b7dd5df67123a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Junta de Acção Social
+- Pensões
+relationships:
+- type: cites
+  target: pt:dre:264491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:57Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +116,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao pessoal da Junta da Acção Social que, por força do disposto no [Decreto-Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1976-506186), de 13 de Janeiro, foi integrado em serviços ou organismos públicos é aplicável o regime de pensões estabelecido no [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio, nomeadamente nos seus artigos 3.º, 6.º e 9.º
+Artigo 1.º Ao pessoal da Junta da Acção Social que, por força do disposto no [Decreto-Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1976-506186), de 13 de Janeiro, foi integrado em serviços ou organismos públicos é aplicável o regime de pensões estabelecido no [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio, nomeadamente nos seus artigos 3.º, 6.º e 9.º
 
-###### Art. 2.º O regime previsto no artigo anterior é extensivo ao pessoal que, anteriormente à sua integração nos quadros do Estado, prestava serviço como contratado pelo Fundo Nacional do Abono de Família.
+Art. 2.º O regime previsto no artigo anterior é extensivo ao pessoal que, anteriormente à sua integração nos quadros do Estado, prestava serviço como contratado pelo Fundo Nacional do Abono de Família.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Junho de 1983.**
+Referendado em 23 de Junho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

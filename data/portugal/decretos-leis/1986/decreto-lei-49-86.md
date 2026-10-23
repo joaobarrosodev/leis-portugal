@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/06100/06130615.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca28b6d55ce9d09aee14aed7752356440cd2a2985bfb1a90227dedc18cc332a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15b1fbbfb880efa30cdc7443fe55ae265faf9efbf62dc66008f8f19387b90b4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Caixa Económica
+- Empresa Pública
+- Instituição de Crédito
+- Orgânica
+- Segredo Profissional
+- Sigilo Bancário
+- Sociedade de Desenvolvimento Regional
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:70241306:por
+  label: Revogado, a partir de 10.10.2015, o Dec Lei 136/79 de 18-mai, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-2015-70241306
+  date: '2015-09-10'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:54Z'
   warnings: []
   errors: []
 ---
@@ -147,9 +167,9 @@ c) Parecer das comissões de coordenação regional das áreas abrangidas pela a
 
 Os artigos 2.º e 3.º do Decreto-Lei n.º 46302, de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 2.º A constituição e condições de funcionamento das instituições parabancárias, bem como a abertura das suas filiais, sucursais e agências, regem-se, salvo o preceituado em lei especial, pelo Decreto-Lei n.º 23/86, de 18 de Fevereiro, com excepção do disposto nos respectivos artigos 3.º, n.º 4, 8.º, 10.º, n.os 3 e 4, 11.º, n.º 2, 19.º, 22.º, n.os 2 e 3, 24.º, n.os 3 e 4, 33.º, 39.º e 40.º e com dispensa ainda da observância dos prazos referidos no artigo 7.º do mesmo diploma.
+Art. 2.º A constituição e condições de funcionamento das instituições parabancárias, bem como a abertura das suas filiais, sucursais e agências, regem-se, salvo o preceituado em lei especial, pelo Decreto-Lei n.º 23/86, de 18 de Fevereiro, com excepção do disposto nos respectivos artigos 3.º, n.º 4, 8.º, 10.º, n.os 3 e 4, 11.º, n.º 2, 19.º, 22.º, n.os 2 e 3, 24.º, n.os 3 e 4, 33.º, 39.º e 40.º e com dispensa ainda da observância dos prazos referidos no artigo 7.º do mesmo diploma.
 
-###### Art. 3.º - 1 - Salvo o disposto em lei especial, as instituições parabancárias deverão observar, com as necessárias adaptações, o preceituado no artigo 8.º do Decreto-Lei n.º 41403, de 27 de Novembro de 1957, nos artigos 13.º a 18.º, 19.º, n.º 1, 27.º, 28.º, 31.º e 89.º a 98.º, do Decreto-Lei n.º 42641, de 12 de Novembro de 1959, equiparando-se as instituições parabancárias, para os efeitos dos citados artigos 89.º a 98.º aos bancos comerciais, no Decreto-Lei n.º 353-S/77, de 29 de Agosto, no Decreto-Lei n.º 372/77, de 5 de Setembro, no Decreto-Lei n.º 455/78, de 30 de Dezembro, e, em geral, na restante legislação que expressamente se lhes refira.
+Art. 3.º - 1 - Salvo o disposto em lei especial, as instituições parabancárias deverão observar, com as necessárias adaptações, o preceituado no artigo 8.º do Decreto-Lei n.º 41403, de 27 de Novembro de 1957, nos artigos 13.º a 18.º, 19.º, n.º 1, 27.º, 28.º, 31.º e 89.º a 98.º, do Decreto-Lei n.º 42641, de 12 de Novembro de 1959, equiparando-se as instituições parabancárias, para os efeitos dos citados artigos 89.º a 98.º aos bancos comerciais, no Decreto-Lei n.º 353-S/77, de 29 de Agosto, no Decreto-Lei n.º 372/77, de 5 de Setembro, no Decreto-Lei n.º 455/78, de 30 de Dezembro, e, em geral, na restante legislação que expressamente se lhes refira.
 
 2 - Nos casos omissos observar-se-ão, com as convenientes adaptações, os preceitos legais relativos às instituições de crédito e às auxiliares de créditos que não contrariem a natureza especial das instituições parabancárias.
 
@@ -157,15 +177,15 @@ Os artigos 2.º e 3.º do Decreto-Lei n.º 46302, de 27 de Abril de 1965, passam
 
 Os artigos 3.º e 11.º do Decreto-Lei n.º 729-F/75, de 22 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º As instituições de crédito sob a forma de empresa pública dispõem de um capital inicial, afectado pelo Estado, de montante não inferior ao legalmente exigido às restantes instituições de crédito do mesmo tipo.
+Art. 3.º As instituições de crédito sob a forma de empresa pública dispõem de um capital inicial, afectado pelo Estado, de montante não inferior ao legalmente exigido às restantes instituições de crédito do mesmo tipo.
 
-###### Art. 11.º O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças, de entre pessoas que satisfaçam os requisitos de idoneidade e experiência exigidos aos administradores das restantes instituições de crédito do mesmo tipo.
+Art. 11.º O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças, de entre pessoas que satisfaçam os requisitos de idoneidade e experiência exigidos aos administradores das restantes instituições de crédito do mesmo tipo.
 
 ###### Artigo 5.º — Segredo bancário
 
 É aditado um artigo 8.º ao Decreto-Lei n.º 2/78, de 9 de Janeiro, com a seguinte redacção:
 
-###### Art. 8.º - 1 - O dever de segredo abrange as pessoas que exerçam ou tenham exercido funções em entidades encarregadas da fiscalização da actividade de instituições de crédito e parabancárias, relativamente às informações recebidas de autoridades congéneres de outros Estados membros da Comunidade Económica Europeia.
+Art. 8.º - 1 - O dever de segredo abrange as pessoas que exerçam ou tenham exercido funções em entidades encarregadas da fiscalização da actividade de instituições de crédito e parabancárias, relativamente às informações recebidas de autoridades congéneres de outros Estados membros da Comunidade Económica Europeia.
 
 2 - As informações referidas no número anterior só podem ser utilizadas no âmbito de um pedido de instalação de uma instituição de crédito ou parabancária, para facilitar o controle da liquidez, da solvabilidade ou das outras condições de actividade dessas instituições, em caso de recurso administrativo ou judicial interposto contra decisões das entidades em causa, ou para efeitos de fiscalização em base consolidada de instituições de crédito com sede em Portugal.
 
@@ -177,12 +197,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 28 de Fevereiro de 1986.**
+Promulgado em 28 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Março de 1986.**
+Referendado em 4 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

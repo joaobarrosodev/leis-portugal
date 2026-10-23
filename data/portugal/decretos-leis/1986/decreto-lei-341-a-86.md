@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 232/1986, 1º Suplemento, Série I de 1986-10-08
   number: '232'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3002-(1) a 3002-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23201/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-a-1986-177661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31790fce9c8938a883b10249ffbaa73b4e4d818eee74d42bc351e41d44c618ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c52a2e8d050c5411211ccda1c27e5b00357bbcd85c2ecb7c7ef08134d98bc6af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Aquicultura
+- CEE
+- Definição de Competências
+- Feoga
+- Financiamento
+- Ifadap
+- Pesca
+- Projeto de Investimento
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:57Z'
   warnings: []
   errors: []
 ---
@@ -111,13 +126,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece os mecanismos de aplicação em Portugal das normas constantes do Regulamento (CEE) n.º [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt) e visa os projectos de investimentos destinados à reestruturação, modernização e desenvolvimento da frota de pesca e aquacultura portuguesas que sejam apresentados por pescadores individuais, cooperativas de pescadores ou empresas do sector domiciliados ou sediadas no território nacional.
+Artigo 1.º O presente diploma estabelece os mecanismos de aplicação em Portugal das normas constantes do Regulamento (CEE) n.º [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt) e visa os projectos de investimentos destinados à reestruturação, modernização e desenvolvimento da frota de pesca e aquacultura portuguesas que sejam apresentados por pescadores individuais, cooperativas de pescadores ou empresas do sector domiciliados ou sediadas no território nacional.
 
-###### Art. 2.º - 1 - Os interessados na obtenção de apoio financeiro a projectos de investimento nos termos do disposto no Regulamento (CEE) n.º [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt) e nos programas referentes à reestruturação, modernização e desenvolvimento da frota de pesca e aquacultura portuguesas que reúnam os requisitos necessários devem apresentar esses projectos para apreciação no Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, abreviadamente designado por IFADAP, devidamente licenciados pelos organismos competentes do Ministério da Agricultura, Pescas e Alimentação.
+Art. 2.º - 1 - Os interessados na obtenção de apoio financeiro a projectos de investimento nos termos do disposto no Regulamento (CEE) n.º [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt) e nos programas referentes à reestruturação, modernização e desenvolvimento da frota de pesca e aquacultura portuguesas que reúnam os requisitos necessários devem apresentar esses projectos para apreciação no Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, abreviadamente designado por IFADAP, devidamente licenciados pelos organismos competentes do Ministério da Agricultura, Pescas e Alimentação.
 
 2 - Os projectos deverão conter a identificação completa da pessoa devidamente qualificada, que poderá ser o próprio, interessado ou um seu representante, que se constituirá interlocutor exclusivo do IFADAP e serviços competentes do Ministério da Agricultura, Pescas e Alimentação no decurso da análise e tratamento dos projectos.
 
-###### Art. 3.º - 1 - Compete ao IFADAP:
+Art. 3.º - 1 - Compete ao IFADAP:
 
 a) Proceder à recepção dos projectos, após terem satisfeito os requisitos das entidades licenciadoras, e promover a respectiva análise;
 
@@ -139,35 +154,35 @@ d) Acompanhar, em colaboração com os organismos competentes do Ministério da 
 
 7 - Mediante despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação será fixada a remuneração da prestação de serviço do IFADAP prevista no n.º 1 deste artigo, com referência ao montante global das participações comunitária e do Estado no financiamento de cada projecto.
 
-###### Art. 4.º - 1 - Compete à Direcção-Geral das Pescas ou à Direcção-Geral das Florestas, na área das respectivas competências, emitir parecer sobre todos os projectos que apresentarem a sua candidatura para apoio financeiro do FEOGA - Secção Orientação e lhes tenham sido remetidos pelo IFADAP, nos termos do n.º 3 do artigo anterior.
+Art. 4.º - 1 - Compete à Direcção-Geral das Pescas ou à Direcção-Geral das Florestas, na área das respectivas competências, emitir parecer sobre todos os projectos que apresentarem a sua candidatura para apoio financeiro do FEOGA - Secção Orientação e lhes tenham sido remetidos pelo IFADAP, nos termos do n.º 3 do artigo anterior.
 
 2 - O parecer referido no número anterior deverá ser dado no prazo de vinte dias úteis a contar da recepção dos projectos e conter a respectiva apreciação técnica, nomeadamente quanto ao enquadramento nos programas e quanto ao preenchimento dos requisitos previstos no Regulamento (CEE) n.º [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt).
 
 3 - Decorrido o prazo previsto no número anterior, considera-se, no caso de não emissão de parecer, que este foi tacitamente formulado no sentido da aprovação.
 
-###### Art. 5.º O Ministro da Agricultura, Pescas e Alimentação aprovará em definitivo os projectos cuja candidatura a apoio financeiro do FEOGA - Secção Orientação mereça ser apresentada, após o que serão remetidos à Comissão das Comunidades Europeias para esse efeito.
+Art. 5.º O Ministro da Agricultura, Pescas e Alimentação aprovará em definitivo os projectos cuja candidatura a apoio financeiro do FEOGA - Secção Orientação mereça ser apresentada, após o que serão remetidos à Comissão das Comunidades Europeias para esse efeito.
 
-###### Art. 6.º - 1 - Todos os projectos que mereçam a concessão de apoio financeiro através do FEOGA - Secção Orientação terão assegurada a atribuição de subsídios pelo Estado Português, nos termos do artigo seguinte.
+Art. 6.º - 1 - Todos os projectos que mereçam a concessão de apoio financeiro através do FEOGA - Secção Orientação terão assegurada a atribuição de subsídios pelo Estado Português, nos termos do artigo seguinte.
 
 2 - Poderão ainda tais projectos beneficiar de crédito não bonificado ao abrigo do Sistema de Financiamento à Agricultura e Pescas (SIFAP).
 
-###### Art. 7.º As taxas de comparticipação financeira nacional nos custos da execução dos projectos que mereçam a concessão de apoio financeiro do FEOGA - Secção Orientação são variáveis, consoante o tipo de projecto, e são fixadas por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 7.º As taxas de comparticipação financeira nacional nos custos da execução dos projectos que mereçam a concessão de apoio financeiro do FEOGA - Secção Orientação são variáveis, consoante o tipo de projecto, e são fixadas por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 8.º Os projectos que, apesar de reunirem todos os requisitos previstos no Regulamento (CEE) n.º [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt) e de serem aprovados nos termos do artigo 5.º, não beneficiarem de apoio financeiro do FEOGA - Secção Orientação poderão ser subsidiados, através do IFADAP, com comparticipações financeiras cuja taxa será fixada por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 8.º Os projectos que, apesar de reunirem todos os requisitos previstos no Regulamento (CEE) n.º [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt) e de serem aprovados nos termos do artigo 5.º, não beneficiarem de apoio financeiro do FEOGA - Secção Orientação poderão ser subsidiados, através do IFADAP, com comparticipações financeiras cuja taxa será fixada por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 9.º Os projectos que, embora enquadráveis nos apoios financeiros do FEOGA - Secção Orientação, venham a ser, no entanto, recusados por razões, nomeadamente, de natureza orçamental e bem assim aqueles que não se enquadrem nos condicionalismos previstos para a concessão daqueles apoios financeiros poderão beneficiar de crédito bonificado, nas condições do Sistema de Financiamento à Agricultura e Pescas (SIFAP).
+Art. 9.º Os projectos que, embora enquadráveis nos apoios financeiros do FEOGA - Secção Orientação, venham a ser, no entanto, recusados por razões, nomeadamente, de natureza orçamental e bem assim aqueles que não se enquadrem nos condicionalismos previstos para a concessão daqueles apoios financeiros poderão beneficiar de crédito bonificado, nas condições do Sistema de Financiamento à Agricultura e Pescas (SIFAP).
 
-###### Art. 10.º Todos os investidores que apresentem projectos candidatos a subsídios comunitários e ou nacionais, incluindo o crédito bonificado, deverão demonstrar perante o IFADAP o exercício da actividade da pesca, através de declaração passada pelo Serviço de Lotas e Vendagem sobre o produto total da venda do pescado em lota de cada um dos seus navios no ano anterior àquele em que é apresentado o projecto.
+Art. 10.º Todos os investidores que apresentem projectos candidatos a subsídios comunitários e ou nacionais, incluindo o crédito bonificado, deverão demonstrar perante o IFADAP o exercício da actividade da pesca, através de declaração passada pelo Serviço de Lotas e Vendagem sobre o produto total da venda do pescado em lota de cada um dos seus navios no ano anterior àquele em que é apresentado o projecto.
 
-###### Art. 11.º - 1 - O pagamento aos beneficiários das quantias correspondentes às participações do Estado Português será efectuado pelo IFADAP proporcionalmente à utilização da componente de capitais próprios.
+Art. 11.º - 1 - O pagamento aos beneficiários das quantias correspondentes às participações do Estado Português será efectuado pelo IFADAP proporcionalmente à utilização da componente de capitais próprios.
 
 2 - Os relatórios dos beneficiários sobre os resultados financeiros dos projectos são apresentados ao IFADAP, que os transmite imediatamente à Comissão das Comunidades Europeias.
 
-###### Art. 12.º - 1 - Os projectos que venham a beneficiar de apoio financeiro do FEOGA - Secção Orientação e que, antes de apresentarem a sua candidatura a esse apoio, já tivessem obtido subsídios por parte do Estado Português não podem obter taxas de comparticipação financeira nacional superiores às que vierem a ser fixadas nos termos do artigo 7.º
+Art. 12.º - 1 - Os projectos que venham a beneficiar de apoio financeiro do FEOGA - Secção Orientação e que, antes de apresentarem a sua candidatura a esse apoio, já tivessem obtido subsídios por parte do Estado Português não podem obter taxas de comparticipação financeira nacional superiores às que vierem a ser fixadas nos termos do artigo 7.º
 
 2 - No caso de os subsídios nacionais já efectivamente concedidos, quer a fundo perdido, quer sob a forma de crédito bonificado, serem superiores aos que resultariam da aplicação das taxas que vierem a ser fixadas nos termos do artigo 7.º, o IFADAP, ao pagar a primeira prestação do financiamento concedido pelo FEOGA - Secção Orientação, assegurará o reembolso da diferença entre o montante dos subsídios já efectivamente concedidos pelo Estado Português e o montante dos subsídios aplicáveis de acordo com as taxas referidas.
 
-###### Art. 13.º - 1 - A atribuição das ajudas aos beneficiários é feita ao abrigo de contratos celebrados com o IFADAP dos quais constem todas as obrigações de cada uma das partes.
+Art. 13.º - 1 - A atribuição das ajudas aos beneficiários é feita ao abrigo de contratos celebrados com o IFADAP dos quais constem todas as obrigações de cada uma das partes.
 
 2 - É atribuída ao IFADAP, em caso de incumprimento pelos beneficiários de qualquer das suas obrigações, a faculdade de modificar ou rescindir unilateralmente os contratos, de acordo com a decisão que a esse respeito for tomada pela Comissão das Comunidades Europeias quanto à ajuda do FEOGA - Secção Orientação.
 
@@ -175,26 +190,26 @@ d) Acompanhar, em colaboração com os organismos competentes do Ministério da 
 
 4 - Verificada a situação prevista no número anterior, constitui-se o beneficiário na obrigação de pagar ao IFADAP os encargos resultantes do acompanhamento da execução do projecto e as despesas extrajudiciais para cobrança do montante devido, fixando-se esta obrigação no montante correspondente a uma percentagem do valor total do investimento projectado, a fixar por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 14.º - 1 - Constituem título executivo as certidões de dívida emitidas pelo IFADAP nas quais se discriminem as importâncias devidas pelos beneficiários, indicando-se as que correspondem à ajuda do FEOGA - Secção Orientação e aquelas que respeitam à ajuda do Estado Português.
+Art. 14.º - 1 - Constituem título executivo as certidões de dívida emitidas pelo IFADAP nas quais se discriminem as importâncias devidas pelos beneficiários, indicando-se as que correspondem à ajuda do FEOGA - Secção Orientação e aquelas que respeitam à ajuda do Estado Português.
 
 2 - As execuções instauradas pelo IFADAP, para as quais é sempre competente o foro cível da comarca de Lisboa, iniciam-se pela penhora, independentemente de citação dos executados.
 
-###### Art. 15.º É concedida ao IFADAP a isenção de custas e de pagamento de preparos nos processos judiciais em que seja interveniente.
+Art. 15.º É concedida ao IFADAP a isenção de custas e de pagamento de preparos nos processos judiciais em que seja interveniente.
 
-###### Art. 16.º - 1 - O IFADAP comunicará às repartições de finanças pelas quais sejam tributados o beneficiário ou o respectivo fornecedor o montante pecuário despendido, a título de despesas, em resultado da execução dos projectos.
+Art. 16.º - 1 - O IFADAP comunicará às repartições de finanças pelas quais sejam tributados o beneficiário ou o respectivo fornecedor o montante pecuário despendido, a título de despesas, em resultado da execução dos projectos.
 
 2 - Sempre que as despesas estejam sujeitas a IVA, o IFADAP procederá à comunicação do facto à Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 17.º Nas Regiões Autónomas da Madeira e dos Açores as competências atribuídas no presente diploma aos Ministros das Finanças e da Agricultura, Pescas e Alimentação, à Direcção-Geral das Pescas e à Direcção-Geral das Florestas serão exercidas pelos órgãos de governo próprio da respectiva região autónoma.
+Art. 17.º Nas Regiões Autónomas da Madeira e dos Açores as competências atribuídas no presente diploma aos Ministros das Finanças e da Agricultura, Pescas e Alimentação, à Direcção-Geral das Pescas e à Direcção-Geral das Florestas serão exercidas pelos órgãos de governo próprio da respectiva região autónoma.
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Manuel Carlos Carvalho Fernandes.
 
-**Promulgado em 6 de Outubro de 1986.**
+Promulgado em 6 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1986.**
+Referendado em 7 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

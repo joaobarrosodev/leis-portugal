@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22600/28272828.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1986-221700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d189a621eb0a82ef7d2f000c61f5247ff7602877f7e10a4cc3b4f8ee76bcde08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae3b8eb98f2d3ad5b81296d09b5aa3aeccd0d97a36ac9d7ddcee822134f00875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Qualidade Alimentar
+- Instituto do Azeite e Produtos Oleaginosos
+- Integração de Trabalhadores
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:212464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676052:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:46Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +134,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para o Instituto de Qualidade Alimentar, abreviadamente designado por IQA, do Ministério da Agricultura, Pescas e Alimentação, as atribuições e competências cometidas ao Instituto do Azeite e Produtos Oleaginosos, abreviadamente designado por IAPO, pelos seguintes diplomas legais:
+Artigo 1.º São transferidas para o Instituto de Qualidade Alimentar, abreviadamente designado por IQA, do Ministério da Agricultura, Pescas e Alimentação, as atribuições e competências cometidas ao Instituto do Azeite e Produtos Oleaginosos, abreviadamente designado por IAPO, pelos seguintes diplomas legais:
 
 a) Artigo 6.º do [Decreto-Lei n.º 28556](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28556-1938-229341), de 30 de Março de 1938;
 
@@ -107,26 +144,26 @@ c) Alínea n) do n.º 1 do artigo 3.º do citado decreto-lei, no que se refere a
 
 d) Artigo 16.º do mesmo decreto-lei, no que se refere aos serviços laboratoriais indicados no artigo 2.º do presente diploma.
 
-###### Art. 2.º São transferidos igualmente para o IQA os serviços laboratoriais do IAPO designados por Laboratório de Produtos Industriais e Laboratório de Produtos Alimentares.
+Art. 2.º São transferidos igualmente para o IQA os serviços laboratoriais do IAPO designados por Laboratório de Produtos Industriais e Laboratório de Produtos Alimentares.
 
-###### Art. 3.º - 1 - O pessoal afecto aos serviços laboratoriais do IAPO ou do organismo que o substitua referidos no artigo anterior transita para o IQA, em regime de destacamento, até à sua integração no quadro do IQA.
+Art. 3.º - 1 - O pessoal afecto aos serviços laboratoriais do IAPO ou do organismo que o substitua referidos no artigo anterior transita para o IQA, em regime de destacamento, até à sua integração no quadro do IQA.
 
 2 - Para efeito do disposto nos artigos anteriores, o director do IQA apresentará, no prazo de 60 dias, um projecto de alteração do [Decreto Regulamentar n.º 22/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1984-662097), de 13 de Março, por forma a adequar a estrutura do IQA às novas atribuições previstas no artigo 1.º deste diploma, bem como a permitir a integração do pessoal referido no número anterior no seu quadro, que será acrescido dos lugares necessários à aplicação do presente decreto-lei.
 
-###### Art. 4.º O IQA assegurará ao IAPO ou ao Organismo que o substitua apoio técnico e laboratorial indispensável à prossecução das atribuições que lhe estão cometidas por lei ou que lhe venham e ser determinadas, mediante protocolo a estabelecer entre os dois organismos, enquanto tal medida legalmente se justifique.
+Art. 4.º O IQA assegurará ao IAPO ou ao Organismo que o substitua apoio técnico e laboratorial indispensável à prossecução das atribuições que lhe estão cometidas por lei ou que lhe venham e ser determinadas, mediante protocolo a estabelecer entre os dois organismos, enquanto tal medida legalmente se justifique.
 
-###### Art. 5.º Mediante despacho do Ministro da Agricultura, Pescas e Alimentação, será definido o modo da transferência dos serviços laboratoriais referidos no artigo 2.º, com indicação, designadamente, dos meios materiais, do pessoal abrangido pelo disposto no artigo 3.º, da data em que se procederá à transferência.
+Art. 5.º Mediante despacho do Ministro da Agricultura, Pescas e Alimentação, será definido o modo da transferência dos serviços laboratoriais referidos no artigo 2.º, com indicação, designadamente, dos meios materiais, do pessoal abrangido pelo disposto no artigo 3.º, da data em que se procederá à transferência.
 
-###### Art. 6.º É revogado o [Decreto-Lei n.º 348/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1978-325911), de 20 de Novembro, passando a aplicar-se às análises de recurso relativas ao azeite e outros óleos comestíveis o regime geral do [Decreto n.º 19615](https://diariodarepublica.pt/dr/detalhe/decreto/19615-1931-212464), de 18 de Abril de 1931.
+Art. 6.º É revogado o [Decreto-Lei n.º 348/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1978-325911), de 20 de Novembro, passando a aplicar-se às análises de recurso relativas ao azeite e outros óleos comestíveis o regime geral do [Decreto n.º 19615](https://diariodarepublica.pt/dr/detalhe/decreto/19615-1931-212464), de 18 de Abril de 1931.
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 8 de Setembro de 1986.**
+Promulgado em 8 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

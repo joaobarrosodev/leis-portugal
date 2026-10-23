@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1986-210616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90458aa439618414dbc4eaca5a54c39153879b18cb71bd7ccab56b3b2786bf00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53a94a85680c4a93872047c4bcb2902f93e864fcf92187a6feeb730e33512d9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Pensão de Reforma
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:16Z'
   warnings: []
   errors: []
 ---
@@ -92,23 +98,23 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As pensões devidas ao pessoal da Polícia de Segurança Pública (PSP) com funções policiais na situação de aposentação serão, até atingir 70 anos de idade, actualizadas em percentagem igual à verificada relativamente ao aumento do vencimento que auferiria caso se mantivesse ao serviço no mesmo posto ou graduação, desde que os interessados declarem estar disponíveis para prestar serviço nos termos do artigo 3.º deste diploma.
+Artigo 1.º - 1 - As pensões devidas ao pessoal da Polícia de Segurança Pública (PSP) com funções policiais na situação de aposentação serão, até atingir 70 anos de idade, actualizadas em percentagem igual à verificada relativamente ao aumento do vencimento que auferiria caso se mantivesse ao serviço no mesmo posto ou graduação, desde que os interessados declarem estar disponíveis para prestar serviço nos termos do artigo 3.º deste diploma.
 
 2 - O disposto no número anterior aplica-se às diuturnidades e demais abonos.
 
 3 - O pagamento das pensões continuará a ser efectuado pela Caixa Geral de Aposentações.
 
-###### Art. 2.º - 1 - Sem prejuízo da actualização prevista nos n.os 1 e 2 do artigo 1.º, a pensão de aposentação do pessoal da PSP com funções policiais que à data da entrada em vigor do presente diploma se encontre na situação de aposentação e não tenha ainda atingido 70 anos de idade será recalculada tomando por base o vencimento, diuturnidades e demais abonos que presentemente correspondem ao posto ou graduação com que se aposentou, observado o disposto no artigo 53.º do Estatuto da Aposentação.
+Art. 2.º - 1 - Sem prejuízo da actualização prevista nos n.os 1 e 2 do artigo 1.º, a pensão de aposentação do pessoal da PSP com funções policiais que à data da entrada em vigor do presente diploma se encontre na situação de aposentação e não tenha ainda atingido 70 anos de idade será recalculada tomando por base o vencimento, diuturnidades e demais abonos que presentemente correspondem ao posto ou graduação com que se aposentou, observado o disposto no artigo 53.º do Estatuto da Aposentação.
 
 2 - O disposto no número anterior não dá lugar a qualquer pagamento respeitante ao tempo decorrido desde a passagem à situação de aposentação até à data da entrada em vigor do presente diploma.
 
-###### Art. 3.º - 1 - Ao pessoal referido nos artigos anteriores poderá, em termos a regulamentar por portaria do Ministro da Administração Interna, ser interrompida a situação de aposentação, transitando, em consequência, para os quadros da PSP, como adido, a fim de exercer funções compatíveis com o seu estado físico e psíquico, não lhe devendo ser concedidas funções de comando.
+Art. 3.º - 1 - Ao pessoal referido nos artigos anteriores poderá, em termos a regulamentar por portaria do Ministro da Administração Interna, ser interrompida a situação de aposentação, transitando, em consequência, para os quadros da PSP, como adido, a fim de exercer funções compatíveis com o seu estado físico e psíquico, não lhe devendo ser concedidas funções de comando.
 
 2 - A aplicação do disposto no número anterior determinará a suspensão do pagamento da respectiva pensão por parte da Caixa Geral de Aposentações e, em contrapartida, o pagamento pela PSP do vencimento, diuturnidades e demais abonos auferidos em função do posto ou graduação do adido.
 
 3 - A recusa do exercício das funções referidas no n.º 1 determina a imediata inaplicabilidade ao interessado do estipulado nos n.os 1 e 2 do artigo 1.º
 
-###### Art. 4.º - 1 - Com a cessação da situação prevista no artigo 3.º reinicia-se o pagamento da pensão de aposentação por parte da Caixa Geral de Aposentações.
+Art. 4.º - 1 - Com a cessação da situação prevista no artigo 3.º reinicia-se o pagamento da pensão de aposentação por parte da Caixa Geral de Aposentações.
 
 2 - A pensão referida no número anterior será recalculada em função:
 
@@ -118,18 +124,18 @@ b) Do tempo de serviço prestado nos termos do artigo 3.º
 
 3 - Em caso de falecimento dos interessados antes de perfazerem 70 anos de idade, a pensão de sobrevivência a atribuir a eventuais herdeiros hábeis terá por base a pensão de aposentação calculada nos termos do número anterior, com as remunerações relevantes em vigor na data do óbito.
 
-###### Art. 5.º - 1 - O presente diploma entra em vigor em 1 de Janeiro de 1987.
+Art. 5.º - 1 - O presente diploma entra em vigor em 1 de Janeiro de 1987.
 
 2 - A suspensão da situação de aposentado e a consequente transição para os quadros da PSP, como adido, produzirão efeitos a partir do dia 1 do mês seguinte àquele em que se completem 60 dias sobre a data da comunicação à Caixa Geral de Aposentações.
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro, de 1986.**
+Referendado em 10 de Dezembro, de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

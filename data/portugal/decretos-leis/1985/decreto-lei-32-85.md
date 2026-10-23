@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/02300/02220225.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9356655ed294ca00d0c63ad58d015dfa07b6409fb7e8ed2fdee5f9a78c73bdbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc633ac3997924eda428a5d4f83225bd25b08db27a2bd3807a08b066e765d9bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Conservatória do Registo Comercial
+- Definição de Competências
+- Registo Comercial
+- Registo Nacional de Pessoas Coletivas
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462065:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:610474:por
+  label: "Revogados os arts. 1º e 3º a 11º, pelo DEC LEI.42/89.1989.02.03.MJ, DR.IS [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1989-610474
+  date: '1989-02-03'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:00Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +152,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A inscrição de actos ou factos jurídicos no Registo Nacional de Pessoas Colectivas pode ser requerida através das conservatórias do registo comercial.
+Artigo 1.º - 1 - A inscrição de actos ou factos jurídicos no Registo Nacional de Pessoas Colectivas pode ser requerida através das conservatórias do registo comercial.
 
 2 - O requerimento de inscrição no Registo Nacional de Pessoas Colectivas de actos ou factos jurídicos também sujeitos a registo comercial é efectuado no mesmo impresso, de modelo aprovado por portaria do Ministro da Justiça, nos termos do artigo 74.º do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março.
 
 3 - A partir da data de entrada em vigor da portaria a que se refere o número anterior, o pedido de inscrição no Registo Nacional de Pessoas Colectivas e de registo comercial dos actos e factos jurídicos a este sujeitos, bem como o pedido de emissão de cartão de identificação definitivo das sociedades comerciais, serão efectuados no mesmo acto junto da conservatória do registo comercial competente.
 
-###### Art. 2.º Enquanto delegações do Registo Nacional de Pessoas Colectivas, cabe ainda às conservatórias do registo comercial, à excepção da de Lisboa, aceitar:
+Art. 2.º Enquanto delegações do Registo Nacional de Pessoas Colectivas, cabe ainda às conservatórias do registo comercial, à excepção da de Lisboa, aceitar:
 
 a) Requerimentos de certificados de admissibilidade de firmas e denominações, da sua renovação ou invalidade, e de 2.ª via;
 
@@ -126,9 +166,9 @@ b) Pedidos de inscrição no Registo Nacional de Pessoas Colectivas de actos ou 
 
 c) Pedidos de emissão de cartão de identificação de pessoa colectiva ou entidade equiparada, definitivo ou provisório, da sua renovação ou actualização, e de 2.as vias.
 
-###### Art. 3.º Os artigos 2.º, 21.º, 23.º, 31.º, 34.º, 55.º, 57.º e 61.º do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 2.º, 21.º, 23.º, 31.º, 34.º, 55.º, 57.º e 61.º do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março, passam a ter a seguinte redacção:
 
-###### Art. 2.º Para os efeitos do presente diploma, consideram-se entidades equiparadas a pessoas colectivas.
+Art. 2.º Para os efeitos do presente diploma, consideram-se entidades equiparadas a pessoas colectivas.
 
 a) As entidades que, prosseguindo objectivos próprios e actividades diferenciadas das dos seus sócios ou membros, não sejam dotadas de personalidade jurídica;
 
@@ -140,13 +180,13 @@ d) As heranças jacentes e as indivisas, quando o autor da sucessão fosse empre
 
 e) Os empresários em nome individual.
 
-###### Art. 21.º As cópias dos registos informáticos emanadas do Registo Nacional de Pessoas Colectivas é conferido, quando devidamente autenticadas, o valor jurídico que a lei atribui às certidões.
+Art. 21.º As cópias dos registos informáticos emanadas do Registo Nacional de Pessoas Colectivas é conferido, quando devidamente autenticadas, o valor jurídico que a lei atribui às certidões.
 
-###### Art. 23.º - 1 - Estão obrigadas a requerer a sua inscrição no Registo Nacional de Pessoas Colectivas as entidades referidas no artigo 5.º do presente diploma.
+Art. 23.º - 1 - Estão obrigadas a requerer a sua inscrição no Registo Nacional de Pessoas Colectivas as entidades referidas no artigo 5.º do presente diploma.
 
 2 - O pedido de inscrição das entidades sujeitas a registo comercial efectua-se em simultâneo com o requerimento deste, mediante o preenchimento do modelo de impresso aprovado nos termos do artigo 74.º
 
-###### Art. 31.º - 1 - As pessoas colectivas devem inscrever-se definitivamente no Registo Nacional de Pessoas Colectivas no prazo de 3 meses após o completamento das formalidades legais de constituição, salvo o disposto no n.º 2 do artigo 23.º do presente diploma.
+Art. 31.º - 1 - As pessoas colectivas devem inscrever-se definitivamente no Registo Nacional de Pessoas Colectivas no prazo de 3 meses após o completamento das formalidades legais de constituição, salvo o disposto no n.º 2 do artigo 23.º do presente diploma.
 
 2 - ...
 
@@ -156,9 +196,9 @@ e) Os empresários em nome individual.
 
 5 - As representações de entidades estrangeiras ou internacionais devem inscrever-se no prazo de 3 meses após o início das suas actividades em Portugal, ressalvados os casos abrangidos pelo n.º 2 do artigo 23.º do presente decreto-lei.
 
-###### Art. 34.º - 1 - Os serviços públicos por onde corra o expediente relativo à aprovação dos estatutos de pessoas colectivas a quem caiba receber a participação escrita da constituição de pessoas colectivas religiosas ou proceder ao registo de quaisquer pessoas colectivas são obrigados a comunicar ao Registo Nacional de Pessoas Colectivas, no prazo de 30 dias, os actos respeitantes à constituição, cisão, fusão, transformação, modificação ou dissolução de pessoas colectivas.
+Art. 34.º - 1 - Os serviços públicos por onde corra o expediente relativo à aprovação dos estatutos de pessoas colectivas a quem caiba receber a participação escrita da constituição de pessoas colectivas religiosas ou proceder ao registo de quaisquer pessoas colectivas são obrigados a comunicar ao Registo Nacional de Pessoas Colectivas, no prazo de 30 dias, os actos respeitantes à constituição, cisão, fusão, transformação, modificação ou dissolução de pessoas colectivas.
 
-###### Art. 55.º - 1 - ...
+Art. 55.º - 1 - ...
 
 2 - ...
 
@@ -168,7 +208,7 @@ e) Os empresários em nome individual.
 
 2 - A atribuição de cartão de identificação a entidades sujeitas a registo comercial é requerida no modelo de impresso previsto no n.º 2 do artigo 23.º
 
-###### Art. 61.º - 1 - ...
+Art. 61.º - 1 - ...
 
 2 - ...
 
@@ -176,9 +216,9 @@ e) Os empresários em nome individual.
 
 4 - O cartão provisório de identificação caduca decorridos 6 meses após a sua emissão.
 
-###### Art. 4.º Os artigos 2.º, 3.º, 6.º, 8.º, 26.º, 27.º, 29.º, 31.º, 32.º, 35.º, 36.º, 37.º, 42.º, 45.º, 49.º e 50.º do [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 2.º, 3.º, 6.º, 8.º, 26.º, 27.º, 29.º, 31.º, 32.º, 35.º, 36.º, 37.º, 42.º, 45.º, 49.º e 50.º do [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
@@ -188,7 +228,7 @@ e) Os empresários em nome individual.
 
 5 - Os elementos característicos constituídos por fantasias, siglas ou composições não podem sugerir actividade diferente da que constitui o objecto social.
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - No juízo sobre a confundibilidade quer das firmas e denominações quer dos seus elementos característicos serão tidas em conta as actividades contidas no objecto social.
 
@@ -196,13 +236,13 @@ e) Os empresários em nome individual.
 
 4 - A actividade secundária resultante da participação no capital de outras entidades não é considerada actividade autónoma para os efeitos do número anterior.
 
-###### Art. 6.º O direito à exclusividade da firma ou denominação só se radica em definitivo na esfera da pessoa colectiva após sua inscrição definitiva no Registo Nacional de Pessoas Colectivas.
+Art. 6.º O direito à exclusividade da firma ou denominação só se radica em definitivo na esfera da pessoa colectiva após sua inscrição definitiva no Registo Nacional de Pessoas Colectivas.
 
 2 - ...
 
 3 - ...
 
-###### Art. 8.º - 1 - Os dizeres das firmas e denominações devem ser correctamente redigidos em língua portuguesa.
+Art. 8.º - 1 - Os dizeres das firmas e denominações devem ser correctamente redigidos em língua portuguesa.
 
 2 - Do disposto no número anterior exceptua-se o uso de palavras ou de parte de palavras estrangeiras ou de feição estrangeira quando:
 
@@ -228,17 +268,17 @@ b) Composições que se identifiquem morfológica ou foneticamente com palavras 
 
 4 - O uso de palavras estrangeiras ou de feição estrangeira está sujeito a emolumentos agravados nos termos da tabela respectiva.
 
-###### Art. 26.º - 1 - Não podem ser realizados registos de inscrição constituição de pessoas colectivas ou de modificação da firma ou denominação com base em escrituras públicas celebradas há mais de 1 ano, salvo se for exibido certificado de admissibilidade válido para efeitos desse registo.
+Art. 26.º - 1 - Não podem ser realizados registos de inscrição constituição de pessoas colectivas ou de modificação da firma ou denominação com base em escrituras públicas celebradas há mais de 1 ano, salvo se for exibido certificado de admissibilidade válido para efeitos desse registo.
 
 2 - Igualmente não podem ser dos os registos a que se refere o número anterior se os títulos constitutivos não respeitarem a firma ou denominação, o objecto social ou as condições constantes do certificado de admissibilidade de firma ou denominação e, bem assim, se na constituição da pessoa colectiva não tiverem participado os requerentes do certificado.
 
-###### Art. 27.º - 1 - ...
+Art. 27.º - 1 - ...
 
 2 - ...
 
 3 - A emissão do certificado referido no n.º 1 não envolve qualquer juízo sobre o mérito do pedido de registo do nome de estabelecimento.
 
-###### Art. 29.º O certificado é requerido em impresso próprio, de que deve constar:
+Art. 29.º O certificado é requerido em impresso próprio, de que deve constar:
 
 a) A identificação dos constituintes;
 
@@ -252,47 +292,47 @@ d) ...
 
 e) ...
 
-###### Art. 31.º O pedido de certificado deve ser formulado, por todos os constituintes, se não forem mais de 3; por 3 de entre eles, se excederem este número.
+Art. 31.º O pedido de certificado deve ser formulado, por todos os constituintes, se não forem mais de 3; por 3 de entre eles, se excederem este número.
 
-###### Art. 32.º Os pedidos de certificado de admissibilidade devem ser assinados pelos próprios constituintes ou por outrem a seu rogo, mandato ou em sua representação.
+Art. 32.º Os pedidos de certificado de admissibilidade devem ser assinados pelos próprios constituintes ou por outrem a seu rogo, mandato ou em sua representação.
 
-###### Art. 35.º - 1 - ...
+Art. 35.º - 1 - ...
 
 2 - O certificado pode ser renovado por duas vezes se tal for requerido dentro do seu prazo de validade.
 
 3 - A renovação é solicitada pelos constituintes em impresso próprio.
 
-###### Art. 36.º - 1 - ...
+Art. 36.º - 1 - ...
 
 2 - A validade do certificado pode igualmente ser restringida à verificação das condições nele expressas ou a um determinado montante de capital social nos casos em que a denominação sugira uma capacidade financeira importante.
 
-###### Art. 37.º - 1 - A validade e eficácia do certificado de admissibilidade de firma ou denominação requerido por menos de 3 pessoas está dependente do facto de todas elas, e só elas, fazerem parte como sócios ou membros da pessoa colectiva a constituir ou a modificar.
+Art. 37.º - 1 - A validade e eficácia do certificado de admissibilidade de firma ou denominação requerido por menos de 3 pessoas está dependente do facto de todas elas, e só elas, fazerem parte como sócios ou membros da pessoa colectiva a constituir ou a modificar.
 
 2 - A validade e eficácia do certificado de admissibilidade da firma ou denominação requerido por 3 pessoas está dependente do facto de todas elas fazerem parte da pessoa colectiva a constituir ou a modificar.
 
-###### Art. 42.º Se os requerentes de invalidade de certificado não puderem demonstrar a ocorrência dos factos referidos no artigo 40.º a invalidade pode ser concedida se os motivos alegados forem considerados pertinentes.
+Art. 42.º Se os requerentes de invalidade de certificado não puderem demonstrar a ocorrência dos factos referidos no artigo 40.º a invalidade pode ser concedida se os motivos alegados forem considerados pertinentes.
 
-###### Art. 45.º A reclamação deve ser feita em impresso próprio, no prazo de 60 dias após a recepção do ofício notificador ou, nos casos em que o acto reclamado não deu lugar a ofício, após a sua verificação.
+Art. 45.º A reclamação deve ser feita em impresso próprio, no prazo de 60 dias após a recepção do ofício notificador ou, nos casos em que o acto reclamado não deu lugar a ofício, após a sua verificação.
 
-###### Art. 49.º - 1 - ...
+Art. 49.º - 1 - ...
 
 2 - Os recursos referidos no número anterior não podem ser apresentados sem que tenha sido dirigida pelos interessados ao director-geral do Registo Nacional de Pessoas Colectivas reclamação nos termos dos artigos 44.º e seguintes.
 
-###### Art. 50.º O recurso deve ser interposto no prazo de 3 meses a contar da data do despacho de indeferimento da reclamação.
+Art. 50.º O recurso deve ser interposto no prazo de 3 meses a contar da data do despacho de indeferimento da reclamação.
 
-###### Art. 5.º - 1 - A modificação de firma ou denominação implica a necessidade de no certificado de admissibilidade da nova firma ou denominação e no instrumento de modificação do título constitutivo constar o objecto social em função do qual foi certificada a admissibilidade da nova firma ou denominação.
+Art. 5.º - 1 - A modificação de firma ou denominação implica a necessidade de no certificado de admissibilidade da nova firma ou denominação e no instrumento de modificação do título constitutivo constar o objecto social em função do qual foi certificada a admissibilidade da nova firma ou denominação.
 
 2 - A publicação integral do pacto social, por ocasião de modificação do título constitutivo, obriga a que as cláusulas publicadas estejam de harmonia com a legislação em vigor na data da publicação e à prévia exibição de certificado de admissibilidade da firma ou denominação com indicação de um objecto social específico.
 
-###### Art. 6.º Passa a ser de 3 meses o prazo referido no artigo 31.º do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março, e de 30 dias os prazos referidos nos n.os 1 e 2 do artigo 52.º do [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro.
+Art. 6.º Passa a ser de 3 meses o prazo referido no artigo 31.º do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março, e de 30 dias os prazos referidos nos n.os 1 e 2 do artigo 52.º do [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro.
 
-###### Art. 7.º - 1 - Não podem ser efectuados registos definitivos referentes a quaisquer entidades sujeitas a inscrição no Registo Nacional de Pessoas Colectivas sem que seja efectuada a prova da aceitação neste da inscrição definitiva.
+Art. 7.º - 1 - Não podem ser efectuados registos definitivos referentes a quaisquer entidades sujeitas a inscrição no Registo Nacional de Pessoas Colectivas sem que seja efectuada a prova da aceitação neste da inscrição definitiva.
 
 2 - A aceitação da inscrição definitiva de actos ou factos jurídicos sujeitos a registo comercial será oficiosamente comunicada pelo Registo Nacional de Pessoas Colectivas à conservatória do registo comercial competente.
 
-###### Art. 8.º O artigo 27.º do Regulamento do Registo Comercial, aprovado pelo [Decreto n.º 42645](https://diariodarepublica.pt/dr/detalhe/decreto/42645-1959-438928), de 14 de Novembro de 1959, passa a ter a seguinte redacção:
+Art. 8.º O artigo 27.º do Regulamento do Registo Comercial, aprovado pelo [Decreto n.º 42645](https://diariodarepublica.pt/dr/detalhe/decreto/42645-1959-438928), de 14 de Novembro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 27.º - 1 - ...
+Art. 27.º - 1 - ...
 
 2 - ...
 
@@ -302,27 +342,27 @@ e) ...
 
 5 - O requerimento de actos ou factos jurídicos também sujeitos a inscrição no Registo Nacional de Pessoas Colectivas é efectuado em impresso próprio.
 
-###### Art. 9.º O disposto nos artigos 44.º a 46.º e 47.º a 56.º do [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro, é aplicável aos despachos que recusem ou admitam a inscrição definitiva de pessoas colectivas e entidades equiparadas no Registo Nacional de Pessoas Colectivas.
+Art. 9.º O disposto nos artigos 44.º a 46.º e 47.º a 56.º do [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro, é aplicável aos despachos que recusem ou admitam a inscrição definitiva de pessoas colectivas e entidades equiparadas no Registo Nacional de Pessoas Colectivas.
 
-###### Art. 10.º Os impressos exclusivos do Registo Nacional de Pessoas Colectivas podem ser obtidos não só nos seus serviços de apoio como também nas conservatórias do registo comercial, em estabelecimentos de revenda de valores selados e noutros estabelecimentos autorizados à sua venda.
+Art. 10.º Os impressos exclusivos do Registo Nacional de Pessoas Colectivas podem ser obtidos não só nos seus serviços de apoio como também nas conservatórias do registo comercial, em estabelecimentos de revenda de valores selados e noutros estabelecimentos autorizados à sua venda.
 
-###### Art. 11.º Aplica-se à violação das obrigações impostas pelo presente diploma ou pelo [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro, o disposto nos artigos 65.º e seguintes do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março.
+Art. 11.º Aplica-se à violação das obrigações impostas pelo presente diploma ou pelo [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro, o disposto nos artigos 65.º e seguintes do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março.
 
 Acta 12.º Sem prejuízo da sua subordinação hierárquica ao director-geral dos Registos e do Notariado, os conservadores do registo comercial dependem, no que toca às obrigações decorrentes do presente diploma, da orientação técnica, do director-geral do Registo Nacional de Pessoas Colectivas.
 
-###### Art. 13.º Os conservadores e notários podem ser autorizados a desempenhar funções, em comissão de serviço, no Registo Nacional de Pessoas Colectivas, nos termos do disposto no artigo 35.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e no artigo 1.º do [Decreto-Lei n.º 475/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1980-462065), de 15 de Outubro.
+Art. 13.º Os conservadores e notários podem ser autorizados a desempenhar funções, em comissão de serviço, no Registo Nacional de Pessoas Colectivas, nos termos do disposto no artigo 35.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e no artigo 1.º do [Decreto-Lei n.º 475/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1980-462065), de 15 de Outubro.
 
-###### Art. 14.º - 1 - Tendo em vista a formação e aperfeiçoamento profissional do pessoal ao serviço do Registo Nacional de Pessoas Colectivas e do Registo Comercial, o GEPMJ deverá promover a realização das correspondentes acções, que poderá confiar a entidades estranhas ou não ao serviço ou a outros organismos, mediante protocolos a celebrar.
+Art. 14.º - 1 - Tendo em vista a formação e aperfeiçoamento profissional do pessoal ao serviço do Registo Nacional de Pessoas Colectivas e do Registo Comercial, o GEPMJ deverá promover a realização das correspondentes acções, que poderá confiar a entidades estranhas ou não ao serviço ou a outros organismos, mediante protocolos a celebrar.
 
 2 - As condições de remuneração referentes às acções de formação e aperfeiçoamento profissional serão fixadas em despacho do Ministro da Justiça, sob proposta do director-geral.
 
-###### Art. 15.º - 1 - O certificado de comerciante é substituído, para todos os efeitos legais, pelo cartão de identidade de pessoa colectiva ou pelo cartão de identificação de empresário individual, consoante os casos.
+Art. 15.º - 1 - O certificado de comerciante é substituído, para todos os efeitos legais, pelo cartão de identidade de pessoa colectiva ou pelo cartão de identificação de empresário individual, consoante os casos.
 
 2 - A Direcção-Geral do Comércio Interno é permitido o acesso, mediante terminal de computador, à informação contida nas bases de dados do Registo Nacional de Pessoas Colectivas.
 
 3 - As bases de dados referidas no número anterior devem ser completadas, no mais curto prazo de tempo e na medida do possível, com informação necessária ao exercício das atribuições da Direcção-Geral do Comércio Interno.
 
-###### Art. 16.º São revogados:
+Art. 16.º São revogados:
 
 a) O [Decreto-Lei n.º 419/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1983-443104), de 29 de Novembro;
 
@@ -330,12 +370,12 @@ b) Os artigos 9.º, 54.º e 55.º do [Decreto-Lei n.º 425/83](https://diariodar
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 18 de Janeiro de 1985.**
+Promulgado em 18 de Janeiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 15 de Janeiro de 1985.**
+Referendado em 15 de Janeiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

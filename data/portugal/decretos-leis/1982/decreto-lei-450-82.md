@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/26500/38253828.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1982-377372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d1dfa8c779a9000b3955ce187e53cc0c3142457e249e385a7e1ad1136f97025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1d61e4ece25805d460f241dc2a619a3ab59bbfe3403c51aa5bbe4d0623039c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Inspecção de Jogos
+- Extinção de Serviços
+- Inspecção Geral de Jogos
+- Jogos de Fortuna e Azar
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222397:por
+  label: "PORT.603/86.16.10.1986.PCM, DR.IS [239] de 16.10.1986 (Art 8.º)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/603-1986-222397
+  date: '1986-10-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 784/87 DE 10-SET DR.IS [208] E SUBSTITUÍDO PELO QUADRO CONSTANTE DO ANEXO\
+    \ II A REFERIDA PORT\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-09-10'
+- type: amended_by
+  target: pt:dre:495110:por
+  label: Substituído o quadro da Inspecção-Geral de Jogos Portaria n.º 784/87 - Diário da República n.º 208/1987, Série I
+    de 1987-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/784-1987-495110
+  date: '1987-09-10'
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Extinto, sendo objecto de fusão, a Inspecção-Geral dos (de) Jogos, criadas pelo presente diploma, sendo as suas\
+    \ atribuições integradas no Instituto do Turismo de Portugal, I.P., pelo DEC LEI.208/2006.27.10.2006.MEI, DR.IS [208]\
+    \ de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:146763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374591:por
+  label: "Revogado, a partir de 30.05.1988, pelo DEC LEI.184/88.25.05.1988.MCT, DR.IS [121] de 25.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1988-374591
+  date: '1988-05-25'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:28Z'
   warnings: []
   errors: []
 ---
@@ -291,12 +341,12 @@ As dúvidas que se suscitarem na aplicação do presente diploma são resolvidas
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Novembro de 1982.**
+Promulgado em 4 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal da IGJ, anexo ao Decreto-Lei n.º 450/82
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/26500/38253828.pdf))](https://files.diariodarepublica.pt/1s/1982/11/26500/38253828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/26500/38253828.pdf)

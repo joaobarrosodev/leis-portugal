@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 51/1984, 1º Suplemento, Série I de 1984-02-29
   number: '51'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 716-(1) a 716-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/05101/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-1984-347279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 237a14e5057f02f869afe7e2b23ed85bebdc4b31504ce4b4f3e0cc837e6798bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8671b1f49d7c8c5a5a05e26a124c6e4946e89511e1cb40a202472c404c7a9ade
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete Governamental
+- Orgânica
+- Pessoal de Gabinete
+- Primeiro-ministro
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:375192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425317:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222447:por
+  label: "Revogado o art. 2º pelo DEC LEI.342/86.1986.10.09.PCM DR.IS [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1986-222447
+  date: '1986-10-09'
+- type: repealed_by
+  target: pt:dre:375192:por
+  label: "Revogado pelo DEC LEI.262/88.1988.07.23.MF DR.IS [169]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1988-375192
+  date: '1988-07-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:53Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +116,9 @@ Considerando a necessidade de facilitar o recrutamento para os lugares dos Gabin
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os n.os 3 e 5 do artigo 4.º do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 3 e 5 do artigo 4.º do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 3 - Quando os providos sejam membros das Forças Armadas, funcionários ou agentes da administração central, regional e local ou de institutos públicos, empresas públicas, nacionalizadas, intervencionadas ou privadas, exercerão os seus cargos em regime de comissão de serviço ou de requisição, conforme os casos, com a faculdade de optar pelas remunerações correspondentes aos cargos de origem, que serão suportadas pelas entidades requisitantes.
 
@@ -103,9 +126,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Sem prejuízo do disposto no n.º 3 no tocante a remunerações, quando os providos sejam trabalhadores de empresas públicas, nacionalizadas ou privadas, o regime de requisição obedecerá ao estabelecido na legislação em vigor aplicável, consoante os casos.
 
-###### Art. 2.º Os n.os 3 e 6 do artigo 4.º do [Decreto-Lei n.º 72/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1978-425317), de 13 de Abril, passam a ter a seguinte redacção:
+Art. 2.º Os n.os 3 e 6 do artigo 4.º do [Decreto-Lei n.º 72/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1978-425317), de 13 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 3 - Quando os providos sejam membros das Forças Armadas, funcionáios ou agentes da administração central, regional e local ou de institutos públicos, empresas públicas, nacionalizadas, intervencionadas ou privadas, exercerão os seus cargos em regime de comissão de serviço ou de requisição, conforme os casos, com a faculdade de optar pelas remunerações correspondentes aos cargos de origem, que serão suportadas pelas entidades requisitantes.
 
@@ -113,16 +136,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Sem prejuízo do disposto no n.º 3 no tocante a remunerações, quando os providos sejam trabalhadores de empresas públicas, nacionalizadas ou privadas, o regime de requisição obedecerá ao estabelecido na legislação em vigor aplicável, consoante os casos.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Janeiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 24 de Fevereiro de 1984.**
+Promulgado em 24 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Fevereiro de 1984.**
+Referendado em 27 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

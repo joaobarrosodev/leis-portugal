@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 115/1984, 1º Suplemento, Série I de 1984-05-18
   number: '115'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1620-(1) a 1620-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11501/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-a-1984-302755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cea3e64f46c82b7b8ddb404c7757903a1ed17c0101e2222735dae8b65d584ed7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3727809238059cce0d396bbf5dd3c586f7b566bf819d06ea23359332b8fd72d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Direcção Geral do Tesouro
+- Formas de Provimento
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392862:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:20Z'
   warnings: []
   errors: []
 ---
@@ -105,17 +125,17 @@ Esta medida não colide de modo algum com o espírito que presidiu à elaboraç�
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - No prazo máximo de 90 dias, contados a partir da data da entrada em vigor deste diploma, será publicado, nos termos da lei geral, aviso para abertura de concurso externo de ingresso para provimento de vagas, existentes ou que venham a verificar-se no prazo de validade do concurso, de tesoureiros-ajudantes estagiários, do quadro dos órgãos locais da Direcção-Geral do Tesouro, considerando-se, para o efeito, descongeladas até 31 de Dezembro de 1984 as admissões, na referida categoria, de pessoal não vinculado.
+Artigo 1.º - 1 - No prazo máximo de 90 dias, contados a partir da data da entrada em vigor deste diploma, será publicado, nos termos da lei geral, aviso para abertura de concurso externo de ingresso para provimento de vagas, existentes ou que venham a verificar-se no prazo de validade do concurso, de tesoureiros-ajudantes estagiários, do quadro dos órgãos locais da Direcção-Geral do Tesouro, considerando-se, para o efeito, descongeladas até 31 de Dezembro de 1984 as admissões, na referida categoria, de pessoal não vinculado.
 
 2 - Todas as operações de recrutamento e selecção serão asseguradas pela Direcção-Geral do Tesouro, tendo em conta os princípios consagrados no artigo 4.º do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro.
 
 3 - A competência para autorizar a mencionada abertura de concurso é, desde já, delegada no director-geral do Tesouro, nos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853).
 
-###### Art. 2.º - 1 - Durante o ano de 1984 não poderão ser providas mais de 530 vagas de tesoureiros-ajudantes estagiários.
+Art. 2.º - 1 - Durante o ano de 1984 não poderão ser providas mais de 530 vagas de tesoureiros-ajudantes estagiários.
 
 2 - A partir de 1 de Janeiro de 1985 a admissão de pessoal fica sujeita ao sistema de quotas de descongelamento, previsto no [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
-###### Art. 3.º - 1 - Até ao provimento das vagas referidas no artigo 2.º, e desde que tal se mostre imprescindível à manutenção das condições mínimas de funcionamento dos serviços, o director-geral do Tesouro poderá, mediante prorrogação ou celebração de novos contratos, e até ao limite de 460, assegurar a manutenção ao serviço dos tesoureiros-ajudantes estagiários contratados que se encontravam, nos termos legais, à data da entrada em vigor do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), em exercício de funções, ou cujos contratos tivessem já sido, na referida data, objecto de despacho superior de autorização, preferido ao abrigo do artigo 3.º do do [Decreto-Lei n.º 166/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1982-392862), de 10 de Maio.
+Art. 3.º - 1 - Até ao provimento das vagas referidas no artigo 2.º, e desde que tal se mostre imprescindível à manutenção das condições mínimas de funcionamento dos serviços, o director-geral do Tesouro poderá, mediante prorrogação ou celebração de novos contratos, e até ao limite de 460, assegurar a manutenção ao serviço dos tesoureiros-ajudantes estagiários contratados que se encontravam, nos termos legais, à data da entrada em vigor do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), em exercício de funções, ou cujos contratos tivessem já sido, na referida data, objecto de despacho superior de autorização, preferido ao abrigo do artigo 3.º do do [Decreto-Lei n.º 166/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1982-392862), de 10 de Maio.
 
 2 - Os contratos referidos no n.º 1 serão reduzidos a escrito e submetidos a visto do Tribunal de Contas.
 
@@ -129,18 +149,18 @@ b) Na data em que for preenchida, por efeito do concurso referido no artigo 1.º
 
 5 - O disposto nos n.os 1 e 2 deste artigo produz efeitos a partir de 1 de Março de 1984.
 
-###### Art. 4.º Em tudo o que não estiver especialmente regulado no presente decreto-lei aplica-se subsidiariamente a lei geral sobre concursos na função pública.
+Art. 4.º Em tudo o que não estiver especialmente regulado no presente decreto-lei aplica-se subsidiariamente a lei geral sobre concursos na função pública.
 
-###### Art. 5.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1984. - Mário Soares - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 14 de Maio de 1984.**
+Promulgado em 14 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Maio de 1984.**
+Referendado em 14 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

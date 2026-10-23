@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1983-442320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b01c374406e2c819319c30991543eb84daa9da67c51f782df9535bf9142862bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bbadeda3c4b3430426d8ef8e14e219b89fbc8ab8d994a333978be4287a20226
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Pessoal
+- Portagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:469069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:170928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693473:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogado o art. 18º do Estatuto do Pessoal das Portagens, aprovado pelo presente diploma, pelo DEC LEI.229/2005.29.12.2005.MFAP,\
+    \ DR.IS-A [249] de 29.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:27Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +140,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para vigorar nas explorações a cargo da Junta Autónoma de Estradas, é aprovado o Estatuto do Pessoal das Portagens e respectivo quadro de pessoal, os quais fazem parte integrante deste diploma.
+Artigo 1.º Para vigorar nas explorações a cargo da Junta Autónoma de Estradas, é aprovado o Estatuto do Pessoal das Portagens e respectivo quadro de pessoal, os quais fazem parte integrante deste diploma.
 
-###### Art. 2.º - 1 - As categorias e carreiras do pessoal do serviço de portagens são reestruturadas e revalorizadas de acordo com o especificado no Estatuto referido no artigo anterior.
+Art. 2.º - 1 - As categorias e carreiras do pessoal do serviço de portagens são reestruturadas e revalorizadas de acordo com o especificado no Estatuto referido no artigo anterior.
 
 2 - É criada a categoria de fiscal de portagem, à qual é atribuída a letra J.
 
-###### Art. 3.º - 1 - A transição do pessoal do serviço de portagens para as novas categorias e classes que constam do artigo 5.º do Estatuto será formalizada através de diploma de provimento visado pelo Tribunal de Contas e publicado no Diário da República, e produz efeitos a partir da entrada em vigor do presente diploma.
+Art. 3.º - 1 - A transição do pessoal do serviço de portagens para as novas categorias e classes que constam do artigo 5.º do Estatuto será formalizada através de diploma de provimento visado pelo Tribunal de Contas e publicado no Diário da República, e produz efeitos a partir da entrada em vigor do presente diploma.
 
 2 - A transição para as novas categorias e classes far-se-á da seguinte forma:
 
@@ -123,21 +160,21 @@ Condutor de máquinas de 1.ª classe e de 2.ª classe, para a de condutor de maq
 
 3 - O tempo, de serviço prestado nas categorias e classes existentes será contado, para todos os efeitos, como prestado nas actuais.
 
-###### Art. 4.º São revogados o artigo 7.º do [Decreto-Lei n.º 43705](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43705-1961-170928), de 22 de Maio de 1961, o artigo 2.º do [Decreto-Lei n.º 45169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45169-1963-693473), de 30 de Julho de 1963, os artigos 60.º e 65.º do Regime de Pessoal dos Serviços do Ministério da Habitação e Obras Públicas, aprovado pelo [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho, e o n.º 3 do artigo 3.º do [Decreto-Lei n.º 372/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1975-336552), de 16 de Julho.
+Art. 4.º São revogados o artigo 7.º do [Decreto-Lei n.º 43705](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43705-1961-170928), de 22 de Maio de 1961, o artigo 2.º do [Decreto-Lei n.º 45169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45169-1963-693473), de 30 de Julho de 1963, os artigos 60.º e 65.º do Regime de Pessoal dos Serviços do Ministério da Habitação e Obras Públicas, aprovado pelo [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho, e o n.º 3 do artigo 3.º do [Decreto-Lei n.º 372/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1975-336552), de 16 de Julho.
 
-###### Art. 5.º Este diploma entra em vigor no primeiro dia do mês imediato ao da sua publicação.
+Art. 5.º Este diploma entra em vigor no primeiro dia do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Agosto de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - João Rosado Correia.
 
-**Promulgado em 6 de Setembro de 1983.**
+Promulgado em 6 de Setembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Setembro de 1983.**
+Referendado em 8 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Estatuto do Pessoal das Portagens
 
@@ -393,7 +430,7 @@ A Junta Autónoma de Estradas deverá levar a efeito cursos de formação e reci
 
 Mapa 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/21200/32663270.pdf))](https://files.diariodarepublica.pt/1s/1983/09/21200/32663270.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/21200/32663270.pdf)
 
 O quadro de pessoal constante deste mapa constitui o quadro do serviço de portagem da Junta Autónoma de Estradas, sendo abatidos ao quadro de pessoal aprovado pela [Portaria n.º 672/82](https://diariodarepublica.pt/dr/detalhe/portaria/672-1982-394539), de 7 de Julho, os seguintes lugares:
 

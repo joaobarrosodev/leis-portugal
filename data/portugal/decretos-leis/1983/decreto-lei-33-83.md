@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01900/01450146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1983-307778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9aee2ec31e2d2b4c889d08aae9964eab13b841457d6c21ef5523a83248335c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e49470da40363c3771b7f8184ff8e618c10d748989820d6df7c95b6f531a6827
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- RDP
+- TAXA de Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUM 2 DO ART 2 DO DEC LEI 389/76 DE 24-MAI, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DEC LEI 59/84
+    DE 23-FEV DR.IS [56].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-03-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 2 DO DEC LEI 389/76 DE 24-MAI, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DEC LEI 2/89 DE 06-JAN
+    DR.IS [5].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-01-06'
+- type: amended_by
+  target: pt:dre:234496:por
+  label: Alterado o art. 2.º, na redação do presente diploma, do Dec Lei 389/76 de 24-mai, pelo(a) Decreto-Lei n.º 2/89 -
+    Diário da República n.º 5/1989, Série I de 1989-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1989-234496
+  date: '1989-01-06'
+- type: amended_by
+  target: pt:dre:247046:por
+  label: Alterado o art. 2.º do Dec Lei 389/76, de 24-Mai, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    411/90 - Diário da República n.º 300/1990, 1º Suplemento, Série I de 1990-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1990-247046
+  date: '1990-12-31'
+- type: cites
+  target: pt:dre:392420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426921:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:56Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +145,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 2.º do [Decreto-Lei n.º 389/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1976-426921), de 24 de Maio, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 203/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1982-392420), de 22 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 2.º do [Decreto-Lei n.º 389/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1976-426921), de 24 de Maio, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 203/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1982-392420), de 22 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
@@ -118,12 +157,12 @@ b) ...
 
 c) Consumo anual de mais de 240 kWh - taxa mensal de 100$00.
 
-###### Art. 2.º Este diploma entra em vigor no primeiro dia do mês imediato à data da sua publicação.
+Art. 2.º Este diploma entra em vigor no primeiro dia do mês imediato à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 14 de Janeiro de 1983.**
+Promulgado em 14 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

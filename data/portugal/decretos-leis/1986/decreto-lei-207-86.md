@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1986-218728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97d05023f83fdc746b78213f536cf2338268f607f29d8a323d56cfe4c9c4b75e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fcccf8b5eee5eb1eba6361b509adea42c5b0e480e1f063497d43a5e207ab38f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Direcção Geral das Alfândegas
+- Orgânica
+- Reforma Aduaneira
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:40Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +94,13 @@ Ponderada a necessidade de harmonizar a legislação nacional com a Directiva do
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É acrescentado o n.º 7.º ao § 1.º do artigo 140.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, com a seguinte redacção:
+Artigo 1.º É acrescentado o n.º 7.º ao § 1.º do artigo 140.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, com a seguinte redacção:
 
 7.º Os terminais de carga, para as mercadorias transportadas por via marítima.
 
-###### Art. 2.º O n.º 7.º do artigo 4.º e os artigos 114.º-D e 142.º da referida Reforma passam a ter a seguinte redacção:
+Art. 2.º O n.º 7.º do artigo 4.º e os artigos 114.º-D e 142.º da referida Reforma passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 ...
 
@@ -104,7 +108,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 114.º-D. As mercadorias armazenadas em depósitos alfandegados, afiançados, especiais, mencionados nos n.os 1.º, 2.º, 5.º, 6.º e 7.º do § 1.º do artigo 140.º, e nos de regime livre poderão ser objecto, nas condições estabelecidas pelas direcções das alfândegas, de manipulações usuais destinadas a assegurar a sua conservação ou a melhorar a sua apresentação ou qualidade comercial.
+Art. 114.º-D. As mercadorias armazenadas em depósitos alfandegados, afiançados, especiais, mencionados nos n.os 1.º, 2.º, 5.º, 6.º e 7.º do § 1.º do artigo 140.º, e nos de regime livre poderão ser objecto, nas condições estabelecidas pelas direcções das alfândegas, de manipulações usuais destinadas a assegurar a sua conservação ou a melhorar a sua apresentação ou qualidade comercial.
 
 § 1.º ...
 
@@ -118,18 +122,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 6.º ...
 
-###### Art. 142.º O prazo de armazenagem nos depósitos a que se referem os n.os 1.º, 5.º, 6.º e 7.º do § 1.º do artigo 140.º é de cinco anos.
+Art. 142.º O prazo de armazenagem nos depósitos a que se referem os n.os 1.º, 5.º, 6.º e 7.º do § 1.º do artigo 140.º é de cinco anos.
 
 § único. Os depósitos e terminais mencionados nos n.os 3.º, 4.º, 5.º, 6.º e 7.º do § 1.º do artigo 140.º regular-se-ão nos termos da respectiva legislação especial.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 11 de Julho de 1986.**
+Promulgado em 11 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1986.**
+Referendado em 15 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

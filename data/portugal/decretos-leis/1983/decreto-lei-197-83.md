@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1983-451252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b05a021560667f928af42b8440706a65aa0d72e0e0cd5da6dcadc12541a0cefd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 721fc8dd3db0704fea192b45762affaf0f4676a9ab0ae78bf87081cbcf26f5b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Importação
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316331:por
+  label: Rectificado o presente diploma pela DECL.DD5792.08.06.1983.PCM, DR.IS [148-2.º Supl] de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316331
+  date: '1983-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:45Z'
   warnings: []
   errors: []
 ---
@@ -93,32 +115,32 @@ Considerando ainda que a adaptação da legislação nacional à comunitária se
 
 Usando da autorização conferida pela alínea g) do artigo 19.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao artigo 96.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, é aditado o § 4.º, com a seguinte redacção:
+Artigo 1.º Ao artigo 96.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, é aditado o § 4.º, com a seguinte redacção:
 
 § 4.º Quando as diferenças referidas no § 2.º respeitarem a mercadorias dispensadas de verificação e de reverificação, a transgressão cometida será punida com coima não inferior a 15000$00 nem superior a 200000$00, salvo os casos de má-fé, que serão classificados e punidos como descaminho de direitos.
 
-###### Art. 2.º São introduzidos no Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, os artigos 261.º-A e 266.º-A:
+Art. 2.º São introduzidos no Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, os artigos 261.º-A e 266.º-A:
 
-###### Art. 261.º-A. A verificação e a reverificação far-se-ão por amostragem sempre que as mercadorias constem de uma lista elaborada para esse efeito pelos directores das alfândegas e aprovada pelo director-geral.
+Art. 261.º-A. A verificação e a reverificação far-se-ão por amostragem sempre que as mercadorias constem de uma lista elaborada para esse efeito pelos directores das alfândegas e aprovada pelo director-geral.
 
 § 1.º O desalfandegamento das mercadorias dispensadas de verificação e de reverificação terá lugar após a conferência da declaração.
 
 § 2.º A competência e responsabilidade do conferente da declaração será a mesma que é atribuída ao verificador, na parte aplicável.
 
-###### Art. 266.º-A. Quando for dispensada a verificação, o conferente da declaração, ultimada a conferência, autorizará a saída dos volumes e enviará o bilhete de despacho para o conferente de saída, remetendo o bilhete estatístico ao presidente da casa de despacho ou chefe da estância aduaneira, que o enviará ao Instituto Nacional de Estatística.
+Art. 266.º-A. Quando for dispensada a verificação, o conferente da declaração, ultimada a conferência, autorizará a saída dos volumes e enviará o bilhete de despacho para o conferente de saída, remetendo o bilhete estatístico ao presidente da casa de despacho ou chefe da estância aduaneira, que o enviará ao Instituto Nacional de Estatística.
 
-###### Art. 3.º - 1 - A lista referida no artigo 2.º, a elaborar pelos directores das alfândegas e a aprovar pelo director-geral, compreenderá apenas mercadorias de fácil verificação, designadamente matérias-primas para laboração industrial.
+Art. 3.º - 1 - A lista referida no artigo 2.º, a elaborar pelos directores das alfândegas e a aprovar pelo director-geral, compreenderá apenas mercadorias de fácil verificação, designadamente matérias-primas para laboração industrial.
 
 2 - O número de adições de cada bilhete de despacho com dispensa de verificação e de reverificação será fixado por despacho do director-geral.
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 3 de Maio de 1983.**
+Promulgado em 3 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Maio de 1983.**
+Referendado em 6 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/14900/17841784.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1985-181984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eb4c74730466bb6b10d5d9b95bfb90f8fd427ba6f6823306eb4f1441651815e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4af381974ba6f143aeb8b505afca4018d65436345dc60cc3e122d48c7217d55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Autarquia Local
+- Cooperação Financeira
+- Cooperação Técnica
+- Ministério do Equipamento Social
+- Saneamento Básico
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:661712:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:22Z'
   warnings: []
   errors: []
 ---
@@ -96,24 +111,24 @@ Tornando-se indispensável disponibilizar a referida verba dando cumprimento à 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É instituído, na sequência da resolução do Conselho de Ministros de 7 de Março de 1985, e nos termos do artigo 27.º do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, um programa de cooperação técnica e financeira entre o Ministério do Equipamento Social e as câmaras municipais do Algarve a decorrer no presente ano, destinado à realização de obras de saneamento básico urgentes e indispensáveis ao correcto desenvolvimento da região.
+Artigo 1.º É instituído, na sequência da resolução do Conselho de Ministros de 7 de Março de 1985, e nos termos do artigo 27.º do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, um programa de cooperação técnica e financeira entre o Ministério do Equipamento Social e as câmaras municipais do Algarve a decorrer no presente ano, destinado à realização de obras de saneamento básico urgentes e indispensáveis ao correcto desenvolvimento da região.
 
-###### Art. 2.º - 1 - Compete à Comissão do Saneamento Básico do Algarve (CSBA) preparar, em íntima ligação com as câmaras municipais e com a Direcção-Geral do Saneamento Básico (DGSB), a elaboração do aludido programa e promover a sua execução, bem como efectuar a fiscalização das respectivas obras.
+Art. 2.º - 1 - Compete à Comissão do Saneamento Básico do Algarve (CSBA) preparar, em íntima ligação com as câmaras municipais e com a Direcção-Geral do Saneamento Básico (DGSB), a elaboração do aludido programa e promover a sua execução, bem como efectuar a fiscalização das respectivas obras.
 
 2 - Para efeitos do número anterior, a DGSB prestará à CSBA o apoio, nomeadamente técnico, que se tornar necessário.
 
-###### Art. 3.º A cobertura dos encargos financeiros de 1985, estimados em 400000 contos, decorrentes do disposto nos números anteriores será assegurada por verba do mesmo montante a inscrever no capítulo 50 do Orçamento do Estado para 1985, «Ministério do Equipamento Social - Direcção-Geral do Saneamento Básico», tendo como contrapartida igual redução na dotação provisional inscrita no Ministério das Finanças e do Plano.
+Art. 3.º A cobertura dos encargos financeiros de 1985, estimados em 400000 contos, decorrentes do disposto nos números anteriores será assegurada por verba do mesmo montante a inscrever no capítulo 50 do Orçamento do Estado para 1985, «Ministério do Equipamento Social - Direcção-Geral do Saneamento Básico», tendo como contrapartida igual redução na dotação provisional inscrita no Ministério das Finanças e do Plano.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 
-**Promulgado em 21 de Junho de 1985.**
+Promulgado em 21 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Junho de 1985.**
+Referendado em 25 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/17900/23912392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1985-180179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55461a4ca2c9a87997f090059653312e930d2ef279d83d166dbbc586badff934
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83342fd292a87052776d6993b613f1e045caf4e93dd8230fd468ce0ce5fddc0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional da Indústria
+- Ministério da Indústria e Energia
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455465:por
+  label: Determinada a transição do Conselho Nacional da Indústria e Energia para o Ministério da Economia, pelo(a) Decreto-Lei
+    n.º 296-A/95 - Diário da República n.º 266/1995, 1º Suplemento, Série I-A de 1995-11-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: cites
+  target: pt:dre:370663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473931:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:05Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +128,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado junto do Ministério da Indústria e Energia o Conselho Nacional da Indústria (CNI), que se regerá pelas disposições constantes do presente diploma e pelas do regulamento previsto no artigo 6.º
+Artigo 1.º É criado junto do Ministério da Indústria e Energia o Conselho Nacional da Indústria (CNI), que se regerá pelas disposições constantes do presente diploma e pelas do regulamento previsto no artigo 6.º
 
-###### Art. 2.º - 1 - O CNI é um órgão de consulta do Governo, em particular do Ministro da Indústria e Energia, relativamente às grandes linhas de orientação das políticas industrial, energética, mineira e tecnológica, devidamente integradas numa política económica e social orientada para a criação de riqueza e para o progresso do País.
+Art. 2.º - 1 - O CNI é um órgão de consulta do Governo, em particular do Ministro da Indústria e Energia, relativamente às grandes linhas de orientação das políticas industrial, energética, mineira e tecnológica, devidamente integradas numa política económica e social orientada para a criação de riqueza e para o progresso do País.
 
 2 - O CNI coordena a acção dos diversos órgãos sectoriais de consulta existentes no Ministério da Indústria e Energia e funciona na dependência directa do Ministro.
 
-###### Art. 3.º São atribuições do CNI dar parecer sobre:
+Art. 3.º São atribuições do CNI dar parecer sobre:
 
 a) As orientações e opções fundamentais da política industrial, energética, mineira, tecnológica e da qualidade industrial;
 
@@ -126,7 +148,7 @@ e) A interligação dos organismos do Ministério de Indústria e Energia com os
 
 f) Quaisquer outros assuntos para que seja solicitado pelo Ministro da Indústria e Energia ou sobre que entenda dever pronunciar-se.
 
-###### Art. 4.º - 1 - O CNI terá a seguinte composição:
+Art. 4.º - 1 - O CNI terá a seguinte composição:
 
 a) Presidente;
 
@@ -150,17 +172,17 @@ j) Os directores-gerais e os presidentes dos organismos autónomos do Ministéri
 
 2 - Das personalidades referidas no número anterior, a nomeação do presidente é feita por despacho conjunto do Primeiro-Ministro e do Ministro da Indústria e Energia e a dos restantes por despacho do Ministro da Indústria e Energia.
 
-###### Art. 5.º A gestão do CNI é assegurada por uma comissão permanente, constituída pelo presidente e vice-presidente do CNI, pelos presidentes dos conselhos referidos no artigo 8.º e pelo director do Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia, em termos a definir no regulamento do CNI.
+Art. 5.º A gestão do CNI é assegurada por uma comissão permanente, constituída pelo presidente e vice-presidente do CNI, pelos presidentes dos conselhos referidos no artigo 8.º e pelo director do Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia, em termos a definir no regulamento do CNI.
 
-###### Art. 6.º O regulamento do CNI constará de portaria do Ministro da Indústria e Energia, precedendo consulta do mesmo Conselho Nacional.
+Art. 6.º O regulamento do CNI constará de portaria do Ministro da Indústria e Energia, precedendo consulta do mesmo Conselho Nacional.
 
-###### Art. 7.º - 1 - Os membros do CNI cuja participação nele não esteja associada à função que desempenham são nomeados por período de 3 anos, renováveis.
+Art. 7.º - 1 - Os membros do CNI cuja participação nele não esteja associada à função que desempenham são nomeados por período de 3 anos, renováveis.
 
 2 - As remunerações e prerrogativas dos membros do CNI, bem como dos Conselhos referidos no artigo 8.º, serão estabelecidas em portaria dos Ministros das Finanças e do Plano e da Indústria e Energia e do Secretário de Estado da Administração Pública.
 
 3 - Os membros do CNI que sejam funcionários públicos estão isentos do cumprimento do horário de trabalho durante os períodos das reuniões em que participem.
 
-###### Art. 8.º - 1 - São criados o Conselho Superior da Indústria e o Conselho Superior da Energia, os quais constituirão divisões do CNI.
+Art. 8.º - 1 - São criados o Conselho Superior da Indústria e o Conselho Superior da Energia, os quais constituirão divisões do CNI.
 
 2 - Constituirão igualmente divisões do CNI os actuais Conselho Superior de Geologia e Minas e o Conselho Superior de Engenharia e Tecnologia Industrial.
 
@@ -168,24 +190,24 @@ j) Os directores-gerais e os presidentes dos organismos autónomos do Ministéri
 
 4 - As atribuições do Conselho Nacional da Qualidade serão devidamente articulados com as do CNI.
 
-###### Art. 9.º - 1 - O Ministério da Indústria e Energia assegurará o apoio administrativo e jurídico necessário ao funcionamento do CNI, nos termos que venham a ser definidos em despacho do Ministro.
+Art. 9.º - 1 - O Ministério da Indústria e Energia assegurará o apoio administrativo e jurídico necessário ao funcionamento do CNI, nos termos que venham a ser definidos em despacho do Ministro.
 
 2 - O secretariado do CNI será assegurado por funcionários de qualquer dos quadros dos serviços ou organismos do Ministério da Indústria e Energia, a destacar para o CNI por despacho do Ministro.
 
 3 - As verbas necessárias ao funcionamento do CNI e dos Conselhos Superiores referidos no artigo 8.º serão inscritas no Gabinete do Ministro da Indústria e Energia.
 
-###### Art. 10.º - 1 - Com a entrada em vigor da portaria referida no n.º 3 do artigo 8.º, considerar-se-ão revogados os artigos 15.º, 16.º e 17.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, e bem assim as disposições do [Decreto-Lei n.º 121/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1980-473931), de 16 de Maio, que versem matéria regulada naquela portaria.
+Art. 10.º - 1 - Com a entrada em vigor da portaria referida no n.º 3 do artigo 8.º, considerar-se-ão revogados os artigos 15.º, 16.º e 17.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, e bem assim as disposições do [Decreto-Lei n.º 121/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1980-473931), de 16 de Maio, que versem matéria regulada naquela portaria.
 
 2 - Nos casos em que a lei comete ao Ministro a presidência dos Conselhos referidos na alínea c) do n.º 1 do artigo 4.º, e até publicação da portaria prevista no n.º 3 do artigo 8.º, desempenham as funções de membros do CNI, bem como da sua comissão permanente, os substitutos legais do presidente daqueles Conselhos ou, não os havendo, quem o Ministro da Indústria e Energia designe, por seu despacho, para esse efeito.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - José Veiga Simão - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 18 de Julho de 1985.**
+Promulgado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Julho de 1985.**
+Referendado em 19 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

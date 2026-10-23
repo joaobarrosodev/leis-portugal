@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13200/20932095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1983-451842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 915eece57b64c3541153fa99435acdec7a0673973fc3fde72a745747d640e078
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a87dd517a5a0b9b4fdb3ac9468162fe8751c784a8b3c4dfaaab3e25c8cea42a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Pessoal Docente
+- Telescola
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448941:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:39Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +133,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea b) do artigo 6.º, os n.os 2, 3, 4, 5 e 6 do artigo 7.º, a alínea b) do n.º 1 e o n.º 2 do artigo 8.º, o n.º 2 do artigo 14.º e o artigo 15.º do [Decreto-Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1978-448941), de 27 de Janeiro, com a redacção dada ao artigo 15.º pelo [Decreto-Lei n.º 178/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1979-383388), de 7 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º A alínea b) do artigo 6.º, os n.os 2, 3, 4, 5 e 6 do artigo 7.º, a alínea b) do n.º 1 e o n.º 2 do artigo 8.º, o n.º 2 do artigo 14.º e o artigo 15.º do [Decreto-Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1978-448941), de 27 de Janeiro, com a redacção dada ao artigo 15.º pelo [Decreto-Lei n.º 178/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1979-383388), de 7 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 a) ...
 
@@ -109,7 +145,7 @@ c) ...
 
 d) ...
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - Em cada um dos escalões referidos no número anterior preferem os candidatos que sejam portadores de grau académico mais elevado, segundo regras a definir por despacho ministerial.
 
@@ -125,7 +161,7 @@ a) Candidato com mais tempo de serviço, prestada antes ou depois da profissiona
 
 b) Candidato com mais idade.
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 a) ...
 
@@ -147,11 +183,11 @@ g) ...
 
 4 - ...
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 2 - Se após a aplicação do disposto no número anterior existirem lugares vagos, poderão ser contratados para o respectivo ano escolar indivíduos habilitados, pelo menos, com o curso complementar do ensino secundário ou equivalente, não lhes sendo, no entanto, conferido qualquer vínculo ao Estado para além do termo do respectivo ano escolar.
 
-###### Art. 15.º - 1 - Os professores não efectivos do ensino primário colocados no ciclo preparatório TV ao abrigo dos concursos previstos neste diploma, bem como os monitores dos postos de recepção oficiais referidos na alínea b) do artigo 6.º, são providos em cada ano escolar, mediante contrato.
+Art. 15.º - 1 - Os professores não efectivos do ensino primário colocados no ciclo preparatório TV ao abrigo dos concursos previstos neste diploma, bem como os monitores dos postos de recepção oficiais referidos na alínea b) do artigo 6.º, são providos em cada ano escolar, mediante contrato.
 
 2 - ...
 
@@ -159,11 +195,11 @@ g) ...
 
 4 - Os contratos celebrados com os monitores referidos no n.º 1 consideram-se automaticamente renovados, desde que o monitor se mantenha no mesmo posto de recepção.
 
-###### Art. 2.º O serviço prestado pelos monitores dos postos oficiais de recepção do ciclo preparatório TV, ou qualquer outro que lhe venha a ser equiparado, é contado para todos os efeitos legais como serviço docente prestado no ensino preparatório.
+Art. 2.º O serviço prestado pelos monitores dos postos oficiais de recepção do ciclo preparatório TV, ou qualquer outro que lhe venha a ser equiparado, é contado para todos os efeitos legais como serviço docente prestado no ensino preparatório.
 
-###### Art. 3.º O vencimento dos monitores dos postos de recepção oficiais do ciclo preparatório TV, contratados ao abrigo do Decreto-Lei n.º 49937, de 24 de Novembro de 1969, passa a ser o que estiver atribuído aos professores provisórios do ensino preparatório sem habilitação própria.
+Art. 3.º O vencimento dos monitores dos postos de recepção oficiais do ciclo preparatório TV, contratados ao abrigo do Decreto-Lei n.º 49937, de 24 de Novembro de 1969, passa a ser o que estiver atribuído aos professores provisórios do ensino preparatório sem habilitação própria.
 
-###### Art. 4.º Em caso da extinção do posto de recepção do ciclo preparatório TV, os monitores contratados ao abrigo do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, poderão optar por:
+Art. 4.º Em caso da extinção do posto de recepção do ciclo preparatório TV, os monitores contratados ao abrigo do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, poderão optar por:
 
 a) Ser colocados independentemente de concurso em qualquer outro posto de recepção oficial do ciclo preparatório TV em que existam lugares vagos;
 
@@ -175,30 +211,30 @@ d) Vir a ser colocados em quadros técnicos ou técnicos auxiliares, nomeadament
 
 e) Ser opositores ao concurso para professores provisórios dos ensinos preparatório e secundário, previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, ou de legislação que lhe vier a ser subsequente, se possuírem as habilitações legalmente exigidas.
 
-###### Art. 5.º - 1 - Para efeitos do disposto nas alíneas a), b) e c) do artigo anterior os monitores solicitarão, no prazo de 20 dias a contar da data do conhecimento da extinção do respectivo posto, a sua colocação, através de requerimento dirigido ao director-geral de Pessoal.
+Art. 5.º - 1 - Para efeitos do disposto nas alíneas a), b) e c) do artigo anterior os monitores solicitarão, no prazo de 20 dias a contar da data do conhecimento da extinção do respectivo posto, a sua colocação, através de requerimento dirigido ao director-geral de Pessoal.
 
 2 - No caso previsto na alínea b) do artigo anterior, as colocações na docência consideram-se para todos os efeitos como decorrentes da 1.ª fase do concurso para professores provisórios ou eventuais regulamentado pelo [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, ou por legislação que vier a ser subsequente.
 
-###### Art. 6.º No caso previsto nas alíneas c) e d) do artigo 4.º do presente diploma, os monitores manterão a letra de vencimento que possuíam, se e enquanto a mesma for superior à que lhes é atribuída no novo lugar.
+Art. 6.º No caso previsto nas alíneas c) e d) do artigo 4.º do presente diploma, os monitores manterão a letra de vencimento que possuíam, se e enquanto a mesma for superior à que lhes é atribuída no novo lugar.
 
-###### Art. 7.º No caso previsto na alínea e) do artigo 4.º deste decreto-lei, o monitor será considerado na 3.ª fase do concurso imediatamente subsequente na situação de candidato preferencial, desde que tenha sido opositor às 1.ª e 2.ª fases do concurso a nível nacional.
+Art. 7.º No caso previsto na alínea e) do artigo 4.º deste decreto-lei, o monitor será considerado na 3.ª fase do concurso imediatamente subsequente na situação de candidato preferencial, desde que tenha sido opositor às 1.ª e 2.ª fases do concurso a nível nacional.
 
-###### Art. 8.º - 1 - Durante o período que mediar entre a extinção do posto de recepção oficial do ciclo preparatório TV e a nova colocação, será mantido ao monitor o respectivo vencimento, desde que o atraso verificado não lhe seja imputável.
+Art. 8.º - 1 - Durante o período que mediar entre a extinção do posto de recepção oficial do ciclo preparatório TV e a nova colocação, será mantido ao monitor o respectivo vencimento, desde que o atraso verificado não lhe seja imputável.
 
 2 - Durante o período referido no número anterior o monitor poderá ser destacado para o estabelecimento oficial de ensino mais próximo, sendo-lhe distribuídas funções equivalentes ou paradocentes.
 
-###### Art. 9.º Sempre que as necessidades dos serviços não justifiquem a colocação de todos ou de parte dos monitores, contratados ao abrigo do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, que prestavam serviço em postos extintos, os mesmos poderão ser constituídos em excedentes, de acordo com o disposto no [Decreto-Lei n.º 167/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1982-392870), de 10 de Maio, ou de legislação que lhe vier a ser subsequente, e do n.º 2 do artigo 4.º do [Decreto-Lei n.º 347/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1982-374434), de 2 de Setembro.
+Art. 9.º Sempre que as necessidades dos serviços não justifiquem a colocação de todos ou de parte dos monitores, contratados ao abrigo do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, que prestavam serviço em postos extintos, os mesmos poderão ser constituídos em excedentes, de acordo com o disposto no [Decreto-Lei n.º 167/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1982-392870), de 10 de Maio, ou de legislação que lhe vier a ser subsequente, e do n.º 2 do artigo 4.º do [Decreto-Lei n.º 347/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1982-374434), de 2 de Setembro.
 
-###### Art. 10.º O disposto no artigo 3.º do presente decreto-lei produz efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
+Art. 10.º O disposto no artigo 3.º do presente decreto-lei produz efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - João José Fraústo da Silva - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 17 de Maio de 1983.**
+Promulgado em 17 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Maio de 1983.**
+Referendado em 26 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21900/29782981.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1982-375867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 707cf2af791dc304a7e79264148edb551f7f4363575a93ca8e9742a3aea5e96d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 907b1e9b29d04d82a767dc30e81000f1f59a0b35161b77bf484c75219e9c2a91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Classificação de Espectáculos
+- Comissão de Classificação de Espectáculos
+- Espetáculos e Divertimentos Públicos
 relationships:
 - type: amended_by
   target: pt:dre:122960393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311412:por
+  label: "Alterados o artigo 3º e o nº 1 do artigo 4º pelo DEC LEI.116/83.24.02.1983.MCCC, DR.IS [45] de 24.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1983-311412
+  date: '1983-02-24'
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:377305:por
+  label: Rectificado pela DECL.DD4191.04.11.1982.PCM, DR.IS [267] de 18.11.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-377305
+  date: '1982-11-04'
+- type: repealed_by
+  target: pt:dre:177825:por
+  label: "Revogado o n.º 4 do artigo 2.º, o artigo 9.º e o n.º 2 do artigo 10.º, pelo DEC LEI.456/85.29.10.1985.MC, DR.IS\
+    \ [249] de 29.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/456-1985-177825
+  date: '1985-10-29'
+- type: repealed_by
+  target: pt:dre:572446:por
+  label: "Revogado o presente diploma a partir de 15.04.2014, retificado pela Decl. DD4191, de 18-nov-1982 e alterado pelos\
+    \ Decs Leis 116/83, de 24-fev e 456/85, de 29-out, pelo DEC LEI.23/2014.14.02.2014.PCM, DR.IS [32] de 14.02.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2014-572446
+  date: '2014-02-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:14Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +145,13 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ### CAPÍTULO I — Da classificação de espectáculos
 
-###### Artigo 1.º - 1 - A classificação dos espectáculos e divertimentos públicos obedece ao disposto no presente diploma e a outras normas legais aplicáveis, não podendo, em caso algum, a classificação atribuída depender de juízos de carácter ideológico.
+Artigo 1.º - 1 - A classificação dos espectáculos e divertimentos públicos obedece ao disposto no presente diploma e a outras normas legais aplicáveis, não podendo, em caso algum, a classificação atribuída depender de juízos de carácter ideológico.
 
 2 - A realização de qualquer espectáculo ou divertimento público carece da atribuição da respectiva classificação, a qual, no entanto, nunca poderá ser denegada.
 
 3 - A classificação dos espectáculos de radiodifusão visual será regulada por diploma próprio.
 
-###### Art. 2.º - 1 - Os espectáculos ou divertimentos públicos serão classificados nos seguintes escalões etários:
+Art. 2.º - 1 - Os espectáculos ou divertimentos públicos serão classificados nos seguintes escalões etários:
 
 Para maiores de 4 anos;
 
@@ -128,7 +169,7 @@ Para maiores de 18 anos.
 
 4 - Serão definidos por portaria do Ministério da Cultura e Coordenação Científica símbolos gráficos correspondentes a cada escalão classificativo, os quais deverão ser incluídos nos elementos de publicidade ao espectáculo bem como nas pontas-filme a que se referem os artigos 9.º e 10.º
 
-###### Art. 3.º A frequência de espectáculos ou divertimentos públicos por menores rege-se pelas seguintes normas:
+Art. 3.º A frequência de espectáculos ou divertimentos públicos por menores rege-se pelas seguintes normas:
 
 a) Os menores de 3 anos não podem assistir a quaisquer espectáculos ou divertimentos públicos;
 
@@ -136,7 +177,7 @@ b) Serão classificados «Para maiores de 12 anos» todos os espectáculos class
 
 c) Sempre que se suscitem dúvidas sobre a idade de menores, avaliada por critérios comuns de aparência, deverão as empresas ou entidades promotoras dos espectáculos ou divertimentos públicos, as autoridades policiais e administrativas e os agentes encarregados da fiscalização negar a entrada desses menores, desde que não seja apresentado elemento de identificação comprovativo da idade invocada.
 
-###### Art. 4.º - 1 - Serão classificados «Para maiores de 4 anos» os espectáculos desportivos e de circo, os espectáculos tauromáquicos, os concertos musicais e similares e os espectáculos de ópera e de bailado.
+Art. 4.º - 1 - Serão classificados «Para maiores de 4 anos» os espectáculos desportivos e de circo, os espectáculos tauromáquicos, os concertos musicais e similares e os espectáculos de ópera e de bailado.
 
 2 - Os espectáculos referidos no número anterior poderão ser classificados em diferente escalão etário pela Comissão de Classificação de Espectáculos quando, por sua iniciativa ou após requerimento fundamentado do promotor do espectáculo a solicitar novo visionamento, se conclua que as características do espectáculo o aconselham.
 
@@ -148,15 +189,15 @@ c) Sempre que se suscitem dúvidas sobre a idade de menores, avaliada por crité
 
 6 - Nos casos referidos nos n.os 3, 4 e 5, poderá a Direcção-Geral dos Espectáculos e do Direito de Autor estabelecer, a requerimento fundamentado do interessado e tendo em consideração também o parecer das autoridades locais, um escalão classificativo inferior.
 
-###### Art. 5.º - 1 - Quando do mesmo espectáculo façam parte elementos classificados em escalões diferentes, a classificação global do espectáculo será determinada pela classificação do elemento de escalão mais elevado.
+Art. 5.º - 1 - Quando do mesmo espectáculo façam parte elementos classificados em escalões diferentes, a classificação global do espectáculo será determinada pela classificação do elemento de escalão mais elevado.
 
 2 - Aplica-se o disposto no número anterior quando, em diversos locais do mesmo edifício, decorrerem simultaneamente espectáculos não classificados para o mesmo grupo etário, se não for possível impedir eficazmente o trânsito dos espectadores de uns locais para os outros no interior do mesmo edifício.
 
 ### CAPÍTULO II — Da classificação de filmes
 
-###### Art. 6.º Compete à Comissão de Classificação de Espectáculos a classificação de todos os filmes destinados a exibição pública.
+Art. 6.º Compete à Comissão de Classificação de Espectáculos a classificação de todos os filmes destinados a exibição pública.
 
-###### Art. 7.º - 1 - O material fílmico a submeter à Comissão de Classificação de Espectáculos será apresentado na Direcção-Geral dos Espectáculos e do Direito de Autor acompanhado por requerimento dos interessados.
+Art. 7.º - 1 - O material fílmico a submeter à Comissão de Classificação de Espectáculos será apresentado na Direcção-Geral dos Espectáculos e do Direito de Autor acompanhado por requerimento dos interessados.
 
 2 - O requerimento é feito em papel selado e será instruído com os seguintes elementos:
 
@@ -168,15 +209,15 @@ b) Prova documental do cumprimento das obrigações fiscais, ou outras, a cargo 
 
 4 - Será também devolvido ao requerente o material fílmico que se presuma, ou se verifique após visionamento pela Comissão de Classificação, não ser apresentado em versão integral ou que apresentar lacunas ou erros na legendagem salvo, quanto a esta, se o material tiver sido legendado antes de 25 de Abril de 1974 e se se comprovar a inviabilidade económica ou técnica da eliminação dessas faltas.
 
-###### Art. 8.º - 1 - Qualquer alteração ao material fílmico já classificado, designadamente da montagem ou legendagem, e efectuada sob responsabilidade da entidade produtora ou distribuidora do filme, implica nova classificação pela Comissão de Classificação de Espectáculos.
+Art. 8.º - 1 - Qualquer alteração ao material fílmico já classificado, designadamente da montagem ou legendagem, e efectuada sob responsabilidade da entidade produtora ou distribuidora do filme, implica nova classificação pela Comissão de Classificação de Espectáculos.
 
 2 - Após a classificação, o processo com os elementos a que se refere o n.º 2 do artigo 7.º é registado na Direcção-Geral dos Espectáculos e do Direito de Autor, não podendo o título em português do material fílmico respectivo vir a sofrer qualquer alteração.
 
-###### Art. 9.º - 1 - É obrigatória a reprodução em ponta-filme inicial da classificação atribuída nos termos deste diploma ao material fílmico, bem como dos avisos ou menções especiais dirigidos ao público pela Comissão de Classificação de Espectáculos, devendo a sua projecção permitir uma fácil e inequívoca leitura.
+Art. 9.º - 1 - É obrigatória a reprodução em ponta-filme inicial da classificação atribuída nos termos deste diploma ao material fílmico, bem como dos avisos ou menções especiais dirigidos ao público pela Comissão de Classificação de Espectáculos, devendo a sua projecção permitir uma fácil e inequívoca leitura.
 
 2 - É interdita a reprodução, em ponta-filme, da classificação atribuída ao material fílmico no estrangeiro.
 
-###### Art. 10.º - 1 - A exibição de filmes-anúncio não depende da classificação do filme anunciado mas apenas da classificação que ao próprio anúncio for dada.
+Art. 10.º - 1 - A exibição de filmes-anúncio não depende da classificação do filme anunciado mas apenas da classificação que ao próprio anúncio for dada.
 
 2 - Na ponta-filme do filme-anúncio deve figurar de forma bem visível a respectiva classificação, assim como a do filme anunciado.
 
@@ -184,7 +225,7 @@ b) Prova documental do cumprimento das obrigações fiscais, ou outras, a cargo 
 
 ### CAPÍTULO III — Da classificação de espectáculos de teatro
 
-###### Art. 11.º - 1 - A classificação dos espectáculos de teatro compete à Comissão de Classificação de Espectáculos, de acordo com as normas aplicáveis.
+Art. 11.º - 1 - A classificação dos espectáculos de teatro compete à Comissão de Classificação de Espectáculos, de acordo com as normas aplicáveis.
 
 2 - A classificação será requerida à Direcção-Geral dos Espectáculos e do Direito de Autor:
 
@@ -198,17 +239,17 @@ c) Através dos seus delegados concelhios, para os espectáculos a efectuar nos 
 
 4 - O requerimento a que se refere o n.º 2 deste artigo é feito em papel selado e instruído com o texto, em português, da peça a representar e prova documental do cumprimento das obrigações fiscais, ou outras, a cargo do interessado.
 
-###### Art. 12.º Quando se verifique a impossibilidade do visionamento, pela Comissão de Classificação de Espectáculos, de espectáculos de teatro realizados por companhias estrangeiras, serão estes classificados «Para maiores de 12 anos», salvo se o promotor do espectáculo fizer prova de que se trata de espectáculo aconselhável para nível etário inferior, nomeadamente, através de prova documental sobre a respectiva classificação no país de origem.
+Art. 12.º Quando se verifique a impossibilidade do visionamento, pela Comissão de Classificação de Espectáculos, de espectáculos de teatro realizados por companhias estrangeiras, serão estes classificados «Para maiores de 12 anos», salvo se o promotor do espectáculo fizer prova de que se trata de espectáculo aconselhável para nível etário inferior, nomeadamente, através de prova documental sobre a respectiva classificação no país de origem.
 
-###### Art. 13.º - 1 - Os promotores do espectáculo a classificar nos termos do artigo 11.º comunicarão aos serviços da Direcção-Geral dos Espectáculos e do Direito de Autor, com a antecedência mínima de 15 dias, a data e a hora a que se poderá proceder ao visionamento do espectáculo.
+Art. 13.º - 1 - Os promotores do espectáculo a classificar nos termos do artigo 11.º comunicarão aos serviços da Direcção-Geral dos Espectáculos e do Direito de Autor, com a antecedência mínima de 15 dias, a data e a hora a que se poderá proceder ao visionamento do espectáculo.
 
 2 - Quando, por imprevistos de última hora, o espectáculo não estiver completo na data aprazada ou antes da estreia, serão facultadas à Comissão de Classificação de Espectáculos as maquetas dos cenários ou figurinos ou outros elementos em falta, podendo, porém, a referida Comissão marcar novo visionamento sempre que os elementos do espectáculo que lhe foram presentes não sejam suficientes para o cumprimento das suas atribuições.
 
-###### Art. 14.º Qualquer alteração aos elementos do espectáculo já classificado deve ser comunicada à Comissão de Classificação de Espectáculos, que decidirá sobre a sua eventual reclassificação.
+Art. 14.º Qualquer alteração aos elementos do espectáculo já classificado deve ser comunicada à Comissão de Classificação de Espectáculos, que decidirá sobre a sua eventual reclassificação.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 15.º - 1 - Das deliberações da Comissão de Classificação de Espectáculos cabe recurso nos termos do disposto no [Decreto Regulamentar n.º 11/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1982-599879), de 5 de Março.
+Art. 15.º - 1 - Das deliberações da Comissão de Classificação de Espectáculos cabe recurso nos termos do disposto no [Decreto Regulamentar n.º 11/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1982-599879), de 5 de Março.
 
 2 - O novo visionamento terá lugar no prazo máximo de 15 dias, após a interposição do recurso, sendo a sua data marcada pela Comissão referida e comunicada pela Direcção-Geral dos Espectáculos e do Direito de Autor ao distribuidor ou promotor do espectáculo.
 
@@ -216,56 +257,56 @@ c) Através dos seus delegados concelhios, para os espectáculos a efectuar nos 
 
 4 - Salvo o disposto no número anterior, a classificação recorrida mantém-se até decisão da Comissão de Classificação de Espectáculos, após o visionamento a que se refere o n.º 2 deste artigo.
 
-###### Art. 16.º A classificação atribuída pela Comissão de Classificação aos espectáculos visionados constará de impresso próprio, a passar pela Direcção-Geral dos Espectáculos e do Direito de Autor, o qual servirá de meio de prova a utilizar pelos interessados ao requererem a concessão do respectivo visto.
+Art. 16.º A classificação atribuída pela Comissão de Classificação aos espectáculos visionados constará de impresso próprio, a passar pela Direcção-Geral dos Espectáculos e do Direito de Autor, o qual servirá de meio de prova a utilizar pelos interessados ao requererem a concessão do respectivo visto.
 
-###### Art. 17.º A exibição em locais públicos por sistemas de vídeo carece de classificação pela Comissão de Classificação de Espectáculos, nos termos do disposto para espectáculos cinematográficos, com as necessárias adaptações.
+Art. 17.º A exibição em locais públicos por sistemas de vídeo carece de classificação pela Comissão de Classificação de Espectáculos, nos termos do disposto para espectáculos cinematográficos, com as necessárias adaptações.
 
-###### Art. 18.º Quaisquer outros espectáculos cuja natureza não seja abrangida pelo disposto nos artigos anteriores deverão ser classificados pela Comissão de Classificação de Espectáculos, nos termos do disposto para os espectáculos de teatro, com as necessárias adaptações.
+Art. 18.º Quaisquer outros espectáculos cuja natureza não seja abrangida pelo disposto nos artigos anteriores deverão ser classificados pela Comissão de Classificação de Espectáculos, nos termos do disposto para os espectáculos de teatro, com as necessárias adaptações.
 
-###### Art. 19.º A classificação e demais especificações dos espectáculos e divertimentos públicos deverão ser afixadas em letreiros bem visíveis junto das bilheteiras e portas de entrada dos recintos onde os espectáculos se realizem.
+Art. 19.º A classificação e demais especificações dos espectáculos e divertimentos públicos deverão ser afixadas em letreiros bem visíveis junto das bilheteiras e portas de entrada dos recintos onde os espectáculos se realizem.
 
-###### Art. 20.º Os cartazes, prospectos e quaisquer outros meios de publicidade relativos a espectáculos e divertimentos públicos em curso, ou a algum dos seus elementos abrangidos pelo presente diploma, não deverão ser diversos do programa a visar e deles constarão obrigatoriamente as classificações e demais especificações que tenham sido atribuídas.
+Art. 20.º Os cartazes, prospectos e quaisquer outros meios de publicidade relativos a espectáculos e divertimentos públicos em curso, ou a algum dos seus elementos abrangidos pelo presente diploma, não deverão ser diversos do programa a visar e deles constarão obrigatoriamente as classificações e demais especificações que tenham sido atribuídas.
 
-###### Art. 21.º Os espectáculos ou divertimentos públicos devem começar às horas que foram indicadas, as quais apenas poderão ser alteradas em caso de força maior, devidamente justificado.
+Art. 21.º Os espectáculos ou divertimentos públicos devem começar às horas que foram indicadas, as quais apenas poderão ser alteradas em caso de força maior, devidamente justificado.
 
 ### CAPÍTULO V — Das infracções e sua sanção
 
-###### Art. 22.º A fiscalização do cumprimento das disposições constantes no presente diploma compete à Direcção-Geral dos Espectáculos e do Direito de Autor e às autoridades policiais e administrativas.
+Art. 22.º A fiscalização do cumprimento das disposições constantes no presente diploma compete à Direcção-Geral dos Espectáculos e do Direito de Autor e às autoridades policiais e administrativas.
 
-###### Art. 23.º As infracções ao disposto no n.º 2 do artigo 1.º serão punidas com coima de 50000$00 a 100000$00.
+Art. 23.º As infracções ao disposto no n.º 2 do artigo 1.º serão punidas com coima de 50000$00 a 100000$00.
 
-###### Art. 24.º A exibição de filmes e filmes-anúncios em mau estado de conservação, nas condições que vierem a ser definidas por despacho do Ministro da Cultura e Coordenação Científica, será punida com coima de 5000$00 a 25000$00.
+Art. 24.º A exibição de filmes e filmes-anúncios em mau estado de conservação, nas condições que vierem a ser definidas por despacho do Ministro da Cultura e Coordenação Científica, será punida com coima de 5000$00 a 25000$00.
 
-###### Art. 25.º As infracções ao disposto nos artigos 5.º, 8.º, 9.º e 14.º deste diploma serão punidas com coima de 50000$00.
+Art. 25.º As infracções ao disposto nos artigos 5.º, 8.º, 9.º e 14.º deste diploma serão punidas com coima de 50000$00.
 
-###### Art. 26.º As infracções ao disposto nos artigos 19.º e 20.º deste diploma serão punidas com coima de 25000$00.
+Art. 26.º As infracções ao disposto nos artigos 19.º e 20.º deste diploma serão punidas com coima de 25000$00.
 
-###### Art. 27.º Os responsáveis pela organização do espectáculo ou divertimento que permitirem ou facilitarem o acesso de menores ao espectáculo, em contravenção do disposto nas disposições legais aplicáveis, incorrerão na coima de 10000$00 a 25000$00 por cada menor.
+Art. 27.º Os responsáveis pela organização do espectáculo ou divertimento que permitirem ou facilitarem o acesso de menores ao espectáculo, em contravenção do disposto nas disposições legais aplicáveis, incorrerão na coima de 10000$00 a 25000$00 por cada menor.
 
-###### Art. 28.º Às infracções para que se não tenha estabelecido outra pena, caberá a coima de 5000$00 a 25000$00.
+Art. 28.º Às infracções para que se não tenha estabelecido outra pena, caberá a coima de 5000$00 a 25000$00.
 
-###### Art. 29.º No caso de reincidência, todas as coimas são elevadas ao dobro, devendo elevar-se ao triplo na segunda e ulteriores reincidências.
+Art. 29.º No caso de reincidência, todas as coimas são elevadas ao dobro, devendo elevar-se ao triplo na segunda e ulteriores reincidências.
 
-###### Art. 30.º Para efeitos do presente diploma, considera-se que há reincidência sempre que tenha sido praticada outra infracção da mesma natureza antes de decorridos 6 meses sobre a punição da primeira.
+Art. 30.º Para efeitos do presente diploma, considera-se que há reincidência sempre que tenha sido praticada outra infracção da mesma natureza antes de decorridos 6 meses sobre a punição da primeira.
 
-###### Art. 31.º A instrução dos processos relativos às infracções previstas neste diploma e a aplicação das respectivas coimas competem à Direcção-Geral de Espectáculos e Direito de Autor, sendo observado, para o efeito, o disposto na parte aplicável do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638) e respectivas disposições regulamentares.
+Art. 31.º A instrução dos processos relativos às infracções previstas neste diploma e a aplicação das respectivas coimas competem à Direcção-Geral de Espectáculos e Direito de Autor, sendo observado, para o efeito, o disposto na parte aplicável do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638) e respectivas disposições regulamentares.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 32.º Os espectáculos já classificados à data da entrada em vigor deste diploma mantêm a sua classificação, excepto se os interessados pedirem a sua reclassificação.
+Art. 32.º Os espectáculos já classificados à data da entrada em vigor deste diploma mantêm a sua classificação, excepto se os interessados pedirem a sua reclassificação.
 
-###### Art. 33.º - 1 - A Comissão de Classificação de Espectáculos apresentará ao Ministério da Cultura e Coordenação Científica, para homologação no prazo de 120 dias a contar da data de entrada em vigor deste diploma, os critérios de classificação dos espectáculos cinematográficos e de teatro a que se refere o n.º 3 do artigo 2.º do presente diploma.
+Art. 33.º - 1 - A Comissão de Classificação de Espectáculos apresentará ao Ministério da Cultura e Coordenação Científica, para homologação no prazo de 120 dias a contar da data de entrada em vigor deste diploma, os critérios de classificação dos espectáculos cinematográficos e de teatro a que se refere o n.º 3 do artigo 2.º do presente diploma.
 
 2 - Até publicação dos critérios referidos no número anterior mantêm-se em vigor as normas de classificação existentes.
 
-###### Art. 34.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Ministro da Cultura e Coordenação Científica.
+Art. 34.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Ministro da Cultura e Coordenação Científica.
 
-###### Art. 35.º O presente diploma revoga toda a legislação em contrário e prevalece sobre quaisquer disposições especiais ou regulamentares que o contrariem.
+Art. 35.º O presente diploma revoga toda a legislação em contrário e prevalece sobre quaisquer disposições especiais ou regulamentares que o contrariem.
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 1 de Setembro de 1982.**
+Promulgado em 1 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24000/34283429.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1985-177667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08fb198cf3881c13d5dc979420ecc1d40c9ef33b16d096aa7c4c4f8643701456
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f3f005e1c0ebd4c009eec1dda3a651dbb7092e9d288fe27eea6037e3538f863
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pensão de Preço de Sangue
+- Pensão por Serviços Excepcionais
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375189:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:48Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +111,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 210.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 2) do artigo 3.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2) do artigo 3.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
 2) A prática, por qualquer cidadão, de acto humanitário ou de dedicação à causa pública de que resulte a incapacidade física ou o falecimento do seu autor.
 
-###### Art. 2.º Ao n.º 1 do artigo 2.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, são aditadas as alíneas g) e h), com a seguinte redacção:
+Art. 2.º Ao n.º 1 do artigo 2.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, são aditadas as alíneas g) e h), com a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ...
 
@@ -118,32 +129,32 @@ g) De funcionário ou agente integrado no Serviço Nacional de Protecção Civil
 
 h) De funcionários ou agentes de outros serviços do Estado ou das autarquias, quando resultar de ferimentos ou de acidentes ocorridos em missões enquadradas em acções de emergência ou de protecção civil.
 
-###### Art. 3.º Ao artigo 9.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, é aditado um n.º 6, com a seguinte redacção:
+Art. 3.º Ao artigo 9.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, é aditado um n.º 6, com a seguinte redacção:
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 ...
 
 6 - Nos casos em que a vítima não tenha qualquer vínculo funcional ao Estado, ter-se-á em conta, para os efeitos dos números anteriores, o dobro do salário mínimo nacional.
 
-###### Art. 4.º Ao artigo 23.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, é aditado um n.º 6, com a seguinte redacção:
+Art. 4.º Ao artigo 23.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, é aditado um n.º 6, com a seguinte redacção:
 
-###### Art. 23.º ...
+Art. 23.º ...
 
 ...
 
 6 - Nos casos em que a vítima não pertencer às Forças Armadas, as referências feitas nos números anteriores a Estado-Maior, Ministro da Defesa Nacional e médico militar consideram-se feitas em relação a ministério e ministro, competentes em razão de matéria, e delegado de saúde, respectivamente.
 
-###### Art. 5.º Este diploma produz efeitos desde 1 de Junho de 1985.
+Art. 5.º Este diploma produz efeitos desde 1 de Junho de 1985.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

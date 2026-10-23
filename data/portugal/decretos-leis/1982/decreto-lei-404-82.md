@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22200/30213025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 212b53c48795f10d5031b7ec09c18a034b958ed879e0d9e3a8d097ad25ec2819
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da7449ae7b77c6bcb714ad70a0165fe70793128d89ae3eb579548ff296b5ef31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pensão de Preço de Sangue
+- Pensão por Serviços Excepcionais
 relationships:
 - type: amended_by
   target: pt:dre:693590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177667:por
+  label: "Alterado o n.º 2) do artigo 3.º, aditadas as alíneas g) e h) ao n.º 1 do artigo 2.º e aditado um n.º 6 aos artigos\
+    \ 9.º e 23.º, pelo DEC LEI.413/85.18.10.1985.MAI, DR.IS [240] de 18.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1985-177667
+  date: '1985-10-18'
+- type: amended_by
+  target: pt:dre:662159:por
+  label: "Dada nova redacção aos arts. 9.º, 14.º, 20.º, 23.º, 24.º, 26.º, 28.º, 29.º e 36.º e revogados os arts. 10.º, 21.º,\
+    \ 25.º e 34.º pelo DEC LEI.140/87.20.03.1987.MF, DR.IS [66] de 20.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-1987-662159
+  date: '1987-03-20'
+- type: amended_by
+  target: pt:dre:421775:por
+  label: "Alterados os arts. 27º e 28º, pelo DEC LEI.215/87.1987.05.29.PCM, DR.IS [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: amended_by
+  target: pt:dre:283092:por
+  label: "Alterado o artigo 23.º pelo DEC LEI.43/88.08.02.1988.MDN, DR.IS [32] de 08.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-1988-283092
+  date: '1988-02-08'
+- type: amended_by
+  target: pt:dre:378362:por
+  label: "Alterados os arts. 9º e 33º pelo DEC LEI.266/88.28.07.1988.MF, DR.IS [173] de 28.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-1988-378362
+  date: '1988-07-28'
+- type: amended_by
+  target: pt:dre:557459:por
+  label: Alterado o art. 2º do presente diploma, pelo DEC LEI.289/90.20.09.1990.MF, DR.IS [218] de 20.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1990-557459
+  date: '1990-09-20'
+- type: amended_by
+  target: pt:dre:300387:por
+  label: "Alterado o artigo 3.º pelo DEC LEI.136/92.16.07.1992.MDN, DR.IS-A [162] de 16.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1992-300387
+  date: '1992-07-16'
+- type: amended_by
+  target: pt:dre:413776:por
+  label: "Alterados os arts. 3º e 28º e adita o art. 3º-A pelo DEC LEI.97/96.1996.07.18.MF, DR.IS-A [165]\05]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-1996-413776
+  date: '1996-07-18'
+- type: amended_by
+  target: pt:dre:424489:por
+  label: "Aditada a al. c) ao nº 1 do art. 3º, com as alterações introduzidas pelo Dec Lei 136/92 de 16-Jul, pela LEI.34/98.1998.07.18.AR,\
+    \ DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-1998-424489
+  date: '1998-07-18'
+- type: cites
+  target: pt:dre:281448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474935:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578083:por
+  label: "Rectificado o artigo 3.º do Decreto-Lei n.º 97/96, de 18 de Julho, na redacção dada ao artigo 3.º-A do presente\
+    \ diploma, pela DECL-RECT.11-O/96.31.07.1996.PCM, DR.IS-B [176]2ºSupl de 31.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-o-1996-578083
+  date: '1996-07-31'
+- type: repealed_by
+  target: pt:dre:693590:por
+  label: "Revogado pelo DEC LEI.466/99.1999.11.06.MF,DR.IS-A [259]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/466-1999-693590
+  date: '1999-11-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:22Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +177,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Âmbito do diploma
 
-###### Artigo 1.º O presente diploma abrange:
+Artigo 1.º O presente diploma abrange:
 
 a) Pensões de preço de sangue;
 
@@ -118,7 +187,7 @@ b) Pensões por serviços excepcionais e relevantes prestados ao País.
 
 ##### DIVISÃO I — Dos factos originários
 
-###### Art. 2.º - 1 - Origina o direito à pensão de preço de sangue o falecimento:
+Art. 2.º - 1 - Origina o direito à pensão de preço de sangue o falecimento:
 
 a) De militar ao serviço da Nação, por acidente ocorrido em ocasião de serviço e em consequência do mesmo, ou quando a morte resulte de acidente ou doença adquirida ou agravada em virtude de serviço de campanha ou de serviço de manutenção da ordem pública;
 
@@ -134,7 +203,7 @@ f) Do médico, engenheiro ou qualquer técnico quando resulte de ferimentos ou a
 
 2 - Para efeitos do presente diploma, considera-se equivalente ao falecimento o desaparecimento em campanha e em perigo dos indivíduos referidos nas alíneas a) e b) do número anterior.
 
-###### Art. 3.º Origina o direito à pensão por serviços excepcionais e relevantes prestados ao País:
+Art. 3.º Origina o direito à pensão por serviços excepcionais e relevantes prestados ao País:
 
 1) A prática, por cidadão português, militar ou civil, de feitos praticados em teatro de guerra, actos de abnegação e coragem cívica ou altos e assinalados serviços à Humanidade ou à Pátria;
 
@@ -142,7 +211,7 @@ f) Do médico, engenheiro ou qualquer técnico quando resulte de ferimentos ou a
 
 ##### DIVISÃO II — Dos titulares com direito à pensão
 
-###### Art. 4.º - 1 - A pensão de preço de sangue é estabelecida em benefício de quem se encontre, relativamente ao falecido, em alguma das situações referidas nos seguintes grupos:
+Art. 4.º - 1 - A pensão de preço de sangue é estabelecida em benefício de quem se encontre, relativamente ao falecido, em alguma das situações referidas nos seguintes grupos:
 
 1.º Cônjuges sobrevivos, divorciados, separados judicialmente de pessoas e bens, pessoas que estiverem nas condições do artigo 2020.º do Código Civil e descendentes;
 
@@ -154,17 +223,17 @@ f) Do médico, engenheiro ou qualquer técnico quando resulte de ferimentos ou a
 
 2 - Os beneficiários de cada grupo preferem aos do grupo ou grupos seguintes.
 
-###### Art. 5.º - 1 - A pensão por serviços relevantes ou excepcionais prestados ao País é estabelecida em benefício do próprio autor do facto que a origine, enquanto vivo, e, após a sua morte, das pessoas referidas no artigo anterior.
+Art. 5.º - 1 - A pensão por serviços relevantes ou excepcionais prestados ao País é estabelecida em benefício do próprio autor do facto que a origine, enquanto vivo, e, após a sua morte, das pessoas referidas no artigo anterior.
 
 2 - Se a pensão tiver sido concedida em vida ao autor do facto determinante dela, transmite-se, após a sua morte, às pessoas que a poderiam requerer pelo seu falecimento.
 
-###### Art. 6.º - 1 - O direito a receber a pensão só é reconhecido às pessoas que, incluindo-se em alguns dos grupos referidos no artigo 4.º, estivessem a cargo do falecido à data do óbito e reúnam os requisitos indicados no artigo 7.º
+Art. 6.º - 1 - O direito a receber a pensão só é reconhecido às pessoas que, incluindo-se em alguns dos grupos referidos no artigo 4.º, estivessem a cargo do falecido à data do óbito e reúnam os requisitos indicados no artigo 7.º
 
 2 - O requisito de estar a cargo do falecido à data do óbito é dispensado, quanto aos órfãos menores, à pessoa que criou o falecido e aos ascendentes.
 
 3 - Às pessoas referidas nos grupos n.os 2.º e 3.º do n.º 1 do artigo 4.º é-lhes reconhecido o direito de, a todo o tempo, requererem a pensão.
 
-###### Art. 7.º - São requisitos especiais:
+Art. 7.º - São requisitos especiais:
 
 1) Quanto ao cônjuge sobrevivo, não separado judicialmente de pessoas e bens:
 
@@ -194,11 +263,11 @@ Terem mais de 65 anos ou, sendo de idade inferior, encontrarem-se física ou int
 
 6) Quanto aos irmãos, os requisitos indicados no n.º 4) e ainda o de serem órfãos de pai e mãe à data do falecimento do autor da pensão.
 
-###### Art. 8.º O cônjuge sobrevivo que voltar a casar representará os filhos que tenham direito à pensão, para efeitos de recebimento desta, enquanto tiver a administração dos bens deles. Os pais solteiros só poderão representar os filhos com direito à pensão, para efeitos de recebimento desta, se os mesmos estiverem a seu cargo.
+Art. 8.º O cônjuge sobrevivo que voltar a casar representará os filhos que tenham direito à pensão, para efeitos de recebimento desta, enquanto tiver a administração dos bens deles. Os pais solteiros só poderão representar os filhos com direito à pensão, para efeitos de recebimento desta, se os mesmos estiverem a seu cargo.
 
 ##### DIVISÃO III — Do quantitativo da pensão
 
-###### Art. 9.º - 1 - O quantitativo da pensão, isento de qualquer imposto, excepto o do selo, é igual a 70% do vencimento do falecido ou do autor dos actos que a originam, acrescido das remunerações acessórias consideradas para efeito de aposentação, quando se trate dos titulares a que se refere o n.º 1.º do n.º 1 do artigo 4.º
+Art. 9.º - 1 - O quantitativo da pensão, isento de qualquer imposto, excepto o do selo, é igual a 70% do vencimento do falecido ou do autor dos actos que a originam, acrescido das remunerações acessórias consideradas para efeito de aposentação, quando se trate dos titulares a que se refere o n.º 1.º do n.º 1 do artigo 4.º
 
 2 - A referida percentagem será reduzida para 50% relativamente aos restantes titulares.
 
@@ -208,7 +277,7 @@ Terem mais de 65 anos ou, sendo de idade inferior, encontrarem-se física ou int
 
 5 - O quantitativo da pensão, calculado nos termos dos n.os 1 e 2 deste artigo, será arredondado por excesso para a centena de escudos.
 
-###### Art. 10.º - 1 - O quantitativo da pensão a conceder aos beneficiários não sofrerá qualquer redução desde que os interessados não possuam rendimentos ou proventos próprios de qualquer natureza superiores à remuneração atribuída à última letra da tabela de vencimentos do funcionalismo público.
+Art. 10.º - 1 - O quantitativo da pensão a conceder aos beneficiários não sofrerá qualquer redução desde que os interessados não possuam rendimentos ou proventos próprios de qualquer natureza superiores à remuneração atribuída à última letra da tabela de vencimentos do funcionalismo público.
 
 2 - Se os rendimentos ou proventos próprios ultrapassarem a citada importância, a parte que a exceder será deduzida no quantitativo da pensão.
 
@@ -216,7 +285,7 @@ Terem mais de 65 anos ou, sendo de idade inferior, encontrarem-se física ou int
 
 4 - Em relação à pessoa que criou o falecido e aos ascendentes, tratando-se de um casal, a pensão será atribuída ao que for julgado incapaz, tomando-se no entanto em consideração os rendimentos e proventos de ambos para o cálculo da mesma.
 
-###### Art. 11.º - Concorrendo vários beneficiários, a pensão será dividida em partes iguais entre todos os interessados, salvo nos casos seguintes:
+Art. 11.º - Concorrendo vários beneficiários, a pensão será dividida em partes iguais entre todos os interessados, salvo nos casos seguintes:
 
 1.º Concurso de cônjuge sobrevivo e filhos: metade da pensão pertence ao cônjuge e a outra metade aos filhos, em partes iguais;
 
@@ -224,15 +293,15 @@ Terem mais de 65 anos ou, sendo de idade inferior, encontrarem-se física ou int
 
 3.º Se o concurso incluir outros descendentes além dos filhos, todos os descendentes da mesma estirpe intervirão como se constituíssem uma unidade somente, dividindo entre eles, em partes iguais, a quota-parte da pensão que vier a ser apurada por aquela forma.
 
-###### Art. 12.º - 1 - A pensão de preço de sangue começa a vencer-se a partir do início do mês seguinte ao da morte do autor, desde que requerida no prazo de 180 dias após o falecimento, e desde o primeiro dia do mês imediato ao da entrega da petição, quando esta for apresentada para além daquele prazo.
+Art. 12.º - 1 - A pensão de preço de sangue começa a vencer-se a partir do início do mês seguinte ao da morte do autor, desde que requerida no prazo de 180 dias após o falecimento, e desde o primeiro dia do mês imediato ao da entrega da petição, quando esta for apresentada para além daquele prazo.
 
 2 - Os prazos estabelecidos no número anterior, quanto à entrega das petições, não se aplicam aos menores, aos interditos e aos maiores incapazes enquanto durar a incapacidade ou não tiverem quem os represente.
 
-###### Art. 13.º Sempre que as pensões concedidas nos termos deste diploma sejam usufruídas por mais de um beneficiário e algum deles perca o direito à sua quota-parte, deverá proceder-se ao ajustamento do quantitativo global da pensão e à sua redistribuição pelos restantes pensionistas, a qual igualmente terá lugar sempre que se verifique o aumento do número de beneficiários.
+Art. 13.º Sempre que as pensões concedidas nos termos deste diploma sejam usufruídas por mais de um beneficiário e algum deles perca o direito à sua quota-parte, deverá proceder-se ao ajustamento do quantitativo global da pensão e à sua redistribuição pelos restantes pensionistas, a qual igualmente terá lugar sempre que se verifique o aumento do número de beneficiários.
 
 ##### DIVISÃO IV — Cessação do direito à pensão
 
-###### Art. 14.º O direito a receber a pensão cessa:
+Art. 14.º O direito a receber a pensão cessa:
 
 1.º Pela morte do beneficiário;
 
@@ -240,17 +309,17 @@ Terem mais de 65 anos ou, sendo de idade inferior, encontrarem-se física ou int
 
 3.º Pelo casamento ou vivência em situação análoga, relativamente aos cônjuges, divorciados, separados judicialmente de pessoas e bens e aos que se encontrem nas condições previstas no artigo 2020.º do Código Civil.
 
-###### Art. 15.º Os pensionistas referidos no n.º 3.º do artigo anterior que percam a pensão por efeito de casamento, receberão por uma só vez a importância de 20000$00, desde que seja apresentado documento comprovativo do facto no prazo de 180 dias contado a partir da data da sua celebração.
+Art. 15.º Os pensionistas referidos no n.º 3.º do artigo anterior que percam a pensão por efeito de casamento, receberão por uma só vez a importância de 20000$00, desde que seja apresentado documento comprovativo do facto no prazo de 180 dias contado a partir da data da sua celebração.
 
-###### Art. 16.º A pensão correspondente ao mês em curso na data em que se verificou o facto determinante da sua perda será abonada, na totalidade ao beneficiário do direito extinto ou seus herdeiros.
+Art. 16.º A pensão correspondente ao mês em curso na data em que se verificou o facto determinante da sua perda será abonada, na totalidade ao beneficiário do direito extinto ou seus herdeiros.
 
 ### CAPÍTULO III — Do processo para a concessão da pensão
 
 ##### DIVISÃO I — Da petição
 
-###### Art. 17.º A concessão da pensão depende de requerimento do interessado ou de quem legalmente o represente, no qual se indiquem a residência, nome, número, posto, cargo e unidade ou corporação a que pertencia o falecido.
+Art. 17.º A concessão da pensão depende de requerimento do interessado ou de quem legalmente o represente, no qual se indiquem a residência, nome, número, posto, cargo e unidade ou corporação a que pertencia o falecido.
 
-###### Art. 18.º Os requerimentos são individuais, um por cada interessado, salvo nos casos seguintes:
+Art. 18.º Os requerimentos são individuais, um por cada interessado, salvo nos casos seguintes:
 
 1.º O cônjuge sobrevivo, cônjuge separado judicialmente de pessoas e bens ou divorciado e aquele que estiver nas condições previstas no artigo 2020.º do Código Civil pedirá, no mesmo requerimento, a pensão para si e para os descendentes menores de 18 anos não emancipados que se encontrem a seu cargo;
 
@@ -258,29 +327,29 @@ Terem mais de 65 anos ou, sendo de idade inferior, encontrarem-se física ou int
 
 3.º Os ascendentes podem formular os seus pedidos no mesmo requerimento.
 
-###### Art. 19.º - 1 - Os interessados instruirão os seus requerimentos com as certidões, atestados e demais documentos que provem os factos demonstrativos do direito à pensão, entregando-os à autoridade civil ou militar da localidade onde residirem, a qual deles passará recibo, enviando-os imediatamente para o ministério competente.
+Art. 19.º - 1 - Os interessados instruirão os seus requerimentos com as certidões, atestados e demais documentos que provem os factos demonstrativos do direito à pensão, entregando-os à autoridade civil ou militar da localidade onde residirem, a qual deles passará recibo, enviando-os imediatamente para o ministério competente.
 
 2 - Os processos e documentos necessários para os instruir são gratuitos e isentos do imposto do selo.
 
 3 - As autoridades militares e civis facilitarão a aquisição dos documentos necessários para a instrução dos processos.
 
-###### Art. 20.º - 1 - A incapacidade física ou intelectual permanente do exercício da actividade profissional normal ou de angariação dos meios de subsistência é comprovada por verificação pela junta médica do Ministério das Finanças e do Plano ou por junta médica nomeada pelo governador civil do distrito da residência dos interessados.
+Art. 20.º - 1 - A incapacidade física ou intelectual permanente do exercício da actividade profissional normal ou de angariação dos meios de subsistência é comprovada por verificação pela junta médica do Ministério das Finanças e do Plano ou por junta médica nomeada pelo governador civil do distrito da residência dos interessados.
 
 2 - A intervenção da junta médica nomeada pelo governador civil não prejudica a da junta médica do Ministério das Finanças e do Plano e pode ser substituída por esta sempre que isso se julgue conveniente.
 
 3 - As despesas que os interessados sejam obrigados a fazer em consequência do exame pela junta médica, designadamente as de transporte, alojamento e alimentação, correrão por conta do Estado, bem como os encargos com os meios de diagnóstico que for necessário empregar.
 
-###### Art. 21.º - 1 - As juntas médicas a que se refere a parte final do n.º 1 do artigo anterior serão constituídas pelo governador civil, ou seu representante, que presidirá, pelo delegado ou subdelegado de saúde e por um médico municipal.
+Art. 21.º - 1 - As juntas médicas a que se refere a parte final do n.º 1 do artigo anterior serão constituídas pelo governador civil, ou seu representante, que presidirá, pelo delegado ou subdelegado de saúde e por um médico municipal.
 
 2 - Se no concelho da residência dos indivíduos a examinar não puder ser constituída a junta nos termos indicados no número anterior por falta de médicos oficiais, o governador civil promoverá que a junta médica se constitua no concelho mais próximo onde seja possível reunir aqueles médicos.
 
 3 - No caso de impossibilidade de levar a efeito o preceituado no número anterior, o governador civil, ou o seu representante, poderá requisitar a colaboração de médico particular, que será remunerado pela sua participação naquela junta desde que, através da entidade que tiver solicitado os seus serviços, seja feita remessa do documento de despesa à Direcção-Geral da Contabilidade Pública (Serviço de Pensões).
 
-###### Art. 22.º No caso de a pessoa cuja morte motivou a pensão ter falecido na qualidade de licenciado, na reserva ou com baixa de serviço por incapacidade física devem os requerentes da pensão apresentar certidão de teor de óbito daquele, mencionando a doença que o vitimou e, se esta não figurar no certificado de óbito passado pelo médico que o verificou, atestado passado pelo médico ou médicos que trataram o falecido, do qual conste a doença de que foi tratado e aquela que o vitimou.
+Art. 22.º No caso de a pessoa cuja morte motivou a pensão ter falecido na qualidade de licenciado, na reserva ou com baixa de serviço por incapacidade física devem os requerentes da pensão apresentar certidão de teor de óbito daquele, mencionando a doença que o vitimou e, se esta não figurar no certificado de óbito passado pelo médico que o verificou, atestado passado pelo médico ou médicos que trataram o falecido, do qual conste a doença de que foi tratado e aquela que o vitimou.
 
 ##### DIVISÃO II — Trâmites processuais
 
-###### Art. 23.º - 1 - Recebida a petição e demais documentos no estado-maior respectivo, será aí organizado o processo e remetido seguidamente, com indicação do vencimento do falecido, devidamente discriminado, e das disposições legais aplicáveis, à Direcção-Geral da Contabilidade Pública (Serviço de Pensões).
+Art. 23.º - 1 - Recebida a petição e demais documentos no estado-maior respectivo, será aí organizado o processo e remetido seguidamente, com indicação do vencimento do falecido, devidamente discriminado, e das disposições legais aplicáveis, à Direcção-Geral da Contabilidade Pública (Serviço de Pensões).
 
 2 - Sempre que se trate de pensão requerida por falecimento ou por desaparecimento de indivíduos susceptíveis de serem abrangidos pelas alíneas a) e b) do n.º 1 e pelo n.º 2 do artigo 2.º, os respectivos processos deverão incluir obrigatoriamente um auto de averiguações elaborado sobre a ocorrência, cuja instrução se regulará pelas normas militares.
 
@@ -290,64 +359,64 @@ Terem mais de 65 anos ou, sendo de idade inferior, encontrarem-se física ou int
 
 5 - Exarado o despacho do Ministro da Defesa Nacional, será o processo devolvido ao departamento militar competente, a fim de ser remetido à Direcção-Geral da Contabilidade Pública (Serviço de Pensões).
 
-###### Art. 24.º Recebido o processo, a Direcção-Geral da Contabilidade Pública (Serviço de Pensões) dará a sua informação acerca da legalidade da pretensão e do quantitativo da pensão, a qual será posteriormente presente a despacho do Ministro de Estado e das Finanças e do Plano.
+Art. 24.º Recebido o processo, a Direcção-Geral da Contabilidade Pública (Serviço de Pensões) dará a sua informação acerca da legalidade da pretensão e do quantitativo da pensão, a qual será posteriormente presente a despacho do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 25.º - 1 - Quando se suscitem dúvidas sobre a causa determinante da morte do indivíduo que dá direito à pensão, por a mesma não constar do certificado médico do óbito ou por falta deste, poderá ser ordenado um inquérito, a realizar por um médico militar da unidade mais próxima da localidade em que residia o falecido, acerca da doença que o vitimou e da vida que teve desde o início dela até ao falecimento.
+Art. 25.º - 1 - Quando se suscitem dúvidas sobre a causa determinante da morte do indivíduo que dá direito à pensão, por a mesma não constar do certificado médico do óbito ou por falta deste, poderá ser ordenado um inquérito, a realizar por um médico militar da unidade mais próxima da localidade em que residia o falecido, acerca da doença que o vitimou e da vida que teve desde o início dela até ao falecimento.
 
 2 - Os serviços de saúde respectivos dão o seu parecer sobre se as doenças que vitimaram os militares estão ou não compeendidas no artigo 2.º e suas alíneas a) e b), para efeitos de concessão da pensão de sangue.
 
-###### Art. 26.º Do despacho que negar a pretensão cabe recurso contencioso para o Supremo Tribunal Administrativo, com isenção de custas.
+Art. 26.º Do despacho que negar a pretensão cabe recurso contencioso para o Supremo Tribunal Administrativo, com isenção de custas.
 
 ##### DIVISÃO III — Especialidades do processo por serviços excepcionais ou relevantes
 
-###### Art. 27.º O processo para a concessão de pensão por serviços excepcionais ou relevantes prestados ao País é organizado com base em requerimento do interessado ou em ordem do Governo no ministério de que depender ou dependia a pessoa a que respeitar o efeito ou serviço justificativo dela.
+Art. 27.º O processo para a concessão de pensão por serviços excepcionais ou relevantes prestados ao País é organizado com base em requerimento do interessado ou em ordem do Governo no ministério de que depender ou dependia a pessoa a que respeitar o efeito ou serviço justificativo dela.
 
-###### Art. 28.º As pensões a que se refere o artigo anterior serão concedidas através de resolução do Conselho de Ministros mediante proposta do Ministro de Estado e das Finanças e do Plano, precedendo parecer favorável do Supremo Tribunal Militar, quando o facto justificativo da mesma pensão seja a prática de actos realizados em teatro de guerra, e da Procuradoria-Geral da República, nos demais casos.
+Art. 28.º As pensões a que se refere o artigo anterior serão concedidas através de resolução do Conselho de Ministros mediante proposta do Ministro de Estado e das Finanças e do Plano, precedendo parecer favorável do Supremo Tribunal Militar, quando o facto justificativo da mesma pensão seja a prática de actos realizados em teatro de guerra, e da Procuradoria-Geral da República, nos demais casos.
 
-###### Art. 29.º As pensões por serviços excepcionais ou relevantes começam a vencer-se na data da resolução de concessão.
+Art. 29.º As pensões por serviços excepcionais ou relevantes começam a vencer-se na data da resolução de concessão.
 
 ##### DIVISÃO IV — Da execução da decisão
 
-###### Art. 30.º Concedida a pensão, proceder-se-á em seguida ao respectivo assentamento na Direcção-Geral da Contabilidade Pública, não dependendo o seu abono do cumprimento de qualquer outra formalidade.
+Art. 30.º Concedida a pensão, proceder-se-á em seguida ao respectivo assentamento na Direcção-Geral da Contabilidade Pública, não dependendo o seu abono do cumprimento de qualquer outra formalidade.
 
-###### Art. 31.º - 1 - Ao pensionista será entregue um cartão, de modelo a aprovar por despacho do Ministro de Estado e das Finanças e Plano, que o identifica como titular da pensão no acto do pagamento.
+Art. 31.º - 1 - Ao pensionista será entregue um cartão, de modelo a aprovar por despacho do Ministro de Estado e das Finanças e Plano, que o identifica como titular da pensão no acto do pagamento.
 
 2 - No documento referido no número anterior deverão constar as circunstâncias em que os interessados perdem o direito à pensão e a obrigação de apresentarem, no mês de Junho de cada ano, no respectivo recibo, declaração das entidades civis competentes, ou de qualquer autoridade militar do lugar onde residem, autenticada com o selo branco, na qual sejam mencionadas as condições especiais da sua usufruição, nomeadamente de que estão vivos, se conservam no estado civil em que se encontravam à data da concessão da pensão, têm bom comportamento moral e civil e não vivem maritalmente.
 
 3 - As declarações a que se refere este artigo são passadas gratuitamente e isentas do imposto do selo ou de qualquer outra importância, seja a que título for.
 
-###### Art. 32.º O pagamento das pensões devidas aos pensionistas que residem no estrangeiro será efectuado segundo as normas que forem estabelecidas entre as Direcções-Gerais da Contabilidade Pública e do Tesouro.
+Art. 32.º O pagamento das pensões devidas aos pensionistas que residem no estrangeiro será efectuado segundo as normas que forem estabelecidas entre as Direcções-Gerais da Contabilidade Pública e do Tesouro.
 
-###### Art. 33.º É da competência da Direcção-Geral da Contabilidade Pública (Serviço de Pensões) a inspecção de todo o serviço relativo a pensões concedidas nos termos deste diploma, tendo em vista o fiel cumprimento de todas as suas disposições e, designadamente, evitar que às pensões atribuídas a filhos menores seja dada pelos seus representantes aplicação diferente daquela que a lei lhes assinala.
+Art. 33.º É da competência da Direcção-Geral da Contabilidade Pública (Serviço de Pensões) a inspecção de todo o serviço relativo a pensões concedidas nos termos deste diploma, tendo em vista o fiel cumprimento de todas as suas disposições e, designadamente, evitar que às pensões atribuídas a filhos menores seja dada pelos seus representantes aplicação diferente daquela que a lei lhes assinala.
 
-###### Art. 34.º - 1 - Sempre que se verifique que o pensionista perdeu o direito à pensão, a Direcção-Geral da Contabilidade Pública (Serviço de Pensões), se considerar ser caso disso, organizará o respectivo processo, que, com o seu parecer, submeterá a despacho do Ministro, depois de ter previamente convidado o pensionista a apresentar, por escrito, a sua justificação no prazo de 30 dias a contar da intimação.
+Art. 34.º - 1 - Sempre que se verifique que o pensionista perdeu o direito à pensão, a Direcção-Geral da Contabilidade Pública (Serviço de Pensões), se considerar ser caso disso, organizará o respectivo processo, que, com o seu parecer, submeterá a despacho do Ministro, depois de ter previamente convidado o pensionista a apresentar, por escrito, a sua justificação no prazo de 30 dias a contar da intimação.
 
 2 - Do despacho do Ministro há recurso contencioso para o Supremo Tribunal Administrativo, com isenção de custas.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 35.º Os pedidos de pensões de sangue indeferidos poderão ser revistos a requerimento dos interessados e sujeitos a novo despacho, depois de convenientemente informados, quando os peticionantes apresentem elementos de prova não considerados anteriormente.
+Art. 35.º Os pedidos de pensões de sangue indeferidos poderão ser revistos a requerimento dos interessados e sujeitos a novo despacho, depois de convenientemente informados, quando os peticionantes apresentem elementos de prova não considerados anteriormente.
 
-###### Art. 36.º A habilitação de herdeiros, quando necessária, poderá fazer-se administrativamente, observando-se o estabelecido no [Decreto-Lei n.º 42947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448), de 27 de Abril de 1960, no que respeita à forma das petições, meios de prova e dispensa de formalidades, cabendo a organização do respectivo processo à direcção de finanças ou consulado por onde era satisfeita a pensão ao seu titular.
+Art. 36.º A habilitação de herdeiros, quando necessária, poderá fazer-se administrativamente, observando-se o estabelecido no [Decreto-Lei n.º 42947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448), de 27 de Abril de 1960, no que respeita à forma das petições, meios de prova e dispensa de formalidades, cabendo a organização do respectivo processo à direcção de finanças ou consulado por onde era satisfeita a pensão ao seu titular.
 
-###### Art. 37.º - 1 - Será extinto o acréscimo que vinha sendo considerado no cálculo das pensões sempre que o número de beneficiários era superior a 1.
+Art. 37.º - 1 - Será extinto o acréscimo que vinha sendo considerado no cálculo das pensões sempre que o número de beneficiários era superior a 1.
 
 2 - Serão revistas em conformidade com as disposições do presente diploma as pensões concedidas ou requeridas anteriormente a 1 de Setembro de 1981, não podendo, no entanto, resultar da revisão operada pensões de valor inferior ao das que vêm sendo abonadas, sem prejuízo do disposto no artigo 10.º
 
-###### Art. 38.º - 1 - Não ficam abrangidas pelo disposto nos n.os 4) e 6) do artigo 7.º as pensões já concedidas ou requeridas relativamente às descendentes e irmãs que tenham mais de 16 anos de idade à data da entrada em vigor do presente diploma, perdendo, no entanto, o direito à pensão pelo casamento, por não terem bom comportamento moral e civil ou por viverem maritalmente.
+Art. 38.º - 1 - Não ficam abrangidas pelo disposto nos n.os 4) e 6) do artigo 7.º as pensões já concedidas ou requeridas relativamente às descendentes e irmãs que tenham mais de 16 anos de idade à data da entrada em vigor do presente diploma, perdendo, no entanto, o direito à pensão pelo casamento, por não terem bom comportamento moral e civil ou por viverem maritalmente.
 
 2 - É mantido o limite máximo de 25 anos para os descendentes do sexo masculino que estejam a beneficiar da pensão na situação de estudantes à data da publicação deste diploma.
 
-###### Art. 39.º São revogados os Decretos-Leis n.os 47084, de 9 de Julho de 1966, 48414, de 31 de Maio de 1968, e 38/72, de 3 de Fevereiro.
+Art. 39.º São revogados os Decretos-Leis n.os 47084, de 9 de Julho de 1966, 48414, de 31 de Maio de 1968, e 38/72, de 3 de Fevereiro.
 
-###### Art. 40.º Para revisão e actualização dos respectivos processos, fica a Direcção-Geral da Contabilidade Pública (Serviço de Pensões) autorizada a realizar as horas extraordinárias consideradas indispensáveis.
+Art. 40.º Para revisão e actualização dos respectivos processos, fica a Direcção-Geral da Contabilidade Pública (Serviço de Pensões) autorizada a realizar as horas extraordinárias consideradas indispensáveis.
 
-###### Art. 41.º Este diploma produz efeitos a partir de 1 de Setembro de 1981.
+Art. 41.º Este diploma produz efeitos a partir de 1 de Setembro de 1981.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 20 de Agosto de 1982.**
+Promulgado em 20 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

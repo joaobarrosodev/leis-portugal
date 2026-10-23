@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03000/03760377.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78e77bb857b2a37b4d65d07e5fdfff997c2e5697608f47af38e723bbbe738912
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbbcd9c45db4ad39e7bf06e3c20bf0ebdb3df557b5235f7e6a1947e7f02c5482
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alteração Orçamental
+- Definição de Competências
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:230110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217926:por
+  label: "Mantido em vigor para o ano de 1992 o disposto no presente diploma, pelo DEC LEI.62/92.21.04.1992.MF, DR.IS-A [93]\
+    \ de 21.04.1992, com as alterações constantes do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-1992-217926
+  date: '1992-04-21'
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Mantido em vigor, no ano de 1994, com as adaptações introduzidas pelo art. 13º do DEC LEI.77/94.1994.03.09.MF, DR.IS-A\
+    \ [57], pelo referido diploma\0oma\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:230110:por
+  label: "Revogado pelo DEC LEI.71/95.1995.04.15.MF, DR.IS-A [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1995-230110
+  date: '1995-04-15'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:26Z'
   warnings: []
   errors: []
 ---
@@ -156,12 +184,12 @@ c) Se referirem a verbas de «Remunerações certas e permanentes» que sejam ut
 
 Visto e aprovado em Conselho de Ministros em 17 de Janeiro de 1984. - Mário Soares - Ernâni Rodrigues Lopes.
 
-**Promulgado em 26 de Janeiro de 1984.**
+Promulgado em 26 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Janeiro de 1984.**
+Referendado em 30 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

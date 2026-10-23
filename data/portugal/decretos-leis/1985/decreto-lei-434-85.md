@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24400/35093509.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1985-178091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae2d93c495e6c1c16ec02887402a387916736b33b347b57887660eb281d1725e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e8ca2c8462a00a71c70bf8ce769b67e95c32486772976c4af39716c1d31624b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Serviço
+- Cooperativa Sinfonia
+- Música
+- Orquestra
+- RDP
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUMERO 1 DO ARTIGO 1 PELO DECRETO LEI 348/87, DE 5 DE NOVEMBRO, PUBLICADO NO DR.IS, 255.\0, 255."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-11-05'
+- type: amended_by
+  target: pt:dre:497581:por
+  label: "Alterado o nº1 do art. 1º pelo DEC LEI.348/87.05.11.1987.PCM, DR.IS [255] de 05.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/348-1987-497581
+  date: '1987-11-05'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:06Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +126,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os músicos componentes das Orquestras Sinfónicas de Lisboa e Porto da Radiodifusão Portuguesa, E. P., passarão a partir de 1 de Janeiro de 1986 a prestar serviço na Cooperativa Sinfonia, Cooperativa de Interesse Público de Responsabilidade Limitada, em regime de comissão de serviço, mantendo todos os direitos inerentes ao seu estatuto profissional naquela empresa e considerando-se todo o período de comissão como serviço nela prestado.
+Artigo 1.º - 1 - Os músicos componentes das Orquestras Sinfónicas de Lisboa e Porto da Radiodifusão Portuguesa, E. P., passarão a partir de 1 de Janeiro de 1986 a prestar serviço na Cooperativa Sinfonia, Cooperativa de Interesse Público de Responsabilidade Limitada, em regime de comissão de serviço, mantendo todos os direitos inerentes ao seu estatuto profissional naquela empresa e considerando-se todo o período de comissão como serviço nela prestado.
 
 2 - A Radiodifusão Portuguesa, E. P., cederá à Cooperativa, em regime igual ao previsto no número anterior, o pessoal administrativo necessário ao apoio das orquestras sinfónicas.
 
-###### Art. 2.º - 1 - A comissão de serviço termina por dissolução da Cooperativa ou por acordo tripartido entre os trabalhadores, a Radiodifusão Portuguesa, E. P., e a Cooperativa.
+Art. 2.º - 1 - A comissão de serviço termina por dissolução da Cooperativa ou por acordo tripartido entre os trabalhadores, a Radiodifusão Portuguesa, E. P., e a Cooperativa.
 
 2 - Finda a comissão de serviço, os trabalhadores retomarão o estatuto laboral na empresa de origem, sem as regalias entretanto adquiridas na Cooperativa, mas sem prejuízo da adaptação da sua situação na Radiodifusão Portuguesa, E. P., àquela que teriam se aí se tivessem mantido.
 
@@ -118,12 +138,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - António Antero Coimbra Martins.
 
-**Promulgado em 11 de Outubro de 1985.**
+Promulgado em 11 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 15 de Outubro de 1985.**
+Referendado em 15 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

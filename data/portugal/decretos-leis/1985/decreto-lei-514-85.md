@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1985, 3º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4260-(39) a 4260-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30103/00390041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 447c8df0665d46e4c495f264d2e32202b62eea9571bf36e85f42b20ff50e4356
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd188dec9c27a2b3da76e940329f3b5596054bcaa6d994946d053b5da1ef07c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- Ave de Capoeira
+- Organização Comum de Mercado
+- OVO
+- Tratado de Adesão CE
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298193:por
+  label: "Suspensa até 31.12.1990, a aplicação de direitos niveladores ou de outras taxas compensatórias das diferenças de\
+    \ preços nas importações dos produtos dos sectores das aves e dos ovos, pela PORT.546-A/90.13.07.1990.MF, DR.IS [160-Supl]\
+    \ de 13.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/546-a-1990-298193
+  date: '1990-07-13'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477173:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:34Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +133,7 @@ Ouvidos os Governos das Regiões Autónomas da Madeira e dos Açores e no uso da
 
 1 - A organização dos mercados para os sectores das aves e dos ovos, adiante designada por organização dos mercados, a que se refere o presente diploma abrange os seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30103/00390041.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30103/00390041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30103/00390041.pdf)
 
 2 - Para efeitos da aplicação do presente diploma, entende-se por:
 
@@ -223,16 +249,16 @@ A aplicação deste diploma às Regiões Autónomas da Madeira e dos Açores ser
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o n.º 10 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/30103/00390041.pdf))](https://files.diariodarepublica.pt/1s/1985/12/30103/00390041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30103/00390041.pdf)

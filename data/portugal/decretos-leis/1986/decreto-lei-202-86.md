@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1986-227831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b57965f505d83a816bde262005a7ecc18603ce545c9569aab121311e6bf54a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96a830c047f574ca3f4129fca9dd9a0e454a72dba1161329fc8aea5efd72e6ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EDP
+- Extinção de Serviços
+- Fundo de Apoio Térmico
+- TAXA Adicional
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:601283:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247050:por
+  label: Prorrogado até 31.12.1992 o prazo previsto no art. 6.º pelo DEC LEI.412/90.31.12.1990.MIE, DR.IS [300]3.ºSupl de
+    31.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-1990-247050
+  date: '1990-12-31'
+- type: cites
+  target: pt:dre:162787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454066:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:35Z'
   warnings: []
   errors: []
 ---
@@ -96,26 +115,26 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinto, à data de publicação do presente diploma, o Fundo de Apoio Térmico (FAT), criado pelo [Decreto-Lei n.º 351/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1983-454066), de 1 de Agosto.
+Artigo 1.º É extinto, à data de publicação do presente diploma, o Fundo de Apoio Térmico (FAT), criado pelo [Decreto-Lei n.º 351/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1983-454066), de 1 de Agosto.
 
-###### Art. 2.º São transferidas, nessa data, as atribuições e competências cometidas ao Fundo, bem como a universalidade das suas obrigações e direitos, para a EDP - Electricidade de Portugal, E. P.
+Art. 2.º São transferidas, nessa data, as atribuições e competências cometidas ao Fundo, bem como a universalidade das suas obrigações e direitos, para a EDP - Electricidade de Portugal, E. P.
 
-###### Art. 3.º Sem prejuízo do disposto no artigo 4.º, cessam na data da publicação do presente diploma os mandatos dos membros dos respectivos órgãos.
+Art. 3.º Sem prejuízo do disposto no artigo 4.º, cessam na data da publicação do presente diploma os mandatos dos membros dos respectivos órgãos.
 
-###### Art. 4.º O conselho administrativo do FAT apresentará aos Ministros das Finanças e da Indústria e Comércio, no prazo de 60 dias, o relatório de actividades e as contas relativos a 1985 e 1986 (à data da extinção), bem como o inventário das existências.
+Art. 4.º O conselho administrativo do FAT apresentará aos Ministros das Finanças e da Indústria e Comércio, no prazo de 60 dias, o relatório de actividades e as contas relativos a 1985 e 1986 (à data da extinção), bem como o inventário das existências.
 
-###### Art. 5.º A EDP - Electricidade de Portugal, E.P., desencadeará os mecanismos necessários à imediata consagração, a nível da sua estrutura, dos instrumentos que permitam fazer face às situações objecto de actuação do Fundo extinto.
+Art. 5.º A EDP - Electricidade de Portugal, E.P., desencadeará os mecanismos necessários à imediata consagração, a nível da sua estrutura, dos instrumentos que permitam fazer face às situações objecto de actuação do Fundo extinto.
 
-###### Art. 6.º É mantido pela EDP - Electricidade de Portugal, E. P., o adicional de 8% da factura de electricidade fornecida em alta, média e baixa tensão até 31 de Dezembro de 1990, nos termos da [Portaria n.º 31-M/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-m-1985-162787), de 12 de Janeiro.
+Art. 6.º É mantido pela EDP - Electricidade de Portugal, E. P., o adicional de 8% da factura de electricidade fornecida em alta, média e baixa tensão até 31 de Dezembro de 1990, nos termos da [Portaria n.º 31-M/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-m-1985-162787), de 12 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 4 de Julho de 1986.**
+Promulgado em 4 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Julho de 1986.**
+Referendado em 6 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

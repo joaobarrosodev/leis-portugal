@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/17000/22172218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1985-180017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f3ab6bd85dfc5f134de7c92607787c70e22fc28618b95e73475dc52bed650ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 806f25888862cbe9196a926a8fd409f6f8de1dbdc98de22b57fbcba5f538785b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Condutor
+- Gabinete Governamental
+- Gratificação
+- Presidência da República
+- Presidência do Conselho de Ministros
+- Subsídio de Produtividade
 relationships:
 - type: amended_by
   target: pt:dre:549430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549430:por
+  label: Revogado pelo DEC LEI.381/89.28.10.1989.MF, DR.IS [249] de 28.10.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-1989-549430
+  date: '1989-10-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:38Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +119,7 @@ Considerando que os motoristas que se encontram ao serviço da Presidência da R
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É atribuída, a título de subsídio de produtividade, uma gratificação mensal no valor de 30% da remuneração base aos motoristas ao serviço da Presidência da República, da Assembleia da República, da Presidência do Conselho de Ministros e dos gabinetes dos membros do Governo e equiparados, sobre a qual serão efectuados descontos para os efeitos previstos na alínea b) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+Artigo 1.º - 1 - É atribuída, a título de subsídio de produtividade, uma gratificação mensal no valor de 30% da remuneração base aos motoristas ao serviço da Presidência da República, da Assembleia da República, da Presidência do Conselho de Ministros e dos gabinetes dos membros do Governo e equiparados, sobre a qual serão efectuados descontos para os efeitos previstos na alínea b) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
 2 - Para efeitos do disposto no número anterior, deverão ser elaboradas e manter-se actualizadas pelos órgãos incumbidos do apoio administrativo às entidades mencionadas listas dos motoristas ao serviço, as quais incluirão o número de unidades considerado necessário para garantir todo o apoio requerido.
 
@@ -103,16 +127,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O Ministro das Finanças e do Plano e o membro do Governo que tiver a seu cargo a Administração Pública poderão, por despacho conjunto, emitir as instruções adequadas ao controle da produtividade.
 
-###### Art. 2.º O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 2.º O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 17 de Julho de 1985.**
+Promulgado em 17 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Julho de 1985.**
+Referendado em 18 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

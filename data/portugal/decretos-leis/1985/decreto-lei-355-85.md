@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1985-179344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5565b4341528941de82dc6fab4168dabf08e8f7c072cfa6dff0cecaeeb8087b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: befdadee3c7b2ae75f2a991bfb02aa91a3fd4458cc453c473431be9fc00f1d90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Registo Predial
+- Registo Predial
 relationships:
 - type: amended_by
   target: pt:dre:499550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:648374:por
+  label: "Alterado o art. 101.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.30/93.12.02.1993.MJ, DR.IS-A [36] de 12.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1993-648374
+  date: '1993-02-12'
+- type: amended_by
+  target: pt:dre:632723:por
+  label: "Alterados os art.s 12.º, 39.º, 92.º, 101.º, 119.º e 151.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84,\
+    \ de 06-Jul, na redacção do presente diploma, pelo DEC LEI.533/99.11.12.1999.MJ, DR.IS-A [287] de 11.12.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1999-632723
+  date: '1999-12-11'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 12º do Código do Registo Predial, aprovado pelo Dec Lei 224/84 de 06-Jul, com a redacção do presente\
+    \ diploma, pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterado, a partir de 15.09.2003, o art. 92.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul,\
+    \ na redacção do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 12º, 39º, 87º, 92º, 101º, 113º, 119º e 151º e revogadas as al.s e) e o) do nº 1 do art. 92º do\
+    \ Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:491936:por
+  label: "Alterados, a partir de 18.07.2010 (alteração da data da entrada em vigor efectuada pela Lei n.º 1/2010, de 15 de\
+    \ Janeiro), os arts. 39º e 92º do Código do Registo Predial aprovado pelo Dec Lei 224/84 de 06-Jul, com a redacção constante\
+    \ do presente diploma, pela LEI.29/2009.29.06.2009.AR, DR.IS [123] de 29.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2009-491936
+  date: '2009-06-29'
+- type: amended_by
+  target: pt:dre:259267:por
+  label: "Alterados, a partir de 02.09.2013, os art.s 39.º e 92.º na redação do presente diploma, pela LEI.23/2013.05.03.2013.AR,\
+    \ DR.IS [45] de 05.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2013-259267
+  date: '2013-03-05'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterados os arts. 92º, 101º e 151º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-jul, na redação\
+    \ do presente diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:168603:por
+  label: Rectificado pela DECL.DD5092.23.09.1985.PCM, DR.IS [225]3ºSupl de 30.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-168603
+  date: '1985-09-23'
+- type: repealed_by
+  target: pt:dre:632723:por
+  label: "Revogado o art. 3.º, pelo DEC LEI.533/99.1999.12.11.MJ DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1999-632723
+  date: '1999-12-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:43Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +160,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, n.º 2, 12.º, n.os 4 e 5, 39.º, 87.º, n.º 2, 92.º, n.os 3 e 4, 98.º, n.º 3, 101.º, n.º 3, 113.º, n.º 3, 119.º, n.º 4, e 151.º, n.º 1, do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, n.º 2, 12.º, n.os 4 e 5, 39.º, 87.º, n.º 2, 92.º, n.os 3 e 4, 98.º, n.º 3, 101.º, n.º 3, 113.º, n.º 3, 119.º, n.º 4, e 151.º, n.º 1, do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - Exceptuam-se os factos constitutivos de hipoteca, cuja eficácia entre as próprias partes depende da realização do registo.
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 2 - ...
 
@@ -110,7 +176,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Os registos referidos nos números anteriores podem ser renovados por períodos de igual duração, a pedido dos interessados.
 
-###### Art. 39.º - 1 - O registo pode ser pedido por mandatário com procuração bastante.
+Art. 39.º - 1 - O registo pode ser pedido por mandatário com procuração bastante.
 
 2 - Não carecem, porém, de procuração expressa para o registo:
 
@@ -124,7 +190,7 @@ c) Qualquer outra pessoa que assine a requisição do registo.
 
 4 - A representação subsiste até à feitura do registo e, no caso da alínea c) do n.º 2, implica a responsabilidade solidária do representante no pagamento dos respectivos encargos.
 
-###### Art. 87.º - 1 - ...
+Art. 87.º - 1 - ...
 
 2 - Devem, no entanto, ser inutilizadas:
 
@@ -138,7 +204,7 @@ d) ...
 
 e) As descrições de prédios cuja área seja totalmente dividida em lotes de terreno destinados à construção.
 
-###### Art. 92.º - 1 - ...
+Art. 92.º - 1 - ...
 
 2 - ...
 
@@ -146,19 +212,19 @@ e) As descrições de prédios cuja área seja totalmente dividida em lotes de t
 
 4 - As inscrições referidas na alínea a) do n.º 2 mantêm-se em vigor pelo prazo de 1 ano, salvo o disposto no n.º 5 do artigo 119.º, e caducam se a acção declarativa não for proposta e registada dentro de 30 dias a contar da notificação da declaração prevista no n.º 4 do mesmo artigo.
 
-###### Art. 98.º - 1 - ...
+Art. 98.º - 1 - ...
 
 2 - ...
 
 3 - Se a plena propriedade for inscrita com base na aquisição separada da propriedade e do direito de usufruto, ainda que por títulos diferentes, proceder-se-á oficiosamente ao cancelamento do registo daquele direito.
 
-###### Art. 101.º - 1 - ...
+Art. 101.º - 1 - ...
 
 2 - ...
 
 3 - Podem ser feitos provisoriamente por dúvidas os averbamentos referidos no n.º 1 e provisoriamente por natureza os averbamentos de factos constantes do mesmo número que tenham de revestir esse carácter quando registados por inscrição.
 
-###### Art. 113.º - 1 - ...
+Art. 113.º - 1 - ...
 
 2 - ...
 
@@ -168,7 +234,7 @@ a) Se a requisição não obedecer ao modelo legal ou não contiver os elementos
 
 b) Se o prédio não estiver sujeito a registo ou não se situar na área da conservatória.
 
-###### Art. 119.º - 1 - ...
+Art. 119.º - 1 - ...
 
 2 - ...
 
@@ -176,28 +242,28 @@ b) Se o prédio não estiver sujeito a registo ou não se situar na área da con
 
 4 - Se o citado declarar que os bens lhe pertencem, o juiz remeterá os interessados para os meios processuais comuns, expedindo-se igualmente certidão de facto, com a data da notificação da declaração, para ser anotada no registo.
 
-###### Art. 151.º - 1 - No acto da apresentação deve ser cobrada, a título de preparo, a quantia provável do total da conta.
+Art. 151.º - 1 - No acto da apresentação deve ser cobrada, a título de preparo, a quantia provável do total da conta.
 
-###### Art. 2.º - 1 - Na contagem dos prazos previstos no n.º 4 do artigo 12.º e no n.º 3 do artigo 92.º do Código será levado em conta o tempo decorrido antes da data da entrada em vigor do presente decreto-lei.
+Art. 2.º - 1 - Na contagem dos prazos previstos no n.º 4 do artigo 12.º e no n.º 3 do artigo 92.º do Código será levado em conta o tempo decorrido antes da data da entrada em vigor do presente decreto-lei.
 
 2 - A renovação dos registos não sujeitos a caducidade segundo a lei anterior pode, porém, ser pedida nos seis meses posteriores àquela data.
 
-###### Art. 3.º - 1 - Enquanto não tiver sido emitido o título de registo, podem os interessados pedir verbalmente que a caderneta predial seja actualizada na conservatória, com a anotação do número da descrição e das inscrições em vigor, tratando-se de prédio situado em área onde tenha vigorado o registo obrigatório.
+Art. 3.º - 1 - Enquanto não tiver sido emitido o título de registo, podem os interessados pedir verbalmente que a caderneta predial seja actualizada na conservatória, com a anotação do número da descrição e das inscrições em vigor, tratando-se de prédio situado em área onde tenha vigorado o registo obrigatório.
 
 2 - A caderneta, quando anotada nos termos do número anterior, tem o valor probatório do título de registo.
 
 3 - A prova dos números das descrições e inscrições na conservatória pode ser feita perante o notário pela exibição da caderneta predial actualizada há menos de seis meses, nos termos do n.º 1.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 20 de Agosto de 1985.**
+Promulgado em 20 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Agosto de 1985.**
+Referendado em 20 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

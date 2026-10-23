@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 107/1984, 1º Suplemento, Série I de 1984-05-09
   number: '107'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1508-(1) a 1508-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/10701/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-a-1984-475558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7beb767a4b2cccedd18e4b48e84e321247d4b3f8375c67cff33f5516675923ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99dbd77dbe977fca93d420359814d7b6d1f603107479dc9340bbebf6fef7ca55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos Judiciários
+- Criação de Serviços
+- Formação Profissional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:165851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165851:por
+  label: "Revogado pela LEI.16/98.1998.04.08.AR, DR.IS-A [83] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1998-165851
+  date: '1998-04-08'
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:03Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +135,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 5.º, 8.º, 9.º, 13.º, 23.º, 24.º, 28.º, 29.º, 35.º, 36.º, 37.º, 45.º, 46.º, 49.º, 50.º, 51.º, 52.º, 53.º, 55.º e 67.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 5.º, 8.º, 9.º, 13.º, 23.º, 24.º, 28.º, 29.º, 35.º, 36.º, 37.º, 45.º, 46.º, 49.º, 50.º, 51.º, 52.º, 53.º, 55.º e 67.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — (Denominação, natureza e funções)
 
@@ -368,16 +389,16 @@ A graduação dos auditores de justiça faz-se mediante avaliação global, que 
 
 3 - ...
 
-###### Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Maio de 1984.**
+Referendado em 9 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

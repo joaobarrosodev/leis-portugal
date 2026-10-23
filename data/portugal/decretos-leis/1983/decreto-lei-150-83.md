@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1983-312391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96009b9c038acd0f24ca0b2b003b9769ef6f7c5345debd90319674804c2d22ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0635b205696dcfb83c03677b59a8ef853494c051592d937d3c9d060a49f77ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- CTT
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:419632:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 1 PELA LEI NUMERO 33/86, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 201, DE 2/9/86,\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-09-02'
+- type: amended_by
+  target: pt:dre:419632:por
+  label: "Aditado o art. 1.º-A pela LEI.25/87.1987.06.25.AR DR.IS [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/25-1987-419632
+  date: '1987-06-25'
+- type: cites
+  target: pt:dre:567175:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:59Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +116,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos trabalhadores dos CTT será contado, para efeitos de aposentação, o tempo em que permaneceram nos quadros de reserva da empresa, sem serviço, desde que efectuem os descontos para a Caixa Geral de Aposentações correspondentes a esse período.
+Artigo 1.º Aos trabalhadores dos CTT será contado, para efeitos de aposentação, o tempo em que permaneceram nos quadros de reserva da empresa, sem serviço, desde que efectuem os descontos para a Caixa Geral de Aposentações correspondentes a esse período.
 
-###### Art. 2.º O cálculo das quotas em dívida, pelo tempo que vier a ser requerido, deve ser feito nos termos da [Portaria n.º 1079/81](https://diariodarepublica.pt/dr/detalhe/portaria/1079-1981-567175), de 21 de Dezembro.
+Art. 2.º O cálculo das quotas em dívida, pelo tempo que vier a ser requerido, deve ser feito nos termos da [Portaria n.º 1079/81](https://diariodarepublica.pt/dr/detalhe/portaria/1079-1981-567175), de 21 de Dezembro.
 
-###### Art. 3.º O disposto no artigo 1.º não é aplicável aos trabalhadores que, por sua iniciativa, requereram a passagem à situação de sem serviço.
+Art. 3.º O disposto no artigo 1.º não é aplicável aos trabalhadores que, por sua iniciativa, requereram a passagem à situação de sem serviço.
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 14 de Março de 1983.**
+Promulgado em 14 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Março de 1983.**
+Referendado em 17 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

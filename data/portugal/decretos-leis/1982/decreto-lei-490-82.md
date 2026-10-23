@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1982, 2º Suplemento, Série I de 1982-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4326-(18) a 4326-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30102/00180019.pdf
 entry_into_force_dates: []
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1982-626672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 762c8c5ad9b7de793aeff9a7f66b416ef2c7d0e94cd0bf8ceae7697865c3a4f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a7e0e6d422ed3c25a3154ccb567cc571ad0d80d9ebaf6442ce0519207fa036a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Importação
+- Mercadoria
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:452568:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452568:por
+  label: Alteradas diversas posições e subposições pautais, assim como diversas taxas e direitos da pauta mínima das subposições
+    da Pauta dos Direitos de Importação, aprovada pelo presente diploma, pelo(a) Decreto-Lei n.º 304/83 - Diário da República
+    n.º 146/1983, Série I de 1983-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1983-452568
+  date: '1983-06-28'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527034:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:11Z'
   warnings: []
   errors: []
 ---
@@ -106,24 +133,24 @@ Nestes termos:
 
 Usando da autorização conferida pela alínea c) do artigo 22.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É aprovado o texto da Pauta dos Direitos de Importação e das Disposições Preliminares, que dela fazem parte integrante.
+Artigo 1.º - 1 - É aprovado o texto da Pauta dos Direitos de Importação e das Disposições Preliminares, que dela fazem parte integrante.
 
 2 - O texto a que se refere o número anterior será publicado e constituirá modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
 
-###### Art. 2.º As novas taxas dos direitos de importação inscritas no texto da Pauta não são aplicáveis aos produtos abrangidos quer pelas concessões pautais negociadas no âmbito do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) quer pelas que resultam de acordos preferenciais e de outras concessões pautais estabelecidas na legislação avulsa.
+Art. 2.º As novas taxas dos direitos de importação inscritas no texto da Pauta não são aplicáveis aos produtos abrangidos quer pelas concessões pautais negociadas no âmbito do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) quer pelas que resultam de acordos preferenciais e de outras concessões pautais estabelecidas na legislação avulsa.
 
-###### Art. 3.º Os elementos constantes da coluna da imbricação que acompanha o texto da Pauta dos Direitos de Importação não têm qualquer influência na classificação das mercadorias, a qual deverá processar-se em obediência às regras gerais para interpretação da Pauta.
+Art. 3.º Os elementos constantes da coluna da imbricação que acompanha o texto da Pauta dos Direitos de Importação não têm qualquer influência na classificação das mercadorias, a qual deverá processar-se em obediência às regras gerais para interpretação da Pauta.
 
-###### Art. 4.º Para efeitos de aplicação do Protocolo Transitório ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia e das Decisões do Conselho da Associação Europeia do Comércio Livre (AECL) 10/82 e do Conselho Misto da Associação AECL/Finlândia 4/82, bem como da legislação avulsa conexa com a Pauta dos Direitos de Importação, a indicação dos produtos far-se-á transitoriamente, mediante recurso à nomenclatura em vigor até 31 de Dezembro de 1982.
+Art. 4.º Para efeitos de aplicação do Protocolo Transitório ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia e das Decisões do Conselho da Associação Europeia do Comércio Livre (AECL) 10/82 e do Conselho Misto da Associação AECL/Finlândia 4/82, bem como da legislação avulsa conexa com a Pauta dos Direitos de Importação, a indicação dos produtos far-se-á transitoriamente, mediante recurso à nomenclatura em vigor até 31 de Dezembro de 1982.
 
-###### Art. 5.º Mantém-se em vigor a suspensão de direitos de importação prevista no artigo 2.º do [Decreto-Lei n.º 46838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46838-1966-493268), de 18 de Janeiro de 1966, com a redacção constante do [Decreto-Lei n.º 48836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48836-1969-527034), de 16 de Janeiro de 1969, e com a alteração introduzida pela [Lei n.º 2141](https://diariodarepublica.pt/dr/detalhe/lei/2141-1969-201465), de 13 de Maio de 1969.
+Art. 5.º Mantém-se em vigor a suspensão de direitos de importação prevista no artigo 2.º do [Decreto-Lei n.º 46838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46838-1966-493268), de 18 de Janeiro de 1966, com a redacção constante do [Decreto-Lei n.º 48836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48836-1969-527034), de 16 de Janeiro de 1969, e com a alteração introduzida pela [Lei n.º 2141](https://diariodarepublica.pt/dr/detalhe/lei/2141-1969-201465), de 13 de Maio de 1969.
 
-###### Art. 6.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1983.
+Art. 6.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1983.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 31 de Dezembro de 1982.**
+Promulgado em 31 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

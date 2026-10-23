@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1985, 8º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 4260-(130) a 4260-(134)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30108/01300134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1985-546605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:09:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbd4bc3b585d3ea0a7c35e5e0b19f7c7c98c776eb640c35fb7f46fd2352e2678
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa0dd3fdcfdb7e806934d96a2ca8e1fdbff2d71d2a88c3d5ca420df4aa4ad0ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:09:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Comunidades Europeias
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:301457:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654956:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301858:por
+  label: Rectificado pela DECL.DD4673.12.03.1986.PCM, DR.IS [74]Supl de 31.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301858
+  date: '1986-03-12'
+- type: repealed_by
+  target: pt:dre:471168:por
+  label: "Revogados os arts. 20º e 21º, pelo DEC LEI.118/91.1991.03.21.MNE, DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1991-471168
+  date: '1991-03-21'
+- type: repealed_by
+  target: pt:dre:301457:por
+  label: "Revogado pelo DEC LEI.344/91.1991.09.17.MNE, DR.IS-A [214]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/344-1991-301457
+  date: '1991-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:09:44Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +130,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 e do n.º 2 do artigo 201.
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral das Comunidades Europeias, criada pela alínea c) do n.º 1 do artigo 3.º do Decreto-Lei n.º 867/85, é o serviço do Ministério dos Negócios Estrangeiros que coordena as acções no domínio da política externa referentes aos assuntos das Comunidades Europeias, para o que instruirá os serviços externos do Ministério.
+Artigo 1.º - 1 - A Direcção-Geral das Comunidades Europeias, criada pela alínea c) do n.º 1 do artigo 3.º do Decreto-Lei n.º 867/85, é o serviço do Ministério dos Negócios Estrangeiros que coordena as acções no domínio da política externa referentes aos assuntos das Comunidades Europeias, para o que instruirá os serviços externos do Ministério.
 
 2 - A Direcção-Geral das Comunidades Europeias presta apoio à participação portuguesa no Conselho Europeu e nos diferentes conselhos comunitários.
 
@@ -110,11 +140,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 e do n.º 2 do artigo 201.
 
 5 - A Direcção-Geral das Comunidades Europeias goza de autonomia administrativa.
 
-###### Art. 2.º A Direcção-Geral das Comunidades Europeias exerce as suas atribuições no domínio das Comunidades Europeias, no das relações bilaterais económicas entre Portugal e os restantes Estados membros das Comunidades Europeias e no das relações com a EFTA e o GATT, bem como nas respectivas actividades de documentação e formação.
+Art. 2.º A Direcção-Geral das Comunidades Europeias exerce as suas atribuições no domínio das Comunidades Europeias, no das relações bilaterais económicas entre Portugal e os restantes Estados membros das Comunidades Europeias e no das relações com a EFTA e o GATT, bem como nas respectivas actividades de documentação e formação.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º Para o exercício das suas atribuições, a Direcção-Geral dispõe dos seguintes órgãos e serviços:
+Art. 3.º Para o exercício das suas atribuições, a Direcção-Geral dispõe dos seguintes órgãos e serviços:
 
 a) Director-geral;
 
@@ -140,9 +170,9 @@ l) Direcção de Serviços de Formação e Documentação;
 
 m) Repartição Administrativa.
 
-###### Art. 4.º A Direcção-Geral das Comunidades Europeias é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais.
+Art. 4.º A Direcção-Geral das Comunidades Europeias é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais.
 
-###### Art. 5.º Compete ao director-geral:
+Art. 5.º Compete ao director-geral:
 
 a) Dirigir e orientar a acção dos órgãos e serviços da Direcção-Geral;
 
@@ -154,7 +184,7 @@ d) Submeter à aprovação das entidades competentes os orçamentos e a conta an
 
 e) Representar e fazer representar a Direcção-Geral em quaisquer actos ou contratos em que ela haja de intervir, em juízo ou fora dele.
 
-###### Art. 6.º - 1 - O conselho administrativo é composto por:
+Art. 6.º - 1 - O conselho administrativo é composto por:
 
 a) O director-geral;
 
@@ -174,7 +204,7 @@ e) Um representante da delegação da Direcção-Geral da Contabilidade Pública
 
 5 - O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja necessário, sob convocatória do seu presidente.
 
-###### Art. 7.º - 1 - Compete ao conselho administrativo:
+Art. 7.º - 1 - Compete ao conselho administrativo:
 
 a) Promover a elaboração dos projectos de orçamento, de harmonia com as disposições legais aplicáveis,
 
@@ -190,7 +220,7 @@ f) Apreciar os encargos dos acordos ou contratos a elaborar com entidades oficia
 
 2 - As competências acima referidas não prejudicam as que a lei atribui ao Ministério das Finanças.
 
-###### Art. 8.º - 1 - Compete à Direcção de Serviços das Instituições Comunitárias:
+Art. 8.º - 1 - Compete à Direcção de Serviços das Instituições Comunitárias:
 
 a) Assegurar o secretariado das reuniões da Comissão Interministerial para as Comunidades Europeias;
 
@@ -206,7 +236,7 @@ f) Assegurar a correspondência com as missões diplomáticas de Portugal no est
 
 2 - A Direcção de Serviços das Instituições Comunitárias disporá de duas divisões.
 
-###### Art. 9.º - 1 - Compete à Direcção de Serviços dos Assuntos Jurídicos:
+Art. 9.º - 1 - Compete à Direcção de Serviços dos Assuntos Jurídicos:
 
 a) Coordenar o acompanhamento das questões jurídicas comunitárias e dos assuntos da competência do Tribunal Europeu de Justiça;
 
@@ -218,7 +248,7 @@ d) Assegurar a correspondência com as missões diplomáticas de Portugal no est
 
 2 - A Direcção de Serviços dos Assuntos Jurídicos disporá de duas divisões.
 
-###### Art. 10.º - 1 - Compete à Direcção de Serviços das Questões Económicas e Financeiras:
+Art. 10.º - 1 - Compete à Direcção de Serviços das Questões Económicas e Financeiras:
 
 a) Acompanhar os assuntos relativos às questões de política económica geral e política monetária e às questões financeiras das Comunidades Europeias, incluindo os programas integrados mediterrânicos;
 
@@ -232,7 +262,7 @@ e) Assegurar a correspondência com as missões diplomáticas de Portugal no est
 
 2 - A Direcção de Serviços das Questões Económicas e Financeiras disporá de duas divisões.
 
-###### Art. 11.º - 1 - Compete à Direcção de Serviços da Agricultura e Pescas:
+Art. 11.º - 1 - Compete à Direcção de Serviços da Agricultura e Pescas:
 
 a) Assegurar a articulação das questões relativas à política agrícola comum;
 
@@ -244,7 +274,7 @@ d) Assegurar a correspondência com as missões diplomáticas de Portugal no est
 
 2 - A Direcção de Serviços da Agricultura e Pescas disporá de duas divisões.
 
-###### Art. 12.º - 1 - Compete à Direcção de Serviços do Mercado Interno:
+Art. 12.º - 1 - Compete à Direcção de Serviços do Mercado Interno:
 
 a) Acompanhar os assuntos relativos à união aduaneira, indústria, energia, transportes, turismo, consumidores, meio ambiente, informação, cultura e educação;
 
@@ -256,7 +286,7 @@ d) Assegurar a correspondência com as missões diplomáticas de Portugal no est
 
 2 - A Direcção de Serviços do Mercado Interno disporá de duas divisões.
 
-###### Art. 13.º - 1 - Compete à Direcção de Serviços das Relações Externas:
+Art. 13.º - 1 - Compete à Direcção de Serviços das Relações Externas:
 
 a) Coordenar os assuntos relativos às convenções com os Estados da África, Caribe e Pacífico (ACP), bem como às relações institucionais no âmbito comunitário com aqueles Estados;.
 
@@ -272,7 +302,7 @@ f) Assegurar a correspondência com as missões diplomáticas de Portugal no est
 
 2 - A Direcção de Serviços das Relações Externas disporá de duas divisões.
 
-###### Art. 14.º - 1 - Compete à Direcção de Serviços das Relações Bilaterais:
+Art. 14.º - 1 - Compete à Direcção de Serviços das Relações Bilaterais:
 
 a) Reunir informações de carácter económico recebidas no Ministério dos Negócios Estrangeiros e assegurar a actualização dos elementos completos sobre a situação económica dos países membros das Comunidades Europeias;
 
@@ -288,7 +318,7 @@ f) Assegurar a correspondência com as missões diplomáticas de Portugal no est
 
 2 - A Direcção de Serviços das Relações Bilaterais disporá de duas divisões.
 
-###### Art. 15.º - 1 - Compete à Direcção de Serviços da Investigação e Tecnologia:
+Art. 15.º - 1 - Compete à Direcção de Serviços da Investigação e Tecnologia:
 
 a) Apoiar e acompanhar a articulação das questões relativas à política de investigação e tecnologia;
 
@@ -300,7 +330,7 @@ d) Assegurar a correspondência com as missões diplomáticas de Portugal no est
 
 2 - A Direcção de Serviços da Investigação e Tecnologia disporá de duas divisões.
 
-###### Art. 16.º - 1 - Compete à Direcção de Serviços de Formação e Documentação:
+Art. 16.º - 1 - Compete à Direcção de Serviços de Formação e Documentação:
 
 a) Definir e implementar uma política de formação apta a adequar as estruturas nacionais, públicas e privadas, às exigências da participação nas Comunidades Europeias;
 
@@ -312,7 +342,7 @@ d) Fornecer documentação conveniente para a prossecução dos objectivos dos d
 
 2 - A Direcção de Serviços de Formação e Documentação disporá de duas divisões.
 
-###### Art. 17.º - 1 - A Repartição Administrativa presta o apoio administrativo e burocrático à Direcção-Geral das Comunidades Europeias.
+Art. 17.º - 1 - A Repartição Administrativa presta o apoio administrativo e burocrático à Direcção-Geral das Comunidades Europeias.
 
 2 - A Repartição Administrativa compreende a Secção de Contabilidade e Arquivo e a Secção de Missões e Deslocações.
 
@@ -332,23 +362,23 @@ d) Organizar o sistema de comunicações, sem prejuízo do Departamento da Cifra
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 18.º O cargo de director-geral das Comunidades Europeias será provido por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro do pessoal diplomático do Ministério com a categoria de embaixador ou de ministro plenipotenciário de 1.ª classe.
+Art. 18.º O cargo de director-geral das Comunidades Europeias será provido por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro do pessoal diplomático do Ministério com a categoria de embaixador ou de ministro plenipotenciário de 1.ª classe.
 
-###### Art. 19.º - 1 - O director-geral das Comunidades Europeias é coadjuvado por dois subdirectores-gerais.
+Art. 19.º - 1 - O director-geral das Comunidades Europeias é coadjuvado por dois subdirectores-gerais.
 
 2 - Os cargos de subdirector-geral das Comunidades Europeias serão providos por livre escolha do Ministro dos Negócios Estrangeiros, ouvido o director-geral, sendo um dos cargos provido por funcionário do quadro do pessoal do serviço diplomático do Ministério com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe e o outro provido nos termos da lei geral.
 
-###### Art. 20.º O cargo de director de serviços da Direcção-Geral das Comunidades Europeias será provido por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de ministro plenipotenciário de 2.ª classe ou de conselheiro de embaixada, sem prejuízo do recurso ao recrutamento nos termos da lei geral.
+Art. 20.º O cargo de director de serviços da Direcção-Geral das Comunidades Europeias será provido por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de ministro plenipotenciário de 2.ª classe ou de conselheiro de embaixada, sem prejuízo do recurso ao recrutamento nos termos da lei geral.
 
-###### Art. 21.º O cargo de chefe de divisão da Direcção-Geral das Comunidades Europeias será provido por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de conselheiro de embaixada ou de primeiro-secretário de embaixada, sem prejuízo do recurso ao recrutamento nos termos da lei geral.
+Art. 21.º O cargo de chefe de divisão da Direcção-Geral das Comunidades Europeias será provido por livre escolha do Ministro dos Negócios Estrangeiros, de entre funcionários do quadro de pessoal do serviço diplomático do Ministério com a categoria de conselheiro de embaixada ou de primeiro-secretário de embaixada, sem prejuízo do recurso ao recrutamento nos termos da lei geral.
 
-###### Art. 22.º - 1 - As divisões disporão de pessoal do serviço diplomático do quadro do Ministério dos Negócios Estrangeiros e de pessoal técnico recrutado nos termos da lei geral, em número e com a distribuição que aconselharem as razões de serviço.
+Art. 22.º - 1 - As divisões disporão de pessoal do serviço diplomático do quadro do Ministério dos Negócios Estrangeiros e de pessoal técnico recrutado nos termos da lei geral, em número e com a distribuição que aconselharem as razões de serviço.
 
 2 - O provimento respectivo será efectuado mediante proposta do director-geral das Comunidades Europeias.
 
-###### Art. 23.º O pessoal administrativo e auxiliar do quadro do Ministério dos Negócios Estrangeiros necessário ao funcionamento da Direcção-Geral das Comunidades Europeias ser-lhe-á afecto sob proposta do director-geral das Comunidades Europeias, sem prejuízo do recurso aos meios de mobilidade previstos na lei geral.
+Art. 23.º O pessoal administrativo e auxiliar do quadro do Ministério dos Negócios Estrangeiros necessário ao funcionamento da Direcção-Geral das Comunidades Europeias ser-lhe-á afecto sob proposta do director-geral das Comunidades Europeias, sem prejuízo do recurso aos meios de mobilidade previstos na lei geral.
 
-###### Art. 24.º - 1 - A Direcção-Geral das Comunidades Europeias não dispõe de quadro de pessoal próprio, sendo-lhe afectado por despacho do Ministro dos Negócios Estrangeiros o pessoal necessário para prossecução das respectivas atribuições de entre funcionários do quadro do Ministério dos Negócios Estrangeiros.
+Art. 24.º - 1 - A Direcção-Geral das Comunidades Europeias não dispõe de quadro de pessoal próprio, sendo-lhe afectado por despacho do Ministro dos Negócios Estrangeiros o pessoal necessário para prossecução das respectivas atribuições de entre funcionários do quadro do Ministério dos Negócios Estrangeiros.
 
 2 - São integrados no quadro do pessoal do Ministério dos Negócios Estrangeiros os funcionários pertencentes ao quadro de pessoal do agora extinto Secretariado para a Integração Europeia.
 
@@ -360,7 +390,7 @@ d) Organizar o sistema de comunicações, sem prejuízo do Departamento da Cifra
 
 6 - O pessoal do actual quadro do Secretariado para a Integração Europeia que à data da entrada em vigor do presente diploma se encontre na situação de licença ilimitada poderá recorrer à passagem à actividade quando se verificar vaga no quadro do Ministério dos Negócios Estrangeiros.
 
-###### Art. 25.º Para efeitos do presente decreto-lei, o quadro de pessoal do Ministério dos Negócios Estrangeiros será alterado por portaria dos Ministros das Finanças e dos Negócios Estrangeiros, desde já se criando os seguintes lugares:
+Art. 25.º Para efeitos do presente decreto-lei, o quadro de pessoal do Ministério dos Negócios Estrangeiros será alterado por portaria dos Ministros das Finanças e dos Negócios Estrangeiros, desde já se criando os seguintes lugares:
 
 Pessoal dirigente:
 
@@ -376,26 +406,26 @@ Pessoal dirigente:
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 26.º - 1 - A Direcção-Geral das Comunidades Europeias sucede, em termos orçamentais, ao Secretariado para a Integração Europeia e à Comissão para a Integração Europeia.
+Art. 26.º - 1 - A Direcção-Geral das Comunidades Europeias sucede, em termos orçamentais, ao Secretariado para a Integração Europeia e à Comissão para a Integração Europeia.
 
 2 - Com a extinção do Secretariado para a Integração Europeia, a Direcção-Geral das Comunidades Europeias assume todas as posições contratuais de que aquele organismo anteriormente era titular.
 
-###### Art. 27.º Com a entrada em vigor deste diploma:
+Art. 27.º Com a entrada em vigor deste diploma:
 
 a) São revogados os artigos 17.º a 19.º e 27.º a 34.º do [Decreto-Lei n.º 185/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1979-381117), de 20 de Junho;
 
 b) É extinto o Secretariado para a Integração Europeia, criado pelo [Decreto-Lei n.º 306/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1977-251436), de 3 de Agosto, e a funcionar nos termos do [Decreto-Lei n.º 185/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1979-381117), de 20 de Junho, e do [Decreto Regulamentar n.º 36/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1984-654956), de 19 de Abril.
 
-###### Art. 28.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1986.
+Art. 28.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1986.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 31 de Dezembro de 1985.**
+Promulgado em 31 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Dezembro de 1985.**
+Referendado em 31 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

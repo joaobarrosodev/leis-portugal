@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24400/35043505.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1985-178093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65d49bfdf30f5fee5f33324a9efa3e8bf07f31884d42dcf42fe9dbe7f336025b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a7b12c517c4d8d8d0756947b40d9c7f006dc4dd2b739eee7dfd683cf8100750
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Baldio
+relationships:
+- type: cites
+  target: pt:dre:155458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655875:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 482/88, DE 26 DE DEZEMBRO, PUBLICADO NO DR.IS, 297.\0297."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-12-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:03Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +133,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 11.º e 84.º do [Decreto n.º 36709](https://diariodarepublica.pt/dr/detalhe/decreto/36709-1948-242001), de 5 de Janeiro de 1948, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º e 84.º do [Decreto n.º 36709](https://diariodarepublica.pt/dr/detalhe/decreto/36709-1948-242001), de 5 de Janeiro de 1948, passam a ter a seguinte redacção:
 
-###### Art. 11.º A indivisibilidade do casal cessa quando, para além da circunstância referida no n.º 3 do artigo 7.º, a requerimento do colono, titular de alvará de fruição definitiva, o Ministério da Agricultura autorizar a separação de alguns dos elementos ou parcelas do casal, verificadas as seguintes situações:
+Art. 11.º A indivisibilidade do casal cessa quando, para além da circunstância referida no n.º 3 do artigo 7.º, a requerimento do colono, titular de alvará de fruição definitiva, o Ministério da Agricultura autorizar a separação de alguns dos elementos ou parcelas do casal, verificadas as seguintes situações:
 
 a) Se os elementos em causa forem destinados à criação de novas explorações agrícolas familiares ou a serem integrados numa já existente, desde que se verifiquem motivos suficientes que justifiquem a sua separação;
 
@@ -125,18 +147,18 @@ d) Nos casos em que a separação apareça justificada por razões de sobrevivê
 
 § único. A autorização prevista no corpo deste artigo caberá ao Ministro da Agricultura, por despacho, fundado no processo instruído e informado pelo Instituto de Gestão e Estruturação Fundiária, e aquela autorização considerar-se-á implícita quando algum ou alguns dos imóveis ou direitos de exploração e fruição forem afectados por planos ou obras de utilidade pública ou social, ou, em todos os casos, quando decorram mais de 3 meses sem ter sido proferida qualquer decisão por parte da Administração.
 
-###### Art. 84.º Os terrenos que não forem divididos nem submetidos ao regime de logradouro comum, bem como as construções neles existentes, podem ser atribuídos às autarquias locais, a quaisquer outras pessoas de direito público ou a pessoas colectivas ou instituições de direito privado sem fim lucrativo e de alto interesse social, cultural, espiritual ou desportivo, nas condições que forem fixadas por despacho do Ministro da Agricultura.
+Art. 84.º Os terrenos que não forem divididos nem submetidos ao regime de logradouro comum, bem como as construções neles existentes, podem ser atribuídos às autarquias locais, a quaisquer outras pessoas de direito público ou a pessoas colectivas ou instituições de direito privado sem fim lucrativo e de alto interesse social, cultural, espiritual ou desportivo, nas condições que forem fixadas por despacho do Ministro da Agricultura.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 10 de Outubro de 1985.**
+Promulgado em 10 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Outubro de 1985.**
+Referendado em 14 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

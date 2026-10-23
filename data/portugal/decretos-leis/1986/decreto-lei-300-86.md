@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1986-221771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93e68c5d285158103e373a5ba7a68165c6c251004f00e5bbf4778c625ead711a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4faeb4f912097ab90d701c71f646435b295bdcd659163d2910847c92b969a31e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conservação e Restauro
+- Instalação de Serviços
+- Ministério da Administração Interna
+- Serviços de Segurança
+relationships:
+- type: cites
+  target: pt:dre:400791:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:14:14Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +108,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Constitui encargo do Estado, de harmonia com o plano de instalações das forças e serviços de segurança e dos serviços de protecção civil dependentes do Ministério da Administração Interna, segundo as disponibilidades do Orçamento do Estado, a construção, aquisição e adaptação ou beneficiarão de instalações e edifícios para os mesmos.
+Artigo 1.º Constitui encargo do Estado, de harmonia com o plano de instalações das forças e serviços de segurança e dos serviços de protecção civil dependentes do Ministério da Administração Interna, segundo as disponibilidades do Orçamento do Estado, a construção, aquisição e adaptação ou beneficiarão de instalações e edifícios para os mesmos.
 
-###### Art. 2.º As dotações orçamentais para a execução do plano referido no artigo anterior serão previstas no orçamento do Programa de Investimentos e de Despesas de Desenvolvimento da Administração Central (PIDDAC) dos Ministérios da Administração Interna ou das Obras Públicas, Transportes e Comunicações, mediante despacho conjunto dos respectivos Ministros.
+Art. 2.º As dotações orçamentais para a execução do plano referido no artigo anterior serão previstas no orçamento do Programa de Investimentos e de Despesas de Desenvolvimento da Administração Central (PIDDAC) dos Ministérios da Administração Interna ou das Obras Públicas, Transportes e Comunicações, mediante despacho conjunto dos respectivos Ministros.
 
-###### Art. 3.º - 1 - Os comandos-gerais ou equiparados das forças e serviços de segurança dependentes do Ministérios da Administração Interna elaborarão anualmente o plano de necessidades das obras de manutenção ou beneficiação por cuja gestão sejam responsáveis.
+Art. 3.º - 1 - Os comandos-gerais ou equiparados das forças e serviços de segurança dependentes do Ministérios da Administração Interna elaborarão anualmente o plano de necessidades das obras de manutenção ou beneficiação por cuja gestão sejam responsáveis.
 
 2 - O plano a que se refere o número anterior será enviado, devidamente fundamentado, ao Ministério da Administração Interna até 30 de Janeiro do ano anterior ao da sua execução.
 
@@ -112,22 +120,22 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A distribuição da dotação global orçamentada para efeitos do disposto no número anterior será feita por despacho do Ministro da Administração Interna, estando as alterações a essa distribuição sujeitas a idêntico formalismo.
 
-###### Art. 4.º Aos Ministérios da Administração Interna e das Obras Públicas, Transportes e Comunicações, através dos serviços competentes, cabe a responsabilidade pelo estudo e execução das obras inscritas nos seus programas de investimentos, observado o critério previsto no artigo 2.º
+Art. 4.º Aos Ministérios da Administração Interna e das Obras Públicas, Transportes e Comunicações, através dos serviços competentes, cabe a responsabilidade pelo estudo e execução das obras inscritas nos seus programas de investimentos, observado o critério previsto no artigo 2.º
 
-###### Art. 5.º - 1 - Os projectos de construção de novas instalações e edifícios ou de adaptação e beneficiação dos existentes que transcendam o disposto no artigo 3.º serão elaborados ou mandados elaborar pelos serviços a que se refere o artigo anterior com base no programa tipo preparado pela força ou serviço de segurança interessado.
+Art. 5.º - 1 - Os projectos de construção de novas instalações e edifícios ou de adaptação e beneficiação dos existentes que transcendam o disposto no artigo 3.º serão elaborados ou mandados elaborar pelos serviços a que se refere o artigo anterior com base no programa tipo preparado pela força ou serviço de segurança interessado.
 
 2 - Os projectos a que se refere o número anterior, observado o disposto no artigo 2.º, serão, consoante os casos, aprovados por despacho do Ministro da Administração Interna ou por despacho conjunto deste Ministro e do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 6.º São revogados os artigos 1.º, 2.º, 3.º, 4.º e 5.º do [Decreto-Lei n.º 361/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1984-400791), de 19 de Novembro.
+Art. 6.º São revogados os artigos 1.º, 2.º, 3.º, 4.º e 5.º do [Decreto-Lei n.º 361/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1984-400791), de 19 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

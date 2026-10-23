@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/07400/10731075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1983-312423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ae8d958631ca439f1fbe7107cf040e08644a779d54ffaf6da73d7ef98bb083f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9facb393ea3bfb6e111acf947e02caa786e27280c0938cfd543644096f293210
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Autarquia Local
+- Carreira Profissional
+- Definição de Competências
+- Direcção Geral dos Produtos Pecuários
+- Extinção de Lugares
+- Extinção de Serviços
+- Integração de Trabalhadores
+- Junta Nacional dos Produtos Pecuários
+- Reestruturação de Carreiras
+- Remuneração
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:516877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551218:por
+  label: "Alterado o mapa I anexo pelo DEC LEI.436/89.19.12.1989.MPAT, DR.IS [290] de 19.12.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1989-551218
+  date: '1989-12-19'
+- type: cites
+  target: pt:dre:261964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:326172:por
+  label: Rectificado pela DECL.DD5759.28.04.1983.PCM, DR.IS [99-Supl] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326172
+  date: '1983-04-28'
+- type: repealed_by
+  target: pt:dre:516877:por
+  label: "Revogado pelo DEC LEI.116/98.1998.05.05.MADRP, DR.IS-A [103] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1998-516877
+  date: '1998-05-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:53Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +154,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os médicos veterinários providos ou a prover em partidos veterinários de quaisquer municípios, para além dos de Lisboa e Porto, serão integrados na carreira de médico veterinário, conforme o mapa I anexo ao presente diploma.
+Artigo 1.º Os médicos veterinários providos ou a prover em partidos veterinários de quaisquer municípios, para além dos de Lisboa e Porto, serão integrados na carreira de médico veterinário, conforme o mapa I anexo ao presente diploma.
 
-###### Art. 2.º O provimento dos lugares de médico veterinário municipal obedecerá ao disposto no artigo 643.º e seguintes do Código Administrativo, sem prejuízo das alterações decorrentes da lei orgânica do Ministério da Agricultura, Comércio e Pescas e do que se prescreve no presente diploma em matéria de regime de trabalho e de mecanismos de transição.
+Art. 2.º O provimento dos lugares de médico veterinário municipal obedecerá ao disposto no artigo 643.º e seguintes do Código Administrativo, sem prejuízo das alterações decorrentes da lei orgânica do Ministério da Agricultura, Comércio e Pescas e do que se prescreve no presente diploma em matéria de regime de trabalho e de mecanismos de transição.
 
-###### Art. 3.º - 1 - Os médicos veterinários municipais têm o dever de, nos termos da legislação vigente, colaborarem com o Ministério da Agricultura, Comércio e Pescas, na área do respectivo município, em todas as acções levadas a efeito nos domínios da sanidade animal, da higiene pública veterinária, do melhoramento zootécnico, e da economia e comércio pecuários programados pelos serviços competentes.
+Art. 3.º - 1 - Os médicos veterinários municipais têm o dever de, nos termos da legislação vigente, colaborarem com o Ministério da Agricultura, Comércio e Pescas, na área do respectivo município, em todas as acções levadas a efeito nos domínios da sanidade animal, da higiene pública veterinária, do melhoramento zootécnico, e da economia e comércio pecuários programados pelos serviços competentes.
 
 2 - Compete especialmente aos médicos veterinários municipais, no exercício da colaboração referida no número anterior:
 
@@ -127,13 +178,13 @@ g) Prestar informação económica sobre a abertura de novos estabelecimentos de
 
 h) Fornecer os elementos relativos a mercados e preços de animais e seus produtos.
 
-###### Art. 4.º - 1 - As relações funcionais dos médicos veterinários municipais com o Ministério da Agricultura, Comércio e Pescas serão asseguradas pelos serviços competentes das direcções regionais de Agricultura, Comércio e Pescas, Direcção-Geral de Pecuária e delegações da Junta Nacional dos Produtos Pecuários, consoante a natureza das atribuições respectivas.
+Art. 4.º - 1 - As relações funcionais dos médicos veterinários municipais com o Ministério da Agricultura, Comércio e Pescas serão asseguradas pelos serviços competentes das direcções regionais de Agricultura, Comércio e Pescas, Direcção-Geral de Pecuária e delegações da Junta Nacional dos Produtos Pecuários, consoante a natureza das atribuições respectivas.
 
 2 - Entre os médicos veterinários municipais e os serviços mencionados no número anterior será estabelecido um programa de contactos regulares, sem prejuízo da possibilidade de convocação extraordinária por motivo urgente.
 
 3 - Em caso de concorrência de obrigações, prevalecerá o serviço municipal.
 
-###### Art. 5.º - 1 - A retribuição mensal correspondente à letra do vencimento dos médicos veterinários municipais será suportada pelos municípios e pelo Ministério da Agricultura, Comércio e Pescas, respectivamente em 40% e 60%.
+Art. 5.º - 1 - A retribuição mensal correspondente à letra do vencimento dos médicos veterinários municipais será suportada pelos municípios e pelo Ministério da Agricultura, Comércio e Pescas, respectivamente em 40% e 60%.
 
 2.º O encargo correspondente ao Ministério da Agricultura, Comércio e Pescas será inscrito na verba pessoal dos quadros.
 
@@ -145,7 +196,7 @@ h) Fornecer os elementos relativos a mercados e preços de animais e seus produt
 
 6 - Os serviços prestados no exercício das funções enunciadas na alínea f) do n.º 2 do artigo 3.º estão sujeitos às regras gerais fixadas para cada campanha.
 
-###### Art. 6.º - 1 - As remunerações mensais correspondentes às categorias de transição fixadas no mapa II anexo ao presente diploma serão pagas directa e integralmente aos médicos veterinários municipais, com observância do disposto no artigo 5.º do presente diploma.
+Art. 6.º - 1 - As remunerações mensais correspondentes às categorias de transição fixadas no mapa II anexo ao presente diploma serão pagas directa e integralmente aos médicos veterinários municipais, com observância do disposto no artigo 5.º do presente diploma.
 
 2 - Os médicos veterinários municipais, quando se desloquem no exercício das suas funções oficiais, terão direito a ajudas de custo e a despesas de transporte, nos termos legais.
 
@@ -155,34 +206,34 @@ h) Fornecer os elementos relativos a mercados e preços de animais e seus produt
 
 5 - A quota de desconto para efeitos de aposentação incidirá sobre a totalidade da retribuição mensal fixada nos termos do n.º 1 do artigo 5.º do presente diploma.
 
-###### Art. 7.º - 1 - Para efeitos do disposto no presente diploma, as câmaras municipais comunicarão à Direcção-Geral de Organização e Recursos Humanos, à Direcção-Geral da Pecuária, do Ministério da Agricultura, Comércio e Pescas, e aos respectivos serviços regionais a situação dos actuais médicos veterinários após a sua reclassificação, bem como a data da posse dos que vierem a ser nomeados depois da entrada em vigor deste diploma.
+Art. 7.º - 1 - Para efeitos do disposto no presente diploma, as câmaras municipais comunicarão à Direcção-Geral de Organização e Recursos Humanos, à Direcção-Geral da Pecuária, do Ministério da Agricultura, Comércio e Pescas, e aos respectivos serviços regionais a situação dos actuais médicos veterinários após a sua reclassificação, bem como a data da posse dos que vierem a ser nomeados depois da entrada em vigor deste diploma.
 
 2 - Relativamente aos médicos veterinários municipais referidos na parte final do número anterior, o direito ao abono da remuneração a cargo do Ministério da Agricultura, Comércio e Pescas será reconhecido por despacho do Ministro, mediante processo a organizar pelos serviços regionais, no prazo de 30 dias a contar da posse, sem prejuízo, porém, da retroacção de efeitos a esta última data.
 
 3 - Na criação de novos partidos veterinários pelas câmaras municipais deverão ser ouvidos os Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas no que respeita aos respectivos encargos financeiros que a este último Ministério competem.
 
-###### Art. 8.º - 1 - Os actuais médicos veterinários municipais transitarão para as novas categorias da carreira a que se refere o artigo 1.º do presente diploma, de acordo com o mapa anexo II.
+Art. 8.º - 1 - Os actuais médicos veterinários municipais transitarão para as novas categorias da carreira a que se refere o artigo 1.º do presente diploma, de acordo com o mapa anexo II.
 
 2 - Os vencimentos correspondentes às novas categorias constantes do mapa anexo serão devidos a partir da entrada em vigor do [Decreto-Lei n.º 406/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1982-375267), de 27 de Setembro.
 
-###### Art. 9.º São extintos os cargos de subdelegado da Junta Nacional dos Produtos Pecuários, previstos no despacho de 28 de Janeiro de 1948, e as subintendências de pecuária, criadas pelo [Decreto-Lei n.º 48755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964), de 11 de Dezembro de 1968.
+Art. 9.º São extintos os cargos de subdelegado da Junta Nacional dos Produtos Pecuários, previstos no despacho de 28 de Janeiro de 1948, e as subintendências de pecuária, criadas pelo [Decreto-Lei n.º 48755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964), de 11 de Dezembro de 1968.
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Ângelo Ferreira Correia - Basílio Adolfo Mendonça Horta da Franca - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 14 de Março de 1983.**
+Promulgado em 14 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Março de 1983.**
+Referendado em 17 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 MAPA ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/07400/10731075.pdf))](https://files.diariodarepublica.pt/1s/1983/03/07400/10731075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/07400/10731075.pdf)
 
 MAPA ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/07400/10731075.pdf))](https://files.diariodarepublica.pt/1s/1983/03/07400/10731075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/07400/10731075.pdf)

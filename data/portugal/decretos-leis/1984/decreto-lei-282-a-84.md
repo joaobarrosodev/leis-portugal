@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 192/1984, 1º Suplemento, Série I de 1984-08-20
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2556-(1) a 2556-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19201/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -49,40 +49,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:59:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d3b170afbe08a666f6ee160db058a53f10557c8e833f9a2e31066c8abe83777
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f99088a6253d80f616fb9f2faaf65e3d581584d0945a9413a0cca50f9b917bef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:59:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Condições de Higiene e Segurança no Trabalho
+- Exploração Portuária
+- Licenciamento
+- Proteção Social
+- Regime Jurídico
+- Trabalhador Portuário
+- Trabalho Portuário
 relationships:
+- type: amended_by
+  target: pt:dre:286373:por
+  label: "ADITADO UM NUMERO 3 AO ARTIGO 1 PELO DECRETO LEI 103/88, DE 29 DE MARCO, PUBLICADO NO DR.IS, 74.\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1988-286373
 - type: amended_by
   target: pt:dre:571408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286373:por
+  label: "Aditado o nº3 ao art. 1º pelo DEC LEI.103/88.29.03.1988.MOPTC, DR.IS [74] de 29.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1988-286373
+  date: '1988-03-29'
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 151/90, DE 15 DE MAIO, PUBLICADO NO DR.IS, 111.\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-05-15'
+- type: repealed_by
+  target: pt:dre:571408:por
+  label: "Revogado pelo DEC LEI.151/90.15.05.1990.MOPTC, DR.IS [111] de 15.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1990-571408
+  date: '1990-05-15'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:59:21Z'
   warnings: []
   errors: []
 ---
@@ -291,12 +330,12 @@ Nas regiões autónomas poderá aplicar-se o presente diploma, com as adaptaçõ
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Carlos Montez Melancia.
 
-**Promulgado em 8 de Agosto de 1984.**
+Promulgado em 8 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Agosto de 1984.**
+Referendado em 17 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

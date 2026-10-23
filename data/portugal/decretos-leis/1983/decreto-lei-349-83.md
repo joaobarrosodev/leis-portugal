@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17400/28272829.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab5fd44afc21f9ba18d0ad360fb8cb5d968cf22a6790fb597def02b60fc3654a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17ff403e42dd7929dcafe6187bce262eef4575e57cc754aabddaa18483bb414a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Construção Civil
+- Cooperativa de Habitação
+- Crédito à Habitação
+- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA A PARTE FINAL DO NUM 1 DO ART 4 DO DEC LEI 264/82 DE 08-JUL, NA REDACÇÃO CONFERIDA PELO PRESENTE DIPLOMA,\
+    \ PELO DEC LEI 299/95 DE 18-NOV DR.IS-A [267]\0.IS-A [267]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-18'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:14Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +141,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º a 8.º e 10.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º a 8.º e 10.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O Fundo de Apoio ao Investimento para a Habitação, a Caixa Geral de Depósitos, o Crédito Predial Português e a Caixa Económica de Lisboa - Montepio Geral ficam autorizados a conceder empréstimos ao abrigo do disposto no presente diploma, no âmbito do financiamento integrado para a promoção habitacional do sector cooperativo.
+Artigo 1.º - 1 - O Fundo de Apoio ao Investimento para a Habitação, a Caixa Geral de Depósitos, o Crédito Predial Português e a Caixa Económica de Lisboa - Montepio Geral ficam autorizados a conceder empréstimos ao abrigo do disposto no presente diploma, no âmbito do financiamento integrado para a promoção habitacional do sector cooperativo.
 
 2 - O Fundo de Apoio ao Investimento para a Habitação deverá articular com as restantes instituições indicadas no número anterior a concessão dos empréstimos.
 
 3 - Podem beneficiar dos financiamentos as cooperativas de habitação de qualquer grau que inscrevam entre os seus fins a promoção habitacional e satisfaçam os requisitos impostos pelo presente diploma.
 
-###### Art. 2.º - 1 - Os empréstimos destinam-se à construção de casas de habitação para residência permanente dos cooperadores.
+Art. 2.º - 1 - Os empréstimos destinam-se à construção de casas de habitação para residência permanente dos cooperadores.
 
 2 - Constituem condições de acesso ao financiamento:
 
@@ -135,13 +175,13 @@ d) Continuam, porém, relativamente ao saldo apurado dia a dia, a usufruir dos b
 
 5 - São igualmente consideradas, para efeitos do montante a que se refere a alínea b) do n.º 3, as importâncias que até à data da publicação do presente diploma tenham sido entregues pelos cooperadores à cooperativa e por esta comprovadamente utilizadas no pagamento de projectos, terrenos, infra-estruturas e equipamentos complementares, quando incluídos no empreendimento a financiar.
 
-###### Art. 3.º As condições dos empréstimos, designadamente o seu montante máximo, a fixar em função do valor final, a que alude o artigo 5.º, e os prazos máximos de amortização serão definidos pela portaria conjunta referida no artigo anterior.
+Art. 3.º As condições dos empréstimos, designadamente o seu montante máximo, a fixar em função do valor final, a que alude o artigo 5.º, e os prazos máximos de amortização serão definidos pela portaria conjunta referida no artigo anterior.
 
-###### Art. 4.º - 1 - A taxa de juro contratual será a máxima legal aplicável no momento da concessão do empréstimo ou, em caso de alteração, na data do vencimento de cada prestação.
+Art. 4.º - 1 - A taxa de juro contratual será a máxima legal aplicável no momento da concessão do empréstimo ou, em caso de alteração, na data do vencimento de cada prestação.
 
 2 - A taxa de juro contratual poderá beneficiar de uma bonificação que constituirá encargo do Estado, nas condições a definir por portaria conjunta dos Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e do membro do Governo que exercer tutela sobre o INSCOOP.
 
-###### Art. 5.º - 1 - O valor final das habitações total ou parcialmente financiadas nos termos do presente diploma, mesmo quando localizadas em terrenos com infra-estruturas construídas, resultará da adição ao valor inicial do valor de revisão de preços respectivos, dos encargos financeiros vencidos após a conclusão e ainda de outros custos resultantes de alterações, de acordo com a expressão seguinte:
+Art. 5.º - 1 - O valor final das habitações total ou parcialmente financiadas nos termos do presente diploma, mesmo quando localizadas em terrenos com infra-estruturas construídas, resultará da adição ao valor inicial do valor de revisão de preços respectivos, dos encargos financeiros vencidos após a conclusão e ainda de outros custos resultantes de alterações, de acordo com a expressão seguinte:
 
 V(índice fn) = (Vi + Rp + Vj + Ca) x (1 + (n x j)/200) + Rc
 
@@ -171,36 +211,36 @@ Rc = reserva para construção até 10% do total dos demais valores da expressã
 
 5 - O valor final será calculado para cada semestre, num máximo de 3, após a conclusão das habitações, considerando-se para o efeito a taxa de juro em vigor para o financiamento no início de cada semestre, sem prejuízo de, no caso de excedido o período de 3 semestres, lhes serem acrescidos os juros vencidos, calculados dia a dia.
 
-###### Art. 6.º Os empréstimos concedidos ao abrigo deste diploma serão garantidos preferencialmente por hipoteca constituída sobre os terrenos e as edificações, sem prejuízo de outras garantias que as instituições de crédito, por força das suas regras de gestão e segurança, entendam exigir.
+Art. 6.º Os empréstimos concedidos ao abrigo deste diploma serão garantidos preferencialmente por hipoteca constituída sobre os terrenos e as edificações, sem prejuízo de outras garantias que as instituições de crédito, por força das suas regras de gestão e segurança, entendam exigir.
 
-###### Art. 7.º - 1 - As instituições de crédito abrirão uma conta de empréstimo para cada operação de financiamento contratada.
+Art. 7.º - 1 - As instituições de crédito abrirão uma conta de empréstimo para cada operação de financiamento contratada.
 
 2 - O distrate de hipoteca dependerá também do pagamento dos juros vencidos correspondentes a cada uma das fracções a distratar.
 
 3 - A parte das importâncias mutuadas destinada à execução de obras só poderá ser movimentada pela entidade financiadora mediante transferência para conta de depósito em nome dos construtores ou fornecedores, previamente identificados.
 
-###### Art. 8.º - 1 - A instituição de crédito que conceder empréstimos nos termos do n.º 1 do artigo 1.º deste diploma financiará, desde que se encontrem satisfeitas as regras de segurança por ela estabelecidas, a aquisição das habitações pelos cooperadores, com base nos valores a que se refere o n.º 1 do artigo 5.º
+Art. 8.º - 1 - A instituição de crédito que conceder empréstimos nos termos do n.º 1 do artigo 1.º deste diploma financiará, desde que se encontrem satisfeitas as regras de segurança por ela estabelecidas, a aquisição das habitações pelos cooperadores, com base nos valores a que se refere o n.º 1 do artigo 5.º
 
 2 - Os empréstimos para aquisição das habitações pelos cooperadores estão sujeitos ao regime do Decreto-Lei n.º 349/83, de 30 de Julho, sem prejuízo do previsto no artigo 2.º
 
 3 - As importâncias respeitantes aos financiamentos à aquisição das habitações serão creditadas na conta de empréstimo da cooperativa pela parte correspondente, ao valor de distrate fixado pela instituição financiadora relativamente à habitação a que se refere o empréstimo.
 
-###### Art. 10.º - 1 - O empreendimento só poderá ser financiado se os terrenos forem propriedade da cooperativa ou ela tiver sobre os mesmos um direito de superfície.
+Art. 10.º - 1 - O empreendimento só poderá ser financiado se os terrenos forem propriedade da cooperativa ou ela tiver sobre os mesmos um direito de superfície.
 
 2 - O pagamento desses terrenos poderá ser efectuado à medida que os cooperadores forem adquirindo as respectivas habitações, se tal tiver sido convencionado.
 
-###### Art. 2.º É revogado o artigo 11.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho.
+Art. 2.º É revogado o artigo 11.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 266/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1982-394503), de 8 de Julho.
+Art. 3.º É revogado o [Decreto-Lei n.º 266/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1982-394503), de 8 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 7 de Junho de 1983.**
+Promulgado em 7 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

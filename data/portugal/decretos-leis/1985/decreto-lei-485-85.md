@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1985-172098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6d58f658c1ba942ff8456a7f8f78c4119bed5705c354c1f378630d8af1e6d07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3d83f81e84a1d18c22c454648e4f9fad880ba10402b6e390a818141d21f2e7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indep
+- Indústria de Armamento
+- Orgânica
+- Política de Defesa
 relationships:
 - type: amended_by
   target: pt:dre:338413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:457672:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:53Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +107,9 @@ Tornando-se, por isso, necessário estabelecer as normas legais que possibilitem
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 3.º e o n.º 3 do artigo 6.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, passam a ter a seguinte redacção:
+Artigo único. O artigo 3.º e o n.º 3 do artigo 6.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - A transferência para a INDEP de todos os bens do património da Fábrica Militar de Braço de Prata e da Fábrica Nacional de Munições de Armas Ligeiras far-se-á por força do presente diploma, o qual constituirá título suficiente para todos os efeitos legais, incluindo os de registo.
+Art. 3.º - 1 - A transferência para a INDEP de todos os bens do património da Fábrica Militar de Braço de Prata e da Fábrica Nacional de Munições de Armas Ligeiras far-se-á por força do presente diploma, o qual constituirá título suficiente para todos os efeitos legais, incluindo os de registo.
 
 2 - É autorizado o Ministro das Finanças e do Plano, através da Direcção-Geral do Património do Estado, a ceder à INDEP, a título definitivo e gratuito, os imóveis do domínio privado do Estado, afectos ao Exército, a título precário, para utilização pela Fábrica Militar de Braço de Prata e pela Fábrica de Munições de Armas Ligeiras, bem como o imóvel, também afecto ao Exército, que esteve arrendado à Companhia de Pólvoras e Munições de Barcarena, S.A.R.L., por escritura pública de 19 de Setembro de 1951, autorizada, pelo Decreto-Lei n.º 38350, de 1 de Julho de 1951, já utilizado pela Fábrica Nacional de Munições de Armas Ligeiras, e que constam da relação anexa a este diploma.
 
@@ -109,21 +117,21 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A cessão efectuar-se-á por meio de auto lavrado e assinado na Direcção-Geral do Património do Estado, o qual constitui título bastante para a realização dos necessários registos.
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 6 - A INDEP fica sujeita às normas de segurança fixadas nas leis e à disciplina da Comissão dos Explosivos, nos precisos termos dos demais agentes económicos privados, e terá em particular atenção a observância das normas gerais de segurança emanadas da autoridade nacional de segurança da OTAN e as normas específicas do serviço de segurança das Forças Armadas.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 5 de Novembro de 1985.**
+Promulgado em 5 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Novembro de 1985.**
+Referendado em 12 de Novembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Relação dos Imóveis a ceder à INDEP
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11300/11611161.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1986-227191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34c34c9011cebd839a8267678b0074b57bf9176852cdef016c64c71f28603091
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b4b7cc4016cc139dc025719d0c101216c2a2b1d19e5fc00fd7c6ceeb2fdf20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito à Habitação
+- Deficiente
+- Habitação
+- Juros
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:471320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:56351555:por
+  label: Revogado, a partir de 01.01.2015, pelo(a) Lei n.º 64/2014 - Diário da República n.º 163/2014, Série I de 2014-08-26,
+    mantendo-se aplicável às operações de crédito anteriores à data de entrada em vigor desta (01.01.2015)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2014-56351555
+  date: '2014-08-26'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:46Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +119,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Estado liquidará às instituições de crédito mutuantes de financiamentos realizados ao abrigo do n.º 8 do artigo 14.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, e do artigo único do [Decreto-Lei n.º 230/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1980-471320), de 16 de Julho, a diferença entre os juros remuneratórios a cargo dos mutuários e os juros correspondentes à aplicação das taxas de juro cobradas pelas mesmas instituições em empréstimos de igual natureza mas não destinados a deficientes.
+Artigo 1.º O Estado liquidará às instituições de crédito mutuantes de financiamentos realizados ao abrigo do n.º 8 do artigo 14.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, e do artigo único do [Decreto-Lei n.º 230/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1980-471320), de 16 de Julho, a diferença entre os juros remuneratórios a cargo dos mutuários e os juros correspondentes à aplicação das taxas de juro cobradas pelas mesmas instituições em empréstimos de igual natureza mas não destinados a deficientes.
 
-###### Art. 2.º Para efeitos de controle e pagamento do diferencial de juros a que se refere o artigo 1.º, as instituições de crédito devem remeter à Direcção-Geral do Tesouro todos os elementos de caracterização das operações de crédito abrangidas pelo presente decreto-lei necessários à determinação dos encargos do Estado e à obtenção de correspondente cobertura orçamental.
+Art. 2.º Para efeitos de controle e pagamento do diferencial de juros a que se refere o artigo 1.º, as instituições de crédito devem remeter à Direcção-Geral do Tesouro todos os elementos de caracterização das operações de crédito abrangidas pelo presente decreto-lei necessários à determinação dos encargos do Estado e à obtenção de correspondente cobertura orçamental.
 
-###### Art. 3.º A liquidação dos encargos vencidos até 31 de Dezembro de 1985 terá lugar a partir da entrada em vigor do presente diploma.
+Art. 3.º A liquidação dos encargos vencidos até 31 de Dezembro de 1985 terá lugar a partir da entrada em vigor do presente diploma.
 
-###### Art. 4.º Fica autorizada a Direcção-Geral do Tesouro a inscrever anualmente no cap. 60 «Despesas excepcionais» do orçamento do Ministério das Finanças as dotações necessárias ao pagamento do diferencial de juros a cargo do Estado a que se refere o presente decreto-lei.
+Art. 4.º Fica autorizada a Direcção-Geral do Tesouro a inscrever anualmente no cap. 60 «Despesas excepcionais» do orçamento do Ministério das Finanças as dotações necessárias ao pagamento do diferencial de juros a cargo do Estado a que se refere o presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 24 de Abril de 1986.**
+Promulgado em 24 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Maio de 1986.**
+Referendado em 7 de Maio de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

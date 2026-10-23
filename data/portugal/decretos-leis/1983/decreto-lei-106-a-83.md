@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 40/1983, 2º Suplemento, Série I de 1983-02-18
   number: '40'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 516-(23) a 516-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04002/00230025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14f471545568bbc1dfa6a6ef9b46eb554ed0954d6bcd2060de26628f2d376cd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f87de86dd45348e0b45b9411f46a437ebc71e8345bc4c61cdcb45f48491dbd82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diuturnidades
+- Função Pública
+- Funcionário Público
+- Pensões
+- Remuneração
+- Subsídio de Refeição
 relationships:
 - type: amended_by
   target: pt:dre:667523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667523:por
+  label: "Revogado pelo DEC LEI.57-C/84.1984.02.20.PCM DR.IS [40]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-c-1984-667523
+  date: '1984-02-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:11Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +145,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da administração pública central e local e dos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos passa a ser, a partir de 1 de Janeiro de 1983, a seguinte:
+Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da administração pública central e local e dos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos passa a ser, a partir de 1 de Janeiro de 1983, a seguinte:
 
 A ... 51600$00
 
@@ -148,9 +191,9 @@ U ... 14200$00
 
 2 - O disposto no número anterior é aplicável ao pessoal cujas remunerações são asseguradas pelos cofres gerais dos tribunais e dos conservadores, notários e funcionários de justiça, mediante despacho do Ministro da Justiça.
 
-###### Art. 2.º As remunerações mensais correspondentes a cargos ou funções exercidos a tempo completo, mas que não coincidam com qualquer das letras da tabela constantes do n.º 1 do artigo 1.º, serão aumentadas, a partir de 1 de Janeiro de 1983, na percentagem de 17%, sendo os quantitativos resultantes arredondados, por excesso, para a centena de escudos.
+Art. 2.º As remunerações mensais correspondentes a cargos ou funções exercidos a tempo completo, mas que não coincidam com qualquer das letras da tabela constantes do n.º 1 do artigo 1.º, serão aumentadas, a partir de 1 de Janeiro de 1983, na percentagem de 17%, sendo os quantitativos resultantes arredondados, por excesso, para a centena de escudos.
 
-###### Art. 3.º - 1 - As remunerações dos aprendizes e praticantes que não estejam incluídas nas letras da tabela constante do n.º 1 do artigo 1.º são fixadas, com efeitos a partir de 1 de Janeiro de 1983, nos termos seguintes:
+Art. 3.º - 1 - As remunerações dos aprendizes e praticantes que não estejam incluídas nas letras da tabela constante do n.º 1 do artigo 1.º são fixadas, com efeitos a partir de 1 de Janeiro de 1983, nos termos seguintes:
 
 1.º ano de aprendizagem ... 10300$00
 
@@ -162,7 +205,7 @@ Praticantes ... 12000$00
 
 2 - A remuneração mensal dos trabalhadores rurais ao serviço das entidades referidas no artigo 1.º será a correspondente à letra U, sem prejuízo dos salários correntes da região, quando superiores.
 
-###### Art. 4.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como os dos dirigentes equiparados ao abrigo da [Resolução n.º 354-B/79](https://diariodarepublica.pt/dr/detalhe/resolucao/354-b-1979-473298), de 14 de Dezembro, passam a ser, com efeitos a partir de 1 de Janeiro de 1983, os seguintes:
+Art. 4.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, bem como os dos dirigentes equiparados ao abrigo da [Resolução n.º 354-B/79](https://diariodarepublica.pt/dr/detalhe/resolucao/354-b-1979-473298), de 14 de Dezembro, passam a ser, com efeitos a partir de 1 de Janeiro de 1983, os seguintes:
 
 Director-geral, secretário-geral e outros cargos equiparados a director-geral ... 55200$00
 
@@ -184,7 +227,7 @@ Chefe de contabilidade e chefe de exploração do grupo III e restantes ... 3360
 
 Chefe de serviço administrativo do grupo IV e restantes ... 31800$00
 
-###### Art. 5.º - 1 - São aumentadas em 17%, com efeitos a partir de 1 de Janeiro de 1983, as seguintes pensões:
+Art. 5.º - 1 - São aumentadas em 17%, com efeitos a partir de 1 de Janeiro de 1983, as seguintes pensões:
 
 a) De aposentação, de reforma e de invalidez;
 
@@ -196,26 +239,26 @@ c) De preço de sangue e outras a cargo do Ministério das Finanças e do Plano,
 
 3 - As pensões pagas através da Caixa Geral de Aposentações, do Montepio dos Servidores do Estado e de outras entidades públicas em cujo encargo o Estado não comparticipe poderão ser actualizadas, nos termos dos números anteriores, mediante decisão das entidades competentes.
 
-###### Art. 6.º A partir de 1 de Janeiro de 1983, o valor das diuturnidades a que se refere o [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, será de 1020$00, beneficiando também deste aumento o pessoal aposentado ou reformado e os pensionistas das espécies contempladas na alínea c) do n.º 1 do artigo 5.º do presente diploma.
+Art. 6.º A partir de 1 de Janeiro de 1983, o valor das diuturnidades a que se refere o [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, será de 1020$00, beneficiando também deste aumento o pessoal aposentado ou reformado e os pensionistas das espécies contempladas na alínea c) do n.º 1 do artigo 5.º do presente diploma.
 
-###### Art. 7.º São revogados os Decretos-Leis n.os [108/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1981-573756), de 14 de Maio, e [432/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1982-376412), de 25 de Outubro, passando a actualização das remunerações constantes daqueles diplomas a ser efectuadas nos termos gerais referidos no artigo 2.º do presente decreto-lei.
+Art. 7.º São revogados os Decretos-Leis n.os [108/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1981-573756), de 14 de Maio, e [432/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1982-376412), de 25 de Outubro, passando a actualização das remunerações constantes daqueles diplomas a ser efectuadas nos termos gerais referidos no artigo 2.º do presente decreto-lei.
 
-###### Art. 8.º - 1 - O subsídio de refeição previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, é fixado em 1800$00 mensais, com efeitos desde 1 de Janeiro de 1983.
+Art. 8.º - 1 - O subsídio de refeição previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, é fixado em 1800$00 mensais, com efeitos desde 1 de Janeiro de 1983.
 
 2 - O preço de venda da refeição a fixar, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, não poderá ser inferior ao valor do subsídio diário correspondente ao subsídio mensal agora fixado.
 
-###### Art. 9.º Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis à execução no presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para o pagamento dos vencimentos.
+Art. 9.º Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis à execução no presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para o pagamento dos vencimentos.
 
-###### Art. 10.º Mantêm-se em vigor, em tudo o que não contrarie o presente diploma, os Decretos-Leis n.os 110-A/81, de 24 de Maio, e 15-13/82, de 20 de Janeiro.
+Art. 10.º Mantêm-se em vigor, em tudo o que não contrarie o presente diploma, os Decretos-Leis n.os 110-A/81, de 24 de Maio, e 15-13/82, de 20 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 18 de Fevereiro de 1983.**
+Promulgado em 18 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Fevereiro de 1983.**
+Referendado em 18 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

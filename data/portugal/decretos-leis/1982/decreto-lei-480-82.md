@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29600/42174219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1982-380886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:48:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7fc0bad1db43d91d4e1e304479bf013d9322d2f9c3fe033af15c1ddf5bf00e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c54137e3f21e283b661f33a0b50fb0e726918175d2ada4d8fa6618d455f378
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Turismo
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:220099:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:325309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370064:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220099:por
+  label: "Revogado pelo DEC LEI.264/86.03.09.1986.PCM, DR.IS [202] de 03.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1986-220099
+  date: '1986-09-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:48:00Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +114,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, n.º 2, 23.º, 31.º, n.º 1, 33.º, 34.º, 35.º, 37.º, n.º 2, 40.º, n.º 1, 45.º, 50.º, 63.º, 64.º, 67.º, 69.º, n.º 5, 70.º, n.º 1, 79.º, n.º 2, 82.º, n.º 2, e 86.º, n.º 1, do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064), de 31 de Agosto passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, n.º 2, 23.º, 31.º, n.º 1, 33.º, 34.º, 35.º, 37.º, n.º 2, 40.º, n.º 1, 45.º, 50.º, 63.º, 64.º, 67.º, 69.º, n.º 5, 70.º, n.º 1, 79.º, n.º 2, 82.º, n.º 2, e 86.º, n.º 1, do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064), de 31 de Agosto passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - A estas agências é vedada a assistência de turistas durante a sua permanência no País, bem como o exercício das actividades previstas na alínea a) do n.º 1 do artigo 2.º deste diploma.
 
-###### Art. 23.º - 1 - O montante da caução a prestar pelas agências de viagens e turismo será fixado no despacho que conceder as licenças ou autorizações, em conformidade com a respectiva classificação e a actividade programada, a partir dos seguintes valores mínimos:
+Art. 23.º - 1 - O montante da caução a prestar pelas agências de viagens e turismo será fixado no despacho que conceder as licenças ou autorizações, em conformidade com a respectiva classificação e a actividade programada, a partir dos seguintes valores mínimos:
 
 a) Para os grossistas - 6000000$00;
 
@@ -116,7 +132,7 @@ d) Para os delegados das agências de viagens estrangeiras - 2000000$00.
 
 2 - A caução, fixada nos termos do número anterior, será obrigatoriamente aumentada em 500000$00 por cada sucursal que a agência abra.
 
-###### Art. 31.º - 1 - A cobertura do seguro previsto no artigo 29.º não poderá ser inferior:
+Art. 31.º - 1 - A cobertura do seguro previsto no artigo 29.º não poderá ser inferior:
 
 a) A 6000000$00 para as agências grossistas;
 
@@ -124,17 +140,17 @@ b) A 4000000$00 para as agências operadoras;
 
 c) A 2000000$00 para as agências retalhistas;
 
-###### Art. 33.º - 1 - As agências de viagens e turismo e respectivas sucursais deverão dispor de um director técnico.
+Art. 33.º - 1 - As agências de viagens e turismo e respectivas sucursais deverão dispor de um director técnico.
 
 2 - As delegações das agências de viagens e os serviços de reservas deverão dispor de um responsável técnico pelo seu funcionamento.
 
-###### Art. 34.º - 1 - Os cargos de director técnico e de responsável técnico só poderão ser exercidos por pessoas com idoneidade comercial que preencham os requisitos estabelecidos em regulamento.
+Art. 34.º - 1 - Os cargos de director técnico e de responsável técnico só poderão ser exercidos por pessoas com idoneidade comercial que preencham os requisitos estabelecidos em regulamento.
 
 2 - Os administradores, gerentes ou directores da empresa proprietária da agência poderão exercer os cargos referidos no número anterior, desde que preencham os requisitos exigidos para o efeito.
 
-###### Art. 35.º Os requisitos de aptidão profissional exigidos para o exercício dos cargos de director técnico ou de responsável técnico serão verificados pela comissão consultiva prevista no artigo 79.º, nos termos estabelecidos em regulamento.
+Art. 35.º Os requisitos de aptidão profissional exigidos para o exercício dos cargos de director técnico ou de responsável técnico serão verificados pela comissão consultiva prevista no artigo 79.º, nos termos estabelecidos em regulamento.
 
-###### Art. 37.º - 1 - ...
+Art. 37.º - 1 - ...
 
 2 - De acordo com a categoria da agência que se pretende instalar, o capital mínimo da sociedade deverá ser o seguinte:
 
@@ -144,7 +160,7 @@ b) Para as agências operadoras - 6000000$00;
 
 c) Para as agências retalhistas - 2500000$00.
 
-###### Art. 40.º - 1 - A mudança de categoria de uma agência de viagens e turismo é considerada como um pedido de nova licença, com as necessárias adaptações, dando-se como preenchidos todos os requisitos que sejam iguais em ambas as categorias.
+Art. 40.º - 1 - A mudança de categoria de uma agência de viagens e turismo é considerada como um pedido de nova licença, com as necessárias adaptações, dando-se como preenchidos todos os requisitos que sejam iguais em ambas as categorias.
 
 2 - ...
 
@@ -152,7 +168,7 @@ c) Para as agências retalhistas - 2500000$00.
 
 4 - ...
 
-###### Art. 45.º - 1 - Depois de expedido o alvará de uma agência de viagens carecem de autorização prévia da Direcção-Geral do Turismo:
+Art. 45.º - 1 - Depois de expedido o alvará de uma agência de viagens carecem de autorização prévia da Direcção-Geral do Turismo:
 
 a) As alterações do pacto social da sociedade titular do alvará que envolvam a mudança da firma ou denominação social e da sede social;
 
@@ -170,25 +186,25 @@ e) A substituição dos respectivos directores técnicos e responsáveis técnic
 
 4 - Os interessados deverão apresentar na Direcção-Geral do Turismo os documentos comprovativos das modificações ou substituições realizadas no prazo de 30 dias contado da data da sua verificação.
 
-###### Art. 50.º Nos concelhos onde não existam agência de viagens é permitido aos órgãos locais de turismo, em casos especiais e mediante condições a fixar em regulamento, organizar viagens turísticas colectivas.
+Art. 50.º Nos concelhos onde não existam agência de viagens é permitido aos órgãos locais de turismo, em casos especiais e mediante condições a fixar em regulamento, organizar viagens turísticas colectivas.
 
-###### Art. 63.º - 1 - Nos contratos celebrados com uma agência de viagens e turismo o cliente pode fazer-se substituir por outra pessoa na sua execução se as cláusulas do contrato, as normas reguladoras ou a natureza dos serviços a prestar o não impedirem ou ainda se tal substituição não for objecto de recusa por parte de qualquer fornecedor dos serviços acordados.
+Art. 63.º - 1 - Nos contratos celebrados com uma agência de viagens e turismo o cliente pode fazer-se substituir por outra pessoa na sua execução se as cláusulas do contrato, as normas reguladoras ou a natureza dos serviços a prestar o não impedirem ou ainda se tal substituição não for objecto de recusa por parte de qualquer fornecedor dos serviços acordados.
 
 2 - No caso previsto no número anterior o cliente deverá avisar a agência, com uma antecedência não inferior a 3 dias úteis em relação à data do início da prestação do serviço, e indemnizá-la das despesas causadas pela substituição.
 
 3 - A não observância do disposto no número anterior dá à agência o direito de recusar qualquer substituição, aplicando-se nesse caso o disposto nos n.os 2 e 3 do artigo 62.º
 
-###### Art. 64.º - 1 - As agências de viagens são obrigadas a entregar aos clientes, no momento da confirmação dos respectivos contratos, todos os documentos necessários para o cliente poder obter os serviços contratados.
+Art. 64.º - 1 - As agências de viagens são obrigadas a entregar aos clientes, no momento da confirmação dos respectivos contratos, todos os documentos necessários para o cliente poder obter os serviços contratados.
 
 2 - As agências de viagens passarão obrigatoriamente aos clientes, sempre que solicitadas, facturas onde constem, discriminadamente, além do preço dos serviços, as despesas feitas para a sua obtenção e as respectivas taxas de serviço, quando a elas houver lugar.
 
 3 - Cessa a obrigação prevista no n.º 2 quando as normas reguladoras da prestação de um certo serviço impeçam a referida discriminação.
 
-###### Art. 67.º - 1 - Os preços fixados pelas empresas da indústria hoteleira e similar e demais meios complementares de alojamento às agências de viagens e turismo não serão, em caso algum, superiores aos praticados em relação aos demais clientes.
+Art. 67.º - 1 - Os preços fixados pelas empresas da indústria hoteleira e similar e demais meios complementares de alojamento às agências de viagens e turismo não serão, em caso algum, superiores aos praticados em relação aos demais clientes.
 
 2 - Independentemente dos preços especiais que tiverem sido acordados, os serviços prestados pelas empresas referidas no número anterior aos clientes das agências de viagens serão perfeitamente iguais em qualidade e características aos prestados aos demais clientes das mesmas empresas.
 
-###### Art. 69.º - 1 - ...
+Art. 69.º - 1 - ...
 
 2 - ...
 
@@ -198,21 +214,21 @@ e) A substituição dos respectivos directores técnicos e responsáveis técnic
 
 5 - Salvo no caso de condições contratuais diferentes estabelecidas por escrito, os serviços são considerados individuais ou colectivos, conforme abranjam até 10 ou mais de 10 pessoas.
 
-###### Art. 70.º - 1 - No caso de a agência de viagens anular as reservas sem observar os prazos fixados no artigo anterior, as empresas hoteleiras e as dos meios complementares de alojamento terão direito, a título de indemnização, à importância correspondente aos depósitos de garantia previstos no artigo seguinte por cada unidade de alojamento que não tenham podido ocupar, salvo condições contratuais diferentes estabelecidas por escrito.
+Art. 70.º - 1 - No caso de a agência de viagens anular as reservas sem observar os prazos fixados no artigo anterior, as empresas hoteleiras e as dos meios complementares de alojamento terão direito, a título de indemnização, à importância correspondente aos depósitos de garantia previstos no artigo seguinte por cada unidade de alojamento que não tenham podido ocupar, salvo condições contratuais diferentes estabelecidas por escrito.
 
-###### Art. 79.º - 1 - ...
+Art. 79.º - 1 - ...
 
 2 - Esta comissão funcionará no âmbito da Direcção-Geral do Turismo.
 
-###### Art. 82.º - 1 - ...
+Art. 82.º - 1 - ...
 
 2 - O expediente da comissão será assegurado pela Direcção-Geral do Turismo.
 
-###### Art. 86.º - 1 - As agências de viagens e turismo e os delegados das agências estrangeiras são obrigados a enviar à Direcção-Geral do Turismo, até 31 de Março de cada ano, informação quantitativa do movimento de pessoas que viajaram por seu intermédio no ano anterior, indicando as respectivas nacionalidades e os países de origem ou destino.
+Art. 86.º - 1 - As agências de viagens e turismo e os delegados das agências estrangeiras são obrigados a enviar à Direcção-Geral do Turismo, até 31 de Março de cada ano, informação quantitativa do movimento de pessoas que viajaram por seu intermédio no ano anterior, indicando as respectivas nacionalidades e os países de origem ou destino.
 
-###### Art. 2.º É aditado ao artigo 41.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) um n.º 5, com a seguinte redacção:
+Art. 2.º É aditado ao artigo 41.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) um n.º 5, com a seguinte redacção:
 
-###### Art. 41.º - 1 - ...
+Art. 41.º - 1 - ...
 
 2 - ...
 
@@ -222,13 +238,13 @@ e) A substituição dos respectivos directores técnicos e responsáveis técnic
 
 5 - É aplicável às delegações e sucursais das agências de viagens o disposto no n.º 4 do artigo 36.º
 
-###### Art. 3.º A seguir ao artigo 71.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) é intercalado o seguinte artigo:
+Art. 3.º A seguir ao artigo 71.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) é intercalado o seguinte artigo:
 
-###### Art. 71.º-A. No caso de as empresas hoteleiras e as dos meios complementares de alojamento não cumprirem as reservas confirmadas, as agências de viagens terão direito, na falta de cláusulas contratuais próprias, a uma indemnização calculada nos termos estabelecidos no artigo 70.º, sem prejuízo de aquelas empresas serem ainda responsáveis pelo pagamento de todas as indemnizações que, porventura, venham a ser exigidas à agência de viagens pelos clientes em consequência de tal incumprimento.
+Art. 71.º-A. No caso de as empresas hoteleiras e as dos meios complementares de alojamento não cumprirem as reservas confirmadas, as agências de viagens terão direito, na falta de cláusulas contratuais próprias, a uma indemnização calculada nos termos estabelecidos no artigo 70.º, sem prejuízo de aquelas empresas serem ainda responsáveis pelo pagamento de todas as indemnizações que, porventura, venham a ser exigidas à agência de viagens pelos clientes em consequência de tal incumprimento.
 
-###### Art. 4.º Ao n.º 1 do artigo 81.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) é aditada uma alínea o), com a seguinte redacção:
+Art. 4.º Ao n.º 1 do artigo 81.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) é aditada uma alínea o), com a seguinte redacção:
 
-###### Art. 81.º - 1 - ...
+Art. 81.º - 1 - ...
 
 a) ...
 
@@ -258,7 +274,7 @@ n) ...
 
 o) Dar parecer sobre as memórias justificativas para os pedidos de alvarás submetidos à Direcção-Geral do Turismo, quando existirem.
 
-###### Art. 5.º - 1 - Relativamente às agências de viagens e turismo legalmente existentes à data da publicação do presente diploma as alterações introduzidas ao n.º 1 do artigo 23.º e ao n.º 2 do artigo 37.º só entram em vigor no termo do prazo estabelecido no n.º 1 do artigo 93.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064), salvo o disposto no número seguinte.
+Art. 5.º - 1 - Relativamente às agências de viagens e turismo legalmente existentes à data da publicação do presente diploma as alterações introduzidas ao n.º 1 do artigo 23.º e ao n.º 2 do artigo 37.º só entram em vigor no termo do prazo estabelecido no n.º 1 do artigo 93.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064), salvo o disposto no número seguinte.
 
 2 - As agências de viagens existentes ficam dispensadas das novas exigências no que respeita ao limite mínimo do capital social.
 
@@ -266,12 +282,12 @@ o) Dar parecer sobre as memórias justificativas para os pedidos de alvarás sub
 
 4 - O aumento do capital social necessário para dar cumprimento aos novos limites mínimos estabelecidos pelo presente diploma pode ser realizado por incorporação de reservas e pela reavaliação do activo das empresas, nos termos previstos no [Decreto-Lei n.º 430/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1978-325309), de 27 de Dezembro, no prazo de 2 anos contado da data da sua entrada em vigor.
 
-###### Art. 6.º São revogados o n.º 4 do artigo 88.º e o artigo 95.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064), de 31 de Agosto.
+Art. 6.º São revogados o n.º 4 do artigo 88.º e o artigo 95.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064), de 31 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Dezembro de 1982.**
+Promulgado em 13 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

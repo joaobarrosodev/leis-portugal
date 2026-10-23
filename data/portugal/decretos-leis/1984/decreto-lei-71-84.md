@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1984-661476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fce8509961750a22739bd0ce14c64c3e128745f9b7010b383e826d804c481fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e39c9c0d953062b238994a1ef8ae4bf98bd6ae1ac021a4df778f62aa03db1e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aviação Civil
+- Comandante de Aeronave
+- Estatuto
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: pt:dre:530004:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:52Z'
   warnings: []
   errors: []
 ---
@@ -94,37 +102,39 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Estatuto do Comandante de Aeronave anexo ao presente decreto-lei e que dele faz parte integrante.
+Artigo único. É aprovado o Estatuto do Comandante de Aeronave anexo ao presente decreto-lei e que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - João Rosado Correia.
 
-**Promulgado em 13 de Fevereiro de 1984.**
+Promulgado em 13 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 16 de Fevereiro de 1984.**
+Referendado em 16 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ESTATUTO DO COMANDANTE DE AERONAVE
 
-### CAPÍTULO I — Parte geral
+### CAPÍTULO I
 
-###### Artigo 1.º - 1 - O presente Estatuto é aplicável ao comandante de aeronave nacional de transporte aéreo.
+## Parte geral
+
+Artigo 1.º - 1 - O presente Estatuto é aplicável ao comandante de aeronave nacional de transporte aéreo.
 
 2 - As normas deste Estatuto aplicam-se ainda ao comandante de aeronave estrangeira que utilize aeroporto ou aeródromo portugueses, sem prejuízo da aplicação de tratado ou convenção internacional em contrário.
 
 3 - As disposições contidas neste Estatuto não se aplicam aos comandantes de aeronaves quando utilizadas em serviços do Estado, militares, aduaneiros, de polícia e outros.
 
-###### Art. 2.º - 1 - Para efeitos do disposto no presente diploma, entende-se que o comandante de aeronave é o piloto que, reunindo os requisitos legalmente exigíveis e designado pelo operador de transporte aéreo, exerce o comando da aeronave, incumbindo-lhe a direcção e responsabilidade da condução segura e regulamentar da mesma.
+Art. 2.º - 1 - Para efeitos do disposto no presente diploma, entende-se que o comandante de aeronave é o piloto que, reunindo os requisitos legalmente exigíveis e designado pelo operador de transporte aéreo, exerce o comando da aeronave, incumbindo-lhe a direcção e responsabilidade da condução segura e regulamentar da mesma.
 
 2 - Além das previstas no presente Estatuto, ao comandante compete ainda o exercício das funções preceituadas na demais legislação aplicável.
 
 3 - Neste Estatuto, o uso do termo «comandante» reporta-se a comandante de aeronave de transporte aéreo.
 
-###### Art. 3.º - 1 - Durante a realização do serviço de voo para que foi nomeado, compete ao comandante, designadamente:
+Art. 3.º - 1 - Durante a realização do serviço de voo para que foi nomeado, compete ao comandante, designadamente:
 
 a) Conduzir a aeronave executando ou mandando executar todas as medidas necessárias à segurança e à regularidade da operação e tendo em vista a eficácia e economia da mesma;
 
@@ -142,7 +152,7 @@ g) Representar o operador, de acordo com a delegação que lhe foi conferida.
 
 2 - As autoridades públicas e os organismos oficiais darão ao comandante, nos termos da legislação, das normas e dos procedimentos nacionais e internacionais aplicáveis, todo o apoio necessário ao exercício das suas funções.
 
-###### Art. 4.º - 1 - Com as limitações decorrentes do presente Estatuto, o comandante é a autoridade máxima a bordo, sendo responsável pela aeronave, tripulação, passageiros, carga e correio.
+Art. 4.º - 1 - Com as limitações decorrentes do presente Estatuto, o comandante é a autoridade máxima a bordo, sendo responsável pela aeronave, tripulação, passageiros, carga e correio.
 
 2 - Ao comandante não serão cometidas funções de custódia ou vigilância a bordo de quaisquer passageiros.
 
@@ -156,19 +166,19 @@ c) Quanto às bagagens, carga e correio - no momento em que estes sejam embarcad
 
 d) Quanto à aeronave - quando recebida pelo comandante ou pela pessoa na qual este delegue, para a realização do serviço, e termina quando, finalizado o serviço e ou o voo, faça a entrega da mesma ao representante do operador ou, quando tal não se mostre possível, uma vez observadas as precauções que tecnicamente garantam a segurança e cuidado da aeronave, de acordo com o estipulado no Manual de Operações de Voo.
 
-###### Art. 5.º - 1 - Para efeitos do disposto no presente diploma, entende-se por «serviço» a actividade desenvolvida pelo comandante desde a sua apresentação no aeroporto para realizar um voo ou uma série de voos, até ao início do primeiro período completo de descanso regulamentar em terra.
+Art. 5.º - 1 - Para efeitos do disposto no presente diploma, entende-se por «serviço» a actividade desenvolvida pelo comandante desde a sua apresentação no aeroporto para realizar um voo ou uma série de voos, até ao início do primeiro período completo de descanso regulamentar em terra.
 
 2 - Entende-se por descanso regulamentar em terra aquele que interrompe o serviço, a fim de proporcionar à tripulação pelo menos o descanso mínimo regulamentar estabelecido para a sua recuperação antes de iniciar outro serviço.
 
 3 - Os períodos de descanso parciais em terra não interrompem o serviço.
 
-###### Art. 6.º Em caso de incapacidade total do comandante para o exercício das suas funções, estas serão desempenhadas pelo tripulante que ocupe o lugar de co-piloto ou por quem for expressamente designado no Manual de Operações de Voo.
+Art. 6.º Em caso de incapacidade total do comandante para o exercício das suas funções, estas serão desempenhadas pelo tripulante que ocupe o lugar de co-piloto ou por quem for expressamente designado no Manual de Operações de Voo.
 
 ### CAPÍTULO II — Do exercício da função
 
-###### Art. 7.º O comandante deverá assegurar que o planeamento e execução do voo se realizam de acordo com a lei, manuais e outros procedimentos em vigor.
+Art. 7.º O comandante deverá assegurar que o planeamento e execução do voo se realizam de acordo com a lei, manuais e outros procedimentos em vigor.
 
-###### Art. 8.º O comandante poderá não iniciar o voo quando, em seu entender:
+Art. 8.º O comandante poderá não iniciar o voo quando, em seu entender:
 
 a) Qualquer membro da tripulação, incluindo ele próprio, se encontre em condições legais, mentais, físicas, fisiológicas ou outras que não garantam a adequada execução das funções específicas a bordo;
 
@@ -180,7 +190,7 @@ d) A carga da aeronave ultrapasse os limites permitidos ou, pela sua natureza ou
 
 e) A aeronave não satisfaça as condições mínimas tecnicamente exigíveis.
 
-###### Art. 9.º - 1 - O comandante, em casos devidamente justificados, poderá fazer antecipar ou atrasar a saída de um voo ou desviar o percurso normal daquele, mesmo depois de já iniciado.
+Art. 9.º - 1 - O comandante, em casos devidamente justificados, poderá fazer antecipar ou atrasar a saída de um voo ou desviar o percurso normal daquele, mesmo depois de já iniciado.
 
 2 - Qualquer dos procedimentos referidos no número anterior poderá ter lugar, nomeadamente, em algum dos seguintes casos:
 
@@ -188,23 +198,23 @@ a) Existência ou previsão de fenómenos atmosféricos ou catastróficos que po
 
 b) Existência ou justificada previsão de situações sociais ou políticas que assim o determinem.
 
-###### Art. 10.º - 1 - O comandante pode exigir a execução de medidas específicas de segurança, antes do início do voo, quando, em seu contender, tal segurança não esteja devidamente garantida.
+Art. 10.º - 1 - O comandante pode exigir a execução de medidas específicas de segurança, antes do início do voo, quando, em seu contender, tal segurança não esteja devidamente garantida.
 
 2 - O comandante deve previamente ser informado de qualquer medida especial ou excepcional de segurança que seja determinada pela autoridade competente ou pela empresa transportadora, assim como da causa que a motiva.
 
-###### Art. 11.º - 1 - O comandante acatará as competentes instruções dos serviços oficiais de controle do tráfego aéreo, a não ser que da execução das mesmas possa resultar perigo para a segurança da operação.
+Art. 11.º - 1 - O comandante acatará as competentes instruções dos serviços oficiais de controle do tráfego aéreo, a não ser que da execução das mesmas possa resultar perigo para a segurança da operação.
 
 2 - No caso previsto no número anterior, o comandante adoptará o procedimento que tenha por adequado, dando-o a conhecer aos referidos serviços logo que possível.
 
-###### Art. 12.º Sempre que esteja em causa a segurança da operação, o comandante não deverá abandonar o exercício das suas funções sem ter adoptado ou promovido todas as medidas adequadas à salvaguarda das pessoas e bens sob a sua responsabilidade.
+Art. 12.º Sempre que esteja em causa a segurança da operação, o comandante não deverá abandonar o exercício das suas funções sem ter adoptado ou promovido todas as medidas adequadas à salvaguarda das pessoas e bens sob a sua responsabilidade.
 
-###### Art. 13.º O comandante, em casos de força maior devidamente justificados, poderá suspender um tripulante das suas funções a bordo ou encarregá-lo temporariamente de outras distintas daquelas para que foi nomeado e para as quais esteja devidamente habilitado.
+Art. 13.º O comandante, em casos de força maior devidamente justificados, poderá suspender um tripulante das suas funções a bordo ou encarregá-lo temporariamente de outras distintas daquelas para que foi nomeado e para as quais esteja devidamente habilitado.
 
-###### Art. 14.º O comandante, por razões estritas de segurança, que justificará, poderá adoptar procedimentos contrários àqueles regularmente determinados.
+Art. 14.º O comandante, por razões estritas de segurança, que justificará, poderá adoptar procedimentos contrários àqueles regularmente determinados.
 
 ### CAPÍTULO III — Da responsabilidade
 
-###### Art. 15.º - 1 - O comandante será responsável criminal, civil e disciplinarmente nos termos da lei e do presente Estatuto.
+Art. 15.º - 1 - O comandante será responsável criminal, civil e disciplinarmente nos termos da lei e do presente Estatuto.
 
 2 - Sem prejuízo do disposto nos demais preceitos legais aplicáveis, o comandante não é responsável:
 
@@ -220,9 +230,9 @@ a) Do incumprimento das ordens por ele regularmente emitidas;
 
 b) Das decisões que tome no exercício das suas funções sempre que aquelas sejam resultado da inexactidão dos dados ou informações fornecidos por terceiros regularmente obrigados a emiti-los.
 
-###### Art. 16.º Aplicam-se ao comandante os limites de responsabilidade civil previstos na lei a favor do operador de transporte aéreo.
+Art. 16.º Aplicam-se ao comandante os limites de responsabilidade civil previstos na lei a favor do operador de transporte aéreo.
 
-###### Art. 17.º - 1 - Sem prejuízo do preceituado no artigo 15.º, o comandante titular de uma licença emitida pela autoridade aeronáutica portuguesa poderá ser suspenso do exercício das respectivas funções até ao limite máximo de 6 meses, por infracção ao disposto no presente Estatuto, em conclusão de processo instaurado para esse fim e após audição sobre a matéria da acusação, sendo-lhe garantido o exercício do direito de defesa.
+Art. 17.º - 1 - Sem prejuízo do preceituado no artigo 15.º, o comandante titular de uma licença emitida pela autoridade aeronáutica portuguesa poderá ser suspenso do exercício das respectivas funções até ao limite máximo de 6 meses, por infracção ao disposto no presente Estatuto, em conclusão de processo instaurado para esse fim e após audição sobre a matéria da acusação, sendo-lhe garantido o exercício do direito de defesa.
 
 2 - O comandante titular de uma licença emitida por autoridade aeronáutica de outro Estado poderá ser suspenso do exercício de funções no espaço aéreo ou em território nacionais, até ao limite e nos termos previstos no número anterior.
 
@@ -230,4 +240,4 @@ b) Das decisões que tome no exercício das suas funções sempre que aquelas se
 
 4 - Das decisões proferidas ao abrigo das disposições constantes do número anterior caberá recurso hierárquico para o Ministro do Equipamento Social.
 
-**O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Equipamento Social, João Rosado Correia.

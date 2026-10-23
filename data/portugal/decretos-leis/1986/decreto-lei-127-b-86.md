@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 125/1986, 2º Suplemento, Série I de 1986-06-02
   number: '125'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1310-(3) a 1310-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/12502/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-b-1986-254181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:10:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7d1add985b5e526bce8429fc7c2e6944c4455282180450a9caed573f03d5c98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90625a8c6546c6866580e79f553e7e0311bbc7860a712b60226769b952ab53fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,26 @@ relationships:
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:10:59Z'
   warnings: []
   errors: []
 ---
@@ -95,33 +105,33 @@ No prosseguimento de uma política que visa melhorar a composição da nossa dí
 
 Usando da autorização concedida pelo artigo 3.º, n.º 1 , da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Ministro das Finanças é autorizado, em nome e representação do Estado Português, a contrair um empréstimo até ao montante de 200 milhões se marcos alemães, representado por obrigações, e a proceder à correspondente emissão de títulos. Mostrando-se favoráveis as condições do mercado alemão, mediante despacho daquele titular, o montante do empréstimo poderá ser elevado até 300 milhões de marcos alemães.
+Artigo 1.º O Ministro das Finanças é autorizado, em nome e representação do Estado Português, a contrair um empréstimo até ao montante de 200 milhões se marcos alemães, representado por obrigações, e a proceder à correspondente emissão de títulos. Mostrando-se favoráveis as condições do mercado alemão, mediante despacho daquele titular, o montante do empréstimo poderá ser elevado até 300 milhões de marcos alemães.
 
-###### Art. 2.º - 1 - Ao abrigo da autorização concedida pelo artigo anterior, o Ministro das Finanças poderá celebrar, em nome e representação do Estado Português, um contracto com as intituições financeiras que tomarão firme a emissão, regulando as condições de subscrição e colocação das obrigações no mercado de capitais alemão, e os contratos com o Commerzbank Aktiengesellschaft, regulando os termos em que serão desempenhadas por esta instituição bancária as funções de agente pagador pricipal e de agente fiduciário.
+Art. 2.º - 1 - Ao abrigo da autorização concedida pelo artigo anterior, o Ministro das Finanças poderá celebrar, em nome e representação do Estado Português, um contracto com as intituições financeiras que tomarão firme a emissão, regulando as condições de subscrição e colocação das obrigações no mercado de capitais alemão, e os contratos com o Commerzbank Aktiengesellschaft, regulando os termos em que serão desempenhadas por esta instituição bancária as funções de agente pagador pricipal e de agente fiduciário.
 
 2 - O Ministro das Finanças poderá, em nome e representação de Estado Português, asisnar a obrigação geral e os títulos representativos das obrigações que a substituirão e os respectivos cupões de juro, sendo permitida a substituição da assinatura por simples reprodução mecãnica, referente a admissão á cotação das obrigações em bolsa de valores situadas República Federal da Alemanha e, bem assim, praticar todos os actos necessários, para a realização da operação ou dela decorrentes.
 
-###### Art. 3.º As condições essenciais da operação referida no artigo 1.º são as constantes de ficha técnica publicada em anexo.
+Art. 3.º As condições essenciais da operação referida no artigo 1.º são as constantes de ficha técnica publicada em anexo.
 
-###### Art. 4.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
+Art. 4.º O empréstimo será exclusivamente aplicado no financiamento de investimentos do Plano ou no de outros empreendimentos especialmente reprodutivos.
 
-###### Art. 5.º O Ministro das Finanças poderá delegar num dos secretários de Estado do Ministério das Finanças, ou em outra entidade, a totalidade ou parte dos poderes que lhe são conferidos pelo presente decreto-lei.
+Art. 5.º O Ministro das Finanças poderá delegar num dos secretários de Estado do Ministério das Finanças, ou em outra entidade, a totalidade ou parte dos poderes que lhe são conferidos pelo presente decreto-lei.
 
-###### Art. 6.º O serviço do empréstimo é cometido à Direcção-Geral do Tesouro.
+Art. 6.º O serviço do empréstimo é cometido à Direcção-Geral do Tesouro.
 
-###### Art. 7.º Os títulos emitidos gozam de isenção de todos os impostos, incluindo o imposto sobre sucessões e doações.
+Art. 7.º Os títulos emitidos gozam de isenção de todos os impostos, incluindo o imposto sobre sucessões e doações.
 
-###### Art. 8.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
-**Promulgado em 2 de Junho de 1986.**
+Promulgado em 2 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Junho de 1986.**
+Referendado em 2 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Ficha técnica
 

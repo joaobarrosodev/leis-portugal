@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 121/1984, 1º Suplemento, Série I de 1984-05-25
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1692-(2) a 1692-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12101/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1984-669085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb30fa1a1e9b8d043c682ab2c4329f1ec3babdd9737cb4679439fe9930dbeb90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5f2e48456429dcd6b91daa023e9eeeac570e9df6424b0755de5feb712c1c6e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Industrial
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275418:por
+  label: Rectificado pela DECL.DD4996.08.06.1984.PCM, DR.IS [150-2SUPL] de 30.06.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275418
+  date: '1984-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:33Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +116,13 @@ Assim:
 
 No uso da autorização conferida pelas alíneas d), e) e f) do n.º 1 e pelo n.º 2 do artigo 10.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 75.º, 79.º, 89.º e 101.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 75.º, 79.º, 89.º e 101.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
 
-###### Art. 75.º ...
+Art. 75.º ...
 
 § único. Quando a reclamação for totalmente desatendida, a comissão fixará, a título de custas, um agravamento até 5% da verba principal da colecta, graduado conforme as circunstâncias, mas nunca inferior a 100$00.
 
-###### Art. 79.º ...
+Art. 79.º ...
 
 § 1.º ...
 
@@ -120,7 +136,7 @@ No uso da autorização conferida pelas alíneas d), e) e f) do n.º 1 e pelo n.
 
 § 6.º Quando os pedidos de revisão da matéria colectável formulados pelos contribuintes forem totalmente desatendidos, será fixado, a título de custas, um agravamento até 5% da verba principal da colecta, graduado conforme as circunstâncias, mas nunca inferior a 1000$00.
 
-###### Art. 89.º ...
+Art. 89.º ...
 
 a) ...
 
@@ -132,7 +148,7 @@ b) ...
 
 § 3.º Quando o prazo de liquidação dos impostos a deduzir decorra posteriormente à data da apresentação da declaração modelo n.º 2, as importâncias a indicar no documento a que se refere a alínea f) do artigo 46.º serão calculadas por antecipação desde que conhecida a matéria colectável.
 
-###### Art. 101.º ...
+Art. 101.º ...
 
 a) ...
 
@@ -148,18 +164,18 @@ e) ...
 
 § 2.º A importância do agravamento a que se refere o § único do artigo 75.º será cobrado com a primeira prestação da colecta, quando esta não deva ser paga por uma só vez, e a importância do agravamento a que se refere o § 6.º do artigo 79.º será paga eventualmente dentro do prazo de 15 dias a contar da notificação do indeferimento do pedido de revisão a fazer ao contribuinte pela forma prevista no § 4.º do artigo 70.º, observando-se, se o pagamento não for efectuado nesse prazo, as disposições deste Código aplicáveis à cobrança.
 
-###### Art. 2.º - 1 - O disposto no § 2.º do artigo 89.º do Código da Contribuição Industrial, segundo a redacção que lhe e dada pelo artigo 1.º deste decreto-lei, é aplicável à liquidação da contribuição industrial respeitante aos anos de 1983 e seguintes, com excepção da contribuição industrial relativa a contribuintes que tenham cessado totalmente a actividade e já liquidada à data da entrada em vigor deste diploma.
+Art. 2.º - 1 - O disposto no § 2.º do artigo 89.º do Código da Contribuição Industrial, segundo a redacção que lhe e dada pelo artigo 1.º deste decreto-lei, é aplicável à liquidação da contribuição industrial respeitante aos anos de 1983 e seguintes, com excepção da contribuição industrial relativa a contribuintes que tenham cessado totalmente a actividade e já liquidada à data da entrada em vigor deste diploma.
 
 2 - Na colecta da contribuição industrial respeitante aos exercícios de 1983, 1984 e 1985 os contribuintes poderão optar por continuar a efectuar, em cada um desses exercícios, a dedução nos termos decorrentes do regime aplicável antes da alteração do artigo 89.º introduzida por este diploma, desde que essa opção tenha sido exercitada no ano anterior.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1984. - Mário Soares - Ernâni Rodrigues Lopes.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Maio de 1984.**
+Referendado em 9 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

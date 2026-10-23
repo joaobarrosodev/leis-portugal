@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15100/18041813.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1985-183016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 253347c05224fd88c0cd6b7bf8d6b8b8b2515ac0423f1297167c959df8371395
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cd88e289216a3c1a04c25742a9554ee290314f9783abd209cbb57ffc4217001
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Política de Defesa
+- Serviço de Informações Estratégicas de Defesa
+- Sistema de Informações da República Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:575726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575726:por
+  label: "Revogado pelo DEC LEI.254/95.1995.09.30.MDN, DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1995-575726
+  date: '1995-09-30'
 article_structure:
   article_count: 57
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:27Z'
   warnings: []
   errors: []
 ---
@@ -645,7 +690,7 @@ Na importação de armamento, munições, viaturas, material de segurança, tele
 
 ###### Artigo 55.º — (Aquisição de bens e serviços)
 
-**O Primeiro-Ministro pode autorizar o SIED a celebrar contratos para aquisição de bens e serviços, com dispensa, total ou parcial, das formalidades previstas na lei geral, sempre que razões de segurança ou relacionadas com a especificidade do serviço o justifiquem.**
+O Primeiro-Ministro pode autorizar o SIED a celebrar contratos para aquisição de bens e serviços, com dispensa, total ou parcial, das formalidades previstas na lei geral, sempre que razões de segurança ou relacionadas com a especificidade do serviço o justifiquem.
 
 ###### Artigo 56.º — (Encargos de execução)
 
@@ -657,21 +702,21 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Jaime José Matos da Gama - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.
 
-**Promulgado em 26 de Junho de 1985.**
+Promulgado em 26 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Julho de 1985.**
+Referendado em 1 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA 1
 
 Quadro a que se referem os artigos 27.º, 35.º e 41.º do Decreto-Lei n.º 224/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15100/18041813.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15100/18041813.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15100/18041813.pdf)
 
 MAPA 2
 
@@ -679,4 +724,4 @@ Quadro a que se referem os artigos 27.º, 35.º e 41.º do Decreto-Lei n.º 224/
 
 Pessoal de informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15100/18041813.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15100/18041813.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15100/18041813.pdf)

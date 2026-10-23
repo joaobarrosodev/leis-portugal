@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1985-182234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e469f9cd9cb38ddde707bec7feb1cd0ceab35275d0fb737e4378604d68a6c0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dc6d895a99b67501a451a617c3cd72b50f405306f6e69d067957a5edd9c3c45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito à Habitação
+- Estudante
+- Habitação
+- Jovem
 relationships:
 - type: amended_by
   target: pt:dre:222852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451222:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222852:por
+  label: Revogado o art. 1.º pelo(a) Decreto-Lei n.º 20-B/86 - Diário da República n.º 36/1986, 2º Suplemento, Série I de
+    1986-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-b-1986-222852
+  date: '1986-02-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:06Z'
   warnings: []
   errors: []
 ---
@@ -104,34 +130,34 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nos empréstimos a conceder ao abrigo do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, quando a soma das idades do casal não exceder 50 anos, ou tratando-se, de pessoa só, 30 anos, a percentagem máxima do financiamento é de 100%, desde que os fogos se incluam nas classes A ou B.
+Artigo 1.º - 1 - Nos empréstimos a conceder ao abrigo do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, quando a soma das idades do casal não exceder 50 anos, ou tratando-se, de pessoa só, 30 anos, a percentagem máxima do financiamento é de 100%, desde que os fogos se incluam nas classes A ou B.
 
 2 - Quando os rendimentos declarados se mostrarem insuficientes para garantir o pagamento das prestações, poderão os mutuários, sem prejuízo da garantia hipotecária a que se refere o artigo 15.º, oferecer fiança prestada por ascendentes.
 
 3 - A prestação da fiança prevista no número anterior não prejudica a concessão do subsídio familiar e das bonificações decorrentes da classe do fogo e do escalão de rendimentos dos mutuários.
 
-###### Art. 2.º - 1 - Fica o Instituto Nacional da Habitação autorizado a conceder empréstimos para a construção de residências colectivas para estudantes às entidades referidas no artigo 1.º do [Decreto-Lei n.º 110/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1985-325566), de 17 de Abril, nas condições previstas no artigo 5.º do mesmo diploma.
+Art. 2.º - 1 - Fica o Instituto Nacional da Habitação autorizado a conceder empréstimos para a construção de residências colectivas para estudantes às entidades referidas no artigo 1.º do [Decreto-Lei n.º 110/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1985-325566), de 17 de Abril, nas condições previstas no artigo 5.º do mesmo diploma.
 
 2 - O custo médio da construção, por metro quadrado da área bruta, dos edifícios referidos no número anterior terá como limite o definido na [Portaria n.º 580/83](https://diariodarepublica.pt/dr/detalhe/portaria/580-1983-451222), de 17 de Maio.
 
-###### Art. 3.º - 1 - Os «fundos vazados» existentes em empreendimentos do Estado e dos seus serviços autónomos poderão ser aproveitados e adaptados a habitações de baixa tipologia e áreas de equipamento e de comércio necessárias ao seu apoio.
+Art. 3.º - 1 - Os «fundos vazados» existentes em empreendimentos do Estado e dos seus serviços autónomos poderão ser aproveitados e adaptados a habitações de baixa tipologia e áreas de equipamento e de comércio necessárias ao seu apoio.
 
 2 - Poderão também ser adaptadas a habitação, áreas de equipamento e de comércio dos mesmos empreendimentos, quando aquelas áreas não sejam necessárias às finalidades para que foram construídas.
 
 3 - Nos empreendimentos do extinto Fundo de Fomento da Habitação os respectivos contratos de empreitada serão promovidos e celebrados pela comissão nomeada nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio.
 
-###### Art. 4.º - 1 - Na atribuição dos fogos construídos nos termos do artigo anterior, terão prioridade as pessoas nas condições de idade referidas no artigo 1.º, vivendo em economia própria no caso de pessoa só.
+Art. 4.º - 1 - Na atribuição dos fogos construídos nos termos do artigo anterior, terão prioridade as pessoas nas condições de idade referidas no artigo 1.º, vivendo em economia própria no caso de pessoa só.
 
 2 - A atribuição far-se-á de acordo com as normas aplicáveis nas atribuições de habitações sociais do Estado, elaborando-se listas separadas para os candidatos com prioridade nos termos do número anterior e excluindo-se liminarmente do concurso os candidatos a cuja situação não corresponda tipologia adequada.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 
-**Promulgado em 4 de Junho de 1985.**
+Promulgado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

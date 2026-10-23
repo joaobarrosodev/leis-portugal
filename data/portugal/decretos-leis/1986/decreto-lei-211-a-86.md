@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 174/1986, 3º Suplemento, Série I de 1986-07-31
   number: '174'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1906-(11) a 1906-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/17403/00110012.pdf
 entry_into_force_dates: []
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-1986-301037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbf520b58cd17697f85e7ad1173383b203bc3e4f5edfb1700d9b7f7860f96e12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13854ab8f761f2217688726ef5b2de702b73d769e145e97e0bad7460ce5af7b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Orgânica
+- Sociedade de Gestão e Investimento Imobiliário
+- Sociedade de Investimento
+relationships:
+- type: cites
+  target: pt:dre:183251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:12:49Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +108,20 @@ Assim:
 
 No uso da autorização conferida pela alínea a) do artigo 21.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aditada a alínea j) ao n.º 1 do artigo 15.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, com a seguinte redacção:
+Artigo único. É aditada a alínea j) ao n.º 1 do artigo 15.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, com a seguinte redacção:
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 j) Não incidência de contribuição predial sobre o valor das rendas de prédios urbanos que façam parte dos elementos activos das SGII.
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Julho de 1986.**
+Promulgado em 28 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1986.**
+Referendado em 30 de Julho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

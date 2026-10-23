@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24800/35683570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1985-177839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67c7227c469922e39bbc6937db22056802c33597779f72fad3c5525476c5313d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eaa7d659117f49948122ca718921bb4c2f14b6a8c11e39a51652e2dbec7f658
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embaixada
+- Estatuto
+- Estatuto do Pessoal
+- Ministério dos Negócios Estrangeiros
+- Missão Diplomática
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Técnico
+- Pessoal Técnico Profissional
 relationships:
 - type: amended_by
   target: pt:dre:694069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193603:por
+  label: Repristinado pela RES.7/86.1986.02.06.AR DR.IS [50] de 01.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/7-1986-193603
+  date: '1986-02-06'
+- type: amended_by
+  target: pt:dre:229083:por
+  label: Prorrogado, até 31.08.1986, o prazo previsto no n.º 1 do art. 29.º pelo(a) Decreto-Lei n.º 147/86 - Diário da República
+    n.º 137/1986, Série I de 1986-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1986-229083
+  date: '1986-06-18'
+- type: cites
+  target: pt:dre:660534:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:423219:por
+  label: Revogado, com efeitos a 27.12.1985, pelo(a) Decreto-Lei n.º 500-B/85 - Diário da República n.º 298/1985, 2º Suplemento,
+    Série I de 1985-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/500-b-1985-423219
+  date: '1985-12-27'
+- type: repealed_by
+  target: pt:dre:694069:por
+  label: Revogado pelo DEC LEI.444/99.1999.11.03.MNE, DR.IS-A [256]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1999-694069
+  date: '1999-11-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:21Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +136,19 @@ Considerando os problemas que semelhante situação vem suscitando ao longo do t
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Cada posto diplomático e consular de carreira poderá dispor, para além do pessoal do serviço diplomático e especializado, de pessoal técnico, técnico-profissional, administrativo e auxiliar.
+Artigo 1.º Cada posto diplomático e consular de carreira poderá dispor, para além do pessoal do serviço diplomático e especializado, de pessoal técnico, técnico-profissional, administrativo e auxiliar.
 
-###### Art. 2.º - 1 - Os elementos do actual pessoal assalariado, com excepção do pessoal ao serviço das residências dos chefes de missão e postos consulares, desde que de nacionalidade portuguesa, poderão optar pelo estatuto da função pública, com as especificidades constantes do presente diploma e em conformidade com o disposto no artigo 30.º
+Art. 2.º - 1 - Os elementos do actual pessoal assalariado, com excepção do pessoal ao serviço das residências dos chefes de missão e postos consulares, desde que de nacionalidade portuguesa, poderão optar pelo estatuto da função pública, com as especificidades constantes do presente diploma e em conformidade com o disposto no artigo 30.º
 
 2 - Os elementos do actual pessoal assalariado de nacionalidade estrangeira ou que, sendo de nacionalidade portuguesa, não optem pelo estatuto da função pública obedecerão ao regime de contrato de trabalho, com as especificidades constantes do presente diploma e em conformidade com o direito local aplicável.
 
-###### Art. 3.º O pessoal que optar pelo estatuto da função pública será integrado nos quadros respectivos da Secretaria de Estado dos Negócios Estrangeiros, que para o efeito serão correspondentemente alargados.
+Art. 3.º O pessoal que optar pelo estatuto da função pública será integrado nos quadros respectivos da Secretaria de Estado dos Negócios Estrangeiros, que para o efeito serão correspondentemente alargados.
 
-###### Art. 4.º - 1 - Por despacho do Ministro dos Negócios Estrangeiros, serão fixados, anualmente, os mapas de pessoal dos postos, bem como os contingentes de cada categoria por posto, devendo essa fixação ter em conta a diversidade de estatutos prevista no artigo 2.º o tempo de serviço prestado como assalariado e as expectativas de progressão na carreira, nos termos legais.
+Art. 4.º - 1 - Por despacho do Ministro dos Negócios Estrangeiros, serão fixados, anualmente, os mapas de pessoal dos postos, bem como os contingentes de cada categoria por posto, devendo essa fixação ter em conta a diversidade de estatutos prevista no artigo 2.º o tempo de serviço prestado como assalariado e as expectativas de progressão na carreira, nos termos legais.
 
 2 - O disposto no número precedente não poderá afectar a permanência em cada posto do pessoal que opte pelo estatuto de direito local.
 
-###### Art. 5.º O pessoal previsto no artigo 1.º poderá abranger as seguintes categorias:
+Art. 5.º O pessoal previsto no artigo 1.º poderá abranger as seguintes categorias:
 
 Vice-cônsul;
 
@@ -145,25 +180,25 @@ Guarda;
 
 Jardineiro.
 
-###### Art. 6.º Sem prejuízo das disposições legais aplicáveis, o recrutamento para os lugares de vice-cônsul e de chanceler far-se-á, respectivamente, mediante concurso documental de entre chanceleres, chefes de secção e técnicos de contas e mediante concurso de prestação de provas de entre os secretários de 1.ª classe e primeiros-oficiais, uns e outros com mais de 3 anos de bom e efectivo serviço na categoria.
+Art. 6.º Sem prejuízo das disposições legais aplicáveis, o recrutamento para os lugares de vice-cônsul e de chanceler far-se-á, respectivamente, mediante concurso documental de entre chanceleres, chefes de secção e técnicos de contas e mediante concurso de prestação de provas de entre os secretários de 1.ª classe e primeiros-oficiais, uns e outros com mais de 3 anos de bom e efectivo serviço na categoria.
 
-###### Art. 7.º Os chefes de serviço social serão recrutados por concurso de prestação de provas de entre indivíduos possuidores do grau de bacharel ou curso superior adequado que não confira o grau de licenciatura, sendo dada preferência, em igualdade de condições, aos candidatos de nacionalidade portuguesa.
+Art. 7.º Os chefes de serviço social serão recrutados por concurso de prestação de provas de entre indivíduos possuidores do grau de bacharel ou curso superior adequado que não confira o grau de licenciatura, sendo dada preferência, em igualdade de condições, aos candidatos de nacionalidade portuguesa.
 
-###### Art. 8.º Os técnicos de serviço social serão recrutados por concurso de prestação de provas de entre indivíduos possuidores de curso de formação técnico-profissional complementar adequada, sendo dada preferência, em igualdade de condições, aos candidatos de nacionalidade portuguesa.
+Art. 8.º Os técnicos de serviço social serão recrutados por concurso de prestação de provas de entre indivíduos possuidores de curso de formação técnico-profissional complementar adequada, sendo dada preferência, em igualdade de condições, aos candidatos de nacionalidade portuguesa.
 
-###### Art. 9.º Os tradutores-intérpretes serão recrutados por concurso de prestação de provas de entre indivíduos possuidores de curso complementar do ensino secundário ou equivalente e com bom conhecimento escrito e falado do português e da língua oficial do país onde vão prestar serviço.
+Art. 9.º Os tradutores-intérpretes serão recrutados por concurso de prestação de provas de entre indivíduos possuidores de curso complementar do ensino secundário ou equivalente e com bom conhecimento escrito e falado do português e da língua oficial do país onde vão prestar serviço.
 
-###### Art. 10.º - 1 - Os secretários de 3.ª classe serão recrutados por concurso de prestação de provas de entre indivíduos possuidores do curso geral do ensino secundário ou equiparado.
+Art. 10.º - 1 - Os secretários de 3.ª classe serão recrutados por concurso de prestação de provas de entre indivíduos possuidores do curso geral do ensino secundário ou equiparado.
 
 2 - Sem prejuízo das disposições legais aplicáveis, o acesso às categorias de secretário de 2.ª classe e de 1.ª classe ficará condicionado à prestação de 3 anos de bom e efectivo serviço na categoria imediatamente inferior ou nas de terceiro-oficial e de segundo-oficial, respectivamente, com classificação de Bom ou Muito bom.
 
-###### Art. 11.º O recrutamento para as restantes categorias será efectuado por concurso de entre indivíduos possuidores de requisitos habilitacionais adequados às funções que vão desempenhar.
+Art. 11.º O recrutamento para as restantes categorias será efectuado por concurso de entre indivíduos possuidores de requisitos habilitacionais adequados às funções que vão desempenhar.
 
 Acta 12.º Para efeitos de progressão em cada carreira, a atribuição em 2 anos consecutivos da classificação de Muito bom reduzirá de 1 ano o tempo mínimo de permanência necessário para o acesso à categoria superior, sem prejuízo do disposto na lei geral.
 
-###### Art. 13.º O provimento de pessoal dos quadros a que se refere o artigo 3.º será efectuado por listas normativas aprovadas por despacho do Ministro dos Negócios Estrangeiros.
+Art. 13.º O provimento de pessoal dos quadros a que se refere o artigo 3.º será efectuado por listas normativas aprovadas por despacho do Ministro dos Negócios Estrangeiros.
 
-###### Art. 14.º Aos funcionários a que se refere o artigo anterior será atribuído o vencimento correspondente às seguintes letras:
+Art. 14.º Aos funcionários a que se refere o artigo anterior será atribuído o vencimento correspondente às seguintes letras:
 
 Vice-cônsul - F;
 
@@ -185,13 +220,13 @@ Telefonista - O, Q ou S;
 
 Contínuo - S ou T.
 
-###### Art. 15.º - 1 - Aos mesmos funcionários será atribuído um subsídio mensal de residência, fixado no início de cada ano por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Plano.
+Art. 15.º - 1 - Aos mesmos funcionários será atribuído um subsídio mensal de residência, fixado no início de cada ano por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Plano.
 
 2 - Para a atribuição do subsídio de residência dever-se-á ter em conta, para cada país, a manutenção das regalias existentes à data da publicação do presente diploma.
 
 3 - Para fixar os subsídios de residência serão estabelecidos valores básicos idênticos em cada categoria profissional, sendo utilizada como factor correctivo, na sua aplicação a cada país, uma tabela de indicadores de custo de vida internacionalmente reconhecida.
 
-###### Art. 16.º - 1 - O pessoal do quadro a que se refere o artigo 3.º não pode concorrer ou ser transferido para o quadro dos serviços situados em Portugal da administração central, regional ou local sem que possua um mínimo de 3 anos de serviço, contando-se o tempo de serviço já prestado à data da entrada em vigor do presente diploma, respeitados ainda os requisitos da lei geral.
+Art. 16.º - 1 - O pessoal do quadro a que se refere o artigo 3.º não pode concorrer ou ser transferido para o quadro dos serviços situados em Portugal da administração central, regional ou local sem que possua um mínimo de 3 anos de serviço, contando-se o tempo de serviço já prestado à data da entrada em vigor do presente diploma, respeitados ainda os requisitos da lei geral.
 
 2 - O referido pessoal pode ser transferido ou destacado por despacho do Ministro dos Negócios Estrangeiros para o posto diplomático ou consular onde for considerado necessário, a requerimento seu ou por razões de interesse público consistente no pleno aproveitamento do pessoal.
 
@@ -215,23 +250,23 @@ Secretário de 3.ª classe - terceiro-oficial.
 
 5 - A equiparação prevista no número anterior pressupõe que o equiparado disponha do tempo de serviço que, nos termos da lei geral, lhe dê acesso a essa categoria, sem o que a equiparação será efectuada para a categoria a que esse tempo de serviço der direito nas condições normais de progressão na carreira.
 
-###### Art. 17.º Os titulares dos lugares de caixa beneficiarão de um abono para falhas de 10% sobre a remuneração correspondente à letra de secretário de 1.ª classe.
+Art. 17.º Os titulares dos lugares de caixa beneficiarão de um abono para falhas de 10% sobre a remuneração correspondente à letra de secretário de 1.ª classe.
 
-###### Art. 18.º No caso das mudanças resultantes do disposto no artigo 16.º os funcionários perceberão os abonos para passagens, transporte de bagagens e instalação nos termos regulamentares em vigor para o pessoal dos quadros da Secretaria de Estado dos Negócios Estrangeiros.
+Art. 18.º No caso das mudanças resultantes do disposto no artigo 16.º os funcionários perceberão os abonos para passagens, transporte de bagagens e instalação nos termos regulamentares em vigor para o pessoal dos quadros da Secretaria de Estado dos Negócios Estrangeiros.
 
-###### Art. 19.º O pessoal referido no n.º 2 do artigo 2.º perceberá um ordenado anual de montante idêntico à soma do vencimento e do subsídio de residência atribuíveis no mesmo posto aos funcionários da mesma categoria, depois de deduzidas as contribuições que couberem ao Estado para a sua segurança social.
+Art. 19.º O pessoal referido no n.º 2 do artigo 2.º perceberá um ordenado anual de montante idêntico à soma do vencimento e do subsídio de residência atribuíveis no mesmo posto aos funcionários da mesma categoria, depois de deduzidas as contribuições que couberem ao Estado para a sua segurança social.
 
-###### Art. 20.º O pessoal referido no n.º 2 do artigo 2.º manterá o direito a um subsídio de refeição nos termos em que o detiver à data da entrada em vigor do presente diploma.
+Art. 20.º O pessoal referido no n.º 2 do artigo 2.º manterá o direito a um subsídio de refeição nos termos em que o detiver à data da entrada em vigor do presente diploma.
 
-###### Art. 21.º O pessoal referido no n.º 2 do artigo 2.º, em matéria de faltas, férias e licenças, bem como em matéria disciplinar, reger-se-á pelas normas legais em vigor para a função pública, sem prejuízo da aplicação subsidiária do direito local.
+Art. 21.º O pessoal referido no n.º 2 do artigo 2.º, em matéria de faltas, férias e licenças, bem como em matéria disciplinar, reger-se-á pelas normas legais em vigor para a função pública, sem prejuízo da aplicação subsidiária do direito local.
 
-###### Art. 22.º - 1 - O pessoal referido no n.º 2 do artigo 2.º beneficiará de um prémio mensal de antiguidade, no valor de 3% da remuneração correspondente à categoria de secretário de 2.ª classe no respectivo posto, por cada 5 anos de serviço, até ao limite máximo de 15%.
+Art. 22.º - 1 - O pessoal referido no n.º 2 do artigo 2.º beneficiará de um prémio mensal de antiguidade, no valor de 3% da remuneração correspondente à categoria de secretário de 2.ª classe no respectivo posto, por cada 5 anos de serviço, até ao limite máximo de 15%.
 
 2 - O prémio previsto no número anterior preferirá a qualquer remuneração acessória, de idênticas características, prevista pela legislação local, ainda que mais favorável ao trabalhador.
 
-###### Art. 23.º Os prémios de antiguidade seguirão o regime estabelecido para os ordenados, no que se refere ao seu pagamento, sendo considerados para efeito de cálculo dos subsídios de férias e de Natal.
+Art. 23.º Os prémios de antiguidade seguirão o regime estabelecido para os ordenados, no que se refere ao seu pagamento, sendo considerados para efeito de cálculo dos subsídios de férias e de Natal.
 
-###### Art. 24.º - 1 - A contagem de tempo de serviço para efeitos de atribuição de prémios de antiguidade será feita nos termos das correspondentes disposições legais em matéria de diuturnidades na função pública.
+Art. 24.º - 1 - A contagem de tempo de serviço para efeitos de atribuição de prémios de antiguidade será feita nos termos das correspondentes disposições legais em matéria de diuturnidades na função pública.
 
 2 - Os prémios de antiguidade serão atribuídos mediante requerimento do interessado dirigido ao chefe do posto onde presta serviço, do qual constam os seguintes elementos:
 
@@ -239,25 +274,25 @@ a) Tempo de serviço prestado no posto, comprovado por declaração do responsá
 
 b) Tempo de serviço prestado noutros postos ou organismos, comprovado por certidão ou documento devidamente selado, emitido pelos correspondentes responsáveis.
 
-###### Art. 25.º Da contratação a efectuar nos termos do n.º 2 do artigo 2.º não poderá resultar diminuição da remuneração global relativamente ao pessoal que à data da publicação do presente diploma se encontrar ao serviço dos postos diplomáticos e consulares de carreira.
+Art. 25.º Da contratação a efectuar nos termos do n.º 2 do artigo 2.º não poderá resultar diminuição da remuneração global relativamente ao pessoal que à data da publicação do presente diploma se encontrar ao serviço dos postos diplomáticos e consulares de carreira.
 
-###### Art. 26.º - 1 - O pessoal que opte pelo estatuto de função pública será obrigatoriamente inscrito na Caixa Geral de Aposentações e na ADSE, não sendo de conta do Estado Português os encargos relativos a qualquer outro esquema de segurança social de que os interessados pretendam beneficiar.
+Art. 26.º - 1 - O pessoal que opte pelo estatuto de função pública será obrigatoriamente inscrito na Caixa Geral de Aposentações e na ADSE, não sendo de conta do Estado Português os encargos relativos a qualquer outro esquema de segurança social de que os interessados pretendam beneficiar.
 
 2 - O pessoal que opte pelo estatuto de direito local ficará coberto pela segurança social do país onde presta serviço, incluindo o seguro de desemprego, sempre que a legislação local o permitir, sendo de conta do Estado Português os encargos que competem à entidade patronal.
 
-###### Art. 27.º - 1 - Será utilizado o sistema de seguro sempre que o mesmo, conferindo idênticas regalias, seja menos oneroso para o Estado Português do que a segurança social local, bem como quando esta não exista ou não seja utilizável, sem prejuízo do disposto nas convenções sobre segurança social de que Portugal seja parte.
+Art. 27.º - 1 - Será utilizado o sistema de seguro sempre que o mesmo, conferindo idênticas regalias, seja menos oneroso para o Estado Português do que a segurança social local, bem como quando esta não exista ou não seja utilizável, sem prejuízo do disposto nas convenções sobre segurança social de que Portugal seja parte.
 
 2 - Tal seguro deverá cobrir obrigatoriamente os riscos de doença, maternidade, invalidez, reforma e desemprego.
 
 3 - Os encargos com os seguros efectuados nos termos da presente disposição serão suportados em partes iguais pelo Estado Português e pelo segurado
 
-###### Art. 28.º É aplicável a todo o pessoal o disposto no artigo 168.º do Decreto-Lei n.º 47478, de 31 de Dezembro de 1966, sem prejuízo do disposto na legislação em vigor em matéria de representação sindical.
+Art. 28.º É aplicável a todo o pessoal o disposto no artigo 168.º do Decreto-Lei n.º 47478, de 31 de Dezembro de 1966, sem prejuízo do disposto na legislação em vigor em matéria de representação sindical.
 
-###### Art. 29.º - 1 - A opção entre os dois estatutos a que se refere o artigo 2.º será efectuada mediante comunicação escrita do interessado, endereçada ao respectivo chefe do posto ou missão, no prazo de 90 dias, contados a partir da data de entrada em vigor do presente diploma.
+Art. 29.º - 1 - A opção entre os dois estatutos a que se refere o artigo 2.º será efectuada mediante comunicação escrita do interessado, endereçada ao respectivo chefe do posto ou missão, no prazo de 90 dias, contados a partir da data de entrada em vigor do presente diploma.
 
 2 - O pessoal de nacionalidade portuguesa que preste serviço há mais de 3 anos à data da publicação deste diploma e não opte pela função pública no prazo previsto no número anterior poderá posteriormente requerê-lo ao Ministro dos Negócios Estrangeiros dentro do prazo de 18 meses a partir da data de entrada em vigor do presente diploma.
 
-###### Art. 30.º - 1 - O pessoal que opte pelo estatuto de função pública será integrado nos quadros a que se refere o artigo 3.º com categoria idêntica à que detiver à data da publicação do presente diploma, independentemente das respectivas habilitações literárias.
+Art. 30.º - 1 - O pessoal que opte pelo estatuto de função pública será integrado nos quadros a que se refere o artigo 3.º com categoria idêntica à que detiver à data da publicação do presente diploma, independentemente das respectivas habilitações literárias.
 
 2 - Para efeitos do número anterior as designações de assistente-tradutor e escriturário-dactilógrafo corresponderão às de tradutor-intérprete e secretário de 3.ª classe, respectivamente.
 
@@ -265,22 +300,22 @@ b) Tempo de serviço prestado noutros postos ou organismos, comprovado por certi
 
 4 - Para efeitos da integração prevista no n.º 1 será feita a contagem do tempo de serviço prestado como assalariado sempre que à respectiva categoria corresponder mais de uma letra de vencimento.
 
-###### Art. 31.º O pessoal que opte pelo estatuto de função pública será acreditado junto das autoridades locais, de harmonia com as convenções de Viena sobre relações diplomáticas e consulares, bem como com a prática localmente seguida neste domínio.
+Art. 31.º O pessoal que opte pelo estatuto de função pública será acreditado junto das autoridades locais, de harmonia com as convenções de Viena sobre relações diplomáticas e consulares, bem como com a prática localmente seguida neste domínio.
 
-###### Art. 32.º De futuro, previamente à admissão e no respectivo aviso de abertura de concurso, definir-se-á o estatuto de função pública ou de direito de trabalho local a que os trabalhadores ficarão submetidos.
+Art. 32.º De futuro, previamente à admissão e no respectivo aviso de abertura de concurso, definir-se-á o estatuto de função pública ou de direito de trabalho local a que os trabalhadores ficarão submetidos.
 
-###### Art. 33.º O presente diploma deverá ser revisto no prazo de 18 meses contados a partir da data da sua entrada em vigor.
+Art. 33.º O presente diploma deverá ser revisto no prazo de 18 meses contados a partir da data da sua entrada em vigor.
 
-###### Art. 34.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
+Art. 34.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - José Manuel San-Bento de Menezes.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

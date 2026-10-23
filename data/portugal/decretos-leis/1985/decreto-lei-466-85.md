@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1985-171560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:08:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 099043e148d6fa44462d35feb47c2aa9946e8ab01e8a9e267da15fa68e85dff6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51862f1af2adcd8c1135e04a70a79bb964d327bf6738c0ea38e5f7d80ba554e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Cálculo de Pensões
+- Doença Profissional
+- Pensões
+- Remição de Pensões
+- Subsídio de Natal
 relationships:
 - type: amended_by
   target: pt:dre:633541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DECLARADA A INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL, DAS NORMAS CONSTANTES DO ARTIGO 65 DO DECRETO 360/71,\
+    \ DE 21 DE AGOSTO, NA REDACÇÃO QUE LHE FOI DADA PELO PRESENTE DIPLOMA, ENQUANTO CONJUGADO COM O NUMERO 1 DA PORTARIA 760/85,\
+    \ DE 4 DE OUTUBRO, PELO ACÓRDÃO DO TRIBUNAL CONSTITUCIONAL 61/91, DE 1 DE ABRIL, PUBLICADO NO DR.IS-A, 75.\0CADO NO DR.IS-A,\
+    \ 75."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-01'
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:08:36Z'
   warnings: []
   errors: []
 ---
@@ -105,34 +143,34 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O disposto no artigo 50.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, é, a partir do dia 1 do mês seguinte ao da data da publicação do presente diploma, aplicável às pensões por incapacidade permanente igual ou superior a 30% ou por morte fixadas anteriormente a 1 de Outubro de 1979.
+Artigo 1.º - 1 - O disposto no artigo 50.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, é, a partir do dia 1 do mês seguinte ao da data da publicação do presente diploma, aplicável às pensões por incapacidade permanente igual ou superior a 30% ou por morte fixadas anteriormente a 1 de Outubro de 1979.
 
 2 - Para os efeitos da aplicação do disposto no número anterior, a expressão «salário mínimo nacional», contida no n.º 2 do artigo 50.º do Decreto-Lei n.º 360/71, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, deve reportar-se aos valores do salário mínimo nacional que vigorem no dia 1 do mês seguinte ao da data da publicação do presente diploma.
 
 3 - As pensões fixadas anteriormente a 1 de Outubro de 1979 devem ser, em conformidade com o disposto no número anterior, alteradas com efeitos a partir do dia 1 do mês seguinte ao da data da publicação do presente diploma, dispondo as entidades responsáveis pelas pensões de um prazo de 6 meses a contar desta última data para procederem à liquidação das diferenças devidas.
 
-###### Art. 2.º - 1 - Os beneficiários das pensões, devidas por incapacidade permanente ou por morte, decorrentes de acidentes de trabalho, têm direito a que a entidade responsável pela pensão lhes pague, no mês de Dezembro de cada ano, uma prestação de valor igual ao montante do duodécimo da pensão anual a que nesse mês tiverem direito.
+Art. 2.º - 1 - Os beneficiários das pensões, devidas por incapacidade permanente ou por morte, decorrentes de acidentes de trabalho, têm direito a que a entidade responsável pela pensão lhes pague, no mês de Dezembro de cada ano, uma prestação de valor igual ao montante do duodécimo da pensão anual a que nesse mês tiverem direito.
 
 2 - O disposto no número anterior é aplicável a partir do mês de Dezembro de 1985.
 
-###### Art. 3.º Os valores correspondentes às alterações verificadas, por força do disposto no artigo 1.º, em pensões fixadas anteriormente a 1 de Outubro de 1979, bem como os correspondentes à atribuição, nos termos do artigo 2.º, de uma prestação suplementar pagável no mês de Dezembro de cada ano, não implicam, desde que sejam da responsabilidade das entidades seguradoras, a constituição das correspondentes provisões matemáticas.
+Art. 3.º Os valores correspondentes às alterações verificadas, por força do disposto no artigo 1.º, em pensões fixadas anteriormente a 1 de Outubro de 1979, bem como os correspondentes à atribuição, nos termos do artigo 2.º, de uma prestação suplementar pagável no mês de Dezembro de cada ano, não implicam, desde que sejam da responsabilidade das entidades seguradoras, a constituição das correspondentes provisões matemáticas.
 
-###### Art. 4.º É dada a seguinte redacção ao artigo 65.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto:
+Art. 4.º É dada a seguinte redacção ao artigo 65.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto:
 
-###### Art. 65.º - 1 - O capital de remição de uma pensão será igual a 95% do valor correspondente ao montante da respectiva provisão matemática, calculada de acordo com as tabelas em vigor para o cálculo das provisões matemáticas das empresas de seguros.
+Art. 65.º - 1 - O capital de remição de uma pensão será igual a 95% do valor correspondente ao montante da respectiva provisão matemática, calculada de acordo com as tabelas em vigor para o cálculo das provisões matemáticas das empresas de seguros.
 
 2 - No cálculo da provisão matemática para os efeitos do disposto no número anterior não serão, no caso de a pensão ser da responsabilidade de empresas de seguros, consideradas as alterações verificadas em pensões fixadas anteriormente a 1 de Outubro de 1979, em consequência da aplicação da redacção dada ao artigo 50.º do presente decreto pelo [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, nem tão-pouco a atribuição de prestações suplementares pagáveis no mês de Dezembro de cada ano.
 
-###### Art. 5.º A redacção dada pelo artigo anterior ao artigo 65.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, é aplicável às remições autorizadas a partir do primeiro dia do mês seguinte ao da data da publicação do presente diploma.
+Art. 5.º A redacção dada pelo artigo anterior ao artigo 65.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, é aplicável às remições autorizadas a partir do primeiro dia do mês seguinte ao da data da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo.
 
-**Promulgado em 18 de Outubro de 1985.**
+Promulgado em 18 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Outubro de 1985.**
+Referendado em 22 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

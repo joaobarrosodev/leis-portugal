@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 112/1986, 1º Suplemento, Série I de 1986-05-16
   number: '112'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1158-(1) a 1158-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11201/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-a-1986-527206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8193c90bb4ec72487adf608eb8715ff1472b1bf98409a4da415d82737b55ce11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e873dabb9fb47edbf4480a247383ad5d7e962d1ed8da81ad337ebb0873f46100
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tesouro
+- Extinção de Serviços
+- Gabinete de Estudos e Planeamento
+- Gabinete de Estudos Económicos
+- Gabinete dos Assuntos Europeus
+- Gabinete para a Cooperação Económica Externa
+- Gabinete para a Integração Europeia
+- Ministério das Finanças
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:219144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO GABINETE DE ESTUDOS ECONÓMICOS PELA PORT 679/86 DE 13-NOV DR.IS [262]\02]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-11-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO GABINETE DOS ASSUNTOS EUROPEUS PELA PORT 96/87 DE 11-FEV DR.IS [35]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-02-11'
+- type: amended_by
+  target: pt:dre:662927:por
+  label: "Alterado o quadro de pessoal do Gabinete dos Assuntos Europeus pela PORT.96/87.11.02.1987.MF, DR.IS [35] de 11.02.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-1987-662927
+  date: '1987-02-11'
+- type: amended_by
+  target: pt:dre:564440:por
+  label: "Alterado o quadro de pessoal do Gabinete de Estudos Económicos, pelo DN.138/90.14.11.1990.MF, DR.IS [263] de 14.11.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/138-1990-564440
+  date: '1990-11-14'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Extinto o Gabinete de Estudos Económicos (GEE) e o Gabinete dos Assuntos Europeus (GAE), criados pelo presente diploma,\
+    \ pelo DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: cites
+  target: pt:dre:141790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430024:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219144:por
+  label: "Revogado pelo DEC LEI.48/98.1998.03.07.MF DR IS-A [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1998-219144
+  date: '1998-03-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:17:45Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +175,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São extintos os seguintes organismos:
+Artigo 1.º São extintos os seguintes organismos:
 
 a) Gabinete de Estudos e Planeamento do Ministério das Finanças (GEP), criado pelo [Decreto-Lei n.º 171/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1970-225859), de 17 de Abril;
 
@@ -120,19 +183,19 @@ b) Gabinete para a Cooperação Económica Externa (GCEE), criado pelo [Decreto-
 
 c) Gabinete para a Integração Europeia do Ministério das Finanças (GIE), a que se refere o artigo 20.º do [Decreto-Lei n.º 185/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1979-381117), de 20 de Junho.
 
-###### Art. 2.º São criados, no âmbito do Ministério das Finanças, os seguintes organismos:
+Art. 2.º São criados, no âmbito do Ministério das Finanças, os seguintes organismos:
 
 a) Gabinete de Estudos Económicos (GEE);
 
 b) Gabinete dos Assuntos Europeus (GAE).
 
-###### Art. 3.º As atribuições e competências da Direcção-Geral do Tesouro são acrescidas:
+Art. 3.º As atribuições e competências da Direcção-Geral do Tesouro são acrescidas:
 
 a) As fixadas nas alíneas e) e f) do artigo 3.º do [Decreto-Lei n.º 513-S/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-s-1979-430024), de 26 de Dezembro;
 
 b) As competências e atribuições do GCEE relacionadas com a participação de Portugal nas actividades do Banco Internacional de Reconstrução e Desenvolvimento - Banco Mundial; Banco Interamericano de Desenvolvimento, Banco Africano de Desenvolvimento e Banco Europeu de Investimentos.
 
-###### Art. 4.º O GEE tem as seguintes atribuições no âmbito do Ministério das Finanças:
+Art. 4.º O GEE tem as seguintes atribuições no âmbito do Ministério das Finanças:
 
 a) Elaborar regularmente análises da conjuntura económica portuguesa e estabelecer projecções macroeconómicas, em colaboração com o Departamento Central de Planeamento e o Instituto Nacional de Estatística;
 
@@ -148,7 +211,7 @@ f) Participar nos trabalhos preparatórios do Orçamento do Estado e das Grandes
 
 g) Acompanhar a actividade do Conselho Permanente de Concertação Social.
 
-###### Art. 5.º O GAE tem as seguintes atribuições no âmbito do Ministério das Finanças
+Art. 5.º O GAE tem as seguintes atribuições no âmbito do Ministério das Finanças
 
 a) Analisar e dar parecer sobre questões europeias e sobre propostas e projectos de legislação comunitária;
 
@@ -160,7 +223,7 @@ d) Assegurar a ligação da Comissão Interministerial para as Comunidades Europ
 
 e) Participar nos trabalhos preparatórios do Orçamento do Estado e das Grandes Opções do Plano.
 
-###### Art. 6.º - 1 - Os gabinetes são dirigidos por um director, equiparado a director-geral.
+Art. 6.º - 1 - Os gabinetes são dirigidos por um director, equiparado a director-geral.
 
 2 - Cada director é coadjuvado por um subdirector, equiparado a subdirector-geral.
 
@@ -168,7 +231,7 @@ e) Participar nos trabalhos preparatórios do Orçamento do Estado e das Grandes
 
 4 - O director do GAE é, por inerência, o representante do Ministério das Finanças na Comissão interministerial para as Comunidades Europeias.
 
-###### Art. 7.º - 1 - O GAE é apoiado, no exercício das suas funções, por uma comissão permanente para as relações financeiras com as Comunidades Europeias.
+Art. 7.º - 1 - O GAE é apoiado, no exercício das suas funções, por uma comissão permanente para as relações financeiras com as Comunidades Europeias.
 
 2 - A comissão a que se refere o número anterior é presidida pelo director do GAE e composta por representantes das Direcções-Gerais das Alfândegas, das Contribuições e Impostos, da Contabilidade Pública e do Tesouro, da Inspecção-Geral de Finanças, do Gabinete de Estudos Económicos, do Instituto Nacional de Garantia Agrícola, do Banco de Portugal, do Instituto de Seguros de Portugal e do Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas.
 
@@ -176,11 +239,11 @@ e) Participar nos trabalhos preparatórios do Orçamento do Estado e das Grandes
 
 4 - Poderão ser convocados para reuniões da comissão representantes de outros serviços e organismos do Ministério das Finanças a que respeitem as matérias a tratar.
 
-###### Art. 8.º - 1 - O quadro de pessoal do GEE consta do mapa I anexo ao presente diploma.
+Art. 8.º - 1 - O quadro de pessoal do GEE consta do mapa I anexo ao presente diploma.
 
 2 - O quadro de pessoal do GAE consta do mapa II anexo ao presente diploma.
 
-###### Art. 9.º - 1 - O provimento dos lugares de director e subdirector dos novos gabinetes é efectuado nos termos da lei geral.
+Art. 9.º - 1 - O provimento dos lugares de director e subdirector dos novos gabinetes é efectuado nos termos da lei geral.
 
 2 - O preenchimento dos restantes lugares é efectuado com observância das regras de mobilidade e reafectação de pessoal, reconhecendo-se, contudo, preferência aos funcionários dos quadros dos gabinetes extintos.
 
@@ -190,25 +253,25 @@ e) Participar nos trabalhos preparatórios do Orçamento do Estado e das Grandes
 
 5 - As transições de pessoal a que se referem os n.os 2 e 3 far-se-ão mediante listas nominativas a aprovar por despacho do Ministro das Finanças, com dispensa de quaisquer formalidades, salvo anotação do Tribunal de Contas e publicação no Diário da República.
 
-###### Art. 10.º Ao pessoal dos quadros dos gabinetes criados pelo presente diploma são reconhecidos os direitos e regalias de que beneficiavam os funcionários dos gabinetes extintos.
+Art. 10.º Ao pessoal dos quadros dos gabinetes criados pelo presente diploma são reconhecidos os direitos e regalias de que beneficiavam os funcionários dos gabinetes extintos.
 
-###### Art. 11.º O quadro da Direcção-Geral do Tesouro pode ser alargado, na medida do necessário, por portaria do Ministério das Finanças, com obediência às regras de mobilidade e reafectação de pessoal.
+Art. 11.º O quadro da Direcção-Geral do Tesouro pode ser alargado, na medida do necessário, por portaria do Ministério das Finanças, com obediência às regras de mobilidade e reafectação de pessoal.
 
-###### Art. 12.º - 1 - As dotações orçamentais afectas aos GEP, GCEE e GIE serão, por despacho do Ministro das Finanças, objecto de reafectação à Direcção-Geral do Tesouro e aos gabinetes criados por este diploma.
+Art. 12.º - 1 - As dotações orçamentais afectas aos GEP, GCEE e GIE serão, por despacho do Ministro das Finanças, objecto de reafectação à Direcção-Geral do Tesouro e aos gabinetes criados por este diploma.
 
 2 - O património, os créditos e demais direitos e deveres dos gabinetes extintos serão reafectados por despacho do Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 10 de Maio de 1986.**
+Promulgado em 10 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1986.**
+Referendado em 15 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -216,7 +279,7 @@ Quadro de pessoal a que se refere o n.º 1 do artigo 8.º do Decreto-Lei n.º 97
 
 Gabinete de Estudos Económicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11201/00010003.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11201/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11201/00010003.pdf)
 
 MAPA II
 
@@ -224,4 +287,4 @@ Quadro de pessoal a que se refere o n.º 2 do artigo 8.º do Decreto-Lei n.º 97
 
 Gabinete dos Assuntos Europeus
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11201/00010003.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11201/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11201/00010003.pdf)

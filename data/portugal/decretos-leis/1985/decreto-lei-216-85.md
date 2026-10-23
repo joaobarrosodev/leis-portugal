@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14600/17471749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1985-182050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ced207ec323780c03a07dfcb2850b424e001d786bbddad41cce4746caa2cba9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba13e4c2503a9af0d3a9d17515a2215a06f0e0959defe934edb6e0df1c738f16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Gestão de Resíduos
+- ÓLEO Usado
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:485448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468849:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485448:por
+  label: "Revogado pelo DEC LEI.88/91.23.02.1991.MIE, DR.IS-A [45] de 23.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-1991-485448
+  date: '1991-02-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:19Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +117,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Definições)
 
@@ -114,7 +131,7 @@ Para os fins do presente diploma, entende-se por:
 
 Detentor - Qualquer entidade que, ocasionalmente ou em virtude da sua actividade profissional, acumule óleos usados.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Princípios gerais)
 
@@ -126,7 +143,7 @@ Detentor - Qualquer entidade que, ocasionalmente ou em virtude da sua actividade
 
 4 - Inserem-se, porém, no âmbito da autonomia privada e respeitam exclusivamente à iniciativa e risco inerentes à actividade empresarial a questão da capacidade económica dos interessados e a avaliação das disponibilidades de matérias-primas e bem assim de outros relevantes aspectos do funcionamento do mercado.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Armazenagem)
 
@@ -134,7 +151,7 @@ Detentor - Qualquer entidade que, ocasionalmente ou em virtude da sua actividade
 
 2 - O detentor de óleo usado em quantidade superior a 200 l e até aos limites do licenciamento é obrigado a informar a Direcção-Geral de Energia.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Recolha)
 
@@ -164,7 +181,7 @@ b) Indicação da área, por concelhos, em que a actividade pretende ser exercid
 
 c) Fotocópia autenticada das licenças dos veículos a utilizar.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Regeneração)
 
@@ -184,7 +201,7 @@ e) Aprovação das instalações respectivas mediante vistoria realizada nos ter
 
 3 - A Direcção-Geral de Energia manterá a Direcção-Geral da Qualidade do Ambiente informada das licenças concedidas e bem assim do conteúdo dos requisitos do número anterior.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Recuperação)
 
@@ -192,7 +209,7 @@ e) Aprovação das instalações respectivas mediante vistoria realizada nos ter
 
 2 - A recuperação de óleos referida no número anterior fica dependente de autorização a conceder pela Direcção-Geral de Energia.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Utilização como combustível)
 
@@ -200,13 +217,13 @@ e) Aprovação das instalações respectivas mediante vistoria realizada nos ter
 
 2 - A utilização de óleo usado como combustível fica dependente de autorização a conceder pela Direcção-Geral de Energia, sem prejuízo do disposto no n.º 1 do artigo 5.º do Decreto n.º 255/80, de 30 de Julho.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Incineração)
 
 A incineração de óleo usado deve obedecer às disposições do artigo 2.º e só pode ser feita por entidades licenciadas para o efeito pela Direcção-Geral de Energia, sem prejuízo do disposto no n.º 1 do artigo 5.º do Decreto n.º 255/80.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Registo)
 
@@ -220,13 +237,13 @@ A incineração de óleo usado deve obedecer às disposições do artigo 2.º e 
 
 5 - Os registos de movimento de óleos usados referidos nos números anteriores obedecem ao modelo publicado em anexo ao presente diploma.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Fiscalização)
 
 A fiscalização do cumprimento das obrigações decorrentes do presente diploma compete à Direcção-Geral de Energia, sem prejuízo das competências fixadas por lei a outros departamentos estatais.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Coimas)
 
@@ -234,13 +251,13 @@ A fiscalização do cumprimento das obrigações decorrentes do presente diploma
 
 2 - Ressalvada a competência especificamente atribuída a outros serviços, a instrução dos processos por contra-ordenação aos deveres estabelecidos no presente diploma é da competência da Direcção-Geral de Energia, cabendo a aplicação das coimas respectivas ao director-geral.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Disposição transitória)
 
 É concedido o prazo de um ano após a entrada em vigor deste diploma para regularização das situações já existentes e por ele abrangidas.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Entrada em vigor)
 
@@ -248,16 +265,16 @@ Este diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Eduardo Manuel Bastos Ambar - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - José Veiga Simão - Carlos Montez Melancia - Júlio Miranda Calha.
 
-**Promulgado em 4 de Junho de 1985.**
+Promulgado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa de registo de movimento de óleos usados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14600/17471749.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14600/17471749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14600/17471749.pdf)

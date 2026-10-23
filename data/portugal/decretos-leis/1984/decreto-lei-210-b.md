@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 149/1984, 2º Suplemento, Série I de 1984-06-29
   number: '149'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1980-(5) a 1980-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/14902/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -49,40 +49,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-b-1984-625268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a43b81ac8bae835517307788cfc216246ecb7b5408d3da880c5a95a6edde8de2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d574641ba15f157e36eb9041aafa2f8a9fc884e8e4ddb76cef889300828156d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa
+- Falência
+- Financiamento
+- Parempresa-Sociedade Parabancária para a Recuperação de Empresas
+- Saneamento Económico e Financeiro
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452049:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:368396:por
+  label: Rectificado pela DECL.DD5484.23.07.1984.PCM, DR.IS [176]Supl de 31.07.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-368396
+  date: '1984-07-23'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:10Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +126,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea c) do n.º 9 e o n.º 2 do artigo 1.º e o n.º 3 do artigo 2.º do [Decreto-Lei n.º 254/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1983-452049), de 15 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º A alínea c) do n.º 9 e o n.º 2 do artigo 1.º e o n.º 3 do artigo 2.º do [Decreto-Lei n.º 254/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1983-452049), de 15 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -111,22 +138,22 @@ c) As empresas desintervencionadas que, tendo preenchido as condições prevista
 
 2 - Desde que a empresa junte documento emitido pela PAREMPRESA comprovativo de se encontrar numa das situações previstas nas alíneas a) e b) ou pela instituição de crédito maior credora, no caso previsto na alínea c) do número anterior, considerando a empresa viabilizável e declarando estarem em curso negociações tendentes a esse fim, o tribunal suspenderá os autos, dando conhecimento à PAREMPRESA e à instituição de crédito que emitiu a mencionada declaração, e designará como curador da requerente a entidade sua maior credora, para intervir e autorizar todos os actos que não sejam de gestão corrente que envolvam alienação ou oneração de valores patrimoniais da empresa.
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
 3 - A suspensão dos autos não poderá ultrapassar a data de 31 de Dezembro de 1984.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos desde 1 de Julho de 1984.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos desde 1 de Julho de 1984.
 
 Visto e aprovado em Conselho de Ministros de 28 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 29 de Junho de 1984.**
+Promulgado em 29 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Julho de 1984.**
+Referendado em 4 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

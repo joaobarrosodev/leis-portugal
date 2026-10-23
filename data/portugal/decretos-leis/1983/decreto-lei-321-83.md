@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15200/24252427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1983-452965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a26ba73a9f4a777165319e7cfcbb23079a32517b3cc2c2e797b642971a3e7bab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd17f26f8d723202db497c884756186451630bc002552d23bb6066128c8acd27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Reserva Ecológica Nacional
+- Criação de Serviços
+- Definição de Competências
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Regime Jurídico
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:124256708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443075:por
+  label: "Prorrogado, por mais 90 dias, o prazo previsto no art. 9.º do presente diploma, pelo DEC LEI.411/83.23.11.1983.PCM,\
+    \ DR.IS [270] de 23.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1983-443075
+  date: '1983-11-23'
+- type: amended_by
+  target: pt:dre:285297:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante da al. c) do n.º 1 do art. 2.º
+    e da norma insita no n.º1 do art. 3.º, ambas do presente diploma, ressalvando os casos decididos que não tenham sido objecto
+    de recurso judicial pendente, pelo(a) Acórdão n.º 368/92 - Diário da República n.º 4/1993, Série I-A de 1993-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/368-1993-285297
+  date: '1993-01-06'
+- type: repealed_by
+  target: pt:dre:333172:por
+  label: "Revogado pelo DEC LEI.93/90.19.03.1990.MPLAT, DR.IS [[65]] de 19.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1990-333172
+  date: '1990-03-19'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:49Z'
   warnings: []
   errors: []
 ---
@@ -202,12 +228,12 @@ O Governo, no prazo de 120 dias, e mediante diploma legal adequado, regulamentar
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1984. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

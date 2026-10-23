@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1985-180979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5950fa5e63ab8df3972c787295214269189d26082d30ccd227429a558f07d790
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5af6931a3e3d0b1af469b422f371e6e702b4648e842fc58692339cfefbc457d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acumulação de Pensões
+- Cargos Políticos
+- Membros do Governo
+- Pensão de Aposentação
+- Pensão de Reforma
+- Subvenção Mensal Vitalícia
+relationships:
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474770:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:15Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +115,20 @@ Assim, ao abrigo do disposto no artigo 27.º da [Lei n.º 4/85](https://diarioda
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A acumulação da subvenção mensal vitalícia com pensão de aposentação ou de reforma previstas no artigo 27.º da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, está sujeita ao limite estabelecido nos Decretos-Leis n.os [410/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1974-474770) e [607/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/607-1974-472324), respectivamente de 5 de Setembro e de 12 de Novembro.
+Artigo 1.º A acumulação da subvenção mensal vitalícia com pensão de aposentação ou de reforma previstas no artigo 27.º da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, está sujeita ao limite estabelecido nos Decretos-Leis n.os [410/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1974-474770) e [607/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/607-1974-472324), respectivamente de 5 de Setembro e de 12 de Novembro.
 
-###### Art. 2.º O tempo de exercício de cargos políticos é contado para efeitos de aposentação ou de reforma.
+Art. 2.º O tempo de exercício de cargos políticos é contado para efeitos de aposentação ou de reforma.
 
-###### Art. 3.º O processamento da subvenção mensal vitalícia é feito pela Caixa Geral de Aposentações.
+Art. 3.º O processamento da subvenção mensal vitalícia é feito pela Caixa Geral de Aposentações.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1985. - Mário Suares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
 
-**Promulgado em 8 de Agosto de 1985.**
+Promulgado em 8 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Agosto de 1985.**
+Referendado em 12 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

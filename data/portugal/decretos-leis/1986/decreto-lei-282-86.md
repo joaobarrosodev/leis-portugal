@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20400/24432447.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1986-219968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42ca87ed969191e23ef40f4dd824d4df884285eb6d78e69373e58c0265a79e05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2052f54cde32bd5810a1109b5b8b3cc769d883b19d24a76dfa8ddbf9dacc6197
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa de Segurança
+- Regime Jurídico
+- Serviços de Segurança
+relationships:
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 276/93 DE 10-AGO DR.IS-A [186] MANTENDO-SE EM VIGOR, AS DISPOSIÇÕES COMPLEMENTARES E REGULAMENTARES,\
+    \ EM TUDO O QUE NAO CONTRARIE O REFERIDO DECRETO LEI\0DECRETO LEI"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:53Z'
   warnings: []
   errors: []
 ---
@@ -102,21 +115,21 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - É permitido o recurso à segurança privada unicamente nos termos do presente diploma.
+Artigo 1.º - É permitido o recurso à segurança privada unicamente nos termos do presente diploma.
 
 2 - A prestação dos serviços de segurança previstos no presente diploma tem carácter subsidiário relativamente à actividade normalmente desenvolvida pelas forças e serviços de segurança e de protecção civil do Estado.
 
 3 - O presente diploma aplica-se a todas as actividades de segurança privada, independentemente da designação que adoptem e das entidades a quem são prestadas.
 
-###### Art. 2.º A segurança privada pode ser exercida por:
+Art. 2.º A segurança privada pode ser exercida por:
 
 a) Empresas, singulares ou colectivas, para o efeito legalmente constituídas;
 
 b) Sistemas de autoprotecção.
 
-###### Art. 3.º A segurança privada é exercida exclusivamente como meio preventivo de acções ilícito-criminais.
+Art. 3.º A segurança privada é exercida exclusivamente como meio preventivo de acções ilícito-criminais.
 
-###### Art. 4.º - 1 - São proibidas as actividades de segurança privada que envolvam:
+Art. 4.º - 1 - São proibidas as actividades de segurança privada que envolvam:
 
 a) Investigação criminal de qualquer tipo;
 
@@ -126,7 +139,7 @@ c) A instalação de equipamento técnico e a prestação de serviços pessoais 
 
 2 - Ficam igualmente proibidas as actividades das empresas privadas de segurança que colidam com o desempenho das funções próprias das forças e serviços de segurança e de protecção civil do Estado.
 
-###### Art. 5.º A segurança privada tem por objecto exclusivo:
+Art. 5.º A segurança privada tem por objecto exclusivo:
 
 a) A protecção de bens, móveis e imóveis, e serviços;
 
@@ -134,7 +147,7 @@ b) A vigilância e controle do acesso, permanência e circulação de pessoas em
 
 c) A elaboração de estudos de segurança, o fabrico e comercialização de material de segurança e respectivos equipamentos técnicos.
 
-###### Art. 6.º Para a realização dos fins previstos nas alíneas a) e b) do artigo anterior são permitidos:
+Art. 6.º Para a realização dos fins previstos nas alíneas a) e b) do artigo anterior são permitidos:
 
 a) A prestação de serviços por pessoal de segurança;
 
@@ -146,7 +159,7 @@ c) A instalação e manuseamento de equipamento de segurança, com observância 
 
 #### SECÇÃO I — Autorizações
 
-###### Art. 7.º - 1 - A prestação de serviços de segurança privada a terceiros depende de autorização do Ministro da Administração Interna, mediante a concessão de alvará.
+Art. 7.º - 1 - A prestação de serviços de segurança privada a terceiros depende de autorização do Ministro da Administração Interna, mediante a concessão de alvará.
 
 2 - Os pedidos de autorização devem identificar a entidade singular ou colectiva que os subscreve através do bilhete de identidade ou cartão de identificação de pessoa colectiva ou equiparada, indicar o tipo de actividade a exercer e o seu âmbito territorial e ser instruídos com os seguintes elementos:
 
@@ -162,7 +175,7 @@ e) Certidão comprovativa de inexistência de dívidas ao Estado e instituiçõe
 
 3 - Sem prejuízo do disposto no número antecedente, pode o Ministro da Administração Interna exigir as informações e documentos complementares que tenha por convenientes.
 
-###### Art. 8.º - 1 - Concedida a autorização, o despacho deve ser notificado ao requerente, que, no prazo de 60 dias, renovável por uma vez, fará prova de:
+Art. 8.º - 1 - Concedida a autorização, o despacho deve ser notificado ao requerente, que, no prazo de 60 dias, renovável por uma vez, fará prova de:
 
 a) Ter prestado caução em favor do Ministério da Administração Interna, mediante depósito na Caixa Geral de Depósitos, garantia bancária ou seguro-caução em instituição com sede ou estabelecimento em Portugal, de montante não superior a 5 milhões de escudos, a fixar pelo Ministro da Administração Interna;
 
@@ -172,7 +185,7 @@ c) Ter sido requerido o registo das siglas ou emblemas aos serviços competentes
 
 2 - No prazo a que se refere o número anterior o requerente apresentará os projectos de modelos de uniforme a utilizar e respectivos distintivos, bem como dos modelos de cartão de identificação do pessoal, os, quais não devem prestar-se a confusão com os das Forças Armadas e das forças e serviços de segurança e de protecção civil.
 
-###### Art. 9.º - 1 - Verificado o cumprimento dos requisitos previstos no artigo antecedente, será emitido o alvará, do qual, além do mais, constarão:
+Art. 9.º - 1 - Verificado o cumprimento dos requisitos previstos no artigo antecedente, será emitido o alvará, do qual, além do mais, constarão:
 
 a) As actividades permitidas, com referência no disposto no artigo 5.º;
 
@@ -186,7 +199,7 @@ c) A aprovação dos modelos de uniforme e respectivos distintivos, bem como dos
 
 #### SECÇÃO II — Pessoal de segurança privada
 
-###### Art. 10.º - 1 - São requisitos mínimos de admissão como pessoal de segurança privada:
+Art. 10.º - 1 - São requisitos mínimos de admissão como pessoal de segurança privada:
 
 a) Maioridade;
 
@@ -198,15 +211,15 @@ d) Robustez física e mental, documentada por exame médico e testes adequados.
 
 2 - O exercício de cargo ou função a qualquer título na administração central, regional ou local, bem como o desenvolvimento profissional de uma actividade remunerada sob a autoridade e direcção de outra qualquer entidade, é incompatível com a prestação de serviço como pessoal de segurança privada.
 
-###### Art. 11.º Os princípios básicos de selecção e de recrutamento a que deve submeter-se o pessoal de segurança privada serão estabelecidos por despacho do Ministro da Administração Interna.
+Art. 11.º Os princípios básicos de selecção e de recrutamento a que deve submeter-se o pessoal de segurança privada serão estabelecidos por despacho do Ministro da Administração Interna.
 
-###### Art. 12.º - 1 - O uso e porte de arma de defesa pelo pessoal de segurança privada fica sujeito ao regime geral.
+Art. 12.º - 1 - O uso e porte de arma de defesa pelo pessoal de segurança privada fica sujeito ao regime geral.
 
 2 - Em serviço, o porte de arma de defesa só é admitido se autorizado pela empresa privada de segurança.
 
 3 - O pessoal de segurança a quem for autorizado o porte de arma de defesa em serviço fica obrigado a treino periódico de tiro e manuseamento de arma, em termos a regulamentar pelo Ministro da Administração Interna.
 
-###### Art. 13.º - 1 - É obrigatório o uso de uniforme no exercício das seguintes actividades:
+Art. 13.º - 1 - É obrigatório o uso de uniforme no exercício das seguintes actividades:
 
 a) Vigilância fixa de instalações ou edifícios;
 
@@ -216,13 +229,13 @@ c) Transporte de fundos e valores.
 
 2 - Poderá, no entanto, ser dispensada pelo comandante-geral da Guarda Nacional Republicana ou da Polícia de Segurança Pública, consoante os casos, a obrigatoriedade do uso do uniforme na vigilância fixa de instalações ou edifícios sempre que, em razão da especificidade do serviço e técnica habitual de execução, tal se torne desaconselhável.
 
-###### Art. 14.º O pessoal de segurança privada, quando em serviço, será portador do cartão de identificação do modelo próprio, através do qual se identificará sempre que solicitado pelos agentes ou funcionários das forças e serviços de segurança do Estado.
+Art. 14.º O pessoal de segurança privada, quando em serviço, será portador do cartão de identificação do modelo próprio, através do qual se identificará sempre que solicitado pelos agentes ou funcionários das forças e serviços de segurança do Estado.
 
 #### SECÇÃO III — Deveres especiais
 
-###### Art. 15.º As empresas de segurança privada obrigam-se a organizar ficheiros individuais do seu pessoal de segurança e a mantê-los actualizados.
+Art. 15.º As empresas de segurança privada obrigam-se a organizar ficheiros individuais do seu pessoal de segurança e a mantê-los actualizados.
 
-###### Art. 16.º Constituem deveres especiais a observar pelas empresas de segurança privada:
+Art. 16.º Constituem deveres especiais a observar pelas empresas de segurança privada:
 
 a) Dar imediato conhecimento à autoridade judicial ou policial competente de qualquer crime público de que tenham conhecimento no exercício das suas actividades ou que esteja na iminência de ser cometido;
 
@@ -238,37 +251,37 @@ f) Fazer prova anual do cumprimento das obrigações referidas nas alíneas a) e
 
 g) Mencionar o número e data do respectivo alvará na correspondência comercial e na publicidade.
 
-###### Art. 17.º Constituem deveres especiais a observar pelo pessoal de segurança privada:
+Art. 17.º Constituem deveres especiais a observar pelo pessoal de segurança privada:
 
 a) Comunicar de imediato à autoridade judicial ou policial mais próxima qualquer crime público de que tenha conhecimento no exercício das suas funções;
 
 b)Em caso de intervenção das forças de segurança pública nos locais onde se encontre em exercício de funções, submeter-se ao seu controle, prestando colaboração, se pedida.
 
-###### Art. 18.º - 1 - As empresas de segurança privada e o respectivo pessoal de segurança estão sujeitos ao sigilo profissional.
+Art. 18.º - 1 - As empresas de segurança privada e o respectivo pessoal de segurança estão sujeitos ao sigilo profissional.
 
 2 - A obrigação de sigilo profissional apenas cede face aos interesses da justiça criminal.
 
-###### Art. 19.º As empresas de segurança privada e o respectivo pessoal de segurança têm o dever de prestar às autoridades judiciais e policiais toda a colaboração que legitimamente lhes seja exigida.
+Art. 19.º As empresas de segurança privada e o respectivo pessoal de segurança têm o dever de prestar às autoridades judiciais e policiais toda a colaboração que legitimamente lhes seja exigida.
 
 ### CAPÍTULO III — Autoprotecção
 
-###### Art. 20.º - 1 - As empresas, singulares ou colectivas, bem como as associações e fundações, podem exercer as actividades previstas nas alíneas a) e b) do artigo 5.º para protecção do seu património, mediante a organização de serviços internos de segurança.
+Art. 20.º - 1 - As empresas, singulares ou colectivas, bem como as associações e fundações, podem exercer as actividades previstas nas alíneas a) e b) do artigo 5.º para protecção do seu património, mediante a organização de serviços internos de segurança.
 
 2 - A organização dos serviços a que se refere o n.º 1 é efectuada através do recurso exclusivo a funcionários incluídos nos quadros de pessoal da empresa.
 
-###### Art. 21.º Para os efeitos previstos no artigo anterior, devem essas entidades observar o disposto na alínea c) do n.º 1 do artigo 16.º
+Art. 21.º Para os efeitos previstos no artigo anterior, devem essas entidades observar o disposto na alínea c) do n.º 1 do artigo 16.º
 
-###### Art. 22.º - 1 - A organização de serviços de autoprotecção não carece de autorização, salvo quanto ao licenciamento de sistemas de alarme ou de segurança, nos termos da lei.
+Art. 22.º - 1 - A organização de serviços de autoprotecção não carece de autorização, salvo quanto ao licenciamento de sistemas de alarme ou de segurança, nos termos da lei.
 
 2 - Aos serviços internos de autoprotecção aplica-se, no entanto, com as necessárias adaptações, o disposto nos artigos 10.º, 12.º, 15.º, 16.º, alíneas a), b) e d), 17.º, 18.º e 19.º do presente diploma.
 
 ### CAPÍTULO IV — Fiscalização
 
-###### Art. 23.º - 1 - A fiscalização das actividades de segurança privada é assegurada pelos Comandos-Gerais da Guarda Nacional Republicana e da Polícia de Segurança Pública.
+Art. 23.º - 1 - A fiscalização das actividades de segurança privada é assegurada pelos Comandos-Gerais da Guarda Nacional Republicana e da Polícia de Segurança Pública.
 
 2 - Para efeitos do disposto no número anterior, pode, a todo o momento, ser inspeccionada a execução prática dos serviços de segurança privada, de harmonia com a competência territorial daquelas forças e serviços de segurança.
 
-###### Art. 24.º - 1 - O Ministério da Administração Interna organizará:
+Art. 24.º - 1 - O Ministério da Administração Interna organizará:
 
 a) O ficheiro do pessoal de segurança ao serviço de empresas de segurança privada;
 
@@ -278,7 +291,7 @@ b) O ficheiro do pessoal de segurança das entidades que mantenham sistemas de a
 
 3 - Para apreciação do Ministro da Administração Interna, no mês de Janeiro de cada ano os Comandos-Gerais da Guarda Nacional Republicana e da Polícia de Segurança Pública, de acordo com a respectiva área de competência, elaborarão relatório sobre a actividade da segurança privada.
 
-###### Art. 25.º - 1 - Os veículos a utilizar no transporte de fundos e outros valores serão licenciados pelos serviços competentes do Ministério das Obras Públicas, Transportes e Comunicações e utilizarão um distintivo especial, de modelo a aprovar por despacho conjunto dos Ministros da Administração Interna e das Obras Públicas, Transportes e Comunicações.
+Art. 25.º - 1 - Os veículos a utilizar no transporte de fundos e outros valores serão licenciados pelos serviços competentes do Ministério das Obras Públicas, Transportes e Comunicações e utilizarão um distintivo especial, de modelo a aprovar por despacho conjunto dos Ministros da Administração Interna e das Obras Públicas, Transportes e Comunicações.
 
 2 - Os veículos portadores do distintivo especial a que se refere o número anterior, quando em serviço, só poderão ser fiscalizados em áreas de segurança para onde deverão ser mandados conduzir pelas forças policiais, sem prejuízo de acções de emergência, perante forte suspeita de utilização abusiva dos mesmos.
 
@@ -286,11 +299,11 @@ b) O ficheiro do pessoal de segurança das entidades que mantenham sistemas de a
 
 ### CAPÍTULO V — Contra-ordenações e coimas
 
-###### Art. 26.º - 1 - Os factos praticados com violação das obrigações impostas no presente diploma serão considerados contra-ordenações e sancionados com coimas.
+Art. 26.º - 1 - Os factos praticados com violação das obrigações impostas no presente diploma serão considerados contra-ordenações e sancionados com coimas.
 
 2 - Em tudo o que se não encontre especialmente previsto neste diploma aplicar-se-ão as disposições do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Art. 27.º - 1 - Em processo de contra-ordenação poderá ser aplicada como sanção acessória:
+Art. 27.º - 1 - Em processo de contra-ordenação poderá ser aplicada como sanção acessória:
 
 a) A apreensão de objectos que sirvam à prática da contra-ordenação e representem um perigo para a comunidade, para a prática de crimes ou de outras contra-ordenações;
 
@@ -302,35 +315,35 @@ d) A interdição do exercício de profissão ou actividade por período não su
 
 2 - Se o mesmo facto constituir também crime, será o agente punido por este, sem prejuízo da aplicação das sanções acessórias previstas para a contra-ordenação.
 
-###### Art. 28.º A tentativa e a negligência serão sempre puníveis.
+Art. 28.º A tentativa e a negligência serão sempre puníveis.
 
-###### Art. 29.º - 1 - A competência para a aplicação das coimas e sanções acessórias prevista neste decreto-lei pertencerá ao director-geral, ou dirigente do mesmo nível, que vier a ser designado pelo Ministro da Administração Interna.
+Art. 29.º - 1 - A competência para a aplicação das coimas e sanções acessórias prevista neste decreto-lei pertencerá ao director-geral, ou dirigente do mesmo nível, que vier a ser designado pelo Ministro da Administração Interna.
 
 2 - Na execução para cobrança coerciva da coima responde por esta a caução, garantia ou seguro prestados nos termos do artigo 8.º, n.º 1, alínea a).
 
 3 - No Ministério da Administração Interna será regularizado, em registo próprio, o cadastro de cada entidade, singular ou colectiva, a quem forem aplicadas sanções nos termos do presente diploma, sendo-lhe remetidas, para o efeito, cópias das decisões finais.
 
-###### Art. 30.º - 1 - Se a contra-ordenação tiver sido cometida por um órgão de pessoa colectiva ou de associação sem personalidade jurídica, no exercício das suas funções e no interesse do representado, será aplicada a este a coima correspondente, sem prejuízo da responsabilidade individual do agente da contra-ordenação.
+Art. 30.º - 1 - Se a contra-ordenação tiver sido cometida por um órgão de pessoa colectiva ou de associação sem personalidade jurídica, no exercício das suas funções e no interesse do representado, será aplicada a este a coima correspondente, sem prejuízo da responsabilidade individual do agente da contra-ordenação.
 
 2 - As coimas a aplicar às pessoas colectivas a que se refere o número anterior serão elevadas, nos seus limites máximos, para o dobro.
 
-###### Art. 31.º - 1 - Quem exercer actividade de segurança privada para que não esteja autorizado será punido, por contra-ordenação, com coima de 250000$00 a 1000000$00.
+Art. 31.º - 1 - Quem exercer actividade de segurança privada para que não esteja autorizado será punido, por contra-ordenação, com coima de 250000$00 a 1000000$00.
 
 2 - As empresas de segurança privada e as entidades em regime de autoprotecção que mantenham ao seu serviço pessoal que não obedeça aos requisitos mínimos exigidos pelo artigo 10.º serão punidas com coima entre 150000$00 e 500000$00.
 
 3 - Incorrem em sanção igual à prevista no número anterior as empresas de segurança privada e as entidades em regime de autoprotecção que mantenham ao seu serviço pessoal armado e não habilitado para o efeito.
 
-###### Art. 32.º - 1 - A violação das obrigações impostas nos artigos 15.º, 16.º, alíneas a) a d), inclusive, 19.º e 25.º, n.º 1, primeira parte, constitui contra-ordenação punível com coima de 50000$00 a 250000$00.
+Art. 32.º - 1 - A violação das obrigações impostas nos artigos 15.º, 16.º, alíneas a) a d), inclusive, 19.º e 25.º, n.º 1, primeira parte, constitui contra-ordenação punível com coima de 50000$00 a 250000$00.
 
 2 - A violação das obrigações impostas nos artigos 13.º, n.º 1, 14.º, 16.º, alíneas e), f) e g), e 25.º, n.º 1, segunda parte, e n.º 3, constitui contra-ordenação punível com coima de 20000$00 a 100000$00.
 
 3 - A violação de qualquer outra obrigação imposta no presente diploma para as empresas de segurança privada, de autoprotecção ou pessoal de segurança constitui contra-ordenação punível com coima de 10000$00 a 50000$00.
 
-###### Art. 33.º - 1 - Em caso de reincidência, os montantes das coimas previstas nos artigos anteriores serão elevados para o dobro.
+Art. 33.º - 1 - Em caso de reincidência, os montantes das coimas previstas nos artigos anteriores serão elevados para o dobro.
 
 2 - Nas contra-ordenações previstas neste diploma dá-se a reincidência quando o agente punido comete nova contra-ordenação antes de decorrerem cinco anos contados desde a dita punição.
 
-###### Art. 34.º Pode ser ordenada a cassação de alvará às empresas de segurança privada que:
+Art. 34.º Pode ser ordenada a cassação de alvará às empresas de segurança privada que:
 
 a) Desrespeitem reiteradamente os deveres especiais na secção III do capítulo II;
 
@@ -340,26 +353,26 @@ c) Exerçam quaisquer das actividades proibidas pelo artigo 4.º, independenteme
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 35.º - 1 - As empresas, singulares ou colectivas, que já exerçam quaisquer das actividades previstas no artigo 5.º têm o prazo de 180 dias, a contar do início da vigência do presente diploma, para se constituírem e organizarem em conformidade com o que nele se preceitua.
+Art. 35.º - 1 - As empresas, singulares ou colectivas, que já exerçam quaisquer das actividades previstas no artigo 5.º têm o prazo de 180 dias, a contar do início da vigência do presente diploma, para se constituírem e organizarem em conformidade com o que nele se preceitua.
 
 2 - Sobre a sua situação recairá despacho do Ministro da Administração Interna, nos termos dos artigos 7.º, 8.º e 9.º
 
-###### Art. 36.º As empresas, associações ou fundações que, à data de entrada em vigor do presente diploma, mantenham serviços internos de autoprotecção, devem, no prazo de 90 dias, dar conhecimento ao Ministério da Administração Interna da actividade exercida e, em 180 dias, proceder às adaptações exigidas pelo presente diploma.
+Art. 36.º As empresas, associações ou fundações que, à data de entrada em vigor do presente diploma, mantenham serviços internos de autoprotecção, devem, no prazo de 90 dias, dar conhecimento ao Ministério da Administração Interna da actividade exercida e, em 180 dias, proceder às adaptações exigidas pelo presente diploma.
 
-###### Art. 37.º O fabrico e a comercialização de material de segurança e equipamento técnico a que se dediquem as empresas de segurança privada serão objecto de regulamentação autónoma.
+Art. 37.º O fabrico e a comercialização de material de segurança e equipamento técnico a que se dediquem as empresas de segurança privada serão objecto de regulamentação autónoma.
 
-###### Art. 38.º O presente diploma não se aplica aos guardas-nocturnos, cuja actividade é disciplinada por regulamentos distritais de polícia dos governadores civis.
+Art. 38.º O presente diploma não se aplica aos guardas-nocturnos, cuja actividade é disciplinada por regulamentos distritais de polícia dos governadores civis.
 
-###### Art. 39.º O presente decreto-lei entra em vigor 30 dias após a sua publicação.
+Art. 39.º O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Mário Ferreira Bastos Raposo - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 9 de Agosto de 1986.**
+Promulgado em 9 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Agosto de 1986.**
+Referendado em 14 de Agosto de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1986-210828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9f7ba32a84d95154d2d629052d88e2f0077d5deb2b9dbdacd0c4be82555146d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2219048239acd2b891e5c152837fde57e1b131e2756bc14c26c26e87f0917bfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco Internacional para a Reconstrução e Desenvolvimento
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:255416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:29Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +117,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É o Ministro das Finanças autorizado a dar o seu acordo ao aumento da quota de Portugal no BIRD de 281,3 para 306,4 milhões de dólares dos Estados Unidos da América, do peso e toque em vigor em 1 de Julho de 1944.
+Artigo 1.º - 1 - É o Ministro das Finanças autorizado a dar o seu acordo ao aumento da quota de Portugal no BIRD de 281,3 para 306,4 milhões de dólares dos Estados Unidos da América, do peso e toque em vigor em 1 de Julho de 1944.
 
 2 - O aumento da quota de Portugal referida no n.º 1 corresponde à subscrição de 251 acções.
 
-###### Art. 2.º A autorização concedida ao Governo pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, abrangerá todos os encargos inerentes à realização da participação de Portugal no capital social do BIRD até ao seu novo valor de 306,4 milhões de dólares dos Estados Unidos da América, do peso e toque referidos no artigo 1.º, designadamente os relativos a juros e comissões.
+Art. 2.º A autorização concedida ao Governo pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, abrangerá todos os encargos inerentes à realização da participação de Portugal no capital social do BIRD até ao seu novo valor de 306,4 milhões de dólares dos Estados Unidos da América, do peso e toque referidos no artigo 1.º, designadamente os relativos a juros e comissões.
 
-###### Art. 3.º O regime jurídico constante do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), na parte respeitante ao BIRD e com as alterações introduzidas pelo presente diploma, vigorará em relação à totalidade das acções subscritas pelo País, isto é, tanto quanto à fracção inicial e aos aumentos permitidos pelos Decretos-Leis n.os [324/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1977-255416), de 8 de Agosto, [452/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1977-277800), de 29 de Outubro, e [247/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1982-395370) de 24 de Julho, como quanto à elevação agora autorizada.
+Art. 3.º O regime jurídico constante do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), na parte respeitante ao BIRD e com as alterações introduzidas pelo presente diploma, vigorará em relação à totalidade das acções subscritas pelo País, isto é, tanto quanto à fracção inicial e aos aumentos permitidos pelos Decretos-Leis n.os [324/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1977-255416), de 8 de Agosto, [452/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1977-277800), de 29 de Outubro, e [247/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1982-395370) de 24 de Julho, como quanto à elevação agora autorizada.
 
-###### Art. 4.º Os títulos de obrigações referidos na secção 12 do artigo V do acordo aprovado pelo [Decreto-Lei n.º 43337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43337-1960-514182), de 21 de Novembro de 1960, a emitir ao abrigo da autorização concedida pelo n.º 1 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008) para liberação de parte do aumento de capital de que trata o presente diploma, assumirão a forma de promissória.
+Art. 4.º Os títulos de obrigações referidos na secção 12 do artigo V do acordo aprovado pelo [Decreto-Lei n.º 43337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43337-1960-514182), de 21 de Novembro de 1960, a emitir ao abrigo da autorização concedida pelo n.º 1 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008) para liberação de parte do aumento de capital de que trata o presente diploma, assumirão a forma de promissória.
 
-###### Art. 5.º - 1 - Da promissória mencionada no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
+Art. 5.º - 1 - Da promissória mencionada no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
 
 a) O número de ordem;
 
@@ -119,16 +141,16 @@ e) Os direitos, isenções e garantias de que goza e que são os dos restantes t
 
 2 - A promissória será assinada por chancela pelo Secretário de Estado do Tesouro e pelo presidente da Junta do Crédito Público, levando também a assinatura autógrafa de um dos vogais e selo branco da mesma Junta.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

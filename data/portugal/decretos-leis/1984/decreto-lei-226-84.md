@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 155/1984, 1º Suplemento, Série I de 1984-07-06
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2052-(41) a 2052-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15501/00410041.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1984-591314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fa39c9df79ac927fa0789e9227c5179881c6921b47d92075135bb850c882717
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bc18e40d49d6b8e7c5d1b9dfe3747f18ef819e4bae9e1a049a0f23948397350
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Registo Automóvel
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:159882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:25Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +104,7 @@ Independentemente de uma revisão mais ampla desta matéria, urge desde já corr
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É alterada a redacção do artigo 37.º do [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro, com a redacção do [Decreto Regulamentar n.º 36/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1982-395312), de 22 de Junho, nos termos seguintes:
+Artigo único. É alterada a redacção do artigo 37.º do [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro, com a redacção do [Decreto Regulamentar n.º 36/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1982-395312), de 22 de Junho, nos termos seguintes:
 
 ###### Artigo 37.º — (Conservatória intermediária)
 
@@ -106,12 +116,12 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 Visto e aprovado em Conselho de Ministros de 5 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 25 de Maio de 1984.**
+Promulgado em 25 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 31 de Maio de 1984.**
+Referendado em 31 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

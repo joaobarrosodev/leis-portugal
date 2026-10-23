@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22732277.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1983-452264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:52:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 457e7a8c375b218e0f829097600b2c68d476d736f6e28526d041af2acc7441a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1327a49b291e3792adabf48a3d8670ea870d5dfe764b63f31965eed0a8a6cdc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desemprego
+- Proteção no Desemprego
+- Regimes de Segurança Social
+- Segurança Social
+- Subsídio de Desemprego
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:417226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUSPENSA A ENTRADA EM VIGOR DO ART 3 PELO DEC LEI 349-A/83 DE 30-JUL DR.IS [174]4SUPL.\0S [174]4SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-07-30'
+- type: cites
+  target: pt:dre:251798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366452:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO PELO DEC LEI 20/85 DE 17-JAN DR.IS [14], NA REDACÇÃO DADA AO DEC LEI 183/77 DE 05-MAI DR.IS [104].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-01-17'
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:52:24Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +146,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 20.º, 22.º, 23.º, 24.º, 25.º, 28.º, 29.º, 33.º, 35.º e 37.º do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 20.º, 22.º, 23.º, 24.º, 25.º, 28.º, 29.º, 33.º, 35.º e 37.º do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — (Pressupostos fundamentais de atribuição)
 
@@ -430,7 +462,7 @@ c) ...
 
 2 - Para além das condições referidas no número anterior, os ex-estagiários devem preencher os requisitos previstos nas alíneas c) e d) do n.º 1 do artigo 2.º e não incorrer nas exclusões do artigo 4.º
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798) o artigo 13.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798) o artigo 13.º-A, com a seguinte redacção:
 
 ###### Artigo 13.º-A — (Prémio de colocação)
 
@@ -438,7 +470,7 @@ c) ...
 
 2 - O prémio referido no n.º 1 não é passível de contribuições para a segurança social.
 
-###### Art. 3.º A secção III do capítulo III do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, é substituída pela seguinte secção:
+Art. 3.º A secção III do capítulo III do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, é substituída pela seguinte secção:
 
 #### SECÇÃO III — Candidatos a primeiro emprego
 
@@ -468,20 +500,20 @@ A idade do requerente é provada através do bilhete de identidade e a conclusã
 
 2 - O subsídio é concedido por uma só vez e pelo período de 180 dias.
 
-###### Art. 4.º Os subsídios já requeridos ou em curso de concessão à data da entrada em vigor deste diploma mantêm-se com os montantes e duração, incluindo prorrogações, que vigoravam à data do requerimento ou do início da concesão, aplicando-se em tudo o mais, com as necessárias adaptações o estipulado neste diploma.
+Art. 4.º Os subsídios já requeridos ou em curso de concessão à data da entrada em vigor deste diploma mantêm-se com os montantes e duração, incluindo prorrogações, que vigoravam à data do requerimento ou do início da concesão, aplicando-se em tudo o mais, com as necessárias adaptações o estipulado neste diploma.
 
-###### Art. 5.º São revogados o artigo 10.º do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, o [Decreto-Lei n.º 445/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1979-363285), de 9 de Novembro, e os Despachos Normativos n.os [368/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/368-1979-366452), de 23 de Novembro, e [374/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/374-1979-365966), de 20 de Dezembro.
+Art. 5.º São revogados o artigo 10.º do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio, o [Decreto-Lei n.º 445/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1979-363285), de 9 de Novembro, e os Despachos Normativos n.os [368/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/368-1979-366452), de 23 de Novembro, e [374/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/374-1979-365966), de 20 de Dezembro.
 
-###### Art. 6.º O presente diploma entra em vigor no primeiro dia do segundo mês posterior à sua publicação.
+Art. 6.º O presente diploma entra em vigor no primeiro dia do segundo mês posterior à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Alberto Ferrero Morales - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 4 de Junho de 1983.**
+Promulgado em 4 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1983.**
+Referendado em 7 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

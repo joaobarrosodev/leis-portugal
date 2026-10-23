@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19700/22512252.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:13:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 890eedb9ea1e1eb04d03e75dfd1036c0ad100aff1cbfa5cacd2eef3823ab1cfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f5b9799a12a580392c2e0ebc6bd1a6feb6721c6cee87d09b4ccec46a39d1c79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Industrial
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Código do Imposto Complementar
+- Doação
+- Isenção Fiscal
+- Mecenato
+- Política Cultural
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:161708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:13:32Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +132,9 @@ Assim:
 
 No uso de autorização legislativa conferida pelo artigo 47.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 36.º do Código da Contribuição Industrial passa a ter a seguinte redacção:
+Artigo 1.º O artigo 36.º do Código da Contribuição Industrial passa a ter a seguinte redacção:
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 a) ...
 
@@ -113,7 +146,7 @@ d) Até ao limite de 50% do valor do donativo sempre que aquele valor exceda os 
 
 § único ...
 
-###### Art. 2.º A alínea e) do artigo 30.º do Código do Imposto Complementar passa a ter a seguinte redacção:
+Art. 2.º A alínea e) do artigo 30.º do Código do Imposto Complementar passa a ter a seguinte redacção:
 
 e) As importâncias que, até aos quantitativos abaixo indicados, o contribuinte haja entregue, como donativo, a favor das seguintes entidades, com existência legal no País:
 
@@ -121,18 +154,18 @@ e) As importâncias que, até aos quantitativos abaixo indicados, o contribuinte
 
 2) Museus, bibliotecas, escolas, institutos e associações de ensino ou de educação, de cultura científica, literária ou artística, as que desenvolvam acções no âmbito de actividades de produção cinematográfica, áudio-visual, literária, teatro, bailado, música, de organização de festivais e de outras manifestações artísticas, desde que assumam manifesto interesse cultural, reconhecido por despacho conjunto dos Ministros das Finanças e da Educação e Cultura, até 25% do rendimento global líquido do contriguinte.
 
-###### Art. 3.º O n.º 10.º do artigo 7.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passa a ter a seguinte redacção:
+Art. 3.º O n.º 10.º do artigo 7.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passa a ter a seguinte redacção:
 
 10.º As pessoas singulares ou colectivas que cederem gratuitamente prédios, ou parte de prédios, que se destinem a serviços públicos, às associações humanitárias e aos organismos oficiais, oficializados ou particulares de beneficência, assistência ou caridade, à habitação de pobres e indigentes, a escolas, museus, bibliotecas ou outras instituições de interesse público, cultural e social, bem como os cedidos a entidades que desenvolvam acções no âmbito de actividades de produção cinematográfica, áudio-visual, literária, teatro, bailado, música, desde que destinados directa e imediatamente à realização dos seus fins e assumam manifesto interesse cultural, reconhecido por despacho conjunto dos Ministros das Finanças e da Educação e Cultura, com referência aos rendimentos dos prédios ou parte dos prédios cedidos.
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1986. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Fernando Nunes Ferreira Real.
 
-**Promulgado em 16 de Agosto de 1986.**
+Promulgado em 16 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Agosto de 1986.**
+Referendado em 19 de Agosto de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

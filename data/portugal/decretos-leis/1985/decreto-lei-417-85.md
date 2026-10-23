@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24000/34303431.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1985-177664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f071f1573f5bb01df653513b4093eaf1827655c5084fb28295f2fdf949e083e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 828adfa2a7216e5814677022322d7d1db3343ed12ca77be3f2a0064a5e7832ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Crédito ao Investimento
+- Jovem Agricultor
+- JURO Bonificado
 relationships:
 - type: amended_by
   target: pt:dre:518816:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:393781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470624:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518816:por
+  label: Revogado pelo(a) Decreto-Lei n.º 172-G/86 - Diário da República n.º 147/1986, 1º Suplemento, Série I de 1986-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-g-1986-518816
+  date: '1986-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:49Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +112,15 @@ Com vista à definição do tipo de crédito a conceder e a assegurar as verbas 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada uma bonificação especial de 5%, a adicionar às bonificações normais do SIFAP, para o crédito ao investimento a conceder aos jovens agricultores que se integram no regime de instalação definido no [Decreto-Lei n.º 513-E/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-e-1979-393781), de 24 de Dezembro, ratificado, com emendas pela [Lei n.º 42/80](https://diariodarepublica.pt/dr/detalhe/lei/42-1980-470624), de 13 de Agosto.
+Artigo 1.º É criada uma bonificação especial de 5%, a adicionar às bonificações normais do SIFAP, para o crédito ao investimento a conceder aos jovens agricultores que se integram no regime de instalação definido no [Decreto-Lei n.º 513-E/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-e-1979-393781), de 24 de Dezembro, ratificado, com emendas pela [Lei n.º 42/80](https://diariodarepublica.pt/dr/detalhe/lei/42-1980-470624), de 13 de Agosto.
 
-###### Art. 2.º O regime especial criado por este diploma vigorará por um prazo que não poderá exceder 5 anos e a sua execução fica condicionada pelo limite de encargos do Estado decorrentes da bonificação especial estabelecida no artigo 7.º
+Art. 2.º O regime especial criado por este diploma vigorará por um prazo que não poderá exceder 5 anos e a sua execução fica condicionada pelo limite de encargos do Estado decorrentes da bonificação especial estabelecida no artigo 7.º
 
-###### Art. 3.º A bonificação a que se refere o artigo 1.º será concedida durante os 5 anos seguintes ao termo da utilização dos empréstimos bonificados.
+Art. 3.º A bonificação a que se refere o artigo 1.º será concedida durante os 5 anos seguintes ao termo da utilização dos empréstimos bonificados.
 
-###### Art. 4.º Os empréstimos a conceder ao abrigo do regime previsto no presente diploma terão um prazo total máximo de 7 anos, com 1 ano de período de utilização e 2 anos de período de carência, sendo amortizados em prestações anuais e iguais.
+Art. 4.º Os empréstimos a conceder ao abrigo do regime previsto no presente diploma terão um prazo total máximo de 7 anos, com 1 ano de período de utilização e 2 anos de período de carência, sendo amortizados em prestações anuais e iguais.
 
-###### Art. 5.º O montante de crédito bonificado a conceder em cada ano de vigência do presente regime não pode exceder os seguintes limites:
+Art. 5.º O montante de crédito bonificado a conceder em cada ano de vigência do presente regime não pode exceder os seguintes limites:
 
 1.º ano: 600000 contos;
 
@@ -115,11 +132,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5.º ano: 1200000 contos.
 
-###### Art. 6.º - 1 - O montante máximo de crédito que beneficiará da bonificação especial referida no artigo 1.º será de 5000 contos por jovem agricultor, podendo corresponder a um ou mais empréstimos a realizar durante a vigência do presente regime.
+Art. 6.º - 1 - O montante máximo de crédito que beneficiará da bonificação especial referida no artigo 1.º será de 5000 contos por jovem agricultor, podendo corresponder a um ou mais empréstimos a realizar durante a vigência do presente regime.
 
 2 - O montante máximo do crédito por jovem agricultor referido no número anterior poderá ser anualmente actualizado por portaria conjunta dos Ministros das Finanças e do Plano e da Agricultura em função da taxa de inflação verificada no ano anterior.
 
-###### Art. 7.º O valor das bonificações especiais a suportar pelo Estado não poderá exceder em caso algum os seguintes limites:
+Art. 7.º O valor das bonificações especiais a suportar pelo Estado não poderá exceder em caso algum os seguintes limites:
 
 No 1.º ano: 30000 contos;
 
@@ -139,22 +156,22 @@ No 8.º ano: 56000 contos;
 
 No 9.º ano: 24000 contos.
 
-###### Art. 8.º Os encargos do Estado decorrentes das bonificações especiais previstas neste diploma serão liquidados, a partir de 1986, pela Direcção-Geral do Tesouro, que fica desde já autorizada a inscrever no cap. 60 - «Despesas excepcionais», do orçamento do Ministério das Finanças e do Plano, as dotações necessárias para o efeito e que deverão obedecer aos limites estabelecidos no artigo anterior.
+Art. 8.º Os encargos do Estado decorrentes das bonificações especiais previstas neste diploma serão liquidados, a partir de 1986, pela Direcção-Geral do Tesouro, que fica desde já autorizada a inscrever no cap. 60 - «Despesas excepcionais», do orçamento do Ministério das Finanças e do Plano, as dotações necessárias para o efeito e que deverão obedecer aos limites estabelecidos no artigo anterior.
 
-###### Art. 9.º Se durante a vigência do presente regime especial de crédito se verificar que os limites estabelecidos no artigo 5.º não foram atingidos, poderá ser estabelecido, por portaria conjunta dos Ministros das Finanças e do Plano e da Agricultura, um acréscimo dos limites do crédito a conceder nos anos subsequentes desde que não sejam alterados os montantes totais do crédito a conceder e das bonificações especiais a suportar pelo Estado, estabelecidos, respectivamente, nos artigos 5.º e 7.º
+Art. 9.º Se durante a vigência do presente regime especial de crédito se verificar que os limites estabelecidos no artigo 5.º não foram atingidos, poderá ser estabelecido, por portaria conjunta dos Ministros das Finanças e do Plano e da Agricultura, um acréscimo dos limites do crédito a conceder nos anos subsequentes desde que não sejam alterados os montantes totais do crédito a conceder e das bonificações especiais a suportar pelo Estado, estabelecidos, respectivamente, nos artigos 5.º e 7.º
 
-###### Art. 10.º É revogado o artigo 8.º do [Decreto-Lei n.º 513-E/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-e-1979-393781), de 24 de Dezembro.
+Art. 10.º É revogado o artigo 8.º do [Decreto-Lei n.º 513-E/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-e-1979-393781), de 24 de Dezembro.
 
-###### Art. 11.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação, produzindo efeitos apenas para as operações especiais de crédito contratadas durante a sua vigência.
+Art. 11.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação, produzindo efeitos apenas para as operações especiais de crédito contratadas durante a sua vigência.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 8 de Outubro de 1985.**
+Promulgado em 8 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Outubro de 1985.**
+Referendado em 10 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

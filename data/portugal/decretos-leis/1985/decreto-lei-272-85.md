@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16200/20862087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1985-183458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e5225d8c46380bb4b6b6329733f95a58bfb99ad4931ecc595ad248fc44ed12d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a38814f864045a2a6461d5c9da3df68838c46fc2a61461c18b3ee7847da79fb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Ciências e Engenharia Nucleares
+- Instituto de Electromecânica e das Tecnologias de Informação
+- Instituto de Novas Tecnologias Energéticas
+- Instituto de Tecnologia Industrial
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:370663:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:15Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +116,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os institutos do Laboratório Nacional de Engenharia e Tecnologia Industrial, previstos no n.º 1 do artigo 21.º e seguintes do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, passam a ser os seguintes:
+Artigo 1.º - 1 - Os institutos do Laboratório Nacional de Engenharia e Tecnologia Industrial, previstos no n.º 1 do artigo 21.º e seguintes do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, passam a ser os seguintes:
 
 a) Instituto de Tecnologia Industrial;
 
@@ -139,37 +156,37 @@ a) Departamento de Energias Convencionais;
 
 b) Departamento de Energias Renováveis.
 
-###### Art. 2.º - 1 - O Departamento de Tecnologia de Materiais compreende as competências antes atribuídas ao Departamento de Metalurgia e Metalomecânica, bem como todas as actividades relacionadas com o aproveitamento de materiais, metálicos e não metálicos, incluindo as de protecção e corrosão de materiais que transitam do Departamento Central de Estudos e Análises Industriais.
+Art. 2.º - 1 - O Departamento de Tecnologia de Materiais compreende as competências antes atribuídas ao Departamento de Metalurgia e Metalomecânica, bem como todas as actividades relacionadas com o aproveitamento de materiais, metálicos e não metálicos, incluindo as de protecção e corrosão de materiais que transitam do Departamento Central de Estudos e Análises Industriais.
 
 2 - O Departamento de Electromecânica e Electrónica compreende as competências antes atribuídas ao Departamento de Electrónica e Equipamento Eléctrico, bem como todas as actividades no domínio da óptica e da optoelectrónica.
 
 3 - As actividades relacionadas com estudos e impactes industriais integram-se no Departamento Central de Estudos e Análises Industriais.
 
-###### Art. 3.º - 1 - Nos termos do artigo 47.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, é criada uma delegação do LNETI no Porto.
+Art. 3.º - 1 - Nos termos do artigo 47.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, é criada uma delegação do LNETI no Porto.
 
 2 - O cargo de director de delegação é equiparado ao de director de instituto.
 
-###### Art. 4.º A reorganização administrativa do LNETI, visando a necessária desconcentração de serviços, será regulamentada por decreto dos Ministros das Finanças e do Plano, da Indústria e Energia e do membro do Governo responsável pela Administração Pública.
+Art. 4.º A reorganização administrativa do LNETI, visando a necessária desconcentração de serviços, será regulamentada por decreto dos Ministros das Finanças e do Plano, da Indústria e Energia e do membro do Governo responsável pela Administração Pública.
 
-###### Art. 5.º São criados um lugar de vice-presidente e 3 lugares de director de instituto, considerando-se alterado em conformidade o mapa I anexo ao [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro.
+Art. 5.º São criados um lugar de vice-presidente e 3 lugares de director de instituto, considerando-se alterado em conformidade o mapa I anexo ao [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Promulgado em 3 de Julho de 1985.**
+Promulgado em 3 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Julho de 1985.**
+Referendado em 5 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Alterações ao mapa I anexo ao [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, nos termos do artigo 5.º
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/16200/20862087.pdf))](https://files.diariodarepublica.pt/1s/1985/07/16200/20862087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/16200/20862087.pdf)
 
 MAPA I
 
@@ -177,4 +194,4 @@ MAPA I
 
 Quadro actual, quando exista, e quadro proposto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/16200/20862087.pdf))](https://files.diariodarepublica.pt/1s/1985/07/16200/20862087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/16200/20862087.pdf)

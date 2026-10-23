@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03900/05080509.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1984-660350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb9e90c9ea4233b0e37e1774cc758235a2dc344761898ae445049a44f9a71543
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de804ab087158c4293e954df34e2e678d8575cd8df0a453b641deabdb9cbb19a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Caixa Geral de Depósitos
+- Financiamento
+- Infraestrutura Municipal
+- Kreditanstalt FUR Wiederaufbau
+relationships:
+- type: cites
+  target: pt:dre:380909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:33Z'
   warnings: []
   errors: []
 ---
@@ -100,36 +109,36 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica o Ministro das Finanças e do Plano autorizado a celebrar com a Caixa Geral de Depósitos (CGD) um contrato de empréstimo até ao contravalor em escudos de 38 milhões de marcos alemães, que vai ser concedido pelo Kreditanstalt für Wiederaufbau (KFW) ao Estado Português para o financiamento de infra-estruturas municipais.
+Artigo 1.º - 1 - Fica o Ministro das Finanças e do Plano autorizado a celebrar com a Caixa Geral de Depósitos (CGD) um contrato de empréstimo até ao contravalor em escudos de 38 milhões de marcos alemães, que vai ser concedido pelo Kreditanstalt für Wiederaufbau (KFW) ao Estado Português para o financiamento de infra-estruturas municipais.
 
 2 - O produto do empréstimo destina-se exclusivamente a financiar os projectos de infra-estruturas municipais a realizar pelas autarquias locais nos termos e condições da linha de crédito a estabelecer pela CGD.
 
-###### Art. 2.º A utilização do empréstimo será efectuada de harmonia com as condições de saque que vierem a ser estabelecidas no contrato de financiamento a celebrar entre o Estado e o KFW, sendo o respectivo contravalor em escudos posto à disposição da CGD pelo Estado, à medida que ocorrer o desembolso do financiamento do KFW.
+Art. 2.º A utilização do empréstimo será efectuada de harmonia com as condições de saque que vierem a ser estabelecidas no contrato de financiamento a celebrar entre o Estado e o KFW, sendo o respectivo contravalor em escudos posto à disposição da CGD pelo Estado, à medida que ocorrer o desembolso do financiamento do KFW.
 
-###### Art. 3.º Sobre este empréstimo incidem juros e demais encargos nas mesmas condições das estabelecidas para o financiamento concedido pelo KFW ao Estado.
+Art. 3.º Sobre este empréstimo incidem juros e demais encargos nas mesmas condições das estabelecidas para o financiamento concedido pelo KFW ao Estado.
 
-###### Art. 4.º O reembolso deste empréstimo será feito nas mesmas condições das estabelecidas para o financiamento concedido pelo KFW ao Estado.
+Art. 4.º O reembolso deste empréstimo será feito nas mesmas condições das estabelecidas para o financiamento concedido pelo KFW ao Estado.
 
-###### Art. 5.º A taxa de juro a praticar pela CGD nos empréstimos a conceder aos municípios em aplicação do presente empréstimo é fixada em 9,25% abaixo da taxa máxima em vigor para operações de crédito bancário activas, de prazo idêntico.
+Art. 5.º A taxa de juro a praticar pela CGD nos empréstimos a conceder aos municípios em aplicação do presente empréstimo é fixada em 9,25% abaixo da taxa máxima em vigor para operações de crédito bancário activas, de prazo idêntico.
 
-###### Art. 6.º - 1 - O Estado suportará as variações cambiais correspondentes às alterações entre o valor do marco alemão à data de utilização do empréstimo concedido pelo KFW e o valor desta medida relativamente ao escudo na data de pagamento dos encargos respectivos ao KFW.
+Art. 6.º - 1 - O Estado suportará as variações cambiais correspondentes às alterações entre o valor do marco alemão à data de utilização do empréstimo concedido pelo KFW e o valor desta medida relativamente ao escudo na data de pagamento dos encargos respectivos ao KFW.
 
 2 - A obrigação referida no número anterior reporta-se às amortizações, juros e demais encargos passíveis de variação cambial.
 
-###### Art. 7.º O Estado garante à CGD uma remuneração até 3%, calculada sobre o montante em dívida dos capitais mutuados pela CGD.
+Art. 7.º O Estado garante à CGD uma remuneração até 3%, calculada sobre o montante em dívida dos capitais mutuados pela CGD.
 
-###### Art. 8.º Reverterá anualmente a favor do Estado a importância correspondente aos juros cobrados pela CGD às autarquias locais beneficiárias deste empréstimo, deduzida da margem atribuída à CGD, nos termos do artigo 6.º e dos juros cobrados nos termos do artigo 3.º
+Art. 8.º Reverterá anualmente a favor do Estado a importância correspondente aos juros cobrados pela CGD às autarquias locais beneficiárias deste empréstimo, deduzida da margem atribuída à CGD, nos termos do artigo 6.º e dos juros cobrados nos termos do artigo 3.º
 
-###### Art. 9.º Qualquer alteração que vier a ser introduzida no contrato que vier a ser celebrado entre o KFW e o Estado produzirá imediatamente os decorrentes efeitos no contrato a celebrar entre o Estado e a CGD.
+Art. 9.º Qualquer alteração que vier a ser introduzida no contrato que vier a ser celebrado entre o KFW e o Estado produzirá imediatamente os decorrentes efeitos no contrato a celebrar entre o Estado e a CGD.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 8 de Fevereiro de 1984.**
+Promulgado em 8 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Fevereiro de 1984.**
+Referendado em 9 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

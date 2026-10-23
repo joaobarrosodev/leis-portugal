@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12200/19451955.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,132 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e841196154b85ad536478b5bf5efe44058243dc680cfd577dd1bd64b0329170f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 504a47053b9210c0930135441fba52c852b2c093ad2664334ab483b2047e8eed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mercado Cambial
+- Operação Cambial
 relationships:
 - type: amended_by
   target: pt:dre:313848:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328842:por
+  label: "Alterados os arts. 21º e 24º pelo DEC LEI.23/85.17.01.1985.MFP, DR.IS [14] de 17.01.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1985-328842
+  date: '1985-01-17'
+- type: amended_by
+  target: pt:dre:627193:por
+  label: "Alterados os arts. 25º e 26º pelo DEC LEI.443/86.31.12.1986.MF, DR.IS [300-7ºSupl] de 31.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/443-1986-627193
+  date: '1986-12-31'
+- type: amended_by
+  target: pt:dre:417200:por
+  label: "Alterados os arts. 21º e 22º, o título da secção II do capítulo IV e o art. 24º pelo DEC LEI.293/87.30.07.1987.MF,\
+    \ DR.IS [173] de 30.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1987-417200
+  date: '1987-07-30'
+- type: cites
+  target: pt:dre:141666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686581:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355523:por
+  label: "Revogado o art. 13º pelo DEC LEI.330/88.1988.09.27.MF,DR.IS [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1988-355523
+  date: '1988-09-27'
+- type: repealed_by
+  target: pt:dre:313848:por
+  label: "Revogado pelo DEC LEI.13/90.1990.01.08.MF,DR.IS [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1990-313848
+  date: '1990-01-08'
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:13Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +194,7 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 #### SECÇÃO I — Âmbito do diploma
 
-###### Artigo 1.º - 1 - A realização de operações cambiais e o exercício do comércio de câmbios, no território da República Portuguesa, ficam, com o âmbito e as limitações definidos nesta secção, sujeitos ao disposto no presente decreto-lei e nos respectivos diplomas regulamentares, bem como nos despachos, avisos e instruções técnicas previstos no mesmo decreto-lei e naqueles diplomas regulamentares.
+Artigo 1.º - 1 - A realização de operações cambiais e o exercício do comércio de câmbios, no território da República Portuguesa, ficam, com o âmbito e as limitações definidos nesta secção, sujeitos ao disposto no presente decreto-lei e nos respectivos diplomas regulamentares, bem como nos despachos, avisos e instruções técnicas previstos no mesmo decreto-lei e naqueles diplomas regulamentares.
 
 2 - Fica igualmente sujeita ao presente decreto-lei, diplomas regulamentares, despachos, avisos e instruções técnicas referidos no número anterior a realização no estrangeiro, por residentes em território nacional, de operações cambiais, quando:
 
@@ -122,7 +214,7 @@ d) Acções ou obrigações, quer nacionais quer estrangeiras, ou cupões, assim
 
 4 - Estão ainda sujeitas ao presente decreto-lei, diplomas regulamentares, despachos, avisos e instruções técnicas a importação ou exportação ou reexportação de notas ou moedas metálicas portuguesas fora de circulação.
 
-###### Art. 2.º - 1 - A realização de operações cambiais pelo tesouro continua a regular-se por legislação especial, a qual será também aplicável aos serviços e fundos do Estado, não personalizados e sem autonomia administrativa e financeira, e ainda às outras pessoas colectivas de direito público expressamente excluídas do regime do presente diploma por despacho do Ministro das Finanças e do Plano.
+Art. 2.º - 1 - A realização de operações cambiais pelo tesouro continua a regular-se por legislação especial, a qual será também aplicável aos serviços e fundos do Estado, não personalizados e sem autonomia administrativa e financeira, e ainda às outras pessoas colectivas de direito público expressamente excluídas do regime do presente diploma por despacho do Ministro das Finanças e do Plano.
 
 2 - Não poderá ser objecto da exclusão prevista no anterior n.º 1 a realização de operações cambiais por empresas públicas.
 
@@ -130,11 +222,11 @@ d) Acções ou obrigações, quer nacionais quer estrangeiras, ou cupões, assim
 
 4 - A sujeição ao regime do presente decreto-lei da realização de operações cambiais por entidades do sector público não prejudica o estabelecido quanto a orçamentos cambiais a submeter superiormente, nem, no tocante a empresas públicas, o disposto na legislação às mesmas aplicável relativamente à necessidade de autorização ou de concordância do ministro da tutela.
 
-###### Art. 3.º A realização de operações cambiais pelo Banco de Portugal e o exercício do comércio de câmbios pelo mesmo Banco regem-se pelo estabelecido na respectiva lei orgânica e diplomas complementares e pelas disposições do presente decreto-lei que expressamente lhe respeitem, além do que estiver estipulado em acordos internacionais ou nos contratos referidos no artigo 29.º da mencionada lei orgânica.
+Art. 3.º A realização de operações cambiais pelo Banco de Portugal e o exercício do comércio de câmbios pelo mesmo Banco regem-se pelo estabelecido na respectiva lei orgânica e diplomas complementares e pelas disposições do presente decreto-lei que expressamente lhe respeitem, além do que estiver estipulado em acordos internacionais ou nos contratos referidos no artigo 29.º da mencionada lei orgânica.
 
 #### SECÇÃO II — Das operações cambiais
 
-###### Art. 4.º - 1 - São consideradas operações cambiais as seguintes:
+Art. 4.º - 1 - São consideradas operações cambiais as seguintes:
 
 a) A compra e venda de ouro, amoedado ou em barra ou noutras formas não trabalhadas;
 
@@ -160,19 +252,19 @@ i) Outras operações que, expressas em escudos, moeda estrangeira ou nas aludid
 
 4 - São consideradas contas nacionais as contas em escudos, em moeda estrangeira ou nas mencionadas unidades de conta abertas em território português, nos livros das instituições de crédito ou parabancárias, em nome de residentes ou de emigrantes, nos termos, quanto a estes, da legislação especial que lhes é aplicável.
 
-###### Art. 5.º - 1 - As contas colectivas abertas simultaneamente em nome de residentes e de não residentes ficam sujeitas ao regime das contas nacionais, salvo autorização especial do Banco de Portugal, na qual se deverão definir as condições de movimentação da conta respectiva.
+Art. 5.º - 1 - As contas colectivas abertas simultaneamente em nome de residentes e de não residentes ficam sujeitas ao regime das contas nacionais, salvo autorização especial do Banco de Portugal, na qual se deverão definir as condições de movimentação da conta respectiva.
 
 2 - As contas estrangeiras referidas no n.º 3 do artigo 4.º, bem como as contas nacionais mencionadas no n.º 4 do mesmo artigo, embora se verifique mudança de residência do seu titular, mantêm o respectivo regime anterior à dita mudança, salvo autorização especial do Banco de Portugal.
 
 #### SECÇÃO III — Da noção do exercício do comércio de câmbios
 
-###### Art. 6.º - 1 - Entende-se por exercício do comércio de câmbios a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações cambiais.
+Art. 6.º - 1 - Entende-se por exercício do comércio de câmbios a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações cambiais.
 
 2 - Não é considerado exercício de comércio de câmbios a abertura de contas em nome de emigrantes, bem como a respectiva movimentação, desde que permitidas e efectuadas de harmonia com a legislação especial reguladora de tais contas.
 
 #### SECÇÃO IV — Da qualidade de residentes
 
-###### Art. 7.º - 1 - São havidos como residentes em território nacional:
+Art. 7.º - 1 - São havidos como residentes em território nacional:
 
 a) As pessoas singulares que residam nesse território há mais de 1 ano;
 
@@ -186,7 +278,7 @@ d) As filiais ou agências ou outras sucursais, em território nacional, de pess
 
 3 - Suscitando-se dúvidas sobre se determinada pessoa colectiva deve, nos termos da alínea b) do anterior n.º 1, ser considerada como residente em território nacional ou sobre quais as actividades, de certa ou de certas pessoas colectivas, que devem ser havidas como abrangidas pelo n.º 2 do presente artigo, cabe ao Banco de Portugal, conforme o caso, definir se a pessoa colectiva é, ou não, residente em território nacional ou quais as actividades abrangidas pelo referido n.º 2.
 
-###### Art. 8.º - 1 - As pessoas singulares perdem a qualidade de residentes quando emigrarem ou quando estiverem ausentes por mais de 1 ano do território nacional.
+Art. 8.º - 1 - As pessoas singulares perdem a qualidade de residentes quando emigrarem ou quando estiverem ausentes por mais de 1 ano do território nacional.
 
 2 - O estabelecido no anterior n.º 1 não é aplicável quando, tratando-se de pessoas singulares de nacionalidade portuguesa, a ausência for determinada por motivos de estudos ou de saúde ou pelo exercício de funções públicas que não envolva domicílio necessário ou, envolvendo-o, o interessado tenha mantido domicílio voluntário em território português.
 
@@ -196,15 +288,15 @@ d) As filiais ou agências ou outras sucursais, em território nacional, de pess
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 9.º É da competência do Ministro das Finanças e do Plano a superintendência do mercado cambial e, em especial, da actividade das instituições autorizadas a exercer o comércio de câmbios.
+Art. 9.º É da competência do Ministro das Finanças e do Plano a superintendência do mercado cambial e, em especial, da actividade das instituições autorizadas a exercer o comércio de câmbios.
 
-###### Art. 10.º - 1 - Cabe ao Banco de Portugal, sob a superior orientação do Ministro das Finanças e do Plano, regular o funcionamento do mercado cambial e coordenar a actividade das instituições de crédito e parabancárias autorizadas a exercer o comércio de câmbios.
+Art. 10.º - 1 - Cabe ao Banco de Portugal, sob a superior orientação do Ministro das Finanças e do Plano, regular o funcionamento do mercado cambial e coordenar a actividade das instituições de crédito e parabancárias autorizadas a exercer o comércio de câmbios.
 
 2 - Cabe ainda ao Banco de Portugal fiscalizar a actividade das instituições de crédito e parabancárias autorizadas a exercer o comércio de câmbios e bem assim a prática de operações cambiais pelas pessoas singulares ou colectivas que realizem tais operações directamente ou por conta das instituições referidas no anterior n.º 1.
 
 3 - A fiscalização da actividade das instituições de crédito ou parabancárias, bem como a prática de operações cambiais por quaisquer entidades abrangidas pelo anterior n.º 2, pode ser feita nos próprios estabelecimentos.
 
-###### Art. 11.º - 1 - No desempenho das suas atribuições de regulador do mercado cambial, compete ao Banco de Portugal:
+Art. 11.º - 1 - No desempenho das suas atribuições de regulador do mercado cambial, compete ao Banco de Portugal:
 
 a) Definir os princípios reguladores das operações cambiais a observar pelas instituições de crédito e parabancárias autorizadas a exercer o comércio de câmbios e por quaisquer outras entidades que possam efectuar directamente operações cambiais, ainda que por conta daquelas instituições;
 
@@ -228,17 +320,17 @@ f) Praticar tudo o mais que, nos termos do presente decreto-lei e da Lei Orgâni
 
 #### SECÇÃO II — Da defesa do mercado de câmbios e da obrigação de prestação de informações
 
-###### Art. 12.º - 1 - As instituições de crédito ou parabancárias autorizadas a exercer o comércio de câmbios, as entidades que possam efectuar, directamente ou por conta daquelas instituições, operações cambiais e, ainda, as abrangidas pelo n.º 1 do artigo 2.º enviarão ao Banco de Portugal, de conformidade com as instruções que por este lhes forem transmitidas e nos prazos por ele fixados, os elementos de informação necessários à elaboração dos quadros da balança de pagamentos externos e à verificação do cumprimento das disposições legais aplicáveis, princípios reguladores, determinações de natureza regulamentar e instruções técnicas previstas no artigo 11.º
+Art. 12.º - 1 - As instituições de crédito ou parabancárias autorizadas a exercer o comércio de câmbios, as entidades que possam efectuar, directamente ou por conta daquelas instituições, operações cambiais e, ainda, as abrangidas pelo n.º 1 do artigo 2.º enviarão ao Banco de Portugal, de conformidade com as instruções que por este lhes forem transmitidas e nos prazos por ele fixados, os elementos de informação necessários à elaboração dos quadros da balança de pagamentos externos e à verificação do cumprimento das disposições legais aplicáveis, princípios reguladores, determinações de natureza regulamentar e instruções técnicas previstas no artigo 11.º
 
 2 - Além dos elementos referidos no anterior n.º 1, o Banco de Portugal pode determinar a prestação de quaisquer outras informações que considere necessárias.
 
-###### Art. 13.º - 1 - A inclusão em boletins ou relatórios de instituições de crédito ou parabancárias ou de quaisquer entidades e serviços públicos, com exclusão do Instituto Nacional de Estatística e do Instituto do Investimento Estrangeiro, de informações sobre matéria cambial que directamente respeitem à economia nacional fica sujeita a autorização do Ministro das Finanças e do Plano, a solicitar através do Banco de Portugal.
+Art. 13.º - 1 - A inclusão em boletins ou relatórios de instituições de crédito ou parabancárias ou de quaisquer entidades e serviços públicos, com exclusão do Instituto Nacional de Estatística e do Instituto do Investimento Estrangeiro, de informações sobre matéria cambial que directamente respeitem à economia nacional fica sujeita a autorização do Ministro das Finanças e do Plano, a solicitar através do Banco de Portugal.
 
 2 - Não carecem de autorização as informações relativas a câmbios praticados no mercado nacional e a simples transcrição de elementos constantes de publicações do Ministério das Finanças e do Plano, do Banco de Portugal, do Instituto do Investimento Estrangeiro ou do Instituto Nacional de Estatística.
 
 3 - O Minisro das Finanças e do Plano pode delegar no Banco de Portugal a competência para as autorizações exigidas pelo presente artigo.
 
-###### Art. 14.º - 1 - É vedado às instituições de crédito e às instituições parabancárias:
+Art. 14.º - 1 - É vedado às instituições de crédito e às instituições parabancárias:
 
 a) Celebrar entre si, com instituições de crédito estrangeiras ou com outras entidades contratos ou acordos de que possa resultar uma situação de domínio sobre o mercado cambial ou alterações das condições normais do funcionamento deste;
 
@@ -266,19 +358,19 @@ b) Aceitar ou obter de residentes créditos em moeda estrangeira, nos casos expr
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 15.º - 1 - É proibida, salvo nos casos previstos no presente diploma, a realização de operações cambiais directamente por residentes não autorizados a exercer o comércio de câmbios.
+Art. 15.º - 1 - É proibida, salvo nos casos previstos no presente diploma, a realização de operações cambiais directamente por residentes não autorizados a exercer o comércio de câmbios.
 
 2 - Quando qualquer dos mencionados residentes adquira direitos ou fique constituído em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com a intervenção de uma instituição autorizada a exercer o comércio de câmbios.
 
 3 - Vindo qualquer dos aludidos residentes a receber do estrangeiro directamente meios de pagamento em moeda estrangeira em liquidação de operações de mercadorias, de invisíveis correntes ou de capitais, não poderá reter na sua posse esses meios de pagamento, devendo proceder à respectiva venda a instituição autorizada a exercer o comércio de câmbios.
 
-###### Art. 16.º A regra estabelecida no artigo 15.º não é aplicável:
+Art. 16.º A regra estabelecida no artigo 15.º não é aplicável:
 
 a) Ao saque, aceite e aval de letras, à subscrição e aval de livranças e à emissão e aceites de extractos de factura, bem como ao saque, emissão, aceite ou aval de outros títulos de análoga natureza;
 
 b) À emissão e pagamento de vales de correio internacionais.
 
-###### Art. 17.º - 1 - Na realização das operações cambiais devem, além das demais disposições regulamentares do presente diploma, ser observados os princípios reguladores e outras determinações constantes dos avisos previstos no n.º 2 do artigo 11.º e as instruções técnicas referidas no n.º 3 do mesmo artigo.
+Art. 17.º - 1 - Na realização das operações cambiais devem, além das demais disposições regulamentares do presente diploma, ser observados os princípios reguladores e outras determinações constantes dos avisos previstos no n.º 2 do artigo 11.º e as instruções técnicas referidas no n.º 3 do mesmo artigo.
 
 2 - As instituições autorizadas a exercer o comércio de câmbios, salvo no caso previsto no n.º 5 do artigo 11.º, ficam obrigadas a praticar nas operações cambiais as taxas de câmbio fixadas pelo Banco de Portugal, nos termos previstos na alínea d) do n.º 1 do mencionado artigo 11.º, bem como a observar, quanto às contas em moeda estrangeira abertas nos seus livros, o regime de taxas e de pagamento de juros referido na alínea e) daquele n.º 1.
 
@@ -286,7 +378,7 @@ b) À emissão e pagamento de vales de correio internacionais.
 
 #### SECÇÃO II — Disposições especiais
 
-###### Art. 18.º - 1 - Mediante autorização especial do Banco de Portugal, empresas públicas ou privadas residentes em território nacional podem abrir, em seu nome, contas de disponibilidades à ordem, em moeda estrangeira, em instituições de crédito do estrangeiro.
+Art. 18.º - 1 - Mediante autorização especial do Banco de Portugal, empresas públicas ou privadas residentes em território nacional podem abrir, em seu nome, contas de disponibilidades à ordem, em moeda estrangeira, em instituições de crédito do estrangeiro.
 
 2 - São requisitos necessários para a concessão da autorização a importância ou a natureza de actividade da empresa, a relevância do quantitativo e da frequência das transacções com o estrangeiro, sendo ainda de atender à diversidade dos países com que as efectuem.
 
@@ -296,9 +388,9 @@ b) À emissão e pagamento de vales de correio internacionais.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 19.º No território da República Portuguesa, e sem prejuízo do disposto no artigo 3.º, o comércio de câmbios, por forma plena, só pode ser exercido pelos bancos comerciais, bancos de investimento, Caixa Geral de Depósitos e Crédito Predial Português.
+Art. 19.º No território da República Portuguesa, e sem prejuízo do disposto no artigo 3.º, o comércio de câmbios, por forma plena, só pode ser exercido pelos bancos comerciais, bancos de investimento, Caixa Geral de Depósitos e Crédito Predial Português.
 
-###### Art. 20.º - 1 - Poderão exercer o comércio de câmbios, por forma restrita, instituições de crédito não abrangidas pelo artigo 19.º e instituições parabancárias, desde que:
+Art. 20.º - 1 - Poderão exercer o comércio de câmbios, por forma restrita, instituições de crédito não abrangidas pelo artigo 19.º e instituições parabancárias, desde que:
 
 a) Sejam empresas públicas e nos respectivos diplomas constitutivos se preveja expressamente o exercício do comércio de câmbios e se definam quais as operações cambiais que, naquele exercício, a instituição pode efectuar;
 
@@ -310,7 +402,7 @@ c) Sejam empresas públicas ou empresas privadas que não reúnam, respectivamen
 
 3 - O Ministro das Finanças e do Plano pode, sob proposta do Banco de Portugal, estabelecer, por portaria, condicionalismos especiais ao exercício do comércio de câmbios pelas instituições referidas nas alíneas a) ou b) do n.º 1 do presente artigo e rever as condições do exercício desse comércio por instituições autorizadas a exercê-lo ao abrigo da alínea c) do mesmo n.º 1.
 
-###### Art. 21.º - 1 - As instituições de crédito abrangidas pelo artigo 19.º podem, mediante autorização especial do Banco de Portugal, abrir postos de câmbios nos seguintes locais:
+Art. 21.º - 1 - As instituições de crédito abrangidas pelo artigo 19.º podem, mediante autorização especial do Banco de Portugal, abrir postos de câmbios nos seguintes locais:
 
 a) Aeroportos civis;
 
@@ -336,13 +428,13 @@ a) Compra e venda de notas e moedas metálicas estrangeiras;
 
 b) Compra e venda de cheques de viagem ou títulos análogos.
 
-###### Art. 22.º As agências de viagens e turismo e as empresas hoteleiras, quando para tanto especialmente autorizadas pelo Banco de Portugal, podem efectuar a compra de notas e moedas metálicas estrangeiras e de cheques de viagem ou títulos análogos, mas sempre por conta de uma instituição de crédito abrangida pelo artigo 19.º
+Art. 22.º As agências de viagens e turismo e as empresas hoteleiras, quando para tanto especialmente autorizadas pelo Banco de Portugal, podem efectuar a compra de notas e moedas metálicas estrangeiras e de cheques de viagem ou títulos análogos, mas sempre por conta de uma instituição de crédito abrangida pelo artigo 19.º
 
 #### SECÇÃO II
 
 Do processo de autorização para o exercício do comércio de câmbios por forma restrita e para a abertura de postos de câmbios.
 
-###### Art. 23.º - 1 - As instituições de crédito e as instituições parabancárias referidas na alínea c) do n.º 1 do artigo 20.º que pretendam exercer o comércio de câmbios no território da República Portuguesa devem requerer ao Ministro das Finanças e do Plano, por intermédio do Banco de Portugal, a respectiva autorização.
+Art. 23.º - 1 - As instituições de crédito e as instituições parabancárias referidas na alínea c) do n.º 1 do artigo 20.º que pretendam exercer o comércio de câmbios no território da República Portuguesa devem requerer ao Ministro das Finanças e do Plano, por intermédio do Banco de Portugal, a respectiva autorização.
 
 2 - Nos requerimentos referidos no anterior n.º 1 devem indicar-se quais as operações cambiais que o requerente pretende praticar no exercício do comércio de câmbios.
 
@@ -352,13 +444,13 @@ Do processo de autorização para o exercício do comércio de câmbios por form
 
 5 - Não iniciada a actividade no prazo fixado ou, sendo caso disso, na prorrogação concedida, a autorização caduca, só podendo ser solicitada nova autorização decorrido 1 ano sobre a data em que tenha caducado a anterior.
 
-###### Art. 24.º - 1 - As instituições de crédito referidas no artigo 21.º que pretendam abrir, nos termos previstos no mesmo artigo, postos de câmbios, quer permanentes quer temporários, deverão solicitar a necessária autorização ao Banco de Portugal, justificando a conveniência da abertura do posto em causa.
+Art. 24.º - 1 - As instituições de crédito referidas no artigo 21.º que pretendam abrir, nos termos previstos no mesmo artigo, postos de câmbios, quer permanentes quer temporários, deverão solicitar a necessária autorização ao Banco de Portugal, justificando a conveniência da abertura do posto em causa.
 
 2 - A autorização exigida pelo artigo 22.º deverá ser igualmente solicitada ao Banco de Portugal, pela agência de turismo ou pela empresa hoteleira, conforme o caso, devendo o pedido ser acompanhado de declaração de concordância da instituição de crédito por conta da qual virão a ser efectuadas as operações cambiais admitidas no mesmo artigo 22.º
 
 #### SECÇÃO III — Do exercício do comércio de câmbios por forma plena
 
-###### Art. 25.º - 1 - As instituições de crédito abrangidas pelo artigo 19.º, e assim autorizadas a exercer o comércio de câmbios por forma plena, podem, no exercício desse comércio:
+Art. 25.º - 1 - As instituições de crédito abrangidas pelo artigo 19.º, e assim autorizadas a exercer o comércio de câmbios por forma plena, podem, no exercício desse comércio:
 
 a) Ter abertas em seu nome em instituições de crédito domiciliadas no estrangeiro contas de disponibilidades à ordem em moeda estrangeira;
 
@@ -376,7 +468,7 @@ c) Letras, livranças, extractos de factura ou outros títulos de crédito de an
 
 3 - Na movimentação das contas previstas na alínea a) do n.º 1 deste artigo, bem como na realização de operações sobre ouro ou notas e moedas metálicas estrangeiras ou relativas aos cheques e aos títulos de crédito referidos na alínea b) daquele n.º 1 e no n.º 2 também do presente artigo, será observado o disposto no artigo 17.º
 
-###### Art. 26.º - 1 - As referidas instituições de crédito, autorizadas a exercer o comércio de câmbios por forma plena, podem abrir nos seus livros contas estrangeiras à ordem, quer em moeda estrangeira quer em escudos.
+Art. 26.º - 1 - As referidas instituições de crédito, autorizadas a exercer o comércio de câmbios por forma plena, podem abrir nos seus livros contas estrangeiras à ordem, quer em moeda estrangeira quer em escudos.
 
 2 - Quando os titulares das contas estrangeiras não forem instituições de crédito, a abertura de tais contas fica sujeita a autorização especial do Banco de Portugal.
 
@@ -384,23 +476,23 @@ c) Letras, livranças, extractos de factura ou outros títulos de crédito de an
 
 4 - Na movimentação das contas estrangeiras de que sejam titulares instituições de crédito será observado o disposto no artigo 17.º, e tratando-se de conta estrangeira abrangida pelo anterior n.º 2, serão observados os termos e condições fixados pelo Banco de Portugal na respectiva autorização especial.
 
-###### Art. 27.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem, mediante autorização especial do Banco de Portugal, abrir nos seus livros contas nacionais, à ordem, em moeda estrangeira.
+Art. 27.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem, mediante autorização especial do Banco de Portugal, abrir nos seus livros contas nacionais, à ordem, em moeda estrangeira.
 
 2 - A movimentação das contas nacionais à ordem previstas no anterior n.º 1 será feita nos termos e condições fixados pelo Banco de Portugal na autorização especial exigida no mesmo n.º 1.
 
-###### Art. 28.º A faculdade conferida nos artigos 25.º a 27.º às instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena para a prática das operações ali previstas tem as limitações que resultem do estipulado em acordos de compensação e de pagamentos, bilaterais ou multilaterais, celebrados pelo Estado ou pelo Banco de Portugal, em seu próprio nome ou em nome do Estado e por conta e ordem deste, ou, ainda, em contratos celebrados pelas referidas entidades e que sirvam as mesmas finalidades daqueles acordos.
+Art. 28.º A faculdade conferida nos artigos 25.º a 27.º às instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena para a prática das operações ali previstas tem as limitações que resultem do estipulado em acordos de compensação e de pagamentos, bilaterais ou multilaterais, celebrados pelo Estado ou pelo Banco de Portugal, em seu próprio nome ou em nome do Estado e por conta e ordem deste, ou, ainda, em contratos celebrados pelas referidas entidades e que sirvam as mesmas finalidades daqueles acordos.
 
-###### Art. 29.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem, mediante autorização especial do Banco de Portugal e nas condições estabelecidas nessa autorização, aplicar parte dos saldos das contas em moeda estrangeira, referidas na alínea a) do n.º 1 do artigo 25.º, em operações a prazo não superior a 1 ano.
+Art. 29.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem, mediante autorização especial do Banco de Portugal e nas condições estabelecidas nessa autorização, aplicar parte dos saldos das contas em moeda estrangeira, referidas na alínea a) do n.º 1 do artigo 25.º, em operações a prazo não superior a 1 ano.
 
 2 - O pedido de autorização, dirigido ao Banco de Portugal, deverá ser acompanhado de informação sobre o total das disponibilidades, à vista e a curto prazo, em moeda estrangeira da instituição de crédito solicitante.
 
-###### Art. 30.º As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem, mediante autorização especial do Banco de Portugal, acordar com os titulares das contas estrangeiras referidas no artigo 26.º ou das contas nacionais previstas no artigo 27.º a aplicação da totalidade eu de parte dos respectivos saldos em depósito na mesma moeda em que as contas forem expressas com pré-aviso ou a prazo não superior a 1 ano ou em operações de outra natureza, mas igualmente na mesma moeda e também por prazo não superior a 1 ano.
+Art. 30.º As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem, mediante autorização especial do Banco de Portugal, acordar com os titulares das contas estrangeiras referidas no artigo 26.º ou das contas nacionais previstas no artigo 27.º a aplicação da totalidade eu de parte dos respectivos saldos em depósito na mesma moeda em que as contas forem expressas com pré-aviso ou a prazo não superior a 1 ano ou em operações de outra natureza, mas igualmente na mesma moeda e também por prazo não superior a 1 ano.
 
-###### Art. 31.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem, nos termos de aviso do Banco de Portugal, efectuar entre si a cedência de disponibilidades em moeda estrangeira representadas por saldos das contas referidas na alínea a) do n.º 1 do artigo 25.º
+Art. 31.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem, nos termos de aviso do Banco de Portugal, efectuar entre si a cedência de disponibilidades em moeda estrangeira representadas por saldos das contas referidas na alínea a) do n.º 1 do artigo 25.º
 
 2 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena podem efectuar entre si e com outras instituições de crédito ou parabancárias autorizadas a exercer o comércio de câmbios, ainda que por forma restrita, a cedência de disponibilidades em notas ou moedas metálicas estrangeiras com curso legal nos respectivos países de emissão.
 
-###### Art. 32.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena, salvo nos casos de autorizações que lhes sejam concedidas nos termos das disposições legais reguladoras das operações de importação e exportação de capitais, não podem adquirir nem possuir haveres em moeda estrangeira pagáveis em prazo superior a 1 ano.
+Art. 32.º - 1 - As instituições de crédito autorizadas a exercer o comércio de câmbios por forma plena, salvo nos casos de autorizações que lhes sejam concedidas nos termos das disposições legais reguladoras das operações de importação e exportação de capitais, não podem adquirir nem possuir haveres em moeda estrangeira pagáveis em prazo superior a 1 ano.
 
 2 - O disposto no anterior n.º 1 não é aplicável aos títulos estrangeiros que as aludidas instituições de crédito já possuíam em 17 de Novembro de 1962.
 
@@ -408,11 +500,11 @@ c) Letras, livranças, extractos de factura ou outros títulos de crédito de an
 
 #### SECÇÃO IV — Do exercício do comércio de câmbios por forma restrita
 
-###### Art. 33.º - 1 - As instituições de crédito e parabancárias referidas no artigo 20.º e autorizadas, de acordo com o mesmo artigo, a exercer o comércio de câmbios por forma restrita ficam sujeitas, no exercício desse comércio, às condições e limites estabelecidos nos diplomas legais ali mencionados ou na autorização especial concedida pelo Ministro das Finanças e do Plano e nas portarias previstas no n.º 3 do mesmo artigo 20.º
+Art. 33.º - 1 - As instituições de crédito e parabancárias referidas no artigo 20.º e autorizadas, de acordo com o mesmo artigo, a exercer o comércio de câmbios por forma restrita ficam sujeitas, no exercício desse comércio, às condições e limites estabelecidos nos diplomas legais ali mencionados ou na autorização especial concedida pelo Ministro das Finanças e do Plano e nas portarias previstas no n.º 3 do mesmo artigo 20.º
 
 2 - O disposto nos artigos 25.º a 31.º é aplicável ao exercício do comércio de câmbios por forma restrita, na medida em que os diplomas legais referidos no anterior n.º 1 e as autorizações e despachos mencionados no mesmo número permitirem a realização das operações reguladas naqueles artigos sem imposição ou admissão de condicionalismos especiais.
 
-###### Art. 34.º - 1 - As instituições de crédito não autorizadas a exercer o comércio de câmbios podem ser especialmente autorizadas pelo Banco de Portugal a realizar directamente operações cambiais necessárias à execução de contratos por elas celebrados e que envolvam operações de crédito externo.
+Art. 34.º - 1 - As instituições de crédito não autorizadas a exercer o comércio de câmbios podem ser especialmente autorizadas pelo Banco de Portugal a realizar directamente operações cambiais necessárias à execução de contratos por elas celebrados e que envolvam operações de crédito externo.
 
 2 - O disposto no anterior n.º 1 é aplicável a instituições de crédito e às instituições parabancárias autorizadas a exercer o comércio de câmbios por forma restrita relativamente a operações cambiais não compreendidas nessa autorização, uma vez que se verifique o condicionalismo exigido pelo mesmo n.º 1.
 
@@ -422,21 +514,21 @@ c) Letras, livranças, extractos de factura ou outros títulos de crédito de an
 
 ### CAPÍTULO V — Das compensações e outras formas excepcionais de regularização de transacções com o estrangeiro
 
-###### Art. 35.º Sem prejuízo de regime excepcional admitido por lei, e salvo nos casos expressamente previstos no artigo seguinte, é vedada a regularização, total ou parcial, das transacções de mercadorias de invisíveis correntes ou de capitais por compensação com créditos ou débitos decorrentes de transacções de idêntica ou diferente natureza.
+Art. 35.º Sem prejuízo de regime excepcional admitido por lei, e salvo nos casos expressamente previstos no artigo seguinte, é vedada a regularização, total ou parcial, das transacções de mercadorias de invisíveis correntes ou de capitais por compensação com créditos ou débitos decorrentes de transacções de idêntica ou diferente natureza.
 
-###### Art. 36.º - 1 - A compensação poderá fazer-se, total ou parcialmente, para regularização das transacções referidas no artigo anterior, quando autorizada especialmente pelo Ministro das Finanças e do Plano, sob o parecer do Banco de Portugal.
+Art. 36.º - 1 - A compensação poderá fazer-se, total ou parcialmente, para regularização das transacções referidas no artigo anterior, quando autorizada especialmente pelo Ministro das Finanças e do Plano, sob o parecer do Banco de Portugal.
 
 2 - Se, nas transacções a regularizar, se compreender alguma a que corresponda importação de capitais que, nos termos da legislação aplicável, seja considerada investimento directo estrangeiro, o Banco de Portugal solicitará o parecer do Instituto do Investimento Estrangeiro.
 
 3 - O Ministro das Finanças e do Plano pode delegar no Banco de Portugal a competência prevista no n.º 1.
 
-###### Art. 37.º - 1 - Qualquer entidade, pública ou privada, que, não sendo instituição de crédito, reúna os requisitos indicados no n.º 2 do presente artigo pode, mediante autorização especial nos termos dos n.os 1 e 3 do artigo 36.º, beneficiar do regime previsto no presente artigo e no artigo 38.º
+Art. 37.º - 1 - Qualquer entidade, pública ou privada, que, não sendo instituição de crédito, reúna os requisitos indicados no n.º 2 do presente artigo pode, mediante autorização especial nos termos dos n.os 1 e 3 do artigo 36.º, beneficiar do regime previsto no presente artigo e no artigo 38.º
 
 2 - São requisitos necessários para a concessão da autorização que a mesma seja justificada pela natureza, características e relevância da actividade principal da entidade solicitante, importância e frequência das transacções com o estrangeiro, sendo ainda de atender à diversidade dos países com que as efectue.
 
 3 - Em casos especiais, e desde que se mostre recomendável ou conveniente para a fiscalização das operações que realizem, pode o Ministro das Finanças e do Plano, por despacho e sob proposta do Banco de Portugal, determinar a aplicação do mencionado regime a quaisquer entidades públicas ou privadas. Tratando-se de entidade pública, deverá ser ouvido o ministro da tutela.
 
-###### Art. 38.º - 1 - A autorização especial prevista no n.º 1 do artigo anterior poderá compreender a abertura de contas à ordem, quer em escudos quem em moeda estrangeira, em instituições de crédito autorizadas a exercer o comércio de câmbios em território nacional, bem como de contas à ordem em moeda estrangeira em instituições de crédito no estrangeiro.
+Art. 38.º - 1 - A autorização especial prevista no n.º 1 do artigo anterior poderá compreender a abertura de contas à ordem, quer em escudos quem em moeda estrangeira, em instituições de crédito autorizadas a exercer o comércio de câmbios em território nacional, bem como de contas à ordem em moeda estrangeira em instituições de crédito no estrangeiro.
 
 2 - Sem prejuízo das disposições aplicáveis às transacções de mercadorias, de invisíveis correntes e de capitais, podem tais transacções, quando nelas sejam intervenientes titulares das contas referidas no anterior n.º 1, ser, total ou parcialmente, regularizadas por intermédio das mesmas contas.
 
@@ -452,21 +544,21 @@ c) Letras, livranças, extractos de factura ou outros títulos de crédito de an
 
 Da importação, exportação ou reexportação de ouro, notas e moedas metálicas, títulos de acções ou obrigações ou outros de dívida.
 
-###### Art. 39.º - 1 - A importação e a exportação ou reexportação de ouro amoedado ou em barra, ou em outra forma não trabalhada, para fins monetários ou industriais estão sujeitas a autorização especial do Banco de Portugal, na qual se definirá a forma de regularização da operação.
+Art. 39.º - 1 - A importação e a exportação ou reexportação de ouro amoedado ou em barra, ou em outra forma não trabalhada, para fins monetários ou industriais estão sujeitas a autorização especial do Banco de Portugal, na qual se definirá a forma de regularização da operação.
 
 2 - Obtida a referida autorização, a importação ou a exportação ou reexportação de ouro só podem ser efectuadas por intermédio do Banco de Portugal.
 
 3 - Fica igualmente sujeito à autorização do Banco de Portugal, nas condições e termos por este determinados, o trânsito internacional de ouro amoedado ou em barra no território nacional.
 
-###### Art. 40.º - 1 - São livres, no território nacional, a importação e a exportação ou reexportação de notas e moedas metálicas estrangeiras com curso legal nos respectivos países de emissão, bem como de outros meios de pagamento em moeda estrangeira, incluindo cheques de viagem, quando forem transportados por viajantes e se destinem ao pagamento de despesas de viagem ou de turismo.
+Art. 40.º - 1 - São livres, no território nacional, a importação e a exportação ou reexportação de notas e moedas metálicas estrangeiras com curso legal nos respectivos países de emissão, bem como de outros meios de pagamento em moeda estrangeira, incluindo cheques de viagem, quando forem transportados por viajantes e se destinem ao pagamento de despesas de viagem ou de turismo.
 
 2 - Em circunstâncias especiais da conjuntura cambial, pode o Ministro das Finanças e do Plano, sob proposta do Banco de Portugal, estabelecer, por portaria, restrições ou outros condicionalismos às operações referidas no anterior n.º 1.
 
-###### Art. 41.º - 1 - São livres a importação e a exportação ou reexportação de notas com curso legal em território nacional, bem como a importação de moedas metálicas em circulação no mesmo território, de cheques em escudos emitidos por instituições de crédito do estrangeiro e cheques de viagem com análogo condicionalismo, quando umas e outros forem transportados por viajantes e se destinem ao pagamento de despesas de viagem ou de turismo.
+Art. 41.º - 1 - São livres a importação e a exportação ou reexportação de notas com curso legal em território nacional, bem como a importação de moedas metálicas em circulação no mesmo território, de cheques em escudos emitidos por instituições de crédito do estrangeiro e cheques de viagem com análogo condicionalismo, quando umas e outros forem transportados por viajantes e se destinem ao pagamento de despesas de viagem ou de turismo.
 
 2 - Em circunstâncias especiais da conjuntura cambial, pode o Ministro das Finanças e do Plano, sob proposta do Banco de Portugal, estabelecer, por portaria, restrições ou outros condicionalismos às operações mencionadas no número anterior.
 
-###### Art. 42.º - 1 - Fora dos casos indicados nos artigos 40.º e 41.º, a importação e a exportação ou reexportação de notas e moedas metálicas estrangeiras com curso legal nos respectivos países de emissão, bem como de notas com curso legal em território nacional, e ainda de outros meios de pagamento referidos naqueles artigos, só podem ser feitas por instituições autorizadas a exercer o comércio de câmbios e mediante autorização especial do Banco de Portugal.
+Art. 42.º - 1 - Fora dos casos indicados nos artigos 40.º e 41.º, a importação e a exportação ou reexportação de notas e moedas metálicas estrangeiras com curso legal nos respectivos países de emissão, bem como de notas com curso legal em território nacional, e ainda de outros meios de pagamento referidos naqueles artigos, só podem ser feitas por instituições autorizadas a exercer o comércio de câmbios e mediante autorização especial do Banco de Portugal.
 
 2 - O Banco de Portugal, nas autorizações que conceder, definirá os termos e condições a observar quanto às sobreditas importações e exportações ou reexportações, designadamente no respeitante à correspondente liquidação.
 
@@ -474,19 +566,19 @@ Da importação, exportação ou reexportação de ouro, notas e moedas metálic
 
 4 - Em circunstâncias especiais da conjuntura cambial, pode o Ministro das Finanças e do Plano, sob proposta do Banco de Portugal, estabelecer, por portaria, restrições e outros condicionalismos às importações, abrangidas pelo n.º 1 do presente artigo, de notas do Banco de Portugal.
 
-###### Art. 43.º - 1 - A importação e a exportação ou reexportação, fora dos casos abrangidos pelo artigo 41.º, de moedas metálicas portuguesas em circulação só são permitidas mediante autorização especial do Banco de Portugal.
+Art. 43.º - 1 - A importação e a exportação ou reexportação, fora dos casos abrangidos pelo artigo 41.º, de moedas metálicas portuguesas em circulação só são permitidas mediante autorização especial do Banco de Portugal.
 
 2 - Ficam igualmente sujeitas a autorização especial do Banco de Portugal a importação e a exportação ou reexportação de notas e moedas metálicas portuguesas fora da circulação.
 
 3 - A exportação ou reexportação das notas e moedas metálicas referidas nos números anteriores só poderão ser autorizadas desde que para fins numismáticos ou de reconhecido interesse turístico ou quando a particular natureza do caso concreto o justifique.
 
-###### Art. 44.º - 1 - A importação e a exportação ou reexportação de acções de sociedades, nacionais ou estrangeiras, e de títulos de obrigação, nacionais ou estrangeiros, quer da dívida pública ou equiparados quer emitidos por organismos internacionais ou por empresas públicas ou privadas, são livres quando respeitam a operações de capitais realizadas de harmonia com o disposto na legislação aplicável.
+Art. 44.º - 1 - A importação e a exportação ou reexportação de acções de sociedades, nacionais ou estrangeiras, e de títulos de obrigação, nacionais ou estrangeiros, quer da dívida pública ou equiparados quer emitidos por organismos internacionais ou por empresas públicas ou privadas, são livres quando respeitam a operações de capitais realizadas de harmonia com o disposto na legislação aplicável.
 
 2 - São igualmente livres a importação e a exportação ou reexportação de letras, livranças, extractos de factura e outros títulos de crédito de análoga natureza, bem como de cupões de títulos nacionais ou estrangeiros, desde que efectuadas por instituições de crédito ou parabancárias autorizadas a exercer o comércio de câmbios e de conformidade com as respectivas determinações e instruções técnicas do Banco de Portugal.
 
 3 - Fora dos casos previstos nos anteriores n.os 1 e 2, a importação e a exportação ou reexportação dos títulos e cupões ali referidos estão sujeitas a autorização especial do Banco de Portugal.
 
-###### Art. 45.º - 1 - A importação bem como a exportação de cheques em moeda estrangeira é livre, desde que se verifiquem, respectivamente, os requisitos seguintes:
+Art. 45.º - 1 - A importação bem como a exportação de cheques em moeda estrangeira é livre, desde que se verifiquem, respectivamente, os requisitos seguintes:
 
 a) Os cheques a importar se destinem à liquidação de operações de mercadorias, de invisíveis correntes ou de capitais, realizadas de harmonia com a legislação aplicável;
 
@@ -494,7 +586,7 @@ b) Os cheques a exportar sejam emitidos por instituições de crédito ou paraba
 
 2 - Aos cheques importados nos termos previstos no n.º 1 do presente artigo é aplicável o disposto no n.º 3 do artigo 15.º
 
-###### Art. 46.º - 1 - Os serviços alfandegários não efectuarão o despacho de encomendas ou de quaisquer espécies de remessas quando haja menção de conterem notas ou moedas metálicas em circulação num país estrangeiro ou de notas ou moedas metálicas portuguesas, em circulação ou fora da circulação, bem como de títulos de crédito ou cupões, referidos no artigo 44.º sem que lhes seja apresentada a autorização exigida, respectivamente, nos artigos 42.º 43.º e 44.º ou, se for caso disso, prova de que se trata de movimentação de títulos respeitantes a operações de capitais realizadas de harmonia com a legislação aplicável.
+Art. 46.º - 1 - Os serviços alfandegários não efectuarão o despacho de encomendas ou de quaisquer espécies de remessas quando haja menção de conterem notas ou moedas metálicas em circulação num país estrangeiro ou de notas ou moedas metálicas portuguesas, em circulação ou fora da circulação, bem como de títulos de crédito ou cupões, referidos no artigo 44.º sem que lhes seja apresentada a autorização exigida, respectivamente, nos artigos 42.º 43.º e 44.º ou, se for caso disso, prova de que se trata de movimentação de títulos respeitantes a operações de capitais realizadas de harmonia com a legislação aplicável.
 
 2 - Os serviços dos Correios e Telecomunicações de Portugal não farão o registo de encomendas, caixas ou correspondência nem farão a entrega ao destinatário das mesmas encomendas, caixas ou correspondência contendo, como valor declarado, as notas ou moedas ou os meios de pagamento, títulos de crédito ou cupões mencionados no número anterior sem que, no primeiro caso, os remetentes, e, no segundo, os destinatários, façam prova de autorização concedida ou, se for caso disso, de se tratar de movimentação de títulos respeitantes a operações de capitais realizadas de harmonia com a citada legislação aplicável.
 
@@ -502,13 +594,13 @@ b) Os cheques a exportar sejam emitidos por instituições de crédito ou paraba
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 47.º - 1 - As infracções ao disposto no presente diploma, nos princípios reguladores e demais avisos e instruções nele previstos são puníveis nos termos do diploma que regular as infracções nos domínios monetário, financeiro e cambial.
+Art. 47.º - 1 - As infracções ao disposto no presente diploma, nos princípios reguladores e demais avisos e instruções nele previstos são puníveis nos termos do diploma que regular as infracções nos domínios monetário, financeiro e cambial.
 
 2 - A importação de ouro com inobservância do estabelecido no artigo 39.º é, de acordo com o determinado no [Decreto-Lei n.º 32078](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32078-1942-315957), de 11 de Junho de 1942, considerada delito de contrabando e punida nos termos do contencioso aduaneiro.
 
 3 - A exportação de moedas metálicas portuguesas fora da circulação, com infracção do disposto no artigo 43.º, continua a ser punível nos termos do artigo 3.º do [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.
 
-###### Art. 48.º - 1 - A intervenção em letras, livranças ou cheques, quando constitua infracção ao regime cambial, será punível como se dispõe no artigo 47.º, sem prejuízo de validade das obrigações cambiárias assumidas com a aludida intervenção.
+Art. 48.º - 1 - A intervenção em letras, livranças ou cheques, quando constitua infracção ao regime cambial, será punível como se dispõe no artigo 47.º, sem prejuízo de validade das obrigações cambiárias assumidas com a aludida intervenção.
 
 2 - Nos casos abrangidos pelo n.º 1, as transferências para o exterior das importâncias correspondentes às obrigações ali referidas ficam sujeitas a autorização do Banco de Portugal.
 
@@ -516,7 +608,7 @@ b) Os cheques a exportar sejam emitidos por instituições de crédito ou paraba
 
 4 - Sendo negada a autorização para a transferência, o Banco de Portugal especificará quais as utilizações admitidas para as importâncias cuja transferência não foi autorizada.
 
-###### Art. 49.º - 1 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 47.º, são revogados os seguintes diplomas:
+Art. 49.º - 1 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 47.º, são revogados os seguintes diplomas:
 
 [Decreto n.º 7104](https://diariodarepublica.pt/dr/detalhe/decreto/7104-1920-392828), de 12 de Novembro de 1920;
 
@@ -542,21 +634,21 @@ Decreto-Lei n.º 544/73, de 24 de Outubro;
 
 2 - São também revogados os seguintes preceitos legais:
 
-###### Artigo 4.º do [Decreto-Lei n.º 32648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32648-1943-598080), de 29 de Janeiro de 1943;
+Artigo 4.º do [Decreto-Lei n.º 32648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32648-1943-598080), de 29 de Janeiro de 1943;
 
-###### Artigo 8.º do [Decreto-Lei n.º 47920](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47920-1967-390783), de 18 de Setembro de 1967;
+Artigo 8.º do [Decreto-Lei n.º 47920](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47920-1967-390783), de 18 de Setembro de 1967;
 
-###### Artigo 28.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969;
+Artigo 28.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969;
 
-###### Artigo 5.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro;
+Artigo 5.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro;
 
-###### Artigo 4.º do [Decreto-Lei n.º 1/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1975-300811), de 2 de Janeiro.
+Artigo 4.º do [Decreto-Lei n.º 1/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1975-300811), de 2 de Janeiro.
 
 3 - A remissão para disposições do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, e de demais diplomas revogados pelo presente decreto-lei bem como as referências a tais disposições consideram-se feitas para os preceitos correspondentes deste último decreto-lei.
 
-###### Art. 50.º Até à publicação da legislação e da regulamentação prevista no presente diploma, mantêm-se em vigor as disposições regulamentares que, tendo por objecto matérias nele reguladas, não sejam incompatíveis com os seus preceitos.
+Art. 50.º Até à publicação da legislação e da regulamentação prevista no presente diploma, mantêm-se em vigor as disposições regulamentares que, tendo por objecto matérias nele reguladas, não sejam incompatíveis com os seus preceitos.
 
-###### Art. 51.º - 1 - Encontrando-se, na data da publicação do presente diploma, abertas, em instituições de crédito e ao abrigo do [Decreto-Lei n.º 353-O/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-o-1977-240859), de 29 de Agosto, contas estrangeiras de depósito com pré-aviso ou a prazo em moedas estrangeiras, aquelas instituições deverão acordar com os titulares das contas no levantamento dos depósitos, ou, mediante autorização do Banco de Portugal, na transformação em depósitos à ordem ou na sujeição dos mesmos depósitos ao regime do artigo 30.º
+Art. 51.º - 1 - Encontrando-se, na data da publicação do presente diploma, abertas, em instituições de crédito e ao abrigo do [Decreto-Lei n.º 353-O/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-o-1977-240859), de 29 de Agosto, contas estrangeiras de depósito com pré-aviso ou a prazo em moedas estrangeiras, aquelas instituições deverão acordar com os titulares das contas no levantamento dos depósitos, ou, mediante autorização do Banco de Portugal, na transformação em depósitos à ordem ou na sujeição dos mesmos depósitos ao regime do artigo 30.º
 
 2 - O acordo com o titular da conta previsto no anterior n.º 1 deverá estar concluído:
 
@@ -566,24 +658,24 @@ b) Tratando-se de depósito a prazo, até final do período que estiver em curso
 
 3 - Se a instituição de crédito em cujos livros se encontrar aberta a conta de depósito não for das autorizadas a exercer o comércio de câmbios por forma plena, a manutenção do depósito nos termos previstos nos anteriores n.os 1 e 2 só poderá verificar-se com transferência do mesmo depósito para instituição de crédito autorizada a exercer o comércio de câmbios por forma plena.
 
-###### Art. 52.º As instituições de crédito abrangidas pelo artigo 19.º e a que, pelo [Decreto-Lei n.º 747/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/747-1976-409694), de 18 de Outubro, não foi dispensada a prestação da caução deverão requerer ao Banco de Portugal, no prazo de 60 dias, a contar da data da publicação do presente diploma, a devolução das cauções prestadas, nos termos do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, ou de diplomas anteriores que exigiam a dita caução para o exercício do comércio de câmbios.
+Art. 52.º As instituições de crédito abrangidas pelo artigo 19.º e a que, pelo [Decreto-Lei n.º 747/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/747-1976-409694), de 18 de Outubro, não foi dispensada a prestação da caução deverão requerer ao Banco de Portugal, no prazo de 60 dias, a contar da data da publicação do presente diploma, a devolução das cauções prestadas, nos termos do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, ou de diplomas anteriores que exigiam a dita caução para o exercício do comércio de câmbios.
 
-###### Art. 53.º - 1 - As instituições de crédito que, cumulativamente, não sejam das autorizadas, conforme o artigo 19.º, a exercer o comércio de câmbios por forma plena nem se encontrem em qualquer das situações previstas nas alíneas a) ou b) do n.º 1 do artigo 20.º e tenham vindo a exercer o comércio de câmbios, mesmo por forma restrita, no caso de pretenderem continuar a exercer esse comércio, devem, no prazo de 90 dias a contar da publicação do presente diploma, requerê-lo nos termos estabelecidos no artigo 23.º
+Art. 53.º - 1 - As instituições de crédito que, cumulativamente, não sejam das autorizadas, conforme o artigo 19.º, a exercer o comércio de câmbios por forma plena nem se encontrem em qualquer das situações previstas nas alíneas a) ou b) do n.º 1 do artigo 20.º e tenham vindo a exercer o comércio de câmbios, mesmo por forma restrita, no caso de pretenderem continuar a exercer esse comércio, devem, no prazo de 90 dias a contar da publicação do presente diploma, requerê-lo nos termos estabelecidos no artigo 23.º
 
 2 - Sendo as referidas instituições de crédito autorizadas a exercer o comércio de câmbios, ficam sujeitas ao regime previsto nos n.os 2 e 3 do artigo 20.º e ao estabelecido no artigo 33.º devendo as mesmas instituições adaptar a sua actividade ao dito regime e ao estabelecido no mencionado artigo 33.º no prazo de 90 dias a contar da publicação da portaria de autorização.
 
 3 - Vindo a autorização a ser negada ou não sendo pedida, a instituição deve cessar toda a actividade do exercício do comércio de câmbios no prazo de 90 dias, a contar, respectivamente, da publicação do despacho do indeferimento ou da publicação do presente diploma.
 
-###### Art. 54.º Às instituições de crédito que tenham vindo a exercer o comércio de câmbios, mesmo por forma restrita, e que se encontram abrangidas pela alínea a) ou pela alínea b), ambas do n.º 1 do artigo 20.º, passa a ser aplicável o disposto nos n.os 2 e 3 desse artigo e no artigo 33.º, devendo essas instituições de crédito adaptar a sua actividade ao regime exercício do comércio de câmbios no prazo de 90 dias, a contar da publicação do presente diploma.
+Art. 54.º Às instituições de crédito que tenham vindo a exercer o comércio de câmbios, mesmo por forma restrita, e que se encontram abrangidas pela alínea a) ou pela alínea b), ambas do n.º 1 do artigo 20.º, passa a ser aplicável o disposto nos n.os 2 e 3 desse artigo e no artigo 33.º, devendo essas instituições de crédito adaptar a sua actividade ao regime exercício do comércio de câmbios no prazo de 90 dias, a contar da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 29 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 29 de Abril de 1983.**
+Promulgado em 29 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Maio de 1983.**
+Referendado em 5 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

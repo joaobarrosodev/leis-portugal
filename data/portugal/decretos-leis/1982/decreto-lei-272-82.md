@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15900/20842085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1982-394770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de1adfedbfb50a415b2ab7a5f7c34b0af6106b88695832bdc514982aae2e7743
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d9d6a0496214d2a07626d4710bc29e7506a526c7f8ad84f6a90e2bdec58f41a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Pessoal
+- Indep
+- Indústria de Armamento
+- Pessoal Civil
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:457672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678219:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:396675:por
+  label: Retificado, pelo(a) Declaração - Diário da República n.º 198/1982, Série I de 1982-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-396675
+  date: '1982-08-27'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:14Z'
   warnings: []
   errors: []
 ---
@@ -102,26 +124,26 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Estatuto do Pessoal Civil de Indústrias Nacionais de Defesa, E. P., abreviadamente designada INDEP, constará de regulamentos especiais a elaborar pela empresa, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma, e que deverão ser aprovados pelo Ministro da Defesa Nacional, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros do Trabalho e dos Assuntos Sociais, nos termos do regime jurídico que estabelece as bases gerais das empresas públicas.
+Artigo 1.º O Estatuto do Pessoal Civil de Indústrias Nacionais de Defesa, E. P., abreviadamente designada INDEP, constará de regulamentos especiais a elaborar pela empresa, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma, e que deverão ser aprovados pelo Ministro da Defesa Nacional, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros do Trabalho e dos Assuntos Sociais, nos termos do regime jurídico que estabelece as bases gerais das empresas públicas.
 
-###### Art. 2.º - 1 - Com as ressalvas constantes do número seguinte, o Estatuto do Pessoal Civil é aplicável também ao pessoal a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, que não exerça o direito de opção previsto no n.º 2 do mesmo artigo.
+Art. 2.º - 1 - Com as ressalvas constantes do número seguinte, o Estatuto do Pessoal Civil é aplicável também ao pessoal a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, que não exerça o direito de opção previsto no n.º 2 do mesmo artigo.
 
 2 - A extensão determinada no número anterior não prejudica a manutenção, para o pessoal a que se aplica, dos regimes disciplinar, tributário, de aposentação ou reforma, de previdência e de diuturnidades de que vêm usufruindo, continuando este mesmo pessoal a ser obrigatoriamente subscritor da Caixa Geral de Aposentações.
 
 3 - As normas estatutárias que estabeleçam ou regulamentem regimes de natureza ou finalidade análogas aos contantes do número anterior não serão aplicáveis ao pessoal que a mesma disposição contempla.
 
-###### Art. 3.º O pessoal a que se refere o artigo 2.º auferirá vencimentos e salários, subsídios e gratificações de valor igual aos auferidos, líquidos, pelo pessoal de idêntica categoria plenamente abrangido pelo estatuto previsto no artigo 1.º
+Art. 3.º O pessoal a que se refere o artigo 2.º auferirá vencimentos e salários, subsídios e gratificações de valor igual aos auferidos, líquidos, pelo pessoal de idêntica categoria plenamente abrangido pelo estatuto previsto no artigo 1.º
 
-###### Art. 4.º O exercício da actividade sindical da INDEP regula-se por legislação própria, com os condicionalismos e limitações decorrentes da especial natureza das actividades prosseguidas pela empresa.
+Art. 4.º O exercício da actividade sindical da INDEP regula-se por legislação própria, com os condicionalismos e limitações decorrentes da especial natureza das actividades prosseguidas pela empresa.
 
-###### Art. 5.º O prazo estabelecido no n.º 3 do artigo 7.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, é prorrogado até 90 dias após a publicação do presente diploma.
+Art. 5.º O prazo estabelecido no n.º 3 do artigo 7.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, é prorrogado até 90 dias após a publicação do presente diploma.
 
-###### Art. 6.º São revogados o artigo 8.º e o n.º 2 do artigo 9.º, ambos do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, e o n.º 1 do artigo 43.º do Estatuto de Indústrias Nacionais de Defesa, E. P, aprovado por aquele diploma legal.
+Art. 6.º São revogados o artigo 8.º e o n.º 2 do artigo 9.º, ambos do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, e o n.º 1 do artigo 43.º do Estatuto de Indústrias Nacionais de Defesa, E. P, aprovado por aquele diploma legal.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Junho de 1982.**
+Promulgado em 30 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

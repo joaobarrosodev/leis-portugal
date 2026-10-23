@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 193/1985, 1º Suplemento, Série I de 1985-08-23
   number: '193'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2760-(1) a 2760-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1985-671639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcb672618a9b06de69a3472e14dfcffc22fd033236327d3aa8f438a1141d1952
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 356e73fe9cbc2830b2c35d3729e58ac98473a41e669fef4d84fe791dce147629
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carne
+- Comércio
+- Controlo Sanitário
+- Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:275602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:654081:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546405:por
+  label: Rectificado pela DECL.DD5215.28.12.1985.PCM, DR.IS [301]2ºSupl de 31.12.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-546405
+  date: '1985-12-28'
+- type: repealed_by
+  target: pt:dre:275602:por
+  label: Revogado pelo(a) Decreto-Lei n.º 178/93 - Diário da República n.º 110/1993, Série I-A de 1993-05-12, a partir da
+    data de entrada em vigor da Port prevista no art. 2.º desse diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1993-275602
+  date: '1993-05-12'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:26Z'
   warnings: []
   errors: []
 ---
@@ -115,37 +135,37 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos, que constitui parte integrante deste diploma.
+Artigo 1.º É aprovado o Regulamento de Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos, que constitui parte integrante deste diploma.
 
-###### Art. 2.º É revogada a legislação contrária às disposições constantes do citado Regulamento.
+Art. 2.º É revogada a legislação contrária às disposições constantes do citado Regulamento.
 
-###### Art. 3.º O presente diploma entra em vigor 90 dias após a sua publicação.
+Art. 3.º O presente diploma entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministro de 16 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral - Júlio Miranda Calha.
 
-**Promulgado em 4 de Junho de 1985.**
+Promulgado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Regulamento de Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A inspecção sanitária dos animais de talho ou reses, respectivas carnes, subprodutos e despojos, para consumo público, fica sujeita às disposições contidas neste Regulamento.
+Artigo 1.º A inspecção sanitária dos animais de talho ou reses, respectivas carnes, subprodutos e despojos, para consumo público, fica sujeita às disposições contidas neste Regulamento.
 
-###### Art. 2.º Compete à Direcção-Geral da Pecuária, na qualidade de autoridade nacional em matéria de inspecção sanitária, a superintendência técnica de harmonia com as disposições regulamentares constantes deste diploma.
+Art. 2.º Compete à Direcção-Geral da Pecuária, na qualidade de autoridade nacional em matéria de inspecção sanitária, a superintendência técnica de harmonia com as disposições regulamentares constantes deste diploma.
 
-###### Art. 3.º - 1 - Os médicos veterinários inspectores devem obediência às normas constantes deste Regulamento sempre que procedam à inspecção sanitária de animais das espécies comestíveis, das respectivas carnes, seus produtos e despojos.
+Art. 3.º - 1 - Os médicos veterinários inspectores devem obediência às normas constantes deste Regulamento sempre que procedam à inspecção sanitária de animais das espécies comestíveis, das respectivas carnes, seus produtos e despojos.
 
 2 - Tais normas aplicam-se tanto nos matadouros como em quaisquer outros locais de matança devidamente autorizados.
 
-###### Art. 4.º Neste Regulamento entende-se por:
+Art. 4.º Neste Regulamento entende-se por:
 
 a) Médico veterinário inspector - o médico veterinário, nomeado pelo serviço oficial competente, responsável pelo controle da higiene e pelas inspecções a que este Regulamento se refere;
 
@@ -197,13 +217,13 @@ v) Estabelecimento - toda a instalação, aprovada e registada pela autoridade c
 
 x) Carne fresca - a carne que não tenha sofrido nenhum tratamento de forma a assegurar a sua conservação; todavia, a carne tratada pelo frio é considerada como fresca para aplicação do presente Regulamento.
 
-###### Art. 5.º Na inspecção de reses e carnes que se destinam à exportação, além das normas prescritas neste Regulamento, serão observadas, sempre que possível, as disposições e regras sanitárias estabelecidas por lei no país importador, na parte aplicável.
+Art. 5.º Na inspecção de reses e carnes que se destinam à exportação, além das normas prescritas neste Regulamento, serão observadas, sempre que possível, as disposições e regras sanitárias estabelecidas por lei no país importador, na parte aplicável.
 
-###### Art. 6.º Nos casos omissos neste Regulamento e naqueles em que não é possível formular disposições para bem se determinar o maior ou menor grau de insalubridade das carnes, miudezas, subprodutos e despojos fica ao prudente arbítrio do médico veterinário inspector resolver sobre o destino a dar-lhes.
+Art. 6.º Nos casos omissos neste Regulamento e naqueles em que não é possível formular disposições para bem se determinar o maior ou menor grau de insalubridade das carnes, miudezas, subprodutos e despojos fica ao prudente arbítrio do médico veterinário inspector resolver sobre o destino a dar-lhes.
 
-###### Art. 7.º O processo que leva à definição do critério de inspecção começa com as decisões que têm de ser tomadas no local de admissão dos animais no matadouro, da retenção destes, quando necessária, para ulterior observação, e termina normalmente com a decisão final emitida após a inspecção post mortem, a menos que a inspecção ante mortem seja só por si suficiente para justificar a reprovação total.
+Art. 7.º O processo que leva à definição do critério de inspecção começa com as decisões que têm de ser tomadas no local de admissão dos animais no matadouro, da retenção destes, quando necessária, para ulterior observação, e termina normalmente com a decisão final emitida após a inspecção post mortem, a menos que a inspecção ante mortem seja só por si suficiente para justificar a reprovação total.
 
-###### Art. 8.º - 1 - Nos casos de suspeição e sempre que os resultados iniciais da inspecção ante e post mortem não permitam chegar à conclusão final, deverá ser tomada uma decisão provisória.
+Art. 8.º - 1 - Nos casos de suspeição e sempre que os resultados iniciais da inspecção ante e post mortem não permitam chegar à conclusão final, deverá ser tomada uma decisão provisória.
 
 2 - As carnes em tais condições deverão ser retidas para inspecção ulterior, inclusivamente até serem efectuados os exames laboratoriais, quando solicitados, e permanecerem sob vigilância da autoridade de inspecção até esta emitir a decisão definitiva.
 
@@ -211,15 +231,15 @@ x) Carne fresca - a carne que não tenha sofrido nenhum tratamento de forma a as
 
 4 - Também as carnes que tenham sido aprovadas condicionalmente deverão permanecer sob vigilância da autoridade de inspecção até que tenha sido aplicado o tratamento requerido sob supervisão oficial e serão reprovadas se tal tratamento não tiver sido aplicado conforme as condições impostas.
 
-###### Art. 9.º Só à autoridade de inspecção competirá assumir a responsabilidade por todas as decisões relativas à admissão dos animais de talho no matadouro, bem como pelas deliberações tomadas a seguir à inspecção ante mortem e post mortem.
+Art. 9.º Só à autoridade de inspecção competirá assumir a responsabilidade por todas as decisões relativas à admissão dos animais de talho no matadouro, bem como pelas deliberações tomadas a seguir à inspecção ante mortem e post mortem.
 
-###### Art. 10.º Incumbe à autoridade de inspecção diligenciar que o abate e subsequentes operações sejam efectuados segundo as boas regras de higiene e que o número de animais a abater não ultrapasse a capacidade limite compatível com o funcionamento higiénico do matadouro.
+Art. 10.º Incumbe à autoridade de inspecção diligenciar que o abate e subsequentes operações sejam efectuados segundo as boas regras de higiene e que o número de animais a abater não ultrapasse a capacidade limite compatível com o funcionamento higiénico do matadouro.
 
-###### Art. 11.º A direcção do matadouro é legalmente obrigada a seguir as instruções da autoridade de inspecção em matéria de requisitos de higiene, sendo também obrigada a prestar-lhe as informações e assistência que lhe sejam razoavelmente solicitadas.
+Art. 11.º A direcção do matadouro é legalmente obrigada a seguir as instruções da autoridade de inspecção em matéria de requisitos de higiene, sendo também obrigada a prestar-lhe as informações e assistência que lhe sejam razoavelmente solicitadas.
 
 ### CAPÍTULO II — Princípios relativos à admissão de animais de talho no matadouro
 
-###### Art. 12.º Quando um animal ou um conjunto de animais chega ao matadouro, o inspector decidirá, sem demora, se o animal ou o lote de animais:
+Art. 12.º Quando um animal ou um conjunto de animais chega ao matadouro, o inspector decidirá, sem demora, se o animal ou o lote de animais:
 
 1) Não deve ser admitido. Nestes termos, o transporte e o destino ulterior deverão ser regulados pela legislação nacional de sanidade animal, por forma a impedir a propagação de doenças contagiosas no meio ambiente do matadouro e nas zonas de produção. Se as circunstâncias forem de tal natureza que tornem impossível aquele transporte e a deslocação para zonas de quarentena sem pôr em perigo a saúde humana ou animal, os animais deverão ser admitidos para abate, mas submetidos a precauções e restrições especiais, ou deverão ser destruídos, consoante as situações;
 
@@ -227,7 +247,7 @@ x) Carne fresca - a carne que não tenha sofrido nenhum tratamento de forma a as
 
 3) Deve ser admitido para o abate normal.
 
-###### Art. 13.º A decisão referida no artigo anterior deverá basear-se nos seguintes critérios:
+Art. 13.º A decisão referida no artigo anterior deverá basear-se nos seguintes critérios:
 
 1) O animal ou o lote não deverá admitir-se:
 
@@ -247,13 +267,13 @@ c) Se os animais foram submetidos a um tratamento ou expostos a influências noc
 
 3) Em quaisquer outras circunstâncias, os animais serão admitidos para abate normal, sem restrições.
 
-###### Art. 14.º A autoridade de inspecção deverá tomar as medidas necessárias para garantir que se mantenha a identificação dos animais até ser emitido o critério post mortem definitivo.
+Art. 14.º A autoridade de inspecção deverá tomar as medidas necessárias para garantir que se mantenha a identificação dos animais até ser emitido o critério post mortem definitivo.
 
 ### CAPÍTULO III
 
 Inspecção «ante mortem»
 
-###### Art. 15.º - 1 - É obrigatório o exame em vida das reses destinadas ao abate para consumo, cada uma por si e por espécies.
+Art. 15.º - 1 - É obrigatório o exame em vida das reses destinadas ao abate para consumo, cada uma por si e por espécies.
 
 2 - A inspecção ante mortem será efectuada durante o período regulamentar de descanso que precede o abate, em locais apropriados, currais ou parques, os quais devem possuir, além dos necessários requisitos de higiene, condições de segurança para o pessoal que neles trabalhe.
 
@@ -265,7 +285,7 @@ Inspecção «ante mortem»
 
 6 - Todos os animais enviados ao matadouro por quaisquer motivos que não seja o abate normal serão obrigatoriamente acompanhados de um certificado, passado pelo clínico responsável, em que, além da identificação, se fará a história clínica dos mesmos animais.
 
-###### Art. 16.º - 1 - Todos os animais que entram no matadouro para abate devem ser nele abatidos.
+Art. 16.º - 1 - Todos os animais que entram no matadouro para abate devem ser nele abatidos.
 
 2 - Exceptuam-se os seguintes casos:
 
@@ -275,7 +295,7 @@ b) Os animais reprovados na inspecção ante mortem por causa de doença não co
 
 c) As excepções referidas nas alíneas anteriores só poderão ser autorizadas pelo médico veterinário inspector responsável desde que os animais não tenham contactado com outros tidos como atacados ou suspeitos de doença contagiosa.
 
-###### Art. 17.º - 1 - Os animais que, tendo sido abrangidos por campanha sanitária ou profiláctica determinada pela Direcção-Geral da Pecuária, dêem entrada no matadouro para serem abatidos, quer por decisão dos seus donos, quer por determinação dos serviços competentes, devem ser detidamente examinados pelo respectivo médico veterinário inspector, que anotará, além dos números e letras das marcas sanitárias, se as houver, os elementos de observação que colher.
+Art. 17.º - 1 - Os animais que, tendo sido abrangidos por campanha sanitária ou profiláctica determinada pela Direcção-Geral da Pecuária, dêem entrada no matadouro para serem abatidos, quer por decisão dos seus donos, quer por determinação dos serviços competentes, devem ser detidamente examinados pelo respectivo médico veterinário inspector, que anotará, além dos números e letras das marcas sanitárias, se as houver, os elementos de observação que colher.
 
 2 - Aprovados que sejam para abate, aqueles animais seguirão a ordem das operações de matança e preparação, sempre convenientemente identificados até final da inspecção post mortem.
 
@@ -283,13 +303,13 @@ c) As excepções referidas nas alíneas anteriores só poderão ser autorizadas
 
 4 - Da entrada, do abate e do resultado da inspecção sanitária dos referidos animais, devidamente identificados, das suas carnes e despojos prestarão os médicos veterinários inspectores informação completa à Direcção-Geral da Pecuária, de harmonia com as instruções emanadas da mesma.
 
-###### Art. 18.º O exame ante mortem visará essencialmente:
+Art. 18.º O exame ante mortem visará essencialmente:
 
 a) Verificar se o animal está atingido de qualquer doença que possa comprometer a salubridade das carnes;
 
 b) Verificar a existência de qualquer doença reputada legalmente contagiosa e de declaração obrigatória.
 
-###### Art. 19.º O exame ante mortem deve obedecer aos seguintes princípios:
+Art. 19.º O exame ante mortem deve obedecer aos seguintes princípios:
 
 a) Observação do estado geral;
 
@@ -305,13 +325,13 @@ f) Observação do aparelho respiratório, nomeadamente das características dos
 
 g) Observação do aparelho geniturinário, especialmente do estado da mama e do útero, e das características da urina.
 
-###### Art. 20.º É obrigatório não só verificar como registar as temperaturas dos animais de que se suspeite serem portadores de qualquer processo mórbido, o mesmo sucedendo em relação aos animais vítimas de acidentes ou estropiados.
+Art. 20.º É obrigatório não só verificar como registar as temperaturas dos animais de que se suspeite serem portadores de qualquer processo mórbido, o mesmo sucedendo em relação aos animais vítimas de acidentes ou estropiados.
 
-###### Art. 21.º Todo o animal que acusar hipertermia ou hipotermia ficará em observação, sob vigilância do médico veterinário inspector, o tempo necessário para se poderem efectuar os demais exames e leituras de temperatura julgados indispensáveis para ulterior resolução sobre o destino a dar-lhe.
+Art. 21.º Todo o animal que acusar hipertermia ou hipotermia ficará em observação, sob vigilância do médico veterinário inspector, o tempo necessário para se poderem efectuar os demais exames e leituras de temperatura julgados indispensáveis para ulterior resolução sobre o destino a dar-lhe.
 
-###### Art. 22.º O pessoal, utensílios e locais, especialmente nos casos de doenças iminentemente contagiosas, devem sofrer as desinfecções adequadas.
+Art. 22.º O pessoal, utensílios e locais, especialmente nos casos de doenças iminentemente contagiosas, devem sofrer as desinfecções adequadas.
 
-###### Art. 23.º - 1 - Todo o animal que tenha sido admitido no matadouro para abate normal deverá ser entregue para ocisão sem qualquer restrição quando a inspecção ante mortem tenha develado não existir nenhum indício de situações anormais ou de doença e sempre que o animal tenha tido o seu próprio repouso normal antes do abate.
+Art. 23.º - 1 - Todo o animal que tenha sido admitido no matadouro para abate normal deverá ser entregue para ocisão sem qualquer restrição quando a inspecção ante mortem tenha develado não existir nenhum indício de situações anormais ou de doença e sempre que o animal tenha tido o seu próprio repouso normal antes do abate.
 
 2 - Em caso contrário, dever-se-ão tomar as seguintes decisões:
 
@@ -349,11 +369,11 @@ II) Em casos de lesões traumáticas recentes produzidas por acidentes, para imp
 
 III) Nos casos de urgência, quando não se possa dispor, de forma imediata, dos serviços de um inspector, a matança de urgência poderá justificar-se inclusivamente sem submeter o animal à inspecção ante mortem.
 
-###### Art. 24.º A inspecção ante mortem será repetida se o inspector verificar que o exame do animal implica a avaliação razoável do seu estado de saúde ou se for necessário obter elementos complementares ou proceder a provas auxiliares de diagnóstico suplementar, ou se o abate não se processar nas 24 horas seguintes à inspecção ante mortem inicial. Durante este espaço de tempo o animal será isolado, nas condições fixadas pela autoridade de inspecção.
+Art. 24.º A inspecção ante mortem será repetida se o inspector verificar que o exame do animal implica a avaliação razoável do seu estado de saúde ou se for necessário obter elementos complementares ou proceder a provas auxiliares de diagnóstico suplementar, ou se o abate não se processar nas 24 horas seguintes à inspecção ante mortem inicial. Durante este espaço de tempo o animal será isolado, nas condições fixadas pela autoridade de inspecção.
 
-###### Art. 25.º O inspector pode decidir adiar o abate por motivos tais como uma doença aguda curável, um estado de gestação avançada ou ainda para deixar completar o intervalo de segurança após a administração de medicamentos. Esta decisão apenas será tomada se ela não comprometer a saúde humana ou animal. A inspecção ante mortem será repetida quando o animal é apresentado para abate.
+Art. 25.º O inspector pode decidir adiar o abate por motivos tais como uma doença aguda curável, um estado de gestação avançada ou ainda para deixar completar o intervalo de segurança após a administração de medicamentos. Esta decisão apenas será tomada se ela não comprometer a saúde humana ou animal. A inspecção ante mortem será repetida quando o animal é apresentado para abate.
 
-###### Art. 26.º - 1 - Segundo o resultado do exame ante mortem, serão as reses assinaladas da seguinte forma:
+Art. 26.º - 1 - Segundo o resultado do exame ante mortem, serão as reses assinaladas da seguinte forma:
 
 A - Aprovada;
 
@@ -369,19 +389,19 @@ T - Reacto-positivo à tuberculina, ou outros processos a especificar.
 
 3 - Não é permitido o uso de marcas a fogo.
 
-###### Art. 27.º Somente as reses aprovadas na inspecção ante mortem poderão ser admitidas à matança geral.
+Art. 27.º Somente as reses aprovadas na inspecção ante mortem poderão ser admitidas à matança geral.
 
-###### Art. 28.º - 1 - Os animais com afecções muito ligeiras, que reconhecidamente não afectem a carne, são abatidos nas condições normais, mas devem ser convenentemente assinalados com um S, como suspeitos, e sofrer uma inspecção post mortem particularmente cuidada.
+Art. 28.º - 1 - Os animais com afecções muito ligeiras, que reconhecidamente não afectem a carne, são abatidos nas condições normais, mas devem ser convenentemente assinalados com um S, como suspeitos, e sofrer uma inspecção post mortem particularmente cuidada.
 
 2 - No caso de se manterem as dúvidas, é obrigatório recorrer-se ao exame microbiológico das carnes.
 
-###### Art. 29.º As reses doentes ou suspeitas de o estarem que não sejam imediatamente reprovadas serão assinaladas com um O, indicativo de em observação, e mantidas em sequestro, sendo posteriormente marcadas de acordo com a decisão final; o seu abate, quando determinado após as observações ulteriores, efectuar-se-á separadamente, no fim da matança geral ou em matadouro sanitário, se o houver.
+Art. 29.º As reses doentes ou suspeitas de o estarem que não sejam imediatamente reprovadas serão assinaladas com um O, indicativo de em observação, e mantidas em sequestro, sendo posteriormente marcadas de acordo com a decisão final; o seu abate, quando determinado após as observações ulteriores, efectuar-se-á separadamente, no fim da matança geral ou em matadouro sanitário, se o houver.
 
-###### Art. 30.º Quando no decorrer da inspecção ante mortem surja o reconhecimento ou a suspeição de qualquer doença reputada legalmente contagiosa e de declaração obrigatória, proceder-se-á de acordo com as disposições legais vigentes.
+Art. 30.º Quando no decorrer da inspecção ante mortem surja o reconhecimento ou a suspeição de qualquer doença reputada legalmente contagiosa e de declaração obrigatória, proceder-se-á de acordo com as disposições legais vigentes.
 
-###### Art. 31.º Os animais que tenham anteriormente reagido à tuberculina e que se destinem a ser abatidos para consumo público serão marcados com um T e tratados como suspeitos até final da inspecção post mortem.
+Art. 31.º Os animais que tenham anteriormente reagido à tuberculina e que se destinem a ser abatidos para consumo público serão marcados com um T e tratados como suspeitos até final da inspecção post mortem.
 
-###### Art. 32.º É proibida a matança para consumo de:
+Art. 32.º É proibida a matança para consumo de:
 
 a) Animais em estado caquético;
 
@@ -401,13 +421,13 @@ h) Animais que não tenham permanecido em descanso, nos locais do matadouro dest
 
 i) Animais suspeitos ou devidamente comprovados de terem sido alimentados com substâncias consideradas interditas ou perigosas para a saúde pública, de acordo com a legislação vigente.
 
-###### Art. 33.º Os animais magros por excesso de trabalho ou deficiência alimentar (emagrecimento) podem ser engordados no matadouro, por conta do proprietário ou possuidor.
+Art. 33.º Os animais magros por excesso de trabalho ou deficiência alimentar (emagrecimento) podem ser engordados no matadouro, por conta do proprietário ou possuidor.
 
-###### Art. 34.º Os vitelos com menos de 21 dias podem aguardar no matadouro até à idade em que é permitido o abate, sendo a alimentação por conta do proprietário ou possuidor.
+Art. 34.º Os vitelos com menos de 21 dias podem aguardar no matadouro até à idade em que é permitido o abate, sendo a alimentação por conta do proprietário ou possuidor.
 
-###### Art. 35.º Os animais com magreza patológica e os vitelos com menos de 21 dias de idade podem ser abatidos, mas não servem para consumo público.
+Art. 35.º Os animais com magreza patológica e os vitelos com menos de 21 dias de idade podem ser abatidos, mas não servem para consumo público.
 
-###### Art. 36.º - 1 - Os animais que tenham sido utilizados na preparação de soros e vacinas só podem ser abatidos depois de o médico veterinário inspector ter sido informado do método e data da última inoculação e da natureza e quantidade de material inoculado.
+Art. 36.º - 1 - Os animais que tenham sido utilizados na preparação de soros e vacinas só podem ser abatidos depois de o médico veterinário inspector ter sido informado do método e data da última inoculação e da natureza e quantidade de material inoculado.
 
 2 - Não serão admitidos ao abate:
 
@@ -417,29 +437,29 @@ b) Animais que tenham sido inoculados com outro material vivo ou atenuado, infec
 
 c) Animais inoculados com microrganismos mortos, infecciosos para o homem, ou com extractos ou substâncias de metabolismos de tais microrganismos, se a última inoculação tiver sido efectuada há menos de 15 dias.
 
-###### Art. 37.º - 1 - Do resultado da inspecção ante mortem e das medidas tomadas em consequência deve ser dado conhecimento ao proprietário ou possuidor do animal, facultando-lhe, se necessário, a consulta do livro ou boletim do matadouro.
+Art. 37.º - 1 - Do resultado da inspecção ante mortem e das medidas tomadas em consequência deve ser dado conhecimento ao proprietário ou possuidor do animal, facultando-lhe, se necessário, a consulta do livro ou boletim do matadouro.
 
 2 - Em caso de interdição do abate, o médico veterinário inspector deverá registar imediatamente o facto no livro ou boletim do matadouro, com a devida precisão e clareza.
 
-###### Art. 38.º Toda a contestação relativa às conclusões da inspecção ante mortem deverá ser formulada e instruída de forma idêntica à estabelecida para os casos de recurso sobre reprovação de carnes.
+Art. 38.º Toda a contestação relativa às conclusões da inspecção ante mortem deverá ser formulada e instruída de forma idêntica à estabelecida para os casos de recurso sobre reprovação de carnes.
 
-###### Art. 39.º Fora dos casos especialmente previstos no presente Regulamento, o médico veterinário inspector pode tomar todas as medidas necessárias à preservação do capital e à protecção rações da carne e acabar com o sofrimento do animal.
+Art. 39.º Fora dos casos especialmente previstos no presente Regulamento, o médico veterinário inspector pode tomar todas as medidas necessárias à preservação do capital e à protecção rações da carne e acabar com o sofrimento do animal.
 
 ### CAPÍTULO IV — Abate de urgência
 
-###### Art. 40.º - 1 - Por abate de urgência entende-se, conforme foi definido anteriormente, o sacrifício imediato dos animais de talho que, por motivo de acidente ou de determinadas afecções, fiquem incapacitados ou inferiorizados no seu rendimento e sejam considerados susceptíveis de aproveitamento para consumo.
+Art. 40.º - 1 - Por abate de urgência entende-se, conforme foi definido anteriormente, o sacrifício imediato dos animais de talho que, por motivo de acidente ou de determinadas afecções, fiquem incapacitados ou inferiorizados no seu rendimento e sejam considerados susceptíveis de aproveitamento para consumo.
 
 2 - O abate de urgência visa principalmente evitar as alterações da carne e acabar com o sofrimento do animal.
 
-###### Art. 41.º O abate de urgência pode ser motivado por:
+Art. 41.º O abate de urgência pode ser motivado por:
 
 a) Acidentes em animais sem estado de doença anterior, tais como traumatismos externos, fracturas, hemorragias, fulgurações, asfixia, ferimentos por arma de fogo, falhas orgânicas no decurso de intervenções cirúrgicas ou obstétricas, ou quando se trata de animais perigosos, por medida de segurança colectiva;
 
 b) Doença, comprovada normalmente por sinais patológicos exibidos pelos animais em determinadas circunstâncias, como cólicas e meteorismo, entre outros.
 
-###### Art. 42.º É proibido preparar para consumo animais mortos de doença ou de acidente ou em estado de morte aparente.
+Art. 42.º É proibido preparar para consumo animais mortos de doença ou de acidente ou em estado de morte aparente.
 
-###### Art. 43.º - 1 - O abate de urgência só deve ser efectuado em matadouro autorizado, explorado nas condições de higiene regulamentares e provido de inspecção veterinária oficial.
+Art. 43.º - 1 - O abate de urgência só deve ser efectuado em matadouro autorizado, explorado nas condições de higiene regulamentares e provido de inspecção veterinária oficial.
 
 2 - Em caso de acidente e de extrema urgência, reconhecida pelo médico veterinário inspector, pode este autorizar o abate no próprio local onde se encontra o animal sinistrado, desde que o médico veterinário responsável assista e certifique todas as operações de abate, sangria e evisceração.
 
@@ -447,25 +467,25 @@ b) Doença, comprovada normalmente por sinais patológicos exibidos pelos animai
 
 4 - Quando se verifique a necessidade imediata de abate, fora das horas normais de matança, o médico veterinário inspector tomará as providências necessárias para que todas as operações possam ser efectuadas convenientemente.
 
-###### Art. 44.º O abate de urgência por motivo de doença só será consentido mediante apresentação ao médico veterinário inspector de relatório do clínico que assistiu ao animal doente, no qual deverá também fazer-se menção da medicação ministrada e da razão por que foi decidida a occisão.
+Art. 44.º O abate de urgência por motivo de doença só será consentido mediante apresentação ao médico veterinário inspector de relatório do clínico que assistiu ao animal doente, no qual deverá também fazer-se menção da medicação ministrada e da razão por que foi decidida a occisão.
 
-###### Art. 45.º No caso de abate de urgência por motivo de acidente deve ser apresentado, sempre que possível. ao médico veterinário inspector documento passado pela autoridade local em que ateste as condições, data e hora em que se deu o acidente.
+Art. 45.º No caso de abate de urgência por motivo de acidente deve ser apresentado, sempre que possível. ao médico veterinário inspector documento passado pela autoridade local em que ateste as condições, data e hora em que se deu o acidente.
 
-###### Art. 46.º O transporte dos animais vivos deve ser acompanhado de um certificado veterinário com a identificação exacta do animal, a data e hora do acidente, o nome e o endereço do proprietário, ou indicando a doença e os sintomas, o tratamento e a referência de se terem usado medicamentos prejudiciais à salubridade da carne.
+Art. 46.º O transporte dos animais vivos deve ser acompanhado de um certificado veterinário com a identificação exacta do animal, a data e hora do acidente, o nome e o endereço do proprietário, ou indicando a doença e os sintomas, o tratamento e a referência de se terem usado medicamentos prejudiciais à salubridade da carne.
 
-###### Art. 47.º Os animais que dêem entrada no matadouro para serem abatidos de urgência devem ser submetidos a exame sanitário antes do abate, ainda que tenham sido inspeccionados no local da sua proveniência.
+Art. 47.º Os animais que dêem entrada no matadouro para serem abatidos de urgência devem ser submetidos a exame sanitário antes do abate, ainda que tenham sido inspeccionados no local da sua proveniência.
 
-###### Art. 48.º Na inspecção dos animais abatidos de urgência, quer em vida, quer post mortem, o médico veterinário inspector usará do maior rigor e recorrerá aos exames laboratoriais sempre que o julgue necessário, os quais, todavia, serão obrigatórios em todos os casos de abate de urgência por motivo de doença, salvo quando a reprovação seja imediata.
+Art. 48.º Na inspecção dos animais abatidos de urgência, quer em vida, quer post mortem, o médico veterinário inspector usará do maior rigor e recorrerá aos exames laboratoriais sempre que o julgue necessário, os quais, todavia, serão obrigatórios em todos os casos de abate de urgência por motivo de doença, salvo quando a reprovação seja imediata.
 
-###### Art. 49.º Todos os órgãos e carcaças de animais abatidos de urgência devem ser simultaneamente apresentados à inspecção, sanitária.
+Art. 49.º Todos os órgãos e carcaças de animais abatidos de urgência devem ser simultaneamente apresentados à inspecção, sanitária.
 
-###### Art. 50.º A pele deve permanecer aderente à carcaça, pelo menos em parte, assim como os pulmões, até ao momento do exame sanitário.
+Art. 50.º A pele deve permanecer aderente à carcaça, pelo menos em parte, assim como os pulmões, até ao momento do exame sanitário.
 
-###### Art. 51.º O esquartejamento das carcaças de animais abatidos de urgência só deve permitir-se em meias reses ou quartos.
+Art. 51.º O esquartejamento das carcaças de animais abatidos de urgência só deve permitir-se em meias reses ou quartos.
 
-###### Art. 52.º O transporte das carnes de animais abatidos de urgência deve fazer-se em viaturas destinadas a esse efeito, acompanhadas de um certificado veterinário indicando a data e hora do acidente, a data e hora da ocasião e o nome e endereço do proprietário.
+Art. 52.º O transporte das carnes de animais abatidos de urgência deve fazer-se em viaturas destinadas a esse efeito, acompanhadas de um certificado veterinário indicando a data e hora do acidente, a data e hora da ocasião e o nome e endereço do proprietário.
 
-###### Art. 53.º Nos abates de urgência devem observar-se os seguintes critérios:
+Art. 53.º Nos abates de urgência devem observar-se os seguintes critérios:
 
 a) Todos os órgãos e carcaças de animais abatidos de urgência, sem exame ante mortem, devem ser totalmente reprovados;
 
@@ -491,9 +511,9 @@ Inspecção «post mortem»
 
 #### SECÇÃO I — Normas gerais
 
-###### Art. 54.º A inspecção post mortem tem por finalidade assegurar a pesquisa de anomalias e não admitir para a alimentação humana senão a carne própria para consumo.
+Art. 54.º A inspecção post mortem tem por finalidade assegurar a pesquisa de anomalias e não admitir para a alimentação humana senão a carne própria para consumo.
 
-###### Art. 55.º Nas operações de abate dever-se-á observar:
+Art. 55.º Nas operações de abate dever-se-á observar:
 
 1 - Todas as operações de matadouro devem ser feitas sob a vigilância do médico veterinário inspector.
 
@@ -545,7 +565,7 @@ c) Quando se trate de bovinos sacrificados com vista à erradicação da tubercu
 
 19 - A desmancha em partes mais pequenas, em quartos ou meias reses só é permitida nos locais adequados.
 
-###### Art. 56.º Em matéria de disposições prévias à inspecção post mortem há a referir:
+Art. 56.º Em matéria de disposições prévias à inspecção post mortem há a referir:
 
 1) É dever do médico veterinário inspector, antes de iniciar a inspecção post mortem dos animais abatidos, assegurar-se de que os locais e equipamentos necessários estão adequados a uma inspecção eficaz e higiénica;
 
@@ -567,7 +587,7 @@ c) Quando se trate de bovinos sacrificados com vista à erradicação da tubercu
 
 10) Durante a inspecção post mortem não será permitida a presença de pessoas estranhas aos serviços que se estejam realizando.
 
-###### Art. 57.º A inspecção post mortem deve processar-se em conformidade com os seguintes preceitos:
+Art. 57.º A inspecção post mortem deve processar-se em conformidade com os seguintes preceitos:
 
 1) Todos os órgãos e tecidos, bem como o sangue, devem ser submetidos à inspecção imediatamente após o abate e preparação;
 
@@ -587,7 +607,7 @@ c) Fazer desaparecer qualquer marca de identificação das carcaças, cabeças o
 
 d) Afastar do lugar de inspecção qualquer parte da carcaça, órgão ou víscera antes de o médico veterinário inspector ter terminado o seu exame e tomado a sua decisão.
 
-###### Art. 58.º A inspecção post mortem deve obedecer, sempre que possível, à seguinte ordem:
+Art. 58.º A inspecção post mortem deve obedecer, sempre que possível, à seguinte ordem:
 
 1.º Vísceras da cavidade torácica com o fígado;
 
@@ -605,13 +625,13 @@ d) Afastar do lugar de inspecção qualquer parte da carcaça, órgão ou vísce
 
 8.º Carcaça.
 
-###### Art. 59.º As vísceras devem ser examinadas:
+Art. 59.º As vísceras devem ser examinadas:
 
 a) No momento da evisceração; e ou
 
 b) Após a evisceração; neste caso elas devem ser identificáveis com a carcaça até final da inspecção.
 
-###### Art. 60.º Se o médico veterinário inspector tiver necessidade, poderá recorrer:
+Art. 60.º Se o médico veterinário inspector tiver necessidade, poderá recorrer:
 
 a) A um exame post mortem mais detalhado;
 
@@ -619,7 +639,7 @@ b) A todo e qualquer exame que tenha por fim concretização o seu julgamento so
 
 c) À colheita das amostras necessárias sobre as carcaças ou as vísceras.
 
-###### Art. 61.º A inspecção post mortem deve compreender:
+Art. 61.º A inspecção post mortem deve compreender:
 
 a) Exame visual geral do animal;
 
@@ -631,7 +651,7 @@ d) Pesquisa de alterações de consistência de cor, de cheiro e, eventualmente,
 
 e) Exame laboratorial, sempre que necessário.
 
-###### Art. 62.º O médico veterinário inspector deve examinar particularmente:
+Art. 62.º O médico veterinário inspector deve examinar particularmente:
 
 a) A cor do sangue, as características da coagulação e a eventual presença de corpos estranhos;
 
@@ -667,7 +687,7 @@ q) Nas espécies arietina e caprina a simples palpação dos gânglios superfici
 
 r) Os cortes necessários à perfeita execução da inspecção sanitária das carnes devem ser praticados pelo próprio inspector ou, na sua presença, por auxiliar devidamente habilitado.
 
-###### Art. 63.º O médico veterinário inspector deve ainda efectuar, sistematicamente:
+Art. 63.º O médico veterinário inspector deve ainda efectuar, sistematicamente:
 
 1) A pesquisa da presença eventual de cisticercose:
 
@@ -691,9 +711,9 @@ b) Nos suínos, nas superfícies musculares directamente visíveis, em particula
 
 3) A pesquisa de morno nos solípedes, mediante exame atento da traqueia, da laringe, das cavidades nasais e dos seios, após abertura mediana da cabeça e ablação do septo nasal.
 
-###### Art. 64.º O exame triquinoscópico nos suínos é obrigatório em todos os matadouros, devendo colher-se pelo menos quatro amostras, sendo duas dos músculos da base da língua e outras duas dos pilares do diafragma, para a confecção das preparações, que serão no maior número possível.
+Art. 64.º O exame triquinoscópico nos suínos é obrigatório em todos os matadouros, devendo colher-se pelo menos quatro amostras, sendo duas dos músculos da base da língua e outras duas dos pilares do diafragma, para a confecção das preparações, que serão no maior número possível.
 
-###### Art. 65.º Quando as carnes sejam susceptíveis de aproveitamento, o exame bacteriológico é obrigatório nos seguintes casos, para além dos casos especificamente assinalados:
+Art. 65.º Quando as carnes sejam susceptíveis de aproveitamento, o exame bacteriológico é obrigatório nos seguintes casos, para além dos casos especificamente assinalados:
 
 a) Nos animais tardiamente eviscerados;
 
@@ -703,7 +723,7 @@ c) Nos casos em que não tenha sido possível o exame em vida ou que não exista
 
 d) Nos portadores permanentes de salmonelas, cuja existência tenha sido demonstrada nas fezes por exames subsequentes durante o período de observação em vida.
 
-###### Art. 66.º - 1 - As decisões na inspecção post mortem classificam-se, por ordem de critérios, nas seguintes categorias:
+Art. 66.º - 1 - As decisões na inspecção post mortem classificam-se, por ordem de critérios, nas seguintes categorias:
 
 a) Categoria 1 - Aprovada para consumo humano;
 
@@ -721,7 +741,7 @@ f) Categoria 6 - Aprovada para consumo humano, mas com a sua distribuição rest
 
 3 - Estas categorias não devem considerar-se como definidas rigidamente, mas deverão utilizar-se com uma certa flexibilidade, para poderem adaptar-se às diversas situações e estruturas jurídicas sempre que se aplique um controle legal e medidas de execução eficazes para assegurar a observância das disposições sanitárias pertinentes na sua parte essencial.
 
-###### Art. 67.º São os seguintes os princípios gerais para definir as categorias de critérios:
+Art. 67.º São os seguintes os princípios gerais para definir as categorias de critérios:
 
 1) Categoria 1 - Aprovada para consumo humano. Quando o exame post mortem não tenha revelado prova de que existe estado anormal significativo de doença e se a operação de abate foi realizada de acordo com os requisitos de higiene, as carnes deverão ser aprovadas para consumo humano sem qualquer restrição, sempre que não devam aplicar-se restrições de sanidade animal (símbolo A, no anexo I).
 
@@ -797,7 +817,7 @@ b) As carnes de animais provenientes de uma zona limitada que tenham sido vacina
 
 c) A carne autorizada para consumo humano, mas com a sua distribuição restringida a zonas limitadas, deverá marcar-se de forma adequada. A sua venda e distribuição somente serão autorizadas através de circuitos comerciais especialmente autorizados e submetidos a uma supervisão estreita ou, alternativamente, sempre que seja economicamente viável, limitada a sua utilização institucional, submetida a uma administração que ofereça suficiente confiança.
 
-###### Art. 68.º - 1 - É ao médico veterinário inspector que incumbe a responsabilidade de decisão final sobre a salubridade dos produtos inspeccionados.
+Art. 68.º - 1 - É ao médico veterinário inspector que incumbe a responsabilidade de decisão final sobre a salubridade dos produtos inspeccionados.
 
 2 - Se da inspecção de qualquer rês resultar ser esta julgada, no todo ou em parte, imprópria para consumo, o médico veterinário inspector decidirá, de harmonia com as disposições deste Regulamento, o destino a dar às respectivas carcaças, miudezas, subprodutos e despojos.
 
@@ -805,11 +825,11 @@ c) A carne autorizada para consumo humano, mas com a sua distribuição restring
 
 4 - Os motivos da reprovação devem ser registados no livro ou boletim do matadouro com a devida precisão e clareza.
 
-###### Art. 69.º As carcaças das reses e respectivas miudezas consideradas próprias para consumo devem ser assinaladas com a marca oficial de aprovação por empregado do matadouro, sob vigilância do médico veterinário inspector.
+Art. 69.º As carcaças das reses e respectivas miudezas consideradas próprias para consumo devem ser assinaladas com a marca oficial de aprovação por empregado do matadouro, sob vigilância do médico veterinário inspector.
 
-###### Art. 70.º Todas as decisões do médico veterinário inspector são susceptíveis de recurso por parte do proprietário do animal ou seu legítimo representante, mediante a observância das disposições legais vigentes sobre esta matéria.
+Art. 70.º Todas as decisões do médico veterinário inspector são susceptíveis de recurso por parte do proprietário do animal ou seu legítimo representante, mediante a observância das disposições legais vigentes sobre esta matéria.
 
-###### Art. 71.º - 1 - Quando no acto da inspecção post mortem se verifiquem elementos cujo significado não possa ser avaliado de uma forma precisa após o abate, tal como descoloração ou cheiro ligeiro, as carnes deverão deter-se para inspecção ulterior. Neste caso, a decisão final deverá tomar-se depois de uma nova inspecção efectuada 24 horas depois, ou após se terem levado a cabo análises, se o inspector as considerar necessárias.
+Art. 71.º - 1 - Quando no acto da inspecção post mortem se verifiquem elementos cujo significado não possa ser avaliado de uma forma precisa após o abate, tal como descoloração ou cheiro ligeiro, as carnes deverão deter-se para inspecção ulterior. Neste caso, a decisão final deverá tomar-se depois de uma nova inspecção efectuada 24 horas depois, ou após se terem levado a cabo análises, se o inspector as considerar necessárias.
 
 2 - Nas seguintes situações, as carnes deverão reter-se, dependendo o critério a adoptar de um exame de laboratório:
 
@@ -835,7 +855,7 @@ b) Em muitos casos, o exame de laboratório poderá permitir que se afastem as s
 
 ##### SUBSECÇÃO I — Bovinos adultos e vitelos de mais de 6 semanas
 
-###### Art. 72.º A inspecção post mortem destes animais deve consistir em:
+Art. 72.º A inspecção post mortem destes animais deve consistir em:
 
 1) Inspecção da cabeça:
 
@@ -951,7 +971,7 @@ c) Deve proceder-se da mesma maneira em todos os casos que se suspeite de uma af
 
 ##### SUBSECÇÃO II — Vitelos com menos de 6 semanas
 
-###### Art. 73.º A inspecção post mortem destes animais deve consistir em:
+Art. 73.º A inspecção post mortem destes animais deve consistir em:
 
 1) Inspecção da cabeça:
 
@@ -1051,7 +1071,7 @@ VII) Articulações.
 
 ##### SUBSECÇÃO III — Equídeos
 
-###### Art. 74.º A inspecção post mortem destes animais deve consistir em:
+Art. 74.º A inspecção post mortem destes animais deve consistir em:
 
 I) Inspecção da cabeça:
 
@@ -1149,7 +1169,7 @@ II) Os rins devem ser destacados e inspeccionados por meio de incisão longitudi
 
 ##### SUBSECÇÃO IV — Ovinos e caprinos
 
-###### Art. 75.º A inspecção post mortem destes animais deve consistir em:
+Art. 75.º A inspecção post mortem destes animais deve consistir em:
 
 1) Inspecção da cabeça:
 
@@ -1229,7 +1249,7 @@ b) Em todos os casos, de suspeição de uma afecção do aparelho ou generalizad
 
 ##### SUBSECÇÃO V — Suínos
 
-###### Art. 76.º A inspecção post mortem destes animais deve consistir em:
+Art. 76.º A inspecção post mortem destes animais deve consistir em:
 
 1) Inspecção da cabeça:
 
@@ -1313,7 +1333,7 @@ b) Em todos os casos de suspeita de uma infecção de aparelho ou generalizada d
 
 ##### SUBSECÇÃO I — Carnes microbianas, parasitadas ou com outros processos patológicos
 
-###### Art. 77.º Os animais que na inspecção post mortem apresentem sinais ou lesões específicas de doenças microbianas, parasitárias, ou outros processos patológicos serão reprovados total ou parcialmente, de conformidade com as seguintes regras:
+Art. 77.º Os animais que na inspecção post mortem apresentem sinais ou lesões específicas de doenças microbianas, parasitárias, ou outros processos patológicos serão reprovados total ou parcialmente, de conformidade com as seguintes regras:
 
 1) Abcesso cerebral:
 
@@ -2309,7 +2329,7 @@ b) A reprovação será parcial, com expurgo e destruição das partes lesadas, 
 
 ##### SUBSECÇÃO II — Carnes insalubres, repugnantes ou pouco nutritivas
 
-###### Art. 78.º Os animais que na inspecção post mortem apresentem sinais de doença ou afecção, lesões ou alterações que confiram às carnes condição ou aspecto insalubre, repugnante ou de inferior poder alimentar serão total ou parcialmente reprovados, segundo os casos e em conformidade com o estabelecido a seguir:
+Art. 78.º Os animais que na inspecção post mortem apresentem sinais de doença ou afecção, lesões ou alterações que confiram às carnes condição ou aspecto insalubre, repugnante ou de inferior poder alimentar serão total ou parcialmente reprovados, segundo os casos e em conformidade com o estabelecido a seguir:
 
 1) Serão reprovados na totalidade (carcaça e vísceras) os animais cujas carnes o médico veterinário inspector considere tóxicas, febris, fatigadas ou sangrentas;
 
@@ -2343,7 +2363,7 @@ d) Animais com lesões sangrentas, qualquer que seja a sua extensão, associadas
 
 No caso de temperatura subnormal, pulso lento e débil, funções sensoriais perturbadas e outros sinais que indiquem um estado agónico, se os sintomas forem pouco graves, poderá admitir-se a qualidade inferior ou o tratamento térmico, mediante o exame laboratorial e após uma sangria completa.
 
-###### Art. 79.º As carcaças dos animais traumatizados serão reprovadas, total ou parcialmente, nos termos seguintes:
+Art. 79.º As carcaças dos animais traumatizados serão reprovadas, total ou parcialmente, nos termos seguintes:
 
 1) A reprovação será total quando:
 
@@ -2357,7 +2377,7 @@ d) Haja focos necróticos dispersos e reacções inflamatórias generalizadas, e
 
 2) A reprovação será parcial, com expurgo das partes afectadas ou alteradas, em todos os casos em que o traumatismo esteja bem localizado e desde que, apesar de existir infiltração sanguínea ou edematosa no tecido conjuntivo da região atingida, não haja reacção ganglionar noutros departamentos.
 
-###### Art. 80.º - 1 - Serão reprovadas na totalidade as carcaça e miudezas dos animais cujas carnes apresentem cheiro ou sabor anormal devidos a:
+Art. 80.º - 1 - Serão reprovadas na totalidade as carcaça e miudezas dos animais cujas carnes apresentem cheiro ou sabor anormal devidos a:
 
 a) Medicamentos ou desinfectantes (alcatrão, amoníaco, cânfora, creolina, enxofre, éter, terebintina, etc.);
 
@@ -2381,7 +2401,7 @@ d) Processos patológicos e outras causas: cheiro butírico ou rançoso (carbún
 
 2 - Quando houver dúvidas, a carcaça, com as respectivas miudezas, poderá ficar em observação o tempo necessário para ulterior exame e decisão, devendo recorrer-se, sempre que necessário, às provas expeditas, ou de laboratório, que ajudem a esclarecer o problema.
 
-###### Art. 81.º - 1 - Serão reprovados na totalidade, incluindo as miudezas, os animais cujas carnes sejam consideradas pouco nutritivas, tais como:
+Art. 81.º - 1 - Serão reprovados na totalidade, incluindo as miudezas, os animais cujas carnes sejam consideradas pouco nutritivas, tais como:
 
 a) Fetos (carnes fetais): nos casos das carnes fetais, pode aceitar-se uma aprovação com distribuição limitada quando o consumo é limitado à população vizinha;
 
@@ -2401,7 +2421,7 @@ e) Animais excessivamente magros (carnes hécticas).
 
 5 - Nos casos referidos nos n.os 2, 3 e 4 deste artigo, as carnes aprovadas serão de distribuição limitada, de qualidade inferior ou sujeitas a tratamento térmico, segundo as possibilidades económicas.
 
-###### Art. 82.º Serão reprovados total ou parcialmente, de acordo com as regras seguintes, os animais cujas carnes apresentem pigmentação anormal.
+Art. 82.º Serão reprovados total ou parcialmente, de acordo com as regras seguintes, os animais cujas carnes apresentem pigmentação anormal.
 
 1 - A reprovação será total:
 
@@ -2439,7 +2459,7 @@ b) A coloração amarela da carne do vitelo, e do porco indica quase constanteme
 
 5 - Nos casos de dúvida quanto a icterícia, o médico veterinário inspector deve recorrer às provas de laboratório adequadas, sempre que o exame da íntima das artérias de calibre médio (ilíacas, umeral e femoral) o não satisfazer.
 
-###### Art. 83.º - 1 - Em conformidade com a natureza, número e extensão das lesões e o estado de carnes do animal, serão reprovadas total ou parcialmente as carcaças e miudezas dos animais que apresentem lesões repugnantes.
+Art. 83.º - 1 - Em conformidade com a natureza, número e extensão das lesões e o estado de carnes do animal, serão reprovadas total ou parcialmente as carcaças e miudezas dos animais que apresentem lesões repugnantes.
 
 2 - Consideram-se carnes especialmente repugnantes:
 
@@ -2457,7 +2477,7 @@ d) As que evidenciem focos gangrenosos, infiltrações edematosas, calcificaçã
 
 ##### SUBSECÇÃO III — Carnes de animais utilizados na preparação de soros e vacinas
 
-###### Art. 84.º Em relação aos animais que tenham sido utilizados na preparação de soros e vacinas, quando admitidos ao abate, após a verificação das condições a que se refere este Regulamento, proceder-se-á na inspecção post mortem pela forma seguinte:
+Art. 84.º Em relação aos animais que tenham sido utilizados na preparação de soros e vacinas, quando admitidos ao abate, após a verificação das condições a que se refere este Regulamento, proceder-se-á na inspecção post mortem pela forma seguinte:
 
 1) Animais inoculados com material tuberculoso vivo:
 
@@ -2473,7 +2493,7 @@ c) A carcaça será destinada à esterilização se o abate se verificar logo ap
 
 ### CAPÍTULO VI — Alterações das carnes posteriores ao abate
 
-###### Art. 85.º Na apreciação das alterações das carnes verificadas posteriormente à matança e inspecção sanitária deverá ser adoptado o seguinte procedimento:
+Art. 85.º Na apreciação das alterações das carnes verificadas posteriormente à matança e inspecção sanitária deverá ser adoptado o seguinte procedimento:
 
 a) Manchas da carne de origem bacteriana (manchas vermelhas, manchas verdes e manchas negras): quando intensas ou extensas, as peças atingidas serão reprovadas pelo seu aspecto repugnante;
 
@@ -2489,13 +2509,13 @@ f) Putrefacção: seja qual for o grau de putrefacção e a sua modalidade, a ca
 
 g) Sujidade: será determinado o expurgo das partes conspurcadas; se se tratar de peças pequenas em que a limpeza é impossível, será ordenada a reprovação total.
 
-###### Art. 86.º Nos casos de alterações das carnes posteriores ao abate e inspecção, o médico veterinário inspector deve recorrer, com a necessária frequência, aos exames laboratoriais para fundamentar as suas decisões.
+Art. 86.º Nos casos de alterações das carnes posteriores ao abate e inspecção, o médico veterinário inspector deve recorrer, com a necessária frequência, aos exames laboratoriais para fundamentar as suas decisões.
 
 ### CAPÍTULO VII — Marcação de carnes
 
-###### Art. 87.º As carnes aprovadas para consumo público serão identificadas com a competente marca de aprovação sanitária oficial.
+Art. 87.º As carnes aprovadas para consumo público serão identificadas com a competente marca de aprovação sanitária oficial.
 
-###### Art. 88.º - 1 - A aposição das marcas comprovativas da decisão da inspecção sanitária será feita sob a responsabilidade do inspector sanitário.
+Art. 88.º - 1 - A aposição das marcas comprovativas da decisão da inspecção sanitária será feita sob a responsabilidade do inspector sanitário.
 
 2 - O inspector sanitário, no respeitante à aprovação de carnes, é o responsável pelos instrumentos destinados à respectiva marcação, e bem assim das etiquetas e placas cuja utilização venha a ser autorizada pela Direcção-Geral da Pecuária.
 
@@ -2503,7 +2523,7 @@ g) Sujidade: será determinado o expurgo das partes conspurcadas; se se tratar d
 
 4 - Os referidos instrumentos, as etiquetas e as placas não podem ser utilizados fora dos matadouros e dos estabelecimentos a que se referem.
 
-###### Art. 89.º - 1 - A marca comprovativa da inspecção sanitária, a apor sob a responsabilidade do inspector sanitário a nível dos matadouros, será idêntica a um dos dísticos indicados nos modelos dos anexos 1 e 2, conforme as situações, de harmonia com o determinado pela Direcção-Geral da Pecuária.
+Art. 89.º - 1 - A marca comprovativa da inspecção sanitária, a apor sob a responsabilidade do inspector sanitário a nível dos matadouros, será idêntica a um dos dísticos indicados nos modelos dos anexos 1 e 2, conforme as situações, de harmonia com o determinado pela Direcção-Geral da Pecuária.
 
 2 - Os dísticos referidos neste artigo incorporam para cada matadouro um código de registo, a ser indicado pela Junta Nacional dos Produtos Pecuários.
 
@@ -2525,7 +2545,7 @@ g) Sujidade: será determinado o expurgo das partes conspurcadas; se se tratar d
 
 11 - Os instrumentos de marcação da inspecção sanitária deverão ser guardados e sempre ao cuidado do inspector sanitário, único responsável pela sua utilização, que providenciará pelas melhores condições de protecção e conservação, que serão asseguradas pelos respectivos matadouros.
 
-###### Art. 90.º A marcação das carnes com os dísticos indicados nos anexos 1 e 2 efectuar-se-á nas seguintes condições:
+Art. 90.º A marcação das carnes com os dísticos indicados nos anexos 1 e 2 efectuar-se-á nas seguintes condições:
 
 a) As carcaças com peso superior a 60 kg serão marcadas a tinta ou a fogo, em cada uma das meias carcaças, pelo menos nos seguintes pontos: face externa da coxa (zona da chã de fora), região lombar (vazia), peito (a meio), espádua (sete da pé) e pleura (a meio da face interna das costelas);
 
@@ -2537,9 +2557,9 @@ d) As cabeças, línguas, corações e pulmões são marcados a tinta ou a fogo 
 
 e) A marcação dos fígados será a fogo.
 
-###### Art. 91.º Nas carcaças aprovadas de equídeos figurará ainda uma marca ou carimbo a tinta sobre a face externa de cada meia carcaça, com a palavra «Cavalo», assim como nas de caprinos a palavra «Cabra».
+Art. 91.º Nas carcaças aprovadas de equídeos figurará ainda uma marca ou carimbo a tinta sobre a face externa de cada meia carcaça, com a palavra «Cavalo», assim como nas de caprinos a palavra «Cabra».
 
-###### Art. 92.º - 1 - As partes ou porções destinadas à comercialização, obtidas ao nível dos estabelecimentos de corte e desmancha a partir das carcaças devidamente marcadas, serão remarcadas a tinta ou a fogo, por meio dos dísticos referidos nos anexos 3 ou 5, com o código de registo de identificação oficial daqueles estabelecimentos.
+Art. 92.º - 1 - As partes ou porções destinadas à comercialização, obtidas ao nível dos estabelecimentos de corte e desmancha a partir das carcaças devidamente marcadas, serão remarcadas a tinta ou a fogo, por meio dos dísticos referidos nos anexos 3 ou 5, com o código de registo de identificação oficial daqueles estabelecimentos.
 
 2 - O código de registo referido no n.º 1 consiste num número para cada estabelecimento e será indicado pela Direcção-Geral da Pecuária.
 
@@ -2555,9 +2575,9 @@ e) A marcação dos fígados será a fogo.
 
 8 - Nas situações referidas nos n.os 6 e 7 deste artigo, as etiquetas dos anexos 3 e 5 poderão ser substituídas pelas placas definidas nos anexos 4 e 6, respectivamente.
 
-###### Art. 93.º Para além das indicações de marcação das embalagens definidas no presente diploma, deverão ainda ser satisfeitos os requisitos de rotulagem da legislação em vigor.
+Art. 93.º Para além das indicações de marcação das embalagens definidas no presente diploma, deverão ainda ser satisfeitos os requisitos de rotulagem da legislação em vigor.
 
-###### Art. 94.º - 1 - As carnes, quando submetidas a exame triquinoscópico, comportarão uma marca suplementar, segundo a forma e os modelos apresentados no anexo 7.
+Art. 94.º - 1 - As carnes, quando submetidas a exame triquinoscópico, comportarão uma marca suplementar, segundo a forma e os modelos apresentados no anexo 7.
 
 1.1 - As carcaças serão marcadas a tinta ou a fogo, na face interna das coxas, com o dístico referido no anexo 7.
 
@@ -2565,21 +2585,21 @@ e) A marcação dos fígados será a fogo.
 
 2 - A etiqueta a que se refere o modelo do anexo 8 será fixada sobre cada porção de forma tal que seja impossível reutilizá-la.
 
-###### Art. 95.º Todas as etiquetas a que se faz referência neste Regulamento serão de material adequado do ponto de vista higiénico, de resistência à sua utilização e aprovadas pela Direcção-Geral da Pecuária.
+Art. 95.º Todas as etiquetas a que se faz referência neste Regulamento serão de material adequado do ponto de vista higiénico, de resistência à sua utilização e aprovadas pela Direcção-Geral da Pecuária.
 
-###### Art. 96.º Nas carcaças, suas partes e carnes reprovadas para consumo será aposta a marca «R», a tinta indelével, sobre os pontos de maior evidência das carcaças ou peças.
+Art. 96.º Nas carcaças, suas partes e carnes reprovadas para consumo será aposta a marca «R», a tinta indelével, sobre os pontos de maior evidência das carcaças ou peças.
 
-###### Art. 97.º As carcaças, suas partes e carnes retidas para observação ulterior serão submetidas à aposição da marca «O», a tinta, em pontos evidentes, e serão por último submetidas à marcação correspondente após a reinspecção e decisão final.
+Art. 97.º As carcaças, suas partes e carnes retidas para observação ulterior serão submetidas à aposição da marca «O», a tinta, em pontos evidentes, e serão por último submetidas à marcação correspondente após a reinspecção e decisão final.
 
-###### Art. 98.º As carcaças, suas partes e carnes destinadas à indústria transformadora serão submetidas à aposição da marca «T», a tinta, nos pontos de maior evidência, e ainda à marcação da inspecção sanitária.
+Art. 98.º As carcaças, suas partes e carnes destinadas à indústria transformadora serão submetidas à aposição da marca «T», a tinta, nos pontos de maior evidência, e ainda à marcação da inspecção sanitária.
 
-###### Art. 99.º As carcaças, suas partes e carnes destinadas a beneficiação pelo frio ou pelo calor serão submetidas, respectivamente, à aposição da marca «Kf» ou da marca «Kh» e ainda à marcação correspondente à reinspecção e decisão final.
+Art. 99.º As carcaças, suas partes e carnes destinadas a beneficiação pelo frio ou pelo calor serão submetidas, respectivamente, à aposição da marca «Kf» ou da marca «Kh» e ainda à marcação correspondente à reinspecção e decisão final.
 
-###### Art. 100.º Nas carcaças, suas partes e carnes de qualidade inferior será aposta a marca «I», a tinta, nos pontos de maior evidência, além das marcas comprovativas da inspecção sanitária.
+Art. 100.º Nas carcaças, suas partes e carnes de qualidade inferior será aposta a marca «I», a tinta, nos pontos de maior evidência, além das marcas comprovativas da inspecção sanitária.
 
-###### Art. 101.º Nas carcaças, suas partes e carnes de distribuição limitada será aposta a marca «L», a tinta, nos pontos de maior evidência, além da marca comprovativa da inspecção sanitária.
+Art. 101.º Nas carcaças, suas partes e carnes de distribuição limitada será aposta a marca «L», a tinta, nos pontos de maior evidência, além da marca comprovativa da inspecção sanitária.
 
-###### Art. 102.º - 1 - A tinta para marcação de carcaças, suas partes e carnes deverá obedecer às seguintes condições:
+Art. 102.º - 1 - A tinta para marcação de carcaças, suas partes e carnes deverá obedecer às seguintes condições:
 
 a) Ser inofensiva para a saúde do consumidor;
 
@@ -2591,23 +2611,23 @@ d) Ser de secagem rápida.
 
 2 - Só pode ser utilizado para a respectiva marcação, e nas situações indicadas neste artigo, o violeta de metilo ou outro corante aprovado pela Direcção-Geral da Pecuária, ouvida a Direcção-Geral dos Cuidados de Saúde Primários.
 
-###### Art. 103.º A marcação sanitária dos animais de caça será efectuada pela entidade competente, por afixação de selos metálicos, ou outro material, autorizados pela Direcção-Geral da Pecuária e nos pontos da carcaça por aquela indicados.
+Art. 103.º A marcação sanitária dos animais de caça será efectuada pela entidade competente, por afixação de selos metálicos, ou outro material, autorizados pela Direcção-Geral da Pecuária e nos pontos da carcaça por aquela indicados.
 
 ### CAPÍTULO VIII — Destino dos produtos reprovados
 
-###### Art. 104.º - 1 - O destino de todos os produtos reprovados provenientes das várias actividades de laboração dos matadouros deverá obedecer a legislação específica.
+Art. 104.º - 1 - O destino de todos os produtos reprovados provenientes das várias actividades de laboração dos matadouros deverá obedecer a legislação específica.
 
 2 - Os produtos reprovados deverão ser constituídos em subgrupo designado por «produtos sanitários», cuja recolha e aproveitamento é distinto dos produtos do subgrupo designado por «produtos hígidos», provenientes dos abates normais.
 
 3 - Aqueles produtos deverão ser recolhidos em recipientes estanques e transportados, em veículos adequados ao fim em vista, directamente para os estabelecimentos industriais de aproveitamento, sempre que tal aproveitamento não seja efectuado no próprio matadouro.
 
-###### Art. 105.º Caberá ao médico veterinário inspector zelar pelo cumprimento do consignado no artigo anterior.
+Art. 105.º Caberá ao médico veterinário inspector zelar pelo cumprimento do consignado no artigo anterior.
 
 ### CAPÍTULO IX — Sanções
 
-###### Art. 106.º A observância do cumprimento das determinações constantes do presente Regulamento compete à Direcção-Geral da Pecuária, coadjuvada pelas direcções regionais de agricultura.
+Art. 106.º A observância do cumprimento das determinações constantes do presente Regulamento compete à Direcção-Geral da Pecuária, coadjuvada pelas direcções regionais de agricultura.
 
-###### Art. 107.º - 1 - Sempre que os médicos veterinários inspectores, no exercício das suas funções, não vejam atendidas as determinações que, em obediência ao disposto no presente Regulamento e noutra legislação em vigor, entendam dever fixar para o regular funcionamento dos estabelecimentos de abate, darão conhecimento dos factos, através de informação circunstanciada, ao director-geral da Pecuária ou aos directores regionais de agricultura.
+Art. 107.º - 1 - Sempre que os médicos veterinários inspectores, no exercício das suas funções, não vejam atendidas as determinações que, em obediência ao disposto no presente Regulamento e noutra legislação em vigor, entendam dever fixar para o regular funcionamento dos estabelecimentos de abate, darão conhecimento dos factos, através de informação circunstanciada, ao director-geral da Pecuária ou aos directores regionais de agricultura.
 
 2 - Com base na informação referida no artigo anterior, a Direcção-Geral da Pecuária poderá determinar a instauração de um inquérito, a concluir no prazo máximo de 15 dias.
 
@@ -2617,11 +2637,11 @@ d) Ser de secagem rápida.
 
 5 - Das decisões proferidas pelo director-geral da Pecuária caberá recurso, nos termos da legislação em vigor, para o departamento governamental competente.
 
-###### Art. 108.º - 1 - As carnes aprovadas para consumo público devem ser arrefecidas imediatamente após a sua preparação.
+Art. 108.º - 1 - As carnes aprovadas para consumo público devem ser arrefecidas imediatamente após a sua preparação.
 
 2 - O arrefecimento deve fazer-se segundo as condições hígio-técnicas convenientes e sob controle da autoridade de inspecção.
 
-###### Art. 109.º A occisão de animais corridos em touradas, cuja carne se destine ao consumo público, deve obedecer aos critérios seguintes:
+Art. 109.º A occisão de animais corridos em touradas, cuja carne se destine ao consumo público, deve obedecer aos critérios seguintes:
 
 a) Abate imediato após a lide ou, quando muito, dentro das primeiras 12 horas, mediante rigoroso exame sanitário ante e post mortem;
 
@@ -2629,11 +2649,11 @@ b) Quando não for possível o abate dentro daquele período de tempo, a occisã
 
 ### CAPÍTULO X — Disposições transitórias e finais
 
-###### Art. 110.º Enquanto se mantiverem as dificuldades para a cobertura da inspecção sanitária a nível nacional pela Direcção-Geral da Pecuária manter-se-á a delegação consignada no Decreto-Lei n.º 774/75, de 31 de Dezembro.
+Art. 110.º Enquanto se mantiverem as dificuldades para a cobertura da inspecção sanitária a nível nacional pela Direcção-Geral da Pecuária manter-se-á a delegação consignada no Decreto-Lei n.º 774/75, de 31 de Dezembro.
 
-###### Art. 111.º Nos matadouros e estabelecimentos, os médicos veterinários inspectores poderão propor à administração que um ou mais empregados os coadjuvem durante os serviços de inspecção sanitária.
+Art. 111.º Nos matadouros e estabelecimentos, os médicos veterinários inspectores poderão propor à administração que um ou mais empregados os coadjuvem durante os serviços de inspecção sanitária.
 
-###### Art. 112.º O presente Regulamento poderá ser revisto, quando necessário, em conformidade com os aditamentos e as alterações que a técnica e a prática aconselharem.
+Art. 112.º O presente Regulamento poderá ser revisto, quando necessário, em conformidade com os aditamentos e as alterações que a técnica e a prática aconselharem.
 
 ## ANEXO I — Quadros por doenças e alterações
 
@@ -2697,11 +2717,11 @@ Enumeram-se nos quadros anexos, pela seguinte ordem:
 
 3.6 - Infecções micóticas e micotoxinas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf))](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf)
 
 Do ANEXO 1 ao ANEXO 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf))](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf)
 
 ## ANEXO II — Resíduos nas carnes
 
@@ -2957,7 +2977,7 @@ Deverão efectuar-se ensaios de controle adequados, com vista a impedir a possib
 
 Tolerância de antibióticos (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf))](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/19301/00010048.pdf)
 
 (nota 1) Segundo elementos da FAO/OMS e do Ministério da Agricultura dos Estados Unidos da América.
 

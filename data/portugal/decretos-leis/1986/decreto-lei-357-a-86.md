@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 247/1986, 1º Suplemento, Série I de 1986-10-25
   number: '247'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3226-(1) a 3226-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/24701/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1986-660329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37415e3eee995a286914216622bd01ab6574a82d949af6b485836d4fa8955ec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2217ef756444f386b660634b4b2e03152e1904e1a5396145b6370a542347dd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conta Poupança-emigrante
+- Emigrante
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253857:por
+  label: "Alterado o art. 8º do Dec Lei 140-A/86 de 14-Jun, na redacção constante do presente diploma, pelo DEC LEI.91/94.1994.04.07.MF,\
+    \ DR.IS-A [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1994-253857
+  date: '1994-04-07'
+- type: cites
+  target: pt:dre:569902:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578317:por
+  label: Rectificado pela DECL.DD4462.14.11.1986.PCM, DR.IS [276]Supl de 29.11.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-578317
+  date: '1986-11-14'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:13Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +117,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, n.º 2, alíneas e) e f), 5.º, alínea a), 7.º, n.º 1, 8.º, n.º 2, 10.º, n.º 3, 13.º, 19.º e 20.º do [Decreto-Lei n.º 140-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902), de 14 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, n.º 2, alíneas e) e f), 5.º, alínea a), 7.º, n.º 1, 8.º, n.º 2, 10.º, n.º 3, 13.º, 19.º e 20.º do [Decreto-Lei n.º 140-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902), de 14 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — (Definição de emigrante)
 
@@ -167,18 +189,18 @@ O regime de abertura de contas especiais de depósito, bem como o da concessão 
 
 As contas poupança-crédito, em moeda estrangeira ou em escudos, abertas à data da entrada em vigor deste diploma, logo que se verifique qualquer levantamento ou, o mais tardar, no próximo vencimento, devem ser convertidas nas contas especiais homólogas reguladas neste diploma, entendendo-se, quanto às contas poupança-crédito e na falta de outra manifestação de vontade do titular, que este opta pelo prazo de 181 dias.
 
-###### Art. 2.º É revogado o n.º 3 do artigo 8.º do mencionado [Decreto-Lei n.º 140-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902).
+Art. 2.º É revogado o n.º 3 do artigo 8.º do mencionado [Decreto-Lei n.º 140-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902).
 
-###### Art. 3.º O disposto no presente diploma produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 140-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902), de 14 de Junho.
+Art. 3.º O disposto no presente diploma produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 140-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1986-569902), de 14 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 24 de Outubro de 1986.**
+Promulgado em 24 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Outubro de 1986.**
+Referendado em 25 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8a4582ec3af46d250851ffabfb6d10f2b5160908434ec3abfac99276f662f04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11fe4ad5ba2b7e796103b97eeeb8f9e1371e442e981984b5739d0175c9f1c5fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Investimento Intermunicipal
+relationships:
+- type: cites
+  target: pt:dre:475333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606481:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:45Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +116,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 7.º e 8.º do [Decreto-Lei n.º 118/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1982-606481), de 19 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 7.º e 8.º do [Decreto-Lei n.º 118/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1982-606481), de 19 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — (Definição)
 
@@ -138,24 +148,24 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Os quantitativos inscritos nos termos dos números anteriores serão globalmente transferidos para cada comissão de coordenação regional, sob a forma de contas de ordem e através de orçamentos suplementares, de acordo com o que se encontra previsto no artigo 18.º, não havendo lugar à reposição nos cofres do Estado de eventuais saldos não utilizados no ano da respectiva transferência.
 
-###### Art. 2.º É aditado um artigo 24.º ao [Decreto-Lei n.º 118/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1982-606481), de 19 de Abril, com a seguinte redacção:
+Art. 2.º É aditado um artigo 24.º ao [Decreto-Lei n.º 118/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1982-606481), de 19 de Abril, com a seguinte redacção:
 
 ###### Artigo 24.º
 
 As dúvidas resultantes do presente decreto-lei serão resolvidas, conforme os casos, por despacho do Ministro da Administração Interna ou por despacho conjunto deste e do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 3.º O anexo 1 do [Decreto-Lei n.º 118/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1982-606481), de 19 de Abril, é substituído pela versão que se anexa.
+Art. 3.º O anexo 1 do [Decreto-Lei n.º 118/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1982-606481), de 19 de Abril, é substituído pela versão que se anexa.
 
 Visto e aprovado em Conselho de Ministros de 19 de Agosto de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 1 de Outubro de 1982.**
+Promulgado em 1 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO
 
 Tabela de pontuação dos agrupamentos de municípios, para efeitos de repartição de encargos, a que se referem o n.º 2 do artigo 7.º do [Decreto-Lei n.º 118/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1982-606481), de 19 de Abril, e o artigo 3.º deste diploma.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24500/34993501.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24500/34993501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24500/34993501.pdf)

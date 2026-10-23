@@ -166,6 +166,7 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], 
         "dre_consolidated_failures.jsonl": "Diplomas sem texto consolidado no DRE (histórico de versões)",
         "dre_imported_failures.jsonl": "Diplomas da importação inicial que não foi possível recolher do DRE",
         "dre_dates_failures.jsonl": "Diplomas da recolha do DRE por datas que não foi possível recolher",
+        "dre_missing_failures.jsonl": "Documentos listados nos sitemaps do DRE que não foi possível recolher",
         "eurlex_referenced_failures.jsonl": "Atos da UE referidos pela legislação portuguesa sem versão portuguesa no CELLAR",
         "eurlex_consolidated_failures.jsonl": "Atos da UE com consolidações mas sem versão consolidada em português",
     }
@@ -189,6 +190,25 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], 
             "| Ficheiro | O que contém | Registos | Por motivo |",
             "|---|---|---:|---|",
             *rows,
+        ])
+
+    sitemap_path = coverage_dir / "dre_sitemap_coverage.json"
+    if sitemap_path.exists():
+        sitemap = json.loads(sitemap_path.read_text(encoding="utf-8"))
+        lines.extend([
+            "",
+            "## Cobertura face aos sitemaps do DRE",
+            "",
+            f"Verificado em {sitemap['checked']} com `leis-portugal collect dre --missing`: documentos que o DRE lista"
+            f" nos sitemaps públicos ({sitemap['listed']}), dos quais {sitemap['present']} estão no acervo"
+            f" e {sitemap['missing']} não. Tipos marcados com * são sobretudo da 2.ª Série.",
+            "",
+            "| Tipo | No DRE | No acervo | Em falta |",
+            "|---|---:|---:|---:|",
+            *(
+                f"| {entry['label']}{' *' if entry['optional'] else ''} | {entry['listed']} | {entry['present']} | {entry['missing']} |"
+                for entry in sitemap["types"]
+            ),
         ])
 
     lines.extend(["", "## Registos existentes", ""])

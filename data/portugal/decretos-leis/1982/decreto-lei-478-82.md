@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29500/42004201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1982-380755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:47:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92aa68f4f1434fb3a7e23281d8c8f0d4bbcf56398707fd158ce5e2914b578bad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 568b424094086ece9266b117beb9197fe88b930da529b5b40f1f8e5f154ca06a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- FMI
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514183:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:47:57Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +128,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º De harmonia com o disposto no n.º 1 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, nos artigos 2.º, 3.º e 4.º dos Decretos-Leis n.os 46471, de 7 de Agosto de 1965, [148/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1971-444762), de 21 de Abril, [118-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-1978-354107), de 31 de Maio, e [36/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1981-388435), de 7 de Março, e em conformidade com o previsto na Resolução da Assembleia da República n.º 8-A/78, de 20 de Janeiro, é autorizada a emissão de uma promissória no valor de 1738041837$80 destinada a substituir parte da importância em moeda portuguesa paga ao Fundo Monetário Internacional, para actualização, em termos de direito de saque especial, dos haveres em escudos do referido organismo.
+Artigo 1.º De harmonia com o disposto no n.º 1 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, nos artigos 2.º, 3.º e 4.º dos Decretos-Leis n.os 46471, de 7 de Agosto de 1965, [148/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1971-444762), de 21 de Abril, [118-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-1978-354107), de 31 de Maio, e [36/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1981-388435), de 7 de Março, e em conformidade com o previsto na Resolução da Assembleia da República n.º 8-A/78, de 20 de Janeiro, é autorizada a emissão de uma promissória no valor de 1738041837$80 destinada a substituir parte da importância em moeda portuguesa paga ao Fundo Monetário Internacional, para actualização, em termos de direito de saque especial, dos haveres em escudos do referido organismo.
 
-###### Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e a promissória será entregue ao Banco de Portugal, ao qual incumbe, nos termos do artigo 4.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, e das condições acordadas entre o Estado e o mesmo Banco, desempenhar as funções de depositário enunciadas na secção 2 do artigo XIII do Acordo, aprovado pela Resolução da Assembleia da República n.º 8-A/78, de 20 de Janeiro.
+Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e a promissória será entregue ao Banco de Portugal, ao qual incumbe, nos termos do artigo 4.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, e das condições acordadas entre o Estado e o mesmo Banco, desempenhar as funções de depositário enunciadas na secção 2 do artigo XIII do Acordo, aprovado pela Resolução da Assembleia da República n.º 8-A/78, de 20 de Janeiro.
 
-###### Art. 3.º - 1 - A promissória a emitir não é negociável nem vence juros e é pagável à vista e ao par, creditando a conta do Fundo Monetário Internacional no Banco de Portugal.
+Art. 3.º - 1 - A promissória a emitir não é negociável nem vence juros e é pagável à vista e ao par, creditando a conta do Fundo Monetário Internacional no Banco de Portugal.
 
 2 - No caso de ser paga somente uma parte da importância representada pela promissória, passar-se-á uma nova promissória com as mesmas características e do valor nominal correspondente à quantia que ficar por pagar.
 
-###### Art. 4.º - 1 - Da promissória constarão:
+Art. 4.º - 1 - Da promissória constarão:
 
 a) O número de ordem;
 
@@ -126,11 +152,11 @@ e) Os direitos, isenções e garantias de que goza e que são os dos restantes t
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 10 de Dezembro de 1982.**
+Promulgado em 10 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REPÚBLICA PORTUGUESA
 
@@ -150,11 +176,11 @@ N.º ... 1738041873$80
 
 Lisboa, .../.../...
 
-**O Secretário de Estado do Tesouro,**
+O Secretário de Estado do Tesouro,
 
 ...
 
-**O Presidente da Junta do Crédito Público,**
+O Presidente da Junta do Crédito Público,
 
 ...
 

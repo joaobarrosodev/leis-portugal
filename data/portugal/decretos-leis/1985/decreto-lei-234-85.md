@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15200/18341835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1985-183048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:04:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fcb142cc6005818d1e25b777b90febb4ca04d93904213c1b61417b290edaf01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40ec0a69f1b98819eeda92da1fafd301e4f4536b5874daf01785c7fb35a50c85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:04:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Estabelecimento de Ensino
+- Estado Maior do Exército
+- Militar
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:261169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:04:37Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +127,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado nos estabelecimentos militares de ensino dependentes do Estado-Maior do Exército a categoria de professor-adjunto dos ensinos preparatório e secundário.
+Artigo 1.º É criado nos estabelecimentos militares de ensino dependentes do Estado-Maior do Exército a categoria de professor-adjunto dos ensinos preparatório e secundário.
 
-###### Art. 2.º Os professores providos na categoria referida no artigo anterior poderão ocupar os lugares do quadro de pessoal civil do Exército (QPCE) previstos para os professores dos ensinos preparatório e secundário e do mesmo modo que estes.
+Art. 2.º Os professores providos na categoria referida no artigo anterior poderão ocupar os lugares do quadro de pessoal civil do Exército (QPCE) previstos para os professores dos ensinos preparatório e secundário e do mesmo modo que estes.
 
-###### Art. 3.º Os professores-adjuntos serão nomeados por despacho do Ministro da Defesa Nacional, sob proposta fundamentada do director de cada um dos estabelecimentos de ensino, de entre os professores provisórios que o requeiram e reúnam conjuntamente os requisitos seguintes:
+Art. 3.º Os professores-adjuntos serão nomeados por despacho do Ministro da Defesa Nacional, sob proposta fundamentada do director de cada um dos estabelecimentos de ensino, de entre os professores provisórios que o requeiram e reúnam conjuntamente os requisitos seguintes:
 
 a) Ter no mínimo 40 anos de idade;
 
@@ -115,24 +141,24 @@ c) Haver prestado, nas condições previstas no artigo 12.º do [Decreto-Lei n.�
 
 d) Encontrar-se ao serviço do respectivo estabelecimento militar de ensino há, pelo menos, 5 anos.
 
-###### Art. 4.º Os professores-adjuntos dos estabelecimentos militares de ensino terão direito aos vencimentos e à atribuição de fases que cabem aos professores-adjuntos com idêntica habilitação em serviço no Ministério da Educação.
+Art. 4.º Os professores-adjuntos dos estabelecimentos militares de ensino terão direito aos vencimentos e à atribuição de fases que cabem aos professores-adjuntos com idêntica habilitação em serviço no Ministério da Educação.
 
-###### Art. 5.º A nomeação dos professores-adjuntos far-se-á por uma só vez de entre os professores provisórios que reúnam as condições estabelecidas no artigo 3.º à data do início do ano lectivo de 1984-1985, não podendo transitar nesta categoria para os quadros do Ministério da Educação.
+Art. 5.º A nomeação dos professores-adjuntos far-se-á por uma só vez de entre os professores provisórios que reúnam as condições estabelecidas no artigo 3.º à data do início do ano lectivo de 1984-1985, não podendo transitar nesta categoria para os quadros do Ministério da Educação.
 
-###### Art. 6.º Aos docentes que vierem a ser providos nos lugares de professor-adjunto poderá ser aplicado o disposto no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
+Art. 6.º Aos docentes que vierem a ser providos nos lugares de professor-adjunto poderá ser aplicado o disposto no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
 
-###### Art. 7.º Os lugares de professor-adjunto assim criados extinguir-se-ão à medida que vagarem.
+Art. 7.º Os lugares de professor-adjunto assim criados extinguir-se-ão à medida que vagarem.
 
-###### Art. 8.º O disposto no presente diploma produz efeitos desde o dia 1 de Outubro de 1984.
+Art. 8.º O disposto no presente diploma produz efeitos desde o dia 1 de Outubro de 1984.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - João de Deus Rogado Salvador Pinheiro - Ernâni Rodrigues Lopes.
 
-**Promulgado em 21 de Junho de 1985.**
+Promulgado em 21 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Julho de 1985.**
+Referendado em 1 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

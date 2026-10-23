@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 48/1983, 2º Suplemento, Série I de 1983-02-28
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 708-(53) a 708-(54)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04802/00530054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-g-1983-401321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a84f6dc4d1e306f51be03a5f256ff42407326a078d16717d9252e49ff59bf610
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab71ec6b1ca4d806555024087c4e0a662ced24a6e19fb1685869edb8f8a55e5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Industrial
+- Contribuição Industrial
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:676035:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:26Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +104,9 @@ Considerando a necessidade de estabelecer um sistema que permita a actualizaçã
 
 No uso da autorização conferida pelas alíneas a) e c) do artigo 12.º da [Lei n.º 1/83](https://diariodarepublica.pt/dr/detalhe/lei/1-1983-676035), de 18 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 37.º e 66.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 37.º e 66.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 a) ...
 
@@ -112,7 +124,7 @@ f) ...
 
 § 2.º ...
 
-###### Art. 66.º ...
+Art. 66.º ...
 
 a) ...
 
@@ -122,18 +134,18 @@ b) ...
 
 § 2.º Para efeitos da fixação dos lucros tributáveis dos contribuintes do grupo B sem contabilidade regularmente organizada e dos contribuintes do grupo C, será de tomar em conta, como remuneração normal do trabalho do contribuinte e dos seus familiares não empregados ou assalariados, uma importância anual por cada um não superior à correspondente ao salário mínimo nacional que vigorar no exercício.
 
-###### Art. 2.º As alterações introduzidas pelo artigo 1.º são aplicáveis à liquidação da contribuição industrial relativa aos exercícios respeitantes aos anos de 1982 e seguintes, com excepção da contribuição industrial relativa a contribuintes que tenham cessado totalmente a actividade e já liquidada à data da entrada em vigor deste diploma.
+Art. 2.º As alterações introduzidas pelo artigo 1.º são aplicáveis à liquidação da contribuição industrial relativa aos exercícios respeitantes aos anos de 1982 e seguintes, com excepção da contribuição industrial relativa a contribuintes que tenham cessado totalmente a actividade e já liquidada à data da entrada em vigor deste diploma.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 28 de Fevereiro de 1983.**
+Promulgado em 28 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Fevereiro de 1983.**
+Referendado em 28 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

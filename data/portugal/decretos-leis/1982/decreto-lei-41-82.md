@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1982-600510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a57af09f1a045bf1346af710f27447f15927d6b0f382c63c9723e615615b0a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f25679006a16e4b5db687bfac43c600118bd9901172081525489865546fc3ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extinção de Serviços
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Secretariado para a Cooperação Económica e Técnica Externa
 relationships:
 - type: amended_by
   target: pt:dre:552279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:336541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:46:28Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +114,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinto o Secretariado para a Cooperação Económica e Técnica Externa (SCETE), criado pelo [Decreto-Lei n.º 382/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1975-336541), de 18 de Julho.
+Artigo 1.º É extinto o Secretariado para a Cooperação Económica e Técnica Externa (SCETE), criado pelo [Decreto-Lei n.º 382/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1975-336541), de 18 de Julho.
 
-###### Art. 2.º - 1 - Transitam para o Ministério da Indústria, Energia e Exportação as funções atribuídas ao SCETE relativamente ao Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT), sem prejuízo de uma estreita colaboração com a Secretaria de Estado da Integração Europeia.
+Art. 2.º - 1 - Transitam para o Ministério da Indústria, Energia e Exportação as funções atribuídas ao SCETE relativamente ao Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT), sem prejuízo de uma estreita colaboração com a Secretaria de Estado da Integração Europeia.
 
 2 - A Delegação Permanente junto do GATT recebe instruções do Ministro dos Negócios Estrangeiros no que se refere aos aspectos políticos externos da participação de Portugal no Acordo e ao enquadramento de tal participação no planeamento e execução da política externa portuguesa.
 
@@ -108,7 +124,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O Ministro dos Negócios Estrangeiros e o Ministro da Indústria, Energia e Exportação dar-se-ão conhecimento das instruções transmitidas, bem como da correspondência trocada com a Delegação.
 
-###### Art. 3.º - 1 - Transitam para o Ministério das Finanças e do Plano as funções atribuídas ao SCETE relativamente à Delegação que funciona em Washington junto das autoridades norte-americanas, para fins de natureza técnico-económica de interesse para Portugal.
+Art. 3.º - 1 - Transitam para o Ministério das Finanças e do Plano as funções atribuídas ao SCETE relativamente à Delegação que funciona em Washington junto das autoridades norte-americanas, para fins de natureza técnico-económica de interesse para Portugal.
 
 2 - A Delegação em Washington recebe instruções do Ministério dos Negócios Estrangeiros no que se refere aos aspectos políticos da sua acção e ao enquadramento da mesma no planeamento e execução da política externa portuguesa.
 
@@ -116,7 +132,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O Ministro de Estado e das Finanças e do Plano e o Ministro dos Negócios Estrangeiros dar-se-ão conhecimento das instruções transmitidas, bem como da correspondência trocada com a Delegação.
 
-###### Art. 4.º - 1 - Transitam para o Ministério dos Negócios Estrangeiros as funções atribuídas ao SCETE relativamente à Organização de Cooperação e de Desenvolvimento Económicos (OCDE).
+Art. 4.º - 1 - Transitam para o Ministério dos Negócios Estrangeiros as funções atribuídas ao SCETE relativamente à Organização de Cooperação e de Desenvolvimento Económicos (OCDE).
 
 2 - A Delegação Permanente junto da OCDE recebe instruções do Ministro dos Negócios Estrangeiros, podendo também, em casos de necessidade ou urgência, corresponder-se directamente com os Ministérios envolvidos nas acções da OCDE.
 
@@ -124,34 +140,34 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O Ministro de Estado e das Finanças e do Plano e o Ministro dos Negócios Estrangeiros dar-se-ão conhecimento das instruções transmitidas, bem como da correspondência trocada com a Delegação.
 
-###### Art. 5.º Transitam para o Ministério dos Negócios Estrangeiros todas as restantes funções e competência do SCETE.
+Art. 5.º Transitam para o Ministério dos Negócios Estrangeiros todas as restantes funções e competência do SCETE.
 
-###### Art. 6.º - 1 - As Delegações Permanentes de Portugal junto do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) e da Organização de Cooperação e de Desenvolvimento Económicos (OCDE) serão chefiadas pelo representante de Portugal no respectivo organismo internacional.
+Art. 6.º - 1 - As Delegações Permanentes de Portugal junto do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) e da Organização de Cooperação e de Desenvolvimento Económicos (OCDE) serão chefiadas pelo representante de Portugal no respectivo organismo internacional.
 
 2 - Os chefes das Delegações referidas no número anterior e o chefe da Delegação em Washington deverão dar execução às instruções e directrizes recebidas do Ministro dos Negócios Estrangeiros e dos respectivos ministros da tutela, no âmbito das respectivas competências, bem como, no mesmo domínio, transmitir-lhes directamente todas as decisões, recomendações e demais documentação emanada dos organismos em que estão acreditados e dos que destes dependam.
 
 3 - Nas Delegações a que se refere o presente artigo prestará serviço pessoal do quadro do Ministério dos Negócios Estrangeiros, pessoal requisitado ou destacado de serviços do Estado ou pessoal contratado por aquele Ministério nos termos da legislação em vigor.
 
-###### Art. 7.º - 1 - O pessoal vinculado ao SCETE, a qualquer título, à data de entrada em vigor do presente diploma, fica dependente da Secretaria-Geral do Ministério dos Negócios Estrangeiros até à publicação, dentro de 90 dias, a contar daquela data, de legislação que regule o seu destino, mantendo os direitos e regalias que lhe são assegurados por lei ou contrato, sem prejuízo de, dentro do mesmo prazo, requerer o seu regresso ao quadro de origem.
+Art. 7.º - 1 - O pessoal vinculado ao SCETE, a qualquer título, à data de entrada em vigor do presente diploma, fica dependente da Secretaria-Geral do Ministério dos Negócios Estrangeiros até à publicação, dentro de 90 dias, a contar daquela data, de legislação que regule o seu destino, mantendo os direitos e regalias que lhe são assegurados por lei ou contrato, sem prejuízo de, dentro do mesmo prazo, requerer o seu regresso ao quadro de origem.
 
 2 - O diploma que der execução à medida referida no número anterior atenderá à aplicação do disposto nos Decretos-Leis n.os [191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673) e [191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 25 de Junho, ao pessoal que dela ainda não tenha beneficiado.
 
-###### Art. 8.º - 1 - Sem prejuízo do disposto nos números seguintes, é transferido para o Ministério dos Negócios Estrangeiros o património que está afecto ao SCETE, bem como as obrigações por ele assumidas e os direitos constituídos a seu favor.
+Art. 8.º - 1 - Sem prejuízo do disposto nos números seguintes, é transferido para o Ministério dos Negócios Estrangeiros o património que está afecto ao SCETE, bem como as obrigações por ele assumidas e os direitos constituídos a seu favor.
 
 2 - Exceptuam-se do estabelecido no número anterior os direitos e obrigações emergentes dos contratos de arrendamento celebrados em Portugal, os quais são transferidos para a Presidência do Conselho de Ministros.
 
 3 - A documentação existente nos arquivos do SCETE deverá, conforme os casos, transitar para os ministérios para os quais são, nos termos deste diploma, transferidas as funções que lhe eram cometidas.
 
-###### Art. 9.º Até serem efectuadas as necessárias alterações orçamentais, os encargos decorrentes da execução do presente diploma serão satisfeitos por conta das dotações inscritas no orçamento do SCETE e da Delegação Permanente junto da OCDE, de harmonia com o plano de utilização aprovado por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Negócios Estrangeiros e da Indústria, Energia e Exportação, cabendo o respectivo processamento à Secretaria-Geral do Ministério dos Negócios Estrangeiros.
+Art. 9.º Até serem efectuadas as necessárias alterações orçamentais, os encargos decorrentes da execução do presente diploma serão satisfeitos por conta das dotações inscritas no orçamento do SCETE e da Delegação Permanente junto da OCDE, de harmonia com o plano de utilização aprovado por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Negócios Estrangeiros e da Indústria, Energia e Exportação, cabendo o respectivo processamento à Secretaria-Geral do Ministério dos Negócios Estrangeiros.
 
-###### Art. 10.º As dúvidas e casos omissos que se suscitem na execução do presente diploma serão resolvidos por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Negócios Estrangeiros e da Indústria, Energia e Exportação.
+Art. 10.º As dúvidas e casos omissos que se suscitem na execução do presente diploma serão resolvidos por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Negócios Estrangeiros e da Indústria, Energia e Exportação.
 
-###### Art. 11.º É revogado o [Decreto-Lei n.º 382/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1975-336541), de 18 de Julho.
+Art. 11.º É revogado o [Decreto-Lei n.º 382/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1975-336541), de 18 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Janeiro de 1982.**
+Promulgado em 26 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

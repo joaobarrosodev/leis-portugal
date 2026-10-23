@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:05:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7efce165384c0ef27d03983d15590d08fc22b6c1ad69c97ae0aea1840bee83dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9882ccdd2e584daf9ebed0be6179e04e17d33548a11a3bf312807c0e422a3dc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:05:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Medicina
+- Pessoal Docente
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:380121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:05:35Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +110,9 @@ Assim:
 
 o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 5.º, o n.º 3 do artigo 6.º, o n.º 2 do artigo 9.º, o n.º 1 do artigo 10.º, os n.os 2 e 3 do artigo 11.º, o artigo 12.º e os n.os 2 e 3 do artigo 15.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 5.º, o n.º 3 do artigo 6.º, o n.º 2 do artigo 9.º, o n.º 1 do artigo 10.º, os n.os 2 e 3 do artigo 11.º, o artigo 12.º e os n.os 2 e 3 do artigo 15.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 a) ...
 
@@ -112,13 +128,13 @@ c) ...
 
 5 - ...
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - ...
 
 3 - Obtido o grau a que se refere o número anterior, o contrato passará ao regime de prorrogação previsto no artigo 26.º do Estatuto da Carreira Docente Universitária, sendo o interessado provido, nos termos da legislação vigente, como assistente da instituição ou estabelecimento em que for ministrado o ensino da respectiva disciplina, ainda que supranumerário, e, neste caso, em lugar a extinguir com a cessação do contrato de docente.
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - As funções a que se refere o número anterior, bem como as de assistente e assistente estagiário previstas no artigo 4.º e no n.º 4 do artigo 5.º, do presente diploma, serão exercidas dentro do tempo de serviço a que os interessados estão obrigados na instituição hospitalar ou no estabelecimento de saúde correspondente, com o mínimo de 36 horas de serviço semanal, e conferem o direito aos seguintes abonos:
 
@@ -132,50 +148,50 @@ c) ...
 
 4 - ...
 
-###### Art. 10.º - 1 - Os médicos que se encontrem a frequentar o internato complementar ou que estejam providos em lugares de assistente das carreiras médicas estão autorizados a acumular funções com as de assistente convidado a tempo parcial, desde que seja da concordância da respectiva instituição hospitalar ou estabelecimento de saúde.
+Art. 10.º - 1 - Os médicos que se encontrem a frequentar o internato complementar ou que estejam providos em lugares de assistente das carreiras médicas estão autorizados a acumular funções com as de assistente convidado a tempo parcial, desde que seja da concordância da respectiva instituição hospitalar ou estabelecimento de saúde.
 
 2 - ...
 
-###### Art. 11.º - 1 ...
+Art. 11.º - 1 ...
 
 2 - Os contratos serão anuais e prorrogáveis por períodos de igual duração, por um máximo de quatro vezes, podendo, subsequentemente, ser reconduzidos por períodos de 5 anos, nos termos do n.º 2 do artigo 31.º do Estatuto da Carreira Docente Universitária.
 
 3 - As funções dos docentes contratados ao abrigo do disposto nos números anteriores serão exercidas dentro do tempo de serviço a que os interessados estão obrigados na instituição hospitalar ou no estabelecimento de saúde correspondente e conferem o direito, para além das remunerações e acréscimo sobre o vencimento base que lhes couber na respectiva instituição hospitalar ou estabelecimento de saúde, a um suplemento de 30% do vencimento correspondente à categoria para que forem contratados, a abonar pela faculdade, mesmo que se encontrem em regime de dedicação exclusiva.
 
-###### Art. 12.º Independentemente do disposto nos artigos anteriores, poderão também ser contratados como professores convidados e como assistentes convidados em regime de tempo integral os médicos que satisfaçam as condições previstas, respectivamente, no artigo 15.º e nos n.os 1 e 2 do artigo 16.º do Estatuto da Carreira Docente Universitária.
+Art. 12.º Independentemente do disposto nos artigos anteriores, poderão também ser contratados como professores convidados e como assistentes convidados em regime de tempo integral os médicos que satisfaçam as condições previstas, respectivamente, no artigo 15.º e nos n.os 1 e 2 do artigo 16.º do Estatuto da Carreira Docente Universitária.
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 2 - Não poderão igualmente ser prorrogados, para além do final do ano lectivo que se seguir ao termo da sua duração, os contratos com os docentes convidados que não obedeçam ao regime estabelecido nos artigos 10.º e 11.º
 
 3 - Aos docentes a que se refere o número anterior é permitida a passagem, desde já e a seu pedido, ao regime de contratação previsto nos artigos 10.º, 11.º e 12.º
 
-###### Art. 2.º São aditados três novos artigos ao [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), um a inserir entre os artigos 5.º e 6.º e dois a inserir entre os artigos 12.º e 13.º, com a seguinte redacção:
+Art. 2.º São aditados três novos artigos ao [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), um a inserir entre os artigos 5.º e 6.º e dois a inserir entre os artigos 12.º e 13.º, com a seguinte redacção:
 
-###### Art. 5.º - A. Para efeitos da aplicação do disposto no n.º 4 do artigo anterior, o recrutamento de assistentes e assistentes estagiários só poderá fazer-se de entre médicos que se encontrem colocados em vaga do internato complementar na área profissional correspondente ou afim.
+Art. 5.º - A. Para efeitos da aplicação do disposto no n.º 4 do artigo anterior, o recrutamento de assistentes e assistentes estagiários só poderá fazer-se de entre médicos que se encontrem colocados em vaga do internato complementar na área profissional correspondente ou afim.
 
-###### Art. 12.º- A. Para as disciplinas não previstas nos protocolos referidos no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, podem ainda ser contratados como assistentes convidados em regime de tempo integral os licenciados ou diplomados com curso superior equivalente que satisfaçam as condições previstas no artigo 16.º do Estatuto da Carreira Docente Universitária.
+Art. 12.º- A. Para as disciplinas não previstas nos protocolos referidos no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, podem ainda ser contratados como assistentes convidados em regime de tempo integral os licenciados ou diplomados com curso superior equivalente que satisfaçam as condições previstas no artigo 16.º do Estatuto da Carreira Docente Universitária.
 
-###### Art. 12.º- B. No âmbito de protocolos estabelecidos com o Estado-Maior-General das Forças Armadas poderão também ser contratados os médicos das carreiras militares que satisfaçam as condições previstas nos artigos 15.º e 16.º do Estatuto da Carreira Docente Universitária.
+Art. 12.º- B. No âmbito de protocolos estabelecidos com o Estado-Maior-General das Forças Armadas poderão também ser contratados os médicos das carreiras militares que satisfaçam as condições previstas nos artigos 15.º e 16.º do Estatuto da Carreira Docente Universitária.
 
 Normas finais e transitórias
 
-###### Art. 3.º - 1 - Ao pessoal docente a que se refere o artigo 8.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, que não possui o grau das carreiras médicas exigido por lei para o provimento nas categorias e lugares a que tem direito por força daquele preceito legal é garantida desde já a admissão aos correspondentes concursos de habilitação, a abrir, para o efeito, por despacho do Ministro da Saúde, no prazo máximo de 90 dias a contar da data da publicação do presente diploma.
+Art. 3.º - 1 - Ao pessoal docente a que se refere o artigo 8.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, que não possui o grau das carreiras médicas exigido por lei para o provimento nas categorias e lugares a que tem direito por força daquele preceito legal é garantida desde já a admissão aos correspondentes concursos de habilitação, a abrir, para o efeito, por despacho do Ministro da Saúde, no prazo máximo de 90 dias a contar da data da publicação do presente diploma.
 
 2 - Os actuais assistentes das disciplinas referidas nos protocolos previstos no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, que, após a data da publicação deste diploma obtiveram o grau de doutor e que não possuem qualquer grau das carreiras médicas, beneficiam da garantia conferida pelo número anterior para os professores auxiliares.
 
-###### Art. 4.º Independentemente do disposto no artigo anterior, os docentes de carreira que, à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, fossem detentores do título de especialista pela Ordem dos Médicos são desde já considerados, para os efeitos previstos no Decreto-Lei n.os 312/84, de 26 de Setembro, como habilitados com o grau de assistente hospitalar nas correspondentes especialidades, desde a data em que obtiveram a respectiva especialidade, sem prejuízo dos direitos que lhes são conferidos pelo artigo 5.º da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.
+Art. 4.º Independentemente do disposto no artigo anterior, os docentes de carreira que, à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, fossem detentores do título de especialista pela Ordem dos Médicos são desde já considerados, para os efeitos previstos no Decreto-Lei n.os 312/84, de 26 de Setembro, como habilitados com o grau de assistente hospitalar nas correspondentes especialidades, desde a data em que obtiveram a respectiva especialidade, sem prejuízo dos direitos que lhes são conferidos pelo artigo 5.º da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.
 
-###### Art. 5.º Os actuais assistentes estagiários e assistentes convidados das disciplinas referidas nos protocolos previstos no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, que à data da sua publicação tivessem já concluído o internato complementar ou se encontrassem a menos de 2 anos do seu termo não ficarão obrigados, para efeitos da sua passagem a assistentes, ao período mínimo de exercício de funções na respectiva categoria, fixado na alínea a) do n.º 1 do artigo 12.º do Estatuto da Carreira Docente Universitária.
+Art. 5.º Os actuais assistentes estagiários e assistentes convidados das disciplinas referidas nos protocolos previstos no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, que à data da sua publicação tivessem já concluído o internato complementar ou se encontrassem a menos de 2 anos do seu termo não ficarão obrigados, para efeitos da sua passagem a assistentes, ao período mínimo de exercício de funções na respectiva categoria, fixado na alínea a) do n.º 1 do artigo 12.º do Estatuto da Carreira Docente Universitária.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - António Manuel Maldonado Gonelha.
 
-**Promulgado em 11 de Julho de 1985.**
+Promulgado em 11 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Julho de 1985.**
+Referendado em 12 de Julho de 1985.
 
-**O Primeiro-Ministro Mário Soares.**
+O Primeiro-Ministro Mário Soares.

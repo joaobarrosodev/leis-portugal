@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1985-180422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:06:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0904cbce19fb24d55f7f24999eb324a1b395adb44c72e571a8880753dd88413
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6488d0bbd3e9058d2c32ed06ccc4eaaa671c67222cf8d9ae5ee0703320912695
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Dívida
+- Instituição de Crédito
+- Juros
+relationships:
+- type: cites
+  target: pt:dre:375859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390390:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:06:13Z'
   warnings: []
   errors: []
 ---
@@ -94,28 +105,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Estado obriga-se a compensar integralmente as instituições de crédito dos juros não exigíveis por força da aplicação da [Portaria n.º 885/82](https://diariodarepublica.pt/dr/detalhe/portaria/885-1982-375859), de 20 de Setembro.
+Artigo 1.º O Estado obriga-se a compensar integralmente as instituições de crédito dos juros não exigíveis por força da aplicação da [Portaria n.º 885/82](https://diariodarepublica.pt/dr/detalhe/portaria/885-1982-375859), de 20 de Setembro.
 
-###### Art. 2.º As compensações a atribuir ao abrigo do presente decreto-lei deverão ser reclamadas pelas instituições de crédito ao Ministério das Finanças e do Plano, através da Direcção-Geral do Tesouro, que procederá ao seu pagamento, incluindo os juros devidos, de acordo com o n.º 2 do artigo 3.º, após conferência ou confirmação em termos a definir por despacho do Ministro das Finanças e do Plano.
+Art. 2.º As compensações a atribuir ao abrigo do presente decreto-lei deverão ser reclamadas pelas instituições de crédito ao Ministério das Finanças e do Plano, através da Direcção-Geral do Tesouro, que procederá ao seu pagamento, incluindo os juros devidos, de acordo com o n.º 2 do artigo 3.º, após conferência ou confirmação em termos a definir por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 3.º - 1 - A regularização das compensações apuradas nos termos do artigo 2.º deverá efectuar-se em três prestações anuais e iguais, vencendo-se a primeira um ano após a data de atribuição.
+Art. 3.º - 1 - A regularização das compensações apuradas nos termos do artigo 2.º deverá efectuar-se em três prestações anuais e iguais, vencendo-se a primeira um ano após a data de atribuição.
 
 2 - Sobre os montantes das compensações atribuídas e não regularizadas incidirão juros calculados à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período anual de contagem de juro, sendo liquidados nas datas corresponpondentes ao vencimento das compensações.
 
-###### Art. 4.º Considera-se como data de atribuição das compensações a da entrada em vigor do presente diploma ou a do primeiro dia do trimestre subsequente à concretização da operação de dação, consoante se trate, respectivamente, de operações de dação anteriores ou posteriores à referida data da entrada em vigor.
+Art. 4.º Considera-se como data de atribuição das compensações a da entrada em vigor do presente diploma ou a do primeiro dia do trimestre subsequente à concretização da operação de dação, consoante se trate, respectivamente, de operações de dação anteriores ou posteriores à referida data da entrada em vigor.
 
-###### Art. 5.º Em 1986 e anos seguintes a Direcção-Geral do Tesouro fica autorizada a inscrever no capítulo 60.º «Despesas excepcionais» do orçamento do Ministério das Finanças e do Plano as dotações necessárias ao pagamento de encargos a que se refere o presente diploma.
+Art. 5.º Em 1986 e anos seguintes a Direcção-Geral do Tesouro fica autorizada a inscrever no capítulo 60.º «Despesas excepcionais» do orçamento do Ministério das Finanças e do Plano as dotações necessárias ao pagamento de encargos a que se refere o presente diploma.
 
-###### Art. 6.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
 
-**Promulgado em 26 de Julho de 1985.**
+Promulgado em 26 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Julho de 1985.**
+Referendado em 30 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

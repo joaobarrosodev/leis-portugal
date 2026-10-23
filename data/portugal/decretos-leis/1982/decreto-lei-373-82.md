@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21100/27352739.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1982-375642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7235837bf842f801e6e58354a60eee3fdd22c2b43b55b2bd2e16d31d5c82d767
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7937664537e0b4d513fc1f68965eeb5189bd2f43a22aa270140e323d0d7beda9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Organização Judiciária
+- Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395758:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:379129:por
+  label: Rectificado pela DECL.DD5863.15.11.1982.PCM, DR.IS [288] de 15.12.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-379129
+  date: '1982-11-15'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:45:50Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +137,7 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 14/82](https://diariodarepublica.pt/dr/detalhe/lei/14-1982-395758), de 15 de Junho, e da competência que lhe é própria, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São introduzidas as seguintes alterações nos mapas anexos ao [Decreto-Lei n.º 269/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1978-330063), de 1 de Setembro:
+Artigo 1.º São introduzidas as seguintes alterações nos mapas anexos ao [Decreto-Lei n.º 269/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1978-330063), de 1 de Setembro:
 
 MAPA VI
 
@@ -794,11 +819,11 @@ Vila Verde: 2.
 
 ...
 
-###### Art. 2.º - 1 - Os juízos criados pelo presente diploma entram em funcionamento 2 meses depois de publicada a portaria do Ministro da Justiça que os declare instalados.
+Art. 2.º - 1 - Os juízos criados pelo presente diploma entram em funcionamento 2 meses depois de publicada a portaria do Ministro da Justiça que os declare instalados.
 
 2 - Mantém-se a competência dos actuais juízos relativamente aos processos que neles tenham sido distribuídos até à data da entrada em funcionamento dos novos juízos.
 
-###### Art. 3.º - 1 - Em cada tribunal a extinção de juízos recai sobre os juízos de superior numeração.
+Art. 3.º - 1 - Em cada tribunal a extinção de juízos recai sobre os juízos de superior numeração.
 
 2 - Os lugares de funcionários de justiça a extinguir serão definidos por portaria do Ministro da Justiça.
 
@@ -810,8 +835,8 @@ Vila Verde: 2.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Agosto de 1982.**
+Promulgado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

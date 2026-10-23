@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12300/19611962.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1983-451806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:51:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c22d3a62c1b76712c7e75b88a69e67f8b838160722d62e6e9b55966ece196d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d74fd44514ee279329293712bc7be8805cbe94865ea66ce93a8b888ad9c5a7dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Direcção Geral do Turismo
 relationships:
 - type: amended_by
   target: pt:dre:285479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:606541:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285479:por
+  label: "Revogado pelo DEC LEI.155/88.29.04.1988.MCT, DR.IS [99] de 29.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1988-285479
+  date: '1988-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:51:14Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +113,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto-Lei n.º 124/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1982-606541), de 22 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto-Lei n.º 124/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1982-606541), de 22 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - O conselho administrativo é constituído pelo director-geral, que presidirá, por 2 elementos do pessoal dirigente de categoria igual ou superior a director de serviços, devendo incluir o que tiver na sua área de actuação os serviços de contabilidade, ambos a designar pelo membro do Governo responsável pelo sector do Turismo, e por um representante da Direcção-Geral da Contabilidade Pública a designar pelo Ministro de Estado e das Finanças e do Plano.
+Art. 3.º - 1 - O conselho administrativo é constituído pelo director-geral, que presidirá, por 2 elementos do pessoal dirigente de categoria igual ou superior a director de serviços, devendo incluir o que tiver na sua área de actuação os serviços de contabilidade, ambos a designar pelo membro do Governo responsável pelo sector do Turismo, e por um representante da Direcção-Geral da Contabilidade Pública a designar pelo Ministro de Estado e das Finanças e do Plano.
 
 2 - O presidente do conselho administrativo será substituído, nos casos de ausência ou impedimento, pelo subdirector-geral do Turismo ou por um dos directores de serviço que funcione como adjunto do director-geral.
 
@@ -114,12 +125,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel - Luís Fernando Cardoso Nandim de Carvalho.
 
-**Promulgado em 12 de Maio de 1983.**
+Promulgado em 12 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Maio de 1983.**
+Referendado em 13 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 135/1984, 1º Suplemento, Série I de 1984-06-11
   number: '135'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1844-(12) a 1844-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/13501/00120019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1984-143303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:57:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abcf8057e6e22b3f864e57700f1f4ef0f304a42453cab3d6aa4661816a0a9c3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5cf938bc0306a11329ddbf1d0d6f9059fb49fce1c2c6da5915820a3be08254b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Importação
+- Importação
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176716:por
+  label: Alterada a Pauta dos Direitos de Importação publicada em separata e aprovada pelo Dec Lei 456-A/83, de 28-dez,alterada
+    pelos Decs Leis 131/84, de 30-abr, pelo presente diploma, 216/84, de 03-jul, e 403/84, de 31-dez, pelo(a) Decreto-Lei
+    n.º 188/85 - Diário da República n.º 130/1985, 1º Suplemento, Série I de 1985-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-1985-176716
+  date: '1985-06-07'
+- type: amended_by
+  target: pt:dre:221748:por
+  label: "Alterada a pauta dos Direitos de importação, aprovada pelo Dec Lei 456-A/83, de 28-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.308/86.23.09.1986.MF, DR.IS [219] de 23.09.1986\086\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1986-221748
+  date: '1986-09-23'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:57:48Z'
   warnings: []
   errors: []
 ---
@@ -95,21 +123,21 @@ No uso da faculdade conferida pela alínea b) do artigo 19.º da [Lei n.º 42/83
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As taxas do capítulo 3 da Pauta dos Direitos de Importação, bem como as notas às posições pautais do referido capítulo, passam a ser as indicadas no anexo a este diploma.
+Artigo 1.º As taxas do capítulo 3 da Pauta dos Direitos de Importação, bem como as notas às posições pautais do referido capítulo, passam a ser as indicadas no anexo a este diploma.
 
-###### Art. 2.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Álvaro Roque de Pinho Bissaia Barreto - Carlos Montez Melancia - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 31 de Maio de 1984.**
+Promulgado em 31 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Junho de 1984.**
+Referendado em 1 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ### CAPÍTULO 3 — Peixes, crustáceos e moluscos
 
@@ -123,4 +151,4 @@ b) Os peixes (compreendendo os fígados, ovas e sémen), crustáceos e moluscos 
 
 c) O caviar e seus sucedâneos (n.º 16.04).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/13501/00120019.pdf))](https://files.diariodarepublica.pt/1s/1984/06/13501/00120019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/13501/00120019.pdf)

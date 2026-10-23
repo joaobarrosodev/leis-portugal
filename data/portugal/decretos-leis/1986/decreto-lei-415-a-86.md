@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 289/1986, 1º Suplemento, Série I de 1986-12-17
   number: '289'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3746-(1) a 3746-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28901/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d6b98ece4563b98f2b8b08dfa31f3933d0f0dc1738dad838e28a3ac880fdd15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c66b717c17f128f06ca1b150a1557b5dfef4a932f88050b63a5bd6da0ae63660
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Preço
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:469604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313846:por
+  label: "Alterados os artigos 3.º e 5.º e a lista anexa ao presente diploma, pelo DEC LEI.15/90.08.01.1990.MOPTC, DR.IS [6]\
+    \ de 08.01.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1990-313846
+  date: '1990-01-08'
+- type: amended_by
+  target: pt:dre:471161:por
+  label: "Alterado o artigo 8.º, pelo DEC LEI.121/91.21.03.1991.MOPTC, DR.IS-A [67] de 21.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1991-471161
+  date: '1991-03-21'
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:449197:por
+  label: "Revogado o n.º 3 da lista anexa ao presente diploma, pelo DEC LEI.297/92.31.12.1992.MOPTC, DR.IS-A [301]Supl de\
+    \ 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-1992-449197
+  date: '1992-12-31'
+- type: repealed_by
+  target: pt:dre:469604:por
+  label: "Revogado pelo DEC LEI.8/93.11.01.1993.MOPTC, DR.IS-A [8]Supl de 11.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1993-469604
+  date: '1993-01-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:16:14Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +142,13 @@ Assim, visa o presente diploma, fundamentalmente, o alargamento dos casos de lib
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os preços dos transportes ferroviário, rodoviário, rodo-ferroviário e fluvial de mercadorias são fixados pelos operadores.
+Artigo 1.º - 1 - Os preços dos transportes ferroviário, rodoviário, rodo-ferroviário e fluvial de mercadorias são fixados pelos operadores.
 
 2 - Na fixação de preços do transporte internacional ferroviário e rodoviário os operadores deverão ter em conta a regulamentação comunitária, designadamente as tarifas de referência previstas para o transporte rodoviário.
 
-###### Art. 2.º Os preços dos transportes ferroviário, rodoviário e fluvial de passageiros, com excepção dos transportes constantes da lista anexa, são fixados pelos operadores.
+Art. 2.º Os preços dos transportes ferroviário, rodoviário e fluvial de passageiros, com excepção dos transportes constantes da lista anexa, são fixados pelos operadores.
 
-###### Art. 3.º - 1 - Os preços e as tarifas dos transportes de passageiros constantes da lista anexa são fixados de acordo com os números seguintes.
+Art. 3.º - 1 - Os preços e as tarifas dos transportes de passageiros constantes da lista anexa são fixados de acordo com os números seguintes.
 
 2 - O Governo, através do ministro competente em matéria de preços, do ministro da tutela dos transportes e, quando o transporte seja operado por empresas públicas, do Ministro das Finanças, fixará:
 
@@ -119,33 +160,33 @@ b) Por despacho, as percentagens de aumento médio a aplicar em cada revisão ta
 
 4 - Nos transportes urbanos concessionados pelos municípios o exercício da competência da Direcção-Geral de Transportes Terrestres referida no número anterior será precedido de consulta aos municípios e associações representativas interessadas.
 
-###### Art. 4.º Os preços dos transportes colectivos urbanos explorados directamente pelos municípios são fixados pelas câmaras municipais nos termos da lei.
+Art. 4.º Os preços dos transportes colectivos urbanos explorados directamente pelos municípios são fixados pelas câmaras municipais nos termos da lei.
 
-###### Art. 5.º Os preços fixados pelos operadores nos termos deste diploma serão comunicados à Direcção-Geral de Transportes Terrestres com a antecedência mínima de quinze dias relativamente à data da sua entrada em vigor, com a excepção dos respeitantes ao transporte público ocasional de mercadorias.
+Art. 5.º Os preços fixados pelos operadores nos termos deste diploma serão comunicados à Direcção-Geral de Transportes Terrestres com a antecedência mínima de quinze dias relativamente à data da sua entrada em vigor, com a excepção dos respeitantes ao transporte público ocasional de mercadorias.
 
-###### Art. 6.º Os preços, as tarifas e as condições de transporte em vigor constarão de publicação própria e deverão ter adequada divulgação.
+Art. 6.º Os preços, as tarifas e as condições de transporte em vigor constarão de publicação própria e deverão ter adequada divulgação.
 
-###### Art. 7.º Excepcionalmente o Governo poderá fazer depender a aprovação dos preços e tarifas abrangidos pelo presente diploma de portaria conjunta do Ministro das Finanças, do ministro competente em matéria de preços e do ministro da tutela dos transportes.
+Art. 7.º Excepcionalmente o Governo poderá fazer depender a aprovação dos preços e tarifas abrangidos pelo presente diploma de portaria conjunta do Ministro das Finanças, do ministro competente em matéria de preços e do ministro da tutela dos transportes.
 
-###### Art. 8.º - 1 - É revogado o [Decreto-Lei n.º 16/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1982-601720), de 23 de Janeiro.
+Art. 8.º - 1 - É revogado o [Decreto-Lei n.º 16/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1982-601720), de 23 de Janeiro.
 
 2 - É revogado o artigo 28.º do [Decreto-Lei n.º 70/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1978-656378), de 7 de Abril, devendo, todavia, o operador ferroviário fixar, nos termos do artigo 1.º do presente diploma, um preço uniforme, independentemente da distância e do utilizador, para o transporte de trigo no interior do País.
 
 3 - Mantêm-se em vigor as disposições do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, que não colidam com o preceituado no presente diploma.
 
-###### Art. 9.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 9.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 12 de Dezembro de 1986.**
+Promulgado em 12 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Dezembro de 1986.**
+Referendado em 17 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Lista anexa no Decreto-Lei n.º 415-A/86
 

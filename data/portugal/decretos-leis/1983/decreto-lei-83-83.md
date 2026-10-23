@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03500/04230424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1983-310667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fee53d57d65c7fbc5e88f7ad4eed1de25fe3541b0524ceb33b1102785b2f2a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c63ae11204de332dd52fbb8789d3be1e1be488bbe655e14f7f711f93bfd36e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Turismo de Portugal no Estrangeiro
+- Formas de Provimento
+- Pessoal Dirigente
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:684396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:472152:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:684396:por
+  label: Revogado pelo(a) Decreto-Lei n.º 179/92 - Diário da República n.º 188/1992, 1º Suplemento, Série I-A de 1992-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1992-684396
+  date: '1992-08-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:55:50Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +110,9 @@ Considerando ainda o justo interesse na criação e enriquecimento de currículo
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 5 do artigo 5.º do [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), de 19 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 5 do artigo 5.º do [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), de 19 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - ...
 
@@ -109,9 +122,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Os directores e chefes de serviços no estrangeiro, bem como o restante pessoal, serão nomeados em comissão de serviço ou contratados mediante despacho conjunto do membro do Governo com tutela sobre o sector do turismo e do Ministro de Estado e das Finanças e do Plano, que fixará as respectivas remunerações.
 
-###### Art. 2.º A seguir ao artigo 5.º do [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), com a nova redacção dada pelo artigo 1.º do presente diploma, é intercalado o seguinte artigo:
+Art. 2.º A seguir ao artigo 5.º do [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), com a nova redacção dada pelo artigo 1.º do presente diploma, é intercalado o seguinte artigo:
 
-###### Art. 5.º-A - 1 - Os cargos de directores dos centros de turismo de Portugal no estrangeiro (CTPs), a desempenhar por funcionários do quadro da Direcção-Geral do Turismo, serão preenchidos em comissão de serviço com a duração média de 4 anos, não podendo exceder o período de 6 anos.
+Art. 5.º-A - 1 - Os cargos de directores dos centros de turismo de Portugal no estrangeiro (CTPs), a desempenhar por funcionários do quadro da Direcção-Geral do Turismo, serão preenchidos em comissão de serviço com a duração média de 4 anos, não podendo exceder o período de 6 anos.
 
 2 - No período compreendido entre 4 e 6 anos de comissão de serviço deverá proceder-se à transferência para outros mercados estrangeiros dos titulares dos cargos referidos no número anterior.
 
@@ -119,12 +132,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

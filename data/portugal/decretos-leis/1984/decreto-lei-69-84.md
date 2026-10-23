@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/04900/06590664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1984-661374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:01:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8265abfc0ade739c1853db5f6f2a432c256e3ed6c5e73d0bcac27a1792050fca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e8fa0137e09001048daf7bf76f75546f015276eab8ccc9ce3bbe8ed43aee720
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:01:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Execução do Orçamento
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:01:49Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +158,13 @@ Ao abrigo do artigo 16.º da [Lei n.º 40/83](https://diariodarepublica.pt/dr/de
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Execução do Orçamento do Estado)
 
 O presente diploma contém disposições necessárias à execução do Orçamento do Estado para 1984.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Utilização das dotações orçamentais)
 
@@ -118,13 +178,13 @@ O presente diploma contém disposições necessárias à execução do Orçament
 
 5 - No âmbito dos serviços civis, apenas o Instituto Geográfico e Cadastral fica autorizado a realizar despesas com fotografias aéreas, dadas as responsabilidades que nessa área lhe estão cometidas, através do [Decreto-Lei n.º 513/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1980-462273), de 28 de Outubro.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Orçamentos privativos)
 
 Os orçamentos privativos dos serviços e fundos autónomos da administração central são aprovados pelo ministro da tutela e visados pelo Ministro das Finanças e do Plano.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Regime duodecimal)
 
@@ -136,13 +196,13 @@ Os orçamentos privativos dos serviços e fundos autónomos da administração c
 
 4 - Nos serviços com orçamentos privativos, a competência designada no número anterior pertence à entidade que aprovar o respectivo orçamento, sem necessidade de intervenção do Ministro das Finanças e do Plano.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Eficácia, eficiência e pertinência das despesas)
 
 Compete às delegações da Direcção-Geral da Contabilidade Pública, no âmbito da sua específica acção liquidadora das despesas orçamentais e autorizadora do seu pagamento, proceder, com o maior rigor, à análise da utilidade social das despesas sujeitas à informação de cabimento prévio, nos domínios da eficácia, da eficiência e da pertinência.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Contenção de despesas)
 
@@ -168,7 +228,7 @@ d) As dotações de «Investimentos do Plano».
 
 3 - O Ministro das Finanças e do Plano poderá autorizar a utilização de maior percentagem das dotações referidas no n.º 1, mediante processos devidamente justificados pelos serviços e informados pelas respectivas delegações da Direcção-Geral da Contabilidade Pública e previamente autorizados pelos ministros da tutela.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Fundos permanentes)
 
@@ -176,7 +236,7 @@ d) As dotações de «Investimentos do Plano».
 
 2 - Mediante a autorização do ministro da pasta, em casos especiais, devidamente fundamentados e com o acordo do Ministro das Finanças e do Plano, poderão ser constituídos fundos permanentes por importâncias superiores a 1 duodécimo, em conta das correspondentes dotações orçamentais, devendo ser repostos nos cofres do Estado, até 14 de Fevereiro seguinte, os saldos que porventura se verifiquem no final do ano económico.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Requisição de fundos)
 
@@ -188,7 +248,7 @@ d) As dotações de «Investimentos do Plano».
 
 4 - As delegações da Direcção-Geral da Contabilidade Pública não poderão autorizar, para pagamento, as requisições e outros documentos de levantamentos de fundos dos cofres do Estado que, em face dos elementos referidos nos n.os 2 e 3, se mostrem desnecessárias.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Aquisição de veículos com motor)
 
@@ -196,13 +256,13 @@ d) As dotações de «Investimentos do Plano».
 
 2 - As referidas propostas, depois de aprovadas pelo ministro da tutela, serão submetidas à Direcção-Geral do Património do Estado, que, com o seu parecer, as apresentará à apreciação do Ministro das Finanças e do Plano.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Alterações ao Orçamento do Estado)
 
 Os pedidos de alterações orçamentais serão apresentados, nos casos em que seja justificada a sua imprescindibilidade, à correspondente delegação da Direcção-Geral da Contabilidade Pública, a qual apenas dará seguimento aos que se apresentarem com adequada contrapartida ou, no caso de esta faltar, desde que se verifique terem sido esgotadas todas as possibilidades de a conseguir nas verbas do respectivo orçamento.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Alteração de determinados prazos para autorização de despesas)
 
@@ -218,19 +278,19 @@ b) Todas as operações a cargo daquelas delegações terão lugar até 16 de Ja
 
 c) Em 31 de Janeiro de 1985 será encerrada, com referência a 31 de Dezembro anterior, a conta corrente do Tesouro Público no Banco de Portugal, como caixa geral do Estado, caducando as autorizações que até essa data não se tenham efectivado, devendo os restantes cofres públicos proceder da mesma forma.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Alteração da data para remessa das tabelas de entrada a saída de fundos relativos ao último mês de cada ano económico.)
 
 As tabelas de entrada e saída de fundos relativos ao mês de Dezembro de 1984 deverão ser enviadas pelos diversos cofres públicos à Direcção-Geral da Contabilidade Pública até ao dia 15 de Fevereiro seguinte.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Isenção de reposição de saldos)
 
 O disposto no n.º 9 do artigo 4.º do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, não se aplica às verbas consignadas no Orçamento do Estado a «Serviços e obras sociais», ao «Fundo de compensação do seguro de colheitas», ao «Serviço Nacional de Saúde» e bem assim a outros casos que mereçam a concordância do Ministro das Finanças e do Plano, precedendo, quanto aos últimos, o parecer da Direcção-Geral da Contabilidade Pública.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Dotações para «Investimentos do Plano»)
 
@@ -242,37 +302,37 @@ O disposto no n.º 9 do artigo 4.º do [Decreto-Lei n.º 459/82](https://diariod
 
 4 - Os fundos e serviços autónomos, sem prejuízo da elaboração dos programas, a aprovar e a visar nos termos prescritos no n.º 1, só poderão aplicar as referidas dotações após a sua inclusão em orçamento privativo suplementar, sujeito à aprovação e visto das entidades competentes.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Compromissos internacionais de natureza militar)
 
 De harmonia com os compromissos internacionais e para ocorrer a exigências de natureza militar, é acrescentada de 1139988 contos a importância do Orçamento do Estado corrigida pelo artigo 16.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 28 de Fevereiro.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Contribuição financeira para as regiões autónomas)
 
 As verbas descritas no capítulo 60.º do orçamento do Ministério das Finanças e do Plano, destinadas às regiões autónomas, só podem ser aplicadas mediante despacho do Ministro das Finanças e do Plano.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Subsídios a empresas públicas)
 
 Depende da resolução do Conselho de Ministros, sob proposta conjunta do ministro da tutela e do Ministro das Finanças e do Plano, a concessão, no decurso do corrente ano económico, de subsídios a empresas públicas que não se encontrem individualizadas como entidades recebedoras do Orçamento do Estado.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Dotação para pessoal no orçamento do Ministério da Justiça)
 
 Os pedidos de alterações orçamentais de verbas destinadas ao pagamento de «Remunerações certas e permanentes» que se apresentem sem contrapartida em disponibilidades de dotações adequadas dentro do mesmo capítulo de despesas do orçamento do Ministério da Justiça só terão seguimento, quanto aos serviços em que tal possibilidade se encontre prevista nas respectivas leis orgânicas ou normas estatutárias, se for oferecida a necessária cobertura por mais-valias de receita a entregar nos cofres do Tesouro pelo Gabinete de Gestão Financeira do Ministério da Justiça.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Despesas de representação e de residência do Ministério dos Negócios Estrangeiros)
 
 Durante o ano de 1984, a fixação dos quantitativos para despesas de representação e de residência do Ministério dos Negócios Estrangeiros continuará a carecer de aprovação do Ministro das Finanças e do Plano.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Despesas com a cooperação)
 
@@ -282,7 +342,7 @@ Durante o ano de 1984, a fixação dos quantitativos para despesas de representa
 
 3 - É vedado a todos os serviços do Estado, independentemente do seu grau de autonomia, o desenvolvimento de quaisquer acções de cooperação que não constem do programa referido no n.º 1 e que não sejam cobertas pela referida dotação.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Regime especial de despesas no Ministério da Indústria e Energia)
 
@@ -292,13 +352,13 @@ Durante o ano de 1984, a fixação dos quantitativos para despesas de representa
 
 3 - Poderão também ser aplicadas nas despesas referenciadas no número anterior as receitas provenientes de entregas feitas pelos organismos tutelados, em conformidade com os despachos conjuntos proferidos nesse sentido pelos respectivos titulares das pastas de que os mesmos dependem.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Regime especial de despesas no Ministério do Comércio e Turismo)
 
 A movimentação da verba inscrita no orçamento do Ministério do Comércio e Turismo, no cap. 01, div. 01, C. E. 44.09, alínea B, «Fomento à exportação», só poderá ser efectuada mediante despacho conjunto do Ministro das Finanças e do Plano e do Ministro do Comércio e Turismo.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Dotações comuns para vencimentos do pessoal docente)
 
@@ -308,7 +368,7 @@ A movimentação da verba inscrita no orçamento do Ministério do Comércio e T
 
 3 - À Direcção-Geral de Educação de Adultos compete prestar informações de cabimento nos diplomas de nomeação dos regentes de cursos de educação de adultos.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Verbas para obras a efectuar pela Direcção-Geral dos Edifícios e Monumentos Nacionais)
 
@@ -316,13 +376,13 @@ A movimentação da verba inscrita no orçamento do Ministério do Comércio e T
 
 2 - Os processos de adjudicação serão submetidos, para a verificação de cabimento, aos serviços beneficiários das obras, a quem a Direcção-Geral dos Edifícios e Monumentos Nacionais também enviará os documentos de despesa, para efeitos de processamento.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Subsídio do Estado a conceder ao Laboratório Nacional de Engenharia Civil)
 
 No ano de 1984 é suspenso o disposto na alínea b) do artigo 97.º do [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), de 29 de Dezembro, no que respeita à percentagem de 80% do subsídio a conceder pelo Estado ao Laboratório Nacional de Engenharia Civil, devendo o seu montante ser fixado de harmonia com as possibilidades do Ministério das Finanças e do Plano, mas de forma a não pôr em causa o funcionamento normal do serviço.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Dotações comuns para remunerações certas e permanentes do Ministério da Qualidade de Vida)
 
@@ -330,13 +390,13 @@ No ano de 1984 é suspenso o disposto na alínea b) do artigo 97.º do [Decreto-
 
 2 - Compete à referida Secretaria-Geral prestar a informação de cabimento nos diplomas de nomeação do pessoal dos referidos organismos.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Dotações comuns para órgãos e serviços externos da ex-Direcção-Geral de Apoio Médico)
 
 As despesas com os centros de medicina desportiva serão realizadas por cada um dos organismos, mediante a constituição de fundos permanentes, nos termos do artigo 24.º do Decreto-Lei n.º 18381, de 24 de Maio de 1930, em conta das dotações que lhe estão consignadas na Direcção-Geral dos Desportos, até à prevista integração neste organismo.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Benefícios fiscais relativos aos contratos de viabilização e acordos de saneamento económico-financeiro)
 
@@ -344,13 +404,13 @@ As despesas com os centros de medicina desportiva serão realizadas por cada um 
 
 2 - São alargados às empresas públicas que celebrem, até 31 de Dezembro de 1984, acordos de saneamento económico-financeiro ao abrigo do [Decreto-Lei n.º 353-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-c-1977-240848), de 29 de Agosto, os benefícios fiscais indicados na legislação referida no número anterior.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Benefícios fiscais relativos às empresas assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L.)
 
-**O Ministro das Finanças e do Plano poderá, durante o ano de 1984 e até à publicação da lei prevista no artigo 12.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, conceder às empresas assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., entre os benefícios fiscais previstos nas Leis n.º 36/77 e 39/77, ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.**
+O Ministro das Finanças e do Plano poderá, durante o ano de 1984 e até à publicação da lei prevista no artigo 12.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, conceder às empresas assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., entre os benefícios fiscais previstos nas Leis n.º 36/77 e 39/77, ambas de 17 de Junho, os que se mostrem indispensáveis à recuperação das mesmas.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Imposto extraordinário sobre algumas despesas das empresas)
 
@@ -360,7 +420,7 @@ As despesas com os centros de medicina desportiva serão realizadas por cada um 
 
 3 - Dentro do prazo de 30 dias a contar da publicação deste diploma serão publicadas as alterações que se mostrarem necessárias com vista à actualização do [Decreto Regulamentar n.º 67/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1983-453226), de 13 de Julho.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Imposto extraordinário sobre lucros)
 
@@ -370,7 +430,7 @@ As despesas com os centros de medicina desportiva serão realizadas por cada um 
 
 3 - Dentro do prazo de 30 dias a contar da publicação deste diploma serão publicadas as alterações que se mostrarem necessárias com vista à actualização do [Decreto Regulamentar n.º 66/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1983-453227), de 13 de Julho.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Outros impostos extraordinários)
 
@@ -388,13 +448,13 @@ d) O imposto sobre as sucessões e doações relativo às transmissões operadas
 
 3 - O imposto extraordinário que incide sobre o imposto referido na alínea d) do n.º 1 será pago no mesmo número de prestações ou unidades em que este for dividido.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Actualização de valores previstos no [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro)
 
 Os valores a efectuar por conta das dotações orçamentais destinadas a «Bens duradouros» e «Investimentos», referidos no artigo 5.º do [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro, mantêm-se elevados para 250 contos e 25000 contos, respectivamente.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Efeitos)
 
@@ -402,12 +462,12 @@ Sem prejuízo do disposto no n.º 1 do artigo 32.º, o presente diploma produz e
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Maria Manuela Aguiar Dias Moreira - Rui Manuel Parente de Chancerelle de Machete - Alípio Barrosa Pereira Dias - José Augusto Seabra - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - Manuel José Dias Soares Costa - José Veiga Simão - Joaquim Ferreira do Amaral - António Antero Coimbra Martins - João Rosado Correia - António d'Orey Capucho - Carlos Montez Melancia.
 
-**Promulgado em 20 de Fevereiro de 1984.**
+Promulgado em 20 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Fevereiro de 1984.**
+Referendado em 21 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

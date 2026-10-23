@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01400/00940096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1983-308152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:49:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 767905969e4c0f2c62fee0a58fc0983d59d36a258f4964258bc50df39dc85a66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a782fdbafacac8f99cf85d770f7c2f9bbb7200aa0d039fa5cc810bc8f6d9abc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:49:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Importação
+- Indústria Têxtil
+- Instituto dos Têxteis
+- Receita Própria
+- Taxa
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:646919:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676052:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:646919:por
+  label: "Revogado pelo DEC LEI.75-B/86.23.04.1986.MIC, DR.IS [94]Supl de 23.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-b-1986-646919
+  date: '1986-04-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:49:31Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +132,9 @@ Assim:
 
 Usando da faculdade conferida pelo artigo 30.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Constituem receita do Instituto dos Têxteis as taxas de inscrição e de renovação anual de inscrição e as contribuições sobre consumos de matérias-primas constantes deste decreto-lei.
+Artigo 1.º Constituem receita do Instituto dos Têxteis as taxas de inscrição e de renovação anual de inscrição e as contribuições sobre consumos de matérias-primas constantes deste decreto-lei.
 
-###### Art. 2.º As taxas de inscrição terão os seguintes valores:
+Art. 2.º As taxas de inscrição terão os seguintes valores:
 
 a) Para firmas que exerçam a actividade de importador de fibras e fios têxteis, importador de algodão em rama ou importador de têxteis (semimanufacturados ou produtos acabados), a taxa de inscrição será de 20000$00;
 
@@ -114,7 +142,7 @@ b) Para firmas que exerçam a actividade de exportador de têxteis, a taxa de in
 
 c) Para firmas que exerçam qualquer outra das actividades obrigatoriamente inscritas no Instituto dos Têxteis, a taxa de inscrição será de 5000$00.
 
-###### Art. 3.º - 1 - As taxas de renovação anual de inscrição terão como base os seguintes escalões:
+Art. 3.º - 1 - As taxas de renovação anual de inscrição terão como base os seguintes escalões:
 
 a) Para firmas que exerçam a actividade de importador, os escalões terão como referência o valor das importações reportado ao ano imediatamente anterior àquele a que a renovação respeitar, a saber:
 
@@ -238,7 +266,7 @@ Escalão H - 30000$00;
 
 Escalão I - 60000$00.
 
-###### Art. 4.º As contribuições sobre consumos de matéria-prima terão os seguintes valores:
+Art. 4.º As contribuições sobre consumos de matéria-prima terão os seguintes valores:
 
 a) $30 por quilograma de algodão em rama;
 
@@ -256,19 +284,19 @@ g) $20 por quilograma de desperdícios de fibras não naturais;
 
 h) $20 por quilograma de outras fibras vegetais, em rama, estopa ou desperdícios.
 
-###### Art. 5.º O pagamento das taxas de inscrição será feito por cheque ou vale de correio, enviado à sede do Instituto dos Têxteis no prazo de 8 dias após a recepção do aviso emitido por este organismo, comunicando ter sido aceite a inscrição.
+Art. 5.º O pagamento das taxas de inscrição será feito por cheque ou vale de correio, enviado à sede do Instituto dos Têxteis no prazo de 8 dias após a recepção do aviso emitido por este organismo, comunicando ter sido aceite a inscrição.
 
-###### Art. 6.º - 1 - O Instituto dos Têxteis procederá à liquidação das taxas de renovação anual de inscrição das actividades incluídas na alínea c) do n.º 1 do artigo 3.º com base em mapas anuais de pessoal.
+Art. 6.º - 1 - O Instituto dos Têxteis procederá à liquidação das taxas de renovação anual de inscrição das actividades incluídas na alínea c) do n.º 1 do artigo 3.º com base em mapas anuais de pessoal.
 
 2 - Os mapas anuais do pessoal conterão os elementos que o Instituto determinar, devendo ser enviados ao organismo até 30 de Abril do ano a que a renovação respeitar.
 
 3 - Se os mapas de pessoal não forem enviados ao Instituto no prazo previsto no número anterior, será cobrada uma taxa de renovação anual de inscrição correspondente ao escalão imediatamente superior àquele em que a firma estiver integrada.
 
-###### Art. 7.º - 1 - As importâncias referentes às taxas de renovação anual de inscrição serão depositadas na Caixa Geral de Depósitos no prazo de 30 dias, passados que sejam 3 da data da guia de depósito emitida pelo Instituto.
+Art. 7.º - 1 - As importâncias referentes às taxas de renovação anual de inscrição serão depositadas na Caixa Geral de Depósitos no prazo de 30 dias, passados que sejam 3 da data da guia de depósito emitida pelo Instituto.
 
 2 - As firmas que em determinado ano não pretendam exercer qualquer das actividades em que estão inscritas requererão ao Instituto dos Têxteis, até Dezembro do ano imediatamente anterior, a suspensão da sua inscrição para o ano seguinte, não havendo, nesse caso, lugar ao pagamento da taxa de renovação anual de inscrição, a qual será paga no momento em que a firma pedir o levantamento da suspensão requerida, tendo-se neste caso em atenção, para efeito de inclusão no respectivo escalão, o valor das importações ou exportações efectuadas no último ano em que as actividades foram exercidas ou os elementos constantes do último mapa de pessoal enviado pela firma ao Instituto dos Têxteis.
 
-###### Art. 8.º - 1 - O Instituto dos Têxteis procederá à liquidação das quantias correspondentes às contribuições devidas com base nas declarações mensais dos industriais relativas às matérias-primas referidas no artigo 4.º utilizadas nos produtos fabricados.
+Art. 8.º - 1 - O Instituto dos Têxteis procederá à liquidação das quantias correspondentes às contribuições devidas com base nas declarações mensais dos industriais relativas às matérias-primas referidas no artigo 4.º utilizadas nos produtos fabricados.
 
 2 - As contribuições sobre desperdícios serão liquidadas com base nas quantidades manifestadas nos inquéritos mensais, obrigatoriamente enviados ao Instituto dos Têxteis pelas firmas do sector.
 
@@ -278,20 +306,20 @@ h) $20 por quilograma de outras fibras vegetais, em rama, estopa ou desperdício
 
 5 - Quando a firma em falta remeter ao Instituto os elementos referidos nos n.os 1 e 2 deste artigo proceder-se-á à rectificação, para mais ou para menos, dos valores das contribuições cobradas de acordo com o determinado no número anterior e os das contribuições sobre a matéria-prima efectivamente utilizada.
 
-###### Art. 9.º - 1 - As importâncias liquidadas nos termos do artigo 8.º deste decreto-lei deverão ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência no prazo de 30 dias, passados que sejam 3 da data da guia do depósito emitida pelo Instituto dos Têxteis.
+Art. 9.º - 1 - As importâncias liquidadas nos termos do artigo 8.º deste decreto-lei deverão ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência no prazo de 30 dias, passados que sejam 3 da data da guia do depósito emitida pelo Instituto dos Têxteis.
 
 2 - Exceptuam-se do disposto no número anterior deste artigo as importâncias de montante inferior a 10000$00, as quais poderão ser pagas directamente, por cheque ou vale de correio, ou à boca do cofre do Instituto.
 
-###### Art. 10.º As taxas e contribuições não pagas nos prazos determinados neste decreto-lei serão objecto de execução fiscal, sendo passíveis de juros de mora a partir do primeiro dia útil a seguir ao último do prazo.
+Art. 10.º As taxas e contribuições não pagas nos prazos determinados neste decreto-lei serão objecto de execução fiscal, sendo passíveis de juros de mora a partir do primeiro dia útil a seguir ao último do prazo.
 
-###### Art. 11.º Fica revogado o [Decreto-Lei n.º 239/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1978-299810), de 17 de Agosto.
+Art. 11.º Fica revogado o [Decreto-Lei n.º 239/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1978-299810), de 17 de Agosto.
 
-###### Art. 12.º Este decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 12.º Este decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - Ricardo Manuel Simões Bayão Horta.
 
-**Promulgado em 6 de Janeiro de 1983.**
+Promulgado em 6 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

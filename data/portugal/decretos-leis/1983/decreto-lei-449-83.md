@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/29600/41134116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1983-444405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7dc63930c85684da87e683f898dd92b9acaf2fa213e331e9c13752c3f2c8f4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33389758046a72078348d3bec3c819383219f3bb76fdb3003287a487d76084be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Casa Degradada
+- Fundo de Apoio ao Investimento para a Habitação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401490:por
+  label: "Acrescentado um n.º 4 ao artigo 2º, pelo DEC LEI.386/84.05.12.1984.MFP, DR.IS [281] de 05.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/386-1984-401490
+  date: '1984-12-05'
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:57Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +135,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Caixa Geral de Depósitos, o Crédito Predial Português, o Montepio Geral - Caixa Económica de Lisboa e o Fundo de Apoio ao Investimento para Habitação (FAIH) poderão conceder financiamento a longo prazo aos municípios para o relançamento do programa para recuperação de imóveis em degradação (PRID) afectos a fins habitacionais.
+Artigo 1.º - 1 - A Caixa Geral de Depósitos, o Crédito Predial Português, o Montepio Geral - Caixa Económica de Lisboa e o Fundo de Apoio ao Investimento para Habitação (FAIH) poderão conceder financiamento a longo prazo aos municípios para o relançamento do programa para recuperação de imóveis em degradação (PRID) afectos a fins habitacionais.
 
 2 - As instituições financiadoras referidas no número anterior poderão conceder empréstimos idênticos directamente a particulares, bem como a instituições particulares de solidariedade social, instituições de utilidade pública e de utilidade pública administrativa, instituições públicas ou privadas sem fins lucrativos e cooperativas de habitação e construção, nas mesmas condições dos concedidos aos municípios, nos termos do presente diploma.
 
-###### Art. 2.º - 1 - As condições dos financiamentos referidos no artigo anterior serão definidas por portaria conjunta dos Ministros das Finanças e do Plano e do Equipamento Social.
+Art. 2.º - 1 - As condições dos financiamentos referidos no artigo anterior serão definidas por portaria conjunta dos Ministros das Finanças e do Plano e do Equipamento Social.
 
 2 - Os financiamentos poderão beneficiar de uma bonificação, a definir na portaria referida no número anterior.
 
 3 - A bonificação referida no número anterior constitui encargo do FAIH, que, para o efeito, afectará as verbas necessárias, em conformidade com o plano de aplicação elaborado de acordo com as orientações da política habitacional, sendo o seu processamento efectuado nas condições a acordar entre aquela entidade e as restantes instituições financiadoras.
 
-###### Art. 3.º - 1 - Os financiamentos a que se refere o n.º 1 do artigo 1.º destinar-se-ão a:
+Art. 3.º - 1 - Os financiamentos a que se refere o n.º 1 do artigo 1.º destinar-se-ão a:
 
 a) Obras de reparação, beneficiação ou conservação a efectuar pelo município no seu património habitacional próprio;
 
@@ -132,7 +161,7 @@ d) Empréstimos a particulares, no caso do n.º 3 do artigo 4.º do citado [Decr
 
 4 - Ao abrigo da alínea c) do n.º 1 poderão os municípios conceder empréstimos às freguesias, instituições particulares de solidariedade social, instituições de utilidade pública e de utilidade pública administrativa, instituições públicas ou privadas sem fins lucrativos e cooperativas de habitação e construção.
 
-###### Art. 4.º Na formalização dos pedidos de financiamento a que se refere o n.º 1 do artigo 1.º deverão os municípios indicar os montantes solicitados para cada uma das finalidades previstas no n.º 1 do artigo anterior, devendo ser instruídos com os seguintes elementos:
+Art. 4.º Na formalização dos pedidos de financiamento a que se refere o n.º 1 do artigo 1.º deverão os municípios indicar os montantes solicitados para cada uma das finalidades previstas no n.º 1 do artigo anterior, devendo ser instruídos com os seguintes elementos:
 
 a) Quanto às obras referidas na alínea a) do n.º 1 do artigo anterior, a identificação do prédio e a descrição dos diversos trabalhos a efectuar e respectivas estimativas de custos;
 
@@ -148,39 +177,39 @@ III) Regulamento geral do regime de empréstimos a praticar pelo município.
 
 d) No caso da alínea d) do referido n.º 1 do artigo 3.º, além dos elementos referidos na alínea anterior, cópia certificada do orçamento indicado no n.º 3 do artigo 4.º do [Decreto-Lei n.º 294/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1982-394488), de 27 de Julho, e identificação do requerente inquilino.
 
-###### Art. 5.º As instituições financiadoras poderão proceder à fiscalização das obras financiadas sempre que o julguem oportuno.
+Art. 5.º As instituições financiadoras poderão proceder à fiscalização das obras financiadas sempre que o julguem oportuno.
 
-###### Art. 6.º - 1 - Aos montantes despendidos nas obras a que se refere a alínea b) do artigo 3.º deste diploma acrescem os juros remuneratórios, à taxa máxima legal, consoante o tempo decorrido e a parte correspondente dos encargos administrativos imputáveis, no mínimo de 2% do custo das obras.
+Art. 6.º - 1 - Aos montantes despendidos nas obras a que se refere a alínea b) do artigo 3.º deste diploma acrescem os juros remuneratórios, à taxa máxima legal, consoante o tempo decorrido e a parte correspondente dos encargos administrativos imputáveis, no mínimo de 2% do custo das obras.
 
 2 - Na falta de pagamento voluntário das despesas com as obras, juros e encargos referidos no número anterior, proceder-se-á à cobrança coerciva nos termos gerais para a cobrança de dívidas às autarquias, constituindo título executivo a certidão de dívida emitida pela câmara.
 
-###### Art. 7.º - 1 - Os empréstimos a conceder pelos municípios a particulares e entidades referidas no n.º 4 do artigo 3.º serão titulados por documento particular, isento de selo, o qual constitui título executivo, cabendo a cobrança coerciva aos tribunais fiscais competentes para a cobrança de dívidas aos municípios.
+Art. 7.º - 1 - Os empréstimos a conceder pelos municípios a particulares e entidades referidas no n.º 4 do artigo 3.º serão titulados por documento particular, isento de selo, o qual constitui título executivo, cabendo a cobrança coerciva aos tribunais fiscais competentes para a cobrança de dívidas aos municípios.
 
 2 - As condições dos empréstimos referidos no número anterior serão estabelecidas pelos municípios, não podendo a taxa de juro ultrapassar em 2% a taxa do correspondente financiamento aos mesmos.
 
 3 - O montante máximo dos empréstimos e, no caso dos empréstimos a particulares, os limites máximos de rendimento dos agregados familiares beneficiários dos mesmos serão estabelecidos na portaria a que se refere o n.º 1 do artigo 2.º
 
-###### Art. 8.º - 1 - Para efeitos da concessão de empréstimos a particulares e entidades referidas no n.º 4 do artigo 3.º, as câmaras municipais anunciarão, por editais afixados nos locais de estilo, o prazo durante o qual os interessados deverão formular os respectivos pedidos de empréstimo e fornecer os elementos referidos nas alíneas c) e d) do artigo 4.º
+Art. 8.º - 1 - Para efeitos da concessão de empréstimos a particulares e entidades referidas no n.º 4 do artigo 3.º, as câmaras municipais anunciarão, por editais afixados nos locais de estilo, o prazo durante o qual os interessados deverão formular os respectivos pedidos de empréstimo e fornecer os elementos referidos nas alíneas c) e d) do artigo 4.º
 
 2 - No prazo a que se refere o número anterior devem os inquilinos apresentar, na câmara municipal, reclamações e pedidos de vistoria quanto a obras que considerem necessárias nas habitações que ocupam e que o senhorio se recuse a fazer.
 
-###### Art. 9.º - 1 - Nos casos previstos nas alíneas c) e d) do n.º 1 e no n.º 4 do artigo 3.º competirá aos serviços de obras das câmaras municipais o controle técnico e administrativo relativo às obras de reparação, beneficiação ou conservação, tanto na fase de elaboração ou apreciação dos processos de obras como durante a execução dos trabalhos e até à sua total conclusão.
+Art. 9.º - 1 - Nos casos previstos nas alíneas c) e d) do n.º 1 e no n.º 4 do artigo 3.º competirá aos serviços de obras das câmaras municipais o controle técnico e administrativo relativo às obras de reparação, beneficiação ou conservação, tanto na fase de elaboração ou apreciação dos processos de obras como durante a execução dos trabalhos e até à sua total conclusão.
 
 2 - As obras referidas no número anterior dispensam a apresentação do projecto completo, bastando a entrega nos serviços camarários dos elementos das peças desenhadas e escritas que se considerem imprescindíveis para a boa execução dos trabalhos, salvo nos casos previstos no Decreto-Lei n.º 20985, de 20 de Março de 1932, e no [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril.
 
 3 - Os pagamentos efectuados por conta de empréstimos concedidos a particulares, nos termos das alíneas c) e d) do n.º 1 do artigo 3.º, serão satisfeitos pelas câmaras aos adjudicatários, fornecedores e prestadores de serviços contra recibo devidamente visado pelo mutuário, dono da obra.
 
-###### Art. 10.º As notificações para efeitos dos artigos 10.º, 12.º, 165.º e 166.º do Regulamento Geral das Edificações Urbanas são eficazes quando feitas na pessoa de qualquer comproprietário ou na pessoa ou entidade que receba as rendas, nos casos de compropriedade e de prédio arrendado, respectivamente.
+Art. 10.º As notificações para efeitos dos artigos 10.º, 12.º, 165.º e 166.º do Regulamento Geral das Edificações Urbanas são eficazes quando feitas na pessoa de qualquer comproprietário ou na pessoa ou entidade que receba as rendas, nos casos de compropriedade e de prédio arrendado, respectivamente.
 
-###### Art. 11.º Sempre que se verifique a venda do prédio, antes de concluída a amortização do empréstimo contraído nos termos do presente diploma, o mutuário reembolsará, no prazo máximo de 30 dias, o capital ainda em dívida ou a quota-parte correspondente.
+Art. 11.º Sempre que se verifique a venda do prédio, antes de concluída a amortização do empréstimo contraído nos termos do presente diploma, o mutuário reembolsará, no prazo máximo de 30 dias, o capital ainda em dívida ou a quota-parte correspondente.
 
-###### Art. 12.º O disposto no presente diploma relativamente aos municípios é aplicável às associações de municípios.
+Art. 12.º O disposto no presente diploma relativamente aos municípios é aplicável às associações de municípios.
 
-###### Art. 13.º - 1 - Aos financiamentos referidos no presente diploma é aplicável o [Decreto-Lei n.º 94/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1983-311048), de 17 de Fevereiro, cabendo, nos termos do artigo 21.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro, à Inspecção-Geral de Finanças, por participação das instituições de crédito, o processamento de contra-ordenações relativamente às câmaras e, a estas, quanto aos empréstimos feitos aos particulares.
+Art. 13.º - 1 - Aos financiamentos referidos no presente diploma é aplicável o [Decreto-Lei n.º 94/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1983-311048), de 17 de Fevereiro, cabendo, nos termos do artigo 21.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro, à Inspecção-Geral de Finanças, por participação das instituições de crédito, o processamento de contra-ordenações relativamente às câmaras e, a estas, quanto aos empréstimos feitos aos particulares.
 
 2 - O disposto no [Decreto-Lei n.º 94/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1983-311048) é também aplicável aos mutuários que, para a obtenção dos empréstimos, tenham prestado falsas declarações.
 
-###### Art. 14.º Sempre que haja lugar ao ajustamento de renda, nos termos do artigo 2.º do [Decreto-Lei n.º 294/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1982-394488), de 27 de Julho, e o senhorio tenha obtido financiamento ao abrigo do presente decreto-lei, a fórmula constante do n.º 1 do artigo 3.º daquele decreto-lei será substituída pela seguinte:
+Art. 14.º Sempre que haja lugar ao ajustamento de renda, nos termos do artigo 2.º do [Decreto-Lei n.º 294/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1982-394488), de 27 de Julho, e o senhorio tenha obtido financiamento ao abrigo do presente decreto-lei, a fórmula constante do n.º 1 do artigo 3.º daquele decreto-lei será substituída pela seguinte:
 
 Ra = Rv + 1/12(Vc/A(índice t) x A(índice b) + V(índice f)) x 0,1
 
@@ -198,16 +227,16 @@ Ab - área bruta do fogo (nos termos do n.º 2 do artigo 67.º do Regulamento Ge
 
 Vf - valor das obras realizadas no fogo.
 
-###### Art. 15.º A garantia dos empréstimos concedidos aos municípios e associações de municípios é a consignação das suas receitas, de acordo com a legislação geral aplicável.
+Art. 15.º A garantia dos empréstimos concedidos aos municípios e associações de municípios é a consignação das suas receitas, de acordo com a legislação geral aplicável.
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - João Rosado Correia - António d'Orey Capucho.
 
-**Promulgado em 13 de Dezembro de 1983.**
+Promulgado em 13 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Dezembro de 1983.**
+Referendado em 14 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1983-311609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:50:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d484e9051db7c0f2d8333596508bfb87a040bff59eed214c0473114307ec6da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a5c4b005367de291dd11d84f1d9808fbed3b957e9368a53be9f6524972891fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Instituto de Medicina Legal
 relationships:
 - type: amended_by
   target: pt:dre:670073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393066:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:670073:por
+  label: "Revogado pelo DEC LEI.387-C/87.29.12.1987.MJ, DR.IS [298]Supl de 29.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-c-1987-670073
+  date: '1987-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:50:20Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +117,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal dos institutos de medicina legal é o constante dos mapas anexos ao presente diploma, que substituem o mapa anexo à [Portaria n.º 449/82](https://diariodarepublica.pt/dr/detalhe/portaria/449-1982-393066), de 30 de Abril.
+Artigo 1.º O quadro de pessoal dos institutos de medicina legal é o constante dos mapas anexos ao presente diploma, que substituem o mapa anexo à [Portaria n.º 449/82](https://diariodarepublica.pt/dr/detalhe/portaria/449-1982-393066), de 30 de Abril.
 
-###### Art. 2.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+Art. 2.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -118,13 +137,13 @@ a) No lugar de origem, quando à comissão de serviço se não seguir provimento
 
 b) No lugar do quadro do instituto de medicina legal em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 3.º O lugar de chefe de secção é provido, mediante concurso, de entre primeiros-oficiais habilitados com o curso geral do ensino secundário ou equiparado e com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 3.º O lugar de chefe de secção é provido, mediante concurso, de entre primeiros-oficiais habilitados com o curso geral do ensino secundário ou equiparado e com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
-###### Art. 4.º - 1 - Os lugares de técnico auxiliar de medicina legal principal e de técnico auxiliar de medicina legal de 1.ª classe são providos, mediante concurso de provas de conhecimentos, de entre, respectivamente, técnicos auxiliares de medicina legal de 1.ª classe e de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 4.º - 1 - Os lugares de técnico auxiliar de medicina legal principal e de técnico auxiliar de medicina legal de 1.ª classe são providos, mediante concurso de provas de conhecimentos, de entre, respectivamente, técnicos auxiliares de medicina legal de 1.ª classe e de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de medicina legal de 2.ª classe são providos, mediante concurso de provas de conhecimentos, de entre indivíduos habilitados com o curso técnico especializado de medicina legal.
 
-###### Art. 5.º - 1 - O curso técnico especializado de medicina legal, adiante designado por «curso», terá a duração de 5 semestres e será ministrado nos institutos de medicina legal, sob a orientação dos conselhos médico-legais.
+Art. 5.º - 1 - O curso técnico especializado de medicina legal, adiante designado por «curso», terá a duração de 5 semestres e será ministrado nos institutos de medicina legal, sob a orientação dos conselhos médico-legais.
 
 2 - Durante o curso, e sob a responsabilidade de funcionário orientador, os candidatos incumbir-se-ão, em grau crescente de dificuldades, de tarefas próprias das atribuições dos técnicos auxiliares de medicina legal.
 
@@ -140,13 +159,13 @@ b) No lugar do quadro do instituto de medicina legal em que vier a ser provido d
 
 8 - O programa geral das provas, data e local da sua realização e constituição do júri serão estabelecidos por despacho do Ministro da justiça.
 
-###### Art. 6.º - 1 - Os técnicos auxiliares de medicina legal que não ingressaram na carreira a que se refere o [Decreto n.º 80/79](https://diariodarepublica.pt/dr/detalhe/decreto/80-1979-381487), de 30 de Agosto, serão integrados na carreira definida no presente diploma, desde que obtenham aprovação em concurso de provas adequado.
+Art. 6.º - 1 - Os técnicos auxiliares de medicina legal que não ingressaram na carreira a que se refere o [Decreto n.º 80/79](https://diariodarepublica.pt/dr/detalhe/decreto/80-1979-381487), de 30 de Agosto, serão integrados na carreira definida no presente diploma, desde que obtenham aprovação em concurso de provas adequado.
 
 2 - O regulamento do concurso será definido por despacho do Ministro da Justiça, ouvido o Ministério dos Assuntos Sociais, e dele constarão, obrigatoriamente, a forma e prazo de candidatura, a constituição do júri e o programa geral das provas.
 
 3 - Aos técnicos auxiliares de medicina legal que venham a ser integrados serão atribuídas a antiguidade, a categoria e a remurenação correspondentes desde a data em que teriam sido integrados se possuíssem aquela habilitação.
 
-###### Art. 7.º Compete, genericamente, aos técnicos auxiliares de medicina legal coadjuvar os técnicos superiores de medicina legal, executando o serviço que lhes for designado, nomeadamente na realização de:
+Art. 7.º Compete, genericamente, aos técnicos auxiliares de medicina legal coadjuvar os técnicos superiores de medicina legal, executando o serviço que lhes for designado, nomeadamente na realização de:
 
 a) Autópsias, exumações e exames complementares;
 
@@ -156,7 +175,7 @@ c) Exames radiológicos;
 
 d) Exames de locais de crimes e de quaisquer vestígios materiais de crimes.
 
-###### Art. 8.º - 1 - Os lugares de técnico ajudante de medicina legal principal e de 1.ª classe são providos, respectivamente, de entre técnicos ajudantes de medicina legal de 1.ª classe e de 2.ª classe com 5 anos de permanência na categoria e classificação de serviço não inferior a Bom.
+Art. 8.º - 1 - Os lugares de técnico ajudante de medicina legal principal e de 1.ª classe são providos, respectivamente, de entre técnicos ajudantes de medicina legal de 1.ª classe e de 2.ª classe com 5 anos de permanência na categoria e classificação de serviço não inferior a Bom.
 
 2 - Os lugares de técnico ajudante de medicina legal de 2.ª classe são providos, mediante provas de selecção, de entre indivíduos habilitados com a escolaridade obrigatória.
 
@@ -164,44 +183,44 @@ d) Exames de locais de crimes e de quaisquer vestígios materiais de crimes.
 
 4 - Para efeitos de progressão na carreira, será contado o tempo de serviço anteriormente desempenhado no exercício de idênticas funções.
 
-###### Art. 9.º O provimento do pessoal nos lugares dos quadros efectuar-se-á, no que não for expressamente regulado no presente diploma, de acordo com a legislação aplicável às diferentes carreiras e categorias ou na lei específica para as carreiras que beneficiem de regime próprio.
+Art. 9.º O provimento do pessoal nos lugares dos quadros efectuar-se-á, no que não for expressamente regulado no presente diploma, de acordo com a legislação aplicável às diferentes carreiras e categorias ou na lei específica para as carreiras que beneficiem de regime próprio.
 
-###### Art. 10.º - 1 - Ao pessoal dirigente, pessoal técnico superior de medicina legal e pessoal técnico auxiliar de medicina legal podem ser concedidas bolsas de estudo para a realização, no país ou no estrangeiro, de cursos, estágios e outras acções de formação.
+Art. 10.º - 1 - Ao pessoal dirigente, pessoal técnico superior de medicina legal e pessoal técnico auxiliar de medicina legal podem ser concedidas bolsas de estudo para a realização, no país ou no estrangeiro, de cursos, estágios e outras acções de formação.
 
 2 - Os bolseiros referidos no número anterior conservam os direitos inerentes aos seus cargos, incluindo a contagem de tempo para todos os efeitos legais.
 
 3 - As condições de atribuição das bolsas de estudo a que se refere o presente artigo serão estabelecidas por portaria do Ministro da Justiça.
 
-###### Art. 11.º Os directores e subdirectores dos institutos de medicina legal, no caso de serem docentes universitários, têm direito à gratificação prevista no artigo 75.º, n.º 2, do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro.
+Art. 11.º Os directores e subdirectores dos institutos de medicina legal, no caso de serem docentes universitários, têm direito à gratificação prevista no artigo 75.º, n.º 2, do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro.
 
-###### Art. 12.º Os encargos resultantes da aplicação do disposto no presente diploma serão suportados, na medida em que ultrapassem as dotações orçamentais, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça ou pelo Cofre Geral dos Tribunais.
+Art. 12.º Os encargos resultantes da aplicação do disposto no presente diploma serão suportados, na medida em que ultrapassem as dotações orçamentais, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça ou pelo Cofre Geral dos Tribunais.
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 12 de Abril de 1983.**
+Promulgado em 12 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Abril de 1983.**
+Referendado em 14 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Quadro de pessoal a que se alude o artigo 1.º do presente diploma
 
 Instituto de Medicina Legal de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf)
 
 Quadro de pessoal a que se refere o artigo 1.º do presente diploma
 
 Instituto de Medicina Legal do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf)
 
 Quadro de pessoal a que se refere o artigo 1.º do presente diploma
 
 Instituto de Medicina Legal de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09900/15321535.pdf)

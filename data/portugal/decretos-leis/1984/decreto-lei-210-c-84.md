@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 149/1984, 3º Suplemento, Série I de 1984-06-29
   number: '149'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1980-(7) a 1980-(312)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,124 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-c-1984-625412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 420d538f37e27f8b67533b4bc7d3bfee1bba87bc78018cc7a07c90703858b296
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c91e076befe3c3136386fc4c48b0cba58860913a0dbdd4ddea4cc604dc68f76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:457066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419871:por
+  label: "Alterado o n.º 1 do artigo 1.º e o artigo 13.º, e revogado o Regulamento Nacional do Transporte de Mercadorias Perigosas\
+    \ por Estrada (RPE), publicado em anexo, com efeitos a partir da data em que entrar em vigor a portaria prevista no n.º\
+    \ 1 do artigo 1.º do presente diploma, pelo DEC LEI.277/87.06.07.1987.MOPTC, DR.IS [152] de 06.07.1987, na redacção que\
+    \ lhe é dada no citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1987-419871
+  date: '1987-07-06'
+- type: cites
+  target: pt:dre:185310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600958:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:618547:por
+  label: "Revogada a alínea m) do artigo 13.º pelo DEC LEI.272/89.19.08.1989.MESS, DR.IS [190] de 19.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1989-618547
+  date: '1989-08-19'
+- type: repealed_by
+  target: pt:dre:457066:por
+  label: "Revogado pelo DEC LEI.77/97.1997.04.05.MEPAT, DR.IS-A [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1997-457066
+  date: '1997-04-05'
 article_structure:
-  article_count: 19
-  section_count: 80
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 16
+  section_count: 78
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:11Z'
   warnings: []
   errors: []
 ---
@@ -269,13 +353,13 @@ São revogados todos os diplomas e disposições legais que contrariem o present
 
 Artigos 61.º a 65.º do regulamento aprovado pelo [Decreto n.º 36270](https://diariodarepublica.pt/dr/detalhe/decreto/36270-1947-185521), de 9 de Maio de 1947, no respeitante aos transportes rodoviários;
 
-###### Artigo 16.º, n.º 2, do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, no respeitante aos transportes de mercadorias perigosas;
+Artigo 16.º, n.º 2, do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, no respeitante aos transportes de mercadorias perigosas;
 
-###### Artigo 9.º do [Decreto-Lei n.º 44060](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44060-1961-185310), de 25 de Novembro de 1961, no respeitante aos transportes rodoviários;
+Artigo 9.º do [Decreto-Lei n.º 44060](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44060-1961-185310), de 25 de Novembro de 1961, no respeitante aos transportes rodoviários;
 
 [Portaria n.º 20558](https://diariodarepublica.pt/dr/detalhe/portaria/20558-1964-582468), de 6 de Maio de 1964, no respeitante aos transportes rodoviários;
 
-###### Artigo 6.º do [Decreto-Lei n.º 494/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1980-462443), de 18 de Outubro;
+Artigo 6.º do [Decreto-Lei n.º 494/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1980-462443), de 18 de Outubro;
 
 [Portaria n.º 1045/80](https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643), de 10 de Dezembro;
 
@@ -293,15 +377,15 @@ Com ressalva do disposto no n.º 1 do artigo 7.º e no artigo 14.º, o presente 
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha - José Veiga Simão - João Rosado Correia - António d'Orey Capucho - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 6 de Março de 1984.**
+Promulgado em 6 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Março de 1984.**
+Referendado em 7 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada (RPE)
 
@@ -309,7 +393,7 @@ PLANO
 
 Marginais
 
-## Título I - Disposições gerais:
+Título I - Disposições gerais:
 
 Mercadorias perigosas ... 1
 
@@ -327,7 +411,7 @@ Pequenas quantidades de mercadorias perigosas embaladas ... 7
 
 ... 8-99
 
-## Título II - Prescrições para cada classe de mercadorias perigosas:
+Título II - Prescrições para cada classe de mercadorias perigosas:
 
 Classes 1a-1b-1c - Matérias e objectos explosivos; objectos carregados com matérias explosivas; inflamadores, peças de fogo de artifício e mercadorias similares ... 100-199
 
@@ -355,31 +439,31 @@ Classe 8 - Matérias corrosivas ... 800-999
 
 Apêndices:
 
-## Apêndice 1 - Condições de estabilidade e de segurança relativas às matérias explosivas e aos peróxidos orgânicos (reservado) ... 1000-1999
+Apêndice 1 - Condições de estabilidade e de segurança relativas às matérias explosivas e aos peróxidos orgânicos (reservado) ... 1000-1999
 
-## Apêndice 2 - Prescrições relativas aos recipientes de alumínio para certos gases da classe 2, aos recipientes e reservatórios de cisternas para o transporte de gases liquefeitos fortemente refrigerados dessa classe e aos ensaios sobre latas e cartuchos de gás sob pressão dos n.os 10.º e 11.º da mesma classe ... 2000-2999
+Apêndice 2 - Prescrições relativas aos recipientes de alumínio para certos gases da classe 2, aos recipientes e reservatórios de cisternas para o transporte de gases liquefeitos fortemente refrigerados dessa classe e aos ensaios sobre latas e cartuchos de gás sob pressão dos n.os 10.º e 11.º da mesma classe ... 2000-2999
 
-## Apêndice 3 - Ensaios relativos às matérias líquidas inflamáveis das classes 3 e 6.1 ... 3000-3999
+Apêndice 3 - Ensaios relativos às matérias líquidas inflamáveis das classes 3 e 6.1 ... 3000-3999
 
-## Apêndice 4 - Ensaios relativos às matérias das classes 4.1, 4.2 e 4.3 (reservado) ... 4000-4999
+Apêndice 4 - Ensaios relativos às matérias das classes 4.1, 4.2 e 4.3 (reservado) ... 4000-4999
 
-## Apêndice 5 - Condições de embalagem para as matérias das classes 3, 6.1 e 8 ... 5000-5999
+Apêndice 5 - Condições de embalagem para as matérias das classes 3, 6.1 e 8 ... 5000-5999
 
-## Apêndice 6 - Prescrições relativas às matérias radioactivas da classe 7 ... 6000-6999
+Apêndice 6 - Prescrições relativas às matérias radioactivas da classe 7 ... 6000-6999
 
-## Apêndice 7 - Etiquetas de perigo e painéis laranja de sinalização ... 7000-7999
+Apêndice 7 - Etiquetas de perigo e painéis laranja de sinalização ... 7000-7999
 
-## Apêndice 8 - Disposições relativas às cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e baterias de recipientes ... 8000-8999
+Apêndice 8 - Disposições relativas às cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e baterias de recipientes ... 8000-8999
 
-## Apêndice 9 - Disposições relativas às cisternas fixas, às cisternas desmontáveis e aos contentores-cisternas de matérias plásticas reforçadas ... 9000-9999
+Apêndice 9 - Disposições relativas às cisternas fixas, às cisternas desmontáveis e aos contentores-cisternas de matérias plásticas reforçadas ... 9000-9999
 
-## Apêndice 10 - Fichas de segurança para transporte de mercadorias perigosas ... 10000-10999
+Apêndice 10 - Fichas de segurança para transporte de mercadorias perigosas ... 10000-10999
 
-## Apêndice 11 - Modelos de certificados de aprovação para veículos e cisternas de transporte de mercadorias perigosas ... 11000-11999
+Apêndice 11 - Modelos de certificados de aprovação para veículos e cisternas de transporte de mercadorias perigosas ... 11000-11999
 
-## Apêndice 12 - Formação de condutores para transporte de mercadorias perigosas em cisternas ... 12000-12999
+Apêndice 12 - Formação de condutores para transporte de mercadorias perigosas em cisternas ... 12000-12999
 
-## Apêndice 13 - Relação alfabética das mercadorias perigosas e respectiva identificação ... 13000-13999
+Apêndice 13 - Relação alfabética das mercadorias perigosas e respectiva identificação ... 13000-13999
 
 ## TÍTULO I — Disposições gerais
 
@@ -559,7 +643,7 @@ Soluções e misturas de matérias
 
 1) São aplicáveis no RPE as seguintes unidades de medida do sistema internacional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 2) Devem ser utilizados os seguintes valores arredondados para a conversão em unidades SI das unidades de medida até agora utilizadas:
 
@@ -655,7 +739,7 @@ Condutividade:
 
 4) Os múltiplos e submúltiplos decimais de uma unidade de medida podem formar-se por meio dos seguintes prefixos ou símbolos, colocados antes do nome ou do símbolo da respectiva unidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 5) Quando o termo «peso» é utilizado no RPE, trata-se da massa. Quando são mencionados pesos das embalagens, trata-se, salvo indicação em contrário, da massa bruta.
 
@@ -689,7 +773,7 @@ c) Subdivisão da embalagem colectora em vários compartimentos.
 
 Não são aplicáveis as disposições do RPE enunciadas nos marginais 202, n.º 2), 302, n.º 4), 402, n.º 3), 432, n.º 2), 472, n.º 2), 502, n.º 2), 602, n.º 3), e 802, n.º 4), aos transportes de mercadorias perigosas embaladas em quantidades que não ultrapassem os limites de peso indicados no quadro que se segue, quer se trate de matérias isoladas, quer se trate do carregamento conjunto de várias matérias não afectadas por proibições de carregamento em comum.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 8-99
 
@@ -889,7 +973,7 @@ A mistura C, têm, a 70ºC, uma tensão de vapor que não ultrapassa 31 bar e a 
 
 Nota. - Para as misturas atrás referidas são admitidas igualmente as seguintes designações comerciais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 As misturas de hidrocarbonetos dos n.os 3.º, b), e 5.º, b), contendo metano.
 
@@ -1177,7 +1261,7 @@ O solvente não deve atacar os recipientes.
 
 3) Os gases liquefeitos abaixo indicados podem, também, ser transportados em tubos de vidro de paredes espessas, sob condição de que as quantidades de matérias em cada tubo e o grau de enchimento dos tubos não ultrapasse os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Os tubos de vidro serão fechados a maçarico e acondicionados isoladamente, com interposição de terra de infusórios formando enchimento, em cápsulas de chapa, fechadas, que serão colocadas numa caixa de expedição de madeira ou numa embalagem de expedição de resistência suficiente (ver também marginal 208).
 
@@ -1231,7 +1315,7 @@ Nota. - Estas condições não são aplicáveis aos tubos de metal mencionados n
 
 1) A tensão sobre o metal no ponto mais solicitado do recipiente sob a pressão do ensaio [marginais 206, n.os 1) e 2), e 8251] não deve ultrapassar três quartos do mínimo garantido do limite de elasticidade aparente Re. Entende-se por limite de elasticidade aparente a tensão que produzir um alongamento permanente de 2(por mil) (ou seja, 0,2%) ou, para aços austeníticos, de 1% do comprimento entre os traços de referência marcados no provete.
 
-Nota. - O eixo dos provetes de tracção é perpendicular à direcção da laminagem, para as chapas. O alongamento à ruptura (l = 5d) é medido por meio de provetes de secção circular, em que a distância entre os traços de referência l é igual a 5 vezes o diâmetro d; no caso de utilização de provetes de secção rectangular, a distância entre traços de referência deve ser calculada pela fórmula [([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf).
+Nota. - O eixo dos provetes de tracção é perpendicular à direcção da laminagem, para as chapas. O alongamento à ruptura (l = 5d) é medido por meio de provetes de secção circular, em que a distância entre os traços de referência l é igual a 5 vezes o diâmetro d; no caso de utilização de provetes de secção rectangular, a distância entre traços de referência deve ser calculada pela fórmula [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf).
 
 2) - a) Os recipientes de aço cuja pressão de ensaio ultrapasse 60 bar devem ser feitos sem juntas ou soldados. Para os recipientes soldados, deverão ser utilizados aços (ferro-carbono) ou ligas de aço que possam ser soldados com toda a segurança.
 
@@ -1463,7 +1547,7 @@ b) Em tubos de vidro de parede espessa ou em sifões de vidro de acordo com o ma
 
 5):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 209 Inscrições e etiquetas de perigo nas embalagens (ver apêndice 7)
 
@@ -1841,7 +1925,7 @@ c) Se preencherem as condições seguintes:
 
 2) Que a viscosidade (ver nota 2) e o ponto de inflamação sejam conformes à tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 6.º Substâncias e preparações nocivas que servem de pesticidas, com ponto de inflamação inferior a 21ºC:a) Com ponto de ebulição ou início de ebulição inferior ou igual a 35ºC:
 
@@ -2193,7 +2277,7 @@ d) A formação de matérias instáveis.
 
 8):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 309 Inscrições e etiquetas de perigo nas embalagens (ver apêndice 7)
 
@@ -2643,7 +2727,7 @@ a
 
 6:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 409 Inscrições e etiquetas de perigo nas embalagens (ver apêndice 7)
 
@@ -3037,7 +3121,7 @@ a
 
 6):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 439 Etiquetas de perigo nas embalagens (ver apêndice 7)
 
@@ -3407,7 +3491,7 @@ Se o enchimento for controlado por pesagem, o grau de enchimento será, no máxi
 
 6):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 479 Etiquetas de perigo nas embalagens
 
@@ -3815,7 +3899,7 @@ Uma embalagem não deve pesar mais de 150 kg, nem mais de 75 kg, se contiver rec
 
 6):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 509 Etiquetas de perigo nas embalagens (ver apêndice 7)
 
@@ -4097,7 +4181,7 @@ c) Nocivas.
 
 Assim, o grau de toxicidade será estabelecido de acordo com o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Quando uma matéria apresentar diferentes graus de toxicidade segundo dois ou vários modos de exposição, considerar-se-á para efeitos de classificação a toxicidade mais elevada.
 
@@ -4573,39 +4657,39 @@ Nota aos n.os 71.º a 87.º, a), b) e c):
 
 71.º As combinações organofosforadas, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 72.º Os hidrocarbonetos clorados, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 73.º Os derivados clorofenoxiacéticos, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 74.º As combinações orgânicas halogenadas não classificadas nos n.os 72.º ou 73.º, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 75.º As combinações organo-nitradas não classificadas nos outros números, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 76.º Os carbamatos e tiocarbamatos, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 77.º Os alcalóides, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 78.º As combinações orgânicas de mercúrio, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 79.º As combinações orgânicas de estanho, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 80.º As outras combinações organometálicas que não possam ser classificadas nos n.os 78.º e 79.º, tais como:
 
@@ -4613,35 +4697,35 @@ Nota aos n.os 71.º a 87.º, a), b) e c):
 
 81.º Os raticidas, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 82.º Os derivados do bipiridil, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 83.º As outras combinações orgânicas que não possam ser classificadas noutros números de 71.º a 82.º, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 84.º As combinações inorgânicas de arsénio, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 85.º As combinações inorgânicas de flúor, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 86.º As combinações inorgânicas de mercúrio, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 87.º As combinações do cobre, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 88.º As combinações do tálio, tais como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 89.º:
 
@@ -4871,7 +4955,7 @@ d) A formação de matérias instáveis.
 
 8):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 609 Etiquetas de perigo nas embalagens (ver apêndice 7)
 
@@ -5511,7 +5595,7 @@ Por «intensidade de radiação» compreende-se o débito de equivalente de dose
 
 Densidades de fluxo de neutrões a considerar como equivalentes a uma intensidade de radiação de 1 mrem/h
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 15) Conteúdo radioactivo:
 
@@ -5547,7 +5631,7 @@ b) Para os contentores nos quais não se encontram embalagens das classes cindí
 
 Multiplicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 O número que exprime o índice de transporte deve ser arredondado à primeira décima superior.
 
@@ -5779,7 +5863,7 @@ Nenhuma.
 
 (No entanto, veja n.º 15.))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Para as misturas de radionucleídos, veja marginal 6691 do apêndice 6.
 
@@ -5863,7 +5947,7 @@ Instrumentos e artigos manufacturados, tais como relógios, válvulas ou instrum
 
 Nenhuma.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Para as misturas de radionucleídos, veja marginal 6691 do apêndice 6.
 
@@ -6031,7 +6115,7 @@ E ainda para os veículos: 2 mrem/h em qualquer local do veículo, normalmente o
 
 d) As embalagens que não estejam em conformidade com as prescrições do marginal 6600 devem ser transportadas por carregamento completo e os limites indicados no quadro a seguir não devem ser ultrapassados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 10 - Transporte a granel em veículos ou contentores:
 
@@ -6141,7 +6225,7 @@ E ainda para os veículos: 2 mrem/h em qualquer ponto do veículo normalmente oc
 
 d) Os limites indicados no quadro a seguir não devem ser ultrapassados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 10 - Transporte a granel em veículo ou contentor:
 
@@ -6859,11 +6943,11 @@ V - Disposições administrativas
 
 727 Aprovação dos modelos de matérias sob forma especial e dos modelos de embalagens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 728 Autorização das expedições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 729-799
 
@@ -7471,7 +7555,7 @@ d) A formação de matérias instáveis.
 
 8):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 809 Inscrição e etiquetas de perigo nas embalagens (ver apêndice 7)
 
@@ -7703,7 +7787,7 @@ a
 
 APÊNDICES
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Condições de estabilidade e de segurança relativas às matérias explosivas e aos peróxidos orgânicos
 
@@ -7715,7 +7799,7 @@ a
 
 (Reservado)
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Prescrições relativas aos recipientes de alumínio para certos gases da classe 2, aos recipientes e reservatórios de cisternas para o transporte de gases liquefeitos fortemente refrigerados dessa classe e aos ensaios sobre latas e cartuchos de gás sob pressão dos n.os 10.º e 11.º da mesma classe.
 
@@ -7725,7 +7809,7 @@ A1 - Qualidade do material
 
 2000 1) Os materiais dos recipientes de ligas de alumínio que são admitidos para os gases mencionados no marginal 204, n.º 2), b), deverão satisfazer as exigências seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 As propriedades reais dependerão da composição da liga considerada, bem como do tratamento final do recipiente; no entanto, qualquer que seja a liga utilizada, a espessura do recipiente será calculada através da fórmula seguinte:
 
@@ -7753,7 +7837,7 @@ Coluna C: ligas de alumínio, silício e magnésio, de acordo com ISO/R209 (1971
 
 Coluna D: ligas de alumínio, cobre e magnésio.
 
-2 - O alongamento de ruptura (l = 5d) é medido por meio de provetes de secção circular, cuja distância entre marcas l seja igual a 5 vezes o diâmetro d; no caso de utilização de provetes de secção rectangular, a distância entre marcas deve ser calculada pela fórmula [([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+2 - O alongamento de ruptura (l = 5d) é medido por meio de provetes de secção circular, cuja distância entre marcas l seja igual a 5 vezes o diâmetro d; no caso de utilização de provetes de secção rectangular, a distância entre marcas deve ser calculada pela fórmula [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 3 - a) O ensaio de dobragem (ver esquema) será realizado em amostras obtidas pelo corte de duas partes iguais com uma largura de 3e, mas que não deverá ser inferior a 25 mm, de um troço anular retirado das garrafas. As amostras só poderão ser maquinadas nos bordos.
 
@@ -7763,7 +7847,7 @@ c) A amostra não deverá apresentar fendas (gretas) quando tiver sido dobrada e
 
 d) A relação (n) entre o diâmetro do mandril e a espessura da amostra deverá estar em conformidade com os valores indicados no quadro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 2) É admissível um valor mínimo de alongamento mais baixo, sob condição de que um ensaio complementar aprovado pela Direcção-Geral da Qualidade ou, no caso de recipientes importados, pela autoridade competente do país de fabrico ateste que a segurança do transporte é assegurada nas mesmas condições que para os recipientes construídos segundo os valores do quadro do n.º 1).3) A espessura mínima da parede dos recipientes, na sua parte mais fraca, deve ser a seguinte:
 
@@ -7863,7 +7947,7 @@ a) Recipientes e reservatórios de cisternas de aço:
 
 Os ensaios podem ser efectuados quer com provetes de entalhe em U, quer com provetes de entalhe em V.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Para os aços austeníticos apenas o cordão de soldadura deverá ser submetido a um ensaio de resiliência.
 
@@ -7873,7 +7957,7 @@ b) Recipientes e reservatórios de cisternas de alumínio e de ligas de alumíni
 
 2066 As juntas dos recipientes e reservatórios de cisternas devem, à temperatura ambiente, satisfazer as condições seguintes relativamente ao coeficiente de dobragem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 c) Recipientes e reservatórios de cisternas de cobre e de ligas de cobre:
 
@@ -7907,7 +7991,7 @@ Três provetes ao centro da soldadura;
 
 Três provetes na zona de transição devida à soldadura (o entalhe está totalmente fora da zona fundida e o mais perto possível desta).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 isto é, seis provetes no total.
 
@@ -7919,7 +8003,7 @@ Três provetes no centro da soldadura;
 
 Três provetes na zona de transição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 isto é, seis provetes no total.
 
@@ -7927,7 +8011,7 @@ e > 20.
 
 Dois jogos de três provetes (um jogo na superfície superior um e um jogo na superfície inferior) em cada um dos locais indicados a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 isto é, doze provetes no total.
 
@@ -7957,7 +8041,7 @@ r = raio médio de curvatura, em milímetros, do provete, no momento em que apar
 
 3) Sobre a junta realizam-se quatro ensaios, dois deles com a raiz na zona comprimida (fig. 1) e os outros dois com a raiz na zona de tracção (fig. 2); todos os valores obtidos devem satisfazer aos valores mínimos indicados no marginal 2066.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 2086
 
@@ -7989,7 +8073,7 @@ a
 
 2999
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Ensaios relativos às matérias líquidas inflamáveis das classe 3 e 6.1
 
@@ -8049,7 +8133,7 @@ B) Ensaio para determinar a fluidez
 
 Penetrómetro comercial segundo a Norma ISO 2137-1972, com uma haste-guia de 47,5 g (mais ou menos) 0,05 g; disco de crivos de duralumínio com furos cónicos, com o peso de 102,5 g (mais ou menos) 0,05 g; recipiente de penetração com um diâmetro interior de 72 mm a 80 mm, destinado à amostra.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 2) Modo operatório:
 
@@ -8071,13 +8155,13 @@ a
 
 3999
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Ensaios relativos às matérias das classes 4.1, 4.2 e 4.3
 
 (Reservado)
 
-## APÊNDICE 5
+APÊNDICE 5
 
 Condições de embalagem para as classes 3, 6.1 e 8
 
@@ -8103,7 +8187,7 @@ Condições gerais de embalagem
 
 ou a):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 ou b):
 
@@ -8239,7 +8323,7 @@ Z, nas embalegens para as matérias do grupo de embalagem III.
 
 Cada embalagem deve ter uma marcação indelével e bem visível. A marcação para as embalagens novas fabricadas de acordo com o tipo de construção ensaiado é composta por:
 
-a) Um símbolo de embalagem [([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf) e um número de código de embalagem nos termos do marginal 5202, n.º 1), para as embalagens previstas no marginal 5201, n.º 1). Para os recipientes de metal em que a marcação tenha de ser gravada de forma duradoura, podem ser utilizadas as letras «UN» em vez do símbolo convencional;
+a) Um símbolo de embalagem [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf) e um número de código de embalagem nos termos do marginal 5202, n.º 1), para as embalagens previstas no marginal 5201, n.º 1). Para os recipientes de metal em que a marcação tenha de ser gravada de forma duradoura, podem ser utilizadas as letras «UN» em vez do símbolo convencional;
 
 b) Um símbolo de embalagem «RID/ADR» e um número de código de embalagem nos termos do marginal 5202, n.os 1) e 2), para as embalagens previstas no marginal 5201, n.º 2);
 
@@ -8273,11 +8357,11 @@ Exemplos de marcação:
 
 Para uma embalagem nova:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Para um embalagem recondicionada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 5204 Certificação:
 
@@ -8947,7 +9031,7 @@ A área de impacte deve ser uma superfície rígida, não elástica, plana e hor
 
 Para matérias sólidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Para matérias líquidas:
 
@@ -8955,19 +9039,19 @@ Se o ensaio for efectuado com água:
 
 a) Para matérias a transportar cuja densidade não ultrapasse 1,2 g/cm3:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 b) Para matérias a transportar cuja densidade ultrapassa 1,2 g/cm3, a altura de queda deve ser calculada com base na densidade da matéria a transportar, arredondada à primeira casa decimal, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 c) Para os recipientes de folha-de-flandres e metálicos leves e para matérias a transportar cuja densidade a 23ºC seja superior a 200 x 10(elevado a -6) m2/s (correspondendo este valor a um tempo de escoamento de 30 segundos com um aparelho normalizado ISO cujo tubo de ligação tenha um diâmetro de 6 mm de acordo com a Norma ISO 2341-1980):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Se o ensaio for efectuado com a matéria a transportar ou com uma matéria líquida de densidade pelo menos igual a ela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 5) Ponto de impacte:
 
@@ -9037,7 +9121,7 @@ As embalagens deverão ser colocadas debaixo de água; o método utilizado para 
 
 5) Pressão de ar a aplicar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 6) Critérios a utilizar para determinar se o ensaio foi suportado de maneira satisfatória:
 
@@ -9213,7 +9297,7 @@ As embalagens devem ser imersas em água; o método usado para manter as embalag
 
 5503 Pressão de ar a aplicar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 5504 Critérios a utilizar para determinar se o ensaio foi suportado de maneira satisfatória:
 
@@ -9273,7 +9357,7 @@ O ensaio de empilhamento será efectuado tomando-se como base uma densidade a ap
 
 5602 Lista das matérias relacionadas com o método de ensaio expedito segundo o marginal 5402, n.º 6):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 5603
 
@@ -9281,7 +9365,7 @@ a
 
 5999
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Prescrições relativas às matérias radioactivas da classe 7
 
@@ -9391,7 +9475,7 @@ QUADRO I
 
 Condições de irradiação solar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Para a aplicação do n.º 3), b), será suposto que a condição ambiente seja a seguinte:
 
@@ -9437,7 +9521,7 @@ QUADRO II
 
 Limites de actividade para a perda do conteúdo radioactivo para os pacotes do tipo B (M)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Para os gases raros, os valores de A(índice 2) são os do estado não comprimido. Em presença de misturas de radionucleídos, serão aplicadas as prescrições do marginal 6691.
 
@@ -9467,7 +9551,7 @@ QUADRO III
 
 Limites que respeitam às soluções ou misturas hidrogenadas homogéneas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 d) Embalagens que contenham urânio enriquecido em urânio 235, ao máximo de 1% em peso, e cujo teor em plutónio total e urânio 233 não ultrapasse 1% da massa de urânio 235, com a condição de que as matérias cindíveis sejam repartidas de modo homogéneo no conjunto da matéria. Por outro lado, se o urânio 235 se apresenta na forma de metal ou óxido, não deve ser disposto em rede no interior da embalagem;
 
@@ -9573,7 +9657,7 @@ QUADRO IV
 
 Espectro energético dos neutrões (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota a) Este espectro corresponde à porção epitérmica do espectro no estado de equilíbrio emitido por uma embalagem que comporte uma blindagem de madeira de 5 cm de espessura que faça parte de um conjunto critico de tais embalagens.
 
@@ -9593,7 +9677,7 @@ Soluções aquosas de fluoreto de uranilo ou de nitrato de uranilo (ver nota a)
 
 Massa admissível de urânio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota a) Urânio não contendo o isótopo 233 e cujo teor em urânio-235 não ultrapasse 93,5% em peso.
 
@@ -9605,7 +9689,7 @@ Compostos ou misturas não hidrogenadas de urânio (ver nota a) cuja concentraç
 
 Massa admissível de urânio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota a) Urânio que não contenha o isótopo 233 e cujo teor em urânio-235 não ultrapasse 93,5% em peso.
 
@@ -9619,7 +9703,7 @@ Compostos ou misturas não hidrogenadas de urânio (ver nota a) cuja concentraç
 
 Massa admissível de urânio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota a) Urânio que não contenha o isótopo 233 e cujo teor em urânio-235 não ultrapasse 93,5% em peso.
 
@@ -9631,7 +9715,7 @@ Urânio (ver nota a) metal sem moderador
 
 Massa admissível de urânio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota a) Urânio que não contenha o isótopo 233 e cujo teor em urânio-235 não ultrapasse 93,5% em peso.
 
@@ -9641,7 +9725,7 @@ Compostos ou misturas de urânio (ver nota a) cuja concentração em urânio nã
 
 Massa admissível de urânio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota a) Urânio que não contenha o isótopo 233 e cujo teor em urânio-235 não ultrapasse 93,5% em peso.
 
@@ -9651,7 +9735,7 @@ Compostos ou misturas não hidrogenadas de plutónio cuja concentração em plut
 
 Massa admissível de plutónio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota a) As misturas que contenham berílio e deutério são excluídas e a massa de carbono não deve ser superior a um décimo da massa de plutónio admissível.
 
@@ -9661,7 +9745,7 @@ Plutónio metal sem moderador
 
 Massa admissível de plutónio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 QUADRO XII
 
@@ -9669,7 +9753,7 @@ Compostos ou misturas de plutónio cuja concentração em plutónio não ultrapa
 
 Massa admissível de plutónio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 QUADRO XIII
 
@@ -9677,7 +9761,7 @@ Soluções aquosas de nitrato de urânio-233 ou de fluoreto de urânio-233
 
 Massa admissível de urânio por embalagem em função da densidade da madeira da embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 D) Disposições particulares respeitantes às embalagens da classe cindível II
 
@@ -9747,7 +9831,7 @@ QUADRO XIV
 
 Massa admissível de urânio 235 por pessoa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 c) Conteúdo - urânio metal, compostos ou misturas que não se apresentam sob a forma de rede: o conteúdo de toda a remessa que comporte o «número admissível» de embalagens deve ser inferior ou igual à massa admissível de urânio 235 para remessa indicada no quadro XV em função do enriquecimento, para as matérias que satisfaçam as seguintes condições:
 
@@ -9765,7 +9849,7 @@ QUADRO XV
 
 Massa admissível de urânio 235 por remessa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 d) Conteúdo - urânio metal ou plutónio metal, compostos ou misturas: as matérias devem satisfazer as condições seguintes:
 
@@ -9841,7 +9925,7 @@ QUADRO XVI
 
 Massa admissível de urânio 235 por remessa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 c) Conteúdo - urânio metal, compostos ou misturas que não se apresentam sob a forma de rede: o quadro XVII indica a massa admisível de urânio 235 por remessa em função do enriquecimento para as matérias que satisfaçam as condições seguintes:
 
@@ -9859,7 +9943,7 @@ QUADRO XVII
 
 Massa admissível de urânio 235 por remessa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 d) Conteúdo - urânio metal ou plutónio metal, compostos ou misturas: as matérias devem satisfazer as condições seguintes:
 
@@ -9961,7 +10045,7 @@ QUADRO XVIII
 
 Altura da queda livre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 b) Para as embalagens da classe cindível II, a queda livre especificada atrás deve ser precedida de uma queda livre de uma altura de 0,3 m sobre cada um dos cantos ou, se a embalagem é de forma cilíndrica, sobre cada quarto de cada uma das arestas circulares.
 
@@ -10127,7 +10211,7 @@ QUADRO XIX
 
 Máximos admissíveis da contaminação radioactiva não fixa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 C) Categorias
 
@@ -10189,7 +10273,7 @@ E) Separação das matérias radioactivas
 
 QUADRO XX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 F) Armazenagem em trânsito
 
@@ -10243,7 +10327,7 @@ c) 10 mrem/h em qualquer ponto distante 2 m dos planos verticais representados p
 
 a) A intensidade de radiação em todo o local do veículo normalmente ocupado não deve ultrapassar 2 mrem/h durante o transporte. Nessas condições, o transportador deve assegurar-se de que o condutor ou o pessoal que o acompanha recebe até 0,5 rem durante um período de 12 meses. O transportador que respeite as distâncias mínimas indicadas no quadro seguinte, mesmo na ausência de uma blindagem protectora, será aconselhado a respeitar o limite de 2 mrem/h;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 b) Em vez das prescrições da alínea a) atrás, o transportador pode ter o registo dos tempos, autorizado pela CPCRI, que os acompanhantes passam nos veículos e das intensidades de radiação a que eles estão submetidos, a fim de que nenhum seja exposto, durante um período de 3 meses, a uma dose superior a 375 mrem.
 
@@ -10529,13 +10613,13 @@ QUADRO XXI
 
 Valores de A(índice 1) e A(índice 2) para os radionucleídos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 QUADRO XXII
 
 Relação actividade-massa para o urânio e o tório natural (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota a) Para o urânio, os números têm em conta a actividade do urânio 234 que se concentra durante o processo de separação. Para o tório, a actividade inclui a do tório 228 na concentração de equilíbrio.
 
@@ -10571,13 +10655,13 @@ QUADRO XXIII
 
 Relação entre A(índice 1) e E(índice max) para os emissores beta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 QUADRO XXIV
 
 Relação entre A(índice 3) e o número atómico do radionucleído
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 3) Para todos os radionucleídos puros cuja identidade é desconhecida o valor de A(índice 1) será fixado em 2 Ci e o de A(índice 2) em 0,002 Ci. No entanto, se se sabe que o número atómico do radionucleído é inferior a 82,0, o valor de A(índice 1) será fixado em 10 Ci e o de A(índice 2) em 0,4 Ci.
 
@@ -10631,7 +10715,7 @@ a
 
 6699
 
-## APÊNDICE 7
+APÊNDICE 7
 
 Etiquetas de perigo e painéis laranja de sinalização
 
@@ -10639,7 +10723,7 @@ A) Prescrições relativas às etiquetas de perigo
 
 7000 1) As etiquetas modelos n.os 1, 3, 4.1, 4.2, 4.3, 5, 6.1, 6.1A, 8, 7A, 7B, 7C, 7D, 10, 11 e 12 apresentam a forma, as gravuras e as cores que constam da figura seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 2) As etiquetas n.os 1, 3, 4.1, 4.2, 4.3, 5, 6.1, 6.1A e 8 devem ter a dimensão de 10 cm x 10 cm, quando destinadas a embalagens, e de 30 cm x 30 cm, quando destinadas a cisternas. As etiquetas n.os 7A, 7B e 7C, destinadas a embalagens, devem ter a dimensão de 10 cm x 10 cm; a etiqueta n.º 7D, destinada a veículos, deve ter a dimensão de 15 cm x 15 cm. As etiquetas n.os 10, 11 e 12 devem ter a dimensão de 148 mm x 210 mm, a qual, nas embalagens, pode ser reduzida para 74 mm x 105 mm.
 
@@ -10649,7 +10733,7 @@ A) Prescrições relativas às etiquetas de perigo
 
 2) Quando uma embalagem ou contentor tenha de levar duas etiquetas do mesmo modelo, estas devem ser colocadas da seguinte maneira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 3) Compete ao expedidor colocar as etiquetas nas embalagens, contentores e cisternas, ou fornecê-las para que o transportador as coloque.
 
@@ -10657,7 +10741,7 @@ B) Prescrições relativas aos painéis laranja de sinalização
 
 7002 1) Os painéis de sinalização de veículos, de fundo cor de laranja e retroreflectores, serão conformes com o seguinte modelo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 2) Os números de identificação só figuram no caso de transportes em cisternas; nos restantes casos, o fundo do painel será liso e não terá a barra negra transversal.
 
@@ -10675,7 +10759,7 @@ B) Prescrições relativas aos painéis laranja de sinalização
 
 6) A cor de laranja do fundo dos painéis, nas condições normais de utilização, deverá ter coordenadas tricromáticas localizadas na região do diagrama colorimétrico, que se delimita juntando entre si os pontos de coordenadas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Factor de luminosidade da cor retrorreflectora: (beta) >= 0,12. Centro de referência E, luz-padrão C, incidência normal: 45º/0º. Coeficiente de intensidade luminosa sob um ângulo de iluminação de 5º e de divergência de 0,2º: 20 candelas, mínimo, por lux e por metro quadrado.
 
@@ -10847,7 +10931,7 @@ a
 
 7999
 
-## APÊNDICE 8
+APÊNDICE 8
 
 Disposições relativas às cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e baterias de recipientes
 
@@ -10987,7 +11071,7 @@ b) Quando a razão Re/Rm é superior a 0,66:
 
 (nota 1) O eixo dos provetes de tracção é perpendicular à direcção da laminagem para as chapas.
 
-O alongamento de ruptura (l = 5d) é medido por meio de provetes de secção circular, cuja distância entre marcas (l) seja igual a 5 vezes o diâmetro (d); no caso de utilização de provetes de secção rectangular, a distância entre marcas deve ser calculada pela fórmula [([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf).
+O alongamento de ruptura (l = 5d) é medido por meio de provetes de secção circular, cuja distância entre marcas (l) seja igual a 5 vezes o diâmetro (d); no caso de utilização de provetes de secção rectangular, a distância entre marcas deve ser calculada pela fórmula [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf).
 
 8126 As cisternas destinadas ao transporte de líquidos cujo ponto de inflamação não seja superior a 55ºC, bem como ao transporte de gases inflamáveis, devem ser fixadas a todas as partes do veículo por ligações equipotenciais e deverão poder ser ligadas à terra sob o ponto de vista electrostático. A ligação à terra deve ser independente dos flexíveis de carregamento, mesmo se estes forem condutores. A ligação à terra deve ser efectuada antes de qualquer carregamento ou descarga. Deve ser evitado qualquer contacto metálico que possa provocar corrosão electroquímica.
 
@@ -11021,11 +11105,11 @@ A espessura não deve, em nenhum caso, ser inferior aos valores definidos nos n.
 
 3) As paredes, os fundos e as tampas dos reservatórios, com excepção dos mencionados no n.º 5), de acção circular cujo diâmetro seja igual ou inferior a 1,80 m (ver nota 2) devem ter pelo menos 5 mm de espessura se forem de aço macio (ver nota 3) ou uma espessura equivalente se forem de um outro metal. No caso em que o diâmetro seja superior a 1,80 m (ver nota 2), essa espessura deve ser elevada a 6 mm se os reservatórios forem de aço macio (ver nota 3) ou a uma espessura equivalente se forem de um outro metal. Por espessura equivalente entende-se a que é dada pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 4) Quando o reservatório possuir uma protecção contra danos causados por um choque lateral ou por capotamento, as Direcções-Gerais da Qualidade ou de Energia, consoante os casos, podem autorizar que estas espessuras mínimas sejam reduzidas em proporção à protecção oferecida; contudo, estas espessuras não deverão ser inferiores a 3 mm de aço macio (ver nota 3) ou a um valor equivalente de outros materiais no caso de reservatórios com diâmetro igual ou inferior a 1,80 m (ver nota 2). No caso de reservatórios com diâmetro superior a 1,80 m (ver nota 2), esta espessura mínima deve ser elevada a 4 mm de aço macio (ver nota 3) ou a uma espessura equivalente se se tratar de um outro metal. Por espessura equivalente entende-se a que é dada pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Nota. - Podem ser tomadas como protecção contra danos do reservatório as seguintes medidas, ou medidas equivalentes:
 
@@ -11051,7 +11135,7 @@ ii) Quando os reservatórios sejam construídos com parede dupla com uma camada 
 
 5) A espessura dos reservatórios das cisternas calculada de acordo com o marginal 8123, n.º 1), cuja capacidade não ultrapasse 5000 l ou que estejam divididas em compartimentos estanques cuja capacidade unitária não ultrapasse 5000 l, pode ser reduzida a um valor que, contudo, não seja inferior ao valor apropriado indicado no quadro seguinte, salvo prescrições em contrário aplicáveis às diferentes classes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Quando se utilizar outro metal além do aço macio, a espessura deve ser determinada segundo a fórmula de equivalência prevista no n.º 3).
 
@@ -11417,7 +11501,7 @@ a
 
 8251 Os valores da pressão mínima de ensaio a aplicar no ensaio de pressão hidráulica e do grau de enchimento máximo admissível, relativamente aos recipientes e aos reservatórios destinados ao transporte dos gases da classe 2, devem ser os seguintes (ver nota 11):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 (nota 11) 1 - As pressões de ensaio prescritas são:
 
@@ -12201,7 +12285,7 @@ a
 
 8899
 
-## APÊNDICE 9
+APÊNDICE 9
 
 Disposições relativas às cisternas fixas, às cisternas desmontáveis e aos contentores-cisternas de matérias plásticas reforçadas
 
@@ -12689,21 +12773,21 @@ Esquema 1
 
 Depósito destinado à medida da resistência ao choque segundo o método da queda de uma calote esférica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Esquema 2
 
 Aparelho para testar a resistência aos agentes químicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Esquema 3
 
 Esquema da instalação para ensaios comparativos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
-## APÊNDICE 10
+APÊNDICE 10
 
 Fichas de segurança para transporte de mercadorias perigosas
 
@@ -12711,7 +12795,7 @@ Fichas de segurança para transporte de mercadorias perigosas
 
 10001 A estrutura das fichas de segurança deverá obedecer ao seguinte modelo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 10002
 
@@ -12719,7 +12803,7 @@ a
 
 10999
 
-## APÊNDICE 11
+APÊNDICE 11
 
 Modelos de certificados de aprovação para veículos e cisternas de transporte de mercadorias perigosas
 
@@ -12727,13 +12811,13 @@ Modelos de certificados de aprovação para veículos e cisternas de transporte 
 
 Certificado de aprovação de veículos para o transporte de certas mercadorias perigosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 Modelo n.º 2
 
 Certificado de aprovação de cisternas para o transporte de certas mercadorias perigosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 11001
 
@@ -12741,7 +12825,7 @@ a
 
 11999
 
-## APÊNDICE 12
+APÊNDICE 12
 
 Formação de condutores para transporte de mercadorias perigosas em cisternas
 
@@ -12805,7 +12889,7 @@ Especialização n.º 3 - Produtos químicos (restantes matérias das várias cl
 
 12006 Em conformidade com o disposto no marginal 12005, o certificado a emitir relativamente à frequência com aproveitamento dos cursos previstos no RPE, será o mesmo que é estabelecido pelo marginal 260000 do ADR, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 12007
 
@@ -12813,7 +12897,7 @@ a
 
 12999
 
-## APÊNDICE 13
+APÊNDICE 13
 
 Relação alfabética das mercadorias perigosas e respectiva identificação
 
@@ -12851,7 +12935,7 @@ ef É autorizado o transporte em cisternas quando o seu estado físico o permiti
 
 cc Só é autorizado o seu transporte em contentores-cisternas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
 
 QUADRO II
 
@@ -12859,4 +12943,4 @@ Grupos de matérias das classes 3, 6.1 e 8 para efeitos de atribuição de núme
 
 Atenção. - A utilização deste quadro deve ser sempre precedida da consulta ao quadro I.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14903/00070312.pdf)

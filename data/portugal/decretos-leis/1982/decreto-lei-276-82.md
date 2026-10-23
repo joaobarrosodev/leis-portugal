@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16100/21212125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1982-394170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 269071017d79df04d6bfa51b7be95febaa0e22c5a73fe0e56ac404b39cd64718
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16c5f986e431cccdb91bce38491b8d533f7fbe74672d0db0c329664d721eb339
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Relações Culturais Externas
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Política Cultural
+- Relações Internacionais
 relationships:
 - type: amended_by
   target: pt:dre:546608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546608:por
+  label: "Revogado pelo DEC LEI.529/85.1985.12.31.MNE, DR.IS [301]8ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/529-1985-546608
+  date: '1985-12-31'
 article_structure:
-  article_count: 1
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:17Z'
   warnings: []
   errors: []
 ---
@@ -96,51 +122,53 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-### CAPÍTULO I — SECÇÃO I
+### CAPÍTULO I
+
+#### SECÇÃO I
 
 Natureza e competência
 
-###### Artigo 1.º A acção do Ministério dos Negócios Estrangeiros em matéria de relações culturais internacionais exerce-se por intermédio da Direcção-Geral das Relações Culturais Externas, que pelo presente diploma é criada.
+Artigo 1.º A acção do Ministério dos Negócios Estrangeiros em matéria de relações culturais internacionais exerce-se por intermédio da Direcção-Geral das Relações Culturais Externas, que pelo presente diploma é criada.
 
-###### Art. 2.º Compete à Direcção-Geral das Relações Culturais Externas dar efectividade à acção do Estado no plano das relações internacionais de carácter cultural, definindo, determinando, orientando e coordenando tal acção, ainda que esta dependa, em planeamento ou execução, de outros departamentos governamentais.
+Art. 2.º Compete à Direcção-Geral das Relações Culturais Externas dar efectividade à acção do Estado no plano das relações internacionais de carácter cultural, definindo, determinando, orientando e coordenando tal acção, ainda que esta dependa, em planeamento ou execução, de outros departamentos governamentais.
 
 § único. Para os fins do presente diploma, o termo «cultural» entender-se-á como abrangendo os domínios das letras, da ciência, da arte e do desporto.
 
-###### Art. 3.º À Direcção-Geral das Relações Culturais Externas incumbe representar o Ministério dos Negócios Estrangeiros nas comissões interministeriais e outros organismos que se ocupem de assuntos de natureza cultural e, bem assim, presidir às comissões e delegações internacionais de carácter cultural cuja presidência caiba a este Ministério.
+Art. 3.º À Direcção-Geral das Relações Culturais Externas incumbe representar o Ministério dos Negócios Estrangeiros nas comissões interministeriais e outros organismos que se ocupem de assuntos de natureza cultural e, bem assim, presidir às comissões e delegações internacionais de carácter cultural cuja presidência caiba a este Ministério.
 
 § único. A competência estabelecida na parte final do corpo deste artigo poderá ser delegada, por despacho ministerial, em entidades estranhas ao Ministério dos Negócios Estrangeiros.
 
 #### SECÇÃO II — Organização e atribuições dos serviços
 
-###### Art. 4.º A Direcção-Geral das Relações Culturais Externas compreende os seguintes serviços:
+Art. 4.º A Direcção-Geral das Relações Culturais Externas compreende os seguintes serviços:
 
 a) 1.ª Direcção de Serviços da Política Cultural:
 
-##### Divisão dos Países de Língua Portuguesa;
+Divisão dos Países de Língua Portuguesa;
 
-##### Divisão dos Países de Imigração Portuguesa;
+Divisão dos Países de Imigração Portuguesa;
 
-##### Divisão dos Países de Presença Histórica Portuguesa;
+Divisão dos Países de Presença Histórica Portuguesa;
 
 b) 2.ª Direcção de Serviços da Política Cultural:
 
 ##### Divisão da Europa;
 
-##### Divisão da América, África, Ásia e Oceânia;
+Divisão da América, África, Ásia e Oceânia;
 
 c) 3.ª Direcção de Serviços da Política Cultural:
 
 ##### Divisão da UNESCO;
 
-##### Divisão do Conselho da Europa e outras organizações internacionais;
+Divisão do Conselho da Europa e outras organizações internacionais;
 
 d) Direcção de Serviços da Acção Cultural:
 
-##### Divisão da Acção Cultural Permanente;
+Divisão da Acção Cultural Permanente;
 
-##### Divisão das Manifestações Culturais;
+Divisão das Manifestações Culturais;
 
-##### Divisão do Intercâmbio e Bolsas;
+Divisão do Intercâmbio e Bolsas;
 
 e) Gabinete Cultural Técnico;
 
@@ -148,7 +176,7 @@ f) Núcleo de Contabilidade.
 
 § único. O serviço a que se refere a alínea f) deverá ser integrado no serviço homólogo do Ministério dos Negócios Estrangeiros, mediante despacho ministerial, quando o permitam e aconselhem as condições estruturais deste Ministério.
 
-###### Art. 5.º À 1.ª e 2.ª Direcções de Serviços da Política Cultural compete, segundo as áreas geográficas atribuídas às respectivas divisões:
+Art. 5.º À 1.ª e 2.ª Direcções de Serviços da Política Cultural compete, segundo as áreas geográficas atribuídas às respectivas divisões:
 
 1) Estudar, do ponto de vista do interesse político, propondo e ordenando por prioridades, acções e programas que tenham por objectivo a defesa e expansão da língua e da cultura portuguesas no estrangeiro, assim como a cooperação de Portugal em projectos culturais de outros países, nomeadamente:
 
@@ -176,7 +204,7 @@ b) Sobre as propostas e projectos de acção cultural internacional emanados de 
 
 4 - Registar, dar expediente e arquivar por direcções de serviços a correspondência recebida ou expedida que respeite a assuntos das respectivas competências.
 
-###### Art. 6.º À 3.ª Direcção de Serviços de Política Cultural compete, segundo o âmbito de actuação atribuído às suas divisões:
+Art. 6.º À 3.ª Direcção de Serviços de Política Cultural compete, segundo o âmbito de actuação atribuído às suas divisões:
 
 1) Estudar e propor do ponto de vista do interesse político a participação de Portugal em organizações internacionais de carácter cultural, bem como em congressos, conferências e outras manifestações culturais promovidas por tais organizações ou cujo projecto tenha âmbito multilateral;
 
@@ -190,7 +218,7 @@ b) Sobre as propostas e projectos de acção cultural internacional emanados de 
 
 6) Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite a assuntos da sua competência.
 
-###### Art. 7.º Compete à Direcção de Serviços da Acção Cultural:
+Art. 7.º Compete à Direcção de Serviços da Acção Cultural:
 
 1 - Zelar pela efectivação das acções e programas aprovados, quer aplicando e administrando os meios afectos a acções culturais que possam ser realizadas pelo Ministério dos Negócios Estrangeiros, quer mobilizando, acompanhando e apoiando a actividade de outros departamentos governamentais ou de outras entidades públicas ou privadas de cuja capacidade técnica e financeira dependa o planeamento ou execução de tais acções e programas. Este sector de atribuições da Direcção de Serviços da Acção Cultural, que será desempenhado em estreita ligação com o Gabinete Cultural Técnico, cobrirá, nomeadamente, por intermédio das diferentes divisões desta Direcção de Serviços:
 
@@ -218,7 +246,7 @@ g) Os programas de intercâmbio estudantil e profissional e a assistência a est
 
 3) Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite a assuntos da sua competência.
 
-###### Art. 8.º Ao Gabinete Cultural Técnico compete, de maneira geral, coadjuvar os demais serviços da Direcção-Geral das Relações Culturais Externas no exercício das respectivas atribuições, concentrando em si e assegurando, em moldes dinâmicos e eminentemente pragmáticos, a ligação entre os mesmos serviços e os departamentos governamentais ou outras entidades públicas ou privadas de que dependa, técnica e financeiramente, o planeamento ou execução da política de relações culturais internacionais; em especial compete-lhe:
+Art. 8.º Ao Gabinete Cultural Técnico compete, de maneira geral, coadjuvar os demais serviços da Direcção-Geral das Relações Culturais Externas no exercício das respectivas atribuições, concentrando em si e assegurando, em moldes dinâmicos e eminentemente pragmáticos, a ligação entre os mesmos serviços e os departamentos governamentais ou outras entidades públicas ou privadas de que dependa, técnica e financeiramente, o planeamento ou execução da política de relações culturais internacionais; em especial compete-lhe:
 
 1) Acompanhar e auxiliar o trabalho das Direcções de Serviços da Política Cultural, dando parecer e aconselhando sobre a exequibilidade técnica e financeira das acções e programas em estudo;
 
@@ -246,7 +274,7 @@ e) Pareceres sobre a desejabilidade, perante razões da cultura nacional, do est
 
 8) Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite a assuntos da sua competência.
 
-###### Art. 9.º Incumbe ao Núcleo de Contabilidade:
+Art. 9.º Incumbe ao Núcleo de Contabilidade:
 
 1) Organizar a escrituração contábil necessária ao registo do maneio de fundos pela Direcção-Geral das Relações Culturais Externas, em moldes que ponham em evidência as origens dos mesmos fundos e as aplicações em acções e programas culturais;
 
@@ -260,21 +288,21 @@ e) Pareceres sobre a desejabilidade, perante razões da cultura nacional, do est
 
 #### SECÇÃO III — Do pessoal
 
-###### Art. 10.º - 1 - A Direcção-Geral das Relações Culturais Externas é chefiada por um director-geral, funcionário do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de embaixador ou ministro plenipotenciário de 1.ª classe.
+Art. 10.º - 1 - A Direcção-Geral das Relações Culturais Externas é chefiada por um director-geral, funcionário do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de embaixador ou ministro plenipotenciário de 1.ª classe.
 
 2 - O director-geral das Relações Culturais Externas será assistido por um subdirector-geral, funcionário do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe.
 
-###### Art. 11.º As direcções de serviços da Direcção-Geral das Relações Culturais Externas são chefiadas por directores de serviços, funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de conselheiros de embaixada.
+Art. 11.º As direcções de serviços da Direcção-Geral das Relações Culturais Externas são chefiadas por directores de serviços, funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de conselheiros de embaixada.
 
-###### Art. 12.º As divisões integrantes das direcções de serviços da Direcção-Geral das Relações Culturais Externas são chefiadas por chefes de divisão, funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de primeiro-secretário ou de segundo-secretário de embaixada.
+Art. 12.º As divisões integrantes das direcções de serviços da Direcção-Geral das Relações Culturais Externas são chefiadas por chefes de divisão, funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de primeiro-secretário ou de segundo-secretário de embaixada.
 
-###### Art. 13.º Os efectivos das divisões a que se refere o artigo anterior são completados por funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de segundo-secretário ou de terceiro-secretário de embaixada, em número e com a distribuição que aconselharem as razões de serviço, sob proposta do director-geral das Relações Culturais Externas, nos termos do n.º 6.º do artigo 5.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966.
+Art. 13.º Os efectivos das divisões a que se refere o artigo anterior são completados por funcionários do quadro de pessoal do serviço diplomático do Ministério dos Negócios Estrangeiros com a categoria de segundo-secretário ou de terceiro-secretário de embaixada, em número e com a distribuição que aconselharem as razões de serviço, sob proposta do director-geral das Relações Culturais Externas, nos termos do n.º 6.º do artigo 5.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966.
 
 § único. Mediante proposta do director-geral das Relações Culturais Externas, as divisões poderão também ser dotadas com pessoal técnico, quer procedente dos quadros próprios do Ministério dos Negócios Estrangeiros e destacado nos termos do artigo 26.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, ou do n.º 6.º do artigo 5.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, quer procedente, mediante requisição, de outros departamentos governamentais ou de diferentes entidades públicas.
 
-###### Art. 14.º O provimento dos cargos de director-geral, subdirector-geral, director de serviços e chefe de divisão da Direcção-Geral das Relações Culturais Externas será feito por livre escolha do Ministro dos Negócios Estrangeiros, nos termos das disposições regulamentares aplicáveis aos funcionários do serviço diplomático, sem prejuízo do disposto no artigo seguinte.
+Art. 14.º O provimento dos cargos de director-geral, subdirector-geral, director de serviços e chefe de divisão da Direcção-Geral das Relações Culturais Externas será feito por livre escolha do Ministro dos Negócios Estrangeiros, nos termos das disposições regulamentares aplicáveis aos funcionários do serviço diplomático, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 15.º - 1 - O Gabinete Cultural Técnico será dirigido por um funcionário do Ministério da Cultura e Coordenação Científica indicado pelo respectivo ministro e nomeado pelo Ministro dos Negócios Estrangeiros, em regime de requisição.
+Art. 15.º - 1 - O Gabinete Cultural Técnico será dirigido por um funcionário do Ministério da Cultura e Coordenação Científica indicado pelo respectivo ministro e nomeado pelo Ministro dos Negócios Estrangeiros, em regime de requisição.
 
 2 - Completarão os efectivos do Gabinete Cultural Técnico:
 
@@ -284,11 +312,11 @@ b) Funcionários dos quadros técnicos do Ministério dos Negócios Estrangeiros
 
 3 - Compete ao director do Gabinete Cultural Técnico o propor ao director-geral das Relações Culturais Externas os efectivos e organização do serviço que dirige, estruturando-o em núcleos de trabalho adaptados ao melhor desempenho funcional, consoante as circunstâncias o aconselhem.
 
-###### Art. 16.º O Núcleo de Contabilidade ficará a cargo de um técnico auxiliar de contabilidade de 1.ª classe, ou de um primeiro-oficial, que poderá ser assistido por outro pessoal administrativo, requisitado mediante proposta do director-geral das Relações Culturais Externas.
+Art. 16.º O Núcleo de Contabilidade ficará a cargo de um técnico auxiliar de contabilidade de 1.ª classe, ou de um primeiro-oficial, que poderá ser assistido por outro pessoal administrativo, requisitado mediante proposta do director-geral das Relações Culturais Externas.
 
-###### Art. 17.º O pessoal administrativo e auxiliar necessário ao funcionamento da Direcção-Geral das Relações Culturais Externas será designado sob proposta do director-geral nos termos do n.º 6.º do artigo 5.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966.
+Art. 17.º O pessoal administrativo e auxiliar necessário ao funcionamento da Direcção-Geral das Relações Culturais Externas será designado sob proposta do director-geral nos termos do n.º 6.º do artigo 5.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966.
 
-###### Art. 18.º - 1 - As requisições a que se refere o artigo 13.º, § único, o artigo 15.º, n.º 2, alínea a), e o artigo 16.º carecem do acordo prévio dos funcionários a requisitar e da anuência do membro do Governo de que eles dependam.
+Art. 18.º - 1 - As requisições a que se refere o artigo 13.º, § único, o artigo 15.º, n.º 2, alínea a), e o artigo 16.º carecem do acordo prévio dos funcionários a requisitar e da anuência do membro do Governo de que eles dependam.
 
 2 - O despacho de requisição, que não depende da existência de vagas no serviço requisitante, deverá fixar o período de duração e o vencimento atribuído ao funcionário requisitado, a satisfazer por conta das dotações orçamentais do Ministério dos Negócios Estrangeiros.
 
@@ -296,7 +324,7 @@ b) Funcionários dos quadros técnicos do Ministério dos Negócios Estrangeiros
 
 4 - O vencimento a atribuir ao funcionário que venha a exercer o cargo de direcção referido no artigo 15.º n.º 1, será o de director de serviços.
 
-###### Art. 19.º Para efeitos do n.º 1 do artigo 10.º, artigos 11.º e 12.º corpo do artigo 13.º, e artigo 17.º, o quadro de pessoal da Secretaria de Estado dos Negócios Estrangeiros é acrescido das seguintes unidades:
+Art. 19.º Para efeitos do n.º 1 do artigo 10.º, artigos 11.º e 12.º corpo do artigo 13.º, e artigo 17.º, o quadro de pessoal da Secretaria de Estado dos Negócios Estrangeiros é acrescido das seguintes unidades:
 
 a) Pessoal dirigente:
 
@@ -336,11 +364,11 @@ d) Pessoal auxiliar:
 
 1 lugar de motorista de ligeiros de 1.ª classe ou de 2.ª classe.
 
-###### Art. 20.º A Direcção-Geral das Relações Culturais Externas poderá, mediante autorização ministerial, celebrar contratos de prestação de serviços com entidades públicas ou privadas competentes para a realização de estudos ou de outras funções consideradas necessárias à prossecução dos seus objectivos.
+Art. 20.º A Direcção-Geral das Relações Culturais Externas poderá, mediante autorização ministerial, celebrar contratos de prestação de serviços com entidades públicas ou privadas competentes para a realização de estudos ou de outras funções consideradas necessárias à prossecução dos seus objectivos.
 
 ### CAPÍTULO II — Disposições finais e transitórias
 
-###### Art. 21.º Com a entrada em vigor deste diploma, que terá lugar no dia seguinte ao da sua publicação:
+Art. 21.º Com a entrada em vigor deste diploma, que terá lugar no dia seguinte ao da sua publicação:
 
 a) Cessam as atribuições da Direcção-Geral dos Negócios Políticos em matéria de relações culturais internacionais;
 
@@ -350,7 +378,7 @@ c) É extinto um dos cargos de adjunto do director-geral dos Negócios Político
 
 d) É extinta a Repartição das Relações Culturais Externas, passando o lugar de conselheiro de embaixada, ocupado pelo chefe da repartição, a ser ocupado por um dos directores de serviço da Direcção-Geral das Relações Culturais Externas.
 
-###### Art. 22.º - 1 - Dentro de 1 mês a contar da entrada em vigor do presente diploma, instalar-se-á, por despacho do Primeiro-Ministro, uma comissão presidida por um representante da Presidência do Conselho de Ministros e constituída por membros efectivos e suplentes designados pelos Ministros dos Negócios Estrangeiros, da Educação e das Universidades, da Cultura e Coordenação Científica e da Reforma Administrativa, e Secretários de Estado dos Desportos e do Turismo, para o fim de proceder, no prazo de 90 dias, à revisão da legislação anterior em conformidade com os seguintes princípios inspiradores deste diploma:
+Art. 22.º - 1 - Dentro de 1 mês a contar da entrada em vigor do presente diploma, instalar-se-á, por despacho do Primeiro-Ministro, uma comissão presidida por um representante da Presidência do Conselho de Ministros e constituída por membros efectivos e suplentes designados pelos Ministros dos Negócios Estrangeiros, da Educação e das Universidades, da Cultura e Coordenação Científica e da Reforma Administrativa, e Secretários de Estado dos Desportos e do Turismo, para o fim de proceder, no prazo de 90 dias, à revisão da legislação anterior em conformidade com os seguintes princípios inspiradores deste diploma:
 
 a) A actividade internacional do Estado no domínio cultural é exercida sob a orientação política e diplomática do Ministério dos Negócios Estrangeiros, quer decorra da iniciativa deste, quer da iniciativa de outros departamentos governamentais;
 
@@ -360,8 +388,8 @@ b) É salvaguardada a autoridade cultural específica dos referidos departamento
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Junho de 1982.**
+Promulgado em 30 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

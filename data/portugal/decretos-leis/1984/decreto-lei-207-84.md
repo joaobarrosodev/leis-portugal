@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/14500/19291930.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1984-387290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:58:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbac2ab5a3417d774e6736a0850d963fe157bee35cf378738e62d86ff021bb34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b1234e696d7aa639ca381bbf1484e186b123f01c94f66a74c707c5b32e66b21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:58:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:250607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429775:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:156001:por
+  label: "Revogado pelo DEC LEI.167/97.1997.07.04.MECO, DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1997-156001
+  date: '1997-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:58:05Z'
   warnings: []
   errors: []
 ---
@@ -102,30 +122,30 @@ Finalmente, tem-se também o objectivo de pôr termo à proliferação do uso in
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A classificação de um estabelecimento hoteleiro como pousada é da competência da Direcção-Geral do Turismo.
+Artigo 1.º - 1 - A classificação de um estabelecimento hoteleiro como pousada é da competência da Direcção-Geral do Turismo.
 
 2 - A classificação «pousada» será, em princípio, atribuída aos estabelecimentos instalados em imóveis qualificados pelas entidades competentes como monumentos nacionais ou de interesse público.
 
 3 - Poderão ainda obter essa classificação estabelecimentos hoteleiros instalados, por iniciativa pública, sob proposta de proprietários interessados, em edifícios que disponham de limitada capacidade de alojamento e que obedeçam, quer em traça arquitectónica, quer em materiais utilizados, às características locais e se situem fora de zonas turísticas dotadas de suficiente apoio hoteleiro.
 
-###### Art. 2.º As pousadas são exploradas directamente pela ENATUR ou sob a sua responsabilidade.
+Art. 2.º As pousadas são exploradas directamente pela ENATUR ou sob a sua responsabilidade.
 
-###### Art. 3.º - 1 - Só as entidades que sejam proprietárias ou exploradoras de estabelecimentos legalmente classificados como pousada poderão utilizar a referida expressão ou seu diminutivo na composição da respectiva denominação, nome comercial ou nome do estabelecimento, bem como na sua referenciação pública, nomeadamente para fins publicitários.
+Art. 3.º - 1 - Só as entidades que sejam proprietárias ou exploradoras de estabelecimentos legalmente classificados como pousada poderão utilizar a referida expressão ou seu diminutivo na composição da respectiva denominação, nome comercial ou nome do estabelecimento, bem como na sua referenciação pública, nomeadamente para fins publicitários.
 
 2 - O disposto anteriormente aplica-se aos estabelecimentos hoteleiros e similares dos hoteleiros já existentes, os quais deverão, sendo caso disso, promover as respectivas alterações no prazo de 90 dias a contar da data da publicação do presente diploma.
 
 3 - A infracção do disposto nos números anteriores constituirá contra-ordenação, punida pela Direcção-Geral do Turismo com coima de 20000$00 a 100000$00.
 
-###### Art. 4.º As remissões constantes do n.º 3 do artigo 15.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, serão tidas como feitas para o presente diploma.
+Art. 4.º As remissões constantes do n.º 3 do artigo 15.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, serão tidas como feitas para o presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Álvaro Roque de Pinho Bissaia Barreto - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 8 de Junho de 1984.**
+Promulgado em 8 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1984.**
+Referendado em 8 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

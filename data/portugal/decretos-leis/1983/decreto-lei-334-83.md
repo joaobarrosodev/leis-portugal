@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16100/25942600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1983-453778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:53:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71b4e092caea6699802b69430b07e984fcfefa52a16600a15d57ea71afe82604
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efec14bc5f22f2f45c979a932598d9b11770ad07945922bd5084bd0aec5ad0d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Definição de Competências
+- Fiscalização
+- Licenciamento
+- Multa
+- Normas de Segurança
+- Recurso
+- Regulamento sobre Fiscalização de Produtos Explosivos
 relationships:
 - type: amended_by
   target: pt:dre:401043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:642926:por
+  label: Rectificado e publicados os mapas pela DECL.DD5639.13.10.1983.PCM, DR.IS [251]2ºSupl de 31.10.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-642926
+  date: '1983-10-13'
+- type: repealed_by
+  target: pt:dre:401043:por
+  label: "Revogado o Regulamento pelo DEC LEI.376/84.1984.11.30.PCM, DR.IS [278]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1984-401043
+  date: '1984-11-30'
 article_structure:
-  article_count: 33
+  article_count: 32
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:53:00Z'
   warnings: []
   errors: []
 ---
@@ -95,25 +141,25 @@ Convindo reunir tal matéria num diploma único, devidamente actualizado e em co
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento sobre a Fiscalização de Produtos Explosivos, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento sobre a Fiscalização de Produtos Explosivos, que faz parte integrante do presente diploma.
 
-###### Art. 2.º O presente decreto-lei revoga o [Decreto-Lei n.º 76/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1978-425553), de 27 de Abril, e os artigos 6.º, 8.º, 85.º a 90.º e 143.º a 163.º do regulamento aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950.
+Art. 2.º O presente decreto-lei revoga o [Decreto-Lei n.º 76/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1978-425553), de 27 de Abril, e os artigos 6.º, 8.º, 85.º a 90.º e 143.º a 163.º do regulamento aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950.
 
-###### Art. 3.º Os artigos 35.º do Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos, aprovado pelo [Decreto-Lei n.º 142/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1979-382786), 41.º do Regulamento sobre Transporte de Produtos Explosivos por Estrada, aprovado pelo [Decreto-Lei n.º 143/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1979-382787), e 43.º do Regulamento sobre o Transporte de Produtos Explosivos por Caminho de Ferro, aprovado pelo [Decreto-Lei n.º 144/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1979-382781), todos de 23 de Maio, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 35.º do Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos, aprovado pelo [Decreto-Lei n.º 142/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1979-382786), 41.º do Regulamento sobre Transporte de Produtos Explosivos por Estrada, aprovado pelo [Decreto-Lei n.º 143/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1979-382787), e 43.º do Regulamento sobre o Transporte de Produtos Explosivos por Caminho de Ferro, aprovado pelo [Decreto-Lei n.º 144/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1979-382781), todos de 23 de Maio, passam a ter a seguinte redacção:
 
 Às transgressões aos preceitos do presente Regulamento são aplicáveis as sanções prescritas no Regulamento sobre a Fiscalização de Produtos Explosivos, aprovado pelo Decreto-Lei n.º 334/83, de 15 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Carlos José Sanches Vaz Pardal - José Ângelo Ferreira Correia - Fernando Manuel Barbosa Faria de Oliveira - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 REGULAMENTO SOBRE A FISCALIZAÇÃO DE PRODUTOS EXPLOSIVOS
 

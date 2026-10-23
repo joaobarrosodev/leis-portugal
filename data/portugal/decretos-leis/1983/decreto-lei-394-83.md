@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/24800/36913692.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1983-441716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:54:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e1d770ac04cf2ccf15f36abe5426976d2b2b866ef537621eb1dd4094ef50272
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bceda3227ffcad3f490804be635110db4f5759935f5010907325121e1461d69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Duodécimo
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469986:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 276/1983, 2º Suplemento, Série I de 1983-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469986
+  date: '1983-11-30'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:54:01Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +114,7 @@ Ao abrigo do disposto no n.º 2 do artigo 18.º da [Lei n.º 64/77](https://diar
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Proibição de utilização dos 2 últimos duodécimos ainda não vencidos)
 
@@ -131,7 +146,7 @@ j) Investimentos - Maquinaria e equipamento (código 52.00);
 
 l) Outras despesas de capital - Diversas (código 44.09);
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Proibição de utilização de 50% dos 2 últimos duodécimos ainda não vencidos)
 
@@ -141,7 +156,7 @@ a) Deslocações - Compensação de encargos (código 14.00);
 
 b) Aquisição de serviços - Não especificados (código 31.00).
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Isenção do regime estabelecido nos artigos anteriores)
 
@@ -163,13 +178,13 @@ e) Programas de investimentos do Plano em curso de execução.
 
 4 - A elaboração dos processos a que se referem os números antecedentes compete aos respectivos serviços, os quais, depois de obtida a aprovação do ministro da tutela, os enviarão às competentes delegações da Direcção-Geral da Contabilidade Pública, a fim de por estas serem informados e remetidos à sua direcção-geral.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Proibição de transferências de encargos para o próximo ano)
 
 Fica expressamente vedado aos serviços, independentemente do seu regime jurídico, relegarem para o orçamento do próximo ano quaisquer encargos que venham a assumir a partir da entrada em vigor do presente diploma e que, perante a proibição constante do mesmo, não possam satisfazer de conta ainda da gerência que decorre, ficando os dirigentes respectivos responsáveis pelos correspondentes pagamentos.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Prevalência)
 
@@ -177,12 +192,12 @@ O presente diploma prevalece sobre quaisquer normas especiais aplicáveis aos se
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 18 de Outubro de 1983.**
+Promulgado em 18 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Outubro de 1983.**
+Referendado em 20 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

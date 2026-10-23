@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04000/05050512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1983-311054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:56:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dd87795eecf38652eac8e7b303104e0c8d0bf87bfacf8890da943bd7253a53e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef457726d9a4a2964c177f1caa9f3d61e5fbc29cfa8751ffa4fd430d5b80c92d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa
+- Instituto António Sérgio do Sector Cooperativo
+- Orgânica
+- Presidência do Conselho de Ministros
 relationships:
 - type: amended_by
   target: pt:dre:332893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:373454:por
+  label: "Substituído o quadro de pessoal, aprovado no presente diploma, pela PORT.292/88.10.05.1988.MF, DR.IS [108] de 10.05.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-1988-373454
+  date: '1988-05-10'
+- type: cites
+  target: pt:dre:253233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165197:por
+  label: Rectificado pela DECL.DD3235.1983.03.04.PCM, DR.IS [75]Supl de 31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165197
+  date: '1983-03-04'
+- type: repealed_by
+  target: pt:dre:332893:por
+  label: "Revogado pelo DEC LEI.63/90.1990.02.20.MPLAT DR.IS [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-1990-332893
+  date: '1990-02-20'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:56:05Z'
   warnings: []
   errors: []
 ---
@@ -110,31 +154,31 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O Estatuto do Instituto António Sérgio do Sector Cooperativo, abreviadamente designado por INSCOOP, cujo texto faz parte integrante do [Decreto-Lei n.º 902/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/902-1976-391061), de 31 de Dezembro, e alterado nos termos da [Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/lei/35-1977-253233), de 8 de Junho, passa a ter a seguinte redacção:
+Artigo único. O Estatuto do Instituto António Sérgio do Sector Cooperativo, abreviadamente designado por INSCOOP, cujo texto faz parte integrante do [Decreto-Lei n.º 902/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/902-1976-391061), de 31 de Dezembro, e alterado nos termos da [Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/lei/35-1977-253233), de 8 de Junho, passa a ter a seguinte redacção:
 
 ESTATUTO
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º O Instituto António Sérgio do Sector Cooperativo, abreviadamente designado por INSCOOP, é um instituto público, dotado de personalidade jurídica e de autonomia administrativa e financeira, com património próprio, que se rege pelo disposto no presente Estatuto e respectivos regulamentos.
+Artigo 1.º O Instituto António Sérgio do Sector Cooperativo, abreviadamente designado por INSCOOP, é um instituto público, dotado de personalidade jurídica e de autonomia administrativa e financeira, com património próprio, que se rege pelo disposto no presente Estatuto e respectivos regulamentos.
 
-###### Art. 2.º - 1 - O INSCOOP tem como principais finalidades fomentar a expansão qualitativa e quantitativa do sector cooperativo, zelar pela observância dos princípios cooperativos e contribuir para a coordenação das actividades da Administração Pública com incidência no sector cooperativo.
+Art. 2.º - 1 - O INSCOOP tem como principais finalidades fomentar a expansão qualitativa e quantitativa do sector cooperativo, zelar pela observância dos princípios cooperativos e contribuir para a coordenação das actividades da Administração Pública com incidência no sector cooperativo.
 
 2 - Compete também ao INSCOOP contribuir para a implementação dos princípios constitucionais em matéria de cooperativismo e dar cumprimento às determinações da legislação cooperativa e, nomeadamente, às atribuições que lhe são directamente cometidas pelo Código Cooperativo e legislação complementar.
 
 3 - Para a prossecução das suas finalidades, o INSCOOP exercerá entre outras e em permanente ligação com o sector cooperativo, as seguintes funções: estudar e planear, informar, formar, assistir e coordenar.
 
-###### Art. 3.º A função «estudar e planear» consiste em:
+Art. 3.º A função «estudar e planear» consiste em:
 
 a) Efectuar, promover ou apoiar estudos sobre temas cooperativos, nomeadamente os que possibilitem o subsequente planeamento e desenvolvimento de acções globais ou sectoriais, de acordo com as necessidades do sector cooperativo;
 
 b) Organizar e manter em funcionamento em colaboração com as entidades com competência legal em matéria estatística, designadamente o Instituto Nacional de Estatística, um sistema estatístico de recolha e tratamento de dados sobre o sector cooperativo para permitir, nomeadamente, a organização dos processos necessários ao cumprimento das atribuições cometidas ao INSCOOP pelo Código Cooperativo e legislação complementar.
 
-###### Art. 4.º - 1 - A função «informar» consiste na difusão seleccionada, quer a nível nacional, quer internacional, da informação referente ao sector cooperativo produzida pelo próprio INSCOOP ou por outros serviços do Estado, bem como da oriunda das organizações cooperativas, após acordo prévio com estas.
+Art. 4.º - 1 - A função «informar» consiste na difusão seleccionada, quer a nível nacional, quer internacional, da informação referente ao sector cooperativo produzida pelo próprio INSCOOP ou por outros serviços do Estado, bem como da oriunda das organizações cooperativas, após acordo prévio com estas.
 
 2 - O INSCOOP promoverá o esclarecimento objectivo dos cidadãos, nomeadamente através dos meios de comunicação social, sobre os princípios cooperativos e demais matérias no âmbito da sua competência.
 
-###### Art. 5.º - 1 - A função «formar» consiste na formação de cooperadores, dirigentes e quadros técnicos, designadamente através de:
+Art. 5.º - 1 - A função «formar» consiste na formação de cooperadores, dirigentes e quadros técnicos, designadamente através de:
 
 a) Cursos específicos organizados pelo INSCOOP, através dos seus serviços ou em colaboração com departamentos governamentais e outras instituições públicas, privadas ou cooperativas;
 
@@ -144,7 +188,7 @@ c) Produção ou co-produção de textos e outro material sobre cooperativismo d
 
 2 - No desempenho desta função poderá o INSCOOP recorrer à colaboração de quaisquer entidades nacionais ou estrangeiras.
 
-###### Art. 6.º - 1 - A função «assistir» consiste na prestação de apoio e assistência técnica às cooperativas e suas organizações de grau superior, a desenvolver dentro das capacidades do Instituto e de acordo com as normas e disposições legais aplicáveis.
+Art. 6.º - 1 - A função «assistir» consiste na prestação de apoio e assistência técnica às cooperativas e suas organizações de grau superior, a desenvolver dentro das capacidades do Instituto e de acordo com as normas e disposições legais aplicáveis.
 
 2 - No desempenho desta função deverá o Instituto:
 
@@ -158,7 +202,7 @@ d) Credenciar as cooperativas e suas organizações de grau superior para os efe
 
 3 - As formas concretas de execução das acções enunciadas no número anterior poderão ser objecto de acordos a celebrar entre o INSCOOP e as organizações cooperativas interessadas, nos quais se definam clara e precisamente as necessidades a satisfazer, os objectivos a alcançar, os modos de financiamento previstos, as modalidades de reembolso e os meios a utilizar.
 
-###### Art. 7.º - 1 - A função «coordenar» incide nos domínios legislativo, fiscal, formação e assistência técnica, financiamento e crédito que digam respeito ao sector cooperativo e exercer-se-á nos termos definidos nos n.os 1 e 2 do artigo 2.º, sempre sem prejuízo das iniciativas oriundas do próprio sector cooperativo.
+Art. 7.º - 1 - A função «coordenar» incide nos domínios legislativo, fiscal, formação e assistência técnica, financiamento e crédito que digam respeito ao sector cooperativo e exercer-se-á nos termos definidos nos n.os 1 e 2 do artigo 2.º, sempre sem prejuízo das iniciativas oriundas do próprio sector cooperativo.
 
 2 - Quanto à coordenação dos aspectos legislativos:
 
@@ -180,9 +224,9 @@ d) O INSCOOP deverá promover estudos de direito comparado na área da legislaç
 
 7 - Relativamente à coodenação dos aspectos respeitantes à actividade cooperadora, a acção do INSCOOP obedecerá ao disposto nos n.os 1 e 2 do artigo 2.º e exercer-se-á por forma a nunca contrariar a liberdade de constituição das cooperativas e suas organizações de grau superior nem se traduzir em qualquer forma de ingerência dirigismo ou controle.
 
-###### Art. 8.º Compete também ao INSCOOP exercer funções consultivas sobre matérias da sua competência, a solicitação de departamentos governamentais ou de organizações do sector cooperativo.
+Art. 8.º Compete também ao INSCOOP exercer funções consultivas sobre matérias da sua competência, a solicitação de departamentos governamentais ou de organizações do sector cooperativo.
 
-###### Art. 9.º Com vista ao eficiente desempenho das suas atribuições, poderá o INSCOOP:
+Art. 9.º Com vista ao eficiente desempenho das suas atribuições, poderá o INSCOOP:
 
 a) Requerer ao Governo ou directamente aos órgãos da Administração os elementos, informações e publicações oficiais de que careça;
 
@@ -196,15 +240,15 @@ e) Propor superiormente as medidas e a legislação adequadas ao desempenho das 
 
 f) Regular a sua própria organização e funcionamento.
 
-###### Art. 10.º No prosseguimento das suas atribuições o INSCOOP procurará sempre assegurar a colaboração com os diversos departamentos ministeriais, para efeito de assegurar o apoio ao sector cooperativo.
+Art. 10.º No prosseguimento das suas atribuições o INSCOOP procurará sempre assegurar a colaboração com os diversos departamentos ministeriais, para efeito de assegurar o apoio ao sector cooperativo.
 
 ### CAPÍTULO II — Dos órgãos do Instituto
 
-###### Art. 11.º São órgãos do INSCOOP o conselho directivo, o conselho administrativo e o conselho coordenador.
+Art. 11.º São órgãos do INSCOOP o conselho directivo, o conselho administrativo e o conselho coordenador.
 
-###### Art. 12.º O conselho directivo é composto por 1 presidente e por 2 vice-presidentes.
+Art. 12.º O conselho directivo é composto por 1 presidente e por 2 vice-presidentes.
 
-###### Art. 13.º Compete ao conselho directivo:
+Art. 13.º Compete ao conselho directivo:
 
 a) Definir as linhas gerais de actuação do INSCOOP;
 
@@ -234,7 +278,7 @@ m) Delegar os seus poderes;
 
 n) Exercer quaisquer outras atribuições que, legal ou estatutariamente, lhe sejam cometidas.
 
-###### Art. 14.º - 1 - Compete ao presidente do conselho directivo:
+Art. 14.º - 1 - Compete ao presidente do conselho directivo:
 
 a) Representar o INSCOOP;
 
@@ -252,7 +296,7 @@ g) Submeter a despacho do Primeiro-Ministro os assuntos que careçam de resoluç
 
 2 - O presidente do conselho directivo será substituído nas suas faltas, ausências ou impedimentos pelo vice-presidente por ele designado.
 
-###### Art. 15.º - 1 - O conselho administrativo é um órgão consultivo em matéria de gestão financeira.
+Art. 15.º - 1 - O conselho administrativo é um órgão consultivo em matéria de gestão financeira.
 
 2 - O conselho administrativo é composto pelos seguintes membros:
 
@@ -262,7 +306,7 @@ b) Chefe de repartição administrativa;
 
 c) 1 director de serviços do quadro do INSCOOP.
 
-###### Art. 16.º Compete, em especial, ao conselho administrativo:
+Art. 16.º Compete, em especial, ao conselho administrativo:
 
 a) Promover a elaboração dos projectos de orçamento sobre receitas e despesas, de harmonia com as disposições legais aplicáveis;
 
@@ -274,7 +318,7 @@ d) Proceder à verificação regular dos fundos em tesouraria e em depósito e f
 
 e) Apreciar os encargos dos acordos ou contratos a celebrar com entidades oficiais ou particulares e os contratos de fornecimento.
 
-###### Art. 17.º - 1 - O conselho administrativo reunirá:
+Art. 17.º - 1 - O conselho administrativo reunirá:
 
 a) Ordinariamente, 1 vez por mês;
 
@@ -282,13 +326,13 @@ b) Extraordinariamente, sempre que convocado pelo presidente.
 
 2 - Das reuniões do conselho administrativo serão elaboradas actas.
 
-###### Art. 18.º - 1 - O conselho coordenador é um órgão consultivo do conselho directivo e é constituído pelo presidente e vice-presidente do INSCOOP, por vogais representantes de cada um dos diferentes ramos do sector cooperativo enunciados no Código Cooperativo, por vogais representantes dos departamentos governamentais ligados a esses ramos e pelos vogais previstos no artigo 20.º deste Estatuto.
+Art. 18.º - 1 - O conselho coordenador é um órgão consultivo do conselho directivo e é constituído pelo presidente e vice-presidente do INSCOOP, por vogais representantes de cada um dos diferentes ramos do sector cooperativo enunciados no Código Cooperativo, por vogais representantes dos departamentos governamentais ligados a esses ramos e pelos vogais previstos no artigo 20.º deste Estatuto.
 
 2 - O número de vogais representantes dos diferentes ramos do sector cooperativo será igual ao dos representantes dos departamentos governamentais, mas nunca inferior ao número de ramos do sector cooperativo legalmente enunciados.
 
 3 - Caberá ao conselho directivo do INSCOOP propor superiormente a distribuição dos mandatos da representação do sector cooperativo pelos seus diferentes ramos.
 
-###### Art. 19.º - 1 - Os vogais representantes dos departamentos governamentais serão nomeados por despacho dos ministros da tutela.
+Art. 19.º - 1 - Os vogais representantes dos departamentos governamentais serão nomeados por despacho dos ministros da tutela.
 
 2 - Os vogais referidos no número anterior são nomeados até 31 de Dezembro de cada ano para um mandato anual, que findará em 31 de Dezembro do ano seguinte.
 
@@ -300,17 +344,17 @@ b) Extraordinariamente, sempre que convocado pelo presidente.
 
 6 - O mandato dos vogais do sector cooperativo terá a duração máxima de 2 anos e terminará em 31 de Dezembro, salvo decisão contrária dos organismos referidos no n.º 4 e é passível de renovação sucessiva.
 
-###### Art. 20.º - 1 - Os Governos Regionais das Regiões Autónomas dos Açores e da Madeira fazem-se representar no conselho coordenador do INSCOOP por 2 vogais cada.
+Art. 20.º - 1 - Os Governos Regionais das Regiões Autónomas dos Açores e da Madeira fazem-se representar no conselho coordenador do INSCOOP por 2 vogais cada.
 
 2 - O sector cooperativo das Regiões Autónomas dos Açores e da Madeira faz-se representar no conselho coordenador do INSCOOP por 2 vogais cada.
 
 3 - É aplicável aos vogais representantes dos Governos Regionais e dos vogais representantes do sector cooperativo das Regiões Autónomas dos Açores e da Madeira o regime previsto no artigo anterior com as necessárias adaptações.
 
-###### Art. 21.º - 1 - A mesa do conselho coordenador é composta pelo presidente e por 2 secretários.
+Art. 21.º - 1 - A mesa do conselho coordenador é composta pelo presidente e por 2 secretários.
 
 2 - O conselho coordenador será empossado pelo Primeiro-Ministro, reunindo imediatamente para a eleição dos 2 secretários.
 
-###### Art. 22.º - 1 - Compete ao conselho coordenador:
+Art. 22.º - 1 - Compete ao conselho coordenador:
 
 a) Estabelecer, por intermédio dos seus vogais, uma ligação funcional e expedita com os respectivos departamentos ministeriais e ramos do sector cooperativo, por forma a permitir, quer ao INSCOOP, quer às demais entidades interessadas, uma visão global do sector que possibilite uma relação mútua, consciente e interessada, conducente a uma prática eficaz e desburocratizada;
 
@@ -330,7 +374,7 @@ g) Propor às entidades competentes, através do conselho directivo do INSCOOP, 
 
 3 - Os conselhos técnicos previstos na alínea f) do n.º 1, destinados à análise e proposta de solução adequada de problemas específicos respeitantes ao sector cooperativo, são criados por despacho do conselho directivo, que definirá o seu objecto, composição e modo de funcionamento, podendo ainda integrar outros cooperativistas e técnicos de reconhecida competência.
 
-###### Art. 23.º - 1 - O conselho coordenador só pode funcionar com a presença de, pelo menos, metade dos seus membros, sendo obrigatório que a sua convocação se faça, pelo menos, com 15 dias de antecedência, através de aviso expedido sob registo.
+Art. 23.º - 1 - O conselho coordenador só pode funcionar com a presença de, pelo menos, metade dos seus membros, sendo obrigatório que a sua convocação se faça, pelo menos, com 15 dias de antecedência, através de aviso expedido sob registo.
 
 2 - O conselho coordenador é convocado pelo respectivo presidente.
 
@@ -340,7 +384,7 @@ g) Propor às entidades competentes, através do conselho directivo do INSCOOP, 
 
 ### CAPÍTULO III — Dos serviços do Instituto
 
-###### Art. 24.º São serviços do INSCOOP:
+Art. 24.º São serviços do INSCOOP:
 
 a) A Direcção de Serviços de Fomento e Coordenação;
 
@@ -348,7 +392,7 @@ b) A Direcção de Serviços de Formação e Assistência Técnica;
 
 c) A Repartição Administrativa.
 
-###### Art. 25.º - 1 - A Direcção de Serviços de Fomento e Coordenação compreende:
+Art. 25.º - 1 - A Direcção de Serviços de Fomento e Coordenação compreende:
 
 a) A Divisão de Estudos e Planeamento;
 
@@ -370,11 +414,11 @@ b) A Secção de Contabilidade, Património e Economato.
 
 2 - Compete à Direcção de Serviços de Fomento e Coordenação, através da Divisão de Estatística, o desenvolvimento das acções previstas na alínea b) do artigo 3.º e na alínea d) do n.º 2 do artigo 6.º do presente Estatuto.
 
-###### Art. 27.º - 1 - Compete à Direcção de Serviços de Formação e Assistência Técnica, através da Divisão de Formação e Informação, o desenvolvimento das acções previstas nos artigos 4.º e 5.º e no n.º 5 do artigo 7.º do presente Estatuto, bem como a planificação e edição das publicações do Instituto.
+Art. 27.º - 1 - Compete à Direcção de Serviços de Formação e Assistência Técnica, através da Divisão de Formação e Informação, o desenvolvimento das acções previstas nos artigos 4.º e 5.º e no n.º 5 do artigo 7.º do presente Estatuto, bem como a planificação e edição das publicações do Instituto.
 
 2 - Compete à Direcção de Serviços de Formação e Assistência Técnica, através da Divisão de Assistência Técnica e Financeira, o desenvolvimento das acções previstas nas alíneas a), b) e c) do n.º 2 do artigo 6.º e nos n.os 5 e 6 do artigo 7.º do presente Estatuto.
 
-###### Art. 28.º - 1 - Compete à Repartição Administrativa, através da Secção de Pessoal, Expediente e Arquivo, as seguintes funções, entre outras, que lhe sejam cometidas pelo conselho directivo:
+Art. 28.º - 1 - Compete à Repartição Administrativa, através da Secção de Pessoal, Expediente e Arquivo, as seguintes funções, entre outras, que lhe sejam cometidas pelo conselho directivo:
 
 a) Assegurar o expediente geral dos vários órgãos e serviços do INSCOOP, bem como os serviços de recepção, expedição, registo e classificação de correspondência e de outra documentação;
 
@@ -410,7 +454,7 @@ l) Zelar pela vigilância e segurança das instalações do INSCOOP.
 
 ### CAPÍTULO IV — Da descentralização
 
-###### Art. 29.º - 1 - O INSCOOP poderá criar delegações, de acordo com a efectiva necessidade de descentralização dos seus serviços.
+Art. 29.º - 1 - O INSCOOP poderá criar delegações, de acordo com a efectiva necessidade de descentralização dos seus serviços.
 
 2 - As delegações do INSCOOP são criadas, sob proposta do conselho directivo, por diploma que fixará o respectivo âmbito, competências e modo de funcionamento, designando ainda o responsável local.
 
@@ -420,7 +464,7 @@ l) Zelar pela vigilância e segurança das instalações do INSCOOP.
 
 ### CAPÍTULO V — Do Núcleo de Altos Estudos Cooperativos
 
-###### Art. 30.º - 1 - Funciona na dependência do INSCOOP o Núcleo de Altos Estudos Cooperativos (NAEC) com a finalidade de promover estudos e investigações sobre o sector cooperativo, de acordo com o plano de actividades do INSCOOP e, em especial:
+Art. 30.º - 1 - Funciona na dependência do INSCOOP o Núcleo de Altos Estudos Cooperativos (NAEC) com a finalidade de promover estudos e investigações sobre o sector cooperativo, de acordo com o plano de actividades do INSCOOP e, em especial:
 
 a) Colaborar nas acções de investigação e formação cometidas ao INSCOOP;
 
@@ -430,7 +474,7 @@ c) Preparar para difusão, a níveis nacional e internacional, os resultados da 
 
 2 - O NAEC poderá estabelecer contactos com entidades nacionais e estrangeiras e propor ao conselho directivo do INSCOOP a celebração com aquelas entidades de acordos e convénios no domínio das suas atribuições específicas.
 
-###### Art. 31.º - O NAEC é composto por:
+Art. 31.º - O NAEC é composto por:
 
 a) Presidente;
 
@@ -438,23 +482,23 @@ b) 3 vogais do sector cooperativo membros do conselho coordenador do INSCOOP;
 
 c) Um máximo de 4 vogais designados de entre indivíduos de reconhecida competência e experiência cooperativa ouvido o presidente do NAEC.
 
-###### Art. 32.º O presidente e os vogais do NAEC são nomeados pelo conselho directivo do INSCOOP e empossados pelo respectivo presidente.
+Art. 32.º O presidente e os vogais do NAEC são nomeados pelo conselho directivo do INSCOOP e empossados pelo respectivo presidente.
 
-###### Art. 33.º - 1 - O NAEC será dirigido pelo seu presidente, ouvidos os respectivos vogais.
+Art. 33.º - 1 - O NAEC será dirigido pelo seu presidente, ouvidos os respectivos vogais.
 
 2 - A remuneração do lugar de presidente do NAEC será fixada por despacho conjunto do Primeiro-Ministro e do Ministro de Estado e das Finanças e do Plano, não podendo ser inferior à de subdirector-geral, quando o cargo for desempenhado em tempo inteiro e em exclusividade.
 
-###### Art. 34.º - 1 - O NAEC poderá dispor de receitas que lhe sejam afectadas pelo INSCOOP e inscritas no seu orçamento em rubrica própria designada «Núcleo de Altos Estudos Cooperativos».
+Art. 34.º - 1 - O NAEC poderá dispor de receitas que lhe sejam afectadas pelo INSCOOP e inscritas no seu orçamento em rubrica própria designada «Núcleo de Altos Estudos Cooperativos».
 
 2 - As despesas de funcionamento do NAEC serão suportadas pelas receitas previstas no número anterior e, se necessário, por outras dotações do INSCOOP, na medida das suas disponibilidades legais e orçamentais.
 
 3 - O NAEC deverá apresentar atempadamente ao conselho directivo do INSCOOP as suas propostas a integrar no plano de actividades e orçamento anuais do INSCOOP.
 
-###### Art. 35.º Na medida das suas possibilidades o INSCOOP afectará ao NAEC os recursos humanos, técnicos e de secretariado, capazes de responder às respectivas necessidades do mesmo.
+Art. 35.º Na medida das suas possibilidades o INSCOOP afectará ao NAEC os recursos humanos, técnicos e de secretariado, capazes de responder às respectivas necessidades do mesmo.
 
 ### CAPÍTULO VI — Da gestão financeira e patrimonial
 
-###### Art. 36.º - 1 - A gestão financeira do INSCOOP será disciplinada pelos seguintes instrumentos de gestão previsional:
+Art. 36.º - 1 - A gestão financeira do INSCOOP será disciplinada pelos seguintes instrumentos de gestão previsional:
 
 a) Programa anual de actividades;
 
@@ -462,7 +506,7 @@ b) Orçamento privativo anual.
 
 2 - Independentemente do disposto no número anterior, poderão, sempre que necessário, ser elaborados planos plurianuais de actividades e financeiros.
 
-###### Art. 37.º Constituem receitas do INSCOOP:
+Art. 37.º Constituem receitas do INSCOOP:
 
 a) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações inscritas no Orçamento Geral do Estado;
 
@@ -474,33 +518,33 @@ d) O produto de vendas, nomeadamente de publicações;
 
 e) Quaisquer outras que legalmente lhe venham a ser atribuídas.
 
-###### Art. 38.º - 1 - Constituem encargos do INSCOOP todas as despesas a realizar com o funcionamento dos órgãos, serviços e delegações e quaisquer outras que sejam necessárias para assegurar o cabal desempenho das suas atribuições.
+Art. 38.º - 1 - Constituem encargos do INSCOOP todas as despesas a realizar com o funcionamento dos órgãos, serviços e delegações e quaisquer outras que sejam necessárias para assegurar o cabal desempenho das suas atribuições.
 
 2 - Estão compreendidos na noção de encargos, referida no número anterior, os subsídios autorizados pelo conselho directivo e concedidos a cooperativas e suas organizações de grau superior.
 
 3 - A autorização de despesas será feita nos termos e até aos limites estabelecidos na lei para os dirigentes dos organismos dotados de autonomia financeira e administrativa.
 
-###### Art. 39.º As disponibilidades do Instituto serão obrigatoriamente depositadas à sua ordem em qualquer instituição de crédito nos termos legais e sem prejuízo de poder ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que deva ser feito em dinheiro.
+Art. 39.º As disponibilidades do Instituto serão obrigatoriamente depositadas à sua ordem em qualquer instituição de crédito nos termos legais e sem prejuízo de poder ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que deva ser feito em dinheiro.
 
-###### Art. 40.º - 1 - A movimentação de valores depositados só poderá processar-se mediante as assinaturas de 2 membros do conselho directivo, sendo uma do presidente ou do seu substituto legal.
+Art. 40.º - 1 - A movimentação de valores depositados só poderá processar-se mediante as assinaturas de 2 membros do conselho directivo, sendo uma do presidente ou do seu substituto legal.
 
 2 - Em caso de impedimento de 2 membros do conselho directivo, a segunda assinatura poderá ser a do chefe de Repartição Administrativa.
 
 ### CAPÍTULO VII — Do pessoal
 
-###### Art. 41.º - 1 - O INSCOOP dispõe do pessoal constante do quadro publicado em anexo ao presente Estatuto.
+Art. 41.º - 1 - O INSCOOP dispõe do pessoal constante do quadro publicado em anexo ao presente Estatuto.
 
 2 - A distribuição dos contingentes de pessoal constantes do quadro em anexo pelos diferentes serviços o INSCOOP será fixada por despacho do conselho directivo.
 
-###### Art. 42.º - 1 - Os cargos de presidente e vice-presidente do conselho directivo do INSCOOP são providos nos termos da lei geral por livre escolha do Primeiro-Ministro, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
+Art. 42.º - 1 - Os cargos de presidente e vice-presidente do conselho directivo do INSCOOP são providos nos termos da lei geral por livre escolha do Primeiro-Ministro, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
 
 2 - Os cargos de presidente e de vice-presidente são equiparados respectivamente aos de director-geral e subdirector-geral.
 
 3 - Quando a nomeação para os cargos referidos neste artigo recair em indivíduo que não preencha o requisito focado no n.º 1 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, deverá o respectivo despacho de nomeação ser acompanhado, para publicação, do currículo do nomeado.
 
-###### Art. 43.º Os directores de serviços e os chefes de divisão são providos nos termos da lei geral por despacho do Primeiro-Ministro, sob proposta do presidente do conselho directivo do INSCOOP, devendo a escolha recair em indivíduos de reconhecida competência em matéria de cooperativismo e experiência válida para o desempenho das respectivas funções.
+Art. 43.º Os directores de serviços e os chefes de divisão são providos nos termos da lei geral por despacho do Primeiro-Ministro, sob proposta do presidente do conselho directivo do INSCOOP, devendo a escolha recair em indivíduos de reconhecida competência em matéria de cooperativismo e experiência válida para o desempenho das respectivas funções.
 
-###### Art. 44.º - 1 - Os demais lugares constantes do quadro de pessoal anexo serão providos, de acordo com a legislação vigente, para os diversos serviços e organismos da administração central e institutos públicos que revistam a natureza de serviços personalizados, a qual se aplica igualmente às respectivas condições de acesso e de carreira profissional.
+Art. 44.º - 1 - Os demais lugares constantes do quadro de pessoal anexo serão providos, de acordo com a legislação vigente, para os diversos serviços e organismos da administração central e institutos públicos que revistam a natureza de serviços personalizados, a qual se aplica igualmente às respectivas condições de acesso e de carreira profissional.
 
 2 - Os lugares de chefe de secção serão providos, mediante concurso, de entre os primeiros oficiais e técnicos auxiliares principais, com experiência administrativa, com mais de 3 anos de bom e efectivo serviço nestas categorias.
 
@@ -510,7 +554,7 @@ e) Quaisquer outras que legalmente lhe venham a ser atribuídas.
 
 5 - O provimento dos lugares constantes do quadro de pessoal anexo a este Estatuto que não tenham sido preenchidos por pessoal transitado nos termos do artigo seguinte e quando não existam funcionários possuidores dos requisitos legalmente necessários, poderá ser feito de entre indivíduos que, à data da publicação do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, se encontravam há mais de 1 ano vinculados ao INSCOOP e possuidores de requisitos habilitacionais necessários, sendo tal provimento feito na categoria de ingresso da carreira que integre as funções exercidas.
 
-###### Art. 45.º - 1 - A transição do pessoal provido no quadro de pessoal anexo ao [Decreto-Lei n.º 902/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/902-1976-391061), de 31 de Dezembro, com as alterações introduzidas pela [Portaria n.º 547/80](https://diariodarepublica.pt/dr/detalhe/portaria/547-1980-469776), de 28 de Agosto, para o quadro de pessoal anexo ao presente Estatuto far-se-á na categoria ou classe em que o funcionário actualmente se encontra, sem prejuízo do disposto nos números seguintes, sendo considerado, para efeitos de progressão na carreira, o tempo de serviço presta o na categoria ou classe pela qual se operou a transição.
+Art. 45.º - 1 - A transição do pessoal provido no quadro de pessoal anexo ao [Decreto-Lei n.º 902/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/902-1976-391061), de 31 de Dezembro, com as alterações introduzidas pela [Portaria n.º 547/80](https://diariodarepublica.pt/dr/detalhe/portaria/547-1980-469776), de 28 de Agosto, para o quadro de pessoal anexo ao presente Estatuto far-se-á na categoria ou classe em que o funcionário actualmente se encontra, sem prejuízo do disposto nos números seguintes, sendo considerado, para efeitos de progressão na carreira, o tempo de serviço presta o na categoria ou classe pela qual se operou a transição.
 
 2 - O pessoal que, à data de entrada em vigor do presente diploma, se encontra a prestar serviço no INSCOOP transita para os lugares do quadro de pessoal anexo a este Estatuto, de acordo com as seguintes regras:
 
@@ -528,38 +572,38 @@ b) Em carreira que integre as funções efectivamente desempenhadas e para a qua
 
 ### CAPÍTULO VIII — Disposições gerais e transitórias
 
-###### Art. 46.º O provimento do pessoal referido no capítulo anterior será feito pelo Primeiro-Ministro, sob proposta do conselho directivo do INSCOOP, nos termos legais.
+Art. 46.º O provimento do pessoal referido no capítulo anterior será feito pelo Primeiro-Ministro, sob proposta do conselho directivo do INSCOOP, nos termos legais.
 
-###### Art. 47.º - 1 - Os vogais do conselho coordenador têm direito à dispensa de exercício das respectivas funções, sejam públicas ou privadas, quando convocados para participar nas reuniões do conselho coordenador, não podendo ser prejudicados na sua colocação, nos benefícios sociais ou no seu emprego permanente por virtude do desempenho do seu mandato.
+Art. 47.º - 1 - Os vogais do conselho coordenador têm direito à dispensa de exercício das respectivas funções, sejam públicas ou privadas, quando convocados para participar nas reuniões do conselho coordenador, não podendo ser prejudicados na sua colocação, nos benefícios sociais ou no seu emprego permanente por virtude do desempenho do seu mandato.
 
 2 - Aplica-se o disposto no número anterior aos vogais nomeados para o Núcleo de Altos Estudos Cooperativos.
 
-###### Art. 48.º - 1 - Os vogais do sector cooperativo que compõem o conselho coordenador terão direito a transporte e ajudas de custo fixadas para a categoria da letra B do funcionalismo público.
+Art. 48.º - 1 - Os vogais do sector cooperativo que compõem o conselho coordenador terão direito a transporte e ajudas de custo fixadas para a categoria da letra B do funcionalismo público.
 
 2 - Aos vogais do conselho coordenador poderá ser atribuída uma compensação por cada reunião a que comparecerem, nos termos a fixar por despacho conjunto do Primeiro-Ministro e do Ministro de Estado e das Finanças e do Plano.
 
 3 - Aplica-se o disposto no número anterior aos vogais nomeados para o Núcleo de Altos Estudos Cooperativos.
 
-###### Art. 49.º - 1 - Enquanto não existirem os organismos nacionais referidos no n.º 4 do artigo 19.º, competirá ao Primeiro-Ministro escolher os cooperativistas de reconhecido mérito para preencher os lugares pertencentes aos ramos do sector cooperativo para vogais do conselho coordenador, tendo o seu mandato a duração referida no n.º 6 do mesmo artigo.
+Art. 49.º - 1 - Enquanto não existirem os organismos nacionais referidos no n.º 4 do artigo 19.º, competirá ao Primeiro-Ministro escolher os cooperativistas de reconhecido mérito para preencher os lugares pertencentes aos ramos do sector cooperativo para vogais do conselho coordenador, tendo o seu mandato a duração referida no n.º 6 do mesmo artigo.
 
 2 - À medida que sejam designados nos termos do n.º 4 do artigo 19.º, os vogais representantes de cada ramo do sector cooperativo são imediatamente empossados, cessando simultaneamente o mandato dos vogais a que se refere o n.º 1 do presente artigo.
 
-###### Art. 50.º No prazo de 90 dias a contar da data da publicação do presente Estatuto será, por despacho do Primeiro-Ministro, regulada a situação das delegações criadas pelo INSCOOP no Porto e no Funchal, de harmonia com o artigo 29.º deste Estatuto.
+Art. 50.º No prazo de 90 dias a contar da data da publicação do presente Estatuto será, por despacho do Primeiro-Ministro, regulada a situação das delegações criadas pelo INSCOOP no Porto e no Funchal, de harmonia com o artigo 29.º deste Estatuto.
 
-###### Art. 51.º É revogado o despacho conjunto que cria o Núcleo de Altos Estudos Cooperativos, publicado no Diário da República, 2.ª série, de 15 de Dezembro de 1977.
+Art. 51.º É revogado o despacho conjunto que cria o Núcleo de Altos Estudos Cooperativos, publicado no Diário da República, 2.ª série, de 15 de Dezembro de 1977.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 1 de Fevereiro de 1983.**
+Promulgado em 1 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Fevereiro de 1983.**
+Referendado em 2 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Quadro do pessoal referido no artigo 41.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04000/05050512.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04000/05050512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04000/05050512.pdf)

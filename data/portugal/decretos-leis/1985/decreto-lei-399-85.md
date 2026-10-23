@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/23400/33543356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1985-178475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2c01e54d7b9072f66cb9dd4d0f6ee7f113d5029fe5d01821702a64ab2b89bf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e82f73a1438a72f4a4fe04472043d217034f26e6c081cbf2f93a302722426605
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:404743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:448081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632376:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:404743:por
+  label: "Revogado pelo DEC LEI.316/2002.2002.12.27.MDN DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-2002-404743
+  date: '2002-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:07:30Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +108,9 @@ Considerando que a exiguidade do leque de medalhas militares existentes, morment
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a medalha de mérito aeronáutico, destinada a galardoar os militares, militarizados e civis que no âmbito técnico-profissional revelem elevada competência, extraordinário empenho e relevantes qualidades pessoais, contribuindo significativamente para a eficiência, prestígio e cumprimento da missão da Força Aérea.
+Artigo 1.º É criada a medalha de mérito aeronáutico, destinada a galardoar os militares, militarizados e civis que no âmbito técnico-profissional revelem elevada competência, extraordinário empenho e relevantes qualidades pessoais, contribuindo significativamente para a eficiência, prestígio e cumprimento da missão da Força Aérea.
 
-###### Art. 2.º A medalha de mérito aeronáutico compreende as classes:
+Art. 2.º A medalha de mérito aeronáutico compreende as classes:
 
 a) Medalha de 1.ª classe;
 
@@ -106,7 +120,7 @@ c) Medalha de 3.ª classe;
 
 d) Medalha de 4.ª classe.
 
-###### Art. 3.ª - 1 - A medalha de mérito aeronáutico é concedida pelo Chefe do Estado-Maior da Força Aérea, por sua iniciativa ou por proposta de oficial general exercendo funções de comando, direcção ou chefia.
+Art. 3.ª - 1 - A medalha de mérito aeronáutico é concedida pelo Chefe do Estado-Maior da Força Aérea, por sua iniciativa ou por proposta de oficial general exercendo funções de comando, direcção ou chefia.
 
 2 - A concessão de qualquer das classes subordinar-se-á, em princípio, ao seguinte critério de atribuição:
 
@@ -134,33 +148,33 @@ b) Quando por proposta de outra entidade:
 
 2) Parecer de cada uma das entidades, situadas na linha hierárquica, superiores ao proponente.
 
-###### Art. 4.º Salvo determinação expressa do Chefe do Estado-Maior da Força Aérea, competirá à Repartição de Justiça da Força Aérea promover as acções necessárias à elaboração e encaminhamento dos processos respeitantes às medalhas de que trata este diploma.
+Art. 4.º Salvo determinação expressa do Chefe do Estado-Maior da Força Aérea, competirá à Repartição de Justiça da Força Aérea promover as acções necessárias à elaboração e encaminhamento dos processos respeitantes às medalhas de que trata este diploma.
 
-###### Art. 5.º - 1 - Os padrões das insígnias e respectivas figuras e descrição das medalhas são os constantes do anexo ao presente diploma.
+Art. 5.º - 1 - Os padrões das insígnias e respectivas figuras e descrição das medalhas são os constantes do anexo ao presente diploma.
 
 2 - As insígnias referidas no n.º 1 são usadas pelo pessoal da Força Aérea, de acordo com o estabelecido no Regulamento de Uniformes da Força Aérea (RUFA), aprovado pelo [Decreto-Lei n.º 270/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1978-448081), de 1 de Setembro.
 
 3 - A medalha de mérito aeronáutico tem a precedência referida em 19.º lugar no artigo 92.º do Regulamento da Medalha Militar ([Decreto n.º 566/71](https://diariodarepublica.pt/dr/detalhe/decreto/566-1971-632376)).
 
-###### Art. 6.º A medalha de mérito aeronáutico poderá ser concedida mais de uma vez em cada classe, sendo usadas as insígnias correspondentes a cada uma das classes.
+Art. 6.º A medalha de mérito aeronáutico poderá ser concedida mais de uma vez em cada classe, sendo usadas as insígnias correspondentes a cada uma das classes.
 
-###### Art. 7.º - 1 - A concessão da medalha de mérito aeronáutico será objecto de portaria do CEMFA, publicada em Ordem à Força Aérea.
+Art. 7.º - 1 - A concessão da medalha de mérito aeronáutico será objecto de portaria do CEMFA, publicada em Ordem à Força Aérea.
 
 2 - Serão passados diplomas da medalha de mérito aeronáutico, de modelo a aprovar por despacho do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 8.º As insígnias da medalha de mérito aeronáutico serão custeadas pela Força Aérea, qualquer que seja a classe da medalha concedida.
+Art. 8.º As insígnias da medalha de mérito aeronáutico serão custeadas pela Força Aérea, qualquer que seja a classe da medalha concedida.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 30 de Setembro de 1985.**
+Promulgado em 30 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Outubro de 1985.**
+Referendado em 1 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO — Padrões das insígnias - Figuras e descrições
 
@@ -226,4 +240,4 @@ São usadas nas bandas da jaqueta e da casaca, do lado esquerdo.
 
 Nota. - Na confecção das condecorações empregar-se-á normalmente prata dourada em todas as peças que figuram na respectiva descrição como sendo de ouro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/23400/33543356.pdf))](https://files.diariodarepublica.pt/1s/1985/10/23400/33543356.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/23400/33543356.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/27600/35963597.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1986-221529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca18d214c0c8ba237ae1fe4634ff1035bb8876179bf3d919208f79eef05805d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65433509f4d14d60d1598e7480647071431f08bbe539bac354527ad2bf08af6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Alfândegas
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556665:por
+  label: "Alterado o artigo 66.º do Decreto-Lei n.º 252-A/82, de 28 de Junho, na redacção do presente diploma, pelo DEC LEI.273/90.07.09.1990.MF,\
+    \ DR.IS [207] de 07.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1990-556665
+  date: '1990-09-07'
+- type: cites
+  target: pt:dre:178086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:15:58Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +128,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 66.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, alterado pelo [Decreto-Lei n.º 438/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), de 24 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 66.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, alterado pelo [Decreto-Lei n.º 438/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), de 24 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 66.º — Equiparação a director de serviços e a chefe de divisão
 
@@ -119,24 +140,24 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Para efeitos remuneratórios, os cargos de juiz dos tribunais técnicos são também equiparados a director de serviços.
 
-###### Art. 2.º - 1 - Os funcionários da Direcção-Geral das Alfândegas que à data da publicação do presente diploma sejam habilitados com licenciatura e tenham, pelo menos, 6 anos de bom e efectivo serviço na mesma área funcional poderão ser providos como segundos-verificadores superiores, desde que o requeiram ao Ministro das Finanças.
+Art. 2.º - 1 - Os funcionários da Direcção-Geral das Alfândegas que à data da publicação do presente diploma sejam habilitados com licenciatura e tenham, pelo menos, 6 anos de bom e efectivo serviço na mesma área funcional poderão ser providos como segundos-verificadores superiores, desde que o requeiram ao Ministro das Finanças.
 
 2 - Para efeitos do disposto no número anterior, considera-se serviço na mesma área funcional o definido no n.º 4 do artigo 129.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.
 
-###### Art. 3.º O quadro de pessoal da Direcção-Geral das Alfândegas é alterado de acordo com o mapa anexo ao presente diploma no que respeita ao pessoal dirigente e dos tribunais.
+Art. 3.º O quadro de pessoal da Direcção-Geral das Alfândegas é alterado de acordo com o mapa anexo ao presente diploma no que respeita ao pessoal dirigente e dos tribunais.
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1986. - Aníbal António Cavaco Silva - José de Oliveira Costa.
 
-**Promulgado em 14 de Novembro de 1986.**
+Promulgado em 14 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Novembro de 1986.**
+Referendado em 20 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/27600/35963597.pdf))](https://files.diariodarepublica.pt/1s/1986/11/27600/35963597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/27600/35963597.pdf)
