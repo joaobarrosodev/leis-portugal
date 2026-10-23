@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/871/1992/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/871-1992-235104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 508f7c4930ab8bfa9d9df8a60bb2bdb1fd90572b045d72b06cb3969c218ab04f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc6036c81a4705c597eefea2dba9d7e1ad3ffac07a2354200473abc4a4c1fc19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Coimbra
 - Curso de Estudos Superiores Especializados em Engenharia Civil Municipal
 - Instituto Politécnico
 - Instituto Superior de Engenharia
 - Numerus Clausus
-- Coimbra
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/90/1991/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/90/1991/01/31/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508859:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:31Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +118,6 @@ Para o ano lectivo de 1992-1993, o número de vagas para o curso de estudos supe
 
 Ministério da Educação.
 
-**Assinada em 17 de Agosto de 1992.**
+Assinada em 17 de Agosto de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.

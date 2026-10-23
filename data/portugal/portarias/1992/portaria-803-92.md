@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/803/1992/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/803-1992-282086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d165095d35211392b1d611453c359e9b6b66b43c009589fbe6c96e656497e1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffa084f5855f494af322c53bc7fa04353c41214ece47b61a46b123c4b7860d75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caldas da Rainha
-- Quadro de Pessoal
 - Estabelecimento Hospitalar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:232348:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL APROVADO PELA PORT 978/95 DE 16-AGO DR.IS-B [188]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DAS CALDAS DA RAINHA PELA 541/96 DE 03-OUT DR.IS-B [230]\0\
+    3-OUT DR.IS-B [230]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-10-03'
+- type: amended_by
+  target: pt:dre:232348:por
+  label: "Substituído o quadro de pessoal do Centro Hospitalar das Caldas da Rainha, pela PORT.541/96.03.10.1996.PCM, DR.IS-B\
+    \ [230] de 03.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/541-1996-232348
+  date: '1996-10-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/169/1991/05/09/p/dre
   label: null
@@ -85,16 +102,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79/1991/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79/1991/01/29/p/dre
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663502:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:632007:por
+  label: RECTIFICADO PELA DECL-RECT 160/92 DR.IS-B [226]5SUPL DE 30/SET/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/160-1992-632007
+  date: '1992-09-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:59Z'
   warnings: []
   errors: []
 ---
@@ -117,8 +187,8 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 16 de Julho de 1992.**
+Assinada em 16 de Julho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/189b00/40164019.pdf))](https://files.diariodarepublica.pt/1s/1992/08/189b00/40164019.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/189b00/40164019.pdf)

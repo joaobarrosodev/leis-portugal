@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14100/0493004930.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/99/2015/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/99-2015-69851315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0975736d533d2734772bd76728a653fef7b2f12021189d1f541913860770279e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f860e11088d97f88f4d1393914de5da3af0f1b910ed116e7eeb39abd17e41d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
+- Discriminação Sexual
 - Igualdade de Tratamento
 - Luta contra a Discriminação
-- Discriminação Sexual
-- Assembleia da República
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:03Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +96,4 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 26 de junho de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

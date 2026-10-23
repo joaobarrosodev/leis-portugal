@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/851/1992/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/851-1992-240793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6b5205535eb89e103a38f5100156d0173aa3fae1829f5f113dc8715a4066a23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 378223717e997db121624a64150c1161b6aecc13bda309ed26ddc7845b3d9035
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:285477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:04Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +130,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 24 de Julho de 1992.**
+Assinada em 24 de Julho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal da Escola Superior de Enfermagem de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/202b00/41934193.pdf))](https://files.diariodarepublica.pt/1s/1992/09/202b00/41934193.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/202b00/41934193.pdf)

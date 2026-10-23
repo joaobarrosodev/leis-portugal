@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/984/1992/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/984-1992-220763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff333601033f6668b4bbc66292cb798b5500f9223b81fdd2a740fc5e98e7ff5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95e2d47463394986f0565a7316e40bee02c802f3be0e7702370c956a609c44ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,37 @@ subjects:
 - Curso de Estudos Superiores Especializados em Auditoria
 - Instituto Superior de Contabilidade e Administração
 - Numerus Clausus
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:220884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574081:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:20Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +129,6 @@ c) Contingente a que se refere a alínea c) do n.º 1 do n.º 5.º - 10%.
 
 Ministério da Educação.
 
-**Assinada em 22 de Setembro de 1992.**
+Assinada em 22 de Setembro de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.

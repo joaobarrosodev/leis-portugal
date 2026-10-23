@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/21000/0924609253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/135/2015/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/135-2015-70819827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a98fe1135ca7033e5b4c011c68e514751d604e6bd72a1495eb59a4d6057c945
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a522e4e0dd0fd2a3b18f0aa7731601973445bc344b2717a958aca75ffaab94c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Fundação AGA KHAN
 - Imamat Ismaili
+- Portugal
 - Sede
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:70819826:por
+  label: Ratificado o Acordo aprovado pela presente resolução, pelo(a) Decreto do Presidente da República n.º 124/2015 - Diário
+    da República n.º 210/2015, Série I de 2015-10-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/124-2015-70819826
+  date: '2015-10-27'
 article_structure:
   article_count: 21
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:38Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de junho de 2015.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE ISMAILI IMAMAT FOR THE ESTABLISHMENT OF THE SEAT OF THE ISMAILI IMAMAT IN PORTUGAL
 

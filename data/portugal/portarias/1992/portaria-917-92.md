@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/917/1992/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/917-1992-234123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7aa7aa4a4becee89953b38af974e093f2c556530cbb758991dcb2c10a936b727
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 142426491d2df09f8124a9906e64615d52df51f86bea63a5616c3b9a8ada20db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:222604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:41Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +108,16 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, ao abrigo do di
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 24 de Agosto de 1992.**
+Assinada em 24 de Agosto de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
 Mapa I anexo à Portaria n.º 917/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/220b00/45044504.pdf))](https://files.diariodarepublica.pt/1s/1992/09/220b00/45044504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220b00/45044504.pdf)
 
 Mapa II anexo à Portaria n.º 917/92
 
 Carreira a extinguir nos termos do n.º 6 do artigo 11.º do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/220b00/45044504.pdf))](https://files.diariodarepublica.pt/1s/1992/09/220b00/45044504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220b00/45044504.pdf)

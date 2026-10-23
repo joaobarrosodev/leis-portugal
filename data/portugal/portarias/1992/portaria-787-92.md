@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/787/1992/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/787-1992-283498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0968780ad59e097948569a8e540fe86f56bcdacf877e5cd6982af8ad2c9ce3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4be7edbdc5b27d8adb1a0d554df571c6c0e31d8f2985fcb0b4aea208ae11c46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação por Concurso Público
-- Ponte 25 de Abril
 - Concurso Público
 - Empreitada de Obras Públicas
 - Iniciativa Privada
+- Ponte 25 de Abril
 - Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:246119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALARGADO O PRAZO A QUE SE REFERE O NUMERO 2 DO ARTIGO 11, PELA PORTARIA 39-A/93IIS, DE 22 DE JANEIRO, PUBLICADA NO
+    DR.IIS, 23, 2SUPL, DE 930128.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALARGADOS OS PRAZOS A QUE SE REFEREM O NUMERO 2 DO ARTIGO 11, COM A REDACÇÃO QUE LHE FOI DADA PELA PORTARIA 39-A/93,\
+    \ DE 28 DE JANEIRO, E O NUMERO 1 DO ARTIGO 30, E ADITADOS UM NUMERO 3-A E UM NUMERO 5 AO ARTIGO 36, PELA PORTARIA 63-A/94,\
+    \ DE 28 DE JANEIRO, PUBLICADA NO DR.IS-B, 23 SUPL.\0ICADA NO DR.IS-B, 23 SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-01-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/1992/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/116/1992/06/20/p/dre
+- type: cites
+  target: pt:dre:303221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579479:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:34Z'
   warnings: []
   errors: []
 ---
@@ -475,6 +500,6 @@ Em tudo o que não estiver especialmente previsto na presente portaria, serão a
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 16 de Julho de 1992.**
+Assinada em 16 de Julho de 1992.
 
-**O Ministro das Finanças, Jorge Braga de Macedo. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Jorge Braga de Macedo. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.

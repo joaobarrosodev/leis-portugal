@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/239b00/57235728.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1009/1993/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1009-1993-670708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7252548a3996b5591948db599eaf30298e176882ef402fe8591557eaf5015f47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42427b5537d4dcf935cc7ac7c83343df302aeef93e814777e8e9accf01d7609b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - CEE
 - Controlo Sanitário
 - Inspecção dos Alimentos
 - Política Agrícola Comum
 - Produto a BASE de OVO
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:264750:por
+  label: "Alterada a alínea b) do n.º 1 do capítulo VI e o n.º 4 do capítulo IX do anexo ao presente diploma, pela PORT.247/94.18.04.1994.MA,\
+    \ DR.IS-B [90] de 18.04.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-1994-264750
+  date: '1994-04-18'
+- type: amended_by
+  target: pt:dre:533421:por
+  label: "Alterado o cap XI do anexo ao presente diploma, pela Port.46/97.1997.01.17.MECO, DR.IS-B [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-1997-533421
+  date: '1997-01-17'
 - type: cites
   target: celex:31975R2782
   label: null
@@ -105,16 +116,27 @@ relationships:
   target: celex:31991R1274
   label: null
   source: http://data.europa.eu/eli/reg/1991/1274/oj
+- type: repealed_by
+  target: pt:dre:334370:por
+  label: "Revogado os nºs 8º e 9º pelo DEC LEI.148/99.1999.05.04.MADRP,DR.IS-A [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1999-334370
+  date: '1999-05-04'
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o presente diploma, na redacção da Port 247/94, de 18-Abr e da Port 46/97, de 17-Jan, pelo DEC LEI.111/2006.09.06.2006.MADRP,\
+    \ DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:57Z'
   warnings: []
   errors: []
 ---
@@ -221,11 +243,13 @@ e) Cada lote de fabrico se encontra munido de uma indicação identificativa da 
 
 Ministérios da Agricultura, do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-**Assinada em 6 de Setembro de 1993.**
+Assinada em 6 de Setembro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Condições gerais de aprovação dos estabelecimentos
 

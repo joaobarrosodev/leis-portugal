@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110/1993/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1993-599877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 083c6bf25d834267debeda8d2efd5a3435269a6e3b78a66018d8f55e77afa3c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f828a816f250b8d1e2b1c1d76965ecf9b69e2bf016be37c22860f12db71b68bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Serviços de Gestão e Organização
-- Secretaria de Estado da Cultura
 - Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:2468846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 394/94, DE 27 DE ABRIL, PUBLICADO NO DR.IS-B, 121, DE 940525.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 51/96IIS DE 10-MAI DA PCM, MF E MC DR.IIS [132] DE 07/JUN/1996
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 79/96IIS DE 26-JUN DA PCM, MF E MC DR.IIS [165] DE 18/JUL/1996
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-18'
+- type: amended_by
+  target: pt:dre:2468846:por
+  label: "Criado um lugar de assessor principal, pela PORT.167/96IIS.1996.08.26.PCM, DR.IIS [226] de 28/Set/1996\096\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/167-1996-2468846
+  date: '1996-08-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/1992/06/01/p/dre
   label: null
@@ -81,16 +101,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/106-c/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-c/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:410282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410284:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:11Z'
   warnings: []
   errors: []
 ---
@@ -109,13 +137,13 @@ Manda o Governo, pelos Secretários de Estado da Cultura e Adjunta e do Orçamen
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 21 de Dezembro de 1992.**
+Assinada em 21 de Dezembro de 1992.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.
 
 Mapa anexo à Portaria n.º 110/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/025b00/04080410.pdf))](https://files.diariodarepublica.pt/1s/1993/01/025b00/04080410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/025b00/04080410.pdf)
 
 Conteúdos funcionais das carreiras de operador de meios áudio-visuais, tradutor-correspondente-intérprete, assistente de relações públicas, técnico auxiliar e desenhador
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/149/2013/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/149-2013-504163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c8dd98b74166b61b1e127b75fb086ab298e16c29451ddc5079b3565ebb72eb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a111ecb2b5fe4d3ca97c90ffac05d25c20b1e7494b370e3db239e1736fd4a7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Espetáculos e Divertimentos Públicos
 - Assembleia da República
-- Recomendação
+- Espetáculos e Divertimentos Públicos
 - Poluição Sonora
 - Recinto Cultural
+- Recomendação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/268/2009/09/29/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/309/2002/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/2002/12/16/p/dre
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:13Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +117,4 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 18 de outubro de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13100/0469004708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/77/2015/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/77-2015-69736258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdaf7fe0c46162b4fb833c6593df855f21c4e57215dd9724f64e25357ee19f74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc98d1025fe77b7aee3c463522b15232b3ca4862381942d123b3207d9b6b094d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Ilícito
-- Embarcação
 - Combate ao Terrorismo
 - Convenção
-- Portugal
+- Direito Internacional
+- Embarcação
 - Londres
 - OMI
-- Terrorismo
+- Portugal
 - Segurança da Navegação
 - Segurança Marítima
-- Direito Internacional
-relationships: []
+- Terrorismo
+relationships:
+- type: amended_by
+  target: pt:dre:69736253:por
+  label: Ratificado o Protocolo de 2005 Relativo à Convenção para a Supressão de Atos Ilícitos contra a Segurança da Navegação
+    Marítima, adotado em Londres em 14 de outubro de 2005 pelo(a) Decreto do Presidente da República n.º 50/2015 - Diário
+    da República n.º 131/2015, Série I de 2015-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/50-2015-69736253
+  date: '2015-07-08'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:32Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de abril de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 PROTOCOL OF 2005 TO THE CONVENTION FOR THE SUPPRESSION OF UNLAWFUL ACTS AGAINST THE SAFETY OF MARITIME NAVIGATION
 
@@ -660,7 +667,7 @@ Done at London this fourteenth day of October two thousand and five.
 
 In witness whereof the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Protocol.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13100/0469004708.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13100/0469004708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13100/0469004708.pdf)
 
 PROTOCOLO DE 2005 RELATIVO À CONVENÇÃO PARA A SUPRESSÃO DE ATOS ILÍCITOS CONTRA A SEGURANÇA DA NAVEGAÇÃO MARÍTIMA
 

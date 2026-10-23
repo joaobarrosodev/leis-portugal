@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/834/1992/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/834-1992-259906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78a6773b03bcf596b2d93adbc6f6d0a29a9a03655a0a317dd31281c87b4c2b26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c5c2406f9c840d012e5834b8e26e67526af5aac31dbd54591ecf7909912ba16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:40Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +103,9 @@ Manda o Governo, pelo Ministro do Planeamento e da Administração do Territóri
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 22 de Junho de 1992.**
+Assinada em 22 de Junho de 1992.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 ## ANEXO
 
@@ -119,4 +119,4 @@ Considera-se que a forma do mesmo logótipo sugere movimento para a frente, a id
 
 Quanto às cores escolhidas, obedeceram a critérios de discrição e dignidade, aspectos que se pretendem inerentes a toda a actuação da Comissão de Coordenação da Região de Lisboa e Vale do Tejo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/197b00/41434144.pdf))](https://files.diariodarepublica.pt/1s/1992/08/197b00/41434144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/197b00/41434144.pdf)

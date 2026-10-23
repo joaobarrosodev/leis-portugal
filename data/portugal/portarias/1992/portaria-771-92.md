@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/771/1992/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-1992-283898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eafa3a6387c127044da119dc55fade71f69c48ca44fb2235744f75bcf68dba71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e09a3eb5d610feb10a4e07ffde43943a94821c498b722f77a9b7ab00c81b7d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,71 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Gestão de Empresas Turísticas
 - Curso de Estudos Superiores Especializados para Assessoria de Direcção e Administração
 - Curso de Tecnologias de Gestão
 - Curso Superior de Organização e Gestão de Empresas
 - Curso Superior de Relações Públicas e Publicidade
-- Instituto de Novas Profissões
 - Ensino Superior
+- Instituto de Novas Profissões
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:429209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A DENOMINAÇÃO DO CURSO SUPERIOR DE TECNOLOGIAS DE GESTÃO PARA CURSO SUPERIOR DE GESTÃO E ADMINISTRAÇÃO\
+    \ PELA PORT 1354/95 DE 15-NOV DR.IS-B [264]\0/95 DE 15-NOV DR.IS-B [264]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-15'
+- type: amended_by
+  target: pt:dre:204452:por
+  label: "Alterada a Port 666/90 pela, PORT.612/97.1997.08.07.ME DR.IS-B [181], anteriormente alterada pelo presente diploma\
+    \ e pelas Port 325/93 de 19-Mar e 1354/95 de 15-Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/612-1997-204452
+  date: '1997-08-07'
+- type: amended_by
+  target: pt:dre:429209:por
+  label: "Alterado o anexo I pela PORT.447/98.1998.07.28.ME, DR.IS-B [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/447-1998-429209
+  date: '1998-07-28'
+- type: cites
+  target: pt:dre:547191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:627600:por
+  label: RECTIFICADA PELA DECL-RECT 181/92 DE 20-OUT DR.IS-B [252]3SUPL DE 31/OUT/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/181-1992-627600
+  date: '1992-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:12Z'
   warnings: []
   errors: []
 ---
@@ -112,10 +154,10 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 13 de Julho de 1992.**
+Assinada em 13 de Julho de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 Do ANEXO I ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/181b00/37263728.pdf))](https://files.diariodarepublica.pt/1s/1992/08/181b00/37263728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/181b00/37263728.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/56/2014/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/56-2014-25345581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17d758b9fc2d31f3afd9410edd2ba023a487383ccca353b5f66bcb9858976144
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11973e33888381c1ae972e7269393bba3e408fbadbb1fe8df3de44f6f055c9cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Convenção
-- Portugal
-- Lisboa
 - Cooperação Militar
+- Lisboa
+- NATO
+- Portugal
 - Turquia
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:42Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de abril de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO QUADRO ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA TURQUIA SOBRE COOPERAÇÃO MILITAR
 
@@ -111,21 +111,15 @@ Sublinhando a necessidade de melhorar as relações amistosas existentes entre a
 
 acordam o seguinte:
 
-Artigo I
-
-Objeto
+###### Artigo I — Objeto
 
 Este Acordo tem por objeto estabelecer um quadro para as relações entre as Partes, no âmbito das respetivas responsabilidades das autoridades competentes, nos domínios definidos no artigo iv e assegurar a cooperação em matéria de defesa e em matéria militar entre as Partes.
 
-Artigo II
-
-Âmbito de aplicação
+###### Artigo II — Âmbito de aplicação
 
 Este Acordo abrange o intercâmbio de pessoal, material, equipamento, informação e experiência nos domínios definidos no artigo iv, bem como em outros domínios a definir em acordos complementares e acordos de aplicação, em memorandos de entendimento, protocolos e outros instrumentos técnicos a elaborar com base neste Acordo.
 
-Artigo III
-
-Definições
+###### Artigo III — Definições
 
 As definições utilizadas neste Acordo têm os seguintes significados:
 
@@ -141,9 +135,7 @@ As definições utilizadas neste Acordo têm os seguintes significados:
 
 6) Por cooperação entende-se as atividades desenvolvidas no âmbito deste Acordo numa base de reciprocidade em assuntos determinados pela legislação nacional das duas Partes.
 
-Artigo IV
-
-Áreas de cooperação
+###### Artigo IV — Áreas de cooperação
 
 A cooperação entre as Partes será desenvolvida nas seguintes áreas:
 
@@ -179,9 +171,7 @@ A cooperação entre as Partes será desenvolvida nas seguintes áreas:
 
 16) Atividades sociais, culturais e desportivas.
 
-Artigo V
-
-Aplicação e princípios da cooperação
+###### Artigo V — Aplicação e princípios da cooperação
 
 1 - De acordo com a decisão das Partes, a cooperação pode ser empreendida através das seguintes formas:
 
@@ -203,9 +193,7 @@ h) Visitas a portos de mar.
 
 2 - No decurso da aplicação, cujos pormenores serão decididos em conjunto pelas Partes, podem ser concluídos acordos complementares e acordos de aplicação, memorandos de entendimento, protocolos e instrumentos nos termos deste Acordo.
 
-Artigo VI
-
-Autoridades competentes
+###### Artigo VI — Autoridades competentes
 
 As autoridades competentes para a aplicação do presente Acordo são:
 
@@ -213,9 +201,7 @@ Pelo Governo da República da Turquia: o Estado-Maior da República da Turquia;
 
 Pela República Portuguesa: o Ministério da Defesa Nacional da República Portuguesa.
 
-Artigo VII
-
-Segurança da informação classificada
+###### Artigo VII — Segurança da informação classificada
 
 1 - A troca de informação classificada será regulada por um acordo de segurança entre a República Portuguesa e a República da Turquia sobre a proteção mútua de informação classificada.
 
@@ -229,9 +215,7 @@ c) A informação e o material classificados só podem ser divulgados a terceiro
 
 d) As responsabilidades das Partes quanto à proteção e prevenção da desclassificação ou baixa de classificação da informação e dos materiais classificados trocados manter-se-ão após o termo deste Acordo.
 
-Artigo VIII
-
-Assuntos jurídicos
+###### Artigo VIII — Assuntos jurídicos
 
 1 - O pessoal convidado e respetivos dependentes estarão sujeitos às leis e aos regulamentos existentes no Estado de receção durante a sua permanência no território do Estado de receção, incluindo entrada e saída, pertencendo o direito de jurisdição ao Estado de receção.
 
@@ -245,9 +229,7 @@ Assuntos jurídicos
 
 6 - O pessoal sénior do Estado de envio tem o poder de aplicar medidas disciplinares ao seu pessoal em conformidade com as suas próprias leis relativas ao serviço militar e em matéria disciplinar.
 
-Artigo IX
-
-Pedidos de indemnização
+###### Artigo IX — Pedidos de indemnização
 
 1 - Cada Parte renunciará a todos os seus pedidos de indemnização contra a outra Parte, exceto quando os danos ou perdas resultarem de negligência grosseira ou de falta intencional. As Partes deverão decidir em conjunto se esses danos ou perdas foram ou não causados por negligência grosseira ou falta intencional.
 
@@ -257,9 +239,7 @@ Pedidos de indemnização
 
 4 - Os pedidos de indemnização serão decididos por via diplomática em conformidade com o artigo xiv.
 
-Artigo X
-
-Assuntos administrativos
+###### Artigo X — Assuntos administrativos
 
 1 - Salvo decisão mútua em contrário das Partes, o Estado de receção não atribuirá ao pessoal convidado outras funções para além das especificadas neste Acordo ou nos acordos e instrumentos subsequentes.
 
@@ -271,9 +251,7 @@ Assuntos administrativos
 
 5 - Em caso de morte de um membro do pessoal convidado ou de um dependente, o Estado de receção informará o Estado de envio do sucedido, transportará o corpo para o aeroporto internacional mais próximo no seu território e adotará as medidas de transferência adequadas até à entrega do mesmo.
 
-Artigo XI
-
-Serviços médicos
+###### Artigo XI — Serviços médicos
 
 1 - O pessoal convidado deverá estar clinicamente apto para exercer qualquer atividade ao abrigo deste Acordo.
 
@@ -283,37 +261,27 @@ Serviços médicos
 
 4 - Quaisquer despesas com serviços médicos prestados por instituições civis serão pagas pelo pessoal que recebeu os serviços médicos.
 
-Artigo XII
-
-Assuntos financeiros
+###### Artigo XII — Assuntos financeiros
 
 1 - Os direitos individuais, o salário e as obrigações financeiras do pessoal convidado, afeto às atividades de cooperação abrangidas por este Acordo, dependentes dos regulamentos do Estado de envio, serão suportados pelo Estado de envio.
 
 2 - Todas as despesas deverão ser classificadas como despesas cobradas, não cobradas ou descontadas.
 
-Artigo XIII
-
-Responsabilidades internacionais
+###### Artigo XIII — Responsabilidades internacionais
 
 As disposições do presente Acordo não prejudicam as obrigações decorrentes de outros acordos internacionais e não deverão ser utilizadas contra os interesses, a segurança e a integridade territorial de outros Estados.
 
-Artigo XIV
-
-Solução de controvérsias
+###### Artigo XIV — Solução de controvérsias
 
 Qualquer controvérsia entre as Partes relativa à aplicação ou interpretação do presente Acordo será solucionada através de consultas e negociações entre as Partes.
 
-Artigo XV
-
-Revisão
+###### Artigo XV — Revisão
 
 1 - O presente Acordo pode ser objeto de revisão mediante pedido escrito de qualquer uma das Partes.
 
 2 - As emendas entrarão em vigor nos termos previstos no artigo xvii do presente Acordo.
 
-Artigo XVI
-
-Vigência e denúncia
+###### Artigo XVI — Vigência e denúncia
 
 1 - O presente Acordo permanecerá em vigor por um período de cinco anos, renovável automaticamente por períodos sucessivos de um ano.
 
@@ -323,9 +291,7 @@ Vigência e denúncia
 
 4 - A denúncia do presente Acordo não afeta os programas e atividades em curso, salvo acordo em contrário das Partes.
 
-Artigo XVII
-
-Entrada em vigor
+###### Artigo XVII — Entrada em vigor
 
 O presente Acordo entrará em vigor 60 dias após a data da receção da última notificação pelas Partes, por escrito e por via diplomática, certificando que foram cumpridos os respetivos requisitos de Direito interno necessários para o efeito.
 
@@ -341,7 +307,7 @@ Pelo Governo da República da Turquia:
 
 Ahmet Davuto lu, Ministro dos Negócios Estrangeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340103407.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340103407.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340103407.pdf)
 
 FRAMEWORK AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY ON MILITARY CO-OPERATION
 

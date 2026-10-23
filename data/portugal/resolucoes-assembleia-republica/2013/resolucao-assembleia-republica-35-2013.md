@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/35/2013/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-2013-259875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a486b087bea1881ce1349bb08df66b1ca071c0de3fee8e35bd5451ae72f8028c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ae1441db881d516f8c3fc6028d2734efa5a71c2509f466c0146799b953e0ad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Proteção da Floresta
-- Plano de Gestão Florestal
 - Exploração Florestal
+- Incêndio
+- Plano de Gestão Florestal
 - Política Florestal
+- Proteção da Floresta
 - Relatório
 - ZONA de Intervenção Florestal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:55Z'
   warnings: []
   errors: []
 ---
@@ -102,8 +102,8 @@ b) O Relatório Final dos Incêndios Florestais passe a conter o índice que se 
 
 Aprovada em 22 de fevereiro de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ## ANEXO — Índice
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05500/0175601756.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05500/0175601756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05500/0175601756.pdf)

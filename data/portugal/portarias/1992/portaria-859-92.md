@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/859/1992/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/859-1992-240842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9d1f94bfae7dfceab002c69a913801f6c84924b9f235fb0ce0af9d8420ebd48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bfc55256b6f73945a572d79d30899c972914d8c02d72974d122d867fbb22373
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Centro de Paralisia Cerebral
 - Pessoal Técnico Superior de Serviço Social
+- Porto
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:668131:por
@@ -79,16 +79,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:357702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:668131:por
+  label: "Rectificada a coluna «Categoria» do mapa anexo pela DECL-RECT.195/92.30.11.1992.PCM, DR.IS-B [277]3ºSupl de 30.11.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/195-1992-668131
+  date: '1992-11-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:14Z'
   warnings: []
   errors: []
 ---
@@ -111,10 +129,10 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 24 de Julho de 1992.**
+Assinada em 24 de Julho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Mapa a que se refere o n.º 1.º da Portaria n.º 859/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/204b00/42224222.pdf))](https://files.diariodarepublica.pt/1s/1992/09/204b00/42224222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/204b00/42224222.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/848/1992/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/848-1992-240654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 552811f1ea7f3806d8fe23f0dd2c73119d0391b080266853ade1a98b9ea102f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1959febc360e4adc7ff8d0d48df5a235ac6174cec4d8e92fc22a0dd3d51a4204
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +77,34 @@ relationships:
   target: pt:dre:416864:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416864:por
+  label: "Substituído o quadro relativo à taxa de exploração de 1ª e 3ª classes pela PORT.110/2000.2000.02.26.MECO DR.IS-B\
+    \ [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-2000-416864
+  date: '2000-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/9/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:475550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674222:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:59Z'
   warnings: []
   errors: []
 ---
@@ -113,14 +127,14 @@ Manda o Governo, pelo Ministro da Indústria e Energia, ao abrigo do n.º 2 do a
 
 Taxa de exploração de 1.ª e 3.ª classes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/201b00/41834184.pdf))](https://files.diariodarepublica.pt/1s/1992/09/201b00/41834184.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/201b00/41834184.pdf)
 
 Taxa de exploração de 2.ª classe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/201b00/41834184.pdf))](https://files.diariodarepublica.pt/1s/1992/09/201b00/41834184.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/201b00/41834184.pdf)
 
 Ministério da Indústria e Energia.
 
-**Assinada em 10 de Agosto de 1992.**
+Assinada em 10 de Agosto de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

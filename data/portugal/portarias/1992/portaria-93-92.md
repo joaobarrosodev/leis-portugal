@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/040b00/09540954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/93/1992/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-1992-158272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cccb06d21550d536c50df04d2c24997edcf9a9ac1bcc69bd551b631edc6da0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff5303f18d3800268ac9c73cd665570c4396f5ef79ecb1773e653964b662e58b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/266/1991/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/266/1991/08/06/p/dre
+- type: cites
+  target: pt:dre:367228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518848:por
+  label: "Revogada pela Port.198/97.1997.03.22.MF DR.IS-B [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/198-1997-518848
+  date: '1997-03-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:59Z'
   warnings: []
   errors: []
 ---
@@ -112,12 +125,12 @@ b) No canto superior esquerdo da face o logótipo da Direcção-Geral das Contri
 
 Ministério das Finanças.
 
-**Assinada em 24 de Janeiro de 1992.**
+Assinada em 24 de Janeiro de 1992.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Subsecretário de Estado Adjunto da Secretária de Estado Adjunta e do Orçamento.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 93/92, de 17 de Fevereiro
+Anexo a que se refere o n.º 1.º da Portaria n.º 93/92, de 17 de Fevereiro
 
 Modelo de cartão de contribuinte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/040b00/09540954.pdf))](https://files.diariodarepublica.pt/1s/1992/02/040b00/09540954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/040b00/09540954.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/784/1992/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/784-1992-283309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9305ed35ff552a2db3575892d438381485a5fe9ea15e927669436684a0e8a8f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 647126ce4e34d95865f0bce55a6368f487f341697ea7efdb100d68a33bc943d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,27 @@ reuse:
 subjects:
 - Criação de Serviços
 - Escola Preparatória
-- Extinção de Serviços
-- Gestão Escolar
-- Pessoal não Docente
 - Estabelecimento de Ensino
-- Pessoal Docente
-- Quadro de Pessoal
+- Extinção de Serviços
 - Gestão de Recursos Humanos
+- Gestão Escolar
+- Pessoal Docente
+- Pessoal não Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:237586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:237586:por
+  label: "Aprovada a revisão dos quadros distritais de vinculação de pessoal não docente, relativa às carreiras e categorias\
+    \ de assistente de administração escolar, de auxiliar de acção educativa e de cozinheiro, para os funcionários com nomeação\
+    \ definitiva dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, criados pelo Dec\
+    \ Lei 223/87 de 30-Mai e cujos anexos foram alterados pelo presente diploma, pela PORT.601/2005.19.07.2005.ME, DR.IS-B\
+    \ [137] de 19.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-2005-237586
+  date: '2005-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/424/1991/05/23/p/dre
   label: null
@@ -87,16 +96,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/6/1992/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/6/1992/01/06/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:28Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +198,7 @@ c) Secções de escolas preparatórias:
 
 Distrito do Porto:
 
-#### Secção da Escola Preparatória de Gomes Teixeira - Porto.
+Secção da Escola Preparatória de Gomes Teixeira - Porto.
 
 3.º Na Escola C + S de Almodôvar são ministrados os 2.º e 3.º ciclos do ensino básico e o ensino secundário.
 
@@ -175,7 +212,7 @@ Distrito do Porto:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 10 de Julho de 1992.**
+Assinada em 10 de Julho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Educação, José Manuel Bracinha Vieira, Secretário de Estado dos Recursos Educativos.
 
@@ -183,12 +220,12 @@ MAPA I
 
 Relação das vagas a concurso - Quadro para 1992-1993
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf))](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf))](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf)
 
 MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf))](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/185b00/38723897.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/942/1992/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/942-1992-232537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 467c7a9a9d3ecf7c8e4b7a1e0b2faeb26a40909e351150eb70b3f457d6c714ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4982bd26f8376b31147cb8330e243522316895daa72a688f9927d5db78f792dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/273/1991/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/273/1991/08/07/p/dre
+- type: cites
+  target: pt:dre:374795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681585:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:19Z'
   warnings: []
   errors: []
 ---
@@ -108,43 +124,43 @@ Manda o Governo, pelos Ministros das Finanças e do Comércio e Turismo, ao abri
 
 Ministérios das Finanças e do Comércio e Turismo.
 
-**Assinada em 31 de Agosto de 1992.**
+Assinada em 31 de Agosto de 1992.
 
-**O Ministro das Finanças, Jorge Braga de Macedo. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro das Finanças, Jorge Braga de Macedo. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 
 Regulamento Geral do Funcionamento dos Grupos
 
 ### CAPÍTULO I — Da proposta de adesão
 
-###### Artigo 1.º Proposta de adesão é o instrumento pelo qual o proponente, após aprovação da sociedade administradora, formaliza o seu ingresso num grupo e passa a ser titular dos direitos e obrigações decorrentes do contrato.
+Artigo 1.º Proposta de adesão é o instrumento pelo qual o proponente, após aprovação da sociedade administradora, formaliza o seu ingresso num grupo e passa a ser titular dos direitos e obrigações decorrentes do contrato.
 
-###### Art. 2.º Da proposta, individual para cada participante, redigida de modo legível, constarão obrigatoriamente os elementos essenciais do contrato e a expressa referência a este Regulamento, assim como a referência à aprovação do modelo pela Direcção-Geral do Comércio Interno.
+Art. 2.º Da proposta, individual para cada participante, redigida de modo legível, constarão obrigatoriamente os elementos essenciais do contrato e a expressa referência a este Regulamento, assim como a referência à aprovação do modelo pela Direcção-Geral do Comércio Interno.
 
-###### Art. 3.º - 1 - No acto de inscrição pode ser cobrada ao proponente uma quota, calculada em função do preço do bem ou do serviço a adquirir, a qual será devolvida em singelo se não for constituído o grupo ou aceite a inscrição.
+Art. 3.º - 1 - No acto de inscrição pode ser cobrada ao proponente uma quota, calculada em função do preço do bem ou do serviço a adquirir, a qual será devolvida em singelo se não for constituído o grupo ou aceite a inscrição.
 
 2 - Sem prejuízo do disposto no número anterior, o proponente pode exigir a devolução da referida quota se o grupo não for constituído no prazo de seis meses.
 
 ### CAPÍTULO II — Da constituição dos grupos e prazos de duração
 
-###### Art. 4.º O grupo será constituído na data da primeira assembleia, que será convocada pela sociedade administradora para ter lugar na sua sede social ou em local previamente indicado.
+Art. 4.º O grupo será constituído na data da primeira assembleia, que será convocada pela sociedade administradora para ter lugar na sua sede social ou em local previamente indicado.
 
-###### Art. 5.º Após a constituição, cada grupo terá identificação própria e será autónomo em relação aos demais que a sociedade administradora vier a organizar ou tenha organizado.
+Art. 5.º Após a constituição, cada grupo terá identificação própria e será autónomo em relação aos demais que a sociedade administradora vier a organizar ou tenha organizado.
 
-###### Art. 6.º Sempre que não preenchido o número de participantes inicialmente previsto ou se verifique desistência, exclusão ou falecimento de participantes não contemplados e não for possível à sociedade administradora substituí-los por outros, o grupo continuará em funcionamento com qualquer número de participantes, sem prejuízo do prazo inicialmente fixado, ajustando-se o calendário de atribuições.
+Art. 6.º Sempre que não preenchido o número de participantes inicialmente previsto ou se verifique desistência, exclusão ou falecimento de participantes não contemplados e não for possível à sociedade administradora substituí-los por outros, o grupo continuará em funcionamento com qualquer número de participantes, sem prejuízo do prazo inicialmente fixado, ajustando-se o calendário de atribuições.
 
 ### CAPÍTULO III — Do preço do bem ou serviço e das prestações dos participantes
 
-###### Art. 7.º - 1 - Para efeitos de determinação do montante a débito do contemplado na data da atribuição e para determinação das quotas de amortização vincendas, a base de cálculo corresponderá ao preço do bem ou serviço atribuído e constante do contrato, corrigido por eventual alteração superveniente daquele preço.
+Art. 7.º - 1 - Para efeitos de determinação do montante a débito do contemplado na data da atribuição e para determinação das quotas de amortização vincendas, a base de cálculo corresponderá ao preço do bem ou serviço atribuído e constante do contrato, corrigido por eventual alteração superveniente daquele preço.
 
 2 - O adjudicatário suportará as alterações de preço do bem ou serviço que tenha sido atribuído até à liquidação da sua participação no grupo, devendo a correcção operar-se em relação ao próprio mês em que se verificar a alteração.
 
-###### Art. 8.º O participante deverá pagar as suas prestações até à data contratualmente estabelecida.
+Art. 8.º O participante deverá pagar as suas prestações até à data contratualmente estabelecida.
 
 ### CAPÍTULO IV — Das assembleias de grupo
 
-###### Art. 9.º Nos prazos contratuais em local, dia e hora previamente estabelecidos pela sociedade administradora, realizar-se-á uma assembleia de grupo, presidida por um representante daquela, destinada a informar os participantes sobre a situação do grupo e sobre os actos da administração e a atribuir os bens ou serviços objecto dos contratos.
+Art. 9.º Nos prazos contratuais em local, dia e hora previamente estabelecidos pela sociedade administradora, realizar-se-á uma assembleia de grupo, presidida por um representante daquela, destinada a informar os participantes sobre a situação do grupo e sobre os actos da administração e a atribuir os bens ou serviços objecto dos contratos.
 
-###### Art. 10.º - 1 - A sociedade administradora elaborará e porá à disposição dos participantes nas suas instalações, até 10 dias antes da realização de cada assembleia, uma descrição completa da situação do grupo, que incluirá obrigatoriamente:
+Art. 10.º - 1 - A sociedade administradora elaborará e porá à disposição dos participantes nas suas instalações, até 10 dias antes da realização de cada assembleia, uma descrição completa da situação do grupo, que incluirá obrigatoriamente:
 
 a) Número total de desistentes e excluídos do grupo;
 
@@ -152,25 +168,25 @@ b) Lista de todos os participantes admitidos ao sorteio e à licitação a efect
 
 2 - A lista a que se refere a alínea b) do número anterior pode ser actualizada até à véspera da realização da assembleia, devendo, neste caso, fazer-se notificação do facto ao representante comum do grupo.
 
-###### Art. 11.º As assembleias têm início à hora marcada na convocatória ou na que previamente tiver sido designada, funcionando com qualquer número de participantes presentes ou devidamente representados.
+Art. 11.º As assembleias têm início à hora marcada na convocatória ou na que previamente tiver sido designada, funcionando com qualquer número de participantes presentes ou devidamente representados.
 
-###### Art. 12.º Compete à sociedade administradora a representação dos participantes ausentes e dos que se não fizerem representar.
+Art. 12.º Compete à sociedade administradora a representação dos participantes ausentes e dos que se não fizerem representar.
 
-###### Art. 13.º - 1 - O sorteio será efectuado mediante processo que permita tratamento equitativo de todos os participantes ainda não contemplados que se encontrem em pleno gozo dos seus direitos.
+Art. 13.º - 1 - O sorteio será efectuado mediante processo que permita tratamento equitativo de todos os participantes ainda não contemplados que se encontrem em pleno gozo dos seus direitos.
 
 2 - Só podem ser admitidos ao sorteio os participantes cujas contribuições para o respectivo grupo estejam satisfeitas até ao dia anterior à realização da assembleia.
 
 3 - O sorteio só pode realizar-se se os fundos do grupo forem suficientes para a aquisição do bem ou serviço a atribuir.
 
-###### Art. 14.º Após a realização do sorteio, no caso de existirem interessados e possibilidades de atribuição de mais bens ou serviços, proceder-se-á à licitação, a qual consiste na oferta, em sobrescritos fechados, devidamente identificados com o nome e o número do participante, de prestações vincendas, em montante não inferior a 10% do saldo devedor do licitante nem superior ao mínimo de prestações do seu plano de pagamento.
+Art. 14.º Após a realização do sorteio, no caso de existirem interessados e possibilidades de atribuição de mais bens ou serviços, proceder-se-á à licitação, a qual consiste na oferta, em sobrescritos fechados, devidamente identificados com o nome e o número do participante, de prestações vincendas, em montante não inferior a 10% do saldo devedor do licitante nem superior ao mínimo de prestações do seu plano de pagamento.
 
-###### Art. 15.º Será considerado vencedor o licitante que fizer a oferta representativa de maior valor percentual, independentemente do valor em dinheiro, desde que o montante daquela, somado ao saldo do fundo comum, seja suficiente para a aquisição de uma unidade de bem ou serviço da categoria em que se encontrar inscrito o licitante.
+Art. 15.º Será considerado vencedor o licitante que fizer a oferta representativa de maior valor percentual, independentemente do valor em dinheiro, desde que o montante daquela, somado ao saldo do fundo comum, seja suficiente para a aquisição de uma unidade de bem ou serviço da categoria em que se encontrar inscrito o licitante.
 
-###### Art. 16.º Caso o valor do maior lance oferecido em cada categoria, somado à disponibilidade do fundo comum, não seja suficiente para a aquisição, não haverá distribuição por licitação, passando o saldo do fundo comum para a assembleia, seguinte.
+Art. 16.º Caso o valor do maior lance oferecido em cada categoria, somado à disponibilidade do fundo comum, não seja suficiente para a aquisição, não haverá distribuição por licitação, passando o saldo do fundo comum para a assembleia, seguinte.
 
-###### Art. 17.º Verificando-se empate entre os lances de maior valor percentual, o desempate, se necessário, será obtido por sorteio.
+Art. 17.º Verificando-se empate entre os lances de maior valor percentual, o desempate, se necessário, será obtido por sorteio.
 
-###### Art. 18.º O lance vencedor, após afectação às diferentes rubricas, será destinado, em alternativa, a:
+Art. 18.º O lance vencedor, após afectação às diferentes rubricas, será destinado, em alternativa, a:
 
 a) Cobrir quotas vincendas na ordem inversa a contar da última;
 
@@ -178,13 +194,13 @@ b) Cobrir quotas vencidas em caso de substituição ou preenchimento de vagas;
 
 c) Cobrir parcialmente, em partes iguais, as mensalidades vincendas.
 
-###### Art. 19.º De cada assembleia, de grupo será lavrada uma acta em livro apropriado, a qual é assinada, após o encerramento da sessão, pelos membros da mesa respectiva.
+Art. 19.º De cada assembleia, de grupo será lavrada uma acta em livro apropriado, a qual é assinada, após o encerramento da sessão, pelos membros da mesa respectiva.
 
-###### Art. 20.º Dentro de 10 dias úteis após a realização da assembleia, a sociedade administradora comunica por escrito aos contemplados, por carta registada com aviso de recepção, o resultado do sorteio e da licitação, ainda que aqueles tivessem estado presentes ou nela representados.
+Art. 20.º Dentro de 10 dias úteis após a realização da assembleia, a sociedade administradora comunica por escrito aos contemplados, por carta registada com aviso de recepção, o resultado do sorteio e da licitação, ainda que aqueles tivessem estado presentes ou nela representados.
 
 ### CAPÍTULO V — Da entrega dos bens ou serviços e das garantias para a sua recepção
 
-###### Art. 21.º - 1 - A entrega do bem ou serviço aos participantes contemplados, ou no termo de duração do grupo, é efectuada, salvo caso fortuito ou de força maior, devidamente comprovado, nos prazos máximos seguintes:
+Art. 21.º - 1 - A entrega do bem ou serviço aos participantes contemplados, ou no termo de duração do grupo, é efectuada, salvo caso fortuito ou de força maior, devidamente comprovado, nos prazos máximos seguintes:
 
 a) 45 dias para bens móveis;
 
@@ -200,7 +216,7 @@ b) Se não apresentar, dentro de sete dias úteis contados a partir da data do c
 
 4 - Para efeitos do disposto no n.º 1, a sociedade administradora deve emitir o necessário documento dirigido à empresa fornecedora do bem ou prestadora do serviço.
 
-###### Art. 22.º - 1 - Verificando-se aumento de preço entre as datas da atribuição e da entrega do bem ou serviço, o pagamento da diferença dele resultante será suportado pelo fundo comum salvo nos seguintes casos, em que será da responsabilidade do contemplado:
+Art. 22.º - 1 - Verificando-se aumento de preço entre as datas da atribuição e da entrega do bem ou serviço, o pagamento da diferença dele resultante será suportado pelo fundo comum salvo nos seguintes casos, em que será da responsabilidade do contemplado:
 
 a) Se no prazo de sete dias úteis a contar do conhecimento da atribuição não forem apresentadas à sociedade administradora as garantias previstas no contrato para a recepção de bem ou serviço;
 
@@ -214,9 +230,9 @@ c) Se for escolhido outro bem ou serviço diferente do atribuído.
 
 4 - Na hipótese de a diferença de preço ser resultante de caso fortuito ou de força maior, a diferença é suportada pelo fundo comum.
 
-###### Art. 23.º Na impossibilidade de entrega do bem por motivo de desinteresse ou recusa do contemplado ou por falta de prestação das garantias contratualmente exigidas, pode a sociedade administradora, decorridos 30 dias contados do conhecimento da atribuição pelo participante, considerar este desistente e excluí-lo por violação contratual.
+Art. 23.º Na impossibilidade de entrega do bem por motivo de desinteresse ou recusa do contemplado ou por falta de prestação das garantias contratualmente exigidas, pode a sociedade administradora, decorridos 30 dias contados do conhecimento da atribuição pelo participante, considerar este desistente e excluí-lo por violação contratual.
 
-###### Art. 24.º - 1 - Nenhum bem ou serviço pode ser entregue ou prestado a qualquer participante sem a constituição de uma garantia de pagamento das prestações vincendas, que pode consistir, designadamente, em hipoteca, fiança, garantia bancária, reserva de propriedade ou seguro-caução.
+Art. 24.º - 1 - Nenhum bem ou serviço pode ser entregue ou prestado a qualquer participante sem a constituição de uma garantia de pagamento das prestações vincendas, que pode consistir, designadamente, em hipoteca, fiança, garantia bancária, reserva de propriedade ou seguro-caução.
 
 2 - Como garantia complementar, pode a sociedade administradora exigir, em seu benefício, seguro de bens contra riscos, designadamente de colisão, incêndio, furto ou roubo, de valor não inferior ao do bem seguro, que deverá ser mantido até ao termo de permanência no seguro.
 
@@ -226,11 +242,11 @@ c) Se for escolhido outro bem ou serviço diferente do atribuído.
 
 ### CAPÍTULO VI — Da desistência, cessão, incumprimento e exclusão
 
-###### Art. 25.º O participante não adjudicatário pode renunciar à permanência no grupo desde que, estando no pleno gozo dos seus direitos e não se encontrando em mora, manifeste aquele propósito à sociedade administradora por carta registada com aviso de recepção ou por impresso normalizado entregue com a antecedência de, pelo menos, 15 dias em relação à data designada para a assembleia de grupo.
+Art. 25.º O participante não adjudicatário pode renunciar à permanência no grupo desde que, estando no pleno gozo dos seus direitos e não se encontrando em mora, manifeste aquele propósito à sociedade administradora por carta registada com aviso de recepção ou por impresso normalizado entregue com a antecedência de, pelo menos, 15 dias em relação à data designada para a assembleia de grupo.
 
-###### Art. 26.º O participante que não se encontre em mora pode ceder a sua posição contratual a terceiro antes da liquidação do grupo, desde que obtenha aquiescência expressa da sociedade administradora, mediante simples averbamento no verso do título representativo do contrato ou outra formalidade adequada, assumindo o cessionário os direitos e obrigações decorrentes da posição do cedente.
+Art. 26.º O participante que não se encontre em mora pode ceder a sua posição contratual a terceiro antes da liquidação do grupo, desde que obtenha aquiescência expressa da sociedade administradora, mediante simples averbamento no verso do título representativo do contrato ou outra formalidade adequada, assumindo o cessionário os direitos e obrigações decorrentes da posição do cedente.
 
-###### Art. 27.º Sem prejuízo de notificação pela sociedade administradora, por carta registada com aviso de recepção, pode aquela determinar a exclusão de qualquer participante nos seguintes casos:
+Art. 27.º Sem prejuízo de notificação pela sociedade administradora, por carta registada com aviso de recepção, pode aquela determinar a exclusão de qualquer participante nos seguintes casos:
 
 a) Falta ou atraso de pagamento integral de duas ou mais prestações consecutivas ou de uma prestação por prazo superior a 60 dias;
 
@@ -240,21 +256,21 @@ c) Insolvência ou falência;
 
 d) Prática de actos que em assembleia de grupo se reconheça redundarem em grave prejuízo para o funcionamento e existência do mesmo grupo.
 
-###### Art. 28.º - 1 - O renunciante ou excluído será reembolsado das quantias liquidadas sem acréscimo de juros, depois de deduzidas as importâncias correspondentes às quotas de inscrição e de administração já vencidas, ou outras contratualmente em dívida à data da comunicação da reunúncia ou exclusão, dentro do prazo de 30 dias após a liquidação do grupo ou, depois da entrega de todos os bens ou serviços, logo que existam fundos suficientes para o seu pagamento total ou parcial.
+Art. 28.º - 1 - O renunciante ou excluído será reembolsado das quantias liquidadas sem acréscimo de juros, depois de deduzidas as importâncias correspondentes às quotas de inscrição e de administração já vencidas, ou outras contratualmente em dívida à data da comunicação da reunúncia ou exclusão, dentro do prazo de 30 dias após a liquidação do grupo ou, depois da entrega de todos os bens ou serviços, logo que existam fundos suficientes para o seu pagamento total ou parcial.
 
 2 - Nos casos em que, após a renúncia ou exclusão, se verificar substituição, o reembolso a que se refere o número anterior será satisfeito dentro de 30 dias após a data do último pagamento efectuado pelo substituto, a título de substituição.
 
-###### Art. 29.º - 1 - O participante que atrasar o pagamento de prestação por prazo superior a 10 dias pagará, a título de cláusula penal, 10% sobre a quantia em dívida, a favor da sociedade administradora, e juros moratórios, a favor do fundo de reserva, se existir, ou do fundo comum, sobre a quantia em dívida, calculados em função da taxa de juro praticada pela banca comercial para as operações activas.
+Art. 29.º - 1 - O participante que atrasar o pagamento de prestação por prazo superior a 10 dias pagará, a título de cláusula penal, 10% sobre a quantia em dívida, a favor da sociedade administradora, e juros moratórios, a favor do fundo de reserva, se existir, ou do fundo comum, sobre a quantia em dívida, calculados em função da taxa de juro praticada pela banca comercial para as operações activas.
 
 2 - Se, por incumprimento do adjudicatário se tornar necessário o recurso da sociedade administradora a acção judicial, correrão por conta daquele os encargos judiciais e o pagamento de honorários a mandatário forense.
 
-###### Art. 30.º Para obstar à exclusão do grupo pode o participante inadimplente não adjudicatário restabelecer os seus direitos e obrigações perante o grupo, desde que efectue o pagamento integral do montante em débito, acrescido dos juros moratórios que forem devidos e do cumprimento da cláusula penal aplicável nos termos do disposto no n.º 1 do artigo anterior.
+Art. 30.º Para obstar à exclusão do grupo pode o participante inadimplente não adjudicatário restabelecer os seus direitos e obrigações perante o grupo, desde que efectue o pagamento integral do montante em débito, acrescido dos juros moratórios que forem devidos e do cumprimento da cláusula penal aplicável nos termos do disposto no n.º 1 do artigo anterior.
 
 ### CAPÍTULO VII — Do falecimento de participantes
 
-###### Art. 31.º Ocorrendo o falecimento de participante em relação ao qual tenha sido constituído seguro de vida, os seus herdeiros tomarão a posição dele no grupo, com efeitos a partir da data do decesso, não lhes sendo exigíveis quaisquer prestações supervenientes àquela data, e o beneficiário ou beneficiários receberão o remanescente do seguro, se o houver.
+Art. 31.º Ocorrendo o falecimento de participante em relação ao qual tenha sido constituído seguro de vida, os seus herdeiros tomarão a posição dele no grupo, com efeitos a partir da data do decesso, não lhes sendo exigíveis quaisquer prestações supervenientes àquela data, e o beneficiário ou beneficiários receberão o remanescente do seguro, se o houver.
 
-###### Art. 32.º - 1 - No caso de falecimento de participantes sem seguro de vida, os sucessores escolherão entre si um representante, que comunicará à administradora, no prazo de 60 dias a contar do decesso, a intenção de aqueles assumirem perante o grupo a posição detida pelo participante falecido ou a renúncia à mesma posição, salvo se verificada a necessidade de nomeação de tutor ou curador, caso em que aquele prazo se contará a partir dessa nomeação.
+Art. 32.º - 1 - No caso de falecimento de participantes sem seguro de vida, os sucessores escolherão entre si um representante, que comunicará à administradora, no prazo de 60 dias a contar do decesso, a intenção de aqueles assumirem perante o grupo a posição detida pelo participante falecido ou a renúncia à mesma posição, salvo se verificada a necessidade de nomeação de tutor ou curador, caso em que aquele prazo se contará a partir dessa nomeação.
 
 2 - Verificando-se o propósito de sucessão no grupo, a sociedade administradora fixará um prazo não inferior a 60 dias para que os sucessores, através do seu representante, comprovem a sua qualidade com a devida identificação e indiquem se a posição do falecido será doravante detida em compropriedade ou atribuída apenas a um deles, identificando devidamente uns e outro.
 
@@ -266,24 +282,24 @@ d) Prática de actos que em assembleia de grupo se reconheça redundarem em grav
 
 ### CAPÍTULO VIII — Da substituição de participantes
 
-###### Art. 33.º Ocorrendo desistência ou exclusão de participantes, o grupo não se dissolve, podendo a sociedade administradora admitir novos participante para preenchimento das vagas daquele modo ocorridas, sem prejuízo do prazo de duração do grupo.
+Art. 33.º Ocorrendo desistência ou exclusão de participantes, o grupo não se dissolve, podendo a sociedade administradora admitir novos participante para preenchimento das vagas daquele modo ocorridas, sem prejuízo do prazo de duração do grupo.
 
-###### Art. 34.º - 1 - No caso de substituição operada nos termos do artigo anterior, o participante substituto assume plenamente, perante o grupo, a posição do substituído em todos os direitos e deveres que este detinha, bem como os que lhe adviriam se não se tivesse verificado desistência ou exclusão, desde que seja garantido ao grupo o pagamento das prestações vencidas à data da substituição.
+Art. 34.º - 1 - No caso de substituição operada nos termos do artigo anterior, o participante substituto assume plenamente, perante o grupo, a posição do substituído em todos os direitos e deveres que este detinha, bem como os que lhe adviriam se não se tivesse verificado desistência ou exclusão, desde que seja garantido ao grupo o pagamento das prestações vencidas à data da substituição.
 
 2 - Pode a sociedade administradora permitir que o pagamento daquelas importâncias seja efectuado, escalonadamente, em acumulação com as prestações vincendas, até ao final do plano de pagamento previsto para o grupo.
 
 ### CAPÍTULO IX — Da impossilidade de atribuição
 
-###### Art. 35.º Verificando-se a impossibilidade objectiva de adjudicação de um bem ou serviço inicialmente objecto de contrato, por ter sido sustada a sua produção ou comercialização, a sociedade administradora deve proceder à substituição do bem ou serviço por outro de características semelhantes, nos termos seguintes:
+Art. 35.º Verificando-se a impossibilidade objectiva de adjudicação de um bem ou serviço inicialmente objecto de contrato, por ter sido sustada a sua produção ou comercialização, a sociedade administradora deve proceder à substituição do bem ou serviço por outro de características semelhantes, nos termos seguintes:
 
 a) Escolher-se-á o bem ou serviço de características semelhantes e preço o mais aproximado possível dos bens ou serviços substituídos;
 
 b) As actualizações de mensalidades passarão a fazer-se, a partir da última mensalidade praticada, de acordo com as percentagens das alterações que vierem a ocorrer sobre o valor do novo bem ou serviço.
 
-###### Art. 36.º O direito conferido às sociedades administradoras pelo artigo anterior será exercido sem prejuízo da possibilidade de os participantes não adjudicatários, e não concordantes com a substituição, optarem pela renúncia, observando-se o disposto no artigo 28.º, ou por bem ou serviço de natureza diferente, desde que, neste caso, se obriguem a suportar a diferença de preço a que houver lugar.
+Art. 36.º O direito conferido às sociedades administradoras pelo artigo anterior será exercido sem prejuízo da possibilidade de os participantes não adjudicatários, e não concordantes com a substituição, optarem pela renúncia, observando-se o disposto no artigo 28.º, ou por bem ou serviço de natureza diferente, desde que, neste caso, se obriguem a suportar a diferença de preço a que houver lugar.
 
 ### CAPÍTULO X — Disposições gerais
 
-###### Art. 37.º Os descontos de pronto pagamento ou outros obtidos na aquisição dos bens ou serviços reverterão para a sociedade administradora.
+Art. 37.º Os descontos de pronto pagamento ou outros obtidos na aquisição dos bens ou serviços reverterão para a sociedade administradora.
 
-###### Art. 38.º Operada a liquidação de cada grupo, será o remanescente do fundo comum, bem como o de quaisquer outros fundos, se existentes, distribuído proporcionalmente pelos participantes, ainda que hajam antecipadamente amortizado a sua posição.
+Art. 38.º Operada a liquidação de cada grupo, será o remanescente do fundo comum, bem como o de quaisquer outros fundos, se existentes, distribuído proporcionalmente pelos participantes, ainda que hajam antecipadamente amortizado a sua posição.

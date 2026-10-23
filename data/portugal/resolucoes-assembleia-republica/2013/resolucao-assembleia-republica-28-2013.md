@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/28/2013/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-2013-259766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5197590b7b63d6ae099373125ce7ae27e68af97d2a9ccc0788e481a39eccb49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb76eb22591df07d9b8b0990c5defe16ba6761f644698da4558b8186acd35156
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
+- Bruxelas
 - Camarões
 - CE Países
-- Política Fiscal
+- Comércio
 - Convenção
 - Cooperação Aduaneira
 - Cooperação Comercial
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
 - Cooperação Económica
 - Cooperação Europeia
-- Comércio
-- Bruxelas
+- Direito de Estabelecimento
+- Livre Prestação de Serviços
+- Política Fiscal
 - UE
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:259767:por
+  label: "Ratificado o Acordo pelo DEC.49/2013.12.03.2013.PR, DR.IS [50] de 12.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/49-2013-259767
+  date: '2013-03-12'
 article_structure:
   article_count: 122
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:45Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de outubro de 2012.
 
-**O Presidente da Assembleia da República, em exercício, António Filipe.**
+O Presidente da Assembleia da República, em exercício, António Filipe.
 
 ACORDO INTERCALAR PARA UM ACORDO DE PARCERIA ECONÓMICA ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A PARTE ÁFRICA CENTRAL, POR OUTRO.
 
@@ -356,7 +361,7 @@ A classificação dos produtos abrangidos pelo presente Acordo é a que figura n
 
 4 - Os direitos aduaneiros sobre as importações de produtos definidos como originários da Comunidade Europeia cuja lista figura no anexo iii nas categorias «1», «2» e «3» são definitivamente suprimidos em conformidade com as modalidades definidas no quadro infra. As percentagens de redução pautal estabelecidas no quadro infra são aplicáveis tanto às tarifas definidas no n.º 1 como a eventuais novas tarifas definidas no âmbito das condições previstas no n.º 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
 
 5 - As importações de produtos originários da Comunidade Europeia cuja lista figura no anexo iii, categoria «5», são constituídas por produtos cujos direitos aduaneiros são definidos nos termos das disposições dos n.os 1 e 3; os direitos aduaneiros desta categoria não são nem reduzidos nem suprimidos.
 
@@ -1298,9 +1303,9 @@ Os anexos e o Protocolo do presente Acordo fazem dele parte integrante.
 
 Em fé do que os plenipotenciários abaixo-assinados apuseram as suas assinaturas no final do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
 
-## APÊNDICE I
+APÊNDICE I
 
 A - Produtos prioritários para uma harmonização regional pelos Estados signatários da África Central:
 
@@ -1324,7 +1329,7 @@ B - Produtos prioritários para a exportação da Parte África Central para a P
 
 - Madeira.
 
-## APÊNDICE II
+APÊNDICE II
 
 Autoridades competentes
 
@@ -1408,7 +1413,7 @@ O FORAPE é um instrumento estabelecido pela África Central e a ela destinado, 
 
 Todas as acções assinaladas a seguir devem ser compatíveis com os objectivos dos pontos 3 e 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
 
 C - Financiamento da parceria
 
@@ -1480,7 +1485,7 @@ d) Todas as medidas tomadas em conformidade com o presente número são imediata
 
 9 - O n.º 1 não é aplicável aos produtos da posição pautal 0803 00 19 originários da Parte África Central e postos em livre circulação nas regiões ultraperiféricas da Parte CE. Os n.os 1, 3 e 4 não são aplicáveis aos produtos da posição pautal 1701 originários da Parte África Central e postos em livre circulação nos departamentos franceses ultramarinos. Estas disposições são aplicáveis durante um período de 10 anos. Este período é alargado a um novo período de 10 anos, salvo acordo em contrário das Partes.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
 
 PROTOCOLO RELATIVO À ASSISTÊNCIA ADMINISTRATIVA MÚTUA EM MATÉRIA ADUANEIRA
 
@@ -1646,4 +1651,4 @@ As Partes renunciam a exigir o reembolso de despesas incorridas no âmbito do pr
 
 3 - No que se refere às questões relacionadas com a aplicação do presente Protocolo, as Partes devem consultar-se mutuamente para as solucionar no âmbito do Comité APE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05000/0132401589.pdf)

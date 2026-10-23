@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08100/0209802110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/42/2015/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/42-2015-67085602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ecb9326b5e2352c78c6a3da780ce8baf635505ebcfb16e401c97ebe872a7606
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de6bded057d683a25882ae818abbcbf9b2ee0ab1f65926e8b0aa93d12dd2c467
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Trabalho
 - Convenção
-- Portugal
+- Genebra
 - OIT
+- Portugal
 - Serviço Doméstico
 - Trabalhador do Serviço Doméstico
-- Genebra
-relationships: []
+- Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:67085599:por
+  label: Ratificada pelo(a) Decreto do Presidente da República n.º 31/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/31-2015-67085599
+  date: '2015-04-27'
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:41Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de janeiro de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 CONVENTION 189
 
@@ -873,7 +878,7 @@ O texto que precede é o texto autêntico da convenção devidamente adotada pel
 
 Em fé do que apuseram as suas assinaturas, neste décimo sétimo dia de junho de 2011:
 
-**O Presidente da Conferência:**
+O Presidente da Conferência:
 
 Robert Nkili.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1085/1993/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1085-1993-664546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 233cead1934eb2f3a528677843f085ab18588815c75aac2b88fae78cbb57f794
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7b714956c446168340e08f709e985beabcd7cc875f73ce9ca406d8b59355284
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gado Bovino
-- Reprodução Animal
+- Inseminação Artificial
 - Licenciamento
 - Regulamento
-- Inseminação Artificial
+- Reprodução Animal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37/1992/03/28/p/dre
@@ -79,16 +79,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/231/1991/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/231/1991/03/21/p/dre
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471276:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:50Z'
   warnings: []
   errors: []
 ---
@@ -107,17 +119,17 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 1 de Outubro de 1993.**
+Assinada em 1 de Outubro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 1085/93
+Anexo a que se refere a Portaria n.º 1085/93
 
 Regulamento de Licenciamento dos Centros de Inseminação Artificial de Bovinos
 
-###### Artigo 1.º O presente diploma estabelece as condições a que os centros de inseminação artificial de bovinos devem obedecer para que lhes seja concedida autorização para produzir, armazenar e distribuir sémen da espécie bovina, destinado à inseminação artificial.
+Artigo 1.º O presente diploma estabelece as condições a que os centros de inseminação artificial de bovinos devem obedecer para que lhes seja concedida autorização para produzir, armazenar e distribuir sémen da espécie bovina, destinado à inseminação artificial.
 
-###### Art. 2.º Para efeitos do presente diploma entende-se por:
+Art. 2.º Para efeitos do presente diploma entende-se por:
 
 a) Centro de inseminação artificial de bovinos (CIAB) - estabelecimento oficialmente autorizado e controlado pelo Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR) que produz, armazena e distribui sémen de bovino destinado à inseminação artificial;
 
@@ -127,7 +139,7 @@ c) Colheita - uma quantidade de sémen retirada de um dador em qualquer altura;
 
 d) Director do centro - o médico veterinário autorizado pelo presidente do IEADR a exercer essas funções e que é responsável pelo cumprimento das exigências previstas neste diploma, das normas a aplicar na preparação, armazenamento e distribuição do sémen, das condições sanitárias dos animais do centro, bem como dos animais propostos à sua admissão e pela certificação do sémen ali produzido.
 
-###### Art. 3.º - 1 - As licenças de funcionamento dos CIAB serão requeridas ao abrigo do artigo 3.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro, devendo os requerimentos ser dirigidos ao presidente do IEADR e entregues nos serviços regionais de agricultura em cuja área se pretende instalá-los.
+Art. 3.º - 1 - As licenças de funcionamento dos CIAB serão requeridas ao abrigo do artigo 3.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro, devendo os requerimentos ser dirigidos ao presidente do IEADR e entregues nos serviços regionais de agricultura em cuja área se pretende instalá-los.
 
 2 - Dos requerimentos devem constar os seguintes elementos:
 
@@ -153,18 +165,18 @@ j) Parecer dos serviços competentes da direcção regional de agricultura da á
 
 l) Declaração favorável da câmara municipal respectiva e prova da concessão do licenciamento camarário.
 
-###### Art. 4.º - 1 - Só pode ser autorizado a exercer as funções de director do centro o médico veterinário que tenha frequentado, com aproveitamento, um estágio sobre tecnologia do sémen, num centro de inseminação artificial reconhecido oficialmente.
+Art. 4.º - 1 - Só pode ser autorizado a exercer as funções de director do centro o médico veterinário que tenha frequentado, com aproveitamento, um estágio sobre tecnologia do sémen, num centro de inseminação artificial reconhecido oficialmente.
 
 2 - A autorização referida no número anterior compete ao presidente do IEADR e é válida pelo período de dois anos, renovável por iguais períodos.
 
-###### Art. 5.º - 1 - A concessão da licença de funcionamento dos CIAB compete ao presidente do IEADR, ouvido o Instituto de Protecção da Produção Agro-Alimentar (IPPAA) nos termos do número seguinte.
+Art. 5.º - 1 - A concessão da licença de funcionamento dos CIAB compete ao presidente do IEADR, ouvido o Instituto de Protecção da Produção Agro-Alimentar (IPPAA) nos termos do número seguinte.
 
 2 - Compete ao IPPAA emitir parecer sobre a licença de funcionamento, a qual integrará as condições e exigências colocadas por este Instituto para sua concessão.
 
 3 - Os técnicos do IEADR e do IPPAA inspeccionarão anualmente o funcionamento do CIAB.
 
-###### Art. 6.º As instalações do CIAB devem obedecer às condições exigidas para os centros de colheita de sémen previstas no capítulo I do anexo A da [Portaria n.º 231/91](https://diariodarepublica.pt/dr/detalhe/portaria/231-1991-471276), de 21 de Março.
+Art. 6.º As instalações do CIAB devem obedecer às condições exigidas para os centros de colheita de sémen previstas no capítulo I do anexo A da [Portaria n.º 231/91](https://diariodarepublica.pt/dr/detalhe/portaria/231-1991-471276), de 21 de Março.
 
-###### Art. 7.º - 1 - A admissão de animais no CIAB é autorizada pelo director do centro, devendo ser respeitadas as condições previstas no capítulo I do anexo B da [Portaria n.º 231/91](https://diariodarepublica.pt/dr/detalhe/portaria/231-1991-471276), de 21 de Março, para a admissão nos centros de colheita de sémen.
+Art. 7.º - 1 - A admissão de animais no CIAB é autorizada pelo director do centro, devendo ser respeitadas as condições previstas no capítulo I do anexo B da [Portaria n.º 231/91](https://diariodarepublica.pt/dr/detalhe/portaria/231-1991-471276), de 21 de Março, para a admissão nos centros de colheita de sémen.
 
 2 - Os animais alojados no CIAB devem ser submetidos anualmente às provas sanitárias previstas no capítulo II do anexo B do diploma referido no número anterior.

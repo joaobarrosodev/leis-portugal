@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/80/2013/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/80-2013-496741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85b89cca94c89613aeb3d6677730d2d64807200cc737014027ac22d9b3442df2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9b642ef2ec11d5f0f3db0c00bd9422c282a6e90e54724afb944e63b1833522c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Espetáculos e Divertimentos Públicos
 - CAE
-- Inspecção Geral das Actividades Culturais
 - Empresa Privada
-- IVA
+- Espetáculos e Divertimentos Públicos
+- Inspecção Geral das Actividades Culturais
 - Instituto da Mobilidade e dos Transportes
+- IVA
+- Microempresa
 - Portagem
 - Recomendação
-- Microempresa
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:00Z'
   warnings: []
   errors: []
 ---
@@ -115,4 +115,4 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 17 de maio de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

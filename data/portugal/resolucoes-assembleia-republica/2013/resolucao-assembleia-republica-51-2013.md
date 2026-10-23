@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/51/2013/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/51-2013-260455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 311f37d4d899b603ee9e591a0b688cf89c0d53ee8badf25e4d7671a835d6cea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cb3285a8f2efc635158e09e3f1fc778327d98073d991a6b00c55e3b5690e18d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- EUA
 - Combate ao Terrorismo
 - Convenção
-- Segurança Interna
-- Portugal
-- Documentação Classificada
-- Segurança da Informação
 - Cooperação Internacional
+- Documentação Classificada
+- EUA
+- Portugal
+- Segurança da Informação
+- Segurança Interna
 - Sistema de Informação
 - Washington
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:260458:por
+  label: "Ratificado o Acordo entre a República Portuguesa e os Estados Unidos da América para a Troca de Informação de Rastreio\
+    \ de Terrorismo pelo DEC.53/2013.11.04.2013.PR, DR.IS [71] de 11.04.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/53-2013-260458
+  date: '2013-04-11'
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:19Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +106,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 15 de fevereiro de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS DA AMÉRICA PARA A TROCA DE INFORMAÇÃO DE RASTREIO DO TERRORISMO
 

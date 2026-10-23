@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/936/1992/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/936-1992-232154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9700f44742f2aa3af6a43f2d483795265bfb597297372950787c73d34464a6c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2b8178461035660365ab5d3f261e74df632617684eb8a9a186b97da70e13b61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Indústria da Panificação
 - Preço
 - Preço de Venda
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/77-b/1992/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/77-b/1992/02/05/p/dre
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:09Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +115,6 @@ Manda o Governo, pelo Ministro do Comércio e Turismo, o seguinte:
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 16 de Setembro de 1992.**
+Assinada em 16 de Setembro de 1992.
 
 Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.

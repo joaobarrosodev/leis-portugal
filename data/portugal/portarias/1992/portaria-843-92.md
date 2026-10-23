@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/843/1992/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/843-1992-240657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d67af13feeab56e75ac5e6b12900d984b65061666ab7acfe97c97cf3d36d9be5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7b21067484895faf353aa801ba24fb0d8590c295a309c15b509c64d38ecb3aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,29 @@ relationships:
   target: pt:dre:409490:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621946:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:409490:por
+  label: "Rectificada pela DECL-RECT.64/93.29.03.1993.SG-PCM, DR.IS-B [76]3ºSupl de 31.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/64-1993-409490
+  date: '1993-03-29'
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:54Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +115,7 @@ Atento o disposto nos artigos 25.º, n.º 6, 34.º, n.º 2, alínea a), e 86.º 
 
 Manda o Governo, pelos Ministros da Defesa Nacional e da Administração Interna, que os os artigos 14.º e 16.º da parte I e o artigo 12.º da parte II da [Portaria n.º 722/85](https://diariodarepublica.pt/dr/detalhe/portaria/722-1985-621946), de 25 de Setembro, passem a ter a seguinte redacção:
 
-# PARTE I
+## PARTE I
 
 ...
 
@@ -184,7 +197,7 @@ i) Grupo Regional de Trânsito n.º 5 - Coimbra:
 
 5 - ...
 
-# PARTE II
+## PARTE II
 
 ...
 
@@ -194,6 +207,6 @@ i) Grupo Regional de Trânsito n.º 5 - Coimbra:
 
 Ministérios da Defesa Nacional e da Administração Interna.
 
-**Assinada em 5 de Agosto de 1992.**
+Assinada em 5 de Agosto de 1992.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro da Administração Interna, Carlos Manuel Sousa Encarnação, Secretário de Estado Adjunto do Ministro da Administração Interna.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro da Administração Interna, Carlos Manuel Sousa Encarnação, Secretário de Estado Adjunto do Ministro da Administração Interna.

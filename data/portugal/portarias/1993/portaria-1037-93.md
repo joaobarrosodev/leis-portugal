@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/243b00/58395842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1037/1993/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1037-1993-668517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d15a18a786abb194a87c5ffb4027396950454c54a790017100e5e0047e9a2c7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c343811d175e0dc124da8350dd68756dfcb9b863e62620b5a2391f607925d87a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Sabugal
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1308041:por
+  label: Alterado o Plano de Pormenor ratificado por este Diploma, pela DECL.67/99(2ªSÉRIE).1999.02.17.DGOTDU-MEPAT, DR.IIS
+    [52] de 03.03.1999
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/67-1999-1308041
+  date: '1999-02-17'
+- type: amended_by
+  target: pt:dre:114100301:por
+  label: Tornado pública a revogação do Plano de Pormenor da Zona Industrial e Armazenagem do Sabugal, ratificado pelo presente
+    diploma, e alterado através da Decl 67/99 (2.ª série) de 03-mar da DGOTDU-MEPAT, pelo(a) Aviso n.º 12796/2017 - Diário
+    da República n.º 206/2017, Série II de 2017-10-25, nos termos do disposto no art. 2.º do daquele aviso (no aditamento
+    do art. 84.º que introduziu ao Regulamento do Plano Geral de Urbanização do Sabugal) .
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12796-2017-114100301
+  date: '2017-10-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -100,16 +114,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/240/1992/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/240/1992/03/25/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:35Z'
   warnings: []
   errors: []
 ---
@@ -136,9 +234,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 12 de Setembro de 1993.**
+Assinada em 12 de Setembro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Industrial do Sabugal
 
@@ -156,9 +254,9 @@ Regulamento do Plano de Pormenor da Zona Industrial do Sabugal
 
 O presente Regulamento tem como anexos:
 
-## Anexo A - Quadro de síntese da ocupação do solo;
+Anexo A - Quadro de síntese da ocupação do solo;
 
-## Anexo B - Aquisição de lote(s) industrial(is) e processo de candidatura.
+Anexo B - Aquisição de lote(s) industrial(is) e processo de candidatura.
 
 ###### Artigo 3.º — Definições
 
@@ -298,7 +396,7 @@ Quaisquer omissões ou dúvidas de interpretação e aplicação do presente Reg
 
 ## ANEXO A — Quadro de síntese da ocupação do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/243b00/58395842.pdf))](https://files.diariodarepublica.pt/1s/1993/10/243b00/58395842.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/243b00/58395842.pdf)
 
 Áreas gerais ... Metros quadrados
 
@@ -394,4 +492,4 @@ Venda de lotes - 70$00/m2 x 77661 m2 (área disponível para venda) = 5500 conto
 
 o que permite concluir que somente um preço de venda por metro quadrado próximo de 1000$00 compensaria em termos financeiros o investimento realizado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/243b00/58395842.pdf))](https://files.diariodarepublica.pt/1s/1993/10/243b00/58395842.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/243b00/58395842.pdf)

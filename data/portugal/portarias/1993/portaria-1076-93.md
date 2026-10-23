@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1076/1993/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1076-1993-664885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63d823119bd96c81768ab85dfc51596931741e26172c54c3d205ba69e93b928b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 500210dfa741eac2eaf990d97a539a52f98a4fb34e29b5126091a359d3aabc11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,37 @@ subjects:
 - Seguro contra Danos
 - Sismo
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MODIFICACAOES SOFRIDAS: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICA 227/93, DE 29 DE OUTUBRO, PUBLICADA NO DR.IS-B,\
+    \ 255 3SUPL, DE 901030.\01030.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/188/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:227455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639482:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:35Z'
   warnings: []
   errors: []
 ---
@@ -135,6 +152,6 @@ b) As seguradoras deverão, na medida do possível, providenciar para que a pres
 
 Ministério das Finanças.
 
-**Assinada em 14 de Outubro de 1993.**
+Assinada em 14 de Outubro de 1993.
 
-**O Secretário de Estado do Tesouro, José Monteiro Fernandes Braz.**
+O Secretário de Estado do Tesouro, José Monteiro Fernandes Braz.

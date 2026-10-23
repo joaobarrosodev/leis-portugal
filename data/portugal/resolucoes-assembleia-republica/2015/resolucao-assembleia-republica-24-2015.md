@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04500/0136601367.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/24/2015/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-2015-66674005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 390d332674da249fafbe91384f5b52c89020a5f9e527a20f5cfc98b3b7a2bd63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 172169f8e831aa0a7abd64a8eb9610d99afad6bee02b3082ebc95fd6960bf5df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
 subjects:
 - Assembleia Geral
 - Cartagena
-- Turismo
 - Convenção
-- Portugal
 - Estatuto
 - Organização Mundial do Turismo
-relationships: []
+- Portugal
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:66674003:por
+  label: Ratificada a Emenda ao art. 38.º dos Estatutos da Organização Mundial do Turismo aprovada pelo presente diploma,
+    pelo(a) Decreto do Presidente da República n.º 25/2015 - Diário da República n.º 45/2015, Série I de 2015-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/25-2015-66674003
+  date: '2015-03-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:13Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 6 de fevereiro de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 RESOLUTION ADOPTED BY THE SEVENTEENTH SESSION OF THE GENERAL ASSEMBLY
 

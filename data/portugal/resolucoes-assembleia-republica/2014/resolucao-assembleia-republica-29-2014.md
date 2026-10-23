@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/29/2014/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/29-2014-25344751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8819c506039699a4c1f1ae1982c2aa95eec7a8844db789880f1dbfbb702a7857
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02e5261ddefe461a54809a86b52078b4e3b9a1cc05bc016a9fdda6ab4893a923
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:57805605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:57805605:por
+  label: Prorrogado, até 08.10.2014, o prazo de funcionamento da Comissão pelo(a) Resolução da Assembleia da República n.º
+    82/2014 - Diário da República n.º 189/2014, Série I de 2014-10-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/82-2014-57805605
+  date: '2014-10-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/126/1997/12/10/p/dre
   label: null
@@ -88,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
+- type: cites
+  target: pt:dre:404748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626806:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:02Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +142,4 @@ f) Proceder ao levantamento e à apreciação de todos os factos, atos, contrato
 
 Aprovada em 21 de março de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 187/1992, 1º Suplemento, Série I-B de 1992-08-14
   number: '187'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3960-(2) a 3960-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/187b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/790-b/1992/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-b-1992-447283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd449016b845164b6be35352c9f00560296233670f85ed4ab08bfc34495e494c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a1d4f7e55d94534e0bfa02d879b7c93dcef75fd4c17757128cd741e770f1c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-f3/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-f3/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:40Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +133,6 @@ c) Para os caçadores não residentes no concelho de Miranda do Corvo - 6000$00.
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Agosto de 1992.**
+Assinada em 14 de Agosto de 1992.
 
-**O Ministro da Agricultura, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Arlindo Marques da Cunha.

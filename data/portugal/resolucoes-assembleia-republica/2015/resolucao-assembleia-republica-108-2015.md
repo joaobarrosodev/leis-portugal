@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/108/2015/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/108-2015-69956137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b52113d005a8cb73a9d1595e54ede0eafa6124e1873ce6af8750fa336ad09355
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 539750539d89c4ab5ca9c0f6a1f261b6ce126c78a0af74bb7bef286d39c0ce29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Estatuto
-- Cooperação Internacional
 - Bruxelas
+- Convenção
+- Cooperação Internacional
+- Estatuto
+- Portugal
 - Tribunal Unificado de Patentes
 relationships:
+- type: amended_by
+  target: pt:dre:69956136:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 90/2015 - Diário da República n.º 152/2015, Série I de
+    2015-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/90-2015-69956136
+  date: '2015-08-06'
 - type: cites
   target: celex:31994R2100
   label: null
@@ -122,14 +128,14 @@ relationships:
   source: http://data.europa.eu/eli
 article_structure:
   article_count: 127
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:00Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +148,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 10 de abril de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 AGREEMENT ON A UNIFIED PATENT COURT
 
@@ -1362,7 +1368,7 @@ In witness whereof the undersigned, being duly authorised thereto, have signed t
 
 Done at Brussels on 19 February 2013 in english, french and german, all three texts being equally authentic, in a single copy which shall be deposited in the archives of the General Secretariat of the Council of the European Union.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf)
 
 ANNEX I
 
@@ -1838,7 +1844,7 @@ ANNEX II
 
 Distribution of cases within the central division (1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf)
 
 ACORDO RELATIVO AO TRIBUNAL UNIFICADO DE PATENTES
 
@@ -1876,7 +1882,7 @@ Considerando que o presente Acordo deverá entrar em vigor em 1 de janeiro de 20
 
 acordaram no seguinte:
 
-# PARTE I — Disposições gerais e institucionais
+## PARTE I — Disposições gerais e institucionais
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -2296,7 +2302,7 @@ As decisões do Tribunal abrangem, no caso de uma patente europeia, o territóri
 
 4 - O Centro elabora uma lista de mediadores e árbitros para apoiarem as partes na resolução do litígio.
 
-# PARTE II — Disposições financeiras
+## PARTE II — Disposições financeiras
 
 ###### Artigo 36.º — Orçamento do Tribunal
 
@@ -2330,7 +2336,7 @@ O plano de formação de juízes é financiado pelo orçamento do Tribunal.
 
 Os custos operacionais do Centro são financiados pelo orçamento do Tribunal.
 
-# PARTE III — Organização e disposições processuais
+## PARTE III — Organização e disposições processuais
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -2748,7 +2754,7 @@ b) Na eventualidade de um vício processual fundamental, em especial se o ato qu
 
 4 - Se uma das partes não respeitar os termos de um despacho do Tribunal, poderá ser sancionada mediante o pagamento ao Tribunal de uma sanção pecuniária compulsória. O montante da sanção imposta será proporcional à importância do despacho a executar e sem prejuízo do direito da parte a exigir uma indemnização ou caução.
 
-# PARTE IV — Disposições transitórias
+## PARTE IV — Disposições transitórias
 
 ###### Artigo 83.º — Regime transitório
 
@@ -2762,7 +2768,7 @@ b) Na eventualidade de um vício processual fundamental, em especial se o ato qu
 
 5 - Cinco anos após a entrada em vigor do presente Acordo, o Comité Administrativo efetua uma consulta alargada dos utilizadores do sistema de patentes e um inquérito sobre o número de patentes europeias e certificados complementares de proteção concedidos para produtos protegidos por patentes europeias a respeito das quais ainda são intentadas nos órgãos jurisdicionais nacionais ações por violação ou extinção ou com vista à declaração de nulidade nos termos do n.º 1, as razões para tal e as respetivas implicações. Com base nessa consulta e num parecer do Tribunal, o Comité Administrativo pode decidir prorrogar até mais sete anos o período transitório.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### Artigo 84.º — Assinatura, ratificação e adesão
 
@@ -3222,4 +3228,4 @@ Qualquer declaração de voto expressa autonomamente por um membro de uma secç�
 
 ## ANEXO II — Distribuição dos processos dentro da divisão central (1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15200/0541605463.pdf)

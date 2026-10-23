@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/57/2014/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-2014-25345621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0612887a88db7c5004b7f7fa1ca439c7db2c4f277c9eed1ae5ffcac3cfe5544f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9a79a893c6e6c2773e36e2a360619e6fed668d95b70200eae6ba78ce6e716f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Aveiro
 - Centro Hospitalar
 - Centro Hospitalar de entre o Douro e Vouga
 - Centro Hospitalar do Baixo Vouga
 - Classificação dos Estabelecimentos Hospitalares
-- Saúde
-- Política de Saúde
-- Qualidade dos Serviços
-- Serviço Nacional de Saúde
-- Gestão dos Recursos
-- Prestação de Serviços
 - Cuidados Médicos
+- Estabelecimento Hospitalar
+- Gestão dos Recursos
+- Governo
+- Política de Saúde
+- Prestação de Serviços
 - Qualidade de VIDA
+- Qualidade dos Serviços
 - Recomendação
 - Recursos Humanos
-- Estabelecimento Hospitalar
-- Governo
+- Reestruturação de Serviços
+- Saúde
+- Serviço Nacional de Saúde
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:42Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +114,4 @@ A Assembleia da República resolve, nos termos do disposto do n.º 5 do artigo 1
 
 Aprovada em 6 de junho de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

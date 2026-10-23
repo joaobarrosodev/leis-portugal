@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/198b00/41504151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/839/1992/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-1992-260140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96510364ac286a25a9f0d981c4307865d8a24e7eb9898d5f6b431f0128eb48a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a72e2728b64a7b1403e95a8d91e603a209c7360980afbc58b4edc09c7c077c9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,17 +72,33 @@ subjects:
 - Resíduo Industrial
 - TAXA de Prestação de Serviços
 - Tratamento de ÁGUA
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:363279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663365:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 1109/93, DE 2 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 256, DE 931102.\0102.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:49Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +127,9 @@ Manda o Governo, pelos Ministros da Indústria e Energia e do Ambiente e Recurso
 
 Ministérios da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 21 de Julho de 1992.**
+Assinada em 21 de Julho de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - Pelo Ministro do Ambiente e Recursos Naturais, António Manuel Taveira da Silva, Secretário de Estado dos Recursos Naturais.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - Pelo Ministro do Ambiente e Recursos Naturais, António Manuel Taveira da Silva, Secretário de Estado dos Recursos Naturais.
 
 ## ANEXO
 
@@ -129,10 +145,10 @@ TABELA I
 
 Tabela de tarifas para os efluentes industriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/198b00/41504151.pdf))](https://files.diariodarepublica.pt/1s/1992/08/198b00/41504151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/198b00/41504151.pdf)
 
 TABELA II
 
 Tabela da tarifa para lamas e outros resíduos sólidos provenientes da laboração industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/198b00/41504151.pdf))](https://files.diariodarepublica.pt/1s/1992/08/198b00/41504151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/198b00/41504151.pdf)

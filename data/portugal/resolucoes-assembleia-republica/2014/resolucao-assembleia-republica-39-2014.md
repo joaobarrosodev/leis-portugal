@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/39/2014/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/39-2014-25344763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05dc083aa53d2ba8d40647dc32360a02860d3f1d7f7d74a4aa96a55b5dc22000
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb053824271609c1c1d24bedafb0bfe54b3a59f8aec7b9b9f7f795644d0b9229
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Alimentação
 - Convenção
-- Portugal
-- Timor Leste
-- ONU
+- FAO
 - Lisboa
-- Pesca
+- Novos Países de Expressão Portuguesa
+- ONU
 - Países de Língua Portuguesa
 - Palop
-- Novos Países de Expressão Portuguesa
-- FAO
-- Alimentação
-- Agricultura
-relationships: []
+- Pesca
+- Portugal
+- Timor Leste
+relationships:
+- type: amended_by
+  target: pt:dre:25344761:por
+  label: "Ratificado o Acordo pelo DEC.30/2014.14.05.2014.PR, DR.IS [92] de 14.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/30-2014-25344761
+  date: '2014-05-14'
 article_structure:
-  article_count: 0
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:17Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +106,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 28 de março de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO QUADRO ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A ALIMENTAÇÃO E A AGRICULTURA (FAO)
 
@@ -115,9 +120,7 @@ Convencidos da importância de estabelecer mecanismos que contribuam para alcan�
 
 acordam em celebrar o seguinte Acordo Quadro:
 
-Artigo I
-
-Objeto e âmbito de aplicação do Acordo Quadro
+###### Artigo I — Objeto e âmbito de aplicação do Acordo Quadro
 
 1 - O presente Acordo Quadro tem por objetivo promover as relações entre Portugal e a FAO como ponto de partida para projetos, programas e atividades no âmbito da agricultura, das pescas e da alimentação.
 
@@ -129,9 +132,7 @@ Objeto e âmbito de aplicação do Acordo Quadro
 
 5 - Esses acordos complementares deverão fixar as condições necessárias para a realização de projetos, programas e atividades de cooperação, designadamente as que respeitam aos compromissos financeiros, aos direitos de propriedade intelectual e à resolução de diferendos.
 
-Artigo II
-
-Comissão Mista
+###### Artigo II — Comissão Mista
 
 1 - As duas Partes acordam em criar uma Comissão Mista de Planificação, Acompanhamento e Avaliação para facilitar o cumprimento do presente Acordo Quadro.
 
@@ -143,37 +144,27 @@ Comissão Mista
 
 5 - A Comissão Mista reúne-se, pelo menos, uma vez por ano alternadamente em Lisboa e em Roma.
 
-Artigo III
-
-Financiamento
+###### Artigo III — Financiamento
 
 Em relação ao financiamento dos projetos, dos programas e das atividades resultantes deste Acordo Quadro, e no que respeita à parte dada pela Administração Portuguesa no seu conjunto (administração central, regiões autónomas e autarquias locais) deverá ser retirado do Orçamento ordinário do Ministério, organismo ou entidade territorial pertinente e dependerá da disponibilidade de recursos.
 
-Artigo IV
-
-Privilégios e imunidades
+###### Artigo IV — Privilégios e imunidades
 
 1 - Nada no presente Acordo Quadro nem em qualquer documento relacionado com o mesmo deverá ser interpretado como uma renúncia por parte da FAO aos seus privilégios e imunidades.
 
 2 - Portugal deverá conceder à FAO os privilégios e imunidades contidos na Convenção sobre Privilégios e Imunidades das Nações Unidas, de 13 de fevereiro de 1946, a que Portugal aderiu a 14 de outubro de 1998 e que são necessários para a execução dos projetos, dos programas e das atividades resultantes deste Acordo Quadro.
 
-Artigo V
-
-Resolução de diferendos
+###### Artigo V — Resolução de diferendos
 
 Qualquer diferendo relativo à interpretação ou à aplicação do presente Acordo Quadro deverá ser resolvido com recurso à negociação, por via diplomática.
 
-Artigo VI
-
-Revisão
+###### Artigo VI — Revisão
 
 1 - O presente Acordo Quadro pode ser objeto de revisão a pedido de qualquer uma das Partes.
 
 2 - As emendas entrarão em vigor nos termos previstos no artigo viii do presente Acordo Quadro.
 
-Artigo VII
-
-Denúncia
+###### Artigo VII — Denúncia
 
 1 - O presente Acordo Quadro permanece em vigor por um período de tempo ilimitado.
 
@@ -183,9 +174,7 @@ Denúncia
 
 4 - As obrigações que decorrem para as Partes em virtude do presente Acordo Quadro mantêm-se após a cessação da vigência do presente Acordo Quadro, na medida do necessário para permitir a conclusão das atividades em curso, a retirada de pessoal, fundos e bens, a liquidação de contas entre as Partes e o cumprimento das obrigações contratuais em relação a qualquer membro do pessoal, consultor ou fornecedor.
 
-Artigo VIII
-
-Entrada em vigor
+###### Artigo VIII — Entrada em vigor
 
 O presente Acordo entra em vigor 30 dias após a data de receção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos internos de cada uma das Partes necessários para o efeito.
 

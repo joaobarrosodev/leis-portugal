@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/21500/0938509385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/137/2015/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/137-2015-70890757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65f11ebe5c33a3af7d231dfaf8ddce50b2ba8e37a4b6d3e595eaaa4b0fdbce4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46670683c5a3b661a97619f9c57987db6d5b3239b34285e2079c6a4071ce2978
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
+- Assembleia da República
 - Conselho de Administração
+- Eleição
 - Grupo Parlamentar
 - Nomeação
-- Assembleia da República
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:40Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +125,4 @@ Heloísa Augusta Baião de Brito Apolónia (PEV)
 
 Aprovada em 28 de outubro de 2015.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

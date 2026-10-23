@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1070/1993/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1070-1993-665111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 175d2fd2e29ec6bf67b0845b9a9a9ae765ffa676ff5c1f96196d7707a8f73592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29ae4a18f9cf0906cdafd3fd3ba5b2082920ce7050c2edaf8d50c8291c56940a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - MAIA
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
@@ -92,16 +92,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
 article_structure:
   article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:30Z'
   warnings: []
   errors: []
 ---
@@ -132,9 +200,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 21 de Setembro de 1993.**
+Assinada em 21 de Setembro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Urbanização da Maia Leste
 
@@ -620,4 +688,4 @@ Ajustamento de pormenor nos limites entre áreas, desde que por razões de cadas
 
 2 - Qualquer ajustamento só terá eficácia depois de aprovado pela Câmara Municipal, registado e publicado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/251b00/60446050.pdf))](https://files.diariodarepublica.pt/1s/1993/10/251b00/60446050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/251b00/60446050.pdf)

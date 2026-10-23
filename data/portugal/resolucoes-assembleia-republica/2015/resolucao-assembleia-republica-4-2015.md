@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/4/2015/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-2015-66145312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a50d9732022e199c0b88a768faddced59bc801e5fc79c35986893a8f550eaf6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f90f041d00a18bf89c3e6116ba1377eac345740720c3132adcf86b11cfae2107
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Marinha Mercante
-- Pessoal do MAR
+- Armador
 - Convenção
+- Genebra
+- Marinha Mercante
+- OIT
+- Pessoal do MAR
 - Portugal
 - Regime Laboral
-- OIT
-- Armador
-- Genebra
 - Tripulação
 relationships:
 - type: amended_by
   target: pt:dre:215603986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66145310:por
+  label: Ratificada a Convenção do Trabalho Marítimo pelo(a) Decreto do Presidente da República n.º 7/2015 - Diário da República
+    n.º 7/2015, Série I de 2015-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/7-2015-66145310
+  date: '2015-01-12'
+- type: amended_by
+  target: pt:dre:215603986:por
+  label: Aprovadas as Emendas de 2016 à Convenção pelo(a) Resolução da Assembleia da República n.º 83/2023 - Diário da República
+    n.º 135/2023, Série I de 2023-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/83-2023-215603986
+  date: '2023-07-13'
 article_structure:
-  article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:35Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 21 de novembro de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 CONVENTION DU TRAVAIL MARITIME, 2006
 
@@ -2824,7 +2836,7 @@ ANNEXE A5-II
 
 Certificat de travail maritime
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf)
 
 ANNEXE A5-III
 
@@ -2862,7 +2874,7 @@ ANNEXE B5-I
 
 Exemple de déclaration nationale
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf)
 
 Le texte qui précède est le texte authentique de la convention dûment adoptée par la Conférence générale de l'Organisation internationale du Travail dans sa quatre-vingt-quatorzième session qui s'est tenue à Genève et qui a été déclarée close le 23 février 2006.
 
@@ -2932,7 +2944,7 @@ adota, neste dia 23 de fevereiro de 2006, a convenção seguinte, que será deno
 
 Obrigações gerais
 
-Artigo I
+###### Artigo I
 
 1 - Qualquer Membro que ratificar a presente convenção compromete-se a cumprir plenamente as respetivas disposições, em conformidade com as prescrições do artigo vi, a fim de garantir o direito de todos os marítimos a um emprego digno.
 
@@ -2940,7 +2952,7 @@ Artigo I
 
 Definições e âmbito de aplicação
 
-Artigo II
+###### Artigo II
 
 1 - Para efeitos da presente convenção e salvo disposto em contrário, a expressão:
 
@@ -2980,7 +2992,7 @@ j) «Armador» designa o proprietário do navio ou qualquer entidade ou pessoa, 
 
 Direitos e princípios fundamentais
 
-Artigo III
+###### Artigo III
 
 Qualquer Membro deve verificar se as disposições da sua legislação respeitam, no contexto da presente convenção, os seguintes direitos fundamentais:
 
@@ -2994,7 +3006,7 @@ d) A eliminação da discriminação em matéria de emprego e de profissão.
 
 Direitos em matéria de emprego e direitos sociais dos marítimos
 
-Artigo IV
+###### Artigo IV
 
 1 - Todos os marítimos têm direito a um local de trabalho seguro, em que as normas de segurança sejam respeitadas.
 
@@ -3008,7 +3020,7 @@ Artigo IV
 
 Responsabilidade por aplicar e fazer cumprir as disposições
 
-Artigo V
+###### Artigo V
 
 1 - Qualquer Membro aplica e faz cumprir a legislação ou outras medidas que tenha adotado para cumprir as suas obrigações nos termos da presente convenção, no que respeita aos navios e aos marítimos sob a sua jurisdição.
 
@@ -3026,7 +3038,7 @@ Artigo V
 
 Regras e partes A e B do código
 
-Artigo VI
+###### Artigo VI
 
 1 - As regras e as disposições da parte A do código são obrigatórias. As disposições da parte B do código não são obrigatórias.
 
@@ -3042,13 +3054,13 @@ b) Dá efeito à disposição e disposições em questão da parte A do código.
 
 Consulta às organizações de armadores e de marítimos
 
-Artigo VII
+###### Artigo VII
 
 As derrogações, isenções e outras medidas de aplicação flexível da presente convenção que requeiram, nos termos da mesma, a consulta às organizações de armadores e de marítimos só podem ser decididas por um Membro, caso não existam tais organizações representativas no seu território, após consulta à Comissão referida no artigo xiii.
 
 Entrada em vigor
 
-Artigo VIII
+###### Artigo VIII
 
 1 - As ratificações formais da presente convenção são comunicadas ao Diretor-Geral do Secretariado Internacional do Trabalho, para efeitos de registo.
 
@@ -3060,7 +3072,7 @@ Artigo VIII
 
 Denúncia
 
-Artigo IX
+###### Artigo IX
 
 1 - Um Membro que tenha ratificado a presente convenção pode denunciá-la decorrido um período de 10 anos, após a data de entrada em vigor inicial da convenção, mediante comunicação ao Diretor-Geral do Secretariado Internacional do Trabalho, para efeitos de registo. A denúncia apenas produz efeitos um ano após ter sido registada.
 
@@ -3068,7 +3080,7 @@ Artigo IX
 
 Efeito da entrada em vigor
 
-Artigo X
+###### Artigo X
 
 A presente convenção revê as seguintes convenções:
 
@@ -3148,19 +3160,19 @@ Convenção (n.º 180) sobre a duração do trabalho dos marítimos e as lotaç�
 
 Funções de depositário
 
-Artigo XI
+###### Artigo XI
 
 1 - O Diretor-Geral do Secretariado Internacional do Trabalho notificará todos os Membros da Organização Internacional do Trabalho do registo de todas as ratificações, aceitações e denúncias que lhe forem comunicadas de acordo com a presente convenção.
 
 2 - Quando as condições mencionadas no n.º 3 do artigo viii tiverem sido preenchidas, o Diretor-Geral chamará a atenção dos Membros da Organização para a data em que a presente convenção entrará em vigor.
 
-Artigo XII
+###### Artigo XII
 
 O Diretor-Geral do Secretariado Internacional do Trabalho comunicará ao Secretário-Geral das Nações Unidas, para efeitos de registo, nos termos do artigo 102.º da Carta das Nações Unidas, informações completas sobre todas as ratificações, aceitações e denúncias registadas de acordo com a presente convenção.
 
 Comissão tripartida especial
 
-Artigo XIII
+###### Artigo XIII
 
 1 - O Conselho de Administração do Secretariado Internacional do Trabalho acompanha permanentemente a aplicação da presente convenção por intermédio de uma comissão por si criada e dotada de competência especial no domínio das normas do trabalho marítimo.
 
@@ -3172,7 +3184,7 @@ Artigo XIII
 
 Emendas à presente convenção
 
-Artigo XIV
+###### Artigo XIV
 
 1 - A Conferência Geral da Organização Internacional do Trabalho pode adotar emendas a qualquer disposição da presente convenção, nos termos do artigo 19.º da Constituição da Organização Internacional do Trabalho e dos regulamentos e procedimentos da Organização relativos à adoção de convenções. Podem também ser adotadas emendas ao código, nos termos dos procedimentos estabelecidos no artigo xv.
 
@@ -3194,7 +3206,7 @@ Artigo XIV
 
 Emendas ao código
 
-Artigo XV
+###### Artigo XV
 
 1 - O código pode ser emendado, quer segundo o procedimento enunciado no artigo xiv, quer, salvo disposição expressa em contrário, segundo o procedimento descrito no presente artigo.
 
@@ -3242,7 +3254,7 @@ b) Um Membro que tenha aceite a emenda deve estender os benefícios da convenç�
 
 Textos que fazem fé
 
-Artigo XVI
+###### Artigo XVI
 
 As versões francesa e inglesa do texto da presente convenção fazem igualmente fé.
 
@@ -3258,15 +3270,15 @@ Nota Explicativa sobre as Regras e o Código da Convenção do Trabalho Marítim
 
 5 - As disposições das regras e do código estão agrupadas nos cinco títulos seguintes:
 
-## Título 1: Condições mínimas exigidas para o trabalho dos marítimos a bordo dos navios;
+Título 1: Condições mínimas exigidas para o trabalho dos marítimos a bordo dos navios;
 
-## Título 2: Condições de trabalho;
+Título 2: Condições de trabalho;
 
-## Título 3: Alojamento, lazer, alimentação e serviço de mesa;
+Título 3: Alojamento, lazer, alimentação e serviço de mesa;
 
-## Título 4: Proteção da saúde, cuidados médicos, bem-estar e proteção em matéria de segurança social;
+Título 4: Proteção da saúde, cuidados médicos, bem-estar e proteção em matéria de segurança social;
 
-## Título 5: Cumprimento e aplicação das disposições.
+Título 5: Cumprimento e aplicação das disposições.
 
 6 - Cada título contém grupos de disposições relativas a um direito ou um princípio (ou a uma medida de aplicação no título 5), com uma numeração correspondente. Assim, o primeiro grupo do título 1 inclui a regra 1.1, a norma A1.1 e o princípio orientador B1.1 (relativo à idade mínima).
 
@@ -3286,7 +3298,7 @@ c) Assegurar, através do título 5, que os princípios e os direitos sejam corr
 
 As Regras e o Código
 
-## Título 1. Condições mínimas necessárias para o trabalho dos marítimos a bordo de um navio
+Título 1. Condições mínimas necessárias para o trabalho dos marítimos a bordo de um navio
 
 Regra 1.1 - Idade mínima
 
@@ -3504,7 +3516,7 @@ d) A melhoria dos procedimentos e das condições de recrutamento e colocação 
 
 e) A planificação da mão-de-obra, tendo em conta a oferta e a procura de marítimos e as necessidades do setor marítimo.
 
-## Título 2. Condições de trabalho
+Título 2. Condições de trabalho
 
 Regra 2.1 - Contrato de trabalho marítimo
 
@@ -4032,7 +4044,7 @@ Princípio orientador B2.8.2 - Registo dos marítimos
 
 5 - Quando se torne necessário reduzir o número de trabalhadores inscritos em tais registos ou listas, deveriam ser adotadas todas as medidas úteis para prevenir ou minorar os efeitos prejudiciais para os marítimos, tendo em conta a situação económica e social do país.
 
-## Título 3. Alojamento, lazer, alimentação e serviço de mesa
+Título 3. Alojamento, lazer, alimentação e serviço de mesa
 
 Regra 3.1 - Alojamento e lazer
 
@@ -4476,7 +4488,7 @@ b) Ter sido aprovado no exame estabelecido pela autoridade competente ou em exam
 
 3 - A autoridade competente deveria prever o reconhecimento, quando necessário, dos diplomas de aptidão de cozinheiro de bordo emitidos por Membros que tenham ratificado a presente convenção ou a convenção (n.º 69) relativa ao diploma de aptidão profissional dos cozinheiros de bordo, 1946, ou por qualquer outro organismo aprovado.
 
-## Título 4. Proteção da saúde, cuidados médicos, bem-estar e proteção em matéria de segurança social
+Título 4. Proteção da saúde, cuidados médicos, bem-estar e proteção em matéria de segurança social
 
 Regra 4.1 - Cuidados médicos a bordo dos navios e em terra
 
@@ -5070,7 +5082,7 @@ Princípio orientador B4.5 - Segurança social
 
 7 - No exercício efetivo da sua jurisdição no domínio das questões sociais, o Membro cuja bandeira o navio arvora deveria assegurar que as obrigações dos armadores em matéria de proteção de segurança social são cumpridas, nomeadamente o pagamento das contribuições para regimes de segurança social.
 
-## Título 5. Cumprimento e aplicação
+Título 5. Cumprimento e aplicação
 
 1 - As regras constantes do presente título especificam a responsabilidade que incumbe a cada Membro de cumprir e aplicar plenamente os princípios e direitos definidos nos artigos da presente convenção, bem como as obrigações específicas mencionadas nos títulos 1, 2, 3 e 4.
 
@@ -5596,7 +5608,7 @@ Pagamento de remunerações.
 
 ## ANEXO A5-II — Certificado de trabalho marítimo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf)
 
 ## ANEXO A5-III
 
@@ -5632,13 +5644,13 @@ Pagamento de remunerações.
 
 ## ANEXO B5-I — Exemplo de declaração nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00700/0027900373.pdf)
 
 O texto que precede é o texto autêntico da convenção devidamente adotada pela Conferência Geral da Organização Internacional do Trabalho na sua 94.ª sessão que teve lugar em Genebra e que foi declarada encerrada no 23.º dia de fevereiro de 2006.
 
 Em fé do que apuseram as suas assinaturas, neste 23.º dia de fevereiro de 2006.
 
-**O Presidente da Conferência:**
+O Presidente da Conferência:
 
 Jean-Marc Schindler.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/195b00/41224122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/828/1992/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/828-1992-260585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ec99a62e416523cac30c6d5ca26a885dcd081c03a41265bf7e6559369989a20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46b95bed3ea72433b6315e0ab1f56b33ca88e7ebc29e94ca18c8c6e7c30716cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,29 @@ relationships:
   target: pt:dre:234304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234304:por
+  label: "Revogada pela PORT.963/98.1998.11.11.MF DR.IS-B [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-1998-234304
+  date: '1998-11-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:34Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +122,6 @@ b) A percentagem z é fixada em 58%, à excepção do último ano do contrato, e
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 20 de Julho de 1992.**
+Assinada em 20 de Julho de 1992.
 
 Pelo Ministro das Finanças, José Monteiro Fernandes Braz, Secretário de Estado do Tesouro. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.

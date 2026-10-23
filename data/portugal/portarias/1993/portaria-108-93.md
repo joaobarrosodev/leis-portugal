@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/108/1993/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/108-1993-600693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a37d7b5785310a6378d9f0acbff869e319747122f918de87dc5abd84c88aa6d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63cab14c734b2d0ec4104dad659b7827dee75c6215b8f595714dc7dd89080cf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ subjects:
 - Hospital Distrital
 - Peniche
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:40Z'
   warnings: []
   errors: []
 ---
@@ -103,10 +119,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 17 de Dezembro de 1992.**
+Assinada em 17 de Dezembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Peniche
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/024b00/03970399.pdf))](https://files.diariodarepublica.pt/1s/1993/01/024b00/03970399.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/024b00/03970399.pdf)

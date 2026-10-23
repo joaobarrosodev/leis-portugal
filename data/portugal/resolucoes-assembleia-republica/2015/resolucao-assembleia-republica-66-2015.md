@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11900/0430804338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/66/2015/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/66-2015-67552499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3768567c9f46f52c37b0460fc9d99383af92d7c244ad6e3dd817b22e237c1a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00aaafc3367e732ff658f90916b5abf70dc2b49a3a2a7ad481e6e95b750c70de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Convenção
 - Portugal
-- Tabaco
 - SEUL
-- Comércio
-relationships: []
+- Tabaco
+relationships:
+- type: amended_by
+  target: pt:dre:67552496:por
+  label: Ratificado o Protocolo aprovado pela presente Resolução, pelo(a) Decreto do Presidente da República n.º 42/2015 -
+    Diário da República n.º 119/2015, Série I de 2015-06-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/42-2015-67552496
+  date: '2015-06-22'
 article_structure:
   article_count: 47
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:15Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 15 de maio de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 PROTOCOL TO ELIMINATE ILLICIT TRADE IN TOBACCO PRODUCTS
 
@@ -1160,7 +1166,7 @@ Convencidas de que complementar a Convenção Quadro da Organização Mundial de
 
 acordam o seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Definições
 
@@ -1216,7 +1222,7 @@ d) O comércio por grosso, a intermediação, o armazenamento ou a distribuiçã
 
 O objetivo do presente Protocolo é eliminar todas as formas de comércio ilícito de produtos do tabaco, em conformidade com o artigo 15.º da Convenção Quadro da Organização Mundial de Saúde para o Controlo do Tabaco.
 
-# PARTE II — Obrigações gerais
+## PARTE II — Obrigações gerais
 
 ###### Artigo 4.º — Obrigações gerais
 
@@ -1240,7 +1246,7 @@ f) Cooperar, com os meios e recursos à sua disposição, para obter os recursos
 
 Ao aplicarem o presente Protocolo, as Partes protegem os dados pessoais dos indivíduos, independentemente da nacionalidade ou do local de residência, sob reserva do direito interno e tendo em conta as normas internacionais em matéria de proteção de dados pessoais.
 
-# PARTE III — Controlo da cadeia de abastecimento
+## PARTE III — Controlo da cadeia de abastecimento
 
 ###### Artigo 6.º — Licença, autorização equivalente ou sistema de controlo
 
@@ -1478,7 +1484,7 @@ b) Fornecer produtos do tabaco ou equipamento de fabrico apenas em quantidades p
 
 2 - Cinco anos após a entrada em vigor do presente Protocolo, a Reunião das Partes assegurará, na sua sessão seguinte, a realização de trabalhos de investigação baseados em dados concretos para determinar a extensão do comércio ilícito de produtos do tabaco relacionado com vendas livres de impostos de tais produtos. Com base numa tal investigação, a Reunião das Partes considerará a adoção de medidas adicionais.
 
-# PARTE IV — Infrações
+## PARTE IV — Infrações
 
 ###### Artigo 14.º — Atos ilícitos incluindo infrações penais
 
@@ -1562,7 +1568,7 @@ Todo o tabaco, todos os produtos do tabaco e todo o equipamento de fabrico decla
 
 4 - As Partes reconhecem a importância e a necessidade da cooperação e auxílio internacionais neste domínio e devem cooperar entre si e com organizações internacionais no desenvolvimento de capacidades para alcançar os objetivos do presente artigo.
 
-# PARTE V — Cooperação internacional
+## PARTE V — Cooperação internacional
 
 ###### Artigo 20.º — Partilha de informação geral
 
@@ -1832,7 +1838,7 @@ a) Comunicar sem demoras com o representante qualificado mais próximo do Estado
 
 b) Ser visitada por um representante desse Estado.
 
-# PARTE VI — Relatórios
+## PARTE VI — Relatórios
 
 ###### Artigo 32.º — Relatórios e troca de informação
 
@@ -1856,7 +1862,7 @@ Nesses casos quando dados pertinentes já estão a ser recolhidos como parte do 
 
 5 - A comunicação da informação ao abrigo desses artigos está sujeita ao direito interno relacionado com confidencialidade e privacidade. As Partes protegem, conforme mutuamente acordado, qualquer informação confidencial que seja relatada ou trocada.
 
-# PARTE VII — Disposições institucionais e recursos financeiros
+## PARTE VII — Disposições institucionais e recursos financeiros
 
 ###### Artigo 33.º — Reunião das Partes
 
@@ -1922,13 +1928,13 @@ b) O Secretariado da Convenção presta aconselhamento aos países em vias de de
 
 8 - Sob reserva do seu direito interno, as Partes esforçam-se por obter autofinanciamento da aplicação do Protocolo, incluindo através da cobrança de impostos e outras formas de encargos sobre produtos do tabaco.
 
-# PARTE VIII — Resolução de diferendos
+## PARTE VIII — Resolução de diferendos
 
 ###### Artigo 37.º — Resolução de diferendos
 
 A resolução de diferendos entre as Partes relativamente à interpretação ou aplicação do presente Protocolo rege-se pelo artigo 27.º da Convenção Quadro da Organização Mundial de Saúde para o Controlo do Tabaco.
 
-# PARTE IX — Evolução do Protocolo
+## PARTE IX — Evolução do Protocolo
 
 ###### Artigo 38.º — Emendas ao presente Protocolo
 
@@ -1950,7 +1956,7 @@ A resolução de diferendos entre as Partes relativamente à interpretação ou 
 
 3 - Os anexos ao presente Protocolo e respetivas emendas serão propostos, adotados e entrarão em vigor em conformidade com o procedimento previsto no artigo 38.º
 
-# PARTE X — Disposições finais
+## PARTE X — Disposições finais
 
 ###### Artigo 40.º — Reservas
 
@@ -1992,7 +1998,7 @@ O Protocolo está aberto à assinatura de todas as Partes na Convenção Quadro 
 
 ###### Artigo 46.º — Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas é o Depositário do presente Protocolo.**
+O Secretário-Geral da Organização das Nações Unidas é o Depositário do presente Protocolo.
 
 ###### Artigo 47.º — Textos autênticos
 

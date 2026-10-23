@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/931/1992/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/931-1992-232156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7b38b3732bd90e3ad7588ecc4aa964b201222dc4a340ffe71cbedccf1055803
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1f6d095c6014a33a0d320d714879e6b5ee52dc43924f2c5ba24ec35ad666b7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:01Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +134,10 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 19 de Agosto de 1992.**
+Assinada em 19 de Agosto de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social. José Albino da Silva Peneda.
 
 Mapa a que se refere o n.º 1.º da Portaria n.º 931/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/222b00/45284528.pdf))](https://files.diariodarepublica.pt/1s/1992/09/222b00/45284528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/222b00/45284528.pdf)

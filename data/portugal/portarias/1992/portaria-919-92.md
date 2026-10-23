@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/919/1992/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/919-1992-234125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c8447ec1ab32306b0d40920a9d4c6f826b6502b99ceed71bb7b338755d437ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67b4547bcb8162b4dbd7660c2af1173910dce79a202c0854274941ccf5552c23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Centro Regional de Segurança Social
 - Pessoal Técnico Superior de Serviço Social
-- Vila Real
 - Quadro de Pessoal
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:300056:por
@@ -83,16 +83,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1178/1991/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1178/1991/11/21/p/dre
+- type: cites
+  target: pt:dre:321495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:44Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +147,10 @@ Manda o Governo pelos Ministros das Finanças e do Emprego e da Segurança Socia
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 19 de Agosto de 1992.**
+Assinada em 19 de Agosto de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Mapa a que se refere o n.º 1.º, da Portaria n.º 919/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/220b00/45054506.pdf))](https://files.diariodarepublica.pt/1s/1992/09/220b00/45054506.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220b00/45054506.pdf)

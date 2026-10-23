@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/54/2015/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/54-2015-67283028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 344043072b56220d022747b34f38f0fb8ecb9d20a65bcda940b520b8d7c49ba7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 608395ad0550e15f908a99ff5d15db4b630c38acfe758544eff4561dd0e06417
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,51 +69,57 @@ subjects:
 - Acordo
 - Acordo CE
 - Assistência Mútua
+- Branqueamento de Capitais
+- Bruxelas
 - CE Países
+- Circulação de Mercadorias
 - Circulação de Pessoas
+- Combate à Droga
 - Combate à Fraude
 - Combate ao Terrorismo
 - Comunicação Social
 - Comunicações Eletrónicas
+- Controlo Sanitário
 - Convenção
 - Cooperação
 - Cooperação Aduaneira
-- Cooperação Comercial
-- Cooperação Diplomática
-- Cooperação Financeira
-- Cooperação Jurídica
-- Cooperação Técnica
-- Cooperação Transfronteira
-- Corrupção
-- Portugal
-- Crime Organizado
-- Controlo Sanitário
-- Combate à Droga
-- Migração
-- Energia Nuclear
-- União Europeia
-- Euratom
-- Cooperação Policial
-- Pesca
-- Branqueamento de Capitais
-- Geórgia
-- Cooperação Tecnológica
-- Segurança Internacional
-- Circulação de Mercadorias
 - Cooperação Agrícola
 - Cooperação Científica
+- Cooperação Comercial
 - Cooperação Cultural
+- Cooperação Diplomática
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Internacional
 - Cooperação Judiciária
+- Cooperação Jurídica
+- Cooperação Policial
+- Cooperação Técnica
+- Cooperação Tecnológica
+- Cooperação Transfronteira
+- Corrupção
+- Crime Organizado
 - Energia
+- Energia Nuclear
+- Euratom
+- Geórgia
+- Migração
+- Pequenas e Médias Empresas
+- Pesca
+- PME
+- Portugal
 - Propriedade Intelectual
 - Proteção do Consumidor
-- Pequenas e Médias Empresas
-- PME
-- Bruxelas
+- Segurança Internacional
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:67283027:por
+  label: Ratificado o Acordo de Associação pelo(a) Decreto do Presidente da República n.º 32/2015 - Diário da República n.º
+    99/2015, Série I de 2015-05-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-2015-67283027
+  date: '2015-05-22'
 - type: cites
   target: celex:31977L0091
   label: null
@@ -1339,15 +1345,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/
 article_structure:
-  article_count: 690
-  section_count: 210
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 585
+  section_count: 188
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:57Z'
   warnings: []
   errors: []
 ---
@@ -1360,7 +1366,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de abril de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO DE ASSOCIAÇÃO ENTRE A UNIÃO EUROPEIA E A COMUNIDADE EUROPEIA DA ENERGIA ATÓMICA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A GEÓRGIA, POR OUTRO.
 
@@ -6068,7 +6074,7 @@ Os termos ou conceitos fiscais constantes da alínea f) do presente parágrafo e
 
 Em fé do que, os Plenipotenciários abaixo-assinados, devidamente autorizados para o efeito, apuseram as suas assinaturas no presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO I — Liberdade, segurança e justiça
 
@@ -6078,17 +6084,17 @@ As Partes devem, no contexto da aplicação do presente Acordo ou de outros acor
 
 ## ANEXO II-A — Produtos sujeitos a contingentes pautais anuais com isenção de direitos (União)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO II-B — Produtos sujeitos a preços de entrada (1) para os quais a componente ad valorem do direito de importação está isenta (União)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 (1) Ver anexo 2 do [Regulamento de Execução (UE) n.º 927/2012](https://data.europa.eu/eli/reg/2012/927/oj?locale=pt) da Comissão, de 9 de outubro de 2012, que altera o anexo I do [Regulamento (CEE) n.º 2658/87](https://data.europa.eu/eli/reg/1987/2658/oj?locale=pt) do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum.
 
 ## ANEXO II-C — Produtos sujeitos ao mecanismo de antievasão (União)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO III — Aproximação
 
@@ -6200,7 +6206,7 @@ A lista a seguir apresentada define os «princípios e práticas horizontais est
 
 ## ANEXO IV-A — Medidas sanitárias e fitossanitárias (SFS)
 
-# Parte 1
+Parte 1
 
 Medidas aplicáveis às principais categorias de animais vivos
 
@@ -6238,7 +6244,7 @@ XVI. Outros vertebrados
 
 XVII. Abelhas
 
-# Parte 2
+Parte 2
 
 Medidas aplicáveis aos produtos animais
 
@@ -6270,17 +6276,17 @@ I. Principais categorias de produtos animais destinados ao consumo humano
 
 II. Principais categorias de subprodutos animais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 III. Agentes patogénicos
 
-# Parte 3
+Parte 3
 
 Vegetais, produtos vegetais e outros objetos
 
 Vegetais, produtos vegetais e outros objetos (1) que são potenciais portadores de pragas que, pela sua natureza ou pela natureza da transformação a que foram submetidos, podem criar um risco de introdução e propagação de pragas.
 
-# Parte 4
+Parte 4
 
 Medidas aplicáveis aos aditivos alimentares e aos aditivos para a alimentação animal
 
@@ -6490,7 +6496,7 @@ Condições e disposições para a aprovação provisória de estabelecimentos
 
 2.2 - Estabelecimentos aprovados ou registados que produzem subprodutos animais e principais categorias de subprodutos animais não destinados ao consumo humano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 3 - A Parte de importação deve elaborar listas dos estabelecimentos aprovados provisoriamente, referidos nos pontos 2.1 e 2.2, e torná-las acessíveis ao público.
 
@@ -6610,11 +6616,11 @@ B. Frequência dos controlos físicos
 
 B.1. Importação de animais e de produtos animais da Geórgia para a União Europeia e da União Europeia para a Geórgia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 B.2. Importação de géneros alimentícios não animais da Geórgia para a União Europeia e da União Europeia para a Geórgia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 B.3. Importações na União Europeia ou na Geórgia de vegetais, produtos vegetais e outros objetos
 
@@ -6690,7 +6696,7 @@ O certificado sanitário deve ser elaborado em georgiano em, pelo menos, uma das
 
 ## ANEXO XI-A — Princípios para a avaliação dos progressos realizados no processo de aproximação para efeitos do reconhecimento da equivalência
 
-# Parte I - Aproximação gradual
+Parte I - Aproximação gradual
 
 1 - Regras gerais
 
@@ -6752,7 +6758,7 @@ f) Organismos geneticamente modificados:
 
 - Géneros alimentícios e alimentos para animais geneticamente modificados.
 
-# Parte II - Avaliação
+Parte II - Avaliação
 
 1 - Procedimento e método
 
@@ -6774,7 +6780,7 @@ Quadro de correspondência
 
 ENTRE
 
-## Título do ato da UE, últimas alterações incorporadas:
+Título do ato da UE, últimas alterações incorporadas:
 
 E
 
@@ -6784,7 +6790,7 @@ Data de publicação:
 
 Data de implementação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 (1) Os examinadores devem ser peritos designados pela Comissão Europeia.
 
@@ -6858,7 +6864,7 @@ Geórgia
 
 São utilizadas as seguintes abreviaturas para efeito dos anexos XIV-A, XIV-B, XIV-C e XIV-D:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO XIV-A — Lista de reservas em matéria de estabelecimento (União)
 
@@ -7368,7 +7374,7 @@ b) Por «CPC ver. 1.0» entende-se a Classificação Central de Produtos, tal co
 
 7. Modo 1 e Modo 2 referem-se aos meios de prestação de serviços tal como descritos no artigo 77.º, alínea m), subalíneas i) e ii), do presente Acordo, respetivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO XIV-C — Lista de reservas em matéria de pessoal-chave, estagiários de nível pós-universitário e vendedores de serviços às empresas (União)
 
@@ -7402,7 +7408,7 @@ b) Por «CPC ver. 1.0» entende-se a Classificação Central de Produtos, tal co
 
 9. Os direitos e as obrigações resultantes da lista de compromissos infra não têm um efeito auto-executório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO XIV-D — Lista de reservas em matéria de prestadores de serviços por contrato e profissionais independentes (União)
 
@@ -7488,7 +7494,7 @@ e) Serviços de consultoria de gestão e serviços relacionados com a consultori
 
 f) Serviços de tradução;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO XIV-E — Lista de reservas em matéria de estabelecimento (Geórgia) (1)
 
@@ -7650,7 +7656,7 @@ Não consolidado para subvenções
 
 Reservas setoriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO XIV-G — Lista de reservas em matéria de pessoal-chave, estagiários de nível pós-universitário e vendedores de serviços às empresas (1) (Geórgia)
 
@@ -7682,7 +7688,7 @@ A Geórgia não assume nenhum compromisso em matéria de pessoal-chave, estagiá
 
 Reservas setoriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO XIV-H — Lista de reservas em matéria de prestadores de serviços por contrato e profissionais independentes(1) (Geórgia)
 
@@ -7736,7 +7742,7 @@ i) Outros serviços às empresas (CPC 879)
 
 Reservas setoriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO XV — Aproximação
 
@@ -8154,7 +8160,7 @@ e) 400 000 EUR no caso de contratos públicos de fornecimento e de serviços no 
 
 ## ANEXO XVI-B — Calendário indicativo para a reforma institucional, a aproximação e o acesso ao mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO XVI-C — Elementos básicos da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt) do Parlamento Europeu e do Conselho (1)
 
@@ -8162,85 +8168,91 @@ e) 400 000 EUR no caso de contratos públicos de fornecimento e de serviços no 
 
 ## TÍTULO I — Definições e princípios gerais
 
-###### Artigo 1.º Definições [n.os 1, 2, 8, 9, 11, alíneas a), b) e d), 12, 13, 14 e 15]
+Artigo 1.º Definições [n.os 1, 2, 8, 9, 11, alíneas a), b) e d), 12, 13, 14 e 15]
 
-###### Artigo 2.º Princípios de adjudicação dos contratos
+Artigo 2.º Princípios de adjudicação dos contratos
 
-###### Artigo 3.º Concessão de direitos especiais ou ex-clusivos: cláusula de não discriminação
+Artigo 3.º Concessão de direitos especiais ou ex-clusivos: cláusula de não discriminação
 
 ## TÍTULO II — Regras aplicáveis aos contratos públicos
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 4.º Operadores económicos — Artigo 6.º Confidencialidade
+###### Artigo 4.º Operadores económicos
+
+###### Artigo 6.º Confidencialidade
 
 ### CAPÍTULO II — Âmbito de aplicação
 
 #### Secção 1 - Limiares — Artigo 8.º Contratos subsidiados em mais de 50 % pelas autoridades adjudicantes
 
-###### Artigo 9.º Métodos de cálculo do valor estimado dos contratos públicos, dos acordos-quadro e dos sistemas de aquisição dinâmicos
+Artigo 9.º Métodos de cálculo do valor estimado dos contratos públicos, dos acordos-quadro e dos sistemas de aquisição dinâmicos
 
 #### Secção 2 - Situações específicas — Artigo 10.º Contratos no domínio da defesa
 
 #### Secção 3 - Contratos excluídos
 
-###### Artigo 12.º Contratos adjudicados nos setores da água, da energia, dos transportes e dos serviços postais (apenas após a aproximação das regras básicas da [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?locale=pt))
+Artigo 12.º Contratos adjudicados nos setores da água, da energia, dos transportes e dos serviços postais (apenas após a aproximação das regras básicas da [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?locale=pt))
 
-###### Artigo 13.º Exclusões específicas no domínio das telecomunicações
+Artigo 13.º Exclusões específicas no domínio das telecomunicações
 
-###### Artigo 14.º Contratos secretos ou que exigem medidas de segurança especiais
+Artigo 14.º Contratos secretos ou que exigem medidas de segurança especiais
 
-###### Artigo 15.º Contratos adjudicados ao abrigo de regras internacionais
+Artigo 15.º Contratos adjudicados ao abrigo de regras internacionais
 
-###### Artigo 16.º Exclusões específicas
+Artigo 16.º Exclusões específicas
 
-###### Artigo 18.º Contratos de serviços adjudicados com base num direito exclusivo
+Artigo 18.º Contratos de serviços adjudicados com base num direito exclusivo
 
-#### Secção 4 - Regime especial — Artigo 19.º Contratos reservados
+#### Secção 4 - Regime especial
+
+###### Artigo 19.º Contratos reservados
 
 ### CAPÍTULO III — Regimes aplicáveis aos contratos públicos de serviços
 
-###### Artigo 20.º Contratos de serviços enumerados no anexo ii-A
+Artigo 20.º Contratos de serviços enumerados no anexo ii-A
 
-###### Artigo 21.º Contratos de serviços enumerados no anexo ii-B
+Artigo 21.º Contratos de serviços enumerados no anexo ii-B
 
-###### Artigo 22.º Contratos mistos que incluam serviços enumerados no anexo ii-A e serviços enumerados no anexo ii-B
+Artigo 22.º Contratos mistos que incluam serviços enumerados no anexo ii-A e serviços enumerados no anexo ii-B
 
 ### CAPÍTULO IV — Regras específicas relativas ao caderno de encargos e aos documentos do contrato
 
-###### Artigo 23.º Especificações técnicas
+Artigo 23.º Especificações técnicas
 
-###### Artigo 24.º Variantes — Artigo 25.º Subcontratação
+###### Artigo 24.º Variantes
 
-###### Artigo 26.º Condições de execução dos contratos
+###### Artigo 25.º Subcontratação
 
-###### Artigo 27.º Obrigações relativas à fiscalidade, à proteção do ambiente e às disposições em matéria de proteção e condições de trabalho
+Artigo 26.º Condições de execução dos contratos
+
+Artigo 27.º Obrigações relativas à fiscalidade, à proteção do ambiente e às disposições em matéria de proteção e condições de trabalho
 
 ### CAPÍTULO V — Procedimentos
 
-###### Artigo 28.º Utilização de concursos públicos, concursos limitados, procedimentos por negociação e diálogo concorrencial
+Artigo 28.º Utilização de concursos públicos, concursos limitados, procedimentos por negociação e diálogo concorrencial
 
-###### Artigo 30.º Casos que justificam o recurso ao procedimento por negociação com publicação de anúncio de concurso
+Artigo 30.º Casos que justificam o recurso ao procedimento por negociação com publicação de anúncio de concurso
 
-###### Artigo 31.º Casos que justificam o recurso ao procedimento por negociação sem publicação de anúncio de concurso
+Artigo 31.º Casos que justificam o recurso ao procedimento por negociação sem publicação de anúncio de concurso
 
 ### CAPÍTULO VI — Regras de publicidade e de transparência
 
-#### Secção 1 - Publicação dos anúncios
+Secção 1 - Publicação dos anúncios
 
-###### Artigo 35.º Anúncios: n.º 1 mutatis mutandis; n.º 2; n.º 4, primeiro, terceiro e quarto parágrafos
+Artigo 35.º Anúncios: n.º 1 mutatis mutandis; n.º 2; n.º 4, primeiro, terceiro e quarto parágrafos
 
-###### Artigo 36.º Redação e modalidades de publicação dos anúncios: n.º 1; n.º 7
+Artigo 36.º Redação e modalidades de publicação dos anúncios: n.º 1; n.º 7
 
 #### Secção 2 - Prazos — Artigo 38.º Prazos de receção dos pedidos de participação e de receção das propostas
 
-###### Artigo 39.º Concursos públicos: cadernos de encargos, documentos e informações complementares
+Artigo 39.º Concursos públicos: cadernos de encargos, documentos e informações complementares
 
-#### Secção 3 - Conteúdo e meios de transmissão das informações
+Secção 3 - Conteúdo e meios de transmissão das informações
 
-###### Artigo 40.º Convites para apresentação de propostas, participação no diálogo ou negociação
+Artigo 40.º Convites para apresentação de propostas, participação no diálogo ou negociação
 
-###### Artigo 41.º Informação dos candidatos e dos proponentes
+Artigo 41.º Informação dos candidatos e dos proponentes
 
 #### Secção 4 - Comunicações — Artigo 42.º Regras aplicáveis às comunicações
 
@@ -8248,45 +8260,47 @@ e) 400 000 EUR no caso de contratos públicos de fornecimento e de serviços no 
 
 #### Secção 1 - Disposições gerais — Artigo 44.º Verificação da aptidão, seleção dos participantes e adjudicação dos contratos
 
-#### Secção 2 - Critérios de seleção qualitativa
+Secção 2 - Critérios de seleção qualitativa
 
-###### Artigo 45.º Situação pessoal do candidato ou do proponente
+Artigo 45.º Situação pessoal do candidato ou do proponente
 
-###### Artigo 46.º Habilitação para o exercício da atividade profissional
+Artigo 46.º Habilitação para o exercício da atividade profissional
 
-###### Artigo 47.º Capacidade económica e financeira
+Artigo 47.º Capacidade económica e financeira
 
-###### Artigo 48.º Capacidade técnica e/ou profissional
+Artigo 48.º Capacidade técnica e/ou profissional
 
-###### Artigo 49.º Normas de garantia de qualidade
+Artigo 49.º Normas de garantia de qualidade
 
-###### Artigo 50.º Normas de gestão ambiental
+Artigo 50.º Normas de gestão ambiental
 
-###### Artigo 51.º Documentação e informações complementares
+Artigo 51.º Documentação e informações complementares
 
-#### Secção 3 - Adjudicação do contrato
+Secção 3 - Adjudicação do contrato
 
-###### Artigo 53.º Critérios de adjudicação
+Artigo 53.º Critérios de adjudicação
 
-###### Artigo 55.º Propostas anormalmente baixas
+Artigo 55.º Propostas anormalmente baixas
 
 ANEXOS da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt)
 
-## Anexo I Lista das atividades referidas no artigo 1.º, n.º 2, alínea b)
+Anexo I Lista das atividades referidas no artigo 1.º, n.º 2, alínea b)
 
-## Anexo II Serviços referidos no artigo 1.º, n.º 2, alínea d)
+Anexo II Serviços referidos no artigo 1.º, n.º 2, alínea d)
 
-## Anexo II-A — Anexo II-B
+## Anexo II-A
 
-## Anexo V Lista dos produtos a que se refere o artigo 7.º, relativamente aos contratos celebrados por entidades adjudicantes no domínio da defesa
+## Anexo II-B
 
-## Anexo VI Definição de determinadas especificações técnicas
+Anexo V Lista dos produtos a que se refere o artigo 7.º, relativamente aos contratos celebrados por entidades adjudicantes no domínio da defesa
 
-## Anexo VII Informações que devem constar dos anúncios
+Anexo VI Definição de determinadas especificações técnicas
 
-## Anexo VII-A Informações que devem constar dos anúncios de concurso
+Anexo VII Informações que devem constar dos anúncios
 
-## Anexo X Exigências relativas aos dispositivos de receção eletrónica de propostas, de pedidos de participação ou de planos e projetos nos concursos para trabalhos de conceção
+Anexo VII-A Informações que devem constar dos anúncios de concurso
+
+Anexo X Exigências relativas aos dispositivos de receção eletrónica de propostas, de pedidos de participação ou de planos e projetos nos concursos para trabalhos de conceção
 
 (1) [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt) do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços.
 
@@ -8294,11 +8308,13 @@ ANEXOS da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale
 
 (Fase 2)
 
-###### Artigo 1.º Âmbito de aplicação e acesso ao recurso
+Artigo 1.º Âmbito de aplicação e acesso ao recurso
 
-###### Artigo 2.º Requisitos do recurso — Artigo 2.º-A Prazo suspensivo
+###### Artigo 2.º Requisitos do recurso
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+###### Artigo 2.º-A Prazo suspensivo
+
+Artigo 2.º-B Exceções ao prazo suspensivo
 
 ###### Artigo 2.º-B, n.º 1, alínea b) — Artigo 2.º-C Prazos para interposição de recurso
 
@@ -8306,7 +8322,7 @@ ANEXOS da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale
 
 N.os 2 e 3
 
-###### Artigo 2.º-E Violação da presente diretiva e sanções alternativas
+Artigo 2.º-E Violação da presente diretiva e sanções alternativas
 
 ###### Artigo 2.º-F Prazos
 
@@ -8322,125 +8338,135 @@ N.os 2 e 3
 
 ### CAPÍTULO I — Termos de base
 
-###### Artigo 1.º Definições (n.os 2, 7, 9, 11, 12 e 13)
+Artigo 1.º Definições (n.os 2, 7, 9, 11, 12 e 13)
 
 ### CAPÍTULO II — Definição das entidades e atividades abrangidas
 
-#### Secção 1 - Entidades — Artigo 2.º Entidades adjudicantes
+#### Secção 1 - Entidades
+
+###### Artigo 2.º Entidades adjudicantes
 
 #### Secção 2 - Atividades — Artigo 3.º Gás, combustível para aquecimento e eletricidade
 
-###### Artigo 4.º Água — Artigo 5.º Serviços de transporte
+###### Artigo 4.º Água
+
+###### Artigo 5.º Serviços de transporte
 
 ###### Artigo 6.º Serviços postais — Artigo 7.º Disposições relativas à pesquisa ou extração de petróleo, gás, carvão e outros combustíveis sólidos, assim como aos portos e aeroportos
 
-###### Artigo 9.º Contratos que abrangem várias atividades
+Artigo 9.º Contratos que abrangem várias atividades
 
 ### CAPÍTULO III — Princípios gerais
 
-###### Artigo 10.º Princípios de adjudicação dos contratos
+Artigo 10.º Princípios de adjudicação dos contratos
 
 ## TÍTULO II — Disposições aplicáveis aos contratos
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 11.º Operadores económicos
+Artigo 11.º Operadores económicos
 
-###### Artigo 13.º Confidencialidade — CAPÍTULO II
+###### Artigo 13.º Confidencialidade
+
+### CAPÍTULO II
 
 Limiares e exclusões
 
 #### Secção 1 - Limiares — Artigo 16.º Montantes dos limiares dos contratos
 
-###### Artigo 17.º Métodos de cálculo do valor estimado dos contratos, dos acordos-quadro e dos sistemas de aquisição dinâmicos
+Artigo 17.º Métodos de cálculo do valor estimado dos contratos, dos acordos-quadro e dos sistemas de aquisição dinâmicos
 
-#### Secção 2 - Contratos e concessões e contratos sujeitos a regime especial
+Secção 2 - Contratos e concessões e contratos sujeitos a regime especial
 
-##### Subsecção 2 - Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
+Subsecção 2 - Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
 
-###### Artigo 19.º Contratos celebrados para efeitos de revenda ou locação a terceiros
+Artigo 19.º Contratos celebrados para efeitos de revenda ou locação a terceiros
 
-###### Artigo 20.º Contratos celebrados com fins que não correspondam à prossecução de uma atividade abrangida ou à prossecução em países terceiros de uma atividade abrangida: n.º 1
+Artigo 20.º Contratos celebrados com fins que não correspondam à prossecução de uma atividade abrangida ou à prossecução em países terceiros de uma atividade abrangida: n.º 1
 
-###### Artigo 21.º Contratos secretos ou que exigem medidas de segurança especiais
+Artigo 21.º Contratos secretos ou que exigem medidas de segurança especiais
 
-###### Artigo 22.º Contratos adjudicados ao abrigo de regras internacionais
+Artigo 22.º Contratos adjudicados ao abrigo de regras internacionais
 
-###### Artigo 23.º Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante que integre uma empresa comum
+Artigo 23.º Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante que integre uma empresa comum
 
-##### Subsecção 3 - Exclusões aplicáveis a todas as entidades adjudicantes, mas apenas aos contratos de serviços
+Subsecção 3 - Exclusões aplicáveis a todas as entidades adjudicantes, mas apenas aos contratos de serviços
 
-###### Artigo 24.º Contratos relativos a certos serviços excluídos do âmbito de aplicação da presente diretiva
+Artigo 24.º Contratos relativos a certos serviços excluídos do âmbito de aplicação da presente diretiva
 
-###### Artigo 25.º Contratos de serviços adjudicados com base num direito exclusivo
+Artigo 25.º Contratos de serviços adjudicados com base num direito exclusivo
 
-##### Subsecção 4 - Exclusões unicamente aplicáveis a certas entidades adjudicantes
+Subsecção 4 - Exclusões unicamente aplicáveis a certas entidades adjudicantes
 
-###### Artigo 26.º Contratos adjudicados por certas entidades adjudicantes para aquisição de água e para fornecimento de energia ou de combustíveis destinados à produção de energia
+Artigo 26.º Contratos adjudicados por certas entidades adjudicantes para aquisição de água e para fornecimento de energia ou de combustíveis destinados à produção de energia
 
 ### CAPÍTULO III — Regras aplicáveis aos contratos de serviços
 
-###### Artigo 31.º Contratos de serviços enumerados no anexo xvii-A
+Artigo 31.º Contratos de serviços enumerados no anexo xvii-A
 
-###### Artigo 32.º Contratos de serviços enumerados no anexo xvii-B
+Artigo 32.º Contratos de serviços enumerados no anexo xvii-B
 
-###### Artigo 33.º Contratos mistos que incluam serviços enumerados no anexo xvii-A e serviços enumerados no anexo xvii-B
+Artigo 33.º Contratos mistos que incluam serviços enumerados no anexo xvii-A e serviços enumerados no anexo xvii-B
 
 ### CAPÍTULO IV — Regras específicas relativas ao caderno de encargos e aos documentos do contrato
 
-###### Artigo 34.º Especificações técnicas
+Artigo 34.º Especificações técnicas
 
-###### Artigo 35.º Comunicação das especificações técnicas
+Artigo 35.º Comunicação das especificações técnicas
 
-###### Artigo 36.º Variantes — Artigo 37.º Subcontratação
+###### Artigo 36.º Variantes
 
-###### Artigo 39.º Obrigações relativas à fiscalidade, à proteção do ambiente e às disposições em matéria de proteção e condições de trabalho
+###### Artigo 37.º Subcontratação
+
+Artigo 39.º Obrigações relativas à fiscalidade, à proteção do ambiente e às disposições em matéria de proteção e condições de trabalho
 
 ### CAPÍTULO V — Procedimentos
 
-###### Artigo 40.º Utilização de concursos públicos, concursos limitados e procedimentos por negociação [exceto n.º 3, alíneas i) e l)]
+Artigo 40.º Utilização de concursos públicos, concursos limitados e procedimentos por negociação [exceto n.º 3, alíneas i) e l)]
 
 ### CAPÍTULO VI — Regras de publicidade e de transparência
 
-#### Secção 1 - Publicação dos anúncios
+Secção 1 - Publicação dos anúncios
 
-###### Artigo 41.º Anúncios periódicos indicativos e anúncios relativos à existência de um sistema de qualificação
+Artigo 41.º Anúncios periódicos indicativos e anúncios relativos à existência de um sistema de qualificação
 
-###### Artigo 42.º Anúncios utilizados como meio de abertura de concurso, n.os 1 e 3
+Artigo 42.º Anúncios utilizados como meio de abertura de concurso, n.os 1 e 3
 
-###### Artigo 43.º Anúncios de adjudicação (exceto no que respeita ao n.º 1, segundo e terceiro parágrafos)
+Artigo 43.º Anúncios de adjudicação (exceto no que respeita ao n.º 1, segundo e terceiro parágrafos)
 
-###### Artigo 44.º Redação e modalidades de publicação dos anúncios (exceto no que respeita ao n.º 2, primeiro parágrafo e n.os 4, 5 e 7)
+Artigo 44.º Redação e modalidades de publicação dos anúncios (exceto no que respeita ao n.º 2, primeiro parágrafo e n.os 4, 5 e 7)
 
 #### Secção 2 - Prazos — Artigo 45.º Prazos de receção dos pedidos de participação e de receção das propostas
 
-###### Artigo 46.º Concursos públicos: cadernos de encargos, documentos e informações complementares
+Artigo 46.º Concursos públicos: cadernos de encargos, documentos e informações complementares
 
-###### Artigo 47.º Convites para apresentação de propostas ou para negociação
+Artigo 47.º Convites para apresentação de propostas ou para negociação
 
-#### Secção 3 - Comunicações e informações
+Secção 3 - Comunicações e informações
 
-###### Artigo 48.º Regras aplicáveis às comunicações
+Artigo 48.º Regras aplicáveis às comunicações
 
-###### Artigo 49.º Informação dos requerentes de qualificação, dos candidatos e dos proponentes
+Artigo 49.º Informação dos requerentes de qualificação, dos candidatos e dos proponentes
 
 ### CAPÍTULO VII — Desenrolar do processo
 
-###### Artigo 51.º Disposições gerais — Secção 1 - Qualificação e seleção qualitativa
+###### Artigo 51.º Disposições gerais
 
-###### Artigo 52.º Reconhecimento mútuo em matéria de condições administrativas, técnicas ou financeiras, bem como relativamente a certificados, testes e justificações
+#### Secção 1 - Qualificação e seleção qualitativa
 
-###### Artigo 54.º Critérios de seleção qualitativa
+Artigo 52.º Reconhecimento mútuo em matéria de condições administrativas, técnicas ou financeiras, bem como relativamente a certificados, testes e justificações
 
-#### Secção 2 - Adjudicação do contrato
+Artigo 54.º Critérios de seleção qualitativa
 
-###### Artigo 55.º Critérios de adjudicação
+Secção 2 - Adjudicação do contrato
 
-###### Artigo 57.º Propostas anormalmente baixas
+Artigo 55.º Critérios de adjudicação
+
+Artigo 57.º Propostas anormalmente baixas
 
 ANEXOS da [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?locale=pt)
 
-## ANEXO XIII Informações que devem constar dos anúncios de concurso:
+ANEXO XIII Informações que devem constar dos anúncios de concurso:
 
 A. Concursos públicos
 
@@ -8448,25 +8474,25 @@ B. Concursos limitados
 
 C. Procedimentos por negociação
 
-## ANEXO XIV Informações que devem constar dos anúncios relativos à existência de um sistema de qualificação
+ANEXO XIV Informações que devem constar dos anúncios relativos à existência de um sistema de qualificação
 
-## ANEXO XV-A Informações que devem constar dos anúncios indicativos periódicos
+ANEXO XV-A Informações que devem constar dos anúncios indicativos periódicos
 
-## ANEXO XV-B Informações que devem constar do anúncio de publicação no perfil de adquirente de um anúncio periódico não utilizado como meio de abertura de concurso
+ANEXO XV-B Informações que devem constar do anúncio de publicação no perfil de adquirente de um anúncio periódico não utilizado como meio de abertura de concurso
 
-## ANEXO XVI Informações que devem constar dos anúncios de adjudicação
+ANEXO XVI Informações que devem constar dos anúncios de adjudicação
 
-## ANEXO XVII-A Serviços na aceção do artigo 31.º
+ANEXO XVII-A Serviços na aceção do artigo 31.º
 
-## ANEXO XVII-B Serviços na aceção do artigo 32.º
+ANEXO XVII-B Serviços na aceção do artigo 32.º
 
-## ANEXO XX Características relativas à publicação
+ANEXO XX Características relativas à publicação
 
-## ANEXO XXI Definição de determinadas especificações técnicas
+ANEXO XXI Definição de determinadas especificações técnicas
 
-## ANEXO XXIII Disposições internacionais de direito laboral a que se refere o artigo 59.º, n.º 4
+ANEXO XXIII Disposições internacionais de direito laboral a que se refere o artigo 59.º, n.º 4
 
-## ANEXO XXIV Exigências relativas aos dispositivos de receção eletrónica de propostas, de pedidos de participação, de pedidos de qualificação ou de planos e projetos nos concursos para trabalhos de conceção
+ANEXO XXIV Exigências relativas aos dispositivos de receção eletrónica de propostas, de pedidos de participação, de pedidos de qualificação ou de planos e projetos nos concursos para trabalhos de conceção
 
 (1) [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?locale=pt) do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação de contratos nos setores da água, da energia, dos transportes e dos serviços postais.
 
@@ -8474,11 +8500,13 @@ C. Procedimentos por negociação
 
 (Fase 3)
 
-###### Artigo 1.º Âmbito de aplicação e acesso ao recurso
+Artigo 1.º Âmbito de aplicação e acesso ao recurso
 
-###### Artigo 2.º Requisitos do recurso — Artigo 2.º-A Prazo suspensivo
+###### Artigo 2.º Requisitos do recurso
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+###### Artigo 2.º-A Prazo suspensivo
+
+Artigo 2.º-B Exceções ao prazo suspensivo
 
 ###### Artigo 2.º-B, n.º 1, alínea b) — Artigo 2.º-C Prazos para interposição de recurso
 
@@ -8486,7 +8514,7 @@ C. Procedimentos por negociação
 
 N.os 2 e 3
 
-###### Artigo 2.º-E Violação da presente diretiva e sanções alternativas
+Artigo 2.º-E Violação da presente diretiva e sanções alternativas
 
 ###### Artigo 2.º-F Prazos
 
@@ -8502,7 +8530,7 @@ Os elementos da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?
 
 ## TÍTULO I — Definições e princípios gerais
 
-###### Artigo 1.º Definições [n.os 5, 6, 7, 10 e 11, alínea c)]
+Artigo 1.º Definições [n.os 5, 6, 7, 10 e 11, alínea c)]
 
 ## TÍTULO II — Regras aplicáveis aos contratos públicos
 
@@ -8510,31 +8538,33 @@ Os elementos da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?
 
 #### Secção 2 - Situações específicas — Artigo 11.º Contratos públicos e acordos-quadro celebrados por centrais de compras
 
-#### Secção 4 - Regime especial — Artigo 19.º Contratos reservados
+#### Secção 4 - Regime especial
+
+###### Artigo 19.º Contratos reservados
 
 ### CAPÍTULO V — Procedimentos
 
-###### Artigo 29.º Diálogo concorrencial
+Artigo 29.º Diálogo concorrencial
 
 ###### Artigo 32.º Acordos-quadro — Artigo 33.º Sistemas de aquisição dinâmicos
 
-###### Artigo 34.º Contratos de empreitada de obras públicas: regras particulares respeitantes à construção de habitações sociais
+Artigo 34.º Contratos de empreitada de obras públicas: regras particulares respeitantes à construção de habitações sociais
 
 ### CAPÍTULO VI — Regras de publicidade e de transparência
 
-#### Secção 1 - Publicação dos anúncios
+Secção 1 - Publicação dos anúncios
 
-###### Artigo 35.º Anúncios: n.º 3 e n.º 4, segundo e terceiro parágrafos
+Artigo 35.º Anúncios: n.º 3 e n.º 4, segundo e terceiro parágrafos
 
 ### CAPÍTULO VII — Evolução do processo
 
-#### Secção 2 - Critérios de seleção qualitativa
+Secção 2 - Critérios de seleção qualitativa
 
-###### Artigo 52.º Listas oficiais de operadores económicos aprovados e certificação por organismos de direito público ou privado
+Artigo 52.º Listas oficiais de operadores económicos aprovados e certificação por organismos de direito público ou privado
 
-#### Secção 3 - Adjudicação do contrato
+Secção 3 - Adjudicação do contrato
 
-###### Artigo 54.º Utilização de leilões eletrónicos
+Artigo 54.º Utilização de leilões eletrónicos
 
 (1) [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt) do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços.
 
@@ -8544,13 +8574,15 @@ Os elementos da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?
 
 ## TÍTULO I — Definições e princípios gerais
 
-###### Artigo 1.º Definições [n.os 3, 4 e 11, alínea e)]
+Artigo 1.º Definições [n.os 3, 4 e 11, alínea e)]
 
 ## TÍTULO II — Regras aplicáveis aos contratos públicos
 
 ### CAPÍTULO II — Âmbito de aplicação
 
-#### Secção 3 - Contratos excluídos — Artigo 17.º Concessões de serviços
+#### Secção 3 - Contratos excluídos
+
+###### Artigo 17.º Concessões de serviços
 
 ## TÍTULO III — Regras no domínio das concessões de obras públicas
 
@@ -8558,43 +8590,53 @@ Os elementos da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?
 
 ###### Artigo 56.º Âmbito de aplicação — Artigo 57.º Exclusões do âmbito de aplicação (exceto o último parágrafo)
 
-###### Artigo 58.º Publicação dos anúncios relativos às concessões de obras públicas
+Artigo 58.º Publicação dos anúncios relativos às concessões de obras públicas
 
-###### Artigo 59.º Prazos — Artigo 60.º Subcontratação
+###### Artigo 59.º Prazos
 
-###### Artigo 61.º Adjudicação de obras complementares ao concessionário
+###### Artigo 60.º Subcontratação
+
+Artigo 61.º Adjudicação de obras complementares ao concessionário
 
 ### CAPÍTULO II — Regras aplicáveis aos contratos celebrados por concessionários que sejam entidades adjudicantes
 
-###### Artigo 62.º Regras aplicáveis — CAPÍTULO III
+###### Artigo 62.º Regras aplicáveis
+
+### CAPÍTULO III
 
 Regras aplicáveis aos contratos celebrados por concessionários que não sejam entidades adjudicantes
 
-###### Artigo 63.º Regras de publicidade: limiar e exceções
+Artigo 63.º Regras de publicidade: limiar e exceções
 
-###### Artigo 64.º Publicação do anúncio
+Artigo 64.º Publicação do anúncio
 
-###### Artigo 65.º Prazos de receção dos pedidos de participação e das propostas
+Artigo 65.º Prazos de receção dos pedidos de participação e das propostas
 
 ## TÍTULO IV — Regras aplicáveis aos concursos para trabalhos de conceção
 
-###### Artigo 66.º Disposições gerais — Artigo 67.º Âmbito de aplicação
+###### Artigo 66.º Disposições gerais
 
-###### Artigo 68.º Exclusões do âmbito de aplicação
+###### Artigo 67.º Âmbito de aplicação
+
+Artigo 68.º Exclusões do âmbito de aplicação
 
 ###### Artigo 69.º Anúncios — Artigo 70.º Redação e modalidades de publicação dos anúncios relativos a concursos para trabalhos de conceção
 
-###### Artigo 71.º Meios de comunicação — Artigo 72.º Seleção dos concorrentes
+###### Artigo 71.º Meios de comunicação
 
-###### Artigo 73.º Composição do júri — Artigo 74.º Decisões do júri
+###### Artigo 72.º Seleção dos concorrentes
+
+###### Artigo 73.º Composição do júri
+
+###### Artigo 74.º Decisões do júri
 
 ANEXOS da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt)
 
-## ANEXO VII-B Informações que devem constar dos anúncios para as concessões de obras públicas
+ANEXO VII-B Informações que devem constar dos anúncios para as concessões de obras públicas
 
-## ANEXO VII-C Informações que devem constar dos anúncios de concurso do concessionário de obras públicas que não seja uma entidade adjudicante
+ANEXO VII-C Informações que devem constar dos anúncios de concurso do concessionário de obras públicas que não seja uma entidade adjudicante
 
-## Anexo VII-D Informações que devem constar dos anúncios para os concursos de serviços
+Anexo VII-D Informações que devem constar dos anúncios para os concursos de serviços
 
 (1) [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt) do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços.
 
@@ -8602,9 +8644,11 @@ ANEXOS da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale
 
 (FASE 4)
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+Artigo 2.º-B Exceções ao prazo suspensivo
 
-###### Artigo 2.º-B, n.º 1, alínea c) — Artigo 2.º-D Privação de efeitos
+###### Artigo 2.º-B, n.º 1, alínea c)
+
+###### Artigo 2.º-D Privação de efeitos
 
 ###### Artigo 2.º-D, n.º 1, alínea c) — N.º 5
 
@@ -8622,7 +8666,7 @@ Os elementos da [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?
 
 ### CAPÍTULO I — Termos de base
 
-###### Artigo 1.º Definições (n.os 4, 5, 6 e 8)
+Artigo 1.º Definições (n.os 4, 5, 6 e 8)
 
 ## TÍTULO II — Disposições aplicáveis aos contratos
 
@@ -8630,33 +8674,33 @@ Os elementos da [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?
 
 ###### Artigo 14.º Acordos-quadro — Artigo 15.º Sistemas de aquisição dinâmicos
 
-#### Secção 2 - Contratos e concessões e contratos sujeitos a regime especial
+Secção 2 - Contratos e concessões e contratos sujeitos a regime especial
 
-##### Subsecção 5 - Contratos sujeitos a regime especial, disposições relativas às centrais de compras e ao procedimento geral em caso de exposição direta à concorrência.
+Subsecção 5 - Contratos sujeitos a regime especial, disposições relativas às centrais de compras e ao procedimento geral em caso de exposição direta à concorrência.
 
 ###### Artigo 28.º Contratos reservados — Artigo 29.º Contratos e acordos-quadro celebrados por centrais de compras
 
 ### CAPÍTULO V — Procedimentos
 
-###### Artigo 40.º, n.º 3, alíneas i) e l)
+Artigo 40.º, n.º 3, alíneas i) e l)
 
 ### CAPÍTULO VI — Regras de publicidade e de transparência
 
-#### Secção 1 - Publicação dos anúncios
+Secção 1 - Publicação dos anúncios
 
-###### Artigo 42.º Anúncios utilizados como meio de abertura de concurso: n.º 2
+Artigo 42.º Anúncios utilizados como meio de abertura de concurso: n.º 2
 
-###### Artigo 43.º Anúncios de adjudicação (apenas para n.º 1, segundo e terceiro parágrafos)
+Artigo 43.º Anúncios de adjudicação (apenas para n.º 1, segundo e terceiro parágrafos)
 
 ### CAPÍTULO VII — Desenrolar do processo
 
-#### Secção 2 - Adjudicação do contrato
+Secção 2 - Adjudicação do contrato
 
-###### Artigo 56.º Utilização de leilões eletrónicos
+Artigo 56.º Utilização de leilões eletrónicos
 
-## ANEXO da [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?locale=pt)
+ANEXO da [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?locale=pt)
 
-## ANEXO XIII Informações que devem constar dos anúncios de concurso:
+ANEXO XIII Informações que devem constar dos anúncios de concurso:
 
 D. Anúncio de contrato simplificado no âmbito de um sistema de aquisição dinâmico
 
@@ -8666,9 +8710,11 @@ D. Anúncio de contrato simplificado no âmbito de um sistema de aquisição din
 
 (Fase 5)
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+Artigo 2.º-B Exceções ao prazo suspensivo
 
-###### Artigo 2.º-B, n.º 1, alínea c) — Artigo 2.º-D Privação de efeitos
+###### Artigo 2.º-B, n.º 1, alínea c)
+
+###### Artigo 2.º-D Privação de efeitos
 
 ###### Artigo 2.º-D, n.º 1, alínea c) — N.º 5
 
@@ -8684,49 +8730,59 @@ Os elementos enumerados no presente anexo não estão sujeitos ao processo de ap
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 5.º Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
+Artigo 5.º Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
 
 ### CAPÍTULO VI — Regras de publicidade e de transparência
 
-#### Secção 1 - Publicação dos anúncios
+Secção 1 - Publicação dos anúncios
 
-###### Artigo 36.º Redação e modalidades de publicação dos anúncios: n.os 2, 3, 4, 5, 6 e 8
+Artigo 36.º Redação e modalidades de publicação dos anúncios: n.os 2, 3, 4, 5, 6 e 8
 
-###### Artigo 37.º Publicação não obrigatória
+Artigo 37.º Publicação não obrigatória
 
-#### Secção 5 - Relatórios — Artigo 43.º Conteúdo dos relatórios
+#### Secção 5 - Relatórios
+
+###### Artigo 43.º Conteúdo dos relatórios
 
 ## TÍTULO V — Obrigações estatísticas, competência de execução e disposições finais
 
-###### Artigo 75.º Obrigações estatísticas
+Artigo 75.º Obrigações estatísticas
 
-###### Artigo 76.º Conteúdo do relatório estatístico
+Artigo 76.º Conteúdo do relatório estatístico
 
-###### Artigo 77.º Comité Consultivo — Artigo 78.º Revisão dos limiares
+###### Artigo 77.º Comité Consultivo
 
-###### Artigo 79.º Modificações — Artigo 80.º Execução
+###### Artigo 78.º Revisão dos limiares
 
-###### Artigo 81.º Mecanismo de acompanhamento
+###### Artigo 79.º Modificações
 
-###### Artigo 82.º Revogações — Artigo 83.º Entrada em vigor
+###### Artigo 80.º Execução
+
+Artigo 81.º Mecanismo de acompanhamento
+
+###### Artigo 82.º Revogações
+
+###### Artigo 83.º Entrada em vigor
 
 ###### Artigo 84.º Destinatários — ANEXOS da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt)
 
-## ANEXO III Lista dos organismos e das categorias de organismos de direito público a que se refere o segundo parágrafo do artigo 1.º, n.º 9
+ANEXO III Lista dos organismos e das categorias de organismos de direito público a que se refere o segundo parágrafo do artigo 1.º, n.º 9
 
-## ANEXO IV Autoridades governamentais centrais
+ANEXO IV Autoridades governamentais centrais
 
-## ANEXO VIII Características relativas à publicação
+ANEXO VIII Características relativas à publicação
 
-## ANEXO IX Registos — ANEXO IX-A Contratos de empreitada de obras públicas
+## ANEXO IX Registos
 
-## ANEXO IX-B Contratos públicos de fornecimento
+## ANEXO IX-A Contratos de empreitada de obras públicas
 
-## ANEXO IX-C Contratos públicos de serviços
+ANEXO IX-B Contratos públicos de fornecimento
 
-## ANEXO XI Prazos de transposição e de aplicação (artigo 80.º)
+ANEXO IX-C Contratos públicos de serviços
 
-## ANEXO XII Quadro de correspondência
+ANEXO XI Prazos de transposição e de aplicação (artigo 80.º)
+
+ANEXO XII Quadro de correspondência
 
 (1) [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt) do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços.
 
@@ -8744,87 +8800,93 @@ Os elementos enumerados no presente anexo não estão sujeitos ao processo de ap
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 12.º Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
+Artigo 12.º Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
 
-#### Secção 2 - Contratos e concessões e contratos sujeitos a regime especial
+Secção 2 - Contratos e concessões e contratos sujeitos a regime especial
 
 ##### Subsecção 1 — Artigo 18.º Concessões de obras ou de serviços
 
-##### Subsecção 2 - Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
+Subsecção 2 - Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
 
-###### Artigo 20.º Contratos celebrados com fins que não correspondam à prossecução de uma atividade abrangida ou à prossecução em países terceiros de uma atividade abrangida: parágrafo 2
+Artigo 20.º Contratos celebrados com fins que não correspondam à prossecução de uma atividade abrangida ou à prossecução em países terceiros de uma atividade abrangida: parágrafo 2
 
-##### Subsecção 5 - Contratos sujeitos a regime especial, disposições relativas às centrais de compras e ao procedimento geral em caso de exposição direta à concorrência.
+Subsecção 5 - Contratos sujeitos a regime especial, disposições relativas às centrais de compras e ao procedimento geral em caso de exposição direta à concorrência.
 
-###### Artigo 27.º Contratos sujeitos a regime especial
+Artigo 27.º Contratos sujeitos a regime especial
 
-###### Artigo 30.º Procedimento para determinar se uma determinada atividade está diretamente exposta à concorrência
+Artigo 30.º Procedimento para determinar se uma determinada atividade está diretamente exposta à concorrência
 
 ### CAPÍTULO IV — Regras específicas relativas ao caderno de encargos e aos documentos do contrato
 
-###### Artigo 38.º Condições de execução do contrato
+Artigo 38.º Condições de execução do contrato
 
 ### CAPÍTULO VI — Regras de publicidade e de transparência
 
-#### Secção 1 - Publicação dos anúncios
+Secção 1 - Publicação dos anúncios
 
-###### Artigo 44.º Redação e modalidades de publicação dos anúncios (apenas para o n.º 2, primeiro parágrafo, e os n.os 4, 5 e 7)
+Artigo 44.º Redação e modalidades de publicação dos anúncios (apenas para o n.º 2, primeiro parágrafo, e os n.os 4, 5 e 7)
 
-#### Secção 3 - Comunicações e informações
+Secção 3 - Comunicações e informações
 
-###### Artigo 50.º Informações a conservar sobre as adjudicações
+Artigo 50.º Informações a conservar sobre as adjudicações
 
 ### CAPÍTULO VII — Desenrolar do processo
 
-#### Secção 3 - Propostas que englobam produtos originários de países terceiros e relações com esses países
+Secção 3 - Propostas que englobam produtos originários de países terceiros e relações com esses países
 
-###### Artigo 58.º Propostas que englobam produtos originários de países terceiros
+Artigo 58.º Propostas que englobam produtos originários de países terceiros
 
-###### Artigo 59.º Relações com os países terceiros em matéria de contratos de serviços
+Artigo 59.º Relações com os países terceiros em matéria de contratos de serviços
 
 ## TÍTULO IV — Obrigações estatísticas, competência de execução e disposições finais
 
-###### Artigo 67.º Obrigações estatísticas
+Artigo 67.º Obrigações estatísticas
 
-###### Artigo 68.º Comité Consultivo — Artigo 69.º Revisão dos limiares
+###### Artigo 68.º Comité Consultivo
 
-###### Artigo 70.º Modificações — Artigo 71.º Execução
+###### Artigo 69.º Revisão dos limiares
 
-###### Artigo 72.º Mecanismo de acompanhamento
+###### Artigo 70.º Modificações
 
-###### Artigo 73.º Revogações — Artigo 74.º Entrada em vigor
+###### Artigo 71.º Execução
+
+Artigo 72.º Mecanismo de acompanhamento
+
+###### Artigo 73.º Revogações
+
+###### Artigo 74.º Entrada em vigor
 
 ###### Artigo 75.º Destinatários — ANEXOS da [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?locale=pt)
 
-## ANEXO I Entidades adjudicantes nos setores do transporte ou distribuição de gás ou de combustível para aquecimento
+ANEXO I Entidades adjudicantes nos setores do transporte ou distribuição de gás ou de combustível para aquecimento
 
-## ANEXO II Entidades adjudicantes nos setores da produção, transporte ou distribuição de eletricidade
+ANEXO II Entidades adjudicantes nos setores da produção, transporte ou distribuição de eletricidade
 
-## ANEXO III Entidades adjudicantes nos setores da produção, do transporte ou distribuição de água potável
+ANEXO III Entidades adjudicantes nos setores da produção, do transporte ou distribuição de água potável
 
-## ANEXO IV Entidades adjudicantes no domínio dos serviços de transporte ferroviário
+ANEXO IV Entidades adjudicantes no domínio dos serviços de transporte ferroviário
 
-## ANEXO V Entidades adjudicantes no domínio dos serviços urbanos de caminho de ferro, elétricos, tróleis ou autocarros
+ANEXO V Entidades adjudicantes no domínio dos serviços urbanos de caminho de ferro, elétricos, tróleis ou autocarros
 
-## ANEXO VI Entidades adjudicantes no setor dos serviços postais
+ANEXO VI Entidades adjudicantes no setor dos serviços postais
 
-## ANEXO VII Entidades adjudicantes nos setores da prospeção e extração de petróleo ou gás
+ANEXO VII Entidades adjudicantes nos setores da prospeção e extração de petróleo ou gás
 
-## ANEXO VIII Entidades adjudicantes nos setores da prospeção e extração de carvão e de outros combustíveis sólidos
+ANEXO VIII Entidades adjudicantes nos setores da prospeção e extração de carvão e de outros combustíveis sólidos
 
-## ANEXO IX Entidades adjudicantes no domínio dos portos marítimos, dos portos interiores e de outros terminais
+ANEXO IX Entidades adjudicantes no domínio dos portos marítimos, dos portos interiores e de outros terminais
 
-## ANEXO X Entidades adjudicantes no domínio das instalações aeroportuárias
+ANEXO X Entidades adjudicantes no domínio das instalações aeroportuárias
 
-## ANEXO XI Lista da legislação comunitária referida no artigo 30.º, n.º 3
+ANEXO XI Lista da legislação comunitária referida no artigo 30.º, n.º 3
 
-## ANEXO XII Lista das atividades referidas no artigo 1.º, n.º 2, alínea b)
+ANEXO XII Lista das atividades referidas no artigo 1.º, n.º 2, alínea b)
 
-## ANEXO XXII Quadro recapitulativo dos prazos previstos no artigo 45.º
+ANEXO XXII Quadro recapitulativo dos prazos previstos no artigo 45.º
 
-## ANEXO XXV Prazos de transposição e de aplicação
+ANEXO XXV Prazos de transposição e de aplicação
 
-## ANEXO XXVI Quadro de correspondência
+ANEXO XXVI Quadro de correspondência
 
 (1) [Diretiva 2004/17/CE](https://data.europa.eu/eli/dir/2004/17/oj?locale=pt) do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação de contratos nos setores da água, da energia, dos transportes e dos serviços postais.
 
@@ -8834,15 +8896,17 @@ Disposições da Diretiva [89/665/CEE](https://data.europa.eu/eli/dir/1989/665/o
 
 Os elementos enumerados no presente anexo não estão sujeitos ao processo de aproximação.
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+Artigo 2.º-B Exceções ao prazo suspensivo
 
 ###### Artigo 2.º-B, n.º 1, alínea a) — Artigo 2.º-D Privação de efeitos Artigo 2.º-D, n.º 1, alínea a) N.º 4
 
 ###### Artigo 3.º Mecanismo de correção — Artigo 3.º-A Teor do anúncio voluntário de transparência ex ante
 
-###### Artigo 3.º-B Procedimento de comité
+Artigo 3.º-B Procedimento de comité
 
-###### Artigo 4.º Aplicação — Artigo 4.º-A Reexame
+###### Artigo 4.º Aplicação
+
+###### Artigo 4.º-A Reexame
 
 (1) Diretiva [89/665/CEE](https://data.europa.eu/eli/dir/1989/665/oj?locale=pt) do Conselho, de 21 de dezembro de 1989, que coordena as disposições legislativas, regulamentares e administrativas relativas à aplicação dos processos de recurso em matéria de adjudicação dos contratos de direito público de obras de fornecimentos.
 
@@ -8854,17 +8918,21 @@ Disposições da [Diretiva 92/13/CEE](https://data.europa.eu/eli/dir/1992/13/oj?
 
 Os elementos enumerados no presente anexo não estão sujeitos ao processo de aproximação.
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+Artigo 2.º-B Exceções ao prazo suspensivo
 
-###### Artigo 2.º-B, n.º 1, alínea a) — Artigo 2.º-D Privação de efeitos
+###### Artigo 2.º-B, n.º 1, alínea a)
+
+###### Artigo 2.º-D Privação de efeitos
 
 ###### Artigo 2.º-B, n.º 1, alínea a) — N.º 4
 
-###### Artigo 3.º-A Teor do anúncio voluntário de transparência ex ante
+Artigo 3.º-A Teor do anúncio voluntário de transparência ex ante
 
-###### Artigo 3.º-B Procedimento de comité
+Artigo 3.º-B Procedimento de comité
 
-###### Artigo 8.º Mecanismo de correção — Artigo 12.º Aplicação
+###### Artigo 8.º Mecanismo de correção
+
+###### Artigo 12.º Aplicação
 
 ###### Artigo 12.º-A Reexame
 
@@ -8934,7 +9002,7 @@ e) Entraria em conflito com uma denominação considerada genérica.
 
 Produtos agrícolas e géneros alimentícios da Geórgia, exceto vinhos, bebidas espirituosas e vinhos aromatizados, a proteger na Geórgia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 Produtos agrícolas e géneros alimentícios da Geórgia, exceto vinhos, bebidas espirituosas e vinhos aromatizados, a proteger na União Europeia
 
@@ -8942,31 +9010,31 @@ Produtos agrícolas e géneros alimentícios da Geórgia, exceto vinhos, bebidas
 
 ## ANEXO XVII-D — Indicações geográficas dos produtos a que se refere o artigo 170.º, n.os 3 e 4
 
-# PARTE A — Vinhos da União Europeia a proteger na Geórgia
+## PARTE A — Vinhos da União Europeia a proteger na Geórgia
 
 Lista dos vinhos com denominação de origem protegida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 Lista dos vinhos com denominação de origem protegida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 Vinhos da Geórgia a proteger na União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
-# PARTE B — Bebidas espirituosas da União Europeia a proteger na Geórgia
+## PARTE B — Bebidas espirituosas da União Europeia a proteger na Geórgia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 Bebidas espirituosas da Geórgia a proteger na União Europeia
 
 [...]
 
-# PARTE C — Vinhos aromatizados da União Europeia a proteger na Geórgia
+## PARTE C — Vinhos aromatizados da União Europeia a proteger na Geórgia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 Vinhos aromatizados da Geórgia a proteger na União Europeia
 
@@ -10978,89 +11046,103 @@ PROTOCOLO I RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AO
 
 Índice
 
-## TÍTULO I DISPOSIÇÕES GERAIS — Artigo 1.º Definições
+## TÍTULO I DISPOSIÇÕES GERAIS
 
-## TÍTULO II DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS»
+###### Artigo 1.º Definições
 
-###### Artigo 2.º Requisitos gerais — Artigo 3.º Acumulação da origem
+TÍTULO II DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS»
 
-###### Artigo 4.º Produtos inteiramente obtidos
+###### Artigo 2.º Requisitos gerais
 
-###### Artigo 5.º Produtos objeto de operações de complemento de fabrico ou de transformação suficientes
+###### Artigo 3.º Acumulação da origem
 
-###### Artigo 6.º Operações de complemento de fabrico ou de transformação insuficientes
+Artigo 4.º Produtos inteiramente obtidos
 
-###### Artigo 7.º Unidade de qualificação
+Artigo 5.º Produtos objeto de operações de complemento de fabrico ou de transformação suficientes
 
-###### Artigo 8.º Acessórios, peças sobressalentes e ferramentas
+Artigo 6.º Operações de complemento de fabrico ou de transformação insuficientes
 
-###### Artigo 9.º Sortidos — Artigo 10.º Elementos neutros
+Artigo 7.º Unidade de qualificação
 
-## TÍTULO III REQUISITOS TERRITORIAIS
+Artigo 8.º Acessórios, peças sobressalentes e ferramentas
 
-###### Artigo 11.º Princípio da territorialidade
+###### Artigo 9.º Sortidos
 
-###### Artigo 12.º Transporte direto — Artigo 13.º Exposições
+###### Artigo 10.º Elementos neutros
+
+TÍTULO III REQUISITOS TERRITORIAIS
+
+Artigo 11.º Princípio da territorialidade
+
+###### Artigo 12.º Transporte direto
+
+###### Artigo 13.º Exposições
 
 ## TÍTULO IV DRAUBAQUE OU ISENÇÃO — Artigo 14.º Proibição de draubaque ou de isenção de direitos aduaneiros
 
-## TÍTULO V PROVA DE ORIGEM — Artigo 15.º Requisitos gerais
+## TÍTULO V PROVA DE ORIGEM
 
-###### Artigo 16.º Procedimento para a emissão do certificado de circulação EUR.1
+###### Artigo 15.º Requisitos gerais
 
-###### Artigo 17.º Emissão a posteriori do certificado de circulação EUR.1
+Artigo 16.º Procedimento para a emissão do certificado de circulação EUR.1
 
-###### Artigo 18.º Emissão de uma segunda via do certificado de circulação EUR.1
+Artigo 17.º Emissão a posteriori do certificado de circulação EUR.1
 
-###### Artigo 19.º Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida anteriormente
+Artigo 18.º Emissão de uma segunda via do certificado de circulação EUR.1
+
+Artigo 19.º Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida anteriormente
 
 ###### Artigo 20.º Separação de contas — Artigo 21.º Condições para fazer uma declaração de origem
 
-###### Artigo 22.º Exportador autorizado
+Artigo 22.º Exportador autorizado
 
-###### Artigo 23.º Prazo de validade da prova de origem
+Artigo 23.º Prazo de validade da prova de origem
 
-###### Artigo 24.º Apresentação da prova de origem
+Artigo 24.º Apresentação da prova de origem
 
-###### Artigo 25.º Importação em remessas escalonadas
+Artigo 25.º Importação em remessas escalonadas
 
-###### Artigo 26.º Isenções da prova de origem
+Artigo 26.º Isenções da prova de origem
 
-###### Artigo 27.º Documentos comprovativos
+Artigo 27.º Documentos comprovativos
 
-###### Artigo 28.º Conservação da prova de origem e dos documentos comprovativos
+Artigo 28.º Conservação da prova de origem e dos documentos comprovativos
 
-###### Artigo 29.º Discrepâncias e erros formais
+Artigo 29.º Discrepâncias e erros formais
 
-###### Artigo 30.º Montantes expressos em euros
+Artigo 30.º Montantes expressos em euros
 
-## TÍTULO VI MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA
+TÍTULO VI MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA
 
-###### Artigo 31.º Cooperação administrativa
+Artigo 31.º Cooperação administrativa
 
-###### Artigo 32.º Controlo da prova de origem
+Artigo 32.º Controlo da prova de origem
 
-###### Artigo 33.º Resolução de litígios
+Artigo 33.º Resolução de litígios
 
-###### Artigo 34.º Sanções — Artigo 35.º Zonas francas
+###### Artigo 34.º Sanções
+
+###### Artigo 35.º Zonas francas
 
 ## TÍTULO VII CEUTA E MELILHA — Artigo 36.º Aplicação do presente Protocolo
 
-###### Artigo 37.º Condições especiais — TÍTULO VIII DISPOSIÇÕES FINAIS
+###### Artigo 37.º Condições especiais
 
-###### Artigo 38.º Alterações do presente Protocolo
+## TÍTULO VIII DISPOSIÇÕES FINAIS
 
-###### Artigo 39.º Disposições transitórias para as mercadorias em trânsito ou em depósito temporário
+Artigo 38.º Alterações do presente Protocolo
+
+Artigo 39.º Disposições transitórias para as mercadorias em trânsito ou em depósito temporário
 
 Lista dos anexos ao presente Protocolo
 
-## Anexo I Notas introdutórias à lista do anexo ii do Protocolo I
+Anexo I Notas introdutórias à lista do anexo ii do Protocolo I
 
-## Anexo II Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto fabricado possa adquirir o caráter originário
+Anexo II Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto fabricado possa adquirir o caráter originário
 
-## Anexo III Modelos do certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
+Anexo III Modelos do certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
-## Anexo IV Texto da declaração de origem
+Anexo IV Texto da declaração de origem
 
 Declarações comuns
 
@@ -11836,7 +11918,7 @@ Lista das operações de complemento de fabrico ou de transformação a efetuar 
 
 Nem todos os produtos indicados na lista são abrangidos pelo presente Acordo. É, pois, necessário consultar as outras partes do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO III DO PROTOCOLO I — Modelos do certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
@@ -11848,7 +11930,7 @@ Instruções para a impressão
 
 Certificado de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 Notas
 
@@ -11860,17 +11942,17 @@ Notas
 
 Pedido de certificado de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 Declaração do exportador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 ## ANEXO IV DO PROTOCOLO I — Texto da declaração de origem
 
 A declaração de origem, cujo texto é a seguir apresentado, deve ser prestada de acordo com as notas de rodapé. Estas não têm, contudo, de ser reproduzidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09900/0268003081.pdf)
 
 PROTOCOLO II RELATIVO À ASSISTÊNCIA ADMINISTRATIVA MÚTUA EM MATÉRIA ADUANEIRA
 

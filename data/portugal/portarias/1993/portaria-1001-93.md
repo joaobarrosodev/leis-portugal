@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1001/1993/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1001-1993-670299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44a4c07ebda6d68f0d03e4102184f101148bf895f53aee71513bf0383a7059d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9b47bcda231277e8db725ceb570088d799bec48018ab1f3115148fea4733f83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- CAÇA
 - Carne
 - Carne de Coelho
 - CEE
-- CAÇA
+- Comércio
 - Controlo Sanitário
-- Saúde Pública
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
 - Instituto de Protecção da Produção Agro-Alimentar
 - Política Agrícola Comum
-- Comércio
+- Produção Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
@@ -87,16 +87,21 @@ relationships:
   target: celex:31991L0495
   label: null
   source: http://data.europa.eu/eli/dir/1991/495/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogada pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
-  article_count: 1
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:46Z'
   warnings: []
   errors: []
 ---
@@ -115,19 +120,19 @@ Manda o Governo, pelos Ministros da Agricultura, da Saúde, do Comércio e Turis
 
 Ministérios da Agricultura, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-**Assinada em 6 de Setembro de 1993.**
+Assinada em 6 de Setembro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
-## Anexo a que se refere a Portaria n.º 1001/93
+Anexo a que se refere a Portaria n.º 1001/93
 
 Regulamento das Condições de Polícia Sanitária da Produção e Colocação no Mercado de Carnes de Coelho e de Carnes de Caça de Criação.
 
 #### SECÇÃO I — Disposições iniciais
 
-###### Artigo 1.º O presente Regulamento estabelece as condições de polícia sanitária aplicáveis à produção e colocação no mercado de carnes de coelho e de carnes de caça de criação.
+Artigo 1.º O presente Regulamento estabelece as condições de polícia sanitária aplicáveis à produção e colocação no mercado de carnes de coelho e de carnes de caça de criação.
 
-###### Art. 2.º Para efeitos deste Regulamento são aplicáveis as definições constantes do n.º 3.º da Portaria n.º 817/90, de 11 de Setembro, e do n.º 3.º da Portaria n.º 743/92, de 24 de Julho, e, ainda, as seguintes:
+Art. 2.º Para efeitos deste Regulamento são aplicáveis as definições constantes do n.º 3.º da Portaria n.º 817/90, de 11 de Setembro, e do n.º 3.º da Portaria n.º 743/92, de 24 de Julho, e, ainda, as seguintes:
 
 a) Carnes de coelho: todas as partes do coelho doméstico próprias para consumo humano;
 
@@ -143,7 +148,7 @@ f) Veterinário oficial: o veterinário designado pela autoridade competente.
 
 #### SECÇÃO II — Produção e comercialização de carnes de coelho
 
-###### Art. 3.º - 1 - Podem ser comercializadas as carnes de coelho que obedeçam às seguintes condições:
+Art. 3.º - 1 - Podem ser comercializadas as carnes de coelho que obedeçam às seguintes condições:
 
 a) Sejam obtidas num estabelecimento que obedeça às condições gerais estabelecidas na Portaria n.º 743/92, de 24 de Julho, e aprovado nos termos do artigo 14.º;
 
@@ -169,7 +174,7 @@ j) Tenham sido obtidas, caso se trate de partes de carcaças ou de carnes desoss
 
 3 - O exemplar original do certificado de salubridade deve ser emitido por um veterinário oficial no momento do embarque e ser redigido, pelo menos, na ou nas línguas do país de destino, de acordo com o modelo constante do anexo II a este Regulamento.
 
-###### Art. 4.º - 1 - Em derrogação do disposto no artigo anterior, a autoridade competente pode autorizar:
+Art. 4.º - 1 - Em derrogação do disposto no artigo anterior, a autoridade competente pode autorizar:
 
 a) A entrega directa por um pequeno produtor das carnes frescas de coelho a um particular para consumo próprio;
 
@@ -183,13 +188,13 @@ ii) Quer a um retalhista, tendo em vista a venda directa ao consumidor final, de
 
 #### SECÇÃO III — Produção e comercialização de carnes de caça de criação
 
-###### Art. 5.º O comércio intracomunitário de carne de caça de criação fica sujeito às seguintes condições:
+Art. 5.º O comércio intracomunitário de carne de caça de criação fica sujeito às seguintes condições:
 
 a) No que se refere à caça de criação com penas, aplica-se o disposto no Decreto-Lei n.º 112/93, de 10 de Abril, e legislação complementar;
 
 b) No que se refere às restantes espécies de caça de criação, aos requisitos da Portaria n.º 765/90, de 30 de Agosto.
 
-###### Art. 6.º - 1 - A carne de caça de criação proveniente de mamíferos terrestres selvagens ungulados deve satisfazer as condições referidas no n.º 4.º da Portaria n.º 817/90, de 11 de Setembro, desde que o rebanho de origem seja submetido a um controlo veterinário periódico e, na sequência do inquérito efectuado nos termos do artigo 11.º, ou após uma inspecção veterinária, não seja objecto de restrições, devendo os animais em causa ser tratados em momentos diferentes dos animais das espécies bovina, suína, ovina e caprina.
+Art. 6.º - 1 - A carne de caça de criação proveniente de mamíferos terrestres selvagens ungulados deve satisfazer as condições referidas no n.º 4.º da Portaria n.º 817/90, de 11 de Setembro, desde que o rebanho de origem seja submetido a um controlo veterinário periódico e, na sequência do inquérito efectuado nos termos do artigo 11.º, ou após uma inspecção veterinária, não seja objecto de restrições, devendo os animais em causa ser tratados em momentos diferentes dos animais das espécies bovina, suína, ovina e caprina.
 
 2 - O certificado de salubridade que deve acompanhar essas carnes será emitido em conformidade com o modelo constante do anexo III a este Regulamento.
 
@@ -217,13 +222,13 @@ g) Durante o transporte para o matadouro os animais abatidos sejam acompanhados 
 
 7 - Até à adopção das regras sanitárias aplicáveis à carne destinada ao mercado nacional, o abate de caça grossa de criação, o corte e a armazenagem das carnes referidas nos n.os 1 e 3 podem, em derrogação daquelas disposições, ser realizados em estabelecimentos aprovados para o mercado nacional, desde que essas carnes não sejam introduzidas no circuito do comércio intracomunitário.
 
-###### Art. 7.º - 1 - O IPPAA pode conceder, a um ou mais países expedidores, autorizações, gerais ou limitadas, para a introdução no território nacional das carnes frescas referidas nas alíneas c), i) e j) do n.º 5.º da Portaria n.º 817/90, de 11 de Setembro.
+Art. 7.º - 1 - O IPPAA pode conceder, a um ou mais países expedidores, autorizações, gerais ou limitadas, para a introdução no território nacional das carnes frescas referidas nas alíneas c), i) e j) do n.º 5.º da Portaria n.º 817/90, de 11 de Setembro.
 
 2 - A expedição da carne fresca a que se refere o número anterior só poderá ser efectuada nos termos do n.º 4.º do diploma nele referido.
 
 3 - As autorizações concedidas nos termos do n.º 1 serão sempre mencionadas nos certificados sanitários emitidos de acordo com o modelo constante do anexo III a este Regulamento.
 
-###### Art. 8.º - 1 - As carnes de caça de criação com penas devem obedecer às condições previstas na Portaria n.º 743/92, de 24 de Julho.
+Art. 8.º - 1 - As carnes de caça de criação com penas devem obedecer às condições previstas na Portaria n.º 743/92, de 24 de Julho.
 
 2 - As carnes de caça de criação com penas destinadas às trocas intracomunitárias devem ser acompanhadas do certificado de salubridade previsto no n.º 140.º do capítulo XIV da portaria referida no número anterior, o qual deve ser conforme modelo constante do anexo IV ao presente Regulamento.
 
@@ -231,15 +236,15 @@ g) Durante o transporte para o matadouro os animais abatidos sejam acompanhados 
 
 4 - Caso os resultados não sejam nitidamente favoráveis, o parecer expresso sobre a comestibilidade dos animais abatidos com base nessa inspecção é válido para o conjunto do lote.
 
-###### Art. 9.º - 1 - Em derrogação do n.º 1 do artigo anterior, no que se refere à carne de aves de caça de criação obtida e colocada em circulação no território nacional, o IPPAA pode, mediante pedido expresso, conceder aos matadouros ou instalações de corte em funcionamento em Setembro de 1991 uma derrogação às disposições relativas ao abate e à evisceração previstas na secção II do capítulo IV da Portaria n.º 743/92, de 24 de Julho, para a produção de aves de criação parcialmente evisceradas ou não evisceradas.
+Art. 9.º - 1 - Em derrogação do n.º 1 do artigo anterior, no que se refere à carne de aves de caça de criação obtida e colocada em circulação no território nacional, o IPPAA pode, mediante pedido expresso, conceder aos matadouros ou instalações de corte em funcionamento em Setembro de 1991 uma derrogação às disposições relativas ao abate e à evisceração previstas na secção II do capítulo IV da Portaria n.º 743/92, de 24 de Julho, para a produção de aves de criação parcialmente evisceradas ou não evisceradas.
 
 2 - Quando a derrogação a que se refere o número anterior seja concedida, é proibida a utilização da marca de salubridade prevista na secção IV do capítulo V da portaria nele referida.
 
-###### Art. 10.º O artigo 8.º não se aplica à carne de aves de caça de criação entregue, em casos isolados, directamente pela exploração ao consumidor final, para seu consumo próprio, com a excepção da venda por correspondência ou num mercado.
+Art. 10.º O artigo 8.º não se aplica à carne de aves de caça de criação entregue, em casos isolados, directamente pela exploração ao consumidor final, para seu consumo próprio, com a excepção da venda por correspondência ou num mercado.
 
 #### SECÇÃO IV — Disposições comuns
 
-###### Art. 11.º - 1 - Será efectuada uma verificação periódica do estado sanitário dos coelhos e da caça de criação nas explorações situadas no território nacional.
+Art. 11.º - 1 - Será efectuada uma verificação periódica do estado sanitário dos coelhos e da caça de criação nas explorações situadas no território nacional.
 
 2 - Em caso de diagnóstico de doenças transmissíveis ao homem, ou aos animais, na presença de níveis de resíduos em quantidades superiores aos admitidos, a autoridade competente recolherá e analisará os resultados das inspecções sanitárias efectuadas.
 
@@ -251,11 +256,11 @@ g) Durante o transporte para o matadouro os animais abatidos sejam acompanhados 
 
 6 - O proprietário da exploração ou o criador deve prestar toda a colaboração adequada e necessária à realização das medidas a que se refere o presente artigo.
 
-###### Art. 12.º - 1 - Os coelhos e a caça de criação ficarão sujeitos ao controlo de resíduos previsto no Decreto-Lei n.º 62/91, de 1 de Fevereiro, e na Portaria n.º 94/91, de 1 de Fevereiro.
+Art. 12.º - 1 - Os coelhos e a caça de criação ficarão sujeitos ao controlo de resíduos previsto no Decreto-Lei n.º 62/91, de 1 de Fevereiro, e na Portaria n.º 94/91, de 1 de Fevereiro.
 
 2 - Tendo em conta os resultados dos controlos efectuados nos termos dos n.os 1 e 4 do artigo 11.º, a autoridade competente imporá limitações à utilização de carnes de coelho ou de caça de criação provenientes das explorações ou dos territórios em causa.
 
-###### Art. 13.º As carnes de coelho ou de aves de caça de criação não podem ser utilizadas para consumo humano se:
+Art. 13.º As carnes de coelho ou de aves de caça de criação não podem ser utilizadas para consumo humano se:
 
 a) Revelarem um dos defeitos enumerados na alínea a) do n.º 9 do anexo I a este Regulamento;
 
@@ -263,7 +268,7 @@ b) Provierem de animais a que foram administradas substâncias susceptíveis de 
 
 c) Tiverem sido tratadas com radiações ionizantes ou ultravioletas, ou com amaciadores ou outras substâncias que possam afectar as propriedades organolépticas da carne, ou, ainda, com corantes diferentes dos utilizados na marcação de salubridade.
 
-###### Art. 14.º - 1 - O IPPAA elaborará uma lista dos estabelecimentos aprovados, atribuindo a cada um deles um número de aprovação veterinária.
+Art. 14.º - 1 - O IPPAA elaborará uma lista dos estabelecimentos aprovados, atribuindo a cada um deles um número de aprovação veterinária.
 
 2 - A aprovação a que se refere o número anterior será retirada quando as condições previstas no presente Regulamento deixem de ser cumpridas.
 
@@ -271,7 +276,9 @@ c) Tiverem sido tratadas com radiações ionizantes ou ultravioletas, ou com ama
 
 4 - O proprietário do estabelecimento deve prestar toda a colaboração adequada e necessária à realização das medidas a que se refere o presente artigo.
 
-## ANEXO I — CAPÍTULO I
+## ANEXO I
+
+### CAPÍTULO I
 
 Inspecção sanitária ante mortem de coelhos
 
@@ -411,26 +418,26 @@ b) Na calibragem dos coelhos, as miudezas comestíveis fazem parte integrante da
 
 ### CAPÍTULO VII — Apresentação das carcaças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf))](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
 
 ### CAPÍTULO VIII — Classificação das carcaças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf))](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
 
 ## ANEXO II — Modelo
 
 Certificado de salubridade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf))](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
 
 ## ANEXO III — Modelo
 
 Certificado de salubridade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf))](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
 
 ## ANEXO IV — Modelo
 
 Certificado sanitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf))](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/238b00/56905695.pdf)

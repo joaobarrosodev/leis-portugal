@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/183b00/37823783.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/778/1992/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/778-1992-282760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1356a0383961b34301780ffe1c0410e252a1d36bddc0caa5e79339bd6ae0341e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fff88ee2fbfe9f737436f75e91a52433f35bf017a10a0c307ae97d60151520e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,31 @@ relationships:
   target: pt:dre:335447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225198:por
+  label: "ALTERADA A REDACÇÃO DO NUMERO 8 DO NUMERO 1 E DO NUMERO 5 DO NUMERO 2 DO ANEXO PELA PORTARIA 749/94, DE 13 DE AGOSTO,\
+    \ PUBLICADA NO DR.IS-B, 187.\0-B, 187."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/749-1994-225198
+  date: '1994-08-13'
 - type: cites
   target: celex:31975L0324
   label: null
   source: http://data.europa.eu/eli/dir/1975/324/oj
+- type: repealed_by
+  target: pt:dre:335447:por
+  label: "Revogada, a partir de 14.06.2010, pelo DEC LEI.61/2010.09.06.2010.MEID, DR.IS [111] de 09.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2010-335447
+  date: '2010-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:19Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +119,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
 Ministério da Indústria e Energia.
 
-**Assinada em 14 de Julho de 1992.**
+Assinada em 14 de Julho de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO — 1.º
 
@@ -228,7 +239,7 @@ b) As embalagens aerossóis com gás dissolvido não devem ter, a 50ºC, uma pre
 
 c) As embalagens aerossóis com gás liquefeito não devem ter, a 20ºC, pressões superiores às indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/183b00/37823783.pdf))](https://files.diariodarepublica.pt/1s/1992/08/183b00/37823783.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/183b00/37823783.pdf)
 
 d) Relativamente às percentagens de gás liquefeito que não figuram no quadro anterior, as pressões limites são calculadas por extrapolação.
 
@@ -254,7 +265,7 @@ As embalagens aerossóis com recipiente de vidro não protegido ou de plástico 
 
 4) Com gás liquefeito não devem ter, a 20ºC, pressões superior às indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/183b00/37823783.pdf))](https://files.diariodarepublica.pt/1s/1992/08/183b00/37823783.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/183b00/37823783.pdf)
 
 Para as percentagens de gás que não figuram neste quadro, as pressões limites são calculadas por extrapolação;
 

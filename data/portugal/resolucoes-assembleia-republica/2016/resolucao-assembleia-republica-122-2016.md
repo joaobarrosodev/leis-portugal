@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/12500/0203502035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/122/2016/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2016-74843509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35def1ab8ba966afba6eb256456f0198cdbe23580446555da29e8751d6dd9dc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37be0942e9c5565ccf263c2d53abdc727738f44b1b9955843a3aad74b1f43ad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,63 @@ subjects:
 - Capital Social
 - Comissão de Inquérito
 - Comissão Parlamentar
+- Crédito Bancário
 - Gestão
+- Gestão de Créditos
 - Inquérito
 - Inquérito Parlamentar
-- Crédito Bancário
-- Gestão de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:107709506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75307904:por
+  label: Suspensa entre 30 de julho e 5 de setembro a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito
+    à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco, constituída pelo presente diploma, pelo(a) Resolução
+    da Assembleia da República n.º 194/2016 - Diário da República n.º 175/2016, Série I de 2016-09-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/194-2016-75307904
+  date: '2016-09-12'
+- type: amended_by
+  target: pt:dre:75644166:por
+  label: Suspensa entre 15 de outubro e 30 de dezembro de 2016 a contagem do prazo de funcionamento da Comissão Parlamentar
+    de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco pelo(a) Resolução da Assembleia da República
+    n.º 213/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/213-2016-75644166
+  date: '2016-11-03'
+- type: amended_by
+  target: pt:dre:75688295:por
+  label: Suspensa, entre 15 de outubro e 30 de novembro de 2016, a contagem do prazo de funcionamento da Comissão Parlamentar
+    de Inquérito pelo(a) Resolução da Assembleia da República n.º 215/2016 - Diário da República n.º 214/2016, Série I de
+    2016-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/215-2016-75688295
+  date: '2016-11-08'
+- type: amended_by
+  target: pt:dre:105796892:por
+  label: Prorrogado o prazo de funcionamento da Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos
+    e à Gestão do Banco, constituída pela presente resolução, pelo(a) Resolução da Assembleia da República n.º 7/2017 - Diário
+    da República n.º 17/2017, Série I de 2017-01-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/7-2017-105796892
+  date: '2017-01-24'
+- type: amended_by
+  target: pt:dre:106663783:por
+  label: Prorrogado por mais 30 dias o prazo de funcionamento da Comissão Parlamentar de Inquérito à Recapitalização da Caixa
+    Geral de Depósitos e à Gestão do Banco e suspensos os trabalhos da mesma entre 23.03.2017 e 04.05.2017 pelo(a) Resolução
+    da Assembleia da República n.º 53/2017 - Diário da República n.º 62/2017, Série I de 2017-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/53-2017-106663783
+  date: '2017-03-28'
+- type: amended_by
+  target: pt:dre:107014933:por
+  label: Suspensa entre 10.05.2017 e 06.06.2017 a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito
+    pelo(a) Resolução da Assembleia da República n.º 81/2017 - Diário da República n.º 95/2017, Série I de 2017-05-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/81-2017-107014933
+  date: '2017-05-17'
+- type: amended_by
+  target: pt:dre:107709506:por
+  label: Prorrogado, até 18.07.2017, o prazo de funcionamento da Comissão Parlamentar de Inquérito pelo(a) Resolução da Assembleia
+    da República n.º 154/2017 - Diário da República n.º 138/2017, Série I de 2017-07-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/154-2017-107709506
+  date: '2017-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/126/1997/12/10/p/dre
   label: null
@@ -96,13 +143,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:39Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +168,4 @@ c) Apreciar a atuação dos órgãos societários da Caixa Geral de Depósitos, 
 
 Palácio de S. Bento, em 27 de junho de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

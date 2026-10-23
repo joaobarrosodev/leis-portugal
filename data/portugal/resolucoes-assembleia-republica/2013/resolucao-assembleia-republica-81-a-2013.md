@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 115/2013, 1º Suplemento, Série I de 2013-06-18
   number: '115'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3376-(2) a 3376-(1280)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/81-a/2013/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/81-a-2013-546029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54c5bbac8156f62d431e4e611f1bf8af0f1401bee32f7a1230d07e61c6a1e835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c2d1eb74b47757c0e111fcefa0d8c236a08cac42ae63bc9efef7980ce697532
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,14 +89,14 @@ relationships:
   source: /application/external/tratado
 article_structure:
   article_count: 318
-  section_count: 55
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 69
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:02Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de outubro de 2012.
 
-**O Presidente da Assembleia da República, em exercício, António Filipe.**
+O Presidente da Assembleia da República, em exercício, António Filipe.
 
 ACORDO DE PARCERIA ECONÓMICA ENTRE OS ESTADOS DO CARIFORUM, POR UM LADO, E A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR OUTRO
 
@@ -157,7 +157,7 @@ Convictos de que o Acordo de Parceria Económica criará um novo clima mais favo
 
 acordaram no seguinte:
 
-# PARTE I — Parceria comercial para o desenvolvimento sustentável
+## PARTE I — Parceria comercial para o desenvolvimento sustentável
 
 ###### Artigo 1.º — Objectivos
 
@@ -251,7 +251,7 @@ vii) O apoio ao desenvolvimento, nos Estados do CARIFORUM, de infra-estruturas n
 
 3 - As Partes acordam nas vantagens de um fundo de desenvolvimento regional representativo dos interesses de todos os Estados do CARIFORUM para mobilizar e canalizar os recursos em matéria de desenvolvimento relacionados com o Acordo de Parceria Económica financiados pelo FED e outros doadores potenciais. Neste contexto, os Estados do CARIFORUM devem esforçar-se para instituir esse fundo num prazo de dois anos a contar da data de assinatura do presente Acordo.
 
-# PARTE II — Comércio e outras matérias conexas
+## PARTE II — Comércio e outras matérias conexas
 
 ## TÍTULO I — Comércio de mercadorias
 
@@ -2915,7 +2915,7 @@ d) Ajuda no estabelecimento e funcionamento de quadros institucionais relevantes
 
 e) Ajuda na concepção e execução de iniciativas que visem fomentar o respeito das regras destinadas a operadores económicos e a consumidores, a fim de estimular a confiança dos investidores e do público em geral.
 
-# PARTE III — Prevenção e resolução de litígios
+## PARTE III — Prevenção e resolução de litígios
 
 ###### Artigo 202.º — Objectivo
 
@@ -3091,7 +3091,7 @@ Os painéis de arbitragem devem aplicar e interpretar as disposições do presen
 
 2 - Qualquer prazo referido na presente parte pode ser prorrogado por acordo mútuo entre as Partes.
 
-# PARTE IV — Excepções gerais
+## PARTE IV — Excepções gerais
 
 ###### Artigo 224.º — Cláusula de excepção geral
 
@@ -3159,7 +3159,7 @@ c) Impedir a Parte CE ou um Estado do CARIFORUM Signatário de empreender qualqu
 
 3 - Nenhuma disposição do presente Acordo prejudica os direitos e as obrigações da Parte CE ou de um Estado do CARIFORUM Signatário decorrentes de quaisquer convenções de natureza fiscal. Em caso de incompatibilidade entre o disposto no presente Acordo e qualquer convenção desse tipo, esta última prevalece relativamente às disposições incompatíveis.
 
-# PARTE V — Disposições institucionais
+## PARTE V — Disposições institucionais
 
 ###### Artigo 227.º — Conselho Conjunto CARIFORUM-CE
 
@@ -3269,7 +3269,7 @@ d) Tomar decisões ou formular recomendações nos casos previstos pelo presente
 
 5 - O Comité Consultivo CARIFORUM-CE pode fazer recomendações ao Conselho Conjunto CARIFORUM-CE e ao Comité de Comércio e Desenvolvimento CARIFORUM-CE.
 
-# PARTE VI — Disposições gerais e finais
+## PARTE VI — Disposições gerais e finais
 
 ###### Artigo 233.º — Definição das partes e cumprimento das obrigações
 
@@ -3413,7 +3413,7 @@ O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, c
 
 Os anexos, protocolos e notas de rodapé constituem parte integrante do presente Acordo. O apêndice n.º 1 do anexo iii é redigido unicamente em língua inglesa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO I — Direitos de exportação
 
@@ -3439,7 +3439,7 @@ Melaços (SH 17.03) - 1,00 USD por 100 litros.
 
 Suriname
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO II — Direitos aduaneiros sobre produtos originários dos estados do CARIFORUM
 
@@ -3521,19 +3521,19 @@ Os produtos do capítulo 93 do Sistema Harmonizado não são sujeitos ao present
 
 Os Estados do CARIFORUM Signatários acordam em não aumentar os direitos aduaneiros que aplicam para níveis superiores aos aplicados aquando da assinatura do presente Acordo no caso dos produtos sujeitos à liberalização abrangidos pelo presente anexo.
 
-## Apêndice 1 ao ANEXO III/Appendix 1 to Annex III
+Apêndice 1 ao ANEXO III/Appendix 1 to Annex III
 
 Lista de liberalização pautal dos Estados CARIFORUM/Schedule of tariff liberalisation of the CARIFORUM States
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))
+(Ver documento original)
 
-## APÊNDICE N.º 2 AO ANEXO III
+APÊNDICE N.º 2 AO ANEXO III
 
 Contingente pautal para leite em pó na República Dominicana
 
 No que diz respeito às mercadorias das posições 040210, 040221 e 040229 originárias da Parte CE, a República Dominicana permite a importação das quantidades em toneladas métricas indicadas na coluna A após pagamento do direito aduaneiro ad valorem indicado na coluna B para os períodos indicados na coluna C:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 A Parte CE gerirá este contingente pautal de acordo com um mecanismo de licenças de exportação tal como estabelecido pelos regulamentos da Comunidade Europeia. A Parte CE envida esforços para atribuir uma proporção razoável dos contingentes a novos operadores, se for o caso.
 
@@ -3545,7 +3545,7 @@ Os direitos aduaneiros sobre as mercadorias das posições 040210, 040221 e 0402
 
 ## ANEXO IV — Listas de compromissos em matéria de investimento e comércio no sector de serviços
 
-# Parte CE
+## Parte CE
 
 a) Lista de compromissos em conformidade com o artigo 69.º (presença comercial).
 
@@ -3555,7 +3555,7 @@ c) Listas de reservas em conformidade com o artigo 81.º (pessoal-chave e estagi
 
 d) Listas de reservas em conformidade com o artigo 83.º (prestadores de serviços por contrato e profissionais independentes).
 
-# Parte CARIFORUM e Estados do CARIFORUM Signatários
+Parte CARIFORUM e Estados do CARIFORUM Signatários
 
 e) Lista de compromissos em conformidade com o artigo 69.º (presença comercial) em actividades económicas, excepto sectores de serviços.
 
@@ -3563,7 +3563,7 @@ f) Lista de compromissos em conformidade com os artigos 69.º, 78.º, 81.º e 83
 
 Para efeitos do anexo iv, são utilizadas as seguintes abreviaturas:
 
-# Parte CE
+## Parte CE
 
 AT - Áustria.
 
@@ -3621,7 +3621,7 @@ SE - Suécia.
 
 UK - Reino Unido.
 
-# Parte CARIFORUM
+## Parte CARIFORUM
 
 CAF - Todos os Estados do CARIFORUM (*).
 
@@ -3659,7 +3659,7 @@ Para efeitos do anexo iv, a expressão «não consolidado» refere-se à não co
 
 (a que se refere o artigo 69.º)
 
-# Parte CE
+## Parte CE
 
 1 - A lista de compromissos a seguir apresentada indica as actividades económicas liberalizadas pela Parte CE nos termos do artigo 69.º e, mediante reservas, as limitações em matéria de acesso ao mercado e de tratamento nacional aplicáveis aos estabelecimentos e investidores dos Estados do CARIFORUM nessas actividades. As listas são compostas dos seguintes elementos:
 
@@ -3687,13 +3687,13 @@ c) Por «CPC ver. 1.0» entende-se a Classificação Central de Produtos, tal co
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito auto-executório, pelo que não conferem directamente quaisquer direitos a pessoas singulares ou a pessoas colectivas específicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO IV-B — Listas de compromissos em matéria de prestação de serviços transfronteiras
 
 (a que se refere o artigo 78.º)
 
-# Parte CE
+## Parte CE
 
 1 - A lista de compromissos a seguir apresentada indica os sectores de serviços liberalizados pela Parte CE nos termos do artigo 78.º do Acordo e, mediante reservas, as limitações em matéria de acesso ao mercado e de tratamento nacional aplicáveis aos serviços e prestadores de serviços do CARIFORUM nesses sectores. A lista é composta dos seguintes elementos:
 
@@ -3719,13 +3719,13 @@ b) Por «CPC ver. 1.0» entende-se a Classificação Central de Produtos, tal co
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito auto-executório, pelo que não conferem directamente quaisquer direitos a pessoas singulares ou a pessoas colectivas específicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO IV-C — Reservas em matéria de pessoal-chave e estagiários de nível pós-universitário
 
 (a que se refere o artigo 81.º)
 
-# Parte CE
+## Parte CE
 
 1 - A lista de reservas a seguir apresentada indica as actividades económicas liberalizadas pela Parte CE nos termos do artigo 69.º em relação a que se aplicam as limitações em matéria de pessoal-chave e estagiários de nível pós-universitário em conformidade com o artigo 81.º e especifica tais limitações. As listas são compostas dos seguintes elementos:
 
@@ -3755,13 +3755,13 @@ c) Por «CPC ver. 1.0» entende-se a Classificação Central de Produtos, tal co
 
 7 - Os direitos e obrigações resultantes da presente lista de reservas não têm um efeito auto-executório, pelo que não conferem directamente quaisquer direitos a pessoas singulares ou a pessoas colectivas específicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO IV-D — Reservas em matéria de prestadores de serviços por contrato e profissionais independentes
 
 (a que se refere o artigo 83.º)
 
-# Parte CE
+## Parte CE
 
 1 - A lista das reservas a seguir apresentada indica os sectores dos serviços liberalizados pela Parte CE nos termos dos n.os 2 e 3 do artigo 83.º e as limitações discriminatórias específicas aplicáveis aos mesmos. As listas são compostas dos seguintes elementos:
 
@@ -3785,13 +3785,13 @@ Sempre que não se apliquem quaisquer limitações específicas, com excepção 
 
 8 - Os compromissos em matéria de prestadores de serviços por contrato e profissionais independentes não se aplicam nos casos em que a intenção ou o efeito da sua presença temporária seja interferir no resultado (ou afectá-lo de outro modo) de qualquer disputa ou negociação em matéria de trabalho/gestão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO IV-E — Listas de compromissos em matéria de investimento (presença comercial) em actividades económicas que não sectores de serviços
 
 (a que se refere o artigo 69.º)
 
-# Parte CARIFORUM e Estados do CARIFORUM Signatários
+Parte CARIFORUM e Estados do CARIFORUM Signatários
 
 1 - A presente «lista de compromissos em matéria de investimento (presença comercial) em actividades económicas que não sectores de serviços» (a seguir designada «lista») está limitada a sectores que não serviços tal como descritos na Classificação Internacional Tipo, por actividades, de todos os ramos de actividade económicas, tal como estabelecida pelo Serviço de Estatística das Nações Unidas (ISIC rev. 3.1). Inclui os seguintes sectores:
 
@@ -3821,13 +3821,13 @@ E) Produção, transporte e distribuição por conta própria de electricidade, 
 
 9 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito auto-executório, pelo que não conferem directamente quaisquer direitos a pessoas singulares ou a pessoas colectivas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO IV-F — Lista de compromissos nos sectores de serviços
 
 (de acordo com os artigos 69.º, 78.º, 81.º e 83.º)
 
-# Parte CARIFORUM e Estados Signatários do CARIFORUM
+Parte CARIFORUM e Estados Signatários do CARIFORUM
 
 1 - A presente «lista de compromissos nos sectores de serviços» (a seguir designada «lista») baseia-se na lista da Classificação Central de Produtos das Nações Unidas (CPC) e na lista de classificação sectorial de serviços (MTN.GNS/W/120) utilizada nas negociações do GATS, incluindo também algumas actividades de serviços não abrangidas por estes sistemas de classificação. A inclusão de dois asteriscos (**) indica que os serviços especificados correspondem apenas parcialmente ao leque total de actividades coberto pela posição correspondente da CPC.
 
@@ -3863,27 +3863,27 @@ Prestadores de serviços contratuais (PSC) e profissionais independentes (PI) - 
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito auto-executório, pelo que não conferem directamente quaisquer direitos a pessoas singulares ou a pessoas colectivas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO V — Pontos de informação
 
 (a que se refere o artigo 86.º)
 
-# Parte CE — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+## Parte CE — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
-# Parte CARIFORUM e Estados do CARIFORUM Signatários
+Parte CARIFORUM e Estados do CARIFORUM Signatários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO VI — Contratos públicos abrangidos
 
-## APÊNDICE N.º 1 (1)
+APÊNDICE N.º 1 (1)
 
 (1) Convém precisar que «DSE» significa direitos de saque especiais, um activo de reserva internacional criado pelo Fundo Monetário Internacional e cujo valor se baseia num cabaz das principais moedas internacionais.
 
 Entidades que celebram contratos em conformidade com o disposto no capítulo 3 do título iv
 
-#### Secção 1: Compromissos dos Estados do CARIFORUM Signatários
+Secção 1: Compromissos dos Estados do CARIFORUM Signatários
 
 Fornecimentos:
 
@@ -4349,7 +4349,7 @@ Trindade e Tobago
 
 23 - Office of the Prime Minister.
 
-#### Secção 2: Compromissos da Parte CE
+Secção 2: Compromissos da Parte CE
 
 Fornecimentos:
 
@@ -4373,21 +4373,21 @@ Todas as entidades listadas pelas Comunidades Europeias no anexo n.º 1 do apên
 
 Sem prejuízo de quaisquer direitos e obrigações, esta lista está à disposição do público no seguinte sítio web: http://www.wto.org/english/tratop_e/gproc_e/appendices_e.htm#ec
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Serviços
 
-#### Secção 1: Compromissos dos Estados do CARIFORUM Signatários
+Secção 1: Compromissos dos Estados do CARIFORUM Signatários
 
 Todos os serviços contratados pelas entidades incluídas no âmbito de aplicação que figuram no apêndice n.º 1, nos termos das condições, limitações e derrogações previstas no capítulo 3 do título iv e sujeitos às notas gerais e derrogações no apêndice n.º 4.
 
-#### Secção 2: Compromissos da Parte CE
+Secção 2: Compromissos da Parte CE
 
 Todos os serviços listados pelas Comunidades Europeias no anexo iv do apêndice i do Acordo sobre Contratos Públicos celebrado sob a égide da Organização Mundial do Comércio, na medida em que o presente apêndice se possa aplicar ocasionalmente e incluindo quaisquer condições, limitações e derrogações nele mencionadas.
 
 Sem prejuízo de quaisquer direitos e obrigações, esta lista está à disposição do público no seguinte sítio web: http://www.wto.org/english/tratop_e/gproc_e/appendices_e.htm#ec
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Serviços de construção
 
@@ -4397,7 +4397,7 @@ Para efeitos do capítulo relativo aos contratos públicos, um contrato de servi
 
 As disposições do capítulo relativo aos contratos públicos aplicam-se aos contratos públicos de serviços de construção contidos na divisão 51 da Classificação Central de Produtos.
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Notas gerais e derrogações das disposições do capítulo 3 do título iv
 
@@ -4437,7 +4437,7 @@ i) Instituto Dominicano de las Telecomunicaciones (INDOTEL): Este capítulo não
 
 j) Banco Central de la República Dominicana: Este capítulo não abrange a emissão de dinheiro (notas e moedas).
 
-# Parte CE
+## Parte CE
 
 1 - Os contratos públicos de entidades adjudicantes incluídas no apêndice n.º 1 em relação a actividades no domínio da água potável, energia, transporte e sector postal não são abrangidos pelo capítulo 3 do título iv.
 
@@ -4445,31 +4445,31 @@ j) Banco Central de la República Dominicana: Este capítulo não abrange a emis
 
 ## ANEXO VII — Meios de publicação
 
-# Parte 1 — Publicação de leis, regulamentos, decisões judiciais e decisões administrativas de aplicação geral, e de procedimentos
+## Parte 1 — Publicação de leis, regulamentos, decisões judiciais e decisões administrativas de aplicação geral, e de procedimentos
 
 Para os Estados do CARIFORUM Signatários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 Para a Parte CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
-# Parte 2 — Oportunidades de contratos públicos
+## Parte 2 — Oportunidades de contratos públicos
 
 Para os Estados do CARIFORUM Signatários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 Para a Parte CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
-# Parte 3 — Adjudicação de contratos
+## Parte 3 — Adjudicação de contratos
 
 Para os Estados do CARIFORUM Signatários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 Para a Parte CE
 
@@ -5311,7 +5311,7 @@ Para efeitos das posições ex 2707, 2713 a 2715, ex 2901, ex 2902 e ex 3403, as
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO III — (ao Protocolo I)
 
@@ -5325,7 +5325,7 @@ Formulário dos certificados de circulação
 
 Certificado de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 Notas
 
@@ -5337,11 +5337,11 @@ Notas
 
 Pedido de certificado de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 Declaração do exportador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO IV — (ao Protocolo I)
 
@@ -5349,13 +5349,13 @@ Declaração na factura
 
 A declaração na factura, cujo texto é apresentado a seguir, deve ser prestada de acordo com as notas de rodapé. No entanto, não é necessário reproduzir essas notas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 Versão portuguesa
 
 O abaixo assinado, exportador dos produtos abrangidos pelo presente documento [autorização aduaneira n.º ... (1)], declara que, salvo indicação expressa em contrário, estes produtos são de origem preferencial ... (2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ...
 
@@ -5459,13 +5459,13 @@ Ficha de informação
 
 3 - As administrações nacionais podem reservar-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por si aprovadas. Neste caso, cada formulário deve incluir uma referência a tal aprovação. Os formulários devem incluir o nome e o endereço da tipografia ou um sinal que permita identificá-la.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO VII — (ao Protocolo I)
 
 Formulário de pedido de derrogação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 Notas
 
@@ -5475,7 +5475,7 @@ Notas
 
 3 - Deve ser preenchido um formulário para cada produto objecto do pedido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO VIII — (ao Protocolo I)
 
@@ -5575,7 +5575,7 @@ Ilhas Virgens Britânicas.
 
 Produtos relativamente aos quais, após 1 de Outubro de 2015, se aplicam as disposições relativas à acumulação referidas no n.º 3 do artigo 2.º e no artigo 4.º e aos quais não se aplica o disposto no artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ## ANEXO XI — (ao Protocolo I)
 
@@ -9671,7 +9671,7 @@ c) Promoção de intercâmbios profissionais e formação de bibliotecários, es
 
 Sem prejuízo do disposto no artigo 7.º do presente Acordo, as Partes acordam em cooperar, inclusive facilitando o apoio para incentivar o intercâmbio de conhecimentos especializados e de boas práticas em matéria de protecção de sítios e monumentos históricos, tendo em conta a missão da UNESCO em prol do património mundial, facilitando também o intercâmbio de peritos, a colaboração na área da formação profissional, o reforço das acções de sensibilização das populações locais e das acções de consultoria na área da protecção dos monumentos históricos, dos espaços protegidos, assim como da acção legislativa e da aplicação de medidas relacionadas com o património, em particular a sua integração na vida local. Tal cooperação deve ser conforme com a legislação das Partes e dos Estados do CARIFORUM Signatários e não prejudica as reservas incluídas nos compromissos constantes do anexo iv do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 ACTA FINAL
 
@@ -9679,19 +9679,19 @@ Os representantes de Antígua e Barbuda, a Comunidade das Baamas, Barbados, Beli
 
 - Aprovaram os seguintes anexos, Protocolos e declarações conjuntas, declaração e declaração conjunta:
 
-## Anexo I: Direitos de exportação;
+Anexo I: Direitos de exportação;
 
-## Anexo II: Direitos aduaneiros sobre produtos originários dos Estados do CARIFORUM;
+Anexo II: Direitos aduaneiros sobre produtos originários dos Estados do CARIFORUM;
 
-## Anexo III: Direitos aduaneiros sobre produtos originários da Parte CE;
+Anexo III: Direitos aduaneiros sobre produtos originários da Parte CE;
 
-## Anexo IV: Listas de compromissos em matéria de investimento e comércio no sector de serviços;
+Anexo IV: Listas de compromissos em matéria de investimento e comércio no sector de serviços;
 
-## Anexo V: Pontos de informação;
+Anexo V: Pontos de informação;
 
-## Anexo VI: Contratos públicos abrangidos;
+Anexo VI: Contratos públicos abrangidos;
 
-## Anexo VII: Meios de publicação;
+Anexo VII: Meios de publicação;
 
 Protocolo I: Definição de «produtos originários» e métodos de cooperação administrativa;
 
@@ -9701,7 +9701,7 @@ Protocolo III: Sobre cooperação cultural.
 
 Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinaturas nesta Acta Final.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
 
 Declarações conjuntas
 
@@ -9777,4 +9777,4 @@ Declaração conjunta dos Estados do CARIFORUM Signatários e da Comunidade Euro
 
 Os Estados e a Comunidade Europeia, signatários do Acordo de Parceria Económica entre os Estados do CARIFORUM, por um lado, e a Comunidade Europeia e os seus Estados-Membros, por outro («o Acordo»), registam que a República do Haiti e a República da Guiana não assinaram o Acordo nesta fase. Por conseguinte, à luz do direito internacional, a República do Haiti e a República da Guiana não ficam sujeitas às obrigações nem gozam dos direitos previstos no Acordo. Os signatários aguardam com expectativa a breve assinatura e aplicação provisória do Acordo pela República da Guiana e pela República do Haiti.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11501/0000201280.pdf)

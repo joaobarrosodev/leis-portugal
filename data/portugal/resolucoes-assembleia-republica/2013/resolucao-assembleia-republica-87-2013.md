@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/87/2013/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/87-2013-497386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 214bf4904a60359aeab3823c9c9abc5b7db9a3ea000ebbe2107eedd198c11841
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b7ec1e175fe839f4647226ca38211f6c1f7426d10aa5bc5e431bd0e0f032d47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Suíça
-- Convenção
-- Portugal
-- Lisboa
-- Imposto sobre o Rendimento
-- Dupla Tributação
 - Berna
-relationships: []
+- Convenção
+- Dupla Tributação
+- Imposto sobre o Rendimento
+- Lisboa
+- Portugal
+- Suíça
+relationships:
+- type: amended_by
+  target: pt:dre:497377:por
+  label: "Ratificado o Protocolo Modificativo da Convenção entre Portugal e a Suíça para Evitar a Dupla Tributação em Matéria\
+    \ de Impostos sobre o Rendimento e sobre o Capital e do seu Protocolo Adicional pelo DEC.70/2013.27.06.2013.PR, DR.IS\
+    \ [122] de 27.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/70-2013-497377
+  date: '2013-06-27'
 article_structure:
-  article_count: 0
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:10Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de maio de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 PROTOCOLO MODIFICATIVO DA CONVENÇÃO ENTRE PORTUGAL E A SUÍÇA PARA EVITAR A DUPLA TRIBUTAÇÃO EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO E SOBRE O CAPITAL E DO SEU PROTOCOLO ADICIONAL, ASSINADOS EM BERNA, EM 26 DE SETEMBRO DE 1974.
 
@@ -107,7 +114,7 @@ Desejando celebrar um Protocolo Modificativo da Convenção entre Portugal e a S
 
 acordam nas seguintes disposições:
 
-Artigo I
+###### Artigo I
 
 O n.º 1 e a alínea a) do n.º 3 do artigo 2.º («Impostos abrangidos») da Convenção são suprimidos e substituídos pelos seguintes n.º 1 e n.º 3, alínea a):
 
@@ -125,29 +132,29 @@ a) Em Portugal:
 
 (doravante designados por 'imposto português');»
 
-Artigo II
+###### Artigo II
 
 O texto da alínea b) do n.º 1 do artigo 3.º («Definições gerais») da Convenção é substituído pela seguinte redação:
 
 «b) O termo 'Portugal', quando utilizado no seu sentido geográfico, compreende o território da República Portuguesa, em conformidade com as normas de Direito Internacional e a legislação da República Portuguesa, incluindo as suas águas internas e o respetivo mar territorial, bem como qualquer outra área onde a República Portuguesa exerça direitos de soberania ou jurisdição.»
 
-Artigo III
+###### Artigo III
 
 1 - A epígrafe do artigo 4.º («Domicílio fiscal») da Convenção é suprimida e substituída pelo termo «Residente».
 
 2 - O n.º 4 do artigo 4.º («Residente») da Convenção é suprimido.
 
-Artigo IV
+###### Artigo IV
 
 A última frase do n.º 3 do artigo 6.º («Rendimentos dos bens imobiliários») da Convenção é suprimida.
 
-Artigo V
+###### Artigo V
 
 O texto do artigo 9.º («Empresas associadas») da Convenção passa a ser o n.º 1 desse artigo. É introduzido um novo n.º 2 nesse artigo, após o n.º 1, que tem a seguinte redação:
 
 «2 - Quando um Estado Contratante inclua nos lucros de uma empresa desse Estado - e tribute nessa conformidade - os lucros pelos quais uma empresa do outro Estado Contratante foi tributada nesse outro Estado, e os lucros incluídos deste modo constituam lucros que teriam sido obtidos pela empresa do primeiro Estado mencionado, se as condições estabelecidas entre as duas empresas tivessem sido as condições que teriam sido estabelecidas entre empresas independentes, esse outro Estado, se concordar que o ajustamento efetuado pelo primeiro Estado mencionado se justifica, tanto em termos de princípio como em termos do respetivo montante, procederá ao ajustamento adequado do montante do imposto aí cobrado sobre os referidos lucros. Na determinação deste ajustamento serão tidas em consideração as outras disposições da presente Convenção e, se necessário, as autoridades competentes dos Estados Contratantes consultar-se-ão.»
 
-Artigo VI
+###### Artigo VI
 
 1 - O n.º 2 do artigo 10.º («Dividendos») da Convenção é suprimido e substituído pelos seguintes n.os 2 e 3:
 
@@ -173,7 +180,7 @@ b) Os dividendos pagos por uma sociedade que seja residente de um Estado Contrat
 
 6 - Quando uma sociedade residente de um Estado Contratante obtiver lucros ou rendimentos provenientes do outro Estado Contratante, esse outro Estado não poderá exigir qualquer imposto sobre os dividendos pagos pela sociedade, exceto na medida em que esses dividendos sejam pagos a um residente desse outro Estado ou na medida em que a participação em relação à qual os dividendos são pagos esteja efetivamente ligada a um estabelecimento estável ou a uma instalação fixa situado nesse outro Estado, nem poderá sujeitar os lucros não distribuídos da sociedade a um imposto sobre os lucros não distribuídos, mesmo que os dividendos pagos ou os lucros não distribuídos sejam constituídos, total ou parcialmente, por lucros ou rendimentos provenientes desse outro Estado.»
 
-Artigo VII
+###### Artigo VII
 
 1 - Os n.os 2, 3 e 4 do artigo 11.º («Juros») da Convenção são suprimidos e substituídos pelos seguintes n.os 2, 3, 4 e 5:
 
@@ -197,7 +204,7 @@ b) Forem obtidos por esse outro Estado, por uma das suas subdivisões políticas
 
 «8 - Não obstante o disposto nos n.os 1 e 2, os juros provenientes de um Estado Contratante e pagos entre sociedades associadas não estarão sujeitos a imposto no Estado da fonte, quando essas sociedades estiverem ligadas por uma participação direta mínima de 25 %, durante pelo menos dois anos, ou sejam ambas detidas por uma terceira sociedade que possua uma participação direta mínima de 25 %, tanto no capital da primeira sociedade como no capital da segunda sociedade, durante pelo menos dois anos, e uma das sociedades seja residente fiscal de um Estado Contratante e a outra sociedade seja residente fiscal do outro Estado Contratante e, nos termos de qualquer acordo de dupla tributação celebrado com um Estado terceiro, nenhuma das sociedades seja residente desse terceiro Estado, e todas as sociedades estejam sujeitas ao imposto sobre o rendimento das sociedades, sem beneficiarem de qualquer isenção, em particular sobre os pagamentos de juros, tendo cada uma delas adotado a forma de sociedade de capitais.»
 
-Artigo VIII
+###### Artigo VIII
 
 1 - Os n.os 3 e 4 do artigo 12.º («Redevances») da Convenção são suprimidos e substituídos pelos seguintes n.os 3 e 4:
 
@@ -211,7 +218,7 @@ Artigo VIII
 
 «7 - Não obstante o disposto nos n.os 1 e 2, as redevances provenientes de um Estado Contratante e pagas entre sociedades associadas não estarão sujeitas a imposto no Estado da fonte, quando essas sociedades estiverem ligadas por uma participação direta mínima de 25 %, durante pelo menos dois anos, ou sejam ambas detidas por uma terceira sociedade que possua uma participação direta mínima de 25 %, tanto no capital da primeira sociedade como no capital da segunda sociedade, durante pelo menos dois anos, e uma das sociedades seja residente fiscal de um Estado Contratante e a outra sociedade seja residente fiscal do outro Estado Contratante e, nos termos de qualquer acordo de dupla tributação celebrado com um Estado terceiro, nenhuma das sociedade seja residente desse terceiro Estado, e todas as sociedades estejam sujeitas ao imposto sobre o rendimento das sociedades, sem beneficiarem de qualquer isenção, em particular sobre os pagamentos de redevances, tendo cada uma delas adotado a forma de sociedade de capitais.»
 
-Artigo IX
+###### Artigo IX
 
 O n.º 3 do artigo 13.º («Mais-valias») da Convenção é suprimido e substituído pelos seguintes n.os 3 e 4:
 
@@ -219,19 +226,19 @@ O n.º 3 do artigo 13.º («Mais-valias») da Convenção é suprimido e substit
 
 4 - Os ganhos provenientes da alienação de quaisquer outros bens diferentes dos mencionados nos n.os 1, 2 e 3 só podem ser tributados no Estado Contratante de que o alienante é residente.»
 
-Artigo X
+###### Artigo X
 
 O texto do artigo 16.º («Percentagens de membros de conselhos») da Convenção é eliminado e substituído pelo seguinte:
 
 «As percentagens, senhas de presença e outras remunerações similares obtidas por um residente de um Estado Contratante na qualidade de membro do conselho de administração, do conselho fiscal ou de outro órgão similar de uma sociedade residente do outro Estado Contratante podem ser tributadas nesse outro Estado.»
 
-Artigo XI
+###### Artigo XI
 
 O texto do artigo 17.º («Artistas e desportistas») da Convenção passa a ser o n.º 1 do artigo. É introduzido um novo n.º 2, após o n.º 1 desse artigo, que tem a seguinte redação:
 
 «2 - Não obstante o disposto nos artigos 7.º, 14.º e 15.º, os rendimentos da atividade exercida pessoalmente pelos profissionais de espetáculos ou desportistas, nessa qualidade, atribuídos a uma outra pessoa podem ser tributados no Estado Contratante em que são exercidas essas atividades dos profissionais de espetáculos ou desportistas.»
 
-Artigo XII
+###### Artigo XII
 
 O artigo 19.º («Funções públicas») da Convenção é eliminado e substituído pelo seguinte artigo 19.º:
 
@@ -245,7 +252,7 @@ b) Não se tenha tornado seu residente unicamente com o objetivo de prestar os d
 
 3 - O disposto nos artigos 15.º, 16.º, 17.º e 18.º aplica-se aos salários, vencimentos, pensões e outras remunerações similares pagos em consequência de serviços prestados em conexão com uma atividade comercial ou industrial exercida por um Estado Contratante ou por uma das suas subdivisões políticas ou administrativas ou autarquias locais.»
 
-Artigo XIII
+###### Artigo XIII
 
 1 - O novo n.º 2 que se segue é introduzido após o n.º 1 do artigo 23.º («Métodos para a eliminação da dupla tributação») da Convenção:
 
@@ -257,13 +264,13 @@ Artigo XIII
 
 3 - O atual n.º 5 do artigo 23.º («Métodos para a eliminação da dupla tributação») da Convenção é suprimido.
 
-Artigo XIV
+###### Artigo XIV
 
 1 - É inserido um novo n.º 4 após o n.º 3 do artigo 24.º («Não discriminação») da Convenção e os atuais n.os 4 e 5 desse artigo são renumerados como n.os 5 e 6:
 
 «4 - Salvo se for aplicável o disposto no n.º 1 do artigo 9.º, no n.º 7 do artigo 11.º ou no n.º 6 do artigo 12.º, os juros, redevances e outras importâncias pagas por uma empresa de um Estado Contratante a um residente do outro Estado Contratante serão dedutíveis, para efeitos da determinação do lucro tributável de tal empresa, nas mesmas condições, como se tivessem sido pagas a um residente do primeiro Estado mencionado. De igual modo, quaisquer dívidas de uma empresa de um Estado Contratante a um residente do outro Estado Contratante serão dedutíveis, para efeitos da determinação do património tributável dessa empresa, nas mesmas condições, como se tivessem sido contraídas com um residente do primeiro Estado mencionado.»
 
-Artigo XV
+###### Artigo XV
 
 Um novo artigo 25.º bis («Troca de informações») é adicionado após o artigo 25.º da Convenção, com a seguinte redação:
 
@@ -287,7 +294,7 @@ c) Transmitir informações reveladoras de segredos ou processos comerciais, ind
 
 5 - O disposto no n.º 3 não pode em caso algum ser interpretado no sentido de permitir que um Estado Contratante se recuse a fornecer informações unicamente por estas serem detidas por um banco, outra instituição financeira, um mandatário ou por uma pessoa atuando na qualidade de agente ou fiduciário, ou porque essas informações se referem a direitos de propriedade de uma pessoa. No caso da Suíça, de modo a obter essas informações, as suas autoridades fiscais, caso tal seja necessário para o cumprimento do disposto no presente número, terão poderes para impor a revelação das informações referidas, não obstante o disposto no n.º 3 ou quaisquer outras disposições contrárias da sua legislação interna.»
 
-Artigo XVI
+###### Artigo XVI
 
 O artigo 27.º («Extensão territorial») da Convenção é suprimido e substituído por um novo artigo 27.º, com a seguinte redação:
 
@@ -301,7 +308,7 @@ Direito aos benefícios da Convenção
 
 3 - Entende-se que as disposições da Convenção não serão aplicáveis, se o objetivo principal de qualquer pessoa associada à criação ou à atribuição de um bem ou de um direito em relação ao qual o rendimento é pago for o de beneficiar das referidas disposições por meio dessa criação ou atribuição.»
 
-Artigo XVII
+###### Artigo XVII
 
 1 - Os novos n.os 2, 3 e 4 são inseridos após o n.º 1 do Protocolo Adicional à Convenção:
 
@@ -355,7 +362,7 @@ d) Entende-se que, no caso de uma troca de informações, as normas de procedime
 
 8 - O atual n.º 4 do Protocolo Adicional à Convenção passa a ser o n.º 11.
 
-Artigo XVIII
+###### Artigo XVIII
 
 1 - O presente Protocolo Modificativo entrará em vigor cinco dias após a data da receção da última das notificações, por escrito e por via diplomática, de que foram cumpridos os procedimentos legais internos dos Estados Contratantes necessários para o efeito.
 

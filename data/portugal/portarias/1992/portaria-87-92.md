@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/87/1992/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/87-1992-151724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6390215cad8ca460c7e2eaa500dad0ae5395e22c40f54d50df9cd14ad8b1b2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 060244b820a241ab4f735b1f8bb66a189c1ba676c18bef5bff8249580a7eee71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
 subjects:
 - Importação
 - Seguro Obrigatório de Responsabilidade Civil
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:32Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +104,6 @@ b) 1070000000$00, para as concessionários da exploração das redes da distribu
 
 Ministério da Indústria e Energia.
 
-**Assinada em 21 de Janeiro de 1992.**
+Assinada em 21 de Janeiro de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

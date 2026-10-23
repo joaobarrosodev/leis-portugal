@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1078/1993/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1078-1993-664887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d23c9c5e73000f8d068494bcb8bc1f96408f082c611697f6ff70ff8a27aed63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aebbeb32913fbe8c2fdaff2bce8f999243f9a7c167143dc02b82bdca9a517ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Relações Humanas e Comunicação no Trabalho
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Leiria
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:288399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187772:por
+  label: "Alterado os nums. 3, 5 e 6 do anexo I pela PORT.721/96.1996.12.10.ME DR.IS-B [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/721-1996-187772
+  date: '1996-12-10'
+- type: amended_by
+  target: pt:dre:288399:por
+  label: "Cessada a ministração do Curso de Bacharelato em Relações Humanas e Comunicação no Trabalho e revogado este diploma,\
+    \ com a redacção dada pela Port 721/96 de 10-Dez, nos termos do disposto no art. 3º da PORT.426/2002.2002.04.19.ME DR.IS-B\
+    \ [92]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-2002-288399
+  date: '2002-04-19'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:40Z'
   warnings: []
   errors: []
 ---
@@ -158,8 +178,8 @@ O curso entrará em funcionamento progressivamente, um ano curricular em cada an
 
 Ministério da Educação.
 
-**Assinada em 22 de Setembro de 1993.**
+Assinada em 22 de Setembro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/252b00/60636064.pdf))](https://files.diariodarepublica.pt/1s/1993/10/252b00/60636064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/252b00/60636064.pdf)

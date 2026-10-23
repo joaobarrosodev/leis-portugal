@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/3/2015/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-2015-66145311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 699fce6f390c5be7638782a996287f4426c7b68bac0f35e15a8d9022479c6c7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a245f7572ad1e0de2bcc96765b6f255919c7cef62bd275ed770e906385f6a58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - Contribuições e Impostos
-- Imposto sobre o Rendimento
+- Convenção
+- Croácia
 - Dupla Tributação
 - Evasão Fiscal
-- Croácia
-relationships: []
+- Imposto sobre o Rendimento
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:66145309:por
+  label: Ratificada a Convenção pelo(a) Decreto do Presidente da República n.º 6/2015 - Diário da República n.º 7/2015, Série
+    I de 2015-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/6-2015-66145309
+  date: '2015-01-12'
 article_structure:
   article_count: 29
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:21Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de outubro de 2014.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA CROÁCIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -514,7 +520,7 @@ Bruno Maçães, Secretário de Estado dos Assuntos Europeus.
 
 Pela República da Croácia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf)
 
 PROTOCOLO À CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA CROÁCIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -542,7 +548,7 @@ Bruno Maçães, Secretário de Estado dos Assuntos Europeus.
 
 Pela República da Croácia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf)
 
 CONVENTION BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF CROATIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME.
 
@@ -1030,7 +1036,7 @@ Bruno Maçães, Secretary of State of European Affairs.
 
 For the Republic of Croatia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf)
 
 PROTOCOL TO THE CONVENTION BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF CROATIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME.
 
@@ -1058,4 +1064,4 @@ Bruno Maçães, Secretary of State of European Affairs.
 
 For the Republic of Croatia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00700/0025400278.pdf)

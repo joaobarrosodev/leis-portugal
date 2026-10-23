@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14/2014/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-2014-572437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d147d4dc286dfdeaf3bf27121e1ed7a4215caa9bb6f9429d52ade620d862eec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66c4cff60e479b1030e7ec2dc28d4a3631f12995642188cd1bf1f062c921f7ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,31 @@ reuse:
 subjects:
 - Convenção
 - CRUZ Vermelha Internacional
-- Simbolo de Identificação
 - Genebra
-relationships: []
+- Simbolo de Identificação
+relationships:
+- type: amended_by
+  target: pt:dre:572436:por
+  label: "Ratificado o Protocolo Adicional às Convenções de Genebra de 12 de agosto de 1949 Relativo à Adoção de Um Emblema\
+    \ Distintivo Adicional (Protocolo III), por forma a consolidar a universidade da Cruz Vermelha, pelo DEC.12/2014.17.02.2014.PR,\
+    \ DR.IS [33] de 17.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/12-2014-572436
+  date: '2014-02-17'
+- type: corrected_by
+  target: pt:dre:407767:por
+  label: "Retificado o sumário pela DECL-RECT.10-A/2014.21.02.2014.AR, DR.IS [37-Supl] de 21.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/10-a-2014-407767
+  date: '2014-02-21'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:39Z'
   warnings: []
   errors: []
 ---
@@ -280,13 +292,13 @@ Article 1
 
 Distinctive emblem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf)
 
 Article 2
 
 Indicative use of the third Protocol emblem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf)
 
 PROTOCOLO ADICIONAL ÀS CONVENÇÕES DE GENEBRA DE 12 DE AGOSTO DE 1949 RELATIVO À ADOÇÃO DE UM EMBLEMA DISTINTIVO ADICIONAL (PROTOCOLO III)
 
@@ -434,8 +446,8 @@ O original do presente Protocolo, cujos textos em árabe, chinês, inglês, fran
 
 ###### Artigo 1.º — Emblema distintivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf)
 
 ###### Artigo 2.º — Utilização indicativa do emblema do Protocolo III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0142301428.pdf)

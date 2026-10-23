@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/775/1992/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/775-1992-282757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a55a5eb98d99c8d69e326d7bc3d45148fa8cb1ec6c75dfc0f288a1f3ae94a9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8f4f589bc3df5e50b4cafd63b60eec33630a35123740e5290ed5ffb698cef71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Berlengas
 - CABO da ROCA
 - CABO de são Vicente
-- Tráfego Marítimo
 - Proteção do Ambiente
 - Segurança Marítima
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:545817:por
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/3/1992/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/3/1992/01/18/p/dre
+- type: cites
+  target: pt:dre:144061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227829:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545817:por
+  label: "Revogada pelo DEC LEI.198/2006.19.10.2006.MOPTC, DR.IS [202] de 19.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2006-545817
+  date: '2006-10-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:16Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +134,9 @@ c) EST do cabo de São Vicente: 6, 6AP, 7, 7AP, 10, 23, 24 (INT 1812) e 40.
 
 Ministérios da Defesa Nacional e do Mar.
 
-**Assinada em 13 de Julho de 1992.**
+Assinada em 13 de Julho de 1992.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
 ## ANEXO — Esquema de separação de tráfego das Berlengas
 
@@ -159,7 +172,7 @@ d) É estabelecido um corredor de tráfego descendente (para sul) entre a zona d
 
 e) É estabelecida uma zona de tráfego costeiro entre a zona de separação descrita na alínea a) e a costa portuguesa limitada a norte pelo paralelo de latitude 39º30'.0 N. e a sul pelo paralelo de latitude 39.º20'.0 N.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf))](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf)
 
 Esquema de separação de tráfego do cabo da Roca
 
@@ -205,7 +218,7 @@ d) É estabelecido um corredor de tráfego descendente (para sul) entre a zona d
 
 e) É estabelecida uma zona de tráfego costeiro entre a zona de separação descrita na alínea a) e a costa portuguesa limitada a norte pelo paralelo de latitude 38º52'.0 N. e a sul pelo paralelo de latitude 38º43'.55 N.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf))](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf)
 
 Esquema de separação de tráfego do cabo de São Vicente
 
@@ -261,4 +274,4 @@ d) É estabelecido um corredor de tráfego descendente (para sul) entre a zona d
 
 e) É estabelecida uma zona de tráfego costeiro entre a zona de separação descrita na alínea a) e a costa portuguesa limitada a norte pelo paralelo de latitude 37º01'.4 N. e a leste pelo meridiano de longitude 008º54'.2 W.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf))](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/183b00/37783780.pdf)

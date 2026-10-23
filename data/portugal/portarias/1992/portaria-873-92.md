@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/873/1992/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/873-1992-234908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad1412b0c734886b0620d4318a60ad62817fe8a6ac853effa966394ad6461928
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c4426fcad51c7ef6e76405bd822bbccd414a62b1b4ec6692d5af7291378188c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,35 @@ reuse:
 subjects:
 - Curso de Informática de Gestão
 - Curso de Informática de Sistemas
-- Universidade do Algarve
 - Licenciatura
-relationships: []
+- Universidade do Algarve
+relationships:
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611537:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:34Z'
   warnings: []
   errors: []
 ---
@@ -159,11 +175,11 @@ Com a entrada em funcionamento das estruturas curriculares constantes dos anexos
 
 Ministério da Educação.
 
-**Assinada em 20 de Agosto de 1992.**
+Assinada em 20 de Agosto de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-## Anexo I à Portaria n.º 873/92
+Anexo I à Portaria n.º 873/92
 
 Universidade do Algarve
 
@@ -209,7 +225,7 @@ b) Arquitectura dos Sistemas Informáticos... 4
 
 5 - Projecto ... 8
 
-## Anexo II à Portaria n.º 873/92
+Anexo II à Portaria n.º 873/92
 
 Universidade do Algarve
 

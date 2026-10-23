@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/00900/0016200162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/1/2016/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/1-2016-73135326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84abd585ba4344913e3977ed76f67d49bec321256645aaa0cf71246c5c6c1edb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24af9ee301c7a467a9a7fe95101f13ff9efb86e18963a42f12954a930c954341
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,41 +68,41 @@ reuse:
 subjects:
 - Admissão de Pessoal
 - Aquisição de Bens e Serviços
-- Medicina
-- Médico
-- Cuidados de Enfermagem
-- Saúde
-- Serviço Nacional de Saúde
-- Recrutamento de Pessoal
-- Hospital Concelhio
+- Assembleia da República
 - Centro de Saúde
 - Contratação de Pessoal
-- Assembleia da República
+- Cuidados de Enfermagem
+- Cuidados Médicos
+- Gestão de Recursos Humanos
+- Governo
+- Hospital Concelhio
+- Medicina
+- Médico
 - Pessoal Técnico
 - Pessoal Técnico Administrativo
 - Pessoal Técnico Auxiliar
 - Pessoal Técnico Auxiliar de Diagnóstico e Terapêutica
 - Pessoal Técnico Especializado
-- Setúbal
-- Cuidados Médicos
 - Recomendação
+- Recrutamento de Pessoal
 - REDE de Prestação de Cuidados de Saúde
+- Saúde
 - Seixal
-- Gestão de Recursos Humanos
-- Governo
+- Serviço Nacional de Saúde
+- Setúbal
 - Unidade de Saúde Pública
 - Utente
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:04Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +121,4 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 18 de dezembro de 2015.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

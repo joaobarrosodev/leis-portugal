@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19600/0861708622.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/132/2015/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/132-2015-70476200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0cd6269497960112237a3d43858abc2df8b36248cd87a8943ee874bd015b925
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee8b1201d9817226af51c0acc4512c8146c786664e0507d91fb5330a63e3d57d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - CE Países
-- Gestão Financeira
 - Decisão CE
-- União Europeia
 - Euratom
+- Financiamento
+- Gestão Financeira
 - Orçamento
 - Política Orçamental
 - Tratado de Lisboa
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:156296213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70476199:por
+  label: Ratificada a Decisão do Conselho, aprovada pela presente Resolução, pelo(a) Decreto do Presidente da República n.º
+    119/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/119-2015-70476199
+  date: '2015-10-07'
 - type: cites
   target: celex:31970D0243
   label: null
@@ -112,16 +118,24 @@ relationships:
   target: celex:32014D0335
   label: null
   source: http://data.europa.eu/eli/dec/2014/335/oj
+- type: repealed_by
+  target: pt:dre:156296213:por
+  label: Revogada a Decisão 2014/335/UE, Euratom, aprovada pela presente resolução e ratificada pelo Dec 119/2015 de 07-out
+    do PR, pela Decisão 2020/2053, de 15 de dezembro, nos termos do disposto no n.º 1 do seu art. 11.º e sob reserva do disposto
+    no n.º 2 do mesmo art., aprovada pelo(a) Resolução da Assembleia da República n.º 37-A/2021 - Diário da República n.º
+    22/2021, 2º Suplemento, Série I de 2021-02-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/37-a-2021-156296213
+  date: '2021-02-02'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:33Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +148,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de junho de 2015.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.
 
 DECISÃO DO CONSELHO DE 26 DE MAIO DE 2014 RELATIVA AO SISTEMA DE RECURSOS PRÓPRIOS DA UNIÃO EUROPEIA ([2014/335/UE](https://data.europa.eu/eli/dec/2014/335/oj?locale=pt), EURATOM)
 
@@ -350,4 +364,4 @@ Pelo Conselho, o Presidente.
 
 ## ANEXO — Tabela de correspondência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19600/0861708622.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19600/0861708622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19600/0861708622.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17000/0471604744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/79/2014/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/79-2014-56410378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3c70485af790643843c0fec86fd8ca2d348dd7736762adce279cdf5f9b24b54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e040ea064eb82a18af0ac837fecb8a814b1aea944096a59291dda9b0bfd1ec6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
+- Bruxelas
 - Conselho do Atlântico Norte
 - Convenção
-- Portugal
-- Definição de Competências
-- Instalação Militar
-- Tratado do Atlântico Norte
 - Cooperação Internacional
 - Cooperação Militar
-- Bruxelas
-relationships: []
+- Definição de Competências
+- Instalação Militar
+- NATO
+- Portugal
+- Tratado do Atlântico Norte
+relationships:
+- type: amended_by
+  target: pt:dre:56410377:por
+  label: Ratificado o Acordo Suplementar ao Protocolo sobre o Estatuto dos Quartéis-Generais Militares Internacionais criados
+    em consequência do Tratado do Atlântico Norte entre a República Portuguesa, por um lado, e o Quartel-General do Comando
+    Supremo das Forças Aliadas na Europa e o Quartel-General do Comandante Supremo Aliado para a Transformação, por outro,
+    aprovado para ratificação pelo presente diploma, pelo(a) Decreto do Presidente da República n.º 66/2014 - Diário da República
+    n.º 170/2014, Série I de 2014-09-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/66-2014-56410377
+  date: '2014-09-04'
 article_structure:
   article_count: 36
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:14Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 25 de julho de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO SUPLEMENTAR AO PROTOCOLO SOBRE O ESTATUTO DOS QUARTÉIS-GENERAIS MILITARES INTERNACIONAIS CRIADOS EM CONSEQUÊNCIA DO TRATADO DO ATLÂNTICO NORTE ENTRE A REPÚBLICA PORTUGUESA, POR UM LADO, E O QUARTEL-GENERAL DO COMANDO SUPREMO DAS FORÇAS ALIADAS NA EUROPA E O QUARTEL-GENERAL DO COMANDANTE SUPREMO ALIADO PARA A TRANSFORMAÇÃO, POR OUTRO.
 
@@ -698,7 +707,7 @@ Pelo Quartel-General do Comandante Supremo Aliado para a Transformação:
 
 General Jean-Paul Paloméros, Comandante Supremo para a Transformação.
 
-## ANEXO AO ACORDO SUPLEMENTAR AO PROTOCOLO SOBRE O ESTATUTO DOS QUARTÉIS-GENERAIS MILITARES INTERNACIONAIS CRIADOS POR FORÇA DO TRATADO DO ATLÂNTICO NORTE ENTRE A REPÚBLICA PORTUGUESA, POR UM LADO, E O QUARTEL-GENERAL DO COMANDO SUPREMO DAS FORÇAS ALIADAS NA EUROPA E O QUARTEL-GENERAL, COMANDANTE SUPREMO ALIADO PARA A TRANSFORMAÇÃO, POR OUTRO.
+ANEXO AO ACORDO SUPLEMENTAR AO PROTOCOLO SOBRE O ESTATUTO DOS QUARTÉIS-GENERAIS MILITARES INTERNACIONAIS CRIADOS POR FORÇA DO TRATADO DO ATLÂNTICO NORTE ENTRE A REPÚBLICA PORTUGUESA, POR UM LADO, E O QUARTEL-GENERAL DO COMANDO SUPREMO DAS FORÇAS ALIADAS NA EUROPA E O QUARTEL-GENERAL, COMANDANTE SUPREMO ALIADO PARA A TRANSFORMAÇÃO, POR OUTRO.
 
 1 - Sujeitos ao controlo, à utilização e à alienação previstos neste Acordo Suplementar e sem prejuízo dos privilégios concedidos ao abrigo dos n.os 2 e 3 do artigo 8.º do Protocolo de Paris e, em especial, dos n.os 5 e 6 do artigo xi da Convenção, os membros beneficiários e respetivos dependentes gozam dos seguintes benefícios em virtude do artigo 17.º (benefícios fiscais):
 

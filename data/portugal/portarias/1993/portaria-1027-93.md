@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1027/1993/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1027-1993-668318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa2d2e62aeeacf6bf195b3aefe30a9dfe4baa01e18232e7edc27d55f412127ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 412c9cef1e59ea68d85996a1fd8e6d3308a25876130cffd3496c25cdb49e1f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,73 @@ relationships:
   target: pt:dre:2680921:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 28/94, DE 21 DE FEVEREIRO, PUBLICADA NO DR.IS-B, 49, 3SUPL, DE 940228.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS QUADROS DE PESSOAL CONSTANTES DOS MAPAS I E IV ANEXOS, PELO DESPACHO NORMATIVO 448/94, DE 11 DE MAIO,\
+    \ PUBLICADO NO DR.IS-B, 138, DE 940617.\0B, 138, DE 940617."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-17'
+- type: amended_by
+  target: pt:dre:3456414:por
+  label: "Alterado o quadro de pessoal constante do anexo IV pela PORT.662/99(2ªSÉRIE).1999.05.18.PCM DR.IIS [150] de 30/Jun/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/662-1999-3456414
+  date: '1999-05-18'
+- type: amended_by
+  target: pt:dre:2752707:por
+  label: "Alterado o quadro de pessoal pela PORT.1733/2000(2ªSÉRIE).2000.10.20.MES DR.IIS [264] DE 15/NOV/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1733-2000-2752707
+  date: '2000-10-20'
+- type: amended_by
+  target: pt:dre:3459133:por
+  label: "Alterado o quadro de pessoal constante do mapa IV anexo, pela PORT.582/2001(2ªSÉRIE).2001.02.02.MES, DR.IIS [63]\
+    \ de 15/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/582-2001-3459133
+  date: '2001-02-02'
+- type: amended_by
+  target: pt:dre:2647181:por
+  label: "Alterado o mapa I anexo pela PORT.1196/2001(2ªSÉRIE).2001.06.15.MES, DR.IIS [159] de 11/Julho/2001 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1196-2001-2647181
+  date: '2001-06-15'
+- type: amended_by
+  target: pt:dre:1485264:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo III à presente Portaria pela PORT.1544/2001(2ªSÉRIE).2001.08.17.MES,\
+    \ DR.IIS[216] de 2001/Set/17\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1544-2001-1485264
+  date: '2001-08-17'
+- type: amended_by
+  target: pt:dre:2680921:por
+  label: "Alterado o quadro de pessoal constante no mapa I por PORT.322/2003(2ªSÉRIE).2003.02.19.MF e MOPTH, DR.IIS [60] de\
+    \ 12/Mar/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-2003-2680921
+  date: '2003-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/284/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/284/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:329449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:20Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +163,10 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 1 de Setembro de 1993.**
+Assinada em 1 de Setembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 Do Mapa I ao Mapa VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/241b00/57825789.pdf))](https://files.diariodarepublica.pt/1s/1993/10/241b00/57825789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/241b00/57825789.pdf)

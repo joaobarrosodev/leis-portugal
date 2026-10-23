@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19600/0862208635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/133/2015/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/133-2015-70476201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f74ed9a3213dc928d1126657cc5476fcccb73238eb43928098e458ba12eba82b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b87b6b0253d9a75f673470b67ef41a72fac144b2063da7586787412d420aecac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Combate ao Terrorismo
+- Conselho da Europa
 - Convenção
-- Portugal
+- Cooperação Internacional
+- Crime
 - Crime contra a Humanidade
 - Crime Organizado
 - Estrasburgo
 - Execução de Penas
 - Extradição
 - Organização Terrorista
+- Portugal
 - Terrorismo
-- Cooperação Internacional
-- Conselho da Europa
 relationships:
+- type: amended_by
+  target: pt:dre:70476198:por
+  label: Ratificado o Protocolo aprovado pela presente Resolução pelo(a) Decreto do Presidente da República n.º 118/2015 -
+    Diário da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/118-2015-70476198
+  date: '2015-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/39/2013/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/39/2013/04/03/p/dre
+- type: cites
+  target: pt:dre:259948:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:35Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +126,7 @@ Aprovar o Protocolo à Convenção Europeia para a Repressão do Terrorismo, ado
 
 Aprovada em 22 de julho de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 PROTOCOLE PORTANT AMENDEMENT A LA CONVENTION EUROPÉENNE POUR LA REPRESSION DU TERRORISME
 
@@ -972,7 +982,7 @@ O presente Protocolo entra em vigor no primeiro dia do mês seguinte ao termo de
 
 ###### Artigo 19.º
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho da Europa:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho da Europa:
 
 a) De qualquer assinatura;
 

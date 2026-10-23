@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/793/1992/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/793-1992-282158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60f6ffac22673a9aaf64cb32d93aa65f48a4aecb5d33a7a884383b14bafacc16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30a980859c0ae6d03258a0beca04e6ccbb59d0ee86f7d49a0a34b6cff7fc4b10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lisboa
 - Hospital de Santa Marta
+- Lisboa
 - Zona de Proteção
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:44Z'
   warnings: []
   errors: []
 ---
@@ -107,8 +123,8 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 15 de Julho de 1992.**
+Assinada em 15 de Julho de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/188b00/39983998.pdf))](https://files.diariodarepublica.pt/1s/1992/08/188b00/39983998.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/188b00/39983998.pdf)

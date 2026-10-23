@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/898/1992/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/898-1992-239205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56d5e6fad722c5df19b11339c36c2d73ee3b0853d3447435877d75cd1367a491
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84a7d7041aa66765367b6f30584701c1e0ca62f786d553344c29674bcf9adf63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Técnico-comercial
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
-- Instituto Politécnico
 - Guarda
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:176490:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO DE ESTUDOS DO CURSO DE ENGENHARIA TECNICO-COMERCIAL PELA PORTARIA 1072/93, DE 26 DE OUTUBRO, PUBLICADA\
+    \ NO DR.IS-B, 251, DE 931026.\0 931026.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176490:por
+  label: "Revogada com a redacção da Port 1072/93 de 26-Out, pela PORT.53/2003.2003.01.16.MCES DR.IS-B [13], nos termos do\
+    \ respectivo nº 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-2003-176490
+  date: '2003-01-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:09Z'
   warnings: []
   errors: []
 ---
@@ -172,8 +191,8 @@ O curso entrará em funcionamento progressivamente, um ano curricular em cada an
 
 Ministério da Educação.
 
-**Assinada em 25 de Agosto de 1992.**
+Assinada em 25 de Agosto de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/214b00/44364437.pdf))](https://files.diariodarepublica.pt/1s/1992/09/214b00/44364437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/214b00/44364437.pdf)

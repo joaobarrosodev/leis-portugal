@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 34/1992, 2º Suplemento, Série I-B de 1992-02-10
   number: '34'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 782-(9) a 782-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/034b02/00090009.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/90-b/1992/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-b-1992-657775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a83d537afd6ebb97ab33a4cfa314587d8ab38a6b1976ce704d02e06bf79ea6d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ecbde2e8ec7298153a8906fb906f23fae9bf21bd066285aaa7549dcf4777ccb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Energia Elétrica
-- EDP
 - Autarquia Local
+- Distribuição de Energia Elétrica
+- EDP
+- Energia Elétrica
 relationships:
 - type: amended_by
   target: pt:dre:165185:por
@@ -78,16 +78,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/17/1992/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/17/1992/02/05/p/dre
+- type: cites
+  target: pt:dre:150970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165185:por
+  label: "Revogada, pela PORT.437/2001.2001.04.28.MECO, DR.IS-B [99], após renovação de todos os contratos de concessão existentes\
+    \ à data da entrada em vigor do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/437-2001-165185
+  date: '2001-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:16Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +132,7 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 2.º Para efeitos do disposto no número anterior consideram-se os municípios do continente distribuídos por classes de densidade dos consumidores em baixa tensão por quilómetro quadrado, às quais se associa o respectivo valor percentual das vendas em baixa tensão, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/034b02/00090009.pdf))](https://files.diariodarepublica.pt/1s/1992/02/034b02/00090009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/034b02/00090009.pdf)
 
 3.º A classe de densidade (d) é determinada para cada município a partir do quociente entre o número de consumidores em baixa tensão em 31 de Dezembro do ano anterior àquele a que a renda respeita e a área do respectivo município em quilómetros quadrados.
 
@@ -134,6 +156,6 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território e da Indústria e Energia.
 
-**Assinada em 10 de Fevereiro de 1992.**
+Assinada em 10 de Fevereiro de 1992.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

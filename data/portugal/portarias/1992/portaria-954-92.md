@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/229b00/46634664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/954/1992/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/954-1992-224220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05de742f17a282089722ab1cd40e10ba5c16785024d9907f5d4a3e63556e94d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a84d17bde30e1de59f0543b3006f9c18b9f26a47dafe8b5a4807cca5bf17ceb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Metrologia
-- Veículo
 - Regulamento do Controlo Metrológico das Cisternas Transportadoras Rodoviárias e Ferroviárias
 - Transporte de Mercadorias Perigosas
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:628558:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:555638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628558:por
+  label: "Revogada pela PORT.1543/2007.06.12.2007.MEI, DR.IS [235] de 06.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1543-2007-628558
+  date: '2007-12-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:36Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +115,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, que seja aprovado o Regu
 
 Ministério da Indústria e Energia.
 
-**Assinada em 10 de Setembro de 1992.**
+Assinada em 10 de Setembro de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 Regulamento do Controlo Metrológico das Cisternas Transportadoras, Rodoviárias e Ferroviárias
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/789/1992/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1992-283500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a89c97ebc8ee7409fa7307f453b5757fbcf0bda07c26743734c7a2976541174
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ffe5a2fc3db2acdbae5b49f8b0e48fa0986003d9dc5e00017dbb1e4a5904f85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
 - Ensino Superior Politécnico
-- Universidade
 - Numerus Clausus
 - Regulamento
-- Ensino Superior
+- Universidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/379/1991/10/09/p/dre
@@ -84,16 +84,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/707/1992/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/707/1992/07/09/p/dre
+- type: cites
+  target: pt:dre:288236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:35Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +138,7 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 1.º No anexo I.3 da [Portaria n.º 706/92](https://diariodarepublica.pt/dr/detalhe/portaria/706-1992-616638), de 9 de Julho, é introduzido o seguinte aditamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/186b00/39453945.pdf))](https://files.diariodarepublica.pt/1s/1992/08/186b00/39453945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/186b00/39453945.pdf)
 
 2.º As condições de acesso ao par estabelecimento/curso a que se refere o n.º 1.º são as constantes do anexo à presente portaria.
 
@@ -120,9 +148,9 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 16 de Julho de 1992.**
+Assinada em 16 de Julho de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO — 3093 676
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/78/2014/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/78-2014-56376289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e0f294fdf58d5daa3433cdca2a4b878c9b374cb0f3fea50167c8ac29e534c82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d4c7a162e4d9e3b4f95cf74a29f2586e423183d307e0cf472dd8b7acb931b2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,28 @@ subjects:
 - Convenção
 - Cooperação
 - Cooperação Bilateral
-- Portugal
-- Política de Defesa
 - Indústria
 - Indústria de Armamento
+- Política de Defesa
+- Portugal
 - Turquia
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:56376284:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 65/2014 - Diário da República n.º 165/2014, Série
+    I de 2014-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/65-2014-56376284
+  date: '2014-08-28'
 article_structure:
-  article_count: 0
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:13Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 8 de julho de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA TURQUIA SOBRE COOPERAÇÃO NO DOMÍNIO DA INDÚSTRIA DE DEFESA
 
@@ -116,21 +122,15 @@ Observando os princípios de reciprocidade e de respeito mútuo:
 
 acordam o seguinte:
 
-Artigo I
-
-Objeto
+###### Artigo I — Objeto
 
 Este Acordo tem por objeto estabelecer a cooperação entre as Partes no âmbito da indústria de defesa, melhorando as capacidades da indústria de defesa das Partes através de uma cooperação mais eficaz nas áreas de desenvolvimento, produção, aquisição e manutenção de bens e serviços de defesa, e apoio técnico e logístico relevante.
 
-Artigo II
-
-Âmbito de aplicação
+###### Artigo II — Âmbito de aplicação
 
 Este Acordo abrange as bases e os princípios das atividades de cooperação mútua entre as autoridades competentes e ou empresas da indústria de defesa das Partes no âmbito da indústria de defesa.
 
-Artigo III
-
-Definições
+###### Artigo III — Definições
 
 Para efeitos deste Acordo, entende-se por:
 
@@ -156,9 +156,7 @@ j) «Informação, Documento e Material Classificados», qualquer informação, 
 
 k) «Direitos de Propriedade Intelectual e Industrial», todos os direitos de autor e todos os direitos em relação a invenções (incluindo direitos de patente), marcas comerciais registadas ou não registadas (incluindo marcas de serviço), modelos registados e não registados, informação confidencial (incluindo segredos comerciais e know-how), e configurações de instalação circulares, bem como quaisquer outros direitos resultantes da atividade intelectual nos domínios industrial, científico, literário e artístico reconhecido pelas Partes.
 
-Artigo IV
-
-Áreas de cooperação
+###### Artigo IV — Áreas de cooperação
 
 As Partes desenvolvem a cooperação no domínio da indústria de defesa, nas seguintes áreas:
 
@@ -192,9 +190,7 @@ n) Cooperação entre instituições técnicas militares, empresas ligadas à in
 
 o) Participação mútua em feiras da indústria de defesa e em simpósios organizados por ambas as Partes.
 
-Artigo V
-
-Princípios de aplicação
+###### Artigo V — Princípios de aplicação
 
 1 - A aplicação e os pormenores da aplicação deste Acordo serão definidos por meio de acordos complementares e de aplicação, memorandos de entendimento, protocolos e instrumentos sujeitos à legislação nacional de ambas as Partes e em conformidade com as disposições deste Acordo.
 
@@ -210,9 +206,7 @@ A declaração de denúncia de qualquer um destes instrumentos será elaborada c
 
 6 - Nenhuma das Partes transfere para Terceiros o material, as informações e os documentos técnicos para serem doados, vendidos ou coproduzidos em conformidade com este Acordo ou acordos complementares e de aplicação, memorandos de entendimento, protocolos e instrumentos a serem feitos no âmbito deste Acordo, sem o consentimento prévio por escrito.
 
-Artigo VI
-
-Autoridades competentes
+###### Artigo VI — Autoridades competentes
 
 As autoridades competentes para a aplicação deste Acordo são:
 
@@ -220,9 +214,7 @@ Pela Parte Turca, o Ministério da Defesa Nacional da República da Turquia;
 
 Pela Parte Portuguesa, o Ministério da Defesa Nacional da República Portuguesa.
 
-Artigo VII
-
-Comissão conjunta
+###### Artigo VII — Comissão conjunta
 
 1 - A fim de aplicarem as suas disposições e alcançarem os objetivos deste Acordo, as Partes estabelecem uma Comissão Mista (doravante referida como «Comissão»), sob a copresidência do Subsecretário Adjunto de Tecnologia e Coordenação e do Diretor Nacional de Armamento do Ministério da Defesa Nacional da República da Turquia e do Diretor-Geral de Armamento e Infraestruturas de Defesa e do Diretor Nacional de Armamento do Ministério da Defesa Nacional da República Portuguesa.
 
@@ -246,9 +238,7 @@ Departamento de Relações Exteriores da Indústria de Defesa, Ministério da De
 
 Direção de Serviços de Programação e Relações Externas da Direção-Geral de Armamento e Infraestruturas de Defesa, Ministério da Defesa Nacional da República Portuguesa.
 
-Artigo VIII
-
-Tarefas da comissão conjunta
+###### Artigo VIII — Tarefas da comissão conjunta
 
 Nos termos deste Acordo, as funções da Comissão são as seguintes:
 
@@ -270,9 +260,7 @@ h) Avaliação da aplicação deste Acordo e, se necessário, negociação das p
 
 i) A Comissão soluciona as controvérsias decorrentes da interpretação e aplicação deste Acordo por meio de negociação, em conformidade com o artigo xix.
 
-Artigo IX
-
-Proteção de direitos de propriedade intelectual e industrial
+###### Artigo IX — Proteção de direitos de propriedade intelectual e industrial
 
 1 - Em relação aos direitos e obrigações das Partes em matéria de propriedade intelectual e industrial, aos direitos de produção nos seus próprios territórios, à emissão da licença de produção, às vendas a Terceiros e à preservação de patentes pertencentes a novos produtos e invenções realizadas no âmbito de projetos conjuntos deverão ser determinados através de acordos de aplicação a realizar para cada projeto conjunto. Estes acordos terão em consideração os regulamentos e acordos internacionais sobre os direitos de propriedade intelectual e industrial em vigor em cada Parte.
 
@@ -284,9 +272,7 @@ Proteção de direitos de propriedade intelectual e industrial
 
 5 - Os compromissos estabelecidos neste Acordo relacionados com a proteção dos direitos de propriedade intelectual e industrial continuarão a aplicar-se mesmo após a denúncia deste Acordo.
 
-Artigo X
-
-Proteção de informações, documentos e material classificados
+###### Artigo X — Proteção de informações, documentos e material classificados
 
 1 - A troca de informações, documentos e material classificados sobre indústria de defesa será regulada por um Acordo de Segurança entre a República Portuguesa e a República da Turquia sobre proteção mútua de informação classificada.
 
@@ -332,15 +318,11 @@ Restricted.
 
 7 - Em caso de suspeita ou de efetivo comprometimento da Informação Classificada, ou de divulgação de tal Informação a uma pessoa não autorizada, a Parte na qual ocorra ou possa ter ocorrido a violação ou divulgação adota todas as medidas necessárias em conformidade com as suas leis e regulamentos nacionais, informando de imediato a outra Parte desta situação, bem como das medidas adotadas e dos seus resultados.
 
-Artigo XI
-
-Garantia da qualidade
+###### Artigo XI — Garantia da qualidade
 
 São adotadas as publicações, normas, métodos e procedimentos no âmbito da Garantia da Qualidade da OTAN, salvo acordo em contrário assinado, em separado, pelas Partes.
 
-Artigo XII
-
-Assuntos jurídicos
+###### Artigo XII — Assuntos jurídicos
 
 1 - Durante a sua permanência no território do Estado de Receção, incluindo a sua entrada, permanência e saída, o Pessoal Convidado e respetivos Dependentes estão sujeitos às leis e aos regulamentos existentes no Estado de Receção.
 
@@ -354,9 +336,7 @@ Assuntos jurídicos
 
 6 - Só o Estado de Envio tem o direito de exercer jurisdição disciplinar sobre o Pessoal Convidado no território do Estado de Receção. Contudo, o Estado de Receção pode dar ordens ao Pessoal Convidado, sob o seu comando, conforme lhes seja exigido pelo dever.
 
-Artigo XIII
-
-Assuntos administrativos
+###### Artigo XIII — Assuntos administrativos
 
 1 - Não é atribuída ao Pessoal Convidado nenhuma outra missão que não as especificadas neste Acordo ou a especificar nos acordos complementares e de aplicação, memorandos de entendimento, protocolos e instrumentos a assinar em conformidade com este Acordo.
 
@@ -364,9 +344,7 @@ Assuntos administrativos
 
 3 - Sempre que necessário, o Estado de Receção envida os esforços necessários para fornecer o equipamento exigido para a realização das atividades definidas neste Acordo.
 
-Artigo XIV
-
-Assuntos financeiros
+###### Artigo XIV — Assuntos financeiros
 
 1 - O salário, o alojamento, a alimentação, o transporte, o per diem e outros direitos financeiros do Pessoal Convidado, afeto à execução das atividades de cooperação abrangidas por este Acordo, são suportados pelo Estado de Envio.
 
@@ -376,17 +354,13 @@ Assuntos financeiros
 
 4 - O Pessoal Convidado e os seus Dependentes estão sujeitos às leis tributárias vigentes no Estado de Receção durante a sua entrada, permanência e saída.
 
-Artigo XV
-
-Assuntos diversos
+###### Artigo XV — Assuntos diversos
 
 1 - O Estado de Envio reserva-se o direito de determinar o regresso do seu pessoal quando o julgar necessário. Assim que receba o pedido, o Estado de Receção deverá adotar todas as medidas tendentes a permitir o regresso do pessoal.
 
 2 - Em caso de morte de um membro do Pessoal Convidado ou dos seus Dependentes, o Estado de Receção informará o Estado de Envio e transportará o corpo para o aeroporto internacional mais próximo no seu território e adotará as medidas adequadas para proteger a saúde pública até à entrega do mesmo.
 
-Artigo XVI
-
-Perdas/danos e indemnizações
+###### Artigo XVI — Perdas/danos e indemnizações
 
 1 - Cada Parte compensa a outra Parte por qualquer dano causado à propriedade desta última em consequência de atos praticados pelo Pessoal Convidado, no exercício das suas funções.
 
@@ -394,37 +368,27 @@ Perdas/danos e indemnizações
 
 3 - Cada Parte renuncia a todos os seus pedidos de indemnização contra a outra Parte por lesão ou morte de qualquer membro do Pessoal Convidado no exercício das suas funções oficiais, exceto quando as mesmas resultarem de falta intencional ou de negligência.
 
-Artigo XVII
-
-Passaporte e procedimentos aduaneiros
+###### Artigo XVII — Passaporte e procedimentos aduaneiros
 
 1 - O Pessoal Convidado e os seus Dependentes estão sujeitos às regras aplicáveis aos estrangeiros no território do Estado de Receção.
 
 2 - Na entrada e saída do país, o Pessoal Convidado e os seus Dependentes estão sujeitos aos procedimentos aduaneiros e relativos ao passaporte previstos na lei do Estado de Receção. No entanto, o Estado de Receção facilita as formalidades administrativas, em conformidade com a sua legislação.
 
-Artigo XVIII
-
-Compromissos das Partes resultantes de outros acordos internacionais
+###### Artigo XVIII — Compromissos das Partes resultantes de outros acordos internacionais
 
 As disposições do presente Acordo não prejudicam os compromissos das Partes decorrentes de quaisquer outros acordos internacionais nos quais sejam Parte e não serão utilizadas contra a legalidade, os interesses, a segurança e a integridade territorial de outros Estados.
 
-Artigo XIX
-
-Solução de controvérsias
+###### Artigo XIX — Solução de controvérsias
 
 Qualquer controvérsia relativa à aplicação ou interpretação deste Acordo, que não tenha sido solucionada pela Comissão Conjunta estabelecida nos termos do artigo vii, será solucionada por meio de negociações entre as Partes, por via diplomática.
 
-Artigo XX
-
-Revisão
+###### Artigo XX — Revisão
 
 1 - O presente Acordo pode ser objeto de revisão mediante pedido escrito de qualquer uma das Partes.
 
 2 - As emendas entrarão em vigor nos termos previstos no artigo xxii deste Acordo.
 
-Artigo XXI
-
-Vigência e denúncia
+###### Artigo XXI — Vigência e denúncia
 
 1 - Este Acordo permanecerá em vigor por um período de cinco anos a partir da data da sua entrada em vigor, sendo automaticamente renovável por períodos sucessivos de um ano.
 
@@ -436,9 +400,7 @@ Vigência e denúncia
 
 5 - A denúncia não prejudicará a execução de quaisquer acordos complementares e de aplicação, memorandos de entendimento, protocolos e instrumentos, projeto, programa ou contrato, determinado e iniciado antes da denúncia deste Acordo, salvo acordo em contrário das Partes.
 
-Artigo XXII
-
-Entrada em vigor
+###### Artigo XXII — Entrada em vigor
 
 O presente Acordo entrará em vigor 30 dias após a data de receção da última notificação, por escrito, através da qual as Partes se informam mutuamente por via diplomática, do cumprimento dos respetivos requisitos de Direito interno necessários para o efeito.
 
@@ -452,9 +414,9 @@ José Pedro Correia de Aguiar-Branco, Ministro da Defesa Nacional.
 
 Pelo Governo da República da Turquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf))](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf), Ministro da Defesa Nacional.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf), Ministro da Defesa Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf))](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY ON DEFENCE INDUSTRY CO-OPERATION
 
@@ -806,4 +768,4 @@ José Pedro Correia de Aguiar-Branco, Minister of National Defence.
 
 For the Government of the Republic of Turkey:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf))](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf), Minister of National Defence.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/16500/0452804541.pdf), Minister of National Defence.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/934/1992/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/934-1992-232159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ec28fc36f3c1e408523292db734c9210554a0c56b387d64480e43ccf202b64f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc480efb8c7233741d631bb5db9a12e7c9297690b101442d1d64d13c9543f712
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,25 @@ subjects:
 - Escola Náutica Infante Dom Henrique
 - Impresso
 - Licenciatura
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:04Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +126,9 @@ O modelo de carta de curso do grau de licenciado conferido pela Escola Náutica 
 
 Ministérios da Educação e do Mar.
 
-**Assinada em 14 de Agosto de 1992.**
+Assinada em 14 de Agosto de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto do Ministro do Mar.**
+O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto do Ministro do Mar.
 
 ## ANEXO I — Escola Náutica Infante D. Henrique
 
@@ -138,7 +146,7 @@ Escola Náutica Infante D. Henrique, em (ver nota j) ...
 
 O Director (ver nota l), ...
 
-**O Chefe da Secretaria (ver nota m), ...**
+O Chefe da Secretaria (ver nota m), ...
 
 (nota a) Emblema da Escola Náutica Infante D. Henrique.
 
@@ -178,7 +186,7 @@ Escola Náutica Infante D. Henrique, em (ver nota j) ...
 
 O Director (ver nota l), ...
 
-**O Chefe da Secretaria (ver nota m), ...**
+O Chefe da Secretaria (ver nota m), ...
 
 (nota a) Emblema da Escola Náutica Infante D. Henrique.
 
@@ -220,7 +228,7 @@ Escola Náutica Infante D. Henrique, em (ver nota l) ...
 
 O Director (ver nota m), ...
 
-**O Chefe da Secretaria (ver nota n), ...**
+O Chefe da Secretaria (ver nota n), ...
 
 (nota a) Emblema da Escola Náutica Infante D. Henrique.
 

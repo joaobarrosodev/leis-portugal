@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/923/1992/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/923-1992-232345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed59cd90940d6aaf52560c165063885b029f4542a707ee2bb44c21b669c349f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb1903f1642ed6116941a3683f976269d547014ba088ec5d6dd25140e1854fac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Desenvolvimento Regional
+- Financiamento
 - Programa Interreg
 - Região Fronteiriça
 relationships:
@@ -75,16 +75,25 @@ relationships:
   target: pt:dre:496132:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496132:por
+  label: "Alterado o nº 5 pelo DEC LEI.19/94.1994.01.25.MOPTC DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1994-496132
+  date: '1994-01-25'
+- type: cites
+  target: pt:dre:516216:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:49Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +120,7 @@ Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Território, da Indústria e Energia, do Emprego e da Segurança Social e do Comércio e Turismo.
 
-**Assinada em 14 de Setembro de 1992.**
+Assinada em 14 de Setembro de 1992.
 
 Ministro das Finanças, Jorge Braga de Macedo. - Pelo Ministro do Planeamento e da Administração do Território, José Manuel Nunes Liberato, Secretário de Estado da Administração Local e do Ordenamento do Território. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 
@@ -161,9 +170,9 @@ c) Divisão 5 - Construção e obras públicas;
 
 d):
 
-##### Subdivisão 61 - Comércio por grosso;
+Subdivisão 61 - Comércio por grosso;
 
-##### Subdivisão 62, classe 620 - Comércio a retalho, excepto grupos:
+Subdivisão 62, classe 620 - Comércio a retalho, excepto grupos:
 
 6202.2- Farmácias;
 
@@ -171,7 +180,7 @@ d):
 
 6209.4 - Ourivesarias;
 
-##### Subdivisão 63, classe 631 - Restaurantes, cafés e actividade similares de comidas e bebidas;
+Subdivisão 63, classe 631 - Restaurantes, cafés e actividade similares de comidas e bebidas;
 
 e) Divisão 7 - Transportes, armazenagem e comunicações;
 

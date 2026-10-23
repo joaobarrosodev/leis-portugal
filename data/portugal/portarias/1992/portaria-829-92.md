@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/829/1992/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/829-1992-260586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0da60ea0182efdbeea6f4f01bc90ff96308d771b489b8790627f79604e1600db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d885c688065f01fd2e14e357dfc4586f99431ce1953557864e118498bd7fcd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,11 +71,11 @@ subjects:
 - Direcção de Gestão Habitacional do Norte
 - Direcção de Gestão Habitacional do SUL
 - Extinção de Lugares
-- Pessoal Operário
-- Ministério das Obras Públicas Transportes e Comunicações
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Ministério das Obras Públicas Transportes e Comunicações
 - Pessoal de BAD
 - Pessoal de Informática
+- Pessoal Operário
 - Pessoal Técnico Superior
 - Pessoal Técnico Superior de Serviço Social
 - Quadro de Pessoal
@@ -85,6 +85,12 @@ relationships:
   target: pt:dre:582408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582408:por
+  label: "Alterado o quadro do pessoal constante do quadro IV anexo ao Dec Lei 88/87 de 26-Fev DR.IS [48], na redacção do\
+    \ presente diploma e da Port 625/89 de 07-Ago, pela PORT.712/2000.2000.09.05.MES, DR.IS-B [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/712-2000-582408
+  date: '2000-09-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -97,16 +103,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:34Z'
   warnings: []
   errors: []
 ---
@@ -145,8 +187,8 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 17 de Julho de 1992.**
+Assinada em 17 de Julho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/195b00/41224124.pdf))](https://files.diariodarepublica.pt/1s/1992/08/195b00/41224124.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/195b00/41224124.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/814/1992/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/814-1992-282082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 555d61dafbfdb08630b99d14de53d55da91e2a0b612bf0e3fd4f2bf75865d880
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eed83e116d8b64e7eb2bb7ad8a4f9c8ec4b6ec9b7c6c5823c15b32800632f1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,21 @@ subjects:
 - Jogos Olímpicos
 - SELO Comemorativo
 - SELO Postal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:13Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +119,6 @@ Bloco com um selo de 250$00 - basquetebol - 100000.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 29 de Julho de 1992.**
+Assinada em 29 de Julho de 1992.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.

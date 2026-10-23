@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13600/0226802293.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/128/2016/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/128-2016-74967177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16faef607ff19e502c7a3c061b35bef8345ce20ca3499b2f124f3faf6f4e56fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a537782827f7eb1cfb5d389ee326ad362eb22b4482e070f557a86d99503f0b1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Lisboa
 - Contribuições e Impostos
-- Imposto sobre o Rendimento
-- OMAN
+- Convenção
 - Dupla Tributação
 - Evasão Fiscal
-relationships: []
+- Imposto sobre o Rendimento
+- Lisboa
+- OMAN
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:74967175:por
+  label: Ratificada a Convenção pelo(a) Decreto do Presidente da República n.º 36/2016 - Diário da República n.º 136/2016,
+    Série I de 2016-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/36-2016-74967175
+  date: '2016-07-18'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:48Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 6 de maio de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E O SULTANATO DE OMÃ PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -585,7 +591,7 @@ Pelo Sultanato de Omã:
 
 Humaid Ali Sultan Al-Maani, Embaixador do Sultanato de Omã Acreditado junto da República Portuguesa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13600/0226802293.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13600/0226802293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13600/0226802293.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE SULTANATE OF OMAN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME.
 

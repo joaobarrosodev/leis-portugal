@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 215/2014, 1º Suplemento, Série I de 2014-11-06
   number: '215'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5684-(2) a 5684-(1262)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/89-a/2014/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/89-a-2014-58801103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b400a1c785cc85d8bbd4902bc1c0053590833bc94c09093f772b61573e57b566
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37589e4907c533771fc2bbb72f14da82773801930292d296b29e2e8a5f19efc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - CE Países
 - Colômbia
-- PERU
+- Comércio
 - Convenção
 - Cooperação Comercial
-- Comércio
-- Bruxelas
+- PERU
 relationships:
+- type: amended_by
+  target: pt:dre:58801102:por
+  label: Ratificado o Acordo aprovado pelo presente diploma, pelo(a) Decreto do Presidente da República n.º 98-A/2014 - Diário
+    da República n.º 215/2014, 1º Suplemento, Série I de 2014-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/98-a-2014-58801102
+  date: '2014-11-06'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -115,15 +121,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2008/213/oj
 article_structure:
-  article_count: 431
-  section_count: 136
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 337
+  section_count: 72
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:30Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +142,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de outubro de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO COMERCIAL ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A COLÔMBIA E O PERU, POR OUTRO
 
@@ -1414,7 +1420,9 @@ g) Desempenha quaisquer outras funções acordadas mutuamente pelas Partes.
 
 2 - Salvo acordo em contrário das Partes no litígio, quando um litígio é objeto de consultas no âmbito do Subcomité MSF nos termos do n.º 1, essas consultas substituem as consultas previstas no artigo 301.º, desde que preencham os requisitos previstos no n.º 9 do referido artigo. As consultas no âmbito do Subcomité MSF consideram-se concluídas no prazo de 30 dias após a data da apresentação do pedido de consulta, a menos que as Partes consultantes acordem em prossegui-las. Estas consultas podem ser realizadas por teleconferência, videoconferência ou qualquer outro meio tecnológico acordado entre as Partes consultantes.
 
-### CAPÍTULO 6 — Artigo 105.º
+### CAPÍTULO 6
+
+###### Artigo 105.º
 
 Circulação de mercadorias
 
@@ -4352,7 +4360,7 @@ b) Toma em consideração qualquer preocupação manifestada pelos Países Andin
 
 ###### Artigo 332.º — Depositário
 
-**O Secretário-Geral do Conselho da União Europeia é o Depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia é o Depositário do presente Acordo.
 
 ###### Artigo 333.º — Alterações ao Acordo OMC
 
@@ -4380,7 +4388,7 @@ O presente Acordo é redigido em triplo exemplar nas línguas alemã, búlgara, 
 
 Em fé do que, os plenipotenciários abaixo assinados apuseram as suas assinaturas no presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 (1) Esta disposição não deve ser interpretada em detrimento das obrigações estabelecidas entre os Países Andinos signatários e a Parte UE nos artigos 10.º e 105.º
 
@@ -4596,7 +4604,7 @@ b) «Mercadorias pirateadas», ou seja, as mercadorias que sejam ou contenham c�
 
 ## ANEXO I — Listas de eliminação pautal
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Eliminação dos direitos aduaneiros
 
@@ -4654,43 +4662,43 @@ Salvo disposição em contrário da lista de eliminação pautal da Colômbia, s
 
 24 - Os níveis de direitos abaixo indicados aplicam-se às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento PA na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 6667 t métricas, com um aumento anual de 200 t métricas a partir do primeiro ano. As mercadorias importadas em quantidades superiores ao montante cumulado para cada ano devem receber o tratamento de NMF.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 25 - Os níveis de direitos abaixo indicados aplicam-se às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento AZ na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 20 667 t métricas (expressas em equivalente de açúcar em bruto), com um aumento anual de 620 t métricas a partir do primeiro ano. As mercadorias importadas em quantidades superiores ao montante cumulado para cada ano devem receber o tratamento de NMF.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 26 - Os níveis de direitos abaixo indicados aplicam-se às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento DB na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 1867 t métricas, com um aumento anual de 93,3 t métricas a partir do primeiro ano. As mercadorias importadas em quantidades superiores ao montante cumulado para cada ano devem receber o tratamento de NMF.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 27 - Os níveis de direitos abaixo indicados aplicam-se às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento LC na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 100 t métricas, com um aumento anual de 5 t métricas a partir do primeiro ano. As mercadorias importadas em quantidades superiores ao montante cumulado para cada ano devem receber o tratamento de NMF.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 28 - É concedida a isenção de direitos aduaneiros às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento TX na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 3000 t métricas, com um aumento anual de 300 t métricas a partir do primeiro ano. Para as mercadorias importadas em quantidades superiores ao montante cumulado incluído na lista em baixo para cada ano, aplicam-se os níveis de direitos aduaneiros extra-contingente abaixo indicados. A partir de 1de janeiro do 10.º ano, as mercadorias ficam isentas de quaisquer direitos aduaneiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 29 - É concedida a isenção de direitos às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento LS na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 2500 t métricas, com um aumento anual de 250 t métricas a partir do primeiro ano. Para as mercadorias importadas em quantidades superiores ao montante cumulado para cada ano, aplicam-se os níveis de direitos aduaneiros extra-contingente abaixo indicados. Sem prejuízo da medida de salvaguarda estabelecida na secção A do anexo iv («Medidas de salvaguarda agrícola»), a partir de 1 de janeiro do terceiro ano, as mercadorias ficam isentas de quaisquer direitos aduaneiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 30 - É concedida a isenção de direitos às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento LP1 na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 4000 t métricas, com um aumento anual de 400 t métricas a partir do primeiro ano. Para as mercadorias importadas em quantidades superiores ao montante cumulado incluído na lista em baixo, em cada ano, aplicam-se os níveis de direitos aduaneiros extra-contingente abaixo indicados. Sem prejuízo da medida de salvaguarda estabelecida na secção A do anexo iv («Medidas de salvaguarda agrícola»), a partir de 1 de janeiro do 15.º ano, as mercadorias ficam isentas de quaisquer direitos aduaneiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 31 - É concedida a isenção de direitos às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento LP2 na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 500 t métricas, com um aumento anual de 50 t métricas a partir do primeiro ano. Para as mercadorias importadas em quantidades superiores ao montante cumulado incluído na lista em baixo para cada ano, aplicam-se os níveis de direitos aduaneiros extra-contingente abaixo indicados. Sem prejuízo da medida de salvaguarda estabelecida na secção A do anexo iv («Medidas de salvaguarda agrícola»), a partir de 1 de janeiro do quinto ano, as mercadorias ficam isentas de quaisquer direitos aduaneiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 32 - É concedida a isenção de direitos às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento Q na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 2310 t métricas, com um aumento anual de 231 t métricas a partir do primeiro ano. Para as mercadorias importadas em quantidades superiores ao montante cumulado para cada ano, aplicam-se os níveis de direitos aduaneiros extra-contingente abaixo indicados. Sem prejuízo da medida de salvaguarda estabelecida na secção A do anexo iv («Medidas de salvaguarda agrícola»), a partir de 1 de janeiro do 15.º ano, as mercadorias ficam isentas de quaisquer direitos aduaneiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 33 - É concedida a isenção de direitos às mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento LM na data de entrada em vigor do presente Acordo, no que respeita a um contingente agregado de 1100 t métricas, com um aumento anual de 110 t métricas a partir do primeiro ano. Para as mercadorias importadas em quantidades superiores ao montante cumulado incluído na lista em baixo para cada ano, aplicam-se os níveis de direitos aduaneiros extra-contingente abaixo indicados. Sem prejuízo da medida de salvaguarda estabelecida na secção A do anexo iv («Medidas de salvaguarda agrícola»), a partir de 1 de janeiro do 15.º ano, as mercadorias ficam isentas de quaisquer direitos aduaneiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 34 - Todos os contingentes supra serão administrados segundo o método «primeiro a chegar, primeiro a ser servido».
 
@@ -4740,7 +4748,7 @@ m) O elemento ad valorem dos direitos aduaneiros sobre as mercadorias originári
 
 n) Aplica-se o seguinte direito aduaneiro sobre as mercadorias originárias previstas nas rubricas pautais na categoria de escalonamento BA na lista:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Os direitos aduaneiros preferenciais indicados no quadro aplicam-se a partir da data de entrada em vigor do presente Acordo; os direitos não são reduzidos retroactivamente;
 
@@ -4832,7 +4840,7 @@ h) Para as mercadorias originárias correspondentes às rubricas pautais na cate
 
 i) Aplica-se o seguinte direito aduaneiro às mercadorias originárias correspondentes às rubricas pautais na categoria de escalonamento BA na lista:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Os direitos aduaneiros preferenciais indicados no quadro aplicam-se a partir da data de entrada em vigor do presente Acordo em diante; os direitos aduaneiros não são reduzidos retroativamente;
 
@@ -4978,137 +4986,147 @@ b) Das subposições 170490, 180620, 190190, 200600, 200791, 200799, 210112, 210
 
 (1) O contingente é expresso em equivalente em peso por carcaça, do seguinte modo: 100 kg de carne com osso são equivalentes a 70 kg de carne desossada.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Preços de entrada da Parte UE
 
-#### SECÇÃO A — Colômbia
+SECÇÃO A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+Colômbia
 
-#### SECÇÃO B — Peru
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+SECÇÃO B
+
+Peru
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Lista de eliminação pautal da Colômbia para mercadorias originárias da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Listas de eliminação pautal da Parte UE para mercadorias originárias da Colômbia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Lista de eliminação pautal da parte UE para mercadorias originárias do Peru
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Listas de eliminação pautal do Peru para mercadorias originárias da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-## ANEXO II — Relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa
+ANEXO II
+
+Relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa
 
 Índice
 
-#### Secção 1 - Disposições gerais
+Secção 1 - Disposições gerais
 
-###### Artigo 1.º - Definições
+Artigo 1.º - Definições
 
-#### Secção 2 - Definição do conceito de «produtos originários»
+Secção 2 - Definição do conceito de «produtos originários»
 
-###### Artigo 2.º - Requisitos gerais
+Artigo 2.º - Requisitos gerais
 
-###### Artigo 3.º - Acumulação de origem
+Artigo 3.º - Acumulação de origem
 
-###### Artigo 4.º - Acumulação de origem com outros países
+Artigo 4.º - Acumulação de origem com outros países
 
-###### Artigo 5.º - Produtos inteiramente obtidos
+Artigo 5.º - Produtos inteiramente obtidos
 
-###### Artigo 6.º - Produtos objeto de operações de complemento de fabrico ou de transformação suficientes
+Artigo 6.º - Produtos objeto de operações de complemento de fabrico ou de transformação suficientes
 
-###### Artigo 7.º - Operações de complemento de fabrico ou de transformação insuficientes
+Artigo 7.º - Operações de complemento de fabrico ou de transformação insuficientes
 
-###### Artigo 8.º - Unidade de qualificação
+Artigo 8.º - Unidade de qualificação
 
-###### Artigo 9.º - Acessórios, peças sobressalentes e ferramentas
+Artigo 9.º - Acessórios, peças sobressalentes e ferramentas
 
-###### Artigo 10.º - Sortidos — Artigo 11.º - Elementos neutros
+Artigo 10.º - Sortidos
 
-#### Secção 3 - Requisitos territoriais
+Artigo 11.º - Elementos neutros
 
-###### Artigo 12.º - Princípio da territorialidade
+Secção 3 - Requisitos territoriais
 
-###### Artigo 13.º - Transporte direto
+Artigo 12.º - Princípio da territorialidade
 
-###### Artigo 14.º - Exposições
+Artigo 13.º - Transporte direto
 
-#### Secção 4 - Prova de origem
+Artigo 14.º - Exposições
 
-###### Artigo 15.º - Requisitos gerais
+Secção 4 - Prova de origem
 
-###### Artigo 16.º - Procedimento para a emissão de um certificado de circulação EUR.1
+Artigo 15.º - Requisitos gerais
 
-###### Artigo 17.º - Certificado de circulação EUR.1 emitido a posteriori
+Artigo 16.º - Procedimento para a emissão de um certificado de circulação EUR.1
 
-###### Artigo 18.º - Emissão de uma segunda via do certificado de circulação EUR.1
+Artigo 17.º - Certificado de circulação EUR.1 emitido a posteriori
 
-###### Artigo 19.º - Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
+Artigo 18.º - Emissão de uma segunda via do certificado de circulação EUR.1
 
-###### Artigo 20.º - Condições para fazer uma declaração na fatura
+Artigo 19.º - Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
 
-###### Artigo 21.º - Exportador autorizado
+Artigo 20.º - Condições para fazer uma declaração na fatura
 
-###### Artigo 22.º - Prazo de validade da prova de origem
+Artigo 21.º - Exportador autorizado
 
-###### Artigo 23.º - Apresentação da prova de origem
+Artigo 22.º - Prazo de validade da prova de origem
 
-###### Artigo 24.º - Importação em remessas escalonadas
+Artigo 23.º - Apresentação da prova de origem
 
-###### Artigo 25.º - Isenções da prova de origem
+Artigo 24.º - Importação em remessas escalonadas
 
-###### Artigo 26.º - Documentos comprovativos
+Artigo 25.º - Isenções da prova de origem
 
-###### Artigo 27.º - Conservação da prova de origem e dos documentos comprovativos
+Artigo 26.º - Documentos comprovativos
 
-###### Artigo 28.º - Discrepâncias e erros formais
+Artigo 27.º - Conservação da prova de origem e dos documentos comprovativos
 
-###### Artigo 29.º - Montantes expressos em euros
+Artigo 28.º - Discrepâncias e erros formais
 
-#### Secção 5 - Métodos de cooperação administrativa
+Artigo 29.º - Montantes expressos em euros
 
-###### Artigo 30.º - Cooperação entre autoridades competentes
+Secção 5 - Métodos de cooperação administrativa
 
-###### Artigo 31.º - Controlo da prova de origem
+Artigo 30.º - Cooperação entre autoridades competentes
 
-###### Artigo 32.º - Resolução de litígios
+Artigo 31.º - Controlo da prova de origem
 
-###### Artigo 33.º - Sanções — Artigo 34.º - Zonas francas
+Artigo 32.º - Resolução de litígios
 
-#### Secção 6 - Ceuta e Melilha
+Artigo 33.º - Sanções
 
-###### Artigo 35.º - Aplicação do presente anexo
+Artigo 34.º - Zonas francas
 
-###### Artigo 36.º - Condições especiais
+Secção 6 - Ceuta e Melilha
 
-#### Secção 7 - Disposições finais
+Artigo 35.º - Aplicação do presente anexo
 
-###### Artigo 37.º - Alterações ao presente anexo
+Artigo 36.º - Condições especiais
 
-###### Artigo 38.º - Disposições transitórias para os produtos em trânsito ou em depósito
+Secção 7 - Disposições finais
+
+Artigo 37.º - Alterações ao presente anexo
+
+Artigo 38.º - Disposições transitórias para os produtos em trânsito ou em depósito
 
 Lista de apêndices
 
-## Apêndice n.º 1 - Notas introdutórias da lista do apêndice n.º 2
+Apêndice n.º 1 - Notas introdutórias da lista do apêndice n.º 2
 
-## Apêndice n.º 2 - Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
+Apêndice n.º 2 - Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
 
-## Apêndice n.º 2A - Adenda à lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
+Apêndice n.º 2A - Adenda à lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
 
-## Apêndice n.º 3 - Modelos do certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
+Apêndice n.º 3 - Modelos do certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
-## Apêndice n.º 4 - Texto da declaração na fatura
+Apêndice n.º 4 - Texto da declaração na fatura
 
-## Apêndice n.º 5 - Produtos aos quais se aplica a alínea b) da Declaração da União Europeia relativa ao artigo 5.º no que respeita aos produtos originários do Peru e da Colômbia
+Apêndice n.º 5 - Produtos aos quais se aplica a alínea b) da Declaração da União Europeia relativa ao artigo 5.º no que respeita aos produtos originários do Peru e da Colômbia
 
 Declarações
 
@@ -5124,9 +5142,13 @@ Declaração comum relativa à República de São Marino
 
 Declaração comum relativa à revisão das regras de origem enunciadas no anexo ii relativo à definição de «produtos originários» e aos métodos de cooperação administrativa
 
-#### SECÇÃO 1 — Disposições gerais
+SECÇÃO 1
 
-###### Artigo 1.º — Definições
+Disposições gerais
+
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente anexo, entende-se por:
 
@@ -5162,11 +5184,13 @@ c) No que respeita à União Europeia, as autoridades aduaneiras dos Estados mem
 
 «Valor das matérias não originárias», o valor aduaneiro no momento da importação das matérias não originárias utilizadas ou, se esse valor não for conhecido e não puder ser determinado, o primeiro preço determinável pago pelas matérias não originárias na União Europeia ou num País Andino signatário.
 
-#### SECÇÃO 2
+SECÇÃO 2
 
 Definição do conceito de «produtos originários»
 
-###### Artigo 2.º — Requisitos gerais
+Artigo 2.º
+
+Requisitos gerais
 
 1 - Para efeitos da aplicação do presente Acordo, são considerados originários da União Europeia os seguintes produtos:
 
@@ -5180,7 +5204,9 @@ a) Produtos inteiramente obtidos nesse País Andino signatário, na aceção do 
 
 b) Produtos obtidos num País Andino signatário, em cuja fabricação sejam utilizadas matérias que aí não tenham sido inteiramente obtidas, desde que essas matérias tenham sido submetidas nesse País Andino signatário a operações de complemento de fabrico ou de transformação suficientes, na aceção do artigo 6.º
 
-###### Artigo 3.º — Acumulação da origem
+Artigo 3.º
+
+Acumulação da origem
 
 1 - As matérias originárias da União Europeia são consideradas matérias originárias de um País Andino signatário quando sejam incorporadas num produto aí obtido. Não é necessário que tais matérias tenham sido submetidas nesse País Andino signatário a operações de complemento de fabrico ou de transformação suficientes, desde que tenham sido submetidas a operações de complemento de fabrico ou de transformação que excedam as referidas no artigo 7.º
 
@@ -5200,7 +5226,9 @@ c) As convenções existentes em vigor entre os Países Andinos signatários e o
 
 6 - A prova do caráter originário, adquirido nos termos do n.º 4, dos produtos exportados para a União Europeia é estabelecida mediante um certificado de circulação EUR.1 emitido ou de uma declaração na fatura feita no país de exportação de acordo com o disposto na secção 4 (Prova de origem). Estes documentos contêm a seguinte menção «acumulação com [nome do país]».
 
-###### Artigo 4.º — Acumulação da origem com outros países
+Artigo 4.º
+
+Acumulação da origem com outros países
 
 1 - A pedido de um País Andino signatário ou da União Europeia, as matérias originárias de um país da América Central (2), da América do Sul ou das Caraíbas (a seguir referido neste artigo como «país não Parte») são consideradas originárias de um País Andino signatário ou da União Europeia, respetivamente, quando sejam processadas ou incorporadas posteriormente num produto aí obtido.
 
@@ -5226,7 +5254,9 @@ c) Tenham sido publicadas notificações no Jornal Oficial da União Europeia (s
 
 6 - As Partes podem acordar no âmbito do subcomité condições adicionais para a aplicação do presente artigo.
 
-###### Artigo 5.º — Produtos inteiramente obtidos
+Artigo 5.º
+
+Produtos inteiramente obtidos
 
 1 - Os seguintes produtos são considerados inteiramente obtidos na União Europeia ou num País Andino signatário:
 
@@ -5258,7 +5288,9 @@ k) Mercadorias aí produzidas exclusivamente a partir dos produtos especificados
 
 2 - Os termos «respetivos navios» e «respetivos navios-fábrica» no n.º 1, alíneas f) e g), aplicam-se unicamente aos navios e navios-fábrica que reúnam as condições estabelecidas nas declarações anexas ao presente anexo, que são parte integrante do presente Acordo.
 
-###### Artigo 6.º — Produtos objeto de operações de complemento de fabrico ou de transformação suficientes
+Artigo 6.º
+
+Produtos objeto de operações de complemento de fabrico ou de transformação suficientes
 
 1 - Para efeitos do artigo 2.º, os produtos que não tenham sido inteiramente obtidos são considerados objeto de operações de complemento de fabrico ou de transformação suficientes, quando estiverem preenchidas as condições estabelecidas na lista do apêndice n.º 2 (a seguir designada «lista»).
 
@@ -5274,7 +5306,9 @@ O presente número não se aplica aos produtos incluídos nos capítulos 50 a 63
 
 4 - Os n.os 1, 2 e 3 aplicam-se sob reserva do disposto no artigo 7.º
 
-###### Artigo 7.º — Operações de complemento de fabrico ou de transformação insuficientes (4)
+Artigo 7.º
+
+Operações de complemento de fabrico ou de transformação insuficientes (4)
 
 1 - Sem prejuízo do disposto no n.º 2, consideram-se insuficientes para conferir o caráter de produto originário, independentemente de estarem ou não satisfeitas as condições do artigo 6.º, as seguintes operações de complemento de fabrico ou de transformação:
 
@@ -5312,7 +5346,9 @@ p) Realização conjunta de duas ou mais das operações referidas nas alíneas 
 
 2 - Todas as operações efetuadas na União Europeia ou num País Andino signatário num produto são consideradas em conjunto para determinar se a operação de complemento de fabrico ou de transformação a que o produto foi submetido deve ser considerada insuficiente na aceção do n.º 1.
 
-###### Artigo 8.º — Unidade de qualificação
+Artigo 8.º
+
+Unidade de qualificação
 
 1 - A unidade de qualificação para a aplicação das disposições do presente anexo é a do produto específico considerado como unidade básica para a determinação da classificação através da nomenclatura do Sistema Harmonizado. Daí decorre que:
 
@@ -5322,15 +5358,21 @@ b) Quando uma remessa for composta por um certo número de produtos idênticos c
 
 2 - Quando, em aplicação da Regra Geral 5 do Sistema Harmonizado, forem consideradas na classificação do produto, as embalagens devem ser igualmente consideradas para efeitos de determinação da origem (6).
 
-###### Artigo 9.º — Acessórios, peças sobressalentes e ferramentas
+Artigo 9.º
+
+Acessórios, peças sobressalentes e ferramentas
 
 Os acessórios, peças sobressalentes e ferramentas expedidos com uma parte de equipamento, uma máquina, um aparelho ou um veículo, que façam parte do equipamento normal e estejam incluídos no respetivo preço ou não sejam faturados à parte, são considerados como constituindo um todo com a parte de equipamento, máquina, aparelho ou veículo em causa.
 
-###### Artigo 10.º — Sortidos
+Artigo 10.º
+
+Sortidos
 
 Os sortidos, definidos na Regra Geral 3 do Sistema Harmonizado, são considerados originários quando todos os seus componentes são produtos originários. No entanto, quando um sortido for composto por produtos originários e produtos não originários, esse sortido é considerado originário no seu conjunto, desde que o valor dos produtos não originários não exceda 15 % do preço do sortido à saída da fábrica.
 
-###### Artigo 11.º — Elementos neutros
+Artigo 11.º
+
+Elementos neutros
 
 A fim de determinar se um produto é originário, não é necessário averiguar a origem dos seguintes elementos eventualmente utilizados na sua fabricação:
 
@@ -5342,9 +5384,13 @@ c) Máquinas e ferramentas; ou
 
 d ) Mercadorias que não entram nem se destinam a entrar na composição final do produto.
 
-#### SECÇÃO 3 — Requisitos territoriais
+SECÇÃO 3
 
-###### Artigo 12.º — Princípio da territorialidade
+Requisitos territoriais
+
+Artigo 12.º
+
+Princípio da territorialidade
 
 1 - As condições estabelecidas na secção 2 relativas à aquisição do caráter de produto originário devem ser preenchidas ininterruptamente na União Europeia ou nos Países Andinos signatários.
 
@@ -5354,7 +5400,9 @@ a) As mercadorias reimportadas são as mesmas que foram exportadas; e
 
 b) As mercadorias não foram submetidas a outras operações para além das necessárias para assegurar a sua conservação no seu estado inalterado enquanto permaneceram nesse país ou quando da sua exportação.
 
-###### Artigo 13.º — Transporte direto
+Artigo 13.º
+
+Transporte direto
 
 1 - O tratamento preferencial previsto nos termos do presente Acordo só se aplica aos produtos que, satisfazendo os requisitos do presente anexo, sejam transportados diretamente entre a União Europeia e os Países Andinos signatários. Todavia, o transporte de produtos pode efetuar-se através de outros territórios com, se for necessário, eventuais transbordos ou armazenagem temporária nesses territórios, desde que permaneçam sob fiscalização das autoridades aduaneiras do país de trânsito ou de armazenagem temporária e não sejam objeto de outras operações para além da descarga, recarga ou qualquer outra operação destinada a assegurar a sua conservação em estado inalterado.
 
@@ -5368,7 +5416,9 @@ b) Documentos aduaneiros que autorizam o transbordo ou armazenagem temporária; 
 
 c) Na falta desses documentos, quaisquer documentos comprovativos.
 
-###### Artigo 14.º — Exposições
+Artigo 14.º
+
+Exposições
 
 1 - Os produtos originários expedidos para figurarem numa exposição num país que não a União Europeia e os Países Andinos signatários e serem vendidos, após a exposição, para importação na União Europeia ou nos Países Andinos signatários beneficiam, no momento da importação, do disposto no presente Acordo, desde que seja apresentada às autoridades aduaneiras prova suficiente de que:
 
@@ -5384,9 +5434,13 @@ d ) Os produtos não foram utilizados para fins diferentes do da apresentação 
 
 3 - O n.º 1 aplica-se a todas as exposições, feiras ou manifestações públicas análogas de caráter comercial, industrial, agrícola ou artesanal, que não sejam organizadas para fins privados em lojas e outros estabelecimentos comerciais para venda de produtos estrangeiros, durante as quais os produtos permaneçam sob controlo aduaneiro.
 
-#### SECÇÃO 4 — Prova de origem
+SECÇÃO 4
 
-###### Artigo 15.º — Requisitos gerais
+Prova de origem
+
+Artigo 15.º
+
+Requisitos gerais
 
 1 - Os produtos originários da União Europeia, aquando da importação nos Países Andinos signatários, e os produtos originários de um País Andino signatário, aquando da importação na União Europeia, beneficiam do presente Acordo, mediante a apresentação, em conformidade com a legislação interna da Parte de importação:
 
@@ -5396,7 +5450,9 @@ b) Nos casos referidos no artigo 20.º, n.º 1, de uma declaração (a seguir de
 
 2 - Não obstante o n.º 1, os produtos originários na aceção do presente anexo beneficiam, nos casos previstos no artigo 25.º, das disposições do presente Acordo, sem que seja necessário apresentar nenhum dos documentos acima referidos.
 
-###### Artigo 16.º — Procedimento para a emissão de um certificado de circulação EUR.1
+Artigo 16.º
+
+Procedimento para a emissão de um certificado de circulação EUR.1
 
 1 - O certificado de circulação EUR.1 é emitido pelas autoridades competentes ou autoridades aduaneiras da Parte de exportação, mediante pedido escrito do exportador ou, sob a sua responsabilidade, do seu representante autorizado.
 
@@ -5412,7 +5468,9 @@ b) Nos casos referidos no artigo 20.º, n.º 1, de uma declaração (a seguir de
 
 7 - O certificado de circulação EUR.1 é emitido pelas autoridades competentes ou autoridades aduaneiras e é posto à disposição do exportador logo que a exportação tenha sido efetivamente realizada ou assegurada.
 
-###### Artigo 17.º — Certificado de circulação EUR.1 emitido a posteriori
+Artigo 17.º
+
+Certificado de circulação EUR.1 emitido a posteriori
 
 1 - Não obstante o disposto no artigo 16.º, n.º 7, um certificado de circulação EUR.1 pode ser excecionalmente emitido após a exportação dos produtos a que se refere, se:
 
@@ -5426,27 +5484,33 @@ b) Forem apresentadas às autoridades competentes ou autoridades aduaneiras prov
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes frases:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 5 - As menções referidas no n.º 4 são inscritas na casa «Observações» do certificado de circulação EUR.1.
 
-###### Artigo 18.º — Emissão de uma segunda via do certificado de circulação EUR.1
+Artigo 18.º
+
+Emissão de uma segunda via do certificado de circulação EUR.1
 
 1 - Em caso de furto, extravio ou inutilização de um certificado de circulação EUR.1, o exportador pode pedir às autoridades competentes ou autoridades aduaneiras que o emitiram uma segunda via, passada com base nos documentos de exportação em posse dessas autoridades.
 
 2 - A segunda via emitida nos termos do n.º 1 deve conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 3 - As menções referidas no n.º 2 são inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
 4 - A segunda via, que deve conter a data de emissão do certificado de circulação EUR.1 original, produz efeitos a partir dessa data.
 
-###### Artigo 19.º — Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
+Artigo 19.º
+
+Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
 
 Quando os produtos originários forem colocados sob controlo de uma autoridade aduaneira na União Europeia ou num País Andino signatário, a substituição da prova de origem inicial por um ou mais certificados de circulação EUR.1 é possível para a expedição de todos ou alguns desses produtos para outros locais situados na União Europeia ou nos Países Andinos signatários. Os certificados de circulação EUR.1 de substituição são emitidos pela autoridade competente ou pela autoridade aduaneira, neste último caso, sob cujo controlo os produtos foram colocados.
 
-###### Artigo 20.º — Condições para fazer uma declaração na fatura
+Artigo 20.º
+
+Condições para fazer uma declaração na fatura
 
 1 - A declaração na fatura referida no artigo 15.º, n.º 1, alínea b), pode ser feita:
 
@@ -5464,7 +5528,9 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 6 - A declaração na fatura pode ser feita pelo exportador aquando da exportação dos produtos a que se refere, ou após a exportação, sob condição de ser apresentada na Parte de importação o mais tardar dois anos após a importação dos produtos a que se refere.
 
-###### Artigo 21.º — Exportador autorizado
+Artigo 21.º
+
+Exportador autorizado
 
 1 - As autoridades competentes ou autoridades adua-neiras da Parte de exportação podem autorizar qualquer exportador (a seguir designado «exportador autorizado»), que efetue frequentemente expedições de produtos ao abrigo do presente Acordo, a fazer declarações na fatura, independentemente do valor dos produtos em causa. Os exportadores que pretendam obter essa autorização devem oferecer às autoridades competentes ou autoridades aduaneiras todas as garantias necessárias para que se possa verificar o caráter originário dos produtos, bem como o cumprimento dos restantes requisitos previstos no presente anexo.
 
@@ -5476,7 +5542,9 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 5 - As autoridades competentes ou autoridades aduaneiras podem retirar a autorização em qualquer altura. Tais autoridades devem fazê-lo quando o exportador autorizado deixar de oferecer as garantias referidas no n.º 1, deixar de preencher as condições referidas no n.º 2 ou fizer um uso incorreto da autorização.
 
-###### Artigo 22.º — Validade da prova de origem
+Artigo 22.º
+
+Validade da prova de origem
 
 1 - A prova de origem é válida por 12 meses a contar da data de emissão do certificado de circulação EUR.1, ou da data em que a declaração na fatura é feita na Parte de exportação. Tal prova de origem deve ser apresentada dentro desse prazo às autoridades aduaneiras da Parte de importação, em conformidade com o seu direito interno.
 
@@ -5486,15 +5554,21 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 4 - Para efeitos da aplicação dos n.os 2 e 3, se uma prova de origem não for apresentada no momento da importação, o importador deve declarar às autoridades aduaneiras da Parte de importação a intenção de solicitar um tratamento pautal preferencial para os produtos em causa.
 
-###### Artigo 23.º — Apresentação da prova de origem
+Artigo 23.º
+
+Apresentação da prova de origem
 
 As provas de origem são apresentadas às autoridades aduaneiras da Parte de importação de acordo com os procedimentos aplicáveis nessa Parte. As referidas autoridades podem exigir que a tradução da prova de origem e a declaração de importação se façam acompanhar de uma declaração do importador em como os produtos satisfazem as condições requeridas para beneficiar da aplicação do presente Acordo.
 
-###### Artigo 24.º — Importação em remessas escalonadas
+Artigo 24.º
+
+Importação em remessas escalonadas
 
 Quando, a pedido do importador e nas condições estabelecidas pelas autoridades aduaneiras da Parte de importação, os produtos desmontados ou por montar na aceção da Regra Geral 2 a) do Sistema Harmonizado, das secções xvi e xvii ou das posições 7308 e 9406 do Sistema Harmonizado, forem importados em remessas escalonadas, é apresentada uma única prova de origem desses produtos às autoridades aduaneiras aquando da importação da primeira remessa escalonada.
 
-###### Artigo 25.º — Isenções da prova de origem
+Artigo 25.º
+
+Isenções da prova de origem
 
 1 - Os produtos enviados em pequenas remessas por particulares a particulares, ou contidos na bagagem pessoal dos viajantes, são considerados produtos originários, sem que seja necessária a apresentação de uma prova de origem, desde que não sejam importados com fins comerciais e tenham sido declarados como satisfazendo os requisitos do presente anexo, e quando não haja dúvidas quanto à veracidade dessa declaração. No caso dos produtos enviados por via postal, essa declaração pode ser feita na declaração aduaneira ou numa folha de papel apensa a esse documento.
 
@@ -5508,7 +5582,9 @@ b) Para importação num País Andino signatário, 2000 dólares americanos (USD
 
 4 - Para efeitos de aplicação do n.º 3, quando os produtos estiverem faturados numa outra moeda que não o euro ou o dólar americano (USD), o contravalor, nas moedas nacionais das Partes, dos montantes expressos em euros ou em USD é fixado em conformidade com a taxa de câmbio em vigor aplicável na Parte de importação.
 
-###### Artigo 26.º — Documentos comprovativos
+Artigo 26.º
+
+Documentos comprovativos
 
 Os documentos referidos no artigo 16, n.º 3, e no artigo 20.º, n.º 3, utilizados para comprovar que os produtos abrangidos por um certificado de circulação EUR.1 ou por uma declaração na fatura podem ser considerados produtos originários numa Parte e cumprem os restantes requisitos do presente anexo podem consistir, entre outros, nos seguintes elementos:
 
@@ -5520,7 +5596,9 @@ c) Documentos comprovativos das operações de complemento de fabrico ou de tran
 
 d ) Certificados de circulação EUR.1 ou declarações na fatura comprovativos do caráter originário das matérias utilizadas, emitidos ou estabelecidos numa Parte em conformidade com o presente anexo.
 
-###### Artigo 27.º — Conservação da prova de origem e dos documentos comprovativos
+Artigo 27.º
+
+Conservação da prova de origem e dos documentos comprovativos
 
 1 - O exportador que apresenta o pedido de emissão de um certificado de circulação EUR.1 conserva durante, pelo menos, três anos os documentos referidos no artigo 16.º, n.º 3.
 
@@ -5530,13 +5608,17 @@ d ) Certificados de circulação EUR.1 ou declarações na fatura comprovativos 
 
 4 - As autoridades aduaneiras da Parte de importação, em conformidade com a legislação interna da Parte de importação, conservam durante, pelo menos, três anos os certificados de circulação EUR.1 e as declarações na fatura que lhes forem apresentados.
 
-###### Artigo 28.º — Discrepâncias e erros formais
+Artigo 28.º
+
+Discrepâncias e erros formais
 
 1 - A deteção de ligeiras discrepâncias entre as declarações constantes da prova de origem e as dos documentos apresentados na estância aduaneira para cumprimento das formalidades de importação dos produtos não implica ipso facto a nulidade da prova de origem nula e sem efeito, desde que seja devidamente comprovado que esse documento corresponde efetivamente aos produtos apresentados.
 
 2 - Os erros formais manifestos, como os erros de datilografia, detetados numa prova de origem não deverão justificar a rejeição do documento se esses erros não suscitarem dúvidas quanto à exatidão das declarações prestadas no referido documento.
 
-###### Artigo 29.º — Montantes expressos em euros
+Artigo 29.º
+
+Montantes expressos em euros
 
 1 - Para efeitos de aplicação do artigo 20.º, n.º 1, alínea b), e do artigo 25.º, n.º 3, quando os produtos estiverem faturados numa outra moeda que não o euro, o contravalor, nas moedas nacionais dos Estados membros da União Europeia, dos montantes expressos em euros é fixado anualmente pela União Europeia e comunicado aos Países Andinos signatários.
 
@@ -5548,9 +5630,13 @@ d ) Certificados de circulação EUR.1 ou declarações na fatura comprovativos 
 
 5 - Os montantes expressos em euros são revistos pelo subcomité a pedido de uma das Partes. Ao proceder a essa revisão, o subcomité considera a conveniência de preservar os efeitos dos limites em causa em termos reais. Para o efeito, o subcomité pode decidir alterar os montantes expressos em euros.
 
-#### SECÇÃO 5 — Métodos de cooperação administrativa
+SECÇÃO 5
 
-###### Artigo 30.º — Cooperação entre autoridades competentes
+Métodos de cooperação administrativa
+
+Artigo 30.º
+
+Cooperação entre autoridades competentes
 
 1 - As autoridades competentes ou autoridades adua-neiras dos Estados membros da União Europeia e dos Países Andinos signatários facultam-se mutuamente, através da Comissão Europeia, os espécimes dos cunhos dos carimbos utilizados para a emissão de certificados de circulação EUR.1 e os endereços das autoridades competentes ou autoridades aduaneiras responsáveis pelo controlo desses certificados e das declarações na fatura.
 
@@ -5560,7 +5646,9 @@ d ) Certificados de circulação EUR.1 ou declarações na fatura comprovativos 
 
 4 - Com vista a assegurar a correta aplicação do presente anexo, a União Europeia e os Países Andinos signatários prestam assistência recíproca, por intermédio das autoridades competentes ou autoridades aduaneiras, no controlo da autenticidade dos certificados de circulação EUR.1 ou das declarações na fatura e também no controlo da exatidão das menções inscritas nesses documentos.
 
-###### Artigo 31.º — Controlo da prova de origem
+Artigo 31.º
+
+Controlo da prova de origem
 
 1 - Os controlos a posteriori da prova de origem efetuam-se aleatoriamente ou sempre que as autoridades competentes ou as autoridades aduaneiras da Parte de importação tenham dúvidas fundadas quanto à autenticidade de tais documentos, ao caráter originário dos produtos em causa, ou ao cumprimento dos restantes requisitos do presente anexo.
 
@@ -5576,7 +5664,9 @@ d ) Certificados de circulação EUR.1 ou declarações na fatura comprovativos 
 
 7 - Para efeitos do presente artigo, as comunicações de trabalho entre as autoridades competentes ou autoridades aduaneiras das Partes de importação e de exportação são efetuadas em inglês ou espanhol, ou são acompanhadas de uma tradução em inglês ou espanhol.
 
-###### Artigo 32.º — Resolução de litígios
+Artigo 32.º
+
+Resolução de litígios
 
 1 - Em caso de litígio relativamente aos procedimentos de controlo previstos no artigo 31.º, que não possa ser resolvido entre as autoridades competentes ou autoridades aduaneiras que requerem o controlo e as autoridades competentes ou autoridades aduaneiras responsáveis pela sua realização, ou em caso de dúvida quanto à interpretação do presente anexo, esses litígios são submetidos ao subcomité.
 
@@ -5584,19 +5674,27 @@ d ) Certificados de circulação EUR.1 ou declarações na fatura comprovativos 
 
 3 - Qualquer caso relativo a um litígio entre um importador e a autoridade competente ou autoridade aduaneira da Parte de importação é resolvido em conformidade com a legislação dessa Parte.
 
-###### Artigo 33.º — Sanções
+Artigo 33.º
+
+Sanções
 
 São aplicadas sanções, de acordo com a respetiva legislação interna de cada Parte, a quem emita ou mande emitir um documento contendo informações inexatas com o objetivo de obter um tratamento preferencial para os produtos.
 
-###### Artigo 34.º — Zonas francas
+Artigo 34.º
+
+Zonas francas
 
 1 - As Partes tomam todas as medidas necessárias para assegurar que os produtos comercializados ao abrigo de uma prova de origem que, durante o seu transporte, permaneçam numa zona franca situada no respetivo território, não sejam substituídos por outros produtos ou sujeitos a manipulações que não as operações usuais destinadas a impedir a sua deterioração.
 
 2 - Não obstante o n.º 1, quando os produtos originários da União Europeia ou de um País Andino signatário entram numa zona franca ao abrigo de uma prova de origem e são sujeitos a um tratamento ou a uma transformação, as autoridades em causa emitem um novo certificado de circulação EUR.1 a pedido do exportador, se esse tratamento ou essa transformação estiverem em conformidade com as disposições do presente anexo.
 
-#### SECÇÃO 6 — Ceuta e Melilha
+SECÇÃO 6
 
-###### Artigo 35.º — Aplicação do presente anexo
+Ceuta e Melilha
+
+Artigo 35.º
+
+Aplicação do presente anexo
 
 1 - O termo «União Europeia» utilizado no artigo 2.º não abrange Ceuta e Melilha.
 
@@ -5604,7 +5702,9 @@ São aplicadas sanções, de acordo com a respetiva legislação interna de cada
 
 3 - Para efeitos de aplicação do n.º 2, o presente anexo aplica-se, mutatis mutandis, aos produtos originários de Ceuta e Melilha, sob reserva das condições especiais estabelecidas no artigo 36.º
 
-###### Artigo 36.º — Condições especiais
+Artigo 36.º
+
+Condições especiais
 
 1 - Sob reserva de terem sido objeto de transporte direto de acordo com o disposto no artigo 13.º, consideram-se:
 
@@ -5634,13 +5734,19 @@ B) Esses produtos sejam originários de Ceuta e Melilha ou da União Europeia, d
 
 4 - As autoridades aduaneiras espanholas são responsáveis pela aplicação do presente anexo em Ceuta e Melilha.
 
-#### SECÇÃO 7 — Disposições finais
+SECÇÃO 7
 
-###### Artigo 37.º — Alterações ao presente anexo
+Disposições finais
+
+Artigo 37.º
+
+Alterações ao presente anexo
 
 Por força do artigo 13.º, n.º 2, alínea g), subalínea iii), do presente Acordo, o Comité de Comércio pode decidir alterar as disposições do presente anexo.
 
-###### Artigo 38.º — Disposições transitórias para os produtos em trânsito ou em depósito
+Artigo 38.º
+
+Disposições transitórias para os produtos em trânsito ou em depósito
 
 O presente Acordo pode aplicar-se aos produtos que satisfaçam o disposto no presente anexo e que, à data de entrada em vigor do presente Acordo, estejam em trânsito, ou se encontrem numa Parte, em depósito provisório em entrepostos aduaneiros ou zonas francas, desde que seja apresentada às autoridades aduaneiras da Parte de importação, no prazo de 12 meses a contar dessa data, uma prova de origem emitida a posteriori, acompanhada dos documentos comprovativos de que as mercadorias foram objeto de transporte direto nos termos do artigo 13.º
 
@@ -5658,7 +5764,7 @@ No entanto, o facto de a operação não ser considerada insuficiente não signi
 
 (6) Quando os produtos forem considerados como inteiramente obtidos, as embalagens não devem ser tidas em conta para efeitos de determinação da origem.
 
-## Apêndice n.º 1
+Apêndice n.º 1
 
 Notas introdutórias da lista do apêndice n.º 2
 
@@ -5860,15 +5966,15 @@ o) Apenas no que respeita aos produtos derivados do petróleo bruto da posição
 
 7.3 - Na aceção das posições ex 2707, 2713 a 2715, ex 2901, ex 2902 e ex 3403, as operações simples, tais como limpeza, decantação, dessalinização, separação da água, filtragem, coloração, marcação de que se obtém um teor de enxofre através da mistura de produtos com teores de enxofre diferentes, bem como qualquer realização conjunta destas operações ou operações semelhantes, não conferem a origem.
 
-## Apêndice n.º 2
+Apêndice n.º 2
 
 Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto fabricado possa adquirir o caráter de produto originário
 
 Nem todos os produtos indicados na lista são abrangidos pelo presente Acordo. É, pois, necessário consultar as outras partes do presente Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-## Apêndice n.º 2A
+Apêndice n.º 2A
 
 Adenda à lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto fabricado possa adquirir o caráter de produto originário.
 
@@ -5886,7 +5992,7 @@ Nota 1
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da União Europeia para a Colômbia ou o Peru dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Colômbia - 120 t.
 
@@ -5896,13 +6002,13 @@ Nota 2
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da União Europeia para o Peru e do Peru para a União Europeia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Nota 3
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da União Europeia para a Colômbia ou o Peru dentro dos limites dos contingentes anuais por país indicado infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Colômbia - 100 t.
 
@@ -5912,13 +6018,13 @@ Nota 4
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da União Europeia para o Peru e do Peru para a União Europeia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Nota 5
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da Colômbia e do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Colômbia - 15 000 t.
 
@@ -5930,7 +6036,7 @@ Nota 6
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicado infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Esta quantidade é sujeita a revisão de três em três anos, num período de 12 anos. Se mais de 75 % da quantidade do contingente estabelecida supra for utilizada por ano durante esse período de três anos, a quantidade para os três anos seguintes será aumentada pela taxa de crescimento ao longo do mesmo período das exportações do Peru para a União Europeia dos produtos dos capítulos 50 a 63 ou de 5 %, consoante o que for mais elevado.
 
@@ -5940,7 +6046,7 @@ Nota 7
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da Colômbia e do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Se mais de 75 % das quantidades do contingente estabelecido supra forem utilizadas durante um dado ano, essas quantidades são revistas, com vista a chegar a acordo quanto ao seu aumento, no subcomité.
 
@@ -5948,7 +6054,7 @@ Nota 8
 
 As regras de origem previstas no apêndice n.º 2 para os produtos abaixo enumerados aplicam-se enquanto a União Europeia mantiver 0 % de direitos consolidados da OMC para esses produtos. Se a União Europeia aumentar os direitos consolidados da OMC aplicáveis a esses produtos, a regra seguinte confere o caráter de produto originário aos produtos exportados da Colômbia e do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Quando, num determinado ano, se atingir 50 % de uma entrada de contingente, a tonelagem anual aumenta 50 % para o ano seguinte. A base de cálculo é a quantidade do contingente do ano anterior. Essas quantidades, bem como a base de cálculo, podem ser revistas a pedido de qualquer uma das Partes, mediante acordo com as outras Partes.
 
@@ -5956,11 +6062,11 @@ Nota 9
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da Colômbia e do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Essas quantidades podem ser revistas a pedido de qualquer uma das Partes, mediante acordo com as outras Partes.
 
-## Apêndice n.º 3
+Apêndice n.º 3
 
 Modelos do certificado de circulação EUR. 1 e pedido de certificado de circulação EUR. 1
 
@@ -5972,17 +6078,17 @@ Instruções para a impressão
 
 Certificado de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Pedido de certificado de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Declaração do exportador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-## Apêndice n.º 4
+Apêndice n.º 4
 
 Declaração na fatura
 
@@ -5990,15 +6096,15 @@ Requisitos específicos para fazer uma declaração na fatura
 
 A declaração na fatura, cujo texto é a seguir apresentado, é feita utilizando uma das versões linguísticas seguintes e em conformidade com a legislação interna da Parte de exportação. Se for manuscrita, a declaração é preenchida a tinta e em letras de imprensa. A declaração na fatura deve ser feita de acordo com as respetivas notas de pé-de-página. As notas de pé-de-página não têm de ser reproduzidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-## Apêndice n.º 5
+Apêndice n.º 5
 
 Produtos aos quais se aplica a alínea b) da Declaração da União Europeia relativa ao artigo 5.º no que respeita aos produtos originários do Peru e da Colômbia
 
 1 - As condições definidas na alínea b) da Declaração da União Europeia relativa ao artigo 5.º no que respeita aos produtos originários do Peru e da Colômbia aplicam-se na determinação da origem dos produtos a seguir indicados exportados do Peru para a União Europeia e sujeitos aos contingentes anuais estabelecidos infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 2 - As provas de origem emitidas ou estabelecidas para os produtos que utilizam os contingentes indicados no presente apêndice contêm a seguinte declaração em inglês: «Product originating in accordance with Appendix 5 of Annex II».
 
@@ -6088,7 +6194,9 @@ Declaração comum relativa à revisão das regras de origem enunciadas no anexo
 
 3 - As Partes acordam em analisar a viabilidade da implementação de uma prova de origem digital.
 
-## ANEXO III — Disposições especiais sobre cooperação administrativa
+ANEXO III
+
+Disposições especiais sobre cooperação administrativa
 
 1 - As Partes acordam em que a cooperação administrativa entre as respetivas autoridades competentes é essencial para a aplicação e o controlo do tratamento preferencial concedido ao abrigo do presente Acordo e reafirmam o seu empenho em combater potenciais problemas a este respeito.
 
@@ -6114,9 +6222,13 @@ c) As suspensões temporárias não excedem um período de seis meses, que pode 
 
 (1) Para efeitos do presente número, a referência a um subcomité no artigo 301.º, n.º 9, deve entender-se como referência ao Comité de Comércio.
 
-## ANEXO IV — Medidas de salvaguarda agrícola
+ANEXO IV
 
-#### SECÇÃO A — Colômbia
+Medidas de salvaguarda agrícola
+
+SECÇÃO A
+
+Colômbia
 
 Mercadorias abrangidas e volumes de importação de desencadeamento
 
@@ -6124,35 +6236,41 @@ Para efeitos do artigo 29.º do presente Acordo, listam-se em seguida as mercado
 
 Categoria de escalonamento LP1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Categoria de escalonamento LP2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Categoria de escalonamento LS:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Categoria de escalonamento Q:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Categoria de escalonamento LM:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-#### SECÇÃO B — Peru
+SECÇÃO B
+
+Peru
 
 1 - O Peru pode aplicar uma medida de salvaguarda agrícola prevista no artigo 29.º do presente Acordo às mercadorias enumeradas no presente anexo quando o montante das importações exceder em 10 por cento o volume do contingente pautal estabelecido para esse ano na secção C do apêndice 1 do Anexo I (Listas de eliminação pautal).
 
 2 - Para a posição 1601, o Peru pode aplicar uma medida de salvaguarda agrícola se o montante das importações exceder 400 toneladas métricas. Este montante é aumentado em 40 toneladas métricas cada ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-## ANEXO V — Assistência administrativa mútua em matéria aduaneira
+ANEXO V
 
-###### Artigo 1.º — Definições
+Assistência administrativa mútua em matéria aduaneira
+
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente anexo, entende-se por:
 
@@ -6166,7 +6284,9 @@ Para efeitos do presente anexo, entende-se por:
 
 - «Autoridade requerida», a autoridade administrativa competente que para o efeito tenha sido designada por uma Parte e que receba um pedido de assistência ao abrigo do presente anexo.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - As Partes devem prestar-se assistência mútua, no âmbito das suas competências, segundo as modalidades e as condições previstas no presente anexo, tendo em vista assegurar a correta aplicação da legislação aduaneira, nomeadamente através da prevenção, da investigação e da repressão de operações contrárias a essa legislação.
 
@@ -6174,7 +6294,9 @@ Para efeitos do presente anexo, entende-se por:
 
 3 - A assistência em matéria de cobrança de direitos e imposições ou sanções pecuniárias não está abrangida pelo presente anexo.
 
-###### Artigo 3.º — Assistência mediante pedido
+Artigo 3.º
+
+Assistência mediante pedido
 
 1 - A pedido de uma autoridade requerente, a autoridade requerida presta todos os esclarecimentos úteis para permitir que aquela assegure a correta aplicação da legislação adua-neira, incluindo os esclarecimentos relativos a atividades constatadas ou previstas que constituam ou sejam suscetíveis de constituir operações contrárias à legislação aduaneira.
 
@@ -6194,7 +6316,9 @@ c) Mercadorias que são ou podem ser transportadas em condições tais que haja 
 
 d ) Meios de transporte que são ou podem ser utilizados em condições tais que haja motivos razoáveis para supor que tais mercadorias se destinam a ser utilizados em operações contrárias à legislação aduaneira.
 
-###### Artigo 4.º — Assistência espontânea
+Artigo 4.º
+
+Assistência espontânea
 
 As Partes prestam-se assistência mútua, por sua própria iniciativa e em conformidade com as respetivas disposições legislativas, normas e quaisquer outros instrumentos jurídicos se considerarem que tal é necessário para a correta aplicação da legislação aduaneira, designadamente fornecendo as informações obtidas relativamente a:
 
@@ -6208,13 +6332,17 @@ d ) Pessoas singulares ou coletivas relativamente às quais haja motivos razoáv
 
 e) Meios de transporte em relação aos quais haja motivos razoáveis para supor que foram, são ou podem ser utilizados para efetuar operações contrárias à legislação aduaneira.
 
-###### Artigo 5.º — Entrega e notificação
+Artigo 5.º
+
+Entrega e notificação
 
 1 - A pedido de uma autoridade requerente, a autoridade requerida toma, em conformidade com as suas disposições legislativas e regulamentares, todas as medidas necessárias para entregar todos os documentos ou notificar todas as decisões emanadas da autoridade requerente, e abrangidas pelo âmbito de aplicação do presente anexo, a um destinatário que resida ou esteja estabelecido no território da autoridade requerida.
 
 2 - Os pedidos de entrega de documentos ou notificação de decisões são feitos por escrito, em espanhol ou inglês, consoante o idioma aceitável para a autoridade requerida.
 
-###### Artigo 6.º — Forma e conteúdo dos pedidos de assistência
+Artigo 6.º
+
+Forma e conteúdo dos pedidos de assistência
 
 1 - Os pedidos apresentados nos termos do presente anexo devem ser feitos por escrito. Tais pedidos devem ser acompanhados de todos os documentos necessários para dar satisfação ao pedido. Sempre que a urgência o justifique, podem ser aceites pedidos orais, que devem, no entanto, ser imediatamente confirmados por escrito.
 
@@ -6236,7 +6364,9 @@ f ) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - No caso de um pedido não satisfazer os requisitos estabelecidos nos n.os 2 e 3, pode solicitar-se que seja corrigido ou completado; entretanto, podem ser tomadas medidas cautelares, de acordo com as leis, regulamentos e outros instrumentos jurídicos da Parte em causa.
 
-###### Artigo 7.º — Execução dos pedidos
+Artigo 7.º
+
+Execução dos pedidos
 
 1 - A fim de dar seguimento a um pedido de assistência, a autoridade requerida age, no âmbito das suas competências e dos recursos disponíveis, como se o fizesse por sua própria iniciativa ou a pedido de outras autoridades dessa Parte, prestando as informações de que disponha, efetuando ou mandando efetuar os inquéritos adequados. O disposto no presente número aplica-se igualmente a qualquer outra autoridade à qual a autoridade requerida tenha dirigido o pedido, quando esta última não pode agir por si só.
 
@@ -6246,7 +6376,9 @@ f ) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - Os funcionários devidamente autorizados de uma Parte podem, com o acordo da outra Parte em causa e nas condições por ela previstas, estar presentes quando da realização de inquéritos no território desta última.
 
-###### Artigo 8.º — Forma de comunicação das informações
+Artigo 8.º
+
+Forma de comunicação das informações
 
 1 - A autoridade requerida comunica por escrito os resultados dos pedidos de assistência à autoridade requerente, juntamente com os documentos, as cópias autenticadas, os relatórios ou outros instrumentos relevantes.
 
@@ -6254,7 +6386,9 @@ f ) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 3 - Os documentos previstos no presente anexo não necessitarão de certificação adicional, autenticação ou qualquer outro tipo de formalidades além das proporcionadas pela autoridade administrativa competente e devem ser considerados como autênticos.
 
-###### Artigo 9.º — Exceções à obrigação de prestar assistência
+Artigo 9.º
+
+Exceções à obrigação de prestar assistência
 
 1 - A assistência pode ser recusada ou sujeita a determinadas condições ou requisitos nos casos em que uma das Partes considerar que a assistência ao abrigo do presente anexo:
 
@@ -6272,7 +6406,9 @@ d ) É inconstitucional ou contrária às suas leis, regulamentos ou outros inst
 
 4 - Nos casos referidos nos n.os 1 e 2, a decisão da autoridade requerida e as razões que a justificam devem ser comunicadas sem demora à autoridade requerente.
 
-###### Artigo 10.º — Intercâmbio de informações e confidencialidade
+Artigo 10.º
+
+Intercâmbio de informações e confidencialidade
 
 1 - As informações comunicadas, sob qualquer forma, nos termos do presente anexo têm caráter confidencial ou reservado, de acordo com as regras aplicadas em cada Parte. As informações estão cobertas pela obrigação do segredo oficial e beneficiam da proteção prevista na legislação aplicável na matéria na Parte que as recebeu, bem como nas disposições correspondentes aplicáveis às autoridades da Parte UE.
 
@@ -6284,15 +6420,21 @@ d ) É inconstitucional ou contrária às suas leis, regulamentos ou outros inst
 
 5 - As informações obtidas nos termos do presente anexo são utilizadas exclusivamente para fins de aplicação do mesmo. Se uma das Partes pretender utilizar essas informações para outros fins, deve obter a autorização prévia, por escrito, da autoridade que as forneceu. Nesse caso, as informações ficam sujeitas às restrições impostas por essa autoridade.
 
-###### Artigo 11.º — Peritos e testemunhas
+Artigo 11.º
+
+Peritos e testemunhas
 
 Um funcionário da autoridade requerida pode ser autorizado a comparecer, nos limites estabelecidos na autorização que lhe foi concedida, como perito ou testemunha em ações judiciais ou administrativas relativas a questões abrangidas pelo presente anexo e a apresentar os objetos, documentos ou respetivas cópias autenticadas eventualmente necessários para esse efeito. O pedido de comparência deve indicar especificamente a autoridade judicial ou administrativa perante a qual esse funcionário deverá comparecer e sobre que assunto, a que título ou em que qualidade será interrogado.
 
-###### Artigo 12.º — Despesas de assistência
+Artigo 12.º
+
+Despesas de assistência
 
 As Partes renunciam a exigir o reembolso de despesas incorridas no âmbito do presente anexo, exceto, se for caso disso, no que se refere às despesas com peritos e testemunhas e com intérpretes e tradutores que não sejam funcionários da administração pública.
 
-###### Artigo 13.º — Aplicação
+Artigo 13.º
+
+Aplicação
 
 1 - A aplicação do presente anexo é confiada, por um lado, às autoridades aduaneiras ou outras autoridades competentes designadas pelo País Andino signatário em causa e, por outro, aos serviços competentes da Comissão Europeia e, se for caso disso, às autoridades aduaneiras dos Estados-Membros da União Europeia.
 
@@ -6300,7 +6442,9 @@ As Partes renunciam a exigir o reembolso de despesas incorridas no âmbito do pr
 
 3 - As Partes consultam-se e mantêm-se mutuamente informadas sobre as disposições de aplicação adotadas em conformidade com as disposições do presente anexo.
 
-###### Artigo 14.º — Outros acordos
+Artigo 14.º
+
+Outros acordos
 
 1 - Tendo em conta as competências respetivas da União Europeia e dos Estados-Membros da União Europeia, as disposições do presente anexo:
 
@@ -6314,9 +6458,11 @@ c) Não afetam as disposições da União Europeia relativas à comunicação, e
 
 3 - As Partes realizam consultas no âmbito do Subcomité das Alfândegas, Facilitação do Comércio e Regras de Origem estabelecido no artigo 68.º do presente Acordo para resolver qualquer questão relativa à aplicabilidade do presente anexo.
 
-## ANEXO VI — Medidas sanitárias e fitossanitárias
+ANEXO VI
 
-## APÊNDICE 1
+Medidas sanitárias e fitossanitárias
+
+APÊNDICE 1
 
 Autoridades competentes
 
@@ -6354,7 +6500,7 @@ d ) Instituto Tecnológico Pesquero (a seguir designado «ITP»);
 
 e) Ministerio de Comercio Exterior y Turismo (a seguir designado «MINCETUR»).
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Requisitos e disposições de aprovação dos estabelecimentos de produtos de origem animal
 
@@ -6394,7 +6540,7 @@ f ) Todos os estabelecimentos para leite e produtos lácteos para a alimentaçã
 
 g) Estabelecimentos de transformação e navios-fábrica/navios-congeladores para produtos da pesca para a alimentação humana, incluindo moluscos bivalves e crustáceos.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Diretrizes aplicáveis às verificações
 
@@ -6494,7 +6640,7 @@ Deve ser organizada uma reunião de encerramento entre representantes das Partes
 
 O projeto de relatório da verificação deve ser enviado ao auditado no prazo de 45 dias úteis após a reunião de encerramento referida no ponto 6. O auditado tem 30 dias úteis para formular os seus comentários acerca do projeto de relatório. Os comentários do auditado devem ser apensos ao projeto de relatório e, se for caso disso, incluídos no relatório final. Todavia, quando se tiver identificado um risco sério de saúde pública, sanidade animal ou fitossanidade durante a verificação, o auditado deve ser informado com a maior brevidade possível e, de qualquer modo, no prazo de 10 dias úteis a contar da data em que termina a verificação.
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Pontos de contacto e sítios Internet
 
@@ -6596,11 +6742,15 @@ www.itp.gob.pe
 
 www.mincetur.gob.pe
 
-## ANEXO VII — Lista de compromissos em matéria de estabelecimento
+ANEXO VII
+
+Lista de compromissos em matéria de estabelecimento
 
 (referida no artigo 114.º do presente Acordo)
 
-#### SECÇÃO A — Colômbia
+SECÇÃO A
+
+Colômbia
 
 1 - A lista de compromissos a seguir apresentada indica as atividades económicas objeto de compromissos assumidos pela Colômbia nos termos do artigo 114.º do presente Acordo e, mediante reservas, as limitações em matéria de acesso ao mercado e de tratamento nacional aplicáveis aos estabelecimentos e investidores da outra Parte nessas atividades. A lista é composta dos seguintes elementos:
 
@@ -6652,7 +6802,7 @@ Nota 4: Uma pessoa coletiva organizada ao abrigo da legislação de outro país,
 
 Nota 5: Apenas pessoas singulares ou coletivas com o seu principal escritório no porto livre de San Andrés, Providencia y Santa Catalina podem prestar serviços nesta região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Lista dos serviços de transporte marítimo
 
@@ -6706,7 +6856,7 @@ f) Organização, em nome das companhias, da escala do navio ou da aceitação d
 
 9 - Circulação do equipamento. Os prestadores de serviços de transporte marítimo internacional podem transportar/transferir equipamento (contentores vazios, camiões sem taipais, etc.) nos seus navios entre portos colombianos (34).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 (1) A Colômbia considera que este imposto está em conformidade com as disposições do artigo xiv do GATS, nomeadamente com a nota da alínea d), e, portanto, não é especificado nem incluído na presente lista.
 
@@ -6838,7 +6988,9 @@ Parágrafo: Quando, no decurso de uma operação de transporte de cabotagem, se 
 
 (38) Os procedimentos de concessão ou licenciamento para serviços públicos podem aplicar-se no caso de uma ocupação do domínio público.
 
-#### SECÇÃO B — União Europeia
+SECÇÃO B
+
+União Europeia
 
 São utilizadas as seguintes abreviaturas:
 
@@ -6924,7 +7076,7 @@ c) Por «CPC ver. 1.0» entende-se a Classificação Central de Produtos, tal co
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 (1) A ausência de reservas específicas de um Estado membro da União Europeia num determinado setor não prejudica as reservas horizontais ou as reservas setoriais a nível da UE eventualmente aplicáveis.
 
@@ -7086,7 +7238,9 @@ Não inclui a preparação do estaleiro para a mineração de recursos que não 
 
 (76) A limitação horizontal em relação aos serviços públicos aplica-se aos serviços de termalismo e de massagens não terapêuticas prestados em serviços públicos como certas fontes de água.
 
-#### SECÇÃO C — Peru
+SECÇÃO C
+
+Peru
 
 1 - A lista de compromissos a seguir apresentada indica as atividades económicas objeto de compromissos assumidos pelo Peru nos termos do artigo 114.º do presente Acordo e, mediante reservas, as limitações em matéria de acesso ao mercado e de tratamento nacional aplicáveis aos estabelecimentos e investidores da outra Parte nessas atividades. A lista é composta dos seguintes elementos:
 
@@ -7110,7 +7264,7 @@ b) Por «CPC» entende-se a Classificação Central de Produtos, tal como estabe
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 NOTA 1
 
@@ -7180,11 +7334,15 @@ d) Serviços de assistência em escala: serviços de plataforma prestados com eq
 
 e) Serviços de terminal de carga do operador aéreo da transportadora: o terminal de carga da transportadora ou o responsável por tal, para receber e entregar as mercadorias de forma devidamente apropriada ao destinatário ou seu agente. Compete-lhe realizar as atividades necessárias para entrega da mercadoria ao destinatário ou seu representante. Este serviço cobre o período compreendido entre a retirada da carga do edifício de mercadorias do aeródromo e a entrega das mercadorias nos terminais de armazenagem de carga e correio.
 
-## ANEXO VIII — Lista de compromissos em matéria de prestação de serviços transfronteiras
+ANEXO VIII
+
+Lista de compromissos em matéria de prestação de serviços transfronteiras
 
 (referida no artigo 118.º do presente Acordo)
 
-#### SECÇÃO A — Colômbia
+SECÇÃO A
+
+Colômbia
 
 1 - A lista de compromissos a seguir apresentada indica os setores de serviços objeto de compromissos assumidos pela Colômbia nos termos do artigo 118.º do presente Acordo e, mediante reservas, as limitações em matéria de acesso ao mercado e de tratamento nacional aplicáveis aos serviços e prestadores de serviços da outra Parte nesses setores. A lista é composta dos seguintes elementos:
 
@@ -7234,7 +7392,7 @@ Nota 4: Uma pessoa coletiva organizada ao abrigo da legislação de outro país,
 
 Nota 5: Apenas pessoas singulares ou coletivas com o seu principal escritório no porto livre de San Andrés, Providencia e Santa Catalina podem prestar serviços nesta região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Lista do transporte marítimo
 
@@ -7334,9 +7492,11 @@ Parágrafo: Quando, no desenvolvimento de uma operação de transporte de cabota
 
 (22) De acordo com a legislação colombiana, este compromisso não significa cabotagem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-#### SECÇÃO B — Parte UE
+SECÇÃO B
+
+Parte UE
 
 São utilizadas as seguintes abreviaturas:
 
@@ -7420,7 +7580,7 @@ b) Por «CPC ver. 1.0» entende-se a Classificação Central de Produtos, tal co
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 (1) A ausência de reservas específicas de um Estado membro da União Europeia num determinado setor não prejudica as reservas horizontais ou as reservas setoriais a nível da União Europeia eventualmente aplicáveis.
 
@@ -7504,7 +7664,9 @@ Não inclui a preparação do estaleiro para a mineração de recursos que não 
 
 (37) Os serviços de massagens terapêuticas e de curas termais figuram no ponto 1.A.h) Serviços médicos, 1.A.j) 2 Serviços prestados por enfermeiros, fisioterapeutas e pessoal paramédico e serviços de saúde (8.A e 8 C).
 
-#### SECÇÃO C — Peru
+SECÇÃO C
+
+Peru
 
 1 - A lista de compromissos a seguir apresentada indica os setores de serviços objeto de compromissos assumidos pelo Peru nos termos do artigo 121.º do Acordo e, mediante reservas, as limitações em matéria de acesso ao mercado e de tratamento nacional aplicáveis aos serviços e prestadores de serviços da outra Parte nesses setores. A lista é composta dos seguintes elementos:
 
@@ -7526,7 +7688,7 @@ por «CPC» entende-se a Classificação Central de Produtos, tal como estabelec
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 NOTA 1
 
@@ -7578,15 +7740,19 @@ b) A organização, em nome das companhias, da escala do navio ou da aceitação
 
 8 - Por «serviços de trânsito de frete marítimo» entende-se a atividade que consiste na organização e no seguimento das operações de expedição em nome das companhias, através da aquisição de serviços de transporte e serviços conexos, preparação da documentação e fornecimento de informações comerciais.
 
-## ANEXO IX — Reservas relativas à presença temporária de pessoas singulares por motivos profissionais
+ANEXO IX
 
-## APÊNDICE 1
+Reservas relativas à presença temporária de pessoas singulares por motivos profissionais
+
+APÊNDICE 1
 
 Reservas em matéria de pessoal-chave e estagiários de nível pós-universitário
 
 (referidas no artigo 124.º do presente Acordo)
 
-#### SECÇÃO A — Colômbia
+SECÇÃO A
+
+Colômbia
 
 1 - A lista de reservas a seguir apresentada indica as atividades económicas liberalizadas pela Colômbia nos termos do artigo 114.º do Título IV (Comércio de Serviços, Estabelecimento e Comércio eletrónico) do presente Acordo a que se aplicam as limitações em matéria de pessoal-chave e estagiários de nível pós-universitário nos termos dos artigos 124.º do presente Acordo e especifica tais limitações. A lista é composta dos seguintes elementos:
 
@@ -7610,9 +7776,11 @@ b) Por «CPC» entende-se a Classificação Central de Produtos, tal como estabe
 
 7 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-#### SECÇÃO B — Parte UE
+SECÇÃO B
+
+Parte UE
 
 São utilizadas as seguintes abreviaturas:
 
@@ -7702,7 +7870,7 @@ c) Por «CPC ver. 1.0» entende-se a Classificação Central de Produtos, tal co
 
 8 - Os direitos e obrigações resultantes da presente lista de reservas não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 (1) A ausência de reservas específicas de um Estado-Membro da União Europeia num determinado setor não prejudica as reservas horizontais ou as reservas setoriais a nível da união Europeia eventualmente aplicáveis.
 
@@ -7754,7 +7922,9 @@ Não inclui a preparação do estaleiro para a mineração de recursos que não 
 
 (20) Os serviços de massagens terapêuticas e de curas termais figuram no ponto 6.A.h) Serviços médicos, 6.A.j) 2 Serviços prestados por enfermeiros, fisioterapeutas e pessoal paramédico e serviços de saúde (13.A e 13 C).
 
-#### SECÇÃO C — Peru
+SECÇÃO C
+
+Peru
 
 1 - A lista de reservas a seguir apresentada indica as atividades económicas objeto de compromissos nos termos do artigo 114.º do Acordo a que se aplicam as limitações em matéria de pessoal-chave e estagiários de nível pós-universitário nos termos do artigo 124.º do presente Acordo e especifica tais limitações. As listas são compostas dos seguintes elementos:
 
@@ -7778,15 +7948,17 @@ b) Por «CPC» entende-se a Classificação Central de Produtos, tal como estabe
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Reservas em matéria de prestadores de serviços por contrato e profissionais independentes
 
 (referidas nos artigos 126.º e 127.º do presente Acordo)
 
-#### SECÇÃO A — Colômbia
+SECÇÃO A
+
+Colômbia
 
 1 - A lista de reservas a seguir apresentada indica as atividades económicas liberalizadas pela Colômbia nos termos dos artigos 126.º e 127.º do Título IV (Comércio de Serviços, Estabelecimento e Comércio Eletrónico) do presente Acordo a que se aplicam as limitações em matéria de prestadores de serviços por contrato e profissionais independentes. A lista é composta dos seguintes elementos:
 
@@ -7810,9 +7982,11 @@ b) por «CPC» entende-se a Classificação Central de Produtos, tal como estabe
 
 7 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito auto-executório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-#### SECÇÃO B — Parte UE
+SECÇÃO B
+
+Parte UE
 
 São utilizadas as seguintes abreviaturas:
 
@@ -7898,9 +8072,11 @@ Sempre que não se apliquem quaisquer limitações específicas, com exceção d
 
 9 - Os compromissos em matéria de SPC e PI não se aplicam nos casos em que a intenção ou o efeito da sua presença temporária seja interferir no resultado (ou afetá-lo de outro modo) de qualquer disputa ou negociação em matéria de trabalho/gestão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-#### SECÇÃO C — Peru
+SECÇÃO C
+
+Peru
 
 1 - A lista de reservas a seguir apresentada indica as reservas do Peru nos termos dos artigos 126.º e 127.º do presente Acordo a que se aplicam as limitações em matéria de prestadores de serviços por contrato e profissionais independentes. As listas são compostas dos seguintes elementos:
 
@@ -7920,7 +8096,7 @@ O Peru não assume qualquer compromisso para prestadores de serviços contratuai
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito auto executório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Nota 1
 
@@ -7972,7 +8148,9 @@ b) Organização, em nome das companhias, da escala do navio ou da aceitação d
 
 8 - Por «serviços de trânsito de frete marítimo» entende-se a atividade que consiste na organização e no seguimento das operações de expedição em nome das companhias, através da aquisição de serviços de transporte e serviços conexos, preparação da documentação e fornecimento de informações comerciais.
 
-## ANEXO X — Pontos de informação em matéria de comércio de serviços, estabelecimento e comércio eletrónico
+ANEXO X
+
+Pontos de informação em matéria de comércio de serviços, estabelecimento e comércio eletrónico
 
 (referidos no artigo 130.º do presente Acordo)
 
@@ -8082,7 +8260,7 @@ Ministério da Indústria e do Comércio
 
 Departamento de Política Comercial Multilateral e Política Comercial Comum da UE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Praha 1
 
@@ -8298,7 +8476,9 @@ E-mail: polcom5@mincomes.it
 
 Letónia:
 
-##### Divisão OMC — Departamento de Relações Económicas Externas e Política Comercial
+Divisão OMC
+
+Departamento de Relações Económicas Externas e Política Comercial
 
 Ministério da Economia
 
@@ -8316,7 +8496,7 @@ E-mail: pto@em.gov.lv
 
 Lituânia:
 
-##### Divisão de Organizações Económicas Internacionais
+Divisão de Organizações Económicas Internacionais
 
 Ministério dos Negócios Estrangeiros
 
@@ -8398,7 +8578,7 @@ Ministério da Economia
 
 Departamento de Política Comercial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 00-507 Varsóvia
 
@@ -8488,7 +8668,7 @@ Eslovénia:
 
 Ministério da Economia da República da Eslovénia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Chefe da Divisão Multilateral
 
@@ -8608,7 +8788,7 @@ Telefax: +51 1 5136100 ext 1265
 
 E-mail: servicios@mincetur.gob.pe
 
-## ANEXO XI (1)
+ANEXO XI (1)
 
 Memorando de entendimento sobre a alínea a) da definição de «serviços prestados no exercício da autoridade governamental» referida no artigo 152.º do presente Acordo
 
@@ -8648,15 +8828,21 @@ b) O Peru não adota nem mantém medidas que imponham limitações do número de
 
 (2) Para maior certeza, este compromisso específico aplica-se apenas no que respeita às medidas adotadas no âmbito do título iv do Acordo, incluindo o presente anexo.
 
-## ANEXO XII — Contratos públicos
+ANEXO XII
 
-## APÊNDICE 1
+Contratos públicos
+
+APÊNDICE 1
 
 Entidades abrangidas pelas disposições em matéria de contratos públicos
 
-#### SECÇÃO A — Colômbia
+SECÇÃO A
 
-##### SUBSECÇÃO 1 — Entidades da administração central
+Colômbia
+
+SUBSECÇÃO 1
+
+Entidades da administração central
 
 O Título VI do presente Acordo aplica-se às entidades da administração central referidas na presente subsecção, no que diz respeito aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.os 6 a 8, do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -8756,7 +8942,9 @@ Notas da presente subsecção
 
 7 - Registraduría Nacional del Estado Civil: O Título VI do presente Acordo não abrange os contratos para a preparação e a realização de atos eleitorais.
 
-##### SUBSECÇÃO 2 — Entidades da administração subcentral
+SUBSECÇÃO 2
+
+Entidades da administração subcentral
 
 O Título VI do presente Acordo aplica-se às entidades do nível subcentral das administrações públicas referidas na presente subsecção, no que respeita aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.os 6 a 8, do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -8786,7 +8974,9 @@ a) Contratos de produtos alimentares, matérias-primas/inputs agrícolas, e anim
 
 b) Contratos das mercadorias classificadas na secção 2 (produtos alimentares, bebidas e tabaco; têxteis, vestuário e couro) da CPC, versão 1.0, para programas de assistência social.
 
-##### SUBSECÇÃO 3 — Outras entidades abrangidas
+SUBSECÇÃO 3
+
+Outras entidades abrangidas
 
 O Título VI do presente Acordo aplica-se a outras entidades referidas na presente subsecção, no que respeita aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.os 6 a 8, do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -8830,17 +9020,21 @@ Nota da presente subsecção
 
 O Título VI do presente Acordo não abrange os contratos das mercadorias classificadas na secção 2 (produtos alimentares, bebidas e tabaco; têxteis, vestuário e couro) da CPC, versão 1.0 celebrados pela Agencia Logística de las Fuerzas Militares, o Fondo Rotatorio de la Policía Nacional, e o Fondo Rotatorio del Departamento Administrativo de Seguridad para o Comando General de las Fuerzas Armadas, o Ejército Nacional, a Armada Nacional, a Fuerza Aérea Colombiana, e a Policía Nacional.
 
-##### SUBSECÇÃO 4 — Mercadorias
+SUBSECÇÃO 4
+
+Mercadorias
 
 O Título VI do presente Acordo aplica-se a todos os contratos de mercadorias celebrados pelas entidades incluídas nas listas das subsecções 1 a 3, sob reserva das notas das respetivas notas das subsecções 1 a 3, e das notas gerais da subsecção 7, exceto para as mercadorias necessárias à prestação de serviços de investigação e desenvolvimento.
 
-##### SUBSECÇÃO 5 — Serviços
+SUBSECÇÃO 5
+
+Serviços
 
 O Título VI do presente Acordo aplica-se a todos os contratos de serviços celebrados pelas entidades incluídas nas listas das subsecções 1 a 3, sob reserva das notas das respetivas notas das subsecções, das notas gerais da subsecção 7, e da nota da presente subsecção, exceto para os seguintes serviços, como elaborados na CPC, versão 1.0.
 
 1 - Serviços de investigação e desenvolvimento
 
-##### Divisão 81. Serviços de investigação e desenvolvimento
+Divisão 81. Serviços de investigação e desenvolvimento
 
 Grupo 835. Outros serviços científicos e técnicos
 
@@ -8850,17 +9044,17 @@ Classe 8597. Organização de feiras comerciais e exposições necessárias para
 
 2 - Serviços públicos
 
-##### Divisão 69. Serviços de distribuição de eletricidade; serviços de distribuição de gás e água por condutas
+Divisão 69. Serviços de distribuição de eletricidade; serviços de distribuição de gás e água por condutas
 
-##### Divisão 94. Serviços de eliminação de águas residuais e resíduos, saneamento, e outros serviços de proteção ambiental (exceto o 949, que é abrangido pelo Título VI do presente Acordo).
+Divisão 94. Serviços de eliminação de águas residuais e resíduos, saneamento, e outros serviços de proteção ambiental (exceto o 949, que é abrangido pelo Título VI do presente Acordo).
 
 Serviços de telecomunicações de base (não incluindo os serviços de telecomunicações de valor acrescentado)
 
 3 - Serviços sociais
 
-##### Divisão 91. Administração pública e outros serviços prestados à comunidade em geral; serviços de segurança social obrigatória
+Divisão 91. Administração pública e outros serviços prestados à comunidade em geral; serviços de segurança social obrigatória
 
-##### Divisão 92. Serviços de educação
+Divisão 92. Serviços de educação
 
 Grupo 931. Serviços de saúde humana
 
@@ -8872,7 +9066,9 @@ Nota da presente subsecção
 
 Quanto à concessão de serviços, em conformidade com o artigo 32.º da Lei 80 de 1993, os prestadores europeus serão objeto de um tratamento tão favorável como o dos prestadores nacionais, incluindo no que respeita a condições, requisitos, procedimentos e regras de seleção. Esclareça-se que nenhuma outra obrigação do Título VI do presente Acordo é aplicável às concessões de serviços.
 
-##### SUBSECÇÃO 6 — Serviços de construção
+SUBSECÇÃO 6
+
+Serviços de construção
 
 A. Serviços de construção
 
@@ -8886,7 +9082,9 @@ B. Concessão de obras
 
 Os contratos de concessão de obras, quando adjudicados por entidades adjudicantes das subsecções 1 e 2, e desde que o seu valor seja igual ou superior a 5 000 000 DSE, estão sujeitos ao princípio do tratamento nacional estabelecido no artigo 175.º, n.os 1 e 2 do presente Acordo e aos artigos 173.º, 174.º, 179.º, 190.º e 294.º do presente Acordo.
 
-##### SUBSECÇÃO 7 — Notas gerais
+SUBSECÇÃO 7
+
+Notas gerais
 
 Salvo especificação em contrário, as seguintes notas gerais aplicam-se, sem exceção, ao Título VI do presente Acordo, incluindo a todas as subsecções da presente secção.
 
@@ -8944,9 +9142,13 @@ b) O cálculo dos valores dos limiares baseia-se na média do valor diário dos 
 
 No caso da Colômbia, o Tribunal Contencioso Administrativo e o Consejo de Estado são autoridades imparciais para efeitos do artigo 190.º, n.º 6, do presente Acordo. Como estas autoridades imparciais não têm autoridade para prever as medidas provisórias referidas no artigo 190.º, n.º 7, alínea a), do presente Acordo, considera-se que as vias de recurso de que dispõe a Procuraduría General de la Nación satisfazem os requisitos previstos nesse número. A Procuraduría General de la Nación é uma agência independente que tem autoridade para suspender concursos e adjudicações de contratos no decurso de qualquer processo disciplinar intentado contra agentes das administrações públicas responsáveis por um contrato.
 
-#### SECÇÃO B — Parte UE
+SECÇÃO B
 
-##### SUBSECÇÃO 1 — Entidades da administração central
+Parte UE
+
+SUBSECÇÃO 1
+
+Entidades da administração central
 
 O Título VI do presente Acordo aplica-se às entidades da administração central referidas na presente subsecção, no que diz respeito aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.os 6 a 8, do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -8984,15 +9186,17 @@ A noção de «Autoridades contratantes dos Estados-Membros da União Europeia»
 
 Listas indicativas de autoridades contratantes que são autoridades governamentais centrais, como definidas pelas diretivas da União Europeia sobre contratos públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 Lista de mercadorias e equipamento adquiridos pelos Ministérios da Defesa e Agências de Defesa ou de Segurança da Bélgica, Bulgária, República Checa, Dinamarca, Alemanha, Estónia, Grécia, Espanha, França, Irlanda, Itália, Chipre, Letónia, Lituânia, Luxemburgo, Hungria, Malta, Países Baixos, Áustria, Polónia, Portugal, Roménia, Eslovénia, Eslováquia, Finlândia, Suécia e Reino Unido abrangidos pelo Título VI do presente Acordo.
 
 Na presente lista de fornecimentos, é feita referência à Nomenclatura Combinada como referida no Anexo IV do [Regulamento (CE) n.º 213/2008](https://diariodarepublica.pt/application/external/eurolex?08R0213) da Comissão, relativo ao Vocabulário Comum para os Contratos Públicos (Jornal Oficial da União Europeia L 74 de 15.3.2008, p. 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-##### SUBSECÇÃO 2 — Entidades da administração subcentral
+SUBSECÇÃO 2
+
+Entidades da administração subcentral
 
 O Título VI do presente Acordo aplica-se às entidades do nível subcentral das administrações públicas referidas na presente subsecção, no que respeita aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.os 6 a 8, do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -9036,9 +9240,11 @@ Em anexo, inclui-se uma lista indicativa de autoridades contratantes que são or
 
 Listas indicativas de autoridades contratantes que são organismos de direito público, como definidos pelas diretivas da União Europeia sobre contratos públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-##### SUBSECÇÃO 3 — Serviços públicos
+SUBSECÇÃO 3
+
+Serviços públicos
 
 O Título VI do presente Acordo aplica-se às entidades referidas na presente subsecção, no que respeita aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.ºs 6 a 8 do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -9126,19 +9332,25 @@ Presume-se a existência de influência dominante quando, direta ou indiretament
 
 Listas indicativas de autoridades contratantes e de empresas públicas que preenchem os critérios estabelecidos ao abrigo da presente subsecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-##### SUBSECÇÃO 4 — Mercadorias
+SUBSECÇÃO 4
+
+Mercadorias
 
 O Título VI do presente Acordo abrange todas as mercadorias.
 
-##### SUBSECÇÃO 5 — Serviços
+SUBSECÇÃO 5
+
+Serviços
 
 Estão incluídos os seguintes serviços da Lista Universal de Serviços, que consta do documento MTN.GNS/W/120*:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-##### SUBSECÇÃO 6 — Serviços de construção
+SUBSECÇÃO 6
+
+Serviços de construção
 
 A - Serviços de construção:
 
@@ -9156,9 +9368,11 @@ Os contratos de concessões de obras, quando adjudicados por entidades incluída
 
 Lista da divisão 51, CPC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-##### SUBSECÇÃO 7 — Notas gerais e extensões/derrogações
+SUBSECÇÃO 7
+
+Notas gerais e extensões/derrogações
 
 1 - Notas gerais:
 
@@ -9182,9 +9396,13 @@ a) O limiar é ajustado de dois em dois anos e cada ajustamento produz efeitos e
 
 b) O cálculo dos valores dos limiares baseia-se na média dos valores diários dos DSE, expressos em euros, durante o período de 24 meses que termina no último dia do mês de agosto anterior à revisão com efeitos a partir de 1 de janeiro. O valor dos limiares assim revistos é, se necessário, arredondado até ao milhar de euros imediatamente inferior. Esta metodologia pode ser modificada pela Parte UE e pela Colômbia ou pela Parte UE e o Peru, como adequado, durante a reunião do Comité de Comércio, como descrito no artigo 12.º, n.º 4 do presente Acordo.
 
-#### SECÇÃO C — Peru
+SECÇÃO C
 
-##### SUBSECÇÃO 1 — Entidades da administração central
+Peru
+
+SUBSECÇÃO 1
+
+Entidades da administração central
 
 O Título VI do presente Acordo aplica-se às entidades da administração central referidas na presente subsecção, no que diz respeito aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.os 6 a 8, do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -9338,7 +9556,9 @@ Notas da presente subsecção
 
 4 - Seguro Social de Salud (ESSALUD): o Título VI do presente Acordo não abrange os contratos de lençóis (SH 6301) e cobertores (SH 6302).
 
-##### SUBSECÇÃO 2 — Entidades da administração subcentral
+SUBSECÇÃO 2
+
+Entidades da administração subcentral
 
 O Título VI do presente Acordo aplica-se às entidades do nível subcentral das administrações públicas referidas na presente subsecção, no que respeita aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.os 6 a 8, do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -9412,7 +9632,9 @@ II - Nível local das administrações públicas
 
 Estão abrangidas todos os municípios provinciais e distritais.
 
-##### SUBSECÇÃO 3 — Outras entidades abrangidas
+SUBSECÇÃO 3
+
+Outras entidades abrangidas
 
 O Título VI do presente Acordo aplica-se às entidades referidas na presente subsecção, no que respeita aos contratos de mercadorias, serviços e serviços de construção abaixo indicados, quando se tiver estimado, nos termos do artigo 173.º, n.os 6 a 8, do presente Acordo, que o valor do contrato público é igual ou superior aos seguintes limiares correspondentes:
 
@@ -9502,11 +9724,15 @@ k) Etanol
 
 l) Aditivos
 
-##### SUBSECÇÃO 4 — Mercadorias
+SUBSECÇÃO 4
+
+Mercadorias
 
 O Título VI do presente Acordo aplica-se a todos os contratos de mercadorias celebrados pelas entidades incluídas na lista das subsecções 1 a 3, sob reserva das respetivas notas das subsecções 1 a 3, e das notas gerais da subsecção 7.
 
-##### SUBSECÇÃO 5 — Serviços
+SUBSECÇÃO 5
+
+Serviços
 
 O Título VI do presente Acordo aplica-se a todos os contratos de serviços celebrados pelas entidades incluídas na lista das subsecções 1 a 3, sob reserva das respetivas notas das subsecções 1 a 3, e das notas gerais da subsecção 7.
 
@@ -9524,7 +9750,9 @@ CPC 82191 Serviços de arbitragem e de conciliação
 
 No caso dos códigos CPC 8321, 8334 e 8335, o Título VI do presente Acordo aplica-se 5 anos após a data de entrada em vigor do presente Acordo.
 
-##### SUBSECÇÃO 6 — Serviços de construção
+SUBSECÇÃO 6
+
+Serviços de construção
 
 A - Serviços de construção
 
@@ -9534,7 +9762,9 @@ B - Contratos de concessão de obras públicas
 
 Os contratos de concessão de obras públicas, quando adjudicados por entidades das subsecções 1 e 2, e desde que o seu valor seja igual ou superior a 5 000 000 DSE, estão sujeitos ao princípio do tratamento nacional estabelecido no artigo 175.º, n.os 1 e 2 do presente Acordo e aos artigos 173.º, 174.º, 179.º, 190.º e 294.º do presente Acordo.
 
-##### SUBSECÇÃO 7 — Notas gerais e extensões/derrogações
+SUBSECÇÃO 7
+
+Notas gerais e extensões/derrogações
 
 Salvo especificação em contrário, as seguintes notas gerais aplicam-se, sem exceção, ao Título VI do presente Acordo, incluindo a todas as subsecções da presente secção.
 
@@ -9556,7 +9786,7 @@ a) O limiar é ajustado de dois em dois anos e cada ajustamento produz efeitos e
 
 b) O cálculo dos valores dos limiares baseia-se na média dos valores diários dos DSE, expressos em Nuevos Soles, durante o período de 24 meses que termina no último dia do mês de agosto anterior à revisão com efeitos a partir de 1 de janeiro. O valor dos limiares assim revistos é, se necessário, arredondado até ao milhar de Nuevos Soles imediatamente inferior. Esta metodologia pode ser modificada pela UE e pelo Peru durante a reunião do Comité de Comércio, como descrito no artigo 12.º, n.º 4 do presente Acordo.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Meios de comunicação para a publicação de informações relativas a contratos públicos
 
@@ -9566,7 +9796,7 @@ Jornal Oficial da União Europeia
 
 http://simap.europa.eu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 2 - Colômbia
 
@@ -9582,7 +9812,7 @@ Oportunidades de celebração de contratos públicos de mercadorias e serviços:
 
 Oportunidades no domínio das concessões de obras públicas: www.proinversion.gob.pe
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Meios de comunicação social para a publicação de anúncios
 
@@ -9604,7 +9834,7 @@ Oportunidades de celebração de contratos públicos de mercadorias e serviços:
 
 Oportunidades no domínio das concessões de obras públicas: www.proinversion.gob.pe
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Anúncio dos concursos previstos
 
@@ -9628,7 +9858,7 @@ h) Lista e descrição sucinta das condições de participação dos fornecedore
 
 i) Quando, em conformidade com o artigo 179.º do presente Acordo, uma entidade adjudicante tem a intenção de selecionar um número limitado de fornecedores qualificados que convidará a apresentar propostas, os critérios que serão utilizados para esta seleção e, se aplicável, qualquer restrição ao número de fornecedores que serão autorizados a apresentar propostas.
 
-## APÊNDICE 5
+APÊNDICE 5
 
 Anúncio que convida os fornecedores interessados a solicitar a sua inclusão numa lista para utilizações múltiplas
 
@@ -9642,7 +9872,7 @@ c) Nome e endereço da entidade adjudicante e outras informações necessárias 
 
 d) Período de validade da lista e os meios utilizados para a respetiva renovação ou encerramento ou, caso o período de validade não seja mencionado, uma indicação do método utilizado para comunicar que a utilização da lista foi encerrada.
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Prazos
 
@@ -9688,7 +9918,7 @@ a) Publique por meios eletrónicos, simultaneamente, tanto o anúncio de concurs
 
 b) Aceite propostas apresentadas por via eletrónica.
 
-## APÊNDICE 7
+APÊNDICE 7
 
 Anúncios de adjudicação
 
@@ -9706,7 +9936,7 @@ e) Data de adjudicação; e
 
 f) Método de contratação utilizado e, caso se tenha recorrido ao procedimento limitado, descrição das circunstâncias que justificam o recurso a esse procedimento.
 
-## APÊNDICE 8
+APÊNDICE 8
 
 Documentação relativa ao concurso
 
@@ -9728,23 +9958,25 @@ g) Quaisquer outras condições, incluindo as modalidades de pagamento e as even
 
 h) As eventuais datas para a entrega de mercadorias ou a prestação de serviços.
 
-## ANEXO XIII — Lista de indicações geográficas (1)
+ANEXO XIII
 
-## APÊNDICE 1
+Lista de indicações geográficas (1)
+
+APÊNDICE 1
 
 Lista de indicações geográficas de produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas
 
 a) Lista de indicações geográficas da Colômbia para produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 b) Lista de indicações geográficas da Parte UE para produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas (2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 c) Lista de indicações geográficas do Peru para produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 (1) Sem prejuízo do artigo 208.º, aquando da entrada em vigor do presente Acordo, a presente lista será atualizada pelo Subcomité da Propriedade Intelectual caso o registo de uma indicação geográfica seja rejeitado na sequência de uma objeção e de uma decisão fundamentada e justificada de acordo com os procedimentos internos.
 
@@ -9758,39 +9990,51 @@ c) Lista de indicações geográficas do Peru para produtos agrícolas e género
 
 (6) Produto da Grécia ou de Chipre.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Lista de indicações geográficas de produtos que não sejam produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas
 
 a) Lista de indicações geográficas da Colômbia para produtos que não sejam produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
 b) Lista de indicações geográficas do Peru para produtos que não sejam produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
 
-## ANEXO XIV — Mecanismo de mediação para as medidas não pautais
+ANEXO XIV
 
-#### SECÇÃO 1 — Mecanismo de mediação
+Mecanismo de mediação para as medidas não pautais
 
-###### Artigo 1.º — Âmbito de aplicação
+SECÇÃO 1
+
+Mecanismo de mediação
+
+Artigo 1.º
+
+Âmbito de aplicação
 
 O mecanismo de mediação aplica-se a qualquer medida não pautal que, no entender de uma Parte, afete negativamente o comércio com outra Parte e que se refira a qualquer questão abrangida pelo título iii («Comércio de mercadorias») do presente Acordo (1).
 
-###### Artigo 2.º — Início do procedimento de mediação
+Artigo 2.º
+
+Início do procedimento de mediação
 
 1 - Qualquer Parte pode, em qualquer altura, solicitar o início de um procedimento de mediação com outra Parte. O pedido deve ser dirigido a essa outra Parte, por escrito, com cópia para o Comité de Comércio. Inclui a descrição da questão de forma a apresentar claramente a medida em causa e os seus efeitos no comércio.
 
 2 - A Parte requerida deve ter favoravelmente em conta o pedido. No prazo de 10 dias a contar da data de receção do pedido, a Parte requerida dá uma resposta por escrito à Parte requerente, com cópia para o Comité de Comércio, indicando se aceita ou não iniciar o procedimento de mediação.
 
-###### Artigo 3.º — Seleção do mediador
+Artigo 3.º
+
+Seleção do mediador
 
 1 - Uma vez iniciado o procedimento de mediação, as Partes na mediação diligenciam pôr-se de acordo sobre um mediador, o mais tardar 15 dias após a receção da resposta positiva da Parte requerida ao pedido de início do procedimento de mediação. Se as Partes não chegarem a acordo sobre o mediador no prazo estabelecido, qualquer das Partes pode solicitar ao presidente do Comité de Comércio que nomeie o mediador por sorteio. No prazo de cinco dias a contar da apresentação do pedido, cada Parte na mediação estabelece uma lista de pelo menos três pessoas, que não sejam nacionais dessa Parte, preencham as condições do n.º 2 e possam assumir o cargo de mediador. No prazo de cinco dias a contar da data da apresentação das listas, cada Parte na mediação seleciona pelo menos um nome da lista da outra Parte na mediação. O presidente do Comité de Comércio, ou o seu representante, escolhe então o mediador por sorteio de entre os nomes selecionados. Os representantes de ambas as Partes na mediação são convidados, com a devida antecedência, a presenciar o sorteio. De qualquer modo, o sorteio é realizado com as Partes que se encontrarem presentes nesse momento nos 15 dias seguintes à data do pedido de seleção do mediador por sorteio.
 
 2 - O candidato ao cargo de mediador deve ser um perito no domínio relacionado com a medida em questão (2). O mediador ajuda, de maneira imparcial e transparente, as Partes na mediação a clarificarem a medida e os seus efeitos possíveis sobre o comércio, bem como a alcançarem uma solução mutuamente acordada.
 
-###### Artigo 4.º — Regras do procedimento de mediação
+Artigo 4.º
+
+Regras do procedimento de mediação
 
 1 - Na fase inicial do procedimento, no prazo de 15 dias a contar da designação do mediador, a Parte que iniciou o procedimento de mediação apresenta, por escrito, ao mediador e à outra Parte, uma descrição circunstanciada do problema e, em especial, do funcionamento da medida em causa e dos seus efeitos sobre o comércio. No prazo de 10 dias a contar da data desta comunicação, a outra Parte pode apresentar, por escrito, os seus comentários relativos à descrição do problema. Qualquer das Partes pode incluir na sua descrição ou nos seus comentários quaisquer informações que considere pertinentes.
 
@@ -9802,17 +10046,25 @@ O mecanismo de mediação aplica-se a qualquer medida não pautal que, no entend
 
 5 - O procedimento deve, de modo geral, ser dado por concluído no prazo de 60 dias a contar da data da designação do mediador. Em qualquer etapa do procedimento, as Partes na mediação podem interromper o procedimento por acordo mútuo.
 
-#### SECÇÃO 2 — Aplicação
+SECÇÃO 2
 
-###### Artigo 5.º — Aplicação de uma solução mutuamente acordada
+Aplicação
+
+Artigo 5.º
+
+Aplicação de uma solução mutuamente acordada
 
 1 - Quando as Partes na mediação acordam numa solução para os obstáculos comerciais causados pela medida objeto do presente procedimento, as Partes tomam todas as medidas necessárias para aplicar a solução mutuamente acordada sem atrasos injustificados.
 
 2 - A Parte que age informa a outra Parte, por escrito, das medidas ou decisões tomadas para aplicar a solução mutuamente acordada.
 
-#### SECÇÃO 3 — Disposições gerais
+SECÇÃO 3
 
-###### Artigo 6.º — Relação com o mecanismo de resolução de litígios
+Disposições gerais
+
+Artigo 6.º
+
+Relação com o mecanismo de resolução de litígios
 
 1 - O procedimento relativo ao mecanismo de mediação não tem por objeto servir de base aos procedimentos de resolução de litígios ao abrigo do título xii («Resolução de litígios») do presente Acordo ou de outro acordo.
 
@@ -9828,7 +10080,9 @@ c) As propostas apresentadas pelo mediador.
 
 4 - O mecanismo de mediação não prejudica os direitos e as obrigações das Partes ao abrigo do título xii («Resolução de litígios») do presente Acordo.
 
-###### Artigo 7.º — Prazos
+Artigo 7.º
+
+Prazos
 
 Os prazos referidos no presente anexo podem ser prorrogados por acordo mútuo entre as Partes na mediação.
 
@@ -9868,4 +10122,4 @@ A Parte UE recorda que os Estados com os quais estabeleceu uma união aduaneira 
 
 Os Países Andinos signatários informam que envidarão os melhores esforços para negociar com tais Estados acordos que estabeleçam zonas de comércio livre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21501/0000201262.pdf)

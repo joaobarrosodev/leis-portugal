@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17200/0691806929.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/129/2015/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/129-2015-70179159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1f91665f1c6c82a291246f0ac7157cff475c625d48cbafae46382a39b891dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 643cbbf99af013600621b29fe8854899c79c3c4349f9494af06cc53a8c176b9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
+- Convenção
 - Financiamento
 - Fundo de Resolução
-- Supervisão Financeira
-- Convenção
-- Portugal
-- União Europeia
-- Instituição Financeira
-- TAXA Contributiva
-- Bruxelas
 - Fundo Único de Resolução
+- Instituição Financeira
+- Portugal
+- Supervisão Financeira
+- TAXA Contributiva
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:70179153:por
+  label: Ratificado o Acordo Relativo à Transferência e Mutualização das Contribuições para o Fundo Único de Resolução, assinado
+    em Bruxelas em 21 de maio de 2014, aprovado pela presente Resolução, pelo(a) Decreto do Presidente da República n.º 100/2015
+    - Diário da República n.º 172/2015, Série I de 2015-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/100-2015-70179153
+  date: '2015-09-03'
+- type: amended_by
+  target: pt:dre:175865932:por
+  label: Aprovado o Acordo de Alteração ao Acordo Relativo à Transferência e Mutualização das Contribuições para o Fundo Único
+    de Resolução, aprovado pelo presente diploma e ratificado pelo Dec 100/2015 de 03-set do PR, pelo(a) Resolução da Assembleia
+    da República n.º 318/2021 - Diário da República n.º 240/2021, Série I de 2021-12-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/318-2021-175865932
+  date: '2021-12-14'
 - type: cites
   target: celex:32000R1150
   label: null
@@ -128,13 +142,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:28Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +161,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 22 de julho de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO RELATIVO À TRANSFERÊNCIA E MUTUALIZAÇÃO DAS CONTRIBUIÇÕES PARA O FUNDO ÚNICO DE RESOLUÇÃO
 
@@ -479,7 +493,7 @@ Pour le Royaume de Belgique
 
 Für das Königreich Belgien
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0691806929.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0691806929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0691806929.pdf)
 
 Declarações de intenções das Partes Contratantes e dos observadores da Conferência Intergovernamental que são membros do Conselho da União Europeia, a depositar com o Acordo.
 
@@ -495,4 +509,4 @@ Declaração n.º 2
 
 Os signatários do Acordo Intergovernamental relativo à transferência e mutualização das contribuições para o Fundo Único de Resolução declaram que envidarão esforços para completar, em tempo útil, o respetivo processo de ratificação de acordo com os requisitos legais nacionais, por forma a permitir que o Mecanismo Único de Resolução esteja plenamente operacional até 1 de janeiro de 2016.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0691806929.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0691806929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0691806929.pdf)

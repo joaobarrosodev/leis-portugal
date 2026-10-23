@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1126/1993/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1126-1993-666168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13d7d45eb2dfb8d7bb0acf5d906cdd8c6b03cf7543c17a96856f9b6babd57631
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e14d91bf9acfba8b9c85fe268829305b4be28b62a5ca1dc71b1a5861605afa0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Línguas e Literaturas Modernas
-- Licenciatura
 - Ensino Superior
+- Licenciatura
+- Plano de Estudos
 - Universidade Aberta
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620730:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:51Z'
   warnings: []
   errors: []
 ---
@@ -213,9 +237,9 @@ Sem prejuízo do disposto no n.º 12.º, são revogadas as Portarias n.os [464/8
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO I — Universidade Aberta
 
@@ -223,7 +247,7 @@ Curso de Estudos Portugueses e Franceses
 
 Grau de licenciatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/257b00/61656167.pdf))](https://files.diariodarepublica.pt/1s/1993/11/257b00/61656167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/257b00/61656167.pdf)
 
 ## ANEXO II — Universidade Aberta
 
@@ -231,4 +255,4 @@ Curso de Estudos Portugueses e Franceses
 
 Grau de licenciatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/257b00/61656167.pdf))](https://files.diariodarepublica.pt/1s/1993/11/257b00/61656167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/257b00/61656167.pdf)

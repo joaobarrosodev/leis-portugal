@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/773/1992/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/773-1992-283900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7091dcd978e0c9b52001b9d7e1c2492d914df2f30cc353a7f89a7477154b385
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82f0f03609f6f039c96312df1a9b38d35fd45e6a22f7abf169ebc7b3eef16412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
 - Ensino Superior Politécnico
-- Universidade
 - Numerus Clausus
 - Regulamento
-- Ensino Superior
+- Universidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/379/1991/10/09/p/dre
@@ -84,16 +84,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/707/1992/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/707/1992/07/09/p/dre
+- type: cites
+  target: pt:dre:288236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:13Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +138,7 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 1.º No anexo I.1 da [Portaria n.º 706/92](https://diariodarepublica.pt/dr/detalhe/portaria/706-1992-616638), de 9 de Julho, é introduzido o seguinte aditamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/181b00/37293729.pdf))](https://files.diariodarepublica.pt/1s/1992/08/181b00/37293729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/181b00/37293729.pdf)
 
 2.º Os estudantes que em consequência da publicação da presente portaria pretendam alterar a candidatura que já hajam realizado no âmbito do concurso nacional de acesso ao ensino superior para a matrícula e inscrição no ano lectivo de 1992-1993, cujo regulamento foi aprovado pela [Portaria n.º 707/92](https://diariodarepublica.pt/dr/detalhe/portaria/707-1992-616639), de 9 de Julho, poderão fazê-lo, desde que pretendam candidatar-se ao par estabelecimento/curso referido no n.º 1.º, até sete dias após a data de publicação da presente portaria.
 
@@ -118,6 +146,6 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 23 de Julho de 1992.**
+Assinada em 23 de Julho de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1105/1993/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1105-1993-666560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe4fb8726e322737277ed45a8de221307756e4ba2e2824d935f09206e8c3f291
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 995eff814e5abd7861020d9860aa276ccc71a8b311051b4b22780193fae65742
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,116 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direção Geral da Saúde
-- Quadro de Pessoal
 - Ministério da Saúde
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:1817050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 123/94, DE 16 DE FEVEREIRO, PUBLICADO NO DR.IS-B, 56.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 128/94, DE 11 DE FEVEREIRO, PUBLICADO NO DR.IS-B, 59, DE 940311.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 134/94, DE 11 DE FEVEREIRO, PUBLICADO NO DR.IS-B, 62, DE 940315.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECCAO-GERAL DA SAÚDE PELO DESPACHO NORMATIVO 174/94, DE 17 DE FEVEREIRO, PUBLICADO
+    NO DR.IS-B, 67, DE 940321.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECCAO-GERAL DA SAÚDE PELO DESPACHO NORMATIVO 366/94, DE 14 DE ABRIL, PUBLICADO
+    NO DR.IS-B, 115, DE 940518.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 473/94, DE 17 DE MAIO, PUBLICADO NO DR.IS-B, 154.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 537/94, DE 20 DE JUNHO, PUBLICADO NO DR.IS-B, 171, DE 940726.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 838/94, DE 21 DE SETEMBRO, PUBLICADA NO DR.IS-B, 219.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-21'
+- type: amended_by
+  target: pt:dre:998686:por
+  label: "Alterado o quadro de pessoal pela PORT.86/98(2ªSÉRIE).1997.12.22.PCM, MF e MS DR.IIS [17] de 21/Jan/1998 e mantido\
+    \ em vigor pelo nº 2 do art. 42º do Dec Lei 122/97 de 20-Mai\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-1998-998686
+  date: '1997-12-22'
+- type: amended_by
+  target: pt:dre:1506648:por
+  label: "Alterado o quadro de pessoal constante do anexo ao presente diploma, pela PORT.119/98(2ªSÉRIE).1998.01.12.PCM, DR.IIS\
+    \ [28] de 03/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-1998-1506648
+  date: '1998-01-12'
+- type: amended_by
+  target: pt:dre:836826:por
+  label: "Alterado o quadro de pessoal constante do anexo ao presente diploma, pela PORT.832/99(2ªSÉRIE).1999.07.14.PCM DR.IIS\
+    \ [196] DE 23/AGO/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/832-1999-836826
+  date: '1999-07-14'
+- type: amended_by
+  target: pt:dre:2552081:por
+  label: "Alterado o quadro de pessoal pelo DC.942/2000.2000.08.24.MF, DR.IIS [217] de 19/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/942-2000-2552081
+  date: '2000-08-24'
+- type: amended_by
+  target: pt:dre:2252051:por
+  label: "Alterado o quadro de pessoal pela PORT.592/2001(2ªSÉRIE).2001.02.21.MS DR.IIS [66] DE 19/MAR/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/592-2001-2252051
+  date: '2001-02-21'
+- type: amended_by
+  target: pt:dre:2252052:por
+  label: "Alterado o quadro de pessoal pela PORT.593/2001(2ªSÉRIE).2001.02.21.MS DR.IIS [66] DE 19/MAR/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/593-2001-2252052
+  date: '2001-02-21'
+- type: amended_by
+  target: pt:dre:1717391:por
+  label: "Alterado o quadro de pessoal pela PORT.1292/2001(2ªSÉRIE).2001.06.08.MS, DR.IIS [173] de 2001/JUL/27\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1292-2001-1717391
+  date: '2001-06-08'
+- type: amended_by
+  target: pt:dre:1817050:por
+  label: "Alterado o quadro de pessoal por PORT.346/2003(2ªSÉRIE).2003.02.26.MF e MS, DR.IIS [68] de 21/Mar/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-2003-1817050
+  date: '2003-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/345/1993/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/345/1993/10/01/p/dre
+- type: cites
+  target: pt:dre:646300:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:22Z'
   warnings: []
   errors: []
 ---
@@ -105,10 +194,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que seja aprovado o 
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 4 de Outubro de 1993.**
+Assinada em 4 de Outubro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO — Quadro de pessoal da Direcção-Geral da Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/256b00/61326135.pdf))](https://files.diariodarepublica.pt/1s/1993/11/256b00/61326135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/256b00/61326135.pdf)

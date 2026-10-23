@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/948/1992/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/948-1992-233125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 155f7a304f7def0dffdd5c3c83078dd458b8846fe7828eaf3410e1983067e63f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d34215c73e002542b17fe00713e852194bbf30fd5ac26d97b164a6c3166194f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
 - Nisa
+- Recursos Hídricos
 - Zona de Proteção
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:25Z'
   warnings: []
   errors: []
 ---
@@ -106,14 +114,14 @@ M = -24253,93 m;
 
 Zona intermédia - definida pelo polígono cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/225b00/45844585.pdf))](https://files.diariodarepublica.pt/1s/1992/09/225b00/45844585.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/225b00/45844585.pdf)
 
 Zona alargada - definida pela polígono cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/225b00/45844585.pdf))](https://files.diariodarepublica.pt/1s/1992/09/225b00/45844585.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/225b00/45844585.pdf)
 
 Ministérios do Planeamento e da Administração do Território, da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 7 de Setembro de 1992.**
+Assinada em 7 de Setembro de 1992.
 
 Pelo Ministro do Planeamento e da Administração do Território, José Manuel Nunes Liberato, Secretário de Estado da Administração Local e do Ordenamento do Território. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.

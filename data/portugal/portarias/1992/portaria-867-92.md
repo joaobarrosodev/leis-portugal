@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/867/1992/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/867-1992-235108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7463680387cccb8e85ba1b8c499c0ee3b1c3a28a3b903f11bf11e864e8559b75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b62fa8bd6be84611db7a40a4a63b5db83584429204c1143d9cc5f3596fc8641
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,21 @@ subjects:
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Viana do Castelo
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:24Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +101,6 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 4 do a
 
 Ministério da Justiça.
 
-**Assinada em 15 de Maio de 1992.**
+Assinada em 15 de Maio de 1992.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.

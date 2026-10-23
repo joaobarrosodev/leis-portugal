@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/62/2015/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/62-2015-67468087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f3646d8d3073d8b5a7b8873ce06ca5fe07d440a958b02f647712de1e3836c37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d199ba0810a32b3937a4bb25f68a0ee80b76b57a91b8efeb86802327620c054
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - Combustível
+- Convenção
 - Hidrocarbonetos
 - Londres
+- Poluição
 - Poluição da água
 - Poluição das Costas
 - Poluição Marinha
 - Poluição pelos Navios
 - Poluição por Hidrocarbonetos
-- Poluição
+- Portugal
 - Responsabilidade Civil
 relationships:
 - type: amended_by
   target: pt:dre:1135578392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67468084:por
+  label: Ratificado o Acordo aprovado pela presente resolução, pelo(a) Decreto do Presidente da República n.º 35/2015 - Diário
+    da República n.º 113/2015, Série I de 2015-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/35-2015-67468084
+  date: '2015-06-12'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:08Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +111,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de abril de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 INTERNATIONAL CONVENTION ON CIVIL LIABILITY FOR BUNKER OIL POLLUTION DAMAGE, 2001
 
@@ -419,7 +425,7 @@ Certificate of insurance or other financial security in respect of civil liabili
 
 Issued in accordance with the provisions of article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf))](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf)
 
 Explanatory notes
 
@@ -433,7 +439,7 @@ Explanatory notes
 
 5 - The entry "Address" of the insurer(s) and/or guarantor(s) must indicate the principal place of business of the insurer(s) and/or guarantor(s). If appropriate, the place of business where the insurance or other security is established shall be indicated.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf))](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf)
 
 CONVENÇÃO INTERNACIONAL SOBRE A RESPONSABILIDADE CIVIL PELOS PREJUÍZOS POR POLUIÇÃO CAUSADA POR COMBUSTÍVEL DE BANCAS, 2001
 
@@ -709,7 +715,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito pelos r
 
 Emitido em conformidade com o disposto no artigo 7.º da Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos causados pela Poluição por Combustível de Bancas, 2001.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf))](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/11300/0372503735.pdf)
 
 Notas explicativas
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 79/2015, 1º Suplemento, Série I de 2015-04-23
   number: '79'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2052-(2) a 2052-(1516)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/41-a/2015/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/41-a-2015-67058845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b4bb35a8742bf2c0a64a59a067fbde4717c87abed418a0a6f300f2013ef6e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa9d84684a6380b31ebd42bb84e8142aec1098f0c14b56cb59b09a8b0ce71c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
-- Convenção
-- Portugal
-- Energia Nuclear
-- União Europeia
 - Bruxelas
+- Convenção
+- Energia Nuclear
+- Portugal
 - Ucrânia
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:67058844:por
+  label: Ratificado o Acordo aprovado pela presente Resolução pelo(a) Decreto do Presidente da República n.º 30-A/2015 - Diário
+    da República n.º 79/2015, 1º Suplemento, Série I de 2015-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/30-a-2015-67058844
+  date: '2015-04-23'
 - type: cites
   target: celex:31969R1192
   label: null
@@ -523,15 +529,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1992/
 article_structure:
-  article_count: 709
-  section_count: 214
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 506
+  section_count: 130
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:40Z'
   warnings: []
   errors: []
 ---
@@ -544,7 +550,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de março de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO DE ASSOCIAÇÃO ENTRE A UNIÃO EUROPEIA E A COMUNIDADE EUROPEIA DA ENERGIA ATÓMICA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A UCRÂNIA, POR OUTRO.
 
@@ -1226,7 +1232,7 @@ iii) propiciar o sistema administrativo eficaz e transparente necessário para a
 
 7 - A Ucrânia deve garantir que os seus organismos nacionais competentes participem plenamente nas organizações europeias e internacionais de normalização, metrologia jurídica e fundamental e avaliação da conformidade, incluindo acreditação, segundo a sua área de atividade e o estatuto de membro de que disponha.
 
-8 - A Ucrânia deve progressivamente transpor o corpus de normas europeias (EN) como normas nacionais, incluindo as normas europeias harmonizadas, cuja utilização voluntária confere a presunção de conformidade com a legislação identificada no anexo iii do presente Acordo. Em simultâneo com esta transposição, a Ucrânia deve retirar normas nacionais contraditórias, incluindo a sua aplicação de normas interestatais (GOST/[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)), desenvolvidas antes de 1992. Além disso, a Ucrânia deve progressivamente cumprir as restantes condições para a adesão, em conformidade com os requisitos aplicáveis aos membros de pleno direito das organizações europeias de normalização.
+8 - A Ucrânia deve progressivamente transpor o corpus de normas europeias (EN) como normas nacionais, incluindo as normas europeias harmonizadas, cuja utilização voluntária confere a presunção de conformidade com a legislação identificada no anexo iii do presente Acordo. Em simultâneo com esta transposição, a Ucrânia deve retirar normas nacionais contraditórias, incluindo a sua aplicação de normas interestatais (GOST/[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)), desenvolvidas antes de 1992. Além disso, a Ucrânia deve progressivamente cumprir as restantes condições para a adesão, em conformidade com os requisitos aplicáveis aos membros de pleno direito das organizações europeias de normalização.
 
 ###### Artigo 57.º — Acordo sobre a Avaliação da Conformidade e a Aceitação de Produtos Industriais
 
@@ -6044,181 +6050,181 @@ Lista de anexos
 
 Anexos do título iv
 
-## Anexo i-A do capítulo 1 - Eliminação dos direitos aduaneiros.
+Anexo i-A do capítulo 1 - Eliminação dos direitos aduaneiros.
 
-## Apêndice A - Contingentes pautais agregados indicativos para importações na UE.
+Apêndice A - Contingentes pautais agregados indicativos para importações na UE.
 
-## Apêndice B - Contingentes pautais agregados indicativos para importações na Ucrânia.
+Apêndice B - Contingentes pautais agregados indicativos para importações na Ucrânia.
 
-## Anexo i-B do capítulo 1 - Condições adicionais de comércio para vestuário usado.
+Anexo i-B do capítulo 1 - Condições adicionais de comércio para vestuário usado.
 
-## Anexo i-C do capítulo 1 - Listas de eliminação dos direitos de exportação.
+Anexo i-C do capítulo 1 - Listas de eliminação dos direitos de exportação.
 
-## Anexo i-D do capítulo 1 - Medidas de salvaguarda para direitos de exportação.
+Anexo i-D do capítulo 1 - Medidas de salvaguarda para direitos de exportação.
 
-## Anexo ii do capítulo 2 - Medidas de salvaguarda sobre automóveis de passageiros.
+Anexo ii do capítulo 2 - Medidas de salvaguarda sobre automóveis de passageiros.
 
-## Anexo iii do capítulo 3 - Lista da legislação para alinhamento, com calendário para a respetiva execução.
+Anexo iii do capítulo 3 - Lista da legislação para alinhamento, com calendário para a respetiva execução.
 
-## Anexo iv do capítulo 4 - Cobertura.
+Anexo iv do capítulo 4 - Cobertura.
 
-## Anexo iv-A do capítulo 4 - Medidas SFS.
+Anexo iv-A do capítulo 4 - Medidas SFS.
 
-## Anexo iv-B do capítulo 4 - Normas de bem-estar dos animais.
+Anexo iv-B do capítulo 4 - Normas de bem-estar dos animais.
 
-## Anexo iv-C do capítulo 4 - Outras medidas.
+Anexo iv-C do capítulo 4 - Outras medidas.
 
-## Anexo iv-D do capítulo 4 - Medidas a incluir após a aproximação da legislação.
+Anexo iv-D do capítulo 4 - Medidas a incluir após a aproximação da legislação.
 
-## Anexo v do capítulo 4 - Estratégia global para a execução do presente capítulo.
+Anexo v do capítulo 4 - Estratégia global para a execução do presente capítulo.
 
-## Anexo vi do capítulo 4 - Lista de doenças animais e aquícolas sujeitas a notificação e de pragas regulamentadas, relativamente às quais a indemnidade regional pode ser reconhecida.
+Anexo vi do capítulo 4 - Lista de doenças animais e aquícolas sujeitas a notificação e de pragas regulamentadas, relativamente às quais a indemnidade regional pode ser reconhecida.
 
-## Anexo vi-A do capítulo 4 - Doenças animais e aquícolas sujeitas a notificação, relativamente às quais o estatuto das Partes é reconhecido e podem ser tomadas decisões de regionalização.
+Anexo vi-A do capítulo 4 - Doenças animais e aquícolas sujeitas a notificação, relativamente às quais o estatuto das Partes é reconhecido e podem ser tomadas decisões de regionalização.
 
-## Anexo vi-B do capítulo 4 - Reconhecimento do estatuto da praga, zonas indemnes ou zonas protegidas.
+Anexo vi-B do capítulo 4 - Reconhecimento do estatuto da praga, zonas indemnes ou zonas protegidas.
 
-## Anexo vii do capítulo 4 - Regionalização/zonagem, zonas indemnes e zonas protegidas.
+Anexo vii do capítulo 4 - Regionalização/zonagem, zonas indemnes e zonas protegidas.
 
-## Anexo viii do capítulo 4 - Aprovação provisória de estabelecimentos.
+Anexo viii do capítulo 4 - Aprovação provisória de estabelecimentos.
 
-## Anexo ix do capítulo 4 - Processo de determinação da equivalência.
+Anexo ix do capítulo 4 - Processo de determinação da equivalência.
 
-## Anexo x do capítulo 4 - Orientações para a realização das verificações.
+Anexo x do capítulo 4 - Orientações para a realização das verificações.
 
-## Anexo xi do capítulo 4 - Controlos de importação e taxas de inspeção.
+Anexo xi do capítulo 4 - Controlos de importação e taxas de inspeção.
 
-## Anexo xii do capítulo 4 - Certificação.
+Anexo xii do capítulo 4 - Certificação.
 
-## Anexo xiii do capítulo 4 - Questões pendentes.
+Anexo xiii do capítulo 4 - Questões pendentes.
 
-## Anexo xiv do capítulo 4 - Compartimentação.
+Anexo xiv do capítulo 4 - Compartimentação.
 
-## Anexo xv do capítulo 5 - Aproximação da legislação aduaneira.
+Anexo xv do capítulo 5 - Aproximação da legislação aduaneira.
 
-## Anexo xvi do capítulo 6 - Lista de reservas em matéria de estabelecimento; Lista de compromissos em matéria de prestação de serviços transfronteiras; Lista de reservas em matéria de prestadores de serviços por contrato e profissionais independentes.
+Anexo xvi do capítulo 6 - Lista de reservas em matéria de estabelecimento; Lista de compromissos em matéria de prestação de serviços transfronteiras; Lista de reservas em matéria de prestadores de serviços por contrato e profissionais independentes.
 
-## Anexo xvi-A do capítulo 6 - Reservas da UE em matéria de estabelecimento.
+Anexo xvi-A do capítulo 6 - Reservas da UE em matéria de estabelecimento.
 
-## Anexo xvi-B do capítulo 6 - Lista de compromissos em matéria de prestação de serviços transfronteiras.
+Anexo xvi-B do capítulo 6 - Lista de compromissos em matéria de prestação de serviços transfronteiras.
 
-## Anexo xvi-C do capítulo 6 - Reservas em matéria de prestadores de serviços por contrato e profissionais independentes (Parte UE).
+Anexo xvi-C do capítulo 6 - Reservas em matéria de prestadores de serviços por contrato e profissionais independentes (Parte UE).
 
-## Anexo xvi-D do capítulo 6 - Reservas da Ucrânia em matéria de estabelecimento.
+Anexo xvi-D do capítulo 6 - Reservas da Ucrânia em matéria de estabelecimento.
 
-## Anexo xvi-E do capítulo 6 - Compromissos da Ucrânia em matéria de prestação de serviços transfronteiras.
+Anexo xvi-E do capítulo 6 - Compromissos da Ucrânia em matéria de prestação de serviços transfronteiras.
 
-## Anexo xvi-F do capítulo 6 - Reservas em matéria de prestadores de serviços por contrato e profissionais independentes (Ucrânia).
+Anexo xvi-F do capítulo 6 - Reservas em matéria de prestadores de serviços por contrato e profissionais independentes (Ucrânia).
 
-## Anexo xvii - Aproximação regulamentar.
+Anexo xvii - Aproximação regulamentar.
 
-## Apêndice xvii-1 - Adaptações horizontais e regras processuais.
+Apêndice xvii-1 - Adaptações horizontais e regras processuais.
 
-## Apêndice xvii-2 - Regras aplicáveis aos serviços financeiros.
+Apêndice xvii-2 - Regras aplicáveis aos serviços financeiros.
 
-## Apêndice xvii-3 - Regras aplicáveis aos serviços de telecomunicações.
+Apêndice xvii-3 - Regras aplicáveis aos serviços de telecomunicações.
 
-## Apêndice xvii-4 - Regras aplicáveis aos serviços postais e de correio rápido.
+Apêndice xvii-4 - Regras aplicáveis aos serviços postais e de correio rápido.
 
-## Apêndice xvii-5 - Regras aplicáveis aos serviços de transporte marítimo internacional.
+Apêndice xvii-5 - Regras aplicáveis aos serviços de transporte marítimo internacional.
 
-## Apêndice xvii-6 - Disposições em matéria de monitorização.
+Apêndice xvii-6 - Disposições em matéria de monitorização.
 
-## Anexo xviii do capítulo 6 - Pontos de informação.
+Anexo xviii do capítulo 6 - Pontos de informação.
 
-## Anexo xix do capítulo 6 - Lista indicativa da UE dos mercados de produtos e serviços relevantes a analisar em conformidade com o artigo 116.º
+Anexo xix do capítulo 6 - Lista indicativa da UE dos mercados de produtos e serviços relevantes a analisar em conformidade com o artigo 116.º
 
-## Anexo xx do capítulo 6 - Lista indicativa da Ucrânia dos mercados relevantes a analisar em conformidade com o artigo 116.º
+Anexo xx do capítulo 6 - Lista indicativa da Ucrânia dos mercados relevantes a analisar em conformidade com o artigo 116.º
 
-## Anexo xxi do capítulo 8 - Contratos públicos.
+Anexo xxi do capítulo 8 - Contratos públicos.
 
-## Anexo xxi-A do capítulo 8 - Calendário indicativo para a reforma institucional, a aproximação legislativa e o acesso ao mercado.
+Anexo xxi-A do capítulo 8 - Calendário indicativo para a reforma institucional, a aproximação legislativa e o acesso ao mercado.
 
-## Anexo xxi-B do capítulo 8 - Elementos básicos da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) (fase 2).
+Anexo xxi-B do capítulo 8 - Elementos básicos da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) (fase 2).
 
-## Anexo xxi-C do capítulo 8 - Elementos básicos da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) (fase 2).
+Anexo xxi-C do capítulo 8 - Elementos básicos da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) (fase 2).
 
-## Anexo xxi-D do capítulo 8 - Elementos básicos da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) (fase 3).
+Anexo xxi-D do capítulo 8 - Elementos básicos da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) (fase 3).
 
-## Anexo xxi-E do capítulo 8 - Elementos básicos da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) (fase 3).
+Anexo xxi-E do capítulo 8 - Elementos básicos da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) (fase 3).
 
-## Anexo xxi-F do capítulo 8 - Outros elementos não obrigatórios da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) (fase 4).
+Anexo xxi-F do capítulo 8 - Outros elementos não obrigatórios da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) (fase 4).
 
-## Anexo xxi-G do capítulo 8 - Outros elementos obrigatórios da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) (fase 4).
+Anexo xxi-G do capítulo 8 - Outros elementos obrigatórios da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) (fase 4).
 
-## Anexo xxi-H do capítulo 8 - Outros elementos da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) (fase 4).
+Anexo xxi-H do capítulo 8 - Outros elementos da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) (fase 4).
 
-## Anexo xxi-I do capítulo 8 - Outros elementos não obrigatórios da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) (fase 5).
+Anexo xxi-I do capítulo 8 - Outros elementos não obrigatórios da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) (fase 5).
 
-## Anexo xxi-J do capítulo 8 - Outros elemento da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) (fase 5).
+Anexo xxi-J do capítulo 8 - Outros elemento da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) (fase 5).
 
-## Anexo xxi-K do capítulo 8 - Disposições da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) fora do âmbito do processo de aproximação legislativa.
+Anexo xxi-K do capítulo 8 - Disposições da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) fora do âmbito do processo de aproximação legislativa.
 
-## Anexo xxi-L do capítulo 8 - Disposições da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) fora do âmbito do processo de aproximação legislativa.
+Anexo xxi-L do capítulo 8 - Disposições da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) fora do âmbito do processo de aproximação legislativa.
 
-## Anexo xxi-M do capítulo 8 - Disposições da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066), fora do âmbito do processo de aproximação legislativa.
+Anexo xxi-M do capítulo 8 - Disposições da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066), fora do âmbito do processo de aproximação legislativa.
 
-## Anexo xxi-N do capítulo 8 - Disposições da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066), fora do âmbito do processo de aproximação legislativa.
+Anexo xxi-N do capítulo 8 - Disposições da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013), na versão que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066), fora do âmbito do processo de aproximação legislativa.
 
-## Anexo xxi-O do capítulo 8 - Lista indicativa de temas para cooperação.
+Anexo xxi-O do capítulo 8 - Lista indicativa de temas para cooperação.
 
-## Anexo xxi-P do capítulo 8 - Limiares.
+Anexo xxi-P do capítulo 8 - Limiares.
 
-## Anexo xxii-A do capítulo 9 - Indicações geográficas - Legislação das Partes e elementos para registo e controlo.
+Anexo xxii-A do capítulo 9 - Indicações geográficas - Legislação das Partes e elementos para registo e controlo.
 
-## Anexo xxii-B do capítulo 9 - Indicações geográficas - Critérios a incluir no procedimento de oposição.
+Anexo xxii-B do capítulo 9 - Indicações geográficas - Critérios a incluir no procedimento de oposição.
 
-## Anexo xxii-C do capítulo 9 - Indicações geográficas dos produtos agrícolas e dos géneros alimentícios, como se refere no artigo 202.º, n.º 3, do presente Acordo.
+Anexo xxii-C do capítulo 9 - Indicações geográficas dos produtos agrícolas e dos géneros alimentícios, como se refere no artigo 202.º, n.º 3, do presente Acordo.
 
-## Anexo xxii-D do capítulo 9 - Indicações geográficas de vinhos, vinhos aromatizados e bebidas espirituosas, como se refere no artigo 202.º, n.os 3 e 4, do presente Acordo.
+Anexo xxii-D do capítulo 9 - Indicações geográficas de vinhos, vinhos aromatizados e bebidas espirituosas, como se refere no artigo 202.º, n.os 3 e 4, do presente Acordo.
 
-## Anexo xxiii do capítulo 10 - Glossário.
+Anexo xxiii do capítulo 10 - Glossário.
 
-## Anexo xxiv do capítulo 14 - Regras processuais para a resolução de litígios.
+Anexo xxiv do capítulo 14 - Regras processuais para a resolução de litígios.
 
-## Anexo xxv do capítulo 15 - Código de conduta dos membros dos painéis de arbitragem e dos mediadores.
+Anexo xxv do capítulo 15 - Código de conduta dos membros dos painéis de arbitragem e dos mediadores.
 
 Anexos do título v
 
-## Anexo xxvi do capítulo 1 - Cooperação no domínio da energia, incluindo questões nucleares.
+Anexo xxvi do capítulo 1 - Cooperação no domínio da energia, incluindo questões nucleares.
 
-## Anexo xxvii do capítulo 1 - Cooperação no domínio da energia, incluindo questões nucleares.
+Anexo xxvii do capítulo 1 - Cooperação no domínio da energia, incluindo questões nucleares.
 
-## Anexo xxviii do capítulo 4 - Fiscalidade.
+Anexo xxviii do capítulo 4 - Fiscalidade.
 
-## Anexo xxix do capítulo 5 - Estatísticas.
+Anexo xxix do capítulo 5 - Estatísticas.
 
-## Anexo xxx do capítulo 6 - Ambiente.
+Anexo xxx do capítulo 6 - Ambiente.
 
-## Anexo xxxi do capítulo 6 - Ambiente.
+Anexo xxxi do capítulo 6 - Ambiente.
 
-## Anexo xxxii do capítulo 7 - Transportes.
+Anexo xxxii do capítulo 7 - Transportes.
 
-## Anexo xxxiii do capítulo 7 - Transportes.
+Anexo xxxiii do capítulo 7 - Transportes.
 
-## Anexo xxxiv do capítulo 13 - Direito das sociedades, governo das sociedades, contabilidade e auditoria.
+Anexo xxxiv do capítulo 13 - Direito das sociedades, governo das sociedades, contabilidade e auditoria.
 
-## Anexo xxxv do capítulo 13 - Direito das sociedades, governo das sociedades, contabilidade e auditoria.
+Anexo xxxv do capítulo 13 - Direito das sociedades, governo das sociedades, contabilidade e auditoria.
 
-## Anexo xxxvi - Direito das sociedades, governo das sociedades, contabilidade e auditoria.
+Anexo xxxvi - Direito das sociedades, governo das sociedades, contabilidade e auditoria.
 
-## Anexo xxxvii do capítulo 15 - Política audiovisual.
+Anexo xxxvii do capítulo 15 - Política audiovisual.
 
-## Anexo xxxviii do capítulo 17 - Agricultura e desenvolvimento rural.
+Anexo xxxviii do capítulo 17 - Agricultura e desenvolvimento rural.
 
-## Anexo xxxix do capítulo 20 - Defesa do consumidor.
+Anexo xxxix do capítulo 20 - Defesa do consumidor.
 
-## Anexo xl do capítulo 21 - Cooperação em matéria de emprego, política social e igualdade de oportunidades.
+Anexo xl do capítulo 21 - Cooperação em matéria de emprego, política social e igualdade de oportunidades.
 
-## Anexo xli do capítulo 22 - Saúde pública.
+Anexo xli do capítulo 22 - Saúde pública.
 
-## Anexo xlii do capítulo 23 - Educação, formação e juventude.
+Anexo xlii do capítulo 23 - Educação, formação e juventude.
 
 Anexos do título vi
 
-## Anexo xliii do título vi - Cooperação financeira, com disposições antifraude.
+Anexo xliii do título vi - Cooperação financeira, com disposições antifraude.
 
-## Anexo xliv do título vi - Cooperação financeira, com disposições antifraude.
+Anexo xliv do título vi - Cooperação financeira, com disposições antifraude.
 
 Protocolos
 
@@ -6230,7 +6236,7 @@ Protocolo III - Protocolo sobre um Acordo-Quadro entre a União Europeia e a Ucr
 
 Declaração comum
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 (1) Salvo disposição em contrário prevista nos anexos i e ii do presente Acordo.
 
@@ -6338,31 +6344,35 @@ Os termos ou conceitos fiscais constantes da alínea f) e da presente nota de ro
 
 Anexos do título iv: Comércio e matérias conexas
 
-## ANEXO I-A — Anexo I-A do Capítulo I
+## ANEXO I-A
+
+## Anexo I-A do Capítulo I
 
 Eliminação dos direitos aduaneiros
 
 Listas pautais da Ucrânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## APÊNDICE DO ANEXO I-A (1)
+APÊNDICE DO ANEXO I-A (1)
 
 O presente apêndice sintetiza as quantidades agregadas, como indicadas no anexo I-A, quando aplicável.
 
 A. Contingentes pautais agregados indicativos para as importações na UE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 B. Contingentes pautais agregados indicativos para as importações na Ucrânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 As quantidades são geridas segundo o princípio «primeiro a chegar, primeiro a ser servido».
 
 (1) Em caso de conflito entre uma disposição do presente apêndice e uma disposição do anexo i-A, prevalecerá a disposição deste último na medida do conflito.
 
-## ANEXO I-B — Anexo I-B do Capítulo 1
+## ANEXO I-B
+
+## Anexo I-B do Capítulo 1
 
 Condições adicionais de comércio para artefactos de matérias têxteis usados
 
@@ -6384,7 +6394,9 @@ As Partes acordam nas seguintes condições especiais aplicáveis ao comércio d
 
 5 - A Ucrânia publica todos os anos estatísticas anuais sobre comércio relativas às quantidades de produtos importados ao abrigo do código aduaneiro referido no n.º 1 do presente artigo.
 
-## ANEXO I-C — Anexo I-C do Capítulo 1
+## ANEXO I-C
+
+## Anexo I-C do Capítulo 1
 
 Listas da eliminação dos direitos de exportação
 
@@ -6394,21 +6406,23 @@ Salvo especificação em contrário, os direitos são expressos em percentagem.
 
 Animais e matérias-primas de pele em bruto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Sementes de alguns tipos de oleaginosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Desperdícios de ligas de metais ferrosos, desperdícios de metais não ferrosos e respetivos produtos semiacabados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Desperdícios, resíduos e sucata de metais ferrosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO I-D — Anexo I-D do Capítulo 1
+## ANEXO I-D
+
+## Anexo I-D do Capítulo 1
 
 Medidas de salvaguarda para direitos de exportação
 
@@ -6434,39 +6448,41 @@ Nota: Os quadros seguintes são aplicáveis se o Acordo entrar em vigor entre 1 
 
 Cobertura: matérias-primas abrangidas pelos seguintes códigos aduaneiros ucranianos: 4101, 4102, 4103 90.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 9 - No que diz respeito às sementes de girassol, mesmo trituradas:
 
 Cobertura: sementes de girassol, mesmo trituradas abrangidas pelo seguinte código aduaneiro ucraniano: 1206 00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 10 - No que diz respeito aos desperdícios de ligas de metais ferrosos, desperdícios de metais não ferrosos e respetivos produtos semiacabados:
 
 Cobertura: desperdícios e resíduos de ligas de aço abrangidos pelos seguintes códigos aduaneiros ucranianos: 7204 21, 7204 29 00 00, 7204 50 00 00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Cobertura: aço inoxidável em lingotes ou outras formas primárias abrangido pelo seguinte código aduaneiro ucraniano: 7218 10 00 00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Cobertura: o cobre abrangido pelos seguintes códigos aduaneiros ucranianos: 7401 00 00 00, 7402 00 00 00, 7403 12 00 00, 7403 13 00 00, 7403 19 00 00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Cobertura: o cobre abrangido pelos seguintes códigos aduaneiros ucranianos: 7403 21 00 00, 7403 22 00 00, 7403 29 00 00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Cobertura: desperdícios de ligas de metais ferrosos, desperdícios de metais não ferrosos e respetivos produtos semiacabados abrangidos pelos seguintes códigos aduaneiros ucranianos: 7404 00, 7405 00 00 00, 7406, 7418 19 90 00, 7419, 7503 00, 7602 00, 7802 00 00 00, 7902 00 00 00, 8108 30 00 00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 11 - Será possível recorrer ao mecanismo de salvaguarda durante os cinco anos subsequentes ao final do período transitório, ou seja, de EEV+10 a EEV+15. O montante máximo do direito adicional diminuirá linearmente do montante especificado em EEV+10 para 0 (zero) em EEV+15.
 
-## ANEXO II — Anexo II do Capítulo 2
+## ANEXO II
+
+## Anexo II do Capítulo 2
 
 Medidas de salvaguarda sobre automóveis de passageiros
 
@@ -6476,9 +6492,11 @@ Níveis de desencadeamento e direitos máximos de salvaguarda
 
 O presente anexo estabelece os níveis de desencadeamento para a aplicação de medidas de salvaguardas ao produto da secção 2 do capítulo 2 (Recursos em matéria comercial) do título iv do presente Acordo e o direito de salvaguarda máximo que pode ser aplicado cada ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO III — Anexo III do Capítulo 3
+## ANEXO III
+
+## Anexo III do Capítulo 3
 
 Lista da legislação para alinhamento, com calendário para a respetiva execução
 
@@ -6614,13 +6632,15 @@ Calendário: durante o período de cinco anos após a entrada em vigor do Acordo
 
 Calendário: durante o período de cinco anos após a entrada em vigor do Acordo
 
-## Anexo IV do Capítulo 4 - Cobertura
+Anexo IV do Capítulo 4 - Cobertura
 
-## ANEXO IV-A — Anexo IV-A do Capítulo 4
+## ANEXO IV-A
+
+## Anexo IV-A do Capítulo 4
 
 Medidas SFS
 
-# PARTE 1 — Medidas aplicáveis às principais categorias de animais vivos
+## PARTE 1 — Medidas aplicáveis às principais categorias de animais vivos
 
 I. Espécies equina (incluindo zebras), asinina ou animais provenientes dos seus cruzamentos
 
@@ -6656,7 +6676,7 @@ XVI. Outros vertebrados
 
 XVII. Abelhas
 
-# PARTE 2 — Medidas aplicáveis aos produtos animais
+## PARTE 2 — Medidas aplicáveis aos produtos animais
 
 I. Principais categorias de produtos animais destinados ao consumo humano
 
@@ -6686,15 +6706,15 @@ I. Principais categorias de produtos animais destinados ao consumo humano
 
 II. Principais categorias de produtos dos subprodutos animais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 III. Agentes patogénicos
 
-# PARTE 3 — Vegetais, produtos vegetais e outros objetos
+## PARTE 3 — Vegetais, produtos vegetais e outros objetos
 
 Vegetais, produtos vegetais e outros objetos (1) que são potenciais portadores de pragas que, pela sua natureza ou pela natureza da transformação a que foram submetidos, possam criar um risco de introdução e propagação de pragas.
 
-# PARTE 4 — Medidas aplicáveis aos aditivos alimentares e aos aditivos para alimentação animal
+## PARTE 4 — Medidas aplicáveis aos aditivos alimentares e aos aditivos para alimentação animal
 
 Géneros alimentícios:
 
@@ -6720,7 +6740,9 @@ Alimentos para animais (2):
 
 (2) Apenas subprodutos animais de animais ou partes de animais declarados próprios para consumo humano podem entrar na cadeia alimentar animal dos animais de criação.
 
-## ANEXO IV-B — Anexo IV-B do Capítulo 4
+## ANEXO IV-B
+
+## Anexo IV-B do Capítulo 4
 
 Normas de bem-estar dos animais
 
@@ -6732,7 +6754,9 @@ Normas de bem-estar dos animais relativas a:
 
 3 - Animais de criação.
 
-## ANEXO IV-C — Anexo IV-C do Capítulo 4
+## ANEXO IV-C
+
+## Anexo IV-C do Capítulo 4
 
 Outras medidas abrangidas pelo presente capítulo
 
@@ -6750,7 +6774,9 @@ A legislação em matéria de organismos geneticamente modificados será incluí
 
 [Regulamento (CE) n.º 1830/2003](https://diariodarepublica.pt/application/external/eurolex?03R1830) do Parlamento Europeu e do Conselho, de 22 de setembro de 2003, relativo à rastreabilidade e rotulagem de organismos geneticamente modificados e à rastreabilidade dos géneros alimentícios e alimentos para animais produzidos a partir de organismos geneticamente modificados e que altera a Diretiva [2001/18/CE](https://diariodarepublica.pt/application/external/eurolex?01L0018).
 
-## ANEXO IV-D — Anexo IV-D do Capítulo 4
+## ANEXO IV-D
+
+## Anexo IV-D do Capítulo 4
 
 Medidas a incluir após a aproximação da legislação
 
@@ -6762,7 +6788,9 @@ Medidas a incluir após a aproximação da legislação
 
 4 - Irradiação (ionização).
 
-## ANEXO V — Anexo V do Capítulo 4
+## ANEXO V
+
+## Anexo V do Capítulo 4
 
 Estratégia global para a execução do Capítulo IV
 
@@ -6770,11 +6798,15 @@ Estratégia global para a execução do Capítulo IV
 
 A Ucrânia apresentará uma estratégia global em conformidade com o artigo 64.º, n.º 4, do presente Acordo.
 
-## ANEXO VI — Anexo VI do Capítulo 4
+## ANEXO VI
+
+## Anexo VI do Capítulo 4
 
 Lista de doenças animais e aquícolas sujeitas a notificação e de pragas regulamentadas, relativamente às quais a indemnidade regional pode ser reconhecida
 
-## ANEXO VI-A — Anexo VI-A do Capítulo 4
+## ANEXO VI-A
+
+## Anexo VI-A do Capítulo 4
 
 Doenças animais e aquícolas sujeitas a notificação, relativamente às quais é reconhecido o estatuto das Partes e podem ser tomadas decisões de regionalização
 
@@ -6826,7 +6858,9 @@ Doenças animais e aquícolas sujeitas a notificação, relativamente às quais 
 
 24 - Marteiliose (Marteilla refrigens)
 
-## ANEXO VI-B — Anexo VI-B do Capítulo 4
+## ANEXO VI-B
+
+## Anexo VI-B do Capítulo 4
 
 Reconhecimento do estatuto da praga, zonas indemnes ou zonas protegidas
 
@@ -6846,7 +6880,9 @@ B. Reconhecimento de zonas indemnes (ZI) e de zonas protegidas
 
 As Partes reconhecem o conceito de ZI, e a sua aplicação no que respeita às NIMF pertinentes, como alteradas periodicamente e de zonas protegidas.
 
-## ANEXO VII — Anexo VII do Capítulo 4
+## ANEXO VII
+
+## Anexo VII do Capítulo 4
 
 Regionalização/zonagem, zonas indemnes e zonas protegidas
 
@@ -6886,7 +6922,9 @@ C. Critérios para o reconhecimento do estatuto especial do território ou de um
 
 3 - As Partes devem notificar-se de qualquer mudança nos critérios especificados no n.º 1, no que diga respeito à doença. As garantias adicionais definidas em conformidade com o n.º 2 podem, com base nessa notificação, ser alteradas ou revogadas pelo Subcomité SFS referido no artigo 74.º do presente Acordo.
 
-## ANEXO VIII — Anexo VIII do Capítulo 4
+## ANEXO VIII
+
+## Anexo VIII do Capítulo 4
 
 Aprovação provisória de estabelecimentos
 
@@ -6928,7 +6966,7 @@ Estabelecimentos para:
 
 2.1.2 - Estabelecimentos aprovados ou registados que produzem subprodutos animais e principais categorias de subprodutos animais não destinados ao consumo humano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 3 - A Parte de importação deve elaborar as listas dos estabelecimentos aprovados provisoriamente, referidos em 2.1.1, e torná-las acessíveis ao público.
 
@@ -6946,7 +6984,9 @@ Tendo em conta a estrutura específica e a distribuição de competências na Un
 
 e) Com base nos resultados da verificação referida na alínea d), a Parte de importação pode alterar a lista existente de estabelecimentos.
 
-## ANEXO IX — Anexo IX do Capítulo 4
+## ANEXO IX
+
+## Anexo IX do Capítulo 4
 
 Processo de determinação da equivalência
 
@@ -7028,7 +7068,9 @@ Caso a Parte de importação chegue a uma conclusão negativa, deve fornecer à 
 
 6 - No caso dos vegetais e produtos vegetais, a equivalência, no que respeita às medidas fitossanitárias, deve basear-se nas NIMF pertinentes.
 
-## ANEXO X — Anexo X do Capítulo 4
+## ANEXO X
+
+## Anexo X do Capítulo 4
 
 Orientações para a realização das verificações
 
@@ -7132,7 +7174,9 @@ Deve ser organizada uma reunião de encerramento entre representantes de ambas a
 
 O projeto de relatório de verificação deve ser enviado ao auditado no prazo de 20 dias úteis. O auditado tem 25 dias úteis para formular os seus comentários acerca do projeto de relatório. Os comentários elaborados pelo auditado devem ser apensos ao projeto de relatório e, se for caso disso, incluídos no relatório final. Todavia, quando se tiver identificado um risco sério para a saúde pública, sanidade animal ou fitossanidade durante a verificação, o auditado deve ser informado com a maior brevidade possível e, de qualquer modo, no prazo de 10 dias úteis a contar da data em que termina a verificação.
 
-## ANEXO XI — Anexo XI do Capítulo 4
+## ANEXO XI
+
+## Anexo XI do Capítulo 4
 
 Controlos de importação e taxas de inspeção
 
@@ -7150,11 +7194,11 @@ B. Frequência dos controlos físicos
 
 B.1. Importações de animais e produtos animais na União Europeia e na Ucrânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 B.2. Importações de géneros alimentícios não animais na União Europeia e na Ucrânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 B.3. Importação na União Europeia e na Ucrânia de vegetais, produtos vegetais e outros objetos
 
@@ -7164,7 +7208,9 @@ A Parte de importação pode realizar controlos, a fim de verificar o estatuto f
 
 Poderia ser estabelecida uma frequência reduzida de controlos fitossanitários para as mercadorias regulamentadas, com exceção dos vegetais destinados à plantação.
 
-## ANEXO XII — Anexo XII do Capítulo 4
+## ANEXO XII
+
+## Anexo XII do Capítulo 4
 
 Certificação
 
@@ -7226,19 +7272,25 @@ O certificado sanitário deve ser elaborado, pelo menos, numa das línguas ofici
 
 O certificado sanitário é elaborado em ucraniano ou noutra língua; se for elaborado numa outra língua deve ser fornecida uma tradução para ucraniano.
 
-## ANEXO XIII — Anexo XIII do Capítulo 4
+## ANEXO XIII
+
+## Anexo XIII do Capítulo 4
 
 Questões pendentes
 
 As Partes devem ter em consideração quaisquer questões pendentes no quadro do Subcomité SFS referido no artigo 74.º do presente Acordo.
 
-## ANEXO XIV — Anexo XIV do Capítulo 4
+## ANEXO XIV
+
+## Anexo XIV do Capítulo 4
 
 Compartimentação
 
 As Partes comprometem-se a continuar os debates, com vista à aplicação do princípio da compartimentação.
 
-## ANEXO XV — Anexo XV do Capítulo 4
+## ANEXO XV
+
+## Anexo XV do Capítulo 4
 
 Aproximação da legislação aduaneira
 
@@ -7286,25 +7338,27 @@ Atendendo às demais alterações eventuais do CAM, a aproximação será realiz
 
 1 - Disposições do CAM aplicáveis exclusivamente aos Estados membros da UE e excluídas da aproximação (2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 2 - Disposições do CAM relativamente às quais se espera que a aproximação seja baseada no princípio do melhor esforço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 3 - Disposições do CAM relativamente às quais se espera a aproximação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 (1) Uma das principais condições para o funcionamento eficaz e correto da zona de comércio livre é proporcionar um ambiente operacional igual, ou similar, aos operadores comerciais. Tal implica a necessidade da máxima aproximação possível em vários domínios importantes do acervo aduaneiro comummente acordados, sendo o Código Aduaneiro uma das suas peças fundamentais.
 
 (2) Aplica-se igualmente aos artigos e números de todo o CAM (não incluídos na lista) referentes ao procedimento de adoção de medidas para a execução de determinados artigos.
 
-## ANEXO XVI — Anexo XVI do Capítulo 6
+## ANEXO XVI
+
+## Anexo XVI do Capítulo 6
 
 Lista de reservas em matéria de estabelecimento; Lista de compromissos em matéria de prestação de serviços transfronteiras; Lista de reservas em matéria de prestadores de serviços por contrato e profissionais independentes.
 
-# Parte UE
+## Parte UE
 
 1 - Reservas em conformidade com o artigo 88.º, n.º 2 (Estabelecimento): Anexo XVI-A
 
@@ -7384,7 +7438,9 @@ UK - Reino Unido
 
 UA - Ucrânia
 
-## ANEXO XVI-A — Anexo XVI-A do Capítulo 6
+## ANEXO XVI-A
+
+## Anexo XVI-A do Capítulo 6
 
 Reservas da Parte UE em matéria de estabelecimento
 
@@ -7734,13 +7790,15 @@ CY: Reserva-se o direito de exigir a reciprocidade de licenciamento em relação
 
 (15) Com base nos números publicados pela Direção-Geral responsável pela energia no último pocketboook da UE sobre estatísticas energéticas: importações de petróleo bruto expressas em peso e importações de gás expressas em poder calorífico.
 
-## ANEXO XVI-B — Anexo XVI-B do Capítulo 6
+## ANEXO XVI-B
+
+## Anexo XVI-B do Capítulo 6
 
 Lista de compromissos em matéria de serviços transfronteiras
 
 (referida no artigo 95.º)
 
-# Parte UE
+## Parte UE
 
 1 - A lista de compromissos a seguir apresentada indica os setores dos serviços liberalizados pela Parte UE por força do artigo 95.º e, mediante reservas, as limitações em matéria de acesso ao mercado e tratamento nacional aplicáveis aos serviços e prestadores de serviços da Ucrânia nesses setores. As listas são compostas dos seguintes elementos:
 
@@ -7768,13 +7826,15 @@ b) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 7 - No que respeita aos setores afetados pela aproximação regulamentar, tal como previsto no anexo xvii, as restrições a seguir listadas devem ser levantadas em conformidade com o artigo 4.º, n.º 3, do anexo xvii.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO XVI-C — Anexo XVI-C do Capítulo 6
+## ANEXO XVI-C
+
+## Anexo XVI-C do Capítulo 6
 
 Reservas em matéria de prestadores de serviços por contrato e profissionais independentes
 
-# Parte UE
+## Parte UE
 
 1 - A lista de reservas a seguir apresentada indica os setores dos serviços liberalizados nos termos dos artigos 101.º, n.º 2, e 102.º, n.º 2 (PSC e PI), a que se aplicam as limitações em matéria de prestadores de serviços por contrato e profissionais independentes (PSC e PI) e especifica tais limitações.
 
@@ -7864,9 +7924,11 @@ Se - Suécia
 
 UK - Reino Unido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO XVI-D — Anexo XVI-D do Capítulo 6
+## ANEXO XVI-D
+
+## Anexo XVI-D do Capítulo 6
 
 Reservas da Ucrânia em matéria de estabelecimento
 
@@ -7976,15 +8038,19 @@ As entidades de transporte de passageiros e transporte de carga devem estar regi
 
 (6) Incluindo Serviços auxiliares de transporte por vias interiores navegáveis.
 
-## ANEXO XVI-E — Anexo XVI-E do Capítulo 6
+## ANEXO XVI-E
+
+## Anexo XVI-E do Capítulo 6
 
 Lista de compromissos da Ucrânia em matéria de serviços transfronteiras
 
 (referida no artigo 95.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO XVI-F — Anexo XVI-F do Capítulo 6
+## ANEXO XVI-F
+
+## Anexo XVI-F do Capítulo 6
 
 Reservas em matéria de prestadores de serviços por contrato e profissionais independentes
 
@@ -8016,7 +8082,7 @@ b) por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e as obrigações resultantes da lista de compromissos infra não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ## ANEXO XVII — Aproximação regulamentar
 
@@ -8164,7 +8230,7 @@ O Comité de Comércio pode decidir alterar as disposições do presente anexo x
 
 (2) O simples facto de se exigir um visto para as pessoas singulares de certos países e de se não o exigir para as pessoas singulares de outros não deve ser considerado como anulando ou reduzindo os benefícios resultantes do Acordo.
 
-## APÊNDICE XVII-1
+APÊNDICE XVII-1
 
 Adaptações horizontais e regras processuais
 
@@ -8214,7 +8280,7 @@ As Partes devem ter direito a utilizar, nos procedimentos estabelecidos no âmbi
 
 As disposições de entrada em vigor ou implementação das disposições aplicáveis referidas nos atos enumerados nos anexos não são pertinentes para efeitos do presente Acordo. Os prazos e as datas para a Ucrânia aprovar as disposições aplicáveis e assegurara a sua implementação completa e plena estão definidos nas disposições especificadas nos anexos.
 
-## APÊNDICE XVII-2
+APÊNDICE XVII-2
 
 Regras aplicáveis aos serviços financeiros
 
@@ -8228,7 +8294,7 @@ Diretiva [2006/48/CE](https://diariodarepublica.pt/application/external/eurolex?
 
 Calendário: as disposições aplicáveis da diretiva devem ser implementadas de acordo com o seguinte calendário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Diretiva [2007/18/CE](https://diariodarepublica.pt/application/external/eurolex?07L0018) da Comissão, de 27 de março de 2007, que altera a Diretiva [2006/48/CE](https://diariodarepublica.pt/application/external/eurolex?06L0048) do Parlamento Europeu e do Conselho no que respeita à exclusão ou inclusão de certas instituições do seu âmbito de aplicação e ao tratamento das posições em risco sobre os bancos multilaterais de desenvolvimento
 
@@ -8242,7 +8308,7 @@ Diretiva [2006/49/CE](https://diariodarepublica.pt/application/external/eurolex?
 
 Calendário: as disposições da diretiva devem ser implementadas de acordo com o seguinte calendário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Diretiva [2002/87/CE](https://diariodarepublica.pt/application/external/eurolex?02L0087) do Parlamento Europeu e do Conselho, de 16 de dezembro de 2002, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro e que altera as Diretivas [73/239/CEE](https://diariodarepublica.pt/application/external/eurolex?73L0239), [79/267/CEE](https://diariodarepublica.pt/application/external/eurolex?79L0267), [92/49/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0049), [92/96/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0096), [93/6/CEE](https://diariodarepublica.pt/application/external/eurolex?93L0006) e [93/22/CEE](https://diariodarepublica.pt/application/external/eurolex?93L0022) do Conselho e as Diretivas [98/78/CE](https://diariodarepublica.pt/application/external/eurolex?98L0078) e [2000/12/CE](https://diariodarepublica.pt/application/external/eurolex?00L0012) do Parlamento Europeu e do Conselho
 
@@ -8490,11 +8556,11 @@ Calendário: cinco anos após a entrada em vigor do presente Acordo, o Comité d
 
 Calendário: cinco anos após a entrada em vigor do presente Acordo, o Comité de Comércio deve adotar uma decisão final sobre o calendário de implementação desta disposição do Tratado.
 
-## Anexo I da Diretiva [88/361/CEE](https://diariodarepublica.pt/application/external/eurolex?88L0361), de 24 de junho de 1988, para a execução do artigo 67.º do Tratado
+Anexo I da Diretiva [88/361/CEE](https://diariodarepublica.pt/application/external/eurolex?88L0361), de 24 de junho de 1988, para a execução do artigo 67.º do Tratado
 
 Calendário: cinco anos após a entrada em vigor do presente Acordo, o Comité de Comércio deve adotar uma decisão final sobre o calendário de implementação do anexo I da Diretiva [88/361/CEE](https://diariodarepublica.pt/application/external/eurolex?88L0361) de 24 de junho de 1988.
 
-## APÊNDICE XVII-3
+APÊNDICE XVII-3
 
 Regras aplicáveis aos serviços de telecomunicações
 
@@ -8564,7 +8630,7 @@ Diretiva [1999/93/CE](https://diariodarepublica.pt/application/external/eurolex?
 
 Calendário: as disposições da diretiva devem ser implementadas no prazo de três anos após a entrada em vigor do presente Acordo.
 
-## APÊNDICE XVII-4
+APÊNDICE XVII-4
 
 Regras aplicáveis aos serviços postais e de correio rápido
 
@@ -8584,7 +8650,7 @@ Diretiva [2008/6/CE](https://diariodarepublica.pt/application/external/eurolex?0
 
 Calendário: as disposições da diretiva devem ser implementadas no prazo de dois anos após a entrada em vigor do presente Acordo.
 
-## APÊNDICE XVII-5
+APÊNDICE XVII-5
 
 Regras aplicáveis aos serviços de transporte marítimo internacional
 
@@ -8694,7 +8760,7 @@ Calendário: as disposições da diretiva (exceto as relativas às inspeções d
 
 Calendário: as disposições do Regulamento (exceto as relativas às inspeções da Comissão) devem ser implementadas no prazo de três anos após a entrada em vigor do presente Acordo.
 
-## APÊNDICE XVII-6
+APÊNDICE XVII-6
 
 Disposições em matéria de monitorização
 
@@ -8732,13 +8798,17 @@ A Ucrânia deve fornecer elementos de prova apropriados da adoção e execução
 
 Sem prejuízo do artigo 4.º, n.º 3, e do artigo 5.º, n.º 3, do anexo xvii sobre a aproximação regulamentar, a UE pode avaliar o progresso através de missões no local, realizadas com a cooperação das autoridades competentes ucranianas, e pode recorrer, sempre que adequado, à assistência de terceiros a nível nacional ou internacional, assim como de organizações privadas.
 
-## ANEXO XVIII — Anexo XVIII do Capítulo 6
+## ANEXO XVIII
+
+## Anexo XVIII do Capítulo 6
 
 Pontos de informação
 
 A incluir no prazo de três meses após a entrada em vigor do presente Acordo, ver artigo 107.º, n.º 1, do presente Acordo.
 
-## ANEXO XIX — Anexo XIX do Capítulo 6
+## ANEXO XIX
+
+## Anexo XIX do Capítulo 6
 
 Lista indicativa da UE de mercados relevantes de produtos e serviços a analisar de acordo com o artigo 116.º do presente Acordo
 
@@ -8766,7 +8836,9 @@ Este mercado compreende o acesso à rede não física ou virtual, incluindo o ac
 
 6 - Terminação de chamadas vocais em redes móveis individuais.
 
-## ANEXO XX — Anexo XX do Capítulo 6
+## ANEXO XX
+
+## Anexo XX do Capítulo 6
 
 Lista indicativa da Ucrânia de mercados relevantes a analisar de acordo com o artigo 116.º do presente Acordo
 
@@ -8808,19 +8880,23 @@ Nível grossista
 
 17 - Mercado grossista nacional da itinerância internacional em redes públicas móveis.
 
-## ANEXO XXI do CAPÍTULO 8
+ANEXO XXI do CAPÍTULO 8
 
 Contratos públicos
 
-## ANEXO XXI-A — Anexo XXI-A do Capítulo 8 (1)
+## ANEXO XXI-A
+
+## Anexo XXI-A do Capítulo 8 (1)
 
 Calendário indicativo para a reforma institucional, a aproximação legislativa e o acesso ao mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 (1) Em conformidade com o capítulo Contratos públicos do Acordo, o presente Anexo baseia-se nas disposições das Diretivas [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017), [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018), [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665), [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) e [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) que cobrem a adjudicação de contratos e os processos de recurso na União Europeia. Tal pode suscitar questões práticas na interpretação de certas disposições das referidas diretivas no decurso da aproximação legislativa. Nesses casos, a aproximação legislativa deve ser efetuada, mutatis mutandis, tendo em conta as relações UE-Ucrânia tal como estipuladas no presente Acordo. A Ucrânia deve escolher os instrumentos legais apropriados para transpor as obrigações resultantes do presente capítulo em conformidade com a sua própria ordem constitucional.
 
-## ANEXO XXI-B — Anexo XXI-B do Capítulo 8
+## ANEXO XXI-B
+
+## Anexo XXI-B do Capítulo 8
 
 Elementos básicos da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018)
 
@@ -8828,185 +8904,237 @@ Elementos básicos da Diretiva [2004/18/CE](https://diariodarepublica.pt/applica
 
 ## TÍTULO I — Definições e princípios gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ## TÍTULO II — Regras aplicáveis aos contratos públicos
 
 ### CAPÍTULO I — Disposições gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ### CAPÍTULO II — Âmbito de aplicação
 
 #### SECÇÃO 1 — Limiares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 #### SECÇÃO 2 — Situações específicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 #### SECÇÃO 3 — Contratos excluídos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 #### SECÇÃO 4 — Regime especial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ### CAPÍTULO III — Regimes aplicáveis aos contratos públicos de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ### CAPÍTULO IV — Regras específicas relativas ao caderno de encargos e aos documentos do concurso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ### CAPÍTULO V — Procedimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ### CAPÍTULO VI — Regras de publicidade e de transparência
 
 #### SECÇÃO 1 — Publicação dos anúncios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 #### SECÇÃO 2 — Prazos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 #### SECÇÃO 3 — Conteúdo e meios de transmissão das informações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 #### SECÇÃO 4 — Comunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ### CAPÍTULO VII — Evolução do processo
 
 #### SECÇÃO 1 — Disposições gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 #### SECÇÃO 2 — Critérios de seleção qualitativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 #### SECÇÃO 3 — Adjudicação do contrato
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ANEXOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO XXI-C — Anexo XXI-C do Capítulo 8
+## ANEXO XXI-C
+
+## Anexo XXI-C do Capítulo 8
 
 Elementos básicos da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) (1), de 21 de dezembro de 1989, que coordena as disposições legislativas, regulamentares e administrativas relativas à aplicação dos procedimentos de recurso em matéria de celebração dos contratos de direito público de fornecimentos e de obras (a seguir designada «Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665)) com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) do Parlamento Europeu e do Conselho, de 11 de dezembro de 2007, que altera as Diretivas [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) e [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) do Conselho no que diz respeito à melhoria da eficácia do recurso em matéria de adjudicação de contratos públicos (a seguir designada «Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066)»).
 
 (Fase 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 (1) Para efeitos do presente Acordo, esclarece-se que o objetivo da aproximação legislativa à Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) consiste em assegurar a disponibilidade de procedimentos de recurso adequados para os contratos abrangidos pelo âmbito de aplicação do presente Acordo. Por conseguinte, na Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) as referências aos «contratos a que se refere a Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018)» ou aos «contratos abrangidos pelo âmbito de aplicação da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018)« devem entender-se como referências aos contratos abrangidos pelo presente Acordo, e as referências à «violação do direito comunitário» devem entender-se como violação do presente Acordo. Sempre que a Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) faz referência à publicação de um anúncio de concurso ou de um anúncio de adjudicação no Jornal Oficial da UE, tal referência, no caso da Ucrânia, deve significar a publicação nos meios de comunicação apropriados da Ucrânia. Deve entender-se ainda que a Ucrânia pode utilizar todas as flexibilidades referidas na Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665).
 
 (2) No que respeita à conclusão de um contrato ser considerado desprovido de efeitos em conformidade com o artigo 2.º-D da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665), note-se que, em conformidade com o artigo 2.º, n.º 2, da mesma diretiva, a Ucrânia pode atribuir poderes a instâncias distintas responsáveis por aspetos diferentes do procedimento de recurso, incluindo o poder judiciário. No entanto, para cumprir os requisitos de privação de efeitos, as instâncias responsáveis devem poder tomar essas decisões de uma forma expedita, por exemplo, através de um procedimento acelerado.
 
-## ANEXO XXI-D — Anexo XXI-D do Capítulo 8
+ANEXO XXI-D
+
+Anexo XXI-D do Capítulo 8
 
 Elementos básicos da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017)
 
 (Fase 3)
 
-## TÍTULO I — Disposições gerais aplicáveis aos contratos e aos concursos para trabalhos de conceção
+TÍTULO I
 
-### CAPÍTULO I — Termos de base
+Disposições gerais aplicáveis aos contratos e aos concursos para trabalhos de conceção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+CAPÍTULO I
 
-### CAPÍTULO II — Definição das entidades e atividades abrangidas
+Termos de base
 
-#### SECÇÃO 1 — Entidades
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+CAPÍTULO II
 
-#### SECÇÃO 2 — Atividades
+Definição das entidades e atividades abrangidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+SECÇÃO 1
 
-### CAPÍTULO III — Princípios gerais
+Entidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## TÍTULO II — Disposições aplicáveis aos contratos
+SECÇÃO 2
 
-### CAPÍTULO I — Disposições gerais
+Atividades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-### CAPÍTULO II — Limiares e exclusões
+CAPÍTULO III
 
-#### SECÇÃO 1 — Limiares
+Princípios gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-#### SECÇÃO 2 — Contratos e concessões e contratos sujeitos a regime especial
+TÍTULO II
 
-##### SUBSECÇÃO 2 — Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
+Disposições aplicáveis aos contratos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+CAPÍTULO I
 
-##### SUBSECÇÃO 3 — Exclusões aplicáveis a todas as entidades adjudicantes, mas apenas aos contratos de serviços
+Disposições gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-##### SUBSECÇÃO 4 — Exclusões unicamente aplicáveis a certas entidades adjudicantes
+CAPÍTULO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+Limiares e exclusões
 
-### CAPÍTULO III — Regras aplicáveis aos contratos de serviços
+SECÇÃO 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+Limiares
 
-### CAPÍTULO IV — Regras específicas relativas ao caderno de encargos e aos documentos do concurso
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+SECÇÃO 2
 
-### CAPÍTULO V — Procedimentos
+Contratos e concessões e contratos sujeitos a regime especial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+SUBSECÇÃO 2
 
-### CAPÍTULO VI — Regras de publicidade (10) e de transparência
+Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
 
-#### SECÇÃO 1 — Publicação dos anúncios
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+SUBSECÇÃO 3
 
-#### SECÇÃO 2 — Prazos
+Exclusões aplicáveis a todas as entidades adjudicantes, mas apenas aos contratos de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-#### SECÇÃO 3 — Comunicações e informações
+SUBSECÇÃO 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+Exclusões unicamente aplicáveis a certas entidades adjudicantes
 
-### CAPÍTULO VII — Desenrolar do processo
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+CAPÍTULO III
 
-#### SECÇÃO 1 — Qualificação e seleção qualitativa
+Regras aplicáveis aos contratos de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-#### SECÇÃO 2 — Adjudicação do contrato
+CAPÍTULO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+Regras específicas relativas ao caderno de encargos e aos documentos do concurso
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+
+CAPÍTULO V
+
+Procedimentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+
+CAPÍTULO VI
+
+Regras de publicidade (10) e de transparência
+
+SECÇÃO 1
+
+Publicação dos anúncios
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+
+SECÇÃO 2
+
+Prazos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+
+SECÇÃO 3
+
+Comunicações e informações
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+
+CAPÍTULO VII
+
+Desenrolar do processo
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+
+SECÇÃO 1
+
+Qualificação e seleção qualitativa
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+
+SECÇÃO 2
+
+Adjudicação do contrato
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 ANEXOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 (1) Note-se que «organismos de direito público» são organismos que cumprem as três condições referidas no artigo 2.º, n.º 1, alínea a), da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017). No que respeita a «empresas públicas», a presunção legal no artigo 2.º, n.º 1, alínea b), da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) serve para clarificar o âmbito de aplicação da Diretiva e não prejudica o direito comercial dos Estados membros da UE, ou da Ucrânia. Para efeitos do artigo 2.º, n.º 3, da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017), «disposições legislativas, regulamentares ou administrativas» são atos jurídicos adotados pelo Estado, autoridades locais ou regionais e suas administrações, no âmbito da sua competência.
 
@@ -9034,487 +9162,633 @@ Se e quando a Ucrânia excluir contratos do âmbito de aplicação do presente c
 
 (12) Artigo 48.º, n.º 6, alínea a), da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017): na Ucrânia, os pedidos de participação podem ser feitos por escrito.
 
-## ANEXO XXI-E — Anexo XXI-E do Capítulo 8
+ANEXO XXI-E
 
-Elementos básicos da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) do Conselho (1), De 25 de fevereiro de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes à aplicação das regras comunitárias em matéria de procedimentos de celebração de contratos de direito público pelas entidades que operam nos setores da água, da energia, dos transportes e das telecomunicações (a seguir designada «Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013)») com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066).
+Anexo XXI-E do Capítulo 8
+
+Elementos básicos da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) do Conselho (1), De 25 de fevereiro de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes à aplicação das regras comunitárias em matéria de procedimentos de celebração de contratos de direito público pelas entidades que operam nos setores da água, da energia, dos transportes e das telecomunicações (a seguir designada «Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013)») com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066).
 
 (Fase 3)
 
-###### Artigo 1.º Âmbito de aplicação e acesso aos procedimentos de recurso
+Artigo 1.º Âmbito de aplicação e acesso aos procedimentos de recurso
 
-###### Artigo 2.º Requisitos do recurso (2)
+Artigo 2.º Requisitos do recurso (2)
 
-###### Artigo 2.º-A Prazo suspensivo
+Artigo 2.º-A Prazo suspensivo
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+Artigo 2.º-B Exceções ao prazo suspensivo
 
-Alínea b)
+Alínea b)
 
-###### Artigo 2.º-C Prazos para interposição de recurso
+Artigo 2.º-C Prazos para interposição de recurso
 
-###### Artigo 2.º-D Privação de efeitos (3)
+Artigo 2.º-D Privação de efeitos (3)
 
-N.º 1, alínea b)
+N.º 1, alínea b)
 
-N.os 2 e 3
+N.os 2 e 3
 
-###### Artigo 2.º-E Violação da presente Diretiva e sanções alternativas
+Artigo 2.º-E Violação da presente Diretiva e sanções alternativas
 
-###### Artigo 2.º-F Prazos
+Artigo 2.º-F Prazos
 
-(1) Para efeitos do presente Acordo, esclarece-se que o objetivo da aproximação legislativa à Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) consiste em assegurar a disponibilidade de procedimentos de recurso adequados para os contratos abrangidos pelo âmbito de aplicação do presente Acordo. Por conseguinte, na Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) as referências aos «contratos a que se refere a Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017)» ou aos «contratos abrangidos pelo âmbito de aplicação da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017)» devem entender-se como referências aos contratos abrangidos pelo presente Acordo, e as referências à «violação do direito comunitário» devem entender-se como violação do presente Acordo. Sempre que a Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) faz referência à publicação de um anúncio de concurso ou de um anúncio de adjudicação no Jornal Oficial da UE, tal referência, no caso da Ucrânia, deve significar a publicação nos meios de comunicação apropriados da Ucrânia. Deve entender-se ainda que a Ucrânia pode utilizar todas as flexibilidades referidas na Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013).
+(1) Para efeitos do presente Acordo, esclarece-se que o objetivo da aproximação legislativa à Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) consiste em assegurar a disponibilidade de procedimentos de recurso adequados para os contratos abrangidos pelo âmbito de aplicação do presente Acordo. Por conseguinte, na Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) as referências aos «contratos a que se refere a Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017)» ou aos «contratos abrangidos pelo âmbito de aplicação da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017)» devem entender-se como referências aos contratos abrangidos pelo presente Acordo, e as referências à «violação do direito comunitário» devem entender-se como violação do presente Acordo. Sempre que a Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) faz referência à publicação de um anúncio de concurso ou de um anúncio de adjudicação no Jornal Oficial da UE, tal referência, no caso da Ucrânia, deve significar a publicação nos meios de comunicação apropriados da Ucrânia. Deve entender-se ainda que a Ucrânia pode utilizar todas as flexibilidades referidas na Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013).
 
-(2) O artigo 2.º, n.º 1, da Diretiva 92/13 permite implementar quer as medidas previstas nas alíneas a), b) e d), quer - em alternativa - as medidas previstas nas alíneas c) e d) desta disposição. A Ucrânia anunciou a sua intenção de usar a primeira opção, uma vez que o estado atual da legislação não permite o uso da segunda. No entanto, a Ucrânia reserva-se o direito de usar a segunda opção, em qualquer fase posterior.
+(2) O artigo 2.º, n.º 1, da Diretiva 92/13 permite implementar quer as medidas previstas nas alíneas a), b) e d), quer - em alternativa - as medidas previstas nas alíneas c) e d) desta disposição. A Ucrânia anunciou a sua intenção de usar a primeira opção, uma vez que o estado atual da legislação não permite o uso da segunda. No entanto, a Ucrânia reserva-se o direito de usar a segunda opção, em qualquer fase posterior.
 
-(3) No que respeita à conclusão de um contrato ser considerado desprovido de efeitos em conformidade com o artigo 2.º-D da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013), note-se que, em conformidade com o artigo 2.º, n.º 2, da mesma diretiva, a Ucrânia pode atribuir poderes a instâncias distintas responsáveis por aspetos diferentes do procedimento de recurso, incluindo o poder judiciário. No entanto, para cumprir os requisitos de privação de efeitos, as instâncias responsáveis devem poder tomar decisões de uma forma expedita, por exemplo, através de um procedimento acelerado. Note-se ainda que a obrigação de prever processos de recurso relativamente a contratos celebrados ao abrigo de acordos-quadro e/ou sistemas de aquisição dinâmicos depende do facto de a Ucrânia decidir fazer uso desses processos; ao mesmo tempo, note-se que o presente Acordo não obriga a Ucrânia a recorrer a acordos-quadro e/ou sistemas de aquisição dinâmicos.
+(3) No que respeita à conclusão de um contrato ser considerado desprovido de efeitos em conformidade com o artigo 2.º-D da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013), note-se que, em conformidade com o artigo 2.º, n.º 2, da mesma diretiva, a Ucrânia pode atribuir poderes a instâncias distintas responsáveis por aspetos diferentes do procedimento de recurso, incluindo o poder judiciário. No entanto, para cumprir os requisitos de privação de efeitos, as instâncias responsáveis devem poder tomar decisões de uma forma expedita, por exemplo, através de um procedimento acelerado. Note-se ainda que a obrigação de prever processos de recurso relativamente a contratos celebrados ao abrigo de acordos-quadro e/ou sistemas de aquisição dinâmicos depende do facto de a Ucrânia decidir fazer uso desses processos; ao mesmo tempo, note-se que o presente Acordo não obriga a Ucrânia a recorrer a acordos-quadro e/ou sistemas de aquisição dinâmicos.
 
-## ANEXO XXI-F — Anexo XXI-F do Capítulo 8
+ANEXO XXI-F
 
-Outros elementos não obrigatórios da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018)
+Anexo XXI-F do Capítulo 8
 
-(Fase 4)
-
-(Os elementos da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) referidos no Anexo XXI-F não são obrigatórios. Por conseguinte, cabe à Ucrânia decidir se quer implementar esses elementos, e se pretende fazê-lo dentro do prazo estabelecido no calendário. A UE, por seu lado, recomenda a implementação destes elementos.)
-
-## TÍTULO I — Definições e princípios gerais
-
-###### Artigo 1.º Definições [n.os 5, 6, 7, 10 e 11, alínea c)]
-
-## TÍTULO II — Regras aplicáveis aos contratos públicos
-
-### CAPÍTULO II — Âmbito de aplicação
-
-#### SECÇÃO 2 — Situações específicas
-
-###### Artigo 11.º Contratos públicos e acordos-quadro celebrados por centrais de compras
-
-#### SECÇÃO 4 — Regime especial
-
-###### Artigo 19.º Contratos reservados
-
-### CAPÍTULO V — Procedimentos
-
-###### Artigo 29.º Diálogo concorrencial
-
-###### Artigo 32.º Acordos-quadro
-
-###### Artigo 33.º Sistemas de aquisição dinâmicos
-
-###### Artigo 34.º Contratos de empreitada de obras públicas: regras particulares respeitantes à construção de habitações sociais
-
-### CAPÍTULO VI — Regras de publicidade e de transparência
-
-#### SECÇÃO 1 — Publicação dos anúncios
-
-###### Artigo 35.º Anúncios: n.º 3; n.º 4, segundo e terceiro parágrafos
-
-### CAPÍTULO VII — Evolução do processo
-
-#### SECÇÃO 2 — Critérios de seleção qualitativa
-
-###### Artigo 52.º Listas oficiais de operadores económicos aprovados e certificação por organismos de direito público ou privado
-
-#### SECÇÃO 3 — Adjudicação do contrato
-
-###### Artigo 54.º Utilização de leilões eletrónicos
-
-## ANEXO XXI-G — Anexo XXI-G do Capítulo 8
-
-Outros elementos não obrigatórios da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018)
+Outros elementos não obrigatórios da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018)
 
 (Fase 4)
 
-## TÍTULO I — Definições e princípios gerais
+(Os elementos da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) referidos no Anexo XXI-F não são obrigatórios. Por conseguinte, cabe à Ucrânia decidir se quer implementar esses elementos, e se pretende fazê-lo dentro do prazo estabelecido no calendário. A UE, por seu lado, recomenda a implementação destes elementos.)
 
-###### Artigo 1.º Definições [n.os 3, 4 e 11, alínea e)]
+TÍTULO I
 
-## TÍTULO II — Regras aplicáveis aos contratos públicos
+Definições e princípios gerais
 
-### CAPÍTULO II — Âmbito de aplicação
+Artigo 1.º Definições [n.os 5, 6, 7, 10 e 11, alínea c)]
 
-#### SECÇÃO 3 — Contratos excluídos
+TÍTULO II
 
-###### Artigo 17.º Concessões de serviços
+Regras aplicáveis aos contratos públicos
 
-## TÍTULO III — Regras no domínio das concessões de obras públicas
+CAPÍTULO II
 
-### CAPÍTULO I — Regras aplicáveis às concessões de obras públicas
+Âmbito de aplicação
 
-###### Artigo 56.º Âmbito de aplicação
+SECÇÃO 2
 
-###### Artigo 57.º Exclusões do âmbito de aplicação (exceto o último parágrafo)
+Situações específicas
 
-###### Artigo 58.º Publicação dos anúncios relativos às concessões de obras públicas
+Artigo 11.º Contratos públicos e acordos-quadro celebrados por centrais de compras
 
-###### Artigo 59.º Prazos — Artigo 60.º Subcontratação (1)
+SECÇÃO 4
 
-###### Artigo 61.º Adjudicação de obras complementares ao concessionário
+Regime especial
 
-### CAPÍTULO II — Regras aplicáveis aos contratos celebrados por concessionários que sejam entidades adjudicantes
+Artigo 19.º  Contratos reservados
 
-###### Artigo 62.º Regras aplicáveis
+CAPÍTULO V
 
-### CAPÍTULO III — Regras aplicáveis aos contratos celebrados
+Procedimentos
+
+Artigo 29.º  Diálogo concorrencial
+
+Artigo 32.º Acordos-quadro
+
+Artigo 33.º Sistemas de aquisição dinâmicos
+
+Artigo 34.º Contratos de empreitada de obras públicas: regras particulares respeitantes à construção de habitações sociais
+
+CAPÍTULO VI
+
+Regras de publicidade e de transparência
+
+SECÇÃO 1
+
+Publicação dos anúncios
+
+Artigo 35.º Anúncios: n.º 3; n.º 4, segundo e terceiro parágrafos
+
+CAPÍTULO VII
+
+Evolução do processo
+
+SECÇÃO 2
+
+Critérios de seleção qualitativa
+
+Artigo 52.º Listas oficiais de operadores económicos aprovados e certificação por organismos de direito público ou privado
+
+SECÇÃO 3
+
+Adjudicação do contrato
+
+Artigo 54.º Utilização de leilões eletrónicos
+
+ANEXO XXI-G
+
+Anexo XXI-G do Capítulo 8
+
+Outros elementos não obrigatórios da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018)
+
+(Fase 4)
+
+TÍTULO I
+
+Definições e princípios gerais
+
+Artigo 1.º Definições [n.os 3, 4 e 11, alínea e)]
+
+TÍTULO II
+
+Regras aplicáveis aos contratos públicos
+
+CAPÍTULO II
+
+Âmbito de aplicação
+
+SECÇÃO 3
+
+Contratos excluídos
+
+Artigo 17.º Concessões de serviços
+
+TÍTULO III
+
+Regras no domínio das concessões de obras públicas
+
+CAPÍTULO I
+
+Regras aplicáveis às concessões de obras públicas
+
+Artigo 56.º Âmbito de aplicação
+
+Artigo 57.º Exclusões do âmbito de aplicação (exceto o último parágrafo)
+
+Artigo 58.º Publicação dos anúncios relativos às concessões de obras públicas
+
+Artigo 59.º Prazos
+
+Artigo 60.º Subcontratação (1)
+
+Artigo 61.º Adjudicação de obras complementares ao concessionário
+
+CAPÍTULO II
+
+Regras aplicáveis aos contratos celebrados por concessionários que sejam entidades adjudicantes
+
+Artigo 62.º Regras aplicáveis
+
+CAPÍTULO III
+
+Regras aplicáveis aos contratos celebrados
 
 por concessionários que não sejam entidades adjudicantes
 
-###### Artigo 63.º Regras de publicidade: limiar e exceções
+Artigo 63.º Regras de publicidade: limiar e exceções
 
-###### Artigo 64.º Publicação do anúncio
+Artigo 64.º Publicação do anúncio
 
-###### Artigo 65.º Prazos de receção dos pedidos de participação e das propostas
+Artigo 65.º Prazos de receção dos pedidos de participação e das propostas
 
-## TÍTULO IV — Regras aplicáveis aos concursos para trabalhos de conceção no domínio dos serviços
+TÍTULO IV
 
-###### Artigo 66.º Disposições gerais
+Regras aplicáveis aos concursos para trabalhos de conceção no domínio dos serviços
 
-###### Artigo 67.º Âmbito de aplicação (2)
+Artigo 66.º Disposições gerais
 
-###### Artigo 68.º Exclusões do âmbito de aplicação
+Artigo 67.º Âmbito de aplicação (2)
 
-###### Artigo 69.º Anúncios — Artigo 70.º Redação e modalidades de publicação dos anúncios relativos a concursos para trabalhos de conceção
+Artigo 68.º Exclusões do âmbito de aplicação
 
-###### Artigo 71.º Meios de comunicação
+Artigo 69.º Anúncios
 
-###### Artigo 72.º Seleção dos concorrentes
+Artigo 70.º Redação e modalidades de publicação dos anúncios relativos a concursos para trabalhos de conceção
 
-###### Artigo 73.º Composição do júri (3)
+Artigo 71.º Meios de comunicação
 
-###### Artigo 74.º Decisões do júri
+Artigo 72.º Seleção dos concorrentes
+
+Artigo 73.º Composição do júri (3)
+
+Artigo 74.º Decisões do júri
 
 ANEXOS
 
-## Anexo VII B Informações que devem constar dos anúncios para as concessões de obras públicas
+Anexo VII B Informações que devem constar dos anúncios para as concessões de obras públicas
 
-## Anexo VII C Informações que devem constar dos anúncios de concurso do concessionário de obras públicas que não seja uma entidade adjudicante
+Anexo VII C Informações que devem constar dos anúncios de concurso do concessionário de obras públicas que não seja uma entidade adjudicante
 
-## Anexo VII D Informações que devem constar dos anúncios para os concursos de serviços
+Anexo VII D Informações que devem constar dos anúncios para os concursos de serviços
 
-(1) Para efeitos do presente Acordo, as Partes consideram que o artigo 60.º da Diretiva 2004/18 deve ser interpretado no sentido de que, se decidir impor uma condição relativamente à subcontratação, a entidade adjudicante deve escolher entre as duas opções a) e b) referidas no artigo.
+(1) Para efeitos do presente Acordo, as Partes consideram que o artigo 60.º da Diretiva 2004/18 deve ser interpretado no sentido de que, se decidir impor uma condição relativamente à subcontratação, a entidade adjudicante deve escolher entre as duas opções a) e b) referidas no artigo.
 
-(2) No caso previsto no artigo 67.º, n.º 2, alínea b), da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018), as regras relativas aos concursos para trabalhos de conceção (título iv) não se aplicam se os prémios e pagamentos forem inferiores aos limiares definidos no artigo 149.º, n.º 3, do capítulo relativo a Contratos públicos do presente Acordo e se o anúncio de concurso excluir a adjudicação de um contrato público de serviços posteriormente ao concurso. No entanto, essas regras aplicam-se nos casos em que um prémio é atribuído ao vencedor do concurso e o anúncio de concurso não excluir a atribuição de um contrato público de serviços posteriormente ao concurso, se o valor combinado do prémio e do contrato exceder esses limiares. As regras também se aplicam quando o prémio é atribuído, mas se espera que o valor do contrato posterior irá ultrapassar os limiares previstos no artigo 149.º, n.º 3, do capítulo relativo a Contratos públicos do presente Acordo.
+(2) No caso previsto no artigo 67.º, n.º 2, alínea b), da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018), as regras relativas aos concursos para trabalhos de conceção (título iv) não se aplicam se os prémios e pagamentos forem inferiores aos limiares definidos no artigo 149.º, n.º 3, do capítulo relativo a Contratos públicos do presente Acordo e se o anúncio de concurso excluir a adjudicação de um contrato público de serviços posteriormente ao concurso. No entanto, essas regras aplicam-se nos casos em que um prémio é atribuído ao vencedor do concurso e o anúncio de concurso não excluir a atribuição de um contrato público de serviços posteriormente ao concurso, se o valor combinado do prémio e do contrato exceder esses limiares. As regras também se aplicam quando o prémio é atribuído, mas se espera que o valor do contrato posterior irá ultrapassar os limiares previstos no artigo 149.º, n.º 3, do capítulo relativo a Contratos públicos do presente Acordo.
 
-(3) Esclarece-se que a entidade adjudicante não está impedida de formar um júri que inclui ou é composto pelos seus próprios empregados, desde que estes cumpram os critérios estabelecidos no artigo 73.º da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) (ou seja, que sejam independentes dos participantes no concurso e que possuam as qualificações necessárias).
+(3) Esclarece-se que a entidade adjudicante não está impedida de formar um júri que inclui ou é composto pelos seus próprios empregados, desde que estes cumpram os critérios estabelecidos no artigo 73.º da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) (ou seja, que sejam independentes dos participantes no concurso e que possuam as qualificações necessárias).
 
-## ANEXO XXI-H — Anexo XXI-H do Capítulo 8
+ANEXO XXI-H
 
-Outros elementos da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) (1) com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066)
+Anexo XXI-H do Capítulo 8
+
+Outros elementos da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) (1) com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066)
 
 (Fase 4)
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+Artigo 2.º-B Exceções ao prazo suspensivo
 
-Alínea c)
+Alínea c)
 
-###### Artigo 2.º-D Privação de efeitos (2)
+Artigo 2.º-D Privação de efeitos (2)
 
-N.º 1, alínea c)
+N.º 1, alínea c)
 
-N.º 5
+N.º 5
 
 (1) Ver nota 10.
 
 (2) Ver nota 11.
 
-## ANEXO XXI-I — Anexo XXI-I do Capítulo 8
+ANEXO XXI-I
 
-Outros elementos não obrigatórios da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017)
+Anexo XXI-I do Capítulo 8
+
+Outros elementos não obrigatórios da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017)
 
 (Fase 5)
 
-(Os elementos da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) referidos no Anexo XXI-I não são obrigatórios. Por conseguinte, cabe à Ucrânia decidir se quer implementar esses elementos, e se pretende fazê-lo dentro do prazo estabelecido no calendário. A UE, por seu lado, recomenda a implementação destes elementos).
+(Os elementos da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) referidos no Anexo XXI-I não são obrigatórios. Por conseguinte, cabe à Ucrânia decidir se quer implementar esses elementos, e se pretende fazê-lo dentro do prazo estabelecido no calendário. A UE, por seu lado, recomenda a implementação destes elementos).
 
-## TÍTULO I — Disposições gerais aplicáveis aos contratos e aos concursos para trabalhos de conceção
+TÍTULO I
 
-### CAPÍTULO I — Termos de base
+Disposições gerais aplicáveis aos contratos e aos concursos para trabalhos de conceção
 
-###### Artigo 1.º Definições: n.os 4, 5, 6 e 8
+CAPÍTULO I
 
-## TÍTULO II — Disposições aplicáveis aos contratos
+Termos de base
 
-### CAPÍTULO I — Disposições gerais
+Artigo 1.º Definições: n.os 4, 5, 6 e 8
 
-###### Artigo 14.º Acordos-quadro
+TÍTULO II
 
-###### Artigo 15.º Sistemas de aquisição dinâmicos
+Disposições aplicáveis aos contratos
 
-#### SECÇÃO 2 — Contratos e concessões e contratos sujeitos a regime especial
+CAPÍTULO I
 
-##### Subsecção 5 — Contratos sujeitos a regime especial, disposições relativas às centrais de compras e ao procedimento
+Disposições gerais
+
+Artigo 14.º Acordos-quadro
+
+Artigo 15.º Sistemas de aquisição dinâmicos
+
+SECÇÃO 2
+
+Contratos e concessões e contratos sujeitos a regime especial
+
+Subsecção 5
+
+Contratos sujeitos a regime especial, disposições relativas às centrais de compras e ao procedimento
 
 geral em caso de exposição direta à concorrência
 
-###### Artigo 28.º Contratos reservados
+Artigo 28.º Contratos reservados
 
-###### Artigo 29.º Contratos e acordos-quadro celebrados por centrais de compras
+Artigo 29.º Contratos e acordos-quadro celebrados por centrais de compras
 
-### CAPÍTULO V — Procedimentos
+CAPÍTULO V
 
-###### Artigo 40.º,
+Procedimentos
 
-n.º 3,
+Artigo 40.º,
 
-alíneas i) e l)
+n.º 3,
 
-### CAPÍTULO VI — Regras de publicidade e de transparência
+alíneas i) e l)
 
-#### SECÇÃO 1 — Publicação dos anúncios
+CAPÍTULO VI
 
-###### Artigo 42.º Anúncios utilizados como meio de abertura de concurso: n.º 2
+Regras de publicidade e de transparência
 
-###### Artigo 43.º Anúncios de adjudicação (apenas para n.º 1, segundo e terceiro parágrafos)
+SECÇÃO 1
 
-### CAPÍTULO VII — Desenrolar do processo
+Publicação dos anúncios
 
-#### SECÇÃO 2 — Adjudicação do contrato
+Artigo 42.º Anúncios utilizados como meio de abertura de concurso: n.º 2
 
-###### Artigo 56.º Utilização de leilões eletrónicos
+Artigo 43.º Anúncios de adjudicação (apenas para n.º 1, segundo e terceiro parágrafos)
+
+CAPÍTULO VII
+
+Desenrolar do processo
+
+SECÇÃO 2
+
+Adjudicação do contrato
+
+Artigo 56.º Utilização de leilões eletrónicos
 
 ANEXOS
 
-## Anexo XIII Informações que devem constar dos anúncios de concurso:
+Anexo XIII Informações que devem constar dos anúncios de concurso:
 
 D. Anúncio de contrato simplificado no âmbito de um sistema de aquisição dinâmico
 
-## ANEXO XXI-J — Anexo XXI-J do Capítulo 8
+ANEXO XXI-J
 
-Outros elementos da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) (1) com a redação
+Anexo XXI-J do Capítulo 8
 
-que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066)
+Outros elementos da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) (1) com a redação
+
+que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066)
 
 (Fase 5)
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+Artigo 2.º-B Exceções ao prazo suspensivo
 
-Alínea c)
+Alínea c)
 
-###### Artigo 2.º-D Privação de efeitos (2)
+Artigo 2.º-D Privação de efeitos (2)
 
-N.º 1, alínea c)
+N.º 1, alínea c)
 
-N.º 5
+N.º 5
 
 (1) Ver nota 24.
 
 (2) Ver nota 11.
 
-## ANEXO XXI-K — Anexo XXI-K do Capítulo 8
+ANEXO XXI-K
 
-Disposições da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) fora do âmbito de aplicação do processo de aproximação legislativa
+Anexo XXI-K do Capítulo 8
 
-(Os elementos listados no presente Anexo não estão sujeitos ao processo de aproximação legislativa, pelo que não têm de ser transpostos para a legislação ucraniana)
+Disposições da Diretiva [2004/18/CE](https://diariodarepublica.pt/application/external/eurolex?04L0018) fora do âmbito de aplicação do processo de aproximação legislativa
 
-## TÍTULO II — Regras aplicáveis aos contratos públicos
+(Os elementos listados no presente Anexo não estão sujeitos ao processo de aproximação legislativa, pelo que não têm de ser transpostos para a legislação ucraniana)
 
-### CAPÍTULO I — Disposições gerais
+TÍTULO II
 
-###### Artigo 5.º Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
+Regras aplicáveis aos contratos públicos
 
-### CAPÍTULO VI — Regras de publicidade e de transparência
+CAPÍTULO I
 
-#### SECÇÃO 1 — Publicação dos anúncios
+Disposições gerais
 
-###### Artigo 36.º Redação e modalidades de publicação dos anúncios: n.os 2, 3, 4, 5, 6 e 8
+Artigo 5.º Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
 
-###### Artigo 37.º Publicação não obrigatória
+CAPÍTULO VI
 
-#### SECÇÃO 5 — Relatórios
+Regras de publicidade e de transparência
 
-###### Artigo 43.º Conteúdo dos relatórios
+SECÇÃO 1
 
-## TÍTULO V — Obrigações estatísticas, competência de execução e disposições finais
+Publicação dos anúncios
 
-###### Artigo 75.º Obrigações estatísticas
+Artigo 36.º Redação e modalidades de publicação dos anúncios: n.os 2, 3, 4, 5, 6 e 8
 
-###### Artigo 76.º Conteúdo do relatório estatístico
+Artigo 37.º Publicação não obrigatória
 
-###### Artigo 77.º Comité Consultivo
+SECÇÃO 5
 
-###### Artigo 78.º Revisão dos limiares
+Relatórios
 
-###### Artigo 79.º Modificações
+Artigo 43.º Conteúdo dos relatórios
 
-###### Artigo 80.º Execução — Artigo 81.º Mecanismo de acompanhamento
+TÍTULO V
 
-###### Artigo 82.º Revogações — Artigo 83.º Entrada em vigor
+Obrigações estatísticas, competência de execução e disposições finais
 
-###### Artigo 84.º Destinatários
+Artigo 75.º Obrigações estatísticas
+
+Artigo 76.º Conteúdo do relatório estatístico
+
+Artigo 77.º Comité Consultivo
+
+Artigo 78.º Revisão dos limiares
+
+Artigo 79.º Modificações
+
+Artigo 80.º Execução
+
+Artigo 81.º Mecanismo de acompanhamento
+
+Artigo 82.º Revogações
+
+Artigo 83.º Entrada em vigor
+
+Artigo 84.º Destinatários
 
 ANEXOS
 
-## Anexo III Lista dos organismos e das categorias de organismos de direito público a que se refere o segundo parágrafo do artigo 1.º, n.º 9
+Anexo III Lista dos organismos e das categorias de organismos de direito público a que se refere o segundo parágrafo do artigo 1.º, n.º 9
 
-## Anexo IV Autoridades governamentais centrais
+Anexo IV Autoridades governamentais centrais
 
-## Anexo VIII Características relativas à publicação
+Anexo VIII Características relativas à publicação
 
-## Anexo IX Registos — Anexo IX A Contratos de empreitada de obras públicas
+Anexo IX Registos
 
-## Anexo IX B Contratos públicos de fornecimento
+Anexo IX A Contratos de empreitada de obras públicas
 
-## Anexo IX C Contratos públicos de serviços
+Anexo IX B Contratos públicos de fornecimento
 
-## Anexo XI Prazos de transposição e de aplicação (artigo 80.º)
+Anexo IX C Contratos públicos de serviços
 
-## Anexo XII Quadro de correspondência
+Anexo XI Prazos de transposição e de aplicação (artigo 80.º)
 
-## ANEXO XXI-L — Anexo XXI-L do Capítulo 8
+Anexo XII Quadro de correspondência
 
-Disposições da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) fora do âmbito de aplicação do processo de aproximação legislativa
+ANEXO XXI-L
+
+Anexo XXI-L do Capítulo 8
+
+Disposições da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017) fora do âmbito de aplicação do processo de aproximação legislativa
 
 (Os elementos listados no presente Anexo não estão sujeitos ao processo de aproximação legislativa, pelo que não têm de ser transpostos para a legislação ucraniana)
 
-## TÍTULO I — Disposições gerais aplicáveis aos contratos e aos concursos para trabalhos de conceção
+TÍTULO I
 
-### CAPÍTULO II — Definição das entidades e atividades abrangidas
+Disposições gerais aplicáveis aos contratos e aos concursos para trabalhos de conceção
 
-#### SECÇÃO 2 — Atividades
+CAPÍTULO II
 
-###### Artigo 8.º Lista de entidades adjudicantes
+Definição das entidades e atividades abrangidas
 
-## TÍTULO II — Disposições aplicáveis aos contratos
+SECÇÃO 2
 
-### CAPÍTULO I — Disposições gerais
+Atividades
 
-###### Artigo 12.º Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
+Artigo 8.º Lista de entidades adjudicantes
 
-#### SECÇÃO 2 — Contratos e concessões e contratos sujeitos a regime especial
+TÍTULO II
 
-##### Subsecção 1 — Artigo 18.º Concessões de obras ou de serviços
+Disposições aplicáveis aos contratos
 
-##### SUBSECÇÃO 2 — Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
+CAPÍTULO I
 
-###### Artigo 20.º Contratos celebrados com fins que não correspondam à prossecução de uma atividade abrangida ou à prossecução em países terceiros de uma atividade abrangida: n.º 2
+Disposições gerais
 
-##### SUBSECÇÃO 5 — Contratos sujeitos a regime especial, disposições relativas às centrais de compras e ao procedimento geral em caso de exposição direta à concorrência
+Artigo 12.º Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
 
-###### Artigo 27.º Contratos sujeitos a regime especial
+SECÇÃO 2
 
-###### Artigo 30.º Procedimento para determinar se uma determinada atividade está diretamente exposta à concorrência (1)
+Contratos e concessões e contratos sujeitos a regime especial
 
-### CAPÍTULO IV — Regras específicas relativas ao caderno de encargos e aos documentos do contrato
+Subsecção 1
 
-###### Artigo 38.º Condições de execução do contrato
+Artigo 18.º Concessões de obras ou de serviços
 
-### CAPÍTULO VI — Regras de publicidade e de transparência
+SUBSECÇÃO 2
 
-#### SECÇÃO 1 — Publicação dos anúncios
+Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
 
-###### Artigo 44.º Redação e modalidades de publicação dos anúncios (apenas para n.º 2, primeiro parágrafo; n.os 4, 5 e 7)
+Artigo 20.º Contratos celebrados com fins que não correspondam à prossecução de uma atividade abrangida ou à prossecução em países terceiros de uma atividade abrangida: n.º 2
 
-#### SECÇÃO 3 — Comunicações e informações
+SUBSECÇÃO 5
 
-###### Artigo 50.º Informações a conservar sobre as adjudicações
+Contratos sujeitos a regime especial, disposições relativas às centrais de compras e ao procedimento geral em caso de exposição direta à concorrência
 
-### CAPÍTULO VII — Desenrolar do processo
+Artigo 27.º Contratos sujeitos a regime especial
 
-#### SECÇÃO 3 — Propostas que englobam produtos originários de países terceiros e relações com esses países
+Artigo 30.º Procedimento para determinar se uma determinada atividade está diretamente exposta à concorrência (1)
 
-###### Artigo 58.º Propostas que englobam produtos originários de países terceiros
+CAPÍTULO IV
 
-###### Artigo 59.º Relações com os países terceiros em matéria de contratos de serviços
+Regras específicas relativas ao caderno de encargos e aos documentos do contrato
 
-## TÍTULO IV — Obrigações estatísticas, competência de execução
+Artigo 38.º Condições de execução do contrato
+
+CAPÍTULO VI
+
+Regras de publicidade e de transparência
+
+SECÇÃO 1
+
+Publicação dos anúncios
+
+Artigo 44.º Redação e modalidades de publicação dos anúncios (apenas para n.º 2, primeiro parágrafo; n.os 4, 5 e 7)
+
+SECÇÃO 3
+
+Comunicações e informações
+
+Artigo 50.º Informações a conservar sobre as adjudicações
+
+CAPÍTULO VII
+
+Desenrolar do processo
+
+SECÇÃO 3
+
+Propostas que englobam produtos originários de países terceiros e relações com esses países
+
+Artigo 58.º Propostas que englobam produtos originários de países terceiros
+
+Artigo 59.º Relações com os países terceiros em matéria de contratos de serviços
+
+TÍTULO IV
+
+Obrigações estatísticas, competência de execução
 
 e disposições finais
 
-###### Artigo 67.º Obrigações estatísticas
+Artigo 67.º Obrigações estatísticas
 
-###### Artigo 68.º Comité Consultivo
+Artigo 68.º Comité Consultivo
 
-###### Artigo 69.º Revisão dos limiares
+Artigo 69.º Revisão dos limiares
 
-###### Artigo 70.º Modificações
+Artigo 70.º Modificações
 
-###### Artigo 71.º Execução — Artigo 72.º Mecanismo de acompanhamento
+Artigo 71.º Execução
 
-###### Artigo 73.º Revogações — Artigo 74.º Entrada em vigor
+Artigo 72.º Mecanismo de acompanhamento
 
-###### Artigo 75.º Destinatários
+Artigo 73.º Revogações
+
+Artigo 74.º Entrada em vigor
+
+Artigo 75.º Destinatários
 
 ANEXOS
 
-## Anexo I Entidades adjudicantes nos setores do transporte ou distribuição de gás ou de combustível para aquecimento
+Anexo I Entidades adjudicantes nos setores do transporte ou distribuição de gás ou de combustível para aquecimento
 
-## Anexo II Entidades adjudicantes nos setores da produção, transporte ou distribuição de eletricidade
+Anexo II Entidades adjudicantes nos setores da produção, transporte ou distribuição de eletricidade
 
-## Anexo III Entidades adjudicantes nos setores da produção, do transporte ou distribuição de água potável
+Anexo III Entidades adjudicantes nos setores da produção, do transporte ou distribuição de água potável
 
-## Anexo IV Entidades adjudicantes no domínio dos serviços de caminhos-de-ferro
+Anexo IV Entidades adjudicantes no domínio dos serviços de caminhos-de-ferro
 
-## Anexo V Entidades adjudicantes no domínio dos serviços urbanos de caminho de ferro, elétricos, tróleis ou autocarros
+Anexo V Entidades adjudicantes no domínio dos serviços urbanos de caminho de ferro, elétricos, tróleis ou autocarros
 
-## Anexo VI Entidades adjudicantes no setor dos serviços postais
+Anexo VI Entidades adjudicantes no setor dos serviços postais
 
-## Anexo VII Entidades adjudicantes nos setores da prospeção e extração de petróleo ou gás
+Anexo VII Entidades adjudicantes nos setores da prospeção e extração de petróleo ou gás
 
-## Anexo VIII Entidades adjudicantes nos setores da prospeção e extração de carvão e de outros combustíveis sólidos
+Anexo VIII Entidades adjudicantes nos setores da prospeção e extração de carvão e de outros combustíveis sólidos
 
-## Anexo IX Entidades adjudicantes no domínio dos portos marítimos, dos portos interiores e de outros terminais
+Anexo IX Entidades adjudicantes no domínio dos portos marítimos, dos portos interiores e de outros terminais
 
-## Anexo X Entidades adjudicantes no domínio das instalações aeroportuárias
+Anexo X Entidades adjudicantes no domínio das instalações aeroportuárias
 
-## Anexo XI Lista da legislação comunitária referida no artigo 30.º, n.º 3
+Anexo XI Lista da legislação comunitária referida no artigo 30.º, n.º 3
 
-## Anexo XII Lista das atividades referidas no artigo 1.º, n.º 2, alínea b)
+Anexo XII Lista das atividades referidas no artigo 1.º, n.º 2, alínea b)
 
-## Anexo XXII Quadro recapitulativo dos prazos previstos no artigo 45.º
+Anexo XXII Quadro recapitulativo dos prazos previstos no artigo 45.º
 
-## Anexo XXV Prazos de transposição e de aplicação
+Anexo XXV Prazos de transposição e de aplicação
 
-## Anexo XXVI Quadro de correspondência
+Anexo XXVI Quadro de correspondência
 
-(1) Se e quando a Ucrânia decidir implementar um procedimento para determinar se uma dada atividade está diretamente exposta a concorrência semelhante ao estabelecido no artigo 30.º da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017), a UE fornecerá orientação e assistência técnica. As regras aplicáveis na UE são definidas na Decisão [2005/15/CE](https://diariodarepublica.pt/application/external/eurolex?05D0015) da Comissão, de 7 de janeiro de 2005, sobre as normas de execução do procedimento previsto no artigo 30.º da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017).
+(1) Se e quando a Ucrânia decidir implementar um procedimento para determinar se uma dada atividade está diretamente exposta a concorrência semelhante ao estabelecido no artigo 30.º da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017), a UE fornecerá orientação e assistência técnica. As regras aplicáveis na UE são definidas na Decisão [2005/15/CE](https://diariodarepublica.pt/application/external/eurolex?05D0015) da Comissão, de 7 de janeiro de 2005, sobre as normas de execução do procedimento previsto no artigo 30.º da Diretiva [2004/17/CE](https://diariodarepublica.pt/application/external/eurolex?04L0017).
 
-## ANEXO XXI-M — Anexo XXI-M do Capítulo 8
+ANEXO XXI-M
 
-Disposições da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) fora do âmbito de aplicação do processo de aproximação legislativa
+Anexo XXI-M do Capítulo 8
 
-(Os elementos listados no presente Anexo não estão sujeitos ao processo de aproximação legislativa, pelo que não têm de ser transpostos para a legislação ucraniana)
-
-###### Artigo 2.º-B Exceções ao prazo suspensivo
-
-Alínea c)
-
-###### Artigo 2.º-D Privação de efeitos
-
-N.º 1, alínea a)
-
-N.º 4
-
-###### Artigo 3.º Mecanismo de correção
-
-###### Artigo 3.º-A Teor do anúncio voluntário de transparência ex ante
-
-###### Artigo 3.º-B Procedimento de comité
-
-###### Artigo 4.º Aplicação — Artigo 4.º-A Reexame
-
-## ANEXO XXI-N — Anexo XXI-N do Capítulo 8
-
-Disposições da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) fora do âmbito de aplicação do processo de aproximação legislativa
+Disposições da Diretiva [89/665/CEE](https://diariodarepublica.pt/application/external/eurolex?89L0665) com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) fora do âmbito de aplicação do processo de aproximação legislativa
 
 (Os elementos listados no presente Anexo não estão sujeitos ao processo de aproximação legislativa, pelo que não têm de ser transpostos para a legislação ucraniana)
 
-###### Artigo 2.º-B Exceções ao prazo suspensivo
+Artigo 2.º-B Exceções ao prazo suspensivo
 
-Alínea a)
+Alínea c)
 
-###### Artigo 2.º-D Privação de efeitos
+Artigo 2.º-D Privação de efeitos
 
-N.º 1, alínea a)
+N.º 1, alínea a)
 
-N.º 4
+N.º 4
 
-###### Artigo 3.º-A Teor do anúncio voluntário de transparência ex ante
+Artigo 3.º Mecanismo de correção
 
-###### Artigo 3.º-B Procedimento de comité
+Artigo 3.º-A Teor do anúncio voluntário de transparência ex ante
 
-###### Artigo 8.º Mecanismo de correção
+Artigo 3.º-B Procedimento de comité
 
-###### Artigo 12.º Aplicação — Artigo 12.º-A Reexame
+Artigo 4.º Aplicação
 
-## ANEXO XXI-O — Anexo XXI-O do Capítulo 8
+Artigo 4.º-A Reexame
+
+ANEXO XXI-N
+
+Anexo XXI-N do Capítulo 8
+
+Disposições da Diretiva [92/13/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0013) com a redação que lhe foi dada pela Diretiva [2007/66/CE](https://diariodarepublica.pt/application/external/eurolex?07L0066) fora do âmbito de aplicação do processo de aproximação legislativa
+
+(Os elementos listados no presente Anexo não estão sujeitos ao processo de aproximação legislativa, pelo que não têm de ser transpostos para a legislação ucraniana)
+
+Artigo 2.º-B Exceções ao prazo suspensivo
+
+Alínea a)
+
+Artigo 2.º-D Privação de efeitos
+
+N.º 1, alínea a)
+
+N.º 4
+
+Artigo 3.º-A Teor do anúncio voluntário de transparência ex ante
+
+Artigo 3.º-B Procedimento de comité
+
+Artigo 8.º Mecanismo de correção
+
+Artigo 12.º Aplicação
+
+Artigo 12.º-A Reexame
+
+ANEXO XXI-O
+
+Anexo XXI-O do Capítulo 8
 
 Lista indicativa das questões em matéria de cooperação
 
@@ -9530,7 +9804,9 @@ Lista indicativa das questões em matéria de cooperação
 
 - reforço dos órgãos encarregados de garantir uma política coerente em todas os domínios relacionados com contratos públicos e ponderação independente e imparcial (reexame) das decisões das entidades adjudicantes (Ver artigo 150.º, n.º 2, do presente Acordo).
 
-## ANEXO XXI-P — Anexo XXI-P do Capítulo 8
+ANEXO XXI-P
+
+Anexo XXI-P do Capítulo 8
 
 Limiares
 
@@ -9550,11 +9826,15 @@ e) 412 000 euros no caso de contratos públicos de fornecimento e de serviços n
 
 (1) Os limiares em EUR mencionados no presente Anexo devem ser adaptados aquando da entrada em vigor do presente Acordo para refletir os limiares então definidos nas diretivas da UE.
 
-## ANEXO XXII-A — Anexo XXII-A do Capítulo 9
+ANEXO XXII-A
+
+Anexo XXII-A do Capítulo 9
 
 Indicações geográficas - Legislação das Partes e elementos para registo e controlo
 
-# PARTE A — Legislação das Partes
+PARTE A
+
+Legislação das Partes
 
 Legislação da Ucrânia
 
@@ -9572,7 +9852,9 @@ Legislação da UE
 
 [Regulamento (CEE) n.º 1601/91](https://diariodarepublica.pt/application/external/eurolex?91R1601) do Conselho, de 10 de junho de 1991, que estabelece as regras gerais relativas à definição, designação e apresentação dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos cocktails aromatizados de produtos vitivinícolas, e respetivas regras de execução.
 
-# PARTE B — Elementos para registo e controlo das indicações geográficas referidas no artigo 202.º, n.os 1 e 2, do presente Acordo
+PARTE B
+
+Elementos para registo e controlo das indicações geográficas referidas no artigo 202.º, n.os 1 e 2, do presente Acordo
 
 1 - Registo que enumera as indicações geográficas protegidas no território.
 
@@ -9588,7 +9870,9 @@ Legislação da UE
 
 7 - Disposições relativas ao registo, que podem incluir recusa do registo, de termos homónimos ou parcialmente homónimos de termos registados, termos habitualmente utilizados na linguagem corrente, como o nome comum dos produtos e termos que compreendam ou incluam nomes de variedades vegetais ou de raças animais. Essas disposições devem ter em conta os legítimos interesses de todas as partes interessadas.
 
-## ANEXO XXII-B — Anexo XXII-B do Capítulo 9
+ANEXO XXII-B
+
+Anexo XXII-B do Capítulo 9
 
 Indicações geográficas - Critérios a incluir no procedimento de oposição para os produtos referidos no artigo 202.º, n.os 3 e 4, do presente Acordo
 
@@ -9614,33 +9898,39 @@ e) As declarações de oposição só serão admissíveis se forem recebidas den
 
 f) Os critérios enunciados na alínea e) devem ser avaliados relativamente ao território da União Europeia (tratando-se de direitos de propriedade intelectual, deve entender-se apenas o território ou territórios em que os referidos direitos estão protegidos) ou ao território da Ucrânia.
 
-## ANEXO XXII-C — Anexo XXII-C do Capítulo 9
+ANEXO XXII-C
+
+Anexo XXII-C do Capítulo 9
 
 Indicações geográficas dos produtos agrícolas e dos géneros alimentícios referidos no artigo 202.º, n.º 3, do presente Acordo Produtos agrícolas e géneros alimentícios da União Europeia, exceto vinhos, bebidas espirituosas e vinhos aromatizados, a proteger na Ucrânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO XXII-D do Capítulo 9
+ANEXO XXII-D do Capítulo 9
 
 Indicações geográficas de vinhos, vinhos aromatizados e bebidas espirituosas, referidas no artigo 202.º, n.os 3 e 4, do presente Acordo
 
-# PARTE A — Indicações geográficas de vinhos e vinhos aromatizados da União Europeia a proteger na Ucrânia
+PARTE A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+Indicações geográficas de vinhos e vinhos aromatizados da União Europeia a proteger na Ucrânia
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Indicações geográficas de vinhos da Ucrânia a proteger na União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-# PARTE B — Indicações geográficas de bebidas espirituosas da União Europeia a proteger na Ucrânia
+PARTE B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+Indicações geográficas de bebidas espirituosas da União Europeia a proteger na Ucrânia
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Declaração comum sobre o direito de utilizar certas denominações
 
 A Ucrânia reserva-se o direito de utilizar, no âmbito do comércio, certas denominações que são quer nomes de zonas geográficas no seu território como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 quer nomes comuns na língua ucraniana:
 
@@ -9662,7 +9952,9 @@ A Ucrânia pode continuar a utilizar a denominação «Karop» no seu territóri
 
 - Teor de açúcar final de 140 - 200 g/l.
 
-## ANEXO XXIII — Anexo XXIII do capítulo 10
+ANEXO XXIII
+
+Anexo XXIII do capítulo 10
 
 Glossário
 
@@ -9700,7 +9992,9 @@ iii) O projeto se revestir de grande importância no que respeita ao seu caráte
 
 h) Monopólio estatal de caráter comercial: os monopólios estatais de caráter comercial são monopólios através dos quais as autoridades nacionais, regionais ou locais, ou outros organismos públicos de qualquer tipo de uma Parte, estão em condições, de direito ou de facto, de supervisionar, determinar ou influenciar sensivelmente, direta ou indiretamente, as importações ou exportações entre as Partes. O disposto no Acordo sobre os monopólios estatais de caráter comercial aplica-se igualmente aos monopólios delegados pelas Partes.
 
-## ANEXO XXIV — Anexo XXIV do capítulo 14
+ANEXO XXIV
+
+Anexo XXIV do capítulo 14
 
 Regras processuais para a resolução de litígios
 
@@ -9874,7 +10168,9 @@ Outros procedimentos
 
 47 - As presentes regras processuais aplicam-se igualmente aos procedimentos previstos no artigo 312.º, n.º 2, no artigo 313.º, n.º 2, no artigo 315.º, n.º 3, e no artigo 316.º, n.º 2, do presente Acordo. No entanto, os prazos enunciados nas presentes regras processuais devem ser ajustados em função dos prazos especiais estabelecidos para a adoção de uma decisão pelo painel de arbitragem no âmbito desses outros procedimentos.
 
-## ANEXO XXV — Anexo XXV do capítulo 15
+ANEXO XXV
+
+Anexo XXV do capítulo 15
 
 Código de Conduta dos Membros dos Painéis de Arbitragem e dos Mediadores
 
@@ -9942,7 +10238,9 @@ Confidencialidade
 
 Anexos do título v: Cooperação económica e setorial
 
-## ANEXO XXVI — Anexo XXVI do capítulo 1
+ANEXO XXVI
+
+Anexo XXVI do capítulo 1
 
 Cooperação no domínio da energia, incluindo questões nucleares
 
@@ -10002,7 +10300,9 @@ Cooperação no domínio da energia, incluindo questões nucleares
 
 - O facto de a outra Parte se ter declarado pronta a aceitar uma solução para a situação de emergência objeto deste mecanismo.
 
-## ANEXO XXVII — Anexo XXVII do capítulo 1
+ANEXO XXVII
+
+Anexo XXVII do capítulo 1
 
 Cooperação no domínio da energia, incluindo questões nucleares
 
@@ -10120,7 +10420,9 @@ Diretiva [2003/122/Euratom](https://diariodarepublica.pt/application/external/eu
 
 Calendário: as disposições da diretiva devem ser aplicadas no prazo de dois anos a contar da data de entrada em vigor do presente Acordo.
 
-## ANEXO XXVIII — Anexo XXVIII do capítulo 4
+ANEXO XXVIII
+
+Anexo XXVIII do capítulo 4
 
 Fiscalidade
 
@@ -10162,9 +10464,11 @@ Décima terceira Diretiva [86/560/CEE](https://diariodarepublica.pt/application/
 
 Diretiva [92/83/CEE](https://diariodarepublica.pt/application/external/eurolex?92L0083) do Conselho, de 19 de outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas
 
-###### Artigo 7.º, n.º 2, artigos 8.º, 9.º, 10.º, 11.º e 12.º, artigo 14.º, n.os 1, 2 e 4, e artigos 18.º e 19.º da Diretiva [2011/64/UE](https://diariodarepublica.pt/application/external/eurolex?11L0064) do Conselho, de 21 de junho de 2011, relativa à estrutura e taxas dos impostos especiais sobre o consumo de tabacos manufaturados (codificação)
+Artigo 7.º, n.º 2, artigos 8.º, 9.º, 10.º, 11.º e 12.º, artigo 14.º, n.os 1, 2 e 4, e artigos 18.º e 19.º da Diretiva [2011/64/UE](https://diariodarepublica.pt/application/external/eurolex?11L0064) do Conselho, de 21 de junho de 2011, relativa à estrutura e taxas dos impostos especiais sobre o consumo de tabacos manufaturados (codificação)
 
-## ANEXO XXIX — Anexo XXIX do capítulo 5
+ANEXO XXIX
+
+Anexo XXIX do capítulo 5
 
 Estatísticas
 
@@ -10174,7 +10478,9 @@ A versão mais recente do Statistical Requirements Compendium está disponível 
 
 http://epp.eurostat.ec.europa.eu
 
-## ANEXO XXX — Anexo XXX do capítulo 6
+ANEXO XXX
+
+Anexo XXX do capítulo 6
 
 Ambiente
 
@@ -10730,7 +11036,9 @@ Diretiva [2009/41/CE](https://diariodarepublica.pt/application/external/eurolex?
 
 Calendário: estas disposições da diretiva devem ser aplicadas no prazo de três anos a contar da data de entrada em vigor do presente Acordo.
 
-## ANEXO XXXI — Anexo XXXI do capítulo 6
+ANEXO XXXI
+
+Anexo XXXI do capítulo 6
 
 Ambiente
 
@@ -10740,7 +11048,9 @@ Desenvolvimento de um plano de ação a longo prazo (ou seja, pós-2012) para a 
 
 Desenvolvimento e aplicação de medidas a longo prazo para a redução das emissões de gases com efeito de estufa.
 
-## ANEXO XXXII — Anexo XXXII do capítulo 7
+ANEXO XXXII
+
+Anexo XXXII do capítulo 7
 
 Transportes
 
@@ -11034,7 +11344,9 @@ Diretiva [2005/44/CE](https://diariodarepublica.pt/application/external/eurolex?
 
 Calendário: as disposições da diretiva devem ser aplicadas no prazo de cinco anos a contar da data de entrada em vigor do presente Acordo.
 
-## ANEXO XXXIII — Anexo XXXIII do capítulo 7
+ANEXO XXXIII
+
+Anexo XXXIII do capítulo 7
 
 Transportes
 
@@ -11062,9 +11374,11 @@ h) Desenvolvimento de sistemas de gestão do tráfego eficientes, tais como o ER
 
 4 - Mapas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO XXXIV — Anexo XXXIV do capítulo 13
+ANEXO XXXIV
+
+Anexo XXXIV do capítulo 13
 
 Direito das sociedades, governo das sociedades, contabilidade e auditoria
 
@@ -11112,7 +11426,9 @@ Diretiva [2007/36/CE](https://diariodarepublica.pt/application/external/eurolex?
 
 Calendário: as disposições da diretiva devem ser aplicadas no prazo de três anos a contar da data de entrada em vigor do presente Acordo.
 
-## ANEXO XXXV — Anexo XXXV do capítulo 13
+ANEXO XXXV
+
+Anexo XXXV do capítulo 13
 
 Direito das sociedades, governo das sociedades, contabilidade e auditoria
 
@@ -11134,7 +11450,9 @@ Diretiva [2006/43/CE](https://diariodarepublica.pt/application/external/eurolex?
 
 Calendário: as disposições da diretiva devem ser aplicadas no prazo de três anos a contar da data de entrada em vigor do presente Acordo.
 
-## ANEXO XXXVI — Anexo XXXVI do capítulo 13
+ANEXO XXXVI
+
+Anexo XXXVI do capítulo 13
 
 Direito das sociedades, governo das sociedades, contabilidade e auditoria
 
@@ -11144,7 +11462,9 @@ Direito das sociedades, governo das sociedades, contabilidade e auditoria
 
 - Recomendação da Comissão, de 15 de fevereiro de 2005, relativa ao papel dos administradores não executivos ou membros do conselho de supervisão de sociedades cotadas e aos comités do conselho de administração ou de supervisão ([2005/162/CE](https://diariodarepublica.pt/application/external/eurolex?05H0162)).
 
-## ANEXO XXXVII — Anexo XXXVII do capítulo 15
+ANEXO XXXVII
+
+Anexo XXXVII do capítulo 15
 
 Política audiovisual
 
@@ -11158,7 +11478,9 @@ Convenção Europeia sobre a Televisão Transfronteiras de 1989
 
 Calendário: não aplicável.
 
-## ANEXO XXXVIII — Anexo XXXVIII do capítulo 17
+ANEXO XXXVIII
+
+Anexo XXXVIII do capítulo 17
 
 Agricultura e desenvolvimento rural
 
@@ -11228,9 +11550,9 @@ Diretiva [2001/111/CE](https://diariodarepublica.pt/application/external/eurolex
 
 Diretiva [76/621/CEE](https://diariodarepublica.pt/application/external/eurolex?76L0621) de Conselho, de 20 de julho de 1976, relativa à fixação do teor máximo de ácido erúcico nos óleos e gorduras destinados diretamente à alimentação humana, bem como nos géneros alimentícios adicionados de óleos ou gorduras
 
-###### Artigo 52.º do [Regulamento (CE) n.º 1782/2003](https://diariodarepublica.pt/application/external/eurolex?03R1782) do Conselho, de 29 de setembro de 2003, que estabelece regras comuns para os regimes de apoio direto no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores e altera os Regulamentos (CEE) n.º [2019/93](https://diariodarepublica.pt/application/external/eurolex?93R2019), (CE) n.º [1452/2001](https://diariodarepublica.pt/application/external/eurolex?01R1452), (CE) n.º [1453/2001](https://diariodarepublica.pt/application/external/eurolex?01R1453), (CE) n.º [1454/2001](https://diariodarepublica.pt/application/external/eurolex?01R1454), (CE) n.º [1868/94](https://diariodarepublica.pt/application/external/eurolex?94R1868), (CE) n.º [1251/1999](https://diariodarepublica.pt/application/external/eurolex?99R1251), (CE) n.º [1254/1999](https://diariodarepublica.pt/application/external/eurolex?99R1254), (CE) n.º [1673/2000](https://diariodarepublica.pt/application/external/eurolex?00R1673), (CEE) n.º [2358/71](https://diariodarepublica.pt/application/external/eurolex?71R2358) e (CE) n.º [2529/2001](https://diariodarepublica.pt/application/external/eurolex?01R2529)
+Artigo 52.º do [Regulamento (CE) n.º 1782/2003](https://diariodarepublica.pt/application/external/eurolex?03R1782) do Conselho, de 29 de setembro de 2003, que estabelece regras comuns para os regimes de apoio direto no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores e altera os Regulamentos (CEE) n.º [2019/93](https://diariodarepublica.pt/application/external/eurolex?93R2019), (CE) n.º [1452/2001](https://diariodarepublica.pt/application/external/eurolex?01R1452), (CE) n.º [1453/2001](https://diariodarepublica.pt/application/external/eurolex?01R1453), (CE) n.º [1454/2001](https://diariodarepublica.pt/application/external/eurolex?01R1454), (CE) n.º [1868/94](https://diariodarepublica.pt/application/external/eurolex?94R1868), (CE) n.º [1251/1999](https://diariodarepublica.pt/application/external/eurolex?99R1251), (CE) n.º [1254/1999](https://diariodarepublica.pt/application/external/eurolex?99R1254), (CE) n.º [1673/2000](https://diariodarepublica.pt/application/external/eurolex?00R1673), (CEE) n.º [2358/71](https://diariodarepublica.pt/application/external/eurolex?71R2358) e (CE) n.º [2529/2001](https://diariodarepublica.pt/application/external/eurolex?01R2529)
 
-###### Artigo 157.º do [Regulamento (CE) n.º 1234/2007](https://diariodarepublica.pt/application/external/eurolex?07R1234) do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única»)
+Artigo 157.º do [Regulamento (CE) n.º 1234/2007](https://diariodarepublica.pt/application/external/eurolex?07R1234) do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única»)
 
 Diretiva [2002/53/CE](https://diariodarepublica.pt/application/external/eurolex?02L0053) do Conselho, de 13 de junho de 2002, que diz respeito ao catálogo comum das variedades das espécies de plantas agrícolas
 
@@ -11294,7 +11616,9 @@ Diretiva [2001/114/CE](https://diariodarepublica.pt/application/external/eurolex
 
 Retificação da Diretiva [2001/110/CE](https://diariodarepublica.pt/application/external/eurolex?01L0110) do Conselho, de 20 de dezembro de 2001, relativa ao mel
 
-## ANEXO XXXIX — Anexo XXXIX do capítulo 20
+ANEXO XXXIX
+
+Anexo XXXIX do capítulo 20
 
 Defesa do consumidor
 
@@ -11392,7 +11716,9 @@ Cooperação no domínio da defesa do consumidor (regulamento)
 
 Calendário: as disposições do regulamento devem ser aplicadas no prazo de cinco anos a contar da data de entrada em vigor do presente Acordo.
 
-## ANEXO XL — Anexo XL do capítulo 21
+ANEXO XL
+
+Anexo XL do capítulo 21
 
 Cooperação em matéria de emprego, política social e igualdade de oportunidades
 
@@ -11572,7 +11898,9 @@ Aquando da entrada em vigor do presente Acordo, o Conselho de Associação deve 
 
 - Diretiva [2006/54/CE](https://diariodarepublica.pt/application/external/eurolex?06L0054) do Parlamento Europeu e do Conselho, de 5 de julho de 2006, relativa à aplicação do princípio da igualdade de oportunidades e igualdade de tratamento entre homens e mulheres em domínios ligados ao emprego e à atividade profissional (reformulação)
 
-## ANEXO XLI — Anexo XLI do capítulo 22
+ANEXO XLI
+
+Anexo XLI do capítulo 22
 
 Saúde pública
 
@@ -11662,7 +11990,9 @@ Recomendação do Conselho, de 31 de maio de 2007, sobre a prevenção de lesõe
 
 Calendário: não é necessário adotar qualquer iniciativa legislativa.
 
-## ANEXO XLII — Anexo XLII do capítulo 23
+ANEXO XLII
+
+Anexo XLII do capítulo 23
 
 Educação, formação profissional e juventude
 
@@ -11672,7 +12002,9 @@ Educação, formação profissional e juventude
 
 Anexos do título vi: cooperação financeira, com disposições antifraude
 
-## ANEXO XLIII — Anexo XLIII do título vi
+ANEXO XLIII
+
+Anexo XLIII do título vi
 
 Cooperação financeira, com disposições antifraude
 
@@ -11704,7 +12036,9 @@ O «Organismo Europeu de Luta Antifraude» é o serviço antifraude da Comissão
 
 «Agência governamental de financiamento», a autoridade executiva competente da Ucrânia que recebeu recursos financeiros da UE destinados à execução da assistência financeira da UE.
 
-###### Artigo 1.º — Intercâmbio de informação e reforço da cooperação ao nível operacional
+Artigo 1.º
+
+Intercâmbio de informação e reforço da cooperação ao nível operacional
 
 1 - Para fins da boa execução do presente anexo, as autoridades competentes da Ucrânia e da UE devem proceder regularmente ao intercâmbio de informações e, a pedido de uma das Partes, a consultas.
 
@@ -11712,7 +12046,9 @@ O «Organismo Europeu de Luta Antifraude» é o serviço antifraude da Comissão
 
 3 - No que diz respeito à comunicação de dados pessoais, é aplicável o artigo 10.º do anexo [xliii] do presente Acordo.
 
-###### Artigo 2.º — Prevenção de irregularidades, fraudes e corrupção
+Artigo 2.º
+
+Prevenção de irregularidades, fraudes e corrupção
 
 1 - As autoridades da Ucrânia e da UE devem verificar regularmente se as ações financiadas pelos fundos da UE foram corretamente executadas. Devem adotar todas as medidas adequadas para prevenir e remediar as irregularidades e as fraudes.
 
@@ -11728,11 +12064,15 @@ Para o efeito, as autoridades competentes da Ucrânia devem facultar à Comissã
 
 5 - Ao introduzir ou aplicar novas medidas preventivas, as autoridades ucranianas podem beneficiar da competência da Comissão.
 
-###### Artigo 3.º — Investigação e ação penal
+Artigo 3.º
+
+Investigação e ação penal
 
 As Partes devem assegurar a investigação e a ação penal contra casos presumidos ou verificados de fraude, corrupção ou quaisquer outras irregularidades, incluindo conflitos de interesses, na sequência de controlos nacionais ou da UE. Se necessário, o Organismo Europeu de Luta Antifraude pode prestar assistência às autoridades ucranianas competentes nesta tarefa.
 
-###### Artigo 4.º — Comunicação de irregularidades
+Artigo 4.º
+
+Comunicação de irregularidades
 
 1 - As autoridades competentes da Ucrânia devem transmitir à Comissão sem demora qualquer informação de que tenham tido conhecimento de casos presumidos ou verificados de fraude, corrupção ou quaisquer outras irregularidades, incluindo conflitos de interesses, em relação com a execução dos fundos da UE. Em caso de suspeita de fraude e corrupção, o Organismo Europeu de Luta Antifraude deve também ser informado.
 
@@ -11742,7 +12082,9 @@ As Partes devem assegurar a investigação e a ação penal contra casos presumi
 
 4 - O Conselho de Associação deve definir as modalidades de transmissão de informação das autoridades ucranianas competentes à Comissão.
 
-###### Artigo 5.º — Auditoria
+Artigo 5.º
+
+Auditoria
 
 1 - A Comissão e o Tribunal de Contas Europeu devem examinar se todas as despesas relacionadas com a execução dos fundos da UE foram efetuadas de forma legal e regular e se houve boa gestão financeira.
 
@@ -11754,7 +12096,9 @@ Os inspetores da Comissão ou outras pessoas mandatadas pela Comissão ou pelo T
 
 3 - As verificações e auditorias acima mencionadas aplicam-se a todos os contratantes e subcontratantes que beneficiaram direta ou indiretamente de fundos da UE. No desempenho das suas funções, o Tribunal de Contas Europeu e os organismos de auditoria da Ucrânia devem cooperar num espírito de confiança, mantendo embora a respetiva independência.
 
-###### Artigo 6.º — Verificações no local
+Artigo 6.º
+
+Verificações no local
 
 1 - No âmbito do presente Acordo, o Organismo Europeu de Luta Antifraude está autorizado a realizar controlos e verificações no local, no território ucraniano, para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades, em conformidade com as disposições do Regulamento (Euratom, CE) n.º [2185/96](https://diariodarepublica.pt/application/external/eurolex?96R2185) do Conselho, de 11 de novembro de 1996.
 
@@ -11768,11 +12112,15 @@ As autoridades ucranianas devem ser notificadas do objeto, do objetivo e da base
 
 4 - Caso os beneficiários de fundos da UE se oponham a um controlo ou uma verificação no local, as autoridades ucranianas devem prestar aos agentes do Organismo Europeu de Luta Antifraude, em conformidade com as disposições nacionais, toda a assistência necessária para lhes permitir a execução da sua missão de controlo e verificação no local.
 
-###### Artigo 7.º — Medidas e sanções administrativas
+Artigo 7.º
+
+Medidas e sanções administrativas
 
 Sem prejuízo da aplicação do direito ucraniano, a Comissão pode impor medidas e sanções administrativas de acordo com os Regulamentos (CE, Euratom) n.º [1605/2002](https://diariodarepublica.pt/application/external/eurolex?02R1605), de 25 de junho de 2002, e (CE, Euratom) n.º [2342/2002](https://diariodarepublica.pt/application/external/eurolex?02R2342), de 23 de dezembro de 2002, bem como o Regulamento (CE, Euratom) n.º [2988/95](https://diariodarepublica.pt/application/external/eurolex?95R2988) do Conselho, de 18 de dezembro de 1995, relativo à proteção dos interesses financeiros das Comunidades Europeias.
 
-###### Artigo 8.º — Recuperação
+Artigo 8.º
+
+Recuperação
 
 1 - As autoridades ucranianas devem adotar todas as medidas adequadas para recuperar, em benefício da agência governamental de financiamento, os fundos da UE indevidamente pagos.
 
@@ -11792,11 +12140,15 @@ c) A execução forçada só pode ser suspensa por força de uma decisão do Tri
 
 4 - Os acórdãos do Tribunal de Justiça da União Europeia proferidos em virtude de uma cláusula compromissória de um contrato celebrado no âmbito do presente Acordo têm força executiva nas mesmas condições.
 
-###### Artigo 9.º — Confidencialidade
+Artigo 9.º
+
+Confidencialidade
 
 As informações comunicadas ou obtidas, em qualquer forma que seja, ao abrigo do presente anexo estão abrangidas pelo segredo profissional e beneficiam da proteção concedida a informações análogas pelo direito ucraniano e pelas disposições correspondentes aplicáveis às instituições da UE. Estas informações não podem ser comunicadas a outras pessoas além das que, nas instituições da UE, nos Estados membros ou na Ucrânia, são, pelas suas funções, chamadas a delas tomar conhecimento, nem utilizadas para fins distintos dos de assegurar uma proteção eficaz dos interesses financeiros das Partes.
 
-###### Artigo 10.º — Proteção dos dados
+Artigo 10.º
+
+Proteção dos dados
 
 1 - Só podem ser comunicados dados pessoais se tal comunicação for necessária à aplicação do presente Acordo pelas autoridades competentes da Ucrânia ou da UE, consoante o caso. Para a comunicação e o tratamento de dados pessoais num caso específico, em conformidade com o artigo 15.º, as autoridades competentes da Ucrânia devem respeitar a legislação nacional pertinente e as autoridades da UE devem respeitar o disposto no Regulamento (CE) n.º [45/2001](https://diariodarepublica.pt/application/external/eurolex?01R0045) do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados.
 
@@ -11812,7 +12164,9 @@ c) Os dados pessoais só podem ser comunicados às autoridades competentes. A ev
 
 d) As autoridades que comunicam e que recebem dados pessoais são obrigadas a registar por escrito a comunicação e a receção desses dados.
 
-## ANEXO XLIV — Anexo XLIV do título vi
+ANEXO XLIV
+
+Anexo XLIV do título vi
 
 Cooperação financeira, com disposições antifraude
 
@@ -11860,101 +12214,109 @@ Protocolo 1 Relativo à definição do conceito de "produtos originários" e mé
 
 Índice
 
-## TÍTULO I Disposições gerais
+TÍTULO I Disposições gerais
 
-###### Artigo 1.º Definições — TÍTULO II Definição do conceito de "produtos originários"
+Artigo 1.º Definições
 
-###### Artigo 2.º Requisitos gerais
+TÍTULO II Definição do conceito de "produtos originários"
 
-###### Artigo 3.º Acumulação na União Europeia
+Artigo 2.º Requisitos gerais
 
-###### Artigo 4.º Acumulação na Ucrânia
+Artigo 3.º Acumulação na União Europeia
 
-###### Artigo 5.º Produtos inteiramente obtidos
+Artigo 4.º Acumulação na Ucrânia
 
-###### Artigo 6.º Produtos submetidos a operações de complemento de fabrico ou de transformação suficientes
+Artigo 5.º Produtos inteiramente obtidos
 
-###### Artigo 7.º Operações de complemento de fabrico ou de transformação insuficientes
+Artigo 6.º Produtos submetidos a operações de complemento de fabrico ou de transformação suficientes
 
-###### Artigo 8.º Unidade de qualificação
+Artigo 7.º Operações de complemento de fabrico ou de transformação insuficientes
 
-###### Artigo 9.º Acessórios, peças sobressalentes e ferramentas
+Artigo 8.º Unidade de qualificação
 
-###### Artigo 10.º Sortidos — Artigo 11.º Elementos neutros
+Artigo 9.º Acessórios, peças sobressalentes e ferramentas
 
-## TÍTULO III Requisitos territoriais
+Artigo 10.º Sortidos
 
-###### Artigo 12.º Princípio da territorialidade
+Artigo 11.º Elementos neutros
 
-###### Artigo 13.º Transporte direto
+TÍTULO III Requisitos territoriais
 
-###### Artigo 14.º Exposições — TÍTULO IV Draubaque ou isenção
+Artigo 12.º Princípio da territorialidade
 
-###### Artigo 15.º Proibição de draubaque ou de isenção de direitos aduaneiros
+Artigo 13.º Transporte direto
 
-## TÍTULO V Prova de origem
+Artigo 14.º Exposições
 
-###### Artigo 16.º Requisitos gerais
+TÍTULO IV Draubaque ou isenção
 
-###### Artigo 17.º Procedimento para a emissão do certificado de circulação EUR.1
+Artigo 15.º Proibição de draubaque ou de isenção de direitos aduaneiros
 
-###### Artigo 18.º Emissão a posteriori dos certificados de circulação EUR.1
+TÍTULO V Prova de origem
 
-###### Artigo 19.º Emissão de uma segunda via do certificado de circulação EUR.1
+Artigo 16.º Requisitos gerais
 
-###### Artigo 20.º Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
+Artigo 17.º Procedimento para a emissão do certificado de circulação EUR.1
 
-###### Artigo 21.º Separação de contas
+Artigo 18.º Emissão a posteriori dos certificados de circulação EUR.1
 
-###### Artigo 22.º Condições para efetuar uma declaração na fatura
+Artigo 19.º Emissão de uma segunda via do certificado de circulação EUR.1
 
-###### Artigo 23.º Exportador autorizado
+Artigo 20.º Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
 
-###### Artigo 24.º Prazo de validade da prova de origem
+Artigo 21.º Separação de contas
 
-###### Artigo 25.º Apresentação da prova de origem
+Artigo 22.º Condições para efetuar uma declaração na fatura
 
-###### Artigo 26.º Importação em remessas escalonadas
+Artigo 23.º Exportador autorizado
 
-###### Artigo 27.º Isenções da prova de origem
+Artigo 24.º Prazo de validade da prova de origem
 
-###### Artigo 28.º Documentos comprovativos
+Artigo 25.º Apresentação da prova de origem
 
-###### Artigo 29.º Conservação da prova de origem e dos documentos comprovativos
+Artigo 26.º Importação em remessas escalonadas
 
-###### Artigo 30.º Discrepâncias e erros formais
+Artigo 27.º Isenções da prova de origem
 
-###### Artigo 31.º Montantes expressos em euros
+Artigo 28.º Documentos comprovativos
 
-## TÍTULO VI Métodos de cooperação administrativa
+Artigo 29.º Conservação da prova de origem e dos documentos comprovativos
 
-###### Artigo 32.º Assistência mútua
+Artigo 30.º Discrepâncias e erros formais
 
-###### Artigo 33.º Controlo da prova de origem
+Artigo 31.º Montantes expressos em euros
 
-###### Artigo 34.º Resolução de litígios
+TÍTULO VI Métodos de cooperação administrativa
 
-###### Artigo 35.º Sanções — Artigo 36.º Zonas francas
+Artigo 32.º Assistência mútua
 
-## TÍTULO VII Ceuta e Melilha
+Artigo 33.º Controlo da prova de origem
 
-###### Artigo 37.º Aplicação do Protocolo
+Artigo 34.º Resolução de litígios
 
-###### Artigo 38.º Condições especiais
+Artigo 35.º Sanções
 
-## TÍTULO VIII Disposições finais
+Artigo 36.º Zonas francas
 
-###### Artigo 39.º Alterações do Protocolo
+TÍTULO VII Ceuta e Melilha
+
+Artigo 37.º Aplicação do Protocolo
+
+Artigo 38.º Condições especiais
+
+TÍTULO VIII Disposições finais
+
+Artigo 39.º Alterações do Protocolo
 
 Lista de anexos
 
-## Anexo I: Notas introdutórias da lista do anexo II
+Anexo I: Notas introdutórias da lista do anexo II
 
-## Anexo II: Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
+Anexo II: Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
 
-## Anexo III: Modelos de certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
+Anexo III: Modelos de certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
-## Anexo IV: Texto da declaração na fatura
+Anexo IV: Texto da declaração na fatura
 
 Declarações comuns
 
@@ -11964,9 +12326,13 @@ Declaração comum relativa à República de São Marinho
 
 Declaração comum relativa à revisão das regras de origem enunciadas no presente Protocolo
 
-## TÍTULO I — Disposições gerais
+TÍTULO I
 
-###### Artigo 1.º — Definições
+Disposições gerais
+
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente Protocolo, entende-se por:
 
@@ -11996,9 +12362,13 @@ l) "Remessa", os produtos enviados simultaneamente de um exportador para um dest
 
 m) "territórios" inclui as águas territoriais.
 
-## TÍTULO II — Definição do conceito de "produtos originários"
+TÍTULO II
 
-###### Artigo 2.º — Requisitos gerais
+Definição do conceito de "produtos originários"
+
+Artigo 2.º
+
+Requisitos gerais
 
 1 - Para efeitos da aplicação do presente Acordo, são considerados originários da União Europeia os seguintes produtos:
 
@@ -12012,15 +12382,21 @@ a) Produtos inteiramente obtidos na Ucrânia, na aceção do artigo 5.º do pres
 
 b) Produtos obtidos na Ucrânia, em cuja fabricação sejam utilizadas matérias que aí não tenham sido inteiramente obtidas, desde que essas matérias tenham sido submetidas na Ucrânia a operações de complemento de fabrico ou de transformação suficientes, na aceção do artigo 6.º do presente Protocolo.
 
-###### Artigo 3.º — Acumulação na União Europeia
+Artigo 3.º
+
+Acumulação na União Europeia
 
 Sem prejuízo do disposto no artigo 2.º, n.º 1, do presente Protocolo, considera-se que os produtos são originários da União Europeia se forem aí obtidos, incorporando matérias originárias da Ucrânia, em conformidade com as disposições do Protocolo em matéria de regras de origem anexas ao Acordo, desde que as operações de complemento de fabrico ou de transformação realizadas na União Europeia excedam as operações referidas no artigo 7.º do presente Protocolo. Não é necessário que essas matérias tenham sido submetidas a operações de complemento de fabrico ou de transformação suficientes.
 
-###### Artigo 4.º — Acumulação na Ucrânia
+Artigo 4.º
+
+Acumulação na Ucrânia
 
 Sem prejuízo do disposto no artigo 2.º, n.º 2, do presente Protocolo, considera-se que os produtos são originários da Ucrânia se forem aí obtidos, incorporando matérias originárias da União Europeia, em conformidade com as disposições do Protocolo em matéria de regras de origem anexas ao Acordo, desde que as operações de complemento de fabrico ou de transformação realizadas na Ucrânia excedam as operações referidas no artigo 7.º do presente Protocolo. Não é necessário que essas matérias tenham sido submetidas a operações de complemento de fabrico ou de transformação suficientes.
 
-###### Artigo 5.º — Produtos inteiramente obtidos
+Artigo 5.º
+
+Produtos inteiramente obtidos
 
 1 - Consideram-se inteiramente obtidos na União Europeia ou na Ucrânia:
 
@@ -12060,7 +12436,9 @@ e
 
 e) Cuja tripulação seja composta, pelo menos em 75 por cento, de nacionais dos Estado membro da União Europeia ou da Ucrânia.
 
-###### Artigo 6.º — Produtos submetidos a operações de complemento de fabrico ou de transformação suficientes
+Artigo 6.º
+
+Produtos submetidos a operações de complemento de fabrico ou de transformação suficientes
 
 1 - Para efeitos do artigo 2.º do presente Protocolo os produtos que não tenham sido inteiramente obtidos são considerados objeto de operações de complemento de fabrico ou de transformação suficientes, quando estiverem preenchidas as condições estabelecidas na lista do anexo ii do presente Protocolo.
 
@@ -12076,7 +12454,9 @@ O presente número não é aplicável aos produtos classificados nos capítulos 
 
 3 - Os n.os 1 e 2 são aplicáveis sob reserva do disposto no artigo 7.º do presente Protocolo.
 
-###### Artigo 7.º — Operações de complemento de fabrico ou de transformação insuficientes
+Artigo 7.º
+
+Operações de complemento de fabrico ou de transformação insuficientes
 
 1 - Sem prejuízo do n.º 2 do presente artigo, consideram-se insuficientes para conferir o caráter de produto originário, independentemente de estarem ou não satisfeitas as condições do artigo 6.º do presente Protocolo, as seguintes operações de complemento de fabrico ou de transformação:
 
@@ -12114,7 +12494,9 @@ p) Abate de animais.
 
 2 - Todas as operações efetuadas quer na União Europeia quer na Ucrânia num dado produto são consideradas em conjunto para determinar se a operação de complemento de fabrico ou de transformação a que o produto foi submetido deve ser considerada insuficiente na aceção do n.º 1 do presente artigo.
 
-###### Artigo 8.º — Unidade de qualificação
+Artigo 8.º
+
+Unidade de qualificação
 
 1 - A unidade de qualificação para a aplicação das disposições do presente Protocolo é a do produto específico considerado como unidade básica para a determinação da classificação através da nomenclatura do Sistema Harmonizado.
 
@@ -12126,15 +12508,21 @@ b) Quando uma remessa for composta por um certo número de produtos idênticos c
 
 2 - Quando, em aplicação da Regra Geral 5 do Sistema Harmonizado, as embalagens forem consideradas na classificação do produto, devem ser igualmente consideradas para efeitos de determinação da origem.
 
-###### Artigo 9.º — Acessórios, peças sobressalentes e ferramentas
+Artigo 9.º
+
+Acessórios, peças sobressalentes e ferramentas
 
 Os acessórios, peças sobressalentes e ferramentas expedidos com uma parte de equipamento, uma máquina, um aparelho ou um veículo, que façam parte do equipamento normal e estejam incluídos no respetivo preço ou não sejam faturados à parte, são considerados como constituindo um todo com a parte de equipamento, máquina, aparelho ou veículo em causa.
 
-###### Artigo 10.º — Sortidos
+Artigo 10.º
+
+Sortidos
 
 Os sortidos, definidos na Regra Geral 3 do Sistema Harmonizado, são considerados originários quando todos os seus componentes são produtos originários. No entanto, quando um sortido for composto por produtos originários e produtos não originários, esse sortido é considerado originário no seu conjunto, desde que o valor dos produtos não originários não exceda 15 % do preço do sortido à saída da fábrica.
 
-###### Artigo 11.º — Elementos neutros
+Artigo 11.º
+
+Elementos neutros
 
 A fim de determinar se um produto é originário, não é necessário averiguar a origem dos seguintes elementos eventualmente utilizados na sua fabricação:
 
@@ -12146,9 +12534,13 @@ c) Máquinas e ferramentas;
 
 d) Mercadorias que não entram nem se destinam a entrar na composição final do produto.
 
-## TÍTULO III — Requisitos territoriais
+TÍTULO III
 
-###### Artigo 12.º — Princípio da territorialidade
+Requisitos territoriais
+
+Artigo 12.º
+
+Princípio da territorialidade
 
 1 - As condições estabelecidas no título ii para a aquisição do caráter de produto originário devem ser preenchidas ininterruptamente na União Europeia ou na Ucrânia, exceto nos casos previstos nos artigos 3.º e 4.º do presente Protocolo e no n.º 3 do presente artigo.
 
@@ -12184,7 +12576,9 @@ ii) O valor acrescentado total adquirido fora da União Europeia ou da Ucrânia,
 
 8 - Qualquer operação de complemento de fabrico ou de transformação do tipo abrangido pelas disposições do presente artigo e efetuada fora da União Europeia ou da Ucrânia deve ser realizada ao abrigo dos regimes de aperfeiçoamento ativo ou passivo ou de regimes similares.
 
-###### Artigo 13.º — Transporte direto
+Artigo 13.º
+
+Transporte direto
 
 1 - O tratamento pautal preferencial previsto nos termos do Acordo só se aplica aos produtos que, satisfazendo os requisitos do presente Protocolo, sejam transportados diretamente entre a União Europeia e a Ucrânia. Todavia, o transporte de produtos que constituem uma única remessa pode efetuar-se através de outros territórios com, se for necessário, eventuais transbordos ou armazenagem temporária nesses territórios, desde que permaneçam sob fiscalização das autoridades aduaneiras do país de trânsito ou de armazenagem e não sejam objeto de outras operações para além da descarga, recarga ou qualquer outra operação destinada a assegurar a sua conservação em estado inalterado.
 
@@ -12206,7 +12600,9 @@ iii) As condições em que os produtos permaneceram no país de trânsito; ou
 
 c) Na sua falta, quaisquer outros documentos probatórios.
 
-###### Artigo 14.º — Exposições
+Artigo 14.º
+
+Exposições
 
 1 - Os produtos originários expedidos para figurarem numa exposição num país que não a União Europeia e a Ucrânia e serem vendidos, após a exposição, para importação na União Europeia ou na Ucrânia beneficiam, no momento da importação, do disposto no Acordo, desde que seja apresentada às autoridades aduaneiras prova suficiente de que:
 
@@ -12224,9 +12620,13 @@ d) A partir do momento em que foram expedidos para a exposição, os produtos n�
 
 3 - O n.º 1 aplica-se a todas as exposições, feiras ou manifestações públicas análogas de caráter comercial, industrial, agrícola ou artesanal, que não sejam organizadas para fins privados em lojas e outros estabelecimentos comerciais para venda de produtos estrangeiros, durante as quais os produtos permaneçam sob controlo aduaneiro.
 
-## TÍTULO IV — Draubaque ou isenção
+TÍTULO IV
 
-###### Artigo 15.º — Proibição de draubaque ou de isenção de direitos aduaneiros
+Draubaque ou isenção
+
+Artigo 15.º
+
+Proibição de draubaque ou de isenção de direitos aduaneiros
 
 1 - As matérias não originárias utilizadas na fabricação de produtos originários da União Europeia ou da Ucrânia para as quais é emitida ou estabelecida uma prova de origem, em conformidade com o disposto no título iv do presente Protocolo, não devem ser objeto, nem na União nem na Ucrânia, de draubaque ou de isenção de direitos aduaneiros de qualquer espécie.
 
@@ -12238,9 +12638,13 @@ d) A partir do momento em que foram expedidos para a exposição, os produtos n�
 
 5 - O disposto nos n.os 1 a 4 do presente artigo deve aplicar-se apenas às matérias semelhantes àquelas a que se plica o Acordo.
 
-## TÍTULO V — Prova de origem
+TÍTULO V
 
-###### Artigo 16.º — Requisitos gerais
+Prova de origem
+
+Artigo 16.º
+
+Requisitos gerais
 
 1 - Os produtos originários da União Europeia, aquando da importação na Ucrânia, e os produtos originários da Ucrânia, aquando da importação na União Europeia, beneficiam do presente Acordo, mediante a apresentação:
 
@@ -12250,7 +12654,9 @@ b) Nos casos referidos no artigo 22.º, n.º 1, do presente Protocolo, de uma de
 
 2 - Não obstante o disposto no n.º 1, os produtos originários na aceção do presente Protocolo beneficiam, nos casos previstos no artigo 27.º, das disposições do Acordo, sem que seja necessário apresentar nenhum dos documentos acima referidos.
 
-###### Artigo 17.º — Procedimento para a emissão do certificado de circulação EUR.1
+Artigo 17.º
+
+Procedimento para a emissão do certificado de circulação EUR.1
 
 1 - O certificado de circulação EUR.1 é emitido pelas autoridades aduaneiras do país de exportação, mediante pedido escrito do exportador ou, sob a sua responsabilidade, do seu representante autorizado.
 
@@ -12266,7 +12672,9 @@ b) Nos casos referidos no artigo 22.º, n.º 1, do presente Protocolo, de uma de
 
 7 - O certificado de circulação EUR.1 é emitido pelas autoridades aduaneiras e é posto à disposição do exportador logo que a exportação tenha sido efetivamente realizada ou assegurada.
 
-###### Artigo 18.º — Emissão a posteriori dos certificados de circulação EUR.1
+Artigo 18.º
+
+Emissão a posteriori dos certificados de circulação EUR.1
 
 1 - Não obstante o disposto no artigo 17.º, n.º 7, do presente Protocolo, um certificado de circulação EUR.1 pode ser excecionalmente emitido após a exportação dos produtos a que se refere, se:
 
@@ -12286,7 +12694,9 @@ b) Forem apresentadas às autoridades aduaneiras provas suficientes de que foi e
 
 5 - As menções referidas no n.º 4 do presente artigo devem ser inscritas na casa "Observações" do certificado de circulação EUR.1.
 
-###### Artigo 19.º — Emissão de uma segunda via do certificado de circulação EUR.1
+Artigo 19.º
+
+Emissão de uma segunda via do certificado de circulação EUR.1
 
 1 - Em caso de furto, extravio ou inutilização de um certificado de circulação EUR.1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via, passada com base nos documentos de exportação em posse dessas autoridades.
 
@@ -12298,11 +12708,15 @@ b) Forem apresentadas às autoridades aduaneiras provas suficientes de que foi e
 
 4 - A segunda via, que deve conter a data de emissão do certificado de circulação EUR.1 original, produz efeitos a partir dessa data.
 
-###### Artigo 20.º — Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
+Artigo 20.º
+
+Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
 
 Quando os produtos originários forem colocados sob controlo de uma autoridade aduaneira na União Europeia ou na Ucrânia, a substituição da prova de origem inicial por um ou mais certificados de circulação EUR.1 é possível para a expedição de todos ou alguns desses produtos para outros locais situados na União Europeia ou na Ucrânia. Os certificados de circulação EUR.1 de substituição são emitidos pela estância aduaneira sob cujo controlo os produtos foram colocados.
 
-###### Artigo 21.º — Separação de contas
+Artigo 21.º
+
+Separação de contas
 
 1 - Quando se verifiquem custos consideráveis ou dificuldades materiais em manter existências separadas para matérias originárias e não originárias, idênticas e permutáveis, as autoridades aduaneiras podem, mediante pedido escrito dos interessados, autorizar a aplicação do método dito "separação de contas" para a gestão dessas existências.
 
@@ -12316,7 +12730,9 @@ Quando os produtos originários forem colocados sob controlo de uma autoridade a
 
 6 - As autoridades aduaneiras controlarão o uso dado à autorização, podendo retirá-la em qualquer momento se o beneficiário dela fizer um uso incorreto sob qualquer forma, ou não preencher uma das outras condições definidas no presente protocolo.
 
-###### Artigo 22.º — Condições para efetuar uma declaração na fatura
+Artigo 22.º
+
+Condições para efetuar uma declaração na fatura
 
 1 - A declaração na fatura referida no artigo 16.º, n.º 1, alínea b), do presente Protocolo pode ser efetuada:
 
@@ -12336,7 +12752,9 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 6 - A declaração na fatura pode ser efetuada pelo exportador se a exportação dos produtos a que se refere, ou após a exportação, sob condição de ser apresentada no país de importação o mais tardar dois anos após a importação dos produtos a que se refere.
 
-###### Artigo 23.º — Exportador autorizado
+Artigo 23.º
+
+Exportador autorizado
 
 1 - As autoridades aduaneiras do país de exportação podem autorizar qualquer exportador, a seguir designado "exportador autorizado", que efetue frequentemente expedições de produtos ao abrigo do presente acordo a efetuar declarações na fatura, independentemente do valor dos produtos em causa. Os exportadores que pretendam obter essa autorização devem oferecer às autoridades aduaneiras todas as garantias necessárias para que se possa verificar o caráter de produto originário dos produtos, bem como o cumprimento dos outros requisitos previstos no presente Protocolo.
 
@@ -12348,7 +12766,9 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 5 - As autoridades aduaneiras podem retirar a autorização em qualquer altura. Devem fazê-lo quando o exportador autorizado deixar de oferecer as garantias referidas no n.º 1 do presente artigo, não preencher as condições referidas no n.º 2 ou fizer um uso incorreto da autorização.
 
-###### Artigo 24.º — Prazo de validade da prova de origem
+Artigo 24.º
+
+Prazo de validade da prova de origem
 
 1 - A prova de origem é válida por quatro meses a contar da data de emissão no país de exportação, devendo ser apresentada dentro desse prazo às autoridades aduaneiras do país de importação.
 
@@ -12356,15 +12776,21 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 3 - Nos outros casos de apresentação fora de prazo, as autoridades aduaneiras do país de importação podem aceitar as provas de origem, se os produtos lhes tiverem sido apresentados dentro do referido prazo.
 
-###### Artigo 25.º — Apresentação da prova de origem
+Artigo 25.º
+
+Apresentação da prova de origem
 
 As provas de origem são apresentadas às autoridades aduaneiras do país de importação de acordo com os procedimentos aplicáveis nesse país. As referidas autoridades podem exigir a tradução da prova de origem e podem igualmente exigir que a declaração de importação se faça acompanhar de uma declaração do importador em como os produtos satisfazem as condições requeridas para a aplicação do Acordo.
 
-###### Artigo 26.º — Importação em remessas escalonadas
+Artigo 26.º
+
+Importação em remessas escalonadas
 
 Quando, a pedido do importador e nas condições estabelecidas pelas autoridades aduaneiras do país de importação, os produtos desmontados ou por montar na aceção da alínea a) da Regra Geral 2 do Sistema Harmonizado, das secções xvi e xvii ou das posições 7308 e 9406 do Sistema Harmonizado, forem importados em remessas escalonadas, deve ser apresentada uma única prova de origem desses produtos às autoridades aduaneiras, quando da importação da primeira remessa escalonada.
 
-###### Artigo 27.º — Isenções da prova de origem
+Artigo 27.º
+
+Isenções da prova de origem
 
 1 - Os produtos enviados em pequenas remessas por particulares a particulares, ou contidos na bagagem pessoal dos viajantes, são considerados produtos originários, sem que seja necessária a apresentação de uma prova de origem, desde que não sejam importados com fins comerciais e tenham sido declarados como satisfazendo os requisitos do presente Protocolo, e quando não haja dúvidas quanto à veracidade dessa declaração. No caso dos produtos enviados por via postal, essa declaração pode ser feita na declaração aduaneira CN22/CN23 ou numa folha de papel apensa a esse documento.
 
@@ -12372,7 +12798,9 @@ Quando, a pedido do importador e nas condições estabelecidas pelas autoridades
 
 3 - Além disso, o valor total destes produtos não deve exceder 500 euros no caso de pequenas remessas ou 1 200 euros no caso dos produtos contidos na bagagem pessoal dos viajantes.
 
-###### Artigo 28.º — Documentos comprovativos
+Artigo 28.º
+
+Documentos comprovativos
 
 Os documentos referidos no artigo 17.º, n.º 3, e no artigo 22.º, n.º 3, do presente Protocolo, utilizados para comprovar que os produtos abrangidos por um certificado de circulação EUR.1 ou por uma declaração na fatura podem ser considerados produtos originários na União Europeia ou na Ucrânia e cumprem os outros requisitos do presente Protocolo podem consistir, entre outros, nos seguintes elementos:
 
@@ -12386,7 +12814,9 @@ d) Certificados de circulação EUR.1 ou declarações na fatura comprovativos d
 
 e) Documentos relativos às operações de complemento de fabrico ou de transformação efetuadas fora da União Europeia ou da Ucrânia por aplicação do artigo 12.º do presente Protocolo, que comprovem que foram preenchidos os requisitos previstos nesse artigo.
 
-###### Artigo 29.º — Conservação da prova de origem e dos documentos comprovativos
+Artigo 29.º
+
+Conservação da prova de origem e dos documentos comprovativos
 
 1 - O exportador que apresenta o pedido de emissão de um certificado de circulação EUR.1 conserva durante, pelo menos, três anos os documentos referidos no artigo 17.º, n.º 3, do presente Protocolo.
 
@@ -12396,13 +12826,17 @@ e) Documentos relativos às operações de complemento de fabrico ou de transfor
 
 4 - As autoridades aduaneiras da Parte do país de importação devem conservar durante, pelo menos, três anos os certificados de circulação EUR.1 e as declarações na fatura que lhes forem apresentados.
 
-###### Artigo 30.º — Discrepâncias e erros formais
+Artigo 30.º
+
+Discrepâncias e erros formais
 
 1 - A deteção de ligeiras discrepâncias entre as declarações constantes da prova de origem e as dos documentos apresentados na estância aduaneira para cumprimento das formalidades de importação dos produtos não implica ipso facto que se considere a prova de origem nula e sem efeito, desde que seja devidamente comprovado que esse documento corresponde aos produtos apresentados.
 
 2 - Os erros formais manifestos, como os erros de datilografia, detetados numa prova de origem não justificam a rejeição do documento se esses erros não suscitarem dúvidas quanto à exatidão das declarações prestadas no referido documento.
 
-###### Artigo 31.º — Montantes expressos em euros
+Artigo 31.º
+
+Montantes expressos em euros
 
 1 - Para efeitos de aplicação do artigo 22.º, n.º 1, alínea b), e do artigo 27.º, n.º 3, do presente Protocolo quando os produtos estiverem faturados numa outra moeda que não o euro, o contravalor, nas moedas nacionais dos Estados membros da União Europeia ou da Ucrânia, dos montantes expressos em euros é fixado anualmente por cada um dos países em causa.
 
@@ -12414,15 +12848,21 @@ e) Documentos relativos às operações de complemento de fabrico ou de transfor
 
 5 - Os montantes expressos em euros são revistos pelo Subcomité das Alfândegas a pedido da União Europeia ou da Ucrânia. Ao proceder a essa revisão, o Subcomité das Alfândegas deve considerar a conveniência de preservar os efeitos dos limites em causa em termos reais. Para o efeito, pode decidir alterar os montantes expressos em euros.
 
-## TÍTULO VI — Métodos de cooperação administrativa
+TÍTULO VI
 
-###### Artigo 32.º — Assistência mútua
+Métodos de cooperação administrativa
+
+Artigo 32.º
+
+Assistência mútua
 
 1 - As autoridades aduaneiras dos Estados membros da União Europeia e da Ucrânia devem facultar-se mutua-mente, através da Comissão Europeia, os espécimes dos cunhos dos carimbos utilizados para a emissão de certificados de circulação EUR.1 e os endereços das autoridades aduaneiras responsáveis pelo controlo desses certificados e das declarações na fatura.
 
 2 - Com vista a assegurar a correta aplicação do presente Protocolo, a União Europeia e a Ucrânia devem prestar assistência recíproca, por intermédio das respetivas autoridades aduaneiras competentes, no controlo da autenticidade dos certificados de circulação EUR.1 ou das declarações na fatura e também no controlo da exatidão das menções inscritas nesses documentos.
 
-###### Artigo 33.º — Controlo da prova de origem
+Artigo 33.º
+
+Controlo da prova de origem
 
 1 - Os controlos a posteriori da prova de origem devem ser efetuados aleatoriamente, ou sempre que as autoridades aduaneiras do país de importação tenham dúvidas fundadas quanto à autenticidade de tais documentos, ao caráter de produto originário dos produtos em causa, ou ao cumprimento dos outros requisitos do presente Protocolo.
 
@@ -12436,25 +12876,35 @@ e) Documentos relativos às operações de complemento de fabrico ou de transfor
 
 6 - Se, nos casos de dúvida fundada, não for recebida resposta no prazo de 10 meses a contar da data do pedido de controlo ou se a resposta não contiver informações suficientes para apurar a autenticidade do documento em causa ou a verdadeira origem dos produtos, as autoridades aduaneiras requerentes devem recusar, exceto em circunstâncias excecionais, o benefício do regime preferencial.
 
-###### Artigo 34.º — Resolução de litígios
+Artigo 34.º
+
+Resolução de litígios
 
 Em caso de litígio relativamente aos procedimentos de controlo previstos no artigo 33.º do presente Protocolo, que não possa ser resolvido entre as autoridades aduaneiras que requerem o controlo e as autoridades aduaneiras responsáveis pela sua realização, ou em caso de dúvida quanto à interpretação do presente Protocolo, o mesmo será submetido ao Comité de Comércio.
 
 Em qualquer caso, a resolução de litígios entre o importador e as autoridades aduaneiras do país de importação fica sujeita à legislação desse país.
 
-###### Artigo 35.º — Sanções
+Artigo 35.º
+
+Sanções
 
 São aplicadas sanções a quem emita ou mande emitir um documento contendo informações inexatas com o objetivo de obter um tratamento preferencial para os produtos.
 
-###### Artigo 36.º — Zonas francas
+Artigo 36.º
+
+Zonas francas
 
 1 - A União Europeia e a Ucrânia tomarão todas as medidas necessárias para assegurar que os produtos comercializados ao abrigo de uma prova de origem, que, durante o seu transporte, permaneçam numa zona franca situada no seu território, não sejam substituídos por outros produtos nem sujeitos a manipulações diferentes das operações usuais destinadas à sua conservação no seu estado inalterado.
 
 2 - Em derrogação do n.º 1 do presente artigo, quando os produtos originários da União Europeia ou da Ucrânia, importados para uma zona franca ao abrigo de uma prova de origem, forem sujeitos a um tratamento ou a uma transformação, as autoridades competentes devem emitir um novo certificado de circulação EUR.1 a pedido do exportador, se esse tratamento ou essa transformação estiverem em conformidade com as disposições do presente Protocolo.
 
-## TÍTULO VII — Ceuta e Melilha
+TÍTULO VII
 
-###### Artigo 37.º — Aplicação do protocolo
+Ceuta e Melilha
+
+Artigo 37.º
+
+Aplicação do protocolo
 
 1 - O termo "União Europeia" utilizado no artigo 2.º do presente Protocolo não abrange Ceuta e Melilha.
 
@@ -12462,7 +12912,9 @@ São aplicadas sanções a quem emita ou mande emitir um documento contendo info
 
 3 - Para efeitos de aplicação do n.º 2 deste artigo, o presente Protocolo deve aplicar-se mutatis mutandis aos produtos originários de Ceuta e Melilha, sob reserva das condições especiais estabelecidas no artigo 38.º do presente Protocolo.
 
-###### Artigo 38.º — Condições especiais
+Artigo 38.º
+
+Condições especiais
 
 1 - Sob reserva de terem sido objeto de transporte direto em conformidade com o artigo 13.º do presente Protocolo, consideram-se:
 
@@ -12496,15 +12948,21 @@ ii) Sejam originários de Ceuta e Melilha ou da União Europeia, desde que tenha
 
 4 - As autoridades aduaneiras espanholas são responsáveis pela aplicação do presente Protocolo em Ceuta e Melilha.
 
-## TÍTULO VIII — Disposições finais
+TÍTULO VIII
 
-###### Artigo 39.º — Alterações do Protocolo
+Disposições finais
+
+Artigo 39.º
+
+Alterações do Protocolo
 
 1 - O Subcomité das Alfândegas pode decidir alterar as disposições do presente Protocolo.
 
 2 - O Subcomité das Alfândegas pode decidir, na sequência da adesão da Ucrânia à Convenção regional sobre as regras de origem preferenciais pan-euromediterrânicas, substituir as regras de origem definidas no presente Protocolo pelas apensas à Convenção.
 
-## ANEXO I — Notas introdutórias da lista do Anexo II
+ANEXO I
+
+Notas introdutórias da lista do Anexo II
 
 Nota 1:
 
@@ -12722,15 +13180,17 @@ o) Apenas no que respeita aos produtos derivados do petróleo bruto da posição
 
 7.3 - Na aceção das posições ex 2707, 2713 a 2715, ex 2901, ex 2902 e ex 3403, as operações simples, tais como limpeza, decantação, dessalinização, separação da água, filtragem, coloração, marcação de que se obtém um teor de enxofre através da mistura de produtos com teores de enxofre diferentes, bem como qualquer realização conjunta destas operações ou operações semelhantes, não conferem a origem.
 
-## ANEXO II
+ANEXO II
 
 Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto fabricado possa adquirir o caráter de produto originário.
 
 Nem todos os produtos indicados na lista são abrangidos pelo Acordo. É, pois, necessário consultar as outras Partes do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO III — Modelos de certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
+ANEXO III
+
+Modelos de certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
 Instruções para a impressão
 
@@ -12740,21 +13200,23 @@ Instruções para a impressão
 
 Certificado de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Pedido de certificado de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Declaração do exportador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
-## ANEXO IV — Texto da declaração na fatura
+ANEXO IV
+
+Texto da declaração na fatura
 
 A declaração na fatura, cujo texto é a seguir apresentado, deve ser prestada em conformidade com as notas de rodapé. Contudo, estas não têm de ser reproduzidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Declaração comum relativa ao Principado de Andorra
 
@@ -12776,7 +13238,9 @@ Declaração comum relativa à revisão das regras de origem enunciadas no Proto
 
 PROTOCOLO II RELATIVO À ASSISTÊNCIA ADMINISTRATIVA MÚTUA EM MATÉRIA ADUANEIRA
 
-###### Artigo 1.º — Definições
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente Protocolo, entende-se por:
 
@@ -12790,7 +13254,9 @@ d) «Dados pessoais», todas as informações relacionadas com um indivíduo ide
 
 e) «Infração à legislação aduaneira», qualquer violação ou tentativa de violação da legislação aduaneira.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - As Partes devem prestar-se assistência mútua, no âmbito das suas competências, segundo as modalidades e as condições previstas no presente Protocolo, tendo em vista assegurar a correta aplicação da legislação aduaneira, em especial através da prevenção, investigação e repressão de infrações à legislação aduaneira.
 
@@ -12798,7 +13264,9 @@ e) «Infração à legislação aduaneira», qualquer violação ou tentativa de
 
 3 - A assistência para a cobrança de direitos e imposições ou sanções pecuniárias não é abrangida pelo presente Protocolo.
 
-###### Artigo 3.º — Assistência a pedido
+Artigo 3.º
+
+Assistência a pedido
 
 1 - A pedido da autoridade requerente, a autoridade requerida deve prestar-lhe todas as informações úteis que permitam assegurar a correta aplicação da legislação aduaneira, designadamente as informações relativas a atividades conhecidas ou previstas que constituam ou possam constituir infrações à legislação aduaneira.
 
@@ -12818,7 +13286,9 @@ c) Mercadorias que são ou podem ser transportadas em condições tais que haja 
 
 d) Meios de transporte que são ou podem ser utilizados em condições tais que haja motivos razoáveis para supor que se destinam a ser utilizados em infração à legislação aduaneira.
 
-###### Artigo 4.º — Assistência espontânea
+Artigo 4.º
+
+Assistência espontânea
 
 As Partes devem prestar-se assistência mútua, por sua própria iniciativa e em conformidade com as respetivas disposições legais, se considerarem que tal é necessário para a correta aplicação da legislação aduaneira, em especial facultando as informações obtidas relativamente a:
 
@@ -12832,7 +13302,9 @@ As Partes devem prestar-se assistência mútua, por sua própria iniciativa e em
 
 - Meios de transporte em relação aos quais haja motivos razoáveis para supor que foram, são ou podem ser utilizados em operações contrárias à legislação aduaneira.
 
-###### Artigo 5.º — Entrega, notificação
+Artigo 5.º
+
+Entrega, notificação
 
 A pedido da autoridade requerente, a autoridade requerida deve tomar todas as medidas necessárias, em conformidade com as disposições legais que lhe são aplicáveis, para:
 
@@ -12844,7 +13316,9 @@ emanantes da autoridade requerente e abrangidas pelo âmbito de aplicação do p
 
 Os pedidos de entrega de documentos ou de notificação de decisões devem ser feitos por escrito numa língua oficial da autoridade requerida ou numa língua aceite por essa autoridade.
 
-###### Artigo 6.º — Forma e conteúdo dos pedidos de assistência
+Artigo 6.º
+
+Forma e conteúdo dos pedidos de assistência
 
 1 - Os pedidos apresentados nos termos do presente Protocolo devem ser feitos por escrito. Devem ser apensos aos pedidos todos os documentos necessários para a respetiva execução. Sempre que o caráter urgente da questão o justifique, podem ser aceites pedidos orais, que, no entanto, devem ser imediatamente confirmados por escrito.
 
@@ -12866,7 +13340,9 @@ f) Resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - No caso de um pedido não satisfazer os requisitos formais acima estabelecidos, pode solicitar-se que seja corrigido ou completado; entretanto, podem ser ordenadas medidas cautelares.
 
-###### Artigo 7.º — Execução dos pedidos
+Artigo 7.º
+
+Execução dos pedidos
 
 1 - A fim de dar seguimento a um pedido de assistência, a autoridade requerida deve, a pedido da autoridade requerente, agir no âmbito das suas competências e em função dos recursos disponíveis, prestando as informações de que disponha, efetuando ou mandando efetuar os inquéritos administrativos adequados no que respeita às operações que constituem, ou para as autoridades requerentes parecem constituir, infrações da legislação aduaneira.
 
@@ -12880,7 +13356,9 @@ A autoridade requerida deve comunicar os resultados desses inquéritos administr
 
 4 - Por acordo entre a autoridade requerente e a autoridade requerida e nas condições definidas por esta última, os funcionários designados pela autoridade requerente podem estar presentes nos inquéritos administrativos referidos no n.º 1 e ter acesso às mesmas instalações e aos mesmos documentos que a autoridade requerida para obter informações relativas às atividades que constituem ou podem constituir operações contrárias à legislação aduaneira, de que a autoridade requerente necessite para efeitos do presente Protocolo.
 
-###### Artigo 8.º — Forma de comunicação das informações
+Artigo 8.º
+
+Forma de comunicação das informações
 
 1 - A autoridade requerida deve comunicar por escrito os resultados dos inquéritos à autoridade requerente, juntamente com os documentos, as cópias autenticadas ou outros instrumentos pertinentes.
 
@@ -12888,7 +13366,9 @@ A autoridade requerida deve comunicar os resultados desses inquéritos administr
 
 3 - Os originais dos documentos só devem ser transmitidos mediante pedido nos casos em que as cópias autenticadas não sejam suficientes. Os originais devem ser devolvidos com a maior brevidade possível.
 
-###### Artigo 9.º — Derrogações à obrigação de prestar assistência
+Artigo 9.º
+
+Derrogações à obrigação de prestar assistência
 
 1 - A assistência pode ser recusada ou condicionada ao cumprimento de determinadas condições ou requisitos nos casos em que, no âmbito do presente Protocolo, uma das Partes considerar que a assistência:
 
@@ -12904,7 +13384,9 @@ c) Viola segredos industriais, comerciais ou profissionais protegidos por lei.
 
 4 - Nos casos referidos nos n.os 1 e 2 do presente artigo, a decisão da autoridade requerida e as razões que a justificam devem ser comunicadas sem demora à autoridade requerente.
 
-###### Artigo 10.º — Troca de informações e confidencialidade
+Artigo 10.º
+
+Troca de informações e confidencialidade
 
 1 - As informações comunicadas, sob qualquer forma, nos termos do presente Protocolo têm caráter confidencial ou reservado, em conformidade com as regras aplicadas pelas Partes. As informações estão sujeitas à obrigação de segredo profissional e beneficiam da proteção prevista na legislação aplicável na matéria no território da Parte que as tenha recebido, bem como nas disposições correspondentes aplicáveis às autoridades da Parte UE.
 
@@ -12914,15 +13396,21 @@ c) Viola segredos industriais, comerciais ou profissionais protegidos por lei.
 
 4 - As informações obtidas devem ser utilizadas exclusivamente para fins do presente Protocolo. Se uma das Partes pretender utilizar essas informações para outros fins, deve obter a autorização prévia, por escrito, da autoridade que as forneceu. Nesse caso, as informações devem ser sujeitas então às restrições impostas por essa autoridade.
 
-###### Artigo 11.º — Peritos e testemunhas
+Artigo 11.º
+
+Peritos e testemunhas
 
 Um funcionário da autoridade requerida pode ser autorizado a comparecer, nos limites estabelecidos na autorização que lhe foi concedida, como perito ou testemunha em ações judiciais ou administrativas relativas a questões abrangidas pelo presente Protocolo, e a apresentar os objetos, documentos ou respetivas cópias autenticadas eventualmente necessários para esse efeito. O pedido de comparência deve indicar especificamente a autoridade judicial ou administrativa perante a qual esse funcionário deve comparecer e sobre que assunto, a que título ou em que qualidade será interrogado.
 
-###### Artigo 12.º — Despesas de assistência
+Artigo 12.º
+
+Despesas de assistência
 
 As Partes devem renunciar a exigir o reembolso de despesas incorridas no âmbito do presente Protocolo, exceto, se for caso disso, no que se refere às despesas com peritos e testemunhas, bem como com intérpretes e tradutores que não sejam funcionários da administração pública.
 
-###### Artigo 13.º — Implementação
+Artigo 13.º
+
+Implementação
 
 1 - A implementação do presente Protocolo deve ser confiada, por um lado, às autoridades aduaneiras centrais da Ucrânia e, por outro, aos serviços competentes da Comissão Europeia e, se for caso disso, às autoridades aduaneiras dos Estados membros da União Europeia. Estas autoridades devem decidir sobre todas as medidas e disposições práticas necessárias para a sua aplicação, tendo em conta as normas em vigor, designadamente em matéria de proteção de dados. Podem recomendar às instâncias competentes as alterações do presente Protocolo que considerem necessárias.
 
@@ -12930,7 +13418,9 @@ As Partes devem renunciar a exigir o reembolso de despesas incorridas no âmbito
 
 3 - As Partes devem consultar-se e manter-se mutuamente informadas sobre as normas de implementação adotadas em conformidade com as disposições do presente Protocolo.
 
-###### Artigo 14.º — Outros acordos
+Artigo 14.º
+
+Outros acordos
 
 1 - Tendo em conta as respetivas competências da União Europeia e dos Estados membros, e sem prejuízo do disposto no n.º 2 do presente artigo, as disposições do presente Protocolo:
 
@@ -12944,7 +13434,9 @@ As Partes devem renunciar a exigir o reembolso de despesas incorridas no âmbito
 
 2 - As disposições do presente Protocolo devem prevalecer sobre as disposições de quaisquer acordos bilaterais em matéria de assistência mútua que tenham sido ou possam ser concluídos entre os Estados membros e a Ucrânia, na medida em que as disposições destes últimos sejam incompatíveis com as do presente Protocolo.
 
-###### Artigo 15.º — Consultas
+Artigo 15.º
+
+Consultas
 
 No que respeita a questões relacionadas com a aplicabilidade do presente Protocolo, as Partes devem consultar-se mutuamente a fim de as resolver no âmbito do Subcomité das Alfândegas, estabelecido ao abrigo do artigo 83.º do capítulo 5 (Alfândegas e facilitação do comércio) do título iv do presente Acordo.
 
@@ -12952,35 +13444,35 @@ Protocolo III sobre um acordo-quadro entre a União Europeia e a Ucrânia relati
 
 As Partes acordam no seguinte:
 
-###### Artigo 1.º
+Artigo 1.º
 
 A Ucrânia fica autorizada a participar em todos os programas da União atuais e futuros abertos à participação da Ucrânia, em conformidade com as disposições pertinentes relativas à adoção desses programas.
 
-###### Artigo 2.º
+Artigo 2.º
 
 A Ucrânia contribui financeiramente para o Orçamento Geral da União em função dos programas específicos em que participar.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os representantes da Ucrânia ficam autorizados a participar, na qualidade de observadores e em relação aos pontos que digam respeito à Ucrânia, nos comités de gestão encarregados do controlo dos programas para os quais a Ucrânia contribui financeiramente.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Os projetos e as iniciativas apresentados por participantes da Ucrânia ficam, na medida do possível, sujeitos a condições, normas e procedimentos idênticos aos aplicados aos Estados membros no âmbito dos programas em causa.
 
-###### Artigo 5.º
+Artigo 5.º
 
 As modalidades e condições específicas aplicáveis à participação da Ucrânia em cada programa específico, em especial a contribuição financeira a pagar e os procedimentos de notificação e de avaliação, são determinadas num Memorando de Entendimento entre a Comissão e as autoridades competentes da Ucrânia com base nos critérios estabelecidos pelos programas em causa.
 
 Se a Ucrânia solicitar a assistência externa da União para participar num determinado programa da União ao abrigo do artigo 3.º do [Regulamento (CE) n.º 1638/2006](https://diariodarepublica.pt/application/external/eurolex?06R1638) do Parlamento Europeu e do Conselho, de 24 de outubro de 2006, que estabelece disposições gerais relativas à criação do Instrumento Europeu de Vizinhança e Parceria ou nos termos de qualquer regulamento similar relativo à prestação de assistência externa da União à Ucrânia suscetível de ser adotado no futuro, as condições que regem a utilização pela Ucrânia da assistência externa da União devem ser determinadas através de uma convenção de financiamento, que respeite, nomeadamente, o artigo 20.º do [Regulamento (CE) n.º 1638/2006](https://diariodarepublica.pt/application/external/eurolex?06R1638).
 
-###### Artigo 6.º
+Artigo 6.º
 
 Nos termos do Regulamento (CE, Euratom) n.º [1605/2002](https://diariodarepublica.pt/application/external/eurolex?02R1605) do Conselho, de 25 de junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias, os Memorandos de Entendimento celebrados nos termos do artigo 5.º devem estipular que o controlo financeiro, as auditorias ou outras verificações, incluindo os inquéritos administrativos, são realizados pela Comissão, pelo Tribunal de Contas e pelo Organismo Europeu de Luta Antifraude, ou sob a sua autoridade.
 
 Devem ser elaboradas disposições pormenorizadas em matéria de controlo financeiro e auditoria, medidas administrativas, sanções e cobrança que permitam atribuir à Comissão Europeia, ao Organismo Europeu de Luta Antifraude e ao Tribunal de Contas poderes equivalentes aos poderes de que dispõem em relação aos beneficiários ou contratantes estabelecidos na União.
 
-###### Artigo 7.º
+Artigo 7.º
 
 O presente Protocolo é aplicável durante o período de vigência deste Acordo.
 
@@ -12988,7 +13480,7 @@ Qualquer das Partes pode denunciar o presente Protocolo mediante notificação p
 
 A cessação de vigência do Protocolo na sequência da denúncia por qualquer das Partes não tem influência nas verificações e controlos a realizar, sempre que adequado, nos termos das disposições estabelecidas nos artigos 5.º e 6.º
 
-###### Artigo 8.º
+Artigo 8.º
 
 No prazo de três anos a contar da data de entrada em vigor do presente Protocolo e, em seguida, de três em três anos, as Partes Contratantes podem rever a execução do presente Protocolo com base na participação efetiva da Ucrânia nos programas da União.
 
@@ -13022,7 +13514,7 @@ Os Signatários acordam em que o n.º 4 do artigo 486.º, referente à aplicaç�
 
 Feito em Bruxelas, em 21 de março de 2014.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
 
 Ata final entre a União Europeia e a Comunidade Europeia da Energia Atómica e os seus Estados membros, por um lado, e a Ucrânia, por outro, no que se refere ao Acordo de Associação.
 
@@ -13046,4 +13538,4 @@ Os Signatários acordam em que o Acordo é aplicável à totalidade do territór
 
 Feito em Bruxelas, aos vinte e sete de junho, no ano de dois mil e catorze.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07901/0000201516.pdf)

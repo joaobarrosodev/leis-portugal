@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13100/0472004722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/80/2015/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/80-2015-69736261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe7a85956b46ef49bdcb34e1d7451554e362e4f7ecf955e46eb2e19155175795
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea390a3e241c6717277c5d2af8724265d400e3cb887a98aa5bbd99226a8a7fe3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,37 @@ reuse:
 subjects:
 - Águas Balneares
 - Assistência Técnica
-- Ministério da Defesa Nacional
-- Mar
+- Autoridade Marítima Nacional
 - Convenção
 - Cooperação
 - Cooperação Bilateral
+- Direção Geral de Política de Defesa Nacional
+- Espaço Marítimo
+- Maputo
+- Mar
+- Mar Territorial
+- Meio Aquático
+- Ministério da Defesa Nacional
 - Moçambique
 - Portugal
-- Autoridade Marítima Nacional
-- Direção Geral de Política de Defesa Nacional
-- Mar Territorial
-- Maputo
-- Espaço Marítimo
-- Meio Aquático
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:69736256:por
+  label: Ratificado o Acordo de Cooperação entre a República Portuguesa e a República de Moçambique no Domínio da Autoridade
+    e Segurança Aquática pelo(a) Decreto do Presidente da República n.º 53/2015 - Diário da República n.º 131/2015, Série
+    I de 2015-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/53-2015-69736256
+  date: '2015-07-08'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:37Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +111,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de abril de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MOÇAMBIQUE NO DOMÍNIO DA AUTORIDADE E SEGURANÇA AQUÁTICA
 

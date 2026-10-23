@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/111/1993/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-1993-599876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d921fb52127dc4780f68c4c7e828858c15030719955d8db5a83c9f5a4bd4e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b46c067a739be13ed35e28dc8fd572b046fa2eda396c43d7a72811c2d6a94873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Política de Solos
-- Plano de Urbanização
 - Câmara Municipal
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
 - Regulamento
 - Sintra
 relationships:
@@ -76,16 +76,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:1165926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:30Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +128,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 16 de Dezembro de 1992.**
+Assinada em 16 de Dezembro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Regulamento do Plano Parcial da Rinchoa Poente
 
@@ -118,19 +138,19 @@ Regulamento do Plano Parcial da Rinchoa Poente
 
 #### SECÇÃO I — Área de intervenção do Plano
 
-###### Artigo 1.º Considera-se abrangida pelo Plano Parcial da Rinchoa Poente a área contida no perímetro definido na planta de síntese, cujos limites são, a norte, a estrada municipal n.º 607-1, a nascente, a estrada municipal n.º 607, e a sul e a poente, a linha de caminho de ferro Lisboa-Sintra.
+Artigo 1.º Considera-se abrangida pelo Plano Parcial da Rinchoa Poente a área contida no perímetro definido na planta de síntese, cujos limites são, a norte, a estrada municipal n.º 607-1, a nascente, a estrada municipal n.º 607, e a sul e a poente, a linha de caminho de ferro Lisboa-Sintra.
 
-###### Art. 2.º Quaisquer obras de iniciativa pública ou privada que se realizem na área de intervenção definida no artigo 1.º respeitarão as disposições do presente Regulamento e respectiva planta de síntese, sem prejuízo da legislação em vigor.
+Art. 2.º Quaisquer obras de iniciativa pública ou privada que se realizem na área de intervenção definida no artigo 1.º respeitarão as disposições do presente Regulamento e respectiva planta de síntese, sem prejuízo da legislação em vigor.
 
 #### SECÇÃO II — Validade do Plano
 
-###### Art. 3.º O Plano Parcial da Rinchoa Poente tem o prazo de vigência de cinco anos a contar da data da publicação de planta de síntese e respectivo Regulamento no Diário da República, após o que deverá ser iniciado o processo de revisão.
+Art. 3.º O Plano Parcial da Rinchoa Poente tem o prazo de vigência de cinco anos a contar da data da publicação de planta de síntese e respectivo Regulamento no Diário da República, após o que deverá ser iniciado o processo de revisão.
 
-###### Art. 4.º No caso de não se verificar o início do processo de revisão no final do prazo estipulado, o Plano Parcial da Rinchoa Poente manterá, no entanto, a sua validade até que se inicie aquele processo, de acordo com o [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251).
+Art. 4.º No caso de não se verificar o início do processo de revisão no final do prazo estipulado, o Plano Parcial da Rinchoa Poente manterá, no entanto, a sua validade até que se inicie aquele processo, de acordo com o [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251).
 
 #### SECÇÃO III — Índices de edificabilidade e volume de construção (definição dos conceitos)
 
-###### Art. 5.º Para efeitos do presente Regulamento, definem-se em seguida os seguintes conceitos:
+Art. 5.º Para efeitos do presente Regulamento, definem-se em seguida os seguintes conceitos:
 
 Taxa de utilização - taxa (ou índice) de aproveitamento ou de utilização que estabelece uma proporção entre a área construída (acima do solo) e a área do terreno, ou seja:
 
@@ -160,15 +180,15 @@ População total prevista no Plano/Superfície do plano
 
 #### SECÇÃO I — Obrigatoriedade de construção
 
-###### Art. 6.º Quando os proprietários de lotes de terreno próprios para construção forem notificados para proceder ao seu aproveitamento e o não fizerem, sem motivo legítimo, no prazo de 18 meses a contar da data da notificação, poderão os lotes de terreno em causa vir a ser expropriados por utilidade pública, de acordo com o [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292).
+Art. 6.º Quando os proprietários de lotes de terreno próprios para construção forem notificados para proceder ao seu aproveitamento e o não fizerem, sem motivo legítimo, no prazo de 18 meses a contar da data da notificação, poderão os lotes de terreno em causa vir a ser expropriados por utilidade pública, de acordo com o [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292).
 
 #### SECÇÃO II — Apresentação dos projectos
 
-###### Art. 7.º Os processos de licenciamento referentes aos novos imóveis situados nas zonas urbanas definidas neste Plano Parcial deverão obrigatoriamente ter como responsável um arquitecto.
+Art. 7.º Os processos de licenciamento referentes aos novos imóveis situados nas zonas urbanas definidas neste Plano Parcial deverão obrigatoriamente ter como responsável um arquitecto.
 
-###### Art. 8.º As soluções arquitectónicas adoptadas deverão ter em conta a integração das novas edificações no conjunto edificado envolvente. Nos acabamentos exteriores, sempre que sejam previstos materiais cerâmicos (azulejo), de grés ou mosaico vidrado com diferentes cores ou tonalidades, estes só poderão ser utilizados após a apresentação e a aprovação de amostras dos materiais por parte dos serviços técnicos competentes da Câmara Municipal de Sintra.
+Art. 8.º As soluções arquitectónicas adoptadas deverão ter em conta a integração das novas edificações no conjunto edificado envolvente. Nos acabamentos exteriores, sempre que sejam previstos materiais cerâmicos (azulejo), de grés ou mosaico vidrado com diferentes cores ou tonalidades, estes só poderão ser utilizados após a apresentação e a aprovação de amostras dos materiais por parte dos serviços técnicos competentes da Câmara Municipal de Sintra.
 
-###### Art. 9.º Os novos loteamentos que venham a ser efectuados em área abrangida pelo Plano Parcial da Rinchoa Poente deverão obedecer:
+Art. 9.º Os novos loteamentos que venham a ser efectuados em área abrangida pelo Plano Parcial da Rinchoa Poente deverão obedecer:
 
 Aos índices urbanísticos definidos por zonas na planta de síntese do Plano e respectivo quadro. A taxa de utilização máxima e o máximo número de pisos deverão ser observados obrigatoriamente, enquanto a densidade residencial terá de ser próxima da prevista;
 
@@ -178,15 +198,15 @@ A realização de estudos de conjunto será considerada obrigatória a partir de
 
 ### CAPÍTULO III — Áreas para equipamentos e zonas verdes
 
-###### Art. 10.º Consideram-se abrangidas por estas designações as áreas como tal definidas na planta de síntese, as quais deverão manter-se no seu uso actual até que ocorra a necessária intervenção da Câmara Municipal.
+Art. 10.º Consideram-se abrangidas por estas designações as áreas como tal definidas na planta de síntese, as quais deverão manter-se no seu uso actual até que ocorra a necessária intervenção da Câmara Municipal.
 
-###### Art. 11.º A Câmara Municipal promoverá a obtenção dos terrenos destinados àquelas finalidades com recurso aos dispositivos legais em vigor.
+Art. 11.º A Câmara Municipal promoverá a obtenção dos terrenos destinados àquelas finalidades com recurso aos dispositivos legais em vigor.
 
 ### CAPÍTULO IV — Rede viária e restantes infra-estruturas
 
-###### Art. 12.º Em toda a área do Plano só poderão ser abertos novos arruamentos ou consolidados os existentes de acordo com o especificado neste Plano ou em estudos de pormenor que venham a ser elaborados.
+Art. 12.º Em toda a área do Plano só poderão ser abertos novos arruamentos ou consolidados os existentes de acordo com o especificado neste Plano ou em estudos de pormenor que venham a ser elaborados.
 
-###### Art. 13.º As plataformas das vias previstas devem obedecer às prescrições no Plano, ou seja:
+Art. 13.º As plataformas das vias previstas devem obedecer às prescrições no Plano, ou seja:
 
 a) Vias principais:
 
@@ -200,10 +220,10 @@ Largura da faixa de rodagem - 6 m a 7 m;
 
 Largura dos passeios - 2 m para cada lado da plataforma.
 
-###### Art. 14.º Os condicionalismos definidos no artigo anterior para os eixos viários principais conduzem, em áreas já edificadas, onde aqueles eixos se apresentem com larguras inferiores ao Regulamento, à definição de novos alinhamentos, a qual deverá ser implementada quando ocorrerem operações de renovação urbana ou operações de reconstrução e renovação dos edifícios actualmente existentes.
+Art. 14.º Os condicionalismos definidos no artigo anterior para os eixos viários principais conduzem, em áreas já edificadas, onde aqueles eixos se apresentem com larguras inferiores ao Regulamento, à definição de novos alinhamentos, a qual deverá ser implementada quando ocorrerem operações de renovação urbana ou operações de reconstrução e renovação dos edifícios actualmente existentes.
 
-###### Art. 15.º Consideram-se áreas non aedificandi aquelas que estão sujeitas a serviços administrativos regulamentadas como tal, designadamente as faixas com largura de 10 m para cada lado das margens das linhas de água.
+Art. 15.º Consideram-se áreas non aedificandi aquelas que estão sujeitas a serviços administrativos regulamentadas como tal, designadamente as faixas com largura de 10 m para cada lado das margens das linhas de água.
 
-###### Art. 16.º É rigorosamente interdito o lançamento de esgotos residuais sem tratamento nas linhas de água. Caso se verifique a necessidade de instalar redes de colectores de águas residuais domésticas provisórias antecedendo a concretização das obras previstas no Plano, devem tais redes possuir sistemas próprios de tratamento das águas residuais.
+Art. 16.º É rigorosamente interdito o lançamento de esgotos residuais sem tratamento nas linhas de água. Caso se verifique a necessidade de instalar redes de colectores de águas residuais domésticas provisórias antecedendo a concretização das obras previstas no Plano, devem tais redes possuir sistemas próprios de tratamento das águas residuais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/025b00/04100412.pdf))](https://files.diariodarepublica.pt/1s/1993/01/025b00/04100412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/025b00/04100412.pdf)

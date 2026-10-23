@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13100/0471304720.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/79/2015/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/79-2015-69736260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e441ffa320c096a090f1b18c4c3e9ec0224451267ac410a9758903f7d6a683bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ed6f91afc4212ba05e638166bc9c95dd05bfad989a32c4c1b2a8cdfbd996bb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,26 @@ subjects:
 - Convenção
 - Cooperação
 - Portugal
-- ZONA Marítima
 - Segurança Marítima
 - Turquia
-relationships: []
+- ZONA Marítima
+relationships:
+- type: amended_by
+  target: pt:dre:69736255:por
+  label: Ratificado o Acordo de Cooperação Marítima entre a República Portuguesa e o Governo da República da Turquia pelo(a)
+    Decreto do Presidente da República n.º 52/2015 - Diário da República n.º 131/2015, Série I de 2015-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/52-2015-69736255
+  date: '2015-07-08'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:36Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 24 de abril de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO DE COOPERAÇÃO MARÍTIMA ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA TURQUIA
 
@@ -286,7 +292,7 @@ Este Acordo deverá entrar em vigor trinta (30) dias após a data de receção d
 
 Aquando da entrada em vigor deste Acordo, a Parte em cujo território for assinado deverá transmiti-lo ao Secretariado das Nações Unidas para efeitos de registo, em conformidade com o artigo 102.º da Carta das Nações Unidas, e deverá notificar a outra Parte da conclusão deste procedimento, bem como do respetivo número de registo.
 
-**Assinado em Ancara, no dia 23 de outubro de 2014, em dois originais, nas línguas portuguesa, turca e inglesa, todos os textos sendo igualmente válidos. Em caso de divergência na interpretação, a versão inglesa prevalecerá.**
+Assinado em Ancara, no dia 23 de outubro de 2014, em dois originais, nas línguas portuguesa, turca e inglesa, todos os textos sendo igualmente válidos. Em caso de divergência na interpretação, a versão inglesa prevalecerá.
 
 Pela República Portuguesa:
 
@@ -296,7 +302,7 @@ Pelo Governo da República Turca:
 
 Lütfi Elvan, Ministro dos Transportes, Assuntos Marítimos e Comunicações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13100/0471304720.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13100/0471304720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13100/0471304720.pdf)
 
 MARITIME CO-OPERATION AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY
 

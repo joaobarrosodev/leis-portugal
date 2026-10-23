@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/809/1992/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-1992-282095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f1e47206e6d1b0745c194a9b4e916d40ffd0763e25f522378810804d56d400d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7a819970274b8a9913805018c404a55974de33977c9afbde60f680f791540e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,28 @@ subjects:
 - Taxa
 - ZONA de CAÇA
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO 141/92, PUBLICADA NO DR.IS-B, 200, 2 SUPL, DE 920831.\0831.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/port/842/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/842/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:674621:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:08Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +126,7 @@ c) Caça de montaria ao javali e veado, consoante a pontuação do troféu do ve
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Julho de 1992.**
+Assinada em 23 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -256,11 +264,11 @@ As taxas suplementares são as seguintes:
 
 Caça à espera ao javali:
 
-# Parte exposta das navalhas de 4 cm a 6,5 cm - 15000$00;
+Parte exposta das navalhas de 4 cm a 6,5 cm - 15000$00;
 
-# Parte exposta das navalhas de 6,6 cm a 7,8 cm - 25000$00;
+Parte exposta das navalhas de 6,6 cm a 7,8 cm - 25000$00;
 
-# Parte exposta das navalhas superior a 7,8 cm - 40000$00;
+Parte exposta das navalhas superior a 7,8 cm - 40000$00;
 
 Caça de aproximação ao gamo - troféu:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/53/2014/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-2014-25676903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef5211d911bd4c28d770fceb20e759042576ff8cec66d0473475657c43089608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f15bb03a54e5783964145e33f5158774beca5e901ddeb87d9159ea93a2db7b0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Madrid
+- Portugal
 - Proteção do Ambiente
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:25676900:por
+  label: "Ratificado o Protocolo ao Tratado para a Antártida sobre a Proteção do Meio Ambiente pelo DEC.45/2014.19.06.2014.PR,\
+    \ DR.IS [116] de 19.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/45-2014-25676900
+  date: '2014-06-19'
 article_structure:
   article_count: 97
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:38Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de maio de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 PROTOCOL ON ENVIRONMENTAL PROTECTION TO THE ANTARCTIC TREATY
 
@@ -1899,7 +1905,7 @@ Todas as decisões do Tribunal Arbitral, incluindo as referidas nos artigos 5.º
 
 2 - Qualquer emenda ou modificação do presente anexo que entre em vigor de acordo com o número anterior deverá entrar em vigor para qualquer outra Parte quando o Depositário tiver recebido a notificação da sua aprovação.
 
-## ANEXO I AO PROTOCOLO AO TRATADO PARA A ANTÁRTIDA SOBRE A PROTEÇÃO AO MEIO AMBIENTE
+ANEXO I AO PROTOCOLO AO TRATADO PARA A ANTÁRTIDA SOBRE A PROTEÇÃO AO MEIO AMBIENTE
 
 Avaliação de impacte ambiental
 
@@ -1997,7 +2003,7 @@ d) A informação referida no artigo 3.º, n.º 6.
 
 2 - Qualquer emenda ou modificação do presente anexo, que entre em vigor nos termos do número anterior, deve entrar em vigor para qualquer outra Parte quando a notificação da sua aprovação for recebida pelo Depositário.
 
-## ANEXO II AO PROTOCOLO AO TRATADO PARA A ANTÁRTIDA SOBRE A PROTEÇÃO AO MEIO AMBIENTE
+ANEXO II AO PROTOCOLO AO TRATADO PARA A ANTÁRTIDA SOBRE A PROTEÇÃO AO MEIO AMBIENTE
 
 Conservação da fauna e flora antárticas
 
@@ -2119,13 +2125,13 @@ As Partes devem manter sob revisão contínua as medidas para a conservação da
 
 APÊNDICES AO ANEXO
 
-## Apêndice A
+Apêndice A
 
 Espécies especialmente protegidas
 
 Ommatophoca rossii, Foca de Ross.
 
-## Apêndice B
+Apêndice B
 
 Importação de animais e plantas
 
@@ -2135,7 +2141,7 @@ a) Plantas domésticas; e
 
 b) Animais e plantas de laboratório, incluindo vírus, bactérias, leveduras e fungos.
 
-## Apêndice C
+Apêndice C
 
 Precauções para prevenir a introdução de microrganismos
 
@@ -2143,7 +2149,7 @@ Precauções para prevenir a introdução de microrganismos
 
 2 - Deve ser evitada ao máximo a importação de solo não estéril.
 
-## ANEXO III AO PROTOCOLO AO TRATADO PARA A ANTÁRTIDA SOBRE A PROTEÇÃO AO MEIO AMBIENTE
+ANEXO III AO PROTOCOLO AO TRATADO PARA A ANTÁRTIDA SOBRE A PROTEÇÃO AO MEIO AMBIENTE
 
 Eliminação de resíduos e gestão de resíduos
 
@@ -2289,7 +2295,7 @@ O presente anexo deve ser sujeito a revisões regulares de forma a assegurar que
 
 2 - Qualquer emenda ou modificação do presente anexo, que entre em vigor nos termos do número anterior, deve entrar em vigor para qualquer outra Parte quando a notificação da sua aprovação for recebida pelo Depositário.
 
-## ANEXO IV AO PROTOCOLO AO TRATADO PARA A ANTÁRTIDA SOBRE A PROTEÇÃO AO MEIO AMBIENTE
+ANEXO IV AO PROTOCOLO AO TRATADO PARA A ANTÁRTIDA SOBRE A PROTEÇÃO AO MEIO AMBIENTE
 
 Prevenção da poluição marinha
 

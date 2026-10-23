@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/900/1992/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/900-1992-238873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da57429b9e4fd78922e1a042b69b58d3ae898df95630865ed82ebe0adf097f69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76b06679aa817beb665547494edc8ab47371423e74bbcfb8bf697678c99d4d68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Formação Profissional
-- Plano de Estudos
 - Curso de Técnico de Electrónica
+- Formação Profissional
 - Indústria Electrónica
+- Plano de Estudos
 - Política de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:430185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430185:por
+  label: "Revogada, a partir da publicação da PORT.1349/2003.06.12.2003.ME, DR.IS-B [282] de 06.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1349-2003-430185
+  date: '2003-12-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:19Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +119,9 @@ Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Soci
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 13 de Agosto de 1992.**
+Assinada em 13 de Agosto de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.**
+O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.
 
 Normas regulamentares da aprendizagem nas profissões da área da electrónica, anexas à Portaria n.º 900/92
 
@@ -336,7 +353,7 @@ XIII - Disposições finais a transitórias
 
 ## ANEXO I — Organograma do sistema de aprendizagem - Electrónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf))](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
 
 Curso de técnico de electrónica
 
@@ -344,7 +361,7 @@ Plano curricular
 
 (Distribuição horária mínima)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf))](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
 
 § 1.º Não se incluem na presente portaria os conteúdos programáticos dos cursos de especialização de um ano de duração, que são saídas profissionais classificadas de técnicos fabris, uma vez que, através dos cursos sequenciais da aprendizagem, haverão de decorrer alguns anos antes que se apresentem candidatos, anos esses que vão fatalmente contemplar evoluções técnicas susceptíveis de desactualizarem os referidos conteúdos.
 
@@ -354,7 +371,7 @@ Curso de especialização
 
 Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf))](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
 
 Conteúdos programáticos
 
@@ -362,10 +379,10 @@ Técnico de electrónica
 
 (1.º, 2.º e 3.º anos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf))](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
 
 ## ANEXO II — Área profissional electrónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf))](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/216b00/44564461.pdf)
 
 Proposta elaborada pelo Centro de Formação Profissional da Indústria Electrónica - CINEL.

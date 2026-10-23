@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/242b00/48924894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/986/1992/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/986-1992-220733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 238c00a83e49c751522589161282b7d6163f3fae5efb55ae0a5b7b6c698fa919
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c36527ba6896718e99c0817bcb640c8fd989b95f1460049dd9989c85df13a8c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,50 @@ subjects:
 - Alcoolismo
 - Código da Estrada
 - Fiscalização Rodoviária
-- Veículo
 - Segurança Rodoviária
 - Taxa de Alcoolemia
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:229115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:332003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:237452:por
+  label: "Rectificado o n.º 4.º pela DECL-RECT.211/92.31.12.1992.PCM, DR.IS-B [301]9ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/211-1992-237452
+  date: '1992-12-31'
+- type: repealed_by
+  target: pt:dre:229115:por
+  label: "Revogada pelo DR.24/98.1998.10.30.MAI, DR.IS-B [251]7\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1998-229115
+  date: '1998-10-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:24Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +216,7 @@ Laboratório de Análises Fármaco-Toxicológicas.
 
 Ministérios da Administração Interna, da Justiça, das Obras Públicas, Transportes e Comunicações e da Saúde.
 
-**Assinada em 18 de Setembro de 1992.**
+Assinada em 18 de Setembro de 1992.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto de Ministro da Saúde.
 

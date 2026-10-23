@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/245b00/58675868.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1052/1993/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1052-1993-668677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8217d312d0e9f866e207393902cc36185b0b0059c417b2b0f21c51b87b8eb45e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 598a6cba11e369281c7bb407766010d39aed4c5e83942e3318fe0249535c6569
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Gestão Autárquica
 - Escola Superior de Gestão
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 relationships:
 - type: amended_by
   target: pt:dre:388592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165849:por
+  label: "Alterado o plano de estudos aprovado pelo presente diploma, alterado pela Port 1475/95, de 22-Dez, pela PORT.647/96.1996.11.11.ME,\
+    \ DR.IS-B [261]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1996-165849
+  date: '1996-11-11'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:643360:por
+  label: "Revogado o nº 2º pela PORT.1475/95.22.12.1995.ME, DR.IS-B [294] de 22.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1475-1995-643360
+  date: '1995-12-22'
+- type: repealed_by
+  target: pt:dre:388592:por
+  label: "Revogada, findo o prazo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98 de\
+    \ 17-Jul, pela PORT.448/99.1999.06.19.ME,DR.IS.B [141].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-1999-388592
+  date: '1999-06-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:00Z'
   warnings: []
   errors: []
 ---
@@ -141,8 +166,8 @@ O curso entrará em funcionamento progressivamente, um ano curricular em cada an
 
 Ministério da Educação.
 
-**Assinada em 29 de Setembro de 1993.**
+Assinada em 29 de Setembro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/245b00/58675868.pdf))](https://files.diariodarepublica.pt/1s/1993/10/245b00/58675868.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/245b00/58675868.pdf)

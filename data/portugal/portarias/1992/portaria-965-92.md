@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/234b00/47404744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/965/1992/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/965-1992-226068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca7ce1681a1bb6c2c4a6f74452806668e6f9642089477f0afbb77b3633b575e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b245a5504a5387838a7ac1b70fd7f37a99e700d5ed9667f85c20d62e4ee08e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
 - Alimento para Animais
+- Gestão de Resíduos
 - Regulamento
 - Resíduo Agrícola
 relationships:
@@ -87,16 +87,21 @@ relationships:
   target: celex:31990L0667
   label: null
   source: http://data.europa.eu/eli/dir/1990/667/oj
+- type: repealed_by
+  target: pt:dre:357771:por
+  label: "Revogada pelo DEC LEI.122/2006.27.06.2006.MADRP, DR.IS-A [122] de 27.06.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2006-357771
+  date: '2006-06-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:50Z'
   warnings: []
   errors: []
 ---
@@ -113,17 +118,17 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 2.º do Decre
 
 Ministério da Agricultura.
 
-**Assinada em 9 de Setembro de 1992.**
+Assinada em 9 de Setembro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 965/92, de 10 de Outubro
+Anexo a que se refere a Portaria n.º 965/92, de 10 de Outubro
 
 Regulamento para a Eliminação e Transformação de Subprodutos de Origem Animal e Colocação no Mercado dos Seus Produtos Finais
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O presente Regulamento estabelece as normas hígio-sanitárias relativas a:
+Artigo 1.º - 1 - O presente Regulamento estabelece as normas hígio-sanitárias relativas a:
 
 a) Eliminação e ou transformação de produtos animais, visando a destruição de quaisquer agentes patogénicos que neles possam estar presentes;
 
@@ -139,7 +144,7 @@ a) A erradicação e controlo de certas doenças e a utilização das sobras de 
 
 b) A produção de alimentos compostos para animais que contenham componentes de origem animal e vegetal e de alimentos para animais que contenham somente substâncias de origem vegetal.
 
-###### Art. 2.º Para efeitos do presente diploma, entende-se por:
+Art. 2.º Para efeitos do presente diploma, entende-se por:
 
 a) Subprodutos de origem animal - as carcaças, ou partes de carcaças, de animais ou de peixe ou os produtos de origem animal não destinados ao consumo humano directo, com excepção dos excrementos animais e das sobras de cozinha e de mesa;
 
@@ -191,7 +196,7 @@ i) Autoridade competente - a Direcção-Geral da Pecuária, abreviadamente desig
 
 #### SECÇÃO I — Matérias do alto risco
 
-###### Art. 3.º - 1 - As matérias de alto risco devem ser transformadas numa instalação de alto risco, aprovada nos termos do n.º 1 do artigo seguinte, ou destruídas por incineração ou enterramento, de acordo com o número seguinte.
+Art. 3.º - 1 - As matérias de alto risco devem ser transformadas numa instalação de alto risco, aprovada nos termos do n.º 1 do artigo seguinte, ou destruídas por incineração ou enterramento, de acordo com o número seguinte.
 
 2 - A DGP pode, se necessário, ordenar a destruição de matérias de alto risco por incineração ou enterramento nos seguintes casos:
 
@@ -207,7 +212,7 @@ e) A quantidade e a distância a percorrer não justificarem a recolha dos subpr
 
 3 - O enterramento dos animais deve ser efectuado a uma profundidade suficiente para impedir que os animais carnívoros cheguem aos cadáveres, ou detritos, e num terreno apropriado, a fim de evitar a contaminação dos lençóis freáticos ou qualquer prejuízo para o ambiente, devendo os cadáveres ou detritos ser aspergidos antes do enterramento com um desinfectante adequado, autorizado pela DGP.
 
-###### Art. 4.º - 1 - Para poderem ser aprovadas, as instalações de transformação de matérias de alto risco devem:
+Art. 4.º - 1 - Para poderem ser aprovadas, as instalações de transformação de matérias de alto risco devem:
 
 a) Preencher as condições exigidas no capítulo I do anexo I ao presente Regulamento;
 
@@ -223,7 +228,7 @@ d) Garantir que os produtos de transformação satisfazem as condições exigida
 
 #### SECÇÃO II — Matérias de baixo risco
 
-###### Art. 5.º - 1 - As matérias de baixo risco devem ser transformadas numa instalação de transformação de alto ou baixo risco, numa fábrica de alimentos para animais de estimação ou numa fábrica de produtos técnicos ou farmacêuticos ou ser destruídas por incineração ou enterramento em conformidade com o n.os 2 e 3 do artigo 3.º
+Art. 5.º - 1 - As matérias de baixo risco devem ser transformadas numa instalação de transformação de alto ou baixo risco, numa fábrica de alimentos para animais de estimação ou numa fábrica de produtos técnicos ou farmacêuticos ou ser destruídas por incineração ou enterramento em conformidade com o n.os 2 e 3 do artigo 3.º
 
 2 - Quando as matérias de baixo risco forem transformadas numa instalação de produção de alimentos para animais de estimação ou numa fábrica de produtos técnicos ou farmacêuticos, a DGP pode impor as condições específicas para que o encaminhamento, a armazenagem e o tratamento dessas matérias se efectue em local próprio.
 
@@ -251,11 +256,11 @@ c) Possuir equipamentos adequados para destruir os subprodutos resultantes do pr
 
 d) Ser inspeccionados regularmente pela DGP, a fim de verificar se cumprem as condições exigidas pelo presente Regulamento.
 
-###### Art. 6.º Na preparação de alimentos para animais de estimação, o tratamento a que certos produtos de origem animal, incluindo o peixe, devem ser submetidos, bem como as condições de fabrico desses produtos, serão determinados de acordo com a legislação em vigor, na medida em que tal se revele necessário para a protecção dos animais de estimação ou por razões de higiene ou de saúde pública.
+Art. 6.º Na preparação de alimentos para animais de estimação, o tratamento a que certos produtos de origem animal, incluindo o peixe, devem ser submetidos, bem como as condições de fabrico desses produtos, serão determinados de acordo com a legislação em vigor, na medida em que tal se revele necessário para a protecção dos animais de estimação ou por razões de higiene ou de saúde pública.
 
 #### SECÇÃO III — Derrogações
 
-###### Art. 7.º - 1 - Em casos especiais e sob o controlo veterinário da DGP, podem ser autorizadas:
+Art. 7.º - 1 - Em casos especiais e sob o controlo veterinário da DGP, podem ser autorizadas:
 
 a) A utilização de subprodutos de origem animal para fins científicos;
 
@@ -269,11 +274,11 @@ c) A distribuição local, por intermediários já aprovados, de pequenas quanti
 
 #### SECÇÃO IV — Normas para a recolha, transporte e identificação de subprodutos de origem animal
 
-###### Art. 8.º As condições de recolha, transporte e identificação de subprodutos de origem animal constam do anexo II a este Regulamento.
+Art. 8.º As condições de recolha, transporte e identificação de subprodutos de origem animal constam do anexo II a este Regulamento.
 
 ### CAPÍTULO III — Controlos e inspecções a efectuar nas instalações de transformação de alto e baixo risco
 
-###### Art. 9.º - 1 - Os proprietários ou responsáveis por instalações de transformação de alto ou baixo risco devem tomar as medidas necessárias para dar cumprimento às exigências contidas no presente Regulamento, nomeadamente:
+Art. 9.º - 1 - Os proprietários ou responsáveis por instalações de transformação de alto ou baixo risco devem tomar as medidas necessárias para dar cumprimento às exigências contidas no presente Regulamento, nomeadamente:
 
 a) Identificar e controlar os pontos sensíveis das respectivas instalações de transformação de alto ou baixo risco;
 
@@ -293,7 +298,7 @@ c) Assegurar-se de que as matérias contaminadas ou suspeitas não sejam removid
 
 3 - As regras de aplicação deste artigo serão objecto de portaria do Ministro da Agricultura.
 
-###### Art. 10.º - 1 - A DGP deve proceder com regularidade a inspecções e controlos aleatórios às instalações de transformação de alto ou baixo risco, a fim de verificar:
+Art. 10.º - 1 - A DGP deve proceder com regularidade a inspecções e controlos aleatórios às instalações de transformação de alto ou baixo risco, a fim de verificar:
 
 a) O respeito pelas disposições do presente Regulamento, nomeadamente as constantes dos anexos I e II;
 
@@ -315,13 +320,13 @@ d) Analisar os registos da matéria-prima correspondente à amostra do produto f
 
 e) Promover operações adequadas de descontaminação e limpeza da instalação.
 
-###### Art. 11.º - 1 - A DGP elaborará anualmente uma lista de estabelecimentos de transformação de subprodutos de origem animal aprovados e em funcionamento.
+Art. 11.º - 1 - A DGP elaborará anualmente uma lista de estabelecimentos de transformação de subprodutos de origem animal aprovados e em funcionamento.
 
 2 - A cada estabelecimento será atribuído um número oficial de controlo veterinário que o identifique como instalação de transformação de matérias de alto ou baixo risco, fábrica de alimentos para animais de estimação ou de produtos técnicos ou farmacêuticos à base de subprodutos de origem animal.
 
 3 - A lista e as respectivas actualizações serão posteriormente enviadas aos outros Estados membros e à Comissão das Comunidades Europeias.
 
-###### Art. 12.º - 1 - Os peritos veterinários da Comissão das Comunidades Europeias poderão efectuar controlos in loco, devendo ser-lhes prestada toda a assistência e colaboração.
+Art. 12.º - 1 - Os peritos veterinários da Comissão das Comunidades Europeias poderão efectuar controlos in loco, devendo ser-lhes prestada toda a assistência e colaboração.
 
 2 - Estes peritos deverão, nomeadamente, verificar se os estabelecimentos aprovados funcionam de acordo com o disposto no presente diploma.
 
@@ -329,19 +334,19 @@ e) Promover operações adequadas de descontaminação e limpeza da instalação
 
 4 - Se não forem adoptadas as medidas referidas no número anterior, ou se as mesmas forem consideradas insuficientes, aplicar-se-á o disposto no artigo 8.º da Directiva n.º [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt), do Conselho, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização no mercado interno.
 
-###### Art. 13.º A Directiva do Conselho n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), de 26 de Junho de 1990, é aplicável, nomeadamente, à organização e às acções a empreender na sequência dos controlos levados a efeito pelo Estado membro de destino e às medidas de salvaguarda a aplicar.
+Art. 13.º A Directiva do Conselho n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), de 26 de Junho de 1990, é aplicável, nomeadamente, à organização e às acções a empreender na sequência dos controlos levados a efeito pelo Estado membro de destino e às medidas de salvaguarda a aplicar.
 
-###### Art. 14.º As condições de higiene a observar no fabrico de alimentos para animais de estimação produzidos a partir de subprodutos de origem animal e os critérios para a recolha de amostras e para os controlos microbiológicos serão objecto de portaria do Ministro da Agricultura.
+Art. 14.º As condições de higiene a observar no fabrico de alimentos para animais de estimação produzidos a partir de subprodutos de origem animal e os critérios para a recolha de amostras e para os controlos microbiológicos serão objecto de portaria do Ministro da Agricultura.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 15.º A Comissão das Comunidades Europeias fixará:
+Art. 15.º A Comissão das Comunidades Europeias fixará:
 
 a) As modalidades e a frequência das inspecções referidas no artigo 9.º e no n.º 1 do artigo 10.º;
 
 b) Os métodos de referência para os exames microbiológicos.
 
-###### Art. 16.º - 1 - Até à entrada em vigor das normas comunitárias relativas à importação de países terceiros de subprodutos animais e de alimentos para animais de estimação fabricados a partir de subprodutos de origem animal, serão aplicadas a essas importações as condições estabelecidas no presente diploma, com excepção das relativas às condições de aprovação dos estabelecimentos.
+Art. 16.º - 1 - Até à entrada em vigor das normas comunitárias relativas à importação de países terceiros de subprodutos animais e de alimentos para animais de estimação fabricados a partir de subprodutos de origem animal, serão aplicadas a essas importações as condições estabelecidas no presente diploma, com excepção das relativas às condições de aprovação dos estabelecimentos.
 
 2 - A importação de matérias de alto ou baixo risco referidas nas alíneas g) e i) do n.º 1 do artigo 3.º que tenham sido previamente tratadas só será admitida se o país terceiro em causa provar que essas matérias foram submetidas a um tratamento satisfatório e que respeitam as normas microbiológicas constantes do capítulo III do anexo I.
 

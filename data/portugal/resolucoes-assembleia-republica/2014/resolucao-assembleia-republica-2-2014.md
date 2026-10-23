@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/2/2014/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/2-2014-571008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 798d99a5ad80465cfbaba40ab8c26a72b43f4e5ec73219db417ef367d4689ee9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 655c8bc98287b8b0b096b8bba774ba431482a098326c2048b4b07ad7c836b9c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Vítima
-- Crime
 - Convenção
-- Portugal
+- Crime
 - Direito à Justiça
 - Direitos Cívicos
 - Direitos do Indivíduo
 - Nova Iorque
+- Portugal
+- Protecção à Vítima
 - Restrição da Liberdade
 - Vítima
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:571012:por
+  label: "Ratificada a Convenção pelo DEC.1/2014.16.01.2014.PR, DR.IS [11] de 16.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/1-2014-571012
+  date: '2014-01-16'
 article_structure:
-  article_count: 44
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 47
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:47Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +114,7 @@ Aprova a Convenção Internacional para a Proteção de Todas as Pessoas contra 
 
 Aprovada em 13 de dezembro de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 INTERNATIONAL CONVENTION FOR THE PROTECTION OF ALL PERSONS FROM ENFORCED DISAPPEARANCE
 
@@ -621,7 +626,9 @@ Afirmando o direito de qualquer vítima a conhecer a verdade sobre as circunstâ
 
 acordam nos seguintes artigos:
 
-# PARTE I — Artigo 1.º
+## PARTE I
+
+###### Artigo 1.º
 
 1 - Ninguém será objeto de um desaparecimento forçado.
 
@@ -895,7 +902,9 @@ b) A falsificação, ocultação ou destruição de documentos que atestem a ver
 
 5 - O superior interesse da criança será sempre e, em especial, em tudo o que diga respeito ao presente artigo, o principal fator a ter em conta, e uma criança que seja capaz de expressar as suas opiniões terá o direito de as expressar livremente, devendo essas opiniões ser consideradas em função da sua idade e maturidade.
 
-# PARTE II — Artigo 26.º
+## PARTE II
+
+###### Artigo 26.º
 
 1 - Será criado um Comité contra os Desaparecimentos Forçados (doravante denominado «o Comité») que desempenhará as funções previstas na presente Convenção. O Comité será composto por 10 peritos de elevado caráter moral e com reconhecida competência na área dos direitos humanos que exercerão as suas funções a título pessoal, com independência e imparcialidade. Os membros do Comité serão eleitos pelos Estados Partes, de acordo com uma distribuição geográfica equitativa. Ter-se-á em conta a utilidade da participação nos trabalhos do Comité de pessoas com experiência jurídica relevante, bem como uma representação equilibrada dos sexos.
 
@@ -1009,7 +1018,9 @@ No caso de receber informações que entenda contenham fundados indícios da pr�
 
 2 - A publicação de uma observação sobre um Estado Parte no relatório anual será precedida de informação ao Estado Parte visado, o qual dispõe de um prazo de resposta razoável. Esse Estado Parte pode pedir para que os seus comentários ou observações sejam publicados no relatório.
 
-# PARTE III — Artigo 37.º
+## PARTE III
+
+###### Artigo 37.º
 
 Nada na presente Convenção afetará quaisquer disposições que sejam mais favoráveis à proteção das pessoas contra o desaparecimento forçado e que possam estar contidas no:
 
@@ -1033,7 +1044,7 @@ b) Direito internacional em vigor nesse Estado.
 
 ###### Artigo 40.º
 
-**O Secretário-Geral das Nações Unidas notificará todos os Estados membros das Nações Unidas e todos os Estados que assinaram ou aderiram à presente Convenção:**
+O Secretário-Geral das Nações Unidas notificará todos os Estados membros das Nações Unidas e todos os Estados que assinaram ou aderiram à presente Convenção:
 
 a) Das assinaturas, ratificações ou adesões, nos termos do artigo 38.º;
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/46/2014/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/46-2014-25345940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 296c87a66469b9d06ea5e6843ebe92e566738d46bcbc7f42f3201e34e92fd21d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eea69360c8299e8e900fe70a32a5313ca8c24ce6aa1ce80976823fc6b5a36622
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caldas da Rainha
-- Material de Dragagem
+- Governo
 - Lagoa
 - Lagoa de Óbidos
+- Material de Dragagem
 - Óbidos
 - Proteção do Ambiente
 - Recomendação
-- Governo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:27Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +100,4 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 14 de maio de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

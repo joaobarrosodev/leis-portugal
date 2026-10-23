@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/9/2014/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-2014-570712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f060b6680c39e74b9b2d6427c75a4376756e9ad2333c3c8226d3d3732ad4632d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51bd028fc8b0ac514e7f3acca774f88102fb3ff16a08eb77c226905fd429fcdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Comissão CE
 - Comissão Parlamentar
 - Contrato de Concessão
-- Extinção de Empresas
+- Empresa
 - Estaleiros Navais de Viana do Castelo
-- Comissão CE
-- Inquérito Parlamentar
+- Extinção de Empresas
 - Governo
+- Inquérito Parlamentar
 - Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:25345625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343712:por
+  label: "Tornado público que se suspende entre 15 e 25.05.2014, a contagem do prazo de funcionamento da Comissão Parlamentar\
+    \ de Inquérito, constuida pelo presente diploma, pela RES.44/2014.19.05.2014.AR, DR.IS [95] de 19.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/44-2014-25343712
+  date: '2014-05-19'
+- type: amended_by
+  target: pt:dre:25345625:por
+  label: Prorrogado por um período adicional de 30 dias, o prazo de funcionamento da Comissão Parlamentar de Inquérito para
+    Apuramento das Responsabilidades pelas Decisões Que Conduziram ao Processo de Subconcessão dos Estaleiros Navais de Viana
+    do Castelo, constituida pela RES.61/2014.30.06.2014.AR, DR.IS [123] de 30.06.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/61-2014-25345625
+  date: '2014-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/126/1997/12/10/p/dre
   label: null
@@ -92,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
+- type: cites
+  target: pt:dre:404748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626806:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:31Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +145,4 @@ O modo como o Governo tem acompanhado junto da Comissão Europeia o desenvolvime
 
 Aprovada em 23 de janeiro de 2014.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.

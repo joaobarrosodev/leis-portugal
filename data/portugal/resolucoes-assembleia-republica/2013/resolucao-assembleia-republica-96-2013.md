@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/96/2013/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/96-2013-498092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69b7ccc31dbaed4ee43012412af0b6d70b2a2380cd5642ab7614722909b57d27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29a69e7ad19e5c44118c4c55b6510f25a668c519c7afcd74fffbbbfc05e6caf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto sobre o Rendimento
+- Portugal
 - Singapura
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:498091:por
+  label: "Ratificado o Acordo pelo DEC.78/2013.11.07.2013.PR, DR.IS [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/78-2013-498091
+  date: '2013-07-11'
 article_structure:
-  article_count: 0
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:22Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +101,13 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 15 de fevereiro de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves
 
 PROTOCOLO QUE ALTERA A CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE SINGAPURA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
 A República Portuguesa e a República de Singapura, desejando alterar a Convenção entre a República Portuguesa e a República de Singapura para evitar a dupla tributação e prevenir a evasão fiscal em matéria de impostos sobre o rendimento (a seguir referida pela designação de «a Convenção»), acordam no seguinte:
 
-Artigo I
+###### Artigo I
 
 O texto do artigo 27.º da Convenção é eliminado e substituído pelo seguinte:
 
@@ -122,11 +127,11 @@ c) De transmitir informações reveladoras de segredos ou processos comerciais, 
 
 5 - O disposto no n.º 3 não pode em caso algum ser interpretado no sentido de permitir que um Estado Contratante se recuse a prestar informações unicamente porque estas são detidas por um banco, outra instituição financeira, um mandatário ou por uma pessoa agindo na qualidade de agente ou fiduciário, ou porque essas informações são conexas com os direitos de propriedade de uma pessoa.»
 
-Artigo II
+###### Artigo II
 
 O presente Protocolo entrará em vigor no 30.º dia após a data em que forem trocadas as notas diplomáticas indicando a conclusão das formalidades legais internas de cada Estado Contratante, necessárias à entrada em vigor do presente Protocolo.
 
-Artigo III
+###### Artigo III
 
 O presente Protocolo fará parte integrante da Convenção e permanecerá em vigor enquanto a Convenção estiver em vigor.
 

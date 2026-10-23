@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/98/2014/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/98-2014-59007693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a1922f5339bc918e67e46f2a09c424a3cc3631120834e4942306072279b91af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dad3095ed932dc714a7218cab7e87a7873e6c1a93621d84e7afdba719259d154
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ reuse:
 subjects:
 - ACP Países
 - Ajuda Comunitária
-- Financiamento
+- Bruxelas
 - CE Países
 - Convenção
 - Cotonu
+- Financiamento
+- Luxemburgo
+- Países e Territórios Ultramarinos
 - Portugal
 - União Europeia
-- Países e Territórios Ultramarinos
-- Bruxelas
-- Luxemburgo
 relationships:
+- type: amended_by
+  target: pt:dre:59007692:por
+  label: Ratificado o Acordo Interno entre os Representantes dos Governos dos Estados Membros da União Europeia, reunidos
+    no Conselho, relativo ao Financiamento da Ajuda concedida pela União Europeia no âmbito do quadro financeiro plurianual
+    para o período 2014-2020, em conformidade com o Acordo de Parceria ACP-UE, bem como à Concessão de Assistência Financeira
+    aos Países e Territórios Ultramarinos pelo(a) Decreto do Presidente da República n.º 107/2014 - Diário da República n.º
+    227/2014, Série I de 2014-11-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/107-2014-59007692
+  date: '2014-11-24'
 - type: cites
   target: celex:32001D0822
   label: null
@@ -107,13 +116,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:45Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +135,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de outubro de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO INTERNO ENTRE OS REPRESENTANTES DOS GOVERNOS DOS ESTADOS MEMBROS DA UNIÃO EUROPEIA, REUNIDOS NO CONSELHO, RELATIVO AO FINANCIAMENTO DA AJUDA CONCEDIDA PELA UNIÃO EUROPEIA NO ÂMBITO DO QUADRO FINANCEIRO PLURIANUAL PARA O PERÍODO 2014-2020, EM CONFORMIDADE COM O ACORDO DE PARCERIA ACP-UE, BEM COMO À CONCESSÃO DE ASSISTÊNCIA FINANCEIRA AOS PAÍSES E TERRITÓRIOS ULTRAMARINOS AOS QUAIS SE APLICA A PARTE IV DO TRATADO SOBRE O FUNCIONAMENTO DA UNIÃO EUROPEIA.
 
@@ -186,7 +195,7 @@ acordaram no seguinte:
 
 a) Um montante máximo de 30 506 milhões de EUR (a preços correntes), financiado pelos Estados membros, de acordo com a seguinte repartição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf))](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf)
 
 O montante de 30 506 milhões de EUR está disponível a partir da entrada em vigor do quadro financeiro plurianual para o período 2014-2020 e é repartido do seguinte modo:
 
@@ -304,7 +313,7 @@ No que se refere aos fundos do 10.º FED e dos FED anteriores que não sejam tra
 
 Comité do FED estão sujeitos à seguinte ponderação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf))](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf)
 
 3 - O Comité do FED delibera por maioria qualificada de 720 votos em 998, expressando o voto favorável de, pelo menos, 14 Estados membros. A minoria de bloqueio é constituída por 279 votos.
 
@@ -370,4 +379,4 @@ A aplicação do presente Acordo é conforme com a [Decisão n.º 2010/427/UE](h
 
 O presente Acordo, redigido em exemplar único nas línguas alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena e sueca, todos os textos fazendo igualmente fé, é depositado nos arquivos do Secretariado-Geral do Conselho da União Europeia, que dele remete uma cópia autenticada ao Governo de cada um dos Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf))](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/22700/0595405963.pdf)

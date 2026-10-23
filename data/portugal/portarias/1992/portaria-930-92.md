@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/930/1992/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/930-1992-232344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d473381dcf6c2d2d17c4facacf37200f99e6c580d6a146f896505c45b754826c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61742d5e640409ba4d7a220a16a5f5f5da1ae63ae92cddce4456eed582e6ee78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,39 @@ reuse:
 subjects:
 - Prestação de Serviços
 - Regulamento
-- Telecomunicações Complementares
 - Serviços de Telecomunicações Complementares Fixos
+- Telecomunicações Complementares
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1991/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/147/1991/04/12/p/dre
+- type: cites
+  target: pt:dre:151676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615857:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:59Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +129,7 @@ Manda o Governo pelo Ministro das Obras Públicas, Transportes e Comunicações,
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 31 de Agosto de 1992.**
+Assinada em 31 de Agosto de 1992.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 

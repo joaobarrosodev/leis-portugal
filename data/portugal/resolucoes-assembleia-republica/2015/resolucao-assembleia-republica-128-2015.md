@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/128/2015/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/128-2015-70171990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65c98af90606a08b2a6d694eaf8a076e28b44f7b89b1b8f110a2c49541694a70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04fed6e759bdf37a6cca69994725184a5210b610a451808582e6b4363276b51d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- ONU
-- Lisboa
-- Guimarães
-- Universidade
 - Governo Electrónico
+- Guimarães
+- Lisboa
+- ONU
+- Portugal
 - Unidade Operacional
+- Universidade
 - Universidade das Nações Unidas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:70171987:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 99/2015 - Diário da República n.º 171/2015, Série
+    I de 2015-09-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/99-2015-70171987
+  date: '2015-09-02'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:28Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +105,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de julho de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A UNIVERSIDADE DAS NAÇÕES UNIDAS RELATIVO À CRIAÇÃO, FUNCIONAMENTO E LOCALIZAÇÃO DA UNIDADE OPERACIONAL DE GOVERNAÇÃO ELETRÓNICA ORIENTADA PARA POLÍTICAS DA UNIVERSIDADE DAS NAÇÕES UNIDAS EM GUIMARÃES, PORTUGAL.
 
@@ -181,7 +187,7 @@ A Unidade Operacional é elegível, em igualdade com outras universidades na Rep
 
 1 - A República Portuguesa disponibilizará à Universidade, através da Universidade do Minho, instalações permanentes para ocupação e utilização pela Unidade Operacional, livres de encargos, no Campus de Couros da Universidade do Minho, a partir de 1 de junho de 2014, conforme descrito na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf)
 
 A dimensão das instalações é conforme à delineada no anexo 1 ao presente Acordo.
 
@@ -257,7 +263,7 @@ Em fé do que, os representantes, devidamente autorizados para o efeito, assinar
 
 ANNEX 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf)
 
 Pela República Portuguesa:
 
@@ -357,7 +363,7 @@ Premises and facilities
 
 1 - The Portuguese Republic shall, through the University of Minho, make available to the University permanent premises for the occupation and use of the Operating Unit free of charge on the Campus de Couros of the University of Minho, as of 1 June 2014, as described in the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf)
 
 The extent of the premises shall be as delineated in annex 1 hereto.
 
@@ -449,7 +455,7 @@ In witness whereof, the representatives, being duly authorized thereto, have sig
 
 ANNEX 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0675806766.pdf)
 
 For the United Nations University:
 

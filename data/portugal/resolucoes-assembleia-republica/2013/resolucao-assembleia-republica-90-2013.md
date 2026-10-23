@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/90/2013/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/90-2013-497464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:37:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0e8290aeaa285235cf69b7286bad3cd9df15c69d14d9e8bdc641c2f416fab2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35dd5b874ea953d4d5d5521e03ec3d615163017692608e2001fc4285a6d91d62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,26 @@ subjects:
 - Cidade da Praia
 - Convenção
 - Cooperação Técnica
-- Portugal
-- Política de Defesa
 - CPLP
-relationships: []
+- Política de Defesa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:497462:por
+  label: "Ratificado o Protocolo de Cooperação da Comunidade dos Países de Língua Portuguesa no Domínio da Defesa aprovado\
+    \ pelo presente diploma, pelo DEC.73/2013.01.07.2013.PR, DR.IS [124] de 01.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/73-2013-497462
+  date: '2013-07-01'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:37:15Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de maio de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 PROTOCOLO DE COOPERAÇÃO DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA NO DOMÍNIO DA DEFESA
 
@@ -317,32 +323,32 @@ Feito na cidade da Praia, aos 15 de Setembro de 2006, em oito exemplares em lín
 
 Pela República de Angola:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
 
 Pela República Federativa do Brasil:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
 
 Pela República de Cabo Verde:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
 
 Pela República da Guiné-Bissau:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
 
 Pela República de Moçambique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
 
 Pela República Democrática de São Tomé e Príncipe:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
 
 Pela República Democrática de Timor-Leste:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)

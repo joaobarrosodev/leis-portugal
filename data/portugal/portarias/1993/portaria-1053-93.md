@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1053/1993/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1053-1993-668678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f93932dea85b9ce9c66b9d4be9aff6ed555236840a5ba7f6db9524d15bd8de8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e3c2ef03a20abb24ab7c8a197bf5720903d4e80e54baabb070c154a41d40414
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,29 @@ subjects:
 - Recursos Hídricos
 - RIO Zêzere
 - ZONA Adjacente
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:497460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:05Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +120,8 @@ Manda o Governo, pelo Ministro do Ambiente e Recursos Naturais, nos termos do n.
 
 Ministério do Ambiente e Recursos Naturais.
 
-**Assinada em 6 de Janeiro de 1993.**
+Assinada em 6 de Janeiro de 1993.
 
 Pela Ministra do Ambiente e Recursos Naturais, António Manuel Teixeira da Silva, Secretário de Estado dos Recursos Naturais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/245b00/58685874.pdf))](https://files.diariodarepublica.pt/1s/1993/10/245b00/58685874.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/245b00/58685874.pdf)

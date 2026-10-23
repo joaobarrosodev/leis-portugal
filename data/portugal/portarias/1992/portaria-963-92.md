@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/233b00/47104737.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/963/1992/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/963-1992-226196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdfe8819da71f149585ef9c13c933c9597671bd46dd6484043c23174d824b3ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c107f9db9667157adc378bf1f8e75a58f572efb834c10274d2477398753ce5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Formação Profissional
-- Plano de Estudos
 - Curso de Auxiliar das Indústrias de Madeira e de Mobiliário
 - Curso de Entalhador-embutidor de Madeiras
 - Curso de Marceneiro-carpinteiro
@@ -79,26 +77,45 @@ subjects:
 - Curso de Serrador de Madeiras
 - Curso de Técnico de Desenho de Construções em Madeira e Mobiliário
 - Curso de Técnico de Madeiras e Mobiliário
-- Jovem Trabalhador
+- Formação Profissional
 - Indústria de Móveis
+- Jovem Trabalhador
+- Plano de Estudos
 - Política de Emprego
-- Regulamento
 - Produto em Madeira
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/383/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/383/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476735:por
+  label: "Revogada pela port.1233/2003.22.10.2003.ME, DR.IS-B [245] de 22.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1233-2003-476735
+  date: '1992-10-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:49Z'
   warnings: []
   errors: []
 ---
@@ -149,9 +166,9 @@ Técnico de desenho de construções em madeira e mobiliário.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 5 de Agosto de 1992.**
+Assinada em 5 de Agosto de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.**
+O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.
 
 Normas regulamentares de formação de jovens em regime de alternância (aprendizagem e pré-aprendizagem) das saídas profissionais da área da madeira e mobiliário anexas à Portaria n.º 963/92.
 
@@ -553,4 +570,4 @@ XIII - Disposições finais e transitórias
 
 Do ANEXO I ao ANEXO XII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/233b00/47104737.pdf))](https://files.diariodarepublica.pt/1s/1992/10/233b00/47104737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/233b00/47104737.pdf)

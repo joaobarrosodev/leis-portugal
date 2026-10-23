@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1058/1993/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1058-1993-668951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3157fd4f5d06002aff557e62576c9a95aa768c874caf6398ffb90495c81cadbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae2f6ca6098b7da5cf4df4d48b00d70f4186ecef34443f2eb78d3f8dcfed8fb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,31 @@ relationships:
   target: pt:dre:585055:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2138255:por
+  label: "Alterado o quadro de pessoal, pela PORT.740/97(2ªsérie).1997.06.11.PCM, MF e MSSS DR.IIS [224] de 1997.09.27-\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/740-1997-2138255
+  date: '1997-06-11'
+- type: amended_by
+  target: pt:dre:3615550:por
+  label: "Alterado o quadro de pessoal pela PORT.452/97(2ªSÉRIE).1997.07.03.PCM, MF e MSSS DR.IIS [166] de 21/Jul/1997-\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/452-1997-3615550
+  date: '1997-07-03'
+- type: amended_by
+  target: pt:dre:2413061:por
+  label: "Alterado o quadro de pessoal pela PORT.958/97(2ªSÉRIE).1997.07.07.PCM, DR.IIS [270] de 1997.11.21\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/958-1997-2413061
+  date: '1997-07-07'
+- type: amended_by
+  target: pt:dre:209834:por
+  label: "Alterado o quadro de pessoal pela PORT.74/98.1998.02.19.PCM DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/74-1998-209834
+  date: '1998-02-19'
+- type: amended_by
+  target: pt:dre:585055:por
+  label: "Alterado o quadro de pessoal pela PORT.1178/2000.2000.12.15.MF DR.IS-B [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1178-2000-585055
+  date: '2000-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/260/1993/07/23/p/dre
   label: null
@@ -83,16 +108,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/27/1992/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/27/1992/10/29/p/dre
+- type: cites
+  target: pt:dre:217694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346485:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287839:por
+  label: "RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 10/94, DE 28 DE JANEIRO, PUBLICADA NO DR.IS-B, 25, 2SUPL, 940131.\0\
+    \ 940131."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-1994-287839
+  date: '1994-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:10Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +152,13 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 4 de Outubro de 1993.**
+Assinada em 4 de Outubro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 ## ANEXO I — Quadro de pessoal do Centro Regional de Segurança Social do Algarve
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/247b00/59305934.pdf))](https://files.diariodarepublica.pt/1s/1993/10/247b00/59305934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/247b00/59305934.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

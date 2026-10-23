@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1035/1993/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1035-1993-668528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43a83bbe4a3e38903c287ef022c9e89d56ebb18b3a0941c1cc013ae9a642b123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8330590f9ae8c449e5ea3435d26247e8c07b4a2c753a8b0abcd1e3c51fa8eef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,32 @@ subjects:
 - Numerus Clausus
 - Porto
 relationships:
+- type: amended_by
+  target: pt:dre:537414:por
+  label: "SUPRIMIDO O NUMERO 4 PELA PORTARIA 1270/93, DE 15 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 291, DE 931215.\031215.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1270-1993-537414
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1074/1991/10/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1074/1991/10/23/p/dre
+- type: cites
+  target: pt:dre:344443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:32Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +122,7 @@ Vagas (1993-1994)
 
 O número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, para o curso de estudos superiores especializados em Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º Ciclo), ministrado pela Escola Superior de Educação do Instituto Politécnico do Porto, é fixado em 30, assim distribuídas pelas suas opções e contingentes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/242b00/58245824.pdf))](https://files.diariodarepublica.pt/1s/1993/10/242b00/58245824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/242b00/58245824.pdf)
 
 2.º
 
@@ -152,6 +164,6 @@ O curso a que se refere o n.º 1.º será ministrado exclusivamente em regime p�
 
 Ministério da Educação.
 
-**Assinada em 20 de Setembro de 1993.**
+Assinada em 20 de Setembro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.

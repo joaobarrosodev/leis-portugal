@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1054/1993/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1054-1993-668947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:42:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18b08f4430322b3b70dd7a7148fae4ac5a92b834a0a9a2204740b22eaefb3760
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f559505e42e23dd38a4e8d00539b6924627baa053c5dedf442f4c35aa18f6742
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,224 @@ relationships:
   target: pt:dre:3371671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 5/94, DE 17 DE JANEIRO, PUBLICADA NO DR.IS-B, 25, 2SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-01-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 227/94, DE 24 DE FEVEREIRO, PUBLICADO NO DR.IS-B, 82, DE 940408.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DO NORTE, PELO DESPACHO NORMATIVO 293/94, DE
+    16 MARCO, PUBLICADO NO DR.IS-B, 103, DE 940504.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DO NORTE, PELO DESPACHO NORMATIVO 371/94, DE
+    29 ABRIL, PUBLICADO NO DR.IS-B, 115, DE 940518.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DO NORTE, PELO DESPACHO NORMATIVO 390/94, DE
+    8 ABRIL, PUBLICADO NO DR.IS-B, 118, DE 940521.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DO NORTE, PELO DESPACHO NORMATIVO 441/94, DE
+    13 ABRIL, PUBLICADO NO DR.IS-B, 132, DE 940608.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 459/94, DE 11 DE MAIO, PUBLICADO NO DR.IS-B, 146, DE 940627.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 574/94, DE 30 DE JUNHO, PUBLICADO NO DR.IS-B, 175, DE 940730.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 620/94, DE 21 DE JULHO, PUBLICADO NO DR.IS-B, 194, DE 940823.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 627/94, DE 20 DE JULHO, PUBLICADO NO DR.IS-B, 197, DE 940826.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DO NORTE, PELO DESPACHO NORMATIVO 719/94, DE
+    31 DE AGOSTO, PUBLICADO NO DR.IS-B, 240, DE 941017.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DO NORTE, PELO DESPACHO NORMATIVO 726/94, DE
+    22 DE SETEMBRO, PUBLICADO NO DR.IS-B, 242, DE 941019.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 750/94 DE 22-SET DR.IS-B [254] DE 03/NOV/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DO NORTE, PELO DESPACHO NORMATIVO 754/94, DE
+    21 DE SETEMBRO, PUBLICADO NO DR.IS-B, 255, DE 941104.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA DESPACHO NORMATIVO 764/94, DE 23 DE SETEMBRO, PUBLICADO NO DR.IS-B, 270, DE 941122.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 708/95 DE 04-JUL DR.IS-B [152]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA ANEXO, PELA PORT 1303/95 DE 02-NOV DR.IS-B [253]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-02'
+- type: amended_by
+  target: pt:dre:1324324:por
+  label: "Criado um lugar de técnico superior principal no quadro de pessoal, pela PORT.186/96IIS.1996.08.26.PCM, DR.IIS [232]\
+    \ de 07/Out/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-1996-1324324
+  date: '1996-08-26'
+- type: amended_by
+  target: pt:dre:1539265:por
+  label: "Alterado o quadro de pessoal pela PORT.241/96IIS.1996.10.11.PCM DR.IIS [262] de 12.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/241-1996-1539265
+  date: '1996-10-11'
+- type: amended_by
+  target: pt:dre:1539269:por
+  label: "Alterado o quadro de pessoal pela PORT.245/96IIS.1996.10.11.PCM DR.IIS [262] de 12.11.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-1996-1539269
+  date: '1996-10-11'
+- type: amended_by
+  target: pt:dre:854056:por
+  label: "Alterado o quadro de pessoal pela PORT.131/97IIS.1997.03.26.PCM DR.IIS [89] de 16/Abr/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-1997-854056
+  date: '1997-03-26'
+- type: amended_by
+  target: pt:dre:3615546:por
+  label: "Alterado o quadro de pessoal pela PORT.450/97(2ªSÉRIE).1997.05.21.PCM DR.IIS [166] DE 21/JUL/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/450-1997-3615546
+  date: '1997-05-21'
+- type: amended_by
+  target: pt:dre:2298277:por
+  label: "Alterado o quadro de pessoal pela PORT.347/97(2ªSÉRIE).1997.06.05.PCM, MF, MSSS DR.IIS [147] de 1997.06.28\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-1997-2298277
+  date: '1997-06-05'
+- type: amended_by
+  target: pt:dre:1845897:por
+  label: "Alterado o quadro de pessoal pela PORT.867/97(2ªSÉRIE).1997.10.20.PCM, MF e MSSS DR.IIS [255] de 1997.11.04\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/867-1997-1845897
+  date: '1997-10-20'
+- type: amended_by
+  target: pt:dre:3708317:por
+  label: "Alterado o quadro de pessoal pela PORT.192/98(2ªSÉRIE).1998.01.21.PCM DR.IIS [40] DE 17/FEV/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-1998-3708317
+  date: '1998-01-21'
+- type: amended_by
+  target: pt:dre:2690257:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.220/98(2ªSÉRIE).1998.02.04.PCM DR.IIS [46]\
+    \ de 24/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-1998-2690257
+  date: '1998-02-04'
+- type: amended_by
+  target: pt:dre:209833:por
+  label: "Alterado o quadro de pessoal pela PORT.72/98.1998.02.19.PCM DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1998-209833
+  date: '1998-02-19'
+- type: amended_by
+  target: pt:dre:2811215:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.669/98(2ªSÉRIE).1998.06.25.PCM DR.IIS [167]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/669-1998-2811215
+  date: '1998-06-25'
+- type: amended_by
+  target: pt:dre:3266392:por
+  label: "Alterado o quadro de pessoal pela PORT.711/98(2ªSÉRIE).1998.07.02.PCM, DR.IIS [174] de 30/Jul/1998\01998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/711-1998-3266392
+  date: '1998-07-02'
+- type: amended_by
+  target: pt:dre:1065114:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.975/98(2ªSÉRIE).1998.07.15.PCM DR.IIS [215]\
+    \ de 17/Set/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/975-1998-1065114
+  date: '1998-07-15'
+- type: amended_by
+  target: pt:dre:2408811:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.974/98(2ªSÉRIE).1998.09.02.PCM DR.IIS [214]\
+    \ de 16/Set/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/974-1998-2408811
+  date: '1998-09-02'
+- type: amended_by
+  target: pt:dre:2576230:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.1143/2000(2ªSérie).2000.07.10.MTS DR.IIS\
+    \ [178] DE 03/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1143-2000-2576230
+  date: '2000-07-10'
+- type: amended_by
+  target: pt:dre:2182372:por
+  label: "Alterado o quadro de pessoal pela PORT.1377/2000(2ªSÉRIE).2000.08.14.MTS DR.IIS [212] DE 13/SET/2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1377-2000-2182372
+  date: '2000-08-14'
+- type: amended_by
+  target: pt:dre:585055:por
+  label: "Alterado o quadro de pessoal pela PORT.1178/2000.2000.12.15.MF DR.IS-B [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1178-2000-585055
+  date: '2000-12-15'
+- type: amended_by
+  target: pt:dre:1201776:por
+  label: "Alterado o quadro de pessoal pelo DC.436/2001.2001.04.27.MTS DR.IIS [113] DE 16/MAI/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/436-2001-1201776
+  date: '2001-04-27'
+- type: amended_by
+  target: pt:dre:1444762:por
+  label: "Alterado o quadro de pessoal pela PORT.1088/2001(2ªSÉRIE).2001.06.04.MTS, DR.IIS [142] de 21/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-2001-1444762
+  date: '2001-06-04'
+- type: amended_by
+  target: pt:dre:2419948:por
+  label: "Alterado o quadro de pessoal pela PORT.1438/2001(2ªSÉRIE).2001.07.19.MTS, DR.IIS [196] de 24/Ago/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1438-2001-2419948
+  date: '2001-07-19'
+- type: amended_by
+  target: pt:dre:2237413:por
+  label: "Alterada pela PORT.668/2002(2ªSÉRIE).2002.03.27.MTS, DR.IIS [95] de 23/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/668-2002-2237413
+  date: '2002-03-27'
+- type: amended_by
+  target: pt:dre:2129368:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.286/2003(2ªSÉRIE).2002.10.04.MF, MSST, DR.IIS [53] DE 4/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-2003-2129368
+  date: '2002-10-04'
+- type: amended_by
+  target: pt:dre:3653935:por
+  label: "Alterado o quadro de pessoal por PORT.298/20038(2ªSÉRIE).2002.12.17.MF e MSST, DR.IIS [56] de 7/Mar/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2003-3653935
+  date: '2003-03-07'
+- type: amended_by
+  target: pt:dre:3371671:por
+  label: "Alterado o quadro de pessoal por PORT.320/2003(2ªSÉRIE).2002.12.17.MF e MSST, DR.IIS [59] de 11/Mar/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-2003-3371671
+  date: '2003-03-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/260/1993/07/23/p/dre
   label: null
@@ -84,16 +302,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/27/1992/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/27/1992/10/29/p/dre
+- type: cites
+  target: pt:dre:217694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:42:05Z'
   warnings: []
   errors: []
 ---
@@ -118,17 +360,17 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 4 de Outubro de 1993.**
+Assinada em 4 de Outubro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 ## ANEXO I — Quadro de pessoal do Centro Regional de Segurança Social do Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/247b00/59085914.pdf))](https://files.diariodarepublica.pt/1s/1993/10/247b00/59085914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/247b00/59085914.pdf)
 
 Pessoal que se mantém abrangido pelo regime de trabalho da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, conjugada com a [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/247b00/59085914.pdf))](https://files.diariodarepublica.pt/1s/1993/10/247b00/59085914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/247b00/59085914.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

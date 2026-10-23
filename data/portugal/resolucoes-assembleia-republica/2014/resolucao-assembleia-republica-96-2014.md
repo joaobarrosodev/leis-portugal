@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/22000/0584105860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/96/2014/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/96-2014-58851816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52c3ed7ca3fbdb7ff079353a49895369d4ad565c7d5a6aa5278ca8cea9168da6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eda9e8f8bfe8876eb0d06341d57b6622e37a880d845a2af4ddf13ca4b8271d00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADIS Abeba
-- Etiópia
-- Convenção
-- Portugal
 - Contribuições e Impostos
-- Imposto sobre o Rendimento
-- IRS
+- Convenção
 - Dupla Tributação
+- Etiópia
 - Evasão Fiscal
+- Imposto sobre o Rendimento
 - IRC
+- IRS
+- Portugal
 - Tributação
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:58851814:por
+  label: Ratificada a Convenção pelo(a) Decreto do Presidente da República n.º 104/2014 - Diário da República n.º 220/2014,
+    Série I de 2014-11-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/104-2014-58851814
+  date: '2014-11-13'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:40Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de outubro de 2014.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA FEDERAL DA ETIÓPIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO, ASSINADA EM ADIS ABEBA, A 25 DE MAIO DE 2013.
 

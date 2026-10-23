@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/4/2013/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-2013-257059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:36:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 794fa1dff95615d1a1136a5520c6d47f9699ef230ba6d79ff143814ae1638864
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d433bc8176e3ed576d7c1b85a8ac3fdac14e5980ee0d9befe1a8b880f338b35f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:36:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Judicial
-- Protecção à Vítima
-- Jurisdição
-- Crime
-- Processo Penal
-- Casa-abrigo
-- Combate à Violência
-- Mulher
-- Violência
-- Convenção
-- Portugal
-- Migração
-- Indemnização
 - Aborto
+- Ajuda Judicial
+- Casa-abrigo
+- Casamento
+- Combate à Violência
+- Conselho da Europa
+- Convenção
+- Crime
+- Direito de Família
+- Direito Penal
+- Indemnização
+- Investigação Criminal
 - Istambul
+- Jurisdição
 - Linha de Atendimento Telefónico
 - Medidas Preventivas
-- Conselho da Europa
-- Direito Penal
+- Migração
+- Mulher
+- Portugal
+- Processo Penal
 - Proteção Social
+- Protecção à Vítima
 - Sanção
-- Casamento
-- Direito de Família
-- Investigação Criminal
-relationships: []
+- Violência
+relationships:
+- type: amended_by
+  target: pt:dre:257051:por
+  label: "Ratificada a Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência\
+    \ Doméstica pelo DEC.13/2013.21.01.2013.PR, DR.IS [14] de 21.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/13-2013-257051
+  date: '2013-01-21'
 article_structure:
   article_count: 81
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:36:02Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +119,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 14 de dezembro de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
 CONVENTION DU CONSEIL DE L'EUROPE SUR LA PRÉVENTION ET LA LUTTE CONTRE LA VIOLENCE À L'ÉGARD DES FEMMES ET LA VIOLENCE DOMESTIQUE
 
@@ -2847,7 +2853,7 @@ As disposições da presente Convenção não afetam o disposto no direito inter
 
 ###### Artigo 81.º — Notificação
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho da Europa, os Estados não membros que participaram na elaboração da presente Convenção, todos os signatários, todas as Partes, a União Europeia e qualquer Estado convidado a aderir a ela:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho da Europa, os Estados não membros que participaram na elaboração da presente Convenção, todos os signatários, todas as Partes, a União Europeia e qualquer Estado convidado a aderir a ela:
 
 a) De qualquer assinatura;
 

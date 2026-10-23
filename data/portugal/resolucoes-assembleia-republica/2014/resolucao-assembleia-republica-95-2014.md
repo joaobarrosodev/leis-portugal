@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/22000/0581505841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/95/2014/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/95-2014-58851815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b3665bbc6110c8e5df314f66f40ba2f93a9a1c201c3f4c3cd0a97bb6aa71fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41c516ea2504ce38bbd836873c4962b5981df84adf6637370670c628c5663e65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cidade de são Marino
-- Convenção
-- Portugal
 - Contribuições e Impostos
-- Imposto sobre o Rendimento
-- IRS
+- Convenção
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto sobre o Rendimento
 - IRC
+- IRS
+- Portugal
 - SAN Marino
 - Tributação
 relationships:
+- type: amended_by
+  target: pt:dre:58851813:por
+  label: Ratificada a Convenção pelo(a) Decreto do Presidente da República n.º 103/2014 - Diário da República n.º 220/2014,
+    Série I de 2014-11-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/103-2014-58851813
+  date: '2014-11-13'
 - type: cites
   target: celex:32003L0048
   label: null
@@ -85,13 +91,13 @@ relationships:
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:38Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +110,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de outubro de 2014.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE SÃO MARINO PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 

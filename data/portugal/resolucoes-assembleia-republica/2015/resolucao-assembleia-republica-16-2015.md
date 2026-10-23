@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/03400/0095600956.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/16/2015/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2015-66528865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:41:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ca9f4a839f161df71fc65b7c6772ce9fa5986e220334631da5aa24fc75c02cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83b9ada25ffc51d51c81f00f565f2e52b9461d942bce7390799f77cc56dbcde1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:41:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
+- Assembleia da República
 - Banco Espírito Santo
 - Comissão de Inquérito
 - Comissão Parlamentar
 - Fiscalização Económica
-- Inquérito Parlamentar
-- Assembleia da República
-- Prorrogação de Prazo
 - GRUPO ESPÍRITO SANTO
+- Inquérito Parlamentar
+- Instituição de Crédito
+- Prorrogação de Prazo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/126/1997/12/10/p/dre
@@ -92,13 +92,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:41:01Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +111,4 @@ A Assembleia da República resolve, ao abrigo do disposto no n.º 1 do artigo 11
 
 Aprovada em 13 de fevereiro de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

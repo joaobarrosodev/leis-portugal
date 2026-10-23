@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/795/1992/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/795-1992-282152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04cc5e7934960a28136f9d1124060bac5ca1b9264f9183a48040e5b03b41d819
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e64e584802c6bd3f95725d162b87bb7aa81cc2fa91361e8ed17f8f3318785ea4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,28 @@ reuse:
 subjects:
 - Armazenagem
 - Batata
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Exportação
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Restituição a Exportação
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUMERO 9 PELA 1194/92, PUBLICADA NO DR.IS-B, 294, DE 921222.\0222.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:546418:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:48Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +131,6 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, ao abr
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 6 de Agosto de 1992.**
+Assinada em 6 de Agosto de 1992.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.

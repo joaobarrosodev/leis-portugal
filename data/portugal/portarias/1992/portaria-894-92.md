@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/894/1992/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/894-1992-239201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb69401fb5196c1e5d37f5a05b1d2d65fe7d8213840b6dae2c383393b1e55f6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 628de896ba6a76c3edbfa8b932316d66c68102cbde918e9206b877aca6fa80bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Tradução e Secretariado
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
 - Leiria
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:532850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632209:por
+  label: "Alterado o plano de estudos do curso referido no n.º 1, a designação do curso de bacharelato em Tradução e Secretariado\
+    \ para curso de bacharelato em Tradução, os n.ºs 5.º, 6.º e aditado o n.º 2.º-A, pela PORT.1456/95.11.12.1995.ME, DR.IS-B\
+    \ [284] de 11.12.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1456-1995-632209
+  date: '1995-12-11'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532850:por
+  label: "Revogada, findo o processo fixado no art. 31º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, na redacção\
+    \ da Port 1456/95 de 11-Dez pela PORT.772/99.1999.08.30.ME, DR.IS-B [202]\002]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/772-1999-532850
+  date: '1999-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:04Z'
   warnings: []
   errors: []
 ---
@@ -152,8 +173,8 @@ O curso entrará em funcionamento progressivamente, um ano curricular em cada an
 
 Ministério da Educação.
 
-**Assinada em 17 de Agosto de 1992.**
+Assinada em 17 de Agosto de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/214b00/44314432.pdf))](https://files.diariodarepublica.pt/1s/1992/09/214b00/44314432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/214b00/44314432.pdf)

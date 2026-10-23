@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/34/2014/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/34-2014-25343771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebc811fa36035d1fe0b8bd932ca2ae368e7e4312040f744ffcf8e3cb76d55e50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e81701489fd89ac86e5ab40d322a3a5bd994513794180eb3d7b6c3f543d5dede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ subjects:
 - Aluguer
 - Alvará
 - Contrato de Aluguer
+- Equipamento Industrial
 - IVA
 - Licenciamento
-- Veículo
-- Transporte de Mercadorias
 - Recomendação
-- Equipamento Industrial
 - Regulamento de Autorizações Especiais de Trânsito
+- Transporte de Mercadorias
+- Veículo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:10Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +106,4 @@ A Assembleia da República, nos termos do n.º 5 do artigo 166.º da Constituiç
 
 Aprovada em 17 de abril de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

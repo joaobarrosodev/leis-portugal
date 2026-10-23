@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14200/0494404958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/101/2015/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/101-2015-69861873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd688f502effdf674416aba19d9128495bfcf3e0d49566651ca3edf7bffc2b25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 523c080bfc23541db6d73fe14d4ef0c18bb76a035db4f210ceaf318acca611f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Combate ao Terrorismo
+- Conselho da Europa
 - Convenção
-- Portugal
-- Extradição
-- Terrorismo
 - Cooperação Internacional
 - Cooperação Judiciária
-- Conselho da Europa
+- Crime
 - Direito Penal
+- Extradição
+- Portugal
+- Terrorismo
 - Varsovia
 relationships:
 - type: amended_by
   target: pt:dre:114513610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69861872:por
+  label: Ratificada a Convenção pelo(a) Decreto do Presidente da República n.º 74/2015 - Diário da República n.º 142/2015,
+    Série I de 2015-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/74-2015-69861872
+  date: '2015-07-23'
+- type: amended_by
+  target: pt:dre:114513610:por
+  label: Aprovado o Protocolo Adicional à Convenção do Conselho da Europa para a Prevenção do Terrorismo, aprovada, para ratificação,
+    pela presente resolução, pelo(a) Resolução da Assembleia da República n.º 4/2018 - Diário da República n.º 9/2018, Série
+    I de 2018-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/4-2018-114513610
+  date: '2018-01-12'
 article_structure:
   article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:51Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +116,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de junho de 2015.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.
 
 COUNCIL OF EUROPE CONVENTION ON THE PREVENTION OF TERRORISM
 
@@ -879,7 +892,7 @@ e) Emitirem pareceres sobre quaisquer questões relacionadas com a aplicação d
 
 ###### Artigo 32.º — Notificação
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho, a Comunidade Europeia, os Estados não membros que tenham participado na elaboração da presente Convenção, bem como qualquer Estado que tenha aderido ou tenha sido convidado a aderir à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho, a Comunidade Europeia, os Estados não membros que tenham participado na elaboração da presente Convenção, bem como qualquer Estado que tenha aderido ou tenha sido convidado a aderir à presente Convenção:
 
 a) De qualquer assinatura;
 

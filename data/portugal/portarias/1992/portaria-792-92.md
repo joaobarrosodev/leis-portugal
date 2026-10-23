@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/792/1992/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/792-1992-282157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 824512c59af111a82f47fc8b64ed97bb24e49f1757f65137d4f94d02a967917d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3279390d14143055620eb577417d9d430d91bfcd602e0a8c4dae001d2beefdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:35:43Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +103,9 @@ Manda o Governo, pelo Ministro do Planeamento e da Administração do Territóri
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 15 de Julho de 1992.**
+Assinada em 15 de Julho de 1992.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 ## ANEXO
 
@@ -117,4 +117,4 @@ Definição da cor. - Cromaticamente apresenta-se nas cores verde (cor dominante
 
 Aplicações. - Aglutinado, surge um logótipo definido na família da letra New Century School Book, em caixa alta e ou baixa, com justificações à esquerda. A Comissão tem, por sua vez, uma série de definições quanto às múltiplas relações e justificações entre a marca e o logótipo, tendo em vista as suas futuras e diversas aplicações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/188b00/39973998.pdf))](https://files.diariodarepublica.pt/1s/1992/08/188b00/39973998.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/188b00/39973998.pdf)

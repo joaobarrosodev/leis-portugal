@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/996/1992/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:40:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0ef4e4647b18057ac6bd3da9ca80b2f05c4564f25ea03a496502e63ed1ed9b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f65ac9c0385259910f9bd3cbe8030d10d12e5c41547315abc8a15c2baceff7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:40:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Azeite
-- Região Demarcada
 - Olivicultura
 - Pedap
-- Programa Nacional de Olivicultura
 - Produção Agrícola
+- Programa Nacional de Olivicultura
+- Região Demarcada
 relationships:
 - type: amended_by
   target: pt:dre:656416:por
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/601/1991/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/601/1991/07/04/p/dre
+- type: cites
+  target: pt:dre:662487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668278:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:40:37Z'
   warnings: []
   errors: []
 ---
@@ -191,6 +199,6 @@ O valor das ajudas a conceder no âmbito desta secção é de 90% das despesas e
 
 Ministério da Agricultura.
 
-**Assinada em 25 de Setembro de 1992.**
+Assinada em 25 de Setembro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

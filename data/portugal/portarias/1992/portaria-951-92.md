@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/951/1992/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/951-1992-233557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:39:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44d40f06609ff044a9d97389fd526fa0ec6581eab2f7704b5485dce7e1d943cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68d727ac9f70df6f61538830357f036e0ee0228744293ead4228cfaf57fabdbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:39:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Fardamento
 - Junta Autónoma das Estradas
 - Portagem
-- Fardamento
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:442320:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:39:34Z'
   warnings: []
   errors: []
 ---
@@ -91,21 +95,21 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 1 de Setembro de 1992.**
+Assinada em 1 de Setembro de 1992.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.
 
-## Anexo à Portaria n.º 951/92, de 1 de Outubro
+Anexo à Portaria n.º 951/92, de 1 de Outubro
 
 1 - O pessoal da portagem a cargo da Junta Autónoma de Estradas tem direito, para uso em serviço, ao fardamento indicado nos quadros seguintes, dos quais constam o número de peças e a sua duração:
 
 A) Pessoal masculino - encarregados de portagem, fiscais de portagem e portageiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf))](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf)
 
 B) Pessoal feminino - portageiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf))](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf)
 
 2 - As peças de fardamento referidas terão as seguintes características:
 
@@ -131,4 +135,4 @@ Gravata - de tecido de fibra sintética, de cor azul-escura.
 
 3 - Os modelos de fardamento a adoptar em relação a blusões, casacos, calças, camisas, blusas, saias e anorak constam dos desenhos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf))](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/227b00/45974601.pdf)

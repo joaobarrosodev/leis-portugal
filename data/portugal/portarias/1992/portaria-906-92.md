@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/906/1992/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/906-1992-230959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:38:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 421ccb3b84c19066206626fb31da447c8d1edb6adbe4d86c9c02e0af5f5614b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa12d1e47b7812d275e96c2fc8ea5fc990cb96676106710c1b88e9969d9b1921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:38:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,26 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Equipamento de Veículo
 - Homologação
 - Veículo
-- Equipamento de Veículo
 relationships:
 - type: amended_by
   target: pt:dre:517628:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:512393:por
+  label: "Alterados os quadros anexos I e II da Portaria 1009/89, de 21 de novembro, na redacção do presente diploma, pela\
+    \ PORT.53/94.21.01.1994.MAI, DR.IS-B [17] de 21.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-1994-512393
+  date: '1994-01-21'
+- type: amended_by
+  target: pt:dre:496125:por
+  label: "Alterados os quadros anexos I e II da Portaria 1009/89, de 21 de novembro, na redacção do presente diploma, pela\
+    \ PORT.58/94.25.01.1994.MAI, DR.IS-B [20] de 25.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1994-496125
+  date: '1994-01-25'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -88,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:38:24Z'
   warnings: []
   errors: []
 ---
@@ -121,14 +133,14 @@ Manda o Governo, pelo Secretário de Estado da Administração Interna, o seguin
 
 1.º Os anexos I e II à Portaria n.º 1009/89, de 21 de Novembro, são alterados nos termos seguintes:
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/218b00/44804481.pdf))](https://files.diariodarepublica.pt/1s/1992/09/218b00/44804481.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/218b00/44804481.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/218b00/44804481.pdf))](https://files.diariodarepublica.pt/1s/1992/09/218b00/44804481.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/218b00/44804481.pdf)
 
 2.º São revogadas as Portarias n.os 534/90, de 10 de Julho, 870/91, de 22 de Agosto, e 725/90, de 21 de Agosto.
 
 Ministério da Administração Interna.
 
-**Assinada em 24 de Agosto de 1992.**
+Assinada em 24 de Agosto de 1992.
 
-**O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.**
+O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.
