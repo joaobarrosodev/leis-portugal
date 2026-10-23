@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/270b00/63216323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1191/1997/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1191-1997-406174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fceb5e6cc89d6e5f3846e73759ea540217751a1c4c9507e1945ea3ba5bea30db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba56c262108aafad3e6a93ad41d1123e5f60104bf88526fd369279fb15d10352
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Emprego
 - Empresa
 - Instituto do Emprego e Formação Profissional
-- Emprego
 - Política de Emprego
 - Regime de Apoio
 - Regime Jurídico
@@ -76,16 +76,27 @@ relationships:
   target: pt:dre:224203163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462066:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:224203163:por
+  label: Revogado, a partir de 15 de novembro de 2023, o presente diploma, sendo extintos os Centros de Apoio à Criação de
+    Empresas (CACE) e os ninhos de empresas a estes associados, pelo(a) Portaria n.º 360/2023 - Diário da República n.º 220/2023,
+    Série I de 2023-11-14, sem prejuízo do disposto no artigo 12.º (disposições transitórias) desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-2023-224203163
+  date: '2023-11-14'
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:46:38Z'
   warnings: []
   errors: []
 ---
@@ -308,6 +319,6 @@ O presente diploma entra em vigor no 1.º dia do 2.º mês a seguir à sua publi
 
 Ministério para a Qualificação e o Emprego.
 
-**Assinada em 27 de Outubro de 1997.**
+Assinada em 27 de Outubro de 1997.
 
-**A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.

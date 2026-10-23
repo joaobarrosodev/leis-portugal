@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 284/1997, 2º Suplemento, Série I-B de 1997-12-10
   number: '284'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6568-(4) a 6568-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/284b02/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1221-c/1997/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1221-c-1997-330001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:47:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6384f79aac65f6de905fd501c8e2dc56067daac90139439f76c189a983ceb089
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb22743d5df5822a407fe6632dececc0d47217bd55be0ca103127481b83497c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:47:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Petróleo
-- Produto Petrolífero
 - Combustível
+- Contribuições e Impostos
 - Fuelóleo
 - Gasóleo
 - Gasolina
-- Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
 - Madeira.região Autónoma
+- Petróleo
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:406337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519261:por
+  label: "Alterados os nºs 1 e 2 pela PORT.1269-B/97.1997.12.23.MF, DR.IS-B [295]Supl1\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1269-b-1997-519261
+  date: '1997-12-23'
+- type: amended_by
+  target: pt:dre:248061:por
+  label: "Alterado o nº 1º pela PORT.33-B/98.1998.01.21.MF e MECO DR.IS-B [17]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/33-b-1998-248061
+  date: '1998-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1994/05/18/p/dre
   label: null
@@ -89,16 +99,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1196-b/1997/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1196-b/1997/11/26/p/dre
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521834:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406337:por
+  label: "Revogada pela PORT.53-B/98.1998.02.04.MF e MECO DR.IS-B [29]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-b-1998-406337
+  date: '1998-02-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:47:37Z'
   warnings: []
   errors: []
 ---
@@ -133,6 +156,6 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do 
 
 Ministérios das Finanças e da Economia.
 
-**Assinada em 10 de Dezembro de 1997.**
+Assinada em 10 de Dezembro de 1997.
 
 Pelo Ministro das finanças, Fernando Teixeira dos Santos, Secretário de Estado do Tesouro e das Finanças. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.

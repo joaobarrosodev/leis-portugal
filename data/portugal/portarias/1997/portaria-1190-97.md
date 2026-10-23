@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1190/1997/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1190-1997-406173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:45:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 661b7fe25e7cf6cb4b0d44ebcf2fac5b2ff477ab01e9fe530c8952dc3962cda8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c18f524e8cdac664b409bbf3d1356775b0d42054752344214ba447e3095dabba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:45:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:45:26Z'
   warnings: []
   errors: []
 ---
@@ -114,12 +126,12 @@ Manda o Governo, pelos Ministros da Educação, da Saúde e para a Qualificaçã
 
 Ministérios da Educação, da Saúde e para a Qualificação e o Emprego.
 
-**Assinada em 23 de Outubro de 1997.**
+Assinada em 23 de Outubro de 1997.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
 
 ## ANEXO — Plano curricular
 
 Curso: Técnico-Adjunto de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/270b00/63206320.pdf))](https://files.diariodarepublica.pt/1s/1997/11/270b00/63206320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/270b00/63206320.pdf)

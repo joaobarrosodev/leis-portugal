@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1212/1997/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1212-1997-406349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:47:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21abe845e2c5e7a4dcd1a8d29e0a8b7b0ae59c233b043152d3ec5d34a7242533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d78871e268f5ad1b98b0a1276e8869f81ccb306d6358b9be534ec083a2d66b7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:47:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,23 @@ relationships:
   target: pt:dre:520673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:254447:por
+  label: "Suspensa, pelo prazo máximo de nove meses a concessão atribuida pela presente portaria pela PORT.1203-A/2001.2001.10.18.MADRP,\
+    \ DR.IS-B [242]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1203-a-2001-254447
+  date: '2001-10-18'
+- type: amended_by
+  target: pt:dre:246542:por
+  label: "Renovada a concessão da zona de caça associativa, pela PORT.1277-B/2001.2001.11.13.MADRP, DR.IS-B [263]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1277-b-2001-246542
+  date: '2001-11-13'
+- type: amended_by
+  target: pt:dre:520673:por
+  label: "Excluídos diversos prédios rústicos da zona de caça criada no presente diploma, e renovada na Port 1277-B/2001 de\
+    \ 13-Nov, pela PORT.611/2007.21.05.2007.MADRP, DR.IS [97] de 21.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/611-2007-520673
+  date: '2007-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664909:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:47:19Z'
   warnings: []
   errors: []
 ---
@@ -141,8 +186,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 14 de Novembro de 1997.**
+Assinada em 14 de Novembro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/277b00/64226423.pdf))](https://files.diariodarepublica.pt/1s/1997/11/277b00/64226423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/277b00/64226423.pdf)

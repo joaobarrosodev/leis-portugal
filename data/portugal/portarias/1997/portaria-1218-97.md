@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1218/1997/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1218-1997-406301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20035a82b7fc0a02b2ae01799a4f020718bf88d7e51177cf6dd5c02be74bfbc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 965560e3611d89c927ba89b2600ebaa145ff8f81b6599198357b6e6092101502
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Particular
-- Instituto Superior de Matemática e Gestão
 - Ensino Superior
+- Instituto Superior de Matemática e Gestão
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:357357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:357357:por
+  label: "Alterado o plano de estudos do curso de bacharelato em Informática de Gestão aprovado pela Port 1077/90, de 24-Out,\
+    \ na redacção do presente diploma, pela PORT.403/2001.2001.04.16.ME DR.IS-B [89]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-2001-357357
+  date: '2001-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -84,16 +90,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483093:por
+  label: "Revogado, na parte que se refere ao curso de bacharelato em Informática de Gestão e sem prejuízo do disposto no\
+    \ art. 10.º, pela PORT.1180/2003.06.10.2003.MCES, DR.IS-B [231] de 06.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1180-2003-483093
+  date: '1997-12-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:47:28Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +166,7 @@ O regime de transição entre o anterior e o novo plano de estudos é fixado pel
 
 Ministério da Educação.
 
-**Assinada em 6 de Novembro de 1997.**
+Assinada em 6 de Novembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -144,4 +176,4 @@ Curso: Informática de Gestão
 
 Grau: bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/279b00/64536454.pdf))](https://files.diariodarepublica.pt/1s/1997/12/279b00/64536454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/279b00/64536454.pdf)

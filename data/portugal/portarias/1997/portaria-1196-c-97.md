@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 272/1997, 2º Suplemento, Série I-B de 1997-11-24
   number: '272'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6354-(4) a 6354-(459)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1196-c/1997/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1196-c-1997-500406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:46:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2a5d87022d53cd8909095db6e27349153e8c705b9634936730b7c3dbc2cfe6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6905a4866cd34534864977753b828d9b880d41fb3d37643965cd6cc4f28ce478
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:46:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,36 @@ subjects:
 - Acordo ADR
 - Acordo Europeu
 - Aproximação das Legislações
-- Transporte Terrestre
 - Fiscalização
 - Licenciamento
-- Transporte de Mercadorias
 - Regulamento
 - Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada
+- Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
 - Transporte Internacional
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:581658:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:305377:por
+  label: "Alterado o § (3) do marginal 10221 do anexo B do Regulamento pela PORT.1106-B/99.1999.12.23.MES DR.IS-B [297]3º\
+    \ Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1106-b-1999-305377
+  date: '1999-12-23'
+- type: amended_by
+  target: pt:dre:275873:por
+  label: "Alterado o regulamento pelo DEC LEI.76/2000.2000.05.09.MES DR.IS-A [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2000-275873
+  date: '2000-05-09'
+- type: amended_by
+  target: pt:dre:581658:por
+  label: "Alterados os nºs 2º e 11º e aditados os nºs 7º-A, 9º-A e 11º-A pela PORT.729/2000.2000.09.07.MES,DR.IS-B [207]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/729-2000-581658
+  date: '2000-09-07'
 - type: cites
   target: celex:31994L0055
   label: null
@@ -90,16 +107,21 @@ relationships:
   target: celex:31996L0086
   label: null
   source: http://data.europa.eu/eli/dir/1996/86/oj
+- type: repealed_by
+  target: pt:dre:434032:por
+  label: "Revogada pelo DEC LEI.267-A/2003.27.10.2003.MOPTH, DR.IS-A [249-Supl] de 27.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2003-434032
+  date: '1997-11-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:46:56Z'
   warnings: []
   errors: []
 ---
@@ -122,13 +144,13 @@ Manda o Governo, pelos Ministros da Administração Interna, do Equipamento, do 
 
 2.º Para efeitos da execução do RPE e dos seus anexos A e B, bem como dos anexos A e B do Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR) e dos anexos A e B da Directiva n.º [94/55/CE](http://data.europa.eu/eli/dir/1994/55/oj?locale=pt), do Conselho, de 21 de Novembro de 1994, modificados pela Directiva n.º [96/86/CE](http://data.europa.eu/eli/dir/1996/86/oj?locale=pt), da Comissão, de 13 de Dezembro de 1996, são designados como competentes os serviços e entidades constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf))](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf)
 
 3.º Em complemento das aprovações dos protótipos dos reservatórios das cisternas fixas (veículos-cisternas), das cisternas desmontáveis, dos veículos-baterias e dos contentores-cisternas, a que se referem os marginais 211140 e 212140, as delegações regionais da economia asseguram ainda a aprovação da construção de cada unidade, bem como a emissão de autorizações de utilização das mesmas, quer iniciais, quer periódicas, bem como as resultantes de intervenções extraordinárias, sendo que a periodicidade das autorizações de utilização resultará da periodicidade dos ensaios dos reservatórios fixada nas secções 5 dos apêndices B.1a e B.1b, bem como nas correspondentes disposições do apêndice B.1c do RPE agora aprovado.
 
 4.º Os condutores habilitados com certificados de formação profissional emitidos ao abrigo do RPE, com o âmbito das especializações previstas no RPE anteriormente em vigor, poderão utilizá-los na realização de transportes de mercadorias perigosas, até ao termo da sua validade, sendo que a respectiva revalidação dará origem à emissão de um novo certificado de formação, com o âmbito previsto no RPE agora aprovado, mediante a frequência de cursos de reciclagem, com aproveitamento avaliado em exames, de acordo com a correspondência a seguir indicada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf))](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf)
 
 5.º Os certificados de aprovação de veículos anteriormente emitidos ao abrigo do RPE ou do Decreto-Lei n.º 143/79, de 23 de Maio, serão substituídos, aquando do termo da sua validade, por novos certificados de aprovação, se forem satisfatórias as respectivas inspecções técnicas, nos termos do RPE agora aprovado, no cumprimento das prescrições nele fixadas e das disposições transitórias dos n.os 6.º a 14.º da presente portaria.
 
@@ -154,10 +176,10 @@ Manda o Governo, pelos Ministros da Administração Interna, do Equipamento, do 
 
 Ministérios da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Economia, da Saúde e do Ambiente.
 
-**Assinada em 24 de Novembro de 1997.**
+Assinada em 24 de Novembro de 1997.
 
-**O Ministro da Administração Interna, Alberto Bernardes Costa. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Administração Interna, Alberto Bernardes Costa. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 REGULAMENTO NACIONAL DO TRANSPORTE DE MERCADORIAS PERIGOSAS POR ESTRADA (RPE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf))](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/272b02/00040459.pdf)

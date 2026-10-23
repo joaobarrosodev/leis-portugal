@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1071/1997/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1071-1997-672136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65d469eaa73d6c9daf69639e459b404271b0e1aecee28b4873bfd84c632a51e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f9ee926baaa2987bb189a1e3ee9c85ec41526d25fa9f355fae582fe5d071ac7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/168/1997/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/168/1997/07/04/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogada pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele\
+    \ previstas \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:10Z'
   warnings: []
   errors: []
 ---
@@ -202,6 +216,6 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Ministério da Economia.
 
-**Assinada em 26 de Setembro de 1997.**
+Assinada em 26 de Setembro de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.

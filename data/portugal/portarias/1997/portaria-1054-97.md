@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1054/1997/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1054-1997-668148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3355026cc0ea70d9a2e22035e79d882c20c4366671d2ff2e18897fa42e2ba80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c1ab6bf443377f30a11911e316d497c8b9db7da133b543ad45ea61deb75f0f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Fardamento
 - Força Aérea
 - Regulamento
-- Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:215980343:por
@@ -81,16 +81,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/922/1991/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/922/1991/09/04/p/dre
+- type: cites
+  target: pt:dre:566657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:215980343:por
+  label: Revogada, a partir de 22.07.2023, pelo(a) Portaria n.º 226/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21
+    nos termos do art. 2.º e n.º 2 do art. 3.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-2023-215980343
+  date: '2023-07-21'
 article_structure:
   article_count: 236
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:34Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +127,9 @@ Manda o Governo, pelo Ministro da Defesa Nacional, nos termos do artigo 1.º do 
 
 Ministério da Defesa Nacional.
 
-**Assinada em 16 de Junho de 1997.**
+Assinada em 16 de Junho de 1997.
 
-**O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino.**
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino.
 
 REGULAMENTO DE UNIFORMES DA FORÇA AÉREA (RUFA)
 
@@ -2073,4 +2087,4 @@ Quando superiormente determinado, a comissão de uniformes da Força Aérea prop
 
 Os artigos de fardamento constantes do anterior Regulamento de Uniformes da Força Aérea, aprovado pela [Portaria n.º 922/91](https://diariodarepublica.pt/dr/detalhe/portaria/922-1991-658615), de 4 de Setembro, e que não constam deste Regulamento continuarão a ser utilizados nas mesmas condições durante um período de transição a fixar, caso a caso, por despacho do Chefe do Estado-Maior da Força Aérea.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/240b00/55265623.pdf))](https://files.diariodarepublica.pt/1s/1997/10/240b00/55265623.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/240b00/55265623.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/078000000/1633516335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1114-2009-874549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f614d825f8124b298792814bbe86c30e8fc7bfb6219a1a3353e951d97d2bbee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d1ff1983204384fe48862bc0231881b26d57217dc078612901f0b4c74ac1bf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:288869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:56Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1114/2009
+# Declaração de rectificação n.º 1114/2009
 
 No Diário da República, 2.ª Série, n.º 10, de 15/01/2009, foi publicado por esta Entidade um aviso a páginas 2269 com inexactidão. Assim no 6.º parágrafo:
 
@@ -97,3 +113,5 @@ No 7.º parágrafo dá-se sem efeito a actual redacção que passa a ter a segui
 Mais se torna público que por despacho da Vice-presidente da Câmara Municipal de Anadia, datado de 23/12/2008 tomado no uso da competência que lhe foi conferida por deliberação da Câmara Municipal de Anadia tomada em sua reunião realizada em 26/10/2005 em conformidade com o n.º 3 do artigo 57.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18/09 alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11/01 e ainda nos termos da al. a), n.º 2, artigo 68.º, da referida [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18/09, foi nomeada nos termos do n.º 8, artigo 6.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 07/12, aplicado à Administração Local pelo [Decreto-Lei n.º 409/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869), de 17/10, e na sequência do concurso supra referido, a candidata, Maria Manuela Oliveira Marques, Assistente Administrativo Principal, para ocupar o respectivo lugar.
 
 3 de Abril de 2009. - O Presidente da Câmara, Litério Augusto Marques.
+
+301680397

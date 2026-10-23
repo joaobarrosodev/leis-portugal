@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/084000000/1736917369.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,41 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1165-2009-3577087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23b346ee026cd7cb9486b87a36918fdf894a1b040d3a94fd68afcd4d7f7328dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2184f9d597f5423ebbfacd530d159cc05052691c6eb0c7b8922d22827d77b87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega da FÉ
+- Ordenamento do Território
+- Plano Director Municipal
+- Política de Solos
+relationships:
+- type: amended_by
+  target: pt:dre:66602073:por
+  label: Tornadas públicas a aprovação, em 13.12.2014, da revisão do Plano Diretor Municipal de Alfandega da Fé (PDMAF); e
+    a revogação (a partir da entrada em vigor da citada revisão – 03.03.2015) do PDMAF, ratificado pela Res 103/94 de 18-out
+    da PCM, e alterado pela deliberação da Assembleia Municipal de Alfandega da Fé, publicitada pelo Aviso 7473/2009 de 03-abr,
+    retificado pela presente Declaração, pelo(a) Aviso n.º 2147/2015 - Diário da República n.º 40/2015, Série II de 2015-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2147-2015-66602073
+  date: '2015-02-26'
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:12Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1165/2009
+# Declaração de rectificação n.º 1165/2009
 
 Por ter saído com inexactidão o aviso n.º 7473/2009, publicado na 2.ª série do Diário da República n.º 66, de 3 de Abril de 2009, rectifica-se que onde se lê (no n.º 2 do artigo 149.º) deve ler-se (na alínea d) do n.º 4 do artigo 148.º); e onde se lê (aprovou por maioria e em minuta a alteração acima referida) deve ler-se (aprovou por maioria, com 13 abstenções e 22 votos a favor, a alteração acima referida).
 
@@ -90,4 +106,6 @@ Tendo-se verificado a existência de omissões no referido aviso n.º 7473/2009,
 
 24 de Abril de 2009. - O Vice-Presidente da Câmara, António Luís Machado Olaio.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/084000000/1736917369.pdf))](https://files.diariodarepublica.pt/2s/2009/04/084000000/1736917369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/084000000/1736917369.pdf)
+
+301720191

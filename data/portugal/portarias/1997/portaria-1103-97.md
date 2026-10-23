@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1103/1997/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1103-1997-675023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 236f17dc801794455863f66f0377a7993471f6f71bb10ffdc666cdec3a42fd24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff2fa80c69d3a477e16d03bbd0cb72facff6b1e4059b7cadb40962454a346059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Subsídio de Alimentação
 - Ação Social Escolar
-- Apoio Técnico
-- Financiamento
 - Apoio Pedagógico
+- Apoio Técnico
+- Deficiente
 - Educação Especial
-- Ministério da Educação
 - Ensino Particular
-- Licenciamento
-- Proteção ao Deficiente
 - Estabelecimento de Ensino
+- Financiamento
+- Licenciamento
+- Ministério da Educação
+- Proteção ao Deficiente
+- Subsídio de Alimentação
 - Subsídio de Transporte
 relationships:
 - type: amended_by
   target: pt:dre:115652961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115652961:por
+  label: Mantida em vigor pelo(a) Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06, até à
+    publicação da regulamentação referida no n.º 1 do seu art. 37.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2018-115652961
+  date: '2018-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/319/1991/08/23/p/dre
   label: null
@@ -95,16 +101,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/994/1995/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/994/1995/08/18/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524849:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:386871:por
+  label: "Revogado, a partir de 12.01.2008, o art. 6.º pelo DEC LEI.3/2008.07.01.2008.ME, DR.IS [4] de 07.01.2008 (repristinado\
+    \ por força da Lei 21/2008, de 12 de Maio)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2008-386871
+  date: '2008-01-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:02Z'
   warnings: []
   errors: []
 ---
@@ -315,7 +351,7 @@ a) Subsídio de alimentação - 11781$00;
 
 b) Subsídio de transporte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/254b00/60426045.pdf))](https://files.diariodarepublica.pt/1s/1997/11/254b00/60426045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/254b00/60426045.pdf)
 
 4 - Para efeitos do disposto na alínea b) do número anterior, entende-se por:
 
@@ -349,6 +385,6 @@ O disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1997
 
 Ministério da Educação.
 
-**Assinada em 7 de Outubro de 1997.**
+Assinada em 7 de Outubro de 1997.
 
 Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa.

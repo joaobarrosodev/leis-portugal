@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 281/1997, 1º Suplemento, Série I-B de 1997-12-05
   number: '281'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6514-(2) a 6514-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/281b01/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1221-a/1997/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1221-a-1997-305580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:47:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bc3e2a97770668faefe6593773874e4a424c9a14832d97552057e9dcdc8acae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf6d6cafceda95c23b24e258730f2b664a4e80a559ba74ab1dab48aa34d2593d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:47:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,37 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Geral das Pescas e Aquicultura
-- Pesca
-- Gestão dos Recursos
-- Licenciamento
-- Licença de Pesca
-- Recursos do Mar
-- Oceano Atlântico
 - Embarcação de Pesca
+- Gestão dos Recursos
+- Licença de Pesca
+- Licenciamento
+- Oceano Atlântico
+- Pesca
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:585220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585220:por
+  label: "Revogada pela PORT.34/2002.2002.01.09.MADRP, DR.IS-B [7] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-2002-585220
+  date: '2002-01-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:47:35Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +123,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 5 de Dezembro de 1997.**
+Assinada em 5 de Dezembro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

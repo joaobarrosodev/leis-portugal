@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/227b00/53805380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1036/1997/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1036-1997-658703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5145700f91618d171a540629cd28e60693c030f1fdc7a60e7ee678d2164d4b54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f83f8886953607b380f907eb6ed73f5aa79e9b30f78fc665d9a962bb96db77a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Produção Animal
+- Agricultor
 - Agrupamento de Produtores
-- Financiamento
-- Vida Selvagem
+- Ajuda Comunitária
 - Castro Verde
-- Exploração Agrícola
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
-- Programa Agrícola
-- Agricultor
+- Exploração Agrícola
+- Financiamento
 - Ifadap
+- Produção Animal
+- Programa Agrícola
+- Proteção do Ambiente
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:209843:por
@@ -96,16 +96,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/698/1994/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/698/1994/07/26/p/dre
+- type: cites
+  target: pt:dre:230120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574539:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:209843:por
+  label: "Revogada a Port 698/94 de 26-Jul, com a redacção dada pelo presente diploma, pela PORT.85/98.1998.02.19.MADRP, DR.IS-B\
+    \ [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-1998-209843
+  date: '1998-02-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:09Z'
   warnings: []
   errors: []
 ---
@@ -134,6 +152,6 @@ O disposto no presente diploma aplica-se às candidaturas já aprovadas.
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 
-**Assinada em 2 de Setembro de 1997.**
+Assinada em 2 de Setembro de 1997.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

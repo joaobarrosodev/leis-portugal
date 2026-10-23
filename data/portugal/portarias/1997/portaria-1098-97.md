@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1098/1997/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1098-1997-675030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bd7de0fcec7bf04c1507caf6e88f64d405229f366d1ba30cad25a0f51e64468
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aaea5cc5c0dc7e51e7124a6bfd7e5c73e8d420b4b6112fc795b34b3c2a777d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ciências da Saúde
-- Instituto Superior de Ciências da Saúde-norte
 - Avaliação das Instituições
-- Licenciatura
+- Ciências da Saúde
 - Ensino Superior
+- Instituto Superior de Ciências da Saúde-norte
+- Licenciatura
 - Porto
 relationships:
 - type: cites
@@ -94,16 +94,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/906/1993/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/906/1993/09/20/p/dre
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:52Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +156,6 @@ Manda o Governo, pelo Ministro da Educação, reconhecer efeitos retroactivos, a
 
 Ministério da Educação.
 
-**Assinada em 12 de Setembro de 1997.**
+Assinada em 12 de Setembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

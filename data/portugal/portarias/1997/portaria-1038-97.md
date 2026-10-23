@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/229b00/54025403.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1038/1997/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1038-1997-661916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80b5cf8f3f36c7fc8af78ef46688b11133dcf3c0b1598794a545421a79010782
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c8873a84e59f1d40c8c12791f6cd2e44298b174ecfeab104b7c134d0c60cda9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Produto Petrolífero
 - Combustível
-- Fabrico Industrial
 - Contribuições e Impostos
+- Fabrico Industrial
+- Imposto sobre Produtos Petrolíferos
 - Isenção Fiscal
 - ÓLEO Mineral
+- Produto Petrolífero
 relationships:
 - type: amended_by
   target: pt:dre:315562:por
@@ -90,16 +90,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:262354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315562:por
+  label: "Revogada, a partir de 13.02.2008, pela PORT.117-A/2008.08.02.2008.MFAP, DR.IS [28-Supl] de 08.02.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-a-2008-315562
+  date: '2008-02-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:11Z'
   warnings: []
   errors: []
 ---
@@ -166,6 +183,6 @@ i) Declaração de compromisso, feita em papel timbrado, assinada por quem possa
 
 Ministério das Finanças.
 
-**Assinada em 11 de Setembro de 1997.**
+Assinada em 11 de Setembro de 1997.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

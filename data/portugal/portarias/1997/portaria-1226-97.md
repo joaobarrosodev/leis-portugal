@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1226/1997/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1226-1997-403756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:47:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b137bca5b92e9d190ff7b6640fa1d8579bc6c64575597d51fe1fe16ee0b6c281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 325f5a4fc65f9349458033326e7131a6c3b978cbd87fd1023ce2bc29a789adee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:47:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,25 @@ subjects:
 - Impresso
 - Ministério das Finanças
 - Reposição de Verbas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:422193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658745:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:47:44Z'
   warnings: []
   errors: []
 ---
@@ -99,8 +107,8 @@ Manda o Governo, pela Secretária de Estado do Orçamento, o seguinte:
 
 Ministério das Finanças.
 
-**Assinada em 25 de Novembro de 1997.**
+Assinada em 25 de Novembro de 1997.
 
-**A Secretária de Estado do Orçamento, Maria Manuela de Brito Arcanjo Marques da Costa.**
+A Secretária de Estado do Orçamento, Maria Manuela de Brito Arcanjo Marques da Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/288b00/66136613.pdf))](https://files.diariodarepublica.pt/1s/1997/12/288b00/66136613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/288b00/66136613.pdf)

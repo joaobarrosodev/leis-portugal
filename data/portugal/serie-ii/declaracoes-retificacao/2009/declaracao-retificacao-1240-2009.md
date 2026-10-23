@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/091000000/1867418674.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1240-2009-1284748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:44:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd22183f1fe076c2b8cfd2f32e6289e5157eed4b602ec13d953acf166d8064c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07408d8206113c971f22c48db71fb0ac055fe1d0dfe309958c6575ea823d1fa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:44:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:44:57Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1240/2009
 Para os devidos efeitos, se torna público que, relativamente ao conteúdo do aviso n.º 8969/2009, publicado na 2.ª série do Diário da República n.º. 85, de 4 de Maio de 2009, deve ser alterado o seguinte: na sexta linha onde se lê "nível 1", deve ler-se "nível 2"; na linha 11ª onde se lê "índice 420" deve ler-se "índice 480"; na linha 12ª. onde se lê (1441,78(euro)), deve ler-se (1647,74(euro)).
 
 4 de Maio de 2009. - O Vice-Presidente da Câmara, José Alberto Almeida Morgado.
+
+301751052

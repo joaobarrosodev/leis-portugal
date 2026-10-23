@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/286b00/65786579.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1223/1997/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1223-1997-405157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:47:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd74f0e2fab65897ce27696837bf88f40ced4029c0a6d063e7bbea39189cfac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0240d1e7d8128a21054fd1dc7d8b4bc04fe8085cf0310bc1c8ab0d7653d0b483
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:47:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Família
 - Educação Especial
 - Escola de Educação Especial
+- Família
 - Mensalidade
-- Proteção ao Deficiente
 - Prestações Familiares
+- Proteção ao Deficiente
 - Segurança Social
 - Subsídio de Educação Especial
 relationships:
@@ -87,16 +87,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/161/1997/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/161/1997/03/06/p/dre
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515438:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:331007:por
+  label: "Revogada pela PORT.308/99.1999.05.08.MF,DR.IS-B [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-1999-331007
+  date: '1999-05-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:47:39Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +156,7 @@ Determinação do valor da comparticipação das famílias
 
 1 - É aprovada a tabela para a determinação do valor da comparticipação das famílias prevista no n.º 1 do artigo 9.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/286b00/65786579.pdf))](https://files.diariodarepublica.pt/1s/1997/12/286b00/65786579.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/286b00/65786579.pdf)
 
 2 - Nas modalidades de internato e de semi-internato a comparticipação não pode ser inferior, respectivamente, ao valor do subsídio familiar a crianças e jovens, percebido por um só filho de idade superior a 12 meses, correspondente ao 3.º escalão, deduzido dos montantes de eventuais majorações ou bonificações específicas que lhe acresçam, e a metade desse valor.
 
@@ -145,7 +166,7 @@ Determinação da poupança familiar
 
 É aprovada a tabela das despesas anuais fixas a considerar para o cálculo da poupança familiar e determinação da comparticipação das famílias, de harmonia com o disposto no n.º 2 do artigo 9.º e no artigo 10.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/286b00/65786579.pdf))](https://files.diariodarepublica.pt/1s/1997/12/286b00/65786579.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/286b00/65786579.pdf)
 
 4.º
 
@@ -167,6 +188,6 @@ Revogação
 
 Ministérios das Finanças e da Solidariedade e Segurança Social.
 
-**Assinada em 12 de Novembro de 1997.**
+Assinada em 12 de Novembro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Solidariedade e da Segurança Social, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social.

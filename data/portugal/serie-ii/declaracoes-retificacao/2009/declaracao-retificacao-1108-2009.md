@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/077000000/1613616136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1108-2009-3048055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7c514a806fd5c682a84d40d2dc7cede0bc99b396461bf310d706531f44a4c1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 127c7f45c133ed10439bb8d1a96ee731c59beb8a376d4711d60b52bf7d93222a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:48Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Rectificação do aviso n.º 8088/2009, do Diário da República, 2.ª série, d
 No aviso n.º 8088/2009, publicado no Diário da República, 2.ª série, n.º 72, de 14 de Abril de 2009, foi omitido, por lapso, o prazo para apresentação de candidaturas. Assim, torna-se público que o prazo para apresentação de candidaturas é de 10 dias úteis contados a partir da data da publicação do aviso na Bolsa de Emprego Público.
 
 14 de Abril de 2009. - O Presidente, António José Ceia da Silva.
+
+301683889

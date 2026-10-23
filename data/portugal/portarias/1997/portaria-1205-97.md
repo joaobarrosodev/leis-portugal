@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1205/1997/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1205-1997-406366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:47:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ecc96e0e1fe5e1cce2f560f69322863e30838f76b3c58a4be0b7f179a2aa1e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f566df483568894659e304787fcb3700aba5e99a97d080d0c30b06be1686ed7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:47:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Particular
-- Lisboa
+- Ensino Superior
 - Instituto Superior de Matemática e Gestão
 - Licenciatura
-- Ensino Superior
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:198335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198335:por
+  label: "Alterado o nº 2,o anexo que fixou o plano de estudos e aditado os nºs. 4º-A e 4º-B ao presente diploma, pela PORT.151/2003.2003.02.13.MCES,\
+    \ DR.IS-B [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/151-2003-198335
+  date: '2003-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -93,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:47:08Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +219,7 @@ O número de vagas para a candidatura à matrícula e inscrição no ano lectivo
 
 Ministério da Educação.
 
-**Assinada em 6 de Novembro de 1997.**
+Assinada em 6 de Novembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -197,4 +227,4 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 Curso: Ciência das Religiões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/276b00/64126414.pdf))](https://files.diariodarepublica.pt/1s/1997/11/276b00/64126414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/276b00/64126414.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/075000000/1575515755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1086-2009-1942424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 496914d22dd5b600e0544f713dd953a241604ea01f1b463a11d7fb5fa1dfa049
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f746be92077dc54932c397e66d0a03ea9b1a189baf4bd6fe6f857253224de766
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:18Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +89,12 @@ Projecto de Regulamento de Trânsito para a Vila de Penalva do Castelo
 
 Dr. Carlos Ferreira dos Santos, vice-presidente da Câmara Municipal de Penalva do Castelo, torna público que no anexo i do projecto de regulamento publicado na 2.ª série do Diário da República, n.º 54, de 18 de Março de 2009, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/075000000/1575515755.pdf))](https://files.diariodarepublica.pt/2s/2009/04/075000000/1575515755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/075000000/1575515755.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/075000000/1575515755.pdf))](https://files.diariodarepublica.pt/2s/2009/04/075000000/1575515755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/075000000/1575515755.pdf)
 
 7 de Abril de 2009. - O Vice-Presidente da Câmara, Carlos Ferreira dos Santos.
+
+201672864

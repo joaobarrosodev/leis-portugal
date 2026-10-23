@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 38/1997, 3º Suplemento, Série I-B de 1997-02-14
   number: '38'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 758-(9) a 758-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/038b03/00090009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/106-c/1997/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/106-c-1997-406374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3658709a719dbec03b50aaed93ce1ee70f14d8c4a69a2e19328f54221a6b5d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0125a8a124a93d02dead2156bc6c7be40cd6c7a039c2ef2840b8279f8dfc8922
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:604177:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604177:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pela Port 1236/90 de 29-Dez , com a renovação efectuada\
+    \ no presente diploma, pela PORT.393/2009.13.04.2009.MAOTDR, DR.IS [71] de 13.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-2009-604177
+  date: '2009-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/466/1996/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/466/1996/09/09/p/dre
+- type: cites
+  target: pt:dre:241830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564189:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:46Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +138,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 6 de Fevereiro de 1997.**
+Assinada em 6 de Fevereiro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/038b03/00090009.pdf))](https://files.diariodarepublica.pt/1s/1997/02/038b03/00090009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/038b03/00090009.pdf)

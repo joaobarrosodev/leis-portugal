@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1165/1997/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1165-1997-686205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:44:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a41671df0e89719fc398b710de4ecd566dcac45b4df77c0ba0a77d4baf12a6cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 163d59d32876816569683468ad6b569e55def6fcba6fc04587ed5c9b059f6d55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:44:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,19 @@ relationships:
   target: pt:dre:334901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484095:por
+  label: "Renovada por seis a concessão de zona de caça, com a redacção conferida pela Port 764/2000 de 13-Set, pela PORT.1160/2003.02.10.2003.MADRP,\
+    \ DR.IS-B [228] de 02.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-2003-484095
+  date: '1997-11-14'
+- type: amended_by
+  target: pt:dre:334901:por
+  label: "Renovada, a partir de 16.11.2009, pelo período de seis anos a concessão da zona de caça atribuída pela Port 615-M1/91\
+    \ de 08-Jul, com as alterações constantes do presente diploma, e anexados, a partir da mesma data, vários prédios rústicos\
+    \ à referida zona da caça pela PORT.398/2010.28.06.2010.MADRP, DR.IS [123] de 28.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/398-2010-334901
+  date: '2010-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667/1997/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667/1997/08/12/p/dre
+- type: cites
+  target: pt:dre:202459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:44:28Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 28 de Outubro de 1997.**
+Assinada em 28 de Outubro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/264b00/62156216.pdf))](https://files.diariodarepublica.pt/1s/1997/11/264b00/62156216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/264b00/62156216.pdf)

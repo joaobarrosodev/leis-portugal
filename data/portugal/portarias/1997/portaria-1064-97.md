@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1064/1997/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1064-1997-672658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21f5bb5fa6c85f19f3abb4d5d7be202b030c5a99190ada2f50dbcb0c133bb3c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ca163afa903aa1e44acd3947c93eadb4c69a6306ce42d8c6d351f45d621ecd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Construção Civil
 - Documentação Administrativa
 - Estabelecimento Hoteleiro
+- Infraestrutura Turística
 - Licenciamento de Obras
 - Responsabilidade Civil
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:439866:por
@@ -89,16 +89,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1115-b/1994/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1115-b/1994/12/15/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672657:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439866:por
+  label: "Revogadas, a partir de 01.01.2009, as als. g) e h) do nº2 e o nº3 do art. 3º pelo DEC LEI.220/2008.12.11.2008.MAI,\
+    \ DR.IS [220] de 12.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2008-439866
+  date: '2008-11-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:57Z'
   warnings: []
   errors: []
 ---
@@ -257,6 +275,6 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território e de Economia.
 
-**Assinada em 26 de Setembro de 1997.**
+Assinada em 26 de Setembro de 1997.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.

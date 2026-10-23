@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/079000000/1663816643.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1124-2009-3582206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a0bb30701c9c32ca591e2a1d01e0824a5f979526a05fc020c247e99bccff0dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 542a18ee3be6326f990396366b663200495eb255ef8512ca097c4852ceb377e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1940518:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:11Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1124/2009
+# Declaração de rectificação n.º 1124/2009
 
 Para os devidos efeitos se torna público que se procede à rectificação do [Regulamento n.º 204/2008](https://diariodarepublica.pt/dr/detalhe/regulamento/204-2008-1940518), publicado no Diário da República, 2.ª série, n.º 75, de 16 de Abril de 2008. Assim, no artigo 11.º "onde se lê 2. - Serviços Técnicos (ST)", "deve ler-se 2.-Departamento de Serviços Técnicos", "onde se lê 2.1. - Sectores de apoio aos Serviços Técnicos", "deve ler-se 2.1. - Divisão do Urbanismo e Projectos Municipais - DUPM", "onde se lê 2.2. - Área do Urbanismo e Projectos Municipais - UPM", "deve ler-se 2.2. - Divisão de Obras Municipais, Ambiente e Serviços Urbanos - DOMASU",", "onde se lê 2.3. - Área do de Obras Municipais, Ambiente e Serviços Urbanos - AOMSU", "deve ler-se 2.3. - Sector de Fiscalização", "onde se lê 2.1.2. - Sector de Topografia e Cartografia - STC", "deve ler-se 2.4. - Sector de de Topografia e Cartografia - STC", "onde se lê 2.1.2. - Sector de Apoio Administrativo - SAA", "deve ler-se 2.5. - Secção de Apoio Administrativo - SAA", "onde se lê 3. - Serviços Administrativos e Financeiros (SAF)", "deve ler-se 3. - Departamento Administrativo e Financeiro (DAF)", "onde se lê 3.1 - Área de Administração Geral e Recursos Humanos - AGRH", "deve ler-se 3.1. - Divisão de Administração Geral e Recursos Humanos - DAGRH", "onde se lê 3.2 - Área Financeira e Património - AFP", "deve ler-se 3.2. - Divisão Financeira e Património - DFP", e ainda, "onde se lê 4. - Área de Acção Social, Educação, Cultura e Desporto (ASECD)", "deve ler-se 4. - Divisão de Acção Social, Educação, Cultura e Desporto (DASECD)".
 
@@ -673,4 +677,6 @@ No artigo 49.º "onde se lê quadro de pessoal, 1 - O quadro do pessoal da Câma
 
 2 de Março de 2009. - O Presidente de Câmara, José Ismael Fernandes.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/079000000/1663816643.pdf))](https://files.diariodarepublica.pt/2s/2009/04/079000000/1663816643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/079000000/1663816643.pdf)
+
+201477443

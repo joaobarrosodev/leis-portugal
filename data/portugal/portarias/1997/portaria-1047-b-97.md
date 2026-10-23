@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 236/1997, 1º Suplemento, Série I-B de 1997-10-11
   number: '236'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5474-(2) a 5474-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/236b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1047-b/1997/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1047-b-1997-694234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d293713265b73337213c006c2b8b12117b6e80d9d5cd7b8ffda47403a6f8871
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01ae53d7f0868bfbbcab32c3023b0a27fc316c1e4c10b7e14832496faf88d36e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
-- Numerus Clausus
 - Ensino Superior
+- Numerus Clausus
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/698-a/1997/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/698-a/1997/08/20/p/dre
+- type: cites
+  target: pt:dre:429586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659750:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:24Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +141,6 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 7 de Outubro de 1997.**
+Assinada em 7 de Outubro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

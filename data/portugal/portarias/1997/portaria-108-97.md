@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/108/1997/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/108-1997-500715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaaac3bfb75518315075c92dc3a5e037b8b7757447f01a15a431234cb1644692
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 129bee7400b86f32ddb111287e76ec3a73e1857f8ef9a0e2a5ddf11346fe0ad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Acompanhamento ao Piano
 - Curso de Estudos Superiores Especializados em Canto Gregoriano
 - Curso de Estudos Superiores Especializados em Composição
 - Curso de Estudos Superiores Especializados em Direcção Coral
 - Curso de Estudos Superiores Especializados em Interpretação
 - Curso de Estudos Superiores Especializados em Técnico de Audio
+- Ensino Artístico
 - Ensino Superior Politécnico
 - Escola Superior de Música
-- Lisboa
 - Instituto Politécnico
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:558069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231574:por
+  label: "Alterado o nº 2º e os anexos I a VII do presente diploma, pela PORT.62/98.1998.02.14.ME DR.IS-B [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-1998-231574
+  date: '1998-02-14'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:558069:por
+  label: "Revogada, findo o processo de transição fixado nos termos do artigo 31º do Regulamento aprovado pela Port 413-A/98,\
+    \ de 17-Jul, alterada pela Port 533-A/99, de 22-Jul, pela PORT.833/2000.2000.09.22.ME DR.IS-B [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/833-2000-558069
+  date: '2000-09-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:21Z'
   warnings: []
   errors: []
 ---
@@ -380,10 +403,10 @@ Os cursos entram em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 20 de Janeiro de 1997.**
+Assinada em 20 de Janeiro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
 Do ANEXO I ao ANEXO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/040b00/07630769.pdf))](https://files.diariodarepublica.pt/1s/1997/02/040b00/07630769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/040b00/07630769.pdf)

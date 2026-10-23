@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1114/1997/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1114-1997-684622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9f09928ca5494c0b41de86352236a667697258ff38173c6c4dadeff6b9e0ec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ebdd9a5155f7f0660e037233b5c536d48ee9653b3ac43c96f7ff2a2617c60e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Coimbra
 - Ensino Superior Politécnico
 - Instituto Superior de Engenharia
-- Coimbra
 - Pessoal Docente
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:354109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620745:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:19Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +109,7 @@ Manda o Governo, pelo Ministro da Educação, que a estrutura orgânica dos quad
 
 Ministério da Educação.
 
-**Assinada em 12 de Setembro de 1997.**
+Assinada em 12 de Setembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -109,4 +117,4 @@ MAPA ANEXO
 
 Estrutura orgânica dos quadros de professores-coordenadores e professores-adjuntos do Instituto Superior de Engenharia do Instituto Politécnico de Coimbra a que se referem os mapas I e III anexos ao [Decreto-Lei n.º 389/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1988-354109), de 25 de Outubro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/256b00/60906091.pdf))](https://files.diariodarepublica.pt/1s/1997/11/256b00/60906091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/256b00/60906091.pdf)

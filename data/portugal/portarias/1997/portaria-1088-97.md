@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/252b00/59455949.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1088/1997/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1088-1997-674035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8ccc4c7ec34a598c868e1553a43c18c434317095cde8dc9b28dbc9d0401ed79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31dc54b8f5a688311e11422c62c97ba179ea57956e58ce90607adfd6a7bd4f45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Produtores
-- Doença Animal
 - Controlo Sanitário
+- Doença Animal
 - Exploração Pecuária
 - Regulamento
 - Regulamento de Constituição Funcionamento e Organização dos Produtores Pecuários para Defesa Sanitária dos Ruminantes
@@ -77,6 +77,12 @@ relationships:
   target: pt:dre:200418:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180602:por
+  label: "Alterados os art. 2º, 3º, 6º, 7º, 8º e 18º e revogado o art. 20º do regulamento aprovado pelo presente diploma,\
+    \ pela PORT.68/99.1999.01.28.MADRP, DR.IS-B [23]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-1999-180602
+  date: '1999-01-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275/1997/10/08/p/dre
   label: null
@@ -85,16 +91,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/809-g/1994/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/809-g/1994/09/12/p/dre
+- type: cites
+  target: pt:dre:356732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667171:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:288665:por
+  label: "Revogada, na redacção dada pela Port 68/99 de 28-Jan, pela PORT.356/2000.2000.06.16.MADRP, DR.IS-B [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/356-2000-288665
+  date: '2000-06-16'
+- type: repealed_by
+  target: pt:dre:200418:por
+  label: "Revogada, com a redacção dada pela Port 68/99 de 28-Jan, pela PORT.122/2003.2003.02.05.MADRP DR.IS-B [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-2003-200418
+  date: '2003-02-05'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:32Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +157,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 6 de Outubro de 1997.**
+Assinada em 6 de Outubro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
@@ -377,7 +409,7 @@ d) As OPP e os PI emitem recibos das prestações de serviço efectuadas, envian
 
 e) A prestação de serviços efectuada pelas OPP é subvencionada nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/252b00/59455949.pdf))](https://files.diariodarepublica.pt/1s/1997/10/252b00/59455949.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/252b00/59455949.pdf)
 
 f) Os valores referidos na alínea anterior poderão ser alterados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
 

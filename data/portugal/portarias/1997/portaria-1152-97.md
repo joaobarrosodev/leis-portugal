@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1152/1997/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1152-1997-687025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:44:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7d00cb4330682c2f027c38e3b8d3a0ee64464f645c10247a1a94baf30002942
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4add06fa1d9c40825e0fded84af193bebcbe630ffb4817ab789bb860aaa1bc27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:44:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Saúde Pública
-- Etiquetagem
 - Embalagem
+- Etiquetagem
+- Produto Químico
 - Proteção do Ambiente
 - Proteção do Consumidor
 - Regulamento para a Classificação Embalagem e Rotulagem das Preparações Perigosas
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:239792:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:316475:por
+  label: "Alterados os arts. 22.º, 29.º e 30.º, a parte B do anexo I e o anexo III pelo DEC LEI.189/99.1999.06.02.MECO DR.IS\
+    \ [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-1999-316475
+  date: '1999-06-02'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -114,16 +120,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/396/1994/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/396/1994/06/21/p/dre
+- type: repealed_by
+  target: pt:dre:239792:por
+  label: "Revogada pelo DEC LEI.82/2003.2003.04.23.MECO DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2003-239792
+  date: '2003-04-23'
 article_structure:
   article_count: 32
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:44:11Z'
   warnings: []
   errors: []
 ---
@@ -156,9 +167,9 @@ Manda o Governo, pelos Ministros da Economia, da Saúde e do Ambiente, o seguint
 
 Ministérios da Economia, da Saúde e do Ambiente.
 
-**Assinada em 6 de Outubro de 1997.**
+Assinada em 6 de Outubro de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 REGULAMENTO PARA A CLASSIFICAÇÃO, EMBALAGEM E ROTULAGEM DAS PREPARAÇÕES PERIGOSAS
 
@@ -276,7 +287,7 @@ a) O fabricante alterar a composição da preparação, substituindo ou acrescen
 
 b) O fabricante alterar a concentração inicial, ex-pressa em percentagem em peso de um ou vários componentes perigosos para a saúde, presentes nessas preparações, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 ##### SUBSECÇÃO III — Método convencional de cálculo
 
@@ -292,7 +303,7 @@ a) As preparações que contenham pelo menos uma substância muito tóxica, com 
 
 b) As preparações contendo várias substâncias muito tóxicas, com concentrações individuais inferiores aos limites de toxicidade fixados para cada uma dessas substâncias, se o somatório dos quocientes obtidos dividindo a concentração de cada substância muito tóxica presente na preparação pelo limite de toxicidade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 2 - São ainda consideradas muito tóxicas, com base nos seus efeitos irreversíveis não letais, após uma única exposição, as preparações contendo, pelo menos, uma substância perigosa que produza tais efeitos, numa concentração individual igual ou superior ao limite de toxicidade para essa substância, fixado no anexo I à Portaria n.º 732-A/96 ou, na ausência deste, nos quadros II ou II-A da parte B do anexo I ao presente Regulamento.
 
@@ -304,7 +315,7 @@ a) As preparações que contenham pelo menos uma substância muito tóxica ou t�
 
 b) As preparações contendo várias substâncias muito tóxicas ou tóxicas, numa concentração individual inferior aos limites de toxicidade fixados para cada uma dessas substâncias, se o somatório dos quocientes obtidos dividindo a concentração de cada substância presente na preparação pelo limite de toxicidade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 2 - São ainda consideradas tóxicas, com base nos seus efeitos irreversíveis não letais, após uma única exposição, as preparações contendo pelo menos uma substância que produza tais efeitos, numa concentração individual igual ou superior ao limite de toxicidade para essa substância fixado no anexo I à Portaria n.º 732-A/96 ou, na ausência deste, nos quadros II ou II-A da parte B do anexo I a este Regulamento.
 
@@ -320,7 +331,7 @@ a) As preparações que contenham, pelo menos, uma substância muito tóxica, t�
 
 b) As preparações contendo várias substâncias muito tóxicas, tóxicas ou nocivas, com concentrações individuais inferiores aos limites de nocividade fixados para cada uma dessas substâncias, se o somatório dos quocientes obtidos dividindo a concentração de cada substância presente na preparação pelo limite de nocividade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 2 - Com base nos seus efeitos irreversíveis não letais após uma única exposição, as preparações que contenham pelo menos uma substância perigosa que produza tais efeitos, numa concentração individual igual ou superior ao limite de nocividade para essa substância fixado no anexo I à Portaria n.º 732-A/96 ou, na ausência deste, nos quadros II ou II-A da parte B do anexo I a este Regulamento.
 
@@ -334,7 +345,7 @@ a) As preparações que contenham pelo menos uma substância corrosiva e afectad
 
 b) As preparações contendo várias substâncias corrosivas, afectadas pela frase R35, com concentrações individuais inferiores aos limites de corrosividade fixados para cada uma dessas substâncias, se o somatório dos quocientes obtidos dividindo a concentração de cada substância corrosiva presente na preparação pelo limite de corrosividade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 2 - São consideradas corrosivas:
 
@@ -342,7 +353,7 @@ a) As preparações que contenham pelo menos uma substância corrosiva e afectad
 
 b) As preparações contendo várias substâncias corrosivas e afectadas pelas frases R34 ou R35, com concentrações individuais inferiores aos limites de corrosividade fixados para cada uma dessas substâncias se o somatório dos quocientes obtidos dividindo a concentração de cada substância corrosiva presente na preparação pelo limite de corrosividade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 ###### Artigo 16.º — Preparações irritantes
 
@@ -354,7 +365,7 @@ i) As preparações que contenham pelo menos uma substância irritante e afectad
 
 ii) As preparações contendo várias substâncias irritantes e afectadas pela frase R41, ou classificadas como corrosivas e afectadas pelas frases R35 ou R34, com concentrações individuais inferiores aos limites de irritabilidade fixados para cada uma dessas substâncias, se o somatório dos quocientes obtidos dividindo a concentração de cada substância presente na preparação pelo limite de irritabilidade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 b) E susceptíveis de causar outras lesões oculares:
 
@@ -362,7 +373,7 @@ i) As preparações que contenham pelo menos uma substância classificada como c
 
 ii) As preparações contendo várias substâncias irritantes e afectadas pelas frases R41 ou R36 ou classificadas como corrosivas e afectadas das frases R35 ou R34, com concentrações individuais inferiores aos limites fixados para essas substâncias, se o somatório dos quocientes obtidos dividindo a concentração de cada substância presente na preparação pelo limite de irritabilidade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 2 - São consideradas irritantes para a pele:
 
@@ -370,7 +381,7 @@ a) As preparações que contenham pelo menos uma substância corrosiva e afectad
 
 b) As preparações contendo várias substâncias corrosivas e afectadas pelas frases R35 ou R34 ou irritantes e afectadas pela frase R38, com concentrações individuais inferiores aos limites de irritabilidade fixados para essas substâncias, se o somatório dos quocientes obtidos dividindo a concentração de cada substância contida na preparação pelo limite de irritabilidade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 3 - São consideradas irritantes para as vias respiratórias:
 
@@ -378,7 +389,7 @@ a) As preparações que contenham pelo menos uma substância irritante afectada 
 
 b) As preparações contendo várias substâncias irritantes afectadas pela frase R37, com concentrações individuais inferiores aos limites de irritabilidade fixados para cada uma dessas substâncias, se o somatório dos quocientes obtidos dividindo a concentração de cada substância presente na preparação pelo limite de irritabilidade fixado para essa mesma substância for igual ou superior a 1, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 ###### Artigo 17.º — Preparações sensibilizantes
 
@@ -524,7 +535,7 @@ c) Para o efeito da alínea anterior, as frases combinadas, constantes dos anexo
 
 2 - As dimensões do rótulo devem, se possível, corresponder aos seguintes formatos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 3 - Estes formatos destinam-se exclusivamente a conter as informações exigidas pelo presente Regulamento e, eventualmente, indicações complementares de higiene ou de segurança.
 
@@ -608,7 +619,9 @@ ii) Tratando-se de tipos especiais de embalagens, como os reservatórios móveis
 
 Este diploma entra imediatamente em vigor.
 
-## ANEXO I — PARTE A
+## ANEXO I
+
+## PARTE A
 
 Métodos alternativos de avaliação das propriedades físico-químicas em conformidade com o artigo 7.º
 
@@ -620,7 +633,7 @@ O método fundamenta-se na comparação da capacidade comburente dos gases compo
 
 Considera-se que uma mistura gasosa é tão ou mais comburente do que o ar se for satisfeita a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 Nesse caso, a preparação será classificada como comburente e ser-lhe-á atribuída a frase R8.
 
@@ -638,7 +651,7 @@ Contudo, no caso das preparações gasosas produzidas por encomenda em pequenas 
 
 A fórmula da mistura gasosa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 pode ser convertida numa fórmula em que todos os I(índice i) (gases inertes) são expressos num equivalente de azoto, utilizando para o efeito um coeficiente K(índice i), em que o teor equivalente, A(índice i), de cada um dos gases inflamáveis é expresso pela seguinte fórmula:
 
@@ -646,7 +659,7 @@ A'(índice i) = A(índice i) x [100/(A(índice i) + K(índice i)B(índice i))]
 
 Recorrendo ao valor do teor máximo (Tc(índice i)) de cada um dos gases inflamáveis que, em mistura com azoto, corresponde ainda a uma mistura gasosa não inflamável ao ar, é possível chegar à seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 As misturas gasosas serão inflamáveis se o valor da expressão anterior for superior a 1. As preparações em questão serão então classificadas de extremamente inflamáveis e qualificadas pela frase R12.
 
@@ -684,7 +697,7 @@ c(índice i) é a concentração de peróxido orgânico i em percentagem mássic
 
 m(índice i) é a massa molecular de peróxido orgânico i.
 
-# PARTE B
+## PARTE B
 
 Limites de concentração a utilizar na aplicação do método convencional de avaliação dos perigos para a saúde em conformidade com a subsecção III.
 
@@ -716,7 +729,7 @@ Os limites de concentração fixados no quadro I determinam a classificação da
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 As frases de risco, R, são atribuídas à preparação de acordo com os seguintes critérios:
 
@@ -730,7 +743,7 @@ Os limites de concentração expressos em percentagem volume/volume que figuram 
 
 QUADRO I-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 As frases de risco, R, são atribuídas à preparação de acordo com os seguintes critérios:
 
@@ -746,7 +759,7 @@ No caso das substâncias que produzem efeitos irreversíveis não letais após u
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 2.2 - Preparações gasosas
 
@@ -754,7 +767,7 @@ No caso dos gases que produzem este tipo de efeitos (R39/via de exposição, R40
 
 QUADRO II-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 3 - Efeitos graves após exposição repetida ou prolongada
 
@@ -764,7 +777,7 @@ No caso das substâncias que produzem efeitos graves após exposição repetida 
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 3.2 - Preparações gasosas
 
@@ -772,7 +785,7 @@ No caso dos gases que produzem este tipo de efeitos (R48/via de exposição), os
 
 QUADRO III-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 4 - Efeitos corrosivos e irritantes, incluindo as lesões oculares graves
 
@@ -782,7 +795,7 @@ No caso das substâncias que produzem efeitos corrosivos (R34, R35) ou efeitos i
 
 QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 4.2 - Preparações gasosas
 
@@ -790,7 +803,7 @@ No caso dos gases que produzem este tipo de efeitos (R34, R35 ou R36, R37, R38, 
 
 QUADRO IV-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 5 - Efeitos sensibilizantes
 
@@ -808,7 +821,7 @@ Os limites de concentração individuais fixados no quadro V determinam, se for 
 
 QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 5.2 - Preparações gasosas
 
@@ -822,7 +835,7 @@ Os limites de concentração individuais, expressos em percentagem volumétrica,
 
 QUADRO V-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 6 - Efeitos carcinogénicos, mutagénicos e tóxicos para a reprodução
 
@@ -848,7 +861,7 @@ Tóxicas para a reprodução, categoria 3 (desenvolvimento) - Xn, R63.
 
 QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 6.2 - Preparações gasosas
 
@@ -872,7 +885,7 @@ Tóxicas para a reprodução, categoria 3 (desenvolvimento) - Xn, R63.
 
 QUADRO VI-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
 ## ANEXO II — Disposições especiais relativas à rotulagem de determinadas preparações
 
@@ -922,9 +935,11 @@ a) Preparações líquidas com uma viscosidade cinemática, medida por viscosím
 
 b) Uma das substâncias a seguir enumeradas, pelo menos, encontra-se presente em concentração igual ou superior à concentração limite individual fixada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf))](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/262b00/61596180.pdf)
 
-## ANEXO IV — PARTE A
+## ANEXO IV
+
+## PARTE A
 
 Disposições relativas aos fechos de segurança para crianças
 
@@ -942,7 +957,7 @@ Que o tipo de fecho utilizado é tal que não necessita de ensaios segundo a nor
 
 Que o fecho em questão, quando submetido aos ensaios previstos pela norma ISO mencionada acima, é conforme às prescrições impostas.
 
-# PARTE B — Disposições relativas aos dispositivos que permitem detectar os perigos pelo tacto
+## PARTE B — Disposições relativas aos dispositivos que permitem detectar os perigos pelo tacto
 
 As prescrições técnicas relativas aos dispositivos que permitem detectar os perigos pelo tacto devem ser conformes à norma EM 272 (edição de 20 de Agosto de 1989), relativa a indicações de perigo detectáveis ao tacto.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1077/1997/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1077-1997-673604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14ac8331a82068e8c1b51383ec155ac39f1def40257758bd6685aab50632d754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1a79fc23bd8a16a4e37c2d567388bd11169eae661a8fc97c31ce5935374d6f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:629086:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145815:por
+  label: "Suspenso o exercício da caça, pela PORT.603/2002.2002.06.07.MADRP, DR.IS-B [131]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/603-2002-145815
+  date: '2002-06-07'
+- type: amended_by
+  target: pt:dre:182428:por
+  label: "Renovada a concessão da zona de caça associativa constante da presente portaria, pela PORT.985/2002.2002.08.06.MADRP,\
+    \ DR.IS-B[180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/985-2002-182428
+  date: '2002-08-06'
+- type: amended_by
+  target: pt:dre:629086:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, corrigido pela Decl-Rect 21-H/97,\
+    \ de 28-Nov, e renovada pela Port 985/2002, de 06-Ago, pela PORT.1397/2007.25.10.2007.MADRP, DR.IS [206] de 25.10.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1397-2007-629086
+  date: '2007-10-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +100,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:621077:por
+  label: "Rectificada pela DECL-RECT.21-H/97.1997.11.28.PCM, DR.IS-B [277]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-h-1997-621077
+  date: '1997-11-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:17Z'
   warnings: []
   errors: []
 ---
@@ -134,8 +181,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 2 de Outubro de 1997.**
+Assinada em 2 de Outubro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/249b00/58135814.pdf))](https://files.diariodarepublica.pt/1s/1997/10/249b00/58135814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/249b00/58135814.pdf)

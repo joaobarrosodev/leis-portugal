@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1211/1997/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1211-1997-406348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:47:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3434b599a30adbb6c5a423145f9c6eb752f532787d18b8300f4ef602d362ec1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64af0da5271709bc3a836aba442f697d6206bad7a0a3b35e66ca4284786bf9c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:47:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,36 @@ relationships:
   target: pt:dre:538805:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:433815:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa renovada pelo presente diploma, pela PORT.703/99.1999.08.24.MADRP\
+    \ DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/703-1999-433815
+  date: '1999-08-24'
+- type: amended_by
+  target: pt:dre:239830:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa renovada pelo presente diploma, pela PORT.1317-G/2002.2002.10.03.MADRP\
+    \ DR.IS-B [229]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1317-g-2002-239830
+  date: '2002-10-03'
+- type: amended_by
+  target: pt:dre:437652:por
+  label: "Suspenso o exercício de caça concessionada pelo presente diploma, alterado pela Portaria n.º 1317-G/2002, de 3 de\
+    \ Outubro, pela PORT.1324/2003.28.11.2003.MADRP, DR.IS-B [276] de 28.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1324-2003-437652
+  date: '2003-11-28'
+- type: amended_by
+  target: pt:dre:241033:por
+  label: "Renovada por doze anos a concessão de zona atribuída pela Port 615-I1/91, de 08-Jul, alterada pelo presente diploma\
+    \ e pela Port 1317-G/2002, de 03-Out, pela PORT.13/2004.10.01.2004.MADRP, DR.IS-B [8] de 10.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/13-2004-241033
+  date: '2004-01-10'
+- type: amended_by
+  target: pt:dre:538805:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 615-I1/91, de 08-Jul, alterada pelo presente\
+    \ diploma, pela Port.839/2006.18.08.2006.MADRP, DR.IS [159] de 18.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-2006-538805
+  date: '2006-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +117,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/647/1997/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/647/1997/08/11/p/dre
+- type: cites
+  target: pt:dre:203463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:47:19Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +167,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 14 de Novembro de 1997.**
+Assinada em 14 de Novembro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/277b00/64226422.pdf))](https://files.diariodarepublica.pt/1s/1997/11/277b00/64226422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/277b00/64226422.pdf)

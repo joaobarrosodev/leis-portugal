@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1029/1997/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1029-1997-658930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69c72ae3feb9a3c6395ae2ff13ae6269d68040f3edd5fac37836f9e47229ad17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e305f716afb6a6d6facf4162da578bc31509722dfc8de79b8a95228b94c016f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Financiamento
-- SECA
-- Regulamento
 - Agricultura
-- Ifadap
+- Financiamento
 - Fundo de Calamidades
+- Ifadap
+- Regulamento
+- SECA
+- Sipac
 - Temporal
 relationships:
 - type: cites
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/430/1997/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/430/1997/07/01/p/dre
+- type: cites
+  target: pt:dre:160511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:59Z'
   warnings: []
   errors: []
 ---
@@ -121,17 +129,17 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvime
 
 Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 3 de Setembro de 1997.**
+Assinada em 3 de Setembro de 1997.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
-## ANEXO I A QUE SE REFERE O N.º 1.º
+ANEXO I A QUE SE REFERE O N.º 1.º
 
 Culturas e regiões afectadas pela chuva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/225b00/53535356.pdf))](https://files.diariodarepublica.pt/1s/1997/09/225b00/53535356.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/225b00/53535356.pdf)
 
-## ANEXO II A QUE SE REFERE O N.º 2.º
+ANEXO II A QUE SE REFERE O N.º 2.º
 
 Regulamento que estabelece o regime de intervenção do fundo de calamidades
 

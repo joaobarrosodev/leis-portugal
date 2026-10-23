@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1067/1997/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1067-1997-672661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0a9e536dbe71fa0031c13c58e66ecfe1440452828665eb1671b30ce99080c20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82bbc487a21d1bf62f8cbbfa3933bd2812688c0c3f18f1560db22af9e5b2bd54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Imóvel Classificado
 - Património Cultural
-- Zona de Proteção
 - Protecção do Património
 - Sintra
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/1997/05/16/p/dre
@@ -85,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/523/1997/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/523/1997/07/22/p/dre
+- type: cites
+  target: pt:dre:149616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:57Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +127,6 @@ Manda o Governo, pelo Ministro da Cultura, sob proposta dos serviços competente
 
 Ministério da Cultura.
 
-**Assinada em 24 de Setembro de 1997.**
+Assinada em 24 de Setembro de 1997.
 
-**O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho.

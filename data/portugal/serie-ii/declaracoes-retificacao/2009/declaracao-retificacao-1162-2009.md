@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/084000000/1730117302.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1162-2009-3576799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5166c3647446aad5f6ecf65ebe063a04b17e8cf67a0744d1337ff6774798a600
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2aa0dfaa378028cf7094f803024819249771ecb87cfd372e9f338eaaf0b5bca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:08Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1162/2009
 Por ter sido publicada com inexactidão no Diário da República, 2.ª série, n.º 205 de 22/10/2008, da lista de antiguidade de pessoal docente, reportada a 31/08/2008, onde se lê " Luís Filipe Moreira Azevedo Gago - 4007, 779, 3943, 12.10.10." deve ler-se "Luís Filipe Moreira Azevedo Gago - 3898, 779, 3943, 12.10.10." e onde se lê "Carla Cristina Martins Fernandes - 1461, 2329, 2956, 10.05.10.", deve ler-se "Carla Cristina Martins Fernandes - 1461, 2325, 2932, 10.05.11".
 
 24 de Abril de 2009. - O Presidente do Conselho Executivo, José Augusto Ferreira Araújo.
+
+201720297

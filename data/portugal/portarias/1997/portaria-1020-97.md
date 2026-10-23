@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1020/1997/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1020-1997-659760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 486b4b4e996b6f817e0b095ad04eab1c45b4ffc033480a46aceb710a8235d924
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9e1eb4cf8a7808e85538524fe7226813262bf754050a0c78e8701e8ca66e480
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:636939:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346482:por
+  label: "Renovada, por um período de seis anos, a concessão atribuída pelo presente diploma, pela PORT.580/99.1999.07.30.MADRP\
+    \ DR.IS-B [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/580-1999-346482
+  date: '1999-07-30'
+- type: amended_by
+  target: pt:dre:636939:por
+  label: "Extinta a zona de caça, renovada pela Port 580/99, de 30-Jul, pela PORT.924/2007.14.08.2007.MADRP, DR.IS [156] de\
+    \ 14.08.2007, que revoga, a partir de 19.08.2007, o primeiro diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/924-2007-636939
+  date: '2007-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-r/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-r/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:49Z'
   warnings: []
   errors: []
 ---
@@ -139,8 +175,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 20 de Agosto de 1997.**
+Assinada em 20 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/221b00/52615262.pdf))](https://files.diariodarepublica.pt/1s/1997/09/221b00/52615262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/221b00/52615262.pdf)

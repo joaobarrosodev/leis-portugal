@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1118/1997/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1118-1997-684626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9aaea286756fc9d951bdc54c300c1c235743bc014b62fdb048bee30d6c25b85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91364369f312d3675525e73cae8103e6c9d4c92af06d26244f4e565223930247
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Coimbra
 - Diploma
 - Escola Superior de Tecnologia da Saúde
-- Lisboa
 - Instituto Politécnico
-- Coimbra
+- Lisboa
 - Porto
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:24Z'
   warnings: []
   errors: []
 ---
@@ -98,8 +102,8 @@ Manda o Governo, pelos Ministros da Educação e da Saúde, aprovar o modelo de 
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 15 de Outubro de 1997.**
+Assinada em 15 de Outubro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/256b00/60996099.pdf))](https://files.diariodarepublica.pt/1s/1997/11/256b00/60996099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/256b00/60996099.pdf)

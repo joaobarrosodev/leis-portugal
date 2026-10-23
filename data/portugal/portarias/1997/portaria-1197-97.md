@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1197/1997/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1197-1997-406360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdae7a10ea94656b0bb465ed811647e60c395fa1ecc9d996722eed20bdda1f04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ffc5fb77bed410633ff6d8e789b875b4dd95b9f38374dab290d7ea3026cca65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,29 @@ subjects:
 - Inofor
 - Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:927265:por
+  label: "Substituído o quadro de pessoal do INOFOR pelo DC.112/2006.07.11.2005.MFAP e MTSS, DR.IIS [25] de 03.02.2006.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/112-2006-927265
+  date: '2005-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/1997/05/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/115/1997/05/12/p/dre
+- type: cites
+  target: pt:dre:385209:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:46:58Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +105,13 @@ Manda o Governo, pelos Ministros das Finanças, para a Qualificação e o Empreg
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e para a Qualificação e o Emprego.
 
-**Assinada em 30 de Maio de 1997.**
+Assinada em 30 de Maio de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 ## ANEXO I — Quadro de pessoal do Instituto para a Inovação na Formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/276b00/64036404.pdf))](https://files.diariodarepublica.pt/1s/1997/11/276b00/64036404.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/276b00/64036404.pdf)
 
 ## ANEXO II — Conteúdo funcional da carreira de técnico auxiliar (nível 3) do Instituto para a Inovação na Formação (INOFOR)
 

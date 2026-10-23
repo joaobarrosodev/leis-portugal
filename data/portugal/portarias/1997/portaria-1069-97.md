@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1069/1997/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1069-1997-672134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99f338ec4e11eb6380cefbe65831e626af2fa59bb3d64e6f0dd68b6216566108
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 264b546bf547504d3386f393f985225a853b417f510e8de98b3bec6378067f6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Turismo
-- Livro de Reclamações
-- Turismo
 - Direcção Geral do Turismo
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Indústria Hoteleira
+- Infraestrutura Turística
+- Livro de Reclamações
 - Parque de Campismo
 - Prestação de Serviços
 - Proteção do Consumidor
+- Turismo
 - Turismo Rural
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:354545:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:323955:por
+  label: "Alterados os nºs 3º e 9º pela PORT.365/99.1999.05.19.MECO,DR.IS-B [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-1999-323955
+  date: '1999-05-19'
+- type: amended_by
+  target: pt:dre:354545:por
+  label: "Alterado nº 8 pela PORT.351/2001.2001.04.09.MECO, DR.IS-B [84] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-2001-354545
+  date: '2001-04-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
   label: null
@@ -100,16 +110,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/209/1997/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/209/1997/08/13/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202780:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:02Z'
   warnings: []
   errors: []
 ---
@@ -226,8 +252,8 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Ministério da Economia.
 
-**Assinada em 26 de Setembro de 1997.**
+Assinada em 26 de Setembro de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/246b00/57195721.pdf))](https://files.diariodarepublica.pt/1s/1997/10/246b00/57195721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/246b00/57195721.pdf)

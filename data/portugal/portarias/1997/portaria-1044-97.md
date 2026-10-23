@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1044/1997/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1044-1997-663966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b833cff37e2bd44d0bd1a9cbd744cb452421f2ca945033ec609cdd4472e3515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e954e8755c7af75f99663a88aae4ccd4e151d504a9c169cf6dca045c62c7834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Particular
-- Lisboa
-- Instituto Português de Administração de Marketing
 - Ensino Superior
+- Instituto Português de Administração de Marketing
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:580986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580986:por
+  label: "Determinada a caducidade da autorização de funcionamento do Curso de estudos superiores especializados em Gestão\
+    \ de Marketing, cujo funcionamento foi autorizado pelo presente diploma, pela PORT.138/2004.11.02.2004.MCES, DR.IS-B [35]\
+    \ de 11.02.2004, findo o processo de transição fixado nos termos do artigo 31.º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-2004-580986
+  date: '2004-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -89,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/831/1991/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/831/1991/08/14/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:19Z'
   warnings: []
   errors: []
 ---
@@ -325,7 +349,7 @@ A autorização e o reconhecimento operados pelo presente diploma não prejudica
 
 Ministério da Educação.
 
-**Assinada em 9 de Setembro de 1997.**
+Assinada em 9 de Setembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -335,4 +359,4 @@ Curso: Gestão de Marketing
 
 Diploma de estudos superiores especializados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/231b00/54165419.pdf))](https://files.diariodarepublica.pt/1s/1997/10/231b00/54165419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/231b00/54165419.pdf)

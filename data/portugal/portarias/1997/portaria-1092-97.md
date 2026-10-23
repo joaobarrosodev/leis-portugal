@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/254b00/60226025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1092/1997/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1092-1997-675015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74182235d3480a1a92adf65f8f3b262cd7c717571fd6bbfe74b8ba5e506c250f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e8069ee3765e7575623fbeaadaa95a9eb63b975007362db4532399391cbcf4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Especificação Técnica
-- Veículo
-- Segurança Rodoviária
 - Equipamento de Veículo
+- Especificação Técnica
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:226235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544641:por
+  label: "Alterados o nº 8º e o nº 21º, aditado o nº 21º-A e revogada a al. f) do nº 3º pela PORT.960/2000.2000.10.09.MAI\
+    \ DR.IS-B [233]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-2000-544641
+  date: '2000-10-09'
+- type: amended_by
+  target: pt:dre:2777609:por
+  label: "Alterada a al. a) do nº 12º, na redacção dada pela Port. 960/2000 de 09-Out pela PORT.1507/2001(2ªSÉRIE).2001.08.23.SEAI-MAI\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1507-2001-2777609
+  date: '2001-08-23'
 - type: cites
   target: celex:31996L0053
   label: null
@@ -83,16 +95,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/850/1994/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/850/1994/09/22/p/dre
+- type: repealed_by
+  target: pt:dre:226235:por
+  label: "Revogada, pelo DEC LEI.99/2005.21.06.2005.MAI, DR.IS-A [117] de 21.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2005-226235
+  date: '2005-06-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:45Z'
   warnings: []
   errors: []
 ---
@@ -363,6 +380,6 @@ Contudo, nos veículos automóveis pesados de passageiros e nos veículos autom�
 
 Ministério da Administração Interna.
 
-**Assinada em 17 de Setembro de 1997.**
+Assinada em 17 de Setembro de 1997.
 
-**O Secretário de Estado da Administração Interna, Armando António Martins Vara.**
+O Secretário de Estado da Administração Interna, Armando António Martins Vara.

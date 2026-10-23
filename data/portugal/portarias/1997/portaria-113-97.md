@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113/1997/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-1997-501997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c04d754a0f0af47de635756fd10e1b6d5aae2665a662e1b9d13c9a70e71af37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2494675fb2dd48363b465303ae5e2bc7e73ee8fd5c6937cb92bbfe53360b40da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Engenharia Civil Municipal
 - Curso de Estudos Superiores Especializados em Engenharia Civil-engenharia Municipal
 - Escola Superior de Tecnologia e Gestão
-- Instituto Politécnico
 - Guarda
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:599701:por
@@ -82,16 +82,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/958/1992/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/958/1992/10/06/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599701:por
+  label: "Revogada pela PORT.1133/2000.2000.11.29.ME DR.IS-B [276], nos termos do respectivo art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1133-2000-599701
+  date: '2000-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:40Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +151,12 @@ As alterações aprovadas pela presente portaria entram em vigor nos termos e pr
 
 Regime de transição
 
-**O presidente do Instituto, ouvido o conselho científico da Escola, fixará o regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos.**
+O presidente do Instituto, ouvido o conselho científico da Escola, fixará o regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos.
 
 Ministério da Educação.
 
-**Assinada em 14 de Janeiro de 1997.**
+Assinada em 14 de Janeiro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/042b00/07930794.pdf))](https://files.diariodarepublica.pt/1s/1997/02/042b00/07930794.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/042b00/07930794.pdf)

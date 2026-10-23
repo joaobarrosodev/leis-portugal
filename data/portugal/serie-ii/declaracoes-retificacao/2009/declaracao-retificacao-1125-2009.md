@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/079000000/1665316653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1125-2009-3582221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01b2e0be9f91a6bf42165fbe41ac57237e7c65d2d3f9f69afda0cb2759459591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19c53e3f6d70c64c32ddfbf15afd8fb5afd59b0b0b007273c5db63fc5afac07c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:14Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1125/2009
+# Declaração de rectificação n.º 1125/2009
 
 Faz-se público que, para os devidos efeitos, por deliberação do Conselho de Administração destes SMAS de 6 de Abril de 2009 e tendo em atenção o conteúdo do n.º 2 do artigo 7.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, no aviso n.º 7188/2009, publicado no Diário da República n.º 64, 2.ª Série, de 2009/04/01, página 12643, relativo à celebração de dois contratos de trabalho em funções públicas por tempo indeterminado de dois Técnicos Superiores, Licenciatura em Engenharia Civil, no n.º 14 do referido aviso onde se lê «A ponderação dos dois métodos a aplicar será de 60 % e 40 %, respectivamente, para o método de selecção obrigatório e facultativo.» deve ler-se «A ponderação dos dois métodos a aplicar será de 70 % e 30 %, respectivamente, para o método de selecção obrigatório e facultativo.».
 
 8 de Abril de 2009. - O Vogal do Conselho de Administração, Luís do Paço Simões.
+
+301669738

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1192/1997/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1192-1997-406168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45ab645f4719a9ba0cd2bc38df2d157ae5c51adac842fe49e2df3da69dd4b798
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce484543b075d40a326e888e89c618d68dc5ee6b84e06b14f27b5c4c2f4eb717
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Fiscalização
 - Higiene Corporal
+- Produto Químico
 - Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:452215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:246139:por
+  label: "Mantidos em vigor, os métodos de análise constantes da Port 503/94 de 06-Jul, na redacção do presente diploma, pelo\
+    \ DEC LEI.142/2005.24.08.2005.MS, DR.IS-A [162] de 24.08.2005, até à publicação do diploma que aprova os métodos de análise\
+    \ referidos na al. a) do nº 1 do art. 6º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2005-246139
+  date: '2005-08-24'
+- type: amended_by
+  target: pt:dre:452215:por
+  label: "Determinada a manutenção em vigor dos métodos de análise constantes da Port 503/94, de 06-Jul, na redacção conferida\
+    \ pelo presente diploma, pelo DEC LEI.189/2008.24.09.2008.MS, DR.IS [185] de 24.09.2008, até à publicação do decreto-lei\
+    \ que aprova os métodos de análise referidos na al. a) do n.º 1 do art. 6.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2008-452215
+  date: '2008-09-24'
 - type: cites
   target: celex:31993L0073
   label: null
@@ -92,13 +106,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:46:45Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +133,9 @@ Manda o Governo, pelos Ministros da Economia e da Saúde, que sejam aditados à 
 
 Ministérios da Economia e da Saúde.
 
-**Assinada em 28 de Outubro de 1997.**
+Assinada em 28 de Outubro de 1997.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.
 
 ## ANEXO — Métodos de análise necessários ao controlo da composição dos produtos cosméticos e de higiene corporal
 
@@ -667,7 +681,7 @@ Todos os reagentes devem ser analiticamente puros e adequados para HPLC.
 
 Perfazer o volume com metanol e agitar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 5 - Material e equipamento:
 
@@ -1019,7 +1033,7 @@ Razão Al:Zr = (%Al (m/m) x 91,22)/(%Zr (m/m) x 26,98)
 
 Calcular a razão (Al + Zr): Cl utilizando a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 ### CAPÍTULO XXXIII — Hexamidina, dibromo-hexamidina, dibromopropamidina e cloro-hexidina - Identificação e doseamento
 
@@ -1111,7 +1125,7 @@ Filtrar ou centrifugar a solução. Recolher o filtrado ou o líquido sobrenadan
 
 6.2.1 - Gradiente de fase móvel:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 6.2.2 - Regular o fluxo da fase móvel (6.2.1) para 1,5 ml/min. e fixar a temperatura da coluna em 35 C.
 
@@ -1135,7 +1149,7 @@ Utilizar um dos conservantes (4.6 a 4.9) não presente na amostra como padrão i
 
 7.1.3 - Preparar quatro soluções padrão de cada conservante identificado, transferindo para balões graduados de 10 ml quantidades da respectiva solução mãe (7.1.1) e quantidades apropriadas da solução mãe do padrão interno (7.1.2), de acordo com o quadro abaixo indicado. Completar o volume de cada balão com o solvente I (4.5.1) e homogeneizar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 7.2 - Preparação da amostra:
 
@@ -1181,7 +1195,7 @@ Para uma concentração de 0,1% (m/m) de hexamidina, dibromo-hexamidina, dibromo
 
 10 - Quadro das fórmulas e respectivos pesos moleculares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 ### CAPÍTULO XXXIV
 
@@ -1439,7 +1453,7 @@ Verificar se os cromatogramas obtidos para uma solução padrão e a solução d
 
 O pico de separação do par menos separado deverá ser de 0,90, pelo menos (para uma definição de pico de separação, observar a figura 1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 Se não se obtiver a separação necessária, haverá que utilizar uma coluna mais eficaz ou adaptar a composição da fase móvel até serem alcançadas as condições pretendidas;
 
@@ -1447,7 +1461,7 @@ O factor de assimetria As de todos os picos deverá estar compreendido entre 0,9
 
 Para registar o cromatograma com vista à determinação do factor de assimetria recomenda-se uma velocidade de banda de registo não inferior a 2 cm/min.;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 Deverá obter-se uma linha de base estável.
 
@@ -1825,13 +1839,13 @@ Verificar se os cromatogramas obtidos para as soluções padrão e amostra obede
 
 A separação de picos do par de picos pior separados deve ser, no mínimo, de 0,90 (para definição da separação de picos, v. figura 1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 Se não se obtiver a separação necessária, haverá que utilizar uma coluna mais eficaz ou adaptar a composição da fase móvel até serem alcançadas as condições pretendidas;
 
 O factor de assimetria A(índice s) de todos os picos obtidos deve situar-se na gama 0,9 a 1,5 (para definição do factor de assimetria de picos, v. figura 2). Para registar o cromatograma com vista à determinação do factor de assimetria, recomenda-se uma velocidade de registo de pelo menos 2 cm/min.:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf))](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/271b00/63276343.pdf)
 
 Deverá obter-se uma linha de base estável.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1091/1997/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1091-1997-675014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26ad4f70817143b570b92165cdff4359b35c75e5935d3eb1d1d3aeec0382277e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7c2de34005efda41b960a15b5e7ca310325d2ee94235a79c463cf137790d3da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,74 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- REDE Escolar
 - Criação de Serviços
-- Penafiel
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Ensino Básico
+- Estabelecimento de Ensino
+- Penafiel
+- Pessoal Docente
+- Pessoal não Docente
 - Quadro de Pessoal
+- REDE Escolar
 relationships:
 - type: amended_by
   target: pt:dre:237586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:237586:por
+  label: "Aprovada a revisão dos quadros distritais de vinculação de pessoal não docente, relativa às carreiras e categorias\
+    \ de assistente de administração escolar, de auxiliar de acção educativa e de cozinheiro, para os funcionários com nomeação\
+    \ definitiva dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, criados pelo Dec\
+    \ Lei 223/87 de 30-Mai e cujos anexos foram alterados pelo presente diploma, pela PORT.601/2005.19.07.2005.ME, DR.IS-B\
+    \ [137] de 19.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-2005-237586
+  date: '2005-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/560-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/560-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:157046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:44Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +173,7 @@ A criação da escola prevista na presente portaria produz efeitos a partir de 1
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 3 de Outubro de 1997.**
+Assinada em 3 de Outubro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Educação, Eduardo Carrega Marçal Grilo.
 
@@ -140,16 +181,16 @@ MAPA I
 
 Quadro de pessoal docente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf))](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf)
 
 MAPA II
 
 Ano escolar de 1997-1998
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf))](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf)
 
 MAPA III
 
 ## ANEXO XXXIV — Distrito do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf))](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/254b00/60196022.pdf)

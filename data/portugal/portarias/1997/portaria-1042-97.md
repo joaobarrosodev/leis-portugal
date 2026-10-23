@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1042/1997/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1042-1997-663968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4411a608ba7ff4dda00472659031e3a87923e5f7f5155e06f1b160041e9ebd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3f2dadb45780e72ad44f1d8631669c296f5e91ebc484617ee5ba3ced1e1174e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Hospital Distrital
+- Médico
 - Ovar
 - Pessoal Técnico Superior
 - Quadro de Pessoal
@@ -75,6 +75,13 @@ relationships:
   target: pt:dre:554397:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554397:por
+  label: "Alterado o quadro de pessoal do Hospital Dr. Francisco Zagalo, aprovado pela Portaria n.º 749/87, de 1 de Setembro,\
+    \ alterado pelo presente diploma e pelas Portarias n.os 113/90, de 12 de Fevereiro, 1226/92, de 29 de Dezembro, 1114/94,\
+    \ de 14 de Dezembro, e 1374/2002, de 22 de Outubro, pela PORT.260/2004.09.03.2004.MF, DR.IS-B [58] de 09.03.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-2004-554397
+  date: '2004-03-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1114/1994/12/14/p/dre
   label: null
@@ -83,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1226/1992/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1226/1992/12/29/p/dre
+- type: cites
+  target: pt:dre:334637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621734:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:16Z'
   warnings: []
   errors: []
 ---
@@ -111,10 +138,10 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, que o quadr
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 3 de Setembro de 1997.**
+Assinada em 3 de Setembro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Hospital Dr. Francisco Zagalo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/231b00/54155415.pdf))](https://files.diariodarepublica.pt/1s/1997/10/231b00/54155415.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/231b00/54155415.pdf)

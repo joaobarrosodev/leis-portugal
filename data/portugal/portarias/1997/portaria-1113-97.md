@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1113/1997/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1113-1997-684621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab5816ef53d3f874e2fa710122b07146229fa25ba4879fc70d59743fea559e69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d80df505cfc0f3b411ce5cfeb3de44a534a8b45145a0af4de76f9d08671df7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Superior de Gestão
 - Instituto Politécnico
 - Licenciatura
+- Plano de Estudos
 - Tomar
 relationships:
 - type: amended_by
   target: pt:dre:544809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544809:por
+  label: "Revogada, findo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos\
+    \ de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela Portaria n.º 413-A/98, de 17 de Julho, alterada\
+    \ nela Portaria n.º 533-A/99, de 22 de Julho, pela PORT.950/2000.2000.10.04.ME DR.IS-B [230]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/950-2000-544809
+  date: '2000-10-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:17Z'
   warnings: []
   errors: []
 ---
@@ -329,7 +348,7 @@ O número de vagas para a inscrição no curso de estudos superiores especializa
 
 Ministério da Educação.
 
-**Assinada em 12 de Setembro de 1997.**
+Assinada em 12 de Setembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -339,4 +358,4 @@ Escola Superior de Gestão
 
 Diploma de estudos superiores especializados em Comportamento Organizacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/256b00/60876090.pdf))](https://files.diariodarepublica.pt/1s/1997/11/256b00/60876090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/256b00/60876090.pdf)

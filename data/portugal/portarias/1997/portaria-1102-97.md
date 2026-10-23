@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1102/1997/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1102-1997-675019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd93645738decec932b55675a88b932342097bf175d225c42717cd73d1dd4ce0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84d785ed0359590e1dca5b8cbb4ca2d77b86d87219a009fbcfad09575d6a2a60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
-- Apoio Técnico
-- Financiamento
 - Apoio Pedagógico
 - Apoio Psicológico
-- Educação Especial
+- Apoio Técnico
 - Cooperativa de Ensino
+- Educação Especial
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Particular
-- Proteção ao Deficiente
 - Estabelecimento de Ensino
-- Ensino Básico
+- Financiamento
+- Proteção ao Deficiente
 - Regime Jurídico
+- Subsídio de Alimentação
 - Subsídio de Educação Especial
 - Subsídio para Aquisições de Livros e Material Escolar
 relationships:
@@ -85,6 +85,26 @@ relationships:
   target: pt:dre:115652961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165245:por
+  label: "Actualizado o regime de apoio financeiro fixada pelo presente diploma, pela PORT.145/99.1999.02.26.ME DR.IS-B [48]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/145-1999-165245
+  date: '1999-02-26'
+- type: amended_by
+  target: pt:dre:491397:por
+  label: "Determinada a manutenção em vigor até ao final do ano lectivo de 2009-2010, do regime de apoio financeiro às cooperativas\
+    \ e associações de ensino especial, sem fins lucrativos, para actividades de intervenção precoce, previsto na presente\
+    \ portaria e revogado, a partir de 11.10.2009, sem prejuízo do disposto no art. 9º, a al. c) do nº 1º pelo DEC LEI.281/2009.06.10.2009.MS,\
+    \ DR.IS [193] de 06.10.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/281-2009-491397
+  date: '2009-10-06'
+- type: amended_by
+  target: pt:dre:115652961:por
+  label: Mantida em vigor pelo(a) Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06, até à
+    publicação da regulamentação referida no n.º 1 do seu art. 37.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2018-115652961
+  date: '2018-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/319/1991/08/23/p/dre
   label: null
@@ -97,16 +117,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/52/1997/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/52/1997/01/21/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581672:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:386871:por
+  label: "Revogado, a partir de 12.01.2008, o art. 6.º pelo DEC LEI.3/2008.07.01.2008.ME, DR.IS [4] de 07.01.2008 (repristinado\
+    \ por força da Lei 21/2008, de 12 de Maio)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2008-386871
+  date: '2008-01-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:00Z'
   warnings: []
   errors: []
 ---
@@ -355,6 +405,6 @@ A presente portaria produz efeitos a partir de 1 de Setembro de 1997.
 
 Ministério da Educação.
 
-**Assinada em 7 de Outubro de 1997.**
+Assinada em 7 de Outubro de 1997.
 
 Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa.

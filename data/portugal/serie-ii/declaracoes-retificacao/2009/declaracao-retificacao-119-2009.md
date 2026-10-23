@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/010000000/0221402214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/119-2009-2152862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92be55b4ae8ceb1d8329181bd240b9c3dcf92d13ae9bea054e7cfe6e8a7072c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd286690d58974fc0a2d755d3bc31e478fc04dba3e48f8d9557c01f8b37734d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:47Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +86,6 @@ Declaração de rectificação n.º 119/2009
 
 Por despacho da Presidente do Conselho Executivo do Agrupamento de Escolas Vale Aveiras, no uso de competência delegada pelo despacho n.º 24941/2006, publicado no Diário da República, 2.ª série n.º 233, de 5 de Dezembro de 2006, rectifica-se a lista anteriormente publicada no DR 2.ª Série n.º 150, de 5/09/2008, de professores nomeados para a Categoria de Professor Titular de Agrupamento de acordo com a Lei n.º 200/2007, de 22 de Maio, com efeito a partir de 01 de Setembro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/01/010000000/0221402214.pdf))](https://files.diariodarepublica.pt/2s/2009/01/010000000/0221402214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/01/010000000/0221402214.pdf)
 
 6 de Janeiro de 2009. - A Presidente do Conselho Executivo, Maria Teresa Duarte Valente.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 38/1997, 3º Suplemento, Série I-B de 1997-02-14
   number: '38'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 758-(10) a 758-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/038b03/00100010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/106-d/1997/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/106-d-1997-406475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff8343e459bb327017fe8814161d0dc2e49700a79150680f244ad8ddb0f30e04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1440594ba3d36030d80f470387ced5435c8035b784241284533e6a6a57312360
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:492235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667707:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 302/93, de 16-Mar, renovada pelo presente diploma,\
+    \ pela PORT.277/2006.22.03.2006.MADRP, DR.IS-B [58] de 22.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/277-2006-667707
+  date: '2006-03-22'
+- type: amended_by
+  target: pt:dre:492235:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa, concessionada pela Port 302/93 de\
+    \ 16-Mar, renovada pelo presente diploma, pela PORT.716/2009.07.07.2009.MADRP, DR.IS [129] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-2009-492235
+  date: '2009-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -86,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/448/1996/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/448/1996/09/07/p/dre
+- type: cites
+  target: pt:dre:241463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634323:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:41:46Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +148,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 6 de Fevereiro de 1997.**
+Assinada em 6 de Fevereiro de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/038b03/00100010.pdf))](https://files.diariodarepublica.pt/1s/1997/02/038b03/00100010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/038b03/00100010.pdf)

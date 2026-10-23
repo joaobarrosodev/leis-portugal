@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1186/1997/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1186-1997-406275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:44:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d439afb275aedc0f3cb21690f875dae8979279108b801e2a8f862e2a33263ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8099d67488edd53713729688409cc0748b28fe4612f94615020ce3c36c1d2fed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:44:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Hospital Distrital
+- Médico
 - Pessoal Técnico Superior
-- VILA do Conde
 - Quadro de Pessoal
+- VILA do Conde
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:494850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:44:57Z'
   warnings: []
   errors: []
 ---
@@ -104,10 +112,10 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, que o quadr
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 24 de Outubro de 1997.**
+Assinada em 24 de Outubro de 1997.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Hospital Distrital de Vila do Conde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/270b00/63186318.pdf))](https://files.diariodarepublica.pt/1s/1997/11/270b00/63186318.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/270b00/63186318.pdf)

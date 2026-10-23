@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/258b00/61216121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1141/1997/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1141-1997-685022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:43:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51a5fd0113ec6d6433377aff3312d782caa0919c324834322a6c69887dc74673
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b02d498554ca333b7dbe21e4e10bc3d32a33d084ad20d22c573a3b80b08946e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:43:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totoloto
 - Jogos de Fortuna e Azar
-- Santa Casa da Misericórdia
 - Regulamento
 - Regulamento Geral dos Concursos do Totoloto
+- Santa Casa da Misericórdia
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:332254:por
@@ -84,16 +84,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1328/1993/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1328/1993/12/31/p/dre
+- type: cites
+  target: pt:dre:151499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:621076:por
+  label: "Rectificada pela DECL-RECT.21-G/97.1997.11.28.PCM, DR.IS-B [277]-3ºSupl de 29/Nov/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-g-1997-621076
+  date: '1997-11-28'
+- type: repealed_by
+  target: pt:dre:332254:por
+  label: "Revogada pela PORT.553/2001.2001.05.31.MS, DR.IS-B [126] de 2001/MAI/31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-2001-332254
+  date: '2001-05-31'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:43:55Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +134,9 @@ Manda o Governo, pelos Ministros da Saúde e da Solidariedade e Segurança Socia
 
 Ministérios da Saúde e da Solidariedade e Segurança Social.
 
-**Assinada em 23 de Outubro de 1997.**
+Assinada em 23 de Outubro de 1997.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.
 
 ## ANEXO — Regulamento Geral dos Concursos de Apostas Mútuas
 
@@ -136,4 +154,4 @@ Totoloto
 
 5 - (Actual n.º 4.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/258b00/61216121.pdf))](https://files.diariodarepublica.pt/1s/1997/11/258b00/61216121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/258b00/61216121.pdf)

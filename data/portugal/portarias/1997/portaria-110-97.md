@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110/1997/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1997-502426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:42:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5e5b2a51dbf58a9e654d6dc1f597bf40de9020ebaa2c01cfdccf92a960940c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cace13247eca3d84026fc2256cbf5e279d0634ff90bb3e14cffe2b090380b3fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:42:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:42:57Z'
   warnings: []
   errors: []
 ---
@@ -109,18 +109,18 @@ Modelo 2 - para uso do restante pessoal dos serviços do Instituto da Cooperaç�
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 24 de Janeiro de 1997.**
+Assinada em 24 de Janeiro de 1997.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.
 
 ## ANEXO I — Modelo de cartão de identificação
 
 Membros da direcção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/041b00/07740774.pdf))](https://files.diariodarepublica.pt/1s/1997/02/041b00/07740774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/041b00/07740774.pdf)
 
 ## ANEXO II — Modelo de cartão de identificação
 
 Restante pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/041b00/07740774.pdf))](https://files.diariodarepublica.pt/1s/1997/02/041b00/07740774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/041b00/07740774.pdf)
