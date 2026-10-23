@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0400dd06333d7c2bd2ed99bb0b94c0467aef3c5ae2b476e27bf60a5fb4fbbd36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f66f379ad5738bbe764fcf21f3feb600f61c2e2feb3842a398d0c89e3d6456d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Profissional
+- Imposto Profissional
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:324949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:07Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +118,7 @@ Assim:
 
 No uso da autorização conferida pelo artigo 28.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 5.º, 6.º, 8.º, 10.º, 21.º, 61.º e 83.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 5.º, 6.º, 8.º, 10.º, 21.º, 61.º e 83.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -124,13 +140,13 @@ f) ...
 
 § 3.º ...
 
-###### Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 410000$00.
+Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 410000$00.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § 1.º ...
 
@@ -140,7 +156,7 @@ f) ...
 
 § 4.º Para efeitos do disposto no § 2.º-A do artigo 10.º, deverão os contribuintes juntar, em duplicado, à declaração referida no corpo do presente artigo o mapa modelo n.º 12 das reintegrações contabilizadas.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 a) ...
 
@@ -174,7 +190,7 @@ b) A arquivar em boa ordem, durante o período em que as referidas reintegraçõ
 
 § 7.º Os livros referidos neste artigo deverão ser apresentados na repartição de finanças a que se refere o § 1.º do artigo 6.º, antes de utilizados, para que o respectivo chefe assine os termos de abertura e encerramento, numere as folhas e as rubrique.
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 1.º ...
 
@@ -236,25 +252,25 @@ b) ...
 
 c) ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf)
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 61.º As infracções ao disposto no corpo do artigo 8.º e nos seus §§ 3.º, 4.º, 6.º e 7.º serão punidas com multa de 10000$00 a 500000$00.
+Art. 61.º As infracções ao disposto no corpo do artigo 8.º e nos seus §§ 3.º, 4.º, 6.º e 7.º serão punidas com multa de 10000$00 a 500000$00.
 
 § 1.º A recusa da apresentação dos talões dos recibos passados ou das cadernetas e livros de registo de receitas e despesas e de reintegrações a que se refere o artigo 8.º e seus §§ 3.º e 6.º ou da demais documentação exigida neste último parágrafo e na alínea b) do corpo do mesmo artigo, bem como a ocultação, destruição, inutilização, falsificação ou viciação dos mencionados elementos, serão punidas com multa de 50000$00 a 1000000$00.
 
 § 2.º ...
 
-###### Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas, mapas ou participações a que se referem os artigos 6.º e seu § 4.º, 9.º, 27.º-A, § 1.º, 44.º-A, § único, 45.º-A, 47.º, 47.º-A, 49.º e 50.º, quando apresentados em duplicado ou triplicado.
+Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas, mapas ou participações a que se referem os artigos 6.º e seu § 4.º, 9.º, 27.º-A, § 1.º, 44.º-A, § único, 45.º-A, 47.º, 47.º-A, 49.º e 50.º, quando apresentados em duplicado ou triplicado.
 
-###### Art. 2.º A tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 2.º do [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949), de 9 de Junho, é substituída pela tabela anexa ao presente decreto-lei.
+Art. 2.º A tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 2.º do [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949), de 9 de Junho, é substituída pela tabela anexa ao presente decreto-lei.
 
-###### Art. 3.º - 1 - As disposições constantes dos artigos 1.º, 5.º, 8.º, 10.º e 21.º do Código do Imposto Profissional, segundo a redacção dada pelo artigo 1.º do presente decreto-lei, e, bem assim, a tabela das actividades exercidas por conta própria, a que se refere o artigo anterior, são aplicáveis às remunerações ou rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1988 e seguintes.
+Art. 3.º - 1 - As disposições constantes dos artigos 1.º, 5.º, 8.º, 10.º e 21.º do Código do Imposto Profissional, segundo a redacção dada pelo artigo 1.º do presente decreto-lei, e, bem assim, a tabela das actividades exercidas por conta própria, a que se refere o artigo anterior, são aplicáveis às remunerações ou rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1988 e seguintes.
 
 2 - As importâncias que, por virtude das alterações referidas no número anterior, se considerem a mais ou a menos deduzidas e entregues nos cofres do Estado nos termos dos artigos 26.º, 27.º, 27.º-A e 29.º do Código serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações ou rendimentos a pagar ou a atribuir até ao fim do ano em curso.
 
@@ -262,18 +278,18 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 8 de Março de 1988.**
+Promulgado em 8 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Março de 1988.**
+Referendado em 9 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Imposto profissional
 
 Tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 2.º do Decreto-Lei n.º 98/88.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf)

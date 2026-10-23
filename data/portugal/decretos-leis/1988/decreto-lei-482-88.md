@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/482-1988-361296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e66bfd987f9313bda9c197d98bf214d040de4e02bc442b5b2aa481dd605a3da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92ca86b14b5973a679676ae4b0bc956c257d5df6395903052ed8158bf706e94c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Baldio
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Junta de Colonização Interna
+- Transmissão da Propriedade
+relationships:
+- type: cites
+  target: pt:dre:148218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242001:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:26Z'
   warnings: []
   errors: []
 ---
@@ -104,36 +120,36 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A propriedade dos casais agrícolas concedidos ao abrigo da [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), de 27 de Maio de 1946, e legislação complementar, que estejam integralmente pagos é atribuída aos respectivos colonos.
+Artigo 1.º - 1 - A propriedade dos casais agrícolas concedidos ao abrigo da [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), de 27 de Maio de 1946, e legislação complementar, que estejam integralmente pagos é atribuída aos respectivos colonos.
 
 2 - A propriedade dos casais agrícolas e das glebas cujo pagamento integral se verifique após a publicação do presente decreto-lei é atribuída mediante alvará assinado pelo Ministro da Agricultura, Pescas e Alimentação ou por entidade com poderes delegados para o efeito.
 
-###### Art. 2.º - 1 - A concessão dos casais agrícolas e glebas feita ao abrigo da [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), e ainda não integralmente pagos, é rescindida quando haja incumprimento de qualquer anuidade ou quando sejam afectos a fim não agrícola, florestal ou pecuário.
+Art. 2.º - 1 - A concessão dos casais agrícolas e glebas feita ao abrigo da [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), e ainda não integralmente pagos, é rescindida quando haja incumprimento de qualquer anuidade ou quando sejam afectos a fim não agrícola, florestal ou pecuário.
 
 2 - Nos casos previstos no número anterior, os casais agrícolas e as glebas revertem, sem direito ao reembolso das anuidades já pagas, a favor da autarquia local ou da Direcção-Geral de Hidráulica e Engenharia Agrícola, conforme estejam instalados em baldios reservados para fins de colonização ou em propriedades adquiridas pela ex-Junta de Colonização Interna para os mesmos fins.
 
-###### Art. 3.º São desafectados do fim de colonização os prédios rústicos, e construções neles implantadas, adquiridos pela ex-Junta de Colonização Interna, na parte em que aquele fim não tenha sido prosseguido ou quando se verifique a reversão prevista no n.º 2 do artigo anterior.
+Art. 3.º São desafectados do fim de colonização os prédios rústicos, e construções neles implantadas, adquiridos pela ex-Junta de Colonização Interna, na parte em que aquele fim não tenha sido prosseguido ou quando se verifique a reversão prevista no n.º 2 do artigo anterior.
 
-###### Art. 4.º Os casais agrícolas e glebas que revertam para a Direcção-Geral de Hidráulica e Engenharia Agrícola, nos termos do n.º 2 do artigo 2.º, e os prédios rústicos e construções a que se refere o artigo anterior, serão preferencialmente arrendados a jovens agricultores após concurso.
+Art. 4.º Os casais agrícolas e glebas que revertam para a Direcção-Geral de Hidráulica e Engenharia Agrícola, nos termos do n.º 2 do artigo 2.º, e os prédios rústicos e construções a que se refere o artigo anterior, serão preferencialmente arrendados a jovens agricultores após concurso.
 
-###### Art. 5.º - 1 - É cedida a título definitivo à Direcção-Geral de Hidráulica e Engenharia Agrícola, mediante auto que servirá de título para efeitos de registo, a área da Colónia Agrícola da Gafanha, a que se refere o [Decreto-Lei n.º 36054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36054-1946-148218), de 20 de Dezembro de 1946, onde não foram instalados casais agrícolas.
+Art. 5.º - 1 - É cedida a título definitivo à Direcção-Geral de Hidráulica e Engenharia Agrícola, mediante auto que servirá de título para efeitos de registo, a área da Colónia Agrícola da Gafanha, a que se refere o [Decreto-Lei n.º 36054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36054-1946-148218), de 20 de Dezembro de 1946, onde não foram instalados casais agrícolas.
 
 2 - Com excepção dos prédios afectos ao Centro de Formação Profissional da Direcção Regional de Agricultura da Beira Litoral e respectivas oficinas, a área referida no número anterior terá o destino previsto no artigo 4.º ou será cedida, nas condições a fixar pela Direcção-Geral de Hidráulica e Engenharia Agrícola, a entidades que prossigam fins de interesse público ou ainda aos detentores a título precário de casas cujos casais agrícolas não tenham sido objecto de concessão.
 
-###### Art. 6.º - 1 - As conservatórias do registo predial cancelarão oficiosamente os registos de ónus reais de concessão previstos na [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), de 27 de Maio de 1946.
+Art. 6.º - 1 - As conservatórias do registo predial cancelarão oficiosamente os registos de ónus reais de concessão previstos na [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), de 27 de Maio de 1946.
 
 2 - O alvará de propriedade definitiva referente aos casais agrícolas já atribuídos e o alvará a que se refere o n.º 2 do artigo 1.º são título bastante para o registo de aquisição nas conservatórias do registo predial.
 
-###### Art. 7.º São revogados a [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), de 27 de Maio de 1946, o [Decreto n.º 36709](https://diariodarepublica.pt/dr/detalhe/decreto/36709-1948-242001), de 5 de Janeiro de 1948, os Decretos-Leis n.os 44720, de 23 de Novembro de 1962, e 429/85, de 23 de Outubro, e ainda toda a legislação que contrarie o disposto neste diploma.
+Art. 7.º São revogados a [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), de 27 de Maio de 1946, o [Decreto n.º 36709](https://diariodarepublica.pt/dr/detalhe/decreto/36709-1948-242001), de 5 de Janeiro de 1948, os Decretos-Leis n.os 44720, de 23 de Novembro de 1962, e 429/85, de 23 de Outubro, e ainda toda a legislação que contrarie o disposto neste diploma.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 10 de Dezembro de 1988.**
+Promulgado em 10 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Dezembro de 1988.**
+Referendado em 13 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

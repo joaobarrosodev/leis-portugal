@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1988, 2º Suplemento, Série I de 1988-12-30
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5146-(12) a 5146-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30102/00120014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,235 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0c7b121966580e5dd31769caaae641a95391641087938d07442adbe263bfa11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3663b89c4ef7f1014005c1d95cac54555ec4a6e942f6817ac399af77bb573f07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Incentivos Fiscais
+- Política Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:139389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:61725765:por
+  label: Revogado, sem prejuízo da manutenção da concessão atribuída à Carris, S. A., o Dec Lei 688/73, de 21-dez, na redação
+    do presente diploma, pelo(a) Decreto-Lei n.º 174/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2014-61725765
+  date: '2014-12-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:41Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +301,7 @@ Assim:
 
 No uso da autorização concedida pelos n.os 1 a 7, 10 a 17, 19 a 22, 24, 26 a 29, 31 a 35, 37 a 39, 42 a 45 e 48 a 50 do artigo 50.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São revogados, a partir da entrada em vigor do presente diploma, os benefícios fiscais constantes da legislação a seguir indicada:
+Artigo 1.º São revogados, a partir da entrada em vigor do presente diploma, os benefícios fiscais constantes da legislação a seguir indicada:
 
 1) Artigo 2.º do [Decreto-Lei n.º 37054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37054-1948-372265), de 9 de Setembro de 1948, relativo à isenção do imposto do selo nos contratos de empréstimo celebrados em execução da [Lei n.º 2014](https://diariodarepublica.pt/dr/detalhe/lei/2014-1946-158258), de 27 de Maio de 1946;
 
@@ -128,7 +323,7 @@ No uso da autorização concedida pelos n.os 1 a 7, 10 a 17, 19 a 22, 24, 26 a 2
 
 10) [Lei n.º 32/79](https://diariodarepublica.pt/dr/detalhe/lei/32-1979-276585), de 7 de Setembro, que estabelece a possibilidade de, por despacho do Ministro das Finanças, serem concedidos benefícios fiscais relativamente às fusões, incorporações ou cisões de empresas públicas integradas em sectores vedados à iniciativa privada.
 
-###### Art. 2.º São revogados, a partir de 1 de Janeiro de 1989, os benefícios fiscais constantes da legislação a seguir indicada:
+Art. 2.º São revogados, a partir de 1 de Janeiro de 1989, os benefícios fiscais constantes da legislação a seguir indicada:
 
 1) Artigo 15.º, alínea b), do estatuto anexo ao [Decreto-Lei n.º 48007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48007-1967-388633), de 26 de Outubro de 1967, relativo a benefícios fiscais conferidos à empresa pública Telefones de Lisboa e Porto, E. P., mantendo-se, todavia, as isenções de sisa e de contribuição predial;
 
@@ -144,7 +339,7 @@ No uso da autorização concedida pelos n.os 1 a 7, 10 a 17, 19 a 22, 24, 26 a 2
 
 7) Parte final do n.º 2 do artigo 2.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, com referência ao n.º 1 do artigo 34.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, relativo a incentivos concedidos à empresa pública Indústrias Nacionais de Defesa (INDEP), E. P.
 
-###### Art. 3.º São revogados, a partir da entrada em vigor deste diploma, sem prejuízo da manutenção dos já concedidos e dos regimes de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos, os benefícios fiscais constantes da legislação a seguir indicada:
+Art. 3.º São revogados, a partir da entrada em vigor deste diploma, sem prejuízo da manutenção dos já concedidos e dos regimes de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos, os benefícios fiscais constantes da legislação a seguir indicada:
 
 1) Artigo 5.º do [Decreto-Lei n.º 31259](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31259-1941-328197), de 9 de Maio de 1941, que estabelece benefícios fiscais durante os dois primeiros anos de exploração de pousadas regionais;
 
@@ -200,12 +395,12 @@ No uso da autorização concedida pelos n.os 1 a 7, 10 a 17, 19 a 22, 24, 26 a 2
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Dezembro de 1988.**
+Promulgado em 30 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1988.**
+Referendado em 30 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

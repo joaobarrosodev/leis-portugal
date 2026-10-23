@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 64/1988, 1º Suplemento, Série I de 1988-03-17
   number: '64'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1126-(2) a 1126-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/06401/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1988-667744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91f7968fb584354f05887ecff6433bc6d5c8122d0064b2c877243437b448e474
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a94208da0b1002a9b85b4b4191f295aac9c642cd260c88edf98189a2fc80d17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Código do Processo Civil
+- Custas Judiciais
+- Processo Civil
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A TABELA ANEXA AO ARTIGO 16 DO CODIGO DAS CUSTAS JUDICIAIS, APROVADO PELO DECRETO LEI 44329, DE 8 DE MAIO\
+    \ DE 1962, NA REDACÇÃO QUE LHE FOI DADA DECRETO LEI 387-D/87, DE 29 DE DEZEMBRO E PELO PRESENTE DIPLOMA, PELO DECRETO\
+    \ 212/89, DE 30 DE JUNHO, PUBLICADO NO DR.IS, 148.\0O NO DR.IS, 148."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-06-30'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: "Alterado o artigo 145.º do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961,\
+    \ na redacção do presente diploma, pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 145º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez\
+    \ de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: cites
+  target: pt:dre:670074:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:00Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +158,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código das Custas Judiciais:
+Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código das Custas Judiciais:
 
 ###### Artigo 8.º — [...]
 
@@ -296,13 +328,13 @@ e) ...
 
 f) ...
 
-###### Art. 2.º A nota da tabela a que se refere o artigo 16.º do Código das Custas Judiciais é alterada nos termos seguintes:
+Art. 2.º A nota da tabela a que se refere o artigo 16.º do Código das Custas Judiciais é alterada nos termos seguintes:
 
 Para além de 10000 contos, sobre a importância que exceder essa quantia - 1,5% de taxa de justiça;
 
 Para além de 100000 contos, pela importância que exceder essa quantia - 1% de taxa de justiça.
 
-###### Art. 3.º O artigo 145.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 3.º O artigo 145.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### Artigo 145.º — [...]
 
@@ -318,11 +350,11 @@ Para além de 100000 contos, pela importância que exceder essa quantia - 1% de 
 
 6 - Praticado o acto em qualquer dos três dias úteis seguintes sem ter sido paga imediatamente a multa devida, logo que a falta seja verificada, a secretaria, independentemente de despacho, notificará o interessado para pagar a multa de montante igual ao dobro da prevista no número anterior, sob pena de se considerar perdido o direito de praticar o acto, não podendo, porém, a multa exceder 10 UCCs.
 
-###### Art. 4.º - 1 - Haverá lugar a reembolso de parte ou totalidade das quantias depositadas, quando isso se mostre necessário, por aplicação das disposições do Código das Custas Judiciais.
+Art. 4.º - 1 - Haverá lugar a reembolso de parte ou totalidade das quantias depositadas, quando isso se mostre necessário, por aplicação das disposições do Código das Custas Judiciais.
 
 2 - A regra enunciada no número anterior adequar-se-á à consagração gradual do princípio da gratuitidade da justiça para quem, não dando causa à lide, nela obtenha vencimento.
 
-###### Art. 5.º - 1 - O [Decreto-Lei n.º 387-D/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-d-1987-670074), de 29 de Dezembro, aplica-se às acções cíveis pendentes em 1 de Janeiro de 1988.
+Art. 5.º - 1 - O [Decreto-Lei n.º 387-D/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-d-1987-670074), de 29 de Dezembro, aplica-se às acções cíveis pendentes em 1 de Janeiro de 1988.
 
 2 - Porém, cada uma das contas deve ser efectuada de harmonia com a lei vigente à data em que foi proferida a respectiva decisão sobre a condenação em custas.
 
@@ -330,16 +362,16 @@ Para além de 100000 contos, pela importância que exceder essa quantia - 1% de 
 
 4 - Nas acções em que não tenha sido observado o disposto nos números anteriores deverão ter lugar as correspondentes correcções, a requerimento dos interessados.
 
-###### Art. 6.º O presente diploma produz efeitos a partir da data da entrada em vigor do [Decreto-Lei n.º 387-D/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-d-1987-670074), de 29 de Dezembro.
+Art. 6.º O presente diploma produz efeitos a partir da data da entrada em vigor do [Decreto-Lei n.º 387-D/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-d-1987-670074), de 29 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 14 de Março de 1988.**
+Promulgado em 14 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Março de 1988.**
+Referendado em 14 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/05700/08240824.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1988-287400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bbc431e364896cc3c9e7eaf3e7c4ae25f77ef81bf1d4c43a491aea62c5d6f79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d78291a64ee81e1a64f4d2c42fd06b858181dfa2e5966a470f15e1431835c6d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Documento de Transporte
+- Fiscalização
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:227180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409708:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461026:por
+  label: Rectificado pela DECL.DD2601.1988.04.04.PCM,DR.IS [100]Supl de 30.04.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-461026
+  date: '1988-04-04'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:37Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +120,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É prorrogada até 31 de Março de 1988 a data da entrada em vigor do disposto nos artigos 7.º a 11.º do [Decreto-Lei n.º 97/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1986-227180), de 16 de Maio, com a redacção aprovada pelo [Decreto-Lei n.º 235-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1986-409708), de 18 de Agosto.
+Artigo 1.º É prorrogada até 31 de Março de 1988 a data da entrada em vigor do disposto nos artigos 7.º a 11.º do [Decreto-Lei n.º 97/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1986-227180), de 16 de Maio, com a redacção aprovada pelo [Decreto-Lei n.º 235-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1986-409708), de 18 de Agosto.
 
-###### Art. 2.º Até 30 de Junho de 1988, os sujeitos passivos obrigados ao processamento de documentos de transporte, nos termos do diploma referido, poderão utilizar os impressos que possuam em existência à data de 31 de Dezembro de 1987, desde que contenham os elementos exigidos no [Decreto-Lei n.º 97/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1986-227180), com excepção da menção referida no n.º 3 do artigo 18.º daquele decreto-lei, e sob a condição de neles ser aposta por carimbo a indicação de «Documento de transporte utilizável até 30 de Junho de 1988».
+Art. 2.º Até 30 de Junho de 1988, os sujeitos passivos obrigados ao processamento de documentos de transporte, nos termos do diploma referido, poderão utilizar os impressos que possuam em existência à data de 31 de Dezembro de 1987, desde que contenham os elementos exigidos no [Decreto-Lei n.º 97/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1986-227180), com excepção da menção referida no n.º 3 do artigo 18.º daquele decreto-lei, e sob a condição de neles ser aposta por carimbo a indicação de «Documento de transporte utilizável até 30 de Junho de 1988».
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 25 de Fevereiro de 1988.**
+Promulgado em 25 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1988.**
+Referendado em 26 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

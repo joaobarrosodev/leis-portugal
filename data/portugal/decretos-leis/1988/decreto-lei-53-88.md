@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/04600/06640665.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1988-286745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 852517bc83f259b45b7d966abb748b0bb33df92a9e4c1bf26473cc18cced22b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5b37f910302b55d721605b35e64ca80f6b40046f67bfa08d3d6edd39f9b326f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Pagamento a Prestações
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:355159:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:02Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +128,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As importâncias devidas por contribuições, impostos, taxas ou outras receitas administrados pela Direcção-Geral das Contribuições e Impostos provenientes de obrigações cujo prazo de cobrança voluntária tenha terminado até 31 de Dezembro de 1987 poderão ser satisfeitas nos termos constantes do presente diploma.
+Artigo 1.º As importâncias devidas por contribuições, impostos, taxas ou outras receitas administrados pela Direcção-Geral das Contribuições e Impostos provenientes de obrigações cujo prazo de cobrança voluntária tenha terminado até 31 de Dezembro de 1987 poderão ser satisfeitas nos termos constantes do presente diploma.
 
-###### Art. 2.º - 1 - As dívidas exigidas em processos executivos podem ser regularizadas nas seguintes condições:
+Art. 2.º - 1 - As dívidas exigidas em processos executivos podem ser regularizadas nas seguintes condições:
 
 a) Pagamento da quantia exequenda na totalidade, nos três meses seguintes ao da entrada em vigor do presente diploma, com dispensa de juros de mora e de custas;
 
@@ -146,7 +158,7 @@ c) Redução das custas a 3% da quantia exequenda, a título de imposto de justi
 
 8 - Para os efeitos da alínea b) do n.º 2, os juros de mora serão os contados até ao mês da entrada em vigor, inclusive, deste diploma.
 
-###### Art. 3.º - 1 - As infracções originadas pelo incumprimento da obrigação de imposto, designadamente as provenientes de autoliquidação ou retenção na fonte, praticadas até 31 de Dezembro de 1987 poderão, desde que não haja ainda sentença condenatória, ser regularizadas nos termos dos números seguintes.
+Art. 3.º - 1 - As infracções originadas pelo incumprimento da obrigação de imposto, designadamente as provenientes de autoliquidação ou retenção na fonte, praticadas até 31 de Dezembro de 1987 poderão, desde que não haja ainda sentença condenatória, ser regularizadas nos termos dos números seguintes.
 
 2 - Existindo auto de notícia:
 
@@ -164,50 +176,50 @@ b) Pagamento do imposto e juros compensatórios nos termos estabelecidos nas al�
 
 7 - Nas situações previstas no n.º 3, o não cumprimento das condições impostas neste diploma implica o imediato levantamento de auto de notícia.
 
-###### Art. 4.º - 1 - Nos casos referidos no artigo anterior, poderão ser concedidas facilidades excepcionais aos infractores cujos impostos e juros compensatórios em dívida excedam 5000000$00 e desde que os mesmos apresentem notórias dificuldades financeiras e previsíveis consequências económicas graves.
+Art. 4.º - 1 - Nos casos referidos no artigo anterior, poderão ser concedidas facilidades excepcionais aos infractores cujos impostos e juros compensatórios em dívida excedam 5000000$00 e desde que os mesmos apresentem notórias dificuldades financeiras e previsíveis consequências económicas graves.
 
 2 - As facilidades serão concedidas por despacho do Ministro das Finanças, sobre requerimento fundamento apresentado pelo interessado, nos termos e com os limites previstos nos n.os 6 e 7 do artigo 2.º
 
-###### Art. 5.º - 1 - Às infracções respeitantes ao incumprimento de obrigações tributárias acessórias praticadas até 31 de Dezembro de 1987 e desde que não haja ainda sentença condenatória será aplicado o mínimo da multa estabelecido na lei, reduzido a 75%, desde que o seu pagamento se efectue nos três meses seguintes ao da entrada em vigor do presente diploma.
+Art. 5.º - 1 - Às infracções respeitantes ao incumprimento de obrigações tributárias acessórias praticadas até 31 de Dezembro de 1987 e desde que não haja ainda sentença condenatória será aplicado o mínimo da multa estabelecido na lei, reduzido a 75%, desde que o seu pagamento se efectue nos três meses seguintes ao da entrada em vigor do presente diploma.
 
 2 - Nas situações regularizadas nos termos do número anterior não são devidas custas no respectivo processo de transgressão.
 
 3 - Se a infracção consistir na falta de apresentação de declarações, participações ou outros documentos com interesse para o apuramento da situação tributária do infractor, ou na sua inexactidão, este só poderá beneficiar do regime previsto no n.º 1 se, nos três meses imediatos ao da entrada em vigor deste diploma, suprir ou corrigir a falta.
 
-###### Art. 6.º Poderão igualmente beneficiar das facilidades de pagamento previstas no artigo 2.º do presente diploma os terceiros que efectuem de pronto o pagamento da dívida nos termos do artigo 25.º do Código de Processo das Contribuições e Impostos.
+Art. 6.º Poderão igualmente beneficiar das facilidades de pagamento previstas no artigo 2.º do presente diploma os terceiros que efectuem de pronto o pagamento da dívida nos termos do artigo 25.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 7.º Nos processos de execução fiscal em que já se encontre designada data para a arrematação dos bens penhorados suspender-se-á a praça se o executado efectuar o pagamento da primeira prestação até àquela data ou comprovar ter requerido a concessão das facilidades excepcionais a que aludem o n.º 6 do artigo 2.º e o artigo 4.º
+Art. 7.º Nos processos de execução fiscal em que já se encontre designada data para a arrematação dos bens penhorados suspender-se-á a praça se o executado efectuar o pagamento da primeira prestação até àquela data ou comprovar ter requerido a concessão das facilidades excepcionais a que aludem o n.º 6 do artigo 2.º e o artigo 4.º
 
-###### Art. 8.º - 1 - As facilidades estabelecidas neste diploma cessam logo que o pagamento de qualquer das prestações não seja efectuado no prazo do seu vencimento, prosseguindo os processos, nesse caso, a sua tramitação normal.
+Art. 8.º - 1 - As facilidades estabelecidas neste diploma cessam logo que o pagamento de qualquer das prestações não seja efectuado no prazo do seu vencimento, prosseguindo os processos, nesse caso, a sua tramitação normal.
 
 2 - Serão levadas em conta, todavia, as importâncias pagas.
 
-###### Art. 9.º Os prazos de prescrição das dívidas e do procedimento judicial suspendem-se durante o período do pagamento em prestações.
+Art. 9.º Os prazos de prescrição das dívidas e do procedimento judicial suspendem-se durante o período do pagamento em prestações.
 
-###### Art. 10.º - 1 - Mantêm-se em vigor os regimes de pagamento em prestações já autorizados, salvo se o interessado declarar, por escrito ou termo no processo, nos três meses seguintes ao da entrada em vigor do presente diploma, a sua opção pelos esquemas aqui previstos.
+Art. 10.º - 1 - Mantêm-se em vigor os regimes de pagamento em prestações já autorizados, salvo se o interessado declarar, por escrito ou termo no processo, nos três meses seguintes ao da entrada em vigor do presente diploma, a sua opção pelos esquemas aqui previstos.
 
 2 - O presente diploma não prejudica a aplicação de outros regimes legais vigentes mais favoráveis aos infractores ou executados.
 
-###### Art. 11.º - 1 - As dívidas constantes de processos de execução fiscal instaurados até 31 de Dezembro de 1987 de valor não superior a 10000$00 poderão ser julgadas em falhas.
+Art. 11.º - 1 - As dívidas constantes de processos de execução fiscal instaurados até 31 de Dezembro de 1987 de valor não superior a 10000$00 poderão ser julgadas em falhas.
 
 2 - A informação referente a estes processos será carregada em ficheiro informático para posterior identificação e eventual reactivação dos processos dentro do prazo de prescrição.
 
-###### Art. 12.º É atribuída competência ao chefe da repartição de finanças para, nas situações regularizadas nos termos deste diploma, arquivar o respectivo processo, sem procedimento judicial.
+Art. 12.º É atribuída competência ao chefe da repartição de finanças para, nas situações regularizadas nos termos deste diploma, arquivar o respectivo processo, sem procedimento judicial.
 
-###### Art. 13.º Este diploma não é aplicável ao incumprimento de obrigações no âmbito do imposto sobre o valor acrescentado.
+Art. 13.º Este diploma não é aplicável ao incumprimento de obrigações no âmbito do imposto sobre o valor acrescentado.
 
-###### Art. 14.º Fica revogado o artigo 4.º do [Decreto-Lei n.º 746/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1975-355159), de 31 de Dezembro.
+Art. 14.º Fica revogado o artigo 4.º do [Decreto-Lei n.º 746/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1975-355159), de 31 de Dezembro.
 
-###### Art. 15.º O presente diploma entra em vigor em 29 de Fevereiro de 1988.
+Art. 15.º O presente diploma entra em vigor em 29 de Fevereiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 1 de Fevereiro de 1988.**
+Promulgado em 1 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1988.**
+Referendado em 4 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

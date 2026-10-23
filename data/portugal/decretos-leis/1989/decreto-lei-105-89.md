@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/08500/15471547.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1989-615578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1954ce266df7ffbacb9de2667b2157f8205a38302712aec86f0e3d391a472634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c99adc8d24eee5ea7dddfeaf1efc4cad9bd7c98987de514344570758d6ad060
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Dação em Cumprimento
+- Direcção Geral do Património do Estado
+- Dívidas ao Estado
+- Empresa Pública do Jornal o Século
+- Gestão Financeira
+- Gestão Orçamental
+- Instituto de Gestão Financeira da Segurança Social
+- Liquidação de Sociedades
+- Pagamento
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:227194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430981:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:22Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +123,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Consideram-se extintas as dívidas da extinta Empresa Pública do Jornal O Século (EPJS), assumidas pelo Estado, por contribuições e impostos, juros ou outros encargos, as dívidas por custas judiciais resultantes de processos decorridos em quaisquer tribunais e por adiantamentos processados pela Direcção-Geral da Comunicação Social.
+Artigo 1.º Consideram-se extintas as dívidas da extinta Empresa Pública do Jornal O Século (EPJS), assumidas pelo Estado, por contribuições e impostos, juros ou outros encargos, as dívidas por custas judiciais resultantes de processos decorridos em quaisquer tribunais e por adiantamentos processados pela Direcção-Geral da Comunicação Social.
 
-###### Art. 2.º - 1 - A Direcção-Geral do património do Estado fica autorizada a inscrever no seu orçamento a verba de 306904000$00, destinada ao pagamento ao Instituto de Gestão Financeira da Segurança Social e outros credores e à regularização das operações de tesouraria relativas a dívidas da EPJS ao Estado.
+Art. 2.º - 1 - A Direcção-Geral do património do Estado fica autorizada a inscrever no seu orçamento a verba de 306904000$00, destinada ao pagamento ao Instituto de Gestão Financeira da Segurança Social e outros credores e à regularização das operações de tesouraria relativas a dívidas da EPJS ao Estado.
 
 2 - Para efeitos do disposto no número anterior será aberto um crédito especial, por conta dos 40 milhões de contos que constam do n.º 1 do artigo 6.º da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - António Fernando Couto dos Santos.
 
-**Promulgado em 30 de Março de 1989.**
+Promulgado em 30 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Março de 1989.**
+Referendado em 30 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

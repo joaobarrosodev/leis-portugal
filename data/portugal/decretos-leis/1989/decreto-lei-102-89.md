@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07300/13351335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1989-614672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e10bd53eaeaf37fe7e18edc95e6c6f399bac4a748cb03ef9f1755c98ecf561f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdeefb2a6c7c31cf9773de6ed8b169dfd2b8cb822e97790f8b5eb06fa477737a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Subsídio de Refeição
+- TAXA Social Unica
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569905:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º 119/2009, de 30 de\
+    \ Dezembro), pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação\
+    \ [prevista no art. 4.º] se manter transitoriamente em vigor as disposições procedimentais do presente diploma que não\
+    \ contrariem o disposto no Código aprovado pela citada Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:17Z'
   warnings: []
   errors: []
 ---
@@ -118,30 +145,30 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 25.º da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma regula a incidência da taxa social única sobre os valores dos subsídios de refeição, a qual engloba as taxas contributivas devidas pelas entidades empregadoras e respectivos trabalhadores, abrangidos pelo regime de segurança social.
+Artigo 1.º O presente diploma regula a incidência da taxa social única sobre os valores dos subsídios de refeição, a qual engloba as taxas contributivas devidas pelas entidades empregadoras e respectivos trabalhadores, abrangidos pelo regime de segurança social.
 
-###### Art. 2.º Não constituem base de incidência contributiva da taxa social única os valores das refeições tomadas pelos trabalhadores em refeitórios das respectivas entidades empregadoras.
+Art. 2.º Não constituem base de incidência contributiva da taxa social única os valores das refeições tomadas pelos trabalhadores em refeitórios das respectivas entidades empregadoras.
 
-###### Art. 3.º Para efeitos da taxa social única, aplica-se aos subsídios de refeição, quer sejam pagos em dinheiro, quer em títulos de refeição, denominados, designadamente, como tickets ou senhas de almoço, o regime estabelecido em sede de IRS.
+Art. 3.º Para efeitos da taxa social única, aplica-se aos subsídios de refeição, quer sejam pagos em dinheiro, quer em títulos de refeição, denominados, designadamente, como tickets ou senhas de almoço, o regime estabelecido em sede de IRS.
 
-###### Art. 4.º - 1 - Sempre que ocorra actualização do montante do subsídio de alimentação dos funcionários públicos, o novo valor é tido em conta, com efeitos a partir da data da respectiva actualização, para efeitos do disposto no presente diploma.
+Art. 4.º - 1 - Sempre que ocorra actualização do montante do subsídio de alimentação dos funcionários públicos, o novo valor é tido em conta, com efeitos a partir da data da respectiva actualização, para efeitos do disposto no presente diploma.
 
 2 - As instituições de segurança social, a pedido devidamente fundamentado das entidades empregadoras, procederão ao acerto dos valores contributivos decorrentes da situação prevista no número anterior.
 
-###### Art. 5.º É revogada a alínea c) do artigo 14.º do [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho.
+Art. 5.º É revogada a alínea c) do artigo 14.º do [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho.
 
-###### Art. 6.º O presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, nos termos do artigo 84.º da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto.
+Art. 6.º O presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, nos termos do artigo 84.º da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto.
 
-###### Art. 7.º O presente diploma produz efeitos desde o dia 1 de Janeiro de 1989.
+Art. 7.º O presente diploma produz efeitos desde o dia 1 de Janeiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - José Albino da Silva Peneda.
 
-**Promulgado em Portalegre em 16 de Março de 1989.**
+Promulgado em Portalegre em 16 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Março de 1989.**
+Referendado em 20 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1988-286732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e46490bcb5da7c2eceef82915cd5a8482ec6f9e71a017f01593821fa0a84d52d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72c1920a723c12718ea5cf6264d798b80e80ed29a26a73c5a14badc9303f736b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Assinatura Reconhecida
+- Autarquia Local
+- Eleição Autárquica
+- Eleição Legislativa
+- Eleição Presidencial
+- Modernização Administrativa
+- Parlamentar
+- Presidente da República
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230524:por
+  label: "Alterado o art. 97º da Lei 14/79, de 16-Mai, na redacção dada pelo presente diploma, pela LEI.10/95.1995.04.07.AR,\
+    \ DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-1995-230524
+  date: '1995-04-07'
+- type: amended_by
+  target: pt:dre:116090196:por
+  label: Alterado, a partir de 18.08.2018, e nos termos do art. 11.º, o art. 97.º da Lei Eleitoral para a Assembleia da República,
+    aprovada pela Lei 14/79, de 16-mai, na redação do presente diploma, pelo(a) Lei Orgânica n.º 3/2018 - Diário da República
+    n.º 158/2018, Série I de 2018-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2018-116090196
+  date: '2018-08-17'
+- type: cites
+  target: pt:dre:223433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:01Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +144,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 97.º da [Lei n.º 14/79](https://diariodarepublica.pt/dr/detalhe/lei/14-1979-382590), de 16 de Maio, alterado pela [Lei n.º 14-A/85](https://diariodarepublica.pt/dr/detalhe/lei/14-a-1985-583199), de 10 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 97.º da [Lei n.º 14/79](https://diariodarepublica.pt/dr/detalhe/lei/14-1979-382590), de 16 de Maio, alterado pela [Lei n.º 14-A/85](https://diariodarepublica.pt/dr/detalhe/lei/14-a-1985-583199), de 10 de Julho, passa a ter a seguinte redacção:
 
 1 - ...
 
@@ -107,7 +154,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - ...
 
-###### Art. 2.º O artigo 70.º do [Decreto-Lei n.º 701-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-b-1976-223433), de 29 de Setembro, alterado pela [Lei n.º 14-B/85](https://diariodarepublica.pt/dr/detalhe/lei/14-b-1985-583200), de 10 de Julho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 70.º do [Decreto-Lei n.º 701-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-b-1976-223433), de 29 de Setembro, alterado pela [Lei n.º 14-B/85](https://diariodarepublica.pt/dr/detalhe/lei/14-b-1985-583200), de 10 de Julho, passa a ter a seguinte redacção:
 
 1 - ...
 
@@ -117,7 +164,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - ...
 
-###### Art. 3.º O artigo 74.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio, alterado pela [Lei n.º 143/85](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), de 26 de Novembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 74.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio, alterado pela [Lei n.º 143/85](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), de 26 de Novembro, passa a ter a seguinte redacção:
 
 1 - ...
 
@@ -129,12 +176,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1988. - Aníbal António Cavaco Silva - José António da Silveira Godinho - Joaquim Fernando Nogueira - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 9 de Fevereiro de 1988.**
+Promulgado em 9 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1988.**
+Referendado em 14 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

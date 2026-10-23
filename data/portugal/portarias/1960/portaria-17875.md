@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17875-1960-501416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 229e82925fb4a343f574f2641bd78a28de6bd1b7229ff2e2987986a8935251be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79e75c1c784b4aa5483ea4c4480ab4594b20c927ce38cd53930e38778eb4d2b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:58Z'
   warnings: []
   errors: []
 ---
@@ -88,14 +88,14 @@ Ministério da Educação Nacional, 1 de Agosto de 1960. - O Ministro da Educaç
 
 Regulamento do Prémio D. Ana do Carmo Filipe
 
-###### Artigo 1.º O Prémio D. Ana do Carmo Filipe será atribuído anualmente ao aluno da escola mista de Vinhó, concelho de Arganil, que em cada ano lectivo revelar melhor aproveitamento entre os aprovados no exame da 4.ª classe.
+Artigo 1.º O Prémio D. Ana do Carmo Filipe será atribuído anualmente ao aluno da escola mista de Vinhó, concelho de Arganil, que em cada ano lectivo revelar melhor aproveitamento entre os aprovados no exame da 4.ª classe.
 
 § 1.º Até ao dia 15 de Agosto de cada ano a professora da escola mista de Vinhó proporá ao director do Distrito Escolar de Coimbra, como candidato ao referido prémio, o aluno da 4.ª classe que se haja distinguido pelo seu comportamento moral e aproveitamento escolar.
 
 § 2.º Havendo dois ou mais alunos em igualdade de mérito, o prémio será atribuído ao que estiver em condições económicas menos favoráveis.
 
-###### Art. 2.º O prémio será constituído pela importância de 100$00, que o seu instituidor entregará anualmente, enquanto for vivo, à Direcção do Distrito Escolar de Coimbra.
+Art. 2.º O prémio será constituído pela importância de 100$00, que o seu instituidor entregará anualmente, enquanto for vivo, à Direcção do Distrito Escolar de Coimbra.
 
-###### Art. 3.º Compete ao director do Distrito Escolar de Coimbra a indicação do aluno a quem cabe o prémio, nas condições do artigo 1.º e seus parágrafos, assim como a sua entrega, que, em princípio, será efectuada em sessão solene na primeira quinzena do ano lectivo seguinte àquele a que o prémio se refere.
+Art. 3.º Compete ao director do Distrito Escolar de Coimbra a indicação do aluno a quem cabe o prémio, nas condições do artigo 1.º e seus parágrafos, assim como a sua entrega, que, em princípio, será efectuada em sessão solene na primeira quinzena do ano lectivo seguinte àquele a que o prémio se refere.
 
 Direcção-Geral do Ensino Primário, 1 de Agosto de 1960. - O Director-Geral, interino, Joaquim José Gomes Belo.

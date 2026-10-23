@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1989-615450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fe701663145a09333f3058641b9cafa5dca6e2686545363660867e382a3f3c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac2512a1300db21dfca06b841a6747b143c859b9f6e0407dcde294023913e7ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia de Seguros
+- Companhia de Seguros Tranquilidade
+- Empresa Pública
+- Estatuto
+- Privatização
+- Sociedade Anónima
+- Tranquilidade Seguros
 relationships:
 - type: amended_by
   target: pt:dre:587383:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:587383:por
+  label: "Reduzido para um ano o prazo previsto no nº 2 do art. 6º pelo DEC LEI.260/90.17.08.1990.MF, DR.IS [189-2ºSupl] de\
+    \ 17.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1990-587383
+  date: '1990-08-17'
+- type: cites
+  target: pt:dre:231144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:22Z'
   warnings: []
   errors: []
 ---
@@ -97,23 +122,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Tranquilidade Seguros, E. P., criada pelo [Decreto-Lei n.º 528/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1979-231144), de 31 de Dezembro, como resultante da fusão de seguradoras nacionalizadas pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, é transformada pelo presente diploma em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se Companhia de Seguros Tranquilidade, S. A.
+Artigo 1.º - 1 - A Tranquilidade Seguros, E. P., criada pelo [Decreto-Lei n.º 528/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1979-231144), de 31 de Dezembro, como resultante da fusão de seguradoras nacionalizadas pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, é transformada pelo presente diploma em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se Companhia de Seguros Tranquilidade, S. A.
 
 2 - A Companhia de Seguros Tranquilidade, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pelas normas reguladoras da actividade seguradora.
 
-###### Art. 2.º - 1 - A Companhia de Seguros Tranquilidade, S. A., sucede automática e globalmente à empresa pública Tranquilidade Seguros, E. P., e continua, sob a forma referida no artigo anterior, a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
+Art. 2.º - 1 - A Companhia de Seguros Tranquilidade, S. A., sucede automática e globalmente à empresa pública Tranquilidade Seguros, E. P., e continua, sob a forma referida no artigo anterior, a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser isentos de quaisquer taxas ou emolumentos e feitos pelas repartições competentes com base em simples comunicação subscrita por dois membros do conselho de administração da Companhia de Seguros Tranquilidade, S. A., ou dois membros do conselho de gestão da Tranquilidade Seguros, E. P.
 
-###### Art. 3.º Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho do Ministro das Finanças.
+Art. 3.º Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho do Ministro das Finanças.
 
-###### Art. 4.º - 1 - A Companhia de Seguros Tranquilidade, S. A., tem inicialmente um capital social de 3500000000$00, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
+Art. 4.º - 1 - A Companhia de Seguros Tranquilidade, S. A., tem inicialmente um capital social de 3500000000$00, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
 2 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou outra entidade que, por imposição legal, deva pertencer ao sector público.
 
 3 - Os fundos públicos e organismos congéneres do sector público administrativo com receitas próprias não integrados no Orçamento do Estado e que, nos termos legais, apenas excepcionalmente possam recorrer a dotações do Estado podem subscrever acções representativas do capital da Companhia de Seguros Tranquilidade, S. A., desde que para o efeito sejam autorizados por despacho do Ministro da Finanças.
 
-###### Art. 5.º - 1 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
+Art. 5.º - 1 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
 a) As acções do tipo A são nominativas e apenas podem pertencer ao Estado, a pessoas colectivas de direito público ou a outras entidades que, por imposição legal, devam pertencer ao sector público;
 
@@ -125,7 +150,7 @@ a) As acções correspondentes à globalidade dos valores dos capitais sociais d
 
 b) As acções adicionais necessárias para que 51% do capital social existente em cada momento esteja detido pelas entidades referidas na alínea a) do n.º 1.
 
-###### Art. 6.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, desde que sejam observadas as seguintes regras:
+Art. 6.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, desde que sejam observadas as seguintes regras:
 
 a) São reservadas a pequenos subscritores, a trabalhadores da Companhia de Seguros Tranquilidade, S. A., e àqueles que o tenham sido da Tranquilidade Seguros, E. P., durante mais de três anos, pelo menos 20% das acções a alienar;
 
@@ -147,21 +172,21 @@ e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b
 
 6 - Caso não seja subscrita a totalidade das acções reservadas nos termos das alíneas a) e b) do n.º 1, poderão as acções remanescentes ser alienadas nos termos do n.º 3.
 
-###### Art. 7.º - 1 - Para efeitos do disposto nos artigos anteriores, compete ao conselho de administração da Companhia de Seguros Tranquilidade, S A., propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, tecnicamente habilitadas, a escolher de entre as pré-qualificadas para o efeito, nos termos legais.
+Art. 7.º - 1 - Para efeitos do disposto nos artigos anteriores, compete ao conselho de administração da Companhia de Seguros Tranquilidade, S A., propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, tecnicamente habilitadas, a escolher de entre as pré-qualificadas para o efeito, nos termos legais.
 
 2 - O valor da empresa, bem como o preço, o montante, as formas e as condições de alienação de parte do capital social detido pelo sector público, será fixado por resolução do Conselho de Ministros, mediante proposta do Ministro das Finanças.
 
-###### Art. 8.º A participação no capital social da Companhia de Seguros Tranquilidade, S. A., do conjunto de entidades singulares ou colectivas de nacionalidade estrangeira e de entidades cujo capital seja detido maioritariamente por entidades estrangeiras directa ou indirectamente não pode exceder 5% do mesmo.
+Art. 8.º A participação no capital social da Companhia de Seguros Tranquilidade, S. A., do conjunto de entidades singulares ou colectivas de nacionalidade estrangeira e de entidades cujo capital seja detido maioritariamente por entidades estrangeiras directa ou indirectamente não pode exceder 5% do mesmo.
 
-###### Art. 9.º - 1 - A maioria absoluta do capital social e dos votos emergentes das acções emitidas deve sempre pertencer aos titulares de acções do tipo A, devendo a representação por parte pública nos órgãos sociais ser sempre maioritária.
+Art. 9.º - 1 - A maioria absoluta do capital social e dos votos emergentes das acções emitidas deve sempre pertencer aos titulares de acções do tipo A, devendo a representação por parte pública nos órgãos sociais ser sempre maioritária.
 
 2 - A eleição dos titulares dos órgãos sociais cabe sempre à maioria dos votos expressos em assembleia geral, consignando os estatutos a designação de alguns desses titulares aos possuidores de acções do tipo B, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 2.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 3 - Para efeitos de eleição dos órgãos sociais, a assembleia geral só se pode reunir estando presentes accionistas que representem, pelo menos, 51% do capital social.
 
-###### Art. 10.º A Companhia de Seguros Tranquilidade, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 10.º A Companhia de Seguros Tranquilidade, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 11.º - 1 - São aprovados os estatutos da Companhia de Seguros Tranquilidade, S A, anexos a este diploma.
+Art. 11.º - 1 - São aprovados os estatutos da Companhia de Seguros Tranquilidade, S A, anexos a este diploma.
 
 2 - Os estatutos referidos no número anterior não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
@@ -169,7 +194,7 @@ e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b
 
 4 - As alterações previstas no número anterior não podem contrariar o disposto no presente decreto-lei e na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
-###### Art. 12.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministro das Finanças, pelo menos quinze dias antes da data da assembleia geral destinada à aprovação do relatório e contas, os seguintes elementos, para apreciação:
+Art. 12.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministro das Finanças, pelo menos quinze dias antes da data da assembleia geral destinada à aprovação do relatório e contas, os seguintes elementos, para apreciação:
 
 a) Relatório e contas;
 
@@ -179,45 +204,45 @@ b) Quaisquer elementos adequados à integral compreensão da situação económi
 
 3 - O conselho fiscal enviará trimestralmente ao Ministro das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 13.º - 1 - Os trabalhadores e pensionistas da Tranquilidade Seguros, E. P., mantêm todos os seus direitos, obrigações e regalias emergentes dos contratos individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma, sem prejuízo de eventuais alterações posteriores no contrato colectivo de trabalho.
+Art. 13.º - 1 - Os trabalhadores e pensionistas da Tranquilidade Seguros, E. P., mantêm todos os seus direitos, obrigações e regalias emergentes dos contratos individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma, sem prejuízo de eventuais alterações posteriores no contrato colectivo de trabalho.
 
 2 - Os funcionários do Estado, de autarquias e de institutos públicos, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na Companhia de Seguros Tranquilidade, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros de que usufruiriam por antiguidade se tivessem permanecido naquele quadro.
 
 3 - Os trabalhadores da Companhia de Seguros Tranquilidade, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade em nada serão prejudicados por esse facto, regressando aos seus lugares logo que terminem o mandato.
 
-###### Art. 14.º - 1 - Fica desde já convocada a assembleia geral da Companhia de Seguros Tranquilidade, S. A., para eleger os corpos sociais e deliberar sobre a respectiva remuneração, a qual reunirá até 30 dias após a data da publicação do presente diploma, mantendo-se em funções até à tomada de posse dos novos corpos sociais os actuais membros do conselho de gestão e da comissão de fiscalização da Tranquilidade Seguros, E. P.
+Art. 14.º - 1 - Fica desde já convocada a assembleia geral da Companhia de Seguros Tranquilidade, S. A., para eleger os corpos sociais e deliberar sobre a respectiva remuneração, a qual reunirá até 30 dias após a data da publicação do presente diploma, mantendo-se em funções até à tomada de posse dos novos corpos sociais os actuais membros do conselho de gestão e da comissão de fiscalização da Tranquilidade Seguros, E. P.
 
 2 - No prazo de 30 dias após a realização das operações de alienação de, pelo menos, 30% de acções do tipo B que o Estado promova no âmbito do presente decreto-lei será convocada nova assembleia geral, para eleger os corpos sociais e deliberar sobre a respectiva remuneração.
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Março de 1989.**
+Promulgado em 30 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Março de 1989.**
+Referendado em 30 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da Companhia de Seguros Tranquilidade, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Companhia de Seguros Tranquilidade, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Companhia de Seguros Tranquilidade, S. A.
 
-###### Art. 2.º - 1 - A duração da sociedade é por termo indeterminado e a sua sede é em Lisboa, na Avenida da Liberdade, 242.
+Art. 2.º - 1 - A duração da sociedade é por termo indeterminado e a sua sede é em Lisboa, na Avenida da Liberdade, 242.
 
 2 - Por deliberação do conselho de administração pode a sociedade mudar a sua sede para qualquer outro ponto do território nacional, mediante comunicação ao Instituto de Seguros de Portugal.
 
 3 - Por deliberação do conselho de administração e mediante autorização do Ministro das Finanças, ouvido o Instituto de Seguros de Portugal, pode a sociedade criar e manter, em qualquer ponto do território nacional ou fora dele, agências, delegações, dependências ou qualquer outra forma de representação.
 
-###### Art. 3.º A Companhia de Seguros Tranquilidade, S. A., tem por objecto social o exercício da actividade de seguro directo e de resseguro, em todos os ramos e operações, salvo no que respeita ao seguro de crédito com garantia do Estado, podendo ainda exercer actividades conexas ou complementares da de seguro ou resseguro.
+Art. 3.º A Companhia de Seguros Tranquilidade, S. A., tem por objecto social o exercício da actividade de seguro directo e de resseguro, em todos os ramos e operações, salvo no que respeita ao seguro de crédito com garantia do Estado, podendo ainda exercer actividades conexas ou complementares da de seguro ou resseguro.
 
 ### CAPÍTULO II — Capital social e acções
 
-###### Art. 4.º - 1 - O capital social é, em qualquer momento, representado por acções do tipo A e do tipo B, com as seguintes características:
+Art. 4.º - 1 - O capital social é, em qualquer momento, representado por acções do tipo A e do tipo B, com as seguintes características:
 
 a) As acções do tipo A são nominativas e só podem ser detidas pelo Estado, pessoas colectivas de direito público ou outras entidades que, por imposição legal, devam pertencer ao sector público;
 
@@ -231,7 +256,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 3 - As acções são livremente transferíveis entre as entidades a quem puderem pertencer.
 
-###### Art. 5.º - 1 - O capital social é de 3500000000$00, estando integralmente subscrito e realizado pelo Estado, à data da entrada em vigor dos presentes Estatutos.
+Art. 5.º - 1 - O capital social é de 3500000000$00, estando integralmente subscrito e realizado pelo Estado, à data da entrada em vigor dos presentes Estatutos.
 
 2 - O capital social referido no número anterior é representado por 3500000 acções com o valor nominal de 1000$00 cada uma, sendo 1785000 do tipo A e 1715000 do tipo B.
 
@@ -241,9 +266,9 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 5 - As acções que vierem a ser emitidas em aumentos de capital da sociedade serão do tipo A e do tipo B, na proporção que se acha definida no n.º 2.
 
-###### Art. 6.º A maioria absoluta do capital social e dos votos emergentes das acções emitidas deve sempre pertencer aos titulares das acções do tipo A, devendo a representação da parte pública nos órgãos sociais ser sempre maioritária.
+Art. 6.º A maioria absoluta do capital social e dos votos emergentes das acções emitidas deve sempre pertencer aos titulares das acções do tipo A, devendo a representação da parte pública nos órgãos sociais ser sempre maioritária.
 
-###### Art. 7.º - 1 - O conselho de administração tem competência para deliberar o aumento do capital social referido no n.º 1 do artigo 5.º, por uma ou mais vezes, até ao montante de 5000000000$00.
+Art. 7.º - 1 - O conselho de administração tem competência para deliberar o aumento do capital social referido no n.º 1 do artigo 5.º, por uma ou mais vezes, até ao montante de 5000000000$00.
 
 2 - Os aumentos de capital para além do limite definido no número anterior serão deliberados pela assembleia geral.
 
@@ -253,13 +278,13 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 8.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os accionistas detentores de acções do tipo B poderão ter um representante tanto na mesa da assembleia geral como no conselho fiscal e dois representantes no conselho de administração, todos eleitos em assembleia geral.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto, sendo vedada a presença de quaisquer outras entidades, singulares ou colectivas.
+Art. 9.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto, sendo vedada a presença de quaisquer outras entidades, singulares ou colectivas.
 
 2 - A cada 100 acções corresponderá um voto na assembleia geral.
 
@@ -275,7 +300,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 8 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 10.º - 1 - Compete à assembleia geral:
+Art. 10.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório de gestão, discutir e votar o balanço, as contas e o parecer do conselho fiscal;
 
@@ -295,21 +320,21 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - Para efeitos de alterações estatutárias ou de eleições de titulares dos órgãos sociais, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem, pelo menos, 51% do capital social.
 
-###### Art. 11.º - 1 - A assembleia geral será, nos termos da lei comercial, convocada e dirigida pelo presidente da respectiva mesa, constituída ainda por um vice-presidente e dois secretários, eleitos pela própria assembleia, sendo as faltas supridas nos termos da lei comercial.
+Art. 11.º - 1 - A assembleia geral será, nos termos da lei comercial, convocada e dirigida pelo presidente da respectiva mesa, constituída ainda por um vice-presidente e dois secretários, eleitos pela própria assembleia, sendo as faltas supridas nos termos da lei comercial.
 
 2 - O mandato dos membros da mesa da assembleia geral é de três anos, sendo renovável.
 
-###### Art. 12.º A assembleia geral reúne ordinariamente uma vez por ano, para os efeitos das alíneas a), b) e c) do n.º 1 do artigo 10.º, e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital, em carta com assinatura reconhecida pelo notário ou autenticada por instituição de crédito em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
+Art. 12.º A assembleia geral reúne ordinariamente uma vez por ano, para os efeitos das alíneas a), b) e c) do n.º 1 do artigo 10.º, e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital, em carta com assinatura reconhecida pelo notário ou autenticada por instituição de crédito em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 13.º - 1 - O conselho de administração é composto por um presidente e por quatro vogais.
+Art. 13.º - 1 - O conselho de administração é composto por um presidente e por quatro vogais.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável, subsistindo até à tomada de posse dos membros que os venham substituir.
 
 3 - O conselho de administração poderá delegar numa comissão executiva constituída por três administradores, sendo dois deles obrigatoriamente representantes da parte pública, algum ou alguns dos poderes que lhe são conferidos, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 14.º - 1 - Ao conselho de administração compete, além das atribuições gerais que por lei lhe são conferidas:
+Art. 14.º - 1 - Ao conselho de administração compete, além das atribuições gerais que por lei lhe são conferidas:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -327,7 +352,7 @@ g) Exercer as demais competências que lhe sejam atribuídas pela lei ou pela as
 
 2 - O conselho de administração deve, pelo menos quinze dias antes da data da assembleia geral para aprovação do relatório e contas, enviar ao Ministro das Finanças, para apreciação, o relatório e contas, acompanhados de documento comprovativo da concessão do visto formal pelo Instituto de Seguros de Portugal e de quaisquer outros elementos adequados à integral compreensão da situação económica e financeira da sociedade e perspectivas da sua evolução.
 
-###### Art. 15.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 15.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho, em juízo ou fora dele;
 
@@ -339,17 +364,17 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 16.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a solicitação de dois administradores.
+Art. 16.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a solicitação de dois administradores.
 
 2 - O conselho não pode deliberar sem que esteja presente a maioria dos seus membros, salvo por motivo de urgência, como tal reconhecido expressamente pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração serão tomadas por maioria dos votos expressos, tendo o presidente ou quem o substituir voto de qualidade.
 
-###### Art. 17.º - 1 - Das reuniões do conselho de administração devem ser elaboradas actas, nas quais são mencionadas, de forma sucinta mas clara, todos os assuntos tratados, que devem ser assinadas por todos os presentes na respectiva reunião.
+Art. 17.º - 1 - Das reuniões do conselho de administração devem ser elaboradas actas, nas quais são mencionadas, de forma sucinta mas clara, todos os assuntos tratados, que devem ser assinadas por todos os presentes na respectiva reunião.
 
 2 - Os participantes nas reuniões podem ditar para a acta a súmula das suas intervenções, sendo-lhes ainda facultado votar «vencido» quanto às decisões de que discordam.
 
-###### Art. 18.º - 1 - A sociedade obriga-se:
+Art. 18.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração, que deverão integrar a comissão executiva, quando esta existir;
 
@@ -363,13 +388,13 @@ b) Pela assinatura dos mandatários constituídos no âmbito e nos termos do cor
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 19.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, eleitos em assembleia geral.
+Art. 19.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - O mandato dos membros do conselho fiscal é de três anos, sendo renovável, subsistindo até à tomada de posse dos membros que os vierem substituir.
 
-###### Art. 20.º - 1 - Ao conselho fiscal compete, em especial:
+Art. 20.º - 1 - Ao conselho fiscal compete, em especial:
 
 a) Examinar, sempre que o julgue conveniente, a escrituração da sociedade;
 
@@ -385,13 +410,13 @@ d) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 4 - Compete ainda ao conselho fiscal enviar trimestralmente ao Ministro das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 21.º - 1 - As deliberações do conselho fiscal serão tomadas por maioria dos votos expressos, estando presente a maioria dos seus membros.
+Art. 21.º - 1 - As deliberações do conselho fiscal serão tomadas por maioria dos votos expressos, estando presente a maioria dos seus membros.
 
 2 - De todas as reuniões será lavrada acta.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 22.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na constituição da reserva legal e na cobertura dos prejuízos de anos anteriores, devendo o remanescente ser aplicado de acordo com o deliberado pela assembleia geral, com observância dos seguintes princípios:
+Art. 22.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na constituição da reserva legal e na cobertura dos prejuízos de anos anteriores, devendo o remanescente ser aplicado de acordo com o deliberado pela assembleia geral, com observância dos seguintes princípios:
 
 a) Pelo menos 20% destinar-se-ão à distribuição de dividendos aos accionistas;
 
@@ -401,20 +426,20 @@ c) O restante para os fins que a assembleia geral delibere.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 23.º Os membros do conselho de administração que representem a parte pública são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 23.º Os membros do conselho de administração que representem a parte pública são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 24.º Quaisquer alterações dos estatutos, deliberadas nos termos da alínea e) do n.º 1 do artigo 10.º, carecem de ser autorizadas pelo Ministro das Finanças, mediante parecer do Instituto de Seguros de Portugal, devendo sempre obedecer ao disposto no decreto-lei que aprovou os presentes estatutos, na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, e na lei comercial.
+Art. 24.º Quaisquer alterações dos estatutos, deliberadas nos termos da alínea e) do n.º 1 do artigo 10.º, carecem de ser autorizadas pelo Ministro das Finanças, mediante parecer do Instituto de Seguros de Portugal, devendo sempre obedecer ao disposto no decreto-lei que aprovou os presentes estatutos, na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, e na lei comercial.
 
-###### Art. 25.º - 1 - Os titulares de acções do tipo B têm o direito de, nos termos do n.º 2 do artigo 8.º, subscrever listas para a eleição de até dois administradores e de as propor à assembleia geral, reunida para o efeito.
+Art. 25.º - 1 - Os titulares de acções do tipo B têm o direito de, nos termos do n.º 2 do artigo 8.º, subscrever listas para a eleição de até dois administradores e de as propor à assembleia geral, reunida para o efeito.
 
 2 - Durante o primeiro triénio, se as listas propostas pelos titulares das acções do tipo B não obtiverem o número mínimo de votos exigidos no Código das Sociedades Comerciais para eleição de administradores, mas se a votação ultrapassar os 5% do capital da sociedade, a assembleia geral poderá, em votação posteriormente tomada, considerar eleitos os administradores propostos nas listas mais votadas.
 
 3 - O exercício dos direitos consagrados no número anterior só se verificará se na composição das listas a submeter à assembleia geral pelos titulares de acções do tipo A não estiverem integrados um ou dois representantes dos titulares das acções do tipo B.
 
-###### Art. 26.º Em todos os casos omissos nestes estatutos serão observadas as normas aplicáveis às sociedades anónimas e as normas gerais e especiais reguladoras da actividade seguradora.
+Art. 26.º Em todos os casos omissos nestes estatutos serão observadas as normas aplicáveis às sociedades anónimas e as normas gerais e especiais reguladoras da actividade seguradora.
 
-###### Art. 27.º - 1 - A sociedade dissolve-se nos termos legais.
+Art. 27.º - 1 - A sociedade dissolve-se nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 78/1989, 1º Suplemento, Série I de 1989-04-04
   number: '78'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1444-(7) a 1444-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/07801/00070009.pdf
 entry_into_force_dates: []
@@ -48,36 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-c-1989-146549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50f6753f05e9b6322c3faf07c1b97c525264047ac7cda7f2aa9336dac4c6416b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4cc7c78ffca2558e36dde3be59189a870cd3ed810f9097348a1734e62bdac4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Dívidas
+- Consumo de Energia
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Garantia
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:227831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662314:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:17Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +122,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Ficam sujeitas ao regime definido no presente diploma as entidades fornecedoras de energia eléctrica no território do continente e os respectivos consumidores.
+Artigo 1.º Ficam sujeitas ao regime definido no presente diploma as entidades fornecedoras de energia eléctrica no território do continente e os respectivos consumidores.
 
-###### Art. 2.º - 1 - Os consumidores de energia eléctrica em muito alta, alta e média tensão e os consumidores não domésticos em baixa tensão com potências contratadas superiores a 39,6 kVA com atrasos de pagamento superiores a 30 dias contados da data de emissão das correspondentes facturas ficam sujeitos ao pagamento de juros de mora às respectivas entidades fornecedoras.
+Art. 2.º - 1 - Os consumidores de energia eléctrica em muito alta, alta e média tensão e os consumidores não domésticos em baixa tensão com potências contratadas superiores a 39,6 kVA com atrasos de pagamento superiores a 30 dias contados da data de emissão das correspondentes facturas ficam sujeitos ao pagamento de juros de mora às respectivas entidades fornecedoras.
 
 2 - O juro de mora a que se refere o número anterior é liquidado à taxa de desconto do Banco de Portugal, acrescida de cinco pontos percentuais.
 
@@ -108,13 +134,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - A importância fixada no número anterior sofrerá uma actualização anual, com base no índice de preços no consumidor publicado pelo Instituto Nacional de Estatística.
 
-###### Art. 3.º - 1 - Para os consumidores referidos no n.º 1 do artigo anterior, se a quantia em dívida não for paga até ao 30.º dia contado da data de emissão da factura, devem as entidades fornecedoras comunicar-lhes por carta registada, telegrama ou telex a importância em dívida e os respectivos juros, se os houver, bem como a reserva do direito de suspensão do correspondente fornecimento de energia até à integral regularização da dívida.
+Art. 3.º - 1 - Para os consumidores referidos no n.º 1 do artigo anterior, se a quantia em dívida não for paga até ao 30.º dia contado da data de emissão da factura, devem as entidades fornecedoras comunicar-lhes por carta registada, telegrama ou telex a importância em dívida e os respectivos juros, se os houver, bem como a reserva do direito de suspensão do correspondente fornecimento de energia até à integral regularização da dívida.
 
 2 - O direito de suspensão do fornecimento de energia previsto no número anterior pode ser exercido pelas entidades fornecedoras decorridos que sejam dez dias sobre a data do envio da comunicação aos consumidores, sem prejuízo do disposto no n.º 1 do artigo 7.º
 
 3 - Tratando-se de consumidores em baixa tensão domésticos ou com potências contratadas iguais ou inferiores a 39,6 kVA, e sem prejuízo do disposto no n.º 1 do artigo 7.º, se a quantia em dívida não for paga até ao 10.º dia contado da data de apresentação da factura, as respectivas entidades fornecedoras podem exercer o direito de suspensão do fornecimento sem qualquer aviso.
 
-###### Art. 4.º - 1 - A suspensão do fornecimento de energia eléctrica pode ter lugar quando, existindo um plano de amortização de dívida acordado entre o consumidor e a entidade fornecedora, este não for cumprido.
+Art. 4.º - 1 - A suspensão do fornecimento de energia eléctrica pode ter lugar quando, existindo um plano de amortização de dívida acordado entre o consumidor e a entidade fornecedora, este não for cumprido.
 
 2 - No caso previsto no número anterior, a suspensão do fornecimento pode ser efectuada:
 
@@ -122,7 +148,7 @@ a) Após aviso prévio de 48 horas, para os casos previstos na alínea a) do n.�
 
 b) Sem qualquer aviso, nos restantes casos.
 
-###### Art. 5.º - 1 - Aos consumidores de energia eléctrica que à data da entrada em vigor do presente diploma não tenham caucionado o cumprimento das obrigações contratuais é concedido o direito de assegurar o cumprimento dessas obrigações mediante a prestação de caução a favor das respectivas entidades fornecedoras, em obediência aos seguintes critérios:
+Art. 5.º - 1 - Aos consumidores de energia eléctrica que à data da entrada em vigor do presente diploma não tenham caucionado o cumprimento das obrigações contratuais é concedido o direito de assegurar o cumprimento dessas obrigações mediante a prestação de caução a favor das respectivas entidades fornecedoras, em obediência aos seguintes critérios:
 
 a) Tratando-se de consumidores em muito alta, alta e média tensão ou em baixa tensão não domésticos com potências contratadas superiores a 39,6 kVA, a caução deve ser prestada através de depósito em dinheiro, garantia bancária ou seguro-caução;
 
@@ -180,7 +206,7 @@ f) Para os consumidores em baixa tensão com potências contratadas iguais ou in
 
 10 - Para cálculo do valor da caução devem ser considerados os valores das taxas de potência e de energia do sistema tarifário de venda de energia eléctrica, acrescidos do adicional de 8% estabelecido pelo [Decreto-Lei n.º 202/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1986-227831), de 22 de Julho.
 
-###### Art. 6.º - 1 - As entidades fornecedoras podem, quando ocorra suspensão do fornecimento por falta de pagamento, exigir ao respectivo consumidor a prestação de caução, como condição do restabelecimento do fornecimento.
+Art. 6.º - 1 - As entidades fornecedoras podem, quando ocorra suspensão do fornecimento por falta de pagamento, exigir ao respectivo consumidor a prestação de caução, como condição do restabelecimento do fornecimento.
 
 2 - Nos casos previstos no número anterior, os valores da caução mencionados no n.º 2 do artigo anterior, tendo como base os valores das taxas de potência e de energia à data da religação, podem elevar-se:
 
@@ -188,13 +214,13 @@ a) Até ao dobro, nos casos previstos nas alíneas a), b), c) e d);
 
 b) Até ao triplo, nos restantes casos.
 
-###### Art. 7.º - 1 - Aos consumidores que à data da entrada em vigor do presente diploma não tenham as suas obrigações contratuais caucionadas e que, entretanto, assegurem o cumprimento dessas obrigações mediante prestação de caução é garantida a dilação por um período de quinze dias dos prazos previstos nos n.os 2 e 3 do artigo 3.º
+Art. 7.º - 1 - Aos consumidores que à data da entrada em vigor do presente diploma não tenham as suas obrigações contratuais caucionadas e que, entretanto, assegurem o cumprimento dessas obrigações mediante prestação de caução é garantida a dilação por um período de quinze dias dos prazos previstos nos n.os 2 e 3 do artigo 3.º
 
 2 - Os valores das cauções a que refere o artigo 5.º serão reduzidos para os consumidores de energia eléctrica em baixa tensão domésticos ou com potência contratada igual ou inferior a 39,6 kVA que adoptem a transferência bancária como forma de pagamento das suas obrigações para com as respectivas entidades fornecedoras.
 
-###### Art. 8.º Nos novos contratos de fornecimento de energia eléctrica as entidades fornecedoras podem exigir aos respectivos consumidores a prestação de caução pelo consumo de energia, nos termos definidos nos artigos 5.º e seguintes.
+Art. 8.º Nos novos contratos de fornecimento de energia eléctrica as entidades fornecedoras podem exigir aos respectivos consumidores a prestação de caução pelo consumo de energia, nos termos definidos nos artigos 5.º e seguintes.
 
-###### Art. 9.º - 1 - Constituída pelo consumidor a caução prevista neste diploma, podem as respectivas entidades fornecedoras satisfazer, em caso de incumprimento, os seus créditos pelo montante da mesma, decorridos que sejam:
+Art. 9.º - 1 - Constituída pelo consumidor a caução prevista neste diploma, podem as respectivas entidades fornecedoras satisfazer, em caso de incumprimento, os seus créditos pelo montante da mesma, decorridos que sejam:
 
 a) 30 dias sobre a data de emissão da correspondente factura, para os consumidores referidos na alínea a) do n.º 1 do artigo 5.º;
 
@@ -202,20 +228,20 @@ b) 10 dias sobre a data referida na alínea anterior, para os restantes consumid
 
 2 - A satisfação dos créditos das entidades fornecedoras de energia eléctrica através da utilização das cauções e a sua reconstituição nos termos previstos no artigo 6.º não prejudicam que a religação apenas tenha lugar quando se mostrem satisfeitas as obrigações cujo incumprimento esteve na origem da suspensão do fornecimento.
 
-###### Art. 10.º Para os consumidores que à data da entrada em vigor do presente diploma tenham atrasos de pagamento superiores a 30 dias o estabelecido nos n.os 1 e 2 do artigo 3.º só é aplicável decorridos 60 dias sobre aquela data.
+Art. 10.º Para os consumidores que à data da entrada em vigor do presente diploma tenham atrasos de pagamento superiores a 30 dias o estabelecido nos n.os 1 e 2 do artigo 3.º só é aplicável decorridos 60 dias sobre aquela data.
 
-###### Art. 11.º São revogados o artigo 46.º das Condições Gerais de Venda de Energia Eléctrica em Alta Tensão, anexas ao [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, o [Decreto-Lei n.º 116/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1987-662314), de 14 de Março, e o [Decreto n.º 160/78](https://diariodarepublica.pt/dr/detalhe/decreto/160-1978-325162), de 20 de Dezembro.
+Art. 11.º São revogados o artigo 46.º das Condições Gerais de Venda de Energia Eléctrica em Alta Tensão, anexas ao [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, o [Decreto-Lei n.º 116/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1987-662314), de 14 de Março, e o [Decreto n.º 160/78](https://diariodarepublica.pt/dr/detalhe/decreto/160-1978-325162), de 20 de Dezembro.
 
-###### Art. 12.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 12.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral.
 
-**Promulgado em 30 de Março de 1989.**
+Promulgado em 30 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Março de 1989.**
+Referendado em 30 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

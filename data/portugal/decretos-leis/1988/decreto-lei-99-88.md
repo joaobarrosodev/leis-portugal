@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/06900/12291234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04b987ea851d9a7d35d2f41fdc52a0aab72a9f34807648c3a9fe7797dabef279
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d5fccdbed60d166de3c226bf38b264688a69c4bcc3918e8ece9a3157fd87149
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Mercados de Obras Públicas e Particulares
+- Construção Civil
+- Criação de Serviços
+- Obras Públicas
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:152530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620888:por
+  label: "Alterado o artigo 23.º, pelo DEC LEI.209/89.29.06.1989.MOP, DR.IS [147] de 29.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1989-620888
+  date: '1989-06-29'
+- type: amended_by
+  target: pt:dre:152530:por
+  label: "Transferidos automáticamente para o IMOPPI, todos os Direitos e Obrigações de que era titular o Conselho de Mercados\
+    \ de Obras Públicas e Particulares, criado pelo presente diploma, pelo DEC LEI.60/99.02.03.1999.MEPAT, DR.IS-A [51] de\
+    \ 02.03.1999, considerando-o extinto a partir da sua entrada em vigor.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1999-152530
+  date: '1999-03-02'
+- type: cites
+  target: pt:dre:146734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461028:por
+  label: Rectificado pela DECL.DD2610.1988.04.12.PCM,DR.IS [100]Supl de 30/Abr/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-461028
+  date: '1988-04-12'
+- type: repealed_by
+  target: pt:dre:152530:por
+  label: "Revogado pelo DEC LEI.60/99.1999.03.02.MEPAT DR.IS-A [51], sem prejuízo da aplicação das disposições de natureza\
+    \ transitória \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1999-152530
+  date: '1999-03-02'
 article_structure:
   article_count: 29
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:07Z'
   warnings: []
   errors: []
 ---
@@ -374,7 +422,9 @@ c) Secção de Pessoal;
 
 d) Tesouraria.
 
-###### Artigo 18.º — Divisão de Informática
+###### Artigo 18.º
+
+##### Divisão de Informática
 
 São competências da DI:
 
@@ -472,12 +522,12 @@ b) Os artigos 1.º a 6.º, o n.º 1 do artigo 7.º e os n.os 1 e 2 do artigo 10.
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 25 de Fevereiro de 1988.**
+Promulgado em 25 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Março de 1988.**
+Referendado em 3 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

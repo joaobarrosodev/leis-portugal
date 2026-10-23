@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1988, 5º Suplemento, Série I de 1988-12-30
   number: '301'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 5146-(543) a 5146-(543)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30105/05430543.pdf
 entry_into_force_dates: []
@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1988-401890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68690172280191c6015a82b9e0e05dc49d306968166d30723e6a44651c5e2ee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c86c0b15869e57798832d923e44a3e27347b568e5acae46fa01315cddf8bc8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Contribuições e Impostos
+- Destacamento de Pessoal
+- Direcção Geral das Contribuições e Impostos
+- IVA
+- Requisição de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:182239:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:46Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +103,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 2.º do [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 25 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 2.º do [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 25 de Junho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Esgotadas que sejam as hipóteses de recrutamento nos quadros de efectivos interdepartamentais, mediante comprovação da Direcção-Geral da Administração Pública, fica o Ministro das Finanças autorizado a admitir, em regime de destacamento, requisição ou por contrato além do quadro, o pessoal que se revele necessário para o reforço dos meios humanos da Direcção-Geral das Contribuições e Impostos afecto à fiscalização tributária, tendo em vista a implantação da reforma fiscal.
+Artigo 1.º - 1 - Esgotadas que sejam as hipóteses de recrutamento nos quadros de efectivos interdepartamentais, mediante comprovação da Direcção-Geral da Administração Pública, fica o Ministro das Finanças autorizado a admitir, em regime de destacamento, requisição ou por contrato além do quadro, o pessoal que se revele necessário para o reforço dos meios humanos da Direcção-Geral das Contribuições e Impostos afecto à fiscalização tributária, tendo em vista a implantação da reforma fiscal.
 
 2 - ...
 
@@ -103,7 +113,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - ...
 
-###### Art. 2.º - 1 - O pessoal a que se refere o artigo anterior será destacado, requisitado ou contratado, consoante os casos, mediante adequado processo de selecção, para a categoria de perito de fiscalização tributária de 2.ª classe, de entre indivíduos licenciados ou bacharéis nas áreas da Economia, das Finanças, da Administração ou da Organização e Gestão de Empresas cujo currículo escolar, em todos os casos, integre as disciplinas de Contabilidade Geral e Contabilidade Analítica, e ainda de entre diplomados em Contabilidade e Administração pelos institutos superiores de contabilidade e administração.
+Art. 2.º - 1 - O pessoal a que se refere o artigo anterior será destacado, requisitado ou contratado, consoante os casos, mediante adequado processo de selecção, para a categoria de perito de fiscalização tributária de 2.ª classe, de entre indivíduos licenciados ou bacharéis nas áreas da Economia, das Finanças, da Administração ou da Organização e Gestão de Empresas cujo currículo escolar, em todos os casos, integre as disciplinas de Contabilidade Geral e Contabilidade Analítica, e ainda de entre diplomados em Contabilidade e Administração pelos institutos superiores de contabilidade e administração.
 
 2 - ...
 
@@ -113,18 +123,18 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - ...
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 25 de Junho, o artigo 2.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 25 de Junho, o artigo 2.º-A, com a seguinte redacção:
 
-###### Art. 2.º-A. Podem ainda ser admitidos, nos termos previstos nos artigos 1.º e 2.º do presente decreto-lei, com as devidas adaptações, licenciados em Direito e Engenharia, até ao limite fixado nos avisos de abertura dos concursos.
+Art. 2.º-A. Podem ainda ser admitidos, nos termos previstos nos artigos 1.º e 2.º do presente decreto-lei, com as devidas adaptações, licenciados em Direito e Engenharia, até ao limite fixado nos avisos de abertura dos concursos.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Dezembro de 1988.**
+Promulgado em 30 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1988.**
+Referendado em 30 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

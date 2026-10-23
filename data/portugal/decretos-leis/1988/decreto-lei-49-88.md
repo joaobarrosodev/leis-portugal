@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03900/05450549.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fccbb5e9334a544bb86bad0f01de29ed5462258eb12c8dcff22a9632d6741ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78391fa24596df842130cf1931f0ab8713d58165d437efd556eea3baeaa3a0f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Alfândegas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:653126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332713:por
+  label: "Criado um lugar de técnico superior principal no quadro de pessoal da Direcção-Geral das Alfândegas, pela PORT.179/90.12.03.1990.MF,\
+    \ DR.IS [58] de 12.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/179-1990-332713
+  date: '1990-03-12'
+- type: cites
+  target: pt:dre:178086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389828:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:653126:por
+  label: "Revogado pelo DEC LEI.324/93.25.09.1993.MF, DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1993-653126
+  date: '1993-09-25'
 article_structure:
-  article_count: 17
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 16
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:46Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +126,7 @@ Considerando, enfim, que todo este contexto impõe à Direcção-Geral das Alfâ
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 19.º, 21.º e 37.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, os artigos 59.º e 60.º do mesmo diploma, na redacção que lhes foi dada pelo [Decreto-Lei n.º 401/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1984-389828), de 31 de Dezembro, e os artigos 6.º e 28.º ainda do mesmo diploma, na redacção que lhes foi dada pelo [Decreto-Lei n.º 438/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), de 24 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 19.º, 21.º e 37.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, os artigos 59.º e 60.º do mesmo diploma, na redacção que lhes foi dada pelo [Decreto-Lei n.º 401/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1984-389828), de 31 de Dezembro, e os artigos 6.º e 28.º ainda do mesmo diploma, na redacção que lhes foi dada pelo [Decreto-Lei n.º 438/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086), de 24 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — Estrutura orgânica
 
@@ -152,7 +178,9 @@ b) A Divisão de Formação.
 
 3 - A Direcção de Serviços de Gestão de Recursos Humanos cooperará estreitamente com a Direcção de Serviços de Administração, nomeadamente no exercício por esta das administrações de pessoal, financeira e dos equipamentos, de forma a obter-se uma integração das três componentes da gestão geral dos serviços.
 
-###### Artigo 21.º — Divisão de Regimes de Pessoal - Atribuições
+###### Artigo 21.º
+
+##### Divisão de Regimes de Pessoal - Atribuições
 
 Incumbe à Divisão de Regimes de Pessoal:
 
@@ -186,7 +214,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 37.º — Divisão do Valor Aduaneiro - Atribuições
+###### Artigo 37.º
+
+##### Divisão do Valor Aduaneiro - Atribuições
 
 São atribuições da Divisão do Valor Aduaneiro:
 
@@ -216,7 +246,7 @@ f) ...
 
 3 - O cargo de chefe da Divisão de Administração do Imposto sobre os Produtos Petrolíferos poderá ainda ser provido nos termos da lei geral.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, os artigos 22.º-A, 22.º-B, 22.º-C, 22.º-D, 40.º-A, 40.º-B, 40.º-C, 40.º-D e 68.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, os artigos 22.º-A, 22.º-B, 22.º-C, 22.º-D, 40.º-A, 40.º-B, 40.º-C, 40.º-D e 68.º-A, com a seguinte redacção:
 
 ###### Artigo 22.º-A — Direcção de Serviços de Organização e Informática - Estrutura e atribuições
 
@@ -230,7 +260,9 @@ b) A Divisão de Sistemas Informáticos;
 
 c) A Divisão de Exploração.
 
-###### Artigo 22.º-B — Divisão de Organização e Desenvolvimento Tecnológico - Atribuições
+###### Artigo 22.º-B
+
+##### Divisão de Organização e Desenvolvimento Tecnológico - Atribuições
 
 São atribuições da Divisão de Organização e Desenvolvimento Tecnológico:
 
@@ -250,7 +282,9 @@ g) Proceder à uniformização de conceitos e normalização de suportes e proce
 
 h) Colaborar com a Divisão de Sistemas Informáticos na elaboração de propostas de planos e na realização de estudos conducentes à informatização global da Direcção-Geral das Alfândegas.
 
-###### Artigo 22.º-C — Divisão de Sistemas Informáticos - Atribuições
+###### Artigo 22.º-C
+
+##### Divisão de Sistemas Informáticos - Atribuições
 
 São atribuições da Divisão de Sistemas Informáticos:
 
@@ -266,7 +300,9 @@ e) Colaborar com os utilizadores, tendo em vista a completa adequação dos meio
 
 f) Garantir a aplicação de metodologias e de normas de documentação e execução técnica de projectos.
 
-###### Artigo 22.º-D — Divisão de Exploração - Atribuições
+###### Artigo 22.º-D
+
+##### Divisão de Exploração - Atribuições
 
 São atribuições da Divisão de Exploração:
 
@@ -298,7 +334,9 @@ b) A Divisão de Administração do Imposto sobre os Produtos Petrolíferos;
 
 c) A Divisão de Regimes Aduaneiros de Importação de Veículos Automóveis.
 
-###### Artigo 40.º-B — Divisão de Impostos sobre o Consumo - Atribuições
+###### Artigo 40.º-B
+
+##### Divisão de Impostos sobre o Consumo - Atribuições
 
 São atribuições da Divisão de Impostos sobre o Consumo a elaboração de estudos, formulação de propostas e definição de normas técnicas de actuação, no âmbito da sua competência, designadamente:
 
@@ -344,24 +382,24 @@ f) Manter actualizados os ficheiros e articular com a Direcção de Serviços de
 
 O ingresso na carreira de pessoal técnico superior far-se-á pela categoria de técnico superior de 2.ª classe, observados os requisitos previstos na lei geral.
 
-###### Art. 3.º - 1 - Os actuais director de Serviços de Organização e Recursos Humanos e director de Serviços do Núcleo de Informática transitam, respectivamente, para os cargos de director de Serviços de Gestão de Recursos Humanos e director de Serviços de Organização e Informática, sem interrupção das comissões de serviço.
+Art. 3.º - 1 - Os actuais director de Serviços de Organização e Recursos Humanos e director de Serviços do Núcleo de Informática transitam, respectivamente, para os cargos de director de Serviços de Gestão de Recursos Humanos e director de Serviços de Organização e Informática, sem interrupção das comissões de serviço.
 
 2 - Os actuais chefes das Divisões de Organização de Gestão de Recursos Humanos e do Núcleo de Informática transitam, respectivamente, para os cargos de chefes das Divisões de Organização e Desenvolvimento Tecnológico, de Regimes de Pessoal e de Exploração, sem interrupção das comissões de serviço.
 
-###### Art. 4.º Ao quadro de pessoal anexo ao [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, são introduzidas as alterações constantes do quadro anexo ao presente diploma e que dele faz parte integrante.
+Art. 4.º Ao quadro de pessoal anexo ao [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, são introduzidas as alterações constantes do quadro anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 5.º São revogados os artigos 20.º e 24.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.
+Art. 5.º São revogados os artigos 20.º e 24.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 1 de Fevereiro de 1988.**
+Promulgado em 1 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1988.**
+Referendado em 4 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03900/05450549.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03900/05450549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03900/05450549.pdf)

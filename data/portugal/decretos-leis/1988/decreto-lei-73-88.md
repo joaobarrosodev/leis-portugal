@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/05700/08210822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1988-287390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1994b1fb7004438aac7a530400867778561c2d1a85ced9948e6b8aae12ab06b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d634e8b9881bb52858b857d001e817e33c76da5143a8c5b173d8b975c9ca6b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Depósito
+- Código do Imposto de Capitais
+- Instituição de Crédito
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:617339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662913:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:27Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +126,9 @@ Nestes termos:
 
 No uso da autorização conferida pelos artigos 27.º e 49.º, n.os 3 e 4, da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 10.º e 11.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 10.º e 11.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 1.º ...
 
@@ -130,7 +156,7 @@ No uso da autorização conferida pelos artigos 27.º e 49.º, n.os 3 e 4, da [L
 
 12.º ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 1.º ...
 
@@ -148,7 +174,7 @@ No uso da autorização conferida pelos artigos 27.º e 49.º, n.os 3 e 4, da [L
 
 § 2.º As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público e privado, são mantidas na forma da respectiva lei.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 74/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1987-662913), de 13 de Fevereiro, o artigo 7.º, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 74/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1987-662913), de 13 de Fevereiro, o artigo 7.º, com a seguinte redacção:
 
 ###### Artigo 7.º — Regime fiscal
 
@@ -156,11 +182,11 @@ No uso da autorização conferida pelos artigos 27.º e 49.º, n.os 3 e 4, da [L
 
 2 - Nos casos em que se verifique a transmissão por endosso de certificados de depósito a favor de entidades isentas do imposto de capitais, os respectivos juros não beneficiam de isenção deste imposto, salvo se a referida transmissão se operar entre aquelas entidades e tiver por objecto certificados de que as mesmas sejam titulares desde a data da sua emissão.
 
-###### Art. 3.º As disposições do § único do artigo 7.º e da parte final do n.º 2.º do artigo 19.º do Código do Imposto de Capitais não serão aplicáveis no ano de 1988.
+Art. 3.º As disposições do § único do artigo 7.º e da parte final do n.º 2.º do artigo 19.º do Código do Imposto de Capitais não serão aplicáveis no ano de 1988.
 
-###### Art. 4.º Aos juros das obrigações emitidas no ano de 1988 é aplicável a taxa referida no § 2.º do artigo 21.º do Código do Imposto de Capitais, reduzida a 50%.
+Art. 4.º Aos juros das obrigações emitidas no ano de 1988 é aplicável a taxa referida no § 2.º do artigo 21.º do Código do Imposto de Capitais, reduzida a 50%.
 
-###### Art. 5.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 2 - As disposições constantes do n.º 8.º do artigo 10.º e do § 1.º do artigo 11.º do Código do Imposto de Capitais são aplicáveis aos juros dos depósitos constituídos ou renovados a partir da data da entrada em vigor do presente decreto-lei.
 
@@ -168,20 +194,20 @@ No uso da autorização conferida pelos artigos 27.º e 49.º, n.os 3 e 4, da [L
 
 4 - O disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 74/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1987-662913), de 13 de Fevereiro, é aplicável ao imposto de capitais, secção B, incidente sobre os rendimentos relativamente aos quais o acto que determina a obrigação da entrega do imposto ao Estado ocorra a partir da data da entrada em vigor do presente diploma.
 
-###### Art. 6.º - 1 - O artigo 4.º da [Lei n.º 21-B/77](https://diariodarepublica.pt/dr/detalhe/lei/21-b-1977-617339), de 9 de Abril, na redacção dada pelo artigo 4.º do [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), de 16 de Março, passa a ter a seguinte redacção:
+Art. 6.º - 1 - O artigo 4.º da [Lei n.º 21-B/77](https://diariodarepublica.pt/dr/detalhe/lei/21-b-1977-617339), de 9 de Abril, na redacção dada pelo artigo 4.º do [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), de 16 de Março, passa a ter a seguinte redacção:
 
-###### Art. 4.º A taxa do imposto de capitais incidente sobre os juros de depósitos a prazo constituídos por emigrantes e equiparados nas instituições de crédito legalmente autorizadas a recebê-los, quando produzidos por «Conta poupança emigrante», «Conta de emigrante em moeda estrangeira» e «Contas acessíveis a residentes», desde que, neste último caso, as contas tenham sido ou venham a ser alimentadas com fluxos monetários provenientes do exterior devidamente comprovados, é de 50% da taxa a que se refere o § 4.º do artigo 21.º do Código do Imposto de Capitais.
+Art. 4.º A taxa do imposto de capitais incidente sobre os juros de depósitos a prazo constituídos por emigrantes e equiparados nas instituições de crédito legalmente autorizadas a recebê-los, quando produzidos por «Conta poupança emigrante», «Conta de emigrante em moeda estrangeira» e «Contas acessíveis a residentes», desde que, neste último caso, as contas tenham sido ou venham a ser alimentadas com fluxos monetários provenientes do exterior devidamente comprovados, é de 50% da taxa a que se refere o § 4.º do artigo 21.º do Código do Imposto de Capitais.
 
 2 - A taxa estabelecida no artigo 4.º da [Lei n.º 21-B/77](https://diariodarepublica.pt/dr/detalhe/lei/21-b-1977-617339), de 9 de Abril, com a redacção dada pelo número precedente, aplicar-se-á aos juros dos depósitos constituídos ou renovados a partir da data da entrada em vigor da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 25 de Fevereiro de 1988.**
+Promulgado em 25 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1988.**
+Referendado em 26 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

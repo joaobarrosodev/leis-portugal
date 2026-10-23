@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1988-287458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 307732d5bc621d2226b3c942f9a6d8222ab477a929acb511cbd0305a860e7c81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13dd1f24c0d20c17206a1ab638d58e215f1c4d2db7723edf4b6423857f8fd7dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- CASA do Estado
+- Conservador
+- Madeira.região Autónoma
+- Notário
+- Registos e Notariado
+- Subsídio de Deslocação
+- Subsídio de Fixação
 relationships:
 - type: amended_by
   target: pt:dre:124917021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Suspensos, durante a vigência do Programa de Assistência Económica e Financeira à Região Autónoma da Madeira, e\
+    \ durante a vigência do Memorando de Entendimento entre o Governo da República Portuguesa e o Governo da Região Autónoma\
+    \ dos Açores, o pagamento do subsídio de fixação, do subsídio de compensação e do pagamento de passagens, a que se referem,\
+    \ respectivamente, os nºs 1 e 2 do art. 1º, o art. 2º e o art. 3º, relativamente às pessoas referidas naquelas disposições,\
+    \ pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012, nos termos do disposto nos seus arts. 111º e 112º.\0\
+    .\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Suspensos, durante a vigência do Programa de Assistência Económica e Financeira à Região Autónoma da Madeira, e\
+    \ durante a vigência do Memorando de Entendimento entre o Governo da República Portuguesa e o Governo da Região Autónoma\
+    \ dos Açores, o pagamento do subsídio de fixação, do subsídio de compensação e do pagamento de passagens, a que se referem,\
+    \ respectivamente, os nºs 1 e 2 do art. 1º, os nos 1 e 2 do art. 2º e o art. 3º, relativamente às pessoas referidas naquelas\
+    \ disposições, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013, nos termos do disposto nos seus arts.\
+    \ 110º e 111º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Suspensos, nos termos do disposto nos arts. 114º e 115º do presente diploma, durante a vigência do Programa de Assistência
+    Económica e Financeira à Região Autónoma da Madeira, e a vigência do Memorando de Entendimento entre o Governo da República
+    Portuguesa e o Governo da Região Autónoma dos Açores, o pagamento do subsídio de fixação e do subsídio de compensação,
+    a que se referem, respectivamente, os arts 1º e 2.º, do presente diploma, relativamente às pessoas referidas naquelas
+    disposições, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578336:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogado o art. 3.º, pelo DEC LEI.229/2005.29.12.2005.MFAP, DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
+- type: repealed_by
+  target: pt:dre:124917021:por
+  label: Revogado, com efeitos a 01.01.2020, o presente diploma, pelo(a) Decreto-Lei n.º 145/2019 - Diário da República n.º
+    182/2019, Série I de 2019-09-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2019-124917021
+  date: '2019-09-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:17Z'
   warnings: []
   errors: []
 ---
@@ -103,26 +159,26 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os conservadores e notários em serviço nas Regiões Autónomas dos Açores e da Madeira têm direito a um subsídio de fixação de montante a fixar por despacho do Ministro da Justiça.
+Artigo 1.º - 1 - Os conservadores e notários em serviço nas Regiões Autónomas dos Açores e da Madeira têm direito a um subsídio de fixação de montante a fixar por despacho do Ministro da Justiça.
 
 2 - Os funcionários referidos no número anterior que não tenham residência nas localidades onde sejam colocados têm direito a casa mobilada ou, na sua falta, à atribuição de um subsídio de compensação de montante igual ao fixado para os magistrados judiciais.
 
-###### Art. 2.º Os oficiais dos registos e do notariado em serviço nas Regiões Autónomas dos Açores e da Madeira têm direito à atribuição de um subsídio de natureza e montante iguais ao atribuído, nas mesmas circunstâncias, aos oficiais de justiça.
+Art. 2.º Os oficiais dos registos e do notariado em serviço nas Regiões Autónomas dos Açores e da Madeira têm direito à atribuição de um subsídio de natureza e montante iguais ao atribuído, nas mesmas circunstâncias, aos oficiais de justiça.
 
-###### Art. 3.º O disposto nos artigos 1.º a 3.º do [Decreto-Lei n.º 171/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1981-578336), de 24 de Junho, é aplicável aos oficiais dos registos e do notariado.
+Art. 3.º O disposto nos artigos 1.º a 3.º do [Decreto-Lei n.º 171/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1981-578336), de 24 de Junho, é aplicável aos oficiais dos registos e do notariado.
 
-###### Art. 4.º Os encargos resultantes da execução do presente diploma são suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 4.º Os encargos resultantes da execução do presente diploma são suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 5.º É revogado o artigo 81.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
+Art. 5.º É revogado o artigo 81.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1987. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 18 de Fevereiro de 1988.**
+Promulgado em 18 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Fevereiro de 1988.**
+Referendado em 21 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

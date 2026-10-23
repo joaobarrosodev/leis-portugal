@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/04800/06900691.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1988-286723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d10c21588d113d86b894360d6c124cf6945b84bd3ac440cf6da2aa5d71a5173e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afde828e395c918f5506754c5f9dcadc148f05d077f07cc6ec6fc61fa99d8c37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gabinete Coordenador de Segurança
+- Orgânica
+- Remuneração
+- Segurança Interna
 relationships:
 - type: amended_by
   target: pt:dre:453479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468776:por
+  label: "Alterado o nº 1 do art. 2.º e nº 3 do art. 5.º pelo DEC LEI.51/96.1996.05.16.MAI DR.IS-A [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1996-468776
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:316078:por
+  label: "Alterados os arts. 1º, 2º, 4º, 5º e 6º, aditados os arts. 8º e 9º e revogado o art. 7º pelo DEC LEI.149/2001.2001.05.07.MAI,DR.IS-A\
+    \ [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2001-316078
+  date: '2001-05-07'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Determinado que o Gabinete Nacional de Segurança, cuja orgânica foi aprovada pelo Dec Lei 217/97, de 20-Ago, passe\
+    \ a funcionar no âmbito do Gabinete Coordenador, cujo funcionamento foi definido no presente diploma, pelo DEC LEI.202/2006.27.10.2006.PCM,\
+    \ DR.IS [208] de 27.10.2006, nos termos dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:419071:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453479:por
+  label: "Revogado, a partir de 28.09.2008, pela LEI.53/2008.29.08.2008.AR, DR.IS [167] de 29.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2008-453479
+  date: '2008-08-29'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:12Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +150,7 @@ O responsável pelo sistema de autoridade marítima;
 
 O responsável pelo sistema de autoridade aeronáutica;
 
-**O secretário-geral.**
+O secretário-geral.
 
 3 - Em caso de impedimento, os membros do Gabinete serão substituídos por quem, nos termos da lei, deva assegurar o desempenho do respectivo cargo.
 
@@ -188,12 +220,12 @@ g) Assegurar o apoio necessário ao funcionamento do Conselho Superior de Segura
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho - Joaquim Fernando Nogueira.
 
-**Promulgado em 9 de Fevereiro de 1988.**
+Promulgado em 9 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1988.**
+Referendado em 14 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

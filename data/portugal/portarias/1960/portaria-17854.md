@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17854-1960-501824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73a449b0247855d49e7b7597f557d66a3b48810e2fb04ee3aa68085249c38181
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a70cbe37923946dd31d3c38816fb0435ec7c7ad2f37fa7f658c0d34c3a54e5a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431981:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:33Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 4413557$26, tomando como contrapartida igual quantia a sair do subsídio da metrópole autorizado pelo [Decreto-Lei n.º 40379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40379-1955-248070), de 15 de Novembro de 1955, destinado a reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 255.º «Despesa extraordinária - Plano de Fomento - Programa de execução da 2.ª fase, 1960»:
+Capítulo 12.º, artigo 255.º «Despesa extraordinária - Plano de Fomento - Programa de execução da 2.ª fase, 1960»:
 
 II) «Comunicações e transportes»:
 
@@ -111,7 +127,7 @@ III) «Instrução e saúde»:
 
 2) Um de 26079254$20, tomando como contrapartida igual importância do subsídio da metrópole autorizado pelo [Decreto-Lei n.º 42479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42479-1959-431981), de 31 de Agosto de 1959, para reforço das seguintes verbas da mesma tabela de despesa com as seguintes quantias:
 
-### Capítulo 12.º, artigo 255.º «Despesa extraordinária - Plano de Fomento - Programa de execução da 2.ª fase, 1960»:
+Capítulo 12.º, artigo 255.º «Despesa extraordinária - Plano de Fomento - Programa de execução da 2.ª fase, 1960»:
 
 1) «Aproveitamento de recursos»:
 

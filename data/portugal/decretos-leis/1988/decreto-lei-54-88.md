@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/04600/06660667.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1988-286743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68d49548623127d8fe9400f798111cd76e4fa0909dc6370cc794c87a9bae8325
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 646e273a1efdc299f7cc1ebf8a226307bf449e4f4514cd284d689326a1279d84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Trabalho a Prazo
+- Escola Superior da Polícia
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Operário
 relationships:
 - type: amended_by
   target: pt:dre:455412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455412:por
+  label: "Revogado, a partir de 05.09.2008 e nos termos da al. b) do art. 58º, pela LEI.37/2008.06.08.2008.AR, DR.IS [151]\
+    \ de 06.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2008-455412
+  date: '2008-08-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:01Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +116,11 @@ Considerando que para tanto se impõe a existência de pessoal administrativo e 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Por despacho conjunto dos Ministros das Finanças e da Justiça, e com vista a assegurar o regular funcionamento da Escola de Polícia Judiciária, poderá ser autorizada, anualmente, a celebração de contratos a termo certo de pessoal administrativo, auxiliar e operário, nos termos previstos neste diploma.
+Artigo 1.º - 1 - Por despacho conjunto dos Ministros das Finanças e da Justiça, e com vista a assegurar o regular funcionamento da Escola de Polícia Judiciária, poderá ser autorizada, anualmente, a celebração de contratos a termo certo de pessoal administrativo, auxiliar e operário, nos termos previstos neste diploma.
 
 2 - O despacho referido no número anterior especificará o número de pessoas a admitir, o prazo do contrato e a existência de cobertura orçamental para proceder à contratação.
 
-###### Art. 2.º - 1 - O contrato de trabalho a termo certo previsto no presente diploma, qualquer que seja a duração nele estabelecida, nunca se converterá em contrato definitivo.
+Art. 2.º - 1 - O contrato de trabalho a termo certo previsto no presente diploma, qualquer que seja a duração nele estabelecida, nunca se converterá em contrato definitivo.
 
 2 - O contrato referido no número anterior caduca no termo do prazo estabelecido.
 
@@ -115,7 +130,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O contrato de trabalho a termo certo não confere ao particular outorgante a qualidade de agente administrativo.
 
-###### Art. 3.º - 1 - O contrato previsto no presente diploma revestirá a forma escrita e conterá obrigatoriamente:
+Art. 3.º - 1 - O contrato previsto no presente diploma revestirá a forma escrita e conterá obrigatoriamente:
 
 a) Identificação dos outorgantes;
 
@@ -129,24 +144,24 @@ e) Data de início e prazo do contrato.
 
 2 - O contrato está sujeito a visto do Tribunal de Contas.
 
-###### Art. 4.º A inobservância do disposto no n.º 2 do artigo 1.º ou no artigo anterior implica a inexistência jurídica do contrato.
+Art. 4.º A inobservância do disposto no n.º 2 do artigo 1.º ou no artigo anterior implica a inexistência jurídica do contrato.
 
-###### Art. 5.º Os funcionários ou agentes que celebrarem contratos juridicamente inexistentes são solidariamente responsáveis pela reposição das quantias indevidamente abonadas, para além da responsabilidade civil e disciplinar que ao caso couber.
+Art. 5.º Os funcionários ou agentes que celebrarem contratos juridicamente inexistentes são solidariamente responsáveis pela reposição das quantias indevidamente abonadas, para além da responsabilidade civil e disciplinar que ao caso couber.
 
-###### Art. 6.º Os contratos a termo certo poderão ser celebrados por urgente conveniência de serviço, de harmonia com o disposto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+Art. 6.º Os contratos a termo certo poderão ser celebrados por urgente conveniência de serviço, de harmonia com o disposto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
-###### Art. 7.º À contratação a termo a que se refere o artigo anterior é aplicável o disposto no artigo 15.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+Art. 7.º À contratação a termo a que se refere o artigo anterior é aplicável o disposto no artigo 15.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
-###### Art. 8.º Ao contrato de trabalho a termo certo aplicar-se-á, supletivamente, em tudo o que não contrarie o presente diploma, a legislação geral do trabalho.
+Art. 8.º Ao contrato de trabalho a termo certo aplicar-se-á, supletivamente, em tudo o que não contrarie o presente diploma, a legislação geral do trabalho.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 26 de Janeiro de 1988.**
+Promulgado em 26 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Janeiro de 1988.**
+Referendado em 27 de Janeiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

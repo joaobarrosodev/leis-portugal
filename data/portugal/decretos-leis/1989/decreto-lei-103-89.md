@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07400/13391346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1989-614654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59eb37d4a73f3b56ca7e851c125f953d385587516782ea63728e14b855e59d7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b4a41a81a1470bebb8308ae81736978e8cbfe82b0fe28c2bdc1ef498187b3d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional da Unesco
+- Definição de Competências
+- Integração de Trabalhadores
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:232367:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643076:por
+  label: "Alterado, relativamente ao pessoal de BAD, o quadro de pessoal pela PORT.1030/99.1999.11.24.PCM,DR.IS-B [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1030-1999-643076
+  date: '1999-11-24'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382058:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670550:por
+  label: Rectificado [no referente às als. b), d) e f) do nº 1 do art. 5º, à al. c) do nº 1 do art. 11º, ao nº 2 do art. 25º,
+    aos arts. 28º e 35º e ao quadro de pessoal] pela DECL.DD3924.1989.04.04.PCM DR.IS [124]Supl de 31.05.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670550
+  date: '1989-04-04'
+- type: repealed_by
+  target: pt:dre:232367:por
+  label: "Revogado pelo DEC LEI.58/2003.2003.04.01.MNE DR.IS-A [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2003-232367
+  date: '2003-04-01'
 article_structure:
   article_count: 36
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:17Z'
   warnings: []
   errors: []
 ---
@@ -456,7 +499,7 @@ Para execução das tarefas cometidas à Comissão pode o presidente da Comissã
 
 ###### Artigo 29.º — Pessoal contratado
 
-**O presidente da Comissão poderá celebrar contratos a termo certo com o pessoal necessário à execução de tarefas técnicas ou administrativas, de carácter temporário e duração limitada, sem que o referido pessoal adquira qualquer vínculo à função pública ou a qualidade de agente.**
+O presidente da Comissão poderá celebrar contratos a termo certo com o pessoal necessário à execução de tarefas técnicas ou administrativas, de carácter temporário e duração limitada, sem que o referido pessoal adquira qualquer vínculo à função pública ou a qualidade de agente.
 
 ### CAPÍTULO V — Disposições transitórias
 
@@ -504,16 +547,16 @@ No primeiro mandato geral metade dos membros do conselho geral referidos nas al�
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1989.**
+Referendado em 16 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal a que se refere o n.º 3 do artigo 31.º do Decreto-Lei n.º 103/89
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/07400/13391346.pdf))](https://files.diariodarepublica.pt/1s/1989/03/07400/13391346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/07400/13391346.pdf)

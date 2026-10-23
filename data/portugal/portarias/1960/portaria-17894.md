@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17894-1960-500890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1a131894595272d8cd64ea3b1b068f5ccad44a6542d9999b4b556b0f88f2216
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72fde85180e38d505a1b821e0eee6de23959028ce00db117a8dadf1325668d6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:248067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637471:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:23Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Exército, que se obs
 
 1.º Nas disposições do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, são introduzidas as seguintes alterações:
 
-###### Art. 6.º As matérias professadas na Academia Militar distribuem-se pelas seguintes cadeiras:
+Art. 6.º As matérias professadas na Academia Militar distribuem-se pelas seguintes cadeiras:
 
 ...
 
@@ -124,7 +140,7 @@ Material Eléctrico e Electrónico do Tiro para os cursos de Engenharia Electrot
 
 ...
 
-###### Art. 11.º As cadeiras professadas nos diversos anos dos cursos de Infantaria, Artilharia, Cavalaria, Administração Militar e Aeronáutica são as seguintes:
+Art. 11.º As cadeiras professadas nos diversos anos dos cursos de Infantaria, Artilharia, Cavalaria, Administração Militar e Aeronáutica são as seguintes:
 
 a) Curso de Infantaria:
 
@@ -184,7 +200,7 @@ e) Curso de Aeronáutica:
 
 4.º ano - 19.ª, 21.ª, 26.ª e 27.ª (semestrais).
 
-###### Art. 12.º A organização dos cursos de Engenharia é a seguinte:
+Art. 12.º A organização dos cursos de Engenharia é a seguinte:
 
 1.º ano - 1.ª, 2.ª, 4.ª, 5.ª e 21.ª (anuais); 3.ª e 46.ª (semestrais).
 
@@ -266,11 +282,11 @@ Restantes anos - a frequentar em escolas superiores de engenharia apropriadas.
 
 § 2.º Os alunos dos cursos de Engenharia fazem nas férias grandes os estágios previstos para os cursos respectivos professados no Instituto Superior Técnico.
 
-###### Art. 13.º Na primeira parte do 4.º ano ministra-se na 27.ª cadeira, aos alunos de todos os cursos, exceptuando os dos cursos de Engenharia Electrotécnica Militar (serviço de material), Engenharia Electrotécnica Militar (Força Aérea), Engenharia Mecânica Militar e Engenharia Aeronáutica Militar, instrução de cooperação interarmas, sob a forma de conferências, de trabalhos práticos e de aplicação e de trabalhos de campo.
+Art. 13.º Na primeira parte do 4.º ano ministra-se na 27.ª cadeira, aos alunos de todos os cursos, exceptuando os dos cursos de Engenharia Electrotécnica Militar (serviço de material), Engenharia Electrotécnica Militar (Força Aérea), Engenharia Mecânica Militar e Engenharia Aeronáutica Militar, instrução de cooperação interarmas, sob a forma de conferências, de trabalhos práticos e de aplicação e de trabalhos de campo.
 
 Na segunda parte do 4.º ano dar-se-ão aos alunos de todos os cursos - e em conjunto com os alunos da Escola Naval - noções de operações conjuntas.
 
-###### Art. 14.º Sob a forma de conferências e trabalhos práticos, serão dadas noções gerais de criptologia, em todos os cursos, noções gerais da 36.ª cadeira nos cursos em que não esteja incluída, e noções gerais de hipologia nos cursos em que estas tenham utilidade.
+Art. 14.º Sob a forma de conferências e trabalhos práticos, serão dadas noções gerais de criptologia, em todos os cursos, noções gerais da 36.ª cadeira nos cursos em que não esteja incluída, e noções gerais de hipologia nos cursos em que estas tenham utilidade.
 
 Nos cursos de que não faz parte a 49.ª cadeira serão ministradas, sob a forma de conferências e trabalhos de aplicação, noções gerais das respectivas matérias.
 
@@ -280,15 +296,15 @@ No curso de Artilharia e em todos os cursos de Engenharia, noções da 42.ª cad
 
 § único. A criptologia será ministrada por um oficial especializado, a designar pelo Estado-Maior do Exército, e a hipologia pelo chefe do serviço veterinário da Academia.
 
-###### Art. 15.º A educação física é ministrada em todos os cursos sob a forma de ginástica educativa e de aplicação militar, de desportos, esgrima, luta e equitação, sendo estas modalidades distribuídas pela parte dos cursos frequentados na Academia segundo os respectivos planos, atendendo às exigências da preparação física e do trabalho intelectual dos alunos.
+Art. 15.º A educação física é ministrada em todos os cursos sob a forma de ginástica educativa e de aplicação militar, de desportos, esgrima, luta e equitação, sendo estas modalidades distribuídas pela parte dos cursos frequentados na Academia segundo os respectivos planos, atendendo às exigências da preparação física e do trabalho intelectual dos alunos.
 
 ...
 
-###### Art. 17.º Em todos os cursos é ministrada instrução de motociclismo, com feição prática, sob a orientação do professor catedrático da 46.ª cadeira.
+Art. 17.º Em todos os cursos é ministrada instrução de motociclismo, com feição prática, sob a orientação do professor catedrático da 46.ª cadeira.
 
 ...
 
-###### Art. 19.º Em todos os cursos, nos três últimos anos frequentados na Academia, haverá dois tempos semanais destinados à aprendizagem de francês, inglês ou alemão, sendo o inglês obrigatório para o curso de Aeronáutica.
+Art. 19.º Em todos os cursos, nos três últimos anos frequentados na Academia, haverá dois tempos semanais destinados à aprendizagem de francês, inglês ou alemão, sendo o inglês obrigatório para o curso de Aeronáutica.
 
 § 1.º O aproveitamento dos alunos será verificado em exames a realizar no fim do 3.º e 4.º anos, exigindo-se que, ao concluir este último, tenham alcançado, pelo menos, aprovação numa das línguas.
 
@@ -296,7 +312,7 @@ No curso de Artilharia e em todos os cursos de Engenharia, noções da 42.ª cad
 
 ...
 
-###### Art. 23.º Os trabalhos escolares da Academia são distribuídos em cada ano, exceptuando o último, da forma seguinte:
+Art. 23.º Os trabalhos escolares da Academia são distribuídos em cada ano, exceptuando o último, da forma seguinte:
 
 1.ª parte - de 1 de Outubro a 31 de Maio, especialmente destinada à frequência das cadeiras, conferências, trabalhos práticos e de aplicação, compreendendo os seguintes períodos:
 
@@ -318,23 +334,23 @@ Esta faculdade aplicar-se-á especialmente aos alunos que durante o ano não obt
 
 ...
 
-###### Art. 25.º Haverá um exercício de conjunto, coma duração máxima de quinze dias, em que tomam parte todos os alunos que frequentam a Academia e que normalmente se realizará entre 20 de Junho e 5 de Julho.
+Art. 25.º Haverá um exercício de conjunto, coma duração máxima de quinze dias, em que tomam parte todos os alunos que frequentam a Academia e que normalmente se realizará entre 20 de Junho e 5 de Julho.
 
 Este exercício integra-se nos trabalhos interforças armadas prescritos no § 1.º do artigo 5.º
 
 ...
 
-###### Art. 31.º São condições de admissão à matrícula no 1.º ano de todos os cursos, com excepção do curso de Administração Militar, além das citadas no artigo anterior:
+Art. 31.º São condições de admissão à matrícula no 1.º ano de todos os cursos, com excepção do curso de Administração Militar, além das citadas no artigo anterior:
 
 1.º Ter menos de 20 anos em 1 de Janeiro do ano de admissão;
 
 2.º Estar habilitado com o 3.º ciclo liceal do grupo correspondente às escolas militares [alínea f) do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947] ou equivalente, ou ainda com o 2.º ano do curso de electrotecnia e máquinas do Instituto Técnico Militar dos Pupilos do Exército.
 
-###### Art. 32.º Podem ser admitidos ao concurso para a matrícula no 1.º ano com destino ao Exército e ao curso de Aeronáutica, respectivamente, os oficiais milicianos especializados em pára-quedismo em serviço nas tropas pára-quedistas e os oficiais milicianos pilotos aviadores da Força Aérea na efectividade de serviço que, para o efeito, sejam julgados merecedores pelo chefe do Estado-Maior da Força Aérea e que, além das condições gerais referidas no artigo 30.º, com excepção da de ser solteiro, tenham, conforme o caso, menos de 27 e de 24 anos de idade em 1 de Janeiro do ano de admissão.
+Art. 32.º Podem ser admitidos ao concurso para a matrícula no 1.º ano com destino ao Exército e ao curso de Aeronáutica, respectivamente, os oficiais milicianos especializados em pára-quedismo em serviço nas tropas pára-quedistas e os oficiais milicianos pilotos aviadores da Força Aérea na efectividade de serviço que, para o efeito, sejam julgados merecedores pelo chefe do Estado-Maior da Força Aérea e que, além das condições gerais referidas no artigo 30.º, com excepção da de ser solteiro, tenham, conforme o caso, menos de 27 e de 24 anos de idade em 1 de Janeiro do ano de admissão.
 
 § único. Os candidatos referidos no corpo deste artigo são isentos da prova de aptidão física constante da condição 5.ª do artigo 30.º
 
-###### Art. 33.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino a qualquer curso, excepto o de Aeronáutica, dos oficiais milicianos do Exército e da Força Aérea que, tendo menos de 27 anos de idade em 1 de Janeiro do ano em que concorrem, satisfaçam às condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, e tenham revelado destacadas qualidades de carácter e de aprumo moral e hajam merecido muito boas informações dos seus chefes, de modo a constituir garantia de uma decidida aptidão para a carreira das armas.
+Art. 33.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino a qualquer curso, excepto o de Aeronáutica, dos oficiais milicianos do Exército e da Força Aérea que, tendo menos de 27 anos de idade em 1 de Janeiro do ano em que concorrem, satisfaçam às condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, e tenham revelado destacadas qualidades de carácter e de aprumo moral e hajam merecido muito boas informações dos seus chefes, de modo a constituir garantia de uma decidida aptidão para a carreira das armas.
 
 § 1.º Os oficiais milicianos admitidos a concurso ao abrigo deste artigo ficam sujeitos às restantes condições do artigo 30.º
 
@@ -342,7 +358,7 @@ Este exercício integra-se nos trabalhos interforças armadas prescritos no § 1
 
 § 3.º Os oficiais milicianos admitidos ao abrigo deste artigo, quando sejam engenheiros e desde que se destinem aos cursos de engenharia do respectivo ramo, apenas frequentarão as cadeiras e instruções especìficamente militares desses cursos.
 
-###### Art. 34.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino a qualquer curso, excepto o de Aeronáutica, dos sargentos e furriéis dos quadros permanentes do Exército e da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às seguintes:
+Art. 34.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino a qualquer curso, excepto o de Aeronáutica, dos sargentos e furriéis dos quadros permanentes do Exército e da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às seguintes:
 
 1.ª Ter menos de 27 anos de idade em 1 de Janeiro do ano em que concorrem;
 
@@ -354,7 +370,7 @@ Este exercício integra-se nos trabalhos interforças armadas prescritos no § 1
 
 § 2.º Os sargentos e furriéis admitidos a concurso ao abrigo deste artigo ficam sujeitos às restantes condições do artigo 30.º
 
-###### Art. 35.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino ao curso de Aeronáutica, dos sargentos e furriéis pilotos aviadores da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às seguintes:
+Art. 35.º Pode, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano, com destino ao curso de Aeronáutica, dos sargentos e furriéis pilotos aviadores da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às seguintes:
 
 1.ª Ter menos de 24 anos de idade em 1 de Janeiro do ano em que concorrem;
 
@@ -366,13 +382,13 @@ Este exercício integra-se nos trabalhos interforças armadas prescritos no § 1
 
 § 2.º Os sargentos e furriéis que satisfaçam ao disposto neste artigo são admitidos à matrícula, em regra até ao limite de um terço do número de vagas previstas para o curso de Aeronáutica a que se destinam.
 
-###### Art. 36.º São condições de admissão à matrícula do 1.º ano do curso de Administração Militar, além das citadas no artigo 30.º:
+Art. 36.º São condições de admissão à matrícula do 1.º ano do curso de Administração Militar, além das citadas no artigo 30.º:
 
 1.ª Ter menos de 20 anos em 1 de Janeiro do ano de admissão;
 
 2.ª Estar habilitado com as disciplinas do 3.º ciclo liceal [alíneas c), f) ou g) do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947], ou com o 2.º ano dos cursos de contabilista dos institutos comerciais ou do Instituto Técnico Militar dos Pupilos do Exército, organizados para efeitos de matrícula nas escolas militares.
 
-###### Art. 37.º Pode também, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano de Administração Militar dos sargentos e furriéis dos quadros permanentes do Exército e da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às condições do corpo do artigo 34.º, substituindo a sua condição 3.ª pela 2.ª do artigo 36.º
+Art. 37.º Pode também, excepcionalmente, o Ministro do Exército autorizar a admissão ao concurso para a matrícula no 1.º ano de Administração Militar dos sargentos e furriéis dos quadros permanentes do Exército e da Força Aérea que, além das condições 1.ª, 3.ª e 4.ª do artigo 30.º, com excepção da de ser solteiro, satisfaçam às condições do corpo do artigo 34.º, substituindo a sua condição 3.ª pela 2.ª do artigo 36.º
 
 Estas últimas habilitações podem ser substituídas, quanto aos candidatos que possuem o 2.º ciclo liceal ou equivalente, por um exame de habilitação especial efectuado no Colégio Militar, nos termos da parte final da condição 3.ª do artigo 34.º
 
@@ -382,7 +398,7 @@ Estas últimas habilitações podem ser substituídas, quanto aos candidatos que
 
 ...
 
-###### Art. 39.º A junta de inspecção a que se refere a condição 2.ª do artigo 30.º destina-se especialmente a verificar se os candidatos à matrícula possuem a indispensável robustez física e é constituída pelo comandante do corpo de alunos, como presidente, e dois médicos, como vogais, sendo um o chefe do serviço de saúde da Academia e o outro um chefe de clínica médica do Hospital Militar Principal. Pode agregar-se à junta um médico estomatologista.
+Art. 39.º A junta de inspecção a que se refere a condição 2.ª do artigo 30.º destina-se especialmente a verificar se os candidatos à matrícula possuem a indispensável robustez física e é constituída pelo comandante do corpo de alunos, como presidente, e dois médicos, como vogais, sendo um o chefe do serviço de saúde da Academia e o outro um chefe de clínica médica do Hospital Militar Principal. Pode agregar-se à junta um médico estomatologista.
 
 § 1.º Nas inspecções a junta observa as normas preconizadas pela Direcção do Serviço de Saúde Militar e homologadas por portaria do Ministro do Exército.
 
@@ -390,15 +406,15 @@ Estas últimas habilitações podem ser substituídas, quanto aos candidatos que
 
 § 3.º Os candidatos ao ingresso no 2.º ano do curso de Aeronáutica são também sujeitos, na devida oportunidade, a inspecção especial a cargo da Força Aérea.
 
-###### Art. 40.º Acrescentar o seguinte parágrafo:
+Art. 40.º Acrescentar o seguinte parágrafo:
 
 § único. Quando o Ministro do Exército assim o julgar conveniente poderão funcionar nas províncias ultramarinas delegações do júri a que se refere este artigo para apreciação de concorrentes que nelas residam. A constituição e funcionamento desta delegações constarão de disposições a promulgar pelo Ministro do Exército.
 
-###### Art. 41.º A prova de aptidão cultural do exame de admissão a que se refere a condição 5.ª do artigo 30.º tem por finalidade avaliar da capacidade intelectual e nível da cultura dos candidatos e versará sobre as matérias de maior interesse para a frequência dos cursos da Academia, incluindo a História, a Geografia e a Língua Pátrias. O plano e os programas da prova de aptidão cultural serão objecto de portaria regulamentar.
+Art. 41.º A prova de aptidão cultural do exame de admissão a que se refere a condição 5.ª do artigo 30.º tem por finalidade avaliar da capacidade intelectual e nível da cultura dos candidatos e versará sobre as matérias de maior interesse para a frequência dos cursos da Academia, incluindo a História, a Geografia e a Língua Pátrias. O plano e os programas da prova de aptidão cultural serão objecto de portaria regulamentar.
 
 § único. Quando o Ministro do Exército assim o entenda poderão realizar-se nas províncias ultramarinas provas de aptidão cultural.
 
-###### Art. 42.º O § único passa a § 1.º e acrescentar os seguintes parágrafos:
+Art. 42.º O § único passa a § 1.º e acrescentar os seguintes parágrafos:
 
 § 2.º Os candidatos que, satisfazendo às demais condições aplicáveis, apenas possam reunir as habilitações necessárias na segunda época de exames poderão ser admitidos ao concurso, mas condicionalmente. Os candidatos nestas condições não serão dispensados de qualquer dos exames que constituem a prova de aptidão cultural e ficam sujeitos aos seus resultados, salvo se completarem posteriormente o 3.º ciclo liceal ou habilitações equivalentes, com média de 14 valores ou superior, caso em que os referidos resultados se anulam, a menos que digam respeito a exames de matérias não compreendidas nas suas habilitações.
 
@@ -410,17 +426,17 @@ Na classificação para a admissão os candidatos admitidos condicionalmente ser
 
 ...
 
-###### Art. 45.º Os candidatos à matrícula na Academia obrigam-se a seguir o curso para que forem destinados nos termos das disposições legais de selecção. Exceptua-se o curso de Aeronáutica, onde o ingresso é feito por voluntariado.
+Art. 45.º Os candidatos à matrícula na Academia obrigam-se a seguir o curso para que forem destinados nos termos das disposições legais de selecção. Exceptua-se o curso de Aeronáutica, onde o ingresso é feito por voluntariado.
 
 § único. Com o objectivo de satisfazer os seus desejos, na medida em que o consintam as necessidades dos quadros, os alunos farão as suas declarações de preferência na oportunidade que for estabelecida, conforme a organização dos cursos.
 
-###### Art. 46.º Anualmente o Estado-Maior do Exército, ouvido o Estado-Maior da Força Aérea no que se refere aos cursos para a Força Aérea, e o comandante da Academia Militar sobre a capacidade das respectivas instalações, propõe ao Ministro do Exército o número de alunos a admitir na Academia e o plano da sua distribuição pelos vários cursos.
+Art. 46.º Anualmente o Estado-Maior do Exército, ouvido o Estado-Maior da Força Aérea no que se refere aos cursos para a Força Aérea, e o comandante da Academia Militar sobre a capacidade das respectivas instalações, propõe ao Ministro do Exército o número de alunos a admitir na Academia e o plano da sua distribuição pelos vários cursos.
 
 À Academia Militar compete promover a abertura dos concursos e dar execução às operações de admissão.
 
 § único. No final da parte comum dos cursos e quando as circunstâncias o justifiquem a distribuição dos alunos pode ser objecto de revisão pelo Estado-Maior do Exército, ouvido o Estado-Maior da Força Aérea relativamente aos cursos para este ramo das forças armadas.
 
-###### Art. 47.º A distribuição dos alunos pelos cursos é da competência do comandante da Academia e será realizada com base na ordem de preferência indicada nas declarações dos alunos, atendidos os seguintes condicionamentos:
+Art. 47.º A distribuição dos alunos pelos cursos é da competência do comandante da Academia e será realizada com base na ordem de preferência indicada nas declarações dos alunos, atendidos os seguintes condicionamentos:
 
 1.º Só podem ser destinados ao curso de Aeronáutica os alunos que sejam aprovados na inspecção e provas especiais efectuadas pela Força Aérea;
 
@@ -444,13 +460,13 @@ As prioridades a observar, sem prejuízo das indicações dos exames psicotécni
 
 § 3.º Para o curso de Aeronáutica, se necessário, dar-se-á ainda preferência aos alunos julgados em melhores condições na inspecção e provas especiais a cargo da Força Aérea e a seguir aos que foram pilotos civis de aviões ou de planadores.
 
-###### Art. 48.º Para o preenchimento das vagas nos curso de Engenharia e de Administração Militar destinadas à Força Aérea, observadas também as declarações de opção, preferem os alunos com melhor média das classificações finais dos 1.º e 2.º anos; em caso de igualdade de condições, preferem os que tiverem melhor comportamento e, seguidamente, os que forem pilotos civis de aviões ou de planadores.
+Art. 48.º Para o preenchimento das vagas nos curso de Engenharia e de Administração Militar destinadas à Força Aérea, observadas também as declarações de opção, preferem os alunos com melhor média das classificações finais dos 1.º e 2.º anos; em caso de igualdade de condições, preferem os que tiverem melhor comportamento e, seguidamente, os que forem pilotos civis de aviões ou de planadores.
 
 ...
 
-###### Art. 50.º O aproveitamento dos alunos é validado por chamadas, provas de frequência, exames, trabalhos práticos e de aplicação, missões, exercícios militares realizados em conjunto ou por cadeiras, provas de aptidão física e instrução militar. Os resultados são sempre expressos em valores inteiros (0 a 20 valores), salvo nas línguas, em que apenas serão dados os resultados dos exames finais expressos em Aprovado ou Reprovado e salvo ainda os casos especiais em que sòmente seja exigida informação.
+Art. 50.º O aproveitamento dos alunos é validado por chamadas, provas de frequência, exames, trabalhos práticos e de aplicação, missões, exercícios militares realizados em conjunto ou por cadeiras, provas de aptidão física e instrução militar. Os resultados são sempre expressos em valores inteiros (0 a 20 valores), salvo nas línguas, em que apenas serão dados os resultados dos exames finais expressos em Aprovado ou Reprovado e salvo ainda os casos especiais em que sòmente seja exigida informação.
 
-###### Art. 51.º Os alunos terão anualmente, em cada cadeira frequentada, e no que for aplicável, uma classificação de frequência, que é a média pesada das médias das classificações obtidas:
+Art. 51.º Os alunos terão anualmente, em cada cadeira frequentada, e no que for aplicável, uma classificação de frequência, que é a média pesada das médias das classificações obtidas:
 
 a) Nas chamadas e provas escritas relativas à parte dada nas aulas teóricas;
 
@@ -468,7 +484,7 @@ Os coeficientes a adoptar serão os estabelecidos no respectivo regulamento.
 
 § 4.º Os alunos deverão ter normalmente, em cada período, o mínimo de duas classificações relativas à parte teórica das cadeiras e a totalidade das matérias professadas deve ser objecto de repetições orais e escritas.
 
-###### Art. 52.º Em cada ano lectivo, e no que for aplicável, atribuem-se aos alunos classificações correspondentes a cada um dos seguintes grupos:
+Art. 52.º Em cada ano lectivo, e no que for aplicável, atribuem-se aos alunos classificações correspondentes a cada um dos seguintes grupos:
 
 ...
 
@@ -490,7 +506,7 @@ IV) Exame final das cadeiras (média aritmética das classificações obtidas no
 
 § 5.º Os casos especiais de frequência apenas de algumas cadeiras serão considerados em regulamento.
 
-###### Art. 53.º Os exames finais das cadeiras constam de provas escritas, orais, práticas e de laboratório, ou, destas, as que forem fixadas nos planos dos cursos.
+Art. 53.º Os exames finais das cadeiras constam de provas escritas, orais, práticas e de laboratório, ou, destas, as que forem fixadas nos planos dos cursos.
 
 § 1.º Os exames finais das cadeiras semestrais podem ser substituídos por trabalhos a efectuar sobre assuntos dos respectivos programas, podendo, contudo, o apuramento ser feito ùnicamente pela respectiva classificação de frequência, conforme se fixar nos planos dos cursos.
 
@@ -500,7 +516,7 @@ IV) Exame final das cadeiras (média aritmética das classificações obtidas no
 
 ...
 
-###### Art. 55.º Perdem o ano os alunos que:
+Art. 55.º Perdem o ano os alunos que:
 
 a) Não tenham pelo menos a média de 10 valores em cada um dos grupos referidos no artigo 52.º;
 
@@ -534,7 +550,7 @@ Estas perdas de ano consideram-se reprovações, excepto nos casos de doença ou
 
 § 4.º As médias referidas no corpo deste artigo são apreciadas até às centésimas, sendo as eventuais milésimas arredondadas para as centésimas imediatamente superiores se forem 5 ou mais e desprezadas se inferiores a 5.
 
-###### Art. 56.º Os alunos que na época normal de exames não tenham ficado reprovados em mais do que uma cadeira e uma língua repetem, na última quinzena de Setembro, os exames finais respectivos.
+Art. 56.º Os alunos que na época normal de exames não tenham ficado reprovados em mais do que uma cadeira e uma língua repetem, na última quinzena de Setembro, os exames finais respectivos.
 
 Esta faculdade não é aplicável aos trabalhos práticos e às séries de conferências a que se refere o § 2.º do artigo 55.º
 
@@ -548,15 +564,15 @@ Não os havendo, a classificação não sofre restrições.
 
 § 4.º Os alunos do curso de Aeronáutica que na época normal não obtenham informação favorável na instrução de pilotagem e que não tenham perdido o ano na 1.ª época recebem esta instrução durante as férias grandes, se esta lhes puder ser ministrada conforme o disposto no § 3.º da artigo 23.º deste decreto-lei. Se ainda não obtiverem informação favorável perdem o ano.
 
-###### Art. 57.º São dispensados das provas orais das cadeiras os alunos que obtenham a classificação mínima de 13 valores nas respectivas provas escritas ou na média das respectivas provas escritas e laboratoriais, caso as haja. Se o declararem por escrito, no período que para tal fim for fixado, podem efectuar as referidas provas orais com vista a melhorar a classificação, sem prejuízo, porém, da possibilidade de reprovação.
+Art. 57.º São dispensados das provas orais das cadeiras os alunos que obtenham a classificação mínima de 13 valores nas respectivas provas escritas ou na média das respectivas provas escritas e laboratoriais, caso as haja. Se o declararem por escrito, no período que para tal fim for fixado, podem efectuar as referidas provas orais com vista a melhorar a classificação, sem prejuízo, porém, da possibilidade de reprovação.
 
 § único. Quando os exames sejam constituídos apenas por provas práticas ou laboratoriais e provas orais, não haverá dispensa das provas orais.
 
 ...
 
-###### Art. 59.º A classificação do curso da Academia Militar é a média arredondada até às centésimas das classificações de cada ano do curso, incluindo os frequentados no Instituto Superior Técnico ou em escolas estrangeiras, quando aplicável.
+Art. 59.º A classificação do curso da Academia Militar é a média arredondada até às centésimas das classificações de cada ano do curso, incluindo os frequentados no Instituto Superior Técnico ou em escolas estrangeiras, quando aplicável.
 
-###### Art. 60.º São eliminados:
+Art. 60.º São eliminados:
 
 a) Os alunos que percam, nos termos do corpo do antigo 55.º, dois anos escolares durante a frequência da Academia, ou três, se alguma das perdas de ano for motivada por desastre em serviço;
 
@@ -578,7 +594,7 @@ Quando não aproveitem desta faculdade são eliminados.
 
 ...
 
-###### Art. 65.º São eliminados os oficiais alunos que nos tirocínios e estágios não reúnam a classificação final de 10 valores ou não obtenham informação favorável quanto às suas qualidades militares, morais e físicas.
+Art. 65.º São eliminados os oficiais alunos que nos tirocínios e estágios não reúnam a classificação final de 10 valores ou não obtenham informação favorável quanto às suas qualidades militares, morais e físicas.
 
 § 1.º Nas classificações do tirocínio dos alunos do curso de Aeronáutica entra a de pilotagem, com o peso que se fixar em regulamento.
 

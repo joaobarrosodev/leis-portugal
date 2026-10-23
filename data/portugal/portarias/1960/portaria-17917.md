@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17917-1960-499849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06a97c1d6fc62594b9d81c6123e260dbd96ae58817bbc0e4589474a5d99e7480
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78c0e944fde15bc41e47c10eeecb605fc94030cbf3594192b34c0a5799977e68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:463642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:51Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, ao abrigo d
 
 1.º Os artigos 4.º, § 3.º, e 31.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212) passam a ter, para o ultramar, a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 3.º Os assistentes formulam a sua acusação no mesmo prazo que o Ministério Público e, se for necessàriamente provisória, independentemente de notificação.
 
@@ -97,11 +105,11 @@ Nos processos de polícia, não havendo réus presos, a acusação dos assistent
 
 ...
 
-###### Art. 31.º No caso do artigo 26.º, a acusação provisória para a abertura da instrução contraditória só pode ser rejeitada por incompetência do juiz, por inadmissibilidade legal do procedimento criminal e por não ser de presumir que possa completar-se a prova indiciária.
+Art. 31.º No caso do artigo 26.º, a acusação provisória para a abertura da instrução contraditória só pode ser rejeitada por incompetência do juiz, por inadmissibilidade legal do procedimento criminal e por não ser de presumir que possa completar-se a prova indiciária.
 
 2.º O artigo 44.º, § 3.º, do [Decreto-Lei n.º 35388](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35388-1945-463642) passa a ter, para o ultramar, a seguinte redacção:
 
-###### Art. 44.º ...
+Art. 44.º ...
 
 § 3.º Os magistrados que estiverem exercendo cargo ou comissões de serviço estranhos à função judicial só serão promovidos, nos termos do n.º 1.º deste artigo, quando a lei expressamente considere o exercício desses cargos ou comissões equivalente ao efectivo serviço judicial.
 

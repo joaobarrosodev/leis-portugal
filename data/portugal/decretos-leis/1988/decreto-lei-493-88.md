@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1988, 5º Suplemento, Série I de 1988-12-30
   number: '301'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 5146-(550) a 5146-(551)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30105/05500551.pdf
 entry_into_force_dates: []
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1988-401893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5600d1d51c5a9556bdd3a6446c4f6c5c594a7c875d703698cf13900f244793a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38e048d165f766dec6375137cab5c835e6afdc156bd2b50b7d039a56c47dad78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aviação Civil
+- Direcção Geral da Aviação Civil
+- Subsídio de Serviço Aéreo
+relationships:
+- type: cites
+  target: pt:dre:561851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:51Z'
   warnings: []
   errors: []
 ---
@@ -93,26 +104,26 @@ Além disso, o risco decorrente das missões de voo é igualmente partilhado por
 
 Assim, no uso da autorização legislativa concedida pelo n.º 12 do artigo 15.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os funcionários da Direcção-Geral da Aviação Civil (DGAC) que sejam titulares de uma licença profissional de piloto e os pilotos ao seu serviço, independentemente da natureza do vínculo, desde que desempenhem efectivas funções de voo, têm direito a um subsídio mensal destinado a compensar as condições de risco, desgaste e perigo específicas da prestação desse serviço, correspondente a 20% do vencimento da letra E, sem diuturnidades, da tabela de vencimentos da função pública.
+Artigo 1.º - 1 - Os funcionários da Direcção-Geral da Aviação Civil (DGAC) que sejam titulares de uma licença profissional de piloto e os pilotos ao seu serviço, independentemente da natureza do vínculo, desde que desempenhem efectivas funções de voo, têm direito a um subsídio mensal destinado a compensar as condições de risco, desgaste e perigo específicas da prestação desse serviço, correspondente a 20% do vencimento da letra E, sem diuturnidades, da tabela de vencimentos da função pública.
 
 2 - Os técnicos de carreiras de aeronáutica que participem em missões de voo e sejam operadores de sistemas ou equipamentos instalados a bordo terão direito a uma gratificação correspondente a 1/22 do subsídio referido no número anterior por cada dia de actividade de voo ou fracção.
 
-###### Art. 2.º O direito à percepção do subsídio e da gratificação previstos no artigo anterior é, para cada mês, reconhecido por despacho do director-geral da Aviação Civil que aprove a lista nominativa dos beneficiários que, no mês anterior, reuniram os respectivos requisitos, bem como, no caso da gratificação prevista no n.º 2 do mesmo artigo, o número completo de dias ou fracção de actividade de voo de cada beneficiário.
+Art. 2.º O direito à percepção do subsídio e da gratificação previstos no artigo anterior é, para cada mês, reconhecido por despacho do director-geral da Aviação Civil que aprove a lista nominativa dos beneficiários que, no mês anterior, reuniram os respectivos requisitos, bem como, no caso da gratificação prevista no n.º 2 do mesmo artigo, o número completo de dias ou fracção de actividade de voo de cada beneficiário.
 
-###### Art. 3.º O subsídio e a gratificação previstos no presente diploma são considerados para os efeitos da alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação, estando como tal sujeitos aos descontos para a Caixa Geral de Aposentações.
+Art. 3.º O subsídio e a gratificação previstos no presente diploma são considerados para os efeitos da alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação, estando como tal sujeitos aos descontos para a Caixa Geral de Aposentações.
 
-###### Art. 4.º O disposto no presente diploma produz efeitos a partir de 1 de Janeiro de 1989.
+Art. 4.º O disposto no presente diploma produz efeitos a partir de 1 de Janeiro de 1989.
 
-###### Art. 5.º O [Decreto Regulamentar n.º 50/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1981-561851), de 16 de Outubro, é revogado na data prevista no artigo anterior.
+Art. 5.º O [Decreto Regulamentar n.º 50/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1981-561851), de 16 de Outubro, é revogado na data prevista no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1988. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 30 de Dezembro de 1988.**
+Promulgado em 30 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1988.**
+Referendado em 30 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

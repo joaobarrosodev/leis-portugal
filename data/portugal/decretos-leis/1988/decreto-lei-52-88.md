@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 41/1988, 1º Suplemento, Série I de 1988-02-19
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 582-(3) a 582-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/04101/00030007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1988-375980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04b9f244d629aba0848d832f9bb6272c8ec3e3bde23cf3f0ef96f6a9c9baea39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20c93479f73cfb222c860026a12577b6dfdefee5cc475b894ead2be00624c80d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certidão
+- Dação em Cumprimento
+- Dívidas à Segurança Social
+- Fundo de Desemprego
+- Isenção de Taxas e Emolumentos
+- JURO de MORA
+- Pagamento a Prestações
+- Prestações da Segurança Social
+- Quotização
+- Regime Jurídico
+- Retenção na Fonte
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619337:por
+  label: "Determinado que não é aplicável às ajudas provenientes do Fundo Europeu de Orientação e Garantia agrícola (FEOGA)\
+    \ - Secção Garantia, o disposto na al. e) do nº1 do art. 4º do presente diploma, pelo DEC LEI.253/89.09.08.1989.MF, DR.IS\
+    \ [182] de 09.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1989-619337
+  date: '1989-08-09'
+- type: cites
+  target: pt:dre:393610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662131:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219526:por
+  label: Rectificado pela DECL.DD2178.1988.03.11.PCM,DR.IS [76]2º Supl de 31/Mar/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219526
+  date: '1988-03-11'
+- type: repealed_by
+  target: pt:dre:288977:por
+  label: "Revogado pelo DEC LEI.411/91.17.10.1991.MESS, DR.IS-A [239] de 17.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1991-288977
+  date: '1991-10-17'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o Dec Lei 103/80, de 09-Maio, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela\
+    \ Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:02Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +175,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 17.º - 1 - O Estado, outras pessoas colectivas de direito público e as empresas públicas, ao concederem algum subsídio ou financiamento ou ao procederem a qualquer pagamento superior a 300000$00 a contribuintes do regime geral de segurança social de inscrição obrigatória com empregados por conta de outrem, deverão reter até 25% da quantia a entregar, desde que aqueles contribuintes não provem, através de certidão, que têm a sua situação contributiva regularizada perante as instituições de segurança social ou de previdência que os abranjam.
+Art. 17.º - 1 - O Estado, outras pessoas colectivas de direito público e as empresas públicas, ao concederem algum subsídio ou financiamento ou ao procederem a qualquer pagamento superior a 300000$00 a contribuintes do regime geral de segurança social de inscrição obrigatória com empregados por conta de outrem, deverão reter até 25% da quantia a entregar, desde que aqueles contribuintes não provem, através de certidão, que têm a sua situação contributiva regularizada perante as instituições de segurança social ou de previdência que os abranjam.
 
 2 - O disposto no número anterior aplica-se igualmente a financiamentos, a médio e longo prazos, superiores a 5000000$00 concedidos por instituições públicas, privadas ou cooperativas com capacidade de concessão de crédito.
 
@@ -135,7 +193,7 @@ b) O contribuinte cuja dívida, incluindo contribuições, quotizações ou juro
 
 6 - A certidão tem o prazo de validade de seis meses nos casos em que o requerente não se encontre inscrito como contribuinte do regime geral de inscrição obrigatória.
 
-###### Art. 2.º - 1 - As instituições de segurança social poderão aceitar a dação de bens móveis ou imóveis por parte dos seus devedores em pagamento de contribuições vencidas e não pagas e respectivos juros de mora.
+Art. 2.º - 1 - As instituições de segurança social poderão aceitar a dação de bens móveis ou imóveis por parte dos seus devedores em pagamento de contribuições vencidas e não pagas e respectivos juros de mora.
 
 2 - Os bens móveis ou imóveis objecto da dação em pagamento deverão:
 
@@ -149,11 +207,11 @@ c) Ser aceites por valor que não seja superior ao da dívida, incluindo os juro
 
 4 - A dação em cumprimento carece sempre de despacho ministerial de homologação.
 
-###### Art. 3.º - 1 - O relatório de apreciação anual da situação das empresas deve explicitar a sua situação perante a Segurança Social, indicando se são ou não devedoras e qual o valor da dívida vencida.
+Art. 3.º - 1 - O relatório de apreciação anual da situação das empresas deve explicitar a sua situação perante a Segurança Social, indicando se são ou não devedoras e qual o valor da dívida vencida.
 
 2 - O disposto no número anterior é aplicável às empresas públicas, privadas ou cooperativas.
 
-###### Art. 4.º - 1 - Só a empresa que, sendo contribuinte do regime geral de inscrição obrigatória, tenha a situação contributiva regularizada, nos termos do n.º 3 do artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, na redacção dada pelo presente diploma, pode:
+Art. 4.º - 1 - Só a empresa que, sendo contribuinte do regime geral de inscrição obrigatória, tenha a situação contributiva regularizada, nos termos do n.º 3 do artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, na redacção dada pelo presente diploma, pode:
 
 a) Celebrar contratos, ou renovar o prazo dos já existentes, de fornecimentos, obras públicas, empreitadas ou prestações de serviços com o Estado, regiões autónomas, institutos públicos, autarquias e instituições particulares de solidariedade social comparticipadas pelo orçamento da Segurança Social;
 
@@ -169,7 +227,7 @@ f) Distribuir lucros de exercício ou fazer adiantamentos sobre lucros no decurs
 
 2 - As empresas já cotadas em bolsa de valores e devedoras às instituições de segurança social devem proceder à regularização da situação contributiva no prazo previsto no artigo 27.º, sob pena de suspensão da cotação.
 
-###### Art. 5.º - 1 - A falta de pagamento das contribuições mensais, quando devidas, durante mais de seis meses seguidos ou de doze meses interpolados constitui forte indício de incapacidade financeira, nomeadamente para os efeitos previstos na alínea a) do n.º 1 do artigo 1174.º do Código de Processo Civil.
+Art. 5.º - 1 - A falta de pagamento das contribuições mensais, quando devidas, durante mais de seis meses seguidos ou de doze meses interpolados constitui forte indício de incapacidade financeira, nomeadamente para os efeitos previstos na alínea a) do n.º 1 do artigo 1174.º do Código de Processo Civil.
 
 2 - A situação referida no número anterior só cessa com o pagamento das contribuições, cujo incumprimento constitui fundamento ao pedido de falência.
 
@@ -177,7 +235,7 @@ f) Distribuir lucros de exercício ou fazer adiantamentos sobre lucros no decurs
 
 4 - Qualquer credor que, tendo a sua situação contributiva regularizada, pretenda requerer uma falência com base no fundamento previsto na alínea a) do n.º 1 do artigo 1174.º do Código de Processo Civil pode, desde que se verifique a situação prevista no n.º 1, obter junto da respectiva instituição de segurança social certidão discriminativa dos meses de contribuição em dívida.
 
-###### Art. 6.º - 1 - Ficam isentos do pagamento dos respectivos juros de mora os contribuintes que até ao final do quarto mês após o da publicação do presente diploma venham a proceder ao pagamento das suas contribuições.
+Art. 6.º - 1 - Ficam isentos do pagamento dos respectivos juros de mora os contribuintes que até ao final do quarto mês após o da publicação do presente diploma venham a proceder ao pagamento das suas contribuições.
 
 2 - Se o pagamento tiver sido ou venha a ser parcial, a isenção só respeita ao quantitativo pago.
 
@@ -191,7 +249,7 @@ f) Distribuir lucros de exercício ou fazer adiantamentos sobre lucros no decurs
 
 7 - Em nenhum caso haverá lugar à restituição de custas ou juros de mora já pagos.
 
-###### Art. 7.º - 1 - Os contribuintes devedores de contribuições à Segurança Social poderão obter extrajudicialmente autorização para o pagamento em prestações das contribuições e respectivos juros de mora devidos até ao mês seguinte ao da entrada em vigor do presente diploma.
+Art. 7.º - 1 - Os contribuintes devedores de contribuições à Segurança Social poderão obter extrajudicialmente autorização para o pagamento em prestações das contribuições e respectivos juros de mora devidos até ao mês seguinte ao da entrada em vigor do presente diploma.
 
 2 - A autorização extrajudicial do pagamento em prestações é apreciada e decidida pelas instituições de segurança social ou de previdência credoras, não devendo ser concedida quando, pela actuação do contribuinte, em especial em relação a anteriores pedidos de idêntica natureza, seja de admitir como provável um resultado meramente dilatório.
 
@@ -209,9 +267,9 @@ f) Distribuir lucros de exercício ou fazer adiantamentos sobre lucros no decurs
 
 9 - A decisão definitiva sobre o pedido de pagamento em prestações poderá ser fundamentada em análise económico-financeira que demonstre a viabilidade da empresa, a apresentar por esta.
 
-###### Art. 8.º A redução de juros concedida ao abrigo dos artigos 6.º, n.º 3, e 17.º, n.º 3, bem como a autorização de pagamento em prestações nos termos do artigo 7.º, ficam sujeitas à condição resolutiva de cumprimento de todas as obrigações vincendas pelo período de cinco anos a contar da publicação do presente diploma.
+Art. 8.º A redução de juros concedida ao abrigo dos artigos 6.º, n.º 3, e 17.º, n.º 3, bem como a autorização de pagamento em prestações nos termos do artigo 7.º, ficam sujeitas à condição resolutiva de cumprimento de todas as obrigações vincendas pelo período de cinco anos a contar da publicação do presente diploma.
 
-###### Art. 9.º - 1 - Decorridos os prazos referidos nos n.os 5 e 6 do artigo 7.º, a regularização extrajudicial das dívidas às instituições de segurança social só pode ser feita nos termos dos números seguintes e do artigo 11.º
+Art. 9.º - 1 - Decorridos os prazos referidos nos n.os 5 e 6 do artigo 7.º, a regularização extrajudicial das dívidas às instituições de segurança social só pode ser feita nos termos dos números seguintes e do artigo 11.º
 
 2 - O Ministro do Emprego e da Segurança Social poderá permitir, em condições excepcionais e mediante despacho, que as empresas admitidas à celebração de contratos de viabilização, acordos de reequilíbrio económico e financeiro no âmbito da assistência da PAREMPRESA e acordos de saneamento com instituições de crédito possam regularizar extrajudicialmente as suas dívidas às instituições de segurança social.
 
@@ -233,15 +291,15 @@ e) Ponderada a questão da distorção da concorrência, se conclua que o benef�
 
 6 - A ponderação referida na alínea e) será precedida de parecer não vinculativo da associação empresarial do respectivo sector.
 
-###### Art. 10.º - 1 - Por resolução de Conselho de Ministros poderão ser aprovadas medidas excepcionais de regularização de dívidas, mas apenas para os casos que se integrem em programas de actuação global e abranjam aspectos intersectoriais.
+Art. 10.º - 1 - Por resolução de Conselho de Ministros poderão ser aprovadas medidas excepcionais de regularização de dívidas, mas apenas para os casos que se integrem em programas de actuação global e abranjam aspectos intersectoriais.
 
 2 - As medidas excepcionais terão lugar quando estejam em causa relevantes interesses nacionais, designadamente no campo do emprego e da economia, ou no caso específico da adopção de medidas de reestruturação sectorial ou regional.
 
 3 - A aprovação das medidas excepcionais será sempre precedida de parecer do ministro da tutela do respectivo sector.
 
-###### Art. 11.º O pagamento da dívida em prestações poderá ser assegurado por garantia adequada e prestada por qualquer forma admitida em direito.
+Art. 11.º O pagamento da dívida em prestações poderá ser assegurado por garantia adequada e prestada por qualquer forma admitida em direito.
 
-###### Art. 12.º - 1 - Os contribuintes a quem já tenha sido concedida autorização extrajudicial para pagamento em prestações, enquanto estejam a ser cumpridas as condições dessa autorização, poderão:
+Art. 12.º - 1 - Os contribuintes a quem já tenha sido concedida autorização extrajudicial para pagamento em prestações, enquanto estejam a ser cumpridas as condições dessa autorização, poderão:
 
 a) Manter o pagamento nos termos concedidos;
 
@@ -249,17 +307,17 @@ b) Fazer adequar a autorização anterior aos termos previstos no artigo 7.º
 
 2 - A adequação às condições previstas no artigo 7.º é feita pelas instituições de segurança social a pedido do contribuinte, não podendo ultrapassar o prazo máximo de dez anos previsto no presente diploma, contado o tempo já decorrido desde o início da anterior autorização de pagamento em prestações.
 
-###### Art. 13.º A situação contributiva do contribuinte a quem tenha sido ou venha a ser autorizado o pagamento em prestações, ainda que provisoriamente, nos termos do n.º 8 do artigo 7.º, só será considerada regularizada para os efeitos previstos no artigo 17.º, n.º 3, do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, desde que inicie o pagamento efectivo das prestações e mantenha o das contribuições mensais.
+Art. 13.º A situação contributiva do contribuinte a quem tenha sido ou venha a ser autorizado o pagamento em prestações, ainda que provisoriamente, nos termos do n.º 8 do artigo 7.º, só será considerada regularizada para os efeitos previstos no artigo 17.º, n.º 3, do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, desde que inicie o pagamento efectivo das prestações e mantenha o das contribuições mensais.
 
-###### Art. 14.º Nos processos especiais de recuperação de empresas e de protecção dos credores, sem prejuízo das disposições próprias destes processos, o pagamento das contribuições e juros de mora poderá ser autorizado em prestações, até ao prazo máximo de dez anos, ou em termos que se não afastem sensivelmente dos aceites pelo Ministério Público quanto aos créditos do Estado ou dos do conjunto da posição dos credores maioritários.
+Art. 14.º Nos processos especiais de recuperação de empresas e de protecção dos credores, sem prejuízo das disposições próprias destes processos, o pagamento das contribuições e juros de mora poderá ser autorizado em prestações, até ao prazo máximo de dez anos, ou em termos que se não afastem sensivelmente dos aceites pelo Ministério Público quanto aos créditos do Estado ou dos do conjunto da posição dos credores maioritários.
 
-###### Art. 15.º - 1 - O tribunal suspenderá a instância dos autos de execução fiscal a requerimento do contribuinte que junte documento comprovativo da autorização de pagamento em prestações, sendo devidas as respectivas custas.
+Art. 15.º - 1 - O tribunal suspenderá a instância dos autos de execução fiscal a requerimento do contribuinte que junte documento comprovativo da autorização de pagamento em prestações, sendo devidas as respectivas custas.
 
 2 - A suspensão será decretada depois de confirmada a autorização de pagamento em prestações pela instituição de segurança social e manter-se-á pelo tempo necessário ao cumprimento total da dívida, devendo o tribunal ser informado da conclusão do pagamento.
 
 3 - Verificando-se a revogação da autorização, prosseguirá a execução.
 
-###### Art. 16.º - 1 - As instituições de crédito poderão prestar apoio creditício ao sistema de segurança social nas seguintes situações e com os seguintes objectivos:
+Art. 16.º - 1 - As instituições de crédito poderão prestar apoio creditício ao sistema de segurança social nas seguintes situações e com os seguintes objectivos:
 
 a) Possibilitar ao Instituto de Gestão Financeira da Segurança Social mobilizar o montante dos créditos das instituições de segurança social, quando integrados em contratos de viabilização, em acordos de reequilíbrio económico e financeiro no âmbito da assistência da PAREMPRESA e em acordos de saneamento com as instituições de crédito;
 
@@ -267,23 +325,23 @@ b) Possibilitar aos contribuintes devedores a regularização das contribuiçõe
 
 2 - O apoio financeiro referido no número anterior será efectuado nas condições fixadas em linhas de crédito já estabelecidas pelo Banco de Portugal.
 
-###### Art. 17.º - 1 - Pelo não pagamento das contribuições à Segurança Social são devidos juros de mora, calculados à taxa mensal equivalente à taxa de referência estabelecida pelo Banco de Portugal para efeitos do disposto no [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho, acrescida de cinco pontos percentuais.
+Art. 17.º - 1 - Pelo não pagamento das contribuições à Segurança Social são devidos juros de mora, calculados à taxa mensal equivalente à taxa de referência estabelecida pelo Banco de Portugal para efeitos do disposto no [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho, acrescida de cinco pontos percentuais.
 
 2 - Quando for autorizado o pagamento em prestações pelo prazo máximo referido no artigo 7.º, n.º 3, será aplicável a mencionada taxa de referência, acrescida de três pontos percentuais, sem qualquer redução de taxa.
 
 3 - A utilização de prazos inferiores ao máximo previsto no artigo 7.º, n.º 3, implicará uma redução da taxa de juros de 0,75% por cada período de um ano a menos, até ao limite da taxa de referência do Banco de Portugal, referida nos números anteriores.
 
-###### Art. 18.º - 1 - As importâncias retidas ao abrigo do artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, são imediatamente depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Instituto de Gestão Financeira da Segurança Social, através de guias da instituição de segurança social ou mediante recibo emitido pelo mesmo Instituto, quando o depositante for uma entidade pública e assim o pretenda.
+Art. 18.º - 1 - As importâncias retidas ao abrigo do artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, são imediatamente depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Instituto de Gestão Financeira da Segurança Social, através de guias da instituição de segurança social ou mediante recibo emitido pelo mesmo Instituto, quando o depositante for uma entidade pública e assim o pretenda.
 
 2 - As importâncias pagas pelos executados em processo de execução fiscal e devidas às instituições de segurança social exequentes são mensalmente depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Instituto de Gestão Financeira da Segurança Social.
 
 3 - As importâncias produto da venda judicial de bens que competem às instituições de segurança social, na qualidade de credores preferentes, são mensalmente depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Instituto de Gestão Financeira da Segurança Social.
 
-###### Art. 19.º As instituições de segurança social, quando sejam arrematantes, não estão sujeitas à obrigação do depósito do preço nas arrematações em hasta pública de bens imobiliários nos processos de execução por dívidas dos seus contribuintes nem à obrigação de pagar as despesas da praça.
+Art. 19.º As instituições de segurança social, quando sejam arrematantes, não estão sujeitas à obrigação do depósito do preço nas arrematações em hasta pública de bens imobiliários nos processos de execução por dívidas dos seus contribuintes nem à obrigação de pagar as despesas da praça.
 
-###### Art. 20.º As instituições de segurança social são obrigadas a comunicar ao Banco de Portugal todos os casos de apresentação de cheques, dentro dos prazos legais, que não sejam descontados por falta de provisão, para efeitos de aplicação da medida de restrição de uso de cheques.
+Art. 20.º As instituições de segurança social são obrigadas a comunicar ao Banco de Portugal todos os casos de apresentação de cheques, dentro dos prazos legais, que não sejam descontados por falta de provisão, para efeitos de aplicação da medida de restrição de uso de cheques.
 
-###### Art. 21.º - 1 - Os contribuintes devedores de quotizações ao Fundo de Desemprego poderão obter extrajudicialmente o pagamento em prestações das quotizações, acrescidas da taxa pela mora ou juros moratórios.
+Art. 21.º - 1 - Os contribuintes devedores de quotizações ao Fundo de Desemprego poderão obter extrajudicialmente o pagamento em prestações das quotizações, acrescidas da taxa pela mora ou juros moratórios.
 
 2 - O pagamento em prestações deve ser requerido independentemente de prévia liquidação, sem prejuízo de ulteriores correcções decorrentes da liquidação, para mais ou menos, sendo o valor das prestações corrigido em conformidade.
 
@@ -295,15 +353,15 @@ b) Possibilitar aos contribuintes devedores a regularização das contribuiçõe
 
 6 - As quotizações ao Fundo de Desemprego, por iniciativa das instituições de segurança social ou de previdência, poderão ser pagas em impresso próprio por elas criado, sem prejuízo de, por despacho do Ministro do Emprego e da Segurança Social, poder ser aprovado um modelo único.
 
-###### Art. 22.º É aplicável, com as necessárias adaptações, ao pagamento das quotizações ao Fundo de Desemprego o disposto nos artigos 2.º, 3.º, 6.º, 11.º, 15.º, 16.º e 19.º
+Art. 22.º É aplicável, com as necessárias adaptações, ao pagamento das quotizações ao Fundo de Desemprego o disposto nos artigos 2.º, 3.º, 6.º, 11.º, 15.º, 16.º e 19.º
 
-###### Art. 23.º É aplicável, com as necessárias adaptações, ao pagamento das quotizações ao Fundo de Desemprego o disposto nos artigos 12.º, 14.º e 25.º
+Art. 23.º É aplicável, com as necessárias adaptações, ao pagamento das quotizações ao Fundo de Desemprego o disposto nos artigos 12.º, 14.º e 25.º
 
-###### Art. 24.º A representação das instituições de segurança social e das instituições de previdência nos tribunais tributários é exercida pelo representante da Fazenda Pública.
+Art. 24.º A representação das instituições de segurança social e das instituições de previdência nos tribunais tributários é exercida pelo representante da Fazenda Pública.
 
-###### Art. 25.º A responsabilidade subsidiária prevista no artigo 13.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, só prescreve com a prescrição das respectivas dívidas.
+Art. 25.º A responsabilidade subsidiária prevista no artigo 13.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, só prescreve com a prescrição das respectivas dívidas.
 
-###### Art. 26.º - 1 - São revogadas as seguintes disposições:
+Art. 26.º - 1 - São revogadas as seguintes disposições:
 
 a) Os n.os 3, 5, 6 e 10 do artigo 17.º e os artigos 20.º, 22.º e 24.º a 28.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio;
 
@@ -313,18 +371,18 @@ c) O artigo 1.º do [Decreto-Lei n.º 60/84](https://diariodarepublica.pt/dr/det
 
 2 - São ainda revogadas todas as disposições legais que exijam a demonstração da situação contributiva perante o Fundo de Desemprego.
 
-###### Art. 27.º - 1 - O disposto no artigo 4.º entra em vigor no prazo de um ano após a publicação do presente diploma.
+Art. 27.º - 1 - O disposto no artigo 4.º entra em vigor no prazo de um ano após a publicação do presente diploma.
 
 2 - A situação prevista no artigo 5.º só se reporta às contribuições que se vencerem a partir do 1.º dia do 6.º mês após o da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - José Albino da Silva Peneda.
 
-**Promulgado em 10 de Fevereiro de 1988.**
+Promulgado em 10 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1988.**
+Referendado em 14 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

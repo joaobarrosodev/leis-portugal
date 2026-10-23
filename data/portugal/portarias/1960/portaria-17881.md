@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17881-1960-501232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e28ca05f2e7a4dd3b7692508692c18c4f296b59272826d4b6bafefa1eccfcf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef1e995a5385c673b955e34ae612dbe912a9e4d5d7c9bed42ce1a7398826e800
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:03Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 100000$00
+Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 100000$00
 
-###### Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com recrutamento» ... 500000$00
+Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com recrutamento» ... 500000$00
 
 ... 600000$00
 
@@ -99,9 +103,9 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 100000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 100000$00
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 500000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 500000$00
 
 ... 600000$00
 

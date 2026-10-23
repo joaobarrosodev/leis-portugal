@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/04800/06920693.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1988-286730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a39e4ae70d8669912ccef3a64d7c99bbc3bccd8426818e1a2b2cedb7615a90b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1202a1e9f4ffc12d5497e5a046bb9c8e7a5e0385ac9a1705181b3151b84f684a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Ensino
+- Programa Especial de Execução de Escolas Preparatórias e Secundárias
 relationships:
 - type: amended_by
   target: pt:dre:556992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:681997:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:556992:por
+  label: Revogado pelo DEC LEI.263/90.30.08.1990.ME, DR.IS [200] de 30.08.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1990-556992
+  date: '1990-08-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:11Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +110,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A consignação dos empreendimentos incluídos no programa especial de execução de escolas que garanta a abertura dos anos lectivos de 1988-1989 e 1989-1990, no que respeita a instalações e equipamentos escolares, pode ser feita imediatamente após a autorização de adjudicação, sem prejuízo de posterior submissão a visto do Tribunal de Contas.
+Artigo 1.º A consignação dos empreendimentos incluídos no programa especial de execução de escolas que garanta a abertura dos anos lectivos de 1988-1989 e 1989-1990, no que respeita a instalações e equipamentos escolares, pode ser feita imediatamente após a autorização de adjudicação, sem prejuízo de posterior submissão a visto do Tribunal de Contas.
 
-###### Art. 2.º Uma vez efectuada a consignação, pode realizar-se:
+Art. 2.º Uma vez efectuada a consignação, pode realizar-se:
 
 a) O pagamento dos trabalhos que forem sendo realizados, os quais serão liquidados a título de adiantamento e garantidos pelos trabalhos executados;
 
@@ -109,16 +120,16 @@ b) O pagamento de adiantamento de parte do custo do empreendimento necessário �
 
 c) O pagamento de adiantamentos para a aquisição de equipamentos cuja utilização ou aplicação haja sido prevista no plano de trabalhos aprovados, mediante seguro-caução ou garantia bancária incondicional.
 
-###### Art. 3.º A execução financeira do programa especial a que se refere o presente diploma será acompanhada por uma comissão permanente, a integrar por representantes da Direcção-Geral da Contabilidade Pública e do Gabinete de Estudos e Planeamento do Ministério da Educação, para o efeito nomeados por despacho conjunto dos Ministros das Finanças e da Educação, e sem prejuízo de o Ministro das Finanças proceder, pela Inspecção-Geral de Finanças, às verificações que considere necessárias.
+Art. 3.º A execução financeira do programa especial a que se refere o presente diploma será acompanhada por uma comissão permanente, a integrar por representantes da Direcção-Geral da Contabilidade Pública e do Gabinete de Estudos e Planeamento do Ministério da Educação, para o efeito nomeados por despacho conjunto dos Ministros das Finanças e da Educação, e sem prejuízo de o Ministro das Finanças proceder, pela Inspecção-Geral de Finanças, às verificações que considere necessárias.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 8 de Fevereiro de 1988.**
+Promulgado em 8 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1988.**
+Referendado em 14 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

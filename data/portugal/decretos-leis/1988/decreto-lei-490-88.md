@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 301/1988, 5º Suplemento, Série I de 1988-12-30
   number: '301'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 5146-(542) a 5146-(543)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30105/05420543.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1988-401892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64d0f2ad0d0305645398da7fe1003d5411cf4ef613908af3de056106d7db3079
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbdd94a687e760d637afb7282a184d91302d671bb7cec6a2aedc53d87188f2b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador por Parte do Estado
+- Banco de Portugal
+- BEI
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:46Z'
   warnings: []
   errors: []
 ---
@@ -100,27 +113,27 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Fica o Ministro das Finanças autorizado, em representação do Governo, a mandatar o Banco de Portugal com os poderes de administrar, por conta e em representação do Estado, o produto do empréstimo, no montante equivalente a 6772 milhões de escudos, contraído pela República Portuguesa junto do Banco Europeu de Investimento, ao abrigo do n.º 3 do artigo 4.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro.
+Artigo 1.º - 1 - Fica o Ministro das Finanças autorizado, em representação do Governo, a mandatar o Banco de Portugal com os poderes de administrar, por conta e em representação do Estado, o produto do empréstimo, no montante equivalente a 6772 milhões de escudos, contraído pela República Portuguesa junto do Banco Europeu de Investimento, ao abrigo do n.º 3 do artigo 4.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro.
 
 2 - O produto do empréstimo, a administrar pelo Banco de Portugal destinar-se-á a financiar projectos e programas para o desenvolvimento de pequenas e médias empresas industriais.
 
-###### Art. 2.º As restantes condições do mandato referido no artigo anterior serão aprovadas pelo Ministro das Finanças, tendo em atenção as cláusulas do acordo celebrado entre o Estado e o Banco Europeu de Investimento.
+Art. 2.º As restantes condições do mandato referido no artigo anterior serão aprovadas pelo Ministro das Finanças, tendo em atenção as cláusulas do acordo celebrado entre o Estado e o Banco Europeu de Investimento.
 
-###### Art. 3.º As condições essenciais da operação referida no artigo 1.º são as constantes da ficha publicada em anexo ao presente diploma, de que faz parte integrante.
+Art. 3.º As condições essenciais da operação referida no artigo 1.º são as constantes da ficha publicada em anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 4.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Dezembro de 1988.**
+Promulgado em 30 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1988.**
+Referendado em 30 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Ficha técnica
 
@@ -134,7 +147,7 @@ Agente (do mutuário): Banco de Portugal.
 
 Finalidade: financiamento de iniciativas de pequena e média dimensão, nos sectores industrial, turístico e de serviços (excluindo o comércio), assim como as iniciativas que contribuam para a realização de economias de energia ou protecção do ambiente, situadas em Portugal.
 
-# Parte deste empréstimo poderá ainda ser eventualmente utilizado no financiamento de aumento de capital de empresas promotoras dos projectos a realizar de acordo com o prescrito no parágrafo anterior.
+Parte deste empréstimo poderá ainda ser eventualmente utilizado no financiamento de aumento de capital de empresas promotoras dos projectos a realizar de acordo com o prescrito no parágrafo anterior.
 
 Montante: equivalente a 6772 milhões de escudos (cerca de 40 milhões de ecus).
 

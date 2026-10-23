@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 78/1989, 1º Suplemento, Série I de 1989-04-04
   number: '78'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1444-(2) a 1444-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/07801/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-1989-146547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58b1a4966d66b3e084d3eb74370d6aa742f2dd693cc62164dc89ed1a44a06776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47b55f54e21f7c154e91ee1ecc7bf49ca220165da89f2fe0de25e644b17131e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Estatuto
+- Petrogal
+- Privatização
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383264:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670557:por
+  label: Rectificados a al. a) do n.º 2 do art. 3.º, o n.º 1 do art. 9.º e a al. c) do n.º 1 do art. 13.º pelo(a) Declaração
+    - Diário da República n.º 124/1989, 1º Suplemento, Série I de 1989-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670557
+  date: '1989-05-31'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:17Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +126,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública Petróleos de Portugal, E. P. - PETROGAL, criada pelo [Decreto-Lei n.º 217-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-a-1976-383264), de 26 de Março, é transformada, pelo presente diploma, em pessoa colectiva de direito privado, sob a forma de sociedade anónima, com maioria de capitais públicos, e passa a denominar-se Petróleos de Portugal - PETROGAL, S. A.
+Artigo 1.º - 1 - A empresa pública Petróleos de Portugal, E. P. - PETROGAL, criada pelo [Decreto-Lei n.º 217-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-a-1976-383264), de 26 de Março, é transformada, pelo presente diploma, em pessoa colectiva de direito privado, sob a forma de sociedade anónima, com maioria de capitais públicos, e passa a denominar-se Petróleos de Portugal - PETROGAL, S. A.
 
 2 - A Petróleos de Portugal - PETROGAL, S. A., rege-se pela [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, pelo presente diploma, pelos seus estatutos e pelas normas de direito privado aplicáveis às sociedades anónimas.
 
-###### Art. 2.º - 1 - A Petróleos de Portugal - PETROGAL, S. A., sucede automática e globalmente à Petróleos de Portugal, E. P. - PETROGAL e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
+Art. 2.º - 1 - A Petróleos de Portugal - PETROGAL, S. A., sucede automática e globalmente à Petróleos de Portugal, E. P. - PETROGAL e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Petróleos de Portugal - PETROGAL, S. A.
 
-###### Art. 3.º - 1 - A Petróleos de Portugal - PETROGAL, S. A., tem inicialmente um capital social de 40000000000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
+Art. 3.º - 1 - A Petróleos de Portugal - PETROGAL, S. A., tem inicialmente um capital social de 40000000000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
 
 2 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
@@ -126,9 +150,9 @@ b) As acções do tipo B são nominativas ou ao portador, em regime de registo, 
 
 6 - Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido cometida a outra entidade, nos termos do n.º 3 do presente artigo.
 
-###### Art. 4.º A Petróleos de Portugal - PETROGAL, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 4.º A Petróleos de Portugal - PETROGAL, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos, 30 dias antes da data da assembleia geral anual:
+Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos, 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -136,45 +160,45 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará, trimestralmente, aos Ministros das Finanças e da Indústria e Energia um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 6.º - 1 - Os trabalhadores e pensionistas da Petróleos de Portugal, E. P. - PETROGAL mantêm perante a Petróleos de Portugal - PETROGAL, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
+Art. 6.º - 1 - Os trabalhadores e pensionistas da Petróleos de Portugal, E. P. - PETROGAL mantêm perante a Petróleos de Portugal - PETROGAL, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções na sociedade, em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
 3 - A situação dos trabalhadores da Petróleos de Portugal - PETROGAL, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa, bem como a dos que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou o tempo de requisição.
 
-###### Art. 7.º Até ao termo dos correspondentes contratos o Estado mantém perante as instituições financeiras que celebraram contratos com a Petróleos de Portugal, E. P. - PETROGAL as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 7.º Até ao termo dos correspondentes contratos o Estado mantém perante as instituições financeiras que celebraram contratos com a Petróleos de Portugal, E. P. - PETROGAL as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 8.º - 1 - São aprovados os estatutos da Petróleos de Portugal - PETROGAL, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Art. 8.º - 1 - São aprovados os estatutos da Petróleos de Portugal - PETROGAL, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - As eventuais alterações aos estatutos, que em caso algum poderão contrariar o disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, produzirão todos os seus efeitos desde que deliberadas segundo o próprio regime estatutário vigente e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
-###### Art. 9.º - 1 - É por esta forma convocada a assembleia geral da Petróleos de Portugal - PETROGAL, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar os respectivo estatuto remuneratório.
+Art. 9.º - 1 - É por esta forma convocada a assembleia geral da Petróleos de Portugal - PETROGAL, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar os respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de gerência e da comissão de fiscalização da Petróleos de Portugal, E. P. - PETROGAL mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da Petróleos de Portugal - PETROGAL, S. A., com as competências fixadas nos estatutos para o conselho de administração e conselho fiscal, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral.
 
-**Promulgado em 4 de Abril de 1989.**
+Promulgado em 4 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Abril de 1989.**
+Referendado em 4 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da Petróleos de Portugal - PETROGAL, S. A.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação social de Petróleos de Portugal - PETROGAL, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação social de Petróleos de Portugal - PETROGAL, S. A.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Rua das Flores, 7.
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Rua das Flores, 7.
 
 2 - Por deliberação do conselho de administração, a sociedade pode criar e extinguir sucursais, agências, delegações ou outras formas de representação no território nacional ou no estrangeiro.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto:
+Art. 3.º - 1 - A sociedade tem por objecto:
 
 a) A refinação de petróleo bruto e seus derivados;
 
@@ -188,7 +212,7 @@ d) Quaisquer outras actividades industriais, comerciais, de investigação ou de
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 40000000000$00, acha-se integralmente realizado e divide-se em 20400000 acções do tipo A e 19600000 acções do tipo B, com o valor nominal de 1000$00 cada uma.
+Art. 4.º - 1 - O capital social é de 40000000000$00, acha-se integralmente realizado e divide-se em 20400000 acções do tipo A e 19600000 acções do tipo B, com o valor nominal de 1000$00 cada uma.
 
 2 - As acções que, nos termos do número anterior, representam o capital social revestem as seguintes características:
 
@@ -202,23 +226,23 @@ b) As do tipo B são nominativas ou ao portador, em regime de registo, podendo d
 
 5 - O custo das operações de registo das transmissões, desdobramentos, conversões ou outras relativas aos títulos referidos no número anterior será suportado pelos interessados, segundo critério a fixar pela assembleia geral.
 
-###### Art. 5.º - 1 - As acções representativas do capital social da Petróleos de Portugal - PETROGAL, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+Art. 5.º - 1 - As acções representativas do capital social da Petróleos de Portugal - PETROGAL, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 2 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem.
 
 3 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiam, poderão as mesmas ser subscritas pelos demais accionistas na proporção das suas participações.
 
-###### Art. 6.º - 1 - A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+Art. 6.º - 1 - A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - A sociedade pode emitir acções preferenciais, sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social e respeitando sempre as disposições da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 7.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
+Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
 
 2 - A cada 1000 acções corresponde um voto.
 
@@ -234,7 +258,7 @@ b) As do tipo B são nominativas ou ao portador, em regime de registo, podendo d
 
 8 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 9.º - 1 - Compete à assembleia geral:
+Art. 9.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -254,7 +278,7 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As votações poderão ser efectuadas nominalmente ou por sinais convencionais, conforme seja decidido pelo presidente.
 
-###### Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
+Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
@@ -264,19 +288,19 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 5 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham substituir.
 
-###### Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
+Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
 
 2 - Para efeitos das alíneas b) e c) do n.º 1 do artigo 9.º, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais.
+Art. 12.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
 3 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos por nomeação do próprio conselho até que em assembleia geral se proceda à competente eleição.
 
-###### Art. 13.º - 1 - Ao conselho de administração compete:
+Art. 13.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -292,7 +316,7 @@ f) Exercer as demais competências que lhe sejam atribuídas por lei ou pela ass
 
 2 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, com maioria de representantes do sector público, parte dos poderes que lhe são conferidos no número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo e fora dele;
 
@@ -304,7 +328,7 @@ d) Zelar pela correcta execução das deliberações do conselho.
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 15.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne-se extraordinariamente sempre que seja convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+Art. 15.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne-se extraordinariamente sempre que seja convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração só poderá funcionar estando presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -314,7 +338,7 @@ d) Zelar pela correcta execução das deliberações do conselho.
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-###### Art. 16.º - 1 - A sociedade obriga-se:
+Art. 16.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -328,17 +352,17 @@ c) Pela assinatura de mandatário constituído, no âmbito dos poderes que lhe f
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente, todos eleitos em assembleia geral por três anos, sendo reelegíveis uma ou mais vezes.
+Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente, todos eleitos em assembleia geral por três anos, sendo reelegíveis uma ou mais vezes.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, e o presidente tem voto de qualidade.
+Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, e o presidente tem voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 19.º Os resultados positivos do exercício, devidamente aprovados, terão a seguinte aplicação:
+Art. 19.º Os resultados positivos do exercício, devidamente aprovados, terão a seguinte aplicação:
 
 a) 10%, pelo menos, para a reserva legal, até atingir o montante legal exigível;
 
@@ -350,12 +374,12 @@ d) O restante, conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 21.º - 1 - Para as situações não reguladas nestes estatutos devem ser observadas as disposições gerais de direito aplicáveis a sociedades anónimas e as especiais que vigorarem para as actividades análogas àquelas que a sociedade prossegue.
+Art. 21.º - 1 - Para as situações não reguladas nestes estatutos devem ser observadas as disposições gerais de direito aplicáveis a sociedades anónimas e as especiais que vigorarem para as actividades análogas àquelas que a sociedade prossegue.
 
 2 - As eventuais alterações aos estatutos produzirão todos os seus efeitos desde que deliberadas segundo o seu regime e com observância das disposições aplicáveis da lei comercial, da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, e do diploma que aprova estes estatutos, sendo bastante a sua redução a escritura pública e subsequente registo.
 
-###### Art. 22.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 22.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/06800/12171218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1988-285744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b32b18b850f37780edd34517c48ad3eaf7bc47c5ae1251f9fef332ce8ff7f5d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 329baee27f130bf5d041b69963e1981e12be0f3759fdc413e53ebfc2a2ff9299
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Sociedade de Desenvolvimento Regional
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:179988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:07Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +120,17 @@ Assim:
 
 No uso da autorização conferida pelo n.º 2 do artigo 47.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As sociedades de desenvolvimento regional, constituídas ou que venham a constituir-se até 31 de Dezembro de 1988, estão isentas de quaisquer impostos incidentes sobre os rendimentos e sobre as mais-valias durante o ano da sua constituição e nos sete anos seguintes.
+Artigo 1.º As sociedades de desenvolvimento regional, constituídas ou que venham a constituir-se até 31 de Dezembro de 1988, estão isentas de quaisquer impostos incidentes sobre os rendimentos e sobre as mais-valias durante o ano da sua constituição e nos sete anos seguintes.
 
-###### Art. 2.º - 1 - Decorrido o período referido no artigo anterior, é aplicável às mesmas sociedades o regime fiscal estabelecido na alínea b) do artigo 42.º do Código da Contribuição Industrial, n.º 1.º do artigo 10.º do Código do Imposto de Capitais e no artigo 6.º do Código do Imposto de Mais-Valias para as sociedades cuja actividade consista na mera gestão de uma carteira de títulos.
+Art. 2.º - 1 - Decorrido o período referido no artigo anterior, é aplicável às mesmas sociedades o regime fiscal estabelecido na alínea b) do artigo 42.º do Código da Contribuição Industrial, n.º 1.º do artigo 10.º do Código do Imposto de Capitais e no artigo 6.º do Código do Imposto de Mais-Valias para as sociedades cuja actividade consista na mera gestão de uma carteira de títulos.
 
 2 - O regime fiscal definido no número anterior é extensivo às aplicações das sociedades de desenvolvimento regional em sociedades por quotas com sede e direcção efectiva em Portugal.
 
-###### Art. 3.º - 1 - Podem ainda as referidas sociedades, decorrido igualmente o período mencionado no artigo 2.º, deduzir ao lucro tributável em contribuição industrial, nos três exercícios imediatos ao do reinvestimento, os lucros levados a reservas e que sejam reinvestidos nos três anos seguintes em participações de capital social no âmbito da sua actividade.
+Art. 3.º - 1 - Podem ainda as referidas sociedades, decorrido igualmente o período mencionado no artigo 2.º, deduzir ao lucro tributável em contribuição industrial, nos três exercícios imediatos ao do reinvestimento, os lucros levados a reservas e que sejam reinvestidos nos três anos seguintes em participações de capital social no âmbito da sua actividade.
 
 2 - A dedução prevista no número anterior deverá ser escalonada pelo período de três anos a que respeita, podendo a parte que não possa deduzir-se num determinado ano por insuficiência de matéria colectável ser deduzida nos anos seguintes, não podendo, em qualquer caso, ultrapassar o terceiro ano do respectivo período.
 
-###### Art. 4.º As sociedades de desenvolvimento regional gozarão ainda dos seguintes benefícios fiscais:
+Art. 4.º As sociedades de desenvolvimento regional gozarão ainda dos seguintes benefícios fiscais:
 
 a) Consideração como custo para determinação do lucro tributável em contribuição industrial, a título de remuneração convencional do capital, do produto dos capitais próprios por uma taxa igual à taxa do desconto do Banco de Portugal, deduzida de quatro pontos percentuais;
 
@@ -114,16 +138,16 @@ b) Dedução ao lucro tributável em contribuição industrial dos ganhos obtido
 
 c) Isenção do imposto do selo a que se refere o n.º 2 do artigo 120-A da Tabela Geral do Imposto do Selo.
 
-###### Art. 5.º Serão anuladas oficiosamente as contribuições e impostos porventura já liquidados às sociedades de desenvolvimento regional já constituídas à data da entrada em vigor deste diploma, com excepção do imposto do selo, cuja restituição deverá ser requerida ao Ministro das Finanças para efeitos do artigo 255.º do Regulamento do Imposto do Selo.
+Art. 5.º Serão anuladas oficiosamente as contribuições e impostos porventura já liquidados às sociedades de desenvolvimento regional já constituídas à data da entrada em vigor deste diploma, com excepção do imposto do selo, cuja restituição deverá ser requerida ao Ministro das Finanças para efeitos do artigo 255.º do Regulamento do Imposto do Selo.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 8 de Março de 1988.**
+Promulgado em 8 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Março de 1988.**
+Referendado em 9 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

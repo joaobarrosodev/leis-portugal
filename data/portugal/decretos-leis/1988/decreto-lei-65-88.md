@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1988-287459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ed6858dedbf76dae05f2e9be58820d9affb5aa1259e18547084c73a399de979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16ca3486542859b6b38d45638de7526bf9ee6e36328cd37df48c53ec5b2949a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armazenagem
+- Direcção Geral das Alfândegas
+- Mercadoria
+- Orgânica
+- Reforma Aduaneira
+- Terminal de Carga
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:16Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +100,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 136.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passa a ter a seguinte redacção:
+Artigo único. O artigo 136.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passa a ter a seguinte redacção:
 
-###### Art. 136.º Na falta de depósitos de trânsito, podem as mercadorias em trânsito ser recebidas em depósitos reais, especiais de caminho de ferro, terminais TIR, aeroportuários, de carga para as mercadorias transportadas por via marítima e depósitos gerais francos, tomando-se as necessárias cautelas de modo a ser observado o regime aduaneiro de trânsito, devendo a sua arrumação fazer-se em separado quando se trate de depósitos gerais francos.
+Art. 136.º Na falta de depósitos de trânsito, podem as mercadorias em trânsito ser recebidas em depósitos reais, especiais de caminho de ferro, terminais TIR, aeroportuários, de carga para as mercadorias transportadas por via marítima e depósitos gerais francos, tomando-se as necessárias cautelas de modo a ser observado o regime aduaneiro de trânsito, devendo a sua arrumação fazer-se em separado quando se trate de depósitos gerais francos.
 
 § único ...
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1988. - Aníbal António Cavaco Silva Miguel - José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 18 de Fevereiro de 1988.**
+Promulgado em 18 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Fevereiro de 1988.**
+Referendado em 22 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

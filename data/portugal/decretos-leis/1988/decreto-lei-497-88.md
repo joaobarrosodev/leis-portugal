@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1988, 7º Suplemento, Série I de 1988-12-30
   number: '301'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 5146-(562) a 5146-(579)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30107/05620579.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,195 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 676ddbdf46235cc0520f5c126eaf9860ec4470b07befacf2296c8652437a811e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6612a47b5a61af9bcf3a4987d5a28d4bc4a4b0489fac103e8c9b3b02c3572a26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Doença
+- Faltas
+- Férias
+- Função Pública
+- Funcionário Público
+- Junta Médica
+- Licença sem Vencimento
+- Tempo de Serviço
+- Verificação da Doença
 relationships:
 - type: amended_by
   target: pt:dre:138777:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484985:por
+  label: "Alterados os arts. 7º, 17º, 20º, 27º, 31º, 32º, 33º, 34º, 35º, 36º, 90º, e aditado o art. 100-A, pelo DEC LEI.178/95.1995.07.26.MF,\
+    \ DR.IS-A [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1995-484985
+  date: '1995-07-26'
+- type: amended_by
+  target: pt:dre:475476:por
+  label: "Alterados os arts. 2º, 3º e 4º pelo DEC LEI.101-A/96.1996.07.26.PCM, DR.IS-A [172]Supl\0upl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-a-1996-475476
+  date: '1996-07-26'
+- type: cites
+  target: pt:dre:141245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669981:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348501:por
+  label: Rectificado pela DECL.DD1267.1989.03.20.PCM, DR.IS [75]Supl de 31/Mar/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348501
+  date: '1989-03-20'
+- type: repealed_by
+  target: pt:dre:138777:por
+  label: "Revogado o presente diploma, rectificado pela Decl DD1267, de 31-Mar 1989, na redacção do Dec Lei 178/95, de 26-Jul\
+    \ e do Dec Lei 101-A/96, de 26 de Jul, pelo DEC LEI.100/99.1999.03.31.PCM, DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1999-138777
+  date: '1999-03-31'
 article_structure:
   article_count: 109
   section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:51Z'
   warnings: []
   errors: []
 ---
@@ -1128,12 +1283,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1988. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Francisco Valente de Oliveira - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 30 de Dezembro de 1988.**
+Promulgado em 30 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1988.**
+Referendado em 30 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17855-1960-501825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3445dd3e786204858ca6a1804bcabe518db4885b2d9b6265a4cd1128fbd3ee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f285e64b375a4c3319cf3193a5a6650ec4b300241cc6b1c76cf1ec6ecf61e563
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:33Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ Ministério da Educação Nacional, 23 de Julho de 1960. - Pelo Ministro da Educ
 
 Regulamento para a concessão do Prémio Marconi
 
-###### Artigo 1.º Será anualmente distribuído, tanto no Instituto Superior Técnico como na Faculdade de Engenharia da Universidade do Porto, um prémio de 5000$00, designado por «Prémio Marconi», oferecido pela Companhia Portuguesa Rádio Marconi.
+Artigo 1.º Será anualmente distribuído, tanto no Instituto Superior Técnico como na Faculdade de Engenharia da Universidade do Porto, um prémio de 5000$00, designado por «Prémio Marconi», oferecido pela Companhia Portuguesa Rádio Marconi.
 
-###### Art. 2.º Este prémio será atribuído ao licenciado em Engenharia Electrotécnica por cada um dos referidos estabelecimentos de ensino superior que tiver a maior classificação média nas cadeiras de Electrónica Aplicada (5.º ano), Telecomunicações I (5.º ano) e Telecomunicações II (6.º ano), desde que essa classificação média seja no mínimo igual a 16 valores e a informação final do seu curso não seja expressa por nota inferior a 14 valores (valorização arredondada nos termos da lei).
+Art. 2.º Este prémio será atribuído ao licenciado em Engenharia Electrotécnica por cada um dos referidos estabelecimentos de ensino superior que tiver a maior classificação média nas cadeiras de Electrónica Aplicada (5.º ano), Telecomunicações I (5.º ano) e Telecomunicações II (6.º ano), desde que essa classificação média seja no mínimo igual a 16 valores e a informação final do seu curso não seja expressa por nota inferior a 14 valores (valorização arredondada nos termos da lei).
 
 § 1.º A existência de reprovações durante o curso exclui a atribuição do prémio referido no artigo anterior.
 
 § 2.º Independentemente das mencionadas classificações, o citado prémio só será atribuído mediante parecer favorável do conselho escolar do estabelecimento de ensino de que se trate.
 
-###### Art. 3.º O Instituto Superior Técnico de Lisboa e a reitoria da Universidade do Porto comunicarão à Companhia Portuguesa Rádio Marconi, até 31 de Dezembro de cada ano, o nome do respectivo licenciado que tenha completado o curso no ano escolar anterior e esteja nas condições mencionadas no artigo 2.º, indicando as respectivas classificações nas três cadeiras ali referidas, a informação final do curso e o parecer do respectivo conselho escolar sobre a atribuição do prémio.
+Art. 3.º O Instituto Superior Técnico de Lisboa e a reitoria da Universidade do Porto comunicarão à Companhia Portuguesa Rádio Marconi, até 31 de Dezembro de cada ano, o nome do respectivo licenciado que tenha completado o curso no ano escolar anterior e esteja nas condições mencionadas no artigo 2.º, indicando as respectivas classificações nas três cadeiras ali referidas, a informação final do curso e o parecer do respectivo conselho escolar sobre a atribuição do prémio.
 
 § único. Se esta comunicação se não fizer durante o prazo indicado, poderá a Companhia Portuguesa Rádio Marconi não conceder o prémio correspondente.
 
-###### Art. 4.º A Companhia Portuguesa Rádio Marconi pode suspender em qualquer altura a concessão do prémio referido no artigo 1.º, avisando do facto o Instituto Superior Técnico e a reitoria da Universidade do Porto, até 30 dias antes do início do ano lectivo.
+Art. 4.º A Companhia Portuguesa Rádio Marconi pode suspender em qualquer altura a concessão do prémio referido no artigo 1.º, avisando do facto o Instituto Superior Técnico e a reitoria da Universidade do Porto, até 30 dias antes do início do ano lectivo.
 
 Nesse caso as disposições deste regulamento deixarão de se aplicar aos alunos que nesse ano lectivo e nos seguintes se matricularem nas cadeiras do 5.º ano mencionadas no artigo 2.º
 

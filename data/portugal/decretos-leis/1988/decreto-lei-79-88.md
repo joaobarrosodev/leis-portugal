@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/05700/08240825.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1988-287401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31d7e559b1f55ea8ebcffa717397e8eaa60951d9c781367dc51712558dcf90fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9287218689f5ed22f2f6f951dd600b6e32f3d8c9f0532eb07382823380be9461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Viabilização
+- Empresa Privada
+- Empresa Pública
+- Parempresa-Sociedade Parabancária para a Recuperação de Empresas
+- Viabilidade Económica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:37Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +110,16 @@ Considerando que se mantém o condicionalismo determinante das sucessivas prorro
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É prorrogado até 31 de Dezembro de 1988 o prazo estabelecido nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 353-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-b-1977-240847), de 29 de Agosto, para as empresas aí referidas ou que venham a ser assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A., requererem a reavaliação dos bens do seu activo imobilizado corpóreo, com efeitos previstos no mesmo diploma, e bem assim os benefícios estabelecidos na demais legislação em vigor para a reavaliação nos termos daquele decreto-lei e para a incorporação das correspondentes reservas no capital das respectivas sociedades.
+Artigo único. É prorrogado até 31 de Dezembro de 1988 o prazo estabelecido nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 353-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-b-1977-240847), de 29 de Agosto, para as empresas aí referidas ou que venham a ser assistidas pela PAREMPRESA - Sociedade Parabancária para a Recuperação de Empresas, S. A., requererem a reavaliação dos bens do seu activo imobilizado corpóreo, com efeitos previstos no mesmo diploma, e bem assim os benefícios estabelecidos na demais legislação em vigor para a reavaliação nos termos daquele decreto-lei e para a incorporação das correspondentes reservas no capital das respectivas sociedades.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 25 de Fevereiro de 1988.**
+Promulgado em 25 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1988.**
+Referendado em 26 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

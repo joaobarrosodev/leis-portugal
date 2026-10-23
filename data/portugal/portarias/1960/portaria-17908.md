@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17908-1960-500448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 866381d289e86a2d191e8f658184b601d13bcff745dfcef99b950f6f87e743f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd39a02bf26c530864644610509219d4d1472cffb4ee282f3e6d11aab7a291e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:47:38Z'
   warnings: []
   errors: []
 ---
@@ -89,27 +93,27 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento, etc.» ... 200000$00
+Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento, etc.» ... 200000$00
 
-###### Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 100000$00
+Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 100000$00
 
-###### Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 400000$00
+Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 400000$00
 
-###### Artigo 4.º, n.º 3), alínea a) «Aquisições de utilização permanente - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 800000$00
+Artigo 4.º, n.º 3), alínea a) «Aquisições de utilização permanente - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 800000$00
 
-###### Artigo 5.º, n.º 1), alínea b) «Despesas de conservação e aproveitamento do material - Imóveis - Outras instalações» ... 500000$00
+Artigo 5.º, n.º 1), alínea b) «Despesas de conservação e aproveitamento do material - Imóveis - Outras instalações» ... 500000$00
 
-###### Artigo 6.º, n.º 3), alínea a) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados - Para usos industriais» ... 350000$00
+Artigo 6.º, n.º 3), alínea a) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados - Para usos industriais» ... 350000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1), alínea a) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização - Despesas das enfermarias e postos de socorros com tratamento de pessoal» ... 100000$00
+Artigo 7.º, n.º 1), alínea a) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização - Despesas das enfermarias e postos de socorros com tratamento de pessoal» ... 100000$00
 
-###### Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 300000$00
+Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 300000$00
 
-###### Artigo 10.º, n.º 4) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas e com manobras anuais, cursos e estágios» ... 1500000$00
+Artigo 10.º, n.º 4) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas e com manobras anuais, cursos e estágios» ... 1500000$00
 
-###### Artigo 11.º, n.º 3) «Outros encargos - Dotação para as escolas militares» ... 200000$00
+Artigo 11.º, n.º 3) «Outros encargos - Dotação para as escolas militares» ... 200000$00
 
 ... 4450000$00
 
@@ -117,15 +121,15 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 2150000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 2150000$00
 
-###### Artigo 2.º, n.º 1) , alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 500000$00
+Artigo 2.º, n.º 1) , alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 500000$00
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 300000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 300000$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 4), alínea a) «Material de consumo corrente - Munições - De fogo real» ... 1500000$00
+Artigo 6.º, n.º 4), alínea a) «Material de consumo corrente - Munições - De fogo real» ... 1500000$00
 
 ... 4450000$00
 
